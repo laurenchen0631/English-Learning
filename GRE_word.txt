@@ -167,7 +167,7 @@
     + bent (adj)彎曲的, 不誠實的, 同性戀的 (n)特長/天賦 = inclination = talent = aptitude
     + betray (v)背叛/不忠, 暴露/流露 = reveal = bare
     + bevy (n)(尤指婦女或女孩)一群, 某種鳥類的鳥群
-    + bewilder (v)使迷惑/使糊塗 = confuse = confound --> bewildering (adj)令人迷惑的/費解的
+    + bewilder (v)使迷惑/使糊塗 = baffle = confuse = confound --> bewildering (adj)令人迷惑的/費解的
     + beyond (prep)更遠/遠於, 超出/超過
     + bias (n)偏見/偏心/偏袒/傾向/偏好 (v)使…懷有偏見
     + bilk (v)躲債/逃避 <--> acquit = amortize, 騙取/詐騙 = defraud = swindle
@@ -210,7 +210,6 @@
     * babble (v)喋喋不休/胡言亂語 = drivel = yap (n/v)潺潺 (n)吵雜聲
     * barefaced (adj)無恥的/公然的 = shameless = brazen = audacious = blatant
     * barren (adj)貧脊的/無果的 = bleak = desolate = sterile = unproductive = unfruitful, 不孕的 = sterile <|> brazen
-    
     * baste (v)(烤肉)給...抹油脂 = anoint, 狠揍/毒打/痛斥/大罵 = lambaste
     * beat (v)打敗/搶先, 打/擊 = batter = clobber = lash, 心跳/跳動, 攪拌 = agitate = stir, 避開/預防 = avoid = avert 
     * beget (v)生(子女), 為……之生父, 引起/招致
@@ -856,7 +855,7 @@
     + facetious (adj)好開玩笑的/滑稽的 = humorous = droll = jocular
     + fallacy (n)謬誤/謬論 --> fallacious (adj)謬誤的/錯誤的 = erroneous, 騙人的/欺騙的 = misleading = fraudulent
     + fallow (adj)休耕的, 不活躍的 (n)休耕地
-    + fastidious (adj)愛挑剔的/一絲不苟的/過分嚴謹的/講究的 = meticulous <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
+    + fastidious (adj)愛挑剔的/一絲不苟的/過分嚴謹的/講究的 = meticulous --> fastidiousness <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
     + fatuous (adj)愚昧而不自知的/昏庸的 --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
     + fawn (n)未滿周歲的小鹿 (v)巴結/奉承 = faltter = blandish
     + fauna (n)動物群
@@ -905,7 +904,7 @@
     * ferment (v)使發酵 = leaven, 醞釀, 使騷動
     * fester (v)潰爛/化膿
     * feud (n)世仇/宿願, 不和/爭吵 (v)世代結仇, 爭吵 <-- foe
-    * fickle (adj)(人)反覆無常的/易變的 = capricious = mercurial, (情況)變幻莫測的/不定的 --> fickleness (n)浮躁/變化無常
+    * fickle (adj)(人)反覆無常的/易變的 = capricious = mercurial, (情況)變幻莫測的/不定的 --> fickleness (n)浮躁/變化無常 <|> feckless
     * fierce (adj)猛烈的/激烈的, 狂暴的 = truculent, 強烈的/狂熱的 = fervent, 困難的
     * fiery (adk)火一般的, 激烈的/熱烈的
     * fine (adj)好的, 尖細的, 細微的, 炫耀的
@@ -1629,7 +1628,7 @@
     ^ legend (n)地圖裡的說明文字或圖例, 傳說
     ^ levelheaded (adj)頭腦冷靜的/穩健的
     ^ lever (n)槓桿 (v)撬動/撬起
-    ^ liable (adj)易...的 --> liability (n)傾向, 責任/義務, 債務 = obligation = debt
+    ^ liable (adj)易...的 --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
     ^ liaison (n)聯絡/聯繫/私通 <-- ligate
     ^ lien (n)扣押權/留置權
     ^ liken (v)把……比作 = compare to <-- like
@@ -1891,7 +1890,6 @@
     + necromancy (n)巫術/妖術 = black magic
     + nepotism (n)偏袒親戚/任人唯親 <-- nephew
     + nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke
-    + neutralize (v)抵消/使失效 = counteract, 使中和
     + noisome (adj)惡臭的 = fetid, 令人不快的 = offensive = disgusting = harmful <-- noi 討厭 = annoy + some
     + novel (adj)新穎的/新奇的 (n)小說 --> novelty (n)新穎/新奇(的事物)
     + novice (n)新手/初學者 = neophyte = fledgling
@@ -1936,7 +1934,6 @@
     ^ nomad (n)流浪者 = wanderer, 遊牧部落的人 --> nomadic (adj)遊牧的
     ^ notch (n)刻痕/凹口
     ^ nova (n)新星
-    ^ novelty (n)
     ^ nubile (adj)適婚年齡的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
     ^ nut (n)堅果/核果, 難事/難題, 螺母/螺帽 
     ^ nucleate (adj)有核的 (v)使集結/使成核
@@ -3243,6 +3240,7 @@
     ^ unction (n)塗油/油膏 --> unctuous (adj)油質的 = fatty, 油腔滑調的 = oily <-- unct 塗油 = anoint, smear + ous
     ^ unguent (n)藥膏/軟膏 = ointment <-- ungu 油 = grease + ent
     ^ usurp (v)篡奪/霸佔 <|> usury
+    ^ utensil (n)（尤指廚房或家用的）器具/用具 = instrument = vessel <-- use
     ^ utilitarian (adj)功利主義的, 功利的/實用的
 
 [V]

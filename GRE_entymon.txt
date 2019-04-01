@@ -1807,7 +1807,7 @@
         2. 附帶 = in addition to
             - epiphenomenon (n)附帶現象
             - episode (n)一個事件, 一節, 一集 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
-            - epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)概括, 代表/象徵 <-- epi + tome 卷/冊 
+            * epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)概括, 代表/象徵 <-- epi + tome 卷/冊 
 
         3. 後 = after
             - epilogue
@@ -1873,6 +1873,7 @@
         - ethnology (n)民族學/文化人類學
         + ethnocentric (adj)民族中心主義的/種族優越的
         - ethnocentrism (n)民族優越感
+        - ethnomusicology (n)民間音樂
 
     empt 買/獲取/拿 = buy, obtain, take
         * exempt (v)免除/豁免 = immune (adj)被免除的
@@ -2718,7 +2719,7 @@
             - implore
             - import (v)進口, 輸入 (n)進口, 意義
             - importune (v)強求, 不斷請求 <-- im + (op)portune
-            - impose
+            * impose
             - imposing
             - impostor --> imposture
             - impoverish (v)使貧窮 <-- im + pover(ty) + ish
@@ -3313,6 +3314,7 @@
         - commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
         - committal (n)委任/託付, 承諾, 義務, 拘押, 犯罪
         + demit (v)辭職/退職 --> dismiss (v)解僱, 遣散/解散, 駁回 = reject, 摒棄
+        * dismissal (n)解僱, 駁回
         - demise (n)死亡, 財產轉讓
         - emissary (n)特使/密使, 間諜 (adj)密使的, 間諜的
         - emit (v)放射/發出, 發行 --> emission (n)放射/發出, 排放物/放射物
@@ -3429,7 +3431,7 @@
 
     mod, mode 方式/限制 = manner, limit
         - mode (n)樣式/時尚, 方法/做法/模式, 形式/種類/風格
-        - modest (adj)謙虛的, 審慎的, 適度的/不太大或多的, 端莊的/穩重的
+        * modest (adj)謙虛的, 審慎的, 適度的/不太大或多的, 端莊的/穩重的
         - moderate (adj)中等的/適度的 = modest, 溫和的/不偏激的, 一般的/平庸的
         + modicum (n)少量
         - modify (v)修改/變更
@@ -3656,6 +3658,7 @@
         - neutral (adj)中立的/中性的, 不確定的 (n)中立者/中立國
         + neutralize (v)抵消/使失效 = counteract = nullify, 使中和
         - neutron (n)中子
+        - neutrino (n)微中子
 
     nex, nect 連接 = bind == arthr == junct
         - annex (v)(武力或擅自)併吞 --> annexation
@@ -4630,7 +4633,7 @@
         - impressionable (adj)易受影響的
         + oppress (v)壓迫/壓制, 使..煩惱/焦慮 --> oppressive (adj)壓迫的, 令人焦躁的, 悶熱的 = muggy = stifling
         + press (v)擠壓 --> pressing (adj)緊迫的/迫切的, 懇切要求的
-        + repress (adj)抑制/壓制/鎮壓/平息 --> repressed (adj)被壓制讀/被壓抑的
+        + repress (adj)抑制/壓制/鎮壓/平息 --> repressed (adj)被壓制的/被壓抑的 --> repressive (adj)抑制的/壓制的
         + suppress (v)鎮壓/壓制 = quell = quash, 抑制/忍住/壓抑/查禁 = ban
     
     promise 保證
