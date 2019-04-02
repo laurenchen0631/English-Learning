@@ -168,6 +168,7 @@
     + bevy (n)(尤指婦女或女孩)一群, 某種鳥類的鳥群
     + bewilder (v)使迷惑/使糊塗 = baffle = confuse = confound --> bewildering (adj)令人迷惑的/費解的
     + beyond (prep)更遠/遠於, 超出/超過
+    + besiege (v)圍攻 = beleaguer, 困擾 = beleaguer = harass = distract
     + bias (n)偏見/偏心/偏袒/傾向/偏好 (v)使…懷有偏見
     ++ bilk (v)躲債/逃避 <--> acquit = amortize, 騙取/詐騙 = defraud = swindle
     * bland (adj)溫和的 = agreeable = gentle, 沒精打采的/無生氣的/冷淡的 = indifferent, 無味的 = watery, 乏味的 = banal = dull = dreary = insipid
@@ -386,7 +387,7 @@
     + cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle
     + callow (adj)(尤指年輕人)不成熟的/缺乏經驗的 = immature = inexperienced
     + callus (n)(手腳上的)老繭 --> callous (adj)結硬塊的, 無情的/無同情心的 = insensitive = indifferent <-- callus
-    + calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate <|> clumsy
+    + calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = denigrate <|> clumsy
     + canard (n)虛假新聞/謊報/假消息
     + canny (adj)謹慎的 = careful = cautious = prudent, 精明的 = shrewd = astute, 節儉的 = frugal = thrifty, 狡詐的
     + canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
@@ -458,7 +459,6 @@
     + cunning (adj)狡猾的/狡詐的 = crafty = sly, 靈巧的 = ingenuous = shrewd  (n)狡猾/奸巧, 靈巧/熟練 = dexterity = adeptness
     + cupidity (n)貪心/貪婪 = covet (v) = avarice = greed <-- cup 渴望 + idity
     + curmudgeon (n)脾氣暴躁之人 = grouch
-    + curtail (v)減少/縮減 = abridge = reduce = diminish
     + customary (adj)習慣的 = usual = habitual, 合乎習俗的/傳統的 = traditional = conventional
 
     * calamity (n)災難/災禍 = disaster = tragedy = adversity = cataclysm = catastrophe = mishap = scourge = woe
@@ -620,10 +620,16 @@
     ^ cudgel (n)短棍 (v)用棍棒打
 
 [D]
+    + damp (v)減弱 (adj)潮濕的 = humid --> damped (adj)減震的 --> dampen (v)(使)潮濕, 使平靜/潑冷水 = depress 
     + daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <-- tame <|> flaunt <|> gaunt <|> taunt <|> vaunt
-    + dearth (n)短缺/缺乏 = scarcity
+    + dearth (n)短缺/缺乏 = scarcity = lack, 飢荒 = famine
+    + debilitate (v)使虛弱/削弱 = enfeeble = attenuate = vitiate <-- debilit 虛弱 = weak + ate
+    + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
     + denizen (n)居民 = inhabitant, 外籍居民 <-- deniz 裡面 = within + en
+    + deny (v)拒絕 = refuse = withhold
     + desuetude (v)廢止 = disuse <-- de + sue 習慣 = accustom + tude
+    + detriment (n)損害/危害 = loss = damage = injury --> detrimental (adj)有危害的 = damaging = harmful
+    + didactic (adj)道德教誨的, 教訓的/說教的 <-- didact 被教 = taught + ic
     + dilatory (adj)拖延的/遲緩的/磨蹭的 <-- delay <-- differ
     + dilettante (n)一知半解者/半吊子/業餘愛好者 = amateur <-- delight
     + dirge (n)哀歌/輓歌 = elegy = funeral hymn
@@ -631,26 +637,25 @@
     + dither (n/v)慌亂/緊張, 躊躇/猶豫 (n)顫抖
     + doff (v)脫掉 <-- do + off
     + doggerel (adj)拙劣的 (n)打油詩/拙劣的詩
-    + dogma (n)(宗教的)教條/信條 = doctrine --> dogmatic (adj)武斷的/固執己見的 = assertive, 教條的 --> dogmatism (n)教條主義, 武斷
+    + dogma (n)(宗教的)教條/信條 = doctrine --> dogmatic (adj)武斷的/固執己見的 = assertive = opinionated, 教條的 --> dogmatism (n)教條主義, 武斷
     + dovetail (v)銜接/吻合 (n)鳩尾榫/楔形榫 <-- dove 鴿子 + tail 尾巴
-    + droll (adj)滑稽的/離奇好笑的 = facetious <-- [德]小胖子 = fat little man
+    + downplay (v)貶低/輕視 = belittle
+    + draw (n/v)平手, 吸引/引起, 作（比較）, 畫
+    + droll (adj)滑稽的/離奇好笑的 = facetious --> drollness <-- [德]小胖子 = fat little man
     + dross (n)浮渣, 渣滓/廢物 <-- dregs
-    + dupe (v)誘騙/欺騙 = deceive = delude = trick = hoodwink (n)被欺騙的人, 容易受騙的人 
+    + dubious (adj)可疑的 = suspicious, 名聲不好的, 曖昧的/含糊的, 無把握的 <-- doubt
+    + dupe (v)誘騙/欺騙 = deceive = delude = trick = hoodwink (n)被欺騙的人, 容易受騙的人
+    + dwindle (v)變小/衰退 = degenerate <|> swindle
+
 
     * dealing (n)商業往來, 作風 = manner = conduct
     * decadent (adj)墮落的/頹廢的, 衰落的
-    * decay (v)腐蝕, 使衰弱/使衰敗 = wither = blight (n)腐蝕, 衰敗/衰弱
     * decent (adj)合乎禮儀的/恰當的, 體面的/像樣的/足夠的 = adequate = fair, 親切的/寬容的 = kind = obliging = generous, 值得尊敬的 = respectable = worthy,
     * deed (n)行為 = action, 所有權證書
-    * defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
-    * degrade (v)貶低/侮辱…的人格 = abase, 玷污/損害/危害 = spoil, 自然分解
     * delicate (adj)脆弱的/纖細的, 精緻的 = dainty, 精密的, 柔和的 --> delicacy (n)細嫩, 細緻/優雅
     * delight (v)使滿足/使高興 (n)欣喜/滿足 --> delectable (adj)美麗的, 愉悅的, 美味的
-    * deteriorate (v)惡化 =  = aggravate = exacerbate
     * devise (v)發明/設計 = contrive = concot, 謀劃/策劃, 遺贈給 <-- device
     * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
-    * discourage (v)使洩氣/潑冷水 = daunt = dishearten
-    * dishearten (v)使洩氣/使沮喪 = daunt = discourage
     * dismal (adj)悲傷絕望的, 十分糟糕的 = abysmal
     * disobedient (adj)不服從的/不聽話的 = contumacious = rebellious
     * disorder (n)混亂/淩亂, 失調/紊亂, (政治)暴亂/動亂/騷亂 = anarchy
@@ -671,7 +676,6 @@
     
     
     ^ dally (v)閒蕩 = loiter, 嬉戲
-    ^ damp (v)減弱 (adj)潮濕的 = humid --> damped (adj)減震的 --> dampen (v)(使)潮濕, 使平靜/潑冷水 = depress 
     ^ dandy (n)花花公子 (adj)非常好的
     ^ daredevil (adj)大膽的/冒失的 = bold = reckless (n)大膽的人/冒失的人
     ^ dart (n)鏢, 皺褶, 飛快突然的動作 (v)飛奔 = bolt, 射/投
@@ -682,10 +686,8 @@
     ^ daft (adj)愚蠢的 <--> deft
     ^ descry (v)看見/辨認出/發現 <-- proclaim
     ^ despot (n)暴君 <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
-    ^ detriment (v)損害/危害 --> detrimental (adj)有危害的
     ^ devout (adj)虔誠的, 忠心的 <-- devote
     ^ diabolical (adj)惡毒的/狠毒的, 糟糕透頂的 <-- diabol 惡魔 = devil + ic
-    ^ didactic (adj)道德教誨的, 教訓的/說教的 <-- didact 被教 = taught + ic
     ^ die (n)金屬模子/鋼模/印模 (v)死亡
     ^ die-hard (n)頑固份子
     ^ digit (n)手指/腳趾, 數字
@@ -708,7 +710,6 @@
     ^ doodle (v)亂畫, 殺時間
     ^ douse (v)把……浸入水中, 熄滅 = extinguish
     ^ down (n)羽絨, 汗毛/絨毛 (adv/prep)下 (v)擊敗, 一口氣吃下 (adj)情緒低落的
-    ^ downplay (v)貶低/低估 = belittle
     ^ downpour (n)暴雨
     ^ doyen (n)老前輩
     ^ drab (adj)土褐色的, 無聊的
@@ -729,19 +730,15 @@
     ^ drought (n)乾旱 <-- dry
     ^ drove (n)畜群, 人群 <-- driven
     ^ drudge (v)做苦工 (n)做苦工的人 --> durdgery (n)苦工/苦差事 <-- [拉丁]工作 = work
-    ^ dubious (adj)可疑的 = suspicious, 名聲不好的, 曖昧的/含糊的, 無把握的 <-- doubt
     ^ dummy (n)假人, 仿製品, 橡皮奶嘴, 傻瓜 (adj)假的
     ^ dune (n)沙丘
     ^ dwarf (n)侏儒 (adj)極小的 (v)使…顯得矮小
-    ^ dwindle (v)變小 <|> swindle
 
     ^ dank (adj)濕冷的
     ^ dump (v)扔下/丟下, 拋棄/亂扔, 傾銷, 甩掉/拋棄(戀人) (n)垃圾場/垃圾堆, 軍需品存放處
     ^ dispensary (n)配藥室
     ^ deplorable (adj)極其惡劣的 = egregious = atrocious
-    ^ distaste (n) 厭惡/討厭 = antipathy = animosity
     ^ debacle (n)(尤指因計劃和組織不周而導致的) 徹底失敗/一敗塗地 = fiasco
-    ^ debilitate (v)使虛弱/削弱 = attenuate = vitiate
     ^ deft (adj)熟練的/巧妙的/靈巧的 = adroit = adept = acute
     ^ drivel (v)胡說/瞎扯/廢話 = babble
     ^ desolate (adj)荒涼的/無人煙的 = bleak, 傷心寂寞的
@@ -907,8 +904,8 @@
     * fatigue (n)疲勞/勞累 (v)使疲勞 --> fatigued (adj)疲乏的 --> fatigable (adj)易疲勞的
     * favorable (adj)贊同的/稱讚的, 有利的/順利的/適合的 = propitious
     * feasance (n)履行/義務 <-- feas 做 = do + ance
-    * feeble (adj)虛弱的 = wan, 軟弱的
-    * feign (v)假裝 <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
+    * feeble (adj)虛弱的 = wan = debilitated, 軟弱的
+    * feign (v)假裝 = dissemble <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
     * ferment (v)使發酵 = leaven, 醞釀, 使騷動
     * fester (v)潰爛/化膿
     * feud (n)世仇/宿願, 不和/爭吵 (v)世代結仇, 爭吵 <-- foe
@@ -1285,8 +1282,7 @@
     * hack (v)亂劈/亂砍 (n)僱傭文人, 出租馬車 (adj)陳腐的/用舊的
     ^ hackney (n)出租馬車/出租汽車 (v)役使/出租
     * hackneyed (adj)陳腐的/不新奇的 = trite = banal = stale = clichéd
-    * harass (v)侵擾/煩擾 = annoy
-    * harass (v)騷擾/使煩惱/打擾 = badager = pester = beleaguer = besiege = plague <|> harsh
+    * harass (v)騷擾/使煩惱/打擾 = badager = pester = beleaguer = besiege = plague = distract <|> harsh
     * hardship (n)艱苦/困難
     * harsh (adj)令人不快的 = grating, 嚴酷的/嚴厲的 = severe = acerbic = austere, 刺眼的/刺耳的/刺激的, 粗糙的 <|> harass --> harshly (adv)嚴酷地/無情地
     * hasten (v)催促/促進 = accelerate --> hasty (adj)急急忙忙的/匆忙的
@@ -1301,7 +1297,7 @@
     * hermit (n)隱士/修道者 = recluse
     * hide (n)獸皮, 藏身處 (v)隱藏 <|> chide
     * highbrow (n)自詡為學識高的人 <|> middlebrow <|> lowbrow
-    * hinder (v)阻礙/妨礙 = impede
+    * hinder (v)阻礙/妨礙 = impede = retard = delay
     * hitherto (adv)到目前為止 = until now
     * hoard (n/v)儲藏/秘藏 = stockpile
     * hoax (n/v)騙局/欺騙 = fraud <|> coax
@@ -3015,7 +3011,7 @@
     + tantalize (v)挑逗/吊人胃口
     + tantamount (adj)與...相等的
     + tawdry (adj)花俏而庸俗的/俗麗的/華而不實的 = gaudy = cheap = cheap-looking = indecent
-    + tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔 --> taxing (adj)繁重的 = burdensome
+    + tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔 --> taxing (adj)繁重的 = burdensome = demanding
     + technical (adj)工藝的/技術的/專門的/工業的, 根據法律的
     + tedious (adj)冗長乏味的/沈悶的 --> tedium (n)單調乏味/無聊 = boredom
     + temper (v)鍛鍊/錘鍊, 緩和/使溫和 (n)性情/脾氣, 暴躁/怒氣, 傾向/趨勢
@@ -3030,7 +3026,7 @@
     + thrill (v)使興奮/使激動 --> thrilled (adj)非常興奮的/極為激動的
     + thrive (v)茁壯成長/興旺/繁榮 = bloom
     + throwback (n)返祖現象/復舊
-    + thwart (v)阻撓/反對/使受挫
+    + thwart (v)阻撓/反對/使受挫 = defeat = deter
     + toad (n)蟾蜍/癩蛤蟆, 令人討厭的人/卑鄙小人 --> toady (n)諂媚者/馬屁精 = flattere = sycophant (v)諂媚/奉承
     + token (n)標記/標誌 = sign = symbol = mark, 紀念品 = souvenir = memento (adj)作為標記的/象徵性的 (v)表示/象徵
     + toll (n)通行費/使用費, 損失/傷亡人數 (v)緩慢而反覆地敲響, 徵收(税或通行費) <|> toil
@@ -3059,7 +3055,7 @@
     + turbid (adj)渾濁的/汙濁的 = muddy = opaque, 思想混亂的/紊亂的 = confused
     + turbulent (adj)騷亂的/動蕩的/混亂的 = chaotic, 猛烈的/洶湧的 --> turbulence (n)騷亂/動盪/混亂, 湍流/亂流 <-- turb 混亂 = turmoil +ulent 
     + turgid (adj)浮腫的/腫脹的 = swollen = inflated, 浮誇的 = pompous <-- tugr 腫漲 = swell + id
-    + turpitude (n)腐化/邪惡/墮落 = depravity <-- turpi 卑鄙的 = base, vile + tude
+    + turpitude (n)腐化/邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
     + tutelage (n)保護/監護/指導 --> tutelary (adj)守護的/監護的 <-- tutel 監看 = watch + age
     + tyranny (n)暴政/專制統治, 暴行 --> tyrant (n)暴君
     + tyro (n)新手 = beginner
@@ -3362,6 +3358,7 @@
     * wicked (adj)邪惡的/惡毒的, 頑皮的, 很棒的
     * wieldy (adj)易使用的/易操作的, 有能力的/能力強的
     * wither (v)枯萎/乾枯/凋謝 = blight = wizen = shrivel, 萎縮/逐漸消失 --> withered (adj)枯萎的/凋謝的, 憔悴的
+    * withhold (v)拒絕給予 = deny = decline, 扣留/保留
     * woe (n)困難/災難/不幸 = calamity, 悲傷/悲哀 --> woeful (adj)極壞的/極糟糕的 = abysmal = egregious, 極為悲哀的/極為悲傷的 = pathetic
     * wont (n/v)慣於/習慣 --> wonted (adj)習慣的/平常的/慣例的
     * wordy (adj)嘮叨的 = talkative = garrulous = verbose, 冗長的, 文字的
@@ -3414,7 +3411,6 @@
     ^ windy (adj)有風的, 吹牛的/空談的
     ^ wink (n/v)使眼色/眨眼, 閃耀/閃爍 (v) 假裝不見/故意忽視
     ^ winnow (v)把
-    ^ withhold (v)扣留/保留
     ^ witness (n)目擊者 = beholder, 見證人 (v)看見/目擊 = behold, 簽名作證/連署, 發生, 證明/表明 = attest = corroborate = substantiate
     ^ witticism (n)名言/妙語, 俏皮話 <-- wit
     ^ wobble (v)動搖/猶豫
