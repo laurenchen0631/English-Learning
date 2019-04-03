@@ -326,16 +326,16 @@
         + archaeology, archeology (n)考古學
         + archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
 
-    arch, archi
+    arch, archi, archy
         1. 主要的/多 = first, principal
             - archipelago (n)群島
             - archive (n)檔案室 --> archives (n)檔案
             - architect (n)建築師 --> architecture (n)建築
 
-        2. archy, arch 統治 = chief, leader, ruler
+        2. 統治 = chief, leader, ruler
             + anarchy (n)無政府, 政治上的混亂 = disorder
             - monarch
-            - hierarchy
+            + hierarchy --> hierarchical
             + oligarchy
 
     ard, ars, arsen 火/熱 = burn == flagr == caus
@@ -772,6 +772,7 @@
         + precursor (n)先驅/先兆 = forerunner = predecessor
         + procure (v)取得/獲得 = obtain = acquire --> procurement (n)獲得/取得/採購
         - recur (v)再發生/復發, 重提
+        * recourse (v)求助/依靠
         + succor (n/v)救濟/援助 = relief = help
 
     cur 關心 = care, cure
@@ -789,7 +790,7 @@
         + declaim (v)大聲宣佈/高談闊論 --> declamation (n)大聲宣佈/高調/雄辯
         - disclaim (v)放棄權力 = renounce, 拒絕承認/否認 = refuse = deny
         - exclaim (v)驚叫/呼喊 --> exclamation (n)驚叫, 感歎句/感歎詞
-        + proclaim (v)聲明/宣布 = announce = affirm, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
+        + proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
         - reclaim (v)使改過/使悔改/糾正, 開墾/開拓 (n)提取行李
 
     celer 速度
@@ -1266,7 +1267,7 @@
         - concubine (n)妾
         - incumbent (adj)負有職責的, 現任的/在職的 (n)現任者/在職者
         + cumber (v)拖累/妨礙 --> cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的 = unwieldy = clumsy
-        + encumber (v)妨礙 = impede = hinder = retard = cumber, 塞滿 = block up = fill, 負擔/重擔 = burden
+        + encumber (v)妨礙 = impede = hinder = retard = cumber = hamper, 塞滿 = block up = fill, 負擔/重擔 = burden
         - recumbent (adj)斜躺的/側臥的, 休息的 = resting
         + succumb (v)屈從, 因...死亡
 
@@ -1930,7 +1931,7 @@
         * entangle (v)捲入/連累, 使纏住
         + enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
         + entertain
-        - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的
+        - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
         + entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) <-- en + trench
         + entitle (v)使有權(做某事), 取名
         - entreat (v)懇求/哀求 --> entreaty (n)懇求/哀求
@@ -2173,7 +2174,7 @@
         - refection (n)便餐/點心/茶點, （靠飲食等）恢復體力
         - refectory (n)學院餐廳/食堂
         - sacrifice
-        + surfeit (n)過量/過度 (v)使過量
+        + surfeit (n)過量/過度 = glut (v)使過量
         - suffice (v)足夠/滿足 --> sufficient (adj)足夠的/充分的
 
     fer, fert 帶著/帶來 = carry, bear
@@ -2410,9 +2411,10 @@
 
     grand, grandi 大 = great, large
         + aggrandize (v)增大/擴大, 吹捧 = acclaim
-        - grandeur (n)宏偉/壯麗
+        + grandeur (n)宏偉/壯麗
         - graniose (adj)宏偉的, 浮誇的/誇張的 = grandiloquent
         + grandiloquent (adj)誇張的/浮誇的 = pompous = bombastic = pretentious = exaggerate (v)
+        + grandiose (adj)自以為是的 = pompous, 華而不實的/浮誇的/誇張的 = overblown = pompous --> grandiosity (n)浮誇
         + grandstand (n)大看台 (v)譁眾取寵
 
     grav, griev 重/沈重 = heavy
@@ -2476,7 +2478,7 @@
 
     grat 高興/愉悅/感謝 = please, thankful
         - grateful (adj)感激的 <|> grate
-        - gratify (v)使高興/使滿意/使滿足 --> gratification (n)喜悅/滿足
+        + gratify (v)使高興, 使滿意/使滿足 = satisfy = indulge = humor --> gratification (n)喜悅/滿足 --> gratifying (adj)愉悅的/令人滿足的 = pleasing
         - gratitude (n)感激 = thankfulness
         - gratulate (v)祝賀 --> gratulant (adj)祝賀的
         * gratuity (n)打賞/小費 --> gratuitous (adj)無理由的/無端的, 免費的/無償的
@@ -2495,20 +2497,20 @@
     gender, gener, gen, genu 產生/生/種類 = beget, born
         + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate
         + eugenics (n)優生學
-        - general (adj)一般的, 普遍的/全體的, 將軍級的
+        - general (adj)一般的 = generic, 普遍的/全體的, 將軍級的
         - generality (n)概述
         - generalize (v)歸納
         - generate (v)造成/引起, 產生（熱，電，光等）
         - generation (n)一代人, 代, 產生 = production
         - generative (adj)生殖的, 有生產力的
         - generator (n)發電機 = dynamo
-        - generic (adj)種類的/屬的, 一般的/總稱的
+        + generic (adj)種類的/屬的, 一般的 = general, 總稱的, 沒有商標的
         * generous (adj)慷慨的/大方的 = liberal = munificent = bountiful, 寬宏大量的/寬厚的 = magnanimous, 豐富的/豐盛的
-        * generosity (n)慷慨/大方
+        * generosity (n)慷慨/大方, 仁慈/寬厚 = goodness
         - genital (adj)生殖的 <|> genial
         * genus (n)類/種類
         - genre (n)文藝作品之類型
-        * genuine (adj)真正的/非偽造的 = authentic, 真誠的/誠實的
+        + genuine (adj)真正的/非偽造的 = authentic = real, 真誠的/誠實的 = sincere
         - indigenous (adj)土產的, 本地的 = native = endemic, 天生的 = innate <-- in + di + gen + ous
         * ingenious (adj)聰明的/善於發明的 = inventive, 製作精巧的/巧妙的 --> ingenuity (v)聰敏, 巧妙/精巧
         + ingenuous (adj)純樸的/單純的 = naive = simple = artless <|> ingenious
@@ -2543,7 +2545,7 @@
         - ingest (v)攝取/嚥下 --> ingestion (n)攝取/吸收
 
     gru 一致 <-- gree
-        + congruent (adj)符合的/一致的 = agreeing = accordant = congruous, (數學)全等的
+        + congruent (adj)符合的/一致的 = agreeing = accordant = congruous = harmonious, (數學)全等的
         * congruous (adj)一致的/符合的 = congruent --> congruity (n)適合/一致
         * incongruous (adj)不協調的/不一致的 = discordant
 
@@ -2586,9 +2588,6 @@
         - bigamy (n)重婚, 重婚罪
 
 [H]
-    hypo 下/低 = under, low
-        - hypoderm 
-
     hyper 過 = over, above
         - hyperactive (adj)活動過度的 --> hyperactivity (n)活動過度, 極度活躍
         + hyperbole (n)誇飾法 <-- hyper + bole 扔 = throw
@@ -2596,14 +2595,16 @@
         - hypertension (n)高血壓
 
     hypo 下 = under <--> hyper
-        - hypocrite (n)偽善者/為君子
+        - hypoderm
+        + hypocrite (n)偽善者/為君子
         - hypocritical
-        * hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
+        + hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
 
     hor 憤怒/怕 = bristle, tremble
         - abhor (v)憎恨 = abominate --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
         - horrible (adj)可怕的
         - horrid (adj)令人不愉快的/不友好的
+        - horripilate (v)起雞皮疙瘩 --> horripilate (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
     hori, horiz 邊界 = bound, limit
         - aphorism (n)格言 = adage = maxim
@@ -2619,6 +2620,12 @@
         * hereditary (adj)遺傳的, 世襲的
         - inherit (v)繼承
         + inherent (adj)與生俱來的
+
+    hetero, here 不同/異 = different, other
+        * heresy (n)異端邪說
+        + heretical (adj)異端的
+        + heterodox (adj)非正統的/異端的 = unorthodox <--> orthodox
+        + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 由不同事物組成的
 
     hydr, hydro 水 = water
         - anhydrous (adj)無水的 = arid <--> wet = humid
@@ -2637,7 +2644,7 @@
 
     habit, hibit 擁有/居住 = have, own, hold, dwell == propr
         - cohabit (v)共棲/同居
-        - habitat (n)棲息地
+        + habitat (n)棲息地
         - habitant (n)居民 = inhabitant
         - habitable (adj)可居住的
         * habituate (v)使習慣於 = accustom --> habituation (n)習慣
@@ -2655,18 +2662,21 @@
         + exhort (v)力勸/勉勵 = urge
         - hortative (adj)勸告的, 獎勵的/激勵的
         - hortation (n)勸告, 獎勵
+        + hortatory (adj)激勵的 = exhorting = encouraging
 
     hap 運氣 = luck
-        - haphazard (adj)任意的/隨意的/偶然的 = random
+        + haphazard (adj)任意的/隨意的/偶然的 = random = aimless (n)意外 = accident
         + hapless (adj)不幸的/運氣不好的 = unlucky = unfortunate
         - mishap (n)不幸/災難 = misfortune = bale
 
     hazard 冒險/危險
-        - haphazard
-        - hazard (n)危險 = risk = peril = danger --> hazardous (adj)危險的 = risky
+        + haphazard
+        + hazard (n)危險 = risk = peril = danger --> hazardous (adj)危險的 = risky
 
     hemi 半 = half
         - hemisphere
+        - hemicardia (n)半心畸形
+        - hemicycle (n)半圓
 
     hemo 血 = blood == emi
         - hemophilia (n)血友病
@@ -2681,10 +2691,6 @@
         - herpetologist (n)爬蟲學家
         - herpetofauna (n)爬行類區系
 
-    hetero 不同/異 = different, other
-        + heterodox (adj)非正統的/異端的 = unorthodox <--> orthodox
-        * heterogeneous (adj)異種的/不同的 = motley = dissimilar = foreign = incongruous
-
     hexa 六 = six
         - hexagon
         - hexapod
@@ -2694,7 +2700,7 @@
         - hibernate (v)冬眠/蟄居
     
     hiero, hier 神聖 = holy, sacred
-        - hierarchy (n)階層, 等級制度
+        + hierarchy (n)階層, 等級制度 --> hierarchical (adj)等級制度的
         - hieratic (adj)神職的
         - hieron (n)神廟/聖地
         * hieroglyph (n)象形文字
@@ -2710,11 +2716,12 @@
         - homogenize (v)使均勻
 
     hum 地 = earth
-        - humus (n)腐殖質/腐質土壤
-        - humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑, 使威信掃地
-        - humility (n)謙卑/謙遜
         - exhume (v)掘出, 發掘
+        - humus (n)腐殖質/腐質土壤
+        + humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑, 使威信掃地
+        - humility (n)謙卑/謙遜
         - humiliate (v)使屈辱/羞辱 = mortify = degrade 
+        + humdrum (adj)無聊的/乏味的/單調的 = boring = dull (n)單調 = monotony
 
 [I]
     in, ig, il, im, ir
@@ -4686,7 +4693,7 @@
         + expedite (v)迅速執行 = dispatch, 加快 = hasten --> expeditious (adj)迅速的/敏捷的
         + expedient (adj)有利的, 權宜的, 出於便利的/出於私利的 (n)緊急措施/權宜之計 --> expediency (n)方便/利己, 權宜之計
         - hexapod (n)昆蟲, 有六足的節肢動物
-        + impede (v)妨礙/阻礙 = hinder = block = encumber --> impediment (n)妨礙, 阻礙物
+        + impede (v)妨礙/阻礙 = hinder = block = encumber = hamper --> impediment (n)妨礙, 阻礙物
         - pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
         - pedestal (n)基座/臺座 = base = foundation
         + pedestrian (adj)徒步的, 缺乏想像的/平淡的/平庸的 = unimaginative
@@ -5069,7 +5076,7 @@
             - resuscitate
             - retail
             + retain --> retainer
-            - retard (v)使減速/延遲, 妨礙/阻止 = delay <-- re + tard 遲緩 = slow
+            - retard (v)使減速/延遲, 妨礙/阻止 = delay = hinder = hamper = encumber = impede <-- re + tard 遲緩 = slow
             - reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
             - retinue
             - retouch (v)修描/潤色
@@ -5109,7 +5116,8 @@
             + recoil (v)退縮/畏懼 = flinch, 厭惡/強烈反對 (n)後坐力 <-- re + coil
             - recollect (v)回憶/記起 --> recollection (n)記憶力, 回憶/往事
             + recondite
-            - recourse (v)求助/依靠
+            - recur
+            * recourse
             - recumbent
             - referee
             + reflect
@@ -5828,7 +5836,7 @@
     serve 服務/保持/看 = keep, look
         * conserve (v)保存/保留/保護 (n)糖漬食品/蜜餞
         - conservatory (n)溫室, 音樂學院/戲劇學院/藝術學院
-        + conservative (adj)(觀念、外表、猜測或計算)保守的/守舊的, 傳統的
+        + conservative (adj)(觀念、外表、猜測或計算)保守的/守舊的 = hidebound, 傳統的
         + observe (v)看到, 觀察/監視, 遵守 --> observation (n)觀察, 評論/意見
         - observatory (n)天文台/氣象臺/瞭望臺
         + preserve (v)保存/維護/維持, 醃漬 --> perservative (adj)防腐的 (n)防腐劑
@@ -5902,7 +5910,7 @@
 
     sati, satur 滿足 = enough, full
         - insatiable (adj)不能滿足的/貪心的
-        - sate (v)使心滿意足/使厭膩 <-- satiate
+        - sate (v)使心滿意足/使厭膩 = glut <-- satiate
         + satiate (v)使飽足/充分滿足 = satisfy (adj)吃飽的 --> satiable (adj)可滿足的
         - satiated (adj)充分滿足的, 厭倦的/生膩的
         + satisfy (v)使滿足/使滿意 = satiate = sate, 使確信
@@ -6066,7 +6074,7 @@
         + contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = cantankerous, 有爭議的 = controversial
         + distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
         + extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
-        * ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious
+        * ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious = pompous
         * inattentive (adj)不注意的/怠慢的 = distrait
         - intense (adj)繃緊的/緊張的 --> intensify (v)加劇
         - intend (v)想要/打算
@@ -6138,7 +6146,7 @@
         - baritone
         ^ undertone (n)含意/弦外之音 = connotation
         + attune (v)使調和 = adjust = accommodate = adapt --> attuned (adj)合拍的/熟悉的, (對特定聲音)敏感的
-        - monotony (n)聲音單調, 千篇一律 --> monotonous (adj)聲音單調的/無抑揚頓挫的, 無聊的/乏味的
+        - monotony (n)聲音單調, 千篇一律 = humdrum --> monotonous (adj)聲音單調的/無抑揚頓挫的, 無聊的/乏味的
 
     ton 雷 = thunder == fulmin
         - detonate (v)引爆 = explode = fulminate --> detonation (n)爆炸/爆炸聲 = explosion 
@@ -6513,7 +6521,7 @@
         + convoluted (adj)曲折的/旋繞的 = twisted = coiled = spiraled, 費解的/難懂的 = complicated = involved = intricate
         + divert (v)使轉向/使改道, 使分心 = detract = distract = beguile, 逗……開心 = entertain
         - diversion (n)轉向/轉移, 分散注意力, 娛樂/消遣 = relaxation
-        + diverse (adj)不同的/相異的, 多種多樣的 --> diversify (v)多樣化, 多元化經營 --> diversity (n)差異性, 多樣性
+        + diverse (adj)不同的/相異的 = heterogeneous, 多種多樣的 --> diversify (v)多樣化, 多元化經營 --> diversity (n)差異性, 多樣性
         + evolve (v)使逐步發展/逐漸改變, 進化, 排出 = emit --> evolution (n)演化/進化, 發展/演變
         - extrovert (n)個性外向的人
         - introvert (n)內向者
@@ -6577,7 +6585,7 @@
         - convalesce (v)康復/休養 --> convalescent (adj)療養中的/康復中的 (n)處於康復期的病人
         - equivalent (adj)相同的/等值的
         + prevalent (adj)流行的/盛行的/普遍的
-        - valiant (adj)勇敢的/英勇的 = courageous
+        - valiant (adj)勇敢的/英勇的 = courageous = heroic
         + valid (adj)有根據的/令人信服的, 合法的/有效的 --> validity (n)正當/正確/確實, 有效性/效力
         + validate (v)使生效
         - valor (n)勇氣 --> valorous (adj)勇敢的 = valiant
