@@ -922,7 +922,7 @@
         + credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
         * credulous (adj)輕信的/易上當的 --> credulity (n)輕信, 易受騙
         * recreant (adj)膽小的/怯懦的 = cowardly = craven
-        + discredit (v)懷疑 (n)喪失名譽 = dishonor
+        + discredit (v)敗壞名聲 = defame, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 不信 = disbelief = distrust
         - incredulity (n)懷疑/不相信
     
     cumul 堆積 = heap
@@ -1832,6 +1832,7 @@
         - exert <-- ex + sert 
         - exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
         + exhaust (n)排出, 廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡 --> exhaustive (adj)徹底的/詳盡的 = comprehensive = thorough, 精疲力盡的
+        * exhibit
         + exhilarate
         + exhort
         - exile (v)流放/放逐 = evict = banish, 離鄉背井 (n)流放/流亡, 離鄉背井
@@ -2278,7 +2279,7 @@
         - befringe (v)飾以邊
 
     firm 堅定
-        + affirm (v)確認/證實/斷言 = confirm = attest = approve = substantiate, 聲明
+        + affirm (v)確認/證實/斷言/主張 = confirm = attest = approve = substantiate = affirm = assert, 聲明
         + confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate
         - infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
 
@@ -2644,6 +2645,7 @@
 
     habit, hibit 擁有/居住 = have, own, hold, dwell == propr
         - cohabit (v)共棲/同居
+        * exhibit (v)展出/展示 (n)展品/展出物, 展覽, 證物/證據
         + habitat (n)棲息地
         - habitant (n)居民 = inhabitant
         - habitable (adj)可居住的
@@ -3194,7 +3196,7 @@
 
     leg
         1. 任命/指定 = depute, choose
-            - allege (v)(無證據)宣稱/指控 = accuse
+            * allege (v)(無證據)宣稱/指控 = assert without proof = accuse, 主張 = assert = affirm --> allegation
             + delegate (v)委派/委託/授權 = commit, 選出代表 = appoint (n)代表 = representative
             - legate (n)特使/使節/使者
             - legion (n)軍團, 一大群
@@ -4731,7 +4733,7 @@
         + cacophony --> cacaphonous
         - euphonious (adj)悅耳的/動聽的
         + euphony (n)悅耳 --> euphonious (adj)悅耳的
-        * phony (adj)虛偽的 = affected = sham, 假冒的/偽造的 = bogus = counterfeit
+        * phony (adj)虛偽的 = affected = sham, 假冒的/偽造的 = bogus = counterfeit = spurious
         - phonetic (adj)語音的
         - symphony (n)交響樂/交響曲
         - telephone (n)電話
@@ -5507,7 +5509,7 @@
         - subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 存在 = existence
         - substance (n)本旨/主旨/真意, 實質/本質/實體, 物質
         + substantial (adj)堅固的/結實的, 實質的
-        + substantiate (v)證實/確證 = attest = affirm = approve
+        + substantiate (v)證實/確證 = bear out
         + substantive (adj)根本的 = essential, 獨立存在的
         * substitute (v)用…代替/取代 = supersede = supplant (n)替代品
 

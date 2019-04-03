@@ -649,7 +649,7 @@
     * deed (n)行為 = action, 所有權證書
     * delicate (adj)脆弱的/纖細的, 精緻的 = dainty, 精密的, 柔和的 --> delicacy (n)細嫩, 細緻/優雅
     * delight (v)使滿足/使高興 (n)欣喜/滿足 --> delectable (adj)美麗的, 愉悅的, 美味的 <|> blight
-    * devise (v)發明/設計 = contrive = concot = fabricate, 謀劃/策劃, 遺贈給 <-- device
+    * devise (v)發明/設計 = contrive = concoct = fabricate, 謀劃/策劃, 遺贈給 <-- device
     * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
     * dismal (adj)悲傷絕望的, 十分糟糕的 = abysmal
     * disobedient (adj)不服從的/不聽話的 = contumacious = rebellious
@@ -778,7 +778,6 @@
     + exemplum (n)例證/範例 --> exemplar (n)榜樣/楷模 --> exemplary (adj)可作楷模的 --> exemplify (v)作為…的典範
     + exploit (v)剝削, 利用 = utilize, 推廣 = promite --> exploitation (n)利用, 剝削, 廣告推銷
 
-
     * ecclesiastical (adj)基督教的
     * eddy (v)起漩渦 (n)漩渦
     * enemy (n)敵人, 敵人的 --> enmity (n)敵意/仇恨 = hostility = antipathy
@@ -791,9 +790,6 @@
     * eternal (adj)永久的/永恆的
     * etiquette (n)禮節/禮儀, (同業間的)規矩/成規 <-- etiqu 附著 = stick, attach + ette
     * evince (v)表露/表明
-    * exhaust (v)花光/耗盡 = deplete, 使筋疲力竭 (n)廢氣
-    * exhibit (v)展出/展示 (n)展品/展出物, 展覽, 證物/證據
-    * expend (v)花費, 用光 <|> expand --> expenditure (n)消耗, 支出
     * external (adj)外面的, 外來的, 表面的 --> externalize (v)使...表面化 <-- exter 外面 = outside + nal
     * extreme (adj)末端的, 極端的/極度的, 狂熱的/偏激的 (n)極端, 末端 --> extremist (n)極端主義者ㄋ
 
@@ -844,7 +840,6 @@
     ^ edge (n)邊/邊緣 = brink = fringe = periphery = verge, 刀口/刃 = blade, 優勢/優越之處, 尖刻的聲調/厭煩的聲調/憤怒的語氣 (v)徐徐移動/緩緩發展
 
 [F]
-
     + fabric (n)紡織品, 結構 --> fabricate (v)編造/發明 = devise = invent = concoct = contrive, 製造 = construct, 偽造 = forge = fake = counterfeit = 
     + fad (n)一時的流行/一時的狂熱 --> faddish (adj)流行一時的, 時尚的
     + failing (n)過錯 = failure, 缺點/弱點 = defect = fault = shortcoming = weakness
