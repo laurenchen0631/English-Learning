@@ -1462,17 +1462,20 @@
     ^ invocation (n)祈禱 = benediction = benison, 符咒
 
 [J]
+    + jar (v)衝突/抵觸 = clash = conflict = disagree, 發刺耳聲 --> jarring (adj)聲音刺耳的 = discordant = cacophonous
     + jaundice (n)偏見, 黃疸 (v)使懷偏見 --> jaundiced (adj)因嫉妒等而有偏見的 <-- jaund 黃 = yellow + ice
-    + jettison (v)（船舶等在遇難時為減輕負載而）投棄 = discard = cast off (n)投棄的貨物 = jetsam <-- jetettison
+    + jejune (adj)枯燥乏味的 = dull = insipid = innocuous = pallid, 幼稚的/不成熟的 = juvenile = childish <-- jejun 空 = empty + es
+    + jeopardy (n)危險 = peril = danger --> jeopardize (v)危及/危害 = endanger = compromise = imperil
+    + jettison (v)（船舶等在遇難時為減輕負載而）投棄 = cast off, 捨棄 = discard (n)投棄的貨物 = jetsam
     + jibe (v)使一致/相符 (n)嘲諷話 = gibe
     + jingoism (n)沙文主義/侵略主義 = patriotism 
+    + jockey (n)騎師 (v)用計謀獲取/耍手段圖謀 = trick = cheat
+    + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult --> jubilation (n)歡騰/歡慶 --> jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
     + juggernaut (n)駭人的毀滅力量, 重型卡車 <-- [印]印神教主神世界主宰
 
     * jack (n)男人/男孩, 僕人/侍者, 水手, 千斤頂 (v)用起重機舉起
-    * jar (v)衝突/抵觸 = clash, 震驚, 發刺耳聲 --> jarring (adj)聲音刺耳的 = discordant = cacophonous
     * jargon (n)行話/專業術語 = argot = cant = patois
-    * jealous (adj)妒忌的/吃醋的 --> jealousy (n)猜忌/嫉妒\
-    * jeopardy (n)危險 --> jeopardize (v)危及/危害 = endanger = compromise
+    * jealous (adj)妒忌的/吃醋的 --> jealousy (n)猜忌/嫉妒
     * jest (n/v)說笑/玩笑 <|> just <|> vest <|> zest
     * jet (n/v)噴出/射出
     * jingo (adj)侵略性的 (n)沙文主義者/侵略主義者
@@ -1488,21 +1491,28 @@
     ^ jaunty (adj)愉快的/遠足的
     ^ jazz (n)爵士樂, 喧鬧 = noise = clamor
     ^ jeer (v)嘲笑 = mock = taunt
-    ^ jejune (adj)枯燥無味的, 幼稚的/不成熟的 <-- jejun 空 = empty + es
     ^ jerk (n/v)突然猛拉, 顛簸/搖晃 = jolt, 抽搐/痙攣 
     ^ jetsam (n)投棄的貨物/漂流到海岸的貨物
     ^ jigsaw puzzle (n)拼圖
-    ^ jockey (n)騎師 (v)用計謀獲取/耍手段圖謀[
     ^ jog (v)慢而平靜地進行, 慢跑, 輕推/輕撞, 觸動/喚起 (n)慢跑/緩行, 暗示/提醒
     ^ jolt (v)搖動/顛簸 (n)搖動/顛簸/震動 = jerk
     ^ jot (v)草草記下 (n)一點兒/極少
     ^ jovial (adj)愉快的 = jocund = jolly = boon
-    ^ jubilate (v)揚聲歡呼/歡喜 --> jubilation (n)歡騰/歡慶 <-- jubil 大叫 = shout + ate
+    ^ 
 
 [K]
     + kindle (v)著火/點燃 = ignite = inflame, 激起/煽動 = incite = arouse
     + knell (n)喪鐘, 破滅的信號/凶兆 (v)鳴喪鐘, 預報凶兆
     + kudos (n)榮譽 = fame = glory = honor
+
+    keen
+    adj. 热烈的；聪明的；尖刻的
+
+    kindred
+    adj. 类似的；相似的
+
+    knotty
+    adj. 复杂的；难以解决的
 
     * kindly (adv)仁慈地/友好地 (adj)仁慈的/和藹的/友好的 = amicable = affable = avuncular
     * ken (n)視野/眼界 = perception, 知識範圍
@@ -1551,6 +1561,99 @@
     + lumber (v)笨重地移動/蹣跚而行/笨拙地走 (n)雜物, 木材 = lignum
     + lurid (adj)耀眼的/火紅的 = bright, 駭人聽聞的 = gruesome = sensational = shocking
     + luster (n)光澤, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
+
+    labor
+    n. 劳工；费力地从事；沉重缓慢的走
+
+    laboriously
+    adv. 艰苦地，费力地
+
+    lackluster
+    adj. 沉闷乏味的；毫无生气的
+
+    laconic
+    adj. 简洁的；寡言的；言简意赅的
+
+    lambaste
+    v. 严厉谴责；训斥
+
+    languish
+    v. 中落；衰弱
+
+    latent
+    adj. 潜在的；潜伏的
+
+    latitude
+    n. 自由；纬度
+
+    laud
+    v. 赞美；称赞
+
+    laudable
+    adj. 值得赞美的；值得称赞的
+
+    laudatory
+    adj. 赞扬的
+
+    launch
+    v. 投掷；发射； 推出（新产品）
+
+    lavish
+    adj. 奢侈的；慷慨的；v. 慷慨给予
+
+    lax
+    adj. 松懈的；马虎的；不严格的
+
+    layperson
+    n.外行
+
+    legend
+    n. 民间传说（传奇），传奇文学
+
+    legislation
+    n. 法律；法规
+
+    legitimate
+    v. 使合法；adj. 合理的
+
+    lethargic
+    adj. 不感兴趣的；无动于衷的；慵懒的
+
+    license
+    n. 证书，许可证；v. 同意
+
+    liken
+    v. 把...比作；把...比拟为
+
+    lionize
+    v. 把...视作或捧为名人
+
+    literal
+    adj. 真实的，避免比喻的
+
+    loath
+    adj. 不情愿的；勉强的
+
+    loquacious
+    adj. 非常健谈的；多言的
+
+    lucid
+    adj. 清楚易懂的，明晰的
+
+    lucidity
+    n. 清晰
+
+    lucrative
+    adj. 获利的；有利润的：producing wealth; profitable
+
+    lugubrious
+    adj. 悲戚的；悲伤的
+
+    lull
+    v. 麻痹；使放松警惕；n. 间歇
+
+    lurid
+    adj. 可怕的；耸人听闻的，触目惊心的
 
     * languish (v)衰弱, 凋萎
     * laud (n)讚美, 讚歌 --> laudatory (adj)表示讚美的
@@ -2099,7 +2202,7 @@
     * penitent (adj)悔過的/懺悔的, 悔過者/懺悔者
     * pep (n)活力/精力/生氣 = vim (v)激勵, 使精力充沛/使充滿活力
     * perceive (v)察覺/感知, 理解
-    * peril (n)危險
+    * peril (n)危險 = jeopardy = hazard
     * personable (adj)英俊的/風度好的 = attractive
     * personnel (n)全體人員/員工
     * pertinence (n)恰當/中肯/切題

@@ -583,7 +583,7 @@
             * composure
             + compound
             + comprehend --> comprehensive
-            + compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize
+            + compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize = endanger = imperil
             - concatenate (v)使連接/使連鎖 --> concatenation (n)一連串有關聯的事件、想法或事物 <-- con + caten 鐵鍊 = chain + ate
             + concave
             + conceive --> conceivable
@@ -1904,7 +1904,7 @@
         + encumber
         - encyclic
         - encyclopedia, encyclopaedia (n)百科全書/大全 <-- encyclic + pedo 兒童 = child + ia
-        + endanger (v)危及 = imperil
+        + endanger (v)危及 = imperil = compromise = jeopardize
         - endear (v)使受喜愛 --> endearing (adj)惹人喜愛的
         * endeavor, endeavour (v)努力/奮力 = strive = attempt (n)嘗試/努力 = attempt = bid = effort
         + endemic
@@ -2676,7 +2676,7 @@
 
     hazard 冒險/危險
         + haphazard
-        + hazard (n)危險 = risk = peril = danger --> hazardous (adj)危險的 = risky
+        + hazard (n)危險 = risk = peril = danger = jeopardy --> hazardous (adj)危險的 = risky
 
     hemi 半 = half
         - hemisphere
@@ -2910,7 +2910,7 @@
             - impel
             - impend --> impending
             + imperative (adj)急需的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding <-- im + per 準備 = prepare + ative
-            + imperil (v)危及 = endanger
+            + imperil (v)危及 = endanger = compromise = jeopardize
             - impersonate (v)模仿 = mimic = imitate, 扮演 <-- im + person + ate
             + impinge (v)侵犯 = encroach, 撞擊 = strike = collide
             * implant (v)灌輸 = instill = inculcate, 埋置, 移植, 種植
@@ -3166,9 +3166,9 @@
     jur 發誓 = swear
         + abjure (v)發誓放棄 = renounce = recant <|> adjure
         - adjure (v)要求/命令
-        - perjury 
-        - jury (n)陪審團 =  tribunal
         + conjure (v)招喚/想起 = recall = evoke, 變魔術/變戲法, 懇求 = appeal
+        - jury (n)陪審團 =  tribunal
+        - perjury 
         - perjure (v)使作偽證/為……作偽證 --> perjury (n)偽證, 偽證罪
 
     journ 日 = day, daily
@@ -3190,11 +3190,11 @@
         + adjust (v)調整, 適應 = adapt = accustom = accommodate
         - justice (n)正義, 司法, 法官
         - injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful,  誹謗的/中傷的
-        - justify (v)證明……是正當的, 證明……無罪/開釋 --> justification (n)正當理由, 辯護 = defence
+        + justify (v)證明……是正當的, 證明……無罪/辯護 --> justification (n)正當理由, 辯護 = defence
         - justifiable (adj)有理由的/有道理的
 
     juven 年輕的 = youthful
-        - juvenile (adj)青少年的 = adolescent, 幼稚的/不成熟的 = childish = jejune
+        + juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune = 
         - rejuvenate (v)使變年輕, 使恢復精神/恢復活力
 
     joc 玩笑 = joke
@@ -3206,7 +3206,7 @@
         + injudicious
         - judge (v)審判/判決, 判斷/認為 (n)鑑定人/鑑賞家, 法官/推事/裁判員
         * judicial (adj)司法的/審判的, 法官的/法庭的, 公平的
-        * judicious (adj)明斷的/明智而審慎的 = discreet = prudent = circumspect
+        + judicious (adj)明斷的/明智而審慎的 = discreet = prudent = circumspect
         * prejudge (v)預先判斷
         * prejudice (n)偏見/成見 (v)使產生偏見 --> prejudiced (adj)有成見的/有偏見的
 
@@ -4658,7 +4658,7 @@
         - imposing (adj)壯觀的/宏偉的 = grand
         - impostor (n)冒充者/騙子 --> imposture (n)冒充
         - interpose (v)插入/置於...之間, 介入
-        + juxtapose (v)並排/並置 <-- juxta 在附近 = side by side + pose
+        + juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
         + opponent (n)敵手/對手
         + oppose (v)反對/反抗 --> opposition (n)反對/反抗/對立
         - pose (v)擺姿勢, 造作/裝腔作勢
@@ -5056,7 +5056,7 @@
             + reinforce (v)加固/使更結實 = buttress, 加深/進一步證實, 增援 <-- re + in + force
             - reinstate (v)復職 <-- re + in + state
             + reiterate (v)重申/反覆地說 <-- re + iterate
-            - rejoice (v)欣喜/高興
+            - rejoice (v)欣喜/高興 = jubilate
             + rejoin (v)重返/返回, 回答/反駁 --> rejoinder (n)回答/反駁 = response = reply
             + rejuvenate
             + rekindle (v)再點火, 使振作
@@ -5651,7 +5651,7 @@
         + assail (v)抨擊 = decry, 猛攻 --> assault (n)襲擊/猛襲
         * consult (v)諮詢/請教
         + desultory (adj)散漫的/漫無目的的 = rambling = random, 不連貫的
-        - exult (v)狂喜/歡欣鼓舞 --> exultant (adj)狂喜的/歡欣鼓舞的
+        - exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
         + insult (n/v)侮辱/謾罵 = abuse = indignity = affront
         - resile (v)彈回, 恢復原形/恢復活力 --> resilient (adj)有彈性的, 能恢復活力的/適應力強的 --> resilience (n)彈性/彈力
         + salient (adj)顯著的/突出的 = obvious = projecting = protruding = noticeable = conspicuous = prominent
@@ -5938,7 +5938,7 @@
 
     sip 丟/味道 = throw, sapid == ject
         * dissipate (v)使消散/驅散 = dispel = scatter, 浪費 = waste = squander 
-        + insipid (adj)乏味的/枯燥的/無趣的 = dull = stale = banal = dreary = innocuous = pallid = vapid, 無味的 = bland
+        + insipid (adj)乏味的/枯燥的/無趣的 = dull = stale = banal = dreary = innocuous = pallid = vapid = jejune, 無味的 = bland
 
     stin, sti, sting, stig, stimul 刺 = prick
         + distinct (adj)清楚的/明顯的 = evident, 明顯不同的, 卓越的 = exceptional = noble --> distinction (n)區別/差別, 卓越, 知名 = fame = eminence
