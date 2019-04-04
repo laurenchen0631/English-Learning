@@ -247,7 +247,7 @@
     alt, alti 高 = high
         - altitude (n)高度/海拔, 高處
         - altimeter (n)高度計
-        + exalt (v)讚揚 = extol = acclaim, 提升/晉升/提拔 = elevate, 刺激 = stimulate = excite, 使喜悅/使得意 = delight = elate
+        + exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate, 刺激 = stimulate = excite, 使喜悅/使得意 = delight = elate
         - exaltation (n)欣喜/得意, 提拔/晉升
 
     ampl 大 = wide, large
@@ -1071,7 +1071,7 @@
     cens 評估 = assess <-- censor
         * censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
         + censorious (adj)吹毛求疵的 = faultfinding = carping = captious
-        + censure (v)指責/指責 = deounce = excoriate = condemn = decry
+        + censure (v)指責/指責 = deounce = excoriate = condemn = decry = lambaste
         - census (n)人口普查, (官方的)調查/統計
     
     cerebr 腦 = brain
@@ -1823,7 +1823,7 @@
         - excite --> excitable --> excitability
         - exclaim --> exclamation
         + exclude --> exclusive
-        + excoriate (v)嚴厲批評/撻伐 = denounce, 剝皮 <-- ex + cor 皮 = skin + iate
+        + excoriate (v)嚴厲批評/撻伐 = denounce = lambaste, 剝皮 <-- ex + cor 皮 = skin + iate
         - excrete
         + exculpate
         - excursion --> excursive
@@ -2513,7 +2513,7 @@
         - genital (adj)生殖的 <|> genial
         * genus (n)類/種類
         - genre (n)文藝作品之類型
-        + genuine (adj)真正的/非偽造的 = authentic = real, 真誠的/誠實的 = sincere
+        + genuine (adj)真正的/非偽造的 = authentic = real = legitimate, 真誠的/誠實的 = sincere
         - indigenous (adj)土產的, 本地的 = native = endemic, 天生的 = innate <-- in + di + gen + ous
         + ingenious (adj)製作精巧的/巧妙的 = clearly inventive --> ingenuity (v)巧妙/精巧
         + ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent <|> ingenious
@@ -2770,7 +2770,7 @@
             + impotent (adj)無足輕重的, 無能為力的, 不起作用的 = ineffective = incompetent
             - impregnable
             + imprecate --> imprecation
-            + imprecise (adj)不精確的/不清楚的 = vague = inexact = inaccurate
+            + imprecise (adj)不精確的/不清楚的 = vague = inexact = inaccurate = lax
             + improbable (adj)不可能的
             - impromptu (adj)即席的/即興的 = extempore <-- im + prompt + u
             - improvident (adj)不簡潔的, 無遠見的 <-- im + provident
@@ -3228,7 +3228,7 @@
         - deluge (n)大洪水, 暴雨
         - lave (v)洗浴/沐浴 = wash = bathe, （河流）慢慢沖刷
         - lavatory (n)廁所/盥洗室
-        * lavish (adj)浪費的 = prodigal = extravagant = wasteful, 豐富的 = profuse (v)浪費
+        * lavish (adj)浪費的 = prodigal = extravagant = wasteful, 豐富的 = profuse (v)大量給予/慷慨給予
 
     leg
         1. 任命/指定 = depute, choose
@@ -3240,9 +3240,9 @@
 
         2. 法律/君主 = liege, law
             - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocate (v)
-            - legislate (v)制定法律
+            + legislate (v)制定法律 --> legislation (n)制定法律, 法條/法規
             - legal (adj)法律的, 合法的/正當的 = legitimate
-            * legitimate (adj)合法的/正當的 = licit = legal = reasonable, 正統的
+            + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine
             + privilege
 
     lev, liev 輕/舉 = light, lift
@@ -3265,7 +3265,7 @@
     leth 死亡 = death
         - lethal (adj)致命的 = fatal = deadly --> lethality (n)致命性/殺傷力
         + lethargy (n)昏睡/瞌睡, 無生氣 = lassitude = torpor = sluggishness
-        + lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy
+        + lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic
 
     loc, loco 地方 = place
         - allocate (v)分配 = allot
@@ -3289,7 +3289,7 @@
         - prelude (n)序幕/前奏/序曲
             
     luc, lucid, lumin 光亮 = light
-        + lucid (adj)清楚易懂的 = clear, 神志清醒的 = bright = intelligible, 清澈的 --> lucidity (n)清晰, 神智清醒
+        + lucid (adj)清楚易懂的 = clear = comprehensible, 神志清醒的 = bright = intelligible = sane, 清澈的 = pellucid = transparent --> lucidity (n)清晰, 神智清醒
         + elucidate (v)闡明 = explain = clarify
         + illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 啟發 = enlighten <-- il + lumin + ate
         - illuminati (n)先覺者/智者
@@ -3297,12 +3297,13 @@
         - luminant (adj)發光的
         - luminary (n)傑出人物/名人 = lion
         + luminous (adj)發光的/光輝的 = bright = glowing = radiant, 清楚的/明白易懂的 = lucid
+        - pellucid (adj)清澄的/透明的 = translucent = limpid, 神志清醒的 =  
         + translucent (adj)半透明的 <--> transparent
 
     lustr, luster 光澤 = polish
         + illustrate (v)用圖、例子或圖表說明闡明 = exemplify
-        - luster (n)光彩/光澤
-        - lackluster (adj)無光澤的
+        + lackluster (adj)無生氣的, 乏味的/無趣的 = dull = insipid
+        + luster (n)光澤, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
 
     lect, lig, lit
         1. 講 = speak
@@ -3362,7 +3363,7 @@
             - epilogue (n)尾聲/後記
             - apologize (v)道歉, 辯解 = excuse
             - circumlocution
-            + loquacious (adj)多話的/健談的 = talkative
+            + loquacious (adj)多話的/健談的 = talkative = chattering = ballbing, 嘮叨的 = excessive talk = wordy = garrulous
             - locution (n)用句 = word = pharse, 說話方式
             - elocution (n)演講技巧
             + eloquent (adj)有說服力的/雄辯的 --> eloquence (n)雄辯/口才
@@ -3370,7 +3371,7 @@
             - soliloquy (n)(戲劇中的)獨白
             - colloquium (n)學術討論會
             + eulogy, eulogium (n)頌詞/讚頌 = encomium = panegyric, 悼詞/悼文
-            - eulogize (v)稱讚/頌揚
+            - eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
             - eulogistic (adj)頌揚的/讚頌的 = laudatory
             - monolog, monologue (n)獨白 = solilpquy, 個人長篇演說
             + neologism
@@ -3405,8 +3406,9 @@
 
     labor, labyr 勞動 = work
         - collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
-        - laborious (adj)耗時費力的/艱巨的/艱難的 = ardous
         * elaborate (v)精心製作, 詳盡闡述 (adj)精心製作的/精巧的/複雜的, 詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
+        + labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 (v)勞動 = toil, 奮鬥 = strive
+        + laborious (adj)耗時費力的/艱巨的/艱難的 = ardous
         - labored (adj)吃力的 = strained, 不自然的 = unnatural
         - labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
     
@@ -3424,7 +3426,7 @@
 
     lati, late 寬的 = broad
         + dilate (v)(身體部位)擴張/展開/膨脹 <|> dilatory 
-        - latitude (n)言行自由, 
+        - latitude (n)行動自由 = freedom, 緯度
 
     later 邊/邊緣 = side
         - collateral (adj)並行的/平行的, 附帶的/次要的 = incidental, 旁系的 (n)擔保品
@@ -3438,7 +3440,7 @@
         - litigation (n)訴訟 = lawsuit
 
     liter 文字 = letter
-        - literal (adj)字面上的/原義的, 如實的/精確的 = accurate
+        + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
         + literatus -> literati (n)文人/學者
         * literate (adj)能讀寫的, 有文化修養的
         + obliterate (v)塗掉/擦掉 = efface = erase
@@ -3460,7 +3462,7 @@
         + libertine (n)放蕩者/性行為放縱者
 
     licen 允許 = allow
-        - license (n)自由/放肆, 許可證/執照
+        + license (n)過度自由 = undue freedom, 許可證/執照 (v)授權同意
         - licensure (n)特許/許可證 = license
         + licentious (adj)縱慾的 = lascivious = salacious, 放肆的/不道德的 = unrestrained = immoral
 
@@ -4509,7 +4511,7 @@
     path, pathy 感情/痛苦 = feeling, suffering == pass
         + antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility
         + apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = aloof (adj)
-        + apathetic (adj)冷淡的/無動於衷的 = casual = indifferent
+        + apathetic (adj)冷淡的/無動於衷的 = casual = indifferent = lethargic
         - pathos (n)感染力,  感傷/悲悵/悲情 = pity
         + sympathy (n)同感/理解 = empathy, 同情/憐憫 = pity = empathy ＝ compassion
         + sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
@@ -4698,7 +4700,7 @@
         + apprehension (n)憂慮/擔心, 逮捕, 領會/理解 --> apprehensive (adj)(對將要做的事情)擔憂的/擔心的
         - apprentice (n)學徒 = pupil
         ++ comprehend (v)充分理解/領悟 = fathom = perceive, 包括 = embrace = comprise = include
-        - comprehensible (adj)能充分理解的 
+        - comprehensible (adj)能充分理解的 = lucid = intelligible
         + comprehensive (adj)包羅萬象的
         - impregnable (adj)攻不破的/征服不了的
         - pregnable (adj)易受攻擊的/有弱點的
@@ -5079,7 +5081,7 @@
             - remnant (n)殘餘物 = remainder, 零頭布料 <-- remain
             + remonstrate
             + remunerate (v)給與報酬/賠償 --> remuneration (n)酬報/酬勞, 償還/賠償 <-- re + muner 給予 = give + ate
-            - remunerative (adj)報酬高的/有利潤的
+            - remunerative (adj)報酬高的/有利潤的 = lucrative
             + renew (v)使更新/使復原, 重新開始/繼續
             * renovate (v)修復/裝修/翻新/更新 <-- re + nov 新 = new + ate
             + renown --> renowned
@@ -5387,7 +5389,7 @@
             - subrogate
             - subsequent
             + subservient
-            - subside
+            + subside
             - subsidiary
             - subsidy
             - subsist --> subsistence
@@ -5709,7 +5711,7 @@
         - sacrilegious (adj)褻瀆神明的
         * sanctify (v)使神聖化/使聖潔化, 使合法化/批准/認可 = approve
         * sanctuary (n)庇護/保護 = aegis, 避難所/庇護所 = asylum, 禁獵區, 聖殿/聖堂
-        * sanction (n/v)批准/認可
+        * sanction (n/v)批准/認可 = legitimate = authorize
         - sanctimony (n)假裝的虔誠 --> sanctimonious (adj)假裝神聖的
 
     sect, seg 切 = cut == tomy
@@ -5741,7 +5743,7 @@
         - insentient (adj)無知覺的/無生命的 = inanimate
         * insensitive (adj)感覺遲鈍的, 漠不關心的
         + resent (v)怨恨/不滿/憎惡 = enmity = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique
-        + sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid, 感覺的/知覺的
+        + sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid = shocking, 感覺的/知覺的
         - sensible (adj)明智的 = reasonable, 可感覺到的 = noticeable
         - sensitive (adj)敏感的 --> sensitivity (n)敏感/靈敏性
         - sensitize (v)使敏感/使敏化, 使過敏 --> sensitization (n)敏化
@@ -5772,7 +5774,7 @@
         + sedentary (adj)久坐的
         - sediment (n)沈澱物/渣
         + sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
-        + subside (v)消退/消失/平息, 下陷/沉降/沉澱
+        + subside (v)消退/消失/平息 = lull, 下陷/沉降/沉澱
         - subsidiary (adj)輔助的, 次要的
         - subsidy (n)輔助金
         + supersede (v)代替/取代 = replace = displace
@@ -5935,7 +5937,7 @@
 
     sip 丟/味道 = throw, sapid == ject
         * dissipate (v)使消散/驅散 = dispel = scatter, 浪費 = waste = squander 
-        + insipid (adj)乏味的/枯燥的/無趣的 = dull = stale = banal = dreary = innocuous = pallid = vapid = jejune, 無味的 = bland
+        + insipid (adj)乏味的/枯燥的/無趣的 = dull = stale = banal = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
 
     stin, sti, sting, stig, stimul 刺 = prick
         + distinct (adj)清楚的/明顯的 = evident, 明顯不同的, 卓越的 = exceptional = noble --> distinction (n)區別/差別, 卓越, 知名 = fame = eminence
@@ -6581,7 +6583,7 @@
         - revolve (v)旋轉/自轉, 週期性出現/循環往復, 盤桓於腦海, 以……為中心
         - revolute (v)參加革命
         + revolution (n)革命, 變革 --> revolutionary (adj)革命的/革命性的 (n)革命者
-        - revolt (v)叛亂/造反, 反感
+        - revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/反感的 = disgusting = repulsive = lurid, 叛變的 = rebellious
         + subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
         + versatile (adj)多才多藝的, 多用途的
         * verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 

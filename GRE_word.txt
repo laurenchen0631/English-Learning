@@ -609,6 +609,7 @@
     ^ canal (n)運河/渠
     ^ cartel (n)同業聯盟 = syndicate
     ^ charitable (adj)慈善的, 仁慈的/寬容的
+    ^ clergy (n)神職人員 <--> laity
     ^ college (n)大學, 學院, 學會/協會
     ^ comprise (v)包含/包括/構成 = comprehend = embrace = include
     ^ confuse (v)使困惑 = confound = befuddle = bewilder = baffle = bedevil = perplex = puzzle = boggle
@@ -652,7 +653,7 @@
     * devise (v)發明/設計 = contrive = concoct = fabricate, 謀劃/策劃, 遺贈給 <-- device
     * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
     * discombobulate (v)擾亂/使困惑 <-- discompose
-    * dismal (adj)悲傷絕望的, 十分糟糕的 = abysmal
+    * dismal (adj)悲傷絕望的 = lugubrious = gloomy, 十分糟糕的 = abysmal
     * disturb (v)打斷/干擾, 使焦慮, 移動/挪動 --> disturbance (n)干擾, 騷亂/紛亂/暴力事件
     * dogged (adj)頑強的 = stubborn = tenacious <-- dog 狗 + ged
     * domineer (v)跋扈/作威作福 --> domineering (adj)跋扈的/盛氣凌人的 = overbearing = imperious = arrogant = dictatorial
@@ -1081,7 +1082,7 @@
     + galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
     + gambol (n/v)跳躍/嬉戲 = frolic <-- gamb 腳 = leg + ol
     + garner (v)收藏/積累 = amass = collect <-- garn 顆粒 = grain + er
-    + garrulous (adj)嘮叨的/喋喋不休的/饒舌的 = talkative = wordy --> garrulity (n)嘮叨/饒舌 <-- garr 講話 = chatter + ulous
+    + garrulous (adj)嘮叨的/喋喋不休的/饒舌的 = wordy = loquacious --> garrulity (n)嘮叨/饒舌 <-- garr 講話 = chatter + ulous
     + gauche (adj)不善交際的/不圓滑的/笨拙的 = coarse = uncouth = clumsy = awkward = tactless --> gaucherie (n)笨拙
     + genial (adj)愉快的/和藹的/友好的 = cheerful = friendly = amiable = kindly --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness
     + gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
@@ -1127,7 +1128,7 @@
     * gross (adj)總的, 粗野的/粗俗的 = vulgar = coarse (n)整個/全部, 總額
     * grouch (v)發牢騷/抱怨 = grumble (n)好發牢騷的人 = curmudgeon
     * grotesque (adj)怪誕的/荒謬的 = absurd = ludicrous, 奇形怪狀的/醜陋的
-    * gruesome (adj)可怕的/陰森的 = lurid
+    * gruesome (adj)可怕的/陰森的 = lurid = revolting
     * grumble (v)發牢騷/抱怨 = grouse = crab, 肚子咕咕叫 (n)抱怨
     * grumpy (adj)脾氣壞的/易生氣的 = irritable
     * grunt (v)(因憤怒或疼痛)咕噥
@@ -1528,18 +1529,24 @@
 [L]
     + labile (adj)不穩定的 <-- lib 滑 = slip + ile
     + laconic (adj)簡潔的 = brief = concise
-    + lambaste (v)痛打 = beat, 痛罵 = scold = denounce <-- lam + baste
+    + lambaste (v)痛打 = beat severely, 痛罵 = scold = denounce = reprimand = censure = excoriate <-- lam + baste
+    + languish (v)衰弱 = droop = fade
     + larceny (n)竊盜 = theft
     + largess, largesse (n)慷慨的贈予/慷慨的贈禮/巨額賞金/大禮 = generosity, 贈品/賀禮 <-- large + ss(e)
     + lascivious (adj)淫蕩的/好色的 = lustful = licentious = salacious <-- lascivi 嬉鬧的 = playful, wanton + ous
     + lassitude (n)無力/疲乏/無精打采 = lethargy = sluggishness = listlessness
     + latent (adj)潛伏的/潛在的 = dormant = potential --> latency (n)潛伏期
-    + laud (v)稱讚 = praise = extol = eulogize = exalt --> laudable (adj)值得讚賞的
-    + lax (adj)鬆弛的/不嚴格的/散漫的/放縱的 = careless = loose = slack --> laxative (adj)放鬆的/鬆弛的 (n)瀉藥
+    + laud (v)稱讚 = praise = extol = eulogize = exalt --> laudatory (adj)表示讚美的
+    + laudable (adj)值得讚賞的 = praiseworthy = commendable
+    + launch (n/v)下水, 推進, 啓動/出/發起 
+    + lax (adj)不嚴格的/放縱的 = negligent = careless, 鬆弛的 = loose = slack, 不精確的 = vague = inexact = imprecise --> laxative (adj)放鬆的/鬆弛的 (n)瀉藥
+    + layperson (n)普通教徒 = laity, 外行人/門外漢
     + leer (v)斜著眼看, 送秋波 --> leery (adj)機警的 = wary = cautious, 懷疑的/猜疑的 = suspicious
+    + legend (n)地圖裡的說明文字或圖例, 傳說
     + legerdemain (n)手法/花招 = sleight, 騙術/欺騙 = trickery = deception <-- leger de main [法]light of hand
     + levee (n)防洪堤/堤岸 = embankment
     + libido (n)性慾 = sexual desire
+    + liken (v)把……比作 = compare to <-- like
     + lilliputian (adj)極小的/微型的 = small = minuscule <-- Lilliput 小人國
     + limn (v)描寫/描繪 = draw = describe
     + limpid (adj)清澈的/透明的 = clear = transparent, 平靜的 = calm
@@ -1548,155 +1555,59 @@
     + lissome (adj)柔軟的/敏捷的/姿態優雅的 = flexible = supple = agile = lithe = limber <-- lithesome
     + listless (adk)無精打采的 = spiritless = languid
     + litany (n)反覆唸頌 = recitation = chant <-- litan 祈禱 = pray + y
+    + loathe (v)憎恨/厭惡 = abho --> loathsome (adj)令人憎惡的/討厭的
     + log (n/v)日誌/紀錄 = record (n)圓木
-    + lugubrious (adj)哀傷的/悲傷的 = lachrymose = mournful = gloomy <-- lugubri 悲傷 = mourn + ous
     + lucre (n)不義之財/骯髒錢 = money = profits --> lucrative (adj)賺錢的/有利可圖的 = profitable = remunerative
+    + lugubrious (adj)哀傷的/悲傷的 = lachrymose = mournful = gloomy = dismal <-- lugubri 悲傷 = mourn + ous
+    + lull (v)使入睡, 使平靜/使緩和 = soothe = subside, 使放鬆警戒 (n)暫時平息/暫時平靜
     + lumber (v)笨重地移動/蹣跚而行/笨拙地走 (n)雜物, 木材 = lignum
-    + lurid (adj)耀眼的/火紅的 = bright, 駭人聽聞的 = gruesome = sensational = shocking
-    + luster (n)光澤, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
+    + lurid (adj)耀眼的/火紅的 = bright, 令人反感的 = revolting = gruesome, 引起轟動的 = sensational = shocking, 駭人的
 
-    labor
-    n. 劳工；费力地从事；沉重缓慢的走
-
-    laboriously
-    adv. 艰苦地，费力地
-
-    lackluster
-    adj. 沉闷乏味的；毫无生气的
-
-    laconic
-    adj. 简洁的；寡言的；言简意赅的
-
-    lambaste
-    v. 严厉谴责；训斥
-
-    languish
-    v. 中落；衰弱
-
-    latent
-    adj. 潜在的；潜伏的
-
-    latitude
-    n. 自由；纬度
-
-    laud
-    v. 赞美；称赞
-
-    laudable
-    adj. 值得赞美的；值得称赞的
-
-    laudatory
-    adj. 赞扬的
-
-    launch
-    v. 投掷；发射； 推出（新产品）
-
-    lavish
-    adj. 奢侈的；慷慨的；v. 慷慨给予
-
-    lax
-    adj. 松懈的；马虎的；不严格的
-
-    layperson
-    n.外行
-
-    legend
-    n. 民间传说（传奇），传奇文学
-
-    legislation
-    n. 法律；法规
-
-    legitimate
-    v. 使合法；adj. 合理的
-
-    lethargic
-    adj. 不感兴趣的；无动于衷的；慵懒的
-
-    license
-    n. 证书，许可证；v. 同意
-
-    liken
-    v. 把...比作；把...比拟为
-
-    lionize
-    v. 把...视作或捧为名人
-
-    literal
-    adj. 真实的，避免比喻的
-
-    loath
-    adj. 不情愿的；勉强的
-
-    loquacious
-    adj. 非常健谈的；多言的
-
-    lucid
-    adj. 清楚易懂的，明晰的
-
-    lucidity
-    n. 清晰
-
-    lucrative
-    adj. 获利的；有利润的：producing wealth; profitable
-
-    lugubrious
-    adj. 悲戚的；悲伤的
-
-    lull
-    v. 麻痹；使放松警惕；n. 间歇
-
-    lurid
-    adj. 可怕的；耸人听闻的，触目惊心的
-
-    * languish (v)衰弱, 凋萎
-    * laud (n)讚美, 讚歌 --> laudatory (adj)表示讚美的
-    * lawsuit (n)訴訟
-    * learned (adj)博學的 = erudite = scholarly, 學術性的, 透過學習（或經驗等）獲得的
-    * leaven (n)酵母/酵素 = ferment, 促使漸變的因素 (v)使發酵, 逐漸影響
-    * legislature (n)立法機關, 美國州議會
-    * list (n/v)傾斜, 列舉
-    * lenient (adj)(處罰或判決)寬容的/寬大的 = indulgent
-    * lessen (v)減少/降低/減輕 = allay 
-    * leviathan (n)龐然大物/巨人/強者 = behemoth
-    * liberal (adj)開放的/開明的 = catholic, 慷慨的/大方的 (n)自由主義者
-    * licit (adj)合法的/正當的
-    * liege (n)君主/國王
-    * liter (n)公升
-    * lively (adj)精力充沛的/活潑的, 熱烈的, 鮮明的 (adv)活潑地/生氣勃勃地 --> liveliness (n)充滿活力/活潑 = effervescence
-    * loathe (v)憎恨/厭惡 --> loathsome (adj)令人憎惡的/討厭的
-    * lodge (v)存放/保管, 卡住, 提出 (n)借宿, 小屋, 守衛室
-    * loiter (v)遊蕩/閒逛, 磨蹭/徘徊
-    * lore (n)流傳下來的知識/傳說
-    * lowbrow (n)文化修養淺薄的人 <|> middlebrow <|> highbrow
-    * lump (n)隆起/腫塊, 團/塊
-    * luscious (adj)香甜的/甘美的, 成熟性感的, 鬱鬱蔥蔥的 <-- delicious
-    * lust (n)性慾, 強烈的慾望 (v)貪求/渴望 --> lustful (adj)好色的/淫蕩的 = lascivious = salacious, 貪慾的/渴望的
     * lam (v)重打/鞭抽 = lambaste, 畏罪潛逃
     * lap (v)舔食, 使部分重疊/摺疊, 包紮/圍繞 (n)重疊部分, 大腿部/膝部
     * lark (n/v)玩樂/玩耍 = frolic = play <|> park
     * lasting (adj)持久的/永久的 <--> ephemeral
-    * loose (adj)鬆的/散漫的/放蕩的/不嚴密的 (v)解開/放開
+    * lawsuit (n)訴訟
     * lay (v)放, 準備/安排/提出, 平息, 把……歸於, 下蛋/產卵 (adj)世俗的 (n)位置/地形
+    * learned (adj)博學的 = erudite = scholarly, 學術性的, 透過學習（或經驗等）獲得的
+    * leaven (n)酵母/酵素 = ferment, 促使漸變的因素 (v)使發酵, 逐漸影響
     * legate (v)當作遺產讓與 = bequeath --> legacy (n)遺產/遺贈/留給後人的東西 = bequest
+    * legislature (n)立法機關, 美國州議會
+    * leisure (n)閒暇/悠閒/安逸 --> leisurely (adj)悠閒的 --> leisureliness (n)悠然/從容
+    * lenient (adj)(處罰或判決)寬容的/寬大的 = indulgent
+    * lessen (v)減少/降低/減輕 = allay 
+    * leviathan (n)龐然大物/巨人/強者 = behemoth
     * lexicon (n)詞典/語彙
+    * liberal (adj)開放的/開明的 = catholic, 慷慨的/大方的 (n)自由主義者
+    * licit (adj)合法的/正當的
     * lie (v)躺/臥, 位於/在, 在於, 說謊
+    * liege (n)君主/國王
+    * linger (v)逗留/徘徊, 磨蹭/拖延/消磨
     * lion (n)名人/明星, 勇猛的人, 獅子
+    * list (n/v)傾斜, 列舉
+    * liter (n)公升
     * lithe (adj)柔韌而優雅的/柔軟的 = lissome --> lithesome (adj)柔軟的/輕快的 = lissome
+    * lively (adj)精力充沛的/活潑的, 熱烈的, 鮮明的 (adv)活潑地/生氣勃勃地 --> liveliness (n)充滿活力/活潑 = effervescence
+    * lodge (v)存放/保管, 卡住, 提出 (n)借宿, 小屋, 守衛室
+    * loiter (v)遊蕩/閒逛, 磨蹭/徘徊
     * long (v)渴望 (adj)長的/久的 --> longing (n)渴望
+    * loose (adj)鬆的/散漫的/放蕩的/不嚴密的 (v)解開/放開
     * loosen (v)變鬆/鬆開
     * lop (v)砍/修剪/刪削
+    * lore (n)流傳下來的知識/傳說
     * lot (n)籤, 命運, 份 (v)抽籤, 劃分 --> lottery (n)彩券/抽籤, 運氣
-    * linger (v)逗留/徘徊, 磨蹭/拖延/消磨
-    * leisure (n)閒暇/悠閒/安逸 --> leisurely (adj)悠閒的 --> leisureliness (n)悠然/從容
+    * lowbrow (n)文化修養淺薄的人 <|> middlebrow <|> highbrow
     * lucent (adj)發光的/透光的
+    * lump (n)隆起/腫塊, 團/塊
+    * luscious (adj)香甜的/甘美的, 成熟性感的, 鬱鬱蔥蔥的 <-- delicious
+    * lust (n)性慾, 強烈的慾望 (v)貪求/渴望 --> lustful (adj)好色的/淫蕩的 = lascivious = salacious, 貪慾的/渴望的
 
     ^ lace (n)鞋帶/帶子, 花邊/金邊/飾帶/精細網織品
     ^ lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     ^ lackadaisical (adj)無精打采的 = listless, 無興趣的 <-- lackaday [古]悲哉
-    ^ lackluster (adj)無光澤的, 無生氣的/呆滯的 = dull
     ^ lag (v)落後/滯留
     ^ lair (n)野獸的巢穴, 躲藏處/祕密藏身處
-    ^ laity (n)俗人/外行人 <-- lay 世俗 + ity
+    ^ laity (n)普通信徒 <--> clergy, 外行人 <-- lay 世俗 + ity
     ^ lament (n/v)悲傷/哀悼 = grief = sorrow = grieve
     ^ lampoon (n)諷刺文章 (v)諷刺
     ^ lance (n)長矛, 魚叉
@@ -1718,13 +1629,11 @@
     ^ leaven (n)發酵劑, 影響力 (v)發酵, 影響 <-- leav 舉起 = raise + en
     ^ lectern (n)讀經臺 <|> lecture
     ^ ledger (n)帳簿
-    ^ legend (n)地圖裡的說明文字或圖例, 傳說
     ^ levelheaded (adj)頭腦冷靜的/穩健的
     ^ lever (n)槓桿 (v)撬動/撬起
     ^ liable (adj)易...的 --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
     ^ liaison (n)聯絡/聯繫/私通 <-- ligate
     ^ lien (n)扣押權/留置權
-    ^ liken (v)把……比作 = compare to <-- like
     ^ limb (n)肢/臂/腳/翼, 大樹枝
     ^ limber (adj)易彎曲的, 敏捷的 = flexible
     ^ limerick (n)五行打油詩
@@ -1754,7 +1663,6 @@
     ^ lubricate (v)潤滑 --> lubricant (n)潤滑劑 <-- lubric 光滑的 = smooth + ate
     ^ lug (n/v)使勁拉/硬扯
     ^ lukewarm (adj)微溫的 = tepid, 不夠熱心的/冷淡的 = indifferent <-- luke 微溫的 = tepid + warm
-    ^ lull (v)使入睡/使平靜/使緩和 (n)暫時平息/暫時平靜
     ^ lullaby (n)搖籃曲 <-- lull + baby
     ^ lumberjack (n)伐木工 <-- lumber + jack
     ^ lump (n)一塊, 腫塊 (v)形成塊狀
@@ -1771,8 +1679,7 @@
     ^ lanky (adj)瘦高的/細長的
     ^ liquidate (v)清算, 肅清
     ^ lewd (adj)淫穢的/色情的/猥褻的/下流的 = indecent = obscene = bawdy
-    ^ lethargy (n)昏睡/無氣力
-    ^ lingo (n)外國語言, 隱語/行話/術語 = argot = lingo
+    ^ lingo (n)外國語言, 隱語/行話/術語 = argot
     ^ lotion (n)護膚油/防曬油
     ^ league (n)(體育)聯賽, 聯盟 --> leaguer (n)盟員 (n/v)圍攻 = beleaguer
 
@@ -2679,7 +2586,7 @@
     + striking (adj)引人注目的/明顯的
     + stringent (adj)規定嚴格的/苛刻的, 缺錢的 <-- string
     + strip (v)剝/剝光, 剝奪/掠奪 (n)狹長的一片
-    + strive (v)努力/奮鬥 <|> strife
+    + strive (v)努力/奮鬥 = labor <|> strife
     + struck (adj)因罷工而關閉的/受到罷工影響的
     + strut (v)趾高氣昂地走 (n)支柱 = brace
     + stultify (v)使變得無效/使無用, 使變得荒謬可笑 <-- stult 愚笨 = stupid + ify
@@ -3152,7 +3059,7 @@
 
     * tactless (adj)不機智的/笨拙的/不圓滑的 = gauche
     * taint (v)污染, 玷污/敗壞 = sully = besmirch = defile = slander = smear
-    * talkative (adj)喜歡說話的/饒舌的/健談的 = garrulous = wordy
+    * talkative (adj)/健談的 = loquacious = voluble
     * tame (adj)馴服的/溫順的/安全無害的, 乏味的/單調的, 沒骨氣的 (v)馴化/馴養/使順從/使軟化, 開墾
     * tangle (v)使糾纏/使纏住, 使捲入, 使混亂 (n)纏結, 紛亂/混亂
     * tear (v)撕裂 --> tearful (adj)流淚的/哭泣的/令人傷心的 = mournful = lachrymose
@@ -3250,7 +3157,7 @@
     ^ tissue (n)細胞組織, 薄紙/棉紙
     ^ titanic (adj)巨人的/力大無比的 = colossal
     ^ titular (adj)有名無實的/名義上的 <-- title
-    ^ toil (n/v)辛苦/勞累
+    ^ toil (n/v)辛苦/勞累 = labor
     ^ tolerate (v)忍受/容忍/容許 --> tolerance (n)容許量/公差, 容忍/忍受
     ^ tombstone (n)墓碑/墓石 <-- tomb + stone
     ^ tongs (n)夾子/鉗子
@@ -3325,7 +3232,7 @@
     * urge (v)力勸/驅策 = impel (n)(無法控制的)慾望/衝動 = compulsion
     * urgent (adj)緊急的/急迫的
     * usher (v)引導/引領, 迎接, 預報...的到來 = herald
-    * uterus (n)子宮
+    * uterus (n)子宮 --> uterine (adj)子宫的
     
     ^ ugly (adj)難看的, 可怕的/討厭的/邪惡的/醜陋的
     ^ ulcer (n)潰瘍, 腐爛物, 道德敗壞/腐敗
@@ -3452,7 +3359,7 @@
     * withhold (v)拒絕給予 = deny = decline = forbear, 扣留/保留
     * woe (n)困難/災難/不幸 = calamity, 悲傷/悲哀 --> woeful (adj)極壞的/極糟糕的 = abysmal = egregious, 極為悲哀的/極為悲傷的 = pathetic
     * wont (n/v)慣於/習慣 --> wonted (adj)習慣的/平常的/慣例的
-    * wordy (adj)嘮叨的 = talkative = garrulous = verbose, 冗長的, 文字的
+    * wordy (adj)嘮叨的 = garrulous = verbose = loquacious, 冗長的, 文字的
     * worship (v)敬奉/崇拜/信仰, 寵愛 (n)敬奉/信奉, 狂熱推崇 --> worshipful (adj)崇拜的/虔誠的 = reverent
     * wretch (n)可憐的人, 卑鄙的人 --> wretched (adj)不幸的/可憐的, 惡劣的/卑鄙的/無恥的 = filthy
     * wring (v)擰, 擰乾
