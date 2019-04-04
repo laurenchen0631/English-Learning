@@ -1498,26 +1498,20 @@
     ^ jolt (v)搖動/顛簸 (n)搖動/顛簸/震動 = jerk
     ^ jot (v)草草記下 (n)一點兒/極少
     ^ jovial (adj)愉快的 = jocund = jolly = boon
-    ^ 
 
 [K]
-    + kindle (v)著火/點燃 = ignite = inflame, 激起/煽動 = incite = arouse
+    + keen (adj)尖刻的, 精明的 = acute, 熱烈的 = intense, 渴望的 = eager = interested = enthusiastic
+    + kindle (v)著火/點燃 = ignite = inflame, 激勵/刺激 = incite = arouse = excite = stir up = inflame
+    + kindred (adj)相似的/有關的
     + knell (n)喪鐘, 破滅的信號/凶兆 (v)鳴喪鐘, 預報凶兆
-    + kudos (n)榮譽 = fame = glory = honor
+    + knotty (adj)有結的/多節的, 複雜難懂的 = involved = intricate
+    + kudos (n)榮譽 = fame = glory = honor = acclaim
 
-    keen
-    adj. 热烈的；聪明的；尖刻的
-
-    kindred
-    adj. 类似的；相似的
-
-    knotty
-    adj. 复杂的；难以解决的
-
-    * kindly (adv)仁慈地/友好地 (adj)仁慈的/和藹的/友好的 = amicable = affable = avuncular
     * ken (n)視野/眼界 = perception, 知識範圍
+    * kindly (adv)仁慈地/友好地 (adj)仁慈的/和藹的/友好的 = amicable = affable = avuncular
     * kin (n)親屬 --> kinship (n)親屬關係
 
+    ^ kaleidoscope (n)萬花筒, 千變萬化/變化多端 <-- kal 美麗的 = beautiful + eido 形狀 = form + scope 
     ^ kangaroo (n)袋鼠
     ^ kempt (adj)整潔的
     ^ kennel (n)狗舍/狗窩 = doghouse <|> kernel <-- ken 狗 = dog +  nel 
@@ -1529,7 +1523,6 @@
     ^ knave (n)流氓/惡棍
     ^ knead (v)揉製/捏製, 推拿/按摩
     ^ knit (v)編織, 使接合/使聯合 = connnect
-    ^ knotty (adj)有結的/多節的, 難解決的/困難的
     ^ know-how (n)專業技能/知識
 
 [L]
