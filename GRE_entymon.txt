@@ -365,6 +365,7 @@
         + artless (adj)粗俗的, 自然的/直率的/單純的 = guileless = natural = ingenuous --> artlessness
         + artifact (n)人工製品 --> artifacts (n)史前古物 --> artificial (adj)人造的, 假的
         - artifice (n)巧技, 詭計 = contrivance = finesse
+        * article (n)文章, 物品/物件, 商品 = commodity, 條款
 
     asper 粗暴 = rough
         + asperity (n)嚴厲 = severity = harshness, 粗魯 = roughness, 艱難 = hardship = rigor <|> aspersion
@@ -429,7 +430,7 @@
     act 動作 = do 
         - counteract
         - enact (v)制定(法律), 扮演(角色)
-        + exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise, 嚴格的 = strict = rigorous
+        ++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise, 嚴格的 = strict = rigorous
         + exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)辛苦的
         - exactitude (n)精確性/正確性
         - interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
@@ -736,7 +737,7 @@
         + concede (v)讓步 = compromise = yield, 承認(失敗) = admit --> concession (n)(常指為結束爭端而)認可/讓步/妥協, 認輸
         + cede (v)(不情願地或被迫)割讓/放棄 = yield = surrender --> cession (n)割讓
         - exceed (v)超過/超出
-        + excess (n)過度/過量, (保險)免賠款 --> excessive (adj)過度的/極度的
+        + excess (n)過度/過量, (保險)免賠款 --> excessive (adj)過度的/極度的 = immoderate = overly = undue = superfluous = inordinate = extravagant
         - cessation (n)結束/中斷/中止
         - incessant (adj)無間斷的/連續的
         - intercede (v)說好話/說情/代為求情 --> intercession (n)仲裁/調解, 求情/說情
@@ -1559,7 +1560,7 @@
             - diagonal (n)對角線 (adj)對角的
             - diamangentism (n)反磁性
             + diaphanous (adj)薄如蟬翼的 = trasnparent = vague  <-- dia + phan 
-            - dialect
+            * dialect
             - diameter
     
     div, dei, deus 神 = god
@@ -1924,7 +1925,7 @@
         - engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
         - engulf (v)吞噬 = overwhelm
         + enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
-        - enjoin (v)命令/吩咐
+        - enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe
         + enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
         - enlist (v)徵兵, 贊助/支持
         - enliven (v)使活躍 <-- en + life + en
@@ -2620,7 +2621,7 @@
         - hypnotism (n)催眠
 
     hor 憤怒/怕 = bristle, tremble
-        - abhor (v)憎恨 = abominate --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
+        - abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
         - horrible (adj)可怕的
         - horrid (adj)令人不愉快的/不友好的
         - horripilate (v)起雞皮疙瘩 --> horripilate (n)雞皮疙瘩/毛骨悚然 = goosebumps
@@ -3226,7 +3227,7 @@
         * judicial (adj)司法的/審判的, 法官的/法庭的, 公平的
         + judicious (adj)明斷的/明智而審慎的 = discreet = prudent = circumspect
         * prejudge (v)預先判斷
-        * prejudice (n)偏見/成見 (v)使產生偏見 --> prejudiced (adj)有成見的/有偏見的
+        * prejudice (n)偏見/成見 = jaundice (v)使產生偏見 = jaundice --> prejudiced (adj)有成見的/有偏見的
 
     jug 束縛 = yoke
         + conjugal (adj)婚姻的
@@ -3261,6 +3262,7 @@
             + legislate (v)制定法律 --> legislation (n)制定法律, 法條/法規
             - legal (adj)法律的, 合法的/正當的 = legitimate
             + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine
+            * legislature (n)立法機關, 美國州議會
             + privilege
 
     lev, liev 輕/舉 = light, lift
@@ -3311,6 +3313,7 @@
         + elucidate (v)闡明 = explain = clarify
         + illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 啟發 = enlighten <-- il + lumin + ate
         - illuminati (n)先覺者/智者
+        * lucent (adj)發光的/透光的
         - lumen (n)流明
         - luminant (adj)發光的
         - luminary (n)傑出人物/名人 = lion
@@ -3325,7 +3328,7 @@
 
     lect, lig, lit
         1. 講 = speak
-            * dialect (n)方言 = patois
+            * dialect (n)方言 = patois = idiom
             - lecture (n/v)講課, 訓斥/斥責
 
         2. 選 = pick, choose
@@ -3550,7 +3553,7 @@
         + demise (n)死亡 = decease = death, 終結 = termination, 財產轉讓
         + dismiss (v)解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
         + dismissal (n)解僱, 駁回
-        - emissary (n)特使/密使, 間諜 (adj)密使的, 間諜的
+        - emissary (n)特使/密使 = legate, 間諜 (adj)密使的, 間諜的
         - emit (v)放射/發出 = evolve, 發行 --> emission (n)放射/發出, 排放物/放射物
         - intermit (v)使暫停/使中斷 --> intermission (n)暫停/間歇 = interlude
         - intermittent (adj)斷斷續續的/週期的/間歇的
@@ -3640,6 +3643,8 @@
         + immune (adj)免疫的, 豁免的 = exempt, 不受影響的 <--> susceptible --> immunity (n)免疫, 豁免 --> immunize (v)使免疫
 
     micro, min, mini, minu 小/微 = small
+        + diminish (v)減少/減小/降低 = curtail = abridge = abate = wane = pare = lessen, 輕視 = disparage = detract = belittle --> diminution (n)減少/縮減
+        * diminutive (adj)微小的 = minuscule = lilliputian
         - microbe (n)微生物
         - microorganism (n)微生物/細菌 = bacterium
         - microscope (adj)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
@@ -3651,21 +3656,16 @@
         - minion (n)奴才/低下之人
         - minuet (n)小舞步
         - minute (adj)微小的 (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
-        + minuscule (adj)微小的 = small = lilliputian
+        + minuscule (adj)微小的 = small = lilliputian = diminutive
         - minuscular (adj)微不足道的
         + minutia (n)細節/小事 = petty details
 
-    min, minu
-        1. 減少 = lessen
-            + diminish (v)減少/減小/降低 = curtail = abridge = abate = wane = pare = lessen, 輕視 = disparage = detract = belittle --> diminution (n)減少/縮減
-            * diminutive (adj)微小的
-
-        2. 突出 = jug, rise, project
-            + eminent (adj)著名的/卓越的 = prominent = distinguished = lofty, 高聳的/凸出的 = lofty = dominant, 顯眼的/顯著的 = conspicuous = protruding = prominent = projecting
-            - eminence (n)卓越/著名, 高處
-            + imminent (adj)逼近的/即將發生的 = impending
-            + preeminent (adj)出類拔萃的 = supreme = outstanding
-            - prominent (adj)突起的/凸出的, 著名的/卓越的 = eminent, 顯眼的 = eminent
+    min, minu 突出 = jug, rise, project
+        + eminent (adj)著名的/卓越的 = prominent = distinguished = lofty, 高聳的/凸出的 = lofty = dominant, 顯眼的/顯著的 = conspicuous = protruding = prominent = projecting
+        - eminence (n)卓越/著名, 高處
+        + imminent (adj)逼近的/即將發生的 = impending
+        + preeminent (adj)出類拔萃的 = supreme = outstanding
+        - prominent (adj)突起的/凸出的, 著名的/卓越的 = eminent, 顯眼的 = eminent
 
     mir 驚奇/看 = wonder at, look
         - admire (v)欽佩/讚賞 = adore = accolade (n) = acclaim = appreciate = applaud = extol
@@ -3675,6 +3675,7 @@
         - mirror (n)鏡子, 榜樣/典型/寫照 (v)反映/反射
 
     mod, mode 方式/限制 = manner, limit
+        - immoderate (adj)過度的 = excessive = extreme 
         - mode (n)樣式/時尚, 方法/做法/模式, 形式/種類/風格
         * modest (adj)謙虛的, 審慎的, 適度的/不太大或多的, 端莊的/穩重的
         * moderate (adj)中等的/適度的 = modest, 溫和的/不偏激的, 一般的/平庸的 --> moderation (n)適度/節制 = temperance = continence
@@ -4137,7 +4138,7 @@
         - oratorio (n)清唱劇
 
     ord 命令 = order
-        - ordain (v)任命神職, （上帝或權威人士）命令/下令
+        - ordain (v)任命神職, （上帝或權威人士）命令/下令 = prescribe = enjoin
         - ordinance (n)法令/條例
         - ordnance (n)大砲, 軍械
         - orderly (adj)整齊的/有條理的/整潔的, 守秩序的/和平的 (n)勤務員/護理員, 傳令兵
@@ -4406,6 +4407,7 @@
             - perforate
             + permanent (adj)永久的/永恆的 = perennial <-- per + mane 保留 = remain + ent
             + permeate (v)充滿/彌漫, 滲入/透過 = saturate = imbue --> permeable (adj)可滲透的/可穿過的 = penetrable = pervious
+            + permeable (adj)可滲透的/可穿過的 = penetrable = pervious
             - permit --> permissive
             - perpendicular
             - perspective
@@ -4665,7 +4667,7 @@
         - depose (v)宣誓證明, 罷免/免職 --> deposition (n)證言, 罷免/免職, 沉澱
         * discompose (v)使不安/使煩惱
         - disposal (n)清除/處理
-        * dispose (v)配置/布置, 處理/處置, 使傾向於, 決定 --> disposition (n)性格 = characteristic attitude, 傾向/意向 = inclination, 配置/布置, 處理/清除
+        *** dispose (v)配置/布置, 處理/處置, 使傾向於, 決定 --> disposition (n)性格 = characteristic attitude, 傾向/意向 = inclination, 配置/布置, 處理/清除
         * disposable (adj)一次性的/用完即丟的, 可用的
         + exposition (n)闡述/說明, 展覽會/博覽會 --> expository (adj)說明的 = explanatory
         - expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
@@ -4720,6 +4722,7 @@
         ++ comprehend (v)充分理解/領悟 = fathom = perceive, 包括 = embrace = comprise = include
         - comprehensible (adj)能充分理解的 = lucid = intelligible
         + comprehensive (adj)包羅萬象的 = fulsome
+        - impregnate (v)使懷孕, 灌輸 = saturate = imbue, 浸漬/使（固體）吸收（液體）
         - impregnable (adj)攻不破的/征服不了的
         - pregnable (adj)易受攻擊的/有弱點的
         + prehensile (adj)能抓住的, 能纏繞的
@@ -4839,8 +4842,8 @@
         + inexplicable
         - multiplex (adj)許多的/多樣的, 多路通訊的 --> multiplicity (n)多樣性
         + perplex (v)使困惑/使擔憂 = confound = baffle = puzzle = confuse --> perplexity (n)困惑/茫然
-        - pliable (adj)易彎的/柔軟的 = flexible
-        - pliant (adj)易受影響的, 易彎的 = pliable
+        - pliable (adj)易彎的/柔軟的 = flexible = lithe = limber = supple
+        - pliant (adj)易受影響的, 易彎的 = pliable =
         - plight (n)困境/苦境, 誓約 (v)發誓/保證
         + replicate (n)摺疊, 複製 (adj)摺疊的, 複製的 (n)複製品
         + supple (adj)易彎曲的/柔軟的/順從的, 適應性強的 <-- supplicate
@@ -4861,6 +4864,7 @@
         * depict (v)描繪/描述 = delineate
         - picture (n)圖畫/圖像, 電影, 想像/印象
         - pictorial (adj)繪畫的, 用圖表示的/有插圖的
+        - picturesque (adj)如詩如畫的, 生動的(作品)
 
     press 壓
         - compress (v)壓縮/壓緊, (文字、資訊)精煉/濃縮 (n)(止血、止痛或消腫)敷布/壓布
@@ -4875,7 +4879,7 @@
     
     punct, pung 刺 = prick == trus
         - acupuncture
-        + compunction (n)良心的不安/內疚/自責/懊悔 = uneasiness = contrition = remorse 
+        + compunction (n)良心的不安/內疚/自責/懊悔 = uneasiness = contrition = remorse = repentance
         - expunge (v)刪除
         - punctual (adj)準時的/守時的
         + punctilious (adj)謹小慎微的/精密細心的/一絲不苟的
@@ -5195,7 +5199,7 @@
             - relate
             - relent (v)發慈悲/憐憫, 減弱 --> relenting (adj)憐憫的, 減弱的 <-- re + lent 彎 = bend
             + relentless (adj)無情的/殘酷的
-            - remorse (n)懊悔/悔恨 = compunction = contrition < -- re + morse 咬 = bite
+            - remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence < -- re + morse 咬 = bite
             - remove (v)移走/脫掉, 遷移
             + render (v)呈遞/提供/歸還, 放棄, 表達/描繪, 表現/表演, 翻譯 = present <-- re + n + der 提供 = give
             - rendering (n)演出 = performance, 翻譯 = translation
@@ -5320,7 +5324,7 @@
 
     rud 原始 = unformed, rough
         + erudite (adj)博學的 = learned = scholarly
-        + rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的, 未充分發展的
+        + rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的, 未充分發展的 = inchoate
         - rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 未加工的, 未開化的/原始的, 大略的, 強健的
 
     rug 皺/皺紋 = wrinkle
@@ -5533,7 +5537,7 @@
         - constitutional (adj)憲法或章程允許的, 素質上的/本質的 = essential, 體質的/體格的
         - contrast (n)對比 (v)對照/對比, 形成對比
         - desist (v)停止/中止
-        - destitute (adj)一無所有的/一貧如洗的 = impecunious = indigent = needy --> destitution (n)匱乏/窮困
+        - destitute (adj)一無所有的/一貧如洗的 = impecunious = indigent = needy --> destitution (n)匱乏/窮困 = penury
         - distant (adj)疏遠的/冷淡的 = aloof, 遙遠的, 遠親的
         - ecstasy (n)狂喜 = bliss = euphoria = joy, 搖頭丸
         + extant (adj)現存的/尚存的
@@ -5602,7 +5606,7 @@
         + circumscribe
         - inscribe (v)題寫/刻寫/在某物上寫, 題贈
         - manuscript
-        - prescribe (v)開處方 --> prescription (n)處方
+        - prescribe (v)規定/命令/指定 = direct = dictate = appoint = ordain = enjoin, 開處方 --> prescription (n)處方
         + proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw
         - scribble (v)亂寫/亂塗 
         - script (n)劇本/腳本
@@ -6089,7 +6093,7 @@
         - pertainacious (adj)固執的/不妥協的 = intransigent = uncompromising = inflexible = insubordinate = disobedient
         + retain (v)保留/保持/留住 = maintain = preserve --> retainer (n)侍從 = servant
         - retinue (n)侍從/隨員團 = retainer
-        + sustain (v)保持/維持, 承受/承擔/支撐 = suffer, 支持 = support = buoy = bolster = endorse --> sustained (adj)持久的/經久不衰的
+        + sustain (v)保持/維持, 承受/承擔/支撐 = suffer = undergo, 支持 = support = buoy = bolster = endorse --> sustained (adj)持久的/經久不衰的
         - sustenance (n)食糧/糧食/營養, 生計 <-- sustain
 
     tract, ten, tent
@@ -6284,7 +6288,7 @@
         - tornado (n)颶風/龍捲風
 
     trit, tribe 摩擦 = rub, wear down
-        + contrite (adj)悔罪的/悔恨的 = repentant --> contrition = compunction = remorse
+        + contrite (adj)悔罪的/悔恨的 = repentant --> contrition (n)悔恨 = compunction = remorse = penitence
         + trite (adj)陳腐的/老一套的 = banal = hack
         - attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
         - triturate (v)磨碎/搗碎
@@ -6379,7 +6383,7 @@
         - undeserved (adj)不應得的 <-- un + deserved
         - undesirable (adj)令人不悅的/討厭的 = unwanted
         - undirected (adj)未受制導的
-        + undue (adj)過度的/過分的 = overly, 不適當的/不正當的, 未到期的 --> unduly (adv)過度 
+        + undue (adj)過度的/過分的 = overly = excessive, 不適當的/不正當的, 未到期的 --> unduly (adv)過度 
         - unearth (v)掘出/使出土, 發現 = discover
         - unearthly (adj)奇異的 <-- un + earthly
         * uneasiness (n)焦慮/不安 = compunction
@@ -6469,6 +6473,7 @@
         + undercut (v)削價競爭/廉價出售, 暗中破壞 (n)牛豬的腰肉, 下旋削球, 浮雕
         - underdog (n)失敗者, 受壓迫者
         - undergird (v)加強/從底層鞏固
+        * undergo (v)經歷 = experience = pass through, 忍受 = endure = sustain = suffer
         - underhanded (adj)不光明的/卑鄙的
         - underling (n)下屬/手下
         + underlying (adj)在下面的 = below, 根本的 = basic = fundamental
@@ -6751,7 +6756,7 @@
         * avow (v)承認, 公開宣稱 = admit = affirm = assert = aver = concede = proclaim -> avowal (n)
         + devote (v)把…奉獻給, 將…用於 --> devoted (adj)摯愛的/熱愛的/忠實的
         * devout (n)虔誠, 真摯/誠懇 <-- devote
-        - devotee (n)崇拜者/愛好者
+        - devotee (n)崇拜者/愛好者 = idolater
         - devotional (adj)虔誠的/獻身的, 忠誠的/專心的
         * disavow (v)否認/推翻前言
         - votary (n)信徒/崇拜者
@@ -6779,7 +6784,7 @@
         - clairvoyance
         + convey (v)運送/運輸/傳遞 = transport = bear = consign = transmit, 表達/傳達 = express = communicate
         - convoy (v)護衛/護送 (n)艦隊/車隊
-        - envoy (n)使者/使節/代表
+        - envoy (n)使者/使節/代表 = legate
         - voyage (n)航海/航行/旅行 = odyssey (v)旅行
         + deviate (v)偏離/背離 = depart = diverge = digress --> deviant (adj)越軌的/異常的 = aberrant --> deviation (n)越軌, 背離
         * devious (adj)迂迴的/間接的 = indriect = roundabout = circuitous = tortuous, 精心設計的/會算計的
@@ -6822,7 +6827,7 @@
 
     vibr 震動 = shake
         - vibrant (adj)震動的, 明快的 = bright, 生機勃勃的 --> vibrancy (n)生機勃勃/活潑
-        - vibrate (v)顫動/震動 --> vibration (n)震動/顫動/共鳴
+        - vibrate (v)顫動/震動 = jar --> vibration (n)震動/顫動/共鳴
 
     vicin 鄰近 = near
         - vicinity (n)附近/接近 = neighborhood = proximity
