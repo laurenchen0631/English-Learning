@@ -34,7 +34,7 @@
         > It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever consigning others, in the end, all his self-adulation has only worked against him.
             >> it is ... that ...
             >> vanity
-            >> consign
+            >> consign to
             >> self-adulation 妄自尊大
 
     - a string of == a series of 
@@ -326,6 +326,13 @@
             >> venture == adventure
             >> determination to
             >> someone's hold on ...對...的掌握
+    
+    - A be no more ... than B == A跟B都是不...的
+        > But the play's complex view of Black self-esteem and human solidarity as compatible is no more contradictory than 
+        Du Bois's famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon's emphasis on an ideal internationalism that also accommodates national identities and roles.
+            >> coexist with
+            >> emphasis on
+            >> accommodate == become adjusted or adapted
 
     - be oneself 自然/不做作 == conduct oneself in a usual or fitting manner
         > James had idolize the professor so much for so long that even after lunching with her several times he remained quite inhibited in her presence and as a result, he could not really be himself.
@@ -379,7 +386,99 @@
         > Working for merchant entrepreneurs on time rates, women had been paid hardly more than children; working as entrepreneurs themselves and producing good work by the piece, they could break into the rational system of differential rewards.
             >> hardly == just == only
 
+    - bring A to bear on B 利用A來做/處理B
+    - bring A to someone's attention == draw someone's attention
+        > If we don't keep bring this to the attention of the people, nothing will be done.
+        > We conclude by drawing attention to the issues around which the the debate should focus.
+        > Prudery actually draws attention to the vice it is supposed to obviate, the very act that forbids speech or prohibits sight foster what is hidden.
+            >> prudery == excessive propriety or modesty in speech
+            >> obviate == avoid or prevent
+            >> foster == further == encourage
 
+    - bring to light == disclose == reveal == become obvious or mad known to a lot of people
+    - building block == one of the separate parts that combine to make that thing
+        > When phytoplankton utilize carbon dioxide for photosynthesis, the carbon becomes a building block for organic matter, but the carbon leaks back into the atmosphere when predators consume the phytoplankton and respire carbon dioxide.
+            >> phytoplankton 浮游植物 <-- phyto 植物 + plankton 浮游生物
+
+    - by contrast == in contrast == in contrast to 相較之下
+        > Given how patent the shortcoming of the standard economic model are in its portrayal of human behavior, the failure of many economist to response to them is astonishing. Theㄗ continue to fill the journals with yet more proofs of yet more improbable theorems. Others, by contrast, accept the criticisms as a challenge, seeking to expand the basic models to embrace a wider range of thing people do.
+            >> given
+            >> how adj S be == S be adj
+            >> patent == evident = obvious
+    - by virtue of 憑藉/由於 == through the force of == by authority of
+        > The article stuck in my mind by virtue of one detail.
+    - by way of == use
+        >> It has thus generally been by way of the emphasis on oral literary creativity that these Chicano writers, whose English-language works are sometime uninspired, developed the powerful and arresting language that characterize their Spanish-language works.
+            >> it has been ... that == it is ... that ...
+            >> Chicano 墨西哥裔美國籍
+            >> arresting == attractive
+
+[C]
+    - call attention to == make people know and be concerned or think about something
+    - call for == require == demand
+        > The job calls for typing skill.
+        > Consequently, the 1950s saw a growing number of women engaged in farm labor, even though rhetoric in the popular media called for the return of women to domestic life.
+            >> consequently 結果/因此
+            >> engage in 從事
+            >> rhetoric == bombast == the undue use of exaggeration
+            >> domestic == of or relating to the home, the household, household affairs, or the family
+    - call ... into question == be in question == doubt
+        > The results of the experiments performed by Elizabeth Hazen and Rachel Brown were provocative not only because these results challenged old assumption but also because they called the prevailing methodology into question.
+            >> provocative == inciting, stimulating, irritating, or vexing
+            >> prevail == exist everywhere
+    - come into being 形成 == begin existence
+        > This idea came into being during the last decade.
+        > The passage implies that feelings of hopelessness among medieval works came into being in part because of women's limited earning capacity
+    - can hardly help doing sth 不得不/情不自禁 == cannot help doing sth == be unable to prevent yourself from doing sth.
+        > I could hardly help teasing him a little.
+        > As a member of the middle class, Gaskell could hardly help approaching working-class life as an outside observer and a reporter, and the reader of the novel is always conscious of this fact.
+            >> be conscious of 意識到...
+    - cast doubt on sth 使產生懷疑/使不確信
+        > Last night a top criminal psychologist cast doubt on the theory.
+    - close the books on 完成/結束 = be finished
+        > Vaillant, who has been particularly interested in the means by which people attain mental health, seems to be looking for definitive answers: a way to close the book on at least a few questions about human nature.
+            >> be interested in
+            >> at least
+    - comb through sth == look at sth very carefully in order to find something.
+        > Eight police then spent twp years combing through the evidence.
+        > There is no point in combing through the director's work for hints of ideological significance. It is unnecessary: his ideology - Marxist, anti-imperialist, aligned with the perceived interests of the powerless and the margin - is the chief impetus of his films. The clarity and force of that ideology are considerable, but its bluntness sometimes bothers critics, who often scold the director for lacking subtlety.
+            > no point in 無意義的
+            > significance == meaning == import
+            > Marxist == anti-imperialist 馬克思主義/反帝國主義
+            > impetus == impulse == stimulus
+    - concerted effort 竭力/盡力
+    - consign A to B 把A置於B的境地
+        > It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever consigning others, in the end, all his self-adulation has only worked against him.
+
+[D]
+    - deal with
+        1. 討論/涉及 == be concerned with
+            > the parts of this books which deal with contemporary Paris
+        2. 處理/應付 == solve a problem or make a decision concerning them
+            > The wat that building societies deal with complaints.
+            > In dealing with suicidal youngsters, our aims shod be clear.
+        3. 克制/冷靜面對 == remain clam and in control of yourself in spite of the emotion.
+            > She saw a psychiatrist who use hypnotism to help her deal with her fear.
+                >> psychiatrist
+    - defer to 遵從/順從 == comply with
+        > Here, the evolutionary theory must defer to a theory based on an explicit development mechanism that can favor either right- or left-handedness.
+            >> either A or B
+    - die hard (習慣或觀念)難以改掉
+        - Old habits die hard.
+        - The modern age is a permissive one in which things can be said explicitly, but the old tradition of euphemism dies hard.
+            >> permissive == indulgent == lenient == merciful == clement
+            >> euphemism
+
+    - dispense with 屏棄/不用 = stop using or ge rid of it completely
+        > Many household have dispensed with their old-fashioned vinyl turntable.
+            >> vinyl turntable 黑膠唱機
+        > She did not regard this use of mush as ideal, however, believing that she would someday dispense with music entirely.
+    
+[I]
+    - in spite of 儘管 == despite of 
+
+[S]
+    - subordinate A to B 把A置於B的次要地位 == A is less important than B
 
 [T]
     to and fro (adv) 往復地/來回地
