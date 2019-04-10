@@ -30,7 +30,7 @@
     + arabesque (n)藤蔓圖飾/阿拉伯花飾
     + argot (n)隱語/行話/黑話 = cant = jargon = lingo = patois
     ++ arrest (v)逮補/拘留 = apprehend = collar, 阻止/妨礙/抑制(疾病) = hinder = check, 引起注意 = engage --> arresting (adj)引人注意的
-    + ascetic (adj)禁慾的 = abstentious = austere (n)苦行僧 <|> aseptic
+    + ascetic (adj)禁慾的 = abstentious = austere = monastic (n)苦行僧 <|> aseptic
     + astound (v)使震驚 = astonish = stagger --> astounding (adj)令人震驚的 <-- astonish
     + astute (adj)敏銳的/精明的 = acute = shrewd = canny
     + asylum (n)避難所/庇護所 = refuge = sanctuary = shelter, 精神病院
@@ -58,7 +58,7 @@
     * attorney (n)律師 = lawyer
     * avalanche (n)雪崩, 大量 = flood
 
-    abash (v)使尷尬
+    abash (v)使不安/使尷尬
     abide (v)忍受 = endure = tolerate --> abide by 遵守
     aboveboard (adj/adv) 光明正大
     absenteeism (n)曠課/曠工
@@ -158,7 +158,7 @@
     + beatify (v)(天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福 = sanctify = bless
     + bedizen (v)俗麗地穿著 <-- dizen (v)裝飾/穿得漂亮
     + befriend (v)對…友好 = help = aid, 交朋友
-    + befuddle (v)使迷惑/使困惑 = confuse = bewilder --> befuddlement (n)迷惑/困惑 <-- fuddle
+    + befuddle (v)使迷惑/使困惑 = confuse = bewilder = confound --> befuddlement (n)迷惑/困惑 <-- fuddle
     ++ beguile (v)欺騙/誆騙, 使著迷/使分心 = charm = divert = hypnotize = fascinate, 度過(愉快的時光)
     + behemoth (n)龐然大物, 強大的事物 = leviathan
     ++ belie (v)掩飾 = misrepresent, 證明為假 = disprove = contradict
@@ -186,7 +186,7 @@
     + bold (adj)勇敢的/無畏的 = audacious, 醒目的/顯著的 = conspicuous, 冒昧的/魯莽的 = audacious = abrupt
     + bolster (n)長墊/靠墊 = cushion (v)支持/鼓勵 = support = advocate
     + bombast (n)高調/誇大之詞/大話 = rhetoric --> bombastic (adj)誇大的 = pompous = orotund = inflated = exaggerated
-    ++ boon (n)恩賜/利益 = blessing = benefit (adj)快活的/歡樂的 = jolly = jovial = convivial = blithe
+    ++ boon (n)恩賜/利益 = blessing = benefit (adj)快活的/歡樂的 = jolly = jovial = convivial = blithe = merry
     + boor (n)粗魯無禮之人 = peasant --> boorish (adj)粗野的/粗鄙的 = rude = churlish <-- farmer 德文
     ++ bound (adj)極有可能的/必然的, 受束縛的/受約束的, 前往…的 (v)跳躍/跳動, 成為…的界線
     ++ bounty (n)獎金/獎賞 = premium = reward, 慷慨 = generosity --> bountiful (adj)慷慨的 = munificent = generous, 大量的 = abundant = ample
@@ -198,9 +198,9 @@
     + broach (v)開瓶, 首次提出(討論) = moot (n)胸章
     + brook (n)小河 (v)容忍 = endure = abide = tolerate <|> brood
     + bucolic (adj)鄉村的/田園的 = rural = pastoral = idyllic, 牧羊的 = pastoral <-- buc 牛 = ow + olic
-    + bumble (v)笨拙地做/弄糟 = bungle = blunder = botch = muddle, 踉蹌地走 = stumble = stagger, 小聲地說 = mumble <|> humble <|> mumble
+    ++ bumble (v)笨拙地做/弄糟 = bungle = blunder = botch = muddle, 踉蹌地走 = stumble = stagger, 小聲地說 = mumble = murmur <|> humble <|> mumble
     + buoy (n)浮標, 救生圈 (v)使浮起, 支持/ = bolster = encourage
-    + buoyant (adj)有浮力的, 輕鬆愉快的, 有利可圖的/成功的 --> buoyancy (n)輕鬆的心情 = cheerfulness, 浮力
+    ++ buoyant (adj)有浮力的, 輕鬆愉快的, 有利可圖的/成功的 --> buoyancy (n)輕鬆的心情 = cheerfulness, 浮力
     + burgeon (v)快速成長/迅速發展 = flourish = bloom = prosper = proliferate (n)芽/嫩枝 = sprout <-- bud
     + burlesque (n)滑稽諷刺作品或戲劇 = caricature (v)模仿嘲弄 = mock = flout <-- burl 玩笑 = jest + esque
     + burnish (v)擦亮/磨光/改善 = polish = ameliorate <|> tarnish <|> furnish <-- brown 法文
@@ -214,7 +214,7 @@
     * beat (v)打敗/搶先, 打/擊 = batter = clobber = lash, 心跳/跳動, 攪拌 = agitate = stir, 避開/預防 = avoid = avert 
     * beget (v)生(子女) = engender = procreate, 為……之生父, 引起/招致 = engender
     * beggar (n)乞丐/窮人 (v)使貧窮, 使不足
-    ** belittle (v)輕視/貶低 = detract = disparage = scorn = rubbish = depreciate = downplay
+    *** belittle (v)輕視/貶低 = detract = disparage = scorn = rubbish = depreciate = downplay = flout = disdain
     * beseech (v)懇求/哀求 = solicit = beg = implore = crave --> beseeching (adj)哀求的 = suppliant <-- be + seek
     * bevel (v)使成斜角 = cant (n)斜邊
     * bestow (v)給予/授予 = confer <-- stow
@@ -389,15 +389,15 @@
     + callus (n)(手腳上的)老繭 --> callous (adj)結硬塊的, 無情的/無同情心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive <-- callus
     + calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = slander = denigrate = defame <|> clumsy
     + canard (n)虛假新聞/謊報/假消息
-    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded, 精明的 = shrewd = astute = acute, 節儉的 = frugal = thrifty, 狡詐的 = cunning
+    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = shrewd = astute = acute, 節儉的 = frugal = thrifty, 狡詐的 = cunning
     ++ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
     ++ cant (n)斜面/斜坡 = slant, 隱語/術語/行話 = argot (v)使傾斜 = bevel
-    + cantankerous (adj)易怒的/好爭吵的 = irritable = quarrelsome = contentious = peevish <-- contention + rancorous
-    + caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy --> capricious (adj)反覆無常的 = fickle = erratic = whimsical
+    + cantankerous (adj)易怒的/好爭吵的 = irritable = quarrelsome = contentious = peevish = irascible <-- contention + rancorous
+    + caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy --> capricious (adj)反覆無常的 = fickle = erratic = whimsical = flighty
     ++ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
     ++ categorical (adj)分類的, 無條件的 = absolute = unqualified = unconditional <-- category
     + cater (v)迎合/照料 = minister, 提供飲食/承辦(宴席)
-    + catholic (adj)普遍的/廣泛的 = universal = general, 寬厚的/開明的 = liberal --> Catholic (n)天主教
+    ++ catholic (adj)普遍的/廣泛的 = universal = general, 寬厚的/開明的 = liberal (n)[大寫]天主教
     + caucus (n)政黨高層會議 <|> cactus
     + causal (adj)原因的/因果關係的 <-- cause <|> casual 
     + cautious (adj)謹慎的/小心的 = chary = canny = prudent
@@ -417,10 +417,10 @@
     + clang (v)叮噹作響/發出噹啷聲 <|> cling --> clangor (n)吵鬧/喧嚷 = clamorous noise, 連續的鏗鏘聲響
     + clarify (v)澄清/闡明/使更清晰易懂 --> clarity (n)清晰
     + clearheaded (adj)頭腦清楚的
-    + cliché (n)陳腐的說法/陳腔濫調 = platitude = stale --> clichéd (adj)
+    + cliché (n)陳腐的說法/陳腔濫調 = platitude = commonplace --> clichéd (adj) = stale = trite = banal = hackneyed
     ** click (v)發出短而尖的聲音, 成為朋友/受歡迎, 恍然大悟 (n)短而尖的聲音
     + clique (n)小集團/小圈子/派系 = coterie <-- click
-    + cloak (v)掩蓋/掩飾/籠罩 = conceal = hide, 使披上斗篷 (n)斗篷/披風, 幌子/藉口
+    + cloak (v)掩蓋/掩飾/籠罩 = conceal = hide = mask, 使披上斗篷 (n)斗篷/披風, 幌子/藉口
     + cloister (n)修道院/寺廟 = monastery, (宗教建築的)迴廊 (v)與塵世隔絕/隱居 = seclude = confine
     + cloy (v)反胃 = surfeit = satiate, 感到膩煩 = weary = glut = sate --> cloying (adj)令人膩煩的/膩味的 = hoary = stale, 假惺惺的
     + clumsy (adj)笨拙的/不靈巧的 = awkward = cumbersome --> clumsiness (n)笨拙, 粗陋 <|> calumny
@@ -487,7 +487,7 @@
     * couth (adj)文雅的 = smooth
     * cower (v)退縮/畏縮 = quail
     * cozy, cosy (adj)舒適的/愜意的 = snug
-    * crafty (adj)狡猾的/詭計多端的 = machiavellian = cunning = sly = deceitful
+    *** crafty (adj)狡猾的/詭計多端的 = machiavellian = cunning = sly = deceitful
     * carve (v)雕刻, 把...切成小片 <|> crave
     ** crave (v)渴望/熱望 = long for = desire eagerly, 懇求 = beg for = plead = solicit = beseech = implore, 需要 = require = need <|> carve --> craving (n)強烈的願望/渴望 = desire
     * crevice (n)(岩石表面的)裂縫/裂隙, 皺紋/身體上的皺痕
@@ -524,7 +524,7 @@
     ^ charter (n)憲章/章程, 特權/豁免權 (v)包下(租), 特許成立
     ^ chary (adj)小心的/審慎的 = careful = cautious
     ^ chisel (n)鑿子 (v)鑿/雕, 欺騙/騙取
-    ^ choice (n)選擇/抉擇 (adj)精選的/優質的/上等的
+    ^ choice (n)選擇/抉擇 (adj)精選的/優質的/上等的 = fine = excellent
     ^ cinder (n)餘燼/殘渣
     ^ cipher (n)零 = zero, 無影響力之人/無名小卒 = nonentity, 密碼
     ^ clam (n)蛤蜊/蛤肉, 守秘密之人
@@ -651,16 +651,16 @@
     * delight (v)使滿足/使高興 (n)欣喜/滿足 --> delectable (adj)美麗的, 愉悅的, 美味的 <|> blight
     ** devise (v)發明/設計 = contrive = concoct = fabricate, 謀劃/策劃, 遺贈給 = legate <-- device
     * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
-    * dismal (adj)悲傷絕望的/憂鬱的 = lugubrious = dreary = gloomy = melancholy = plaintive = desolate, 十分可憐的 = pitiful = miserable = abject
+    * dismal (adj)悲傷絕望的/憂鬱的 = lugubrious = dreary = gloomy = melancholy = plaintive = desolate = morose, 十分可憐的 = pitiful = miserable = abject
     * dogged (adj)頑強的 = stubborn = tenacious <-- dog 狗 + ged
     * dote (v)溺愛, (老年)眼花耳聾 --> doting (adj)溺愛的
-    ** dreary (adj)憂鬱的 = desolate = gloomy = dismal, 悲傷的 = sorrowful = sad, 枯燥的/單調乏味的 = arid = dull
+    ** dreary (adj)憂鬱的 = desolate = gloomy = dismal = melancholy = plaintive = morose, 悲傷的 = sorrowful = sad, 枯燥的/單調乏味的 = arid = dull = insipid
     * dregs (n)殘渣/糟粕/廢物 = dross, 渣滓/敗類 = dross
     * droop (v)低垂/下垂 = lop, 枯萎 = flag = wither, 委靡/沮喪 <-- drop
     * drowsy (adj)睡意朦朧的/半夢半醒的 = lethargic
     ** due (adj)到期的/快到期的(帳單) = owing = owed, 合適的 = rightful = proper = fitting, 足夠的 = adequate = sufficient, 安排好的 = scheduled
-    * dull (adj)枯燥的/乏味的 = bland = jejune = insipid = innocuous = pallid, 愚笨的 = bovine, 暗淡的, 隱約的 (v)使遲鈍, 使陰暗, 緩和/減輕
-    * duty (n)責任/義務, 關稅 --> dutiful (adj)忠於職守的, 順從的 = amenable
+    ** dull (adj)枯燥的/乏味的 = bland = jejune = insipid = innocuous = pallid, 愚笨的 = bovine, 暗淡的, 隱約的 (v)使遲鈍, 使陰暗, 緩和/減輕
+    * duty (n)責任/義務, 關稅 --> dutiful (adj)忠於職守的, 順從的 = amenable = obedient
     * dwell (v)居住 --> dwelling (n)住處
     * diploma (n)外交官 --> diplomatic (adj)外交的, 委婉的 <-- diplo 二 = double + ma
     
@@ -729,6 +729,7 @@
     ^ deft (adj)熟練的/巧妙的/靈巧的 = adroit = adept = acute
     ^ drivel (v)胡說/瞎扯/廢話 = babble
     ^ desolate (adj)荒涼的/無人煙的 = bleak, 傷心寂寞的
+    ^ dibs (n)少量的錢, 權力/資格 = rights = claims
     ^ dicker (v)討價還價 = bargain = barter = haggle
     ^ disconcert (v)使焦慮/使不安
     ^ desecration (n)褻瀆 = blasphemy
@@ -767,14 +768,11 @@
     + exemplum (n)例證/範例 = example = model --> exemplar (n)榜樣/楷模 --> exemplary (adj)可作楷模的 --> exemplify (v)作為…的典例, 用例子說明 = illustrate
     + exigent (adj)緊急的/急迫的 = urgent = pressing, 艱鉅的 --> exigency (n)緊急/危急 = crisis, 迫切需要 <-- ex + ig 做 = drive + ent
     + exist (v)存在, 生存 --> existential (adj)存在的, 存在主義的
-    ++ exploit (v)剝削, 利用 = utilize, 推廣 = promite --> exploitation (n)利用, 剝削, 廣告推銷 <|> explicit
+    ++ exploit (v)剝削, 利用 = utilize, 推廣 = promote --> exploitation (n)利用, 剝削, 廣告推銷 <|> explicit
 
     * ecclesiastical (adj)基督教的/有關教會的 = churchly = clerical <--> secular 
     * eddy (v)起漩渦 (n)漩渦 = whirlpool, 氣旋
     * enemy (n)敵人, 敵人的 --> enmity (n)敵意/仇恨 = hostility = antipathy = hatred = animosity = antagonism = rancor = resentment
-    *** engage (v)聘雇 = hire, 吸引/佔用 = attract = occupy = appeal, 使訂婚 = betroth, 保證, 進攻/交戰 使(齒輪)嚙合 = interlock
-    * engaged (adj)忙碌的, 從事……的, 訂婚的
-    * engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
     * entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
     * entire (adj)全部的, 完全的 (n)全部/整體 --> entirety (n)全部/整體
     * etch (v)蝕刻/蝕鏤, 深印/銘記 --> etching (n)蝕刻術, 蝕刻版畫
@@ -842,9 +840,9 @@
     + falsehood (n)謊言
     + falter (v)動搖/猶豫 = hesitate = waver = vacillate = dither, 蹣跚/踉蹌 = stumble = halt, 結巴地說話 = stammer = halt
     + fashion (v)形成, 適應/使一致 = accommodate = adjust = adapt (n)時裝, 方式 = manner = way = mode, 種類 = kind = sort
-    + fastidious (adj)細心的/一絲不苟的/講究的 = meticulous = painstaking = conscientious = scrupulous = finicky, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
+    + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = conscientious = scrupulous , 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
     + fathom (v)弄清/理解 = comprehend = understand (n)噚(測水深的單位, 約1.8公尺) --> fathomable (adj)可推測的/可了解的
-    + fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
+    ++ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
     + fauna (n)動物群
     + fawn (n)未滿周歲的小鹿 (v)向某人表示親熱/搖尾乞憐/諂媚 = adulate
     ++ feckless (adj)無效的/無用的 = ineffective = incompetent = futile, 不負責任的/莫不關心的 = irresponsible = indifferent = flighty <-- feck 效用 = effect + less
@@ -863,13 +861,13 @@
     + finance (v)提供資金/獲得資金 (n)財政, 收入 = revenue
     + find (v)找到/發現 = locate = discover = recover, 覺得/認為/意識到 = perceive = feel
     + finesse (n)技巧/計謀/手段 = trick = artifice = stratagem (v)巧妙地應對 <-- fine
-    + finicky, finical (adj)過分講究的/謹慎的 = fastidious, 難取悅的 = fussy = fastidious
+    + finicky, finical (adj)過分講究的/謹慎的/挑剔的 = fastidious = meticulous = fussy = picky = choosy, 難取悅的 = fussy = fastidious = meticulous
     + flag (v)減弱/衰退 = blight = wither, 枯萎 = droop = wither = blight, 標記 (n)旗幟, 菖蒲 --> flagging (adj)下垂的, 衰弱的 --> flaggy (adj)枯萎的, 鬆軟無力的
     + flamboyant (adj)豔麗的/華麗的 = florid = ornate = elaborately styled, 炫耀的 = showy <-- flame
     + fledge (v)(幼鳥)變得羽翼豐滿 --> fledgling (n)剛會飛的幼鳥, 無經驗的人 = novice (adj)缺乏經驗的 = inexperienced
     + fleet (adj)快速的/敏捷的 = swift = rapid (v)掠過, 消磨 --> fleeting (adj)轉瞬即逝的/短暫的 = transient = transitory = ephemeral = momentary
     ++ flip (v)快速翻轉, 輕拍 (n)翻轉 --> flippant (adj)輕浮無禮的 = frivolously disrespectful
-    ++ flout (v)輕視/藐視 = contempt = scorn = disdain, 嘲弄 = mock = scoff = gibe = jibe = burlesque = jest <-- flute 長笛
+    ++ flout (v)輕視/藐視 = contempt = scorn = disdain = belittle, 嘲弄 = mock = scoff = gibe = jibe = burlesque = jest <-- flute 長笛
     + fluke (n)僥倖成功/意想不到的事
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
     + foment (v)煽動 = instigate = foster = incite = arouse = ferment
@@ -886,7 +884,7 @@
     ++ frivolous (adj)輕浮的/草率的 = facetious = flighty = trifling, 不重要的/瑣碎的 = futile = trifling = nugatory = inconsequential = trivial --> frivolity (n)輕浮
     + froward (adj)剛愎的/固執的/叛逆的 = disobedient = obstinate = contrary = intractable
     + frown (v)皺眉 = scowl, 不贊成
-    + frugal (adj)節約的/節儉的 = provident = abstemious = thrifty = canny --> frugality (n)節儉/簡樸 = thrift
+    + frugal (adj)節約的/節儉的 = provident = abstemious = thrifty = canny = prudent --> frugality (n)節儉/簡樸 = thrift
     + frustrate (v)阻礙/阻撓 = hinder = thwart, 使失敗 = defeat = nullify
     ++ fulsome (adj)虛情假意的/過分恭維的, 噁心的/令人反感的 = disgusting = repulsive, 充足的 = full = ample = abundant = copious, 面面俱到的/包羅萬象的 = comprehensive
     + fundamental (adj)基礎的/根本的 = basic = underlying, 主要的 = primary
@@ -894,12 +892,12 @@
     ++ furtive (adj)偷偷的/秘密的 = sneaky = stealthy = secret = sly, 狡猾的 = sly = shifty = cunning = canny <-- furt 小偷 = thief + ive
     + fusion (n)融合 = union = synthesis, 聚變, 熔化/熔解
     + fusty (adj)腐壞的/發霉的 = moldy = musty, 陳腐的/守舊的/過時的 = stale = hackneyed
-    + futile (adj)無效的/無用的 = ineffective = feckless = fruitless = vain, 不重要的/瑣細的 = trifling = frivolous = unimportant = inconsequential = trivial = lilliputian = nugatory, 沒有出息的 --> futility (n)徒勞/無益
+    ++ futile (adj)無效的/無用的 = ineffective = feckless = fruitless = vain = nugatory, 不重要的/瑣細的 = trifling = frivolous = unimportant = inconsequential = trivial = lilliputian = nugatory, 沒有出息的 --> futility (n)徒勞/無益
         
     * facsimile (n/v)摹寫
-    * faint (adj)頭暈的, 微弱的/暗淡的, 虛弱的 = feeble (v)昏厥, 變得沒氣力
+    * faint (adj)頭暈的, 微弱的/暗淡的, 虛弱的 = feeble, 膽小的 = timid (v)昏厥, 變得沒氣力
     * falsify (v)竄改/偽造/曲解 = garble
-    * fascinate (v)吸引/迷住 = attract = captivate
+    * fascinate (v)吸引/迷住 = attract = captivate = mesmerize = hypnotize
     * fast (n)絕食, 齋戒 (adj)快的, 牢的/緊的, 可靠的 (adv)快, 緊緊地
     * fasten (V)扣緊/繫牢/固定, 紮好, 關緊
     * fastness (n)要塞/堡壘
@@ -912,7 +910,7 @@
     * feudal (adj)封建的
     * fierce (adj)猛烈的/激烈的, 狂暴的 = truculent, 強烈的/狂熱的 = fervent, 困難的
     * fiery (adk)火一般的, 激烈的/熱烈的
-    * fine (adj)好的, 尖細的, 細微的, 炫耀的
+    ** fine (adj)好的 = superior = choice = excellent, 細微的 = minute, 銳利的 = keen = sharp, 炫耀的
     * fireplace (n)壁爐/火爐
     * fireplug (n)消防栓 = hydrant
     ** filthy (daj)不潔的/汙穢的, 骯髒的/下流的/卑劣的 = contemptible = sordid = vulgar = obscene
@@ -941,7 +939,7 @@
     * fume (n)有害，濃烈，或難聞的煙, 憤怒 (v)冒煙, 發怒
     ** furnish (v)爲…配備傢俱/佈置, 提供 = supply = provide
     * fury (n)狂怒/暴怒, 狂暴/猛烈 --> furious (adj)極其生氣的/怒不可遏的, 強烈的/激烈的
-    * fuss (n)大驚小怪 <|> fuzz --> fussy (adj)大驚小怪的 = overwrought, 難以取悅的 = fastidious = finicky, 充滿細節的
+    * fuss (n)大驚小怪 <|> fuzz --> fussy (adj)大驚小怪的 = overwrought, 挑剔的 = picky = choosy = finicky, 難以取悅的 = fastidious = finicky = meticulous, 充滿細節的
 
     ^ fact (n)事實, 實情/真相, 犯罪事實/罪行
     ^ factual (adj)真實的, 事實的 <--> fictitious
@@ -1069,7 +1067,7 @@
     ^ furbish (v)磨光/擦亮/更新 = refurbish
 
 [G]
-    + gainsay (v)否認/反駁 = deny = dispute, 反對 = oppose <-- gain 再次 = again + say
+    + gainsay (v)否認/反駁 = deny = dispute = naysay, 反對 = oppose = naysay <-- gain 再次 = again + say
     + galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
     + gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <-- gamb 腳 = leg + ol
     + garner (v)收藏/積累 = amass = collect, 取得 = get = acquire = earn <-- garn 顆粒 = grain + er
@@ -1082,21 +1080,21 @@
     + glide (v)滑行, 滑翔, 悄悄地移動
     + gloat (n/v)洋洋自得/幸災樂禍 = malevolent smugness <|> bloat <|> float
     + glower (n/v)怒目而視
-    ++ glut (v)使飽足 = sate, 使厭膩 = cloy, 過度供應 (n)供過於求 = surfeit <--> dearth
+    ++ glut (v)使飽足 = sate, 使厭膩 = cloy = weary, 過度供應 (n)供過於求 = surfeit <--> dearth
     + goad (n)趕牛棒 (n/v)刺激/激勵 = prod = urge on = stimulate = encourage = spur <|> gold
     + goodness (n)高尚品德 = virtue, 仁慈 = kindness = generosity
     + goosebumps (n)雞皮疙瘩 = horripilation
     + gossamer (n)蛛絲 = cobwebs, 薄紗 (adj)輕而薄的 = sheer <-- goose 鵝 + summer
     + gouge (n)半圓鑿 (v)挖出 = tear out = scoop out, 敲詐/教竹槓 = overcharge = extort = swindle
     + graft (n/v)嫁接, 貪污, 工作 <|> grate
-    + granted (conj)因為/的確
+    + grant (v)給予 = bestow = give, 同意 = agree = accede, 承認/退讓 = admit = concede --> granted (conj)因為/的確
     + grate (v)磨碎, 摩擦 = scrap, 使人煩躁 = irritate = annoy = fret --> grating (adj)令人煩躁的/惱人的 = harsh, 刺耳的 = discordant = harsh = jarring
     + grip (n/v)緊握/緊咬 = grasp = seize, 控制/吸引 = take hold on --> gripping (adj)吸引住人的 = fascinating = enthralling
     + groundless (adj)無根據的/無合理理由的 = baseless = idle
     + grouse (v)發牢騷/訴苦/抱怨 = complain = grumble = fret (n)松雞 <|> arouse
     + grovel (v)卑躬屈膝 = humble = lie or crawl with the face downward
     + growth (n)發展/增長/擴大
-    + guarded (adj)小心翼翼的 = cautious = careful = prudent = canny
+    + guarded (adj)小心翼翼的 = cautious = careful = prudent = canny = deliberate = measured = methodical
     * guile (n)欺詐 = duplicity
     + guileless (adj)誠實無欺的/老實的 = artless = naive = frank = sincere
     + guise (n)外觀/裝束 = appearance = semblance, 偽裝/假裝 = semblance
@@ -1108,22 +1106,22 @@
     * gaudy (adj)俗麗的/過分炫耀的 = garish = meretricious = flashy = ostentatiously ornamented
     * gibe (n/v)嘲弄/譏笑 = jibe = mock = flout = scoff = taunt = deride = jeer = gird = jest
     * gingerly (adj/adv)小心/謹慎 = cautious = careful = wary
-    * gloom (n)黑暗, 憂鬱 --> gloomy (adj)陰暗的/陰鬱的, 憂鬱的/悲觀的 = lugubrious = mournful = plaintive
+    * gloom (n)黑暗 = murk, 憂鬱 --> gloomy (adj)陰暗的/陰鬱的 = murky = obscure, 憂鬱的/悲觀的 = lugubrious = mournful = plaintive = dreary = morose = desolate = melancholy = dismal
     * gnaw (v)啃咬, 啃食/侵蝕 = erode = corrode = fret, 使惱火 = vex = plague
-    * goldbrick (v)逃避責任/偷懶 = loaf, 欺騙/敲詐 = swindle = cheat = gouge = bilk
+    ** goldbrick (v)逃避責任/偷懶 = loaf, 欺騙/敲詐 = swindle = cheat = gouge = bilk = overcharge
     * goodwill (n)友好
     * grain (n)穀粒, 顆粒, 一點兒 = fig, 紋理 (v)使成粒狀
-    * grease (n)動物脂, 賄賂 (v)用油脂塗/上油 = lubricate = baste, 賄賂 = bribe
+    ** grease (n)動物脂, 賄賂 (v)用油脂塗/上油 = lubricate = baste, 賄賂 = bribe
     * grid (n)網格/方格, 電力網/輸電網
     * gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
     * grime (n)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)骯髒的/髒兮兮的 = dirty
     * grind (n)枯燥乏味的工作 (v)磨刀/拋光 = whet, 摩擦/磨碎/碾碎 = grate
     * gross (adj)總的, 粗野的/粗俗的 = vulgar = coarse (n)整個/全部, 總額
-    * grouch (v)發牢騷/抱怨 = grumble = grouse = complain = fret (n)好發牢騷的人
+    * grouch (v)發牢騷/抱怨 = grumble = grouse = complain = fret (n)好發牢騷的人 <|> crouch
     * grotesque (adj)怪誕的 = absurd = bizarre = ludicrous, 奇形怪狀的 <|> burlesque
     * gruesome (adj)可怕的/陰森的 = grisly = lurid = revolting = morbid
     * grumble (v)發牢騷/抱怨 = grouse = crab, 肚子咕咕叫 (n)抱怨
-    * grumpy (adj)脾氣壞的/易生氣的 = irritable = grouchy
+    * grumpy (adj)脾氣壞的/易生氣的 = irritable = grouchy = cantankerous = irascible
     * grunt (v)(因憤怒或疼痛)咕噥
     * gulf (n)海灣, 巨大分歧/鴻溝, 裂口 = chasm = abyss, 旋渦 = eddy (v)吞沒/淹沒
     * guru (n)印度宗教領袖或導師 = mentor, 權威/大師/專家
@@ -1248,18 +1246,18 @@
     + hallmark (n)金銀上的純度印記, 特徵, 品質證明/戳記
     + hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate <|> hollow <|> harrow --> hallowed (adj)神聖的 = holy = sacred
     ++ halt (v)暫停/終止 = stop = cease, 蹣跚/結巴 = falter --> halting (adj)躊躇的/猶豫的, 結結巴巴的, 跛的/蹣跚的
-    + hamper (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart, 干擾 = interfere (n)有蓋提籃, 障礙物/束縛
+    + hamper (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose, 干擾 = interfere = meddle (n)有蓋提籃, 障礙物/束縛
     + hand-wringing (n)憂慮的模樣/歇斯底里的狀態 
     + harangue (n)(貶義)長篇大論的指責性演說 = diatribe = tirade
-    + harbinger (n)先驅 = herald = forerunner, 預兆/前兆 = herald = sign = omen (v)作先知/預告/預示 <-- harbor
+    + harbinger (n)先驅 = herald = forerunner, 預兆/前兆 = herald = sign = omen (v)作先知/預告/預示 = herald = foreshadow = adumbrate <-- harbor
     + harmonious (adj)融洽的/和睦的, 一致的 = congruous = congruent = accordant
     ++ harrow (n)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)悲痛的/難受的 = distressing = terrifying
     + hearten (v)鼓勵/激勵 = cheer = encourage
     ++ hedge (n)樹籬/籬笆, 限制/界限 (v)限制 = restrict, 避免答覆/迴避
     + hedonist (n)享樂主義者 --> hedonistic (adj)享樂主義的 <-- hedon 快樂 = pleasure + ist
     + hegemony (n)霸權/領導權 = predominance = leadership = domination = authority <-- hegemon 領導 = lead
-    + herald (v)聲明/宣布 = announce = proclaim, 預報……的來到 = usher in (n)預兆/前兆, 先驅 = harbinger = forerunner
-    + hermetic (adj)密封的 = tighly sealed, 孤立的 = isolated, 神祕的/深奧的/不易理解的 = esoteric = recondite = magical = occult <|> hermit
+    ++ herald (v)聲明/宣布 = announce = proclaim, 預報……的來到 = usher in (n)預兆/前兆, 先驅 = harbinger = forerunner
+    + hermetic (adj)密封的 = tightly sealed, 孤立的 = isolated, 神祕的/深奧的/不易理解的 = esoteric = recondite = magical = occult <|> hermit
     + heroic (adj)英勇的 = daring = noble = valiant
     ++ hew (v)砍伐 = strike = chop = hack, 堅持/遵守 = conform = adhere <|> hem
     + hidebound (adj)思想偏狹頑固的 = inflexible, 保守的 = conservative
@@ -1268,7 +1266,7 @@
     + hirsute (adj)多毛的 = hairy = shaggy = bristly
     + histrionic (adj)演戲似的/矯揉造作的 = excessively dramatic, 表演的/演員的 <|> historic <-- histrion 演員 = actor
     + hoard (n/v)儲藏/秘藏 = stockpile
-    + hoary (adj)因年事灰白的, 古老的 = venerable = ancient, 厭倦的 = stale = cloying <-- hoar 白的 + y
+    ++ hoary (adj)因年事灰白的, 古老的 = venerable = ancient, 厭倦的 = stale = cloying <-- hoar 白的 + y
     + hodgepodge (n)大雜燴 = jumble <-- hotchpotch 雜燴
     + homily (n)布道 = sermon = preach, 說教/訓誡 = sermon --> homiletics (n)講道術/說教術
     + hoodwink (v)欺騙 = trick = deceive = dupe = hoax = delude
@@ -1277,7 +1275,7 @@
     ++ hunch (n)預感 = premonition (v)弓背/彎腰 = arch, 向前移動/推進 = shove = push = jostle
     ++ husband (v)節儉地管理/節約地使用 = conserve (n)丈夫 --> husbandry (n)耕種/務農 = agriculture = farming, 節儉/管理 = frugality = thrift = conservation
 
-    ** hack (v)亂劈/亂砍, 損毀 = mutilate = mangle, 縮減 = trim, 處理 = handle (n)僱傭文人, 出租馬車 (adj)陳腐的 = hackneyed = trite = banal = 
+    ** hack (v)亂劈/亂砍, 損毀 = mutilate = mangle, 縮減 = trim, 處理 = handle (n)僱傭文人, 出租馬車 (adj)陳腐的 = hackneyed = trite = banal
     * harass (v)騷擾/使煩惱/打擾 = badager = pester = persecute = besiege = plague = distract <|> harsh
     ** harbor (n)港, 避難所 = retreat = shelter (v)庇護, 包庇/藏匿 = conceal = hide, 心懷/懷有 = cherish = consider = entertain
     * hardship (n)艱苦/苦難 = suffering = deprivation = oppression
@@ -1399,7 +1397,6 @@
     + identical (adj)完全相同的 = similar = alike, 非常相似的 = selfsame
     + identify (v)認出/識別, 確定/發現
     + ideology (n)思想體系/意識形態 <-- ideo 想法 = idea + logy
-    + idiosyncrasy (n)特性/嗜好/特點 = characteristic = habit --> idiosyncratic (adj)獨特的/特性的 = peculiar <-- idio 獨特 = peculiar + sun + crasy
     ++ idle (adj)無所事事的 = unemployed, 無效的 = useless = futile, 懶散的 = lazy, 無憑無據的 = baseless = groundless (v)無所事事 --> idly (adv)懶惰地/無所事事地, 無益地/徒然地
     + idolater (n)崇拜者 = devotee --> idolatry (n)偶像崇拜, 盲目崇拜
     + idyll (n)田園生活, 田園詩 --> idyllic (adj)田園風光的 = rural = bucolic, 快樂無憂的 = carefree = blithe = halcyon
@@ -1407,14 +1404,14 @@
     + imbue (v)灌輸(強烈的情感或意見) = impregnate, 使浸染/使浸透 = impregnate = imbrue = saturate
     ++ imitate (v)仿效, 模仿 = mimic = impersonate, 偽裝 = resemble = simulate, 複製 = reproduce --> imitation (n)模仿, 複製品/仿冒品 = counterfeit = copy <-- image
     + inchoate (adj)剛開始的 = incipient, 未完的/未充分發展的 = rudimentary
-    +++ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor --> indulgent (adj)寛容的 = permissive = lenient = clement
+    +++ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
     + inimical (adj)有害的/不利的 = unfavorable = adverse, 敵意的/不友善的 = hostile <|> inimitable <-- inim 敵人 = enemy + ical
     + interpret (v)解釋/闡明 = explicate = elucidate, 理解 = construe = understand, 口譯 = translate orally --> interpretation (n)解釋/闡釋, 演示, 口譯
     +＋ intimate (adj)親密的, 精細的/深入的 = deep = detailed, 私人的 = personal = private (n)密友 (v)暗示 = hint = imply = suggest <-- intim 深處 = inmost + ate
     + intuitive (adj)直覺的/憑直覺得知的 <-- intuit 凝視 = gaze + ive
     + inviting (adj)吸引人的/誘人的 = attractive = alluring = tempting <-- invite
     + irascible (adj)易怒的 = irritable, 憤怒的 --> irascibility (n)易怒 = irritability
-    + irk (v)使厭煩/使惱火 = irritate = annoy = exasperate --> irksome (adj)令人厭煩的/令人惱怒的 = tiresome
+    + irk (v)使厭煩/使惱火 = irritate = annoy = exasperate = provoke = nettle --> irksome (adj)令人厭煩的/令人惱怒的 = tiresome
     + irony (n)反話/諷刺, 出乎意料的事情或狀況 (adj)鐵的 --> ironic (adj)挖苦的, 出乎意料的 = coincidental = unexpected --> ironically (adv)相反的是 <-- iron 諷刺 = sarcasm + y
     + irritate (v)激怒/使惱火 = irk = gall = peeve = rile = provoke = bore = annoy, 刺激/使興奮, 使發炎/使疼痛 <-- irrit 癢 + ate
 
@@ -1424,7 +1421,7 @@
     * interpret (v)理解/解釋/闡釋 = construe, 表演/演繹 = express, 口譯 = translate
     * irritable (adj)易怒的/急躁的 = irascible = cantankerous = grumpy, 易感受刺激的/過敏的 <-- irritate
     * issue (v)流出/放出, 發給/配給/發行/發布 (n)期號, 發行, 問題/爭論/爭議, 子女/子嗣
-    * iterate (v)反復說/重復 <-- iter 再次 = again + ate
+    * iterate (v)再次說/反覆做 = utter again or repeatedly <-- iter 再次 = again + ate
     
     ^ icicle (n)冰柱 <-- ice 冰 + icle 小東西
     ^ imp (n)小鬼 = demon, 頑童 = brat
@@ -1451,7 +1448,7 @@
     ++ jejune (adj)枯燥乏味的 = dull = insipid = innocuous = pallid = bland, 幼稚的/不成熟的 = juvenile = childish <-- jejun 空 = empty + es
     + jeopardy (n)危險 = peril = danger --> jeopardize (v)危及/危害 = endanger = compromise = imperil
     + jettison (v)（船舶等在遇難時為減輕負載而）投棄 = cast off, 捨棄 = discard (n)投棄的貨物 = jetsam
-    ++ jibe (v)使一致/同意 = accord = agree, 嘲弄 = gibe (n)嘲諷話 = gibe
+    ++ jibe (v)使一致/同意 = accord = agree, 嘲弄 = gibe = mock = flout = scoff = taunt = deride = jeer = gird = jest (n)嘲諷話 = gibe
     + jingo (adj)侵略性沙文主義的 (n)侵略性沙文主義者 --> jingoism (n)侵略沙文主義 = bellicose chauvinism 
     ++ jockey (n)騎師 (v)用計謀獲取/耍手段圖謀 = trick = cheat
     + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult --> jubilation (n)歡騰/歡慶 --> jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
@@ -1460,10 +1457,10 @@
     * jack (n)男人/男孩, 僕人/侍者, 水手, 千斤頂 (v)用起重機舉起
     * jargon (n)行話/專業術語 = argot = cant = patois, 莫名其妙的話/文理不通的話 = gibberish
     * jealous (adj)妒忌的/吃醋的 --> jealousy (n)猜忌/嫉妒
-    * jest (n/v)說笑/玩笑 = banter = joke, (身體)戲弄 = trifle, (言語)嘲弄 = gibe = jibe = taunt = scoff <|> just <|> vest <|> zest
+    * jest (n/v)說笑/玩笑 = banter = joke, (身體)戲弄 = trifle, (言語)嘲弄 = gibe = jibe = taunt = scoff = jeer = deride = gird <|> just <|> vest <|> zest
     * jet (n/v)噴出/射出
     * jolly (adj)快活的/高興的 = boon = lively = merry = joyous = convivial = jovial --> jollity (n)歡樂/歡鬧 = mirth = merriment = conviviality
-    * jumble (n/v)混雜/攙雜 = intermingle = welter = hodgepodge, 使糊塗 = confuse = muddle
+    * jumble (n/v)混雜/攙雜 = intermingle = welter = hodgepodge = confound = mingle = confuse = muddle, 使糊塗 = confuse = muddle = bewilder = befuddle = confound
     * jut (v)突出/伸出 (n)突出部分
     
     ^ jabber (v)快而不清楚地說
@@ -1473,7 +1470,7 @@
     ^ jaunt (n)遠足/短程旅行 = excursion
     ^ jaunty (adj)愉快的/遠足的
     ^ jazz (n)爵士樂, 喧鬧 = noise = clamor
-    ^ jeer (v)嘲笑 = mock = taunt
+    ^ jeer (v)嘲笑 = mock = taunt = jibe = gibe = deride
     ^ jerk (n/v)突然猛拉, 顛簸/搖晃 = jolt, 抽搐/痙攣 = spasm --> jerky (adj)痙攣的 = spasmodic
     ^ jetsam (n)投棄的貨物/漂流到海岸的貨物
     ^ jigsaw puzzle (n)拼圖
@@ -1554,14 +1551,14 @@
     * lay (v)放, 準備/安排/提出, 平息, 把……歸於, 下蛋/產卵 (adj)世俗的 (n)位置/地形
     * learned (adj)博學的 = erudite = scholarly, 學術性的, 透過學習（或經驗等）獲得的
     ** leaven (n)酵母/酵素, 促使漸變的因素 (v)使發酵 = ferment, 逐漸影響
-    * legate (n)特使/信使 = envoy (v)當作遺產讓與 = bequeath --> legacy (n)遺產/遺贈/留給後人的東西 = bequest
+    ** legate (n)特使/信使 = envoy (v)當作遺產讓與 = bequeath --> legacy (n)遺產/遺贈/留給後人的東西 = bequest
     * leisure (n)閒暇/悠閒/安逸 --> leisurely (adj)悠閒的 --> leisureliness (n)悠然/從容
     * lenient (adj)(處罰或判決)寬容的/寬大的 = indulgent = permissive
     * lessen (v)減少/降低/減輕 = allay 
     * leviathan (n)龐然大物/巨人/強者 = behemoth
     * lexicon (n)詞典/語彙
     * liable (adj)有責任的 = legally responsible, 易受影響的 = susceptible, 易...的 = apt = subject = prone --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
-    * liberal (adj)開放的/開明的 = catholic, 慷慨的/大方的 = generous, 自由的 = free (n)自由主義者
+    ** liberal (adj)開放的/開明的 = catholic, 慷慨的/大方的 = generous, 自由的 = free (n)自由主義者
     * licit (adj)合法的/正當的 = legal = lawful = legitimate = permissible
     * lie (v)躺/臥, 位於/在, 在於, 說謊
     * liege (n)君主/國王
@@ -1573,7 +1570,7 @@
     * lively (adj)精力充沛的/活潑的, 熱烈的, 鮮明的 (adv)活潑地/生氣勃勃地 --> liveliness (n)充滿活力/活潑 = effervescence
     ** lodge (v)存放/保管, 卡住, 提出, 暫住/借宿 (n)借宿, 小屋, 守衛室
     * loiter (v)遊蕩/閒逛 = linger aimlessly, 磨蹭 = dawdle
-    * long (v)渴望 (adj)長的/久的 --> longing (n)渴望
+    * long (v)渴望 = crave = desire (adj)長的/久的 --> longing (n)渴望
     * loose (adj)鬆的/散漫的/放蕩的/不嚴密的 (v)解開/放開 --> loosen (v)變鬆/鬆開
     * lop (v)砍/修剪/刪削, 下垂 = droop
     * lore (n)流傳下來的知識 = learning = knowledge = erudition
@@ -1665,65 +1662,65 @@
     ^ league (n)(體育)聯賽, 聯盟 --> leaguer (n)盟員 (n/v)圍攻 = beleaguer
 
 [M]
-    + machiavellian (adj)(政治方面)詭計多端的/不擇手段的 = crafty = double-dealing (n)權謀政治家
-    + maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil <-- mael 碾碎 = grind + strom 流 = stream
-    + magisterial (adj)權威的 = authoritative = official, 武斷的/專斷的 = imperious = domineering = arrogant = peremptory <-- magister 主人 = master + ial
+    + machiavellian (adj)(政治方面)詭計多端的/不擇手段的 = crafty = double-dealing = cunning (n)權謀政治家
+    + maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil = turbulent confusion <-- mael 碾碎 = grind + strom 流 = stream
+    + magisterial (adj)權威的 = authoritative = official, 傲慢的/專橫的 = imperious = domineering = arrogant = peremptory = dictatorial = overbearing <-- magister 主人 = master + ial
     + mainstream (n)主流/主要趨勢, 河的主流
-    + mar (v)毀損/損傷 = damage = spoil = ruin = impair = rack
-    + marginal (adj)邊緣的, 少量的 --> marginalize (v)使邊緣化/使不重要
+    + mar (v)毀損/破壞 = damage = spoil = ruin = impair = rack, 毀容/損傷外表 = disfigure = deface = scar = deform
+    ++ marginal (adj)邊緣的, 少量的 = almost insufficient --> marginalize (v)使邊緣化/使不重要
     + martinet (n)嚴格執行紀律的人 = disciplinarian
-    + mask (v)掩蓋/遮掩 = disguise = conceal = hide = dissemble, 偽裝 = disguise
+    + mask (v)掩蓋/遮掩 = disguise = conceal = hide = dissemble = cloak, 偽裝 = disguise
     + mature (adj/v)成熟 --> maturity (n)成熟
-    + maudlin (adj)感情脆弱的/愛哭的 = sentimental
-    + maverick (n)不服從的人/持不同意見的人 = dissenter
-    + mawkish (adj)多愁善感的 = maudlin, 令人作嘔的 = nauseating
-    + maxim (n)格言/箴言/座右銘
-    + meager (adj)貧乏的 = inadequate = scanty = stingy, 瘦削的 = lean = emaciated = thin
-    + measured (adj)深思熟慮的/謹慎的 = deliberate = careful = methodical, 整齊規律的, 測量的
-    + meddle (v)干涉/干預 = interfere --> meddlesome (adj)愛管閒事的 = officious
-    + megalomania (n)誇大狂/自大狂
+    + maudlin (adj)感情脆弱的/多愁善感的 = mawkish = sentimental
+    + maverick (n)不服從的人/持不同意見的人 = dissenter (adj)異端的/非傳統的 = heterodox = unorthodox = unconventional = nonconformist
+    + mawkish (adj)多愁善感的 = maudlin = sentimental, 令人作嘔的 = nauseating
+    + maxim (n)格言/箴言/座右銘 <--> aphorism <--> dictum <--> adage
+    ++ meager (adj)貧乏的 = inadequate = scanty = stingy = sparing, 瘦削的 = lean = emaciated = thin
+    ++ measured (adj)深思熟慮的/謹慎的 = deliberate = careful = methodical, 整齊規律的, 測量的
+    + meddle (v)干涉/干預 = interfere = hamper --> meddlesome (adj)愛管閒事的 = officious = interfering = intrusive <|> meddlesome
+    + megalomania (n)誇大狂/自大狂 <-- megalo 大/偉大 = large, great, grand + mania
     + melodious (adj)旋律優美的/悅耳的 = tuneful = musical = sweet-sounding
-    + menace (n)威脅/威嚇, 討厭的人(尤指小孩) (v)威脅/威嚇 = threaten, 危害 = imperil = endanger = jeopardize = compromise --> menacing (adj)威脅的 = formidable = minatory
-    + menagerie (n)動物園/獸欄, （供展覽用的）野生動物
-    + mercury (n)水銀/汞 --> mercurial (adj)善變的 = changeable = fickle = erratic, 活潑的 = animated = sprightly = lively
+    +++ menace (n)威脅/威嚇, 討厭的人(尤指小孩) (v)威脅/威嚇 = threaten, 危害 = imperil = endanger = jeopardize = compromise --> menacing (adj)威脅的 = formidable = minatory
+    + ménage (n)住家 = household, 家管 = housekeeping --> enagerie (n)動物園/獸欄, （供展覽用的）野生動物
+    ++ mercury (n)水銀/汞 --> mercurial (adj)善變的 = changeable = fickle = erratic, 活潑的 = animated = sprightly = lively
     + meretricious (adj)俗氣的/浮華的/華而不實的/虛有其表的 = gaudy = specious = tawdry = deceptive 
-    + merge (v)使核定 = combine = coalesce = unite = consolidate = amalgamate
-    + merit (v)值得 = deserve --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
-    + mesmerize (v)對……施催眠術/迷住/迷惑 = hypnotize
+    + merge (v)使合併 = combine = coalesce = unite = consolidate = amalgamate
+    ++ merit (v)值得 = deserve (n)長處/價值 = excellence = worth, 法律依據, 應得/報應 = desert --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
+    + mesmerize (v)對……施催眠術 = hypnotize, 迷住/使入迷 = fascinate = spellbind = hypnotize = beguile
+    * meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral --> meteoroid (n)隕石
     + meteorological (adj)氣象的/氣象學的 <-- meteoro + logy + ical
-    + method (n)條理/秩序, 方法/辦法 --> methodical (adj)細心的 = painstaking = deliberate = measured, 有條理的/秩序井然的 = systematic = orderly
-    + meticulous (adj)小心翼翼的 = painstaking = careful = conscientious, 一絲不苟的 = picky = fastidious, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
-    + mettle (n)勇氣/鬥志/毅力 = courage = endurance = fortitude --> mettlesome (adj)精神抖擻的 = spirited = courageous
-    + milieu (n)社會環境 = environment = atmosphere,
-    + mimic (v)模仿 = imitate, 戲弄 = mock (n)善於模仿的人 (adj)模擬的, 模仿的 = imitative = simulative <-- mime
-    + mire (n)泥沼 = marsh, 困境 (v)使...陷入困境 = stick = entangle
-    + mirth (n)歡笑/歡樂 = jollity = merriment = amusement = laughter = hilarity
-    + miscellany (n)混合物/混合, 文集 --> miscellaneous (adj)混雜的/各種各樣的, 多才多藝的
-    + mitigate (v)減輕/緩和 = alleviate = allay = assuage, 撫慰 = appease = mollify <-- miti 輕柔 = mild, soft + gate
-    + mock (v)嘲笑/嘲弄 = deride = jeer = mimic = flout = gibe, 為取笑而模仿 = burlesque (adj)假的/仿製的 (n)模擬考試 --> mockery (n)嘲弄 = ridicule = contempt = derision, 滑稽模仿 = travesty
-    + mold (n)模子/鑄模, 性格/氣質, 黴菌 = fungus (v)鑄造/塑造, 影響, 發霉
+    + method (n)條理/秩序 = order = system, 方法/辦法 = mode = manner = procedure --> methodical (adj)細心的 = painstaking = deliberate = measured, 有條理的/秩序井然的 = systematic = orderly
+    + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = conscientious, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
+    ++ mettle (n)勇敢堅毅 = courage = endurance = fortitude = spirit, 性格 = disposition = temperament --> mettlesome (adj)勇敢堅毅的 = spirited = courageous
+    + milieu (n)(社會或文化)環境 = environment = atmosphere = surroundings = location = setting
+    + mimic (v)模仿 = imitate (n)善於模仿的人 (adj)模擬的, 模仿的 = imitative = simulative = servile <-- mime
+    ++ mire (n)泥沼 = marsh, 困境 (v)使陷入(泥沼), 捲入/連累 = involve = entangle, 用泥土用髒
+    ++ mirth (n)歡笑/歡樂 = merriment = amusement = laughter, 消遣 = hilarity = jollity
+    ++ miscellaneous (adj)混雜的/各種各樣的 = mixed = varied = manifold, 多才多藝的 --> miscellany (n)混合物/混合, 文集
+    ++ mitigate (v)減輕/緩和 = moderate = alleviate = allay = assuage, 撫慰 = appease = mollify <-- miti 輕柔 = mild, soft + gate
+    ++ mock (v)嘲笑/嘲弄 = deride = jeer = mimic = flout = gibe, 為取笑而模仿 = burlesque (adj)假的/仿製的 (n)模擬考試 --> mockery (n)嘲弄 = ridicule = contempt = derision, 滑稽模仿 = travesty
+    ++ mold (n)模子/鑄模, 形狀/樣式 = form = shape, 性格/氣質 = character, 黴菌 = fungus (v)鑄造/塑造, 影響, 發霉 --> moldy (adj)發霉的 = fusty
     + molt (v)換羽/脫毛 = shed = cast off (n)換羽/脫毛(期)
-    + moment (n)瞬間, 重要 --> momentous (adj)極重要的/嚴重的 --> momentary (adj)短暫的 = fleeting = transient = transitory = ephemeral, 隨時會發生的 = impending
-    + monastic (adj)修道院的/修道士的, 禁慾的/苦行的 (n)修道士 <-- monastery
+    + moment (n)瞬間 = instant, 重要 = importance = consequence --> momentous (adj)極重要的/嚴重的 --> momentary (adj)短暫的 = fleeting = transient = transitory = ephemeral = meteoric, 隨時會發生的 = impending = imminent = pending
+    + monastic (adj)修道院的/修道士的, 禁慾的/苦行的 = ascetic, 隱居的/隱世的 = reclusive (n)修道士 <-- monastery
     + moratorium (n)延期償付, 暫停活動/中止活動 = suspension of activity
-    + morbid (adj)病態的 = diseased = unhealthy = pathological, 疾病的/病理的 = pathological, 可怕的 = gruesome = grisly <-- morb 病 = sickness + id
-    + mordant (adj)有腐蝕性的 = corrosive = burning, 尖酸的/譏諷的 = sarcastic = caustic <-- mord 咬 = bite + id
-    + morose (adj)陰鬱的 = ill-humored = sullen = gloomy = mournful
-    + motley (adj)混雜的 = heterogeneous, 雜色的 <-- mote + ly
-    + muddle (v)將……混在一起 = jumble, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle
+    ++ morbid (adj)病態的 = diseased = unhealthy = pathological, 疾病的/病理的 = pathological, 可怕的 = gruesome = grisly <-- morb 病 = sickness + id
+    + mordant (adj)有腐蝕性的 = corrosive = burning = erosive, 尖酸的/譏諷的 = sarcastic = caustic = biting <-- mord 咬 = bite + id
+    + morose (adj)憂鬱的 = ill-humored = sullen = gloomy = mournful = desolate = 
+    + motley (adj)混雜的/由不同事物組成的 = heterogeneous, 雜色的 <-- mote + ly
+    ++ muddle (v)將……混在一起 = jumble = confuse = mingle = intermingle = confuse, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle = confound
     + mundane (adj)平常的/普通的 = common = ordinary = banal = unimaginative, 現世的/世俗的 = lay = profane = temporal = worldly = early
-    + murk (adj)黑暗/陰鬱 --> murky (adj)黑暗的 = dark = gloomy, 模糊的/含糊的 = vague = confused
+    + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure, 模糊的/含糊的 = vague = confused
     + myopic (adj)近視的 = near-sighted = short-sighted <-- myopia
-    + mysterious (adj)神秘的/費解的 = enigmatic, 顯為人知的 = obscure
+    + mysterious (adj)神秘的, 難解的/無法解釋的 = enigmatic = inexplicable
     
-    * malice (n)惡意/害人之心 
-    * manifold (adj)各式各樣的 = multifarious = diverse (v)複寫/複印, 使多樣化 <-- many + fold
+    ** manifold (adj)各式各樣的 = multifarious = diverse = varied = miscellaneous (v)複寫/複印 = duplicate, 使多樣化 = multiply <-- many + fold
     * marshal (v)整理/安排, 引領, 編列/編組 (n)元帥, 司儀
     * masculine (adj)男性的/男子氣概的/陽性的 <--> feminine
-    * mean (adj)卑賤的 = worthless = trifling, 吝嗇的 = stingy, 卑鄙的 = ignoble = base = vile
-    * merry (adj)愉快的/快樂的/興高采烈的 = blithe = joyous --> merriment (n)歡樂/歡笑 = mirth
-    * mesh (n)網, 陷阱, 嚙合 (v)使纏住, 使嚙合 = engage, 使一致
-    * meteor (n)流星/隕星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = transient = swift
+    *** mean (adj)惡意的 = nasty = malicious, 不重要的 = worthless = trifling, 低下的 = inferior, 吝嗇的 = stingy = penurisou = minserly, 卑鄙的 = ignoble = base = vile, 卑微的 = small = humiliated = ashamed (v)意圖 = intend, 代表/意味著 = signify, 導致 = bring = cause 
+    * merry (adj)愉快的/快樂的/興高采烈的 = blithe = joyous = jolly = jovial = convivial --> merriment (n)歡樂/歡笑 = mirth = laughter
+    * mesh (n)網, 陷阱, 嚙合 (v)使纏住 = entangle, 使嚙合 = interclock = engage, 使一致
+    
     * middlebrow (n)具中產階級趣味（或觀點）的人
     * mild (adj)溫和的/和緩的/不嚴重的 <--> acute, 氣候溫和的 = balmy, (食物)淡的, 溫和的/隨和的 = affable = amiable
     * milk (v)榨取, 套出（消息等）
@@ -1742,7 +1739,7 @@
     * morsel (n)(食物)一口/一片, 少量/一點點 <-- morse 咬 = bite + l
     * mote (n)塵埃/微粒 <|> dote <|> rote
     * mottle (v)使呈雜色 (n)雜色/斑駁 --> mottled (adj)雜色的/斑駁的
-    * mourn (v)哀痛/哀悼 --> mournful (adj)憂傷的/悲切的/悲觀的 = lachrymose = tearful = gloomy
+    * mourn (v)哀痛/哀悼 --> mournful (adj)憂傷的/悲切的/悲觀的 = lachrymose = tearful = gloomy = morose
     * myopia (n)近視, 目光短淺/缺乏遠見
         
     ^ macabre (adj)駭人的/恐怖的 = grim = gruesome
@@ -1778,7 +1775,6 @@
     ^ martyr (n)烈士/殉道者
     ^ marvel (v)對...感到驚異 (n)奇蹟 = miracle
     ^ mash (v)搗成糊狀
-    ^ mask (n)面具 (v)掩飾/偽裝
     ^ mason (n)泥瓦匠/水泥匠/石匠 --> masonry (n)石工技藝/石造建築
     ^ masquerade (n)化裝舞會 (v)偽裝/冒充 <-- masque 面具 = mask + rade
     ^ mast (n)船桅/旗桿
@@ -1787,7 +1783,6 @@
     ^ maternal (adj)母性的 <-- matern 母親
     ^ matrix (n)模子 = mold, 矩陣
     ^ molding (n)凹凸形裝飾板條, 鑄造/鑄造物
-    ^ moldy (adj)發霉的 = fusty
     ^ mat (n)地蓆/草蓆/擦鞋墊/墊子, 一叢/一簇 (v)給……鋪上墊子, (使)纏結
     ^ mattress (n)床墊
     ^ mature (adj)成熟的, 深思熟慮的
@@ -1855,7 +1850,7 @@
     ^ movement (n)樂章, 移動/運動
     ^ muffle (v)使聲音降低, 裹住 = envelop
     ^ mumble (n/v)咕噥/含糊地說 = mutter = bumble
-    ^ murmur (v)柔聲地說/小聲說話, 抱怨/咕噥 = complain = grumble = mutter
+    ^ murmur (v)柔聲地說/小聲說話 = mumble, 抱怨/咕噥 = complain = grumble = mutter
     ^ musicologist (n)音樂學者
     ^ musket (n)舊式步槍/毛瑟步槍
     ^ muster (v)召集/聚集 = gather = summon = raiment
@@ -1874,19 +1869,19 @@
 
 [N]
     + nadir (n)最低點 = lowest point <--> summit = acme
-    + naysay (v)拒絕/反對/否認 <-- nay + say
-    + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague <-- nebul 雲 = mist, cloudy + ous
-    + necromancy (n)巫術/妖術 = black magic
+    + naysay (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
+    + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vaguem, 雲的 = cloduy = cloudlike <-- nebul 雲 = mist, cloudy + ous
+    + necromancy (n)巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
     + nepotism (n)偏袒親戚/任人唯親 = cronyism <-- nephew
-    + nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke
-    + noisome (adj)惡臭的 = fetid, 令人不快的 = offensive = disgusting = harmful <-- noi 討厭 = annoy + some
-    + novel (adj)新穎的/新奇的 (n)小說 --> novelty (n)新穎/新奇(的事物)
+    + nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate
+    + noisome (adj)惡臭的 = fetid, 有害的 = harmful = noxious <-- noi 討厭 = annoy + some
+    ++ novel (adj)新穎的/新奇的 (n)小說 --> novelty (n)新穎/新奇(的事物)
     + novice (n)新手/初學者 = neophyte = fledgling
-    + nuance (n)細微的差別 <-- nu 雲/陰影 = cloud, shade + abce
-    + nugatory (adj)無價值的/瑣碎的 = trifling = frivolous = futile = inconsequential = trivial, 無用的 = invalid <-- nugae 無聊事
-    + numerous (adj)許多的/很多的 = many <-- number
+    + nuance (n)(意思上的或顏色上的)細微的差別 = a subtle difference or distinction <-- nu 雲/陰影 = cloud, shade + ance
+    + nugatory (adj)無價值的/瑣碎的 = trifling = frivolous = futile = inconsequential = trivial, 無用的 = invalid = futile = vain = ineffective <-- nugae 無聊事
+    + numerous (adj)許多的/很多的 = very many <-- number
 
-    * naive (adj)天真的/純樸的, 輕信的/幼稚的 <-- native
+    * naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow <-- native
     * native (adj)天生的/天然的/自然的, 土著的, 本土的/本國的 (n)本地人/本國人, 原住民
     * nay (adv)而且/甚至 (n)否定/拒絕/反對
     * negotiate (v)商議/談判/交涉 --> negotiation (n)商議/談判 <-- negoti 公事 = business + sate
@@ -1896,7 +1891,7 @@
     * nod (n/v)點頭, 打瞌睡
     * noose (n)套索, 圈套/陷阱 (v)用套索捕捉/使落入圈套
     * nourish (v)養育/滋養/培育/支持 = nurture, 懷抱 --> nourishment (n)食物/營養品 = nurture, 養育/滋養
-    * numb (v)使失去感覺/使麻木 = stupefy, 使驚呆/使發愣 = stupefy (adj)失去感覺的/麻木的, 驚呆的/發愣的
+    * numb (v)使失去感覺/使麻木 = stupefy, 使驚呆/使發愣 = stupefy (adj)失去感覺的/麻木的 = enervated = prostrate, 麻痺的 = paralysed
     * nun (n)修女 --> nunnery (n)女修道院 = convent
     * nurture (v)養育/培育/教養, 給……營養 (n)養育, 營養物/食物, 環境因素
     * nutrient (n)滋養物質 --> nutrition (n)營養, 營養學
@@ -1936,11 +1931,10 @@
     ^ nuisance (n)惱人的事物/麻煩的事物 = bore
 [O]
     + oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive
-    + oblivion (n)遺忘/淹沒, 失去感覺 --> oblivious (adj)忘卻的/遺忘的, 疏忽的/不注意的/未察覺的
-    + obscure (adj)無名的/鮮為人知的, 費解的/晦澀的/模糊的 = ambiguous = elliptical, 黑暗的 (v)遮掩/遮蔽/隱藏/掩蓋, 使難理解
+    ++ oblivion (n)遺忘/無人知曉, 失去感覺, 滅絕 = annihilation = extinction --> oblivious (adj)忘卻的/遺忘的 = forgetful, 未注意到的/未察覺的 = unmindful = unconscious = unaware
+    ++ obscure (adj)費解的/晦澀的/模糊的 = ambiguous = elliptical = vague, 不醒目的 = inconspicuous = unnoticeable, 隱匿的/偏僻的 = remote = retired, 黑暗的 = gloomy = murky, 無名的/默默無聞的 (v)遮掩/掩蓋 = conceal, 使難理解
     + obscurity (n)暗淡/朦朧, 晦澀/難解, 隱匿
     + odyssey (n)長途的冒險旅行 = voyage
-    + officious (adj)多管閒事的/過分殷勤的 = meddlesome, 愛發命令的/好忠告的
     + offset (v)補償/低消
     + olfactory (adj)嗅覺的 --> olfaction (n)嗅覺 <-- olfac 味道 = smell + tory
     + onomatopoeia (n)擬聲/擬聲字
@@ -2058,7 +2052,7 @@
     + poise (v)使相等/使平衡 (n)泰然自若/鎮定
     + polar (adj)地極地/極地的/兩極的 --> polarity (n)極端性/兩極分化/兩極化 --> polarize (v)使兩極分化
     + polemic (n)爭論/辯論/論戰 --> polemical (adj)論爭的/好爭論的 <-- polem 戰爭 = war + ic 
-    + polish (v)擦亮/拋光, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 --> polished (adj)有光澤的/精鍊的/優美的, 圓滑的
+    + polish (v)擦亮/拋光, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 --> polished (adj)有光澤的 = glossy= smooth, 優美的, 有文化的 = refined = cultured = elegant = fine
     + politic (adj)精明的/有策略的 = shrewd = tactful = diplomatic, 狡猾的/不擇手段的
     + pore (n)毛孔/氣孔 --> porous (adj)多孔的/能滲漏的, 多漏洞的/鬆懈的
     + portent (n)前兆/凶兆 --> portentous (adj)凶兆的/不祥的/有危險的 = ominous
@@ -2076,7 +2070,7 @@
     + protean (adj)變化多端的/多變的
     + province (n)省/州, 地方/鄉間, 領域 --> provincial (adj)偏狹的/粗野的 = narrow, 省的, 外地的
     + proxy (n)代理人 = agent, 取代物 = substitute
-    + prudent (adj)審慎的/小心的 = canny = guarded = cautious = careful = discreet = judicious = circumspect, 節儉的 = frugal
+    ++ prudent (adj)審慎的/小心的 = canny = guarded = cautious = careful = discreet = judicious = circumspect = deliberate = measured = methodical, 節儉的 = frugal = thrifty
     + puerile (adj)幼稚的/天真的/未成熟的 = juvenile = immature, 兒童的 = juvenile <-- puer 男孩 = boy + ile
     + puissant (adj)強大的/強有力的 = powerful --> puissance (n)權力 = power = might
     + pulchritude (n)美麗 <-- pulchr 美麗 = beautiful + itude 
@@ -2486,7 +2480,7 @@
     + saturnine (adj)陰沉的/陰鬱的 = gloomy <-- Saturn 土星
     + satyr (n)好色之徒/色狼 <-- [希神]薩梯（森林之神，嗜酒好色）
     + savor, savour (v)細品/享用(食物) = enjoy (n)樂趣/趣味, 氣味/味道/滋味
-    + scant (adj)不足的/缺乏的 (v)減少/限制, 忽視 --> scanty (adj)不足的/缺乏的 = meager = inadequate = stingy, 狹窄的 = small --> scantiness (n)
+    + scant (adj)不足的/缺乏的 (v)減少/限制, 忽視 --> scanty (adj)不足的/缺乏的 = meager = inadequate = stingy = sparing, 狹窄的 = small --> scantiness (n)
     + scarce (adj)缺乏的/不足的, 稀有的/珍貴的 --> scarcity (n)不足/缺乏
     + scathing (adj)苛刻的/嚴厲的 = severe
     + scent (n)香味, 氣味 = odor, 蹤跡/線索/跡象 = track = trail, 嗅覺 = sense of smell, 香水 = perfume (v)嗅/聞, 使充滿氣味 = perfume
@@ -2496,7 +2490,7 @@
     + scintilla (n)火花/閃爍, 微量 --> scintillate (v)發出火花
     ++ scintillating (adj)生動的 = animated = vivacious = effervescent, 機智的 = witty = clever <-- spark
     + scope (n)眼界 = ken, 機會/施展餘地 = opportunity for operation, 範圍 = extend, 長度 = length, 目標 = aim = purpose
-    + scorn (v)輕視/貶低 = belittle = detract = disparage = contempt --> scornful (adj)輕蔑的/嘲笑的
+    + scorn (v)輕視/貶低 = belittle = detract = disparage = contemp = flout --> scornful (adj)輕蔑的/嘲笑的
     + scourge (n/v)鞭笞 = whip, 磨難 = flog = afflict
     * scruple (n/v)顧慮/顧忌 --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = conscientious = meticulous = fastidious
     + scrutinize (v)詳細檢查/細看 = examine --> scrutiny (n)詳細的檢查/仔細的觀察, 監視/監督
@@ -2654,7 +2648,7 @@
     * sour (adj)酸的, 不友好的/壞脾氣的/沒好氣的 = acerbic (v)(使)酸腐 = spoil (n)沙瓦/酸味雞尾酒
     * souvenir (n)紀念品/紀念物/伴手禮
     * sow (v)播種, 散布 (n)母豬
-    * sparing (adj)節約的/節制的, 貧乏的/少量的
+    ** sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy, 寬容的 = lenient = permissive = indulgent = merciful
     * spasm (n)抽搐/痙攣 = jerk --> spasmodic (adj)痙攣的 = jerky
     * specious (adj)外觀好看的/華而不實的/徒有其表的 = meretricious = gaudy
     * spirit (n)精神/心靈/情緒/氣魄/念頭, 靈魂/幽靈, 精神/風氣, 烈酒 --> spiritual (adj)精神的
@@ -2669,7 +2663,7 @@
     * spur (v)激勵 = goad, 促進/加速 (n)馬刺, 刺激, 激勵
     * squash (v)把…壓扁 = squelch, 擠進/塞進, 粉碎/強行制止 
     * stain (v)沾污/弄髒 = smudge = blot, 染色, 敗壞/玷污 = spoil = sully = besmirch = taint (n)污漬 = smudge = blemish = blot = smirch = smear, (名聲)汙點
-    * stale (adj)不新鮮的, 過時的/陳腐的 = trite = banal = hackneyed, 厭倦的/膩煩的 = hoary
+    ** stale (adj)不新鮮的, 過時的/陳腐的 = trite = banal = hackneyed = commonplace = clichéd, 厭倦的/膩煩的 = hoary = cloying = weary
     * stammer (v)口吃/結結巴巴地說話 = falter = stumble 
     * stark (adj)（外表）僵硬的, 完全的 = utter = sheer, 荒涼的/光禿禿的, 明顯的/突出的 (adv)完全地 = completely, 極端地 = extremely
     * stealthy (adj)秘密的/鬼鬼祟祟的 = furtive = sly
@@ -2980,7 +2974,7 @@
     ^ seethe (v)生悶氣 = fume = bristle = bridle, ()密集/雲集/充滿
     ^ selfsame (adj)非常相似的 = identical
     ^ seizure (n)佔領/奪取/查封/充公, 發作
-    ^ slender (v)苗條的/纖細的, 少量的
+    ^ slender (v)苗條的/纖細的 = fine, 少量的
     ^ soggy (adj)濕透的, 濕軟的
     ^ spar (v)爭吵 = quarrel (n)(船桅杆的)圓材
     ^ stagger (v)使震驚, 踉踉蹌蹌地走 = blunder = bumble, 錯開 = astound (n)蹣跚
@@ -3011,7 +3005,7 @@
     + terrific (adj)可怕的/嚇人的
     + terse (adj)簡短生硬的/簡要的 = brief = concise = succinct = compendious --> terseness = brevity
     + thorough (adj)徹底的/完全的 --> thoroughly (adj)仔細的, 完全的/十足的
-    + thrift (n)節儉/節約 = frugality --> thrifty (adj)節儉的/節約的 = frugal = abstemious, 茁壯的/茂盛的
+    + thrift (n)節儉/節約 = frugality --> thrifty (adj)節儉的/節約的 = frugal = abstemious = prudent, 茁壯的/茂盛的
     + thrill (v)使興奮/使激動 --> thrilled (adj)非常興奮的/極為激動的
     + thrive (v)茁壯成長/興旺/繁榮 = bloom
     + throwback (n)返祖現象/復舊
@@ -3343,7 +3337,7 @@
     * waste (v)浪費, 使消瘦/使衰弱, 使荒蕪/使荒廢 (n)浪費, 廢棄物, 荒地 (adj)廢棄的, 荒蕪的
     * waver (v)動搖, 躊躇/猶豫 = dither
     * wear (v)磨損/耗損, 允許/接受, 穿戴, 面帶, 梳成
-    ** weary (adj)(長時間辛苦工作後)筋疲力盡的 = fatigued, 感到厭倦的 (v)使疲勞/使疲倦 = exert = fatigue, 開始厭倦 = cloy --> weariness (n)
+    ** weary (adj)(長時間辛苦工作後)筋疲力盡的 = fatigued, 感到厭倦的 = stale = cloying (v)使疲勞/使疲倦 = exert = fatigue = glut, 開始厭倦 = cloy --> weariness (n)
     * whelm (v)壓倒/淹沒/覆蓋
     * wholesome (adj)有益的/有益健康的
     * wicked (adj)邪惡的/惡毒的, 頑皮的, 很棒的
