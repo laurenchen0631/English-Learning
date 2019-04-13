@@ -364,6 +364,7 @@
         + artifact (n)人工製品 --> artifacts (n)史前古物 --> artificial (adj)人造的, 假的
         - artifice (n)巧技, 詭計 = contrivance = finesse
         * article (n)文章, 物品/物件, 商品 = commodity, 條款
+        * artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 
     asper 粗暴 = rough
         + asperity (n)嚴厲 = severity = harshness = rigor, 粗魯 = roughness, 艱難 = hardship = rigor <|> aspersion
@@ -840,7 +841,7 @@
         * occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
         * perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
         * percept (n)認知/感知 --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
-        * perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful
+        * perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle
         + perceptible (adj)可察覺到的/可感知的
         - precipice (n)懸崖
         - precipitant (n)沈澱物
@@ -920,7 +921,7 @@
         + credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
         * credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信, 易受騙
         * recreant (adj)膽小的/怯懦的 = cowardly = craven, 不忠的 = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
-        + discredit (v)敗壞名聲 = defame, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 不信 = disbelief = distrust
+        + discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 不信 = disbelief = distrust
         - incredulity (n)懷疑/不相信
     
     cumul 堆積 = heap
@@ -969,7 +970,7 @@
         - theocracy (n)神權統治 <-- theo 神 = god + cracy
 
     caco 壞 = bad
-        + cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 <--> euphonious = mellifluous = dulcet
+        + cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
     calc 石灰/石灰岩 = lime, limestone
         - calcium (n)鈣
@@ -979,9 +980,6 @@
 
     calli 美麗的 = beautiful
         - calligraphy (n)書法
-
-    calumn 欺詐 = deceive
-        + 
 
     cand, cend, cense 白/發光 = shine, white
         + candid (adj)率直的/直言不諱的 = frank = straightforward = ingenuous = explicit, 公正的 = honest = impartial, 自然的/不做作的 = informal = unposed
@@ -1071,7 +1069,7 @@
     cens 評估 = assess <-- censor
         * censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
         + censorious (adj)吹毛求疵的 = faultfinding = carping = captious
-        + censure (v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste
+        + censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = stricture
         - census (n)人口普查, (官方的)調查/統計
     
     cerebr 腦 = brain
@@ -1333,7 +1331,7 @@
             * defile (v)弄髒 = foul = sully (n)山間小道 <-- de + file 卑鄙的 = vile
             + define --> definite --> definitive
             - defoliator
-            + degrade (v)貶低 = debase, 降低…的身份, 損害/危害, 自然分解 --> degradation (n)降級, 落魄/丟臉, 損害/危害
+            + degrade (v)貶低 = debase, 降低…的身份, 損害/危害, 自然分解 --> degradation (n)降級, 落魄/丟臉, 損害/危害 
             + delegate
             + delimit (v)劃界/標出…的界限 = circumscribe
             + delineate (v)描述/描繪 = depict = portray <-- de + line 線 + date 
@@ -1378,7 +1376,7 @@
             + defect
             + defer --> deference --> deferential
             - deflate
-            - deficiency
+            * deficiency
             - defraud
             - defunct
             - defuse (v)拆除引信, 平息
@@ -1429,7 +1427,7 @@
             * disuse (v)閒置/廢棄 = desuetude
             * dishonor (v)使蒙受恥辱, 違反/違背 (n)不名譽/恥辱
             - disgorge
-            * disgrace (v)使丟臉/使蒙羞 = dishono (n)恥辱/丟臉 = dishonor = opprobrium = stigma
+            * disgrace (v)使丟臉/使蒙羞 = dishonor (n)恥辱/丟臉 = dishonor = opprobrium = stigma
             - disaffect (v)使不滿/使不忠
             - disagreeable (adj)令人討厭的, 難相處的/脾氣壞的 = quarrelsome = contentious
             - disarm
@@ -1560,7 +1558,7 @@
         2. 反/相對/對面 = opposite
             - diagonal (n)對角線 (adj)對角的
             - diamangentism (n)反磁性
-            + diaphanous (adj)薄如蟬翼的 = trasnparent = vague  <-- dia + phan 
+            + diaphanous (adj)薄如蟬翼的 = sheer = trasnparent = vague
             * dialect
             - diameter
     
@@ -1604,7 +1602,7 @@
         - condolence (n)弔唁/慰問
         - doleful (adj)悲傷的
         - dolorous (adj)憂傷的
-        + indolent (adj)懶惰的 = slothful = lazy = idle = sluggish --> indolence (n) = sloth
+        +++ indolent (adj)懶惰的 = slothful = lazy = idle = sluggish --> indolence (n) = sloth
 
     dom, domi, domin
         1. 統治者 = lord
@@ -1669,7 +1667,7 @@
         + conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
         - conduit (n)渠道/引水道/水管
         - deduce (v)演繹/推斷 = deduct = conclude = infer
-        + deduct (v)減去/扣除, 演繹 = deduce = conclude = infer --> deductive (adj)推理的 --> deduction (n)演繹/推論, 扣除 = subtraction
+        + deduct (v)減去/扣除 = subtract, 演繹 = deduce = conclude = infer --> deductive (adj)推理的 --> deduction (n)演繹/推論, 扣除 = subtraction
         - duct (n)管線, (人體的)管/導管
         - educate (v)教育/培養
         - educe (v)引出 = elicit = develop, 推論 = infer = deduce
@@ -1832,7 +1830,7 @@
         - excite --> excitable --> excitability
         - exclaim --> exclamation
         + exclude --> exclusive
-        + excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste, 剝皮 <-- ex + cor 皮 = skin + iate
+        + excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste = savage, 剝皮 <-- ex + cor 皮 = skin + iate
         - excrete
         + exculpate
         - excursion --> excursive
@@ -2067,7 +2065,7 @@
         * exempt (v)免除/豁免 = immune (adj)被免除的
         + peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = peremptory = dictatorial = overbearing
         + preempt (v)以先買權獲得, 取代 = supersede
-        + prompt (v)促使/激起 = incite (adj)敏捷的/迅速的 = quick = ready
+        + prompt (v)促使/激起 = incite (adj)敏捷的/迅速的 = quick = ready = swift
 
     {esce}, {escent} 開始...的
         - convalesce
@@ -2160,7 +2158,7 @@
         + defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
         + defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v) 退出/叛逃 = desert
         * deficit (n)不足/缺乏 = deficiency, 赤字/虧損 --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
-        - deficiency (n)缺乏/缺少, 缺陷 = incompleteness
+        * deficiency (n)缺乏/缺少, 缺陷 = incompleteness
         - edifice (n)宏偉建築
         * effect (n)效果, 影響, 意義 (v)造成/產生, 實現/達到
         * effective (adj)有效的 = efficacious, 實際上的 --> effectiveness (n)有效
@@ -2169,7 +2167,7 @@
         + efficacy (n)效力/功效 = effectiveness = efficiency --> efficacious (adj)有效的 = effective = potent = sovereign
         + facile (adj)容易做的, 膚淺的/輕率的 = superficial, 好相處的 = affable = agreeable = complaisant
         - facility (n)天資/才能, 容易/簡易/便利/方便, 設備/工具, (有特定用途的)場所, 功能 <-- facile
-        + facilitate (v)使容易, 促進 <-- facility
+        + facilitate (v)使容易 = favor, 促進 <-- facility
         ++ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
         - factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
         + faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
@@ -2531,9 +2529,9 @@
         - genital (adj)生殖的 <|> genial
         * genus (n)類/種類
         - genre (n)文藝作品之類型
-        + genuine (adj)真正的/非偽造的 = authentic = real = legitimate, 真誠的/誠實的 = sincere
-        - indigenous (adj)土產的, 本地的 = native = endemic, 天生的 = innate <-- in + di + gen + ous
-        + ingenious (adj)製作精巧的/巧妙的 = clearly inventive --> ingenuity (v)巧妙/精巧
+        + genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
+        - indigenous (adj)土產的, 本地的 = native = endemic, 天生的 = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
+        + ingenious (adj)製作精巧的/巧妙的 = subtle = clearly inventive --> ingenuity (v)巧妙/精巧
         + ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
         - lactogenic
         - octogenarian
@@ -2652,7 +2650,7 @@
         * heresy (n)異端邪說
         + heretic (n/adj)異教徒 = heathen --> heretical (adj)異端的
         + heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
-        + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 由不同事物組成的 = motley
+        + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous
 
     hydr, hydro 水 = water
         - anhydrous (adj)無水的 = arid <--> wet = humid
@@ -2761,7 +2759,7 @@
             - ignore
             - ignorant --> ignorance <-- ig + gnor + ant
             - illegal (adj)違法的 --> illegality (n)違法 <- il + legal
-            - illegitimate (adj)非法的/不合法的 = illegal, 私生的 <-- il + legitimate
+            - illegitimate (adj)非法的/不合法的 = illegal, 私生的 = spurious <-- il + legitimate
             - illicit (adj)違法的 = unlawful = illegal = illegitimate = prohibited
             - illiterate (adj)文盲的 = ignorant <-- il + literate
             - immaculate = impeccable
@@ -2841,7 +2839,7 @@
             + indispensable (adj)必要的 = necessary = essential = requisite, 無法忽視的 --> indispensability (n)不可缺少 = necessity
             - indispensability
             + indecorous (adj)不適當的 = unseemly
-            + indolent --> indolence
+            +++ indolent --> indolence
             - indubitable
             - ineffable (adj)妙不可言的/難以形容的 = inexpressible <-- in + effable [古]可表達的
             - inelasticity (n)無彈性/無伸縮性 = in + elasic 彈性的 + ity
@@ -2850,7 +2848,7 @@
             - inequity
             + inert (adj)惰性的, 行動遲鈍的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
             - inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing , 不會疲勞的 = untiring = tireless
-            + inexorable (adj)說不動的/無情的 = implacable = relentless = unyielding, 無法改變的/不可阻擋的
+            + inexorable (adj)說不動的/無情的 = implacable = relentless = unyielding = stern, 無法改變的/不可阻擋的
             + inexplicable (adj)無法解釋的 = mysterious = obscure
             + inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable
             - infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
@@ -3158,7 +3156,7 @@
         * ignite (v)點燃/燃燒 = kindle, 激起 --> ignition (n)著火/燃燒, 點火裝置
 
     infer 下/低 = lower, under
-        * inferior (adj)低等的/下級的/較差的 = subordinate = mean --> inferiority (n)劣勢/劣等/下等 = stigma
+        * inferior (adj)低等的/下級的/較差的 = subordinate = mean = wretched --> inferiority (n)劣勢/劣等/下等 = stigma
         - inferno (n)火海, 地獄般的場所, 煉獄
 
     it, itiner 走/旅行 = go, travel
@@ -3182,7 +3180,7 @@
 
 [J]
     ject 扔/拋 = throw
-        ++ abject (adj)極可憐的 = miserable = pathetic = pitiful = dismal, 可鄙的/卑劣的 = contemptible = despicable
+        ++ abject (adj)極可憐的/悲慘的 = miserable = pathetic = pitiful = dismal = deplorable = sordid = squalid = rueful = wretched, 可鄙的/卑劣的 = contemptible = despicable
         + conjecture (n/v)猜測/猜想
         - deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected(adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
         - inject (v)注射/注入 --> injection (n)注射, 注射劑
@@ -3321,7 +3319,7 @@
         * delude (v)欺騙/矇騙 = dupe = hoodwink = hoax = deceive = cheat = trick
         ** delusive (adj)欺騙的/誤導的 = deceptive = misleading, 幻想的 = unreal = illusory --> delusion (n)欺騙, 幻想
         + elude (v)躲避 = evade = escape, 不理解/脫離認知 --> elusion (n)逃避/躲避
-        + elusive (adj)難以表達的 = slippery, 精於逃避的, 難找到的 = diffcult to find
+        + elusive (adj)難以表達的 = slippery, 精於逃避的, 難找到的 = diffcult to find = evasive = obscure = delicate
         * ludicrous (adj)滑稽的/荒唐可笑的 = absurd = grotesque = ridiculous
         + illusion (n)假象/錯覺 --> illusive (adj)迷惑人的/迷幻的 --> illusory (adj)欺騙的 = illusive = deceptive, 虛假的 = unreal = delusive = counterfeit
         - interlude (v)暫時休息/間歇, 插曲
@@ -3365,7 +3363,7 @@
         * ligate (v)綁/捆/紮
         + obligate (v)使負義務 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
         * obligation (n)義務/責任, 恩惠/人情, 債務
-        * oblige (v)強迫/迫使 = compel = constrain, 施恩於, 使必要
+        * oblige (v)強迫/迫使 = compel = constrain, 施恩於 = favor, 使必要
         * obliging (adj)樂於助人的/熱心相助的 = accommodating 
 
     limin, lime 門檻 = threshold
@@ -3391,7 +3389,7 @@
     loft 閣樓/鴿房 = air, sky
         - aloft (adv)在空中/在高處
         - loft (n)閣樓/頂樓 = attic = garret, 頂層房間, （由工業用建築改建的）公寓
-        * lofty (adj)高聳的, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的
+        * lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的
 
     log, locu, loqu
         1. 比例 = ratio
@@ -3585,7 +3583,7 @@
         + premise (n/v)假定/前提
         - promise (n/v)保證 (n)(成功的)跡象/徵兆
         - remit (v)寬恕/赦免, 緩和/減輕/減退, 鬆懈, 提交/移交(問題), 匯寄/匯付
-        - remiss (adj)疏忽的/懈怠的
+        - remiss (adj)疏忽的/懈怠的 = slack
         - remission (n)寬恕/赦免, (疾病的)緩解期, 減刑
         * submit (v)提交, 建議, 順從/屈服
         * submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential
@@ -3898,7 +3896,7 @@
     neg, ne 反對/否認/不 = deny, refuse, no
         - abnegate (v)否認, 放棄 = deny = repudiate
         - negative (adj)消極的, 否認的
-        + negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = cancel out
+        + negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = cancel out = stultify
         - negation (n)否認/反對
         - nefarious (adj)邪惡的/惡毒的 = evil = wicked <-- ne + fa(i)r  + ious
         + neglect (v)忽視/忽略, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心
@@ -3979,7 +3977,7 @@
         + nullify (v)使無效 = negate = invalidate, 取消 = cancel out = negate
 
     nigr, negr 黑 = black
-        + denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate, 貶低/輕視 = belittle = disparage
+        + denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate = slur, 貶低/輕視 = belittle = disparage
         - negrophile (n)關心黑人利益的人
         - nigrify (v)使變黑
 
@@ -4080,7 +4078,7 @@
             + occlude
             - occupy
             * occupation
-            * opportune (adj)合適的/適當的 --> opportunity (n)機會 <-- op + port 港口 = harbor + une
+            * opportune (adj)合適的/適當的 = appropriate = favorable, 適時的 = seasonable = timely --> opportunity (n)機會
             + opportunism (n)機會主義/投機主義
             + ostentation --> ostentatious
             + ostensible, ostensive 
@@ -4202,7 +4200,7 @@
         + onerous (adj)繁重的/麻煩的 = burdensome, 負有義務的
 
     orbit 軌道 = wheel track
-        + exorbitant (adj)過高的/過分的 = highly excessive
+        + exorbitant (adj)過高的/過分的 = highly excessive = steep
         - contraorbital (adj)與正常軌道相反的
 
     olico, olic 少 = few, little
@@ -4268,7 +4266,7 @@
         - predestine (v)注定
         + predetermine (v)預先確定/預先決定
         - predicate (v)斷言/斷定  <-- pre + dica 表示 = indicate + ate
-        + predicament (n)困境/窘境 = dilemma = quandary = quagmire  <-- pre + dica 表示 = indicate + ment
+        + predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape  <-- pre + dica 表示 = indicate + ment
         + predilection 
         - predisposition 
         - predominate (v)支配/統治 = dominate, 佔優勢 --> predominant (adj)有勢力的
@@ -4467,7 +4465,7 @@
         - pristine (adj)太古的, 清新的/純樸的/未受污染的 = untouched = uncorrupted
 
     priv 個人/搶奪 = private, rob
-        + deprive (v)奪走/剝奪 = remove --> deprivation (n)免職/剝奪, 匱乏/貧困 = privation
+        + deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)免職/剝奪, 匱乏/貧困 = privation
         - privacy (n)獨處, 隱私
         + privation (n)匱乏/貧困
         - privative (adj)剝奪的
@@ -4510,7 +4508,7 @@
         - suspense (n)懸念/掛念
 
     par 平等 = equality
-        + disparage (v)貶低/輕視 = belittle = detract = contempt = scorn = depreciate = downplay = disdain = flout <|> disparate
+        ++ disparage (v)貶低/輕視 = belittle = detract = contempt = scorn = depreciate = downplay = disdain = flout, 詆毀 = slur = calumniate = disparage = depreciate <|> disparate
         + disparate (adj)截然不同的/迥然相異的 = dissimilar <|> disparage
         + disparity (n)不同/差異 = inequality = difference
         + parity (n)(薪水或職位的)平等/相等 = equality
@@ -4627,7 +4625,7 @@
         - pacifist (n)和平主義者/反戰主義者
 
     plac 平靜/安撫/滿足 = quiet, calm, appease
-        + complacent (adj)自滿的/得意的 --> complacency (n)自滿
+        + complacent (adj)自滿的/得意的 = smug --> complacency (n)自滿
         + implacable (adj)難以平息的 = inexorable, 堅定的/無法改變的 = inflexible = intractable
         + placate (v)平息/安撫 = soothe = appease = pacify = conciliate
         + placid (adj)寧靜的/平和的 = calm
@@ -4746,7 +4744,7 @@
         * appreciable (adj)相當的/非常可觀的 = considerable = substantial
         - inappreciable (adj)微不足道的
         - deprecate (v)反對, 輕視/貶低 = belittle = contempt = scorn = denigrate
-        - depreciate (v)輕視 = deprecate = belittle = disparage, 貶值 = depress
+        - depreciate (v)輕視 = deprecate = belittle = disparage, 貶值 = depress, 詆毀 = slur = calumniate = disparage = denigrate
         + imprecate (v)詛咒 --> imprecation (n)詛咒 = curse = damnation, 咒語
 
     prehend, prent, pregn 抓住 = seize, grasp
@@ -4793,7 +4791,7 @@
         - biped (n)兩足動物
         - centipede (n)蜈蚣
         + expedite (v)迅速執行 = dispatch, 加快/促進 = hasten = accelerate --> expeditious (adj)迅速的/敏捷的
-        + expedient (adj)有利的, 權宜的 = politic, 出於便利的/出於私利的 (n)緊急措施/權宜之計 --> expediency (n)方便/利己, 權宜之計
+        +++ expedient (adj)有利的, 權宜的 = politic, 出於便利的/出於私利的 (n)緊急措施/權宜之計 --> expediency (n)方便/利己, 權宜之計
         - hexapod (n)昆蟲, 有六足的節肢動物
         + impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter --> impediment (n)妨礙, 阻礙物
         - pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
@@ -4936,7 +4934,7 @@
 
     plore 喊/哀嚎 = wail
         - deplore (v)深感遺憾/痛惜/哀嘆 = mourn, 譴責 = condemn
-        - deplorable (adj)可憐的/不幸的 = miserable = abject = rueful, 極其惡劣的 = egregious = atrocious
+        - deplorable (adj)可憐的/不幸的 = miserable = abject = rueful = sordid = squalid = wretched, 極其惡劣的 = egregious = atrocious
         - implore (v)哀求/懇求 = beg = beseech
 
     prav 不正派的 = crooked
@@ -5312,7 +5310,7 @@
         + arrogate (v)霸佔/僭越/詐稱
         + arrogant (adj)傲慢的 = dictatorial = imperious = presumptuous = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous --> arrogance (n)傲慢/自大
         - interrogate (v)審問/盤問 = examine --> interrogative (adj)審問的/疑問的
-        - derogate (v)誹謗 = disparage = belittle = detract, 廢除 = abrogate = abolish
+        - derogate (v)誹謗 = disparage = denigrate = slur = calumniate, 廢除 = abrogate = abolish
         - rogation (n)祈禱
         - prerogative (n)特權 = privilege
         - subrogate (v)代替
@@ -5470,7 +5468,7 @@
             + succor
             + succumb
             - suffice --> sufficient
-            - suffocate (v)使窒息而死 = asphyxiate, 阻止/遏止 = arrest
+            - suffocate (v)使窒息而死 = asphyxiate = stifle, 阻止/遏止 = arrest
             - suffuse
             - summon
             + supplant (v)排擠/攆走/根除, 代替/取代 = replace = substitute
@@ -5598,14 +5596,14 @@
         + restive (adj)不安靜的/不安寧的 = restless --> restiveness (n)倔強/難以駕馭
         - restless (adj)不停的, 不安靜的
         - stasis (n)停滯/靜止
-        - stagnate (v)淤塞/沉滯/失去活力 --> stagnant (adj)停滯的
+        - stagnate (v)淤塞/沉滯/失去活力 --> stagnant (adj)停滯的 --> stagnation (n) = stasis
         - staid (adj)沉著的/穩重的 <-- stay
         - stay (v)停留/留下/保持, 堅持/忍耐
         - stance (n)站姿, 立場
         + stanch (v)止血, 制止
         - stanza (n)詩節/詩段
-        + stasis (n)停滯/靜止, 瘀血
-        + static (adj)靜態的, 呆板的
+        + stasis (n)停滯/靜止 = stagnation, 瘀血
+        + static (adj)靜態的/固定的/靜止的, 呆板的
         - station (n)站/所/局/署, 身分/地位, 崗位/站立的位置 (v)駐紮/部署
         - stationary (adj)靜止的/不動的
         - statue (n)雕像
@@ -5658,9 +5656,9 @@
     spect, spec, speci, spic, spex, spite 看 = look, watch == mir
         - aspect (n)方面, 外表/外觀 = visage, 長寬比
         + auspices (n)資助/保護/支持 = agies = patronage --> auspicious (adj)吉利的 = propitious <--> ominous
-        + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent
+        + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking
         * despise (v)輕視/鄙視 = contempt
-        * despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject
+        * despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
         + despite (n)惡意/怨恨 = malice = hatred = spite, 辱罵 = insult (prep)雖然/儘管 = in spite of
         - inspect (v)檢查/審查/檢閱 --> inspection (n)檢查/細看
         + introspect (n)內省/自省 --> introspective (adj)自省的
@@ -5690,7 +5688,7 @@
     sper
         1. 散開 = scatter, sprinkle
             + asperse (v)誹謗 --> aspersion (n)誹謗/中傷/污衊 = calumny = slander = derogate (v) 
-            * disperse (v)驅散 = dispel, 散佈 = intersperse = disseminate
+            * disperse (v)驅散 = dispel, 散佈 = intersperse = disseminate = scatter = squander
             - intersperse (v)散佈, 點綴
 
         2. 希望 = hope
@@ -5729,7 +5727,7 @@
         - dissimulate (v)掩蓋/掩飾 = dissemble
         - ensemble (n)整體/全體, 合奏/合唱
         + idiosyncrasy --> idiosyncratic
-        +++ resemble (v)像 --> resemblance (n)相似 = affinity
+        +++ resemble (v)像 = favor --> resemblance (n)相似 = affinity
         * semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
         - similarity (n)相似 = analogy = resemble
         + simile (n)直喻/明喻
@@ -5896,12 +5894,12 @@
         - constrict (v)壓縮/收縮, 限制/約束 = limit
         - destrain (v)扣押
         - prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
-        + restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle --> restraint (n)克制 --> restrained (adj)克制的
-        * restrict (v)限制/妨礙 --> restriction (n)限制
-        - strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived 
-        - stricture (n)指責/非難, 限制/束縛 = limit
+        + restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle = stint --> restraint (n)克制 = stint --> restrained (adj)克制的
+        * restrict (v)限制/妨礙 --> restriction (n)限制 = stricture
+        - strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived
+        ++ strict (adj)周密的/詳細的 = close = careful = minute, 嚴謹的 = stringent = exacting, 嚴格的 = stern = severe = austere = stringent, 完全的 = absolute = complete = utmost --> stricture (n)苛評/非難 = censure, [醫]狹窄部位, 限制 = restriction
         - string (n)細繩/線
-        - stringent (adj)嚴格的 = rigid, 緊縮的
+        + stringent (adj)嚴格的 = strict = stern = severe = austere, 迫切的/必要的 = compelling = urgent = constraining, 有說服力的/有力的 = convicing = forible, [經濟]緊縮的 <-- string
         * unrestrained (adj)不受限制的/無節制的
 
     stern 散播 = strew, spread
@@ -5973,7 +5971,7 @@
     son 聲音 = sound
         - consonant (adj)一致的/調和的 <--> dissonant (n)子音/子音字母 
         + dissonant (adj)不和諧的/不一致的 = discordant = incompatible --> dissonance (n)不一致, 不和諧音
-        - resonant (adj)宏亮的 = orotund, 共鳴的 --> resonance (n)共鳴/回響
+        - resonant (adj)宏亮的 = orotund = stentorian, 共鳴的 --> resonance (n)共鳴/回響
         - sonic (adj)聲音的/音速的
         - sonata (n)奏鳴曲
         - sonnet (n)十四行詩
@@ -6025,7 +6023,7 @@
     sati, satur 滿足 = enough, full
         - insatiable (adj)不能滿足的/貪心的
         - sate (v)使心滿意足/使厭膩 = glut <-- satiate
-        + satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy (adj)吃飽的 --> satiable (adj)可滿足的
+        + satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy = saturate (adj)吃飽的 --> satiable (adj)可滿足的
         - satiated (adj)充分滿足的, 厭倦的/生膩的
         + satisfy (v)使滿足/使滿意 = satiate = sate, 使確信
         - satire (n)諷刺/諷刺性作品 --> satirize (v)諷刺
@@ -6147,7 +6145,7 @@
             - abstention
             - attract (v)吸引/招引 --> attractive (adj)有魅力的/誘人的/動人的 = comely, 有吸引力的/令人感興趣的
             + intractable
-            * contract (n)合約 (v)簽合約, 收縮, 縮短 = condense, 感染 --> contraction (n)收縮, 痙攣/子宮收縮
+            * contract (n)合約 (v)簽合約 = stipulate, 收縮, 縮短 = condense, 感染 --> contraction (n)收縮, 痙攣/子宮收縮
             + detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert
             + detraction (n)貶低/輕視
             + distract (v)使分心/干擾 = amuse = entertain detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
@@ -6180,16 +6178,16 @@
 
     tend, tent, tense 伸展 = stretch
         * attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
-        + contend (v)競爭/爭奪 = compete = vie, 聲稱/主張/據理力爭 = assert
+        + contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
         ++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial
         + distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
         + extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
-        * ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious = pompous
         * inattentive (adj)不注意的/怠慢的 = distrait
         + intense (adj)繃緊的/緊張的 --> intensify (v)加劇
         - intend (v)想要/打算
         + intent (adj)熱切的/渴望的, 專心致志的 (n)目的/意向
         - intention (n)意圖/意向/目的 --> intentional (adj)存心的/故意的 <-- intend
+        * ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious = pompous = showy
         + ostensible, ostensive (adj)表面的/假裝的 = professed = pretended
         ++ portent (n)前兆 = omen = sign, 奇事 = marvel = prodigy --> portentous (adj)凶兆的/不祥的 = ominous, 奇妙的 = prodigious = marvelous, 傲慢的 = pompous = arrogant 
         * pretend (v)假裝, 自稱 (adj)假想的 --> pretended (adj)假裝的 = ostensible = professed, 傳說的/號稱的
@@ -6206,7 +6204,7 @@
     tempt 嘗試/探查 = probe, feel, test
         + contempt (n)蔑視/鄙視/輕視/輕蔑 = scorn = disdain, 藐視法庭罪, 恥辱/丟臉 = disgrace = opprobrium
         * contemptuous (adj)輕蔑的/鄙視的/傲慢的 = scornful = disrespectful
-        * contemptible (adj)可鄙的/卑劣的 = scurvy = mean = sordid = despicable = paltry
+        * contemptible (adj)可鄙的/卑劣的 = scurvy = mean = sordid = despicable = paltry = wretched = filthy
         - attempt (n/v)嘗試/努力
         + tempt (v)引誘/誘惑, 吸引/打動, 不顧 --> temptation (n)引誘/誘惑/誘惑物
         - tentative (adj)試驗性的/嘗試的/試探性的, 躊躇的/猶豫的 <-- tempt
@@ -6334,12 +6332,12 @@
         - tornado (n)颶風/龍捲風
 
     trit, tribe 摩擦 = rub, wear down
-        + contrite (adj)悔罪的/悔恨的 = repentant = penitent --> contrition (n)悔恨 = compunction = remorse = penitence
-        + trite (adj)陳腐的/老一套的 = banal = hack
         - attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
-        - triturate (v)磨碎/搗碎
+        + contrite (adj)悔罪的/悔恨的 = repentant = penitent --> contrition (n)悔恨 = compunction = remorse = penitence
         + diatribe (v)怒斥/抨擊
         - detritus (n)碎屑, 廢墟/殘海 = debris
+        + trite (adj)陳腐的/老一套的 = banal = hack
+        - triturate (v)磨碎/搗碎
 
     tum 腫脹 = swell
         + contumacious (adj)不服從的 = disobedient = rebellious = pertainacious <--> compliant, (尤指對法庭命令)抗拒的
@@ -6471,7 +6469,7 @@
         + unpromising (adj)沒希望的/沒出息的
         + unpropitious (adj)不吉利的/惡運的/不順遂的 = untoward <-- un + propitious
         - unprovoked (adj)未受挑釁的/無緣無故的(生氣等)
-        + unqualified (adj)無資格的, 無限制的/絕對的
+        ++ unqualified (adj)無資格的, 無限制的/絕對的 = sheer = absolute = complete
         * unravel (v)解開/拆散, 揭開/弄清, 破壞
         - unregenerate (adj)不知悔改的
         - unregulated (adj)未受管理的/未受約束的
@@ -6703,7 +6701,7 @@
         - convalesce (v)康復/休養 --> convalescent (adj)療養中的/康復中的 (n)處於康復期的病人
         - equivalent (adj)相同的/等值的
         + prevalent (adj)流行的/盛行的/普遍的 = rife
-        - valiant (adj)勇敢的/英勇的 = courageous = heroic
+        - valiant (adj)勇敢的/英勇的 = courageous = heroic = stalwart
         + valid (adj)有根據的/令人信服的, 合法的/有效的 --> validity (n)正當/正確/確實, 有效性/效力
         + validate (v)使生效
         - valor (n)勇氣 --> valorous (adj)勇敢的 = valiant
