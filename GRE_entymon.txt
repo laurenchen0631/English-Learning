@@ -826,7 +826,7 @@
         * deceive (v)欺騙/矇騙 --> deceit (n)欺騙/欺詐 = chicanery
         * disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
         - emancipate
-        + except (v/adv/prep)除外/不計 --> exception (n)例外, 反對 = objection = demurral
+        ++ except (v/adv/prep)除外/不計 --> exception (n)例外, 反對 = objection = demurral
         + exceptional (adj)例外的/異常的 = unusual = extraordinary, 優秀的 = excellent = superior <|> expect
         - homicidal (adj)殺人的
         - incept (v)攝取/接收 = ingest, 開始, 就職, 取得學位 --> inception (n)成立/創立, 起初/開端/開始, 取得學位
@@ -1255,11 +1255,11 @@
         - excruciate (v)拷問/施酷刑於 = torment --> excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = banal
 
     cub, cumb 立方體/躺 = cube, lie down
+        - concubine (n)妾
         - cubicle (n)(大房間中分隔出來的)小隔間
         - incubate (v)孵化, 潛伏/醞釀 --> incubation (n)孵卵期, 潛伏期
         - incubator (n)孵卵器, 早產嬰兒保育箱
         - incubus (n)夢魘, 精神壓力/負擔 = burden
-        - concubine (n)妾
         - incumbent (adj)負有職責的, 現任的/在職的 (n)現任者/在職者
         + cumber (v)拖累/妨礙 --> cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的 = unwieldy = clumsy
         + encumber (v)妨礙 = impede = hinder = retard = cumber = hamper, 塞滿 = block up = fill, 負擔/重擔 = burden
@@ -1838,7 +1838,7 @@
         - exempt <-- ex + empt
         - exert <-- ex + sert 
         - exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
-        + exhaust (n)排出, 廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡 --> exhaustive (adj)徹底的/詳盡的 = comprehensive = thorough, 精疲力盡的
+        +++ exhaust (n)排出, 廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡 --> exhaustive (adj)徹底的/詳盡的 = comprehensive = thorough, 精疲力盡的
         * exhibit
         + exhilarate
         + exhort
@@ -3169,7 +3169,7 @@
         + transitory
 
     idio 獨特的/唯一的 = peculiar
-        + idiosyncrasy (n)特性/嗜好/特點 = characteristic = habit --> idiosyncratic (adj)獨特的/特性的 = peculiar
+        + idiosyncrasy (n)特性/嗜好/特點 = characteristic = habit = quirk --> idiosyncratic (adj)獨特的/特性的 = peculiar
         - idiolect (n)個人的講話風格
         - idioventricular (adj)心室的
 
@@ -3988,7 +3988,7 @@
 
     norm 規定 = rule, pattern
         - enormity (n)暴行, 窮兇極惡/滔天大罪, 巨大 --> enormous (adj)巨大的
-        * norm (n)標準/估飯 = standard
+        * norm (n)標準/規範 = standard
         + normative (adj)基準的/規範的 <-- norm
 
     numer 數字
@@ -4072,7 +4072,7 @@
             - obstreperous (adj)吵鬧的, 難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
             + obtrude --> obtrusive
             - obverse
-            - obvious --> obviate
+            + obvious --> obviate
             + occlude
             - occupy
             * occupation
@@ -4310,7 +4310,7 @@
         * pretend --> pretended
         + pretense --> pretension --> pretentious
         - pretext
-        + prevail (v)戰勝 = succeed = become dominant = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail
+        + prevail (v)戰勝 = succeed = become dominant = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail <|> travail
         + prevalent
         - prevaricate (v)支吾其詞 = quibble = equivocate, 說謊 = mislead = lie 
         + prevent
@@ -4349,7 +4349,7 @@
         - projection
         - projector
         + proliferate (v)激增, 繁殖
-        - prolific (adj)多產的/多育的/豐富的 = fertile = frutiful = generous
+        + prolific (adj)多產的/多育的/豐富的 = fertile = frutiful = generous
         + prolix (adj)囉唆的/冗長的 --> prolixity (n)囉唆 = verbosity <-- pro + lix 液體 = liquid
         - prologue
         + prolong (v)延長/拉長 = lengthen
@@ -4470,7 +4470,7 @@
     priv 個人/搶奪 = private, rob
         + deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)免職/剝奪, 匱乏/貧困 = privation <|> deprave
         - privacy (n)獨處, 隱私
-        + privation (n)匱乏/貧困
+        + privation (n)剝奪, 被剝奪的狀態/喪失/缺乏
         - privative (adj)剝奪的
         + privilege (n)特權/特別利益
 
@@ -4940,7 +4940,7 @@
     plore 喊/哀嚎 = wail
         - deplore (v)深感遺憾/痛惜/哀嘆 = mourn, 譴責 = condemn
         - deplorable (adj)可憐的/不幸的 = miserable = abject = rueful = sordid = squalid = wretched, 極其惡劣的 = egregious = atrocious
-        - implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead
+        - implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge
 
     prav 不正派的 = crooked
         * deprave (v)使墮落 --> depraved (adj)墮落的/腐敗的 = putrid = vicious = profligate --> depravity (n)墮落 = turpitude, 惡習 <|> deprivation
@@ -5347,7 +5347,7 @@
     rept 爬行 = snatch, creep
         - reptile (n)爬蟲類 --> reptilian (adj)爬蟲類的, 卑下的
         - reptant (adj)爬行的
-        + surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = = sly = stealthy
+        + surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
 
     respond 反應
         * correspondent (adj)符合的 = matching (n)記者, 寫信人
@@ -5542,7 +5542,7 @@
 
     soli, sol 孤單/整個 = alone, whole
         ** desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely, 憂鬱的 = dreary = gloomy = dismal = plaintive = morose = melancholy (v)破壞 = devastate
-        *** solicit (v)強求 = importune = woo, 請求/懇求/徵求 = beseech = entreat = woo = implore = crave, 教唆/唆使 = abet
+        *** solicit (v)強求 = importune = woo, 請求/懇求/徵求 = beseech = entreat = woo = implore = crave = urge, 教唆/唆使 = abet
         - solicitude (n)關懷/牽掛
         + solicitous (adj)關懷的/掛念的 = attentive = eager, 憂慮的 = concerned = apprehensive, 非常小心的 =  meticulously careful, 渴望的 = eager
         - soliloquy (n)自言自語/獨白
@@ -5902,7 +5902,7 @@
         + constrain (v)限制/束縛 = confine = restrain = repress, 強迫 = compel = oblige --> constraint (n)束縛/拘束, 強制/強迫
         - constrict (v)壓縮/收縮, 限制/約束 = limit
         - destrain (v)扣押
-        - prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
+        + prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
         + restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle = stint --> restraint (n)克制 = stint --> restrained (adj)克制的
         * restrict (v)限制/妨礙 --> restriction (n)限制 = stricture
         - strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived
@@ -6253,7 +6253,7 @@
         - anatomy (n)解剖學, 結構, 身體, 剖析/分析 = analyze --> anatomic (adj)解剖學的
         + dichotomy (n)對立
 
-    the,, thesis 放 = put == pos
+    the, thesis 放 = put == pos
         + antithesis (n)對照/正相反/對比法, 對立 --> antithetical (adj)正相反的/對照的
         * hypothesis --> hypothetical
         * synthetic
@@ -6590,7 +6590,6 @@
         + undulating (adj)波浪起伏的/波浪形的 
         - undulation (n)波動 = fluctuation, 波浪狀
 
-
     {um} 表名詞/表地點
         - addendum
         - arboretum
@@ -6730,6 +6729,7 @@
 
     vap 蒸汽 = steam
         + vapid (adj)索然無味的/無趣的 = tasteless = dull = flat = insipid
+        * vapor (v)汽化/蒸發 = vaporize, 吹噓 = vaunt = boast = vaporize = bluster (n)蒸汽/水汽, 幻想, 吸入劑
         - vapidity (n)無味/無聊
         - vaporize (v)(使)蒸發 --> vaporization (n)蒸發
         - vaporous (adj)蒸汽的/有霧的, 空想的/無實質的 = unsubstantial
