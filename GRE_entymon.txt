@@ -1,6 +1,6 @@
 [A]
-    a
-        1. 做/加強/一再 = towards, do == ab == ac == ad == af == ag == ag == al == an == ap == as
+    a, ab, ac, ad, af, ag, ag, al, an, ap, as
+        1. 做/加強/一再 = towards, do
             + abase
             + abbreviate
             + aberrant
@@ -85,7 +85,7 @@
             + aver
             + avert
 
-        2. 不/無 = without == ab == abs == an == ar
+        2. 不/無 = without
             + abdicate
             + abjure
             + abstain
@@ -332,6 +332,7 @@
 
         2. 統治 = chief, leader, ruler
             + anarchy (n)無政府, 政治上的混亂 = disorder
+            - archbishop (n)樞機主教
             - monarch
             + hierarchy --> hierarchical
             + oligarchy
@@ -347,9 +348,10 @@
         - aristocracy (n)貴族, 貴族統治/貴族政府
 
     arm, armi 武裝/武器
-        - armada (n)艦隊  <-- arm + ada 艦隊
+        - armada (n)艦隊 <-- arm + ada 艦隊
         - armor (n)裝甲
-        - armory (n)軍械庫 = aresenal
+        - armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
+        - armorial (adj)紋章的/徽章的 (n)文章書
         - armistice (n)停戰/休戰
         - disarm (v)繳械, 使緩和
         - firearm (n)槍枝
@@ -900,6 +902,7 @@
         - recruit (n)新兵, 新成員 = newcomer (v)徵募
 
     cre, cern 分開/分辨 = separate, distinguish <--> crue
+        + decree (n)法令/教令, 天意/天命 (vt)裁決 (v)命令 = ordain
         + discern (v)(費勁)看出 = recognize = apprehend, 辨別出 = distinguish = discriminate --> discernment (n)洞察力/識別
         - discernible (adj)能看出的/可辨別出的
         + discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
@@ -1624,7 +1627,7 @@
         - dose (n)劑量, 一劑
 
     dorm 睡 = sleep
-        + dormant (adj)冬眠的/休眠的 = torpid, 睡著的, 靜止的 = still = inactive, 潛在的/潛伏的 = latent
+        + dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
         * dormancy (n)休眠狀態/冬眠 = torpor
         - dormitory (n)宿舍
         - dormouse (n)榛睡鼠
@@ -1787,8 +1790,7 @@
             - erupt
             + evade --> evasion --> evasive
             - evaluate (v)評價/鑑定 --> evalution (n)評價/鑑定
-            + evanesce --> evanescen 
-            +t
+            + evanesce --> evanescent
             - evaporate (v)使蒸發掉 <-- e + vapor + ate
             + evoke --> evocative
             + evolve --> evolution
@@ -2052,6 +2054,7 @@
     ess 存在 = be
         - essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
         * essential (adj)本質的, 必要的/不可缺的, 提煉的/精華的 (n)要素/要點, 本質
+        + quintessential (adj)典型的
 
     ethno, ethn 種族/文化 = race, culture
         - ethnic (adj)種族的/民族的 人種學的
@@ -2092,6 +2095,7 @@
         + foreground (n)前佈景, 最顯要的位置/最重要的地位 = forefront (v)強調 = emphasize
         - foreknowledge (n)預知
         * foremost (adj)最前的/最先的, 最重要的 (adv)在最前/首先
+        - foreordain (v)注定/預先決定 = predestine = ordain
         * forerunner (n)預兆/前兆 = herald, 先驅 = herald
         + foresee (v)預見/預知 --> foreseeable (adj)可預見的
         * foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = bode
@@ -3184,7 +3188,7 @@
         - deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected(adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
         - inject (v)注射/注入 --> injection (n)注射, 注射劑
         - interject (v)插話/插嘴 = interpolate --> interjection (n)插入語, 感歎詞
-        - object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
+        + object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
         - objective (adj)客觀的, 目標 = aim --> objectivity (n)客觀
         * project (v)預計/推算, 投擲/發射, 放映/投射, 伸出/突出 (n)方案/工程/專案
         - projectile (n)投射物
@@ -3732,7 +3736,7 @@
         - emulsify (v)乳化
 
     moll 軟 = soft
-        + emollient (n)潤膚劑, 軟化劑 (v)柔軟的
+        + emollient (n)潤膚劑, 軟化劑 (adj)使柔軟的, 使緩和的 = mollifying
         + mollify (v)撫慰/安慰 = appease = soothe = mitigate
         - mollycoddle (v)溺愛/縱容 = pamper (n)女性化的男人/嬌生慣養的人 <-- molly + coddle 
 
@@ -4161,8 +4165,8 @@
         - oratorio (n)清唱劇
 
     ord 命令 = order
-        - ordain (v)任命神職, （上帝或權威人士）命令/下令 = prescribe = enjoin
-        - ordinance (n)法令/條例
+        - ordain (v)任命神職, 命令/下令 = decree = enact = prescribe = enjoin, 注定 = foreordain
+        - ordinance (n)法令/條例 = decree = command, 風俗習慣, 注定之事
         - ordnance (n)大砲, 軍械
         + orderly (adj)整齊的/有條理的/整潔的, 守秩序的/和平的 (n)勤務員/護理員, 傳令兵
 
@@ -4596,7 +4600,7 @@
         ++ appeal (v)吸引 = allure, 求助, 上訴, 懇求/請願 (n)懇求/請願 = entreaty = petition = plea --> appellant (n)上訴人 --> appellation (n)名稱/稱呼
         * compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact,  激起/引發 = incite 
         + compelling (adj)(理由、論證等)令人信服的/很有說服力的, 引人入勝的/扣人心弦的
-        - compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
+        * compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
         - compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的
         - compulsory (adj)必須的 = required = mandatory = obligatory
         * expel (v)開除 = oust, 排出/噴出 = discharge = emit = utter
@@ -5666,7 +5670,7 @@
         - aspect (n)方面, 外表/外觀 = visage, 長寬比
         + auspices (n)資助/保護/支持 = agies = patronage --> auspicious (adj)吉利的 = propitious <--> ominous
         + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking
-        * despise (v)輕視/鄙視 = contempt
+        * despise (v)輕視/鄙視 = contempt = spurn
         * despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
         +++ despite (n)惡意/怨恨 = malice = hatred = spite, 辱罵 = insult (prep)雖然/儘管 = in spite of
         - inspect (v)檢查/審查/檢閱 --> inspection (n)檢查/細看
@@ -6110,7 +6114,8 @@
             + transcend --> transcendent
             - transcendental
             + transgress --> transgression
-            + transient (adj)短暫的/一時的/瞬間的 = transitory = temporary = fleeting --> transience (n)短暫 <-- trans + i(t) + ent
+            + transient (adj)短暫的/一時的/瞬間的 = transitory = temporary = fleeting (n)短暫之物/短暫居住者/過往旅客/候鳥, 瞬變電流
+            - transience (n)短暫 <-- trans + i(t) + ent
             - transit (v)運輸/運送, 通過/經過/過渡/變遷 --> transition (n)過渡時期/轉變
             + transitory (adj)短暫的 = transient = ephemeral = fleeting <-- transit
             + translucent
@@ -6582,7 +6587,7 @@
         - umbrella (n)雨傘
 
     und 波浪 = wave
-        - abound (v)大量存在, 富含, 充滿
+        + abound (v)大量存在, [in/with]富含/充滿 = teem
         + inundate (v)淹沒 = flood, 氾濫 = flood = overwhelm
         + redound (v)起作用/有助於, 報應/返回到
         + redundant (adj)累贅的/多餘的
@@ -6786,7 +6791,7 @@
         - surveillance (n)監控/監視 = scrutiny
 
     vit 生命 = life
-        + vital (adj)極其重要的 = pivotal = crucial, 充滿活力的 <|> vitiate
+        + vital (adj)極其重要的 = pivotal = crucial, 生命的, 維持生命所必需的, 充滿活力的 = animated, 致命的 = deadly <|> vitiate
         - vitalize  (v)激發活力
 
     vic, viti, vitu 邪惡 = vice
@@ -6815,7 +6820,7 @@
         * devoid (adj)缺乏的 = lacking
         - evacuate (v)撤離, 使避難, 排便
         - vacant (adj)空白的/空的/空缺的/空閒的, 茫然的/空虛的 = vague
-        + vacuous (adj)空的/空虛的/茫然的/空洞的 = empty = void --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間
+        + vacuous (adj)空的 = empty = void, 茫然的/空洞的 = inane = stupid, 無所事事的 = purposeless = idle  --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間
         - vacuum (n)真空, 空白/空虛, 孤立狀態
         - vanish (v)突然不見, 絕跡
         - vanity (n)虛榮/自負

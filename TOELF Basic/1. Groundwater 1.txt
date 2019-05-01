@@ -1,0 +1,36 @@
+[Vocabulary]
+- peak == summit = top == pinnacle
+- surge == gush forth == swell
+- supply == provide == furnish = equip
+- scarce == rare 
+- serve == function == perform
++ vital == essential  = of the greatest importance 
+- rarely == seldom == hardly ever
++ estimate == approximate = appraise
+- affect == influence
+
+[Listened Article]
+Groundwater is a major source of mankind's usable water. It is found everywhere under the earth's surface from beneath the desert of Death Valley to the highest peak of Himalayas. It surges up through wells and springs supporting life on farms and towns as well as supplying large cities. When surface water is scarce, groundwater serves a vital supply for irrigation, and the people ... rights to it. Ground can rarely be seen except when it seeds up into a well or flows from a spring. But scientists can estimate how much it stores at given a location, how fast it is moving, how soon pumping a well will affect another well, where the water comes from and where it will be found years in the future. So important is groundwater the hundreds of scientists spend their time mapping its location for the purpose of management and conservation.
+
+[Real Article]
+Groundwater is a major source of mankind's usable water. It is found everywhere under the earth's surface, from beneath the deserts of Death Valley to the highest peaks of the Himalayas. It surges up through wells and springs, supporting life on farms and in towns as well as supplying large cities. When surface water is scarce, groundwater serves as a vital supply for irrigation, and people have even fought over the rights to it. Groundwater can rarely be seen except when it seeps up into a well or flows from a spring, but scientists can estimate how much is stored at a given location, how fast it is moving, how soon pumping a well will affect others wells, where the water comes from, and where it will be found years in the future. So important is groundwater that hundreds of scientists spend their time mapping its location for the purpose of management and conservation.
+
+[Review]
+- the Himalayas
+- serve as
+- irrigation 
+    > |the therapeutic flushing of a body part with a stream of liquid| [醫學]沖洗
+    > |the watering of land by artificial means to foster plant growth| 
+- people have even fought over the rights to it. 人們一直以來為了地下水的擁有全而爭鬥不休
+- seep
+    > ooze = |to flow or pass slowly through fine pores or small openings| water seeped in through a crack
+    > |to enter or penetrate slowly| fear of nuclear war had seeped into the national consciousness
+- at a given location
+- pump a well 抽井水
+- years in the future
+    > 500 years in the future, it could be totally normal to communicate with the other side.
+    > We wish her many happy years in the future.
+- So important is groundwater that .... == Groundwater is so important that ... == so ... that ...
+    > The child is so young that he can't go to school. == So young is the child that he can't go to school.
+    > It is so good that it can't be true.
+    > So surprised was he that he couldn't say a word. == Such was his surprise that he couldn't say a word.

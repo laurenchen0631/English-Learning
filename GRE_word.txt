@@ -1,12 +1,12 @@
 [A]
-    + abet (v)教唆/唆使 = solicit <-- a + bait
+    + abet (vt)教唆/鼓勵 = ferment = foment = incite = instigate <-- a + bait
     + abeyance (n)擱置/暫時中止 = temporary inactivity <-- a + bay + ance
     + abreast (adv)並列地 = side by side --> keep abside of 了解...的最新情況
-    + abridge (v)刪減 = diminish = pare = hack, 縮短 = abbreviate = condense
+    + abridge (vt)刪減 = diminish = pare = hack, 精簡 = abbreviate = condense
     + absurd (adj)荒謬的/可笑的 = ludicrous = inept
-    + abundant (adj)豐富的 = ample = bountiful = opulent = profuse = rife --> abundance (n)大量/充足
+    + abundant (adj)大量的 = ample = bountiful = opulent = profuse = rife, 豐富的/充斥的 = abounding = rife --> abundance (n)大量/充足
     + adamant (adj)堅決的/固執的 = resolute = unyielding = tenacious = intransigent, 非常堅硬的
-    ++ address (n)住址, 演說 (v)處理, 致辭, 給...寫信
+    ++ address (n)住址, 演說, 舉止 (vt) 處理, 致辭, 給...寫信
     + adulate (v)諂媚/奉承 = flatter = fawn = toady --> adulation (n) --> adulator (n) = toad
     + adulterate (v)(在飲食中)摻雜 = debase = corrupt = alloy <|> adulate
     + advance (v)提出（想法或理論）, 提前支付, （使）前進/增加
@@ -444,6 +444,7 @@
     + coterie (n)小圈子/小團體 = clique <-- cote [德]佃農 = cotter
     *** court (n)球場, 庭院, 法院/法庭, 全體出庭人員/全體審判人員, 宮廷/皇室 (v)吸引 = allure = tempt = engage, 求取/設法取得 = court, 招致/招惹 = woo, 求愛 = woo
     ** courtly (adj)有禮貌的 = polite = refined = elegant = courteous, 諂媚的 = obsequious = flattering = fawning
+    * courtship (n)求愛, 求偶, 追求/尋找
     + courteous (adj)有禮貌的 = polite = courtly --> courtesy (n)禮貌/禮節 = amenity = etiquette <-- court
     + covert (adj)隱秘的/秘密的 = hidden = concealed = secret = disguised <--> overt <-- cover 
     + covet (v)覬覦/垂涎/貪求 = desire wrongfully --> covetous (adj) (尤指對屬於別人的東西)貪求的/垂涎的 
@@ -610,6 +611,7 @@
     ^ canal (n)運河/渠
     ^ cartel (n)同業聯盟 = syndicate
     ^ charitable (adj)慈善的, 仁慈的/寬容的
+    ^ china (n)瓷/瓷器, 
     ^ clergy (n)神職人員 <--> laity
     ^ college (n)大學, 學院, 學會/協會
     ^ comprise (v)包含/包括/構成 = comprehend = embrace = include
@@ -624,7 +626,7 @@
     + dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
     + debilitate (v)使虛弱/削弱 = enfeeble = attenuate = vitiate = languish = wan <|> deliberate <-- debilit 虛弱 = weak + ate
     + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
-    + denizen (n)居民 = inhabitant, 外籍居民 <-- deniz 裡面 = within + en
+    + denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + deny (v)拒絕 = refuse = withhold
     + didactic (adj)道德教誨的 = morally instructive, 教訓的/說教的 <-- didact 被教 = taught + ic
     + dilatory (adj)拖延的/遲緩的/磨蹭的 <-- delay
@@ -824,7 +826,6 @@
     ^ embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
     ^ estate (n)私有土地/莊園, 住宅區/工業區, 遺產
     ^ excavation (n)挖掘
-    ^ esteem (n/v)尊敬/敬重
     ^ edge (n)邊/邊緣 = brink = fringe = periphery = verge, 刀口/刃 = blade, 優勢/優越之處, 尖刻的聲調/厭煩的聲調/憤怒的語氣 (v)徐徐移動/緩緩發展
 
 [F]
@@ -1390,13 +1391,14 @@
     ^ haggle (v)討價還價 = bargain = dicker
     ^ handbill (n)傳單/小廣告 = leaflet
     ^ handout (n)講義/印刷品, 施捨物/救濟款
+    ^ heraldry ()
 
 [I]
     + iconoclast (n)攻擊傳統觀念或風俗的人, 反對崇拜聖像者/提倡打破舊習的人 --> iconoclastic (adj) <-- icono + clast 破壞者 = breaker
     + identical (adj)完全相同的 = similar = alike, 非常相似的 = selfsame
     + identify (v)認出/識別 = discern, 確定/發現
     + ideology (n)思想體系/意識形態 <-- ideo 想法 = idea + logy
-    ++ idle (adj)無所事事的 = unemployed, 無效的 = useless = futile = vain, 懶散的 = lazy, 無憑無據的 = baseless = groundless (v)無所事事 --> idly (adv)懶惰地/無所事事地, 無益地/徒然地
+    ++ idle (adj)無所事事的 = vacuous = unemployed, 無效的 = useless = futile = vain, 懶散的 = lazy, 無憑無據的 = baseless = groundless (v)無所事事 --> idly (adv)懶惰地/無所事事地, 無益地/徒然地
     + idolater (n)崇拜者 = devotee --> idolatry (n)偶像崇拜, 盲目崇拜
     + idyll (n)田園生活, 田園詩 --> idyllic (adj)田園風光的 = rural = bucolic, 快樂無憂的 = carefree = blithe = halcyon
     + imaginative (adj)想像的, 空想的/幻想的 = fanciful  = fatuous = imaginary = unreal = quixotic
@@ -1986,6 +1988,7 @@
     ^ oeuvre (n)作品全集 = canon
     ^ odor (n)(難聞的)氣味/臭味
     ^ orgy (adj)狂歡聚會 = bacchanalia
+    ^ opium (n)鴉片, 麻醉物/慰藉物
 
 [P]
     + paean, pean (n)讚美歌/頌歌 = hymn = eulogy = panegyric
@@ -2067,6 +2070,7 @@
     * peril (n)危險 = jeopardy = hazard
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely, 和藹的 = affable = amiable = sociable = cordial = genial
     * personnel (n)全體人員/員工
+    * pier (n)碼頭, 防波堤, 墩/橋墩
     ** pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望 = long = thrist = yearn = crave (n)松樹
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
     * pitcher (n)投擲者, 大水罐/水壺
@@ -2097,7 +2101,8 @@
     ^ pact (n)協定/條約 = agreement = covenant
     ^ padding (n)墊塞/填料, 多餘的q廢話
     ^ pagan (n)沒有宗教信仰的人, 異教徒 = heathen
-    ^ pageant (n)壯觀的遊行, 露天歷史劇
+    ^ pageant (n)虛飾/炫耀, 壯麗的場面, 露天歷史劇
+    ^ pageantry (n)虛飾, 壯觀 = spectacle, 
     ^ painkiller (n)止痛藥
     ^ palate (n)上顎, 口味, 愛好 --> palatable (adj)美味的 = sapid, 使人愉快的
     ^ pall (v)令人發膩/失去吸引力 = cloy, 棺罩/柩衣, 遮蓋物/幕
@@ -2230,8 +2235,8 @@
     ^ pyre (n)火葬用的柴堆
 
     ^ paramedics (n)醫護人員
+    ^ pajamas (n)睡褲/寬長褲
     ^ peep (n/v)窺/偷看, 隱約顯現/緩緩出現 <|> seep <|> weep
-    ^ pextraneouserplex (v)使困惑/使擔憂
     ^ pilgrimage (n)朝聖
     ^ pimple (m)面皰/粉刺
     ^ pot (n)罐/壺/瓶, 花盆, 陶碟/陶碗
@@ -2297,7 +2302,7 @@
     + ribald (adj)下流的/低俗的 = crude = offensive = bawdy = vulgar = gross = obscence = salacious
     + ridden (adj)被支配的 = dominated = burdened = harassed = oppressed, 充滿…的 <-- ride
     ++ riddle (n)謎/奧秘 = enigma = conundrum = puzzle, 粗篩 (v)打謎似地說, 使布滿洞孔, 充滿 = permeate, 篩 = screen
-    ++ rife (adj)流行的/蔓延的 = prevalent = rampant, 豐富的 = abundant = plentiful = numerous, 充斥的/充滿的 = abounding
+    ++ rife (adj)流行的/蔓延的 = prevalent = rampant, 豐富的 = abundant = plentiful = numerous, 充斥的/充滿的 = abundant = abounding
     + rift (n)裂口/裂縫 = gap = fissure = cleft = chink, 嫌隙 (v)裂開 = split
     + rigid (adj)堅固的/不易彎曲的 = austere, 嚴格的/死板的 = inflexible = strict = severe = stringent, 嚴密的/精確的 = exacting = thorough = rigorous --> rigidity (n)
     ++ rigor (n)嚴格/嚴厲/苛刻 = asperity = strictness = severity, 嚴密/精確, 艱苦 = hardship = austerity --> rigorous (adj)嚴格的/嚴厲的 = harsh = severe, 縝密的/精確的 = precise = exact = accurate = rigid
@@ -2835,7 +2840,7 @@
     ^ stalk (v)偷偷靠近/追蹤
     ^ stall (v)使停止/使延遲
     ^ stamp (n/v)跺腳, 在...上蓋印
-    ^ staple (n)主要產品 (adj)主要的 (n)訂書釘
+    ^ staple (n)交易重鎮, 供應處 = source, 主要產品, 原料 = raw material, 纖維/纖維長度, U形釘/訂書針 (adj)主要的
     ^ starch (n)澱粉, 刻板/拘謹 --> starchy (adj)含澱粉的, 刻板的
     ^ steal (v)偷/巧取 --> stealth (n)秘密行動
     ^ steer (v)操舵/駕駛 (n)小公牛/閹牛/食用牛
@@ -2920,6 +2925,7 @@
     ^ surge (n/v)遽增/急遽上升, 湧現
     ^ svelte (adj)苗條的
     ^ sway (v)搖擺/擺動, 使移動/使改變 = budge, 說服/使動搖 (n)控制/統治/影響
+    ^ spurn (v)輕蔑地拒絕/唾棄 = scorn, 輕視 = contempt = despise, 踩踏 = trample
 
 [T]
     + tacit (adj)心照不宣的/不明言的 = implied, 沈默的 = unvoiced = unspoken = silent --> taciturn (adj)沈默寡言的
@@ -3021,7 +3027,7 @@
     ^ tariff (n)關稅
     ^ tarnish (v)(尤指金屬)失去光澤, 誹謗/中傷 = besmirch = smear = slur = slander = derogate = taint
     ^ tarpaulin (n)防水油布
-    ^ tart (adj)酸的, 尖酸的/刻薄的 = acrimonious
+    ^ tart (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious (v)裝點/裝扮 (n)水果餡餅
     ^ tasty (adj)味道好的, 有趣的
     ^ tatty (adj)簡陋的/不整潔的/襤褸的/破爛的
     ^ taut (adj)繃緊的 --> tauten (v)拉緊/繃緊
@@ -3120,8 +3126,10 @@
     ^ typo (n)排印錯誤
 
     ^ taunt (v)譏諷/嘲弄
+    ^ teem (vi)充滿 = abound with (vt)倒出/傾注 = pour = empty
     ^ torrid (adj)炎熱的 <--> arctic, (性愛)熾烈的/熱烈的
     ^ troth (n)誓言/訂婚
+    ^ trout (n)鱒魚/鮭魚
     ^ truncheon (n)警棍 = baton = nightstick
 
 [U]
@@ -3333,13 +3341,11 @@
     * yearn (v)渴望 = long = pine = thirst = crave, 同情/憐憫
 
     ^ yacht (n)帆船/遊艇
-    ^ yawn (v)打呵欠 = gape
-    ^ yearn (v)盼望/渴望
-    ^ yeast (n)酵母, 興奮 <|> feast
-    ^ yokel (n)鄉巴佬
-
-    ^ yelp (v)(因疼痛)尖叫
     ^ yap (v)(小狗)狂吠/吠叫 = bark, 喋喋不休地說話/嘮叨 = babble
+    ^ yawn (v)打呵欠 = gape
+    ^ yeast (n)酵母, 興奮 <|> feast
+    ^ yelp (v)(因疼痛)尖叫
+    ^ yokel (n)鄉巴佬
 
 [Z]
     * zeal (n)熱忱/熱情/狂熱 = zest = fervor
