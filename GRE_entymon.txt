@@ -2323,10 +2323,12 @@
         - influx (n)注入/湧入
         + superfluous (adj)過多的/多餘的 = excessive = redundant --> superfluity (n)額外, 過剩 = plethora
 
-    fluoro, fluor 螢光
+    fluoro, fluor 螢光/氟
         - fluorite (n)螢石/氟石
-        - fluorescent (adj)螢光的/發光的
+        - fluorescent (adj)螢光的/發光的 --> fluorescence (n)
         - fluorometry (n)螢光劑
+        - /ˈflɔːriːn/ fluorine (n)氟
+        - /ˈflɔːrʌɪd/ fluoride (n)氟化物
 
     flor, flour 花/開花 = bloom, flower == anth
         - efflorescent (adj)開花的
@@ -2419,7 +2421,7 @@
         + perfunctory (adj)草率的/敷衍的 = superficial
 
     foss 石頭/化石 = fossil
-        - fossil (n)化石, 頑固不化的人 (adj)化石的, 守舊的/陳腐的
+        - /ˈfä-səl/ fossil (n)化石, 頑固不化的人 (adj)化石的, 守舊的/陳腐的
         - fossilize (v)使成化石, 使陳腐
         - fosse (n)護城河
 
@@ -2854,6 +2856,7 @@
             + inexorable (adj)說不動的/無情的 = implacable = relentless = unyielding = stern, 無法改變的/不可阻擋的
             + inexplicable (adj)無法解釋的 = mysterious = obscure
             + inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable
+            - infancy (n)嬰兒期/幼年, 初期/發展階段
             - infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
             + infallible (adj)絕對正確的 = certain, 永無過失的/不會犯錯誤的
             - infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
@@ -4035,6 +4038,11 @@
         - astronaut (n)太空人
         - navigate (v)航海/操縱/駕駛, 導航
 
+    nitro, nitr 氮
+        - nitrogen (n)氮
+        - niter (n)硝酸鉀, 硝酸鈉
+        - nitric (adj)硝石的, 氮的
+        - nitrate (n)硝酸鹽
 
 [O]
     ob, oc, o, op
@@ -5030,6 +5038,10 @@
         - rapport
         - report --> reportorial
         - transport
+
+    phosph, phospho 磷
+        - /ˈfɒsf(ə)rəs/ phosphorus (n)磷
+        - /ˈfɒsfeɪt/ phosphate (n)磷酸鹽/磷酸酯, 磷肥
 
 [Q]
     quaint 知道 = know == gnost

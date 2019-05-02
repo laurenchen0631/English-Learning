@@ -2697,7 +2697,7 @@
     ^ settle (v)安置於 = place, 決定 = decide, 棲息
     ^ sever (v)切斷/脫離 --> severance (n)切斷/分離
     ^ sew (v)縫合/縫製/縫補 = suture
-    ^ sewer (n)排水溝/下水道
+    ^ sewer (n)排水溝/下水道 (v)鋪設汙水管道 --> sewage (n)污水
     ^ shackle (n)
     ^ shale (n)頁岩
     ^ shambles (n)凌亂景象/雜亂無章

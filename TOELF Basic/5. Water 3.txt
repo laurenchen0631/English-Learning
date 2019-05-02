@@ -1,0 +1,32 @@
+[Vocabulary]
+    - pollutant == contaminant
+    - dump == throw away == discard
+    * sewage == waste water
+    - invisible == hidden
+    - toxic == poisonous
+    - chemical
+    - harmless == innocuous == inoffensive == safe
+    - thrive == flourish == succeed
+    - consume == use up
+    - fertilizer
+    - tissue
+
+[Listened Article]
+Billions of liters of liquid waste pollutants are dumped into world's water ways everyday. The pollutants take up a range of forms from raw sewage to invisible toxic chemicals, many of them are organic, some breaking down into harmless elements, but others thriving so well that multiply rapidly and consume all of the oxygen in the water killing the fish. Other pollutants are inorganic and do not break down. The number of chemicals from new pestersize, fertilizers and other new products found in water is increasing. N..., flora and fastfat are also finding their way into water supply from groundwater pollution. These pollutants pass through food chain to humans where they tend to build up the nerve tissue. The public health se nefcant this chemical is not yet fully known.
+
+[Real Article]
+Billions of liters of liquid-waste pollutants are dumped into the world's waterways every day. The pollutants take a range of forms, from raw sewage to invisible toxic chemicals. Many of them are organic, and some breaking down into harmless elements, but others thriving so well that they multiply rapidly and consume all of the oxygen in the water, killing the fish. Other pollutants are inorganic and do not break down. The number of chemicals from new pesticides, fertilizers and other new products found in water is increasing. Nitrates, fluorides, and phosphates are also finding their way into water supplies from groundwater pollution. These pollutants pass through the food chain to humans, where they tend to build up in nerve tissue. The public health significance of these chemicals is not yet fully known.
+
+[Review]
+- waterways == A river, canal, or other route for travel by water.
+- everyday (adj)
+- every day (adv)
+- a range of == a set of similar things
+- pesticide /ˈpɛstɪsʌɪd/ == A substance used for destroying insects or other organisms harmful to cultivated plants
+- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ == A salt or ester of nitric acid, containing the anion NO₃
+- nitric
+- fluoride == a compound of fluorine
+- phosphate == a salt or ester of a phosphoric acid
+- significance  /sɪɡˈnɪfɪk(ə)ns/
+- signify       /ˈsɪɡnɪfʌɪ/
+- sign          /sʌɪn/
