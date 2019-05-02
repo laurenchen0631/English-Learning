@@ -1435,7 +1435,7 @@
             - disarm
             + disarray (v)弄亂 (n)混亂/無秩序 = disorder = confusion, 衣裝不整 = disorder of apparel
             - disbar (v)取消…的律師資格
-            - discharge (v)釋放, 解僱, 排放 = utter, 履行義務, 開槍 (n)獲官方允許離開, 排放, 分泌物, 履行, 開槍
+            * discharge (v)釋放, 解僱, 排放 = utter, 履行義務, 開槍 (n)獲官方允許離開, 排放, 分泌物, 履行, 開槍
             + disciple --> discipline
             + disclose (v)揭露/公佈 = divulge
             + discontinuity (n)不連續/不連貫
@@ -3583,7 +3583,7 @@
         + missive (n)公文/書信 = letter
         - missile (n)發射物/導彈
         - mission (n)任務, 使命/天職, 外交使團/代表團/佈道團
-        - permit (v)許可/准許 --> permissive (adj)縱容的, 許可的
+        * permit (v)許可/准許 --> permissive (adj)縱容的, 許可的
         + premise (n/v)假定/前提
         - promise (n/v)保證 (n)(成功的)跡象/徵兆
         - remit (v)寬恕/赦免, 緩和/減輕/減退, 鬆懈, 提交/移交(問題), 匯寄/匯付
