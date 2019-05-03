@@ -2237,7 +2237,6 @@
         - fence, fense (n)籬笆
 
     fract, frac, frag 碎裂 = break == rupt
-        + fracas (n)喧嚷/吵鬧 = brawl
         - fraction (n)碎片, 小部分
         + fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
         - fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
@@ -3074,7 +3073,7 @@
             + inundate
             + inure (v)使習慣 --> inured (adj)習慣的 = accustomed = habituated <-- in + ure 工作 = work
             - invade
-            - invective
+            + invective
             + inveigh
             ++ inveigle (v)引誘/誘使 = entice = lure, 誘騙/哄騙 = cajole = coax = wheedle <|> inveigh <--> in + veigle 盲目 = blind
             * invent --> inventive
@@ -3609,7 +3608,7 @@
         - malfeasance (n)違法行為/瀆職 <-- mal + feasance
         - malfunction (v)發生故障 (n)故障, 障礙
         * malice (n)惡意 = despite = spite = rancor --> malicious (adj)惡意的/惡毒的 = malevolent = malignant = mean = malign = vicious = spiteful = wanton
-        + malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)傷害性的/有害的 = pernicious = baleful = injurious, 惡意的 = evil = sinister = malicious = malevolent
+        + /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)傷害性的/有害的 = pernicious = baleful = injurious, 惡意的 = evil = sinister = malicious = malevolent
         + malignant (adj)有惡意的/邪惡的 = malicious = malign = mean = wanton, (醫)惡性的/致命的 <--> benign
         + malinger (v)裝病並以逃避責任 <-- mal + linger
         - malpractice (n)怠忽職守/瀆職/營私舞弊, 誤診
@@ -6443,6 +6442,11 @@
         + perturb (v)使不安/煩擾 = agitate = disconcert = disturb, 使精神錯亂 = derange <-- per + (dis)turb
         + turbid (adj)渾濁的/汙濁的 = muddy = opaque, 思想混亂的/紊亂的 = confused = confused = disturbed
         + turbulent (adj)動蕩的/混亂的 = chaotic = disturbed = tumultuous, 猛烈的/洶湧的 = violent --> turbulence (n)騷亂/動盪/混亂, 湍流/亂流
+    
+    tauto 相同 = same
+        + tautology (n)贅述, 重複/同義反覆
+        - tautomer (n)互變體 --> tautomeric (adj)
+        - tautonym (n)重名/屬種同名
 
 [U]
     un 不/相反/移除/剝奪 = not, removal, deprivation
@@ -6886,7 +6890,8 @@
     vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
         - convect (v)空氣對流
         + convex (adj)凸的/凸起的
-        + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently --> invective (n/adj)猛烈抨擊/痛罵 = denunciation = accusation = insults <|> inveigle
+        + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently
+        + invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory <|> inveigle
         - vehicle (n)交通工具, 方法/手段/媒介
 
     vict, vinc 征服/勝利 = overcome, conquer

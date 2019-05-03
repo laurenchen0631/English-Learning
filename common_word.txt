@@ -16,6 +16,7 @@
 
 [C]
     - care
+    - carry
     - coat
         > |an outer garment worn on the upper body and varying in length and style according to fashion and use| 
         > |a natural integument or covering, as the hair, fur, or wool, the bark of a tree, or the skin of a fruit|
@@ -39,6 +40,7 @@
     - occur
     - or
     - object
+    - order
 
 [P]
     - pick

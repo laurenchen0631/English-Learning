@@ -1,3 +1,5 @@
 {
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120
 }

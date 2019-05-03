@@ -20,8 +20,8 @@
     + /əˈmiːnəb(ə)l/ amenable (adj)願服從的/順從的 = cooperative = compliant = obedient = submissive = servile = docile = tractable = yielding = resigned <-- amen 領導 = lead
     ++ /əˈmiːnɪti/ amenity (n)禮儀 = courtesy = etiquette = civility, 感到舒適的事物, 便利的設施 <|> acumen <-- amen 愉快 = pleasing + ity
     + anathema (n)令人討厭的事物, 詛咒/被詛咒的人 <|> anthem
-    + anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的
-    + anodyne (n)鎮痛劑 (adj)止痛的 = analgesic = lenitive, 一團和氣的/溫和的
+    + /ˈanɪkdəʊt/ anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的
+    + /ˈanədʌɪn/ anodyne (n)鎮痛劑 (adj)止痛的 = analgesic = lenitive, 一團和氣的/溫和的
     ++ anoint (v)選定/指定, 塗抹/擦油 = baste = grease
     + apex (n)點頂/最高點 = acme
     + /ˈapəθɛm/ apothegm (n)格言/箴言 = adage = aphorism = dictum
@@ -36,7 +36,7 @@
     + /əˈsʌɪləm/ asylum (n)避難所/庇護所 = refuge = sanctuary = shelter, 精神病院
     + atavism (n)返祖現象/隔代遺傳 = throwback
     + attack (n/v)抨擊/責難, 迅速處理/全力應付, 攻擊/進攻/突然發作
-    + audacious (adj)大膽的/無畏的 = bold = daring, 魯莽的/放肆的 = bold = reckless, 大膽創新的 = adventurous --> audacity (n) <-- aud 大膽/敢 = daring + acious
+    + /ɔːˈdeɪʃəs/ audacious (adj)大膽的/無畏的 = bold = daring, 魯莽的/放肆的 = bold = reckless, 大膽創新的 = adventurous --> audacity (n) <-- aud 大膽/敢 = daring + acious
     +++ /ɔːˈstɪə/ austere (adj)嚴格的/嚴厲的 = severe = stern = stringent = strict = forbidding = uncompromising, 嚴肅的 = grave = sober = solemn = serious, 禁慾的 = ascetic = abstentious = monastic, 簡樸的 = sober = simple = limited = severe = spartan = stern, 樸素的 = unadorned, 堅硬的 = hard = adamant = rigid, 酸澀的
     + avarice (n)貪婪 = cupidity = greed = avidity
     + avuncular (adj)叔伯般的/慈祥的/關懷備至的 = benevolent = beneficent <-- uncle
@@ -381,26 +381,26 @@
     ^ boding (n)預兆/預示 = omen --> boding (adj)凶兆的
     ^ bedevil (v)迷惑/苦惱 = confuse
 
-[C]
-    + cadge (v)乞討/乞得 = beg, 佔便宜 = sponge <|> budge <|> badge
-    + cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle = inveigle
+[C] 
+    + /kadʒ/ cadge (v)乞討/乞得 = beg, 佔便宜 = sponge <|> budge <|> badge
+    + /kəˈdʒəʊl/ cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle = inveigle
     + callow (adj)(尤指年輕人)不成熟的/缺乏經驗的 = immature = inexperienced
-    + callus (n)(手腳上的)老繭 --> callous (adj)結硬塊的, 無情的/漠不關心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive <-- callus
+    + callus (n)(手腳上的)老繭 --> callous (adj)結硬塊的, 無情的/漠不關心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive
     +++ calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = besmirch = denigrate = defame = defile = disparage = depreciate = derogate = malign = slander = vilify  <|> clumsy
     + canard (n)虛假新聞/謊報/假消息
     ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily
-    ++ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
-    ++ cant (n)斜面/斜坡 = slant, 隱語/術語/行話 = argot (v)使傾斜 = bevel
+    ++ /ˈkanən/ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
+    ++ /kant/ cant (n)斜面/斜坡 = slant, 隱語/術語/行話 = argot (v)使傾斜 = bevel
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious <-- contention + rancorous
-    + caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = impulsive = unpredictable = skittish = whimsical = wayward
-    ++ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
+    + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = impulsive = unpredictable = skittish = whimsical = wayward
+    ++ /ˈkazh-wəl/ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
     ++ categorical (adj)分類的, 無條件的/完全的 = absolute = unqualified = unconditional = plumb <-- category
     + cater (v)迎合/照料 = minister, 提供飲食/承辦(宴席)
-    ++ catholic (adj)普遍的/廣泛的 = universal = general, 寬厚的/開明的 = liberal <--> petty = narrow-minded (n)[大寫]天主教
+    ++ /ˈkath-lik/ catholic (adj)普遍的/廣泛的 = universal = general, 寬厚的/開明的 = liberal <--> petty = narrow-minded (n)[大寫]天主教
     + caucus (n/)政黨高層會議/幹部會議 <|> cactus
-    + causal (adj)原因的/因果關係的 <|> casual <-- cause
+    + /ˈkȯ-zəl/ causal (adj)原因的/因果關係的 <|> casual <-- cause
     + cautious (adj)謹慎的/小心的 = chary = canny = prudent = wary
-    + chagrin (n/v)因失望或屈辱而懊惱 = vex by disappointment or humiliation
+    + /shə-ˈgrin/ chagrin (n/v)因失望或屈辱而懊惱 = vex by disappointment or humiliation
     + champion (v)支持/聲援/擁護 = support = advocate (adj)優秀的/第一流的 = excellent (n)冠軍, 捍衛者/鬥士
     + chaotic (adj)混亂的/無秩序的 = disordered = confused
     + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵
@@ -408,49 +408,49 @@
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
-    ++ chicane (v)詐騙/欺騙 = deception = defraud = bilk, 吹毛求疵/挑毛病 = quibble about = cavil over = carp --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
-    + churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage <-- carl (n)鄉下人/粗人
+    ++ /shi-ˈkān/ chicane (v)詐騙/欺騙 = deception = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
+    + /chər(-ə)l/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage
     + clamber (v)(艱難地)攀登/攀爬/移動 = scramble <-- clamb 爬 = climb + er
     + clan (n)集團/幫派/派系
     + clandestine (adj)(不被官方允許的活動)秘密的/暗中從事的 = surreptitious
-    + clang (v)叮噹作響/發出噹啷聲 <|> cling --> clangor (n)吵鬧/喧嚷 = clamorous noise, 連續的鏗鏘聲響
+    + /ˈklaŋ/ clang (v)叮噹作響/發出噹啷聲 <|> cling --> clangor (n)吵鬧/喧嚷 = clamorous noise, 連續的鏗鏘聲響
     + clarify (v)澄清/闡明/使更清晰易懂 --> clarity (n)清晰
     + clearheaded (adj)頭腦清楚的
-    + cliché (n)陳腔濫調 = platitude = commonplace --> clichéd (adj) = stale = trite = banal = hackneyed
-    ** click (v)發出短而尖的聲音, 成為朋友/受歡迎, 恍然大悟 (n)短而尖的聲音
-    + clique (n)小集團/小圈子/派系 = coterie <-- click
+    + /ˈkliːʃeɪ/ cliché (n)陳腔濫調 = platitude = commonplace --> clichéd (adj) = stale = trite = banal = hackneyed
+    ** /ˈklik/ click (v)發出短而尖的聲音, 成為朋友/受歡迎, 恍然大悟 (n)短而尖的聲音
+    + /ˈklik/ clique (n)小集團/小圈子/派系 = coterie <-- click
     + cloak (v)掩蓋/掩飾/籠罩 = conceal = hide = mask, 使披上斗篷 (n)斗篷/披風, 幌子/藉口
     + cloister (n)修道院/寺廟 = monastery, (宗教建築的)迴廊 (v)與塵世隔絕/隱居 = seclude = confine
     + cloy (v)反胃 = surfeit = satiate, 感到膩煩 = weary = glut = sate --> cloying (adj)令人膩煩的/膩味的 = hoary = stale = weary, 假惺惺的 = affected
     + clumsy (adj)笨拙的/不靈巧的 = awkward = cumbersome --> clumsiness (n)笨拙, 粗陋 <|> calumny
     + cluster (v)成群/群聚 (n)串/叢/束/群
     + coarse (adj)粗糙的/不柔軟的, 低劣的 = unpolished, 粗俗的 = rude = vulgar = obscene = crude = gauche = ribald = salacious <|> hoarse
-    + coax (v)哄勸/哄騙/勸誘 = cajole = wheedle = inveigle <-- cokes 笨蛋
+    + /kōks/ coax (v)哄勸/哄騙/勸誘 = cajole = wheedle = inveigle <-- cokes 笨蛋
     + coda (n)(樂曲的或演講、事件、文章的)結尾/尾聲
     * code (n)法典/法規, 規範/規矩, 密碼/代碼
     + codify (v)編纂(法典、條例等) = systematize <-- code
-    ++ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
+    ++ /kəʊˈəːs/ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
     + comic (adj)滑稽的/好笑的 = ludicrous (n)漫畫雜誌, 喜劇演員 --> comical (adj)滑稽的/好笑的
     + commonplace (adj)平凡的 = normal = ordinary = prosaic = plebeian = quotidian = trivial, 陳腐的 = trite = hackneyed = clichéd (n)陳腔濫調 = cliché
     + comrade (n)朋友/同志 --> camaraderie, comradeship (n)同志情誼/友情
-    + connoisseur (n)鑒賞家/行家 <-- cognoscible
-    + conundrum (n)難題/複雜的問題 = riddle, (以雙關為答案的)謎語
-    + coquet (v)賣弄風情/挑逗 = flirt --> coquette (n)賣弄風情的女子 <-- coq [法]cock 公雞
+    + /kä-nə-ˈsər/ connoisseur (n)鑒賞家/行家 <-- cognoscible
+    + /kəˈnʌndrəm/conundrum (n)難題/複雜的問題 = riddle, (以雙關為答案的)謎語
+    + /kɒˈkɛt/ coquet (v)賣弄風情/挑逗 = flirt --> coquette (n)賣弄風情的女子 <-- coq [法]cock 公雞
     + correlate (v)相互關係/相關 --> correlation (n)相互關係/聯繫
-    + cosset (v)寵愛/溺愛 = pamper = coddle <-- coss [古]kiss
+    + /ˈkɒsɪt/ cosset (v)寵愛/溺愛 = pamper = coddle <-- coss [古]kiss
     + coterie (n)小圈子/小團體 = clique <-- cote [德]佃農 = cotter
     *** court (n)球場, 庭院, 法院/法庭, 全體出庭人員/全體審判人員, 宮廷/皇室 (v)吸引 = allure = tempt = engage, 求取/設法取得 = court, 招致/招惹 = woo, 求愛 = woo
     ** courtly (adj)有禮貌的 = polite = refined = elegant = courteous, 諂媚的 = obsequious = flattering = fawning
     * courtship (n)求愛, 求偶, 追求/尋找
-    + courteous (adj)有禮貌的 = polite = courtly --> courtesy (n)禮貌/禮節 = amenity = etiquette <-- court
-    + covert (adj)隱秘的/秘密的 = hidden = concealed = secret = disguised <--> overt <-- cover 
-    + covet (v)覬覦/垂涎/貪求 = desire wrongfully --> covetous (adj) (尤指對屬於別人的東西)貪求的/垂涎的 
+    + /ˈkəːtɪəs/ courteous (adj)有禮貌的 = polite = courtly --> courtesy (n)禮貌/禮節 = amenity = etiquette <-- court
+    + /ˈkō-vərt/ covert (adj)隱秘的/秘密的 = hidden = concealed = secret = disguised <--> overt <-- cover 
+    + /kə-vət/ covet (v)覬覦/垂涎/貪求 = desire wrongfully --> covetous (adj) (尤指對屬於別人的東西)貪求的/垂涎的 
     ++ cow (v)嚇唬/恐嚇 = frighten = overawe (n)雌性動物, 母牛
     + coward (n)膽小鬼 --> cowardly (adj)懦弱的/膽小的 = craven = pusillanimous = timid
     + cowardice (n)膽小/懦弱
-    + cozen (v)欺騙 = chicane = deceive = dupe = trick = cheat
+    + /ˈkʌz(ə)n/ cozen (v)欺騙 = chicane = deceive = dupe = trick = cheat <|> /ˈkʌz(ə)n/ cousin
     + crass (adj)愚鈍的/不敏感的 = obtuse = stupid = blunt = opaque
     + craven (adj)懦弱的/膽小的 = cowardly = recreant = pusillanimous <|> crave
     + crestfallen (adj)氣餒的/垂頭喪氣的 = dejected = dispirited = discouraged <-- crest + fallen
@@ -459,7 +459,7 @@
     + crumble (v)弄碎, 崩潰/逐漸瓦解 = disintegrate gradually <|> crumb
     + culmination (n)結果/終點 <|> clumsy <|> calumny <-- culmin 頂點 = peak, top + ation
     ++ cunning (adj)狡猾的/狡詐的 = artful = crafty = canny = sly = subtle = wily, 靈巧的 = ingenious = shrewd (n)狡猾/奸巧, 靈巧/熟練 = dexterity = adeptness
-    + cupidity (n)貪心/貪婪 = avarice = greed <-- cup 渴望 + idity
+    + /kjuːˈpɪdɪti/ cupidity (n)貪心/貪婪 = avarice = greed <-- cup 渴望 + idity
     + curmudgeon (n)脾氣暴躁之人 = crab
     + customary (adj)習慣的 = usual = habitual, 合乎習俗的/傳統的 = traditional = conventional
 
@@ -469,16 +469,16 @@
     * cast (v)扮演, 投射(光影), 扔/拋, 鑄造, 施魔法, 蛻皮 (n)全體演員, 鑄膜/石膏
     * chatter (n/v)喋喋不休/嘮叨 = prate = prattle = rattle, 咯咯作響
     * cheerful (adj)興高采烈的, 使人感到愉快的 = genial, 樂意的/由衷的
-    * chic (adj)時髦的, 雅緻的
+    * /ˈshēk/ chic (adj)時髦的, 雅緻的
     * chide (v)責駡/訓斥 = scold = reproach = criticize <|> child
     * chief (adj)首要的/最重要的 = cardinal, 首席的 (n)領導人/首領/頭目
     * clement (adj)寬容的 = indulgent = permissive = lenient = merciful
     * cling (v)依附/附著/抓緊/抱緊, 依戀/緊挨著/捨不得放棄
     * cobweb (n)蜘蛛網/蜘蛛絲
     * coddle (v)寵愛/悉心照料 = cosset = pamper, (把雞蛋在稍低於沸點的水中)煮嫩/煮軟
-    * cogitate (v)仔細考慮/深思熟慮/沉思 = deliberate = ponder = meditate, 謀劃 = devise = think about --> cogitative (adj)深思熟慮的 = deliberated
-    * coil (n)捲, 盤繞
-    * column (n)欄, 縱列, 柱, 一隊/一列
+    * /ˈkä-jə-ˌtātˈkä-jə-ˌtāt/ cogitate (v)仔細考慮/深思熟慮/沉思 = deliberate = ponder = meditate, 謀劃 = devise = think about --> cogitative (adj)深思熟慮的 = deliberated
+    * /kɔɪl/ coil (n)捲, 盤繞
+    * /ˈkɒləm/ column (n)欄, 縱列, 柱, 一隊/一列
     * comely (adj)動人的/美麗的 = attractive = gainly <-- becomely
     * constancy (n)堅定/堅貞/忠誠, 恆久不變 <-- constant
     * contour (n)輪廓/外型 = configuration = outline, 等高線
@@ -503,6 +503,7 @@
     ^ cabinet (n)櫥櫃 = cupboard, 內閣
     ^ cache (n)儲藏地, 隱藏物/隱藏所 (v)將...藏於
     ^ cadet (n)軍校生/警校生
+    ^ cannon (n)大砲/火砲 (v)開砲, 相撞
     ^ canyon (n)峽谷
     ^ carcinoma (n)癌/腫瘤 --> carcinogen (n)致癌物
     ^ caterpillar (n)毛毛蟲
@@ -876,6 +877,7 @@
     + formidable (adj)可怕的 = menacing = threatening = surly, 令人生畏的 = intimidating, 強大的/強力的 = forceful = powerful <-- formid 恐懼 = fear + able
     ++ foster (v)培養/促進 = further = encourage, 撫養 = raise = rear
     ++ founder (v)（船）浸水而沉沒 = sink = fail, (計畫)失敗/崩潰 = collapse = fail utterly (n)創立者
+    + fracas (n)喧嚷/吵鬧 = brawl <-- fra == among + cas == break
     + frenetic (adj)狂亂的/發狂的 = frantic = frenzied
     + frequent (adj)時常發生的/頻繁的 (v)時常出入 --> frequency (n)頻率
     + fresco (n)壁畫 <|> fiasco
@@ -2012,7 +2014,7 @@
     + penal (adj)刑事的/處罰的, 罰款的 --> penalty (n)刑罰/處罰/罰款 --> penalize (v)使不利, 處罰 
     + penitent (adj)悔過的/後悔的 = repentant = regretful = rueful = remorseful = contrite  --> penitential (adj)後悔的/悔罪的 (n)悔罪者
     * penitence (n)懺悔/贖罪 = contrition = repentance = remorse = compunction = rue <-- penal
-    ++ penury (n)貧窮 = extreme poverty = destitution = poverty, 困乏/缺乏 = scarcity = dearth = inadequacy = insufficiency = paucity = poverty --> penurious (adj)吝嗇的 = miserly = mean = parsimonious = stingy, 貧窮的 = indigent = impecunious, 缺乏的 = scanty = meager
+    ++ /ˈpen-yə-rē/ penury (n)貧窮 = extreme poverty = destitution = poverty, 困乏/缺乏 = scarcity = dearth = inadequacy = insufficiency = paucity = poverty --> penurious (adj)吝嗇的 = miserly = mean = parsimonious = stingy, 貧窮的 = indigent = impecunious, 缺乏的 = scanty = meager
     + personification (n)典型/化身/完美榜樣
     + pessimism (n)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
     ++ petty (adj)不重要的/瑣碎的 = futile = paltry = trifling = nugatory = trivial = lilliputian, 心胸狹窄的 = insular = narrow-minded = myopic, 下級的 = subordinate = minor = inferior
@@ -2927,6 +2929,7 @@
     ^ spurn (v)輕蔑地拒絕/唾棄 = scorn, 輕視 = contempt = despise, 踩踏 = trample
 
 [T]
+    + talisman (n)避邪物/護身符/法寶
     + tacit (adj)心照不宣的/不明言的 = implied, 沈默的 = unvoiced = unspoken = silent --> taciturn (adj)沈默寡言的
     + tantalize (v)挑逗/吊人胃口
     + tantamount (adj)相等的 <-- tanto + amount
@@ -3009,7 +3012,6 @@
     ^ tactic (n)手段, 戰術 <-- tac 佈置 = arrange + tic
     ^ tadpole (n)蝌蚪 <-- toad + poll 頭 = head
     ^ taking (adj)楚楚動人的
-    ^ talisman (n)避邪物/護身符/法寶
     ^ tally (v)(使)一致/符合
     ^ talon (n)猛禽的鋭爪
     ^ tambour (n)鼓, 刺繡用的繃圈 (v)用繃圈刺繡 --> tambourine (n)鈴鼓/手鼓 <-- timbre
