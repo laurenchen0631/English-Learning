@@ -474,7 +474,7 @@
     ban, barr 擋住/阻擋/禁令
         * abandon (v/n)放棄, 放縱/使沈溺於 = indulge
         - ban (n)禁令 (v)明令禁止 <|> bane
-        + banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n)
+        + /bə-ˈnal/ banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n)
         - banister (n)欄杆
         + banter (n)玩笑/打趣/逗樂 = badinage = ribbing (v)取笑/逗弄 = bait = tease <|> barter <|> batter
         + banish (v)放逐/趕走/流放 = evict = exile = expel = oust
@@ -606,7 +606,7 @@
             + confiscate --> confiscation
             + conflate
             ++ confound (v)使困惑 = baffle = perplex = mix up = bewilder = confuse, 混合 = mingle = confuse <-- con + found 混合 = mix
-            * congeal
+            * congeal (v)凍結/凝固 = solidify = coagulate <-- con + geal 凍結 = freeze
             + congenial
             + congruent
             + congruous --> congruity
@@ -2516,9 +2516,6 @@
         + perigee (n)近地點
         - geology (n)地質學
 
-    geal 凍結 = freeze
-        * congeal (v)凍結/凝固 = solidify = coagulate
-
     gender, gener, gen, genu 產生/生/種類 = beget, born
         + congenial (adj)意氣相投的 = compatible, 友善的/令人愉快的 = amiable = agreeable = friendly <-- con + genius + al
         + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate
@@ -2653,7 +2650,7 @@
     hetero, here 不同/異 = different, other
         * heresy (n)異端邪說
         + heretic (n/adj)異教徒 = heathen --> heretical (adj)異端的 <|> hermetic
-        + heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
+        + /ˈhɛdərəˌdɑks/ heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
         + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous
 
     hydr, hydro 水 = water
@@ -3045,7 +3042,7 @@
             - insidious
             + insight (n)洞悉/深入了解 --> insightful (adj)富有洞察力的 = perceptive
             - insignia
-            + insinuate (v)暗指/暗示 = imply = suggest <-- in + sinuous + ate
+            + insinuate (v)暗指/暗示 = imply = suggest = allude <-- in + sinuous + ate
             - inspect --> inspection
             - inspire --> inspiration --> inspired
             * install
@@ -3420,8 +3417,7 @@
             + neologism
             - obloquy (n)破口大罵, 公開的嚴厲批評
             - prologue (n)序言/序章 = preamble = preface
-            - soliloquy (n)(戲劇中的)獨白
-            - soliloquy
+            + soliloquy
             + syllogism
             - trilogy
             - ventriloquist (n)腹語表演者 <-- ventri 腹部 = abdomen + loqu + ist
@@ -4496,8 +4492,6 @@
     pene, pen 近似 = almost
         + impenetrable
         - peninsula
-        * penetrable (adj)可穿透的 = permeable = pervious = porous, 能洞察的
-        * penetrate (v)穿過/刺入, 看透/識破, 彌漫於 --> penetrating (adj)有穿透力的, 尖銳的/刺耳的, 敏銳的
         - penultimate (adj)倒數第二的
         + penumbra
     
@@ -4523,8 +4517,8 @@
         * suspense (v)焦慮/擔心 --> suspension (n)暫停/中止, (作為處罰的)暫令停職/暫令停學/暫令停止活動
 
     par 平等 = equality
-        ++ disparage (v)貶低/輕視 = belittle = detract = diminish = contempt = scorn = depreciate = downplay = disdain = flout, 詆毀 = slur = calumniate = disparage = depreciate <|> disparate
-        + disparate (adj)截然不同的/迥然相異的 = dissimilar <|> disparage
+        ++ /dɪˈsparɪdʒ/ disparage (v)貶低/輕視 = belittle = detract = diminish = contempt = scorn = depreciate = downplay = disdain = flout, 詆毀 = slur = calumniate = disparage = depreciate <|> disparate
+        + /ˈdɪsp(ə)rət/ disparate (adj)截然不同的/迥然相異的 = dissimilar <|> disparage <|> /ˈde-sp(ə-)rət/ desperate 
         + disparity (n)不同/差異 = inequality = difference
         + parity (n)(薪水或職位的)平等/相等 = equality
 
@@ -5103,6 +5097,7 @@
             - recompense
             + reconcile
             + recount (v)重新計算, 詳述/敘述
+            ** recreate (v)消遣/娛樂 --> recreatation (n)
             + recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
             - recruit
             +++ redeem (v)償還/還清, 買回/贖回, 兌現/兌換現金, 履行 = fulfill, 補償 = offset, 贖救/解救 <-- re + deem 買 = buy
@@ -5124,10 +5119,10 @@
             - refresh (v)消除……疲勞/使精神振作, 使清涼
             + refulgent
             - refurbish (v)刷新/擦亮 = brighten = renovate = furbish <-- re + furbish 
-            + regale (v)款待, 使享受/使喜悅 = entertain = amuse <-- re + gale 喜悅 = pleasure
+            + /rəˈɡeɪl/ regale (v)款待, 使享受/使喜悅 = entertain = amuse <-- re + gale 喜悅 = pleasure
             *** regard (v)看待, 注視 = observe = look at, 尊敬 = esteem = respec, 考慮 = consider, 有關 = concern = relate to (n)注意 = attention = consideration = care, 注視 = look = gaze, 尊敬/尊重 = esteem, 動機 = motive, 觀點 = aspect = point
             + rehabilitate (v)復興/復原/復權/復職 <-- re + habilitate
-            - rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習 <-- re + hearse 耙子 = harrow
+            * rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習 <-- re + hearse 耙子 = harrow
             - reimburse (v)償還 <-- re + im + burse 錢包 = bag
             + reinforce (v)加固/使更結實 = buttress, 加深/進一步證實, 增援 <-- re + in + force
             - reinstate (v)復職 <-- re + in + state
@@ -5560,7 +5555,7 @@
         *** solicit (v)強求 = importune = woo, 請求/懇求/徵求 = beseech = entreat = woo = implore = crave = urge, 教唆/唆使 = abet
         - solicitude (n)關懷/牽掛
         + solicitous (adj)關懷的/掛念的 = attentive = eager, 憂慮的 = concerned = apprehensive, 非常小心的 =  meticulously careful, 渴望的 = eager
-        - soliloquy (n)自言自語/獨白
+        + soliloquy
         - solitary (adj)孤獨的 = isolated = insular = sporadic = desolate (n)隱士
         + solitude (n)孤獨/寂寞/隱居 = seclusion, 冷僻/荒涼之地
         - solo (n)獨唱/獨奏 (adj)單獨的
@@ -5654,6 +5649,7 @@
     stall 放 = put, place == the == pos
         * install (v)安裝/裝置, 使就職 = induct = inaugurate
         + forestall (v)預先阻止 = hinder/prevent/thwart in advance, 搶先行動/預先做 = anticipate
+        + stall (n)欄/廄/柵, 貨攤/攤位, 車位, 熄火/拋錨/失速 (v)關入畜舍, 使陷入泥潭/使動彈不得, 使拋錨/使失速
 
     stice 停止 = stop <-- stit
         - armistice (n)停戰/休戰 = truce
@@ -5799,7 +5795,7 @@
         - sacrilegious (adj)褻瀆神明的
         * sanctify (v)使神聖化/使聖潔化, 使合法化/批准/認可 = approve
         * sanctuary (n)庇護/保護 = aegis, 避難所/庇護所 = asylum, 禁獵區, 聖殿/聖堂
-        ++ sanction (n/v)認可/批准 = approve = ratify = permit = authorize, 制裁/懲罰 = penalize (n) 強硬措施
+        +++ sanction (n/v)認可/批准 = approve = ratify = permit = authorize, 制裁/懲罰 = penalize (n) 強硬措施
         - sanctimony (n)假裝的虔誠 --> sanctimonious (adj)假裝神聖的
 
     sect, seg 切 = cut == tomy
@@ -6059,7 +6055,7 @@
         - somnolent (adj)想睡的/催眠的 = somniferous
     
     somato, somat 身體 = body
-        + somatic (adj)身體的/軀體的/肉體的
+        + somatic (adj)身體的/軀體的/肉體的 = corporeal
         - somatopathic (adj)軀體病的
         - somatoplasm (n)體細胞
 

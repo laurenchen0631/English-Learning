@@ -54,6 +54,7 @@
         > |describe something as| One thing that would qualify my work as ‘innovative’ is my interest in abstraction.
 
 [S]
+    - still
     - stress
 [T]
     - throughout
