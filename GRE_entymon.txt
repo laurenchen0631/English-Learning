@@ -460,7 +460,7 @@
             - acrobat
 
     bi 二 = two, twice == ambi
-        + bifurcate (v)(道路、河流、樹枝)分叉 <--> coalesce
+        + /ˈbʌɪfəkeɪt/ bifurcate (v)(道路、河流、樹枝)分叉 <--> coalesce
         - bilingual (adj)兩種語言的 <-- bi + linguistic
         - biped
 
@@ -967,7 +967,7 @@
         + democracy --> democratic
         - bureaucracy (n)官僚政治
         - gerontocracy
-        - plutocracy
+        + plutocracy
         - technocrat
         - theocracy (n)神權統治 <-- theo 神 = god + cracy
 
@@ -2688,7 +2688,7 @@
         - hilarity (n)歡喜
 
     hort 激勵 = urge
-        + exhort (v)力勸/勉勵 = urge
+        + /ɪɡˈzɔːt/ exhort (v)力勸/勉勵 = urge
         - hortative (adj)勸告的, 獎勵的/激勵的 --> hortation (n)勸告, 獎勵
         + hortatory (adj)激勵的 = exhorting = encouraging
 
@@ -3482,7 +3482,7 @@
 
     liter 文字 = letter
         + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
-        + literatus -> literati (n)文人/學者
+        + literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
         * literate (adj)能讀寫的, 有文化修養的
         + obliterate (v)塗掉/擦掉 = efface = erase = annul
         - preliterate (adj)文字出現以前的
@@ -3763,7 +3763,7 @@
         + ameliorate (v)改善/改良 = improve = burnish
         - meliorate (v)改善/改良/變好
 
-    mend 修正 = correct
+    mend 修正/懇求 = correct, beg
         + amend (v)修正/修訂, 改善 = ameliorate
         * amends (n)賠罪/賠償 = compensation = reparation = recompense
         - emend (v)校訂/修改
@@ -3776,7 +3776,7 @@
     mnes, mnemo 記得 = remember
         - amnesia (n)健忘症, 失憶症
         - amnesty (n)大赦/特赦 = absolve
-        + mnemonic (adj)有助於記憶的/記憶的 --> mnemonics (n)記憶法/記憶規則
+        + /nɪˈmɒnɪk/ mnemonic (adj)有助於記憶的/記憶的 --> mnemonics (n)記憶法/記憶規則
 
     memor 記住 = mindful, remembering
         - commemorate (v)紀念/緬懷(偉人、大事件等)
@@ -4779,14 +4779,14 @@
         * approve (v)贊同 = advocate = endorse, 認可/批准 = authorize = endorse = ratify
         + approbation (n)稱讚 = accolade = praise, 認可 = approval
         + disprove (v)證明為假/駁倒 = belie --> disproof (n)反證/反駁
-        + reprobate (v)譴責/責備, 排斥/遺棄 (adj)邪惡的/無賴的/墮落的 = shameless = depraved
+        + reprobate (v)譴責/責備, 排斥/遺棄 (adj)邪惡的/無賴的/墮落的 = shameless = depraved (n)無賴/惡棍
         - reprove (v)責罵/申斥 = censure = tax --> reproof (n)斥責/責備 = rebuke
 
     propr, proper 擁有 = own
         + appropriate (adj)恰當的 = agreeable, 撥款 = allot, 挪用/盜用 = embezzle
         - misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
         - property (n)財產, 房地產, 所有權
-        + propriety (n)禮貌/禮節 = decorum, 適當/妥當 = appropriateness = fitness
+        + propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
         + disdaintary (adj)私有的
 
     proxim 大約/接近 = next, near
@@ -4889,7 +4889,7 @@
         + supplicate (v)懇求/祈願/請求 --> suppliant (adj)懇求的/哀求的 = beseeching (n)懇求者 --> supplicant (n)乞求者/懇求者
 
     pluto 財富 = wealth
-        + plutocracy (n)財閥統治 
+        + /pluːˈtɒkrəsi/ plutocracy (n)財閥統治 
         - plutonomy (n)政治經濟學
 
     phil, philo 愛 = loving == amat
@@ -5898,7 +5898,8 @@
         - assuming (adj)傲慢的/自大的
         + assumption (n)設想, 奪取/取得/承担
         - consume (v)消費, 消耗
-        + presume (v)擅自/冒然 = dare, 假定/假設/推測/推定 = expect = assume, 意味著 = imply --> presumptuous (adj)冒昧的/專橫的 = arrogant = overweening = petulant
+        + presume (v)擅自/冒然 = dare, 假定/假設/推測/推定 = expect = assume, 意味著 = imply
+        + presumptuous (adj)冒昧的/專橫的 = arrogant = overweening = petulant
         - presumption (n)推測/假定 
         - resume (v)重新開始/繼續 = renew
         + subsume (v)包容/包含 = include = incorporate
@@ -6782,7 +6783,7 @@
             + virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 惡毒的/充滿敵意的 = hateful = hostile, 劇烈的
 
     viv 活 = live
-        + convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (n)歡樂/愛交際的性格
+        + /kənˈvɪvɪəl/ convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (n)歡樂/愛交際的性格
         - revive (v)(使)甦醒/復原 --> revival (n)甦醒/復活, 復興/再流行
         - survive (v)倖存
         - vivacious (adj)活潑的/快活的 = sprightly = scintillating = animated
@@ -6899,7 +6900,7 @@
         - victor (n)勝利者
         - victory (n)勝利
         - convince (v)說服/使相信 = persuade
-        + evince (v)表明/表示
+        + /ɪˈvɪns/ evince (v)表明/表示
         - vincible (adj)可征服的, 易克服的
         - invincible (adj)無敵的/無法戰勝的
 
