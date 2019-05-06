@@ -545,7 +545,7 @@
         - emboss (v)使凸出/加浮雕於
         - bossy (adj)凸出的/有浮雕的, 愛指揮人的/專橫的
 
-[C]
+[C] 
     com, co, coal, col, con, cor 全部/始終
         1. 共同/一起/互相/跟/與 = with, together
             - accomplice
@@ -1348,6 +1348,7 @@
             + deride
             + despite
             - destrain
+            + desultory
             + deteriorate (v)惡化/變糟 = aggravate = exacerbate = make worse
             + detract --> detraction
             + detriment (n)損害/損壞原因 = loss = damage = injury --> detrimental (adj)有危害的 = damaging = harmful <-- de + tri 摩擦 = rud + ment
@@ -2094,7 +2095,7 @@
         - forefront (n)最顯要的位置/最重要的地位 = foreground
         + foreground (n)前佈景, 最顯要的位置/最重要的地位 = forefront (v)強調 = emphasize
         - foreknowledge (n)預知
-        * foremost (adj)最前的/最先的, 最重要的 (adv)在最前/首先
+        * foremost (adj)最前的/最先的, 最重要的 = cardinal (adv)在最前/首先
         - foreordain (v)注定/預先決定 = predestine = ordain
         * forerunner (n)預兆/前兆 = herald, 先驅 = herald
         + foresee (v)預見/預知 --> foreseeable (adj)可預見的
@@ -4812,6 +4813,7 @@
         - podiatrist (n)足科醫師
         - podium (n)講壇, 指揮台
         - tripod
+        - stampede (n/v)逃竄/蜂擁
 
     ped, pedo 兒童 = child
         - pedagogy (n)教育學/教學法 --> pedagogue (n)教師/教育者
@@ -5465,7 +5467,7 @@
             - submission
             + subordinate
             - suborn
-            + subpoena (n)傳票 (v)傳喚/傳訊 <-- sub + poena 懲罰 = penalty
+            + /səˈpiːnə/ subpoena (n)傳票 (v)傳喚/傳訊 <-- sub + poena 懲罰 = penalty
             - subrogate
             - subsequent
             + subservient
@@ -5848,7 +5850,7 @@
         - insert (v)插入
 
     sid, sess, sed, sedi 坐 = sit
-        + assiduous (adj)勤勉的/專注的 = diligent = sedulous <|> acidulous
+        + /əˈsɪdjʊəs/ assiduous (adj)勤勉的/專注的 = diligent = sedulous <|> acidulous
         + dissident (n)唱反調者 = dissenter (adj)不同意的 = disagreeing = dissenting 
         - insidious (adj)陰險的/狡詐的 = cunning
         + obsess (v)迷住 = preoccupy = haunt, 使窘困/使煩擾
@@ -5910,7 +5912,7 @@
         - reassure (v)使安心/安慰 = appease
 
     string, strain, strict 拉緊 = draw tight, draw togerher
-        + astringent (adj)止血的 = styptic, 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
+        + /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)止血的 = styptic, 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
         + constrain (v)限制/束縛 = confine = restrain = repress, 強迫 = compel = oblige --> constraint (n)束縛/拘束, 強制/強迫
         - constrict (v)壓縮/收縮, 限制/約束 = limit
         - destrain (v)扣押
@@ -6086,7 +6088,7 @@
         - savvy (adj)精明的/有見識的 (v)懂/知曉 (n)理解能力/悟性
 
     seismo, seism 地震 = earthquake
-        + seismic (adj)地震的
+        + /ˈsʌɪzmɪk/ seismic (adj)地震的
         - seismograph (n)地震儀
         - seismology (n)地震學
 
@@ -6168,8 +6170,7 @@
             - attract (v)吸引/招引 --> attractive (adj)有魅力的/誘人的/動人的 = comely, 有吸引力的/令人感興趣的
             + intractable
             * contract (n)合約 (v)簽合約 = stipulate, 收縮, 縮短 = condense, 感染 --> contraction (n)收縮, 痙攣/子宮收縮
-            + detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert
-            + detraction (n)貶低/輕視
+            + detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert --> detraction (n)貶低/輕視
             + distract (v)使分心/干擾 = amuse = entertain detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
             + distrait (adj)心不在焉的 = inattentive = preoccupied
             - distraught (adj)心煩意亂的 = distracted
@@ -6390,7 +6391,7 @@
 
     ter, trep, tim 怕 = frighten
         + deter (v)阻撓/阻止 = check = arrest = discourage = restrain = preclude = thwart = impede = hinder = hamper = inhibit
-        + deterrent (n)威懾力量/遏制因素 == something that deters
+        ++ deterrent (N)威懾力量/遏制因素 == something that deters
         + intimidate (v)使膽怯 = daunt, 威嚇 <|> intimate
         + intrepid (adj)無畏的/剛毅的 = fearless = dauntless
         + timid (adj)羞怯的/膽小的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant --> timidity (n)膽怯
@@ -6737,7 +6738,7 @@
         + vociferous (adj)喊叫的/喧嚷的
 
     val, vail 力量/價值 = strong, worth
-        + ambivalent (adj)有矛盾看法的 = contradictory --> ambivalence (n)矛盾心理
+        + /amˈbɪv(ə)l(ə)nt/ ambivalent (adj)有矛盾看法的 = contradictory --> ambivalence (n)矛盾心理
         - convalesce (v)康復/休養 --> convalescent (adj)療養中的/康復中的 (n)處於康復期的病人
         - equivalent (adj)相同的/等值的
         + prevalent (adj)流行的/盛行的/普遍的 = rife
@@ -6815,7 +6816,7 @@
         + vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
         - vitiable (adj)能使腐敗的/能使無效的
         + vituperate (v)痛斥/辱罵 = revile --> vituperation (n)謾罵/責罵 = invective
-        + vituperative (adj)謾罵的/責罵的 = invective = denunciatory = censoriously abusive
+        + /vɪˈtjuːp(ə)rətɪv/ vituperative (adj)謾罵的/責罵的 = invective = denunciatory = censoriously abusive
         
     vitr 玻璃 = glass
         - vitreous (adj)玻璃的
@@ -6860,7 +6861,7 @@
         + voluntary (adj)自願的/無償的, 有意的/故意的, (組織)公益性的
 
     volat, vola 飛 = fly
-        + volatile (adj)易變的/反覆無常的 = fickle, 易揮發的/易發作的/爆炸性的, 飛逝的/短暫的
+        + /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = fickle, 易揮發的/易發作的/爆炸性的, 飛逝的/短暫的
         - volant (adj)能飛的/飛行的, 迅速的
 
     vor, vour 吃 = devour, eat up
