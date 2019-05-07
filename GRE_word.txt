@@ -170,7 +170,7 @@
     + /ˈbʌɪəs/ bias (n)偏見 = prejudice = jaundice, 偏心/偏袒/傾向/偏好 = bent = penchant = affinity (v)使…懷有偏見 = prejudice = jaundice 
     ++ bilk (v)躲債/逃避 <--> acquit = amortize, 騙取/詐騙 = defraud = swindle
     ** bland (adj)溫和的 = agreeable = gentle, 沒精打采的/無生氣的/冷淡的 = indifferent, 無味的 = watery = insipid, 乏味的 = dull = dreary = insipid = jejune
-    + blandish (v)哄騙 = cajole = coax = wheedle --> blandishment (n)奉承/甜言蜜語
+    + blandish (v)哄騙 = cajole = coax = wheedle --> blandishment (n)奉承/甜言蜜語 = flattery
     + /ˈblɑːzeɪ/ blase, blasé (adj)司空見慣的/不稀罕的
     ++ blatant (adj)露骨的/駭人的/公然的 = brazenly obvious = barefaced = flagrant, 吵鬧的 = clamorous = boisterous
     + blemish (v)損害/破壞 = spoil = mar = impair (n)斑點/瑕疵, 缺陷/缺點 = defect = flaw = smirch
@@ -429,11 +429,11 @@
     + coda (n)(樂曲的或演講、事件、文章的)結尾/尾聲
     * code (n)法典/法規, 規範/規矩, 密碼/代碼
     + codify (v)編纂(法典、條例等) = systematize <-- code
-    ++ /kəʊˈəːs/ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
+    ++ /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
     + comic (adj)滑稽的/好笑的 = ludicrous (n)漫畫雜誌, 喜劇演員 --> comical (adj)滑稽的/好笑的
-    + commonplace (adj)平凡的 = normal = ordinary = prosaic = plebeian = quotidian = trivial, 陳腐的 = trite = hackneyed = clichéd (n)陳腔濫調 = cliché
+    + commonplace (adj)平凡的 = normal = ordinary = prosaic = plebeian = quotidian = trivial, 陳腐的 = trite = hackneyed = clichéd (n)陳腔濫調 = cliché = platitude
     + comrade (n)朋友/同志 --> camaraderie, comradeship (n)同志情誼/友情
     + /ˌkɒnəˈsəː/ connoisseur (n)鑒賞家/行家 <-- cognoscible
     + /kəˈnʌndrəm/ conundrum (n)難題/複雜的問題 = riddle, (以雙關為答案的)謎語
@@ -457,7 +457,7 @@
     + crony (n)親信/密友 --> cronyism (n)任人唯親/任用親信 = nepotism
     + croon (v)柔聲低唱/吟唱/低語
     + crumble (v)弄碎, 崩潰/逐漸瓦解 = disintegrate gradually <|> crumb
-    + culmination (n)結果/終點 <|> clumsy <|> calumny <-- culmin 頂點 = peak, top + ation
+    + culmination (n)頂點/高潮 <|> clumsy <|> calumny <-- culmin 頂點 = peak, top + ation
     ++ cunning (adj)狡猾的/狡詐的 = artful = crafty = canny = sly = subtle = wily, 靈巧的 = ingenious = shrewd (n)狡猾/奸巧, 靈巧/熟練 = dexterity = adeptness
     + /kjuːˈpɪdɪti/ cupidity (n)貪心/貪婪 = avarice = greed <-- cup 渴望 + idity
     + curmudgeon (n)脾氣暴躁之人 = crab
@@ -641,7 +641,7 @@
     + downplay (v)貶低/輕視 = belittle = trifle
     + /drô/ draw (n/v)平手, 吸引/引起, 作（比較）, 畫
     + /drōl/ droll (adj)離奇好笑的 = whimsically humorous = waggish --> drollness (n) <-- [德]小胖子 = fat little man
-    + dross (n)浮渣, 渣滓/廢物 <-- dregs
+    + dross (n)浮渣 = waste, 渣滓/廢物 <-- dregs
     ++ /ˈd(j)ubiəs/ dubious (adj)可疑的 = suspicious = questionable = doubtful, 名聲不好的, 無把握的/不安定的 = uncertain = precarious <-- doubt
     + dupe (v)欺騙 = deceive = delude = cozen = trick = hoodwink = hoax (n)容易受騙的人 = gull
     + dwindle (v)變小/衰退 = diminish = degenerate = shrink = shrivel = wither = flag <|> swindle
@@ -761,7 +761,7 @@
     ++ /ˈɛseɪ/ essay (v)企圖/嘗試 = try = attempt, 試驗 (n)散文/隨筆, 嘗試 <|> assay /əˈseɪ/ <-- assay
     + establish (v)建立/創立 = found = institute, 證實 = prove = substantiate, 使被接受 --> established (adj)被接受的/被認可的
     ++ esteem (v)尊敬 = regard, 認為 = regard = thikn = consider
-    + estimable (daj)值得尊重的 = admirable, 可估價的/可估計的
+    ++ estimable (daj)值得尊重的 = admirable, 可估價的/可估計的
     + estrange (v)使疏遠 = alienate, 使遠離 --> estranged (adj)疏遠的, 分開的 <-- [義]陌生 = strange
     + /ˈiːθɒs/ ethos (n)(個人、團體或民族的)道德觀/精神特質/價值觀 = disposition
     + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準
@@ -845,7 +845,7 @@
     ++ fashion (v)形成, 適應/使一致 = accommodate = adjust = adapt (n)時裝, 方式 = manner = way = mode, 種類 = kind = sort
     + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = conscientious = particular = scrupulous = thorough, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
     + fathom (v)弄清/理解 = apprehend = comprehend = understand = plumb, 測水深 = plumb = sound (n)噚(測水深的單位, 約1.8公尺) --> fathomable (adj)可推測的/可了解的
-    ++ /ˈfatjʊəs/ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
+    ++ /ˈfætʃuəs/ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
     + /ˈfɔːnə/ fauna (n)動物群
     + /fɔːn/ fawn (n)未滿周歲的小鹿 (v)向某人表示親熱/搖尾乞憐/諂媚 = adulate
     ++ feckless (adj)無效的/無用的 = ineffective = incompetent = futile, 不負責任的/莫不關心的 = irresponsible = indifferent = flighty <-- feck 效用 = effect + less
@@ -1070,61 +1070,61 @@
 
 [G]
     + gainsay (v)否認/反駁 = deny = dispute = naysay, 反對 = oppose = naysay <-- gain 再次 = again + say
-    + galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
-    + gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <-- gamb 腳 = leg + ol
-    + garner (v)收藏/積累 = amass = collect, 取得 = get = acquire = earn <-- garn 顆粒 = grain + er
+    + /ˈɡalvənʌɪz/ galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
+    + /ˈɡamb(ə)l/ gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <|> /ˈɡamb(ə)l/ gamble <-- gamb 腳 = leg + ol
+    + /ˈɡɑːnə/ garner (v)收藏/積累 = amass = collect, 取得 = gather = get = acquire = earn <-- garn 顆粒 = grain + er
     + garrulous (adj)[貶]嘮叨的/喋喋不休的/饒舌的 = wordy = loquacious --> garrulity (n)嘮叨/饒舌 <-- garr 講話 = chatter + ulous
-    + gauche (adj)不善交際的/不圓滑的/笨拙的 = coarse = uncouth = clumsy = awkward = tactless --> gaucherie (n)笨拙
-    + genial (adj)愉快的/和藹的/友好的 = cordial = cheerful = friendly = amiable = kindly = affable --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
-    + gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
-    + gestate (v)懷孕, 構思/孕育 = develop slowly --> gestation (n)懷孕 = pregnancy, 構思/孕育
+    + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = coarse = uncouth = clumsy = awkward = tactless --> gaucherie (n)笨拙
+    + /ˈdʒiːnɪəl/ genial (adj)愉快的/和藹的/友好的 = cordial = cheerful = friendly = amiable = kindly = affable --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
+    + /ˈdʒɛrɪˌmandə/ gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
+    + /dʒɛˈsteɪt/ gestate (v)懷孕, 構思/孕育 = develop slowly --> gestation (n)懷孕 = pregnancy, 構思/孕育
     + glib (adj)油嘴滑舌的, 能言善道的 <-- slippery
     + glide (v)滑行, 滑翔, 悄悄地移動
     + gloat (n/v)洋洋自得/幸災樂禍 = malevolent smugness <|> bloat <|> float
-    + glower (n/v)怒目而視 <--> frown <--> leer
-    ++ glut (v)使飽足 = sate, 使厭膩 = cloy = weary, 過度供應 (n)供過於求 = surfeit <--> dearth
-    + goad (n)趕牛棒 (n/v)刺激/激勵 = prod = urge on = stimulate = encourage = spur <|> gold
+    + /ˈɡlaʊə/ glower (n/v)怒目而視 <--> frown <--> leer
+    ++ /ˈglət/ glut (v)過度供應, 使飽足 = sate, 使厭膩 = cloy = weary (n)供過於求 = surfeit <--> dearth
+    + /ɡəʊd/ goad (n)趕牛棒 (n/v)刺激/激勵 = prod = urge on = stimulate = encourage = spur <|> /ɡəʊld/ gold 
     + goodness (n)高尚品德 = virtue = probity = uprightness, 仁慈 = kindness = generosity
     + goosebumps (n)雞皮疙瘩 = horripilation
     + gossamer (n)蛛絲 = cobwebs, 薄紗 (adj)輕而薄的 = sheer <-- goose 鵝 + summer
-    + gouge (n)半圓鑿 (v)挖出 = tear out = scoop out, 敲詐/教竹槓 = overcharge = extort = swindle
+    + /ɡaʊdʒ/ gouge (n)半圓鑿 (v)挖出 = tear out = scoop out, 敲詐/教竹槓 = overcharge = extort = swindle
     + graft (n/v)嫁接, 貪污, 工作 <|> grate
     +++ grant (v)給予 = bestow = give, 同意 = agree = accede, 承認/退讓 = admit = concede --> granted (conj)因為/的確
-    + grate (v)磨碎, 摩擦 = scrap, 使人煩躁 = irritate = annoy = fret --> grating (adj)令人煩躁的/惱人的 = harsh, 刺耳的 = discordant = harsh = jarring
+    + /ɡreɪt/ grate (v)磨碎, 摩擦 = scrap, 使人煩躁 = irritate = annoy = fret --> grating (adj)令人煩躁的/惱人的 = harsh, 刺耳的 = discordant = harsh = jarring <|> /ɡreɪt/ great
     + grip (n/v)緊握/緊咬 = grasp = seize, 控制/吸引 = take hold on --> gripping (adj)吸引住人的 = fascinating = enthralling
     + groundless (adj)無根據的/無合理理由的 = baseless = idle = precarious
-    + grouse (v)發牢騷/訴苦/抱怨 = complain = crab = grumble = fret (n)松雞 <|> arouse
-    + grovel (v)卑躬屈膝 = humble = lie or crawl with the face downward
+    + /ɡraʊs/ grouse (v)發牢騷/訴苦/抱怨 = complain = crab = grumble = fret (n)松雞 <|> arouse
+    + /ˈɡrɒv(ə)l/ grovel (v)卑躬屈膝 = humble = lie or crawl with the face downward
     + growth (n)發展/增長/擴大
     + guarded (adj)小心翼翼的 = cautious = careful = prudent = canny = deliberate = measured = methodical
     * guile (n)欺詐 = duplicity
     + guileless (adj)誠實無欺的/老實的 = artless = naive = frank = sincere = candid = explicit
-    + guise (n)外觀/裝束 = appearance = semblance, 偽裝/假裝 = semblance
+    + /ɡʌɪz/ guise (n)外觀/裝束 = appearance = semblance, 偽裝/假裝 = semblance <|> /ɡʌɪ/ guy
     * gull (v)欺騙 = deceive = trick (n)海鷗, 容易受騙的人 = dupe
     + /ˈɡʌləb(ə)l/ gullible (adj)易受騙的 = credulous
     + gustatory (adj)味覺的/品嚐的 --> gustation (n)味覺/品嚐 <-- gust 品嚐 = taste + atory
 
     * gainly (adj)姿態優美的 = graceful = comely
-    * gaudy (adj)俗麗的/過分炫耀的 = tawdry = garish = meretricious = flashy = ostentatiously ornamented
-    * gibe (n/v)嘲弄/譏笑 = jibe = mock = flout = scoff = taunt = deride = jeer = gird = jest = scorn
+    * /ˈɡɔːdi gaudy (adj)俗麗的/過分炫耀的 = tawdry = garish = meretricious = flashy = ostentatiously ornamented
+    * /dʒʌɪb/ gibe == jibe
     * gingerly (adj/adv)小心/謹慎 = cautious = careful = wary
     *** gloom (n)黑暗 = murk, 憂鬱 --> gloomy (adj)陰暗的/陰鬱的 = murky = obscure = stygian, 憂鬱的/悲觀的 = lugubrious = mournful = plaintive = dreary = morose = desolate = melancholy = dismal = saturnine = solemn
-    * gnaw (v)啃咬, 啃食/侵蝕 = erode = corrode = fret, 使惱火 = vex = plague
+    * /nɔː/ gnaw (v)啃咬, 啃食/侵蝕 = erode = corrode = fret, 使惱火 = vex = plague
     ** goldbrick (v)逃避責任/偷懶 = loaf, 欺騙/敲詐 = swindle = cheat = gouge = bilk = overcharge
     * goodwill (n)友好
     * grain (n)穀粒, 顆粒, 一點兒 = fig, 紋理 (v)使成粒狀
     ** grease (n)動物脂, 賄賂 (v)用油脂塗/上油 = lubricate = baste = anoint, 賄賂 = bribe
     * grid (n)網格/方格, 電力網/輸電網
-    * gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
-    * grime (n)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)骯髒的/髒兮兮的 = dirty <|> stymie
+    * /ɡəːd/ gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
+    * /ɡrʌɪm/ grime (n)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)骯髒的/髒兮兮的 = dirty <|> stymie
     * grind (v)磨刀/拋光 = whet, 摩擦/磨碎/碾碎 = grate (n)枯燥乏味的工作 
     * gross (adj)總的, 下流的/粗俗的 = vulgar = obscene = indecent = ribald = bawdy = salacious, 駭人的 = flagrant, 胖的/龐大的 = bulky = fat (n)整個/全部, 總額
-    * grouch (v)發牢騷/抱怨 = grumble = grouse = complain = fret (n)好發牢騷的人 <|> crouch
-    * grotesque (adj)怪誕的 = absurd = bizarre = ludicrous = quaint, 奇形怪狀的 <|> burlesque
+    * /ɡraʊtʃ/ grouch (v)發牢騷/抱怨 = grumble = grouse = complain = fret (n)好發牢騷的人 <|> crouch
+    * /ɡrə(ʊ)ˈtɛsk/ grotesque (adj)怪誕的 = absurd = bizarre = ludicrous = quaint, 奇形怪狀的 <|> burlesque
     * gruesome (adj)可怕的/陰森的 = grisly = lurid = revolting = morbid
     * grumble (v)發牢騷/抱怨 = grouse = crab, 肚子咕咕叫 (n)抱怨
     * grumpy (adj)脾氣壞的/易生氣的 = irritable = cantankerous = irascible = grouchy = peevish
-    * grunt (v)(因憤怒或疼痛)咕噥
+    * /ɡrʌnt/ grunt (v)(因憤怒或疼痛)咕噥
     * gulf (n)海灣, 巨大分歧/鴻溝, 裂口 = chasm = abyss, 旋渦 = eddy (v)吞沒/淹沒
     * guru (n)印度宗教領袖或導師 = mentor, 權威/大師/專家
     * guy (n)(鐵塔等的)牽索/支索
@@ -1537,6 +1537,7 @@
     + lissome (adj)柔軟的/敏捷的/姿態優雅的 = flexible = supple = agile = lithe = limber <-- lithesome
     + listless (adj)無精打采的 = spiritless = languid = dull = wan --> listlessness (n)無精打采 = lassitude
     + litany (n)反覆唸頌 = recitation = chant <|> botany <-- litan 祈禱 = pray + y
+    + litigant (n)訴訟當事人 (adj)訴訟的 --> litigation (n)訴訟 = lawsuit <-- litig 訴訟 = lawsuit
     + loath (adj)不願的 = unwilling = reluctant = disinclined = averse
     + loathe (v)憎恨/厭惡 = abhor --> loathsome (adj)令人憎惡的/討厭的 <|> loath
     + log (n/v)日誌/紀錄 = record (n)圓木
@@ -1547,6 +1548,7 @@
     ++ lurid (adj)耀眼的/火紅的 = bright, 令人反感的 = revolting = gruesome, 引起轟動的 = sensational = shocking, 駭人的 <|> lucid
 
     ** lam (v)重打/鞭抽 = lambaste = beat = thrash, 逃跑 = escape = flee
+    * lament (n/v)悲傷/哀悼 = grief = sorrow = grieve
     ** lap (v)舔食, 使部分重疊/摺疊, 包紮/圍繞 (n)重疊部分, 大腿部/膝部
     * lark (n/v)玩樂/玩耍 = frolic = play = romp = gambol, 開玩笑 = prank <|> park
     * lasting (adj)持久的/永久的 <--> ephemeral
@@ -1588,7 +1590,7 @@
     ^ lag (v)落後/滯留
     ^ lair (n)野獸的巢穴, 躲藏處/祕密藏身處
     ^ laity (n)普通信徒 <--> clergy, 外行人 <-- lay 世俗 + ity
-    ^ lament (n/v)悲傷/哀悼 = grief = sorrow = grieve
+
     ^ lampoon (n)諷刺文章 (v)諷刺
     ^ lance (n)長矛, 魚叉
     ^ lancet (n)手術刀 <-- lance
@@ -2541,12 +2543,12 @@
     + suffrage (n)投票 = vote, 投票權 = franchise
     + sullen (adj)鬱鬱寡歡的/憂鬱的 = gloomy = morose = dismal = dreary, 陰沉的/沉悶的 = dismal = dreary = gloomy = surly
     + sully (v)弄髒/玷污/敗壞 = stain = taint = tarnish = defile = smear <|> sullen
-    + sundry (adj)各式各樣的/各種的 = miscellaneous = heterogeneous = various <-- sunder
+    + /ˈsʌndri/ sundry (adj)各式各樣的/各種的 = miscellaneous = heterogeneous = various <-- sunder
     + supine (adj)仰向的/仰躺的, 懶散的
     ++ surly (adj)暴躁的/易怒的 = crabbed = cantankerous = irritable, 可怕的/陰沈的 = menacing = threatening = formidable = dismal = gloomy = sullen <-- sur 先生 = sir + ly
     + swift (adj)快的 = fleet = rapid, 迅速的/敏捷的 = prompt = ready, 立刻的 = immediate
     +++ sybarite (n)愛奢侈享樂的人 = hedonist -> sybaritic (adj)放縱的/奢侈享樂的 = voluptuous
-    + sylvan (adj)森林的/多樹木的 = woody <-- sylv 森林 = forest + an
+    + /ˈsɪlv(ə)n/ sylvan (adj)森林的/多樹木的 = woody <-- sylv 森林 = forest + an
     + syntax (n)語法/句法
 
     * sapid (adj)有味道的 = favorful, 美味的 = palatable = savory, 使人愉快的 = agreeable

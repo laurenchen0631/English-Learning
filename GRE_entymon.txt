@@ -910,8 +910,8 @@
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
         - excrete (v)排泄/分泌
         - secern (v)區別/辨別, 分泌
-        - secret (adj)祕密的
-        + secrete (v)隱藏/藏匿, 分泌 --> secretion (n)分泌/分泌液
+        - /ˈsiːkrɪt/ secret (adj)祕密的 <|> /sɪˈkriːt/ secrete
+        ++ secrete (v)隱藏/藏匿, 分泌 --> secretion (n)分泌/分泌液 <|> secret
         - secretive (adj)隱隱藏藏的, 能分泌的/促進分泌的
         - incretion (n)內分泌 <-- in + (se)certion
 
@@ -969,7 +969,7 @@
         - gerontocracy
         + plutocracy
         - technocrat
-        - theocracy (n)神權統治 <-- theo 神 = god + cracy
+        + theocracy (n)神權統治 <-- theo 神 = god + cracy
 
     caco 壞 = bad
         + cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
@@ -1764,7 +1764,7 @@
             * elaborate --> elaboration
             + elate
             + elevate
-            + elicit (v)引出/誘出 = educe = evoke = provoke <-- e + licit 引誘 = draw, lure
+            + elicit (v)引出/激起 = evoke = draw out <-- e + licit 引誘 = draw, lure
             - eligible
             - elect
             + eliminate --> elimination
@@ -1946,6 +1946,7 @@
         + enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
         + entertain
         - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
+        * entrap (v)使投羅網, 欺騙
         + entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) <-- en + trench
         + entitle (v)使有權(做某事), 取名
         - entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
@@ -3237,7 +3238,7 @@
 
     joc 玩笑 = joke
         - jocund (adj)快樂的/高興的 = cheerful = genial = merry = jovial = jolly = convivial
-        + jocose (adj)開玩笑的/詼諧的
+        + jocose (adj)開玩笑的/詼諧的 = jocular
         * jocular (adj)有趣的/詼諧的, 愛開玩笑的 = facetious
 
     judic, jud 判斷 = judge
@@ -3476,10 +3477,6 @@
         - equilateral (adj)等邊的
         - lateral (adj)側面的, 緯度
         - latifoliate (adj)闊葉的
-
-    litig 訴訟 = lawsuit
-        - litigant (n)訴訟當事人 (adj)訴訟的
-        - litigation (n)訴訟 = lawsuit
 
     liter 文字 = letter
         + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
@@ -4599,7 +4596,9 @@
         - impale (v)刺入/刺中
 
     peal, pel, pell, puls 推 = push, drive
-        ++ appeal (v)吸引 = allure, 求助, 上訴, 懇求/請願 (n)懇求/請願 = entreaty = petition = plea --> appellant (n)上訴人 --> appellation (n)名稱/稱呼
+        ++ appeal (v)吸引 = allure, 求助, 上訴, 懇求/請願 (n)懇求/請願 = entreaty = petition = plea
+        + appellant (n)上訴人
+        + appellation (n)名稱/稱呼
         * compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact,  激起/引發 = incite 
         + compelling (adj)(理由、論證等)令人信服的/很有說服力的, 引人入勝的/扣人心弦的
         * compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
@@ -4637,7 +4636,7 @@
     plac 平靜/安撫/滿足 = quiet, calm, appease
         + complacent (adj)自滿的/得意的 = self-satisfied = smug --> complacency (n)自滿
         + implacable (adj)難以平息的 = inexorable, 堅定的/無法改變的 = inflexible = intractable
-        + placate (v)平息/安撫 = soothe = appease = pacify = conciliate
+        + /pləˈkeɪt/ placate (v)平息/安撫 = soothe = appease = pacify = conciliate
         + placid (adj)寧靜的/平和的 = calm
         - placebo (n)安慰劑
 
@@ -4672,7 +4671,7 @@
 
     petri, petro 石頭 = rock, stone
         - petrify (v)石化, 嚇呆 --> petrifaction (n)石化, 嚇呆
-        - petroleum (n)石油
+        - /pɪˈtrəʊlɪəm/ petroleum (n)石油
         - petrology (n)岩石學
         - petroglyph (n)岩石畫/岩石雕刻
 
@@ -5836,7 +5835,7 @@
         - sensitize (v)使敏感/使敏化, 使過敏 --> sensitization (n)敏化
         + sensual (adj)官能的/肉體上的, 性感的, 喜愛感官享受的/好色的/淫蕩的 = lascivious = lustful = 
         + sensuous (adj)感覺上的
-        - sentient (adj)有知覺的, 意識到的/認識到的 = aware = concious
+        + sentient (adj)有知覺的, 意識到的/認識到的 = aware = concious
         + sentiment (n)多愁善感, 思想情感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
         - sentinel (n)哨兵/衛兵 = sentry = lookout (v)警戒/守衛
         - sentry (n)步哨/哨兵, 站崗/看守
@@ -6020,7 +6019,7 @@
         - summon (v)召集/傳喚, 鼓起(勇氣)
 
     sicc 乾 = dry
-        + desiccate (v)使乾燥/脫水 = dehydrate
+        + /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate
         - siccative (adj)乾燥的 (n)乾燥劑
 
     sip 丟/味道 = throw, sapid == ject
@@ -6080,7 +6079,7 @@
 
     salubr, salut 健康 = health
         + salubrious (adj)有益健康的 = healthful = salutary
-        + salutary (adj)有益的/有益健康的 = salubrious = wholesome
+        + /ˈsaljʊt(ə)ri/ salutary (adj)有益的/有益健康的 = salubrious = wholesome
 
     sap, sav 聰明 = wise
         - sapient (adj)有智慧的
@@ -6163,7 +6162,7 @@
         + sustain (v)保持/維持, 承受/承擔/支撐 = suffer = undergo, 支持 = support = buoy = bolster = endorse --> sustained (adj)持久的/經久不衰的
         - sustenance (n)食糧/糧食/營養, 生計 <-- sustain
 
-    tract, ten, tent
+    tract, ten, tent, trait
         1. 拉 = draw, drag, pull
             + abstract (n)摘要 (adj)抽象的
             - abstention
@@ -6728,9 +6727,9 @@
         + advocate (v)支持/擁護 (n)支持者
         + convoke (v)召開(會議) = convene <--> adjourn
         + equivocate (v)含糊其詞 --> equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
-        + evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = elicit = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
+        + evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
         - invoke (v)喚起/使記起, 祈求(法律或神靈), 行使（法權等）
-        ++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = elicit = peeve = pique = irritate = irk = gall = rile = nettle = vex
+        ++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
         + provocation (n)激怒/挑釁 = affront = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
         * revoke (v)撤銷/廢除 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢除的
         - vocalist (n)流行歌手/聲樂家
@@ -6813,7 +6812,7 @@
         - vice (n)邪惡
         ++ vicious (adj)邪惡的/墮落的 = depraved = profligate = putrid, 應受譴責的 = reprehensible = blameworthy, 惡意的 = spiteful = malicious = malevolent = vindictive = malign = mean = wanton, 殘暴的 = savage = ferocious, 極度不舒服的 = unpleasantly severe
         + vicissitude (n)變化無常/變換, 盛衰/興敗 --> vicissitudinuos (adj)有變化的/變遷的
-        + vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
+        + /ˈvɪʃɪeɪt/ vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
         - vitiable (adj)能使腐敗的/能使無效的
         + vituperate (v)痛斥/辱罵 = revile --> vituperation (n)謾罵/責罵 = invective
         + /vɪˈtjuːp(ə)rətɪv/ vituperative (adj)謾罵的/責罵的 = invective = denunciatory = censoriously abusive
