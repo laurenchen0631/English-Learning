@@ -45,6 +45,14 @@
 [P]
     - pick
     - pitch
+    - past
+		> ADJ |Gone by in time and no longer existing.| the danger is now past
+		> N |The time before the moment of speaking or writing.| the war-damaged church is preserved as a reminder of the past
+		> PREP |To or on the further side of.| he rode on past the crossroads
+		> PREP |Beyond in time; later than| by this time it was past 3.30
+		> PREP |No longer capable of.| he is past giving the best advice’
+		> ADV |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
+		> ADV |Used to indicate the lapse of time.| a week went past and nothing changed
 
 [Q]
     - qualify
