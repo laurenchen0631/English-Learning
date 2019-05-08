@@ -254,7 +254,7 @@
         - amplitude (n)廣大/廣闊, 震幅
 
     alg, algo 痛 = pain
-        + analgesia (n)無痛覺 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
+        + /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
         + nostalgia (n)懷舊/念舊, 思鄉病 <-- nost 家 = home + algia
         - neuralgia (n)神經痛
 
@@ -1582,7 +1582,7 @@
         - benediction (n)祝福 = benison = invocation, 祈禱
         - condition (n)狀況/狀態, 條件/前提 (v)訓練/使習慣於
         + conditional (adj)有條件的 <--> absolute
-        + contradict (v)反駁/否定/與...相矛盾 = belie = deny --> contradictory (adj)互相矛盾的/對立的
+        + contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
         + dictate (v)口述, 命令/下令, 影響/要求 (n)命令/要求
         - dictator (n)命令者, 獨裁者 = autocrat --> dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
         + dictum (n)格言 = adage = aphorism
@@ -1596,7 +1596,7 @@
 
     doc 教 = teach
         - docile (adj)順從的 = submissive = obedient = amenable = deferential = obsequious, 聽話的/易控制的
-        + doctrine (n)(政治或宗教的)信條/教義/學說 --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
+        + /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
         - indoctrinate (v)教導/灌輸思想 = inculcate
         + document (n)文件/公文 (v)用文件證明, 紀錄
         + documentary (adj)紀實的/記錄的, 文件的/文書的 (n)紀錄片
@@ -2368,7 +2368,7 @@
         - professor (n)教授
 
     fisc 錢 = basket, moneybag
-        * confiscate (v)沒收/充公 --> confiscation (n)沒收
+        * confiscate (v)沒收/充公 = confiscate --> confiscation (n)沒收
         - fisc (n)國庫 --> fiscal (adj)財政的/國庫的
 
     fiss 分裂 = split
@@ -4682,7 +4682,7 @@
 
     ple, plete, plent, pleni, pleth 滿 = fill == compl
         - complete (adj)完全的
-        + complement (v)補充/補足/使完善/使增色 (n)補充物 --> complementary (adj)互補的/補充的 <-- complete
+        + complement (V)補充/補足/使完善/使增色 (n)補充物 --> complementary (adj)互補的/補充的 <-- complete
         + deplete (v)大量減少/耗盡 = exhaust
         + implement (n)工具/器具 (v)實現/實施 = fulfill = accomplish
         + plentiful (adj)豐富的/大量的 = exuberant
@@ -4922,7 +4922,7 @@
         + compunction (n)內疚/自責/懊悔 = uneasiness = contrition = remorse = repentance = qualm
         - expunge (v)刪除
         - punctual (adj)準時的/守時的 = prompt
-        + punctilious (adj)謹小慎微的/精密細心的/一絲不苟的
+        + /pʌŋ(k)ˈtɪlɪəs/ punctilious (adj)謹小慎微的/精密細心的/一絲不苟的
         - puncture (v)刺穿/刺破 (n)刺孔/穿孔
         + pungent (adj)有刺激性的/辣的 = stimulating = piquant = poignant, 辛辣的/尖刻的 = caustic = sharp, 敏銳的 = penetrating
 
@@ -5693,7 +5693,7 @@
         - specialize (v)專門研究 <-- special
         - specific (adj)特定的/明確的/具體的 (n)特性, 特效藥 --> specifics (n)細小問題/細節/詳情
         - specimen (n)範例, 樣品, 標本
-        + specious (adj)似是而非的, 華而不實的 = meretricious = pretentious = meretricious = gaudy
+        + /ˈspiːʃəs/ specious (adj)似是而非的, 華而不實的 = meretricious = pretentious = meretricious = gaudy <|> /səˈspɪʃəs/ suspicious
         - spectacle (n)奇景/壯觀
         + spectacular (adj)壯觀的, 引人入勝的/引人注目的 ＝ sensational
         - sepectator (n)觀眾/觀看者
