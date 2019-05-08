@@ -1,0 +1,25 @@
+[Vocabulary]
+- complex == complicated == intricate
+- system 
+- allow == let == permit
+- intricate == complex == complicated
+- pose == raise == present == put forward
+- work out == formulate == devise
+- curiosity == interest == inquisitiveness
+- role == function == part
+- universe == cosmos
+
+[Listened Article]
+Of all the world's species, human beings have the most complex visual system. This system linking the eyes and various parts of the brain allows people to organize and comprehend many intricate elements in their environment. A cat seeing another cat on a television screen is either confused or disinterested. But once a human being sees astronaut floating in space on the same television, he or she can comprehend the meaning of that image. The visual system also contribute to great measure to the human ability to pose questions and work out way to answer them. Curiosity about the role of mankind in the universe, for example, led the development of telescopes. Questions about natural life resulted in microscopes to examine living cells.
+
+[Real Article]
+Of all the world's species, human beings have the most complex visual system. This system, linking the eye and various parts of the brain, allows people to organize and comprehend the many intricate elements of their environment. A cat seeing another cat on a television screen is either confused or disinterested, but when a human being sees an astronaut floating in space on the same television, he or she can comprehend the meaning of that image. The visual system also contributes in great measure to the human ability to pose questions and then work out ways to answer them. Curiosity about the role of mankind in the universe, for example, led to the development of telescopes. Questions about the nature of life resulted in microscopes to examine living cells.
+
+[Review]
+- role 	/rəʊl/
+- row	/rəʊ/
+- rule	/ruːl/
+- astronaut
+- in space 
+- measure to N
+- pose a question
