@@ -774,7 +774,7 @@
         + procure (v)取得/獲得 = obtain = acquire --> procurement (n)獲得/取得/採購
         - recur (v)再發生/復發, 重提
         * recourse (v)求助/依靠
-        + succor (n/v)救濟/援助 = relief = help
+        + /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
 
     cur 關心 = care, cure
         - curator (n)館長
@@ -2519,6 +2519,7 @@
         - geology (n)地質學
 
     gender, gener, gen, genu 產生/生/種類 = beget, born
+        - carcinogen (n)致癌物質
         + congenial (adj)意氣相投的 = compatible, 友善的/令人愉快的 = amiable = agreeable = friendly <-- con + genius + al
         + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate
         + eugenics (n)優生學
@@ -2645,7 +2646,7 @@
 
     here, heir, herit 繼承
         * heir (n)繼承人
-        * hereditary (adj)遺傳的, 世襲的
+        * hereditary (adj)遺傳的, 世襲的 --> heredity (n)
         - inherit (v)繼承
         + inherent (adj)與生俱來的
 
@@ -3124,7 +3125,7 @@
             - interlock (v)連鎖/連串 --> interlocking (adj)連鎖的
             - intermingle (v)混合/攙雜 <-- inter + mingle
             - intermit --> intermittent --> intermission
-            + internecine (adj)內鬨的, 兩敗俱傷的 <-- inter + nec 殺 = kill + ine
+            + /ˌɪntəˈniːsʌɪn/ internecine (adj)內鬨的, 兩敗俱傷的 <-- inter + nec 殺 = kill + ine
             + interplay (n/v)互相影響 = interact = reciprocal relationship <-- inter + play
 
     in 素/酶
@@ -3400,7 +3401,7 @@
         1. 比例 = ratio
             - analogy (n)相似/類比
             - analogue (n)類似物/類似的情況
-            + analogous (adh)類似的/相當的 = comparable
+            + /əˈnaləɡəs/ analogous (adh)類似的/相當的 = comparable
 
         2. 話/說話 = word, saying, speech, speak
             - apologize (v)道歉, 辯解 = excuse
@@ -3453,6 +3454,7 @@
         + labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive
         + laborious (adj)耗時費力的/艱巨的/艱難的 = ardous
         - labored (adj)吃力的 = strained, 不自然的 = unnatural
+        - laboratory (n)實驗室 = lab
         - labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
     
     lap, lapse 落下/滑倒 = fall, slip, slide
@@ -3555,7 +3557,6 @@
         + mishandle (v)處理不當 = maltreat, 丟失/丟包 = lose = displace
         - misinform (v)向...提供錯誤消息
         + misnomer
-        + misogynist (n)厭惡女人的人
         - misperceive (v)誤解 = misunderstand
         + misrepresent (v)誤傳, 歪曲 = distort
         - mishap
@@ -3888,10 +3889,6 @@
         - militia (n)民兵/義勇軍
         - militant (adj)好鬥的 = aggressive = assertive, 激進的
 
-    mina 威脅 = menace
-        + minatory, minatorial (adj)威脅的/威嚇的 = threatening = menacing
-        - minacious (adj)威嚇的 = minatory --> minacity (n)威脅性
-
 [N]
     neg, ne 反對/否認/不 = deny, refuse, no
         - abnegate (v)否認, 放棄 = deny = repudiate
@@ -3934,7 +3931,7 @@
         + nondescript (adj)難以歸類的/難以形容的, 平淡無奇的/沒趣的 = dull = insipid
         * nonentity (n)沒有個性的人/無足輕重的人 = cipher, 毫無特色/缺乏見解
         - nonflammable (adj)不易燃的 <--> inflammable = flammable
-        + nonplus (v)使困窘 (n)迷惑, 困窘/僵局 --> nonplussed (adj)不知所措的/陷於窘境的 = bewilder
+        + nonplus (v)使困窘 = bewilder = confound (n)迷惑, 困窘/僵局 --> nonplussed (adj)不知所措的/陷於窘境的
         - nonsensical (adj)無意義的, 荒謬的 <-- nonsense
         + nontrivial (adj)重要的/有影響的 = significant
         - nonviable (adj)無法自力生活或發展的
@@ -4317,7 +4314,7 @@
         - pretext
         + prevail (v)戰勝 = succeed = become dominant = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail <|> travail
         + prevalent
-        - prevaricate (v)支吾其詞 = quibble = equivocate, 說謊 = mislead = lie 
+        + prevaricate (v)支吾其詞 = quibble = equivocate, 說謊 = mislead = lie <-- pre + varicate 弓腳 == straddle
         + prevent
         - preview (n/v)預展/預演
         - previous 
@@ -5197,7 +5194,7 @@
             - retail
             + retain --> retainer
             - retard (v)使減速/延遲, 妨礙/阻止 = delay = hinder = hamper = encumber = impede <-- re + tard 遲緩 = slow
-            - reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
+            + reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
             - retinue
             - retouch (v)修描/潤色
             + retrench (v)節省/緊縮/縮短 <-- re + trench 切掉 = cut
@@ -5379,7 +5376,7 @@
         + erode (v)侵蝕/磨損/削弱 = gnaw = corrode --> erosive (adj)腐蝕性的/侵蝕性的 = corrosive = mordant
 
     rud 原始 = unformed, rough
-        + erudite (adj)博學的 = learned = scholarly
+        + /ˈɛrʊdʌɪt/ erudite (adj)博學的 = learned = scholarly
         + rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的, 未充分發展的 = inchoate
         - rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 未加工的, 未開化的/原始的, 大略的, 強健的
 
@@ -6405,7 +6402,7 @@
         - subterranean (adj)地下的, 隱蔽的/祕密的
         - terrace (n)梯田, 陽台
         - terrain (n)地域/地帶, 地形/地勢
-        + terrestrial (adj)地球的 = worldly, 陸地的, 平常的/普通的 = mundane = prosaic
+        + terrestrial (adj)地球的 = worldly, 陸地的, 平常的/普通的 = mundane = prosaic == commonplace
         - territorial (adj)領土的/土地的 --> territoriality (n)領土權
 
     terge 擦 = wipe
@@ -6518,6 +6515,7 @@
         - unrequited (adj)無報答的
         - unreserved (adj)無限制的, 未被預訂的
         + unresolved (adj)無決斷力的/不果斷的
+        * unruly (adj)任性的/不守規矩的 = untoward = fractious
         - unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
         - unscented (adj)無氣味的
         - unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
