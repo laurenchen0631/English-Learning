@@ -1045,7 +1045,7 @@
         - catharsis (n)情感宣洩/精神淨化
 
     caus, caust 燒灼/火 = burn == ard = bust = flagr
-        + caustic (adj)腐蝕性的 = corrosive = mordant, 刻薄的/尖刻的/挖苦的 = pungent = acerbic = acidulous = astringent = acrimonious = mordant = sarcastic = trenchant
+        + caustic (adj)腐蝕性的 = corrosive, 刻薄的/尖刻的/挖苦的 = pungent = acerbic = acidulous = astringent = acrimonious = mordant = sarcastic = trenchant
         - cauterize (v)(為給傷口止血或防止感染而)燒灼
         - holocaust (n)大毀滅/浩劫, 大屠殺 = massacre <-- holo 全部 = whole, entire + caust
 
@@ -3674,7 +3674,8 @@
         + minimize (v)使減到最少或最小 <--> maximize , 輕視 = belittle
         - minion (n)奴才/低下之人
         - minuet (n)小舞步
-        ** minute (adj)微小的 = fine = paltry, 不重要的 = trifling = paltry, 細節的/詳盡的 = detailed = particular (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
+        ** /mʌɪˈnjuːt/ minute (adj)微小的 = fine = paltry, 不重要的 = trifling = paltry, 細節的/詳盡的 = detailed = particular
+        ** /ˈmɪnɪt/ minute (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
         + minuscule (adj)微小的 = small = lilliputian = diminutive
         - minuscular (adj)微不足道的
         + minutia (n)細節/小事 = petty details
@@ -5371,7 +5372,7 @@
 
     rod, ros 咬/侵蝕 = gnaw
         + corrode (v)(使)腐蝕/侵蝕 = erode = gnaw
-        + corrosive (adj)腐蝕性的/侵蝕性的 = erosive = mordant, 有害的/有危害性的 = harmful = destructive = deleterious, 尖刻的 = sarcastic = caustic = mordant
+        + corrosive (adj)腐蝕性的/侵蝕性的 = erosive, 有害的/有危害性的 = harmful = destructive = deleterious, 尖刻的 = sarcastic = caustic = mordant
         - corrosion (n)腐蝕/侵蝕
         - rodent (n)嚙齒動物
         + erode (v)侵蝕/磨損/削弱 = gnaw = corrode --> erosive (adj)腐蝕性的/侵蝕性的 = corrosive = mordant
