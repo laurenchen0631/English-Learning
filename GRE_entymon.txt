@@ -969,7 +969,7 @@
         - gerontocracy
         + plutocracy
         - technocrat
-        + theocracy (n)神權統治 <-- theo 神 = god + cracy
+        + /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 
     caco 壞 = bad
         + cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
@@ -1811,7 +1811,7 @@
         - ecstasy
         - efface
         + effervescence
-        + effete (adj)貧瘠的 = sterile, 衰弱的/無能力的 = weak <-- ef + fete 繁殖 = breeding
+        + effete (adj)做作的 = affected = overrefined 筋疲力盡的/衰微的, 軟弱的/女人氣的 = effeminate <-- ef + fete 繁殖 = breeding
         + efficient --> efficacy
         - effluvium
         + effigy
@@ -1960,7 +1960,7 @@
         + euphemism (n)婉轉說法
         + euphony --> euphonious 
         + euphoria
-        + euthanasia (n)安樂死 <-- eu + thanas 死亡 = death + ia
+        + /ˌjuːθəˈneɪzɪə/ euthanasia (n)安樂死 <-- eu + thanas 死亡 = death + ia
 
     extra, extro, exter 外面/超過
         + extraneous (adj)外來的 = extrinsic, 無關的 = irrelevant <--> apposite
@@ -2341,7 +2341,7 @@
     front 前面/臉面 = forehead
         - affront (v)侮辱/冒犯 = insult = abuse = slight = indignity (n) = provocation (n)
         - confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
-        + effrontery (n)厚顏無恥/放肆 = shameless = impudence = presumptuousness
+        + effrontery (n)厚顏無恥/放肆 = impudence = presumptuousness
 
     fug 逃離 = flee
         - centrifugal
@@ -5165,7 +5165,7 @@
             + replete
             + replicate
             - repose
-            + reprise (n)重複 = repetition, 樂曲的重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
+            + /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
             - reprobate
             + reproduce
             + repute --> reputation
@@ -5431,7 +5431,7 @@
         - rubicund (adj)紅潤的 = reddish = ruddy
         - ruby (n)紅寶石
         - ruddy (adj)紅潤的
-        + rubric (n)用紅字印刷的題目/文章章節的標題 = title = heading, 註釋, 習俗/成規
+        + /ˈruːbrɪk/ rubric (n)用紅字印刷的題目/文章章節的標題 = title = heading, 註釋, 習俗/成規
 
     rur, rust 鄉村 = country
         * rural (adj)鄉村的/農村的 = bucolic = rustic = pastoral
@@ -5569,7 +5569,7 @@
     solv, solu 溶解/釋放/鬆開 = dissolve, loosen, free, release
         + absolve (v)赦免 = acquit
         * absolute (adj)完全的/絕對的 = complete = implicit, 無限制的 = unlimited = categorical
-        + dissolve (v)(使)溶解, 使終結, 弄明白 --> dissolution (n)溶解/分解, 解除, 解散, 潰散 = disintegration = debauchery
+        ++ dissolve (v)(使)溶解, 使終結, 弄明白 --> dissolution (n)溶解/分解, 解除, 解散, 潰散 = disintegration = debauchery
         - dissolute (adj)放蕩的/放縱的 = profligate
         - insoluble (adj)不溶解的, 不能解決的
         - insolvency (n)無力償還, 破產 = bankruptcy
@@ -6199,7 +6199,7 @@
 
     tend, tent, tense 伸展 = stretch
         * attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
-        + contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
+        ++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
         ++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial
         + distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
         + extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
@@ -6723,7 +6723,7 @@
         - venture (v)冒險去/冒昧地說, (n)(有風險的)投機活動/商業冒險
 
     voc, voic, vok 叫喊/聲音 = call
-        - avocation (n)副業 <-- vocation
+        + avocation (n)副業 <-- vocation
         + advocate (v)支持/擁護 (n)支持者
         + convoke (v)召開(會議) = convene <--> adjourn
         + equivocate (v)含糊其詞 --> equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
