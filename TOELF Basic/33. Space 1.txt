@@ -1,0 +1,25 @@
+[Vocabulary]
+- decade
+- inspiration == spur
+- astronaut == spaceman
+- expand == spread == grow
+- orbit
+- absence == lack
+- gravity 
+- tentative == provisional == temporary
+- planet 
+
+[Listened Article]
+From America's first main mission out space in 1961 to a successful splash on Apolo 17 in 1972, the decade proved the human resources, technology and inspiration could be combined to achieve an awesome goal, landing humans on the moon. Over the course 6 moon landings, a dozen astronauts brought back rock samples and photographic records that increase man's understanding of solar system. That knowledge expanded in 1973 and 1974 when skyland mission orbited the earth 405 kilometers out into the space, enabling astronauts to study solar activities and features of the earth. Astronauts were also able to test human body's reaction to an absence of gravity over extended period. The ?? skyland mission may some day be seen a small tentative step in space travel, but it undoubtedly provided information vital to future generation of explores that scientist will make landing on other planets.
+
+[Real Article]
+From America's first manned mission in outer space in 1961 to the successful splashdown of Apollo 17 in 1972, the decade proved that human resources, technology, and inspiration could be combined to achieve an awesome goal: landing humans on the moon. Over the course of six moon landings, a dozen astronauts brought back rock samples and photographic records that increased man's understanding of the solar system. That knowledge expanded in 1973 and 1974 when Skylab missions orbited the earth 435 kilometers out into space, enabling astronauts to study solar activities and features of the earth. Astronauts were also able to test the human body's reaction to an absence of gravity over an extended period. The Apollo abd Skylab missions may someday be seen as small, tentative steps in space travel, but they undoubtedly provided information vital to a future generation of explorers: the scientists who will make landings on other planets.	
+
+[Review]
+- manned	/mand/ == (of an aircraft or spacecraft) having a human crew
+- main		/meɪn/
+- in outer space
+- splashdown == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+- Apollo
+- Skylab
+- someday == some day
