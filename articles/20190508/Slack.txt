@@ -115,7 +115,7 @@ Even good communication can have deleterious effects on our ability to get work 
 	> deleterious == Causing harm or damage.
 	> effect on
 After being interrupted, it takes about 25 minutes to get back to the task you were working on, according to a Microsoft study. It can take even longer to get to a “flow state,” alternatively called “deep work.” These terms refer to the concentrated frame of mind you’re in when immersed in a task and time just seems to fly. It’s also when you do your best work.
-	>  get back to the task
+	> get back to the task
 Cal Newport, author of Deep Work: Rules for Focused Success in a Distracted World, has recommended attempting this type of work in 90-minute blocks.
 If you’re getting on average 45 Slack messages in an eight-hour workday, according to the Time Is Ltd. data, it’s impossible to have that much extended time for concentration. Every time you get a ping on Teams or Hangouts or Slack, it can feel as though someone were coming up to your desk and interrupting you. Add in the emails, calls, and meetings you have on any given day and your productivity is toast.
 “Where there are so many channels and people involved, it gets cluttered,” Foroux told Recode. “If our brains are too cluttered and we’re processing too much information, our productivity and focus decreases.”
@@ -172,6 +172,9 @@ But another problem is that all of these companies actually want you to use thei
 Information workers switch windows on average 373 times per day or around every 40 seconds while completing their tasks, according to a Microsoft study.
 The idea is that if you’re able to do more of your tasks under one roof, you’ll waste less time clicking in and out of different programs. But if the platforms themselves are riddled with distractions, these efforts are moot.
 	> be riddled with == be full of 
+	> moot
+		>> |Subject to debate, dispute, or uncertainty.| it is a moot point whether such a controversial scheme would have succeeded
+		>> |Having little or no practical relevance| the whole matter is becoming increasingly moot
 To be more useful, workplace software will have to get much better at getting us the info we need — surfacing conversations on the same topic that may have happened months ago or helping you find the appropriate channels for your specific needs, for example — without us having to find it.
 	> surface == Rise or come up to the surface of the water or the ground.
 “We’ve made such great strides in search, when you know you’re looking for certain things,” Michael Chui, a partner at McKinsey’s research arm and author of its 2012 report, told Recode. “The more difficult thing to do is to proactively have machines tell us, ‘Here’s the information you need now.’”
@@ -200,7 +203,7 @@ Some suggest that respect could be instituted as part of company guidelines, cre
 “That is really the challenge I think for management,” Foroux said. “If we just give everybody these tools and have no rules at all, then I’m not surprised that it gets flooded with all types of different content.”
 The policy would have to be bolstered by regular trainings and updates, according to Foroux. At the very least there needs to be an introduction process before setting workers free on workplace software.
 “I think the critical problem of Slack itself is on-boarding at pretty big companies,” Rezab said. [Usually they have no idea on what’s going on and how to do this. This results in them using it as an instant messaging platform.”
-	>  onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
+	> onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
 Implementing training could require a whole new position, one where a person creates a rule book of how to act and then moderates behavior on workplace software. The person could be charged with deleting unused channels, setting up optimized settings, or reminding others of when work hours are for different teams.
 Ideally, it would lessen the overall number of messages sent and would instill a more structured workflow to those that are sent.
 “Yes, we can set rules, but like all rules, not everybody is going to follow them,” Foroux said. “It’s difficult to police. It’s new technology, and everybody is learning how to deal with it.”

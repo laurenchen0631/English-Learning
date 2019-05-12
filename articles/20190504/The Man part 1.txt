@@ -22,8 +22,8 @@ Part square-jawed cattle rancher, part folksy CEO, Niemann is the last person yo
 
 He was right to be worried. The traditional American supermarket is dying. It’s not just Amazon’s purchase of Whole Foods, an acquisition that trade publication Supermarket News says marked “a new era” for the grocery business — or the fact that Amazon hopes to launch a second new grocery chain in 2019, according to a recent report from The Wall Street Journal, with a potential plan to scale quickly by buying up floundering supermarkets. Even in plush times, grocery is a classic “red ocean” industry, highly undifferentiated and intensely competitive. (The term summons the image of a sea stained with the gore of countless skirmishes.) Now, the industry’s stodgy old playbook — “buy one, get one” sales, coupons in the weekly circular — is hurtling toward obsolescence. And with new ways to sell food ascendant, legacy grocers like Rich Niemann are failing to bring back the customers they once took for granted. You no longer need grocery stores to buy groceries.
     > marked
-        > |Clearly noticeable.| a marked increase in UK sales
-        > |Having a visible mark or marking.| a houseplant with beautifully marked, dark green leaves
+        >> |Clearly noticeable.| a marked increase in UK sales
+        >> |Having a visible mark or marking.| a houseplant with beautifully marked, dark green leaves
     > buy up == to buy all of something or as much of it as you can get
     > flounder == to struggle or stagger clumsily in mud or water.
     > plush == richly luxurious and expensive.

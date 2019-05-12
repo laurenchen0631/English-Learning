@@ -908,7 +908,7 @@
         + discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
         +++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
-        - excrete (v)排泄/分泌
+        * excrete (v)排泄/分泌
         - secern (v)區別/辨別, 分泌
         - /ˈsiːkrɪt/ secret (adj)祕密的 <|> /sɪˈkriːt/ secrete
         ++ secrete (v)隱藏/藏匿, 分泌 --> secretion (n)分泌/分泌液 <|> secret
@@ -1666,7 +1666,7 @@
         - abduct (v)綁架/誘拐 <--> abduce
         - abduce (v)營救
         + adduce (v)引證/舉證
-        - conduct  (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
+        +++ conduct  (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
         + conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
         - conduit (n)渠道/引水道/水管
         - deduce (v)演繹/推斷 = deduct = conclude = infer
@@ -4413,7 +4413,7 @@
             + peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
             + perennial (adj)終年的, 永久的 = permanent = persistent = enduring = recurring <-- per + enn 年 = year + ial
             - perfervid
-            - perish (v)消滅/死去/消亡 --> perishing (adj)嚴寒的
+            + perish (v)消滅/死去/消亡 --> perishing (adj)嚴寒的
             + pernicious (adj)有害的 = noxious = harmful = malign = baneful, 致命的 = destructive = deadly = baneful =  <-- per + nic 死 = death + ious
             + perpetual --> perpetuate
             + perplex
@@ -5987,7 +5987,7 @@
         + resign (v)辭去/放棄, 使聽從/使順從 = submit = yield --> resigned (adj)逆來順受的/順從的 --> resignation (m)聽從/順從, 辭職
         + signal (v)發信號 (adj)顯著的 (n)信號
         - signify (v)表示/意味, 有重要性/很重要/要緊
-        - significant (adj)相當數量的 = considerable = substantial, 意義重大的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
+        + significant (adj)相當數量的 = considerable = substantial, 意義重大的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
 
     son 聲音 = sound
         - consonant (adj)一致的/調和的 <--> dissonant (n)子音/子音字母 

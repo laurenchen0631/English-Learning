@@ -4,7 +4,7 @@
     + abreast (adv)並列地 = side by side --> keep abside of 了解...的最新情況
     + abridge (vt)刪減 = diminish = pare = hack, 精簡 = abbreviate = condense
     + absurd (adj)荒謬的/可笑的 = ludicrous = inept
-    + abundant (adj)大量的 = ample = bountiful = opulent = profuse = rife, 豐富的/充斥的 = abounding = rife --> abundance (n)大量/充足
+    + /əˈbʌnd(ə)nt/ abundant (adj)大量的 = ample = bountiful = opulent = profuse = rife, 豐富的/充斥的 = abounding = rife --> abundance (n)大量/充足
     + adamant (adj)堅決的/固執的 = resolute = unyielding = tenacious = intransigent, 非常堅硬的
     ++ address (n)住址, 演說, 舉止 (vt)處理, 致辭, 給...寫信
     + adulate (vt)諂媚/奉承 = flatter = fawn = toady --> adulation (n) --> adulator (n) = toad
@@ -60,9 +60,9 @@
 
     abash (v)使不安/使尷尬
     abide (v)忍受 = endure = tolerate --> abide by 遵守
-    aboveboard (adj/adv) 光明正大
+    aboveboard (adj/adv)光明正大
     absenteeism (n)曠課/曠工
-    abut (v) 鄰接/毗鄰 = adjoin
+    abut (v)鄰接/毗鄰 = adjoin
     academic (adj)學術的, 純理論的
     accessory (adj)附屬的/次要的 (n)配件, 幫凶/同謀 = accomplice = abettor
     acclimate (v)使服水土/使適應 = accustom = adapt = acclimatize
@@ -76,7 +76,7 @@
     adage (n)格言/諺語 = aphorism = dictum
     adopt (v)收養, 採納/接受
     adjacent (adj)接近的/毗鄰的 = adjoining = contiguous
-    admit (v)承認(錯誤) = ackonwledge = concede, 允許(進入) = permit, 接納, 接收…入院 --> admission (n)許可, 承認, 入場費/門票費
+    admit (v)承認(錯誤) = concede, 允許(進入) = permit, 接納, 接收…入院 --> admission (n)許可, 承認, 入場費/門票費
     adobe (n)泥磚/黏土 <--> abode (n)住處
     advise (v)建議/勸告 --> advisable (adj)適當的/可行的 --> advisory (adj)勸告的
     aegis (n)盾,庇護 = auspices
@@ -377,10 +377,9 @@
 
     ^ bony (adj)瘦削的, 骨頭的
     ^ boulevard (n)大街/大道
-    ^ boding (n)預兆/預示 = omen --> boding (adj)凶兆的
     ^ bedevil (v)迷惑/苦惱 = confuse
 
-[C] 
+[C]
     + /kaj/ cadge (v)乞討/乞得 = beg, 佔便宜 = sponge <|> budge <|> badge
     + /kəˈjōl/ cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle = inveigle
     + callow (adj)(尤指年輕人)不成熟的/缺乏經驗的 = immature = inexperienced
@@ -403,13 +402,13 @@
     + champion (v)支持/聲援/擁護 = support = advocate (adj)優秀的/第一流的 = excellent (n)冠軍, 捍衛者/鬥士
     + chaotic (adj)混亂的/無秩序的 = disordered = confused
     *** character (n)性格/特質, 好名聲/名譽, 人物/角色, 符號/字 (v)描述 = describe
-    + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵
+    + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵 == feature == trait
     + characterize (v)描繪/描述 = qualify
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
     ++ /ʃəˈkeɪn/ chicane (v)詐騙/欺騙 = deception = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
-    + /tʃərl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage
+    + /tʃəːl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage
     + clamber (v)(艱難地)攀登/攀爬/移動 = scramble <-- clamb 爬 = climb + er
     + clan (n)集團/幫派/派系
     + clandestine (adj)(不被官方允許的活動)秘密的/暗中從事的 = surreptitious
@@ -519,7 +518,6 @@
     ^ ceremony (n)典禮/儀式 --> ceremonious (adj)講究禮節的/過於正式的 = formal
     ^ char (v)燒焦/燒黑, 當清潔工 (n)女清潔工/打雜女工 = charwoman
     ^ character (n)特點/特徵, 角色
-    ^ characteristic (adj)有特色的/有典型的 (n)與眾不同的特徵
     ^ characterize (v)是...的特徵, 歸納...的特徵/描述...的特性 --> characterization (n)描述/刻畫
     ^ charade (n)顯而易見的作假/明顯的偽裝, 比手畫腳的猜字遊戲
     ^ charity (n)慈善事業/慈善組織/慈善機構, 仁慈/寬容/寛厚 = benevolence, 施捨
@@ -934,10 +932,10 @@
     *** fret (n/v)折磨/使煩躁/使焦慮 = torment = irritate = annoy, 抱怨/發牢騷 = repine = crab = complain = grouse ＝ grumble, 侵蝕 = gnaw = erode = corrode, 攪動 = agitate
     * fretful (adj)抱怨的 = complaining = querulous = whining = grouchy = grumpy
     * frisky (adj)(人或動物)愛玩的/活潑好動的 = frolicsome = coltish
-    * frolic (n/v)嬉戲/玩鬧 = gambol = romp = lark --> frolicsome (adj)活躍的/玩鬧的 = frisky
+    * frolic (N/V)嬉戲/玩鬧 = gambol = romp = lark --> frolicsome (adj)活躍的/玩鬧的 = frisky
     * fruitful (adj)肥沃的/富饒的 = fecund = fertile = prolific = generous, 多產的
     * fruition (n)成就/實現/完成, 結果實 <-- fruit
-    * fruitless (adj)無效果的/無益的 = futile, 不結果實的
+    ** fruitless (adj)無效果的/無益的 = futile, 不結果實的
     ** fulfil, fulfill (v)履行/實現 = redeem, 滿足/符合
     * fume (n)有害，濃烈，或難聞的煙, 憤怒 (v)冒煙, 發怒
     *** furnish (v)爲…配備傢俱/佈置, 提供 = supply = provide = yield
@@ -1117,14 +1115,14 @@
     * /ɡəːd/ gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
     * /ɡrʌɪm/ grime (n)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)骯髒的/髒兮兮的 = dirty <|> stymie
     * grind (v)磨刀/拋光 = whet, 摩擦/磨碎/碾碎 = grate (n)枯燥乏味的工作 
-    * gross (adj)總的, 下流的/粗俗的 = vulgar = obscene = indecent = ribald = bawdy = salacious, 駭人的 = flagrant, 胖的/龐大的 = bulky = fat (n)整個/全部, 總額
+    *** gross (adj)總的, 下流的/粗俗的 = vulgar = obscene = indecent = ribald = bawdy = salacious, 駭人的 = flagrant, 胖的/龐大的 = bulky = fat (n)整個/全部, 總額
     * /ɡraʊtʃ/ grouch (v)發牢騷/抱怨 = grumble = grouse = complain = fret (n)好發牢騷的人 <|> crouch
     * /ɡrə(ʊ)ˈtɛsk/ grotesque (adj)怪誕的 = absurd = bizarre = ludicrous = quaint, 奇形怪狀的 <|> burlesque
     * gruesome (adj)可怕的/陰森的 = grisly = lurid = revolting = morbid
     * grumble (v)發牢騷/抱怨 = grouse = crab, 肚子咕咕叫 (n)抱怨
     * grumpy (adj)脾氣壞的/易生氣的 = irritable = cantankerous = irascible = grouchy = peevish
     * /ɡrʌnt/ grunt (v)(因憤怒或疼痛)咕噥
-    * gulf (n)海灣, 巨大分歧/鴻溝, 裂口 = chasm = abyss, 旋渦 = eddy (v)吞沒/淹沒
+    *** gulf (n)海灣, 巨大分歧/鴻溝, 裂口 = chasm = abyss, 旋渦 = eddy (v)吞沒/淹沒
     * guru (n)印度宗教領袖或導師 = mentor, 權威/大師/專家
     * guy (n)(鐵塔等的)牽索/支索
     
@@ -1942,7 +1940,7 @@
     + onset (n)(壞事)開始 = start = beginning, 攻擊/襲擊 = assault = attak 
     ++ /ə(ʊ)ˈpeɪk/ opaque (adj)不透明的/不透光的 = turbid, 暗淡的 = dull = dim = faint = dark, 難理解的/晦澀的 = obscure, 愚鈍的 = stupid = dull = dense = blunt = crass
     + /ə(ʊ)ˈpʌɪn/ opine (v)想/認為 = say = suggest = imagine --> opinion (n)意見/見解
-    + optimum (adj)最理想的/最佳的 --> optimism (n)樂觀主義者 --> optimistic (adj)樂觀的 = sanguine
+    + /ˈɒptɪməm/ optimum (adj)最理想的/最佳的 --> optimism (n)樂觀主義者 --> optimistic (adj)樂觀的 = sanguine
     + opulent (adj)富裕的 = wealthy = rich = affluent, 豐富的 = abundant = profuse = plentiful = luxuriant = rife <|> petulant <-- opul 財富 = wealth + ent
     + /ˌɔrnəˈθɑlədʒi/ ornithology (n)鳥類學 --> ornithologist (n)鳥類學家 <-- ornitho 鳥 = bird + logy
     ++ orotund (adj)誇大的 = pompous = bombastic = rhetorical = oratorical = tumid = turgid, 響亮的 = resonant = booming = stentorian

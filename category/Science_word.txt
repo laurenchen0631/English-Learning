@@ -1,0 +1,21 @@
+[Unit]
+- kilowatt-hour == a unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules
+- kiloliter
+- pound == 0.45359237 kilogram
+- square foot 平方英尺
+
+[Chemical]
+- carbon dioxide
+- oxygen
+- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
+- nitric 硝酸
+- fluoride 氟化物
+- phosphate 磷酸鹽
+- platinum == a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals. Symbol : Pt
+- palladium == a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum. Symbol : Pd
+
+[]
+- greenhouse effect
+
+[Photograph]
+- platinum palladium printing 鉑鈀印相
