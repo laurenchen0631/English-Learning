@@ -1410,7 +1410,7 @@
             + decipher (v)破解/破譯 = decode
             - decode (v)破譯 = decipher
             + defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
-            - demolish (v)破壞 = destory = ruin, 拆除 --> demolition (n)破壞 <-- de + mol 建造 = construct + ish
+            * demolish (v)破壞 = destory = ruin, 拆除 --> demolition (n)破壞 <-- de + mol 建造 = construct + ish
             - detest
 
     dis, dif, di
@@ -6731,7 +6731,7 @@
         + evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
         - invoke (v)喚起/使記起, 祈求(法律或神靈), 行使（法權等）
         ++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
-        + provocation (n)激怒/挑釁 = affront = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
+        +++ provocation (n)激怒/挑釁 = affront = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
         * revoke (v)撤銷/廢除 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢除的
         - vocalist (n)流行歌手/聲樂家
         - vocation (n)擅長/才能, 職業/工作

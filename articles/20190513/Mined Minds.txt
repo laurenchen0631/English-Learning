@@ -1,0 +1,182 @@
+https://www.nytimes.com/2019/05/12/us/mined-minds-west-virginia-coding.html
+They Were Promised Coding Jobs in Appalachia. Now They Say It Was a Fraud.
+Mined Minds came into West Virginia espousing a certain dogma, fostered in the world of start-ups and TED Talks. Students found an erratic operation.
+By Campbell Robertson | May 12, 2019
+---------------------------------------------------------------------------------------------------------------------
+BECKLEY, W.Va. — On a spring day in 2017, Stephanie Frame sat down in her hilltop home deep in the mountain hollows to record a video.
+She began with the litany of local decline: the vanishing jobs in the coal mines, the shuttering stores, the school that closed down. During one stretch of unemployment for her coal miner husband, the two had resorted to selling ramps, ginseng and yellowroot that they had dug up in the forest.
+	> shutter
+		> NA |Close (a business)| ‘the city was gripped by economic forces that were squeezing its tax base and shuttering its factories
+		> 百葉窗 |Each of a pair of hinged panels fixed inside or outside a window that can be closed for security or privacy or to keep out the light.|
+		> 快門 |A device that opens and closes to expose the film in a camera.|
+	> close down == shutter == cease or cause to cease business or operation, especially permanently.
+	> ramp
+		> |A sloping surface joining two different levels, as at the entrance or between floors of a building.|
+		> |An upward bend in a stair rail.| 
+		> |An electrical waveform in which the voltage increases or decreases linearly with time.|
+		> |Increase the level or amount of (something) sharply.| the company has moved into new quarters in order to ramp up production
+		> 野韭葱 |any of various alliums used for food| 
+	> ginseng 人參
+	> yellowroot 黃根，兩種植物的俗名(金印草、黃根草)
+	> dig up
+		> |to remove something from under the ground by digging| We will have to dig that tree up.
+		> |to dig holes in an area of land| They’ve been digging up the road outside our house.
+		> |to find information by searching carefully| When we investigated his background, we dug up some interesting facts.
+But this video, aimed at her neighbors, was an announcement: Redemption was here. A nonprofit called Mined Minds, promising to teach West Virginians how to write computer code and then get them good-paying jobs, was looking for recruits.
+	> nonprofit
+	> West Virginia
+	> recruit
+		> |A new member of an organization or supporter of a cause.| 
+		> |Enlist (someone) in the armed forces.|
+		> |Persuade to do or help with something.| she recruited her children to help run the racket
+“I wholeheartedly believe, and will always believe,” Ms. Frame said to the camera, “that God has sent Mined Minds to us to save us from what could have been a very bleak future.”
+She had every reason to believe. Joe Manchin III, her Democratic senator, had invited the group to come into the state. The National Guard hired it to teach at its military-style academy. County commissioners arranged space rent free. National news outlets gave glowing coverage.
+	> senator
+	> the National Guard 國民警衛隊
+	> county
+	> outlet
+		>> |A pipe or hole through which water or gas may escape.|
+		>> |The mouth of a river.|
+		>> |A point from which goods are sold or distributed.| a fast-food outlet
+		>> |shop that sells goods made by a particular manufacturer at discounted prices.|
+		>> |A means of expressing one's talents, energy, or emotions.| writing became the main outlet for his energies
+Many West Virginians like Ms. Frame signed up for Mined Minds, quitting their jobs or dropping out of school for the prized prospect of a stable and lucrative career. But the revival never came.
+Almost none of those who signed up for Mined Minds are working in programming now. They described Mined Minds as an erratic operation, where guarantees suddenly evaporated and firings seemed inevitable, leaving people to start over again at the bottom rungs of the wage jobs they had left behind.
+	> erratic == Not even or regular in pattern or movement; unpredictable.
+	> evaporate
+	> rung == A horizontal support on a ladder for a person's foot
+Over two dozen former students in West Virginia are pursuing a lawsuit, arguing that Mined Minds was a fraud. Out of the 10 or so people who made it to the final weeks of Ms. Frame’s class in Beckley, only one formally graduated. He is now delivering takeout.
+	> takeout
+		>> |Food that is cooked and sold by a restaurant or store to be eaten elsewhere; takeaway.| 
+		>> |A bid (in a different suit) made in response to a bid or double by one's partner.| I doubled for takeout, eliciting a 4NT reply from Robson
+“It was a too-good-to-be-true kind of deal,” said Billyjack Buzzard, 33, who attended another class and was the only former West Virginia coal miner to finish classes and get a job with the program. He was fired after 14 months and went back underground. “Just false hope.”
+Mined Minds came into Appalachia espousing a certain dogma, fostered in the world of start-ups and TED Talks, and carried with missionary zeal into places in dire need of economic salvation. The group was premised on the notion, as one grant proposal read, that “anyone can have a successful career in the technology industry,” and that if enough people did, the whole area would be transformed.
+	> Appalachia 阿帕拉契。美國東部的紐約州南部、阿拉巴馬州北部、密西西比州北部和喬治亞州北部一
+	> salvation == Preservation or deliverance from harm, ruin, or loss.
+	> premise == A previous statement or proposition from which another is inferred or follows as a conclusion.
+	> premise sth on/upon == Base an argument, theory, or undertaking on.
+Amanda Laucher, one of the founders of Mined Minds, spoke at a tech conference in 2017 of the group’s ambitions, which were swiftly expanding. “Yeah, we helped a town, we actually made some small impact,” she said of Mined Minds’ early efforts. “But can we scale it and actually diversify the economy of an entire region?”
+This would be an audacious goal even in the best of circumstances. But Mined Minds was operating with a limited amount of personal cash and public funding, and was mostly staffed by people who had spent little time in tech.
+	> staff 
+Ms. Laucher now acknowledges that while she is still committed to the group’s mission, the work has not been easy. “Progress is difficult,” she said in an email, “with the current atmosphere in Appalachia which is deeply interested in maintaining a ‘culture.’”
+She blamed the opioid epidemic and “the poverty culture” of the region, mentioning “Hillbilly Elegy,” the best-selling memoir by J.D. Vance, who, like Ms. Laucher, went from working-class Rust Belt roots to success in the tech sector.
+	> opioid epidemic 鴉片氾濫
+	> Hillbilly Elegy 白人鄉巴佬輓歌：危機中的家庭與文化回憶錄
+	> memoir 回憶錄 == A historical account or biography written from personal knowledge.
+She added: “There are generations of hard work ahead. We’ll be only a tiny force working toward change in the area I grew up.”
+None of this — neither the experience itself nor Ms. Laucher’s thoughts about its difficulties — strikes some former students as surprising. This is, they say, how things tend to go in Appalachia.
+“I get angry at people who go to other places and say, ‘My culture is better than theirs and I am going to change it,’” said Katie Bolyard, 25, a college graduate who skipped her honeymoon to take a class.
+She doesn’t know the motives of the people at Mined Minds, she said, whether they had bad intentions or were just “incredibly sloppy” with good ones. But intentions only matter so much. “It’s not your life you’re messing with.”
+
+‘They All Find a Job’
+
+Before the founding of Mined Minds, Ms. Laucher and her husband, Jonathan Graham, were living in Chicago working as successful tech consultants. But in 2015, she learned that her younger brother, Marvin, had been laid off from a mine back in the coalfields of southwest Pennsylvania where she grew up.
+	> lay off 
+		>> |to end someone’s employment, especially temporarily, because there is not enough work for them| They’ve had to cut back production and lay off workers.
+		>> |to stop doing something that is annoying someone| Lay off! I’m trying to study.
+		>> |to stop doing or using something, especially for a short period of time| I had to lay off the medication for a while to see if that was causing my headaches.
+He was stuck in the Appalachian dilemma: technologically savvy, as modern miners have to be, but stuck with few options. So Mr. Graham and Ms. Laucher quit their jobs and moved to Pennsylvania.
+	> savvy
+		>> |Shrewd and knowledgeable; having common sense and good judgement| Bob is a savvy veteran who knows all the tricks
+		>> N |Shrewdness and practical knowledge; the ability to make good judgements.|
+		>> V |Know or understand| Charley would savvy what to do
+The model for Mined Minds, at least initially, was this: a free 16-week coding boot camp, followed by paid “apprenticeships” with the program’s for-profit arm, a software consultancy. Apprentices worked full-time on projects for company clients, but were also called upon to teach in the classes they had graduated from months earlier. After working for a few months, apprentices would either go on to salaried jobs at the Mined Minds company, or to a big tech firm such as Oracle.
+“Every single one of them” finds work, Ms. Laucher said of the boot camp graduates, in a 2017 interview. “They all find a job.”
+A guarantee like that was barely short of miraculous. Within two years, Mined Minds was one of the primary beneficiaries of a $1.5 million grant from the Appalachian Regional Commission. In August 2016, Mr. Manchin, who encouraged the couple to expand from Pennsylvania, said that Mr. Graham and Ms. Laucher “embody the spirit of West Virginia.”
+	> be short of 
+	> miraculous
+		>> |Remarkable and bringing very welcome consequences.| I felt amazed and grateful for our miraculous escape
+		>> |Of the nature of a miracle or having the power to work miracles.| a miraculous cure
+	> embody
+		>> |Be an expression of or give a tangible or visible form to (an idea, quality, or feeling)| a national team that embodies competitive spirit and skill
+		>> |Include or contain (something) as a constituent part.| the changes in law embodied in the Children Act
+In the spring of 2017, Tori Frame, Stephanie Frame’s daughter, was making $10 an hour as an assistant manager at a Family Dollar store when she learned about Mined Minds.
+“I didn’t want to be stuck in Gauley Bridge, W.Va., my whole life working at Family Dollar,” said Tori, 23. “I wanted something different.”
+Others viewed Mined Minds the same way. Andrew Farley figured he could quickly make the pay scale in coding that he made working for the railroad, but without having to leave his hometown; Chris Phelps, who washed dishes at a Cracker Barrel, thought a tech career was a way to get out of town.
+Ty Cook, 29, a bank teller, saw something more, “something that would make me a worthwhile member of society.”
+And there was an irresistible promise: They would be paid to take the class. Some were told this in an email by a state jobs counselor, others said they were told by Ms. Laucher. The counselor said in an email they would receive $10 an hour, with the potential for more as apprentices or when they were hired. A number of people, including Tori, quit their jobs. (Ms. Laucher has denied making any such promise.)
+	> counselor
+		>> |A person trained to give guidance on personal or psychological problems.| 
+		>> |A person who gives advice on a specified subject.| 
+		>> |A senior officer in the diplomatic service.|
+		>> NA |A supervisor at a children's summer camp.|
+In late June 2017, a big crowd gathered in a classroom at a small college campus in Beckley. They met Marvin Laucher, Ms. Laucher’s brother, the former coal miner, now their main instructor. They also learned that they were not going to be paid. Some dropped out the first week.
+But Tori and her mother, Stephanie, 45, stayed. Every weekday morning, Tori would wake up early, her mother would feed the chickens and together they would head down the serpentine mountain road to Beckley. Nights and weekends they spent in the glow of their laptops — bought from a website on credit — learning the rudiments of Ruby, the programming language.
+	> serpentine
+		>> |Of or like a serpent or snake.|
+		>> |Winding and twisting like a snake.| serpentine country lanes
+		>> |Complex, cunning, or treacherous.| his charm was too subtle and serpentine for me
+		>> |A dark green mineral consisting of hydrated magnesium silicate, sometimes mottled or spotted like a snake's skin.|
+		>> |A riding exercise consisting of a series of half-circles made alternately to right and left.|
+	> rudiment == An elementary or primitive form of (something)
+There was never much of a syllabus; students would be given an assignment and spend the next few days trying to figure it out, mostly by themselves. The usual answer to questions, multiple students said, was “Google it.” A few quietly wondered how much their teachers really knew.
+	> syllabus 課程大綱 == The subjects in a course of study or teaching.
+Unease began to settle in among some of the students. They began to learn from their teaching assistants, graduates of a recent Mined Minds class, that the good stable jobs promised by the group were not nearly as stable as they appeared.
+Firings and resignations were routine among the staff. One of the Beckley teaching assistants, a 33-year-old named Maxx Turner, had already been fired, then rehired after several fruitless months of searching for programming work, he said. Some began to suspect that the program couldn’t afford the job guarantee it was advertising.
+Money woes did not make sense, given what they saw of the founders’ lifestyle: the travels worldwide, the views from an office in Chicago’s Trump Tower, the ever-replenishing tequila bottles at the West Virginia headquarters, the boozy house parties in Pennsylvania.
+	> woe
+		>> |Great sorrow or distress (often used hyperbolically)| 
+		>> woes |Things that cause sorrow or distress; troubles.| to add to his woes, customers have been spending less
+	> tequila 龍舌蘭酒
+	> boozy == Characterized by drinking large quantities of alcohol.
+Several former Mined Minds staff members described company gatherings the same way: Their bosses ordering seemingly endless shots, hectoring the more timid drinkers. “I thought by going out drinking with them I’d put myself in a better position,” said Michael Moore, 35, the other teaching assistant in Beckley, who dropped out of community college to take the program.
+	> hector == Talk to (someone) in a bullying way.
+	> timid == Showing a lack of courage or confidence; easily frightened.
+The promised 16-week class went on 17 weeks. Then 18, then 19. As the class continued, many students began to run out of money. Out of the more than two dozen students who began, about 10 were left by late October, some playing computer games in class to pass the time, just waiting for the final project before graduation.
+
+A Fateful Trip
+
+Early on, Ms. Laucher had suggested the project would be something for the community, maybe a gaming app addressing the opioid epidemic. Then the project was finally announced: the design of a website for a pet bed-and-breakfast that Ms. Laucher’s mother was opening in Pennsylvania.
+But Stephanie Frame was still a believer. When word spread of a trip by the Mined Minds leadership to a tech conference in Lithuania in November, she saw an opportunity. She had never been out of the country, but this was a way to lock in a job, for her and for her daughter. Her husband agreed to spend $1,000 on the trip.
+	> Lithuania 立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
+“If I could hang with them,” she remembered thinking, “be one of them, show them how dedicated I am, how much I supported them, then we’ve got it.”
+While Stephanie and others were in Lithuania, the rest of the class was debating whether to stick it out to graduation. A news station in Pennsylvania had reported on problems with the Mined Minds program there, including that nearly all the graduates of one class had been fired right after being hired as apprentices. The state of Pennsylvania ordered Mined Minds to cease operations for not having a license to run a school.
+On a morning in late November, in the first class after the Lithuania conference, the students in Beckley arrived to a shocking development. Two people who had gone on the trip — Stephanie Frame and Mr. Moore, their teaching assistant — had been kicked out of the program.
+In a video conference, Ms. Laucher told the class that Stephanie had been dismissed because of “extreme sexual harassment, lots of drunkenness, basically behaving in a way that we wouldn’t condone at Mined Minds.”
+Stephanie was stunned. She thought the trip had been successful. She had gotten very drunk, she said, but no one on the trip had mentioned anything like “extreme sexual harassment.” Mr. Moore said he had seen nothing like the harassment Ms. Laucher described, and that in any case, everyone had been drunk.
+He would later be told that he was being dismissed for being belligerent one night of the trip, and also of having a drug problem — a charge, he said, easily refuted by years of clean drug tests — including one for Mined Minds.
+	> belligerent == Hostile and aggressive.
+As Ms. Laucher shared the news, other students were angry, and suspicious.
+“Even in the moment I’m hearing this I’m thinking, ‘O.K., this isn’t adding up,’” Mr. Phelps said.
+	> add up 
+		>> |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people's health.
+		>> |o seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+Ms. Bolyard wondered whether Mined Minds simply couldn’t afford the apprenticeships. “They were just making excuses to get rid of people,” she said.
+Tori’s parents told her to just finish the class, but she couldn’t. She sent a formal resignation letter, citing broken promises and a “party culture” that turned her off. Nearly all of the other students, infuriated by the whole thing, followed.
+	> turn off
+		>> |to stop a piece of equipment working temporarily by pressing a button or by moving a switch| Will you turn the television off, please?
+		>> |to leave the road that you are travelling along in order to go along another one that leads away from it| Turn off the road onto a dirt driveway.
+		>> |to make someone feel bored or no longer interested in something| This sort of talk could turn a lot of voters off.
+		>> |to stop paying attention| When people lose interest they just turn off.
+	> infuriate
+
+‘It Repeats Itself’
+
+Mined Minds has continued operating, holding new classes in Logan, another hard-luck coal town in West Virginia.
+In mid-April of this year, Ms. Laucher reprimanded five employees for not making enough networking connections on LinkedIn, for neglecting to read a book she had assigned, “The Start-Up of You,” and for not submitting their résumés to her for help. The next day, all five were fired. The staff of the program in West Virginia, two of those former employees said, now consists of Ms. Laucher’s brother and sister.
+And several weeks ago, Ms. Laucher announced on social media that she had been accepted to law school in Chicago.
+Asked if this was the end of Mined Minds, Ms. Laucher wrote: “Absolutely not. Still going.”
+Since the class in Beckley ended, Stephanie Frame has mostly stayed home.
+As she recounted her experience with Mined Minds in her living room, her husband, Roger, just off work, sat down and listened. It’s always the same here, he finally said.
+“They’re coming here promising stuff that they don’t deliver,” said Mr. Frame, his hands and face still gray with coal dust. “People do that all the time. They’ve always done it to Appalachians.”
+He recalled the pittance his great-grandparents sold their mineral rights for, and what they got from it: the coal company tearing down mountains and building roads wherever it wanted. Timber, coal, oil and gas, “it repeats itself,” he said. “It’s like a never-ending cycle.”
+	> pittance ==  A very small or inadequate amount of money.
+	> He recalled the pittance (that) his great-grandparents sold their mineral rights for
+Members of the Beckley class still keep in touch on a private chat group they call “Disenfranchised Appalachians.” Nearly everyone they had worked alongside has quit or been fired, though some said they had learned a lot from their work at Mined Minds. One, usually described as the program’s clear success, found a programming job in South Carolina.
+	> disenfranchise == disfranchise == Deprive (someone) of a right or privilege
+	> alongside
+		>> |Close to the side of; next to.| she was sitting alongside him
+		>> |Together and in cooperation with.| a care assistant was working alongside him
+		>> |At the same time as or in coexistence with.| they aim to encourage coverage of disabled sport alongside able-bodied achievement
+	> Carolina
+Stephanie’s daughter Tori, who had begun dating Ty Cook from the class, went back to the Family Dollar, starting over as a cashier. Over the next year, she worked her way up to become manager, a promotion that, Ms. Laucher said in a recent deposition for the lawsuit, was evidence of “the logic and problem solving skills that came with Mined Minds training.”
+	> deposition
+		>> 宣誓作證 |The giving of sworn evidence.|
+		>> 具結書 |A formal, usually written, statement to be used as evidence.|
+		>> 罷免/廢位 |The action of depositing something|
+A couple of months ago, however, Tori found a job at a call center in Columbus, Ohio. In late February, she and Mr. Cook packed their belongings in a trailer and left West Virginia.
+	> trailer
+		>> 拖車/掛車/汽車拖的居住車 |An unpowered vehicle towed by another.|
+		>> |A series of extracts from a film or broadcast, used for advance publicity.| 
+		>> |A thing that trails, especially a trailing plant.|
+		>> |Give advance publicity to (a film, broadcast, or proposal) by releasing extracts or selected details.|
