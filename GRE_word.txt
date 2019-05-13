@@ -1244,7 +1244,7 @@
     + /ˌhɑːfˈhɑːtɪd/ halfhearted (adj)不認真的/興趣不大的
     + hallmark (n)金銀上的純度印記, 特徵 = quirk, 品質證明/戳記
     + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow <|> /həˈləʊ/ hello --> hallowed (adj)神聖的 = holy = sacred 
-    ++ /ˈharəʊ/ harrow (n)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)悲痛的/難受的 = distressing = terrifying
+    ++ /ˈharəʊ/ harrow (n)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)悲痛的/難受的 = distressing = terrifying = upsetting
     ++ halt (v)暫停/終止 = stop = cease, 蹣跚/結巴 = falter --> halting (adj)躊躇的/猶豫的, 結結巴巴的, 跛的/蹣跚的
     ++ hamper (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose = check = arrest = deter = stymie (n)有蓋提籃, 障礙物/束縛
     + hand-wringing (n)憂慮的模樣/歇斯底里的狀態 = hysteria
@@ -1709,7 +1709,7 @@
     ++ morbid (adj)病態的 = diseased = unhealthy = pathological = wan, 疾病的/病理的 = pathological, 可怕的 = gruesome = grisly <-- morb 病 = sickness + id
     + mordant (adj)尖酸的/譏諷的 = sarcastic = caustic = biting (n)金屬腐蝕劑, 金箔黏著劑 <-- mord 咬 = bite + id
     + /məˈrəʊs/ morose (adj)憂鬱的 = ill-humored = sullen = gloomy = mournful = desolate = dismal = dreary
-    + motley (adj)混雜的/由不同事物組成的 = heterogeneous = disparate, 雜色的 <-- mote + ly
+    + motley (adj)混雜的/由不同事物組成的 = heterogeneous = disparate, 雜色的 = variegated <-- mote + ly
     ++ muddle (v)將……混在一起 = jumble = confuse = mingle = intermingle, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle = confound
     + /mʌnˈdeɪn/ mundane (adj)平凡的 = common = ordinary = unimaginative = prosaic = terrestrial, 現世的/世俗的 = lay = profane = temporal = worldly = early
     + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure = stygian, 模糊的/含糊的 = vague = confused = obscure
@@ -1998,73 +1998,73 @@
     + /pəˈleɪʃ(ə)l/ palatial (adj)宮殿般的, 宏偉的 = magnificent = stately = majestic <-- palace
     ++ /ˈpalɪeɪt/ palliate (v)減輕 = mitigate = alleviate = moderate = temper = reduce = abate = qualify = allay, 掩飾罪行 = extenuate <-- pall 遮蓋物
     + palpable (adj)可觸知的 = tangible, 明顯的 = obvious = evident = perceptible = noticeable = patent <-- palp 摸 = touch + able
-    +++ paltry (adj)極微的 = meager = lilliputian = minute, 不重要的/瑣碎的 = lilliputian = worthless = trashy = trivial = petty = minute, 可鄙的 = mean = contemptible = pitiful = scurvy
+    +++ paltry (adj)貧乏的 = meager = measly, 不重要的/瑣碎的 = lilliputian = worthless = trashy = trivial = petty = minute, 可鄙的 = mean = contemptible = pitiful = scurvy
     + /pəˈnaʃ/ panache (n)瀟灑/氣派 = style = verve = flair, 羽飾
     + /pɛː/ pare (v)削 = peel, 修剪 = trim, 削減/縮減 = diminish = hack
     + /ˈpɑːli/ parley (n/v)會談/討論 = discussion = conference = confer --> parlance (n)用語/講話風格 = vernacular = idiom, 會談 = parley
-    + parry (v)擋開 = ward off = avert, 避開/迴避 = deflect = avoid = evade = dodge
-    + parsimony (n)吝嗇/過於儉省 = stinginess = niggardliness --> parsimonious (adj)吝嗇的/過於儉省的 = miserly = mean = stingy = ungenerous
+    + parry (v)擋開攻擊 = ward off = avert, 避開/迴避[言論] = deflect = avoid = evade = dodge
+    + parsimony (n)吝嗇/過於儉省 = stinginess = niggardliness = penury --> parsimonious (adj)吝嗇的/過於儉省的 = miserly = mean = stingy = ungenerous
     + partisan (n)黨徒/虔誠的信徒/熱烈的支持者 (adj)盲目支持的/擁護的 --> partisanship (n)黨派性/黨派偏見 <-- party  
-    + pastiche (n)混合拼湊的作品, 大雜燴 = hodgepodge = jumble
-    ++ patent (adj)顯而易見的/明顯的 = obvious = evident = palpable, 公開的/開放的, 有專利的 (n)專利權
-    + patois (n)方言/土語 = dialect = vernacular = slang, 行話 = jargon = cant = argot = lingo
-    + paucity (n)少量/缺乏/不足 = scarcity = scantiness = dearth = poverty = penury <-- pauc 少 = few + ity
-    ++ peculiar (adj)奇怪的/古怪的 = eccentric = queer = odd = unconventional, 罕見的 = uncommon = unusual = rare, 特有的/獨特的/特別的 = particular = idiosyncratic --> peculiarity (n)奇特/古怪, 怪癖, 特性/特質
+    + /paˈstiːʃ/ pastiche (n)混合拼湊的作品, 大雜燴 = hodgepodge = jumble
+    ++ /ˈpat(ə)nt/, /ˈpeɪt(ə)nt/ patent (adj)顯而易見的/明顯的 = obvious = evident = palpable, 公開的/開放的, 有專利的 =  proprietary (n)專利權 <|> /ˈpat(ə)n/ pattern
+    + /ˈpatwɑː/ patois (n)方言/土語 = dialect = vernacular = slang, 行話 = jargon = cant = argot = lingo
+    + /ˈpɔːsɪti/ paucity (n)少量/缺乏/不足 = scarcity = scantiness = dearth = poverty = penury <-- pauc 少 = few + ity
+    ++ /pɪˈkjuːlɪə/ peculiar (adj)奇怪的/古怪的 = eccentric = queer = odd = unconventional, 特有的/獨特的/特別的 = particular = idiosyncratic, 罕見的 = uncommon = unusual = rare --> peculiarity (n)奇特/古怪, 怪癖, 特性/特質
     ++ peer (n)同等之人/同輩, 貴族 (v)凝視, 逐漸出現 --> peerless (adj)無可匹敵的 = matchless = unrivaled
     + /ˈpɛn(t)ʃ(ə)nt/ penchant (n)傾向/嗜好 = inclination = bent = propensity = affinity = bias
-    + penal (adj)刑事的/處罰的, 罰款的 --> penalty (n)刑罰/處罰/罰款 --> penalize (v)使不利, 處罰 
-    + penitent (adj)悔過的/後悔的 = repentant = regretful = rueful = remorseful = contrite  --> penitential (adj)後悔的/悔罪的 (n)悔罪者
+    + /ˈpiːn(ə)l/ penal (adj)刑事的/處罰的, 罰款的 --> penalty (n)刑罰/處罰/罰款 --> penalize (v)使不利, 處罰 
+    + penitent, penitential (adj)悔過的/後悔的 = repentant = regretful = rueful = remorseful = contrite (n)悔罪者
     * penitence (n)懺悔/贖罪 = contrition = repentance = remorse = compunction = rue <-- penal
-    ++ /ˈpen-yə-rē/ penury (n)貧窮 = extreme poverty = destitution = poverty, 困乏/缺乏 = scarcity = dearth = inadequacy = insufficiency = paucity = poverty --> penurious (adj)吝嗇的 = miserly = mean = parsimonious = stingy, 貧窮的 = indigent = impecunious, 缺乏的 = scanty = meager
-    + personification (n)典型/化身/完美榜樣
-    + pessimism (n)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
-    ++ petty (adj)不重要的/瑣碎的 = futile = paltry = trifling = nugatory = trivial = lilliputian, 心胸狹窄的 = insular = narrow-minded = myopic, 下級的 = subordinate = minor = inferior
+    ++ /ˈpɛnjʊri/ penury (n)貧窮/困乏 = extreme poverty = destitution = poverty, 吝嗇 = parsimony --> penurious (adj)吝嗇的 = miserly = mean = parsimonious = stingy, 貧窮的 = indigent = impecunious, 缺乏的 = scanty = meager
+    + /pəˌsɒnɪfɪˈkeɪʃ(ə)n/ personification (n)典型/化身/完美榜樣
+    + /ˈpɛsɪmɪz(ə)m/ pessimism (n)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
+    ++ petty (adj)不重要的/瑣碎的 = futile = paltry = trifling = nugatory = trivial = lilliputian, 次要的/次級的 = minir = secondary
     ++ petulant (adj)傲慢的/專橫的 = insolent = overbearing = imperious = domineering = arrogant = peremptory = insolent, 易怒的 = peevish = irascible = irritable --> petulance (n) = peevishness
-    + phalanx (n)密集的人群/方陣, 指骨/趾骨
-    + philistine (n)庸俗的人 (adj)俗氣的/無教養的/庸俗的
+    + ˈfalaŋks/ phalanx (n)密集的人群/方陣, 指骨/趾骨
+    + /ˈfɪlɪstʌɪn/ philistine (n)庸俗的人 (adj)俗氣的/無教養的/庸俗的
     + phlegmatic (adj)冷淡的/冷靜的 = stolid = unemotional = apathetic = impassive = numb <-- phlegm
-    + phoenix (n)鳳凰, 永生或再生的象徵
+    + /ˈfiːnɪks/ phoenix (n)鳳凰, 永生或再生的象徵
     + pioneer (n)先驅者/開拓者 (v)開闢/倡導
     ++ /piːk/ pique (n)生氣/慍怒 = resentment (v)使生氣/激怒 = irritate = vex = irk = provoke, 刺激/激起 = excite = arouse = provoke, 驕傲 = pride --> piquant (adj)辛辣的/開胃的 = pungent = spicy = poignant, 有趣的/刺激的 = attractive = stimulating = provocative
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
     + pivotal (adj)中樞的, 關鍵的 = critical = crucial = key = vital
-    ++ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
+    ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
     + platonic (adj)柏拉圖的/哲學的/理論的 = theoretical, 純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 通俗的/常見的 = common = vulgar
     ++ pluck (v)採/摘/拔/拉 = pull = grasp, 撥/彈(弦), 詐財/盜取 = rob = swindle = fleece = gouge = extort (n)膽識/勇氣 = courage --> plucky (adj)勇敢的/大膽的 = brave
     ++ plumb (adv)精確地 = exactly, 垂直地, 完全地 = completely (v)深入了解 = fathom = comprehend, 測水深 = fathom (adj)垂直的, 完全的 = absolute = through
     + plummet (v)垂直落下, 突然落下 = plunge (n)測鉛 = plumb
-    +++ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
+    +++ /ˈpɔɪnjənt/ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
     ++ poise (v)使相等/使平衡, 把……拿著 (n)均衡/平衡 = equilibrium = equipoise, 泰然自若/鎮定 = composure = tranquility = temper
     + polar (adj)地極的/極地的/兩極的 --> polarity (n)極端性/兩極分化/兩極化 --> polarize (v)使兩極分化
     + polemic (n)爭論/辯論/論戰 --> polemical (adj)論爭的/好爭論的 = quarrelsome <-- polem 戰爭 = war + ic 
     + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 = refinement = elegance --> polished (adj)有光澤的 = glossy= smooth, 優美的, 有文化的 = refined = cultured = elegant = fine
     + politic (adj)有策略的 = tactful = diplomatic, 權宜的 = expedient <-- polity
-    ++ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
-    + portion (n)部分, 一份/一客, 命運/定數 (v)分配
+    ++ /pɔː/ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
+    ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客, 命運/定數 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion
     + portray (v)描繪/描述 = limn = delineate = depict
     + pragmatic (adj)務實的/實幹的/實用主義的 = practical --> pragmatism (n)實用主義 --> pragmatist (n)實用主義者
-    + prate (v)瞎扯/胡說 = talk idly = chatter = babble --> prattle (n/v)閒聊 = chatter = babble
-    +++ precarious (adj)不穩定的 = uncertain = unstable = insecure = dubious = treacherous, 危險的 = perilous = treacherous = risky, 無根據的 = groundless <-- pray
-    + predator (n)食肉動物, 掠奪者 <-- predat 掠奪 = plunder + or
+    + prate (v)瞎扯/胡說 = talk idly = chatter = babble --> /ˈprat(ə)l/ prattle (n/v)閒聊 = chatter = babble
+    +++ precarious (adj)不穩定的 = uncertain = unstable = insecure = dubious = treacherous, 危險的 = perilous = treacherous = risky <-- prayer
+    + /ˈprɛdətə/ predator (n)食肉動物, 掠奪者 <-- predat 掠奪 = plunder + or
     + preternatural (adj)超自然的/不可思議的 = supernatural = exceptional <-- preter 超 = beyond + natural
     + prey (n)獵物
     +++ probity (n)剛正/正直 = uprightness = rectitude = honesty = high-mindness = goodness <-- prob 正直 = upright + ity
-    + prose (n)散文, 平凡/單調 --> prosaic (adj)平凡的 = commonplace = everday = ordinary = quotidian = mundane = terrestrial, 乏味的/無趣的 = dull = unimaginative
-    + protean (adj)變化多端的/多變的, 可飾演多角的 = versatile
-    ++ province (n)省/州, 地方/鄉間, 領域 --> provincial (adj)狹隘的 = narrow = scanty, 樸素的 = rustic = unsophisticated, 地區性的 = local, 省的
+    + /prəʊz/ prose (n)散文, 平凡/單調 --> prosaic (adj)平凡的 = commonplace = everday = ordinary = quotidian = mundane = terrestrial = unromatic
+    + /ˈprəʊtɪən/ protean (adj)變化多端的/多變的, 多才多藝的/多功能的 = versatile
+    ++ province (n)省/州, 地方/鄉間, 領域 --> provincial (adj)狹隘的 = narrow = scanty, 純樸的 = rustic = unsophisticated, 地區性的 = local, 省的
     + proxy (n)代理人 = agent, 取代物 = substitute
-    +++ prudent (adj)審慎的/小心的 = canny = guarded = cautious = careful = discreet = judicious = circumspect = deliberate = measured = methodical = sober = wholesome, 節儉的 = canny = frugal = thrifty, 有遠見的 = provident
-    + puerile (adj)幼稚的/不成熟的 = juvenile = jejune = immature, 兒童的 = juvenile <-- puer 男孩 = boy + ile
+    +++ prudent (adj)審慎的/小心的 = canny = guarded = cautious = careful = discreet = judicious = circumspect = deliberate = measured = methodical = sober = wholesome, 節儉的 = canny = frugal = thrifty = provident
+    + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/不成熟的 = juvenile = jejune = immature, 兒童的 = juvenile <-- puer 男孩 = boy + ile
     + puissant (adj)強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力 = power = might <-- potent
-    + pulchritude (n)美貌 = comeliness <-- pulchr 美麗 = beautiful + itude 
+    + /ˈpʌlkrɪtjuːd/ pulchritude· (n)美貌 = comeliness <-- pulchr 美麗 = beautiful + itude 
 
     * pamper (v)細心照顧/縱容/嬌慣 = cosset = coddle, 使滿足 = gratify = humor = indulge
     *** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
-    ** passionate (adj)情緒激昂的/熱情的 = fervid, 情緒化的 = emotional, 強烈的 = intense = vehement, 易怒的 = irascible = irritable = peevish = cantankerous = grouchy = grumpy 
+    ** passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
     * pastoral (adj)諮詢指導的, 質樸的 = provincial, 鄉村風情的 = bucolic = rural = idyllic = rustic, 牧人的
-    * patience (n)耐心/忍耐/毅力
+    * /ˈpeɪʃ(ə)ns/ patience (n)耐心/忍耐/毅力
     ** peach (v)告密 = inform against = betray (n)桃子, 極好的事物 <|> preach
     * pebble (n)小卵石/鵝卵石, 水晶
     * peeve (v)惹惱 = irritate = irk = gall = rile = provoke = bore = pique = vex --> peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
@@ -2074,11 +2074,11 @@
     * peril (n)危險 = jeopardy = hazard
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely, 和藹的 = affable = amiable = sociable = cordial = genial
     * personnel (n)全體人員/員工
-    * pier (n)碼頭, 防波堤, 墩/橋墩
-    ** pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望 = long = thrist = yearn = crave (n)松樹
+    * /pɪə/ pier (n)碼頭, 防波堤, 墩/橋墩
+    ** pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
     * pitcher (n)投擲者, 大水罐/水壺
-    ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 令人輕視的/可鄙的 = paltry = mean = contemptible = wretched
+    ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 貧乏的 = inadequate
     * plait (n)辮子 = braid (v)把..編成辮子 = braid
     * plaster (n)灰泥/灰漿, 熟石膏, 膏藥 (v)在……上塗灰泥, 使緊貼, 大量張貼
     ** plead (v)辯護/辯稱, 乞求/懇求 = beg = crave = appeal = entreat = solicit <-- plea
@@ -2088,10 +2088,10 @@
     * plunge (v)驟然移動/驟然下降 = plummet, 暴跌/驟降 (n)跳入/下跌/落下
     * pollute (v)污染 = contaminate
     *** pompous (adj)誇大的 = bombastic = grandiloquent = grandiose = orotund = oratorical = tumid = turgid, 傲慢的/自以為是的 = arrogant = grandiose = portentous --> pomposity (n)自大的行為/傲慢/自以為是
-    * pope (n)教宗
+    * pəʊp/ pope (n)教宗
     * pottery (n)製陶, 陶器 = earthenware
     * poverty (n)貧窮/貧困 = penury = indigence, 貧乏/缺少 = penury = paucity = scantiness = insufficiency = scarcity = dearth = inadequacy
-    * preach (v)布道, 鼓吹 = advocate = inculcate (n)講道/說教/訓誡 = homily
+    * preach (v)布道, 鼓吹 = advocate = inculcate (n)講道/說教/訓誡 = homily <|> peach
     * prick (v)刺/戳, 豎起 (adj)豎起的 (n)陰莖, 笨蛋
     * probe (v)盤問/追問, 探測 (n)探查/調查
     * prod (n/v)刺/戳 = poke, 刺激/敦促 = stir up = urge = goad = 
@@ -2479,7 +2479,7 @@
     + shun (v)避免/閃避 = eschew = sidestep = avoid = evade = shirk <|> sham
     + sidestep (v)橫跨一步以躲避/迴避 = bypass = evade = avoid = shirk
     + simian (adj)類人猿的/猴的 (n)人猿/猴子 = ape = monkey <-- simi 猴子 = ape + an
-    + sinecure (n)閒職 <-- without care
+    + /ˈsʌɪnɪkjʊə/ sinecure (n)閒職 <-- without care
     +++ sinister (adj)陰險的/邪惡的 = wicked = evil = fell, 不祥的/有凶兆的 = ominous = boding, 不幸的/災難性的 = unfortunate = disastrous = unfavorable, 左邊的 = left
     + sinuous (adj)錯綜複雜的 = intricate = complex, 迂迴的 = indriect = devious = circuitous <-- sinu 彎曲 = curve + ous
     + skeptic (adj)懷疑性的 (n)懷疑者/無神論者 --> skepticism (n)懷疑論/懷疑的態度 <-- skept 思考 = consider + ic

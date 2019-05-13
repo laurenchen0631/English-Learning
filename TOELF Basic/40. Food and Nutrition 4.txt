@@ -1,0 +1,23 @@
+[Vocabulary]
+- starvation == famine
+- cease == stop
+- blight
+- shortage == lack == insufficiency
+- free of == free from == without
+- distribution == apportionment
+- prosperity == affluence == wealth == success
+- ample == enough == abundant
+
+[Listened Article]
+It was not until 20th century that starvation ceased to be a common threat. Between 1846 and 1849 repeated potato crop failure due to blight resulted in the death that is more than a million people in Ireland and emigration over 2 million from that country. During 1849 Gone Rush in California 10 thousand people die of ? due to a lack of fresh vegetables. Nowadays while under-developed nation still face shortage of food especially a particular kind, Western Europe and America are largely free of such problems. Modern agricultural technique improved distribution system and general prosperity have resulted in an ample amount nutrition food for most of people at the developed world. Ironically, this abundant poses a threat on its own, overeating. Today many people are in fact damaging their health by eating too much.
+ 
+[Real Article]
+It was not until the 20th century that starvation ceased to be a common threat. Between 1846 and 1849, repeated potato crop failures due to blight resulted in the deaths of more than a million people in Ireland and the emigration of over two million from that country. During the 1849 Gold Rush in California, 10,000 people died of scurvy due to a lack of fresh vegetables. Nowadays, while underdeveloped nations sill face shortages of food, especially of particular kinds, Western Europe and North America are largely free of such problems. Modern agricultural techniques, improved distribution systems, and general prosperity have resulted in ample amounts of nutritious food for most of the people in the developed world. Ironically, this abundance poses a threat of its own: overeating. Today, many people are in fact damaging their health by eating too much. 
+
+[Review]
+- it was not until A that B 
+- Gold Rush 淘金潮，又稱淘金熱
+- scurvy /ˈskəːvi/ 壞血病 == A disease caused by a deficiency of vitamin C, characterized by swollen bleeding gums and the opening of previously healed wounds, which particularly affected poorly nourished sailors until the end of the 18th century.
+- underdeveloped == Not fully developed.
+- the developed world
+- abundance

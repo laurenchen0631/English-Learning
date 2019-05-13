@@ -972,7 +972,7 @@
         + /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 
     caco 壞 = bad
-        + cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
+        + /kəˈkɒf(ə)ni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
     calc 石灰/石灰岩 = lime, limestone
         - calcium (n)鈣
@@ -1123,7 +1123,7 @@
         - chrysalis (n)蛹 <|> caterpillar
 
     circ, circu, circum  繞圈/圓/環/周圍 = circle, go round
-        + circuitous (adj)迂迴的/繞圈子的 = roundabout = indirect = devious = tortuous = oblique
+        + /səːˈkjuːɪtəs/ circuitous (adj)迂迴的/繞圈子的 = roundabout = indirect = devious = tortuous = oblique
         - circulate (v)循環/流通/傳遞, (在聚會上)周旋, 發行 = distribute
         - circus (n)馬戲團
         - circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
@@ -2203,7 +2203,7 @@
         - circumference
         + confer (v)商討/商議/協商 = consult = deliberate = parley, 贈與/授與(稱號或榮譽) = bestow --> conference (n)會議/大會/討論會
         ++ defer (v)拖延/推延 = delay, 聽從 = submit = yield
-        + deference (n)敬意/尊重 = respect = regard --> deferential (adj)順從的 = obedient = obsequious <-- defer
+        ++ deference (n)敬意/尊重 = respect = regard --> deferential (adj)順從的 = obedient = obsequious <-- defer
         * deferement (n)延期/推遲 <-- defer
         * differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
         + differentiate (v)區分/區別/辨别 = distinguish
@@ -3165,7 +3165,7 @@
         - inferno (n)火海, 地獄般的場所, 煉獄
 
     it, itiner 走/旅行 = go, travel
-        - circuitous
+        + circuitous
         - initial
         + itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic
         + itinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
@@ -4410,7 +4410,7 @@
             - percept
             * percept --> perception
             + perceptible
-            + peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
+            + /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
             + perennial (adj)終年的, 永久的 = permanent = persistent = enduring = recurring <-- per + enn 年 = year + ial
             - perfervid
             + perish (v)消滅/死去/消亡 --> perishing (adj)嚴寒的
@@ -4785,6 +4785,7 @@
         - misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
         - property (n)財產, 房地產, 所有權
         + propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
+        + proprietary (adj)所有權的/所有人的, 專賣的/專利的 = patent
         + disdaintary (adj)私有的
 
     proxim 大約/接近 = next, near
@@ -5273,7 +5274,7 @@
             - reprieve (n/v)緩刑, 暫時解救
             + reproach
             - reprove --> reproof
-            + repudiate (v)拒絕/否認 = deny = abnegate, 拋棄/斷絕關係 <-- re + pudi 放 = put + ate
+            + repudiate (v)拒絕/否認 = deny = abnegate, 拋棄/斷絕關係 = forswear = renounce <-- re + pudi 放 = put + ate
             + repugnant --> repugnance
             - repulse ---> repulsion
             - rescue (n/v)解救, 把...從法律監管下強行奪回 <-- re + scue 捨棄 = discard
@@ -5518,7 +5519,7 @@
             - superb (adj)上乘的/出色的 = consummate, 宏偉的/華麗的
             + supercilious (adj)目中無人的/傲慢的 = haughty = contemptuous = arrogant <-- super + cili 眼皮/眉毛 = eyelid, eyebrow + ous
             + superfluous --> superfluity
-            - superior (adj)上級的/較多的/較好的/較高的 = exceptional, 高傲的/傲慢的 (n)上司/長官/長輩 --> superiority (n)優越/優勢/上等
+            * /suːˈpɪərɪə/ superior (adj)上級的/較多的/較好的/較高的 = exceptional, 高傲的/傲慢的 (n)上司/長官/長輩 --> superiority (n)優越/優勢/上等
             - supernova (n)超新星
             + supreme (adj)最高的/至上的 = sovereign, 最大的/極度的 --> supremacy (n)至高無上/霸權
             - superstition (n)迷信
@@ -5786,7 +5787,7 @@
     sacr, secr, sanct 神聖 = sacred, holy
         + consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow
         - execrate (v)詛咒, 憎恨/憎惡
-        + execrable (adj)惡劣的/極壞的 = abhorrent
+        + /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
         - massacre (n)大屠殺 = carnage = slaughter = genocide
         - desecrate (v)玷污/褻瀆 --> desecration (n)褻瀆/瀆神 = blasphemy
         - sacred (adj)神聖的/莊嚴的 = holy 
@@ -6756,7 +6757,7 @@
     vari 多樣的 = variegated, manifold, diverse
         - variance (n)矛盾/分歧/不同, 變化/變動
         + variable (adj)易變的/多變的/可變的 (n)可變物/易變物/可變因素
-        + variegate (v)使多樣化, 使色彩斑駁 --> variegated (adj)多變的/多種多樣的 = varied = diverse, 雜色的/色彩斑駁的
+        + variegate (v)使多樣化, 使色彩斑駁 --> variegated (adj)多變的/多種多樣的 = varied = diverse, 雜色的/色彩斑駁的 = motley
         - variegation (n)雜色/斑駁 <-- vari + eg 做 = do + ation
         + variety (n)多樣化/變化, 種類
         - various (adj)不同的/各種各樣的, 許多的
