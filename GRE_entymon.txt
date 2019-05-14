@@ -2648,8 +2648,8 @@
     here, heir, herit 繼承
         * heir (n)繼承人
         * hereditary (adj)遺傳的, 世襲的 --> heredity (n)
-        - inherit (v)繼承
-        + inherent (adj)與生俱來的
+        * /ɪnˈhɛrɪt/ inherit (v)繼承
+        + /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
     hetero, here 不同/異 = different, other
         * heresy (n)異端邪說
@@ -3992,7 +3992,7 @@
 
     numer 數字
         - enumerate (v)列舉/枚舉
-        - numerous (adj)許多的/大量的 = many
+        + /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many
         - innumerable (adj)數不清的
 
     nat, nasc, naiss 出生 = born
@@ -5000,6 +5000,7 @@
         - physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
         - physiology (n)生理學 --> physiological (adj)生理的/生理學的
         + physiognomy (n)容貌/相貌, 觀相術/相面術
+        + /fɪˈzɪʃ(ə)n/ physician (n)醫師
         
     ponder 重量 = weigh
         - ponder (v)仔細考慮 
