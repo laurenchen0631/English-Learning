@@ -331,7 +331,7 @@
             - architect (n)建築師 --> architecture (n)建築
 
         2. 統治 = chief, leader, ruler
-            + anarchy (n)無政府, 政治上的混亂 = disorder
+            + /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
             - archbishop (n)樞機主教
             - monarch
             + hierarchy --> hierarchical
@@ -729,7 +729,7 @@
     cond 藏起/儲藏 = stow, secrete
         + abscond (v)潛逃/逃亡
         - condiment (n)調味料
-        + recondite (adj)深奧的 = esoteric = abstruse = profound = Hermetic
+        + /ˈrɛk(ə)ndʌɪt/ recondite (adj)深奧的 = esoteric = abstruse = profound = Hermetic
 
     cede, cess, ceed 走/放棄 = go, yield, withdraw == ambul == bat == journ == trus == gress == it
         + accede (v)同意 = agree = consent, 登基/任職 = succeed
@@ -1286,7 +1286,8 @@
         - mariculture
 
     cyn 狗
-        * cynic (n)憤世嫉俗的人 --> cynical (adj)憤世嫉俗的, 挖苦的/冷嘲的 = sardonic
+        * cynic (n)憤世嫉俗的人
+        ** cynical (adj)憤世嫉俗的, 挖苦的/冷嘲的 = sardonic
         - cynicism (n)憤世嫉俗/譏笑
 
     cyt, cyte, cyto 細胞
@@ -1852,7 +1853,7 @@
         + exorcise
         + exotic (adj)異國情調的/外來的, 奇特的
         + expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述 --> expansive ()豪爽的/健談的, 遼闊的, 可擴張的
-        + expatiate (v)細說/詳述, 漫遊 = ramble <-- ex + spati 走 + ate
+        + /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <-- ex + spati 走 + ate
         + expedite --> expeditious
         + expedient --> expediency
         * expel
@@ -2286,7 +2287,7 @@
         - filial (adj)子女的
 
     fin 範圍/限制 = boundary, boder, stop, limit
-        + affinity (n)吸引/喜愛 = fondness = affection = penchant = bent, 密切關係, 雷同/相似 = resemblance
+        +++ affinity (n)吸引/喜愛 = fondness = affection = penchant = bent, 密切關係, 雷同/相似 = resemblance
         + confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
         + define (v)說明/解釋, 界定 --> definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
         + finite (adj)有限的 = measurable
@@ -4622,7 +4623,7 @@
         + impair (v)損害/削弱 = damage = reduce = injure = lossen = weaken
         - repair (v)修理/修補, 恢復, 彌補/補償
         - reparable (adj)能補救的/可挽回的
-        - reparation (n)賠償/補償 = amends = compensation = recompense
+        * reparation (n)賠償/補償 = amends = compensation = recompense
 
     pease, pac 和平 = peace
         + appease (v)使平靜/安撫/平息 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
@@ -5668,7 +5669,7 @@
         - inscribe (v)題寫/刻寫/在某物上寫, 題贈
         - manuscript
         - prescribe (v)規定/命令/指定 = direct = dictate = appoint = ordain = enjoin, 開處方 --> prescription (n)處方
-        + proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw
+        + proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce
         - scribble (v)亂寫/亂塗 
         - script (n)劇本/腳本
         - scripture (n)權威性著作/經文/聖典
@@ -6306,7 +6307,7 @@
         ++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
         - intact (adj)完整無缺的/原封不動的
         - tactile (adj)觸覺的, 富有質感的
-        + tangent (n)正切/切線 (adj)切線的, 離題的 --> tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
+        + tangent (n)正切/切線 (adj)切線的, 離題的 --> /tanˈdʒɛnʃ(ə)l/ tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
         ++ tangible (adj)可觸知的/有形的 = palpable = touchable, 真實存在的 = real = actual, 明確的 = definite
 
     test 證明/目擊 = witness == prob
