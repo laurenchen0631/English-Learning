@@ -1287,7 +1287,7 @@
 
     cyn 狗
         * cynic (n)憤世嫉俗的人
-        ** cynical (adj)憤世嫉俗的, 挖苦的/冷嘲的 = sardonic
+        ** cynical (adj)挖苦的/冷嘲的 = sardonic, 憤世嫉俗的
         - cynicism (n)憤世嫉俗/譏笑
 
     cyt, cyte, cyto 細胞
@@ -1731,7 +1731,7 @@
         + endure (v)忍耐/忍受, 持續 --> enduring (adj)持續的/持久的 = lasting = permanent --> endurance (n)忍耐/耐力, 苦難/磨練
         - duress (n)束縛/監禁, 脅迫
         - indurate (v)使堅硬, 使鞏固
-        + obdurate (adj)頑固的 = stubborn, 冷酷的 = hardhearted --> obduracy (n)頑固/倔強, 冷酷
+        + obdurate (adj)頑固的 = stubborn = refractory, 冷酷的 = hardhearted --> obduracy (n)頑固/倔強, 冷酷
 
     dynam 力量 = force, power
         - dynamic (adj)有活力的, 動態的, 動力的/動力學的
@@ -2621,7 +2621,7 @@
     hypo 下 = under <--> hyper
         - hypoderm
         + hypocrite (n)偽善者/為君子
-        - hypocritical
+        * hypocritical
         + hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
     
     hypno 催眠 = put to sleep
@@ -2882,7 +2882,7 @@
             + insensible = unconscious = unaware = unresponsive
             - insentient
             + insignificant (adj)不重要的 = trivial = inconsequential, 無足輕重的 = contemptible = despicable, 無意義的 = meaningless
-            + insincere (adj)虛偽的/不誠懇的 = hypocritical = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
+            + insincere (adj)虛偽的/不誠懇的 = hypocritical = sanctimonious = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
             + insipid
             - insolent 
             - insoluble
@@ -3169,7 +3169,7 @@
         + circuitous
         - initial
         + itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic
-        + itinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
+        + /ʌɪˈtɪn(ə)(rə)ri/ tinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
         - obituary
         + sedition (n)煽動叛亂/煽動性的言論 <-- se + d + it + ion
         - transit --> transition 
@@ -3852,7 +3852,7 @@
     machin, mechan 謀劃/發明 = contrive
         - machine (n)機器/機械
         - machinery (n)機器/機械, （政府等的）機構, 方法
-        - machinate (v)陰謀策劃/密謀 --> machinations (n)陰謀 = plots = schemes
+        + /ˈmaʃɪneɪt/ machinate (v)陰謀策劃/密謀 --> machinations (n)陰謀 = plots = schemes
         - mechanic (n)機械工/修理工/技工
         - mechanics (n)力學
         - mechanical (adj)機械的, 機械似的/呆板的, 力學的/物理的, 手工操作的
