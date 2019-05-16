@@ -1206,7 +1206,7 @@
         + exclude (v)把…排斥在外, 排除/不考慮, 驅除 = expel = eject = thrust out
         + exclusive (adj)除外的, 唯一的, 獨佔的/專用的, 獨有的
         - include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
-        + occlude (v)使阻塞 = shut = block = close
+        + /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
         + preclude (v)排除/防止/阻礙 = prevent = avert
         + recluse (adj)隱遁的 (n)隱居者/隱士 = hermit --> reclusive (adj) = monastic 
         * seclude (v)使…不與…接觸/使隔離 = confine = immure , 使隱居 = cloister <-- se 分開 = apart + clude
@@ -1597,7 +1597,7 @@
 
     doc 教 = teach
         - docile (adj)順從的 = submissive = obedient = amenable = deferential = obsequious, 聽話的/易控制的
-        + /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
+        + /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 = tenet --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
         - indoctrinate (v)教導/灌輸思想 = inculcate
         + document (n)文件/公文 (v)用文件證明, 紀錄
         + documentary (adj)紀實的/記錄的, 文件的/文書的 (n)紀錄片
@@ -1641,7 +1641,7 @@
 
     decor 裝飾/美 = ornament, splendor, honor
         - decorate (v)裝飾
-        + decorum (n)禮節/禮貌
+        + decorum (n)禮節/禮貌 = etiquette
         + indecorous
 
     dextr 右
@@ -1853,7 +1853,7 @@
         + exorcise
         + exotic (adj)異國情調的/外來的, 奇特的
         + expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述 --> expansive ()豪爽的/健談的, 遼闊的, 可擴張的
-        + /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <-- ex + spati 走 + ate
+        + /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <|> expatriate <-- ex + spati 走 + ate
         + expedite --> expeditious
         + expedient --> expediency
         * expel
@@ -2225,7 +2225,7 @@
         - ferroconcrete (n)鋼筋混凝土/鋼筋水泥
 
     ferv, ferm 熱 = hot
-        + fervent (adj)熱烈的/熱情的 --> fervor (n)熱烈/熱情 = ardor
+        + /ˈfəːvə/ fervent (adj)熱烈的/熱情的 --> fervor (n)熱烈/熱情 = ardor
         + fervid (adj)熾熱的/熱情的 = fervent = passionate
         - perfervid (adj)非常熱心的 = fervent
         + effervesce (v)冒泡 = bubble = foam, 熱情洋溢 --> effervescence (n)冒泡, 熱情洋溢 = liveliness
@@ -2334,7 +2334,7 @@
 
     flor, flour 花/開花 = bloom, flower == anth
         - efflorescent (adj)開花的
-        + flora (n)(某地區或時代的)植物群
+        + flora (n)(某地區或時代的)植物群 <|> fauna
         + florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
         - florescence (n)花期, 全盛期
         + flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
@@ -3370,7 +3370,7 @@
         * ligate (v)綁/捆/紮
         + obligate (v)使負義務 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
         * obligation (n)義務/責任, 恩惠/人情, 債務
-        * oblige (v)強迫/迫使 = compel = constrain, 施恩於 = favor, 使必要
+        *** oblige (v)強迫/迫使 = compel = constrain, 施恩於 = favor, 使必要
         * obliging (adj)樂於助人的/熱心相助的 = accommodating 
 
     limin, lime 門檻 = threshold
@@ -3965,7 +3965,7 @@
         - announce (v)宣布/發表 = pronounce = proclaim = herald, 通報...的到來
         + denounce (v)譴責 = denunciate = condemn = censure, 告發 = accuse formally
         * denunciate (v)指責/譴責 = denounce = censure openly --> denunciation (n)指責/譴責 = public censure/condemn, 指控/告發, 宣告無效
-        - enunciate (v)清晰地發音, 明確表明/闡明
+        + enunciate (v)清晰地發音, 明確表明/闡明
         - enounce (v)宣布, 發音
         - pronounce (v)發音, 宣告 = announce = proclaim --> pronounced (adj)明確的 = decided, 明顯的
         - pronunciation (n)發音
@@ -4394,7 +4394,7 @@
         + reciprocate --> reciprocity --> reciprocal (adj)相互的/互惠的
 
     prodig 巨大/奇蹟 = extravagant, marvel
-        + prodigal (adj)揮霍的 = wasteful = extravagant = lavish (n)揮霍者
+        + prodigal (adj)揮霍的 = wasteful = extravagant = lavish (n)揮霍者 <|> prodigious
         + prodigious (adj)奇妙的 = portentous = marvelous, 巨大的 = enormous
         + prodigy (n)奇事 = portent = marvel, 奇才
 
@@ -4585,7 +4585,7 @@
             + compatible (adj)可共存的/和諧共處的/相容的 = congenial
 
     paleo, pale 古老/原始 = old, anicent, primitive
-        + paleontology (n)古生物學 <-- pale + onto 生物 = being + logy
+        + /ˌpeɪliənˈtɑlədʒi/ paleontology (n)古生物學 <-- pale + onto 生物 = being + logy
         - paleopathology (n)古病理學
         - paleokinetic (adj)自主運動的
 
@@ -4852,10 +4852,9 @@
         - photography (n)攝影
         - photosynthesis (n)光合作用 <-- photo + synthesis
 
-    
     patri, patr 父親/本土 = father, native land
         - compatriot (n)同國人/同胞, 同事
-        + expatriate (v)流放 = exile
+        + expatriate (v)流放 = exile <|> expatiate
         - patrician (n)貴族 <-- patr 
         - patrimony (n)繼承的遺產/祖產
         - patriot (n)愛國者/愛國主義者
@@ -5486,7 +5485,7 @@
             - subterfuge
             - subterranean
             - subtract
-            - subvert --> subversive
+            + subvert --> subversive
             + succinct (adj)簡明的/簡潔的 = concise = terse = laconic = compendious = brief <-- suc + cinct 束 = gird
             + succor
             + succumb
@@ -5576,7 +5575,7 @@
         - dissolute (adj)放蕩的/放縱的 = profligate
         - insoluble (adj)不溶解的, 不能解決的
         - insolvency (n)無力償還, 破產 = bankruptcy
-        + resolve (v)決心/決定 = purpose, 解決/解答, 投票表決, 使分解 --> resolute (adj)堅決的 = adamant = unyielding = inflexible
+        +++ resolve (v)決心/決定 = purpose, 解決/解答, 投票表決, 使分解 --> resolute (adj)堅決的 = adamant = unyielding = inflexible
         + resolution (n)決心/決定, 分解/解析, 解決/解答
         - soluble (adj)可溶的
         + solvent (adj)有償付能力的, 有溶解力的 --> solvency (n)償債能力, 溶解力
@@ -6006,7 +6005,7 @@
         - constellation (n)星座/星群, 人才濟濟/明星群集
         - interstellar (adj)星際的
         - stellar (adj)恆星的/星球的, 傑出的/優秀的
-        + sidereal (adj)恆星的
+        + /sʌɪˈdɪərɪəl/ sidereal (adj)恆星的
 
     still 水滴 = drop
         + distill (v)蒸餾, 提煉/濃縮
@@ -6196,7 +6195,7 @@
             - tenable (adj)可維持的
             - tenacity (n)頑固/固執
             * tenant (n)承租人/房客/佃戶 (v)租借
-            - tenet (n)信教/宗旨/原則 = canon = precept
+            + tenet (n)信教/宗旨/原則 = doctrine = belief = canon = precept
             - tenor (n)要點/要旨, 男高音
             - tenure (n)任期, 終身職位
 
@@ -6692,7 +6691,7 @@
         - revolute (v)參加革命
         + revolution (n)革命, 變革 --> revolutionary (adj)革命的/革命性的 (n)革命者
         - revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/反感的 = disgusting = repulsive = lurid, 叛變的 = rebellious
-        + subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
+        +++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
         + versatile (adj)多才多藝的, 多用途的
         * verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 
         - vertebra (n)脊椎骨
