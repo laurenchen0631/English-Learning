@@ -430,7 +430,7 @@
 
     act 動作 = do 
         - counteract
-        - enact (v)制定(法律), 扮演(角色)
+        + enact (v)制定(法律), 扮演(角色)
         ++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 嚴格的 = strict = rigorous
         ++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)辛苦的
         - exactitude (n)精確性/正確性
