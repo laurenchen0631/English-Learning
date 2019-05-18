@@ -2065,6 +2065,7 @@
     * pastoral (adj)諮詢指導的, 質樸的 = provincial, 鄉村風情的 = bucolic = rural = idyllic = rustic, 牧人的
     * /ˈpeɪʃ(ə)ns/ patience (n)耐心/忍耐/毅力 = forbearance
     ** peach (v)告密 = inform against = betray (n)桃子, 極好的事物 <|> preach
+    * preach (v)布道, 鼓吹 = advocate = inculcate (n)講道/說教/訓誡 = homily <|> peach
     * pebble (n)小卵石/鵝卵石, 水晶
     * peeve (v)惹惱 = irritate = irk = gall = rile = provoke = bore = pique = vex --> peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
     *** penetrate (v)穿過/刺入, 看透/識破, 彌漫於 --> penetrating (adj)有穿透力的, 尖銳的/刺耳的, 敏銳的
@@ -2081,7 +2082,7 @@
     * plait (n)辮子 = braid (v)把..編成辮子 = braid
     * plaster (n)灰泥/灰漿, 熟石膏, 膏藥 (v)在……上塗灰泥, 使緊貼, 大量張貼
     ** plead (v)辯護/辯稱, 乞求/懇求 = beg = crave = appeal = entreat = solicit <-- plea
-    ** pledge (n)誓言/保證, 抵押, 信物/證明, 祝酒 = toast (v)發誓 = vow, 用……抵押 = pawn, 向……祝酒
+    *** pledge (n)誓言/保證, 抵押, 信物/證明, 祝酒 = toast (v)發誓 = vow, 用……抵押 = pawn, 向……祝酒
     * plot (n)故事的情節, 秘密計劃/陰謀 = machinations = schemes, 小塊土地, 圖表 (v)密謀 = conspire = collude = connive = scheme, 做記號
     * plough, plow (v)犁/耕 = cultivate (n)犁
     *** plunge (v)驟然移動/驟然下降 = plummet, 暴跌/驟降 (n)跳入/下跌/落下
@@ -2090,7 +2091,6 @@
     * /pəʊp/ pope (n)教宗
     * pottery (n)製陶, 陶器 = earthenware
     * poverty (n)貧窮/貧困 = penury = indigence, 貧乏/缺少 = penury = paucity = scantiness = insufficiency = scarcity = dearth = inadequacy
-    * preach (v)布道, 鼓吹 = advocate = inculcate (n)講道/說教/訓誡 = homily <|> peach
     ** prick (v)刺/戳, 豎起 (adj)豎起的 (n)陰莖, 笨蛋
     *** probe (v)盤問/追問, 探測 (n)探查/調查
     * prod (n/v)刺/戳 = poke, 刺激/敦促 = stir up = urge = goad = 
@@ -2268,7 +2268,7 @@
     * /kwak/ quack (n)庸醫 = empiric, 騙子 (adj)冒牌的/騙人的 (v)招搖撞騙
     * /ˈkwɒr(ə)l/ quarrel (n/v)爭吵/不合 = bicker = quibble = spar = brawl --> quarrelsome (adj)愛爭吵的/好口角的 = polemical = aggressive = bellicose = contentious
     ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional (v)破壞 = spoil = ruin
-    ** quench (v)熄滅/撲滅 = extinguish, 壓制/壓抑 = subdue = quell = repress, 使滿足[口渴或慾望] = satisfy, 使冷卻
+    ** quench (v)熄滅/撲滅 = extinguish, 壓制/壓抑 = subdue = quell = repress, 使滿足[口渴或慾望] = slake = satisfy, 使冷卻
     ** quip (n)妙語/諷刺語
 
     ^ quaff (V)痛飲/暢飲
@@ -2461,9 +2461,9 @@
     + seek -> sought -> sought (v)尋找/探索, 企圖/試圖 = try = attempt, 請求 = request = enquire
     + semantic (adj)語義的
     + seraphic (adj)天使般的/純潔的/美麗的 = angelic
-    + /ˌsɛr(ə)nˈdɪpɪti/ serendipity (n)機緣湊巧/意外收獲, 好運 = luck = good fortune
+    +++ /ˌsɛr(ə)nˈdɪpɪti/ serendipity (n)機緣湊巧/意外收獲, 好運 = luck = good fortune
     + sextant (n)六分儀 <-- sex 六 = six + ant
-    + shackle (v)克制/抑制 = restrains = limit, 束縛 = fetter (n)腳鐐/枷鎖 = fetter
+    + shackle (v)克制/抑制 = restrain = limit, 束縛 = fetter (n)腳鐐/枷鎖 = fetter
     ++ sham (n)虛假/騙局 = hypocrisy = hoax (v)假裝 = pretend = feign (adj)虛假的 = spurious = bogus = pretended = counterfeit = feigned = mendacious = false <|> shun 
     + shard (n)碎片/陶器碎片 = fragment, 鱗/殼 = scale = shell
     + share (n)一份, 股份/股票, 分攤/分擔, 貢獻 (v)分攤/分配, 分享
@@ -2497,6 +2497,7 @@
     ++ sodden (adj)濕透的 = saturated, 未烘透的
     + /ˈsɒlɪsɪz(ə)m/ solecism (n)語病/語法錯誤, 失禮 <--> etiquette
     + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的, 昏睡的 = drowsy = sleepy, 單調的 = monotonous (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
+    + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 單獨的/孤立的 = scattered = isolated = singly <-- spore
     +++ sordid (adj)可鄙的/可恥的 = vile = contemptible = filthy = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
     ++ squalid (adj)骯髒的 = sordid = filthy, 可鄙的/可恥的 = sordid <-- squal 髒 = dirty + or
     + squalor (n)極其骯髒/邋遢
@@ -2505,7 +2506,6 @@
     + spendthrift (n)揮霍無度的人 (adj)揮霍無度的 <-- spend + thrift
     + spirited (adj)活潑的/生氣勃勃的 = mettlesome
     + spontaneous (adj)自發的, 無意識的/不由自主的, 自然的 = natural = indigenous --> spontaneity (n)自然/自發 <-- spont 樂意 = willingly + an + eous
-    + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 單獨的/孤立的 = scattered = isolated = singly <-- spore
     + /sprɔːl/ sprawl (n/v)伸開四肢躺, 蔓生/蔓延, 艱難地爬行 = scramble --> sprawling (adj)蔓生的, 無計劃地擴展的
     ++ spurious (adj)假的 = sham = false = fake = mendacious, 私生的 = bastard = illegitimate <|> spur
     + /ˈskwɒndə/ squander (v)浪費/揮霍 = dissipate = waste, 使分散 = scatter = disperse
@@ -2552,51 +2552,52 @@
     + syntax (n)語法/句法
 
     * sapid (adj)有味道的 = favorful, 美味的 = palatable = savory, 使人愉快的 = agreeable
-    * satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> satirical (adj)諷刺的 = sarcastic = sardonic = ironic
-    * saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
+    * /ˈsatʌɪə/ satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> /səˈtɪrɪk(ə)l/ satirical (adj)諷刺的 = sarcastic = sardonic = ironic
+    * /ˈsatʃəreɪt/ saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
     * scatter (v)(使)散開 = squander = disperse, 撒 = sprinkle
     * scholar (n)學者, 獎學金獲得者 --> scholarly (adj)學者的, 博學的 = erudite = learned, 勤奮好學的
-    * scramble (v)(艱難地)移動/爬/攀登 = clamber, 爭搶, 緊急起飛, 炒蛋 (n)(艱難的)移動/爬/攀登, 匆匆的行爲, 搶奪/爭搶, 炒蛋
-    * scrape (v)去除/刮除, 刮傷, 搜刮, 刮擦 費盡千辛萬苦 (n)擦傷, 摩擦的聲音, 困境 = predicament = quagmire = quandry
+    * scramble (v)(艱難地)移動/爬/攀登 = clamber, 爭搶, 緊急起飛, 使混雜 (n)(艱難的)移動/爬/攀登, 匆匆的行爲, 搶奪/爭搶, 炒蛋
+    * scrape (v)去除/刮除, 刮傷, 搜刮, 刮擦, 費盡千辛萬苦 (n)擦傷, 摩擦的聲音, 困境 = predicament = quagmire = quandry
     * seasoned (adj)有經驗的/訓練有素的
     * seasoning (n)調味品/佐料
     * seasonable (adj)當令的, 適時的 = timely = opportune
-    * secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣 --> secretary (n)秘書
+    * secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣
+    ** secretary (n)秘書
     * seize (v)抓住, 奪取/攫取, 沒收/查獲, (強烈情感或劇痛)突然侵襲
-    * serene (adj)寧靜的/平靜的 = peaceful = equable = impassive = tranquil, 晴朗的/無雲的
+    * /sɪˈriːn/ serene (adj)寧靜的/平靜的 = peaceful = equable = impassive = tranquil, 晴朗的/無雲的
     * sermon (v)長篇說教, 佈道/講道 = homily
-    *** severe (adj)嚴厲的/嚴苛的 = harsh = austere = acerbic = stern = stringent = scathing = severe = rigor, 苛刻的 = condemnatory, 嚴峻的/艱難的 = exigent, 嚴肅的/正經的 = sober = solemn = austere, 樸素的 = sober
-    * shaggy (adj)長滿粗毛的, 頭髮蓬亂的, 草木叢生的, （毛髮等）粗濃的 = hirsute
-    * shave (v)剃去……上的毛髮/修剪, 刨/切成薄片, 擦過/掠過/勉強通過
-    * shed (n)棚/小屋, 庫房/車庫, 脫落之物 (v)流出/流下, 使脫落/使掉落 = molt
-    ** sheer (adj)極薄的 = gossamer = diaphanous, 純粹的, 完全的 = utter = unqualified, 陡峭的 = steep <|> queer
-    * shelter (n)掩蔽/遮蔽 = refuge = asylum (v)躲避/保護/遮蔽, 為...提供避難的地方, 合法避稅 
-    * shrivel (v)枯萎/乾枯 = wither = wizen, 使萎縮/漸漸減少 = dwindle = wither = diminish, 變得無用
+    *** /sɪˈvɪə/ severe (adj)嚴厲的/嚴苛的 = harsh = austere = acerbic = stern = stringent = scathing = severe = rigor, 苛刻的 = condemnatory, 嚴峻的/艱難的 = exigent, 嚴肅的/正經的 = sober = solemn = austere, 樸素的 = sober
+    * /ˈʃaɡi/ shaggy (adj)長滿粗毛的, 頭髮蓬亂的, 草木叢生的, （毛髮等）粗濃的 = hirsute
+    ** shave (v)剃去……上的毛髮/修剪, 刨/切成薄片, 擦過/掠過/勉強通過
+    *** shed (v)使脫落/使掉落 = molt, 捨棄 = discard, 投射 = cast = give off (n)棚/小屋/庫房/車庫
+    ** /ʃɪə/ sheer (adj)極薄的 = gossamer = diaphanous, 純粹的/完全的 = unmitigated = utter = unqualified, 陡峭的 = steep (adv)垂直地, 完全地 (v)船急轉向 <|> queer <|> /ʃɛː/ share
+    * shelter (n)掩蔽/遮蔽 = refuge = asylum (v)躲避/保護/遮蔽, 為...提供避難的地方, 合法避稅
+    * /ˈʃrɪv(ə)l/ shrivel (v)枯萎/乾枯 = wither = wizen, 使萎縮/漸漸減少 = dwindle = wither = diminish, 變得無用
     *** showy (adj)引人注目的 = striking, 炫耀的/浮華的/俗艷的 = tawdry = meretricious = gaudy = ostentatious = flamboyant
     * sift (n/v)篩/過濾 = winnow = riddle
-    ** sincere (adj)真誠的/正直的 = earnest = upright, 真的 = genuine = real, 純的 = pure = unadulterated --> sincerity (n)真實, 誠心誠意
-    * sinew (n)活力/精力, 主要支柱, 肌腱 = tendon (v)支持/加強
+    ** /sɪnˈsɪə/ sincere (adj)真誠的/正直的 = earnest = upright --> sincerity (n)真實, 誠心誠意
+    * /ˈsɪnjuː/ sinew (n)活力/精力, 主要支柱, 肌腱 = tendon (v)支持/加強
     * skip (v)蹦蹦跳跳, 跳繩, 略過, 迅速翻閱, 衝衝離開 (n)蹦蹦跳跳, 大垃圾桶/廢料桶
     *** slack (adj)鬆弛的 = lax, 懈怠的/疏忽的 = lax = negligent = careless = remiss, 懶惰的 = sluggish = indolent, 蕭條的/冷清的 (n)鬆弛/不緊 (v)鬆懈/懈怠 --> slacken (v)鬆懈/怠惰
     * slander (n/v)誹謗/詆毀 = aspersion = calumny = calumniate = defame = malign = vilify --> slanderous (adj)誹謗的
     * slant (v)傾斜, 偏頗地陳述 (n)傾斜, 斜面 = cant, 偏向/傾向
     * slave (n)奴隸 (v)奴隸般工/苦幹
-    ** sleight (n)靈巧/熟練 = skill = dexterity, 計謀/詭計 = artifice = stratagem, 狡詐 = cunning = guile = craft = humbug
+    ** /slʌɪt/ sleight (n)靈巧/熟練 = skill = dexterity, 計謀/詭計 = artifice = stratagem <|> /slʌɪt/ slight
     *** slick (adj)光滑的 = smooth = slippery, 陳腐的 = trite = hackneyed, 精明的/狡猾的 = wily = clever, 有技巧的 = skillful = deft, 一流的
     ** slur (v)口齒不清地說, 誹謗/詆毀 = calumniate = disparage = depreciate = derogate = vilify (n)含糊的發音, 誹謗/詆毀 = denigrate
-    ** sly (adj)狡猾的/狡詐的 = shifty = cunning = furtive = crafty = wily, 悄悄的/鬼鬼祟祟的 = stealthy = furtive, 淘氣的
+    ** sly (adj)狡猾的/狡詐的 = shifty = cunning = furtive = crafty = wily, 悄悄的/鬼鬼祟祟的 = surreptitious = stealthy = furtive, 淘氣的
     * smack (v)(作爲懲戒孩子的)掌摑/打, 撞/使勁摔 (n)掌摑/打, 呯的一聲, 海洛因 (adv)不偏不倚地/正好, 猛地/徑直
     * smear (v)塗抹, 弄髒 = stain, 玷污 = defame = taint = sully (n)污漬 = spot, 誹謗/污衊, 抹片檢查
-    * smirch (n)污點 = smear (v)弄髒 = sully = soil, 玷污 = sully = tarnish = disgrace = discredit
+    * /sməːtʃ/ smirch (n)污點 = smear (v)弄髒 = sully = soil, 玷污 = sully = tarnish = disgrace = discredit = taint
     * smooth (adj)光滑的, 平穩的 (v)弄平/使光滑, 消除
     * smudge (v)弄髒 = blot = stain (n)污跡/污痕 = blemish = blotch
-    ** smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek (n)沾沾自喜的人
+    ** smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek = tidy (n)沾沾自喜的人
     * smuggle (v)走私
     * snatch (v)抓 = grab = grasp, 搶救, 綁架 = kidnap (n)片刻, 片段 = bit, 綁架
-    ** snob (n)勢利的人, 假內行 --> snobbish (adj)勢利眼的, 假充紳士的 --> snobbery (n)勢利
+    ** snob (n)勢利鬼, 自負傲慢的人 <|> snub --> snobbish (adj)勢利眼的, 自負傲慢的 --> snobbery (n)勢利
     * soak (v)浸泡, 使濕透, 吸收, 使熱衷 (n)浸泡/浸漬, 酒鬼
     * sociable (adj)好交際的/善於社交的 = convivial
-    * soil (n/v) (尤指因大便)弄髒 (n)泥土/土壤, 國家/國土
+    * /sɔɪl/ soil (n/v) (尤指因大便)弄髒 (n)泥土/土壤, 國家/國土
     *** solemn (adj)嚴肅的/莊嚴的 = sober = austere = severe, 正式的, 陰鬱的 = somber = gloomy --> solemnity (n)莊嚴/肅穆
     * soothe (v)使平靜/安慰 = mollify, 減輕/緩解(疼痛) = allay = alleviate = assuage
     * sour (adj)酸的, 不友好的/壞脾氣的/沒好氣的 = acerbic (v)(使)酸腐 = spoil (n)沙瓦/酸味雞尾酒

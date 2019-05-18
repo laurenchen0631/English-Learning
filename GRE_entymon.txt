@@ -847,7 +847,7 @@
         - precipice (n)懸崖
         - precipitant (n)沈澱物
         + precept (n)格言/箴言, (尤指道德方面的)規矩/準則 = principle = law = canon = tenet
-        + precipitate (v)促成/加速…的發生 = accelerate, 使直直落下 (adj)倉促的/貿然的/輕率的 = rash = hasty = sudden = plunge
+        + precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
         - precipitation (n)降水, 急躁/衝動
         - receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
         - receptacle (n)容器
@@ -3587,8 +3587,8 @@
         - remit (v)寬恕/赦免, 緩和/減輕/減退, 鬆懈, 提交/移交(問題), 匯寄/匯付
         - remiss (adj)疏忽的/懈怠的 = slack
         - remission (n)寬恕/赦免, (疾病的)緩解期, 減刑
-        * submit (v)提交, 建議, 順從/屈服
-        * submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential = yielding
+        *** submit (v)提交, 建議, 順從/屈服
+        *** submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential = yielding
         - submission (n)屈從/歸順/服從, 提交
         - surmise (n/v)推測/猜測 = infer = guess = speculate
         - transmit (v)傳送/傳播
@@ -3788,7 +3788,7 @@
 
     metr, meter, mens, mensur, mense 測量/儀表 = measure
         - barometer
-        + commensurate (adj)相當的/相稱的 = proportional, 同樣大小的
+        + commensurate (adj)相當的/相稱的 = proportional, 同樣大小的 <--> incommensurate
         - diameter (n)直徑
         - dimension (n)空間/尺寸, 維度/特點
         + immense (adj)極大的 = vast = huge, 無限的 = limitless = infinite = immeasurable = boundless --> immensity (n)巨大之物, 巨大/無限
@@ -5745,7 +5745,7 @@
         - assemble (v)聚集 = aggregate = agglomerate = amass, 安裝
         - asymmetric (adj)不對稱的
         - assimilate (v)同化 = accommodate = adapt, 吸收 = comprehend
-        + dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak, 假裝 = feign
+        +++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak, 假裝 = feign
         - dissimulate (v)掩蓋/掩飾 = dissemble
         - ensemble (n)整體/全體, 合奏/合唱
         + idiosyncrasy --> idiosyncratic
@@ -6192,7 +6192,7 @@
             + maintain (v)維持/保持/維修 = preserve = retain, 堅持/主張 = assert = affirm = declare
             + maintenance (n)維持/維護, 贍養費 = alimony
             + tenacious (adj)緊握的, 堅忍不拔的/頑強的/固執的 = stubborn = adamant --> tanacity (n)堅持/固執
-            - tenable (adj)可維持的
+            * tenable (adj)可維持的 <--> untenable
             - tenacity (n)頑固/固執
             * tenant (n)承租人/房客/佃戶 (v)租借
             + tenet (n)信教/宗旨/原則 = doctrine = belief = canon = precept
@@ -6201,7 +6201,7 @@
 
     tend, tent, tense 伸展 = stretch
         * attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
-        ++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
+        +++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
         ++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial
         + distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
         + extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
