@@ -1,62 +1,167 @@
 [General]
-- off-duty == not engaged in or occupied with regular work, not on duty 
-- pension == A regular payment made by the state to people of or above the official retirement age and to some widows and disabled people.
-- tenure
-	> |The conditions under which land or buildings are held or occupied| 
-	> |The holding of an office.|
-	> 任期 |Guaranteed permanent employment| At 38, Harry Overly was decades younger than the tenured raisin man he replaced as the chief executive of Sun-Maid
-	> |Give (someone) a permanent post, especially as a teacher or lecturer. | I had recently been tenured and then promoted to full professor
-- chief executive 首席執行官
-- knowledge economy 知識經濟
-- brain drain 人才流失
-- onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
-- overtime == Time worked in addition to one's normal working hours
+	- off-duty == not engaged in or occupied with regular work, not on duty 
+	- pension == A regular payment made by the state to people of or above the official retirement age and to some widows and disabled people.
+	- tenure
+		> |The conditions under which land or buildings are held or occupied| 
+		> |The holding of an office.|
+		> 任期 |Guaranteed permanent employment| At 38, Harry Overly was decades younger than the tenured raisin man he replaced as the chief executive of Sun-Maid
+		> |Give (someone) a permanent post, especially as a teacher or lecturer. | I had recently been tenured and then promoted to full professor
+	- chief executive 首席執行官
+	- the general manager 總經理
+	- chairman 議長/委員長/董事長
+	- VP == Vice President
+	- knowledge economy 知識經濟
+	- brain drain 人才流失
+	- onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
+	- overtime == Time worked in addition to one`s normal working hours
+	- secretary == A person employed by an individual or in an office to assist with correspondence
+	- apprentice /əˈprɛntɪs/ == learn
+	- Ltd == limited liability company 
+	- Inc == incorporation
+	- emeritus 榮譽退休 == (of the former holder of an office, especially a university professor) having retired but allowed to retain their title as an honour.
+	- take-home pay == the amount of earnings that you have left after tax, etc.
+	- pre-tax salary 
+	- rank and file == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
+	- subcontractor == A firm or person that carries out work for a company as part of a larger project
+	- C-suite  ==  the group of the most important managers in a company, for example, those whose titles begin with the letter C, for 'chief'
+	- demote == Move (someone) to a lower position or rank, usually as a punishment.
+
+[House]
+	- butler == The chief manservant of a house.
+	- manor 莊園 == A large country house with lands.
+	- detergent 洗潔劑
+	- utensil == A tool, container, or other article, especially for household use.
+
+[Media]
+	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
+	- obituary 訃告 == A notice of a death, especially in a newspaper
+
+[Finance]
+	- IPO == Initial Public Offerings 首次公開募股
+	- underwater == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
+	- earnings call == a teleconference in which a public company talks about its financial situation
+	- fiduciary duty 信託義務
+	- Series A financing/funding A輪融資
+	- venture capital 創業投資
+	- mortgage 抵押貸款 == A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.
+	- real estate 房地產
 
 [Law]
-- the Supreme Court 最高法院
-- the Fifth Amendment 第五修正案
+	- the Supreme Court 最高法院
+	- the Fifth Amendment 第五修正案
+	- appeals court 上訴法院
+	- trial court 初審法院
+	- the Circuit Court 美國巡迴上訴法院
 
 [Army]
+	- captain
+	- lieutenant 中尉/少尉, 海軍上尉 
 
 [Aviation]
-- captain 機長
-- first officer 副機長
-- control column 駕駛桿
-- rollout == The unveiling of a new aircraft or spacecraft
+	- captain 機長
+	- first officer 副機長
+	- control column 駕駛桿
+	- rollout == The unveiling of a new aircraft or spacecraft
 
 [Agriculture]
-- anch == A large farm where cattle or other animals are bred. 
+	- ranch == A large farm where cattle or other animals are bred. 
+	- compost
+		>> |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
+		>> |Make (vegetable matter or manure) into compost.| don't compost heavily infested plants
 
 [Cook/Food]
-- Worcestershire sauce 伍斯特醬
-- marinade 醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
-- vinegar 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
-- marmalade 果醬 == A preserve made from citrus fruit, especially bitter oranges.
-- raisin /ˈreɪz(ə)n/ == A partially dried grape.
-- pomegranate 石榴 == An orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh 
-- pistachio 開心果 == The edible pale green seed of an Asian tree.
-- Soylent 一種代餐飲料
+	- Worcestershire sauce 伍斯特醬
+	- marinade 醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
+	- vinegar 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
+	- marmalade 果醬 == A preserve made from citrus fruit, especially bitter oranges.
+	- raisin /ˈreɪz(ə)n/ == A partially dried grape.
+	- pomegranate 石榴 == An orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh 
+	- pistachio 開心果 == The edible pale green seed of an Asian tree.
+	- Soylent 一種代餐飲料
+	- meringue 酥皮/蛋白酥
+	- tequila 龍舌蘭
+	- vintage
+		> |The year or place in which wine, especially wine of high quality, was produced.| 1982 is one of the best vintages of the century
+		> |A wine of high quality made from the crop of a single identified district in a good year.|
+		> |The time that something of quality was produced.|
+		> |Relating to or denoting wine of high quality.|
+		> |Denoting something from the past of high quality, especially something representing the best of its kind.| a vintage Sherlock Holmes adventure
 
 [Medicine]
-- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
-- midwife == A person, typically a woman, who is trained to assist women in childbirth.
-- postpartum hemorrhage 產後出血
-- stillborn == (of an infant) born dead
-- forceps 鉗子
-- chloroform 氯仿
-- umbilical cord 臍帶
-- metastasize == (of a cancer) spread to other sites in the body by metastasis.
+	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
+	- midwife == A person, typically a woman, who is trained to assist women in childbirth.
+	- postpartum hemorrhage 產後出血
+	- stillborn == (of an infant) born dead
+	- forceps 鉗子
+	- chloroform 氯仿
+	- umbilical cord 臍帶
+	- metastasize == (of a cancer) spread to other sites in the body by metastasis.
+	- ophthalmologists 眼科醫生
+	- pathologists 病理學家
+	- strabismus 斜視
+	- syphilis 梅毒
+	- laceration == A deep cut or tear in skin or flesh.
+	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.
+	- tourniquet 止血帶 == A device for stopping the flow of blood through a vein or artery, typically by compressing a limb with a cord or tight bandage.
+	- sanitizer 洗手液
+	- first aid kit 急救箱
+	- hemostatic == stopping of a flow of blood.
+	- clot
+		> |A thick mass of coagulated liquid, especially blood, or of material stuck together.| 
+		> |Form or cause to form clots.| drugs that help blood to clot
+	- opioid 類鴉片藥物
+	- kidney stone
+	- abortion
+		> |The deliberate termination of a human pregnancy, most often performed during the first 28 weeks of pregnancy.| concerns such as abortion and euthanasia
+		> |The expulsion of a fetus from the uterus by natural causes before it is able to survive independently.|
+		> |The arrest of the development of a seed, fruit, or other organ.|
+		> |An object or undertaking that is unpleasant or badly made or carried out.|
+	- ultrasound 超音波
+	- postmortem
+		> |An examination of a dead body to determine the cause of death.|
+		> |An analysis or discussion of an event held soon after it has occurred, especially in order to determine why it was a failure.| an election postmortem on why the party lost
+		> |Relating to a postmortem.|
 
 [Clothing]
-- corset 緊身胸衣 == A woman's tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
-- cashmere scarves 喀什米爾羊絨圍巾
-- trench coats 風衣
+	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
+	- cashmere scarves 喀什米爾羊絨圍巾
+	- trench coats 風衣
+	- tuxedo /tʌkˈsiːdəʊ/ 晚禮服 == A man's dinner jacket
+	- fleece
+		> |The woolly covering of a sheep or goat.|
+		> |A soft warm fabric with a texture similar to sheep's wool, used as a lining material.|
+		> |A jacket or other garment made from a fleece fabric.|
+		> |obtain a great deal of money from (someone), typically by overcharging or swindling them.| the city's cab drivers are notorious for fixing fares and fleecing tourists
+		> |Cover as if with a fleece.| the sky was half blue, half fleeced with white clouds
 
 [Music]
-- the Beatle 披頭四樂團
+	- the Beatle 披頭四樂團
+
+[Art]
+	- the Mona Lisa
+	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
+	- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
+	- The Last Supper 最後的晚餐
 
 [Religion]
-- clergymen == A male priest, minister, or religious leader
+	- clergymen == A male priest, minister, or religious leader
+	- vigil
+		> 守夜 |A period of keeping awake during the time usually spent asleep, especially to keep watch or pray.| 
+		> |(in the Christian Church) the eve of a festival or holy day as an occasion of religious observance.|
 
-[Machinery]
-- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
+[Engineer]
+	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
+	- mechanic == A skilled worker who repairs and maintains vehicle engines and other machinery.
+	- mechanics
+		> 力學/機械學 |the branch of applied mathematics dealing with motion and forces producing motion.|
+		> 機件 |The machinery or working parts of something| he looks at the mechanics of a car before the bodywork
+	- incandescent lamp 白熱燈泡
+	- conduit /ˈkɒndjʊɪt/, /ˈkɒndɪt/
+		> |A channel for conveying water or other fluid.| nearby springs supplied the conduit which ran into the brewery.
+		> |A tube or trough for protecting electric wiring| the gas pipe should not be close to any electrical conduit
+
+[Sea]
+	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
+[Political]
+	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
+	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.

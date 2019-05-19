@@ -1,7 +1,7 @@
 [Vocabulary]
 - identify
 - amazing
-- in phase with == in harmony with
+* in phase with == in harmony with
 - parallel
 - in comparison == in contrast
 - diffuse == spread == scatter

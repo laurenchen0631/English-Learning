@@ -6,7 +6,7 @@ By Campbell Robertson | May 12, 2019
 BECKLEY, W.Va. — On a spring day in 2017, Stephanie Frame sat down in her hilltop home deep in the mountain hollows to record a video.
 She began with the litany of local decline: the vanishing jobs in the coal mines, the shuttering stores, the school that closed down. During one stretch of unemployment for her coal miner husband, the two had resorted to selling ramps, ginseng and yellowroot that they had dug up in the forest.
 	> shutter
-		> NA |Close (a business)| ‘the city was gripped by economic forces that were squeezing its tax base and shuttering its factories
+		> NA |Close (a business)| the city was gripped by economic forces that were squeezing its tax base and shuttering its factories
 		> 百葉窗 |Each of a pair of hinged panels fixed inside or outside a window that can be closed for security or privacy or to keep out the light.|
 		> 快門 |A device that opens and closes to expose the film in a camera.|
 	> close down == shutter == cease or cause to cease business or operation, especially permanently.
@@ -140,7 +140,7 @@ As Ms. Laucher shared the news, other students were angry, and suspicious.
 “Even in the moment I’m hearing this I’m thinking, ‘O.K., this isn’t adding up,’” Mr. Phelps said.
 	> add up 
 		>> |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people's health.
-		>> |o seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+		>> |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
 Ms. Bolyard wondered whether Mined Minds simply couldn’t afford the apprenticeships. “They were just making excuses to get rid of people,” she said.
 Tori’s parents told her to just finish the class, but she couldn’t. She sent a formal resignation letter, citing broken promises and a “party culture” that turned her off. Nearly all of the other students, infuriated by the whole thing, followed.
 	> turn off

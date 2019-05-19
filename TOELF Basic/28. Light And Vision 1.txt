@@ -2,7 +2,7 @@
 - complex == complicated == intricate
 - system 
 - allow == let == permit
-- intricate == complex == complicated
+* intricate (ADJ) == complex == complicated
 - pose == raise == present == put forward
 - work out == formulate == devise
 - curiosity == interest == inquisitiveness
@@ -20,6 +20,6 @@ Of all the world's species, human beings have the most complex visual system. Th
 - row	/rəʊ/
 - rule	/ruːl/
 - astronaut
-- in space 
+- "in" space 
 - measure to N
 - pose a question

@@ -1,11 +1,11 @@
 [Vocabulary]
 - permeate == penetrate
-- so as to == in order to == for the purpose of 
+* so as to == in order to == for the purpose of 
 - existence == being
 - concept == idea = notion == thought
 - comprehensible == understandable
 - individual 
-- postulate == claim == assume
+* postulate == claim == assume
 - substance == stuff == material
 - explode == blow up == burst
 - vanish == disappear

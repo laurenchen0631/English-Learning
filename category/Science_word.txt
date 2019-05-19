@@ -1,21 +1,34 @@
 [Unit]
-- kilowatt-hour == a unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules
-- kiloliter
-- pound == 0.45359237 kilogram
-- square foot 平方英尺
+	- kilowatt-hour == a unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules
+	- kiloliter
+	- pound == 0.45359237 kilogram
+	- square foot 平方英尺
+	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
+	- are 公畝 == 100 square meters == 119.6 square yards
+	- degree Celsius == °C
+	- dozen == twelve
+	- millennium == A period of a thousand years, especially when calculated from the traditional date of the birth of Christ.
 
 [Chemical]
-- carbon dioxide
-- oxygen
-- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
-- nitric 硝酸
-- fluoride 氟化物
-- phosphate 磷酸鹽
-- platinum == a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals. Symbol : Pt
-- palladium == a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum. Symbol : Pd
+	- carbon dioxide
+	- oxygen
+	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
+	- nitric 硝酸
+	- fluoride 氟化物
+	- phosphate 磷酸鹽
+	- platinum == a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals. Symbol : Pt
+	- palladium == a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum. Symbol : Pd
+	- cholesterol 膽固醇
+
+[Physical]
+	- wavelength 波長
+	- light wave 光波
 
 []
-- greenhouse effect
+	- greenhouse effect
+	- epicenter
+		> |The point on the earth's surface vertically above the focus of an earthquake.| 
+		> |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
 
 [Photograph]
-- platinum palladium printing 鉑鈀印相
+	- platinum palladium printing 鉑鈀印相

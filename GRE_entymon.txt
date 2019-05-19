@@ -161,7 +161,7 @@
         - amicable (adj)(他人)友好的 = amiable
         - amity (n)友好關係
         + enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
-        - glamour (n)吸引力/魅力
+        * glamor, glamour (n)吸引力/魅力
 
     ambi, amphi 
         1. 二 = both, two
@@ -3318,7 +3318,7 @@
         + levity (n)輕率/輕浮 = frivolity = giddiness, 消遣 = mirth = hilarity
         + elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift, 提高休養 = raise
         - lever (n)槓桿, 手段 (v)用槓桿撬起
-        - levy (n/v)徵稅 = impose, 徵兵
+        * levy (n/v)徵稅 = impose, 徵兵
         + relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 正確的/適宜的
         + relevance (n)關聯/相關, 適宜
         * relieve (v)緩解/減輕(疼痛或擔憂), 緩解(局勢), 救濟/援助, 接替/換班, 解圍/解救
@@ -3951,7 +3951,7 @@
         - nominate (v)提名, 任命/指定
         - denominate (v)命名, 結算(貨幣) --> denomination (n)名稱, (貨幣或長度的)單位
         + misnomer (n)誤稱/人名誤載
-        + renown (n)名聲/聲譽 = fame --> renowned (adj)有名的/著名的
+        +++ renown (n)名聲/聲譽 = fame --> renowned (adj)有名的/著名的
 
     not 標示/注意 = note, mark
         - annotate (v)註解/註記
@@ -4948,7 +4948,7 @@
         - implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge
 
     prav 不正派的 = crooked
-        * deprave (v)使墮落 --> depraved (adj)墮落的/腐敗的 = putrid = vicious = profligate --> depravity (n)墮落 = turpitude, 惡習 <|> deprivation
+        *** deprave (v)使墮落 --> depraved (adj)墮落的/腐敗的 = putrid = vicious = profligate --> depravity (n)墮落 = turpitude, 惡習 <|> deprivation
 
     pute 思考 = reckon, consider, think
         + dispute (n)(勞資雙方或相鄰兩國之間的)爭執/糾紛 (v)辯論 = debate = gainsay, 爭執 = wrangle = quarrel
@@ -5099,7 +5099,7 @@
             - recompense
             + reconcile
             + recount (v)重新計算, 詳述/敘述
-            ** recreate (v)消遣/娛樂 --> recreatation (n)
+            ** recreate (v)消遣/娛樂 --> recreation (n)
             + recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
             - recruit
             +++ redeem (v)償還/還清, 買回/贖回, 兌現/兌換現金, 履行 = fulfill, 補償 = offset, 贖救/解救 <-- re + deem 買 = buy
@@ -5149,7 +5149,7 @@
             +++ remark (v)談到 = say, 注意/覺察 = note = perceive = observe (n)言辭/談論, 注意/察覺 --> remarkable (adj)值得注意的/非凡的/出色的
             - remind (v)提醒/使想起 --> reminder (n)提醒人記憶之物
             - reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
-            - reminiscent (adj)回憶往事的/懷舊的, 發人聯想的 = redolent <-- re + min 思維 = mind + iscent
+            * reminiscent (adj)回憶往事的/懷舊的, 發人聯想的 = redolent <-- re + min 思維 = mind + iscent
             - remiss
             - remission
             - remnant (n)殘餘物 = remainder, 零頭布料 <-- remain
@@ -5917,7 +5917,8 @@
         - constrict (v)壓縮/收縮, 限制/約束 = limit
         - destrain (v)扣押
         + prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
-        + restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle = stint --> restraint (n)克制 = stint --> restrained (adj)克制的
+        + restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle = stint --> restrained (adj)克制的
+        + restraint (n)克制 = stint 
         * restrict (v)限制/妨礙 --> restriction (n)限制 = stricture
         - strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived
         ++ strict (adj)周密的/詳細的 = close = careful = minute, 嚴謹的 = stringent = exacting, 嚴格的 = stern = severe = austere = stringent, 完全的 = absolute = complete = utmost --> stricture (n)苛評/非難 = censure, [醫]狹窄部位, 限制 = restriction

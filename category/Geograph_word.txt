@@ -1,5 +1,8 @@
 [General]
 - suburb == An outlying district of a city, especially a residential one.
+- continent /ˈkɒntɪnənt/
+- temperate zone 溫帶
+- tropic 熱帶
 
 [U.S POI]
 - the United States
@@ -22,13 +25,21 @@
 - Sunbelt 太陽帶是指美國南部北緯37度以南的地區。北卡羅來納州 南卡羅來納州 喬治亞州 佛羅里達州 阿拉巴馬州 密西西比州 路易斯安那州 德克薩斯州 新墨西哥州 田納西州 阿肯色州 俄克拉荷馬州 亞利桑那州 加利福尼亞州
 - the Midwest 美國中西部通常指的是美國地理上中北部的州，包括俄亥俄州、印第安那州、密西根州、伊利諾州、威斯康辛州、愛荷華州、肯薩斯州、密蘇里州、明尼蘇達州、內布拉斯加州、北達科他州及南達科他州
 - the Southwest 美國西南部，主要為亞利桑那州和新墨西哥州。
+- the Great Smoky Mountains 大霧山
+- the Rocky Mountains 洛磯山脈
+- the Northern Rockies 北落磯山脈
+- the Columbia River 哥倫比亞河，起源於洛磯山脈在加拿大不列顛哥倫比亞內的部分，向西北方向蜿蜒，然後向南流入美國境內的華盛頓州，
+- the Missouri River 密蘇里河，是密西西比河最長的支流
+- the Yosemite Valley 優勝美地谷
+- the Yellowstone River 黃石河，美國西部密蘇里河的一條支流
 
 [U.S. State]
 - Nevada
 - California
 - Mississippi
-- North Carolina
-- South Carolina
+- North Carolina 北卡羅來納州
+- South Carolina 南卡羅萊納州
+- West Virginia
 - Connecticut 康乃狄克州，是美國東北部的一州，也是新英格蘭區域中最南的一州
 - Vermont 佛蒙特州 
 - New Hampshire 新罕布夏州，位於美國東北部新英格蘭地區的一個州，南接馬薩諸塞州，西接佛蒙特州
@@ -46,6 +57,9 @@
 - the Dakotas 達科他地區。包然北達科他州與南達科他州
 - Ohio 俄亥俄州位於美國中東部，是五大湖地區的組成部分
 - Michigan 密西根州，位於五大湖地區。
+- Louisiana 路易斯安那州，位於墨西哥灣沿岸
+- New Orleans 新奧爾良
+- Broadway 百老匯
 
 [World]
 - the Western Hemisphere
@@ -56,3 +70,21 @@
 - Eurasia 歐亞大陸 
 - Venezuela 委內瑞拉
 - Indian
+- the Indies 印度群島
+- the Azores 亞速爾群島
+- Lebanon 黎巴嫩
+- Mexico
+- New Mexico
+- Greece 希臘
+- Greek 希臘的/希臘人
+- Rome 羅馬
+- Roman 羅馬人/羅馬的
+- Arezzo 阿雷佐位於義大利中部托斯卡納大區
+- Piacenza 皮亞琴察是義大利北部艾米利亞-羅馬涅地區的一座城市
+- Lithuania 立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
+
+[Worldwide POI]
+- Vesuvius 維蘇威火山
+
+[Ocean]
+- the Pacific Ocean

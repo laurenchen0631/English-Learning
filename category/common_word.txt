@@ -19,7 +19,24 @@
 	- as
 	- as of [time] 截至...
 		> While she appeared at an event in March to honor victims of the New Zealand shootings, as of mid-March she had no more public appearances on her schedule.
+	- all walk of life == different types of jobs and different levels of society
+		> Attendees came from all walks of life -- they were young and old, working and retired.
+	- add
+	- add up 
+		> |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people's health.
+		> |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+	- alongside
+		> |Close to the side of; next to.| she was sitting alongside him
+		> |Together and in cooperation with.| a care assistant was working alongside him
+		> |At the same time as or in coexistence with.| they aim to encourage coverage of disabled sport alongside able-bodied achievement
+
 [B]
+	- but
+		> CONJUNCTION
+		> PREPOSITION |Except; apart from; other than| supply currently exceeds demand in all but the most rural areas
+		> ADVERB |No more than; only| he is but a shadow of his former self
+		> NOUN |An argument against something; an objection| no buts—just get out of here
+
 	- become -> became -> become
 		> |Begin to be.| she became angry and sulked all day
 		> |of clothing) look good on or suit| mourning regalia became her
@@ -43,14 +60,29 @@
 		> |Endure (an ordeal or difficulty)| she bore the pain stoically
 		> |Give birth to/produce| she bore six daughters
 		> |Turn and proceed in a specified direction.| bear left and follow the old road
-
-
+	- burn -> burnt -> burnt
 	- bear down == to put more effort into doing something 
 		> Vast, systemic challenges tend to short-circuit our primate brains. So we go on, as the grim future bears down.
 	- bear oneself == Carry or conduct oneself in a particular manner.
 		> she bore herself with dignity
 	- cannot bear someone/something == Strongly dislike 
 		> I can't bear caviar
+	- bill
+		> |A printed or written statement of the money owed for goods or services.| the bill for their meal came to £17
+		> |A draft of a proposed law presented to parliament for discussion.| a debate over the civil rights bill
+		> |A programme of entertainment at a theatre or cinema.| she was top of the bill at America's leading vaudeville house
+		> |A banknote.|
+		> |A poster or handbill.| he has been hard at work bill posting in a poster and sticker campaign
+		> |List (a person or event) in a programme.| they were billed to appear but did not show up
+		> |Send a bill to (someone)| we shall be billing them for the damage caused
+		> |The beak of a bird, especially when it is slender, flattened, or weak, or belongs to a web-footed bird or a bird of the pigeon family.| 
+		> |The peak of a cap.|
+	- break
+	- break out
+		> |to escape from prison| They broke out of prison and fled the country.
+		> |to escape from a place or a situation| wo inmates broke out of prison and are still at large.
+		> |to suddenly starts| Fighting has broken out all over the city.
+		> |to suddenly begin to have a rash| I hate it when I break out in hives.
 [C]
 	- care
 	- carry
@@ -87,7 +119,16 @@
 		> |A group of people entrusted by a government or other official body with authority to do something.| a commission was appointed to investigate allegations of police violence
 		> |A warrant conferring the rank of officer in an army, navy, or air force.| he has resigned his commission
 		> |The action of committing a crime or offence.| the commission of an arrestable offence
+	- continue Ving
+		> In the last century, use of these fuels totaled almost half of that used in the preceding 19 centuries and consumption is expected to continue growing, by about 25 percent by the year 2000.
+	- close
+	- close down == shutter == cease or cause to cease business or operation, especially permanently.
+		> She began with the litany of local decline: the vanishing jobs in the coal mines, the shuttering stores, the school that closed down.
 [D]
+	- date
+	- date back to == to have been made in or to have come into being in (a certain time in the past)
+		> They found jewelry dating back to the 1700s.
+		> Such uses of sunlight date back to 2,500 years to the world of the ancient Greeks and Romans, whose building were designed to catch more sun in cooler months than warmer ones, much like modern energy-efficient structures are today.
 	- direct /dʌɪˈrɛkt/, /dɪˈrɛkt/
 		> |Extending or moving from one place to another without changing direction or stopping.| there was no direct flight that day
 		> |Without intervening factors or intermediaries.| the complications are a direct result of bacteria spreading
@@ -106,6 +147,16 @@
 
 	- deal with == cope with == treat == handle
 		> Alligator is fierce when dealing with other animals but very shy in encounters with humans
+	- drag
+		> |Pull (someone or something) along forcefully, roughly, or with difficulty.|
+		> |(of time) pass slowly and tediously.| the day dragged—eventually it was time for bed
+		> N |The action of pulling something forcefully or with difficulty.| 
+		> |A boring or tiresome person or thing.| working nine to five can be a drag
+		> |An act of inhaling smoke from a cigarette.| he took a long drag on his cigarette
+		> |clothing more conventionally worn by the opposite sex, especially women's clothes worn by a man.| a fashion show, complete with men in drag
+		> |A street or road.| ‘the main drag is wide but there are few vehicles
+		> |Influence over other people.| ‘they had the education but they didn't have the drag
+	- die Ving == die due to V
 [E]
 	- estimate /ˈɛstɪmeɪt/ V
 		> |Roughly calculate or judge the value, number, quantity, or extent of.| the aim is to estimate the effects of macroeconomic policy on the economy
@@ -119,6 +170,9 @@
 	- extent
 	- excel at == Be exceptionally good at or proficient in an activity or subject.
 		> It’s designed to excel at what e-commerce can’t do: convene people over the mouth-watering appeal of prize ingredients and freshly prepared food.
+	- establish
+	- establish oneself == stay or dwell
+		> Spain had established itself in Mexico, New Mexico, Arizona, and on the California coast
 [F]
 	- figure
 		> |A number, especially one which forms part of official statistics or relates to the financial performance of a company.| by 1998, this figure had risen to 14 million
@@ -142,7 +196,11 @@
 		> |Perform in a specified way in a particular situation or over a particular period.| the party fared badly in the elections
 		> |The money paid for a journey on public transport.| we should go to Seville, but we cannot afford the air fare
 		> |A range of food of a particular type.| traditional Scottish fare
-
+	- feel
+	- feel around
+		> |To grope around for something, especially in the dark or a similar situation where one's vision is limited|  I had to feel around for the light switch for a minute before I was able to find it.
+		> |to try to find someone or something by feel| He felt around for the soap in the bathtub.
+		> |To explore something by the sense of touch, especially when seeking an item| If you feel around in the sock drawer, you'll probably find your missing earrings.
 [G]
 	- great
 	- get
@@ -165,9 +223,13 @@
 		> |Have difficulty in doing something despite working hard.| Coley labored against confident opponents
 		> |(of a woman in childbirth) be in labor.| she labored very well and comfortably because she was relaxed
 
-	- lead
+	- lead -> led -> led
 	- lead to 
-
+	- lay
+	- lay off 
+		> |to end someone’s employment, especially temporarily, because there is not enough work for them| They’ve had to cut back production and lay off workers.
+		> |to stop doing something that is annoying someone| Lay off! I’m trying to study.
+		> |to stop doing or using something, especially for a short period of time| I had to lay off the medication for a while to see if that was causing my headaches.
 [M]
 	- make up
 		> |to create from the imagination| He made up a story
@@ -190,6 +252,17 @@
 [P]
 	- pick
 	- pick up == detect == catch
+	- pass
+	- pass on == to tell/give someone something that another person has told/given you
+		> With skills being passed on from master to apprentice, engineering was regarded as a trade rather than a profession up until the late 18th century
+	- pose
+		>> |Present or constitute (a problem or danger)| the sheer number of visitors is posing a threat to the area
+		>> |Raise (a question or matter for consideration)| the statement posed more questions than it answered
+		>> |Assume a particular position in order to be photographed, painted, or drawn.| the prime minister posed for photographers
+		>> |A way of standing or sitting, especially in order to be photographed, painted, or drawn.| 
+		>> pose as |Pretend to be (someone or something)| an armed gang posed as policemen to ambush a postman
+		>> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
+		>> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
 
 	- pull
 	- pull of
@@ -213,6 +286,7 @@
 		> ADV |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
 		> ADV |Used to indicate the lapse of time.| a week went past and nothing changed
 	- phenomenon /fəˈnɒmɪnən/ -> phenomena
+	
 
 
 [Q]
@@ -238,6 +312,20 @@
 		> Microsoft is rolling out templates later this year so people can easily optimize their Teams app to best suit particular industries, like marketing
 		> While Fitz and the Tantrums had already experienced success at home, the burst of fame on TikTok persuaded the band to focus on Asia as it rolls out its new album.
 [S]
+	- set
+	- set sth aside == to save something, usually money or time, for a special purpose
+		> More than 809,000 hectares were set aside eight years later to preserve the Yellowstone River's source, known for geyser and hot springs.
+	- set off
+		> |to start a journey, or to start going in a particular direction| We set off early the next morning.
+		> |to cause something to operate, especially by accident| Jeff pushed open the front door, which set off the alarm.
+		> |to make something explode| Somebody was setting off fireworks down the street.
+		> |to cause a situation or a series of events to happen, especially without intending to| He fears that the election could set off mass protests.
+		> |to make someone or something look more attractive by being clearly different from them| Her plain blue dress was set off by a feather-trimmed hat.
+		> |to make someone start to laugh, cry, or talk a lot| Just mentioning her father’s death could set her off again.
+
+	- stop
+	- stop Ving
+		> Death occurs when an organism stops functioning energetically enough to protect itself from these kinds of threats.
 	- serve
 		> |Perform duties or services for (another person or an organization)| Malcolm has served the church very faithfully
 		> |Present (food or drink) to someone.| they serve wine instead of beer
@@ -251,7 +339,6 @@
 		> |A person, especially a schoolteacher, acting as a temporary substitute for another.| a supply teache
 
 	- suffer 
-
 	- school
 		> |An institution for educating children.| 
 		> |Any institution at which instruction is given in a particular discipline.| a dancing school
@@ -272,9 +359,16 @@
 	- sort
 	- sort out == to do what is necessary to deal with a problem, disagreement, or difficult situation successfully
 		> If someone brought in a busted iPhone, a Genius would sort it out.
+	- strike
+	- strike down == (of a court) to decide that a law or rule is illegal and should be ignored
+		> The law resembles a Texas law struck down by Supreme Court in 2016.
+	- stem from
+		> In another case stemming from Indiana, a law requires an ultrasound 18 hours before the abortion procedure, essentially requiring a two-day process. 
 [T]
 	- throughout
 	- therefore /ˈðɛːfɔː/
+	- talk up == to discuss favorably == advocate == promote 
+		> Kushner has been talking up his immigration plan with the aid of a PowerPoint presentation, which detractors have derided as laughably simplistic.
 
 	- take
 	- takeoff
@@ -283,6 +377,11 @@
 	- take sth for example
 	- take for granted == to never think about something because you believe it will always be available or stay exactly the same
 		> And with new ways to sell food ascendant, legacy grocers like Rich Niemann are failing to bring back the customers they once took for granted
+	- take over == capture == seize
+		> Competitors may take over an organism's living space.
+	- take up
+		> |become interested or engaged in a pursuit.| she took up tennis at the age of 11
+		> |occupy time, space, or attention.| I don't want to take up any more of your time
 
 	- turn
 	- turn out
@@ -295,9 +394,30 @@
 	- turn over == to give someone or something to someone in authority, especially because they have ordered you to 
 		> Some years, like in 2002, the year that sent Mr. Horne through the roof, growers were compelled to turn over almost half their crop
 
+	- turn up
+		> |to increase the amount of sound, heat, or light produced by a piece of equipment by pressing a button or moving a switch| Can you turn the volume up a bit?
+		> |to come somewhere, especially unexpectedly or without making a firm arrangement| There is no need to book – just turn up on the night.
+		> |to be found, especially by accident, after being lost or not known about| The documents finally turned up in an office along the corridor.
+		> |to find something lost, hidden, or unexpected by looking for it| The police haven’t turned up anything new, have they?
+		> |to happen unexpectedly or by chance| You’ll get another job: something is bound to turn up soon.
+		> |to open a fold along the edge of a piece of clothing| He turned up his jacket collar against the cold.
+	- turn off
+		> |to stop a piece of equipment working temporarily by pressing a button or by moving a switch| Will you turn the television off, please?
+		> |to leave the road that you are travelling along in order to go along another one that leads away from it| Turn off the road onto a dirt driveway.
+		> |to make someone feel bored or no longer interested in something| This sort of talk could turn a lot of voters off.
+		> |to stop paying attention| When people lose interest they just turn off.
+
 	- think -> thought -> thought
 	- thought-out == thoroughly considered. 
 		> Ironically, for some, email has now become the place for well-thought-out communications while workplace software has been inundated by thoughtless meme and emoji sharing.
+	- trade 
+		>> |The action of buying and selling goods and services.| a significant increase in foreign trade
+		>> |Buy and sell goods and services.| middlemen trading in luxury goods
+		>> |Exchange (something) for something else, typically as a commercial transaction.| they trade mud-shark livers for fish oil
+		>> |A job requiring manual skills and special training.| the fundamentals of the construction trade
+		>> trades |A trade wind.| 
+[V]
+	- Velcro 魔鬼氈
 [W]
 	- warn someone of sth
 		> Stick shakers are designed to warn pilots of an impending stall

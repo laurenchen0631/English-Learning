@@ -9,15 +9,15 @@ Uber Technologies Inc. went public on the New York Stock Exchange today, followi
 		> |hasty; rash; impetuous.|
 		> |energetic or highly spirited, especially in an irreverent way; zesty|
 Uber priced its shares last night at $45 apiece, valuing the company at about $82 billion. At that price, 10 Uber shareholders would have come out of the IPO with stock holdings worth $1 billion or more, while another 15 have stakes worth at least $1 million. The billionaires include three original Uber employees—co-founders Travis Kalanick and Garrett Camp, and the company’s first CEO, Ryan Graves—while the millionaires are a mix of firms, company executives, and individual investors. (Uber board member Arianna Huffington just missed the $1 million threshold at the $45 IPO price, with a total stockholding value of $990,000.)
-	> apiece == apiece
+	> apiece 
 	> come out of sth == to be the result of something
+	> IPO == Initial Public Offerings 首次公開募股
 It’s not quite that simple, though. Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that. It’s likely the company suffered from the disappointing March IPO of competitor Lyft, which priced its stock at $72 a share but traded down almost immediately. Shares of Lyft were trading around $51 this morning, about 30% below the IPO price.
 	> Bankers had reportedly "sought a $120 billion valuation" for Uber. 銀行家對Uber的估值為1200億美元
 	> valuation == An estimation of the worth of something
 	> fall short of == to fail to reach an amount or standard that was expected or hoped for
 	> trade down == to spend less money when you buy things than you did before:
 Despite tempering expectations for its IPO, Uber opened down shortly before noon ET. The company’s stock tumbled about 5% out of the gate, to the $42 range.
-	> temper expectations
 	> open down
 	> ET == Eastern Time == a general term used to describe the areas that observe either the Eastern Standard Time (EST) or Eastern Daylight Time (EDT) in the United States and Canada.
 	> tumble == Fall suddenly, clumsily, or headlong.
