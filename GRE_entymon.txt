@@ -1188,7 +1188,7 @@
         - irreconcilable (adj)不能協調的 = imcompatible, 不矛盾的 = conflicting 
     
     cise, cis 切掉/割 = cut
-        + abscise (v)切除 --> abscission (v)切除, 截枝
+        + abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (v)切除, 截枝
         + concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact --> concision (n)簡潔
         - decisive (adj)果決的, 決定性的/確定的
         - excise (v)刪除, 切除 (n)消費稅
@@ -1877,7 +1877,7 @@
         - exterminate
         - extinct <--> extant
         + extinguish (v)使...熄滅 = quench, 使...破滅 <-- ex + tingu 熄滅 = quench + ish
-        - extirpate (v)消滅/根除 = exterminate = eradicate, 連根拔起 --> extirpation (n)根除/滅絕 <-- ex + stirp 莖 = stem + ate 
+        + /ˈɛkstəːpeɪt/ extirpate (v)消滅/根除 = exterminate = eradicate, 連根拔起 --> extirpation (n)根除/滅絕 <-- ex + stirp 莖 = stem + ate 
         * extol (v)讚美/頌揚 = exalt = laud = eulogize <-- ex + tol 舉起 = lift
         * extort
         - extract
@@ -2457,7 +2457,7 @@
 
     greg 聚集 = flock
         + aggregate (v)使聚集 = agglomerate = assemble (n)聚集體, 總數/合計 (adj)合計的
-        + gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, (adj)群居的(動物) --> gregariousness (n)和群, 群居
+        + /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, (adj)群居的(動物) --> gregariousness (n)和群, 群居
         - egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
         - congregate (v)聚集/集合
         + segregate (v)分離/分開 = detach = disentangle, （尤指基於種族或性別原因）隔離
@@ -2964,7 +2964,7 @@
             - imprint (v)蓋印/印痕
             + impugn
             * impulse
-            + impute (v)歸咎於 = ascribe = credit = attribute, 認為...具有 <-- im + put 認為 = reckon, think + e
+            + impute
             - inaugurate --> inaugural
             - inborn (adj)天生的 = innate
             * innate
@@ -3171,7 +3171,7 @@
         + itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic
         + /ʌɪˈtɪn(ə)(rə)ri/ tinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
         - obituary
-        + sedition (n)煽動叛亂/煽動性的言論 <-- se + d + it + ion
+        + sedition (n)煽動叛亂/煽動性的言論 <|> petition <-- se + d + it + ion
         - transit --> transition 
         + transitory
 
@@ -3333,7 +3333,7 @@
     leth 死亡 = death
         - lethal (adj)致命的 = fatal = deadly --> lethality (n)致命性/殺傷力
         + lethargy (n)昏睡/瞌睡, 無生氣 = lassitude = torpor = sluggishness
-        + lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic = listless = spiritless = torpid
+        + /lɪˈθɑːdʒɪk/ lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic = listless = spiritless = torpid
 
     loc, loco 地方 = place
         - allocate (v)分配 = allot
@@ -4154,7 +4154,7 @@
         - omniscient
 
     ore, ora 講話 = speak, beg == dic == cant == fable == log == nounce
-        - adore (v)崇拜/敬仰/熱愛 = admire = acclaim
+        * adore (v)崇拜/敬仰/熱愛 = admire = acclaim
         * exorable (adj)可說服的 = susceptible
         + inexorable
         * oral (adj)口頭的/口述的, 口的/口服的/口腔的 (n)口試
@@ -4252,7 +4252,7 @@
         - pancreas (n)胰腺 <-- pan + creas 肉 = flesh, meat
         - pandemic
         - pandemonium (n)喧囂/大混亂 = tumult <-- pan + demon + ium
-        + panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
+        + /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
         + panoply (n)琳琅滿目 = a magnificent or impressive array, 全套盔甲
         - panorama (n)概觀, 全景 <-- pan + orama 看 = look
         - pantomine (n)啞劇 <-- panto + mime
@@ -4666,7 +4666,7 @@
         + competent (adj)有能力的/能幹的 <-- compete
         + empiric (n)經驗主義者, 庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
         + perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存
-        - petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
+        *** petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
 
     petri, petro 石頭 = rock, stone
         - petrify (v)石化, 嚇呆 --> petrifaction (n)石化, 嚇呆
@@ -4717,8 +4717,8 @@
         + juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
         + opponent (n)敵手/對手
         +++ oppose (v)反抗 = combat, 妨礙/阻礙 = hinder = hamper = impede = obstrucy, 反對 = gainsay = naysay --> opposition (n)反對/反抗/對立
-        - pose (v)擺姿勢, 造作/裝腔作勢
-        + poseur (n)裝模作樣的人
+        +++ pose (v)擺姿勢, 造作/裝腔作勢
+        + /pəʊˈzəː/ poseur (n)裝模作樣的人
         + posit (v)斷定/認為 = postulate = presume = suggest
         - position (n)職位, 地位, 地點, 處境, 安置方式, 態度 (v)安放/放置
         - positive (adj)肯定的, 積極的
@@ -4953,6 +4953,7 @@
     pute 思考 = reckon, consider, think
         + dispute (n)(勞資雙方或相鄰兩國之間的)爭執/糾紛 (v)辯論 = debate = gainsay, 爭執 = wrangle = quarrel
         * depute (v)委託…為代表/委託/委任 --> deputy (n)代理人, 副手
+        + impute (v)歸咎於 = ascribe = credit = attribute
         - putative (adj)傳說的/被公認的
         + repute (n)名聲/名譽 --> reputation (n)名聲 = repute
 
@@ -4998,7 +4999,7 @@
     physi, physio 自然的 = nature
         - physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
         - physiology (n)生理學 --> physiological (adj)生理的/生理學的
-        + physiognomy (n)容貌/相貌, 觀相術/相面術
+        + /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
         + /fɪˈzɪʃ(ə)n/ physician (n)醫師
         
     ponder 重量 = weigh
@@ -5174,7 +5175,7 @@
             - request
             + requisite
             - requite
-            + rescind (v)廢除/取消 = cancel <-- re + scind 分開 = split, tear
+            + rescind (v)廢除/取消 = cancel = quash <-- re + scind 分開 = split, tear
             - rescission
             + resemble
             + reserve --> reserved
@@ -5423,11 +5424,11 @@
         - ravenous (adj)餓極了的, 貪婪的 = rapacious
 
     rat 深思熟慮/推論 = calculate, deliberate, conclude
-        - ratify (v)正式批准/正式簽署 = authorize = approve = sanction --> ratification (n)正式批准
+        * ratify (v)正式批准/正式簽署 = authorize = approve = sanction --> ratification (n)正式批准
         - ratiocinate (n)推理/三段推論 --> ratiocination (n)推理/推論
         - ratio (n)定量配給, 口糧 (v)配給
         + rational (adj)理性的/合理的 = reasonable = sober --> rationalize (v)使合理化
-        + rationale (n)基本理由/根本原因/邏輯依據
+        + /ˌraʃəˈnɑːl/ rationale (n)基本理由/根本原因/邏輯依據
 
     rub 紅色 = red
         - rubicund (adj)紅潤的 = reddish = ruddy
@@ -5493,7 +5494,7 @@
             - suffocate (v)使窒息而死 = asphyxiate = stifle, 阻止/遏止 = arrest
             - suffuse
             - summon
-            + supplant (v)排擠/攆走/根除, 代替/取代 = replace = substitute
+            + supplant (v)排擠/攆走/根除, 代替/取代 = replace = substitute <|> suppliant
             + supple
             + supplement
             + supplicate --> suppliant --> supplicant
@@ -6198,7 +6199,12 @@
             * tenant (n)承租人/房客/佃戶 (v)租借
             + tenet (n)信教/宗旨/原則 = doctrine = belief = canon = precept
             - tenor (n)要點/要旨, 男高音
-            - tenure (n)任期, 終身職位
+            +++ tenure (n)任期, 終身職位
+
+    tenu 薄 = thin
+        + attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish --> atentuation (n)稀釋, 減弱
+        - extenuate (v)掩飾罪行/減輕罪過 = palliate
+        + tenuous (adj)細薄的/纖細的, 稀薄的, 空洞的/貧弱的 = unsubstantiated = weak
 
     tend, tent, tense 伸展 = stretch
         * attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
@@ -6219,11 +6225,6 @@
         + pretension (n)自命不凡, 藉口, 假裝/做作 --> pretentious (adj)自負的/自命不凡的, 矯飾的/做作的
         - superintend (v)監督 = supervise
         - tension (n)緊張/焦慮, 張力
-
-    tenu 薄 = thin
-        + attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish --> atentuation (n)稀釋, 減弱
-        - extenuate (v)掩飾罪行/減輕罪過 = palliate
-        + tenuous (adj)細薄的/纖細的, 稀薄的, 空洞的/貧弱的 = unsubstantiated = weak
     
     tempt 嘗試/探查 = probe, feel, test
         + contempt (n)蔑視/鄙視/輕視/輕蔑 = scorn = disdain, 藐視法庭罪, 恥辱/丟臉 = disgrace = opprobrium
@@ -6457,7 +6458,7 @@
         - unassuming  (adj)謙虛的/不出風頭的
         - unbecoming (adj)不合身的, 不得體的 = improper
         - unbend (v)弄直, 放鬆
-        + uncanny (adj)怪異的/可怕的/神奇的/不可思議的 = myterious = strange
+        + uncanny (adj)怪異的/可怕的 = strange, 神奇的/不可思議的 = myterious
         - uncommitted (adj)不受約束的/不承擔責任的
         + unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
         * unconcerned (adj)不擔心的/漠不關心的/無興趣的 = blase
@@ -6890,7 +6891,7 @@
     
     vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
         - convect (v)空氣對流
-        + convex (adj)凸的/凸起的
+        + convex (adj)凸的/凸起的 <--> concave 
         + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently
         + invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory <|> inveigle
         - vehicle (n)交通工具, 方法/手段/媒介
