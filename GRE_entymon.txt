@@ -255,7 +255,7 @@
 
     alg, algo 痛 = pain
         + /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
-        + nostalgia (n)懷舊/念舊, 思鄉病 <-- nost 家 = home + algia
+        + /nɒˈstaldʒə/ nostalgia (n)懷舊/念舊, 思鄉病 <-- nost 家 = home + algia
         - neuralgia (n)神經痛
 
     anim 生命/精神 = soul, spirit, mind
@@ -1036,7 +1036,7 @@
         - catastrophe
         - catacomb (n)地下墓穴
         - catalog (n)目錄
-        - catalyst
+        + catalyst
 
     clysm 洗 = wash == lut
         + cataclysm (n)大災難/大變動 = catastrophe = upheaval
@@ -2069,7 +2069,7 @@
     empt 買/獲取/拿 = buy, obtain, take
         * exempt (v)免除/豁免 = immune (adj)被免除的
         + peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = peremptory = dictatorial = overbearing
-        + preempt (v)以先買權獲得, 取代 = supersede
+        + preempt (v)阻止 = forestall, 取代 = supersede, 以先買權獲得
         + prompt (adj)敏捷的 = quick = alert, 及時的/準時的 = punctual (v)促使/激勵/激起 = inspire = induce = incite, 提示
 
     {esce}, {escent} 開始...的
@@ -2614,7 +2614,7 @@
 [H]
     hyper 過 = over, above
         - hyperactive (adj)活動過度的 --> hyperactivity (n)活動過度, 極度活躍
-        + hyperbole (n)誇飾法 <-- hyper + bole 扔 = throw
+        + /hʌɪˈpəːbəli/ hyperbole (n)誇飾法 <-- hyper + bole 扔 = throw
         - hypercritical
         - hypertension (n)高血壓
 
@@ -2718,7 +2718,7 @@
 
     herb 草 = plant
         - herbicide
-        + herbivorous (adj)草食的
+        + /həːˈbɪv(ə)rəs/ herbivorous (adj)草食的
 
     herpeto 爬蟲
         - herpetologist (n)爬蟲學家
@@ -2893,7 +2893,7 @@
             + insuperable (adj)難以克服的 = insurmountable = unconquerable
             * insurmountable (adj)無法克服的/無法逾越的
             - intact
-            + intangible (adj)不可觸摸的/觸摸不到的 <-- in + tangible
+            + intangible (adj)無形的/觸摸不到的 <-- in + tangible
             + interminable (adj)無盡頭的/無止盡的
             + intemperance (n)過度放縱 = excessive indulgence
             + intractable (adj)倔強的/難管的/棘手的 = implacable = stubborn = obstinate, 難以塑型的, 難以治癒的
@@ -2928,7 +2928,7 @@
             + illusion --> illusive --> illusory
             - illustrate
             - imbibe (v)喝 = drink, 吸入 = absorb <-- im + bibe 喝 = drink
-            + imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
+            + /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
             - immanent (adj)內在的, 普遍存在的 <-- im + man 待 = stay = ent
             - immerse, immerge (v)浸入, 沈浸於 = engross
             + imminent = impending
@@ -3139,7 +3139,7 @@
     insul, isol 島 = isle
         - insula (n)島
         + insular (adj)島嶼的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
-        + insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
+        + /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
         - insulate (v)使絕緣, 使隔離/使孤立
         - insulin (n)胰島素 <-- insul + in 素
         - peninsula (n)半島 --> peninsular (adj)半島的 
@@ -3434,7 +3434,7 @@
 
     lyze, lysis, lyst 分開/分解 = loosen
         - analyze (v)分析 = dissect
-        + catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
+        + /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
         - analyst (n)分析家
 
     let 小東西
@@ -3679,7 +3679,7 @@
         ** /ˈmɪnɪt/ minute (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
         + minuscule (adj)微小的 = small = lilliputian = diminutive
         - minuscular (adj)微不足道的
-        + minutia (n)細節/小事 = petty details
+        + /mɪˈnjuːʃɪiː/ minutia (n)細節/小事 = petty details
 
     min, minu 突出 = jug, rise, project
         + eminent (adj)著名的/卓越的 = prominent = distinguished = lofty, 高聳的/凸出的 = lofty = dominant, 顯眼的/顯著的 = conspicuous = protruding = prominent = projecting
@@ -4056,7 +4056,7 @@
             - obituary (n)訃告/訃聞 (adj)死亡的/訃告的
             + obliterate
             + obsolete --> obsolescent
-            + occult (adj)難以理解的/奧祕的/超自然的, 祕密的 = hermetic <-- oc + cult 藏 = hide
+            +++  occult (adj)難以理解的/奧祕的/超自然的, 祕密的 = hermetic <-- oc + cult 藏 = hide
             - occur --> occurence
             - omit (v)省略, 遺漏/疏忽
 
@@ -4966,7 +4966,7 @@
     pi 撫慰/虔誠 = propitiate, piety
         + expiate (v)補償 = atone for = recompense = compensate
         - pious (adj)虔誠的/篤信的, 虛偽的, 好心的
-        + piety (n)虔誠 = devoutness, 孝順
+        + /ˈpʌɪəti/ piety (n)虔誠 = devoutness, 孝順
         + impious (adj)不虔誠的/褻瀆的 = ungodly <--> religious, 不敬的/不孝的
 
     pecca 罪/錯誤 = sin, err
@@ -5396,7 +5396,7 @@
         - relic (n)遺物/遺跡, 聖骨/聖物
 
     riv 河流 = stream
-        + derive (v)衍生, 得到 --> derivative (adj)缺乏獨創性的 = secondary, 衍生的 = derived
+        + derive (v)衍生, 得到 <|> deride --> derivative (adj)缺乏獨創性的 = secondary, 衍生的 = derived
         * derivation (n)發展/起源, 詞源
         - river (n)河流
         - arrive (v)到達
@@ -5622,7 +5622,7 @@
         - staid (adj)沉著的/穩重的 <-- stay
         - stay (v)停留/留下/保持, 堅持/忍耐
         - stance (n)站姿, 立場
-        + stanch (v)止血, 制止
+        + stanch (v)止血, 使不流失
         - stanza (n)詩節/詩段
         + stasis (n)停滯/靜止 = stagnation, 瘀血
         + static (adj)靜態的/固定的/靜止的, 呆板的
@@ -6329,7 +6329,7 @@
         - distribute (v)分發/分配 = allot = dispense
         - redistribution
         - retribution (n)報應/懲罰
-        - tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證
+        - tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證 <|> tribulation
 
     tect
         1. 工匠 = builder, craftsman
@@ -6702,7 +6702,7 @@
         - vertical (adj)垂直的 = plumb
         + vertigo (n)眩暈 = dizziness
         + voluble (adj)滔滔不絕的/健談的 = talkative, 易旋轉的
-        + vortex (n)渦/旋風/旋渦
+        + vortex (n)渦/旋風/旋渦 = whirlpool
 
     verge 軸/竿 = rod
         + converge (v)匯聚/交會, 聚集/集中, 趨於一致 --> convergent (adj)匯聚的
@@ -6751,7 +6751,7 @@
         - valor (n)勇氣 --> valorous (adj)勇敢的 = valiant
 
     vap 蒸汽 = steam
-        + vapid (adj)索然無味的/無趣的 = tasteless = dull = flat = insipid
+        + vapid (adj)索然無味的/無趣的 = tasteless = dull = flat = insipid <|> sapid
         * vapor (v)汽化/蒸發 = vaporize, 吹噓 = vaunt = boast = vaporize = bluster (n)蒸汽/水汽, 幻想, 吸入劑
         - vapidity (n)無味/無聊
         - vaporize (v)(使)蒸發 --> vaporization (n)蒸發
@@ -6780,7 +6780,7 @@
             + virtue (n)美德/高尚品德, 優點/好處 --> by virtue of 因為/由於 = beacuse of
             - virtual (adj)實質上的/實際上的
             - virtuous (adj)有美德的, 自命清高的
-            + virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (n)精湛技藝/高超
+            + /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (n)精湛技藝/高超
 
         2. 毒 = poison
             - virus (n)病毒 --> viral (adj)病毒性的 
@@ -6909,7 +6909,7 @@
         - invincible (adj)無敵的/無法戰勝的
 
     vest 穿/衣服 = dress, cloth
-        + divest (v)脫去 = strip, 擺脫 = divest, 剝奪 = deprive = strip --> divestiture (n)脫去, 剝奪財產或權利, 取消稱號
+        + divest (v)脫去 = strip, 擺脫 = rid, 剝奪 = deprive = strip --> divestiture (n)脫去, 剝奪財產或權利, 取消稱號
         - invest (v)耗費/投入/投資, 授予
         + investiture (n)授予 = investing <-- invest
         + travesty (n)滑稽模仿 = caricature = mockery, 拙劣的模仿 = parody, 歪曲/曲解
