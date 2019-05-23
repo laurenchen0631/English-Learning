@@ -673,7 +673,7 @@
             + commence (v)開始/著手 = begin = start --> commencement (n)開始, 畢業典禮 <-- com + mence 做/開始 = begin
             + commend
             + complacent --> complacency
-            + complaisant (adj)順從的/討好的 = obliging --> complaisance (n)殷勤/順從/彬彬有禮 = chivalry <-- com + plais 取悅 = please + ant
+            + /kəmˈpleɪz(ə)nt/ complaisant (adj)彬彬有禮的/順從的/殷勤的 = obliging --> complaisance (n)殷勤/順從/彬彬有禮 = chivalry <-- com + plais 取悅 = please + ant
             * complain --> complaint
             + complement --> complementary
             + compunction
@@ -1329,7 +1329,7 @@
             + decry (v)斥責/譴責/抨擊 = denounce = censure = condemn = excoriate = lash
             - deduce
             + deduct --> deductive --> deduction
-            + default (n/v)拖欠債務, 違約/未履行責任 (n)默認結果/既定結果 <-- de + fault 錯誤 = fail
+            +++ default (n/v)拖欠債務, 違約/未履行責任 (n)默認結果/既定結果 <-- de + fault 錯誤 = fail
             + defend --> defense = defence
             * defile (v)弄髒 = foul = sully (n)山間小道 <-- de + file 卑鄙的 = vile
             + define --> definite --> definitive
@@ -2945,7 +2945,7 @@
             + imperative (adj)急需的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding <-- im + per 準備 = prepare + ative
             + imperil (v)危及 = endanger = compromise = jeopardize = menace
             - impersonate (v)模仿 = mimic = imitate, 扮演 <-- im + person + ate
-            + impinge (v)侵犯 = encroach, 撞擊 = strike = collide
+            + impinge (v)侵犯 = encroach, 撞擊 = strike = collide <-- im + pinge 固定 = fix
             * implant (v)灌輸 = instill = inculcate, 埋置, 移植, 種植
             - instill
             + implement
@@ -3223,7 +3223,7 @@
         - disjunction (n)分離/歧異 --> disjunctive (adj)分離的, 相反的/反意的
         + disjoint (v)使脫臼 = dislocate, 弄亂 = dislocate --> disjointed (adj)無關聯的/無條理的, 脫臼的
         - junction (n)樞紐/交會點/交叉路口
-        + junta (n)軍人集團/軍政府/私黨
+        + /ˈdʒʌntə/ junta (n)軍人集團/軍政府/私黨
         - juncture (n)關鍵時刻/轉折 = moment, 危機 = crisis = jeopardy
         - injunction (n)命令/強制令 = command = bidding = enjoin (v)
 
@@ -3409,7 +3409,7 @@
             - circumlocution
             - colloquial (adj)口語的/俗語的, 口頭的
             - colloquium (n)學術討論會
-            + loquacious (adj)多話的/健談的 = talkative = chattering = ballbing, 嘮叨的 = excessive talk = wordy = garrulous
+            + /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing, 嘮叨的 = excessive talk = wordy = garrulous
             - locution (n)用句 = word = pharse, 說話方式
             - elocution (n)演講技巧
             + eloquent (adj)有說服力的/雄辯的 --> eloquence (n)雄辯/口才
@@ -3725,7 +3725,7 @@
         + monotonous
 
     mur 牆 = wall, grave
-        + demur (v)反對 = object = oppose <--> accede --> demurral (n) = objection = exception
+        + demur (v)反對 = object = oppose <--> accede, 抗辯/表示異議 --> demurral (n) = objection = exception
         - demure (adj)端莊的/文靜的
         - mural (n)壁畫 (adj)牆壁的
         + immure (v)監禁 = imprision, 禁閉 = confine = seclude
@@ -6892,8 +6892,8 @@
     vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
         - convect (v)空氣對流
         + convex (adj)凸的/凸起的 <--> concave 
-        + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently
-        + invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory <|> inveigle
+        + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently <|> inveigle
+        + invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory 
         - vehicle (n)交通工具, 方法/手段/媒介
 
     vict, vinc 征服/勝利 = overcome, conquer
