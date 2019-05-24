@@ -1053,7 +1053,7 @@
         + caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
         + castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
         - chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
-        + chasten (v)懲戒/磨煉/抑制 = refrain = subdue <-- chaste
+        + chasten (v)懲戒/磨煉, 抑制 = refrain = subdue <-- chaste
         ++ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
 
     castr 閹割 = geld
@@ -1337,7 +1337,7 @@
             + degrade (v)貶低 = debase, 降低…的身份, 損害/危害, 自然分解 --> degradation (n)降級, 落魄/丟臉, 損害/危害 
             + delegate
             + delimit (v)劃界/標出…的界限 = circumscribe
-            + delineate (v)描述/描繪 = depict = portray = trace <-- de + line 線 + date 
+            + /dɪˈlɪnɪeɪt/ delineate (v)描述/描繪 = depict = portray = trace <-- de + line 線 + date 
             - demean (v)羞辱/貶低 = degrade
             - depend (v)取決於
             + dependable (adj)可靠的 = reliable
@@ -1387,7 +1387,7 @@
             - dehydrate
             * deliberate
             + demit --> demise
-            + denouement (n)結尾 = coda = out <-- de + noue 結 = knot + ment
+            + /deɪˈnuːmɒ̃/ denouement (n)結尾 = coda = out <-- de + noue 結 = knot + ment
             + denounce
             - denude
             + depart (v)出發/啟程/離開, 偏離/背離 = diverge = deviate, 消逝/死亡 = die <-- de + part 走 = go
@@ -2040,8 +2040,8 @@
         - inequity (n)不公平/不公正 = injustice = unfairness
 
     esthete 感覺
-        + aesthete (n)審美家 --> aesthetic (adj)美感的/審美的 = artistic = esthetic
-        - anaesthetic (n)(手術用)麻醉劑x
+        + aesthete (n)審美家 --> /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
+        - /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑x
 
     ev 時代 = age
         - coeval (adj)同年代的/同時期的 (n)同時代的人或物
@@ -2178,7 +2178,7 @@
         ++ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
         - factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
         + faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
-        + factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
+        + /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
         * feasance (n)履行/義務
         + feasible (adj)可行的, 可能的 = probable = likely, 合適的 = suitable
         + feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
@@ -4714,7 +4714,7 @@
         - imposing (adj)壯觀的/宏偉的 = grand
         - impostor (n)冒充者/騙子 --> imposture (n)冒充
         - interpose (v)插入/置於...之間 = interpolate, 介入
-        + juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
+        + /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
         + opponent (n)敵手/對手
         +++ oppose (v)反抗 = combat, 妨礙/阻礙 = hinder = hamper = impede = obstrucy, 反對 = gainsay = naysay --> opposition (n)反對/反抗/對立
         +++ pose (v)擺姿勢, 造作/裝腔作勢
@@ -5091,7 +5091,7 @@
             - realign (v)重新組合/重新排列/重新結盟 <-- re + align
             + reassess (v)再評價/重新考慮 <-- re + assess
             - rebate
-            + recalcitrant (adj)頑抗的/不聽話的 <-- re + calcitr 踢 = kick + ant
+            + /rɪˈkalsɪtr(ə)nt/ recalcitrant (adj)頑抗的/不聽話的 <-- re + calcitr 踢 = kick + ant
             + recapitulate
             - recast (v)重鑄, 更換演員 <-- re + cast
             - recite --> recittal
@@ -5402,7 +5402,7 @@
         - arrive (v)到達
 
     reg, regul, reign 統治
-        - interregnum (n)無王時期/空位期
+        + interregnum (n)無王時期/空位期
         - regal (adj)帝王的/王室的, 莊嚴的/豪華的
         - regime (n)政體/政權, 社會制度
         + regulate (v)管理/控制, 校準.調整 --> regulation (n)規章/規則, 管理, 調整 (adj)正規的/正式的, 普通的/一般的
@@ -5753,7 +5753,7 @@
         +++ resemble (v)像 = favor --> resemblance (n)相似 = affinity
         * semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
         - similarity (n)相似 = analogy = resemble
-        + simile (n)直喻/明喻
+        + /ˈsɪmɪli/ simile (n)直喻/明喻 <|> smile
         - simulate (v)模仿/偽裝
         - simultaneous (adj)同時發生的
         + syllogism (n)三段論/演繹推理, 詭辯/狡辯
@@ -6048,7 +6048,7 @@
     sati, satur 滿足 = enough, full
         - insatiable (adj)不能滿足的/貪心的
         - sate (v)使心滿意足/使厭膩 = glut <-- satiate
-        + satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy = saturate (adj)吃飽的 --> satiable (adj)可滿足的
+        ++ /ˈseɪʃɪeɪt/ satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy = saturate (adj)吃飽的 --> satiable (adj)可滿足的
         - satiated (adj)充分滿足的, 厭倦的/生膩的
         + satisfy (v)使滿足/使滿意 = satiate = sate, 使確信
         - satire (n)諷刺/諷刺性作品 --> satirize (v)諷刺
@@ -6329,7 +6329,7 @@
         - distribute (v)分發/分配 = allot = dispense
         - redistribution
         - retribution (n)報應/懲罰
-        - tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證 <|> tribulation
+        ** tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證 <|> tribulation
 
     tect
         1. 工匠 = builder, craftsman
@@ -6605,7 +6605,7 @@
 
     und 波浪 = wave
         + abound (v)大量存在, [in/with]富含/充滿 = teem
-        + inundate (v)淹沒 = flood, 氾濫 = flood = overwhelm
+        + /ˈɪnʌndeɪt/ inundate (v)淹沒 = flood, 氾濫 = flood = overwhelm
         + redound (v)起作用/有助於, 報應/返回到
         + redundant (adj)累贅的/多餘的
         - undulant (adj)起伏的

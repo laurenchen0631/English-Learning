@@ -1707,7 +1707,7 @@
     ++ morbid (adj)病態的 = diseased = unhealthy = pathological = wan, 疾病的/病理的 = pathological, 可怕的 = gruesome = grisly <-- morb 病 = sickness + id
     + mordant (adj)尖酸的/譏諷的 = sarcastic = caustic = biting (n)金屬腐蝕劑, 金箔黏著劑 <-- mord 咬 = bite + id
     + /məˈrəʊs/ morose (adj)憂鬱的 = ill-humored = sullen = gloomy = mournful = desolate = dismal = dreary
-    + motley (adj)混雜的/由不同事物組成的 = heterogeneous = disparate, 雜色的 = variegated <-- mote + ly
+    + /ˈmɒtli/ motley (adj)混雜的/由不同事物組成的 = heterogeneous = disparate, 雜色的 = variegated <-- mote + ly
     ++ muddle (v)將……混在一起 = jumble = confuse = mingle = intermingle, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle = confound
     + /mʌnˈdeɪn/ mundane (adj)平凡的 = common = ordinary = unimaginative = prosaic = terrestrial, 現世的/世俗的 = lay = profane = temporal = worldly = early
     + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure = stygian, 模糊的/含糊的 = vague = confused = obscure
@@ -2488,7 +2488,7 @@
     ++ slake (v)緩解/使滿足 = quench = satisfy, 解渴/消渴 = quench = refresh, 使（石灰）熟化 <|> slack <|> slick
     +++ slight (adj)輕微的/微小的, 不重要的/微不足道的 = trivial, 瘦的 = slender = thin, 脆弱的 = frail = flimsy = delicate (V)輕視, 怠慢, 草率地做 = scamp (n)冒犯 = affront
     ++ slippery (adj)滑的, 不穩的 = unstable, 不精確的 = ambiguous = elusive, 狡猾的 = tricky = cunning
-    + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful(v)怠惰的/懶散的 = lazy = indolent = sluggish
+    + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
     ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船等), 熄滅 = extinguish = quench
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
@@ -2519,7 +2519,7 @@
     + /stɛnˈtɔːrɪən/ stentorian (adj)聲音響亮的 = loud = orotund = resonant
     ++ /ˈstʌɪf(ə)l/ stifle (v)窒息 = suffocate = smother, 抑止/阻止 = suppress = curb = withhold  <|> stiff
     + stigma (n)汙名/污點 = disgrace = inferiority, 病斑 --> stigmatize (v)污蔑/玷污 <-- stig 刺青 = tattoo + ma
-    +++ stint (n)分配的工作, 花費的時間, 限制 = restraint = limitation (v)節省/節制 = economize
+    +++ stint (v)節省/節制 = economize (n)分配的工作, 花費的時間, 限制 = restraint = limitation
     + stipulate (v)規定/約定/要求以...為條件 = specify = contract --> stipulation (n)規定/約定 <-- stipul 堅定 = firm + ate
     + stolid (adj)不動感情的/冷淡的 = phlegmatic = unemotional = impassive
     + straightforward (adj)坦率的 = honest = candid = frank = explicit, 直接的 = direct
@@ -2952,7 +2952,7 @@
     + /ˈtambə/ timbre (n)音色/音質
     + /tɪˈreɪd/ tirade (n)長篇抨擊性演說 = harangue = rant
     ++ toad (n)蟾蜍/癩蛤蟆, 令人討厭的人/卑鄙小人 --> toady (n)諂媚者/馬屁精 = flattere = sycophant (v)諂媚/奉承 = flatter = fawn = adulate
-    + token (n)標記/標誌 = sign = symbol = mark, 紀念品 = souvenir = memento, 證據 = evidence = proof (adj)作為標記的/象徵性的 (v)表示/象徵 = signify = symbolize
+    +++ token (n)標記/標誌 = sign = symbol = mark, 紀念品 = souvenir = memento, 證據 = evidence = proof (adj)作為標記的/象徵性的 (v)表示/象徵 = signify = symbolize
     +++ toll (n)通行費/使用費/長途電話費/設攤費, 損失/傷亡人數 (v)緩慢而反覆地敲響, 徵收(税或通行費) = impose <|> toil
     + tome (n)冊/卷, 大型書本 = book
     ++ torpid (adj)懶散的 = sluggish, 冬眠的 = dormant, 無精打采的 = spiritless = listless = apathetic = dull = lethargic = wan, 麻木的 = numb <-- torp 麻木 = numb + or
@@ -2975,7 +2975,7 @@
     ++ truculent (adj)殘暴的/兇狠的 = fierce = savage = belligerent, 尖刻的 = scathing = mordant = pungent = sarcastic = sardonic = vitriolic, 好鬥的 = belligerent --> truculence = aggressiveness (n) <-- truc 兇猛 = savage + ulent
     + /trɪst/ tryst (n/v)約會/幽會 = rendezvous = date = engagement
     + /ˈtəːpɪtjuːd/ turpitude (n)腐化/邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
-    ++ /ˈtjuːtɪlɪdʒ/ tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching --> tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
+    ++ /ˈtjuːtɪlɪdʒ/ tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution --> tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
     + /ˈtɪr(ə)ni/ tyranny (n)暴政/專制統治, 暴行 --> tyrant (n)暴君
     + /ˈtʌɪrəʊ/ tyro, tiro (n)新手 = beginner = neophyte = novice = fledgling
 
@@ -3137,22 +3137,22 @@
     ^ truncheon (n)警棍 = baton = nightstick
 
 [U]
-    + ubiquity (n)無所不在 = omnipresence --> ubiquitous (adj)無所不在的 = omnipresent <-- ubiqu 到處 = everywhere + ity
-    + urbane (adj)都市化的, (尤指男子)從容自信的/溫文爾雅的 --> urbanity (n)都市風格, 雅緻/儒雅
-    + usury (n)高利貸 <-- use + ury
+    + /juːˈbɪkwɪti/ ubiquity (n)無所不在 = omnipresence --> ubiquitous (adj)無所不在的 = omnipresent <-- ubiqu 到處 = everywhere + ity
+    + /əːˈbeɪn/ urbane (adj)都市化的, (尤指男子)從容自信的/溫文爾雅的 --> urbanity (n)都市風格, 雅緻/儒雅
+    + /ˈjuːʒ(ə)ri/ usury (n)高利貸 <-- use + ury
     + utilize (v)利用 = exploit
     + utopia (n)理想國/理想的完美境界 --> utopian (adj)烏托邦式的/空想的/幻想的 = quixotic = idealistic
-    +++ utter (v)說/講 = speak = pronounce, 發出聲音, 表達 = express, 使流通, 發射/噴射 = discharge = expel = emit (adj)完全的/極度的 = complete = absolute = total = thorough --> utterly (adv)
+    +++ /ˈʌtə/ utter (v)說/講 = speak = pronounce, 發出聲音, 表達 = express, 使流通, 發射/噴射 = discharge = expel = emit (adj)完全的/極度的 = complete = absolute = total = thorough --> utterly (adv)
 
-    * umpire (n)裁判 = judge, 仲裁人/裁決者 = arbiter (v)裁判, 仲裁 = adjudicate = arbitrate
+    * /ˈʌmpʌɪə/ umpire (n)裁判 = judge, 仲裁人/裁決者 = arbiter (v)裁判, 仲裁 = adjudicate = arbitrate <|> empire
     *** urge (v)驅使/驅策 = impel, 懇求 = solicit = entreat = woo = crave, 刺激/激勵 = provoke = stimulate (n)推力 = impluse, 慾望/衝動 = compulsion = impluse
     * urgent (adj)緊急的/急迫的 = exigent
-    * usher (v)引導/引領 = conduct, 迎接 = introduce, 預報...的到來 = herald (n)接待員/門房
-    * uterus (n)子宮 --> uterine (adj)子宫的
+    * /ˈʌʃə/ usher (v)引導/引領 = conduct, 迎接 = introduce, 預報...的到來 = herald (n)接待員/門房
+    * /ˈjuːt(ə)rəs/ uterus (n)子宮 --> /ˈjuːtərɪn/ uterine (adj)子宫的
+    ** ultimate (adj)最後的/最終的, 基本的/根本的 <-- ultim 最後的 = last + mate
     
     ^ ugly (adj)難看的, 可怕的/討厭的/邪惡的/醜陋的
     ^ ulcer (n)潰瘍, 腐爛物, 道德敗壞/腐敗
-    ^ ultimate (adj)最後的/最終的, 基本的/根本的 <-- ultim 最後的 = last + mate
     ^ unction (n)塗油/油膏 --> unctuous (adj)油質的 = fatty, 油腔滑調的 = oily <-- unct 塗油 = anoint, smear + ous
     ^ unguent (n)藥膏/軟膏 = ointment <-- ungu 油 = grease + ent
     ^ usurp (v)篡奪/霸佔 <|> usury
@@ -3161,36 +3161,36 @@
 
 [V]
     + vacillate (v)猶豫/動搖 = dither = falter = waver = scruple, 搖擺/波動 = waver = oscillate = fluctuate = totter = stagger <-- vacill 搖擺 = sway + ate
-    + vague (adj)含糊的/不明確的 = ambiguous = equivocal = nebulous, 模糊的 = blurred, 空洞的/茫然的 = vacant
+    + /veɪɡ/ vague (adj)含糊的/不明確的 = ambiguous = equivocal = nebulous, 模糊的 = blurred, 空洞的/茫然的 = vacant
     + vanguard (n)先鋒/前鋒
-    + vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
-    + veil (n)面紗, 帷幕/遮蔽物, 假裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
+    + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
+    + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
     + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible --> venality (n)貪贓枉法/腐敗 <-- vend
+    + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al 
     + vendetta (n)世仇/宿怨 = feud
     ++ venerate (v)崇敬/敬仰 = hallow = adore = honor = respect = worship = revere --> venerable (adj)德高望重的, 令人尊敬的 = august, 神聖的/珍貴的, 古老的 = ancient = hoary
-    + vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al
     ++ vestige (n)遺跡/殘餘 = trace, 一點兒/絲毫, 退化器官 --> vestigial (adj)退化的 = degraded
-    ++ vex (v)激怒 = provoke = irritate = annoy = nettle = peeve = irk = pique = harrow, 折磨/苦惱 = afflict = torment = trouble = distress = plague = worry = agitate, 爭論, 使困惑 = baffle = confuse = puzzle
+    ++ vex (v)激怒 = provoke = irritate = annoy = nettle = peeve = irk = pique = harrow, 折磨/苦惱 = afflict = torment = trouble = distress = plague = worry = agitate, 使困惑 = baffle = confuse = puzzle
     + vexation (n)折磨/苦惱 = affliction, 惱火 = irritation = annoyance
-    *** vile (adj)可鄙的 = filthy = mean = base = sordid, 下流的/粗俗的 = filthy = obscene = vulgar = foul, 令人反感的 = obscene = repulsive = disgusting = fulsome = wicked, 糟透的/極壞的
-    + vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate <-- vile
+    *** /vʌɪl/ vile (adj)可鄙的 = filthy = mean = base = sordid, 下流的/粗俗的 = filthy = obscene = vulgar, 邪惡的 = wicked
+    + /ˈvɪlɪfʌɪ/ vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate <-- vile
     + vim (n)精力/生氣/精神 = pep = enthusiasm = vitality
-    ++ vindicate (v)證明……無辜/平反 = exculpate, 證實 = justify = confirm = substantiate = corroborate, 主張/維護 = assert = maintain, 報復 = avenge <-- vindic 主張者 = claimant
+    ++ vindicate (v)證明……無辜/平反 = exculpate, 證實 = justify = confirm = substantiate = corroborate, 報復 = avenge <-- vindic 主張者 = claimant
     + vindictive (adj)有復仇心的/報復的 = vengeful = unforgiving, 惡意的 = malevolent = malicious = malign = mean = spiteful = vicious = wanton <-- vindict 報復 = vengeance
-    + viscous, viscid (adj)黏性的 = syrupy = adhesive = sticky
+    + /ˈvɪskəs/ viscous, viscid (adj)黏性的 = syrupy = adhesive = sticky
     + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity
     + vulnerable (adj)易受傷的/易收攻擊的 <-- vulner 傷口 = wound + able
 
-    * vagary (n)奇想/異想天開 = caprice = whim, 突發狀況 = quirk
+    * vagary (n)奇想/異想天開 = caprice = whim
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle
     * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
-    *** vehement (adj)熱烈的/熱情的 = zealous = ardent = passionate = impassioned, 激烈的/強烈的 = intense = violent
-    * vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
+    *** vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
+    ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
     * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
     * vomit (v)嘔吐 = disgorge = heave
-    ** vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
+    ** /ˈvʌlɡə/ vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
     
     ^ vaccine (n)牛疫苗, 疫苗 --> vaccineate (v)給...接種疫苗 <-- vacc 牛 = cow + ine
     ^ valve (n)活門/閥門
