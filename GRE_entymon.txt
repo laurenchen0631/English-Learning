@@ -3294,7 +3294,7 @@
         - luminant (adj)發光的
         - luminary (n)傑出人物/名人 = lion
         + luminous (adj)發光的/光輝的 = bright = glowing = radiant, 清楚的/明白易懂的 = lucid
-        - pellucid (adj)清澄的/透明的 = translucent = limpid, 神志清醒的 =  
+        + pellucid (adj)清澄的/透明的 = translucent = limpid, 明白的/易懂的
         + translucent (adj)半透明的 <--> transparent
     
     leg
@@ -3919,7 +3919,7 @@
         + nexus (n)連接/聯繫/關係 = center
 
     nerv 精力 = sinew
-        + enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
+        + /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
         * nerve (n)勇氣/膽量/沉著, 神經, 憂慮/焦躁 (v)鼓起勇氣/鼓勵/激勵
 
     nihil 無 = nothing
@@ -4204,7 +4204,7 @@
         
     oner 負擔 = burden
         + exonerate (v)宣布無罪 = exculpate, 免除責任 = exempt
-        + onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing, 負有義務的
+        + /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing, 負有義務的
 
     orbit 軌道 = wheel track
         + exorbitant (adj)過高的/過分的 = highly excessive = steep
@@ -4407,7 +4407,6 @@
         1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
             - perfect
             - persuade
-            + pellucid (adj)清晰的/清澈的 = transparent = translucent = clear
             - percept
             * percept --> perception
             + perceptible
@@ -4623,7 +4622,7 @@
         + impair (v)損害/削弱 = damage = reduce = injure = lossen = weaken
         - repair (v)修理/修補, 恢復, 彌補/補償
         - reparable (adj)能補救的/可挽回的
-        * reparation (n)賠償/補償 = amends = compensation = recompense
+        + /ˌrɛpəˈreɪʃ(ə)n/ reparation (n)賠償/補償 = amends = compensation = recompense <-- repair
 
     pease, pac 和平 = peace
         + appease (v)使平靜/安撫/平息 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
@@ -5767,7 +5766,7 @@
         - synergy (n)合力/協力, 協同作用 --> synergic (adj)協同作用的, 協利的 <-- syn + erg 工作 = work + y
         + synopsis (n)概要/一覽 --> synoptic (adj)概要的 <-- syn + op 看 = see + sis
         - synonyms
-        + synthesis (n)綜合/合成 --> synthesize (v)綜合/合成
+        +++ synthesis (n)綜合/合成 --> synthesize (v)綜合/合成
         * synthetic (adj)綜合的, 合成的/人造的 = artificial = ersatz, 假想的/虛構的 (n)合成物
 
     sim, sin 一 = one
@@ -6274,7 +6273,7 @@
         * hypothesis --> hypothetical
         * synthetic
         + synthesis --> synthesize
-        - thesis (n)論題/命題/論點/論文
+        *** thesis (n)論題/命題/論點/論文
 
     type\ 形狀 = morph
         - archetype

@@ -623,7 +623,7 @@
     + damp (v)減弱 (adj)潮濕的 = humid --> damped (adj)減震的 --> dampen (v)(使)潮濕, 使平靜/潑冷水 = depress 
     + /ˈdänt/ daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <|> flaunt <|> gaunt <|> taunt <|> vaunt
     + /ˈdərth/ dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
-    + debilitate (v)使虛弱/削弱 = enfeeble = languish = wan <|> deliberate <-- debilit 虛弱 = weak + ate
+    + debilitate (v)使虛弱/削弱 = enfeeble = languish = wan = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
     + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)拒絕 = refuse = withhold
@@ -2553,7 +2553,7 @@
     + /ˈsɪlv(ə)n/ sylvan (adj)森林的/多樹木的 = woody, 鄉村的 = rural = pastoral <-- sylv 森林 = forest + an
     + syntax (n)語法/句法
 
-    * sapid (adj)有味道的 = favorful, 美味的 = palatable = savory, 使人愉快的 = agreeable
+    * sapid (adj)有味道的 = favorful <--> vapid, 美味的 = palatable = savory, 使人愉快的 = agreeable
     * /ˈsatʌɪə/ satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> satirical (adj)諷刺的 = sarcastic = sardonic = ironic
     * /ˈsatʃəreɪt/ saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
     * scatter (v)(使)散開 = squander = disperse, 撒 = sprinkle
@@ -2577,7 +2577,7 @@
     * /ˈʃrɪv(ə)l/ shrivel (v)枯萎/乾枯 = wither = wizen, 使萎縮/漸漸減少 = dwindle = wither = diminish, 變得無用
     *** showy (adj)引人注目的 = striking, 炫耀的/浮華的/俗艷的 = tawdry = meretricious = gaudy = ostentatious = flamboyant
     * sift (n/v)篩/過濾 = winnow = riddle
-    ** /sɪnˈsɪə/ sincere (adj)真誠的/正直的 = earnest = upright --> sincerity (n)真實, 誠心誠意
+    ** /sɪnˈsɪə/ sincere (adj)真誠的/正直的 = earnest = upright --> /sɪnˈsɛrəti/ sincerity (n)真實, 誠心誠意
     * /ˈsɪnjuː/ sinew (n)活力/精力, 主要支柱, 肌腱 = tendon (v)支持/加強
     * skip (v)蹦蹦跳跳, 跳繩, 略過, 迅速翻閱, 衝衝離開 (n)蹦蹦跳跳, 大垃圾桶/廢料桶
     *** slack (adj)鬆弛的 = lax, 懈怠的/疏忽的 = lax = negligent = careless = remiss, 懶惰的 = sluggish = indolent, 蕭條的/冷清的 (n)鬆弛/不緊 (v)鬆懈/懈怠 --> slacken (v)鬆懈/怠惰
@@ -2956,7 +2956,7 @@
     +++ toll (n)通行費/使用費/長途電話費/設攤費, 損失/傷亡人數 (v)緩慢而反覆地敲響, 徵收(税或通行費) = impose <|> toil
     + tome (n)冊/卷, 大型書本 = book
     ++ torpid (adj)懶散的 = sluggish, 冬眠的 = dormant, 無精打采的 = spiritless = listless = apathetic = dull = lethargic = wan, 麻木的 = numb <-- torp 麻木 = numb + or
-    ++ torpor (n)懶散 = sluggishness = inert, 無精打采 = apathy, 休眠, 冬眠 = dormancy 
+    ++ torpor (n)懶散 = sluggishness = inert, 休眠/冬眠 = dormancy, 無精打采 = apathy
     + totality (n)全部/全體/總計/總額
     ++ tout (v)招徠顧客/兜售, 宣傳/吹捧 = promote, 偵查/暗查 = watch = spy on <|> stout
     +++ trace (n)痕跡, 遺跡/殘跡 = vestige, 微量 = scintilla (v)跟蹤/追蹤, 追溯/查考, 描繪/描摹/摹寫 = sketch = delineate
@@ -2967,7 +2967,7 @@
     + /ˈtriːtɪs/ treatise (n)論文/專著 <-- treat
     + tremulous (adj)震顫的/顫抖的 = trembling = quivering, 膽小的/害怕的 = timid = timorous = trepid <-- trem 震動 = skake, quake + endous
     + trenchant (adj)一針見血的/尖刻的 = incisive = penetrating = caustic = sharp, 有力的/有效的 = forceful = vigorous = effective, 分明的 = distinct
-    ++ trifle (n)小事/瑣事, 少量/少許 (v)戲弄 = jest = flout, 小看/輕視 = belittle = flout, 浪費時間/虛度
+    ++ trifle (n)小事/瑣事, 少量/少許 (v)小看/輕視 = belittle = flout, 浪費時間/虛度, 戲弄 = jest = flout
     +++ trifling (adj)不重要的/瑣碎的 = futile = nugatory = frivolous = minute = trivial, 輕浮的/輕佻的 = frivolous
     + trigger (v)引發/導致 (n)板機
     + /ˈtrʌɪʌmf/ triumph (n/v)凱旋/勝利/成功 = victory = conquest, 歡欣 = exultation = jubilation
@@ -2989,9 +2989,9 @@
     * theft (n)偷竊/盜竊 = larceny
     * thorn (n)刺/棘 = spine, 惱人的事物
     * /θrɔːl/ thrall (n)奴隸/俘虜 = slave, 奴役/束縛
-    * thread (n)線, 一絲, 頭緒, 螺紋 = screw (v)使穿過, 除毛
-    * tread (v)踩/踏 = trample, 行走 = step = walk (n)踩/踏, 足音, 樓梯踏板, 胎面, 鞋底, 輪距 <|> thread <|> treat
-    * threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的 
+    * /θrɛd/ thread (n)線, 一絲, 頭緒, 螺紋 = screw (v)使穿過, 除毛
+    * /trɛd/ tread (v)踩/踏 = trample, 行走 = step = walk (n)踩/踏, 足音, 樓梯踏板, 胎面, 鞋底, 輪距 <|> thread <|> treat
+    * /θrɛt/ threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的 
     * treat (v)對待/看待, 處理, 探討, 治療, 宴請 (n)請客, 難得的樂事 <|> threat
     * treaty (n)條約/協議 <-- tractate
     * thrust -> thrust -> thrust (v)刺/戳/插入/推擠 (n)要點, 猛推/刺
@@ -3002,7 +3002,7 @@
     * tremble (n/v)顫抖/發抖 <-- trem
     *** tremendous (adj)巨大的/極大的, 極度的/驚人的, 可怕的 <-- trem
     * trench (n)溝/溝渠/戰壕/海溝 (v)挖溝/挖戰壕, 侵害/侵佔 <|> trenchant <|> entrench <|> retrench
-    * tribulation (n)苦難 == suffering
+    * tribulation (n)苦難 = suffering
     * tuber (n)塊莖, [解剖]結節/隆起/腫脹
     * turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
@@ -3145,7 +3145,7 @@
     +++ /ˈʌtə/ utter (v)說/講 = speak = pronounce, 發出聲音, 表達 = express, 使流通, 發射/噴射 = discharge = expel = emit (adj)完全的/極度的 = complete = absolute = total = thorough --> utterly (adv)
 
     * /ˈʌmpʌɪə/ umpire (n)裁判 = judge, 仲裁人/裁決者 = arbiter (v)裁判, 仲裁 = adjudicate = arbitrate <|> empire
-    *** urge (v)驅使/驅策 = impel, 懇求 = solicit = entreat = woo = crave, 刺激/激勵 = provoke = stimulate (n)推力 = impluse, 慾望/衝動 = compulsion = impluse
+    *** urge (v)催促/懇求/力勸 = solicit = entreat = woo = crave, 驅使/驅策 = impel, 刺激/激勵 = provoke = stimulate (n)推力 = impluse, 慾望/衝動 = compulsion = impluse
     * urgent (adj)緊急的/急迫的 = exigent
     * /ˈʌʃə/ usher (v)引導/引領 = conduct, 迎接 = introduce, 預報...的到來 = herald (n)接待員/門房
     * /ˈjuːt(ə)rəs/ uterus (n)子宮 --> /ˈjuːtərɪn/ uterine (adj)子宫的
@@ -3184,7 +3184,7 @@
     * vagary (n)奇想/異想天開 = caprice = whim
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle
     * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
-    *** vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
+    *** /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
@@ -3235,49 +3235,49 @@
     ^ verve (n)熱情/神髓 = enthusiasm = vigor = spirit, 活潑 = vivaciousness = liveliness = animation
 
 [W]
-    + wan (adj)病態的 = pallid = morbid, 無精打采的 = languid = dull = torpid, 微弱的 = faint = dim (v)使虛弱 = debilitate = languish = pine
-    +++ wanton (adj)殘忍無情的 = merciless = inhumane = ruthless, 惡意的 = malicious = malevolent = malign = spiteful, 無節制的/揮霍的 = extravagant, 下流的/淫猥的 = bawdy = lewd = vulgar = indecent = obscene = salacious, 好色的 = lustful = lascivious = lewd = salacious, 淘氣的 = mischievous = wicked
-    + warrant (v)使有必要, 擔保/承諾 (n)搜查令/逮捕狀, (做事的)理由 --> warranted (adj)保證的, 憑正當理由的 = justified
+    + /wɒn/ wan (adj)病態的 = pallid = morbid, 無精打采的 = languid = dull = torpid, 微弱的 = faint = dim
+    +++ /ˈwɒntən/ wanton (adj)殘忍無情的 = merciless = inhumane = ruthless, 惡意的 = malicious = malevolent = malign = spiteful, 無節制的/揮霍的 = extravagant, 下流的/淫猥的 = bawdy = lewd = vulgar = indecent = obscene = salacious, 好色的 = lustful = lascivious = lewd = salacious, 淘氣的 = mischievous = wicked
+    + /ˈwɒr(ə)nt/ warrant (v)使有正當理由 = justify = necessitate, 擔保/承諾 (n)搜查令/逮捕狀, (做事的)理由 --> warranted (adj)保證的, 憑正當理由的 = justified
     + wary (adj)謹慎的/小心翼翼的 = careful = cautious = leery = canny = cunning = circumspect = gingerly <-- ware + y
     + wayward (adj)任性的/不順從的 = willful = ungovernable = froward = disobedient = insubordinate = obstinate, 反覆無常的 = capricious = perverse, 叛逆的/倔強的 = perverse = untoward <-- (a)way + ward
     ++ welter (n)混亂 = disorder = turmoil = confusion, 雜亂 = jumble (v)打滾/翻滾 = writhe = wallow = roll = toss, 浸漬/沉溺 = wallow, 混亂 = be in turmoil
-    ++ whet (v)刺激 = stimulate = excite, 磨/磨刀 = grind (n)磨, 刺激物/開胃菜/酒
-    + whim (n)奇想/怪念頭/突然的念頭 = caprice = vagary --> whimsy (n)反覆無常/異想天開, 與眾不同的想法/奇異的事物
+    ++ /wɛt/ whet (v)刺激 = stimulate = excite, 磨/磨刀 = grind (n)磨, 刺激物/開胃菜/酒 <|> /wɛt/ wet
+    + /wɪm/ whim (n)奇想/怪念頭/突然的念頭 = caprice = vagary --> /ˈwɪmzi/ whimsy (n)反覆無常/異想天開, 與眾不同的想法/奇異的事物
     +++ whimsical (adj)異想天開的/古怪的 = fanciful = unpredictable = capricious = fickle = erratic = quixotic = impulsive = flighty = skittish = wayward
-    + whitewash (v)塗白/粉刷 (n/v)粉飾/掩飾, 徹底擊敗 (n)白塗料/石灰水
+    ++ whitewash (v)塗白/粉刷 (n/v)粉飾/掩飾, 徹底擊敗 (n)白塗料/石灰水
     + wholehearted (adj)全心全意/全神貫注的
-    ++ willful (adj)任性的 = wayward = perverse = disobedient, 故意的 = intentional
-    + winnow (v)篩選/挑選 = sift = separate = select, 除去[out] = remove, 揚起/吹拂 = fan, 修剪 = trim = pare, 縮減 = reduce = pare <-- wind
+    ++ willful (adj)任性的/倔強的 = wayward = perverse = disobedient, 故意的 = intentional = deliberate
+    ++ winnow (v)篩選/挑選 = sift = separate = select, 除去[out] = remove, 揚起/吹拂 = fan <-- wind
     + winsome (adj)引人注目的/迷人的 = charming = engaging, 雀躍的 = cheerful = lighthearted
     + wistful (adj)渴望的/留戀的 = longing = yearning, 傷感的/惆悵的 = melancholy = pensive
     + withdraw (v)抽回/拉開/取消 = take away = remove, 收回/撤回 = retreat = recall = recede = revoke --> withdrawal (n)收回/撤回, 退隱
     + withstand (v)抵抗/反對 = resist = oppose 
     + wit (n)智力/機智 = sagacity = astuteness --> witty (adj)機智的 = scintillating, 風趣的/詼諧的
-    + wizen (v)(使)乾癟 = wither = shrivel --> wizened (adj)乾枯的/乾癟的
-    + woo (v)求婚/求愛 = court, 追求/追逐 = court = pursue, 招致/引起 = court, 懇求/勸誘 = solicit = importune = entreat = urge
+    + /ˈwɪz(ə)n/ wizen (v)(使)乾癟 = wither = shrivel --> wizened (adj)乾枯的/乾癟的
+    ++ woo (v)求婚/求愛 = court, 追求/追逐 = court = pursue, 招致/引起 = court, 懇求/勸誘 = solicit = importune = entreat = urge
 
     ** wage (v)發動戰爭, 在進行中 (n)薪水, 賠償/補償 = compensate = recompense
-    * ware (adj)知道的/意識到的
-    * wail (n/v)慟哭, 呼嘯, 悲歎 = mourn = lament = bewail
-    * wallow (v)打滾 = welter, 沉迷/縱樂 = welter
-    * waste (v)浪費, 使消瘦/使衰弱, 使荒蕪/使荒廢 (n)浪費, 廢棄物, 荒地 (adj)廢棄的, 荒蕪的
+    ** /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的
+    ** /wɛː/ wear (v)磨損/耗損, 允許/接受, 穿戴, 面帶, 梳成
+    ** /ˈwɪəri/ weary (adj)(長時間辛苦工作後)筋疲力盡的 = fatigued = languid, 乏味的 = tiring = tedious, 感到厭倦的 = stale = cloying (v)使疲勞/使疲倦 = exert = fatigue, 開始厭倦 = cloy = glut --> weariness (n) <|> dreary
+    * wail (n/v)慟哭/呼嘯/悲歎 = mourn = lament = bewail
+    * wallow (v)打滾 = welter, 沉迷/縱樂 = welter (n)打滾/打滾的地方
+    *** waste (v)浪費, 使消瘦/使衰弱, 使荒蕪/使荒廢 (n)浪費, 廢棄物, 荒地 (adj)廢棄的, 荒蕪的
     * waver (v)搖動, 躊躇/猶豫 = dither = falter = scruple = vacillate
-    ** wear (v)磨損/耗損, 允許/接受, 穿戴, 面帶, 梳成
-    ** weary (adj)(長時間辛苦工作後)筋疲力盡的 = fatigued = languid, 感到厭倦的 = stale = cloying (v)使疲勞/使疲倦 = exert = fatigue, 開始厭倦 = cloy = glut --> weariness (n) <|> dreary
-    * whelm (v)壓倒/淹沒/覆蓋
+    * /wɛlm/ whelm (v)壓倒/淹沒/覆蓋
     * wholesome (adj)有益的/有益健康的 = salutary = salubrious = beneficial, 謹慎的 = prudent, 安全的 = safe
-    *** wicked (adj)邪惡的/惡毒的 = sinister = evil, 頑皮的 = mischievous = wanton, 令人討厭的 = vile, 超出認知的 (adv)極度 = extremely = very
-    * wieldy (adj)易使用的/易操作的, 有能力的/能力強的
-    * wile (n)詭計/騙人的把戲 (v)誘惑, 消磨/消遣 --> wily (adj)狡猾的 = crafty = subtle = artful = cunning
+    *** wicked (adj)邪惡的/惡毒的 = sinister = evil, 令人討厭的 = vile, 頑皮的 = mischievous = wanton, 過分的/過度的/超出認知的 
+    * /ˈwiːldi/ wieldy (adj)易使用的/易操作的, 有能力的/能力強的
+    * /wʌɪl/ wile (n)詭計/騙人的把戲 (v)誘惑, 消磨/消遣 <|> /wʌɪl/ while --> wily (adj)狡猾的 = crafty = subtle = artful = cunning 
     ** wither (v)枯萎/乾枯/凋謝 = blight = wizen = shrivel = droop = flag, 萎縮/逐漸消失 = blight = flag = decline = dwindle = shrivel --> withered (adj)枯萎的/凋謝的, 憔悴的
     *** withhold (v)抑止/阻止 = stifle = refrain = check, 拒絕給予 = deny = decline = forbear, 扣留/徵收(税)
-    * woe (n)災難 = calamity, 悲傷/悲哀 --> woeful (adj)極壞的/極其惡劣的 = abysmal = egregious = atrocious = outrageous, 悲傷的 = pathetic = grievous
+    * /wəʊ/ woe (n)災難 = calamity, 悲傷/悲哀 --> woeful (adj)極壞的/極其惡劣的 = abysmal = egregious = atrocious = outrageous = deplorable, 悲傷的 = pathetic = grievous
     * wont (n/v)慣於/習慣 = accustom = use (adj)習慣的 = used = accustomed = habituate --> wonted (adj)出於習慣的
     * wordy (adj)嘮叨的 = garrulous = verbose = loquacious, 冗長的, 文字的
     * worship (v)敬奉/崇拜 = revere = hallow = venerate (n)敬奉/信奉, 狂熱推崇 --> worshipful (adj)崇拜的/虔誠的 = reverent
-    *** wretch (n)可憐的人, 可鄙的人 --> wretched (adj)悲慘的/可憐的 = abject = miserable = pathetic = pitiful = dismal = deplorable = sordid = squalid = rueful, 卑劣的/可鄙的 = filthy = sordid = pitiful = despicable = contemptible = mean, 低劣的 = poor = worthless = inferior
-    * wring (v)擰, 擰乾
-    * wrought (adj)精煉的/精製的/加工的 (v)使發生 = cause <-- work
+    *** /rɛtʃ/ wretch (n)可憐的人, 可鄙的人 --> wretched (adj)悲慘的/可憐的 = abject = miserable = pathetic = pitiful = dismal = deplorable = sordid = squalid = rueful, 卑劣的/可鄙的 = filthy = sordid = pitiful = despicable = contemptible = mean, 低劣的 = poor = worthless = inferior
+    * wring (v)擰, 擰乾 = squeeze = twist, 使痛苦/使煩惱
+    * /rɔːt/ wrought (adj)加工的, 精細的  <-- work
 
     ^ waddle (v)（鴨、鵝般地）搖搖擺擺地走 (n)搖擺的步伐, 蹣跚
     ^ waffle (v)胡扯/嘮叨 (n)胡扯/無聊話, 鬆餅/奶蛋格子餅
