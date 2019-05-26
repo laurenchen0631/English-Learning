@@ -1410,7 +1410,7 @@
             - decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
             + decipher (v)破解/破譯 = decode
             - decode (v)破譯 = decipher
-            + defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
+            +++ defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
             * demolish (v)破壞 = destory = ruin, 拆除 --> demolition (n)破壞 <-- de + mol 建造 = construct + ish
             - detest
 
@@ -2069,7 +2069,7 @@
     empt 買/獲取/拿 = buy, obtain, take
         * exempt (v)免除/豁免 = immune (adj)被免除的
         + peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = peremptory = dictatorial = overbearing
-        + preempt (v)阻止 = forestall, 取代 = supersede, 以先買權獲得
+        +++ preempt (v)阻止 = forestall, 取代 = supersede, 以先買權獲得
         + prompt (adj)敏捷的 = quick = alert, 及時的/準時的 = punctual (v)促使/激勵/激起 = inspire = induce = incite, 提示
 
     {esce}, {escent} 開始...的
@@ -3567,7 +3567,7 @@
     miss, mit, mise 送/放出 = send, give over
         *** commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
         + commitment (n)忠誠/投入/奉獻/承諾
-        - commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
+        *** commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
         - committal (n)委任/託付, 承諾, 義務, 拘押, 犯罪
         + demit (v)辭職/退職
         + demise (n)死亡 = decease = death, 終結 = termination, 財產轉讓
@@ -6494,7 +6494,7 @@
         - unjustly (adv)不義地/不法地
         - unkempt (adj)未梳理的/蓬亂的/不整潔的
         - unleash (v)發洩/釋放
-        - unmitigated (adj)未緩和的/未減輕的, 全然的
+        * unmitigated (adj)未緩和的/未減輕的, 全然的
         - unmoved (adj)無動於衷的/冷漠的, 鎮定的
         + unnoticed (adj)不引人注目的
         + unoriginal (adj)非原創的/模仿的

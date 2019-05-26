@@ -55,6 +55,7 @@
 			>> get involved in 
 	- a raft of == A large amount of something
 		> A raft of studies has documented the growing divergence between places based on their ability to attract, retain, and cluster highly educated and skilled workers and to develop high-tech startup companies.
+	- a range of == a set of similar things
 	- the (adj) amount of
 	- amounts of 
 	- account for
@@ -185,6 +186,10 @@
 	- as yet == up to the present
 		> Second, the fungi cannot as yet be cultivated in the absence of a living root
 			>> in the absence of
+	- as for == with regard to.
+		> As for the three tricks? Number one is to “harness the power of precommitment,” said De La Rosa.
+	- as opposed to == rather than == instead of
+		> Visitors build a stronger connection to the brand when they are front and center as opposed to an observer in this Star Wars universe, Niles said.
 
 	- ascribe A to B
 		1. 認為 A 是 B 所為 == B said or created A == A is ascribed to B
@@ -301,6 +306,9 @@
 		> As astronomers explore the vast outer reaches of space, physicists are busy working at the opposite end of the spectrum, studying the microworld of particles that make up all things.
 	- at this very second == at this moment
 		> At this very second, this page is releasing chemical energy.
+	- at that point in time == At a particular moment in the past
+		> It gets people to share what their priorities in life are at that point in time
+	
 [B]
 	+ be to 未來式
 		> |used for telling someone what to do| You are to stay here until I send for you
@@ -511,7 +519,12 @@
 
 	- due to N
 		> The short break from this cooling trend may have caused by a rise in carbon dioxide concentrations in the atmosphere due to the burning of fossil fuels
-
+	- dawn on someone == to become known or obvious to someone, often suddenly:
+		> It only gradually dawned on me that there was a tragic flaw deep inside the institution to which I’d given my life, and that it had to do with the priesthood itself.
+	- down with 
+		> |used to say that one does not like something and wants it to stop or fail| Down with racism!
+		> NA |used to say that one understands or approves of something| I told them I wasn't down with lying to people.
+		> |affected by (an illness)| She has been down with the flu for a week.
 [E]
 	- to the extent (of/that) == so strongly that
 	- the extent to which == the degree to which something happens or is likely to happen
@@ -538,9 +551,13 @@
 		> Before evolution hit a snag, and we reverted to slouching and staring at our phones, human beings walked with their eyes up, looking at things
 	- one's heyday == The period of a person's or thing's greatest success, popularity, activity, or vigour.
 		> During its heyday in New York, neon signage made people long to chew Wrigley’s Spearmint gum, to smoke Camels, to put on a tuxedo and have a cup of Maxwell House coffee poured for them by a butler who was also wearing a tuxedo.
+	- have/with an eye to sth
+		> |regarding; with reference to| with an eye to transatlantic business, he made a deal in New York
+		> |with the intention or purpose of| the charity must have an eye to the future
 [I]
 	- in spite of 儘管 == despite of 
-
+	- in terms of 
+		> If you are there strictly for your own gain and you’re not talking in terms of my priorities ever, that’s when I’m seeing someone is there to manipulate me.
 	- in fact == indeed
 		> in fact, they occur somewhere in the world every year
 
@@ -550,6 +567,13 @@
 	- in other words == namely == that is
 	- in phase with == in harmony with
 		> The light waves of lasers beams are exactly in phase with one another and so nearly parallel that they can travel for long distances in a straight line.
+	- in the wind
+		> |If something is in the wind, people are talking about it and it may happen, but noone is sure| Rumours of a takeover are in the wind.
+		> |If someone is in the wind, they are missing, especially after escaping| The suspects are in the wind.
+
+[L]
+	- less of == to a smaller extent or degree
+		> ... making luggage check less of a pain could encourage a lot more customers to use it
 
 [O]
 	- on the other hand == in contrast
@@ -557,15 +581,18 @@
 		> “I get bombarded with things about Leonardo on a regular basis that range from laughable to insane,” Kemp told me recently.
 	- or so == approximately
 		> Edison's goal was "a minor invention every ten days and a big thing every six months or so," an objective that was readily achieved
+	- of sorts == used to describe something that is not a typical or good example of something
+		> That’s all changed, for two reasons, both of which can be thought of as technological advancements of sorts
 	- off guard == Unprepared for a surprise or difficulty.
 	- out of the gate == At or from the very starting position
 		> The company’s stock tumbled about 5% out of the gate, to the $42 range.
 [P]
 	- prefer to V
-
+	- put sb at ease == To calm, comfort, or reassure one; to make one comfortable or relaxed.
+		> How to put strangers at ease.
 [R]
-	- a range of == a set of similar things
-
+	- run short of == to near the end of a supply of something
+		> When people have to wait in queues, they risk running short of oxygen - and may not have enough oxygen left on their way down.
 [S]
 	- subordinate A to B 把A置於B的次要地位 == A is less important than B
 	- stake one's claims on == If you stake a claim to something, you say or show that you have a right to it and that it should belong to you
@@ -580,6 +607,16 @@
 		> When he came west, though, he was taken aback by the level of animosity he encountered in the U.S. raisin industry.
 	- to the present == until now
 		> From the time of Einstein's first important publication in 1905 to the present, science has become the world of the mathematician
+	- the second (that) == as soon as
+		> The second I saw him, I knew he was going to be a star.
+		> The second that I think about my response, I’m half listening to what you’re saying because I’m really waiting for the opportunity to tell you my story.
+
+[U]
+	- up with == shouted or written on notices to show support
+		> Up with freedom, down with repression
+	- under a cloud == to not be trusted or popular because people think you have done something bad
+		> It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
+
 [W]
 	- get the last word == have the last word == to say the last thing in a discussion or argument or make the final decision about something
 		> a nonlinear argument is unfurling as everyone tries to get the last word in first, and chaos envelops the very system meant to keep you organized.

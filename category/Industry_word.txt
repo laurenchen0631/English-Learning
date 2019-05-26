@@ -24,7 +24,15 @@
 	- rank and file == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- subcontractor == A firm or person that carries out work for a company as part of a larger project
 	- C-suite  ==  the group of the most important managers in a company, for example, those whose titles begin with the letter C, for 'chief'
-	- demote == Move (someone) to a lower position or rank, usually as a punishment.
+	+ demote == Move (someone) to a lower position or rank, usually as a punishment.
+	- pyramid scheme 金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
+	- multi-level marketing (MLM)
+	- blockbuster == A thing of great power or size, in particular a film, book, or other product that is a great commercial success.
+	- ancillary == subsidiary
+		> |Providing necessary support to the primary activities or operation of an organization, system, etc.| ancillary staff
+		> |A person whose work provides necessary support to the primary activities of an organization, system, etc.| the employment of specialist teachers and ancillaries
+		> |In addition to something else, but not as important.| paragraph 19 was merely ancillary to paragraph 16
+		> |Something which functions in a supplementary or supporting role.| undergraduate courses of three main subjects with related ancillaries
 
 [House]
 	- butler == The chief manservant of a house.
@@ -35,7 +43,7 @@
 [Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
 	- obituary 訃告 == A notice of a death, especially in a newspaper
-
+	- columnist 專欄作家
 [Finance]
 	- IPO == Initial Public Offerings 首次公開募股
 	- underwater == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
@@ -45,23 +53,57 @@
 	- venture capital 創業投資
 	- mortgage 抵押貸款 == A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.
 	- real estate 房地產
+	- hedge fund 避險基金，又稱對沖基金或套利基金
+	- capex == Capital expenditure 資本支出
+	- inflation
+		> |The action of inflating something or the condition of being inflated.| the inflation of a balloon
+		> 通貨膨脹 |A general increase in prices and fall in the purchasing value of money.|
 
-[Law]
+[Law/Crime]
 	- the Supreme Court 最高法院
 	- the Fifth Amendment 第五修正案
 	- appeals court 上訴法院
 	- trial court 初審法院
 	- the Circuit Court 美國巡迴上訴法院
+	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
+	- molestation 性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
+	- condemn
+		>> |Express complete disapproval of; censure.| most leaders roundly condemned the attack
+		>> |Sentence (someone) to a particular punishment, especially death.| the rebels had been condemned to death
+		>> |(of circumstances) force (someone) to endure or accept something unpleasant.| ‘the physical ailments that condemned him to a lonely childhood
+		>> |Prove or show to be guilty or unsatisfactory.| she could see in his eyes that her stumble had condemned her
+		>> |Officially declare (something) to be unfit for use.| the pool has been condemned as a health hazard
+	- grand jury 大陪審團
+	- adjudication 判決
+	- verdict 裁決 == A decision on an issue of fact in a civil or criminal case or an inquest.
+	- testimony 證言/證言 == A formal written or spoken statement, especially one given in a court of law.
+	- pedophile 戀童癖 == A person who is sexually attracted to children.
+	- search warrant 搜查令/搜索票
+	- mandatory 義務的 == Required by law or mandate; compulsory.
+	- hijack
+		>> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.| a man armed with grenades hijacked the jet yesterday
+		>> |An incident or act of hijacking.|
+		>> |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
+		>> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
 
 [Army]
 	- captain
 	- lieutenant 中尉/少尉, 海軍上尉 
+	- outpost
+		> 前哨 |A small military camp or position at some distance from the main army, used especially as a guard against surprise attack.| troops in some outposts have surrendered
+		> |A remote part of a country or empire.| a few scattered outposts along the west coast
+	- sergeant == A rank of non-commissioned officer in the army or air force, above corporal and below staff sergeant.
+	- sergeant-at-arms 議會警衛官
 
-[Aviation]
+[Transportation]
 	- captain 機長
 	- first officer 副機長
 	- control column 駕駛桿
 	- rollout == The unveiling of a new aircraft or spacecraft
+	- legroom == Space in which a seated person can put their legs.
+	- baggage claim 行李認領
+	- luggage check 行李托運
+	- cockpit 座艙/駕駛艙 == A compartment for the pilot
 
 [Agriculture]
 	- ranch == A large farm where cattle or other animals are bred. 
@@ -121,6 +163,30 @@
 		> |An examination of a dead body to determine the cause of death.|
 		> |An analysis or discussion of an event held soon after it has occurred, especially in order to determine why it was a failure.| an election postmortem on why the party lost
 		> |Relating to a postmortem.|
+	- dysfunction
+		> 官能障礙 |Abnormality or impairment in the operation of a specified bodily organ or system.| 
+		> |Disruption of normal social relations.| 
+	- contraception 避孕
+	- visceral
+		> 內臟的 |Relating to the viscera.| the visceral nervous system
+		> |Relating to deep inward feelings rather than to the intellect.|
+	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
+	- spine
+		> 脊椎 |backbone|
+		> |The central feature or main source of strength of something.| players of high quality who will form the spine of our side
+		> 書脊 |The part of a book's jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author's name.| 
+		> |A tall mass of viscous lava extruded from a volcano.| 
+		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.|
+	- chronic pain 慢性疼痛
+	- shoulder blade 肩胛骨
+	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
+	- ego
+		>> |A person's sense of self-esteem or self-importance.|
+		>> 自我 |The part of the mind that mediates between the conscious and the unconscious and is responsible for reality testing and a sense of personal identity.| <--> id <--> superego
+	- fight-or-flight response 戰鬥或逃跑反應 == hyperarousal == acute stress response == a physiological reaction that occurs in response to a perceived harmful event, attack, or threat to survival
+	- pharmaceuticals == A compound manufactured for use as a medicinal drug.
+	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
+	- oxygen cylinder 氧氣瓶
 
 [Clothing]
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
@@ -133,9 +199,39 @@
 		> |A jacket or other garment made from a fleece fabric.|
 		> |obtain a great deal of money from (someone), typically by overcharging or swindling them.| the city's cab drivers are notorious for fixing fares and fleecing tourists
 		> |Cover as if with a fleece.| the sky was half blue, half fleeced with white clouds
+	- duffel 粗呢 == A coarse woollen cloth with a thick nap.
+	- mustache /məˈstɑːʃ/ 髭 == A strip of hair left to grow above the upper lip.
+	- slacks 寬鬆長褲 == Casual trousers.
+	- button down shirt 鈕扣襯衫，在領子尖端加上鈕扣的襯衫
+	- sandal 涼鞋 == A light shoe with either an openwork upper or straps attaching the sole to the foot
+	- sneaker 運動鞋 == A soft shoe worn for sports or casual occasions; a trainer.
+	- business professional
+	- business casual 商務便裝
 
 [Music]
 	- the Beatle 披頭四樂團
+	- score
+		> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
+		> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
+		> |A rating or grade, such as a mark achieved in a test.|
+		> |Decide on the score to be awarded to (a competitor)| the judge must score each dog and handler against this standard
+		> |Be worth (a number of points)| a yes answer scores ten points
+		> |The state of affairs; the facts about the present situation.| What's wrong Simon? What's the score?
+		> |A group or set of twenty or about twenty.| a score of men lost their lives in the battle
+		> scores of |A large number of something.| he sent scores of enthusiastic letters to friends
+		> 總譜 |A written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.|
+		> 配樂 |The music composed for a film or play.| a film score
+		> |Orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.| the Quartet Suite was scored for flute, violin, viola da gamba, and continuo
+		> |A notch or line cut or scratched into a surface.| check the shaft for scratches and scores
+		> |Cut or scratch a notch or line on (a surface)| score the card until you cut through
+		> |Delete text by drawing a line through it.|
+	- tenor
+		> 男高音/次中音 |A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range.| 
+		> |An instrument, especially a saxophone, trombone, tuba, or viol, of the second or third lowest pitch in its family.|
+		> 大意/要旨 |The general meaning, sense, or content of something.| the general tenor of the debate
+		> 一般趨向/進程 |A settled or prevailing character or direction, especially the course of a person's life or habits.| the even tenor of life in the kitchen was disrupted the following day
+		> 抄本 |The actual wording of a document.|
+		> |The time that must elapse before a bill of exchange or promissory note becomes due for payment.|
 
 [Art]
 	- the Mona Lisa
@@ -144,10 +240,75 @@
 	- The Last Supper 最後的晚餐
 
 [Religion]
+	- priesthood == The office or position of a priest.
+	- clergy 牧師
 	- clergymen == A male priest, minister, or religious leader
 	- vigil
 		> 守夜 |A period of keeping awake during the time usually spent asleep, especially to keep watch or pray.| 
 		> |(in the Christian Church) the eve of a festival or holy day as an occasion of religious observance.|
+	- parish 教區 == a small administrative district typically having its own church and a priest or pastor.
+	- papal == Relating to a pope or to the papacy.
+	- Pope 教皇
+	- archbishop 大主教
+	- bishop
+		>> 主教 |A senior member of the Christian clergy, usually in charge of a diocese and empowered to confer holy orders.|
+		>> |A chess piece, typically with its top shaped like a mitre, that can move in any direction along a diagonal on which it stands.| 
+		>> |An African weaver bird, the male of which has red, orange, yellow, or black plumage.| 
+	- diocese 教區
+	- Galveston-Houston 天主教加爾維斯頓-休斯敦總教區
+	- pilgrimage
+		>> 朝聖 |A pilgrim's journey.|
+		>> |A journey to a place of particular interest or significance.|
+	- Mass 彌撒 == The celebration of the Christian Eucharist, especially in the Roman Catholic Church.
+	- Eucharist 聖餐禮
+	- christianity 基督教 == The religion based on the person and teachings of Jesus Christ, or its beliefs and practices.
+	- Catholic 天主教的
+	- tribune
+		> |An official in ancient Rome chosen by the plebeians to protect their interests.| 
+		> 半圓壁龕 |An apse in a basilica.|
+		> 講壇 |A dais or rostrum, especially in a church.|
+	- the Second Vatican Council 第二次梵蒂岡大公會議
+	- nave 教堂中殿 == The central part of a church building
+	- basilica 長方形會堂/教堂 == A large oblong hall or building with double colonnades and a semicircular apse, used in ancient Rome as a law court or for public assemblies.
+	- theological 神學的 == Relating to the study of the nature of God and religious belief.
+	- liturgy 禮拜 == A form or formulary according to which public religious worship, especially Christian worship, is conducted.
+	- Judaism == Jews 猶太教
+	- congregation
+		> 集會 |A group of people assembled for religious worship.|
+		> |A gathering or collection of people, animals, or things.|
+		> |a permanent committee of the College of Cardinals.|
+		> |A group of people obeying a common religious rule but under less solemn vows than members of the older religious orders.|
+	- cult /kʌlt/
+		> 膜拜 |A system of religious veneration and devotion directed towards a particular figure or object.| 
+		> |A person or thing that is popular or fashionable among a particular group or section of society.|
+		> 邪教/異教 |A relatively small group of people having religious beliefs or practices regarded by others as strange or as imposing excessive control over members.|
+	- synagogue 猶太教堂 == A building in which Jews meet for religious worship or instruction.
+	- Jewish == Relating to, associated with, or denoting Jews or Judaism.
+	- apostolic 使徒的 == Relating to the Apostles.
+	- baptismal 淨禮的 == Relating to the Christian rite of baptism.
+	- Gospels 福音書（《聖經》中記載耶穌生平的四福音書之一）
+	- Genesis 創世記
+	- netherworld == The underworld; hell.
+	- sacrament 聖禮/聖餐
+	- ordain
+		> |Make (someone) a priest or minister; confer holy orders on.| he was ordained a minister before entering Parliament
+		> |Order (something) officially.| equal punishment was ordained for the two crimes
+	- chaplain 附屬教堂牧師 == A member of the clergy attached to a private chapel, institution, ship, regiment, etc.
+	- laity 俗人
+	- pontificate
+		> |(in the Roman Catholic Church) the office or period of office of a pope or bishop.| Pope Gregory VIII enjoyed only a ten-week pontificate
+		> |Express one's opinions in a pompous and dogmatic way.| he was pontificating about art and history
+		> |(in the Roman Catholic Church) officiate as bishop, especially at Mass.| he pontificated at three Christmas Masses
+	- encyclical 諭 == A papal letter sent to all bishops of the Roman Catholic Church.
+	- Jesuit 耶穌會信徒
+	- theism == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
+	- atheism 無神論
+	- Islam 伊斯蘭教
+	- prelate 高級教士 == A bishop or other high ecclesiastical dignitary.
+	- nemesis
+		> |The inescapable agent of someone's or something's downfall.| njury, consistently his nemesis, struck him down during the match
+		> |A long-standing rival; an arch-enemy.| will Harry Potter finally defeat his nemesis, Voldemort?
+		> 報應 |Retributive justice| Nemesis is notoriously slow
 
 [Engineer]
 	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
@@ -165,3 +326,20 @@
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.
+	- caste
+		>> 種姓制度 |Each of the hereditary classes of Hindu society, distinguished by relative degrees of ritual purity or pollution and of social status.| 
+		>> |The system of dividing society into castes.|
+		>> | Any class or group of people who inherit exclusive privileges or are perceived as socially distinct.| 
+	- monarch 君主/統治者 == A sovereign head of state, especially a king, queen, or emperor
+	- regime
+		>> 政權 |A government, especially an authoritarian one.|
+		>> 社會制度 |A system or ordered way of doing things.| 
+	- vassal 諸侯/封臣 == A holder of land by feudal tenure on conditions of homage and allegiance.
+	- governor
+		>> 州長/總督/統治者 |An official appointed to govern a town or region.| 
+		>> 主管/董事 |The head of a public institution.| 
+		>> |A member of a governing body.|
+
+[Structure]
+	- balcony 陽台
+	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.

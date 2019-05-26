@@ -2,12 +2,19 @@
 	- kilowatt-hour == a unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules
 	- kiloliter
 	- pound == 0.45359237 kilogram
+	- ft == feet == foot == A unit of linear measure equal to 12 inches (30.48 cm)
 	- square foot 平方英尺
 	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
 	- are 公畝 == 100 square meters == 119.6 square yards
 	- degree Celsius == °C
 	- dozen == twelve
-	- millennium == A period of a thousand years, especially when calculated from the traditional date of the birth of Christ.
+	+ millennium == A period of a thousand years
+	+ millennial
+		>> |Denoting or relating to a period of a thousand years.| 
+		>> |Denoting people reaching young adulthood in the early 21st century.| 
+		>> N |A person reaching young adulthood in the early 21st century.|
+	- parsec == A unit of distance used in astronomy, equal to about 3.26 light years
+	- mph == miles per hour
 
 [Chemical]
 	- carbon dioxide

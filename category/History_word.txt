@@ -1,3 +1,9 @@
+[Age]
+- the Middle Ages
+
+[Race]
+- the Sherpa 夏爾巴人/雪巴人，一支散居在尼泊爾、中國、印度和不丹等國邊境喜瑪拉雅山脈兩側的民族
+
 [Celebrity]
 - Charles Darwin 查爾斯·羅伯特·達爾文，英國地理學家、生物學家，其最著名的研究成果是演化論
 - Thomas Jefferson 湯瑪斯·傑佛遜，美利堅合眾國第三任總統。同時也是《美國獨立宣言》主要起草人，
@@ -5,6 +11,7 @@
 - Albert Einstein 阿爾伯特·愛因斯坦，猶太裔理論物理學家，他創立了現代物理學的兩大支柱之一的相對論，也是質能等價公式的發現者。
 - Thomas Edison 湯瑪斯·阿爾瓦·愛迪生
 - Leonardo da vinci
+- Emperor Constantine
 
 [Spain]
 - conquistador /kɒnˈkwɪstədɔː/ == A conqueror, especially one of the Spanish conquerors of Mexico and Peru in the 16th century.
@@ -26,7 +33,11 @@
 - the U.S. Customs 美國海關
 - Border Protection agency 邊境保護局
 - the Department of Defense 美國國防部
+- the U.S. Department of Justice 美國司法部
+- the General Services Administration 總務署
+- the House of Representatives 美國眾議院
 
 [War]
 - Word War II == the Second World War
 - the Glorious Revolution 光榮革命
+- Holocaust 猶太人大屠殺

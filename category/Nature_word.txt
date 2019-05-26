@@ -3,6 +3,13 @@
 - pesticide == A substance used for destroying insects or other organisms harmful to cultivated plants
 - suffocation == asphyxiation
 - trimester == A period of three months, especially as a division of the duration of pregnancy.
+- spawn
+	> |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
+	> |The eggs of fish, frogs, etc.| the fish covers its spawn with gravel
+	> |(of a character or object in a video game) appear at a certain point in the game.| then they enter the undead land where defenders will spawn to fight against them
+	> |(of a person) produce (offspring)| why had she married a man who could spawn a boy like that?
+	> |Produce or generate a large number of.| the decade spawned a bewildering variety of books on the forces
+	>> 菌絲 |The mycelium of a fungus, especially a cultivated mushroom| a supplier of spawn for shiitake mushrooms
 
 [Animal]
 - tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -13,6 +20,8 @@
 - bison 北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
 - elk 駝鹿/麋鹿/美洲赤鹿 
 - moth 蛾
+- squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
+- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
 
 [Plant]
 * shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.

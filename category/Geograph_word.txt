@@ -3,6 +3,13 @@
 - continent /ˈkɒntɪnənt/
 - temperate zone 溫帶
 - tropic 熱帶
+- ridge	
+	> 山脊 |A long, narrow hilltop, mountain range, or watershed.| the North-East ridge of Everest
+	> |Mark with or form into ridges.| the ridged sand of the beach
+	> |(of a surface) form into or rise up as a ridge.| the crust of the earth ridged
+	> 隆起 |A narrow raised band on a surface.|
+	> |An elongated region of high barometric pressure.|
+
 
 [U.S POI]
 - the United States
@@ -32,6 +39,8 @@
 - the Missouri River 密蘇里河，是密西西比河最長的支流
 - the Yosemite Valley 優勝美地谷
 - the Yellowstone River 黃石河，美國西部密蘇里河的一條支流
+- Broadway 百老匯
+- Anaheim 安那翰，是美國加利福尼亞州橘郡的第2大城市
 
 [U.S. State]
 - Nevada
@@ -59,7 +68,7 @@
 - Michigan 密西根州，位於五大湖地區。
 - Louisiana 路易斯安那州，位於墨西哥灣沿岸
 - New Orleans 新奧爾良
-- Broadway 百老匯
+- Pennsylvania 賓夕法尼亞州是美國的州份之一，正式名稱為「賓夕法尼亞聯邦」
 
 [World]
 - the Western Hemisphere
@@ -82,9 +91,17 @@
 - Arezzo 阿雷佐位於義大利中部托斯卡納大區
 - Piacenza 皮亞琴察是義大利北部艾米利亞-羅馬涅地區的一座城市
 - Lithuania 立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
+- Venice 威尼斯
+- Argentina 阿根廷
+- Cuba 古巴
+- Nepali 尼泊爾人(的)/尼泊爾語(的)
+- Tibet 藏區
 
 [Worldwide POI]
 - Vesuvius 維蘇威火山
+- Toronto 多倫多，加拿大安大略省首府
+- Rock of Gibraltar 直布羅陀巨巖
+- Mount Everest == Everest 聖母峰
 
 [Ocean]
 - the Pacific Ocean
