@@ -39,10 +39,10 @@
             - aggravate
             + aggregate
             + aggressive
-            + aghast (adj)嚇呆的/驚駭的 <-- a + ghost 
+            + /əˈɡɑːst/ aghast (adj)嚇呆的/驚駭的 <-- a + ghost 
             - agile (adj)敏捷的 = athletic = lithe
-            + agitate (v)攪拌 = stir = beat = fret, 使焦慮 = disturb = upset = perplex = perturb, 煽動 = incite = exasperate --> agitated (adj)焦慮的 = overwrought = restive
-            - allege
+            + agitate (v)攪拌 = stir = beat, 使焦慮 = disturb = upset = perplex = perturb, 煽動 = incite = exasperate --> agitated (adj)焦慮的 = overwrought = restive
+            * allege
             - allegiance
             + alleviate
             + allure --> alluring
@@ -89,12 +89,13 @@
             + abdicate
             + abjure
             + abstain
-            + abstemious (adj)(吃喝)節制的, 節儉的 = temperate = restrained = frugal <-- abs + tem 酒 + ious
+            + /əbˈstiːmɪəs/ abstemious (adj)(吃喝)節制的, 節儉的 = temperate = restrained = frugal <-- abs + tem 酒 + ious
             + abstruse
             * abuse
-            + abyss (n)深淵, 險境 --> abysmal (adj)無底的, 難以理解的 = unfathomable, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
+            ++ /əˈbɪs/ abyss (n)深淵, 險境 --> abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
             - anaerobic
             - analgesia
+            * anesthetic, anaesthetic (n)(手術用)麻醉劑 <-- an + aesthetic
             - anemia
             + anomaly (n)異常/異常事物 --> anomalous (adj)異常的/不正常的 = irregular = aberrant
             + anonymity --> anonymous 
@@ -111,15 +112,16 @@
             + absolve
             - absorb
 
-    ana = against, back == re
-        1. 錯誤
-            + anachronism --> anachronistic
-            - anagram
-
-        2. 分開
-            - anaesthetic (n)(手術用)麻醉劑
+    ana
+        1. 上 = up, upwards
             - analyze
             - anatomy
+
+        2. 再次 = again
+            - anagram
+
+        3. 後/倒/逆 = back, backwards
+            + anachronism --> anachronistic
 
     ant, anti
         1. 反/反對/反抗
@@ -1741,6 +1743,7 @@
     dys 不良/困難 = difficult, ill, bad
         - dyslexia (n)讀寫障礙 <-- dys + lex 字 = word + ia
         + dyspeptic (adj)消化不良的, 易怒的 = grumpy = cantankerous = irritable <-- dys + pept 消化 = digest + ic
+        * dysfunction (n)官能障礙
 
     dox 思想/意見 = opion
         + heterodox
@@ -2365,7 +2368,7 @@
     fess 承認/聲明 = admit, acknowledge, declare
         - confess (v)坦白/供認/懺悔/招認(錯誤或罪行) = acknowledge = admit
         * profess (v)聲稱/自稱/謊稱 = purport = allege = claim
-        * professed (adj)公開表明的, 假裝的/聲稱的 = ostensible = ostensive = pretended, 專業的
+        ** professed (adj)公開表明的, 假裝的/聲稱的 = ostensible = ostensive = pretended, 專業的
         - professor (n)教授
 
     fisc 錢 = basket, moneybag
@@ -2467,7 +2470,7 @@
         + aggressive (adj)好鬥的 = belligerent = assertive = militant, 積極進取的
         - aggressor (n)侵略者 = assailant = invader
         + digress (v)離題 --> digression (n)離題/脫軌
-        + egress (n)外出, 出口/出路
+        ++ egress (N)外出, 出口/出路 (v)離開
         - ingredient (n)成分/原料
         - progress (n/v)進步/進展 = advance = proceed = boost
         - regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的
@@ -2522,7 +2525,7 @@
     gender, gener, gen, genu 產生/生/種類 = beget, born
         - carcinogen (n)致癌物質
         + congenial (adj)意氣相投的 = compatible, 友善的/令人愉快的 = amiable = agreeable = friendly <-- con + genius + al
-        + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate
+        + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate = reproduce
         + eugenics (n)優生學
         - general (adj)一般的 = generic, 普遍的/全體的, 將軍級的
         - generality (n)概述
@@ -2740,7 +2743,7 @@
         + hieroglyphic (n)象形文字 = hieroglyph (adj)象形文字的, 難解的 --> hieroglyphics (n)象形文字
 
     hom 人 = man
-        + homage (n)效忠, 尊敬/崇敬
+        + homage (n)尊敬/崇敬, 效忠
         - homicide
 
     homo, homeo 相同 = similar
@@ -3104,7 +3107,7 @@
             - intercessor
             - interchange (v)交換/互換 --> interchangeable (adj)可互換的
             + interdict
-            - interfere (v)插手/干涉 --> interference (n)干涉/妨礙 <-- inter + fere 攻擊 = strike
+            - interfere (v)插手/干涉 --> interference (n)干涉/妨礙 <-- inter+ fere 攻擊 = strike
             - interim (n)中間時期/過渡時期 (adj)暫時的 = temporary
             - interject --> interjection
             - interlude
@@ -3169,7 +3172,7 @@
         + circuitous
         - initial
         + itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic
-        + /ʌɪˈtɪn(ə)(rə)ri/ tinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
+        + /ʌɪˈtɪn(ə)(rə)ri/ itinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
         - obituary
         + sedition (n)煽動叛亂/煽動性的言論 <|> petition <-- se + d + it + ion
         - transit --> transition 
@@ -4411,7 +4414,7 @@
             * percept --> perception
             + perceptible
             + /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
-            + perennial (adj)終年的, 永久的 = permanent = persistent = enduring = recurring <-- per + enn 年 = year + ial
+            + /pəˈrɛnɪəl/ perennial (adj)終年的, 永久的 = permanent = persistent = enduring = recurring <-- per + enn 年 = year + ial
             - perfervid
             + perish (v)消滅/死去/消亡 --> perishing (adj)嚴寒的
             + pernicious (adj)有害的 = noxious = harmful = malign = baneful, 致命的 = destructive = deadly = baneful =  <-- per + nic 死 = death + ious
@@ -4716,7 +4719,7 @@
         + /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
         + opponent (n)敵手/對手
         +++ oppose (v)反抗 = combat, 妨礙/阻礙 = hinder = hamper = impede = obstrucy, 反對 = gainsay = naysay --> opposition (n)反對/反抗/對立
-        +++ pose (v)擺姿勢, 造作/裝腔作勢
+        +++ pose (v)擺姿勢, 造作/裝腔作勢, 提出, 引起/造成, 使為難
         + /pəʊˈzəː/ poseur (n)裝模作樣的人
         + posit (v)斷定/認為 = postulate = presume = suggest
         - position (n)職位, 地位, 地點, 處境, 安置方式, 態度 (v)安放/放置
@@ -4733,7 +4736,7 @@
         - proposal (n)提案/建議, 求婚 
         - proposition (n)看法/主張, 提議/建議 = proposal
         - purpose
-        + repose (n)休息/睡眠 = recess, 安詳/安靜/靜止 = peacefulness = tranquility (v)躺著休息/安睡
+        + repose (n)休息/睡眠 = recess, 安詳/安靜/靜止 = peacefulness = tranquility, 長眠 (v)躺著休息/安睡
         - superimpose (v)加在上面
         + suppose (v)猜想/期望 --> supposition (n)想像/假定/推測 = assumption = hypothesis
         - transpose (v)變換位置/調換
@@ -4781,7 +4784,7 @@
         - reprove (v)責罵/申斥 = censure = tax --> reproof (n)斥責/責備 = rebuke
 
     propr, proper 擁有 = own
-        + appropriate (adj)恰當的 = agreeable, 撥款 = allot, 挪用/盜用 = embezzle
+        ++ appropriate (v)撥款 = allot, 挪用/盜用 = embezzle (adj)恰當的 = agreeable
         - misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
         - property (n)財產, 房地產, 所有權
         + propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
@@ -5166,7 +5169,7 @@
             - replenish
             + replete
             + replicate
-            - repose
+            + repose
             + /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
             - reprobate
             + reproduce
@@ -6814,7 +6817,6 @@
     vic, viti, vitu 邪惡 = vice
         - vice (n)邪惡
         ++ vicious (adj)邪惡的/墮落的 = depraved = profligate = putrid, 應受譴責的 = reprehensible = blameworthy, 惡意的 = spiteful = malicious = malevolent = vindictive = malign = mean = wanton, 殘暴的 = savage = ferocious, 極度不舒服的 = unpleasantly severe
-        + vicissitude (n)變化無常/變換, 盛衰/興敗 --> vicissitudinuos (adj)有變化的/變遷的
         + /ˈvɪʃɪeɪt/ vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
         - vitiable (adj)能使腐敗的/能使無效的
         + vituperate (v)痛斥/辱罵 = revile --> vituperation (n)謾罵/責罵 = invective
