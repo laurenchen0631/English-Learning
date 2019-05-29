@@ -125,22 +125,22 @@
 
     ant, anti
         1. 反/反對/反抗
-            - antagonize
-            - Antarctic
+            +++ antagonize
+            - Antarctic (adj)南極的 (n)南極地區
             - antibiotic
             - antibody (n)抗體
             - antigen (n)抗原
-            - antidote
+            + antidote
             - antihistamine
-            - antipathy
-            - antipode (n)相反
+            + antipathy
+            - antipode (n)正相反的事物
             - antonyms
             + antithesis
             - antiseptic
 
         2. 古 = ancient
             - antic (adj)古怪的 = erratic
-            * antique (adj)古時的/古老的 (n)古董
+            * /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
             * antiquated (adj)陳舊的/過時的 = antediluvian
             + antiquarian (adj)古文物的 (n)古文物家
             - antiquity (n)古代, 古董, 古蹟
@@ -149,7 +149,7 @@
         - ancestor (n)祖先 = antecedent --> ancestry (n)家系
         + antedate (v)早於...存在
         + antediluvian (adj)史前的, 過時的
-        - antecede (v)先於 = precede
+        * antecede (v)先於 = precede
         + antecedent (n)前事/前身, 祖先 (adj)先前的 = anterior = previous <-- antecede
         - antenna (n)觸角, 天線
         - anterior (adj)較早的/先前的, 前面的/前部的
@@ -160,7 +160,7 @@
         + ambrosia (n)美味佳餚/仙饈
         - amorous (adj)多情的, 戀愛的
         + amiable (adj)(自己)和藹的 = affable <-- amicable
-        - amicable (adj)(他人)友好的 = amiable
+        * amicable (adj)(他人)友好的 = amiable
         - amity (n)友好關係
         + enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
         * glamor, glamour (n)吸引力/魅力
@@ -180,23 +180,28 @@
         - ambulance (n)救護車
         - perambulate (v)巡視, 散步 = stroll = amble
         + preamble (n)前言/序言 = preface = prologue
-        * ramble (v)漫步/閒逛 = amble
+        * /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble <|> /ˈreɪnbəʊ/ rainbow
         - noctambulant
 
+    ampl 大 = wide, large
+        *** ample (adj)充足的 = adequate = abundant = bountiful = rife, 大的/寬敞的 = large = accommodating
+        + amplify (v)放大 = augment, 詳述
+        - amplitude (n)廣大/廣闊, 震幅
+
     acerb, acid, acri 尖酸/嚴厲 = sour, sharp, harsh
-        + acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent, 酸的 = sour --> acerbity (n)苦澀/刻薄
+        + /əˈsəːbɪk/ acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent, 酸的 = sour --> acerbity (n)苦澀/刻薄
         - acerbate (v)使發怒/使煩惱 = exasperate <-- acerbic + ate
-        + exacerbate (v)惡化/加重 = aggravate = deteriorate, 激怒 = exasperate = acerbate = irritate = irk = vex
-        + acidulous (adj)多少帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
+        + /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate, 激怒 = exasperate = acerbate = irritate = irk = vex
+        + /əˈsɪdjʊləs/ acidulous (adj)多少帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
         - acrid (adj)(味道)辛辣的/刺激的, 刻薄的 = caustic = acerbic
-        + acrimony (n)尖酸/刻薄 = acerbity --> acrimonious (adj)刻薄的/嚴厲的/辛辣的 = caustic = stinging
+        + acrimony (n)尖酸/刻薄 = acerbity = bitterness --> acrimonious (adj)刻薄的/嚴厲的/辛辣的 = caustic = stinging
 
     acro 高 = height, tip
         - acrobat (n)特技演員
         - acrophobia (n)懼高症
 
     acu 銳利 = sharp
-        + acute (adj)敏銳的/精明的 = astute = shrewd, 急性的
+        +++ acute (adj)敏銳的/精明的 = astute = shrewd = keen = subtle, 嚴重的 = severe = intense = fierce, 急性的, 銳角的, 尖音的
         + acumen (n)精明 = acuity = shrewdness <-- acute
         + acuity (n)(思想或感官)敏銳 = sharpness = acuteness <-- acute
         - acupuncture (n)針灸
@@ -204,18 +209,18 @@
     apt 能力/適應 = apt == ept 
         + adapt (v)適應/改造/改編 = adjust
         + adaptable (adj)有適應能力的, 可改編的 --> adaptability (n)適應性/適應能力
-        + aptitude (n)才能/資質 = capability = ability = faculty, 愛好 = bent = inclination = predilection = propensity
-        + apt (adj)易於...的 = liable, 恰當的 = apposite = apropos
+        + aptitude (n)才能/資質 = capability = ability = faculty, 傾向 = inclination = predilection = propensity
+        +++ apt (adj)易於...的 = liable, 恰當的/合適的 = apposite = appropriate = suitable, 聰明的
 
     add 增加
         - addendum (n)補充/附錄 = appendix
         - additive (n)添加劑
 
     aer 氣 = aero
-        + aerie (n)高處的房子, 鷹巢
+        + /ˈɛːri/ aerie, eyrie (n)高處的房子, 鷹巢
         - aerate (v)注入氣體
-        - aerial (adj)空中的 (n)天線
-        - anaerobic (adj)厭氧的 (n)厭氧生物
+        - /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線
+        - /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
 
     agog 引導 = lead, guide
         + demagog, demagogue
@@ -224,11 +229,11 @@
     agon 掙扎/打鬥 = struggle
         - agony (n)極大的痛苦 = anguish
         - agonize (v)(使)苦惱/折磨
-        ++ antagonize (v)使對抗/使對立 --> antagonism (n)對抗/對立, 敵對/敵意 = enmity --> antagonistic (adj)對立的 = hostile, 敵對的 = hostile
+        +++ /anˈtaɡnʌɪz/ antagonize (v)使對抗/使對立 --> antagonism (n)對抗/對立, 敵對/敵意 = enmity --> antagonistic (adj)對立的 = hostile, 敵對的 = hostile
         - protagonist (n)提議者/支持者 = proponent
 
     agr, agro, agri, ara 土地/農業 = acre, feild, soil
-        - agrarian (adj)土地的, 農業的/農村的 = agricultural = bucolic = rural = pastoral
+        - /əˈɡrɛːrɪən/ agrarian (adj)土地的, 農業的/農村的 = agricultural = bucolic = rural = pastoral
         - agriculture (n)農業
         - agronomy (n)農學
         - arable (adj)可耕的/適合種植的 = farmable
@@ -236,24 +241,19 @@
     ali, altru, alter, alien 其他 = other
         - alias (n)別名, 化名 = pseudonym
         - alibi (n)不在場證明, 藉口 = excuse
-        + altruism (n)利他主義/無私 = unselflessness <--> egoism --> altruistic (adj)利他主義的/無私的
+        + /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 = unselflessness <--> egoism --> altruistic (adj)利他主義的/無私的
         + alienate (v)使疏遠/背離 = estrange = disaffect
-        + alter (v)改變, 閹割 = sterilize
+        +++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize
         + alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
-        - alternate (adj)輪流的/交替的 (v)輪流/交替 (n)替代性選擇 = alternative, 候選人
+        ** alternate /ˈɔːltəneɪt/ (v)輪流/交替 /ɔːlˈtəːnət/ (adj)輪流的/交替的 (n)替代性選擇 = alternative, 候選人
         - altercate (v)爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
         + inalienable
 
     alt, alti 高 = high
-        - altitude (n)高度/海拔, 高處
+        - altitude (n)高度/海拔, 高處 <|> aptitude
         - altimeter (n)高度計
-        + exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate, 刺激 = stimulate = excite, 使喜悅/使得意 = delight = elate
+        + /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate, 使喜悅/使得意 = delight = elate
         - exaltation (n)欣喜/得意, 提拔/晉升
-
-    ampl 大 = wide, large
-        - ample (adj)充足的 = adequate = abundant = bountiful = rife
-        + amplify (v)放大 = augment, 詳述
-        - amplitude (n)廣大/廣闊, 震幅
 
     alg, algo 痛 = pain
         + /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
@@ -263,8 +263,8 @@
     anim 生命/精神 = soul, spirit, mind
         - anima (n)生命/靈魂
         - animate (adj)活的 = alive (v)賦予生命, 使有活力, 激勵/鼓舞 
-        - animus (n)敵意 = enmity, 憎恨 = animosity = wrath
-        - animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred <-- animus
+        - animus (n)敵意/憎恨 = enmity = animosity = wrath, 意圖/動機 = disposition = intention = motivation
+        - animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
         + equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium
         - inanimate (adj)無生命的
         + magnanimous (adj)寬宏大量的/大度的 = generous, 高尚的 = high-minded = noble = lofty 
@@ -1539,7 +1539,7 @@
             + dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
 
         2. 天 = daily
-            + diurnal (adj)白天的
+            + /dʌɪˈəːn(ə)l/ diurnal (adj)白天的
             - dial (n)錶盤, 旋鈕 (v)收聽/收視, 撥號
             - diary (adj)
             + quotidian (adj)每天的 = everday, 平凡的 = commonplace = ordinary = prosaic <-- quoti 每 = every + di
@@ -1649,7 +1649,6 @@
     dextr 右
         - ambidextrous (adj)雙手靈巧的
         - dexterous, dextrous (adj)靈巧的/熟練的 --> dexterity (n)靈巧/熟練
-
 
     diluv 洪水 = flood
         - antediluvian
@@ -4738,7 +4737,7 @@
         - purpose
         + repose (n)休息/睡眠 = recess, 安詳/安靜/靜止 = peacefulness = tranquility, 長眠 (v)躺著休息/安睡
         - superimpose (v)加在上面
-        + suppose (v)猜想/期望 --> supposition (n)想像/假定/推測 = assumption = hypothesis
+        + suppose (v)猜想/期望 --> /ˌsʌpəˈzɪʃ(ə)n/ supposition (n)想像/假定/推測 = assumption = hypothesis
         - transpose (v)變換位置/調換
 
     potent 力量 = power
@@ -4934,7 +4933,7 @@
 
     pugil, pugn 打鬥 = fight
         + impugn (v)置疑/對...表示懷疑 = cast doubt upon
-        + pugilism (n)拳擊/搏擊
+        + /ˈpjuːdʒɪlɪz(ə)m/ pugilism (n)拳擊/搏擊
         - pugilist (n)拳擊手/拳師
         + pugnacious (adj)好鬥的
         + repugnant (adj)令人厭惡的 --> repugnance (n)厭惡/反感 = distaste = antagonism
@@ -5619,7 +5618,6 @@
         - restitute (v)恢復, 償還 --> restitution (n)償還/賠償, 恢復/歸還
         + restive (adj)倔強的/不聽話的 = disobedient, 不安的 = agitated = restless = skittish = fussy --> restiveness (n)倔強/難以駕馭
         - restless (adj)不停的, 不安靜的
-        - stasis (n)停滯/靜止
         - stagnate (v)淤塞/沉滯/失去活力 --> stagnant (adj)停滯的 --> stagnation (n) = stasis
         - staid (adj)沉著的/穩重的 <-- stay
         - stay (v)停留/留下/保持, 堅持/忍耐
@@ -5741,7 +5739,7 @@
         - exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
         + insult (n/v)侮辱/謾罵 = abuse = indignity = affront
         - resile (v)彈回, 恢復原形/恢復活力 --> resilient (adj)有彈性的, 能恢復活力的/適應力強的 --> resilience (n)彈性/彈力
-        + salient (adj)顯著的/突出的 = obvious = projecting = protruding = noticeable = conspicuous = prominent
+        + salient (adj)顯著的 = obvious = projecting = protruding = noticeable = conspicuous = prominent, 突出的
         - sultry (adj)悶熱的, 易怒的, 撩人的
 
     semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
@@ -6786,7 +6784,7 @@
 
         2. 毒 = poison
             - virus (n)病毒 --> viral (adj)病毒性的 
-            + virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 惡毒的/充滿敵意的 = hateful = hostile, 劇烈的
+            + /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 惡毒的/充滿敵意的 = hateful = hostile, 劇烈的
 
     viv 活 = live
         + /kənˈvɪvɪəl/ convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (n)歡樂/愛交際的性格
