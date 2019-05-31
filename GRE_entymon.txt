@@ -114,7 +114,7 @@
 
     ana
         1. 上 = up, upwards
-            - analyze
+            * analyze --> analysis
             - anatomy
 
         2. 再次 = again
@@ -180,7 +180,7 @@
         - ambulance (n)救護車
         - perambulate (v)巡視, 散步 = stroll = amble
         + preamble (n)前言/序言 = preface = prologue
-        * /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble <|> /ˈreɪnbəʊ/ rainbow
+        * /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble, 隨筆, 蔓生 <|> /ˈreɪnbəʊ/ rainbow
         - noctambulant
 
     ampl 大 = wide, large
@@ -252,7 +252,7 @@
     alt, alti 高 = high
         - altitude (n)高度/海拔, 高處 <|> aptitude
         - altimeter (n)高度計
-        + /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate, 使喜悅/使得意 = delight = elate
+        + /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate = promote, 使喜悅/使得意 = delight = elate
         - exaltation (n)欣喜/得意, 提拔/晉升
 
     alg, algo 痛 = pain
@@ -272,32 +272,33 @@
         + pusillanimous (adj)膽小的 = cowardly = timid = craven = pusillanimous = recreant <-- pusill 小的 = small, petty + anim + ous
         - unanimous (adj)意見一致的/一致通過的
 
-    ann 年 = year
+    ann, enn 年 = year
         - annals (n)編年史
         - anniversary (n)週年紀念日
         - annuity (n)年金
+        - millennial (adj)千年的, 千禧世代的/21世紀初期成年的 (n)千禧世代者
 
-    anth 花 = flower, blossom == flor
-        - anthology (n)文集/選集
+    antho, anthe 花 = flower, blossom == flor
+        - /anˈθɒlədʒi/ anthology (n)文集/選集
         - anthesis (n)開花期
-        - chrysanthemum (n)菊花
+        - /krɪˈsanθɪməm/ chrysanthemum (n)菊花
 
     anthrop, anthropo 人 = human
-        - anthropologist (n)人類學家
+        * /ˌanθrəˈpɒlədʒi/ anthropology (n)人類學 --> anthropologist (n)人類學家
         - philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
         + misanthrope, misanthropist (n)厭世者/不願與人來往者 --> misanthropy (n)人類厭惡
         - anthropoid (n)類人猿
 
     apo 離開/遠 = away, off, apart
-        + apostle (n)宣導者/鼓吹者/先驅 <-- send forth
-        - apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
+        + /əˈpɒs(ə)l/ apostle (n)宣導者/鼓吹者/先驅, 使徒/門徒 <-- send forth
+        - /əˈpɒkəlɪps/ apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
         - apocrypha
         + apogee
         + apostasy
 
     appar 出現 = appear
         - apparel (n)(精緻的)衣服 = garment
-        - apparent (adj)可見的 = visible, 明顯的 = obvious = patent, 實質上的 --> apparence (n)出現, 外貌
+        ** apparent (adj)可見的 = visible, 明顯的 = obvious = patent, 實質上的 --> apparence (n)出現, 外貌
         - apparition (n)幽靈, 神奇的現象
 
     aqua, aqu 水
@@ -307,35 +308,31 @@
         - aquifer (n)含水土層 = water level
         - aqueduct (n)引水渠 = canal
 
-    arbit 判斷 = arbiter
+    arbit 判斷 = judge
         + arbiter (n)仲裁人/權威人士 = arbitrator = moderator
-        + arbitrary (adj)任意的/隨機的/不理智的, 專橫的 = dictatorial
+        + /ˈɑːbɪt(rə)ri/ arbitrary (adj)任意的/隨機的, 專橫的 = dictatorial
         - arbitrate (v)仲裁/公斷 = adjudicate = umpire
 
     arbor 樹 = tree
-        - arboreal (adj)樹木的
+        - /ɑːˈbɔːrɪəl/ arboreal (adj)樹木的
         - arboretum (n)植物園
         - arborescent (adj)樹木狀的
 
-    arc 秘密 = keep, shut up
-        + arcane (adj)神秘的/秘密的, 晦澀難懂的 = abstruse = impenetrable = unfathomable = incomprehensible = inscrutable 
-        - arcanum (n)秘方
-
     archae, arche 原本的 = original
-        + archaic (adj)古老的/古代的/原始的/過時的
+        + /ɑːˈkeɪɪk/ archaic (adj)古老的/古代的/原始的/過時的
         + archaeology, archeology (n)考古學
         + archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
 
     arch, archi, archy
-        1. 主要的/多 = first, principal
-            - archipelago (n)群島
-            - archive (n)檔案室 --> archives (n)檔案
+        1. 主要的 = first, principal
+            - archipelago (n)群島 <-- archi + pelago 海 = sea
             - architect (n)建築師 --> architecture (n)建築
 
         2. 統治 = chief, leader, ruler
             + /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
+            - archive (n)檔案室 --> archives (n)檔案
             - archbishop (n)樞機主教
-            - monarch
+            - monarch (n)君主/帝王 --> monarchy (n)君主制
             + hierarchy --> hierarchical
             + oligarchy
 
@@ -346,33 +343,31 @@
         - arsenal (n)軍械庫 = armory
         - arson (n)縱火 = torch (v)
 
-    aristo 最好的 = best
-        - aristocracy (n)貴族, 貴族統治/貴族政府
-
     arm, armi 武裝/武器
         - armada (n)艦隊 <-- arm + ada 艦隊
         - armor (n)裝甲
         - armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
-        - armorial (adj)紋章的/徽章的 (n)文章書
+        * armorial (adj)紋章的/徽章的 (n)文章書
         - armistice (n)停戰/休戰
         - disarm (v)繳械, 使緩和
         - firearm (n)槍枝
 
     arthr, artic 連結/關節/接合 = joint
         - arthritis (n)關節炎
-        + articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent
-        - articulation (n)發音 = pronounce (v), 連結, 關節
+        + articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
+        * articulation (n)發音 = pronounce (v), 連結, 關節
+        * artery (n)動脈 = aorta, 主要幹道
 
     art, arti 技巧
-        + artless (adj)粗俗的, 自然的/直率的/單純的 = guileless = natural = ingenuous = naive --> artlessness
+        ++ artless (adj)粗俗的, 自然的/直率的/單純的 = guileless = natural = ingenuous = naive --> artlessness
         + artifact (n)人工製品 --> artifacts (n)史前古物 --> artificial (adj)人造的, 假的
         - artifice (n)巧技, 詭計 = contrivance = finesse = ruse
-        * article (n)文章, 物品/物件, 商品 = commodity, 條款
-        * artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
+        *** article (n)文章, 物品/物件, 商品 = commodity, 條款
+        ** artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 
     asper 粗暴 = rough
         + asperity (n)嚴厲 = severity = harshness = rigor, 粗魯 = roughness, 艱難 = hardship = rigor <|> aspersion
-        + exasperate (v)激怒 = agitate = rile = acerbate = exacerbate = irritate = provoke = nettle
+        + /ɪɡˈzasp(ə)reɪt/ exasperate (v)激怒 = agitate = rile = acerbate = exacerbate = irritate = provoke = nettle
 
     aster, astro 星星 = star == stell
         - asterisk (n)星號
@@ -383,26 +378,10 @@
         + disaster (n)災難 --> disastrous (adj)災難性的 = ruinous = very unfortunate = calamitous
 
     auct, aug, aux 提高/增加 = increase
-        ^ auction (n)拍賣
-        + augment (v)增大/提高/加強 = accrue = aggrandize = amplify
+        - auction (n)拍賣
+        +++ /ɔːɡˈmɛnt/ augment (v)增大/提高/加強 = accrue = aggrandize = amplify <|> argument
         + august (adj)威嚴的/令人敬畏的/高貴的 = venerable = majestic = awe-inspiring
         - auxin (n)生長素 --> auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員
-
-    {acious}, {acity} 多...的
-        + audacious
-        + contumacious
-        - edacious
-        + loquacious
-        + mendacious
-        - minacious
-        + perspicacious --> perspicacity
-        - pertainacious
-        + pugnacious
-        + rapacious
-        + tenacious
-        + veracious
-        - vivacious
-        - voracious --> voracity
 
     audi 聽 = hear
         - audit (v)旁聽, 審計
@@ -964,7 +943,7 @@
         - cryptogram (n)密碼/暗號
 
     cracy, crat 統治 = power, rule, strength, might
-        - aristocracy
+        - aristocracy (n)貴族, 貴族統治/貴族政府 --> aristocratic (adj) <-- aristo 最好的 = best + cracy
         - autocrat
         + democracy --> democratic
         - bureaucracy (n)官僚政治
@@ -3435,7 +3414,7 @@
         - long-winded (adj)冗長的
 
     lyze, lysis, lyst 分開/分解 = loosen
-        - analyze (v)分析 = dissect
+        * analyze (v)分析 = dissect --> analysis (n)
         + /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
         - analyst (n)分析家
 
@@ -3626,7 +3605,7 @@
         +++ manifest (adj)顯然的 = obvious = apparent = perceptible = overt (n)旅客清單, 載貨清單 (v)表明/表露 = make clear, 證明/證實 = prove <-- mani + fest
         - manifesto (n)宣言/聲明
         + manipulate (v)操縱 --> manipulative (adj)操縱別人的, 老於世故的/巧妙處理的
-        + mannered (adj)做作的 = affected
+        + mannered (adj)別具一格的/做作的 = affected
         + maintain  --> maintenance 
         - manumit (v)解放奴隸 <--> enslave
         - manual (adj)手工的, 體力的, 實際佔有的 (n)手冊/簡介
@@ -3715,7 +3694,7 @@
         - summon (v)召見/召集
         
     mono, mon 單一 = alone, single
-        - monarch (n)君主/帝王 --> monarchy (n)君主制
+        - monarch --> monarchy 
         - monochrome --> monochromatic
         - monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
         - monogamy
@@ -4795,8 +4774,6 @@
         + proximity (n)接近/鄰近 = adjacency, 親近
         - proximate (adj)即將來臨的, 接近的/鄰近的
 
-    pelago 海
-        - archipelago
 
     ped, pedi, pod 腳 = having a foot
         - biped (n)兩足動物
