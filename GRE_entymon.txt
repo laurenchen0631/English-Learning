@@ -125,7 +125,7 @@
 
     ant, anti
         1. 反/反對/反抗
-            +++ antagonize
+            +++ antagonize --> antagonism --> antagonistic
             - Antarctic (adj)南極的 (n)南極地區
             - antibiotic
             - antibody (n)抗體
@@ -173,7 +173,7 @@
             - amphibian (n)兩棲動物, 水陸兩用飛行器 <-- amphi + bio + ous
 
         2. 周圍 = around
-            - ambient (adj)周圍的
+            - ambient (adj)周圍的 = peripheral
 
     amble, ambul 走路 = walk
         - amble (n/v)漫步 = saunter = stroll
@@ -252,7 +252,7 @@
     alt, alti 高 = high
         - altitude (n)高度/海拔, 高處 <|> aptitude
         - altimeter (n)高度計
-        + /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate = promote, 使喜悅/使得意 = delight = elate
+        ++ /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate = promote, 使喜悅/使得意 = delight = elate
         - exaltation (n)欣喜/得意, 提拔/晉升
 
     alg, algo 痛 = pain
@@ -269,8 +269,8 @@
         - inanimate (adj)無生命的
         + magnanimous (adj)寬宏大量的/大度的 = generous, 高尚的 = high-minded = noble = lofty 
         + magnanimity (n)寬宏大量/寬大 = generosity = nobility
-        + pusillanimous (adj)膽小的 = cowardly = timid = craven = pusillanimous = recreant <-- pusill 小的 = small, petty + anim + ous
-        - unanimous (adj)意見一致的/一致通過的
+        + /ˌpjuːsɪˈlanɪməs/ pusillanimous (adj)膽小的 = cowardly = timid = craven = pusillanimous = recreant <-- pusill 小的 = small, petty + anim + ous
+        * unanimous (adj)意見一致的/一致通過的
 
     ann, enn 年 = year
         - annals (n)編年史
@@ -290,11 +290,11 @@
         - anthropoid (n)類人猿
 
     apo 離開/遠 = away, off, apart
+        + apostasy
         + /əˈpɒs(ə)l/ apostle (n)宣導者/鼓吹者/先驅, 使徒/門徒 <-- send forth
         - /əˈpɒkəlɪps/ apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
         - apocrypha
         + apogee
-        + apostasy
 
     appar 出現 = appear
         - apparel (n)(精緻的)衣服 = garment
@@ -324,11 +324,11 @@
         + archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
 
     arch, archi, archy
-        1. 主要的 = first, principal
+        1. 主要的 = chief, first, principal
             - archipelago (n)群島 <-- archi + pelago 海 = sea
             - architect (n)建築師 --> architecture (n)建築
 
-        2. 統治 = chief, leader, ruler
+        2. 統治 = leader, ruler
             + /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
             - archive (n)檔案室 --> archives (n)檔案
             - archbishop (n)樞機主教
@@ -341,7 +341,7 @@
         + ardor (n)激情/熱情/熾熱的愛情 = zeal
         + arduous (adj)艱難的/艱巨的/費力的 ＝ laborious = exigent
         - arsenal (n)軍械庫 = armory
-        - arson (n)縱火 = torch (v)
+        - arson (n)縱火
 
     arm, armi 武裝/武器
         - armada (n)艦隊 <-- arm + ada 艦隊
@@ -354,8 +354,8 @@
 
     arthr, artic 連結/關節/接合 = joint
         - arthritis (n)關節炎
-        + articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
-        * articulation (n)發音 = pronounce (v), 連結, 關節
+        ++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
+        ** articulation (n)發音 = pronounce (v), 連結, 關節
         * artery (n)動脈 = aorta, 主要幹道
 
     art, arti 技巧
@@ -366,7 +366,7 @@
         ** artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 
     asper 粗暴 = rough
-        + asperity (n)嚴厲 = severity = harshness = rigor, 粗魯 = roughness, 艱難 = hardship = rigor <|> aspersion
+        + asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
         + /ɪɡˈzasp(ə)reɪt/ exasperate (v)激怒 = agitate = rile = acerbate = exacerbate = irritate = provoke = nettle
 
     aster, astro 星星 = star == stell
@@ -381,7 +381,7 @@
         - auction (n)拍賣
         +++ /ɔːɡˈmɛnt/ augment (v)增大/提高/加強 = accrue = aggrandize = amplify <|> argument
         + august (adj)威嚴的/令人敬畏的/高貴的 = venerable = majestic = awe-inspiring
-        - auxin (n)生長素 --> auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員
+        ** auxin (n)生長素 --> /ɔːɡˈzɪlɪəri/ auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員
 
     audi 聽 = hear
         - audit (v)旁聽, 審計
@@ -391,10 +391,10 @@
         - auditorium (n)(劇院等的)聽眾席/觀眾席, 劇院/禮堂
 
     authent, author 作家
-        + authentic (adj)真正的 = authoritative = genuine
+        + /ɔːˈθɛntɪk/ authentic (adj)真正的 = authoritative = genuine
         + authenticate (v)證實 = attest = corroborate = substantiate = vindicate
         - authoritarian (n)獨裁主義者
-        + authoritative (adj)專斷的/命令式的 = imperative = imperious, 權威的/可信的 = genuine = authentic
+        + authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
         + authority (n)權威/權力
         - authorize (v)授權, 批准 = approve = permit = ratify
 
@@ -410,10 +410,11 @@
         - aviatrix (n)女飛行員
 
     act 動作 = do 
+        *** act (v)行動, 生效, 飾演 (n)行為, 法案/法令, 幕
         - counteract
         + enact (v)制定(法律), 扮演(角色)
         ++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 嚴格的 = strict = rigorous
-        ++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)辛苦的
+        ++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)艱難的 = arduous
         - exactitude (n)精確性/正確性
         - interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
         - transact --> transaction
@@ -425,7 +426,7 @@
 [B]
     bate 打/擊 = beat
         + abate (v)減少, 減弱 = wane = diminish = attenuate
-        - rebate (n/v)減少/折扣
+        - rebate (n/v)折扣/貼現
         - debate (v/n)辯論
 
     brev 短 = short
@@ -455,7 +456,7 @@
     ban, barr 擋住/阻擋/禁令
         * abandon (v/n)放棄, 放縱/使沈溺於 = indulge
         - ban (n)禁令 (v)明令禁止 <|> bane
-        + /bə-ˈnal/ banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n)
+        + /bəˈnɑːl/ banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n)
         - banister (n)欄杆
         + banter (n)玩笑/打趣/逗樂 = badinage = ribbing (v)取笑/逗弄 = bait = tease <|> barter <|> batter
         + banish (v)放逐/趕走/流放 = evict = exile = expel = oust
@@ -2115,7 +2116,7 @@
         2. 機運 = chance, lucky
             - fortune (n)財產/財富, 好運, 命運
             * fortunate (adj)幸運的/僥倖的
-            + fortuitous (adj)偶然發生的/巧合的 = casual = accidental, 幸運的 = lucky = fortunate
+            + /fɔːˈtjuːɪtəs/ fortuitous (adj)偶然發生的/巧合的 = casual = accidental, 幸運的 = lucky = fortunate
 
     face, fac 臉/面
         - deface (v)損壞外觀 = mar = destory = deform = disfigure
@@ -2316,7 +2317,7 @@
     flor, flour 花/開花 = bloom, flower == anth
         - efflorescent (adj)開花的
         + flora (n)(某地區或時代的)植物群 <|> fauna
-        + florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
+        ++ florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
         - florescence (n)花期, 全盛期
         + flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
 
@@ -5541,7 +5542,7 @@
         + solitude (n)孤獨/寂寞/隱居 = seclusion, 冷僻/荒涼之地
         - solo (n)獨唱/獨奏 (adj)單獨的
 
-    solid 結實 
+    solid 結實 solidarity
         + consolidate (v)鞏固/加強 = solidify = strengthen, (企業)合併/聯合 = coalesce = unite = combine --> consolidation (n)鞏固, 合併
         - solidity (n)堅硬/固態, 堅牢/確實
         - solidify (v)使固化/使凝固, 穩固/鞏固
@@ -6575,14 +6576,14 @@
         + disabuse
 
     umbr 影子/陰影 = shade, shadow
-        + adumbrate (v)預告 = foreshadow = prefigure = herald = harbinger --> adumbration (n)預兆
+        + adumbrate (v)預示 = foreshadow = prefigure = herald = harbinger, 遮蔽 = obscure = overshadow, 暗示 --> adumbration (n)
         + penumbra (n)半影, 曖昧的部分
         + umbrage (n)憤怒/生氣/不快  = offense = annoyance, 陰影/樹蔭
         - umbrella (n)雨傘
 
     und 波浪 = wave
         + abound (v)大量存在, [in/with]富含/充滿 = teem
-        + /ˈɪnʌndeɪt/ inundate (v)淹沒 = flood, 氾濫 = flood = overwhelm
+        + /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm
         + redound (v)起作用/有助於, 報應/返回到
         + redundant (adj)累贅的/多餘的
         - undulant (adj)起伏的
@@ -6678,7 +6679,7 @@
         - vertex (n)頂點/頂角
         - vertical (adj)垂直的 = plumb
         + vertigo (n)眩暈 = dizziness
-        + voluble (adj)滔滔不絕的/健談的 = talkative, 易旋轉的
+        + /ˈvɒljʊb(ə)l/ voluble (adj)滔滔不絕的/健談的 = talkative
         + vortex (n)渦/旋風/旋渦 = whirlpool
 
     verge 軸/竿 = rod
