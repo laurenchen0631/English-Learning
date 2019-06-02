@@ -533,7 +533,7 @@
             - accomplice
             + coagulate (v)使凝結/使凝固 = thicken = congeal = clot = curdle --> coagulant (n)凝血劑/凝結劑 <-- co + ag 走 = move + ulate
             - coagent (n)合作者/幫手
-            + coalesce (v)聯合/合併 = consolidate --> coalition (n)結合/聯合 = union = alliance <-- co + al 成長 = grow + esce
+            + /ˌkəʊəˈlɛs/  (v)聯合/合併 = consolidate --> coalition (n)結合/聯合 = union = alliance <-- co + al 成長 = grow + esce
             - cohabit
             + coincide --> coincident --> coincidental 
             - collaborate
@@ -814,7 +814,7 @@
         + exceptional (adj)例外的/異常的 = unusual = extraordinary, 優秀的 = excellent = superior <|> expect
         - homicidal (adj)殺人的
         - incept (v)攝取/接收 = ingest, 開始, 就職, 取得學位 --> inception (n)成立/創立, 起初/開端/開始, 取得學位
-        * incident (n)(不愉快或不尋常的)事件 --> incidence (n)事情發生, 發生率
+        *** incident (n)(不愉快或不尋常的)事件 --> incidence (n)事情發生, 發生率
         * incidental (adj)次要的/附帶的/伴隨的 = circumstantial
         * incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
         - intercept (v)中途攔截/截斷/竊聽
@@ -1199,7 +1199,7 @@
         - percuss (v)敲 --> percussion (n)撞擊, 打擊樂器/敲擊樂器 --> percussionist (n)打擊樂器演奏者
         - discussion (n)討論/議論
         - cuss (n/v)詛咒/咒罵/罵人 (n)古怪的傢伙
-        - repercussion (n)反響, 影響
+        * repercussion (n)反響/反衝
 
     copia 豐富 = plenty
         + cornucopia (n)豐盛/大量, 象徵豐收的羊角
@@ -1447,7 +1447,7 @@
             + disparage
             + disparate --> disparity
             + dispassionate (adj)冷靜的/沈著的/心平氣和的
-            - dispatch (v)迅速處理 = expedite, 匆匆吃完, 派遣/發送, 殺死 (n)派遣/發送, 迅速 <-- dis + patch 阻礙 = shackle
+            *** dispatch (v)迅速處理 = expedite, 匆匆吃完, 派遣/發送, 殺死 (n)派遣/發送, 迅速 <-- dis + patch 阻礙 = shackle
             - displace (v)取代/撤換 = supersede, 迫使離開
             + displease (v)使不高興/使生氣
             + disproportionate (adj)不成比例的
@@ -1883,7 +1883,7 @@
         + embrace
         + empathy
         - emphasis --> emphatic
-        - empower (v)授權/准許 <-- em + power
+        * empower (v)授權/准許, 使強化 <-- em + power
         + enamor --> enamored
         + encapsulate (v)裝入叫囊, 概括/摘要 = summarize = condense <-- en + capsulate
         + enchant --> enchanting
@@ -2389,7 +2389,7 @@
     fraud 欺騙 = cheat
         + defraud (v)詐騙/欺詐 = bilk = swindle = chicane
         * fraud (n)詐騙 = chicanery = trickery
-        - fraudulent (adj)欺騙的/詐欺的 = fallacious = misleading = deceptive
+        * fraudulent (adj)欺騙的/詐欺的 = fallacious = misleading = deceptive
 
     fuse 傾倒 = pour, melt
         ** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 混合 = confound = jumble = disorder = muddle = mingle = intermingle, 使不安/使羞愧 = abash = disconcert = discomfit 
@@ -2959,7 +2959,7 @@
             - incense
             + incentive
             - incept --> inception
-            - incident --> incidence
+            *** incident --> incidence
             - incipient
             + incise --> incision --> incisive
             + incite
@@ -4940,7 +4940,7 @@
         + euphoria (n)心情愉快 --> euphoric (adj)狂喜的 = intensely happy
         - semaphore (n)信號, 鐵路的信號燈, 旗語 (v)發信號 <-- sema 信號 = signal + phore
         + metaphor (n)隱喻/暗喻 --> metaphoric (adj)隱喻的 = figurative
-        + periphery (n)周圍/外圍, 次要部分 --> peripheral (adj)不重要的, 外圍的 
+        +++ periphery (n)周圍/外圍, 次要部分 --> /pəˈrɪf(ə)r(ə)l/ peripheral (adj)不重要的, 外圍的 
 
     pi 撫慰/虔誠 = propitiate, piety
         + expiate (v)補償 = atone for = recompense = compensate
@@ -5161,7 +5161,7 @@
             + resign --> resigned --> resignation
             + resile --> resilience --> resilient
             - resonant
-            *** resort (v)訴諸/憑藉/求助 = solicit, 經常去 (n)休閒度假之處/名勝, 訴諸/憑藉 <-- re + sort 出現 = come
+            +++ resort (v)訴諸/憑藉/求助 = solicit, 經常去 (n)休閒度假之處/名勝, 訴諸/憑藉 <-- re + sort 出現 = come
             - resound (v)迴盪著聲音, 鳴響
             + resolve --> resolution
             + resource (n)資源, 智謀/機智, 消遣/娛樂 --> resourceful (adj)機智的, 資源豐富的 <-- re + source 升起 = rise
@@ -5709,6 +5709,7 @@
         - expire (v)去世, 期滿/到期, 呼氣 --> expiration (n)期滿/中止 = termination, 死亡, 吐氣
         - perspire (v)出汗 = sweat
         - respire (v)呼吸 = breathe --> respiration (n)呼吸
+        - transpire (v)被揭露, 發生, 蒸散
 
     sail, sault, sult, sil, sali 跳 = leap, spring
         + assail (v)抨擊 = decry, 猛攻, 困擾/騷擾 = beset = harass --> assault (n)襲擊/猛襲 = onset
@@ -5995,7 +5996,7 @@
         - desire (n/v)渴望 --> desirable (adj)值得擁有的 = advisable
 
     sum 總數
-        + consummate (adj)完美無缺的/圓滿的 = superb = perfect = complete (v)使圓滿/使完美/完成 = fulfill = complete 
+        + consummate (adj)高明的/熟練的 (v)完婚, 使圓滿/使完美/完成 = fulfill = complete 
         * summary (n)總結/概要/摘要 
         - summon (v)召集/傳喚, 鼓起(勇氣)
 
@@ -6065,7 +6066,7 @@
     sap, sav 聰明 = wise
         - sapient (adj)有智慧的
         + savant (n)學者/專家 <-- sapient
-        - savvy (adj)精明的/有見識的 (v)懂/知曉 (n)理解能力/悟性
+        *** savvy (adj)精明的/有見識的 (v)懂/知曉 (n)理解能力/悟性
 
     seismo, seism 地震 = earthquake
         + /ˈsʌɪzmɪk/ seismic (adj)地震的
@@ -6082,7 +6083,7 @@
         - sophism (n)詭辯/詭辨法
         - sophistry (n)詭辯 
         * sophisticate (v)使懂世故, 使複雜, 擅自更改 (n)久經世故的人
-        - sophistication (n)老於世故, 有教養, 複雜/精密, 竄改, 詭辯/強詞奪理 = sophism
+        ++ sophistication (n)老於世故, 有教養, 複雜/精密, 竄改, 詭辯/強詞奪理 = sophism
         ++ sophisticated (adj)老於世故的, 精密的/複雜的, 富有經驗的/精通的
 
     spine 棘刺 = thorn
@@ -6210,7 +6211,7 @@
         * contemptible (adj)可鄙的/卑劣的 = scurvy = mean = sordid = despicable = paltry = wretched = filthy
         - attempt (n/v)嘗試/努力
         + tempt (v)引誘/誘惑 = court = allure = engage, 吸引/打動, 不顧 --> temptation (n)引誘/誘惑/誘惑物
-        - tentative (adj)試驗性的/嘗試的/試探性的, 躊躇的/猶豫的 <-- tempt
+        * tentative (adj)試驗性的/嘗試的/暫時的, 躊躇的/猶豫的 <-- tempt
 
     trude, trus 推/擠/刺/戳 = push, thrust == punct
         + abstruse (adj)深奧難懂的 = recondite = profound = esoteric
@@ -6366,6 +6367,7 @@
 
     triv, trieve 找 = find
         + contrive (v)謀劃/策劃, 設計/發明 = concoct = devise = fabricate --> contrived (adj)不自然的/牽強的 = artificial = strained
+        * contraption (n)新發明物/奇怪的裝置 = gadget = contrivance = device
         - contrivance (n)計謀/詭計 = artifice, 設計/發明
         - retrieve (n/v)尋回/取回 = regain, 挽回 = correct
 

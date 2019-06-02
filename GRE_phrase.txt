@@ -56,6 +56,9 @@
 	- a raft of == A large amount of something
 		> A raft of studies has documented the growing divergence between places based on their ability to attract, retain, and cluster highly educated and skilled workers and to develop high-tech startup companies.
 	- a range of == a set of similar things
+	- a sliver of == a very small, thin piece of something, usually broken off something larger
+		> a sliver of glass
+		> Just a sliver of cake for me, please - I shouldn't really be having any.
 	- the (adj) amount of
 	- amounts of 
 	- account for
@@ -116,7 +119,8 @@
 		2. 幾乎/差不多 == almost
 			> He has been all but forgotten.
 			> Salazar's presence in the group was so reassuring to the others that hey lost most of their earlier trepidation; failure, for them, became all but unthinkable.
-				>> so ... that ... 太...所以...
+	- all short of == to fail to reach an amount or standard that was expected or hoped for
+		> Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
 
 	- allow for 考慮到 == include some extra time or money in your planning
 		> You have to allow for a certain amount of error.
@@ -308,7 +312,12 @@
 		> At this very second, this page is releasing chemical energy.
 	- at that point in time == At a particular moment in the past
 		> It gets people to share what their priorities in life are at that point in time
-	
+	- (just) around the corner 附近/將至 == not far away, or going to happen soon
+		> As investors pour hundreds of millions of dollars into the ballooning esports industry, many feel their way forward with statistics that indicate that paydirt is just around the corner
+		> There's a great restaurant just around the corner.
+		> I'm feeling a little depressed at the moment, but I'm sure good times are just around the corner.
+	- and so forth == and so on 等等
+		> It involves a prodigious slavery of men to animals ... graziers, shepherds, slaughtermen, butchers, milkmaids and so forth
 [B]
 	+ be to 未來式
 		> |used for telling someone what to do| You are to stay here until I send for you
@@ -362,6 +371,8 @@
 		> But if the platforms themselves are riddled with distractions, these efforts are moot.
 	- be fraught with == filled with or likely to result in (something undesirable)
 		> Our understanding of the interaction between pop culture and real-world consequences is fraught with lazy assumptions and fearmongering, and the best research is never utterly conclusive, but suicide is mostly an exception to this state of confusion.
+	- be under the gun == to feel worried because you have to do something by a particular time or in a particular way
+		> Al's under the gun to decide by the end of the month whether to move with his company.
 	- A be no more ... than B == A跟B都是不...的
 		> But the play's complex view of Black self-esteem and human solidarity as compatible is no more contradictory than 
 		Du Bois's famous, well-considered ideal of ethnic self-awareness coexisting with human unity, or Fanon's emphasis on an ideal internationalism that also accommodates national identities and roles.
@@ -431,6 +442,9 @@
 			>> foster == further == encourage
 
 	- bring to light == disclose == reveal == become obvious or mad known to a lot of people
+	- breathe life into == to bring new ideas and energy to something:
+		> The new chef has breathed life into the failing French restaurant.
+		> And how does she breathe life into her campaign before it’s too late?
 	- building block == one of the separate parts that combine to make that thing
 		> When phytoplankton utilize carbon dioxide for photosynthesis, the carbon becomes a building block for organic matter, but the carbon leaks back into the atmosphere when predators consume the phytoplankton and respire carbon dioxide.
 			>> phytoplankton 浮游植物 <-- phyto 植物 + plankton 浮游生物
@@ -525,6 +539,8 @@
 		> |used to say that one does not like something and wants it to stop or fail| Down with racism!
 		> NA |used to say that one understands or approves of something| I told them I wasn't down with lying to people.
 		> |affected by (an illness)| She has been down with the flu for a week.
+	- down/along the line == at a further, later, or unspecified point.
+		> I knew that somewhere down the line there would be an inquest
 [E]
 	- to the extent (of/that) == so strongly that
 	- the extent to which == the degree to which something happens or is likely to happen
@@ -537,11 +553,14 @@
 		> And the rampant conversations on these workday platforms inevitably lead to misunderstandings as well as distractions from low-quality chatter, like emoji, memes, or messages for the sake of messaging
 	- from that point on == beginning at that time
 		> From that point on, White hunters and Indians were to launch one of the greatest animal slaughters in history.
-	- all short of == to fail to reach an amount or standard that was expected or hoped for
-		> Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
 	- for good measure == in addition
 		> Then he balls up the remainder of gauze -- he grabs another handful for good measure -- before pressing down and applying direct pressure to the wound.
+	- for certain == without doubt == for sure
+		> I know for certain it’s in here somewhere.
+		> One thing’s for certain, he won’t be back.
 [G]
+	- get off the ground/floor == to start
+		> He and his friend tried to start a band but it never got off the ground
 	- go out (of) the window == does not exist any more.
 		> “A royal person, historically, is not a private individual, but public property,” as Worsley puts it, “so any idea of privacy goes out of the window.”
 	- go out of one's way == to try very hard to do something, especially for someone else
@@ -549,6 +568,9 @@
 [H]
 	- hit a snag == Encounter a problem or obstacle.
 		> Before evolution hit a snag, and we reverted to slouching and staring at our phones, human beings walked with their eyes up, looking at things
+	- hit one's stride
+		> |To start traveling at a consistent pace.| We started out slow but then hit our stride as we continued through the park.
+		> |To become proficient in a particular area.| Once you hit your stride at your new job, I'm sure your boss will be very impressed with you.
 	- one's heyday == The period of a person's or thing's greatest success, popularity, activity, or vigour.
 		> During its heyday in New York, neon signage made people long to chew Wrigley’s Spearmint gum, to smoke Camels, to put on a tuxedo and have a cup of Maxwell House coffee poured for them by a butler who was also wearing a tuxedo.
 	- have/with an eye to sth
@@ -560,7 +582,8 @@
 		> If you are there strictly for your own gain and you’re not talking in terms of my priorities ever, that’s when I’m seeing someone is there to manipulate me.
 	- in fact == indeed
 		> in fact, they occur somewhere in the world every year
-
+	- in that == for the reason that == because
+		> These elements are unusual in that their atoms show little tendency to combine with each other. 
 	- in its infancy == only just started to develop
 		> When the science of animal behavior was still in its infancy, researchers split into two schools of thought.
 
@@ -570,8 +593,19 @@
 	- in the wind
 		> |If something is in the wind, people are talking about it and it may happen, but noone is sure| Rumours of a takeover are in the wind.
 		> |If someone is in the wind, they are missing, especially after escaping| The suspects are in the wind.
+	- in part == to some extent though not entirely.
+		> the cause of the illness is at least in part psychological
+		> esports as an industry may fall short of expectations, in part, because the unbelievable numbers holding it up may simply be unbelievable.
+	- in a vacuum == separated from outside events or influences
+		> professional training cannot take place in a vacuum
+		> The group was operating in a vacuum, cut off from the rest of the world.
+[J]
+	- jump the gun == to do something too soon, especially without thinking carefully about it 
+		>  As he watched investors dump tens or hundreds of millions at once into the esports organization du jour, Fields has become concerned they’re “jumping the gun.”
 
 [L]
+	- long shot == something that is not likely to succeed
+		> It's a long shot, but you could try phoning him at home.
 	- less of == to a smaller extent or degree
 		> ... making luggage check less of a pain could encourage a lot more customers to use it
 
@@ -581,11 +615,30 @@
 		> “I get bombarded with things about Leonardo on a regular basis that range from laughable to insane,” Kemp told me recently.
 	- or so == approximately
 		> Edison's goal was "a minor invention every ten days and a big thing every six months or so," an objective that was readily achieved
+	- on par with sth == equal or similar to someone or something
+		> In my opinion, none of the new jazz trumpeters are on a par with Miles Davis.
+		> Global Offensive may be on par with the National Football League’s viewership today.
+	+ on the edge
+		> |Very close to doing something or of having some imminent event happen, especially that which is bad or disastrous.| The company is still doing business, but ever since the recession hit, they have been teetering on the edge of closing down.
+		> |very anxious and about to become distraught; on the verge of becoming irrational.| After the horrible events of the last week, we are all on the edge.
+		> |In a precarious position.| 
 	- of sorts == used to describe something that is not a typical or good example of something
 		> That’s all changed, for two reasons, both of which can be thought of as technological advancements of sorts
 	- off guard == Unprepared for a surprise or difficulty.
+	- off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
+		> She made it clear that her comments were strictly off the record.
 	- out of the gate == At or from the very starting position
 		> The company’s stock tumbled about 5% out of the gate, to the $42 range.
+	- out of the red == No longer having a debt owed to one or more other people, corporations, banks
+		> I'm hoping that a positive reception to our new product could help pull us out of the red for this financial year.
+		> Investors believe esports could be the next NBA or, optimistically, NFL, and they’ve poured hundreds of millions of dollars into realizing that vision, even while esports businesses are struggling to stay out of the red.
+
+[M]
+	- make up
+		> 補償/補足 |compensate for something lost, missed, or deficient.|
+		> 組成 |(of parts) compose or constitute (a whole).| Women make up 40 per cent of the workforce.
+		> 編造 |to invent an explanation for something, especially in order to avoid being punished or embarrassed| He made up some excuse about the dog eating his homework.
+		> |to prepare or arrange something| I’ll get the chemist to make this prescription up for you.
 
 [N]
 	- never/not once 從不 == used to emphasize that something has never happened
@@ -596,17 +649,27 @@
 	- prefer to V
 	- put sb at ease == To calm, comfort, or reassure one; to make one comfortable or relaxed.
 		> How to put strangers at ease.
+	- put simply 簡單來說 == used for saying that you are just giving the basic facts about a complicated situation 
+		> Put simply, intelligence is the ability to successfully perform mental operations - but which ones? 
 [R]
 	- run short of == to near the end of a supply of something
 		> When people have to wait in queues, they risk running short of oxygen - and may not have enough oxygen left on their way down.
+	- regardless of N/Ving
+		> For example, swallowing poison will kill any individual, regardless of genetics.
 [S]
 	- subordinate A to B 把A置於B的次要地位 == A is less important than B
 	- stake one's claims on == If you stake a claim to something, you say or show that you have a right to it and that it should belong to you
 		> Various countries were staking their claims on the continent at that time.
 	- so as to == in order to == for the purpose of
 		> there is an aethereal medium filling space and permeating bodies, capable of being set in motion and of transmitting that motion from one part to another, and communicating that motion to gross matter so as to heat to and affect it in various ways.
+	- so long as == as long as == if only
+		> the car was available in any color of the rainbow, Ford said, "so long as it is black." 
 	- swing for the fences == be going ‘all out’, or giving something their maximum effort.
 		> “Whenever you swing for the fences, the likelihood is, you strike out,” Makovsky said. “But they believe that, even if you don’t get a breakthrough here, this will create a new baseline for future administrations.”
+	- stop short of 險些（做或說） == If you stop short of doing or saying something, you decide not to do or say it although you almost do.
+		> I stopped short of telling him the brutal truth. 
+		> Eppley stops short of saying anything that might discourage incels from continuing to seek him out.
+	- snatch victory (from the jaws of defeat) 在最後時刻取得勝利 == to win at the last moment possible, when it had previously seemed certain that you were going to lose
 [T]
 	- to and fro (adv) 往復地/來回地
 	- be taken aback = to surprise or shock someone so much that they do not know how to behave for a short time:
@@ -616,6 +679,7 @@
 	- the second (that) == as soon as
 		> The second I saw him, I knew he was going to be a star.
 		> The second that I think about my response, I’m half listening to what you’re saying because I’m really waiting for the opportunity to tell you my story.
+	- tit for tat 以牙還牙 == actions done intentionally to punish other people because they have done something unpleasant to you
 
 [U]
 	- up with == shouted or written on notices to show support
@@ -624,6 +688,8 @@
 		> It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
 
 [W]
+	- well into ==  far into something or far along in something.
+		> Until well into this century, the mentally ill were often targets of suspicion and even hostility.
 	- what/how/why/.. in the world 究竟/到底 == used to emphasize your surprise when asking a question
 		> What in the world are you doing in the cupboard?
 		> Who in the world could do such a thing?

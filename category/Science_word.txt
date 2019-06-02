@@ -15,10 +15,18 @@
 		>> N |A person reaching young adulthood in the early 21st century.|
 	- parsec == A unit of distance used in astronomy, equal to about 3.26 light years
 	- mph == miles per hour
+	- light-year == 10,000,000,000,000 kilometers
+	- calorie 卡路里 == 4.184 J(焦耳)
+	- Angstrom /ˈaŋstrəm/ 埃格斯特朗 == Å == one ten-billionth of a metre == 0.1 nanometre 
+	- protein 蛋白質
+	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
 
 [Chemical]
 	- carbon dioxide
 	- oxygen
+	- hydrogen 氫氣
+	- methane /ˈmɛθeɪn/ 甲烷
+	- ammonia 氨
 	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
 	- nitric 硝酸
 	- fluoride 氟化物
@@ -26,16 +34,94 @@
 	- platinum == a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals. Symbol : Pt
 	- palladium == a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum. Symbol : Pd
 	- cholesterol 膽固醇
+	- calcium /ˈkalsɪəm/ 鈣
+	- dopamine 多巴胺
+	- rosin 松香
+	- myelin 髓磷脂
+	- pigment 色素 == The natural colouring matter of animal or plant tissue.
+	- steroid /ˈstɛrɔɪd/ 類固醇
+	+ collagen /ˈkɒlədʒ(ə)n/ 膠原蛋白 <-- colla = glue + gen
+	- amino acid 胺基酸
+	- molecule /ˈmɒlɪkjuːl/ 分子
+	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
+	- noble gases 高貴氣體 == inert gases 惰性氣體
+	- helium 	/ˈhiːlɪəm/ 氦
+	- neon 		/ˈniːɒn/ 氖
+	- argon 	/ˈɑːɡɒn/ 氬
+	- krypton 	/ˈkrɪptɒn/ 氪
+	- xenon 	/ˈzɛnɒn/ 氙
+	- radon 	/ˈreɪdɒn/ 氡
 
 [Physical]
 	- wavelength 波長
 	- light wave 光波
+	- ultraviolet light 紫外線
 
-[]
+[Human]
+	- protractor (n)量角器, 伸肌
+	- spine
+		> 脊椎 |backbone|
+		> |The central feature or main source of strength of something.| players of high quality who will form the spine of our side
+		> 書脊 |The part of a book's jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author's name.| 
+		> |A tall mass of viscous lava extruded from a volcano.| 
+		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.|
+	- chronic pain 慢性疼痛
+	- shoulder blade 肩胛骨
+	- umbilical cord 臍帶
+	- masseter muscle 咬肌/咀嚼
+	- zygomatic arch 顴骨弓
+	- womb 子宮 = uterus
+	- eyelash 睫毛
+	- clavicle 鎖骨
+	- deltoid 三角肌
+	- quadriceps 股四頭肌
+	- waist 腰/腰身
+	- hormone 賀爾蒙
+	- testosterone 睪酮
+	- acne /ˈakni/ 粉刺
+	- hypothalamus /ˌhʌɪpə(ʊ)ˈθaləməs/ 下視丘
+	- pituitary gland 腦下垂體
+	- adrenal /əˈdriːn(ə)l/ 腎上腺的
+	- cortisol == hydrocortisone 皮質醇，又譯成可體松，在應付壓力中扮演重要角色，故又被稱為「壓力荷爾蒙」
+	- twitch
+		> 使抽搐 |Give or cause to give a short, sudden jerking or convulsive movement.| 
+		> |A short, sudden jerking or convulsive movement.|
+		> 猛拉 |Cause to move in a specified direction by giving a sharp pull.|
+		> |A sudden pull or jerk.|
+		> 刺痛 |A sudden sharp sensation; a pang.|
+		> |A small noose attached to a stick, which may be twisted around the upper lip or the ear of a horse to subdue 
+		it during veterinary procedures.|
+		> |Use a twitch to subdue (a horse).|
+	- endorphin /ɛnˈdɔːfɪn/ 腦內啡
+	- scar tissue 癒傷組織
+	- cortex 皮質
+	- visceral (adj)內臟的, 出自內心深處的
+	- retina /ˈrɛtɪnə/ 視網膜
+	- receptor 受器
+	- the rods 視桿
+	- the cones 視錐
+	- alimentary canal 消化道
+	- anus/ˈeɪnəs/ 肛門 == The opening at the end of the alimentary canal through which solid waste matter leaves the body.
+	- intestine /ɪnˈtɛstɪn/ 腸 == the lower part of the alimentary canal from the end of the stomach to the anus.
+	- small intestine 小腸 == small bowel
+	- large intestine 大腸 == large bowel
+	- the spinal cord 脊髓
+
+[Environment]
 	- greenhouse effect
 	- epicenter
 		> |The point on the earth's surface vertically above the focus of an earthquake.| 
 		> |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
+	- smog /ˈsmäg/, /smɒɡ/ 霧霾  == Fog or haze combined with smoke and other atmospheric pollutants.
+	- thermal inversion 逆溫現象
+	* glaciation 冰河作用
+
+[Universe]
+	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth
+	- galaxy 銀河/星系
+	- astronomer == An expert in or student of astronomy.
+	- splashdown == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+	- quasar 類星體
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

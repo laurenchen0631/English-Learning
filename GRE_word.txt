@@ -1272,7 +1272,7 @@
     + hoodwink (v)欺騙 = trick = deceive = dupe = hoax = delude
     + /ˈhɒstʌɪl/ hostile (adj)對立的 = antagonistic, 不友善的/敵意的 = unfriendly = inimical --> hostility (n)敵對/憎恨 = enmity = antagonism = unfriendliness = animus = animosity <|> /stʌɪl/ style
     + hotly (adv)激烈地/憤怒地/熱心地
-    ++ hunch (n)預感 = premonition (v)弓背/彎腰 = arch, 向前移動/推進 = shove = push = jostle
+    ++ hunch (n)預感 = premonition (v)弓背/彎腰 = arch = stoop = bend over, 向前移動/推進 = shove = push = jostle
     ++ husband (v)節儉地管理/節約地使用 = conserve (n)丈夫 --> husbandry (n)耕種/務農 = agriculture = farming, 節儉/管理 = frugality = thrift = conservation
 
     ** hack (v)亂劈/亂砍, 損毀 = mutilate = mangle, 縮減 = trim = pare, 處理 = handle (n)僱傭文人, 出租馬車 (adj)陳腐的 = hackneyed = trite = banal
@@ -1558,6 +1558,7 @@
     * lexicon (n)詞典/語彙
     *** /ˈlʌɪəb(ə)l/ liable (adj)有責任的 = legally responsible, 易受影響的 = susceptible, 易...的 = apt = subject = prone --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
     *** /ˈlɪsɪt/ licit (adj)合法的/正當的 = legal = lawful = legitimate = permissible <|> elicit <|> explicit <|> implicit <|> solicit <|> felicity
+    * lid (n)蓋子, 眼瞼 = eyelid, 派皮
     *** lie (v)躺/臥, 位於/在, 在於, 說謊
     * liege (n)君主/國王
     * /ˈlɪŋɡə/ linger (v)逗留/徘徊, 磨蹭/拖延/消磨 = loiter
@@ -1730,6 +1731,7 @@
     * minister (n)部長/大臣, 牧師, 外交使節 (v)幫助/服侍 = cater
     ** mint (n)大量/鉅額, 造幣廠, 薄荷 (v)鑄幣
     * /ˈmʌɪzə/ miser (n)守財奴/吝嗇鬼 --> miserly (adj)吝嗇的 = mean = stingy = parsimonious = penurious = niggardly
+    * misery (n)痛苦/悲慘/窮困
     ** /ˈmɪz(ə)rəb(ə)l/ miserable (adj)可憐的 = pitiful = dismal = deplorable = squalid = sordid = wretched = degraded, 令人難受的/令人痛苦的, 貧乏的 = needy = meager = penurious
     ** /mɔɪl/ moil (v)勤奮工作 = drudge = toil = travail, 旋轉 = eddy = twist (n)辛苦/麻煩 = toil = drudgery, 騷動/混亂 = confusion = turmoil = trouble <|> /ɔɪl/ oil 
     *** moist (adj)濕潤的 = damp = humid --> moisture (n)潮氣/濕氣/水分
@@ -2077,6 +2079,7 @@
     * /pɪə/ pier (n)碼頭, 防波堤 = levee, 墩/橋墩
     ** pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
+    * pittance (n)微薄的收入 <-- pity
     * pitcher (n)投擲者, 大水罐/水壺
     ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 貧乏的 = inadequate
     * plait (n)辮子 = braid (v)把..編成辮子 = braid
@@ -2173,7 +2176,6 @@
     ^ pirouette (n/v)（芭蕾舞）腳尖旋轉
     ^ pistol (n)手槍 = handgun
     ^ pitch (n)瀝青/柏油, 音調 (v)搭帳篷, 投擲, 猛然摔倒, 傾斜
-    ^ pittance (n)微薄的收入 <-- pity
     ^ plagiarize (v)抄襲/剽竊 --> plagiarism (n)抄襲/剽竊 <-- plagiar 綁架 = kidnap + ize
     ^ plain (adj)簡單的 = simple, 清楚的 = clear (n)平原
     ^ plane (n)刨子, 平面, 程度/水平 (v)刨
@@ -2593,6 +2595,7 @@
     * smack (v)(作爲懲戒孩子的)掌摑/打, 撞/使勁摔 (n)掌摑/打, 呯的一聲, 海洛因 (adv)不偏不倚地/正好, 猛地/徑直
     * smear (v)塗抹, 弄髒 = stain, 玷污 = defame = taint = sully (n)污漬 = spot, 誹謗/污衊, 抹片檢查
     * /sməːtʃ/ smirch (n)污點 = smear (v)弄髒 = sully = soil, 玷污 = sully = tarnish = disgrace = discredit = taint
+    * smirk (n/v)不自然地笑
     * smooth (adj)光滑的, 平穩的 (v)弄平/使光滑, 消除
     * smudge (v)弄髒 = blot = stain (n)污跡/污痕 = blemish = blotch
     ** /smʌɡ/ smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek = tidy (n)沾沾自喜的人
@@ -3259,7 +3262,7 @@
     ++ woo (v)求婚/求愛 = court, 追求/追逐 = court = pursue, 招致/引起 = court, 懇求/勸誘 = solicit = importune = entreat = urge
 
     ** wage (v)發動戰爭, 在進行中 (n)薪水, 賠償/補償 = compensate = recompense
-    ** /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的
+    ** /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 <|> /weɪ/ weigh <|> /weɪ/ way
     ** /wɛː/ wear (v)磨損/耗損, 允許/接受, 穿戴, 面帶, 梳成
     ** /ˈwɪəri/ weary (adj)筋疲力盡的 = fatigued = languid, 感到厭倦的 = stale = cloying (v)使疲勞/使疲倦 = exert = fatigue, 感到厭倦 = cloy = glut --> weariness (n) <|> dreary
     * wail (n/v)慟哭/呼嘯/悲歎 = mourn = lament = bewail

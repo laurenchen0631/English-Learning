@@ -10,6 +10,12 @@
 	> |(of a person) produce (offspring)| why had she married a man who could spawn a boy like that?
 	> |Produce or generate a large number of.| the decade spawned a bewildering variety of books on the forces
 	>> 菌絲 |The mycelium of a fungus, especially a cultivated mushroom| a supplier of spawn for shiitake mushrooms
+- phenotype 顯形 == The set of observable characteristics of an individual resulting from the interaction of its genotype with the environment.
+
+[Organ]
+- gland
+		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
+		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
 
 [Animal]
 - tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -22,6 +28,7 @@
 - moth 蛾
 - squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
 - octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
+- wasp 黃蜂/馬蜂
 
 [Plant]
 * shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.

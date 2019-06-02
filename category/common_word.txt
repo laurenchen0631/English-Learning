@@ -40,7 +40,14 @@
 		> |account| 
 		> |air conditioning|
 	- amid == Surrounded by; in the middle of.
-
+	- ancillary == subsidiary
+		> |Providing necessary support to the primary activities or operation of an organization, system, etc.| ancillary staff
+		> |A person whose work provides necessary support to the primary activities of an organization, system, etc.| the employment of specialist teachers and ancillaries
+		> |In addition to something else, but not as important.| paragraph 19 was merely ancillary to paragraph 16
+		> |Something which functions in a supplementary or supporting role.| undergraduate courses of three main subjects with related ancillaries
+	- agent
+		> 物質 |A substance that brings about a chemical or physical effect or causes a chemical reaction.| here is an urgent need for new antimicrobial agents to combat infections
+		> 代理人 |A person who acts on behalf of another person or group.| ‘in the event of illness, a durable power of attorney enabled her nephew to act as her agent
 [B]
 	- but
 		> CONJUNCTION
@@ -88,16 +95,27 @@
 		> |Send a bill to (someone)| we shall be billing them for the damage caused
 		> |The beak of a bird, especially when it is slender, flattened, or weak, or belongs to a web-footed bird or a bird of the pigeon family.| 
 		> |The peak of a cap.|
-	- break
+	- break -> broke -> broken
 	- break out
 		> |to escape from prison| They broke out of prison and fled the country.
 		> |to escape from a place or a situation| wo inmates broke out of prison and are still at large.
 		> |to suddenly starts| Fighting has broken out all over the city.
 		> |to suddenly begin to have a rash| I hate it when I break out in hives.
+	- break down
+		> 停止運轉 |If a machine or vehicle breaks down, it stops working| Our car broke down and we had to push it off the road.
+		> |If a system, relationship, or discussion breaks down, it fails because there is a problem or disagreement.| 
+		> 崩潰 |to be unable to control your feelings and to start to cry| When we gave her the bad news, she broke down and cried.
 	- back sb up
 		> |to support or help someone| My family backed me up in my fight for compensation
 		> |to say that someone is telling the truth| That’s exactly what happened – Cleo will back me up.
+	- back-to-back
+		> 一個接一個的 |happening one after another, without interruption| Hamilton is celebrating back-to-back victories in the German and British Grands Prix.
+		> 背靠背的 |close together and facing in opposite directions|  back-to-back terraced houses
 [C]
+	- cadence
+		> 抑揚頓挫 |A modulation or inflection of the voice.| the measured cadences that he employed in the Senate
+		> 節奏 |Rhythm| the thumping cadence of the engines
+		> 結尾 |A sequence of notes or chords comprising the close of a musical phrase.|
 	- care
 	- carry
 	- coat
@@ -118,11 +136,17 @@
 		> |appear|
 		> |If a job or opportunity comes up, it becomes available| A position has come up in the accounts department.
 		> |to happen, usually unexpectedly| I've got to go - something has just come up at home and I'm needed there.
-	- come off
+	+ come off
 		>> |to happen as planned, or to succeed| There was some sort of property deal that didn't come off.
 		>> |to stop taking something such as a medicine or drug| She’d been advised to come off the medication immediately.
 		>> |to fall off something that you are riding| She’d come off her new bike and hurt her knee.
 		>> |to stop being fixed to something| I pulled at the drawer, and the handle came off.
+	- compound
+		> 混合物 |A thing that is composed of two or more separate elements; a mixture.| the air smelled like a compound of diesel and petrol fumes
+		> 組成 |Make up (a composite whole); constitute.| a dialect compounded of Spanish and Dutch
+		> 加劇 |Make (something bad) worse; intensify the negative aspects of.| prisoners' lack of contact with the outside world compounds their problems
+		> 複利的 |(of interest) payable on both capital and the accumulated interest.| compound interest
+		> 以複利計算 |Reckon (interest) on previously accumulated interest.| the yield at which the interest is compounded
 	- concentration
 		> |The action or power of focusing all ones attention.| she was frowning in concentration
 		> |A close gathering of people or things.| the island has the greatest concentration of seabirds in the north-west
@@ -155,6 +179,17 @@
 		> |Become suddenly clear or understandable.| I wasn't used to such good treatment, then it clicked: we were wearing suits
 		> |Quickly become friendly or intimate.| I couldn't help notice how pretty and intelligent she was and we just clicked
 		> |Become successful or popular.| I don't think this issue has clicked with the voters
+	- cutting-edge == very modern and with all the newest features
+	- channel
+		> 渠道 |A length of water wider than a strait, joining two larger areas of water, especially two seas.|
+		> 頻道 |A band of frequencies used in radio and television transmission, especially as used by a particular station.|
+		> 途徑/管道 |A method or system for communication or distribution.| they didn't apply through the proper channels
+		> |An electric circuit which acts as a path for a signal.|
+		> 傳輸/導向 |Direct towards a particular end or object.| the council is to channel public funds into training schemes
+		> 模仿 |Emulate or seem to be inspired by.| Meg Ryan plays Avery as if she's channelling Nicole Kidman
+	- call
+	- call for 需要 == demand == require
+		> Because mental illnesses can take so many forms, however, each one calls for a separate explanation of its development.
 [D]
 	- date
 	- date back to == to have been made in or to have come into being in (a certain time in the past)
@@ -188,7 +223,13 @@
 		> |A street or road.| ‘the main drag is wide but there are few vehicles
 		> |Influence over other people.| ‘they had the education but they didn't have the drag
 	- die Ving == die due to V
+	- die of == to die because of (something)
+	- drop out
+		> 退出 |cease to participate in a race or competition.|
+		> 退學 |abandon a course of study.| she had dropped out of college
 [E]
+	- -esque 似 == (forming adjectives) in the style of; resembling.
+
 	- estimate /ˈɛstɪmeɪt/ V
 		> |Roughly calculate or judge the value, number, quantity, or extent of.| the aim is to estimate the effects of macroeconomic policy on the economy
 	- estimate /ˈɛstɪmət/  N 
@@ -205,6 +246,16 @@
 	- establish oneself == stay or dwell
 		> Spain had established itself in Mexico, New Mexico, Arizona, and on the California coast
 [F]
+	- fan -> fanned -> fanned
+		> 風扇 |An apparatus with rotating blades that creates a current of air for cooling or ventilation.| a couple of ceiling fans, lazily turning
+		> 扇子 |A handheld device, typically folding and shaped like a segment of a circle when spread out, that is waved so as to cool the person holding it.| the girls were giggling behind their fans
+		> 使降溫 |Cool (someone or something) by waving an object to create a current of air.|
+		> 吹拂 |(of breath or a breeze) blow gently on.| his breath fanned her skin as he leant towards her
+		> 搧風 |Brush or drive away with a waving movement.| a veil of smoke which she fanned away with a jewelled hand
+		> 揮空 |Swing unsuccessfully at the ball or puck.| he had fanned 37 times in 83 at-bats
+		> |Increase the strength of (a fire) by blowing on it or stirring up the air near it.| fanned by an easterly wind, the fire spread rapidly
+		> 激起/煽動 |Cause (a belief or emotion) to become stronger or more widespread.| a fury fanned by press coverag
+		> 粉絲 |A person who has a strong interest in or admiration for a particular person or thing.|
 	- figure
 		> |A number, especially one which forms part of official statistics or relates to the financial performance of a company.| by 1998, this figure had risen to 14 million
 		> |An amount of money.| a figure of two thousand pounds
@@ -218,7 +269,7 @@
 		> |Represent in a diagram or picture.| varieties of this Cape genus are figured from drawings made there
 
 	- feed -> fed -> fed
-	
+	- fly -> flied/flew -> flown
 	- fall
 	- fall prey to something/someone == to be influenced by someone or something
 		> Grocers, in their own workaday way, fall prey to the same inertia
@@ -234,16 +285,58 @@
 		> |To grope around for something, especially in the dark or a similar situation where one's vision is limited|  I had to feel around for the light switch for a minute before I was able to find it.
 		> |to try to find someone or something by feel| He felt around for the soap in the bathtub.
 		> |To explore something by the sense of touch, especially when seeking an item| If you feel around in the sock drawer, you'll probably find your missing earrings.
+	+ field
+		> |An area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.| 
+		> |A particular branch of study or sphere of activity or interest.| we talked to professionals in various fields
+		> |All the participants in a contest or sport.|
+		> |Catch or stop (the ball) and return it.| 
+		> |Send out (a team or individual) to play in a game.|
+		> |Deal with (a difficult question, telephone call, etc.).| I watch him field a half-dozen calls.
+	- foul
+		> 污濁的 |Offensive to the senses, especially through having a disgusting smell or taste or being dirty.| a foul odour
+		> 邪惡的 |Wicked or immoral.| murder most foul
+		> 下流的 |(of language) obscene.| 
+		> 違規的 |Done contrary to the rules of a sport.| a foul tackle
+		> |(in sport) commit a foul against (an opponent)| United claim their keeper was fouled
+		> 受污染的 |Containing or full of noxious matter; polluted.|
+		> |Make foul or dirty; pollute.|
+		> 阻塞 |Clogged or choked with.| the land was foul with weeds
+		> 妨礙比賽 |(in sport) an unfair or invalid stroke or piece of play, especially one involving interference with an opponent.|
+		> |(of the weather) wet and stormy.| he walked in fair and foul weather
+		> |(of a ship) collide with or interfere with the passage of (another)| the ships became overcrowded and fouled each other
+	- frame
+		> 框 |A rigid structure that surrounds something such as a picture, door, or windowpane.|
+		> 表筐 |Place (a picture or photograph) in a frame.| he had had the photo framed
+		> 身體 |A person's body with reference to its size or build.| a shiver shook her slim frame
+		> 架構 |A basic structure that underlies or supports a system, concept, or text.| the establishment of 
+		> 構築 |Formulate (a concept, plan, or system)| staff have proved invaluable in framing the proposals
+		conditions provides a frame for interpretation
+		> |A single complete picture in a series forming a cinema, television, or video film.| video footage slowed down to 20 frames a second
+		> 陷害 |Produce false evidence against (an innocent person) so that they appear guilty.| he claims he was framed
 [G]
 	- great
-	- get
-	- get into somebody == used to say that somebody has suddenly started to behave in a strange or different wa
+	- get -> got -> gotten
+	- get into == to become interested in an activity or subject, or start being involved in an activity
+		> She's been getting into yoga recently - she does three classes a week.
+	- get into somebody == used to say that somebody has suddenly started to behave in a strange or different way
 		> “We don’t perceive the difference between a leopard and a scary Slack message,” Galligan said. “You get enough of that into somebody and it becomes mentally problematic.”
+	- gloss over == to avoid considering something, such as an embarrassing mistake, to make it seem not important, and to quickly continue talking about something else
+		> She glossed over the company's declining profits.
+		> The documentary glossed over some important issues.
+	- geeky 社會脫節的 == Unfashionable and socially inept
 [H]
+	- hang-up 焦慮/煩惱 == a permanent and unreasonable feeling of anxiety about a particular feature of yourself
+		> He's one of these men who went bald very young and has a terrible hang-up about it.
+		> This is the hang-up of Gillibrand’s campaign
 	- hear -> heard -> heard
 	- hold
+	- hold up == remain strong or vigorous.
+		> And that creates an expectation that may not hold up when we go back and drill into the numbers
 	- hold onto/on == keep something you have
 		> One consequence of this is that states as different as Ohio and Hawaii have been considering initiatives to stem brain drain and hold onto their own talent.
+	- hold back == to not do something, often because of fear or because you do not want to make a bad situation worse
+		> He held back, terrified of going into the dark room.
+		> I held back during the meeting because I knew that my opinions were too controversial.
 	- hot button == a subject that is important to people and about which they have strong opinions
 		> After the 2016 election, she brought together 25 Clinton supporters from California and 25 Trump supporters from Alabama to talk about hot-button issues
 	- hand out 
@@ -256,12 +349,22 @@
 	- head out
 		> |To leave some place; to depart.| Attention, everyone: we're heading out at 10 AM.
 		> |To move something away from something else.| If everyone is buckled in, I'll head the car out.
+	- second half 下半 <--> first half 上半
 [I]
 	- invest
 	- inwardly == within the mind.
 		> If the idea of sending in a resume and cover letter makes you inwardly (or outwardly) groan, you’re not alone. 
+[J]
+	- jittery 緊張的 == Nervous or unable to relax.
 [K]
 	- kneel -> knelt -> knelt
+	- kind
+	- kind of 似乎/有點 == used when you are trying to explain or describe something, but you cannot be exact
+		> It was kind of strange to see him again.
+		> Everyone I talk to in this industry kind of acknowledges the fact that there is value in esports, but it is not nearly the value that is getting hyped these days.
+	- kick in == to start to have an effect or to happen
+		> It takes half an hour for the medication to kick in.
+		> So when you let all that go, maybe that's how the endorphins kick in
 [L]
 	- labor, labour
 		> |Work, especially physical work.| the price of repairs includes labour, parts, and VAT
@@ -272,8 +375,12 @@
 		> |(of a woman in childbirth) be in labor.| she labored very well and comfortably because she was relaxed
 
 	- lead -> led -> led
-	- lead to 
-	- lay
+	+ lead to 
+	- lie -> lay -> lain -> lyubg
+	- lie in 存在於/在於 == to exist or be found in something
+		> His skill lies in his ability to communicate quite complex ideas very simply.
+		> The play's interest lies in the questions it raises about sexuality.
+	- lay -> laid -> laid
 	- lay off 
 		> |to end someone’s employment, especially temporarily, because there is not enough work for them| They’ve had to cut back production and lay off workers.
 		> |to stop doing something that is annoying someone| Lay off! I’m trying to study.
@@ -281,6 +388,7 @@
 	- lose -> lost -> lost
 	- lose out 處於劣勢 == to not get a benefit that someone else is getting
 		> The proposal is likely to be opposed by the four countries which could lose out.
+
 [M]
 	- make up
 		> |to create from the imagination| He made up a story
@@ -294,6 +402,9 @@
 	- marked
         > |Clearly noticeable.| a marked increase in UK sales
         > |Having a visible mark or marking.| a houseplant with beautifully marked, dark green leaves
+	- miss out == to fail to use an opportunity to enjoy or get an advantage from something
+		> We didn't have a TV at home when I was young, and I felt as though I missed out.
+		> If esports is the next big thing, they don’t want to miss out on it
 	- midst == The middle part or point.
 		> The declaration, though it would turn out to have little practical consequence for the clergy, was symbolized by liturgical reform that brought the altar down from on high, into the midst of the congregation
 	- monumental == Great in importance, extent, or size.
@@ -315,23 +426,33 @@
 		> They one-upped the competition
 		> Want to one-up them with your clever little story?
 [P]
+	- pan-handling == begging, sponging, spanging
 	- pick
-	- pick up ==  == catch
+	- pick up == catch
 	- pick up
 		> |detect; catch;| During the war, hydrophones were developed to detect to submarines but they also pick up a vast array of sound produced by sea mammals.
 		> |to increase or improve| The number of applicants will pick up during the autumn.
 		> |to answer the phone| I tried his home number but he didn't pick up.
+	- pickup
+		> 小卡車 |A small van or truck with low sides.| 
+		> 收集/整理 |An act of collecting a person or goods, especially in a vehicle.| 
+		> 把妞 |A casual encounter with a stranger with a view to having sexual intercourse.| 
+		> 恢復景氣 |An improvement, especially in an economy.| 
+		> |A device that produces an electrical signal in response to some other kind of signal or change.|
+		> |The reception of signals, especially interference or noise, by electrical apparatus.| ‘this microphone helps reduce the pickup of background noise
+		> |Informal and spontaneous.|
+
 	- pass
 	- pass on == to tell/give someone something that another person has told/given you
 		> With skills being passed on from master to apprentice, engineering was regarded as a trade rather than a profession up until the late 18th century
-	- pose
-		>> |Present or constitute (a problem or danger)| the sheer number of visitors is posing a threat to the area
-		>> |Raise (a question or matter for consideration)| the statement posed more questions than it answered
-		>> |Assume a particular position in order to be photographed, painted, or drawn.| the prime minister posed for photographers
-		>> |A way of standing or sitting, especially in order to be photographed, painted, or drawn.| 
-		>> pose as |Pretend to be (someone or something)| an armed gang posed as policemen to ambush a postman
-		>> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
-		>> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
+	＋ pose
+		> |Present or constitute (a problem or danger)| the sheer number of visitors is posing a threat to the area
+		> |Raise (a question or matter for consideration)| the statement posed more questions than it answered
+		> |Assume a particular position in order to be photographed, painted, or drawn.| the prime minister posed for photographers
+		> |A way of standing or sitting, especially in order to be photographed, painted, or drawn.| 
+		> pose as |Pretend to be (someone or something)| an armed gang posed as policemen to ambush a postman
+		> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
+		> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
 
 	- pull
 	- pull of
@@ -339,11 +460,16 @@
         > |(of a vehicle or its driver) move out from the side of the road| as he turned the corner a police car pulled out in front of him
 	- pull off == to succeed in doing something that is difficult
 		> As recently as 2017, the retail arm was generating an estimated $5,500 in sales per square foot, easily outpacing rivals. But that’s getting harder to pull off.
-
+	- pull down 
+		> 破壞 |to destroy something, esp. a building| Many of those old buildings will soon be pulled down.
+		> 賺 |to earn an amount of money| She’s pulling down over $100,000 a year.
 
 	- put
 	- put aside == to ignore or not deal with something
 		> He was ready to put aside a century of family knowledge, throw away all his assumptions, completely rethink his brand and strategy.
+	- pull out
+		> |to stop being involved in an activity| Lack of funding leaves us with no choice but to pull out.
+		> |If a vehicle pulls out, it starts moving onto a road or onto a different part of the road| A car pulled right out in front of me.
 
 	- pitch
 	- past
@@ -355,8 +481,10 @@
 		> ADV |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
 		> ADV |Used to indicate the lapse of time.| a week went past and nothing changed
 	- phenomenon /fəˈnɒmɪnən/ -> phenomena
-	
-
+	- privy to ==  Sharing in the knowledge of (something secret or private)
+		> he was no longer privy to her innermost thoughts
+		> Several professionals interviewed by Kotaku privy to the financials of esports organizations say they do not know what their organizations’ long-term revenue plans are.
+	* predominately == largely == mainly == mostly
 
 [Q]
 	- qualify
@@ -366,7 +494,12 @@
 		> |describe something as| One thing that would qualify my work as ‘innovative’ is my interest in abstraction.
 
 [R]
-	- run 
+	- rack up == to obtain or achieve something, or to score goals or points:
+		> The airline was racking up losses of $1.5 million a day.
+		> Miller racked up 28 points in the first half, and kept racking them up in the second.
+	- run
+	- run-of-the-mill == ordinary and not special or exciting in any way
+		> He gave a fairly run-of-the-mill speech.
 	- runaway
         > |A person who has run away|
         > |An animal or vehicle that is running out of control.| a runaway train
@@ -380,6 +513,9 @@
 	- roll out == to make something available or known to people for the first time
 		> Microsoft is rolling out templates later this year so people can easily optimize their Teams app to best suit particular industries, like marketing
 		> While Fitz and the Tantrums had already experienced success at home, the burst of fame on TikTok persuaded the band to focus on Asia as it rolls out its new album.
+	- roll around == (of a time or event) to happen:
+		> She wondered if he would still be there when spring rolled around.
+		> 
 	- round sb/sth up == To gather or organize a group of people or things together.
 		> Would you mind rounding up the students so we can start the recital?
 	- reflect
@@ -387,6 +523,8 @@
 		> |show an image of.| he could see himself reflected in Keith's mirrored glasses
 		> 表現出 |Embody or represent (something) in a faithful or appropriate way.| schools should reflect cultural differences
 		> reflect on/upon |Think deeply or carefully about.| he reflected with sadness on the unhappiness of his marriage
+	- rock a baby == move it backwards and forwards or from side to side in a regular way to help it to sleep
+
 [S]
 	- set
 	- set sth aside == to save something, usually money or time, for a special purpose
@@ -398,6 +536,9 @@
 		> |to cause a situation or a series of events to happen, especially without intending to| He fears that the election could set off mass protests.
 		> |to make someone or something look more attractive by being clearly different from them| Her plain blue dress was set off by a feather-trimmed hat.
 		> |to make someone start to laugh, cry, or talk a lot| Just mentioning her father’s death could set her off again.
+	- set about == to start to do or deal with something
+		> I have no idea how to set about changing a tyre on a car.
+		> I tried to apologize, but I think I set about it the wrong way.
 
 	- stop
 	- stop Ving
@@ -428,16 +569,33 @@
 	- still
 	- stress
 	- seek -> sought -> sought
+	- seek sb/sth out == to look for someone or something, especially for a long time until you find him, her, or it:
+		> While he was at the library, Steve decided to seek out some information on the history of the area.
 	- succession
 		> |A number of people or things of a similar kind following one after the other| government ministers gathered in adjoining rooms, peering through a succession of open doors arranged en enfilade.
 		> | The action or process of inheriting a title, office, property, etc.| this tradition held true through to the 20th century, especially for babies high in the line of succession to the throne.
-	
+	- somewhat 有點/稍微 == To a moderate extent or by a moderate amount; rather. 
+	* somewhat of == something of 
+		> How the human eye perceives color has remained somewhat of a mystery.
+	- soak
+	- soak up == to absorb or enjoy something that exists around you
+		> I just want to lie on the beach and soak up the sun.
+		> She soaks up everything that’s said in class.
 	- sort
 	- sort out == to do what is necessary to deal with a problem, disagreement, or difficult situation successfully
 		> If someone brought in a busted iPhone, a Genius would sort it out.
 	- strike
 	- strike down == (of a court) to decide that a law or rule is illegal and should be ignored
 		> The law resembles a Texas law struck down by Supreme Court in 2016.
+	- stroke
+		> 擊/打 |An act of hitting or striking someone or something; a blow.| he received three strokes of the cane
+		> |Hit or kick (a ball) smoothly and deliberately.|
+		> 一筆/筆觸 |A mark made by drawing a pen, pencil, or paintbrush in one direction across paper or canvas.| the paint had been applied in careful, regular strokes
+		> |An act of moving one's hand across a surface with gentle pressure.| massage the cream into your skin using light upward strokes
+		> |Each of a series of movements in which something moves out of its position and back into it.| the ray swam with effortless strokes of its huge wings
+		> 划 |Act as the stroke of (a boat or crew)|
+		> |Move one's hand with gentle pressure over (a surface), typically repeatedly; caress.|
+		> 中風 |A sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis.| he was left disabled by a stroke
 	- stem from
 		> In another case stemming from Indiana, a law requires an ultrasound 18 hours before the abortion procedure, essentially requiring a two-day process. 
 	- spin -> spun -> spun
@@ -467,7 +625,50 @@
 		> | (of a person) exert a great deal of strenuous effort.| I've sweated over this for six months
 		> |Heat (chopped vegetables) slowly in a pan with a small amount of fat, so that they cook in their own juices.| sweat the celery and onions with olive oil and seasoning
 	- state-of-the-art == very modern and using the most recent ideas and methods
+	- sci-fi == science-fiction
+	- step
+	- step up == to take action when there is a need or opportunity for it:
+		> Investors have to step up and assume more responsibility for their assets.
+	- shell out == to pay money for something, especially when the cost is unexpected and not wanted:
+		> If we lose the case, we'll be forced to shell out.
+		> The ecosystem of esports organisms vying for resources consists of esports teams and tournament organizers, who shell out money for player salaries and flashy events with cash from investors and sponsors.
+	- slide -> slid -> slid
+	- slink -> slunk
+	- slink off == To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner.
+		> I knew the teacher wanted to lecture me about the poor results on my test, so I made a plan to slink off as soon as the bell rang.
+	- string -> strung -> strung
+	- string along
+		> |to make someone continue believing something that is false for a long time, especially something about your  intentions or beliefs| She’s just stringing you along – she won’t marry you.
+		> |to agree with or go along with an idea or suggestion| I’ll string along with your plan and see what happens.
+	+ shy away from sth 退縮/躲避 == to avoid something that you dislike, fear, or do not feel confident about
+		> I've never shied away from hard work.
+		> It left him open to criticism that he was shying away from the moment
+	+ squarely 直接地 == Directly, without deviating to one side.| Ashley looked at him squarely
+	+ strain	/streɪn/
+		> 竭力 |Force (a part of one's body or oneself) to make an unusually great effort.| I stopped and listened, straining my ears for any sound.
+		> |A severe or excessive demand on the strength, resources, or abilities of someone or something.| the accusations put a strain on relations between the two countries
+		> 扭傷 |Injure (a limb, muscle, or organ) by overexerting it.| on cold days you are more likely to strain a muscle
+		> 濫用 |Make severe or excessive demands on.| he strained her tolerance to the limit
+		> 拉緊/拉伸 |Pull or push forcibly at something.| the bear strained at the chain around its neck
+		> |A force tending to pull or stretch something to an extreme or damaging degree.| the usual type of chair puts an enormous strain on the spine
+		> 過濾 |Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter| strain the custard into a bowl
+		> 旋律/曲子 |The sound of a piece of music.| the distant strains of the brass band grew louder
+		> 種類 |A particular breed, stock, or variety of an animal or plant.|
+		> 傾向 |A particular tendency as part of a person's character.| there's a strain of Victorian rectitude in him
 [T]
+	- tap
+		> 水龍頭 |A device by which a flow of liquid or gas from a pipe or container can be controlled.|
+		> 竊聽器 |A device connected to a telephone for listening secretly to someone's conversations.|
+		> |Connect a device to (a telephone) so that conversation can be listened to secretly.|
+		> 塞子 |An instrument for cutting a threaded hole in a material.|
+		> |Cut a thread in (something) to accept a screw.|
+		> |Draw liquid through the tap or spout of (a cask, barrel, or other container)|
+		> 開發/開闢 |Exploit or draw a supply from (a resource)|
+		> 輕拍/輕敲 |Strike with a quick light blow or blows|
+		> |A quick light blow, or the sound of such a blow.|
+		> 指定/選定 |Designate or select (someone) for a task or honour, especially membership of an organization or committee.| Gillibrand was tapped to replace her in the Senate
+		> |Tap dancing.|
+		> |A bugle call for lights to be put out in army quarters.|
 	- throughout
 	- therefore /ˈðɛːfɔː/
 	- talk up == to discuss favorably == advocate == promote 
@@ -524,7 +725,13 @@
 		> So you need to be able to tune out the pain and deal with it later.
 [V]
 	- Velcro 魔鬼氈
+	- vie -> vying 競爭 == Compete eagerly with someone in order to do or achieve something.
+		> the athletes were vying for a place in the British team
 [W]
+	- walk
+	- walk off == to leave a place because you are angry or unhappy about something:
+		> She threatened to walk off the film set because of the conditions
+		> He refused to discuss it and just walked off in a huff.
 	- wonder
 		> 驚奇 |A feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar| he observed the intricacy of the ironwork with the wonder of a child
 		> 感到驚訝 |Feel admiration and amazement; marvel.| people stood by and wondered at such bravery
@@ -547,3 +754,10 @@
 	++ well over == much more than 
 		> it takes a human infant well over a year to learn how to walk.
 		> Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
+
+[Latin]
+	- bona fides
+		> 真誠 |A person's honesty and sincerity of intention.| he went to great lengths to establish his liberal bona fides
+		> 書面證據 |Documentary evidence showing that a person is what they claim to be; credentials.|
+	- du jour == used to describe something that is enjoying great but probably short-lived popularity or publicity.
+		- As he watched investors dump tens or hundreds of millions at once into the esports organization du jour, Fields has become concerned they’re “jumping the gun.”

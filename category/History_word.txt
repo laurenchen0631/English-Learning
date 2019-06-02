@@ -1,5 +1,5 @@
 [Age]
-- the Middle Ages
+- the Middle Ages 中古世紀
 
 [Race]
 - the Sherpa 夏爾巴人/雪巴人，一支散居在尼泊爾、中國、印度和不丹等國邊境喜瑪拉雅山脈兩側的民族
@@ -12,6 +12,14 @@
 - Thomas Edison 湯瑪斯·阿爾瓦·愛迪生
 - Leonardo da vinci
 - Emperor Constantine
+- Hero of Alexandria 希羅，亞歷山卓的希羅，是一位古希臘數學家
+- Galileo Galile 伽利略·伽利萊
+- Evangelista Torricelli 埃萬傑利斯塔·托里切利，義大利物理學兼數學家，以發明氣壓計而聞名。
+- Sigmund Freud 西格蒙德·佛洛伊德，奧地利心理學家、精神分析學家，哲學家，猶太人
+
+[Finance]
+- the dotcom bubble 網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
+- Morgan Stanley 摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
 
 [Spain]
 - conquistador /kɒnˈkwɪstədɔː/ == A conqueror, especially one of the Spanish conquerors of Mexico and Peru in the 16th century.
@@ -26,18 +34,11 @@
 
 [United States]
 - Louisiana Purchase 路易斯安那購地，是美國於1803年以大約每英畝三美分向法國購買超過529,911,680英畝土地的交易案
-- Congress 美國國會 == the U.S. Congress
-- National Park Service 美國國家公園管理局
-- the GOP == Grand Old Party == The Republican Party
-- constitution 憲法
-- the U.S. Customs 美國海關
-- Border Protection agency 邊境保護局
-- the Department of Defense 美國國防部
-- the U.S. Department of Justice 美國司法部
-- the General Services Administration 總務署
-- the House of Representatives 美國眾議院
+- Gold Rush 淘金潮，又稱淘金熱
 
-[War]
+[Event]
 - Word War II == the Second World War
 - the Glorious Revolution 光榮革命
 - Holocaust 猶太人大屠殺
+- the Industrial Revolution 工業革命
+- the Nobel Prize

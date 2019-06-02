@@ -10,6 +10,8 @@
 	- the general manager 總經理
 	- chairman 議長/委員長/董事長
 	- VP == Vice President
+	- CFO == Chief Financial Officer
+	- COO == Chief Operating Officer
 	- knowledge economy 知識經濟
 	- brain drain 人才流失
 	- onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
@@ -23,16 +25,18 @@
 	- pre-tax salary 
 	- rank and file == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- subcontractor == A firm or person that carries out work for a company as part of a larger project
-	- C-suite  ==  the group of the most important managers in a company, for example, those whose titles begin with the letter C, for 'chief'
+	- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for 'chief'
 	+ demote == Move (someone) to a lower position or rank, usually as a punishment.
-	- pyramid scheme 金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
-	- multi-level marketing (MLM)
 	- blockbuster == A thing of great power or size, in particular a film, book, or other product that is a great commercial success.
-	- ancillary == subsidiary
-		> |Providing necessary support to the primary activities or operation of an organization, system, etc.| ancillary staff
-		> |A person whose work provides necessary support to the primary activities of an organization, system, etc.| the employment of specialist teachers and ancillaries
-		> |In addition to something else, but not as important.| paragraph 19 was merely ancillary to paragraph 16
-		> |Something which functions in a supplementary or supporting role.| undergraduate courses of three main subjects with related ancillaries
+	- nondisclosure agreement 保密協議
+	- layoff
+		> 臨時解僱 |A discharge, especially temporary, of a worker or workers.|
+		> 解僱期 |A period when a layoff is in force.|
+		> 停止活動 |A period during which someone does not take part in a customary sport or other activity.|
+	- family leave 家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
+	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
+	- blue-collar 藍領/藍領的，簡單來說就是從事勞動工作的雇員，典型的代表可能是工廠作業員和軟體工程師，藍領經常被用來與白領比較，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作。
+	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
 
 [House]
 	- butler == The chief manservant of a house.
@@ -50,11 +54,15 @@
 	- earnings call == a teleconference in which a public company talks about its financial situation
 	- fiduciary duty 信託義務
 	- Series A financing/funding A輪融資
-	- venture capital 創業投資
+	- venture capital 創業投資 == VC
 	- mortgage 抵押貸款 == A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.
 	- real estate 房地產
 	- hedge fund 避險基金，又稱對沖基金或套利基金
 	- capex == Capital expenditure 資本支出
+	- Ponzi scheme 龐氏騙局，是指以虛假的投資項目作招徠，並以後來投資者的資金，支付給最初投資者作利潤，以營造高回報假象
+	- pyramid scheme 金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
+	- multi-level marketing (MLM)
+	- private equity firms 私人股本公司
 	- inflation
 		> |The action of inflating something or the condition of being inflated.| the inflation of a balloon
 		> 通貨膨脹 |A general increase in prices and fall in the purchasing value of money.|
@@ -62,7 +70,8 @@
 [Law/Crime]
 	- the Supreme Court 最高法院
 	- the Fifth Amendment 第五修正案
-	- appeals court 上訴法院
+	- The Homestead Act 公地放領法案，又譯《份地法》、《移居法》
+	- appeals court 上訴法院 == Court of Appeals
 	- trial court 初審法院
 	- the Circuit Court 美國巡迴上訴法院
 	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
@@ -106,10 +115,13 @@
 	- cockpit 座艙/駕駛艙 == A compartment for the pilot
 
 [Agriculture]
-	- ranch == A large farm where cattle or other animals are bred. 
+	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
 	- compost
-		>> |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
-		>> |Make (vegetable matter or manure) into compost.| don't compost heavily infested plants
+		> 堆肥 |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
+		> 做堆肥 |Make (vegetable matter or manure) into compost.| don't compost heavily infested plants
+	- graziers /ˈɡreɪzɪə/ 畜牧業者 == A person who rears or fattens cattle or sheep for market.
+	- shepherd 牧羊人 == A person who tends and rears sheep.
+	- milkmaid 擠奶女工 == A girl or woman who milks cows or does other work in a dairy.
 
 [Cook/Food]
 	- Worcestershire sauce 伍斯特醬
@@ -128,20 +140,38 @@
 		> |The time that something of quality was produced.|
 		> |Relating to or denoting wine of high quality.|
 		> |Denoting something from the past of high quality, especially something representing the best of its kind.| a vintage Sherlock Holmes adventure
+	- stew
+		> 燉菜 |A dish of meat and vegetables cooked slowly in liquid in a closed dish or pan.| 
+		> |(with reference to meat, fruit, or other food) cook or be cooked slowly in liquid in a closed dish or pan.| beef stewed in wine
+		> be stewed in |Be steeped in or imbued with.| politics there are stewed in sexual prejudice and privilege
+		> 焦慮 |A state of great anxiety or agitation.|
+	- booze (n)酒精飲料 (v)大量飲講
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
 	- midwife == A person, typically a woman, who is trained to assist women in childbirth.
+	* psychologist 心理學家 == An expert or specialist in psychology.
+	* psychiatrist /sʌɪˈkʌɪətrɪst/  精神科醫生/心理醫生 == A medical practitioner specializing in the diagnosis and treatment of mental illness.
 	- postpartum hemorrhage 產後出血
-	- stillborn == (of an infant) born dead
+	- influenza	流感 == flu 
+	- emphysema	/ˌɛmfəˈsimə/ 肺氣腫
+	- asthma 哮喘
+	- bronchitis /brɑŋˈkaɪdəs/ 支氣管炎
+	- syphilis 梅毒
+	- diabetes 糖尿病 == diabetes mellitus
+	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
+	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
+	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
+	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
+	- manic depression 躁鬱症
+	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
+	- stillborn 死胎的 == (of an infant) born dead
 	- forceps 鉗子
 	- chloroform 氯仿
-	- umbilical cord 臍帶
 	- metastasize == (of a cancer) spread to other sites in the body by metastasis.
 	- ophthalmologists 眼科醫生
 	- pathologists 病理學家
 	- strabismus 斜視
-	- syphilis 梅毒
 	- laceration == A deep cut or tear in skin or flesh.
 	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.
 	- tourniquet 止血帶 == A device for stopping the flow of blood through a vein or artery, typically by compressing a limb with a cord or tight bandage.
@@ -171,14 +201,6 @@
 		> 內臟的 |Relating to the viscera.| the visceral nervous system
 		> |Relating to deep inward feelings rather than to the intellect.|
 	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
-	- spine
-		> 脊椎 |backbone|
-		> |The central feature or main source of strength of something.| players of high quality who will form the spine of our side
-		> 書脊 |The part of a book's jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author's name.| 
-		> |A tall mass of viscous lava extruded from a volcano.| 
-		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.|
-	- chronic pain 慢性疼痛
-	- shoulder blade 肩胛骨
 	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
 	- ego
 		>> |A person's sense of self-esteem or self-importance.|
@@ -187,8 +209,20 @@
 	- pharmaceuticals == A compound manufactured for use as a medicinal drug.
 	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
 	- oxygen cylinder 氧氣瓶
+	- psychiatric hospital 精神科醫院
+	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
+	- orthodontist 牙齒矯正醫師
+	- Oral and maxillofacial surgery 口腔頜面外科，該外科主要治理頭部、頸部、臉部、下頜、口腔和頜面部位
+	- plastic surgery 整形手術
+	- urologist 泌尿科醫生 == A doctor who specializes in the study or treatment of the function and disorders of the urinary system.
+	- saline
+		> 含鹽的 |Containing or impregnated with salt.| 
+		> |containing sodium chloride and/or a salt or salts of magnesium or another alkali metal.|
+		> 鹽水/生理食鹽水 |A solution of salt in water.|
+	- rhinoplasty 整鼻手術
+	- carcinogen 致癌物 == cancer-causing substance
 
-[Clothing]
+[Clothing/Fashion]
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
 	- cashmere scarves 喀什米爾羊絨圍巾
 	- trench coats 風衣
@@ -207,6 +241,11 @@
 	- sneaker 運動鞋 == A soft shoe worn for sports or casual occasions; a trainer.
 	- business professional
 	- business casual 商務便裝
+	- paisley 佩斯里花紋/變形蟲花紋，一種由圓點和曲線組成的華麗紋樣，形狀像變形的水滴。形狀取自印度教里的菩提樹葉或海棗樹葉
+	- pixie cut 精靈短髮
+	- mane
+		> 鬃毛 |A growth of long hair on the neck of a horse, lion, or other mammal.| the horse was rushing about in the field, tossing its mane
+		> 長髮 |A long flowing hair| he had a mane of white hair
 
 [Music]
 	- the Beatle 披頭四樂團
@@ -288,6 +327,7 @@
 	- baptismal 淨禮的 == Relating to the Christian rite of baptism.
 	- Gospels 福音書（《聖經》中記載耶穌生平的四福音書之一）
 	- Genesis 創世記
+	- Scripture 聖經
 	- netherworld == The underworld; hell.
 	- sacrament 聖禮/聖餐
 	- ordain
@@ -309,6 +349,10 @@
 		> |The inescapable agent of someone's or something's downfall.| njury, consistently his nemesis, struck him down during the match
 		> |A long-standing rival; an arch-enemy.| will Harry Potter finally defeat his nemesis, Voldemort?
 		> 報應 |Retributive justice| Nemesis is notoriously slow
+	- christen
+		> 施洗 |Give (a baby) a Christian name at baptism as a sign of admission to a Christian Church.|
+		> 命名 |Give a name to (someone or something) which reflects a notable characteristic.|
+		> 首次使用 |Use for the first time.|
 
 [Engineer]
 	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
@@ -320,9 +364,12 @@
 	- conduit /ˈkɒndjʊɪt/, /ˈkɒndɪt/
 		> |A channel for conveying water or other fluid.| nearby springs supplied the conduit which ran into the brewery.
 		> |A tube or trough for protecting electric wiring| the gas pipe should not be close to any electrical conduit
+	- craftsman 工匠 == A worker skilled in a particular craft.
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
+[School]
+	- sophomore == A second-year university or high-school student.
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.
@@ -339,7 +386,73 @@
 		>> 州長/總督/統治者 |An official appointed to govern a town or region.| 
 		>> 主管/董事 |The head of a public institution.| 
 		>> |A member of a governing body.|
+	- senator 參議員
+	- national poll 全國民意調查
+	* stump
+		> 殘幹/殘餘部分 |The bottom part of a tree left projecting from the ground after most of the trunk has fallen or been cut down.|
+		> 擦筆 |A cylinder with conical ends made of rolled paper or other soft material, used for softening or blending marks made with a crayon or pencil.|
+		> |Use a stump on (a drawing, line, etc.).|
+		> US 政治活動的 |Used in relation to political campaigning.|
+		> |Travel around (a district) making political speeches.|
+		> 使困惑 |(of a question or problem) be too hard for; baffle.| education chiefs were stumped by some of the exam questions
+		> 笨重地行走 |Walk stiffly and noisily.| he stumped away on short thick legs
+	- on the stump == traveling around and giving speeches during a campaign for election to a political office
+		> candidates who give the same speech over and over when they're on the stump
+	- House Democrats 眾議院民主黨人
+	- DNC == Democratic National Committee 民主黨全國委員會
+	- GOP == Grand Old Party == The Republican Party 共和黨，又稱為大老黨，與民主黨並列為美國當代的兩大主要政黨之一
+	- Congress 美國國會 == the U.S. Congress
+	- National Park Service 美國國家公園管理局
+	- constitution 憲法
+	- the U.S. Customs 美國海關
+	- Border Protection agency 邊境保護局
+	- the Department of Defense 美國國防部
+	- the U.S. Department of Justice 美國司法部
+	- the General Services Administration 總務署
+	- the House of Representatives 美國眾議院
+	- constituent --> constituency
+		> 構成的 |Being a part of a whole.| the constituent minerals of the rock
+		> |A component part of something.|
+		> 選組的 |Being a voting member of an organization and having the power to appoint or elect.|
+		> 選民 |A member of an area which elects a representative to a legislative body.|
+	- coastal elite == the group of educated, professional people living mainly in cities on the western or northeastern coasts of the US who have liberal political views and are often considered to have advantages that most ordinary Americans do not have
+		> He criticized America's coastal elites for disregarding mainstream values.
+	- populist (adj)民粹主義的/吸引一般人的 (n)民粹主義者
+	- aide 助手 == An assistant to an important person, especially a political leader.
+	- electorate 選民 == All the people in a country or area who are entitled to vote in an election.
+	- coalition 結盟 == A temporary alliance for combined action, especially of political parties forming a government.
+	- bloc 政治聯盟/經濟聯盟 == A group of countries or political parties with common interests who have formed an alliance.
 
 [Structure]
 	- balcony 陽台
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
+[Sport]
+	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
+	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
+	- Golden State 金州勇士，是一支位於美國加利福尼亞州奧克蘭的職業籃球隊
+	- the Celtic 波士頓塞爾提克，馬賽諸塞州波士頓的一支美國職業籃球隊。
+	- the Lakers 洛杉磯湖人，是一支位於美國加利福尼亞州洛杉磯的NBA籃球隊
+	- the Heat 邁阿密熱火，是一支位於美國佛羅里達州邁阿密的NBA籃球隊
+	- the Raptors 多倫多暴龍，是一支位於加拿大安大略省多倫多的職業NBA籃球隊
+	- the Dallas Mavericks 達拉斯獨行俠，是一支位於美國德克薩斯州達拉斯的美國職業籃球隊伍，中國大陸與臺灣過往常用譯名為「小牛」
+	- Milwaukee 密爾瓦基公鹿，是一支位於美國威斯康辛州密爾瓦基的NBA籃球隊
+	- series lead 優勢領先
+	- dribble
+		> 滴下 |(of a liquid) fall slowly in drops or a thin stream.| rain dribbled down the window
+		> 細流 |A thin stream of liquid; a trickle.| a dribble of blood
+		> 流口水 |Allow saliva to run from the mouth.| his mouth was open and he was dribbling
+		> 盤球/運球 |take (the ball) forwards past opponents with slight touches of the feet or the stick, or (in basketball) by continuous bouncing.| he attempted to dribble the ball from the goal area
+		> |an act of taking the ball forward with repeated slight touches or bounces.|
+	- rim 籃筐
+	- pumpfake 假動作 == to throw for a loop, to decieve or fool.
+		> I went to Brenda's house thinking that i was gonna smack the skins, but she pumpfaked me
+	- three-peat 三連霸 <-- three + repeat
+	- semifinals 半決賽/準決賽
+	- free throw 罰球，指在限制區域內進行投籃的得分方式，每投中一球便得一分
+	- layup line 上籃線
+	- playoff 延長賽 == An additional match played to decide the outcome of a contest.
+	- buzzer-beaters 壓哨球，是指在一節的完結前的極短時間投射，當球仍未達籃框時哨聲已響
+	- home game 主場比賽
+	- double-header
+		> 雙車頭火車 |a train pulled by two locomotives coupled together.|
+		> 連賽 |a sporting event in which two games or contests are played in succession at the same venue, typically between the same teams or players.|
