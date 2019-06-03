@@ -141,14 +141,14 @@
         2. 古 = ancient
             - antic (adj)古怪的 = erratic
             * /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
-            * antiquated (adj)陳舊的/過時的 = antediluvian
+            * /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
             + antiquarian (adj)古文物的 (n)古文物家
             - antiquity (n)古代, 古董, 古蹟
 
     ante, ance, anti 前 = before
         - ancestor (n)祖先 = antecedent --> ancestry (n)家系
         + antedate (v)早於...存在
-        + antediluvian (adj)史前的, 過時的
+        + /ˌantɪdɪˈluːvɪən/ antediluvian (adj)史前的, 老套的
         * antecede (v)先於 = precede
         + antecedent (n)前事/前身, 祖先 (adj)先前的 = anterior = previous <-- antecede
         - antenna (n)觸角, 天線
@@ -156,9 +156,9 @@
         + anticipate
 
     amat, amor, am 愛 = love, friendly = phil
-        - amateur (n)業餘愛好者 = dilettante --> amateurish (adj)不熟練的/外行的
+        - /ˌaməˈtəː/ amateur (n)業餘愛好者 = dilettante --> amateurish (adj)不熟練的/外行的
         + ambrosia (n)美味佳餚/仙饈
-        - amorous (adj)多情的, 戀愛的
+        - amorous (adj)多情的/色情的, 戀愛的
         + amiable (adj)(自己)和藹的 = affable <-- amicable
         * amicable (adj)(他人)友好的 = amiable
         - amity (n)友好關係
@@ -241,7 +241,7 @@
     ali, altru, alter, alien 其他 = other
         - alias (n)別名, 化名 = pseudonym
         - alibi (n)不在場證明, 藉口 = excuse
-        + /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 = unselflessness <--> egoism --> altruistic (adj)利他主義的/無私的
+        + /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 <--> egoism --> altruistic (adj)利他主義的/無私的
         + alienate (v)使疏遠/背離 = estrange = disaffect
         +++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize
         + alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
@@ -297,7 +297,7 @@
         + apogee
 
     appar 出現 = appear
-        - apparel (n)(精緻的)衣服 = garment
+        - /əˈpar(ə)l/ apparel (n)(精緻的)衣服 = garment
         ** apparent (adj)可見的 = visible, 明顯的 = obvious = patent, 實質上的 --> apparence (n)出現, 外貌
         - apparition (n)幽靈, 神奇的現象
 
@@ -353,9 +353,9 @@
         - firearm (n)槍枝
 
     arthr, artic 連結/關節/接合 = joint
-        - arthritis (n)關節炎
+        - /ɑːˈθrʌɪtɪs/ arthritis (n)關節炎
         ++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
-        ** articulation (n)發音 = pronounce (v), 連結, 關節
+        ** articulation (n)發音 = pronounce, 連結, 關節
         * artery (n)動脈 = aorta, 主要幹道
 
     art, arti 技巧
@@ -424,6 +424,31 @@
         + augur (n)占卜師 (v)占卜/預言 = divine --> augury (n)預言/徵兆 = divination
 
 [B]
+    bi 二 = two, twice == ambi
+        + /ˈbʌɪfəkeɪt/ bifurcate (v)(道路、河流、樹枝)分叉 <--> coalesce
+        - bilingual (adj)兩種語言的 <-- bi + linguistic
+        - biped
+
+    bio 生命
+        - biology (n)生物學
+        - antibiotic (n)抗生素
+        - autobiography (n)自傳
+        - biosphere (n)生命層/生物圈
+        + symbiosis (n)共生/合作關係 = mutualism
+    
+    bene, ben, bon 好 = well
+        - benediction
+        + benefactor (n)行善者/捐助者 = donor
+        + beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane, 有益的 = beneficial
+        + beneficial (adj)有益的/有用的 = helpful = useful = beneficent
+        - beneficiary (n)受益人
+        + benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
+        + /bɪˈnʌɪn/ benign (adj)慈祥的 = gracious = benevolent, 氣候溫和的, 良性的/吉利的 = favorable = propitious = auspicious <--> malignant
+        - benison (n)祝福/祈禱 = pray = benediction = invocation
+        + /ˈbɒnəmiː/ bonhomie (n)友好/和藹 = geniality = friendliness = affability = amiability = amiableness <-- homie
+        - bonnie, bonny (adj)美麗健康的
+        - bonus (n)奬金/津貼 = allowance, 額外的好處 <|> bounty
+
     bate 打/擊 = beat
         + abate (v)減少, 減弱 = wane = diminish = attenuate
         - rebate (n/v)折扣/貼現
@@ -440,18 +465,6 @@
 
         2. 走 = go
             - acrobat
-
-    bi 二 = two, twice == ambi
-        + /ˈbʌɪfəkeɪt/ bifurcate (v)(道路、河流、樹枝)分叉 <--> coalesce
-        - bilingual (adj)兩種語言的 <-- bi + linguistic
-        - biped
-
-    bio 生命
-        - biology (n)生物學
-        - antibiotic (n)抗生素
-        - autobiography (n)自傳
-        - biosphere (n)生命層/生物圈
-        + symbiosis (n)共生/合作關係 = mutualism
 
     ban, barr 擋住/阻擋/禁令
         * abandon (v/n)放棄, 放縱/使沈溺於 = indulge
@@ -477,43 +490,30 @@
         - rebel (v)反叛/反抗 (n)造反者/反抗者
         - rebellion (n)造反/叛亂/反抗 --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
 
-    bene, ben, bon 好 = well
-        - benediction
-        + benefactor (n)行善者/捐助者 = donor
-        + beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane
-        + beneficial (adj)有益的/有用的 = helpful = useful <|? beneficent
-        - beneficiary (n)受益人
-        + benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
-        + benign (adj)慈祥的 = gracious = benevolent, 良性的/吉利的 = favorable = propitious = auspicious <--> malignant
-        - benison (n)祝福/祈禱 = pray = benediction = invocation
-        + bonhomie (n)友好/友善/幸福/快樂 = geniality = friendliness = affability = amiability = amiableness <-- homie
-        - bonny (adj)美麗健康的
-        - bonus (n)奬金/津貼 = allowance, 額外的好處
-
     biblio 書 = booke
         - bibliography (n)參考書目/文獻目錄
-        - bibliophile (n)愛書者/藏書者 = bookworm
+        - /ˈbɪblɪə(ʊ)fʌɪl/  bibliophile (n)愛書者/藏書者 = bookworm
 
     blanc, blea 白 = white, pale
         - blanch (v)使(植物)變白, 使(臉色)蒼白 = appall, 川燙
         - bleach (v)漂白/使褪色 (n)漂白劑
 
     bore 厭煩
-        + bore (v)鑽孔, 使厭煩 (n)令人討厭的人 = nuisance, 孔/口徑
-        - boredom (n)厭煩, 令人厭煩的事物 = bore = nuisance
+        + bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑
+        - boredom (n)厭煩/厭倦
 
     brav 勇敢 = brave
         - bravado (n)虛張聲勢 = boastfulness
-        - bravura (n)精彩的演出/華美樂段 (adj)華美的 = ornate
+        - /brəˈvjʊərə/ bravura (n)精彩的演出/華美樂段 (adj)華美的 = ornate
 
     braz, brass 黃銅
-        - brassy (adj)黃銅色的, 刺耳的, 厚臉皮的, 打扮花裡胡哨的 = brash
+        - brassy (adj)黃銅色的, 刺耳的, 打扮花裡胡哨的 = brash
         + brazen (adj)厚顏無恥的 = shameless = impudent = barefaced = insolent <|> barren
         - brazier (n)碳火盆
         
     brace 兩臂 = two arms
-        - brace (v)使穩固 (n)支架/支撐物, 牙箍, 一對(獵物) --> bracing (adj)(空氣或活動)令人振奮的/令人心曠神怡的 = brisk = invigorating
-        + embrace (n/v)擁抱, 欣然接受/採用 = accept = adopt (v)包括 = comprehend = include
+        - brace (v)使穩固 (n)支架/支撐物, 牙箍, 一對(獵物) --> bracing (adj)(空氣或活動)令人振奮的/令人心曠神怡的 = brisk = invigorating, 支撐的
+        + embrace (n/v)擁抱, 欣然接受/採用 = accept = adopt, 包括 = comprehend = include
         - bracelet (n)手鐲
     
     base 低 = low, short
@@ -525,15 +525,15 @@
     
     boss 突出/隆起 = lump
         - emboss (v)使凸出/加浮雕於
-        - bossy (adj)凸出的/有浮雕的, 愛指揮人的/專橫的
+        - bossy (adj)凸出的/有浮雕的, 愛指揮人的/專橫的 = domineering = dictatorial (n)小牛/母牛 = cow = calf
 
 [C] 
     com, co, coal, col, con, cor 全部/始終
         1. 共同/一起/互相/跟/與 = with, together
             - accomplice
-            + coagulate (v)使凝結/使凝固 = thicken = congeal = clot = curdle --> coagulant (n)凝血劑/凝結劑 <-- co + ag 走 = move + ulate
+            + /kəʊˈaɡjʊleɪt/ coagulate (v)(使)凝固 = thicken = congeal = clot = curdle --> coagulant (n)凝血劑/凝結劑 <-- co + ag 走 = move + ulate
             - coagent (n)合作者/幫手
-            + /ˌkəʊəˈlɛs/  (v)聯合/合併 = consolidate --> coalition (n)結合/聯合 = union = alliance <-- co + al 成長 = grow + esce
+            + /ˌkəʊəˈlɛs/ coalesce (v)聯合/合併 = consolidate --> coalition (n)結合/聯合 = union = alliance <-- co + al 成長 = grow + esce
             - cohabit
             + coincide --> coincident --> coincidental 
             - collaborate
@@ -546,7 +546,7 @@
             - combat
             * commerce
             - commingle
-            + commiserate (v)表示同情或惋惜 <-- com + miser 可憐的 = pitiable + ate
+            + commiserate (v)表示同情或憐憫 = sympathize <-- com + miser 可憐的 = pitiable + ate
             * commit --> committed
             + commitment
             - compare
@@ -555,7 +555,7 @@
             * compel -> compelled
             + compelling
             + compensate --> compensation
-            - cooperate (v)與他人合作
+            - cooperate (v)與他人合作 <|> corporate
             + compendium --> compendious
             - compete
             + competent
@@ -610,7 +610,7 @@
             - consider
             + considerable
             + consistent
-            + conspire
+            + conspire --> conspiracy
             * console --> consolation
             + consolidate --> consolidation
             + consummate
@@ -2833,7 +2833,7 @@
             + ineluctable (adj)無法逃避的/不可避免的 = inevitable <-- in + eluc 逃避 = struggle out + able
             + inept --> ineptitude
             - inequity
-            + inert (adj)惰性的, 行動遲鈍的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
+            + inert (adj)惰性的, 無生命的, 遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
             - inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing , 不會疲勞的 = untiring = tireless
             + inexorable (adj)說不動的/無情的 = implacable = relentless = unyielding = stern, 無法改變的/不可阻擋的
             + inexplicable (adj)無法解釋的 = mysterious = obscure
@@ -3453,7 +3453,7 @@
         - relate (v)講述, 有關聯
 
     lati, late 寬的 = broad
-        + dilate (v)(身體部位)擴張/展開/膨脹 <|> dilatory 
+        + dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
         + latitude (n)行動自由 = freedom, 緯度
 
     later 邊/邊緣 = side
@@ -4185,7 +4185,7 @@
         - anorexia (n)厭食症
         
     oner 負擔 = burden
-        + exonerate (v)宣布無罪 = exculpate, 免除責任 = exempt
+        + exonerate (v)證明無罪 = exculpate, 免除責任 = exempt
         + /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing, 負有義務的
 
     orbit 軌道 = wheel track
@@ -4235,7 +4235,7 @@
         - pandemic
         - pandemonium (n)喧囂/大混亂 = tumult <-- pan + demon + ium
         + /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
-        + panoply (n)琳琅滿目 = a magnificent or impressive array, 全套盔甲
+        + /ˈpanəpli/ panoply (n)琳琅滿目 = a magnificent or impressive array, 全套盔甲
         - panorama (n)概觀, 全景 <-- pan + orama 看 = look
         - pantomine (n)啞劇 <-- panto + mime
 
@@ -4345,7 +4345,7 @@
         + prompt
         + promulgate (v)公布/發表/頒布法令 = announce officially, 使廣傳/宣傳 = make widespread <-- pro + mulg 套出消息 = milk + ate
         - pronounce --> pronounced
-        - propagate (v)繁殖 = multiply = reproduce = increase, 傳播 = spread <-- pro + pag 砍/切 + ate
+        + propagate (v)繁殖 = multiply = reproduce = increase, 傳播 = spread <-- pro + pag 砍/切 + ate
         - propel --> propulsion
         + propensity
         + prophet (n)先知/預言家 --> prophecy (n)預言 --> prophetic (adj)先知的/預言的/預示的 <-- pro + peht 說 = speak
@@ -4893,7 +4893,7 @@
         + oppress (v)壓迫/壓制, 使..煩惱/焦慮 --> oppressive (adj)壓迫的, 令人焦躁的, 悶熱的 = muggy = stifling
         + press (v)擠壓 --> pressing (adj)緊迫的/迫切的, 懇切要求的
         + repress (adj)抑制 = constrain = subdue = supress, 鎮壓/平息 = subdue = supress = quell = quash --> repressed (adj)被壓制的/被壓抑的 --> repressive (adj)抑制的/壓制的
-        + suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue, 查禁 = ban
+        + suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue, 查禁 = ban --> suppression (n)鎮壓
     
     punct, pung 刺 = prick == trus
         - acupuncture
@@ -5477,7 +5477,7 @@
             + supple
             + supplement
             + supplicate --> suppliant --> supplicant
-            + suppress
+            + suppress --> suppression
             + surmount (v)克服/戰勝
             + surrender (v)投降, 放棄, 歸還
             + surreptitious
@@ -5513,7 +5513,7 @@
             - survive
 
         2. 上 = over, above
-            + superficial (adj淺薄的/膚淺的, 表面上的/表層的 --> superficiality (n)淺薄
+            + superficial (adj)淺薄的/膚淺的, 表面上的/表層的 --> superficiality (n)淺薄
             - superimpose
             - superintend
             + supersede
@@ -5704,7 +5704,7 @@
     spir, spire 呼吸 = breathe, blow
         - aspire (v)嚮往/有志於 --> aspiration (n)抱負/志向 = ambition
         - aspirant (n)有抱負者
-        + conspire (v)共謀/密謀 = collude = connive = plot
+        + conspire (v)共謀/密謀 = collude = connive = plot --> conspiracy (n)陰謀, 密謀
         - inspire (v)激勵/鼓舞 = abet, 喚起/激起 --> inspiration (n)靈感/啟示 --> inspired (adj)有靈感的/得到啟示的
         - expire (v)去世, 期滿/到期, 呼氣 --> expiration (n)期滿/中止 = termination, 死亡, 吐氣
         - perspire (v)出汗 = sweat
