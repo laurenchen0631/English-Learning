@@ -1,0 +1,132 @@
+https://elemental.medium.com/biohackers-with-diabetes-are-making-their-own-insulin-edbfbea8386d
+Biohackers With Diabetes Are Making Their Own Insulin
+Diabetes is a punishingly expensive disease. In an Oakland warehouse, scientists are going DIY.
+Dana G Smith | May 30
+---------------------------------------------------------------------------------------------------------------------
+David Anderson pipettes yeast under a laboratory fume hood that’s surrounded by graffiti. From a beaker, he extracts a tiny amount of the microscopic fungus and transfers it to a test tube, which he then spins in a centrifuge to separate the proteins from the rest of the broth. The next day, he will inject the protein mix into an electrically charged gel, and if all goes well, the smallest protein will wiggle to the front, identifying itself as insulin.
+	- pipette (n)移液器 (v)用移液器吸取
+	- yeast 酵母 == A microscopic fungus consisting of single oval cells that reproduce by budding, and capable of converting sugar into alcohol and carbon dioxide.
+	- fume hood == 通風櫥/排氣罩
+	- graffito -> graffiti 塗鴉
+	- beaker (n)大杯子, 燒杯
+	- broth
+		> 湯 |Soup consisting of meat or vegetables cooked in stock, sometimes thickened with barley or other cereals.|
+		> 培養液 |A liquid medium containing proteins and other nutrients for the culture of bacteria.| broth cultures of intestinal tissue
+	- wiggle (n/v)擺動/扭動 
+Anderson is not a biochemist; he didn’t even major in science in college. He is part of the Open Insulin Project, a biohacker collective that is trying to produce the lifesaving drug and provide it to people with diabetes for free, or close to it.
+	- major in
+	- in college
+	- collective
+		> 合作企業 |A cooperative enterprise.|
+		> 聚集而成的 |Done by people acting as a group.|
+		> 全體成員的/公共的 |Relating to or shared by all the members of a group.|
+		> 合計的 |Taken as a whole; aggregate.|
+	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
+Insulin enables cells in the body to use glucose circulating in the blood as fuel. People with Type 1 diabetes don’t produce enough insulin, while people with Type 2 diabetes have become resistant to it. Without sufficient insulin, people experience high blood sugar, or hyperglycemia, which, over the long term, can cause heart disease, stroke, kidney disease, and nerve damage. In severe cases of insulin insufficiency, ketoacidosis sets in, where the liver releases too many ketones into the blood, turning the blood acidic and potentially ending in death.
+“For people with Type 1 diabetes, insulin is as necessary as oxygen,” says Dr. Irl Hirsch, the diabetes treatment and teaching chair at the University of Washington.
+	- glucose /ˈɡluːkəʊz/ 葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
+	- hyperglycemia 高血糖症 == An excess of glucose in the bloodstream, often associated with diabetes mellitus.
+	- ketoacidosis 糖尿病酮症酸中毒
+	- ketone /ˈkiːtəʊn/ 酮
+Diabetes has become the most expensive disease in the United States, reaching $327 billion a year in health care costs, $15 billion of which comes from insulin. And the cost of insulin keeps climbing: It tripled in price from 2002 to 2013 and nearly doubled again between 2012 and 2016. For instance, in 1996, a vial of Humalog, a standard insulin produced by Eli Lilly, cost $21. Today, the list price is $324, an increase of more than 1,400%. Without insurance, costs from diabetes care can tally up to thousands of dollars per month. As a result, 25% of the 7.4 million Americans on insulin have started to ration the drug, which can result in deadly consequences.
+	- vial 小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
+	- tally
+		> 比分/帳 |A current score or amount.| that takes his tally to 10 goals in 10 games
+		> |A piece of wood scored across with notches for the items of an account and then split into halves, each party keeping one.| 
+		> 標籤/小牌 |A label giving information about a plant or tree.|
+		> 吻合 |Agree or correspond.| their signatures should tally with their names on the register
+		> 總計 |Calculate the total number of.| the votes were being tallied with abacuses
+	- ration
+		> 定量 |A fixed amount of a commodity officially allowed to each person during a time of shortage, as in wartime.| 1947 saw the bread ration reduced
+		> 定量供給 |Allow each person to have only a fixed amount of (a commodity)|
+		> 配給 |An amount of food supplied on a regular basis, especially to members of the armed forces during a war.| British rations were highly prized by American soldiers
+		> 口糧 |Food; provisions.| their emergency rations ran out
+Open Insulin hopes to change this. The group was founded in 2015 by Anthony Di Franco, a computer scientist with Type 1 diabetes, and a longtime member of the California hacker scene. At the time, Di Franco had good health insurance through an employer, so the cost of insulin wasn’t prohibitive. But the issue became personal two years later when he enrolled in graduate school and there was a temporary gap in his coverage. He ended up paying $2,400 out of pocket for a month of supplies, significantly more than his $1,600 monthly stipend as a graduate student.
+	- stipend 津貼 == A fixed regular sum paid as a salary or as expenses to a clergyman, teacher, or public official.
+He and his collaborators think one solution to the pricing crisis lies in enabling patients and hospitals to create insulin themselves. The group works out of Counter Culture Labs in the trendy Temescal neighborhood of Oakland. The space feels like the kind of place an anarchic chemist would have set up. There are giant gourds hanging from the rafters, and jokes scrawled on the unisex bathroom door combine anti-police sentiments with jokes from The Simpsons’ Sideshow Bob. At a recent meeting, one woman drank water out of a urine sample cup. (It was previously unused.) But there are also three lab benches filled with high-tech equipment, as well as beakers, pipettes, and chemicals, most of it donated or bought second-hand.
+	- trendy 時髦的 == Very fashionable or up to date.
+	- Oakland 奧克蘭，是美國加利福尼亞州北部舊金山灣沿岸的主要城市
+	- anarchic (adj)無政府主義的, 無法無天的
+	- gourd /ɡɔːd/ (n)葫蘆
+	- rafter 椽 == A beam forming part of the internal framework of a roof.
+	- unisex 男女通用(的) == (especially of clothing or hairstyles) designed to be suitable for both sexes.
+“If we can make this stuff in our janky lab on a $10,000 a year budget, there’s no way it should cost this much,” says Thornton Thompson, a molecular biologist who is part of Open Insulin. “One of the big goals of the project is just to demonstrate that.”
+	- janky 破爛的 == jank == Of extremely poor or unreliable quality.
+Scientists make insulin by inserting a gene that codes for the insulin protein into either yeast or bacteria. These organisms become mini bio-factories and start to spit out the protein, which can then be harvested, purified, and bottled. Scientists at Genentech were the first to synthesize insulin this way back in 1979 from the bacterium E. coli, and drug manufacturers have been using the method ever since.
+Open Insulin’s goal is to develop a similar way to generate insulin that doesn’t infringe on any patents and can be made publicly available. The group got off to a strong start, raising $16,000 through a crowdfunding campaign in November 2015. But they ultimately failed to produce the protein from E. coli. So after a year and a half they scrapped the work and switched to yeast.
+	+ infringe
+		> 違反 |Actively break the terms of (a law, agreement, etc.)| making an unauthorized copy would infringe copyright
+		> 侵佔/侵害 |Act so as to limit or undermine (something); encroach on.| such widespread surveillance could infringe personal liberties
+French biochemist Yann Huon de Kermadec joined the group around that time and took over the manufacturing process. Over the past 18 months, he’s obtained the proper insulin gene, inserted it into the yeasts’ DNA, and produced small amounts of the insulin protein. So far, though, the yields have been too low to purify, so he and Anderson — his lab assistant — are experimenting with different colonies of yeast to see if they can increase the output. If they succeed, they will go through the final steps of purifying and testing the protein. Once they’re confident that what they’ve produced really is pure insulin, Di Franco will serve as the group’s first guinea pig and inject himself with it as he would his regular medication. Eventually, Di Franco hopes to swap out the insulin that he gets from the pharmacy for a supply made by de Kermadec and Anderson.
+	- guinea pig 豚鼠，又名天竺鼠、葵鼠
+	- swap out == To replace or exchange someone or something with another person or thing.
+		> I think I just need to swap out the batteries for this to start working again.
+		> Di Franco hopes to swap out the insulin that he gets from the pharmacy for a supply made by de Kermadec and Anderson.
+	- pharmacy /ˈfɑːməsi/ (n)藥局, 配藥學
+“It’s not like a new drug where you don’t really know what it does,” Di Franco says. “This is a drug that we already know what it does, and we just have to see if we made it correctly.”
+In many ways, the Open Insulin group’s ambition hearkens back to the intentions of the original discoverers of the drug. In 1923, Frederick Banting, Charles Best, and James Collip sold the patent for insulin to the University of Toronto for $1 each because they believed such an essential medicine should be available to everyone who needed it.
+	- hearken back to == hark back to
+		> 提起 |Mention or remember (something from the past)| if it was such a rotten holiday, why hark back to it?
+		> 喚起 |Evoke (an older style or genre)| paintings that hark back to Constable and Turner
+The original patents for the insulin molecule have long since expired, but patents on parts of the production process — a strategy that has been famously used (and arguably abused) by drug companies — remain because pharmaceutical companies keep tweaking how they make it. Most insulins sold today are synthetic analogs that have been adjusted to last longer or act faster, which is one reason pharmaceutical companies give for why the cost of insulin has skyrocketed. These changes have prevented generic drug manufacturers from entering the market. Eli Lilly recently announced it would release its own generic version of Humalog at half the price, but without the competition offered by a dedicated generic drug manufacturer, costs aren’t likely to drop significantly any time soon.
+	- pharmaceutical /ˌfɑːməˈs(j)uːtɪk(ə)l/ (adj)製藥的
+	* tweak
+		> 擰 |Twist or pull (something) sharply.| he tweaked the boy's ear
+		> |A sharp twist or pull.| an affectionate tweak
+		> 調整 |Improve (a mechanism or system) by making fine adjustments to it.|
+		> |A fine adjustment to a mechanism or system.|
+		> 使焦慮 |Become or cause to become agitated or excited, typically from taking amphetamines or another stimulant.|
+	- synthetic analog ==  the artificial compounds differing from the natural compounds in their structure, resemblance and function
+“From a logistical standpoint, none of this stuff justifies the increased price,” says Thompson. “The technology is basically the same as it has been for the last 30 to 40 years. But instead of the typical market logic of a generic insulin coming along to make things cheaper, we have this evergreening effect where the drug companies will make these minor modifications to the drug to extend the patent.”
+	- evergreening 長青化，把即將超過專利期的藥物作微小或修飾性的改變，以便再次申請專利，繼續賺取巨大利潤
+Insulin costs aren’t high everywhere, though. In Spain, for example, insulin costs about $6. The pharmaceutical companies that provide insulin claim the complex U.S. insurance systems drive up the price. Specifically, they place the blame on pharmaceutical benefits managers, middlemen who serve as go-betweens for drug companies and health insurers. Representatives for the three main insulin manufacturers — Eli Lilly, Sanofi, and Novo Nordisk — recently testified before Congress that the list price of the drug is inflated because of the vouchers and rebates that they provide to the benefits managers, who then pass those savings on to the health insurers. As a result, they say the net price of the drug — what the insurance companies actually pay — is much lower than the list price.
+	- benefits manager 企業福利主管
+	- go-between 仲裁人/交涉者 == An intermediary or negotiator.
+	- list price 建議售價
+	- voucher
+		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
+		> 證據 |a piece of supporting evidence|
+		> 保證人 |surety| 
+“It’s a very distorted system,” says Dr. Mariana Socal, a scientist at the Johns Hopkins Bloomberg School of Public Health. “The manufacturer publicizes that they’re charging, say, $500. They put the price very, very high, even though they claim that at the end of the day they’re going to be paid $200. So what is happening? Why do you need to say it costs $500 if you’re willing to be paid just $200? What’s happening to the other $300?”
+Socal says that the rebate money is split between the insurance providers and benefits managers, and patients see none of the savings. If you’re uninsured, you pay the list price, not the lower net price. If you are insured but have a deductible, you have to buy the drug at the list price before your insurance company will kick in. And even with full insurance coverage, the co-payment for the drug is still a percentage of the higher list price, not the cheaper net price.
+	- deductible
+		> 可扣除的 |Able to be deducted, especially from taxable income or tax to be paid.| childcare vouchers will be deductible expenses for employers
+		> 扣除額部分 |The part of an insurance claim to be paid by the insured; an excess.| 
+	+ kick in == to start to have an effect or to happen
+“It’s a very convoluted back and forth of money that happens with very low, if any, value to the beneficiary, the insulin user,” Socal says. “It’s absurd.”
+There are currently several lawsuits accusing the three drug companies of price fixing. One class action complaint claims Eli Lilly, Sanofi, and Novo Nordisk raised the list price of insulin in lockstep over the last 20 years, stating that the companies have been “unlawfully inflating the benchmark prices of rapid- and long-acting analog insulin drugs,” and placing them in violation of the Racketeer Influenced and Corrupt Organizations Act.
+	- class action 集體訴訟 == a legal action (= a case that is decided in a law court) that is organized by a group of people who all have the same legal problem
+		> Plaintiffs' lawyers have tried to get the courts to combine all the potential suits into a single class action.
+	- in lockstep
+		> 同步地 |at the same time and same rate as| Gold prices don't tend to rise or fall in lockstep with those for stocks and other financial assets.
+		> 同意的 |agreeing completely with someone| The Senator seems to be in lockstep with the big health insurance companies. 
+	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
+	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
+“The interests of the companies making the medicine and the interests of the patients are very different,” says Di Franco. “The company wants to do whatever is most profitable, and it is obligated to do so in many respects. And that is rarely what is best for patients.”
+
+Open Insulin has several ideas for what it will do with the recipe once it’s perfected. One option is to produce and distribute the insulin themselves, although they would immediately run into issues with the U.S. Food and Drug Administration (FDA), which inspects and monitors drug manufacturing facilities in addition to evaluating new medications. Notably, there are no regulations around taking drugs you make yourself, so Open Insulin doesn’t think they will run into issues when Di Franco tests their stash.
+	- Food and Drug Administration (FDA) 美國食品藥品監督管理局
+Another option, which the group is more excited about, is to make the recipe open-source, providing it to hospitals and other patient-oriented groups that could make the insulin for themselves.
+“What we’re interested in medium- and long-term is to try to organize networks of production and distribution centers that work by a fundamentally different model,” says Thompson. “We want to partner with hospitals, free health care clinics, patient organizations, diabetes groups. What if you could set up a small-scale production center in the back of a hospital?”
+Some experts consulted for this article raised meaningful safety concerns about this approach.
+“I think the pricing of the drugs is egregious, and we know that the companies have been lockstep in raising prices and gouging the public. But I don’t think the answer is to manufacture your drugs,” says Dr. Eric Topol, the chair of innovative medicine and executive vice president at the Scripps Research Institute. “There are so many things that could go wrong in the process: the sterilization, the efficacy, the safety. It’s like Murphy’s law, here. These are potent drugs that can have serious side effects. I just don’t see that that is a safe or practical route.”
+	- sterilization /stɛrɪlʌɪˈzeɪʃ(ə)n/
+		> 消毒 |The process of making something free from bacteria or other living microorganisms.| disinfection and sterilization of surgical equipment
+		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
+	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
+Instead, Topol suggests people go through other subversive means, like buying their drugs from Canada or Mexico. Several patient groups have started making clandestine runs to Canada to purchase insulin on the cheap.
+	+ subversive (adj)意圖推翻的 (n)推翻份子
+The regulatory issues with the open-source production option are even more formidable as the FDA would have to inspect and approve each site. Open Insulin is already in talks with lawyers and advisors in case they veer in this direction.
+“Economically, I think it’s much better to do it in this decentralized way,” Di Franco says. “A very small investment from each patient could fulfill the patient’s needs and make insulin very close to free for everyone who needs it with this kind of technology.”
+	- veer /vɪə/
+		> 急轉向 |Change direction suddenly.| an oil tanker that had veered off course
+		> |A sudden change of direction.|
+		> 轉向/改變 |Suddenly change an opinion, subject, type of behaviour, etc.| the conversation eventually veered away from theatrical things
+		> 使順風 |Slacken or let out (a rope or cable) in a controlled way.|
+The startup costs are not insignificant. Open Insulin estimates it will take at least $10,000 to purchase the equipment, including pumps, plumbing, pH and oxygen sensors, and a sterilization system, to produce insulin on a large scale. But once the system is up and running, all you have to do is provide the yeast with sugar and growth medium, which cost next to nothing. And a 10-liter culture of yeast can make enough insulin for 10,000 people. Based on these rough calculations, Di Franco estimates that an insulin factory for 10,000 people could be created with an initial investment of just $1 per person.
+	- plumbing
+		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
+		> 排泄/生殖系統 |Used as a humorous euphemism for the excretory, urinary, or reproductive systems.|
+Like Topol, Hirsch, the University of Washington diabetes expert, is concerned. He says that manufacturing insulin, ensuring its quality, and getting the proper dosing right can be very difficult. “Given the fact that companies that do this for a living have trouble meeting the bar for the FDA, I find it hard to believe that someone can do this in their garage or their bathtub,” he says. “It’s concerning that someone would inject this into their body.”
+Thompson acknowledges that the recipe can be tricky to execute, but he maintains that it can be done. “I’m not claiming that it’s so easy to make that everybody could just do it in their backyard. You can really fuck up making medicine if you don’t do it right and people can get hurt,” he says. “That’s really important to communicate. But we know how to do it. We’ve known how to do it for a long, long time as a society.”
+Jean Peccoud, the chair of synthetic biology at Colorado State University who has written about the project, is more optimistic. “A lot of the pieces are missing, and I don’t know what the solution looks like, but it’s not unreasonable to think about developing it,” he says. “The technology is there to make it possible to think a little bit outside of the box.”
