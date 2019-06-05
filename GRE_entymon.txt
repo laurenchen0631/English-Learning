@@ -234,7 +234,7 @@
 
     agr, agro, agri, ara 土地/農業 = acre, feild, soil
         - /əˈɡrɛːrɪən/ agrarian (adj)土地的, 農業的/農村的 = agricultural = bucolic = rural = pastoral
-        +++ agriculture (n)農業
+        +++ agriculture (n)農業 --> agricultural (adj)
         - agronomy (n)農學
         - arable (adj)可耕的/適合種植的 = farmable
 
@@ -739,20 +739,20 @@
         ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權
 
     cur, curr, cor, corr, curs, cour 跑 = run
-        - concur (v)同意/贊成 = accord = agree = consent = accede = coincide
+        - concur (v)同意/贊成 = accord = agree = consent = accede, 同時發生 = coincide
         - corral (n)(牛、馬等)畜欄/圍欄 (v)把（馬、牛）趕進畜欄/把（一群人）集中起來
-        - curriculum (n)課程
-        + cursory (adj)倉促的/草率的 = hasty = superficial
-        - course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流
+        - /kəˈrɪkjʊləm/ curriculum (n)課程
+        + cursory (adj)倉促的/匆忙的 = hasty = superficial
+        - course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
         * discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
         + discursive (adj)不著邊際的/散漫的 = digressive = rambling, 推論的
-        - excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的, 隨意的
+        - excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
         - cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
         - incur (v)招惹
         + incursion (n)侵略/入侵/襲擊 = invasion
         - occur (v)發生/出現/被想起 --> occurence (n)事件 = event = incident, 發生
         + precursor (n)先驅/先兆 = forerunner = predecessor
-        + procure (v)取得/獲得 = obtain = acquire --> procurement (n)獲得/取得/採購
+        + procure (v)取得/獲得 = obtain = acquire, 說服 = persuade --> procurement (n)獲得/取得/採購
         - recur (v)再發生/復發, 重提
         * recourse (v)求助/依靠
         + /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
@@ -770,15 +770,15 @@
         + /ˈrɛk(ə)ndʌɪt/ recondite (adj)深奧的 = esoteric = abstruse = profound = Hermetic
 
     claim, clam 叫喊/要求 = cry out
-        - acclaim (n/v)稱讚 = admire = adore = accolade = kudos, 歡迎
+        - acclaim (n/v)稱讚 = admire = adore = accolade = kudos, 歡迎 --> acclamation (n)歡呼/喝采
         - claim (n/v)要求/認領 = request, 索賠, 聲稱/宣稱 = allege
         + clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)大聲的抱怨/強烈呼聲 = outcry, 吵鬧/喧嚷 = jazz
         - clamorous (adj)吵鬧的/喧嚷的, 大聲抱怨的/強烈要求的
-        + declaim (v)大聲宣佈/高談闊論 --> declamation (n)大聲宣佈/高調/雄辯
+        + declaim (v)慷慨陳詞/朗誦 --> declamation (n)朗讀/雄辯
         - disclaim (v)放棄權力 = renounce, 拒絕承認/否認 = refuse = deny
         - exclaim (v)驚叫/呼喊 --> exclamation (n)驚叫, 感歎句/感歎詞
         + proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
-        - reclaim (v)使改過/使悔改/糾正, 開墾/開拓 (n)提取行李
+        - reclaim (v)取回/拿回, 使改過/使悔改 = reform, 開墾/開拓, 回收利用 = recycle (n)提取行李
 
     celer 速度
         + accelerate (v)加速, 促進 = expedite = hasten <--> retard
@@ -991,7 +991,7 @@
     capit 頭 = small head
         + capitulate (v)投降/停止抵抗 = surrender
         - capitulum (n)骨的頭部
-        + recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
+        + /ˌriːkəˈpɪtjʊleɪt/ recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
 
     carbo 碳
         - carbohydrate (n)碳水化合物
@@ -2364,7 +2364,7 @@
 
     flagr 燒 = flame, burn == ard == bust == caus
         - conflagration (n)大火/大火災, 衝突/戰火
-        - flagrant (adj)駭人的/明顯的 = obvious = evident = blatant = shockingly noticeable, 罪惡昭彰的 = notorious = scandalous
+        * flagrant (adj)駭人的/明顯的 = obvious = evident = blatant = shockingly noticeable, 罪惡昭彰的 = notorious = scandalous
         - deflagrate (v)使迅速燃燒, 爆燃
 
     flat 吹氣 = blow
@@ -2436,7 +2436,7 @@
         - gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
         - gravitation (n)引力/吸引 --> gravitational (adj)引力的/重力的
         * grieve (v)使悲傷/使苦惱 --> grievance (n)不滿, 抱怨
-        - grievous (adj)悲傷的, 極嚴重的 = grave = flagrant = outrageous
+        + grievous (adj)悲傷的, 極嚴重的 = grave = flagrant = outrageous
         - grief (n)憂傷/悲傷
         - aggrieve (v)使痛苦 = afflict
 
@@ -4703,7 +4703,7 @@
         +++ oppose (v)反抗 = combat, 妨礙/阻礙 = hinder = hamper = impede = obstrucy, 反對 = gainsay = naysay --> opposition (n)反對/反抗/對立
         +++ pose (v)擺姿勢, 造作/裝腔作勢, 提出, 引起/造成, 使為難
         + /pəʊˈzəː/ poseur (n)裝模作樣的人
-        + posit (v)斷定/認為 = postulate = presume = suggest
+        + posit (v)斷定/假定 = put forward = postulate = presume = suggest, 安置 = place
         - position (n)職位, 地位, 地點, 處境, 安置方式, 態度 (v)安放/放置
         - positive (adj)肯定的, 積極的
         - poster (n)海報/招貼
@@ -5567,7 +5567,7 @@
         - absorb (v)吸收(衝擊/液體), 理解 = assimilate, 吸引...的注意, (公司)合併 --> absorbed (adj) 專注的
 
     sept 細菌/腐爛的 = rotted
-        - antiseptic (adj)消過毒的/無菌的 (n)防腐劑,  殺菌劑/消毒劑
+        - antiseptic (adj)消過毒的/無菌的 = aseptic (n)防腐劑,  殺菌劑/消毒劑
         - septic (adj)感染的/腐敗的
         + aseptic (adj)潔淨的, 無菌的
 
@@ -6583,7 +6583,7 @@
     umbr 影子/陰影 = shade, shadow
         + adumbrate (v)預示 = foreshadow = prefigure = herald = harbinger, 遮蔽 = obscure = overshadow, 暗示 --> adumbration (n)
         + penumbra (n)半影, 曖昧的部分
-        + umbrage (n)憤怒/生氣/不快  = offense = annoyance, 陰影/樹蔭
+        + umbrage (n)憤怒/生氣/不快 = offense = annoyance, 陰影/樹蔭
         - umbrella (n)雨傘
 
     und 波浪 = wave
