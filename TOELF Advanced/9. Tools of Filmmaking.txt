@@ -1,0 +1,72 @@
+[Listened Key Sentence]
+1. All motion pictures are based on illusion of motion made possible characteristic visual perception called persistence of vision.
+2. The brain retain an impression for one-sixteenth to one-tenth of a second after the eye has stopped looking and illuminated image.
+3. The patches of our refo are rather faster pace.
+4. In motion pictures, persistence of vision is used to create the illusion of motion from still photograph.
+5. The time lapse between images is normally one twenty-fourth of a second in most cameras.
+6. Persistence of vision causes the separate images to be projected as continuously moving scene.
+
+[Real Key Sentence]
+1. All motion pictures are based on an illusion of motion made possible by a characteristic of visual perception called persistence of vision. 所有電影都是根據移動的幻覺製作而成的，因為人類有種叫做視覺暫留的視覺認知特性，才能產生移動的幻覺
+2. The brain retains an impression for 1/16 to 1/10 of a second after the eye has stopped looking at an illuminated image. 眼睛停止注視發功的圖像後，腦部還能保留圖像的印象十六分之一到十分之一秒左右。
+3. The pages are riffled at a rather fast pace. 以相當快的速度翻閱這疊紙
+4. In motion pictures, persistence of vision is used to create the illusion of motion from still photographs. 在電影動畫中，利用視覺暫留的原理，透過靜止照片創造出正在移動的幻覺
+5. The time lapse between image is normally 1/24 of a second in most cameras. 兩張照片的時間間隔通常是二十四分之一秒
+6. Persistence of vision cause the separate images to be projected as a continuously moving scene. 視覺暫留使得一張張分離的圖片，投影成為連續的移動場景
+
+[Listened Article]
+All motion pictures are based on an illusion of motion made possible by a characteristic of visual perception called persistence of vision. The brain retains an impression for 1/16 to 1/10 of a second after the eye have stopped looking at an illuminated image. When a series of pictures of an object is presented in steady, rapid succession with the position of the object slightly alter in each picture to represent successive stages of movement, the brain blends the different pictures into one another, creating the illusion of motion.
+
+A simple way to demonstrate the illusion of motion is to draw a line in the lower-right-hand corner of each page of ? of paper, altering the angle of each line very slightly in a single direction. If the pages are then riffled at rather fast pace, the eye would perceive the illusion of a moving line.
+
+In motion pictures, persistence of vision is used to create the illusion of motion from still photographs. By means of a shutter that open and close at high speed, the motion picture camera photographs a series of still images. Because the time lapse between images is normally 1/24 of a second in most cameras, the differences between images are small. The illusion of motion is provided by the projector in which the film is moved past the light source at the same speed at which the images were photographed. Persistence of vision cause the separate images to be projected as a continuously moving scene. If there were no separate between images, the picture would appear as a blur.
+
+[Real Article]
+All motion pictures are based on an illusion of motion made possible by a characteristic of visual perception called persistence of vision. The brain retains an impression for 1/16 to 1/10 of a second after the eye has stopped looking at an illuminated image. When a series of pictures of an object is presented in steady, rapid succession, with the position of the object slightly altered in each picture to represent successive stages of movement, the brain blends the different pictures into one another, creating the illusion of motion.
+
+A simple way to demonstrate the illusion of motion is to draw a line in the lower right-hand corner of each page of a pad of paper, altering the angle of each line every slightly in a single direction. If the pages are then riffled at a rather fast pace, the eye will perceive the illusion of a moving line.
+
+In motion pictures, persistence of vision is used to create the illusion of motion from still photographs. By means of a shutter that opens and closes at high speed, the motion-picture camera photographs a series of still images. Because the time lapse between image is normally 1/24 of a second in most cameras, the differences betweens images are small. The illusion of motion is provided by the projector, in which the film is moved past a light source at the same speed at which the images were photographed. Persistence of vision cause the separate images to be projected as a continuously moving scene. If there were no separations between images, the pictures would appear as a blur.
+
+[Review]
++ illusion
+	> 幻覺 |An instance of a wrong or misinterpreted perception of a sensory experience.| stripes embellish the surface to create the illusion of various wood-grain textures
+	> 錯覺 |A deceptive appearance or impression.| the illusion of family togetherness
+	> 幻想/錯誤觀念 |A false idea or belief.| he had no illusions about the trouble she was in
+* illuminate
+	> 照亮/點亮 |Light up.| a flash of lightning illuminated the house
+	> 用光裝飾 |Decorate (a building or structure) with lights for a special occasion.|
+	> 裝飾手稿 |Decorate (a page or initial letter in a manuscript) with gold, silver, or coloured designs.|
+	> 澄清/闡明 |Help to clarify or explain.| a most illuminating discussion
+* riffle /ˈrɪf(ə)l/
+	> 翻閱 |turn over something, especially the pages of a book, quickly and casually.| he riffled through the pages
+	> |An act or sound of riffling through something.| just a riffle through the books’
+	> 快速搜尋 |Search quickly through (something)| she riffled through her leather handbag
+	> 波動/使起皺 |Disturb the surface of; ruffle.| there was a slight breeze that riffled her hair
+	> 切洗牌 |Shuffle (playing cards) by flicking up and releasing the corners or sides of two piles of cards so that they intermingle and may be slid together to form a single pile.|
+	> 急流/淺灘 |A rocky or shallow part of a stream or river where the water flows brokenly.| the river's sweeping riffles and deep pools provide a superb habitat for salmon
+	> 波浪/漣漪 |A patch of waves or ripples.|
++ lapse
+	> 一段時間/流逝的時間 |An interval or passage of time.|
+	> 小錯 |A brief or temporary failure of concentration, memory, or judgement.|
+	> 跌落/下降 |A decline from previously high standards.|
+	> 權力失效 |The termination of a right or privilege through disuse or failure to follow appropriate procedures.|
+	> 中止/失效 |(of a right, privilege, or agreement) become invalid because it is not used, claimed, or renewed; expire.|
+	> 中止 |(of a state or activity) fail to be maintained; come to an end.| if your diet has lapsed it's time you revived it
+	> lapse into 陷入 |Pass gradually into (an inferior state or condition)| the country has lapsed into chaos
+	> |Revert to (a previous or more familiar style of speaking or behaviour)| the girls lapsed into French
+- succeed --> success --> successive --> succession
++ one another == each other.
+	> the children used to tease one another
++ pad
+	> 墊/護墊 |A thick piece of soft material, typically used to protect or shape something, or to absorb liquid.|
+	> 填塞 |Fill or cover (something) with a soft material in order to protect or shape it or to make it more comfortable.| 
+	> pad up 墊 |Put on protective pads in order to play a sport, especially cricket.| at the age of 90, he still pads up ready to bat
+	> pad something out 鋪張/拉長 |Lengthen a speech or piece of writing with unnecessary material.| don't pad out your answer to make it seem impressive
+	> 浮報 |Defraud by adding false items to (an expenses claim or bill)| padded expenses for government work reaped billions of dollars for the Mafia
+	> 肉墊 |The fleshy underpart of an animal's foot or of a human finger.| a dog's pads will bleed profusely if cut
+	> 放輕腳步走 |Walk with steady steps making a soft dull sound.| she padded along the corridor
+	> 微弱的腳步聲 |The soft dull sound of steady steps.|
+	> 便條紙簿 |A number of sheets of blank paper fastened together at one edge, used for writing or drawing.| I always keep a pad of paper by the phone.
+	> 發射台/起降臺 |A flat-topped structure or area used for helicopter take-off and landing or for rocket-launching.| an office building with a helicopter pad
+	> 家 |A person's home.| the police raided my pad
