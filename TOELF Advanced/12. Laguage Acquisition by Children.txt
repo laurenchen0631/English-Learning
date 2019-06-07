@@ -1,0 +1,62 @@
+[Listened Key Sentence]
+1. No psychological theory of learning as currently formulated is capable of accounting for the process.
+2. Research on the language acquisition has been strongly influenced by Charms Kiteria theory of generative grammar.
+3. Is is possible for young children to infer the grammatical rule under line of speech.
+4. Is is innate knowledge that explains the success and speed of language acquisition.
+5. Is is not grammatical competence as such that is innate, but more generally cognitive principles.
+6. The basic sematic category and grammatical function can be found in the early speech of children.
+
+[Real Key Sentence]
+1. No psychological theory of learning, as currently formulated, is capable of accounting for the process. 現今有系統的心理學理論中，沒有任何理論能夠解釋這個過程
+2. Research on language acquisition has been strongly influenced by Chomsky's theory of generative grammar. 語言習得的研究深受喬母斯基的生成語法離論影響
+3. It is possible for young children to infer the grammatical rules underlying the speech. 幼兒能夠從聽見的話語中推論出潛藏的文法規則
+4. It is this innate knowledge that explains the success and speed of language acquisition. 就是因為擁有這種與生俱來的知識，解釋了語言習得為何能夠如此迅速達成
+5. It is not grammatical competence as such that is innate but more general cognitive principle. 與其說人類天生具有文法能力，不如說天生具有一般性的認知原則
+6. The basic semantic categories and grammatical functions can be found in the earliest speech of children. 在兒童早期所說的話裡，可以發現同樣基本語意類型與文法功能
+
+[Listened Article]
+One of the topics most central to psycholinguistic research is the acquisition of language by children. The term "acquisition" is preferred to learning because many psycholinguists believe that no psychological theory of learning, as currently formulated, is capable of accounting for the process where by children in a relatively short time, come to achieve a fluent control of their native language.
+
+Since the beginning of 1960s, research on language acquisition has been strongly influenced by Chomsky's theory of generative grammar, and the main problem to which it has addressed itself has been how it is possible for young children to infer the grammatical rules underlying the speech they heard and then to use these rules for the construction of alterances that they have never heard before. It is Chomsky's conviction, shared by a number of psycholinguists, that children are born with knowledge of formal principles that determine the grammatical structure of all languages. And, it is this innate knowledge that explains the success and speed of language acquisition. Others have argued that it is not grammatical competence as such that is innate but more general cognitive principles and the application of this to language utterance in particular situations, ultimately yields grammatical competence.
+
+Many recent works have stressed that all children go through the same stages of language development, regardless of languages they are acquiring. It has been also asserted that the same basic semantic categories and grammatical function can be found in the earliest speech of children in a number of different languages operating in quite different culture in various parts of the world. 
+
+[Real Article]
+One of the topics most central to psycholinguistic research is the acquisition of language by children. The term "acquisition" is preferred to "learning," because many psycholinguists believe that no psychological theory of learning, as currently formulated, is capable of accounting for the process whereby children, in a relatively short time, come to achieve a fluent control of their native language.
+
+Since the beginning of the 1960s, research on language acquisition has been strongly influenced by Chomsky's theory of generative grammar, and the main problem to which it has addressed itself has been how it is possible for young children to infer the grammatical rules underlying the speech they hear and then to use these rules for the construction of utterances that have never heard before. It is Chomsky's conviction, shared bt a number of psycholinguists, that children are born with a knowledge of formal principles that determine the grammatical structure of all languages, and that it is this innate knowledge that explains the success and speed of language acquisition. Others have argued that it is not grammatical competence as such that is innate but more general cognitive principles and that the application of these to language utterances in particular situations ultimately yields grammatical competence.
+
+Many recent works have stressed that all children go through the same stages of language development regardless of the language they are acquiring. It has also been asserted that the same basic semantic categories and grammatical functions can be found in the earliest speech of children in a number of different languages operating in quite different cultures in various parts of the world.
+
+[Review]
+- generative (adj)生殖的/有生產力的, [語言]生成的
++ underlie -> underlie
+	> 在下面 |(especially of a layer of rock or soil) lie or be situated under (something)| limestone underlies much of the site
+	> 源自於/是...的基礎 |Be the cause or basis of (something)| the fundamental issue which underlies the conflict
++ innate (adj)天生的 <|> inmate
+- cognitive /ˈkɒɡnɪtɪv/ (adj)認知的
++ competence, competency
+	> 能力 |The ability to do something successfully or efficiently| courses to improve the competence of staff
+	> 權限 |The legal authority of a court or other body to deal with a particular matter.| the court's competence has been accepted to cover these matters
+	> 語言潛意識 |A person's subconscious knowledge of the rules governing the formation of speech in their first language.|
+	> 足以過著舒適生活的收入 |An income large enough to live on, typically an unearned one.|
++ as such
+	> |You use as such with a negative to indicate that a word or expression is not a very accurate description of the actual situation.|
+		>> I am not a learner as such–I used to ride a bike years ago.
+		>> Mark joined as an office boy with no academic qualifications as such.
+	> |You use as such after a noun to indicate that you are considering that thing on its own, separately from other things or factors.|
+		>> Mr Simon said he was not against taxes as such, 'but I do object when taxation is justified on spurious or dishonest grounds,' he says.
+		>> House prices are easily upset by factors which have nothing to do with property as such. The fall in prices in the South-East results largely from the high rate of interest on mortgages.
+		>> [It is] not grammatical competence as such that is innate but more general cognitive principle.
+- One of the topics most central to psycholinguistic research is the acquisition of language by children
+	== One of the topics [(which are) most central to psycholinguistic research] is the acquisition of language by children
++ whereby == By which
+	> a system whereby people could vote by telephone
++ address oneself to 針對 == to focus on a certain problem or situation.
+	> I needed to address myself to the burst pipe in my basement—that's why I didn't attend the dinner party.
+	> the main problem to which it has addressed itself has been how it is possible for young children to ....
++ conviction
+	> 定罪 |A formal declaration by the verdict of a jury or the decision of a judge in a court of law that someone is guilty of a criminal offence.| 
+	> 確信/信念 |A firmly held belief or opinion.| she takes pride in stating her political convictions
+	> 說服力 |The quality of showing that one is firmly convinced of what one believes or says.| she had been speaking for some five minutes with force and conviction
+- The term "acquisition" is preferred to "learning" 「習得」這個詞彙比「學習」好

@@ -421,7 +421,7 @@
         - transact --> transaction
 
     angur 預示/開始
-        - inaugurate (v)為……舉行就職典禮 = install, 開始/開創 = commence --> inaugural (adj)就職的, 開幕的 (n)就職演說
+        * inaugurate (v)為……舉行就職典禮 = install, 開始/開創 = commence --> inaugural (adj)就職的, 開幕的 (n)就職演說
         + augur (n)占卜師 (v)占卜/預言 = divine --> augury (n)預言/徵兆 = divination
 
 [B]
@@ -487,7 +487,7 @@
 
     bell, bel 戰爭/戰鬥 = war
         - bellicose (adj)好鬥的/好戰的 = combative
-        + belligerent (adj)交戰的, 好鬥的 = truculent = bellicose = quarrelsome = aggressively hostile --> belligerence (n)交戰, 好戰性/鬥爭性
+        + belligerent (adj)交戰的, 好鬥的/敵對的 = truculent = bellicose = quarrelsome = aggressively hostile --> belligerence (n)交戰, 好戰性/鬥爭性
         - rebel (v)反叛/反抗 (n)造反者/反抗者
         - rebellion (n)造反/叛亂/反抗 --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
 
@@ -534,7 +534,8 @@
             - accomplice
             + /kəʊˈaɡjʊleɪt/ coagulate (v)(使)凝固/凝結 = thicken = congeal = clot = curdle --> coagulant (n)凝血劑/凝結劑 <-- co + ag 走 = move + ulate
             - coagent (n)合作者/幫手
-            + /ˌkəʊəˈlɛs/ coalesce (v)聯合/合併 = consolidate --> coalition (n)結合/聯合 = union = alliance <-- co + al 成長 = grow + esce
+            + /ˌkəʊəˈlɛs/ coalesce (v)聯合/合併 = consolidate  <-- co + al 成長 = grow + esce
+            + coalition (n)結合/聯合 = union = alliance
             - cohabit
             + coincide --> coincident --> coincidental 
             - collaborate
@@ -670,7 +671,7 @@
             + confident
             + consecrate
             + conspicuous
-            + contemplate (v)凝視/注視, 思索 = deliberate = meditate, 盤算/預期 = intend <-- com + temple + ate
+            + contemplate (v)凝視/注視, 思索 = deliberate = meditate, 預期/盤算 = intend <-- com + temple + ate
             * content --> contentment
             + contrive --> contrived
             + convex
@@ -736,18 +737,18 @@
         - /sɪˈsiːd/ secede (v)正式脫離/退出 --> secession (n)脫離/退出
         *** succeed (v)成功/實現, 繼任/繼承 = accede, 隨後出現/接著發生
         * success (n)成功
-        ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權
+        ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
 
     cur, curr, cor, corr, curs, cour 跑 = run
-        - concur (v)同意/贊成 = accord = agree = consent = accede, 同時發生 = coincide
+        - /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
         - corral (n)(牛、馬等)畜欄/圍欄 (v)把（馬、牛）趕進畜欄/把（一群人）集中起來
         - /kəˈrɪkjʊləm/ curriculum (n)課程
         + cursory (adj)倉促的/匆忙的 = hasty = superficial
+        - cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
         - course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
         * discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
         + discursive (adj)不著邊際的/散漫的 = digressive = rambling, 推論的
         - excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
-        - cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
         - incur (v)招惹
         + incursion (n)侵略/入侵/襲擊 = invasion
         - occur (v)發生/出現/被想起 --> occurence (n)事件 = event = incident, 發生
@@ -758,11 +759,71 @@
         + /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
 
     cur 關心 = care, cure
+        - curate (n)牧師助理
         - curator (n)館長
         - curable (adj)可治療的/可醫好的
-        - curate (n)牧師助理
         - secure (adj)安全的 = safe, 穩固的 = steady (v)固定, 使安全 --> security (n)安全/保安/防護, 保證/保障
         - securities (n)證券/債券
+    
+    cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
+        - accept (v)接受/收受/歡迎/相信
+        + anticipate (v)預期/期望, 預先做 = forestall
+        - capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
+        - captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
+        + captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
+        - caption (n)說明文字/圖片說明
+        + captious (adj)吹毛求疵的/挑剔的 = faultfinding = carping = censorious = particular
+        + coincide (v)巧合/同時發生, 相符/符合 = concur, 同意 --> coincident (adj)同時的/同地的, 一致的 = consonant --> coincidental (adj)巧合的 = ironic, 同時的
+        + conceive (v)想像/想出/構想 = imagine = invent = form, 懷孕 --> conceivable (adj)可想像的/可想到的 = imaginable
+        * conceit (n)自負/自大, 誇張的比喻/藝術效果/奇想 --> conceited (adj)自大的/自負的 = vain = arrogant = haughty = cavalier
+        * concept (n)概念/觀念/想法 = idea --> conception (n)觀念/概念/見解 = idea = perception, 懷孕
+        * deceive (v)欺騙/矇騙 --> deceit (n)欺騙/欺詐 = chicanery
+        - deception (n)欺騙/欺詐
+        + deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
+        - deciduous (adj)落葉性的, 脫落的
+        ++ /dɪˈsʌɪpəl/  disciple (n)信徒/弟子/擁護者 --> discipline (n)紀律/約束, 訓練/修養, 學科 (v)懲罰, 訓練/教導
+        * disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
+        * emancipate
+        +++ except (v/adv/prep)除外/不計 --> exception (n)例外, 抗辯/反對 = objection = demurral
+        + exceptional (adj)例外的/異常的 = unusual = extraordinary, 優秀的 = excellent = superior <|> expect
+        - incept (v)攝取/接收 = ingest = intake, 取得學位 --> inception (n)成立/創立/起初/開端
+        *** incident (n)(不愉快或不尋常的)事件, 隨付責任義務 (adj)易發生的, 隨附的, 入射的 <|> accident
+        *** incidence (n)發生率, 入射/入射角
+        * incidental (adj)附帶的/伴隨的 = circumstantial, 偶然發生的 (n)意外事件/意外支出
+        * incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
+        - intercept (n/v)中途攔截/截斷/竊聽
+        - /mjʊˈnɪsɪpəl/ municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
+        - municipality (n)市/市政當局
+        +++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任（職務） <-- oc + cup 抓 = take, seize + y
+        * occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
+        * perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
+        * percept (n)認知/感知 --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
+        * perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle
+        + perceptible (adj)可察覺到的/可感知的
+        - precipice (n)懸崖/峭壁
+        - precipitant (n)沈澱物
+        + precept (n)格言/箴言, (尤指道德方面的)規矩/準則 = principle = law = canon = tenet
+        + precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
+        - precipitation (n)降水, 急躁/衝動
+        - receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
+        - receptacle (n)容器
+        - reception (n)反應/回應, 迎接/歡迎, 接待處/服務台
+        + receptive (adj)善於接受的/從善如流的
+        + recipe (n)食譜, 訣竅/方法
+        - recipient (n)接受者/收受者
+        - recuperate (v)恢復/復原
+        + susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, 容許的 --> susceptibility (n)易感性
+
+    cide, cid 殺 = kill
+        - genocide (n)種族滅絕
+        - germicide (n)殺菌劑
+        - herbicide (n)除草劑
+        - suicide (n)自殺 
+        - homicide (n)謀殺/他殺 --> homicidal (adj)殺人的
+        - fungicide (n)殺真菌劑 
+        - feticide
+        - insecticide (n)殺蟲劑
+        - pesticide (n)殺蟲劑 <-- pest + i + cide
 
     cond 藏起/儲藏 = stow, secrete
         + abscond (v)潛逃/逃亡
@@ -794,66 +855,6 @@
         + enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
         + incentive (n)刺激因素/誘因 = stimulus = motive
         + recant (v)改變/放棄 = abjure = renounce --> recantation (n)改變宗教信想/改變論調
-
-    cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
-        - accept (v)接受/收受/歡迎/相信
-        + anticipate (v)預期/期望, 預先做 = forestall
-        - caption (n)說明文字/圖片說明
-        + captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
-        - captive (n)囚徒/戰俘/俘虜 = capture
-        - capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
-        + captious (adj)吹毛求疵的/挑剔的 = faultfinding = carping = censorious = particular
-        + coincide (v)巧合/同時發生, 與…一致/相符/相似 = concur --> coincident (adj)同時的/同地的, 一致的 = consonant --> coincidental (adj)出乎意料的 = ironic, 同時的
-        + conceive (v)想像/想出/構想 = imagine = invent = form, 懷孕 --> conceivable (adj)可想像的/可想到的 = imaginable
-        * conceit (n)自負/自大 --> conceited (adj)自大的/自負的 = arrogant = haughty = cavalier
-        * concept (n)概念/觀念/想法 = idea --> conception (n)觀念/概念/見解 = idea = perception, 懷孕
-        - deception (n)欺騙/欺詐
-        + deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
-        - deciduous (adj)落葉的, 非永久的/短暫的 = ephemeral, 脫落的
-        ++ disciple (n)信徒/弟子/擁護者 --> discipline (n)紀律/約束, 訓練/修養 (v)懲罰, 訓練/教導
-        * deceive (v)欺騙/矇騙 --> deceit (n)欺騙/欺詐 = chicanery
-        * disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
-        - emancipate
-        ++ except (v/adv/prep)除外/不計 --> exception (n)例外, 反對 = objection = demurral
-        + exceptional (adj)例外的/異常的 = unusual = extraordinary, 優秀的 = excellent = superior <|> expect
-        - homicidal (adj)殺人的
-        - incept (v)攝取/接收 = ingest, 開始, 就職, 取得學位 --> inception (n)成立/創立, 起初/開端/開始, 取得學位
-        *** incident (n)(不愉快或不尋常的)事件 --> incidence (n)事情發生, 發生率
-        * incidental (adj)次要的/附帶的/伴隨的 = circumstantial
-        * incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
-        - intercept (v)中途攔截/截斷/竊聽
-        - municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
-        - municipality (n)市/市政當局
-        - occupy (v)佔領/佔據, 使忙碌/使從事, 擔任（職務） <-- oc + cup 抓 = take, seize + y
-        * occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
-        * perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
-        * percept (n)認知/感知 --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
-        * perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle
-        + perceptible (adj)可察覺到的/可感知的
-        - precipice (n)懸崖
-        - precipitant (n)沈澱物
-        + precept (n)格言/箴言, (尤指道德方面的)規矩/準則 = principle = law = canon = tenet
-        + precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
-        - precipitation (n)降水, 急躁/衝動
-        - receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
-        - receptacle (n)容器
-        - reception (n)反應/回應, 迎接/歡迎, 接待處/服務台
-        + receptive (adj)善於接受的/從善如流的
-        + recipe (n)食譜, 訣竅/方法
-        - recipient (n)接受者/收受者
-        - recuperate (v)恢復/復原
-        + susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, 容許的 --> susceptibility (n)易感性
-
-    cide 殺 = kill
-        - genocide (n)種族滅絕
-        - germicide (n)殺菌劑
-        - herbicide (n)除草劑
-        - suicide (n)自殺 
-        - homicide (n)謀殺/他殺
-        - fungicide (n)殺真菌劑 
-        - feticide
-        - insecticide (n)殺蟲劑
-        - pesticide (n)殺蟲劑 <-- pest + i + cide
 
     col 脖子 = neck
         - accolade (n)讚賞 = appreciation = kudos
@@ -1760,7 +1761,7 @@
             - eloquence
             + elucidate
             + elude --> elusion -> elusive
-            - emancipate
+            * emancipate
             - emend
             + emerge --> emergence --> emerging = emergent
             - emigrate (v)移居外國 <--> immigrate
@@ -2425,7 +2426,7 @@
         + aggrandize (v)增大/擴大, 吹捧 = acclaim
         + grandeur (n)宏偉/壯麗
         - graniose (adj)宏偉的, 浮誇的/誇張的 = grandiloquent
-        + grandiloquent (adj)誇張的/浮誇的 = pompous = bombastic = pretentious = exaggerate (v)
+        + /ɡranˈdɪləkwənt/ grandiloquent (adj)誇張的/浮誇的 = pompous = bombastic = pretentious = exaggerate (v)
         + grandiose (adj)壯麗的, 華而不實的 = meretricious = overblown = pompous --> grandiosity (n)浮誇
         + grandstand (n)大看台 (v)譁眾取寵
 
@@ -2497,7 +2498,7 @@
         * gratuity (n)打賞/小費 --> gratuitous (adj)無理由的/無端的, 免費的/無償的
         * ungrateful (adj)不感激的, 討厭的
         + ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
-        - ingratiate (v)逢迎/討好 --> ingratiating (adj)討好的/諂媚的
+        + ingratiate (v)逢迎/討好 --> ingratiating (adj)討好的/諂媚的
 
     gee, geo 地球 = earth
         + apogee (n)遠地點
@@ -2973,7 +2974,7 @@
             - incubate --> incubation --> incubator
             - incumbent
             - incubus
-            + inculcate (v)諄諄教誨/灌輸 = implant = indoctrinate <-- in + culc 行走 = heel, tread
+            + /ˈɪnkʌlkeɪt/ inculcate (v)諄諄教誨/灌輸 = implant = indoctrinate <-- in + culc 行走 = heel, tread
             - inculpate
             - incur
             + incursion
@@ -3010,7 +3011,7 @@
             + ingenuous
             - ingest --> ingestion
             - ingrained (adj)根深蒂固的 <-- in + grain 紋理 + ed
-            - ingratiate --> ingratiating
+            + ingratiate --> ingratiating
             - ingredient
             - inhabit
             - inherit
