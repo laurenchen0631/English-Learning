@@ -209,7 +209,7 @@
     apt 能力/適應 = apt == ept 
         + adapt (v)適應/改造/改編 = adjust
         + adaptable (adj)有適應能力的, 可改編的 --> adaptability (n)適應性/適應能力
-        + aptitude (n)才能/資質 = capability = ability = faculty, 傾向 = inclination = predilection = propensity
+        + aptitude (n)才能/資質 = capability = ability = faculty, 傾向/習性 = inclination = predilection = propensity
         +++ apt (adj)易於...的 = liable, 恰當的/合適的 = apposite = appropriate = suitable, 聰明的
 
     add 增加
@@ -243,7 +243,7 @@
         - alibi (n)不在場證明, 藉口 = excuse
         + /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 <--> egoism --> altruistic (adj)利他主義的/無私的
         + alienate (v)使疏遠/背離 = estrange = disaffect
-        +++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize
+        +++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize <|> /ˈʌtə/ utter
         + alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
         ** alternate /ˈɔːltəneɪt/ (v)輪流/交替 /ɔːlˈtəːnət/ (adj)輪流的/交替的 (n)替代性選擇 = alternative, 候選人
         - altercate (v)爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
@@ -438,6 +438,7 @@
         + symbiosis (n)共生/合作關係 = mutualism
     
     bene, ben, bon 好 = well
+        - benison (n)祝福/祈禱 = pray = benediction = invocation
         - benediction
         + benefactor (n)行善者/捐助者 = donor
         + beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane, 有益的 = beneficial
@@ -445,7 +446,6 @@
         - beneficiary (n)受益人
         + benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
         + /bɪˈnʌɪn/ benign (adj)慈祥的 = gracious = benevolent, 氣候溫和的, 良性的/吉利的 = favorable = propitious = auspicious <--> malignant
-        - benison (n)祝福/祈禱 = pray = benediction = invocation
         + /ˈbɒnəmiː/ bonhomie (n)友好/和藹 = geniality = friendliness = affability = amiability = amiableness <-- homie
         - bonnie, bonny (adj)美麗健康的
         - bonus (n)奬金/津貼 = allowance, 額外的好處 <|> bounty
@@ -570,7 +570,7 @@
             * composure
             + compound
             + comprehend --> comprehensive
-            + compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize = endanger = imperil = menace
+            ++ compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize = endanger = imperil = menace
             - /kənˈkatɪneɪt/ concatenate (v)使連接/使連鎖 --> concatenation (n)一連串有關聯的事件、想法或事物 <-- con + caten 鐵鍊 = chain + ate
             + concave
             + conceive --> conceivable
@@ -740,7 +740,7 @@
         ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
 
     cur, curr, cor, corr, curs, cour 跑 = run
-        - /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
+        - /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
         - corral (n)(牛、馬等)畜欄/圍欄 (v)把（馬、牛）趕進畜欄/把（一群人）集中起來
         - /kəˈrɪkjʊləm/ curriculum (n)課程
         + cursory (adj)倉促的/匆忙的 = hasty = superficial
@@ -797,22 +797,22 @@
         +++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任（職務） <-- oc + cup 抓 = take, seize + y
         * occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
         * perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
-        * percept (n)認知/感知 --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
+        *** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
         * perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle
         + perceptible (adj)可察覺到的/可感知的
+        + precept (n)格言/箴言, 戒律 = principle = law = canon = tenet
         - precipice (n)懸崖/峭壁
-        - precipitant (n)沈澱物
-        + precept (n)格言/箴言, (尤指道德方面的)規矩/準則 = principle = law = canon = tenet
         + precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
+        - precipitant (n)沈澱物
         - precipitation (n)降水, 急躁/衝動
         - receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
-        - receptacle (n)容器
         - reception (n)反應/回應, 迎接/歡迎, 接待處/服務台
         + receptive (adj)善於接受的/從善如流的
-        + recipe (n)食譜, 訣竅/方法
+        - receptacle (n)容器
+        + /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
         - recipient (n)接受者/收受者
         - recuperate (v)恢復/復原
-        + susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, 容許的 --> susceptibility (n)易感性
+        + susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, 容許..的 --> susceptibility (n)易感性
 
     cide, cid 殺 = kill
         - genocide (n)種族滅絕
@@ -823,7 +823,7 @@
         - fungicide (n)殺真菌劑 
         - feticide
         - insecticide (n)殺蟲劑
-        - pesticide (n)殺蟲劑 <-- pest + i + cide
+        * pesticide (n)殺蟲劑 <-- pest + i + cide
 
     cond 藏起/儲藏 = stow, secrete
         + abscond (v)潛逃/逃亡
@@ -858,7 +858,7 @@
 
     col 脖子 = neck
         - accolade (n)讚賞 = appreciation = kudos
-        - collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話)
+        - collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
 
     commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
         - accommodate (v)使一致 = adjust = adapt, 提供住宿/提供/借錢 --> accommodating (adj)樂於助人的 = benevolent
@@ -876,7 +876,7 @@
         ++ accord (n/v)同意/協議/使一致 = agree = adapt (v)授予/給予 = bestow = grant --> accordingly (adv)照著
         + discord (n)不一致/紛爭, (婚姻)不和
         + discordant (adj)不和諧的 = disagreeing = incongruous, 刺耳的 <--> concord
-        - concord (n)和諧/和睦 = amity = rapportm <--> discord, 公約/協定 = agreement = accord
+        - concord (n)和諧/和睦 = amity = rapportm <--> discord, 公約/協定 = agreement = accord = treaty
         - cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的
 
     cre, crue 增長/產生 = grow, increase
@@ -896,21 +896,20 @@
         +++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
         * excrete (v)排泄/分泌
-        - secern (v)區別/辨別, 分泌
-        - /ˈsiːkrɪt/ secret (adj)祕密的 <|> /sɪˈkriːt/ secrete
-        ++ secrete (v)隱藏/藏匿, 分泌 --> secretion (n)分泌/分泌液 <|> secret
+        - /ˈsiːkrɪt/ secret (adj)祕密的 (n)秘密 <|> /sɪˈkriːt/ secrete
+        ++ /sɪˈkriːt/ secrete (v)隱藏/藏匿 = conceal = hide, 分泌 --> secretion (n)分泌/分泌液 <|> secret
         - secretive (adj)隱隱藏藏的, 能分泌的/促進分泌的
         - incretion (n)內分泌 <-- in + (se)certion
 
     cre, cred 相信 = believe, confide, entrust
         - accredit (v)認可/授權 = authorize
+        +++ credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
         + credent (adj)相信的 --> credence (n)相信/可信性
         + credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
         + credo (n)信念/信條 = creed
-        + credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
-        + credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信, 易受騙
-        * recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
-        + discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 不信 = disbelief = distrust
+        + credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信/易受騙
+        * recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
+        + discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
         - incredulity (n)懷疑/不相信
     
     cumul 堆積 = heap
@@ -919,8 +918,8 @@
         - cumulus (n)積雲
 
     cuse 理由
-        - accuse (v)指控, 指責 = allege = blame = censure = denounce --> accused (adj)被指控的 (n)被吿
-        - excuse (n)藉口 (v)原諒
+        * accuse (v)指控 = charge, 指責 = allege = blame = censure = denounce --> accused (adj)被指控的 (n)被吿
+        - excuse (n)藉口 (v)原諒, 辯解, 免除責任
 
     chemy 化學
         + alchemy (n)煉金術
@@ -6718,7 +6717,7 @@
         + evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
         - invoke (v)喚起/使記起, 祈求(法律或神靈), 行使（法權等）
         ++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
-        +++ provocation (n)激怒/挑釁 = affront = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
+        +++ provocation (n)激怒/挑釁 = affr  ont = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
         * revoke (v)撤銷/廢除 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢除的
         - vocalist (n)流行歌手/聲樂家
         - vocation (n)擅長/才能, 職業/工作
