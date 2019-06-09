@@ -1,74 +1,95 @@
-[Behavior]
-- excretion == the process of eliminating or expelling waste matter
-- pesticide == A substance used for destroying insects or other organisms harmful to cultivated plants
-- suffocation == asphyxiation
-- trimester == A period of three months, especially as a division of the duration of pregnancy.
-- spawn
-	> |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
-	> |The eggs of fish, frogs, etc.| the fish covers its spawn with gravel
-	> |(of a character or object in a video game) appear at a certain point in the game.| then they enter the undead land where defenders will spawn to fight against them
-	> |(of a person) produce (offspring)| why had she married a man who could spawn a boy like that?
-	> |Produce or generate a large number of.| the decade spawned a bewildering variety of books on the forces
-	>> 菌絲 |The mycelium of a fungus, especially a cultivated mushroom| a supplier of spawn for shiitake mushrooms
-- phenotype 顯形 == The set of observable characteristics of an individual resulting from the interaction of its genotype with the environment.
+[General]
+	- excretion == the process of eliminating or expelling waste matter
+	- pesticide == A substance used for destroying insects or other organisms harmful to cultivated plants
+	- suffocation == asphyxiation
+	- trimester == A period of three months, especially as a division of the duration of pregnancy.
+	- spawn
+		> |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
+		> |The eggs of fish, frogs, etc.| the fish covers its spawn with gravel
+		> |(of a character or object in a video game) appear at a certain point in the game.| then they enter the undead land where defenders will spawn to fight against them
+		> |(of a person) produce (offspring)| why had she married a man who could spawn a boy like that?
+		> |Produce or generate a large number of.| the decade spawned a bewildering variety of books on the forces
+		>> 菌絲 |The mycelium of a fungus, especially a cultivated mushroom| a supplier of spawn for shiitake mushrooms
+	- phenotype 顯形 == The set of observable characteristics of an individual resulting from the interaction of its genotype with the environment.
+	- dung
+		> 動物糞便 |The excrement of animals; manure.|
+		> 施肥 |Drop or spread dung on (a piece of ground).|
+	- androgynous 雌雄同體的
+	- chromosome 染色體
 
 [Organ]
-- gland
+	- gland
 		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
 		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
 
 [Animal]
-- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
-- gosling /ˈɡɒzlɪŋ/ == a young goose
-- alligator == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
-- trapper == A person who traps wild animals, especially for their fur.
-- beaver 海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.
-- bison 北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
-- elk 駝鹿/麋鹿/美洲赤鹿 
-- moth 蛾
-- squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
-- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
-- wasp 黃蜂/馬蜂
-- walrus 海象
-- hippopotamus 河馬
+	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
+	- gosling /ˈɡɒzlɪŋ/ == a young goose
+	- alligator == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
+	- trapper == A person who traps wild animals, especially for their fur.
+	- beaver 海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.
+	- bison 北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
+	- elk 駝鹿/麋鹿/美洲赤鹿 
+	- moth 蛾
+	- squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
+	- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
+	- wasp 黃蜂/馬蜂
+	- walrus 海象
+	- hippopotamus 河馬
+	- guinea pig 豚鼠，又名天竺鼠、葵鼠
+	- cub
+		> 幼獸 |The young of a fox, bear, lion, or other carnivorous mammal.| she was as protective as a tiger with her cubs
+		> |Give birth to cubs.| both share the same earth during the first ten days after cubbing
+		> |Hunt fox cubs| members of the Grafton Hunt were out cubbing
+	- bumblebee 雄蜂/大黃蜂
+	- orca 殺人鯨 == killer whale
+	- bottlenose dolphin 寬吻海豚屬
+	- beluga whale 白鯨
+	- cetacean (n)鯨類動物 (adj)鯨類的
+	- termite 白蟻
+	- tortoise 陸龜
 
 [Plant]
-* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
-- crown 樹冠 == The upper branching or spreading part of a tree or other plant.
-- conifer 針葉樹 == A tree that bears cones and needle-like or scale-like leaves that are typically evergreen.  
-- cypress 柏 == An evergreen coniferous tree with small rounded woody cones and flattened shoots bearing small scale-like leaves.
-- baobab 猴麵包樹 == A short tree with a very thick trunk and large edible fruit, living to a great age.
-- juniper 杜松 == An evergreen shrub or small tree that bears berrylike cones, widely distributed throughout Eurasia and North America.
-- hazel
-	> 榛木 A temperate shrub or small tree with broad leaves, bearing prominent male catkins in spring and round hard-shelled edible nuts in autumn.
-	> A reddish-brown or greenish-brown color, especially of a person's eyes.
-- ripe == (of fruit or grain) developed to the point of readiness for harvesting and eating
-- grove 樹叢/小樹林 == A small wood or other group of trees.
-- cedar /ˈsiːdə/ 雪松/香柏 == Any of a number of conifers which typically yield fragrant, durable timber.
-- lily -> lilies 百合
-- herb  /ˈərb/, /həːb/ == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
-- sequoia == A redwood tree
-- deciduous == (of a tree or shrub) shedding its leaves annually.
-- oak 橡樹/櫟樹
-- maple 楓樹/槭樹
-- beech	/biːtʃ/ 山毛櫸
-- fern 蕨
-- moss 苔蘚
-- ginseng 人參
-- yellowroot 黃根，兩種植物的俗名(金印草、黃根草)
+	* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
+	- crown 樹冠 == The upper branching or spreading part of a tree or other plant.
+	- conifer 針葉樹 == A tree that bears cones and needle-like or scale-like leaves that are typically evergreen.  
+	- cypress 柏 == An evergreen coniferous tree with small rounded woody cones and flattened shoots bearing small scale-like leaves.
+	- baobab 猴麵包樹 == A short tree with a very thick trunk and large edible fruit, living to a great age.
+	- juniper 杜松 == An evergreen shrub or small tree that bears berrylike cones, widely distributed throughout Eurasia and North America.
+	- hazel
+		> 榛木 A temperate shrub or small tree with broad leaves, bearing prominent male catkins in spring and round hard-shelled edible nuts in autumn.
+		> A reddish-brown or greenish-brown color, especially of a person's eyes.
+	- ripe == (of fruit or grain) developed to the point of readiness for harvesting and eating
+	- grove 樹叢/小樹林 == A small wood or other group of trees.
+	- cedar /ˈsiːdə/ 雪松/香柏 == Any of a number of conifers which typically yield fragrant, durable timber.
+	- lily -> lilies 百合
+	- herb  /ˈərb/, /həːb/ == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
+	- sequoia == A redwood tree
+	- deciduous == (of a tree or shrub) shedding its leaves annually.
+	- oak 橡樹/櫟樹
+	- maple 楓樹/槭樹
+	- beech	/biːtʃ/ 山毛櫸
+	- fern 蕨
+	- moss 苔蘚
+	- ginseng 人參
+	- yellowroot 黃根，兩種植物的俗名(金印草、黃根草)
+	- gourd /ɡɔːd/ (n)葫蘆
+	- birch 樺木
+	- lavender (n)薰衣草, 淡紫色 (v)用薰衣草燻
+	- bachelor buttons 矢車菊
 
 [Ocean]
-- sardine 沙丁魚 == A young pilchard or other young or small herring-like fish.
+	- sardine 沙丁魚 == A young pilchard or other young or small herring-like fish.
 
 [Landscape]
-- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
-- geyser /ˈɡʌɪzə/ == A hot spring in which water intermittently boils, sending a tall column of water
-- hot springs
+	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
+	- geyser /ˈɡʌɪzə/ == A hot spring in which water intermittently boils, sending a tall column of water
+	- hot springs
 
 [Ore]
-- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
-- quartz 石英
-- mica 雲母
-- feldspar 長石
-- coal
-* petroleum == oil == crude oil
+	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
+	- quartz 石英
+	- mica 雲母
+	- feldspar 長石
+	- coal
+	* petroleum == oil == crude oil

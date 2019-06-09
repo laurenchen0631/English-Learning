@@ -12,6 +12,7 @@
 	- VP == Vice President
 	- CFO == Chief Financial Officer
 	- COO == Chief Operating Officer
+	- benefits manager 企業福利主管
 	- knowledge economy 知識經濟
 	- brain drain 人才流失
 	- onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
@@ -37,6 +38,15 @@
 	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
 	- blue-collar 藍領/藍領的，簡單來說就是從事勞動工作的雇員，典型的代表可能是工廠作業員和軟體工程師，藍領經常被用來與白領比較，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作。
 	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
+	- list price 建議售價
+	- voucher
+		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
+		> 證據 |a piece of supporting evidence|
+		> 保證人 |surety| 
+	- welfare
+		> 健康安樂/幸福 |The health, happiness, and fortunes of a person or group.| they don't give a damn about the welfare of their families
+		> 福利事業 |Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.| the protection of rights to education, housing, and welfare
+		> 社會救濟 |Financial support given to those who are unemployed or otherwise in need.| critics feared an increase in inequalities in the provision of welfare
 
 [House]
 	- butler == The chief manservant of a house.
@@ -44,10 +54,6 @@
 	- detergent 洗潔劑
 	- utensil == A tool, container, or other article, especially for household use.
 
-[Media]
-	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
-	- obituary 訃告 == A notice of a death, especially in a newspaper
-	- columnist 專欄作家
 [Finance]
 	- IPO == Initial Public Offerings 首次公開募股
 	- underwater == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
@@ -74,26 +80,73 @@
 	- appeals court 上訴法院 == Court of Appeals
 	- trial court 初審法院
 	- the Circuit Court 美國巡迴上訴法院
-	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
+	- law-enforcement authority 執法機關
+	- d.a. == district attorney 地方檢察官
+	- grand jury 大陪審團
+	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
+	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
+	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
+	- search warrant 搜查令/搜索票
+	- advocacy
+		> 公開支持 |Public support for or recommendation of a particular cause or policy.|
+		> 辯護律師/辯護人 |The profession or work of a legal advocate.| solicitors should have a record of advocacy in the lower courts
+	- venue
+		> 發生地 |The place where something happens, especially an organized event such as a concert, conference, or sports competition.| the club is the city's main venue for live music
+		> 審判地 |The jurisdiction within which a criminal or civil case may or must be heard.|
+	* defendant 被告 == An individual, company, or institution sued or accused in a court of law.
+	+ plaintiff 原告 == A person who brings a case against another in a court of law.
 	- molestation 性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
+	- sexual assault 性侵
+	- unlawful assembly 非法集會
+	- hijack
+		>> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.| a man armed with grenades hijacked the jet yesterday
+		>> |An incident or act of hijacking.|
+		>> |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
+		>> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
+	- class action 集體訴訟 == a legal action (= a case that is decided in a law court) that is organized by a group of people who all have the same legal problem
+		> Plaintiffs' lawyers have tried to get the courts to combine all the potential suits into a single class action.
+	- adjudication 判決
+	- build a case 收集證據 == To compile evidence that supports an argument or charges against someone or something.
+		> The job of the prosecutor is to build a case to prove that the defendant is guilty.
+		> We're trying to build a case because many employees have been wrongly terminated by the company.
 	- condemn
 		>> |Express complete disapproval of; censure.| most leaders roundly condemned the attack
 		>> |Sentence (someone) to a particular punishment, especially death.| the rebels had been condemned to death
 		>> |(of circumstances) force (someone) to endure or accept something unpleasant.| ‘the physical ailments that condemned him to a lonely childhood
 		>> |Prove or show to be guilty or unsatisfactory.| she could see in his eyes that her stumble had condemned her
 		>> |Officially declare (something) to be unfit for use.| the pool has been condemned as a health hazard
-	- grand jury 大陪審團
-	- adjudication 判決
+	* convict
+		> 宣告...有罪 |Declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law.| the theives were convicted of the robbery
+		> 囚犯 |A person found guilty of a criminal offence and serving a sentence of imprisonment.| two escaped convicts kidnapped them at gunpoint
 	- verdict 裁決 == A decision on an issue of fact in a civil or criminal case or an inquest.
 	- testimony 證言/證言 == A formal written or spoken statement, especially one given in a court of law.
-	- pedophile 戀童癖 == A person who is sexually attracted to children.
-	- search warrant 搜查令/搜索票
+	- incarceration 監禁 == imprisonment
+	- pedophile 戀童癖 == A person who is sexually attracted to children.	
+	- thug 暴徒 == A violent person, especially a criminal.
+	- maim 使殘廢 == Wound or injure (a person or animal) so that part of the body is permanently damaged.
+	- pilfer 偷
+	- squat
+		> 蹲 |Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs.| I squatted down in front of him
+		> |A squatting position.|
+		> 非法佔據 |Unlawfully occupy an uninhabited building or settle on a piece of land.| eight families are squatting in the house
+		> |A building occupied by people living in it without the legal right to do so.|
+		> |An unlawful occupation of an uninhabited building.|
+		> 矮胖的 |Short and thickset; disproportionately broad or wide.| he was muscular and squat
+	- sentence sb to life 判..無期徒刑
+	- parole
+		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
+		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
+		> 戰俘宣示 |A promise or undertaking given by a prisoner of war not to escape or, if released, not to engage in hostilities, or to return to custody under stated conditions.|
+		> 特用暗號 |The actual linguistic behaviour or performance of individuals, in contrast to the linguistic system of a community.|
+	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
 	- mandatory 義務的 == Required by law or mandate; compulsory.
-	- hijack
-		>> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.| a man armed with grenades hijacked the jet yesterday
-		>> |An incident or act of hijacking.|
-		>> |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
-		>> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
+	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
+	- poach
+		> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
+		> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
+		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.|
+		> 侵佔/竊取 |Take or acquire in an unfair or clandestine way.| employers risk having their newly trained workers poached by other firms
+		> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
 
 [Army]
 	- captain
@@ -113,6 +166,7 @@
 	- baggage claim 行李認領
 	- luggage check 行李托運
 	- cockpit 座艙/駕駛艙 == A compartment for the pilot
+	- van 有蓋小貨車
 
 [Agriculture]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
@@ -146,12 +200,26 @@
 		> be stewed in |Be steeped in or imbued with.| politics there are stewed in sexual prejudice and privilege
 		> 焦慮 |A state of great anxiety or agitation.|
 	- booze (n)酒精飲料 (v)大量飲講
+	- oatmeal 燕麥粉/燕麥片
+	- pretzel (v)蜷曲 (n)椒鹽脆餅
+
+[Media]
+	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
+	- obituary 訃告 == A notice of a death, especially in a newspaper
+	- columnist 專欄作家
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
 	- midwife == A person, typically a woman, who is trained to assist women in childbirth.
 	* psychologist 心理學家 == An expert or specialist in psychology.
 	* psychiatrist /sʌɪˈkʌɪətrɪst/  精神科醫生/心理醫生 == A medical practitioner specializing in the diagnosis and treatment of mental illness.
+	- anesthesiologist 麻醉師
+	- plaque
+		> 飾版/匾 |An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.|
+		> |A sticky deposit on teeth in which bacteria proliferate.|
+		> 血小板 |A small, distinct, typically raised patch or region on or within the body resulting from local damage or deposition of material, such as a fatty deposit on an artery wall in atherosclerosis or a site of localized damage of brain tissue in Alzheimer's disease.|
+		> 牙菌斑 |A clear area in a cell culture caused by the inhibition of growth or destruction of cells by an agent such as a virus.|
+		> |A flat counter used in gambling.|
 	- postpartum hemorrhage 產後出血
 	- influenza	流感 == flu 
 	- emphysema	/ˌɛmfəˈsimə/ 肺氣腫
@@ -159,14 +227,19 @@
 	- bronchitis /brɑŋˈkaɪdəs/ 支氣管炎
 	- syphilis 梅毒
 	- diabetes 糖尿病 == diabetes mellitus
+	- pancreatitis 胰臟炎 == Inflammation of the pancreas.
 	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
 	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
+	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
+	- hyperglycemia 高血糖症 == An excess of glucose in the bloodstream, often associated with diabetes mellitus.
+	- ketoacidosis 糖尿病酮症酸中毒
 	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
 	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
 	- manic depression 躁鬱症
 	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
 	- stillborn 死胎的 == (of an infant) born dead
 	- forceps 鉗子
+	- testosterone blocker 睪固酮阻斷劑
 	- chloroform 氯仿
 	- metastasize == (of a cancer) spread to other sites in the body by metastasis.
 	- ophthalmologists 眼科醫生
@@ -211,6 +284,7 @@
 	- oxygen cylinder 氧氣瓶
 	- psychiatric hospital 精神科醫院
 	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
+	- pediatrician 小兒科醫師 == A medical practitioner specializing in children and their diseases.
 	- orthodontist 牙齒矯正醫師
 	- Oral and maxillofacial surgery 口腔頜面外科，該外科主要治理頭部、頸部、臉部、下頜、口腔和頜面部位
 	- plastic surgery 整形手術
@@ -220,7 +294,60 @@
 		> |containing sodium chloride and/or a salt or salts of magnesium or another alkali metal.|
 		> 鹽水/生理食鹽水 |A solution of salt in water.|
 	- rhinoplasty 整鼻手術
+	- neuroanatomy 神經解剖學
+	- anatomy
+		> 解剖學 |The branch of science concerned with the bodily structure of humans, animals, and other living organisms, especially as revealed by dissection and the separation of parts.| he studied physiology and anatomy
+		> 器官構造 |The bodily structure of an organism.|
+		> 身體 |A person's body.| every part of his anatomy hurt
+		> 結構學 |A study of the structure or internal workings of something.| a detailed anatomy of a society and its institutions
 	- carcinogen 致癌物 == cancer-causing substance
+	- pharmacy /ˈfɑːməsi/ (n)藥局, 配藥學
+	- pharmaceutical /ˌfɑːməˈs(j)uːtɪk(ə)l/ (adj)製藥的
+	- evergreening 長青化，把即將超過專利期的藥物作微小或修飾性的改變，以便再次申請專利，繼續賺取巨大利潤
+	- Food and Drug Administration (FDA) 美國食品藥品監督管理局
+	- sterilization /stɛrɪlʌɪˈzeɪʃ(ə)n/
+		> 消毒 |The process of making something free from bacteria or other living microorganisms.| disinfection and sterilization of surgical equipment
+		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
+	- neonatal 新生的 == Relating to newborn children (or other mammals)
+	- abscess 膿瘡/潰瘍
+
+[Music/Performance]
+	- the Beatle 披頭四樂團
+	- score
+		> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
+		> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
+		> |A rating or grade, such as a mark achieved in a test.|
+		> |Decide on the score to be awarded to (a competitor)| the judge must score each dog and handler against this standard
+		> |Be worth (a number of points)| a yes answer scores ten points
+		> |The state of affairs; the facts about the present situation.| What's wrong Simon? What's the score?
+		> |A group or set of twenty or about twenty.| a score of men lost their lives in the battle
+		> scores of |A large number of something.| he sent scores of enthusiastic letters to friends
+		> 總譜 |A written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.|
+		> 配樂 |The music composed for a film or play.| a film score
+		> |Orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.| the Quartet Suite was scored for flute, violin, viola da gamba, and continuo
+		> |A notch or line cut or scratched into a surface.| check the shaft for scratches and scores
+		> |Cut or scratch a notch or line on (a surface)| score the card until you cut through
+		> |Delete text by drawing a line through it.|
+	- tenor
+		> 男高音/次中音 |A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range.| 
+		> |An instrument, especially a saxophone, trombone, tuba, or viol, of the second or third lowest pitch in its family.|
+		> 大意/要旨 |The general meaning, sense, or content of something.| the general tenor of the debate
+		> 一般趨向/進程 |A settled or prevailing character or direction, especially the course of a person's life or habits.| the even tenor of life in the kitchen was disrupted the following day
+		> 抄本 |The actual wording of a document.|
+		> |The time that must elapse before a bill of exchange or promissory note becomes due for payment.|
+	- trumpet 小號
+	- harmonica 口琴
+	- mezzo-soprano 次女高音
+	- riff
+		> 即興重複段 |A short repeated phrase in popular music and jazz, typically used as an introduction or refrain in a song.|
+		> |Play riffs.| the other horns would be riffing behind him
+		> 獨角戲 |A monologue or spoken improvisation, especially a humorous one, on a particular subject.|
+		> |Perform a monologue or spoken improvisation on a particular subject.|
+	- synt == synthesizer 合成器
+	- arranger
+		> 編曲者 |A person who adapts a musical composition for performance.|
+		> |A person who arranges flowers in a display.|
+		> 計畫者 |A person who organizes or makes plans for an event or deal.|
 
 [Clothing/Fashion]
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
@@ -246,31 +373,17 @@
 	- mane
 		> 鬃毛 |A growth of long hair on the neck of a horse, lion, or other mammal.| the horse was rushing about in the field, tossing its mane
 		> 長髮 |A long flowing hair| he had a mane of white hair
+	- gown
+		> 長禮服 |A long elegant dress worn on formal occasions.|
+		> |Be dressed in a gown.|
+		> 手術衣 |A protective garment worn in hospital, either by a staff member during surgery or by a patient.|
+		> 禮服/長袍 |A loose cloak indicating one's profession or status, worn by a lawyer, teacher, academic, or university student.|
+		> |The members of a university as distinct from the permanent residents of the university town.|
+	- parka 有頭套的毛皮外套
+	- trinket 廉價首飾 == A small ornament or item of jewellery that is of little value.
+	- chinos 斜紋棉布褲/寬鬆的棉質褲子
 
-[Music]
-	- the Beatle 披頭四樂團
-	- score
-		> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
-		> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
-		> |A rating or grade, such as a mark achieved in a test.|
-		> |Decide on the score to be awarded to (a competitor)| the judge must score each dog and handler against this standard
-		> |Be worth (a number of points)| a yes answer scores ten points
-		> |The state of affairs; the facts about the present situation.| What's wrong Simon? What's the score?
-		> |A group or set of twenty or about twenty.| a score of men lost their lives in the battle
-		> scores of |A large number of something.| he sent scores of enthusiastic letters to friends
-		> 總譜 |A written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.|
-		> 配樂 |The music composed for a film or play.| a film score
-		> |Orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.| the Quartet Suite was scored for flute, violin, viola da gamba, and continuo
-		> |A notch or line cut or scratched into a surface.| check the shaft for scratches and scores
-		> |Cut or scratch a notch or line on (a surface)| score the card until you cut through
-		> |Delete text by drawing a line through it.|
-	- tenor
-		> 男高音/次中音 |A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range.| 
-		> |An instrument, especially a saxophone, trombone, tuba, or viol, of the second or third lowest pitch in its family.|
-		> 大意/要旨 |The general meaning, sense, or content of something.| the general tenor of the debate
-		> 一般趨向/進程 |A settled or prevailing character or direction, especially the course of a person's life or habits.| the even tenor of life in the kitchen was disrupted the following day
-		> 抄本 |The actual wording of a document.|
-		> |The time that must elapse before a bill of exchange or promissory note becomes due for payment.|
+
 
 [Art]
 	- the Mona Lisa
@@ -280,6 +393,7 @@
 
 [Religion]
 	- priesthood == The office or position of a priest.
+	- deacon (n)助祭/執事
 	- clergy 牧師
 	- clergymen == A male priest, minister, or religious leader
 	- vigil
@@ -426,6 +540,23 @@
 [Structure]
 	- balcony 陽台
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
+	- rafter 椽 == A beam forming part of the internal framework of a roof.
+	- plumbing
+		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
+		> 排泄/生殖系統 |Used as a humorous euphemism for the excretory, urinary, or reproductive systems.|
+	- tenement /ˈtɛnəm(ə)nt/ 廉價公寓/租房, 所有地
+	- dome
+		> 圓屋頂 |A rounded vault forming the roof of a building or structure, typically with a circular base.| 
+		> 圓頂體育場 |A sports stadium with a domed roof.|
+		> |A thing shaped like a dome.|
+		> |A natural vault or canopy, such as that of the sky or trees.|
+		> |A rounded uplifted landform or underground structure.|
+		> |The top of the head.|
+		> |A stately building.|
+		> 腫起 |(of stratified rock or a surface) become rounded in formation; swell.|
+	- windowsills 窗台
+	- sill 門檻/窗台
+
 [Sport]
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
@@ -436,6 +567,7 @@
 	- the Raptors 多倫多暴龍，是一支位於加拿大安大略省多倫多的職業NBA籃球隊
 	- the Dallas Mavericks 達拉斯獨行俠，是一支位於美國德克薩斯州達拉斯的美國職業籃球隊伍，中國大陸與臺灣過往常用譯名為「小牛」
 	- Milwaukee 密爾瓦基公鹿，是一支位於美國威斯康辛州密爾瓦基的NBA籃球隊
+	- Little League 少年棒球聯盟
 	- series lead 優勢領先
 	- dribble
 		> 滴下 |(of a liquid) fall slowly in drops or a thin stream.| rain dribbled down the window
@@ -456,3 +588,13 @@
 	- double-header
 		> 雙車頭火車 |a train pulled by two locomotives coupled together.|
 		> 連賽 |a sporting event in which two games or contests are played in succession at the same venue, typically between the same teams or players.|
+
+[Social]
+	- nonbinary == gender fluid == gender expansive 性別酷兒，為一群自我性別認同類型的統稱，用來指稱「不單純歸屬於」傳統上的男性或女性之性別特質之自我性別認同
+	- tranny
+		> 跨性別者/異裝癖 |A transvestite or transgender person.|
+		> 變速器 |The transmission in a motor vehicle.| I would rather repair and replace a clutch than a tranny
+		> 電晶體 |A transistor radio.| watching the match with the sound down and the tranny on
+	- faggot /ˈfaɡət/
+		> 同性戀 |A male homosexual.|
+		> 捆柴 |A bundle of sticks bound together as fuel.|

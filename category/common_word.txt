@@ -1,4 +1,6 @@
 [A]
+	- account for 佔 == to form the total of something
+		> Students account for the vast majority of our customers.
 	- address
 		> |to mark directions for delivery on| This letter is addressed to my mother.
 		> |to communicate directly| He addresses his thanks to his host
@@ -22,9 +24,9 @@
 	- all walk of life == different types of jobs and different levels of society
 		> Attendees came from all walks of life -- they were young and old, working and retired.
 	- add
-	- add up 
-		> |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people's health.
-		> |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
+	* add up 
+		> 漸增 |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people's health.
+		> 看似合理 |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn't add up.
 	- alongside
 		> |Close to the side of; next to.| she was sitting alongside him
 		> |Together and in cooperation with.| a care assistant was working alongside him
@@ -78,6 +80,10 @@
 		> |Endure (an ordeal or difficulty)| she bore the pain stoically
 		> |Give birth to/produce| she bore six daughters
 		> |Turn and proceed in a specified direction.| bear left and follow the old road
+	- beat
+	- beat up 
+		> |to hit or kick the person many times.| The government supporters are beating up anyone they suspect of favouring the demonstrators.
+		> |worry about something a lot or blame yourself for it.| I don't beat myself up. I don't deal with things I can't handle.
 	- burn -> burnt -> burnt
 	- bear down == to put more effort into doing something 
 		> Vast, systemic challenges tend to short-circuit our primate brains. So we go on, as the grim future bears down.
@@ -111,6 +117,9 @@
 	- back-to-back
 		> 一個接一個的 |happening one after another, without interruption| Hamilton is celebrating back-to-back victories in the German and British Grands Prix.
 		> 背靠背的 |close together and facing in opposite directions|  back-to-back terraced houses
+	- bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
+	- bottom out 到達最低點/不再惡化 == to have reached the lowest point in a continuously changing situation and to be about to improve
+		> Economists think that the recession is bottoming out.
 [C]
 	- cadence
 		> 抑揚頓挫 |A modulation or inflection of the voice.| the measured cadences that he employed in the Senate
@@ -125,8 +134,11 @@
 		> |coat of arms| 紋章
 		> |to cover with a layer| He coated the wall with paint.
 	- come 
-	- come across == to find something by chance
-		> then she came across a scientific study that suggests a correlation between tree growth and galactic cosmic radiation
+	- come across
+		> |to behave in a way that makes people believe that you have a particular characteristic| He comes across as a bit of a bore in interview.
+		> |If an idea or emotion comes across in writing, film, music, or when someone is speaking, it is expressed clearly and people notice it| What comes across in his later poetry is a great sense of sadness.
+		> |to give other people a certain feeling or opinion| We don't mean to be vague, but I know that's how it comes across.
+		> |to find something by chance| then she came across a scientific study that suggests a correlation between tree growth and galactic cosmic radiation
 	- come by
 		> |Call casually and briefly as a visitor| his friends came by
 		> |Manage to acquire or obtain (something).| He had been playing the flute for some time when he realized that high quality flute repairmen were hard to come by
@@ -141,6 +153,12 @@
 		>> |to stop taking something such as a medicine or drug| She’d been advised to come off the medication immediately.
 		>> |to fall off something that you are riding| She’d come off her new bike and hurt her knee.
 		>> |to stop being fixed to something| I pulled at the drawer, and the handle came off.
+	- come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
+		> it came down to her word against Guy's
+	- carry
+	- carry out == to do a particular piece of work, research etc
+		> The building work was carried out by a local contractor.
+		> The research, which was carried out by Duke University, studied runners taking part in the Race Across the USA
 	- compound
 		> 混合物 |A thing that is composed of two or more separate elements; a mixture.| the air smelled like a compound of diesel and petrol fumes
 		> 組成 |Make up (a composite whole); constitute.| a dialect compounded of Spanish and Dutch
@@ -190,6 +208,14 @@
 	- call
 	- call for 需要 == demand == require
 		> Because mental illnesses can take so many forms, however, each one calls for a separate explanation of its development.
+	- check
+	- check on
+		> |to make sure that someone or something is safe, is in a satisfactory state, or is doing what they should be doing| Honey, can you go upstairs and check on the kids?
+		> |to try to find out if something is true or correct| He wanted to check on the girl’s story.
+	- crop up 突然出現 == to happen or appear unexpectedly
+		> Her name keeps cropping up in conversation.
+	- crack down 著手處理 == to start dealing with bad or illegal behaviour in a more severe way
+		> The library is cracking down on people who lose their books.
 [D]
 	- date
 	- date back to == to have been made in or to have come into being in (a certain time in the past)
@@ -222,11 +248,31 @@
 		> |clothing more conventionally worn by the opposite sex, especially women's clothes worn by a man.| a fashion show, complete with men in drag
 		> |A street or road.| ‘the main drag is wide but there are few vehicles
 		> |Influence over other people.| ‘they had the education but they didn't have the drag
+	- drag sb down == if an unpleasant situation drags someone down, it makes them feel unhappy or ill
+		> All that stress at work had begun to drag him down.
 	- die Ving == die due to V
 	- die of == to die because of (something)
 	- drop out
 		> 退出 |cease to participate in a race or competition.|
 		> 退學 |abandon a course of study.| she had dropped out of college
+	
+	- descend on/upon
+		> 突襲 |Make a sudden attack on.| the militia descended on Rye
+		> 突訪 |Make an unexpected visit to.| groups of visiting supporters descended on a local pub
+
+	- dub
+		> 給...取別稱 |Give an unofficial name or nickname to.| the media dubbed anorexia ‘the slimming disease
+		> 封..為爵士 |Make (someone) a knight by the ritual touching of the shoulder with a sword.| he should be dubbed Sir Hubert
+		> |Dress (an artificial fishing fly) with strands of fur or wool or with other material.| prewaxed thread has dramatically eased the process of dubbing
+		> 給皮革塗油 |Smear (leather) with grease.| 
+		> |Provide (a film) with a soundtrack in a different language from the original.| the film will be dubbed into French and Flemish
+		> 配音 |Add (sound effects or music) to a film or recording.| background sound can be dubbed in at the editing stage
+		> 複製 |Make a copy of (a sound or video recording).|
+		> |An instance of dubbing sound effects or music.|
+		> |Transfer (a recording) from one medium to another.|
+		> 混錄 |Combine (two or more sound recordings) into one composite soundtrack.|
+		> 沒經驗的人 |An inexperienced or unskilful person.|
+		> 貢獻 |Pay up; make a contribution.|
 [E]
 	- -esque 似 == (forming adjectives) in the style of; resembling.
 
@@ -245,6 +291,8 @@
 	- establish
 	- establish oneself == stay or dwell
 		> Spain had established itself in Mexico, New Mexico, Arizona, and on the California coast
+	- edge away == to move cautiously away from someone or something.
+		> We edged away from the dirty man in the ragged clothes. As others saw the gun, they edged away.
 [F]
 	- fan -> fanned -> fanned
 		> 風扇 |An apparatus with rotating blades that creates a current of air for cooling or ventilation.| a couple of ceiling fans, lazily turning
@@ -313,6 +361,10 @@
 		conditions provides a frame for interpretation
 		> |A single complete picture in a series forming a cinema, television, or video film.| video footage slowed down to 20 frames a second
 		> 陷害 |Produce false evidence against (an innocent person) so that they appear guilty.| he claims he was framed
+	
+	- flash back == suddenly remember something
+		> Her mind flashed back to the day of their divorce.
+		> I flashed back to my own similarly uncomfortable experiences, when I was single and new to D.C.
 [G]
 	- great
 	- get -> got -> gotten
@@ -320,14 +372,20 @@
 		> She's been getting into yoga recently - she does three classes a week.
 	- get into somebody == used to say that somebody has suddenly started to behave in a strange or different way
 		> “We don’t perceive the difference between a leopard and a scary Slack message,” Galligan said. “You get enough of that into somebody and it becomes mentally problematic.”
+	- get (your) kicks from 獲得快感 == to do something, especially something bad, because it gives you a feeling of excitement
+		> He got his kicks from inflicting pain on others.
 	- gloss over == to avoid considering something, such as an embarrassing mistake, to make it seem not important, and to quickly continue talking about something else
 		> She glossed over the company's declining profits.
 		> The documentary glossed over some important issues.
 	- geeky 社會脫節的 == Unfashionable and socially inept
 [H]
+	- hang -> hung -> hung
 	- hang-up 焦慮/煩惱 == a permanent and unreasonable feeling of anxiety about a particular feature of yourself
 		> He's one of these men who went bald very young and has a terrible hang-up about it.
 		> This is the hang-up of Gillibrand’s campaign
+	- hang up 掛斷電話 == to end a phone conversation
+		> He started shouting so I hung up (on him).
+		> Let me speak to Melanie before you hang up.
 	- hear -> heard -> heard
 	- hold
 	- hold up == remain strong or vigorous.
@@ -388,6 +446,9 @@
 	- lose -> lost -> lost
 	- lose out 處於劣勢 == to not get a benefit that someone else is getting
 		> The proposal is likely to be opposed by the four countries which could lose out.
+	- lock
+	- lock up == to lock all the doors and windows of a building so that no one can get in
+		> I locked up and went to bed
 
 [M]
 	- make up
@@ -417,14 +478,28 @@
 		> |An area or arena in which commercial dealings are conducted.| the UK market remained in recession’
 		> |A demand for a particular commodity or service.| there is a market for high-priced wine
 	- mediocre == Of only average quality; not very good.
+
+[N]
+	- nowhere
+		> 沒有任何地方地 |Not in or to any place; not anywhere.| plants and animals found nowhere else in the world
+		> 無處 |No place.| there was nowhere for her to sit
+		> |A place that is remote, uninteresting, or nondescript.| a stretch of road between nowhere and nowhere
+		> |Having no prospect of progress or success.| a nowhere job
+	- nowhere near 遠非 == Not nearly.
+		> he's nowhere near as popular as he used to be
 [O]
 	- occur
+	- occupy
+	- occupy sb with sth 使...忙於... == To keep oneself or someone else busy or distracted with some activity or thing.
+		> Dan's occupying the kids with a bug hunt in the back yard.
 	- or
 	- object
 	- order
 	- one-up == to get the better of; succeed in being a point, move, step, etc., ahead of (someone)
 		> They one-upped the competition
 		> Want to one-up them with your clever little story?
+	- opt-in 主動加入 == the fact of choosing to take part in an activity, arrangement, etc. rather than being forced to take part
+	- opt-out 主動選擇退出 == a situation in which some members of a group choose not to join or be involved in an activity
 [P]
 	- pan-handling == begging, sponging, spanging
 	- pick
@@ -524,6 +599,10 @@
 		> 表現出 |Embody or represent (something) in a faithful or appropriate way.| schools should reflect cultural differences
 		> reflect on/upon |Think deeply or carefully about.| he reflected with sadness on the unhappiness of his marriage
 	- rock a baby == move it backwards and forwards or from side to side in a regular way to help it to sleep
+	- root
+	- root out
+		> 找到並消除 |to find and remove (something or someone)| The mayor was determined to root out corruption in city government.
+		> 終於找到 |to find (something or someone) after searching for a long time| He finally rooted out the cause of the problem.
 
 [S]
 	- set
@@ -539,7 +618,9 @@
 	- set about == to start to do or deal with something
 		> I have no idea how to set about changing a tyre on a car.
 		> I tried to apologize, but I think I set about it the wrong way.
-
+	- set out == to start an activity with a particular aim
+		> She set out with the aim of becoming the youngest ever winner of the championship.
+		> They set out to discover a cure for cancer.
 	- stop
 	- stop Ving
 		> Death occurs when an organism stops functioning energetically enough to protect itself from these kinds of threats.
@@ -655,8 +736,32 @@
 		> 旋律/曲子 |The sound of a piece of music.| the distant strains of the brass band grew louder
 		> 種類 |A particular breed, stock, or variety of an animal or plant.|
 		> 傾向 |A particular tendency as part of a person's character.| there's a strain of Victorian rectitude in him
+	- staple
+		> 釘書針 |A piece of thin wire with two short right-angled end pieces which are driven by a stapler through sheets of paper to fasten them together.|
+		> 用釘書針固定 |Attach or secure with a staple or staples.|
+		> 主要元素 |A main or important element of something.| Greek legend was the staple of classical tragedy
+		> 主要產品 |A main item of trade or production.| rubber became the staple of the Malayan economy
+		> 主要的 |Main or important, especially in terms of consumption.| the staple foods of the poor
+		> 纖維 |The fibre of cotton or wool considered with regard to its length and degree of fineness.|
+		> 貿易中心 |A centre of trade, especially in a specified commodity.| ‘proposals were made for a wool staple at Pisa
+	- swap
+	- swap out 交換 == To replace or exchange someone or something with another person or thing.
+		> I think I just need to swap out the batteries for this to start working again.
+		> Di Franco hopes to swap out the insulin that he gets from the pharmacy for a supply made by de Kermadec and Anderson.
+	- session
+		> 開會/開庭 |A meeting of an official body, especially a legislature, council, or court of law, to conduct its business.|
+		> 學期 |The part of a year or of a day during which teaching takes place in a school or college.|
+		> |A period devoted to a particular activity.|
+		> |A period of recording music in a studio, especially by a session musician.|
+		> |A period of heavy or sustained drinking.|
+	- straight
+	- straight out of == similar in type to something
+		> The band’s sound is straight out of the 60s.
+	- sleepover 在朋友家過夜 == A night spent by children or young people at a friend's house.
+	- someone is sold == When someone are convinced of/by something.
+
 [T]
-	- tap
+	* tap
 		> 水龍頭 |A device by which a flow of liquid or gas from a pipe or container can be controlled.|
 		> 竊聽器 |A device connected to a telephone for listening secretly to someone's conversations.|
 		> |Connect a device to (a telephone) so that conversation can be listened to secretly.|
@@ -723,6 +828,18 @@
 	- tune
 	- tune out == stop listening or paying attention.
 		> So you need to be able to tune out the pain and deal with it later.
+	* tweak
+		> 擰 |Twist or pull (something) sharply.| he tweaked the boy's ear
+		> |A sharp twist or pull.| an affectionate tweak
+		> 調整 |Improve (a mechanism or system) by making fine adjustments to it.|
+		> |A fine adjustment to a mechanism or system.|
+		> 使焦慮 |Become or cause to become agitated or excited, typically from taking amphetamines or another stimulant.|
+
+[U]
+	- up-close
+		> |At very close range| he was able to experience glaciers calving up-close
+		> |Showing or allowing considerable detail| an up-close look at a panorama of products and services
+
 [V]
 	- Velcro 魔鬼氈
 	- vie -> vying 競爭 == Compete eagerly with someone in order to do or achieve something.
@@ -751,10 +868,25 @@
 		> |Strips of metal foil dispersed in the air to obstruct radar detection.|
 	- warn someone of sth
 		> Stick shakers are designed to warn pilots of an impending stall
-	++ well over == much more than 
-		> it takes a human infant well over a year to learn how to walk.
-		> Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
-
+	- work
+	+ work out
+		> 鍛鍊 |to exercise in order to improve the strength or appearance of your body| I try to work out twice a week.
+		> 算出結果 |to be the result of a calculation| These figures work out differently each time I add them.
+		> 運作 |to happen or develop in a particular way| How is the new monitoring procedure working out?
+	- wrench
+		> 猛扭/猛拉 |Pull or twist suddenly and violently.| Casey grabbed the gun and wrenched it from my hand
+		> |A sudden violent twist or pull.| with a wrench Tony wriggled free
+		> 扭傷 |Injure (a part of the body) as a result of a sudden twisting movement.| she slipped and wrenched her ankle
+		> 離別的痛苦 |A feeling of sadness or distress caused by one's own or another's departure.|
+		> 板手 |An adjustable tool like a spanner, used for gripping and turning nuts or bolts.|
+		> |Turn (something, especially a nut or bolt) with a wrench.|
+		> |A combination of a couple with a force along its axis.|
+	- whereas (conj)鑑於/相較之下 == In contrast or comparison with the fact that.
+		> you treat the matter lightly, whereas I myself was never more serious
+	- wear out
+		> |to make someone feel very tired| She was worn out from looking after her elderly mother.
+		> |to use something a lot so that it no longer works, or can no longer be used| The children have all worn out their shoes.
+		> |to make a hole or mark in something by using or rubbing it a lot| He’d long since worn out the knees in his old jeans.
 [Latin]
 	- bona fides
 		> 真誠 |A person's honesty and sincerity of intention.| he went to great lengths to establish his liberal bona fides

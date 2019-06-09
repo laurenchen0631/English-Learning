@@ -729,6 +729,7 @@
         * predecessor (n)前任/前輩, 原有事物
         - proceed (v)繼續進行/開始/開展, 發出/出自, 起訴
         - proceeds (n)收入
+        * proceedings (n)行動/行為, 訴訟, 議項/會議記錄
         - procession (n)行列/隊伍, 一連串/一系列/接連 = succession
         + recede (v)後退 = retreat, 逐漸消失 = abate = diminish = blur, 停止生長/禿頭
         - recess (v)休息 = repose (n)休息/休會, 凹處, 深處
@@ -902,7 +903,7 @@
         - incretion (n)內分泌 <-- in + (se)certion
 
     cre, cred 相信 = believe, confide, entrust
-        - accredit (v)認可/授權 = authorize
+        - accredit (v)相信, 委任/授權 = authorize, 歸功於 = attribute to
         +++ credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
         + credent (adj)相信的 --> credence (n)相信/可信性
         + credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
@@ -2281,7 +2282,7 @@
 
     fringe 邊緣
         - fringe (n)(地區)邊緣/周邊, 流蘇/穗子, 瀏海
-        - infringe (v)違反/侵害 = violate = trespass
+        *** infringe (v)違反 = violate, 侵佔/侵害 = trespass
         - befringe (v)飾以邊
 
     firm 堅定
@@ -4337,7 +4338,7 @@
         - projectile
         - projection
         - projector
-        + proliferate (v)激增, 繁殖
+        + proliferate (v)激增, 繁殖 --> proliferation (n)快速增加, 大量
         + prolific (adj)多產的/多育的/豐富的 = fertile = frutiful = generous
         + prolix (adj)囉唆的/冗長的 --> prolixity (n)囉唆 = verbosity <-- pro + lix 液體 = liquid
         - prologue
@@ -4466,7 +4467,7 @@
         - purchase (n)支點/槓桿, 緊抓/緊繫, 購買/所購之物 (v)購買, 贏得/獲得
         - purlieu (n)郊區, 常逗留之地 <-- pur + lieu 場所 = place
         - purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
-        + purport (v)意指, 聲稱/號稱 (n)意義/涵義/意圖 --> purported (adj)謠傳的/號稱的/傳說的 = reputed
+        + purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/號稱的/傳說的 = reputed
         - purpose (v)決定/決意 = resolve, 意圖 = intend (n)意圖/目的 = intention, 決心 = resolution = determination, 議題
         - pursue (v)追趕/追求/追蹤 = follow
 
@@ -5805,7 +5806,7 @@
     sent, sens, scent 感覺 = feel
         * assent (v)同意/贊成 = accede = accord = consent
         * consent (v)同意/許可
-        + consensus (n)意見一致/共識
+        + consensus (n)意見一致/共識 --> consensual (adj) 一致的/同意的
         * dissent (v)反對/不同意 = contradict = demur --> dissenter (n)反對者 = maverick
         - insensate (adj)無感覺的, 蠢笨的 = foolish
         + insensible (adj)昏迷的/不省人事的 = unconscious, 無感覺的/不知道的 = unaware = unresponsive, 無動於衷的/冷淡的
@@ -6819,6 +6820,7 @@
         + evanesce (v)逐漸消失 --> evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral, 難以察覺的 = imperceptible
         * devoid (adj)缺乏的 = lacking
         - evacuate (v)撤離, 使避難, 排便
+        - vacate (v)搬空, 放棄(職位), 取消/使無效 = annul
         - vacant (adj)空白的/空的/空缺的/空閒的, 茫然的/空虛的 = vague
         + vacuous (adj)空的 = empty = void, 茫然的/空洞的 = inane = stupid, 無所事事的 = purposeless = idle  --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間
         - vacuum (n)真空, 空白/空虛, 孤立狀態

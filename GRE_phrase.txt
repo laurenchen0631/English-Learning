@@ -302,7 +302,9 @@
 		3. 認為B出自A == B is attributed to A == A wrote, created or said B
 			> This, and the remaining frescoes, are not attributed to Giotto.
 			> A Madonna and Child attributed to Pietro Lorenzetti.
+	
 	- as well as == in addition to
+	- as to == with respect to == concerning
 	- as a rule == generally == usually
 		>  an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring
 	- at the opposite end of the spectrum == at the other end of the spectrum
@@ -318,6 +320,8 @@
 		> I'm feeling a little depressed at the moment, but I'm sure good times are just around the corner.
 	- and so forth == and so on 等等
 		> It involves a prodigious slavery of men to animals ... graziers, shepherds, slaughtermen, butchers, milkmaids and so forth
+	- along the way 在這個過程中/在這期間 == during the time that something is happening or that you are doing something
+		> I've been in this job for 30 years, and I've picked up a good deal of expertise along the way.
 [B]
 	+ be to 未來式
 		> |used for telling someone what to do| You are to stay here until I send for you
@@ -565,6 +569,8 @@
 		> “A royal person, historically, is not a private individual, but public property,” as Worsley puts it, “so any idea of privacy goes out of the window.”
 	- go out of one's way == to try very hard to do something, especially for someone else
 		> That sign was a tradition. People went out of their way to see it.
+	- give rise to == to cause something
+		> International support has given rise to a new optimism in the company.
 [H]
 	- hit a snag == Encounter a problem or obstacle.
 		> Before evolution hit a snag, and we reverted to slouching and staring at our phones, human beings walked with their eyes up, looking at things
@@ -599,6 +605,10 @@
 	- in a vacuum == separated from outside events or influences
 		> professional training cannot take place in a vacuum
 		> The group was operating in a vacuum, cut off from the rest of the world.
+	- in good hands == managed or cared for with great attention
+		> You’ll be in good hands with her – she’s a terrific lawyer.
+	- in the neighborhood of == approximately
+		> The album's now sold something in the neighborhood of 2 million copies.
 [J]
 	- jump the gun == to do something too soon, especially without thinking carefully about it 
 		>  As he watched investors dump tens or hundreds of millions at once into the esports organization du jour, Fields has become concerned they’re “jumping the gun.”
@@ -622,6 +632,12 @@
 		> |Very close to doing something or of having some imminent event happen, especially that which is bad or disastrous.| The company is still doing business, but ever since the recession hit, they have been teetering on the edge of closing down.
 		> |very anxious and about to become distraught; on the verge of becoming irrational.| After the horrible events of the last week, we are all on the edge.
 		> |In a precarious position.| 
+	- on the same page == in agreement
+		> everybody's on the same page for once
+		> To make sure each partner is on the same page, kinksters have to talk about sex in a way that vanilla people often don't
+	- on the go
+		> 忙碌的 |very busy| I've been on the go all day, and I'm really tired.
+		> |in the process of being produced| Did you know that she's got a new book on the go (= being written)
 	- of sorts == used to describe something that is not a typical or good example of something
 		> That’s all changed, for two reasons, both of which can be thought of as technological advancements of sorts
 	- off guard == Unprepared for a surprise or difficulty.
@@ -632,6 +648,8 @@
 	- out of the red == No longer having a debt owed to one or more other people, corporations, banks
 		> I'm hoping that a positive reception to our new product could help pull us out of the red for this financial year.
 		> Investors believe esports could be the next NBA or, optimistically, NFL, and they’ve poured hundreds of millions of dollars into realizing that vision, even while esports businesses are struggling to stay out of the red.
+	- out of reach == not able to be achieved
+		> Their goal is out of reach.
 
 [M]
 	- make up
@@ -688,6 +706,9 @@
 		> It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
 
 [W]
+	++ well over == much more than 
+		> it takes a human infant well over a year to learn how to walk.
+		> Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
 	- well into ==  far into something or far along in something.
 		> Until well into this century, the mentally ill were often targets of suspicion and even hostility.
 	- what/how/why/.. in the world 究竟/到底 == used to emphasize your surprise when asking a question
