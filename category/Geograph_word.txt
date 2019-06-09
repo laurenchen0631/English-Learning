@@ -15,6 +15,12 @@
 	- Gondwanaland 岡瓦那大陸
 	- Laurasia 勞拉西亞大陸
 	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
+	- Mediterranean climate 地中海型氣候
+
+[Race]
+	- African American 非裔美國人
+	- Latin American
+	- Cajun 卡郡人，主要居住在美國路易斯安那州的一個族群，他們主要由被流放的阿卡迪亞人組成
 
 [U.S POI]
 	- the United States
@@ -51,6 +57,11 @@
 	- Baltimore 巴爾的摩，美國馬里蘭州最大的城市，也是美國最大獨立城市和主要海港之一
 	- Durham, N.C. == Durham, North Carolina 德罕是一座位於美國北卡羅來納州德罕郡的城市，也是該郡的郡治所在地
 	- Philadelphia 費城，是美國賓夕法尼亞州人口最多、面積最大的都市
+	- Chicago 芝加哥位於美國中西部，屬伊利諾州
+	- Manhattan 曼哈頓，紐約市五個行政區之中最人口稠密的一個區
+	- Pittsburgh 匹茲堡，位於美國賓夕法尼亞州西南部
+	- Montgomery /məntˈɡʌməri/ 蒙哥馬利郡
+	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
 
 [U.S. State]
 	- Nevada
@@ -122,6 +133,10 @@
 	- Amazonian (adj)亞馬遜的, 亞馬遜女戰士般的
 	- Peru 秘魯
 	- Scandinavian (adj)斯堪地那維亞的 (n)斯堪地那維亞人 == Relating to Scandinavia
+	- Semitic 閃語族的/閃米特人的
+	- Creole /ˈkriːəʊl/ 克里奧爾人 == A person of mixed European and black descent, especially in the Caribbean.
+	- Sicily 西西里 --> Sicilian 
+
 
 [Worldwide POI]
 	- Vesuvius 維蘇威火山
@@ -131,6 +146,9 @@
 	- the Tigris River 底格里斯河，中東名河，與位於其西面的幼發拉底河共同界定美索不達米亞
 	- Alpine /ˈalpʌɪn/ 阿爾卑斯山
 	- Honolulu 檀香山，或稱火奴魯魯，為美國夏威夷州最大的城市暨首府。
+	- Moscow 莫斯科
+	- Buenos Aires 布宜諾斯艾利斯，是阿根廷的首都和最大城市
+	- the Middle East 中東
 
 [Ocean]
 	- the Pacific Ocean

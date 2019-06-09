@@ -50,6 +50,13 @@
 	- agent
 		> 物質 |A substance that brings about a chemical or physical effect or causes a chemical reaction.| here is an urgent need for new antimicrobial agents to combat infections
 		> 代理人 |A person who acts on behalf of another person or group.| ‘in the event of illness, a durable power of attorney enabled her nephew to act as her agent
+	- apart
+		> 相隔地 |(of two or more people or things) separated by a specified distance in time or space.| two stone gateposts some thirty feet apart
+		> 分離地 |No longer living together or close emotionally.| alcoholism had driven us apart
+		> 分開地 |To or on one side; at a distance from the main body.| Isabel stepped away from Joanna and stood apart
+		> 與眾不同地 |Used after a noun to indicate that someone or something has qualities which mark them out from other people or things.| wrestlers were a breed apart
+		> |Used to indicate that one is dismissing something from consideration or moving from one tone or topic to another.| Alaska apart, much of America's energy business concentrates on producing gas
+		> 散開地 |So as to be shattered; into pieces.| he leapt out of the car just before it was blown apart
 [B]
 	- but
 		> CONJUNCTION
@@ -64,6 +71,7 @@
 	- become of == (in questions) happen to.
 		> Whatever became of that parcel you sent? 你寄出的包裹怎麼樣了？
 		> And Mickey Adams - I wonder what became of him.  還有米基‧亞當斯——不知他後來怎麼樣？
+	- begin -> began -> begun
 	- beat
 	- beneath /bɪˈniːθ/
 	- breed -> bred -> bred 
@@ -409,6 +417,9 @@
 		> |To move something away from something else.| If everyone is buckled in, I'll head the car out.
 	- second half 下半 <--> first half 上半
 [I]
+	- ice up == become covered or blocked with ice.
+		> the wings iced over, forcing the pilot to dive
+		> Many of them died when their planes iced up or hit mountainsides.
 	- invest
 	- inwardly == within the mind.
 		> If the idea of sending in a resume and cover letter makes you inwardly (or outwardly) groan, you’re not alone. 
@@ -478,7 +489,7 @@
 		> |An area or arena in which commercial dealings are conducted.| the UK market remained in recession’
 		> |A demand for a particular commodity or service.| there is a market for high-priced wine
 	- mediocre == Of only average quality; not very good.
-
+	- mean -> meant -> meant
 [N]
 	- nowhere
 		> 沒有任何地方地 |Not in or to any place; not anywhere.| plants and animals found nowhere else in the world
@@ -500,7 +511,17 @@
 		> Want to one-up them with your clever little story?
 	- opt-in 主動加入 == the fact of choosing to take part in an activity, arrangement, etc. rather than being forced to take part
 	- opt-out 主動選擇退出 == a situation in which some members of a group choose not to join or be involved in an activity
+	- office
+		> 辦公室 |A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.| an office job
+		> 職位 |A position of authority or service, typically one of a public nature.| the office of chief constable
+		> 任期 |Tenure of an official position, especially that of a Minister of State or of the party forming the government.| a year ago, when the President took office
+		> 服務 |A service done for another or others.| rescued through the good offices of the Italian Ambassador, he was returned safely to England
+	- official
+		> ADJ 正式的 |Relating to an authority or public body and its activities and responsibilities.| the prime minister's official engagements
+		> ADJ 官員的 |Employed by an authority or public body in a position of authority.|
+		> 官員 |A person holding public office or having official duties, especially as a representative of an organization or government department.| a union official
 [P]
+	+ panic -> panicked -> panicked
 	- pan-handling == begging, sponging, spanging
 	- pick
 	- pick up == catch
@@ -560,7 +581,12 @@
 		> he was no longer privy to her innermost thoughts
 		> Several professionals interviewed by Kotaku privy to the financials of esports organizations say they do not know what their organizations’ long-term revenue plans are.
 	* predominately == largely == mainly == mostly
-
+	- pass
+	- pass for 被視為 == be accepted as == be considered
+		> "Symphonic jazz" and most of the other music that passed for jazz in the 1920's was not real jazz at all.
+	+ practically
+		> 幾乎 |Virtually; almost.| the strike lasted practically a fortnight
+		> 特定地 |In a practical manner.| He might win,’ pointed out Emmeline practically’
 [Q]
 	- qualify
 		> |Be entitled to a particular benefit or privilege by fulfilling a necessary condition| He qualifies as a genuine political refugee
@@ -603,6 +629,8 @@
 	- root out
 		> 找到並消除 |to find and remove (something or someone)| The mayor was determined to root out corruption in city government.
 		> 終於找到 |to find (something or someone) after searching for a long time| He finally rooted out the cause of the problem.
+	- revolve around 以…為中心/以…為主題 == to have someone or something as the main or most important interest or subject
+		> It still revolved around superstition, but of a mild variety, with quaint rituals indicating things such as whether a lover was being faithful or would become a future marriage partner.
 
 [S]
 	- set
@@ -759,7 +787,11 @@
 		> The band’s sound is straight out of the 60s.
 	- sleepover 在朋友家過夜 == A night spent by children or young people at a friend's house.
 	- someone is sold == When someone are convinced of/by something.
-
+	+ speech
+		> 說話能力 |The expression of or the ability to express thoughts and feelings by articulate sounds| he was born deaf and without the power of speech
+		> 說話方式/口音 |A person's style of speaking.| she wouldn't accept his correction of her 
+		> 演講 |A formal address or discourse delivered to an audience.| he gave a speech about the company
+		> 臺詞 |A sequence of lines written for one character in a play.|
 [T]
 	* tap
 		> 水龍頭 |A device by which a flow of liquid or gas from a pipe or container can be controlled.|
@@ -815,7 +847,8 @@
 		> |to leave the road that you are travelling along in order to go along another one that leads away from it| Turn off the road onto a dirt driveway.
 		> |to make someone feel bored or no longer interested in something| This sort of talk could turn a lot of voters off.
 		> |to stop paying attention| When people lose interest they just turn off.
-
+	- turn into == become
+		> Halloween, which had begun as a religious rite that included moonlit blood sacrifices, by the late 1880's had turned into a young people's holiday in the United States.
 	- think -> thought -> thought
 	- thought-out == thoroughly considered. 
 		> Ironically, for some, email has now become the place for well-thought-out communications while workplace software has been inundated by thoughtless meme and emoji sharing.

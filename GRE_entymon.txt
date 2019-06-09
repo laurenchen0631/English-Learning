@@ -421,7 +421,7 @@
         - transact --> transaction
 
     angur 預示/開始
-        * inaugurate (v)為……舉行就職典禮 = install, 開始/開創 = commence --> inaugural (adj)就職的, 開幕的 (n)就職演說
+        * inaugurate (v)為……舉行就職典禮 = install, 開始/開創 = commence --> /ɪˈnɔːɡjʊr(ə)l/ inaugural (adj)就職的, 開幕的 (n)就職演說
         + augur (n)占卜師 (v)占卜/預言 = divine --> augury (n)預言/徵兆 = divination
 
 [B]
@@ -898,6 +898,7 @@
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
         * excrete (v)排泄/分泌
         - /ˈsiːkrɪt/ secret (adj)祕密的 (n)秘密 <|> /sɪˈkriːt/ secrete
+        - /ˈsiːkrɪsi/ secrecy (n)保密
         ++ /sɪˈkriːt/ secrete (v)隱藏/藏匿 = conceal = hide, 分泌 --> secretion (n)分泌/分泌液 <|> secret
         - secretive (adj)隱隱藏藏的, 能分泌的/促進分泌的
         - incretion (n)內分泌 <-- in + (se)certion
@@ -3256,7 +3257,7 @@
         - deluge (n)大洪水, 暴雨
         - lave (v)洗浴/沐浴 = wash = bathe, （河流）慢慢沖刷
         - lavatory (n)廁所/盥洗室
-        + lavish (adj)浪費的 = prodigal = extravagant = wasteful, 豐富的 = profuse (v)大量給予/慷慨給予
+        + lavish (adj)慷慨的/浪費的 = prodigal = extravagant = wasteful, 豐富的 = profuse (v)大量給予/慷慨給予/揮霍
 
     lud, lude, lus 嘻笑/玩弄 = play
         + allude (v)間接提到/暗指/影射 = imply = insinuate --> allusive (ad)影射的/暗指的
@@ -3690,7 +3691,7 @@
         - modify (v)修改 = amend, 緩和 = moderate = qualify, 限制/限定 = qualify
         + modish (adj)時髦的 = fashionable = stylish = contemporary
         + modulate (v)調整/控制 = regulate
-        - monument (n)紀念碑, 歷史遺跡/遺址, 不朽的作品/偉業 --> monumental (adj)極大的, 紀念碑
+        * monument (n)紀念碑, 歷史遺跡/遺址, 不朽的作品/偉業 --> /mɒnjʊˈmɛnt(ə)l/ monumental (adj)極大的, 紀念碑的
 
     mon 警告/提醒 = remind, warn
         + admonish (v)警告/責備 = reprimand = berate = revile = censure, 勸告/忠告 = advise --> admonitory (adj)
@@ -4405,7 +4406,7 @@
             + perplex
             - perquisite 
             - persecute
-            + persevere (v)堅持不懈/不屈不撓 --> perseverance (n)堅持不懈 <-- per + severe 
+            + /pəːsɪˈvɪə/ persevere (v)堅持不懈/不屈不撓 <|> /prɪˈzəːv/ preserve --> perseverance (n)堅持不懈 <-- per + severe 
             - persiflage (n)挖苦/嘲弄 <-- per + sifl 吹哨 = whistle + age
             + persist
             - perspire
@@ -5296,7 +5297,7 @@
 
     rid, ris 笑 = laugh
         + deride (v)嘲弄/愚弄 = mock = gibe = taunt = flout --> derision (n)嘲笑 = ridicule = mockery --> derisive (adj)嘲笑的
-        + ridicule (n)嘲笑/揶揄/奚落 (v)嘲笑 --> ridiculous (adj)荒唐的/可笑的 = absurd = ludicrous
+        + ridicule (n/v)嘲笑/揶揄/奚落 --> ridiculous (adj)荒唐的/可笑的 = absurd = ludicrous
         - risible (adj)滑稽的/可笑的 = ludicrous
 
     rade, ras 摩擦 = scrape
@@ -5822,6 +5823,7 @@
         + sensuous (adj)感覺上的
         + sentient (adj)有知覺的, 意識到的/認識到的 = aware = concious
         + sentiment (n)多愁善感, 思想情感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
+        - sentimentality (n)多愁善感
         - sentinel (n)哨兵/衛兵 = sentry = lookout (v)警戒/守衛
         - sentry (n)步哨/哨兵, 站崗/看守
 
