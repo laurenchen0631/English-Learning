@@ -465,6 +465,7 @@
     + customary (adj)習慣的 = usual = habitual, 合乎習俗的/傳統的 = traditional = conventional
 
     * calamity (n)災難/災禍 = disaster = tragedy = adversity = cataclysm = catastrophe = mishap = scourge = woe
+    * canine (adj)犬的/狗的 (n)(人的)犬齒, 狗 <-- can 犬 = dog
     * caricature (n)諷刺畫/諷刺文 = burlesque, 漫畫, 誇張或滑稽的模仿 = travesty
     * carpenter (n)木工 (v)做木工
     * cast (v)扮演, 投射(光影), 扔/拋, 鑄造, 施魔法, 蛻皮 (n)全體演員, 鑄膜/石膏
@@ -507,12 +508,13 @@
     ^ cadet (n)軍校生/警校生
     ^ cannon (n)大砲/火砲 (v)開砲, 相撞
     ^ canyon (n)峽谷
+    ^ capillary (n)毛細管/毛細血管 <-- capill 毛髮 = hair
     ^ carcinoma (n)癌/腫瘤 --> carcinogen (n)致癌物
     ^ caterpillar (n)毛毛蟲
     ^ caulk (v)填塞/填隙 (n)填隙物
     ^ caveat (n)警告/告誡 = warning = caution
     ^ cavern (n)大洞穴 = cave
-    ^ cavil (v)挑毛病/吹毛求疵 = quibble = carp = chicane <|> civil
+    ^ cavil (v)挑毛病/吹毛求疵 = quibble = carp <|> civil
     ^ cavity (n)(牙齒的)洞/腔
     ^ cellar (n)地下室/酒窖 <|> cellular
     ^ cellular (adj)細胞的, 由小單位組成的
@@ -782,7 +784,7 @@
     * entire (adj)全部的, 完全的 (n)全部/整體 --> entirety (n)全部/整體
     * /ɛtʃ/ etch (v)蝕刻/蝕鏤, 深印/銘記 --> etching (n)蝕刻術, 蝕刻版畫
     *** eternal (adj)永久的/永恆的 = permanent
-    *** /ɪnˈθjuːzɪaz(ə)m/ enthusiasm (n)熱情 = zeal, 狂熱 --> /ɪnˌθjuːzɪˈastɪk/ enthusiastic (adj)熱情的 = zealous
+    *** /ɪnˈθjuːzɪaz(ə)m/ enthusiasm (n)熱情 = zeal, 狂熱 --> /ɪnˌθjuːzɪˈastɪk/ enthusiastic (adj)熱情的 = zealous = ardent = passionate = devoted
     * /ˈɛtɪkɛt/ etiquette (n)禮節/禮儀 = courtesy = amenity = decorum, (同業間的)規矩/成規 <-- etiqu 附著 = stick, attach + ette
     * external (adj)外面的, 外來的, 表面的 --> externalize (v)使...表面化 <-- exter 外面 = outside + nal
     * /ɪkˈstriːm/ extreme (adj)末端的, 極端的/極度的, 狂熱的/偏激的 (n)極端, 末端 --> extremist (n)極端主義者
@@ -2268,7 +2270,7 @@
     ++ quell (v)平息 = quash = suppress = subdue = repress = stifle, 消除/減輕[感覺] = quiet = pacify
     + querulous (adj)愛抱怨的/多牢騷的 = complaining = grumbling = fretful = grumpy <-- quer 抱怨 = complain + ulous
     + query (n/v)質問/詢問 = ask = inquire, 疑問 = question
-    +++ quibble (n/v)說模稜兩可的話= prevaricate, 吹毛求疵/挑剔 = carp = cavil = chicane (n)推託/遁辭 = subterfuge = quirk = quip, 挑剔/牢騷 <-- quip
+    +++ quibble (n/v)說模稜兩可的話= prevaricate, 吹毛求疵/挑剔 = carp = cavil (n)推託/遁辭 = subterfuge = quirk = quip, 挑剔/牢騷 <-- quip
     +++ quirk (n)特性/特點 = characteristic = peculiarity = idiosyncrasy = trait, 突然的轉變 = accident = vagary --> quirky (adj)多變的/古怪的
     ++ quixotic (adj)不切實際的/幻想的 = visionary = impractical = utopian, 反覆無常的 = capricious = implusive = unpredictable = skittish
     + quorum (n)法定人數

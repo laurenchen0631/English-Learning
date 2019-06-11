@@ -95,7 +95,7 @@
             ++ /əˈbɪs/ abyss (n)深淵, 險境 --> abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
             - anaerobic
             - analgesia
-            * anesthetic, anaesthetic (n)(手術用)麻醉劑 <-- an + aesthetic
+            * /ˌanɪsˈθɛtɪk/ anesthetic, anaesthetic (n)(手術用)麻醉劑 <-- an + aesthetic
             - anemia
             + anomaly (n)異常/異常事物 --> anomalous (adj)異常的/不正常的 = irregular = aberrant
             + anonymity --> anonymous 
@@ -104,7 +104,7 @@
             - anhydrous
             + apathy --> apathetic
             + aseptic
-            + atypical (adj)非典型的/異常的/不同尋常的
+            + /eɪˈtɪpɪkəl/ atypical (adj)非典型的/異常的/不同尋常的
 
         3. 離去 = off == ab
             + abscission
@@ -264,7 +264,7 @@
         - anima (n)生命/靈魂
         - animate (adj)活的 = alive (v)賦予生命, 使有活力, 激勵/鼓舞 
         - animus (n)敵意/憎恨 = enmity = animosity = wrath, 意圖/動機 = disposition = intention = motivation
-        - animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
+        * animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
         + equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium
         - inanimate (adj)無生命的
         + magnanimous (adj)寬宏大量的/大度的 = generous, 高尚的 = high-minded = noble = lofty 
@@ -416,7 +416,7 @@
         + enact (v)制定(法律), 扮演(角色)
         ++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 嚴格的 = strict = rigorous
         ++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)艱難的 = arduous
-        - exactitude (n)精確性/正確性
+        - exactitude (n)精確性/正確性 = fidelity
         - interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
         - transact --> transaction
 
@@ -735,7 +735,7 @@
         - recess (v)休息 = repose (n)休息/休會, 凹處, 深處
         - recession (n)後退/退回/撤回, 經濟的衰退, 凹處
         - recessive (adj)後退的, 隱性的
-        - /sɪˈsiːd/ secede (v)正式脫離/退出 --> secession (n)脫離/退出
+        * /sɪˈsiːd/ secede (v)正式脫離/退出 --> secession (n)脫離/退出
         *** succeed (v)成功/實現, 繼任/繼承 = accede, 隨後出現/接著發生
         * success (n)成功
         ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
@@ -872,6 +872,7 @@
 
     compl 滿 = fill 
         - accomplish (v)完成/實現 = attain
+        - complete --> completion
 
     cord 心 = hear, mind
         ++ accord (n/v)同意/協議/使一致 = agree = adapt (v)授予/給予 = bestow = grant --> accordingly (adv)照著
@@ -938,10 +939,18 @@
         + anachronism (n)時代錯誤/年代誤植/不合時代的人或物 --> anachronistic (adj)時代錯誤的
         - chronic (adj)慢性的/長期的
         - chronology (n)年代學, 年表
-        - synchronous (adj)同步的/同時的
-        - chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
+        - /ˈkrɒnɪk(ə)l/  chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
         - chronological (adj)按時間順序的
         - chronometer (n)精密計時器
+        - synchronous (adj)同步的/同時的
+
+    chrom, chrome 顏色 = color
+        - chromatic (adj)色彩的/顏色的, 五彩的, 半音的
+        - chromatron (n)彩電顯像管
+        - chromosome (n)染色體
+        - chromium (n)鉻
+        - fluorochrome (n)螢光染料
+        - monochrome (adj)單色的/黑白的 (n)單色畫/黑白相片 --> monochromatic (adj)單色的
 
     cryph, crypt 隱藏/秘密 = hide == scond
         - apocrypha (n)偽經/偽書 <--> canon
@@ -957,46 +966,38 @@
         - gerontocracy
         + plutocracy
         - technocrat
-        + /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
+        + theocracy
 
     caco 壞 = bad
-        + /kəˈkɒf(ə)ni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
+        + /kəˈkɒfəni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
     calc 石灰/石灰岩 = lime, limestone
-        - calcium (n)鈣
+        - /ˈkalsɪəm/  calcium (n)鈣
         - calculus (n)微積分
-        * calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge, 
+        * calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge <|> articulate
         + calculable (adj)可計算的/可預想到的, 可信賴的
 
-    calli 美麗的 = beautiful
-        - calligraphy (n)書法
-
     cand, cend, cense 白/發光 = shine, white
-        + candid (adj)率直的/直言不諱的 = frank = straightforward = ingenuous = explicit, 公正的 = honest = impartial, 自然的/不做作的 = informal = unposed
+        + candid (adj)率直的/直言不諱的 = frank = ingenuous = explicit, 公正的 = honest = impartial, 偷拍的
         + candor (n)坦白/率直
         - candle (n)蠟燭 = taper
         - candidate (n)候選人/申請人, 考生/應試者 --> candidacy (n)候選人的資格
         - incandescent (adj)熾熱的/白熱的, 光亮的/燦爛的 --> incandescence (n)白熾, 熾熱發光
-        + incendiary (adj)放火的/縱火的, 煽動的 = inflammatory
+        + incendiary (adj)放火的 = arsonous, 煽動的 = inflammatory (n)縱火犯, 燃燒彈, 煽動者
         - incense (n)焚香, 香味 (v)激怒
 
     chandel, chandle 蠟燭 = candle
-        - chandelier (n)枝形吊燈/枝形燭臺
-        - chandler (n)蠟燭商
-
-    can 犬 = dog
-        - canine (adj)犬的/狗的 (n)(人的)犬齒, 狗
-
-    capill 毛髮 = hair
-        - capillary (n)毛細管/毛細血管
+        - /ˌʃandəˈlɪə/  chandelier (n)枝形吊燈/枝形燭臺
+        - /ˈtʃɑːndlə/  chandler (n)蠟燭商
 
     capit 頭 = small head
-        + capitulate (v)投降/停止抵抗 = surrender
+        + /kəˈpɪtjʊleɪt/  capitulate (v)投降/停止抵抗 = surrender = yield
         - capitulum (n)骨的頭部
-        + /ˌriːkəˈpɪtjʊleɪt/ recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
+        + recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
 
     carbo 碳
         - carbohydrate (n)碳水化合物
+        - carbon (n)炭/碳纖維/碳化合物
 
     card, cardio 心臟的 = heart
         + cardinal (adj)最重要的 = chief = foremost
@@ -1008,26 +1009,23 @@
         - carnage (n)大屠殺 = massacre
         - reincarnate (v)轉世投胎, 以不同的形式出現
         + incarnate (adj)化身的/體現的/擬人化的/典型的 = personified
-        + incarnadine (adj)粉紅色的/肉色的 (v)染紅
+        + /ɪnˈkɑːnədʌɪn/  incarnadine (adj)粉紅色的/肉色的 (v)染紅
         - carrion (n)腐肉
 
     carp, cerpt 挑選 = pluck
-        + carp (v)挑剔/吹毛求疵 = quibble = cavil = chicane --> carping (adj)吹毛求疵的/挑毛病的 = cantankerous = censorious = faultfinding
-        + carpet (n)地毯, 一層 (v)在…上鋪地毯, 訓斥/責駡/呵斥 = criticize = censure = chide = chastise
+        + carp (v)挑剔/吹毛求疵 = quibble = cavil (n)鯉魚 --> carping (adj)吹毛求疵的/挑毛病的 = cantankerous = censorious = faultfinding
+        + carpet (n)地毯, 一層 (v)在…上鋪地毯
         - excerpt (n)摘錄/節錄/片斷
 
     carto 紙/圖 = sheet
         + cartography (n)製圖學 --> cartographer (n)地圖繪製者
 
     cata 向下 = down, against, back
-        + cataclysm 
+        + /ˈkatəˌklɪz(ə)m/ cataclysm (n)大災難/大變動 = catastrophe = upheaval <-- cata + clysm 洗 = wash == lut 
         - catastrophe
         - catacomb (n)地下墓穴
         - catalog (n)目錄
         + catalyst
-
-    clysm 洗 = wash == lut
-        + cataclysm (n)大災難/大變動 = catastrophe = upheaval
     
     cathar 清潔 = cleanse, pure
         - catharsis (n)情感宣洩/精神淨化
@@ -1099,13 +1097,6 @@
         - choreography (n)編舞/舞蹈編排/舞蹈設計
         - chorus (n)合唱曲, 合唱團, 歌舞隊, 副歌, 異口同聲 (v)齊聲說/異口同聲地說
     
-    chrom 顏色 = color
-        - chromatic (adj)色彩的/顏色的, 五彩的, 半音的
-        - chromatron (n)彩電顯像管
-        - chromosome (n)染色體
-        - fluorochrome (n)螢光染料
-        - monochrome (adj)單色的/黑白的 (n)單色畫/黑白相片 --> monochromatic (adj)單色的
-
     chrys, chryso 金黃色 = gold
         - chrysanthemum (n)
         - chrysalis (n)蛹 <|> caterpillar
@@ -2472,7 +2463,7 @@
         - anagram (n)錯別字
         - autobigraphy (n)自傳
         - bibliography
-        - calligraphy
+        - calligraphy (n)書法 <-- calli 美麗的 = beautiful + graphy
         - cryptogram
         - demographic
         - diagram
@@ -3363,7 +3354,7 @@
     limin, lime 門檻 = threshold
         + eliminate (v)消除/消滅, 淘汰 --> elimination (n)消滅, 淘汰
         * preliminary (adj)初步的 (n)開端, 初試
-        + sublime (adj)崇高的/極好的/極美的, 極大/極強的, (n)絕妙 (v)(固體)昇華(氣體)
+        + sublime (adj)崇高的/極好的/極美的, 極大/極強 (n)絕妙 (v)(固體)昇華(氣體)
         - subliminal (adj)潛意識的/下意識的
 
     lign 木頭 = line
@@ -5075,7 +5066,7 @@
             - realign (v)重新組合/重新排列/重新結盟 <-- re + align
             + reassess (v)再評價/重新考慮 <-- re + assess
             - rebate
-            + /rɪˈkalsɪtr(ə)nt/ recalcitrant (adj)頑抗的/不聽話的 <-- re + calcitr 踢 = kick + ant
+            + /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/不聽話的 <-- re + calcitr 踢 = kick + ant
             + recapitulate
             - recast (v)重鑄, 更換演員 <-- re + cast
             - recite --> recittal
@@ -6352,7 +6343,7 @@
     tum, turg 腫脹 = swell
         + contumacious (adj)不服從的 = disobedient = rebellious = pertainacious = wayward <--> compliant, (尤指對法庭命令)抗拒的
         ++ tumid (adj)腫起的/腫脹的 = swollen = distended, 隆起的 = protuberant = bulging, 誇大的 = bombastic = pompous = tumid = turgid
-        ++ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil, 心煩意亂 --> tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
+        ++ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil, 心煩意亂 --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
         ++ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
 
     terminm, term 邊界/終止 = boundary, limit, end == fin
@@ -6433,6 +6424,12 @@
         + tautology (n)贅述, 重複/同義反覆
         - tautomer (n)互變體 --> tautomeric (adj)
         - tautonym (n)重名/屬種同名
+
+    theo, the 神 = God
+        + /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
+        - theology (n)神學
+        - theism 
+        - /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> desim
 
 [U]
     un 不/相反/移除/剝奪 = not, removal, deprivation
