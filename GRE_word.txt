@@ -510,7 +510,9 @@
     ^ canyon (n)峽谷
     ^ capillary (n)毛細管/毛細血管 <-- capill 毛髮 = hair
     ^ carcinoma (n)癌/腫瘤 --> carcinogen (n)致癌物
+    ^ castrate (v)閹割 (n)被閹割的人或動物 <-- castr 閹割 = geld
     ^ caterpillar (n)毛毛蟲
+    ^ catharsis (n)情感宣洩/精神淨化 <-- cathar 清潔 = cleanse, pure
     ^ caulk (v)填塞/填隙 (n)填隙物
     ^ caveat (n)警告/告誡 = warning = caution
     ^ cavern (n)大洞穴 = cave
@@ -881,7 +883,7 @@
     + ford (n)淺灘/可涉水而過之處 (v)涉水而過
     + formidable (adj)可怕的 = menacing = threatening = surly, 令人生畏的 = intimidating, 強大的/強力的 = forceful = powerful <-- formid 恐懼 = fear + able
     ++ foster (v)培養/促進 = further = encourage, 撫養 = raise = rear
-    ++ founder (v)（船）浸水而沉沒 = sink = fail, (計畫)失敗/崩潰 = collapse = fail utterly (n)創立者
+    ++ founder (v)（船）浸水而沉沒 = sink = fail, (計畫)失敗/崩潰 = collapse = fail utterly (n)創立者 <|> found
     + /ˈfrā-kəs/ fracas (n)喧嚷/吵鬧 = brawl <-- fra == among + cas == break
     + frenetic (adj)狂亂的/發狂的 = frantic = frenzied
     ++ frequent (V)時常出入 (adj)時常發生的/頻繁的 --> frequency (n)頻率
@@ -2994,6 +2996,7 @@
     + /ˈtɪr(ə)ni/ tyranny (n)暴政/專制統治, 暴行 --> /ˈtʌɪr(ə)nt/ tyrant (n)暴君
     + /ˈtʌɪrəʊ/ tyro, tiro (n)新手 = beginner = neophyte = novice = fledgling
 
+    * /təˈbuː/ taboo (n)禁忌/忌諱 (adj)禁忌的/禁止的 (v)把...列為禁忌/禁止
     * tactless (adj)不機智的/笨拙的/無策略的 = gauche
     * taint (v)污染/腐化 = corrupt, 玷污 = sully = stain = tarnish = besmirch = smear (n)汙染, 感染, 玷汙/汙點
     * talkative (adj)健談的 = loquacious = voluble
@@ -3023,7 +3026,6 @@
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
 
     ^ table (v)擱置/不加考慮, 放在桌上 (n)桌子, 食物/菜餚, 表/目錄
-    ^ taboo (adj)忌諱的 (n)(宗教或社會習俗方面的)禁忌/忌諱
     ^ tack (n)大頭釘/圖釘, 方針, 黏性/黏著力 (v)用平頭釘釘, 附加/增補, 搶風轉變航向, 改變方針
     ^ tacky (adj)發黏的 --> tackiness (n)膠黏性
     ^ tackle (v)處理 (n)滑車

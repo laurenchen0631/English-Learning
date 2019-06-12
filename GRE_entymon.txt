@@ -360,7 +360,8 @@
 
     art, arti 技巧
         ++ artless (adj)粗俗的, 自然的/直率的/單純的 = guileless = natural = ingenuous = naive --> artlessness
-        + artifact (n)人工製品 --> artifacts (n)史前古物 --> artificial (adj)人造的, 假的
+        + artifact (n)人工製品 --> artifacts (n)史前古物
+        + artificial (adj)人造的, 假的
         - artifice (n)巧技, 詭計 = contrivance = finesse = ruse
         *** article (n)文章, 物品/物件, 商品 = commodity, 條款
         ** artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
@@ -375,6 +376,7 @@
         - astrolabe (n)星盤
         - astrology (n)占星學
         - astronomy (n)天文學 --> astronomical (adj)天文學的, 龐大的 = colossal
+        - astronaut (n)太空人
         +++ disaster (n)災難 --> disastrous (adj)災難性的 = ruinous = very unfortunate = calamitous
 
     auct, aug, aux 提高/增加 = increase
@@ -489,18 +491,18 @@
         - bellicose (adj)好鬥的/好戰的 = combative
         + belligerent (adj)交戰的, 好鬥的/敵對的 = truculent = bellicose = quarrelsome = aggressively hostile --> belligerence (n)交戰, 好戰性/鬥爭性
         - rebel (v)反叛/反抗 (n)造反者/反抗者
-        - rebellion (n)造反/叛亂/反抗 --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
+        - /rɪˈbɛljən/ rebellion (n)造反/叛亂/反抗 = insurrection --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
 
     biblio 書 = booke
         - bibliography (n)參考書目/文獻目錄
-        - /ˈbɪblɪə(ʊ)fʌɪl/  bibliophile (n)愛書者/藏書者 = bookworm
+        - /ˈbɪblɪə(ʊ)fʌɪl/ bibliophile (n)愛書者/藏書者 = bookworm
 
     blanc, blea 白 = white, pale
         - blanch (v)使(植物)變白, 使(臉色)蒼白 = appall, 川燙
         - bleach (v)漂白/使褪色 (n)漂白劑
 
     bore 厭煩
-        + bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑
+        + bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑 <|> pore
         - boredom (n)厭煩/厭倦
 
     brav 勇敢 = brave
@@ -711,6 +713,7 @@
             + counterfeit
 
     cede, cess, ceed 走/放棄 = go, yield, withdraw == ambul == bat == journ == trus == gress == it
+        + antecede
         + accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
         - access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
         + accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
@@ -741,12 +744,12 @@
         ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
 
     cur, curr, cor, corr, curs, cour 跑 = run
-        - /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
+        ** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
         - corral (n)(牛、馬等)畜欄/圍欄 (v)把（馬、牛）趕進畜欄/把（一群人）集中起來
         - /kəˈrɪkjʊləm/ curriculum (n)課程
         + cursory (adj)倉促的/匆忙的 = hasty = superficial
         - cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
-        - course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
+        *** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
         * discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
         + discursive (adj)不著邊際的/散漫的 = digressive = rambling, 推論的
         - excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
@@ -782,7 +785,7 @@
         - deception (n)欺騙/欺詐
         + deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
         - deciduous (adj)落葉性的, 脫落的
-        ++ /dɪˈsʌɪpəl/  disciple (n)信徒/弟子/擁護者 --> discipline (n)紀律/約束, 訓練/修養, 學科 (v)懲罰, 訓練/教導
+        ++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者 --> discipline (n)紀律/約束, 訓練/修養, 學科 (v)懲罰, 訓練/教導
         * disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
         * emancipate
         +++ except (v/adv/prep)除外/不計 --> exception (n)例外, 抗辯/反對 = objection = demurral
@@ -863,7 +866,7 @@
 
     commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
         - accommodate (v)使一致 = adjust = adapt, 提供住宿/提供/借錢 --> accommodating (adj)樂於助人的 = benevolent
-        + commodity (n)日用品, 商品
+        + commodity (n)日用品, 商品 = ware
         - commodious (adj)寬敞的
 
     company 陪伴
@@ -917,7 +920,7 @@
     
     cumul 堆積 = heap
         * accumulate (v)積累 = accrue <--> dissipate
-        - cumulatuve (adj)累積的/漸增的
+        - cumulative (adj)累積的/漸增的
         - cumulus (n)積雲
 
     cuse 理由
@@ -939,8 +942,8 @@
         + anachronism (n)時代錯誤/年代誤植/不合時代的人或物 --> anachronistic (adj)時代錯誤的
         - chronic (adj)慢性的/長期的
         - chronology (n)年代學, 年表
-        - /ˈkrɒnɪk(ə)l/  chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
         - chronological (adj)按時間順序的
+        - /ˈkrɒnɪk(ə)l/  chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
         - chronometer (n)精密計時器
         - synchronous (adj)同步的/同時的
 
@@ -987,8 +990,8 @@
         - incense (n)焚香, 香味 (v)激怒
 
     chandel, chandle 蠟燭 = candle
-        - /ˌʃandəˈlɪə/  chandelier (n)枝形吊燈/枝形燭臺
-        - /ˈtʃɑːndlə/  chandler (n)蠟燭商
+        - /ˌʃandəˈlɪə/ chandelier (n)枝形吊燈/枝形燭臺
+        - /ˈtʃɑːndlə/ chandler (n)蠟燭商
 
     capit 頭 = small head
         + /kəˈpɪtjʊleɪt/  capitulate (v)投降/停止抵抗 = surrender = yield
@@ -1009,7 +1012,7 @@
         - carnage (n)大屠殺 = massacre
         - reincarnate (v)轉世投胎, 以不同的形式出現
         + incarnate (adj)化身的/體現的/擬人化的/典型的 = personified
-        + /ɪnˈkɑːnədʌɪn/  incarnadine (adj)粉紅色的/肉色的 (v)染紅
+        + /ɪnˈkɑːnədʌɪn/ incarnadine (adj)粉紅色的/肉色的 (v)染紅
         - carrion (n)腐肉
 
     carp, cerpt 挑選 = pluck
@@ -1027,43 +1030,37 @@
         - catalog (n)目錄
         + catalyst
     
-    cathar 清潔 = cleanse, pure
-        - catharsis (n)情感宣洩/精神淨化
-
     caus, caust 燒灼/火 = burn == ard = bust = flagr
         + caustic (adj)腐蝕性的 = corrosive, 刻薄的/尖刻的/挖苦的 = pungent = acerbic = acidulous = astringent = acrimonious = mordant = sarcastic = trenchant
         - cauterize (v)(為給傷口止血或防止感染而)燒灼
         - holocaust (n)大毀滅/浩劫, 大屠殺 = massacre <-- holo 全部 = whole, entire + caust
 
     cast, chast 潔淨 = pure
-        + caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
+        + /kɑːst/ caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
         + castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
         - chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
-        + chasten (v)懲戒/磨煉, 抑制 = refrain = subdue <-- chaste
-        ++ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
-
-    castr 閹割 = geld
-        ^ castrate (v)閹割
+        + chasten (v)懲戒/磨煉
+        ++ /tʃaˈstʌɪz/  chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
     
     celebr 有名的 = repeated, famous
         + celebrate (v)慶祝/祝賀, 讚揚/讚美, 主持(宗教儀式)
         + celebrated (adj)有名的/知名的 = famous = renowned
         - celebrity (n)名聲/名氣/名望 = renown, (娛樂界的)名人/明星
 
+    cerebr 腦 = brain
+        - /ˈsɛrɪbr(ə)l/  cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
+        - cerebrum (n)大腦
+        - cerebration (n)用腦, 思考/思考過程
+
     celest 天空 = heaven, sky
-        + celestial (adj)天體的/天空的, 精妙的/極佳的 = sublime
+        + /sɪˈlɛstɪəl/ celestial (adj)天體的/天空的, 精妙的/極佳的 = sublime
         - celeste (n/adj)天藍色
     
     cens 評估 = assess <-- censor
-        * censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
-        + censorious (adj)吹毛求疵的 = faultfinding = carping = captious = particular
-        + censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = stricture = tax = upbraid
-        - census (n)人口普查, (官方的)調查/統計
-    
-    cerebr 腦 = brain
-        - cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
-        - cerebrum (n)大腦
-        - cerebration (n)用腦, 思考/思考過程
+        * /ˈsɛnsə/ censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
+        + /sɛnˈsɔːrɪəs/ censorious (adj)好批評的
+        + /ˈsɛnʃə/  censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = upbraid
+        - census (n)人口普查, (官方的)調查/統計 = poll
 
     cert 搞清 = sure, certain
         + certitude (n)確定無疑/確信 = certainty = confident (adj) = ascertain (v)
@@ -1071,7 +1068,7 @@
         - certificate (n)證書
         + ascertain (v)弄清/確定/查明, 確信
         * concert (v)商議/使協調 (n)一致/和諧, 音樂會
-        * disconcert (v)使焦慮/使不安 = discomfit = perturb = ruffle = abash = confuse = rattle
+        * disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
     
     chival, caval 騎馬 = horse
         - cavalier (n)騎士 = knight = horseman (adj)輕視的/傲慢的 = haughty = disdainful = supercilious, 失禮的 = unceremonious = offhand
@@ -1570,7 +1567,7 @@
         - indicate (v)指示/指出/表明, 象徵/暗示
         + indict (v)起訴/控訴 = accuse = inculpate, 批評 = castigate = criticize = chastise
         + interdict (v)禁止 = prohibit = forbid, 切斷補給
-        + malediction (n)壞話/詛咒 = curse <--> benediction
+        + malediction (n)壞話/詛咒 = curse = imprecation <--> benediction
         + valedictory (adj)離別的/告別的 --> valediction (n)告別演說/告別詞 <-- vale 告別 = farewell + dict + ory
         - verdict
 
@@ -3050,7 +3047,7 @@
             + introspect --> introspective
             + introvert
             + inundate
-            + inure (v)使習慣 --> inured (adj)習慣的 = accustomed = habituated <-- in + ure 工作 = work
+            + /ɪˈnjʊə/ inure (v)使習慣 --> inured (adj)習慣的 = accustomed = habituated <-- in + ure 工作 = work
             - invade
             + invective
             + inveigh
@@ -3354,7 +3351,7 @@
     limin, lime 門檻 = threshold
         + eliminate (v)消除/消滅, 淘汰 --> elimination (n)消滅, 淘汰
         * preliminary (adj)初步的 (n)開端, 初試
-        + sublime (adj)崇高的/極好的/極美的, 極大/極強 (n)絕妙 (v)(固體)昇華(氣體)
+        + sublime (adj)崇高的/極好的/極美的, 極大的/極強的 (n)絕妙 (v)(固體)昇華(氣體)
         - subliminal (adj)潛意識的/下意識的
 
     lign 木頭 = line
@@ -3504,7 +3501,7 @@
         - neolithic
 
     lachrym 眼淚 = tear
-        + lachrymose (adj)易落淚的, 催淚的/悲傷的 = tearful = mournful = sorrowful = sad = dreary = rueful
+        + /ˈlakrɪməʊs/ lachrymose (adj)易落淚的, 催淚的/悲傷的 = tearful = mournful = sorrowful = sad = dreary = rueful
         - lachrymal (adj)淚的/流淚的
         - lachrymation (n)流淚
         - lachrymator (n)催淚瓦斯
@@ -4731,7 +4728,7 @@
         - inappreciable (adj)微不足道的
         - deprecate (v)反對, 輕視/貶低 = belittle = contempt = scorn = denigrate
         - depreciate (v)輕視 = deprecate = belittle = disparage, 貶值 = depress, 詆毀 = slur = calumniate = disparage = denigrate
-        + imprecate (v)詛咒 --> imprecation (n)詛咒 = curse = damnation, 咒語
+        + imprecate (v)詛咒 --> imprecation (n)詛咒 = curse = damnation = malediction, 咒語
 
     prehend, prent, pregn 抓住 = seize, grasp
         ** apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = understand = comprehend = fathom = plumb, 擔憂/恐懼 = dread = disquiet

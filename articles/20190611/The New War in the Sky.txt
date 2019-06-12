@@ -1,0 +1,97 @@
+https://www.nationalgeographic.co.uk/science-and-technology/2019/06/enter-drone-killers-new-war-sky
+Enter the Drone Killers: The New War in the Sky
+The future may see ever-advancing technology battle ever-advancing consumer flying machines. Here's what that might look like.
+By Dominic Bliss | Monday, 3 June 2019
+---------------------------------------------------------------------------------------------------------------------
+How many aerial drones are there buzzing across the skies of our planet? Hundreds of thousands? Millions, perhaps? The United States Federal Aviation Administration predicts that by 2020, in America alone, there will be close to seven million in operation.
+	+ buzz
+		> 嗡嗡聲 |A low, continuous humming or murmuring sound, made by or similar to that made by an insect.|
+		> |Make a low, continuous humming sound.| mosquitoes were buzzing all around us
+		> |(of the ears) be filled with a humming sound.| this amp is loud enough to make my ears buzz for a couple of hours on full blast
+		> 打電話 |A telephone call.| I'll give you a buzz
+		> |Telephone (someone)| he buzzed me on the car phone
+		> 熱鬧 |An atmosphere of excitement and activity.| there is a real buzz about the place
+		> |Be full of excitement or activity.| Westminster is buzzing with anticipation
+		> 愉快 |A feeling of excitement or euphoria; a thrill.| I got such a buzz out of seeing the kids' faces
+		> 謠言 |A rumour.| there's a strong buzz that he's in Scotland
+		> 快速地走 |Move quickly or busily.| she buzzed along the M1 back into town
+The vast majority are harmless but, in the hands of malicious operators, they can occasionally cause chaos – as we saw at Gatwick Airport last December when around 1,000 flights were cancelled or diverted over several days.
+	- diverted
+Andy Morabe is a director at IXI Technology, a California-based company which manufactures a drone-jamming device called Drone Killer. “We classify drone operators as the clueless, the careless and the criminal,” he says, placing the Gatwick mischief-makers into the latter category. 
+Morabe explains how the technology of unmanned aerial vehicles (UAVs), as drones are officially known, has advanced enormously in recent years, making devices smaller, cheaper and easier to use. Should a terrorist arm one with explosives or chemical weapons, that would obviously wreak havoc. But even a prankster flying one near an airport or a sports stadium can cause major disruption.
+	- unmanned aerial vehicle == UAV
+	- wreak
+		> 造成 |Cause (a large amount of damage or harm)| torrential rainstorms wreaked havoc yesterday
+		> 給予 |Inflict (vengeance)| they would soon have a chance to wreak their revenge on the enemy
+	- prankster 愛惡作劇的人 == A person fond of playing pranks.
+“Imagine if a drone got sucked into the intake of an aircraft upon take-off,” Morabe adds. “A small drone could take out an entire engine. That would be devastating. And the lithium batteries they use are explosives themselves.”
+	* intake
+		> 攝取量 |An amount of food, air, or another substance taken into the body.| your daily intake of calories
+		> 攝取 |An act of taking something into the body.| she heard his sharp intake of breath
+		> 被吸收的人 |The people taken into an organization at a particular time.| the new intake of MPs
+		> 吸收 |An act of taking people into an organization.|
+		> 吸入口/通風口 |A place or structure through which something is taken in, e.g. water into a channel or pipe from a river, fuel or air into an engine, etc.|
+	- lithium 鋰
+Recent tests by the UK government and by the University of Dayton, in Ohio, have proved that even very small drones can penetrate the wing structure or windscreens of aeroplanes. 
+	- windscreen 擋風玻璃
+In recent years there have been just a handful of collisions reported between aircraft and drones (including one in New York City, one in Quebec, and one at London’s Heathrow Airport – none fatal), but dozens of near misses. 
+In 2018, the US government set new restrictions on flying drones. The UK government, meanwhile, is due to introduce legislation on malicious drones later this year. 
+The problem for the authorities is that these devices are generally classified as aircraft. Simply blowing them out of the sky needs senior government authorisation, and could cause collateral damage. 
+	- collateral
+		> 附帶的 |Additional but subordinate; secondary.| the collateral meanings of a word
+		> 無可避免的 |Denoting inadvertent casualties and destruction in civilian areas in the course of military operations.| munitions must be able to destroy the target without causing collateral damage
+		> 旁系的 |Descended from the same stock but by a different line.| a collateral descendant of Robert Burns
+		> 旁系血親 |A person having the same ancestor as another but through a different line.|
+		> 並列的 |Situated side by side; parallel.| collateral veins
+		> 擔保品 |Something pledged as security for repayment of a loan, to be forfeited in the event of a default.|
+There are other methods to neutralise them. You can jam their signals, as the Drone Killer does. You can do what’s called spoofing – tricking their GPS receivers into thinking they are in a different location. You can use lasers to dazzle their optical cameras with which the operators guide them. You can capture them in a net fired by a gun. You can even set trained birds of prey on them. Although, as Morabe says, “the drone’s propeller can damage their talons and they get finicky”.
+	- spoof
+		> 諷刺性模仿 |A humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect.|
+		> |Imitate (something) while exaggerating its characteristic features for comic effect.|
+		> 愚弄/欺騙 |A trick played on someone as a joke.| word got out that the whole thing had been a spoof
+		> |Hoax or trick (someone)| they proceeded to spoof Western intelligence with false information
+		> 干擾 |Interfere with (radio or radar signals) so as to make them useless.|
+	- dazzle
+		> 使眼花 |(of a bright light) blind (a person or their eyes) temporarily.|
+		> 使驚艷 |Amaze or overwhelm (someone) with a particular impressive quality.|
+	- talon
+		> 爪子 |A claw, especially one belonging to a bird of prey.|
+		> |The part of a bolt against which the key presses to slide it in a lock.|
+		> 發剩的牌 |the cards that have not yet been dealt.|
+		> |A printed form attached to a bearer bond that enables the holder to apply for a new sheet of coupons when the existing coupons have been used up.|
+He favours the signal-jamming method, as featured in his Drone Killer. Developed three years ago, it is a battery-powered hand-held device which transmits low-power radio frequency waveforms similar to those used by drone operators, distorting the data the drone receives and, according to IXI Technology, forcing it “into fail-safe mode” and causing it to “return to its point of origin or slowly descend” to the ground.
+	- waveform 波形 
+The manufacturer claims the waveforms have a range of around 1,000 metres but no effect on broadband or mobile phone signals, or other radio frequencies.
+Drone Killers costs US$33,000 apiece. Currently Morabe makes around $2million a year in sales but he expects this to increase to $100million a year as the likes of airports, sports stadia and power stations increasingly feel the threat of drone attacks. 
+	- stadium -> stadia
+His device is already being used by Japan’s Ministry of Defence, India’s National Security Guard, Thailand’s Royal Thai Air Force and half a dozen or so law enforcement agencies in the United States – in California, Arizona and Nevada to protect events at sports stadia and support security forces on the US-Mexico border. 
+For security reasons he can’t give precise details, although he does paint a frightening worst-case scenario of how terrorists might arm drones with explosives or poisons. 
+“Agencies are worried drones could be armed with [a particular opioid],” he suggests. “Just a teaspoon can kill a roomful of people. A drone carrying one or two kilograms can kill a whole stadium of people.” 
+Morabe admits his Drone Killer is not a failsafe deterrent since there are so many frequencies drones can operate on, and it’s impossible to jam all of them.
+For that reason, he suggests that particularly vulnerable sites such as airports or nuclear power stations should defend themselves with a mixture of anti-drone devices.
+James Cross is director of a Northumberland-based company called OpenWorks Engineering, manufacturers of two models of anti-drone net guns called Skywall 100 (which is hand-held) and Skywall 300 (which is vehicle or building-mounted). Each uses compressed air to launch a plastic capsule containing a net which opens up to capture the drone before deploying a parachute and dragging it safely down to the ground. Targeting technology takes into account the flying speed of the drone so as to intercept on the correct trajectory.
+	- Northumberland 諾森伯蘭，英國英格蘭最北、最東北的區
+	- capsule
+	- take into account 
+The Skywall 300 model hasn’t yet gone on sale but the Skywall 100, launched in 2016, has seen over 50 deployed worldwide so far. Its first outing was in November 2016 when Germany’s federal police were charged with protecting President Obama on a state visit to Berlin. 
+“They deployed it as he walked down the steps of Air Force One,” Cross says. “And they used it around the city, on rooftops and out of the back of vehicles.” 
+The weapon was also employed at the Berlin Air Show in April 2018, and at a security conference in Hamburg in December 2016, and by police in Washington DC at The Pentagon. It has been used during other visits by heads of state, and at airports and nuclear power stations. 
+	- The Pentagon 五角大廈，美國國防部所在地
+Cross says he expects to sell Skywall 300 models to the US military and European agencies later this year. For security reasons he can’t reveal if a parachute has ever actually been launched in anger yet.
+There are other British companies developing counter-drone technology, including jamming devices such as Beechwood Equipment’s DroneGun, Kirintec’s Sky Net, and Chess Dynamics’ AUDS (Anti-UAV Defence System). The latter now features at Gatwick Airport as part of a reported £5million counter-drone system installed in the fallout of the December debacle.
+	- debacle 瓦解 == A sudden and ignominious failure; a fiasco.
+But can our airports ever be 100 percent impervious to malicious drones? Morabe points out how the world’s major airports cover enormous surface areas, and are impossible to shield completely from drone attack. Gatwick, for example, is spread across 674 hectares of land with a perimeter six miles long; Heathrow across 1,214 hectares with around nine miles of perimeter. Denver International, the second largest airport in the world by land area, covers over 13,000 hectares.
+As Morabe explains, even with hundreds of costly counter-drone devices and security staff, there will always be gaps in the defence – space for small drones to slip through. For 30 years he worked with the US Navy, consulting on weapons defence systems. 
+“I’ve worked with a lot of defence companies,” he says. “I’ve worked with Lockheed Martin. I’ve worked with the radar system that's on board our ships, and we always have holes in our coverage.”
+Even the UK government admits it cannot provide failsafe protection. Ben Wallace is Minister for Security and Economic Crime. “Advancing counter-drone technology is a complex challenge,” he told National Geographic UK. “There are many counter-drone systems entering the market, and we are clear that there is no silver bullet effective against all possible malicious and illegal drone uses.”
+The government is currently debating a drone regulation bill, with an obligatory registration scheme for drone operators expected later this year. None of which, however, is likely to deter criminals intent on causing chaos. 
+The Gatwick culprits didn't actually cause any physical damage – they were just pranksters, it seems. But terrorist groups such as ISIS and Al-Qaeda have successfully weaponised drones on several occasions. In a separate incident in Venezuela, in August last year, drones detonated explosives close to that country’s President Maduro, in what the government claim was an assassination attempt.
+	- culprit
+		> 被告/罪魁禍首 |A person who is responsible for a crime or other misdeed.|
+		> 禍因 |The cause of a problem or defect.| low-level ozone pollution is the real culprit
+	- detonate 使爆炸 == Explode or cause to explode.
+Both Morabe and Cross warn that drone technology is constantly advancing, making existing deterrents redundant.
+	- redundant
+		> 多餘的/不必要的 |Not or no longer needed or useful; superfluous.| many of the old skills had become redundant
+		> 冗長的 |(of words or data) able to be omitted without loss of meaning or function.|
+“As the bad guys improve their drone technology, so we invent counter-measures,” Morabe says. “It’s a game of electronic warfare. It’s an arms race.”
