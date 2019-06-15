@@ -230,7 +230,7 @@
         - agony (n)極大的痛苦 = anguish
         - agonize (v)(使)苦惱/折磨
         +++ /anˈtaɡnʌɪz/ antagonize (v)使對抗/使對立 --> antagonism (n)對抗/對立, 敵對/敵意 = enmity --> antagonistic (adj)對立的 = hostile, 敵對的 = hostile
-        - protagonist (n)提議者/支持者 = proponent
+        - protagonist (n)主角, 提議者/支持者 = proponent
 
     agr, agro, agri, ara 土地/農業 = acre, feild, soil
         - /əˈɡrɛːrɪən/ agrarian (adj)土地的, 農業的/農村的 = agricultural = bucolic = rural = pastoral
@@ -326,7 +326,7 @@
     arch, archi, archy
         1. 主要的 = chief, first, principal
             - archipelago (n)群島 <-- archi + pelago 海 = sea
-            - architect (n)建築師 --> architecture (n)建築
+            - architect (n)建築師, 締造者 --> architecture (n)建築
 
         2. 統治 = leader, ruler
             + /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
@@ -725,8 +725,7 @@
         + excess (n)過度/過量 = plethora = overabundance = superfluity, (保險)免賠款 --> excessive (adj)過度的/極度的 = immoderate = overly = undue = superfluous = inordinate = extravagant
         - incessant (adj)無間斷的/連續的
         - intercede (v)代為求情
-        - intercession (n)求情/說情, 代為祈求
-        - intercessor (n)代禱人
+        - intercession (n)求情/說情, 代為祈求 --> intercessor (n)代禱人
         + precede (v)先於/早於 = antecede --> precedent (n)先例/前例, 慣例
         - precedence (n)居前/領先, 優先權
         * predecessor (n)前任/前輩, 原有事物
@@ -744,14 +743,14 @@
         ** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
 
     cur, curr, cor, corr, curs, cour 跑 = run
-        ** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的
+        ** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
         - corral (n)(牛、馬等)畜欄/圍欄 (v)把（馬、牛）趕進畜欄/把（一群人）集中起來
         - /kəˈrɪkjʊləm/ curriculum (n)課程
         + cursory (adj)倉促的/匆忙的 = hasty = superficial
         - cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
         *** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
         * discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
-        + discursive (adj)不著邊際的/散漫的 = digressive = rambling, 推論的
+        + discursive (adj)不著邊際的/散漫的 = digressive = rambling, 演說的
         - excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
         - incur (v)招惹
         + incursion (n)侵略/入侵/襲擊 = invasion
@@ -777,10 +776,10 @@
         + captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
         - caption (n)說明文字/圖片說明
         + captious (adj)吹毛求疵的/挑剔的 = faultfinding = carping = censorious = particular
-        + coincide (v)巧合/同時發生, 相符/符合 = concur, 同意 --> coincident (adj)同時的/同地的, 一致的 = consonant --> coincidental (adj)巧合的 = ironic, 同時的
+        + coincide (v)巧合/同時發生, 相符/符合 = concur, 同意 = concur --> coincident (adj)同時的/同地的, 一致的 = consonant --> coincidental (adj)巧合的 = ironic, 同時的
         + conceive (v)想像/想出/構想 = imagine = invent = form, 懷孕 --> conceivable (adj)可想像的/可想到的 = imaginable
-        * conceit (n)自負/自大, 誇張的比喻/藝術效果/奇想 --> conceited (adj)自大的/自負的 = vain = arrogant = haughty = cavalier
         * concept (n)概念/觀念/想法 = idea --> conception (n)觀念/概念/見解 = idea = perception, 懷孕
+        * conceit (n)自負/自大, 誇張的比喻/藝術效果/奇想 --> conceited (adj)自大的/自負的 = vain = arrogant = haughty = cavalier
         * deceive (v)欺騙/矇騙 --> deceit (n)欺騙/欺詐 = chicanery
         - deception (n)欺騙/欺詐
         + deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
@@ -829,6 +828,21 @@
         - insecticide (n)殺蟲劑 = pesticide
         * pesticide (n)殺蟲劑 <-- pest + i + cide
 
+    cise, cis, cid 切掉/割 = cut
+        + abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (v)切除, 截枝
+        + concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact --> concision (n)簡潔
+        - decide (v)決定
+        - decisive (adj)果決的, 決定性的/確定的
+        - /ˈɛksʌɪz/ excise (v)刪除, 切除 (n)消費稅
+        - /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使/運用 (n)活動 (v)擔心 = worry = perplex
+        - incise (v)切/切割 = cut --> incision (n)切口/傷口, 切割/切開
+        + incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute
+        + indecisive (adj)非決定性的, 遲疑不決的 = irresolute = undecided, 模糊的/未明確定義的 = vague = indistinct
+        + précis (n)摘要/大綱 = summary = abstract
+        - precise (adj)精確的 = exact = rigorous
+        - rescission (n)廢除
+        - scissors (n)剪刀
+
     cond 藏起/儲藏 = stow, secrete
         + abscond (v)潛逃/逃亡
         - condiment (n)調味料
@@ -865,7 +879,7 @@
         - collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
 
     commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
-        - accommodate (v)使一致 = adjust = adapt, 提供住宿/提供/借錢 --> accommodating (adj)樂於助人的 = benevolent
+        - accommodate (v)使適應 = adjust = adapt, 提供住宿/提供/借錢 --> accommodating (adj)樂於助人的 = benevolent
         + commodity (n)日用品, 商品 = ware
         - commodious (adj)寬敞的
 
@@ -886,7 +900,7 @@
 
     cre, crue 增長/產生 = grow, increase
         + accrete (v)成長, (植物)連生 --> accretion (n)堆積/積聚/增大
-        + accrue (v)(利息收益等)增加/增多 = accumulate = accrete
+        + /əˈkruː/ accrue (v)(利息收益等)增加/增多 = accumulate = accrete
         + concrete (adj)具體的/確切的 = particular (n)混凝土 <--> conceptual
         - crescendo (n)漸強, 高潮
         - crescent (n)新月/弦月
@@ -994,9 +1008,25 @@
         - /ˈtʃɑːndlə/ chandler (n)蠟燭商
 
     capit 頭 = small head
-        + /kəˈpɪtjʊleɪt/  capitulate (v)投降/停止抵抗 = surrender = yield
+        + /kəˈpɪtjʊleɪt/ capitulate (v)投降/停止抵抗 = surrender = yield
         - capitulum (n)骨的頭部
         + recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
+
+    crimin, culp 罪行 = guilty, crime
+        + criminality (n)犯罪
+        + culpable (adj)應受譴責的/該受處罰的
+        + culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
+        + exculpate (v)證明…無罪/脫罪 = exonerate = vindicate
+        - inculpate (v)連累/控告/歸咎於 = incriminate
+        - incriminate (v)連累/牽連 = inculpate, 控告, 歸咎於 --> incrimination (n)連累, 控告 = accusation
+        - recriminate (v)反控
+
+    cult 培養/種植 = care for, inhabit, worship
+        + cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine, 結交 
+        - cultivable (adj)可耕作的/可種植的
+        - cultured (adj)有文化修養的
+        - agriculture
+        - mariculture
 
     carbo 碳
         - carbohydrate (n)碳水化合物
@@ -1059,7 +1089,7 @@
         - census (n)人口普查, (官方的)調查/統計 = poll
 
     cert 搞清 = sure, certain
-        + certitude (n)確定無疑/確信 = certainty = confident (adj) = ascertain (v)
+        + certitude (n)確定無疑/確信 = certainty
         - certify (v)(通常以書面形式)證明/證實 = qualify
         - certificate (n)證書
         - certification (n)證明
@@ -1075,7 +1105,7 @@
     
     chol, chole 膽汁 = bile
         - choler (n)憤怒 = anger = wrath , 膽汁 = bile-
-        - ˈkɒlərɪk/  choleric (adj)易怒的/暴躁的 = cantankerous
+        - /ˈkɒlərɪk/ choleric (adj)易怒的/暴躁的 = cantankerous
         - /ˌkɒlɪsɪsˈtʌɪtɪs/ cholecystitis (n)膽囊炎
         - acholia (n)膽汁缺乏症
         * /ˈmɛlənkəli/ melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (n)憂鬱 <-- melan 黑 = black + chol + ly 
@@ -1155,23 +1185,10 @@
         + ethnocentric --> ethnocentrism
 
     concil 協商 = council
-        + conciliate (v)安撫/調停/和解 = placate = pacify = reconcile = propitiate --> conciliatory (adj)願意和解的/調停的
-        * reconcile (v)調和/調解/和解/使一致 = conciliate = propitiate = mediate
-        - reconcilable (adj)可和解的/可調停的, 不矛盾的
-        - irreconcilable (adj)不能協調的 = imcompatible, 不矛盾的 = conflicting 
-    
-    cise, cis 切掉/割 = cut
-        + abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (v)切除, 截枝
-        + concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact --> concision (n)簡潔
-        - decisive (adj)果決的, 決定性的/確定的
-        - excise (v)刪除, 切除 (n)消費稅
-        - incise (v)切/切割 = cut --> incision (n)切口/傷口, 切割/切開
-        + incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute
-        + indecisive (adj)非決定性的, 遲疑不決的 = irresolute = undecided, 模糊的/未明確定義的 = vague = indistinct
-        + précis (n)摘要/大綱 = summary = abstract
-        - precise (adj)精確的 = exact = rigorous
-        - rescission (n)廢除
-        - scissors (n)剪刀
+        + /kənˈsɪlɪeɪt/ conciliate (v)安撫/調停/和解 = placate = pacify = reconcile = propitiate --> conciliatory (adj)願意和解的/調停的
+        * /ˈrɛk(ə)nsʌɪl/ reconcile (v)調和/調解/使和解 = conciliate, 使甘於/使接受(不好的事)
+        - reconcilable (adj)可和解的/能共處的 = compatible
+        - irreconcilable (adj)互相對立的/不相容的
 
     clud, clus 關閉/封閉 = close
         + conclude (v)結束/作結, 推斷出/推論/斷定/作出 = judge --> conclusive (adj)結論性的, 無可置疑的/確實的/決定性的 = convincing
@@ -1180,46 +1197,46 @@
         + exclusive (adj)除外的, 唯一的, 獨佔的/專用的, 獨有的
         - include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
         + /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
-        + preclude (v)排除/防止/阻礙 = prevent = avert
+        + preclude (v)排除/防止 = prevent = avert
         + recluse (adj)隱遁的 (n)隱居者/隱士 = hermit --> reclusive (adj) = monastic 
-        * seclude (v)使…不與…接觸/使隔離 = confine = immure , 使隱居 = cloister <-- se 分開 = apart + clude
+        * seclude (v)使…不與…接觸/使隔離 = confine = immure, 使隱居 = cloister <-- se 分開 = apart + clude
         * seclusion (n)隔絕/孤立/隱居 = solitude, 隱蔽的地方/僻靜之地
 
     cuss 震動/打擊 = shake, strike
-        - concuss (v)使腦震盪, 使猛烈震盪  concussion (n)腦震盪, 強烈震動
+        - /kənˈkʌs/ concuss (v)使腦震盪, 使猛烈震盪 --> concussion (n)腦震盪, 強烈震動
         - percuss (v)敲 --> percussion (n)撞擊, 打擊樂器/敲擊樂器 --> percussionist (n)打擊樂器演奏者
-        - discussion (n)討論/議論
+        - discuss (v)談論 --> discussion (n)討論/議論
         - cuss (n/v)詛咒/咒罵/罵人 (n)古怪的傢伙
-        * repercussion (n)反響/反衝
+        *** repercussion (n)反響/反衝
 
     copia 豐富 = plenty
-        + cornucopia (n)豐盛/大量, 象徵豐收的羊角
+        + /ˌkɔːnjʊˈkəʊpɪə/ cornucopia (n)豐盛/大量, 象徵豐收的羊角
         + copious (adj)大量的/豐富的 = abdundant
 
     copr, copror 軀體/團體 = corpus
         - corpus (n)身體/軀體, 語料庫, 文集/全集 = canon
-        - corporate (adj)團體的/全體的/共同的, 公司的 --> corporation (n)大公司, 地方當局
+        - corporate (n)大公司 (adj)全體的/共同的, 團體的/大公司的 <|> cooperate --> corporation (n)法人/股份有限公司 
         * corporeal (adj)物質的 = material, 肉體的/身體的 = somatic
         - corpuscle (n)血球/血細胞
-        + incorporate (v)合併/併入
+        + incorporate (v)合併/併入, 把...組成公司 (adj)合併的 = incorporated, 具有實體的 = embodied
 
     cosm 宇宙/世界 = world, universe
         - cosmic (adj)宇宙的, 巨大無比的 = astronomical <|> comic
         + cosmopolitan (adj)四海為家的, 世界性的 (n)四海為家的人
+        - cosmopolitanism (n)世界主義/世界性
         - cosmopolis (n)國際大都市
-        - cosmoplitanism (n)世界主義/世界性
         - cosmos (n)宇宙
         + cosmology (n)宇宙起源論/宇宙學
         + microcosm
 
     crit 判斷 = judge, umpire == arbit
-        - criterion (n)評判標準 --> criteria (n)評判標準(複數型)
-        - critic (n)批評者, 評論家
-        - critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
+        - /krʌɪˈtɪərɪən/ criterion -> criteria (n)評判標準
+        *** critic (n)批評者, 評論家
+        *** critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
         - critique (n/v)評論
-        * criticism (n)批評/指責/反對, 評論/評價
-        * criticize (v)分析/評論, 批評/批判/指責 = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid = nag
-        * hypocrisy (n)騙局/假象 = sham = hoax --> hypocritical (adj)偽善的/虛偽的 = insincere
+        * /ˈkrɪtɪsɪz(ə)m/ criticism (n)批評/指責/反對, 評論/評價
+        * /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid = nag
+        * hypocrisy (n)偽善 --> hypocritical (adj)偽善的/虛偽的 = insincere
         - hypercritical (adj)吹毛求疵的/過分挑剔的 = captious = carping
 
     cruc, crus 十字/交叉 = cross
@@ -1231,58 +1248,44 @@
         - excruciate (v)拷問/施酷刑於 = torment --> excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = banal
 
     cub, cumb 立方體/躺 = cube, lie down
-        - concubine (n)妾
-        - cubicle (n)(大房間中分隔出來的)小隔間
-        - incubate (v)孵化, 潛伏/醞釀 --> incubation (n)孵卵期, 潛伏期
+        - /ˈkɒŋkjʊbʌɪn/ concubine (n)妾
+        - /ˈkjuːbɪk(ə)l/ cubicle (n)(大房間中分隔出來的)小隔間
+        - incubate (v)孵化, 潛伏/處於潛伏期 --> incubation (n)孵卵期, 潛伏期
         - incubator (n)孵卵器, 早產嬰兒保育箱
         - incubus (n)夢魘, 精神壓力/負擔 = burden
         - incumbent (adj)負有職責的, 現任的/在職的 (n)現任者/在職者
-        + cumber (v)拖累/妨礙 --> cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的 = unwieldy = clumsy
-        + encumber (v)妨礙 = impede = hinder = retard = cumber = hamper, 塞滿 = block up = fill, 負擔/重擔 = burden
+        + cumber (v)拖累/妨礙 = hinder = hamper, 阻塞 = obstruct
+        + cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的/難處理的 = unwieldy = clumsy
+        + encumber (v)妨礙 = restrict = impede = retard = cumber
         - recumbent (adj)斜躺的/側臥的, 休息的 = resting
-        + succumb (v)屈從, 因...死亡
-
-    crimin, culp 罪行 = guilty, crime
-        + criminality (n)犯罪
-        + culpable (adj)應受譴責的/該受處罰的
-        + culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
-        + exculpate (v)證明…無罪/脫罪 = exonerate = vindicate
-        - inculpate (v)連累/控告/歸咎於 = incriminate
-        - incriminate (v)連累/牽連 = inculpate, 控告, 歸咎於 --> incrimination (n)連累, 控告 = accusation
-        - recriminate (v)反控
-
-    cult 培養/種植 = care for, inhabit, worship
-        + cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine, 結交 
-        - cultivable (adj)可耕作的/可種植的
-        - cultured (adj)有文化修養的
-        - agriculture
-        - mariculture
+        + succumb (v)屈從, 死亡
 
     cyn 狗
         * cynic (n)憤世嫉俗的人
-        ** cynical (adj)挖苦的/冷嘲的 = sardonic, 憤世嫉俗的
+        ** cynical (adj)憤世嫉俗的, 挖苦的/冷嘲的 = sardonic = contemptuous = mocking
         - cynicism (n)憤世嫉俗/譏笑
 
     cyt, cyte, cyto 細胞
         - cytology (n)細胞學
         - cytogenous (adj)細胞生成的
 
-    cline, cli 傾斜/斜坡 = bend, slope
+    cline, cliv 傾斜/斜坡 = bend, slope
         + decline (v)拒絕 = withhold = deny = refuse, 減少/衰落 = descend (n)減少/衰落
-        * incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面 --> inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
         + declivity (n)下坡
+        * incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面 --> inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
+        + proclivity (n)壞的傾向/癖性 = propensity = inclination = tendency
 
     crep, crepit 破裂 = crack
+        - crepitate (v)發爆裂聲
         - decrepit (adj)破舊的/老朽的 --> decrepitude (n)衰老/破舊
         + discrepancy (n)不一致/差異/矛盾 = inconsistency = unacceptable difference
-        - crpeitate (v)發爆裂聲
 
     croach, croch, crook 鉤 = hook
-        * encroach (v)侵入/侵佔 = impinge, 侵蝕
+        * encroach (v)侵入/侵佔 = impinge = intrude, 侵蝕/超出通常界線
         - corchet (v)用鉤針編織 (n)鉤針編織
 
     ciner 灰 = ashes
-        - incinerate (v)燒成灰/焚化 = cremate
+        - incinerate (v)焚化 = cremate
         - cinerary (adj)灰的, 骨灰的
 
 [D]
@@ -2383,7 +2386,7 @@
 
     fuse 傾倒 = pour, melt
         ** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 混合 = confound = jumble = disorder = muddle = mingle = intermingle, 使不安/使羞愧 = abash = disconcert = discomfit 
-        + diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
+        ++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
         + effusive (adj)奔放的/過於流露感情的 = unduly demonstrative, 流出的 = overflowing
         - infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
         - profuse (adj)毫不吝惜的/浪費的 = extravagant, 充沛的/過多的 = lavish = opulent
@@ -4304,7 +4307,7 @@
         - proceeds
         - procession
         + proclaim
-        + proclivity (n)壞的傾向/癖性 = propensity = inclination = tendency <-- pro + cliv 傾斜 = slope + ity
+        + proclivity 
         - procrastinate (v)耽擱/拖延 <-- pro + cras 明天 = tomorrow + tinate
         - proctor, procurator (n)代理人, 學監
         + procure --> procurement
@@ -4479,7 +4482,7 @@
         - pendulum (n)擺錘/鐘擺
         + pensive (adj)沉思的, 悲傷的/哀愁的 = wistful
         - perpendicular (adj)垂直的 = vertical
-        + propensity (n)(不良的)傾向/嗜好 = inclination = tendency = proclivity
+        + propensity (n)傾向/嗜好 = inclination = tendency = proclivity
         - recompense (n/v)報酬/報答 = repay = reward, 賠償 = compensate = amends = reparation = wage
         - suspend (v)暫緩/中止, 吊懸
         * suspense (v)焦慮/擔心 --> suspension (n)暫停/中止, (作為處罰的)暫令停職/暫令停學/暫令停止活動
@@ -5541,7 +5544,8 @@
     solv, solu 溶解/釋放/鬆開 = dissolve, loosen, free, release
         + absolve (v)赦免 = acquit
         * absolute (adj)完全的/絕對的 = complete = implicit, 無限制的 = unlimited = categorical
-        ++ dissolve (v)(使)溶解, 使終結, 弄明白 --> dissolution (n)溶解/分解, 解除, 解散, 潰散 = disintegration = debauchery
+        ++ dissolve (v)(使)溶解, 使終結, 弄明白
+        ++ dissolution (n)溶解, 解除/解散/潰散/中止 = disintegration = debauchery, 放蕩 = dissipation
         - dissolute (adj)放蕩的/放縱的 = profligate
         - insoluble (adj)不溶解的, 不能解決的
         - insolvency (n)無力償還, 破產 = bankruptcy
@@ -6514,7 +6518,7 @@
         - unsubstantiated (adj)未經證實的/無事實根據的 = unfounded = tenuous
         + unsympathetic (adj)不同情的/冷漠的
         + untapped (adj)未開發的/未利用的
-        + untempered (adj)無節制的, 
+        + untempered (adj)無節制的, 未經錘鍊的
         + untenable (adj)難以防守的/站不住腳的 = indefensible, 不宜居住的
         + untested (adj)未經考驗的/未經試驗的
         - unthreatening (adj)不威脅的
