@@ -359,7 +359,7 @@
         * artery (n)動脈 = aorta, 主要幹道 --> arterial (adj)
 
     art, arti 技巧
-        ++ artless (adj)粗俗的, 自然的/直率的/單純的 = guileless = natural = ingenuous = naive --> artlessness
+        ++ artless (adj)粗俗的, 自然的/直率的 = guileless = natural = ingenuous = naive, 單純的 = simple --> artlessness
         + artifact (n)人工製品 --> artifacts (n)史前古物
         + artificial (adj)人造的, 假的
         - artifice (n)巧技, 詭計 = contrivance = finesse = ruse
@@ -407,7 +407,7 @@
         + autonomy (n)自治/獨立 --> autonomous (adj)自主的 = independent, 自治的 = self-governing
 
     avi 鳥 = bird
-        * avid (adj)渴望的 = agog, 熱心的= eager
+        * avid (adj)渴望的 = agog, 熱心的 = eager
         - aviary (n)大鳥籠,鳥舍
         - aviation (n)航空
         - aviatrix (n)女飛行員
@@ -718,8 +718,8 @@
         - access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
         + accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
         + concede (v)讓步/讓出(權利) = compromise = yield, 承認(失敗) = admit = grant
-        + concession (n)(常指為結束爭端而)認可/讓步/妥協, 讓予物/特許權, 營業權/營業場所
-        + cede (v)割讓/放棄 = yield = surrender --> cession (n)割讓/放棄
+        ++ concession (n)(常指為結束爭端而)認可/讓步/妥協, 讓予物/特許權, 營業權/營業場所
+        + /siːd/ cede (v)割讓/放棄 = yield = surrender --> cession (n)割讓/放棄
         - cessation (n)結束/中斷/中止
         *** exceed (v)超過/超出 = transcend = overpass
         + excess (n)過度/過量 = plethora = overabundance = superfluity, (保險)免賠款 --> excessive (adj)過度的/極度的 = immoderate = overly = undue = superfluous = inordinate = extravagant
@@ -826,7 +826,7 @@
         - homicide (n)謀殺/他殺 --> homicidal (adj)殺人的
         - fungicide (n)殺真菌劑 
         - feticide
-        - insecticide (n)殺蟲劑
+        - insecticide (n)殺蟲劑 = pesticide
         * pesticide (n)殺蟲劑 <-- pest + i + cide
 
     cond 藏起/儲藏 = stow, secrete
@@ -943,7 +943,7 @@
         - chronic (adj)慢性的/長期的
         - chronology (n)年代學, 年表
         - chronological (adj)按時間順序的
-        - /ˈkrɒnɪk(ə)l/  chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
+        - /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
         - chronometer (n)精密計時器
         - synchronous (adj)同步的/同時的
 
@@ -975,13 +975,13 @@
         + /kəˈkɒfəni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
     calc 石灰/石灰岩 = lime, limestone
-        - /ˈkalsɪəm/  calcium (n)鈣
+        - /ˈkalsɪəm/ calcium (n)鈣
         - calculus (n)微積分
         * calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge <|> articulate
         + calculable (adj)可計算的/可預想到的, 可信賴的
 
     cand, cend, cense 白/發光 = shine, white
-        + candid (adj)率直的/直言不諱的 = frank = ingenuous = explicit, 公正的 = honest = impartial, 偷拍的
+        ++ candid (adj)率直的/直言不諱的 = frank = ingenuous = explicit, 公正的 = honest = impartial, 偷拍的
         + candor (n)坦白/率直
         - candle (n)蠟燭 = taper
         - candidate (n)候選人/申請人, 考生/應試者 --> candidacy (n)候選人的資格
@@ -1040,7 +1040,7 @@
         + castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
         - chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
         + chasten (v)懲戒/磨煉
-        ++ /tʃaˈstʌɪz/  chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
+        ++ /tʃaˈstʌɪz/ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
     
     celebr 有名的 = repeated, famous
         + celebrate (v)慶祝/祝賀, 讚揚/讚美, 主持(宗教儀式)
@@ -1048,89 +1048,86 @@
         - celebrity (n)名聲/名氣/名望 = renown, (娛樂界的)名人/明星
 
     cerebr 腦 = brain
-        - /ˈsɛrɪbr(ə)l/  cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
+        - /ˈsɛrɪbr(ə)l/ cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
         - cerebrum (n)大腦
         - cerebration (n)用腦, 思考/思考過程
-
-    celest 天空 = heaven, sky
-        + /sɪˈlɛstɪəl/ celestial (adj)天體的/天空的, 精妙的/極佳的 = sublime
-        - celeste (n/adj)天藍色
     
     cens 評估 = assess <-- censor
         * /ˈsɛnsə/ censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
         + /sɛnˈsɔːrɪəs/ censorious (adj)好批評的
-        + /ˈsɛnʃə/  censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = upbraid
+        + /ˈsɛnʃə/ censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = upbraid
         - census (n)人口普查, (官方的)調查/統計 = poll
 
     cert 搞清 = sure, certain
         + certitude (n)確定無疑/確信 = certainty = confident (adj) = ascertain (v)
-        - certify (v)(通常以書面形式)證明/證實 = qualify --> certification (n)證明
+        - certify (v)(通常以書面形式)證明/證實 = qualify
         - certificate (n)證書
+        - certification (n)證明
         + ascertain (v)弄清/確定/查明, 確信
         * concert (v)商議/使協調 (n)一致/和諧, 音樂會
         * disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
     
-    chival, caval 騎馬 = horse
-        - cavalier (n)騎士 = knight = horseman (adj)輕視的/傲慢的 = haughty = disdainful = supercilious, 失禮的 = unceremonious = offhand
+    chival, cheval, caval 馬 = horse
+        - /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand
         - cavalry (n)騎兵, 裝甲部隊
-        - chevalier (n)騎士/爵士/見習武士
-        + chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
+        - /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
+        + /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
     
     chol, chole 膽汁 = bile
-        - choler (n)憤怒 = anger = wrath , 膽汁 = bile
-        - choleric (adj)易怒的/暴躁的 = cantankerous
-        - cholecystitis (n)膽囊炎
+        - choler (n)憤怒 = anger = wrath , 膽汁 = bile-
+        - ˈkɒlərɪk/  choleric (adj)易怒的/暴躁的 = cantankerous
+        - /ˌkɒlɪsɪsˈtʌɪtɪs/ cholecystitis (n)膽囊炎
         - acholia (n)膽汁缺乏症
-        * melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (n)憂鬱 <-- melan 黑 = black + chol + ly 
-        - melancholic (adj)憂鬱的
+        * /ˈmɛlənkəli/ melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (n)憂鬱 <-- melan 黑 = black + chol + ly 
+        - melancholic (adj)憂鬱的, 嚴重憂鬱症的
 
     cyst 囊
-        - cyst (n)囊腫
-        - cholecystitis
+        - /sɪst/ cyst (n)囊腫
         - aerocyst (n)氣囊
         - cholecyst (n)膽囊
+        - cholecystitis
 
     chor, chore, choir 歌舞/舞蹈 = dance == balle
         - choreography (n)編舞/舞蹈編排/舞蹈設計
         - chorus (n)合唱曲, 合唱團, 歌舞隊, 副歌, 異口同聲 (v)齊聲說/異口同聲地說
     
     chrys, chryso 金黃色 = gold
-        - chrysanthemum (n)
-        - chrysalis (n)蛹 <|> caterpillar
+        - chrysanthemum
+        - /ˈkrɪs(ə)lɪs/ chrysalis (n)蛹 = pupa, 轉化階段 <|> caterpillar
 
     circ, circu, circum  繞圈/圓/環/周圍 = circle, go round
-        + /səːˈkjuːɪtəs/ circuitous (adj)迂迴的/繞圈子的 = roundabout = indirect = devious = tortuous = oblique
+        + /səːˈkjuːɪtəs/ circuitous (adj)迂迴的/繞圈子的 ＝ tortuous = devious = rambling
         - circulate (v)循環/流通/傳遞, (在聚會上)周旋, 發行 = distribute
         - circus (n)馬戲團
         - circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
-        - circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
+        - /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
         - circumference (n)周圍, 圓周/周長
-        + circumspect (adj)小心的/謹慎的 = cautious = prudent = careful = discreet = judicious = canny, 審慎的 = well-considered
-        - circumstance (n)(客觀)環境, 情況/情形/形勢
-        + circumstantial (adj)偶然的/不重要的 = incidental, (關於犯罪)按情況推測的/佐證的, 描述詳盡的 = detailed = particular
-        + circumscribe (v)限制/控制 = restrict = restrain = limit = confine = delimit (n)外接圓
-        + circumvent (v)迴避/規避/繞過 = bypass = go around = aboid, 包圍 = entrap = encompass
+        + circumspect (adj)小心的/謹慎的 = cautious = prudent = careful = discreet = judicious = canny = well-considered
+        - /ˈsəːkəmstans/ circumstance (n)(客觀)環境, 情況/情形/形勢
+        ++ circumstantial (adj)(關於犯罪)按情況推測的/佐證的, 描述詳盡的 = detailed = particular, 偶然的/不重要的 = incidental
+        + circumscribe (v)限制/控制 = restrict = restrain = limit = confine = delimit, 使外切
+        + circumvent (v)迴避/規避/繞過 = bypass = go around = aboid, 環繞/包圍 = entrap = encompass
     
     cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
-        - cyclical (adj)循環的
-        - cyclone (n)氣旋/颶風 = tornado = hurricane
-        - cyclamate (n)糖精
-        - cyclopedic (adj)百科全書的, 廣泛的
+        - /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
+        - /ˈsʌɪkləʊn/ cyclone (n)氣旋/颶風 = tornado = hurricane
+        - /ˈsɪkləmeɪt/ cyclamate (n)糖精
+        - /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, 廣泛的
         - cylinder (n)圓柱
-        - encyclic (adj)傳閱的/通諭的 (n)教皇通諭
+        - encyclic (n)教皇通諭
     
     cit, cite 激起/喚起 = start ip, hurry, summon
-        + cite (v)引用/引述 = quote  --> citation (n)引用
+        + cite (v)引用/引述 = quote --> citation (n)引用
         - excite (v)使興奮/使激動, 引起/激起 = arouse = stir up = cause = awaken = evoke = incite
         - excitable (adj)易激動的/易興奮的 --> excitability (n)易激動性/易興奮性
-        + incite (v)激勵/刺激 = stir = encourage = urge on = stimulate = prompt = kindle = inflame = excite = foment = whet
-        * recite (v)背誦/朗誦, 敘述/詳述 --> recitation (n)背誦/朗誦 = litany, 詳述/列舉
+        + incite (v)激勵/刺激 = stir = encourage = urge on = stimulate = prompt = kindle = whet, 煽動 = foment = agitate
+        * recite (v)背誦/朗誦, 詳述/列舉 --> recitation (n)背誦/朗誦 = litany, 詳述/列舉
         - recital (n)獨奏, 吟誦
         - resuscitate (v)使復活/使甦醒 = resurrect = resurge <-- re + sus + cit + ate
     
     civ, civil 公民/文明
-        + civic (adj)城市的 ＝ municipal, 公民的 = civil
-        - civil (adj)市民的/公民的, 有禮貌的/文明的, 國內的 <|> cavil
+        + /ˈsɪvɪk/ civic (adj)城市的 ＝ municipal, 公民的 = civil
+        - /ˈsɪv(ə)l/ civil (adj)市民的/公民的, 國內的, 民事的, 有禮貌的/文明的 <|> cavil
         - civilian (n)平民/老百姓
         - civility (n)禮貌/客氣/斯文/謙恭 = politeness = comity = courtesy
         - civilize (v)教化/開化(社會), 使文明/使有教養(人) --> civilization (n)文明/文化, 教化/開化
@@ -1139,21 +1136,21 @@
         + clairvoyance (n)透視/千里眼/預視/神視 --> clairvoyant (adj)神視的 (n)先知/有洞察力的人
         - clarify (v)澄清/闡明 <--> roil
         - clarity (n)清楚
-        - clarion (adj)響亮清澈的
+        - /ˈklarɪən/ clarion (adj)響亮清澈的 (n)小號
 
     cogn 知道 = learn, know == nois == gnost
-        + cognizance (n)認識/察識 = perception = awareness = acknowledgement, 知識 = knowledge
-        + cognizant (adj)認識的/察知的/察覺到的 = informed = conscious = aware
+        + /ˈkɒɡnɪz(ə)nt/ cognizant (adj)認知到的/察覺到的 = informed = conscious = aware
+        + cognizance (n)認知/察識 = perception = awareness = acknowledgement, 審判管轄權
         - derecognize (v)撤銷對…的承認
-        - incognizant (adj)不認識的, 無意識的/不知覺的
-        - recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
+        - incognizant (adj)不認識的/沒有察覺到的的
+        *** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
 
     centr 中心 = center
-        + central (adj)首要的/最重要的 = principal = chief = dominant, 核心的/中心的
+        + central (adj)首要的/最重要的 = principal = essential = chief = dominant, 核心的/中心的
         + centrifugal (adj)離心的 --> centrifuge (n)離心機
         + centripetal (adj)向心的 <--> centrifugal
-        + concentrate (v)專注/專心, 聚集/匯集 --> concentration (n)專注/專心, 集中/聚集, 濃度
-        + eccentric (adj)古怪的/反常的 = irregular = erratic = peculiar = queer, 不同圓心的 (n)古怪的人
+        + concentrate (v)專注/專心, 聚集/匯集, 濃縮 --> concentration (n)專注/專心, 集中/聚集, 濃度
+        + eccentric (adj)古怪的/反常的 = irregular = erratic = peculiar = queer, 不同圓心的 (n)古怪的人, 偏心圓
         - egocentric (adj)利己的
         + ethnocentric --> ethnocentrism
 
@@ -2216,7 +2213,7 @@
 
     fract, frac, frag 碎裂 = break == rupt
         - fraction (n)碎片, 小部分
-        + fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
+        + /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
         - fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
         - fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
         - fragment (n)碎片 (v)成碎片
@@ -2842,7 +2839,7 @@
             + ingrate --> ingratitude
             - inhumane (adj)不近人情的/不人道的/殘忍的 = cruel = brutal = unkind = wanton
             - inimitable (adj)無法仿效的/獨特的/不可比擬的 <-- in + imitate + able
-            + iniquity (n)不公正/邪惡 = = injustice = wickedness = sin --> iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
+            + iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin --> iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
             + initial (adj)開始的/最初的 (n)姓名的首字母 <-- in + it + ial  --> initially (adv)最初/開始
             - initiate (v)發起/創始, 入會 --> initiative (n)主動的行動/倡議, 首創精神/進取心 = enterprise <-- initial 
             + injudicious (adj)輕率的/不智的 = imprudent = unwise = indiscreet = hasty
@@ -3143,7 +3140,7 @@
     it, itiner 走/旅行 = go, travel
         + circuitous
         - initial
-        + itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic
+        + /ɪˈtɪnər(ə)nt/ itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic (n)巡迴者
         + /ʌɪˈtɪn(ə)(rə)ri/ itinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
         - obituary
         + sedition (n)煽動叛亂/煽動性的言論 <|> petition <-- se + d + it + ion
@@ -3836,7 +3833,7 @@
     magn, maj 大
         + magnanimous --> magnanimity
         + magnify (v)放大 = enlarge, 誇大 = exaggerate
-        + magnate (n)財主/巨頭
+        + magnate (n)財主/巨頭/巨擘/要人/權貴
         - magnificent (adj)壯麗的/宏偉的 = splendid = majestic = stately = palatial, 高尚的 = sublime = magnanimous <-- magn + ific 做 + ent
         + magnitude (n)大小/尺度 = size = dimensions = extent, 重要 = greatness, 星球的光亮度
         + majestic (adj)雄偉的/壯麗的 = grand = stately = lofty = palatial = magnificent, 威嚴的 = august = venerable
