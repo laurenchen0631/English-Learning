@@ -59,7 +59,7 @@
 	- utensil == A tool, container, or other article, especially for household use.
 	- chore 雜務 == A routine task, especially a household one.
 
-[Finance]
+[Finance/Commerce]
 	- IPO == Initial Public Offerings 首次公開募股
 	- underwater == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
 	- earnings call == a teleconference in which a public company talks about its financial situation
@@ -85,9 +85,11 @@
 		> ADV |Being sold to retailers in large quantities and at low prices.| bottles from this region sell wholesale at about £72 a case
 		> ADV |As a whole and in an indiscriminate way.| the safety clauses seem to have been taken wholesale from union documents
 		> ADJ |Done on a large scale; extensive.| the wholesale destruction of these animals by poachers
+	- tariff 關稅 == A tax or duty to be paid on a particular class of imports or exports. 
 
 [Law/Crime]
 	- the Supreme Court 最高法院
+	- Chief Justice 首席大法官，美國聯邦政府司法部門的領袖並主管美國最高法院。首席大法官是美國最高司法官員，領導最高法院的事務並在彈劾美國總統時主持參議院
 	- the Fifth Amendment 第五修正案
 	- The Homestead Act 公地放領法案，又譯《份地法》、《移居法》
 	- appeals court 上訴法院 == Court of Appeals
@@ -101,6 +103,7 @@
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
 	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
+	- appropriation bills 特別支出預算案/撥款法案
 	- search warrant 搜查令/搜索票
 	- advocacy
 		> 公開支持 |Public support for or recommendation of a particular cause or policy.|
@@ -154,6 +157,7 @@
 		> |An unlawful occupation of an uninhabited building.|
 		> 矮胖的 |Short and thickset; disproportionately broad or wide.| he was muscular and squat
 	- sentence sb to life 判..無期徒刑
+	- serve a sentence 服刑
 	- parole
 		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
 		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
@@ -170,12 +174,14 @@
 		> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
 	- probation (n)試用, 緩刑
 	- extradition 引渡 == The action of extraditing a person accused or convicted of a crime.
+	- /ˈfjuːdʒɪtɪv/ fugitive (n)逃犯 (adj)轉瞬即逝的
+	+ inmate 囚犯/住院者 == A person living in an institution such as a prison or hospital.
 	- lease
 		> 租約 |A contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.|
 		> 租給 |Grant (property) on lease; let.| she leased the site to a local company
 		> 租 |Take (property) on lease; rent.| land was leased from the Duchy of Cornwall
 
-[Army]
+[Army/Weapon]
 	- captain
 	- lieutenant 中尉/少尉, 海軍上尉 
 	- outpost
@@ -187,6 +193,8 @@
 	- flak
 		> 防空炮 |Anti-aircraft fire.|
 		> 批評/抨擊 |Strong criticism.| you must be strong enough to take the flak if things go wrong
+	* armed forces 軍隊
+
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -218,6 +226,7 @@
 		> 堆肥 |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
 		> 做堆肥 |Make (vegetable matter or manure) into compost.| don't compost heavily infested plants
 	- graziers /ˈɡreɪzɪə/ 畜牧業者 == A person who rears or fattens cattle or sheep for market.
+	+ nomad (n)遊牧民 --> /nəʊˈmadɪk/ nomadic (adj)遊牧的 == wandering
 	- shepherd 牧羊人 == A person who tends and rears sheep.
 	- milkmaid 擠奶女工 == A girl or woman who milks cows or does other work in a dairy.
 	- mulch (n)護蓋物 (v)用護蓋物蓋 == Material (such as decaying leaves, bark, or compost) spread around or over a plant to enrich or insulate the soil.
@@ -235,6 +244,14 @@
 	- butterhead lettuce 結球萵苣
 	- kale 羽衣甘藍
 	- romaine 蘿蔓萵苣
+	- squash
+		> 壓扁 |Crush or squeeze (something) with force so that it becomes flat, soft, or out of shape.| wash and squash the cans before depositing them
+		> 擠入 |Make one's way into a small or restricted space.| I squashed into the middle of the crowd
+		> |A state of being squeezed or forced into a small or restricted space.| it was a bit of a squash but he didn't seem to mind
+		> 壓抑 |Suppress or subdue (a feeling or action)| the mournful sound did nothing to squash her high spirits
+		> 拒絕 |Firmly reject (an idea or suggestion)|
+		> 聚會 |A social gathering or informal meeting.| a poetry squash in London
+		> 西葫蘆/南瓜 |An edible gourd, the flesh of which may be cooked and eaten as a vegetable.|
 	- marijuana 大麻煙/大麻藥物
 	- cannabis 大麻
 	- hemp (n)大麻纖維, 大麻藥物
@@ -551,6 +568,7 @@
 		>> |A journey to a place of particular interest or significance.|
 	- Mass 彌撒 == The celebration of the Christian Eucharist, especially in the Roman Catholic Church.
 	- Eucharist 聖餐禮
+	- Christian	/ˈkrɪstʃ(ə)n/ (adj)基督教的 (n)基督徒
 	- christianity 基督教 == The religion based on the person and teachings of Jesus Christ, or its beliefs and practices.
 	- Catholic 天主教的
 	- tribune
@@ -658,6 +676,7 @@
 	- DNC == Democratic National Committee 民主黨全國委員會
 	- GOP == Grand Old Party == The Republican Party 共和黨，又稱為大老黨，與民主黨並列為美國當代的兩大主要政黨之一
 	- Congress 美國國會 == the U.S. Congress
+	- government office 政府機關
 	- National Park Service 美國國家公園管理局
 	- constitution 憲法
 	- the U.S. Customs 美國海關
@@ -680,6 +699,15 @@
 	- bloc 政治聯盟/經濟聯盟 == A group of countries or political parties with common interests who have formed an alliance.
 	- communist (adj)共產主義的 (n)共產主義支持者
 	- courtier 朝臣/弄臣 == A person who attends a royal court as a companion or adviser to the king or queen.
+	- spoils system 獵官制，又稱分贓制度，是以政治背景進行公職任命。因選舉而政權政黨輪替之際，不分中央、地方的公務員悉數變更為新政權政黨的人物。也稱作獵官主義、黨人任用制。
+	- treason (n)叛國罪, 背叛/不忠 --> treasonable (adj)背叛的/叛國的
+	- Orders in Council 樞密令，英國君主會在樞密院的建議下發出，以發揮其行政權力。樞密令一般由政府，而非君主所撰寫，它的作用主要是制定簡單的政府規例和作政府任命。此外。樞密令也會向王家屬地立法機關通過的法律給予御准
+	- sovereign /ˈsɒvrɪn/
+		> 君主 |A supreme ruler, especially a monarch.| the Emperor became the first Japanese sovereign to visit Britain
+		> 至高無上的 |Possessing supreme or ultimate power.|
+		> 主權獨立的 |(of a nation or its affairs) acting or done independently and without outside interference.|
+		> 極好的/極有效的 |Very good or effective.|
+	+ veto /ˈviːtəʊ/ (n)否決權/否決, 禁止/禁令 (v)行使否決權, 拒絕
 
 [Structure]
 	- balcony 陽台
@@ -716,7 +744,17 @@
 		> |The forecourt of a large church built on the basilican plan.|
 		> 心房 |Each of the two upper cavities of the heart from which blood is passed to the ventricles. The right atrium receives deoxygenated blood from the veins of the body, the left atrium oxygenated blood from the pulmonary vein.|
 	- totem pole 圖騰柱
-
+	- ditch
+		> 水道/渠道 |A narrow channel dug at the side of a road or field, to hold or carry away water.| their car went out of control and plunged into a ditch
+		> |Provide with a ditch or ditches.| he was praised for ditching the coastal areas
+		> 拋棄/丟棄 |Get rid of or give up.| plans for the road were ditched following a public inquiry
+		> |End a relationship with (someone) peremptorily.| she ditched her husband to marry the window cleaner
+		> 水上迫降 |Bring (an aircraft) down on water in an emergency.| he was picked up by a gunboat after ditching his plane in the Mediterranean
+	- mound /maʊnd/
+		> 土石堆 |A rounded mass projecting above a surface.| the bushes were little more than vague mounds beneath the snow
+		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
+		> |Heap up into a rounded pile.|
+		> 一堆 |A large pile or quantity of something.| a mound of dirty crockery
 [Sport]
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊

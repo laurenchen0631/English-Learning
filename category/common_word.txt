@@ -76,6 +76,9 @@
 		> |to have more money than you had in the past or more money than most other people| Obviously we're better off now that we're both working.
 		> |to be in a better situation, if or after something happens| He'd be better off working for a bigger company.
 	- beat
+	+ believe in
+		> 認為...存在 |to think that someone or something exists| I don’t believe in miracles.
+		> 相信/信任 |to feel confident that a person or organization is good or reliable| Some of his previous supporters have stopped believing in him.
 	- beneath /bɪˈniːθ/
 	- breed -> bred -> bred 
 	- bulk
@@ -247,7 +250,26 @@
 		> 天橋/平交道 |A point or place of crossing from one side to the other.|
 		> 成名 |The process of achieving success in a different field or style, especially in popular music.|
 		> 交叉 |Relating to or denoting trials of medical treatment in which experimental subjects and control groups are exchanged after a set period.| a crossover study
-
+	+ charge
+		> 索價 |Demand (an amount) as a price for a service rendered or goods supplied.| wedding planners may charge an hourly fee of up to £150
+		> 價錢 |A price asked for goods or services.|
+		> 指控 |Formally accuse (someone) of something, especially an offence under law.| they were charged with assault
+		> |An accusation, typically one formally made against a prisoner brought to trial.|
+		> 委託/委任 |Entrust (someone) with a task as a duty or responsibility.| the committee was charged with reshaping the educational system
+		> 責任 |Responsibility for the care or control of someone or something.| the people in her charge are pupils and not experimental subjects
+		> 被委託的人 |A person or thing entrusted to the care of someone.|
+		> 充電 |Store electrical energy in (a battery or battery-operated device)| the shaver can be charged up and used while travelling
+		> |The property of matter that is responsible for electrical phenomena, existing in a positive or negative form.|
+		> 填充/裝滿 |Load or fill (a container, gun, etc.) to the full or proper extent.|
+		> 火藥 |A quantity of explosive to be detonated in order to fire a gun or similar weapon.| smaller charges, fired on three minute fuses lit by hand
+		> 瀰漫/充滿 |Fill or pervade with a quality or emotion.| the air was charged with menace
+		> |A thrill.| I get a real charge out of working hard
+		> 衝鋒 |Rush forward in attack.| the plan is to charge headlong at the enemy
+		> |A headlong rush forward, typically in attack.|
+	+ correction
+		> 改正 |The action or process of correcting something.| I checked the typing for errors and sent it back for correction
+		 修正量 |A quantity adjusting a numerical result to allow for a departure from standard conditions.| isotopic ratios are presented normalized to NBS SRM981 using a fractionation correction of 0.101% per a.m.u
+		> 懲治/懲罰 |Punishment, especially that of criminals in prison intended to rectify their behaviour.| the incompatibility of justice and correction as penal objectives has long been the major unsolved problem of penal practice
 [D]
 	- date
 	- date back to == to have been made in or to have come into being in (a certain time in the past)
@@ -308,6 +330,8 @@
 		> 混錄 |Combine (two or more sound recordings) into one composite soundtrack.|
 		> 沒經驗的人 |An inexperienced or unskilful person.|
 		> 貢獻 |Pay up; make a contribution.|
+	+ dispose of == Get rid of by throwing away or giving or selling to someone else.
+	
 [E]
 	- -esque 似 == (forming adjectives) in the style of; resembling.
 
@@ -420,7 +444,19 @@
 	- fan out
 		> 成扇形散開 |If a group of people fan out, they move in different directions from a single point.|
 		> 散佈在 |to spread out over a wide area| The police fanned out over the west side of the park.
-	
+	+ foreigner /ˈfɒrɪnə/ 外國人
+	+ fine
+		> 好的 |Of very high quality; very good of its kind.|
+		> 好的/同意的 |Used to express one's agreement with or acquiescence to something.| anything you want is fine by me, Linda
+		> 細的/窄的 |Very thin or narrow.| a fine nylon thread
+		> 變瘦 |Make or become thinner.| she'd certainly fined down—her face was thinner
+		> 尖銳的 |(of a point) sharp.| I sharpened the leads to a fine point
+		> 細小的 |Made or consisting of small particles.| the soils were all fine silt
+		> 難以捉模的 |(of something abstract) subtle and therefore perceived only with difficulty and care.|
+		> 使純淨 |Clarify (beer or wine) by causing the precipitation of sediment during production.| 
+		> 罰款 |A sum of money exacted as a penalty by a court of law or other authority.|
+		> 罰 |Punish (someone) for an illegal or illicit act by making them pay a sum of money.|
+
 [G]
 	- great
 	- get -> got -> gotten
@@ -529,6 +565,7 @@
 	- lock
 	- lock up == to lock all the doors and windows of a building so that no one can get in
 		> I locked up and went to bed
+	+ lesser 較小的/次級的 == Not so great or important as the other or the rest.
 
 [M]
 	- make up
@@ -564,7 +601,13 @@
 		> 髒的 |Untidy or dirty.|
 		> 麻煩的 |Generating or involving mess.| stripping wallpaper can be a messy, time-consuming job
 		> 混亂的 |(of a situation) confused and difficult to deal with.|
-
+	+ material
+		> 材料 |The matter from which a thing is or can be made.|
+		> 人才 |A person of a specified quality or suitability.| he's not really Olympic material
+		> 素材 |Information or ideas for use in creating a book or other work.| his colonial experiences gave him material
+		> 布料 |Cloth or fabric.| a piece of dark material
+		> 物質的 |Denoting or consisting of physical objects rather than the mind or spirit.| the material world
+		> 重要的 |Significant; important.| the insects did not do any material damage to the crop
 [N]
 	- nowhere
 		> 沒有任何地方地 |Not in or to any place; not anywhere.| plants and animals found nowhere else in the world
@@ -677,9 +720,40 @@
 		> 區 |Any small enclosure in which someone or something can be confined.|
 		> 把...關在 pen someone up/in |Confine someone in a restricted space.| they had been penned up day and night in the house
 		> 母天鵝 |A female swan.|
+	+ pad
+		> 墊/護墊 |A thick piece of soft material, typically used to protect or shape something, or to absorb liquid.|
+		> 填塞 |Fill or cover (something) with a soft material in order to protect or shape it or to make it more comfortable.| 
+		> pad up 墊 |Put on protective pads in order to play a sport, especially cricket.| at the age of 90, he still pads up ready to bat
+		> pad something out 鋪張/拉長 |Lengthen a speech or piece of writing with unnecessary material.| don't pad out your answer to make it seem impressive
+		> 浮報 |Defraud by adding false items to (an expenses claim or bill)| padded expenses for government work reaped billions of dollars for the Mafia
+		> 肉墊 |The fleshy underpart of an animal's foot or of a human finger.| a dog's pads will bleed profusely if cut
+		> 放輕腳步走 |Walk with steady steps making a soft dull sound.| she padded along the corridor
+		> 微弱的腳步聲 |The soft dull sound of steady steps.|
+		> 便條紙簿 |A number of sheets of blank paper fastened together at one edge, used for writing or drawing.| I always keep a pad of paper by the phone.
+		> 發射台/起降臺 |A flat-topped structure or area used for helicopter take-off and landing or for rocket-launching.| an office building with a helicopter pad
+		> 家 |A person's home.| the police raided my pad
 	- plan out == To make thorough, detailed arrangements and preparations for something in the future.
 		> Make sure this deal is planned out very carefully. Even the slightest mistake could cost us a huge amount of money.
 		> We've spent nearly two years planning our wedding out — at this point, I just want it to be over with!
+	+ pitch
+		> 音高 |The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone.| her voice rose steadily in pitch
+		> |Set (one's voice or a piece of music) at a particular pitch.| you've pitched the melody very high
+		> 坡度 |The steepness of a slope, especially of a roof|
+		> |Cause (a roof) to slope downwards from the ridge.|
+		> 強度/力度 |A level of the intensity of something, especially a high level.| the media furore reached such a pitch that the company withdrew the product
+		> |A delivery of the ball by the pitcher.|
+		> |Throw (the ball) for the batter to try to hit.|
+		> 推銷 |A form of words used when trying to persuade someone to buy or accept something.| he put over a very strong sales pitch
+		> |Make a bid to obtain a contract or other business.| I've been pitching for this account for over a month
+		> 前後擺盪 |A swaying or oscillation of a ship, aircraft, or vehicle around a horizontal axis perpendicular to the direction of motion.|
+		> |(of a moving ship, aircraft, or vehicle) rock or oscillate around a lateral axis, so that the front moves up and down.|
+		> 間距/螺距 |The distance between successive corresponding points or lines, for example between the teeth of a cogwheel.|
+		> 瀝青 |A sticky resinous black or dark brown substance that is semi-liquid when hot and hardens when cold, obtained by distilling tar or turpentine and used for waterproofing.|
+		> 像瀝青之物/樹脂/松脂 |Any of various substances similar to pitch, such as asphalt or bitumen.|
+		> 扔/拋 |Throw roughly or casually.| he crumpled the page up and pitched it into the fireplace
+		> |Fall heavily, especially headlong.| she pitched forward into blackness
+		> 搭帳篷/紮營 |Set up and fix in position.| we pitched camp for the night
+		> |Pave (a road) with stones.| another sort of stone is used for pitching streets
 [Q]
 	- qualify
 		> |Be entitled to a particular benefit or privilege by fulfilling a necessary condition| He qualifies as a genuine political refugee
@@ -725,9 +799,12 @@
 	- revolve around 以…為中心/以…為主題 == to have someone or something as the main or most important interest or subject
 		> It still revolved around superstition, but of a mild variety, with quaint rituals indicating things such as whether a lover was being faithful or would become a future marriage partner.
 	- red tape 繁文縟節 == official rules and processes that seem unnecessary and delay results
-
+	+ reasonably
+		> 合理地 |In a sensible way.| he began to talk calmly and reasonably about his future
+		> 相當地 |To a moderate or acceptable degree; fairly.| she played the piano reasonably well
 [S]
-	- set
+	+ spread -> spread -> spread
+	+ set -> set -> set
 	- set sth aside == to save something, usually money or time, for a special purpose
 		> More than 809,000 hectares were set aside eight years later to preserve the Yellowstone River's source, known for geyser and hot springs.
 	* set off
@@ -901,6 +978,9 @@
 		> 界外場地 |The area immediately outside either sideline as a place for non-players, substitutes, or spectators.|
 		> 使退場 |Cause (a player) to be unable to play in a team or game.| an ankle injury has sidelined him for two weeks
 		> 退出第一線 |Remove from the centre of activity or attention; place in a less influential position.| backbench MPs have been sidelined and excluded from decision-making
+	+ strategic /strəˈtiːdʒɪk/ == strategical
+		> 重要的/有助於計劃成功的 |Relating to the identification of long-term or overall aims and interests and the means of achieving them.| strategic planning for the organization is the responsibility of top management
+		> 戰略上的 |Relating to the gaining of overall or long-term military advantage.| British strategic and commercial interests
 [T]
 	* tap
 		> 水龍頭 |A device by which a flow of liquid or gas from a pipe or container can be controlled.|
@@ -979,7 +1059,19 @@
 	- tick sb off
 		> 斥責 |to speak severely to and criticize someone who has done something wrong| I had to tick him off for being late again.
 		> 煩擾 |to annoy someone| It really ticks me off when she doesn't keep her promises.
-
+	+ try (v)
+		> 嘗試 |Make an attempt or effort to do something.| he tried to regain his breath
+		> 嘗試通訊 |Attempt to contact.| I've tried the apartment, but the number is engaged
+		> 磨練/折磨 |Make severe demands on (a person or a quality, typically patience)| Mary tried everyone's patience to the limit
+		> 審判 |Subject (someone) to trial.| he was arrested and tried for the murder
+		> 審理 |Investigate and decide (a case or issue) in a formal trial.| the case is to be tried by a jury in the Crown Court
+		> 磨 |Smooth (roughly planed wood) with a plane to give an accurately flat surface.|
+		> 提取 |Extract (oil or fat) by heating.| some of the fat may be tried out and use
+	+ trial (n)
+		> 審判 |A formal examination of evidence by a judge, typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.| the newspaper accounts of the trial
+		> 使用/試驗 |A test of the performance, qualities, or suitability of someone or something.| clinical trials must establish whether the new hip replacements are working
+		> 試驗 |Test (something, especially a new product) to assess its suitability or performance.|
+		> 考驗 |A person, experience, or situation that tests a person's endurance or forbearance.| the trials and tribulations of married life
 [U]
 	- up-close
 		> |At very close range| he was able to experience glaciers calving up-close
@@ -1004,7 +1096,6 @@
 		> 納悶/不明白 |Desire to know something; feel curious.| how many times have I written that, I wonder?
 		> 請問 |Used to express a polite question or request.| I wonder whether you have thought more about it?
 		> 感到懷疑 |Feel doubt.| even hereditary peers are inclined to wonder about the legitimacy of the place
-
 	- window
 		> |An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out.| 
 		> |A means of observing and learning about something.| television is a window on the world
@@ -1036,6 +1127,10 @@
 	- wreak
 		> 造成 |Cause (a large amount of damage or harm)| torrential rainstorms wreaked havoc yesterday
 		> 給予 |Inflict (vengeance)| they would soon have a chance to wreak their revenge on the enemy
+	- wax (n)蠟 --> waxy (adj)蠟的/像蠟的
+	* whereabouts
+		> 下落 |The place where someone or something is.| his whereabouts remain secret
+		> |Where or approximately where.| whereabouts do you come from?
 [Latin]
 	- bona fides
 		> 真誠 |A person's honesty and sincerity of intention.| he went to great lengths to establish his liberal bona fides

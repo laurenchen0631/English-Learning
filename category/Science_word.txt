@@ -32,6 +32,7 @@
 		> 湯 |Soup consisting of meat or vegetables cooked in stock, sometimes thickened with barley or other cereals.|
 		> 培養液 |A liquid medium containing proteins and other nutrients for the culture of bacteria.| broth cultures of intestinal tissue
 	- vial 小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
+	- satellite /ˈsatəlʌɪt/ 衛星
 
 [Chemical]
 	- carbon dioxide
@@ -80,6 +81,7 @@
 	- light wave 光波
 	- ultraviolet light 紫外線
 	- waveform 波形 
+	+ /ɪnfrəˈrɛd/ infrared (Adj)紅外線的
 
 [Human]
 	- protractor (n)量角器, 伸肌
@@ -155,7 +157,10 @@
 		> |A central hall in a modern building, typically rising through several stories and having a glazed roof.|
 		> |The forecourt of a large church built on the basilican plan.|
 		> 心房 |Each of the two upper cavities of the heart from which blood is passed to the ventricles. The right atrium receives deoxygenated blood from the veins of the body, the left atrium oxygenated blood from the pulmonary vein.|
-
+	+ sperm (n)精液 = semen, 精子 = spermatozoon
+	+ egg (n)卵子 = ovum, 蛋, 人/傢伙 (v)煽動
+	- sex cells 性細胞 == The sperm and egg of living things
+	
 [Environment]
 	- greenhouse effect
 	- epicenter

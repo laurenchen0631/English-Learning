@@ -1266,7 +1266,7 @@
     + /hɪˈdʒɛməni/ hegemony (n)霸權/領導權 = predominance = leadership = domination = authority <-- hegemon 領導 = lead
     ++ /ˈhɛr(ə)ld/ herald (v)聲明/宣布 = announce = proclaim, 預報……的來到 = usher in (n)預兆/前兆, 先驅 = harbinger = forerunner <|> ribald
     ++ hermetic (adj)密封的 = tightly sealed, 孤立的 = isolated, 神祕的/深奧的/不易理解的 = esoteric = recondite = magical = occult <|> hermit
-    + heroic (adj)英勇的 = daring = noble = stalwart = valiant
+    + /ˈhɪroʊ/ hero (n)英雄 --> /həˈroʊɪk/ heroicheroic (adj)英勇的 = daring = noble = stalwart = valiant
     ++ /hjuː/ hew (v)砍伐 = strike = chop = hack, 堅持/遵守 = conform = adhere <|> hem
     + hidebound (adj)思想偏狹頑固的/保守的 = inflexible = conservative
     + highlight (v)強調 = emphasize = make prominent = accentuate (n)最有趣最精彩的部分
@@ -2518,6 +2518,7 @@
     ++ spartan (adj)簡樸的/刻苦的 = austere = stern, 勇敢的 = brave = undaunted, 簡潔的 = laconic
     + speeding (n)超速行駛 (adj)高速行駛的, 快速寫作的
     + spendthrift (n)揮霍無度的人 (adj)揮霍無度的 <-- spend + thrift
+    +++ /spɔɪl/ spoil (v)破壞/糟蹋, 寵愛/溺愛/縱容, 極度渴望 (n)掠奪物, 廢品
     *** spirit (n)精神/心靈/情緒/氣魄/念頭, 靈魂/幽靈, 精神/風氣, 烈酒 --> spiritual (adj)精神的
     * spiritless (adj)無精打采的/沒有生氣的 = listless = apathetic = dull = torpid = lethargic = languid = wan
     + spirited (adj)活潑的/生氣勃勃的 = mettlesome
@@ -2572,6 +2573,7 @@
     * /ˈsatʃəreɪt/ saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
     * scatter (v)(使)散開 = squander = disperse, 撒 = sprinkle
     * scholar (n)學者, 獎學金獲得者 --> scholarly (adj)學者的, 博學的 = erudite = learned, 勤奮好學的
+    * scholarship (n)學術成就, 獎學金
     ** scramble (v)(艱難地)移動/爬/攀登 = clamber, 爭搶, 緊急起飛, 使混雜 (n)(艱難的)移動/爬/攀登, 匆匆的行爲, 搶奪/爭搶, 炒蛋
     * scrape (v)去除/刮除, 刮傷, 搜刮, 刮擦, 費盡千辛萬苦 (n)擦傷, 摩擦的聲音, 困境 = predicament = quagmire = quandry
     * seasoned (adj)有經驗的/訓練有素的
@@ -2623,7 +2625,7 @@
     *** sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy
     * spasm (n)抽搐/痙攣 = jerk --> spasmodic (adj)痙攣的 = jerky
     * splendor (n)壯麗 = magnificence = grandeur, 輝煌 = brilliancy --> splendid (adj)極佳的/華麗的/壯麗的 = grand = gorgeous = gorgeous = magnificent = sumptuous
-    * /spɔɪl/ spoil (v)破壞/糟蹋 = blemish = blight = mar = wreck, 寵愛/溺愛/縱容 (n)掠奪物, 廢品
+
     * sponge (n)海綿, 擦拭/擦洗 (v)白吃/白要 = cadge, 擦/擦洗 --> spongy (adj)像海綿的, 不堅實的
     * spouse (n)配偶
     * /spaʊt/ spout (v)噴出 = erupt (n)噴口, 水柱

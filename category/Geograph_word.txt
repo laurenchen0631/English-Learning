@@ -63,7 +63,7 @@
 	- Chicago 芝加哥位於美國中西部，屬伊利諾州
 	- Manhattan 曼哈頓，紐約市五個行政區之中最人口稠密的一個區
 	- Pittsburgh 匹茲堡，位於美國賓夕法尼亞州西南部
-	- Montgomery /məntˈɡʌməri/ 蒙哥馬利郡
+	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
 
 [U.S. State]
@@ -77,6 +77,7 @@
 	- Vermont 佛蒙特州 
 	- New Hampshire 新罕布夏州，位於美國東北部新英格蘭地區的一個州，南接馬薩諸塞州，西接佛蒙特州
 	- Texas 德克薩斯州，簡稱德州，是全美國土地面積和人口的第二大州
+	- Georgia 喬治亞州，是美國東南方的一個州
 	- Colorado 科羅拉多州
 	- Utah 猶他州。首府鹽湖城。
 	- Arizona 亞利桑那州。首府和最大城市是鳳凰城。
@@ -98,7 +99,8 @@
 [World]
 	- the Western Hemisphere
 	- North Central Africa
-	- Spaniard == A native or inhabitant of Spain
+	+ Spanish 西班牙
+	+ Spaniard 西班牙人 == A native or inhabitant of Spain
 	- Eskimo 愛斯基摩人
 	- Ethiopian 衣索比亞的
 	- Eurasia 歐亞大陸 
@@ -142,6 +144,9 @@
 	- Sicily 西西里 --> Sicilian 
 	- Belgium /ˈbɛldʒəm/ 比利時
 	- Turkmenistan 土庫曼，一個中亞國家
+	- Persia 波斯 --> Persian 
+	- Siberia /sʌɪˈbɪərɪə/ 西伯利亞 --> Siberian /sʌɪˈbɪərɪən/
+	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
 
 [Worldwide POI]
 	- Vesuvius 維蘇威火山
@@ -160,6 +165,7 @@
 	- Caucasus Mountains 高加索山脈
 	- Taklamakan Desert 塔克拉瑪干沙漠
 	- the New Territories 新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
+	- Tripoli 的黎波里，利比亞首都
 
 [Ocean]
 	- the Pacific Ocean

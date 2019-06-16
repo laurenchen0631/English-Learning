@@ -219,7 +219,7 @@
     aer 氣 = aero
         + /ˈɛːri/ aerie, eyrie (n)高處的房子, 鷹巢
         - aerate (v)注入氣體
-        - /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線
+        * /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
         - /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
 
     agog 引導 = lead, guide
@@ -1873,6 +1873,7 @@
         * embody (v)體現/具體地表顯, 包括/包含
         - embolden (v)壯膽/使有勇氣 <-- em + bold + en
         - emboss
+        * embitter (v)使難受/使忿恨 == Make (someone) feel bitter or resentful.
         + embrace
         + empathy
         - emphasis --> emphatic
@@ -2059,7 +2060,7 @@
 [F]
     for 拒絕/禁止/阻止 = reject, prohibit
         + forbear (v)克制/忍耐 = refrain = abstain from = desist from --> forbearance (n)自制, 忍耐 = patience <-- for + bear
-        * forbid (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
+        * forbid -> forbad/forbade -> forbidden (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
         - forbidding (adj)冷淡的, 嚴峻的, （情勢）險惡的
         + forfeit (v)喪失/被罰沒收 (n)沒收/沒收物 (adj)被罰的/被沒收的
         - forgo (v)克制 = abstain = refrain, 放棄/拋棄 = renounce = resign = relinquish
@@ -2211,7 +2212,7 @@
         + defense, defence (n)防禦/保衛, 辯護/辯護方
         - offend (v)冒犯/觸怒/犯錯, 使不舒服
         - offensive (adj)冒犯的/無禮的, 得罪人的/令人不快的, 進攻的 (n)進攻/攻勢
-        - offence, offense (n)得罪/錯事/過錯
+        - offence, offense (n)違法行為, 冒犯, 攻擊/進攻方
         - fence, fense (n)籬笆
 
     fract, frac, frag 碎裂 = break == rupt
@@ -2334,7 +2335,7 @@
         + refulgent (adj)輝煌的/燦爛的 = shining = radiant = resplendent
 
     feder 聯盟 = league
-        - confederacy (n)(政治或貿易的)聯盟/同盟/聯邦 = alliance
+        * /kənˈfɛd(ə)rət/ confederate (adj)同盟的 (v)同盟 (n)共犯 --> confederacy (n)(政治或貿易的)聯盟/同盟/聯邦 = alliance
         - federal (adj)聯邦的 <|> feral
     
     fess 承認/聲明 = admit, acknowledge, declare
@@ -2623,6 +2624,7 @@
     here, heir, herit 繼承
         * heir (n)繼承人
         * hereditary (adj)遺傳的, 世襲的 --> heredity (n)
+        + /ˈhɛrɪtɪdʒ/ heritage (n) 遺產 = inheritance
         * /ɪnˈhɛrɪt/ inherit (v)繼承
         + /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
@@ -2728,7 +2730,7 @@
         - humus (n)腐殖質/腐質土壤
         + humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑 = grovel, 使威信掃地
         - humility (n)謙卑/謙遜
-        - humiliate (v)使屈辱/羞辱 = mortify = degrade 
+        + humiliate (v)使屈辱/羞辱 = mortify = degrade --> humiliation (n)羞辱/恥辱 = opprobrium
         + humdrum (adj)無聊的/乏味的/單調的 = boring = dull (n)單調 = monotony
 
 [I]
@@ -3071,6 +3073,7 @@
             + intellect --> intellectual
             - intelligent --> intelligence
             + intelligible
+            + /ɪnˈtəːn(ə)l/ internal (adj)裡面的/內在的/內心的, 國內的 = domestic, 本質的 = intrinstic <|> /ɪˈtəːn(ə)l/ eternal
             - interact --> interaction
             + interdisciplinary (adj)跨學科的
             - intercalate (v)插入/置於...中間 = interpose = interpolate
@@ -3167,7 +3170,7 @@
         - inject (v)注射/注入 --> injection (n)注射, 注射劑
         - interject (v)插話/插嘴 = interpolate --> interjection (n)插入語, 感歎詞
         + object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
-        - objective (adj)客觀的, 目標 = aim --> objectivity (n)客觀
+        - objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
         * project (v)預計/推算, 投擲/發射, 放映/投射, 伸出/突出 (n)方案/工程/專案
         - projectile (n)投射物
         - projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -3255,7 +3258,7 @@
         + elude (v)躲避 = evade = escape, 不理解/脫離認知 --> elusion (n)逃避/躲避
         ++ elusive (adj)難以表達的 = slippery, 精於逃避的, 難找到的 = diffcult to find = evasive = obscure = delicate
         * ludicrous (adj)滑稽的/荒唐可笑的 = absurd = grotesque = ridiculous = comic
-        + illusion (n)假象/錯覺 --> illusive (adj)迷惑人的/迷幻的 --> illusory (adj)欺騙的 = illusive = deceptive, 虛假的 = unreal = delusive = counterfeit
+        + illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive (adj)迷惑人的/迷幻的 --> illusory (adj)欺騙的 = illusive = deceptive, 虛假的 = unreal = delusive = counterfeit
         - interlude (v)暫時休息/間歇, 插曲
         - prelude (n)序幕/前奏/序曲
             
@@ -3282,7 +3285,7 @@
 
         2. 法律/君主 = liege, law
             - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocate (v)
-            + legislate (v)制定法律 --> legislation (n)制定法律, 法條/法規
+            + legislate (v)制定法律 --> legislation (n)立法, 法條/法規
             - legal (adj)法律的, 合法的/正當的 = legitimate
             + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine
             * legislature (n)立法機關, 美國州議會
@@ -3426,7 +3429,7 @@
 
     labor, labyr 勞動 = work
         - collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
-        * elaborate (v)精心做, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的, 詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
+        +++ /ɪˈlab(ə)rət/ elaborate (v)精心做, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的, 詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
         + labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive
         + laborious (adj)耗時費力的/艱巨的/艱難的 = ardous
         - labored (adj)吃力的 = strained, 不自然的 = unnatural
@@ -3436,7 +3439,7 @@
     lap, lapse 落下/滑倒 = fall, slip, slide
         + collapse (v)倒塌/坍塌, (因疾病或虛弱而)倒下/昏倒, (人或企業)崩潰/垮掉/失敗 = founder
         - elapse (v)時間流逝
-        - lapse (n/v)失誤/過失 (n)間隔時間 (v)流逝, 期滿終止/失效/廢止
+        + lapse (n)失誤/小錯, 一段時間/流逝的時間, 跌落/下降 (v)中止/失效, 陷入
         - relapse (v)(疾病)復發, 故態復萌 (n)舊病復發
 
     late 拿 = bear
@@ -3966,12 +3969,12 @@
         + normative (adj)基準的/規範的 <-- norm
 
     numer 數字
-        - enumerate (v)列舉/枚舉
+        + /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉 --> enumeration (n)
         + /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many
         - innumerable (adj)數不清的
 
     nat, nasc, naiss 出生 = born
-        + innate (adj)與生俱來的/天生的 = inborn = native
+        + innate (adj)與生俱來的/天生的 = inborn = native <|> inmate
         - natality (n)出生率
         - nascent (adj)新生的/萌芽的 = incipient = embryonic --> nascency (n)發生/起源
         - renascent (adj)再生的/復興的/復活的
@@ -4153,6 +4156,7 @@
         - insubordinate (adj)不順從的 = wayward = ungovernable = froward = disobedient = obstinate = intractable
 
     ori 升起 = rise
+        * aboriginal (adj)原住民的 (N)原住民
         - orient (v)確定方向, 熟悉環境 (n)東方/亞洲, 優質珍珠 (adj)東方的, 正在升起的
         - origin (n)起源/由來/出身/產地
         - original (adj)本來的/原始的, 有獨創性的 (n)原物 --> originality (n)創造性/獨特性
@@ -4235,6 +4239,7 @@
     pre 先前/前面 = before, early, prior to 
         + improvise
         + preamble
+        * precaution (n)謹慎/預防
         + precede --> precedent
         - precedence
         + precept
@@ -4358,7 +4363,7 @@
         - protest (n/v)抗議/反對
         - protuberant (adj)凸出的/隆起的 = prominent = tumid = bulging <-- pro + tuber 隆起/腫脹 + ant
         * protude
-        - provenance (n)出處/起源 = origin = source
+        * provenance (n)出處/起源 = origin = source
         - provender (n)糧草
         + provident
         + providential
@@ -4697,7 +4702,7 @@
         - position (n)職位, 地位, 地點, 處境, 安置方式, 態度 (v)安放/放置
         - positive (adj)肯定的, 積極的
         - poster (n)海報/招貼
-        - postpone (v)使延期/推時 <-- post 後 = after + pone
+        * postpone (v)使延期/推遲 <-- post 後 = after + pone
         * postulate (v)假定 = assume = presume = posit, 要求 = demand = claim
         - posture (n)姿勢, 情形/態勢, 心情/心境 (v)裝模作樣/故作姿態
         - predisposition (n)傾向
@@ -4759,7 +4764,7 @@
     propr, proper 擁有 = own
         ++ appropriate (v)撥款 = allot, 挪用/盜用 = embezzle (adj)恰當的 = agreeable
         - misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
-        - property (n)財產, 房地產, 所有權
+        - property (n)財產, 房地產, 所有權, 特性
         + propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
         + proprietary (adj)所有權的/所有人的, 專賣的/專利的 = patent
     	- proprietor  業主 == The owner of a business, or a holder of property.
@@ -4885,6 +4890,7 @@
         - depressed (adj)消沈的, 凹陷的 <--> bulged
         + impress (v)使感動, 使銘記 --> impressed (adj)被打動的/被感動的 --> impression (n)印象, 感想, 蓋印/壓痕
         - impressionable (adj)易受影響的
+        - impressment (n)徵召
         + oppress (v)壓迫/壓制, 使..煩惱/焦慮 --> oppressive (adj)壓迫的, 令人焦躁的, 悶熱的 = muggy = stifling
         + press (v)擠壓 --> pressing (adj)緊迫的/迫切的, 懇切要求的
         + repress (adj)抑制 = constrain = subdue = supress, 鎮壓/平息 = subdue = supress = quell = quash --> repressed (adj)被壓制的/被壓抑的 --> repressive (adj)抑制的/壓制的
@@ -4963,18 +4969,6 @@
     phyto, phyte 植物 = plant
         - neophyte
         - xerophyte
-
-    pharmaco, pharmac 藥 = drug
-        - pharmacy (n)藥局/藥房, 配藥學
-        - pharmacist (n)藥劑師
-        - pharmacology (n)藥理學
-        - pharmaceutical (adj)藥物的/製藥的
-
-    physi, physio 自然的 = nature
-        - physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
-        - physiology (n)生理學 --> physiological (adj)生理的/生理學的
-        + /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
-        + /fɪˈzɪʃ(ə)n/ physician (n)醫師
         
     ponder 重量 = weigh
         - ponder (v)仔細考慮 
@@ -4999,6 +4993,18 @@
         - psychiatrist (n)精神科醫生
         - psychiatry (n)精神病學
     	- psychoactive (adj)影響精神行為的 == (chiefly of a drug) affecting the mind
+
+    physi, physio 自然的 = nature
+        - physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
+        - physiology (n)生理學 --> physiological (adj)生理的/生理學的
+        + /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
+        + /fɪˈzɪʃ(ə)n/ physician (n)醫師
+
+    pharmaco, pharmac 藥 = drug
+        - pharmacy (n)藥局/藥房, 配藥學
+        - pharmacist (n)藥劑師
+        - pharmacology (n)藥理學
+        - pharmaceutical (adj)藥物的/製藥的
 
     port 帶著 = carry
         - export
@@ -5383,7 +5389,7 @@
         - regime (n)政體/政權, 社會制度
         + regulate (v)管理/控制, 校準.調整 --> regulation (n)規章/規則, 管理, 調整 (adj)正規的/正式的, 普通的/一般的
         * reign (n)統治/支配, 王朝, 領域 (v)統治, 支配/盛行
-        + sovereign (n)君主/元首 (adj)統治者的 = royal, 至高無上的, 極好的/出類拔萃的 = supreme = preeminent = indisputable, 極度的 = utmost = extreme, 強效的 = efficacious = potent 
+        ++ sovereign (n)君主/元首 (adj)至高無上的, 主權獨立的, 極好的/極有效的 = effective
         + sovereignty (n)主權/統治權 <-- sove 上面 = over + reign
 
     rap, rav 抓取 = seize
@@ -5584,7 +5590,7 @@
         - instant (adj)立即的/迫切的, 速食的/即溶的 (n)頃刻
         - instantaneous (adj)立即的 = immediate, 瞬間發生的
         - instate (v)任命/安置
-        + institute (v)建立/制定 (n)研究所/學院/協會 --> institution (n)公共機構/協會, 制度
+        + institute (v)建立/制定 (n)研究所/學院/協會 --> institution (n)組織/協會, 制度, 代表性人物/習俗, 建立/設立
         - institutionalized (adj)制度化的/有組織的
         - instrument (n)儀器/器具, 手段, 樂器 --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
         - obstacle (n)障礙/干擾
@@ -5612,7 +5618,7 @@
         - stead (n)代替/接替, 用處/利益
         + steady (adj)穩固的/平穩的/穩定的/鎮靜的, 紮實的/可靠的 (v)使穩固/使鎮定 (n)關係確定的情侶
         - steadfast (adj)忠實的 = faithful, 不變的
-        - subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 存在 = existence
+        - subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 生存手段, 法律效力
         - substance (n)本旨/主旨/真意, 實質/本質/實體, 物質
         +++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 實質的 = real = tangible, 基本的 = basic = essential = fundamental, 有權勢的 = wealthy = influential, 重要的 = worthwhile = important = essential 
         ++ substantiate (v)證實/確證 = bear out = establish = vindicate = corroborate, 賦予實體, 加強 = strengthen
@@ -6285,7 +6291,7 @@
         + contingency (n)可能性 = uncertainty = fortuitousness, 意外事件/偶然
         + detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
         ++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
-        - intact (adj)完整無缺的/原封不動的
+        * intact (adj)完整無缺的/原封不動的
         - tactile (adj)觸覺的, 富有質感的
         + tangent (n)正切/切線 (adj)切線的, 離題的 --> /tanˈdʒɛnʃ(ə)l/ tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
         ++ tangible (adj)可觸知的/有形的 = palpable = touchable, 真實存在的 = real = actual, 明確的 = definite
@@ -6301,7 +6307,7 @@
         - testy (adj)性急的, 易怒的/暴躁的 = irritable --> testiness (n)易怒
 
     tribute 歸於/給予 = assign, ascribe
-        + attribute (v)把...歸於 = ascribe = impute (n)屬性/特性, 品質 --> attribution (n)歸屬
+        +++ attribute (v)把...歸於 = ascribe = impute (n)屬性/特性, 品質 --> attribution (n)歸屬, 屬性
         + attributable (adj)可歸因於...的
         + contribute (v)貢獻 --> contribution (n)貢獻
         - distribute (v)分發/分配 = allot = dispense
@@ -6500,6 +6506,7 @@
         * unravel (v)解開/拆散, 揭開/弄清, 破壞
         - unregenerate (adj)不知悔改的
         - unregulated (adj)未受管理的/未受約束的
+        * unrelenting (adj)堅定的/不退讓的
         + unreliable (adj)不可信任的/靠不住的/不可靠的
         - unremitting (adj)不間斷的/持續的
         - unrepentant (adj)不悔悟的/不後悔的
@@ -6690,7 +6697,7 @@
         + vortex (n)渦/旋風/旋渦 = whirlpool
 
     verge 軸/竿 = rod
-        + converge (v)匯聚/交會, 聚集/集中, 趨於一致 --> convergent (adj)匯聚的
+        + converge (v)匯聚/交會, 聚集/集中, 趨於一致 --> convergent (adj)匯聚的 --> convergence (n)
         + diverge (v)分叉, 偏離/背離 = deviate = depart, 分歧/相異 --> divergence (n)分歧/相異 --> divergent (adj)分歧的
         - verge (n)邊緣/瀕臨
 
