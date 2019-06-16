@@ -47,12 +47,17 @@
 		> 健康安樂/幸福 |The health, happiness, and fortunes of a person or group.| they don't give a damn about the welfare of their families
 		> 福利事業 |Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.| the protection of rights to education, housing, and welfare
 		> 社會救濟 |Financial support given to those who are unemployed or otherwise in need.| critics feared an increase in inequalities in the provision of welfare
+	- backbreaking 需要勞力的 == (of manual labour) physically demanding.
+	- logistic 後勤 == the careful organization of a complicated activity so that it happens in a successful and effective way
+	- tycoon 巨頭/大亨 == A wealthy, powerful person in business or industry.
+	- supremo 大師 == A person with great authority or skill in a certain area.
 
 [House]
 	- butler == The chief manservant of a house.
 	- manor 莊園 == A large country house with lands.
 	- detergent 洗潔劑
 	- utensil == A tool, container, or other article, especially for household use.
+	- chore 雜務 == A routine task, especially a household one.
 
 [Finance]
 	- IPO == Initial Public Offerings 首次公開募股
@@ -89,6 +94,8 @@
 	- trial court 初審法院
 	- the Circuit Court 美國巡迴上訴法院
 	- law-enforcement authority 執法機關
+	- legislator 立法員
+	- legislature 立法機關 == The legislative body of a country or state.
 	- d.a. == district attorney 地方檢察官
 	- grand jury 大陪審團
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
@@ -161,6 +168,12 @@
 		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.|
 		> 侵佔/竊取 |Take or acquire in an unfair or clandestine way.| employers risk having their newly trained workers poached by other firms
 		> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
+	- probation (n)試用, 緩刑
+	- extradition 引渡 == The action of extraditing a person accused or convicted of a crime.
+	- lease
+		> 租約 |A contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.|
+		> 租給 |Grant (property) on lease; let.| she leased the site to a local company
+		> 租 |Take (property) on lease; rent.| land was leased from the Duchy of Cornwall
 
 [Army]
 	- captain
@@ -170,6 +183,10 @@
 		> |A remote part of a country or empire.| a few scattered outposts along the west coast
 	- sergeant == A rank of non-commissioned officer in the army or air force, above corporal and below staff sergeant.
 	- sergeant-at-arms 議會警衛官
+	- tear gas 催淚彈
+	- flak
+		> 防空炮 |Anti-aircraft fire.|
+		> 批評/抨擊 |Strong criticism.| you must be strong enough to take the flak if things go wrong
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -190,8 +207,12 @@
 	- rattletrap 老爺汽車 == An old or rickety vehicle.
 	- roller-skate == Glide across a hard surface on roller skates.
 	- motor pool 調度場 == carpool == a group of vehicles used for a particular purpose and dispatched when needed. A group of military vehicles under the control of the military is an example of a motor pool.
+	- windscreen 擋風玻璃
+	- dead reckoning 航位推測法，是一種利用現在物體位置及速度推定未來位置方向的航海技術
+	- diesel motor 柴油引擎
+	- hydraulic fluid 液壓油
 
-[Agriculture]
+[Agriculture/Farming]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
 	- compost
 		> 堆肥 |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
@@ -199,6 +220,28 @@
 	- graziers /ˈɡreɪzɪə/ 畜牧業者 == A person who rears or fattens cattle or sheep for market.
 	- shepherd 牧羊人 == A person who tends and rears sheep.
 	- milkmaid 擠奶女工 == A girl or woman who milks cows or does other work in a dairy.
+	- mulch (n)護蓋物 (v)用護蓋物蓋 == Material (such as decaying leaves, bark, or compost) spread around or over a plant to enrich or insulate the soil.
+	- canopy 罩 == An ornamental cloth covering hung or held up over something, especially a throne or bed.
+	- tractor 拖拉機 == A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
+	- thresher 打穀機
+	- bundlers 紮捆機
+	- acreage 英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+	- meatpacking == The business of preparing and packing meat for transportation and sale.
+	- hoe (n)鋤頭 (v)鋤
+	- irrigate 灌溉 == Supply water to (land or crops) to help growth, typically by means of channels.
+	- leafy green 綠葉蔬菜
+	- arugula 芝麻菜
+	- bok choy 小白菜
+	- butterhead lettuce 結球萵苣
+	- kale 羽衣甘藍
+	- romaine 蘿蔓萵苣
+	- marijuana 大麻煙/大麻藥物
+	- cannabis 大麻
+	- hemp (n)大麻纖維, 大麻藥物
+	- cheese strainer 奶酪過濾器
+	- domesticate 
+		> 馴養 |Tame (an animal) and keep it as a pet or on a farm.|
+		> 人工培植 |cultivate (a plant) for food.|
 
 [Cook/Food]
 	- Worcestershire sauce 伍斯特醬
@@ -223,11 +266,22 @@
 		> be stewed in |Be steeped in or imbued with.| politics there are stewed in sexual prejudice and privilege
 		> 焦慮 |A state of great anxiety or agitation.|
 	- booze (n)酒精飲料 (v)大量飲講
-	- oatmeal 燕麥粉/燕麥片
 	- pretzel (v)蜷曲 (n)椒鹽脆餅
 	* cuisine /kwɪˈziːn/ (n)烹飪法 == cooking == cookery, 菜餚
-
-
+	- citrus /ˈsɪtrəs/ 柑橘
+	- lettuce /ˈlɛtɪs/ 萵苣
+	- rye 裸麥/黑麥
+	- oat 燕麥, 麥稈
+	- oatmeal 燕麥粉/燕麥片
+	- barley 大麥
+	- roughage 粗食品 == Fibrous indigestible material in vegetable foodstuffs which aids the passage of food and waste products through the gut.
+	- Chardonnay 夏多內，現在在全世界範圍內廣泛種植號稱葡萄皇后。可以釀造變化多端的白葡萄酒
+	- churn
+		> 攪乳器 |A machine for making butter by shaking milk or cream.|
+		> 攪拌 |Shake (milk or cream) in a machine in order to produce butter.| the cream is ripened before it is churned
+		> 翻騰 |(with reference to liquid) move or cause to move about vigorously.| her stomach was churning at the thought of the ordeal
+		> 隆起 |Break up the surface of (an area of ground)| the earth had been churned up where vehicles had passed through
+		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
 	- obituary 訃告 == A notice of a death, especially in a newspaper
@@ -236,6 +290,8 @@
 	- science-fiction 科幻
 	- Martian /ˈmɑːʃ(ə)n/ 火星人 == A hypothetical or fictional inhabitant of Mars.
 	- motion-picture 電影 == A cinema film
+	- the Academy Awards 學院獎，全名學院功績獎，通稱奧斯卡金像獎
+	- Grammy 葛萊美獎
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -303,6 +359,13 @@
 		> 內臟的 |Relating to the viscera.| the visceral nervous system
 		> |Relating to deep inward feelings rather than to the intellect.|
 	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
+	- bruise
+		> 擦傷/瘀青 |An injury appearing as an area of discoloured skin on the body, caused by a blow or impact rupturing underlying blood vessels.|
+		> |Inflict a bruise or bruises on (a part of the body)| I fell and bruised my kne
+		> 碰傷 |A mark indicating an area of damage on a fruit, vegetable, or plant.|
+		> |Cause a bruise or bruises to appear on (a fruit, vegetable, or plant)| the fall bruised several of the ripest bananas
+		> 傷害 |Hurt (someone's feelings)| I will admit that my pride was bruised by his comment
+		> 搗碎 |Crush or pound (food)| add the beans, tomatoes, and lime wedges and roughly bruise with the pestl
 	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
 	- ego
 		>> |A person's sense of self-esteem or self-importance.|
@@ -339,6 +402,8 @@
 		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
 	- neonatal 新生的 == Relating to newborn children (or other mammals)
 	- abscess 膿瘡/潰瘍
+	- E. coli == Escherichia coli 大腸桿菌
+	- deceased (n)死者 (adj)死亡的
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -401,6 +466,12 @@
 	- swing 搖擺樂，是1930年代早期發源於美國的一種音樂類型。音樂之所以稱為「搖擺樂」，是由於音樂強調小節裡的下半拍或弱拍，因而帶來搖擺的感覺。搖擺樂樂團通常會有獨奏樂手為編制好的音樂加上即興演奏。
 	- jukebox 點唱機 == A machine that automatically plays a selected musical recording when a coin is inserted
 	- jitterbug 搖擺舞/吉特巴舞 == A fast dance popular in the 1940s, performed chiefly to swing music.
+	- stagecraft 演出技巧 == Skill or experience in writing or staging plays.
+	- opus 著作 == A separate composition or set of compositions.
+	- bop 波普爵士樂
+	- electronica 電子樂
+	- dry run 演習/排練 == a practice of a particular activity or performance
+		> The day before the trial, the lawyers tried a dry run of the closing arguments.
 
 [Clothing/Fashion]
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
@@ -414,7 +485,6 @@
 		> |obtain a great deal of money from (someone), typically by overcharging or swindling them.| the city's cab drivers are notorious for fixing fares and fleecing tourists
 		> |Cover as if with a fleece.| the sky was half blue, half fleeced with white clouds
 	- duffel 粗呢 == A coarse woollen cloth with a thick nap.
-	- mustache /məˈstɑːʃ/ 髭 == A strip of hair left to grow above the upper lip.
 	- slacks 寬鬆長褲 == Casual trousers.
 	- button down shirt 鈕扣襯衫，在領子尖端加上鈕扣的襯衫
 	- sandal 涼鞋 == A light shoe with either an openwork upper or straps attaching the sole to the foot
@@ -435,7 +505,22 @@
 	- parka 有頭套的毛皮外套
 	- trinket 廉價首飾 == A small ornament or item of jewellery that is of little value.
 	- chinos 斜紋棉布褲/寬鬆的棉質褲子
+	- hose
+		> 水龍帶 |A flexible tube conveying water, used chiefly for watering plants and in firefighting.|
+		> 灑水 |Water or spray with a hose.| he was hosing down the driveway
+		> 長統襪/短統襪 |Stockings, socks, and tights (especially in commercial use)| her hose had been laddered
+		> 馬褲 |Breeches| Elizabethan doublet and hose
+	- sleeve /sliːv/ 
+		> 袖子 |The part of a garment that wholly or partly covers a person's arm.|
+		> 唱片套子 |A protective paper or cardboard cover for a record, CD, or DVD.| an album sleeve
+		> 風向袋 |A windsock.| At higher wind speed (approx. 30 km/hour, the sleeve inflates and indicates visually wind direction and speed.
+	- hoody == hoodie 連帽衫 == A hooded sweatshirt, jacket, or other top.
+	- baseball cap 棒球帽
+	- bandanna, bandana 印花大手帕 == A large coloured handkerchief, typically with white spots, worn tied around the head or neck.
+	- goatee 山羊鬍 == A small pointed beard like that of a goat.
 	- mustache /məˈstɑːʃ/ 髭 == A strip of hair left to grow above the upper lip.
+	- hairnet 髮網
+	- stiletto (n)細高跟鞋, 短劍, 鑽孔錐
 
 [Art]
 	- the Mona Lisa
@@ -519,6 +604,9 @@
 		> 施洗 |Give (a baby) a Christian name at baptism as a sign of admission to a Christian Church.|
 		> 命名 |Give a name to (someone or something) which reflects a notable characteristic.|
 		> 首次使用 |Use for the first time.|
+	- nirvana 涅槃/極樂世界
+	- gospel 福音 == The teaching or revelation of Christ.
+	- choir 唱詩班 == An organized group of singers, especially one that takes part in church services or performs in public.
 
 [Engineer]
 	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
@@ -590,6 +678,8 @@
 	- electorate 選民 == All the people in a country or area who are entitled to vote in an election.
 	- coalition 結盟 == A temporary alliance for combined action, especially of political parties forming a government.
 	- bloc 政治聯盟/經濟聯盟 == A group of countries or political parties with common interests who have formed an alliance.
+	- communist (adj)共產主義的 (n)共產主義支持者
+	- courtier 朝臣/弄臣 == A person who attends a royal court as a companion or adviser to the king or queen.
 
 [Structure]
 	- balcony 陽台
@@ -618,6 +708,15 @@
 	* slum
 		> 貧民窟 |A squalid and overcrowded urban street or district inhabited by very poor people.|
 		> |Spend time at a lower social level than one's own through curiosity or for charitable purposes.|
+	- decking 室外地板 == a floor outside made of wood, or the long pieces of wood used to make this floor
+	- cemetery 墓地 == A large burial ground, especially one not in a churchyard.
+	- atrium
+		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
+		> |A central hall in a modern building, typically rising through several stories and having a glazed roof.|
+		> |The forecourt of a large church built on the basilican plan.|
+		> 心房 |Each of the two upper cavities of the heart from which blood is passed to the ventricles. The right atrium receives deoxygenated blood from the veins of the body, the left atrium oxygenated blood from the pulmonary vein.|
+	- totem pole 圖騰柱
+
 [Sport]
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
@@ -660,3 +759,10 @@
 	- faggot /ˈfaɡət/
 		> 同性戀 |A male homosexual.|
 		> 捆柴 |A bundle of sticks bound together as fuel.|
+
+[Other]
+	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel4
+	- orgasm (n/v)性高潮 == The climax of sexual excitement
+	- slut-shamed 蕩婦羞辱，一個概念用來描述使一個人，尤其是女性，為自己的某種性行為或性慾感到羞恥或低人一等的行為。
+	- erotica 情色作品 == Erotic literature or art.
+	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.

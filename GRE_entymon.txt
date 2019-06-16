@@ -2122,7 +2122,7 @@
     fab, fable 說 = speak == dict == cent
         + affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = pleasant = genial = personable --> affability (n)
         - ineffable (adj)無法表達的
-        - fabulous (adj)傳說的
+        - fabulous, fab (adj)驚人的, 極好的, 神話般的 --> fabulously (adv)極度 = extremely
 
     fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
         + affected (adj)做作的/不自然的/假裝的 = pretentious
@@ -3450,7 +3450,7 @@
         + latitude (n)行動自由 = freedom, 緯度
 
     later 邊/邊緣 = side
-        - collateral (adj)並行的/平行的, 附帶的/次要的 = incidental, 旁系的 (n)擔保品
+        - collateral (adj)並行的/平行的, 附帶的/次要的 = incidental, 無可避免的 旁系的 (n)擔保品, 旁系血親
         - bilateral (adj)雙邊的
         - equilateral (adj)等邊的
         - lateral (adj)側面的, 緯度
@@ -4754,6 +4754,7 @@
         + disprove (v)證明為假/駁倒 = belie --> disproof (n)反證/反駁
         + reprobate (v)譴責/責備, 排斥/遺棄 (adj)邪惡的/無賴的/墮落的 = shameless = depraved (n)無賴/惡棍
         - reprove (v)責罵/申斥 = censure = tax --> reproof (n)斥責/責備 = rebuke
+        - probation (n)試用, 緩刑 --> probationer (n)試用人員, 緩刑中的犯人
 
     propr, proper 擁有 = own
         ++ appropriate (v)撥款 = allot, 挪用/盜用 = embezzle (adj)恰當的 = agreeable
@@ -4761,6 +4762,7 @@
         - property (n)財產, 房地產, 所有權
         + propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
         + proprietary (adj)所有權的/所有人的, 專賣的/專利的 = patent
+    	- proprietor  業主 == The owner of a business, or a holder of property.
         + disdaintary (adj)私有的
 
     proxim 大約/接近 = next, near
@@ -4779,7 +4781,7 @@
         - pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
         - pedestal (n)基座/臺座 = base = foundation
         + pedestrian (adj)徒步的, 缺乏想像的/平淡的/平庸的 = unimaginative
-        + peddle (v)叫賣, 散播 = disseminate --> peddler (n)小販 = huckster = peddler, 傳播者
+        + peddle (v)兜售/叫賣, 散播 = disseminate --> peddler (n)小販 = huckster = peddler, 傳播者
         - podiatry (n)足部治療
         - podiatrist (n)足科醫師
         - podium (n)講壇, 指揮台
@@ -4990,11 +4992,13 @@
 
     psycho, psych 心理 
         - psyche (n)心智/心靈/精神
+        - psychedelic (adj)幻覺的
         - psychology (n)心理學, 心理狀態
         - psychotic (adj)精神病的 (n)精神病患者
         * psychic (adj)通靈的/有特異功能的, (疾病)精神的
         - psychiatrist (n)精神科醫生
         - psychiatry (n)精神病學
+    	- psychoactive (adj)影響精神行為的 == (chiefly of a drug) affecting the mind
 
     port 帶著 = carry
         - export

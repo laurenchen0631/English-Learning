@@ -16,7 +16,6 @@ How many aerial drones are there buzzing across the skies of our planet? Hundred
 		> 謠言 |A rumour.| there's a strong buzz that he's in Scotland
 		> 快速地走 |Move quickly or busily.| she buzzed along the M1 back into town
 The vast majority are harmless but, in the hands of malicious operators, they can occasionally cause chaos – as we saw at Gatwick Airport last December when around 1,000 flights were cancelled or diverted over several days.
-	- diverted
 Andy Morabe is a director at IXI Technology, a California-based company which manufactures a drone-jamming device called Drone Killer. “We classify drone operators as the clueless, the careless and the criminal,” he says, placing the Gatwick mischief-makers into the latter category. 
 Morabe explains how the technology of unmanned aerial vehicles (UAVs), as drones are officially known, has advanced enormously in recent years, making devices smaller, cheaper and easier to use. Should a terrorist arm one with explosives or chemical weapons, that would obviously wreak havoc. But even a prankster flying one near an airport or a sports stadium can cause major disruption.
 	- unmanned aerial vehicle == UAV
@@ -71,7 +70,6 @@ Morabe admits his Drone Killer is not a failsafe deterrent since there are so ma
 For that reason, he suggests that particularly vulnerable sites such as airports or nuclear power stations should defend themselves with a mixture of anti-drone devices.
 James Cross is director of a Northumberland-based company called OpenWorks Engineering, manufacturers of two models of anti-drone net guns called Skywall 100 (which is hand-held) and Skywall 300 (which is vehicle or building-mounted). Each uses compressed air to launch a plastic capsule containing a net which opens up to capture the drone before deploying a parachute and dragging it safely down to the ground. Targeting technology takes into account the flying speed of the drone so as to intercept on the correct trajectory.
 	- Northumberland 諾森伯蘭，英國英格蘭最北、最東北的區
-	- capsule
 	- take into account 
 The Skywall 300 model hasn’t yet gone on sale but the Skywall 100, launched in 2016, has seen over 50 deployed worldwide so far. Its first outing was in November 2016 when Germany’s federal police were charged with protecting President Obama on a state visit to Berlin. 
 “They deployed it as he walked down the steps of Air Force One,” Cross says. “And they used it around the city, on rooftops and out of the back of vehicles.” 
