@@ -1,0 +1,113 @@
+[Listened Key Sentence]
+1. Upper ?? infection are exceedingly common.
+2. Rabies is an invariably fadial viral disease.
+3. It is therefore advisable that all cats in such area be given prevents examinations.
+4. This may cause oxer or completely obstruct digest tract.
+5. Bite wounds may become infected.
+6. The cat can not heal the wound by licking it.
+7. Many apparently normal cats have tiny mineral crystals in their urine.
+8. A urinary obstruction is a great emergency.
+
+[Real Key Sentence]
+1. Upper respiratory infections are exceedingly common. 上呼吸道感染是極為常見的疾病
+2. Rabies is an invariably fatal viral disease. 狂犬病絕對是種致命的病毒感染疾病
+3. It is therefore advisable that all cats in such areas be given preventive vaccinations. 因此建議在這些地區的所有貓隻，都應該接受預防疫苗接種
+4. These may cause ulcers or completely obstruct the digestive tract. 這些毛糗可能引起潰瘍，或完全阻塞消化道
+5. Bite wounds may become infected. 咬傷的部分可能會感染
+6. The cat cannot heal the wound by licking it. 貓兒舔拭傷口並沒有治療傷口的功效
+7. Many apparently normal cat have tiny mineral crystals in their urine. 很多外表看起來正常的貓兒，尿液中卻有微小的礦物結晶
+8. A urinary obstruction is a grave emergency. 泌尿道阻塞是很嚴重的緊急情況
+
+[Listened Article]
+Upper respiratory infection are exceedingly common and the best known are ??? and ???. Symptoms resemble those of common cold in humans and distemper in dogs. The cat's colds, however, cannot be passed on the human or dogs, although they are highly infectious for other cats.
+
+Rabies is an invariably fatal viral disease. It is transmitted by the bite of rabid animal. Rabies has become established among the wild animals in many parts of the world. A cat that ran out door in an area where rabies occurs may be bitten by a rabid animal. It is therefore advisable that all cats in such areas be given preventive vaccinations.
+
+A cat that swallows a large amount of fur while gruming may develop fur-balls or hairballs. Occasionally, these may cause ulcers or completely obstruct the digestive tract. Prevention in the form of frequent cooming and brushing is best. If fur balls occur in spite of gruming, the animal may be given a teaspoonful of mineral oil in its food or dab patrolling jelly on its paws twice a week.
+
+Bite wounds may become infected and cause serious problems. Contrary to popular belief, the cat cannot heal the wound by licking it. It is better to seek veterinary attention as soon as possible.
+
+Many apparently normal cats have tiny mineral crystals in their urine. For reasons not yet fully understood, this crystals often come together to form sand-like particles or small stones, which may cause ?? or obstruction of urinary passage. A urinary obstruction is a grave emergency and must be treated immediately by the veterinarian.
+
+[Real Article]
+Upper respiratory infections are exceedingly common, and the best-known are pneumonitis and rhinotracheitis. Symptoms resemble those of the common cold in humans and distemper in dogs. The cat's "colds," however, cannot be passed on to humans or dogs although they are highly infectious for other cats.
+
+Rabies is an invariably fatal viral disease. It is transmitted by the bite of a rabid animal. rabies has become established among the wild animals in many parts of the world. A cat that roams outdoors in an area where rabies occurs may be bitten by a rabid animal. It is therefore advisable that all cats in such areas be given preventive vaccinations.
+
+A cat that swallow large amounts of fur while grooming may develop fur balls or hairballs. Occasionally these may cause ulcers or completely obstruct the digestive tract. Prevention, in the form of frequent combing and brushing, is best. It fur balls occur in spite of grooming, the animal may be given a teaspoonful of mineral oil in its food or a dab of petroleum jelly on its paws twice a week.
+
+Bite wounds may may become infected and cause serious problems. Contrary to popular belief, the cat cannot heal the wound by licking it. It is better to seek veterinary attention as soon as possible.
+
+Many apparently normal cat have tiny mineral crystals in their urine. For reasons not yet fully understood, these crystals often clump together to form sandlike particles or small stones which may cause irritation or obstruction of the urinary passages. A urinary obstruction is a grave emergency and must be treated immediately by a veterinarian.
+
+[Review]
+- upper respiratory infection 上呼吸道感染
++ respiratory /rɪˈspɪrət(ə)ri/ 呼吸的/呼吸器官的
+- pneumonitis /ˌnjuːmə(ʊ)ˈnʌɪtɪs/  肺炎
+- rhinotracheitis /ˌrʌɪnə(ʊ)treɪkɪˈʌɪtɪs/ 鼻氣管炎
+- rabid (adj)患有狂犬病的, 瘋狂的 --> rabies /ˈreɪbiːz/  狂犬病
++ invariably 不變地/總是 == always == In every case or on every occasion
++ fatal /ˈfeɪt(ə)l/ 
+* preventive (adj)預防的 (n)預防藥物/預防法
+- vaccination /vaksɪˈneɪʃ(ə)n/ 疫苗接種 == Treatment with a vaccine to produce immunity against a disease; inoculation.
+- ulcer /ˈʌlsə/ (n)潰瘍, 道德腐敗
+* tract
+	> 大片土地 |An area of land, typically a large one.| large tracts of natural forest
+	> 道 |A major passage in the body, large bundle of nerve fibres, or other continuous elongated anatomical structure or region.| the digestive tract
+	> 短文/小冊子 |A short treatise in pamphlet form, typically on a religious subject.| 
+	> |(in the Roman Catholic Church) an anthem of Scriptural verses formerly replacing the alleluia in certain penitential and requiem Masses.|
+* urine /ˈjʊərɪn/ 尿
+- urinary /ˈjʊərɪn(ə)ri/ 
+	> 尿的 |Relating to urine.|
+	> 泌尿系統的 |Relating to or denoting the system of organs, structures, and ducts by which urine is produced and discharged, in mammals comprising the kidneys, ureters, bladder, and urethra.| the urinary tract
+- urethra 尿道
+- kidney 腎臟
+- ureter 輸尿管
+- bladder 膀胱
++ grave
+	> 墓穴 |A hole dug in the ground to receive a coffin or dead body, typically marked by a stone or mound.| the coffin was lowered into the grave
+	> 死亡 |Used as an allusive term for death.| life beyond the grave
+	> 嚴重的 |Giving cause for alarm; serious.|
+	> 嚴肅的 |Serious or solemn in manner or appearance.|
+- distemper
+	> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
+	> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
+	> 膠畫法 |A method of mural and poster painting using distemper.|
+	> |Paint with distemper.|
+- roam /rəʊm/ 漫步/漫遊 == Move about or travel aimlessly or unsystematically, 
+* outdoor (adj)戶外的 --> outdoors (adv)在戶外 (n)戶外/野外
+- groom
+	> 清潔 |Brush and clean the coat of (a horse, dog, or other animal)| the horses were groomed and taken to shows
+	> 馬夫 |A person employed to take care of horses.|
+	> 照看(草皮) |Look after (a lawn, ski slope, or other surface)| groom your lawn—keep the grass cut
+	> 準備/訓練 |Prepare or train (someone) for a particular purpose or activity.| star pupils who are groomed for higher things
+	> 新郎 |A bridegroom.|
+- fur balls == hair balls == hairballs
+- comb /kəʊm/ 
+	> 梳子 |A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.|
+	> 梳 |An act of untangling or arranging the hair with comb.| she gave her hair a comb
+	> 用梳子梳理 |Untangle or arrange (the hair) by drawing a comb through it.|
+	> 梳狀飾品 |A short curved type of comb, worn by women to hold the hair in place or as an ornament.| her hair was held back with two tortoiseshell combs
+	> 毛刷 |A device for separating and dressing textile fibres.|
+	> 雞冠 |The red fleshy crest on the head of a domestic fowl, especially a cock.|
+	> 徹底搜查 |Search carefully and systematically.| police combed the area for the murder weapon
+- petroleum jelly 凡士林，一種石油膠的通用商標
+* dab
+	> 清塗/輕拍 |Press against (something) lightly several times with a piece of absorbent material in order to clean or dry it or to apply a substance.| he dabbed his mouth with his napkin
+	> |A brief application of a piece of absorbent material to a surface.|
+	> 一點 |A small amount of something.| she licked a dab of chocolate from her finger
+	> 比目魚 |A small, commercially important flatfish found chiefly in the North Atlantic.|
+	> |A dance move or gesture, originating in hip hop and often performed as part of a celebration, in which one arm is bent at an angle across the upper chest while the other is fully extended parallel to the first arm, with the face turned towards the bent elbow.|
+* veterinary /ˈvɛt(ə)rɪn(ə)ri (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
+* irritation
+	> 惱怒 |The state of feeling annoyed, impatient, or slightly angry.| much to my irritation, Chris fell asleep
+	> 疼痛/發炎 |Inflammation or other discomfort in a body part caused by reaction to an irritant substance| some chemicals cause a direct irritation to the skin leading to dermatitis
+* clump /klʌmp/ 
+	> 一叢 |A small group of trees or plants growing closely together.| a clump of ferns
+	> 一群 |A small, compact group of people.| they sat on the wall in clumps of two and three
+	> 一團/一塊 |A compacted mass or lump of something.| clumps of earth
+	> 成團/成群 |Form a clump or clumps.|
++ in spite of 雖然/儘管 == despite == although == even though
+	> He got the job in spite of his prison record.
+	> He was very fast in spite of being terribly overweight.
+	> When they arrived at Malaga it was hot, in spite of the fact that it was only the end of April.
