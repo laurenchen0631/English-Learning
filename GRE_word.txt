@@ -193,6 +193,7 @@
     + brag (v)吹噓/誇耀 = boast = vaunt = vapor --> braggart (n)吹噓者/自誇者 = blowhard
     + brandish (v)威脅地揮舞 = wave = flourish = wield <|> blandish
     + breathtaking (adj)極其刺激的/美得驚人的/驚人的
+    + bromide (n)陳腐的話語 = platitude, 鎮靜劑/安眠藥
     ++ /ˈbrʌɪd(ə)l/ bridle (v)抑制/控制 = restrain = refrain, 怨恨/不滿 = resent (n)馬籠頭/馬勒 <|> bride 
     ++ broach (v)開瓶, 首次提出(討論) = moot (n)胸章
     + brook (n)小河 (v)容忍 = endure = abide = tolerate <|> brood
@@ -348,7 +349,6 @@
     ^ brittle (adj)易碎的/脆的 = fragile, 不友好的/冷淡的 = aloof
     ^ brochure (n)小冊子/資料(或廣告)手冊/說明書 = booklet
     ^ broker (n)經紀人 = agent, 中間人/調停人 (v)作為(中間人)安排(交易、協議等)
-    ^ bromide (n)陳腐的話語 = platitude, 鎮靜劑/安眠藥
     ^ brood (n)一窩幼鳥, 孩子 = offspring (v)孵蛋, 擔憂/憂思 <|> brook
     ^ browbeat (v)欺侮/嚇唬/威嚇 = bully
     ^ bruise (n/v)碰撞/瘀傷 = contusion <|> cruise
@@ -402,7 +402,7 @@
     + cautious (adj)謹慎的/小心的 = chary = canny = prudent = wary
     ++ /sɪˈlɛstɪəl/ celestial (adj)天體的/天空的, 精妙的/極佳的 = sublime <-- celest 天空 = heaven, sky
     + /ʃəˈɡrɪn/ chagrin (n/v)因失望或屈辱而懊惱 = vex by disappointment or humiliation
-    + champion (v)支持/聲援/擁護 = support = advocate (adj)優秀的/第一流的 = excellent (n)冠軍, 捍衛者/鬥士
+    + champion (v)支持/擁護/為...而戰 = support = advocate (adj)優秀的/第一流的 = excellent (n)冠軍, 捍衛者/鬥士
     + chaotic (adj)混亂的/無秩序的 = disordered = confused
     *** character (n)性格/特質, 好名聲/名譽, 人物/角色, 符號/字 (v)描述 = describe
     + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵 = feature = trait
@@ -2535,6 +2535,7 @@
     ++ /ˈstʌɪf(ə)l/ stifle (v)窒息 = suffocate = smother, 抑止/阻止 = suppress = curb = withhold  <|> stiff
     + stigma (n)汙名/污點 = disgrace = inferiority, 病斑 --> stigmatize (v)污蔑/玷污 <-- stig 刺青 = tattoo + ma
     +++ stint (v)節省/節制 = economize (n)分配的工作, 花費的時間, 限制 = restraint = limitation
+    + stipend (n)薪俸/津貼
     + stipulate (v)規定/約定/要求以...為條件 = specify = contract --> stipulation (n)規定/約定 <-- stipul 堅定 = firm + ate
     + stolid (adj)不動感情的/冷淡的 = phlegmatic = unemotional = impassive
     + straightforward (adj)坦率的 = honest = candid = frank = explicit, 直接的 = direct

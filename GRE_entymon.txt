@@ -295,6 +295,7 @@
         - /əˈpɒkəlɪps/ apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
         - apocrypha
         + apogee
+        + apotheosis, apotheoses
 
     appar 出現 = appear
         - /əˈpar(ə)l/ apparel (n)(精緻的)衣服 = garment
@@ -961,7 +962,7 @@
         - chronological (adj)按時間順序的
         - /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
         - chronometer (n)精密計時器
-        - synchronous (adj)同步的/同時的
+        - synchronous (adj)同步的/同時的 <--> asynchronous
 
     chrom, chrome 顏色 = color
         - chromatic (adj)色彩的/顏色的, 五彩的, 半音的
@@ -1012,7 +1013,7 @@
     capit 頭 = small head
         + /kəˈpɪtjʊleɪt/ capitulate (v)投降/停止抵抗 = surrender = yield
         - capitulum (n)骨的頭部
-        + recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize
+        + recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize --> recapitulation (n)
 
     crimin, culp 罪行 = guilty, crime
         + criminality (n)犯罪
@@ -1096,7 +1097,7 @@
         - certificate (n)證書
         - certification (n)證明
         + ascertain (v)弄清/確定/查明, 確信
-        * concert (v)商議/使協調 (n)一致/和諧, 音樂會
+        *** concert (v)商議/使協調 (n)一致/和諧, 音樂會
         * disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
     
     chival, cheval, caval 馬 = horse
@@ -1274,7 +1275,7 @@
         - cytogenous (adj)細胞生成的
 
     cline, cliv 傾斜/斜坡 = bend, slope
-        + decline (v)拒絕 = withhold = deny = refuse, 減少/衰落 = descend (n)減少/衰落
+        ++ decline (v)拒絕 = withhold = deny = refuse, 減少/衰落 = descend (n)減少/衰落
         + declivity (n)下坡
         * incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面 --> inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
         + proclivity (n)壞的傾向/癖性 = propensity = inclination = tendency
@@ -1300,7 +1301,7 @@
             + decay (v)腐蝕/腐朽/腐爛, 使衰弱/使衰敗 = wither = blight (n)腐蝕, 衰敗/衰弱 <-- de + cay 掉落 = fall
             + decadence (n)衰微, 墮落/道德腐敗 = turpitude = depravity
             * decadent (adj)墮落的/頹廢的, 衰落的
-            - decease (n)死亡/逝世 = death = demise
+            * decease (n)死亡/逝世 = death = demise
             - deceit
             + declaim
             + decline
@@ -1352,8 +1353,8 @@
             + devote --> devoted
 
         3. 離去/去掉/不 = away == dis
-            + debauch (v/n)放蕩/墮落 = corrupt --> debauchery (n)糜爛/沉湎酒色 <|> debouch <-- de + bauch 責任 = duty, work
-            - debouch (v)(河川向廣闊處)流出, 進入(開闊地方) <-- de + bouch 嘴 = mouth
+            + /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt --> debauchery (n)糜爛/沉湎酒色 <|> debouch <-- de + bauch 責任 = duty, work
+            - /dɪˈbaʊtʃ/ debouch (v)(河川向廣闊處)流出, 進入(開闊地方) <-- de + bouch 嘴 = mouth
             + defame (v)詆毀/誹謗 = libel = malign = slander = calumniate = denigrate = disparage = smear = vilify
             - deface
             + defeat
@@ -1401,7 +1402,7 @@
             + disabuse (v)糾正/打消(某人的)錯誤念頭
             * disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
             - disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
-            + discomfit (v)使不安/使懊惱 = disconcert = confuse, 妨礙計畫 = thwart = foil --> discomfiting (adj) = Disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
+            + discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = Disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
             - disconcert
             * discompose
             * discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
@@ -1467,6 +1468,7 @@
             + diffuse = disperse
             * disperse <-- di + spers + e
             + digress --> digression
+            + dilapidate --> dilapidated
             + dilate
             + dilute
             + discrepancy
@@ -1513,7 +1515,6 @@
 
     di, dicho, du, duo 二/雙 = two 
         + dichotomy
-        - dilapidate
         + dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
         - dual (adj)雙重的 <|> duel <|> duet
         - duel (n)決鬥
@@ -1531,7 +1532,7 @@
     dia
         1. 穿過 = pass through = across
             - /ˈdʌɪəˌθəːmi/ diathermy (n)電療
-            - dialysis (v)透析
+            - /dʌɪˈalɪsɪs/ dialysis (v)透析
             + diagnose --> diagnostic --> diagnosis
             + diatribe
             * /dʌɪəˈbiːtiːz/ diabetes (n)糖尿病 = diabetes mellitus <-- dia + betes 穿過 = pass
@@ -1547,7 +1548,7 @@
     div, dei, deus 神 = god
         ** divine (v)占卜/預言 = augur, 推測 (adj)神的, 天賜的, 神聖的, 非凡的 --> divination (n)占卜/預言 = augury, 預測
         - /ˈdeɪɪfʌɪ/ deify (v)奉為神明/崇拜 = worship = adore --> deification (n)神化, 崇拜
-        - deicide (n)殺神
+        - /ˈdeɪɪsʌɪd/ deicide (n)殺神
         - deity (n)神, 神性
 
     deci 十分之一 = tenth
@@ -1561,19 +1562,19 @@
         - benediction (n)祝福 = benison = invocation, 祈禱
         + condition (n)狀況/狀態, 環境, 條件/前提 (v)決定, 使處於良好狀態, 訓練/使習慣於, 為..設立條件, 用護髮素 --> conditional (adj)有條件的 <--> absolute
         + contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
-        + dictate (v)口述, 命令/下令, 影響/要求 (n)命令/要求
+        + dictate (v)口述, 命令/下令/決定 (n)命令
         - dictator (n)命令者, 獨裁者 = autocrat --> dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
-        + dictum (n)格言 = adage = aphorism
-        - edict (n)法令/命令
+        + dictum (n)名言/格言 = adage = aphorism
+        - edict (n)敕令/官方命令
         - indicate (v)指示/指出/表明, 象徵/暗示
-        + indict (v)起訴/控訴 = accuse = inculpate, 批評 = castigate = criticize = chastise
+        + indict (v)起訴/控告 = accuse = inculpate
         + interdict (v)禁止 = prohibit = forbid, 切斷補給
-        + malediction (n)壞話/詛咒 = curse = imprecation <--> benediction
-        + valedictory (adj)離別的/告別的 --> valediction (n)告別演說/告別詞 <-- vale 告別 = farewell + dict + ory
+        + malediction (n)詛咒 = curse = imprecation <--> benediction
+        + valedictory (adj)離別的/告別的 --> valediction (n)告別/告別演說 <-- vale 告別 = farewell + dict + ory
         - verdict
 
     doc 教 = teach
-        - docile (adj)順從的 = submissive = obedient = amenable = deferential = obsequious, 聽話的/易控制的
+        - ˈdəʊsʌɪl/ docile (adj)順從的/聽話的/易控制的 = submissive = obedient = amenable = deferential = obsequious
         + /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 = tenet --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
         - indoctrinate (v)教導/灌輸思想 = inculcate
         + document (n)文件/公文 (v)用文件證明, 紀錄
@@ -1581,28 +1582,29 @@
 
     dole, dol 悲傷 = sorrow
         - condolence (n)弔唁/慰問
-        - doleful (adj)悲傷的
+        - doleful (adj)悲傷的 = mournful
         - dolorous (adj)憂傷的
-        +++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle --> indolence (n) = sloth <|> insolent
+        +++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) = sloth <|> insolent
 
     dom, domi, domin
         1. 統治者 = lord
             - domain (n)領土, 領域/方面, 所有地
-            + dominate (v)支配/統治, 俯視/俯瞰 --> dominant (adj)主要的/主導的, (基因)顯性的, 高聳的
+            ++ dominate (v)支配/統治, 俯視/俯瞰 = overlook --> dominant (adj)主要的/主導的, (基因)顯性的, 高聳的 
+            (n)顯性基因, 優勢物種
             * domineer (v)跋扈/作威作福 = tyrannize --> domineering (adj)跋扈的/專橫的 = overbearing = imperious = arrogant = dictatorial
 
         2. 家 = house
             - dome (n)圓屋頂, 蒼穹
-            + domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人 --> domesticate (v)馴養, 喜愛家庭或家務
+            +++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 喜愛家庭或家務
             - domicile (n)住處 (v)居住
 
     dote, dose, don 給予 = give
         + antidote (n)緩解辦法/對抗手段, 解毒劑
         - overdose (n/v)用藥過量
-        + condone (v)原諒/寬恕 = pardon = excuse, 縱容/容忍 = overlook = forgive = disregard, 默認 = acquiesce
+        + condone (v)原諒/寬恕 = pardon = excuse, (不請願)認可/贊同
         - donate (v)捐/捐獻(錢、血或器官等)
         - donor (n)捐血者/器官捐贈者/捐助者 = benefactor
-        * pardon (n/v)原諒/寬恕 = condone = forgive = overlook, 赦免 = absolve = amnesty
+        * pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
         - dose (n)劑量, 一劑
 
     dorm 睡 = sleep
@@ -1613,27 +1615,25 @@
 
     dors, dos 背 = back
         - dorsal (adj)背部的
-        + endorse (v)背書/認可/支持 = approve = sipport = sustain, 批註, , 在（發票、票據等）背面簽名
+        +++ /ɪnˈdɔːs/ endorse (v)背書/認可/支持 = approve = sipport = sustain, 批註/在(發票、票據等)背面簽名
         - dossier (n)檔案/卷宗
 
-    decor 裝飾/美 = ornament, splendor, honor
+    decor 美/合適 = beauty, honor, seemly
         - decorate (v)裝飾
-        + decorum (n)禮節/禮貌 = etiquette
+        + decorum (n)端莊/合宜, 禮節/禮貌 = etiquette
+        * decorous (adj)有禮貌的/高雅的/端莊的
         + indecorous
 
     dextr 右
         - ambidextrous (adj)雙手靈巧的
-        - dexterous, dextrous (adj)靈巧的/熟練的 --> dexterity (n)靈巧/熟練
-
-    diluv 洪水 = flood
-        - antediluvian
+        - /ˈdɛkst(ə)rəs/ dexterous, dextrous (adj)靈巧的/熟練的 --> dexterity (n)靈巧/熟練
 
     demn, damn 傷害/損害 = damage, harm, loss
-        + condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence
-        - damnify (v)損害
-        - indemnify (v)賠償/補償 = compensate, 保障 --> indemnity (n)賠償(金) = compensation, 保障/保險
+        ++ condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence
         - precondemn (v)預先宣告…有罪
-        - damnation (n)非難, 詛咒, 毀滅
+        - indemnify (v)賠償/補償 = compensate, 保障 --> indemnity (n)賠償(金) = compensation, 保障/保險
+        - damnation (n)非難/詛咒
+        - damnify (v)傷害
 
     dense 濃/密 = thick
         - dense (adj)密的 = compact = crowed, 強烈的 = extreme = intense, 愚鈍的 = stupid = dull = opaque
@@ -1660,9 +1660,6 @@
         + seduce (v)勾引, 引誘/誘惑 = allure = entice --> seductive (adj)誘惑的/引人注意的
         *** subdue (v)制服/征服 = conquer = vanquish, 使服從 = humble = tame, 鎮壓 = quell = quash = suppress = repress, 壓抑/克制 = chasten = refrain = quench = repress, 減輕/緩和 = allay, 使柔和 = soften = tame, 開墾
         * subdued (adj)柔和的/暗淡的, 小聲的, 悶悶不樂的/默不做聲的
-
-    {dom} 表明詞
-        - boredom
 
     dain, dign 高貴/價值 = worthy == val
         - dainty (adj)小巧精美的, 挑剔的 = particular = captious = carping (n)少量而精美的食物
@@ -2184,7 +2181,7 @@
         ++ deference (n)敬意/尊重 = respect = regard --> deferential (adj)順從的 = obedient = obsequious <-- defer
         * deferement (n)延期/推遲 <-- defer
         * differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
-        + differentiate (v)區分/區別/辨别 = distinguish
+        + differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish
         * fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
         - fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
         - infertile (adj)不肥沃的/不毛的, 不育的
@@ -2831,7 +2828,7 @@
             - inequity
             + inert (adj)惰性的, 無生命的, 遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
             - inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing , 不會疲勞的 = untiring = tireless
-            + inexorable (adj)說不動的/無情的 = implacable = relentless = unyielding = stern, 無法改變的/不可阻擋的
+            ++ inexorable (adj)無法改變的/不可阻擋的, 說不動的/無情的 = implacable = relentless = unyielding = stern
             + inexplicable (adj)無法解釋的 = mysterious = obscure
             + inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable
             - infancy (n)嬰兒期/幼年, 初期/發展階段
@@ -3245,6 +3242,7 @@
     lut, luv, lug, lav 沖/洗 = wash --> diluv 洪水
         - ablution (n)淨禮
         + dilute (v)沖淡/稀釋, 減弱 = reduce
+        - diluvial (adj)洪水的
         - antediluvian (adj)太古的
         - deluge (n)大洪水, 暴雨
         - lave (v)洗浴/沐浴 = wash = bathe, （河流）慢慢沖刷
@@ -3499,7 +3497,7 @@
         - liquor (n)白酒/烈酒
 
     lapid, lith 石頭
-        - dilapidate (v)使荒廢/使毀壞 --> dilapidated (adk)破舊的/倒塌的
+        + dilapidate (v)使荒廢/使毀壞 --> dilapidated (adk)破舊的/倒塌的
         - lapidary (adj)寶石的 (n)寶石工藝匠
         + monolith --> monolithic
         - neolithic
@@ -3564,7 +3562,7 @@
         + premise (n/v)假定/前提
         - promise (n/v)保證 (n)(成功的)跡象/徵兆
         - remit (v)寬恕/赦免, 緩和/減輕/減退, 鬆懈, 提交/移交(問題), 匯寄/匯付
-        - remiss (adj)疏忽的/懈怠的 = slack
+        + remiss (adj)疏忽的 = negligent
         - remission (n)寬恕/赦免, (疾病的)緩解期, 減刑
         *** submit (v)提交, 建議, 順從/屈服
         *** submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential = yielding
@@ -4613,7 +4611,7 @@
         - pacifist (n)和平主義者/反戰主義者
 
     plac 平靜/安撫/滿足 = quiet, calm, appease
-        + complacent (adj)自滿的/得意的 = self-satisfied = smug --> complacency (n)自滿
+        + complacent (adj)自滿的/得意的 = self-satisfied = smug <|> complaisant --> complacency (n)自滿
         + implacable (adj)難以平息的 = inexorable, 堅定的/無法改變的 = inflexible = intractable
         + /pləˈkeɪt/ placate (v)平息/安撫 = soothe = appease = pacify = conciliate
         + placid (adj)寧靜的/平和的 = calm
@@ -5075,7 +5073,7 @@
             + reassess (v)再評價/重新考慮 <-- re + assess
             - rebate
             + /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/不聽話的 <-- re + calcitr 踢 = kick + ant
-            + recapitulate
+            + recapitulate --> recapitulation
             - recast (v)重鑄, 更換演員 <-- re + cast
             - recite --> recittal
             + recluse
@@ -5134,8 +5132,7 @@
             - remind (v)提醒/使想起 --> reminder (n)提醒人記憶之物
             - reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
             * reminiscent (adj)回憶往事的/懷舊的, 發人聯想的 = redolent <-- re + min 思維 = mind + iscent
-            - remiss
-            - remission
+            + remiss --> remission
             - remnant (n)殘餘物 = remainder, 零頭布料 <-- remain
             + remonstrate
             + remunerate (v)給與報酬/賠償 --> remuneration (n)酬報/酬勞, 償還/賠償 <-- re + muner 給予 = give + ate
@@ -5151,7 +5148,7 @@
             + replete
             + replicate
             + repose
-            + /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
+            ++ /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
             ++ reprobate
             + reproduce
             + repute --> reputation
@@ -5271,7 +5268,7 @@
             + restive --> restiveness
             - restless
             +++ retaliate (v)報復/反擊 = riposteor = retort --> retaliation (n)報復 <-- re + tali 如此 = such + ate
-            * retaliatory (adj)報復性的
+            *** retaliatory (adj)報復性的
             + retire (v)退出/退隱, 退休, 退隱, 後退/撤退 = retreat, 就寢 --> retiring (adj)隱居的/不喜社交的 = reserved <-- re + tire 拉 = draw
             * retort
             - retrace (v)回顧/追想 <-- re + trace
@@ -6435,6 +6432,7 @@
         - tautonym (n)重名/屬種同名
 
     theo, the 神 = God
+        + apotheosis, apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
         + /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
         - theology (n)神學
         - theism 
@@ -6621,7 +6619,7 @@
     ver, veri 真實的 = true
         + aver (v)斷言/確證 = affirm = assert <|> avert
         + veracious (adj)誠實的/真實的 = truthful = accurate
-        - verdict (n)判定/決定
+        - verdict (n)判定/裁決
         + verify (v)證明/證實 = confirm = substantiate
         - verified (adj)檢驗的/核實的
         + verifiable (adj)可證實的/可檢驗的
