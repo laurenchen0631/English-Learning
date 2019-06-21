@@ -1,0 +1,260 @@
+https://www.cnet.com/features/using-crispr-to-resurrect-the-dead/?curator=TechREDEF
+Using CRISPR to resurrect the dead
+Gene-editing breakthroughs could allow us to bring extinct species, like the woolly mammoth, back from the dead. But should we?
+BY JACKSON RYAN | JUN 19, 2019
+---------------------------------------------------------------------------------------------------------------------
+It really is worse than you think.
+
+We've gorged ourselves on fossil fuels, vacuumed up the Earth's forests and spewed toxic gases into the atmosphere for years on end. The planet is getting warmer, we're poisoning insect populations with reckless abandon and pulling fish out of the ocean at an alarming rate. The most recent prognosis for a biodiverse Earth is incredibly grim, with 1 million species threatened with extinction in the coming decades.
+	- gorge
+		> 峽谷/山谷 |A narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.|
+		> 胃裡的食物 |The contents of the stomach.|
+		> 後門 |A narrow rear entrance to a bastion, outwork, or other fortification.|
+		> 冰河 |A mass of ice obstructing a narrow passage, especially a river.| It is of record that fifty years ago an ice gorge formed near here
+		> 狼吞虎嚥地吃 |Eat a large amount greedily; fill oneself with food.|
+	- spew
+		> 大量排放 |Expel large quantities of (something) rapidly and forcibly.|
+		> 嘔吐 |Vomit| he felt faint and nauseous—he had to get out before he spewed
+	- reckless 不在乎的/魯莽的/不顧後果的 == Heedless of danger or the consequences of one's actions; rash or impetuous.
+	- prognosis 預知/預後 == The likely course of a medical condition.
+The havoc we've generated has kickstarted Earth's sixth great extinction event, the first by human hands. This rapid decrease in biodiversity due to human activity is unprecedented.
+But we may be able to reverse it.
+As we stuff and mount the dead in museum hallways, scientists are working to stop the carnage. One of our most powerful tools to fight biological obliteration is CRISPR, a burgeoning gene-editing technology that acts like a molecular blade, slicing DNA apart and allowing us to add and subtract genes at will.
+	- obliteration 消滅/刪除 ==  total destruction.
+It's now being used to combat invasive species, destroy antibiotic-resistance bacteria and, controversially, edit the genes of human embryos. In fact, it's so exceptional at editing DNA that "de-extinction," the process of bringing extinct species back from the dead, is on the table.
+	- on the table 被提交討論中/正式提交考慮 == ​ If a plan or suggestion has been put/laid on the table, it has been made available for people to hear, read, or discuss.
+		> it's so exceptional at editing DNA that "de-extinction," the process of bringing extinct species back from the dead, is on the table.
+Science has already unraveled the DNA code of long-dead species such as the woolly mammoth, the passenger pigeon and Australia's iconic Tasmanian tiger -- and now, pioneering researchers are using CRISPR to remake modern-day descendants in the image of their ancient counterparts. Could we transform an Asian elephant into a woolly mammoth? We are marching toward that reality.
+	- unravel
+		> 解開/拆開 |Undo (twisted, knitted, or woven threads).| 
+		> 破壞 |(of an intricate process, system, or arrangement) disintegrate or be destroyed.| his painstaking diplomacy of the last eight months could quickly unravel
+		> 闡明/解開 |Investigate and solve or explain (something complicated or puzzling)| they were attempting to unravel the cause of death
+	- woolly mammoth 真猛瑪象
+	- passenger pigeon 旅鴿
+	- Tasmanian tiger 袋狼
+"The CRISPR revolution is the whole reason why we've been having these conversations about de-extinction," says Ben Novak, a biologist working on restoring the extinct passenger pigeon.
+There are opponents of de-extinction, however. They point to our responsibilities with species already living on the edge of extinction and ensuring we allocate resources to save them. Others are concerned about the ethics of resurrecting ancient beasts and how they might fit into current ecosystems as the planet chokes under the heavy cloud of climate change.
+In this era, as the planet warms and biodiversity plummets, we're faced with a question.
+Should we resurrect the dead?
+
+I. The Mammoth
+
+The frozen edge of northern Russia is a woolly mammoth graveyard.
+The towering beasts roamed this corner of the globe for 400,000 years, grazing in herds across the green steppes of Eurasia and North America, before disappearing 4,000 years ago. Today their remains periodically appear out of the Arctic frost across Russia and Siberia, frozen in time, seemingly just a short jolt away from shaking themselves back to life.
+	- graze
+		> 吃草 |(of cattle, sheep, etc.) eat grass in a field.| cattle graze on the open meadows
+		> 吃零食 |(of a person) eat frequent snacks at irregular intervals.|
+		> 隨意檢查 |Casually sample something.| we grazed up and down the TV channels
+		> 弄破 |Scrape and break the surface of the skin of (a part of the body)| she fell down and grazed her knees
+		> 擦傷 |A slight injury where the skin is scraped.|
+		> 擦過/略過 |Touch or scrape lightly in passing| ‘his hands just grazed hers
+	- steppe 大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
+	- Eurasia 歐亞大陸
+Trapped under the ice for thousands of years, many of their biological features remain exquisitely preserved. Skin, muscle and fur survived the deep freeze. The idea that these remains may contain traces of DNA, the necessary ingredient to re-create a mammoth, has captivated scientists for decades.
+	- exquisite
+		> 精美的 |Extremely beautiful and delicate.| exquisite, jewel-like portraitss
+		> 愛時髦的人 |A man who is affectedly concerned with his clothes and appearance; a dandy.|
+		> 強烈的 |Intensely felt.| the most exquisite kind of agony
+		> 敏銳的 |Highly sensitive or discriminating.| her exquisite taste in painting
+Time is not kind to DNA. It gradually deteriorates, damaged by the environment and cosmic radiation, over thousands of years. To date, attempts to coax frozen mammoth cells back to life have not progressed far, yet the hulking pachyderm has become somewhat of a poster child for de-extinction research.
+	- hulking 笨重的 == (of a person or object) very large, heavy, or clumsy.
+	- pachyderm 厚皮類動物
+	- poster child 代表人物形象 == someone or something that is used to represent a particular quality
+		> He is a poster boy for political reform.
+Using CRISPR (and technologies that may even surpass it, such as TAL deaminases), the idea of a mammoth walking the Earth again is no longer just a fanciful imagining or confined to the pages of science fiction novels. It's a distinct possibility.
+	- deaminases 去胺
+A potential mammoth revival is being spearheaded by George Church, a Harvard University biologist and CRISPR pioneer who's spent the last 11 years figuring out how to bring the creature back. Church resembles a Renaissance painting of God: He's a larger-than-life personality with a long white beard and scruffy locks curling across his head in waves. Today he works with nonprofit Revive & Restore, which aims to use the power of genetic engineering to enhance the world's biodiversity.
+	- scruffy 邋遢的 == Shabby and untidy or dirty.
+	- lock
+		> 鎖 |A mechanism for keeping a door, window, lid, or container fastened, typically operated by a key.|
+		> 鎖住 |Fasten or secure (something) with a lock.|
+		> 固定住 |Make or become rigidly fixed or immovable.|
+		> 水閘 |A short section of a canal or river with gates and sluices at each end which can be opened or closed to change the water level, used for raising and lowering boats.|
+		> 確信 |A person or thing that is certain to succeed; a certainty.|
+		> 一綹頭髮 |Go through a lock on a canal.| she pushed back a lock of hair
+		> 頭髮 |A person's hair.| flowing locks and a long white beard
+His Harvard lab helped pioneer inexpensive ways to "read" DNA sequences, paving the way for the ancient mammoth genome to be rebuilt from samples retrieved from the Arctic permafrost. Damaged though these samples are, they contain just enough DNA to piece together a complete map of the mammoth's genetic code from mere fragments.
+	- genome 基因組
+	- permafrost 永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
+The ability to reconstruct this code is the foundation for all de-extinction research. If you know what the code used to look like, gene-editing techniques should be able to rebuild it. Church's team can read the mammoth's genetic sequence on a computer as it was 10,000 years ago, but he believes he can take it one step further.
+Rather than just stare at a screen full of genes and guess at their purpose, Church wants to test how the genes work in living cells. He thinks his team could create an elephant-mammoth hybrid.
+"We're actually not bringing back the mammoth," Church says. "We're trying to save the living Asian elephant, which is going extinct."
+
+Walks like a mammoth, talks like a mammoth
+
+The Asian elephant is, in a practical sense, a woolly mammoth without the shaggy coat and huge, corkscrew tusks.
+	- corkscrew (n)開瓶器, 螺旋狀的東西 (v)作螺旋式移動
+	- tusk 長牙/獠牙 == A long pointed tooth, especially one which protrudes from the closed mouth, as in the elephant, walrus, or wild boar.
+Though separated by millennia of evolution, the two species are genetically similar, sharing around 99.96% of their DNA. That makes the Asian elephant an ideal starting point for resurrection.
+Church and his team want to equip the Asian elephant with the genetic tools to survive in the Arctic tundra. They've identified genes in the mammoth that code for extra fat, dense hair and improved oxygen-carrying capabilities in the blood -- all traits that helped the huge beasts survive the ancient, frozen north -- and want to transfer them to the elephant.
+	- tundra 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
+"We're creating one of those hybrids where the Asian elephant will be perfectly compatible with Asian elephants but it will be able to live at -40 degrees comfortably, just like the mammoths did," explains Church. "It will look and behave like a mammoth."
+The team has already pasted those ancient genes into modern Asian elephant cells, in the lab, though the research is unpublished.
+The next step is to produce a viable Asian elephant embryo carrying the mammoth genes. In 2017, Church told New Scientist that development "could happen in a couple of years." The plan is to create artificial wombs that could sustain and birth the hybrids, rather than using Asian elephant mothers. That technology seems years away, but the underlying science of resurrection continues to progress rapidly.
+	- womb 子宮 == uterus
+Church believes reviving the mammoth may also enable restoration of an ecosystem the pachyderm lived in 10,000 years ago. The idea, as it stands, is for his revived hybrid mammoths to be released into a protected corner of Siberia known as "Pleistocene Park," a 20-square-kilometer region in the Arctic that provides a refuge for herbivores.
+"The elephants could help there by knocking down trees and converting it to grasslands," Church says. "They need a large herbivore that will be distributed throughout the Arctic that will knock down trees."
+Large grazers, such as hybrid elephants, would convert the environment back to productive grasslands, preventing greenhouse gases from being released into the atmosphere by altering the landscape.
+"Whether or not it could actually solve global warming, I would not make that claim," he says. At present, 1600 gigatons of carbon is locked within the Arctic permafrost, double the amount currently present in the atmosphere. Church reasons the hybrid elephants could prevent release of this cache so that it doesn't present a danger.
+And Church offers one other good reason the woolly mammoth is a prime candidate for resurrection.
+"It's also good because it's not a carnivore," he points out. "I mean, it's dangerous. But it's not like a velociraptor in Jurassic Park."
+	- velociraptor 伶盜龍屬
+
+II. The Pigeon
+
+Don't mention Jurassic Park to Ben Novak.
+Novak, lead scientist with conservation nonprofit Revive & Restore, is heading up a different de-extinction project: He wants to bring back the passenger pigeon, once North America's most abundant bird. The last passenger pigeon, a female named Martha, died in the Cincinnati Zoo in 1914, rendering the species extinct.
+When I mention Jurassic Park, he laughs.
+
+As the most obvious pop culture example of "de-extinction," Jurassic Park is a bugbear for researchers like Novak. Even though it's a film, it's often leaned on as an argument against de-extinction: Scientists bring dinosaurs back to life as a tourist attraction without fully appreciating the consequences of their actions, and disaster occurs. But Novak notes matter-of-factly that "the plot of Jurassic Park was made possible to uphold the plot of Jurassic Park."
+	- bugbear 痛處/恐懼之源 == A cause of obsessive fear, anxiety, or irritation.
+	- lean on
+		> 依賴 |to depend on someone| Everybody needs someone to lean on in times of trouble.
+		> 施壓 |to put pressure on someone in order to make them do something| The Prime Minister’s been leaning pretty heavily on her to resign.
+	+ matter-of-fact 就事論事的/不帶感情的 == not showing feelings or emotion, especially in a situation when emot1ion would be expected
+"There's absolutely no logical reason that Jurassic Park should have played out the way it did," he says.
+	> play out 發生/出現 == When a situation plays out, it happens and develops.
+		> The debate will play out in the media over the next week or two.
+Novak's hostile attitude to the movie is easily eclipsed by his love of the passenger pigeon, a passion he credits to his grandfather. When Ben was a boy, the elder Novak set up a telescope in the living room of his country homestead, facing it toward the bird feeder, a few feet away, in the front garden. From such close range, the telescope allowed Ben to spend hours examining the native birds that settled on the feeder.
+	- homestead
+		> 家園/農場 |A house, especially a farmhouse, and outbuildings.|
+		> 自耕農場/公地 |An area of land (usually 160 acres) granted to a settler in the West as a home.|
+However, it was seeing a picture of the passenger pigeon as a teenager that captivated him. "It's just such a beautiful bird," he says. "It's very different to the standard rock pigeons."
+Many urbanites likely associate the term "pigeon" with the rock pigeon, a bread-hungry nuisance that plagues city centers, leaving a trail of waste in its wake. In stark contrast, the passenger pigeon is practically exotic. Males exhibit a flush of iridescent feathers on their breasts and neck that shine shades of green, pink and bronze.
+	- nuisance 討厭的人或事物 == A person or thing causing inconvenience or annoyance.
+	- iridescent 彩虹色的 == Showing luminous colours that seem to change when seen from different angles.
+It's believed the passenger pigeon once numbered in the billions across the United States, but overhunting and habitat destruction drove the bird to its end. Novak's love for the pigeon -- and a childhood fascination with extinction -- led him to a career studying ancient DNA from passenger pigeon specimens.
+Just like Church's mammoths, Novak's pigeons won't be a 1-to-1 clone of the lost species -- at least, not initially. Instead, they'll feature genes from the passenger pigeon built into a modern-day relative.
+"We're genetically engineering pigeons for the first time ever to try and expand the biotech tool kit for birds," he explains.
+
+I believe I can fly (again)
+
+De-extinction of the passenger pigeon starts with the American band-tailed pigeon, one of its closest relatives.
+Novak spends most of his time in a facility southwest of Melbourne, Australia, working with the Commonwealth Scientific and Industrial Research Organisation (CSIRO) breeding band-taileds. To completely resurrect the passenger pigeon, Novak and his team are working to create a hybrid pigeon with parts of the CRISPR system embedded within its genes.
+It's finicky science with a low rate of success and nothing like Jurassic Park's velociraptor breeding program. However, if successful, it will make future gene edits much easier, allowing Novak to incrementally alter his experimental flock until they begin to resemble the passenger pigeon.
+It works like this: In May 2018, Novak's team injected pigeon eggs with a gene, known as Cas9, that works in tandem with CRISPR. The Cas9 gene builds the "blade" that makes precise cuts in DNA, and the team wanted to splice it into the sperm cells of the male pigeons. With the blade embedded in the pigeon's genes, Novak would be able to easily manipulate the pigeon's DNA in the future, providing him with a model population of birds he could study more intensely.
+	- tandem
+		> 雙人自行車 |A bicycle with seats and pedals for two riders, one behind the other.| 
+		> 兩人以上一起工作的團體 |A group of two people or machines working together.| the Giants had the greatest pitching tandem in baseball history
+		> ADV |With two or more horses harnessed one behind another.| I rode tandem to Paris
+		> in tandem 一起 |Alongside each other; together.| a tight fiscal policy working in tandem with a tight foreign exchange policy
+The first experimental bird, named Apsu, did inherit the Cas9 gene -- a success! -- but the gene was only expressed in one in every 100,000 sperm. With those kind of odds, it's unlikely that breeding Apsu would result in his offspring carrying the Cas9 gene. But Novak won't stop trying.
+In a video posted in March, Novak called his experiment both a "success and disappointment," while noting the team would be testing the sperm of five more males and "hoping for better results."
+Novak's short-term goal is to develop this method so it can work across a number of bird species. But the ultimate endpoint? Seeing the passenger pigeon reintroduced in the wilds of the United States. Like the mammoth, the passenger pigeon formed a crucial part of a historic biosphere and was important for forest cycling and regeneration.
+"Our research shows that passenger pigeons in their flocks of billions were a biological driver of that process. They kept that process going throughout the forest, and other species benefited from that."
+According to Novak, the pigeon's former habitat was once destroyed but is slowly coming back as agriculture and mining moves farther inland. However, plant and animal species aren't returning at the same rate. Novak sees the passenger pigeon -- or a hybrid -- as a crucial piece in that ecological puzzle.
+"It's not about the bird. It's about what the bird does for the entire ecosystem," he says.
+Across the narrow sea, 300 miles south of Novak's aviaries, a similar philosophy may help revive one of Australia's unique marsupials.
+	- aviary 大鳥籠 == A large cage, building, or enclosure for keeping birds in.
+	- marsupial 有袋類
+
+III. The Tiger
+
+In Tasmania, an island state off the south coast of Australia, the thylacine has long captured the hearts of its residents.
+	- Tasmania 塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
+	- thylacine 袋狼
+The carnivorous marsupial, part of a class of pouched mammals that includes iconic Australian fauna such as the kangaroo and koala, resembled a lean wolf. It was commonly known as the Tasmanian tiger, due to a band of dark stripes that wrapped around its lower back.
+	- kangaroo 袋鼠
+	- koala 無尾熊
+The last known thylacine, Benjamin, died in captivity in 1936, but the species spurred a mythos on the island. Tasmanian statues, number plates and tourist trinkets all bear the animal's likeness, and it's not uncommon to hear reports of sightings to this day.
+	- mythos 神話 ==  A myth or mythology.
+	- trinket 小飾品 == A small ornament or item of jewellery that is of little value.
+	- number plate 車牌
+The tiger's story is similar to the pigeon's. Its demise came at the hands of human mismanagement and misunderstanding. At the turn of the 20th century, farmers believed the thylacine was devouring their livestock. The government offered up bounties for corpses, and within 100 years of human settlement, the thylacine was all but wiped out.
+	- demise
+		> 死亡 |A person's death.| Mr Grisenthwaite's tragic demise
+		> 轉讓/租賃 |Conveyance or transfer of property or a title by will or lease.|
+		> |Convey or grant (an estate) by will or lease.| the manor and the mill were demised for twenty-one-year terms
+Prominent Australian researchers have floated efforts to resurrect the species over the past two decades, as genetic engineering technology has steadily improved. The most famous example came in 1999, when paleontologist Michael Archer took over as director of the Australian Museum, Australia's oldest museum and a highly respected scientific institution. Archer committed $57 million ($80 million Australian) to a project attempting to clone the iconic marsupial.
+The idea immediately had its detractors. One of Archer's contemporaries, Janette Norman of Museum Victoria, called it "impossible" and a "fantasy," describing it as a "waste of time and research dollars." Others believed conservation efforts should be directed at species on the brink of extinction or at preserving the delicate, unique ecosystems struggling across Australia.
+	- detractor 貶低者 == A person who disparages someone or something.
+The project failed and was canned in 2005. Fourteen years ago, it was impossible. It was fantasy.
+That was before CRISPR revolutionized gene editing. And it was well before a team of researchers from Melbourne University, led by Andrew Pask, plucked the DNA from thylacine pups preserved in jars of alcohol and reconstructed the animal's entire genome in 2017.
+"We have that entire blueprint of what it used to take to make a thylacine," Pask says. "That's your first step in any de-extinction project."
+
+Natural advantage
+
+Tasmania is wild, green and sparsely populated. Almost 50% of the island's natural resources are protected by law, and the island's coastal heaths, wetlands and forests have remained largely unchanged since the thylacine padded through the wilderness.
+"The ecosystem is there, the environment is there, you could re-create the thylacine today and pop it straight back into Tasmania," says Pask.
+Pask, like many Australians, is fascinated by the thylacine. For him, the fascination is part childlike wonder and part scientific interest. The thylacine was a truly unique modern-day marsupial.
+"If you look at the other group of placental mammals, there are tons of apex predators. You've got bears and lions and tigers and killer whales. There are so many different examples of those animals that sit right at the top of the food chain," he explains.
+	- placental 胎盤的 == Relating to a placenta.
+"If you look at marsupials, we have none. The only one we had was the thylacine."
+Apex predators are key elements in an ecosystem. They're the bricks at the top of the imaginary pyramid, but their overall effects on the ecosystem touch all the other species in the structure. What would happen if the thylacine was reintroduced to the food chain?
+"You have a system in which the return of an apex predator is probably going to be as beneficial as what's happened in Yellowstone Park," suggests Novak.
+When wolves were reintroduced to Yellowstone Park in 1995, that ecosystem underwent sweeping changes. The park's biodiversity flourished as beavers returned to the region for the first time in decades. Changes to the landscape, due to increased predation on elk, gave native flora a chance to bounce back.
+	- beaver 河狸
+But even with a blueprint, the right habitat and good reason, there's still a lot of work to do before you get a living, breathing thylacine. It's far further from resurrection than the mammoth or the passenger pigeon, because it lacks one characteristic defining both those projects: There's no obvious modern-day equivalent species to build a new thylacine from.
+"The closest living relative to the thylacine is the numbat, but it's not a great one because they eat ants," laughs Pask. The thylacine was a carnivore. It may not be a great starting point, but Pask and his team are sequencing the numbat's genome to see how similar the species are. With CRISPR, the huge amount of changes necessary to transform a numbat to a thylacine still falls within the realm of possibility -- though not in the immediate future.
+	- numbat 袋食蟻獸
+While Pask says we have a "social obligation" to bring the thylacine back, he acknowledges the goal of his project is not de-extinction.
+"Our main motivation for doing that is not to de-extinct the thylacine, but because we need to develop these tools for conservation purposes for marsupial
+
+How much can a koala bear?
+
+Outside of asteroids, climate change and humongous volcanic eruptions, humans are one of the Earth's best exterminators.
+	- humongous, humungous 巨大無比的 == Huge; enormous.
+"We are in the sixth mass extinction event," says Marissa Parrott, a reproductive biologist at Zoos Victoria. "This is a global extinction event caused directly by the population size and actions of humans."
+Conservationists such as Parrott operate on the opposite end of the spectrum from de-extinction researchers. They're focusing on the species alive today, threatened by habitat loss, disease, poaching and invasive species. To preserve the natural world, these scientists have long relied on breeding programs and reintroduction of species into protected areas. But the CRISPR revolution extends to their efforts, too.
+	* poach
+		> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
+		> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
+		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.|
+		> 侵佔/竊取 |Take or acquire in an unfair or clandestine way.| employers risk having their newly trained workers poached by other firms
+		> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
+Rebecca Johnson, leader of the Australian Museum Research Institute, is using the power of the genetic code to protect vulnerable species, such as the koala, from extinction. Habitat loss and disease are driving koala numbers down, but examining its genes could open up new avenues for its salvation.
+	- salvation
+		> 救助 |Preservation or deliverance from harm, ruin, or loss.| they try to sell it to us as economic salvation
+		> 救世 |Deliverance from sin and its consequences, believed by Christians to be brought about by faith in Christ.|
+Johnson, and an international collaboration of scientists, published the koala genome in 2018, providing a full map of the tree-climbing marsupial's DNA. They criss-crossed the map like intrepid explorers searching for land, finding genes that defend against chlamydia, one of the koala's biggest threats, and lactation proteins that protect the young. Those insights can be used to inform future conservation efforts.
+	- intrepid 勇敢的 == Fearless; adventurous
+	- chlamydia 砂眼衣原體，一種「絕對寄生病原體」，披衣菌是一種在構造上介於細菌和病毒之間的微生物
+	- lactation 泌乳/哺乳 == The secretion of milk by the mammary glands.
+It's obvious Johnson understands the attraction and benefits of de-extinction, but she doesn't believe we're quite ready for it. Using CRISPR for conservation "seems like a clean 'fix,'" she says, but the "long-term ramifications need to be taken into account, modeled and thoroughly tested."
+She's also uncomfortable with the ethics of reviving species when we may not be able to prevent extinction of their close or distant relatives, one of many points echoed by other conservationists arguing against de-extinction that suggest it is "ethically problematic to promote de‐extinction as a significant conservation strategy."
+"I love that the technology to make this possible is advancing rapidly," Johnson says, "but I think it should remain in the realm of dinner party and scientific debate for the foreseeable future."
+There is, however, one aspect of de-extinction research that may contribute to today's conservation efforts: engineering diversity.
+
+Invisible crisis
+
+"It's not about extinct species. If you go smaller, to the level of the gene, then extinction has been absolutely devastating on this planet," says Novak, the biologist working on bringing back the passenger pigeon.
+There is an invisible crisis underlying the dramatic disappearance of species. It's the loss of genetic diversity.
+"Genetic diversity is often a major issue for endangered species conservation," says Parrott.
+The more genetically diverse a species, the more readily it can adapt to changing circumstances. A more diverse species will be less susceptible to infectious diseases or the effects of climate change and might be able to survive an event that would otherwise render it extinct.
+It's in this space where de-extinction and conservation overlap. Koalas are an example of a species with low diversity. The lazy marsupial isn't exactly the most locomotive creature, and populations are separated by vast distances. Over time this results in a smaller and smaller gene pool due to inbreeding.
+	- locomotive
+		> 火車頭 |A powered railway vehicle used for pulling trains.|
+		> 運動的/活動的 |Relating to or effecting locomotion.| locomotive power
+Using CRISPR, scientists could bypass the genetic lottery of inheritance to add diversity back into the koala's gene pool. That gives conservationists a huge advantage.
+"We can get DNA from anywhere. Anywhere in the world, at any point in time," says George Church, the mammoth resurrection scientist. Conservationists could shift genes between populations of koalas from different locations and even different periods in history. Johnson and her team are already assessing how much genetic diversity koalas have lost in the last 200 years, since humans moved in on their turf.
+	- turf
+		> 草皮 |Grass and the surface layer of earth held together by its roots.| they walked across the springy turf
+		> 用草皮覆蓋 |Cover (a patch of ground) with turf.| a turfed lawn
+		> 泥炭/泥煤 |Peat used for fuel.| the smell of turf burning on a winter night
+		> 賽馬場 |Horse racing or racecourses generally.|
+		> 地盤 |An area or sphere of activity regarded as someone's personal territory.| he did not like poachers on his turf
+If they find the koala's genetic diversity has fallen away, she thinks engineering diversity may be beneficial -- with one big caveat.
+"There could be consideration given to 'reintroducing' diversity to the population using CRISPR," says Johnson. "However we would need to better understand the complexities, the interplay of changing one or some parts of the genome, before undertaking such intervention."
+
+Extinction of extinction
+
+In an extensive review on de-extinction published in the journal Genes, Novak suggests biotechnology has changed the very idea of extinction. After all, if we have the genetic code of a species and we can implant that code into a cell, is the species really extinct? It lives on, not in the physical form we're used to, but in the strands of DNA locked inside a cell.
+	- strand
+		> 使擱淺 |Drive or leave (a boat, sailor, or sea creature) aground on a shore.| the ships were stranded in shallow water
+		> 使處於困境 |Leave (someone) without the means to move from somewhere.| two of the firm's lorries are stranded in France
+		> 股/縷/絞/線/繩 |A single thin length of something such as thread, fibre, or wire, especially as twisted together with others.|
+In the future, we may have the technology and know-how to turn that DNA into a full-grown animal. At the very least, researchers will be able to write genes from the distant past into the present. De-extinction could defeat death itself.
+And yet, if we take a look at the future of Earth, death seems painfully unavoidable for a startling amount of the planet's life. From ant to elephant, species are disappearing at an incredible clip. Many are already gone. On our current path, many more are likely to suffer the same fate.
+	- clip
+		> 夾/鉗/迴紋針 |A flexible or spring-loaded device for holding an object or objects together or in place.|
+		> 夾住 |Fasten or be fastened with a clip or clips.|
+		> 彈夾 |A metal holder containing cartridges for an automatic firearm.|
+		> 剪/修剪 |Cut short or trim (hair, vegetation, etc.) with shears or scissors.|
+		> |An act of clipping or trimming something.| I gave him a full clip
+		> 騙取/搶劫 |Swindle or rob.| in all the years he ran the place, he was clipped only three times
+		> 快速移動 |Move quickly.| we clip down the track
+		> 速度 |A specified speed or rate of movement, especially when rapid.|
+		> 片段/短片 |A short sequence taken from a film or broadcast.|
+Parrott contends it's a massive challenge to change human behaviors. Johnson says there don't seem to be enough resources to save endangered species with widespread popular appeal, let alone lesser-known animals. Unless drastic change occurs, our current conservation tools will not be enough to prevent immense loss of animal and plant life. De-extinction could be part of the solution.
+You won't wake up tomorrow and be able to pat a mammoth. Scientists must continue to perfect how we read ancient DNA, improve CRISPR's cut-and-paste genetic engineering and, perhaps most challenging, win over a skeptical and ethically conscious public. If they can do so, de-extinction will become another tool in the conservationist's toolkit.
+The absolute reality is human beings have become the caretakers of the genetic frontier. With our power over the genome increasing every day, the question is no longer "can we resurrect the dead?" but "should we?"

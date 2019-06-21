@@ -647,7 +647,6 @@
     + /drô/ draw (n/v)平手, 吸引/引起, 作（比較）, 畫
     + /drōl/ droll (adj)離奇好笑的 = whimsically humorous = waggish --> drollness (n) <-- [德]小胖子 = fat little man
     + dross (n)浮渣, 渣滓/廢物 <-- dregs
-    ++ /ˈd(j)ubiəs/ dubious (adj)可疑的 = suspicious = questionable = doubtful, 名聲不好的, 無把握的/不安定的 = uncertain = precarious <-- doubt
     + dupe (v)欺騙 = deceive = delude = cozen = trick = hoodwink = hoax (n)容易受騙的人 = gull
     + dwindle (v)變小/衰退 = diminish = degenerate = shrink = shrivel = wither = flag <|> swindle
 
@@ -1275,6 +1274,7 @@
     + /ˌhɪstrɪˈɒnɪk/ histrionic (adj)演戲似的/矯揉造作的 = excessively dramatic, 表演的/演員的 <|> /ˈhɪst(ə)ri/ history <-- histrion 演員 = actor
     + hoard (n/v)儲藏/秘藏 = stockpile <|> board
     ++ /ˈhɔːri/ hoary (adj)因年事灰白的, 古老的 = venerable = ancient, 厭倦的 = stale = cloying = weary <-- hoar 白的 + y
+    + hobble (v)跛行/蹣跚, 綁住(腳), 限制(事情) (n)跛行, 綁住馬腳的繩子
     + hodgepodge (n)大雜燴 = jumble = pastiche <-- hotchpotch 雜燴
     + homily (n)布道 = sermon = preach, 說教/訓誡 = sermon --> homiletics (n)講道術/說教術
     + hoodwink (v)欺騙 = trick = deceive = dupe = hoax = delude
@@ -1880,7 +1880,7 @@
     + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy <-- nebul 雲 = mist, cloudy + ous
     + necromancy (n)巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
     + nepotism (n)偏袒親戚/任人唯親 = cronyism <-- nephew
-    ++ nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate = peeve = vex <|> mettle
+    ++ nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate = peeve = vex <|> mettle --> nettlesome ((adj))令人惱怒的
     ++ noisome (adj)惡臭的 = fetid, 有害的 = harmful = noxious <-- noi 討厭 = annoy + some
     ++ /ˈnɒv(ə)l/ novel (adj)新穎的/新奇的 (n)小說 --> novelty (n)新穎/新奇(的事物)
     + /ˈnɒvɪs/ novice (n)新手/初學者 = neophyte = fledgling = tyro
@@ -2042,6 +2042,7 @@
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
     + platonic (adj)柏拉圖的/哲學的/理論的 = theoretical, 純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 通俗的/常見的 = common = vulgar
+    + ploy (n)計謀/手法/策略 = stratagem
     ++ pluck (v)採/摘/拔/拉 = pull = grasp, 撥/彈(弦), 詐財/盜取 = rob = swindle = fleece = gouge = extort (n)膽識/勇氣 = courage --> plucky (adj)勇敢的/大膽的 = brave
     ++ plumb (adv)精確地 = exactly, 垂直地, 完全地 = completely (v)深入了解 = fathom = comprehend, 測水深 = fathom (adj)垂直的, 完全的 = absolute = through
     + plummet (v)垂直落下, 突然落下 = plunge (n)測鉛 = plumb
@@ -2195,7 +2196,6 @@
     ^ pleat (n)衣服上的摺
     ^ plinth (n)柱腳, 底座
     ^ plod (n/v)沉重緩慢地走, 努力從事/埋頭苦幹
-    ^ ploy (n)花招/手法, 策略 = stratagem
     ^ plumber (n)管子工/水管工
     ^ plume (n)羽毛 (v)整理羽毛, 華麗地打扮/搔首弄姿
     ^ plush (adj)豪華的, 長毛絨製的 (n)長毛絨/厚絨布
@@ -2275,6 +2275,7 @@
     + query (n/v)質問/詢問 = ask = inquire, 疑問 = question
     +++ quibble (n/v)說模稜兩可的話= prevaricate, 吹毛求疵/挑剔 = carp = cavil (n)推託/遁辭 = subterfuge = quirk = quip, 挑剔/牢騷 <-- quip
     +++ quirk (n)特性/特點 = characteristic = peculiarity = idiosyncrasy = trait, 突然的轉變 = accident = vagary --> quirky (adj)多變的/古怪的
+    + quisling (n)賣國賊/內奸 = collaborator
     ++ quixotic (adj)不切實際的/幻想的 = visionary = impractical = utopian, 反覆無常的 = capricious = implusive = unpredictable = skittish
     + quorum (n)法定人數
 
@@ -2293,7 +2294,6 @@
     ^ quay (n)碼頭 = dock = wharf = pier
     ^ queue (v)排隊 (n)長隊
     ^ quill (n)（刺蝟或豪豬的）刺, 羽毛管/羽毛筆/琴撥/牙籤
-    ^ quisling (n)賣國賊/內奸 = collaborator
     ^ quiver (n)箭筒/箭囊
     ^ quota (n)定額/配額
     ^ quote (v)引用/引述
