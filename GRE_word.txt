@@ -782,7 +782,6 @@
     * eddy (v)起漩渦 (n)漩渦 = whirlpool, 氣旋
     * enemy (n)敵人, 敵人的
     * enmity (n)敵意/仇恨 = hostility = antipathy = hatred = animosity = antagonism = rancor = resentment
-    *** /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
     * entire (adj)全部的, 完全的 (n)全部/整體 --> entirety (n)全部/整體
     * /ɛtʃ/ etch (v)蝕刻/蝕鏤, 深印/銘記 --> etching (n)蝕刻術, 蝕刻版畫
     *** /ɪnˈθjuːzɪaz(ə)m/ enthusiasm (n)熱情 = zeal, 狂熱 --> /ɪnˌθjuːzɪˈastɪk/ enthusiastic (adj)熱情的 = zealous = ardent = passionate = devoted
@@ -1082,6 +1081,7 @@
     + /ˈdʒiːnɪəl/ genial (adj)愉快的/和藹的/友好的 = cordial = cheerful = friendly = amiable = kindly = affable --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
     + /ˈdʒɛrɪˌmandə/ gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
     + /dʒɛˈsteɪt/ gestate (v)懷孕 = conceive, 構思/孕育 = conceive = develop slowly --> gestation (n)懷孕 = pregnancy, 構思/孕育
+    + glean (v)拾落穗, 搜集（消息、材料等）
     + glib (adj)油嘴滑舌的, 能言善道的 <-- slippery
     + glide (v)滑行, 滑翔, 悄悄地移動
     + gloat (n/v)洋洋自得/幸災樂禍 = malevolent smugness <|> bloat <|> float
@@ -1188,7 +1188,6 @@
     ^ glare (v)眩目地照射, 怒目注視 <|> flare
     ^ glaze (v)給……裝玻璃, 給……上釉 (n)光滑的表層, 釉/釉料, 眼翳 <-- glass
     ^ graze (v)吃草/放牧 <-- grass
-    ^ glean (v)拾落穗, 搜集（消息、材料等）
     ^ glimmer (v)發微光 (n)搖曳的微光
     ^ glisten (v)閃耀/閃爍/反光 <-- glitter
     ^ glitter (v)閃閃發光/閃爍 (n)閃光/閃耀, 華麗/光彩
@@ -1722,6 +1721,7 @@
     + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure = stygian, 模糊的/含糊的 = vague = confused = obscure
     * /mʌɪˈəʊpɪə/ myopia (n)近視, 目光短淺/缺乏遠見
     ++ myopic (adj)近視的 = near-sighted = shortsighted, 短視近利的 = shortsighted, 心胸狹窄的 = narrow-minded = petty <-- myopia
+    + myriad (n)無數/大量 (adj)許多的/無數的 = innumerable, 各種各樣的
     + mysterious (adj)神秘的, 難解的/無法解釋的 = enigmatic = inexplicable
     
     ** manifold (adj)各式各樣的 = multifarious = diverse = varied = miscellaneous (v)複寫/複印 = duplicate, 使多樣化 = multiply <-- many + fold
@@ -1865,7 +1865,6 @@
     ^ mute (adj)沈默的 = slient (v)減弱聲音 = maffle (n)弱音器 --> muted (adj)聲音減弱的/變得輕柔的
     ^ mutiny (n/v)反叛/叛亂 --> mutineer (n)反叛者/背叛者
     ^ mutter (v)嘀咕/咕噥/抱怨 = mumble = murmur
-    ^ myriad (adj)許多的/無數的 = innumerable
     ^ mystic (adj)神秘的/不可思議的 (n)神秘主義者
 
     ^ muggy (adj)潮濕悶熱的
@@ -2069,6 +2068,7 @@
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/不成熟的 = juvenile = jejune = immature, 兒童的 = juvenile <-- puer 男孩 = boy + ile
     + puissant (adj)強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢 = power = might <-- potent
     + /ˈpʌlkrɪtjuːd/ pulchritude (n)美貌 = comeliness <-- pulchr 美麗 = beautiful + itude 
+    + /ˈpɪrɪk/ pyrrhic (adj)得不償失的
     + per se (adv)本身 == by or of itself
 
     * pamper (v)細心照顧/縱容/嬌慣 = cosset = coddle, 使滿足 = gratify = humor = indulge
