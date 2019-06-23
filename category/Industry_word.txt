@@ -95,6 +95,7 @@
 [Law/Crime]
 	- the Supreme Court 最高法院
 	- Chief Justice 首席大法官，美國聯邦政府司法部門的領袖並主管美國最高法院。首席大法官是美國最高司法官員，領導最高法院的事務並在彈劾美國總統時主持參議院
+	* amendment /əˈmɛn(d)m(ə)nt/ (n)修正/改善, 修正案
 	- the Fifth Amendment 第五修正案
 	- The Homestead Act 公地放領法案，又譯《份地法》、《移居法》
 	- appeals court 上訴法院 == Court of Appeals
@@ -108,6 +109,7 @@
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
 	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
+	- the Roe vs. Wade case of 1973. 羅訴韋德案，是美國聯邦最高法院於1973年對於婦女墮胎權以及隱私權的重要案例，對於婦女墮胎的問題，美國聯邦最高法院承認婦女的墮胎權，受到憲法隱私權的保護。
 	- appropriation bills 特別支出預算案/撥款法案
 	- search warrant 搜查令/搜索票
 	- jurisdiction
@@ -133,6 +135,7 @@
 	- class action 集體訴訟 == a legal action (= a case that is decided in a law court) that is organized by a group of people who all have the same legal problem
 		> Plaintiffs' lawyers have tried to get the courts to combine all the potential suits into a single class action.
 	- adjudication 判決
+	* ratification 批准 == The action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid.
 	- build a case 收集證據 == To compile evidence that supports an argument or charges against someone or something.
 		> The job of the prosecutor is to build a case to prove that the defendant is guilty.
 		> We're trying to build a case because many employees have been wrongly terminated by the company.
@@ -333,6 +336,7 @@
 		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
 	- corkscrew (n)開瓶器, 螺旋狀的東西 (v)作螺旋式移動
 	- spork 叉勺
+	- petroleum jelly 凡士林，一種石油膠的通用商標
 
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
@@ -344,6 +348,26 @@
 	- motion-picture 電影 == A cinema film
 	- the Academy Awards 學院獎，全名學院功績獎，通稱奧斯卡金像獎
 	- Grammy 葛萊美獎
+	- Henry David Thoreau 亨利·大衛·梭羅，他最著名的作品有散文集《湖濱散記》和《公民不服從》
+	* pun (n)雙關語 (v)說雙關語 == A joke exploiting the different possible meanings of a word or the fact that there are words which sound alike but have different meanings.
+	* prosody /ˈprɒsədi/
+		> 詩韻 |The patterns of rhythm and sound used in poetry.| the translator is not obliged to reproduce the prosody of the original
+		> 詩韻學 |The theory or study of prosody.|
+		> |The patterns of stress and intonation in a language.| the salience of prosody in child language acquisition
+	* hymn /hɪm/ 
+		> 讚美詩 |A religious song or poem of praise to God or a god.| a Hellenistic hymn to Apollo
+		> 讚美 |Praise (something)| the joys of domesticity were being hymned in magazines
+	* rhyme /rʌɪm/ <--> rhythm /ˈrɪð(ə)m/
+		> 韻/韻腳 |Correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.|
+		> 押...韻 |(of a word, syllable, or line) have or end with a sound that corresponds to another.| balloon rhymes with moon
+		> 押韻 |(of a poem or song) be composed in rhyme.| the poem would have been better if it rhymed
+		> 使成韻 |Put a word together with (another word that has a corresponding sound), as when writing poetry.| I'm not sure about rhyming perestroika with balalaika
+		> 作詩 |Compose verse or poetry| Musa rhymed and sang
+		> 押韻詩/韻文 |Rhyming poetry or verse.|
+		> 同音字 |A word that has the same sound as another.|
+	- punctuation /pʌŋ(k)tʃʊˈeɪʃ(ə)n/ 標點符號
+	- ballad	/ˈbaləd/ 民謠/民歌 == A poem or song narrating a story in short stanzas. Traditional ballads are typically of unknown authorship, having been passed on orally from one generation to the next.
+
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -356,6 +380,7 @@
 	- orthodontist 牙齒矯正醫師
 	- gynecologist 婦科醫生 == A physician or surgeon qualified to practice in gynecology.
 	- anesthesiologist 麻醉師
+	* veterinary /ˈvɛtrɪn(ə)ri／ (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
 	- plaque
 		> 飾版/匾 |An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.|
 		> |A sticky deposit on teeth in which bacteria proliferate.|
@@ -364,12 +389,19 @@
 		> |A flat counter used in gambling.|
 	- postpartum hemorrhage 產後出血
 	- influenza	流感 == flu 
+	* irritation
+		> 惱怒 |The state of feeling annoyed, impatient, or slightly angry.| much to my irritation, Chris fell asleep
+		> 疼痛/發炎 |Inflammation or other discomfort in a body part caused by reaction to an irritant substance| some chemicals cause a direct irritation to the skin leading to dermatitis
 	- emphysema	/ˌɛmfəˈsimə/ 肺氣腫
 	- asthma 哮喘
 	- bronchitis /brɑŋˈkaɪdəs/ 支氣管炎
 	- syphilis 梅毒
 	- diabetes 糖尿病 == diabetes mellitus
 	- pancreatitis 胰臟炎 == Inflammation of the pancreas.
+	- upper respiratory infection 上呼吸道感染
+	+ respiratory /rɪˈspɪrət(ə)ri/ 呼吸的/呼吸器官的
+	- pneumonitis /ˌnjuːmə(ʊ)ˈnʌɪtɪs/  肺炎
+	- rhinotracheitis /ˌrʌɪnə(ʊ)treɪkɪˈʌɪtɪs/ 鼻氣管炎
 	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
 	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
 	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
@@ -378,6 +410,7 @@
 	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
 	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
 	- manic depression 躁鬱症
+	- rabies /ˈreɪbiːz/ 狂犬病 --> rabid (adj)患有狂犬病的, 瘋狂的
 	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
 	- stillborn 死胎的 == (of an infant) born dead
 	- miscarriage
@@ -439,7 +472,14 @@
 		> 碰傷 |A mark indicating an area of damage on a fruit, vegetable, or plant.|
 		> |Cause a bruise or bruises to appear on (a fruit, vegetable, or plant)| the fall bruised several of the ripest bananas
 		> 傷害 |Hurt (someone's feelings)| I will admit that my pride was bruised by his comment
-		> 搗碎 |Crush or pound (food)| add the beans, tomatoes, and lime wedges and roughly bruise with the pestl
+		> 搗碎 |Crush or pound (food)| add the beans, tomatoes, and lime wedges and roughly bruise 
+	- ulcer /ˈʌlsə/ (n)潰瘍, 道德腐敗
+	- abscess 膿瘡/潰瘍
+	- distemper
+		> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
+		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
+		> 膠畫法 |A method of mural and poster painting using distemper.|
+		> |Paint with distemper.|
 	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
 	- ego
 		>> |A person's sense of self-esteem or self-importance.|
@@ -464,6 +504,8 @@
 		> 身體 |A person's body.| every part of his anatomy hurt
 		> 結構學 |A study of the structure or internal workings of something.| a detailed anatomy of a society and its institutions
 	- carcinogen 致癌物 == cancer-causing substance
+	* preventive (adj)預防的 (n)預防藥物/預防法
+	- vaccination /vaksɪˈneɪʃ(ə)n/ 疫苗接種 == Treatment with a vaccine to produce immunity against a disease; inoculation.
 	- pharmacy /ˈfɑːməsi/ (n)藥局, 配藥學
 	- pharmaceutical /ˌfɑːməˈs(j)uːtɪk(ə)l/ (adj)製藥的
 	- evergreening 長青化，把即將超過專利期的藥物作微小或修飾性的改變，以便再次申請專利，繼續賺取巨大利潤
@@ -472,11 +514,14 @@
 		> 消毒 |The process of making something free from bacteria or other living microorganisms.| disinfection and sterilization of surgical equipment
 		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
 	- neonatal 新生的 == Relating to newborn children (or other mammals)
-	- abscess 膿瘡/潰瘍
 	- deceased (n)死者 (adj)死亡的
 	- Ebola 伊波拉出血熱，一種由伊波拉病毒引起，多出現於靈長動物身上的人畜共患傳染病。罹患此病的人會在2天至3週內陸續出現發燒、頭痛、肌肉疼痛、嘔吐、腹瀉以及出疹等症狀
 	- E. coli == Escherichia coli 大腸桿菌
 	- chlamydia 砂眼衣原體，一種「絕對寄生病原體」，披衣菌是一種在構造上介於細菌和病毒之間的微生物
+	* urine /ˈjʊərɪn/ 尿
+	- urinary /ˈjʊərɪn(ə)ri/ 
+		> 尿的 |Relating to urine.|
+		> 泌尿系統的 |Relating to or denoting the system of organs, structures, and ducts by which urine is produced and discharged, in mammals comprising the kidneys, ureters, bladder, and urethra.| the urinary tract
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -606,13 +651,33 @@
 	- pacifier 奶嘴
 	- fedora 男士軟呢帽 == A low, soft felt hat with a curled brim and the crown creased lengthways.
 	- scruffy 邋遢的 == Shabby and untidy or dirty.
+	- comb /kəʊm/ 
+		> 梳子 |A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.|
+		> 梳 |An act of untangling or arranging the hair with comb.| she gave her hair a comb
+		> 用梳子梳理 |Untangle or arrange (the hair) by drawing a comb through it.|
+		> 梳狀飾品 |A short curved type of comb, worn by women to hold the hair in place or as an ornament.| her hair was held back with two tortoiseshell combs
+		> 毛刷 |A device for separating and dressing textile fibres.|
+		> 雞冠 |The red fleshy crest on the head of a domestic fowl, especially a cock.|
+		> 徹底搜查 |Search carefully and systematically.| police combed the area for the murder weapon
 
 [Art]
 	- the Mona Lisa
 	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
 	- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
 	- The Last Supper 最後的晚餐
-
+	- formalism 
+		> 過於拘泥的行為或態度 |Excessive adherence to prescribed forms.|  academic dryness and formalism
+		> 形式主義 |A description of something in formal mathematical or logical terms.| there is a formalism which expresses the idea of superposition
+	- neoclassical 新古典主義的
+	- romanticism 浪漫主義
+	- Transcendentalism 超越主義/超越論，也稱作「新英格蘭超越主義」或「美國文藝復興」，是美國的一種文學和哲學運動。超驗主義強調人與上帝間的直接交流和人性中的神性，具有強烈的批判精神。其社會目標是建立一個道德完滿的烏托邦式理想社會，其精神成為美國文化中一個重要遺產。
+	- Renaissance /rɪˈneɪsɑ:ns/ 文藝復興 
+	- distemper
+		> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
+		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
+		> 膠畫法 |A method of mural and poster painting using distemper.|
+		> |Paint with distemper.|
+	
 [Religion]
 	- priesthood == The office or position of a priest.
 	- deacon (n)助祭/執事
@@ -695,7 +760,10 @@
 	- nirvana 涅槃/極樂世界
 	- gospel 福音 == The teaching or revelation of Christ.
 	- choir 唱詩班 == An organized group of singers, especially one that takes part in church services or performs in public.
-
+	- theism /ˈθiːɪz(ə)m/ 有神論/一神論 == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
+	- deism /ˈdeɪɪz(ə)m/ 自然神論 == Belief in the existence of a supreme being, specifically of a creator who does not intervene in the universe.
+	- pantheism /ˈpanθiːɪz(ə)m/ 泛神論 == A doctrine which identifies God with the universe, or regards the universe as a manifestation of God.
+	- Unitarian (adj)一位論派 (n)一位論派教徒 ==  person who asserts the unity of God and rejects the doctrine of the Trinity.
 [Engineer]
 	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
 	- mechanic == A skilled worker who repairs and maintains vehicle engines and other machinery.
@@ -712,6 +780,8 @@
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
 [School]
 	- sophomore == A second-year university or high-school student.
+	- studies programs 課程 <--> study program 研究計畫
+
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.

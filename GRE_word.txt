@@ -50,6 +50,7 @@
     * /əˈfɛː/ affair (n)事務/事情, 不好的事件, 秘密的性關係
     * akin (adj)相似的/類似的
     * anguish (n)極度痛苦/劇痛/悲痛 = agony <-- angu 狹窄 = narrow + ish
+    ** /ˌapəˈreɪtəs/ apparatus (n)儀器/設備, 機構/系統
     * argument (n)爭執/爭吵/辯論, 理由/論據/論點, 情節/內容提要 <|> augment
     * /ˈa-rəd/ arid (adj)乾旱的 = dry <--> damp, 枯燥的/乏味的 = dull = insipid = jejune, 不成功的/無結果的 = barren
     * arouse (v)引起/喚起/激起 = inspire = stir = foment = incite <|> arise
@@ -106,7 +107,6 @@
     anvil (n)鐵砧
     aorta (n)主動脈
     aplomb (n)沈著/自信 = equanimity
-    apparatus (n)儀器/設備
     apoplexy (v)中風 --> apoplectic (adj)中風的, 憤怒的/勃然大怒的 = indignant
     apothecary (n)藥劑師
     applicant (n)申請人
@@ -656,6 +656,7 @@
     *** delicate (adj)脆弱的, 纖細的 = subtle, 精緻的 = dainty, 精密的, 柔和的 --> delicacy (n)細嫩, 細緻/優雅
     * delight (v)使滿足/使高興 (n)欣喜/滿足 <|> blight
     * delectable (adj)美麗的, 愉悅的, 美味的 <-- delight
+    ** device (n)設備/裝置, 手段/計畫/詭計, 圖樣/設計
     ** devise (v)發明/設計 = contrive = concoct = fabricate, 謀劃/策劃, 遺贈給 = legate <-- device
     * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
     ** dismal (adj)悲傷絕望的/憂鬱的 = lugubrious = dreary = gloomy = melancholy = plaintive = desolate = morose = saturnine, 十分可憐的 = pitiful = miserable = abject = deplorable
@@ -909,6 +910,7 @@
     * fast (n)絕食, 齋戒 (adj)快的, 牢的/緊的, 可靠的 (adv)快, 緊緊地
     * fasten (V)扣緊/繫牢/固定, 紮好, 關緊
     * fastness (n)要塞/堡壘
+    *** /ˈfeɪt(ə)l/ fatal (adj)致命的
     * /fəˈtiːɡ/ fatigue (n)疲勞/精疲力盡 = lassitude = languor (v)使疲勞 = exert --> fatigued (adj)疲乏的 = weary = languid --> fatigable (adj)易疲勞的
     *** favor (n)善行/幫助, 贊同, 偏好 = prefer, 贈禮 (v)贊同, 偏袒, 有利於 = facilitate, 贈與/給予 = bestow, 施恩/幫助 = oblige = aid = support, 像/相似 = resemble
     *** favorable (adj)贊同的 = positive, 討人喜歡的 = pleasing, 有利的 = propitious = advantageous, 吉利的 = propitious
@@ -1221,7 +1223,7 @@
     ^ gristle (n)軟骨
     ^ grit (n)砂礫, 決心/勇氣/膽試 = pluck (v)下定決心/咬緊牙關
     ^ groan (n/v)呻吟
-    ^ groom (n)馬伕, 新郎 (v)打扮/穿戴
+    ^ groom (n)馬伕, 新郎 = bridegroom (v)清潔, 照看(草皮), 準備/訓練
     ^ groove (n)溝/槽 = rut, 習慣 = rut
     ^ grope (v)摸尋/探尋
     ^ grotto (n)洞穴
@@ -1899,6 +1901,7 @@
     * nod (n/v)點頭, 打瞌睡
     * noose (n)套索, 圈套/陷阱 (v)用套索捕捉/使落入圈套 <|> loose
     * nourish (v)養育/滋養/培育/支持 = nurture, 懷抱 --> nourishment (n)食物/營養品 = nurture, 養育/滋養
+    * nucleus (n)核/核心 --> nuclear (adj)核心的/核的
     * /nʌm/ numb (v)使失去感覺/使麻木 = stupefy, 使驚呆/使發愣 = stupefy (adj)失去感覺的/麻木的 = enervated = prostrate = torpid, 麻痺的 = paralysed
     * nun (n)修女 --> nunnery (n)女修道院 = convent
     
@@ -2038,7 +2041,7 @@
     +++ /ˈpɔɪnjənt/ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
-    + pivotal (adj)中樞的, 關鍵的 = critical = crucial = key = vital
+    + /ˈpɪvət/ pivot (n)樞紐/轉捩點 (v)繞...轉 --> pivotal (adj)中樞的, 關鍵的 = critical = crucial = key = vital
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
     + platonic (adj)柏拉圖的/哲學的/理論的 = theoretical, 純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 通俗的/常見的 = common = vulgar

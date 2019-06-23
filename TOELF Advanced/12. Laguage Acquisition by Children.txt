@@ -30,7 +30,7 @@ Many recent works have stressed that all children go through the same stages of 
 
 [Review]
 - generative (adj)生殖的/有生產力的, [語言]生成的
-+ underlie -> underlie
++ underlie -> underlying
 	> 在下面 |(especially of a layer of rock or soil) lie or be situated under (something)| limestone underlies much of the site
 	> 源自於/是...的基礎 |Be the cause or basis of (something)| the fundamental issue which underlies the conflict
 + innate (adj)天生的 <|> inmate

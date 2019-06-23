@@ -2153,7 +2153,7 @@
         + faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
         + /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
         * feasance (n)履行/義務
-        + feasible (adj)可行的, 可能的 = probable = likely, 合適的 = suitable
+        + feasible (adj)可行的/可能的 = probable = likely, 合適的 = suitable
         + feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
         - fiction (n)小說, 虛構/捏造
         * fictitious (adj)假的/假裝的, 虛構的 = imaginary = fabulous
@@ -2223,7 +2223,7 @@
         + refractory (adj)執拗的/倔強的/難以控制的 = disobedient, 有抵抗力的
 
     femin 女性 = woman
-        - feminist (n)女權運動者
+        - feminist (adj)主張男女平等的 (n)男女平等主義者
         * feminine (adj)女性特有的/女性的/陰性的 <--> masculine
         - effeminate (adj)女人氣的/柔弱的
 
@@ -2610,7 +2610,7 @@
         - horripilate (v)起雞皮疙瘩 --> horripilate (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
     hori, horiz 邊界 = bound, limit
-        - aphorism (n)格言 = adage = maxim
+        * aphorism (n)格言 = adage = maxim --> /afəˈrɪstɪk/ aphoristic (adj)格言似的/格言的
         - horizon (n)地平線
 
     here, her, hes 黏住 = stick, cling
@@ -2621,7 +2621,7 @@
     here, heir, herit 繼承
         * heir (n)繼承人
         * hereditary (adj)遺傳的, 世襲的 --> heredity (n)
-        + /ˈhɛrɪtɪdʒ/ heritage (n) 遺產 = inheritance
+        + /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance, 世界遺產, 傳統
         * /ɪnˈhɛrɪt/ inherit (v)繼承
         + /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
@@ -2876,6 +2876,7 @@
             + intrepid
             - intuit (v)由直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的 <-- in + tuit 看 = look 
             + invalidate (v)使無效 = nullify
+            * invariably (adv)不變地/總是 == always == In every case or on every occasion
             - invertebrate (adj)無脊椎的 (n)無脊椎動物 = in + vertebrate 
             + invidious
             - inviolate (adj)不可侵犯的/不可褻瀆的 <-- in + violate + able
@@ -3337,7 +3338,7 @@
             - elect (v)推選 (adj)當選的, 卓越的
             - elite (n)精華, 精英
             + eclectic (adj)折衷的/綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
-            + intellect (n)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
+            ++ intellect (n)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
             - intelligent (adj)聰明的, 熟悉的 --> intelligence (n)智慧, 情報
             + intelligible (adj)可了解的/明瞭的 = comprehensible, 清晰的
             + predilection (n)嗜好/偏愛 <-- pre + dilect 選擇 = select + ion
@@ -3932,7 +3933,7 @@
     not 標示/注意 = note, mark
         - annotate (v)註解/註記
         - notorious (adj)惡名昭彰的 = flagrant
-        +++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone
+        +++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
         - denote ()表示/代表 = indicate = mean
         - notable (adj)顯著的/明顯的, 著名的/顯要的
         - noticeable (adj)顯而易見的/明顯的 = notable, 值得注意的/重要的
@@ -4643,6 +4644,7 @@
         * appetite (n)慾望/食慾, 愛好 = penchant = passion = propensity --> appetizer (n)開胃品/開胃菜 --> appetizing (adj)美味可口的/促進食慾的
         - compete (v)競爭
         + competent (adj)有能力的/能幹的 <-- compete
+        ++ competence, competency (n)能力, 權限, 語言潛意識, 足以過著舒適生活的收入
         + empiric (n)經驗主義者, 庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
         + perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存
         *** petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
@@ -5108,7 +5110,7 @@
             + /rəˈɡeɪl/ regale (v)款待, 使享受/使喜悅 = entertain = amuse <-- re + gale 喜悅 = pleasure
             *** regard (v)看待, 注視 = observe = look at, 尊敬 = esteem = respec, 考慮 = consider, 有關 = concern = relate to (n)注意 = attention = consideration = care, 注視 = look = gaze, 尊敬/尊重 = esteem, 動機 = motive, 觀點 = aspect = point
             + rehabilitate (v)復興/復原/復權/復職 <-- re + habilitate
-            * rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習 <-- re + hearse 耙子 = harrow
+            * rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習/練習, 詳述 <-- re + hearse 耙子 = harrow
             - reimburse (v)償還 <-- re + im + burse 錢包 = bag
             + reinforce (v)加固/使更結實 = buttress, 加深/進一步證實, 增援 <-- re + in + force
             - reinstate (v)復職 <-- re + in + state
@@ -5123,7 +5125,7 @@
             + relegate
             + relevant --> relevance
             - relieve --> relieved
-            - rely (v)依靠/依賴/指望 --> reliance (n)信賴/信任
+            * rely (v)依靠/依賴/指望 --> reliance (n)信賴/依賴
             + reliable (adj)可信賴的/可靠的 = dependable
             + reliquish
             + reluct (v)反抗/不同意 --> reluctant (adh)不情願的 = averse = unwilling = loath --> reluctance (n)不情願  <-- re + luct 掙扎 = struggle
@@ -5977,7 +5979,7 @@
         + significant (adj)相當數量的 = considerable = substantial, 意義重大的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
 
     son 聲音 = sound
-        - consonant (adj)一致的/調和的 <--> dissonant (n)子音/子音字母 
+        - consonant (adj)一致的/調和的 <--> dissonant (n)子音/子音字母 <--> vowel
         + dissonant (adj)不和諧的/不一致的 = discordant = incompatible --> dissonance (n)不一致, 不和諧音
         - resonant (adj)宏亮的 = orotund = stentorian, 共鳴的 --> resonance (n)共鳴/回響
         - sonic (adj)聲音的/音速的
@@ -6847,6 +6849,7 @@
         - devotee (n)崇拜者/愛好者 = idolater
         - devotional (adj)虔誠的/獻身的, 忠誠的/專心的
         * disavow (v)否認/推翻前言
+        + /vaʊ/ vow (n)誓言 (v)發誓 <|> /ˈvaʊəl/ vowel 
         - votary (n)信徒/崇拜者
         - vote (v)選舉
         - votive (adj)奉獻的/誠心祈求的/許願的
@@ -6893,7 +6896,7 @@
 
     vict, vinc 征服/勝利 = overcome, conquer
         + convict (v)定罪/宣判…有罪 (n)罪犯/囚犯 
-        ++ conviction (n)定罪/判罪, 堅信/深信
+        ++ conviction (n)定罪/判罪, 確信/信念, 說服力
         - evict (v)驅逐/趕走 = banish = oust
         - victorious (adj)勝利的/獲勝的
         - victor (n)勝利者
