@@ -1,5 +1,6 @@
 [General]
 	- suburb == An outlying district of a city, especially a residential one.
+	- suburbia 近郊/郊外居民 == The suburbs or their inhabitants viewed collectively.
 	- continent /ˈkɒntɪnənt/
 	- temperate zone 溫帶
 	- tropic 熱帶
@@ -14,7 +15,6 @@
 	- county (n)郡
 	- Gondwanaland 岡瓦那大陸
 	- Laurasia 勞拉西亞大陸
-	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- Mediterranean climate 地中海型氣候
 	- topography
 		> 地形/地貌 |The arrangement of the natural and artificial physical features of an area.|
@@ -65,6 +65,7 @@
 	- Pittsburgh 匹茲堡，位於美國賓夕法尼亞州西南部
 	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
+	- Carmel 卡梅爾海，是美國加利福尼亞州蒙特雷縣下屬的一座城， 該市以充滿童話色彩的歐式小鎮著稱，吸引許多藝文人士駐留
 
 [U.S. State]
 	- Nevada
@@ -102,7 +103,7 @@
 	+ Spanish 西班牙
 	+ Spaniard 西班牙人 == A native or inhabitant of Spain
 	- Eskimo 愛斯基摩人
-	- Ethiopian 衣索比亞的
+	- Ethiopia 衣索比亞 --> Ethiopian
 	- Eurasia 歐亞大陸 
 	- Venezuela 委內瑞拉
 	- Indian
@@ -147,6 +148,24 @@
 	- Persia 波斯 --> Persian 
 	- Siberia /sʌɪˈbɪərɪə/ 西伯利亞 --> Siberian /sʌɪˈbɪərɪən/
 	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
+	- Malaysia 馬來西亞 --> Malaysian
+	- Malay (n)馬來語, 馬來人
+	- Iran 伊朗 --> Iranian 伊朗人
+	- Ukraine 烏克蘭
+	- New Zealand 紐西蘭
+	- Vietnam 越南
+	- Belize 貝里斯，前身為英屬宏都拉斯，是中美洲東海岸的一個獨立國家
+	- Antarctica 南極洲
+	- Kazakhstan 哈薩克
+	- Laos 寮國，寮人民民主共和國，是東南亞國家中唯一的內陸國家
+	- Cambodia 柬埔寨
+	- Myanmar 緬甸
+	- Maldives 馬爾地夫，位於斯里蘭卡及印度西南偏南對出的印度洋水域約500公里處
+	- Democratic Republic of the Congo == DRC 剛果民主共和國
+	- Congolese (adj)剛果的 (n)剛果人, 剛果語
+	- Slavic 斯拉夫人
+	- Nordic (adj)北歐國家的 (n)北歐人 == Relating to or denoting Scandinavia, Finland, and Iceland.
+	- Denmark 丹麥
 
 [Worldwide POI]
 	- Vesuvius 維蘇威火山
@@ -166,6 +185,32 @@
 	- Taklamakan Desert 塔克拉瑪干沙漠
 	- the New Territories 新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
 	- Tripoli 的黎波里，利比亞首都
+	- Kuala Lumpur /ˌkwɑːlə ˈlʊmpʊə/  吉隆坡，馬來西亞的首都兼最大城市
+	- Ho Chi Minh 胡志明市
+	- the Malay Peninsula 馬來半島
+	- Penang 檳城，是馬來西亞十三個聯邦州屬之一
+	- the Strait of Malacca 馬六甲海峽
+	- Sumatra 蘇門答臘
+	- Rio de Janeiro 里約熱內盧，是位於巴西東南部的城市，為里約熱內盧州首府，同時是巴西第二大城，僅次於聖保羅
+	- the Golden Triangle 金三角，是緬甸、寮國、泰國交界地區
+	- the Mekong River 湄公河
+	- Perth 珀斯，西澳大利亞州的首府，也是澳大利亞第四大城市
+	- Mauritius 模里西斯，位於印度洋的西南方，於非洲第一大島馬達加斯加以東約900公里
+	- Réunion 留尼旺，是一座印度洋西部馬斯克林群島中的火山島。為法國的海外大區之一
+	- Rodrigues 羅德里格斯島
+	- Hobart 荷巴特，澳洲塔斯馬尼亞州首府，為僅次於雪梨的澳洲第二古老城市
+	- Madagascar 馬達加斯加，是一個位於非洲東南部近海的印度洋島嶼國家
+	- Mozambique 莫三比克，位於非洲南部，臨印度洋，隔莫三比克海峽與馬達加斯加相望
+	- Eurasia 歐亞大陸
+	- Tasmania 塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
+	- Greenland 格陵蘭，是世界第一大島，大約81%都被冰雪覆蓋
+
+[Festival]
+	- maypole 五朔節花柱
+	- Ivan Kupala 伊凡·庫帕拉節，是聖若翰洗者慶晨在斯拉夫文化的版本，是當地人民慶祝夏至的節日。
+	- Yalda 雅爾達之夜，在一年中最長的黑夜，即北半球冬至這一天慶祝的伊朗節日
+	- Saturnalia 農神節
 
 [Ocean]
 	- the Pacific Ocean
+	- the Andaman Sea 安達曼海，又名緬甸海，是一個孟加拉灣東南部的水體，

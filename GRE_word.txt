@@ -671,7 +671,7 @@
     * dwell (v)居住 --> dwelling (n)住處
     * diploma (n)外交官 --> diplomatic (adj)外交的, 有策略的 = tactful = politic, 委婉的 <-- diplo 二 = double + ma
     
-    ^ dabble (v)淺嚐/涉獵, 戲水
+    ^ dabble (v)淺嚐/涉獵, 進入水中, 戲水
     ^ dally (v)閒蕩 = loiter, 嬉戲
     ^ dandy (n)花花公子 (adj)非常好的
     ^ daredevil (adj)大膽的/冒失的 = bold = reckless (n)大膽的人/冒失的人
@@ -1122,6 +1122,7 @@
     * grapple (n/v)扭打/格鬥 = wrestle (n)抓勾 (v)抓住 = seize, [with]盡力解決 = struggle = deal
     * grid (n)網格/方格, 電力網/輸電網
     * /ɡəːd/ gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
+    ** grim (adj)嚴肅的, 無情的/殘忍的, 黑色的(幽默), 陰森的, 嚴酷的
     * /ɡrʌɪm/ grime (n)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)骯髒的/髒兮兮的 = dirty <|> stymie
     * grind (v)磨刀/拋光 = whet, 摩擦/磨碎/碾碎 = grate (n)枯燥乏味的工作 
     *** gross (adj)總的, 下流的/粗俗的 = vulgar = obscene = indecent = ribald = bawdy = salacious, 駭人的 = flagrant, 胖的/龐大的 = bulky = fat (n)整個/全部, 總額
@@ -1213,7 +1214,7 @@
     ^ green (adj)新鮮的, 未成熟的, 無經驗的, 嫉妒的, 環保的, 綠的 (n)綠色, 草坪, 植物
     ^ greenhouse (n)溫室/花房
     ^ grill (v)烤 = broil, 拷問 (n)烤架
-    ^ grim (adj)冷酷的/可怕的 = forbidding --> grimace (n/v)做鬼臉
+    ^ grimace (n/v)做鬼臉
     ^ grin (v)露齒而笑
     ^ griple (v)抱怨
     ^ grisly (adj)恐怖的/可怕的 = morbid = gruesome
@@ -1889,7 +1890,7 @@
     ** nutrient (N)滋養物質 --> nutrition (n)營養, 營養學
 
     * native (adj)天生的/天然的/自然的, 土著的, 本土的/本國的 (n)本地人/本國人, 原住民
-    * naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow <-- native
+    * naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow --> naivete (n)缺乏經驗或智慧, 天真/天真的行為 <-- native
     * nay (adv)而且/甚至 (n)否定/拒絕/反對
     * negotiate (v)商議/談判/交涉 --> negotiation (n)商議/談判 <-- negoti 公事 = business + sate
     * negotiable (adj)可商量的
@@ -1983,7 +1984,7 @@
     ^ optional (adj)可自由選擇的
     ^ orchard (n)果園
     ^ orchestra (n)管弦樂團
-    ^ ordeal (n)嚴峻考驗/苦難/折磨
+    ^ ordeal (n)苦難/不愉快的經驗
     ^ ore (n)礦石 <|> roe
     ^ osmosis (n)滲透/滲透作用, 同化/潛移默化
     ^ ostrich (n)鴕鳥, 不願接受現實的人
@@ -2445,7 +2446,7 @@
 [S]
     ++ sage (adj)賢明的/睿智的 = wise, 審慎的 = judicious = prudent (n)聖人/賢人/哲人, 鼠尾草 = salvia --> /səˈɡeɪʃəs/ sagacious (adj)有眼光的 = discerning, 精明的 = shrewd = keen = astute
     ++ /səˈleɪʃəs/ salacious (adj)好色的/猥褻的 = lascivious = lustful = lecherous = wanton
-    + /ˈsalvɪdʒ/ salvage (n/v)救助/營救/搶救, 打撈 (n)海難救助, 打撈 <|> savage <-- save
+    + /ˈsalvɪdʒ/ salvage (n/v)救助/營救/搶救, 打撈 (n)海難救助, 打撈 --> salvation (n)救助, 救世 <-- save
     *** /ˈsavɪdʒ/ savage (V)亂咬/兇猛地攻擊, 嚴厲抨擊 = excoriate = lambaste (adj)未馴化的 = untamed, 兇殘的 = fierce = ferocious = truculent = vicious, 未開化的/野蠻的 = uncivilized = barbarous, 粗魯的 = rude = boorish, 惡意的 = malicious (n)野蠻人, 殘暴成性的人, 粗魯的人 = boor = churl 
     ++ /ˈsaŋɡwɪn/ sanguine (adj)樂觀的 = optimistic = hopeful, 紅潤的 = reddish = ruddy, 血紅的 = blood-red, 血腥的 = bloody = sanguinary <-- sanguin 血 = blood + e
     + sarcasm (n)諷刺/挖苦 = irony = bitter derision = satire --> sarcastic (adj)諷刺的 = satirical = sardonic = caustic = ironic  = backhanded
@@ -2626,7 +2627,6 @@
     *** sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy
     * spasm (n)抽搐/痙攣 = jerk --> spasmodic (adj)痙攣的 = jerky
     * splendor (n)壯麗 = magnificence = grandeur, 輝煌 = brilliancy --> splendid (adj)極佳的/華麗的/壯麗的 = grand = gorgeous = gorgeous = magnificent = sumptuous
-
     * sponge (n)海綿, 擦拭/擦洗 (v)白吃/白要 = cadge, 擦/擦洗 --> spongy (adj)像海綿的, 不堅實的
     * spouse (n)配偶
     * /spaʊt/ spout (v)噴出 = erupt (n)噴口, 水柱
@@ -2649,6 +2649,7 @@
     * straddle (v)兩腿叉開, 跨坐, 觀望 (n)叉開兩腿, 觀望, 指定價格的交易
     * strap (n)帶子, 皮條, 鞭打 (v)用帶子綁住, 用皮條抽打
     * /struː/ strew (v)撒/散播 = spread = scatter
+    * strenuous (adj)費勁的 = arduous = taxing = laborious
     * strife (n)衝突/爭鬥 = contention = conflict <|> stifle <|> trifle
     * stubborn (adj)固執的, 難以改變的
     * stumble (v)絆倒, 踉蹌/蹣跚 = falter = halt = stagger, 結結巴巴地說 = falter = stammer = halt, 偶然碰見
@@ -2958,6 +2959,7 @@
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + /ˈtiːdɪəs/ tedious (adj)乏味的/沈悶的 = dull = jejune --> tedium (n)單調乏味/無聊 = boredom
     +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
+	* temperamental (adj)喜怒無常的, 性情的
     +++ /ˈtɛmp(ə)rət/ temperate (adj)溫暖的/溫帶的, 節制的 = moderate = continent = abstemious, 適度的 = moderate <-- temper
     +++ temperance (n)自制/節制 = continence, 適度 = moderation, 戒酒/禁酒 <-- temper
     ** temperature (n)溫度/體溫, 緊張程度

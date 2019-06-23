@@ -35,6 +35,7 @@
 		> 解僱期 |A period when a layoff is in force.|
 		> 停止活動 |A period during which someone does not take part in a customary sport or other activity.|
 	- family leave 家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
+	- paternity leave 陪產假
 	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
 	- blue-collar 藍領/藍領的，簡單來說就是從事勞動工作的雇員，典型的代表可能是工廠作業員和軟體工程師，藍領經常被用來與白領比較，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作。
 	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
@@ -51,6 +52,10 @@
 	- logistic 後勤 == the careful organization of a complicated activity so that it happens in a successful and effective way
 	- tycoon 巨頭/大亨 == A wealthy, powerful person in business or industry.
 	- supremo 大師 == A person with great authority or skill in a certain area.
+	- foreman
+		> 工頭/領班 |A male worker who supervises and directs other workers.|
+		> 陪審團主席 |(in a law court) a person who presides over a jury and speaks on its behalf.|
+	- brain trust 智囊團/顧問團/諮詢團 == a group of people who advise a leader
 
 [House]
 	- butler == The chief manservant of a house.
@@ -105,6 +110,10 @@
 	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
 	- appropriation bills 特別支出預算案/撥款法案
 	- search warrant 搜查令/搜索票
+	- jurisdiction
+		> 司法權/審判權/權力 |The official power to make legal decisions and judgements.|
+		> 管轄範圍 |The extent of the power to make legal decisions and judgements.|
+		> 司法 |A system of law courts; a judicature.|
 	- advocacy
 		> 公開支持 |Public support for or recommendation of a particular cause or policy.|
 		> 辯護律師/辯護人 |The profession or work of a legal advocate.| solicitors should have a record of advocacy in the lower courts
@@ -144,6 +153,7 @@
 		> 囚犯 |A person found guilty of a criminal offence and serving a sentence of imprisonment.| two escaped convicts kidnapped them at gunpoint
 	- verdict 裁決 == A decision on an issue of fact in a civil or criminal case or an inquest.
 	- testimony 證言/證言 == A formal written or spoken statement, especially one given in a court of law.
+	- courtroom 法庭/審判室 == The place or room in which a court of law meets.
 	- incarceration 監禁 == imprisonment
 	- pedophile 戀童癖 == A person who is sexually attracted to children.	
 	- thug 暴徒 == A violent person, especially a criminal.
@@ -166,7 +176,7 @@
 	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
 	- mandatory 義務的 == Required by law or mandate; compulsory.
 	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
-	- poach
+	* poach
 		> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
 		> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
 		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.|
@@ -194,7 +204,11 @@
 		> 防空炮 |Anti-aircraft fire.|
 		> 批評/抨擊 |Strong criticism.| you must be strong enough to take the flak if things go wrong
 	* armed forces 軍隊
-
+	- Silver Star 銀星勳章，美軍跨軍種通用勛獎，它是美國聯邦軍事勛獎中等級最高的軍事獎章
+	- gendarme 法國憲兵 == A paramilitary police officer in France and other French-speaking countries.
+	- shrapnel /ˈʃrapn(ə)l/ 
+		> 砲彈碎片 |Fragments of a bomb, shell, or other object thrown out by an explosion.| he was killed by flying shrapnel
+		> 榴散彈 |A shell containing bullets or pieces of metal timed to burst short of impact.|
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -219,6 +233,7 @@
 	- dead reckoning 航位推測法，是一種利用現在物體位置及速度推定未來位置方向的航海技術
 	- diesel motor 柴油引擎
 	- hydraulic fluid 液壓油
+	- number plate 車牌
 
 [Agriculture/Farming]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
@@ -259,6 +274,9 @@
 	- domesticate 
 		> 馴養 |Tame (an animal) and keep it as a pet or on a farm.|
 		> 人工培植 |cultivate (a plant) for food.|
+	- homestead
+		> 家園/農場 |A house, especially a farmhouse, and outbuildings.|
+		> 自耕農場/公地 |An area of land (usually 160 acres) granted to a settler in the West as a home.|
 
 [Cook/Food]
 	- Worcestershire sauce 伍斯特醬
@@ -271,6 +289,9 @@
 	- Soylent 一種代餐飲料
 	- meringue 酥皮/蛋白酥
 	- tequila 龍舌蘭
+	- rum
+		> 蘭姆酒/甘蔗酒 |An alcoholic spirit distilled from sugar-cane residues or molasses.|
+		> 酒精飲料 |Intoxicating drink.|
 	- vintage
 		> |The year or place in which wine, especially wine of high quality, was produced.| 1982 is one of the best vintages of the century
 		> |A wine of high quality made from the crop of a single identified district in a good year.|
@@ -291,6 +312,17 @@
 	- oat 燕麥, 麥稈
 	- oatmeal 燕麥粉/燕麥片
 	- barley 大麥
+	- mustard
+		> 芥末/芥子 |A hot-tasting yellow or brown paste made from the crushed seeds of certain plants, typically eaten with meat or used as a cooking ingredient.|
+		> 芥菜 |The yellow-flowered Eurasian plant of the cabbage family whose seeds are used to make mustard.|
+		> 棕黃色 |A brownish yellow colour.|
+	- pepper
+		> 胡椒粉 |A pungent hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavour food.|
+		> 胡椒 |A climbing vine with berries that are dried as black or white peppercorns.|
+		> 灑胡椒 |Sprinkle or season (food) with pepper.|
+		> 辣椒粉 |A reddish hot-tasting spice prepared from various forms of capsicum.|
+		> 辣椒 |A capsicum, especially a sweet pepper.|
+		> be peppered with 使佈滿 |Cover or fill with a liberal amount of scattered items.| the script is peppered with four-letter words
 	- roughage 粗食品 == Fibrous indigestible material in vegetable foodstuffs which aids the passage of food and waste products through the gut.
 	- Chardonnay 夏多內，現在在全世界範圍內廣泛種植號稱葡萄皇后。可以釀造變化多端的白葡萄酒
 	- churn
@@ -299,6 +331,9 @@
 		> 翻騰 |(with reference to liquid) move or cause to move about vigorously.| her stomach was churning at the thought of the ordeal
 		> 隆起 |Break up the surface of (an area of ground)| the earth had been churned up where vehicles had passed through
 		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
+	- corkscrew (n)開瓶器, 螺旋狀的東西 (v)作螺旋式移動
+	- spork 叉勺
+
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
 	- obituary 訃告 == A notice of a death, especially in a newspaper
@@ -315,6 +350,11 @@
 	- midwife == A person, typically a woman, who is trained to assist women in childbirth.
 	* psychologist 心理學家 == An expert or specialist in psychology.
 	* psychiatrist /sʌɪˈkʌɪətrɪst/  精神科醫生/心理醫生 == A cal practitioner specializing in the diagnosis and treatment of mental illness.
+	- hygienist 衛生學者/保健專家 == A specialist in the promotion of clean conditions for the preservation of health.
+	- urologist 泌尿科醫生 == A doctor who specializes in the study or treatment of the function and disorders of the urinary system.
+	- pediatrician 小兒科醫師 == A medical practitioner specializing in children and their diseases.
+	- orthodontist 牙齒矯正醫師
+	- gynecologist 婦科醫生 == A physician or surgeon qualified to practice in gynecology.
 	- anesthesiologist 麻醉師
 	- plaque
 		> 飾版/匾 |An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.|
@@ -340,6 +380,16 @@
 	- manic depression 躁鬱症
 	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
 	- stillborn 死胎的 == (of an infant) born dead
+	- miscarriage
+		> 流產 |The spontaneous or unplanned expulsion of a fetus from the womb before it is able to survive independently.| his wife had a miscarriage
+		> 失敗 |An unsuccessful outcome of something planned.| the miscarriage of the project
+	- sirenomelia 美人魚綜合症，一種非常罕見的先天性缺陷，兩條腿融合在一起，看起來像「美人魚」
+	- ache /eɪk/ 
+		> 持續性的疼痛 |A continuous or prolonged dull pain in a part of one's body.| the ache in her head worsened
+		> 疼痛 |Suffer from a continuous dull pain.| my legs ached from the previous day's exercise
+		> 心痛 |An emotion experienced with painful or bittersweet intensity.| an ache in her heart
+		> 感到悲傷 |Feel intense sadness or compassion.| she sat still and silent, her heart aching
+		> 渴望 |Feel an intense desire for.| she ached for his touch
 	- forceps 鉗子
 	- testosterone blocker 睪固酮阻斷劑
 	- chloroform 氯仿
@@ -348,11 +398,11 @@
 	- pathologists 病理學家
 	- strabismus 斜視
 	- laceration == A deep cut or tear in skin or flesh.
-	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.
+	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.s
 	- tourniquet 止血帶 == A device for stopping the flow of blood through a vein or artery, typically by compressing a limb with a cord or tight bandage.
 	- sanitizer 洗手液
 	- first aid kit 急救箱
-	- hemostatic == stopping of a flow of blood.
+	- hemostatic == stopping of a flowss of blood.
 	- clot
 		> |A thick mass of coagulated liquid, especially blood, or of material stuck together.| 
 		> |Form or cause to form clots.| drugs that help blood to clot
@@ -364,6 +414,12 @@
 		> |The arrest of the development of a seed, fruit, or other organ.|
 		> |An object or undertaking that is unpleasant or badly made or carried out.|
 	- ultrasound 超音波
+	- acrania 無顱畸形
+	- scrawny 骨瘦如柴的/發育不良的 == (of a person or animal) unattractively thin and bony.
+	- atrophy
+		> 萎縮 |(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.|
+		> 衰退 |Gradually decline in effectiveness or vigour due to underuse or neglect| the imagination can atrophy from lack of use
+		> |The process of atrophying or state of having atrophied.| gastric atrophy
 	- postmortem
 		> |An examination of a dead body to determine the cause of death.|
 		> |An analysis or discussion of an event held soon after it has occurred, especially in order to determine why it was a failure.| an election postmortem on why the party lost
@@ -372,6 +428,7 @@
 		> 官能障礙 |Abnormality or impairment in the operation of a specified bodily organ or system.| 
 		> |Disruption of normal social relations.| 
 	- contraception 避孕
+	- colic 腹部絞痛 == Severe pain in the abdomen caused by wind or obstruction in the intestines and suffered especially by babies.
 	- visceral
 		> 內臟的 |Relating to the viscera.| the visceral nervous system
 		> |Relating to deep inward feelings rather than to the intellect.|
@@ -393,11 +450,8 @@
 	- oxygen cylinder 氧氣瓶
 	- psychiatric hospital 精神科醫院
 	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
-	- pediatrician 小兒科醫師 == A medical practitioner specializing in children and their diseases.
-	- orthodontist 牙齒矯正醫師
 	- Oral and maxillofacial surgery 口腔頜面外科，該外科主要治理頭部、頸部、臉部、下頜、口腔和頜面部位
 	- plastic surgery 整形手術
-	- urologist 泌尿科醫生 == A doctor who specializes in the study or treatment of the function and disorders of the urinary system.
 	- saline
 		> 含鹽的 |Containing or impregnated with salt.| 
 		> |containing sodium chloride and/or a salt or salts of magnesium or another alkali metal.|
@@ -419,8 +473,10 @@
 		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
 	- neonatal 新生的 == Relating to newborn children (or other mammals)
 	- abscess 膿瘡/潰瘍
-	- E. coli == Escherichia coli 大腸桿菌
 	- deceased (n)死者 (adj)死亡的
+	- Ebola 伊波拉出血熱，一種由伊波拉病毒引起，多出現於靈長動物身上的人畜共患傳染病。罹患此病的人會在2天至3週內陸續出現發燒、頭痛、肌肉疼痛、嘔吐、腹瀉以及出疹等症狀
+	- E. coli == Escherichia coli 大腸桿菌
+	- chlamydia 砂眼衣原體，一種「絕對寄生病原體」，披衣菌是一種在構造上介於細菌和病毒之間的微生物
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -489,6 +545,8 @@
 	- electronica 電子樂
 	- dry run 演習/排練 == a practice of a particular activity or performance
 		> The day before the trial, the lawyers tried a dry run of the closing arguments.
+	- Best Picture 奧斯卡金像獎最佳影片
+	- Best Animated Feature 奧斯卡金像獎最佳動畫片
 
 [Clothing/Fashion]
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
@@ -520,7 +578,7 @@
 		> 禮服/長袍 |A loose cloak indicating one's profession or status, worn by a lawyer, teacher, academic, or university student.|
 		> |The members of a university as distinct from the permanent residents of the university town.|
 	- parka 有頭套的毛皮外套
-	- trinket 廉價首飾 == A small ornament or item of jewellery that is of little value.
+	* trinket 小飾品/廉價首飾 == A small ornament or item of jewellery that is of little value.
 	- chinos 斜紋棉布褲/寬鬆的棉質褲子
 	- hose
 		> 水龍帶 |A flexible tube conveying water, used chiefly for watering plants and in firefighting.|
@@ -538,6 +596,16 @@
 	- mustache /məˈstɑːʃ/ 髭 == A strip of hair left to grow above the upper lip.
 	- hairnet 髮網
 	- stiletto (n)細高跟鞋, 短劍, 鑽孔錐
+	- diaper
+		> 尿布 |A piece of towelling or other absorbent material wrapped round a baby's bottom and between its legs to absorb and retain urine and faeces; a nappy.|
+		> |Put a nappy on (a baby).|
+		> 花紋織物 |A linen or cotton fabric woven in a repeating pattern of small diamonds.|
+		> |Decorate (a surface) with a repeating geometrical or floral pattern.|
+	- denim 牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
+	- onesie /ˈwʌnzi/   連身衣
+	- pacifier 奶嘴
+	- fedora 男士軟呢帽 == A low, soft felt hat with a curled brim and the crown creased lengthways.
+	- scruffy 邋遢的 == Shabby and untidy or dirty.
 
 [Art]
 	- the Mona Lisa
@@ -549,6 +617,7 @@
 	- priesthood == The office or position of a priest.
 	- deacon (n)助祭/執事
 	- clergy 牧師
+	- pastor (n)本堂牧師 (v)作為本堂牧師
 	- clergymen == A male priest, minister, or religious leader
 	- vigil
 		> 守夜 |A period of keeping awake during the time usually spent asleep, especially to keep watch or pray.| 
@@ -581,6 +650,7 @@
 	- theological 神學的 == Relating to the study of the nature of God and religious belief.
 	- liturgy 禮拜 == A form or formulary according to which public religious worship, especially Christian worship, is conducted.
 	- Judaism == Jews 猶太教
+	- Zoroastrianism 瑣羅亞斯德教，伊斯蘭教誕生之前中東和西亞最具影響力的宗教
 	- congregation
 		> 集會 |A group of people assembled for religious worship.|
 		> |A gathering or collection of people, animals, or things.|
@@ -651,8 +721,9 @@
 		>> | Any class or group of people who inherit exclusive privileges or are perceived as socially distinct.| 
 	- monarch 君主/統治者 == A sovereign head of state, especially a king, queen, or emperor
 	- regime
-		>> 政權 |A government, especially an authoritarian one.|
-		>> 社會制度 |A system or ordered way of doing things.| 
+		> 政府/政權 |A government, especially an authoritarian one.| ideological opponents of the regime
+		> 制度 |A system or ordered way of doing things.| the day is windy, the swathes should be high and narrow
+		> 養生法 |A coordinated programme for the promotion or restoration of health; a regimen.|
 	- vassal 諸侯/封臣 == A holder of land by feudal tenure on conditions of homage and allegiance.
 	- governor
 		>> 州長/總督/統治者 |An official appointed to govern a town or region.| 
@@ -708,7 +779,10 @@
 		> 主權獨立的 |(of a nation or its affairs) acting or done independently and without outside interference.|
 		> 極好的/極有效的 |Very good or effective.|
 	+ veto /ˈviːtəʊ/ (n)否決權/否決, 禁止/禁令 (v)行使否決權, 拒絕
-
+	- mayor
+		> 鎮長/區長 |(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.|
+		> 市長 |(in the US, Canada, and certain other countries) the head of a municipal corporation, |
+	
 [Structure]
 	- balcony 陽台
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
@@ -755,6 +829,31 @@
 		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
 		> |Heap up into a rounded pile.|
 		> 一堆 |A large pile or quantity of something.| a mound of dirty crockery
+	* reservoir
+		> 水庫/蓄水池 |A large natural or artificial lake used as a source of water supply.| the more water we use, the more land has to be flooded for reservoirs
+		> 儲藏/積累 |A supply or source of something.| Scotland has always had a fine reservoir of comic talent
+		> 儲液囊 |A population, tissue, etc. which is chronically infested with the causative agent of a disease and can act as a source of further infection.| there is a vast reservoir of herpes infection in the community
+	- crib
+		> 嬰兒床 |A child's bed with barred or latticed sides; a cot.|
+		> 槽 |A barred container or rack for animal fodder; a manger.|
+		> 作弊用的夾帶 |A translation of a text for use by students, especially in a surreptitious way.| an English crib of Caesar's Gallic Wars
+		> 抄襲 |A thing that has been plagiarized.|
+		> 住所/房子/公寓 |A person's apartment or house.| 
+	- gated development == gated community 門禁社區
+	- lookout
+		> 瞭望所/監視哨 |A place from which to keep watch or view the landscape.|
+		> 守望人 |A person stationed to keep watch for danger or trouble.|
+	- lawn
+		> 草坪 |An area of short, regularly mown grass in the garden of a house or park.| she was sitting in a deckchair on the lawn
+		> 細棉布 |A fine linen or cotton fabric used for making clothes.| 
+	- turf
+		> 草皮 |Grass and the surface layer of earth held together by its roots.| they walked across the springy turf
+		> 用草皮覆蓋 |Cover (a patch of ground) with turf.| a turfed lawn
+		> 泥炭/泥煤 |Peat used for fuel.| the smell of turf burning on a winter night
+		> 賽馬場 |Horse racing or racecourses generally.|
+		> 地盤 |An area or sphere of activity regarded as someone's personal territory.| he did not like poachers on his turf
+	- Stonehenge 巨石陣
+	
 [Sport]
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
@@ -787,6 +886,9 @@
 		> 雙車頭火車 |a train pulled by two locomotives coupled together.|
 		> 連賽 |a sporting event in which two games or contests are played in succession at the same venue, typically between the same teams or players.|
 	- the Black Sox scandal 黑襪醜聞，美國職業棒球大聯盟的一場打假球比賽
+	- Pilates 皮拉提斯，，它是一種是結合人體解剖學以及運動動力學的知識下，所發展出的身體療法。此項身體療法透過專門設計的地板動作以及專用器材，經由特殊的彈簧式設計，以強調心靈集中力、身體中立穩定性及肢體靈活性的身體療法。
+	- figure skating 花式滑冰
+	- Notre Dame 巴黎聖母院
 
 [Social]
 	- nonbinary == gender fluid == gender expansive 性別酷兒，為一群自我性別認同類型的統稱，用來指稱「不單純歸屬於」傳統上的男性或女性之性別特質之自我性別認同

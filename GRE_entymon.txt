@@ -513,7 +513,7 @@
     braz, brass 黃銅
         - brassy (adj)黃銅色的, 刺耳的, 打扮花裡胡哨的 = brash
         + brazen (adj)厚顏無恥的 = shameless = impudent = barefaced = insolent <|> barren
-        - brazier (n)碳火盆
+        - brazier (n)碳火盆s
         
     brace 兩臂 = two arms
         - brace (v)使穩固 (n)支架/支撐物, 牙箍, 一對(獵物) --> bracing (adj)(空氣或活動)令人振奮的/令人心曠神怡的 = brisk = invigorating, 支撐的
@@ -1903,7 +1903,7 @@
         + engender
         - engrave (v)雕刻, 銘記
         - engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
-        - engulf (v)吞噬 = overwhelm
+        - engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
         + enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
         - enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe, [法]禁止 <|> enjoy
         + enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
@@ -2060,7 +2060,7 @@
         * forbid -> forbad/forbade -> forbidden (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
         - forbidding (adj)冷淡的, 嚴峻的, （情勢）險惡的
         + forfeit (v)喪失/被罰沒收 (n)沒收/沒收物 (adj)被罰的/被沒收的
-        - forgo (v)克制 = abstain = refrain, 放棄/拋棄 = renounce = resign = relinquish
+        - forgo (v)拋棄/斷念 = renounce = resign = relinquish
         + forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
         + forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate, 背棄
 
@@ -3461,7 +3461,7 @@
         + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
         + literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
         * literate (adj)能讀寫的, 有文化修養的
-        + obliterate (v)塗掉/擦掉 = efface = erase = annul
+        + obliterate (v)塗掉/擦掉 = efface = erase = annul --> obliteration (n)消滅/刪除
         - preliterate (adj)文字出現以前的
 
     lib, libr 書 = book
@@ -3486,7 +3486,7 @@
 
     linqu, lip 離開 = leave
         - delinquent (adj)怠忽職守的, 到期未付的/拖欠的, 不良的 (n)不良青少年 --> delinquency (n)怠忽職守, 不良行為, 債務拖欠
-        + eclipse (v/n)使黯然失色, 日月蝕 (n)衰退/下降
+        + eclipse (v/n)使黯然失色, 蝕/遮蔽 
         - ellipsis (n)省略 --> ellipse (n)橢圓 --> elliptical (adj)橢圓的, 省略的, 晦澀的
         + relinquish (v)公開放棄 = renounce = surrender, 放棄 = forgo = resign = yield, 放手/讓出 = release = yield
 
@@ -3546,7 +3546,7 @@
         *** commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
         - committal (n)委任/託付, 承諾, 義務, 拘押, 犯罪
         + demit (v)辭職/退職
-        + demise (n)死亡 = decease = death, 終結 = termination, 財產轉讓
+        + demise (n)死亡 = decease = death, 終結 = termination, 財產讓/租賃
         + dismiss (v)解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
         + dismissal (n)解僱, 駁回
         - emissary (n)特使/密使 = legate, 間諜 (adj)密使的, 間諜的
@@ -3865,7 +3865,7 @@
         + militate (v)起作用/產生影響
         - military (adj)軍事的/軍隊的 (n)軍人/軍隊
         - militia (n)民兵/義勇軍
-        - militant (adj)好鬥的 = aggressive = assertive, 激進的
+        - militant (adj)好鬥的 = aggressive = assertive (n)好戰者/激進份子
 
 [N]
     neg, ne 反對/否認/不 = deny, refuse, no
@@ -4041,7 +4041,7 @@
             + obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
             + obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 <-- obey
             - obese (adj)極肥胖的 = corpulent <-- ob + ese 吃 = eat
-            + obfuscate (v)(故意)使模糊/使糊塗/使困惑 = bewilder = muddle = confuse <-- ob + fusc 黑暗 = dark + ate
+            + obfuscate (v)(故意)使模糊/使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n) 模糊/困惑<-- ob + fusc 黑暗 = dark + ate
             + obligate --> obligatory 
             - obligation (n)義務/責任, 恩惠/人情, 債務
             - obnoxious
@@ -4071,6 +4071,7 @@
         * outlaw (n)歹徒/罪犯, 被放逐者, 被查禁的組織 (v)宣布……為不合法, 使在法律上失效/禁止/限制 = proscribe, 將……放逐
         - outlet (n)出口/出路, 銷路/商店
         - outline (n)外形/輪廓, 提綱/概要
+    	- outlive (v)比...活得更久 
         - outmaneuver (v)以計謀勝過
         + outmoded (adj)不再流行的 = obsolete
         + outrage (n)暴行/惡行, 侮辱/冒犯, 憤慨 (v)使憤慨/激怒 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
@@ -4276,7 +4277,7 @@
         - preponderate
         - preposition
         - prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)討人喜歡的/有魅力的
-        - preposterous (adj)荒謬的 = absurb <-- pre + post 後 = after + erous 
+        * preposterous (adj)違反常理的/荒謬的 = absurb <-- pre + post 後 = after + erous 
         - prerequisite 
         - prerogative
         + presage (n)預感, 先見之明 = foresight = prescience (v)預視 = foreshadow = foretell, 預感/預測
@@ -4303,6 +4304,7 @@
         - promise
 
     pro 向前/先前 = forward, forth, before
+        - proactive (adj)主動的/先發制人的
         - proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
         - problem (n)問題 <-- pro + blem 丟 
         + problematic (adj)問題的/疑難的/不確定的 = doubtful <-- problem
@@ -4682,6 +4684,7 @@
         * discompose (v)使不安/使煩惱
         - disposal (n)清除/處理
         *** dispose (v)配置/布置, 處理/處置, 使傾向於, 決定 --> disposition (n)性格 = characteristic attitude = mettle = temper = humor, 傾向/意向 = inclination, 配置/布置, 處理/清除
+        * predispose (v)使有傾向 --> predisposition (n)傾向
         * disposable (adj)一次性的/用完即丟的, 可用的
         + exposition (n)闡述/說明, 展覽會/博覽會 --> expository (adj)說明的 = explanatory
         + expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
@@ -4838,7 +4841,7 @@
         - patriotism (n)愛國主義, 愛國者
         - patriotism (n)愛國心/愛國精神/愛國主義
         * patron (n)贊助者/資助者, 老主顧 --> patronage (n)資助/贊助 = auspices, 光顧/惠顧
-        + patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 光顧/惠顧, 資助/贊助
+        + patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
         - repatriate (v)遣返
 
     pli, plic, plex, ply 彎 = fold, plait
@@ -5045,7 +5048,7 @@
         - acquire (v)獲得 --> acquired (adj)後天習得的
         - acquisitive (adj)渴望得到的/貪婪的 = greedy = rapacious = covetous, 收購的(公司)
         - conquer (v)以武力征服 --> conquest (n)征服 = triumph, 戰利品
-        - exquisite (adj)精緻的, 完美的/卓越的, 劇烈的/強烈的
+        * exquisite (adj)精緻的, 強烈的, 敏銳的 (n)愛時髦的人
         - enquire == inquire
         * inquire (v)詢問/打聽 --> inquiry (n)打聽/質詢, 調查, 疑問/問題
         + inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
@@ -5310,7 +5313,7 @@
         - abrogate (v)廢除/廢止 = abolish
         + arrogate (v)霸佔/僭越/詐稱
         + arrogant (adj)傲慢的 = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
-        - interrogate (v)審問/盤問 = examine --> interrogative (adj)審問的/疑問的
+        - interrogate (v)質問 = examine, 獲取資料 --> interrogative (adj)審問的/疑問的
         - derogate (v)誹謗 = disparage = denigrate = slur = calumniate, 廢除 = abrogate = abolish
         - rogation (n)祈禱
         - prerogative (n)特權 = privilege
@@ -5520,7 +5523,7 @@
             - supervise
             + survey
             - surveyor
-            - surveillance
+            - surveil --> surveillance
 
     sol
         1. 習慣 = accustom
@@ -5919,7 +5922,7 @@
 
     scend, scens, scent 爬 = climb
         + condescend (v)懷著優越感地對待/輕慢, 屈尊做… = patronize = deign --> condescension (n)傲慢, 屈尊 
-        *** descend (v)下降/走下, 下傾, 傳下來/源自於/是...的後裔, 突然襲擊/拜訪 -->  descent (n)下降, 墮落, 侵襲, 血統/世系, 遺傳
+        *** descend (v)下降/走下, 下傾, 傳下來/源自於/是...的後裔, 突然襲擊/拜訪 -->  descent (n)下降/下坡/衰落, 突擊/突訪, 血統/世系, 遺傳
         - descendant (n)後代/後裔
         - ascend (v)上升/攀登 = climb, 晉升 = promote
         - ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
@@ -6491,6 +6494,7 @@
         - unobtrusive (adj)不引人注目的
         + unorthodox (adj)非正統的/異教的 = heterodox = maverick = unconventional
         - unpalatable (adj)令人討厭的/使人不快的 = unpleasant, 難吃的
+    	* unparalleled 無比的/無雙的 = exceptional
         - unprecedented (adj)前所未有的 <-- un + precedent + ed
         + unpremeditated (adj)預謀的
         - unprepossessing (adj)不吸引人的 = unattractive
@@ -6501,7 +6505,7 @@
         + unpropitious (adj)不吉利的/惡運的/不順遂的 = untoward <-- un + propitious
         - unprovoked (adj)未受挑釁的/無緣無故的(生氣等)
         ++ unqualified (adj)無資格的, 無限制的/絕對的 = sheer = absolute = complete
-        * unravel (v)解開/拆散, 揭開/弄清, 破壞
+        * unravel (v)解開/拆開, 揭開/闡明/解開, 破壞
         - unregenerate (adj)不知悔改的
         - unregulated (adj)未受管理的/未受約束的
         * unrelenting (adj)堅定的/不退讓的
@@ -6797,7 +6801,7 @@
         - provisory (adj)有附帶條件的 <-- provide
         + survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰
         - surveyor (n)測量員
-        - surveillance (n)監控/監視 = scrutiny
+        - surveil (v)監控 --> surveillance (n)監控/監視 = scrutiny
 
     vit 生命 = life
         + vital (adj)極其重要的 = pivotal = crucial, 生命的, 維持生命所必需的, 充滿活力的 = animated, 致命的 = deadly <|> vitiate
@@ -6916,7 +6920,7 @@
         - vibrate (v)顫動/震動 = jar --> vibration (n)震動/顫動/共鳴
 
     vicin 鄰近 = near
-        - vicinity (n)附近/接近 = neighborhood = proximity
+        - vicinity (n)附近/附近/鄰近地區 = neighborhood = proximity
         - vicinage (n)近處/鄰近, 鄰居關係
 
 [W]

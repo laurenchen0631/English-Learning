@@ -23,6 +23,7 @@
 
 [Law/Theory]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
+	- Doppler effect == Doppler shift 都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
@@ -33,6 +34,7 @@
 		> 培養液 |A liquid medium containing proteins and other nutrients for the culture of bacteria.| broth cultures of intestinal tissue
 	- vial 小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
 	- satellite /ˈsatəlʌɪt/ 衛星
+	- transponder 轉發器 == A device for receiving a radio signal and automatically transmitting a different signal.
 
 [Chemical]
 	- carbon dioxide
@@ -70,6 +72,7 @@
 		> 鎳 |A silvery-white metal, the chemical element of atomic number 28.| 
 		> NA 五分錢 |A five-cent coin; five cents.| we will see gasoline prices go up about a nickel
 	- lithium 鋰
+	- chlorine 氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
@@ -148,10 +151,19 @@
 		> 腰身/周長 |The measurement around the middle of something, especially a person's waist.| idle men of great girth
 		> 肚子 |A person's waist or stomach, especially when large.| he tied the knotted towels around his girth
 		> 肚帶 |A band attached to a saddle and fastened around a horse's belly to keep the saddle in place.|
+	+ belly
+		> 腹部/肚子 |The front part of the human trunk below the ribs, containing the stomach and bowels.| his fat belly stuck out over his trousers
+		> 腫起/突起 |Swell or cause to swell.| as she leaned forward her pullover bellied out
+		> 胃/食慾 |The stomach, especially as representing the body's need for food.| they'll fight all the better on empty bellies
+		> 下側 |The underside of a bird or other animal.| grasses were said to have been tall enough to brush the bellies of horses
+		> 豬肚 |A pig's belly as food, especially as a traded commodity.|
 	- soma
 		> 體細胞 |The parts of an organism other than the reproductive cells.| 
 		> 軀體 |The body as distinct from the soul, mind, or psyche.|
 		> |An intoxicating drink prepared from a plant and used in Vedic ritual, believed to be the drink of the gods.|
+	- gland
+		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
+		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
 	- atrium
 		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
 		> |A central hall in a modern building, typically rising through several stories and having a glazed roof.|
@@ -160,6 +172,8 @@
 	+ sperm (n)精液 = semen, 精子 = spermatozoon
 	+ egg (n)卵子 = ovum, 蛋, 人/傢伙 (v)煽動
 	- sex cells 性細胞 == The sperm and egg of living things
+	- womb 子宮 == uterus
+	- placental 胎盤的 == Relating to a placenta.
 	
 [Environment]
 	- greenhouse effect
@@ -169,6 +183,7 @@
 	- smog /ˈsmäg/, /smɒɡ/ 霧霾  == Fog or haze combined with smoke and other atmospheric pollutants.
 	- thermal inversion 逆溫現象
 	* glaciation 冰河作用
+	- El Niño 聖嬰現象
 
 [Universe]
 	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth

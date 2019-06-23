@@ -61,6 +61,9 @@
 	- a sliver of == a very small, thin piece of something, usually broken off something larger
 		> a sliver of glass
 		> Just a sliver of cake for me, please - I shouldn't really be having any.
+	- a (long) way off 很長一段路
+		> |a long time in the future| Christmas is still a way off.
+		> |a long distance away| It’s still quite a way off to Glasgow.
 	- the (adj) amount of
 	- amounts of 
 	- account for
@@ -292,7 +295,8 @@
 		> Buildings are left to decay at the mercy of vandals and the weather
 			>> vandal
 		> An institution concerned about its reputation is at the mercy of the actions of its members, because the misdeeds of individuals are often used to discredit the institutions of which they are a part.
-
+	- at no point == Never
+		> t no point did I feel unprepared or unable to be a father.
 	- attribute A to B
 		1. 把A歸因於B/把A歸咎於B = ascribe A to B
 			> Women tend to attribute their success to external causes such as luck
@@ -501,6 +505,11 @@
 		> At that price, 10 Uber shareholders would have come out of the IPO with stock holdings worth $1 billion or more, while another 15 have stakes worth at least $1 million.
 	- come down to == (of a situation or outcome) be dependent on
 		> How the rest of Uber’s biggest shareholders fare will come down to what they paid relative to what the public markets think Uber is worth.
+	- come to terms with 逐漸接受 == to gradually accept a sad situation, often the death of someone you love
+		> I think he's still coming to terms with the death of his wife.
+		> I had not come to terms with who I was.
+	- come to light 眾所皆知 == to become known publicly
+		> Fresh evidence has recently come to light that suggests that he didn't
 	- can hardly help doing sth 不得不/情不自禁 == cannot help doing sth == be unable to prevent yourself from doing sth.
 		> I could hardly help teasing him a little.
 		> As a member of the middle class, Gaskell could hardly help approaching working-class life as an outside observer and a reporter, and the reader of the novel is always conscious of this fact.
@@ -583,6 +592,8 @@
 		> “A royal person, historically, is not a private individual, but public property,” as Worsley puts it, “so any idea of privacy goes out of the window.”
 	- go out of one's way == to try very hard to do something, especially for someone else
 		> That sign was a tradition. People went out of their way to see it.
+	- go over sb's head 對...太過難懂 == to be too difficult for someone to understand
+		> All this talk about philosophy went right over my head.
 	- give rise to == to cause something
 		> International support has given rise to a new optimism in the company.
 [H]
@@ -668,6 +679,10 @@
 	- on the hook
 		> 入迷的 |overly infatuated with another person.|
 		> 對...有責任的/欠錢的 |to be responsible for something, owe money| When the Patriots did not cover the point spread in the Super Bowl, Dave was on the hook for $3000.
+	- on top of sth 除..之外 == in addition to something, especially something unpleasant
+		> We missed our flight, and on top of that we had to wait seven hours for the next one.
+	- on the table 被提交討論中/正式提交考慮 == ​ If a plan or suggestion has been put/laid on the table, it has been made available for people to hear, read, or discuss.
+		> it's so exceptional at editing DNA that "de-extinction," the process of bringing extinct species back from the dead, is on the table.
 	+ one another == each other.
 		> the children used to tease one another
 	- of sorts == used to describe something that is not a typical or good example of something

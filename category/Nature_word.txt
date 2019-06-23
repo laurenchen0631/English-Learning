@@ -17,19 +17,22 @@
 	- androgynous 雌雄同體的
 	- chromosome 染色體
 	- neuron 神經元  == A specialized cell transmitting nerve impulses; a nerve cell. 
-	- botanist /ˈbɒt(ə)nɪst/ 植物學家d == An expert in or student of the scientific study of plants.
-
-[Organ]
-	- gland
-		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
-		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
+	- botanist /ˈbɒt(ə)nɪst/ 植物學家 == An expert in or student of the scientific study of plants.
+	- geostationary 與地球同步旋轉的
+	- genome 基因組
+	- summer solstice 夏至
+	- solstice 至點
+	- Equator 赤道
+	- Tropic of Cancer 北回歸線
+	- Tropic of Capricorn 南回歸線
+	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
 
 [Animal]
 	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
 	- gosling /ˈɡɒzlɪŋ/ == a young goose
 	- alligator == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
 	- trapper == A person who traps wild animals, especially for their fur.
-	- beaver 海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.
+	* beaver 河狸/海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.
 	- bison 北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
 	- elk 駝鹿/麋鹿/美洲赤鹿 
 	* mule /mjuːl/ (n)騾子, 固執的人
@@ -45,13 +48,27 @@
 		> |Give birth to cubs.| both share the same earth during the first ten days after cubbing
 		> |Hunt fox cubs| members of the Grafton Hunt were out cubbing
 	- bumblebee 雄蜂/大黃蜂
+	- termite 白蟻
+	- tortoise 陸龜
+	- mammoth /ˈmaməθ/ 長毛象/猛獁象
+	- woolly mammoth 真猛瑪象
+	- passenger pigeon 旅鴿
+	- Tasmanian tiger 袋狼
+	- pachyderm 厚皮類動物
+	- tusk 長牙/獠牙 == A long pointed tooth, especially one which protrudes from the closed mouth, as in the elephant, walrus, or wild boar.
+	- velociraptor 伶盜龍屬
+	- marsupial 有袋類
+	- thylacine 袋狼
+	- kangaroo 袋鼠
+	- koala 無尾熊
+	- numbat 袋食蟻獸
+
+[Ocean]
+	- sardine 沙丁魚 == A young pilchard or other young or small herring-like fish.
 	- orca 殺人鯨 == killer whale
 	- bottlenose dolphin 寬吻海豚屬
 	- beluga whale 白鯨
 	- cetacean (n)鯨類動物 (adj)鯨類的
-	- termite 白蟻
-	- tortoise 陸龜
-	- mammoth /ˈmaməθ/ 長毛象/猛獁象
 
 [Plant]
 	* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -82,14 +99,16 @@
 	- lavender (n)薰衣草, 淡紫色 (v)用薰衣草燻
 	- bachelor buttons 矢車菊
 	- calyx 花萼
-
-[Ocean]
-	- sardine 沙丁魚 == A young pilchard or other young or small herring-like fish.
+	- latex 乳膠 == A milky fluid found in many plants, such as poppies and spurges, which exudes when the plant is cut and coagulates on exposure to the air. The latex of the rubber tree is the chief source of natural rubber.
 
 [Landscape]
 	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
 	- geyser /ˈɡʌɪzə/ == A hot spring in which water intermittently boils, sending a tall column of water
 	- hot springs
+	- steppe 大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
+	- permafrost 永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
+	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
+	- tundra 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
 
 [Ore]
 	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
@@ -103,3 +122,6 @@
 		> 金礦 |A small lump of gold or other precious metal found ready-formed in the earth.|
 		> 塊 |nuggets of meat| nuggets of meat
 		> 有價值的東西或想法 |A valuable idea or fact.|
+	- mother lode == motherlode
+		> 主礦脈 |A principal vein of an ore or mineral.|
+		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
