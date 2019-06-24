@@ -32,7 +32,7 @@
             + affluent
             - affectation
             - affidavit
-            - afford (v)買得起, 有時間做, (東西)提供/給予(人)
+            + afford (v)買得起, 有時間做, (東西)提供/給予(人)
             - agenda (n)議程 = schedule = calendar
             - agglomerate
             + aggrandize
@@ -110,7 +110,7 @@
             + abscission
             + abscond
             + absolve
-            - absorb
+            - absorb --> absorption
 
     ana
         1. 上 = up, upwards
@@ -356,6 +356,7 @@
     arthr, artic 連結/關節/接合 = joint
         - /ɑːˈθrʌɪtɪs/ arthritis (n)關節炎
         ++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
+        + inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的, 無關節的
         ** articulation (n)發音 = pronounce, 連結, 關節
         * artery (n)動脈 = aorta, 主要幹道 --> arterial (adj)
 
@@ -657,7 +658,7 @@
             - corrupt
             - combustible (adj)可燃的/易燃的 = flammable, 易激動的 = aroused <-- com + bust 燃燒 = burn + ible
             - commemorate
-            +++ /kəˈmɛns/ commence (v)開始/著手 = begin = start --> commencement (n)開始, 畢業典禮 <|> menace <-- com + mence 做/開始 = begin
+            +++ /kəˈmɛns/ commence (v)開始/著手 = begin = start --> commencement (n)開始, 畢業典禮 <|> menace <|> commerce <-- com + mence 做/開始 = begin
             + commend
             + complacent --> complacency
             + /kəmˈpleɪzənt/ complaisant (adj)彬彬有禮的/殷勤的 = obliging --> complaisance (n)殷勤/彬彬有禮 = chivalry <-- com + plais 取悅 = please + ant
@@ -907,7 +908,7 @@
         + concrete (adj)具體的/確切的 = particular (n)混凝土 <--> conceptual
         - crescendo (n)漸強, 高潮
         - crescent (n)新月/弦月
-        - increment (n)增值/增加
+        - increment (n)增值/增加 --> increase (v)
         - recruit (n)新兵, 新成員 = newcomer (v)徵募
 
     cre, cern 分開/分辨 = separate, distinguish <--> crue
@@ -918,8 +919,9 @@
         +++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
         * excrete (v)排泄/分泌
-        - /ˈsiːkrɪt/ secret (adj)祕密的 (n)秘密 <|> /sɪˈkriːt/ secrete
+        * secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣 <|> /sɪˈkriːt/ secrete
         - /ˈsiːkrɪsi/ secrecy (n)保密
+        * secretary (n)秘書
         ++ /sɪˈkriːt/ secrete (v)隱藏/藏匿 = conceal = hide, 分泌 --> secretion (n)分泌/分泌液 <|> secret
         - secretive (adj)隱隱藏藏的, 能分泌的/促進分泌的
         - incretion (n)內分泌 <-- in + (se)certion
@@ -1176,8 +1178,8 @@
     cogn 知道 = learn, know == nois == gnost
         + /ˈkɒɡnɪz(ə)nt/ cognizant (adj)認知到的/察覺到的 = informed = conscious = aware
         + cognizance (n)認知/察識 = perception = awareness = acknowledgement, 審判管轄權
-        - derecognize (v)撤銷對…的承認
         - incognizant (adj)不認識的/沒有察覺到的的
+        - derecognize (v)撤銷對…的承認
         *** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
 
     centr 中心 = center
@@ -1199,7 +1201,7 @@
         + conclude (v)結束/作結, 推斷出/推論/斷定/作出 = judge --> conclusive (adj)結論性的, 無可置疑的/確實的/決定性的 = convincing
         + conclusion (n)結尾/結束, 結論/結果 = result = outcome = settlement = arrangement, 推論 = deduction = inference
         + exclude (v)把…排斥在外, 排除/不考慮, 驅除 = expel = eject = thrust out
-        + exclusive (adj)除外的, 唯一的, 獨佔的/專用的, 獨有的
+        + exclusive (adj)除外的, 唯一的, 獨佔的/專用的/獨有的
         - include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
         + /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
         + preclude (v)排除/防止 = prevent = avert
@@ -1208,10 +1210,10 @@
         * seclusion (n)隔絕/孤立/隱居 = solitude, 隱蔽的地方/僻靜之地
 
     cuss 震動/打擊 = shake, strike
-        - /kənˈkʌs/ concuss (v)使腦震盪, 使猛烈震盪 --> concussion (n)腦震盪, 強烈震動
-        - percuss (v)敲 --> percussion (n)撞擊, 打擊樂器/敲擊樂器 --> percussionist (n)打擊樂器演奏者
-        - discuss (v)談論 --> discussion (n)討論/議論
         - cuss (n/v)詛咒/咒罵/罵人 (n)古怪的傢伙
+        - /kənˈkʌs/ concuss (v)使腦震盪, 使猛烈震盪 --> concussion (n)腦震盪, 強烈震動
+        - discuss (v)談論 --> discussion (n)討論/議論
+        - percuss (v)敲 --> percussion (n)撞擊, 打擊樂器/敲擊樂器 --> percussionist (n)打擊樂器演奏者
         *** repercussion (n)反響/反衝
 
     copia 豐富 = plenty
@@ -1302,7 +1304,7 @@
             + decay (v)腐蝕/腐朽/腐爛, 使衰弱/使衰敗 = wither = blight (n)腐蝕, 衰敗/衰弱 <-- de + cay 掉落 = fall
             + decadence (n)衰微, 墮落/道德腐敗 = turpitude = depravity
             * decadent (adj)墮落的/頹廢的, 衰落的
-            * decease (n)死亡/逝世 = death = demise
+            * decease (n)死亡/逝世 = death = demise --> deceased (n)死者
             - deceit
             + declaim
             + decline
@@ -1364,7 +1366,7 @@
             - deflate
             * deficiency
             - defraud
-            + defray (v)支付
+            + defray (v)支付 <-- de + fray 花費 = cost, expense
             - defunct
             - defuse (v)拆除引信, 平息/緩和
             - dehydrate
@@ -1590,7 +1592,7 @@
     dole, dol 悲傷 = sorrow
         - condolence (n)弔唁/慰問
         - doleful (adj)悲傷的 = mournful
-        - dolorous (adj)憂傷的
+        + dolorous (adj)憂傷的
         +++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) = sloth <|> insolent
 
     dom, domi, domin
@@ -1607,12 +1609,12 @@
 
     dote, dose, don 給予 = give
         + antidote (n)緩解辦法/對抗手段, 解毒劑
-        - overdose (n/v)用藥過量
         + condone (v)原諒/寬恕 = pardon = excuse, (不請願)認可/贊同
         - donate (v)捐/捐獻(錢、血或器官等)
         - donor (n)捐血者/器官捐贈者/捐助者 = benefactor
-        * pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
         - dose (n)劑量, 一劑
+        - overdose (n/v)用藥過量
+        * pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
 
     dorm 睡 = sleep
         + dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
@@ -1873,7 +1875,7 @@
         * embody (v)體現/具體地表顯, 包括/包含
         - embolden (v)壯膽/使有勇氣 <-- em + bold + en
         - emboss
-        * embitter (v)使難受/使忿恨 == Make (someone) feel bitter or resentful.
+        * embitter (v)使難受/使忿恨 
         + embrace
         + empathy
         - emphasis --> emphatic
@@ -1937,7 +1939,7 @@
         + eugenics
         + euphemism (n)婉轉說法
         + euphony --> euphonious 
-        + euphoria
+        + euphoria --> euphoric
         + /ˌjuːθəˈneɪzɪə/ euthanasia (n)安樂死 <-- eu + thanas 死亡 = death + ia
 
     extra, extro, exter 外面/超過
@@ -1985,27 +1987,27 @@
 
     err 錯誤 = errant
         + aberrant (adj)越軌的, 異常的 = exceptional = abnormal ＝ anomalous --> aberrance (n)越軌 --> aberration (n)失常
-        + errant (adj)漂泊的/遊歷的, 走入歧途的/犯錯的/行爲不當的 = mistaken = erring = straying
-        + erratic (adj)古怪的 = antic = eccentric = queer, 反覆無常的/無計劃的/不規則的 = whimsical
+        + errant (adj)走入歧途的/犯錯的/行爲不當的 = mistaken = erring = straying
+        + erratic (adj)反覆無常的/無計劃的/不規則的 = whimsical
         - err (v)犯錯誤/出錯, 作惡/犯罪
         - error (n)錯誤
         + erroneous (adj)錯誤的/不正確的 = mistaken = incorrect = wrong = false
 
     ept 能力 = apt
         - adept (adj)熟練的
-        ++ inept (adj)無能的/笨拙的 = inefficient = maladroit = awkward = clumsy, 不適當的 = inappropriate = unsuitable, 荒謬的/愚蠢的 = absurd = foolish
-        + ineptitude (n)無能/笨拙/愚笨, 不合適/不稱職
+        + inept (adj)無能的/笨拙的 = inefficient = maladroit = awkward = clumsy
+        + ineptitude (n)無能/笨拙/愚笨
 
     equ, equi 平等/相等 = event, plain, just
         * adequate (adj)足夠的 = enough = sufficient
-        + egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 <-- egal [法]
+        + egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
         + equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
         - equation (n)等式
         - equity (n)公平/公正, 股票/股本
         - equilibrium
         + equanimity
         + equipoise (n)均衡/平衡 = equilibrium = poise (v)平衡 = balance <-- equi + poise
-        + equitable (adj)公平的/合理的 = fair = reasonable = evenhanded
+        + equitable (adj)公平的 = fair  = evenhanded
         - equate (v)等同, 使相等
         - equator (n)赤道
         - equivalent
@@ -2014,13 +2016,13 @@
 
     esthete 感覺
         + aesthete (n)審美家 --> /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
-        - /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑x
+        - /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑
 
     ev 時代 = age
         - coeval (adj)同年代的/同時期的 (n)同時代的人或物
         - medieval (adj)中世紀的
         - longevity (n)長壽, 長期受歡迎
-        - primeval (adj)原始的
+        - /prʌɪˈmiːvəl/ primeval (adj)原始的
 
     emi, emia 血 = blood == hemo
         - anemia (n)貧血
@@ -2029,8 +2031,8 @@
 
     ess 存在 = be
         - essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
-        * essential (adj)本質的, 必要的/不可缺的, 提煉的/精華的 (n)要素/要點, 本質
-        + quintessential (adj)典型的
+        * essential (adj)本質的, 必要的/不可缺的 (n)要素/要點/必需品, 本質
+        + quintessential (adj)典型的 = typical
 
     ethno, ethn 種族/文化 = race, culture
         - ethnic (adj)種族的/民族的 人種學的
@@ -2040,10 +2042,10 @@
         - ethnomusicology (n)民間音樂
 
     empt 買/獲取/拿 = buy, obtain, take
-        * exempt (v)免除/豁免 = immune (adj)被免除的
+        * exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
         + peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = peremptory = dictatorial = overbearing
-        +++ preempt (v)阻止 = forestall, 取代 = supersede, 以先買權獲得 --> preemptive (adj)先發制人的
-        + prompt (adj)敏捷的 = quick = alert, 及時的/準時的 = punctual (v)促使/激勵/激起 = inspire = induce = incite, 提示
+        +++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
+        +++ prompt (adj)立即的/準時的 = punctual (v) 激起/引起, 提示, 鼓勵/激勵 = encourage = inspire = induce = incite
 
     {esce}, {escent} 開始...的
         - convalesce
@@ -2058,8 +2060,8 @@
     for 拒絕/禁止/阻止 = reject, prohibit
         + forbear (v)克制/忍耐 = refrain = abstain from = desist from --> forbearance (n)自制, 忍耐 = patience <-- for + bear
         * forbid -> forbad/forbade -> forbidden (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
-        - forbidding (adj)冷淡的, 嚴峻的, （情勢）險惡的
-        + forfeit (v)喪失/被罰沒收 (n)沒收/沒收物 (adj)被罰的/被沒收的
+        - forbidding (adj)嚴峻的/險惡的/令人討厭的
+        + forfeit (v)喪失/被罰沒收 (n)罰款/處罰 (adj)被罰的/被沒收的
         - forgo (v)拋棄/斷念 = renounce = resign = relinquish
         + forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
         + forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate, 背棄
@@ -2080,6 +2082,7 @@
         * foretell (v)預言/預示 = presage
         - forward (adj)過激的/激進的 = extreme, 莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
         * forewarning (v)預先警告/事先告知
+        + forthcoming (adj)即將到來的, 現有的/隨時可得的, 願意透露的
 
     fora 孔 = bore
         - perforate (v)使穿孔/在…上開孔
@@ -2610,7 +2613,7 @@
         - horripilate (v)起雞皮疙瘩 --> horripilate (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
     hori, horiz 邊界 = bound, limit
-        * aphorism (n)格言 = adage = maxim --> /afəˈrɪstɪk/ aphoristic (adj)格言似的/格言的
+        + aphorism (n)格言 = adage = maxim --> /afəˈrɪstɪk/ aphoristic (adj)格言似的/格言的
         - horizon (n)地平線
 
     here, her, hes 黏住 = stick, cling
@@ -2902,7 +2905,7 @@
             - illuminati
             + illusion --> illusive --> illusory
             - illustrate
-            - imbibe (v)喝 = drink, 吸入 = absorb <-- im + bibe 喝 = drink
+            + /ɪmˈbʌɪb/ imbibe (v)喝 = drink, 吸收(知識) = absorb <-- im + bibe 喝 = drink
             + /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
             - immanent (adj)內在的, 普遍存在的 <-- im + man 待 = stay = ent
             - immerse, immerge (v)浸入, 沈浸於 = engross
@@ -3811,7 +3814,7 @@
         + transmute (v)變化/使變形
 
     merc 交易 = buy, deal
-        * commerce (n)商業/商務/貿易/交易 
+        * commerce (n)商業/商務/貿易/交易 <|> commence
         - mercantile (adj)貿易的/商業的
         - merchant (n)商人/零售商 (adj)商人的/商業的
         + mercenary (adj)唯利是圖的 = venal (n)雇傭兵
@@ -4407,7 +4410,7 @@
             + pertain --> pertinent
             - pertainacious
             + perturb
-            - peruse (v)細讀/精讀
+            + /pəˈruːz/ peruse (v)細讀/精讀
         
         2. 穿過 = through, throughout
             - perambulate
@@ -5567,7 +5570,8 @@
         + solvent (adj)有償付能力的, 有溶解力的 --> solvency (n)償債能力, 溶解力
 
     sorb 吸收 = swallow, suck in
-        - absorb (v)吸收(衝擊/液體), 理解 = assimilate, 吸引...的注意, (公司)合併 --> absorbed (adj) 專注的
+        - absorb (v)吸收(衝擊/液體), 理解 = assimilate, 吸引...的注意, (公司)合併 --> absorbed (adj)專注的
+        - absorption (n)吸收, 全神貫注
 
     sept 細菌/腐爛的 = rotted
         - antiseptic (adj)消過毒的/無菌的 = aseptic (n)防腐劑,  殺菌劑/消毒劑
