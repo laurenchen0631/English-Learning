@@ -1103,13 +1103,13 @@
         * disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
     
     chival, cheval, caval 馬 = horse
-        - /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand
+        ++ /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand
         - cavalry (n)騎兵, 裝甲部隊
         - /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
         + /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
     
     chol, chole 膽汁 = bile
-        - choler (n)憤怒 = anger = wrath , 膽汁 = bile-
+        - choler (n)憤怒 = anger = wrath , 膽汁 = bile
         - /ˈkɒlərɪk/ choleric (adj)易怒的/暴躁的 = cantankerous
         - /ˌkɒlɪsɪsˈtʌɪtɪs/ cholecystitis (n)膽囊炎
         - acholia (n)膽汁缺乏症
@@ -1146,7 +1146,7 @@
     
     cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
         - /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
-        - /ˈsʌɪkləʊn/ cyclone (n)氣旋/颶風 = tornado = hurricane
+        - /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane --> cyclonic (adj)氣旋的
         - /ˈsɪkləmeɪt/ cyclamate (n)糖精
         - /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, 廣泛的
         - encyclopedia, encyclopaedia (n)百科全書/大全 <-- en + cyclo + pedo 兒童 = child + ia
@@ -1415,7 +1415,7 @@
             - disfigure (v)毀容 = mar = deform = deface
             - disfranchise (v)剝奪選舉權
             * disuse (n)不用/廢棄 = desuetude
-            * dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱
+            * dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱 --> dishonorable (adj)可恥的/卑鄙的 = ignoble
             - disgorge
             *** disgrace (v)使丟臉/使蒙羞 = dishonor (n)恥辱/丟臉 = dishonor = opprobrium = stigma
             - disaffect (v)使不滿/使不忠
@@ -1619,7 +1619,7 @@
     dorm 睡 = sleep
         + dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
         * dormancy (n)休眠狀態/冬眠 = torpor
-        - dormitory (n)宿舍
+        - dormitory (n)宿舍 = dorm room
         - dormouse (n)榛睡鼠
 
     dors, dos 背 = back
@@ -1923,6 +1923,7 @@
         + entail
         * entangle (v)捲入/連累 = mire = involve, 使纏住
         + enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
+        * entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
         + entertain
         - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
         * entrap (v)使投羅網, 欺騙
@@ -1999,7 +2000,7 @@
         + ineptitude (n)無能/笨拙/愚笨
 
     equ, equi 平等/相等 = event, plain, just
-        * adequate (adj)足夠的 = enough = sufficient
+        *** adequate (adj)足夠的 = enough = sufficient
         + egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
         + equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
         - equation (n)等式
@@ -2045,7 +2046,7 @@
         * exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
         + peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = peremptory = dictatorial = overbearing
         +++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
-        +++ prompt (adj)立即的/準時的 = punctual (v) 激起/引起, 提示, 鼓勵/激勵 = encourage = inspire = induce = incite
+        +++ prompt (adj)立即的/準時的 = punctual (v)激起/引起, 提示, 鼓勵/激勵 = encourage = inspire = induce = incite
 
     {esce}, {escent} 開始...的
         - convalesce
@@ -2068,19 +2069,19 @@
 
     fore 前面 = before, front, superior
         - forebode (v)預示/預感 = foretell = predict <-- fore + bode
-        - forecast (v)預報/預測 (n)預測
+        - forecast (v/n)預報/預測
         - forefront (n)最顯要的位置/最重要的地位 = foreground
         + foreground (n)前佈景, 最顯要的位置/最重要的地位 = forefront (v)強調 = emphasize
         - foreknowledge (n)預知
-        * foremost (adj)最前的/最先的, 最重要的 = cardinal (adv)在最前/首先
+        ** foremost (adj)最前的/最先的, 最重要的 = cardinal (adv)在最前/首先
         - foreordain (v)注定/預先決定 = predestine = ordain
         * forerunner (n)預兆/前兆 = herald, 先驅 = herald
-        + foresee (v)預見/預知 --> foreseeable (adj)可預見的
+        + foresee (v)預見/預知 = predict --> foreseeable (adj)可預見的
         * foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = bode
         - foresight (n)遠見/深謀遠力 = prescience = presage
         + forestall
         * foretell (v)預言/預示 = presage
-        - forward (adj)過激的/激進的 = extreme, 莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
+        - forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
         * forewarning (v)預先警告/事先告知
         + forthcoming (adj)即將到來的, 現有的/隨時可得的, 願意透露的
 
@@ -2090,21 +2091,21 @@
         - biforate (adj)雙孔的
 
     form 形狀
-        + conform (v)順從/遵從 = comply = hew, 使相似/使一致 --> conformity (n)遵從/遵守, 符合/符合度
+        + conform (v)順從/遵從 = comply = hew, 使相似/使一致 = agree --> conformity (n)遵從/遵守, 符合/符合度
         - formal (adj)正式的, 拘謹的/刻板的, 整齊的, 形式上的
         - formality (n)禮節/俗套, 拘泥形式/拘謹, 正式
         + formation (n)形成/組成, 構成物/結構, 編隊/隊形
         - formula (n)分子式, 公式, 客套話, 慣用語
-        + formulaic (adj)公式化的, 客套的/俗套的
-        + formulate (v)系統地表達, 發明/開發 = devise = develope
+        + formulaic (adj)公式化的/客套的/俗套的
+        + formulate (v)系統地表達, 規劃/開發 = devise = develope
         - inform (v)通知/告知 --> informed (adj)見多識廣的, 消息靈通的
-        + transform (v)使改變/改革/改善 --> transformation (n)變化/轉變/變形/變質
+        + transform (v)使改變 --> transformation (n)變化/轉變/變形/變質
         - uniform (n)制服 (adj)相同的/一致的 = consistent
 
     fort
         1. 強 = strong
-            - forte (n)特長/專長 (adj)強音的
-            - fortify (v)加強防衛
+            - /ˈfɔːteɪ/ forte (n)特長/專長, 強音記號 (adj)強音的/響的 (adv)響地
+            - fortify (v)加強防衛, 增強/加強(肉體或精神), 增加酒精含量/增加食品的營養價值
             * fortitude (n)堅忍/剛毅
 
         2. 機運 = chance, lucky
@@ -2116,21 +2117,21 @@
         - deface (v)損壞外觀 = mar = destory = deform = disfigure
         - efface (v)抹去/消除
         + self-effacing (adj)自我謙避的/不喜歡談論自己的
-        - boldfaced (adj)公然的/厚顏無恥的 = brazen = blatant
-        - facade (n)建築物的正面, 虛偽的外表
+        - boldfaced (adj)公然的/厚顏無恥的 = brazen = flagrant, 粗體印刷的
+        - facade (n)建築物的正面, (虛假的)外表
         + facet (n)琢面/小平面, 問題的一個方面
-        + /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing
+        + /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant <|> fastidious
 
     fab, fable 說 = speak == dict == cent
         + affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = pleasant = genial = personable --> affability (n)
-        - ineffable (adj)無法表達的
+        - ineffable (adj)無法表達的/說不出的/難以言喻吧
         - fabulous, fab (adj)驚人的, 極好的, 神話般的 --> fabulously (adv)極度 = extremely
 
     fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
-        + affected (adj)做作的/不自然的/假裝的 = pretentious
+        + affected (adj)受影響的, 做作的/不自然的/假裝的 = pretentious
         - affectation (n)做作/假裝
-        - affecting (adj)感人的
-        - affection (n)情感
+        - affecting (adj)感人的 = moving
+        - affection (n)鍾愛/愛, 疾病/感染, 情緒
         - artifact
         - artifice
         + benefactor
@@ -2138,9 +2139,9 @@
         + beneficial
         - beneficiary
         - confect (v)調製 = concoct --> confection (n)甜食/糖果
-        + counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine 
+        + counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
         + defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
-        + defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v) 退出/叛逃 = desert
+        + defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
         * deficit (n)不足/缺乏 = deficiency, 赤字/虧損 --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
         * deficiency (n)缺乏/缺少, 缺陷 = incompleteness
         * effect (n)效果, 影響, 意義 (v)造成/產生, 實現/達到
@@ -4452,7 +4453,7 @@
         - principle (n)原則/原理, 道德準則
         - principal (adj)主要的/重要的 = prime
         - priotity (n)在先/居前, 優先權 = privilege
-        + pristine (adj)太古的, 清新的/純樸的/未受污染的 = untouched = uncorrupted
+        + /ˈprɪstiːn/ pristine (adj)太古的, 清新的/純樸的/未受污染的 = untouched = uncorrupted
 
     priv 個人/搶奪 = private, rob
         + deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)免職/剝奪, 匱乏/貧困 = privation <|> deprave
@@ -4534,6 +4535,7 @@
         - compartment (n)艙/隔間/包廂
         + partial (adj)不公平的/偏袒的, 部分的 --> partiality (n)偏心/偏袒/偏愛
         - particle (n)微粒/顆粒/粒子, 極小量
+        - particulate (adj)微粒的 (n)微粒狀物質 <-- particle
         + participation (n)參加/參與, 分享
         * particular (n)事實/細節 (adj)細緻的/詳細的, 特別的/特有的 = peculiar, 講究的/挑剔的 = fastidious
         + particularize (v)詳述/列舉
@@ -6503,7 +6505,7 @@
     	* unparalleled 無比的/無雙的 = exceptional
         - unprecedented (adj)前所未有的 <-- un + precedent + ed
         + unpremeditated (adj)預謀的
-        - unprepossessing (adj)不吸引人的 = unattractive
+        + unprepossessing (adj)不吸引人的/不討人喜歡的 = unattractive = unfavorable
         + unpretentious (adj)不炫耀的/謙遜的/樸素的 = modest
         * unprincipled (adj)無原則的/肆無忌憚的/不道德的
         + unproductive (adj)徒然的/無成效的
@@ -6543,7 +6545,7 @@
         - unthreatening (adj)不威脅的
         + untimely (adj)過早的, 不適時的
         - untold (adj)無數的/數不清的
-        + untoward (adj)倔強的/難對付的 = troublesome = unruly, 不幸的/不祥的/沒料到的 = unpropitious
+        + untoward (adj)沒料到的/不適宜的 = unfavorable = inconvenient
         - untutored (adj)未經教育的
         + unverifiable (adj)無法證實的/無可考證的
         + unwarranted (adj)沒有根據的, 無保證的/未經授權的
@@ -6753,7 +6755,7 @@
     vap 蒸汽 = steam
         - evaporate (v)使蒸發掉
         + vapid (adj)索然無味的/無趣的 = tasteless = dull = flat = insipid <|> sapid
-        * vapor (v)汽化/蒸發 = vaporize, 吹噓 = vaunt = boast = vaporize = bluster (n)蒸汽/水汽, 幻想, 吸入劑
+        * vapor (n)蒸汽/水汽, 幻想, 吸入劑
         - vapidity (n)無味/無聊
         - vaporize (v)(使)蒸發 --> vaporization (n)蒸發
         - vaporous (adj)蒸汽的/有霧的, 空想的/無實質的 = unsubstantial

@@ -1,0 +1,257 @@
+http://fortune.com/longform/single-family-home-ai-algorithms/
+Meet the A.I. Landlord That’s Building a Single-Family-Home Empire
+Data science helped Amherst Holdings CEO Sean Dobson make a fortune in the housing crash. Now he's deploying A.I. to profit from properties that most investors wouldn’t touch.
+By Shawn Tully | June 21, 2019
+---------------------------------------------------------------------------------------------------------------------
+Erin Burrus has endured some misfortune in recent years: After a cancer diagnosis, she lost her home to foreclosure. Today she’s healthy again, and a stable job in sales has helped her mend her finances. “I’m climbing my way back up,” says Burrus. One symbol of her stability is the two-­bedroom home she shares with her husband and their children in Greenwood, a solidly middle-class suburb of Indianapolis. The family rents the place rather than owning their home. But it was important to Burrus that they not be in an apartment. “I wanted to get a house with a yard for the kids, for that family atmosphere,” she says.
+	- foreclosure 取消贖回權 == The action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
+	- Indianapolis 印第安納波利斯，是美國印地安納州首府
+Burrus’s landlord is a company called Main Street Renewal; she found out about it from her mother, who rents a nearby home from the same outfit (and runs a thriving dress-alteration business with Burrus). And each is now playing a small part in an ambitious experiment.
+	- landlord 房東/地主 == A man (in legal use also a woman) who rents out land, a building, or accommodation.
+	- find out
+		> 發現 |to discover a fact or piece of information| We may never find out the truth about what happened.
+		> 察覺...不誠實 |to discover that someone has been dishonest| It was only a matter of time before someone found him out.
+Main Street Renewal is an arm of Amherst Holdings, a real estate investing firm with $20 billion under management. It owns or manages some 16,000 single-family homes, scattered across the Midwest and the Sunbelt. That portfolio makes Amherst one of the biggest, fastest-growing players in institutionally owned rental homes, a $45 billion subsector of the real estate industry that barely existed before the Great Recession.
+Sean Dobson, Amherst’s CEO, is an imposing Texan data savant who dropped out of college to get into mortgage trading. A decade ago, he made a killing shorting shaky debt during the housing crash. Today he’s adding 1,000 homes a month to his empire with the help of artificial intelligence, using data modeling to make dozens of offers a day on potentially profitable houses. The Main Street homes are a $3.2 billion investment that generates around $300 million in annual rental income, but Dobson harbors far bigger ambitions: “We want to get to 1 million homes in the next 15 years or so,” he says. While that figure reflects as much bravado as realism — it’s more than 60 times the number of homes Amherst owns today — the fact that it’s conceivable shows how much the housing market has changed, and how technology is helping investors profit from those changes.
+	- imposing 宏偉的 == Grand and impressive in appearance.
+	- Texas --> Texan
+	- mortgage
+		> 抵押 |A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.|
+		> |Convey (a property) to a creditor as security on a loan.| the estate was mortgaged up to the hilt
+		> 抵押借款 |The amount of money borrowed in a mortgage.|
+	- shaky
+		> 顫抖的 |Shaking or trembling.| he managed a shaky laugg
+		> 不牢固的 |Unstable because of poor construction or heavy use.| a cracked, dangerously shaky table
+		> 不牢靠的/不安全的 |Not safe or reliable; liable to fail or falter.| thoroughly shaky evidence
+	- the housing crash == housing bubble 
+The rise of the single-family-rental industry reflects profound shifts in the finances and attitudes of America’s families. Homeownership, long a bedrock of financial stability, has become unattainable or undesirable for many middle-income workers — for reasons including tighter lending standards, large college-debt loads, and lagging wage growth and savings. According to ­Yar­deni Research, slightly more than one in three households that would have been buying first homes before the financial crisis is now either renting or still living with their parents.
+	- household 家庭/戶 == A house and its occupants regarded as a unit.
+These trends translate into roughly 5 million households that are renting single-family homes rather than taking out mortgages and building equity, and that’s Amherst’s target market. Its specialty is grabbing run-down properties in nice, middle-class subdivisions — guided by algorithms that help it avoid bidding wars and money pits — which it then spruces up for the new rental generation. Amherst’s typical customers are couples in their early forties with one or two kids and household incomes around $60,000. They’re paying an average rent of $1,450 a month. “That’s almost exactly what they’d pay on a mortgage and other expenses if they owned the house,” says Dobson. “We’re catering to a whole new class of Americans — the former buyers who are now either forced renters or renters by choice.” And Dobson is betting that this new class is a permanent one.
+	- equity
+		> 公平 |The quality of being fair and impartial.| equity of treatment
+		> 股價 |The value of the shares issued by a company.|
+		> 普通股 |Stocks and shares that carry no fixed interest.|
+		> 抵押淨值 |The value of a mortgaged property after deduction of charges against it.|
+	- spruce
+		> 雲杉 |A widespread coniferous tree which has a distinctive conical shape and hanging cones, widely grown for timber, pulp, and Christmas trees.|
+		> 整潔的 |Neat in dress and appearance.|
+	- spruce up 使整潔體面 == Make someone or something smarter or tidier.	
+		> the fund will be used to spruce up historic buildings
+Single-family-home rentals have long been dominated by local entrepreneurs — mom-and-pop investors or groups of businesspeople who own and manage no more than a couple of dozen properties (and often as few as one). Historically, when bigger fish, such as hedge funds and real estate investment trusts (REITs), invested in rental housing, they focused on apartment buildings — larger assets whose bunched-together density made them more cost-effective to manage.
+	- mom-and-pop == used to describe a small business that is owned and operated by members of the same family
+	- hedge fund 避險基金/對沖基金/套利基金
+	- real estate investment trusts 不動產投資信託
+	+ bunch
+		> 串/束 |A number of things, typically of the same kind, growing or fastened together.| a bunch of grapes
+		> 使成束 |Collect or fasten into a compact group.| she bunched the needles together
+		> 使打褶 |Form or cause to form tight folds.| the bedclothes had bunched up around his waist
+		> 一群人 |A group of people.| the people who wrote in complaining are a bunch of idiots
+		> 成群 |Form into a tight group or crowd.| he halted, forcing the rest of the field to bunch up behind him
+		> 很多 |A large number or quantity; a lot.| the bluesy style that earned him a bunch of '70s hits
+		> 隆起 |(of muscles) flex or bulge.|
+	- bunch (sth) up/together(使)聚攏/(使)擠成一團 == to move close together to form a tight group
+		> The monkeys bunched together in their cage.
+		> We were all bunched up at the back of the room.
+The housing crash of the 2000s changed the math. As hard-pressed households gave up on ownership, and demand for rentals increased, investors realized single-family houses could be a more stable income source than apartments. An empty unit is a money loser, and houses were empty less often. Tom Barrack, head of real estate investment firm Colony Capital, explains that in single-family homes, “families stayed for two or three years, versus six months to a year in apartments.” Demand has stayed high, he adds, in part because consumers who used to see homes as investments are no longer confident that prices will rise.
+	- hard-pressed 面臨困難的/遭受強大壓力的 == having a lot of difficulties doing something, especially because there is not enough time or money
+		> The latest education reforms have put extra pressure on teachers who are already hard-pressed.
+		> Because of shortages, the emergency services were hard-pressed to deal with the accident.
+	- money loser 不賺錢的東西 == a product, service, or business that does not make a profit:
+		> The phone is a money loser for all the companies that hold an exclusive licence to sell it.
+
+The business remains highly fragmented: Institutional investors own only about 2% of America’s 15 million single-family rental homes. But over the past seven years, those investors have amassed a substantial portfolio — some 300,000 houses in all. The biggest players include Invitation Homes, a REIT that’s the product of a merger of rental divisions of several investment firms, including Blackstone, Starwood Capital, and Colony Capital; American Homes 4 Rent; and Amherst. All these landlords use automated house-hunting to fuel their growth. But Amherst differs from its rivals in focusing its computer models — and its business model — on affordable suburbs in the solid middle of the U.S. housing sector.
+	- merger 兼併 == A combination of two things, especially companies, into one.
+Dobson spent his childhood far from those burbs, in a trailer in an East Texas state park where his family owned a campground concession. “My mom and dad rented cabins and sold gas,” recalls Dobson. “Then oil prices spiked, people couldn’t afford vacations, and that was the end of the redneck paradise.”
+	- trailer
+		> 拖車/掛車 |An unpowered vehicle towed by another.|
+		> 汽車拖的居住車 |An unpowered vehicle equipped for living in, typically used during holidays; a caravan.|
+		> 移動住家 |A mobile home.|
+		> 用拖車運 |Transport (something) by trailer.| the aircraft is easy to trailer and will fit into any garage
+		> 預告片 |A series of extracts from a film or broadcast, used for advance publicity.|
+		> 播放預告片 |Give advance publicity to (a film, broadcast, or proposal) by releasing extracts or selected details.| the series has already been heavily trailered
+		> 蔓生植物 |A thing that trails, especially a trailing plant.|
+	- campground 營地 == A place used for camping, especially one equipped with cooking grills, water, and toilets.
+	- cabin
+		> 客艙 |A private room or compartment on a ship.|
+		> 客艙 |The area for passengers in an aircraft.|
+		> 小木屋 |A small wooden shelter or house in a wild or remote area.| the cabin lay three miles into the reserve
+		> 關在小地方 |Confine within narrow bounds.| once loosed, the idea of equality is not easily cabined
+	- redneck == A working-class white person from the southern US, especially a politically reactionary one.
+The family moved to Houston when Sean was starting high school, and his father bought him the toy that would change his life, a TRS-80 computer from Radio Shack. The device generated so much static, Dobson says, that the family’s TV picture dissolved when the computer was running. But he became an expert programmer, and the summer after his high school graduation in 1987, he got an IT job on a mortgage-­trading desk. He became a pioneer in building sophisticated models to price home loans — and in using those models to find instances when investors were mispricing mortgage-backed securities (MBSs) based on faulty projections of their risks.
+	- static
+		> 靜態的 |Lacking in movement, action, or change, especially in an undesirable or uninteresting way.| demand has grown in what was a fairly static market
+		> 靜力的 |Concerned with bodies at rest or forces in equilibrium.|
+		> 靜電的 |(of an electric charge) having gathered on or in an object that cannot conduct a current.|
+		> 靜電干擾 |Crackling or hissing noises on a telephone, radio, or other telecommunication system.| the phone was full of static that sounded distant
+		> 靜電 |static electricity|
+		> |Angry or critical talk or behaviour.| the reception was going sour, breaking up into static
+	- dissolve
+		> 溶解 |(with reference to a solid) become or cause to become incorporated into a liquid so as to form a solution.|
+		> 消失 |Disappear.| my courage dissolved
+		> 轉變 |Subside uncontrollably into (an expression of strong feelings)| she suddenly dissolved into floods of tears
+		> 轉場 |An act or instance of moving gradually from one image or scene in a film to another.| the alternatives to a cut are fades or dissolves
+		> 潰散 |Close down or dismiss (an assembly or official body)| the National Assembly was dissolved after a coup
+		> 使終結 |Annul or end (a partnership or marriage)|
+	- mortgage-backed securities 住房抵押貸款證券
+In 1994, Dobson founded the forerunner to Amherst, and by the early 2000s, Amherst was selling $25 billion a year in MBSs to pension funds and insurers. The seeds of his big score were planted during the housing bubble, when his models predicted a disaster in “Alt-A securities,” packages of loans granted to homeowners who had often refinanced multiple times. “The market was predicting a default rate of 5%, and our models showed it would be 30% even if home prices didn’t fall at all,” Dobson recalls. He recruited a group of investors that took short positions in Alt-A, reaping a $10 billion profit — 10 times the investment, according to Dobson — when home prices tumbled.
+	- pension fund 社會保障基金
+	- insurer 保險業者 == A person or company that underwrites an insurance risk; the party in an insurance contract undertaking to pay compensation.
+	- Alt-A 美國的房貸市場中，依照借貸人的信用等級來分，可區分為信用較高的主要(Prime)房貸、信用普通的Alt A(另類)貸款，與信用較低的次級(Subprime)房貸。
+	- tumble
+		> 跌落 |Fall suddenly, clumsily, or headlong.|
+		> |A sudden or headlong fall.| I took a tumble in the nettles
+		> 衝出 |Move or rush in a headlong or uncontrolled way.|
+		> 暴跌 |Fall rapidly in amount or value.|
+		> |A rapid fall in amount or value.| a tumble in share prices
+		> 弄亂 |Rumple; disarrange.|
+		> 凌亂 |An untidy or confused arrangement or state.| her hair was a tumble of untamed curls
+		> 翻筋斗 |Perform acrobatic feats, typically handspring|
+		> |A handspring, somersault in the air, or other acrobatic feat.|
+		> tumble to 理解...的含義 |Understand the meaning or hidden implication of (a situation)| she'll ring again as soon as she tumbles to what she's done
+		> 打磨 |Clean (castings, gemstones, etc.) in a tumbling barrel.|
+		> |A friendly sign of recognition, acknowledgement, or interest.|
+Dobson’s front-row seat at the housing collapse helped him recognize the opportunity in rentals. By 2011 he had begun a campaign to persuade investors to finance a new venture — a fund to buy and rent out single-family homes on an industrial scale. Some of his former partners saw the potential. “Single-family rentals are basically a big information game,” says Curtis Arledge, head of Mariner Investment Group. “You collect all kinds of information if you buy at scale. That data gives him a competitive advantage.”
+Most were far more skeptical. To bolster his campaign, Dobson had purchased 215 houses in Phoenix and Dallas. “The portfolio wasn’t ideal,” he concedes. “We had graffiti-scarred houses in the inner city and houses in the suburbs six miles from the nearest house we owned. Did I mention that at least one dwelling was a former bordello?” Many investors saw the motley collection as epitomizing everything wrong with being a landlord — the deterioration of the properties, the hassles of maintaining a far-flung portfolio. “They said I was nuts, that this was an impossible business that would suffer ‘death by a thousand cuts,’ ” Dobson says.
+	- portfolio
+		> 文件夾/公事包 |A large, thin, flat case for loose sheets of paper such as drawings or maps.| under his arm he carried a large portfolio of drawings
+		> 作品集 |A set of pieces of creative work intended to demonstrate a person's ability to a potential employer.| she had a portfolio of crayon portraits
+		> 投資組合 |A range of investments held by a person or organization.| a portfolio of insured municipal securities
+		> 產品組合 |A range of products or services offered by an organization.| an unrivalled portfolio of quality brands
+		> |Denoting or engaged in an employment pattern which involves a succession of short-term contracts and part-time work, rather than the more traditional model of a single job for life.| portfolio careers allow women to balance work with family
+		> 部長職/大臣職 |The position and duties of a Minister or Secretary of State.|
+	- bordello 妓院 == brothel
+	- epitomize 作為...的縮影 == Be a perfect example of.
+	- hassle
+		> 麻煩 |Irritating inconvenience.| the hassle of child care
+		> 騷擾 |Deliberate harassment.| when I told them I would not work on Sundays I got hassle
+		> 煩擾 |Harass; pester.| you want to sit and relax and not get hassled
+		> 口角 |A disagreement or quarrel.| an election-year hassle with farmers
+	- far-flung 遙遠的/分佈廣的/廣泛的 == used to refer to places that are a great distance away, or something that is spread over a very large area
+		> She has travelled to the most far-flung corners of the world.
+It took a year of hard selling for Dobson to raise $200 million. But that seed money was enough to prove his concept. His first properties yielded enough profit to persuade investors to finance future rounds. Since 2011, Amherst has raised eight rental-­housing funds totaling $5 billion. In most cases, it has partnered with a single big investor — among them, private equity giants like TPG. The funds have produced average annual percentage returns in the mid-teens on their cash stakes, according to investors, including income from rent and price appreciation. (Amherst occasionally sells packages of homes when prices rise sharply, including to other investors.) And those returns are bigger than they would otherwise be, thanks to the firm’s digitally driven bargain hunting.
+	- private equity 私募股權，指的是公司透過私下，而非公開募集的方式，向特定的少數人來籌集資金 
+	- appreciation
+		> 欣賞/鑑賞 |Recognition and enjoyment of the good qualities of someone or something.| I smiled in appreciation
+		> 感激之情 |Gratitude.| they would be the first to show their appreciation
+		> 評論文字 |A written assessment of an artist or piece of work, typically a favourable one.|
+		> 全面理解 |A full understanding of a situation.| the bank's lack of appreciation of their problems
+		> 增值 |Increase in monetary value.| the appreciation of the dollar against the pound
+On a drive through Arlington and DeSoto, two Dallas suburbs, Amherst managing director Joe Negri is quick to point out the fixer-uppers. About one house in five qualifies. Negri shows me the classic signs: bedsheets stuffed in the windows, rusting AC units in the side yards. On the inside, he says, we are likely to find glued-down vinyl tiles peeling off the concrete floors.
+	- fixer-upper 需要修理後才能再住人的問題房子== a house that is not in good condition, that someone buys with the intention of working on it, improving it, and increasing its value:
+	- vinyl 乙烯基
+Finding shabby abodes like these and making them respectable is the load-bearing wall of Amherst’s strategy. Amherst depends on humans to find cities, towns, and neighborhoods where fixer-uppers can become profitable, then relies on automation to pick individual homes. Negri, 31, heads the human team. He spends 150 days a year on the road overseeing Main Street ­Renewal’s operations from Atlanta to Denver, searching for “sweet spot” neighborhoods that combine affordable rents with a strong middle-income employment base.
+	- abode 住處/住所 == A place of residence; a house or home.
+	- load-bearing 承重的 == supporting the weight of the building above it
+		> We can't knock through there because that's a load-bearing wall.
+Around 70% of Amherst’s 16,000 homes are in Sunbelt cities: Atlanta and Dallas, combined, account for about 5,300; Houston, Charlotte, and Jacksonville are also big markets. Amherst also favors Rust Belt “metros” with a sturdy foundation of jobs, including Indianapolis, Louisville, and St. Louis. These markets are all shaped by forces that keep housing costs in check. In Sunbelt cities, new construction plays that role; in the Rust Belt, relatively modest economic and workforce growth keep housing cheap. Each is an antithesis to coastal markets such as Los Angeles and Boston, where a dearth of new building and ­su­perheated local economies inflate prices. Focusing on ­fixer-uppers in modestly priced markets helps keep Amherst’s all-in costs for each home, including repairs, remarkably low, ranging from an average of $140,000 in Memphis to $208,000 in Dallas. (The median existing-home price nationwide is $267,300.) They’re almost always priced below the average in those markets too.
+	- sturdy
+		> 健壯的 |(of a person or their body) strongly and solidly built.| he had a sturdy, muscular physique
+		> 堅固的 |Strong enough to withstand rough work or treatment.| the bike is sturdy enough to cope with bumpy tracks
+		> 堅決的/堅毅的 |Showing confidence and determination.| the townspeople have a sturdy independence
+Making sure low prices aren’t a sign of economic zombiehood is Negri’s job. “The No. 1 criteria is diversity of employment,” he says, especially in blue-collar and middle-class jobs. Before Amherst chooses a new metro, Negri explores its neighborhoods firsthand. “I’ll live in a hotel for a month straight, driving around with an iPad,” he says. “I was driving the Florissant area of St. Louis early in the morning, and one out of every two or three people are dressed in Boeing uniforms. That gave me a lot of confidence.” A dealbreaker: cars sitting in the driveway in mid-morning, a sign that a lot of residents aren’t getting paychecks.
+	- dealbreaker 破局 == something that is important enough to you to prevent you from agreeing to something, buying something, etc.
+	- paycheck 薪水/薪資單
+Based on research like Negri’s, Amherst now targets around 1,000 zip codes in 30 metro areas. Choosing homes there is the job of Amherst’s highly automated purchasing system. In its 19th-floor office on New York City’s Madison Avenue, a dozen buying specialists screen leads on their workstations, delivered by a proprietary program called Explorer, an offshoot of the software Dobson developed to price mortgages. Each morning, the team gets alerts on newly listed homes that meet its price range and geographic criteria — around 1,400 listings a day.
+	- proprietary
+		> 所有人的/所有權的 |Relating to an owner or ownership.| the company has a proprietary right to the property
+		> 專利的/專賣的 |(of a product) marketed under and protected by a registered trade name.|
+	- offshoot 分支
+For each “first cut” listing, Explorer estimates the costs of renovation. This is machine learning at work: The estimate is based on Amherst’s experience with homes of similar age and size in the same or nearby neighborhoods. In an older home, this might include replacing the HVAC system; for one whose listing photos suggest wear and tear, it might include a new roof. (Team members help the software make that call.) Explorer has become so precise, Negri says, that the actual renovation costs average within 5% of the estimates.
+	- HVAC 暖通空調（heating, ventilation and air conditioning，簡稱HVAC）
+	- wear and tear 磨損/損耗 == the damage that happens to an object in ordinary use during a period
+		> Seat covers on buses take a lot of wear and tear.
+Explorer also runs a separate calculation, finding three homes being rented within a two-mile radius that are close in age, size, and bed-and-bath specs to the newly listed home. Machine learning helps the software estimate what each house would rent for based on these “comps.” Explorer then churns out an estimated “rental yield” — the net rent after such expenses as taxes and maintenance, divided by all-in cost.
+	- comp
+		> |A compilation.|
+		> |A complimentary ticket or voucher.|
+		> |A computer.|
+		> |Compensation.|
+		> |A composition.|
+		> |A musical accompaniment.|
+		> |Play music as an accompaniment, especially in jazz or blues.| he comps with an open, jangly sound
+		> |Give (something) away free, especially as part of a promotion.| the management did graciously comp our wine selection
+		> |Complimentary; free.| the average fan was unable to get comp press tickets
+	- churn out 大量生產 == to produce a large quantity of something very quickly
+		> Churning out 90 million gallons a year, the facility has become one of the nation's largest producers of biodiesel.
+If that yield meets Amherst’s target (which Fortune estimates is between 5% and 6%), the team will make an offer. About 20% of each day’s listings qualify; Amherst bids on those candidates no more than 12 hours after they’re first listed, making all-cash offers. Around 10% of its offers — on roughly 30 homes a day — get accepted and go to contract. Amherst dispatches inspectors to assess each home’s condition during the grace period. Unless they find fatal surprises — such as a cracked foundation — the houses pass muster and join the Main Street Renewal portfolio.
+	- grace period 延緩期/寬限期 == extra time you are given to pay money you owe without losing something or paying an additional amount
+	* muster
+		> 召集 |Assemble (troops), especially for inspection or in preparation for battle.| 
+		> 聚集 |Collect or assemble (a number or amount)| 
+		> 鼓起 |Summon up (a feeling, attitude, or response)|
+		> |A formal gathering of troops, especially for inspection, display, or exercise.|
+Once you own a fixer-upper, of course, you need to fix ’er up. Amherst spends an average $28,000 per home, roughly 20% of the purchase price, on renovations. Many of the middle-class families in Amherst’s customer base could amass the down payment to buy the same low-priced homes, but few would have the savings to also fund big improvements.
+	- down payment 首期/首付款 == an amount of money that you pay at the time that you buy something but is only a part of the total cost of that thing. You usually pay the rest of the cost over a period of time
+Touring a dozen Main Street ­Renewal houses in Dallas and Atlanta, I was impressed by how closely the homes, especially the interiors, resembled new construction. The houses all had different floor plans, but within each varied box, Amherst installed the same features: the kinds of fixtures and brands you’d find in a new middle-to-higher-end subdivision. In a six-year-old, 3,100-square-foot home in Douglasville, a suburb of Atlanta, Amherst had installed four gleaming new GE appliances: stove, dishwasher, fridge, and microwave. The countertops were thick quartz; the downstairs floors were sturdy ceramic tile; Hampton Bay ceiling fans whirred in the living room and master bedroom. The rent: $1,850 a month.
+	- gleaming 閃亮的 == (of a smooth surface) reflecting light, typically because very clean or polished.
+	- GE == general electric
+	- appliance 器具/設備 == A device or piece of equipment designed to perform a specific task.
+	- stove 爐灶 == An apparatus for cooking or heating that operates by burning fuel or using electricity.
+	- fridge == refrigerator 冰箱
+	- countertop 爐台 == A flat surface for working on, especially in a kitchen; a worktop.
+	* ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
+	- ceiling fan 吊扇
+In nearby Austell, a smaller, cheaper, and older Main Street home — 1,850 square feet, built in 1997 — was undergoing a gut renovation. The carpeting was ripped and stained, and the vinyl ceiling in the kitchen sagged. But workers were installing the same appliances, flooring, and other features as in the Douglasville house. The Austell renovations would eventually cost twice what the Douglasville ones did. But that house would rent for $1,695 — enough to reap the yield Amherst seeks.
+	+ gut
+		> 肚子/腹部 |The stomach or belly.| the terrible pain in his gut
+		> 內臟 |Entrails that have been removed or exposed in violence or by a butcher.|
+		> 取出內臟 |Remove the intestines and other internal organs from (a fish or other animal) before cooking it.|
+		> 內部 |The inner parts or essence of something.| the guts of a modern computer
+		> 損毀內部 |Remove or destroy completely the internal parts of (a building or other structure)|
+		> 直覺 |Used in reference to a feeling or reaction based on an instinctive emotional response rather than considered thought.| I had a gut feeling that something was wrong
+		> guts 膽量/勇氣 |Personal courage and determination; toughness of character.|
+		> 腸腺 |Fibre made from the intestines of animals, used especially for violin or racket |
+	- sag
+		> 下彎/下陷/下垂 |Sink, subside, or bulge downwards under weight or pressure or through lack of strength.| she let her head sag lower and lower
+		> |A downward curve or bulge in a structure caused by weakness or excessive weight or pressure.| a sag in the middle necessitated a third set of wheels
+		> 下跌 |Decline to a lower level, usually temporarily.| exports are forging ahead while home sales sag’
+		> |A decline, especially a temporary one.|
+Economies of scale help these renovations pay off. The improvements that cost Amherst $28,000 would, by the company’s estimates, cost a regular buyer at least $44,000. Because Amherst purchases in such high volumes, it can buy fixtures on heavily discounted national contracts. Its cost for the four GE appliances combined, for example, is $1,850 per home; a do-it-yourselfer would pay around $3,000 at Home Depot. The renovations are handled by outside contractors, but many rely on Amherst for most of their business, so costs are predictable and overruns are rare.
+Amherst’s tenants also benefit from a time-honored privilege of renting: not being on the hook for repairs. In-house crews in each market handle most of that. In Dallas and its suburbs, a crew of 28 maintenance workers pilots a fleet of 10 white repair vans, each bearing the Main Street Renewal logo and each stocked with spare tiles, trendy “moth gray” paint, and ceiling fans.
+	- tenant
+		> 租戶 |A person who occupies land or property rented from a landlord.| a frequent tenant of the gossip columns
+		> 租 |Occupy (property) as a tenant.| the house was tenanted by his cousin
+		> 承租人 |A person in possession of real property by any right or title.| In breach of covenant, the tenant has failed to complete the works.
+	- time-honored 古老而又受尊重的/歷史悠久的 == A time-honoured tradition, practice, or method is respected because it has been done or used in the same way for many years
+	- on the hook for 欠/對...有責任 == owing money for (something) : responsible for (something)
+		> He's still on the hook for the cost of the repairs.
+	+ van 有蓋小貨車
+	- moth gray 蛾灰色
+Amherst has figured out how to serve a fast-growing new cohort of renters. The question facing Dobson is whether that cohort will keep growing.
+	- cohort
+		> 古羅馬步兵隊 |An ancient Roman military unit, comprising six centuries, equal to one tenth of a legion.| 
+		> 一群人 |A group of people with a shared characteristic.| a cohort of civil servants patiently drafting legislation
+		> 支持者/同夥 |A supporter or companion| young Jack arrived with three of his cohorts
+Some experts think the downturn in ownership is temporary and that more millennials and families are on the verge of buying. That might not doom Amherst’s business model, but it would put the brakes on investor enthusiasm, says Ed Pinto, an economist at the American Enterprise Institute and former chief credit officer of mortgage agency Fannie Mae. “That Wall Street money is hot, not patient money,” Pinto says. “They will head for the exits or cut back on acquisitions.”
+	- downturn (n)衰退 (v)下彎 == A decline in economic, business, or other activity.
+	- on the verge of 接近於/瀕臨 == Her husband's violent and abusive behaviour drove her to the verge of despair.
+	- cut back (on sth) 減少/削減 == to spend less, do less, or use less of something
+		> The government has announced plans to cut back on defence spending by 10 percent next year.
+		> If exercise is causing you pain, you should cut back.
+Dobson acknowledges that a surge in demand could trip up his strategy. If prices spike in the Bargain Belts, Amherst’s acquisition costs would go up. And since single-family rents tend to track home prices, its customers might choose to rent apartments rather than homes. “If home prices outpace income growth, we can’t get the rents to be profitable and grow our portfolios,” he says.
+	- trip up
+		> 絆倒 |to fall because you hit your foot on something, or to make someone fall by putting your foot in front of the other person's foot| I'm terribly sorry. I didn't mean to trip you up.
+		> 使犯錯 |to make a mistake, or to cause someone to make a mistake| The exam went quite well, until I tripped up on the last question.
+Still, Dobson doesn’t see such threats on the horizon, and he thinks most trends are breaking in his favor. If the economy slows, Amherst could benefit in two ways: Home prices would slacken, creating buying opportunities for investors, and rental demand would rise. Whatever the economy does, he argues, his industry will benefit as it scales up. He’s convinced that the pool of homes available to Amherst will grow by millions, as aging landlords whose kids have no interest in fixing toilets and dunning for rents opt to sell to the big guys. “I have $5 billion to $6 billion from outside investors knocking on the door,” says Dobson. “In the end, we’ll get to 1 million houses.”
+	- on the horizon 即將發生 == likely to happen or exist soon
+		> There is no new drug on the horizon that will make this disease easier to treat.
+		> Dobson doesn’t see such threats on the horizon, and he thinks most trends are breaking in his favor
+	- in one's favor
+		> 對...有利 |To one's advantage or for one's benefit.| I'm so relieved that the court ruled in my favor!
+		> 受...的賞識 |Highly regarded by one; widely accepted or enjoyed by one.| John had been in his boss's favor ever since he managed to secure that lucrative client.
+	- dun
+		> 暗褐色的 |Of a dull greyish-brown colour.| a dun cow
+		> 黑的 |Dark or dusky.| when the dun evening comes
+		> 暗褐色 |A dull greyish-brown colour.|
+		> |A horse with a sandy or sandy-grey coat, black mane, tail, and lower legs, and a dark dorsal stripe.|
+		> 蜉蝣幼蟲 |A subadult mayfly, which has drab coloration and opaque wings.|
+		> 催討 |Make persistent demands on (someone), especially for payment of a debt.| after he left Oxford he was frequently dunned for his debts
+		> |A demand for payment.| They start off with a dun from distributors for $2 at the door
+		> |A stone-built fortified settlement in Scotland or Ireland, of a kind built from the late Iron Age to the early Middle Ages. The word is a frequent place-name element in Scotland and Ireland.|
+However big the empire becomes, it’s unlikely to ever include Dobson’s own home. He and his wife and two kids share a baronial brick manse of more than 7,500 square feet, complete with wine cellar, in trendy Austin. It may not be huge by Texas standards, but it’s the kind of home that would never clear Amherst’s algorithms, in the kind of market Dobson the landlord wouldn’t touch.
+	- baronial
+		> 男爵的 |Relating to a baron or barons.| a great baronial family
+		> 尖塔式的 |In the turreted style characteristic of Scottish country houses.| the stations were built in the distinctive Scottish baronial style
+	- manse
+		> 牧師住宅 |A house provided for a minister of certain Christian Churches, especially the Scottish Presbyterian Church.|
+		> 房子 |A person's house or home.| she has just returned to her mother and the family manse after being expelled from convent school

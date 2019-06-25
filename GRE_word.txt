@@ -412,6 +412,7 @@
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
     ++ /ʃəˈkeɪn/ chicane (v)詐騙/欺騙 = deceive = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
+    + chortle (n/v)哈哈大笑 = chuckle
     + /tʃəːl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage
     + clamber (v)(艱難地)攀登/攀爬/移動 = scramble <-- clamb 爬 = climb + er
     + clan (n)集團/幫派/派系
@@ -568,9 +569,9 @@
     ^ competence (n)能力/才能/水準
     ^ compost (n)混合肥料/堆肥
     ^ conifer (n)針葉樹
-    ^ consul (n)領事 <|> council <|> consult
+    ^ consul (n)領事 --> consulate (n)領事館, 領事職/領事任期 --> consular (adj)領事的 <|> council <|> consult
     ^ control (n)實驗對照組 (n/v)控制/支配
-    ^ coop (n)(雞)籠/籃
+    ^ coop (n)(雞)籠/籃 
     ^ cord (n)繩/線, 電線, 考得(木材堆的體積單位)
     ^ coronation (n)加冕
     ^ corrigible (adj)可改正的/易矯正的
@@ -748,7 +749,7 @@
     + eager (adj)熱切的/渴望的 = ardent = keen = solicitous
     + /ˈɛʃəlɒn/ echelon (n)階層/等級 = rank = grade = level, 某一等級的所有人, 梯隊 <-- [拉丁]梯子 = ladder
     + echo (n/v)模仿/重複 = repeat = imitate, 回聲/回音
-    + /ˈɛlɪdʒi/ elegy (n)哀歌/挽歌 = dirge
+    + /ˈɛlɪdʒi/ elegy (n)哀歌/挽歌 = dirge --> elegiac (adj)挽歌的, 哀傷的 (n)輓歌對句
     + element (n)化學元素, 要素/成分 --> elementary (adj)基本的, 初級的, 元素的
     + /ɪˈlɪksə/ elixir (n)不老長壽藥, 萬能藥
     + /ɪˈlɪzɪəm/ Elysium (n)樂園/天堂 --> Elysian (adj)極樂世界的/天堂的 <-- [希臘神話]
@@ -809,7 +810,6 @@
     ^ enamel (n)琺瑯/瓷釉
     ^ endow (v)資助/捐助
     ^ ennui (n)倦怠, 無聊 (v)使無聊
-    ^ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
     ^ entity (n)實體, 獨立存在體, 本質
     ^ entrance (v)使出神/使入迷 = enchant = intrigue = captivate (n)入口, 入學, 就任 <-- enter
     ^ entry (n)條目, 紀錄/登錄, 報關手續, 入場/參加, 入口, 參賽作品/參賽 <-- enter
@@ -876,6 +876,7 @@
     + /flɛdʒ/ fledge (v)(幼鳥)變得羽翼豐滿 --> fledgling (n)剛會飛的幼鳥, 無經驗的人 = novice = neophyte = tyro (adj)缺乏經驗的 = inexperienced
     + fleet (adj)快速的/敏捷的 = swift = rapid (v)掠過, 消磨 --> fleeting (adj)轉瞬即逝的/短暫的 = transient = transitory = ephemeral = momentary
     ++ flip (v)快速翻轉, 輕拍 (n)翻轉 --> flippant (adj)輕浮無禮的 = frivolously disrespectful
+    ++ flounder (v)掙扎/處於困境 (n)比目魚 <-- flounce + founder
     ++ /flaʊt/ flout (v)藐視[法律] = contempt = scorn = disdain = belittle = trifle, 嘲弄 = mock = scoff = gibe = jibe = burlesque = jest = scorn = trifle <-- flute 長笛
     + fluke (n/v)僥倖/僥倖成功/僥倖獲得 (n)錨爪, 魚叉的倒鉤, 比目魚, 吸蟲
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
@@ -1014,7 +1015,6 @@
     ^ flock (n)羊群, 鳥群
     ^ floodgate (n)水閘門
     ^ flounce (n)掙扎 (v)掙扎
-    ^ flounder (v)掙扎, 艱苦地移動 (n)比目魚 <-- flounce + founder
     ^ fluff (n)絨毛, 蓬鬆物 (v)搞砸/弄糟 --> fluffy (adj)有絨毛的, 蓬鬆的, 空洞的 = disembodied
     ^ fluster (n/v)慌亂/激動 --> flustered (adj)慌張的
     ^ flutter (v)振翼/拍翅, 飄揚, 顫動 <|> flatter
@@ -1672,11 +1672,12 @@
 
 [M]
     + /ˌmakɪəˈvɛlɪən/ machiavellian (n)權謀政治家 (adj)(政治方面)詭計多端的/不擇手段的 = crafty = double-dealing = cunning = subtle = artful
-    + /ˈmeɪlstrəm/  maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil = turbulent confusion <-- mael 碾碎 = grind + strom 流 = stream
+    + /ˈmeɪlstrəm/ maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil = turbulent confusion <-- mael 碾碎 = grind + strom 流 = stream
     ++ /ˌmadʒɪˈstɪərɪəl/ magisterial (adj)權威的 = authoritative = official, 傲慢的/專橫的 = imperious = domineering = arrogant = peremptory = dictatorial = overbearing = petulant = insolent <-- magister 主人 = master + ial
     + mainstream (n)主流/主要趨勢, 河的主流
     + mar (v)毀損/破壞 = damage = spoil = ruin = impair = rack = blemish, 毀容/損傷外表 = disfigure = deface = scar = deform
     ++ marginal (adj)邊緣的, 少量的 = almost insufficient --> marginalize (v)使邊緣化/使不重要
+    + /ˈmɑːʃ(ə)l/ martial (adj)戰爭的/軍事的
     + martinet (n)嚴格執行紀律的人 = disciplinarian
     + mask (v)掩蓋/遮掩 = disguise = conceal = hide = dissemble = cloak, 偽裝 = disguise
     + mature (adj/V)成熟 --> maturity (n)成熟
@@ -1778,7 +1779,6 @@
     ^ margin (n)邊/邊緣, 頁邊空白, 極限, 餘地/餘裕
     ^ marionette (n)木偶 = puppet
     ^ marry (v)娶/嫁/和...結婚 <|> merry
-    ^ martial (adj)戰爭的/軍事的, 好戰的
     ^ marital (adj)婚姻的 <-- marry
     ^ maritage (n)嫁妝
     ^ marked (adj)明顯的, 被監視的
@@ -1903,7 +1903,7 @@
     * nod (n/v)點頭, 打瞌睡
     * noose (n)套索, 圈套/陷阱 (v)用套索捕捉/使落入圈套 <|> loose
     * nourish (v)養育/滋養/培育/支持 = nurture, 懷抱 --> nourishment (n)食物/營養品 = nurture, 養育/滋養
-    * nucleus (n)核/核心 --> nuclear (adj)核心的/核的
+    * nucleus -> nuclei (n)核/核心 --> nuclear (adj)核心的/核的
     * /nʌm/ numb (v)使失去感覺/使麻木 = stupefy, 使驚呆/使發愣 = stupefy (adj)失去感覺的/麻木的 = enervated = prostrate = torpid, 麻痺的 = paralysed
     * nun (n)修女 --> nunnery (n)女修道院 = convent
     
@@ -1932,7 +1932,6 @@
     ^ nubile (adj)適婚年齡的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
     ^ nut (n)堅果/核果, 難事/難題, 螺母/螺帽 
     ^ nucleate (adj)有核的 (v)使集結/使成核
-    ^ nucleus (n)核/原子核/細胞核
     ^ nudge (v)用手肘輕觸/輕推
     ^ numb (adj)麻木的
     ^ numismatist (n)錢幣學家/錢幣收藏家
@@ -2018,6 +2017,7 @@
     + /pəˈnaʃ/ panache (n)瀟灑/氣派 = style = verve = flair, 羽飾 <|> penchant
     + /pɛː/ pare (v)削 = peel, 修剪 = trim, 削減/縮減 = diminish = hack
     + /ˈpɑːli/ parley (n/v)會談/討論 = discuss = confer --> parlance (n)用語/講話風格 = vernacular = idiom, 會談 = parley
+    + /pəˈrʌɪə/ pariah (n)賤民, 被社會遺棄者 = outcast
     + parry (v)擋開攻擊 = ward off = avert, 避開/迴避[言論] = deflect = avoid = evade = dodge
     + parsimony (n)吝嗇/過於儉省 = stinginess = niggardliness = penury --> parsimonious (adj)吝嗇的/過於儉省的 = miserly = mean = stingy = ungenerous
     + partisan (n)黨徒/虔誠的信徒/熱烈的支持者 (adj)盲目支持的/擁護的 --> partisanship (n)黨派性/黨派偏見 <-- party  
@@ -2150,7 +2150,6 @@
     ^ parch (v)烘烤 = toast, 烤焦 <|> perch <|> porch
     ^ perch (v)棲息/座落, 位居（某職位） (n)棲息處/高處, 高位
     ^ porch (n)門廊/入口處, 走廊, 陽臺
-    ^ pariah (n)賤民, 被社會遺棄者 = outcast
     ^ parka (n)抵禦風雪的毛皮大衣
     ^ parquet (n)鑲木地板 <|> banquet <|> bouquet <|> tourniquet
     ^ parse (v)對...做語法分析
@@ -3273,7 +3272,7 @@
     + wholehearted (adj)全心全意/全神貫注的
     ++ willful (adj)任性的/倔強的 = wayward = perverse = disobedient, 故意的 = intentional = deliberate
     ++ winnow (v)篩選/挑選 = sift = separate = select, 除去[out] = remove, 揚起/吹拂 = fan <-- wind
-    + winsome (adj)引人注目的/迷人的 = charming = engaging, 雀躍的 = cheerful = lighthearted
+    + winsome (adj)可愛的/迷人的 = charming = engaging, 雀躍的 = cheerful = lighthearted
     + wistful (adj)渴望的/留戀的 = longing = yearning, 傷感的/惆悵的 = melancholy = pensive
     + withdraw (v)抽回/拉開/取消 = take away = remove, 收回/撤回 = retreat = recall = recede = revoke --> withdrawal (n)收回/撤回, 退隱
     + withstand (v)抵抗/反對 = resist = oppose 
