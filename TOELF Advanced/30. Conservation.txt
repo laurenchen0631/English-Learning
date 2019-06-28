@@ -1,0 +1,55 @@
+[Listened Key Sentence]
+1. In the 1980s a number of wildlife biologists and conservation groups foster a movement to restore the grey wolf to Yellow Stone National Park.
+2. Hunters would often poison the carcass of the down elk in an attempt to decrease the wild kenine population.
+3. A bounty was placed on wolves by the government.
+4. The animal would decimate area live stocks.
+5. The wolves made dramatic and beneficial impact on wildlife biodiversity in Yellow Stone.
+6. Caiotis had been the top predator in the ecosystem.
+7. The decreased Caioti population was a boon for roden species.
+
+[Real Key Sentence]
+1. In the 1980s a number of wildlife biologists and conservation groups fostered a movement to restore the grey wolf to Yellowstone National Park. 一九八零年代，許多野生生物學家及保育團體發起一個運動，要恢復黃石國家公園內的灰狼生態
+2. Hunters would often poison the carcass of a downed elk in an attempt to decrease the wild canine population. 獵人常在死掉的離陸體內下毒，試圖減少這種野生犬科動物的數目
+3. A bounty was placed on wolves by the government. 政府提供獵狼的獎金
+4. The animals would decimate area livestock. 那種動物會屠殺地區內的家畜
+5. The wolves made a dramatic and beneficial impact on wildlife biodiversity in Yellowstone. 狼群對黃石公園裡野生動物的生物多樣性，有著極大的正面積極效應
+6. Coyotes had been the top predators in the ecosystem. 土狼成了生態系統中最上層的掠食者
+7. The decreased coyote population was a boon for rodent species. 土狼數目下降，對囓齒目動物是天賜的恩惠
+
+[Listened Article]
+In the 1980s a number of wildlife biologists and conservation groups fostered a movement to restore the great wolf to Yellowstone National Park. In the late 19th century, wolves were considered a new scene by park visitors. Hunters would often poison the carcass of a downed elk in attempt to decrease the wild canine population. A bounty was placed on wolves by the government, and by the 1920s the population was eliminated. Their reintroduction program was strongly protested by local ranchers who claimed that the animals would decimate area livestock. Despite the protest, the wolf restoration program began in 1995 with the release of 33 Canadian wolves into the park.
+
+The wolf population thrived in their new home with a population at the end of 1997 numbering approximately 97 and continuing to grow. In only two years after the wolves were transported from Canada to Wileomin Park, they reduced Yellowstone coyote population by almost 50 percent. In doing so, the wolves made a dramatic and beneficial impact on wildlife biodiversity in Yellowstone. In the absence of the wolves, coyotes had been the top predators in the ecosystem at the top of the local food chain along with the ?? bears. Their population had grown large but remained extremely stable. Part of reason for the coyotes' decline after the wolves were reintroduced may be territorial shifts - some of coyotes may have simply move out of Yellowstone. But the main reason for the downsize coyote population was probably death at jaws of the wolves. The decreased coyote population was a boon for rodent species, such as ground squirrels, vos, and pocket golfers which constituted most of the coyote diet. 
+
+[Real Article]
+In the 1980s a number of wildlife biologists and conservation groups fostered a movement to restore the grey wolf to Yellowstone National Park. In the late 19th century, wolves were considered a nuisance by park visitors; hunters would often poison the carcass of a downed elk in an attempt to decrease the wild canine population. A bounty was placed on wolves by the government, any by the 1920s the population was eliminated. The reintroduction program was strongly protested by local ranchers, who claimed that the animals would decimate area livestock. Despite the protest, the wolf restoration program began in 1995 with the release of 33 Canadian wolves into the park.
+
+The wolf population thrived in their new home, with the population at the end of 1997 number approximately 97 and continuing to grow. In only two years after the wolves were transported from Canada to Wyoming park, they reduced the Yellowstone coyote population by almost 50 percent. In doing so, the wolves made a dramatic and beneficial impact on wildlife biodiversity in Yellowstone. In the absence of the wolves, coyotes had been the top predators in the ecosystem, at the top of the local food chain, along with grizzly bears. Their population had grown large but remained extremely stable. Part of the reason for the coyotes decline after the wolves were reintroduced may be territorial shifts - some of the coyotes may have simply moved out of Yellowstone. But the main reason for the downsized coyote population was probably death at the jaws of the wolves. The decreased coyote population was a boon for rodent species, such as ground squirrels, voles, pocket gophers, which constituted most of the coyote diet.
+
+[Review]
++ foster
+	> 鼓勵 |Encourage the development of (something, especially something desirable)|
+	> 心懷 |Develop (a feeling or idea) in oneself.| appropriate praise helps a child foster a sense of self-worth
+	> 領養 |Bring up (a child that is not one's own by birth)| a person who would foster Holly was found
+* carcass
+	> 動物屍體 |The dead body of an animal.|
+	> 畜體 |The trunk of an animal such as a cow, sheep, or pig, for cutting up as meat.|
+	> 軀體 |A person's body, living or dead.| my obsession will last while there's life in this old carcass
+	> 骨架 |The structural framework of a building, ship, or piece of furniture.|
+	> 殘骸 |The remains of something.| automotive carcasses stripped of radios, hubcaps and even body panels
+- canine /ˈkeɪnʌɪn/ (adj)狗的/犬科的 (n)狗, 犬齒
+- livestock (mn)家畜 == Farm animals regarded as an asset.
+- coyote /kʌɪˈəʊti/  郊狼/土狼 == A wild dog that resembles the wolf, native to North America.
+- rodent (N)嚙齒目動物
+- nuisance 	/ˈnjuːs(ə)ns/ 
+- scene		/siːn/ 
+- ranch 大牧場/大農場 --> rancher 農牧場經營者或工人
+- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
+- downsize
+	> 縮小 |Make (something) smaller.| I downsized the rear wheel to 26 inches
+	> 裁員以縮小公司規模 |Make (a company or organization) smaller by shedding staff.| a TV news producer told what happened after her network downsized the newsroom
+	> 裁員 |(of a company) shed staff.| recession forced many companies to downsize
+- vole 田鼠
+- gopher	/ˈɡəʊfə/ 地鼠
+- golfer	/ˈɡɒlfə/ 
+- grizzly == grizzly bear 灰熊 == An animal of a large race of the brown bear native to North America.

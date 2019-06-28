@@ -1103,7 +1103,7 @@
         * disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
     
     chival, cheval, caval 馬 = horse
-        ++ /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand
+        ++ /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand, 傲慢的 = haughty
         - cavalry (n)騎兵, 裝甲部隊
         - /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
         + /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
@@ -1412,7 +1412,7 @@
             * discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
             * discontent (v)使不滿 = dissatisfy = displease = envy
             + discord
-            - disfigure (v)毀容 = mar = deform = deface
+            - disfigure
             - disfranchise (v)剝奪選舉權
             * disuse (n)不用/廢棄 = desuetude
             * dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱 --> dishonorable (adj)可恥的/卑鄙的 = ignoble
@@ -1646,7 +1646,7 @@
 
     dense 濃/密 = thick
         - dense (adj)密的 = compact = crowed, 強烈的 = extreme = intense, 愚鈍的 = stupid = dull = opaque
-        - condense (v)縮短 = abridge, 使濃縮 = encapsulate <--> rarefy, 使凝結 = congeal = coagulate
+        * condense (v)縮短 = abridge, 使濃縮 = encapsulate <--> rarefy, 使凝結 = congeal = coagulate
 
     duc, duce, duit, due 引導 = lead == agog
         - abduct (v)綁架/誘拐 <--> abduce
@@ -1662,7 +1662,7 @@
         - educe (v)引出 = elicit = develop, 推論 = infer = deduce
         - induce (v)誘使/勸說, 導致/引起, 引產/催生
         - induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
-        - introduce (v)採用/引進/推行, 介紹/引見
+        - introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
         - produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
         + productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
         + reproduce (v)繁殖/生殖 = propagate, 複製/翻拍/模仿/使重現
@@ -1695,7 +1695,7 @@
         - hypoderm (n)皮下組織
 
     dele, del 傷害/刪除 = hurt, injure, delete
-        + deleterious (adj)有害的 = corrosive = harmful = destructive = detrimenmtal <--> wholesome
+        + /ˌdɛlɪˈtɪərɪəs/ deleterious (adj)有害的 = corrosive = harmful = destructive = detrimenmtal <--> wholesome
         - delete (v)刪除/擦去
         - indelible (adj)擦拭不掉的/不可磨滅的
 
@@ -1923,11 +1923,11 @@
         + entail
         * entangle (v)捲入/連累 = mire = involve, 使纏住
         + enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
-        * entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
+        * /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
         + entertain
         - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
         * entrap (v)使投羅網, 欺騙
-        + entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) <-- en + trench
+        ++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) <-- en + trench
         + /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
         + entitle (v)使有權(做某事), 取名
         - entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
@@ -2004,7 +2004,7 @@
         + egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
         + equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
         - equation (n)等式
-        - equity (n)公平/公正, 股票/股本
+        - equity (n)公平/公正, 股價, 普通股, 抵押淨值
         - equilibrium
         + equanimity
         + equipoise (n)均衡/平衡 = equilibrium = poise (v)平衡 = balance <-- equi + poise
@@ -2120,7 +2120,7 @@
         - boldfaced (adj)公然的/厚顏無恥的 = brazen = flagrant, 粗體印刷的
         - facade (n)建築物的正面, (虛假的)外表
         + facet (n)琢面/小平面, 問題的一個方面
-        + /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant <|> fastidious
+        + /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant <|> fastidious <|> factitious
 
     fab, fable 說 = speak == dict == cent
         + affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = pleasant = genial = personable --> affability (n)
@@ -2142,22 +2142,22 @@
         + counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
         + defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
         + defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
-        * deficit (n)不足/缺乏 = deficiency, 赤字/虧損 --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
+        * deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的 --> deficiency (n)
         * deficiency (n)缺乏/缺少, 缺陷 = incompleteness
         * effect (n)效果, 影響, 意義 (v)造成/產生, 實現/達到
-        * effective (adj)有效的 = efficacious, 實際上的 --> effectiveness (n)有效
+        * effective (adj)有效的/生效的 = efficacious, 實際上的 --> effectiveness (n)有效
         * efficiency (n)效率, 功效 = efficacy
         + efficient (adj)效率高的/有能力的, 有效的
-        + efficacy (n)效力/功效 = effectiveness = efficiency --> efficacious (adj)有效的 = effective = potent = sovereign
-        + facile (adj)容易做的, 膚淺的/輕率的 = superficial, 好相處的 = affable = agreeable = complaisant
-        - facility (n)天資/才能, 容易/簡易/便利/方便, 設備/工具, (有特定用途的)場所, 功能 <-- facile
+        + /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency --> efficacious (adj)有效的 = effective = potent = sovereign
+        + facile (adj)容易做的 = effortless, 膚淺的/輕率的 = superficial
+        - facility (n)天資/才能, 容易/輕易/便利/方便, 設備/工具, (有特定用途的)場所 <-- facile
         + facilitate (v)使容易 = favor, 促進 <-- facility
         ++ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
         - factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
         + faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
+        + /fakˈtɪʃəs/ factitious (adj)人工的/不自然的 = artificial = facetious
         + /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
-        * feasance (n)履行/義務
-        + feasible (adj)可行的/可能的 = probable = likely, 合適的 = suitable
+        + feasible (adj)可行的/可能的/合適的 = probable = likely = suitable
         + feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
         - fiction (n)小說, 虛構/捏造
         * fictitious (adj)假的/假裝的, 虛構的 = imaginary = fabulous
@@ -2174,7 +2174,7 @@
         - refection (n)便餐/點心/茶點, （靠飲食等）恢復體力
         - refectory (n)學院餐廳/食堂
         - sacrifice
-        + surfeit (n)過量/過度 = glut (v)使過量, 反胃/過量飲食 = cloy
+        + surfeit (n)過量/過度 = glut (v)使過量/反胃/使厭膩 = cloy
         - suffice (v)足夠/滿足 --> sufficient (adj)足夠的/充分的 = adequate
 
     fer, fert 帶著/帶來 = carry, bear
@@ -2184,17 +2184,17 @@
         ++ deference (n)敬意/尊重 = respect = regard --> deferential (adj)順從的 = obedient = obsequious <-- defer
         * deferement (n)延期/推遲 <-- defer
         * differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
-        + differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish
+        + /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish
         * fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
         - fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
         - infertile (adj)不肥沃的/不毛的, 不育的
         + infer (v)推斷/推定 = deduce = deduct = conclude, 猜測 = guess = surmise = sepeculate, 暗示/暗指 = hint = imply = suggest = intimate
         + prefer (v)更喜歡/寧願, 提出（控告等） --> preference (n)偏愛/偏袒, 優先
-        - refer (v)把……歸於, 提交/交付, 論及/談到, 查閱/參考
+        - refer (v)提交/交付, 論及/談到, 查閱/參考, 不及格
         - referee (n)裁判員/仲裁者
         - somniferous
         - melliferous
-        - transfer (v)轉換/調動/調任/轉移/轉變/轉讓
+        - transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n)
 
     ferr 鐵 = iron
         - ferrous (adj)含鐵的
@@ -2202,18 +2202,18 @@
         - ferroconcrete (n)鋼筋混凝土/鋼筋水泥
 
     ferv, ferm 熱 = hot
-        + /ˈfəːvə/ fervent (adj)熱烈的/熱情的 --> fervor (n)熱烈/熱情 = ardor
-        + fervid (adj)熾熱的/熱情的 = fervent = passionate
+        + /ˈfəːvə/ fervent (adj)熱烈的/熱情的 
+        + fervid (adj)熾熱的 = hot = buring, 熱情的 = fervent = passionate --> fervor (n)熱情 = ardor
         - perfervid (adj)非常熱心的 = fervent
-        + effervesce (v)冒泡 = bubble = foam, 熱情洋溢 --> effervescence (n)冒泡, 熱情洋溢 = liveliness
-        - ferment (n/v)發酵, 騷動 = excite = agitate
+        + /ˌɛfəˈvɛs/ effervesce (v)冒泡 = bubble = foam, 熱情洋溢 --> effervescence (n)冒泡, 熱情洋溢 = liveliness
+        * /fəˈmɛnt/ ferment (v)使發酵 = leaven, 醞釀, 使騷動/煽動 = foment = inflame <|> /fə(ʊ)ˈmɛnt/ foment
 
     fend, fence, fense 打擊 = strike
         + defend (v)保衛/保護, 維護 = uphold
         + defense, defence (n)防禦/保衛, 辯護/辯護方
-        - offend (v)冒犯/觸怒/犯錯, 使不舒服
-        - offensive (adj)冒犯的/無禮的, 得罪人的/令人不快的, 進攻的 (n)進攻/攻勢
-        - offence, offense (n)違法行為, 冒犯, 攻擊/進攻方
+        - offend (v)冒犯/觸怒/犯錯, 使不舒服, 犯罪/犯法
+        - offensive (adj)冒犯的/無禮的, 令人不快的 = disgusting = repulsive, 進攻的 (n)進攻/攻勢
+        - offense, offence (n)違法行為, 冒犯, 攻擊/進攻方
         - fence, fense (n)籬笆
 
     fract, frac, frag 碎裂 = break == rupt
@@ -2224,19 +2224,19 @@
         - fragment (n)碎片 (v)成碎片
         - infraction (n)違法 = violation = infringement
         - refract (v)折射 --> refraction (n)折射
-        + refractory (adj)執拗的/倔強的/難以控制的 = disobedient, 有抵抗力的
+        + refractory (adj)執拗的/倔強的/難以控制的 = disobedient, 有抵抗力的/抗感染的/耐火的 (n)耐火材質
 
     femin 女性 = woman
-        - feminist (adj)主張男女平等的 (n)男女平等主義者
+        - feminist (adj)主張男女平等的 (n)男女平等主義者 = egalitarian
         * feminine (adj)女性特有的/女性的/陰性的 <--> masculine
-        - effeminate (adj)女人氣的/柔弱的
+        - effeminate (adj)女人氣的/柔弱的 = effete
 
     fid, fide 相信 = trust, faith
         - affidavit (n)宣誓書
-        - confide (v)吐露/傾訴(秘密)
+        - confide (v)吐露/傾訴/信任/託付
         + confident (adj)自信的/肯定的
-        - confidence (n)自信/把握, 信賴/信任, 秘密/知心話 --> confidential (adj)機密的 = esoteric
-        - fidelity (n)忠誠, 準確度/精確性/還原度 <|> perfidy
+        - confidence (n)自信/把握, 信賴/信任, 秘密/知心話
+        - confidential (adj)機密的 = esoteric
         + diffident (adj)缺乏自信的/羞怯的 = shy --> diffidence (n)缺乏自信
         + perfidy (n)不誠實/背信棄義 --> perfidious (adj)不忠的/背信棄義的 = faithless = disloyal = treacherous = traitorous
 
@@ -2245,9 +2245,9 @@
         - configuration (n)結構/格局/配置 = form = arrangement, 輪廓 = contour = outline
         - disfigure (v)損毀…的外觀/使毀容
         + effigy (n)（尤指被憎恨人的）肖像/雕像
-        - figure (n)數字, 輪廓/人影, 肖像/塑像, 圖/表 (v)認為, 出現/參加, 計算, 象徵
+        *** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵
         * figurative (adj)比喻的/借喻的 = metaphoric
-        - figurehead (n)有名無實的領導人/傀儡領袖
+        - figurehead (n)有名無實的領導人/傀儡領袖, 船首像
         - figurine (n)小雕像/小塑像
         - figment (n)虛構的事
         - prefigure (v)預示/預想/預見 = adumbrate = foreshadow
@@ -2278,29 +2278,29 @@
 
     firm 堅定
         + affirm (v)斷言/主張 = assert, 確認 = confirm = uphold = ratify
-        + confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate
+        ++ confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrench
         - infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
 
     fix 固定 = fasten
         - affix (v)黏上/附上 = stick = attach, (在末尾)添寫某事物 (n)詞綴
         - prefix (n)前綴
         - suffix (n)後綴/詞尾
-        + fixate (v)使固定/使不變/注視/凝視 =
+        + fixate (v)使固定/使不變/注視/凝視 
 
     flict 打擊 = knock
         - afflict (v)折磨/使苦惱 = plague = torture = rack
         - conflict (n/v)爭論/分歧/衝突, 戰鬥/打鬥
-        - inflict (v)使承受/遭受 --> inflicion (n)施加的痛苦
+        - inflict (v)給予打擊/使遭受 --> inflicion (n)施加的痛苦
 
     flu, fluct, fluv 流 = flow
         + affluent (adj)富裕的 = rich = prosperous = opulent <--> needy = impecunious = indigent
         - confluence (n)交匯/匯流點 = junction
-        - effluvium -> effluvia (n)惡臭, 廢料
+        - /ɪˈfluːvɪəm/ effluvium -> effluvia (n)惡臭, 廢料
         + fluctuate (v)波動/變動 = vacillate = waver --> fluctuation (n)不斷變動, 波動 = undulation
         - fluvial (adj)河流的, 生在河中的
         + flux (n)不斷的變動, 動盪不定
         - influx (n)注入/湧入
-        + superfluous (adj)過多的/多餘的 = excessive = redundant --> superfluity (n)額外, 過剩 = plethora
+        +++ superfluous (adj)過多的/多餘的 = excessive = redundant --> superfluity (n)額外/過剩 = plethora <|> superficial
 
     fluoro, fluor 螢光/氟
         - fluorite (n)螢石/氟石
@@ -2317,7 +2317,7 @@
         + flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
 
     front 前面/臉面 = forehead
-        - affront (v)侮辱/冒犯 = insult = abuse = slight = indignity (n) = provocation (n)
+        - affront (v)侮辱/冒犯 = insult = abuse = offend
         - confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
         + effrontery (n)厚顏無恥/放肆 = impudence = presumptuousness
 
@@ -4812,6 +4812,7 @@
 
     phen, phan, pha 出現 = appear == appar
         - emphasis (n)強調/重視/重點 --> emphatic (adj)強調的/重視的, 有力的
+        + epiphany (n)一瞬的顯現
         + diaphanous
         - phantom (n)幽靈/鬼魅, 幻象 = visionary
         - phanerogam (n)顯花植物

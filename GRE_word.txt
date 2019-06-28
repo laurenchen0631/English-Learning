@@ -162,6 +162,7 @@
     ++ beguile (v)欺騙/誆騙, 使著迷/使分心 = charm = divert = hypnotize = fascinate = mesmerize, 度過(愉快的時光)
     + behemoth (n)龐然大物, 強大的事物 = leviathan
     ++ belie (v)掩飾 = misrepresent, 證明為假 = disprove = contradict
+    + besotted (adj)入迷的
     * bend -> bent -> bent (v)彎曲 = curve, 屈服
     + bent (n)嗜好 = penchant = affinity = bias = inclination, 特長/天賦 = predisposition = characteristic = talent = aptitude = flair, 忍耐限度 = capacity of endurance (adj)彎曲的, 不誠實的, 同性戀的 
     + betray (v)背叛/不忠, 暴露/流露 = reveal = bare
@@ -192,6 +193,7 @@
     ++ bound (adj)極有可能的/必然的, 受束縛的/受約束的, 前往…的 (v)跳躍/跳動, 成為…的界線
     ++ bounty (n)獎金/獎賞 = premium = reward, 慷慨 = generosity --> bountiful (adj)慷慨的 = munificent = generous, 大量的 = abundant = generous = ample = rife
     + /ˈbəʊvʌɪn/ bovine (adj)牛的, 遲鈍的/蠢笨的 = stolid = dull = blunt <-- bov, bos 牛
+    + /ˈbaʊdlərʌɪz/ bowdlerize (v)刪節/刪改
     + brag (v)吹噓/誇耀 = boast = vaunt = vapor --> braggart (n)吹噓者/自誇者 = blowhard
     + brandish (v)威脅地揮舞 = wave = flourish = wield <|> blandish
     + breathtaking (adj)極其刺激的/美得驚人的/驚人的
@@ -461,6 +463,7 @@
     + crony (n)親信/密友 --> cronyism (n)任人唯親/任用親信 = nepotism
     + croon (v)柔聲低唱/吟唱/低語
     + crumble (v)弄碎, 崩潰/逐漸瓦解 = disintegrate gradually <|> crumb
+    + crystallize (v)結晶, 成形/使具體化
     + culminate (v)達到最高點/高潮 --> culmination (n)頂點/高潮 <|> clumsy <|> calumny <-- culmin 頂點 = peak, top + ation
     ++ cunning (adj)狡猾的/狡詐的 = artful = crafty = canny = sly = subtle = wily, 靈巧的 = ingenious = shrewd (n)狡猾/奸巧, 靈巧/熟練 = dexterity = adeptness
     + /kjuːˈpɪdɪti/ cupidity (n)貪心/貪婪 = avarice = greed <-- cup 渴望 + idity
@@ -774,6 +777,7 @@
     + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準
     + /ˌiːtɪˈɒlədʒi/ etiology, aetiology (n)追本溯源, 原因論, 病原學 <-- aeti, eti 原因 = cause
     + etymon (n)詞源/字根 --> etymology (n)字源學/詞源學
+    + ether (n)乙醚, 以太, 蒼穹 --> ethereal (adj)天上的/非人間的/超凡的, 縹緲的/優雅的
     + evenhanded (adj)公平的 = impartial = equitable = disinterested = fair = candid
     + /ɪɡˈzamɪn/ examine (v)細看 = scrutinize, 研究, 測驗, 調查/打聽 = inquire = investigate, 審問 = interrogate
     + /ɪɡˈzɛmpləm/ exemplum (n)例證/範例 = example = model --> exemplar (n)榜樣/楷模 = paragon --> exemplary (adj)可作楷模的 --> exemplify (v)作為…的典例, 用例子說明 = illustrate
@@ -822,7 +826,6 @@
     ^ esophagus (n)食管/食道
     ^ espionage (n)間諜活動 <-- espion [法]間諜 = spy + age
     ^ espy (v)(從遠處)突然看見, 窺探/窺見 <-- [法]間諜 = spy
-    ^ ether (n)乙醚, 以太, 蒼穹 --> ethereal (adj)天上的/非人間的/超凡的, 飄逸的/輕巧的, 縹緲的/優雅的
     ^ even (adj)平的, 整齊的, 相等的, 平穩的, 恰好, 偶數的 (v)弄平, 使相等 = equate
     ^ ewe (n)母羊
     ^ ewer (n)大口水罐 = pitcher
@@ -854,6 +857,7 @@
     ++ /ˈfætʃuəs/ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
     + /ˈfɔːnə/ fauna (n)動物群
     + /fɔːn/ fawn (n)未滿周歲的小鹿 (v)向某人表示親熱/搖尾乞憐/諂媚 = adulate
+    ++ fell (v)砍倒 = cut down, 擊倒 = knock down (n)木材量 (adj)邪惡的/致命的
     ++ feckless (adj)無效的/無用的 = ineffective = incompetent = futile, 不負責任的/莫不關心的 = irresponsible = indifferent = flighty <-- feck 效用 = effect + less
     + feeble (adj)虛弱的 = frail = wan = debilitated = faint, 軟弱的, 薄弱的/站不住腳的
     + /feɪn/ feign (v)假裝/假冒 = dissemble = pretend, 捏造 = concoct <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
@@ -916,7 +920,6 @@
     * /fəˈtiːɡ/ fatigue (n)疲勞/精疲力盡 = lassitude = languor (v)使疲勞 = exert --> fatigued (adj)疲乏的 = weary = languid --> fatigable (adj)易疲勞的
     *** favor (n)善行/幫助, 贊同, 偏好 = prefer, 贈禮 (v)贊同, 偏袒, 有利於 = facilitate, 贈與/給予 = bestow, 施恩/幫助 = oblige = aid = support, 像/相似 = resemble
     *** favorable (adj)贊同的 = positive, 討人喜歡的 = pleasing, 有利的 = propitious = advantageous, 吉利的 = propitious
-    * /fəˈmɛnt/ ferment (v)使發酵 = leaven, 醞釀, 使騷動/煽動 = foment = inflame <|> /fə(ʊ)ˈmɛnt/ foment
     * /ˈfɛstə/ fester (v)潰爛/化膿
     * /fjuːd/ feud (n)世仇/宿願, 不和/爭吵 = quarrel = contention (v)世代結仇, 爭吵 <-- foe
     * feudal (adj)封建的
@@ -2056,6 +2059,7 @@
     ++ polemic (N)爭論/辯論/論戰 --> polemical (adj)論爭的/好爭論的 = quarrelsome <-- polem 戰爭 = war + ic 
     + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 = refinement = elegance --> polished (adj)有光澤的 = glossy= smooth, 優美的, 有文化的 = refined = cultured = elegant = fine
     + politic (adj)有策略的 = tactful = diplomatic, 權宜的 = expedient <-- polity
+    + pontificate (v)武斷地表示意見 --> pontifical (adj)自以為是的 = pompous = pretentious, 武斷的 = dogmatic
     ++ /pɔː/ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
     ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客, 命運/定數 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion
     + portray (v)描繪/描述 = limn = delineate = depict
@@ -2214,8 +2218,6 @@
     ^ pollinate (v)給...授粉 --> pollination (n)授粉
     ^ poncho (n)斗篷, 雨衣
     ^ pontiff (n)羅馬教宗/主教/教皇
-    ^ pontifical (adj)自以為是的 = pompous = pretentious, 武斷的 = dogmatic
-    ^ pontificate (v)武斷地表示意見
     ^ porcelain (n)瓷/瓷器
     ^ porcupine (n)豪豬
     ^ posit (v)斷定/認為 = postulate
