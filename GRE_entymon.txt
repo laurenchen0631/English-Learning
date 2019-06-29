@@ -972,7 +972,7 @@
         - chromatic (adj)色彩的/顏色的, 五彩的, 半音的
         - chromatron (n)彩電顯像管
         - chromosome (n)染色體
-        - chromium (n)鉻
+        - chrome, chromium (n)鉻
         - fluorochrome (n)螢光染料
         - monochrome (adj)單色的/黑白的 (n)單色畫/黑白相片 --> monochromatic (adj)單色的
 
@@ -1436,6 +1436,7 @@
             - disembody (v)脫離實體 --> disembodied (adj)無實體的, 空洞的 = fluffy
             - disengage (v)解開/使脫離
             - disentangle (v)解決/解開
+            - disgorge (v)嘔出 = vomit, 大量排放/流出, 不情願地提供/被迫交出, 去除酒中的沈澱物 <--  dis + gorge 喉嚨
             - disgust --> disgusting
             * dishearten (v)使洩氣/使沮喪 = daunt = discourage
             - disillusion (v)醒悟/使幻想破滅 = disenchant
@@ -1592,7 +1593,7 @@
         + documentary (adj)紀實的/記錄的, 文件的/文書的 (n)紀錄片
 
     dole, dol 悲傷 = sorrow
-        - condolence (n)弔唁/慰問
+        * condolence (n)弔唁/慰問
         - doleful (adj)悲傷的 = mournful
         + dolorous (adj)憂傷的
         +++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) = sloth <|> insolent
@@ -1621,7 +1622,7 @@
     dorm 睡 = sleep
         + dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
         * dormancy (n)休眠狀態/冬眠 = torpor
-        - dormitory (n)宿舍 = dorm room
+        - dormitory (n)宿舍 = dorm = dorm room
         - dormouse (n)榛睡鼠
 
     dors, dos 背 = back
@@ -1657,13 +1658,13 @@
         +++ conduct (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
         + conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
         - conduit (n)渠道/引水道/水管
-        - deduce (v)演繹/推斷 = deduct = conclude = infer
         + deduct (v)減去/扣除 = subtract, 演繹 = deduce = conclude = infer --> deductive (adj)推理的 --> deduction (n)演繹/推論, 扣除 = subtraction
+        - deduce (v)演繹/推斷 = deduct = conclude = infer
         - duct (n)管線, (人體的)管/導管
         - educate (v)教育/培養
         - educe (v)引出 = elicit = develop, 推論 = infer = deduce
-        - induce (v)誘使/勸說, 導致/引起, 引產/催生
         - induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
+        - induce (v)誘使/勸說, 導致/引起, 引產/催生
         - introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
         - produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
         + productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
@@ -1930,7 +1931,7 @@
         + entertain
         - enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
         * entrap (v)使投羅網, 欺騙
-        ++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) <-- en + trench
+        ++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirm <-- en + trench
         + /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
         + entitle (v)使有權(做某事), 取名
         - entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
@@ -2056,9 +2057,9 @@
         - adolescent (adj)青春期的 (n)青少年 = juvenile = teenager <-- adol 成長 = grow + escent
         - efflorescent
         + evanesce --> evanescent
-        - senescent (adj)老邁的 <-- sen 老 = old + escent
         - fluorescent
         + obsolescent
+        - senescent (adj)老邁的 <-- sen 老 = old + escent
 
 [F]
     for 拒絕/禁止/阻止 = reject, prohibit
@@ -2070,7 +2071,7 @@
         + forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
         + forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate, 背棄
 
-    fore 前面 = before, front, superior
+    fore, forth 前面 = before, front, superior
         - forebode (v)預示/預感 = foretell = predict <-- fore + bode
         - forecast (v/n)預報/預測
         - forefront (n)最顯要的位置/最重要的地位 = foreground
@@ -2307,7 +2308,7 @@
 
     fluoro, fluor 螢光/氟
         - fluorite (n)螢石/氟石
-        - fluorescent (adj)螢光的/發光的 --> fluorescence (n)
+        * fluorescent (adj)螢光的/發光的 --> fluorescence (n)
         - fluorometry (n)螢光計
         - /ˈflɔːriːn/ fluorine (n)氟
         - /ˈflɔːrʌɪd/ fluoride (n)氟化物
@@ -2410,25 +2411,24 @@
 
 [G]
     glomer 球 = ball of yarn
-        - agglomerate (v)聚集 = aggregate = assemble
+        - agglomerate (v)聚集 = aggregate = assemble (n)團塊
         - conglomerate (v)凝聚成團 (n)礫岩, 企業集團
 
     grand, grandi 大 = great, large
         + aggrandize (v)增大/擴大, 吹捧 = acclaim
         + grandeur (n)宏偉/壯麗
-        - graniose (adj)宏偉的, 浮誇的/誇張的 = grandiloquent
         + /ɡranˈdɪləkwənt/ grandiloquent (adj)誇張的/浮誇的 = pompous = bombastic = pretentious = exaggerate (v)
         + grandiose (adj)壯麗的, 華而不實的 = meretricious = overblown = pompous --> grandiosity (n)浮誇
         + grandstand (n)大看台 (v)譁眾取寵
 
     grav, griev 重/沈重 = heavy
         * aggravate (v)加重/惡化 = exacerbate
-        - grave (adj)嚴峻的/嚴重的 = serious (v)雕刻, 銘記 (n)墓穴, 死亡
+        ++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn (n)墓穴, 死亡
         - gravel (n)碎石/砂礫
         - gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
         - gravitation (n)引力/吸引 --> gravitational (adj)引力的/重力的
         * grieve (v)使悲傷/使苦惱 --> grievance (n)不滿, 抱怨
-        + grievous (adj)悲傷的, 極嚴重的 = grave = flagrant = outrageous
+        ++ grievous (adj)悲傷的, 極嚴重的 = grave = flagrant = outrageous
         - grief (n)憂傷/悲傷
         - aggrieve (v)使痛苦 = afflict
 
@@ -2443,11 +2443,11 @@
         - aggression (n)侵略 = invasion, 攻擊 = assult = raid
         + aggressive (adj)好鬥的 = belligerent = assertive = militant, 積極進取的
         - aggressor (n)侵略者 = assailant = invader
-        + digress (v)離題 --> digression (n)離題/脫軌
+        + digress (v)離題 --> digression (n)離題/脫軌 = excursion
         ++ egress (N)外出, 出口/出路 (v)離開
         - ingredient (n)成分/原料
         - progress (n/v)進步/進展 = advance = proceed = boost
-        - regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的
+        - regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的 <|> recessive
         + transgress (v)違反/違背, 侵犯/越過 --> transgression (n)違反/違法/罪過
 
     gnost, gnor, gnosis 知道 = know
@@ -2464,7 +2464,7 @@
         - bibliography
         - calligraphy (n)書法 <-- calli 美麗的 = beautiful + graphy
         - cryptogram
-        - demographic
+        + demography --> demographic
         - diagram
         - discography (n)音樂作品集, 音樂唱片分類目錄/音樂唱片分類學 <-- disc 錄音/唱片 + o + graphy
         - engram (n)記憶痕跡 = memory trace
@@ -2485,8 +2485,8 @@
         - grateful (adj)感激的 <|> grate
         + gratify (v)使高興, 使滿意/使滿足 = satisfy = indulge = humor --> gratification (n)喜悅/滿足 --> gratifying (adj)愉悅的/令人滿足的 = pleasing
         - gratitude (n)感激 = thankfulness
-        - gratulate (v)祝賀 --> gratulant (adj)祝賀的
-        * gratuity (n)打賞/小費 --> gratuitous (adj)無理由的/無端的, 免費的/無償的
+        * gratuity (n)打賞/小費 = tip
+        * gratuitous (adj)無理由的/無端的, 免費的/無償的
         * ungrateful (adj)不感激的, 討厭的
         + ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
         + ingratiate (v)逢迎/討好 --> ingratiating (adj)討好的/諂媚的
@@ -2497,9 +2497,9 @@
         - geology (n)地質學
 
     gender, gener, gen, genu 產生/生/種類 = beget, born
-        - carcinogen (n)致癌物質
-        + congenial (adj)意氣相投的 = compatible, 友善的/令人愉快的 = amiable = agreeable = friendly <-- con + genius + al
-        + engender (v)產生/引起 = produce = cause = beget, 生育 = beget = procreate = reproduce
+        * carcinogen (n)致癌物質
+        ++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
+        + engender (v)產生/引起 = produce = cause = beget
         + eugenics (n)優生學
         - general (adj)一般的 = generic, 普遍的/全體的, 將軍級的
         - generality (n)概述
@@ -2516,12 +2516,14 @@
         * genus (n)類/種類
         - genre (n)文藝作品之類型
         + genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
-        - indigenous (adj)土產的, 本地的 = native = endemic, 天生的 = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
-        + ingenious (adj)製作精巧的/巧妙的 = subtle = clearly inventive --> ingenuity (v)巧妙/精巧
+        + homogeneous --> homogeneity
+        - indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
+        + ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
+        + ingenuity (n)足智多謀的/心靈手巧
         + ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
         - lactogenic
         - octogenarian
-        - progeny (n)後代/子女 = descendant
+        * progeny (n)後代/子女 = descendant
 
     gene, gen 基因
         - gene (n)基因
@@ -2529,29 +2531,24 @@
         - genesis (n)創始/起源
         - genetic (adj)遺傳的, 起源的 --> genetics (n)遺傳學
         - genome (n)基因組/染色體組 = gene + ome 群組
-        + homogeneity --> homogeneous
 
     germ 芽/菌 = sprout
-        - germ (n)微生物/細菌/病菌, 胚/胚芽, 起源/萌芽
-        - germule (n)小胚芽
-        - german (adj)同父母的
+        * germ (n)微生物/細菌/病菌, 胚/胚芽, 起源/萌芽
+        - germicide
+        - germule, gemmule (n)小胚芽
         - germane (adj)有密切關係的, 貼切的/適當的 = appropriate
         - germinate (v)發芽, 形成/產生
         - germinal (adj)幼芽的, 原始的/未成熟的
-        - germicide
 
     gest 帶來/帶著 = carry, bear == fer
-        * congest (v)使充滿/使擠滿/使壅擠, 充血
+        * congest (v)使充滿/使擠滿/使壅擠, 充血 --> congestion (n)壅擠, 充血
         - digest (v)消化, 理解/吸收 (n)文摘/摘要 --> digestion (n)消化/消化能力
-        - ingest (v)攝取/嚥下 --> ingestion (n)攝取/吸收
+        - ingest (v)攝取/嚥下, 吸收 --> ingestion (n)攝取/吸收
 
     gru 一致 <-- gree
-        + congruent (adj)符合的/一致的 = agreeing = accordant = congruous = harmonious, (數學)全等的
-        + congruous (adj)一致的/符合的 = congruent = harmonious --> congruity (n)適合/一致
+        + congruent (adj)符合的/一致的 = agreeing = accordant = congruous = harmonious, (數學)全等的 <|> incongruent
+        + congruous (adj)一致的/符合的 = congruent = harmonious --> congruity (n)適合/一致 <|> incongruous
         + incongruous --> incongruity
-
-    gorg, gorge 喉嚨
-        - disgorge (v)嘔出 = vomit, 大量排放/流出, 不情願地提供/被迫交出
 
     gust 品嚐 = taste
         - disgust (n/v)反感/厭惡
@@ -2723,7 +2720,7 @@
 
     homo, homeo 相同 = similar
         + homeostasis (n)體內平衡
-        + homogeneity (n)同種/同質 --> homogeneous (adj)同種的/同質的/相似的 = similar = identical
+        + homogeneous (adj)同種的/同質的/相似的 = similar = identical --> homogeneity (n)同種/同質 
         - homogenize (v)使均勻
 
     hum 地 = earth
@@ -3022,7 +3019,7 @@
             - inroad (n)襲擊/突襲
             - inscribe
             - insider (n)局內人/圈內人
-            - insidious
+            + insidious
             + insight (n)洞悉/深入了解 --> insightful (adj)富有洞察力的 = perceptive
             - insignia
             + insinuate (v)暗指/暗示 = imply = suggest = allude <-- in + sinuous + ate
@@ -4136,7 +4133,7 @@
 
     ore, ora 講話 = speak, beg == dic == cant == fable == log == nounce
         * adore (v)崇拜/敬仰/熱愛 = admire = acclaim
-        * exorable (adj)可說服的 = susceptible
+        * exorable (adj)可說服的 = susceptible <|> exonerate
         + inexorable
         * oral (adj)口頭的/口述的, 口的/口服的/口腔的 (n)口試
         - oration (n)演講/致辭 = harangue = speech
@@ -4185,7 +4182,7 @@
         - anorexia (n)厭食症
         
     oner 負擔 = burden
-        + exonerate (v)證明無罪 = exculpate, 免除責任 = exempt
+        + exonerate (v)證明無罪 = exculpate, 免除責任 = exempt <|> exorable
         + /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing, 負有義務的
 
     orbit 軌道 = wheel track
@@ -5845,7 +5842,7 @@
     sid, sess, sed, sedi 坐 = sit
         + /əˈsɪdjʊəs/ assiduous (adj)勤勉的/專注的 = diligent = sedulous <|> acidulous
         + dissident (n)唱反調者 = dissenter (adj)不同意的 = disagreeing = dissenting 
-        - insidious (adj)陰險的/狡詐的 = cunning
+        + insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
         + obsess (v)迷住 = preoccupy = haunt, 使窘困/使煩擾
         - preside (v)主持/擔任主席, 負責, 指揮 --> president (n)總統, 校長
         - reside (v)居住 --> resident (n)居民 (adj)定居的/常駐的
