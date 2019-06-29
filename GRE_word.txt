@@ -210,6 +210,7 @@
     + burnish (v)擦亮/磨光/改善 = polish = ameliorate <|> tarnish <|> furnish <-- brown 法文
     ^ butt (n)屁股 = buttocks, 煙蒂, 槍托 (v)用頭或角頂撞
     + buttress (n)拱牆/扶壁 (v)支撐(物體) = reinforce = prop, 支持(想法或論點) = bolster = support
+    + /bɪˈzantʌɪn/ byzantine (adj)錯綜複雜的 = intricate = complex --> Byzantine (adj)拜占庭式的/東羅馬帝國的
 
     * /ˈbab(ə)l/ babble (v)喋喋不休/胡言亂語 = prate = prattle = drivel = yap (n/v)潺潺 (n)吵雜聲
     * /ˈbʌb(ə)l/ bubble (n)氣泡, 經濟泡沫 (v)冒泡
@@ -378,7 +379,6 @@
     ^ byline (n)報刊雜誌的署名行
     ^ byproduct (n)副產品, 副作用
     ^ bystander (n)旁觀者 = beholder = onlooker
-    ^ byzantine (adj)錯綜複雜的 = daedal = complex, 難變更的
 
     ^ bony (adj)瘦削的, 骨頭的
     ^ boulevard (n)大街/大道
@@ -774,7 +774,7 @@
     ++ estimable (daj)值得尊重的 = admirable, 可估價的/可估計的
     + estrange (v)使疏遠 = alienate, 使遠離 --> estranged (adj)疏遠的, 分開的 <-- [義]陌生 = strange
     + /ˈiːθɒs/ ethos (n)(個人、團體或民族的)道德觀/精神特質/價值觀 = disposition
-    + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準
+    + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準 <|> ethnic
     + /ˌiːtɪˈɒlədʒi/ etiology, aetiology (n)追本溯源, 原因論, 病原學 <-- aeti, eti 原因 = cause
     + etymon (n)詞源/字根 --> etymology (n)字源學/詞源學
     + ether (n)乙醚, 以太, 蒼穹 --> ethereal (adj)天上的/非人間的/超凡的, 縹緲的/優雅的
@@ -883,6 +883,7 @@
     ++ flounder (v)掙扎/處於困境 (n)比目魚 <-- flounce + founder
     ++ /flaʊt/ flout (v)藐視[法律] = contempt = scorn = disdain = belittle = trifle, 嘲弄 = mock = scoff = gibe = jibe = burlesque = jest = scorn = trifle <-- flute 長笛
     + fluke (n/v)僥倖/僥倖成功/僥倖獲得 (n)錨爪, 魚叉的倒鉤, 比目魚, 吸蟲
+    + fulminate (v)猛烈抨擊/嚴厲譴責 = inveigh = rant = rail, 爆炸 = explore = detonate <-- fulmin 閃電 = lightning
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
     + foment (v)煽動 = instigate = foster = incite = arouse = ferment
     + /ˈfɒrɪdʒ/ forage (n)(牛馬的)飼料/糧草, 搜索/搜尋 = rummage --> forager (n)為動物尋找飼料的人 <-- fodder
@@ -2310,6 +2311,7 @@
     + rage (n)狂怒/盛怒, 肆虐, 狂熱, 風行 (v)發怒, 肆虐/激烈進行, 流行/盛行
     ++ rail (V)咒罵/猛烈指責 = rant = inveigh = fulminate, 用鐵路運輸 (n)欄杆, 鐵軌
     + /ˈreɪm(ə)nt/ raiment (n)衣飾/衣裳 = clothing = garments
+    + rakish (adj)瀟灑的/放蕩的 = jaunty = dissolute
     ++ /ˈramɪfʌɪ/ ramify (v)分支/分叉 --> ramification (n)分枝/分派 = branch, 延伸性影響/結果 = implication = consequence = outgrowth <-- ram 分枝 = branch + ify
     ** ramp (v)用後腳立起/躍立, 橫衝直撞/暴跳 (n)斜面/斜坡/坡道, 野韭葱
     ++ rampant (adj)猛烈的 = raging = furious, 繁茂的/蔓生的, 蔓延的/猖獗的 = prevailing = unchecked = rife <-- ramp
@@ -2374,7 +2376,6 @@
     ^ rafter (n)椽
     ^ rag (n)舊布/碎布, 破舊衣服 --> ragged (adj)破爛的
     ^ raisin (n)葡萄乾
-    ^ rakish (adj)瀟灑的 = jaunty, 放蕩的 = dissolute
     ^ ram (n)公羊 (ｖ)撞擊/猛擊
     ^ rambunctious (adj)騷亂的/喧鬧的, 興奮控制不了的
     ^ rampage (n/v)暴跳/橫衝直撞/狂亂 <-- ramp
