@@ -41,7 +41,6 @@
 	- oxygen
 	- hydrogen 氫氣
 	- methane /ˈmɛθeɪn/ 甲烷
-	- ammonia 氨
 	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
 	- nitric 硝酸
 	- fluoride 氟化物
@@ -57,6 +56,7 @@
 	- steroid /ˈstɛrɔɪd/ 類固醇
 	+ collagen /ˈkɒlədʒ(ə)n/ 膠原蛋白 <-- colla = glue + gen
 	- amino acid 胺基酸
+	- ammonia /əˈməʊnɪə/ 氨
 	- molecule /ˈmɒlɪkjuːl/ 分子
 	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
 	- noble gases 高貴氣體 == inert gases 惰性氣體
@@ -90,6 +90,7 @@
 	- spectral
 		> 鬼的/像鬼的 |Of or like a ghost.| a spectral, menacing face
 		> 光譜的 |Of or concerning spectra or the spectrum.|
+	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/  (adj)微粒的 (n)微粒狀物質
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
@@ -154,7 +155,6 @@
 	- estradiol 雌二醇
 	- estrogen 雌激素
 	- groin (n)鼠蹊部
-	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的
 	- pancreas 胰臟
 	- gallbladder 膽囊
 	- urethra 尿道
@@ -219,6 +219,7 @@
 	- barred spiral galaxy 棒旋星系
 	- spiral galaxy 螺旋星系
 	- elliptical galaxy 橢圓星系
+	- ecliptic (n)黃道 (adj)黃道的
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

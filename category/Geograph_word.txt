@@ -2,8 +2,6 @@
 	- suburb == An outlying district of a city, especially a residential one.
 	- suburbia 近郊/郊外居民 == The suburbs or their inhabitants viewed collectively.
 	- continent /ˈkɒntɪnənt/
-	- temperate zone 溫帶
-	- tropic 熱帶
 	- the tropics == The region between the tropics of Cancer and Capricorn.
 	- ridge	
 		> 山脊 |A long, narrow hilltop, mountain range, or watershed.| the North-East ridge of Everest
@@ -15,10 +13,36 @@
 	- county (n)郡
 	- Gondwanaland 岡瓦那大陸
 	- Laurasia 勞拉西亞大陸
-	- Mediterranean climate 地中海型氣候
 	- topography
 		> 地形/地貌 |The arrangement of the natural and artificial physical features of an area.|
 		> 地形圖 |A detailed description or representation on a map of the physical features of an area.|
+	- latitude --> latitudinal
+		> 緯度 |The angular distance of a place north or south of the earth's equator, or of the equator of a celestial object, usually expressed in degrees and minutes.| at a latitude of 51° N
+		> 餘地/自由 |Scope for freedom of action or thought.| journalists have considerable latitude in criticizing public figures
+		> 曝光寬容度 |The range of exposures for which an emulsion or printing paper will give acceptable contrast.|
+	- latitudes 緯度地區 == Regions, especially with reference to their temperature and distance from the equator.
+		> temperate latitudes
+		> northern latitudes
+	- the Northern Hemisphere 北半球
+	- the Western Hemisphere 西半球
+	- the North Pole 北極點，又叫北極，用於稱呼地球上的地理北極
+
+[Landscape]
+	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
+	- geyser /ˈɡʌɪzə/ == A hot spring in which water intermittently boils, sending a tall column of water
+	- hot springs
+	- steppe 大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
+	- permafrost 永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
+	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
+	- temperate zone 溫帶
+	- tropic 熱帶
+	- tundra 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
+	- landmass 整塊陸地/大陸 == land mass == A continent or other large body of land.
+	- expanse /ɪkˈspans/ <--> expense /ɪkˈspɛns/
+		> 廣袤的地區 |A wide continuous area of something.| the green expanse of the forest
+		> 展開的距離 |The distance to which something expands or can be expanded.| the moth has a wing expanse of 20 to 24 mm
+	* landform 地形/地貌 == A natural feature of the earth's surface.
+	
 
 [Race]
 	- African American 非裔美國人
@@ -105,7 +129,6 @@
 	- The Pentagon 五角大廈，美國國防部所在地
 
 [World]
-	- the Western Hemisphere
 	- North Central Africa
 	+ Spanish 西班牙
 	+ Spaniard 西班牙人 == A native or inhabitant of Spain
@@ -212,6 +235,7 @@
 	- Tasmania 塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
 	- Greenland 格陵蘭，是世界第一大島，大約81%都被冰雪覆蓋
 	- the Far East 遠東，以西歐為中心，東歐、東南歐、北非、安納托利亞稱為「近東」，東非、黎凡特、阿拉伯半島、中亞一帶稱為「中東」，西伯利亞、東亞、中南半島、馬來群島等其餘更遠的東方稱為「遠東」
+
 [Festival]
 	- maypole 五朔節花柱
 	- Ivan Kupala 伊凡·庫帕拉節，是聖若翰洗者慶晨在斯拉夫文化的版本，是當地人民慶祝夏至的節日。
@@ -221,3 +245,4 @@
 [Ocean]
 	- the Pacific Ocean
 	- the Andaman Sea 安達曼海，又名緬甸海，是一個孟加拉灣東南部的水體，
+	- Caspian Sea 裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體

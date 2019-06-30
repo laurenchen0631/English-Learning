@@ -1451,6 +1451,7 @@
             - dismay (v)沮喪/氣餒
             * disobedient (adj)不服從的/不聽話的 = contumacious = rebellious = insubordinate = wayward = froward
             * disorder (n)混亂/淩亂, 失調/紊亂, (政治)暴亂/動亂/騷亂 = anarchy
+            * disown (v)否認/拒絕承認/斷絕關係
             + disparage
             + disparate --> disparity
             + dispassionate (adj)冷靜的/沈著的/公平的 = disinterested
@@ -6139,7 +6140,7 @@
 
     tain, tin 拿著 = hold, keep
         ++ abstain (v)戒除(菸酒) = forbear, 棄權 = refrain from voting --> abstinence (n)禁食 = continence --> abstention (n)戒除 --> abstentious (adj)禁慾的 = ascetic
-        - attain (v)獲得/達到/實現 = achieve --> attainment (n)成就
+        *** attain (v)獲得/達到/實現 = achieve --> attainment (n)成就
         - contain (v)包含/含有, 克制/控制(情緒), 阻止/抑制(有害物蔓延) = restrain --> containment (n)阻止/遏制
         + continent (adj)有自制力的 = temperate (n)洲/大陸 --> continence (n)自制/節制 = self-restraint = abstinence = temperance = moderation
         + continuity (n)連續性/連貫性 <|> contin
@@ -6891,7 +6892,7 @@
         - viaduct (n)高架橋
     
     vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
-        - convect (v)空氣對流
+        - convect (v)空氣對流 --> convection (n) --> convective (adj)
         + convex (adj)凸的/凸起的 <--> concave 
         + inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently <|> inveigle
         + invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory 

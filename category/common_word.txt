@@ -12,7 +12,7 @@
 	+ address oneself to 針對 == to focus on a certain problem or situation.
 		> I needed to address myself to the burst pipe in my basement—that's why I didn't attend the dinner party.
 		> She addressed herself to all of them. 她是針對他們大家說的。 
-	> the main problem to which it has addressed itself has been how it is possible for young children to ....
+		> the main problem to which it has addressed itself has been how it is possible for young children to ....
 	- affect 
 		> |Have an effect on; make a difference to.| the dampness began to affect my health
 		> |Touch the feelings of; move emotionally.| he was visibly affected by the tragedy
@@ -68,6 +68,14 @@
 		> 全面理解 |A full understanding of a situation.| the bank's lack of appreciation of their problems
 		> 增值 |Increase in monetary value.| the appreciation of the dollar against the pound
 	- appliance 器具/設備 == A device or piece of equipment designed to perform a specific task.
+	+ aspect
+		> 面向 |A particular part or feature of something.| personal effectiveness in all aspects of life
+		> 觀點 |A particular way in which something may be considered.| from every aspect theirs was a changing world
+		> 外觀/樣子 |A particular appearance or quality.| ‘the air of desertion lent the place a sinister aspect
+		> 方位/面向 |The positioning of a building or other structure in a particular direction.|
+		> 時態 |A category or form which expresses the way in which time is denoted by a verb|
+	+ amongst == among
+	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
 	
 [B]
 	- but
@@ -272,6 +280,8 @@
 		> |The action of committing a crime or offence.| the commission of an arrestable offence
 	- continue Ving
 		> In the last century, use of these fuels totaled almost half of that used in the preceding 19 centuries and consumption is expected to continue growing, by about 25 percent by the year 2000.
+	- continual (adj)重複多次的/頻頻的, 不間斷的 == Forming a sequence in which the same action or event is repeated frequently.
+	- continuous (adj)連續的/不斷的
 	- close
 	- closing 最後的/結尾的 == Bringing something to an end; final.
 	- close down == shutter == cease or cause to cease business or operation, especially permanently.
@@ -282,6 +292,10 @@
 	- close call 即將到來的災難 == a situation in which something bad, unpleasant, or dangerous almost happens, but you manage to avoid it
 		> It was a close call for residents when a tornado swept through just west of the town.
 		> Getting to the airport on time was a close call.
+	+ cope
+		> 處理 |(of a person) deal effectively with something difficult.| his ability to cope with stress
+		> 法衣/斗篷式長袍 |A long, loose cloak worn by a priest or bishop on ceremonial occasions.|
+		> 遮蓋物 |(in building) cover (a joint or structure) with a coping.|
 	- click
 		> |Make or cause to make a short, sharp sound as of a switch being operated or of two hard objects coming smartly into contact.| the key clicked in the lock and the door opened
 		> |A short, sharp sound as of a switch being operated or of two hard objects coming smartly into contact.|
@@ -345,6 +359,10 @@
 		> 改正 |The action or process of correcting something.| I checked the typing for errors and sent it back for correction
 		 修正量 |A quantity adjusting a numerical result to allow for a departure from standard conditions.| isotopic ratios are presented normalized to NBS SRM981 using a fractionation correction of 0.101% per a.m.u
 		> 懲治/懲罰 |Punishment, especially that of criminals in prison intended to rectify their behaviour.| the incompatibility of justice and correction as penal objectives has long been the major unsolved problem of penal practice
+	+ correspond
+		> 符合/一致 |Have a close similarity; match or agree almost exactly.| the carved heads described in the poem correspond to a drawing of Edgcote House
+		> 相當/相應 |Be analogous or equivalent in character, form, or function.| the rank of Feldwebel in the German forces nominally corresponded to the British rank of sergeant
+		> 通信 |Communicate by exchanging letters.| Margaret corresponded with him until his death
 	- change
 		> (使)改變 |Make or become different.| a proposal to change the law
 		> |An act or process through which something becomes different.| the change from a nomadic to an agricultural society
@@ -493,6 +511,23 @@
 		> 比目魚 |A small, commercially important flatfish found chiefly in the North Atlantic.|
 		> |A dance move or gesture, originating in hip hop and often performed as part of a celebration, in which one arm is bent at an angle across the upper chest while the other is fully extended parallel to the first arm, with the face turned towards the bent elbow.|
 	+ dispose of == Get rid of by throwing away or giving or selling to someone else.
+	+ draft
+		> 草圖/草稿 |A preliminary version of a piece of writing.| the first draft of the party's manifesto
+		> 起草 |Prepare a preliminary version of (a document)|
+		> 選派 |Select (a person or group of people) and bring them somewhere for a certain purpose.|
+		> 匯票/匯款單 |A written order to pay a specified sum.|
+		> 徵兵 |Compulsory recruitment for military service.|
+		> 徵召 |Conscript (someone) for military service.|
+		> 選拔制度 |A procedure whereby sports players are made available for selection or reselection by the teams in a league, usually with the earlier choices being given to the weaker teams.|
+		> |Select (a player) for a sports team through the draft.|
+	+ draft /drɑːft/ == draught /drɑːft/ 
+		> 氣流 |A current of cool air in a room or other confined space.| heavy curtains at the windows cut out draughts
+		> 一口氣 |A single act of drinking or inhaling.| she downed the remaining beer in one draught
+		> 服用量 |A quantity of a liquid with medicinal properties.| a sleeping draugh
+		> 吃水深度 |The depth of water needed to float a ship.| the shallow draught enabled her to get close inshore
+		> |The drawing in of a fishing net.|
+		> 桶裝的 |Denoting beer or cider served from a barrel or tank rather than from a bottle or can.| draught ale
+		> 能負重物的 |Denoting an animal used for pulling heavy loads.| a draught horse
 	- drift
 	* drift off 漸漸入睡 == o gradually start to sleep
 		> I couldn't help drifting off in the middle of that lecture - it was so boring!
@@ -518,6 +553,7 @@
 	* deputy
 		> 代理人 |A person who is appointed to undertake the duties of a superior in the superior's absence.|
 		> 國會代表 |A parliamentary representative in certain countries.|
+	- dew /ˈdjuː/ (n)露水 (v)用露水弄濕
 	- docket
 		> 一覽表 |A list of cases for trial or people having cases pending.| one new case on the docket from Florida
 		> 列入 |Enter (a case) on a list of those due to be heard.| the case may be docketed for the fall term
@@ -535,6 +571,10 @@
 		> 矮子 |A very short person.|
 		> 使顯得渺小 |Cause to seem small or insignificant in comparison.| the buildings surround and dwarf All Saints church
 		> 阻礙..的發展 |Stunt the growth or development of.| the insurance industry is still battling with a number of challenges that have dwarfed its growth
+	+ deplore 譴責/強烈反對 == Feel or express strong disapproval of (something)	
+		> many critics deplore his methods
+		> we deplore all violence
+
 [E]
 	- -esque 似 == (forming adjectives) in the style of; resembling.
 	- estimate /ˈɛstɪmeɪt/ V
@@ -556,7 +596,10 @@
 		> We edged away from the dirty man in the ragged clothes. As others saw the gun, they edged away.
 	- engage in 參加/參與 == to take part in something
 		> The two governments have agreed to engage in a comprehensive dialogue to resolve the problem.
-
+	* equipment
+		> 配備/裝備 |The necessary items for a particular purpose.| suppliers of office equipment
+		> 裝配 |The process of supplying someone or something with necessary equipment.| the construction and equipment of new harbour facilities
+		> 才能/知識/能力 |Mental resources.| they lacked the intellectual equipment to recognize the jokes
 [F]
 	- fan -> fanned -> fanned
 		> 風扇 |An apparatus with rotating blades that creates a current of air for cooling or ventilation.| a couple of ceiling fans, lazily turning
@@ -858,6 +901,13 @@
 		> 即將的/接近的 |Nearest in time, relationship, or rank.| no changes are envisaged in the immediate future
 		> 直接的 |(of a relation or action) without an intervening medium or agency; direct.| coronary thrombosis was the immediate cause of death
 		> 直覺的 |(of knowledge or reaction) gained or shown without reasoning; intuitive.|
+	+ intermediate /ˌɪntəˈmiːdɪət/ 
+		> 中介的/中間的 |Coming between two things in time, place, character, etc.| an intermediate stage of development
+		> |An intermediate thing.| Since in evolutionary theory, fully fledged cells had to exist before viruses, the latter are not some evolutionary intermediate between life and non-life.
+		> 作中間人/干預 |Act as intermediary; mediate.| groups which intermediated between the individual and the state
+		> 中等的 |Having or suitable for a level of knowledge or skill between basic and advanced.| an intermediate course
+		> 中級者 |A person at an intermediate level of knowledge or skill.| photography courses for beginners and intermediates
+		> 中間物 |A chemical compound formed by one reaction and then taking part in another, especially during synthesis.| a pathway leading to the formation of reactive intermediates
 	- icing on the cake 錦上添華(icing 裝飾糖霜)
 	- intrigue
 		> 吸引 |Arouse the curiosity or interest of; fascinate.| I was intrigued by your question
@@ -1079,6 +1129,7 @@
 		> 利基 |A specialized segment of the market for a particular kind of product or service.|
 		> 特定的 |Denoting or relating to products, services, or interests that appeal to a small, specialized section of the population.| other companies in this space had to adapt to being niche players
 	- northerly (adj/adv)向北的, 北的(風) (n)北風
+	- nevertheless == In spite of that == notwithstanding == all the same.
 	
 [O]
 	- occur
@@ -1168,6 +1219,11 @@
 		> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
 		> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
 
+	+ possess /pəˈzɛs/ 
+		> 擁有 |Have as belonging to one; own.| I do not possess a television set
+		> 具有 |Have as an ability, quality, or characteristic.| he did not possess a sense of humour
+		> 附身 |(of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions.| she was possessed by the Devil
+		> 支配 |(of an emotion, idea, etc.) dominate the mind of.| I was possessed by a desire to tell her everything
 	- pull
 	- pull of
         > |Withdraw from an undertaking.| he was forced to pull out of the championship because of an injury
@@ -1201,6 +1257,21 @@
 		> he was no longer privy to her innermost thoughts
 		> Several professionals interviewed by Kotaku privy to the financials of esports organizations say they do not know what their organizations’ long-term revenue plans are.
 	* predominately == largely == mainly == mostly
+	+ prime
+		> 主要的 |Of first importance; main.| a nurse's prime concern is the well-being of the patient
+		> 優質的/一流的/最合適的 | Of the best possible quality; excellent.| prime cuts of meat
+		> 互質的 |(of a number) divisible only by itself and unity (e.g. 2, 3, 5, 7, 11).|
+		> 質數 |A prime number.|
+		> 巔峰/全盛時期/青春 |The state or time of greatest vigour or success in a person's life.| you're in the prime of life
+		> 使準備好/為..事先提供消息 |Prepare (someone) for a situation, typically by supplying them with relevant information.| the sentries had been primed to admit him without challenge
+		> 使準備好 |Make (something) ready for use or action.|
+		> 裝填火藥 |Prepare (a firearm or explosive device) for firing or detonation.|
+		> 塗底漆 |Cover (a surface) with a primer.|
+		> 啟動(幫補) |Pour or spray liquid into (a pump) before starting in order to seal the moving parts and facilitate its operation.|
+		> 上油 |Inject extra fuel into (the cylinder or carburettor of an internal combustion engine) in order to facilitate starting.|
+	- progression
+		> 發展 |The process of developing or moving gradually towards a more advanced state.| good opportunities for career progression
+		> 連續 |A number of things in a series.| the vista unfolds in a progression of castles and vineyards as seemingly endless as the Rhine itself
 	- pass
 	- pass for 被視為 == be accepted as == be considered
 		> "Symphonic jazz" and most of the other music that passed for jazz in the 1920's was not real jazz at all.
@@ -1275,6 +1346,15 @@
 	- plunk down
 		> 突然丟下 |to put down usually firmly or abruptly| plunked the items down on the counter
 		> 付 |to pay out| reluctant to plunk down the money for a new car
+	+ plunge
+		> 跳水 |Jump or dive quickly and energetically.| our little daughters whooped as they plunged into the sea
+		> |An act of jumping or diving into water.| fanatics went straight from the hot room to take a cold plunge
+		> 投入 |Embark impetuously on a speech or course of action.| he came to a decision, and plunged on before he had time to reconsider it
+		> 暴跌 |Suffer a rapid decrease in value.| shares in the company plunged 18p on news that profits had fallen
+		> |A swift and drastic fall in value or amount.| the central bank declared a 76% plunge in its profits
+		> 推入/塞入 |Push or thrust quickly.| he plunged his hands into his pockets
+		> 浸泡 |Quickly immerse in liquid.| to peel fruit, cover with boiling water and then plunge them into iced water
+		> 陷入 |Suddenly bring into a specified condition or state.c| for a moment the scene was illuminated, then it was plunged back into darkness
 	- point
 	- pointedly （通常用來表示批評或不滿）顯然地 == In a direct and unambiguous way, often indicating criticism or displeasure.
 		> > He pointedly ignored her after the show.
@@ -1366,6 +1446,21 @@
 	+ reasonably
 		> 合理地 |In a sensible way.| he began to talk calmly and reasonably about his future
 		> 相當地 |To a moderate or acceptable degree; fairly.| she played the piano reasonably well
+	+ realize
+		> 察覺/了解 |Become fully aware of (something) as a fact; understand clearly| he realized his mistake at once
+		> 使發生/使成真 |Cause to happen.| his worst fears have been realized
+		> 達成/實現 |Achieve (something desired or anticipated); fulfil.| it is only now that she is beginning to realize her potential
+		> 實現 |Give actual or physical form to.| the stage designs have been beautifully realized
+		> 獲利 |Make (a profit) from a transaction.| she realized a profit of $100,000
+		> 售得 |Be sold for.| the drawings are expected to realize £500,000
+		> 變賣 |Convert (an asset) into cash.| he realized all the assets in her trust fund
+	- refer
+	+ refer to 提及/關於 == ​to talk or write about someone or something
+		> I refer to your letter of 13 March, 2011.
+		> The new salary scale only refers to company managers and directors.
+	+ refer to A as B 把A稱作B
+		> The fixed price includes an amount of compensation, which is generally referred to as a concession or discount.
+		> The control unit and ALU usually are referred to as a processor, or central processing unit (CPU)
 	- referral
 		> 提及/參考 |An act of referring someone or something for consultation, review, or further action.|
 		> 轉診 |The directing of a patient to a medical specialist by a GP.|
@@ -1492,6 +1587,19 @@
 		> 划 |Act as the stroke of (a boat or crew)|
 		> |Move one's hand with gentle pressure over (a surface), typically repeatedly; caress.|
 		> 中風 |A sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis.| he was left disabled by a stroke
+	+ stake /steɪk/ 
+		> 樁 |A strong wooden or metal post with a point at one end, driven into the ground to support a plant, form part of a fence, mark a boundary, etc.|
+		> 以樁支撐 |Support (a plant) with a stake or stakes.| the gladioli were staked in gaudy ranks
+		> 賭金 |A sum of money or something else of value gambled on the outcome of a risky game or venture.| the stakes are high with a six-figure bonanza in television rights in the balance
+		> 下注 |Gamble (money or something else of value) on the outcome of a game or race.| one gambler staked everything he'd got and lost
+		> 股本/股份 |A share or interest in a business, situation, or system.| GM acquired a 50 per cent stake in Saab
+		> 給予援助 |Give financial or other support to.| he staked him to an education at the École des Beaux-Arts
+		> 有獎賽馬 |A horse race in which all the owners of the racehorses running contribute to the prize money.|
+		> 賽馬獎金 |Prize money, especially in horse racing.|
+		> 競賽 |A situation involving competition in a specified area.| we will keep you one step ahead in the fashion stakes
+	- stake something out == Mark an area with stakes so as to claim ownership of it.
+		> the boundary between the two manors was properly staked out
+		> Elena was staking out a role for herself as a formidable political force
 	- stem from
 		> In another case stemming from Indiana, a law requires an ultrasound 18 hours before the abortion procedure, essentially requiring a two-day process. 
 	- spin -> spun -> spun
@@ -1691,6 +1799,11 @@
 		> 忽視 |Ignore (someone) deliberately; snub.| the stars are notorious for stiffing their hosts and sponsors at banquets
 		> 殺 |Kill (someone)| I want to get those pigs who stiffed your doctor
 		> 失敗 |(of a commercial venture or product) be unsuccessful.| as soon as he began singing about the wife and kids, his albums stiffed
+	+ subject to
+		> 可能會經歷 |likely to experience or suffer from something| If the plants are growing well, they'll be less subject to pests.
+		> 等待...的發生 |If an action or event is subject to something, it needs something to happen before it can take place| The agreement is still subject to approval by the League's 30 teams and the players.
+	+ be subjected to 經歷了/必定會經歷
+		> intermediate latitudes are subjected to changes intermediate between those of the poles and the equator
 [T]
 	* tap
 		> 水龍頭 |A device by which a flow of liquid or gas from a pipe or container can be controlled.|
@@ -1895,6 +2008,12 @@
 		> |A combination of a couple with a force along its axis.|
 	- whereas (conj)鑑於/相較之下 == In contrast or comparison with the fact that.
 		> you treat the matter lightly, whereas I myself was never more serious
+	- whirl /wəːl/ 
+		> 旋轉 |Move or cause to move rapidly round and round.| leaves whirled in eddies of wind
+		> |A rapid movement round and round.|
+		> 瘋狂的活動 |Frantic activity of a specified kind.| the event was all part of the mad social whirl
+		> 螺旋狀的點心 |A specified kind of sweet or biscuit with a spiral shape.|
+		> 疾駛/飛跑 |Move or cause to move rapidly.| Sybil stood waving as they whirled past
 	- wear out
 		> |to make someone feel very tired| She was worn out from looking after her elderly mother.
 		> |to use something a lot so that it no longer works, or can no longer be used| The children have all worn out their shoes.
