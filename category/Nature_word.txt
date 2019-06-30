@@ -20,12 +20,12 @@
 	- botanist /ˈbɒt(ə)nɪst/ 植物學家 == An expert in or student of the scientific study of plants.
 	- geostationary 與地球同步旋轉的
 	- genome 基因組
-	- summer solstice 夏至
-	- solstice 至點
-	- Equator 赤道
-	- Tropic of Cancer 北回歸線
-	- Tropic of Capricorn 南回歸線
-	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
+	- hibernate 冬眠 == (of an animal or plant) spend the winter in a dormant state.
+	- knuckle --> knuckly
+		> 指關節 |A part of a finger at a joint where the bone is near the surface, especially where the finger joins the hand.|
+		> 四足獸膝關節 |A projection of the carpal or tarsal joint of a quadruped.| 
+		> 肘/蹄 |A joint of meat consisting of the knuckle of an animal together with the adjoining parts.|
+		> 用指關節摩擦或壓 |Rub or press (something, especially the eyes) with the knuckles.|
 
 [Animal]
 	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -37,7 +37,6 @@
 	- elk 駝鹿/麋鹿/美洲赤鹿 
 	* mule /mjuːl/ (n)騾子, 固執的人
 	- moth 蛾
-	- squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
 	- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
 	- wasp 黃蜂/馬蜂
 	- walrus 海象
@@ -63,13 +62,33 @@
 	- koala 無尾熊
 	- numbat 袋食蟻獸
 	- chimpanzee /tʃɪmpanˈziː/ 黑猩猩
+	- parrot (n)鸚鵡 (v)機械式地模仿
+	- snowshoe hare 白靴兔
+	- caribou /ˈkarɪbuː/ 馴鹿
+	- lynx /lɪŋks/ 山貓
+	- sea otter 海獺
+	- wolverine 貂熊
+	- caiman, cayman 鱷魚 == A semiaquatic reptile similar to the alligator but with a heavily armoured belly, native to tropical America.
+	- moose 駝鹿
 
-[Ocean]
+[Bounty]
+	- tusk 長牙/獠牙
+	- antler /ˈantlə/ 鹿角
+	- baleen 鯨鬚 == whalebone
+	- taxidermist 剝製師
+
+[Aquatic]
 	- sardine 沙丁魚 == A young pilchard or other young or small herring-like fish.
 	- orca 殺人鯨 == killer whale
 	- bottlenose dolphin 寬吻海豚屬
 	- beluga whale 白鯨
 	- cetacean (n)鯨類動物 (adj)鯨類的
+	- coral
+		> 珊瑚 |A hard stony substance secreted by certain marine coelenterates as an external skeleton, typically forming large reefs in warm seas.|
+		> 紅珊瑚 |Precious red coral, used in jewellery.|
+		> 珊瑚蟲 |A sedentary coelenterate of warm and tropical seas, with a calcareous, horny, or soft skeleton. Most corals are colonial and many rely on the presence of green algae in their tissues to obtain energy from sunlight.|
+		> 龍蝦卵 |The unfertilized roe of a lobster or scallop, which is used as food and becomes reddish when cooked.|
+	- squid 烏賊 == An elongated, fast-swimming cephalopod mollusc with eight arms and two long tentacles, typically able to change colour.
 
 [Plant]
 	* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -101,6 +120,10 @@
 	- bachelor buttons 矢車菊
 	- calyx 花萼
 	- latex 乳膠 == A milky fluid found in many plants, such as poppies and spurges, which exudes when the plant is cut and coagulates on exposure to the air. The latex of the rubber tree is the chief source of natural rubber.
+	- spruce
+		> 雲杉 |A widespread coniferous tree which has a distinctive conical shape and hanging cones, widely grown for timber, pulp, and Christmas trees.|
+		> 整潔的 |Neat in dress and appearance.|
+	- boreal forest 北方針葉林， 北方針葉林是陸上最大的生物群系，陽光照射充足、氣候乾旱。全年溫度界乎-40－20℃，夏季平均10℃。全年雨量300-900毫米。
 
 [Landscape]
 	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow

@@ -78,6 +78,7 @@
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
 	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
 	- polymer 聚合物
+	- vinyl 乙烯基
 
 [Physical]
 	- wavelength 波長
@@ -86,6 +87,9 @@
 	- waveform 波形 
 	+ /ɪnfrəˈrɛd/ infrared (Adj)紅外線的
 	- magnetic field 磁場
+	- spectral
+		> 鬼的/像鬼的 |Of or like a ghost.| a spectral, menacing face
+		> 光譜的 |Of or concerning spectra or the spectrum.|
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
@@ -110,6 +114,7 @@
 	- deltoid 三角肌
 	- quadriceps 股四頭肌
 	- waist 腰/腰身
+	- groin 腹股溝/男性陰部
 	- hormone 賀爾蒙
 	- testosterone 睪酮
 	- acne /ˈakni/ 粉刺
@@ -193,6 +198,16 @@
 	- thermal inversion 逆溫現象
 	* glaciation 冰河作用
 	- El Niño 聖嬰現象
+	- summer solstice 夏至
+	- solstice 至點
+	- Equator 赤道
+	- Tropic of Cancer 北回歸線
+	- Tropic of Capricorn 南回歸線
+	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
+	- meridian
+		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth's surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
+		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth's surface.|
+		> 經脈 |(in acupuncture and Chinese medicine) each of a set of pathways in the body along which vital energy is said to flow.| the slow movements and postures of t'ai chi open up and align the meridians of the body
 
 [Universe]
 	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth

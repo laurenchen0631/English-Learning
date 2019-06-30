@@ -9,7 +9,9 @@
 	- chief executive 首席執行官
 	- the general manager 總經理
 	- chairman 議長/委員長/董事長
+	- board member 董事會成員
 	- VP == Vice President
+	- executive director 執行董事
 	- CFO == Chief Financial Officer
 	- COO == Chief Operating Officer
 	- benefits manager 企業福利主管
@@ -56,7 +58,23 @@
 		> 工頭/領班 |A male worker who supervises and directs other workers.|
 		> 陪審團主席 |(in a law court) a person who presides over a jury and speaks on its behalf.|
 	- brain trust 智囊團/顧問團/諮詢團 == a group of people who advise a leader
-
+	* paycheck 薪水/薪資單
+	+ proprietary
+		> 所有人的/所有權的 |Relating to an owner or ownership.| the company has a proprietary right to the property
+		> 專利的/專賣的 |(of a product) marketed under and protected by a registered trade name.|
+	- spokesperson 發言人/代言人 == spokesman or spokeswoman
+	- outsource 外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
+	- steward
+		> 服務員 |A person employed to look after the passengers on a ship, aircraft, or train.|
+		> 膳務員 |A person responsible for supplies of food to a college, club, or other institution.|
+		> 幹事/籌備員 |An official appointed to supervise arrangements or keep order at a large public event, for example a race, match, or demonstration.|
+		> 籌備 |(of an official) supervise arrangements or keep order at (a large public event)|
+		> 工會代表 |shop steward|
+		> 管理 |Manage or look after (another's property)|
+		> 財產管理人/管家 |A person employed to manage another's property, especially a large house or estate.|	
+	- proprietary eponym 通用商標
+	- genericide 通用商標 == The process by which a brand name loses its distinctive identity as a result of being used to refer to any product or service of its kind.
+	
 [House]
 	- butler == The chief manservant of a house.
 	- manor 莊園 == A large country house with lands.
@@ -73,11 +91,13 @@
 	- venture capital 創業投資 == VC
 	- mortgage 抵押貸款 == A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.
 	- real estate 房地產
+	- real estate investment trusts 不動產投資信託
 	- hedge fund 避險基金，又稱對沖基金或套利基金
 	- capex == Capital expenditure 資本支出
 	- Ponzi scheme 龐氏騙局，是指以虛假的投資項目作招徠，並以後來投資者的資金，支付給最初投資者作利潤，以營造高回報假象
 	- pyramid scheme 金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
 	- multi-level marketing (MLM)
+	- private equity 私募股權，指的是公司透過私下，而非公開募集的方式，向特定的少數人來籌集資金 
 	- private equity firms 私人股本公司
 	- inflation
 		> |The action of inflating something or the condition of being inflated.| the inflation of a balloon
@@ -91,7 +111,26 @@
 		> ADV |As a whole and in an indiscriminate way.| the safety clauses seem to have been taken wholesale from union documents
 		> ADJ |Done on a large scale; extensive.| the wholesale destruction of these animals by poachers
 	- tariff 關稅 == A tax or duty to be paid on a particular class of imports or exports. 
-
+		- foreclosure 取消贖回權 == The action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
+	- mortgage
+		> 抵押 |A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.|
+		> |Convey (a property) to a creditor as security on a loan.| the estate was mortgaged up to the hilt
+		> 抵押借款 |The amount of money borrowed in a mortgage.|
+	- the housing crash == housing bubble 房市泡沫化
+	- equity
+		> 公平 |The quality of being fair and impartial.| equity of treatment
+		> 股價 |The value of the shares issued by a company.|
+		> 普通股 |Stocks and shares that carry no fixed interest.|
+		> 抵押淨值 |The value of a mortgaged property after deduction of charges against it.|
+	- mom-and-pop == used to describe a small business that is owned and operated by members of the same family
+	- money loser 不賺錢的東西 == a product, service, or business that does not make a profit
+		> The phone is a money loser for all the companies that hold an exclusive licence to sell it.
+	- mortgage-backed securities 住房抵押貸款證券
+	- pension fund 社會保障基金
+	- insurer 保險業者 == A person or company that underwrites an insurance risk; the party in an insurance contract undertaking to pay compensation.
+	- Alt-A 美國的房貸市場中，依照借貸人的信用等級來分，可區分為信用較高的主要(Prime)房貸、信用普通的Alt A(另類)貸款，與信用較低的次級(Subprime)房貸。
+	- grace period 延緩期/寬限期 == extra time you are given to pay money you owe without losing something or paying an additional amount
+	- auto loan 汽車貸款
 [Law/Crime]
 	- the Supreme Court 最高法院
 	- Chief Justice 首席大法官，美國聯邦政府司法部門的領袖並主管美國最高法院。首席大法官是美國最高司法官員，領導最高法院的事務並在彈劾美國總統時主持參議院
@@ -189,11 +228,15 @@
 	- extradition 引渡 == The action of extraditing a person accused or convicted of a crime.
 	- /ˈfjuːdʒɪtɪv/ fugitive (n)逃犯 (adj)轉瞬即逝的
 	+ inmate 囚犯/住院者 == A person living in an institution such as a prison or hospital.
-	- lease
-		> 租約 |A contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.|
-		> 租給 |Grant (property) on lease; let.| she leased the site to a local company
-		> 租 |Take (property) on lease; rent.| land was leased from the Duchy of Cornwall
-
+	- felony 重罪 == A crime regarded in the US and many other judicial systems as more serious than a misdemeanour.
+	- burglary 破門竊盜
+	- auto theft 竊車 == The theft of a motor vehicle
+	- garnish 
+		> 裝飾 |Decorate or embellish (something, especially food)| garnish each serving with a dollop of sour cream
+		> 法院發出的讓第三債務人向判定債權人付還債務的命令 |Serve notice on (a third party) for the purpose of legally seizing money belonging to a debtor or defendant.| He told me hes gotten this type of call before over the years regarding this situation and they never garnish him
+		> |Seize (money, especially part of a person's salary) to settle a debt or claim.| the IRS garnished his earnings
+	- lien 留置權 == A right to keep possession of property belonging to another person until a debt owed by that person is discharged.
+	
 [Army/Weapon]
 	- captain
 	- lieutenant 中尉/少尉, 海軍上尉 
@@ -223,7 +266,7 @@
 	- luggage check 行李托運
 	* luggage /ˈlʌɡɪdʒ/ == baggage
 	- cockpit 座艙/駕駛艙 == A compartment for the pilot
-	- van 有蓋小貨車
+	+ van 有蓋小貨車
 	- stagecoach 接驛馬車 == A large closed horse-drawn vehicle formerly used to carry passengers and often mail along a regular route between two places.
 	- parachute /ˈparəʃuːt/ 降落傘
 	- bail out == to jump out of an aircraft with a parachute because the aircraft is going to have an accident
@@ -237,6 +280,7 @@
 	- diesel motor 柴油引擎
 	- hydraulic fluid 液壓油
 	- number plate 車牌
+	- motorboat 汽艇
 
 [Agriculture/Farming]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
@@ -337,6 +381,9 @@
 	- corkscrew (n)開瓶器, 螺旋狀的東西 (v)作螺旋式移動
 	- spork 叉勺
 	- petroleum jelly 凡士林，一種石油膠的通用商標
+	- stove 爐灶 == An apparatus for cooking or heating that operates by burning fuel or using electricity.
+	- fridge == refrigerator 冰箱
+	- countertop 爐台 == A flat surface for working on, especially in a kitchen; a worktop.
 
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
@@ -367,7 +414,9 @@
 		> 同音字 |A word that has the same sound as another.|
 	- punctuation /pʌŋ(k)tʃʊˈeɪʃ(ə)n/ 標點符號
 	- ballad	/ˈbaləd/ 民謠/民歌 == A poem or song narrating a story in short stanzas. Traditional ballads are typically of unknown authorship, having been passed on orally from one generation to the next.
-
+	- trope
+		> 轉義/比喻 |A figurative or metaphorical use of a word or expression.| ‘my sense that philosophy has become barren is a recurrent trope of modern philosophy
+		> 主題 |A significant or recurrent theme; a motif.| she uses the Eucharist as a pictorial trope
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -380,6 +429,7 @@
 	- orthodontist 牙齒矯正醫師
 	- gynecologist 婦科醫生 == A physician or surgeon qualified to practice in gynecology.
 	- anesthesiologist 麻醉師
+	- ObGyn == obstetrician-gynecologist 婦產科醫生 == a doctor who specializes in women’s health
 	* veterinary /ˈvɛtrɪn(ə)ri／ (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
 	- plaque
 		> 飾版/匾 |An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.|
@@ -402,6 +452,7 @@
 	+ respiratory /rɪˈspɪrət(ə)ri/ 呼吸的/呼吸器官的
 	- pneumonitis /ˌnjuːmə(ʊ)ˈnʌɪtɪs/  肺炎
 	- rhinotracheitis /ˌrʌɪnə(ʊ)treɪkɪˈʌɪtɪs/ 鼻氣管炎
+	- congestive heart failure 充血性心力衰竭/慢性心臟衰竭
 	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
 	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
 	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
@@ -410,6 +461,7 @@
 	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
 	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
 	- manic depression 躁鬱症
+	- paranoia (n)偏執狂/妄想狂, 疑神疑鬼/多疑
 	- rabies /ˈreɪbiːz/ 狂犬病 --> rabid (adj)患有狂犬病的, 瘋狂的
 	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
 	- stillborn 死胎的 == (of an infant) born dead
@@ -433,6 +485,7 @@
 	- laceration == A deep cut or tear in skin or flesh.
 	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.s
 	- tourniquet 止血帶 == A device for stopping the flow of blood through a vein or artery, typically by compressing a limb with a cord or tight bandage.
+	- catheterization 導管插入術
 	- sanitizer 洗手液
 	- first aid kit 急救箱
 	- hemostatic == stopping of a flowss of blood.
@@ -486,7 +539,7 @@
 		>> 自我 |The part of the mind that mediates between the conscious and the unconscious and is responsible for reality testing and a sense of personal identity.| <--> id <--> superego
 	- fight-or-flight response 戰鬥或逃跑反應 == hyperarousal == acute stress response == a physiological reaction that occurs in response to a perceived harmful event, attack, or threat to survival
 	- pharmaceuticals == A compound manufactured for use as a medicinal drug.
-	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
+	- outpatient 門診病人 == A patient who attends a hospital for treatment without staying there overnight.
 	- oxygen cylinder 氧氣瓶
 	- psychiatric hospital 精神科醫院
 	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
@@ -659,6 +712,7 @@
 		> 毛刷 |A device for separating and dressing textile fibres.|
 		> 雞冠 |The red fleshy crest on the head of a domestic fowl, especially a cock.|
 		> 徹底搜查 |Search carefully and systematically.| police combed the area for the murder weapon
+	- prom dress == 舞會禮服
 
 [Art]
 	- the Mona Lisa
@@ -677,6 +731,8 @@
 		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
 		> 膠畫法 |A method of mural and poster painting using distemper.|
 		> |Paint with distemper.|
+	- Dadaist (adj)達達主義的 (n)達達主義者
+	* ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
 	
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -721,7 +777,7 @@
 		> |A gathering or collection of people, animals, or things.|
 		> |a permanent committee of the College of Cardinals.|
 		> |A group of people obeying a common religious rule but under less solemn vows than members of the older religious orders.|
-	- cult /kʌlt/
+	* cult /kʌlt/
 		> 膜拜 |A system of religious veneration and devotion directed towards a particular figure or object.| 
 		> |A person or thing that is popular or fashionable among a particular group or section of society.|
 		> 邪教/異教 |A relatively small group of people having religious beliefs or practices regarded by others as strange or as imposing excessive control over members.|
@@ -764,6 +820,11 @@
 	- deism /ˈdeɪɪz(ə)m/ 自然神論 == Belief in the existence of a supreme being, specifically of a creator who does not intervene in the universe.
 	- pantheism /ˈpanθiːɪz(ə)m/ 泛神論 == A doctrine which identifies God with the universe, or regards the universe as a manifestation of God.
 	- Unitarian (adj)一位論派 (n)一位論派教徒 ==  person who asserts the unity of God and rejects the doctrine of the Trinity.
+	- séance, seance 降靈會 == A meeting at which people attempt to make contact with the dead, especially through the agency of a medium.
+	- devout
+		> 虔誠的 |Having or showing deep religious feeling or commitment.| she was a devout Catholic
+		> 誠摯的/忠心的 |Totally committed to a cause or belief.| the most devout environmentalist
+
 [Engineer]
 	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
 	- mechanic == A skilled worker who repairs and maintains vehicle engines and other machinery.
@@ -781,6 +842,7 @@
 [School]
 	- sophomore == A second-year university or high-school student.
 	- studies programs 課程 <--> study program 研究計畫
+	- liberal arts 博雅教育，又譯為文理教育、人文教育、 通才教育、全人教育、通識教育、素質教育
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -794,6 +856,7 @@
 		> 政府/政權 |A government, especially an authoritarian one.| ideological opponents of the regime
 		> 制度 |A system or ordered way of doing things.| the day is windy, the swathes should be high and narrow
 		> 養生法 |A coordinated programme for the promotion or restoration of health; a regimen.|
+	- regimen 療法/生活制度 == A prescribed course of medical treatment, diet, or exercise for the promotion or restoration of health.
 	- vassal 諸侯/封臣 == A holder of land by feudal tenure on conditions of homage and allegiance.
 	- governor
 		>> 州長/總督/統治者 |An official appointed to govern a town or region.| 
@@ -852,7 +915,8 @@
 	- mayor
 		> 鎮長/區長 |(in England, Wales, and Northern Ireland) the head of a town, borough, or county council, elected by council members and generally having purely ceremonial duties.|
 		> 市長 |(in the US, Canada, and certain other countries) the head of a municipal corporation, |
-	
+	- think tank 智囊團 == a group of experts brought together, usually by a government, to develop ideas on a particular subject and to make suggestions for action
+
 [Structure]
 	- balcony 陽台
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
@@ -923,6 +987,24 @@
 		> 賽馬場 |Horse racing or racecourses generally.|
 		> 地盤 |An area or sphere of activity regarded as someone's personal territory.| he did not like poachers on his turf
 	- Stonehenge 巨石陣
+	- cottage 小屋/村舍 == A small house, typically one in the country.
+	- cornerstone
+		> 基石 |An important quality or feature on which a particular thing depends or is based.| a national minimum wage remained the cornerstone of policy
+		> 柱石/地基 |A stone that forms the base of a corner of a building, joining two walls.|
+	- landlord 房東/地主 == A man (in legal use also a woman) who rents out land, a building, or accommodation.
+	- fixer-upper 需要修理後才能再住人的問題房子 == a house that is not in good condition, that someone buys with the intention of working on it, improving it, and increasing its value
+	- abode 住處/住所 == A place of residence; a house or home.
+	- duvet 鴨絨墊 == A soft quilt filled with down, feathers, or a synthetic fibre, used instead of an upper sheet and blankets.
+	- ceiling fan 吊扇
+	- manse
+		> 牧師住宅 |A house provided for a minister of certain Christian Churches, especially the Scottish Presbyterian Church.|
+		> 房子 |A person's house or home.| she has just returned to her mother and the family manse after being expelled from convent school
+	- lawn chair 野餐椅
+	- guesthouse
+		> 小旅館 |a small, cheap hotel|
+		> 別館 |a small house near a larger one, where guests who are invited to the larger house can stay|
+	- bunk bed 雙層床
+	- beanbag chair 豆袋椅/懶骨頭
 	
 [Sport]
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
@@ -959,9 +1041,26 @@
 	- Pilates 皮拉提斯，，它是一種是結合人體解剖學以及運動動力學的知識下，所發展出的身體療法。此項身體療法透過專門設計的地板動作以及專用器材，經由特殊的彈簧式設計，以強調心靈集中力、身體中立穩定性及肢體靈活性的身體療法。
 	- figure skating 花式滑冰
 	- Notre Dame 巴黎聖母院
+	- taekwondo 跆拳道
+	- hoop
+		> 箍/環 |A circular band of metal, wood, or similar material, especially one used for binding the staves of barrels or forming part of a framework.| 
+		> 加箍於/用箍把...圍住 |Bind or encircle with or as with hoops.| a man was hooping a barrel
+		> 呼拉圈 |hula hoop| spin the hoop around your waist or around your hips
+		> 裙環 |A circle of flexible material used for expanding a woman's petticoat or skirt.|
+		> 籃筐 |The round metal rim from which a basketball net is suspended.|
+		> hoops 籃球比賽 |The game of basketball.| 
 
-[Social]
+[Other]
+	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
+	- bordello 妓院 == brothel
+	- orgasm (n/v)性高潮 == The climax of sexual excitement
+	- slut-shamed 蕩婦羞辱，一個概念用來描述使一個人，尤其是女性，為自己的某種性行為或性慾感到羞恥或低人一等的行為。
+	- erotica 情色作品 == Erotic literature or art.
+	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.
+	* orgasm (n/v)性高潮 == The climax of sexual excitement
+	- cottage industry 家庭代工
 	- nonbinary == gender fluid == gender expansive 性別酷兒，為一群自我性別認同類型的統稱，用來指稱「不單純歸屬於」傳統上的男性或女性之性別特質之自我性別認同
+	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
 	- tranny
 		> 跨性別者/異裝癖 |A transvestite or transgender person.|
 		> 變速器 |The transmission in a motor vehicle.| I would rather repair and replace a clutch than a tranny
@@ -969,10 +1068,18 @@
 	- faggot /ˈfaɡət/
 		> 同性戀 |A male homosexual.|
 		> 捆柴 |A bundle of sticks bound together as fuel.|
-
-[Other]
-	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel4
-	- orgasm (n/v)性高潮 == The climax of sexual excitement
-	- slut-shamed 蕩婦羞辱，一個概念用來描述使一個人，尤其是女性，為自己的某種性行為或性慾感到羞恥或低人一等的行為。
-	- erotica 情色作品 == Erotic literature or art.
-	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.
+	- outfitter 旅行用品商店
+	- Kleenex 舒潔
+	- Velcro 魔鬼氈 == hook-and-loop fastener
+	- ChapStick 潤唇膏
+	- dumpster 垃圾箱
+	- Linoleum 合成地氈/油地氈
+	- zipper 拉鍊
+	- trampoline 蹦床
+	- laundromat 自助洗衣房
+	- Bubble Wrap 氣泡布 == inflated cushioning
+	- Frisbee 飛盤 == flying disc 
+	- Xerox (n/v)靜電複印法
+	- Rollerblade 直排輪
+	- Clorox 高樂氏
+	- logistics 後勤

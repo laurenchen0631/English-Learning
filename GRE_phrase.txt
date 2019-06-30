@@ -492,6 +492,8 @@
 		> |used to give permission| "May I borrow this book?" "By all means."
 	* by and large 大體上/總體上 == when everything about a situation is considered together
 		> There are a few small things that I don't like about my job, but by and large it's very enjoyable.
+	- by design 故意地/蓄意地 == intentionally
+		> He took out a handkerchief and blew his nose loudly.
 
 [C]
 	- call attention to == make people know and be concerned or think about something
@@ -518,6 +520,8 @@
 		> I had not come to terms with who I was.
 	- come to light 眾所皆知 == to become known publicly
 		> Fresh evidence has recently come to light that suggests that he didn't
+	- come undone 忍不住大哭 == When something hits you out of left field and you can't help but cry. 
+		> Something about the way she said "goodbye" made me come undone.
 	- can hardly help doing sth 不得不/情不自禁 == cannot help doing sth == be unable to prevent yourself from doing sth.
 		> I could hardly help teasing him a little.
 		> As a member of the middle class, Gaskell could hardly help approaching working-class life as an outside observer and a reporter, and the reader of the novel is always conscious of this fact.
@@ -598,6 +602,8 @@
 [G]
 	- get off the ground/floor == to start
 		> He and his friend tried to start a band but it never got off the ground
+	- get (one's) hands on (something) 獲取 == to acquire something, usually a physical object.
+		> At one point, Izzy got her hands on an audio interview of the donor that the bank made and that another sibling’s mother had.	
 	- go out (of) the window == does not exist any more.
 		> “A royal person, historically, is not a private individual, but public property,” as Worsley puts it, “so any idea of privacy goes out of the window.”
 	- go out of one's way == to try very hard to do something, especially for someone else
@@ -627,7 +633,9 @@
 	+ in fact 實際上 == indeed  == actually
 		> in fact, they occur somewhere in the world every year
 	+ in effect 大抵上 == You add in effect to a statement or opinion that is not precisely accurate, but which you feel is a reasonable description or summary of a particular situation.
-	
+	- in one's favor
+		> 對...有利 |To one's advantage or for one's benefit.| I'm so relieved that the court ruled in my favor!
+		> 受...的賞識 |Highly regarded by one; widely accepted or enjoyed by one.| John had been in his boss's favor ever since he managed to secure that lucrative client.
 	- in that == for the reason that == because
 		> These elements are unusual in that their atoms show little tendency to combine with each other. 
 	- in its infancy == only just started to develop
@@ -689,13 +697,23 @@
 	- on the go
 		> 忙碌的 |very busy| I've been on the go all day, and I'm really tired.
 		> |in the process of being produced| Did you know that she's got a new book on the go (= being written)
-	- on the hook
-		> 入迷的 |overly infatuated with another person.|
-		> 對...有責任的/欠錢的 |to be responsible for something, owe money| When the Patriots did not cover the point spread in the Super Bowl, Dave was on the hook for $3000.
+	- on the hook 入迷的 == overly infatuated with another person.
+	- on the hook for 欠/對...有責任 == owing money for (something); responsible for (something)
+		> He's still on the hook for the cost of the repairs.
 	- on top of sth 除..之外 == in addition to something, especially something unpleasant
 		> We missed our flight, and on top of that we had to wait seven hours for the next one.
 	- on the table 被提交討論中/正式提交考慮 == ​ If a plan or suggestion has been put/laid on the table, it has been made available for people to hear, read, or discuss.
 		> it's so exceptional at editing DNA that "de-extinction," the process of bringing extinct species back from the dead, is on the table.
+	- on the verge of 接近於/瀕臨 == Her husband's violent and abusive behaviour drove her to the verge of despair.
+		> Some experts think the downturn in ownership is temporary and that more millennials and families are on the verge of buying.
+	- on the horizon 即將發生 == likely to happen or exist soon
+		> There is no new drug on the horizon that will make this disease easier to treat.
+		> Dobson doesn’t see such threats on the horizon, and he thinks most trends are breaking in his favor	
+	- on a day-to-day basis 每天 == every day
+		> people who use computers on a day-to-day basis
+	- on the bench
+		> 做審 |Acting as judge in a court case.| I thought we had a good chance of winning, but Steinman is on the bench—there's no way he'll rule in our favor.
+		> 比賽中休息 |Of a player or players in a team sport, not currently in the game, but situated on the perimeter of the playing area (often literally seated on a bench).| The players on the bench might have a big impact on this game if the starters need to come out.
 	+ one another == each other.
 		> the children used to tease one another
 	- of sorts == used to describe something that is not a typical or good example of something
@@ -733,8 +751,11 @@
 	- prefer to V
 	- put sb at ease == To calm, comfort, or reassure one; to make one comfortable or relaxed.
 		> How to put strangers at ease.
-	- put simply 簡單來說 == used for saying that you are just giving the basic facts about a complicated situation 
+	- put simply 簡單來說 == used for saying that you are just giving the basic facts about a complicated situation
 		> Put simply, intelligence is the ability to successfully perform mental operations - but which ones? 
+	- pick sb/sth out of a hat 隨機選出 == To select someone or something entirely at random
+		> I don't understand why our company is being targeted. It's as if the IRS picked us out of a hat to scrutinize!
+		> It doesn't really matter who gets promoted to assistant manager—just pick a name out of a hat for all I care!
 [R]
 	- run short of == to near the end of a supply of something
 		> When people have to wait in queues, they risk running short of oxygen - and may not have enough oxygen left on their way down.
@@ -784,7 +805,8 @@
 	- take to the streets 走上街頭/抗爭/示威 == To gather together in the public streets of a town or city to show communal solidarity in either celebration or opposition.
 	- take advantage of 利用 == to use an opportunity to achieve results, sometimes in an unfair way
 		> The mobility offered by the horse resulted in the convergence of diverse aboriginal groups onto the Plains to take advantage of the material wealth afforded by hunting the great bison herds
-
+	- think nothing of 認為…容易/看輕 == to consider that an activity is easy and not unusual
+		> When I was younger, I thought nothing of riding my bike 50 miles in a day.
 [U]
 	- upwards of == over == more than
 		> This melancholy man wrote upwards of twenty plays during the 1920's alone and earned Pulitzer Prizes for three
