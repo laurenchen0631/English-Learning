@@ -139,7 +139,7 @@
             - antiseptic
 
         2. 古 = ancient
-            - antic (adj)古怪的 = erratic
+            + antic (adj)古怪的 = erratic = grotesque = bizarre
             * /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
             * /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
             + antiquarian (adj)古文物的 (n)古文物家
@@ -474,7 +474,7 @@
     ban, barr 擋住/阻擋/禁令
         *** abandon (v)捨棄, 放棄 (n/v)放縱/使沈溺於 = indulge
         - ban (n)禁令 (v)明令禁止 <|> bane
-        + /bəˈnɑːl/ banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n)
+        + /bəˈnɑːl/ banal (adj)平庸的/陳腐的 = trite = hackneyed = stale --> banality (n) 
         - banister (n)欄杆
         + banter (n)玩笑/打趣/逗樂 = badinage = ribbing (v)取笑/逗弄 = bait = tease <|> barter <|> batter
         + banish (v)放逐/趕走/流放 = evict = exile = expel = oust
@@ -956,7 +956,7 @@
     cove, cave, cav 山凹/空/洞 = hollow
         - alcove (n)凹室/壁龕
         + concave (adj)凹的/凹面的 <--> convex
-        - excavate (v)挖掘, 發掘/挖出(古物等)
+        - excavate (v)挖掘, 發掘/挖出(古物等) = exhume
         - cavity (n)洞穴, 腔, (病變形成的)空洞
         - cavern (n)岩洞, 深部 (v)挖空
 
@@ -1383,7 +1383,7 @@
             - deport (v)驅逐出境/遣送出境 = exile = expel
             + deprive --> deprivation
             - deprecate
-            - deracinate (v)根除 = uproot <-- de + racin 根 = root + ate
+            - deracinate (v)根除 = uproot = extirpate <-- de + racin 根 = root + ate
             - derogate
             - desert
             - desperate
@@ -1409,7 +1409,7 @@
             + disabuse (v)糾正/打消(某人的)錯誤念頭
             * disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
             - disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
-            + discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = Disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
+            + discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
             - disconcert
             * discompose
             * discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
@@ -1765,7 +1765,7 @@
             - emote
             + enervate
             - enormity --> enormous
-            - enumerate
+            + enumerate
             + eradicate
             - erase
             * erect (v)建立/建造, 豎立 (adj)直立的/豎起的, 勃起的 <-- e + rect 直 = direct
@@ -1781,7 +1781,7 @@
 
         2. 完全/加強 = completely
             + eloquent --> eloquence 
-            + emaciated (adj)消瘦的/憔悴的 = cadaverous <|> emancipate <-- e + maci 瘦 = leanness + ate
+            + emaciated (adj)消瘦的/憔悴的 = cadaverous <|> emancipate <|> emanate <-- e + maci 瘦 = leanness + ate
             + eminent
             + emollient
             - emulsify
@@ -1834,7 +1834,8 @@
         + exorbitant
         + exorcise
         + exotic (adj)異國情調的/外來的, 奇特的
-        ++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述 --> expansive (adj)豪爽的/健談的, 遼闊的 = extensive, 擴張的
+        ++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述
+        ++ expansive (adj)豪爽的/健談的, 遼闊的 = extensive, 擴張的
         * expanse (n)廣袤的地區, 展開的距離
         ++ /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <|> expatriate <|> peripatetic <-- ex + spati 走 + ate
         + expedite --> expeditious
@@ -1851,7 +1852,7 @@
         - expostulate (v)勸告/告誡 <-- ex + postulate
         *** express (v)表達, 快遞, 擠壓出 (adj)明確的, 快的, 專門的 --> expressly (adv)清楚地 = explicitly, 特意地 = particularly
         - expunge
-        + expurgate (v)刪去（不當處) = censor <-- ex + purg 清洗 = cleanse + ate
+        + expurgate (v)刪去（不當處) = censor = bowdlerize <-- ex + purg 清洗 = cleanse + ate
         - exquisite
         + extant = in existence = still existing
         + extempore --> extemporaneous --> extemporeize
@@ -2043,7 +2044,7 @@
         + quintessential (adj)典型的 = typical
 
     ethno, ethn 種族/文化 = race, culture
-        - ethnic (adj)種族的/民族的 人種學的 <|> ethic
+        - /ˈɛθnɪk/ ethnic (adj)種族的/民族的 人種學的 <|> ethic
         - ethnology (n)民族學/文化人類學
         + ethnocentric (adj)民族中心主義的/種族優越的
         - ethnocentrism (n)民族優越感
@@ -2085,7 +2086,7 @@
         * forerunner (n)預兆/前兆 = herald, 先驅 = herald
         + foresee (v)預見/預知 = predict --> foreseeable (adj)可預見的
         * foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = bode
-        - foresight (n)遠見/深謀遠力 = prescience = presage
+        - foresight (n)遠見/深謀遠慮 = prescience = presage
         + forestall
         * foretell (v)預言/預示 = presage
         - forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
@@ -2168,9 +2169,9 @@
         + feasible (adj)可行的/可能的/合適的 = probable = likely = suitable
         + feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
         - fiction (n)小說, 虛構/捏造
-        * fictitious (adj)假的/假裝的, 虛構的 = imaginary = fabulous
+        * fictitious (adj)假的/假裝的, 虛構的 = imaginary = fabulous <|> factitious
         + forfeit
-        - ineffectual (adj)無效的/徒勞無意的 = futile
+        - ineffectual (adj)無效的/徒勞無意的 = futile <|> ineffable
         - infect (v)感染/傳染 --> infection (n)感染
         + manifest
         - manufacture (v)大量製造, 捏造
@@ -2228,7 +2229,7 @@
         - fraction (n)碎片, 小部分
         + /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
         - fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
-        * fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
+        * /ˈfradʒʌɪl/ fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
         - fragment (n)碎片 (v)成碎片
         - infraction (n)違法 = violation = infringement
         - refract (v)折射 --> refraction (n)折射
@@ -2274,7 +2275,7 @@
     fin 範圍/限制 = boundary, boder, stop, limit
         +++ affinity (n)吸引/喜愛 = fondness = affection = penchant = bent, 密切關係, 雷同/相似 = resemblance
         + confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
-        + define (v)說明/解釋, 界定 --> definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
+        + define (v)說明/解釋, 界定 --> /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
         + finite (adj)有限的 = measurable
         + infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense --> infinity (n)無限的時間或空間
         - infinitesimal (adj)極微小的 (n)極小量
@@ -2399,7 +2400,7 @@
         ++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
         + effusive (adj)奔放的/過於流露感情的 = unduly demonstrative, 流出的 = overflowing
         - infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
-        - profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent
+        - /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n)
         - suffuse (v)遍布/充滿/瀰漫
 
     funct 表現 = perform
@@ -2504,9 +2505,9 @@
         ++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
         + engender (v)產生/引起 = produce = cause = beget
         + eugenics (n)優生學
-        - general (adj)一般的 = generic, 普遍的/全體的, 將軍級的
+        - general (adj)一般的 = generic, 普遍的/全體的/大體的, 首席的 = chief = principal (n)將軍
         - generality (n)概述
-        - generalize (v)歸納
+        - generalize (v)概括/泛論, 使普遍化
         - generate (v)造成/引起, 產生（熱，電，光等）
         - generation (n)一代人, 代, 產生 = production
         - generative (adj)生殖的, 有生產力的
@@ -2520,6 +2521,7 @@
         - genre (n)文藝作品之類型
         + genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
         + homogeneous --> homogeneity
+        + heterogeneous
         * indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
         +++ ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
         + ingenuity (n)足智多謀的/心靈手巧
@@ -2577,7 +2579,7 @@
         - /dʒʌɪˈreɪt/ gyrate (adj)旋轉的 (v)旋轉
         - gyral (adj)旋轉的
         - gyroidal (adj)螺旋形的
-        - gyroscope (n)陀螺儀 = gryoscope
+        - gyroscope (n)陀螺儀 = gryo
 
     gon 角 = angle
         - diagonal (n)對角線 (adj)對角的
@@ -2630,14 +2632,14 @@
         * /ɪnˈhɛrɪt/ inherit (v)繼承, 經遺傳而獲得
         + /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
-    hetero, here 不同/異 = different, other
+    here, hetero 不同/異 = different, other
         * heresy (n)異端邪說
         + heretic (n/adj)異教徒 = heathen --> heretical (adj)異端的 <|> hermetic
         + /ˈhɛdərəˌdɑks/ heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
         + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous <--> homogeneous
 
     hydr, hydro 水 = water == aqua
-        - anhydrous (adj)無水的 = arid <--> wet = humid
+        - anhydrous (adj)無水的
         - carbohydrate
         - dehydrate (v)脫水
         - hydrant (n)水龍頭 = faucet, 消防栓 = fireplug
@@ -2695,7 +2697,7 @@
 
     herb 草 = plant
         - herbicide
-        + /həːˈbɪv(ə)rəs/ herbivorous (adj)草食的
+        + herbivorous (adj)草食的 <--> carnivorous
 
     herpeto 爬蟲
         - herpetologist (n)爬蟲學家
@@ -2710,52 +2712,51 @@
         - hibernate (v)冬眠/蟄居
     
     hiero, hier 神聖 = holy, sacred
-        + hierarchy (n)階層, 等級制度 --> hierarchical (adj)等級制度的
+        + /ˈhʌɪərɑːki/ hierarchy (n)階層, 等級制度 --> hierarchical (adj)等級制度的
         - hieratic (adj)神職的
-        - hieron (n)神廟/聖地
-        * hieroglyph (n)象形文字
+        * /ˈhʌɪ(ə)rəɡlɪf/ hieroglyph (n)象形文字
         + hieroglyphic (n)象形文字 = hieroglyph (adj)象形文字的, 難解的 --> hieroglyphics (n)象形文字
 
     hom 人 = man
-        + homage (n)尊敬/崇敬, 效忠
+        + /ˈhɒmɪdʒ/ homage (n)尊敬/崇敬, 效忠
         - homicide
 
     homo, homeo 相同 = similar
-        + homeostasis (n)體內平衡
-        + homogeneous (adj)同種的/同質的/相似的 = similar = identical --> homogeneity (n)同種/同質 
+        + /ˌhɒmɪə(ʊ)ˈsteɪsɪs/ homeostasis (n)體內平衡
+        + homogeneous (adj)同種的/同質的/相似的 = similar = identical <--> heterogeneous --> homogeneity (n)同種/同質  
         - homogenize (v)使均勻
 
     hum 地 = earth
-        - exhume (v)掘出, 發掘
+        - exhume (v)掘出, 發掘 = excavate
         - humus (n)腐殖質/腐質土壤
         + humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑 = grovel, 使威信掃地
         - humility (n)謙卑/謙遜
         + humiliate (v)使屈辱/羞辱 = mortify = degrade --> humiliation (n)羞辱/恥辱 = opprobrium
-        + humdrum (adj)無聊的/乏味的/單調的 = boring = dull (n)單調 = monotony
+        + humdrum (adj)無聊的/乏味的/單調的 = boring = dull = monotonous (n)單調 = monotony <|> humbug
 
 [I]
     in, ig, il, im, ir
         1. 不 == un
             + ignoble (adj)卑鄙的/可恥的 = mean = dishonorable <--> noble, 地位低下的 = base
-            - ignominy (n)羞恥/屈辱 --> ignominious (adj)可恥的 = contemptible = despicable <-- ig + nomin 名字 = name + y
+            - ignominy
             - ignore
             - ignorant --> ignorance <-- ig + gnor + ant
             - illegal (adj)違法的 --> illegality (n)違法 <- il + legal
             - illegitimate (adj)非法的/不合法的 = illegal, 私生的 = spurious <-- il + legitimate
             - illicit (adj)違法的 = unlawful = illegal = illegitimate = prohibited
             - illiterate (adj)文盲的 = ignorant <-- il + literate
-            - immaculate = impeccable
-            + immaterial (adj)不重要的 = unimportant, 無關的 = irrelevant <--> pertinent, 非物質的 = incorporeal = spiritual
-            + immediate (adh)立即的 = instant, 旁邊的 = next = nearest, 直接的 = direct
+            - immaculate (adj)潔淨的/無瑕的 = unsoiled = impeccable
+            ++ immaterial (adj)不重要的/無關的 = unimportant = irrelevant <--> pertinent, 非物質的 = incorporeal = spiritual
+            ++ immediate (adh)立即的 = instant, 旁邊的 = next = nearest, 直接的 = direct, 直覺的
             - immemorial
             + immense --> immensity
             + immune --> immunity --> immunize
             + immutable
-            - impalpable (adj)無法觸及的, 不易理解的 <-- im + palpable
+            - /ɪmˈpalpəb(ə)l/ impalpable (adj)無法觸及的, 不易理解的 <-- im + palpable
             + impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid --> impartiality (n)公平/公正 <-- im + partial
-            + impasse (n)僵局 = deadlock, 死路
+            + /amˈpɑːs/ impasse (n)僵局 = deadlock, 死路
             + impassive --> impassivity
-            + impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable
+            + impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable <|> impecunious
             + impecunious
             + impenetrable (adj)不能穿透的, 無法理解的 = arcane = unfathomable = incomprehensible = arcane <-- im + penetrable
             - impenitent (adj)不知悔改的 <-- im + penitent
@@ -3220,7 +3221,7 @@
     joc 玩笑 = joke
         - jocund (adj)快樂的/高興的 = cheerful = genial = merry = jovial = jolly = convivial
         + jocose (adj)開玩笑的/詼諧的 = jocular
-        * jocular (adj)有趣的/詼諧的, 愛開玩笑的 = facetious
+        + jocular (adj)有趣的/詼諧的/愛開玩笑的 = facetious
 
     judic, jud 判斷 = judge
         - adjudicate (v)[法]判決/宣告 = arbitrate = umpire
@@ -3288,8 +3289,8 @@
         2. 法律/君主 = liege, law
             - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocate (v)
             + legislate (v)制定法律 --> legislation (n)立法, 法條/法規
-            - legal (adj)法律的, 合法的/正當的 = legitimate
-            + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine
+            - legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
+            + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine <--> illegitimate
             * legislature (n)立法機關, 美國州議會
             + privilege
 
@@ -3463,7 +3464,7 @@
     liter 文字 = letter
         + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
         + literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
-        * literate (adj)能讀寫的, 有文化修養的
+        * literate (adj)能讀寫的 <--> illiterate, 有文化修養的
         + obliterate (v)塗掉/擦掉 = efface = erase = annul --> obliteration (n)消滅/刪除
         - preliterate (adj)文字出現以前的
 
@@ -3824,9 +3825,8 @@
         - emergency (n)緊急情況 = exigency
 
     macula 斑點/髒污 = spot, blemish
-        - immaculate (adj)潔淨的/無瑕的 = unsoiled = impeccable
         - macula (n)皮膚上的斑點
-        - maculate (adj)有污點的 (v)弄髒 --> maculated (adj)有斑點的 = blemished
+        - maculate (adj)有污點的 (v)弄髒 --> maculated (adj)有斑點的 = blemished <|> immaculate
 
     machin, mechan 謀劃/發明 = contrive
         - machine (n)機器/機械
@@ -3857,7 +3857,7 @@
         - mastodon (n)乳齒象 (adj)龐大的/巨大的 = massive
 
     melli 蜂蜜 = honey
-        - mellifluous, mellifluent (adj)聲音甜美的/圓潤流暢的 = dulcet = euphonious
+        + mellifluous, mellifluent (adj)聲音甜美的/圓潤流暢的 = dulcet = euphonious
         - melliferous (adj)產蜜的
 
     ment 精神 = mind
@@ -3926,6 +3926,7 @@
         - economy
 
     nom, nomin, nome 名字 = name == onym
+        - ignominy (n)恥辱 --> ignominious (adj)可恥的 = contemptible = despicable
         + nominal (adj)名義上的/有名無實的
         - nominate (v)提名, 任命/指定
         - denominate (v)命名, 結算(貨幣) --> denomination (n)名稱, (貨幣或長度的)單位
@@ -3970,7 +3971,7 @@
         + normative (adj)基準的/規範的 <-- norm
 
     numer 數字
-        + /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉 --> enumeration (n)
+        + /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉, 計數/點 --> enumeration (n)
         + /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many
         - innumerable (adj)數不清的
 
@@ -5408,8 +5409,8 @@
         - ravish (v)使陶醉/使銷魂, 強姦 = rape --> ravish (adj)令人陶醉的
         * rave (n/v)胡言亂語, 狂罵/咆哮 = rant, (風)呼嘯 = rage
         * ravage (n/v)大破壞/大混亂 = havoc
-        - raven (v)狼吞虎嚥地吃, 攫取/掠奪 (n)掠奪/劫掠, 捕食, 渡鴉 (adj)烏亮的/墨黑的
-        - ravenous (adj)餓極了的, 貪婪的 = rapacious
+        + raven (v)狼吞虎嚥地吃, 攫取/掠奪 (n)掠奪/劫掠, 捕食, 渡鴉 (adj)烏亮的/墨黑的
+        + ravenous (adj)餓極了的, 貪婪的 = rapacious = voracious
 
     rat 深思熟慮/推論 = calculate, deliberate, conclude
         * ratify (v)正式批准/正式簽署 = authorize = approve = sanction --> ratification (n)正式批准
@@ -5605,8 +5606,8 @@
         + persist (v)堅持/固執, 持續
         + resist (v)抵抗/反抗 = withstand, 忍耐/忍住 --> resistance (n)抵抗/反抗/抵制, 電阻
         - restitute (v)恢復, 償還 --> restitution (n)償還/賠償, 恢復/歸還
-        + restive (adj)倔強的/不聽話的 = disobedient, 不安的 = agitated = restless = skittish = fussy --> restiveness (n)倔強/難以駕馭
-        - restless (adj)不停的, 不安靜的
+        +++ restive (adj)焦躁的/不安的 = restless, 倔強的(馬) --> restiveness (n)
+        * restless (adj)焦躁的/煩躁的 = restive, 停不下來的/得不到休息的
         - stagnate (v)淤塞/沉滯/失去活力 --> stagnant (adj)停滯的 --> stagnation (n) = stasis
         - staid (adj)沉著的/穩重的 <-- stay
         - stay (v)停留/留下/保持, 堅持/忍耐

@@ -19,6 +19,7 @@
     + /əˈmalɡəm/ amalgam (n)混合物 --> amalgamate (v)聯合/合併 = coalesce = unite, 混合 = blend = mix
     + /əˈmiːnəb(ə)l/ amenable (adj)願服從的/順從的 = cooperative = compliant = obedient = submissive = servile = docile = tractable = yielding = resigned <-- amen 領導 = lead
     ++ /əˈmiːnɪti/ amenity (n)禮儀 = courtesy = etiquette = civility, 感到舒適的事物, 便利的設施 <|> acumen <-- amen 愉快 = pleasing + ity
+    + amok, amuck (adv)狂亂地
     + anathema (n)令人討厭的事物, 詛咒/被詛咒的人 <|> anthem
     + /ˈanɪkdəʊt/ anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的
     + /ˈanədʌɪn/ anodyne (n)鎮痛劑 (adj)止痛的 = analgesic = lenitive, 一團和氣的/溫和的
@@ -1418,7 +1419,7 @@
     + imbue (v)灌輸(強烈的情感或意見) = impregnate, 使浸染/使浸透 = impregnate = imbrue = saturate
     +++ /ˈɪmɪteɪt/ imitate (v)仿效, 模仿 = mimic = impersonate, 偽裝 = resemble = simulate, 複製 = reproduce --> imitation (n)模仿, 複製品/仿冒品 = counterfeit = copy <-- image
     + /ɪˈnɪmɪk(ə)l/ inimical (adj)有害的/不利的 = unfavorable = adverse, 敵意的/不友善的 = hostile <|> imitate <|> intimate <-- inim 敵人 = enemy + ical
-    +++ /ˈɪntɪmət/ intimate (adj)親密的, 精細的/深入的 = deep = detailed, 私人的 = personal = private (n)密友 (v)暗示 = hint = imply = suggest <-- intim 深處 = inmost + ate
+    +++ /ˈɪntɪmət/ intimate (v)暗示 = hint = imply = suggest (adj)親密的, 精細的/深入的 = deep = detailed, 私人的 = personal = private (n)密友  <-- intim 深處 = inmost + ate
     + /ɪnˈkəʊeɪt/ inchoate (adj)剛開始的 = incipient, 未完的/未充分發展的 = rudimentary
     +++ /ɪnˈdʌldʒ/ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor = pamper --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
     + inkling (n)暗示/跡象 = hint, 略知/模糊概念
@@ -1573,7 +1574,7 @@
     * /lɪˈvʌɪəθ(ə)n/ leviathan (n)龐然大物/巨人/強者 = behemoth
     * lexicon (n)詞典/語彙
     *** /ˈlʌɪəb(ə)l/ liable (adj)有責任的 = legally responsible, 易受影響的 = susceptible, 易...的 = apt = subject = prone --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
-    *** /ˈlɪsɪt/ licit (adj)合法的/正當的 = legal = lawful = legitimate = permissible <|> elicit <|> explicit <|> implicit <|> solicit <|> felicity
+    *** /ˈlɪsɪt/ licit (adj)合法的/正當的 = legal = lawful = legitimate = permissible <--> illicit <|> elicit <|> explicit <|> implicit <|> solicit <|> felicity
     * lid (n)蓋子, 眼瞼 = eyelid, 派皮
     *** lie (v)躺/臥, 位於/在, 在於, 說謊
     * liege (n)君主/國王
@@ -3202,6 +3203,7 @@
     ++ vex (v)激怒 = provoke = irritate = annoy = nettle = peeve = irk = pique = harrow, 折磨/苦惱 = afflict = torment = trouble = distress = plague = worry = agitate, 使困惑 = baffle = confuse = puzzle
     + vexation (n)折磨/苦惱 = affliction, 惱火 = irritation = annoyance
     + /vɪˈsɪsɪtjuːd/ vicissitude (n)變化無常/變換, 盛衰/興敗 --> vicissitudinous (adj)有變化的/變遷的 <-- vicussi 改變 + tude
+    + /vʌɪ/ vie (v)競爭 = contend = compete --> vying (adj)競爭的
     *** /vʌɪl/ vile (adj)可鄙的 = filthy = mean = base = sordid, 下流的/粗俗的 = filthy = obscene = vulgar, 邪惡的 = wicked
     + /ˈvɪlɪfʌɪ/ vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate <-- vile
     + vim (n)精力/生氣/精神 = pep = enthusiasm = vitality
@@ -3217,6 +3219,7 @@
     *** /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
+    * vigil (n)守夜/警戒 --> vigilant (adj)機警的/警惕的
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
     * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
     * vomit (v)嘔吐 = disgorge = heave
@@ -3243,8 +3246,6 @@
     ^ veto (n/v)否決/禁止
     ^ vicar (n)教區牧師 --> vicarious (adj)替代的/代理的
     ^ victim (n)犧牲者/遇難者/受害者, 犧牲品/祭品 --> victimize (v)使受害/迫害
-    ^ vie (v)競爭 = contend = compete --> vying (adj)競爭的
-    ^ vigil (n)守夜/警戒 --> vigilant (adj)機警的/警惕的
     ^ vintner (n)酒商 <-- vint 酒 = wine + ner
     ^ violate (v)違反/觸犯
     ^ violent (adj)激烈的/猛烈的/強烈的, 暴力的/兇暴的
