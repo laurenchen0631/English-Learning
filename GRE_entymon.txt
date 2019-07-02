@@ -917,6 +917,7 @@
         + discern (v)(費勁)看出 = recognize = apprehend, 辨別出 = distinguish = discriminate --> discernment (n)洞察力/識別
         - discernible (adj)能看出的/可辨別出的
         + discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
+        + discriminate (v)區別/辨別 = differentiate, 差別對待
         +++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
         + discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
         * excrete (v)排泄/分泌
@@ -1002,7 +1003,7 @@
         + calculable (adj)可計算的/可預想到的, 可信賴的
 
     cand, cend, cense 白/發光 = shine, white
-        ++ candid (adj)率直的/直言不諱的 = frank = ingenuous = explicit, 公正的 = honest = impartial, 偷拍的
+        ++ candid (adj)率直的/直言不諱的 = frank = ingenuous, 公正的 = honest = impartial, 偷拍的 --> candidness (n)
         + candor (n)坦白/率直
         - candle (n)蠟燭 = taper
         - candidate (n)候選人/申請人, 考生/應試者 --> candidacy (n)候選人的資格
@@ -1741,7 +1742,7 @@
 [E]
     e
         1. 出/外/離 = out, outside, away
-            + ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited, 沸騰的 --> ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
+            + ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited = exuberant, 沸騰的 --> ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
             - edict
             - educe
             * elaborate --> elaboration
@@ -1780,7 +1781,7 @@
 
         2. 完全/加強 = completely
             + eloquent --> eloquence 
-            + emaciated (adj)消瘦的/憔悴的 <|> emancipate <-- e + maci 瘦 = leanness + ate
+            + emaciated (adj)消瘦的/憔悴的 = cadaverous <|> emancipate <-- e + maci 瘦 = leanness + ate
             + eminent
             + emollient
             - emulsify
@@ -1835,7 +1836,7 @@
         + exotic (adj)異國情調的/外來的, 奇特的
         ++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述 --> expansive (adj)豪爽的/健談的, 遼闊的 = extensive, 擴張的
         * expanse (n)廣袤的地區, 展開的距離
-        ++ /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <|> expatriate <-- ex + spati 走 + ate
+        ++ /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <|> expatriate <|> peripatetic <-- ex + spati 走 + ate
         + expedite --> expeditious
         +++ expedient --> expediency
         * expel
@@ -2326,7 +2327,7 @@
     front 前面/臉面 = forehead
         - affront (v)侮辱/冒犯 = insult = abuse = offend
         - confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
-        + effrontery (n)厚顏無恥/放肆 = impudence = presumptuousness
+        + effrontery (n)厚顏無恥/放肆 = impudence = presumption
 
     fug 逃離 = flee
         - centrifugal
@@ -2411,7 +2412,6 @@
         - fossilize (v)使成化石, 使陳腐
         - /fɒs/ fosse (n)護城河
 
-
 [G]
     glomer 球 = ball of yarn
         - agglomerate (v)聚集 = aggregate = assemble (n)團塊
@@ -2449,7 +2449,7 @@
         + digress (v)離題 --> digression (n)離題/脫軌 = excursion
         ++ egress (N)外出, 出口/出路 (v)離開
         - ingredient (n)成分/原料
-        - progress (n/v)進步/進展 = advance = proceed = boost
+        - progress (n/v)進步/進展 = advance = proceed = boost --> progession (n)進展, 一連串
         - regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的 <|> recessive
         + transgress (v)違反/違背, 侵犯/越過 --> transgression (n)違反/違法/罪過
 
@@ -2520,10 +2520,10 @@
         - genre (n)文藝作品之類型
         + genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
         + homogeneous --> homogeneity
-        - indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
-        + ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
+        * indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous  <-- in + di + gen + ous
+        +++ ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
         + ingenuity (n)足智多謀的/心靈手巧
-        + ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
+        +++ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
         - lactogenic
         - octogenarian
         * progeny (n)後代/子女 = descendant
@@ -2574,9 +2574,10 @@
         - glossary (n)詞彙表/難詞表
 
     gyro, gyr 轉 = turn, circle, spiral
-        - gyrate (adj)旋轉的 (v)旋轉
+        - /dʒʌɪˈreɪt/ gyrate (adj)旋轉的 (v)旋轉
         - gyral (adj)旋轉的
         - gyroidal (adj)螺旋形的
+        - gyroscope (n)陀螺儀 = gryoscope
 
     gon 角 = angle
         - diagonal (n)對角線 (adj)對角的
@@ -2586,7 +2587,7 @@
 
     gamy 婚姻 = marriage
         - monogamy (n)一夫一妻制
-        - bigamy (n)重婚, 重婚罪
+        - /ˈbɪɡəmi/ bigamy (n)重婚, 重婚罪
 
 [H]
     hyper 過 = over, above
@@ -2597,21 +2598,21 @@
 
     hypo 下 = under <--> hyper
         - hypoderm
-        + hypocrite (n)偽善者/為君子
+        + hypocrite (n)偽善者/偽君子
         * hypocritical
-        + hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
+        +++ hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
     
     hypno 催眠 = put to sleep
         * hypnotic (adj)催眠的 (n)安眠藥 = sedative
-        * hypnotize (v)催眠 = mesmerize, 使著迷 = charm = beguile = fascinate = mesmerize
+        * hypnotize (v)催眠, 使著迷 = charm = beguile = fascinate = mesmerize
         - hypnosis (n)催眠狀態
         - hypnotism (n)催眠 = mesmerism
 
     hor 憤怒/怕 = bristle, tremble
         - abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
         - horrible (adj)可怕的
-        - horrid (adj)令人不愉快的/不友好的
-        - horripilate (v)起雞皮疙瘩 --> horripilate (n)雞皮疙瘩/毛骨悚然 = goosebumps
+        - horrid (adj)可怕的, 令人不愉快的
+        - horripilate (v)起雞皮疙瘩 --> horripilation (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
     hori, horiz 邊界 = bound, limit
         + aphorism (n)格言 = adage = maxim --> /afəˈrɪstɪk/ aphoristic (adj)格言似的/格言的
@@ -2619,32 +2620,31 @@
 
     here, her, hes 黏住 = stick, cling
         - adhere (v)黏附 = attach, 堅持 --> adherent (n)擁護者/信徒 = devotee = disciple --> adhesive (adj)黏性的 = viscous = viscid (n)黏著劑,膠帶
-        - coherent (adj)有條理的/連貫的/清楚明白的 = articulate
+        - coherent (adj)有條理的/連貫的, 形成一體的
         - cohesion (n)內聚力/凝聚力/團結 --> cohesive (adj)有凝聚力的/團結的
 
     here, heir, herit 繼承
-        * heir (n)繼承人
+        * /ɛː/ heir (n)繼承人
         * hereditary (adj)遺傳的, 世襲的 --> heredity (n)
         + /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance, 世界遺產, 傳統
-        * /ɪnˈhɛrɪt/ inherit (v)繼承
+        * /ɪnˈhɛrɪt/ inherit (v)繼承, 經遺傳而獲得
         + /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
     hetero, here 不同/異 = different, other
         * heresy (n)異端邪說
         + heretic (n/adj)異教徒 = heathen --> heretical (adj)異端的 <|> hermetic
         + /ˈhɛdərəˌdɑks/ heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
-        + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous
+        + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous <--> homogeneous
 
-    hydr, hydro 水 = water
+    hydr, hydro 水 = water == aqua
         - anhydrous (adj)無水的 = arid <--> wet = humid
-        - dehydrate (v)脫水
         - carbohydrate
-        - dehydrate (v)脫水/去除水分
+        - dehydrate (v)脫水
         - hydrant (n)水龍頭 = faucet, 消防栓 = fireplug
         - hydrate (n)水化物 (v)水化/水合
         - hydria (n)水罐
         - hydrogen (n)氫
-        - hydrophobia (n)狂犬病/恐水症
+        - hydrophobia (n)恐水症
 
     histo, hist 細胞組織 = tissue
         - histology (n)細胞組織學
@@ -2652,7 +2652,7 @@
 
     habit, hibit 擁有/居住 = have, own, hold, dwell == propr
         - cohabit (v)共棲/同居
-        * exhibit (v)展出/展示 (n)展品/展出物, 展覽, 證物/證據
+        ** exhibit (v)展出/展示, 表現/顯出 = manifest (n)展品/展出物, 展覽, 證物/證據
         + habitat (n)棲息地
         - habitant (n)居民 = inhabitant
         - habitable (adj)可居住的
@@ -2662,21 +2662,20 @@
         - inhabit (v)棲居於/佔據 --> inhabitant (n)居民, 棲息動物
         + inhibit (v)阻止/妨礙 = restrain = arrest = check = hinder = hamper = impede, 禁止/約束 = forbid = prohibit --> inhibited (adj)過度約束的 = overly restrained
         * prohibit (v)禁止/阻止/妨礙 = ban
-        + prohibitive (adj)抑制的/禁止的, 價錢貴得買不起的/高昂的
+        ++ prohibitive (adj)抑制的/禁止的, 價錢貴得買不起的/高昂的
 
     hilar 高興/振奮 = cheer
-        + exhilarate (v)使振奮 = invigorate = stimulate, 使高興 --> exhilaration (n)高興
-        - hilarious (adj)歡鬧的/熱鬧的, 極可笑的
-        - hilarity (n)歡喜
+        + exhilarate (v)使振奮/使高興 = invigorate = stimulate --> exhilaration (n)高興
+        - hilarious (adj)極可笑的
+        - hilarity (n)大笑
 
     hort 激勵 = urge
-        + /ɪɡˈzɔːt/ exhort (v)力勸/勉勵 = urge
-        - hortative (adj)勸告的, 獎勵的/激勵的 --> hortation (n)勸告, 獎勵
-        + hortatory (adj)激勵的 = exhorting = encouraging
+        + /ɪɡˈzɔːt/ exhort (v)力勸/勉勵 = urge = encourage
+        + hortatory, hortative (adj)勸告的, 獎勵的/激勵的 --> hortation (n)勸告, 獎勵
 
     hap 運氣 = luck
         * hap (n)機會/幸運
-        + haphazard (adj)任意的/隨意的/偶然的 = random = aimless = indiscriminate = thoughtless (n)意外 = accident
+        + haphazard (adj)任意的/隨意的 = random = aimless = indiscriminate = thoughtless
         + hapless (adj)不幸的/運氣不好的 = unlucky = unfortunate
         - mishap (n)不幸/災難 = misfortune = bale
 
@@ -4817,7 +4816,7 @@
         - phanerogam (n)顯花植物
         - phenomenon -> phenomena (n)（尤指不尋常的或有趣的）現象, 奇才/奇蹟 = miracle
         - phenomenal (adj)顯著的/非凡的 = extraordinary = remarkable
-        + sycophant (n)馬屁精 = toad = adulator --> sycophantic (adj)阿諛奉承的 <-- syco 無花果 = fig + phan + ant
+        + sycophant (n)馬屁精 = toady = adulator --> sycophantic (adj)阿諛奉承的 <-- syco 無花果 = fig + phan + ant
 
     phob, phobia 恐懼 = fear
         - acrophobia
@@ -5895,7 +5894,7 @@
         - consume (v)消費, 消耗
         + presume (v)擅自/冒然 = dare, 假定/假設/推測/推定 = expect = assume, 意味著 = imply
         + presumptuous (adj)冒昧的/專橫的 = arrogant = overweening = petulant
-        - presumption (n)推測/假定 
+        + presumption (n)推測/假定, 冒昧/放肆 = effrontery
         - resume (v)重新開始/繼續 = renew
         + subsume (v)歸入/納入, 包容/包含 = include = incorporate
         - sumptuous (adj)豪華的/奢侈的
@@ -6469,7 +6468,7 @@
         - undeserved (adj)不應得的 <-- un + deserved
         - undesirable (adj)令人不悅的/討厭的 = unwanted
         - undirected (adj)未受制導的
-        + undue (adj)過度的/過分的 = overly = excessive, 不適當的/不正當的, 未到期的 --> unduly (adv)過度 
+        +++ undue (adj)過度的/過分的 = overly = excessive, 不適當的/不正當的, 未到期的 --> unduly (adv)過度 
         - unearth (v)掘出/使出土, 發現 = discover
         - unearthly (adj)奇異的 <-- un + earthly
         * uneasiness (n)焦慮/不安 = compunction
@@ -6703,7 +6702,7 @@
         - vertex (n)頂點/頂角
         - vertical (adj)垂直的 = plumb
         + vertigo (n)眩暈 = dizziness
-        + /ˈvɒljʊb(ə)l/ voluble (adj)滔滔不絕的/健談的 = talkative
+        + /ˈvɒljʊb(ə)l/ voluble (adj)滔滔不絕的/健談的 = talkative --> volubility (n)
         + vortex (n)渦/旋風/旋渦 = whirlpool
 
     verge 軸/竿 = rod

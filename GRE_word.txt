@@ -156,6 +156,7 @@
     + /ˈbɔːdi/ bawdy (adj)下流的/淫猥的 = obscene = indecent = vulgar = lewd = licentious = salacious = ribald = wanton
     + bay (n)灣/海灣, 間隔區, 月桂樹 (v)(狗或狼)叫/吠 = bark --> baying (n)嚎叫 = howling
     + beatify (v)(天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福 = sanctify = bless
+    + /biːəˈtɪfɪk/ beatific (adj)喜氣洋洋的, 賜予祝福的
     + /bɪˈdɪz(ə)n/ bedizen (v)俗麗地穿著 <-- dizen (v)裝飾/穿得漂亮
     + befriend (v)對…友好 = help = aid, 交朋友
     + /bɪˈfʌd(ə)l/ befuddle (v)使迷惑/使困惑 = confuse = bewilder = confound --> befuddlement (n)迷惑/困惑 <-- fuddle
@@ -385,6 +386,7 @@
 
 [C]
     + /kadʒ/ cadge (v)乞討/乞得 = beg, 佔便宜 = sponge <|> budge <|> badge
+    + cadaverous (adj)蒼白的/憔悴的/骨瘦如柴的 = emaciated = gaunt <-- cadaver 屍體 = corpse
     + /kəˈdʒəʊl/ cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle = inveigle = blandish
     + callow (adj)(尤指年輕人)不成熟的/缺乏經驗的 = immature = inexperienced
     + /ˈkaləs/ callus (n)(手腳上的)老繭 --> /ˈkaləs/ callous (adj)結硬塊的, 無情的/漠不關心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive
@@ -869,6 +871,7 @@
     + fickle (adj)反覆無常的/易變的 = capricious = mercurial = skittish = volatile --> fickleness (n)變化無常 <|> feckless
     ++ /fɪˈdɛlɪti/ fidelity (n)忠誠 = loyalty, 準確度/精確性 = correspondence <--- fidel 忠誠 = loyal + ity
     + filibuster (n/v)妨礙議事
+    + finagle (v)欺騙
     + /fɪˈnans/ finance (v)提供資金/獲得資金 (n)財政, 收入 = revenue
     + find (v)找到/發現 = locate = discover = recover, 覺得/認為/意識到 = perceive = feel
     + /fɪˈnɛs/ finesse (n)技巧/計謀/手段 = trick = artifice = stratagem (v)巧妙地應對 <-- fine
@@ -1494,6 +1497,7 @@
     + /ˈkɪndrɪd/ kindred (adj)相似的/有關的 = associated = relevant, 有親屬關係的/有血統關係的 <-- kin
     + /nɛl/ knell (n)喪鐘, 破滅的信號/凶兆 (v)鳴喪鐘, 預報凶兆
     + /ˈnɒti/ knotty (adj)有結的/多節的, 複雜難懂的 = involved = intricate = complex = complicated
+    + /kaʊˈtaʊ/ kowtow (v)叩首/卑躬屈膝
     + /ˈkjuːdɒs/ kudos (n)榮譽 = fame = glory = honor = acclaim
 
     * /kɛn/ ken (n)視野/眼界/知識範圍 = perception = scope <|> /kan/ can
@@ -2966,6 +2970,7 @@
     +++ /ˈtɛmp(ə)rət/ temperate (adj)溫暖的/溫帶的, 節制的 = moderate = continent = abstemious, 適度的 = moderate <-- temper
     +++ temperance (n)自制/節制 = continence, 適度 = moderation, 戒酒/禁酒 <-- temper
     ** temperature (n)溫度/體溫, 緊張程度
+    + tempest (n)暴風雨, 騷動 = tumult = uproar --> tempestuous (adj)劇烈的/狂暴的 = turbulent = stormy, 暴風雨的
     + tepid (adj)微溫的 = lukewarm, 不熱情的/不熱烈的 <|> torpid <|> trepid
     ++ terse (adj)簡潔的 = brief = concise = pithy = succinct = compendious = laconic = curt, 唐突的 = abrupt = curt = blunt = brusque --> terseness (n) = brevity
     + /ˈθɛspɪən/ thespian (n)(悲劇)演員
@@ -3067,7 +3072,6 @@
     ^ telling (adj)顯著的/有效的, 生動的/流露感情的
     ^ temerity (n)魯莽/大膽 = audacity = rashness <-- temer 輕率地 = rashly + ity
     ^ temp (v)做臨時工作
-    ^ tempest (n)暴風雨, 騷動 = tumult = uproar --> tempestuous (adj)狂暴的 = turbulent = stormy
     ^ tumult (n)吵鬧/喧譁, 騷亂/騷動
     ^ tempo (n)步調/速度
     ^ termite (n)白蟻
