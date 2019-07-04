@@ -56,6 +56,7 @@
     * argument (n)爭執/爭吵/辯論, 理由/論據/論點, 情節/內容提要 <|> augment
     * /ˈa-rəd/ arid (adj)乾旱的 = dry <--> damp, 枯燥的/乏味的 = dull = insipid = jejune, 不成功的/無結果的 = barren
     * arouse (v)引起/喚起/激起 = inspire = stir = foment = incite <|> arise
+    * asthma (n)氣喘
     * /əˈseɪ/ assay (n/v)化驗/分析/測定 = gauge <|> /ˈɛseɪ/ essay
     * /əˈsɛs/ assess (v)評價/估價 = evaluate = appraise --> assessment (n)評價/估價 <|> /ˈaksɛs/ access
     * asunder (adj)分離的 (adv)分離地, 化成碎片 <-- sunder
@@ -125,7 +126,6 @@
     ^ array (n)陳列/大批, (v)部署
     ^ aspen (n)白楊
     ^ asset (n)資產, 優點/長處 = advantage
-    ^ asthma (n)氣喘
     ^ astray (adj)迷路的, 誤入歧途的
     ^ athlete (n)運動員/體育選手 --> athletic (adj)強壯的/擅長運動的 = agile --> athletics (n)運動/體育  <-- athle 競賽 = ^ contest + te
     ^ atrocious (adj)殘忍的/兇惡的 = cruel = brutal, 惡劣的/糟糕的 = dreadful = woeful = abominable
@@ -204,6 +204,7 @@
     + browbeat (v)欺侮/嚇唬/威嚇 = bully
     ++ /ˈbrʌɪd(ə)l/ bridle (v)抑制/控制 = restrain = refrain, 怨恨/不滿 = resent (n)馬籠頭/馬勒 <|> bride 
     ++ broach (v)開瓶, 首次提出(討論) = moot (n)胸章
+    ++ broadside (n)猛烈抨擊, 舷側, 全部舷側砲, 單面印刷的大張紙 (adv)側面地 (v)側面撞上
     + brook (n)小河 (v)容忍 = endure = abide = tolerate <|> brood
     + /bjuˈkɑlɪk/ bucolic (adj)鄉村的/田園的 = rural = pastoral = idyllic, 牧羊的 = pastoral <-- buc 牛 = ow + olic
     ++ bumble (v)笨拙地做/弄糟 = bungle = blunder = botch = muddle, 踉蹌地走 = stumble = stagger, 小聲地說 = mumble = murmur <|> humble <|> mumble --> bumbling (adj)經常出錯的/無能的 = incompetent
@@ -482,7 +483,7 @@
     * /ʃiːk/ chic (adj)時髦的, 雅緻的
     * chide (v)責駡/訓斥 = scold = reproach = criticize <|> child
     *** chief (adj)首要的/最重要的 = cardinal, 首席的 (n)領導人/首領/頭目
-    * clement (adj)寬容的 = indulgent = permissive = lenient = merciful
+    * clement (adj)寬容的 = indulgent = permissive = lenient = merciful <|> inclement
     * cling (v)依附/附著/抓緊/抱緊, 依戀/緊挨著/捨不得放棄
     * cobweb (n)蜘蛛網/蜘蛛絲
     * coddle (v)寵愛/悉心照料 = cosset = pamper, (把雞蛋在稍低於沸點的水中)煮嫩/煮軟
@@ -880,6 +881,7 @@
     ++ flag (v)減弱/衰退 = dwindle = wither, 枯萎 = droop = wither = blight, 標記 (n)旗幟, 菖蒲 --> flagging (adj)下垂的, 衰弱的 --> flaggy (adj)枯萎的, 鬆軟無力的
     + flamboyant (adj)豔麗的/華麗的 = florid = ornate = elaborately styled, 炫耀的 = showy <-- flame
     + /flɛdʒ/ fledge (v)(幼鳥)變得羽翼豐滿 --> fledgling (n)剛會飛的幼鳥, 無經驗的人 = novice = neophyte = tyro (adj)缺乏經驗的 = inexperienced
+    + /fliːs/ fleece (v)詐欺/敲詐, 彷彿被羊毛蓋住 (n)羊毛, 羊毛織物
     + fleet (adj)快速的/敏捷的 = swift = rapid (v)掠過, 消磨 --> fleeting (adj)轉瞬即逝的/短暫的 = transient = transitory = ephemeral = momentary
     ++ flip (v)快速翻轉, 輕拍 (n)翻轉 --> flippant (adj)輕浮無禮的 = frivolously disrespectful
     ++ flounder (v)掙扎/處於困境 (n)比目魚 <-- flounce + founder
@@ -1115,6 +1117,7 @@
     + /ɡʌɪz/ guise (n)外觀/裝束 = appearance = semblance, 偽裝/假裝 = semblance <|> /ɡʌɪ/ guy
     * gull (v)欺騙 = deceive = trick (n)海鷗, 容易受騙的人 = dupe
     + /ˈɡʌləb(ə)l/ gullible (adj)易受騙的 = credulous
+    + gumption (n)精明能幹/魄力/勇氣/進取心 = resourcefulness = determination = initiative
     + gustatory (adj)味覺的/品嚐的 --> gustation (n)味覺/品嚐 <-- gust 品嚐 = taste + atory
 
     * gainly (adj)姿態優美的 = graceful = comely
@@ -1420,6 +1423,7 @@
     +++ /ˈɪmɪteɪt/ imitate (v)仿效, 模仿 = mimic = impersonate, 偽裝 = resemble = simulate, 複製 = reproduce --> imitation (n)模仿, 複製品/仿冒品 = counterfeit = copy <-- image
     + /ɪˈnɪmɪk(ə)l/ inimical (adj)有害的/不利的 = unfavorable = adverse, 敵意的/不友善的 = hostile <|> imitate <|> intimate <-- inim 敵人 = enemy + ical
     +++ /ˈɪntɪmət/ intimate (v)暗示 = hint = imply = suggest (adj)親密的, 精細的/深入的 = deep = detailed, 私人的 = personal = private (n)密友  <-- intim 深處 = inmost + ate
+    +++ intimation (n)暗示/提示
     + /ɪnˈkəʊeɪt/ inchoate (adj)剛開始的 = incipient, 未完的/未充分發展的 = rudimentary
     +++ /ɪnˈdʌldʒ/ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor = pamper --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
     + inkling (n)暗示/跡象 = hint, 略知/模糊概念
@@ -2048,6 +2052,7 @@
     + pioneer (n)先驅者/開拓者 (v)開闢/倡導
     ++ /piːk/ pique (n)生氣/慍怒 = resentment (v)使生氣/激怒 = irritate = vex = irk = provoke, 刺激/激起 = excite = arouse = provoke, 驕傲 = pride --> piquant (adj)辛辣的/開胃的 = pungent = spicy = poignant, 有趣的/刺激的 = attractive = stimulating = provocative
     +++ /ˈpɔɪnjənt/ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
+    ++ pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
     + /ˈpɪvət/ pivot (n)樞紐/轉捩點 (v)繞...轉 --> pivotal (adj)中樞的, 關鍵的 = critical = crucial = key = vital
@@ -2103,7 +2108,6 @@
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely, 和藹的 = affable = amiable = sociable = cordial = genial
     * personnel (n)全體人員/員工
     * /pɪə/ pier (n)碼頭, 防波堤 = levee, 墩/橋墩
-    ** pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
     * pittance (n)微薄的收入 <-- pity
     * pitcher (n)投擲者, 大水罐/水壺
@@ -3384,10 +3388,10 @@
     * /ziːl/ zeal (n)熱忱/熱情/狂熱 = zest = fervor = enthusiasm
     + /ˈzɛlət/ zealot (n)狂熱者 = fanatic = maniac --> zealotry (n)狂熱行為
     + /ˈzɛləs/ zealous (adj)熱情的/狂熱的 = devoted = diligent = ardent = impassioned
+    + /ˈzɛnɪθ/ zenith (n)天頂, 極點
 
     * zest (n)風味/滋味 = relish = savor, 熱情 = zeal, 柑橘類的皮
 
-    ^ zenith (n)天頂, 極點
     ^ zephyr (n)和風, 西風
     ^ zigzag (n)Ｚ字形/曲曲折折 (adj)鋸齒形的
     ^ zone (v)分成區
