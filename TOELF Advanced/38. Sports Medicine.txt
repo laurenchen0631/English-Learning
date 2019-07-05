@@ -1,0 +1,65 @@
+[Listened Key Sentence]
+1. Sports medicine encompasses four areas.
+2. Physical preparation involves a program of conditioning exercises designed to develope certain muscle groups and to increase cardiac output and oxygen intake. 
+3. Athletic shoes are continually improved to boost afterly speed and endurance. 
+4. New materials can increase performance by decreasing friction and resistance.
+5. Nutrition is a critical aspect of sports medicine.
+6. The wrong diet can seriously impair athlete's performance and health.
+
+[Real Key Sentence]
+1. Sports medicine encompasses four areas. 運動醫學包含四個領域
+2. Physical preparation involves a program of conditioning exercises designed to develop certain muscle groups and to increase cardiac output and oxygen intake. 身體的準備包括一整套訓練運動，設計來強化某些肌肉群，增加心臟的輸出量及氧氣的吸收量
+3. Athletic shoes are continually improved to boost athlete's speed and endurance. 運動鞋一直不斷改進，以提升運動員的速度與耐力
+4. New materials can increase performance by decreasing friction and resistance. 新材料可以藉著減少摩擦力和阻力，提高運動員的成績
+5. Nutrition is a critical aspect of sports medicine. 營養是運動醫學一個非常重要的面向
+6. The wrong diet can seriously impair an athlete's performance and health. 不當的飲食可能嚴重危害運動員的表現與健康
+
+[Listened Article]
+Sports medicine encompasses four areas: preparation of the athletes, prevention of injury or illness, diagnosis and treatment of injury, and rehabilitation. Physical preparation involves a program of conditioning exercises designed to develope certain muscle groups and to increase cardiac output and oxygen intake. Mental preparation focuses on building self-image maintaining motivation and discipline to train regularly, avoiding undue risk, and learning to accept whatever changes in lifestyle may be necessary. Mental preparation also helps athletes to handle the psychological stress associated with the risk of injury and illness. Practicioners of sports medicine advise manufacturer on the development of the equipment that enhances the performance and promotes the help and safety of athletes. Athletic shoes, for instance, are continually improved to boost athlete's speed and endurance while providing comfort and protection from injury. New materials make sportswear more comfortable and protective and can increase performance by decreasing friction and resistance.
+
+Nutrition is a critical aspect of sports medicine. The wrong diet can seriously impair athlete's performance and health. Nutritional counselling by trained professionals can ensure that athletes have what they need in terms of nutrition adequacy, energy requirements, protein and carbohydrate distribution, timing of meals, and fluid intake. In the late 20th century, increasing intention was given to athlete's use of so called performance-enhancing drugs, such as anfinamin and anabolisterois. Today the practicioners of sports medicine must be prepared to advise athletes about the serious health risk associated with such drug use. 
+
+[Real Article]
+Sports medicine encompasses four areas: preparation of the athlete, prevention of injury or illness, diagnosis and treatment of injury, and rehabilitation. Physical preparation involves a program of conditioning exercises designed to develop certain muscle groups and to increase cardiac output and oxygen intake. Mental preparation focuses on building on self-image, maintaining motivation and discipline to train regularly, avoiding undue risks, and learning to accept whatever changes in life-style may be necessary. Mental preparation also helps athletes to handle the psychological stress associated with the risk of injury or illness. Practitioners of sports medicine advise manufacturers on the development of equipment that enhances performance and promotes the health and safety of athletes. Athletic shoes, for instance, are continually improved to boost athlete's speed and endurance while providing comfort and protection from injury. New material make sportswear more comfortable and protective and can increase performance by decreasing friction and resistance.
+
+Nutrition is a critical aspect of sports medicine.  The wrong diet can seriously impair an athlete's performance and health. Nutritional counselling by trained professionals can ensure that athletes have what they need in terms of nutrient adequacy, energy requirements, protein and carbohydrate distribution, timing of meals, and fluid intake. In the late 20th century, increasing attention was given to athletes' use of so-called performance-enhancing drugs such as amphetamines and anabolic steroids. Today, practitioners of sports medicine must be prepared to advise athletes about the serious health risks associated with such drug use.
+ 
+[Review]
+- conditioning 訓練的/調適的 == The process of training or accustoming a person or animal to behave in a certain way or to accept certain circumstances.
+- muscle group 肌肉群
+- cardiac /ˈkɑːdɪak/ 
+	> 心臟的 |Relating to the heart.|
+	> 心臟病患者 |A person with heart disease.|
+	> |Relating to the part of the stomach nearest the oesophagus.|
++ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
++ aspect
+	> 面向 |A particular part or feature of something.| personal effectiveness in all aspects of life
+	> 觀點 |A particular way in which something may be considered.| from every aspect theirs was a changing world
+	> 外觀/樣子 |A particular appearance or quality.| ‘the air of desertion lent the place a sinister aspect
+	> 方位/面向 |The positioning of a building or other structure in a particular direction.|
+	> 時態 |A category or form which expresses the way in which time is denoted by a verb|
+- injure --> injury (n)
+	> 傷 |Do physical harm or damage to (someone)| the explosion injured several people
+	> 受傷 |Suffer physical harm or damage to (a part of one's body)| he injured his back helping the girl
+	> 危害/損害 |Harm or impair (something)| a libel calculated to injure the company's reputation
+- self-image 自我意像，為心理學概念，一般用來指一個人在內在的圖像
++ discipline /ˈdɪsɪplɪn/ 
+	> 懲戒/懲罰 |The practice of training people to obey rules or a code of behaviour, using punishment to correct disobedience.| a lack of proper parental and school discipline
+	> 教養/休養 |The controlled behaviour resulting from such training.| he was able to maintain discipline among his men
+	> 訓練 |Activity that provides mental or physical training.| he tariqa offered spiritual discipline
+	> 紀律/風紀 |A system of rules of conduct.|
+	> 學科 |A branch of knowledge, typically one studied in higher education.| sociology is a fairly new discipline
++ undue 過度的/過分的 == Unwarranted or inappropriate because excessive or disproportionate.
+- practitioner 實踐者/開業者 == A person actively engaged in an art, discipline, or profession, especially medicine.
+- sportswear 運動裝 == Clothes worn for sport or for casual outdoor use.
++ counsel
+	> 忠告 |Advice, especially that given formally.| with wise counsel a couple can buy a home that will be appreciating in value
+	> 勸告 |Give advice to (someone)| careers officers should counsel young people in making their career decisions
+	> 給予專業幫助 |Give professional help and advice to (someone) to resolve personal or psychological problems.| he was being counselled for depression
+	> 推薦 |Recommend (a course of action)| the athlete's coach counselled caution
+	> 律師/辯護人 |A barrister or other legal adviser conducting a case.| the counsel for the defence
+- amphetamine /amˈfɛtəmiːn/ 安非他命/苯丙胺
+- anabolic steroid /ˌanəˌbɒlɪk ˈstɪərɔɪd/ 同化類固醇
++ so-called 所謂的 == used to introduce a new word or phrase that is not yet known by many people
+	> It was one of his so-called friends who supplied him with the drugs that killed him.
+	> It isn't yet clear how dangerous these so-called "super-rats" are.

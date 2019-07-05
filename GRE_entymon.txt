@@ -2320,9 +2320,9 @@
 
     flor, flour 花/開花 = bloom, flower == anth
         - efflorescent (adj)開花的
+        - florescence (n)花期, 全盛期
         + flora (n)(某地區或時代的)植物群 <|> fauna
         ++ florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
-        - florescence (n)花期, 全盛期
         + flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
 
     front 前面/臉面 = forehead
@@ -2807,99 +2807,99 @@
             + incorrigible (adj)屢教不改的/不可救藥的
             - incorruptible (adj)不腐敗的/清廉的
             - incredulity
-            * indecent (adj)下流的/猥褻的 = bawdy = vulgar = obscene = lewd, 不適合的
+            * indecent (adj)下流的/猥褻的 = bawdy = vulgar = obscene = lewd, 不恰當的
             - indecipherable (adj)無法破譯的/難讀解的 <-- in + decipherable
             + indecisive
             + indefatigable (adj)不知疲倦的 <-- in + de 加強 + fatigable
             - indelible
             - indemnify --> indemnity
             + indeterminate (adj)不確定的/不明的 = uncertain = indefinite
-            +++ indifferent (adj)不關心的/冷淡的 = apathetic = bland = callous = insensitive, 公平的 = impartial = disinterested = unbiased, 中等的/一般的 = normal = average = routine
+            +++ indifferent (adj)不關心的/冷淡的 = apathetic = bland = callous = insensitive, 公平的 = impartial = disinterested = unbiased, 中等的/一般的 = normal = average = routine <|> disinterested
             + indirect (adj)迂迴的 = roundabout, 間接的/含蓄的
             * indignant --> indignation
             - indignity
-            + indiscriminate (adj)不加區別的, 隨意的 = haphazard = thoughtless, 混合的 = jumbled
-            + indispensable (adj)必要的 = necessary = essential = requisite, 無法忽視的 --> indispensability (n)不可缺少 = necessity
-            - indispensability
-            + indecorous (adj)不適當的 = unseemly
+            ++ indiscriminate (adj)不加區別的, 隨意的 = haphazard = thoughtless
+            + indispensable (adj)必要的 = necessary = essential = requisite --> indispensability (n)不可缺少 = necessity
+            + indecorous (adj)不適當的 = unseemly = improper
             +++ indolent --> indolence
             - indubitable
-            - ineffable (adj)妙不可言的/難以形容的 = inexpressible <-- in + effable [古]可表達的
+            - ineffable
             - inelasticity (n)無彈性/無伸縮性 = in + elasic 彈性的 + ity
-            + ineluctable (adj)無法逃避的/不可避免的 = inevitable <-- in + eluc 逃避 = struggle out + able
+            + /ˌɪnɪˈlʌktəb(ə)l/ ineluctable (adj)無法逃避的/不可避免的 = inevitable <-- in + eluc 逃避 = struggle out + able
             + inept --> ineptitude
             - inequity
-            + inert (adj)惰性的, 無生命的, 遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
-            - inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing , 不會疲勞的 = untiring = tireless
+            + /ɪˈnəːt/ inert (adj)惰性的, 無生命的/遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
+            - inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing, 不會疲勞的 = untiring = tireless
             ++ inexorable (adj)無法改變的/不可阻擋的, 說不動的/無情的 = implacable = relentless = unyielding = stern
             + inexplicable (adj)無法解釋的 = mysterious = obscure
             + inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable
-            - infancy (n)嬰兒期/幼年, 初期/發展階段
-            - infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
-            + infallible (adj)絕對正確的 = certain, 永無過失的/不會犯錯誤的
+            * infancy (n)嬰兒期/幼年, 初期/發展階段
+            * infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
+            + infallible (adj)永無過失的/不會犯錯誤的
             - infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
             - infinite --> infinity
-            - infinitesimal (adj)極微小的 (n)極小量
+            - infinitesimal
             - infirm --> infirmary
-            ** informal (adj)非正式的/臨時的 = casual = irregular = unofficial, 通俗的/日常的
+            ** informal (adj)非正式的 = unofficial, 不拘禮節的, 口語的/通俗的 <|> inform
             + ingrate --> ingratitude
             - inhumane (adj)不近人情的/不人道的/殘忍的 = cruel = brutal = unkind = wanton
-            - inimitable (adj)無法仿效的/獨特的/不可比擬的 <-- in + imitate + able
+            - /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 <-- in + imitate + able
             + iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin --> iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
-            + initial (adj)開始的/最初的 (n)姓名的首字母 <-- in + it + ial  --> initially (adv)最初/開始
-            - initiate (v)發起/創始, 入會 --> initiative (n)主動的行動/倡議, 首創精神/進取心 = enterprise <-- initial 
-            + injudicious (adj)輕率的/不智的 = imprudent = unwise = indiscreet = hasty
+            + /ɪˈnɪʃ(ə)l/ initial (adj)開始的/最初的, 首字的 (n)姓名的首字母 (v)簽首字母, 簽字以同意 <-- in + it + ial  --> initially (adv)最初/開始
+            ** /ɪˈnɪʃɪeɪt/ initiate (v)發起/創始, 入會  <-- initial
+            *** /ɪˈnɪʃətɪv/ initiative (n)主動的行動/倡議, 首創精神/進取心 = enterprise, 主動權, 新作法
+            + /ɪndʒʊˈdɪʃəs/ injudicious (adj)輕率的/不智的 = imprudent = unwise = indiscreet = hasty
             - injury --> injurious
             - innocent --> innocence
             + innocuous
             + inopportune (adj)不適合的/不合時宜的 = inappropriate = inconvenient = untimely
             + inordinate
             - insatiable
-            + inscrutable (adj)高深莫測的/不可理解的 = unfathomable = mysterious = impenetrable <-- in + scrutable
+            + /ɪnˈskruːtəb(ə)l/ inscrutable (adj)高深莫測的/不可理解的 = unfathomable = mysterious = impenetrable <-- in + scrutable
             - insensate
             + insensible = unconscious = unaware = unresponsive
             - insentient
             + insignificant (adj)不重要的 = trivial = inconsequential, 無足輕重的 = contemptible = despicable, 無意義的 = meaningless
-            + insincere (adj)虛偽的/不誠懇的 = hypocritical = sanctimonious = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
+            + /ɪnsɪnˈsɪə/ insincere (adj)虛偽的/不誠懇的 = hypocritical = sanctimonious = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
             + insipid
             - insolent 
             - insoluble
             - insolvency
             - insomnia
             + inseparable (adj)不可分割的/形影不離的
-            + insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual <-- in + souci 擔心 = worry + ant
+            + /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual <-- in + souci 擔心 = worry + ant
             + insuperable (adj)難以克服的 = insurmountable = unconquerable
             * insurmountable (adj)無法克服的/無法逾越的
             - intact
             + intangible (adj)無形的/觸摸不到的 <-- in + tangible
-            + interminable (adj)無盡頭的/無止盡的
-            + intemperance (n)過度放縱 = excessive indulgence
-            + intractable (adj)倔強的/難管的/棘手的 = implacable = stubborn = obstinate, 難以塑型的, 難以治癒的
+            + /ɪnˈtəːmɪnəb(ə)l/ interminable (adj)無盡頭的/無止盡的
+            + intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
+            + intractable (adj)倔強的/難管的/棘手的 = implacable = stubborn = obstinate
             + intransigent (adj)不妥協的 = pertainacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
             + intransigence (n)不妥協/不讓步
             + intrepid
-            - intuit (v)由直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的 <-- in + tuit 看 = look 
+            - intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的 = instinctive <-- in + tuit 看 = look 
             + invalidate (v)使無效 = nullify
             * invariably (adv)不變地/總是 == always == In every case or on every occasion
             - invertebrate (adj)無脊椎的 (n)無脊椎動物 = in + vertebrate 
             + invidious
-            - inviolate (adj)不可侵犯的/不可褻瀆的 <-- in + violate + able
+            - inviolate (adj)未被侵犯的/未被褻瀆的 <-- in + violate + able
             * involuntary
             - invulnerable (adj)無法傷害的
             + irrational (adj)無理由的, 不合理的/不合邏輯的 = illogical = inconsequential
-            - irreproachable (adj)無法批評的/無缺點的 = impeccable
-            - irreconcilable (adj)不能協調的, 矛盾的 <-- ir + reconcilable
-            - irredeemable (adj)無法挽回的 <-- ir + redeem + able
+            - irreproachable (adj)無法批評的/無缺點的 = impeccable = faultless
+            - irreconcilable (adj)不能協調的/不合的/矛盾的 <-- ir + reconcilable
+            - irredeemable (adj)無法挽回的, 無法兌換的 <-- ir + redeem + able
             - irreducible (adj)(數學)不能約分的 <-- ir + reduce + ible
             + irrefutable (adj)無可辯駁的/無可置疑的
             * irregular (adj)(行為)不正常的, 不規則 = sporadic, 非正規軍的
             - irremediable (adj)無法治癒的 = incurable, 無法糾正的 <-- ir + remedy + ible
-            + irrelevant (adj)無關的 = extraneous = impertinent = immaterial = inconsequential
+            +++ irrelevant (adj)無關的 = extraneous = impertinent = immaterial = inconsequential
             - irrepressible (adj)壓抑不住的 <-- ir + repress + ible
             - irreverence (n)不敬 = disrespect <--> awe <-- ir + reverence
             - irrevocable (adj)不可撤回的/無法取消的 <-- ir + revoke + able
             + irresolute (adj)優柔寡斷的/猶豫的 = wavering = vacillating = doubtful = hesitating <-- ir + resolute
-            + irresponsible (adj)不負責任的 = feckless = flighty, 不可靠的
+            +++ irresponsible (adj)不負責任的 = feckless = flighty, 不可靠的
 
         2. 裡面/進入/使/加強 = in == en
             + illuminate
@@ -3732,7 +3732,7 @@
         - ammunition (n)彈藥
 
     monstr 顯示 = show
-        - demonstrate (v)證明/論證, 演示, 表達/顯露, 示威 --> demonstrative (adj)證明性的, (詞語)指示性的, 喜怒形於色的
+        ++ demonstrate (v)證明/論證, 演示, 表達/顯露, 示威 --> demonstrative (adj)證明性的, (詞語)指示性的, 喜怒形於色的
         + remonstrate (v)抗議/反對 = object = protest, 進諫/告誡
 
     mass 一團
@@ -5281,7 +5281,7 @@
             + retire (v)退出/退隱, 退休, 退隱, 後退/撤退 = retreat, 就寢 --> retiring (adj)隱居的/不喜社交的 = reserved <-- re + tire 拉 = draw
             * retort
             - retrace (v)回顧/追想 <-- re + trace
-            - retract
+            + retract
             + retreat (n/v)撤退 (n)隱退處/休養所
             - retribution
             - revel (v)著迷, 狂歡/歡宴 --> revelry (n)(吵鬧的)狂歡/縱酒/作樂 = bacchanalia = orgy <|> reveal <-- rebel
@@ -5747,6 +5747,7 @@
         - similarity (n)相似 = analogy = resemble
         + /ˈsɪmɪli/ simile (n)直喻/明喻 <|> smile
         - simulate (v)模仿/偽裝
+        + simulacrum -> simulacra (n)相似物/相似的東西, 拙劣的模仿或替代品 <-- simulate
         - simultaneous (adj)同時發生的
         + syllogism (n)三段論/演繹推理, 詭辯/狡辯
         + symbiosis
@@ -6173,7 +6174,7 @@
             - hypotenuse (n)直角三角形的斜邊
             + pretentious (adj)矯飾的/做作的 = meretricious, 炫耀的 = ostentatious = showy, 自負的
             + protract (v)延長/拖長 = prolong --> protracted (adj)拖延的/長時間的
-            - retract (v)縮回/收回 = recant
+            + retract (v)縮回/收回, 撤回 = recant
             - subtract (v)減去/減掉
             - tend (v)照料/管理, 走向/趨向
             * tendency (n)傾向 = bent = inclination, 趨勢 = trend
@@ -6345,7 +6346,7 @@
         * retort (n/v)反擊/反駁/回嘴 = riposte = reply = retaliate
         - torture (n/v)拷打/拷問/折磨/虐待 = torment = afflict
         - torment (n)折磨/痛苦
-        ++ tortuous (adj)彎彎曲曲的 = twisting = winding, 拐彎抹角的 = roundabout = circuitous = devious, 囉嗦的, 陰險的
+        ++ tortuous (adj)彎彎曲曲的 = twisting = winding, 拐彎抹角的 = roundabout = circuitous = devious
         + torque (n)力矩, 項鍊/手鐲/項圈
         - tornado (n)颶風/龍捲風
 

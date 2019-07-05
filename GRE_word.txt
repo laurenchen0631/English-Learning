@@ -2322,6 +2322,7 @@
     ++ /ˈramɪfʌɪ/ ramify (v)分支/分叉 --> ramification (n)分枝/分派 = branch, 延伸性影響/結果 = implication = consequence = outgrowth <-- ram 分枝 = branch + ify
     ** ramp (v)用後腳立起/躍立, 橫衝直撞/暴跳 (n)斜面/斜坡/坡道, 野韭葱
     ++ rampant (adj)猛烈的 = raging = furious, 繁茂的/蔓生的, 蔓延的/猖獗的 = prevailing = unchecked = rife <-- ramp
+    + rankle (v)使怨恨/使痛苦
     + rant (v)咆哮 = rave, 嚴厲斥責 = rail = fulminate = inveigh = scold vehemently (n)激烈的發言 = tirade
     ++ rare (adj)罕見的 = peculiar = uncommon = unusual = scarce, 稀薄的/稀疏的, 傑出的 = excellent = admirable = fine
     ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄, 使精細/使純化 --> rarefied (adj)稀薄的, 崇高的 = elevated = lofty = exalted = noble, 限於圈內人的 = esoteric --> rarefaction (n)
@@ -2392,7 +2393,6 @@
     ^ rancid (adj)不新鮮的/腐臭的/變質的 = rank = stinking
     ^ random (adj)沒有明確目的或計劃的, 偶然的/隨便的 = haphazard
     ^ ranger (n)森林管理員, 巡邏騎警
-    ^ rankle (v)怨恨, 激怒
     ^ ransom (n)贖金/贖身 (v)贖身
     ^ rasp (v)發出刺耳聲/刺激 (n)刺耳聲 --> raspy (adj)刺耳的 = grating = harsh, 惱人的 = irritable
     ^ raucous (adj)沙啞的 = hoarse
@@ -2966,6 +2966,7 @@
     + /ˈtasɪt/ tacit (adj)心照不宣的/不明言的 = implied, 沈默的 = unvoiced = unspoken = silent --> taciturn (adj)沈默寡言的
     + tantalize (v)挑逗/吊人胃口
     + /ˈtantəmaʊnt/ tantamount (adj)相等的 <-- tanto + amount
+    + tarnish (v)(尤指金屬)失去光澤, 誹謗/中傷 = besmirch = smear = slur = slander = derogate = taint (n)無光澤, 玷污
     ++ /ˈtɔːdri/ tawdry (adj)花俏而庸俗的/俗麗的 = gaudy = cheap = cheap-looking = indecent = meretricious
     +++ tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔, 斥責 = censure = reprove = accuse --> taxing (adj)繁重的 = burdensome = demanding = onerous
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
@@ -3007,6 +3008,7 @@
     +++ trifling (adj)不重要的/瑣碎的 = futile = nugatory = frivolous = minute = trivial, 輕浮的/輕佻的 = frivolous
     + trigger (v)引發/導致 (n)板機
     + /ˈtrʌɪʌmf/ triumph (n/v)凱旋/勝利/成功 = victory = conquest, 歡欣 = exultation = jubilation
+    + tribulation (n)苦難/磨難 = suffering
     +++ /ˈtrɪvɪəl/ trivial (adj)瑣細的/不重要的/無價值的 = inconsequential = lilliputian = trifling = nugatory = petty = futile = frivolous = paltry = slight, 平凡的 = commonplace = ordinary --> trivialize (v)使顯得不重要/輕視
     ++ truculent (adj)殘暴的/兇狠的 = fierce = savage = belligerent, 尖刻的 = scathing = mordant = pungent = sarcastic = sardonic = vitriolic, 好鬥的 = belligerent --> truculence (n) = aggressiveness <-- truc 兇猛 = savage + ulent
     + /trɪst/ tryst (n/v)約會/幽會 = rendezvous = date = engagement
@@ -3039,7 +3041,6 @@
     * tremble (n/v)顫抖/發抖 <-- trem
     *** tremendous (adj)巨大的/極大的, 極度的/驚人的, 可怕的 <-- trem
     * trench (n)溝/溝渠/戰壕/海溝 (v)挖溝/挖戰壕, 侵害/侵佔 <|> trenchant <|> entrench <|> retrench
-    * tribulation (n)苦難 = suffering
     * tuber (n)塊莖, [解剖]結節/隆起/腫脹
     * turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
@@ -3065,7 +3066,6 @@
     ^ tapestry (n)掛毯
     ^ tare (n)裨子/莠草/雜草
     ^ tariff (n)關稅
-    ^ tarnish (v)(尤指金屬)失去光澤, 誹謗/中傷 = besmirch = smear = slur = slander = derogate = taint
     ^ tarpaulin (n)防水油布
     ^ tart (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious (v)裝點/裝扮 (n)水果餡餅
     ^ tasty (adj)味道好的, 有趣的
