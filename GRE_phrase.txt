@@ -295,16 +295,16 @@
 			>> allegation
 			>> undiminished == undamaged
 	
-	- at odds with 不合/矛盾 == disagree with == quarrel with
+	+ (be) at odds 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
+		> They're at odds over the funding of the project.
+		> Her version of events was at odds with the police report.
 		> He was at odds with this Prime Minister.
-			>> Prime Minister 首相
 		> But Mendelssohn's enduring popularity has often been at odds - sometimes quite sharply - with his critical standing.
-			>> critical standing 批判性地位
-
-	- at the mercy of 任由...擺佈 == be affected/harmed by
+	* at the mercy of 任由某人/某事物擺布或控制 == be affected/harmed by == to not be able to protect yourself from something or someone that you cannot control
 		> Buildings are left to decay at the mercy of vandals and the weather
 			>> vandal
 		> An institution concerned about its reputation is at the mercy of the actions of its members, because the misdeeds of individuals are often used to discredit the institutions of which they are a part.
+		> Farmers are often at the mercy of the weather.
 	- at no point == Never
 		> t no point did I feel unprepared or unable to be a father.
 	- attribute A to B
@@ -389,8 +389,6 @@
 		> He was dead set on restricting the way that the dancing raisin was displayed on the packaging of other brands — and Sun-Maid, which now represents about 40 percent of the industry, was big enough to put the pressure on.
 	- be riddled with == be full of
 		> But if the platforms themselves are riddled with distractions, these efforts are moot.
-	- be fraught with == filled with or likely to result in (something undesirable)
-		> Our understanding of the interaction between pop culture and real-world consequences is fraught with lazy assumptions and fearmongering, and the best research is never utterly conclusive, but suicide is mostly an exception to this state of confusion.
 	- be under the gun == to feel worried because you have to do something by a particular time or in a particular way
 		> Al's under the gun to decide by the end of the month whether to move with his company.
 	* be doomed to == If something is doomed to happen, or if you are doomed to a particular state, something unpleasant is certain to happen, and you can do nothing to prevent it.
@@ -524,6 +522,9 @@
 		> Fresh evidence has recently come to light that suggests that he didn't
 	- come undone 忍不住大哭 == When something hits you out of left field and you can't help but cry. 
 		> Something about the way she said "goodbye" made me come undone.
+	- come in handy 特別有用 == To be especially useful, often in a particular setting or situation.
+		> It was a lot colder out than I thought it would be, so your jacket really came in handy!
+		> That flashlight comes in handy when I'm trying to find something in my car at night.
 	- can hardly help doing sth 不得不/情不自禁 == cannot help doing sth == be unable to prevent yourself from doing sth.
 		> I could hardly help teasing him a little.
 		> As a member of the middle class, Gaskell could hardly help approaching working-class life as an outside observer and a reporter, and the reader of the novel is always conscious of this fact.
@@ -586,6 +587,13 @@
 		> the extend to which sea mammals use sound to communicate and navigate was not known until Word War II. 海洋哺乳類能利用聲音還溝通、導航到什麼樣的程度，直到第二次世界大戰前都不為人所知。
 
 [F]
+	+ fall/run afoul of 犯/違 == to do something you are not allowed to do, esp. breaking a rule or law:
+		> After leaving home he fell afoul of the law.
+	- fall/go to pieces
+		> 崩潰 |If someone goes/falls to pieces, that person becomes unable to think clearly and control their emotions because of something unpleasant or difficult that they have experienced| She just went (all) to pieces during finals.
+		> 失敗 |If a relationship, organization, or system goes/falls to pieces, it fails:|
+	- fall prey to something/someone == to be influenced by someone or something
+		> Grocers, in their own workaday way, fall prey to the same inertia
 	- first of all == first == first off
 		> First of all, Moon says, lots of places have either old trees or dark skies, but not both
 	- for the sake of N == in order to achieve that N
@@ -614,6 +622,8 @@
 		> That sign was a tradition. People went out of their way to see it.
 	- go over sb's head 對...太過難懂 == to be too difficult for someone to understand
 		> All this talk about philosophy went right over my head.
+	- go to great lengths 奮力嘗試 == to try very hard to achieve something
+		> Some people go to great lengths to make their homes attractive.
 	- give rise to == to cause something
 		> International support has given rise to a new optimism in the company.
 [H]
@@ -671,6 +681,8 @@
 	+ in a/the sense of/that 意味 == It is used to distinguish between two possible senses of a word or phrase.
 		> I wouldn't describe myself as black in the sense that I do not actually have black-coloured skin - it is brown.
 		> In this fashion it lives harmoniously, not in the sense of absence of struggle but in the sense that its inherited equipment makes it a fixed and unchanging part of its world. 在這種情況下，動物可以和諧地生存，和諧並不是說動物不需要奮鬥掙扎，而是說經由遺傳獲得的能力，使動物成為生存環境固定不變的一部份
+	- in the blink of an eye 一眨眼 ==  extremely quickly
+		> In the blink of an eye, he was gone.
 [J]
 	- jump the gun == to do something too soon, especially without thinking carefully about it 
 		>  As he watched investors dump tens or hundreds of millions at once into the esports organization du jour, Fields has become concerned they’re “jumping the gun.”
@@ -720,6 +732,15 @@
 	- on the bench
 		> 做審 |Acting as judge in a court case.| I thought we had a good chance of winning, but Steinman is on the bench—there's no way he'll rule in our favor.
 		> 比賽中休息 |Of a player or players in a team sport, not currently in the game, but situated on the perimeter of the playing area (often literally seated on a bench).| The players on the bench might have a big impact on this game if the starters need to come out.
+	- on and off 時斷時續地/間歇地 == If something happens on and off during a period of time, it happens sometimes.
+		> I've had toothache on and off for a couple of months.
+	- on a whim 突然地 == Based on a sudden, impulsive urge, desire, or idea
+		> On a whim, we drove to the beach for the weekend.
+	- on the lam 逃亡中 == trying to avoid being caught by the police
+	- one step at a time 一步步地 == slowly and carefully, doing just a little at a time
+		> He wanted to rush through the job, but I encouraged him to take it one step at a time.
+	- one and the same 同一個事物/同一個人 == the same thing or person 
+		> I was amazed to discover that Mary's husband and Jane's son are one and the same (person).
 	+ one another == each other.
 		> the children used to tease one another
 	- of sorts == used to describe something that is not a typical or good example of something
@@ -727,6 +748,8 @@
 	- off guard == Unprepared for a surprise or difficulty.
 	- off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
 		> She made it clear that her comments were strictly off the record.
+	- off the map 不再知名 == no longer famous or relevant
+		> Mary Kate and Ashley are long off the map if you ask me.
 	- out of the gate == At or from the very starting position
 		> The company’s stock tumbled about 5% out of the gate, to the $42 range.
 	- out of the red == No longer having a debt owed to one or more other people, corporations, banks
@@ -736,6 +759,9 @@
 		> Their goal is out of reach.
 	- out of hand == out of control
 		> the New York Times suggested that the craze was getting out of hand.
+	- be/keep/stay one step ahead of 
+		> 比...準備得更好 |to be better prepared for something or know more about something than someone else| A good teacher is always at least one step ahead of his students.
+		> 設法不被...逮到 |to manage not to be caught by someone who is trying to find or catch you| the two had fled across the region to stay one step ahead of the law
 
 [M]
 	- make up
@@ -743,6 +769,10 @@
 		> 組成 |(of parts) compose or constitute (a whole).| Women make up 40 per cent of the workforce.
 		> 編造 |to invent an explanation for something, especially in order to avoid being punished or embarrassed| He made up some excuse about the dog eating his homework.
 		> |to prepare or arrange something| I’ll get the chemist to make this prescription up for you.
+	- more or less
+		> 主要/大體 |mostly| The project was more or less a success.
+		> 大約 |approximately| It's 500 kilos, more or less.
+		> 幾乎/差不多 |almost| He more or less admitted he'd done it.
 
 [N]
 	- never/not once 從不 == used to emphasize that something has never happened
@@ -752,6 +782,8 @@
 		> No sooner had I started mowing the lawn than it started raining.
 		> No sooner had the first passenger railroads begun operations in England and the United States, than the public was seized by what was called "railroad mania."
 		> No sooner had the first passenger railroads begun operations in England and the United States, around 1830, than the public was seized by what was called, even then, "railroad mania."
+	- not mince (one's) words 直接地表達不滿 == Voice one's disapproval candidly and directly.
+		> his doctorly persona is that of a gruff surgeon who does not mince words
 
 [P]
 	- prefer to V
@@ -762,6 +794,8 @@
 	- pick sb/sth out of a hat 隨機選出 == To select someone or something entirely at random
 		> I don't understand why our company is being targeted. It's as if the IRS picked us out of a hat to scrutinize!
 		> It doesn't really matter who gets promoted to assistant manager—just pick a name out of a hat for all I care!
+	- place sth in one's hand 讓...負責.. == to make someone responsible for dealing with something
+		> Responsibility for the budget was placed in the hands of team leaders.
 [R]
 	- run short of == to near the end of a supply of something
 		> When people have to wait in queues, they risk running short of oxygen - and may not have enough oxygen left on their way down.
@@ -784,6 +818,8 @@
 	+ strike a blow for sth 支持/捍衛 == to do something that supports or defends something
 		> The judge's ruling has struck a blow for racial equality.
 		> Who would be free themselves must strike the blow.
+	- sick at heart 非常不高興 == very unhappy
+		> David was sick at heart about having to leave his family behind.
 [T]
 	+ the more ... the more/less 越...就越...
 		> The more fruit and vegetables you eat, the less chance you have of getting cancer.
@@ -804,6 +840,9 @@
 		> Philosophers and scientists through the ages have compared the human brain to various mechanisms 
 	- the last straw 最後一根稻草
 		> The woman's arrest was the last straw of Montgomery's African Americans
+	- the real deal
+		> 真正的能手／好事 |someone or something that is very good and has all the qualities that people say they have| His performance proved he's the real deal.
+		> 真實/真實性 |the facts about something|  The booklet gives you the real deal on smoking.
 	+ take sth into account 考慮到/顧及 == to consider or remember something when judging a situation
 		> I hope my teacher will take into account the fact that I was ill just before the exams when she marks my paper.
 		> A good architect takes into account the building's surroundings.
@@ -811,6 +850,11 @@
 	- take to the streets 走上街頭/抗爭/示威 == To gather together in the public streets of a town or city to show communal solidarity in either celebration or opposition.
 	- take advantage of 利用 == to use an opportunity to achieve results, sometimes in an unfair way
 		> The mobility offered by the horse resulted in the convergence of diverse aboriginal groups onto the Plains to take advantage of the material wealth afforded by hunting the great bison herds
+	- take (great) pains to 奮力去做 == to try very hard to so something
+		> He took great pains to dress well for the occasion.
+	- take sth for example
+	- take for granted == to never think about something because you believe it will always be available or stay exactly the same
+		> And with new ways to sell food ascendant, legacy grocers like Rich Niemann are failing to bring back the customers they once took for granted
 	- think nothing of 認為…容易/看輕 == to consider that an activity is easy and not unusual
 		> When I was younger, I thought nothing of riding my bike 50 miles in a day.
 [U]
@@ -836,3 +880,5 @@
 		> What in the world are you doing in the cupboard?
 		> Who in the world could do such a thing?
 		> In another moment down went Alice after it, never once considering how in the world she was to get out again
+	- (the) writing is on the wall 有著不詳的徵兆 == said to mean that there are clear signs that something will fail or no longer exist
+		> Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”

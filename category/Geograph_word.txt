@@ -55,50 +55,27 @@
 		> |A bet on four or more horses to win (or be placed) in different races.|
 		> |A code word representing the letter Y, used in radio communication.|
 
-[U.S POI]
-	- the United States
-	- Niagara Falls /nʌɪˈaɡ(ə)rə/
-	- the Colorado River
-	- the North American continent
-	- the Grand Canyon 大峽谷
-	- the Gulf of California 加利福尼亞海灣
-	- the Great Lakes 五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
-	- the Central Valley 中央谷地是縱貫美國加利福尼亞州中部的平原
-	- the Rust Belt 鐵帶。美國地區的貶義詞，主要由美國中西部和五大湖地區組成
-	- the Great Plains 北美大平原。大致位於密西西比河以西、落基山脈以東、格蘭德河以北
-	- the South 美國南部。依據美國人口調查局的定義，美國南部包括了16個州
-	- the Deep South 深南部，又稱為棉花州，一般情況下，是將亞拉巴馬州、喬治亞州、路易斯安娜州、密西西比州和南卡羅來納州視為深南部的範圍
-	- New England 新英格蘭，當地華人常稱之為紐英倫，是位於美國大陸東北角。包括美國的六個州，由北至南分別為：緬因州、新罕布夏州、佛蒙特州、麻薩諸塞州、羅德島州、康乃狄克州
-	- the East 美國東部簡稱美東，是指美國密西西比河以東的州份 
-	- West Coasts 美洲西岸指美國西部的州。一般包括阿拉斯加，華盛頓州，奧勒岡州和加利福尼亞
-	- Northeast Corridor 東北走廊位於美國東北部的波士頓與華盛頓特區之間的鐵路路段。是美國最繁忙的一條鐵路路線
-	- Acela Acela特快，是一條由美鐵經營、在東北走廊路線上行駛的高速鐵路列車
-	- Sunbelt 太陽帶是指美國南部北緯37度以南的地區。北卡羅來納州 南卡羅來納州 喬治亞州 佛羅里達州 阿拉巴馬州 密西西比州 路易斯安那州 德克薩斯州 新墨西哥州 田納西州 阿肯色州 俄克拉荷馬州 亞利桑那州 加利福尼亞州
-	- the Midwest 美國中西部通常指的是美國地理上中北部的州，包括俄亥俄州、印第安那州、密西根州、伊利諾州、威斯康辛州、愛荷華州、肯薩斯州、密蘇里州、明尼蘇達州、內布拉斯加州、北達科他州及南達科他州
-	- the Southwest 美國西南部，主要為亞利桑那州和新墨西哥州。
-	- the Great Smoky Mountains 大霧山
-	- the Rocky Mountains 洛磯山脈
-	- the Northern Rockies 北落磯山脈
-	- the Columbia River 哥倫比亞河，起源於洛磯山脈在加拿大不列顛哥倫比亞內的部分，向西北方向蜿蜒，然後向南流入美國境內的華盛頓州，
-	- the Missouri River 密蘇里河，是密西西比河最長的支流
-	- the Yosemite Valley 優勝美地谷
-	- the Yellowstone River 黃石河，美國西部密蘇里河的一條支流
-	- Broadway 百老匯
-	- Anaheim 安那翰，是美國加利福尼亞州橘郡的第2大城市
-	- Dallas 達拉斯，是美國德克薩斯州第三大城市
-	- Oakland 奧克蘭，是美國加利福尼亞州北部舊金山灣沿岸的主要城市
-	- Baltimore 巴爾的摩，美國馬里蘭州最大的城市，也是美國最大獨立城市和主要海港之一
-	- Durham, N.C. == Durham, North Carolina 德罕是一座位於美國北卡羅來納州德罕郡的城市，也是該郡的郡治所在地
-	- Philadelphia 費城，是美國賓夕法尼亞州人口最多、面積最大的都市
-	- Chicago 芝加哥位於美國中西部，屬伊利諾州
-	- Manhattan 曼哈頓，紐約市五個行政區之中最人口稠密的一個區
-	- Pittsburgh 匹茲堡，位於美國賓夕法尼亞州西南部
-	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
-	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
-	- Carmel 卡梅爾海，是美國加利福尼亞州蒙特雷縣下屬的一座城， 該市以充滿童話色彩的歐式小鎮著稱，吸引許多藝文人士駐留
-	- Indianapolis 印第安納波利斯，是美國印地安納州首府
+[Asia]
+	- Chechen 車臣共和國，俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
+	- Afghanistan 阿富汗
+	- Kyrgyzstan 吉爾吉斯，是一個位於中亞的內陸國家
+	- Iraq 伊拉克
+	- Ukraine 烏克蘭
+	- Syria 敘利亞，屬於中東阿拉伯國家，首都大馬士革
 
-[U.S. State]
+[Asia POI]
+	- Kremlin 克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
+	- Baghdad 巴格達，伊拉克首都
+	- Islamic State 伊斯蘭國，是一個活躍在伊拉克和敘利亞的薩拉菲聖戰主義組織以及未被世界廣泛認可的政治實體
+
+[Europe]
+	- Chad 查德，是非洲中部的一個內陸國家
+	- Uganda 烏干達，是位於東非的內陸國家
+	- Libya 利比亞，是北非的一個阿拉伯國家 --> Libyan 利比亞的
+
+[Europe POI]
+
+[Americas]
 	- Nevada
 	- California
 	- Mississippi
@@ -126,7 +103,55 @@
 	- Louisiana 路易斯安那州，位於墨西哥灣沿岸
 	- New Orleans 新奧爾良
 	- Pennsylvania 賓夕法尼亞州是美國的州份之一，正式名稱為「賓夕法尼亞聯邦」
+	- Puerto Rico 波多黎各，美國在加勒比海地區的一個自治邦，距離佛羅里達州邁阿密東南1600公里
+	- Minnesota 明尼蘇達州，是美國中西部最大的一個州，屬於上中西部地區
+	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
+	- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
+
+[Americas POI]
+	- the United States
+	- Niagara Falls /nʌɪˈaɡ(ə)rə/
+	- the Colorado River
+	- the North American continent
+	- the Grand Canyon 大峽谷
+	- the Gulf of California 加利福尼亞海灣
+	- the Great Lakes 五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
+	- the Central Valley 中央谷地是縱貫美國加利福尼亞州中部的平原
+	- the Rust Belt 鐵帶。美國地區的貶義詞，主要由美國中西部和五大湖地區組成
+	- the Great Plains 北美大平原。大致位於密西西比河以西、落基山脈以東、格蘭德河以北	
+	- the South 美國南部。依據美國人口調查局的定義，美國南部包括了16個州
+	- the Deep South 深南部，又稱為棉花州，一般情況下，是將亞拉巴馬州、喬治亞州、路易斯安娜州、密西西比州和南卡羅來納州視為深南部的範圍
+	- New England 新英格蘭，當地華人常稱之為紐英倫，是位於美國大陸東北角。包括美國的六個州，由北至南分別為：緬因州、新罕布夏州、佛蒙特州、麻薩諸塞州、羅德島州、康乃狄克州
+	- the East 美國東部簡稱美東，是指美國密西西比河以東的州份 
+	- West Coasts 美洲西岸指美國西部的州。一般包括阿拉斯加，華盛頓州，奧勒岡州和加利福尼亞
+	- Northeast Corridor 東北走廊位於美國東北部的波士頓與華盛頓特區之間的鐵路路段。是美國最繁忙的一條鐵路路線
+	- Acela Acela特快，是一條由美鐵經營、在東北走廊路線上行駛的高速鐵路列車
+	- Sunbelt 太陽帶是指美國南部北緯37度以南的地區。北卡羅來納州 南卡羅來納州 喬治亞州 佛羅里達州 阿拉巴馬州 密西西比州 路易斯安那州 德克薩斯州 新墨西哥州 田納西州 阿肯色州 俄克拉荷馬州 亞利桑那州 加利福尼亞州
+	- the Midwest 美國中西部通常指的是美國地理上中北部的州，包括俄亥俄州、印第安那州、密西根州、伊利諾州、威斯康辛州、愛荷華州、肯薩斯州、密蘇里州、明尼蘇達州、內布拉斯加州、北達科他州及南達科他州
+	- the Southwest 美國西南部，主要為亞利桑那州和新墨西哥州。
+	- the Great Smoky Mountains 大霧山
+	- the Rocky Mountains 洛磯山脈
+	- the Northern Rockies 北落磯山脈
+	- the Columbia River 哥倫比亞河，起源於洛磯山脈在加拿大不列顛哥倫比亞內的部分，向西北方向蜿蜒，然後向南流入美國境內的華盛頓州，
+	- the Missouri River 密蘇里河，是密西西比河最長的支流
+	- the Yosemite Valley 優勝美地谷
+	- the Yellowstone River 黃石河，美國西部密蘇里河的一條支流
+	- Broadway 百老匯
 	- The Pentagon 五角大廈，美國國防部所在地
+	- Anaheim 安那翰，是美國加利福尼亞州橘郡的第2大城市
+	- Dallas 達拉斯，是美國德克薩斯州第三大城市
+	- Oakland 奧克蘭，是美國加利福尼亞州北部舊金山灣沿岸的主要城市
+	- Baltimore 巴爾的摩，美國馬里蘭州最大的城市，也是美國最大獨立城市和主要海港之一
+	- Durham, N.C. == Durham, North Carolina 德罕是一座位於美國北卡羅來納州德罕郡的城市，也是該郡的郡治所在地
+	- Philadelphia 費城，是美國賓夕法尼亞州人口最多、面積最大的都市
+	- Chicago 芝加哥位於美國中西部，屬伊利諾州
+	- Manhattan 曼哈頓，紐約市五個行政區之中最人口稠密的一個區
+	- Pittsburgh 匹茲堡，位於美國賓夕法尼亞州西南部
+	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
+	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
+	- Carmel 卡梅爾海，是美國加利福尼亞州蒙特雷縣下屬的一座城， 該市以充滿童話色彩的歐式小鎮著稱，吸引許多藝文人士駐留
+	- Indianapolis 印第安納波利斯，是美國印地安納州首府
+	- the Pacific Northwest 太平洋西北地區，是指美國西北部地區和加拿大的西南部地區，又稱「卡斯卡迪亞」
 
 [World]
 	- North Central Africa
@@ -135,7 +160,6 @@
 	- Eskimo 愛斯基摩人
 	- Ethiopia 衣索比亞 --> Ethiopian
 	- Eurasia 歐亞大陸 
-	- Venezuela 委內瑞拉
 	- Indian
 	- the Indies 印度群島
 	- the Azores 亞速爾群島
@@ -183,7 +207,7 @@
 	- Iran 伊朗 --> Iranian 伊朗人
 	- Ukraine 烏克蘭
 	- New Zealand 紐西蘭
-	- Vietnam 越南
+	- Vietnam 越南 --> Vietnamese  越南人/越南語(的)
 	- Belize 貝里斯，前身為英屬宏都拉斯，是中美洲東海岸的一個獨立國家
 	- Antarctica 南極洲
 	- Kazakhstan 哈薩克
@@ -196,6 +220,8 @@
 	- Slavic 斯拉夫人
 	- Nordic (adj)北歐國家的 (n)北歐人 == Relating to or denoting Scandinavia, Finland, and Iceland.
 	- Denmark 丹麥
+	- Afrikaans 南非語
+	- Amharic 阿姆哈拉語，衣索比亞使用的閃語的一種，與阿拉伯語、希伯來語同屬閃語族
 
 [Worldwide POI]
 	- Vesuvius 維蘇威火山

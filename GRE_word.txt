@@ -302,7 +302,7 @@
     ^ blade (n)刀鋒/刀口 <|> blare >|> blaze
     ^ blast (v)爆破, 抨擊, 枯萎 (n)爆炸, 響聲, 疾風/狂風, 狂歡
     ^ blaze (v)燃燒, 開火 (n)大火, 絢爛/炫目
-    ^ blazon (n)紋章/裝飾 (v)印製/精確描繪,  宣揚/誇示 = emblazon = adorn <--> efface
+    ^ blazon (n)紋章/裝飾 (v)印製/精確描繪, 宣揚/誇示 = emblazon = adorn <--> efface
     ^ bleak (adj)荒涼的 = barren = desolate = sterile, 陰冷的 = cold = chilly, 慘淡的/無希望的 = depressing = harsh = somber = dismal
     ^ blizzard (n)暴風雪
     ^ bloat (v)使膨脹/使臃腫 = bulge = swell
@@ -893,7 +893,7 @@
     + /ˈfɒrɪdʒ/ forage (n)(牛馬的)飼料/糧草, 搜索/搜尋 = rummage --> forager (n)為動物尋找飼料的人 <-- fodder
     + ford (n)淺灘/可涉水而過之處 (v)涉水而過
     + formidable (adj)可怕的 = menacing = threatening = surly, 令人生畏的 = intimidating, 強大的/強力的 = forceful = powerful <-- formid 恐懼 = fear + able
-    ++ foster (v)培養/促進 = further = encourage, 撫養 = raise = rear
+    ++ foster (v)鼓勵 = encourage, 培養/促進 = further, 撫養 = raise = rear
     ++ founder (v)（船）浸水而沉沒 = sink = fail, (計畫)失敗/崩潰 = collapse = fail utterly (n)創立者 <|> found
     + /ˈfrā-kəs/ fracas (n)喧嚷/吵鬧 = brawl <-- fra == among + cas == break
     + frenetic (adj)狂亂的/發狂的 = frantic = frenzied
@@ -2296,7 +2296,7 @@
 
     * /kwak/ quack (n)庸醫 = empiric, 騙子 (adj)冒牌的/騙人的 (v)招搖撞騙
     * /ˈkwɒr(ə)l/ quarrel (n/v)爭吵/不合 = bicker = quibble = spar = brawl --> quarrelsome (adj)愛爭吵的/好口角的 = polemical = aggressive = bellicose = contentious
-    ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional (v)破壞 = spoil = ruin <|> sheer
+    ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional, 同性戀的 (v)破壞 = spoil = ruin (n)同性戀 <|> sheer
     ** quench (v)熄滅/撲滅 = extinguish, 壓制/壓抑 = subdue = quell = repress, 使滿足[口渴或慾望] = slake = satisfy, 使冷卻
     ** quip (n)妙語/諷刺語
 

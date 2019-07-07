@@ -18,8 +18,8 @@
 	- light-year == 10,000,000,000,000 kilometers
 	- calorie 卡路里 == 4.184 J(焦耳)
 	- Angstrom /ˈaŋstrəm/ 埃格斯特朗 == Å == one ten-billionth of a metre == 0.1 nanometre 
-	- protein 蛋白質
-	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
+	- carat 克拉 == 200 milligrams
+
 
 [Law/Theory]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
@@ -79,6 +79,10 @@
 	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
 	- polymer 聚合物
 	- vinyl 乙烯基
+	- asbestos 石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
+	- alkaloid 生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
+	- protein 蛋白質
+	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
 
 [Physical]
 	- wavelength 波長
@@ -109,6 +113,7 @@
 	- umbilical cord 臍帶
 	- masseter muscle 咬肌/咀嚼
 	- zygomatic arch 顴骨弓
+	- bicep 二頭肌
 	- womb 子宮 = uterus
 	- eyelash 睫毛
 	- clavicle 鎖骨

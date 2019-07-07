@@ -42,8 +42,6 @@
 	- bison 北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
 	- elk 駝鹿/麋鹿/美洲赤鹿 
 	* mule /mjuːl/ (n)騾子, 固執的人
-	- moth 蛾
-	- wasp 黃蜂/馬蜂
 	- walrus 海象
 	- hippopotamus 河馬
 	- guinea pig 豚鼠，又名天竺鼠、葵鼠
@@ -51,8 +49,7 @@
 		> 幼獸 |The young of a fox, bear, lion, or other carnivorous mammal.| she was as protective as a tiger with her cubs
 		> |Give birth to cubs.| both share the same earth during the first ten days after cubbing
 		> |Hunt fox cubs| members of the Grafton Hunt were out cubbing
-	- bumblebee 雄蜂/大黃蜂
-	- termite 白蟻
+	- monarch /ˈmɒnək/ (n)帝王/君主, 帝王蝶, 王鶲
 	- tortoise 陸龜
 	- mammoth /ˈmaməθ/ 長毛象/猛獁象
 	- woolly mammoth 真猛瑪象
@@ -73,6 +70,24 @@
 	- wolverine 貂熊
 	- caiman, cayman 鱷魚 == A semiaquatic reptile similar to the alligator but with a heavily armoured belly, native to tropical America.
 	- moose 駝鹿
+	- Shar-Pei 沙皮狗
+	- Paso Fino horse 帕索·菲諾馬
+	- canine /ˈkeɪnʌɪn/ (adj)狗的/犬科的 (n)狗, 犬齒
+	- coyote /kʌɪˈəʊti/  郊狼/土狼 == A wild dog that resembles the wolf, native to North America.
+	- rodent (N)嚙齒目動物
+	- vole 田鼠
+	- gopher /ˈɡəʊfə/ 地鼠
+	- grizzly == grizzly bear 灰熊 == An animal of a large race of the brown bear native to North America.
+
+[Insect]
+	- moth 蛾
+	- wasp 黃蜂/馬蜂
+	- bumblebee 雄蜂/大黃蜂
+	- termite 白蟻
+	- borer /ˈbɔːrə/ 
+		> 蟲/蛀蟲 |A worm, mollusc, insect, or insect larva which bores into wood, other plant material, or rock.|
+		> 鑽孔器 |A tool for boring.|
+	- caterpillar 毛毛蟲/蝶或蛾的幼蟲
 	
 
 [Bird]
@@ -160,6 +175,7 @@
 	- alfalfa /alˈfalfə/ 苜蓿
 	- rhizobium /rʌɪˈzəʊbɪəm/ 根瘤菌 <-- rhizo = root + bi = life + um
 	- nodule /ˈnɒdjuːl/ 小結節/小瘤 
+	- milkweed 乳草 == A herbaceous American plant with milky sap, some kinds of which attract butterflies or yield a variety of useful products.
 
 [Weather]
 	- cyclone 氣旋 --> cyclonic 氣旋的

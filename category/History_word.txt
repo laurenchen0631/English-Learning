@@ -1,64 +1,71 @@
 [Age]
-- the Middle Ages 中古世紀
+	- the Middle Ages 中古世紀
+	- zeitgeist 時代精神 == The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.
 
 [Race]
-- the Sherpa 夏爾巴人/雪巴人，一支散居在尼泊爾、中國、印度和不丹等國邊境喜瑪拉雅山脈兩側的民族
-- Scythians 斯基泰人，希臘古典時代在歐洲東北部、東歐大草原至中亞一帶居住與活動的農耕民族
+	- the Sherpa 夏爾巴人/雪巴人，一支散居在尼泊爾、中國、印度和不丹等國邊境喜瑪拉雅山脈兩側的民族
+	- Scythians 斯基泰人，希臘古典時代在歐洲東北部、東歐大草原至中亞一帶居住與活動的農耕民族
 
 [Celebrity]
-- Charles Darwin 查爾斯·羅伯特·達爾文，英國地理學家、生物學家，其最著名的研究成果是演化論
-- Thomas Jefferson 湯瑪斯·傑佛遜，美利堅合眾國第三任總統。同時也是《美國獨立宣言》主要起草人，
-- James Clerk Maxwell 詹姆斯·克拉克·馬克士威。其最大功績是提出了將電、磁、光統歸為電磁場中現象的馬克士威方程組
-- Albert Einstein 阿爾伯特·愛因斯坦，猶太裔理論物理學家，他創立了現代物理學的兩大支柱之一的相對論，也是質能等價公式的發現者。
-- Thomas Edison 湯瑪斯·阿爾瓦·愛迪生
-- Leonardo da vinci
-- Emperor Constantine
-- Hero of Alexandria 希羅，亞歷山卓的希羅，是一位古希臘數學家
-- Galileo Galile 伽利略·伽利萊
-- Evangelista Torricelli 埃萬傑利斯塔·托里切利，義大利物理學兼數學家，以發明氣壓計而聞名。
-- Sigmund Freud 西格蒙德·佛洛伊德，奧地利心理學家、精神分析學家，哲學家，猶太人
-- Theodore Roosevelt 西奧多·羅斯福，暱稱Teddy，華人通稱老羅斯福，第26任美國總統
-- President Calvin Coolidge 小約翰·卡爾文·柯立芝，美國第30任總統
-- Franklin D. Roosevelt  富蘭克林·德拉諾·羅斯福，第32任美國總統，是美國1920至1930年代經濟危機和第二次世界大戰的中心人物之一。
-- Orville Wright 奧維爾·萊特
-- Wilbur Wright 威爾伯·萊特
-- Martin Luther King Jr. 馬丁·路德·金恩，美國牧師、社會運動者、人權主義者和非裔美國人民權運動領袖，也是1964年諾貝爾和平獎得主。
-- Tchaikovsky 柴可夫斯基
-- Gregor J. Mendel 孟德爾，奧地利遺傳學家，遺傳學的奠基人
-- Abraham Lincoln 亞伯拉罕·林肯，第十六任美國總統。林肯領導美國經歷其歷史上最為慘烈的戰爭和最為嚴重的道德、憲政和政治危機——南北戰爭。經由此役，他維護聯邦的完整，廢除奴隸制，解放所有奴隸，增強聯邦政府的權力，並推動經濟的現代化。
-- Frederick Douglass 弗雷德里克·道格拉斯，廢除奴隸制度與社會改革的領袖
-- Julius Caesar 尤利烏斯·凱撒，羅馬共和國末期的軍事統帥、政治家，是羅馬共和國體制轉向羅馬帝國的關鍵人物，歐洲史稱凱撒大帝
+	- Charles Darwin 查爾斯·羅伯特·達爾文，英國地理學家、生物學家，其最著名的研究成果是演化論
+	- Thomas Jefferson 湯瑪斯·傑佛遜，美利堅合眾國第三任總統。同時也是《美國獨立宣言》主要起草人，
+	- James Clerk Maxwell 詹姆斯·克拉克·馬克士威。其最大功績是提出了將電、磁、光統歸為電磁場中現象的馬克士威方程組
+	- Albert Einstein 阿爾伯特·愛因斯坦，猶太裔理論物理學家，他創立了現代物理學的兩大支柱之一的相對論，也是質能等價公式的發現者。
+	- Thomas Edison 湯瑪斯·阿爾瓦·愛迪生
+	- Leonardo da vinci
+	- Emperor Constantine
+	- Hero of Alexandria 希羅，亞歷山卓的希羅，是一位古希臘數學家
+	- Galileo Galile 伽利略·伽利萊
+	- Evangelista Torricelli 埃萬傑利斯塔·托里切利，義大利物理學兼數學家，以發明氣壓計而聞名。
+	- Sigmund Freud 西格蒙德·佛洛伊德，奧地利心理學家、精神分析學家，哲學家，猶太人
+	- Theodore Roosevelt 西奧多·羅斯福，暱稱Teddy，華人通稱老羅斯福，第26任美國總統
+	- President Calvin Coolidge 小約翰·卡爾文·柯立芝，美國第30任總統
+	- Franklin D. Roosevelt  富蘭克林·德拉諾·羅斯福，第32任美國總統，是美國1920至1930年代經濟危機和第二次世界大戰的中心人物之一。
+	- Orville Wright 奧維爾·萊特
+	- Wilbur Wright 威爾伯·萊特
+	- Martin Luther King Jr. 馬丁·路德·金恩，美國牧師、社會運動者、人權主義者和非裔美國人民權運動領袖，也是1964年諾貝爾和平獎得主。
+	- Tchaikovsky 柴可夫斯基
+	- Gregor J. Mendel 孟德爾，奧地利遺傳學家，遺傳學的奠基人
+	- Abraham Lincoln 亞伯拉罕·林肯，第十六任美國總統。林肯領導美國經歷其歷史上最為慘烈的戰爭和最為嚴重的道德、憲政和政治危機——南北戰爭。經由此役，他維護聯邦的完整，廢除奴隸制，解放所有奴隸，增強聯邦政府的權力，並推動經濟的現代化。
+	- Frederick Douglass 弗雷德里克·道格拉斯，廢除奴隸制度與社會改革的領袖
+	- Julius Caesar 尤利烏斯·凱撒，羅馬共和國末期的軍事統帥、政治家，是羅馬共和國體制轉向羅馬帝國的關鍵人物，歐洲史稱凱撒大帝
+	- George H.W. Bush 喬治·H·W·布希，第41任美國總統，常被稱為老布希，以與其同樣曾擔任美國總統的長子小布希作區別
+	- Barack Obama 巴拉克·歐巴馬，從2009年至2017年任第44任美國總統
 
 [Finance]
-- the dotcom bubble 網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
-- Morgan Stanley 摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
+	- the dotcom bubble 網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
+	- Morgan Stanley 摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
 
 [Spain]
-- conquistador /kɒnˈkwɪstədɔː/ == A conqueror, especially one of the Spanish conquerors of Mexico and Peru in the 16th century.
-- Christopher Columbus 克里斯多福·哥倫布
+	- conquistador /kɒnˈkwɪstədɔː/ == A conqueror, especially one of the Spanish conquerors of Mexico and Peru in the 16th century.
+	- Christopher Columbus 克里斯多福·哥倫布
 
 [United Kingdom]
-- the Duchess of Sussex 薩塞克斯公爵夫人
-- the Home Secretary 內政大臣 
-- Buckingham Palace 白金漢宮，是英國君主位於倫敦的主要寢宮及辦公處
-- the Louvre 羅浮宮
-- Renaissance 文藝復興
+	- the Duchess of Sussex 薩塞克斯公爵夫人
+	- the Home Secretary 內政大臣 
+	- Buckingham Palace 白金漢宮，是英國君主位於倫敦的主要寢宮及辦公處
+	- the Louvre 羅浮宮
+	- Renaissance 文藝復興
 
 [United States]
-- Louisiana Purchase 路易斯安那購地，是美國於1803年以大約每英畝三美分向法國購買超過529,911,680英畝土地的交易案
-- Gold Rush 淘金潮，又稱淘金熱
-- pueblo /ˈpwɛbləʊ/ 印地安聚落 == A North American Indian settlement of the south-western US, especially one consisting of multistoreyed adobe houses built by the Pueblo people.
-- Confederate States of America 美利堅聯盟國 == the Confederacy
-- the Union == the United States 聯邦政府
-+ American Civil War 南北戰爭
-- Emancipation Proclamation 解放奴隸宣言，其主張所有美利堅邦聯叛亂下的領土之黑奴應享有自由，然而未脫離聯邦的邊境州，以及聯邦掌控下的諸州依然可以使用奴隸。
+	- Louisiana Purchase 路易斯安那購地，是美國於1803年以大約每英畝三美分向法國購買超過529,911,680英畝土地的交易案
+	- Gold Rush 淘金潮，又稱淘金熱
+	- pueblo /ˈpwɛbləʊ/ 印地安聚落 == A North American Indian settlement of the south-western US, especially one consisting of multistoreyed adobe houses built by the Pueblo people.
+	- Confederate States of America 美利堅聯盟國 == the Confederacy
+	- the Union == the United States 聯邦政府
+	+ American Civil War 南北戰爭
+	- Emancipation Proclamation 解放奴隸宣言，其主張所有美利堅邦聯叛亂下的領土之黑奴應享有自由，然而未脫離聯邦的邊境州，以及聯邦掌控下的諸州依然可以使用奴隸。
 
 [Event]
-- Word War II == the Second World War
-- the Glorious Revolution 光榮革命
-- Holocaust 猶太人大屠殺
-- the Industrial Revolution 工業革命
-- the Nobel Prize
+	- Word War II == the Second World War
+	- the Glorious Revolution 光榮革命
+	- Holocaust 猶太人大屠殺
+	- the Industrial Revolution 工業革命
+	- the Nobel Prize 諾貝爾獎
+	- the Cold War 冷戰，第二次世界大戰之後，以美國為首的傳統西方列強及其盟國、與以蘇聯為首的共產主義國家及其衛星國之間長達半世紀的政治對抗
+	- Sept. 11 attacks 911恐怖襲擊 == the attacks of 9/11
+	- the Arab Spring 阿拉伯之春，西方主流媒體所稱的阿拉伯世界的一次革命浪潮
+	- the Revolutionary War 美國獨立戰爭，是英國與準備獨立的美利堅及法國這個歐洲強國之間的一場戰爭
 
 [Other]
-- pharaoh /ˈfɛːrəʊ/ 法老
+	- pharaoh /ˈfɛːrəʊ/ 法老
