@@ -18,7 +18,6 @@
 	- chromosome 染色體
 	- neuron 神經元  == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- botanist /ˈbɒt(ə)nɪst/ 植物學家 == An expert in or student of the scientific study of plants.
-	- geostationary 與地球同步旋轉的
 	- genome 基因組
 	- hibernate 冬眠 == (of an animal or plant) spend the winter in a dormant state.
 	- knuckle --> knuckly
@@ -32,6 +31,20 @@
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ 片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
+	
+[Geology]
+	- convergent boundary 聚合板塊邊緣
+	- magma 岩漿 == Hot fluid or semi-fluid material below or within the earth's crust from which lava and other igneous rock is formed on cooling.
+	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
+	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
+	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
+	- sediment /ˈsɛdɪm(ə)nt/  --> sedimentary
+		> 沈積/沈澱 |Matter that settles to the bottom of a liquid; dregs.| the ice freezes the wine and sediment at the base of the cork
+		> 沈積 |Settle as sediment.| the erythrocytes were allowed to sediment within the syringe
+		> 沈積物 |Particulate matter that is carried by water or wind and deposited on the surface of the land or the seabed, and may in time become consolidated into rock.| there is a huge concentration of sediment in deltas
+	- anticline 背斜層 == A ridge or fold of stratified rock in which the strata slope downwards from the crest.
+	- geostationary 與地球同步旋轉的
+	- ocean floor = seabed 海床
 
 [Animal]
 	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -204,3 +217,6 @@
 	- mother lode == motherlode
 		> 主礦脈 |A principal vein of an ore or mineral.|
 		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
+	- sandstone 砂岩
+	- shale	/ʃeɪl/ 頁岩/泥板岩 <|> shell /ʃɛl/ 
+	

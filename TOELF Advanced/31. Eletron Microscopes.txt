@@ -25,7 +25,7 @@ The electron microscope is so named because it directs a beam of electrons rathe
 The electron microscope requires that the electron beam be in a vacuum, because electrons cannot travel far in air at atmospheric pressure. The column and specimen chamber of the electron microscope are evacuated by pumps. Living specimens cannot be examined with an electron microscope, since they will not survive in a vacuum. The magnification in magnetic electron microscopes is determined by the strength of the current passing through the electric and electromagnetic lens coils. The image is focused by changing the current through the objective lens coil. In the optical microscope the image is determined by absorption of light by the specimen; in the electron microscope the image results from a scattering of electrons by atoms of the specimen. Since an atom with a high atomic number scatters electrons more than does a light atom, it appears darker. As the beam passes through a specimen, each tiny variation in the structure of the specimen causes a variation in the electron stream. The image produced is then projected onto a fluorescent screen or recorded on film. The electron microscope, with its tremendous resolving power, can magnify specimens over 50,000 times.
 
 [Review]
-- electron
+- electron 電子
 + specimen /ˈspɛsɪmɪn/
 	> 標本/樣品 |An individual animal, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display.| specimens of copper ore
 	> 實例/典型 |An example of something regarded as typical of its class or group.| a specimen paper of the new test

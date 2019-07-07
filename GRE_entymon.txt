@@ -4115,7 +4115,7 @@
         2. 在上 = above
             - overlap (v)部分重疊/重疊
             ** overlook (v)未察覺, 忽視, 寬恕/不計較 = condone = forgive = excuse = pardon, 俯瞰/俯視 (n)觀察位置
-            + override (v)不顧/無視 = disregrad, 踐踏/壓垮, 撤銷/推翻 = overrule --> overriding (adj)最主要的/優先的
+            + override (v)不顧/無視 = disregrad, 踐踏/壓垮, 撤銷/推翻 = overrule --> overriding (adj)更重要的, 在上面移動的
             - overrule (v)否決/駁回 = override
             - oversee (v)監督 = watch = supervise
             + overshadow (v)遮蔽, 使失色
@@ -4511,7 +4511,7 @@
             - parable (n)寓言/比喻
             - parabola (n)拋物線 <-- para + bola 丟 = throw
             + paradigm (n)範例/示例 <-- para + digm 顯示 = show
-            + parallel (adj)平行的, 類似的 = comparable = analogous (n)平行線 (v)與...相似 <-- par + allel 另一個 = another
+            + /ˈparəlɛl/ parallel (adj)平行的, 類似的 = comparable = analogous (n)平行線 (v)與...相似 <-- par + allel 另一個 = another
             - parallelism (n)平行, 類似
             + paralysis (n)麻痺/癱瘓, 無力 --> paralyze (v)使麻痺/使癱瘓 = numb, 使無力/使氣餒 <-- par + lysis 放開 = loosen
             - parameter (n)參量/變量
@@ -5975,6 +5975,7 @@
         + preserve (v)保存/維護/維持 = maintain = retain, 醃漬 --> perservative (adj)防腐的 (n)防腐劑
         * reserve (v)保存/保留, 預約/預訂 (n)儲備/儲藏量
         + reserved (adj)預訂的/儲備的, 沉默寡言的/緘默的/含蓄的, 有所保留的/有節制的 = reticent = reluctant
+        + /ˈrɛzəvwɑː/ reservoir (n)水庫/蓄水池, 儲藏/積累, 儲液囊
         + subservient (adj)充當下手的 = subordinate, 有用的 = useful, 奉承的/卑屈的 = servile = obsequious --> subservience (n)從屬, 有益, 奉承/卑屈/恭順
 
     sign 標出 = mark, seal
@@ -6086,7 +6087,7 @@
         *** savvy (adj)精明的/有見識的 (v)懂/知曉 (n)理解能力/悟性
 
     seismo, seism 地震 = earthquake
-        + /ˈsʌɪzmɪk/ seismic (adj)地震的
+        + /ˈsʌɪzmɪk/ seismic (adj)地震的 <|> /sʌɪz/ size
         - seismograph (n)地震儀
         - seismology (n)地震學
 
@@ -6844,7 +6845,7 @@
         - avoid (v)躲避/避開 = avert = prevent
         + evanesce (v)逐漸消失 --> evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral, 難以察覺的 = imperceptible
         * devoid (adj)缺乏的 = lacking
-        - evacuate (v)撤離, 使避難, 排便
+        - evacuate (v)撤離, 使成真空, 淨空, 排出
         - vacate (v)搬空, 放棄(職位), 取消/使無效 = annul
         - vacant (adj)空白的/空的/空缺的/空閒的, 茫然的/空虛的 = vague
         + vacuous (adj)空的 = empty = void, 茫然的/空洞的 = inane = stupid, 無所事事的 = purposeless = idle  --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間

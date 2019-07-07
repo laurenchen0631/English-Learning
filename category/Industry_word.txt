@@ -488,6 +488,11 @@
 		> 轉義/比喻 |A figurative or metaphorical use of a word or expression.| ‘my sense that philosophy has become barren is a recurrent trope of modern philosophy
 		> 主題 |A significant or recurrent theme; a motif.| she uses the Eucharist as a pictorial trope
 	- editor-at-large 特約編輯
+	+ lithography 平板印刷術 == offset printing == The process of printing from a flat surface treated so as to repel the ink except where it is required for printing.
+	- letterpress 凸版印刷 == Printing from a hard raised image under pressure, using viscous ink.
+	- intaglio (n)陰刻/凹雕/凹刻印刷 (v)凹雕
+	- blanket cylinder 橡膠滾筒
+	- webfed press 捲筒紙印刷機
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -937,6 +942,8 @@
 		> |A channel for conveying water or other fluid.| nearby springs supplied the conduit which ran into the brewery.
 		> |A tube or trough for protecting electric wiring| the gas pipe should not be close to any electrical conduit
 	- craftsman 工匠 == A worker skilled in a particular craft.
+	- tungsten filament 鎢絲
+	- fluorescent screen 螢光幕
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
