@@ -2194,7 +2194,7 @@
         * deferement (n)延期/推遲 <-- defer
         * differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
         + /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish = discriminate
-        * fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
+        * /ˈfəːtʌɪl/ fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
         - fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
         - infertile (adj)不肥沃的/不毛的, 不育的
         ++ infer (v)推斷/推定 = deduce = deduct = conclude, 猜測 = guess = surmise = sepeculate, 暗示/暗指 = hint = imply = suggest = intimate
@@ -2203,7 +2203,7 @@
         - referee (n)裁判員/仲裁者
         - somniferous
         - melliferous
-        - transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n)
+        - transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n) 
 
     ferr 鐵 = iron
         - ferrous (adj)含鐵的
@@ -2269,7 +2269,7 @@
         - feticide (v)墮胎
 
     fili 兒子 = son
-        + affiliate (v)加入/聯合/合併 = associate = absorb = align --> affiliated (adj)有關聯的 = related
+        + affiliate (v)加入/聯合/合併 = associate = absorb = align --> affiliated (adj)附屬的/相關的 = related
         - filial (adj)子女的
 
     fin 範圍/限制 = boundary, boder, stop, limit
@@ -2351,7 +2351,8 @@
     fess 承認/聲明 = admit, acknowledge, declare
         * confess (v)坦白/供認/懺悔/招認(錯誤或罪行) = acknowledge = admit
         * profess (v)聲稱/自稱/謊稱 = purport = allege = claim
-        * profession (n)職業, 同業/同行, 聲稱, 表明信仰 --> professional (adj)職業的/專業的/職業性的 (n)專家/職業選手
+        * profession (n)職業, 同業/同行, 聲稱, 表明信仰
+        * professional (adj)職業的/專業的/職業性的 (n)專家/職業選手
         ** professed (adj)公開表明的, 假裝的/聲稱的 = ostensible = ostensive = pretended, 專業的
         - professor (n)教授
 
@@ -2464,7 +2465,7 @@
 
     gram, graph, glyph 寫/圖 = write or draw == scribe
         - anagram (n)錯別字
-        - autobigraphy (n)自傳
+        - autobiography (n)自傳
         - bibliography
         - calligraphy (n)書法 <-- calli 美麗的 = beautiful + graphy
         - cryptogram
@@ -2490,7 +2491,7 @@
         + gratify (v)使高興, 使滿意/使滿足 = satisfy = indulge = humor --> gratification (n)喜悅/滿足 --> gratifying (adj)愉悅的/令人滿足的 = pleasing
         - gratitude (n)感激 = thankfulness
         * gratuity (n)打賞/小費 = tip
-        * gratuitous (adj)無理由的/無端的, 免費的/無償的
+        * /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的, 免費的/無償的
         * ungrateful (adj)不感激的, 討厭的
         + ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
         + ingratiate (v)逢迎/討好 --> ingratiating (adj)討好的/諂媚的
@@ -2785,7 +2786,7 @@
             + impudent (adj)厚顏無恥的 = brazen = insolent = shameless --> impudence (n)厚臉皮/粗魯無禮 = effrontery <-- im + pud 羞愧 = shame + ent
             - inpuissance (n)無力/虛弱 <-- in + puiss 力量 + ance
             - impunity
-            * inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
+            ** inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
             + inadequate (adj)不足的/不夠格的 = inept = unsuitable
             + inadvertent (adj)不注意的/過失的 = heedless --> inadvertence (n)不注意/怠慢/疏忽 <-- in + advert + ent
             + inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
@@ -2909,23 +2910,23 @@
             + /ɪmˈbʌɪb/ imbibe (v)喝 = drink, 吸收(知識) = absorb <-- im + bibe 喝 = drink
             + /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
             - immanent (adj)內在的, 普遍存在的 <-- im + man 待 = stay = ent
-            - immerse, immerge (v)浸入, 沈浸於 = engross
-            + imminent = impending
-            - immolate (v)犧牲/獻祭 <-- im + mola 肉 = meal + ate
+            - immerse (v)浸入, 沈浸於 = engross
+            + imminent
+            - /ˈɪməleɪt/ immolate (v)犧牲/獻祭 <-- im + mola 肉 = meal + ate
             + impact
             - impair
             - impale
-            * impart (v)傳授/給予, 告知/透露 = reveal = convey = communicate
+            * impart (v)給予 = bestow, 告知/透露 = reveal = convey = communicate
             - impassioned
             * impeach (v)控告/檢舉 = accuse, 彈劾
             + impede --> impediment
             - impel
             - impend --> impending
-            + imperative (adj)急需的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding <-- im + per 準備 = prepare + ative
-            + imperil (v)危及 = endanger = compromise = jeopardize = menace
-            - impersonate (v)模仿 = mimic = imitate, 扮演 <-- im + person + ate
-            + impinge (v)侵犯 = encroach, 撞擊 = strike = collide <-- im + pinge 固定 = fix
-            * implant (v)灌輸 = instill = inculcate, 埋置, 移植, 種植
+            + imperative (adj)極重要的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding (n)必要之事/急需, 命令/規則 <-- im + per 準備 = prepare + ative
+            + /ɪmˈpɛrɪl/ imperil (v)危及 = endanger = compromise = jeopardize = menace
+            - impersonate (v)模仿...以娛樂 = mimic = imitate <-- im + person + ate
+            + impinge (v)產生負面效果, 侵犯 = encroach, [on/upon]撞擊 = strike = collide <-- im + pinge 固定 = fix
+            * implant (v)灌輸 = instill = inculcate, 著床, 移植/植入 (n)植入物
             - instill
             + implement
             + implicate --> implication
@@ -2933,11 +2934,11 @@
             + implode (v)內爆 <-- im + (ex)plode
             - implore
             - import (v)進口, 輸入 (n)進口, 意義 = meaning = significance
-            - importune (v)強求/不斷懇求 = woo = solicit, 煩擾 <-- im + (op)portune
+            - importune (v)強求/煩擾 = harass = woo = solicit <-- im + (op)portune
             * impose
             - imposing
             - impostor --> imposture
-            - impoverish (v)使貧窮 <-- im + pover(ty) + ish
+            - impoverish (v)使貧窮, 耗盡(精力) <-- im + pover(ty) + ish
             - impregnable
             + impress --> impressed  --> impression --> impressionable
             - imprint (v)蓋印/印痕
@@ -2949,7 +2950,7 @@
             * innate
             - incandescent --> incandescence
             - incarcerate (v)監禁/關押 = imprison = confine <-- in + carcer 監牢 = prison + ate
-            - imprison (v)監禁/關押, 限制/束縛
+            - imprison (v)監禁/關押
             + incarnate
             + incarnadine
             + incendiary
@@ -2967,15 +2968,15 @@
             - incubate --> incubation --> incubator
             - incumbent
             - incubus
-            + /ˈɪnkʌlkeɪt/ inculcate (v)諄諄教誨/灌輸 = implant = indoctrinate <-- in + culc 行走 = heel, tread
+            + /ˈɪnkʌlkeɪt/ inculcate (v)諄諄教誨/灌輸 = instill = implant = indoctrinate <-- in + culc 行走 = heel, tread
             - inculpate
             - incur
             + incursion
-            - indebted (adj)感激的/感恩的
+            - indebted (adj)負債的, 感激的/感恩的
             - indent --> indenture
             - indicate
             + indict
-            + indigent (adj)貧乏的/貧窮的 --> indigence (n)貧窮 = poverty <-- in + dig 需要/缺乏 = need, lack + ent
+            + indigent (adj)貧乏的/貧窮的 <|> indigenous --> indigence (n)貧窮 = poverty <-- in + dig 需要/缺乏 = need, lack + ent
             - indigenous
             - indigent
             - individual
@@ -2984,14 +2985,14 @@
             - induct --> induction
             - indurate
             + industrious (adj)勤勉的/勤勞的 = diligent = hard-working
-            - infatuate (v)使著迷, 使衝昏頭腦 --> infatuation (n)迷戀 <-- in + fatuous + ate
+            - infatuate (v)使熱戀/使衝昏頭腦 --> infatuation (n)迷戀 <-- in + fatuous + ate
             - infect --> infection
             + infer
-            - infest (v)騷擾/擾亂 <-- in + fest 攻擊 = assail
+            - infest (v)大批出沒/侵擾 <|> infect <-- in + fest 攻擊 = assail
             - infiltrate (v)滲透/滲入 <-- in + filtr 過濾 = filter + ate
-            - inflame (v)使燃燒, 激怒 <-- in + flame
-            - inflamed (adj)發炎的
-            + inflammatory (adj)有煽動性的 = incendiary
+            - inflame (v)使燃燒, 激怒, 加劇, 使發炎 <-- in + flame
+            - inflamed (adj)強烈的 = provoked = intensified, 發炎的
+            + inflammatory (adj)有煽動性的 = incendiary, 發炎的/炎症性的
             - inflate --> inflated
             - inflict
             - influx
@@ -3003,7 +3004,7 @@
             + ingenious --> ingenuity
             + ingenuous
             - ingest --> ingestion
-            - ingrained (adj)根深蒂固的 <-- in + grain 紋理 + ed
+            - ingrained (adj)根深蒂固的 = confirmed <-- in + grain 紋理 + ed
             + ingratiate --> ingratiating
             - ingredient
             - inhabit
@@ -3011,21 +3012,21 @@
             + inhibit --> inhibited
             - inject --> injection
             - injunction
-            * inmost (adj)最深處的/內心深處的
+            * inmost (adj)最深處的/內心深處的 = innermost
             + innovate (v)革新/創新 --> innovative (adj)革新的 --> innovation (n)新事物/創新 <-- in + nova 新 + te
-            - innuendo (n)含沙射影/暗諷 <-- in + nuendo 點頭 = nod
-            - inoculate (v)預防注射 <-- in + ocul 眼/花苞 = eye, bud + ate
+            - /ˌɪnjʊˈɛndəʊ/ innuendo (n)含沙射影/暗諷 <-- in + nuendo 點頭 = nod
+            - inoculate (v)預防注射 = vaccinate <-- in + ocul 眼/花苞 = eye, bud + ate
             + inquest
             - inquiry
             + inquisitive
             - inquisition
-            - inroad (n)襲擊/突襲
+            - inroad (n)襲擊/突襲, 侵害/侵入
             - inscribe
             - insider (n)局內人/圈內人
             + insidious
             + insight (n)洞悉/深入了解 --> insightful (adj)富有洞察力的 = perceptive
             - insignia
-            + insinuate (v)暗指/暗示 = imply = suggest = allude <-- in + sinuous + ate
+            + insinuate (v)暗指/暗示 = imply = suggest = allude, 逐漸而巧妙的取得 <-- in + sinuous + ate
             - inspect --> inspection
             - inspire --> inspiration --> inspired
             * install
@@ -3055,20 +3056,17 @@
             - invade
             + invective
             + inveigh
-            ++ inveigle (v)引誘/誘使 = entice = lure, 誘騙/哄騙 = cajole = coax = wheedle <|> inveigh <--> in + veigle 盲目 = blind
+            ++ /ɪnˈviːɡ(ə)l/ inveigle (v)誘騙/哄騙 = cajole = coax = wheedle <|> /ɪnˈveɪ/ inveigh <-- in + veigle 盲目 = blind
             * invent --> inventive
             - inventory
+            - invert --> inverse
             - investigate (v)調查 <-- in + vestig 腳印 = footprint + ate
             + invest --> investiture
             + inveterate 
             + invigorate (v)使有活力 = energize = goose --> invigorating (adj)令人有精神的 <-- in + vigor + ate
             - invoke
             + involved
-            - irrigate (v)灌溉, 沖洗傷口 <-- ir + rig 水 = water + ate
-
-        3. 反
-            - inverse
-            - invert
+            - irrigate (v)灌溉, 沖洗傷口 --> irrigation (n) <-- ir + rig 水 = water + ate
 
     intel, inter, intr
         1. 在...之中 = between, among
