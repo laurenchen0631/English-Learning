@@ -559,7 +559,6 @@
     ^ cloture (v)結束辯論/結辯 <-- closure
     ^ clout (v)(用手或重物)猛打/猛擊 (n)權勢/影響力, 猛打/猛擊
     ^ cobble (n)鵝卵石 --> cobbler (n)修鞋匠/鞋匠 <|> coddle <|> clobber
-    ^ cogent (adj)有說服力的 = potent = compelling = convining <|> coagent
     ^ colander (n)漏勺/濾盆/濾器 <|> calander
     ^ collision (n)(車輛的)碰撞, 衝突/牴觸 <|> collusion
     ^ colon (n)冒號
@@ -785,6 +784,7 @@
     + /ɪɡˈzamɪn/ examine (v)細看 = scrutinize, 研究, 測驗, 調查/打聽 = inquire = investigate, 審問 = interrogate
     + /ɪɡˈzɛmpləm/ exemplum (n)例證/範例 = example = model --> exemplar (n)榜樣/楷模 = paragon --> exemplary (adj)可作楷模的 --> exemplify (v)作為…的典例, 用例子說明 = illustrate
     ++ exigent (adj)緊急的/急迫的 = urgent = pressing, 艱鉅的 = arduous = severe --> exigency (n)緊急/危急 = crisis, 迫切需要 <-- ex + ig 做 = drive + ent
+    + /ɪɡˈzɪɡjʊəs/ exiguous (adj)稀少的/非常小的 --> exiguity (n)稀少/細小
     + exist (v)存在, 生存 --> existential (adj)存在的, 存在主義的
     +++ /ɪkˈsplɔɪt/ exploit (v)剝削 = milk, 利用 = utilize, 推廣 = promote = tout (n)英勇行為/輝煌的成就 --> exploitation (n)利用, 剝削, 廣告推銷 <|> explicit
 
@@ -1423,6 +1423,7 @@
     +++ /ˈɪmɪteɪt/ imitate (v)仿效, 模仿 = mimic = impersonate, 偽裝 = resemble = simulate, 複製 = reproduce --> imitation (n)模仿, 複製品/仿冒品 = counterfeit = copy <-- image
     + /ɪˈnɪmɪk(ə)l/ inimical (adj)有害的/不利的 = unfavorable = adverse, 敵意的/不友善的 = hostile <|> imitate <|> intimate <-- inim 敵人 = enemy + ical
     +++ /ˈɪntɪmət/ intimate (v)暗示 = hint = imply = suggest (adj)親密的, 精細的/深入的 = deep = detailed, 私人的 = personal = private (n)密友  <-- intim 深處 = inmost + ate
+    + /ɪˈnanɪti/ inanity (n)愚蠢/愚行, 淺薄/空洞
     +++ intimation (n)暗示/提示
     + /ɪnˈkəʊeɪt/ inchoate (adj)剛開始的 = incipient, 未完的/未充分發展的 = rudimentary
     +++ /ɪnˈdʌldʒ/ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor = pamper --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
@@ -2509,7 +2510,7 @@
     + sidestep (v)橫跨一步以躲避/迴避 = bypass = evade = avoid = shirk
     + simian (adj)類人猿的/猴的 (n)人猿/猴子 = ape = monkey <-- simi 猴子 = ape + an
     + /ˈsʌɪnɪkjʊə/ sinecure (n)閒職 <-- without care
-    +++ sinister (adj)陰險的/邪惡的 = wicked = evil = fell, 不祥的/有凶兆的 = ominous = boding, 不幸的/災難性的 = unfortunate = disastrous = unfavorable, 左邊的 = left
+    +++ sinister (adj)陰險的/邪惡的 = wicked = evil = fell, 不祥的/有凶兆的 = portentous = ominous = boding, 不幸的/災難性的 = unfortunate = disastrous = unfavorable, 左邊的 = left
     ++ sinuous (adj)錯綜複雜的 = intricate = complex, 蜿蜒的, 柔軟的 = lithe = supple <-- sinu 彎曲 = curve + ous
     + /ˈskɛptɪk/ skeptic, sceptic (adj)懷疑性的 (N)懷疑者/無神論者 --> skepticism (n)懷疑論/懷疑的態度 <-- skept 思考 = consider + ic
     + sketchy (adj)概略的/粗略的, 待完成的 = imperfect = incomplete = slight = superficial
@@ -2543,6 +2544,7 @@
     + /ˈskwɒndə/ squander (v)浪費/揮霍 = dissipate = waste, 使分散 = scatter = disperse
     + squelch (v)壓扁 = crush down = squash, 鎮住/壓制 = suppress = silence, 吧嗒作響
     + /stəˈkɑːtəʊ/ staccato (adj)斷音的/不連貫的/斷斷續續的 = abrupt = disjointed = disconnected = desultory
+    + /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous <-- stay
     + stalwart (adj)健壯的 = robust = sturdy, 英勇的 = valiant, 堅定的
     + /ˈstɑːt(ə)l/ startle (v)使嚇一跳/使吃驚 = astonish = astound = shock = stupefy --> startling (adj)令人吃驚的
     ++ steep (v)浸泡/浸透 = imbue = saturate (adj)陡峭的 = sheer, 高昂的 = exorbitant, 高聳的 = high = lofty --> steeped (adj)沉浸在……中的 = immersed = saturated
@@ -2561,7 +2563,7 @@
     ++ strength (n)力氣/實力/效力, 強度/濃度 = concentration, 人數/兵力, 長處
     * stride (v)大步行走
     + strident (adj)刺耳的 = grating = harsh = discordant = cacophonous = jarring <|> stride
-    *** strike -> struck -> struck (v)罷工, 打/擊/攻擊, 敲/鳴/報時, 擦/劃（火柴）, 刪除/取消, 發現/探測到, 達成協議, 讓…覺得/使產生…想法, 鑄造/壓出
+    *** strike -> struck -> stricken (v)罷工, 打/擊/攻擊, 敲/鳴/報時, 擦/劃（火柴）, 刪除/取消, 發現/探測到, 達成協議, 讓…覺得/使產生…想法, 鑄造/壓出
     ++ striking (adj)引人注目的 = attractive = impressive = showy = arresting = riveting, 明顯的 = noticeable = conspicuous = eminent, 罷工的
     + struck (adj)因罷工而關閉的/受到罷工影響的
     + strip (v)剝/奪走 = deprive = divest = dismantle, 剝奪/掠奪 = rob = dispossess = plunder (n)狹長的一片
@@ -3213,6 +3215,7 @@
     + vim (n)精力/生氣/精神 = pep = enthusiasm = vitality
     ++ vindicate (v)證明……無辜/平反 = exculpate, 證實 = justify = confirm = substantiate = corroborate, 報復 = avenge <-- vindic 主張者 = claimant
     + vindictive (adj)有復仇心的/報復的 = vengeful = unforgiving, 惡意的 = malevolent = malicious = malign = mean = spiteful = vicious = wanton <-- vindict 報復 = vengeance
+    + virago (n)潑婦/悍婦
     + /ˈvɪskəs/ viscous, viscid (adj)黏性的 = syrupy = adhesive = sticky
     + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity
     + vulnerable (adj)易受傷的/易收攻擊的 <-- vulner 傷口 = wound + able
