@@ -5,5 +5,9 @@
     "editor.insertSpaces": false,
     "files.associations": {
         "*.txt": "c"
+    },
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 120,
     }
 }

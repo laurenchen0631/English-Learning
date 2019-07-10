@@ -2463,7 +2463,7 @@
         - gnostic (adj)有知識的
         - agnostic (adj)不可知論的 (n)不可知論者 = skeptic
         + diagnose (v)診斷 --> diagnostic (adj)診斷的 --> diagnosis (n)診斷
-        - ignore (v)不理會/忽視
+        - ignore (v)不理會/忽視 <|> ignoble
         - ignorant (adj)無知的, 不知道的 --> ignorance (n)無知, 不知
         - prognosis (n)預後/對疾病的發作及結果的預言
 
@@ -2578,7 +2578,7 @@
         - glaciology (n)冰河學
             
     gloss 舌頭/語言 = tongue, language
-        - glossal (n)舌頭的
+        - glossal (n)舌頭的 <|> gossip
         - glossary (n)詞彙表/難詞表
 
     gyro, gyr 轉 = turn, circle, spiral
@@ -2773,7 +2773,6 @@
             ++ impertinent (adj)無禮的 = uncivil = discourteous, 無關的 = irrelevant = extraneous = immaterial = inconsequential
             - impertinence (n)無理/粗魯 = rudeness <-- im + pertinence
             + imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
-            + impetus (n)推動力/刺激 = impulse = stimulus --> impetuous (adj)魯莽的/衝動的/狂暴的/奔騰的 = impulsive = forceful = violent
             + impervious (adj)不能滲透的 = impermeable = impenetrable, 不為所動的/無動於衷的 = indifferent
             + implacable
             + implausible (adj)難以置信的 = unlikely = unbelievable <-- im + plausible
@@ -2807,7 +2806,7 @@
             + inconclusive (adj)非決定性的/不確定的
             + incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
             + inconsequential (adj)不重要的 = trivial = frivolous = futile
-            + inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾
+            + inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾 
             + inconstant (adj)易變的/無常的 = variable = irregular = erratic, 不忠的 --> inconstancy (n) <-- in + constant
             + incontrovertible (adj)無可辯駁的/無庸置疑的 = indisputable
             + incorrigible (adj)屢教不改的/不可救藥的
@@ -2927,9 +2926,9 @@
             + impede --> impediment
             - impel
             - impend --> impending
-            + imperative (adj)極重要的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding (n)必要之事/急需, 命令/規則 <-- im + per 準備 = prepare + ative
             + /ɪmˈpɛrɪl/ imperil (v)危及 = endanger = compromise = jeopardize = menace
             - impersonate (v)模仿...以娛樂 = mimic = imitate <-- im + person + ate
+            + impetus (n)推動力/刺激 = impulse = stimulus --> impetuous (adj)魯莽的/衝動的/狂暴的/奔騰的 = impulsive = forceful = violent
             + impinge (v)產生負面效果, 侵犯 = encroach, [on/upon]撞擊 = strike = collide <-- im + pinge 固定 = fix
             * implant (v)灌輸 = instill = inculcate, 著床, 移植/植入 (n)植入物
             - instill
@@ -2976,7 +2975,7 @@
             - inculpate
             - incur
             + incursion
-            - indebted (adj)負債的, 感激的/感恩的
+            * indebted (adj)負債的, 感激的/感恩的
             - indent --> indenture
             - indicate
             + indict
@@ -2987,7 +2986,7 @@
             - induce
             - induct --> induction
             - indurate
-            + industrious (adj)勤勉的/勤勞的 = diligent = hard-working
+            + industrious (adj)勤勉的/勤勞的 = diligent = hard-working <-- industry
             - infatuate (v)使熱戀/使衝昏頭腦 --> infatuation (n)迷戀 <-- in + fatuous + ate
             - infect --> infection
             + infer
@@ -3042,7 +3041,7 @@
             - instruct --> instructive
             - instrument --> instrumental --> instrumentalist
             + insult
-            + insure (v)保障/確保
+            + insure (v)保障/確保 --> insurance (n)保險, 保險業, 保險費, 保險金額, 預防措施
             + insurgent --> insurrection
             + intense --> intensify
             + intend --> intent --> intention --> intentional
@@ -3133,6 +3132,7 @@
 
     imper 命令 = rule
         - imperator (n)元首, 大將軍
+        + imperative (adj)極重要的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding (n)必要之事/急需, 命令/規則 <-- im + per 準備 = prepare + ative
         - imperial (adj)帝王的/至尊的
         + imperious (adj)傲慢的/專橫的 = commanding = domineering = arrogant = dictatorial = overbearing = magisterial = peremptory, 急需的 = urgent = imperative
         - imperium (n)最高權力
@@ -3166,7 +3166,7 @@
 
 [J]
     ject 扔/拋 = throw
-        ++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable
+        ++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable <|> abjure <|> adjure
         + conjecture (n/v)猜測/猜想
         - deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
         - inject (v)注射/注入 --> injection (n)注射, 注射劑
@@ -3190,11 +3190,12 @@
         - jury (n)陪審團 = tribunal, 評審委員會 (v)評審(展覽)
         - perjure (v)使作偽證/為……作偽證 --> perjury (n)偽證, 偽證罪
     
-    just, jury 正確 = right
+    just, jury, jur 正確 = right
         + adjust (v)調整, 使適應 = adapt = accustom = accommodate
         - justice (n)正義, 司法, 法官
+        - injure (v)傷害, 受傷, 危害/損害
         - injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful,  誹謗的/中傷的
-        + justify (v)證明……是正當的, 證明……無罪/辯護 --> justification (n)正當理由, 辯護 = defence
+        + justify (v)證明……是正當的/是..的好理由, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
         - justifiable (adj)有理由的/有道理的
 
     journ 日 = day, daily
@@ -3206,63 +3207,63 @@
     junct, join 結合/連結 = join == arthr == articul
         + adjunct (n)附加物/附件 = appendage
         - conjoin (v)使結合/使連接 --> conjunction (n)聯合/同時發生, 連詞/連接詞
-        - disjunction (n)分離/歧異 --> disjunctive (adj)分離的, 相反的/反意的
-        + disjoint (v)使脫臼 = dislocate, 弄亂 = dislocate --> disjointed (adj)無關聯的/無條理的, 脫臼的
+        + disjoint (v)使脫臼 = dislocate, 使支離破碎 = dislocate --> disjointed (adj)支離破碎的/無條理的
+        - disjunction (n)分離/歧異 --> disjunctive (adj)分離的, 轉折的/反義的
         - junction (n)樞紐/交會點/交叉路口
         + /ˈdʒʌntə/ junta (n)軍人集團/軍政府/私黨
-        - juncture (n)關鍵時刻/轉折 = moment, 危機 = crisis = jeopardy
-        - injunction (n)命令/強制令 = command = bidding = enjoin (v)
+        - juncture (n)關鍵時刻/轉折 = moment, 交會點/連接點, 音渡/連音 <|> fracture
+        - injunction (n)命令/指令 = command = bidding, 禁止令/強制令
 
     juven 年輕的 = youthful
-        + juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune = 
+        + /ˈdʒuːvənʌɪl/ juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune (n)青少年/年輕人
         - rejuvenate (v)使變年輕, 使恢復精神/恢復活力
 
     joc 玩笑 = joke
-        - jocund (adj)快樂的/高興的 = cheerful = genial = merry = jovial = jolly = convivial
-        + jocose (adj)開玩笑的/詼諧的 = jocular
-        + jocular (adj)有趣的/詼諧的/愛開玩笑的 = facetious
+        - /ˈdʒɒk(ə)nd/ jocund (adj)快樂的/高興的 = cheerful = genial = merry = jovial = jolly = convivial
+        + /dʒəˈkəʊs/ jocose (adj)開玩笑的/詼諧的 = jocular = humorous
+        + /ˈdʒɒkjʊlə/ jocular (adj)有趣的/詼諧的/愛開玩笑的 = facetious
 
     judic, jud 判斷 = judge
         - adjudicate (v)[法]判決/宣告 = arbitrate = umpire
+        - judge (v)審判/判決, 判斷/認為 (n)裁判, 法官/推事/裁判員
+        * judicial (adj)司法的/審判的, 法官的/法庭的
+        + judicious (adj)明斷的 = discreet = prudent = circumspect = deliberate = measured = canny = guarded = methodical
         + injudicious
-        - judge (v)審判/判決, 判斷/認為 (n)鑑定人/鑑賞家, 法官/推事/裁判員
-        * judicial (adj)司法的/審判的, 法官的/法庭的, 公平的
-        + judicious (adj)明斷的/明智而審慎的 = discreet = prudent = circumspect = deliberate = measured = canny = guarded = methodical
         * prejudge (v)預先判斷
-        * prejudice (n)偏見/成見 = jaundice = bias (v)使產生偏見 = jaundice = bias --> prejudiced (adj)有成見的/有偏見的
+        * /ˈprɛdʒʊdɪs/ prejudice (n)偏見/成見 = jaundice = bias, [法]侵害/損害 (v)使懷偏見 = jaundice = bias, 侵害/損害 --> prejudiced (adj)有成見的/有偏見的
 
     jug 束縛 = yoke
-        + conjugal (adj)婚姻的
-        - subjugate (v)征服/鎮壓
+        + conjugal (adj)婚姻的 = marital
+        - subjugate (v)征服/制服
 
 [K]
     kine 動 = move == mot
-        + kinetic (adj)物體運動的, 活動的/活躍的
+        + kinetic (adj)物體運動的, (美術作品)躍動感的
         - kinescope (n)映像真空管
         - kinematics (n)運動學/動力學
 
 [L]
     lut, luv, lug, lav 沖/洗 = wash --> diluv 洪水
-        - ablution (n)淨禮
-        + dilute (v)沖淡/稀釋, 減弱 = reduce
+        - ablution (n)沐浴/洗澡, 淨禮
+        - deluge (n)大洪水, 暴雨, 大量 (v)被洪水淹沒 = overwhelm, 壓倒 = overwhelm
+        + dilute (v)沖淡/稀釋, 削弱/減低 = reduce (adj)稀釋的, 低濃度的
         - diluvial (adj)洪水的
         - antediluvian (adj)太古的
-        - deluge (n)大洪水, 暴雨
-        - lave (v)洗浴/沐浴 = wash = bathe, （河流）慢慢沖刷
+        - lave (v)洗 = wash = bathe, (河流)沖刷
         - lavatory (n)廁所/盥洗室
-        + lavish (adj)慷慨的/浪費的 = prodigal = extravagant = wasteful, 豐富的 = profuse (v)大量給予/慷慨給予/揮霍
+        + lavish (adj)奢華的/鋪張的 = prodigal = extravagant, 慷慨的, 豐富的 = profuse (v)大量給予/慷慨給予
 
     lud, lude, lus 嘻笑/玩弄 = play
-        + allude (v)間接提到/暗指/影射 = imply = insinuate --> allusive (ad)影射的/暗指的
+        + allude (v)間接提到/暗指/影射 = imply = insinuate, 略微提及 --> allusive (ad)影射的/暗指的
         + collude (v)串通/勾結 = conspire = connive --> collusion (n)勾結/共謀/串通
-        * delude (v)欺騙/矇騙 = dupe = hoodwink = hoax = deceive = cheat = trick
-        ** delusive (adj)欺騙的/誤導的 = deceptive = misleading, 幻想的 = unreal = illusory --> delusion (n)欺騙, 幻想
-        + elude (v)躲避 = evade = escape, 不理解/脫離認知 --> elusion (n)逃避/躲避
+        * delude (v)欺騙/矇騙/讓..相信是真的 = dupe = hoodwink = hoax = deceive = cheat = trick
+        ** delusive (adj)欺騙的/誤導的 = deceptive = misleading --> delusion (n)欺騙
+        + elude (v)躲避 = evade = escape, 難以被..獲得/難以被..所理解 --> elusion (n)逃避/躲避
         ++ elusive (adj)難以表達的 = slippery, 精於逃避的, 難找到的 = diffcult to find = evasive = obscure = delicate
-        * ludicrous (adj)滑稽的/荒唐可笑的 = absurd = grotesque = ridiculous = comic
-        + illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive (adj)迷惑人的/迷幻的 --> illusory (adj)欺騙的 = illusive = deceptive, 虛假的 = unreal = delusive = counterfeit
-        - interlude (v)暫時休息/間歇, 插曲
-        - prelude (n)序幕/前奏/序曲
+        * ludicrous (adj)滑稽的/荒唐可笑的 = absurd = ridiculous
+        + illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive, illusory (adj)迷惑人的/虛假的 = unreal = delusive = counterfeit
+        - interlude (v)暫時休息/間歇, 插曲 = interval, 中場/中場表演
+        - prelude (n)序幕/前奏/序曲 (v)作為..的序幕
             
     luc, lucid, lumin 光亮 = light
         + lucid (adj)清楚易懂的 = clear = comprehensible, 神志清醒的 = bright = intelligible = sane, 清澈的 = pellucid = transparent --> lucidity (n)清晰, 神智清醒
@@ -3967,7 +3968,7 @@
         - nudism (n)裸體主義
 
     norm 規定 = rule, pattern
-        + enormity (n)暴行, 窮兇極惡/滔天大罪, 巨大 --> enormous (adj)巨大的
+        + enormity (n)暴行/窮兇極惡/滔天大罪, 巨大 --> enormous (adj)巨大的
         * norm (n)標準/規範 = standard
         + normative (adj)基準的/規範的 <-- norm
 
@@ -4485,7 +4486,7 @@
         + compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
         + expend (v)花費/消費/耗費 --> expense (n)支出/花錢/開銷
         + expendable (adj)消耗性的, 無足輕重的
-        - dispense (v)分發/提供 = allot = distribute, 配藥/開藥
+        + dispense (v)分發/提供 = allot = distribute, 配藥/開藥, 免除/省掉, 豁免/免除 --> dispensation (n)免除/豁免, 分配
         * dispensable (adj)可有可無的/不必要的 <--> indispensable
         + indispensable --> indispensability
         - impend (v)迫近/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
@@ -4664,7 +4665,7 @@
     plaud, plaus 鼓掌 = clap the hands
         + applaud (v)鼓掌(表示歡迎或讚賞) = acclaim = admire --> applause (n)鼓掌/喝采 = ovation
         - plaudit (n)喝采/讚美 = praise
-        +++ plausible (adj)貌似真實的/貌似有理的
+        +++ plausible (adj)貌似真實的/貌似有理的 <|> pause
 
     ple, plete, plent, pleni, pleth 滿 = fill == compl
         - complete (adj)完全的
@@ -4816,6 +4817,7 @@
         + epiphany (n)一瞬的顯現
         + diaphanous
         - phantom (n)幽靈/鬼魅, 幻象 = visionary
+        + phantasmagorical (adj)幻影似的/虛假的 = illusory = unreal
         - phanerogam (n)顯花植物
         - phenomenon -> phenomena (n)（尤指不尋常的或有趣的）現象, 奇才/奇蹟 = miracle
         - phenomenal (adj)顯著的/非凡的 = extraordinary = remarkable
