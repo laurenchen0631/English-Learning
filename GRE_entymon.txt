@@ -844,7 +844,7 @@
         - /ˈɛksʌɪz/ excise (v)刪除, 切除 (n)消費稅
         - /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使/運用 (n)活動 (v)擔心 = worry = perplex
         - incise (v)切/切割 = cut --> incision (n)切口/傷口, 切割/切開
-        + incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute
+        + incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute, 敏銳的
         + précis (n)摘要/大綱 = summary = abstract
         - precise (adj)精確的 = exact = rigorous
         - rescission (n)廢除
@@ -2644,6 +2644,23 @@
         + /ˈhɛdərəˌdɑks/ heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
         + heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous <--> homogeneous
 
+    homo, homeo 相同 = similar
+        + /ˌhɒmɪə(ʊ)ˈsteɪsɪs/ homeostasis (n)體內平衡
+        + homogeneous (adj)同種的/同質的/相似的 = similar = identical <--> heterogeneous --> homogeneity (n)同種/同質  
+        - homogenize (v)使均勻
+
+    hom 人 = man
+        + /ˈhɒmɪdʒ/ homage (n)尊敬/崇敬, 效忠
+        - homicide
+
+    hum 地 = earth
+        - exhume (v)掘出, 發掘 = excavate
+        - humus (n)腐殖質/腐質土壤
+        + humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑 = grovel, 使威信掃地
+        - humility (n)謙卑/謙遜
+        + humiliate (v)使屈辱/羞辱 = mortify = degrade --> humiliation (n)羞辱/恥辱 = opprobrium
+        + humdrum (adj)無聊的/乏味的/單調的 = boring = dull = monotonous (n)單調 = monotony <|> humbug
+
     hydr, hydro 水 = water == aqua
         - anhydrous (adj)無水的
         - carbohydrate
@@ -2722,23 +2739,6 @@
         - hieratic (adj)神職的
         * /ˈhʌɪ(ə)rəɡlɪf/ hieroglyph (n)象形文字
         + hieroglyphic (n)象形文字 = hieroglyph (adj)象形文字的, 難解的 --> hieroglyphics (n)象形文字
-
-    hom 人 = man
-        + /ˈhɒmɪdʒ/ homage (n)尊敬/崇敬, 效忠
-        - homicide
-
-    homo, homeo 相同 = similar
-        + /ˌhɒmɪə(ʊ)ˈsteɪsɪs/ homeostasis (n)體內平衡
-        + homogeneous (adj)同種的/同質的/相似的 = similar = identical <--> heterogeneous --> homogeneity (n)同種/同質  
-        - homogenize (v)使均勻
-
-    hum 地 = earth
-        - exhume (v)掘出, 發掘 = excavate
-        - humus (n)腐殖質/腐質土壤
-        + humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑 = grovel, 使威信掃地
-        - humility (n)謙卑/謙遜
-        + humiliate (v)使屈辱/羞辱 = mortify = degrade --> humiliation (n)羞辱/恥辱 = opprobrium
-        + humdrum (adj)無聊的/乏味的/單調的 = boring = dull = monotonous (n)單調 = monotony <|> humbug
 
 [I]
     in, ig, il, im, ir
@@ -2848,7 +2848,7 @@
             ** informal (adj)非正式的 = unofficial, 不拘禮節的, 口語的/通俗的 <|> inform
             + ingrate --> ingratitude
             - inhumane (adj)不近人情的/不人道的/殘忍的 = cruel = brutal = unkind = wanton
-            - /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 <-- in + imitate + able
+            - /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 <|> inimical <-- in + imitate + able
             + iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin --> iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
             + /ɪˈnɪʃ(ə)l/ initial (adj)開始的/最初的, 首字的 (n)姓名的首字母 (v)簽首字母, 簽字以同意 <-- in + it + ial  --> initially (adv)最初/開始
             ** /ɪˈnɪʃɪeɪt/ initiate (v)發起/創始, 入會  <-- initial
@@ -3134,7 +3134,7 @@
         - imperator (n)元首, 大將軍
         + imperative (adj)極重要的/必要的 = urgent = essential, 命令式的 = peremptory = authoritative = commanding (n)必要之事/急需, 命令/規則 <-- im + per 準備 = prepare + ative
         - imperial (adj)帝王的/至尊的
-        + imperious (adj)傲慢的/專橫的 = commanding = domineering = arrogant = dictatorial = overbearing = magisterial = peremptory, 急需的 = urgent = imperative
+        + imperious (adj)傲慢的/專橫的 = commanding = domineering = arrogant = dictatorial = overbearing = magisterial = peremptory, 急需的 = urgent = imperative <|> impervious
         - imperium (n)最高權力
 
     ign 火 = fire
@@ -3188,18 +3188,19 @@
         - adjure (v)力勸/懇請 = urge = request
         + conjure (v)招喚/想起 = recall = evoke, 變魔術/變戲法
         - jury (n)陪審團 = tribunal, 評審委員會 (v)評審(展覽)
-        - perjure (v)使作偽證/為……作偽證 --> perjury (n)偽證, 偽證罪
+        - perjure (v)使作偽證/為……作偽證
+        - perjury (n)偽證, 偽證罪
     
     just, jury, jur 正確 = right
         + adjust (v)調整, 使適應 = adapt = accustom = accommodate
         - justice (n)正義, 司法, 法官
         - injure (v)傷害, 受傷, 危害/損害
-        - injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful,  誹謗的/中傷的
+        - injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
         + justify (v)證明……是正當的/是..的好理由, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
         - justifiable (adj)有理由的/有道理的
 
     journ 日 = day, daily
-        - adjourn (v)推遲/使延期, 使休會
+        - adjourn (v)推遲/使延期 = defer, 使休會
         - journey (n)旅行 = jaunt
         - journal (n)期刊
         - sojourn (n/v)逗留/停留 = stay
@@ -3245,7 +3246,7 @@
 [L]
     lut, luv, lug, lav 沖/洗 = wash --> diluv 洪水
         - ablution (n)沐浴/洗澡, 淨禮
-        - deluge (n)大洪水, 暴雨, 大量 (v)被洪水淹沒 = overwhelm, 壓倒 = overwhelm
+        - deluge (n)大洪水, 暴雨, 大量 (v)被洪水淹沒 = overwhelm, 壓倒 = overwhelm <|> divulge
         + dilute (v)沖淡/稀釋, 削弱/減低 = reduce (adj)稀釋的, 低濃度的
         - diluvial (adj)洪水的
         - antediluvian (adj)太古的
@@ -3266,49 +3267,49 @@
         - prelude (n)序幕/前奏/序曲 (v)作為..的序幕
             
     luc, lucid, lumin 光亮 = light
-        + lucid (adj)清楚易懂的 = clear = comprehensible, 神志清醒的 = bright = intelligible = sane, 清澈的 = pellucid = transparent --> lucidity (n)清晰, 神智清醒
+        + lucid (adj)清楚易懂的 = pellucid = comprehensible, 神志清醒的 = intelligible = sane, 明亮的 = bright --> lucidity (n)清晰, 神智清醒 <|> lurid
         + elucidate (v)闡明 = explain = clarify
-        + illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 啟發 = enlighten <-- il + lumin + ate
+        + illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 裝飾 <-- il + lumin + ate
         - illuminati (n)先覺者/智者
         * lucent (adj)發光的/透光的
         - lumen (n)流明
-        - luminant (adj)發光的
         - luminary (n)傑出人物/名人 = lion
         + luminous (adj)發光的/光輝的 = bright = glowing = radiant, 清楚的/明白易懂的 = lucid
-        + pellucid (adj)清澄的/透明的 = translucent = limpid, 明白的/易懂的
+        + pellucid (adj)清澄的/透明的 = translucent = limpid, 明白的/易懂的 = lucid
         + translucent (adj)半透明的 <--> transparent
     
     leg
         1. 任命/指定 = depute, choose
-            * allege (v)(無證據)宣稱/指控 = assert without proof = accuse, 主張 = assert = affirm --> allegation
-            + delegate (v)委派/委託/授權 = commit, 選出代表 = appoint (n)代表 = representative
-            - legate (n)特使/使節/使者
+            * allege (v)(無證據)宣稱/指控 = assert without proof = accuse --> allegation (n)
+            + delegate (v)委派/委託/授權 = commit, 委派..代表 = appoint (n)代表 = representative
+            * legate (n)特使/使節/使者 = envoy
+            * legacy (n)遺產/遺贈/留給後人的東西 = bequest <-- legate
             - legion (n)軍團, 一大群
-            + relegate (v)貶職/使降級, 交付/託付
+            + relegate (v)貶職/使降級
 
         2. 法律/君主 = liege, law
-            - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocate (v)
-            + legislate (v)制定法律 --> legislation (n)立法, 法條/法規
-            - legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
-            + legitimate (v)使合法, 認可/批准 = justify = sanction = authorize (adj)合法的/正當的 = licit = legal = reasonable, 正統的, 真正的 = genuine <--> illegitimate
+            - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocacy
+            + legislate (v)立法, (透過立法)實現 = enact --> legislation (n)立法, 法條/法規
             * legislature (n)立法機關, 美國州議會
+            - legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
+            + legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
+            - illegitimate
             + privilege
 
     lev, liev 輕/舉 = light, lift
-        + alleviate (v)減輕/緩和 = mitigate = palliate = moderate = relieve = allay = assuage = soothe
-        + levity (n)輕率/輕浮 = frivolity = giddiness, 消遣 = mirth = hilarity
-        + elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift, 提高休養 = raise
+        + /əˈliːvɪeɪt/ alleviate (v)減輕/緩和 = mitigate = palliate = moderate = relieve = allay = assuage = soothe
+        + levity (n)輕率/輕浮 = frivolity = giddiness
+        + elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
         - lever (n)槓桿, 手段 (v)用槓桿撬起
-        * levy (n/v)徵稅 = impose, 徵兵
-        + relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 正確的/適宜的
+        * levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
+        + relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
         + relevance (n)關聯/相關, 適宜
-        * relieve (v)緩解/減輕(疼痛或擔憂), 緩解(局勢), 救濟/援助, 接替/換班, 解圍/解救
+        * relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
         - relieved (adj)寬慰的/如釋重負的
 
     len 軟 = soft
-        - lenis (n)發音較不費力的子音
+        - lenis (adj)發音較不費力的(子音)
         * lenient (adj)寬大的/仁慈的 = clement --> leniency (n)溫和/寬容
-        - lenitive (adj)緩和的, 鎮痛的 = anodyne
         - lento (adj/adv)(音樂)緩慢
 
     leth 死亡 = death
@@ -3318,18 +3319,18 @@
 
     loc, loco 地方 = place
         - allocate (v)分配 = allot
-        - collocate (v)組合/排列
+        - collocate (v)組合/搭配(詞句)
         - dislocate (v)使脫臼 = disjoint, 弄亂/擾亂
-        - locale (n)事情發生的現場或地點
+        - /ləʊˈkɑːl/ locale (n)事情發生的現場或地點
         - locality (n)地區/場所, 方位
         - locus (n)地點/所在地 = location
-        - location (n)地點 = locus
-        - locomotive (n)運動/移動 = motion --> locomotive (n)火車頭 (adj)運動的/移動的
+        - location (n)地點 = locus, [數]軌跡, 出庭權/陳述權 = locus standi
+        - locomotion (n)運動/移動 = motion --> locomotive (n)火車頭 (adj)運動的/移動的
 
     lustr, luster 光澤 = polish
-        + illustrate (v)用圖、例子或圖表說明闡明 = exemplify
-        + lackluster (adj)無生氣的, 乏味的/無趣的 = dull = insipid
-        + luster (n)光澤, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
+        + illustrate (v)用圖、例子或圖表說明闡明 = exemplify <|> illuminate
+        + lackluster (adj)無生氣的/無趣的 = uninspired = dull = insipid, 無光澤的 = dull
+        + luster (n)光澤 = gloss = sheen, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
 
     lect, lig, lit
         1. 講 = speak
@@ -4462,7 +4463,7 @@
         - privacy (n)獨處, 隱私
         + privation (n)剝奪, 被剝奪的狀態/喪失/缺乏
         - privative (adj)剝奪的
-        + privilege (n)特權/特別利益
+        + privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
 
     pur 附近 = around
         - purchase (n)支點/槓桿, 緊抓/緊繫, 購買/所購之物 (v)購買, 贏得/獲得
@@ -4699,7 +4700,7 @@
         + expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
         + expose (v)使接觸到, 揭發 --> exposure (n)暴露/顯露, 曝光
         - expostulate (v)勸告/告誡
-        * impose (v)推行/強制實行/強加於, 打擾/麻煩, 徵稅 = levy
+        *** impose (v)推行/強制實行/強加於, 打擾/麻煩, 徵稅 = levy = tax = toll
         - imposing (adj)壯觀的/宏偉的 = grand
         - impostor (n)冒充者/騙子 --> imposture (n)冒充
         - interpose (v)插入/置於...之間 = interpolate, 介入
@@ -4970,7 +4971,7 @@
     pecun 財富 = wealth
         + impecunious (adj)貧窮的 = indigent = needy = poor = destitute = penniless = penurious <--> affluent
         - peculate (v)挪用/盜取 = appropriate = misappropriate
-        + pecuniary (adj)金錢的, 課罰款的
+        + pecuniary (adj)金錢的, 應課罰金的
 
     ponder 衡量 = weigh
         - imponderable (adj)無法預測或衡量的
@@ -5394,7 +5395,7 @@
         * derivation (n)發展/起源, 詞源
         - river (n)河流
         - arrive (v)到達
-        - /ˌariːˈviːst/ arriviste (n)野心家/新貴 = social climber
+        - /ˌariːˈviːst/ arriviste (n)野心家/新貴 = social climber = parvenu
 
     reg, regul, reign 統治
         + interregnum (n)無王時期/空位期

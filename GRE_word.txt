@@ -1574,7 +1574,6 @@
     * lay (v)放, 準備/安排/提出, 平息, 把……歸於, 下蛋/產卵 (adj)世俗的 (n)位置/地形
     * learned (adj)博學的 = erudite = scholarly, 學術性的, 透過學習（或經驗等）獲得的
     ** leaven (n)酵母/酵素, 促使漸變的因素 (v)使發酵 = ferment, 逐漸影響
-    ** legate (n)特使/信使 = envoy (v)當作遺產讓與 = bequeath --> legacy (n)遺產/遺贈/留給後人的東西 = bequest
     * leisure (n)閒暇/悠閒/安逸 --> leisurely (adj)悠閒的 --> leisureliness (n)悠然/從容
     * /ˈliːnɪənt/ lenient (adj)(處罰或判決)寬容的/寬大的 = indulgent = permissive
     * lessen (v)減少/降低/減輕 = allay 
@@ -1707,6 +1706,7 @@
     + melodious (adj)旋律優美的/悅耳的 = tuneful = musical = sweet-sounding
     +++ /ˈmɛnəs/ menace (n)威脅/威嚇, 討厭的人(尤指小孩) (v)威脅/威嚇 = threaten, 危害 = imperil = endanger = jeopardize = compromise <|> commence --> menacing (adj)威脅的 = formidable = minatory = surly 
     + /meɪˈnɑːʒ/ ménage (n)住家 = household, 家管 = housekeeping --> /məˈnadʒ(ə)ri/ menagerie (n)動物園/獸欄, （供展覽用的）野生動物
+    + /mɪˈandə/ meander (v)蜿蜒而流, 漫步 = wander = ramble (n)蜿蜒的河流或道路, 漫無目的的旅行
     ++ /ˈməːkjəri/ mercury (n)水銀/汞 --> mercurial (adj)善變的 = changeable = fickle = erratic, 活潑的 = animated = sprightly = lively
     + /ˌmɛrɪˈtrɪʃəs/ meretricious (adj)華而不實的/虛有其表的 = grandiose = specious = deceptive = pretentous, 俗氣的/浮華的 = gaudy = tawdry <|> meticulous
     + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = conscientious = thorough, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
@@ -1819,7 +1819,6 @@
     ^ maw (n)反芻動物的第四胃/嗉囊/人的胃
     ^ maximize (v)使增加至最大限度 <-- maximum
     ^ maze (n)迷宮
-    ^ meander (v)蜿蜒而流, 漫步 = wander = ramble
     ^ measly (adj)麻疹的, 少得可憐的 = meager
     ^ measured (adj)精確的, 慎重的 = calculated = restrained
     ^ mechanical (adj)
@@ -2036,6 +2035,7 @@
     + parry (v)擋開攻擊 = ward off = avert, 避開/迴避[言論] = deflect = avoid = evade = dodge
     + parsimony (n)吝嗇/過於儉省 = stinginess = niggardliness = penury --> parsimonious (adj)吝嗇的/過於儉省的 = miserly = mean = stingy = ungenerous
     + partisan (n)黨徒/虔誠的信徒/熱烈的支持者 (adj)盲目支持的/擁護的 --> partisanship (n)黨派性/黨派偏見 <-- party  
+    + parvenu (n)爆發戶/新貴 = arriviste
     + /paˈstiːʃ/ pastiche (n)混合拼湊的作品, 大雜燴 = hodgepodge = jumble
     ++ /ˈpat(ə)nt/ patent (adj)顯而易見的/明顯的 = obvious = evident = palpable, 公開的/開放的, 有專利的 = proprietary (n)專利權 <|> /ˈpat(ə)n/ pattern
     + /ˈpatwɑː/ patois (n)方言/土語 = dialect = vernacular = slang, 行話 = jargon = cant = argot = lingo
@@ -2466,6 +2466,7 @@
     + /ˈsalvɪdʒ/ salvage (n/v)救助/營救/搶救, 打撈 (n)海難救助, 打撈 --> salvation (n)救助, 救世 <-- save
     *** /ˈsavɪdʒ/ savage (V)亂咬/兇猛地攻擊, 嚴厲抨擊 = excoriate = lambaste (adj)未馴化的 = untamed, 兇殘的 = fierce = ferocious = truculent = vicious, 未開化的/野蠻的 = uncivilized = barbarous, 粗魯的 = rude = boorish, 惡意的 = malicious (n)野蠻人, 殘暴成性的人, 粗魯的人 = boor = churl 
     ++ /ˈsaŋɡwɪn/ sanguine (adj)樂觀的 = optimistic = hopeful, 紅潤的 = reddish = ruddy, 血紅的 = blood-red, 血腥的 = bloody = sanguinary <-- sanguin 血 = blood + e
+    + /sɒ̃ˈfrwɑː/ sangfroid (n)沈著/鎮定 <-- cold blood
     + sarcasm (n)諷刺/挖苦 = irony = bitter derision = satire --> sarcastic (adj)諷刺的 = satirical = sardonic = caustic = ironic  = backhanded
     + sardonic (adj)冷嘲的/諷刺的 = sarcastic = cynical = mocking = sneering
     + /sɑːˈtɔːrɪəl/ sartorial (adj)裁縫的/縫製的 <-- sartor 裁縫 = tailor + ial
@@ -2642,6 +2643,7 @@
     * sow (v)播種, 散布 (n)母豬
     *** sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy
     * spasm (n)抽搐/痙攣 = jerk --> spasmodic (adj)痙攣的 = jerky
+    * spellbind (v)吸引/使入迷 = fascinate
     * splendor (n)壯麗 = magnificence = grandeur, 輝煌 = brilliancy --> splendid (adj)極佳的/華麗的/壯麗的 = grand = gorgeous = gorgeous = magnificent = sumptuous
     * sponge (n)海綿, 擦拭/擦洗 (v)白吃/白要 = cadge, 擦/擦洗 --> spongy (adj)像海綿的, 不堅實的
     * spouse (n)配偶
