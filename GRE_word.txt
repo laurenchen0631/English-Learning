@@ -20,7 +20,7 @@
     + /əˈmiːnəb(ə)l/ amenable (adj)願服從的/順從的 = cooperative = compliant = obedient = submissive = servile = docile = tractable = yielding = resigned <-- amen 領導 = lead
     ++ /əˈmiːnɪti/ amenity (n)禮儀 = courtesy = etiquette = civility, 感到舒適的事物, 便利的設施 <|> acumen <-- amen 愉快 = pleasing + ity
     + amok, amuck (adv)狂亂地
-    + anathema (n)令人討厭的事物, 詛咒/被詛咒的人 <|> anthem
+    + anathema (n)令人討厭的人或物, 詛咒/被詛咒的人 <|> anthem
     + /ˈanɪkdəʊt/ anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的
     + /ˈanədʌɪn/ anodyne (n)鎮痛劑 (adj)止痛的 = analgesic = lenitive, 一團和氣的/溫和的
     ++ anoint (v)選定/指定, 塗抹/擦油 = baste = grease
@@ -2059,6 +2059,7 @@
     ++ pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
+    + pittance (n)微薄的收入 <-- pity
     + /ˈpɪvət/ pivot (n)樞紐/轉捩點 (v)繞...轉 --> pivotal (adj)中樞的, 關鍵的 = critical = crucial = key = vital
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
     + platonic (adj)柏拉圖的/哲學的/理論的 = theoretical, 純精神上的 = spiritual
@@ -2113,7 +2114,6 @@
     * personnel (n)全體人員/員工
     * /pɪə/ pier (n)碼頭, 防波堤 = levee, 墩/橋墩
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
-    * pittance (n)微薄的收入 <-- pity
     * pitcher (n)投擲者, 大水罐/水壺
     ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 貧乏的 = inadequate
     * plait (n)辮子 = braid (v)把..編成辮子 = braid
@@ -2519,6 +2519,7 @@
     + sketchy (adj)概略的/粗略的, 待完成的 = imperfect = incomplete = slight = superficial
     ++ skittish (adj)易受驚嚇的 = restive = fussy, 害羞的 = shy = coy, 易變的/反覆無常的 = fickle = capricious
     ++ slake (v)緩解/使滿足 = quench = satisfy, 解渴/消渴 = quench = refresh, 使（石灰）熟化 <|> slack <|> slick
+    + slapdash (ADJ/ADV)草率的/倉促馬虎的
     +++ slight (adj)輕微的/微小的, 不重要的/微不足道的 = trivial, 瘦的 = slender = thin, 脆弱的 = frail = flimsy = delicate (V)輕視, 怠慢, 草率地做 = scamp (n)冒犯 = affront
     ++ slippery (adj)滑的, 不穩的 = unstable, 不精確的 = ambiguous = elusive, 狡猾的 = tricky = cunning
     + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
@@ -2977,6 +2978,7 @@
     +++ tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔, 斥責 = censure = reprove = accuse --> taxing (adj)繁重的 = burdensome = demanding = onerous
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + /ˈtiːdɪəs/ tedious (adj)乏味的/沈悶的 = dull = jejune --> tedium (n)單調乏味/無聊 = boredom
+    * tempt (v)引誘/誘惑 = allure = lure, 打動/引起 = urge, 說服 = persuade --> temptation (n)渴望/誘惑, 誘惑物 = lure
     +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
 	* temperamental (adj)喜怒無常的, 性情的
     +++ /ˈtɛmp(ə)rət/ temperate (adj)溫暖的/溫帶的, 節制的 = moderate = continent = abstemious, 適度的 = moderate <-- temper
@@ -3206,6 +3208,7 @@
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
     + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
     + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible <|> penal --> venality (n)貪贓枉法/腐敗 <-- vend
+    + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾 (v)給...鑲上膠合板, 虛飾
     + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al 
     + vendetta (n)世仇/宿怨 = feud
     ++ venerate (v)崇敬/敬仰 = hallow = adore = honor = respect = worship = revere --> venerable (adj)德高望重的, 令人尊敬的 = august, 神聖的/珍貴的, 古老的 = ancient = hoary
@@ -3248,7 +3251,6 @@
     ^ veer (v)轉向/改變
     ^ velocity (n)速度, 迅速
     ^ vend (v)出售/販賣 --> vendor (n)小販 = seller
-    ^ veneer (n)膠合板, 虛飾/外飾
     ^ venial (adj)輕微的/可原諒的 = forgivable = pardonable
     ^ venom (n)毒液, 惡毒/痛恨 = malevolence
     ^ vent (v)發洩, 開孔 (n)孔/洞 

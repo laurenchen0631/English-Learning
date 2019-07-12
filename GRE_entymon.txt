@@ -1024,7 +1024,7 @@
 
     crimin, culp 罪行 = guilty, crime
         + criminality (n)犯罪
-        + culpable (adj)應受譴責的/該受處罰的
+        + culpable (adj)應受譴責的/該受處罰的 --> culpability (n)罪過 = blame
         + culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
         + exculpate (v)證明…無罪/脫罪 = exonerate = vindicate
         - inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
@@ -1258,7 +1258,7 @@
         - crusade (n)(為理想或信念而奮鬥的)運動/鬥爭, 聖戰 (v)為達到某理想而奮鬥
         - cruciform (n)十字形
         - crux (n)關鍵/癥結
-        - excruciate (v)拷問/施酷刑於 = torment --> excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = banal
+        - excruciate (v)拷問/施酷刑於 = torment --> excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = awkward = tedious
 
     cub, cumb 立方體/躺 = cube, lie down
         - /ˈkɒŋkjʊbʌɪn/ concubine (n)妾
@@ -2039,6 +2039,7 @@
 
     emi, emia 血 = blood == hemo
         - anemia (n)貧血
+        + anemic (adj)貧血的, 無活力的
         - leukemia (n)白血病/血癌
         - hyperemia (n)充血
 
@@ -2748,17 +2749,17 @@
             - ignore
             - ignorant --> ignorance <-- ig + gnor + ant
             - illegal (adj)違法的 --> illegality (n)違法 <- il + legal
-            - illegitimate (adj)非法的/不合法的 = illegal, 私生的 = spurious <-- il + legitimate
+            - illegitimate (adj)非法的/不合法的 = illegal, 私生的 = spurious (n)私生子 <-- il + legitimate
             - illicit (adj)違法的 = unlawful = illegal = illegitimate = prohibited
             - illiterate (adj)文盲的 = ignorant <-- il + literate
             - immaculate (adj)潔淨的/無瑕的 = unsoiled = impeccable
             ++ immaterial (adj)不重要的/無關的 = unimportant = irrelevant <--> pertinent, 非物質的 = incorporeal = spiritual
-            ++ immediate (adh)立即的 = instant, 旁邊的 = next = nearest, 直接的 = direct, 直覺的
+            ++ immediate (adh)立即的 = instant, 現在的, 即將的/接近的, 直接的, 直覺的
             - immemorial
             + immense --> immensity
             + immune --> immunity --> immunize
             + immutable
-            - /ɪmˈpalpəb(ə)l/ impalpable (adj)無法觸及的, 不易理解的 <-- im + palpable
+            - /ɪmˈpalpəb(ə)l/ impalpable (adj)無法碰觸的/無形的, 不易理解的 <-- im + palpable
             + impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid --> impartiality (n)公平/公正 <-- im + partial
             + /amˈpɑːs/ impasse (n)僵局 = deadlock, 死路
             + impassive --> impassivity
@@ -2802,7 +2803,7 @@
             - incognizant (adj)不知道的/沒有察覺的 <-- in + cogit(ate) + ant
             - incommensurate (adj)不成比例的/不相稱的 <-- in + commensurate
             + incompatible (adj)不能共存的, 不和諧的 = discordant <-- in + compatible
-            - incompetent (adj)無能力的/不能勝任的, 無行為能力的 (n)無行為能力人 <-- in + competent
+            - incompetent (adj)無能力的/不能勝任的 = impotent, 無行為能力的 (n)無行為能力人 <-- in + competent
             + inconclusive (adj)非決定性的/不確定的
             + incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
             + inconsequential (adj)不重要的 = trivial = frivolous = futile
@@ -2937,7 +2938,7 @@
             + implicit
             + implode (v)內爆 <-- im + (ex)plode
             - implore
-            - import (v)進口, 輸入 (n)進口, 意義 = meaning = significance
+            ** import (v)進口/輸入, 表達/使知曉 (n)進口, 意義 = meaning, 重要性 = significance = importance
             - importune (v)強求/煩擾 = harass = woo = solicit <-- im + (op)portune
             * impose
             - imposing
@@ -3099,7 +3100,7 @@
             - intersperse
             - intertwine (v)纏繞/交纏
             - intervene --> intervention
-            + intrinsic, intrinsical (adj)本質的/固有的 = essential <-- intr + in + sic
+            + intrinsic, intrinsical (adj)本質的/固有的 = essential <--> extrinsic <-- intr + in + sic
 
         2. 互相 = together, mutually, reciprocally
             - interlock (v)連鎖/連串 --> interlocking (adj)連鎖的
@@ -3127,7 +3128,8 @@
     integ, integr 完整的 = whole, integer
         - integer (n)整數
         - integral (adj)構成整體所必需的/不可缺的, 完整的/整體的 = whole, 整數的, 積分的 (n)整數, 積分
-        + integrate (v)使成一體/加入, 取消隔離政策, 求..積分 --> integrant (adj)構成整體的 = constituent (n)部件 = component
+        + integrate (v)使成一體/加入, 取消隔離政策, 求..積分
+        + integrant (adj)構成整體的 = constituent (n)部件 = component
         + /ɪnˈtɛɡrɪti/ integrity (n)正直/誠實 = sincerity, 完整 = entirety
 
     imper 命令 = rule
@@ -3252,7 +3254,7 @@
         - antediluvian (adj)太古的
         - lave (v)洗 = wash = bathe, (河流)沖刷
         - lavatory (n)廁所/盥洗室
-        + lavish (adj)奢華的/鋪張的 = prodigal = extravagant, 慷慨的, 豐富的 = profuse (v)大量給予/慷慨給予
+        ++ lavish (adj)奢華的/鋪張的 = prodigal = extravagant, 慷慨的, 豐富的 = profuse (v)大量給予/慷慨給予
 
     lud, lude, lus 嘻笑/玩弄 = play
         + allude (v)間接提到/暗指/影射 = imply = insinuate, 略微提及 --> allusive (ad)影射的/暗指的
@@ -3280,7 +3282,7 @@
     
     leg
         1. 任命/指定 = depute, choose
-            * allege (v)(無證據)宣稱/指控 = assert without proof = accuse --> allegation (n)
+            * /əˈlɛdʒ/ allege (v)(無證據)宣稱/指控 = assert without proof = accuse --> allegation (n)
             + delegate (v)委派/委託/授權 = commit, 委派..代表 = appoint (n)代表 = representative
             * legate (n)特使/使節/使者 = envoy
             * legacy (n)遺產/遺贈/留給後人的東西 = bequest <-- legate
@@ -3288,7 +3290,7 @@
             + relegate (v)貶職/使降級
 
         2. 法律/君主 = liege, law
-            - allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocacy
+            - /əˈliːdʒ(ə)ns/ allegiance (n)（對統治者、國家、群體或信仰的）忠誠/擁護 = adherence = devotion = advocacy
             + legislate (v)立法, (透過立法)實現 = enact --> legislation (n)立法, 法條/法規
             * legislature (n)立法機關, 美國州議會
             - legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
@@ -3299,9 +3301,9 @@
     lev, liev 輕/舉 = light, lift
         + /əˈliːvɪeɪt/ alleviate (v)減輕/緩和 = mitigate = palliate = moderate = relieve = allay = assuage = soothe
         + levity (n)輕率/輕浮 = frivolity = giddiness
-        + elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
+        ++ elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
         - lever (n)槓桿, 手段 (v)用槓桿撬起
-        * levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
+        *** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
         + relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
         + relevance (n)關聯/相關, 適宜
         * relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
@@ -3318,13 +3320,13 @@
         + /lɪˈθɑːdʒɪk/ lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic = listless = spiritless = torpid
 
     loc, loco 地方 = place
-        - allocate (v)分配 = allot
+        *** allocate (v)分配 = allot
         - collocate (v)組合/搭配(詞句)
         - dislocate (v)使脫臼 = disjoint, 弄亂/擾亂
         - /ləʊˈkɑːl/ locale (n)事情發生的現場或地點
         - locality (n)地區/場所, 方位
         - locus (n)地點/所在地 = location
-        - location (n)地點 = locus, [數]軌跡, 出庭權/陳述權 = locus standi
+        *** location (n)地點 = locus, [數]軌跡, 出庭權/陳述權 = locus standi
         - locomotion (n)運動/移動 = motion --> locomotive (n)火車頭 (adj)運動的/移動的
 
     lustr, luster 光澤 = polish
@@ -3334,79 +3336,80 @@
 
     lect, lig, lit
         1. 講 = speak
-            * dialect (n)方言 = patois = idiom
+            * dialect (n)方言 = tongue = patois = idiom = vernacular = lingo
             - lecture (n/v)講課, 訓斥/斥責
 
         2. 選 = pick, choose
-            - collective (adj)聚集而成的, 集體的 (n)集體
-            - eligible (adj)有資格的, (婚姻)合意的
-            - elect (v)推選 (adj)當選的, 卓越的
+            - collective (adj)聚集而成的, 共同的/集體的, 合計的 = aggregate (n)集體企業/集體農場
+            - eligible (adj)有資格的 = qualified = suitable, (婚姻)合意的
+            - elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
             - elite (n)精華, 精英
-            + eclectic (adj)折衷的/綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
-            ++ intellect (n)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
-            - intelligent (adj)聰明的, 熟悉的 --> intelligence (n)智慧, 情報
-            + intelligible (adj)可了解的/明瞭的 = comprehensible, 清晰的
+            + eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
+            ++ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
+            - intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
+            + intelligible (adj)清晰的/明瞭的 = comprehensible 
             + predilection (n)嗜好/偏愛 <-- pre + dilect 選擇 = select + ion
 
     lig 綁
-        * ligate (v)綁/捆/紮
+        * ligate (v)[手術]綁/捆/紮
         + obligate (v)使負義務 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
-        * obligation (n)義務/責任, 恩惠/人情, 債務
-        *** oblige (v)強迫/迫使 = compel = constrain, 施恩於 = favor, 使必要
-        * obliging (adj)樂於助人的/熱心相助的 = accommodating 
+        * obligation (n)義務/責任, 恩惠/人情, 合約/契約
+        *** /əˈblʌɪdʒ/ oblige (v)使負有義務, 答應...的請求, 使感激 <|> obligate
+        * obliging (adj)樂於助人的/熱心相助的 = accommodating = helpful 
 
     limin, lime 門檻 = threshold
-        + eliminate (v)消除/消滅, 淘汰 --> elimination (n)消滅, 淘汰
+        + eliminate (v)消除/消滅, 淘汰/排除 --> elimination (n)消滅, 淘汰/排除
         * preliminary (adj)初步的 (n)開端, 初試
-        + sublime (adj)崇高的/極好的/極美的, 極大的/極強的 (n)絕妙 (v)(固體)昇華(氣體)
+        +++ sublime (adj)崇高的/極好的/極美的, 極大的/極強的 = extreme (v)(固體)昇華(氣體)
         - subliminal (adj)潛意識的/下意識的
 
     lign 木頭 = line
-        - align (v)排成一直線, 結盟 = associate = affiliate
-        - ligneous (adj)木質的/木頭的
-        - lignum (n)木材
+        - align (v)排成一直線, 支持, 結盟 = associate = affiliate
+        - ligneous (adj)木質的/木頭的 = woody
         - lignify (v)木質化
 
-    {lign} 小東西
+    {ling} 小東西
         - duckling (n)小鴨/雛鴨
         - underling (n)下屬
 
     lure 誘惑
-        - lure (v)引誘/誘惑 (n)餌 = bait, 誘惑
-        + allure (v)引誘 = appeal = attract = glamour = entice = seduce = bait --> alluring (adj)迷人的/吸引人的 = inviting= attractive = tempting
+        - lure (v)引誘/誘惑 = tempt (n)餌 = bait, 誘惑物 = temptation, 誘惑力
+        + allure (v)引誘 = tempt = appeal = attract = glamour = entice = seduce = bait (n)誘惑力/魅力 --> alluring (adj)迷人的/吸引人的 = inviting = attractive = tempting
 
     loft 閣樓/鴿房 = air, sky
-        - aloft (adv)在空中/在高處
+        - aloft (adv)在空中/在高處 <|> aloof
         - loft (n)閣樓/頂樓 = attic = garret, 頂層房間, （由工業用建築改建的）公寓
-        * lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的
+        * lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
+    
+    log 比例 = ratio
+        - analogy (n)相似/類比
+        - analogue (n)類似物/類似的情況
+        + /əˈnaləɡəs/ analogous (adh)類似的/相當的 = comparable
 
-    log, locu, loqu
-        1. 比例 = ratio
-            - analogy (n)相似/類比
-            - analogue (n)類似物/類似的情況
-            + /əˈnaləɡəs/ analogous (adh)類似的/相當的 = comparable
-
-        2. 話/說話 = word, saying, speech, speak
-            - apologize (v)道歉, 辯解 = excuse
-            - circumlocution
-            - colloquial (adj)口語的/通俗的 
-            - colloquium (n)學術討論會
-            + /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing, 嘮叨的 = excessive talk = wordy = garrulous
-            - locution (n)用句 = word = pharse, 說話方式
-            - elocution (n)演講技巧
-            + eloquent (adj)有說服力的/雄辯的 --> eloquence (n)雄辯/口才
-            - epilogue (n)尾聲/後記
-            + eulogy, eulogium (n)頌詞/讚頌 = encomium = panegyric = paean = hymn, 悼詞/悼文
-            - eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
-            - eulogistic (adj)頌揚的/讚頌的 = laudatory
-            - monolog, monologue (n)獨白 = solilpquy, 個人長篇演說
-            + neologism
-            - obloquy (n)破口大罵, 公開的嚴厲批評
-            - prologue (n)序言/序章 = preamble = preface
-            + soliloquy
-            + syllogism
-            - trilogy
-            - ventriloquist (n)腹語表演者 <-- ventri 腹部 = abdomen + loqu + ist
+    log, locu, loqu 話/說話 = word, saying, speech, speak
+        - apologize (v)道歉 --> apology (n)
+        - circumlocution
+        - colloquial (adj)口語的/通俗的 
+        - colloquium (n)學術討論會
+        + /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing
+        - /ləˈkjuːʃ(ə)n/ locution (n)用句 = word = pharse, 說話方式
+        - elocution (n)演講技巧
+        + eloquent (adj)有說服力的/雄辯的, 富於表現的/充分表現的 --> eloquence (n)雄辯/口才
+        - epilogue, epilog (n)尾聲/結尾 = coda = denouement
+        + eulogy, eulogium (n)頌詞/讚頌 = encomium = panegyric = paean = hymn, 悼詞/悼文
+        - eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
+        - eulogistic (adj)頌揚的/讚頌的 = laudatory
+        * logic (n)邏輯, 推理法, 道理
+        * logistic (adj) --> logistics (n)組織運作學, 後勤, 物流
+        * logistical (adj)組織運作的
+        - monolog, monologue (n)獨白 = solilpquy, 個人長篇演說
+        + neologism
+        - obloquy (n)破口大罵, 公開的嚴厲批評
+        - prologue (n)序言/序章 = preamble = preface
+        + /səˈlɪləkwi/ soliloquy (n)自言自語, 獨白
+        + syllogism
+        - trilogy
+        - ventriloquist (n)腹語表演者 <-- ventri 腹部 = abdomen + loqu + ist
             
     long 長
         - elongate (v)伸長/延長 (adj)細長的
@@ -4868,7 +4871,7 @@
         + explicate (v)詳細解說/闡明 = explain = interpret = clarify = expatiate = expound
         + explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 成熟的/成形的 <-- explicate
         * explicable (adj)可解釋的/可理解的 <--> mysterious = obscure
-        + implicate (v)牽連/連累(於罪行中), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
+        + implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
         + implicit (adj)含蓄的/暗示的 = implied, 無疑問的/無保留的 = unreserved = absolute
         + inexplicable
         - multiplex (adj)許多的/多樣的, 多路通訊的 --> multiplicity (n)多樣性
@@ -4914,7 +4917,7 @@
         + compunction (n)內疚/自責/懊悔 = uneasiness = contrition = remorse = repentance = qualm
         - expunge (v)刪除
         - punctual (adj)準時的/守時的 = prompt
-        + /pʌŋ(k)ˈtɪlɪəs/ punctilious (adj)謹小慎微的/精密細心的/一絲不苟的
+        + /pʌŋ(k)ˈtɪlɪəs/ punctilious (adj)精密細心的/一絲不苟的
         - puncture (v)刺穿/刺破 (n)刺孔/穿孔
         + pungent (adj)有刺激性的/辣的 = stimulating = piquant = poignant, 辛辣的/尖刻的 = caustic = sharp, 敏銳的 = penetrating
 
@@ -5676,7 +5679,7 @@
     spect, spec, speci, spic, spex, spite 看 = look, watch == mir
         - aspect (n)方面, 外表/外觀 = visage, 長寬比
         + auspices (n)資助/保護/支持 = agies = patronage --> auspicious (adj)吉利的 = propitious <--> ominous
-        + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking
+        + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking, 引人注目的 <|> conscious
         * despise (v)輕視/鄙視 = contempt = spurn
         * despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
         +++ despite (n)惡意/怨恨 = malice = hatred = spite, 辱罵 = insult (prep)雖然/儘管 = in spite of
