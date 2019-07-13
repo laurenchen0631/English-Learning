@@ -446,6 +446,7 @@
         - benediction
         + benefactor (n)行善者/捐助者 = donor
         + beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane, 有益的 = beneficial
+        - benefice (n)有俸聖職, 僧侶之祿/聖俸
         + beneficial (adj)有益的/有用的 = helpful = useful = beneficent
         - beneficiary (n)受益人
         + benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
@@ -2096,7 +2097,7 @@
         * foretell (v)預言/預示 = presage
         - forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
         * forewarning (v)預先警告/事先告知
-        + forthcoming (adj)即將到來的, 現有的/隨時可得的, 願意透露的
+        + forthcoming (adj)即將到來的, 現有的/隨時可得的, 願意透露的 <--> unforthcoming
 
     fora 孔 = bore
         - perforate (v)使穿孔/在…上開孔
@@ -2766,7 +2767,7 @@
             + impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable <|> impecunious
             + impecunious
             + impenetrable (adj)不能穿透的, 無法理解的 = arcane = unfathomable = incomprehensible = arcane <-- im + penetrable
-            - impenitent (adj)不知悔改的 <-- im + penitent
+            - impenitent (adj)不知悔改的 = incorrigible <-- im + penitent
             + imperceptible (adj)非常細微的 = very slight/subtle, 感覺不到的/察覺不出的
             - impermanent (adj)暫時的 = temporary <-- im + permanent
             + impermeable (adj)不能透水的/不可滲透的 = impervious = impenetrable = impassable <-- im + permeable
@@ -2804,7 +2805,7 @@
             - incommensurate (adj)不成比例的/不相稱的 <-- in + commensurate
             + incompatible (adj)不能共存的, 不和諧的 = discordant <-- in + compatible
             - incompetent (adj)無能力的/不能勝任的 = impotent, 無行為能力的 (n)無行為能力人 <-- in + competent
-            + inconclusive (adj)非決定性的/不確定的
+            + inconclusive (adj)非決定性的/不確定的0.
             + incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
             + inconsequential (adj)不重要的 = trivial = frivolous = futile
             + inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾 
@@ -3159,7 +3160,7 @@
 
     idio 獨特的/唯一的 = peculiar
         + idiosyncrasy (n)氣質/風格/特點 = characteristic = habit = quirk, 特異體質 --> idiosyncratic (adj)獨特的/特性的 = peculiar
-        - idiolect (n)個人的講話風格
+        - /ˈɪdɪəlɛkt/ idiolect (n)個人的講話風格
         - idioventricular (adj)心室的
 
     {itis} 炎症
@@ -3406,7 +3407,7 @@
         + neologism
         - obloquy (n)破口大罵, 公開的嚴厲批評
         - prologue (n)序言/序章 = preamble = preface
-        + /səˈlɪləkwi/ soliloquy (n)自言自語, 獨白
+        + /səˈlɪləkwi/ soliloquy (n)自言自語, 獨白 = monolog
         + syllogism
         - trilogy
         - ventriloquist (n)腹語表演者 <-- ventri 腹部 = abdomen + loqu + ist
@@ -3414,15 +3415,15 @@
     long 長
         - elongate (v)伸長/延長 (adj)細長的
         - longevity
-        - longitude (n)經度
+        - longitude (n)經度 --> longitudinal (adj)縱的, 經度的, 跨長時間的(資料)
         - long-winded (adj)冗長的
 
     lyze, lysis, lyst 分開/分解 = loosen
-        * analyze (v)分析 = dissect --> analysis (n)
-        + /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
+        * analyze (v)分析/化驗/剖析 = dissect --> analysis (n)
         - analyst (n)分析家
+        + /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
 
-    let 小東西
+    {let} 小東西
         + amulet (n)護身符
         - bracelet
         - booklet (n)小冊子 = brochure = pamphlet
@@ -3436,41 +3437,41 @@
 
     labor, labyr 勞動 = work
         - collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
-        +++ /ɪˈlab(ə)rət/ elaborate (v)精心做, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的, 詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
-        + labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive
-        + laborious (adj)耗時費力的/艱巨的/艱難的 = ardous
+        +++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
+        +++ labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive, 分娩
+        + /ləˈbɔːrɪəs/ laborious (adj)耗時費力的/艱巨的/艱難的 = ardous = burdensome = onerous = strenuous = tiresome
         - labored (adj)吃力的 = strained, 不自然的 = unnatural
-        - laboratory (n)實驗室 = lab
-        - labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
+        - /ləˈbɒrəˌt(ə)ri/ laboratory (n)實驗室 = lab
+        - /ˈlab(ə)rɪnθ/ labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
     
     lap, lapse 落下/滑倒 = fall, slip, slide
-        + collapse (v)倒塌/坍塌, (因疾病或虛弱而)倒下/昏倒, (人或企業)崩潰/垮掉/失敗 = founder
+        + collapse (v)倒塌/坍塌, (因疾病或虛弱而)倒下/昏倒, 崩潰/垮掉/失敗 = founder, 折疊 = fold (n)崩毀/垮台/崩潰
         - elapse (v)時間流逝
-        + lapse (n)失誤/小錯, 一段時間/流逝的時間, 跌落/下降 (v)中止/失效, 陷入
+        +++ lapse (n)失誤/小錯, 一段時間/流逝的時間, 跌落/下降 (v)中止/失效, 陷入
         - relapse (v)(疾病)復發, 故態復萌 (n)舊病復發
 
     late 拿 = bear
         - collate (v)對照/核對, 整理(報告、書等)
-        - translate (v)翻譯
-        + elate (v)使得意/使興奮 = exalt --> elated (adj)得意揚揚的, 興高采烈的 = exultant --> elation (n) = euphoria
-        - relate (v)講述, 有關聯
-
-    lati, late 寬的 = broad
-        + dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
-        + latitude (n)行動自由 = freedom, 緯度
+        *** translate (v)翻譯, 解釋/說明, 轉移/調動/使變動
+        + elate (v)使得意/使興奮 = exalt <|> elevate --> elated (adj)興高采烈的 = exultant --> elation (n) = euphoria
+        *** relate (v)講述, 認同/欣賞 = identify with, 有關聯
 
     later 邊/邊緣 = side
-        - collateral (adj)並行的/平行的, 附帶的/次要的 = incidental, 無可避免的 旁系的 (n)擔保品, 旁系血親
+        - collateral (adj)並行的/平行的 = parallel, 附帶的/次要的 = incidental = secondary, 旁系的 (n)擔保品, 旁系血親
         - bilateral (adj)雙邊的
         - equilateral (adj)等邊的
-        - lateral (adj)側面的, 緯度
+        - lateral (adj)側面的/橫的/橫向的, 側音的 (n)側面, 側音
         * unilateral (adj)單方面的, 單邊的
 
+    lati, late 寬的 = broad
+        ++ /dʌɪˈleɪt/ dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
+        ++ latitude (n)行動自由 = freedom, 緯度 <--> longitude
+
     liter 文字 = letter
-        + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual
+        + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual, 字母的, 乏味的/平凡的 = prosaic
         + literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
         * literate (adj)能讀寫的 <--> illiterate, 有文化修養的
-        + obliterate (v)塗掉/擦掉 = efface = erase = annul --> obliteration (n)消滅/刪除
+        + obliterate (v)擦掉/消滅 = efface = erase = cancel, 遮蔽/藏起 = conceal = cover --> obliteration (n)消滅/刪除
         - preliterate (adj)文字出現以前的
 
     lib, libr 書 = book
@@ -3962,7 +3963,7 @@
         + nullify (v)使無效 = negate = invalidate, 取消 = cancel out = negate
 
     nigr, negr 黑 = black
-        + denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate = slur, 貶低/輕視 = belittle = disparage
+        + denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate = slur = disparage
         - negrophile (n)關心黑人利益的人
         - nigrify (v)使變黑
 
@@ -4856,7 +4857,7 @@
         - patriotism (n)愛國主義, 愛國者
         - patriotism (n)愛國心/愛國精神/愛國主義
         * patron (n)贊助者/資助者, 老主顧 --> patronage (n)資助/贊助 = auspices, 光顧/惠顧
-        + patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
+        +++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
         - repatriate (v)遣返
 
     pli, plic, plex, ply 彎 = fold, plait
@@ -5790,10 +5791,10 @@
 
     sacr, secr, sanct 神聖 = sacred, holy
         + consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow
-        - execrate (v)詛咒, 憎恨/憎惡
+        + execrate (v)詛咒, 憎恨/憎惡
         + /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
         - massacre (n)大屠殺 = carnage = slaughter = genocide
-        - desecrate (v)玷污/褻瀆 --> desecration (n)褻瀆/瀆神 = blasphemy
+        + desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
         - sacred (adj)神聖的/莊嚴的 = holy 
         - sacrifice (n)犧牲 (v)宰牲祭神
         - sacrilege (n)褻瀆/冒犯神靈 <-- sacr + i + leg 偷取 = steal + e
@@ -6026,7 +6027,7 @@
         - summon (v)召集/傳喚, 鼓起(勇氣)
 
     sicc 乾 = dry
-        + /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate
+        + /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate --> desiccated (adj)乾的/乾燥的/脫水的, 無趣的/毫無新意的 = uninteresting
         - siccative (adj)乾燥的 (n)乾燥劑
 
     sip 丟/味道 = throw, sapid == ject
@@ -6313,6 +6314,7 @@
         + detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
         ++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
         * intact (adj)完整無缺的/原封不動的
+        + tact (n)機智/圓滑/得體
         - tactile (adj)觸覺的, 富有質感的
         + tangent (n)正切/切線 (adj)切線的, 離題的 --> /tanˈdʒɛnʃ(ə)l/ tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
         ++ tangible (adj)可觸知的/有形的 = palpable = touchable, 真實存在的 = real = actual, 明確的 = definite
@@ -6495,6 +6497,7 @@
         + unfeigned (adj)不虛偽的/真誠的 = genuine
         - unflappable (adj)不驚慌的/鎮定的
         - unfold (v)展開/打開, 逐漸呈現
+        + unforthcoming (adj)不願透露訊息的, 無法隨時可得的
         - unfounded (adj)無事實根據的 = groundless = unwarranted
         + ungainly (adj)優雅的 <-- un + gainly
         * ungodly (adj)不敬神的/不虔誠的, 有罪的/邪惡的
@@ -6553,7 +6556,7 @@
         + unsympathetic (adj)不同情的/冷漠的
         + untapped (adj)未開發的/未利用的
         + untempered (adj)無節制的, 未經錘鍊的
-        + untenable (adj)難以防守的/站不住腳的 = indefensible, 不宜居住的
+        + untenable (adj)難以防守的/站不住腳的 
         + untested (adj)未經考驗的/未經試驗的
         - unthreatening (adj)不威脅的
         + untimely (adj)過早的, 不適時的

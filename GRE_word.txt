@@ -150,7 +150,7 @@
     +  /ˈba-jər/ badger (n)獾 (v)糾纏/騷擾 = annoy = harass = pester = nag = besiege
     + /ˈba-fəl/ baffle (v)使困惑 = confuse = perplex = bewilder = confound = vex = nonplus
     + /bə-ˈlün/ balloon (n)氣球 (v)像氣球般膨脹 = swell, 激增
-    + bale (n)大包/大捆, 一大捆的量, 折磨 --> baleful (adj)威脅的, 有害的
+    + bale (n)大包/大捆, 一大捆的量, 折磨 --> baleful (adj)威脅的, 有害的 <|> baneful
     + bane (n)禍根 --> baneful (adj)有害的 = destructive = pernicious = poisonous, 致命的 = deadly = pernicious = virulent = poisonous = venomous = fatal
     + bard (n)詩人/吟遊詩人
     + baroque (n/adj)巴洛克式風格/過分雕琢的 <--> austere, 不規則狀的
@@ -414,6 +414,7 @@
     *** character (n)性格/特質, 好名聲/名譽, 人物/角色, 符號/字 (v)描述 = describe
     + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵 = feature = trait
     + characterize (v)描繪/描述 = qualify
+    + chary (adj)小心的/審慎的 = careful = cautious
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinist (n)沙文主義者 --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
@@ -540,7 +541,6 @@
     ^ charity (n)慈善事業/慈善組織/慈善機構, 仁慈/寬容/寛厚 = benevolence, 施捨
     ^ charlatan (n)騙子/江湖醫生
     ^ charter (n)憲章/章程, 特權/豁免權 (v)包下(租), 特許成立
-    ^ chary (adj)小心的/審慎的 = careful = cautious
     ^ chisel (n)鑿子 (v)鑿/雕, 欺騙/騙取
     ^ choice (n)選擇/抉擇 (adj)精選的/優質的/上等的 = fine = excellent
     ^ cinder (n)餘燼/殘渣
@@ -778,7 +778,7 @@
     ++ estimable (daj)值得尊重的 = admirable, 可估價的/可估計的
     + estrange (v)使疏遠 = alienate, 使遠離 --> estranged (adj)疏遠的, 分開的 <-- [義]陌生 = strange
     + /ˈiːθɒs/ ethos (n)(個人、團體或民族的)道德觀/精神特質/價值觀 = disposition
-    + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準 <|> ethnic
+    + /ˈɛθɪk/ ethic (adj)倫理的/道德的 = moral (n)倫理標準 --> ethics (n)倫理學, 道德標準 --> ethical (adj)倫理的/道德上的, 道德的/合乎道德的, 憑處方出售的 <|> ethnic
     + /ˌiːtɪˈɒlədʒi/ etiology, aetiology (n)追本溯源, 原因論, 病原學 <-- aeti, eti 原因 = cause
     + etymon (n)詞源/字根 --> etymology (n)字源學/詞源學
     + ether (n)乙醚, 以太, 蒼穹 --> ethereal (adj)天上的/非人間的/超凡的 = celestial, 縹緲的/優雅的
@@ -890,6 +890,7 @@
     ++ /flaʊt/ flout (v)藐視[法律] = contempt = scorn = disdain = belittle = trifle, 嘲弄 = mock = scoff = gibe = jibe = burlesque = jest = scorn = trifle <-- flute 長笛
     + fluke (n/v)僥倖/僥倖成功/僥倖獲得 (n)錨爪, 魚叉的倒鉤, 比目魚, 吸蟲
     + fulminate (v)猛烈抨擊/嚴厲譴責 = inveigh = rant = rail, 爆炸 = explore = detonate <-- fulmin 閃電 = lightning
+    + flummox (v)使困惑 = bewilder
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
     + foment (v)煽動 = instigate = foster = incite = arouse = ferment
     + /ˈfɒrɪdʒ/ forage (n)(牛馬的)飼料/糧草, 搜索/搜尋 = rummage --> forager (n)為動物尋找飼料的人 <-- fodder
@@ -2318,6 +2319,7 @@
 
 [R]
     + /ˌrakɒnˈtəː/ raconteur (n)善於講故事的人 <|> rancor <-- racont 講述 = tell + eur
+    + raffish (adj)落拓不羈的/不修邊幅的 = unconventional
     + rage (n)狂怒/盛怒, 肆虐, 狂熱, 風行 (v)發怒, 肆虐/激烈進行, 流行/盛行
     ++ rail (V)咒罵/猛烈指責 = rant = inveigh = fulminate, 用鐵路運輸 (n)欄杆, 鐵軌
     + /ˈreɪm(ə)nt/ raiment (n)衣飾/衣裳 = clothing = garments
@@ -2381,7 +2383,6 @@
     ^ rabies (n)狂犬病/恐水症 <-- rab 憤怒 = mad, rave + ies
     ^ racy (adj)活潑的/生動的 = amusing <-- race
     ^ radius (n)半徑, 周圍/範圍
-    ^ raffish (adj)粗俗的 = vulgar, 俗艷的 = tawdry
     ^ raffle (n)獎券銷售/公益抽獎
     ^ raft (n)木筏, 橡皮艇
     ^ rafter (n)椽
@@ -3057,7 +3058,6 @@
     ^ tack (n)大頭釘/圖釘, 方針, 黏性/黏著力 (v)用平頭釘釘, 附加/增補, 搶風轉變航向, 改變方針
     ^ tacky (adj)發黏的 --> tackiness (n)膠黏性
     ^ tackle (v)處理 (n)滑車
-    ^ tact (n)機智/圓滑/得體
     ^ tactic (n)手段, 戰術 <-- tac 佈置 = arrange + tic
     ^ tadpole (n)蝌蚪 <-- toad + poll 頭 = head
     ^ taking (adj)楚楚動人的
