@@ -72,7 +72,7 @@ But the housing allowance, which can range widely depending on where a service m
 		> 津貼/補貼 |A sum of money paid regularly to a person to meet needs or expenses.| the elderly receive a heating allowance every winter
 		> 零用錢 |A small amount of money given regularly to a child by their parents.|
 Even so, 2017 data from an annual Census Bureau survey showed that more than 16,000 active-duty service members received food stamps, known as the Supplemental Nutrition Assistance Program, or SNAP.
-	- active duty == a full-time occupation as part of a military force, as opposed to reserve duty. I
+	- active duty == a full-time occupation as part of a military force, as opposed to reserve duty.
 	- Supplemental Nutrition Assistance Program 美國補充營養協助計畫，通常簡稱食物券計劃，是美國的一種貧窮救濟制度，透過發給食物兌換券讓窮人在指定商店免費換得食物
 	- food stamp 食物券
 In 2016, the Government Accountability Office published a report recommending that the Defense Department start tracking data on service members' and their families' use of food assistance programs such as SNAP and the Special Supplemental Nutrition Program for Women, Infants, and Children, or WIC, but aid groups and lawmakers question whether the department is collecting meaningful data.

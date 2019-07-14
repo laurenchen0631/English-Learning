@@ -21,9 +21,10 @@
 	- carat 克拉 == 200 milligrams
 
 
-[Law/Theory]
+[Law/Theory/Study]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
 	- Doppler effect == Doppler shift 都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
+	- Milgram`s obedience studies == Milgram experiment 米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
@@ -114,9 +115,9 @@
 	- spine
 		> 脊椎 |backbone|
 		> |The central feature or main source of strength of something.| players of high quality who will form the spine of our side
-		> 書脊 |The part of a book's jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author's name.| 
+		> 書脊 |The part of a book`s jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author`s name.| 
 		> |A tall mass of viscous lava extruded from a volcano.| 
-		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.|
+		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish`s fin, or a spike on the stem of a plant.|
 	- chronic pain 慢性疼痛
 	- shoulder blade 肩胛骨
 	- umbilical cord 臍帶
@@ -176,15 +177,15 @@
 	- ureter 輸尿管
 	- bladder 膀胱
 	- girth
-		> 腰身/周長 |The measurement around the middle of something, especially a person's waist.| idle men of great girth
-		> 肚子 |A person's waist or stomach, especially when large.| he tied the knotted towels around his girth
-		> 肚帶 |A band attached to a saddle and fastened around a horse's belly to keep the saddle in place.|
+		> 腰身/周長 |The measurement around the middle of something, especially a person`s waist.| idle men of great girth
+		> 肚子 |A person`s waist or stomach, especially when large.| he tied the knotted towels around his girth
+		> 肚帶 |A band attached to a saddle and fastened around a horse`s belly to keep the saddle in place.|
 	+ belly
 		> 腹部/肚子 |The front part of the human trunk below the ribs, containing the stomach and bowels.| his fat belly stuck out over his trousers
 		> 腫起/突起 |Swell or cause to swell.| as she leaned forward her pullover bellied out
-		> 胃/食慾 |The stomach, especially as representing the body's need for food.| they'll fight all the better on empty bellies
+		> 胃/食慾 |The stomach, especially as representing the body`s need for food.| they`ll fight all the better on empty bellies
 		> 下側 |The underside of a bird or other animal.| grasses were said to have been tall enough to brush the bellies of horses
-		> 豬肚 |A pig's belly as food, especially as a traded commodity.|
+		> 豬肚 |A pig`s belly as food, especially as a traded commodity.|
 	- soma
 		> 體細胞 |The parts of an organism other than the reproductive cells.| 
 		> 軀體 |The body as distinct from the soul, mind, or psyche.|
@@ -206,7 +207,7 @@
 [Environment]
 	- greenhouse effect
 	- epicenter
-		> |The point on the earth's surface vertically above the focus of an earthquake.| 
+		> |The point on the earth`s surface vertically above the focus of an earthquake.| 
 		> |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
 	- smog /ˈsmäg/, /smɒɡ/ 霧霾  == Fog or haze combined with smoke and other atmospheric pollutants.
 	- thermal inversion 逆溫現象
@@ -219,9 +220,9 @@
 	- Tropic of Capricorn 南回歸線
 	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
 	- meridian
-		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth's surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
-		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth's surface.|
-		> 經脈 |(in acupuncture and Chinese medicine) each of a set of pathways in the body along which vital energy is said to flow.| the slow movements and postures of t'ai chi open up and align the meridians of the body
+		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth`s surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
+		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth`s surface.|
+		> 經脈 |(in acupuncture and Chinese medicine) each of a set of pathways in the body along which vital energy is said to flow.| the slow movements and postures of t`ai chi open up and align the meridians of the body
 
 [Universe]
 	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth

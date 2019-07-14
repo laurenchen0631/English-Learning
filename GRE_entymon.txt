@@ -1027,7 +1027,7 @@
         + criminality (n)犯罪
         + culpable (adj)應受譴責的/該受處罰的 --> culpability (n)罪過 = blame
         + culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
-        + exculpate (v)證明…無罪/脫罪 = exonerate = vindicate
+        + exculpate (v)證明…無罪/脫罪 = exonerate = vindicate --> exculpatory (adj)證明無罪的/辯解的
         - inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
         - incriminate (v)連累/牽連 = inculpat --> incrimination (n)連累
         - recriminate (v)反控
@@ -1432,6 +1432,7 @@
             *** discharge (v)釋放, 解僱, 排放 = utter, 履行義務, 開槍 (n)獲官方允許離開, 排放, 分泌物, 履行, 開槍
             + disciple --> discipline --> disciplinary
             + disclose (v)揭露/公佈 = divulge
+            * discontinued (adj)停產的
             + discontinuity (n)不連續/不連貫
             + discount (n/v)減價/打折 (v)忽視/不理會 = disregard
             + discourage (v)阻撓/阻止 = hinder, 使洩氣/使心灰意冷 = dishearten = dispirit
@@ -1821,7 +1822,7 @@
         + exclude --> exclusive
         + /ɪkˈskɔːrɪeɪt/ excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste = savage, 剝皮 <-- ex + cor 皮 = skin + iate
         - excrete
-        + exculpate
+        + exculpate --> exculpatory
         - excursion --> excursive
         + execrate --> execrable <-- ex + secr + ate
         - execute <-- ex + secu + te
@@ -2873,6 +2874,7 @@
             - insoluble
             - insolvency
             - insomnia
+            - insecurity (n)不安全感, 危險/安全
             + inseparable (adj)不可分割的/形影不離的
             + /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual <-- in + souci 擔心 = worry + ant
             + insuperable (adj)難以克服的 = insurmountable = unconquerable
@@ -3176,7 +3178,7 @@
         - interject (v)插話/插嘴 --> interjection (n)插話, 感歎詞
         + object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
         - objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
-        * project (v)預計/推算, 投擲/發射, 放映/投射, 伸出/突出 (n)方案/工程/專案
+        *** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 使..被遠處被聽到, 投射(情感)
         - projectile (n)投射物
         - projection (n)凸出, 設計/規劃, 投擲/發射, 投影
         - projector (n)投影機/電影放映機
@@ -3471,6 +3473,7 @@
         + literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual, 字母的, 乏味的/平凡的 = prosaic
         + literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
         * literate (adj)能讀寫的 <--> illiterate, 有文化修養的
+        - literacy (n)讀寫能力, 知識/能力
         + obliterate (v)擦掉/消滅 = efface = erase = cancel, 遮蔽/藏起 = conceal = cover --> obliteration (n)消滅/刪除
         - preliterate (adj)文字出現以前的
 
@@ -3537,6 +3540,7 @@
     mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
         + misanthrope, misanthropist --> misanthropy
         - misdeed (n)惡行
+        - misfit (n)與社會脫節的人
         - mischief (n)頑皮/淘氣, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害處的 = harmful <-- mis + (a)chieve
         + misconstrue (v)誤解/曲解 = misinterpret
         + miscreant (n)惡棍/歹徒 = villain = criminal <-- mis + crea(te) 做 + ant
@@ -3555,8 +3559,9 @@
         + commitment (n)忠誠/投入/奉獻/承諾
         *** commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
         - committal (n)委任/託付, 承諾, 義務, 拘押, 犯罪
+        - commissary (n)代表/代理, 雜貨店/小賣部
         + demit (v)辭職/退職
-        + demise (n)死亡 = decease = death, 終結 = termination, 財產讓/租賃
+        + demise (n)死亡 = decease = death, 終結 = termination, 轉讓/租賃
         + dismiss (v)解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
         + dismissal (n)解僱, 駁回
         - emissary (n)特使/密使 = legate, 間諜 (adj)密使的, 間諜的
@@ -3671,7 +3676,7 @@
         + eminent (adj)著名的/卓越的 = prominent = distinguished = lofty, 高聳的/凸出的 = lofty = dominant, 顯眼的/顯著的 = conspicuous = protruding = prominent = projecting
         - eminence (n)卓越/著名, 高處
         + imminent (adj)逼近的/即將發生的 = impending = momentary
-        + preeminent (adj)出類拔萃的 = supreme = outstanding = sovereign
+        + preeminent (adj)超群的/出類拔萃的 = supreme = outstanding = sovereign
         - prominent (adj)突起的/凸出的, 著名的/卓越的 = eminent, 顯眼的 = eminent
 
     mir 驚奇/看 = wonder at, look
@@ -3869,6 +3874,7 @@
 
     ment 精神 = mind
         - mentor (n)導師
+        - mentee (n)受指導者/導生
         - mental (adj)精神的/心理的, 智力的 --> mentality (n)智力, 心理狀態/意識型態
     
     milit 士兵 = soldier
@@ -3980,7 +3986,7 @@
     numer 數字
         + /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉, 計數/點 --> enumeration (n)
         + /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many
-        - innumerable (adj)數不清的
+        - innumerable (adj)數不清的/多不可數的
 
     nat, nasc, naiss 出生 = born
         + innate (adj)與生俱來的/天生的 = inborn = native <|> inmate
@@ -4085,8 +4091,9 @@
     	- outlive (v)比...活得更久 
         - outmaneuver (v)以計謀勝過
         + outmoded (adj)不再流行的 = obsolete
+        - outnumber (v)在數量上超過
         - outpouring (n)流露
-        + outrage (n)暴行/惡行, 侮辱/冒犯, 憤慨 (v)使憤慨/激怒 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
+        + outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
         - outset (n)開始/開頭 = start = beginnning
         - outsgine (v)比...更好
         - outskirts (n)郊區/郊外
@@ -4094,7 +4101,6 @@
         + outstrip (v)超過 = excel = surpass = transcend, 超越 = surpass = transcend
         - outwit (v)以機智勝過
         * outcry (n)大聲疾呼/強烈抗議
-        
 
     over 
         1. 過分/超過 = excessive
@@ -4292,7 +4298,7 @@
         * preposterous (adj)違反常理的/荒謬的 = absurb <-- pre + post 後 = after + erous 
         - prerequisite 
         - prerogative
-        + presage (n)預感, 先見之明 = foresight = prescience (v)預視 = foreshadow = foretell, 預感/預測
+        + presage (n)預兆/惡兆 (v)是...的預兆
         + prescient --> prescience
         - prescribe --> prescription
         - presentation (n)表演, 介紹/描述
@@ -4516,7 +4522,7 @@
             + comparable (adj)類似的/相當的 = analogous
             - parable (n)寓言/比喻
             - parabola (n)拋物線 <-- para + bola 丟 = throw
-            + paradigm (n)範例/示例 <-- para + digm 顯示 = show
+            + paradigm (n)範例/模板/模型, 示例, 互斥單詞 <-- para + digm 顯示 = show
             + /ˈparəlɛl/ parallel (adj)平行的, 類似的 = comparable = analogous (n)平行線 (v)與...相似 <-- par + allel 另一個 = another
             - parallelism (n)平行, 類似
             + paralysis (n)麻痺/癱瘓, 無力 --> paralyze (v)使麻痺/使癱瘓 = numb, 使無力/使氣餒 <-- par + lysis 放開 = loosen
@@ -5148,7 +5154,7 @@
             - remains (n)遺址/廢墟
             +++ remark (v)談到 = say, 注意/覺察 = note = perceive = observe (n)言辭/談論, 注意/察覺 --> remarkable (adj)值得注意的/非凡的/出色的
             - remind (v)提醒/使想起 --> reminder (n)提醒人記憶之物
-            - reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
+            * reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
             * reminiscent (adj)回憶往事的/懷舊的, 發人聯想的 = redolent <-- re + min 思維 = mind + iscent
             + remiss --> remission
             - remnant (n)殘餘物 = remainder, 零頭布料 <-- remain
@@ -5546,7 +5552,7 @@
     sol
         1. 習慣 = accustom
             - insolent (adj)傲慢的/專橫的 = overbearing = imperious = domineering = arrogant = peremptory, 厚顏無恥的 = impudent = shameless = brazen <|> indolent
-            + obsolete (adj)廢棄的/過時的 = outdated = outmoded
+            + obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
             + obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
         2. 安慰 = soothe
@@ -5559,6 +5565,7 @@
         - solicitude (n)關懷/牽掛
         + solicitous (adj)關懷的/掛念的 = attentive = eager, 憂慮的 = concerned = apprehensive, 非常小心的 =  meticulously careful, 渴望的 = eager
         + soliloquy
+        - solipsism (n)唯我主義
         - solitary (adj)孤獨的 = isolated = insular = sporadic = desolate (n)隱士
         + solitude (n)孤獨/寂寞/隱居 = seclusion, 冷僻/荒涼之地
         - solo (n)獨唱/獨奏 (adj)單獨的
@@ -5639,7 +5646,7 @@
         - steadfast (adj)忠實的 = faithful, 不變的
         - subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 生存手段, 法律效力
         - substance (n)本旨/主旨/真意, 實質/本質/實體, 物質
-        +++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 實質的 = real = tangible, 基本的 = basic = essential = fundamental, 有權勢的 = wealthy = influential, 重要的 = worthwhile = important = essential 
+        +++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 真實的/實在的 = real = tangible, 基本上的 = basic = essential = fundamental, 富裕的
         ++ substantiate (v)證實/確證 = bear out = establish = vindicate = corroborate, 賦予實體, 加強 = strengthen
         + substantive (adj)根本的 = essential, 獨立存在的
         * substitute (v)用…代替/取代 = supersede = supplant (n)替代品
@@ -5750,7 +5757,7 @@
         - assimilate (v)同化 = accommodate = adapt, 吸收 = comprehend
         +++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak, 假裝 = feign
         - dissimulate (v)掩蓋/掩飾 = dissemble
-        - ensemble (n)整體/全體, 合奏/合唱
+        - ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
         + idiosyncrasy --> idiosyncratic
         +++ resemble (v)像 = favor --> resemblance (n)相似 = affinity
         * semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
@@ -5851,7 +5858,7 @@
         + assertive (adj)堅定自信的/肯定的/武段的 = positive = aggressive = dogmatic
         - desert (v)拋棄 = abandon = defect, 當逃兵/擅離 (n)沙漠, 應得之物/報應/回報 = merits (adj)沙漠的
         - dissert (v)論述/論說 = discourse, 寫論文 --> dissertation (n)專題論文
-        - exert (v)用盡 = fatigue, 運用
+        - exert (v)用盡 = fatigue, 努力/盡力
         - insert (v)插入
 
     sid, sess, sed, sedi 坐 = sit
@@ -6498,6 +6505,7 @@
         - unflappable (adj)不驚慌的/鎮定的
         - unfold (v)展開/打開, 逐漸呈現
         + unforthcoming (adj)不願透露訊息的, 無法隨時可得的
+        - unforgiving (adj)不願原諒的, 嚴峻的
         - unfounded (adj)無事實根據的 = groundless = unwarranted
         + ungainly (adj)優雅的 <-- un + gainly
         * ungodly (adj)不敬神的/不虔誠的, 有罪的/邪惡的
@@ -6566,7 +6574,7 @@
         + unverifiable (adj)無法證實的/無可考證的
         + unwarranted (adj)沒有根據的, 無保證的/未經授權的
         + unwavering (adj)不動搖的/堅定的
-        - unwieldy (adj)笨重的/笨拙的 = cumbersome, (因機構龐大或組織不善而)效率低下的
+        - unwieldy (adj)龐大的/笨重的 = cumbersome, 使用不便的 
         + unwitting (adj)無心的/不經意的 = inadvertent = unaware
         - unwonted (adj)不尋常的 = unusual, 不習慣的 = unaccustomed
         - unworldy (adj)非世俗的, 精神上的
@@ -6585,6 +6593,7 @@
         + undermine (v)暗中破壞/逐漸損害, 在……下挖坑道
         + underplay (v)淡化...的重要性/輕描淡寫, 表演（角色等）不充分 = underact
         - underrate (v)低估/輕視
+        - underrepresented (adj)代表性不足的
         + underscore (v)在...之下畫線, 強調
         + understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)不完全陳述的/輕描淡寫 --> understatement (n)不充分的陳述/輕描淡寫
         - understudy (n)預備演員/替角 (v)充當...的替角
@@ -6672,7 +6681,7 @@
 
     vade, vas, vag 走 = go, walk
         + evade (v)躲避/逃避 = elude = escape --> evasion (n)逃避/迴避, 藉口 --> evasive (adj)逃避的 = oblique, 難以捉模的 = elusive = evanescent
-        + pervade (v)彌漫, 遍及/流行 --> pervasive (adj)彌漫的/滲透的, 普遍的
+        + pervade (v)彌漫, 遍及/流行 --> pervasive (adj)普遍的/瀰漫的
         - invade (v)侵略, 侵犯, 擁入
         + extravagant (adj)奢侈的/浪費的 = wasteful, 過度的/過分的 = outrageous --> extravagance (n)奢侈/浪費, 過度/無節制
         - vagrant (adj)流浪的 (n)流浪漢
@@ -6752,7 +6761,7 @@
         + evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
         - invoke (v)喚起/使記起, 祈求(法律或神靈), 行使（法權等）
         ++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
-        +++ provocation (n)激怒/挑釁 = affr  ont = abuse = insult --> provocative (adj)挑釁的/煽動的, 挑逗性的, 啟發性的
+        +++ provocation (n)激怒/挑釁 = affr  ont = abuse = insult --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
         * revoke (v)撤銷/廢除 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢除的
         - vocalist (n)流行歌手/聲樂家
         - vocation (n)擅長/才能, 職業/工作
@@ -6821,7 +6830,7 @@
         + provident (adj)有遠見的/深謀遠慮的 = prudent, 節儉的 = frugal = thrifty
         + providential (adj)幸運的/天佑的 = lucky = fortunate, 上帝的/天意的
         - provide (v)提供, 規定, 撫養/贍養, 準備
-        - provision (n)供應, 條款, 食物/糧食, 預備/防備 <-- provide
+        *** provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
         - provisional (adj)暫時的/臨時的 = temporary
         - provisory (adj)有附帶條件的 <-- provide
         + survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰
@@ -6856,7 +6865,7 @@
         + evanesce (v)逐漸消失 --> evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral, 難以察覺的 = imperceptible
         * devoid (adj)缺乏的 = lacking
         - evacuate (v)撤離, 使成真空, 淨空, 排出
-        - vacate (v)搬空, 放棄(職位), 取消/使無效 = annul
+        - vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul
         - vacant (adj)空白的/空的/空缺的/空閒的, 茫然的/空虛的 = vague
         + vacuous (adj)空的 = empty = void, 茫然的/空洞的 = inane = stupid, 無所事事的 = purposeless = idle  --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間
         - vacuum (n)真空, 空白/空虛, 孤立狀態

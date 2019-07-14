@@ -9,7 +9,7 @@ After 20 years in prison, he was released on parole, but he never could shake th
 	- prosecutorial (adj)與公訴有關的, 檢察官的/公訴人的
 "I went in prepared to make a 15-minute presentation, but the attorneys started asking some really good questions," Kassin says. "Before you knew it, we had a discussion that lasted almost 2 1/2 hours."
 Kassin explained that false confessions are not rare: More than a quarter of the 365 people exonerated in recent decades by the nonprofit Innocence Project had confessed to their alleged crime. Drawing on more than 30 years of research, Kassin told the legal team how standard interrogation techniques combine psychological pressures and escape hatches that can easily cause an innocent person to confess. He explained how young people are particularly vulnerable to confessing, especially when stressed, tired, or traumatized, as Burton was.
-	- escape hatche 出路 == a way of getting out of a difficult or unwanted situation
+	- escape hatch 出路 == a way of getting out of a difficult or unwanted situation
 		> The psychiatrist offered him an escape hatch from his feelings of guilt.
 	- traumatize
 		> 使受精神創上 |Subject to lasting shock as a result of a disturbing experience or physical injury.| the children were traumatized by separation from their families
@@ -34,7 +34,7 @@ Kassin is part of a cadre of scientists who have flipped conventional wisdom abo
 		> 探究 |Seek to uncover information about someone or something.| what right had he to probe into her personal life?
 		> 太空探測站 |space probe|
 	- exert
-		> 用/盡 |Apply or bring to bear (a force, influence, or quality)| ‘the moon exerts a force on the Earth
+		> 用/盡 |Apply or bring to bear (a force, influence, or quality)| the moon exerts a force on the Earth
 		> 努力/盡力 |Make a physical or mental effort.| he needs to exert himself to try to find an answer
 	- forensic /fəˈrɛnsɪk/ 
 		> 科學搜查的 |Relating to or denoting the application of scientific methods and techniques to the investigation of crime.|
@@ -141,7 +141,7 @@ Much of the Reid technique involves watching for verbal and nonverbal signs of d
 The power of a confession
 
 A poster in Kassin's office at John Jay College shows 28 faces: men, women, adults, adolescents, white, black, Hispanic. "Look at how many different types of people there are — all of humanity," Kassin says. "And what they have in common is that they all gave false confessions. There's no one kind of person who can give a false confession. It can happen to anybody."
-	- Hispanic (adj)西班牙(人)的；西班牙語言(文化)的/西班牙語國家的
+	- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
 Kassin has helped many of them. Defense lawyers and human rights organizations around the world often call on him to analyze confessions or testify about the nature of interrogation — sometimes as a paid consultant or witness, sometimes pro bono. One face on the poster belongs to Amanda Knox, the U.S. college student studying in Italy who was coerced into confessing to the murder of her roommate. Kassin's reports to Italian courts were involved in getting her freed. He testified for John Kogut, a Long Island man who after an 18-hour interrogation falsely confessed to raping and murdering a 16-year-old girl. DNA evidence had won Kogut's release after he spent 18 years in prison, but prosecutors retried him on the basis of the confession. Kassin's 2005 testimony helped acquit him. 
 	* pro bono
 	- free -> freed -> freed

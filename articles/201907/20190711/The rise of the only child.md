@@ -24,7 +24,7 @@ Culturally, only-child families — the fastest-growing family unit in the Unite
 		> 打滑 |Turn or slide violently or uncontrollably.| the Renault slewed from side to side in the snow
 		> |(of an electronic device) undergo slewing.|
 		> 打滑 |A violent or uncontrollable sliding movement.| I was assaulted by the thump and slew of the van
-		> |A large number or quantity of something|
+		> 大量 |A large number or quantity of something|
 	+ slay -> slew/slayed -> slain
 	- brat
 		> 頑童 |A child, typically one that is badly behaved.| she's been acting like a spoiled brat all evening
@@ -34,7 +34,7 @@ Culturally, only-child families — the fastest-growing family unit in the Unite
 		> 演藝船 | a river steamer on which theatrical performances are given.|
 		> 好自我表現者 |A show-off; an exhibitionist.|
 		> 賣弄/炫耀 |show off|  he was basically showboating to the crowd and they were loving it
-	- weirdos 怪人 == A person whose dress or behaviour seems strange or eccentric.
+	- weirdo 怪人 == A person whose dress or behaviour seems strange or eccentric.
 But in recent decades, something has begun to shift. Families are shrinking, and improvements in gender equality have made childbearing more of a question than a given. As Gen X and millennial women prioritize personal and career goals, as couples marry and start their families later in life, more parents find themselves mulling the logistical, financial and philosophical possibilities of a smaller family: What would it mean for them if they had only one child? What would it mean for their offspring?
 	- mull
 		> 深思 |Think about (a fact, proposal, or request) deeply and at length.| she began to mull over the various possibilities
@@ -119,7 +119,7 @@ People are often drawn to the idea of replicating a childhood model they enjoyed
 	- in part 某種程度上 == to some degree
 		> The accidents were due in part to the bad weather.
 “I was a little worried about her being an only child,” Wilson says of her daughter, who happily bounces from swimming lessons to gymnastics lessons to quiet time at home, where she likes to paint and practice reading. “But my brother-in-law is an only child, and he has lots of friends, and he did just fine. I just want to make sure she has enough friends that become close enough to be like family to her.”
-	- gymnastics 體超 == Exercises developing or displaying physical agility and coordination. The modern sport of gymnastics typically involves exercises on bars, beam, floor, and vaulting horse.
+	- gymnastics 體操 == Exercises developing or displaying physical agility and coordination. The modern sport of gymnastics typically involves exercises on bars, beam, floor, and vaulting horse.
 	- brother-in-law 連襟
 Karthika Sasikumar, who is raising her 11-year-old son with her husband in San Jose, has come to feel that only children are uniquely equipped for that challenge.
 “Only children are so often accused of being selfish, but in fact what I’ve found is that growing up as an only child makes you more open to the world,” says Sasikumar, who has a sister. “You kind of have to go out and find your people and find your tribe; you don’t have that ready-made for you at home in your family.”
@@ -127,7 +127,7 @@ When presented with the question “Do you wish you had a brother or sister?” 
 Introversion isn’t solipsism; solitude isn’t loneliness. And if loneliness does come for the only child, perhaps it comes much later.
 	- solipsism 唯我主義 == The view or theory that the self is all that can be known to exist.
 Despite the first line of “Only Child,” Billy Collins did eventually yearn for a sibling, as his parents aged into their 90s. In the poem’s second stanza, he conjures an imaginary sister named Mary, a nurse who helps tend to their elderly parents, and meets him for coffee to reminisce.
-	? the first line of 第一線的/首要的 == If you refer to a method as the first line of, for example, defence or treatment, you mean that it is the first or most important method to be used in dealing with a problem.
+	- the first line of 第一線的/首要的 == If you refer to a method as the first line of, for example, defence or treatment, you mean that it is the first or most important method to be used in dealing with a problem.
 		> Passport checks will remain the first line of defence against terrorists.
 	- stanza 詩節 == A group of lines forming the basic recurring metrical unit in a poem; a verse.
 	+ reminisce 追憶/回想 == Indulge in enjoyable recollection of past events.

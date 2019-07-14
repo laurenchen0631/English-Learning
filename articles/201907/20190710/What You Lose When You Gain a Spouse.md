@@ -81,7 +81,7 @@ This idea of self-sufficiency is also reflected in weddings themselves, which te
 	- tagline 品牌主張/品牌理念
 	- inspo == Inspirational
 In his book The All-or-Nothing Marriage, the psychologist Eli Finkel examines how, over the past 200 years, American expectations of marriage have slowly climbed Maslow’s hierarchy of needs. Just a few generations ago, the ideal marriage was defined by love, cooperation, and a sense of belonging to a family and community. Today’s newlyweds, Finkel argues, want all that and prestige, autonomy, personal growth, and self-expression. A marriage is supposed to help the individuals within it become the best versions of themselves. This means that more and more, Americans turn to their spouses for needs they once expected an entire community to fulfill.
-	- Maslow 亞伯拉罕·馬斯洛，美國心理學家，以需求層次理論最為著名，為一種心理健康的理論
+	- Abraham Maslow 亞伯拉罕·馬斯洛，美國心理學家，以需求層次理論最為著名，為一種心理健康的理論
 	- newlywed 新婚夫婦 == A recently married person.
 	? Americans turn to their spouses for needs they once expected an entire community to fulfill.
 One way to think outside the monolith of the American marriage is to imagine a world without it. Implicit in the self-sufficiency of the American ideology of marriage is the assumption that care — everything from health care to financial support to self-development and career coaching — falls primarily to one person. Your spouse should make you soup when you’re sick and cover the rent when you go back to school to study for your dream job.
