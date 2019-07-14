@@ -789,7 +789,7 @@
         - deception (n)欺騙/欺詐
         + deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
         - deciduous (adj)落葉性的, 脫落的
-        ++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者 --> discipline (n)紀律/約束, 訓練/修養, 學科 (v)懲罰, 訓練/教導 
+        ++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者 --> /ˈdɪsɪplɪn/ discipline (n)紀律/風紀, 教養/休養, 學科, 懲戒/懲罰
         + disciplinary (adj)紀律的, 訓練的, 懲戒的, 學科的
         * disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
         * emancipate
@@ -1046,6 +1046,7 @@
     card, cardio 心臟的 = heart
         + cardinal (adj)最重要的 = chief = foremost
         - cardiologist (n)心臟病專家
+        - cardiac (adj)心臟的 (n)心臟病患者
     
     carn, carr 肉 = flesh
         - carnivorous (adj)肉食動物的 <--> herbivorous
@@ -1308,8 +1309,9 @@
             - debark (v)下船/卸貨 <--> embark <-- de + bark 船 = boat
             + debase
             + decay (v)腐蝕/腐朽/腐爛, 使衰弱/使衰敗 = wither = blight (n)腐蝕, 衰敗/衰弱 <-- de + cay 掉落 = fall
+            * decaying (adj)腐爛的, 破損的/損壞的, 衰敗的
+            * decadent (adj)道德腐敗的, 墮落的/頹廢的 (n)頹廢者, 頹廢派作家
             + decadence (n)衰微, 墮落/道德腐敗 = turpitude = depravity
-            * decadent (adj)墮落的/頹廢的, 衰落的
             * decease (n)死亡/逝世 = death = demise --> deceased (n)死者
             - deceit
             + declaim
@@ -1579,6 +1581,7 @@
         - addict (n/v)上癮
         - benediction (n)祝福 = benison = invocation, 祈禱
         +++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定, 使處於良好狀態, 訓練/使習慣於, 為..設立條件, 用護髮素 --> conditional (adj)有條件的 <--> absolute
+        * conditioning (adj)訓練的/調適的
         + contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
         + dictate (v)口述, 命令/下令/決定 (n)命令
         - dictator (n)命令者, 獨裁者 = autocrat --> dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
@@ -2017,7 +2020,7 @@
         +++ adequate (adj)足夠的 = enough = sufficient
         + egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
         + equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
-        - equation (n)等式
+        - equation (n)等式/方程式, 均衡/相等, 考量
         - equity (n)公平/公正, 股價, 普通股, 抵押淨值
         - equilibrium
         + equanimity
@@ -5019,7 +5022,7 @@
 
     physi, physio 自然的 = nature
         - physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
-        - physiology (n)生理學 --> physiological (adj)生理的/生理學的
+        - physiology (n)生理學 --> physiological (adj)生理的/生理學的 <|> psychological
         + /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
         + /fɪˈzɪʃ(ə)n/ physician (n)醫師
 
@@ -5685,7 +5688,7 @@
         + transcribe (v)抄寫/轉錄
 
     spect, spec, speci, spic, spex, spite 看 = look, watch == mir
-        - aspect (n)方面, 外表/外觀 = visage, 長寬比
+        - aspect (n)面向, 觀點, 外觀/樣子, 方位/面向, 時態
         + auspices (n)資助/保護/支持 = agies = patronage --> auspicious (adj)吉利的 = propitious <--> ominous
         + conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking, 引人注目的 <|> conscious
         * despise (v)輕視/鄙視 = contempt = spurn
@@ -5707,7 +5710,7 @@
         - spectacle (n)奇景/壯觀
         + spectacular (adj)壯觀的, 引人入勝的/引人注目的 ＝ sensational
         - sepectator (n)觀眾/觀看者
-        - specter (n)鬼魂/幽靈 = ghost, 恐懼
+        - /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物
         - spectral (adj)幽靈的 = ghostly
         + spectrum (n)光譜/頻譜, 系列/範圍
         + speculate (v)思索/沉思 = meditate = deliberate = cogitate, 推測/猜想 = infer = conjecture = surmise, 投機 --> speculation (n)沉思/推測, 投機

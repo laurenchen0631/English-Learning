@@ -31,10 +31,12 @@
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ 片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
+	- sac 囊 == A hollow, flexible structure resembling a bag or pouch.
 	
 [Geology]
 	- convergent boundary 聚合板塊邊緣
 	- magma 岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
+	- mantle 地涵
 	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
 	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
 	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
@@ -48,6 +50,10 @@
 	- undertow
 		> 深層逆流/退浪/回頭浪 |A current of water below the surface and moving in a different direction from any surface current.|
 		> 暗流 |An implicit quality, emotion, or influence underlying the superficial aspects of something and leaving a particular impression| there is a dark undertow of loss that links the novel with earlier works
+	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
+	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
+	- continent crust 大陸地殼 <--> oceanic crust 海洋地殼
+	- crustal plate 地殼板塊
 
 [Animal]
 	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)

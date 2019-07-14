@@ -20,7 +20,7 @@ When it comes to the subject of energy, we should understand why a nation like t
 [Real Article]
 Beginning in the year 1840, James Joule performed a long series of experiments to study the conversion of mechanical energy to heat. In one experiment, he used a barrel to heat water by rotating a paddle wheel inside the barrel. He measured the work done in turning the wheel and the heat produced in the water, and found that a given amount of work always produced the same amount of heat. Later experiments showed that heat and mechanical energy are always converted back and forth in precisely the same ratio. We now known that the same rule is true for all forms of energy. In everyday terms, energy is never lost: When it disappears in one form, it always shows up in an equal amount in another form. This principle - known as the law of conservation of energy - is one of the fundamental laws of classical physics and is a very cornerstone of modern science and technology.
 
-When it comes to the subject of energy, we should understand why an nation like the United States cannot solve its energy problems by operating automobiles on electricity instead of gasoline. It should be clear by now that electrical energy is noe easier to come by than the chemical energy in gasoline. Neglecting engine for for the moment, it takes the same amount of energy to move an automobile a given distance regardless of the initial source of that energy. If all our autos ran on electricity, that energy could be supplied only by burning additional fossil or nuclear fuel at our electricity generating plants. It is true, of course, that electric motors are more efficient than gasoline engines. But this advantage might well be offset by the wight of batteries to be carries about.
+When it comes to the subject of energy, we should understand why an nation like the United States cannot solve its energy problems by operating automobiles on electricity instead of gasoline. It should be clear by now that electrical energy is noe easier to come by than the chemical energy in gasoline. Neglecting engine efficiency for the moment, it takes the same amount of energy to move an automobile a given distance regardless of the initial source of that energy. If all our autos ran on electricity, that energy could be supplied only by burning additional fossil or nuclear fuel at our electricity generating plants. It is true, of course, that electric motors are more efficient than gasoline engines. But this advantage might well be offset by the wight of batteries to be carries about.
 
 [Review]
 - James Joule 詹姆斯·焦耳，英國物理學家。在研究熱的本質時，發現了熱和功之間的轉換關係，並由此得到了能量守恆定律
@@ -70,7 +70,7 @@ When it comes to the subject of energy, we should understand why an nation like 
 	> 設法取得 |manage to acquire or obtain (something).| the remoteness of the region makes accurate information hard to come by
 + electric
 	> 靠電力運作的/用電的 |Of, worked by, charged with, or producing electricity.| an electric cooker
-	> 令人震驚的|Having or producing a sudden sense of thrilling excitement.| the atmosphere was electric
+	> 令人震驚的 |Having or producing a sudden sense of thrilling excitement.| the atmosphere was electric
 	> 靠電運作的交通工具/電車 |An electric train or other vehicle.| diesels and electrics were included in the display of locomotives
 + electrical
 	> 電的 |Concerned with, operating by, or producing electricity.|

@@ -383,6 +383,7 @@
 		> 避開 |Avoid by taking a detour.| ‘I would detour the endless stream of motor homes
 	- rush hour 交通高峰時間/交通擁擠時間
 	- flat tire 爆胎
+	- paddle wheel 明輪/槳輪
 
 [Agriculture/Farming]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
@@ -630,6 +631,8 @@
 		> 渴望 |Feel an intense desire for.| she ached for his touch
 	- forceps 鉗子
 	- testosterone blocker 睪固酮阻斷劑
+	- amphetamine /amˈfɛtəmiːn/ 安非他命/苯丙胺
+	- anabolic steroid /ˌanəˌbɒlɪk ˈstɪərɔɪd/ 同化類固醇
 	- chloroform 氯仿
 	- metastasize == (of a cancer) spread to other sites in the body by metastasis.
 	- ophthalmologists 眼科醫生
@@ -670,9 +673,7 @@
 	- contraception 避孕
 	- colic 腹部絞痛 == Severe pain in the abdomen caused by wind or obstruction in the intestines and suffered especially by babies.
 	- appendicitis 闌尾炎/盲腸炎 == A serious medical condition in which the appendix becomes inflamed and painful.
-	- visceral
-		> 內臟的 |Relating to the viscera.| the visceral nervous system
-		> |Relating to deep inward feelings rather than to the intellect.|
+	- skin caner 皮膚癌，是一種生長在皮膚上的癌症，它是由異常的細胞發展而來，甚至有可能會侵犯擴散到身體不同部位
 	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
 	- bruise
 		> 擦傷/瘀青 |An injury appearing as an area of discoloured skin on the body, caused by a blow or impact rupturing underlying blood vessels.|
@@ -688,6 +689,9 @@
 		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
 		> 膠畫法 |A method of mural and poster painting using distemper.|
 		> |Paint with distemper.|
+	- asthma (n)氣喘 --> asthmatic (adj)氣喘的 (n)氣喘患者
+	- biofeedback 生理回饋，泛指透過提供患者某些特定生理反應的改變狀態，以促使患者獲得自行控制生理改變方向，進而改善其生理疾病的一些臨床技術
+	- rheumatoid arthritis /ˈruːmətɔɪd/ 類風濕關節炎
 	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
 	- ego
 		>> |A person`s sense of self-esteem or self-importance.|
@@ -713,6 +717,7 @@
 		> 身體 |A person`s body.| every part of his anatomy hurt
 		> 結構學 |A study of the structure or internal workings of something.| a detailed anatomy of a society and its institutions
 	- carcinogen 致癌物 == cancer-causing substance
+	- weight gain 增加體重 == an increase in body weight
 	* preventive (adj)預防的 (n)預防藥物/預防法
 	- vaccination /vaksɪˈneɪʃ(ə)n/ 疫苗接種 == Treatment with a vaccine to produce immunity against a disease; inoculation.
 	- pharmacy /ˈfɑːməsi/ (n)藥局, 配藥學
@@ -884,6 +889,8 @@
 	- prom dress == 舞會禮服
 	- sweatshirt 運動衫
 	- hazmat suit 危險物品防護服
+	- sportswear 運動裝 == Clothes worn for sport or for casual outdoor use.
+
 
 [Art]
 	- the Mona Lisa
@@ -1216,6 +1223,7 @@
 	- countertop 台子
 
 [Sport]
+	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
 	- Golden State 金州勇士，是一支位於美國加利福尼亞州奧克蘭的職業籃球隊
