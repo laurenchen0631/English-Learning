@@ -417,6 +417,7 @@
     + chary (adj)小心的/審慎的 = careful = cautious
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinist (n)沙文主義者 --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
+    + checker, chequer (n)棋盤花紋, 出納員/審核員 (v)使交替變化 --> checkered (adj)多變的/不規則的
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
     ++ /ʃəˈkeɪn/ chicane (v)詐騙/欺騙 = deceive = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
     + chortle (n/v)哈哈大笑 = chuckle
@@ -641,6 +642,7 @@
     + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)拒絕 = refuse = withhold
+    + /ˈdɛspɒt/ despot (n)暴君 = tyrant <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
     + /dīˈdaktik/ didactic (adj)道德教誨的 = morally instructive, 教訓的/說教的 <-- didact 被教 = taught + ic
     + /ˈdɪlət(ə)ri/ dilatory (adj)拖延的/遲緩的/磨蹭的 = slow = late = procrastinating <-- delay
     + dilettante (n)一知半解者/半吊子 = amateur = dabbler, 業餘愛好者 <-- delight
@@ -691,7 +693,6 @@
     ^ deft (adj)熟練的/情巧的 <--> daft
     ^ daft (adj)愚蠢的 <--> deft
     ^ descry (v)看見/辨認出/發現 <-- proclaim
-    ^ despot (n)暴君 <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
     ^ devout (adj)虔誠的, 忠心的 <-- devote
     ^ diabolical (adj)惡毒的/狠毒的, 糟糕透頂的 <-- diabol 惡魔 = devil + ic
     ^ die (n)金屬模子/鋼模/印模 (v)死亡
@@ -1283,6 +1284,7 @@
     ++ hermetic (adj)密封的 = tightly sealed, 孤立的 = isolated, 神祕的/深奧的/不易理解的 = esoteric = recondite = magical = occult <|> hermit
     + /ˈhɪroʊ/ hero (n)英雄 --> /həˈroʊɪk/ heroic (adj)英勇的 = daring = noble = stalwart = valiant
     ++ /hjuː/ hew (v)砍伐 = strike = chop = hack, 堅持/遵守 = conform = adhere <|> hem
+    + heyday (n)全盛期
     + hidebound (adj)思想偏狹頑固的/保守的 = inflexible = conservative
     + highlight (v)強調 = emphasize = make prominent = accentuate (n)最有趣最精彩的部分
     + hinder (v)阻礙/妨礙 = impede = retard = delay = encumber = hamper = inhibit = thwart = stymie
@@ -2080,6 +2082,7 @@
     ++ /pɔː/ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
     ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客, 命運/定數 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion
     + portray (v)描繪/描述 = limn = delineate = depict
+    + /ˈpaʊwaʊ/ powwow (v)商談/開會 (n)非正式集會/商議, 祈禱儀式
     + pragmatic (adj)務實的/實幹的/實用主義的 = practical --> pragmatism (n)實用主義 --> pragmatist (n)實用主義者
     + prate (v)瞎扯/胡說 = talk idly = chatter = babble --> /ˈprat(ə)l/ prattle (n/v)閒聊 = chatter = babble
     +++ precarious (adj)不穩定的 = uncertain = unstable = insecure = dubious = treacherous, 危險的 = perilous = treacherous = risky <-- prayer
@@ -3025,7 +3028,7 @@
     + /trɪst/ tryst (n/v)約會/幽會 = rendezvous = date = engagement
     + /ˈtəːpɪtjuːd/ turpitude (n)腐化/邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
     ++ /ˈtjuːtɪlɪdʒ/ tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution --> tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
-    + /ˈtɪr(ə)ni/ tyranny (n)暴政/專制統治, 暴行 --> /ˈtʌɪr(ə)nt/ tyrant (n)暴君
+    + /ˈtɪr(ə)ni/ tyranny (n)暴政/專制統治, 暴行 --> /ˈtʌɪr(ə)nt/ tyrant (n)暴君 = despot
     + /ˈtʌɪrəʊ/ tyro, tiro (n)新手 = beginner = neophyte = novice = fledgling
 
     * /təˈbuː/ taboo (n)禁忌/忌諱 (adj)禁忌的/禁止的 (v)把...列為禁忌/禁止

@@ -986,7 +986,7 @@
 
 	cryph, crypt 隱藏/秘密 = hide == scond
 		- apocrypha (n)偽經/偽書 <--> canon
-		- apocryphal (adj)虛假的/可疑的 = bogus <--> authenticated = authentic = genuine
+		+ apocryphal (adj)虛假的/可疑的 = bogus <--> authenticated = authentic = genuine
 		- cryptic (adj)神秘的/有隱義的
 		- cryptogram (n)密碼/暗號
 
@@ -1607,7 +1607,7 @@
 
 	dole, dol 悲傷 = sorrow
 		* condolence (n)弔唁/慰問
-		- doleful (adj)悲傷的 = mournful
+		+ doleful (adj)悲傷的 = mournful
 		+ dolorous (adj)憂傷的
 		+++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) = sloth <|> insolent
 
@@ -3316,7 +3316,8 @@
 		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 		+ relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
 		+ relevance (n)關聯/相關, 適宜
-		* relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
+		** /rɪˈliːv/ relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
+		** /rɪˈliːf/ relief (n)寬心/慰藉, 救濟/補助, 救濟品/救濟金, 替換/接替, 浮雕, 顯眼
 		- relieved (adj)寬慰的/如釋重負的
 
 	len 軟 = soft
@@ -3347,6 +3348,7 @@
 	lect, lig, lit
 		1. 講 = speak
 			* dialect (n)方言 = tongue = patois = idiom = vernacular = lingo
+			* dialectical (adj)辯證的, 相反的
 			- lecture (n/v)講課, 訓斥/斥責
 
 		2. 選 = pick, choose
@@ -3485,81 +3487,84 @@
 		- preliterate (adj)文字出現以前的
 
 	lib, libr 書 = book
-		- libel (n/v)文字誹謗/中傷 <|> label
+		- /ˈlʌɪb(ə)l/ libel (n/v)文字誹謗/中傷 (n)誹謗罪 <|> label
 		- library (n)圖書館/書房/書庫, 藏書
 		- libretto (n)歌劇的歌詞/劇本
 
 	liber, libr 平衡/自由 = balance, weigh
-		++ deliberate (v)慎重考慮 = consider = contemplate = reflect = mediate, 商討 = confer = consult (adj)深思熟慮的 = studied = intentional = measured = judicious = discreet = prudent = circumspect = measured = canny = guarded = methodical, 慢吞吞的 <|> debilitate
+		++ deliberate (v)慎重考慮 = consider = contemplate = reflect = mediate (adj)深思熟慮的 = studied = intentional = measured = judicious = discreet = prudent = circumspect = measured = canny = guarded = methodical, 故意的/蓄意的 <|> debilitate
 		- equilibrium (n)平衡/均衡, (心裡的)平靜/安寧 = equanimity
-		+ liberal (adj)開放的/開明的 = catholic = broad-minded, 慷慨的/大方的 = generous = munificent, 自由的 = free (n)自由主義者
+		+ liberal (adj)開放的/開明的 = catholic = broad-minded, 自由的 = free, [法]不拘泥於字面意義的, 通才教育的, 慷慨的/大方的 = generous = munificent, 大量的 (n)自由主義者
 		- liberality (n)慷慨, 心胸寬闊
-		- liberty (n)自由, 隨意/冒失
-		- liberate (v)釋放/解放, (化學)釋放
-		- librate (v)保持平衡
-		+ libertine (n)放蕩者/性行為放縱者
+		- liberty (n)自由, 失禮/冒失
+		- liberate (v)釋放/解放, (化學)釋放, 偷
+		+ /ˈlɪbətiːn/ libertine (n)放蕩者/性行為放縱者, 宗教思想自由者 (adj)放蕩的, 思想自由的
 
 	licen 允許 = allow
 		+ license (n)過度自由 = undue freedom, 許可證/執照 (v)授權同意
-		- licensure (n)特許/許可證 = license
-		+ licentious (adj)縱慾的 = lascivious = salacious = profligate, 放肆的/不道德的 = unrestrained = immoral
+		- licensure (n)特許/核發執照 
+		+ licentious (adj)放蕩的/縱慾的 = lascivious = salacious = profligate
 
 	linqu, lip 離開 = leave
-		- delinquent (adj)怠忽職守的, 到期未付的/拖欠的, 不良的 (n)不良青少年 --> delinquency (n)怠忽職守, 不良行為, 債務拖欠
+		- delinquent (adj)怠忽職守的, 拖欠的, 犯法的/不良的 (n)不良青少年 --> delinquency (n)少年犯罪, 失職/懈怠, 拖欠債務
 		+ eclipse (v/n)使黯然失色, 蝕/遮蔽 
-		- ellipsis (n)省略 --> ellipse (n)橢圓 --> elliptical (adj)橢圓的, 省略的, 晦澀的
-		+ relinquish (v)公開放棄 = renounce = surrender, 放棄 = forgo = resign = yield, 放手/讓出 = release = yield
+		- ellipsis -> ellipses (n)省略 --> elliptical (adj)省略的, 橢圓的
+		- ellipse (n)橢圓 --> elliptic (adj)橢圓的
+		+ relinquish (v)自願放棄/讓出 = forgo = resign = yield = release = renounce = surrender
 
 	liqu 液體 = liquid
-		- liquid (n)液體 (adj)清澈的 = limpid, 液體的/液態的, 流暢的
-		- liquidate (v)清算/清償
-		- liquor (n)白酒/烈酒
+		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmoniousharmonious, 易換成現金的
+		- liquidate (v)清算/清償, 把..換為現金, 殺
+		- liquor (n)白酒/烈酒, 汁水, 溶液
 
 	lapid, lith 石頭
 		+ dilapidate (v)使荒廢/使毀壞 --> dilapidated (adk)破舊的/倒塌的
 		- lapidary (adj)寶石的 (n)寶石工藝匠
+		- lithography (n)平板印刷術 = offset
+		- lithosphere (n)岩石圈 <--> asthenosphere
 		+ monolith --> monolithic
 		- neolithic
 
 	lachrym 眼淚 = tear
 		+ /ˈlakrɪməʊs/ lachrymose (adj)易落淚的, 催淚的/悲傷的 = tearful = mournful = sorrowful = sad = dreary = rueful
-		- lachrymal (adj)淚的/流淚的
+		- /ˈlakrɪm(ə)l/ lachrymal, lacrimal (adj)淚的/流淚的, 淚腺的 (n)眼框骨頭 = lachrymal bone, 淚瓶 = lachrymal vase
 		- lachrymation (n)流淚
-		- lachrymator (n)催淚瓦斯
+		- lachrymator (n)催淚物質/催淚瓦斯
 
 	lact, lacto 乳 = milk
-		- lactic (adj)乳汁的
-		- lactate (v)分泌乳汁/餵奶
+		- /ˈlaktɪk/ lactic (adj)乳汁的
+		- lactate (v)分泌乳汁/餵奶 (n)乳酸鹽
 		- lactogenic (adj)催乳的
 
 	langu 鬆弛 = lax
-		++ languish (v)衰弱 = droop = fade = debilitate = pine = wan, 經歷苦難/受煎熬, 被忽視 = be ignored, 渴望 = pine = long
-		* languid (adj)沒精打采的/不感興趣的 = listless = wan = spiritless, 倦怠的 = weary = fatigued
-		- languor (n)身心疲憊 = lassitude = fatigue
+		++ languish (v)衰弱 = droop = fade = debilitate = pine = wan, 停滯/沒有進展, 經歷苦難/受煎熬
+		* languid (adj)沒精打采的/不感興趣的 = listless = wan = spiritless, 悠閒的, 虛弱的 = weary = fatigued
+		- languor (n)慵懶 = tiredness = inactivity, 沈悶的空氣
 
 	luxur 奢侈 = extravagance
-		* luxury (n)奢侈/奢侈品, 享受/樂趣
-		* luxuriant (adj)茂盛的 = lush = exuberant, 肥沃的 = fertile = profuse = opulent, 豐富的 = abundant = profuse = opulent
-		- luxuriate (v)盡情享受, 繁茂地生長
+		* luxury (n)奢侈/奢侈品, 享受/樂趣 (adj)奢侈的 = luxurious
 		- luxurious (adj)奢侈的/豪華的/十分舒適的
+		* luxuriant (adj)茂盛的 = lush = exuberant
+		- luxuriate (v)盡情享受
 
 [M]
 	mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
 		+ misanthrope, misanthropist --> misanthropy
-		- misdeed (n)惡行
+		- misbehaviour (n)不禮貌/品行不端
+		- misdeed (n)惡行/罪行
 		- misfit (n)與社會脫節的人
-		- mischief (n)頑皮/淘氣, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害處的 = harmful <-- mis + (a)chieve
+		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
 		+ misconstrue (v)誤解/曲解 = misinterpret
-		+ miscreant (n)惡棍/歹徒 = villain = criminal <-- mis + crea(te) 做 + ant
+		+ miscreant (n)惡棍/歹徒 = villain = criminal (adj)無賴的 <-- mis + crea(te) 做 + ant
 		- misgiving (n)擔心/疑慮 = doubt = distrust = fear = qualm = scruple
-		+ mishandle (v)處理不當 = maltreat, 丟失/丟包 = lose = displace
-		- misinform (v)向...提供錯誤消息
+		+ mishandle (v)處理不當 = maltreat, 隨意操作
+		- misinform (v)誤傳/向...提供錯誤消息 = misrepresent
 		+ misnomer
 		- misperceive (v)誤解 = misunderstand
-		+ misrepresent (v)誤傳, 歪曲 = distort
+		+ misrepresent (v)誤傳/歪曲 = distort
 		- mishap
 		- misshapen (adj)畸形的/奇形怪狀的
-		+ misuse (n/v)誤用 = misapply, 濫用 = maltreat = abuse
+		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
 
 	miss, mit, mise 送/放出 = send, give over
 		*** commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
@@ -5113,7 +5118,7 @@
 			+ reconcile
 			+ recount (v)重新計算, 詳述/敘述
 			** recreate (v)消遣/娛樂 --> recreation (n)
-			+ recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
+			+ /ˌriːkruːˈdɛs/ recrudesce (v)復發 = recur --> recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
 			- recruit
 			+++ redeem (v)償還/還清, 買回/贖回, 兌現/兌換現金, 履行 = fulfill, 補償 = offset, 贖救/解救 <-- re + deem 買 = buy
 			- redemption (n)挽救/贖罪/贖回, 清償/履行
@@ -5453,7 +5458,7 @@
 		* rural (adj)鄉村的/農村的 = bucolic = rustic = pastoral
 		- ruralize (v)田園化/鄉村化
 		- rurality (n)田園風光
-		* rustic (adj)粗製的/質樸的/簡陋的, 鄉村的/鄉村特色的 = rural = pastoral
+		+ rustic (adj)粗製的/質樸的/簡陋的, 鄉村的/鄉村特色的 = rural = pastoral
 
 [S]
 	se 分開 = apart
@@ -6414,7 +6419,7 @@
 		- retrieve (n/v)尋回/取回 = regain, 挽回 = correct
 
 	ter, trep, tim 怕 = frighten
-		+ deter (v)阻撓/阻止 = check = arrest = discourage = restrain = preclude = thwart = impede = hinder = hamper = inhibit
+		+ deter (v)威懾住/嚇住/使斷念 = check = arrest = discourage = restrain = preclude = thwart = impede = hinder = hamper = inhibit
 		++ deterrent (N)威懾力量/遏制因素 == something that deters
 		+ intimidate (v)使膽怯 = daunt, 威嚇 <|> intimate
 		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless
@@ -6699,6 +6704,7 @@
 		+ adverse (adj)不利的/負面的 = detrimental = inimical = unfavorable = thwart, 相反的, 敵對的 = hostile = inimical
 		+ adversity (n)不幸/厄運 = calamit
 		+ adversary (n)敵手/對手
+		- adversarial (adj)對立的, [法]對抗制的
 		+ averse (adj)不願的/反對的 = antagonistic = reluctant = unwilling = loath
 		+ aversion (n)嫌惡/反感 = antipathy = animosity = antagonism = distaste = enmity = hatred = rancor
 		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) <|> aver <|> advert
@@ -6764,7 +6770,7 @@
 		+ avocation (n)副業 <-- vocation
 		+ advocate (v)支持/擁護 (n)支持者 --> advocacy (n)
 		+ convoke (v)召開(會議) = convene <--> adjourn
-		+ equivocate (v)含糊其詞 --> equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
+		+ equivocate (v)含糊其詞 --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
 		+ evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
 		- invoke (v)喚起/使記起, 祈求(法律或神靈), 行使(法權等)
 		++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
