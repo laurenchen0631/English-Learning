@@ -420,6 +420,7 @@
     + checker, chequer (n)棋盤花紋, 出納員/審核員 (v)使交替變化 --> checkered (adj)多變的/不規則的
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
     ++ /ʃəˈkeɪn/ chicane (v)詐騙/欺騙 = deceive = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
+    + chimera (n)幻想/妄想, 奇美拉, 嵌合體
     + chortle (n/v)哈哈大笑 = chuckle
     + /tʃəːl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的/不友好的/令人討厭的 = boorish = surly = savage
     + clamber (v)(艱難地)攀登/攀爬/移動 = scramble <-- clamb 爬 = climb + er
@@ -643,6 +644,7 @@
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)拒絕 = refuse = withhold
     + /ˈdɛspɒt/ despot (n)暴君 = tyrant <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
+    + diabolical (adj)魔鬼的 <-- diabol 惡魔 = devil + ic
     + /dīˈdaktik/ didactic (adj)道德教誨的 = morally instructive, 教訓的/說教的 <-- didact 被教 = taught + ic
     + /ˈdɪlət(ə)ri/ dilatory (adj)拖延的/遲緩的/磨蹭的 = slow = late = procrastinating <-- delay
     + dilettante (n)一知半解者/半吊子 = amateur = dabbler, 業餘愛好者 <-- delight
@@ -694,7 +696,6 @@
     ^ daft (adj)愚蠢的 <--> deft
     ^ descry (v)看見/辨認出/發現 <-- proclaim
     ^ devout (adj)虔誠的, 忠心的 <-- devote
-    ^ diabolical (adj)惡毒的/狠毒的, 糟糕透頂的 <-- diabol 惡魔 = devil + ic
     ^ die (n)金屬模子/鋼模/印模 (v)死亡
     ^ die-hard (n)頑固份子
     ^ digit (n)手指/腳趾, 數字
@@ -1088,6 +1089,7 @@
 
 [G]
     + gainsay (v)否認/反駁 = deny = dispute = naysay, 反對 = oppose = naysay <-- gain 再次 = again + say
+    + gall (n)膽汁 = bile, 膽囊, 厚臉皮/厚顏無恥, 怨恨/不滿 = resentment = hatred, 擦傷 (v)激怒, 擦傷 --> gallant (adj)勇敢的, 華麗的, 獻殷勤的
     + /ˈɡalvənʌɪz/ galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
     + /ˈɡamb(ə)l/ gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <|> /ˈɡamb(ə)l/ gamble <-- gamb 腳 = leg + ol
     + /ˈɡɑːnə/ garner (v)收藏/積累 = amass = collect, 取得 = gather = get = acquire = earn <-- garn 顆粒 = grain + er
@@ -1157,7 +1159,6 @@
     ^ gaggle (n)鵝群
     ^ gait (n)步伐/步態
     ^ galaxy (n)銀河星群, 顯赫的人群
-    ^ gall (n)膽汁 = bile, 怨恨 = hatred, 激怒 --> gallant (adj)勇敢的, 華麗的, 獻殷勤的
     ^ galley (n)船上的廚房 <|> gallery
     ^ gallery (n)畫廊, 迴廊/走廊
     ^ gallon (n)加侖(3.785公升)
@@ -1687,6 +1688,7 @@
 
 [M]
     + /ˌmakɪəˈvɛlɪən/ machiavellian (n)權謀政治家 (adj)(政治方面)詭計多端的/不擇手段的 = crafty = double-dealing = cunning = subtle = artful
+    + macabre (adj)駭人的/恐怖的 = grim = gruesome
     + /ˈmeɪlstrəm/ maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil = turbulent confusion <-- mael 碾碎 = grind + strom 流 = stream
     ++ /ˌmadʒɪˈstɪərɪəl/ magisterial (adj)權威的 = authoritative = official, 傲慢的/專橫的 = imperious = domineering = arrogant = peremptory = dictatorial = overbearing = petulant = insolent <-- magister 主人 = master + ial
     + mainstream (n)主流/主要趨勢, 河的主流
@@ -1716,7 +1718,7 @@
     + merge (v)使合併 = combine = coalesce = unite = consolidate = amalgamate
     ++ /ˈmɛrɪt/ merit (v)值得 = deserve (n)長處/價值 = excellence = worth, 法律依據, 應得/報應 = desert --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
     ++ mesmerize (v)迷住/使入迷 = fascinate = spellbind = hypnotize = beguile, 對……施催眠術 = hypnotize
-    * /ˈmiːtɪə/ meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral --> meteoroid (n)隕石
+    + /ˈmiːtɪə/ meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral --> meteoroid (n)隕石
     + meteorological (adj)氣象的/氣象學的 <-- meteoro + logy + ical
     + method (n)條理/秩序 = order = system, 方法/辦法 = mode = manner = procedure --> methodical (adj)細心的 = painstaking = deliberate = measured, 有條理的/秩序井然的 = systematic = orderly
     + /mɪˈljəː/ milieu (n)(社會或文化)環境 = environment = atmosphere = setting
@@ -1772,7 +1774,6 @@
     * /ˈmɒt(ə)l/ mottle (v)使呈雜色 (n)雜色/斑駁 <|> /ˈmɒd(ə)l/ model --> mottled (adj)雜色的/斑駁的
     *** /mɔːn/ mourn (v)哀痛/哀悼 = deplore = wail --> mournful (adj)哀傷的 = sorrowful = lachrymose = tearful = rueful, 憂鬱的 = gloomy = somber = dreary = morose = dismal = lugubrious = saturnine
         
-    ^ macabre (adj)駭人的/恐怖的 = grim = gruesome
     ^ macerate (v)浸軟/軟化, 使消瘦
     ^ madrigal (n)情歌/小調, 合唱曲, 牧歌
     ^ magenta (adj)紫紅色的 (n)紫紅色/紫紅色的染料
@@ -2342,7 +2343,7 @@
     + remedy (v)治療/補救/糾正 (n)治療/藥物, 糾正/補償 = reparation
     + rend (v)撕裂 = tear, 分裂 = split = divide, 猛拉
     + repertory (n)保留劇目輪演 --> repertorial (adj)
-    ++ /ˈrɛtərɪk/ rhetoric (N)修辭學, 雄辯 = oratory, 浮誇之詞 = bombast --> rhetorical (adj)詞藻華麗的/修辭的, 浮誇的 = bombastic = grandiloquent = orotund = pompous = oratorical
+    ++ /ˈrɛtərɪk/ rhetoric (N)修辭學, 雄辯 = oratory, 浮誇之詞 = bombast --> rhetorical (adj)修辭學的, 雄辯的/浮誇的 = bombastic = grandiloquent = orotund = pompous = oratorical, 循序漸進的(問題)
     + /ˈrɪb(ə)ld/ ribald (adj)下流的/低俗的 = crude = offensive = bawdy = vulgar = gross = obscence = salacious
     + ridden (adj)被支配的 = dominated = burdened = harassed = oppressed, 充滿…的 = laden <-- ride
     ++ riddle (n)謎/奧秘 = enigma = conundrum = puzzle, 粗篩 (v)打謎似地說, 使布滿洞孔, 充滿 = permeate, 篩 = screen
@@ -2530,6 +2531,7 @@
     ++ slippery (adj)滑的, 不穩的 = unstable, 不精確的 = ambiguous = elusive, 狡猾的 = tricky = cunning
     + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
+    + mattering (n)略知, 少量
     ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船、馬), 熄滅 = extinguish = quench
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
     ++ /səˈbrʌɪəti/ sobriety (n)清醒, 嚴肅 = seriousness = gravity = solemnity, 節制/適度 = temperance = moderation <-- sober
@@ -2829,7 +2831,6 @@
     ^ slurp (v)大聲地啜飲
     ^ smarmy (adj)虛情假意的
     ^ smart (n)痛苦/劇痛 (adj)時髦的 = stylish, 聰明的
-    ^ smatter (v)略知/淺知/一知半解 --> smattering (n)略知, 少數
     ^ smother (v)覆蓋, 使悶死
     ^ snare (n)羅網/現緊
     ^ snarl (n/v)糾纏/纏結, 吠/咆哮/吼叫

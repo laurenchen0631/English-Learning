@@ -1402,6 +1402,7 @@
 			+ deviate --> deviant --> deviation
 
 		4. 反 = reversal
+			+ disaffected (adj)不滿的 = dissatisfied
 			+ debunk (v)揭穿 = expose <-- de + bunk 不合理/謊言 = humbug, nonsense
 			- debut (n)初次登台 <-- de + but 終點 = goal
 			- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
@@ -2422,6 +2423,7 @@
 		+ defunct (adj)不復存在的/失靈的 = bypass = extinct = dead = gone
 		+ function (n)存在的目的, 典禮/社交聚會 (v)運作 = work = operate
 		+ perfunctory (adj)馬虎的/敷衍的 = superficial
+		- malfunction
 
 	foss 石頭/化石 = fossil
 		- /ˈfɒs(ə)l/ fossil (n)化石, 頑固不化的人
@@ -2476,6 +2478,7 @@
 		- ignore (v)不理會/忽視 <|> ignoble
 		- ignorant (adj)無知的, 不知道的 --> ignorance (n)無知, 不知
 		- prognosis (n)預後/對疾病的發作及結果的預言
+		+ prognosticate (v)預言 = foretell = prophesy --> prognostication (n)預言
 
 	gram, graph, glyph 寫/圖 = write or draw == scribe
 		- anagram (n)錯別字
@@ -2785,7 +2788,7 @@
 			+ imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
 			+ impervious (adj)不能滲透的 = impermeable = impenetrable, 不為所動的/無動於衷的 = indifferent
 			+ implacable
-			+ implausible (adj)難以置信的 = unlikely = unbelievable <-- im + plausible
+			+ /ɪmˈplɔːzɪb(ə)l/ implausible (adj)難以置信的 = unlikely = unbelievable <|> /ɪmˈpɒsɪb(ə)l/ impossible <-- im + plausible
 			- impolitic (adj)失策的/不智的 <-- im + politic
 			- imponderable
 			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的
@@ -2920,7 +2923,7 @@
 		2. 裡面/進入/使/加強 = in == en
 			+ illuminate
 			- illuminati
-			+ illusion --> illusive --> illusory
+			+ illusion --> illusive, illusory
 			- illustrate
 			+ /ɪmˈbʌɪb/ imbibe (v)喝 = drink, 吸收(知識) = absorb <-- im + bibe 喝 = drink
 			+ /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
@@ -3028,7 +3031,7 @@
 			* inmost (adj)最深處的/內心深處的 = innermost
 			+ innovate (v)革新/創新 --> innovative (adj)革新的 --> innovation (n)新事物/創新 <-- in + nova 新 + te
 			- /ˌɪnjʊˈɛndəʊ/ innuendo (n)含沙射影/暗諷 <-- in + nuendo 點頭 = nod
-			- inoculate (v)預防注射 = vaccinate <-- in + ocul 眼/花苞 = eye, bud + ate
+			- inoculate (v)預防注射 = vaccinate <|> inculcate <-- in + ocul 眼/花苞 = eye, bud + ate
 			+ inquest
 			- inquiry
 			+ inquisitive
@@ -3185,7 +3188,7 @@
 		- interject (v)插話/插嘴 --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
 		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
-		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 使..被遠處被聽到, 投射(情感)
+		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
 		- projector (n)投影機/電影放映機
@@ -3208,7 +3211,7 @@
 		- justice (n)正義, 司法, 法官
 		- injure (v)傷害, 受傷, 危害/損害
 		- injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
-		+ justify (v)證明……是正當的/是..的好理由, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
+		+ justify (v)證明……是正當的/是..的好理由 = warrant, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
 		- justifiable (adj)有理由的/有道理的
 
 	journ 日 = day, daily
@@ -3275,7 +3278,7 @@
 		++ elusive (adj)難以表達的 = slippery, 精於逃避的, 難找到的 = diffcult to find = evasive = obscure = delicate
 		* ludicrous (adj)滑稽的/荒唐可笑的 = absurd = ridiculous
 		+ illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive, illusory (adj)迷惑人的/虛假的 = unreal = delusive = counterfeit
-		- interlude (v)暫時休息/間歇, 插曲 = interval, 中場/中場表演
+		- interlude (v)暫時休息/間歇, 插曲 = interval, 中場/中場表演 = intermission
 		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕
 			
 	luc, lucid, lumin 光亮 = light
@@ -3301,7 +3304,7 @@
 
 		2. 法律/君主 = liege, law
 			- /əˈliːdʒ(ə)ns/ allegiance (n)(對統治者、國家、群體或信仰的)忠誠/擁護 = adherence = devotion = advocacy
-			+ legislate (v)立法, (透過立法)實現 = enact --> legislation (n)立法, 法條/法規
+			+ legislate (v)立法 = enact, (透過立法)實現 --> legislation (n)立法, 法條/法規
 			* legislature (n)立法機關, 美國州議會
 			- legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
 			+ legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
@@ -3406,7 +3409,7 @@
 		+ /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing
 		- /ləˈkjuːʃ(ə)n/ locution (n)用句 = word = pharse, 說話方式
 		- elocution (n)演講技巧
-		+ eloquent (adj)有說服力的/雄辯的, 富於表現的/充分表現的 --> eloquence (n)雄辯/口才
+		+ eloquent (adj)有說服力的/雄辯的 = rhetorical, 富於表現的/充分表現的 --> eloquence (n)雄辯/口才
 		- epilogue, epilog (n)尾聲/結尾 = coda = denouement
 		+ eulogy, eulogium (n)頌詞/讚頌 = encomium = panegyric = paean = hymn, 悼詞/悼文
 		- eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
@@ -3466,6 +3469,10 @@
 		*** translate (v)翻譯, 解釋/說明, 轉移/調動/使變動
 		+ elate (v)使得意/使興奮 = exalt <|> elevate --> elated (adj)興高采烈的 = exultant --> elation (n) = euphoria
 		*** relate (v)講述, 認同/欣賞 = identify with, 有關聯
+	
+	lati, late 寬的 = broad
+		++ /dʌɪˈleɪt/ dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
+		++ latitude (n)行動自由 = freedom, 緯度 <--> longitude
 
 	later 邊/邊緣 = side
 		- collateral (adj)並行的/平行的 = parallel, 附帶的/次要的 = incidental = secondary, 旁系的 (n)擔保品, 旁系血親
@@ -3473,10 +3480,6 @@
 		- equilateral (adj)等邊的
 		- lateral (adj)側面的/橫的/橫向的, 側音的 (n)側面, 側音
 		* unilateral (adj)單方面的, 單邊的
-
-	lati, late 寬的 = broad
-		++ /dʌɪˈleɪt/ dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
-		++ latitude (n)行動自由 = freedom, 緯度 <--> longitude
 
 	liter 文字 = letter
 		+ literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual, 字母的, 乏味的/平凡的 = prosaic
@@ -3569,49 +3572,49 @@
 	miss, mit, mise 送/放出 = send, give over
 		*** commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
 		+ commitment (n)投入/奉獻, 承諾/保證
-		*** commission (v)(正式地)委託, 委任…為軍官 (n)委託/請求, 佣金, 犯罪, 委員會
-		- committal (n)委任/託付, 承諾, 義務, 拘押, 犯罪
+		*** commission (v)(正式地)委託, 委任…為軍官/任命 (n)委託/請求, 佣金, 犯罪, 委員會
+		- committal (n)拘押, 埋葬
 		- commissary (n)代表/代理, 雜貨店/小賣部
-		+ demit (v)辭職/退職
+		+ demit (v)辭職/退職 = resign
 		+ demise (n)死亡 = decease = death, 終結 = termination, 轉讓/租賃
-		+ dismiss (v)解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
-		+ dismissal (n)解僱, 駁回
-		- emissary (n)特使/密使 = legate, 間諜 (adj)密使的, 間諜的
-		- emit (v)放射/發出 = evolve = expel = discharge = utter, 發行 --> emission (n)放射/發出, 排放物/放射物
-		- intermit (v)使暫停/使中斷 --> intermission (n)暫停/間歇 = interlude
-		- intermittent (adj)斷斷續續的/週期的/間歇的
+		+ dismiss (v)把..送走, 解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
+		+ dismissal (n)送走, 解僱, 駁回/拒絕 = rejection
+		- emissary (n)特使/密使 = legate
+		- emit (v)放射/發出 = evolve = expel = discharge = utter, 發出聲音 --> emission (n)放射/發出, 射精 = ejaculation
+		- intermit (v)使暫停/使中斷 = suspend = discontinue --> intermission (n)暫停/間歇 = pause = break, 中場 = interlude
+		* intermittent (adj)斷斷續續的/週期的/間歇的 = sporadic = periodic
 		- manumit
 		+ missive (n)公文/書信 = letter
-		- missile (n)發射物/導彈
-		- mission (n)任務, 使命/天職, 外交使團/代表團/佈道團
-		* permit (v)許可/准許 --> permissive (adj)縱容的, 許可的
-		+ premise (n/v)假定/前提
-		- promise (n/v)保證 (n)(成功的)跡象/徵兆
-		- remit (v)寬恕/赦免, 緩和/減輕/減退, 鬆懈, 提交/移交(問題), 匯寄/匯付
+		- missile (n)發射物/投射武器, 飛彈/導彈
+		- mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
+		* permit (v)許可/准許, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
+		+++ premise (n)假定/前提 (v)基於, 提出..為前提
+		- promise (n/v)保證 (n)前兆, 前途
+		- remit (v)寬恕/赦免,  匯寄/匯付, 提交/移交(問題) (n)提交/移交 --> remittance (n)匯款, 匯款額
+		- remission (n)寬恕/赦免, (疾病的)緩解期
 		+ remiss (adj)疏忽的 = negligent
-		- remission (n)寬恕/赦免, (疾病的)緩解期, 減刑
-		*** submit (v)提交, 建議, 順從/屈服
+		*** submit (v)移交 = remit, 順從/屈服, 提交/呈遞, [法]建議/主張
 		*** submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential = yielding
-		- submission (n)屈從/歸順/服從, 提交
-		- surmise (n/v)推測/猜測 = infer = guess = speculate
-		- transmit (v)傳送/傳播
+		- submission (n)移交, 移交提交/呈遞, 提交物, [法]意見/主張
+		- surmise (n/v)臆測/猜測 = infer = guess = speculate
+		- transmit (v)傳送/傳達/傳播/傳染, 傳(光、熱、聲等)/傳動, 發射/播送
 
 	mal, male 壞/不 = evil == de == dis == in == un == mis
 		- maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
-		+ malady (n)失調/疾病, 問題/弊病
-		- malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
-		- malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
-		- malcontent (adj)不滿的 (n)不滿份子/不滿現狀者/反抗者 <-- mal + content
+		++ /ˈmalədi/ malady (n)疾病 = disease = ailment, 問題/弊病 <|> /ˈmɛlədi/ melody
+		- /maˈleɪz/  malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
+		- malaprop, malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
+		- malcontent (adj)不滿的/反抗的 = dissatisified = rebellious (n)不滿份子/不滿現狀者/反抗者 <-- mal + content
 		+ malediction
 		- malevolent
 		- malfeasance (n)違法行為/瀆職 <-- mal + feasance
-		- malfunction (v)發生故障 (n)故障, 障礙
-		* malice (n)惡意 = despite = spite = rancor --> malicious (adj)惡意的/惡毒的 = malevolent = malignant = mean = malign = vicious = spiteful = wanton
-		+ /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)傷害性的/有害的 = pernicious = baleful = injurious, 惡意的 = evil = sinister = malicious = malevolent
-		+ malignant (adj)有惡意的/邪惡的 = malicious = malign = mean = wanton, (醫)惡性的/致命的 <--> benign
+		- malfunction (v)發生故障 (n)故障
+		* /ˈmalɪs/ malice (n)惡意 = despite = spite = rancor, [法]惡意/惡謀 --> malicious (adj)惡意的/惡毒的 = malevolent = malignant = mean = malign = vicious = spiteful = wanton
+		+ /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)惡意的/邪惡的 = evil = sinister = malicious = malevolent
+		+ malignant (adj)有惡意的/邪惡的 = malicious = malign = malevolent = mean = wanton, (醫)惡性的/致命的 <--> benign
 		+ malinger (v)裝病並以逃避責任 <-- mal + linger
 		- malpractice (n)怠忽職守/瀆職/營私舞弊, 誤診
-		* maltreat (v)不當處理/粗暴對待/虐待/濫用 = abuse = mishandle
+		* maltreat (v)粗暴對待/虐待 = abuse = mishandle
 
 	malle 錘 = hammer
 		+ malleable (adj)可塑的, 易改變的 = adaptable = tractable
@@ -3629,7 +3632,7 @@
 		+ manipulate (v)操縱 --> manipulative (adj)操縱別人的, 老於世故的/巧妙處理的
 		+ mannered (adj)別具一格的/做作的 = affected
 		+ maintain --> maintenance 
-		- manumit (v)解放奴隸 <--> enslave
+		- manumit (v)解放奴隸 = emancipate <--> enslave
 		- manual (adj)手工的, 體力的, 實際佔有的 (n)手冊/簡介
 		- manufacture
 		* maneuver (v)用計謀 (n)(部隊等的)調動/機動, 軍事演習, 策略/謀略
@@ -3729,7 +3732,7 @@
 
 	mur 牆 = wall, grave
 		+ demur (v)反對 = object = oppose <--> accede, 抗辯/表示異議 --> demurral (n) = objection = exception
-		+ demure (adj)端莊的/文靜的
+		+ demure (adj)端莊的/文靜的 <|> demur
 		- mural (n)壁畫 (adj)牆壁的
 		+ immure (v)監禁 = imprision, 禁閉 = confine = seclude
 
