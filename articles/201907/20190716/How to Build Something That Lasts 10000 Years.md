@@ -117,7 +117,7 @@ Probably the best example of this are the bearings that we are using for the clo
 	+ bearing
 		> 姿態 |A person's way of standing or moving.| a man of precise military bearing
 		> 舉止/風度 |The way a person behaves or conducts themselves.| she has the bearing of a First Lady
-		> 關係ㄥ關聯 |Relation; relevance.| the case has no direct bearing on the issues being considered
+		> 關係/關聯 |Relation; relevance.| the case has no direct bearing on the issues being considered
 		> 忍耐/忍受力 |The ability to tolerate something bad or to be tolerated.| school was bad enough, but now it's past bearing
 		> bearings 軸承 |A part of a machine that allows one part to rotate or move in contact with another part with as little friction as possible.|
 		> 方位/方向 |The direction or position of something, or the direction of movement, relative to a fixed point. It is usually measured in degrees, typically with magnetic north as zero.| the Point is on a bearing of 015°

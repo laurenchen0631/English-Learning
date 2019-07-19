@@ -3516,7 +3516,7 @@
 		+ relinquish (v)自願放棄/讓出 = forgo = resign = yield = release = renounce = surrender
 
 	liqu 液體 = liquid
-		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmoniousharmonious, 易換成現金的
+		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmonious, 易換成現金的
 		- liquidate (v)清算/清償, 把..換為現金, 殺
 		- liquor (n)白酒/烈酒, 汁水, 溶液
 
@@ -3617,15 +3617,15 @@
 		* maltreat (v)粗暴對待/虐待 = abuse = mishandle
 
 	malle 錘 = hammer
-		+ malleable (adj)可塑的, 易改變的 = adaptable = tractable
+		+ malleable (adj)可塑的, 順從的 = tractable = pliable
 		- mallet (n)大頭錘/木槌
 		- malleate (v)鍛/錘打
 
 	man, main, mani, manu 手 = hand
 		- emanate (v)發出/散發, 源自
-		* emancipate (v)解放 = liberate --> emancipation <|> emaciate
+		* emancipate (v)解放 = liberate <|> emaciate --> emancipation (n) 
 		+ manage (v)設法, 管理/控制
-		+ manageable (adj)可管理的/順從的 = tractable = obedient = docile
+		+ manageable (adj)易於管理的/順從的 = tractable = obedient = docile
 		- manuscript (n)手稿
 		+++ manifest (adj)顯然的 = obvious = apparent = perceptible = overt (n)旅客清單, 載貨清單 (v)表明/表露 = make clear, 證明/證實 = prove <-- mani + fest
 		- manifesto (n)宣言/聲明
@@ -3633,38 +3633,38 @@
 		+ mannered (adj)別具一格的/做作的 = affected
 		+ maintain --> maintenance 
 		- manumit (v)解放奴隸 = emancipate <--> enslave
-		- manual (adj)手工的, 體力的, 實際佔有的 (n)手冊/簡介
+		- manual (adj)手工的, 手動的, 體力的/勞力的 (n)手冊/簡介, 風琴鍵盤, 手排交通工具
 		- manufacture
-		* maneuver (v)用計謀 (n)(部隊等的)調動/機動, 軍事演習, 策略/謀略
+		* /məˈnuːvə/ maneuver (v)調動, 巧妙地操控 (n)(部隊等的)調動/機動, 軍事演習, 策略/謀略
 
 	mand, mend 命令 = order
-		* mandate (n)命令/指令, 授權 (v)授權 --> mandatory (adj)命命的/強迫的/義務的 = compulsory = obligatory
+		* mandate (n)命令/指令, 授權 (v)授權, 使必要 --> mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
-		+ command (v)命令/指示, 指揮/統率, 應得/值得, 呈現/可看到 (n)命令, 管轄, 掌握/運用能力, 景色/風
-		+ commend (v)推薦 = recommend, 委託/交托 = entrust
-		+ demand (v)強烈要求/強要 (n)強烈的要求 --> demanding (adj)費時費力的/耗費精力的 = taxing
+		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
+		+ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
+		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)費時費力的/耗費精力的 = taxing
 		- recommend (v)推薦 = commend, 建議 = suggest = advise
 
 	medi 中間
 		+ intermediary (n)仲裁者 = mediator, 媒介物 = medium (adj)中間的/媒介的 = intermediate <-- inter + media 媒體 + ary
 		* intermediate (adj)中間的/居中的/中等的
-		- mediate (v)調停/調解 = reconcile --> mediator (n)調停人 = broker = intercessor <|> meditate
-		- meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate
+		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about (adj)居中的/間接的 --> mediator (n)調解人 = broker = intercessor <|> meditate
+		- /ˈmɛdɪteɪt/ meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate
 		+ meditative (adj)沈思冥想的 = contemplative = ruminant
 		- medieval
-		+ mediocre (adj)平凡的/平庸的, 不佳的 = poor = inferior --> mediocrity (n)平庸
-		- medium -> media (n)媒介/媒體, 培養基, (生物的)生存環境, 手段/工具 (adj)中間的/中等的
+		+ /ˌmiːdɪˈəʊkə/ mediocre (adj)中庸的/中等的 --> mediocrity (n)中庸, 中庸的人
+		- medium -> media (n)媒介/媒體, 培養基, (生物的)生存環境, 手段/工具 (adj)中間的/平均的 = average
 		* premeditate (v)預先想過/預謀 --> premeditated (adj)預謀的/事先計劃的
 		+ immediate 
 	
 	meta 變化 = change, alternation
-		- metabolism (n)新成代謝 <-- meta + bol 丟 = throw + ism
+		- metabolism (n)新成代謝 --> metabolize (v)代謝 <-- meta + bol 丟 = throw + ism
 		+ metamorphose --> metamorphosis
 		+ metaphor --> metaphoric
 		+ metaphysics (n)形而上學/玄學/空談 --> metaphysical (adj)形而上學的/抽象的
 
 	mune, mun 公共/告知 = common, impartㄔ
-		- commune (n)公社 (v)親密交談/交流 = communicate --> communal (adj)公共的/共有的/共享的, 不同群體之間的
+		- commune (n)公社 (v)親密交談/交流 = communicate --> communal (adj)公共的/共有的/共享的, 不同群體之間的(爭鬥)
 		- communicate (v)交流/溝通, 傳達/表達, 傳染/傳播(疾病), (房間)互通/相連
 		+ immune (adj)免疫的, 豁免的 = exempt, 不受影響的 <--> susceptible --> immunity (n)免疫, 豁免 --> immunize (v)使免疫
 
@@ -4326,7 +4326,7 @@
 		* pretend --> pretended
 		+ pretense --> pretension --> pretentious
 		- pretext
-		+ prevail (v)戰勝 = succeed = become dominant = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail <|> travail
+		+ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail, [on/upon]說服 = persuade <|> travail
 		+ prevalent
 		+ prevaricate (v)支吾其詞 = quibble = equivocate, 說謊 = mislead = lie <-- pre + varicate 弓腳 == straddle
 		+ prevent
@@ -4821,7 +4821,7 @@
 		+ impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter --> impediment (n)妨礙, 阻礙物
 		- pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
 		- pedestal (n)基座/臺座 = base = foundation
-		+ pedestrian (adj)徒步的, 缺乏想像的/平淡的/平庸的 = unimaginative
+		+ /pɪˈdɛstrɪən/ pedestrian (adj)徒步的, 缺乏想像的/平淡的/平庸的 = unimaginative
 		+ peddle (v)兜售/叫賣, 散播 = disseminate --> peddler (n)小販 = huckster = peddler, 傳播者
 		- podiatry (n)足部治療
 		- podiatrist (n)足科醫師
@@ -6565,7 +6565,7 @@
 		* unruly (adj)任性的/不守規矩的 = untoward = fractious
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
-		- unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
+		+ unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
 		+ unseemly (adj)不適當的/不宜的 = indecorous
 		* unsentimental (adj)不感情用事的
 		- unsettle (v)使不安寧/攪亂 = disturb --> unsettling (adj)令人不安的, 擾亂的

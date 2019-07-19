@@ -181,6 +181,7 @@
     + blandish (v)哄騙 = cajole = coax = wheedle --> blandishment (n)奉承/甜言蜜語
     + /ˈblɑːzeɪ/ blase, blasé (adj)司空見慣的/不稀罕的
     ++ blatant (adj)露骨的/駭人的/公然的 = brazenly obvious = barefaced = flagrant, 吵鬧的 = clamorous = boisterous
+    + bleak (adj)荒涼的 = barren = desolate = sterile, 陰冷的 = cold = chilly, 慘淡的/無希望的 = depressing = harsh = somber = dismal
     + blemish (v)損害/破壞 = spoil = mar = impair (n)斑點/瑕疵, 缺陷/缺點 = defect = flaw = smirch
     ++ blight (v)使枯萎 = wither = decay = flag = shrivel, 破壞/阻撓 = destory = ruin = spoil = frustrate (n)植物枯萎病, 破壞因素/陰影
     ++ blithe (adj)漫不經心的 = carefree = lax = negligent, 快樂的/愉快的 = joyous = merry = jolly = boon
@@ -305,7 +306,6 @@
     ^ blast (v)爆破, 抨擊, 枯萎 (n)爆炸, 響聲, 疾風/狂風, 狂歡
     ^ blaze (v)燃燒, 開火 (n)大火, 絢爛/炫目
     ^ blazon (n)紋章/裝飾 (v)印製/精確描繪, 宣揚/誇示 = emblazon = adorn <--> efface
-    ^ bleak (adj)荒涼的 = barren = desolate = sterile, 陰冷的 = cold = chilly, 慘淡的/無希望的 = depressing = harsh = somber = dismal
     ^ blizzard (n)暴風雪
     ^ bloat (v)使膨脹/使臃腫 = bulge = swell
     ^ blockade (n/v)(地區)封鎖
@@ -652,6 +652,7 @@
     + distaff (adj)女性的 (n)女性, 女紅/女工, 紡紗桿
     + /ˈdɪðə/ dither (n/v)搖擺不定(心理) = vacillate = oscillate = falter = scruple = waver, 顫抖 = tremble = vibrate
     + /dɒf/ doff (v)脫掉 <-- do + off
+    ++ dog (n)狗, 傢伙, 無賴/流氓, 醜女人 (v)纏住/糾纏
     + /ˈdɒɡ(ə)r(ə)l/ doggerel (adj)拙劣的/粗劣的 = rude = crude = poor, 諷刺的 = comic = burlesque (n)打油詩/諷刺詩 = burlesque, 拙劣的詩 <|> cynic
     ++ dogma (n)(宗教的)教條/信條 = doctrine --> dogmatic (adj)武斷的/固執己見的 = assertive = opinionated, 教條的 --> dogmatism (n)教條主義, 武斷
     + dovetail (v)銜接/吻合 (n)鳩尾榫/楔形榫 <-- dove 鴿子 + tail 尾巴
@@ -1532,6 +1533,7 @@
 
 [L]
     + /ˈleɪbʌɪl/ labile (adj)不穩定的/不安定的 = apt or likely to change <-- lab 滑 = slip + ile
+    + lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     + laconic (adj)簡潔的 = brief = compendious = concise = curt = succinct = spartan = terse = pithy
     + lambaste (v)痛打 = beat severely, 痛罵/強烈批評 = excoriate = savage <-- lam + baste
     + /ˈlɑːs(ə)ni/ larceny (n)[法律]竊盜 = theft
@@ -1607,7 +1609,6 @@
     * /lʌst/ lust (n)性慾, 強烈的慾望 (v)貪求/渴望 --> lustful (adj)好色的/淫蕩的 = lascivious = salacious = lecherous = libidinous = wanton, 貪慾的/渴望的 <|> lustrous
 
     ^ lace (n)鞋帶/帶子, 花邊/金邊/飾帶/精細網織品
-    ^ lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     ^ lackadaisical (adj)無精打采的 = listless, 無興趣的 <-- lackaday [古]悲哉
     ^ lag (v)落後/滯留
     ^ lair (n)野獸的巢穴, 躲藏處/祕密藏身處
@@ -2063,6 +2064,7 @@
     ++ /piːk/ pique (n)生氣/慍怒 = resentment (v)使生氣/激怒 = irritate = vex = irk = provoke, 刺激/激起 = excite = arouse = provoke, 驕傲 = pride --> piquant (adj)辛辣的/開胃的 = pungent = spicy = poignant, 有趣的/刺激的 = attractive = stimulating = provocative
     +++ /ˈpɔɪnjənt/ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
     ++ pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
+    + pinnacle (n)尖塔 = spire, 山峰/頂峰 = summit
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
     + pittance (n)微薄的收入 <-- pity
@@ -2210,7 +2212,6 @@
     ^ pillory (n)(刑具)頸手枷, 示眾/受公眾嘲笑 (v)使當眾受辱/公開辱罵
     ^ pilot (n)飛行員, 領航員, 領導人
     ^ pinch (v)捏/掐 = queeze (n)一搓/一點
-    ^ pinnacle (n)尖塔 = spire, 山峰/頂峰 = summit
     ^ pinpoint (V)精確地找出或描述 (adj)非常精確地
     ^ pirate (n)海盜, 剽竊者 (v)剽竊/非法翻印, 掠奪
     ^ pirouette (n/v)（芭蕾舞）腳尖旋轉
@@ -2531,7 +2532,8 @@
     ++ slippery (adj)滑的, 不穩的 = unstable, 不精確的 = ambiguous = elusive, 狡猾的 = tricky = cunning
     + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
-    + mattering (n)略知, 少量
+    + smattering (n)略知, 少量
+    + snide (adj)暗諷的/含沙射影的, 卑鄙的 (n)卑鄙的人
     ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船、馬), 熄滅 = extinguish = quench
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
     ++ /səˈbrʌɪəti/ sobriety (n)清醒, 嚴肅 = seriousness = gravity = solemnity, 節制/適度 = temperance = moderation <-- sober
@@ -2559,6 +2561,7 @@
     + /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous <-- stay
     + stalwart (adj)健壯的 = robust = sturdy, 英勇的 = valiant, 堅定的
     + /ˈstɑːt(ə)l/ startle (v)使嚇一跳/使吃驚 = astonish = astound = shock = stupefy --> startling (adj)令人吃驚的
+    + /stɔːn(t)ʃ/ staunch (adj)忠實的/堅定的, 堅固的
     ++ steep (v)浸泡/浸透 = imbue = saturate (adj)陡峭的 = sheer, 高昂的 = exorbitant, 高聳的 = high = lofty --> steeped (adj)沉浸在……中的 = immersed = saturated
     + /stɛnˈtɔːrɪən/ stentorian (adj)聲音響亮的 = loud = orotund = resonant
     ++ /ˈstʌɪf(ə)l/ stifle (v)窒息 = suffocate = smother, 抑止/阻止 = suppress = curb = withhold  <|> stiff
@@ -2836,7 +2839,6 @@
     ^ snarl (n/v)糾纏/纏結, 吠/咆哮/吼叫
     ^ sneaking (adj)秘密的/不公開的
     ^ sneer (v)嘲笑/鄙視 = scorn = contempt = mock 
-    ^ snide (adj)暗諷的/含沙射影的, 假的, 險惡的/惡意的/卑鄙的
     ^ snip (v)剪斷
     ^ snitch (v)告密, 偷 <|> stitch
     ^ stitch (n)一針, 縫合傷口的針線, 針法, 一點點/少量 (v)縫/繡, 固定/裝訂
