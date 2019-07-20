@@ -2416,7 +2416,7 @@
 		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
 		+ effusive (adj)奔放的/過於流露感情的 = unduly demonstrative, 流出的 = overflowing
 		- infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
-		** /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n)
+		++ /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n)
 		- suffuse (v)遍布/充滿/瀰漫
 
 	funct 表現 = perform
@@ -2769,6 +2769,7 @@
 			++ immediate (adh)立即的 = instant, 現在的, 即將的/接近的, 直接的, 直覺的
 			- immemorial
 			+ immense --> immensity
+			- immoderate (adj)過度的 = excessive = extreme 
 			+ immune --> immunity --> immunize
 			+ immutable
 			- /ɪmˈpalpəb(ə)l/ impalpable (adj)無法碰觸的/無形的, 不易理解的 <-- im + palpable
@@ -3186,14 +3187,14 @@
 		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 --> interjection (n)插話, 感歎詞
-		+ object (v)反對 (n)物體/對象/目標/目的 --> objection (n)厭惡/反對
+		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對
 		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
 		- projector (n)投影機/電影放映機
 		- reject (v)拒絕, 拋棄
-		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使隸屬/使服從, 使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由
+		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使隸屬/使服從, 使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞
 		+ subjection (n)征服/制服/隸屬
 		- subjective (adj)主觀的, 想像的
 		- trajectory (n)軌道/彈道
@@ -3383,9 +3384,19 @@
 		- ligneous (adj)木質的/木頭的 = woody
 		- lignify (v)木質化
 
-	{ling} 小東西
+	{let}, {ling} 小東西
 		- duckling (n)小鴨/雛鴨
 		- underling (n)下屬
+		+ amulet (n)護身符
+		- bracelet
+		- booklet (n)小冊子 = brochure = pamphlet
+		- leaflet (n)傳單/廣告 = handbill (v)散發/發放(傳單)
+		- pamphlet (n)小冊子 = booklet = brochure
+		- droplet (n)小水滴
+		- epaulet (n)肩章/肩飾 <-- epau 肩膀 = shoulder
+		- goblet (n)高腳酒杯
+		- ringlet (n)捲髮
+		- rivulet (n)小溪/小河
 
 	lure 誘惑
 		- lure (v)引誘/誘惑 = tempt (n)餌 = bait, 誘惑物 = temptation, 誘惑力
@@ -3394,7 +3405,7 @@
 	loft 閣樓/鴿房 = air, sky
 		- aloft (adv)在空中/在高處 <|> aloof
 		- loft (n)閣樓/頂樓 = attic = garret, 頂層房間, (由工業用建築改建的)公寓
-		* lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
+		** lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
 	
 	log 比例 = ratio
 		- analogy (n)相似/類比
@@ -3417,7 +3428,7 @@
 		* logic (n)邏輯, 推理法, 道理
 		* logistic (adj) --> logistics (n)組織運作學, 後勤, 物流
 		* logistical (adj)組織運作的
-		- monolog, monologue (n)獨白 = solilpquy, 個人長篇演說
+		- monolog, monologue (n)獨白 = soliloquy, 個人長篇演說
 		+ neologism
 		- obloquy (n)破口大罵, 公開的嚴厲批評
 		- prologue (n)序言/序章 = preamble = preface
@@ -3437,18 +3448,6 @@
 		- analyst (n)分析家
 		+ /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
 
-	{let} 小東西
-		+ amulet (n)護身符
-		- bracelet
-		- booklet (n)小冊子 = brochure = pamphlet
-		- leaflet (n)傳單/廣告 = handbill (v)散發/發放(傳單)
-		- pamphlet (n)小冊子 = booklet = brochure
-		- droplet (n)小水滴
-		- epaulet (n)肩章/肩飾 <-- epau 肩膀 = shoulder
-		- goblet (n)高腳酒杯
-		- ringlet (n)捲髮
-		- rivulet (n)小溪/小河
-
 	labor, labyr 勞動 = work
 		- collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
 		+++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
@@ -3465,7 +3464,7 @@
 		- relapse (v)(疾病)復發, 故態復萌 (n)舊病復發
 
 	late 拿 = bear
-		- collate (v)對照/核對, 整理(報告、書等)
+		- collate (v)對照/核對, 整理(報告、書等) <|> collateral
 		*** translate (v)翻譯, 解釋/說明, 轉移/調動/使變動
 		+ elate (v)使得意/使興奮 = exalt <|> elevate --> elated (adj)興高采烈的 = exultant --> elation (n) = euphoria
 		*** relate (v)講述, 認同/欣賞 = identify with, 有關聯
@@ -3530,7 +3529,7 @@
 
 	lachrym 眼淚 = tear
 		+ /ˈlakrɪməʊs/ lachrymose (adj)易落淚的, 催淚的/悲傷的 = tearful = mournful = sorrowful = sad = dreary = rueful
-		- /ˈlakrɪm(ə)l/ lachrymal, lacrimal (adj)淚的/流淚的, 淚腺的 (n)眼框骨頭 = lachrymal bone, 淚瓶 = lachrymal vase
+		- /ˈlakrɪm(ə)l/ lachrymal, lacrimal (adj)淚的/流淚的, 淚腺的 (n)眼框骨 = lachrymal bone, 淚瓶 = lachrymal vase
 		- lachrymation (n)流淚
 		- lachrymator (n)催淚物質/催淚瓦斯
 
@@ -3595,14 +3594,14 @@
 		+ remiss (adj)疏忽的 = negligent
 		*** submit (v)移交 = remit, 順從/屈服, 提交/呈遞, [法]建議/主張
 		*** submissive (adj)順從的/溫順的 = compliant = obedient = servile = amenable = obsequious = deferential = yielding
-		- submission (n)移交, 移交提交/呈遞, 提交物, [法]意見/主張
+		- submission (n)移交, 提交/呈遞, 提交物, [法]意見/主張
 		- surmise (n/v)臆測/猜測 = infer = guess = speculate
 		- transmit (v)傳送/傳達/傳播/傳染, 傳(光、熱、聲等)/傳動, 發射/播送
 
 	mal, male 壞/不 = evil == de == dis == in == un == mis
-		- maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
+		+ maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
 		++ /ˈmalədi/ malady (n)疾病 = disease = ailment, 問題/弊病 <|> /ˈmɛlədi/ melody
-		- /maˈleɪz/  malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
+		- /maˈleɪz/ malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
 		- malaprop, malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
 		- malcontent (adj)不滿的/反抗的 = dissatisified = rebellious (n)不滿份子/不滿現狀者/反抗者 <-- mal + content
 		+ malediction
@@ -3629,8 +3628,8 @@
 		- manuscript (n)手稿
 		+++ manifest (adj)顯然的 = obvious = apparent = perceptible = overt (n)旅客清單, 載貨清單 (v)表明/表露 = make clear, 證明/證實 = prove <-- mani + fest
 		- manifesto (n)宣言/聲明
-		+ manipulate (v)操縱 --> manipulative (adj)操縱別人的, 老於世故的/巧妙處理的
-		+ mannered (adj)別具一格的/做作的 = affected
+		+ manipulate (v)操縱 --> manipulative (adj)操縱的(人或情況), 操作的
+		+ mannered (adj)別具一格的, 做作的 = affected
 		+ maintain --> maintenance 
 		- manumit (v)解放奴隸 = emancipate <--> enslave
 		- manual (adj)手工的, 手動的, 體力的/勞力的 (n)手冊/簡介, 風琴鍵盤, 手排交通工具
@@ -3663,60 +3662,60 @@
 		+ metaphor --> metaphoric
 		+ metaphysics (n)形而上學/玄學/空談 --> metaphysical (adj)形而上學的/抽象的
 
-	mune, mun 公共/告知 = common, impartㄔ
+	mune, mun 公共/告知 = common, impart
 		- commune (n)公社 (v)親密交談/交流 = communicate --> communal (adj)公共的/共有的/共享的, 不同群體之間的(爭鬥)
 		- communicate (v)交流/溝通, 傳達/表達, 傳染/傳播(疾病), (房間)互通/相連
 		+ immune (adj)免疫的, 豁免的 = exempt, 不受影響的 <--> susceptible --> immunity (n)免疫, 豁免 --> immunize (v)使免疫
 
 	micro, min, mini, minu 小/微 = small
-		+ diminish (v)減少/減小/降低 = curtail = abridge = abate = wane = pare = lessen = hack = scant, 貶低/輕視 = disparage = detract = belittle = scorn --> diminution (n)減少/縮減
-		* diminutive (adj)微小的 = minuscule = lilliputian
+		+ diminish (v)減少 = curtail = abate = wane = pare = lessen = scant = dwindle, 降低..的權勢或價值
+		+ /ˌdɪmɪˈnjuːʃ(ə)n/ diminution (n)減少/縮減
+		* diminutive (adj)微小的 = minuscule = lilliputian, 表示小的 (n)表示小的字詞, 暱稱/名字縮寫
 		- microbe (n)微生物
 		- microorganism (n)微生物/細菌 = bacterium
 		- microscope (adj)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
-		+ microcosm (n)小宇宙, 人類, 縮影/微觀世界 <-- micro + cosmo
-		- miniature (n)小畫像, 縮影
-		- minikin (n)嬌小的動物或人 (adj)微小的, 裝模作樣的
+		+ microcosm (n)人類, 小宇宙/縮影/微觀世界 <--> macrocosm <-- micro + cosmo
+		- miniature (n)縮樣/微型畫 (adj)小型的
+		- minikin (n)嬌小的動物或人 (adj)微小的 = small = insignificant
 		+ minimal (adj)最小的/極微的/最低限度的/最低限度的
-		+ minimize (v)使減到最少或最小 <--> maximize , 輕視 = belittle
-		- minion (n)奴才/低下之人
-		- minuet (n)小舞步
-		** /mʌɪˈnjuːt/ minute (adj)微小的 = fine = paltry, 不重要的 = trifling = paltry, 細節的/詳盡的 = detailed = particular
+		+ minimize (v)使減到最少或最小 <--> maximize, 輕視 = belittle
+		- minion (n)奴才/低下之人 = follower = underling 
+		- minuet (n)小步舞, 小步舞曲 (v)跳小步舞
+		*** /mʌɪˈnjuːt/ minute (adj)微小的 = fine = paltry, 不重要的 = trifling = paltry, 細節的/詳盡的 = detailed = particular
 		** /ˈmɪnɪt/ minute (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
-		+ minuscule (adj)微小的 = small = lilliputian = diminutive
-		- minuscular (adj)微不足道的
+		+ /ˈmɪnəskjuːl/ minuscule (adj)微小的 = small = lilliputian = diminutive, 微不足道的, 小寫的 (n)小寫字
+		- minuscular (adj) == minuscule
 		+ /mɪˈnjuːʃɪiː/ minutia (n)細節/小事 = petty details
 
 	min, minu 突出 = jug, rise, project
-		+ eminent (adj)著名的/卓越的 = prominent = distinguished = lofty, 高聳的/凸出的 = lofty = dominant, 顯眼的/顯著的 = conspicuous = protruding = prominent = projecting
-		- eminence (n)卓越/著名, 高處
-		+ imminent (adj)逼近的/即將發生的 = impending = momentary
-		+ preeminent (adj)超群的/出類拔萃的 = supreme = outstanding = sovereign
-		- prominent (adj)突起的/凸出的, 著名的/卓越的 = eminent, 顯眼的 = eminent
+		+ eminent (adj)著名的/出眾的 = prominent = distinguished, 卓越的
+		- eminence (n)卓越/著名, 高地, 皮膚上的突起物
+		+++ /ˈɪmɪnənt/ imminent (adj)逼近的/即將發生的 = impending = momentary
+		+ preeminent (adj)超群的/出類拔萃的 = supreme = outstanding = peerless = distinguished = dominant
+		- prominent (adj)著名的/重要的 = eminent, 顯眼的 = eminent, 突起的/凸出的
 
 	mir 驚奇/看 = wonder at, look
 		- admire (v)欽佩/讚賞 = adore = acclaim = appreciate = applaud = extol --> admiration (n)
-		- mirage (n)海市蜃樓
+		- mirage (n)海市蜃樓, 妄想 = chimera
 		- miraculous (adj)奇蹟般的
 		- miracle (n)奇事/奇蹟
 		- mirror (n)鏡子, 榜樣/典型/寫照 (v)反映/反射
 
 	mod, mode 方式/限制 = manner, limit
-		- immoderate (adj)過度的 = excessive = extreme 
 		- mode (n)樣式/時尚, 方法/做法/模式, 形式/種類/風格
-		* modest (adj)謙虛的 = unpretentious, 審慎的, 適度的/不太大或多的, 端莊的/穩重的
-		*** moderate (adj)中等的/適度的 = modest, 溫和的/不偏激的, 一般的/平庸的 (v)使和緩/減輕 = mitigate = temper = qualify --> moderation (n)適度/節制 = temperance = continence = sober
+		* modest (adj)審慎的, 適度的/中等的, 端莊的/穩重的
+		*** moderate (adj)中等的/適度的 = modest, 溫和的/穩健的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
+		- immoderate
 		+ modicum (n)少量
-		- modify (v)修改 = amend, 緩和 = moderate = qualify, 限制/限定 = qualify
-		+ modish (adj)時髦的 = fashionable = stylish = contemporary
-		+ modulate (v)調整/控制 = regulate
-		* monument (n)紀念碑, 歷史遺跡/遺址, 不朽的作品/偉業 --> /mɒnjʊˈmɛnt(ə)l/ monumental (adj)極大的, 紀念碑的
+		- modify (v)修改 = amend
+		+ modish (adj)[貶義]時髦的/跟隨流行的
+		+ modulate (v)調整/控制 = regulate, 使變調/改變聲調
 
 	mon 警告/提醒 = remind, warn
-		+ admonish (v)警告/責備 = reprimand = berate = revile = censure, 勸告/忠告 = advise --> admonitory (adj)
-		- monitor (n)監視器 (v)監控
-		+ premonition (n)預告/徵兆/預感 = forewarning = presentiment = hunch
-		- summon (v)召見/召集
+		+ admonish (v)警告/責備 = reprimand = berate = revile = censure, 勸告/忠告 = urge = advise --> admonitory (adj)
+		- monitor (n)監聽器/監視器, 監聽員, 顯示器/螢幕, 班長/級長 (v)監控/監聽/監測/監視
+		+ premonition (n)預感 = forewarning = presentiment = hunch
+		- summon (v)召見/召集, 緊急要求, 鼓起(勇氣), 喚起
 		
 	mono, mon 單一 = alone, single
 		- monarch --> monarchy 
@@ -4358,7 +4357,7 @@
 		- profiteer (n)奸商/謀取暴利者
 		+ profligate (adj)揮霍的 = extravagant, 放蕩的 = licentious = dissolute (n)揮霍者 <-- pro + flig 攪拌 = beat + ate
 		+ profound (adj)深的/深刻的 = deep, 淵博的/深奧的 = recondite = abstruse --> profundity (n)深度/深淵, 深奧/淵博 <-- pro + found 底 = bottom
-		- profuse
+		++ profuse --> profusion
 		- progeny
 		- prognosis
 		+ prohibit --> prohibitive
@@ -4639,7 +4638,7 @@
 		+ /ˌrɛpəˈreɪʃ(ə)n/ reparation (n)賠償/補償 = amends = compensation = recompense --> reparative (adj) <-- repair
 
 	pease, pac 和平 = peace
-		+ appease (v)使平靜/安撫/平息 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
+		+ appease (v)綏靖/對..讓步, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
 		- peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
 		* pacify (v)使平靜/安撫/平定/平息 = appease = placate
 		- pacific (adj)和解的, 溫和的/平靜的, 太平洋的
@@ -4952,12 +4951,13 @@
 		+ /ɪmˈpjuːn/ impugn (v)置疑/對...表示懷疑 = cast doubt upon
 		+ /ˈpjuːdʒɪlɪz(ə)m/ pugilism (n)拳擊/搏擊
 		- pugilist (n)拳擊手/拳師
-		+ pugnacious (adj)好鬥的
+		+ /pʌɡˈneɪʃəs/ pugnacious (adj)好鬥的
 		+ repugnant (adj)令人厭惡的 --> repugnance (n)厭惡/反感 = distaste = antagonism
 	
 	polis 城市
 		- polis (n)城邦
 		- cosmopolis
+		+ cosmopolitan --> cosmopolitanism
 		- metropolis (n)大城市 --> metropolitan (adj)大都市的 (n)大都市人
 
 	plore 喊/哀嚎 = wail
@@ -6396,7 +6396,7 @@
 	tum, turg 腫脹 = swell
 		+ contumacious (adj)不服從的 = disobedient = rebellious = pertainacious = wayward <--> compliant, (尤指對法庭命令)抗拒的
 		++ tumid (adj)腫起的/腫脹的 = swollen = distended, 隆起的 = protuberant = bulging, 誇大的 = bombastic = pompous = tumid = turgid
-		++ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil, 心煩意亂 --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
+		++ /ˈtjuːmʌlt/ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
 		++ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
 
 	terminm, term 邊界/終止 = boundary, limit, end == fin

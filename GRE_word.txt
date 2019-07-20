@@ -1536,6 +1536,7 @@
     + lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     + laconic (adj)簡潔的 = brief = compendious = concise = curt = succinct = spartan = terse = pithy
     + lambaste (v)痛打 = beat severely, 痛罵/強烈批評 = excoriate = savage <-- lam + baste
+    + lampoon (n)諷刺文章 = satire (v)以詩文諷刺
     + /ˈlɑːs(ə)ni/ larceny (n)[法律]竊盜 = theft
     + /lɑːˈ(d)ʒɛs/ largess, largesse (n)慷慨的贈予/慷慨的贈禮/巨額賞金/大禮 <|> finesse <-- large + ss(e)
     + lascivious (adj)淫蕩的/好色的 = lustful = licentious = salacious = sensual = wanton <-- lascivi 嬉鬧的 = playful, wanton + ous
@@ -1567,7 +1568,7 @@
     + /ləʊð/ loathe (v)憎恨/厭惡 = abhor --> loathsome (adj)令人憎惡的/討厭的 <|> loath
     + log (n/v)日誌/紀錄 = record (n)圓木
     + /ˈluːkə/ lucre (n)金錢/利潤 = money = profits --> /ˈluːkrətɪv/ lucrative (adj)賺錢的/有利可圖的 = profitable = remunerative
-    + /lʊˈɡuːbrɪəs/ lugubrious (adj)憂傷的 = mournful = gloomy = dismal = plaintive <-- lugubri 悲傷 = mourn + ous
+    + /lʊˈɡuːbrɪəs/ lugubrious (adj)憂傷的 = lachrymose = mournful = gloomy = dismal = plaintive <-- lugubri 悲傷 = mourn + ous
     + /lʌl/ lull (v)使入睡, 使平靜/使緩和 = soothe = subside, 使放鬆警戒 (n)暫時平息/暫時平靜 <|> /ləʊ/ low
     + lumber (v)笨重地移動/蹣跚而行/笨拙地走誒, 隨意堆放 (n)雜物, 木材 = lignum
     ++ lurid (adj)耀眼的/火紅的 = bright, 駭人的/引起轟動的 = revolting = gruesome = sensational = shocking <|> lucid
@@ -1614,7 +1615,6 @@
     ^ lair (n)野獸的巢穴, 躲藏處/祕密藏身處
     ^ laity (n)普通信徒 <--> clergy, 外行人 <-- lay 世俗 + ity
     ^ lament (n/v)悲傷/哀悼 = grief = sorrow = grieve
-    ^ lampoon (n)諷刺文章 (v)諷刺
     ^ lance (n)長矛, 魚叉
     ^ lancet (n)手術刀 <-- lance
     ^ landfill (n)垃圾堆, 垃圾掩埋場
@@ -1769,6 +1769,7 @@
     ** /mɔɪl/ moil (v)勤奮工作 = drudge = toil = travail, 旋轉 = eddy = twist (n)辛苦/麻煩 = toil = drudgery, 騷動/混亂 = confusion = turmoil = trouble <|> /ɔɪl/ oil 
     *** moist (adj)濕潤的 = damp = humid --> moisture (n)潮氣/濕氣/水分
     * monastery (n)修道院/寺院/隱修院 = cloister = convent = nunnery
+    ** /ˈmɒnjʊm(ə)nt/ monument (n)紀念碑, 歷史遺跡/遺址, 不朽的作品/偉業 --> monumental (adj)極大的, 紀念碑的
     *** moral (adj)道德上的/品性端正的 = ethic, 教訓的, 精神上的/心理上的 (n)寓意, 道德/品行/風紀
     * /ˈmɔrsəl/ morsel (n)(食物)一口/一片, 少量/一點點 <-- morse 咬 = bite + l
     * mote (n)塵埃/微粒 <|> dote <|> rote
@@ -2533,7 +2534,7 @@
     + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
     + smattering (n)略知, 少量
-    + snide (adj)暗諷的/含沙射影的, 卑鄙的 (n)卑鄙的人
+    + snide (adj)暗諷的/含沙射影的 = allusive, 卑鄙的 (n)卑鄙的人
     ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船、馬), 熄滅 = extinguish = quench
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
     ++ /səˈbrʌɪəti/ sobriety (n)清醒, 嚴肅 = seriousness = gravity = solemnity, 節制/適度 = temperance = moderation <-- sober
@@ -3028,6 +3029,7 @@
     + tribulation (n)苦難/磨難 = suffering
     +++ /ˈtrɪvɪəl/ trivial (adj)瑣細的/不重要的/無價值的 = inconsequential = lilliputian = trifling = nugatory = petty = futile = frivolous = paltry = slight, 平凡的 = commonplace = ordinary --> trivialize (v)使顯得不重要/輕視
     ++ truculent (adj)殘暴的/兇狠的 = fierce = savage = belligerent, 尖刻的 = scathing = mordant = pungent = sarcastic = sardonic = vitriolic, 好鬥的 = belligerent --> truculence (n) = aggressiveness <-- truc 兇猛 = savage + ulent
+    + truncate (v)截短/縮短 (adj)截頭的/去尾的 <-- trunk
     + /trɪst/ tryst (n/v)約會/幽會 = rendezvous = date = engagement
     + /ˈtəːpɪtjuːd/ turpitude (n)腐化/邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
     ++ /ˈtjuːtɪlɪdʒ/ tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution --> tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
@@ -3163,7 +3165,6 @@
     ^ trudge (v)跋涉 <-- tread + drudge
     ^ trumpet (n)喇叭/小號
     ^ trunk (n)樹幹, 大皮箱, 軀幹/身軀, 大血管/神經幹, 象鼻, 幹線, 男用運動短褲
-    ^ truncate (v)截短/縮短 (adj)截頭的/去尾的, 截短的 <-- trunk
     ^ truss (n/v)紮/捆/縛/綁 (n)桁架/構架, 花束
     ^ trustworthy (adj)值得信賴的/可靠的
     ^ turncoat (n)背叛者/變節者
