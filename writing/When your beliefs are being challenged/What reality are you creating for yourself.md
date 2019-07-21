@@ -95,7 +95,7 @@ When I was diagnosed with my blinding disease, I knew blindness would ruin my li
 So how do you live your life eyes wide open? It is a learned discipline. It can be taught. It can be practiced. I will summarize very briefly. 
 
 Hold yourself accountable for every moment, every thought, every detail. See beyond your fears. Recognize your assumptions. Harness your internal strength. Silence your internal critic. Correct your **misconceptions** about luck and about success. Accept your strengths and your weaknesses, and understand the difference. Open your hearts to your **bountiful** **blessings**. 
-	- misconceptions 誤解 == A view or opinion that is incorrect because based on faulty thinking or understanding.
+	- misconception 誤解 == A view or opinion that is incorrect because based on faulty thinking or understanding.
 
 Your fears, your critics, your heroes, your villains -- they are your excuses, rationalizations, shortcuts, justifications, your surrender. They are fictions you perceive as reality. Choose to see through them. Choose to let them go. You are the creator of your reality. With that **empowerment** comes complete responsibility. 
 	- empowerment

@@ -1,6 +1,11 @@
 [General]
 	- off-duty == not engaged in or occupied with regular work, not on duty 
-	- pension == A regular payment made by the state to people of or above the official retirement age and to some widows and disabled people.
+	- pension /ˈpɛnʃ(ə)n/ 
+		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
+		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
+		> 發給..退休金 |Dismiss someone from employment, typically because of age or ill health, and pay them a pension.| he was pensioned off from the army after the war
+		> 捨棄 |Discard something because it is too old or no longer wanted.| garden sheds were raided to bring out machines long since pensioned off
+		> 膳宿公寓/寄宿家庭 |A small hotel or boarding house in France and other European countries.|
 	- tenure
 		> |The conditions under which land or buildings are held or occupied| 
 		> |The holding of an office.|
@@ -92,19 +97,8 @@
 	- marketable
 		> 有市場的 |Able or fit to be sold or marketed.| the flotation will make the shares marketable
 		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
-
-[House]
-	- butler == The chief manservant of a house.
-	- manor 莊園 == A large country house with lands.
-	- detergent 洗潔劑
-	- utensil == A tool, container, or other article, especially for household use.
-	- chore 雜務 == A routine task, especially a household one.
-	- spinster 老處女 == An unmarried woman, typically an older woman beyond the usual age for marriage.
-	- cat lady == A old woman who usually lives secluded from society with her hundreds of cats. 
-	- newlywed 新婚夫婦 == A recently married person.
-	- the nuclear family 核心家庭，指以婚姻為基礎，父母與未婚子女共同居住和生活的家庭
-	- utility bill 水電費賬單
-	- dependent, dependant 受撫養者 == A person who relies on another, especially a family member, for financial support.
+	- bourgeoisie /ˌbʊəʒwɑːˈziː/ 中產階級
+	- triple bottom line 三重底線，或稱作三重盈餘，即企業盈利、社會責任、環境責任三者的統一
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -193,6 +187,7 @@
 		> 檢察官 |A person, especially a public official, who institutes legal proceedings against someone.|
 		> 告訴律師 |A barrister or other lawyer who conducts the case against a defendant in a criminal court.|
 	- grand jury 大陪審團
+	- law clerk /lɔː klɑːk/ 法官助理(通常是法學院剛畢業不久的畢業生。法官助理職位通常在法學院畢業生中很受歡迎，而且法院的級別越高，法官助理的聲望也越高)/律師助理(律師事務所的僱員，協助從事法律檢索、文書寫作等工作。其目的在於獲得一些法律上的訓練與實踐，以備將來進入律師界)
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
 	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
@@ -280,12 +275,14 @@
 		> 詐騙 |A dishonest scheme; a fraud.| an insurance scam
 		> 詐騙 |Swindle.| a guy that scams old pensioners out of their savings
 	- vagrancy 流浪罪 == the state of being or living like a vagrant 
+	- high treason 大逆罪/高度叛國罪
 	- bootlegging 販賣私酒/非法釀酒
 	- molest
 		> 調戲/猥褻 |Assault or abuse (a person, especially a woman or child) sexually.| he was charged with molesting and taking obscene photographs of a ten-year-old boy
 		> 騷擾 |Pester or harass (someone) in an aggressive or persistent manner.| the crowd were shouting abuse and molesting the two police officers
 	- sentence sb to life 判..無期徒刑
 	- serve a sentence 服刑
+	* capital punishment 死刑/極刑
 	- parole
 		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
 		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
@@ -313,10 +310,14 @@
 	- /ˈfjuːdʒɪtɪv/ fugitive (n)逃犯 (adj)轉瞬即逝的
 	+ inmate 囚犯/住院者 == A person living in an institution such as a prison or hospital.
 	- felon 重罪犯 --> felony 重罪 == A crime regarded in the US and many other judicial systems as more serious than a misdemeanour.
+	- burglar /ˈbəːɡlə/ 入室盜竊者/竊賊 == A person who commits burglary.
 	- burglary 破門竊盜
 	- auto theft 竊車 == The theft of a motor vehicle
 	- money laundering 洗錢
 	- obstruction of justice 妨礙司法公正
+	- supermax
+		> 高戒備的(監獄) |Denoting or relating to an extremely high-security prison or part of a prison, intended for particularly dangerous prisoners.|
+		> 高戒備監獄 |A supermax prison.|
 	- garnish 
 		> 裝飾 |Decorate or embellish (something, especially food)| garnish each serving with a dollop of sour cream
 		> 法院發出的讓第三債務人向判定債權人付還債務的命令 |Serve notice on (a third party) for the purpose of legally seizing money belonging to a debtor or defendant.| He told me hes gotten this type of call before over the years regarding this situation and they never garnish him
@@ -350,6 +351,10 @@
 	- reservist 預備役軍人
 	- naval 船的/海軍的 == Relating to a navy or navies.
 	- active duty == a full-time occupation as part of a military force, as opposed to reserve duty.
+	- West Point 西點軍校
+	- general staff 全體參謀/參謀部 == the group of army officers who work for and give advice to a commanding officer
+	- espionage /ˈɛspɪənɑːʒ/ 諜報活動 == The practice of spying or of using spies, typically by governments to obtain political and military information.
+	
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -390,6 +395,10 @@
 		> 繞道 |Take a long or roundabout route.| he detoured around the walls
 		> 避開 |Avoid by taking a detour.| ‘I would detour the endless stream of motor homes
 	- rush hour 交通高峰時間/交通擁擠時間
+	- traffic jam 交通阻塞
+	- gridlock
+		> 極端嚴重的交通壅塞 |A situation of very severe traffic congestion.| the city reaches gridlock during peak hours
+		> 僵局 |deadlock|
 	- flat tire 爆胎
 	- paddle wheel 明輪/槳輪
 	- ferry
@@ -399,6 +408,15 @@
 		> 擺渡 |Transport from one place to another on short or regular trips.| ambulances ferried the injured to hospital
 
 [Agriculture/Farming]
+	+ farm
+		> 農場 |An area of land and its buildings, used for growing crops and rearing animals.| a farm of 100 acres
+		> 農舍 |A farmhouse.| a half-timbered farm’
+		> 養殖場 |A place for breeding a particular type of animal or producing a specified crop.| a fish farm
+		> 出產所 |A place devoted to producing or promoting something.| an energy farm
+		> 務農 |Make one`s living by growing crops or keeping livestock.| he has farmed organically for years
+		> 把..做農場用 |Use (land) for growing crops and rearing animals.| marshes are being drained in order to farm the land
+		> 經濟耕作或養殖 |Breed or grow (a type of livestock or crop) commercially.| ostriches are farmed in South Africa and Australia
+		> |Allow someone to collect and keep the revenues from (a tax) on payment of a fee.| the customs had been farmed to the collector for a fixed sum
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
 	- compost
 		> 堆肥 |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
@@ -411,6 +429,13 @@
 	- canopy 罩 == An ornamental cloth covering hung or held up over something, especially a throne or bed.
 	- tractor 拖拉機 == A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
 	- thresher 打穀機
+	- chaff
+		> 粗糠/穀殼 |The husks of corn or other seed separated by winnowing or threshing.|
+		> 乾草/草料 |Chopped hay and straw used as fodder.|
+		> 無價值的東西 |Worthless things; rubbish.| he hopes to separate scientifically supported claims from pseudoscientific chaff
+		> 金屬箔片 |Strips of metal foil released in the air to obstruct radar detection.|
+		> 玩笑 |Light-hearted joking; banter.| we used to come in for a fair amount of ribbing and good-natured chaff
+		> 戲弄 |Tease.| the pleasures of drinking and betting and chaffing your mates
 	- bundlers 紮捆機
 	- acreage 英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
 	- meatpacking == The business of preparing and packing meat for transportation and sale.
@@ -453,6 +478,11 @@
 	- dung
 		> 動物糞便 |The excrement of animals; manure.|
 		> 施肥 |Drop or spread dung on (a piece of ground).|
+	- pasture
+		> 牧草地/放牧場 |Land covered with grass and other low plants suitable for grazing animals, especially cattle or sheep.|
+		> 放牧 |Put (animals) to graze in a pasture.| they pastured their cows in the water meadow
+		> 吃草 |(of animals) graze.| the livestock pastured and the crops grew
+		> 境地/處境 |Used to refer to a person`s situation in life.| she left the office for pastures new
 
 [Cook/Food]
 	- Worcestershire sauce 伍斯特醬
@@ -536,6 +566,10 @@
 	- skillet 長柄煎鍋/油炸鍋
 	- pantry 食品儲藏室 == A small room or cupboard in which food, crockery, and cutlery are kept.
 	- bushmeat 叢林肉，是指各種從棲身於非洲和亞洲地區的野生動物身上所獲取的食用肉，類似於中國人所指的野味
+	- cocktail /ˈkɒkteɪl/ 
+		> 雞尾酒 |An alcoholic drink consisting of a spirit or spirits mixed with other ingredients, such as fruit juice or cream.| a cocktail bar
+		> 混合物 |A mixture of substances or factors, especially when dangerous or unpleasant.| a cocktail of drugs with severe side effects
+		> 雜錦冷盤 |A dish consisting of small pieces of food, typically served cold as a starter.|
 
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
@@ -589,6 +623,8 @@
 	+ spin-off
 		> 衍生産品/副産品 |a product that develops from another more important product| The research has had spin-offs in the development of medical equipment.
 		> 衍生作品 |a programme or other show involving characters from a previous programme| The stage show is a spin-off from a television programme.
+	- sound bite 精華片段 == soundbite == A short extract from a recorded interview or speech, chosen for its succinctness or concision.
+	- sitcom 情境喜劇
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -638,7 +674,7 @@
 	- traumatize
 		> 使受精神創上 |Subject to lasting shock as a result of a disturbing experience or physical injury.| the children were traumatized by separation from their families
 		> 使受傷 |Cause physical injury to.| the dressings can be removed without traumatizing newly formed tissue
-	- paranoia (n)偏執狂/妄想狂, 疑神疑鬼/多疑
+	+ paranoia (n)偏執狂/妄想狂, 疑神疑鬼/多疑
 	- rabies /ˈreɪbiːz/ 狂犬病 --> rabid (adj)患有狂犬病的, 瘋狂的
 	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
 	- shingles 帶狀皰疹
@@ -848,6 +884,7 @@
 [Clothing/Fashion]
 	- attire (n/v)衣著/打扮
 	- barber (n)理髮師 (v)理髮
+	- mannequin /ˈmanɪkɪn/ 模特兒假人 == A dummy used to display clothes in a shop window.
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
 	- cashmere scarves 喀什米爾羊絨圍巾
 	- trench coats 風衣
@@ -901,7 +938,7 @@
 		> 花紋織物 |A linen or cotton fabric woven in a repeating pattern of small diamonds.|
 		> |Decorate (a surface) with a repeating geometrical or floral pattern.|
 	- denim 牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
-	- onesie /ˈwʌnzi/   連身衣
+	- onesie /ˈwʌnzi/ 連身衣
 	- pacifier 奶嘴
 	- fedora 男士軟呢帽 == A low, soft felt hat with a curled brim and the crown creased lengthways.
 	- scruffy 邋遢的 == Shabby and untidy or dirty.
@@ -917,7 +954,9 @@
 	- sweatshirt 運動衫
 	- hazmat suit 危險物品防護服
 	- sportswear 運動裝 == Clothes worn for sport or for casual outdoor use.
-
+	- turban /ˈtəːb(ə)n/
+		> 纏頭巾 |A man`s head covering consisting of a long length of material wound around a cap or the head, worn especially by Sikhs and Muslims.|
+		> 角蠑螺 |turban shell|
 
 [Art]
 	- the Mona Lisa
@@ -969,6 +1008,7 @@
 	- Christian	/ˈkrɪstʃ(ə)n/ (adj)基督教的 (n)基督徒
 	- christianity 基督教 == The religion based on the person and teachings of Jesus Christ, or its beliefs and practices.
 	- Catholic 天主教的
+	- evangelism /ɪˈvan(d)ʒ(ə)lɪzəm/ 福音傳道 == The spreading of the Christian gospel by public preaching or personal witness.
 	- evangelical
 		> 福音的 |Of or according to the teaching of the gospel or the Christian religion.|
 		> 福音教派的 |Of or denoting a tradition within Protestant Christianity emphasizing the authority of the Bible, personal conversion, and the doctrine of salvation by faith in the Atonement.|
@@ -998,10 +1038,12 @@
 	- synagogue 猶太教堂 == A building in which Jews meet for religious worship or instruction.
 	- Jewish == Relating to, associated with, or denoting Jews or Judaism.
 	- apostolic 使徒的 == Relating to the Apostles.
-	- baptismal 淨禮的 == Relating to the Christian rite of baptism.
+	- baptism /ˈbaptɪz(ə)m/ 洗禮/浸禮 --> baptismal 淨禮的 == Relating to the Christian rite of baptism.
+	- Baptist 浸禮宗/浸信會
 	- Gospels 福音書（《聖經》中記載耶穌生平的四福音書之一）
 	- Genesis 創世記
 	- Scripture 聖經
+	- the Second Coming of Christ 耶穌再臨，耶穌再臨是指他在未來將回到人間。這個信仰是基於正典福音書中的彌賽亞預言
 	- netherworld == The underworld; hell.
 	- sacrament 聖禮/聖餐
 	- ordain
@@ -1016,7 +1058,7 @@
 	- encyclical 諭 == A papal letter sent to all bishops of the Roman Catholic Church.
 	- Jesuit 耶穌會信徒
 	- theism == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
-	- atheism 無神論
+	- atheism 無神論 --> atheist 無神論者
 	- Islam 伊斯蘭教 --> Islamic 伊斯蘭(教)的 == Relating to Islam.
 	- prelate 高級教士 == A bishop or other high ecclesiastical dignitary.
 	- nemesis
@@ -1044,6 +1086,19 @@
 		> 神父之居地 |The house of a Roman Catholic parish priest.|
 		> 聖所 |The eastern part of a church chancel beyond the choir; the sanctuary.|
 	- transept 耳堂/袖廊 == (in a cross-shaped church) either of the two parts forming the arms of the cross shape, projecting at right angles from the nave.
+	- mosque 清真寺 /mɒsk/ == A Muslim place of worship.
+	- rapture
+		> 著迷/癡迷 |A feeling of intense pleasure or joy.| Leonora listened with rapture
+		> 狂喜 |Expressions of intense pleasure or enthusiasm about something.| the tabloids went into raptures about her
+		> 被提，是基督教末世論中的一種概念，認為當耶穌再臨之前，已死的信徒將會被復活高升，活著的信徒也將會一起被送到天上與基督相會，並且身體將升華為不朽的身體 |(according to some millenarian teaching) the transporting of believers to heaven at the Second Coming of Christ.|
+		> 被提 |(according to some millenarian teaching) transport (a believer) from earth to heaven at the Second Coming of Christ.|
+	- pilgrimage /ˈpɪlɡrɪmɪdʒ/ 
+		> 朝聖之旅 |A pilgrim`s journey.| he wanted to go on a pilgrimage to Santiago de Compostela
+		> 朝聖 |Go on a pilgrimage.|
+		> 旅行 |A journey to a place of particular interest or significance.|
+		> 人生 |Life viewed as a journey.| now is the thirty-first year of my dark pilgrimage on this earth
+	- mecca 聖地 --> Mecca 麥加
+	- Sikh /siːk/ 錫克教 <--> seek /siːk/ <--> sick /sɪk/ 
 
 [Engineer]
 	- engineer
@@ -1090,6 +1145,15 @@
 	- postdoc
 		> 取得博士學位的研究者 |A person engaged in postdoctoral research.|
 		> 博士後研究 |Postdoctoral research.|
+	- academic
+		> 學術的 |Relating to education and scholarship.| academic achievement
+		> 大學的/學院的/學校的 |Relating to an educational or scholarly institution or environment.| ‘students resplendent in academic dress
+		> 純理論的 |(of an institution or a course of study) placing a greater emphasis on reading and study than on technical or practical work.| a very academic school aiming to get pupils into Oxford or Cambridge
+		> 學究式的 |(of a person) interested in or excelling at scholarly pursuits and activities.| Ben is not an academic child but he tries hard
+		> 古典的 |(of an art form) conventional, especially in an idealized or excessively formal way.| academic painting
+		> 不切實的 |Not of practical relevance; of only theoretical interest.| the debate has been largely academic
+		> 教師/教授 |A teacher or scholar in a university or other institute of higher education.|
+	- honors degree 優等證書/優等學位，在北美，則是頒予成績優異的高中或大學畢業生。
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1171,6 +1235,21 @@
 	- envoy
 		> 使者/代表 |A messenger or representative, especially one on a diplomatic mission.| the UN special envoy to Yugoslavia
 		> 全權公使 |A minister plenipotentiary, ranking below ambassador and above chargé d`affaires.|
+
+[House]
+	- butler == The chief manservant of a house.
+	- manor 莊園 == A large country house with lands.
+	- detergent 洗潔劑
+	- utensil == A tool, container, or other article, especially for household use.
+	- chore 雜務 == A routine task, especially a household one.
+	- spinster 老處女 == An unmarried woman, typically an older woman beyond the usual age for marriage.
+	- cat lady == A old woman who usually lives secluded from society with her hundreds of cats. 
+	- newlywed 新婚夫婦 == A recently married person.
+	- the nuclear family 核心家庭，指以婚姻為基礎，父母與未婚子女共同居住和生活的家庭
+	- utility bill 水電費賬單
+	- dependent, dependant 受撫養者 == A person who relies on another, especially a family member, for financial support.
+	- tumble dryer 滾筒式烘乾機
+
 [Structure]
 	- balcony 陽台
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
@@ -1258,6 +1337,7 @@
 		> 小旅館 |a small, cheap hotel|
 		> 別館 |a small house near a larger one, where guests who are invited to the larger house can stay|
 	- bunk bed 雙層床
+	- pew /pjuː/ 靠背長椅 == A long bench with a back, placed in rows in the main part of some churches to seat the congregation.
 	- beanbag chair 豆袋椅/懶骨頭
 	- penthouse 空中別墅
 	- eaves 簷 == The part of a roof that meets or overhangs the walls of a building.
@@ -1276,6 +1356,8 @@
 	- scaffolding
 		> 鷹架 |A temporary structure on the outside of a building, made of wooden planks and metal poles, used by workmen while building, repairing, or cleaning the building.| two of the shops had scaffolding against them
 		> 鷹架材料 |The materials used in scaffolding.| a truck carrying scaffolding
+	- urinal /jʊˈrʌɪnəl/, /ˈjʊərɪn(ə)l/ 小便斗 == A bowl or other receptacle, typically attached to a wall in a public toilet, into which men may urinate.
+
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
@@ -1389,6 +1471,8 @@
 	- fidget spinner 指尖陀螺
 	- bulldozer 推土機
 	- walkie-talkie 對講機
+	- kaleidoscope /kəˈlʌɪdəskəʊp/ 萬花筒
+	- wastepaper basket 廢紙簍
 	- NATO == North Atlantic Treaty Organization 北大西洋公約組織
 	- narco
 		> 毒品 |Narcotics; illegal drugs.| the multi-billion dollar narco trade

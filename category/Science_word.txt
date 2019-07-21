@@ -10,9 +10,9 @@
 	- dozen == twelve
 	+ millennium == A period of a thousand years
 	+ millennial
-		>> |Denoting or relating to a period of a thousand years.| 
-		>> |Denoting people reaching young adulthood in the early 21st century.| 
-		>> N |A person reaching young adulthood in the early 21st century.|
+		> |Denoting or relating to a period of a thousand years.| 
+		> |Denoting people reaching young adulthood in the early 21st century.| 
+		> N |A person reaching young adulthood in the early 21st century.|
 	- parsec == A unit of distance used in astronomy, equal to about 3.26 light years
 	- mph == miles per hour
 	- light-year == 10,000,000,000,000 kilometers
@@ -114,6 +114,10 @@
 		> 機械學 |The practical study of machinery.| skills like carpentry, motor mechanics, and electrics
 		> 機件 |The machinery or working parts of something.| he looks at the mechanics of a car before the bodywork
 		> 方法/機制 |The way in which something is done or operated.| the mechanics of cello playing
+	- pink noise 粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
+	- reverberation
+		> 殘響 |Prolongation of a sound; resonance.| electronic effects have been added, such as echo and reverberation’
+		> 反衝 |A continuing effect; a repercussion.| the attack has had reverberations around the world
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
@@ -157,6 +161,7 @@
 	- pituitary gland 腦下垂體
 	- adrenal /əˈdriːn(ə)l/ 腎上腺的
 	- cortisol == hydrocortisone 皮質醇，又譯成可體松，在應付壓力中扮演重要角色，故又被稱為「壓力荷爾蒙」
+	- oxytocin /ˌɒksɪˈtəʊsɪn/ 催產素
 	- twitch
 		> 使抽搐 |Give or cause to give a short, sudden jerking or convulsive movement.| 
 		> |A short, sudden jerking or convulsive movement.|
@@ -167,9 +172,13 @@
 		it during veterinary procedures.|
 		> |Use a twitch to subdue (a horse).|
 	- endorphin /ɛnˈdɔːfɪn/ 腦內啡
+	- adrenaline /əˈdrɛn(ə)lɪn/ 腎上腺素
 	- scar tissue 癒傷組織
-	- cortex 皮質
 	- visceral (adj)內臟的, 出自內心深處的
+	- cortex
+		> 腦皮層 |The outer layer of the cerebrum (the cerebral cortex), composed of folded grey matter and playing an important role in consciousness.|
+		> 皮層/皮質 |An outer layer of another organ or body part such as a kidney (the renal cortex), the cerebellum, or a hair.|
+		> 厚皮/樹皮 |An outer layer of tissue immediately below the epidermis of a stem or root.|
 	- retina /ˈrɛtɪnə/ 視網膜
 	- receptor 受器
 	- the rods 視桿
@@ -220,8 +229,11 @@
 	+ sperm (n)精液 = semen, 精子 = spermatozoon
 	+ egg (n)卵子 = ovum, 蛋, 人/傢伙 (v)煽動
 	- sex cells 性細胞 == The sperm and egg of living things
-	- womb 子宮 == uterus
+	+ womb 子宮 == uterus <--> tomb
 	- placental 胎盤的 == Relating to a placenta.
+	- trachea /trəˈkiːə/ 氣管
+	- knee-jerk 膝躍反射
+	- sacrum /ˈseɪkrəm/ 薦骨/盆骨 == A triangular bone in the lower back formed from fused vertebrae and situated between the two hip bones of the pelvis.
 	
 [Environment]
 	- greenhouse effect

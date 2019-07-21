@@ -75,7 +75,7 @@ Third, this exercise I call "**savoring**," and this is a beautiful exercise. It
 		> 輕快地走動 |Guide (someone) in or as if in a waltz.| he waltzed her round the table
 		> 隨意地做 |Act casually, confidently, or inconsiderately.| you can't waltz in here and bark orders at me
 		> 輕鬆辦到 |Achieve something without difficulty.| the car has waltzed through test after test
-	?  Or just try this one on for size.
+	? Or just try this one on for size.
 	- choir /ˈkwʌɪə/ <--> quiet /ˈkwʌɪət/ 
 
 The next exercise is probably the most important of all of these, if you just take one thing away. This is listening positions -- the idea that you can move your listening position to what's appropriate to what you're listening to. This is playing with those filters. Remember I gave you those filters? It's starting to play with them as *levers*, to get conscious about them and to move to different places. These are just some of the listening positions, or scales of listening positions, that you can use. There are many. Have fun with that. It's very exciting. 接下來的練習 可能是這些最重要的，若然你只採取一樣練習。 這是聆聽的位置 -- 意思是，你可以移動你聆聽的位置 到適合你聆聽的什麼。這是把弄那些過濾器。 你還記得嗎？我開始時給你們這些過濾器。 開始將它們如槓桿般把弄， 以獲得有關它們的知覺和移動到不同的地方。這些只是一些可以使用的聆聽位置，或尺度聽的位置。 有很多。很有樂趣的。非常令人興奮。 

@@ -58,7 +58,6 @@ But planning time was over now. It was 11:50pm. We had 10 minutes left, and my [
 	- bourgeoisie /ˌbʊəʒwɑːˈziː/ 中產階級
 
 And right behind the Baptist Bourgeoisie were the elderly -- these men and women whose young backs had been [bent] under hot suns in the cotton fields of East Texas, and whose skin seemed to be burnt a [creaseless] [noble brown], just like the clay of East Texas, and whose hopes and dreams for what life might become outside of East Texas had sometimes been bent and broken even further than their backs. Yes, these men and women were the stars of the show for me. They had waited their whole lives for this moment, just as their [medieval] predecessors had longed for the end of the world, and just as my grandmother waited for [the Oprah Winfrey Show] to come on Channel 8 every day at 4 o'clock. And as she made her way to the altar, I [snuck right in] behind her, because I knew for sure that my grandmother was going to heaven. And I thought that if I held on to her hand during this prayer, I might go right on with her. 
-	- held on to
 	- creaseless 沒有皺紋的
 	- clay
 		> 泥土 |A stiff, sticky fine-grained earth that can be moulded when wet, and is dried and baked to make bricks, pottery, and ceramics.|
@@ -121,11 +120,11 @@ I can trace the whole drama of my life back to that night in that church when my
 		> 抵抗/抵禦 |to continue to defend a place that is being attacked| They won't be able to hold out much longer under this sort of bombardment.
 
 I held on when I arrived at Yale at 18, with the faith that my journey from [Oak Cliff], Texas was a chance to leave behind all the challenges I had known, the broken dreams and broken bodies I had seen. But when I found myself back home one [winter break], with my face planted in the floor, my hands tied behind my back and a [burglar's gun] pressed to my head, I knew that even the best [education] couldn't save me. 
-	- burglar 入室盜竊者/竊賊 == A person who commits burglary.
+	- burglar /ˈbəːɡlə/ 入室盜竊者/竊賊 == A person who commits burglary.
 
 I held on when I showed up at [Lehman Brothers] as an intern in 2008. So hopeful that I called home to inform my family that we'd never be poor again. But as I witnessed this temple of finance come crashing down before my eyes, I knew that even the best job couldn't save me. I held on when I showed up in Washington DC as a young [staffer], who had heard a voice call out from Illinois, saying, "It's been a long time coming, but in this [election], change has come to America." But as the Congress ground to a halt and the country ripped at the [seams] and hope and change began to feel like a cruel joke, I knew that even the political second coming could not save me. 
 	- hold on
-		> 等一下 | used to tell someone to wait for a short time| Hold on, I'll check in my diary.
+		> 等一下 |used to tell someone to wait for a short time| Hold on, I'll check in my diary.
 		> 等一下 |used to say that you are confused or surprised by something that you have just heard or read and want to understand it| Now hold on, Ed, that wasn't what we agreed at all!
 		> 設法存活 |to manage to stay alive or to deal with a difficult situation| We just had to hold on until help arrived.
 		> 緊握 |to hold something or someone firmly with your hands or arms| She held on tightly to his waist.
@@ -202,7 +201,7 @@ And it wasn't the [glaring] [inequality] that made me want to cry, it wasn't the
 		> 洗腎 |The clinical purification of blood by dialysis, as a substitute for the normal function of the kidney.|
 	+ stand in 頂替/代替 == to do the job that another person was going to do or usually does, or to take that person's place at an event, because they cannot be there
 		> Paula stood in for Jane, while Jane was on holiday.
-	- pick themselves up 
+	- pick oneself up 
 		> 再次站起 |to stand up again after falling| I fell to the ground but picked myself up and continued running.
 		> 恢復/再次站起 |to recover from a difficult situation| After his divorce, he picked himself up and started looking for love again.
 	- bootstrap

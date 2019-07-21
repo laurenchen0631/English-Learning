@@ -24,7 +24,7 @@ During my transition, my husband was pressing down on my [sacrum] to keep my bod
 		> 大哭 |Cry noisily, making loud, convulsive gasps.| he broke down and sobbed like a child
 		> 邊哭邊說 |Say while crying noisily.| she sobbed out her troubles to him
 		> 大哭聲 |An act or sound of sobbing.| with a sob of despair she threw herself on to the bed
-	- oxytocin ˌɒksɪˈtəʊsɪn/ 催產素
+	- oxytocin /ˌɒksɪˈtəʊsɪn/ 催產素
 	- fierce /fɪəs/ <--> fears /fɪəs/
 
 I am an American civil rights activist who has labored with communities of color since September 11, fighting unjust policies by the state and acts of hate in the street. And in our most painful moments, in the face of the fires of injustice, I have seen labors of love deliver us. My life on the frontlines of fighting hate in America has been a study in what I've come to call revolutionary love. Revolutionary love is the choice to enter into labor for others who do not look like us, for our opponents who hurt us and for ourselves. In this era of [enormous] rage, when the fires are burning all around us, I believe that revolutionary love is the call of our times. 
@@ -81,7 +81,7 @@ My first encounter with hate was in the [schoolyard]. I was a little girl growin
 
 [Fast-forward], I'm 20 years old, watching the Twin Towers fall, the [horror] stuck in my throat, and then a face flashes on the screen: a brown man with a [turban] and beard, and I realize that our nation's new enemy looks like my grandfather. And these turbans meant to represent our commitment to serve cast us as terrorists. And Sikhs became targets of hate, alongside our Muslim brothers and sisters. The first person killed in a [hate crime] after September 11 was a Sikh man, standing in front of his gas station in Arizona. Balbir Singh Sodhi was a family friend I called "uncle," murdered by a man who called himself "patriot." He is the first of many to have been killed, but his story -- our stories barely made the evening news. I didn't know what to do, but I had a camera, I faced the fire. I went to his widow, Joginder Kaur. I wept with her, and I asked her, "What would you like to tell the people of America?" I was expecting blame. But she looked at me and said, "Tell them, 'Thank you.' 3,000 Americans came to my husband's memorial. They did not know me, but they wept with me. Tell them, 'Thank you.'" Thousands of people showed up, because unlike national news, the local media told Balbir Uncle's story. Stories can create the wonder that turns strangers into sisters and brothers. 
 	- fast-forward 快進
-	- Twin Towers 世界貿易中心
+	- Twin Towers 世界貿易中心，美國紐約市曼哈頓下城的建築群，由6座大樓組成，業主為紐新港務局。自1973年4月4日啟用以來，兩棟雙塔即成為紐約著名地標之一，這兩座分別稱作「北塔」和「南塔」的高樓是當時世界上最高的建築物，超過了同在曼哈頓的帝國大廈。2001年的九一一襲擊事件導致大部分建築受到全毀到結構受損不等的重創
 
 This was my first lesson in revolutionary love -- that stories can help us see no stranger. And so ... my camera became my sword. My [law degree] became my shield. My film partner became my husband. I didn't expect that. And we became part of a generation of [advocates] working with communities facing their own fires. I worked inside of [supermax] prisons, on the shores of [Guantanamo], at the sites of mass shootings when the blood was still fresh on the ground. And every time, for 15 years, with every film, with every [lawsuit], with every campaign, I thought we were making the nation safer for the next generation. 
 	- Guantanamo 關塔那摩灣，位於古巴東南端關塔那摩省

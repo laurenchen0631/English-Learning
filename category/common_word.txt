@@ -154,6 +154,10 @@
 		> 大聲叫 |Shout something with a deep loud roar.| he bellowed out the order
 		> 大聲亂唱 |Sing (a song) loudly and tunelessly.| a dozen large men were bellowing ‘Jerusalem’
 	- beforehand 事前地 == Before an action or event; in advance.
+	+ behalf
+		> 利益 |In the interests of a person, group, or principle.| he campaigned on behalf of the wrongly convicted four
+		> 代表 |As a representative of.| he had to attend the funeral on Mama's behalf 
+		> 就..而言 |On the part of; done by.| this wasn't simply a philanthropic gesture on his behalf
 	- breed -> bred -> bred 
 	- break off 
 		> 折斷/斷開/分開 |to separate a part from a larger piece, or to become separate| He broke off a piece of chocolate.
@@ -263,6 +267,8 @@
 		> 炸毀的 |Destroyed or severely damaged by an explosion.| blown-up buildings
 		> 擴大的 |Enlarged.| a blown-up photograph
 		> 膨脹的 |Inflated; swollen.| a blown-up balloon
+	- blind to 完全沒注意到/完全不了解 == to completely fail to notice or realize something
+		> International companies are all too often blind to local needs.
 	- bill
 		> |A printed or written statement of the money owed for goods or services.| the bill for their meal came to £17
 		> |A draft of a proposed law presented to parliament for discussion.| a debate over the civil rights bill
@@ -343,6 +349,11 @@
 		> 軀體 |A person`s body, living or dead.| my obsession will last while there`s life in this old carcass
 		> 骨架 |The structural framework of a building, ship, or piece of furniture.|
 		> 殘骸 |The remains of something.| automotive carcasses stripped of radios, hubcaps and even body panels
+	- carnival
+		> 狂歡節 |An annual festival, typically during the week before Lent in Roman Catholic countries, involving processions, music, dancing, and the use of masquerade.| the culmination of the week-long carnival
+		> 嘉年華會/狂歡/歡宴 |A public event or celebration, typically held outdoors and involving stalls, entertainment, and processions.| children from Wroughton are getting ready for the village carnival
+		> |An exciting or riotous mixture of elements.| the film is a visual and aural carnival
+		> 旅遊狂歡節/旅遊遊樂場/巡迴演出 |A travelling funfair or circus.|
 	+ coach
 		> 旅客車廂 |The cheapest class of seating in an aircraft or train.|
 		> 以經濟層級地 |In economy class accommodation in an aircraft or train.| many employees are now flying coach instead of business class to Europe
@@ -593,6 +604,8 @@
 	- cut back (on sth) 減少/削減 == to spend less, do less, or use less of something
 		> The government has announced plans to cut back on defence spending by 10 percent next year.
 		> If exercise is causing you pain, you should cut back.
+	- cut through 克服 == If you cut through something difficult that usually causes problems, you quickly understand it or deal with it so that it does not cause problems for you
+		> She always manages to cut through the complex theory and get at the facts.
 	- cue up 
 		> 準備好 |To prepare something for viewing or listening| You cue up the video, I`ll get the popcorn.
 		> 排隊 |To assemble into a line, as of people who are waiting for something.| I can`t believe people are cued up already—the store doesn`t open for another 12 hours!
@@ -824,6 +837,9 @@
 		> 播種 |Plant (the ground) in furrows.| he drilled 100 acres in eight hours
 		> 鬼狒 |A dark brown baboon with a short tail and a naked blue or purple rump, found in the rainforests of West Africa.|
 		> 斜紋粗棉布 |A coarse twilled cotton or linen fabric.| sturdy clothes in drill, denim and linen
+	- drum up 召集 == to try to increase business activity or get support for something
+		> Retailers are trying to drum up sales with price cuts.
+		> If you want to build a ship, do not drum up your men to collect wood and give orders and distribute the work.
 	- descend on/upon
 		> 突襲 |Make a sudden attack on.| the militia descended on Rye
 		> 突訪 |Make an unexpected visit to.| groups of visiting supporters descended on a local pub
@@ -866,6 +882,9 @@
 		> 潰散 |Close down or dismiss (an assembly or official body)| the National Assembly was dissolved after a coup
 		> 使終結 |Annul or end (a partnership or marriage)|
 	- dealbreaker 破局 == something that is important enough to you to prevent you from agreeing to something, buying something, etc.
+	- dorky /ˈdɔːki/ 
+		> 呆頭呆腦的 |Socially inept or awkward.| he teases all the dorky kids
+		> 不時髦的 |Unfashionable.| why would anyone wear such dorky glasses?
 	- downturn (n)衰退 (v)下彎 == A decline in economic, business, or other activity.
 	- downsize
 		> 縮小 |Make (something) smaller.| I downsized the rear wheel to 26 inches
@@ -955,6 +974,13 @@
 	- extent
 	- excel at == Be exceptionally good at or proficient in an activity or subject.
 		> It’s designed to excel at what e-commerce can’t do: convene people over the mouth-watering appeal of prize ingredients and freshly prepared food.
+	+ executive
+		> 執行的 |Relating to or having the power to put plans or actions into effect.| an executive chairman
+		> 行政上的 |Denoting or relating to the part of a political administration with responsibility for putting into effect laws drawn up by the legislature.|
+		> 執行者/經理/業務主管 |A person with senior managerial responsibility in a business.| account executives
+		> 商業用 |Suitable for a senior business executive.| an executive house
+		> 執行委員會 |An executive committee or other body within an organization.| the union executive
+		> 行政部門 |The branch of a government responsible for putting decisions or laws into effect.|
 	- establish
 	- establish oneself == stay or dwell
 		> Spain had established itself in Mexico, New Mexico, Arizona, and on the California coast
@@ -1007,12 +1033,18 @@
 	- far afield 遠處
 		> Don`t go too far afield or you`ll get lost.
 	- far-off 遙遠的/久遠的
+	- fair-minded 公平對待每個人的 == treating everyone equally
+	- fast-forward 快進
 	- fault
 		> 缺點/缺陷/失誤 |An unattractive or unsatisfactory feature, especially in a piece of work or in a person`s character.|
 		> 咎/責任 |Responsibility for an accident or misfortune.| f books were not selling, it wasn`t the fault of the publishers
 		> 批評 |Criticize for inadequacy or mistakes.| her superiors could not fault her dedication to the job
 		> 斷層 |An extended break in a rock formation, marked by the relative displacement and discontinuity of strata on either side of a particular plane.|
 		> 斷裂 |(of a rock formation) be broken by a fault or faults.| the continental crust has been thinned and faulted as a result of geological processes
+	- faulty
+		> 有缺點的 |Not working or made correctly; having defects.| a faulty brake
+		> 有瑕疵的(邏輯) |(of reasoning and other mental processes) mistaken or misleading because of flaws.| faulty logic
+		> 有缺點的 |Having or displaying weaknesses.| her character was faulty
 	- figure
 		> |A number, especially one which forms part of official statistics or relates to the financial performance of a company.| by 1998, this figure had risen to 14 million
 		> |An amount of money.| a figure of two thousand pounds
@@ -1141,7 +1173,7 @@
 		> 污染 |Make foul or dirty; pollute.|
 		> foul with 堵塞的 |Clogged or choked with.| the land was foul with weeds
 		> 暴風雨的/惡劣的 |(of the weather) wet and stormy.| he walked in fair and foul weather
-	- frame
+	* frame
 		> 框 |A rigid structure that surrounds something such as a picture, door, or windowpane.|
 		> 表筐 |Place (a picture or photograph) in a frame.| he had had the photo framed
 		> 身體 |A person`s body with reference to its size or build.| a shiver shook her slim frame
@@ -1165,6 +1197,7 @@
 		> 成扇形散開 |If a group of people fan out, they move in different directions from a single point.|
 		> 散佈在 |to spread out over a wide area| The police fanned out over the west side of the park.
 	+ foreigner /ˈfɒrɪnə/ 外國人
+	- fight -> fought -> fought
 	+ fine
 		> 好的 |Of very high quality; very good of its kind.|
 		> 好的/同意的 |Used to express one`s agreement with or acquiescence to something.| anything you want is fine by me, Linda
@@ -1176,7 +1209,9 @@
 		> 使純淨 |Clarify (beer or wine) by causing the precipitation of sediment during production.| 
 		> 罰款 |A sum of money exacted as a penalty by a court of law or other authority.|
 		> 罰 |Punish (someone) for an illegal or illicit act by making them pay a sum of money.|
-	- find
+	- find -> found -> found
+	- fight sth out 通過鬥爭使得到解決
+		> I cannot help them to resolve their quarrel -- they must fight it out between them. 
 	- find out
 		> 發現 |to discover a fact or piece of information| We may never find out the truth about what happened.
 		> 察覺...不誠實 |to discover that someone has been dishonest| It was only a matter of time before someone found him out.
@@ -1271,6 +1306,17 @@
 		> 死亡 |Used as an allusive term for death.| life beyond the grave
 		> 嚴重的 |Giving cause for alarm; serious.|
 		> 嚴肅的 |Serious or solemn in manner or appearance.|
+	+ grace
+		> 優雅 |Smoothness and elegance of movement.| he moved through the water with effortless grace
+		> 風度 |Courteous good will.| he had the good grace to apologize to her afterwards
+		> graces 魅力 |An attractively polite manner of behaving.| she has all the social grace
+		> 恩典/慈悲 |the free and unmerited favour of God, as manifested in the salvation of sinners and the bestowal of blessings.|
+		> 恩典 |A divinely given talent or blessing.| the scheme has proved to be a great grace for the Church
+		> 善意 |The condition or fact of being favoured by someone.|
+		> 寬限 |A period officially allowed for payment of a sum due or for compliance with a law or condition, especially an extended period granted as a special favour.| we`ll give them 30 days` grace and then we`ll be doing checks
+		> 感恩祈禱 |A short prayer of thanks said before or after a meal.|
+		> 使增光 |Bring honour or credit to (someone or something) by one`s attendance or participation.| he is one of the best players ever to have graced the game
+		> 裝飾 |(of a person or thing) be an attractive presence in or on; adorn.| Ms Pasco has graced the front pages of magazines like Elle and Vogue
 	* gage, gauge
 		> 測量儀器 |An instrument that measures and gives a visual display of the amount, level, or contents of something.| a fuel gauge
 		> 測量法 |A means of estimating something.| emigration is perhaps the best gauge of public unease
@@ -1305,6 +1351,12 @@
 		> |(of humour) lacking genuine levity; black.|
 		> 可怕的 |(especially of a place) unattractive or forbidding.|
 		> 嚴峻的 | Unrelentingly harsh.| few creatures thrive in this grim and hostile land
+	+ grit
+		> 砂礫 |Small loose particles of stone or sand.| she had a bit of grit in her eye
+		> 砂岩 |A coarse sandstone.| layers of impervious shales and grits
+		> 佈滿砂礫 |Spread grit and often salt on (an icy road)| ‘the main roads in Plymouth will be gritted from 6.30 p.m. tonight
+		> 磨 |Grate| fine red dust that gritted between the teeth
+		> 膽量 |Courage and resolve; strength of character.|  I've known few men who could match Maude's grit
 	- gimmickry 花招/伎倆
 	- globe --> global
 		> 地球 |The earth| goods from all over the globe
@@ -1344,6 +1396,8 @@
 	- harp on 反覆訴說/嘮叨 == Talk or write persistently and tediously on (a particular topic)
 		> I don`t want to harp on about the past
 		> you need to stop harping on her age
+	- hash sth out 和其他人協商共同達成 == to talk about something with someone else in order to reach agreement about it
+		> You two hash out the details of the presentation.
 	- hear -> heard -> heard
 	- hearing
 		> 聽力 |The faculty of perceiving sounds.| people who have very acute hearing
@@ -1353,7 +1407,7 @@
 	- head-on (ADJ/ADV)
 		> 頭朝前的/迎頭 |With or involving the front of a vehicle.| they hit a bus head-on
 		> 直接的/正面針對地 |With or involving direct confrontation.| she`s a serious writer who frequently tackles social issues head-on
-	- hold
+	- hold -> held -> held
 	- hold up == remain strong or vigorous.
 		> And that creates an expectation that may not hold up when we go back and drill into the numbers
 	- hold up
@@ -1362,12 +1416,21 @@
 		> 偷竊 |to try to steal money or property from a person, a bank, or a business by using violence or threats| They held up the same store twice.
 	- hold onto/on == keep something you have
 		> One consequence of this is that states as different as Ohio and Hawaii have been considering initiatives to stem brain drain and hold onto their own talent.
+	- hold on
+		> 等一下 |used to tell someone to wait for a short time| Hold on, I'll check in my diary.
+		> 等一下 |used to say that you are confused or surprised by something that you have just heard or read and want to understand it| Now hold on, Ed, that wasn't what we agreed at all!
+		> 設法存活 |to manage to stay alive or to deal with a difficult situation| We just had to hold on until help arrived.
+		> 緊握 |to hold something or someone firmly with your hands or arms| She held on tightly to his waist.
 	+ hold on to sb/sth
 		> 緊緊抓住 |to hold something or someone firmly with your hands or your arms| Hold onto the rope and don`t let go.
 		> 保留/保存 |​to keep something you have| Hold on to your ticket - you`ll need it later.
 	- hold back == to not do something, often because of fear or because you do not want to make a bad situation worse
 		> He held back, terrified of going into the dark room.
 		> I held back during the meeting because I knew that my opinions were too controversial.
+	- hold out
+		> 伸出 |to hold something where someone else can reach it| Gail held out her glass to be refilled.
+		> 維持/持續 |to continue to be enough or continue to exist| How long will your money hold out?
+		> 抵抗/抵禦 |to continue to defend a place that is being attacked| They will not be able to hold out much longer under this sort of bombardment.
 	- holy grail 聖杯
 	- home in on 瞄準/對準/集中注意力於 == to find and move directly toward (someone or something)
 		> The missile was homing in on its target.
@@ -1468,6 +1531,10 @@
 		> 即將的/接近的 |Nearest in time, relationship, or rank.| no changes are envisaged in the immediate future
 		> 直接的 |(of a relation or action) without an intervening medium or agency; direct.| coronary thrombosis was the immediate cause of death
 		> 直覺的 |(of knowledge or reaction) gained or shown without reasoning; intuitive.|
+	+ intervention
+		> 介入 |The action or process of intervening.| a high degree of state intervention in the economy
+		> 干預 |Interference by a state in another`s affairs.| the government was reported to be considering military intervention
+		> 介入治療 |Action taken to improve a medical disorder.| two patients were referred for surgical intervention
 	+ institution
 		> 組織 |An organization founded for a religious, educational, professional, or social purpose.| an academic institution
 		> 公共團體/機構 |An organization providing residential care for people with special needs.| about 5 per cent of elderly people live in institutions
@@ -1483,13 +1550,22 @@
 		> 中級者 |A person at an intermediate level of knowledge or skill.| photography courses for beginners and intermediates
 		> 中間物 |A chemical compound formed by one reaction and then taking part in another, especially during synthesis.| a pathway leading to the formation of reactive intermediates
 	- icing on the cake 錦上添華(icing 裝飾糖霜)
-	- intrigue
+	+ intrigue
 		> 吸引 |Arouse the curiosity or interest of; fascinate.| I was intrigued by your question
 		> 神秘 |A mysterious or fascinating quality.|
-		> 策劃 | Make secret plans to do something illicit or detrimental to someone.| Henry and Louis intrigued with the local nobles
+		> 策劃 |Make secret plans to do something illicit or detrimental to someone.| Henry and Louis intrigued with the local nobles
 		> 陰謀 |The secret planning of something illicit or detrimental.|
 		> 地下情 |A secret love affair.|
 	- inspo == Inspirational
+	- itch
+		> 癢 |An uncomfortable sensation on the skin that causes a desire to scratch.|
+		> 發癢 |Be the site of or cause an itch.| the bite itched like crazy
+		> 覺得癢/發癢 |(of a person) experience an itch.| I itched all over
+		> 皮膚病 |A skin disease or condition of which itching is a symptom.|
+		> 渴望 |A restless or strong desire to do something.|
+		> 渴望 |Feel a restless or strong desire to do something.| Paul was itching to get outsid
+		> 疥瘡 |Scabies|
+		
 	
 [J]
 	- jittery 緊張的 == Nervous or unable to relax.
@@ -1521,6 +1597,8 @@
 		> 主螺栓 |A main or large bolt in a central position.| This device is secured in a normal manner by a central kingpin which is received within a slot portion of the device
 		> |A vertical bolt used as a pivot.| If your trucks feel too tight or too loose grab your wrench and adjust them by turning the nut on the kingpin
 		> 主要人物 |A person or thing that is essential to the success of an organization or operation.|
+	- know-it-all 自以為無所不知的人
+	
 [L]
 	- labor, labour
 		> |Work, especially physical work.| the price of repairs includes labour, parts, and VAT
@@ -1558,15 +1636,20 @@
 		> 萊姆綠 |lime green|
 		> 坐下閒聊 |Sit or stand around talking with others.| boys and girls were liming along the roadside as if they didn`t have anything to do
 		> 非正式社交聚會 |An informal social gathering characterized by semi-ritualized talking.|
+	- live by 根據...行動 == to behave according to a particular set of beliefs or principles
+		> He argued that even criminals have a code of ethics that they live by.
 	- lie -> lay -> lain
 	- lie in 存在於/在於 == to exist or be found in something
 		> His skill lies in his ability to communicate quite complex ideas very simply.
 		> The play`s interest lies in the questions it raises about sexuality.
 	- lay -> laid -> laid
+	- lay out
+		> 編排 |to arrange in a pattern or design; to plan something by showing how its parts fit together| The designer laid out the book with pictures on every page.
+		> 花(大錢) |to spend money, esp. if it seems like a large amount| He has laid out $40,000 to fund Little League teams in California.
 	- lay off 
-		> |to end someone’s employment, especially temporarily, because there is not enough work for them| They’ve had to cut back production and lay off workers.
-		> |to stop doing something that is annoying someone| Lay off! I’m trying to study.
-		> |to stop doing or using something, especially for a short period of time| I had to lay off the medication for a while to see if that was causing my headaches.
+		> 解僱/解聘 |to end someone’s employment, especially temporarily, because there is not enough work for them| They’ve had to cut back production and lay off workers.
+		> 停下 |to stop doing something that is annoying someone| Lay off! I’m trying to study.
+		> 暫時停止 |to stop doing or using something, especially for a short period of time| I had to lay off the medication for a while to see if that was causing my headaches.
 	- layover 短暫停留 == A period of rest or waiting before a further stage in a journey.
 	- landmark
 		> 地標 |An object or feature of a landscape or town that is easily seen and recognized from a distance, especially one that enables someone to establish their location.|
@@ -1643,6 +1726,11 @@
 		> 遊說團 |A group of people seeking to influence legislators on a particular issue.| members of the anti-abortion lobby
 		> 遊說 |An organized attempt by members of the public to influence legislators.| a recent lobby of Parliament by pensioners
 		> |Seek to influence (a legislator) on an issue.| they insist on their right to lobby Congress
+	- lull
+		> 使入睡/使平靜 |Calm or send to sleep, typically with soothing sounds or movements.| the rhythm of the boat lulled her to sleep
+		> 使放鬆警惕/哄騙 |Make (someone) feel deceptively secure or confident.| the rarity of earthquakes there has lulled people into a false sense of security
+		> 安靜下來 |(of noise or a storm) abate or fall quiet.| conversation lulled for an hour
+		> 暫時平息/暫時平靜 |A temporary interval of quiet or lack of activity.| for two days there had been a lull in the fighting
 
 [M]
 	- make up
@@ -1702,6 +1790,7 @@
 		> 誤解的 |Based on or resulting from a misunderstanding or faulty judgement.| don`t buy a hard bed in the mistaken belief that it is good for you
 	- midst == The middle part or point.
 		> The declaration, though it would turn out to have little practical consequence for the clergy, was symbolized by liturgical reform that brought the altar down from on high, into the midst of the congregation
+	- mindset 心態 == The established set of attitudes held by someone.
 	- monumental == Great in importance, extent, or size.
 		> A basilica, a monumental hall where the emperor sat in majesty, became a place of worship.
 	- market
@@ -1798,6 +1887,9 @@
 		> 政策執行機關 |The authority to carry out a policy, regarded as given by the electorate to a party or candidate that wins an election.| he called an election to seek a mandate for his policies
 [N]
 	+ narcissism 自戀狂/虛榮
+	- nerdy, nurdy
+		> 書呆子的 |Unfashionable and socially inept or boringly studious.| when I was a nerdy kid, I got bullied a lot
+		> 著迷的/狂熱的 |Characterized by an obsessive interest in something, especially technology.| my incredibly nerdy knowledge of videogames
 	- nowhere
 		> 沒有任何地方地 |Not in or to any place; not anywhere.| plants and animals found nowhere else in the world
 		> 無處 |No place.| there was nowhere for her to sit
@@ -1839,6 +1931,12 @@
 	- occupy
 	- occupy sb with sth 使...忙於... == To keep oneself or someone else busy or distracted with some activity or thing.
 		> Dan`s occupying the kids with a bug hunt in the back yard.
+	+ odds
+		> 賠率/賭注差額 |The ratio between the amounts staked by the parties to a bet, based on the expected probability either way.| Nicer is starting at odds of 8-1
+		> 可能性 |The chances or likelihood of something happening or being the case.| the odds are that he is no longer alive
+		> 優勢 |The balance of advantage; superiority in strength, power, or resources.| the odds were overwhelmingly in favour of the banks rather than the customer
+	+ long odds 為乎其微的勝率 == a poor chance of winning
+		> The team has made some major improvements, but they still face long odds.
 	- or
 	- object
 	+ oblige
@@ -1864,6 +1962,10 @@
 		> 均碼的/大小皆宜的 |A one-size-fits-all piece of clothing is designed to fit a person of any size.|
 		> 各方面都顧及的/通用的 |(intended to be) suitable for everyone or every purpose|
 	- outlay 花費 == An amount of money spent on something.
+	+ outrageous
+		> 極不道德的 |Shockingly bad or excessive.| an outrageous act of bribery
+		> 過度誇張的 |Wildly exaggerated or improbable.| the outrageous claims made by the previous government
+		> 令人吃驚的 |Very bold and unusual and rather shocking.| her outrageous leotards and sexy routines
 	* outright
 		> 完完全全地 |Wholly and completely.| logging has been banned outright
 		> |Total| the outright abolition of the death penalty
@@ -1957,6 +2059,9 @@
 		> With skills being passed on from master to apprentice, engineering was regarded as a trade rather than a profession up until the late 18th century
 	- pass for 被視為 == be accepted as == be considered
 		> "Symphonic jazz" and most of the other music that passed for jazz in the 1920`s was not real jazz at all.
+	- pass sth off as sth 拿…假冒/用…冒充
+		> The dealer was trying to pass off fakes as valuable antiques.
+		> It is hard to believe anyone would try to pass this nonsense off as literature.
 	- pass over sth  == to ignore or not mention a statement or subject
 		> 忽視/置之不理 |to ignore or not mention a statement or subject| I mentioned that you were unhappy with your salary, but it was passed over.
 		> 對(某人)不加考慮 |to not give someone a better job, choosing instead someone who is younger or has less experience| Bill was upset about being passed over for the marketing job.
@@ -1966,6 +2071,9 @@
 		> |detect; catch;| During the war, hydrophones were developed to detect to submarines but they also pick up a vast array of sound produced by sea mammals.
 		> |to increase or improve| The number of applicants will pick up during the autumn.
 		> |to answer the phone| I tried his home number but he didn`t pick up.
+	- pick oneself up 
+		> 再次站起 |to stand up again after falling| I fell to the ground but picked myself up and continued running.
+		> 恢復/再次站起 |to recover from a difficult situation| After his divorce, he picked himself up and started looking for love again.
 	- pickup
 		> 小卡車 |A small van or truck with low sides.| 
 		> 收集/整理 |An act of collecting a person or goods, especially in a vehicle.| 
@@ -1974,6 +2082,9 @@
 		> |A device that produces an electrical signal in response to some other kind of signal or change.|
 		> |The reception of signals, especially interference or noise, by electrical apparatus.| ‘this microphone helps reduce the pickup of background noise
 		> |Informal and spontaneous.|
+	- (be) pissed off 惱火的/生氣的 == annoyed
+		> He had kept me waiting for an hour so I was pissed off to start with.
+		> She seemed a bit pissed off that she had not been invited.
 	- pant
 		> 喘氣 |Breathe with short, quick breaths, typically from exertion or excitement.| he was panting when he reached the top
 		> |A short, quick breath.|
@@ -1990,7 +2101,30 @@
 		> pose as |Pretend to be (someone or something)| an armed gang posed as policemen to ambush a postman
 		> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
 		> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
-
+	+ post
+		> 柱/樁/竿 |A long, sturdy piece of timber or metal set upright in the ground and used as a support or marker.| follow the blue posts until the track meets a road
+		> 球門柱 |A goalpost.| Robertson, at the near post, headed wide
+		> 起點竿/終點竿 |A starting post or winning post.|
+		> 貼文/貼圖 |A piece of writing, image, or other item of content published online, typically on a blog or social media website or application.|
+		> 發布/貼 |Publish (a piece of writing, image, or other item of content) online, typically on a blog or social media website or application.| she posted a photo of herself with the singer on Twitter
+		> 張貼 |Display (a notice) in a public place.| a curt notice had been posted on the door
+		> 在..張貼 |Put notices on or in.| we have posted all the bars
+		> 公開/發表 |Announce or publish (something, especially a financial result)| the company posted a £460,000 loss
+		> 發布 |Publish the name of (a member of the armed forces) as missing or dead.| a whole troop had been posted missing
+		> 達到(紀錄) |(of a player or team) achieve or record (a particular score or result)|
+		> 郵件 |Letters and parcels delivered.| she was opening her post
+		> 郵遞 |A single collection or delivery of mail.| entries must be received no later than first post on 14 June
+		> 報/郵報 |Used in names of newspapers.| the Washington Post
+		> 登入/填入 |(in bookkeeping) enter (an item) in a ledger.| post the transaction in the second column
+		> 驛站郵差 |Each of a series of couriers who carried mail on horseback between fixed stages.|
+		> 用馬接力旅行 |Travel with relays of horses.| we posted in an open carriage
+		> 職位/工作 |A position of paid employment; a job.| he resigned from the post of Foreign Minister
+		> 崗位 |A place where someone is on duty or where a particular activity is carried out.| a shift worker asleep at his post
+		> 駐軍 |A force stationed at a permanent position or camp; a garrison.|
+		> |A local group in an organization of military veterans.|
+		> |The status or rank of full-grade captain in the Royal Navy.|
+		> 分發 |Send (someone) to a place to take up an appointment.|
+		> 分派 |Station (someone, especially a soldier or police officer) in a particular place.|
 	+ possess /pəˈzɛs/ 
 		> 擁有 |Have as belonging to one; own.| I do not possess a television set
 		> 具有 |Have as an ability, quality, or characteristic.| he did not possess a sense of humour
@@ -2014,8 +2148,11 @@
 	- pull of
         > |Withdraw from an undertaking.| he was forced to pull out of the championship because of an injury
         > |(of a vehicle or its driver) move out from the side of the road| as he turned the corner a police car pulled out in front of him
-	- pull off == to succeed in doing something that is difficult
-		> As recently as 2017, the retail arm was generating an estimated $5,500 in sales per square foot, easily outpacing rivals. But that’s getting harder to pull off.
+	- pull off
+		> 成功 |to succeed in doing something that is difficult| Hanley pulled off a surprise victory in the semi-final.
+		> 在..旁邊停下 |if a vehicle or driver pulls off a road, they stop by the side of it| If you’re feeling sleepy, pull off the road immediately and have a rest.
+		> 開動 |If a vehicle pulls off, it starts moving.| The car pulled off and sped up the road.
+		> 快速脫下 |to take off clothes, especially quickly| She pulled the dress off over her head.
 	- pull down 
 		> 破壞 |to destroy something, esp. a building| Many of those old buildings will soon be pulled down.
 		> 賺 |to earn an amount of money| She’s pulling down over $100,000 a year.
@@ -2033,6 +2170,10 @@
 		> He`s so moody - I don`t know why she puts up with him.
 	- pitch
 	+ phenomenon /fəˈnɒmɪnən/ -> phenomena
+	- prayer
+		> 祈禱 |A solemn request for help or expression of thanks addressed to God or another deity.| I will say a prayer for him
+		> 禱告式 |A religious service, especially a regular one, at which people gather in order to pray together.| 500 people were detained as they attended Friday prayers
+		> 祈願 |An earnest hope or wish.| it is our prayer that the current progress on human rights will be sustained
 	- practitioner 實踐者/開業者 == A person actively engaged in an art, discipline, or profession, especially medicine.
 	- privy to ==  Sharing in the knowledge of (something secret or private)
 		> he was no longer privy to her innermost thoughts
@@ -2061,6 +2202,13 @@
 		> 塗底漆 |Cover (a surface) with a primer.|
 		> 啟動(幫補) |Pour or spray liquid into (a pump) before starting in order to seal the moving parts and facilitate its operation.|
 		> 上油 |Inject extra fuel into (the cylinder or carburettor of an internal combustion engine) in order to facilitate starting.|
+	- premium
+		> 保險費 |An amount to be paid for a contract of insurance.|
+		> 加價 |A sum added to an ordinary price or charge.| customers are reluctant to pay a premium for organic fruit
+		> 紅利 |A sum added to interest or wages; a bonus.|
+		> 溢價 |The amount by which the price of a share or other security exceeds its issue price, its nominal value, or the value of the assets it represents.|
+		> 優質的 |Relating to or denoting a commodity of superior quality and therefore a higher price.|
+		> 獎品/獎金 |Something given as a reward, prize, or incentive.| the Society of Arts awarded him a premium
 	+ principal /ˈprɪnsɪp(ə)l/ 
 		> 主要的/首要的 |First in order of importance; main.| the country`s principal cities
 		> 資本的/本金的 |Denoting an original sum invested or lent.| the principal amount of your investment
@@ -2069,6 +2217,15 @@
 		> 委託人 |A person for whom another acts as an agent or representative.| stockbrokers in Tokyo act as agents rather than as principals
 		> 犯罪當事人 |The person directly responsible for a crime.|
 	+ principle /ˈprɪnsɪp(ə)l/ 
+	+ proposition
+		> 主張/論點 |A statement or assertion that expresses a judgement or opinion.| the proposition that high taxation is undesirable
+		> 命題 |A formal statement of a theorem or problem, typically including the demonstration.|
+		> 提議/建議 |A suggested scheme or plan of action, especially in a business context.| a detailed investment proposition
+		> 提議/建議 |Make an offer or suggestion to.| she had been propositioned at the party by a subeditor with bad breath
+		> 法案/議案 |A constitutional proposal; a bill.| Californian voters rejected by a two-to-one majority proposition 128
+		> 求歡 |An offer of sexual intercourse made to a person with whom one is not involved, especially one that is made in an unsubtle way.|
+		> 求歡 |Make a suggestion of sexual intercourse to (someone), especially in an unsubtle way.|
+		> 計畫/想法 |A project, task, idea, etc. considered in terms of its likely success or difficulty.| setting up your own business can seem an attractive proposition
 	- progression
 		> 發展 |The process of developing or moving gradually towards a more advanced state.| good opportunities for career progression
 		> 連續 |A number of things in a series.| the vista unfolds in a progression of castles and vineyards as seemingly endless as the Rhine itself
@@ -2312,6 +2469,9 @@
 		> While Fitz and the Tantrums had already experienced success at home, the burst of fame on TikTok persuaded the band to focus on Asia as it rolls out its new album.
 	- roll around == (of a time or event) to happen:
 		> She wondered if he would still be there when spring rolled around.
+	- roll in 到來 == to arrive
+		- What time did you roll in last night?
+		- Fog rolled in overnight.
 	- roundly
 		> 強烈地 |In a vehement or emphatic manner.| the latest attacks have been roundly condemned by campaigners for peace
 		> 徹底地 |So thoroughly as to leave no doubt.| the army was roundly beaten
@@ -2453,6 +2613,11 @@
 		> She set out with the aim of becoming the youngest ever winner of the championship.
 		> They set out to discover a cure for cancer.
 		> At 1:08 the flight crossed the Malaysian coastline and set out across the South China Sea in the direction of Vietnam.
+	+ set sb up
+		> 爲..安置職位/使就職 |to establish someone or yourself in a business or position| After he left college, his father set him up in the family business.
+		> 資助 |to provide the money that someone needs for an important task or activity that is expected to last a long time| Winning the lottery has set them up for life.
+		> 使精力充沛/使健康 |to provide someone with the energy or health that you need for a particular period of time| A good breakfast really sets you up for the day.
+		> 陷害/栽贓 |frame; to trick someone in order to make them do something, or in order to make someone seem guilty of something that they have not done| They claimed that they weren't selling drugs, but that they'd been set up by the police.
 	- setback
 		> 倒退 |A reversal or check in progress.| a serious setback for the peace process
 		> 外牆 |A plain, flat offset in a wall.|
@@ -2466,7 +2631,7 @@
 	- sew -> sewed -> sewn
 		> 縫合/縫補 |Join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.| she sewed the seams and hemmed the border
 		> 縫上 |Attach (something) to something else by sewing.| she could sew the veil on properly in the morning
-		> 縫製 |Make (a garment) by sewing.| the two sisters sewed their own dresses
+		> 縫製 |Make (a garment)` by sewing.| the two sisters sewed their own dresses
 	- shatter
 		> 打碎/粉碎 |Break or cause to break suddenly and violently into pieces.| bullets riddled the bar top, glasses shattered, bottles exploded
 		> 粉碎 |Damage or destroy (something abstract)| the crisis will shatter their confidence
@@ -2515,13 +2680,17 @@
 		> 家畜腹瀉 |scours|
 		> 搜索 |Subject (a place, text, etc.) to a thorough search in order to locate something.| David scoured each newspaper for an article on the murder
 		> 極速穿過 |Move rapidly in a particular direction, especially in search or pursuit of someone or something.| he scoured up the ladder
-	- sense
-	+ scheme	/skiːm/ 
+	+ scenario /sɪˈnɑːrɪəʊ/
+		> 情節/劇本 |A written outline of a film, novel, or stage work giving details of the plot and individual scenes.| the scenarios for four short stories
+		> 事態/局面 |A postulated sequence or development of events.| a possible scenario is that he was attacked after opening the front door 
+		> 背景設定 |A setting, in particular for a work of art or literature.| the scenario is World War Two
+	+ scheme /skiːm/ <--> skin /skiːn/
 		> 計畫/結構/體制 |A large-scale systematic plan or arrangement for attaining some particular object or putting a particular idea into effect.| the occupational sick pay scheme
 		> 陰謀/秘密計畫 |A secret or underhand plan; a plot.| police uncovered a scheme to steal paintings worth more than $250,000
 		> 密謀 |Make plans, especially in a devious way or with intent to do something illegal or wrong.| he schemed to bring about the collapse of the government
 		> 系統 |A particular ordered system or arrangement.| a classical rhyme scheme
 		> 按照配色排列 |Arrange according to a colour scheme.| she was busy arranging flowers, scheming the candles and napkins
+	- sense
 	- still
 	- stress
 	- seek -> sought -> sought
@@ -2572,9 +2741,14 @@
 	- soak up == to absorb or enjoy something that exists around you
 		> I just want to lie on the beach and soak up the sun.
 		> She soaks up everything that’s said in class.
+	- sob
+		> 大哭 |Cry noisily, making loud, convulsive gasps.| he broke down and sobbed like a child
+		> 邊哭邊說 |Say while crying noisily.| she sobbed out her troubles to him
+		> 大哭聲 |An act or sound of sobbing.| with a sob of despair she threw herself on to the bed
 	- sort
 	- sort out == to do what is necessary to deal with a problem, disagreement, or difficult situation successfully
 		> If someone brought in a busted iPhone, a Genius would sort it out.
+	
 	- strike
 	- strike down == (of a court) to decide that a law or rule is illegal and should be ignored
 		> The law resembles a Texas law struck down by Supreme Court in 2016.
@@ -2633,6 +2807,9 @@
 		> 抓住/佔領 |The action of capturing someone or something using force.| the seizure of the Assembly building
 		> 充公/扣押 |The action of confiscating or impounding property by warrant of legal right.| the seizure of all his assets
 		> 發作 |A sudden attack of illness, especially a stroke or an epileptic fit.| the patient had a seizure
+	- speak -> spoke -> spoken
+	- speak up 提高嗓門/大聲點說 == to speak in a louder voice so that people can hear you
+		> Could you speak up? We can not hear at the back.
 	- spare
 		> 額外的 |Additional to what is required for ordinary use.| few people had spare cash for inessentials
 		> 瘦的 |With no excess fat; thin.| a spare, bearded figure
@@ -2655,8 +2832,12 @@
 	- state-of-the-art == very modern and using the most recent ideas and methods
 	- sci-fi == science-fiction
 	- step
-	- step up == to take action when there is a need or opportunity for it:
+	- step up 在有需要（或有機會）時採取行動 = to take action when there is a need or opportunity for it
 		> Investors have to step up and assume more responsibility for their assets.
+		> I have had many, many colleagues who have been willing to step up and provide that practice for me. 
+	- show -> showed -> shown
+	- show up 到達/露面 == to arrive somewhere in order to join a group of people, especially late or unexpectedly:
+		> I invited him for eight o'clock, but he didn't show up until 9.30.
 	- shell out == to pay money for something, especially when the cost is unexpected and not wanted:
 		> If we lose the case, we`ll be forced to shell out.
 		> The ecosystem of esports organisms vying for resources consists of esports teams and tournament organizers, who shell out money for player salaries and flashy events with cash from investors and sponsors.
@@ -2798,6 +2979,7 @@
 		> 偷 |Steal| he snitched the umbrella for when he went fishing
 		> 告密 |Inform on someone.| she wouldn`t tell who snitched on me
 		> 告密者 |An informer.|
+	+ sneak -> sneaked/snuck -> sneaked/snuck
 	- separate
 	- separate out 捨棄/移除 == to remove (someone or something) from a group
 		> Before you put out the trash, you have to separate out the bottles and cans.
@@ -2840,6 +3022,16 @@
 		> 間接 |By an indirect way.| he came into politics sideways, as campaign manager for Ronald Reagan
 		> 非傳統的 |From an unconventional or unorthodox viewpoint.|
 	- supper 晚餐/晚飯 == An evening meal, typically a light or informal one.
+	- superior /suːˈpɪərɪə/ 
+		> 較高的/上級的 |Higher in rank, status, or quality.| a superior officer
+		> 上司/長官 |A person superior to another in rank or status, especially a colleague in a higher position|
+		> 修道院院長 |The head of a monastery or other religious institution.|
+		> 較好的/上等的 |Of high standard or quality.| superior malt whiskies
+		> 較大的/較多的 |Greater in size or power.| deploying superior force
+		> 高傲的/傲慢的 |Having or showing an overly high opinion of oneself; conceited.|
+		> |(of a letter, figure, or symbol) written or printed above the line.|
+		> |A superior letter, figure, or symbol.|
+		> 更靠近頭/更遠離腳的 |(Anatomy) Further above or out; higher in position.|
 	- static
 		> 靜態的 |Lacking in movement, action, or change, especially in an undesirable or uninteresting way.| demand has grown in what was a fairly static market
 		> 靜力的 |Concerned with bodies at rest or forces in equilibrium.|
@@ -2851,6 +3043,8 @@
 	+ stand out
 		> 顯眼 |to be very noticeable| The black lettering really stands out on that orange background.
 		> 出眾 |to be much better than other similar things or people| We had lots of good applicants for the job, but one stood out from the rest.
+	+ stand in 頂替/代替 == to do the job that another person was going to do or usually does, or to take that person`s place at an event, because they cannot be there
+		> Paula stood in for Jane, while Jane was on holiday.
 	- stately
 		> 宏偉的/堂皇的 |Impressive or grand in size, appearance, or manner.| a stately 19th-century mansion
 		> 莊嚴的/高貴的 |Slow, formal, and dignified.| a stately procession
@@ -2921,6 +3115,8 @@
 		> 製成皮革 |Convert (animal skin) into leather by soaking in a liquid containing tannic acid, or by the use of other chemicals.|
 		> 痛打 |Beat (someone) repeatedly as a punishment.| If Mickey touches a fishing net, I`ll tan his hide!
 		> 含單寧酸的樹皮 |tanbark|
+	- tag along 跟隨/尾隨 == to go somewhere with a person or group, usually when they have not asked you to go with them
+			> I do not know her, she just tagged along with us.
 	- throughout
 	- therefore /ˈðɛːfɔː/
 	- talk up == to discuss favorably == advocate == promote 
@@ -2940,7 +3136,27 @@
 	- takeoff
 		> |The action of becoming airborne| the plane accelerated down the runway for takeoff.
 		> |An act of mimicking someone or something| a pleasant takeoff on some Everly Brothers routine
-	
+	- takeaway
+		> 外帶餐 |A meal or dish bought from a shop or restaurant to be eaten elsewhere; takeout| he phoned for a takeaway
+		> 要點 |A key fact, point, or idea to be remembered, typically one emerging from a discussion or meeting.| the main takeaway for me is that we need to continue to communicate all the things we`re doing for our customers
+	- tailor
+		> 裁縫師 |A person whose occupation is making fitted clothes such as suits, trousers, and jackets to fit |
+		> 扁鰺 |tailorfish; bluefish|
+		> 裁製|(of a tailor) make (clothes) to fit individual customers.|
+		> 修改/使合適 |Make or adapt for a particular purpose or person.|
+	- tear -> tore -> torn
+	- tear up
+		> 撕毀/銷毀 |to destroy something such as a piece of paper or cloth by pulling it into pieces| I tore up all the photos of my old boyfriend.
+		> 拒絕 |to refuse to accept something such as an agreement any longer| We will tear up the whole treaty rather than accept this clause.
+		> 使不開心/使難過 |to make someone feel very unhappy or upset| It tears me up to leave you.
+		> 眼框泛淚 |to become tearful| She teared up as the award was presented to her.
+	+ tend
+		> 趨向 |Regularly or frequently behave in a particular way or have a certain characteristic.| written language tends to be formal
+		> 朝向 |Go or move in a particular direction.| fire is hot and tends upwards
+		> 照料 |Care for or look after; give one's attention to.| Varela tended plants on the roof
+		> 管理 |Direct or manage; work in.| I've been tending bar at the airport lounge
+	+ tend to/towards 傾向/易於 == Be liable to possess or display (a particular characteristic)
+		> Walter tended towards corpulence
 	- true of sb/sth == based on facts or things that really happen, and not made up
 		> While animal communication systems are genetically inherited, this is not true "of human language" 
 		> It rains a lot in the northwest, and that is especially true of Cumbria.
@@ -3060,9 +3276,34 @@
 		> 烘/取暖 |Warm (oneself or part of one`s body) in front of a fire or other source or heat.| Tim was toasting his feet by the fire
 		> 祝酒/敬酒 |A call to a gathering of people to raise their glasses and drink together in honour of a person or thing, or an instance of drinking in this way.| he raised his glass in a toast to his son
 		> |Drink to the health or in honour of (someone or something) by raising one`s glass together with others.| happy families toasting each other`s health
+	+ tongue
+		> 舌 |The fleshy muscular organ in the mouth of a mammal, used for tasting, licking, swallowing, and (in humans) articulating speech.|
+		> 牛舌/羊舌 |The tongue of an ox or lamb as food.|
+		> 說話方式 |Used in reference to a person`s style or manner of speaking.| he was a redoubtable debater with a caustic tongue
+		> 方言 |A particular language.| ‘the girls were singing in their native tongue
+		> |A strip of leather or fabric under the laces in a shoe, attached only at the front end.|
+		> |The free-swinging metal piece inside a bell which is made to strike the bell to produce the sound.|
+		> |A long, low promontory of land.|
+		> |A projecting strip on a wooden board fitting into a groove on another.|
+		> |The vibrating reed of a musical instrument or organ pipe.|
+		> 火舌 |A jet of flame.| a tongue of flame flashed from the gun Eugene has worked out the correct tonguing
+		> 用舌頭吹 |Sound (a note) distinctly on a wind instrument by interrupting the air flow with the tongue.|
+		> 舔 |Lick or caress with the tongue.| the other horse tongued every part of the colt`s mane
+
 	- touchstone
 		> 試金石 |A piece of fine-grained dark schist or jasper formerly used for testing alloys of gold by observing the colour of the mark which they made on it.|
 		> 標準 |A standard or criterion by which something is judged or recognized.| They tend to regard grammar as the touchstone of all language performance
+	- trot
+		> 小跑/快跑 |(with reference to a horse or other  quadruped) proceed or cause to proceed at a pace faster than a walk, lifting each diagonal pair of legs alternately.| the horses trotted slowly through the night
+		> 小跑 |A trotting pace.| our horses slowed to a trot
+		> 快跑/急行 |(of a person) run at a moderate pace with short steps.| the child trotted across to her obediently
+		> 快跑 |An act or period of trotting.| you might like an early morning trot round the crew deck
+		> 走/漫步 |Go or walk briskly.| I may trot round to Portobello market for vegetables
+		> the trots 腹瀉 |Diarrhoea|
+	- trot sth out 動不動就提出/重複說 == Provide an explanation or piece of information that has already been used many times before
+		> everyone trots out the old excuse
+		> You trot out that argument whenever I try to discuss this with you.
+		> Whenever I ask him why his work is late, he just trots out the same old excuses.
 	+ tout /taʊt/ 
 		> 兜售 |Attempt to sell (something), typically by a direct or persistent approach.| Sanjay was touting his wares
 		> 宣揚/吹捧 |Attempt to persuade people of the merits of.| she was touted as a potential Prime Minister
@@ -3145,7 +3386,9 @@
 		> 在下面 |(especially of a layer of rock or soil) lie or be situated under (something)| limestone underlies much of the site
 		> 是...的基礎 |Be the cause or basis of (something)| the fundamental issue which underlies the conflict
 	+ underneath /ʌndəˈniːθ/ 
-	
+	+ uphold
+		> 肯定/支持 |Confirm or support (something which has been questioned)| the court upheld his claim for damages
+		> 維護 |Maintain (a custom or practice)| they uphold a tradition of not causing distress to living creatures
 [V]
 	- vault
 		> 拱頂 |A roof in the form of an arch or a series of arches, typical of churches and other large, formal buildings.| a Gothic ribbed vault
@@ -3169,17 +3412,62 @@
 	- vie -> vying 競爭 == Compete eagerly with someone in order to do or achieve something.
 		> the athletes were vying for a place in the British team
 	* vigilant 警戒的 == Keeping careful watch for possible danger or difficulties.
+	+ verbal
+		> 言語的/字句的 |Relating to or in the form of words.| the root of the problem is visual rather than verbal
+		> 口頭的/非書面的 |Spoken rather than written; oral.| a verbal agreement
+		> 嘮叨的 |Tending to talk a lot.| he is very verbal
+		> 動詞的 |Relating to or derived from a verb.| a verbal adjective
+		> 準動詞 |A word or words functioning as a verb.|
+		> 動名詞 |A verbal noun.|
+		> 電影歌詞 |The lyrics of a song or the dialogue of a film.| it is the responsibility of the directors to do better with the verbals
 [W]
 	- waffle
 		> 猶豫不決 |Fail to make up one`s mind.| Joseph had been waffling over where to go
 		> 猶豫 |A failure to make up one`s mind.| his waffle on abortion
 		> 鬆餅 |A small crisp batter cake, baked in a waffle iron and eaten hot with butter or syrup.|
 		> 蜂巢狀的 |Denoting a style of fine honeycomb weaving or a fabric woven to give a honeycomb effect.|
+	- waltz /wɔːlts/
+		> 華爾滋 |A dance in triple time performed by a couple, who as a pair turn rhythmically round and round as they progress around the dance floor.|
+		> 圓舞曲 |A piece of music written for or in the style of a waltz.|
+		> 跳華爾滋 |Dance a waltz.| I waltzed across the floor with the lieutenant
+		> 輕快地走動 |Guide (someone) in or as if in a waltz.| he waltzed her round the table
+		> 隨意地做 |Act casually, confidently, or inconsiderately.| you cannot waltz in here and bark orders at me
+		> 輕鬆辦到 |Achieve something without difficulty.| the car has waltzed through test after test
+	- wag /waɡ/ 
+		> 擺動 |(especially with reference to an animal`s tail) move or cause to move rapidly to and fro.| his tail began to wag
+		> 擺動 |A single rapid movement from side to side.| a chirpy wag of the head
+		> 搖動手指表示否定 |Move (an upwards-pointing finger) from side to side to signify disapproval.| ‘she wagged a finger at Elinor
+		> 愛說笑的人 |A person who makes jokes; a joker.|
+	- warp
+		> 使變形/使彎曲 |Make or become bent or twisted out of shape, typically as a result of the effects of heat or damp.| moisture had warped the box
+		> 變形 |A twist or distortion in the shape of something.| the head of the racket had a curious warp
+		> 使扭曲 |Make abnormal or strange; distort.| your judgement has been warped by your obvious dislike of him
+		> 曲解/異常 |An abnormality or perversion in a person`s character.| no mind is more capable of warps than his
+		> |(with reference to a ship) move or be moved along by hauling on a rope attached to a stationary object ashore.| crew and passengers helped warp the vessels through the shallow section
+		> 絞船索/拖船索 |A rope attached at one end to a fixed point and used for moving or mooring a ship.|
+		> 經編 |(in weaving) arrange (yarn) so as to form the warp of a piece of cloth.| cotton string will be warped on the loom in the rug-weaving process
+		> 經線 |(in weaving) the threads on a loom over and under which other threads (the weft) are passed to make cloth.| the warp and weft are the basic constituents of all textiles
+		> |Cover (land) with a deposit of alluvial soil by natural or artificial flooding.| the main canal may be cut so as to warp the lands on each side of it
+		> 曲速 |Relating to or denoting (fictional or hypothetical) space travel by means of distorting space–time.| warp speed
 	- walk
 	- walk off 因憤怒或不滿而離開 == to leave a place because you are angry or unhappy about something:
 		> She threatened to walk off the film set because of the conditions
 		> He refused to discuss it and just walked off in a huff.
-			- walk off == to leave a place because you are angry or unhappy about something
+	- wash up
+		> 洗手 |To become clean by scrubbing with soap and water, especially one`s hands and face.| I`ve been out digging in the garden all morning, so I would like to wash up before we go anywhere tonight.
+		> 清洗 |to clean [oneself] up for something, such as a meal.| Please wash up for dinner
+		> 把..沖上岸 |(for water or the waves) to bring someone or something up onto the shore or beach| The waves washed a bottle up.
+		> 終結.. |to terminate someone in something| This error is going to wash you up as an account executive.
+	- wash over
+		> 徹底地影響 |to affect or be felt by (someone) thoroughly and deeply| Just close your eyes and let the music wash over you.
+		> 突然表現在臉上 |to appear on (a person`s face) suddenly| A look of surprise washed over his face.
+	+ ward
+		> 病房 |A separate room in a hospital, typically one allocated to a particular type of patient.|
+		> 送..到病房 |Admit (a patient) to a hospital ward.| the last of the accident victims was warded
+		> 選區/區 |An administrative division of a city or borough that typically elects and is represented by a councillor or councillors.|
+		> 受監護的未成年人 |A child or young person under the care and control of a guardian appointed by their parents or a court.|
+		> |Any of the internal ridges or bars in a lock which prevent the turning of any key which does not have grooves of corresponding form or size.|
+		> 城池 |An area of ground enclosed by the encircling walls of a fortress o
 	- wonder
 		> 驚奇 |A feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar| he observed the intricacy of the ironwork with the wonder of a child
 		> 感到驚訝 |Feel admiration and amazement; marvel.| people stood by and wondered at such bravery
@@ -3233,6 +3521,7 @@
 	- wear down 使精疲力盡 == to make someone feel tired and less able to deal successfully with a situation
 		> Both sides are trying to wear the other down by being obstinate in the negotiations.
 		> All the stress and extra travel is beginning to wear him down.
+	- worn-down 磨損不堪的
 	- weirdo 怪人 == A person whose dress or behaviour seems strange or eccentric.
 	- wreak
 		> 造成 |Cause (a large amount of damage or harm)| torrential rainstorms wreaked havoc yesterday
@@ -3256,6 +3545,8 @@
 		> 環/花圈 |An arrangement of flowers, leaves, or stems fastened in a ring and used for decoration or for laying on a grave.| the Queen laid a wreath at the Cenotaph
 		> 圈狀雲霧 |A curl or ring of smoke or cloud.|
 	- window of opportunity 機會之窗
+	- wind up 陷入/捲入 == to find yourself in an unexpected and usually unpleasant situation, especially as a result of what you do
+		> If he keeps doing stuff like that he is going to wind up in prison!
 
 [Z]
 	- zoned in 專注的 == focused
