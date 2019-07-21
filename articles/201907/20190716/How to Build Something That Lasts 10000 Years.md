@@ -75,7 +75,7 @@ Underground
 Many of the best preserved artefacts probably spent most of their time underground. The subterranean environment protects them from sunlight and generally keeps a very stable temperature. The rise and fall of temperature accelerates oxidation and aging. In fact, when manufacturers do rapid aging tests for materials, it is done largely through cycling temperatures up and down (and chemical effects, which we will get to next).
 The ornate tombs of Luxor, Egypt, cave paintings such as Lascaux in the Les Eyzies valley of the Dordogne in southwestern France, and even delicate artefacts such as the Dead Sea Scrolls were all preserved underground for thousands of years. It is no wonder that modern efforts of preservation such as the Global Seed Vault, nuclear waste repositories and archives are all built beneath the surface.
 	- Les Eyzies 萊塞濟-德泰亞克西勒伊，是法國多爾多涅省的一個市鎮
-	- the Dordogne 多爾多涅，法國阿基坦-利木森-普瓦圖-夏朗特大區東北部的一個省份，為法國第二大省，首府佩里格
+	- Dordogne 多爾多涅，法國阿基坦-利木森-普瓦圖-夏朗特大區東北部的一個省份，為法國第二大省，首府佩里格
 There is, however, one serious drawback to trying to preserve things underground – water. I have visited nuclear waste sites in the US and Europe, the Global Seed Vault, and the Mormon Genealogical Archive – and in every case they are fighting a losing battle to keep water out. Over centuries and millennia, water will always find a way in. The only successful mitigations of water I have seen are when it is redirected rather than blocked. The ancient rice paddies of Asia are a testament to the effectiveness of carefully directing water over thousands of years.
 	- the Mormon Genealogical Archive 
 	- mitigation 減輕/緩和 == The action of reducing the severity, seriousness, or painfulness of something.

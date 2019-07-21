@@ -46,10 +46,10 @@ Chamberlain edits each video she makes for between 20 and 30 hours, often at str
 	- zoned in 專注的 == focused
 		> if you’re watching a movie and you’re so zoned in you don’t even remember what real life is
 Like other professional social media users, the work has taken a physical toll on her. (She releases roughly one video a week.) She used to edit at a desktop, but she developed back pain. Now she works from her bed. She keeps blue mood lighting on, but her vision has deteriorated. She wears reading glasses “like I’m 85 years old, because my eyes do actually get really strained.”
-	- take a toll 造成痛苦、傷亡或破壞 == If something takes its/a toll, it causes suffering, deaths, or damage.
-		> The problems of the past few months have taken their toll on her health and there are shadows under her eyes.
-		> The deepening recession has also taken its toll in the south of the country, where unemployment is rife.
-		> Like other professional social media users, the work has taken a physical toll on her. 
+		- take a toll 造成痛苦、傷亡或破壞 == If something takes its/a toll, it causes suffering, deaths, or damage.
+			> The problems of the past few months have taken their toll on her health and there are shadows under her eyes.
+			> The deepening recession has also taken its toll in the south of the country, where unemployment is rife.
+			> Like other professional social media users, the work has taken a physical toll on her. 
 She’s training herself for long-distance editing. “I’ve actually gotten to a point now where I feel like I’m really, really mentally strong and I don’t really lose my marbles as often,” she said.
 	- lose my marble 發瘋 == The act or process of going crazy, usually caused by life stressors
 		> I am losing my marbles staying locked up in this jail cell.
@@ -100,7 +100,7 @@ YouTubers tend to bond and/or feud with one another constantly, because this is 
 		> 經濟膨脹的 |Showing marked economic inflation.| the overheated market for homes
 	- B.S. == Bullshit
 Viewers try to enact drama on her. They speculate about which YouTuber she’s dating, or which friends she’s on the outs with. They worry about or criticize how she looks. Some declare her fake, because she’s been doing content with advertisers.
-	- on the outs 與..不合 == in a state of disagreement or unfriendliness
+	- on the outs (with sb) 與..不合 == in a state of disagreement or unfriendliness
 		> Dick is on the outs with his father.
 
 “It breaks me to bits when I see the backlash because her hair and makeup is this way or that way,” her mother said. “That’s what worries me. It makes her sad and hurts her feelings like any human being. Now it’s not just two girls in high school, we’re talking thousands of people on social media.”
@@ -121,7 +121,6 @@ Chamberlain’s most popular videos tend to be collaborations, which tap the str
 		> 天橋/平交道 |A point or place of crossing from one side to the other.|
 		> 成名 |The process of achieving success in a different field or style, especially in popular music.|
 		> 交叉 |Relating to or denoting trials of medical treatment in which experimental subjects and control groups are exchanged after a set period.| a crossover study
-		> 
 	- crossover event 穿越/跨界
 		> Chamberlain’s most popular videos tend to be collaborations, which tap the strength of multiple audiences like any crossover event.
 In one video from June, Chamberlain and the Dolans pretended to be studying for high school finals, playing with the stereotype of YouTubers as stupid slackers and praising students who might be studying for real.

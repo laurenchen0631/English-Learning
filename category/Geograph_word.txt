@@ -42,7 +42,7 @@
 		> 廣袤的地區 |A wide continuous area of something.| the green expanse of the forest
 		> 展開的距離 |The distance to which something expands or can be expanded.| the moth has a wing expanse of 20 to 24 mm
 	* landform 地形/地貌 == A natural feature of the earth`s surface.
-	
+	- ice sheet 冰層
 
 [Race]
 	- African American 非裔美國人
@@ -54,6 +54,10 @@
 		> 聯邦士兵 |A Federal soldier in the Civil War.|
 		> |A bet on four or more horses to win (or be placed) in different races.|
 		> |A code word representing the letter Y, used in radio communication.|
+	- Samburu (n)桑布魯人 (adj)桑布魯人的
+
+[Language]
+	- Swahili 斯瓦希里語，是非洲語言使用人數最多的語言之一，和阿拉伯語及豪薩語並列非洲三大語言
 
 [Asia]
 	- Chechen 車臣共和國，俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
@@ -67,6 +71,9 @@
 	- Kremlin 克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
 	- Baghdad 巴格達，伊拉克首都
 	- Islamic State 伊斯蘭國，是一個活躍在伊拉克和敘利亞的薩拉菲聖戰主義組織以及未被世界廣泛認可的政治實體
+	- the Taj Mahal 泰姬瑪哈陵，是位於印度北方邦阿格拉的一座用白色大理石建造的陵墓
+	- Taliban 塔利班，意譯為神學士，是發源於阿富汗坎達哈地區的遜尼派伊斯蘭原教旨主義武裝恐怖組織
+	 the Buddhas of Bamiyan 巴米揚大佛，是曾經坐落在阿富汗巴米揚谷內山崖上的兩尊立佛像，建於公元六世紀，是希臘式佛教藝術的經典作品，這兩尊佛像在2001年被塔利班炸毀。
 
 [Europe]
 	- Chad 查德，是非洲中部的一個內陸國家
@@ -76,6 +83,10 @@
 [Europe POI]
 	- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
 	- South-West England 西南英格蘭，英格蘭下轄的9個次級行政區之一，也是英國國內最為風景優美且歷史悠久的地區之一
+	- Svalbard 斯瓦爾巴/冷岸群島，是位於北極地區的群島，亦是挪威最北界的國土範圍
+	- Dordogne 多爾多涅，法國阿基坦-利木森-普瓦圖-夏朗特大區東北部的一個省份，為法國第二大省，首府佩里格
+	- the Egyptian Valley of Kings 帝王谷，埃及埋葬古埃及新王國時期18到20王朝的法老和貴族的一個山谷
+	- Fourth Arrondissement 巴黎第四區
 
 [Americas]
 	- Arizona 亞利桑那州。首府和最大城市是鳳凰城。
@@ -154,6 +165,9 @@
 	- the Yosemite Valley 優勝美地谷
 	- West Coasts 美洲西岸指美國西部的州。一般包括阿拉斯加，華盛頓州，奧勒岡州和加利福尼亞
 	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
+	- Petra 佩特拉，約旦的一座古城，位於安曼南250公里處，隱藏在阿拉伯谷東側的一條狹窄的峽谷內
+	- Machu Picchu 馬丘比丘是祕魯一個著名的前哥倫布時期時印加帝國的遺蹟，西北方距庫斯科130公里，整個遺址高聳在海拔2350—2430米的山脊上
+	- the Bay of Pig 豬玀灣，為卡索內斯灣的其中一個小灣，位於古巴南部海岸
 
 [World]
 	- Afrikaans 南非語
@@ -272,6 +286,8 @@
 	- Ivan Kupala 伊凡·庫帕拉節，是聖若翰洗者慶晨在斯拉夫文化的版本，是當地人民慶祝夏至的節日。
 	- Yalda 雅爾達之夜，在一年中最長的黑夜，即北半球冬至這一天慶祝的伊朗節日
 	- Saturnalia 農神節
+	- ticker-tape parade 紙帶遊行，人們從街邊兩側高樓向外拋撒紙屑，以此向遊行隊伍中取得成就的某人表達敬意
+	- Easter 復活節，又稱主復活日，是基督宗教的重要節日之一
 
 [Ocean]
 	- the Pacific Ocean

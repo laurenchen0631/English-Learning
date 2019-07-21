@@ -84,12 +84,14 @@
 	- kangaroo 袋鼠
 	- koala 無尾熊
 	- numbat 袋食蟻獸
+	- lowland gorilla 西部低地大猩猩
 	- chimpanzee /tʃɪmpanˈziː/ 黑猩猩
 	- snowshoe hare 白靴兔
 	- caribou /ˈkarɪbuː/ 馴鹿
 	- lynx /lɪŋks/ 山貓
 	- sea otter 海獺
 	- wolverine 貂熊
+	- rhino /ˈrʌɪnəʊ/ 犀牛 == rhinoceros
 	- caiman, cayman 鱷魚 == A semiaquatic reptile similar to the alligator but with a heavily armoured belly, native to tropical America.
 	- moose 駝鹿
 	- Shar-Pei 沙皮狗
@@ -101,10 +103,12 @@
 	- gopher /ˈɡəʊfə/ 地鼠
 	- grizzly == grizzly bear 灰熊 == An animal of a large race of the brown bear native to North America.
 	- hamster 倉鼠 == A solitary burrowing rodent with a short tail and large cheek pouches for carrying food, native to Europe and North Asia.
+	- Homo sapiens 人
 
 [Insect]
 	- moth 蛾
 	- wasp 黃蜂/馬蜂
+	- hornet 大黃蜂
 	- bumblebee 雄蜂/大黃蜂
 	- termite 白蟻
 	- borer /ˈbɔːrə/ 
@@ -230,4 +234,9 @@
 		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
 	- sandstone 砂岩
 	- shale	/ʃeɪl/ 頁岩/泥板岩 <|> shell /ʃɛl/ 
-	
+	* grit
+		> 砂礫 |Small loose particles of stone or sand.| she had a bit of grit in her eye
+		> 砂岩 |A coarse sandstone.| layers of impervious shales and grits
+		> 佈滿砂礫 |Spread grit and often salt on (an icy road)| ‘the main roads in Plymouth will be gritted from 6.30 p.m. tonight
+		> 磨 |Grate| fine red dust that gritted between the teeth
+		> 膽量 |Courage and resolve; strength of character.|  I've known few men who could match Maude's grit

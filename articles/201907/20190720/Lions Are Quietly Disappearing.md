@@ -11,7 +11,7 @@ To put things in perspective, the nonprofit Wildlife Conservation Network (WCN) 
 	- put (sth) in/into perspective 理解、讚揚或評估..真正的價值 == To clarify, appraise, or assess the true value, importance, or significance of something.
 “Lions are truly one of the world's universal icons, and they are quietly slipping away,” says Paul Thomson, director of conservation programs for WCN. “Now is the time to stop the loss and bring lions back to landscapes across the continent.”
 	- slip away
-		> 秘密地離開|to leave secretly| He slipped away while we were all sleeping.
+		> 秘密地離開 |to leave secretly| He slipped away while we were all sleeping.
 		> (時間) 飛逝 |If a period of time slips away, it passes quickly.| Time was slipping away and she had to make a decision soon.
 		> (權力、能力或可能性)消失 |If someone's power or the possibility of someone winning or achieving something slips away, it disappears.| Political power was really in their hands and they let it slip away.
 To save the iconic African prides, conservationists are working toward driving down the costs related to living beside them and highlighting the local value that exists in protecting them.

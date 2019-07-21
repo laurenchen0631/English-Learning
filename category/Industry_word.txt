@@ -168,6 +168,8 @@
 	- the Fair Credit Reporting Act 公平合理信用報告法，要求各種信用報告活動要以對有關消費者公正、合理的方式進行，並尊重其隱私權。消費者有權瞭解調查報告活動情況，有權瞭解調查報告的內容和修改其中的錯誤等。
 	- the Equal Credit Opportunity Act 公平信貸機會法，禁止貸款人在處理信貸業務時，基於種族、膚色、宗教信仰、民族、性別、婚姻狀況、年齡的不同而對信貸申請人採取歧視待遇的一項聯邦法律
 	- line-item 分項賬目 == a single part of a financial statement, especially one giving details of the accounts of a company or government
+	- pencil pusher 機關辦事員/文書 == a person who has an office job that is not interesting
+	- grantee 受讓人 == A person to whom a grant or conveyance is made.
 
 [Law/Crime]
 	- the Supreme Court 最高法院
@@ -258,6 +260,12 @@
 	- pedophile 戀童癖 == A person who is sexually attracted to children.	
 	- thug 暴徒 == A violent person, especially a criminal.
 	- maim 使殘廢 == Wound or injure (a person or animal) so that part of the body is permanently damaged.
+	- plunder
+		> 搶劫 |Steal goods from (a place or person), typically using force and in a time of war or civil disorder.| looters moved into the disaster area to plunder shops
+		> 掠奪 |Steal (goods), typically using force and in a time of disorder.| the contents of the abandoned houses were plundered by members of the new regime
+		> 侵吞 |Take material from (artistic or academic work) for one`s own purposes.| we shall plunder related sciences to assist our research
+		> 劫掠/侵吞 |The violent and dishonest acquisition of property.| the commander refused to maintain his troops through pillage and plunder
+		> 非法取得的東西 |Property acquired illegally and violently.| the army sacked the city and carried off huge quantities of plunder
 	- pilfer 偷
 	- tax shelter 避稅
 	- plagiarism 抄襲/剽竊 == The practice of taking someone else`s work or ideas and passing them off as one`s own.
@@ -294,7 +302,7 @@
 		> 宗教裁判官 |An office in the papal court forming a tribunal for deciding on questions relating to penance, dispensations, and absolution.|
 	- mandatory 義務的 == Required by law or mandate; compulsory.
 	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
-	* poach
+	+ poach
 		> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
 		> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
 		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one`s own or in contravention of official protection.|
@@ -384,6 +392,11 @@
 	- rush hour 交通高峰時間/交通擁擠時間
 	- flat tire 爆胎
 	- paddle wheel 明輪/槳輪
+	- ferry
+		> 渡輪/擺渡船 |A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.|
+		> 渡運 |A service using another mode of transport, especially aircraft, to convey passengers or goods.|
+		> 用渡船運送 |Convey in a ferry or other ship or boat, especially across a short stretch of water.|
+		> 擺渡 |Transport from one place to another on short or regular trips.| ambulances ferried the injured to hospital
 
 [Agriculture/Farming]
 	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
@@ -436,6 +449,10 @@
 		> 討厭的人/麻煩精 |An annoying person or thing; a nuisance.| he was a real pest
 	- livestock (mn)家畜 == Farm animals regarded as an asset.
 	- ranch 大牧場/大農場 --> rancher 農牧場經營者或工人
+	- herder 牧人 == A person who looks after a herd of livestock or makes a living from keeping livestock, especially in open country.
+	- dung
+		> 動物糞便 |The excrement of animals; manure.|
+		> 施肥 |Drop or spread dung on (a piece of ground).|
 
 [Cook/Food]
 	- Worcestershire sauce 伍斯特醬
@@ -445,6 +462,7 @@
 	- raisin /ˈreɪz(ə)n/ == A partially dried grape.
 	- pomegranate 石榴 == An orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh 
 	- pistachio 開心果 == The edible pale green seed of an Asian tree.
+	- cold brew coffee 冷萃咖啡
 	- Soylent 一種代餐飲料
 	- meringue 酥皮/蛋白酥
 	- tequila 龍舌蘭
@@ -517,6 +535,7 @@
 	- cinnamon /ˈsɪnəmən/ 肉桂/肉桂樹
 	- skillet 長柄煎鍋/油炸鍋
 	- pantry 食品儲藏室 == A small room or cupboard in which food, crockery, and cutlery are kept.
+	- bushmeat 叢林肉，是指各種從棲身於非洲和亞洲地區的野生動物身上所獲取的食用肉，類似於中國人所指的野味
 
 [Literature/Media]
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
@@ -565,6 +584,11 @@
 		> 戴桂冠的 |Wreathed with laurel as a mark of honour.|
 		> 月桂葉作成的 |consisting of laurel.|
 	- stanza 詩節 == A group of lines forming the basic recurring metrical unit in a poem; a verse.
+	- crossover event 穿越/跨界
+		> Chamberlain’s most popular videos tend to be collaborations, which tap the strength of multiple audiences like any crossover event.
+	+ spin-off
+		> 衍生産品/副産品 |a product that develops from another more important product| The research has had spin-offs in the development of medical equipment.
+		> 衍生作品 |a programme or other show involving characters from a previous programme| The stage show is a spin-off from a television programme.
 
 [Medicine]
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
@@ -805,6 +829,9 @@
 		> |Any of the normally unaccented beats in a bar.|
 		> |Unconventional; unusual.| she`s a little offbeat but she`s a wonderful actress
 	- vaudeville 輕舞歌劇 == A type of entertainment popular chiefly in the US in the early 20th century, featuring a mixture of speciality acts such as burlesque comedy and song and dance.
+	- orchestrate /ˈɔːkɪstreɪt/ 
+		> 編排(樂曲) |Arrange or score (music) for orchestral performance.| the song cycle was stunningly arranged and orchestrated
+		> 密謀 |Plan or coordinate the elements of (a situation) to produce a desired effect, especially surreptitiously.| the situation has been orchestrated by a tiny minority
 	- orchestra pit 樂池/樂隊席 == the area of a theatre in which musicians play their instruments, usually in front of the stage
 	- swing 搖擺樂，是1930年代早期發源於美國的一種音樂類型。音樂之所以稱為「搖擺樂」，是由於音樂強調小節裡的下半拍或弱拍，因而帶來搖擺的感覺。搖擺樂樂團通常會有獨奏樂手為編制好的音樂加上即興演奏。
 	- jukebox 點唱機 == A machine that automatically plays a selected musical recording when a coin is inserted
@@ -910,7 +937,8 @@
 		> 膠畫法 |A method of mural and poster painting using distemper.|
 		> |Paint with distemper.|
 	- Dadaist (adj)達達主義的 (n)達達主義者
-	* ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
+	+ ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
+	- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.
 	
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -1010,6 +1038,12 @@
 	- devout
 		> 虔誠的 |Having or showing deep religious feeling or commitment.| she was a devout Catholic
 		> 誠摯的/忠心的 |Totally committed to a cause or belief.| the most devout environmentalist
+	- sacristy 聖器收藏室
+	- presbytery /ˈprɛzbɪt(ə)ri/ 
+		> 長老會教務評議會 |A body of Church elders and ministers, especially (in Presbyterian Churches) an administrative body (court) representing all the local congregations of a district.|
+		> 神父之居地 |The house of a Roman Catholic parish priest.|
+		> 聖所 |The eastern part of a church chancel beyond the choir; the sanctuary.|
+	- transept 耳堂/袖廊 == (in a cross-shaped church) either of the two parts forming the arms of the cross shape, projecting at right angles from the nave.
 
 [Engineer]
 	- engineer
@@ -1033,6 +1067,14 @@
 	- tungsten filament 鎢絲
 	- fluorescent screen 螢光幕
 	- semiconductor 半導體
+	- weld
+		> 焊接/熔接 |Join together (metal parts) by heating the surfaces to the point of melting with a blowpipe, electric arc, or other means, and uniting them by pressing, hammering, etc.| steel plates were being welded
+		> 焊接 |Forge (an article) by welding.| He rushed into the kitchen where a metal coat rack, which was a piece given to Nick from a friend who welded marvelous art pieces, stood.
+		> 接合 |Unite (pieces of plastic or other material) by melting or softening of surfaces in contact.|
+		> 使結合/使連成整體 |Cause to combine and form a harmonious or effective whole.| cross-curricular themes would weld the curriculum together
+		> 焊接點 |A welded joint.|
+		> 木犀草 |A widely distributed plant related to mignonette, yielding a yellow dye.|
+		> 木犀草染料 |The yellow dye made from weld, which has been used since Neolithic times |
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1221,7 +1263,19 @@
 	- eaves 簷 == The part of a roof that meets or overhangs the walls of a building.
 	- rubble 瓦礫堆/粗石 == Waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.
 	- countertop 台子
-
+	- drainage
+		> 排水 |The action or process of draining something.|
+		> 排水系統 |A system of drains.|
+	- attic 閣樓 == A space or room inside or partly inside the roof of a building.
+	- sprinkler 灑水器 == A device that sprays water.
+	- fire extinguisher 滅火器
+	- cornice /ˈkɔːnɪs/ 
+		> 飛簷 |An ornamental moulding round the wall of a room just below the ceiling.|
+		> 楣 |A horizontal moulded projection crowning a building or structure, especially the uppermost member of the entablature of an order, surmounting the frieze.|
+		> 冰簷 |An overhanging mass of hardened snow at the edge of a mountain precipice.|
+	- scaffolding
+		> 鷹架 |A temporary structure on the outside of a building, made of wooden planks and metal poles, used by workmen while building, repairing, or cleaning the building.| two of the shops had scaffolding against them
+		> 鷹架材料 |The materials used in scaffolding.| a truck carrying scaffolding
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
@@ -1293,7 +1347,7 @@
 	- baseliner 底線型球員
 	- all-courter 全面型球員
 	- gymnastics 體操 == Exercises developing or displaying physical agility and coordination. The modern sport of gymnastics typically involves exercises on bars, beam, floor, and vaulting horse.
-
+	- footrace 賽跑 == A race between runners; a running race.
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
@@ -1330,9 +1384,11 @@
 	- Bubble Wrap 氣泡布 == inflated cushioning
 	- Frisbee 飛盤 == flying disc 
 	- Xerox (n/v)靜電複印法
-	- Rollerblade 直排輪
+	- Rollerblade 直排輪 == roller blade
 	- Clorox 高樂氏
-	- logistics 後勤
+	- fidget spinner 指尖陀螺
+	- bulldozer 推土機
+	- walkie-talkie 對講機
 	- NATO == North Atlantic Treaty Organization 北大西洋公約組織
 	- narco
 		> 毒品 |Narcotics; illegal drugs.| the multi-billion dollar narco trade

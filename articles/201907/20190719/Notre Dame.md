@@ -11,7 +11,7 @@ It was 6:18 on a Monday, the week before Easter. The Rev. Jean-Pierre Caveau was
 Go check for fire, the guard was told. He did and found nothing.
 It took nearly 30 minutes before they realized their mistake: The guard had gone to the wrong building. The fire was in the attic of the cathedral, the famed latticework of ancient timbers known as “the forest.”
 	- attic 閣樓 == A space or room inside or partly inside the roof of a building.
-	- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.
+	- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.	
 	- timber
 		> 木材/木料 |Wood prepared for use in building and carpentry.| the exploitation of forests for timber
 		> 木材用樹木 |Trees grown for use in building or carpentry.| contracts to cut timber

@@ -219,6 +219,7 @@
 		- additive (n)添加劑
 
 	aer 氣 = aero
+		- aerospace (n)航空航太工業
 		+ /ˈɛːri/ aerie, eyrie (n)高處的房子, 鷹巢
 		- aerate (v)注入氣體
 		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
@@ -400,7 +401,7 @@
 
 	authent, author 作家
 		+ /ɔːˈθɛntɪk/ authentic (adj)真正的 = authoritative = genuine
-		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate
+		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate --> authenticity (n)真偽/真實性/可靠性
 		- authoritarian (n)獨裁主義者
 		+ authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
 		+ authority (n)權威/權力
@@ -1458,7 +1459,7 @@
 			- disinter (v)挖出/挖掘
 			+ disinterested (adj)公正的/客觀的 = impartial = objective = indifferent, 不感興趣的 = indifferent = uninterested
 			- dislocate
-			- dislodge (v)逐出/取出
+			- dislodge (v)用力（或設法）移動, 逐出
 			- dismantle (v)拆除 = disassemble
 			- dismay (v)沮喪/氣餒
 			* disobedient (adj)不服從的/不聽話的 = contumacious = rebellious = insubordinate = wayward = froward
@@ -2551,7 +2552,7 @@
 
 	gene, gen 基因
 		- gene (n)基因
-		- genealogy (n)家譜學
+		- genealogy (n)家譜學 --> genealogic (adj)系譜學的
 		- genesis (n)創始/起源
 		- genetic (adj)遺傳的, 起源的 --> genetics (n)遺傳學
 		- genome (n)基因組/染色體組 = gene + ome 群組
@@ -2832,6 +2833,7 @@
 			+ indefatigable (adj)不知疲倦的 <-- in + de 加強 + fatigable
 			- indelible
 			- indemnify --> indemnity
+			* indefinitely (adv)無限期地, 無限度地
 			+ indeterminate (adj)不確定的/不明的 = uncertain = indefinite
 			+++ indifferent (adj)不關心的/冷淡的 = apathetic = bland = callous = insensitive, 公平的 = impartial = disinterested = unbiased, 中等的/一般的 = normal = average = routine <|> disinterested
 			+ indirect (adj)迂迴的 = roundabout, 間接的/含蓄的
@@ -3632,6 +3634,7 @@
 		- manifesto (n)宣言/聲明
 		+ manipulate (v)操縱 --> manipulative (adj)操縱的(人或情況), 操作的
 		+ mannered (adj)別具一格的, 做作的 = affected
+		 mannerism (n)習性, 癖性, 格調/形式, 風格主義
 		+ maintain --> maintenance 
 		- manumit (v)解放奴隸 = emancipate <--> enslave
 		- manual (adj)手工的, 手動的, 體力的/勞力的 (n)手冊/簡介, 風琴鍵盤, 手排交通工具
@@ -3722,7 +3725,8 @@
 	mono, mon 單一 = alone, single
 		- monarch --> monarchy 
 		- monochrome --> monochromatic
-		- /ˈmɒnək(ə)l/  monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
+		- /ˈmɒnək(ə)l/ monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
+		- monoculture (n)單一作物種植 
 		- monogamy
 		- monolith (n)巨型獨石/整塊石料, 龐然大物 = behemoth = leviathan <-- mono + lith 石頭 = stone
 		+ monolithic (adj)巨石的, 巨大的 = huge = massive, 單一的, 巨大而僵化的
@@ -4130,11 +4134,13 @@
 			- overexposure (n)過分暴露, 曝光過度
 			- overflow (v)溢出, 充滿/洋溢
 			- overhaul (v)徹底檢查/徹底檢修
+			- overheated (adj)過熱的, 太激烈的/太強烈的, 經濟膨脹的
 			- overpower (v)擊敗/制伏, (感情等)壓倒 --> overpowering (adj)壓倒性的/不可抗拒的 = overwhelming
 			- overreach (v)做事過頭/伸得過遠
 			+ overreact (v)反應過度
 			+ overstate (v)誇張/對...言過其實 = exaggerate
-			+ overthrow (n/v)推翻/中止/打倒/廢除
+			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
+			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
 			- overturn (v)翻倒 = turn over, 推翻/破壞/廢除 = overthrow
 			+ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
 			+ overwhelm (v)氾濫/淹沒, 壓倒 = crush = overpower --> overwhelming (adj)壓倒的/勢不可擋的, 難以忍受的/無法抗拒的
@@ -4191,6 +4197,7 @@
 	ori 升起 = rise
 		* aboriginal (adj)原住民的 (N)原住民
 		- orient (v)確定方向, 熟悉環境 (n)東方/亞洲, 優質珍珠 (adj)東方的, 正在升起的
+		- orientation (n)定位/定向, 方向/方位, 方向感, 定位, 性取向, 適應/熟悉, 情況介紹
 		- origin (n)起源/由來/出身/產地
 		- original (adj)本來的/原始的, 有獨創性的 (n)原物 --> originality (n)創造性/獨特性
 		+ originate (v)發源/來自, 引發/引起
@@ -4518,7 +4525,7 @@
 		+ indispensable --> indispensability
 		- impend (v)迫近/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
 		- pending (adj)即將發生的 = imminent = impending = momentary, 未決的 = unfinished
-		- pendulum (n)擺錘/鐘擺
+		- pendulum (n)擺/擺錘, 來回擺動
 		+ pensive (adj)沉思的, 悲傷的/哀愁的 = wistful
 		- perpendicular (adj)垂直的 = vertical
 		+ propensity (n)傾向/嗜好 = inclination = tendency = proclivity
@@ -4613,7 +4620,7 @@
 		+ appellant (n)上訴人
 		+ appellation (n)名稱/稱呼
 		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact = oblige, 激起/引發 = incite 
-		+ compelling (adj)(理由、論證等)令人信服的/很有說服力的, 引人入勝的/扣人心弦的
+		+ compelling (adj)(理由、論證等)令人信服的/很有說服力的, 引人入勝的/令人注目的, 無法抵擋的
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
 		- compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的
 		- compulsory (adj)必須的 = required = mandatory = obligatory
@@ -5029,7 +5036,7 @@
 		- psychedelic (adj)幻覺的
 		- psychology (n)心理學, 心理狀態
 		- psychotic (adj)精神病的 (n)精神病患者
-		* psychic (adj)通靈的/有特異功能的, (疾病)精神的
+		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
 		- psychiatrist (n)精神科醫生
 		- psychiatry (n)精神病學
 		- psychoactive (adj)影響精神行為的 == (chiefly of a drug) affecting the mind
@@ -5169,7 +5176,7 @@
 			- remain (v)剩下/餘留/保持 <-- re + main 留下 = stay
 			- remainder (n)剩餘物 
 			- remains (n)遺址/廢墟
-			+++ remark (v)談到 = say, 注意/覺察 = note = perceive = observe (n)言辭/談論, 注意/察覺 --> remarkable (adj)值得注意的/非凡的/出色的
+			+++ remark (v)談到/評論/說, 注意/覺察 = note = perceive = observe (n)談論/評論, 注意/察覺 --> remarkable (adj)值得注意的/非凡的/出色的
 			- remind (v)提醒/使想起 --> reminder (n)提醒人記憶之物
 			* reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
 			* reminiscent (adj)回憶往事的/懷舊的, 發人聯想的 = redolent <-- re + min 思維 = mind + iscent
@@ -5220,6 +5227,7 @@
 			- retail
 			+ retain --> retainer
 			- retard (v)使減速/延遲, 妨礙/阻止 = delay = hinder = hamper = encumber = impede <-- re + tard 遲緩 = slow
+			- retell (v)重述
 			+ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			- retinue
 			- retouch (v)修描/潤色
@@ -5721,7 +5729,7 @@
 		- specific (adj)特定的/明確的/具體的 (n)特性, 特效藥 --> specifics (n)細小問題/細節/詳情
 		- specimen (n)範例, 樣品, 標本
 		+ /ˈspiːʃəs/ specious (adj)似是而非的 = paradoxical, 華而不實的 = meretricious = pretentious = meretricious = gaudy <|> /səˈspɪʃəs/ suspicious
-		- spectacle (n)奇景/壯觀
+		- spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面
 		+ spectacular (adj)壯觀的, 引人入勝的/引人注目的 = sensational
 		- sepectator (n)觀眾/觀看者
 		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物
@@ -5750,6 +5758,7 @@
 
 	spir, spire 呼吸 = breathe, blow
 		- aspire (v)嚮往/有志於 --> aspiration (n)抱負/志向 = ambition
+		- aspirate (v)吸入, 吸引/吸出 (n)吸出物, 送氣音 (adj)送氣音的
 		- aspirant (n)有抱負者
 		+ conspire (v)共謀/密謀 = collude = connive = plot --> conspiracy (n)陰謀, 密謀
 		- inspire (v)激勵/鼓舞 = abet, 喚起/激起 --> inspiration (n)靈感/啟示 --> inspired (adj)有靈感的/得到啟示的
@@ -6001,7 +6010,7 @@
 	serve 服務/保持/看 = keep, look
 		* conserve (v)保存/保留/保護 (n)糖漬食品/蜜餞
 		- conservatory (n)溫室, 音樂學院/戲劇學院/藝術學院
-		+ conservative (adj)(觀念、外表、猜測或計算)保守的/守舊的 = hidebound, 傳統的
+		+ conservative (adj)保守的, 保守的/傳統的, 保守黨的, 保守估計的, 穩當的 (n)保守者/守舊者, 保守黨員/保守黨派
 		+ observe (v)看到, 觀察/監視, 遵守 --> observation (n)觀察, 評論/意見
 		- observatory (n)天文台/氣象臺/瞭望臺
 		+ preserve (v)保存/維護/維持 = maintain = retain, 醃漬 --> perservative (adj)防腐的 (n)防腐劑
@@ -6216,7 +6225,7 @@
 			* tendency (n)傾向 = bent = inclination, 趨勢 = trend
 			+ tendentious (adj)有偏見的 = biased <-- tendency
 			- tender (v)提出/提供(意見) (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
-			+ tractable (adj)順從的/溫順的 = obedient = yielding = docile = amenable = supple, 易改變的 = malleable = adaptable --> tractability (n)溫順
+			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順
 
 		2. 拿著 = hold, keep == tain
 			* content (adj)滿意的/滿足的 (v)使滿意/使滿足 (n)內容 --> contentment (n)滿足/滿意 <|> contention
@@ -6412,7 +6421,8 @@
 		- terminology (n)術語/術語學 <-- term
 
 	tric, trig 複雜/迷惑 = perplex
-		- extricate (v)使擺脫/使脫離/解救 = release --> extricable (adj)能擺脫的/可解救的
+		- extricate (v)使擺脫/使脫離/解救 = release --> extricable (adj)能擺脫的/可解救的 <--> inextricable
+		- inextricable (adj)分不開的, 無法擺脫的/無法逃離的
 		+ intricate (adj)纏結交錯的 = entangled = involved = convoluted, 錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (n)複雜/紛亂
 		++ intrigue (v)密謀 = plot, 引起極大的興趣 = captivate = attract = fascinate = enamor = enchant = entrance --> intriguing (adj)吸引人的 = fascinating
 		* trick (n)騙局/詭計/惡作劇, 訣竅/秘訣 (v)欺騙 (adj)捉弄的 --> trickery (n)欺騙/欺詐 = chicanery
@@ -6483,7 +6493,7 @@
 	theo, the 神 = God
 		+ apotheosis, apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
-		- theology (n)神學
+		- theology (n)神學 <|> theoretical
 		- theism 
 		- /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> desim
 
@@ -6562,6 +6572,7 @@
 		- unremitting (adj)不間斷的/持續的
 		- unrepentant (adj)不悔悟的/不後悔的
 		- unrequited (adj)無報答的
+		- unrest (n)不平/動盪, 不平靜
 		- unreserved (adj)無限制的, 未被預訂的
 		+ unresolved (adj)無決斷力的/不果斷的
 		* unruly (adj)任性的/不守規矩的 = untoward = fractious
@@ -6779,7 +6790,7 @@
 		+ evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
 		- invoke (v)喚起/使記起, 祈求(法律或神靈), 行使(法權等)
 		++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
-		+++ provocation (n)激怒/挑釁 = affr ont = abuse = insult --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
+		+++ provocation (n)挑釁 = affront, 挑撥, 挑逗 --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
 		* revoke (v)撤銷/廢除 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢除的
 		- vocalist (n)流行歌手/聲樂家
 		- vocation (n)擅長/才能, 職業/工作
