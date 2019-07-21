@@ -2012,7 +2012,7 @@
 		+ aberrant (adj)越軌的, 異常的 = exceptional = abnormal = anomalous --> aberrance (n)越軌 --> aberration (n)失常
 		+ errant (adj)走入歧途的/犯錯的/行爲不當的 = mistaken = erring = straying
 		+ erratic (adj)反覆無常的/無計劃的/不規則的 = whimsical
-		- err (v)犯錯誤/出錯, 作惡/犯罪
+		* /əː/ err (v)犯錯誤/出錯, 作惡/犯罪
 		- error (n)錯誤
 		+ erroneous (adj)錯誤的/不正確的 = mistaken = incorrect = wrong = false
 
@@ -2967,7 +2967,7 @@
 			- inborn (adj)天生的 = innate
 			* innate
 			- incandescent --> incandescence
-			- incarcerate (v)監禁/關押 = imprison = confine <-- in + carcer 監牢 = prison + ate
+			- incarcerate (v)監禁/關押 = imprison = confine = immure <-- in + carcer 監牢 = prison + ate
 			- imprison (v)監禁/關押
 			+ incarnate
 			+ incarnadine
@@ -3214,6 +3214,7 @@
 		- injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
 		+ justify (v)證明……是正當的/是..的好理由 = warrant, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
 		- justifiable (adj)有理由的/有道理的
+		+ objurgate (v)申斥/痛罵 = scold = rebuke
 
 	journ 日 = day, daily
 		- adjourn (v)推遲/使延期 = defer, 使休會
@@ -3346,6 +3347,7 @@
 
 	lustr, luster 光澤 = polish
 		+ illustrate (v)用圖、例子或圖表說明闡明 = exemplify <|> illuminate
+		+ illustrious (adj)輝煌的/顯赫的
 		+ lackluster (adj)無生氣的/無趣的 = uninspired = dull = insipid, 無光澤的 = dull
 		+ luster (n)光澤 = gloss = sheen, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
 
@@ -3361,8 +3363,8 @@
 			- elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
 			- elite (n)精華, 精英
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
-			++ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
-			- intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
+			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
+			- /ɪnˈtɛlɪdʒ(ə)nt/ intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
 			+ intelligible (adj)清晰的/明瞭的 = comprehensible 
 			+ predilection (n)嗜好/偏愛 <-- pre + dilect 選擇 = select + ion
 
@@ -3589,7 +3591,7 @@
 		* permit (v)許可/准許, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
-		- remit (v)寬恕/赦免,  匯寄/匯付, 提交/移交(問題) (n)提交/移交 --> remittance (n)匯款, 匯款額
+		- remit (v)寬恕/赦免, 匯寄/匯付, 提交/移交(問題) (n)提交/移交 --> remittance (n)匯款, 匯款額
 		- remission (n)寬恕/赦免, (疾病的)緩解期
 		+ remiss (adj)疏忽的 = negligent
 		*** submit (v)移交 = remit, 順從/屈服, 提交/呈遞, [法]建議/主張
@@ -3640,7 +3642,7 @@
 		* mandate (n)命令/指令, 授權 (v)授權, 使必要 --> mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
 		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
-		+ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
+		++ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
 		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)費時費力的/耗費精力的 = taxing
 		- recommend (v)推薦 = commend, 建議 = suggest = advise
 
@@ -3657,7 +3659,7 @@
 		+ immediate 
 	
 	meta 變化 = change, alternation
-		- metabolism (n)新成代謝 --> metabolize (v)代謝 <-- meta + bol 丟 = throw + ism
+		* metabolism (n)新成代謝 --> metabolize (v)代謝 <-- meta + bol 丟 = throw + ism
 		+ metamorphose --> metamorphosis
 		+ metaphor --> metaphoric
 		+ metaphysics (n)形而上學/玄學/空談 --> metaphysical (adj)形而上學的/抽象的
@@ -3673,7 +3675,7 @@
 		* diminutive (adj)微小的 = minuscule = lilliputian, 表示小的 (n)表示小的字詞, 暱稱/名字縮寫
 		- microbe (n)微生物
 		- microorganism (n)微生物/細菌 = bacterium
-		- microscope (adj)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
+		- microscope (n)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
 		+ microcosm (n)人類, 小宇宙/縮影/微觀世界 <--> macrocosm <-- micro + cosmo
 		- miniature (n)縮樣/微型畫 (adj)小型的
 		- minikin (n)嬌小的動物或人 (adj)微小的 = small = insignificant
@@ -3704,7 +3706,7 @@
 	mod, mode 方式/限制 = manner, limit
 		- mode (n)樣式/時尚, 方法/做法/模式, 形式/種類/風格
 		* modest (adj)審慎的, 適度的/中等的, 端莊的/穩重的
-		*** moderate (adj)中等的/適度的 = modest, 溫和的/穩健的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
+		*** moderate (adj)中等的/適度的 = modest, 穩健的/溫和的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
 		- immoderate
 		+ modicum (n)少量
 		- modify (v)修改 = amend
@@ -3720,82 +3722,82 @@
 	mono, mon 單一 = alone, single
 		- monarch --> monarchy 
 		- monochrome --> monochromatic
-		- monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
+		- /ˈmɒnək(ə)l/  monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
 		- monogamy
-		- monolith (n)巨型獨石/整塊石料, 龐然大物 <-- mono + lith 石頭 = stone
+		- monolith (n)巨型獨石/整塊石料, 龐然大物 = behemoth = leviathan <-- mono + lith 石頭 = stone
 		+ monolithic (adj)巨石的, 巨大的 = huge = massive, 單一的, 巨大而僵化的
 		- monolog, monologue
-		- monomania (n)偏執狂
+		- monomania (n)單狂/偏癖/偏執狂
 		- monopoly (n)獨佔權/專賣權/專利權, 壟斷 <-- mono + poly 賣 = sell
 		+ monotonous
 
 	mur 牆 = wall, grave
-		+ demur (v)反對 = object = oppose <--> accede, 抗辯/表示異議 --> demurral (n) = objection = exception
-		+ demure (adj)端莊的/文靜的 <|> demur
+		+ /dɪˈməː/ demur (v)反對 = object = oppose, 抗辯/表示異議 (n)反對/猶豫 --> demurral (n) = exception
+		+ /dɪˈmjʊə/ (adj)端莊的/文靜的 <|> demur
 		- mural (n)壁畫 (adj)牆壁的
-		+ immure (v)監禁 = imprision, 禁閉 = confine = seclude
+		+ immure (v)監禁 = imprision = confine = incarcerate
 
-	mul 乳 = milk
-		- emulsion (n)乳膠, 乳化劑
+	mul 乳 = milk == lact
+		- /ɪˈmʌlʃ(ə)n/ emulsion (n)乳膠, 乳化劑 <|> /ɪˈməʊʃ(ə)n/ emotion
 		- emulsify (v)乳化
 
 	moll 軟 = soft
-		+ emollient (n)潤膚劑, 軟化劑 (adj)使柔軟的, 使緩和的 = mollifying
+		+ emollient (n)潤膚劑 (adj)使柔軟的, 使緩和的 = mollifying
 		+ mollify (v)撫慰/安慰 = appease = soothe = mitigate
-		- mollycoddle (v)溺愛/縱容 = pamper (n)女性化的男人/嬌生慣養的人 <-- molly + coddle 
+		- /ˈmɒlɪkɒd(ə)l/ mollycoddle (v)溺愛/縱容 = pamper (n)女性化的男人/嬌生慣養的人 <-- molly + coddle 
 
 	multi 多 = many, much
-		+ multifaceted (adj)多面的, 多面向的
-		+ multifarious (adj)多種多樣的 = diverse = manifold
+		+ /mʌltɪˈfasɪtɪd/ multifaceted (adj)多面的, 多面向的
+		+ multifarious (adj)多種多樣的 = diverse = manifold, 多方面的
 		- multiple (adj)多樣的/多重的 = various
+		- multiply (v)乘, 增加, 繁殖 = breed (adv)多樣地/多重地
 		- multiplex --> multiplicity
-		- multiply (v)乘, 增加, 繁殖 = breed
 
 	muni 禮物 = gift
-		+ munificent (adj)慷慨的/寬宏的 = very generous = bountiful = liberal --> munificence (n)慷慨/寬宏大量 = generosity
-		- munition (n)軍火/彈藥 = weapons and ammunition
+		+ /mjʊˈnɪfɪsənt/ munificent (adj)慷慨的/寬宏的 = very generous = bountiful = liberal --> munificence (n)慷慨/寬宏大量 = generosity
+		- /mjʊˈnɪʃən/ munition (n)軍火/彈藥 = weapons and ammunition (v)提供軍火
 		- ammunition (n)彈藥
 
 	monstr 顯示 = show
-		++ demonstrate (v)證明/論證, 演示, 表達/顯露, 示威 --> demonstrative (adj)證明性的, (詞語)指示性的, 喜怒形於色的
+		++ demonstrate (v)示範/展示, 證明/論證, 顯示/表露, 參加示威
+		++ demonstrative (adj)感情流露的, 論證的/證明的, [詞]指示性的 (n)指示詞
+		+ demonstration (n)顯示/表露, 展示, 示威
 		+ remonstrate (v)抗議/反對 = object = protest, 進諫/告誡
 
 	mass 一團
 		* amass (v)積聚 = accumulate = accrue = garner
-		++ mass (adj)大眾的, 很多人的 (n)質量, 大眾, 整體 = aggregate = whole
-		+ massive (adj)巨大的/厚重的/大規模的
+		++ mass (adj)大規模的/大批的 (n)一團, 色塊, 大量/大群, 大多數, 大眾, 質量/重量 (v)集中/聚集
+		+ massive (adj)厚重的, 巨大的/極嚴重的/大規模的, 實心的
 
 	melior 更好 = better
-		+ ameliorate (v)改善/改良 = improve = burnish
+		+ ameliorate (v)改善/改良 = meliorate = improve = burnish
 		- meliorate (v)改善/改良/變好
 
 	mend 修正/懇求 = correct, beg
-		+ amend (v)修正/修訂, 改善 = ameliorate
-		* amends (n)賠罪/賠償 = compensation = reparation = recompense
-		- emend (v)校訂/修改
-		+ mendacious (adj)撒謊的, 虛假的 = false = untrue = spurious = sham --> mendacity (n)虛偽, 謊言
-		- mend (v)修改/改進
-		- mendable (adj)可改正的
+		+ amend (v)修正/修訂, 改善(土壤) = ameliorate
+		* amends (n)[make amends]賠罪/賠償 = compensation = reparation = recompense
+		- emend (v)校訂/修改 = amend
+		+ mendacious (adj)撒謊的/虛假的 = false = untrue = spurious = sham --> mendacity (n)虛偽/謊言
+		- mend (v)修復 = repair, 治癒 = heal, 改善 = improve, 把油加入 (n)修繕部位
+		- mendable (adj)可修復的/可治癒的/可改善的
 		- mender (n)修理者/修補者
 		+ mendicant (n)乞丐 = beggar (adj)行乞的
 
-	mnes, mnemo 記得 = remember
+	mnes, mnemo, memor 記得 = remember, mindful
 		- amnesia (n)健忘症, 失憶症
-		- amnesty (n)大赦/特赦 = absolve
-		+ /nɪˈmɒnɪk/ mnemonic (adj)有助於記憶的/記憶的 --> mnemonics (n)記憶法/記憶規則
-
-	memor 記住 = mindful, remembering
+		- amnesty (n)(政治)大赦/特赦 = absolve (v)赦免
+		++ /nɪˈmɒnɪk/ mnemonic (adj)有助於記憶的, 記憶力的 --> mnemonics (n)記憶法/記憶規則
 		- commemorate (v)紀念/緬懷(偉人、大事件等)
-		- memory (n)記憶力/記性, 記憶/回憶
+		- memory (n)記憶力/記性, 記憶/回憶, 紀念, 記憶體
 		- immemorial (adj)年代久遠的/古老的
-		- memorial (n)紀念碑/紀念物 (adj)紀念的/悼念的
-		- memoir (n)回憶錄, 傳記, 研究報告/專題論文
-		- memorandum (n)訊息, 備忘錄
+		- memorial (n)紀念碑/紀念物, 記錄, 陳情書/請願書
+		- /ˈmɛmwɑː/ memoir (n)回憶錄, 傳記, 研究報告/專題論文
+		- /mɛməˈrandəm/ memorandum -> memoranda (n)訊息, 備忘錄
 
 	metr, meter, mens, mensur, mense 測量/儀表 = measure
 		- barometer
 		+ commensurate (adj)相當的/相稱的 = proportional, 同樣大小的 <--> incommensurate
-		- diameter (n)直徑
+		- diameter (n)直徑 <--> raidus <--> circumference
 		- dimension (n)空間/尺寸, 維度/特點
 		+ immense (adj)極大的 = vast = huge, 無限的 = limitless = infinite = immeasurable = boundless --> immensity (n)巨大之物, 巨大/無限
 		- odometer (n)汽車里程表 <-- odo 路 = way + meter
@@ -4576,7 +4578,7 @@
 		* pathetic (adj)可憐的 = abject = miserable = dismal, 無用的/差勁的
 		+ sympathy (n)同感/理解 = empathy, 同情/憐憫 = pity = empathy = compassion
 		+ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
-		+ empathy (n)同情 = sympathy, 同感/共鳴
+		+ empathy (n)同情 = sympathy, 同感/共鳴 --> empathetic (adj)有同感的/産生共鳴的
 
 	patho, path 病 = disease
 		+ pathology (n)病理學 --> pathologic, pathological (adj)病理學的 = morbid, 病態的 = morbid
@@ -5194,7 +5196,7 @@
 			- request
 			+ requisite
 			- requite
-			+ rescind (v)廢除/取消 = cancel = quash <-- re + scind 分開 = split, tear
+			+ /rɪˈsɪnd/ rescind (v)廢除/取消 = cancel = quash <-- re + scind 分開 = split, tear
 			- rescission
 			+ resemble
 			+ reserve --> reserved
@@ -5390,7 +5392,7 @@
 		- responsible (adj)有責任的 = accountable, 有鑑別能力的/能明辨是非的/負責可靠的
 
 	robor 力量 = strength, strong
-		+ corroborate (v)證實/確證 = confirm = attest = substantiate = vindicate, 強化 --> corroborant (adj)確證的 (n)補劑
+		+ corroborate (v)證實/確證 = confirm = attest = substantiate = vindicate --> corroborant (adj)確證的 (n)補劑
 		- roborant (adj)起強壯作用的 (n)強壯劑
 
 	rod, ros 咬/侵蝕 = gnaw
@@ -5635,7 +5637,7 @@
 		- institutionalized (adj)制度化的/有組織的
 		- instrument (n)儀器/器具, 手段, 樂器 --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
 		- obstacle (n)障礙/干擾
-		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate = wayward = disobedient, (疾病等)難治的 --> obstinacy (n)固執/頑固
+		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固
 		+ persist (v)堅持/固執, 持續
 		+ resist (v)抵抗/反抗 = withstand, 忍耐/忍住 --> resistance (n)抵抗/反抗/抵制, 電阻
 		- restitute (v)恢復, 償還 --> restitution (n)償還/賠償, 恢復/歸還

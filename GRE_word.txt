@@ -151,6 +151,7 @@
     + /ˈba-fəl/ baffle (v)使困惑 = confuse = perplex = bewilder = confound = vex = nonplus
     + /bə-ˈlün/ balloon (n)氣球 (v)像氣球般膨脹 = swell, 激增
     + bale (n)大包/大捆, 一大捆的量, 折磨 --> baleful (adj)威脅的, 有害的 <|> baneful
+    + balk (n)梁木 (v)妨礙 = hinder = thwart = foil = check, 猶豫/不願 <|> bilk
     + bane (n)禍根 --> baneful (adj)有害的 = destructive = pernicious = poisonous, 致命的 = deadly = pernicious = virulent = poisonous = venomous = fatal
     + bard (n)詩人/吟遊詩人
     + baroque (n/adj)巴洛克式風格/過分雕琢的 <--> austere, 不規則狀的
@@ -176,7 +177,7 @@
     ++ besiege (v)圍攻 = beleaguer, 困擾 = beleaguer = harass = distract = badger
     + /ˈbʌɪəs/ bias (n)偏見 = prejudice = jaundice, 偏心/偏袒/傾向/偏好 = bent = penchant = affinity (v)使…懷有偏見 = prejudice = jaundice 
     + /bʌɪl/ bile (n)膽汁, 憤怒/怒氣 --> /ˈbɪlɪəs/ bilious (adj)壞脾氣的 = spiteful = bad-tampered, 膽汁的
-    ++ bilk (v)躲債/逃避 <--> acquit = amortize, 騙取/詐騙 = defraud = swindle
+    ++ bilk (v)躲債/逃避 <--> acquit = amortize, 騙取/詐騙 = defraud = swindle <|> balk
     ** bland (adj)溫和的 = agreeable = gentle, 沒精打采的/無生氣的/冷淡的 = indifferent, 無味的 = watery = insipid, 乏味的 = dull = dreary = insipid = jejune
     + blandish (v)哄騙 = cajole = coax = wheedle --> blandishment (n)奉承/甜言蜜語
     + /ˈblɑːzeɪ/ blase, blasé (adj)司空見慣的/不稀罕的
@@ -251,7 +252,6 @@
     ^ bait (n)誘餌 = enticement = allurement, (v)激怒 = bait = rile, 逗弄
     ^ bald (adj)禿頭的, 簡單的/不加贅述的, 光滑的/磨平的
     ^ bale (n)大包裹, 災禍/不幸 = disaster = catastrophe = cataclysm = mishap --> baleful (adj)邪惡的/惡毒的
-    ^ balk (n)梁木 (v)妨礙 = hinder = thwart = foil = check, 猶豫/不願 
     ^ ballad (n)歌謠/民謠/情歌/敘述詩 = ditty
     ^ ballast (n)壓艙物/鎮重物
     ^ ballerina (n)芭蕾舞女演員 <-- ballet
@@ -1741,6 +1741,7 @@
     + mordant (adj)尖酸的/譏諷的 = sarcastic = caustic = biting (n)金屬腐蝕劑, 金箔黏著劑 <-- mord 咬 = bite + id
     + /məˈrəʊs/ morose (adj)憂鬱的 = ill-humored = sullen = gloomy = mournful = desolate = dismal = dreary
     + /ˈmɒtli/ motley (adj)混雜的/由不同事物組成的 = heterogeneous = disparate, 雜色的 = variegated <-- mote + ly
+    + /mʌlkt/ mulct (v)罰金, 詐騙 (n)罰金
     ++ muddle (v)將……混在一起 = jumble = confuse = mingle = intermingle, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle = confound
     + /mʌnˈdeɪn/ mundane (adj)平凡的 = common = ordinary = unimaginative = prosaic = terrestrial, 現世的/世俗的 = lay = profane = temporal = worldly = early
     + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure = stygian, 模糊的/含糊的 = vague = confused = obscure
@@ -2049,6 +2050,7 @@
     + /ˈpɔːsɪti/ paucity (n)少量/缺乏/不足 = scarcity = scantiness = dearth = poverty = penury <-- pauc 少 = few + ity
     ++ /pɪˈkjuːlɪə/ peculiar (adj)奇怪的/古怪的 = eccentric = queer = odd = unconventional, 特有的/獨特的/特別的 = particular = idiosyncratic, 罕見的 = uncommon = unusual = rare --> peculiarity (n)奇特/古怪, 怪癖, 特性/特質
     ++ peer (n)同等之人/同輩, 貴族 (v)凝視, 逐漸出現 --> peerless (adj)無可匹敵的 = matchless = unrivaled
+    + peeve (v)惹惱 = irritate = irk = gall = rile = provoke = bore = pique = vex --> peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
     + /ˈpɛn(t)ʃ(ə)nt/ penchant (n)傾向/嗜好 = inclination = bent = propensity = affinity = bias
     + /ˈpiːn(ə)l/ penal (adj)刑事的/處罰的 = criminal, 罰款的 --> penalty (n)刑罰/處罰/罰款 --> penalize (v)使不利, 處罰 
     + penitent, penitential (adj)悔過的/後悔的 = repentant = regretful = rueful = remorseful = contrite (n)悔罪者
@@ -2115,7 +2117,6 @@
     ** peach (v)告密 = inform against = betray (n)桃子, 極好的事物 <|> preach
     * preach (v)布道, 鼓吹 = advocate = inculcate (n)講道/說教/訓誡 = homily <|> peach
     * pebble (n)小卵石/鵝卵石, 水晶
-    * peeve (v)惹惱 = irritate = irk = gall = rile = provoke = bore = pique = vex --> peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
     *** penetrate (v)穿過/刺入, 看透/識破, 彌漫於 --> penetrating (adj)有穿透力的, 尖銳的/刺耳的, 敏銳的
     * penetrable (adj)可穿透的 = permeable = pervious = porous, 能洞察的
     * pep (n)活力/精力/生氣 = vim (v)激勵, 使精力充沛/使充滿活力
@@ -2556,7 +2557,7 @@
     + /spɒnˈteɪnɪəs/ spontaneous (adj)自發的, 無意識的/不由自主的, 自然的 = natural = indigenous --> spontaneity (n)自然/自發 <-- spont 樂意 = willingly + an + eous
     + /sprɔːl/ sprawl (n/v)伸開四肢躺, 蔓生/蔓延, 艱難地爬行 = scramble --> sprawling (adj)蔓生的, 無計劃地擴展的
     ++ spurious (adj)假的 = sham = false = fake = mendacious, 私生的 = bastard = illegitimate <|> spur
-    + /ˈskwɒndə/ squander (v)浪費/揮霍 = dissipate = waste, 使分散 = scatter = disperse
+    + /ˈskwɒndə/ squander (v)浪費/揮霍 = splurge = dissipate = waste, 使分散 = scatter = disperse
     + squelch (v)壓扁 = crush down = squash, 鎮住/壓制 = suppress = silence, 吧嗒作響
     + /stəˈkɑːtəʊ/ staccato (adj)斷音的/不連貫的/斷斷續續的 = abrupt = disjointed = disconnected = desultory
     + /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous <-- stay
@@ -2988,6 +2989,7 @@
     +++ tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔, 斥責 = censure = reprove = accuse --> taxing (adj)繁重的 = burdensome = demanding = onerous
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + /ˈtiːdɪəs/ tedious (adj)乏味的/沈悶的 = dull = jejune --> tedium (n)單調乏味/無聊 = boredom
+    + telltale (adj)洩露秘密的 (n)指示器/計數器
     * tempt (v)引誘/誘惑 = allure = lure, 打動/引起 = urge, 說服 = persuade --> temptation (n)渴望/誘惑, 誘惑物 = lure
     +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
 	* temperamental (adj)喜怒無常的, 性情的
