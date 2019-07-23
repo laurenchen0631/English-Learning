@@ -781,6 +781,7 @@
 	cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
 		- accept (v)接受/收受/歡迎/相信
 		+ anticipate (v)預期/期望, 預先做 = forestall
+		+ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能,  資格/地位
 		- capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
 		- captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
 		+ captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
@@ -1694,7 +1695,7 @@
 		- dignity (n)莊重/端莊, 自尊
 		* dignitary (n)要人/要員
 		* disdain (n/v)輕視/鄙視 = contempt = scorn = belittle = flout = depreciate = downplay = disparage = detract, 不屑
-		- /deɪn/ deign (v)屈尊 = condescend
+		+ /deɪn/ deign (v)屈尊 = condescend
 		* /ɪnˈdɪɡnənt/ indignant (adj)憤慨的 --> indignation (n)憤慨
 		- indignity (n)侮辱/輕蔑/侮辱言行/無禮舉動 = insult
 
@@ -3319,7 +3320,7 @@
 	lev, liev 輕/舉 = light, lift
 		+ /əˈliːvɪeɪt/ alleviate (v)減輕/緩和 = mitigate = palliate = moderate = relieve = allay = assuage = soothe
 		+ levity (n)輕率/輕浮 = frivolity = giddiness
-		++ elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
+		++ /ˈɛlɪveɪt/ elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
 		- lever (n)槓桿, 控制桿, 手段 (v)撬起, 移動, 壓迫/迫使
 		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 		+ relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
@@ -3558,7 +3559,7 @@
 [M]
 	mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
 		+ misanthrope, misanthropist --> misanthropy
-		- misbehaviour (n)不禮貌/品行不端
+		- misbehavior (n)不禮貌/品行不端
 		- misconception 誤解
 		- misdeed (n)惡行/罪行
 		- misfit (n)與社會脫節的人
@@ -3578,8 +3579,8 @@
 	miss, mit, mise 送/放出 = send, give over
 		*** commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
 		+ commitment (n)投入/奉獻, 承諾/保證
-		*** commission (v)(正式地)委託, 委任…為軍官/任命 (n)委託/請求, 佣金, 犯罪, 委員會
 		- committal (n)拘押, 埋葬
+		*** commission (v)(正式地)委託, 委任…為軍官/任命 (n)委託/請求, 佣金, 犯罪, 委員會
 		- commissary (n)代表/代理, 雜貨店/小賣部
 		+ demit (v)辭職/退職 = resign
 		+ demise (n)死亡 = decease = death, 終結 = termination, 轉讓/租賃
@@ -3596,7 +3597,8 @@
 		* permit (v)許可/准許, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
-		- remit (v)寬恕/赦免, 匯寄/匯付, 提交/移交(問題) (n)提交/移交 --> remittance (n)匯款, 匯款額
+		- remit (v)寬恕/赦免, 匯寄/匯付, 提交/移交(問題) (n)提交/移交
+		- remittance (n)匯款, 匯款額
 		- remission (n)寬恕/赦免, (疾病的)緩解期
 		+ remiss (adj)疏忽的 = negligent
 		*** submit (v)移交 = remit, 順從/屈服, 提交/呈遞, [法]建議/主張
@@ -3637,7 +3639,7 @@
 		- manifesto (n)宣言/聲明
 		+ manipulate (v)操縱 --> manipulative (adj)操縱的(人或情況), 操作的
 		+ mannered (adj)別具一格的, 做作的 = affected
-		 mannerism (n)習性, 癖性, 格調/形式, 風格主義
+		- mannerism (n)習性, 癖性, 格調/形式, 風格主義
 		+ maintain --> maintenance 
 		- manumit (v)解放奴隸 = emancipate <--> enslave
 		- manual (adj)手工的, 手動的, 體力的/勞力的 (n)手冊/簡介, 風琴鍵盤, 手排交通工具
@@ -3722,7 +3724,7 @@
 	mon 警告/提醒 = remind, warn
 		+ admonish (v)警告/責備 = reprimand = berate = revile = censure, 勸告/忠告 = urge = advise --> admonitory (adj)
 		- monitor (n)監聽器/監視器, 監聽員, 顯示器/螢幕, 班長/級長 (v)監控/監聽/監測/監視
-		+ premonition (n)預感 = forewarning = presentiment = hunch
+		+ premonition (n)預感 = forewarning = presentiment = hunch 
 		- summon (v)召見/召集, 緊急要求, 鼓起(勇氣), 喚起
 		
 	mono, mon 單一 = alone, single
@@ -3740,7 +3742,7 @@
 
 	mur 牆 = wall, grave
 		+ /dɪˈməː/ demur (v)反對 = object = oppose, 抗辯/表示異議 (n)反對/猶豫 --> demurral (n) = exception
-		+ /dɪˈmjʊə/ (adj)端莊的/文靜的 <|> demur
+		+ /dɪˈmjʊə/ demure (adj)端莊的/文靜的 <|> demur
 		- mural (n)壁畫 (adj)牆壁的
 		+ immure (v)監禁 = imprision = confine = incarcerate
 
@@ -3812,84 +3814,85 @@
 
 	morph 形狀 = shape, form, structure
 		+ amorphous (adj)無定形的
-		+ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
+		+/ˌmɛtəˈmɔːfəʊz/  metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
 		- morphology (n)形態學
 
 	mort, mori 死亡 = kill, die
 		+ amortize (v)分期償還 = acquit
 		- immortal (adj)不朽的
-		- mortality (n)死亡, 死亡率
-		- mortgage (n)抵押貸款/抵押證書/抵押契據 (v)用...做抵押 
-		+ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/苦行 --> mortification (n)屈辱/恥辱 
-		- moribund (adj)即將結束的, 垂死的 = dying <-- mori + bund 接近
-		- mortuary (n)停屍間
+		- mortality (n)死亡 = demise, 大規模死亡, 死亡率
+		- /ˈmɔːɡɪdʒ/ mortgage (n)抵押貸款/抵押證書/抵押契據 (v)用...做抵押
+		+ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 --> mortification (n)屈辱/恥辱, 禁慾/克制
+		- moribund (adj)即將滅亡的, 垂死的 = dying <-- mori + bund 接近
+		- /ˈmɔːtʃʊri/ mortuary (n)停屍間 (adj)喪禮的/墓碑的
 
 	muse 繆思
-		+ amuse (v)使愉快/逗笑 = delight = please = regale
-		+ bemuse (v)使困惑 = confuse = bewilder, 全神貫注 = preoccupy = engross
-		- muse (v)沉思/冥想
+		+ amuse (v)使愉快/逗笑 = delight = please = regale, 給...提供娛樂 = entertain
+		+ bemuse (v)使困惑 = confuse = bewilder
+		- muse (v)沉思/冥想, 若有所思地說, [on]凝視 (n)繆斯/靈感泉源
 	
 	mingle 結合/混合 = mix
 		- mingle (v)(使)混合 = confound, (在社交場合)相往來 
-		- commingle (v)參和/混合 = mix = adulterate
+		- commingle (v)參和/混合 = mix = adulterate = blend
 
 	mot 動 = move
-		- commotion (n)動亂/騷亂 = turbulence = riot = bedlam
+		- commotion (n)騷動/喧鬧 = turbulence = riot = bedlam, 動亂/起義
 		- demote (v)降職/降級 <--> promote
 		* emote (v)誇張地表現情感 --> emotion (n)感情/情緒
 		- locomotive
-		- motility (n)運動性
-		- motivation (n)動機/誘因, 積極性
-		+ promote (v)促進/推銷/推廣 = tout = exploit, 升遷/晉升 --> promotion (n)促銷/推銷, 推廣/宣傳, 晉升/升遷
+		- motile (adj)能動的, 運動表象的 --> motility (n)運動性
+		- motivation (n)動機/誘因, 幹勁/熱情 = enthusiasm
+		+ promote (v)促進/發揚, 推銷/推廣 = tout = exploit, 促使(法律)通過, 升遷/晉升 = exalt = advance = elevate --> promotion (n)促進/發揚, 促銷/推銷, 推廣/宣傳, 晉升/升遷
 
 	mut 改變 = change
-		- commute (v)變換/改變 = change, 交換 = exchange = interchange, 上下班往返/通勤, 減輕(刑罰) (n)通勤
+		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤
 		- mutate (v)變異 --> mutation (n)突變
 		+ immutable (adj)永恆的/不可改變的 = unchangeable 
 		+ transmute (v)變化/使變形
 
 	merc 交易 = buy, deal
-		* commerce (n)商業/商務/貿易/交易 <|> commence
-		- mercantile (adj)貿易的/商業的
-		- merchant (n)商人/零售商 (adj)商人的/商業的
-		+ mercenary (adj)唯利是圖的 = venal (n)雇傭兵
+		* /ˈkɒməːs/ commerce (n)商業/商務/貿易/交易 <|> commence
+		- ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
+		- merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
+		+ /ˈməːsɪn(ə)ri/ mercenary (adj)唯利是圖的 = venal (n)雇傭兵, 以金錢為目的人
 
 	merg, mers 沉潛 = sink, dive
-		+ emerge (v)出現/露出, 浮現/興起, (從困境中)擺脫 --> emergence (n)出現
-		+ emerging, emergent (adj)出現的 = issuing, 興起的/新興的, 緊急的 = urgent
+		+ emerge (v)浮現/出現, (昆蟲)孵化, 發生/顯露, 曝光, (從困境中)擺脫 --> emergence (n)浮現/出現, (昆蟲)孵化, 發生/顯露
+		+ emergent (adj)出現的 = issuing = emerging, 興起的/新興的, 緊急的 = urgent
 		- emergency (n)緊急情況 = exigency
 
 	macula 斑點/髒污 = spot, blemish
-		- macula (n)皮膚上的斑點
-		- maculate (adj)有污點的 (v)弄髒 --> maculated (adj)有斑點的 = blemished <|> immaculate
+		- macula (n)黃斑, 皮膚上的斑點 = macule
+		- maculate (adj)有污點的 (v)弄髒 --> maculated (adj)有斑點的 = blemished
+		- immaculate
 
 	machin, mechan 謀劃/發明 = contrive
-		- machine (n)機器/機械
-		- machinery (n)機器/機械, (政府等的)機構, 方法
-		+ /ˈmaʃɪneɪt/ machinate (v)陰謀策劃/密謀 --> machinations (n)陰謀 = plots = schemes
+		- machine (n)機器/機械, 操縱組織的核心集團, 機器人似地工作的人 (v)用機器做
+		- /məˈʃiːnəri/ machinery (n)機器組/機械, 零組件, (政府等的)機構/方法
+		+ /ˈmaʃɪneɪt/ machinate (v)陰謀策劃/密謀 = plot = scheme --> machinations (n)陰謀 = plots = schemes
 		- mechanic (n)機械工/修理工/技工
 		- mechanics (n)力學
 		- mechanical (adj)機械的, 機械似的/呆板的, 力學的/物理的, 手工操作的
-		- mechanism (n)結構/構造, 機制, 辦法, 手法/技巧, 機械裝置
+		*** mechanism (n)機械裝置, 機制/物理過程, 手法/技巧, 機械裝置
 
 	magn, maj 大
 		+ magnanimous --> magnanimity
 		+ magnify (v)放大 = enlarge, 誇大 = exaggerate
-		+ magnate (n)財主/巨頭/巨擘/要人/權貴
-		- magnificent (adj)壯麗的/宏偉的 = splendid = majestic = stately = palatial, 高尚的 = sublime = magnanimous <-- magn + ific 做 + ent
-		+ magnitude (n)大小/尺度 = size = dimensions = extent, 重要 = greatness, 星球的光亮度
-		+ majestic (adj)雄偉的/壯麗的 = grand = stately = lofty = palatial = magnificent, 威嚴的 = august = venerable
+		+ magnate (n)財主/巨頭/巨擘/要人/權貴 = mogul = tycoon
+		- magnificent (adj)壯麗的/宏偉的 = splendid = majestic = stately = palatial, 傑出的 = excellent <-- magn + ific 做 + ent
+		+ magnitude (n)巨大/廣大, 重要 = greatness, 大小/尺度 = size = dimensions = extent, 數量/價值, 星球的光亮度
+		+ majestic (adj)雄偉的/壯麗的 = grand = stately = lofty = palatial = magnificent <|> magisterial
 
 	mari 海 = sea, ocean
-		- marine (adj)海的, 海中的/海生的
+		- marine (adj)海的, 海中的/海生的 (n)海軍陸戰隊隊員
 		- submarine (n)潛艇, 海底生物, 水下裝置 (adj) 海底的
 		- mariculture (n)海洋生物養殖
-		- maritime (adj)沿岸的, 海上的 = nautical
+		- /ˈmarɪtʌɪm/ maritime (adj)海的 = nautical, 住海邊的/在海上發現的, 沿海的
 
 	mast 乳房
-		- masticate (v)咀嚼, 粉碎/磨爛/把..磨成漿
-		- mastitis (n)乳腺炎
-		- mastodon (n)乳齒象 (adj)龐大的/巨大的 = massive
+		- masticate (v)咀嚼 = chew
+		- /maˈstʌɪtɪs/ mastitis (n)乳腺炎
+		- /ˈmastədɒn/ mastodon (n)乳齒象
 
 	melli 蜂蜜 = honey
 		+ mellifluous, mellifluent (adj)聲音甜美的/圓潤流暢的 = dulcet = euphonious
@@ -3901,9 +3904,9 @@
 		- mental (adj)精神的/心理的, 智力的 --> mentality (n)智力, 心理狀態/意識型態
 	
 	milit 士兵 = soldier
-		+ militate (v)起作用/產生影響
+		+ militate (v)[militate against]起作用/產生影響
 		- military (adj)軍事的/軍隊的 (n)軍人/軍隊
-		- militia (n)民兵/義勇軍
+		- /mɪˈlɪʃə/ militia (n)民兵/義勇軍, 反抗軍
 		- militant (adj)好鬥的 = aggressive = assertive (n)好戰者/激進份子
 		- /ˌmɪlɪtəˈrɪstɪk/ militaristic (adj)軍國主義的/強硬的 = hawkishs
 
@@ -4645,7 +4648,7 @@
 		+ polyglot (adj)會使用數種語言的 (n)精通數國語言的人 <-- poly + glot 舌頭 = tongue
 
 	pair, pejor 壞 = worse
-		+ pejorative (adj)貶抑的/貶損的 = disparaging = derogatory = belittling (n)貶義詞語
+		+ pejorative (adj)貶抑的/貶損的 = derogatory = disparaging = belittling (n)貶義詞語
 		+ impair (v)損害/削弱 = damage = reduce = injure = lossen = weaken
 		- repair (v)修理/修補, 恢復, 彌補/補償
 		- reparable (adj)能補救的/可挽回的
@@ -4735,7 +4738,7 @@
 		* predispose (v)使有傾向 --> predisposition (n)傾向
 		* disposable (adj)一次性的/用完即丟的, 可用的
 		+ exposition (n)闡述/說明, 展覽會/博覽會 --> expository (adj)說明的 = explanatory
-		+ expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
+		++ expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
 		+ expose (v)使接觸到, 揭發 --> exposure (n)暴露/顯露, 曝光
 		- expostulate (v)勸告/告誡
 		*** impose (v)推行/強制實行/強加於, 打擾/麻煩, 徵稅 = levy = tax = toll
@@ -6903,7 +6906,7 @@
 
 	void, vacu, vac, van 空 = empty, vain
 		- avoid (v)躲避/避開 = avert = prevent
-		+ evanesce (v)逐漸消失 --> evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral, 難以察覺的 = imperceptible
+		+ evanesce (v)逐漸消失 --> /ɛvəˈnɛs(ə)nt/ evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral
 		* devoid (adj)缺乏的 = lacking
 		- evacuate (v)撤離, 使成真空, 淨空, 排出
 		- vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul

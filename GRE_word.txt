@@ -170,6 +170,7 @@
     + besotted (adj)入迷的
     * bend -> bent -> bent (v)彎曲 = curve, 屈服
     + bent (n)傾向/特長/天賦 = predisposition = characteristic = talent = aptitude = flair, 忍耐限度 = capacity of endurance (adj)彎曲的, 不誠實的, 同性戀的 
+    + bereft (adj)[of]缺乏…的 = lacking, 感到失落的
     + betray (v)背叛/不忠, 暴露/流露 = reveal = bare
     + bevy (n)(尤指婦女或女孩)一群, 某種鳥類的鳥群
     + /bi-ˈwil-dər/ bewilder (v)使迷惑/使糊塗 = baffle = confuse = confound = nonplus --> bewildering (adj)令人迷惑的/費解的
@@ -395,7 +396,7 @@
     + /ˈkaləs/ callus (n)(手腳上的)老繭 --> /ˈkaləs/ callous (adj)結硬塊的, 無情的/漠不關心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive
     +++ calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = besmirch = denigrate = defame = depreciate = derogate = malign = slander = vilify  <|> clumsy
     + /kəˈnɑr(d)/ canard (n)虛假新聞/謊報/假消息
-    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily
+    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily <|> uncanny
     ++ /ˈkanən/ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious <-- contention + rancorous
@@ -2123,6 +2124,7 @@
     * peril (n)危險 = jeopardy = hazard
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely, 和藹的 = affable = amiable = sociable = cordial = genial
     * personnel (n)全體人員/員工
+    * pest (n)害蟲, 討厭的人或物 --> pester (v)不斷煩擾/糾纏/強求 = badger = nag
     * /pɪə/ pier (n)碼頭, 防波堤 = levee, 墩/橋墩
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
     * pitcher (n)投擲者, 大水罐/水壺
@@ -2198,8 +2200,6 @@
     ^ pennant (n)細長三角旗
     ^ perch (v)(鳥)棲息
     ^ perky (adj)神氣的/活潑的
-    ^ pest (n)害蟲, 討厭的人或物
-    ^ pester (v)不斷煩擾/糾纏/強求 = badger = nag
     ^ pestilent (adj)致死的 = deadly, 有害的 = pernicious
     ^ pestle (n)杵/乳缽
     ^ petal (n)花瓣
@@ -2562,6 +2562,7 @@
     + /stəˈkɑːtəʊ/ staccato (adj)斷音的/不連貫的/斷斷續續的 = abrupt = disjointed = disconnected = desultory
     + /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous <-- stay
     + stalwart (adj)健壯的 = robust = sturdy, 英勇的 = valiant, 堅定的
+    +++ start (v)出發/起程, 開始/使開始 = begin, 引起/發起,  使開始運轉/啟動, 突然跳起/吃驚, 突然出現/冒出, [眼睛]凸/鼓起, 鬆動/脫開 (n)出發, 出發點, 最初/開端, 驚跳/驚嚇, 令人吃驚之事
     + /ˈstɑːt(ə)l/ startle (v)使嚇一跳/使吃驚 = astonish = astound = shock = stupefy --> startling (adj)令人吃驚的
     + /stɔːn(t)ʃ/ staunch (adj)忠實的/堅定的, 堅固的
     ++ steep (v)浸泡/浸透 = imbue = saturate (adj)陡峭的 = sheer, 高昂的 = exorbitant, 高聳的 = high = lofty --> steeped (adj)沉浸在……中的 = immersed = saturated
@@ -2595,6 +2596,7 @@
     + suffrage (n)投票 = vote, 投票權 = franchise
     +++ sullen (adj)鬱鬱寡歡的/憂鬱的 = gloomy = morose = dismal = dreary, 陰沉的/暗的 = dismal = dreary = gloomy = surly
     + sully (v)弄髒/玷污/敗壞 = stain = taint = tarnish = defile = smear <|> sullen
+    + summit (n)尖峰/峰頂, 頂峰/高峰, 最高級會議/首腦會議 (v)到達峰頂
     + /ˈsʌndri/ sundry (adj)各式各樣的/各種的 = miscellaneous = heterogeneous = various <-- sunder
     + /ˈs(j)uːpʌɪn/ supine (adj)仰向的/仰躺的, 懶散的 = indolent
     ++ surly (adj)暴躁的/易怒的 = crabbed = cantankerous = irritable, 可怕的/陰沈的 = menacing = threatening = formidable = dismal = gloomy = sullen <-- sur 先生 = sir + ly
@@ -2989,7 +2991,7 @@
     +++ tax (n)稅金, 負擔 (v)課稅/收會費, 使負重擔, 斥責 = censure = reprove = accuse --> taxing (adj)繁重的 = burdensome = demanding = onerous
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + /ˈtiːdɪəs/ tedious (adj)乏味的/沈悶的 = dull = jejune --> tedium (n)單調乏味/無聊 = boredom
-    + telltale (adj)洩露秘密的 (n)指示器/計數器
+    + telltale (adj)洩露秘密的 = revealing (n)指示器/計數器
     * tempt (v)引誘/誘惑 = allure = lure, 打動/引起 = urge, 說服 = persuade --> temptation (n)渴望/誘惑, 誘惑物 = lure
     +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
 	* temperamental (adj)喜怒無常的, 性情的
@@ -3226,6 +3228,7 @@
     ++ /ˈvɛstɪdʒ/ vestige (n)遺跡/殘餘 = trace, 一點兒/絲毫, 退化器官 --> vestigial (adj)退化的 = degraded
     ++ vex (v)激怒 = provoke = irritate = annoy = nettle = peeve = irk = pique = harrow, 折磨/苦惱 = afflict = torment = trouble = distress = plague = worry = agitate, 使困惑 = baffle = confuse = puzzle
     + vexation (n)折磨/苦惱 = affliction, 惱火 = irritation = annoyance
+    ++ vicar (n)教區牧師 --> /vɪˈkɛːrɪəs/ vicarious (adj)感同身受的, 替代的/代理的
     + /vɪˈsɪsɪtjuːd/ vicissitude (n)變化無常/變換, 盛衰/興敗 --> vicissitudinous (adj)有變化的/變遷的 <-- vicussi 改變 + tude
     + /vʌɪ/ vie (v)競爭 = contend = compete --> vying (adj)競爭的
     *** /vʌɪl/ vile (adj)可鄙的 = filthy = mean = base = sordid, 下流的/粗俗的 = filthy = obscene = vulgar, 邪惡的 = wicked
@@ -3268,7 +3271,6 @@
     ^ ventilate (v)使通風/透風
     ^ vernacular (n)本地話/方言 = dialect = patois, 行話 (adj)用本國語的/用方言的/白話的, 本國的/本地的
     ^ veto (n/v)否決/禁止
-    ^ vicar (n)教區牧師 --> vicarious (adj)替代的/代理的
     ^ victim (n)犧牲者/遇難者/受害者, 犧牲品/祭品 --> victimize (v)使受害/迫害
     ^ vintner (n)酒商 <-- vint 酒 = wine + ner
     ^ violate (v)違反/觸犯
