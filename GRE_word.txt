@@ -1098,6 +1098,7 @@
     + garrulous (adj)[貶]嘮叨的/喋喋不休的/饒舌的 = wordy = loquacious --> garrulity (n)嘮叨/饒舌 <-- garr 講話 = chatter + ulous
     + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = coarse = uncouth = clumsy = awkward = tactless --> gaucherie (n)笨拙
     + /ˈdʒiːnɪəl/ genial (adj)愉快的/和藹的/友好的 = cordial = cheerful = friendly = amiable = kindly = affable --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
+    + /dʒɛnˈtiːl/ genteel (adj)冒充上流的/附庸風雅的 <-- gentle
     + /ˈdʒɛrɪˌmandə/ gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
     + /dʒɛˈsteɪt/ gestate (v)懷孕 = conceive, 構思/孕育 = conceive = develop slowly --> gestation (n)懷孕 = pregnancy, 構思/孕育
     + glean (v)拾落穗, 搜集（消息、材料等）
@@ -1120,6 +1121,7 @@
     + /ˈɡrɒv(ə)l/ grovel (v)卑躬屈膝 = humble = lie or crawl with the face downward
     + growth (n)發展/增長/擴大 <|> gross
     + guarded (adj)小心翼翼的 = cautious = careful = prudent = canny = deliberate = measured = methodical
+    + guffaw (n/v)大笑
     * guile (n)欺詐 = duplicity
     + guileless (adj)誠實無欺的/老實的 = artless = naive = frank = sincere = candid = explicit
     + /ɡʌɪz/ guise (n)外觀/裝束 = appearance = semblance, 偽裝/假裝 = semblance <|> /ɡʌɪ/ guy
@@ -1188,7 +1190,6 @@
     ^ gear (n)齒輪, 裝備 = equipment, 儀器
     ^ gem (n)寶石/珠寶, 精華
     ^ gentle (adj)溫和的/慈祥的, 高貴的, 有教養的
-    ^ genteel (adj)上流社會的, 冒充上流的 <-- gentle
     ^ gentry (n)仕紳/上流社會人士
     ^ geometrician, geometer (n)幾何學家
     ^ gesture (n)姿勢, 姿態, 手勢
@@ -1249,7 +1250,6 @@
     ^ grudge (v)吝嗇/勉強地做, 嫉妒 = begrudge (n)怨恨/嫌隙 = enmity
     ^ gruel (n)稀粥 (v)使極度疲勞 --> grueling (adj)繁重累人的
     ^ guarantee (v)保證/擔保
-    ^ guffaw (n/v)大笑
     ^ guillotine (n)斷頭台
     ^ guilt (n)罪行 = crime = sin, 內疚 --> guilty (adj)有罪的
     ^ gulp (v)大口地吃喝, 哽住 (n)吞嚥
@@ -1274,6 +1274,7 @@
     ++ /ˈharəʊ/ harrow (n)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)悲痛的/難受的 = distressing = terrifying = upsetting
     ++ halt (v)暫停/終止 = stop = cease, 蹣跚/結巴 = falter --> halting (adj)躊躇的/猶豫的, 結結巴巴的, 跛的/蹣跚的
     ++ hamper (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose = check = arrest = deter = stymie (n)有蓋提籃, 障礙物/束縛
+    + hamstring (n)腿筋/膕繩肌腱 --> hamstrung (v)切斷(人、馬等的)腿後腱使成跛腳, 嚴重地限制..的效果
     + hand-wringing (n)憂慮的模樣/歇斯底里的狀態 = hysteria
     + /həˈraŋ/ harangue (n)(貶義)長篇大論的指責性演說 = diatribe = tirade
     ++ /ˈhɑːbɪn(d)ʒə/ harbinger (n)先驅 = herald = forerunner, 預兆/前兆 = herald = sign = omen (V)作先知/預告/預示 = herald = foreshadow = adumbrate <-- harbor
@@ -2505,6 +2506,7 @@
     + semantic (adj)語義的
     + seraphic (adj)天使般的/純潔的/美麗的 = angelic
     +++ /ˌsɛr(ə)nˈdɪpɪti/ serendipity (n)機緣湊巧/意外收獲, 好運 = luck = good fortune
+    + /sɪˈriːn/ serene (adj)寧靜的/平靜的 = peaceful = equable = impassive = tranquil, 晴朗的/無雲的
     + sextant (n)六分儀 <-- sex 六 = six + ant
     + shackle (v)克制/抑制 = restrain = limit, 束縛 = fetter (n)腳鐐/枷鎖 = fetter
     ++ sham (n)虛假/騙局 = hypocrisy = hoax (v)假裝 = pretend = feign (adj)虛假的 = spurious = bogus = pretended = counterfeit = feigned = mendacious = false <|> shun 
@@ -2617,7 +2619,6 @@
     * seasoning (n)調味品/佐料
     * seasonable (adj)當令的, 適時的 = timely = opportune
     * seize (v)抓住, 奪取/攫取, 沒收/查獲, (強烈情感或劇痛)突然侵襲
-    * /sɪˈriːn/ serene (adj)寧靜的/平靜的 = peaceful = equable = impassive = tranquil, 晴朗的/無雲的
     * sermon (v)長篇說教, 佈道/講道 = homily
     *** /sɪˈvɪə/ severe (adj)嚴厲的/嚴苛的 = harsh = austere = acerbic = stern = stringent = scathing = severe = rigor, 苛刻的 = condemnatory, 嚴峻的/艱難的 = exigent, 嚴肅的/正經的 = sober = solemn = austere, 樸素的 = sober
     * /ˈʃaɡi/ shaggy (adj)長滿粗毛的, 頭髮蓬亂的, 草木叢生的, （毛髮等）粗濃的 = hirsute
@@ -3221,6 +3222,7 @@
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
     + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
     + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible <|> penal --> venality (n)貪贓枉法/腐敗 <-- vend
+    + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable
     + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾 (v)給...鑲上膠合板, 虛飾
     + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al 
     + vendetta (n)世仇/宿怨 = feud
@@ -3265,7 +3267,6 @@
     ^ veer (v)轉向/改變
     ^ velocity (n)速度, 迅速
     ^ vend (v)出售/販賣 --> vendor (n)小販 = seller
-    ^ venial (adj)輕微的/可原諒的 = forgivable = pardonable
     ^ venom (n)毒液, 惡毒/痛恨 = malevolence
     ^ vent (v)發洩, 開孔 (n)孔/洞 
     ^ ventilate (v)使通風/透風

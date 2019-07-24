@@ -413,7 +413,7 @@
 		+ autonomy (n)自治/獨立 --> autonomous (adj)自主的 = independent, 自治的 = self-governing
 
 	avi 鳥 = bird
-		* avid (adj)渴望的 = agog, 熱心的 = eager
+		+ avid (adj)渴望的 = agog, 熱心的 = eager
 		- aviary (n)大鳥籠,鳥舍
 		- aviation (n)航空
 		- aviatrix (n)女飛行員
@@ -1837,6 +1837,7 @@
 		- excursion --> excursive
 		+ execrate --> execrable <-- ex + secr + ate
 		- execute <-- ex + secu + te
+		+ /ˌɛksɪˈdʒiːsɪs/ exegesis (n)解釋/註釋
 		- exempt <-- ex + empt
 		- exert <-- ex + sert 
 		- exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
@@ -3306,7 +3307,7 @@
 			* legate (n)特使/使節/使者 = envoy
 			* legacy (n)遺產/遺贈/留給後人的東西 = bequest <-- legate
 			- legion (n)軍團, 一大群
-			+ relegate (v)貶職/使降級
+			+ relegate (v)貶職/使降級 = demote
 
 		2. 法律/君主 = liege, law
 			- /əˈliːdʒ(ə)ns/ allegiance (n)(對統治者、國家、群體或信仰的)忠誠/擁護 = adherence = devotion = advocacy
@@ -3365,7 +3366,7 @@
 			- collective (adj)聚集而成的, 共同的/集體的, 合計的 = aggregate (n)集體企業/集體農場
 			- eligible (adj)有資格的 = qualified = suitable, (婚姻)合意的
 			- elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
-			- elite (n)精華, 精英
+			- elite (n)精華, 精英 
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
 			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
 			- /ɪnˈtɛlɪdʒ(ə)nt/ intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
@@ -3496,7 +3497,7 @@
 		- preliterate (adj)文字出現以前的
 
 	lib, libr 書 = book
-		- /ˈlʌɪb(ə)l/ libel (n/v)文字誹謗/中傷 (n)誹謗罪 <|> label
+		- /ˈlʌɪb(ə)l/ libel (n/v)文字誹謗/中傷 = lampoon (n)誹謗罪 <|> label
 		- library (n)圖書館/書房/書庫, 藏書
 		- libretto (n)歌劇的歌詞/劇本
 
@@ -3560,7 +3561,7 @@
 	mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
 		+ misanthrope, misanthropist --> misanthropy
 		- misbehavior (n)不禮貌/品行不端
-		- misconception 誤解
+		- misconception (n)誤解
 		- misdeed (n)惡行/罪行
 		- misfit (n)與社會脫節的人
 		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
@@ -3621,6 +3622,7 @@
 		+ /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)惡意的/邪惡的 = evil = sinister = malicious = malevolent
 		+ malignant (adj)有惡意的/邪惡的 = malicious = malign = malevolent = mean = wanton, (醫)惡性的/致命的 <--> benign
 		+ malinger (v)裝病並以逃避責任 <-- mal + linger
+		+ malodorous (adj)有惡臭的
 		- malpractice (n)怠忽職守/瀆職/營私舞弊, 誤診
 		* maltreat (v)粗暴對待/虐待 = abuse = mishandle
 
@@ -3775,7 +3777,7 @@
 
 	mass 一團
 		* amass (v)積聚 = accumulate = accrue = garner
-		++ mass (adj)大規模的/大批的 (n)一團, 色塊, 大量/大群, 大多數, 大眾, 質量/重量 (v)集中/聚集
+		++ mass (adj)大規模的/大批的 (n)一團 = clump, 色塊, 大量/大群, 大多數, 大眾, 質量/重量 (v)集中/聚集
 		+ massive (adj)厚重的, 巨大的/極嚴重的/大規模的, 實心的
 
 	melior 更好 = better
@@ -3814,7 +3816,7 @@
 
 	morph 形狀 = shape, form, structure
 		+ amorphous (adj)無定形的
-		+/ˌmɛtəˈmɔːfəʊz/  metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
+		+/ˌmɛtəˈmɔːfəʊz/ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
 		- morphology (n)形態學
 
 	mort, mori 死亡 = kill, die
@@ -3837,7 +3839,7 @@
 
 	mot 動 = move
 		- commotion (n)騷動/喧鬧 = turbulence = riot = bedlam, 動亂/起義
-		- demote (v)降職/降級 <--> promote
+		- demote (v)降職/降級 = relegate <--> promote
 		* emote (v)誇張地表現情感 --> emotion (n)感情/情緒
 		- locomotive
 		- motile (adj)能動的, 運動表象的 --> motility (n)運動性
@@ -3845,15 +3847,15 @@
 		+ promote (v)促進/發揚, 推銷/推廣 = tout = exploit, 促使(法律)通過, 升遷/晉升 = exalt = advance = elevate --> promotion (n)促進/發揚, 促銷/推銷, 推廣/宣傳, 晉升/升遷
 
 	mut 改變 = change
-		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤
+		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
 		- mutate (v)變異 --> mutation (n)突變
 		+ immutable (adj)永恆的/不可改變的 = unchangeable 
 		+ transmute (v)變化/使變形
 
 	merc 交易 = buy, deal
 		* /ˈkɒməːs/ commerce (n)商業/商務/貿易/交易 <|> commence
-		- ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
-		- merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
+		- /ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
+		- /ˈməːtʃ(ə)nt/ merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
 		+ /ˈməːsɪn(ə)ri/ mercenary (adj)唯利是圖的 = venal (n)雇傭兵, 以金錢為目的人
 
 	merg, mers 沉潛 = sink, dive
@@ -3873,7 +3875,7 @@
 		- mechanic (n)機械工/修理工/技工
 		- mechanics (n)力學
 		- mechanical (adj)機械的, 機械似的/呆板的, 力學的/物理的, 手工操作的
-		*** mechanism (n)機械裝置, 機制/物理過程, 手法/技巧, 機械裝置
+		*** mechanism (n)機械裝置, 機制/物理過程, 手法/技巧
 
 	magn, maj 大
 		+ magnanimous --> magnanimity
@@ -3885,7 +3887,7 @@
 
 	mari 海 = sea, ocean
 		- marine (adj)海的, 海中的/海生的 (n)海軍陸戰隊隊員
-		- submarine (n)潛艇, 海底生物, 水下裝置 (adj) 海底的
+		- submarine (n)潛艇, 海底生物, 水下裝置 (adj)海底的
 		- mariculture (n)海洋生物養殖
 		- /ˈmarɪtʌɪm/ maritime (adj)海的 = nautical, 住海邊的/在海上發現的, 沿海的
 
@@ -3912,42 +3914,42 @@
 
 [N]
 	neg, ne 反對/否認/不 = deny, refuse, no
-		- abnegate (v)否認, 放棄 = deny = repudiate
-		- negative (adj)消極的, 否認的
+		- abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate
+		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 正名為假 = belie, 抵銷 = neutralize
 		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = cancel out = stultify
-		- negation (n)否認/反對
-		- nefarious (adj)邪惡的/惡毒的 = evil = wicked <-- ne + fa(i)r + ious
-		+ neglect (v)忽視/忽略, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心
-		+ negligible (adj)無關緊要的/微不足道的
-		+ renege (v)食言/背信
-		- renegade (n)背教者/叛徒 = recreant = apostate
+		- negation (n)否認/反對, 對立面
+		- nefarious (adj)邪惡的/惡毒的 = evil = wicked = criminal <|> precarious <|> multifarious <-- ne + fa(i)r + ious
+		+ neglect (n/v)忽視/忽略 = disregard, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心
+		+ negligible (adj)無關緊要的/微不足道的 = insignificant
+		+ /rɪˈneɪɡ/ renege (v)食言/背信 = go back on
+		- /ˈrɛnɪɡeɪd/ renegade (n)背教者/叛徒 = recreant = apostate (adj)變節的
 
 	neo 新
-		- neolithic (adj)新石器時代的 <-- neo + lith + ic
+		- /ˌniːə(ʊ)ˈlɪθɪk/ Neolithic (adj)新石器時代的 <-- neo + lith + ic
 		+ neologism (n)新字/新義
-		+ neophyte (n)新手/初學者 = novice = beginner = fledgling = tyro <-- neo + phyte 植物
+		+ neophyte (n)新手/初學者 = novice = beginner = fledgling = tyro, 新信徒 <-- neo + phyte 植物
 
 	neutr 兩者皆非/中 = neither <-- ne 不 + uter 其一 = either
-		- neutral (adj)中立的/中性的, 不確定的 (n)中立者/中立國
-		+ neutralize (v)抵消/使失效 = counteract = nullify, 使中和
+		- neutral (adj)公平的/中立的 = impartial, 無特色的, 略帶灰色的, 中性的, 不帶電的 (n)中立者/中立國, 灰白色, 汽車空檔
+		+ neutralize (v)抵消/使失效 = counteract = nullify = negative, 使中和, 拆除 = disarm, 使無力化
 		- neutron (n)中子
-		- neutrino (n)微中子
+		- /njuːˈtriːnəʊ/ neutrino (n)微中子
 
 	nex, nect 連接 = bind == arthr == junct
-		- annex (v)(武力或擅自)併吞 --> annexation
-		+ nexus (n)連接/聯繫/關係 = center
+		- /əˈnɛks/ annex (v)附加/增添, (武力或擅自)併吞 (n)附屬建築物, 附加物/附件 --> annexation (n)併吞
+		+ /ˈnɛksəs/ nexus (n)連接/聯繫/關係 = center, 一系列/一組, 中心/交叉點
 
 	nerv 精力 = sinew
 		+ /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
-		* nerve (n)勇氣/膽量/沉著, 神經, 憂慮/焦躁 (v)鼓起勇氣/鼓勵/激勵
+		* nerve (n)神經, 沉著, 勇氣/膽量, 憂慮/焦躁, 葉脈 (v)[nerve oneself]鼓起勇氣/激勵
 
 	nihil 無 = nothing
-		+ annihilate (v)消滅 = extingush = decimate = wipe out, 廢除/消除 = annul = nullify, 征服/徹底勝過 = vanquish
-		- nihilism (n)虛無主義
+		+ annihilate (v)消滅 = obliterate = extingush = decimate = wipe out, 征服/徹底勝過 = vanquish
+		- /ˈnʌɪ(h)ɪlɪz(ə)m/ nihilism (n)虛無主義
 		- nihil (n)虛無 = void
 
 	non 不
-		- nonchalance (n)冷漠/缺少關懷, 沈著 <-- non + chal 溫暖 = warm + ance
+		- nonchalant (adj)漠不關心的/冷靜的 --> nonchalance (n)冷漠/缺少關懷 <-- non + chal 溫暖 = warm + ance
 		- noncommittal (adj)不作許諾的/不表態的/含糊的, 不承擔義務的 <-- non + committal
 		+ nondescript (adj)難以歸類的/難以形容的, 平淡無奇的/沒趣的 = dull = insipid
 		* nonentity (n)沒有個性的人/無足輕重的人 = cipher, 毫無特色/缺乏見解
@@ -3956,9 +3958,6 @@
 		- nonsensical (adj)無意義的, 荒謬的 <-- nonsense
 		+ nontrivial (adj)重要的/有影響的 = significant
 		- nonviable (adj)無法自力生活或發展的
-
-	{nna} 表名詞
-		- antenna
 
 	nomy 律法/學科/管理 = law, custom, manage
 		- agronomy
@@ -5150,7 +5149,7 @@
 			+ redoubtable (adj)可敬畏的 = formidable
 			+ redound <-- red + o + und
 			+ redundant <-- red + und + ant
-			+ redress (n)改正/修正/補償 = compensation = correction = remedy
+			+ redress (n/v)改正/修正/補償 = compensation = correction = remedy
 			- refection
 			- refectory
 			+ refine (v)提煉/精鍊 --> refined (adj)有品味的 = polished = fine = cultured = elegant, 細緻的, 精製的, 精細的/細微的 = subtle = precise = exact
@@ -5617,7 +5616,7 @@
 		+ absolve (v)赦免 = acquit
 		* absolute (adj)完全的/絕對的 = complete = implicit, 無限制的 = unlimited = categorical
 		++ dissolve (v)(使)溶解, 使終結, 弄明白
-		++ dissolution (n)溶解, 解除/解散/潰散/中止 = disintegration = debauchery, 放蕩 = dissipation
+		++ dissolution (n)溶解, 解除/解散/潰散/中止 = disintegration = debauchery, 放蕩 = dissipation = debauchery
 		* dissolute (adj)放蕩的/放縱的 = profligate = licentious
 		- insoluble (adj)不溶解的, 不能解決的
 		- insolvency (n)無力償還, 破產 = bankruptcy
@@ -6262,7 +6261,7 @@
 	tend, tent, tense 伸展 = stretch
 		* attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
 		+++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
-		++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial
+		++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial <|> content
 		+ distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
 		+ extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
 		* inattentive (adj)不注意的/怠慢的 = distrait
