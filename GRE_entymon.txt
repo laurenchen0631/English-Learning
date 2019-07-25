@@ -3622,7 +3622,7 @@
 		* /ˈmalɪs/ malice (n)惡意 = despite = spite = rancor, [法]惡意/惡謀 --> malicious (adj)惡意的/惡毒的 = malevolent = malignant = mean = malign = vicious = spiteful = wanton
 		+ /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)惡意的/邪惡的 = evil = sinister = malicious = malevolent
 		+ malignant (adj)有惡意的/邪惡的 = malicious = malign = malevolent = mean = wanton, (醫)惡性的/致命的 <--> benign
-		+ malinger (v)裝病並以逃避責任 <-- mal + linger
+		+ malinger (v)裝病並以逃避責任 <|> malign <-- mal + linger
 		+ malodorous (adj)有惡臭的
 		- malpractice (n)怠忽職守/瀆職/營私舞弊, 誤診
 		* maltreat (v)粗暴對待/虐待 = abuse = mishandle
@@ -3825,7 +3825,7 @@
 		- immortal (adj)不朽的
 		- mortality (n)死亡 = demise, 大規模死亡, 死亡率
 		- /ˈmɔːɡɪdʒ/ mortgage (n)抵押貸款/抵押證書/抵押契據 (v)用...做抵押
-		+ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 --> mortification (n)屈辱/恥辱, 禁慾/克制
+		++ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 --> mortification (n)屈辱/恥辱, 禁慾/克制
 		- moribund (adj)即將滅亡的, 垂死的 = dying <-- mori + bund 接近
 		- /ˈmɔːtʃʊri/ mortuary (n)停屍間 (adj)喪禮的/墓碑的
 
@@ -3857,6 +3857,7 @@
 		* /ˈkɒməːs/ commerce (n)商業/商務/貿易/交易 <|> commence
 		- /ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
 		- /ˈməːtʃ(ə)nt/ merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
+		- merchandise (n)商品/貨物, 聯名商品 (v)推銷/促銷, 推廣 = promote = promote
 		+ /ˈməːsɪn(ə)ri/ mercenary (adj)唯利是圖的 = venal (n)雇傭兵, 以金錢為目的人
 
 	merg, mers 沉潛 = sink, dive
@@ -3951,7 +3952,7 @@
 
 	non 不
 		- /ˈnɒnʃ(ə)lənt/ nonchalant (adj)漠不關心的/冷靜的 --> nonchalance (n)冷漠/缺少關懷 <-- non + chal 溫暖 = warm + ance
-		- non-committal, noncommittal (adj)不作許諾的/不表態的/含糊的 <-- non + committal
+		- non-committal, noncommittal (adj)不作許諾的/不表態的/含糊的 <|> committal <-- non + committal
 		+ nondescript (adj)缺乏特色的 (n)沒有特色的人或物
 		* nonentity (n)沒有個性的人/無足輕重的人 = cipher, 無趣的情況, 不存在 = non-existence
 		- nonflammable (adj)不易燃的 <--> inflammable = flammable
@@ -4002,13 +4003,13 @@
 		- nigrify (v)使變黑
 
 	nud 赤裸的 = bare
-		- denud (v)脫去, 使剝蝕/使光禿, 剝奪/奪走
+		- denude (v)脫去/剝奪/奪走
 		- nudity (n)裸體
 		- nudism (n)裸體主義
 
 	norm 規定 = rule, pattern
-		+ enormity (n)暴行/窮兇極惡/滔天大罪, 巨大 --> enormous (adj)巨大的
-		* norm (n)標準/規範 = standard
+		+++ enormity (n)窮兇極惡/滔天大罪, 巨大/深遠 --> enormous (adj)巨大的
+		* /nɔːm/ norm (n)標準/規範 = standard (v)調整..以符合規範
 		+ normative (adj)基準的/規範的 <-- norm
 
 	numer 數字
@@ -4018,44 +4019,44 @@
 
 	nat, nasc, naiss 出生 = born
 		+ innate (adj)與生俱來的/天生的 = inborn = native <|> inmate
+		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
-		- nascent (adj)新生的/萌芽的 = incipient = embryonic --> nascency (n)發生/起源
-		- renascent (adj)再生的/復興的/復活的
-		- renaissance (n)新生/復活, 文藝復興 <|> reconnaissance
-		- natal (adj)出生的/誕生時的
+		- nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
+		- renascent (adj)再生的/復興的/復甦的
+		- /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
 
 	noc 傷害 = harm
-		- innocent (adj)無罪的/清白的, 無害的/天真的/單純的 --> innocence (n)無辜/清白, 天真無邪/純真
-		+ innocuous (adj)無害的 = harmless = innocent, 無趣的/乏味的 = pallid = insipid = jejune = dull = bland
+		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真
+		+ innocuous (adj)無害的 = harmless = innocent = inoffensive
 		+ noxious (adj)有害的/有毒的 = noisome
 		- obnoxious (adj)令人不快的/討厭的/可憎的
 
 	noct, nocti 夜 = night
 		- nocturn (n)夜禱
 		- nocturnal (adj)夜的/夜間發生的
-		- noctambulant (adj)夢遊的
+		- noctambulant (adj)夢遊的 = somnambulant
 		- noctilucent (n)夜間發光的/夜間可見的 <-- nocti + lucent
 	
 	nost 家 = home
 		+ nostalgia
-		+ nostrum (n)江湖藥/妙方, 萬靈丹
+		+ nostrum (n)江湖藥/妙方, 自認為可解決某種社會或政治問題的妙計
 
 	narco, narc 恍惚/失去意識 = stupor
-		- narcotic (adj)催眠的/麻醉的 (n)催眠藥/麻醉劑
-		- narcosis (n)昏迷狀態/睡眠狀態/麻醉作用
+		- narcotic (adj)麻醉的/麻醉效果的 (n)催眠藥/麻醉劑, 迷幻藥/致幻毒品
+		- narcosis (n)昏迷狀態/麻醉狀態
 		- narcotize (v)麻醉/使昏迷
 
 	naus, naut, navi 船 = boat
-		* nausea (n)噁心/作嘔 = qualm, 暈船 --> nauseate (v)作嘔, 使感到不舒服
-		- nautical (adj)船員的, 航海的
+		* /ˈnɔːsɪə/ nausea (n)噁心/作嘔 = qualm, 暈船 --> nauseate (v)作嘔, 使感到不舒服
+		- nautical (adj)船員的/航海的 = maritime
 		- astronaut (n)太空人
 		- navigate (v)航海/操縱/駕駛, 導航
 
 	nitro, nitr 氮
 		- nitrogen (n)氮
-		- niter (n)硝酸鉀, 硝酸鈉
-		- nitric (adj)硝石的, 氮的
-		- nitrate (n)硝酸鹽
+		- /ˈnaɪdər/ niter (n)硝酸鉀 = potassium nitrate
+		- nitric (adj)硝石的/五價氮的
+		- nitrate (n)硝酸鹽 (v)用硝酸處理/硝化
 
 [O]
 	ob, oc, o, op
@@ -4067,17 +4068,17 @@
 			- obstacle (n)障礙/干擾
 			+ obstinate --> obstinacy
 			- obstruct
-			+ obtuse (adj)鈍的/不銳利的 = blunt, 感覺遲鈍的/不敏感的/愚鈍的 = blunt = insensitive = dull <-- ob + tuse 打 = beat
-			- offend --> offense = offence --> offensive
+			+ obtuse (adj)感覺遲鈍的/愚鈍的 = blunt = dull, 晦澀難解的, 鈍角的, 鈍的/不銳利的 = blunt <-- ob + tuse 打 = beat
+			- offend --> offense, offence --> offensive
 			+ officious
 			+++ oppose --> opposition
 			+ opponent
 			
 		2. 離開/去掉 = away == a == de == dis == e == ex
-			- obituary (n)訃告/訃聞 (adj)死亡的/訃告的
+			- /ə(ʊ)ˈbɪtʃʊəri/ obituary (n)訃告/訃聞
 			+ obliterate
 			+ obsolete --> obsolescent
-			+++ occult (adj)難以理解的/奧祕的/超自然的, 祕密的 = hermetic <-- oc + cult 藏 = hide
+			+++ /ɒˈkʌlt/ occult (adj)奧祕的/超自然的, 祕密的 = hermetic, [醫]潛隱的 (n)神秘現象 (v)掩蔽/遮蔽 <-- oc + cult 藏 = hide
 			- occur --> occurence
 			- omit (v)省略, 遺漏/疏忽
 
@@ -5122,7 +5123,7 @@
 [R]
 	re, r, red
 		1. 再次/重新/加強 = again
-			- rapprochement (n)和好/和睦 <-- r + approach + ment
+			+ rapprochement (n)和好 <-- r + appro(a)ch + ment
 			+ react (v)反應/影響, 抗拒/反抗 --> reactant (n)反應物
 			- reactionary (adj)保守的/反動的
 			- reagent (n)試劑 <-- react + agent 
@@ -5682,7 +5683,7 @@
 		- statute (n)法令/法規 = canon --> statutory (adj)法點的/受法令約束的
 		- stead (n)代替/接替, 用處/利益
 		+ steady (adj)穩固的/平穩的/穩定的/鎮靜的, 紮實的/可靠的 (v)使穩固/使鎮定 (n)關係確定的情侶
-		- steadfast (adj)忠實的 = faithful, 不變的
+		+ steadfast (adj)堅定的/不動搖的 = adamant = faithful = resolute = rigid
 		- subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 生存手段, 法律效力
 		- substance (n)本旨/主旨/真意, 實質/本質/實體, 物質
 		+++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 真實的/實在的 = real = tangible, 基本上的 = basic = essential = fundamental, 富裕的
@@ -6427,7 +6428,7 @@
 		++ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
 
 	terminm, term 邊界/終止 = boundary, limit, end == fin
-		- coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
+		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
 		- exterminate (v)滅絕/消滅 = eradicate = annihilate = extirpate
 		+ interminable
 		- terminal (adj)末期的, 極其的/極度的 (n)終點站, 月臺/候機樓
@@ -6592,7 +6593,7 @@
 		- unrest (n)不平/動盪, 不平靜
 		- unreserved (adj)無限制的, 未被預訂的
 		+ unresolved (adj)無決斷力的/不果斷的
-		* unruly (adj)任性的/不守規矩的 = untoward = fractious
+		+ unruly (adj)任性的/不守規矩的 = untoward = fractious
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
 		+ unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
@@ -6672,7 +6673,7 @@
 	umbr 影子/陰影 = shade, shadow
 		+ adumbrate (v)預示 = foreshadow = prefigure = herald = harbinger, 遮蔽 = obscure = overshadow, 暗示 --> adumbration (n)
 		+ penumbra (n)半影, 曖昧的部分
-		+ umbrage (n)憤怒/生氣/不快 = offense = annoyance, 陰影/樹蔭
+		+ /ˈʌmbrɪdʒ/ umbrage (n)憤怒/生氣/不快 = offense = annoyance, 陰影/樹蔭
 		- umbrella (n)雨傘
 
 	und 波浪 = wave

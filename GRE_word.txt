@@ -25,6 +25,7 @@
     + /ˈanədʌɪn/ anodyne (n)鎮痛劑 (adj)止痛的 = analgesic = lenitive, 一團和氣的/溫和的
     ++ anoint (v)選定/指定, 塗抹/擦油 = baste = grease
     + apex (n)點頂/最高點 = acme
+    + aplomb (n)沈著/自信 = equanimity
     + /ˈapəθɛm/ apothegm (n)格言/箴言 = adage = aphorism = dictum
     + /əˈprʌɪz/ apprise (v)通知/告訴 = inform = advise
     ++ /ˈaprəpəʊ/ apropos (adj)適宜的/適時的 = appropiate = opportune = seasonable (prep)關於 = with regard to = in respect of (adv)適時地, 有關地
@@ -109,7 +110,6 @@
     ^ anthem (n)聖歌, 國歌
     ^ anvil (n)鐵砧
     ^ aorta (n)主動脈
-    ^ aplomb (n)沈著/自信 = equanimity
     ^ apoplexy (v)中風 --> apoplectic (adj)中風的, 憤怒的/勃然大怒的 = indignant
     ^ apothecary (n)藥劑師
     ^ applicable (adj)可應用的/適合的 = agreeable
@@ -1092,7 +1092,7 @@
     ^ furbish (v)磨光/擦亮/更新 = refurbish
 
 [G]
-    + gaffe (n)失禮/失態 <-- gaff 魚叉 + e
+    + gaffe (n)失禮/失態 = mpropriety <-- gaff 魚叉 + e
     + gainsay (v)否認/反駁 = deny = dispute = naysay, 反對 = oppose = naysay <-- gain 再次 = again + say
     + gall (n)膽汁 = bile, 膽囊, 厚臉皮/厚顏無恥, 怨恨/不滿 = resentment = hatred, 擦傷 (v)激怒, 擦傷 --> gallant (adj)勇敢的, 華麗的, 獻殷勤的
     + /ˈɡalvənʌɪz/ galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
@@ -1282,6 +1282,7 @@
     ++ /ˈhɑːbɪn(d)ʒə/ harbinger (n)先驅 = herald = forerunner, 預兆/前兆 = herald = sign = omen (V)作先知/預告/預示 = herald = foreshadow = adumbrate <-- harbor
     + harmonious (adj)融洽的/和睦的, 一致的 = congruous = congruent = accordant
     + /ˈhɔːti/ haughty (adj)傲慢的/自大的 = arrogant = supercilious = conceited = cavalier = disdainful = imperious
+    + /əʊˈtəː/ hauteur (n)傲慢 = haughtiness = snobbery
     + hearten (v)鼓勵/激勵 = cheer = encourage
     ++ hedge (n)樹籬/籬笆, 限制/界限 (v)限制 = restrict, 避免答覆/迴避, 兩面下注
     + /ˈhiːd(ə)nɪst/ hedonist (n)享樂主義者 = sybarite --> hedonistic (adj)享樂主義的 <-- hedon 快樂 = pleasure + ist
@@ -1352,7 +1353,6 @@
     ^ harridan  (n)潑婦, 老巫婆/魔女
     ^ harry (v)掠奪, 侵擾/折磨 = annoy = torment
     ^ hatch (n)船艙蓋 (v)孵化
-    ^ hauteur (n)傲慢 = haughtiness = snobbery
     ^ haven (n)和平之地, 避難所 = harbor = refuge
     ^ havoc (n)大破壞/混亂 = ravage
     ^ hawk (n)鷹/隼 = falcon
