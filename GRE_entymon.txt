@@ -876,7 +876,7 @@
 
 	celer 速度
 		+ accelerate (v)加速, 促進 = expedite = hasten <--> retard
-		- celerity (n)敏捷 = speed = swiftness = alacrity
+		+ celerity (n)敏捷 = speed = swiftness = alacrity
 		+ decelerate (v)減速
 
 	cent, cant, chant 唱/說 = song, chant == dict
@@ -2000,6 +2000,7 @@
 		1. 上 = on, upon, above, over
 			- epidermis
 			- epidemic
+			+ eponym
 			- epitaph (n)墓誌銘 <-- epi + taph 墓 = tomb
 			- epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = put
 			- epoch (n)時期/時代, 重要時期, 新紀元, 值得紀念的事件 <-- ep + och 擁有 = have
@@ -2356,7 +2357,7 @@
 		- insectifuge (n)驅蟲劑
 		+ refuge (n)避難所/庇護所 = asylum = shelter
 		- refugee (n)難民/流亡者
-		- subterfuge (n)託辭 = quibble = quirk
+		+ subterfuge (n)託辭 = quibble = quirk
 
 	fulg 閃亮 = shine
 		- effulgent (adj)燦爛的 = refulgent
@@ -3307,7 +3308,7 @@
 			* legate (n)特使/使節/使者 = envoy
 			* legacy (n)遺產/遺贈/留給後人的東西 = bequest <-- legate
 			- legion (n)軍團, 一大群
-			+ relegate (v)貶職/使降級 = demote
+			+ relegate (v)貶職/使降級 = demote <--> promote
 
 		2. 法律/君主 = liege, law
 			- /əˈliːdʒ(ə)ns/ allegiance (n)(對統治者、國家、群體或信仰的)忠誠/擁護 = adherence = devotion = advocacy
@@ -3502,7 +3503,7 @@
 		- libretto (n)歌劇的歌詞/劇本
 
 	liber, libr 平衡/自由 = balance, weigh
-		++ deliberate (v)慎重考慮 = consider = contemplate = reflect = mediate (adj)深思熟慮的 = studied = intentional = measured = judicious = discreet = prudent = circumspect = measured = canny = guarded = methodical, 故意的/蓄意的 <|> debilitate
+		++ deliberate (v)慎重考慮 = consider = contemplate = reflect = mediate (adj)深思熟慮的 = studied = measured = judicious = discreet = prudent = circumspect = measured = canny = guarded = methodical, 故意的/蓄意的 = intentional <|> debilitate
 		- equilibrium (n)平衡/均衡, (心裡的)平靜/安寧 = equanimity
 		+ liberal (adj)開放的/開明的 = catholic = broad-minded, 自由的 = free, [法]不拘泥於字面意義的, 通才教育的, 慷慨的/大方的 = generous = munificent, 大量的 (n)自由主義者
 		- liberality (n)慷慨, 心胸寬闊
@@ -3744,7 +3745,7 @@
 
 	mur 牆 = wall, grave
 		+ /dɪˈməː/ demur (v)反對 = object = oppose, 抗辯/表示異議 (n)反對/猶豫 --> demurral (n) = exception
-		+ /dɪˈmjʊə/ demure (adj)端莊的/文靜的 <|> demur
+		+ /dɪˈmjʊə/ demure (adj)端莊的/文靜的 = modest <|> demur
 		- mural (n)壁畫 (adj)牆壁的
 		+ immure (v)監禁 = imprision = confine = incarcerate
 
@@ -3915,7 +3916,7 @@
 [N]
 	neg, ne 反對/否認/不 = deny, refuse, no
 		- abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate
-		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 正名為假 = belie, 抵銷 = neutralize
+		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie, 抵銷 = neutralize
 		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = cancel out = stultify
 		- negation (n)否認/反對, 對立面
 		- nefarious (adj)邪惡的/惡毒的 = evil = wicked = criminal <|> precarious <|> multifarious <-- ne + fa(i)r + ious
@@ -3949,50 +3950,51 @@
 		- nihil (n)虛無 = void
 
 	non 不
-		- nonchalant (adj)漠不關心的/冷靜的 --> nonchalance (n)冷漠/缺少關懷 <-- non + chal 溫暖 = warm + ance
-		- noncommittal (adj)不作許諾的/不表態的/含糊的, 不承擔義務的 <-- non + committal
-		+ nondescript (adj)難以歸類的/難以形容的, 平淡無奇的/沒趣的 = dull = insipid
-		* nonentity (n)沒有個性的人/無足輕重的人 = cipher, 毫無特色/缺乏見解
+		- /ˈnɒnʃ(ə)lənt/ nonchalant (adj)漠不關心的/冷靜的 --> nonchalance (n)冷漠/缺少關懷 <-- non + chal 溫暖 = warm + ance
+		- non-committal, noncommittal (adj)不作許諾的/不表態的/含糊的 <-- non + committal
+		+ nondescript (adj)缺乏特色的 (n)沒有特色的人或物
+		* nonentity (n)沒有個性的人/無足輕重的人 = cipher, 無趣的情況, 不存在 = non-existence
 		- nonflammable (adj)不易燃的 <--> inflammable = flammable
-		+ nonplus (v)使困窘 = bewilder = confound (n)迷惑, 困窘/僵局 --> nonplussed (adj)不知所措的/陷於窘境的
+		+ nonplus (v)使困窘 = bewilder = confound (n)困窘/僵局 --> nonplussed (adj)不知所措的/陷於窘境的
 		- nonsensical (adj)無意義的, 荒謬的 <-- nonsense
 		+ nontrivial (adj)重要的/有影響的 = significant
-		- nonviable (adj)無法自力生活或發展的
+		- nonviable (adj)不可行的, 出生後無法自力生活的
 
 	nomy 律法/學科/管理 = law, custom, manage
 		- agronomy
 		+ autonomy
-		- economy
+		- economy --> economics
 
 	nom, nomin, nome 名字 = name == onym
-		- ignominy (n)恥辱 --> ignominious (adj)可恥的 = contemptible = despicable
-		+ nominal (adj)名義上的/有名無實的
-		- nominate (v)提名, 任命/指定
-		- denominate (v)命名, 結算(貨幣) --> denomination (n)名稱, (貨幣或長度的)單位
+		- /ˈɪɡnəmɪni/ ignominy (n)恥辱 = shame = disgrace --> ignominious (adj)可恥的 = contemptible = despicable
+		+ nominal (adj)名義上的/有名無實的, 名目上的/與實際價值不相符的, 微不足道的(費用), 名詞性的
+		- nominate (v)提名, 任命/指定 = appoint
+		- nominative (adj)主格的, 被提名的 (n)主格
+		- denominate (v)命名 = call = name, 結算(貨幣) --> denomination (n)宗派/教派, 面額, (貨幣或長度的)單位, 名稱/命名
 		+ misnomer (n)誤稱/人名誤載
-		+++ renown (n)名聲/聲譽 = fame --> renowned (adj)有名的/著名的
+		+++ /rɪˈnaʊn/ renown (n)名聲/聲譽 = fame --> renowned (adj)有名的/著名的
 
 	not 標示/注意 = note, mark
 		- annotate (v)註解/註記
 		- notorious (adj)惡名昭彰的 = flagrant
 		+++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
-		- denote ()表示/代表 = indicate = mean
-		- notable (adj)顯著的/明顯的, 著名的/顯要的
-		- noticeable (adj)顯而易見的/明顯的 = notable, 值得注意的/重要的
+		+ denote (v)表示/代表 = indicate = mean
+		- notable (adj)值得注意的 = remarkable = noteworthy (n)要人/名人
+		- noticeable (adj)顯而易見的/明顯的 = clear = apparent, 值得注意的/重要的 = notable
 
 	nounce, nunci 宣布/報告 = announce = dict = cent = log
 		- announce (v)宣布/發表 = pronounce = proclaim = herald, 通報...的到來
-		+ denounce (v)譴責 = denunciate = condemn = censure, 告發 = accuse formally
-		* denunciate (v)指責/譴責 = denounce = censure openly --> denunciation (n)指責/譴責 = public censure/condemn, 指控/告發, 宣告無效
+		+ denounce (v)公開譴責 = denunciate = condemn = censure, 告發 = accuse formally = inform against
+		* denunciate (v)公開譴責 = denounce --> denunciation (n)公開譴責 = public censure/condemn, 指控/告發
 		+ enunciate (v)清晰地發音, 明確表明/闡明
-		- enounce (v)宣布, 發音
-		- pronounce (v)發音, 宣告 = announce = proclaim --> pronounced (adj)明確的 = decided, 明顯的
+		- enounce (v)宣布/闡明, 發音
+		- pronounce (v)發音, 宣告 = announce = proclaim, 宣判 --> pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
 
 	nul, null 消除 = no, none, not any
-		+ annul (v)宣告無效 = abolish = abrogate = quash = repeal = rescind = revoke, 取消 = cancel <|> annals
-		+ nullify (v)使無效 = negate = invalidate, 取消 = cancel out = negate
+		+ annul (v)宣告無效 = abolish = abrogate = quash = repeal = rescind = revoke <|> annals
+		+ nullify (v)廢止 = negate = invalidate, 使無價值/使無效 = cancel out
 
 	nigr, negr 黑 = black
 		+ denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate = slur = disparage
@@ -4220,6 +4222,7 @@
 
 	onym 字/名 = word, name
 		+ anonymity (n)無名/匿名 --> anonymous (adj)匿名的, 無特色的/無個性特徵的
+		+ eponym (n)名祖
 		+ pseudonym (n)筆名
 		- synonyms (n)同義字
 		- antonyms (n)反義字
@@ -4395,7 +4398,7 @@
 		+ propensity
 		+ prophet (n)先知/預言家 --> prophecy (n)預言 --> prophetic (adj)先知的/預言的/預示的 <-- pro + peht 說 = speak
 		+ propitious (adj)吉利的/有利的 = favorable = benign, <-- pro + pit 懇求 = resort, solicit
-		+ propitiate (v)討好/撫慰/取悅 = appease = reconcile = conciliate <-- pro + pit 懇求 = resort, solicit
+		+ propitiate (v)取悅 = appease <-- pro + pit 懇求 = resort, solicit
 		* proportion (n)比率/比例, 相稱/均衡, 重要性/嚴重性 --> proportional (adj)與…成比例的 = commensurate
 		+ proportionate (v)使成比例/使相稱 < -- pro + portion
 		* propose --> proposal
@@ -6245,7 +6248,7 @@
 			- contented (adj)心滿意足的 
 			+ maintain (v)維持/保持/維修 = preserve = retain, 堅持/主張 = assert = affirm = declare
 			+ maintenance (n)維持/維護, 贍養費 = alimony
-			+ tenacious (adj)緊握的, 堅忍不拔的/頑強的/固執的 = stubborn = adamant --> tanacity (n)堅持/固執
+			+ /tɪˈneɪʃəs/ tenacious (adj)緊握的, 頑強的/固執的 = determined = stubborn = adamant, 持續存在的 --> tanacity (n)堅持/固執
 			* tenable (adj)可維持的 <--> untenable
 			- tenacity (n)頑固/固執
 			* tenant (n)承租人/房客/佃戶 (v)租借
