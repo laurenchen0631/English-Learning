@@ -641,6 +641,7 @@
     + /ˈdänt/ daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <|> flaunt <|> gaunt <|> taunt <|> vaunt
     + /ˈdərth/ dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
     + debilitate (v)使虛弱/削弱 = enfeeble = languish = wan = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
+    + debonair (adj)溫文爾雅的
     + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)拒絕 = refuse = withhold
@@ -2080,6 +2081,7 @@
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 惱人的事物/麻煩的事物 = nuisance (v)使染瘟疫, 煩憂/折磨 = gnaw = annoy = bother = pester = vex
     + platonic (adj)柏拉圖的/哲學的/理論的 = theoretical, 純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 通俗的/常見的 = common = vulgar
+    + plod (v)沉重緩慢地走, 埋頭苦幹 (n)沉重緩慢的行走 --> plodding (adj)緩慢無趣的, 孜孜不倦工作的
     + ploy (n)計謀/手法/策略 = stratagem
     ++ pluck (v)採/摘/拔/拉 = pull = grasp, 撥/彈(弦), 詐財/盜取 = rob = swindle = fleece = gouge = extort (n)膽識/勇氣 = courage --> plucky (adj)勇敢的/大膽的 = brave
     ++ plumb (adv)精確地 = exactly, 垂直地, 完全地 = completely (v)深入了解 = fathom = comprehend, 測水深 = fathom (adj)垂直的, 完全的 = absolute = through
@@ -3225,7 +3227,7 @@
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
     + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
     + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible <|> penal --> venality (n)貪贓枉法/腐敗 <-- vend
-    + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable
+    + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable <|> venal
     + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾 (v)給...鑲上膠合板, 虛飾
     + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al 
     + vendetta (n)世仇/宿怨 = feud

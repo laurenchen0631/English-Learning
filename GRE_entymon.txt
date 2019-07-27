@@ -59,6 +59,7 @@
 			+ annul
 			++ appeal --> appellant --> appellation
 			+ appease
+			+ /əˈpəːt(ɪ)nənt/ appurtenant (adj)附屬的/從屬的 <-- ap + pertinent
 			+ applaud --> applause
 			+ apposite
 			+ appraise
@@ -819,6 +820,7 @@
 		+ percipient (adj)觀察敏銳的/有洞察力的 == perceptive (n)有感知力的人
 		+ precept (n)格言/箴言, 戒律 = principle = law = canon = tenet
 		- precipice (n)懸崖/峭壁
+		+ precipitous (adj)險峻的/陡峭的, 突然的/戲劇化的, 魯莽的/倉卒的
 		+ precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
 		- precipitant (n)沈澱物
 		- precipitation (n)降水, 急躁/衝動
@@ -2210,7 +2212,7 @@
 		- circumference
 		++ confer (v)商討/商議/協商 = consult = deliberate = parley, 贈與/授與(稱號或榮譽) = bestow --> conference (n)會議/大會/討論會
 		++ defer (v)拖延/推延 = delay, 聽從 = submit = yield
-		++ deference (n)敬意/尊重 = respect = regard --> deferential (adj)順從的 = obedient = obsequious <-- defer
+		++ deference (n)敬意/尊重 = respect = regard = obeisance --> deferential (adj)順從的 = obedient = obsequious <-- defer
 		* deferement (n)延期/推遲 <-- defer
 		* differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
 		+ /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish = discriminate
@@ -2887,7 +2889,7 @@
 			+ insignificant (adj)不重要的 = trivial = inconsequential, 無足輕重的 = contemptible = despicable, 無意義的 = meaningless
 			+ /ɪnsɪnˈsɪə/ insincere (adj)虛偽的/不誠懇的 = hypocritical = sanctimonious = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
 			+ insipid
-			- insolent 
+			+ insolent 
 			- insoluble
 			- insolvency
 			- insomnia
@@ -3352,8 +3354,8 @@
 		- locomotion (n)運動/移動 = motion --> locomotive (n)火車頭 (adj)運動的/移動的
 
 	lustr, luster 光澤 = polish
-		+ illustrate (v)用圖、例子或圖表說明闡明 = exemplify <|> illuminate
-		+ illustrious (adj)輝煌的/顯赫的
+		+ illustrate (v)用圖、例子或圖表說明/闡明 = exemplify <|> illuminate
+		+ illustrious (adj)輝煌的/顯赫的 <|> illustrate
 		+ lackluster (adj)無生氣的/無趣的 = uninspired = dull = insipid, 無光澤的 = dull
 		+ luster (n)光澤 = gloss = sheen, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
 
@@ -3494,7 +3496,7 @@
 		+ literatus -> /ˌlɪtəˈrɑːti/ literati (n)文人/學者
 		* literate (adj)能讀寫的 <--> illiterate, 有文化修養的
 		- literacy (n)讀寫能力, 知識/能力
-		+ obliterate (v)擦掉/消滅 = efface = erase = cancel, 遮蔽/藏起 = conceal = cover --> obliteration (n)消滅/刪除
+		+ obliterate (v)擦掉/消滅 = efface = erase, 遮蔽/藏起 = conceal = cover --> obliteration (n)消滅/刪除
 		- preliterate (adj)文字出現以前的
 
 	lib, libr 書 = book
@@ -3549,7 +3551,7 @@
 
 	langu 鬆弛 = lax
 		++ languish (v)衰弱 = droop = fade = debilitate = pine = wan, 停滯/沒有進展, 經歷苦難/受煎熬
-		* languid (adj)沒精打采的/不感興趣的 = listless = wan = spiritless, 悠閒的, 虛弱的 = weary = fatigued
+		++ languid (adj)沒精打采的/不感興趣的 = listless = wan = spiritless, 悠閒的, 虛弱的 = weary = fatigued
 		- languor (n)慵懶 = tiredness = inactivity, 沈悶的空氣
 
 	luxur 奢侈 = extravagance
@@ -3857,7 +3859,7 @@
 		* /ˈkɒməːs/ commerce (n)商業/商務/貿易/交易 <|> commence
 		- /ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
 		- /ˈməːtʃ(ə)nt/ merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
-		- merchandise (n)商品/貨物, 聯名商品 (v)推銷/促銷, 推廣 = promote = promote
+		- merchandise (n)商品/貨物, 聯名商品 (v)推銷/促銷 = promote, 推廣 = promote
 		+ /ˈməːsɪn(ə)ri/ mercenary (adj)唯利是圖的 = venal (n)雇傭兵, 以金錢為目的人
 
 	merg, mers 沉潛 = sink, dive
@@ -4083,36 +4085,36 @@
 			- omit (v)省略, 遺漏/疏忽
 
 		3. 走向/加強 = to, towards == a == de == dis == e
-			* obey (v)服從/聽從/執行/遵守
+			* obey (v)服從/聽從, 執行, 遵守
 			+ obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
-			+ obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 <-- obey
-			- obese (adj)極肥胖的 = corpulent <-- ob + ese 吃 = eat
-			+ obfuscate (v)(故意)使模糊/使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n) 模糊/困惑<-- ob + fusc 黑暗 = dark + ate
+			+ /ə(ʊ)ˈbeɪs(ə)ns/ obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 = respect = deference <-- obey
+			- /ə(ʊ)ˈbiːs/ obese (adj)極肥胖的 = corpulent --> obesity (n)肥胖 <-- ob + ese 吃 = eat
+			+ obfuscate (v)(故意)使模糊/使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑<-- ob + fusc 黑暗 = dark + ate
 			+ obligate --> obligatory 
-			- obligation (n)義務/責任, 恩惠/人情, 債務
+			* obligation
 			- obnoxious
 			+ obsequious
 			+ observe --> observation
 			- observatory
 			- obtain --> obtainable
-			- obstreperous (adj)吵鬧的, 難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
+			- obstreperous (adj)難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
 			+ obtrude --> obtrusive
 			- obverse
 			+ obvious --> obviate
 			+ occlude
 			- occupy
 			* occupation
-			* opportune (adj)合適的/適當的 = appropriate = favorable, 適時的 = seasonable = timely = providential --> opportunity (n)機會
-			+ opportunism (n)機會主義/投機主義
+			* opportune (adj)合適的/適當的 = appropriate = favorable, 適時的 = seasonable = timely = providential --> opportunity (n)機會 <|> importune
+			+ /ˈɒpətʃuːnɪz(ə)m/ opportunism (n)機會主義/投機主義
 			+ oppress --> oppressive
-			+ opprobrium (n)恥辱 = disgrace = contempt, 譴責/責難 --> opprobrious (adj)罵人的/無禮的, 惡名聲的 <-- op + probr 恥辱 = disgrace + ium
+			+ opprobrium (n)恥辱 = disgrace = contempt, 嚴厲譴責 --> opprobrious (adj)表示批評的 <-- op + probr 恥辱 = disgrace + ium
 			+ ostentation --> ostentatious
 			+ ostensible, ostensive 
 
 	out 超出/出 = beyond, surpass, out
 		+ outdated (adj)陳舊的/過時的
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的
-		- outgrowth (n)自然結果 = consequence = ramification, 副產品 = byproduct
+		- outgrowth (n)自然結果 = consequence = ramification, 副產品 = byproduct = spin-off
 		+ outland (n/adj)外國 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
 		* outlaw (n)歹徒/罪犯, 被放逐者, 被查禁的組織 (v)宣布……為不合法, 使在法律上失效/禁止/限制 = proscribe, 將……放逐
 		- outlet (n)出口/出路, 銷路/商店
@@ -5261,7 +5263,7 @@
 			- rapport (n)和睦/意見一致 <-- r(e) + ap + port
 			- rebel --> rebellion --> rebellious
 			+ rebuff (v)斷然拒絕 <-- re + buff 噴/吹 = puff
-			- rebuke (n/v)指責/譴責 = reprimand = snub, 阻礙/制止 = check = stop = <-- re + buke 打 = beat
+			+ rebuke (n/v)指責/譴責 = reprimand = snub <-- re + buke 打 = beat
 			- rebut (v)反駁/抗辯 --> rebuttal (n)反駁/反證 <-- re + butt
 			- recall (n/v)回想/回憶, 收回/叫回/召回 = countermand = withdraw <-- re + call
 			+ recant
@@ -5591,7 +5593,7 @@
 
 	sol
 		1. 習慣 = accustom
-			- insolent (adj)傲慢的/專橫的 = overbearing = imperious = domineering = arrogant = peremptory, 厚顏無恥的 = impudent = shameless = brazen <|> indolent
+			+ insolent (adj)傲慢的/專橫的 = overbearing = imperious = domineering = arrogant = peremptory <|> indolent
 			+ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
 			+ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
@@ -6213,7 +6215,7 @@
 		+ entertain (v)吸引/逗樂 = divert = amuse, 考慮 = consider, 懷著/心存 = cherish = harbor
 		- obtain (v)得到/獲得, 存在
 		- obtainable (adj)能得到的
-		+ pertain (v)屬於, 有關/關於 --> pertinent (adj)有關的 = relevant = apropos --> pertinence (n)恰當/中肯/切題
+		+ pertain (v)屬於, 有關/關於 --> pertinent (adj)有關的 = relevant = apropos <|> appurtenant --> pertinence (n)恰當/中肯/切題
 		- pertainacious (adj)固執的/不妥協的 = intransigent = uncompromising = inflexible = insubordinate = disobedient
 		+ retain (v)保留 = maintain = preserve, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱 --> retainer (n)侍從 = servant
 		- retinue (n)侍從/隨員團 = retainer
@@ -6970,7 +6972,7 @@
 		- convect (v)空氣對流 --> convection (n) --> convective (adj)
 		+ convex (adj)凸的/凸起的 <--> concave 
 		+ inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently <|> inveigle
-		+ invective (n)惡言謾罵, 猛烈抨擊 (adj)謾罵的 = vituperative = denunciatory 
+		+ invective (n)惡言謾罵
 		- vehicle (n)交通工具, 方法/手段/媒介
 
 	vict, vinc 征服/勝利 = overcome, conquer
