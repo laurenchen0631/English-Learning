@@ -113,6 +113,9 @@
 	- Ukraine 烏克蘭
 	- Syria 敘利亞，屬於中東阿拉伯國家，首都大馬士革
 	- Cambodia 柬埔寨
+	- Palestinian /ˌpalɪˈstɪnɪən/ (n)巴勒斯坦人 (adj)巴勒斯坦的/巴勒斯坦人的
+	- Pakistan 巴基斯坦 --> Pakistani (adj)巴基斯坦的/巴基斯坦人的 (n)巴基斯坦人
+	- Jordan 約旦，是位於西亞的中東的國家
 
 [Asia POI]
 	- Kremlin 克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
@@ -120,7 +123,10 @@
 	- Islamic State 伊斯蘭國，是一個活躍在伊拉克和敘利亞的薩拉菲聖戰主義組織以及未被世界廣泛認可的政治實體
 	- the Taj Mahal 泰姬瑪哈陵，是位於印度北方邦阿格拉的一座用白色大理石建造的陵墓
 	- Taliban 塔利班，意譯為神學士，是發源於阿富汗坎達哈地區的遜尼派伊斯蘭原教旨主義武裝恐怖組織
-	 the Buddhas of Bamiyan 巴米揚大佛，是曾經坐落在阿富汗巴米揚谷內山崖上的兩尊立佛像，建於公元六世紀，是希臘式佛教藝術的經典作品，這兩尊佛像在2001年被塔利班炸毀。
+	- the Buddhas of Bamiyan 巴米揚大佛，是曾經坐落在阿富汗巴米揚谷內山崖上的兩尊立佛像，建於公元六世紀，是希臘式佛教藝術的經典作品，這兩尊佛像在2001年被塔利班炸毀。
+	- Tel Aviv 特拉維夫市，是以色列第二大城市，也是國際社會普遍承認的以色列首都
+	- Lahore 拉哈爾，巴基斯坦的第二大城市，旁遮普省的省會，人口約1000萬人，位於印度河上游平原
+	- Petra 佩特拉，約旦的一座古城，位於安曼南250公里處，隱藏在阿拉伯谷東側的一條狹窄的峽谷內
 
 [Europe]
 	- Chad 查德，是非洲中部的一個內陸國家
@@ -129,6 +135,13 @@
 	- Rwanda 盧安達，是位於中非東部的主權國家，坐落在赤道以南
 	- Poland 波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語
 	- Denmark 丹麥 --> Dane 丹麥人
+	- Portugal /ˈpɔːtjʊɡ(ə)l/ 葡萄牙
+	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
+	+ Spaniard 西班牙人 == A native or inhabitant of Spain
+	+ Spanish 西班牙
+	- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
+	- Estonia /ɪˈstəʊnɪə/ 愛沙尼亞，波羅的海國家之一。 愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成
+
 
 [Europe POI]
 	- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
@@ -146,6 +159,7 @@
 	- Düsseldorf 杜塞道夫，是德國北萊茵-威斯伐倫州首府，位於萊茵河畔。杜塞道夫市區人口約58萬人，是德國廣告、服裝和通訊業的重要城市
 	- Brussels 布魯塞爾，比利時的首都和最大的城市，也是歐洲聯盟的主要行政機構所在地
 	- Dublin 都柏林，愛爾蘭共和國的首都以及最大的城市，靠近愛爾蘭島東岸的中心點，位處都柏林郡的利菲河河口、都柏林地區的中心。都柏林自中世紀以來一直是愛爾蘭首都城市，也是愛爾蘭島上最大的城市。由於很多高技術企業聚集，所以有歐洲的矽谷之稱
+	- Crimean Peninsula 克里米亞半島，簡稱克里米亞，是黑海北岸的一個幾乎完全被海包圍的半島。
 
 [Americas]
 	- Arizona 亞利桑那州。首府和最大城市是鳳凰城。
@@ -178,7 +192,6 @@
 	- West Virginia
 	- Wyomin 懷俄明州。包括舉世聞名的黃石國家公園和大提頓國家公園等
 	- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
-
 	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
 
 
@@ -298,10 +311,7 @@
 	- Ukraine 烏克蘭
 	- Venice 威尼斯
 	- Vietnam 越南 --> Vietnamese  越南人/越南語(的)
-	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
-	+ Spaniard 西班牙人 == A native or inhabitant of Spain
-	+ Spanish 西班牙
-	- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
+
 
 [Worldwide POI]
 	- Alpine /ˈalpʌɪn/ 阿爾卑斯山

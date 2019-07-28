@@ -423,6 +423,7 @@
 
 	act 動作 = do 
 		*** act (v)行動, 生效, 飾演 (n)行為, 法案/法令, 幕
+		- actionable (adj)可起訴的, 有用的
 		- counteract
 		+ enact (v)制定(法律), 扮演(角色)
 		++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 嚴格的 = strict = rigorous
@@ -1000,7 +1001,7 @@
 	cracy, crat 統治 = power, rule, strength, might
 		- aristocracy (n)貴族, 貴族統治/貴族政府 --> aristocratic (adj) <-- aristo 最好的 = best + cracy
 		- autocrat
-		+ democracy --> democratic
+		+ democracy --> democratic --> democratize
 		- bureaucracy (n)官僚政治
 		- gerontocracy
 		+ plutocracy
@@ -1707,13 +1708,13 @@
 		- indignity (n)侮辱/輕蔑/侮辱言行/無禮舉動 = insult
 
 	dem, demo 人民 = people
-		+ democracy (n)民主政體 --> democratic (adj)民主的
+		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
 		+ demagog, demagogue (n)蠱惑民心的政客, 群眾煽動者
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
 		+ demotic (adj)通俗的/大眾化的 = vulgar
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
 		- epidemic (adj)流行性/傳染的, 極為風行的 (n)流行病, 風行
-		- pandemic (adj)全國流行的, 普遍的 (n)流行疫病
+		- pandemic (adj)全國流行的 (n)疫情
 
 	derm, dermat, dermato 皮膚 = skin
 		- dermatology (n)皮膚病學 --> dermatologist (n)皮膚病學家/皮膚科醫生
@@ -1957,6 +1958,7 @@
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
 		+ enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
+		- /ˌɒntrəprəˈnəːrɪəl/ entrepreneurial (adj)具有企業精神的/願意冒險的 = enterprising
 		+ entertain
 		- enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
 		* entrap (v)使投羅網, 欺騙
@@ -2073,6 +2075,7 @@
 
 	ethno, ethn 種族/文化 = race, culture
 		- /ˈɛθnɪk/ ethnic (adj)種族的/民族的 人種學的 <|> ethic
+		- /ɛθˈnɪsɪti/ ethnicity (n)種族特徵
 		- ethnology (n)民族學/文化人類學
 		+ ethnocentric (adj)民族中心主義的/種族優越的
 		- ethnocentrism (n)民族優越感
@@ -2620,7 +2623,7 @@
 		- polygon (n)多邊形
 
 	gamy 婚姻 = marriage
-		- monogamy (n)一夫一妻制
+		- monogamy (n)一夫一妻制 --> monogamous (adj)一夫一妻制的, 單一性伴侶的
 		- /ˈbɪɡəmi/ bigamy (n)重婚, 重婚罪
 
 [H]
@@ -3226,6 +3229,7 @@
 	
 	just, jury, jur 正確 = right
 		+ adjust (v)調整, 使適應 = adapt = accustom = accommodate
+		- jurisdiction (n)司法權, 司法管轄權, 司法體系, 管轄範圍
 		- justice (n)正義, 司法, 法官
 		- injure (v)傷害, 受傷, 危害/損害
 		- injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
@@ -3335,6 +3339,7 @@
 		+ levity (n)輕率/輕浮 = frivolity = giddiness
 		++ /ˈɛlɪveɪt/ elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
 		- lever (n)槓桿, 控制桿, 手段 (v)撬起, 移動, 壓迫/迫使
+		- leverage (n)槓桿力, 槓桿作用, 力量/影響力, 負債經營 (v)負債經營, 使用..達到最大功效
 		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 		+ relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
 		+ relevance (n)關聯/相關, 適宜
@@ -3997,7 +4002,7 @@
 
 	nounce, nunci 宣布/報告 = announce = dict = cent = log
 		- announce (v)宣布/發表 = pronounce = proclaim = herald, 通報...的到來
-		+ denounce (v)公開譴責 = denunciate = condemn = censure, 告發 = accuse formally = inform against
+		+ denounce (v)公開譴責 = denunciate = condemn = censure, 指控/彈劾 = accuse formally = inform against
 		* denunciate (v)公開譴責 = denounce --> denunciation (n)公開譴責 = public censure/condemn, 指控/告發
 		+ enunciate (v)清晰地發音, 明確表明/闡明
 		- enounce (v)宣布/闡明, 發音
@@ -4303,7 +4308,7 @@
 	pre 先前/前面 = before, early, prior to 
 		+ improvise --> improvised
 		+ preamble
-		* precaution (n)謹慎/預防
+		* precaution (n)預防措施, 避孕
 		+ precede --> precedent
 		- precedence
 		+ precept
@@ -4857,7 +4862,7 @@
 		- pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
 		- pedestal (n)基座/臺座 = base = foundation
 		+ /pɪˈdɛstrɪən/ pedestrian (n)行人/步行者 (adj)缺乏想像的/平淡的/平庸的 = unimaginative
-		+ peddle (v)兜售/叫賣, 散播 = disseminate --> peddler (n)小販 = huckster = peddler, 傳播者
+		+ peddle (v)兜售/叫賣, 銷贓/違法販售, 提倡 = promote --> peddler (n)小販 = huckster = peddler, 傳播者
 		- podiatry (n)足部治療
 		- podiatrist (n)足科醫師
 		- podium (n)講壇, 指揮台
@@ -5179,7 +5184,7 @@
 			- refresh (v)消除……疲勞/使精神振作, 使清涼
 			+ refulgent
 			- refurbish (v)刷新/擦亮 = brighten = renovate = furbish <-- re + furbish 
-			+ /rəˈɡeɪl/ regale (v)款待, 使享受/使喜悅 = entertain = amuse <-- re + gale 喜悅 = pleasure
+			+ /rəˈɡeɪl/ regale (v)款待, 逗樂 = entertain = amuse <-- re + gale 喜悅 = pleasure
 			*** regard (v)看待, 注視 = observe = look at, 尊敬 = esteem = respec, 考慮 = consider, 有關 = concern = relate to (n)注意 = attention = consideration = care, 注視 = look = gaze, 尊敬/尊重 = esteem, 動機 = motive, 觀點 = aspect = point
 			+ rehabilitate (v)復興/復原/復權/復職 <-- re + habilitate
 			* rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習/練習, 詳述 <-- re + hearse 耙子 = harrow
@@ -5466,7 +5471,7 @@
 	reg, regul, reign 統治
 		+ interregnum (n)無王時期/空位期
 		- regal (adj)帝王的/莊嚴的/堂皇的
-		- regime (n)政體/政權, 社會制度
+		+ regime (n)政體/政權, 社會制度
 		- regimented (adj)嚴格組織的/嚴格控制的
 		+ regulate (v)管理/控制, 校準.調整 --> regulation (n)規章/規則, 管理, 調整 (adj)正規的/正式的, 普通的/一般的
 		* reign (n)統治/支配, 王朝, 領域 (v)統治, 支配/盛行
@@ -6273,7 +6278,7 @@
 			+ maintenance (n)維持/維護, 贍養費 = alimony
 			+ /tɪˈneɪʃəs/ tenacious (adj)緊握的, 頑強的/固執的 = determined = stubborn = adamant, 持續存在的 --> tanacity (n)堅持/固執
 			* tenable (adj)可維持的 <--> untenable
-			- tenacity (n)頑固/固執
+			- tenacity (n)緊握, 決心/堅持, 保持/存續
 			* tenant (n)承租人/房客/佃戶 (v)租借
 			+ tenet (n)信教/宗旨/原則 = doctrine = belief = canon = precept
 			- tenor (n)要點/要旨, 男高音
@@ -6287,7 +6292,7 @@
 	tend, tent, tense 伸展 = stretch
 		* attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
 		+++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
-		++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial <|> content
+		++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)有異議的, 好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial <|> content
 		+ distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
 		+ extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
 		* inattentive (adj)不注意的/怠慢的 = distrait
@@ -6654,6 +6659,7 @@
 
 	under 低/下 = below, lower, lesser
 		- underact (v)未盡力地表演
+		- underbelly (n)下腹部, 易受攻擊的地帶, 犯罪組織
 		- underbid (v)要價過低
 		+ undercut (v)削價競爭/廉價出售, 暗中破壞 (n)牛豬的腰肉, 下旋削球, 浮雕
 		- underdog (n)失敗者, 受壓迫者
@@ -6770,7 +6776,7 @@
 		+ aversion (n)嫌惡/反感 = antipathy = animosity = antagonism = distaste = enmity = hatred = rancor
 		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) <|> aver <|> advert
 		* controvert (v)反駁/駁斥 = contradict = disprove
-		+ controversy (n)爭議/爭論 --> controversial (adj)有爭議的 = contention
+		+ controversy (n)爭議/爭論 --> controversial (adj)引起爭論的 = contention
 		- controvertible (adj)可爭論的/可質疑的
 		* converse (v)談話 = discourse (adj)逆的/相反的 (n)相反的事物
 		- conversant (adj)熟知的/精通的 = familiar = versed = acquainted
@@ -6910,7 +6916,7 @@
 		- provisory (adj)有附帶條件的 <-- provide
 		+ survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰
 		- surveyor (n)測量員
-		- surveil (v)監控 --> surveillance (n)監控/監視 = scrutiny
+		- surveil (v)監控 --> /səˈveɪləns/ surveillance (n)監控/監視 = scrutiny
 
 	vit 生命 = life
 		+ vital (adj)極其重要的 = pivotal = crucial, 生命的, 維持生命所必需的, 充滿活力的 = animated, 致命的 = deadly <|> vitiate
