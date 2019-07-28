@@ -42,10 +42,10 @@ One evening last August, Rick Doblin pedaled a borrowed bicycle across the baked
 		> 鋁製船身的小船 |A small boat with an aluminium hull.|
 		> 錫箔包裹的大麻煙 |A portion of cannabis wrapped in tin foil.|
 	- schooner
-		> 縱帆船  |A sailing ship with two or more masts, typically with the foremast smaller than the mainmast.|
+		> 縱帆船 |A sailing ship with two or more masts, typically with the foremast smaller than the mainmast.|
 		> 大啤酒杯|A tall beer glass.|
 	- reveler, reveller 縱酒狂歡者 == A person who is enjoying themselves in a lively and noisy way.
-	- splayed
+	- splay
 		> 展開 |Thrust or spread (things, especially limbs or fingers) out and apart.| her hands were splayed across his broad shoulders
 		> 張開 |(especially of limbs or fingers) be thrust or spread out and apart.| his legs splayed out in front of him
 		> 拓寬/叉開 |Become wider or more separated.| the river splayed out, deepening to become an estuary
@@ -63,7 +63,7 @@ This wasn’t quite as quixotic as it might sound. Doblin, the founder of the Mu
 	- methylenedioxymethamphetamine = MDMA 亞甲二氧甲基苯丙胺，台灣常見的稱呼還包括「快樂丸」、「衣服」、「上面」，在香港及南亞等地，這種藥味則被稱為「甩頭丸」、「快樂神」、「勁樂丸」、「狂喜」、「迪士高餅乾」等；在國外，最常見的稱謂是Ecstasy、Adam、Dollar、Fido、Bomb等
 	- first responder 第一響應者/現場應急人員 == a person with specialized training who is among the first to arrive and provide assistance at the scene of an emergency,
 Doblin is acquainted with Brin, the co-founder of Alphabet Inc. Like so many rich Silicon Valley types, Brin is a regular at Burning Man, the weeklong bacchanal in the Nevada desert that will begin again in late August. Several months before the 2018 Burn, Doblin had cornered Brin at a gathering at Fly Ranch, a nearby property the festival’s organizers own, and talked up the pharmaceutical potential of mushrooms and ketamine. Now, at the festival itself, he had an ideal opportunity to follow up, and he invited two Bloomberg Businessweek reporters along for the ride.
-	- corner
+	+ corner
 		> 角 |A place or angle where two sides or edges meet.| Jan sat at one corner of the table
 		> 角落 |The area inside a room or other space near the place where two walls or other surfaces meet.| the colour TV in the corner of the room
 		> 街角 |A place where two or more streets meet.| the huge bookshop on the corner
@@ -193,8 +193,7 @@ After closing down the First Camp party around 9 p.m., Doblin moved on to the Ga
 		> |The space between the rifling grooves in a gun.|
 		> 使登陸 |Put (someone or something) on land from a boat.| he landed his troops at Hastings
 		> 上岸 |Go ashore; disembark.| the marines landed at a small jetty
-		> 釣上 |Bring (a fish) to land with a net or rod.
-‘he landed 43 on Saturday’|
+		> 釣上 |Bring (a fish) to land with a net or rod.| he landed 43 on Saturday
 		> 弄到/撈到 |Succeed in obtaining or achieving (something desirable), especially in the face of competition.| she landed the starring role in a new film
 		> 降落 |Come down through the air and rest on the ground or another surface.| we will shortly be landing at Gatwick
 		> 使降落 |Bring (an aircraft or spacecraft) to the ground or the surface of water in a controlled way.| the co-pilot landed the plane

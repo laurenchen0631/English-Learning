@@ -96,7 +96,7 @@ The aura of Spice Girl success was sleepover antics turned career. Promotional p
 	- antics 古怪而可笑的舉動/噱頭 == Foolish, outrageous, or amusing behaviour.
 	- spill out
 		> 溢出/流出/灑出/掉出 |to flow or fall out of a container| All the shopping had spilled out of my bag.
-		> 湧出，蜂擁而出 |If people spill out of a place, large numbers of them come out of it.| People were spilling out of the wine bar onto the street.
+		> 湧出/蜂擁而出 |If people spill out of a place, large numbers of them come out of it.| People were spilling out of the wine bar onto the street.
 	- yank
 		> 猛地一拉/使勁一拉 |Pull with a jerk.| her hair was yanked, and she screamed
 		> 突然的猛拉 |A sudden hard pull.| A sudden hard pull.

@@ -84,7 +84,7 @@ DiCaprio's ascent to the pinnacle of actors began well before Romeo + Juliet. A 
 	- A-lister 一線演員
 After the unprecedented success of Titanic — then the highest-grossing movie of all time — DiCaprio made a choice that would define his career over the next two decades: Instead of following up the blockbuster with a tried-and-true formula of tentpoles or high-concept thrillers, the Los Angeles native eschewed box office glory to work with the top directors in Hollywood.
 	- blockbuster 賣座鉅作 == A thing of great power or size, in particular a film, book, or other product that is a great commercial success.
-	- tried-and-true 經多次試驗而證明有用的 == used many times in the past and proven to work well:
+	- tried-and-true 經多次試驗而證明有用的 == used many times in the past and proven to work well
 	- tentpole 帳篷支柱 == a program or movie that supports the financial performance of a movie studio or television network
 	- high-concept 高概念，源自美國電影業1970年代中期開始的電影生產與發行方式，透過大型的預算、鮮明清晰的劇情結構以及不斷行銷宣傳以及眾多周邊商品的推動，來造就票房的電影生產策略
 	- thriller 驚悚作品 == a book, play, or film that has an exciting story, often about solving a crime
@@ -143,7 +143,7 @@ Tarantino went home and gave it some thought, and DiCaprio's pitch to play what 
 		> 殖民 |A colony.|
 	- fiddling 微不足道的/無足輕重的 == Annoyingly trivial or petty.
 While modern stars scramble to maintain a constant presence and relevance via social media and nonstop work spanning all platforms, DiCaprio as an actor sticks to cinema (he hasn't acted for the small screen since a 1992 appearance on Growing Pains). Rather than using Twitter for self-promotion, he offers his 19.1 million followers updates on the Waorani tribe's efforts to protect the Amazon from oil drilling or to promote vegan burgers.
-	- Waorani 華尤拉尼人是來自厄瓜多爾亞馬遜地區的本土美洲印第安人
+	- Waorani 華尤拉尼人，是來自厄瓜多爾亞馬遜地區的本土美洲印第安人
 	- vegan (adj)素食的 (n)素食主義者
 Off-camera, DiCaprio has maintained a carefully crafted air of mystery. Some crewmembers on Once Upon a Time were instructed to avoid making eye contact with him, according to an on-set source. At the Cannes Film Festival in May, he brought his parents to the Once Upon a Time premiere but skipped other events on the Croisette despite having his security team do a sweep of a Nikki Beach party to promote the environmental documentary And We Go Green, which he produced with longtime friend Fisher Stevens, who says that they are in talks with John Kerry about producing an eco-minded series about threats to the world's oceans.
 	- Cannes Film Festival 坎城影展
@@ -174,7 +174,7 @@ DiCaprio rarely talks about his personal life or even his career and typically p
 If he's made a misstep, it was becoming entangled with Riza Aziz, whose Red Granite Pictures financed Wolf of Wall Street. In January, DiCaprio gave closed-door testimony to a Washington, D.C., grand jury regarding a multibillion-dollar Malaysian corruption scandal. In June, Aziz was arrested and charged in Malaysia with laundering $248 million from a state investment fund and channeling the funds into Red Granite bank accounts. It remains to be seen if DiCaprio will be dragged into any trials. Regardless, the Red Granite debacle appears to have had little effect on DiCaprio's standing in Hollywood — agents will say privately that there is no actor or actress that they would rather put their clients next to in a movie.
 	- debacle 瓦解 == A sudden and ignominious failure; a fiasco.
 Django producer Stacey Sher, who has known DiCaprio since he was a teen, notes that the intensity of his performances is no accident. “He makes it look effortless, but he’s that ‘10,000 hours’ and beyond," she says of the Malcolm Gladwell rule that explains success in any field. “I think everybody thinks of him as the greatest actor of his generation first, who happened to become the biggest movie star of his generation.”
-	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術(skill)或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
+	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
 It was playing the grizzled frontiersman Hugh Glass in Iñárritu's dark, violent Western The Revenant that proved DiCaprio could still draw massive audiences despite leaving behind the boyish charm that made him a star. "He is a perfectionist and demands a lot of himself," says Iñárritu of working with DiCaprio on The Revenant. "There was this scene in the river that he is meant to be floating, and there were huge pieces of ice. He never hesitated, and even when you got the take, he asked for another. He was relentless when it was sometimes not necessary."
 	- grizzled 灰白的 == Having or streaked with grey hair.
 	- frontiersman 拓荒者 == A man living in the region of a frontier, especially that between settled and unsettled country.
@@ -186,7 +186,7 @@ When it came time for Tarantino to cast Once Upon a Time's Rick Dalton, an actor
 Once Upon a Time producer Shannon McIntosh says there was only one scene that instilled fear in DiCaprio, albeit briefly: a sequence on a campy variety show called Hullabaloo that required singing and dancing. "We were about to walk into dailies one evening, and it was about a week before he had to do the Hullabaloo scene where he sings. And he stopped me and he said, 'I'm not really a singer. How am I going to sing this in a week?' Cut to a week later, he was absolutely fearless. He just got up and did something out of his comfort zone."
 	- instill
 		> 逐漸灌輸 |Gradually but firmly establish (an idea or attitude, especially a desirable one) in a person's mind.| how do we instill a sense of rightness in today's youth?
-		> vt.徐徐滴入 |Put (a substance) into something in the form of liquid drops.| she was told how to instill eye drops
+		> 徐徐滴入 |Put (a substance) into something in the form of liquid drops.| she was told how to instill eye drops
 	- campy == camp
 		> 做作女性化的 |(of a man or his manner) ostentatiously and extravagantly effeminate.| a heavily made-up and highly camp actor
 		> 裝模作樣的 |Deliberately exaggerated and theatrical in style.| the movie seems more camp than shocking or gruesome

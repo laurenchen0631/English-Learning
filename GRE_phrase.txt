@@ -144,7 +144,8 @@
 		> Technological advancements are limited in their ability to change society and will likely bring liabilities along with any potential benefits.
 			>> liability
 
-	- anything but 根本不/並非 == emphasize that something is not the case == not
+	- (be) anything but 遠非 == not at all (used for emphasis) == not
+		> this grisly ending is anything but sentimental
 		> I will be anything but quiet on Saturday night.
 			>> on <date>
 			>> in <month/year/season, morning, afternoon, evening>
@@ -153,7 +154,6 @@
 		> The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
 			>> portray ... as ... 把（某人）刻畫成
 			>> make ... out to be == characterize something in a certain way
-
 	- apart from
 		1. 除了 == except for
 			> Apart from the ending, it`s a really good film.
@@ -487,8 +487,9 @@
 			>> patent == evident = obvious
 	- by virtue of 憑藉/由於 == through the force of == by authority of
 		> The article stuck in my mind by virtue of one detail.
-	- by way of == use
-		>> It has thus generally been by way of the emphasis on oral literary creativity that these Chicano writers, whose English-language works are sometime uninspired, developed the powerful and arresting language that characterize their Spanish-language works.
+	- by way of 當做/用作 == as a type of
+		> He sent me some flowers by way of an apology.
+		> It has thus generally been by way of the emphasis on oral literary creativity that these Chicano writers, whose English-language works are sometime uninspired, developed the powerful and arresting language that characterize their Spanish-language works.
 			>> it has been ... that == it is ... that ...
 			>> Chicano 墨西哥裔美國籍
 			>> arresting == attractive
@@ -556,6 +557,8 @@
 		> It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever consigning others, in the end, all his self-adulation has only worked against him.
 	- capitalize on == take the chance to gain advantage from.
 		> The challenge for artists like Supa is figuring out how to capitalize on that growth.
+	- (the) cutting edge 發展前沿/領先位置/先鋒地位 == the most modern stage of development in a particular type of work or activity
+		> a company at the cutting edge of mobile communications technology
 [D]
 	- deal with
 		1. 討論/涉及 == be concerned with
@@ -609,6 +612,8 @@
 		> 失敗 |If a relationship, organization, or system goes/falls to pieces, it fails:|
 	- fall prey to something/someone == to be influenced by someone or something
 		> Grocers, in their own workaday way, fall prey to the same inertia
+	- few and far between 稀有/難得 == not very many or not appearing very frequently
+		> Sunny, warm weekends have been few and far between this summer.
 	- first of all == first == first off
 		> First of all, Moon says, lots of places have either old trees or dark skies, but not both
 	- for the sake of N == in order to achieve that N
@@ -637,6 +642,8 @@
 		> a nonlinear argument is unfurling as everyone tries to get the last word in first, and chaos envelops the very system meant to keep you organized.
 	+ get/put one`s house in order 解決..的問題 == to solve your own problems
 		> You should put your own house in order before you start telling me what to do!
+	- go apeshit 發狂 == Express wild excitement or anger.
+	
 	- go out (of) the window == does not exist any more.
 		> “A royal person, historically, is not a private individual, but public property,” as Worsley puts it, “so any idea of privacy goes out of the window.”
 	- go out of one`s way == to try very hard to do something, especially for someone else
@@ -732,6 +739,7 @@
 	+ lay the foundation for/of 打下基礎 == to produce the basic ideas or structures from which something much larger develops
 		> The two leaders have laid the foundations of a new era in cooperation between their countries.
 		> He had laid the foundation of the science of genetics.
+	- live off the land 錦衣玉食
 	- long shot == something that is not likely to succeed
 		> It`s a long shot, but you could try phoning him at home.
 	- less of == to a smaller extent or degree
@@ -788,6 +796,7 @@
 		> I am sure it will not rain, but I will take an umbrella (just) to be on the safe side
 	- on the outs (with sb) 與..不合 == in a state of disagreement or unfriendliness
 		> Dick is on the outs with his father.
+	- on fleek 到位/很完美/很正點 == on point
 	- one step at a time 一步步地 == slowly and carefully, doing just a little at a time
 		> He wanted to rush through the job, but I encouraged him to take it one step at a time.
 	- one and the same 同一個事物/同一個人 == the same thing or person 
@@ -810,6 +819,7 @@
 		> Their goal is out of reach.
 	- out of hand == out of control
 		> the New York Times suggested that the craze was getting out of hand.
+	- out of the gate 打從一開始 == since you were born, since you came out of the womb
 	- be/keep/stay one step ahead of 
 		> 比...準備得更好 |to be better prepared for something or know more about something than someone else| A good teacher is always at least one step ahead of his students.
 		> 設法不被...逮到 |to manage not to be caught by someone who is trying to find or catch you| the two had fled across the region to stay one step ahead of the law
@@ -819,6 +829,8 @@
 		> He realized he`d gone over the top with the seating arrangements.
 
 [M]
+	- (the) man of the hour 知名人士
+		> The winner of the race was the man of the hour.
 	- make up
 		> 補償/補足 |compensate for something lost, missed, or deficient.|
 		> 組成 |(of parts) compose or constitute (a whole).| Women make up 40 per cent of the workforce.
@@ -976,3 +988,5 @@
 		> In another moment down went Alice after it, never once considering how in the world she was to get out again
 	- (the) writing is on the wall 有著不詳的徵兆 == said to mean that there are clear signs that something will fail or no longer exist
 		> Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”
+	- work one`s ass off 拼命做 == to work very hard
+		> I worked my ass off for that man.

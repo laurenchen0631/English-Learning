@@ -143,6 +143,7 @@
 
 		2. 古 = ancient
 			+ antic (adj)古怪的 = erratic = grotesque = bizarre
+			- antics (n)古怪而可笑的舉動/噱頭
 			* /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
 			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
 			+ antiquarian (adj)古文物的 (n)古文物家
@@ -166,7 +167,7 @@
 		* amicable (adj)(他人)友好的 = amiable
 		- amity (n)友好關係
 		+ enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
-		* glamor, glamour (n)吸引力/魅力
+		* glamor, glamour (n)吸引力/魅力 --> glamorous (adj)富有魅力的
 
 	ambi, amphi 
 		1. 二 = both, two
@@ -341,6 +342,7 @@
 			- monarch (n)君主/帝王, 帝王蝶, 王鶲 --> monarchy (n)君主制
 			+ hierarchy --> hierarchical
 			+ oligarchy
+			- matriarch (n)母權
 
 	ard, ars, arsen 火/熱 = burn == flagr == caus
 		+ ardent (adj)熱心的 = accommodating, 熱烈的/強烈的/激情的 = zealous = fervent = vehement
@@ -1161,6 +1163,7 @@
 		+ circumvent (v)迴避/規避/繞過 = bypass = go around = aboid, 環繞/包圍 = entrap = encompass
 	
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
+		- cyclist (n)騎腳踏車的人
 		- /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
 		- /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane --> cyclonic (adj)氣旋的
 		- /ˈsɪkləmeɪt/ cyclamate (n)糖精
@@ -1339,6 +1342,7 @@
 			+ delegate
 			+ delimit (v)劃界/標出…的界限 = circumscribe
 			+ /dɪˈlɪnɪeɪt/ delineate (v)描述/描繪 = depict = portray = trace <-- de + line 線 + date 
+			- demarcate (v)設下界線, 區隔 <-- de + mark
 			+ demean (v)羞辱/貶低 = degrade = debase = belittle = insult
 			- depend (v)取決於
 			+ dependable (adj)可靠的 = reliable = trustworthy
@@ -1423,6 +1427,7 @@
 			+ diffident --> diffidence
 			+ disabuse (v)糾正/打消(某人的)錯誤念頭
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
+			- disbandment (n)團體的解散
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
 			+ discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
 			- disconcert
@@ -1738,6 +1743,7 @@
 
 	dynam 力量 = force, power
 		- dynamic (adj)有活力的, 動態的, 動力的/動力學的
+		- dynamism (n)活力, 活力/正向, 物力論/力本說
 		- dynamo (n)發電機
 		* dynamite (n)炸藥 (v)用炸藥爆破
 
@@ -2818,6 +2824,7 @@
 			+ inalienable (adj)不可剝奪的/不可分割的
 			- inanimate
 			- inappreciable 
+			- incapacitated (adj)虛弱無力的 = debilitated
 			- incessant
 			- inclement (adj)天氣險惡的
 			- incognizant (adj)不知道的/沒有察覺的 <-- in + cogit(ate) + ant
@@ -2862,6 +2869,7 @@
 			+ inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable = ineluctable
 			* infancy (n)嬰兒期/幼年, 初期/發展階段
 			* infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
+			- infantilize (v)把..當成小孩般對待
 			+ infallible (adj)永無過失的/不會犯錯誤的
 			- infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
 			- infinite --> infinity
@@ -3070,6 +3078,7 @@
 			+ intend --> intent --> intention --> intentional
 			+ inter
 			* intimidate 
+			- intone (v)以平直的語調緩慢而嚴肅地說
 			- intoxicate
 			+ intricate --> intricacy
 			+ intrigue
@@ -3142,7 +3151,7 @@
 		- insula (n)島
 		+ /ˈɪnsjʊlə/ insular (adj)島嶼的/海島的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
 		+ /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
-		- insulate (v)使絕緣/使隔熱, 使免於不良的影響
+		- insulate (v)使絕緣/使隔熱, 使免於不良的影響 --> - insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
@@ -3598,6 +3607,7 @@
 		+ missive (n)公文/書信 = letter
 		- missile (n)發射物/投射武器, 飛彈/導彈
 		- mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
+		- missionary (n)傳教士 (adj)傳教的
 		* permit (v)許可/准許, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
@@ -3841,7 +3851,7 @@
 		- commingle (v)參和/混合 = mix = adulterate = blend
 
 	mot 動 = move
-		- commotion (n)騷動/喧鬧 = turbulence = riot = bedlam, 動亂/起義
+		- commotion (n)騷動/喧鬧 = hullabaloo = turbulence = riot = bedlam, 動亂/起義
 		- demote (v)降職/降級 = relegate <--> promote
 		* emote (v)誇張地表現情感 --> emotion (n)感情/情緒
 		- locomotive
@@ -4150,6 +4160,7 @@
 			- overreach (v)做事過頭/伸得過遠
 			+ overreact (v)反應過度
 			+ overstate (v)誇張/對...言過其實 = exaggerate
+			- overstay (v)停留得過久
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
 			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
 			- overturn (v)翻倒 = turn over, 推翻/破壞/廢除 = overthrow
@@ -4178,7 +4189,7 @@
 
 	omni 全 = all == pan
 		- ominpotent (adj)全能的/萬能的 = almighty
-		+ omnipresent (adj)無處不在的 = ubiquitous --> omnipresence (n) = ubiquity
+		+ omnipresent (adj)遍及各處的, 無處不在的 = ubiquitous --> omnipresence (n) = ubiquity
 		- omniscient
 
 	ore, ora 講話 = speak, beg == dic == cant == fable == log == nounce
@@ -4286,6 +4297,7 @@
 		+ /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
 		+ /ˈpanəpli/ panoply (n)琳琅滿目 = a magnificent or impressive array, 全套盔甲
 		- panorama (n)概觀, 全景 <-- pan + orama 看 = look
+		- pantheon (n)一群(偉人), 偉人祠, 眾神之廟, 諸神殿
 		- pantomine (n)啞劇 <-- panto + mime
 
 	pre 先前/前面 = before, early, prior to 
@@ -4410,7 +4422,7 @@
 		- proponent
 		+ proscribe
 		- prosecute --> prosecution
-		+ prospect (v)勘探/勘察 = explore (n)指望/預期/期望, 前景
+		+ prospect (v)勘探/勘察 = explore (n)指望/預期/期望, 前景 --> prospective (adj)預期的/盼望中的, 未來的
 		+ prosper --> prosperity --> prosperous
 		- prostrate (adj)俯臥的 = prone, 沮喪的 = powerless = helpless (v)使下跪/鞠躬 <-- pro + stra 伸展 = stretch + ate
 		- protest (n/v)抗議/反對
@@ -4558,7 +4570,8 @@
 			- parable (n)寓言/比喻
 			- parabola (n)拋物線 <-- para + bola 丟 = throw
 			+ paradigm (n)範例/模板/模型, 示例, 互斥單詞 <-- para + digm 顯示 = show
-			+ /ˈparəlɛl/ parallel (adj)平行的, 類似的 = comparable = analogous (n)平行線 (v)與...相似 <-- par + allel 另一個 = another
+			- paralegal (n)律師助理
+			++ /ˈparəlɛl/ parallel (adj)平行的, 相同的/類似的 = comparable = analogous, 並聯的 (n)類似的人或事物, 相似處/比較, 緯線, 參考記號 (v)使成平行, 與...相似 <-- par + allel 另一個 = another
 			- parallelism (n)平行, 類似
 			+ paralysis (n)麻痺/癱瘓, 無力 --> paralyze (v)使麻痺/使癱瘓 = numb, 使無力/使氣餒 <-- par + lysis 放開 = loosen
 			- parameter (n)參量/變量
@@ -4820,6 +4833,7 @@
 
 	propr, proper 擁有 = own
 		++ appropriate (v)撥款 = allot, 挪用/盜用 = embezzle (adj)恰當的 = agreeable
+		+ appropriation (n)挪用/盜用, 撥款
 		- misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
 		- property (n)財產, 房地產, 所有權, 特性
 		+ propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
@@ -4842,7 +4856,7 @@
 		+ impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter --> impediment (n)妨礙, 阻礙物
 		- pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
 		- pedestal (n)基座/臺座 = base = foundation
-		+ /pɪˈdɛstrɪən/ pedestrian (adj)徒步的, 缺乏想像的/平淡的/平庸的 = unimaginative
+		+ /pɪˈdɛstrɪən/ pedestrian (n)行人/步行者 (adj)缺乏想像的/平淡的/平庸的 = unimaginative
 		+ peddle (v)兜售/叫賣, 散播 = disseminate --> peddler (n)小販 = huckster = peddler, 傳播者
 		- podiatry (n)足部治療
 		- podiatrist (n)足科醫師
@@ -4893,6 +4907,7 @@
 	patri, patr 父親/本土 = father, native land
 		- compatriot (n)同國人/同胞, 同事
 		+ expatriate (v)流放 = exile <|> expatiate
+		- expat (adj)居住海外的 (n)居住海外的人 <-- expatriate
 		- patrician (n)貴族 <-- patr 
 		- patrimony (n)繼承的遺產/祖產
 		- patriot (n)愛國者/愛國主義者
@@ -4917,7 +4932,7 @@
 		+ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
 		+ implicit (adj)含蓄的/暗示的 = implied, 無疑問的/無保留的 = unreserved = absolute
 		+ inexplicable
-		- multiplex (adj)許多的/多樣的, 多路通訊的 --> multiplicity (n)多樣性
+		- multiplex (adj)許多的/多樣的, 多路通訊的, 多廳的 (n/v)多路傳輸 (n)多廳電影院 --> multiplicity (n)多樣性
 		+ perplex (v)使困惑/使擔憂 = confound = baffle = puzzle = confuse --> perplexity (n)困惑/茫然
 		- pliable (adj)易彎的/柔軟的 = flexible = lithe = limber = supple = yielding
 		- pliant (adj)易受影響的, 易彎的 = pliable =
@@ -5046,7 +5061,7 @@
 
 	psycho, psych 心理 
 		- psyche (n)心智/心靈/精神
-		- psychedelic (adj)幻覺的
+		-  /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
 		- psychology (n)心理學, 心理狀態
 		- psychotic (adj)精神病的 (n)精神病患者
 		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
@@ -5064,7 +5079,7 @@
 		- pharmacy (n)藥局/藥房, 配藥學
 		- pharmacist (n)藥劑師
 		- pharmacology (n)藥理學
-		- pharmaceutical (adj)藥物的/製藥的
+		- pharmaceutical (adj)製藥的
 
 	port 帶著 = carry
 		- export
@@ -5248,6 +5263,7 @@
 			+ retrieve
 			+ revamp (v)修補/改造/改寫 = renovate = redo = revise = upgrade
 			- reveal (v)展現/顯露/暴露/揭露 --> revealing (adj)暴露的/裸露的, 揭露性的 <-- re + veal 遮掩 = veil
+			- reveler, reveller (n)縱酒狂歡者
 			+ revelation (n)被揭露的真相, 揭示/揭露, 天啓/啟示, 啟示錄 <-- reveal
 			+ revere (v)崇敬/敬畏 = hallow = venerate = worship --> reverence (n)崇敬/敬畏, 敬禮/鞠躬 <-- re + vere 恐懼 = fear
 			+ reverent (adj)恭敬的/虔誠的 = worshipful
@@ -5451,6 +5467,7 @@
 		+ interregnum (n)無王時期/空位期
 		- regal (adj)帝王的/莊嚴的/堂皇的
 		- regime (n)政體/政權, 社會制度
+		- regimented (adj)嚴格組織的/嚴格控制的
 		+ regulate (v)管理/控制, 校準.調整 --> regulation (n)規章/規則, 管理, 調整 (adj)正規的/正式的, 普通的/一般的
 		* reign (n)統治/支配, 王朝, 領域 (v)統治, 支配/盛行
 		++ sovereign (n)君主/元首 (adj)至高無上的, 主權獨立的, 極好的/極有效的 = effective
@@ -5652,7 +5669,7 @@
 		- desist (v)停止/中止
 		+ destitute (adj)一無所有的/一貧如洗的 = impecunious = indigent = needy, 缺乏的 --> destitution (n)匱乏/窮困 = penury
 		- distant (adj)疏遠的/冷淡的 = aloof, 遙遠的, 遠親的
-		- ecstasy (n)狂喜 = bliss = euphoria = joy, 搖頭丸
+		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
 		+ extant (adj)現存的/尚存的
 		- hemostat
 		- instant (adj)立即的/迫切的, 速食的/即溶的 (n)頃刻
@@ -5791,7 +5808,7 @@
 		- exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
 		+ insult (n/v)侮辱/謾罵 = abuse = indignity = affront
 		- resile (v)彈回, 恢復原形/恢復活力 --> resilient (adj)有彈性的, 能恢復活力的/適應力強的 --> resilience (n)彈性/彈力
-		+ salient (adj)顯著的 = obvious = projecting = protruding = noticeable = conspicuous = prominent, 突出的
+		+ salient (adj)重要的/值得注意的 = noticeable = conspicuous = prominent, 顯著的/突出的, 凸角的 (n)凸角, 戰線的突出部
 		- sultry (adj)悶熱的, 易怒的, 撩人的
 
 	semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
@@ -5800,7 +5817,7 @@
 		- assimilate (v)同化 = accommodate = adapt, 吸收 = comprehend
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak, 假裝 = feign
 		- dissimulate (v)掩蓋/掩飾 = dissemble
-		- ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
+		* ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
 		+ idiosyncrasy --> idiosyncratic
 		+++ resemble (v)像 = favor --> resemblance (n)相似 = affinity
 		* semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
@@ -5822,6 +5839,7 @@
 		- synonyms
 		+++ synthesis (n)綜合/合成 --> synthesize (v)綜合/合成
 		* synthetic (adj)綜合的, 合成的/人造的 = artificial = ersatz, 假想的/虛構的 (n)合成物
+		- synthetics (n)合成纖維
 
 	sim, sin 一 = one
 		- simplex (adj)單純的/單一的 (n)單字
@@ -5913,7 +5931,7 @@
 		- preside (v)主持/擔任主席, 負責, 指揮 --> president (n)總統, 校長
 		- reside (v)居住 --> resident (n)居民 (adj)定居的/常駐的
 		- residue (n)剩餘 --> residual (adj)殘餘的/剩餘的 <-- reside
-		- sedate (adj)鎮靜的 = unruffled --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
+		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ sedentary (adj)久坐的
 		- sediment (n)沈澱物/渣
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
@@ -5992,11 +6010,13 @@
 		- hemisphere (n)(地球的)半球, 腦半球
 
 	scend, scens, scent 爬 = climb
+		- ascend (v)上升/攀登 = climb, 晉升 = promote
+		- ascent (n)登高, 上坡, 上升, (地位)提高/提升
+		- ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
 		+ condescend (v)懷著優越感地對待/輕慢, 屈尊做… = patronize = deign --> condescension (n)傲慢, 屈尊 
 		*** descend (v)下降/走下, 下傾, 傳下來/源自於/是...的後裔, 突然襲擊/拜訪 --> descent (n)下降/下坡/衰落, 突擊/突訪, 血統/世系, 遺傳
 		- descendant (n)後代/後裔
-		- ascend (v)上升/攀登 = climb, 晉升 = promote
-		- ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
+
 		+ transcend (v)超出/超過 = exceed = overpass = surpass, 超越/優於 = surpass = excel = outstrip --> transcendent (adj)超越的/卓越的/出眾的
 		- transcendental (adj)超凡的/人智所不及的/先驗的詞彙
 	
@@ -6277,6 +6297,7 @@
 		- intention (n)意圖/意向/目的 --> intentional (adj)存心的/故意的 <-- intend
 		* ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious = pompous = showy
 		+ ostensible, ostensive (adj)表面的/假裝的 = professed = pretended
+		+ ostensibly (adv)表面上
 		++ portent (n)前兆 = omen = sign, 奇事 = marvel = prodigy --> portentous (adj)凶兆的/不祥的 = ominous, 自命不凡的
 		* pretend (v)假裝, 自稱 (adj)假想的 --> pretended (adj)假裝的 = ostensible = professed, 傳說的/號稱的
 		+ pretense (n)假裝 = veil, 矯飾 (n)假裝, 做作
@@ -6325,6 +6346,7 @@
 
 	tomy 切 = cut
 		- anatomy (n)解剖學, 結構, 身體, 剖析/分析 = analyze --> anatomic (adj)解剖學的
+		- phlebotomy (n)放血法 --> phlebotomist (n)放血師
 		+ /dʌɪˈkɒtəmi/ dichotomy (n)分裂對立
 
 	the, thesis 放 = put == pos
@@ -6488,8 +6510,8 @@
 
 	therap 治療 = heal
 		- therapy (n)治療/療法
-		- therapeutic (adj)治病的
-
+		- therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物
+	
 	tox 毒/弓 = bow
 		- detoxify (v)解毒
 		- intoxicate (v)使喝醉, 使陶醉/使沈醉/使狂喜
@@ -6511,6 +6533,7 @@
 
 	theo, the 神 = God
 		+ apotheosis, apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
+		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
 		- theism 
@@ -6542,6 +6565,7 @@
 		- unearthly (adj)奇異的 <-- un + earthly
 		* uneasiness (n)焦慮/不安 = compunction
 		- unenlightened (adj)愚昧無知的/不文明的/落後的
+		- uneven (adj)不平坦的/粗糙的, 不規則的/不一致的, 不平衡的
 		- unexceptionable (adj)無可非議的/無懈可擊的
 		- unfailing (adj)無盡的/無窮的 = everlasting = inexhaustible
 		- unfasten (v)解開
@@ -6601,7 +6625,7 @@
 		+ unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
 		+ unseemly (adj)不適當的/不宜的 = indecorous
 		* unsentimental (adj)不感情用事的
-		- unsettle (v)使不安寧/攪亂 = disturb --> unsettling (adj)令人不安的, 擾亂的
+		- unsettle (v)使不安寧/攪亂 = disturb --> unsettling (adj)令人不安的/擾亂的
 		- unsound (adj)不結實的/不堅固的, 無根據的
 		+ unsparing (adj)不吝惜的/大方的 = generous = lavish, 不寬恕的/嚴厲的 = unmerciful = harsh
 		- unspoiled (adj)未損壞的, 未寵壞的
@@ -6645,6 +6669,7 @@
 		+ underscore (v)在...之下畫線, 強調
 		+ understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)保守的/輕描淡寫的 --> understatement (n)不充分的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)充當...的替角
+		- undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
 		- underutilized (adj)未充分利用的
 		- underwrite (v)簽署/簽名同意支付/同意, 給……保險
 
@@ -6859,6 +6884,7 @@
 			- virtual (adj)實質上的/實際上的
 			- virtuous (adj)有美德的/有道德的/善良的
 			+ /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (n)精湛技藝/高超
+			- virtuosic (adj)藝術名家的
 
 		2. 毒 = poison
 			- virus (n)病毒 --> viral (adj)病毒性的 

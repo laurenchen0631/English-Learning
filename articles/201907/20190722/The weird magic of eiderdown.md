@@ -95,7 +95,6 @@ The scene described by the pastor has been a common sight in Iceland for centuri
 		> 泥炭/泥煤 |Peat used for fuel.| the smell of turf burning on a winter night
 		> 賽馬場 |Horse racing or racecourses generally.|
 		> 地盤 |An area or sphere of activity regarded as someone's personal territory.| he did not like poachers on his turf
-	- door-scraper == a small horizontal bar fixed to the ground near a door where visitors can scrape mud from their shoes before entering
 
 Environmentalists, economists and ornithologists have all fallen in love with Icelandic harvesting. There is an irresistible simplicity to the relationship between the harvesters and the eiders. If a harvester cares for the ducks, more and more will come to nest, increasing the amount of down that can be gathered.
 In myths, fables and hagiographies, one often reads of the ability of individuals to tame wild creatures. It is said that St Cuthbert, the seventh-century missionary who settled on the Farne Islands off the Northumbrian coast, protected and tamed eiders. (Today in Northumberland, the eider is sometimes called St Cuthbert’s or Cuddy duck.) Many of these stories were built upon embellishment or pure fantasy, but in Iceland, travellers’ accounts repeatedly confirmed the existence of this strange relationship between Icelanders and the ducks.
@@ -110,7 +109,7 @@ Like many Lutheran parishes, the pastor’s land is among the most prized in the
 I was late for the eiderdown season, but the pastor offered to lead me around the land and re-enact his summer ritual as he had done for the Japanese film crew. Dressed in an old Polish military uniform, he headed off across the flat plain towards the beach, hunting for any nests that he had missed. It was a still day, the silence broken only by the call of an oystercatcher, alarmed by our presence.
 	- Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語
 Walking on this flat land, I felt as if I had missed out on a great gathering. All around us were hundreds of small piles of crushed mussel shells, the remnants of the eiders’ feasting, ground up by their powerful gizzards. Quartz-like, these remains had an understated beauty, glinting in the light. “In the later part, everything is going crazy,” the pastor said. “Birds and chicks running around. Arctic terns attacking all the time. It’s good to have a broomstick.”
-	- gizzards 沙囊
+	- gizzard 沙囊
 	- glinting
 		> 閃閃 |Give out or reflect small flashes of light.| her glasses glinted in the firelight
 		> 閃爍(情感) |(of a person's eyes) shine with a particular emotion.| his eyes glinted angrily
@@ -215,7 +214,7 @@ After a night of watching and shooting foxes, Gíslason and the other fox killer
 		> 紀錄 |Used in reference to records.|
 		> 給……上蠟 |Cover or treat (something) with wax or a similar substance, typically to polish or protect it.| I washed and waxed the floor
 		> |Remove unwanted hair from (a part of the body) by applying wax and then peeling off the wax and hairs together.| she waxed her legs when necessary
-		> 做..的紀錄|Make a recording of.| he waxed a series of tracks that emphasized his lead guitar work
+		> 做..的紀錄 |Make a recording of.| he waxed a series of tracks that emphasized his lead guitar work
 		> 漸圓/漸滿 |(of the moon between new and full) have a progressively larger part of its visible surface illuminated, increasing its apparent size.|
 		> 變大/增強 |Become larger or stronger.|
 		> 講述/撰寫 |Begin to speak or write about something in the specified manner.| they waxed lyrical about the old days

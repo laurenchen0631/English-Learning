@@ -26,6 +26,7 @@
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
 	- Doppler effect == Doppler shift 都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
 	- Milgram`s obedience studies == Milgram experiment 米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
+	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
@@ -88,6 +89,7 @@
 	- oxidize /ˈɒksɪdʌɪz/ 氧化 == Combine chemically with oxygen.
 	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
 	- galvanic corrosion 伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。
+	- Plexiglas 聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
 
 [Physical]
 	- wavelength 波長
@@ -234,6 +236,9 @@
 	- trachea /trəˈkiːə/ 氣管
 	- knee-jerk 膝躍反射
 	- sacrum /ˈseɪkrəm/ 薦骨/盆骨 == A triangular bone in the lower back formed from fused vertebrae and situated between the two hip bones of the pelvis.
+	- thigh /θʌɪ/ 
+		> 股/大腿 |The part of the human leg between the hip and the knee.|
+		> 股節/腿部 |The body part in other animals that corresponds to the human thigh.| One young bird, handled after wandering, readily disgorged a leg and thigh of a former brother or sister.
 	
 [Environment]
 	- greenhouse effect

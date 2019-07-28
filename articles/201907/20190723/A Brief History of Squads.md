@@ -16,7 +16,7 @@ It had seemed that “squads,” as made infamous by Taylor Swift circa 2015, ha
 	- on fleek 到位/很完美/很正點 == on point
 	- lit 非常興奮/非常熱門 == When something is turned up or popping 
 	- overstay 停留得過久 == Stay longer than the time, limits, or duration of.
-	- few and far betwee 稀有/難得 == not very many or not appearing very frequently
+	- few and far between 稀有/難得 == not very many or not appearing very frequently
 		> Sunny, warm weekends have been few and far between this summer.
 	- squad goals == Goals to achieve with your group of friends, your 'squad'
 Fast forward to this week, when four progressive women lawmakers leaned into their nickname, “the squad,” to present a united front against President Trump.

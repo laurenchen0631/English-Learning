@@ -43,6 +43,46 @@
 		> 展開的距離 |The distance to which something expands or can be expanded.| the moth has a wing expanse of 20 to 24 mm
 	* landform 地形/地貌 == A natural feature of the earth`s surface.
 	- ice sheet 冰層
+	- fjord /fjɔːd/ 峽灣
+	- floodplain 氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
+	- playa
+		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
+		> |player|
+
+[Weather]
+	- cyclone 氣旋 --> cyclonic 氣旋的
+	- condensation
+		> 冷凝 |Water which collects as droplets on a cold surface when humid air is in contact with it.|
+		> 凝結/凝聚 |The conversion of a vapour or gas to a liquid.| the cloud is caused by condensation in the air
+		> 縮寫本/濃縮版本 |A concise version of something, especially a text.|
+	- Mediterranean climate 地中海型氣候
+	* convection 對流 --> convective 對流的
+	- orographic lift 地形舉升
+	- updraft, updraught 上升氣流 == An upward current of air
+	- subarctic 副極地氣候的 == Relating to the region immediately south of the Arctic Circle.
+
+
+[Geology]
+	- convergent boundary 聚合板塊邊緣
+	- magma 岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
+	- mantle 地涵
+	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
+	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
+	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
+	- sediment /ˈsɛdɪm(ə)nt/  --> sedimentary
+		> 沈積/沈澱 |Matter that settles to the bottom of a liquid; dregs.| the ice freezes the wine and sediment at the base of the cork
+		> 沈積 |Settle as sediment.| the erythrocytes were allowed to sediment within the syringe
+		> 沈積物 |Particulate matter that is carried by water or wind and deposited on the surface of the land or the seabed, and may in time become consolidated into rock.| there is a huge concentration of sediment in deltas
+	- anticline 背斜層 == A ridge or fold of stratified rock in which the strata slope downwards from the crest.
+	- geostationary 與地球同步旋轉的
+	- ocean floor = seabed 海床
+	- undertow
+		> 深層逆流/退浪/回頭浪 |A current of water below the surface and moving in a different direction from any surface current.|
+		> 暗流 |An implicit quality, emotion, or influence underlying the superficial aspects of something and leaving a particular impression| there is a dark undertow of loss that links the novel with earlier works
+	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
+	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
+	- continent crust 大陸地殼 <--> oceanic crust 海洋地殼
+	- crustal plate 地殼板塊
 
 [Race]
 	- African American 非裔美國人
@@ -55,6 +95,8 @@
 		> |A bet on four or more horses to win (or be placed) in different races.|
 		> |A code word representing the letter Y, used in radio communication.|
 	- Samburu (n)桑布魯人 (adj)桑布魯人的
+	- Maori 毛利人
+	- Waorani 華尤拉尼人，是來自厄瓜多爾亞馬遜地區的本土美洲印第安人
 
 [Language]
 	- Swahili 斯瓦希里語，是非洲語言使用人數最多的語言之一，和阿拉伯語及豪薩語並列非洲三大語言
@@ -85,6 +127,8 @@
 	- Uganda 烏干達，是位於東非的內陸國家
 	- Libya 利比亞，是北非的一個阿拉伯國家 --> Libyan 利比亞的
 	- Rwanda 盧安達，是位於中非東部的主權國家，坐落在赤道以南
+	- Poland 波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語
+	- Denmark 丹麥 --> Dane 丹麥人
 
 [Europe POI]
 	- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
@@ -93,6 +137,15 @@
 	- Dordogne 多爾多涅，法國阿基坦-利木森-普瓦圖-夏朗特大區東北部的一個省份，為法國第二大省，首府佩里格
 	- the Egyptian Valley of Kings 帝王谷，埃及埋葬古埃及新王國時期18到20王朝的法老和貴族的一個山谷
 	- Fourth Arrondissement 巴黎第四區
+	- the Arctic Circle 北極圈，緯度數值為北緯66.5°的一個假想圈，是北寒帶與北溫帶的分界線，與黃赤交角餘角
+	- Union Jack 聯合傑克，又稱「聯合旗」，是英國皇家海軍的艦首旗
+	- Cannes 坎城，法國南部的一個市鎮，位在濱海阿爾卑斯省的蔚藍海岸地區，鄰近地中海，人口約70,000人，是坎城影展的所在地
+	- Croisette 十字大道，是位於法國坎城的一座主要道路。這條道路位於地中海沿岸，總長大約2公里。坎城影展的主辦地節慶宮就位於十字大道
+	- Rotterdam 鹿特丹，是荷蘭南荷蘭省的城市，是荷蘭第二大城市
+	- Madrid 馬德里，是西班牙首都及最大都市，也是馬德里自治區首府
+	- Düsseldorf 杜塞道夫，是德國北萊茵-威斯伐倫州首府，位於萊茵河畔。杜塞道夫市區人口約58萬人，是德國廣告、服裝和通訊業的重要城市
+	- Brussels 布魯塞爾，比利時的首都和最大的城市，也是歐洲聯盟的主要行政機構所在地
+	- Dublin 都柏林，愛爾蘭共和國的首都以及最大的城市，靠近愛爾蘭島東岸的中心點，位處都柏林郡的利菲河河口、都柏林地區的中心。都柏林自中世紀以來一直是愛爾蘭首都城市，也是愛爾蘭島上最大的城市。由於很多高技術企業聚集，所以有歐洲的矽谷之稱
 
 [Americas]
 	- Arizona 亞利桑那州。首府和最大城市是鳳凰城。
@@ -106,7 +159,6 @@
 	- Louisiana 路易斯安那州，位於墨西哥灣沿岸
 	- Massachusetts 麻薩諸塞州。正式名稱為麻薩諸塞聯邦，新英格蘭六州裡人口最密集的一州。波士頓為該州首府及最大城市
 	- Michigan 密西根州，位於五大湖地區。
-	- Minnesota 明尼蘇達州，是美國中西部最大的一個州，屬於上中西部地區
 	- Minnesota 明尼蘇達州。美國中西部最大的一個州。明尼蘇達州最重要的城市地區是由明尼亞波利斯和聖保羅組成的雙城地區
 	- Mississippi
 	- Nevada
@@ -114,18 +166,21 @@
 	- New Jersey 紐澤西州/新澤西州 
 	- New Orleans 新奧爾良
 	- North Carolina 北卡羅來納州
-	- Ohio 俄亥俄州位於美國中東部，是五大湖地區的組成部分
+	- Ohio 俄亥俄州，位於美國中東部，是五大湖地區的組成部分
+	- Oklahoma 奧克拉荷馬州，是美國的一個州，有美國最大的印地安原住民人口
 	- Pennsylvania 賓夕法尼亞州是美國的州份之一，正式名稱為「賓夕法尼亞聯邦」
 	- Puerto Rico 波多黎各，美國在加勒比海地區的一個自治邦，距離佛羅里達州邁阿密東南1600公里
 	- South Carolina 南卡羅萊納州
 	- Texas --> Texan 德克薩斯州，簡稱德州，是全美國土地面積和人口的第二大州
 	- the Dakotas 達科他地區。包然北達科他州與南達科他州
 	- Utah 猶他州。首府鹽湖城。
-	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
 	- Vermont 佛蒙特州 
 	- West Virginia
 	- Wyomin 懷俄明州。包括舉世聞名的黃石國家公園和大提頓國家公園等
 	- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
+
+	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
+
 
 [Americas POI]
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
@@ -195,10 +250,7 @@
 	- Congolese (adj)剛果的 (n)剛果人, 剛果語
 	- Creole /ˈkriːəʊl/ 克里奧爾人 == A person of mixed European and black descent, especially in the Caribbean.
 	- Cuba 古巴
-	- Dane 丹麥人
 	- Democratic Republic of the Congo == DRC 剛果民主共和國
-	- Denmark 丹麥
-	- Denmark 丹麥
 	- Dutch 荷蘭人
 	- Egypt	埃及 /ˈiːdʒɪpt/
 	- Eskimo 愛斯基摩人
@@ -297,6 +349,10 @@
 	- Saturnalia 農神節
 	- ticker-tape parade 紙帶遊行，人們從街邊兩側高樓向外拋撒紙屑，以此向遊行隊伍中取得成就的某人表達敬意
 	- Easter 復活節，又稱主復活日，是基督宗教的重要節日之一
+	- Labor Day 勞動節，美國的勞動節規定在每年九月的第一個星期一，是聯邦的法定節假日，用以慶祝工人對經濟和社會的貢獻
+	- New Year’s Eve 跨年日，又稱作元旦前日，不少國家在元旦前一天的夜晚，均有舉行迎接新年的活動
+	- Poppy Appeal 國殤罌粟花，在1920年後，歐洲用來紀念在戰爭中過世的士兵的花朵。源自於1920年，因為《在法蘭德斯戰場》這首詩中，提及在第一次世界大戰戰場上的罌粟花，美國軍團因此以罌粟花來紀念在第一次世界大戰中過世的美國軍人。
+	- Burning Man festival 燃燒人，一年一度在美國內華達州黑石沙漠舉辦的活動，九天的活動開始於美國勞動節前一個星期六，結束於美國勞工節當天
 
 [Ocean]
 	- the Pacific Ocean

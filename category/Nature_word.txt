@@ -32,28 +32,7 @@
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
 	- sac 囊 == A hollow, flexible structure resembling a bag or pouch.
-	
-[Geology]
-	- convergent boundary 聚合板塊邊緣
-	- magma 岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
-	- mantle 地涵
-	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
-	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
-	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
-	- sediment /ˈsɛdɪm(ə)nt/  --> sedimentary
-		> 沈積/沈澱 |Matter that settles to the bottom of a liquid; dregs.| the ice freezes the wine and sediment at the base of the cork
-		> 沈積 |Settle as sediment.| the erythrocytes were allowed to sediment within the syringe
-		> 沈積物 |Particulate matter that is carried by water or wind and deposited on the surface of the land or the seabed, and may in time become consolidated into rock.| there is a huge concentration of sediment in deltas
-	- anticline 背斜層 == A ridge or fold of stratified rock in which the strata slope downwards from the crest.
-	- geostationary 與地球同步旋轉的
-	- ocean floor = seabed 海床
-	- undertow
-		> 深層逆流/退浪/回頭浪 |A current of water below the surface and moving in a different direction from any surface current.|
-		> 暗流 |An implicit quality, emotion, or influence underlying the superficial aspects of something and leaving a particular impression| there is a dark undertow of loss that links the novel with earlier works
-	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
-	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
-	- continent crust 大陸地殼 <--> oceanic crust 海洋地殼
-	- crustal plate 地殼板塊
+	- gizzard 沙囊
 
 [Animal]
 	- tadpole /ˈtadpəʊl/ == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -89,6 +68,7 @@
 	- snowshoe hare 白靴兔
 	- caribou /ˈkarɪbuː/ 馴鹿
 	- lynx /lɪŋks/ 山貓
+	- otter 水獺
 	- sea otter 海獺
 	- wolverine 貂熊
 	- rhino /ˈrʌɪnəʊ/ 犀牛 == rhinoceros
@@ -97,7 +77,7 @@
 	- Shar-Pei 沙皮狗
 	- Paso Fino horse 帕索·菲諾馬
 	- canine /ˈkeɪnʌɪn/ (adj)狗的/犬科的 (n)狗, 犬齒
-	- coyote /kʌɪˈəʊti/  郊狼/土狼 == A wild dog that resembles the wolf, native to North America.
+	- coyote /kʌɪˈəʊti/ 郊狼/土狼 == A wild dog that resembles the wolf, native to North America.
 	- rodent (N)嚙齒目動物
 	- vole 田鼠
 	- gopher /ˈɡəʊfə/ 地鼠
@@ -105,6 +85,8 @@
 	- hamster 倉鼠 == A solitary burrowing rodent with a short tail and large cheek pouches for carrying food, native to Europe and North Asia.
 	- Homo sapiens 人
 	- cheetah /ˈtʃiːtə/ 獵豹 <--> cheater /ˈtʃiːtə/ 
+	- mink 鼬鼠
+	- humpback 座頭鯨
 
 [Insect]
 	- moth 蛾
@@ -115,8 +97,9 @@
 	- borer /ˈbɔːrə/ 
 		> 蟲/蛀蟲 |A worm, mollusc, insect, or insect larva which bores into wood, other plant material, or rock.|
 		> 鑽孔器 |A tool for boring.|
+	* mollusc 軟體動物
 	- caterpillar 毛毛蟲/蝶或蛾的幼蟲
-	
+	- flea 跳蚤
 
 [Bird]
 	- passenger pigeon 旅鴿
@@ -130,12 +113,24 @@
 	- penguin /ˈpɛŋɡwɪn/ 企鵝 == A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.
 	- dodo 渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
 	- Archaeopteryx /ˌɑːkɪˈɒptərɪks/ 始祖鳥 == The oldest known fossil bird, of the late Jurassic period. It had feathers, wings, and hollow bones like a bird, but teeth, a bony tail, and legs like a small coelurosaur dinosaur.
+	- eider /ˈʌɪdə/ 絨鴨/歐絨鴨
+	- seagull 海鷗
+	- pelican 鵜鶘
+	- chick 小雞
+	- tern 燕鷗
+	- drake
+		> 公鴨 |A male duck.| a drake mallard
+		> 蜉蝣類 |(in fishing) a natural or artificial mayfly, especially a subadult or a gravid female.| green drake hatches
+	- puffin 海鸚鵡
+	- geese 鵝
 
 [Bounty]
 	- tusk 長牙/獠牙
 	- antler /ˈantlə/ 鹿角
 	- baleen 鯨鬚 == whalebone
 	- taxidermist 剝製師
+	- eiderdown 鴨絨
+	- plumage 全身羽毛 == A bird`s feathers collectively.
 
 [Aquatic]
 	- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
@@ -161,6 +156,11 @@
 	- catfish 鯰魚
 	- sturgeon /ˈstəːdʒ(ə)n/ 鱘 == A very large primitive fish with bony plates on the body. It occurs in temperate seas and rivers of the northern hemisphere, especially central Eurasia, and is of commercial importance for its caviar and flesh.
 	- coral-reef 珊瑚礁
+	- eel /iːl/ 鰻 
+	- feeder fish 飼養魚，是某些類型的廉價魚的通用名稱，通常作為捕食動物飼養
+	- molly
+		> 茉莉花鱂 |A small live-bearing killifish which is popular in aquaria and has been bred in many colours, especially black.|
+		> 亞甲二氧甲基苯丙胺 |The drug MDMA, especially in powdered or crystalline form.|
 
 [Plant]
 	* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -206,18 +206,8 @@
 	- nodule /ˈnɒdjuːl/ 小結節/小瘤 
 	- milkweed 乳草 == A herbaceous American plant with milky sap, some kinds of which attract butterflies or yield a variety of useful products.
 	- succulent 多肉植物
-
-[Weather]
-	- cyclone 氣旋 --> cyclonic 氣旋的
-	- condensation
-		> 冷凝 |Water which collects as droplets on a cold surface when humid air is in contact with it.|
-		> 凝結/凝聚 |The conversion of a vapour or gas to a liquid.| the cloud is caused by condensation in the air
-		> 縮寫本/濃縮版本 |A concise version of something, especially a text.|
-	- Mediterranean climate 地中海型氣候
-	* convection 對流 --> convective 對流的
-	- orographic lift 地形舉升
-	- updraft, updraught 上升氣流 == An upward current of air
-
+	- coca (n)古柯, 古柯葉
+	- birch 樺木屬
 
 [Ore]
 	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.

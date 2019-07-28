@@ -346,7 +346,7 @@
     ^ braggadocio (n)吹牛大王 = braggart = blowhard
     ^ braid (n)穗帶, 髮辮 = plait (v)編成辮子 = plait
     ^ brake (n/v)煞車 = decelerate (v)阻止 = retard = deter = arrest = suffocate
-    ^ brash (adj)傲慢的/粗魯的/自以為是的 = brazen = blatant, 過分艶麗的
+    ^ brash (adj)性急的/無禮的, 鋪張的/沒品味的, 易碎的 (n)碎片/殘枝
     ^ brat (n)小孩/頑童
     ^ brawny (adj)強壯的 = strong
     ^ breach (n)裂縫/缺口, 破壞/違反 (v)打裂, 違背 = break = violate
@@ -1373,7 +1373,7 @@
     ^ helmet (n)頭盔 <|> hermit <|> hermetic
     ^ hem (v)包圍, 吞吞吐吐地說 (n)袖邊, 邊緣
     ^ herd (n)獸群 (v)聚集
-    ^ hiatus (n)裂縫/空隙 = gap
+    ^ hiatus (n)短暫的中斷, 元音連讀
     ^ hideous (adj)討厭的, 醜陋的/可怕的
     ^ hie (v)疾走, 催促 = hasten
     ^ hike (v)高漲/上升, 健行/徒步旅行 (n)高漲/上升, 徒步旅行
@@ -1905,7 +1905,7 @@
 [N]
     + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> summit = acme
     + naysay (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
-    + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy <-- nebul 雲 = mist, cloudy + ous
+    + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy --> nebulosity (n)朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = mist, cloudy + ous
     + necromancy (n)巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
     + nepotism (n)偏袒親戚/任人唯親 = cronyism <-- nephew
     ++ nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate = peeve = vex <|> mettle --> nettlesome (adj)令人惱怒的
