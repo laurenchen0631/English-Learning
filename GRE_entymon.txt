@@ -1102,7 +1102,7 @@
 		- celebrity (n)名聲/名氣/名望 = renown, (娛樂界的)名人/明星
 
 	cerebr 腦 = brain
-		- /ˈsɛrɪbr(ə)l/ cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
+		+ /ˈsɛrɪbr(ə)l/ cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
 		- cerebrum (n)大腦
 		- cerebration (n)用腦, 思考/思考過程
 	
@@ -2397,7 +2397,7 @@
 		- fissile (adj)易裂的
 
 	flagr 燒 = flame, burn == ard == bust == caus
-		- conflagration (n)大火/大火災, 衝突/戰火
+		+ conflagration (n)大火/大火災, 衝突/戰火
 		* flagrant (adj)駭人的/明顯的 = obvious = evident = blatant = shockingly noticeable, 罪惡昭彰的 = notorious = scandalous
 		- deflagrate (v)使迅速燃燒, 爆燃
 
@@ -2936,7 +2936,7 @@
 			+++ irrelevant (adj)無關的 = extraneous = impertinent = immaterial = inconsequential
 			- irrepressible (adj)壓抑不住的 <-- ir + repress + ible
 			- irreverence (n)不敬 = disrespect <--> awe <-- ir + reverence
-			- irrevocable (adj)不可撤回的/無法取消的 <-- ir + revoke + able
+			+ irrevocable (adj)不可撤回的/無法取消的 <-- ir + revoke + able
 			+ irresolute (adj)優柔寡斷的/猶豫的 = wavering = vacillating = doubtful = hesitating <-- ir + resolute
 			+++ irresponsible (adj)不負責任的 = feckless = flighty, 不可靠的
 
@@ -3601,7 +3601,7 @@
 		*** commission (v)(正式地)委託, 委任…為軍官/任命 (n)委託/請求, 佣金, 犯罪, 委員會
 		- commissary (n)代表/代理, 雜貨店/小賣部
 		+ demit (v)辭職/退職 = resign
-		+ demise (n)死亡 = decease = death, 終結 = termination, 轉讓/租賃
+		+ /dɪˈmʌɪz/ demise (n)死亡 = decease = death, 終結 = termination (n/v)轉讓/租賃
 		+ dismiss (v)把..送走, 解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
 		+ dismissal (n)送走, 解僱, 駁回/拒絕 = rejection
 		- emissary (n)特使/密使 = legate
@@ -3752,7 +3752,7 @@
 		- monochrome --> monochromatic
 		- /ˈmɒnək(ə)l/ monocle (n)單片眼鏡 <-- mon + ocle 眼睛 = eye
 		- monoculture (n)單一作物種植 
-		- monogamy
+		- monogamy --> monogamous
 		- monolith (n)巨型獨石/整塊石料, 龐然大物 = behemoth = leviathan <-- mono + lith 石頭 = stone
 		+ monolithic (adj)巨石的, 巨大的 = huge = massive, 單一的, 巨大而僵化的
 		- monolog, monologue
@@ -3772,7 +3772,7 @@
 
 	moll 軟 = soft
 		+ emollient (n)潤膚劑 (adj)使柔軟的, 使緩和的 = mollifying
-		+ mollify (v)撫慰/安慰 = appease = soothe = mitigate
+		+ mollify (v)撫慰/安慰 = appease = soothe = mitigate = propitiate
 		- /ˈmɒlɪkɒd(ə)l/ mollycoddle (v)溺愛/縱容 = pamper (n)女性化的男人/嬌生慣養的人 <-- molly + coddle 
 
 	multi 多 = many, much
@@ -3867,6 +3867,7 @@
 	mut 改變 = change
 		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
 		- mutate (v)變異 --> mutation (n)突變
+		+ muted (adj)柔和的(聲音或光亮), 無言的/無聲的
 		+ immutable (adj)永恆的/不可改變的 = unchangeable 
 		+ transmute (v)變化/使變形
 
@@ -4004,8 +4005,8 @@
 		- announce (v)宣布/發表 = pronounce = proclaim = herald, 通報...的到來
 		+ denounce (v)公開譴責 = denunciate = condemn = censure, 指控/彈劾 = accuse formally = inform against
 		* denunciate (v)公開譴責 = denounce --> denunciation (n)公開譴責 = public censure/condemn, 指控/告發
-		+ enunciate (v)清晰地發音, 明確表明/闡明
 		- enounce (v)宣布/闡明, 發音
+		+ enunciate (v)清晰地發音, 明確表明/闡明
 		- pronounce (v)發音, 宣告 = announce = proclaim, 宣判 --> pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
@@ -4045,7 +4046,7 @@
 	noc 傷害 = harm
 		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真
 		+ innocuous (adj)無害的 = harmless = innocent = inoffensive
-		+ noxious (adj)有害的/有毒的 = noisome
+		+ /ˈnɒkʃəs/ noxious (adj)有害的/有毒的 = noisome
 		- obnoxious (adj)令人不快的/討厭的/可憎的
 
 	noct, nocti 夜 = night
@@ -4056,7 +4057,7 @@
 	
 	nost 家 = home
 		+ nostalgia
-		+ nostrum (n)江湖藥/妙方, 自認為可解決某種社會或政治問題的妙計
+		+ /ˈnɒstrəm/ nostrum (n)江湖藥/妙方, 自認為可解決某種社會或政治問題的妙計
 
 	narco, narc 恍惚/失去意識 = stupor
 		- narcotic (adj)麻醉的/麻醉效果的 (n)催眠藥/麻醉劑, 迷幻藥/致幻毒品
@@ -4101,10 +4102,10 @@
 
 		3. 走向/加強 = to, towards == a == de == dis == e
 			* obey (v)服從/聽從, 執行, 遵守
-			+ obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
+			+ /əˈbiːdɪənt/ obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
 			+ /ə(ʊ)ˈbeɪs(ə)ns/ obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 = respect = deference <-- obey
 			- /ə(ʊ)ˈbiːs/ obese (adj)極肥胖的 = corpulent --> obesity (n)肥胖 <-- ob + ese 吃 = eat
-			+ obfuscate (v)(故意)使模糊/使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑<-- ob + fusc 黑暗 = dark + ate
+			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑<-- ob + fusc 黑暗 = dark + ate
 			+ obligate --> obligatory 
 			* obligation
 			- obnoxious
@@ -4127,59 +4128,60 @@
 			+ ostensible, ostensive 
 
 	out 超出/出 = beyond, surpass, out
-		+ outdated (adj)陳舊的/過時的
-		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的
-		- outgrowth (n)自然結果 = consequence = ramification, 副產品 = byproduct = spin-off
-		+ outland (n/adj)外國 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
-		* outlaw (n)歹徒/罪犯, 被放逐者, 被查禁的組織 (v)宣布……為不合法, 使在法律上失效/禁止/限制 = proscribe, 將……放逐
-		- outlet (n)出口/出路, 銷路/商店
-		- outline (n)外形/輪廓, 提綱/概要
+		+ outdated (adj)陳舊的/過時的 = obsolete
+		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
+		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
+		+ outland (n)遙遠的地區 (adj)遙遠的, 外國的 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
+		* outlaw (n)逃犯/罪犯, 被剝奪法律權益者 (v)宣布……為不合法, 剝奪……的法律保護 = proscribe
+		- outlet (n)出水口/排氣口, 銷路, 市場, 商行, 發洩途徑
+		- outline (n)外形/輪廓, 提綱/概要 (v)畫出……的輪廓, 概述
 		- outlive (v)比...活得更久 
-		- outmaneuver (v)以計謀勝過
-		+ outmoded (adj)不再流行的 = obsolete
+		- outmaneuver (v)以機動性勝過, 以計謀勝過
+		+ outmoded (adj)老式的/過時的 = obsolete = old-fashioned = outdated
 		- outnumber (v)在數量上超過
 		- outpouring (n)流露
-		+ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
-		- outset (n)開始/開頭 = start = beginnning
-		- outsgine (v)比...更好
+		+++ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
+		- outset (n)開始/開頭 = start = beginnning <|> onset
+		- outshine (v)比..更亮, 比...更好
 		- outskirts (n)郊區/郊外
 		- outspoken (adj)直言不諱的 = explict
-		+ outstrip (v)超過 = excel = surpass = transcend, 超越 = surpass = transcend
-		- outwit (v)以機智勝過
-		* outcry (n)大聲疾呼/強烈抗議
+		+ outstrip (v)超過 = exceed = excel = surpass = transcend, 比..跑(或游、划等)得快
+		- outwit (v)以機智勝過 = overreach
+		* outcry (n)大聲疾呼, 強烈抗議
 
 	over 
 		1. 過分/超過 = excessive
-			* overly (adj)過度的 = excessive = too
+			*** overly (adv)過度的 = exceedingly = extremely = too = unduly = inordinately
 			- overabundant (adj)過剩的/過多的 --> overabundance (n)過剩/過多
-			+ overbear (v)壓倒, 克服, 鎮壓 --> overbearing (adj)專橫的/傲慢的 = arrogant = domineering = dictatorial = imperious
-			- overdo (v)做得過火, 使過於疲勞 --> overdone (adj)跨張的
-			- overdose (n)(藥物)過大的劑量
-			- overdue (adj)過期未付的/逾期的
-			+ overextend (v)過分擴展
+			+ overbear (v)壓倒 = overwhelm = overcome --> overbearing (adj)專橫的/傲慢的 = arrogant = domineering = dictatorial = imperious <|> forbear
+			- overcome (v)克服, 擊敗, 壓倒 = overpower = overwhelm = overbear
+			- overdo (v)做得過火 = exaggerate, 使過於疲勞, 煮過頭 = overcook --> overdone (adj)做過頭的 = exaggerated, 煮過頭的 = overcooked
+			- overdose (n)(藥物)過大的劑量 (v)過量服用/給..過多的劑量
+			- overdue (adj)到期未付的/逾期未還的/遲來的/過了預產期的 
+			+ overextend (v)過分擴展, 使..承擔過多的工作
 			- overexposure (n)過分暴露, 曝光過度
-			- overflow (v)溢出, 充滿/洋溢
-			- overhaul (v)徹底檢查/徹底檢修
+			- overflow (v)溢出/擠出/外流, 充滿/洋溢 (n)溢出, 過剩
+			- overhaul (n/v)把..徹底檢查/徹底檢修
 			- overheated (adj)過熱的, 太激烈的/太強烈的, 經濟膨脹的
-			- overpower (v)擊敗/制伏, (感情等)壓倒 --> overpowering (adj)壓倒性的/不可抗拒的 = overwhelming
-			- overreach (v)做事過頭/伸得過遠
+			- overpower (v)擊敗/制伏, 對..來說過於強烈 = overwhelm --> overpowering (adj)非常強烈的(情緒) = overwhelming
+			- overreach (v)做得過頭/伸得過遠, 智勝 = outwit
 			+ overreact (v)反應過度
 			+ overstate (v)誇張/對...言過其實 = exaggerate
 			- overstay (v)停留得過久
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
 			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
-			- overturn (v)翻倒 = turn over, 推翻/破壞/廢除 = overthrow
+			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
-			+ overwhelm (v)氾濫/淹沒, 壓倒 = crush = overpower --> overwhelming (adj)壓倒的/勢不可擋的, 難以忍受的/無法抗拒的
+			+ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
 			+ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above
-			- overlap (v)部分重疊/重疊
-			** overlook (v)未察覺, 忽視, 寬恕/不計較 = condone = forgive = excuse = pardon, 俯瞰/俯視 (n)觀察位置
-			+ override (v)不顧/無視 = disregrad, 踐踏/壓垮, 撤銷/推翻 = overrule --> overriding (adj)更重要的, 在上面移動的
+			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
+			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
+			+ override (v)推翻/使無效 =  reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
-			+ overshadow (v)遮蔽, 使失色
+			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀
 
 	octo, oct 八
 		- octogenarian (n)八十歲到八十九歲的人 (adj)八十歲到八十九歲的
@@ -4467,7 +4469,7 @@
 			+ pernicious (adj)有害的 = noxious = harmful = malign = baneful, 致命的 = destructive = deadly = baneful = <-- per + nic 死 = death + ious
 			+ perpetual --> perpetuate
 			+ perplex
-			- perquisite 
+			+ perquisite 
 			- persecute
 			+ /pəːsɪˈvɪə/ persevere (v)堅持不懈/不屈不撓 <|> /prɪˈzəːv/ preserve --> perseverance (n)堅持不懈 <-- per + severe 
 			- persiflage (n)挖苦/嘲弄 <-- per + sifl 吹哨 = whistle + age
@@ -4610,7 +4612,7 @@
 
 	path, pathy 感情/痛苦 = feeling, suffering == pass
 		+ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility
-		+ apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = torpor = aloof (adj)
+		+ apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = torpor <--> antipathy
 		+ apathetic (adj)冷淡的/無動於衷的 = casual = indifferent = lethargic = phlegmatic, 無精打采的 = dull = spiritless = listless = torpid = lethargic
 		- pathos (n)感染力, 感傷/悲悵/悲情 = pity
 		* pathetic (adj)可憐的 = abject = miserable = dismal, 無用的/差勁的
@@ -5132,7 +5134,7 @@
 		* inquire (v)詢問/打聽 --> inquiry (n)打聽/質詢, 調查, 疑問/問題
 		+ inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
 		- inquisition (n)調查, 審訊
-		- perquisite (n)額外補貼/固定津貼, 利益
+		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇
 		- prerequisite (n)先決條件
 		- request (n/v)要求/請求
 		+ requisite (adj)必要的/必需的 = indispensable = essential (n)必需/必要
@@ -5627,7 +5629,7 @@
 		** desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely, 憂鬱的 = dreary = gloomy = dismal = plaintive = morose = melancholy (v)破壞 = devastate拉客
 		*** solicit (v)請求/懇求 = beseech = entreat = woo = implore = crave = urge, 乞求, 拉客
 		- solicitude (n)關懷/牽掛
-		+ solicitous (adj)關懷的/掛念的 = attentive = eager, 憂慮的 = concerned = apprehensive, 非常小心的 = meticulously careful, 渴望的 = eager
+		+ /səˈlɪsɪtəs/ solicitous (adj)關切的/熱切期望的
 		+ soliloquy
 		- solipsism (n)唯我主義
 		* solitary (adj)單獨的/獨自的 = isolated = insular = sporadic, 隔絕的, 非群居的, 單一的/唯一的 (n)隱士, 單人牢房
@@ -6268,7 +6270,7 @@
 			- tend (v)趨向, 傾向/易於, 朝向, 照料, 管理
 			* tendency (n)傾向 = bent = inclination, 趨勢 = trend
 			+ tendentious (adj)有偏見的 = biased <-- tendency
-			- tender (v)提出/提供(意見) (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
+			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
 			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順
 
 		2. 拿著 = hold, keep == tain
@@ -6388,7 +6390,7 @@
 		- contaminate (v)污染 = pollute = smudge
 		+ contagion (n)接觸傳染, 感染/蔓延/擴散 --> contagious (adj)接觸性傳染的/帶傳染源的, (情感)具有感染力的
 		+ contiguous (adj)相鄰的/毗鄰的/連續的 = adjacent = near --> contiguity (n)鄰近
-		+ contingent (adj)視…而定的/取決於…的, 意外的 = accidental = fortuitous (n)代表團, 小分隊
+		+ contingent (adj)偶然的 = accidental = fortuitous, [on/upon]視…而定的/取決於…的 (n)代表團, 小分隊
 		+ contingency (n)可能性 = uncertainty = fortuitousness, 意外事件/偶然
 		+ detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
 		++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
