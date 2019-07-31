@@ -332,6 +332,7 @@
 
 	arch, archi, archy
 		1. 主要的 = chief, first, principal
+			- arch (adj)調皮的/淘氣的 (n)拱/拱門/拱形物, 足背/足弓 (v)使成弧形, 呈拱形覆蓋
 			- archipelago (n)群島 <-- archi + pelago 海 = sea
 			- architect (n)建築師, 締造者 --> architecture (n)建築
 
@@ -368,12 +369,12 @@
 		* artery (n)動脈 = aorta, 主要幹道 --> arterial (adj)
 
 	art, arti 技巧
-		++ artless (adj)粗俗的, 自然的/直率的 = guileless = natural = ingenuous = naive, 單純的 = simple --> artlessness
+		++ artless (adj)粗俗的, 自然的/直率的 = guileless = natural = ingenuous = naive, 單純的 = simple --> artlessness (n)單純/樸實
 		+ artifact (n)人工製品 --> artifacts (n)史前古物
 		+ artificial (adj)人造的, 假的
 		- artifice (n)巧技, 詭計 = contrivance = finesse = ruse
 		*** article (n)文章, 物品/物件, 商品 = commodity, 條款
-		** artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
+		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -887,7 +888,7 @@
 	cent, cant, chant 唱/說 = song, chant == dict
 		+ accentuate (v)強調 = emphasize = accent
 		- accent (n)口音, 重音 (v)強調
-		- cantata (n)清唱劇
+		- cantata (n)清唱劇 = oratorio
 		* chant (n)聖歌 (v)歌唱/背誦/吟誦
 		- disenchant (v)使醒悟/使不抱幻想
 		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
@@ -928,7 +929,7 @@
 		- recruit (n)新兵, 新成員 = newcomer (v)徵募
 
 	cre, cern 分開/分辨 = separate, distinguish <--> crue
-		+ decree (n)法令/教令, 天意/天命 (vt)裁決 (v)命令 = ordain
+		+ decree (n)法令/教令 = ordinance, 天意/天命 (vt)裁決 (v)命令 = ordain
 		+ discern (v)(費勁)看出 = recognize = apprehend, 辨別出 = distinguish = discriminate --> discernment (n)洞察力/識別
 		- discernible (adj)能看出的/可辨別出的
 		+ discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
@@ -1611,7 +1612,7 @@
 		- verdict
 
 	doc 教 = teach
-		- /ˈdəʊsʌɪl/ docile (adj)順從的/聽話的/易控制的 = submissive = obedient = amenable = deferential = obsequious
+		+ /ˈdəʊsʌɪl/ docile (adj)順從的/聽話的/易控制的 = submissive = obedient = amenable = deferential = obsequious
 		+ /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 = tenet --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
 		- indoctrinate (v)教導/灌輸思想 = inculcate
 		+ document (n)文件/公文 (v)用文件證明, 紀錄
@@ -1689,7 +1690,7 @@
 		- educate (v)教育/培養
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
-		- induce (v)誘使/勸說, 導致/引起, 引產/催生
+		- induce (v)誘使/勸說 = suborn, 導致/引起 = originate, 引產/催生
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
@@ -2103,6 +2104,7 @@
 		- forbidding (adj)嚴峻的/險惡的/令人討厭的
 		+++ forfeit (v)喪失/被罰沒收 (n)罰款/處罰 (adj)被罰的/被沒收的
 		- forgo (v)拋棄/斷念 = renounce = resign = relinquish
+		+ /fəˈlɔːn/ forlorn (adj)被遺棄的/孤獨的, 幾乎無望的/不太可能實現的
 		+ forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
 		+ forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate, 背棄
 
@@ -2906,7 +2908,7 @@
 			- insomnia
 			- insecurity (n)不安全感, 危險/安全
 			+ inseparable (adj)不可分割的/形影不離的
-			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual <-- in + souci 擔心 = worry + ant
+			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual  --> insouciance (n)不在乎 = indifference <-- in + souci 擔心 = worry + ant
 			+ insuperable (adj)難以克服的 = insurmountable = unconquerable
 			* insurmountable (adj)無法克服的/無法逾越的
 			- intact
@@ -2972,7 +2974,7 @@
 			+ implode (v)內爆 <-- im + (ex)plode
 			- implore
 			** import (v)進口/輸入, 表達/使知曉 (n)進口, 意義 = meaning, 重要性 = significance = importance
-			- importune (v)強求/煩擾 = harass = woo = solicit <-- im + (op)portune
+			+ importune (v)強求/煩擾 = harass = woo = solicit --> importunate (adj)強求的/纏擾不休的 <-- im + (op)portune
 			* impose
 			- imposing
 			- impostor --> imposture
@@ -3534,7 +3536,7 @@
 
 	linqu, lip 離開 = leave
 		- delinquent (adj)怠忽職守的, 拖欠的, 犯法的/不良的 (n)不良青少年 --> delinquency (n)少年犯罪, 失職/懈怠, 拖欠債務
-		+ eclipse (v/n)使黯然失色, 蝕/遮蔽 
+		+ eclipse (v/n)使黯然失色 = overshadow, 蝕/遮蔽 
 		- ellipsis -> ellipses (n)省略 --> elliptical (adj)省略的, 橢圓的
 		- ellipse (n)橢圓 --> elliptic (adj)橢圓的
 		+ relinquish (v)自願放棄/讓出 = forgo = resign = yield = release = renounce = surrender
@@ -3784,7 +3786,7 @@
 
 	muni 禮物 = gift
 		+ /mjʊˈnɪfɪsənt/ munificent (adj)慷慨的/寬宏的 = very generous = bountiful = liberal --> munificence (n)慷慨/寬宏大量 = generosity
-		- /mjʊˈnɪʃən/ munition (n)軍火/彈藥 = weapons and ammunition (v)提供軍火
+		- /mjʊˈnɪʃən/ munition (n)軍火/彈藥 = weapons and ammunition = ordnance (v)提供軍火
 		- ammunition (n)彈藥
 
 	monstr 顯示 = show
@@ -4178,10 +4180,10 @@
 		2. 在上 = above
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
-			+ override (v)推翻/使無效 =  reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
+			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
-			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀
+			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀 = eclipse
 
 	octo, oct 八
 		- octogenarian (n)八十歲到八十九歲的人 (adj)八十歲到八十九歲的
@@ -4190,63 +4192,63 @@
 
 	omin, omen 凶兆 = bad omen
 		- abominate (v)痛恨/厭惡 = abhor = loathe
-		- abominable (adj)極壞的/惡劣的/可惡的/討厭的
-		- ominous (adj)不吉利的/不祥的 = boding = sinister
-		- omen (n)預兆 = portent = sign = auspice
+		- abominable (adj)可惡的/令人討厭的 = hateful = detestable = loathsome, 令人不舒服的 = disagreeable, 極糟的/糟透的 = very poor
+		- ominous (adj)預兆的, 不吉利的/不祥的 = boding = sinister = foreboding = threatening = inauspicious
+		- omen (n)預兆 = portent = sign = auspice = presage (v)預示 = portend, 占卜 = divine
 
 	omni 全 = all == pan
-		- ominpotent (adj)全能的/萬能的 = almighty
+		- omnipotent (adj)全能的/萬能的 = almighty, 有無限權力或力量的
 		+ omnipresent (adj)遍及各處的, 無處不在的 = ubiquitous --> omnipresence (n) = ubiquity
 		- omniscient
 
 	ore, ora 講話 = speak, beg == dic == cant == fable == log == nounce
-		* adore (v)崇拜/敬仰/熱愛 = admire = acclaim
-		* exorable (adj)可說服的 = susceptible <|> exonerate
+		* adore (v)崇拜/敬仰/熱愛 = admire = acclaim, 崇敬 = worship = venerate, 極喜歡
+		- exorable (adj)可說服的 = susceptible <--> inexorable <|> exonerate
 		+ inexorable
-		* oral (adj)口頭的/口述的, 口的/口服的/口腔的 (n)口試
-		- oration (n)演講/致辭 = harangue = speech
-		- oratory (n)演講術 = rhetoric, 雄辯, 小禮拜堂
-		* oratorical (adj)演說的/演說家的, 誇大的 = bombastic = grandiloquent = orotund = rhetorical = pompous
-		- oracle (n)傳神諭者, 聖賢/哲人
-		- oratorio (n)清唱劇
+		* /ˈɔːr(ə)l/ oral (adj)口頭的/口述的 = verbal, 口的/口服的/口腔的 (n)口試
+		- oration (n)演講/演說 = harangue = speech, 演講法ㄋ
+		- oratory (n)演講術, 雄辯 = rhetoric, 小禮拜堂
+		* oratorical (adj)演講術的/雄辯術的 = bombastic = grandiloquent = orotund = rhetorical = pompous
+		- oracle (n)神使/傳神諭者, 神諭處, 權威
+		- oratorio (n)清唱劇 = cantata
 
 	ord 命令 = order
-		- ordain (v)任命神職, 命令/下令 = decree = enact = prescribe = enjoin, 注定 = foreordain
-		- ordinance (n)法令/條例 = decree = command, 風俗習慣, 注定之事
-		- ordnance (n)大砲, 軍械
-		+ orderly (adj)整齊的/有條理的/整潔的, 守秩序的/和平的 (n)勤務員/護理員, 傳令兵
+		- ordain (v)任命..為神職, 命令/下令 = decree = enact = prescribe = enjoin <|> foreordain
+		- ordinance (n)法令/條例 = decree = command, 宗教儀式
+		- /ˈɔːdnəns/ ordnance (n)大砲 = artillery, 軍械 = munitions, 軍械署
+		+ orderly (adj)整齊的/有條理的/整潔的, 守秩序的 (n)勤務員/護理員, 傳令兵
 
 	ordin 順序 = rank, order
-		- coordinate (v)協調/使相配合, 相配/相稱 = match (adj)同等的 (n)同等物, 座標
-		+ inordinate (adj)過度的/過分的 = excessive = unrestrained
-		- ordinary (adj)通常的/平常的, 差勁的/低劣的
-		+ subordinate (adj)下級的 = inferior = subservient = petty, 次要的 = secondary, 隸屬的 = subject = dependant (n)部下/部屬 (v)使服從/把……列入下級
+		- coordinate (v)協調/使相配合, 相配/相稱 = match (adj)同等的 (n)相稱物, 座標
+		+ inordinate (adj)過度的/過分的 = excessive = unrestrained = immoderate = overly
+		- ordinary (adj)通常的/平常的, 平庸的 = commonplace, 常任的 (n)普通/平凡, 常任法官
+		+ subordinate (adj)下級的 = inferior = subservient = petty, 次要的 = secondary (n)部下/部屬 (v)使從屬於/使處於次要地位
 		- insubordinate (adj)不順從的 = wayward = ungovernable = froward = disobedient = obstinate = intractable
 
 	ori 升起 = rise
 		* aboriginal (adj)原住民的 (N)原住民
-		- orient (v)確定方向, 熟悉環境 (n)東方/亞洲, 優質珍珠 (adj)東方的, 正在升起的
+		- orient (v)確定方向, 熟悉環境 (n)東方/亞洲, 優質珍珠 (adj)東方的 = oriental, 正在升起的 = rising, 有光澤的 = lustrous
 		- orientation (n)定位/定向, 方向/方位, 方向感, 定位, 性取向, 適應/熟悉, 情況介紹
-		- origin (n)起源/由來/出身/產地
-		- original (adj)本來的/原始的, 有獨創性的 (n)原物 --> originality (n)創造性/獨特性
-		+ originate (v)發源/來自, 引發/引起
+		- origin (n)起源/由來/起因, 出身/門第/血統, 原點
+		- original (adj)本來的/原始的, 原創的, 新穎的/奇特的 (n)原物/原文, 怪人 --> originality (n)創造力/獨創性, 新穎/奇特
+		+ originate (v)發源/來自, 引發/引起 = create = initiate
 
 	orn, orna 裝飾 = dress, equip
-		- adorn (v)裝飾 = bedeck = embellish
-		- suborn (v)唆使 = induce, 收買/賄賂
-		* ornate (adj)華麗的 = baroque = bravura, 充滿裝飾的
-		+ ornament (n)裝飾品, 裝飾/修飾 (v)裝飾/美化 --> ornamental (adj)裝飾的 (n)裝飾品
+		- adorn (v)裝飾/使有吸引力 = bedeck = embellish <|> adore
+		- suborn (v)唆使/收買 = induce = bribe
+		* ornate (adj)華麗的 = baroque = bravura, 辭藻華麗的
+		++ ornament (n)裝飾品, 裝飾/修飾 (V)裝飾/美化 --> ornamental (adj)裝飾的 (n)裝飾品
 
 	ortho, orth 正 = right
 		- orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
 		+ orthodox --> orthodoxy
 
 	onym 字/名 = word, name
-		+ anonymity (n)無名/匿名 --> anonymous (adj)匿名的, 無特色的/無個性特徵的
+		+ /anəˈnɪmɪti/ anonymity (n)無名/匿名 --> anonymous (adj)匿名的, 無特色的/無個性特徵的
 		+ eponym (n)名祖
-		+ pseudonym (n)筆名
-		- synonyms (n)同義字
-		- antonyms (n)反義字
+		+ /ˈsjuːdənɪm/ pseudonym (n)筆名
+		- /ˈsɪnənɪm/ synonym (n)同義字
+		- /ˈantənɪm/ antonym (n)反義字
 
 	orex 胃口/渴望 = longing
 		- anorexia (n)厭食症
@@ -6109,7 +6111,7 @@
 		- siccative (adj)乾燥的 (n)乾燥劑
 
 	sip 丟/味道 = throw, sapid == ject
-		* dissipate (v)使消散/驅散 = dispel = scatter, 浪費 = waste = squander 
+		+ dissipate (v)使消散/驅散 = dispel = scatter, 浪費 = waste = squander 
 		+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
 
 	stin, sti, sting, stig, stimul 刺 = prick
@@ -6306,6 +6308,7 @@
 		+ ostensible, ostensive (adj)表面的/假裝的 = professed = pretended
 		+ ostensibly (adv)表面上
 		++ portent (n)前兆 = omen = sign, 奇事 = marvel = prodigy --> portentous (adj)凶兆的/不祥的 = ominous, 自命不凡的
+		* portend (v)預示 = omen, 表示/意味著 = mean = signify
 		* pretend (v)假裝, 自稱 (adj)假想的 --> pretended (adj)假裝的 = ostensible = professed, 傳說的/號稱的
 		+ pretense (n)假裝 = veil, 矯飾 (n)假裝, 做作
 		+ pretension (n)自命不凡, 藉口, 假裝/做作 --> pretentious (adj)自負的/自命不凡的, 矯飾的/做作的
@@ -6314,7 +6317,7 @@
 	
 	tempt 嘗試/探查 = probe, feel, test
 		+ contempt (n)蔑視/鄙視/輕視/輕蔑 = scorn = disdain, 藐視法庭罪, 恥辱/丟臉 = disgrace = opprobrium
-		* contemptuous (adj)輕蔑的/鄙視的/傲慢的 = scornful = disrespectful
+		+ contemptuous (adj)輕蔑的/鄙視的/傲慢的 = scornful = disrespectful
 		* contemptible (adj)可鄙的/卑劣的 = scurvy = mean = sordid = despicable = paltry = wretched = filthy
 		- attempt (n/v)嘗試/努力
 		+ tempt (v)引誘/誘惑 = court = allure = engage, 吸引/打動, 不顧 --> temptation (n)引誘/誘惑/誘惑物
@@ -6649,6 +6652,7 @@
 		+ untimely (adj)過早的, 不適時的
 		- untold (adj)無數的/數不清的
 		+ untoward (adj)沒料到的/不適宜的 = unfavorable = inconvenient
+		+ /ˌənˈtraməld/ untrammeled (adj)不受限制的/無拘無束的
 		- untutored (adj)未經教育的
 		+ unverifiable (adj)無法證實的/無可考證的
 		+ unwarranted (adj)沒有根據的, 無保證的/未經授權的

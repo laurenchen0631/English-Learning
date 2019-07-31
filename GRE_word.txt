@@ -167,6 +167,7 @@
     + /bɪˈɡrʌdʒ/ begrudge (v)羨慕/嫉妒 = envy = grudge, 吝惜 = give reluctantly 
     + behemoth (n)龐然大物, 強大的事物 = leviathan
     ++ belie (v)掩飾 = misrepresent, 證明為假 = disprove = contradict = negative
+    + benighted (adj)愚昧無知的, 陷入黑暗的
     + besotted (adj)入迷的
     * bend -> bent -> bent (v)彎曲 = curve, 屈服
     + bent (n)傾向/特長/天賦 = predisposition = characteristic = talent = aptitude = flair, 忍耐限度 = capacity of endurance (adj)彎曲的, 不誠實的, 同性戀的 
@@ -1714,6 +1715,7 @@
     + /ˈmɛd(ə)l/ meddle (v)干涉/干預 = interfere = hamper --> meddlesome (adj)愛管閒事的 = officious = interfering = intrusive <|> mettlesome
     ++ mettle (n)勇敢堅毅 = courage = endurance = fortitude = spirit, 性格 = disposition = temperament = humor --> mettlesome (adj)勇敢堅毅的/精神抖擻的 = spirited = courageous 
     + /ˌmɛɡ(ə)lə(ʊ)ˈmeɪnɪə/ megalomania (n)誇大狂/自大狂 <-- megalo 大/偉大 = large, great, grand + mania
+    + /ˈmɛleɪ/ melee (n)混戰, 混雜的人群
     + melodious (adj)旋律優美的/悅耳的 = tuneful = musical = sweet-sounding
     +++ /ˈmɛnəs/ menace (n)威脅/威嚇, 討厭的人(尤指小孩) (v)威脅/威嚇 = threaten, 危害 = imperil = endanger = jeopardize = compromise <|> commence --> menacing (adj)威脅的 = formidable = minatory = surly 
     + /meɪˈnɑːʒ/ ménage (n)住家 = household, 家管 = housekeeping --> /məˈnadʒ(ə)ri/ menagerie (n)動物園/獸欄, (供展覽用的)野生動物
@@ -1734,6 +1736,9 @@
     ++ /mʌɪə/ mire (n)泥沼 = marsh, 困境 = quagmire = scrape (v)使陷入(泥沼), 捲入/連累 = involve = entangle, 用泥土用髒
     ++ /məːθ/ mirth (n)歡笑/歡樂 = merriment = amusement = laughter = hilarity = jollity
     + /ˌmɪsəˈleɪnɪəs/ miscellaneous (adj)混雜的/各種各樣的 = mixed = varied = manifold = sundry = heterogeneous, 多才多藝的 --> miscellany (n)混合物/混合, 文集
+    + /ˈmʌɪzə/ miser (n)守財奴/吝嗇鬼 --> miserly (adj)吝嗇的 = mean = stingy = parsimonious = penurious = niggardly
+    * misery (n)痛苦/悲慘/窮困
+    ** /ˈmɪzərəb(ə)l/ miserable (adj)可憐的 = pitiful = dismal = deplorable = squalid = sordid = wretched = degraded, 令人難受的/令人痛苦的, 貧乏的 = needy = meager = penurious
     + /mɪˈsɒdʒ(ə)nɪst/ misogynist (n)厭惡女人的人
     ++ mitigate (v)減輕/緩和 = moderate = temper = alleviate = palliate = allay = assuage = qualify, 撫慰 = appease = mollify <-- miti 輕柔 = mild, soft + gate
     ++ mock (v)嘲笑/嘲弄 = deride = jeer = mimic = flout = gibe = scorn, 為取笑而模仿 = burlesque (adj)假的/仿製的 (n)模擬考試 --> mockery (n)嘲弄 = ridicule = contempt = derision, 滑稽模仿 = travesty
@@ -1769,9 +1774,6 @@
     * mingle (v)使混合, 往來 = participate = associate
     * minister (n)部長/大臣, 牧師, 外交使節 (v)幫助/服侍 = cater
     ** mint (n)大量/鉅額, 造幣廠, 薄荷 (v)鑄幣
-    * /ˈmʌɪzə/ miser (n)守財奴/吝嗇鬼 --> miserly (adj)吝嗇的 = mean = stingy = parsimonious = penurious = niggardly
-    * misery (n)痛苦/悲慘/窮困
-    ** /ˈmɪzərəb(ə)l/ miserable (adj)可憐的 = pitiful = dismal = deplorable = squalid = sordid = wretched = degraded, 令人難受的/令人痛苦的, 貧乏的 = needy = meager = penurious
     ** /mɔɪl/ moil (v)勤奮工作 = drudge = toil = travail, 旋轉 = eddy = twist (n)辛苦/麻煩 = toil = drudgery, 騷動/混亂 = confusion = turmoil = trouble <|> /ɔɪl/ oil 
     *** moist (adj)濕潤的 = damp = humid --> moisture (n)潮氣/濕氣/水分
     * monastery (n)修道院/寺院/隱修院 = cloister = convent = nunnery
@@ -2035,6 +2037,7 @@
     + painstaking (adj)十分小心的/仔細的 = careful = conscientious = scrupulous = meticulous = measured = fastidious = finicky = fussy = guarded = deliberate = thorough
     + /pəˈleɪʃ(ə)l/ palatial (adj)宮殿般的, 宏偉的 = magnificent = stately = majestic <-- palace
     + /ˈpalət/ palate (n)上顎, 味覺, 口味 --> palatable (adj)美味的 = sapid, 使人愉快的/令人滿足的
+    + palaver (n)談判/交涉, 無意義繁瑣的步驟, 冗長且無意義的討論 (v)空談/嘮叨
     ++ /ˈpalɪeɪt/ palliate (v)減輕 = mitigate = alleviate = moderate = temper = reduce = abate = qualify = allay, 掩飾罪行 = extenuate <-- pall 遮蓋物
     + /ˈpalɪm(p)sɛst/ palimpsest (n)重複書寫之羊皮紙, 具有多種意義的事物/多種風格交織的事物
     + palpable (adj)可觸知的 = tangible, 明顯的 = obvious = evident = perceptible = noticeable = patent <-- palp 摸 = touch + able
@@ -2501,6 +2504,7 @@
     +++ scope (n)眼界 = ken, 機會/施展餘地 = opportunity for operation, 範圍 = extend, 目標 = aim = purpose
     +++ scorn (n/v)輕視/貶低 = belittle = detract = disparage = contempt = flout = trifle, 藐視 = scant --> scornful (adj)輕視的/嘲笑的 = derisive = contemptuous
     + scourge (n/v)鞭笞 = whip = lash = flog, 嚴懲/折磨 = punish severely = afflict = chastise (n)鞭打, 懲罰的工具, 苦難之源
+    + /skriːd/ screed (n)冗長的文章, 砂漿層
     +++ /ˈskruːp(ə)l/ scruple (n/v)顧忌/猶豫 = dither = falter = vacillate --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = conscientious = meticulous = fastidious
     + /ˈskruːtɪnʌɪz/ scrutinize (v)詳細檢查/細看 = examine --> scrutiny (n)詳細的檢查/仔細的觀察, 監視/監督 = surveillance <-- scrutin 搜尋 = search + ize
     * scrutable (adj)可解讀的 = comprehensible
