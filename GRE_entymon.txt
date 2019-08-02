@@ -645,7 +645,7 @@
 			+ contest
 			+ contiguous --> contiguity
 			+ continent --> continence
-			+ contingent --> contingency
+			++ contingent --> contingency
 			+ continuity
 			* contract --> contraction
 			+ contribute --> contribution
@@ -765,7 +765,7 @@
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
 		*** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
-		+ discursive (adj)不著邊際的/散漫的 = digressive = rambling, 演說的
+		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
 		- excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
 		- incur (v)招惹
 		+ incursion (n)侵略/入侵/襲擊 = invasion
@@ -1705,7 +1705,7 @@
 		* dignitary (n)要人/要員
 		* disdain (n/v)輕視/鄙視 = contempt = scorn = belittle = flout = depreciate = downplay = disparage = detract, 不屑
 		+ /deɪn/ deign (v)屈尊 = condescend
-		* /ɪnˈdɪɡnənt/ indignant (adj)憤慨的 --> indignation (n)憤慨
+		+ /ɪnˈdɪɡnənt/ indignant (adj)憤慨的 --> indignation (n)憤慨
 		- indignity (n)侮辱/輕蔑/侮辱言行/無禮舉動 = insult
 
 	dem, demo 人民 = people
@@ -1942,7 +1942,7 @@
 		- engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
-		- enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe, [法]禁止 <|> enjoy
+		+ enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe, [法]禁止 <|> enjoy
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
 		- enlist (v)徵兵, 謀取...贊助或支持
 		- enliven (v)使活躍 <-- en + life + en
@@ -2160,7 +2160,7 @@
 		+ self-effacing (adj)自我謙避的/不喜歡談論自己的
 		* barefaced (adj)無恥的/公然的 = shameless = impudent = audacious, 公開的 = broadly open, 露臉的
 		- boldfaced (adj)公然的/厚顏無恥的 = brazen = flagrant, 粗體印刷的
-		- facade (n)建築物的正面, (虛假的)外表
+		- /fəˈsɑːd/ facade (n)建築物的正面, (虛假的)外表
 		+ facet (n)琢面/小平面, 問題的一個方面
 		+ /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant <|> fastidious <|> factitious
 
@@ -2197,6 +2197,7 @@
 		++ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
 		- factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
 		+ faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
+		+ /ˈfakʃəs/ factious (ad)不合的 <-- faction
 		+ /fakˈtɪʃəs/ factitious (adj)人工的/不自然的 = artificial <|> facetious
 		+ /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
 		+ feasible (adj)可行的/可能的/合適的 = probable = likely = suitable
@@ -2482,7 +2483,7 @@
 		- aggression (n)侵略 = invasion, 攻擊 = assult = raid
 		+ aggressive (adj)好鬥的 = belligerent = assertive = militant, 積極進取的
 		- aggressor (n)侵略者 = assailant = invader
-		+ digress (v)離題 --> digression (n)離題/脫軌 = excursion
+		+ digress (v)離題 --> digression (n)離題/脫軌 = excursion --> digressive (adj)離題的 = discursive
 		++ egress (N)外出, 出口/出路 (v)離開
 		- ingredient (n)成分/原料
 		- progress (n/v)進步/進展 = advance = proceed = boost --> progession (n)進展, 一連串
@@ -3579,6 +3580,7 @@
 [M]
 	mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
 		+ misanthrope, misanthropist --> misanthropy
+		+ misattribute (v)誤歸功於
 		- misbehavior (n)不禮貌/品行不端
 		- misconception (n)誤解
 		- misdeed (n)惡行/罪行
@@ -4009,7 +4011,7 @@
 		* denunciate (v)公開譴責 = denounce --> denunciation (n)公開譴責 = public censure/condemn, 指控/告發
 		- enounce (v)宣布/闡明, 發音
 		+ enunciate (v)清晰地發音, 明確表明/闡明
-		- pronounce (v)發音, 宣告 = announce = proclaim, 宣判 --> pronounced (adj)明顯的 = conspicuous
+		- pronounce (v)發音, 宣告 = announce = proclaim, 宣判 = convict --> pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
 
@@ -4084,7 +4086,7 @@
 			+ obdurate --> obduracy
 			- object --> objection --> objective
 			- obloquy
-			+ obsess
+			+ obsess --> obsessive
 			- obstacle (n)障礙/干擾
 			+ obstinate --> obstinacy
 			- obstruct
@@ -4174,7 +4176,7 @@
 			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
-			+ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
+			+ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
 			+ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above
@@ -4206,7 +4208,7 @@
 		- exorable (adj)可說服的 = susceptible <--> inexorable <|> exonerate
 		+ inexorable
 		* /ˈɔːr(ə)l/ oral (adj)口頭的/口述的 = verbal, 口的/口服的/口腔的 (n)口試
-		- oration (n)演講/演說 = harangue = speech, 演講法ㄋ
+		- oration (n)演講/演說 = harangue = speech, 演講法
 		- oratory (n)演講術, 雄辯 = rhetoric, 小禮拜堂
 		* oratorical (adj)演講術的/雄辯術的 = bombastic = grandiloquent = orotund = rhetorical = pompous
 		- oracle (n)神使/傳神諭者, 神諭處, 權威
@@ -4240,7 +4242,7 @@
 		++ ornament (n)裝飾品, 裝飾/修飾 (V)裝飾/美化 --> ornamental (adj)裝飾的 (n)裝飾品
 
 	ortho, orth 正 = right
-		- orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
+		- /ˌɔːθəˈdɒntɪk/ orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
 		+ orthodox --> orthodoxy
 
 	onym 字/名 = word, name
@@ -4251,14 +4253,14 @@
 		- /ˈantənɪm/ antonym (n)反義字
 
 	orex 胃口/渴望 = longing
-		- anorexia (n)厭食症
+		- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症
 		
 	oner 負擔 = burden
-		+ exonerate (v)證明無罪 = exculpate, 免除責任 = exempt <|> exorable
-		+ /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing, 負有義務的
+		+ exonerate (v)證明無罪 = exculpate, 免除…的責任 = exempt <|> exorable
+		+ /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing = operose, 負有義務的
 
 	orbit 軌道 = wheel track
-		+ exorbitant (adj)過高的/過分的 = highly excessive = steep
+		+ exorbitant (adj)天價的/過高的 = steep
 		- contraorbital (adj)與正常軌道相反的
 
 	olico, olic 少 = few, little
@@ -4267,28 +4269,28 @@
 
 	oper 做/工作 = work
 		- operate (v)工作/運作/營運/起作用, 動手術 <-- oper 工作 = work + ate
-		- operative (adj)實施中的 = working, 生效的 = effective
-		- operose (adj)費力的/艱苦的, 用功的/勤勉的 = assiduous
+		- operative (adj)實施中的/起作用的/有效的 = working = effective, 手術的 (n)工人, 偵探/間諜
+		- operose (adj)費力的/艱苦的 = onerous = taxing
+		- opus -> opuses/opera (n)著作/編號的音樂作品, 作品/傑作
 		- opera (n)歌劇, 歌劇院
-		- operetta (n)小歌劇/輕歌劇
+		- /ɒpəˈrɛtə/ operetta (n)小歌劇/輕歌劇
 
 	organ 器官
 		- organ (n)器官, 機構/機關, 管風琴
-		- organism (n)生物/有機體
-		- organic (adj)器官的, 有機的/生物的, 組織的/建制的, 基本的
-		- organize (v)組織, 安排 --> organization (n)組織/機構/團體, 條理/系統
+		* organism (n)生物/有機體, 社會組織
+		- organic (adj)器官的, 有機的/不施化肥的, 組織的/建制的, 基本的
+		- organize (v)組織/使…有條理, 安排/承擔安排的責任 --> organization (n)社會組織/機構/團體, 組織/條理/系統
 
 	oscill 擺動 = swing
-		+ oscillate (v)擺動, 猶豫/游移不定 = vacillate = dither
-		- oscillatory (adj)振動的/動搖的/變動的
-		- oscillation (n)振動/擺動/波動, 動搖/彷徨
+		+ /ˈɒsɪleɪt/ oscillate (v)擺動, 猶豫/游移不定 = vacillate = dither, 振盪/簡諧運動 --> oscillatory (adj)
+		- oscillation (n)擺動/波動, 動搖/彷徨, 振盪/簡諧
 		- oscilloscope (n)示波器
 
 	ostrac, ostra 貝殼 = shell, oyster
-		- ostracize (v)放逐/排除, 按貝殼流放法放逐 <-- [希]貝殼放逐法
-		- ostracism (n)放逐/排斥/排擠
-		- ostracean (n)雙殼類生物
-		- ostrakon (n)陶片
+		- /ˈɒstrəsʌɪz/ ostracize (v)放逐/排除, 按貝殼流放法放逐 <-- [希]貝殼放逐法
+		- ostracism (n)放逐, 貝殼流放法
+		- ostracean (n)雙殼類生物 (adj)雙殼類的
+		- ostrakon, ostracon (n)陶片
 
 	{oid} 像...一樣 = resembling, like
 		- asteroid
@@ -4299,42 +4301,40 @@
 
 [P]
 	pan, panto 全部 = all == omni
-		+ panacea (n)萬靈藥 <-- pan + acea 治療 = cure
+		+ /ˌpanəˈsiːə/ panacea (n)萬靈藥 <-- pan + acea 治療 = cure
 		- pancreas (n)胰腺 <-- pan + creas 肉 = flesh, meat
 		- pandemic
-		- pandemonium (n)喧囂/大混亂 = tumult <-- pan + demon + ium
+		- /ˌpandɪˈməʊnɪəm/ pandemonium (n)喧囂/大混亂 = uproar = tumult <-- pan + demon + ium
 		+ /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
-		+ /ˈpanəpli/ panoply (n)琳琅滿目 = a magnificent or impressive array, 全套盔甲
-		- panorama (n)概觀, 全景 <-- pan + orama 看 = look
+		+ /ˈpanəpli/ panoply (n)壯麗的陳列 = impressive collection, 全套盔甲
+		- panorama (n)全景, 全景畫, 全貌 <-- pan + orama 看 = look
 		- pantheon (n)一群(偉人), 偉人祠, 眾神之廟, 諸神殿
-		- pantomine (n)啞劇 <-- panto + mime
+		- pantomime (n)啞劇, 滑稽誇張的行為 (v)用誇張的啞劇表達 <-- panto + mime
 
 	pre 先前/前面 = before, early, prior to 
-		+ improvise --> improvised
 		+ preamble
 		* precaution (n)預防措施, 避孕
-		+ precede --> precedent
-		- precedence
+		+ precede --> precedent --> precedence
+		- predecessor
 		+ precept
-		+ precipitate
+		+ precipitate --> precipitous
 		+ précis
 		- precise
 		+ preclude
 		+ /prɪˈkəʊʃəs/ precocious (adj)早熟的 = premature <-- pre + coc 煮 = cock + ious
 		+ precursor
-		- predecessor
 		- predestine (v)注定
 		+ predetermine (v)預先確定/預先決定
-		- predicate (v)斷言/斷定 <-- pre + dica 表示 = indicate + ate
-		+ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- pre + dica 表示 = indicate + ment
+		- predicate (n)述語 (v)假設/斷定 = postulate = assert, [on/upon]使基於/使取決於 <-- pre + dica 表示 = indicate + ate
+		+ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
 		+ predilection 
 		- predisposition 
-		- predominate (v)支配/統治 = dominate, 佔優勢 --> predominant (adj)有勢力的
+		- predominate (v)佔優勢, 佔主導或支配地位 = dominate --> predominant (adj)主要的/佔優勢的, 佔支配地位的
 		+ preeminent
 		+ preempt
 		- preface (n)序言 = introduction
 		+ prefer --> preference
-		- pregnant (adj)懷孕的 = gravid, 充滿的 = full <-- pre + gna 出生 = born + ant
+		- pregnant (adj)懷孕的 = gravid, 意味深長的 <-- pre + gna 出生 = born + ant
 		+ prehensile
 		- prehistoric (adj)史前的
 		- prejudge
@@ -4346,11 +4346,11 @@
 		- premeditate --> premeditated
 		+ premise
 		+ premonition
-		* preoccupied (adj)全神貫注的/入神的, 被搶先佔有的
+		* preoccupied (adj)全神貫注的/入神的 = engrossed
 		- preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
 		- preposition
-		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)討人喜歡的/有魅力的
+		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的
 		* preposterous (adj)違反常理的/荒謬的 = absurb <-- pre + post 後 = after + erous 
 		- prerequisite 
 		- prerogative
@@ -4982,7 +4982,7 @@
 	punct, pung 刺 = prick == trus
 		- acupuncture
 		+ compunction (n)內疚/自責/懊悔 = uneasiness = contrition = remorse = repentance = qualm
-		- expunge (v)刪除
+		+ expunge (v)清除/刪除/忘卻 = obliterate = remove <|> expurgate
 		- punctual (adj)準時的/守時的 = prompt
 		+ /pʌŋ(k)ˈtɪlɪəs/ punctilious (adj)精密細心的/一絲不苟的
 		- puncture (v)刺穿/刺破 (n)刺孔/穿孔
@@ -6172,7 +6172,7 @@
 	sap, sav 聰明 = wise
 		- sapient (adj)有智慧的
 		+ savant (n)學者/專家 <-- sapient
-		*** savvy (adj)精明的/有見識的 (v)懂/知曉 (n)理解能力/悟性
+		+ savvy (n)精明 = shrewdness (adj)精明的, 通曉的 (v)知道 = know = understand
 
 	seismo, seism 地震 = earthquake
 		+ /ˈsʌɪzmɪk/ seismic (adj)地震的 <|> /sʌɪz/ size
@@ -6393,7 +6393,7 @@
 		- contaminate (v)污染 = pollute = smudge
 		+ contagion (n)接觸傳染, 感染/蔓延/擴散 --> contagious (adj)接觸性傳染的/帶傳染源的, (情感)具有感染力的
 		+ contiguous (adj)相鄰的/毗鄰的/連續的 = adjacent = near --> contiguity (n)鄰近
-		+ contingent (adj)偶然的 = accidental = fortuitous, [on/upon]視…而定的/取決於…的 (n)代表團, 小分隊
+		++ contingent (adj)偶然的 = accidental = fortuitous, [on/upon]視…而定的/取決於…的 (n)代表團, 小分隊
 		+ contingency (n)可能性 = uncertainty = fortuitousness, 意外事件/偶然
 		+ detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
 		++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
@@ -6459,7 +6459,7 @@
 		+ contumacious (adj)不服從的 = disobedient = rebellious = pertainacious = wayward <--> compliant, (尤指對法庭命令)抗拒的
 		++ tumid (adj)腫起的/腫脹的 = swollen = distended, 隆起的 = protuberant = bulging, 誇大的 = bombastic = pompous = tumid = turgid
 		++ /ˈtjuːmʌlt/ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
-		++ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
+		++ /ˈtəːdʒɪd/ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
 
 	terminm, term 邊界/終止 = boundary, limit, end == fin
 		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
@@ -6490,7 +6490,7 @@
 		+ intimidate (v)使膽怯 = daunt, 威嚇 <|> intimate
 		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless
 		+ timid (adj)羞怯的/膽小的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant --> timidity (n)膽怯
-		- timorous (adj)膽小的/膽怯的 = fearful = tremulous = timid = trepid
+		+ timorous (adj)膽小的/膽怯的 = fearful = tremulous = timid = trepid
 		- terror (n)恐懼
 		++ terrific (adj)驚人的/非比尋常的, 極好的 = wonderful, 可怕的/嚇人的
 		+ trepid (adj)害怕的 = timorous = fearful --> trepidation (n)憂心/不安 = fear = anxiety = apprehension
@@ -6799,7 +6799,7 @@
 		+ involved (adj)複雜難懂的 = convoluted = intricate, 有牽連的 = implicated
 		- obverse (adj)正面的 (n)正面
 		- perverse (adj)故意作對的 = contrary = wayward = willful, 反覆無常的 = capricious = wayward, 墮落的/走上邪路的/邪惡的 = wicked = corrupted
-		- pervert (v)使走上邪路 = vitiate, 降低/損害 = debase = vitiate, 誤用 = misapply, 曲解 = distort
+		* pervert (v)使走上邪路 = vitiate, 降低/損害 = debase = vitiate, 誤用 = misapply, 曲解 = distort
 		- reverse (n)反面, 相反 = opposite (v)倒車/使倒退, 反轉
 		- revert (v)恢復/回復到, 重新考慮
 		- revolve (v)旋轉/自轉, 週期性出現/循環往復, 盤桓於腦海, 以……為中心
