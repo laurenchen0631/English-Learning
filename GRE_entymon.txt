@@ -741,7 +741,7 @@
 		- incessant (adj)無間斷的/連續的
 		- intercede (v)代為求情
 		- intercession (n)求情/說情, 代為祈求 --> intercessor (n)代禱人
-		+ precede (v)先於/早於 = antecede --> precedent (n)先例/前例, 慣例
+		+ precede (v)先於/早於 = antecede --> /ˈprɛsɪd(ə)nt/ precedent (n)先例/前例, 慣例 <|> /ˈprɛzɪd(ə)nt/ president
 		- precedence (n)居前/領先, 優先權
 		* predecessor (n)前任/前輩, 原有事物
 		- proceed (v)繼續進行/開始/開展, 發出/出自, 起訴
@@ -1282,7 +1282,7 @@
 		- incubate (v)孵化, 潛伏/處於潛伏期 --> incubation (n)孵卵期, 潛伏期
 		- incubator (n)孵卵器, 早產嬰兒保育箱
 		- incubus (n)夢魘, 精神壓力/負擔 = burden
-		- incumbent (adj)負有職責的, 現任的/在職的 (n)現任者/在職者
+		+ incumbent (adj)負有職責的, 現任的/在職的 (n)現任者/在職者
 		+ cumber (v)拖累/妨礙 = hinder = hamper, 阻塞 = obstruct
 		+ cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的/難處理的 = unwieldy = clumsy
 		+ encumber (v)妨礙 = restrict = impede = retard = cumber
@@ -1438,7 +1438,7 @@
 			* discontent (v)使不滿 = dissatisfy = displease = envy
 			+ discord
 			- disfigure
-			- disfranchise (v)剝奪選舉權
+			- disfranchise, disenfranchise (v)剝奪選舉權
 			* disuse (n)不用/廢棄 = desuetude
 			* dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱 --> dishonorable (adj)可恥的/卑鄙的 = ignoble
 			- disgorge
@@ -1957,6 +1957,7 @@
 		- ensure (v)保證/擔保, 保護
 		+ entail
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
+		- /ˈɛntr(ə)nt/ entrant (n)新成員/新職員, 參賽者/考生, 首次銷售某種產品的公司 <-- enter
 		+ enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
 		- /ˌɒntrəprəˈnəːrɪəl/ entrepreneurial (adj)具有企業精神的/願意冒險的 = enterprising
@@ -2554,7 +2555,7 @@
 		*** generous (adj)慷慨的/大方的 = liberal = munificent = bountiful, 寬宏大量的 = magnanimous, 豐富的/豐盛的 = large = abundant = ample, 肥沃的 = fertile = prolific
 		* generosity (n)慷慨/大方, 仁慈/寬厚 = goodness
 		- genital (adj)生殖的 <|> genial
-		- genius (n)天賦, 天才, 精靈/神靈/守護神
+		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類
 		- genre (n)文藝作品之類型
 		+ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
@@ -4036,7 +4037,7 @@
 
 	numer 數字
 		+ /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉, 計數/點 --> enumeration (n)
-		+ /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many
+		+ /ˈnjuːm(ə)rəs/ numerous (adj)許多的/大量的 = many <--> /ˈnʌmbə/ number
 		- innumerable (adj)數不清的/多不可數的
 
 	nat, nasc, naiss 出生 = born
@@ -4048,7 +4049,7 @@
 		- /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
 
 	noc 傷害 = harm
-		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真
+		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真 = artlessness
 		+ innocuous (adj)無害的 = harmless = innocent = inoffensive
 		+ /ˈnɒkʃəs/ noxious (adj)有害的/有毒的 = noisome
 		- obnoxious (adj)令人不快的/討厭的/可憎的
@@ -4199,7 +4200,7 @@
 		- omen (n)預兆 = portent = sign = auspice = presage (v)預示 = portend, 占卜 = divine
 
 	omni 全 = all == pan
-		- omnipotent (adj)全能的/萬能的 = almighty, 有無限權力或力量的
+		- /ɒmˈnɪpət(ə)nt/ omnipotent (adj)全能的/萬能的 = almighty, 有無限權力或力量的
 		+ omnipresent (adj)遍及各處的, 無處不在的 = ubiquitous --> omnipresence (n) = ubiquity
 		- omniscient
 
@@ -4223,6 +4224,7 @@
 	ordin 順序 = rank, order
 		- coordinate (v)協調/使相配合, 相配/相稱 = match (adj)同等的 (n)相稱物, 座標
 		+ inordinate (adj)過度的/過分的 = excessive = unrestrained = immoderate = overly
+		- ordinate (n)縱座標
 		- ordinary (adj)通常的/平常的, 平庸的 = commonplace, 常任的 (n)普通/平凡, 常任法官
 		+ subordinate (adj)下級的 = inferior = subservient = petty, 次要的 = secondary (n)部下/部屬 (v)使從屬於/使處於次要地位
 		- insubordinate (adj)不順從的 = wayward = ungovernable = froward = disobedient = obstinate = intractable
@@ -4237,9 +4239,9 @@
 
 	orn, orna 裝飾 = dress, equip
 		- adorn (v)裝飾/使有吸引力 = bedeck = embellish <|> adore
-		- suborn (v)唆使/收買 = induce = bribe
 		* ornate (adj)華麗的 = baroque = bravura, 辭藻華麗的
 		++ ornament (n)裝飾品, 裝飾/修飾 (V)裝飾/美化 --> ornamental (adj)裝飾的 (n)裝飾品
+		- suborn (v)唆使/收買 = induce = bribe
 
 	ortho, orth 正 = right
 		- /ˌɔːθəˈdɒntɪk/ orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
@@ -4335,14 +4337,13 @@
 		- preface (n)序言 = introduction
 		+ prefer --> preference
 		- pregnant (adj)懷孕的 = gravid, 意味深長的 <-- pre + gna 出生 = born + ant
-		+ prehensile
 		- prehistoric (adj)史前的
 		- prejudge
 		* prejudice --> prejudiced
-		- preliminary
+		* preliminary
 		- preliterate
 		- prelude
-		+ premature (adj)過早的/早熟的 = precocious
+		+ premature (adj)過早的, 不成熟的
 		- premeditate --> premeditated
 		+ premise
 		+ premonition
@@ -4357,8 +4358,8 @@
 		+ presage (n)預兆/惡兆 (v)是...的預兆
 		+ prescient --> prescience
 		- prescribe --> prescription
-		- presentation (n)表演, 介紹/描述
-		- presenter (n)主持人
+		*** presentation (n)贈送/授予, 呈現/表現, 發表/發表會, 介紹/引見
+		- presenter (n)頒獎人/主持人
 		+ preserve --> perservative
 		- preside
 		+ prestige --> prestigious
@@ -4369,36 +4370,35 @@
 		- pretext
 		+ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail, [on/upon]說服 = persuade <|> travail
 		+ prevalent
-		+ prevaricate (v)支吾其詞 = quibble = equivocate, 說謊 = mislead = lie <-- pre + varicate 弓腳 == straddle
+		+ prevaricate (v)支吾其詞 = quibble = equivocate <-- pre + varicate 弓腳 == straddle
 		+ prevent
-		- preview (n/v)預展/預演
+		- preview (n/v)預展/預演 (v)預看/預習/預覽, 預先評論
 		- previous 
 		+ presentiment
-		* procreate (v)生育(子女), 產生 = engender
+		* procreate (v)生育 = reproduce
 		- promise
 
 	pro 向前/先前 = forward, forth, before
 		- proactive (adj)主動的/先發制人的
-		- proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
-		- problem (n)問題 <-- pro + blem 丟 
-		+ problematic (adj)問題的/疑難的/不確定的 = doubtful <-- problem
-		- proceed
-		- proceeds
+		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
+		- /ˈprɒbləm/ (n)問題 <-- pro + blem 丟 
+		+ problematic (adj)問題的/疑難的/不確定的 = doubtful, 難點 <-- problem
+		- proceed --> proceeds --> proceedings
 		- procession
 		+ proclaim
 		+ proclivity 
-		* procrastinate (v)耽擱/拖延 <-- pro + cras 明天 = tomorrow + tinate
-		- proctor, procurator (n)代理人, 學監
+		* procrastinate (v)耽擱/拖延 = delay = postpone <-- pro + cras 明天 = tomorrow + tinate
+		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
 		+ produce --> productive --> productivity
-		* profane (v)褻瀆/玷污 (adj)褻瀆的/瀆神的, 非宗教的/世俗的
-		- proffer (n/v)獻出/奉獻/贈送 = offer, 提議/建議 = suggest <-- pro + offer
+		* /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆
+		- proffer (v)獻出/奉獻/贈送 = offer (n)提議/建議 = offer = proposal <-- pro + offer
 		- proficient
-		- profile (n)外型 = outline, 輪廓側面像 <-- pro + file 線條 = line, thread
+		- /ˈprəʊfʌɪl/ profile (n)側面像, 剖面, 縱斷圖, 簡介, 概況, 吸引程度, 量化分析表, 行為記錄 (v)給……畫側面像, 簡要介紹, 描出……的輪廓, 畫(形狀) <-- pro + file 線條 = line, thread
 		+ profit --> profitable --> profitability
 		- profiteer (n)奸商/謀取暴利者
-		+ profligate (adj)揮霍的 = extravagant, 放蕩的 = licentious = dissolute (n)揮霍者 <-- pro + flig 攪拌 = beat + ate
-		+ profound (adj)深的/深刻的 = deep, 淵博的/深奧的 = recondite = abstruse --> profundity (n)深度/深淵, 深奧/淵博 <-- pro + found 底 = bottom
+		+ profligate (adj)揮霍的 = extravagant, 放蕩的 = licentious = dissolute (n)放蕩者 <-- pro + flig 攪拌 = beat + ate
+		+ profound (adj)深的/深刻的 = deep, 嚴重的(疾病), 淵博的, 深奧的 --> profundity (n)深淵, 深奧/淵博 <-- pro + found 底 = bottom
 		++ profuse --> profusion
 		- progeny
 		- prognosis
@@ -4406,39 +4406,38 @@
 		- projectile
 		- projection
 		- projector
-		+ proliferate (v)激增, 繁殖 --> proliferation (n)快速增加, 大量
-		+ prolific (adj)多產的/多育的/豐富的 = fertile = frutiful = generous
-		+ prolix (adj)囉唆的/冗長的 --> prolixity (n)囉唆 = verbosity <-- pro + lix 液體 = liquid
+		+ /prəˈlɪfəreɪt/ proliferate (v)激增 = multiply, 快速繁殖, 使快速增生 --> proliferation (n)快速增加, 快速繁殖, 大量
+		+ prolific (adj)多產的/多作品的, 多育的 = fertile = frutiful, 大量的 = plentiful, 富饒的
+		+ /ˈprəʊlɪks/ prolix (adj)囉唆的/冗長的 --> prolixity (n)冗長 = verbosity <-- pro + lix 液體 = liquid
 		- prologue
-		+ prolong (v)延長/拉長 = lengthen
-		- promenade (n/v)散步/開出兜風 <-- pro + mena 開車 + ade
+		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen
+		- /ˌprɒməˈnɑːd/ promenade (n/v)散步 (v)帶著..散步 (n)兜風  <-- pro + mena 開車 + ade
 		- prominent
 		+ promote
 		+ prompt
-		+ promulgate (v)頒布法令 = announce officially, 公布/發表/使廣傳/宣傳 = make widespread <-- pro + mulg 套出消息 = milk + ate
+		+ promulgate (v)頒布法令 = announce officially, 使廣傳/宣傳 = promote <-- pro + mulg 套出消息 = milk + ate
 		- pronounce --> pronounced
-		+ propagate (v)繁殖 = multiply = reproduce = increase, 傳播 = spread <-- pro + pag 砍/切 + ate
+		+ propagate (v)繁殖 = multiply = reproduce = increase, 使廣傳 = promulgate = promote, 傳播/傳導 <-- pro + pag 砍/切 + ate
 		- propel --> propulsion
 		+ propensity
-		+ prophet (n)先知/預言家 --> prophecy (n)預言 --> prophetic (adj)先知的/預言的/預示的 <-- pro + peht 說 = speak
-		+ propitious (adj)吉利的/有利的 = favorable = benign, <-- pro + pit 懇求 = resort, solicit
-		+ propitiate (v)取悅 = appease <-- pro + pit 懇求 = resort, solicit
-		* proportion (n)比率/比例, 相稱/均衡, 重要性/嚴重性 --> proportional (adj)與…成比例的 = commensurate
-		+ proportionate (v)使成比例/使相稱 < -- pro + portion
+		+ /ˈprɒfɪt/ prophet (n)先知/預言家/宣揚者 --> prophecy (n)預言, 預知能力 --> prophetic (adj)準確預測的, 預言的 <-- pro + peht 說 = speak
+		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <-- pro + pit 懇求 = resort, solicit
+		+ propitiate (v)取悅 = appease <-- propitious
+		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (v)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
 		* propose --> proposal
 		- proposition
 		+ proprietary
 		- proponent
 		+ proscribe
 		- prosecute --> prosecution
-		+ prospect (v)勘探/勘察 = explore (n)指望/預期/期望, 前景 --> prospective (adj)預期的/盼望中的, 未來的
+		+ prospect --> prospective
 		+ prosper --> prosperity --> prosperous
-		- prostrate (adj)俯臥的 = prone, 沮喪的 = powerless = helpless (v)使下跪/鞠躬 <-- pro + stra 伸展 = stretch + ate
-		- protest (n/v)抗議/反對
-		- protuberant (adj)凸出的/隆起的 = prominent = tumid = bulging <-- pro + tuber 隆起/腫脹 + ant
+		- prostrate (adj)俯臥的 = prone, 被征服的/無助的 (v)使下跪/俯臥, 使衰竭/使疲憊 <-- pro + stra 伸展 = stretch + ate
+		- protest (n/v)抗議/反對, 書面拒付聲明
+		- /prəˈtjuːbərənt/ protuberant (adj)凸出的/隆起的 = prominent = tumid = bulging <-- pro + tuber 隆起/腫脹 + ant
 		* protude
-		* provenance (n)出處/起源 = origin = source
-		- provender (n)糧草
+		* provenance (n)出處/起源 = origin = source <-- pro + ven 來 = come + ance
+		- provender (n)糧草, [戲謔]食物
 		+ provident
 		+ providential
 		+ provincial
@@ -4448,9 +4447,9 @@
 		+ reciprocate --> reciprocity --> reciprocal (adj)相互的/互惠的
 
 	prodig 巨大/奇蹟 = extravagant, marvel
-		+ prodigal (adj)揮霍的 = wasteful = extravagant = lavish (n)揮霍者 <|> prodigious
-		+ prodigious (adj)奇妙的 = portentous = marvelous, 巨大的 = enormous
-		+ prodigy (n)奇事 = portent = marvel, 奇才
+		+ prodigal (adj)揮霍的 = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
+		+ prodigy (n)奇才 = genius, 奇事 = portent = marvel
+		+ prodigious (adj)巨大的/驚人的 = enormous <-- prodigy
 
 	proto, prot 首先/首要 = first, foremost
 		- protagonist
@@ -6554,6 +6553,7 @@
 		* unaccustomed (adj)不習慣的/不熟悉的, 不尋常的/奇怪的
 		+ unadorned (adj)未經裝飾的/原來的/樸素的
 		- unaffected (adj)自然的/不矯揉造作的
+		+ unambiguous (adj)不含糊的/清楚明白的 = unequivocal
 		+ unanticipated (adj)未預料到的/意料之外的
 		+ unassailable (adj)攻不破的/無懈可擊的 <-- un + assail + able
 		- unassuming (adj)謙虛的/不出風頭的
@@ -6575,6 +6575,7 @@
 		- unearthly (adj)奇異的 <-- un + earthly
 		* uneasiness (n)焦慮/不安 = compunction
 		- unenlightened (adj)愚昧無知的/不文明的/落後的
+		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
 		- uneven (adj)不平坦的/粗糙的, 不規則的/不一致的, 不平衡的
 		- unexceptionable (adj)無可非議的/無懈可擊的
 		- unfailing (adj)無盡的/無窮的 = everlasting = inexhaustible
@@ -6844,6 +6845,7 @@
 		+ advocate (v)支持/擁護 (n)支持者 --> advocacy (n)
 		+ convoke (v)召開(會議) = convene <--> adjourn
 		+ equivocate (v)含糊其詞 --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
+		+ unequivocal
 		+ evoke (v)喚起(記憶或感情) = conjure = summon, 激起 = excite = kindle = inflame --> evocative (adj)引起回憶的/喚起感情的
 		- invoke (v)喚起/使記起, 祈求(法律或神靈), 行使(法權等)
 		++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex

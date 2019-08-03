@@ -41,7 +41,7 @@
     + /əˈsʌɪləm/ asylum (n)避難所/庇護所 = refuge = sanctuary = shelter, 精神病院
     + atavism (n)返祖現象/隔代遺傳 = throwback
     + attack (n/v)抨擊/責難, 迅速處理/全力應付, 攻擊/進攻/突然發作
-    + /ɔːˈdeɪʃəs/ audacious (adj)大膽的/無畏的 = bold = daring, 魯莽的/放肆的 = bold = reckless, 大膽創新的 = adventurous --> audacity (n) <-- aud 大膽/敢 = daring + acious
+    + /ɔːˈdeɪʃəs/ audacious (adj)大膽的/無畏的 = bold = daring, 魯莽的/放肆的 = bold = reckless, 大膽創新的 = adventurous --> audacity (n) = temerity <-- aud 大膽/敢 = daring + acious
     +++ /ɔːˈstɪə/ austere (adj)嚴格的/嚴厲的 = severe = stern = stringent = strict = forbidding = uncompromising, 嚴肅的 = grave = sober = solemn = serious, 禁慾的 = ascetic = abstentious = monastic, 簡樸的 = sober = simple = limited = severe = spartan = stern, 樸素的 = unadorned, 堅硬的 = hard = adamant = rigid, 酸澀的
     + avarice (n)貪婪 = cupidity = greed = avidity --> avaricious (adj)
     + avuncular (adj)叔伯般的/慈祥的/關懷備至的 = benevolent = beneficent <-- uncle
@@ -168,6 +168,7 @@
     + /bɪˈɡrʌdʒ/ begrudge (v)羨慕/嫉妒 = envy = grudge, 吝惜 = give reluctantly 
     + behemoth (n)龐然大物, 強大的事物 = leviathan
     ++ belie (v)掩飾 = misrepresent, 證明為假 = disprove = contradict = negative
+    + bemoan (v)哀嘆/惋惜/悲悼
     + benighted (adj)愚昧無知的, 陷入黑暗的
     + besotted (adj)入迷的
     * bend -> bent -> bent (v)彎曲 = curve, 屈服
@@ -901,6 +902,7 @@
     + fulminate (v)猛烈抨擊/嚴厲譴責 = inveigh = rant = rail, 爆炸 = explore = detonate <-- fulmin 閃電 = lightning
     + flummox (v)使困惑 = bewilder
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
+    + /ˈfɔɪb(ə)l/ foible (n)小缺點/小毛病
     + foment (v)煽動 = instigate = foster = incite = arouse = ferment
     + /ˈfɒrɪdʒ/ forage (n)(牛馬的)飼料/糧草, 搜索/搜尋 = rummage --> forager (n)為動物尋找飼料的人 <-- fodder
     + ford (n)淺灘/可涉水而過之處 (v)涉水而過
@@ -1038,7 +1040,6 @@
     ^ fluff (n)絨毛, 蓬鬆物 (v)搞砸/弄糟 --> fluffy (adj)有絨毛的, 蓬鬆的, 空洞的 = disembodied
     ^ fluster (n/v)慌亂/激動 --> flustered (adj)慌張的
     ^ flutter (v)振翼/拍翅, 飄揚, 顫動 <|> flatter
-    ^ foible (n)小缺點/小毛病
     ^ fold (n)羊欄/畜欄 (v)折疊 --> folder (n)文件夾/紙夾
     ^ folk (n)人們, 民謠 (adj)普通百姓的/流傳民間的, 民俗的
     ^ folklore (n)民間傳說, 民俗學 <-- folk + lore
@@ -1747,6 +1748,7 @@
     + molt, moult (v)換羽/脫毛 = shed = cast off (n)換羽/脫毛(期)
     + moment (n)瞬間 = instant, 重要 = importance = consequence --> momentous (adj)極重要的/嚴重的 --> momentary (adj)短暫的 = fleeting = transient = transitory = ephemeral = meteoric, 隨時會發生的 = impending = imminent = pending
     + monastic (adj)修道院的/修道士的, 禁慾的/苦行的 = ascetic = austere, 隱居的/隱世的 = reclusive (n)修道士 <-- monastery
+    + moot (v)提出...供討論 = broach (adj)有討論餘地的/未決的, 無實際意義的 (n)模擬審判
     + moratorium (n)延期償付, 暫停活動/中止活動 = suspension of activity
     ++ morbid (adj)病態的 = diseased = unhealthy = pathological = wan, 疾病的/病理的 = pathological, 可怕的 = gruesome = grisly <-- morb 病 = sickness + id
     + mordant (adj)尖酸的/譏諷的 = sarcastic = caustic = biting (n)金屬腐蝕劑, 金箔黏著劑 <-- mord 咬 = bite + id
@@ -1903,7 +1905,6 @@
     ^ moderator (n)仲裁人/調解人 = arbiter, 主持人, 評分審核人, 版主
     ^ marketplace (n)市場機制, 集市 = bazaar
     ^ mart (n)商場
-    ^ moot (v)提出...供討論 = broach (adj)有討論餘地的/未決的, 不重要的/不相關的, (法律上)無實際意義的, 想像的/假想的 (n)模擬審判
 
 [N]
     + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> summit = acme
@@ -2364,6 +2365,7 @@
     + rift (n)裂口/裂縫 = gap = fissure = cleft = chink, 嫌隙 (v)裂開 = split
     + rigid (adj)堅固的/不易彎曲的 = austere, 嚴格的/死板的 = inflexible = strict = severe = stringent --> rigidity (n)
     ++ rigor (n)嚴格/嚴謹 = asperity = strictness = severity, 嚴密/精確, 艱苦 = hardship = austerity --> rigorous (adj)嚴格的/嚴厲的 = harsh = severe, 縝密的/精確的 = precise = exact = accurate = rigid
+    + rile (v)激怒 = irritate  = irk = gall = peeve = provoke
     + /rɪˈpɒst/ riposte (n)反應靈敏的回答 = counterstroke (v)機敏地反駁 = retort = retaliate
     + /rʌɪt/ rite (n)儀式 <|> /rʌɪt/ right --> /ˈrɪtʃʊəl/ ritual (n)儀式, 例行習慣 --> ritualistic (adj)儀式的, 慣例的/不變的
     ++ /ˈrɪvɪt/ rivet (n)鉚釘 (v)固定/釘牢, 吸引注意 = arrest --> riveting (adj)吸引注意的 = fascinating = arresting
@@ -2446,7 +2448,6 @@
     ^ ridge (n)脊/隆起物
     ^ rifle (n)步槍 (v)搶劫 <|> rife
     ^ rig (v)欺騙/舞弊/偽造
-    ^ rile (v)激怒 = irritate  = irk = gall = peeve = provoke
     ^ rind (n)瓜、果等的)皮/外皮, (乾酪等)外皮/硬皮
     ^ riot (n/v)暴亂/騷亂 = bedlam --> riotous (adj)暴亂的/騷動的, 喧鬧的
     ^ ripple (v)起漣漪 (n)細浪/漣漪
@@ -3003,6 +3004,7 @@
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + /ˈtiːdɪəs/ tedious (adj)乏味的/沈悶的 = dull = jejune --> tedium (n)單調乏味/無聊 = boredom
     + telltale (adj)洩露秘密的 = revealing (n)指示器/計數器
+    + /tɪˈmɛrɪti/ temerity (n)魯莽/大膽 = audacity = rashness <-- temer 輕率地 = rashly + ity
     * tempt (v)引誘/誘惑 = allure = lure, 打動/引起 = urge, 說服 = persuade --> temptation (n)渴望/誘惑, 誘惑物 = lure
     +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
 	* temperamental (adj)喜怒無常的, 性情的
@@ -3108,7 +3110,6 @@
     ^ tease (v)逗樂/戲弄, 強求 (n)揶揄/戲弄/取笑
     ^ teeter (V)搖擺/搖晃
     ^ telling (adj)顯著的/有效的, 生動的/流露感情的
-    ^ temerity (n)魯莽/大膽 = audacity = rashness <-- temer 輕率地 = rashly + ity
     ^ temp (v)做臨時工作
     ^ tumult (n)吵鬧/喧譁, 騷亂/騷動
     ^ tempo (n)步調/速度
