@@ -1,6 +1,7 @@
 [A]
     + abet (vt)教唆/鼓勵 = ferment = foment = incite = instigate <-- a + bait
     + abeyance (n)擱置/暫時中止 = temporary inactivity <-- a + bay + ance
+    + aboveboard (adj/adv)率直
     + abreast (adv)並列地 = side by side --> keep abside of 了解...的最新情況
     + abridge (vt)刪減 = diminish = pare = hack, 精簡 = abbreviate = condense
     + absurd (adj)不合理的 = unreasonable = inappropriate, 荒謬的/可笑的 = ludicrous = inept
@@ -157,6 +158,7 @@
     + bard (n)詩人/吟遊詩人
     + baroque (n/adj)巴洛克式風格/過分雕琢的 <--> austere, 不規則狀的
     ++ bask (v)曬太陽/取暖, 享受 = relish = enjoy <|> bake
+    + bastard (n)討厭鬼/壞蛋 (adj)雜種的/劣化的 --> bastardize (v)使品質低落/摻雜 --> bastardization (n)
     + /ˈbɔːdi/ bawdy (adj)下流的/淫猥的 = obscene = indecent = vulgar = lewd = licentious = salacious = ribald = wanton
     + bay (n)灣/海灣, 間隔區, 月桂樹 (v)(狗或狼)叫/吠 = bark --> baying (n)嚎叫 = howling
     + beatify (v)(天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福 = sanctify = bless
@@ -418,6 +420,7 @@
     *** character (n)性格/特質, 好名聲/名譽, 人物/角色, 符號/字 (v)描述 = describe
     + characteristic (adj)特有的/典型的 = typical = distinctive (n)特色/特徵 = feature = trait
     + characterize (v)描繪/描述 = qualify
+    + /ˈʃɑːlət(ə)n/ charlatan (n)騙子/不懂裝懂的人
     + chary (adj)小心的/審慎的 = careful = cautious
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinist (n)沙文主義者 --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放, 符合/吻合
@@ -545,7 +548,6 @@
     ^ characterize (v)是...的特徵, 歸納...的特徵/描述...的特性 --> characterization (n)描述/刻畫
     ^ charade (n)顯而易見的作假/明顯的偽裝, 比手畫腳的猜字遊戲
     ^ charity (n)慈善事業/慈善組織/慈善機構, 仁慈/寬容/寛厚 = benevolence, 施捨
-    ^ charlatan (n)騙子/江湖醫生
     ^ charter (n)憲章/章程, 特權/豁免權 (v)包下(租), 特許成立
     ^ chisel (n)鑿子 (v)鑿/雕, 欺騙/騙取
     ^ choice (n)選擇/抉擇 (adj)精選的/優質的/上等的 = fine = excellent
@@ -2117,6 +2119,7 @@
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/不成熟的 = juvenile = jejune = immature, 兒童的 = juvenile <-- puer 男孩 = boy + ile
     + puissant (adj)強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢 = power = might <-- potent
     + /ˈpʌlkrɪtjuːd/ pulchritude (n)美貌 = comeliness <-- pulchr 美麗 = beautiful + itude 
+    + ˈpʌndɪt/ pundit (n)權威人士/專家
     + /ˈpɪrɪk/ pyrrhic (adj)得不償失的
     + per se (adv)本身 == by or of itself
 
@@ -2282,7 +2285,6 @@
     ^ pulverize (v)壓成細粉/磨成粉末, 徹底擊敗/摧毀 <-- pulver 粉塵 = dust + ize
     ^ pun (n)雙關語
     ^ punch (v)以拳猛擊, 打動
-    ^ pundit (n)權威人士/專家
     ^ puny (adj)弱小的, 發育不良的
     ^ purge (v)清洗/洗滌
     ^ pure (adj)純粹的/純淨的 --> purity (n)純潔/純淨, 純度 --> purify (v)使潔淨/淨化

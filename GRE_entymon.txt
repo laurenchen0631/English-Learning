@@ -777,7 +777,7 @@
 		+ /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
 
 	cur 關心 = care, cure
-		- curate (n)牧師助理
+		- curate (n)牧師助理 (v)策劃
 		- curator (n)館長
 		- curable (adj)可治療的/可醫好的
 		- secure (adj)安全的 = safe, 穩固的 = steady (v)固定, 使安全 --> security (n)安全/保安/防護, 保證/保障
@@ -2249,6 +2249,7 @@
 		+ /ˈfəːvə/ fervent (adj)熱烈的/熱情的 
 		+ fervid (adj)熾熱的 = hot = buring, 熱情的 = fervent = passionate --> fervor (n)熱情 = ardor
 		- perfervid (adj)非常熱心的 = fervent
+		+ /ɛfəˈvɛsənt/ effervescent (adj)冒泡的 = fizzy, 快活的/熱情洋溢的
 		+ /ˌɛfəˈvɛs/ effervesce (v)冒泡 = bubble = foam, 熱情洋溢 --> effervescence (n)冒泡, 熱情洋溢 = liveliness = ebullience
 		** /fəˈmɛnt/ ferment (V)使發酵 = leaven, 醞釀, 使騷動/煽動 = foment = inflame <|> /fə(ʊ)ˈmɛnt/ foment
 
@@ -3940,8 +3941,8 @@
 [N]
 	neg, ne 反對/否認/不 = deny, refuse, no
 		- abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate
-		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie, 抵銷 = neutralize
-		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = cancel out = stultify
+		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie, 抵銷 = neutralize = cancel out
+		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = stultify
 		- negation (n)否認/反對, 對立面
 		- nefarious (adj)邪惡的/惡毒的 = evil = wicked = criminal <|> precarious <|> multifarious <-- ne + fa(i)r + ious
 		+ neglect (n/v)忽視/忽略 = disregard, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心
@@ -4176,14 +4177,14 @@
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
 			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
-			+ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
+			+ /əʊvəˈwiːnɪŋ/ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
 			+ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
 			+ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
-			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
+			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的q
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
 			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀 = eclipse
@@ -4375,19 +4376,18 @@
 		- preview (n/v)預展/預演 (v)預看/預習/預覽, 預先評論
 		- previous 
 		+ presentiment
-		* procreate (v)生育 = reproduce
-		- promise
 
 	pro 向前/先前 = forward, forth, before
 		- proactive (adj)主動的/先發制人的
 		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
-		- /ˈprɒbləm/ (n)問題 <-- pro + blem 丟 
-		+ problematic (adj)問題的/疑難的/不確定的 = doubtful, 難點 <-- problem
+		- /ˈprɒbləm/ problem (n)問題 <-- pro + blem 丟 
+		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點 <-- problem
 		- proceed --> proceeds --> proceedings
 		- procession
 		+ proclaim
 		+ proclivity 
 		* procrastinate (v)耽擱/拖延 = delay = postpone <-- pro + cras 明天 = tomorrow + tinate
+		* procreate (v)生育 = reproduce
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
 		+ produce --> productive --> productivity
@@ -4413,6 +4413,7 @@
 		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen
 		- /ˌprɒməˈnɑːd/ promenade (n/v)散步 (v)帶著..散步 (n)兜風  <-- pro + mena 開車 + ade
 		- prominent
+		- promise
 		+ promote
 		+ prompt
 		+ promulgate (v)頒布法令 = announce officially, 使廣傳/宣傳 = promote <-- pro + mulg 套出消息 = milk + ate
@@ -4447,14 +4448,14 @@
 		+ reciprocate --> reciprocity --> reciprocal (adj)相互的/互惠的
 
 	prodig 巨大/奇蹟 = extravagant, marvel
-		+ prodigal (adj)揮霍的 = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
+		+ prodigal (adj)揮霍的 = profligate = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
 		+ prodigy (n)奇才 = genius, 奇事 = portent = marvel
 		+ prodigious (adj)巨大的/驚人的 = enormous <-- prodigy
 
 	proto, prot 首先/首要 = first, foremost
 		- protagonist
-		* protocol (n)外交禮節, 協議/草案 <-- proto + col 膠水 = glue
-		+ prototype (n)原型, 典型
+		* protocol (n)禮儀/禮節, 條約/公約/議定書, 通訊協定 <-- proto + col 膠水 = glue
+		+ prototype (n)原型, 典型 (v)製作..的原型
 	  
 	per
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
@@ -4464,29 +4465,29 @@
 			* percept --> perception
 			+ perceptible
 			+ /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
-			+ /pəˈrɛnɪəl/ perennial (adj)終年的, 永久的 = permanent = persistent = enduring = recurring <-- per + enn 年 = year + ial
+			+ /pəˈrɛnɪəl/ perennial (adj)永久的 = permanent = perpetual = persistent = enduring = recurring, 多年生的, 終年的 (n)多年生植物 <-- per + enn 年 = year + ial
 			- perfervid
-			+ perish (v)消滅/死去/消亡 --> perishing (adj)嚴寒的
-			+ pernicious (adj)有害的 = noxious = harmful = malign = baneful, 致命的 = destructive = deadly = baneful = <-- per + nic 死 = death + ious
+			+ perish (v)死去, 破滅, 腐爛 = rot = decay --> perishing (adj)極冷的/嚴寒的
+			+ /pəˈnɪʃəs/ pernicious (adj)有害的 = noxious = harmful = malign = baneful = baneful <-- per + nic 死 = death + ious
 			+ perpetual --> perpetuate
 			+ perplex
 			+ perquisite 
 			- persecute
 			+ /pəːsɪˈvɪə/ persevere (v)堅持不懈/不屈不撓 <|> /prɪˈzəːv/ preserve --> perseverance (n)堅持不懈 <-- per + severe 
-			- persiflage (n)挖苦/嘲弄 <-- per + sifl 吹哨 = whistle + age
+			- /ˈpəːsɪflɑːʒ/ persiflage (n)挖苦/戲謔 <-- per + sifl 吹哨 = whistle + age
 			+ persist
 			- perspire
 			+ pertain --> pertinent
 			- pertainacious
 			+ perturb
-			+ /pəˈruːz/ peruse (v)細讀/精讀
+			+ /pəˈruːz/ peruse (v)細讀/精讀, 仔細觀察
 		
 		2. 穿過 = through, throughout
 			- perambulate
 			- percuss --> percussion --> percussionist 
 			- perforate
-			+ permanent (adj)永久的/永恆的 = perennial <-- per + mane 保留 = remain + ent
-			+ permeate (v)充滿/彌漫 = riddle with, 滲入/透過 = saturate = imbue --> permeable (adj)可滲透的/可穿過的 = penetrable = pervious
+			+ permanent (adj)永久的/永恆的 = perennial, 持續不斷的 (n)燙髮 <-- per + mane 保留 = remain + ent
+			+ /ˈpəːmɪeɪt/ permeate (v)滲透/瀰漫 = pervade = riddle with = saturate
 			+ permeable (adj)可滲透的/可穿過的 = penetrable = pervious = porous
 			- permit --> permissive
 			- perpendicular
@@ -4503,9 +4504,10 @@
 
 	peri 周圍/周邊/附近 = around, adjacent
 		+ perigee
-		- perimeter (n)周長 
-		- period (n)時期/時代/週期 <-- peri + od 路 = way
-		- periodical (n)期刊
+		- perimeter (n)周/周圍/邊緣, 視野計
+		- /ˈpɪərɪəd/ period (n)時期/期間, 時代, 節, 週期, 句號 (adj)某一時代特有的 <-- peri + od 路 = way
+		- periodic (adj)週期性的, 週期表的
+		- periodical (n)期刊 (adj)週期性的 = periodic, 期刊的
 		+ /ˌpɛrɪpəˈtɛtɪk/ peripatetic (adj)巡遊的 = itinerant <-- peri + patet 走 = walk + ic
 		+ periphery --> peripheral
 		- periscope (n)潛望鏡
@@ -5460,7 +5462,7 @@
 		- rugose (adj)多皺紋的
 
 	relic 放棄 = leave, abandon, relinquish
-		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)被遺棄的人 --> dereliction (n)遺棄/
+		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)被遺棄的人 --> dereliction (n)遺棄
 		- relict (n)殘餘物
 		- relic (n)遺物/遺跡, 聖骨/聖物
 
