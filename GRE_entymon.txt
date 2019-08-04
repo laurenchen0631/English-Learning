@@ -35,7 +35,7 @@
 			+ affluent
 			- affidavit
 			+ afford (v)買得起, 有時間做, (東西)提供/給予(人)
-			- agenda (n)議程 = schedule = calendar
+			- agenda (n)待議諸事項, 待辦事項, 意圖/目的
 			- agglomerate
 			+ aggrandize
 			- aggravate
@@ -338,6 +338,7 @@
 
 		2. 統治 = leader, ruler
 			+ /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
+			- /ˈanəkɪz(ə)m/ anarchism (n)無政府主義
 			- archive (n)檔案室 --> archives (n)檔案
 			- archbishop (n)樞機主教
 			- monarch (n)君主/帝王, 帝王蝶, 王鶲 --> monarchy (n)君主制
@@ -1603,6 +1604,7 @@
 		+ contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
 		+ dictate (v)口述, 命令/下令/決定 (n)命令
 		- dictator (n)命令者, 獨裁者 = autocrat --> dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
+		- /dɪkˈteɪtəʃɪp/ dictatorship (n)獨裁政府, 獨裁國家, 專政
 		+ dictum (n)名言/格言 = adage = aphorism
 		- edict (n)敕令/官方命令
 		- indicate (v)指示/指出/表明, 象徵/暗示
@@ -1951,6 +1953,7 @@
 		+ empiric --> empirical --> empiricism
 		* enrage (v)激怒/觸怒 = livid (adj) = furious (adj)
 		- enrapture (v)使著迷/使狂喜
+		- enrichment (n)充實/豐富, 鈾濃縮, 富有
 		- /ɪnˈskɒns/ ensconce (v)安置/安頓 = en + sconce 木堆 = bundle of wood
 		- ensemble
 		- ensign (n)旗/軍旗
@@ -2134,7 +2137,7 @@
 		- biforate (adj)雙孔的
 
 	form 形狀
-		+ conform (v)順從/遵從 = comply = hew, 使相似/使一致 = agree --> conformity (n)遵從/遵守, 符合/符合度
+		+ conform (v)順從/遵從 = comply = hew, 遵從傳統或標準行動, 使相似/使一致 = agree --> conformity (n)遵從/遵守, 符合/符合度
 		- formal (adj)正式的, 拘謹的/刻板的, 整齊的, 形式上的
 		- formality (n)禮節/俗套, 拘泥形式/拘謹, 正式
 		+ formation (n)形成/組成, 構成物/結構, 編隊/隊形
@@ -3032,7 +3035,7 @@
 			- infect --> infection
 			+ infer
 			- infest (v)大批出沒/侵擾 <|> infect <-- in + fest 攻擊 = assail
-			- infiltrate (v)滲透/滲入 <-- in + filtr 過濾 = filter + ate
+			- /ˈɪnfɪltreɪt/ infiltrate (v)滲透/滲入 <-- in + filtr 過濾 = filter + ate
 			- inflame (v)使燃燒, 激怒, 加劇, 使發炎 <-- in + flame
 			- inflamed (adj)強烈的 = provoked = intensified, 發炎的
 			+ inflammatory (adj)有煽動性的 = incendiary, 發炎的/炎症性的
@@ -3335,6 +3338,7 @@
 		2. 法律/君主 = liege, law
 			- /əˈliːdʒ(ə)ns/ allegiance (n)(對統治者、國家、群體或信仰的)忠誠/擁護 = adherence = devotion = advocacy
 			+ legislate (v)立法 = enact, (透過立法)實現 --> legislation (n)立法, 法條/法規
+			- legislator (n)立法員
 			* legislature (n)立法機關, 美國州議會
 			- legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
 			+ legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
@@ -4313,7 +4317,7 @@
 		- /ˌpandɪˈməʊnɪəm/ pandemonium (n)喧囂/大混亂 = uproar = tumult <-- pan + demon + ium
 		+ /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
 		+ /ˈpanəpli/ panoply (n)壯麗的陳列 = impressive collection, 全套盔甲
-		- panorama (n)全景, 全景畫, 全貌 <-- pan + orama 看 = look
+		- /panəˈrɑːmə/ panorama (n)全景, 全景畫, 全貌 <-- pan + orama 看 = look
 		- pantheon (n)一群(偉人), 偉人祠, 眾神之廟, 諸神殿
 		- pantomime (n)啞劇, 滑稽誇張的行為 (v)用誇張的啞劇表達 <-- panto + mime
 
@@ -4632,6 +4636,7 @@
 
 	pass, pact, pat
 		1. 通過 = step, pace
+			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
 			- compass (n)指南針, (能力、活動、興趣等的)界限/範圍/範疇 = scope = range
 			* compact (adj)密實的/結實的 = dense = solid, 簡潔的 = compendious = concise = terse = succinct = laconic (n)合同/協議 = agreement = covenant
 			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)擠滿 = fill ip = congest = throng, 影響 = influence = alter, 衝擊
@@ -4850,6 +4855,7 @@
 		- misappropriate (v)侵吞/盜用/挪用 = embezzle = appropriate
 		- property (n)財產, 房地產, 所有權, 特性
 		+ propriety (n)禮貌/禮節 = decorum = correct conduct, 適當/妥當 = appropriateness = fitness
+		- impropriety (n)不恰當的行為
 		+ proprietary (adj)所有權的/所有人的, 專賣的/專利的 = patent
 		- proprietor 業主 == The owner of a business, or a holder of property.
 		+ disdaintary (adj)私有的
@@ -4994,7 +5000,7 @@
 
 	pun 罰 = punish, penalty
 		- impunity (n)豁免/免除懲罰
-		- punitive (adj)懲罰性的
+		- punitive (adj)懲罰性的, 高昂的
 		- punish (v)懲罰/處罰
 
 	pugil, pugn 打鬥 = fight
@@ -5008,7 +5014,7 @@
 		- polis (n)城邦
 		- cosmopolis
 		+ cosmopolitan --> cosmopolitanism
-		- metropolis (n)大城市 --> metropolitan (adj)大都市的 (n)大都市人
+		- metropolis (n)大城市 --> metropolitan (adj)大都市的, 宗主國的/母國的, 大主教轄區的 (n)大都市人, 大主教
 
 	plore 喊/哀嚎 = wail
 		- deplore (v)深感遺憾/痛惜/哀嘆 = mourn, 譴責 = condemn
@@ -5066,6 +5072,7 @@
 	popul 人民 = people
 		- populace (n)平民百姓
 		- populous (adj)人口稠密的/擁擠的
+		- populate (v)組成人口, 居住於/移民於, 充滿, 填入 = fill in
 		- population (n)人口
 		- popularity (n)普及/流行
 
@@ -5081,6 +5088,7 @@
 		- psychiatrist (n)精神科醫生
 		- psychiatry (n)精神病學
 		- psychoactive (adj)影響精神行為的 == (chiefly of a drug) affecting the mind
+		- psychopathology (n)精神病理學, 精神, 精神錯亂
 
 	physi, physio 自然的 = nature
 		- physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
@@ -5496,7 +5504,7 @@
 		* rapt (adj)著迷的/痴迷的, 全神貫注的, 欣喜若狂的 --> rapture (n)著迷/痴迷, 狂喜
 		- ravish (v)使陶醉/使銷魂, 強姦 = rape --> ravish (adj)令人陶醉的
 		* rave (n/v)胡言亂語, 狂罵/咆哮 = rant, (風)呼嘯 = rage
-		* ravage (v)嚴重傷害 (n)蹂躪, 破壞
+		*** ravage (v)嚴重傷害 (n)蹂躪, 破壞
 		+ raven (v)狼吞虎嚥地吃, 攫取/掠奪 (n)掠奪/劫掠, 捕食, 渡鴉 (adj)烏亮的/墨黑的
 		+ ravenous (adj)餓極了的, 貪婪的 = rapacious = voracious
 
@@ -5841,7 +5849,7 @@
 		+ /ˈsɪmɪli/ simile (n)直喻/明喻 <|> smile
 		- simulate (v)模仿/偽裝
 		+ simulacrum -> simulacra (n)相似物/相似的東西, 拙劣的模仿或替代品 <-- simulate
-		- simultaneous (adj)同時發生的
+		- /ˌsɪmlˈteɪnɪəs/ simultaneous (adj)同時發生的
 		+ syllogism (n)三段論/演繹推理, 詭辯/狡辯
 		+ symbiosis
 		+ symmetry (n)對稱, 均勻
@@ -5879,7 +5887,7 @@
 		+ /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
 		- massacre (n)大屠殺 = carnage = slaughter = genocide
 		+ desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
-		- sacred (adj)神聖的/莊嚴的 = holy 
+		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲 (v)宰牲祭神
 		- sacrilege (n)褻瀆/冒犯神靈 <-- sacr + i + leg 偷取 = steal + e
 		- sacrilegious (adj)褻瀆神明的
@@ -5890,7 +5898,7 @@
 
 	sect, seg 切 = cut == tomy
 		- bisect (v)切成兩半
-		+ dissect (v)解剖, 剖析/分析 = analyze
+		+ dissect (v)解剖, 仔細分析 = analyze
 		- intersect (v)橫斷/貫穿 --> intersection (n)橫斷, 十字路口
 		- section (n)部分/片段, 切開/切口, 切片, 切面 (v)強制入院
 		- sectary (n)門徒
@@ -5920,7 +5928,7 @@
 		* insensitive (adj)未意識到的/漠不關心的 = callous = indifferent, 不敏感的/無感覺的 = unfeeling = callous = obtuse
 		+ presentiment (n)不祥的預感 = premonition = hunch = foreboding
 		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = resentment
-		++ sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid = shocking, 感覺的/知覺的
+		++ sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
 		- sensible (adj)明智的 = reasonable, 可感覺到的 = noticeable
 		- sensitive (adj)敏感的 --> sensitivity (n)敏感/靈敏性
 		- sensitize (v)使敏感/使敏化, 使過敏 --> sensitization (n)敏化
@@ -5976,7 +5984,7 @@
 		- assorted (adj)混雜的 = mixed
 
 	sue 跟隨 = follow
-		- ensue (v)接著發生/接踵而來, 產生
+		- ensue (v)接著發生/接踵而來, 產生 --> ensuing (adj)接連發生的
 
 	suage 甜 = pleasant, sweet
 		+ assuage (v)減輕/緩和 = alleviate = allay
@@ -6542,6 +6550,7 @@
 		* disturb (v)干擾安寧 = unsettle, 打斷/干擾 = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
 		* disturbance (n)干擾, 騷亂/紛亂/暴力事件
 		+ perturb (v)使不安/煩擾 = agitate = disconcert = disturb, 使精神錯亂 = derange <-- per + (dis)turb
+		- perturbation (n)不安, 引起不安的事物, 偏差, 攝動
 		+ turbid (adj)渾濁的/汙濁的 = muddy = opaque, 思想混亂的/紊亂的 = confused = confused = disturbed
 		+ turbulent (adj)動蕩的/混亂的 = chaotic = disturbed = tumultuous, 猛烈的/洶湧的 = violent --> turbulence (n)騷亂/動盪/混亂, 湍流/亂流
 	
@@ -6593,7 +6602,9 @@
 		* unfathomable (adj)深不可測的/不可理解的 = inscrutable = impenetrable
 		+ unfavorable (adj)不利的/不適宜的 = inimical = adverse, 相反的/反對的, 令人不快的
 		+ unfeigned (adj)不虛偽的/真誠的 = genuine
+		- unfetter (v)釋放/使自由
 		- unflappable (adj)不驚慌的/鎮定的
+		- unflinching (adj)不畏縮的/堅定無畏的
 		- unfold (v)展開/打開, 逐漸呈現
 		+ unforthcoming (adj)不願透露訊息的, 無法隨時可得的
 		- unforgiving (adj)不願原諒的, 嚴峻的
@@ -6684,6 +6695,7 @@
 		* undergo (v)經歷 = experience = pass through, 忍受 = endure = sustain = suffer
 		- underhanded (adj)不光明的/卑鄙的
 		- underling (n)下屬/手下
+		+ underlie -> underlay -> underlain (v)在下面, 源自於/是...的基礎
 		+ underlying (adj)在下面的 = below, 根本的 = basic = fundamental
 		+ undermine (v)暗中破壞/逐漸損害, 在……下挖坑道
 		+ underplay (v)淡化...的重要性/輕描淡寫, 表演(角色等)不充分 = underact
@@ -7046,7 +7058,7 @@
 		- vestment (n)官服, 禮服, 法衣, 祭衣
 
 	veter 老 = old
-		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed
+		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed, 根深蒂固的
 		- veteran (n)老兵/老手 (adj)老兵的/經驗豐富的
 		- veterinary (adj)獸醫的
 

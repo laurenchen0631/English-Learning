@@ -19,6 +19,7 @@
 		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
 	- licensing terms 授權條款
 	- licensing agreement 授權合約 
+	- capitalism 資本主義 == An economic and political system in which a country`s trade and industry are controlled by private owners for profit, rather than by the state.
 
 [Title/Job]
 	- chief executive 首席執行官
@@ -62,6 +63,7 @@
 	- lumberjack 伐木工人
 	- undertaker 殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- cottage industry 家庭代工
+	- attachés /əˈtaʃeɪ/ 專員 == A person on the staff of an ambassador having a specialized area of responsibility.
 
 [Company/Store]
 	- off-duty 不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
@@ -192,6 +194,13 @@
 	- wire transfer 電匯
 	- competitive advantage 競爭優勢，是一種特質，競爭力大或強的才有優勢，那麼這種優勢就是獨特的，否則它就不可能有更大或更強的競爭力
 	- slush fund 非法基金/行賄基金
+	- escrow /ˈɛskrəʊ/ 
+		> 附帶條件委付蓋印契約 |A bond, deed, or other document kept in the custody of a third party and taking effect only when a specified condition has been fulfilled.|
+		> |A deposit or fund held in trust or as a security.| an escrow account
+		> 暫由第三方保管 |The state of being kept in custody or trust until a specified condition has been fulfilled.| the board holds funds in escrow
+		> 暫由第三方保管 |Place in custody or trust until a specified condition has been fulfilled.| those funds are escrowed for the purpose of improving municipal services
+	- licensing terms 授權條款
+	- licensing agreement 授權合約 
 
 [Law]
 	- the Supreme Court 最高法院
@@ -321,7 +330,18 @@
 		> 劫持 |An incident or act of hijacking.|
 		> 運送中竊取 |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
 		> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
-		- pedophile 戀童癖 == A person who is sexually attracted to children.	
+	- pedophile 戀童癖 == A person who is sexually attracted to children.	
+	- gangster 犯罪集團成員 == A member of a gang of violent criminals.
+	- gangsterism 集團犯罪
+	- heist /hʌɪst/ 
+		> 搶劫 |A robbery.| a diamond heist
+		> 偷 |Steal.| he heisted a Pontiac
+	- mob
+		> 一夥 |A large crowd of people, especially one that is disorderly and intent on causing trouble or violence.| a mob of protesters
+		> 普通人民 |The ordinary people.| the age-old fear that the mob may organize to destroy the last vestiges of civilized life
+		> 犯罪集團 |The Mafia or a similar criminal organization.|
+		> 成群襲擊 |Crowd round (someone) or into (a place) in an unruly way.| he was mobbed by autograph hunters
+		> 成群襲擊 |(of a group of birds or mammals) surround and attack (a predator or other source of threat) in order to drive it off.| a cuckoo flew over, to be mobbed at once by two reed warblers
 	- thug 暴徒 == A violent person, especially a criminal.
 	- maim 使殘廢 == Wound or injure (a person or animal) so that part of the body is permanently damaged.
 	- plunder
@@ -343,6 +363,7 @@
 	- scam
 		> 詐騙 |A dishonest scheme; a fraud.| an insurance scam
 		> 詐騙 |Swindle.| a guy that scams old pensioners out of their savings
+	- fraudster 詐騙份子 == A person who commits fraud, especially in business dealings.
 	- racketeering 勒索/詐騙/敲詐
 	- vagrancy 流浪罪 == the state of being or living like a vagrant 
 	- high treason 大逆罪/高度叛國罪
@@ -373,7 +394,7 @@
 	- cordon sth off 封鎖隔離 == Prevent access to or from an area or building by surrounding it with police or other guards.
 		> the city centre was cordoned off after fires were discovered in two stores
 
-[Army/Weapon]
+[Army/Military]
 	- captain
 	- lieutenant 中尉/少尉, 海軍上尉 
 	- outpost
@@ -398,7 +419,20 @@
 	- West Point 西點軍校
 	- general staff 全體參謀/參謀部 == the group of army officers who work for and give advice to a commanding officer
 	+ espionage /ˈɛspɪənɑːʒ/ 諜報活動 == The practice of spying or of using spies, typically by governments to obtain political and military information.
-	
+	- warhead 彈頭 == The explosive head of a missile, torpedo, or similar weapon.
+	+ sabotage /ˈsabətɑːʒ/ 
+		> 蓄意破壞 |Deliberately destroy, damage, or obstruct (something), especially for political or military advantage.| power lines from South Africa were sabotaged by rebel forces
+		> 蓄意破壞 |The action of sabotaging something.| a coordinated campaign of sabotage
+	- wiretap
+		> 竊聽 |An act of using a listening device to conduct surveillance, typically over a phone line.| illegal wiretaps of leading politicians
+		> 竊聽裝置 |A listening device used to conduct surveillance, typically one connected to a phone line.| after putting a wiretap on the phone of the pizzeria, agents searched shipments bound for the warehouse
+		> 竊聽 |Use a listening device to conduct surveillance on.| the government illegally wiretapped the lawyers
+	- brigade /brɪˈɡeɪd/ 
+		> 旅 |A subdivision of an army, typically consisting of a small number of infantry battalions and/or other units and forming part of a division.| he commanded a brigade of 3,000 men
+		> 隊/團 |An organization with a military or quasi-military structure.| a volunteer ambulance brigade
+		> 隊/團 |A group of people with a characteristic in common.| the anti-smoking brigade
+		>  把……編成旅 |Form into a brigade.| the militia, which was brigaded with regular formations to improve its training
+		> 與...有關連 |Associate with (someone or something)| they thought the speech too closely brigaded with illegal action
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -455,6 +489,7 @@
 	- thoroughfare
 		> 幹線 |A road or path forming a route between two places.| a scheme to stop the park being used as a thoroughfare
 		> 大街/大道 |A main road in a town.| the teeming thoroughfares of central London
+	- speedometer /spiːˈdɒmɪtə/ 車速錶
 
 [Agriculture/Farming]
 	+ farm
@@ -608,6 +643,7 @@
 		> |Denoting a system in which people may choose from a number of available options, especially one in which an employee may select a personal package of company benefits.|
 	- veal chop 小牛排
 	- tri-tip 嫩角尖沙朗
+	- ground beef 牛絞肉
 	- tamale 墨西哥粽
 	- cookout 野炊派對 == A party or gathering where a meal is cooked and eaten outdoors.
 	- tangy 撲鼻的 == Having a strong, piquant flavour or smell.
@@ -652,6 +688,10 @@
 	- ObGyn == obstetrician-gynecologist 婦產科醫生 == a doctor who specializes in women’s health
 	* veterinary /ˈvɛtrɪn(ə)ri／ (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
 	- phlebotomy 放血法 --> phlebotomist 放血師
+	- psychopathology /ˌsʌɪkəʊpəˈθɒlədʒi/ 
+		> 精神病理學 |The scientific study of mental disorders.| Wharton`s autobiography ranks high in the annals of psychopathology
+		> 精神 |Features of people`s mental health considered collectively.| ageism, family discord, and psychopathology all play their part in abuse
+		> 精神錯亂 |Mental or behavioural disorder.| she showed evidence of genuine psychopathology
 	- plaque
 		> 飾版/匾 |An ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface in commemoration of a person or event.|
 		> |A sticky deposit on teeth in which bacteria proliferate.|
@@ -700,6 +740,7 @@
 	- outpatient 門診病人 == A patient who attends a hospital for treatment without staying there overnight.
 	- inpatient 住院病人
 	- oxygen cylinder 氧氣瓶
+	- pacemaker 心律調節器
 	- psychiatric hospital 精神科醫院
 	- Oral and maxillofacial surgery 口腔頜面外科，該外科主要治理頭部、頸部、臉部、下頜、口腔和頜面部位
 	- plastic surgery 整形手術
@@ -743,6 +784,10 @@
 	- LSD 麥角酸酰二乙胺，一種強烈的致幻劑
 	- first responder 第一響應者/現場應急人員 == a person with specialized training who is among the first to arrive and provide assistance at the scene of an emergency,
 	- hemp (n)大麻纖維, 大麻藥物
+	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.
+	- ICD 植入式去顫器 == Implantable Cardioverter Defibrillator
+	- AED 自動體外心臟去顫器 == Automated External Defibrillator
+	- defibrillator 去顫/除顫 == An apparatus used to control heart fibrillation by application of an electric current to the chest wall or heart.
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -827,9 +872,12 @@
 	- rheumatoid arthritis /ˈruːmətɔɪd/ 類風濕關節炎
 	- PTSD == Post-traumatic stress disorder 創傷後壓力症候群
 	- Parkinson’s disease 帕金森氏病，中樞神經系統的退行性疾病
+	- Asperger syndromes 亞斯伯格症候群，其重要特徵是社交與非言語交際的困難，同時伴隨著興趣狹隘及重複特定行為，但相較於其他泛自閉症障礙，仍相對保有語言及認知發展。通常亞斯伯格症患者的智力正常，有許多人智商偏高，具有某些方面的天賦，極少數的人屬於高智商。但患者經常出現肢體笨拙和語言表達方式異常等狀況
+	- autism /ˈɔːtɪz(ə)m/ 自閉症
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
+	- Rupert Murdoch 魯柏·梅鐸，生於澳洲墨爾本，現居美國，全球首屈一指的新聞媒體大亨，現任新聞集團持有14%股份和39.4%的投票權與21世紀福斯公司董事長與最大股東
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
 	- obituary 訃告 == A notice of a death, especially in a newspaper
 	- columnist 專欄作家
@@ -1075,7 +1123,10 @@
 		> 寬鬆上衣 |A loose shirt or top.|
 	- loincloth 腰布
 	- headdress 頭飾 == An ornamental covering or band for the head, especially one worn on ceremonial occasions.
-	
+	- armband
+		> 臂章/袖標 |a piece of material that a person wears around the arm as a sign of something, for example an official position|
+		> 充氣臂圈/救生臂環 |a hollow, ring-shaped piece of plastic filled with air, that people who are learning to swim wear on their arms in water to help them float|
+	- black armband == In Western culture, a black armband signifies that the wearer is in mourning or wishes to identify with the commemoration of a family friend, comrade or team member who has died. 
 [Art]
 	- the Mona Lisa
 	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
@@ -1237,12 +1288,17 @@
 		> 工程師 |A person qualified in a branch of engineering, especially as a professional.|
 		> 火車司機 |A train driver.|
 		> 創始者 |A skilful contriver or originator of something.| the prime engineer of the approach
-	- gadget == A small mechanical or electronic device or tool, especially an ingenious or novel one.
-	- mechanic == A skilled worker who repairs and maintains vehicle engines and other machinery.
-	- mechanics
-		> 力學/機械學 |the branch of applied mathematics dealing with motion and forces producing motion.|
-		> 機件 |The machinery or working parts of something| he looks at the mechanics of a car before the bodywork
+	+ gadget /ˈɡadʒɪt/ 小工具 == A small mechanical or electronic device or tool, especially an ingenious or novel one.
 	- incandescent lamp 白熱燈泡
+	- cascade
+		> 小瀑布 |A small waterfall, typically one of several that fall in stages down a steep rocky slope.| the waterfall raced down in a series of cascades
+		> 傾瀉 |A mass of something that falls or hangs in copious quantities.| a cascade of pink bougainvillea
+		> 大量 |A large number or amount of something occurring at the same time.| a cascade of anti-war literature
+		> 傾瀉 |(of water) pour downwards rapidly and in large quantities.| water was cascading down the stairs
+		> 資訊傳遞 |A process whereby something, typically information or knowledge, is successively passed on.| the greater the number of people who are well briefed, the wider the cascade effect
+		> 傳遞 |Pass (something) on to a succession of others.| teachers who are able to cascade their experience effectively
+		> 串聯 |A succession of devices or stages in a process, each of which triggers or initiates the next.|
+		> 串聯 |Arrange (a number of devices or objects) in a series or sequence.|
 	- conduit /ˈkɒndjʊɪt/, /ˈkɒndɪt/
 		> |A channel for conveying water or other fluid.| nearby springs supplied the conduit which ran into the brewery.
 		> |A tube or trough for protecting electric wiring| the gas pipe should not be close to any electrical conduit
@@ -1267,8 +1323,35 @@
 	- denial of service attacks = DoS 阻斷服務攻擊
 	- ham radio 業餘無線電
 	- dial-up 撥號連線
-	- gadget /ˈɡadʒɪt/ 小工具 == A small mechanical or electronic device or tool, especially an ingenious or novel one.
 	- auralisation, auralization 可聽化，是一種程序，旨在模擬和模擬在虛擬空間中作為聲場呈現的聲學現象的體驗
+	- out-of-the-box 開箱即用，在軟體上指產品在安裝後，無需配置或修改，即可使用的功能或特性
+	- penetration test 滲透測試，是指一個具備資安知識與經驗、技術人員受僱主所託，為僱主的網路裝置、主機，類比駭客的手法對網路或主機進行攻擊測試，為的是發掘系統漏洞、並提出改善方法，通常是出於善意。
+	- virtual private network == VPN 私人虛擬網路 
+	- Windows dropper Windows釋放程式
+	- payload
+		> 裝載量 |The part of a vehicle's load, especially an aircraft's, from which revenue is derived; passengers and cargo.|
+		> 太空船所裝載的配備、人員或衛星 |Equipment, personnel, or satellites carried by a spacecraft.|
+		> 火箭或人造衛星所載彈頭 |An explosive warhead carried by an aircraft or missile.|
+		> 資料 |The actual information or message in transmitted data, as opposed to automatically generated metadata.|
+		> 電腦病毒的效果 |The effects of a virus on a computer system.|
+	- uranium enrichment facility Natanz 鈾料濃縮工廠 == fuel enrichment plant
+	- valve /valv/ 
+		> 閥/活門 |A device for controlling the passage of fluid or air through a pipe, duct, etc., especially an automatic device allowing movement in one direction only.| a valve shuts off the flow from the boiler when the water is hot enough
+		> 真空管 |A cylindrical mechanism in a brass instrument which, when depressed or turned, admits air into different sections of tubing and so extends the range of available notes.|
+		> 活栓 |A membranous fold in a hollow organ or tubular structure, such as a blood vessel or the digestive tract, which maintains the flow of the contents in one direction by closing in response to any pressure from reverse flow.| the aortic valve
+		> |Each of the halves of the hinged shell of a bivalve mollusc or brachiopod, or of the parts of the compound shell of a barnacle.|
+		> 瓣/瓣膜 |Each of the halves or sections into which a dry fruit (especially a pod or capsule) dehisces.|
+	- rotor
+		> 轉子 |A hub with a number of radiating aerofoils that is rotated in an approximately horizontal plane to provide the lift for a helicopter or other rotary wing aircraft.|
+		> 轉片 |The rotating assembly in a turbine.|
+		> 旋轉輪 |The armature of an electric motor.|
+		> 回轉軸 |The rotating part of the distributor of an internal combustion engine which successively makes and breaks electrical contacts so that each spark plug fires in turn.|
+		> 轉片 |The rotating container in a centrifuge.|
+		> 旋轉翼 |The rotary winder of a clockwork watch.|
+		> 氣旋 |A large eddy in which the air circulates about a horizontal axis, especially in the lee of a mountain.| a rotor cloud
+	- turbine /ˈtəːbʌɪn/ 渦輪
+	- keystroke 按鍵之敲擊 == A single depression of a key on a keyboard, especially as a measure of work.
+	- accelerometer /əkˌsɛləˈrɒmɪtə/ 加速度計
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1385,11 +1468,13 @@
 	- envoy
 		> 使者/代表 |A messenger or representative, especially one on a diplomatic mission.| the UN special envoy to Yugoslavia
 		> 全權公使 |A minister plenipotentiary, ranking below ambassador and above chargé d`affaires.|
+	- citizenship 公民權 == The position or status of being a citizen of a particular country.
 	- civil liberties 公民自由
 	- civil rights 公民權 == the rights that each person has in a society, whatever their race, sex, or religion
-	- ambassador /amˈbasədə/ 
+	- ambassador /amˈbasədə/
 		> 大使/使節 |An accredited diplomat sent by a state as its permanent representative in a foreign country.| the French ambassador to Portugal
 		> 代表 |A representative or promoter of a specified activity.| he is a good ambassador for the industry
+	- land grab 土地掠奪，大規模土地徵用的一個有爭議的問題：國內和跨國公司，政府和個人購買或租賃大塊土地
 
 [House/Furniture]
 	- chore /tʃɔː/ 雜務 == A routine task, especially a household one.
@@ -1610,6 +1695,17 @@
 		> 障礙賽馬 |A horse race over a series of hurdles.| a handicap hurdle
 		> 以柵欄圍 |Enclose or fence off with hurdles.| a maze of individual hurdled pens
 
+[Fun/Entertainment]
+	- spree /spriː/ 
+		> 嬉戲 |A spell or sustained period of unrestrained activity of a particular kind.| 
+		> 狂飲作樂 |A spell of unrestrained drinking.|
+		> 狂飲作樂 |Take part in a spree.|
+	- Frisbee 飛盤 == flying disc 
+	- rollerblade (n)直排輪 (v)溜直排輪
+	- fidget spinner 指尖陀螺
+	- kaleidoscope /kəˈlʌɪdəskəʊp/ 萬花筒
+	- dinner party 社交晚宴 == a formal evening meal to which a small number of people are invited
+
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
 	- bordello 妓院 == brothel
@@ -1621,7 +1717,6 @@
 	- orgasm (n/v)性高潮 == The climax of sexual excitement
 	- slut-shamed 蕩婦羞辱，一個概念用來描述使一個人，尤其是女性，為自己的某種性行為或性慾感到羞恥或低人一等的行為。
 	- erotica 情色作品 == Erotic literature or art.
-	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.
 	* orgasm (n/v)性高潮 == The climax of sexual excitement
 	- nonbinary == gender fluid == gender expansive 性別酷兒，為一群自我性別認同類型的統稱，用來指稱「不單純歸屬於」傳統上的男性或女性之性別特質之自我性別認同
 	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
@@ -1641,15 +1736,11 @@
 	- trampoline 蹦床
 	- laundromat 自助洗衣房
 	- Bubble Wrap 氣泡布 == inflated cushioning
-	- Frisbee 飛盤 == flying disc 
 	- Xerox (n/v)靜電複印法
 	- Rollerblade 直排輪 == roller blade
-	- rollerblade (n)直排輪 (v)溜直排輪
 	- Clorox 高樂氏
-	- fidget spinner 指尖陀螺
 	- bulldozer 推土機
 	- walkie-talkie 對講機
-	- kaleidoscope /kəˈlʌɪdəskəʊp/ 萬花筒
 	- wastepaper basket 廢紙簍
 	- magnifying glass 放大鏡
 	- NATO == North Atlantic Treaty Organization 北大西洋公約組織
@@ -1663,4 +1754,5 @@
 		> 對……行手淫 |Stimulate one`s genitals with one`s hand for sexual pleasure.| we do not like to admit that we masturbate
 		> 手淫 |Stimulate the genitals of (someone) to give them sexual pleasure.| they masturbated each other in the long grass below the tennis courts
 	- gypsum /ˈdʒɪpsəm/ 石膏
-	
+	- bifocals 雙光眼鏡，是具有兩種不同光學能力的眼鏡
+	- lightning rod 避雷針

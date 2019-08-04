@@ -46,7 +46,7 @@
     +++ /ɔːˈstɪə/ austere (adj)嚴格的/嚴厲的 = severe = stern = stringent = strict = forbidding = uncompromising, 嚴肅的 = grave = sober = solemn = serious, 禁慾的 = ascetic = abstentious = monastic, 簡樸的 = sober = simple = limited = severe = spartan = stern, 樸素的 = unadorned, 堅硬的 = hard = adamant = rigid, 酸澀的
     + avarice (n)貪婪 = cupidity = greed = avidity --> avaricious (adj)
     + avuncular (adj)叔伯般的/慈祥的/關懷備至的 = benevolent = beneficent <-- uncle
-    + /ˈaksɪəm/ axiom (n)公理 = maxim, 定理 --> /ˌæksiəˈmædɪk/ axiomatic (adj)不需證明的/不言自明的 = self-evident = obvious, 格言的 = aphoristic
+    + /ˈaksɪəm/ axiom (n)公理 = maxim, 定理 --> /ˌaksɪəˈmatɪk/ axiomatic (adj)不需證明的/不言自明的 = self-evident = obvious, 公理的 = aphoristic
 
     * abdomen (n)腹/下腹/腹部
     * abolish (v)廢止/廢除 = abrogate = annul
@@ -863,7 +863,7 @@
     + fallible (adj)容易犯錯的 = liable to err --> fallibility (n)容易出錯/出錯性
     + /ˈfaləʊ/ fallow (adj)休耕的 = uncultivated, 不活躍的/不活動的 = inactive (n)休耕地 <|> callow <|> /ˈfɒləʊ/ follow 
     +++ false (adj)錯誤的 = erroneous = fallacious, 偽造的 = counterfeit, 騙人的 = deceptive, 不忠的 = treacherous --> falsify (v)竄改/偽造/曲解 = garble
-    + falsehood (n)謊言
+    + falsehood (n)虛假, 謊言, 說謊
     ++ /ˈfɔːltə/ falter (v)動搖/猶豫 = hesitate = waver = vacillate = dither = quail = scruple, 蹣跚/踉蹌 = stumble = halt, 結巴地說話 = stammer = halt
     +++ fashion (v)形成, 適應/使一致 = accommodate = adjust = adapt (n)時裝, 方式 = manner = way = mode, 種類 = kind = sort
     + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = conscientious = particular = scrupulous = thorough, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
@@ -872,7 +872,7 @@
     + /ˈfɔːnə/ fauna (n)動物群
     + /fɔːn/ fawn (n)未滿周歲的小鹿 (v)向某人表示親熱/搖尾乞憐/諂媚 = adulate
     ++ fell (v)砍倒 = cut down, 擊倒 = knock down (n)木材量 (adj)邪惡的/致命的
-    ++ feckless (adj)無效的/無用的 = ineffective = incompetent = futile, 不負責任的/莫不關心的 = irresponsible = indifferent = flighty <-- feck 效用 = effect + less
+    ++ feckless (adj)無氣力的/無精打采的 = irresponsible <-- feck 效用 = effect + less
     + feeble (adj)虛弱的 = frail = wan = debilitated = faint, 軟弱的, 薄弱的/站不住腳的
     + /feɪn/ feign (v)假裝/假冒 = dissemble = pretend, 捏造 = concoct <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
     + felicity (n)幸福/喜樂 = bliss, 得體/恰當的語句 --> felicitous (adj)適當的/得體的 = appropiate, 幸福的 <-- felici 快樂 = happy + ty
@@ -1597,8 +1597,8 @@
     * lessen (v)減少/降低/減輕 = allay 
     * /lɪˈvʌɪəθ(ə)n/ leviathan (n)龐然大物/巨人/強者 = behemoth
     * lexicon (n)詞典/語彙
-    *** /ˈlʌɪəb(ə)l/ liable (adj)有責任的 = legally responsible, 易受影響的 = susceptible, 易...的 = apt = subject = prone --> liability (n)麻煩/累贅, 傾向, 責任/義務, 債務 = obligation = debt
-    *** /ˈlɪsɪt/ licit (adj)合法的/正當的 = legal = lawful = legitimate = permissible <--> illicit <|> elicit <|> explicit <|> implicit <|> solicit <|> felicity
+    *** /ˈlʌɪəb(ə)l/ liable (adj)有責任的 = legally responsible, 易受影響的 = susceptible, 易...的 = apt = subject = prone 
+    *** liability (n)責任/義務 = obligation, 債務 = debt, 麻煩/累贅
     * lid (n)蓋子, 眼瞼 = eyelid, 派皮
     *** lie (v)躺/臥, 位於/在, 在於, 說謊
     * liege (n)君主/國王
