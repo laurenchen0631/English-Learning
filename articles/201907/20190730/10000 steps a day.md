@@ -6,7 +6,7 @@ Many of us track our steps with smart watches, pedometers or phone apps and are 
 	- pedometer 計步器
 	- all-important 非常重要的 == extremely important
 	- confetti /kənˈfɛti/ 五彩紙屑
-	- tumble
+	+ tumble
 		> 跌落 |Fall suddenly, clumsily, or headlong.|
 		> |A sudden or headlong fall.| I took a tumble in the nettles
 		> 衝出 |Move or rush in a headlong or uncontrolled way.|
@@ -41,7 +41,7 @@ By that logic, you might assume the more steps they took, the better. For a rang
 		> 穩定水準 |A state of little or no change following a period of activity or progress.| the peace process had reached a plateau
 		> 穩定水準 |Reach a state of little or no change after a period of activity or progress.| the industry's problems have plateaued out
 	- expectancy 期待/盼望 == The state of thinking or hoping that something, especially something good, will happen.
-	- life expectancy 平均壽命 ==  the average length of the life of members of a group of people or animals
+	- life expectancy 平均壽命 == the average length of the life of members of a group of people or animals
 Of course, one drawback of this study is that we can’t be certain that the steps preceded the illness that killed them. 
 The researchers only included women who were fit enough to walk outside their home and they did ask people to rate their own health, but perhaps there were some participants who were well enough to walk, but already not well enough to walk very far. In other words, they walked less steps because they were already unwell, and the steps themselves made no difference.
 But for this age group, this study suggests that maybe 7,500 is enough – although it’s possible that extra steps could confer additional protection against specific conditions. The higher step count could also have been an indicator of women who had generally been more active throughout their lives, and it was this that helped them to live longer. For this reason, it is hard to unravel the exact health benefits of extra steps alone.

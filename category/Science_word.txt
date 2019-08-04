@@ -120,6 +120,7 @@
 	- reverberation
 		> 殘響 |Prolongation of a sound; resonance.| electronic effects have been added, such as echo and reverberation’
 		> 反衝 |A continuing effect; a repercussion.| the attack has had reverberations around the world
+	- cymatics 細小的顆粒在振動的表面形成特定圖案的現象
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
@@ -130,6 +131,11 @@
 		> 結石 |A hard mass formed by minerals within the body, especially in the kidney or gall bladder.|
 	- ordinary and partial differential equations 常微分方程式與偏微分方程式
 	- infinite series 無窮級數，在數學中，一個有窮或無窮的序列的和稱為級數。如果序列是有窮序列，其和稱為有窮級數；反之，稱為無窮級數
+	- geodesic
+		> |Relating to or denoting the shortest possible line between two points on a sphere or other curved surface.|
+		> 曲面幾何結構的 |(of a dome or other structure) constructed from struts which follow geodesic lines and typically form an open framework of triangles and polygons.|
+		> 大地測量學的 |geodetic|
+		> 測地線 |A geodesic line or structure.|
 
 [Human]
 	- protractor (n)量角器, 伸肌

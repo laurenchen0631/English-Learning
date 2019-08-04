@@ -34,7 +34,7 @@ According to a study conducted by the research organization Gartner, 55 percent 
 		> 有微風的 |Pleasantly windy.| it was a bright, breezy day
 		> 輕鬆活潑的 |Appearing relaxed, informal, and cheerily brisk.| the text is written in a breezy matter-of-fact manner
 	- hazy
-		> 有薄霧的 |Covered by a haze| it was a beautiful day but quite hazy’
+		> 有薄霧的 |Covered by a haze| it was a beautiful day but quite hazy
 		> 模糊的 |Vague or ill-defined.| hazy memories
 		> 困惑的 |Confused; uncertain.| school-leavers were often hazy about employment
 Those who still have to monitor emails or finish up projects are also allowed flexibility to get things done, say, poolside or en route to their weekend getaway. Increasingly, staff are allowed the perk of working from home. Last year, CNBC reported that 70 percent of all the world’s employees log at least one remote day. 
@@ -59,7 +59,7 @@ So maybe offices themselves, with their out-of-service elevators and surprise fi
 	- requisite
 		> 必要的 |Made necessary by particular circumstances or regulations.| the application will not be processed until the requisite fee is paid
 		> 必要之物 |A thing that is necessary for the achievement of a specified end.| she believed privacy to be a requisite for a peaceful life
-	- darn wel 無疑地 == without doubt or question
+	- darn well 無疑地 == without doubt or question
 The Summer Fridays phenomenon purportedly began when Mad Men-era advertising executives collectively decided that jetting off to their weekend homes a few hours earlier was more fun than doing actual work.
 	* purport
 		> 貌似 |Appear to be or do something, especially falsely.| she is not the person she purports to be

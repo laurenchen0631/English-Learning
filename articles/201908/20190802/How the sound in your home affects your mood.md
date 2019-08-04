@@ -99,9 +99,8 @@ Susan Magsamen, executive director of the International Arts and Mind Lab at Joh
 	- take part in 參與 == to be actively involved in something with other people:
 		> All the children took part in the Thanksgiving play.
 	- cocoon
-		> 繭； |A silky case spun by the larvae of many insects for protection as pupae.| the moth emerged from its pale yellow papery cocoon
-		> 繭狀物 |Something that envelops someone in a protective or comforting way.
-‘a cocoon of bedclothes’|
+		> 繭 |A silky case spun by the larvae of many insects for protection as pupae.| the moth emerged from its pale yellow papery cocoon
+		> 繭狀物 |Something that envelops someone in a protective or comforting way.| a cocoon of bedclothes
 		> 防護膜 |A covering that prevents the corrosion of metal equipment.|
 		> 把……緊緊包住 |Envelop in a protective or comforting way.| we felt cold even though we were cocooned in our sleeping bags
 		> 使自己孤立 |Retreat from the stressful conditions of public life into the cosy private world of the family.| Americans are spending more time cocooning at home
@@ -148,7 +147,7 @@ Thanks to virtual reality systems, architects are beginning to listen to how the
 	- auralisation, auralization 可聽化，是一種程序，旨在模擬和模擬在虛擬空間中作為聲場呈現的聲學現象的體驗
 “Architects are able to hear what their designs sound like and where required, adapt them to improve the acoustic response,” says Naomi Tansey, an acoustics consultant at the engineering firm Arup. Going further, auralisations enable the creation of unique spaces, such as the central auditorium in the Elbphilharmonie concert hall at Hamburg which sports a stunning algorithm-designed “skin” made of 10,000 gypsum fibre acoustic panels, which help create a balanced reverberation.
 	- Elbphilharmonie 易北愛樂廳，是一座位於德國漢堡的音樂廳，是建設中的漢堡港城的一部分，位於倉庫城的最西端，高達110米，是漢堡最高的居住建築
-	- gypsum /ˈdʒɪpsəm/  石膏
+	- gypsum /ˈdʒɪpsəm/ 石膏
 Others such as University of York’s Mariana Lopez study acoustic heritage with the aid of software. “Auralisations are used to allow us to listen to spaces that either no longer exist or have changed throughout history,” says Lopez. Aside from preserving acoustic history, these auralisations are important when restoring historic structures as the materials used can affect the acoustics significantly.
 But it could still be some time before our homes, offices and cities become pleasing to the ear as much as they are to the eye.
 “Very little in the language of bureaucracy or policy says that we need to design for this,” says Lacey. “We design to minimum benchmarks.”

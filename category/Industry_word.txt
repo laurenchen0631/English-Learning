@@ -1,16 +1,26 @@
 [General]
-	- off-duty == not engaged in or occupied with regular work, not on duty 
-	- pension /ˈpɛnʃ(ə)n/ 
-		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
-		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
-		> 發給..退休金 |Dismiss someone from employment, typically because of age or ill health, and pay them a pension.| he was pensioned off from the army after the war
-		> 捨棄 |Discard something because it is too old or no longer wanted.| garden sheds were raided to bring out machines long since pensioned off
-		> 膳宿公寓/寄宿家庭 |A small hotel or boarding house in France and other European countries.|
 	- tenure
 		> |The conditions under which land or buildings are held or occupied| 
 		> |The holding of an office.|
 		> 任期 |Guaranteed permanent employment| At 38, Harry Overly was decades younger than the tenured raisin man he replaced as the chief executive of Sun-Maid
 		> |Give (someone) a permanent post, especially as a teacher or lecturer. | I had recently been tenured and then promoted to full professor
+	- knowledge economy 知識經濟
+	- brain drain 人才流失
+	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
+	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
+	- list price 建議售價
+	- voucher
+		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
+		> 證據 |a piece of supporting evidence|
+		> 保證人 |surety| 
+	- backbreaking 需要勞力的 == (of manual labour) physically demanding.
+	- marketable
+		> 有市場的 |Able or fit to be sold or marketed.| the flotation will make the shares marketable
+		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
+	- licensing terms 授權條款
+	- licensing agreement 授權合約 
+
+[Title/Job]
 	- chief executive 首席執行官
 	- the general manager 總經理
 	- chairman 議長/委員長/董事長
@@ -21,55 +31,17 @@
 	- CFO == Chief Financial Officer
 	- COO == Chief Operating Officer
 	- benefits manager 企業福利主管
+	- deputy director 副主任
 	- General Secretary 總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
-	- knowledge economy 知識經濟
-	- brain drain 人才流失
-	- onboarding == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
-	- overtime == Time worked in addition to one`s normal working hours
-	- secretary == A person employed by an individual or in an office to assist with correspondence
-	- apprentice /əˈprɛntɪs/ == learn
-	- Ltd == limited liability company 
-	- Inc == incorporation
-	- emeritus 榮譽退休 == (of the former holder of an office, especially a university professor) having retired but allowed to retain their title as an honour.
-	- take-home pay == the amount of earnings that you have left after tax, etc.
-	- pre-tax salary 
-	- rank and file == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
-	- subcontractor == A firm or person that carries out work for a company as part of a larger project
+	- CPA == Certified Public Accountant 註冊會計師，一般是在各國相關管理機構或協會取得認證註冊，接受委託從事審計、會計諮詢、會計服務的專業人士
+	- secretary 祕書 == A person employed by an individual or in an office to assist with correspondence
+	- rank and file 普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for `chief`
-	+ demote == Move (someone) to a lower position or rank, usually as a punishment.
-	- blockbuster == A thing of great power or size, in particular a film, book, or other product that is a great commercial success.
-	- nondisclosure agreement 保密協議
-	- layoff
-		> 臨時解僱 |A discharge, especially temporary, of a worker or workers.|
-		> 解僱期 |A period when a layoff is in force.|
-		> 停止活動 |A period during which someone does not take part in a customary sport or other activity.|
-	- family leave 家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
-	- paternity leave 陪產假
-	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
 	- blue-collar 藍領/藍領的，簡單來說就是從事勞動工作的雇員，典型的代表可能是工廠作業員和軟體工程師，藍領經常被用來與白領比較，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作。
-	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
-	- list price 建議售價
-	- voucher
-		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
-		> 證據 |a piece of supporting evidence|
-		> 保證人 |surety| 
-	- welfare
-		> 健康安樂/幸福 |The health, happiness, and fortunes of a person or group.| they don`t give a damn about the welfare of their families
-		> 福利事業 |Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.| the protection of rights to education, housing, and welfare
-		> 社會救濟 |Financial support given to those who are unemployed or otherwise in need.| critics feared an increase in inequalities in the provision of welfare
-	- backbreaking 需要勞力的 == (of manual labour) physically demanding.
-	- logistic 後勤 == the careful organization of a complicated activity so that it happens in a successful and effective way
-	- supremo 大師 == A person with great authority or skill in a certain area.
+	- spokesperson 發言人/代言人 == spokesman or spokeswoman
 	- foreman
 		> 工頭/領班 |A male worker who supervises and directs other workers.|
 		> 陪審團主席 |(in a law court) a person who presides over a jury and speaks on its behalf.|
-	- brain trust 智囊團/顧問團/諮詢團 == a group of people who advise a leader
-	* paycheck 薪水/薪資單
-	+ proprietary
-		> 所有人的/所有權的 |Relating to an owner or ownership.| the company has a proprietary right to the property
-		> 專利的/專賣的 |(of a product) marketed under and protected by a registered trade name.|
-	- spokesperson 發言人/代言人 == spokesman or spokeswoman
-	- outsource 外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
 	- steward
 		> 服務員 |A person employed to look after the passengers on a ship, aircraft, or train.|
 		> 膳務員 |A person responsible for supplies of food to a college, club, or other institution.|
@@ -78,30 +50,80 @@
 		> 工會代表 |shop steward|
 		> 管理 |Manage or look after (another`s property)|
 		> 財產管理人/管家 |A person employed to manage another`s property, especially a large house or estate.|	
-	- proprietary eponym 通用商標
-	- genericide 通用商標 == The process by which a brand name loses its distinctive identity as a result of being used to refer to any product or service of its kind.1
-	- cartel
-		> 壟斷聯盟/企業聯合 |An association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition.| he Colombian drug cartels
-		> 政治聯盟 |A coalition or cooperative arrangement between political parties intended to promote a mutual interest.|
-	- tagline 品牌主張/品牌理念
-	- strip mall 單排商業區 == a row of stores and small businesses built together along the side of a main road
-	- big-box store 超級商場
-	- chain == chain store 連鎖店
 	- personnel 
 		> 人員 |People employed in an organization or engaged in an organized undertaking such as military service.| ‘many of the personnel involved require training
 		> 人事部門 |personnel department|
+	+ bourgeoisie /ˌbʊəʒwɑːˈziː/ 中產階級
+	- help desk 客戶服務部 == a service that provides information and help to people, especially those using a computer network
+	- advisory board 顧問委員會
+	- brain trust 智囊團/顧問團/諮詢團 == a group of people who advise a leader
+	- higher-up 高層人物/要員 == someone with a more important position than you in an organization
+	- bouncer 保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
+	- lumberjack 伐木工人
+	- undertaker 殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
+	- cottage industry 家庭代工
+
+[Company/Store]
+	- off-duty 不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
+	- pension /ˈpɛnʃ(ə)n/ 
+		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
+		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
+		> 發給..退休金 |Dismiss someone from employment, typically because of age or ill health, and pay them a pension.| he was pensioned off from the army after the war
+		> 捨棄 |Discard something because it is too old or no longer wanted.| garden sheds were raided to bring out machines long since pensioned off
+		> 膳宿公寓/寄宿家庭 |A small hotel or boarding house in France and other European countries.|
+	- onboarding 入職培訓 == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
+	- overtime 加班 == Time worked in addition to one`s normal working hours
+	- Ltd == limited liability company 有限責任公司，是一種公司的組織形態，有限公司對外所負的經濟責任，以出資者所投入的資金為限。
+	- Inc == incorporation 股份有限公司
+	- take-home pay 稅後收入 == the amount of earnings that you have left after tax, etc.
+	- pre-tax salary 稅前收入
+	- outsource 外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
+	- subcontractor 承包者 == A firm or person that carries out work for a company as part of a larger project
+	- nondisclosure agreement 保密協議
+	- layoff
+		> 臨時解僱 |A discharge, especially temporary, of a worker or workers.|
+		> 解僱期 |A period when a layoff is in force.|
+		> 停止活動 |A period during which someone does not take part in a customary sport or other activity.|
+	- family leave 家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
+	- paternity leave 陪產假
+	- welfare
+		> 健康安樂/幸福 |The health, happiness, and fortunes of a person or group.| they don`t give a damn about the welfare of their families
+		> 福利事業 |Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.| the protection of rights to education, housing, and welfare
+		> 社會救濟 |Financial support given to those who are unemployed or otherwise in need.| critics feared an increase in inequalities in the provision of welfare
+	* paycheck 薪水/薪資單
+	+ proprietary
+		> 所有人的/所有權的 |Relating to an owner or ownership.| the company has a proprietary right to the property
+		> 專利的/專賣的 |(of a product) marketed under and protected by a registered trade name.|
+	- proprietary eponym 通用商標
+	- genericide 通用商標 == The process by which a brand name loses its distinctive identity as a result of being used to refer to any product or service of its kind.1
+	+ cartel
+		> 壟斷聯盟/企業聯合 |An association of manufacturers or suppliers with the purpose of maintaining prices at a high level and restricting competition.| he Colombian drug cartels
+		> 政治聯盟 |A coalition or cooperative arrangement between political parties intended to promote a mutual interest.|
+		- tagline 品牌主張/品牌理念
+	- big-box store 超級商場
+	- chain == chain store 連鎖店
+	- liquor store 持有外賣酒類執照的商店
+	- modeling agency 模特兒公司 == company that represents fashion models, to work for the fashion industry
+	- boutique consulting firm 小型商業諮詢公司
+	- outfitter 旅行用品商店
+	- strip mall 條形商場，是一個露天購物中心，商店排成一排，前面有一條人行道
 	- subsidize
 		> 補助 |Support (an organization or activity) financially.| the mining industry continues to be subsidized
 		> 補貼 |Pay part of the cost of producing (something) to keep the selling price low.| the government subsidizes basic goods including sugar, petroleum, and wheat
-	- private sector 私營部門
-	- marketable
-		> 有市場的 |Able or fit to be sold or marketed.| the flotation will make the shares marketable
-		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
-	- bourgeoisie /ˌbʊəʒwɑːˈziː/ 中產階級
 	- triple bottom line 三重底線，或稱作三重盈餘，即企業盈利、社會責任、環境責任三者的統一
-	- help desk 客戶服務部 == a service that provides information and help to people, especially those using a computer network
-	- licensing terms 授權條款
-	- licensing agreement 授權合約 
+	- turnover
+		> 營業額/交易額 |The amount of money taken by a business in a particular period.| a turnover approaching £4 million
+		> 人員更換率 |The rate at which employees leave a workforce and are replaced.| high staff turnover left the program with too many young instructors
+		> 流動率 |The rate at which goods are sold and replaced in a shop.|
+		> 半圓形派 |A small pie made by folding a piece of pastry over on itself to enclose a sweet filling.| an apple turnover
+		> 失球 |(in a game) a loss of possession of the ball to the opposing team.
+	- time off 休假 == a period of time when you do not work because of illness or holidays, or because your employer has given you permission to do something else
+	- day off 休假
+		> Can I have a day off tomorrow?
+	- get off work 下班
+	- fire drill 消防演習
+	- clock in 打卡上班 == to record the time you arrive at work on a special machine
+		> What time did you clock in this morning?
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -169,8 +191,9 @@
 	- grantee 受讓人 == A person to whom a grant or conveyance is made.
 	- wire transfer 電匯
 	- competitive advantage 競爭優勢，是一種特質，競爭力大或強的才有優勢，那麼這種優勢就是獨特的，否則它就不可能有更大或更強的競爭力
+	- slush fund 非法基金/行賄基金
 
-[Law/Crime]
+[Law]
 	- the Supreme Court 最高法院
 	- Chief Justice 首席大法官，美國聯邦政府司法部門的領袖並主管美國最高法院。首席大法官是美國最高司法官員，領導最高法院的事務並在彈劾美國總統時主持參議院
 	- Federal Bureau of Investigation == FBI
@@ -196,10 +219,6 @@
 	- paralegal 律師助理
 	- law clerk /lɔː klɑːk/ 法官助理(通常是法學院剛畢業不久的畢業生。法官助理職位通常在法學院畢業生中很受歡迎，而且法院的級別越高，法官助理的聲望也越高)/律師助理(律師事務所的僱員，協助從事法律檢索、文書寫作等工作。其目的在於獲得一些法律上的訓練與實踐，以備將來進入律師界)
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
-	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
-	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
-	- the Roe vs. Wade case of 1973. 羅訴韋德案，是美國聯邦最高法院於1973年對於婦女墮胎權以及隱私權的重要案例，對於婦女墮胎的問題，美國聯邦最高法院承認婦女的墮胎權，受到憲法隱私權的保護。
-	- Obergefell v. Hodges 奧貝格費爾訴霍奇斯案，是美國聯邦最高法院對於同性婚姻的重要判例。 最高法院在判決中稱同性婚姻的權利受到憲法保障，各州不得立法禁止
 	- Miranda rights == Miranda Warning 米蘭達警告/米蘭達公約/米蘭達宣言，是指美國警察（包括檢察官）根據美國聯邦最高法院在1966年米蘭達訴亞利桑那州案一案的判例來確立的規則。在訊問刑事案件嫌疑人之前，警察必須明白無誤地告知嫌疑人有權援引憲法第五修正案，即刑事案件嫌疑犯有「不被強迫自証其罪的特權」，有權行使沉默權和要求得到律師協助的權利。
 	- appropriation bills 特別支出預算案/撥款法案
 	- search warrant 搜查令/搜索票
@@ -224,15 +243,6 @@
 		> 答辯人 |A person who replies to something, especially one supplying information for a questionnaire or responding to an advertisement.| most respondents to our questionnaire considered their practices to be in accordance with current medical guidelines
 		> 回答的/應答的 |Replying to something.| the respondent firms in the survey
 		> 反應的 |Involving or denoting a response, especially a conditioned reflex, to a specific stimulus.|
-	- molestation 性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
-	- sexual assault 性侵
-	- unlawful assembly 非法集會
-	- the Reid interrogation technique == the Reid technique == a method of questioning suspects that was developed in the 1950s in the United States by John E. Reid
-	- hijack
-		>> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one`s own purposes.| a man armed with grenades hijacked the jet yesterday
-		>> |An incident or act of hijacking.|
-		>> |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
-		>> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
 	- class action 集體訴訟 == a legal action (= a case that is decided in a law court) that is organized by a group of people who all have the same legal problem
 		> Plaintiffs` lawyers have tried to get the courts to combine all the potential suits into a single class action.
 	- adjudication 判決
@@ -247,19 +257,71 @@
 		> |Scoop water out of (a ship or boat)| the first priority is to bail out the boat with buckets
 		> |Abandon a commitment, obligation, or activity.| after 12 years of this, including Sunday Mass with the family, I bailed
 	- condemn
-		>> |Express complete disapproval of; censure.| most leaders roundly condemned the attack
-		>> |Sentence (someone) to a particular punishment, especially death.| the rebels had been condemned to death
-		>> |(of circumstances) force (someone) to endure or accept something unpleasant.| ‘the physical ailments that condemned him to a lonely childhood
-		>> |Prove or show to be guilty or unsatisfactory.| she could see in his eyes that her stumble had condemned her
-		>> |Officially declare (something) to be unfit for use.| the pool has been condemned as a health hazard
+		> |Express complete disapproval of; censure.| most leaders roundly condemned the attack
+		> |Sentence (someone) to a particular punishment, especially death.| the rebels had been condemned to death
+		> |(of circumstances) force (someone) to endure or accept something unpleasant.| ‘the physical ailments that condemned him to a lonely childhood
+		> |Prove or show to be guilty or unsatisfactory.| she could see in his eyes that her stumble had condemned her
+		> |Officially declare (something) to be unfit for use.| the pool has been condemned as a health hazard
 	* convict
 		> 宣告...有罪 |Declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law.| the theives were convicted of the robbery
 		> 囚犯 |A person found guilty of a criminal offence and serving a sentence of imprisonment.| two escaped convicts kidnapped them at gunpoint
 	- verdict 裁決 == A decision on an issue of fact in a civil or criminal case or an inquest.
 	- testimony 證言/證言 == A formal written or spoken statement, especially one given in a court of law.
 	- courtroom 法庭/審判室 == The place or room in which a court of law meets.
-	- incarceration 監禁 == imprisonment
-	- pedophile 戀童癖 == A person who is sexually attracted to children.	
+	- sentence sb to life 判..無期徒刑
+	- serve a sentence 服刑
+	* capital punishment 死刑/極刑
+	- parole
+		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
+		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
+		> 戰俘宣示 |A promise or undertaking given by a prisoner of war not to escape or, if released, not to engage in hostilities, or to return to custody under stated conditions.|
+		> 特用暗號 |The actual linguistic behaviour or performance of individuals, in contrast to the linguistic system of a community.|
+	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
+	- penitentiary /ˌpɛnɪˈtɛnʃ(ə)ri/ 
+		> 重罪監獄 |A prison for people convicted of serious crimes.|
+		> 宗教裁判所 |(in the Roman Catholic Church) a priest appointed to administer penance.|
+		> 宗教裁判官 |An office in the papal court forming a tribunal for deciding on questions relating to penance, dispensations, and absolution.|
+	- mandatory 義務的 == Required by law or mandate; compulsory.
+	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
+	- probation (n)試用, 緩刑
+	- extradition 引渡 == The action of extraditing a person accused or convicted of a crime.
+	- supermax
+		> 高戒備的(監獄) |Denoting or relating to an extremely high-security prison or part of a prison, intended for particularly dangerous prisoners.|
+		> 高戒備監獄 |A supermax prison.|
+	- garnish 
+		> 裝飾 |Decorate or embellish (something, especially food)| garnish each serving with a dollop of sour cream
+		> 法院發出的讓第三債務人向判定債權人付還債務的命令 |Serve notice on (a third party) for the purpose of legally seizing money belonging to a debtor or defendant.| He told me hes gotten this type of call before over the years regarding this situation and they never garnish him
+		> |Seize (money, especially part of a person`s salary) to settle a debt or claim.| the IRS garnished his earnings
+	- lien 留置權 == A right to keep possession of property belonging to another person until a debt owed by that person is discharged.
+	- waiver
+		> 放棄/不強求執行 |An act or instance of waiving a right or claim.|
+		> 免支付協議/棄權聲明書 |A document recording the waiving of a right or claim.|
+	- alimony 贍養費 == A husband`s (or wife`s) provision for a spouse after separation or divorce; maintenance.
+	- legal guardian 法定監護人，是受到合法授權對個人的監護。受監護人一般分為三種，包括對無自理能力的老人、未成年兒童及殘疾的成年人。
+	- all-cause mortality 總死亡率
+	- statute /ˈstatʃuːt/ 
+		> 成文法/法規 |A written law passed by a legislative body.| the Act consolidated statutes dealing with non-fatal offences
+		> 章程/規則 |A rule of an organization or institution.| the appointment will be subject to the statutes of the university
+	- misdemeanor
+		> 小錯 |A minor wrongdoing.|
+		> 輕罪 |A nonindictable offense, regarded in the US (and formerly in the UK) as less serious than a felony.|
+	- deferred prosecution 延期起訴協議，是一種自願的裁決替代方案，其中檢察官同意給予大赦，以換取被告同意滿足某些要求
+
+[Crime/Police]
+	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
+	- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
+	- the Roe vs. Wade case of 1973. 羅訴韋德案，是美國聯邦最高法院於1973年對於婦女墮胎權以及隱私權的重要案例，對於婦女墮胎的問題，美國聯邦最高法院承認婦女的墮胎權，受到憲法隱私權的保護。
+	- Obergefell v. Hodges 奧貝格費爾訴霍奇斯案，是美國聯邦最高法院對於同性婚姻的重要判例。 最高法院在判決中稱同性婚姻的權利受到憲法保障，各州不得立法禁止
+	- molestation 性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
+	- sexual assault 性侵
+	- unlawful assembly 非法集會
+	- the Reid interrogation technique == the Reid technique == a method of questioning suspects that was developed in the 1950s in the United States by John E. Reid
+	- hijack == highjack
+		> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one`s own purposes.| a man armed with grenades hijacked the jet yesterday
+		> 劫持 |An incident or act of hijacking.|
+		> 運送中竊取 |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
+		> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
+		- pedophile 戀童癖 == A person who is sexually attracted to children.	
 	- thug 暴徒 == A violent person, especially a criminal.
 	- maim 使殘廢 == Wound or injure (a person or animal) so that part of the body is permanently damaged.
 	- plunder
@@ -281,39 +343,19 @@
 	- scam
 		> 詐騙 |A dishonest scheme; a fraud.| an insurance scam
 		> 詐騙 |Swindle.| a guy that scams old pensioners out of their savings
+	- racketeering 勒索/詐騙/敲詐
 	- vagrancy 流浪罪 == the state of being or living like a vagrant 
 	- high treason 大逆罪/高度叛國罪
 	- bootlegging 販賣私酒/非法釀酒
 	- molest
 		> 調戲/猥褻 |Assault or abuse (a person, especially a woman or child) sexually.| he was charged with molesting and taking obscene photographs of a ten-year-old boy
 		> 騷擾 |Pester or harass (someone) in an aggressive or persistent manner.| the crowd were shouting abuse and molesting the two police officers
-	- sentence sb to life 判..無期徒刑
-	- serve a sentence 服刑
-	* capital punishment 死刑/極刑
-	- parole
-		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
-		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
-		> 戰俘宣示 |A promise or undertaking given by a prisoner of war not to escape or, if released, not to engage in hostilities, or to return to custody under stated conditions.|
-		> 特用暗號 |The actual linguistic behaviour or performance of individuals, in contrast to the linguistic system of a community.|
-	- delinquency
-		> 少年犯罪 |Minor crime, especially that committed by young people.| social causes of crime and delinquency
-		> 失職/懈怠 |Neglect of one`s duty.| he relayed this in such a manner as to imply grave delinquency on the host`s part
-		> 拖欠債務 |A failure to pay an outstanding debt by the due date.|
-	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
-	- penitentiary /ˌpɛnɪˈtɛnʃ(ə)ri/ 
-		> 重罪監獄 |A prison for people convicted of serious crimes.|
-		> 宗教裁判所 |(in the Roman Catholic Church) a priest appointed to administer penance.|
-		> 宗教裁判官 |An office in the papal court forming a tribunal for deciding on questions relating to penance, dispensations, and absolution.|
-	- mandatory 義務的 == Required by law or mandate; compulsory.
-	- racketeer 詐騙者 == A person who engages in dishonest and fraudulent business dealings.
 	+ poach
 		> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
 		> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
 		> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one`s own or in contravention of official protection.|
 		> 侵佔/竊取 |Take or acquire in an unfair or clandestine way.| employers risk having their newly trained workers poached by other firms
 		> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
-	- probation (n)試用, 緩刑
-	- extradition 引渡 == The action of extraditing a person accused or convicted of a crime.
 	- /ˈfjuːdʒɪtɪv/ fugitive (n)逃犯 (adj)轉瞬即逝的
 	+ inmate 囚犯/住院者 == A person living in an institution such as a prison or hospital.
 	- felon 重罪犯 --> felony 重罪 == A crime regarded in the US and many other judicial systems as more serious than a misdemeanour.
@@ -322,20 +364,14 @@
 	- auto theft 竊車 == The theft of a motor vehicle
 	- money laundering 洗錢
 	- obstruction of justice 妨礙司法公正
-	- supermax
-		> 高戒備的(監獄) |Denoting or relating to an extremely high-security prison or part of a prison, intended for particularly dangerous prisoners.|
-		> 高戒備監獄 |A supermax prison.|
-	- garnish 
-		> 裝飾 |Decorate or embellish (something, especially food)| garnish each serving with a dollop of sour cream
-		> 法院發出的讓第三債務人向判定債權人付還債務的命令 |Serve notice on (a third party) for the purpose of legally seizing money belonging to a debtor or defendant.| He told me hes gotten this type of call before over the years regarding this situation and they never garnish him
-		> |Seize (money, especially part of a person`s salary) to settle a debt or claim.| the IRS garnished his earnings
-	- lien 留置權 == A right to keep possession of property belonging to another person until a debt owed by that person is discharged.
-	- slush fund 非法基金/行賄基金
-	- waiver
-		> 放棄/不強求執行 |An act or instance of waiving a right or claim.|
-		> 免支付協議/棄權聲明書 |A document recording the waiving of a right or claim.|
-	- alimony 贍養費 == A husband`s (or wife`s) provision for a spouse after separation or divorce; maintenance.
-	- legal guardian 法定監護人，是受到合法授權對個人的監護。受監護人一般分為三種，包括對無自理能力的老人、未成年兒童及殘疾的成年人。
+	- human trafficking 人口販賣
+	- mugshot 員警為嫌疑犯拍的臉部照片 == a photograph taken by the police of a person who has been charged with a crime
+	- cordon
+		> 封鎖線 |A line or circle of police, soldiers, or guards preventing access to or from an area or building.|
+		> |A fruit tree trained to grow as a single stem.|
+		> 飛簷層 |A projecting course of brick or stone on the face of a wall.|
+	- cordon sth off 封鎖隔離 == Prevent access to or from an area or building by surrounding it with police or other guards.
+		> the city centre was cordoned off after fires were discovered in two stores
 
 [Army/Weapon]
 	- captain
@@ -416,6 +452,9 @@
 		> 擺渡 |Transport from one place to another on short or regular trips.| ambulances ferried the injured to hospital
 	- pick-up point 接送點
 	- airstrip 簡便機場/小型機場 == A strip of ground set aside for the take-off and landing of aircraft.
+	- thoroughfare
+		> 幹線 |A road or path forming a route between two places.| a scheme to stop the park being used as a thoroughfare
+		> 大街/大道 |A main road in a town.| the teeming thoroughfares of central London
 
 [Agriculture/Farming]
 	+ farm
@@ -619,50 +658,7 @@
 		> 血小板 |A small, distinct, typically raised patch or region on or within the body resulting from local damage or deposition of material, such as a fatty deposit on an artery wall in atherosclerosis or a site of localized damage of brain tissue in Alzheimer`s disease.|
 		> 牙菌斑 |A clear area in a cell culture caused by the inhibition of growth or destruction of cells by an agent such as a virus.|
 		> |A flat counter used in gambling.|
-	- postpartum hemorrhage 產後出血
-	- influenza	流感 == flu 
-	* irritation
-		> 惱怒 |The state of feeling annoyed, impatient, or slightly angry.| much to my irritation, Chris fell asleep
-		> 疼痛/發炎 |Inflammation or other discomfort in a body part caused by reaction to an irritant substance| some chemicals cause a direct irritation to the skin leading to dermatitis
-	- emphysema	/ˌɛmfəˈsimə/ 肺氣腫
-	- glioblastoma multiforme 多形性膠質母細胞瘤
-	- asthma 哮喘
-	- bronchitis /brɑŋˈkaɪdəs/ 支氣管炎
-	- syphilis 梅毒
-	- diabetes 糖尿病 == diabetes mellitus
-	- pancreatitis 胰臟炎 == Inflammation of the pancreas.
-	- upper respiratory infection 上呼吸道感染
-	+ respiratory /rɪˈspɪrət(ə)ri/ 呼吸的/呼吸器官的
-	- pneumonitis /ˌnjuːmə(ʊ)ˈnʌɪtɪs/  肺炎
-	- rhinotracheitis /ˌrʌɪnə(ʊ)treɪkɪˈʌɪtɪs/ 鼻氣管炎
-	- congestive heart failure 充血性心力衰竭/慢性心臟衰竭
-	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
-	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
-	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
-	- hyperglycemia 高血糖症 == An excess of glucose in the bloodstream, often associated with diabetes mellitus.
-	- ketoacidosis 糖尿病酮症酸中毒
-	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
-	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
-	- autistic (adj)自閉症的 (n)自閉症患者
-	- manic depression 躁鬱症
-	- traumatize
-		> 使受精神創上 |Subject to lasting shock as a result of a disturbing experience or physical injury.| the children were traumatized by separation from their families
-		> 使受傷 |Cause physical injury to.| the dressings can be removed without traumatizing newly formed tissue
-	+ paranoia (n)偏執狂/妄想狂, 疑神疑鬼/多疑
-	- rabies /ˈreɪbiːz/ 狂犬病 --> rabid (adj)患有狂犬病的, 瘋狂的
-	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
-	- shingles 帶狀皰疹
-	- stillborn 死胎的 == (of an infant) born dead
-	- miscarriage
-		> 流產 |The spontaneous or unplanned expulsion of a fetus from the womb before it is able to survive independently.| his wife had a miscarriage
-		> 失敗 |An unsuccessful outcome of something planned.| the miscarriage of the project
-	- sirenomelia 美人魚綜合症，一種非常罕見的先天性缺陷，兩條腿融合在一起，看起來像「美人魚」
-	- ache /eɪk/ 
-		> 持續性的疼痛 |A continuous or prolonged dull pain in a part of one`s body.| the ache in her head worsened
-		> 疼痛 |Suffer from a continuous dull pain.| my legs ached from the previous day`s exercise
-		> 心痛 |An emotion experienced with painful or bittersweet intensity.| an ache in her heart
-		> 感到悲傷 |Feel intense sadness or compassion.| she sat still and silent, her heart aching
-		> 渴望 |Feel an intense desire for.| she ached for his touch
+	+ respiratory /rɪˈspɪrətəri/ 呼吸的/呼吸器官的
 	- forceps 鉗子
 	- testosterone blocker 睪固酮阻斷劑
 	- amphetamine /amˈfɛtəmiːn/ 安非他命/苯丙胺
@@ -671,8 +667,6 @@
 	- metastasize == (of a cancer) spread to other sites in the body by metastasis.
 	- ophthalmologists 眼科醫生
 	- pathologists 病理學家
-	- strabismus 斜視
-	- laceration == A deep cut or tear in skin or flesh.
 	- gauze 紗布 == A thin transparent fabric of silk, linen, or cotton.s
 	- tourniquet 止血帶 == A device for stopping the flow of blood through a vein or artery, typically by compressing a limb with a cord or tight bandage.
 	- catheterization 導管插入術
@@ -683,7 +677,6 @@
 		> |A thick mass of coagulated liquid, especially blood, or of material stuck together.| 
 		> |Form or cause to form clots.| drugs that help blood to clot
 	- opioid 類鴉片藥物
-	- kidney stone
 	- abortion
 		> |The deliberate termination of a human pregnancy, most often performed during the first 28 weeks of pregnancy.| concerns such as abortion and euthanasia
 		> |The expulsion of a fetus from the uterus by natural causes before it is able to survive independently.|
@@ -691,41 +684,13 @@
 		> |An object or undertaking that is unpleasant or badly made or carried out.|
 	- ultrasound 超音波
 	- tracheostomy tube 氣切套管
-	- acrania 無顱畸形
 	- scrawny 骨瘦如柴的/發育不良的 == (of a person or animal) unattractively thin and bony.
-	- atrophy
-		> 萎縮 |(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.|
-		> 衰退 |Gradually decline in effectiveness or vigour due to underuse or neglect| the imagination can atrophy from lack of use
-		> |The process of atrophying or state of having atrophied.| gastric atrophy
 	- postmortem
 		> |An examination of a dead body to determine the cause of death.|
 		> |An analysis or discussion of an event held soon after it has occurred, especially in order to determine why it was a failure.| an election postmortem on why the party lost
 		> |Relating to a postmortem.|
-	- dysfunction
-		> 官能障礙 |Abnormality or impairment in the operation of a specified bodily organ or system.| 
-		> |Disruption of normal social relations.| 
 	- contraception 避孕
-	- colic 腹部絞痛 == Severe pain in the abdomen caused by wind or obstruction in the intestines and suffered especially by babies.
-	- appendicitis 闌尾炎/盲腸炎 == A serious medical condition in which the appendix becomes inflamed and painful.
-	- skin caner 皮膚癌，是一種生長在皮膚上的癌症，它是由異常的細胞發展而來，甚至有可能會侵犯擴散到身體不同部位
-	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
-	- bruise
-		> 擦傷/瘀青 |An injury appearing as an area of discoloured skin on the body, caused by a blow or impact rupturing underlying blood vessels.|
-		> |Inflict a bruise or bruises on (a part of the body)| I fell and bruised my kne
-		> 碰傷 |A mark indicating an area of damage on a fruit, vegetable, or plant.|
-		> |Cause a bruise or bruises to appear on (a fruit, vegetable, or plant)| the fall bruised several of the ripest bananas
-		> 傷害 |Hurt (someone`s feelings)| I will admit that my pride was bruised by his comment
-		> 搗碎 |Crush or pound (food)| add the beans, tomatoes, and lime wedges and roughly bruise 
-	- ulcer /ˈʌlsə/ (n)潰瘍, 道德腐敗
-	- abscess 膿瘡/潰瘍
-	- distemper
-		> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
-		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
-		> 膠畫法 |A method of mural and poster painting using distemper.|
-		> |Paint with distemper.|
-	- asthma (n)氣喘 --> asthmatic (adj)氣喘的 (n)氣喘患者
 	- biofeedback 生理回饋，泛指透過提供患者某些特定生理反應的改變狀態，以促使患者獲得自行控制生理改變方向，進而改善其生理疾病的一些臨床技術
-	- rheumatoid arthritis /ˈruːmətɔɪd/ 類風濕關節炎
 	- nociceptor 傷害性感受器 <-- noci == harm + (re)ceptor
 	- ego
 		>> |A person`s sense of self-esteem or self-importance.|
@@ -736,7 +701,6 @@
 	- inpatient 住院病人
 	- oxygen cylinder 氧氣瓶
 	- psychiatric hospital 精神科醫院
-	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
 	- Oral and maxillofacial surgery 口腔頜面外科，該外科主要治理頭部、頸部、臉部、下頜、口腔和頜面部位
 	- plastic surgery 整形手術
 	- saline
@@ -764,10 +728,6 @@
 		> 結紮手術 |Surgery to make a person or animal unable to produce offspring.| she had three children and had undergone sterilization
 	- neonatal 新生的 == Relating to newborn children (or other mammals)
 	- deceased (n)死者 (adj)死亡的
-	- Ebola 伊波拉出血熱，一種由伊波拉病毒引起，多出現於靈長動物身上的人畜共患傳染病。罹患此病的人會在2天至3週內陸續出現發燒、頭痛、肌肉疼痛、嘔吐、腹瀉以及出疹等症狀
-	- Zika 茲卡病毒，是黃病毒科中之黃病毒屬，經由埃及斑蚊傳播，而使受斑蚊叮咬的人罹患茲卡病毒感染症（亦稱寨卡熱）
-	- E. coli == Escherichia coli 大腸桿菌
-	- chlamydia 砂眼衣原體，一種「絕對寄生病原體」，披衣菌是一種在構造上介於細菌和病毒之間的微生物
 	* urine /ˈjʊərɪn/ 尿
 	- urinary /ˈjʊərɪn(ə)ri/ 
 		> 尿的 |Relating to urine.|
@@ -784,7 +744,92 @@
 	- first responder 第一響應者/現場應急人員 == a person with specialized training who is among the first to arrive and provide assistance at the scene of an emergency,
 	- hemp (n)大麻纖維, 大麻藥物
 
+[Disease/Hurt]
+	- acrania 無顱畸形
+	- atrophy
+		> 萎縮 |(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.|
+		> 衰退 |Gradually decline in effectiveness or vigour due to underuse or neglect| the imagination can atrophy from lack of use
+		> |The process of atrophying or state of having atrophied.| gastric atrophy
+	- dysfunction
+		> 官能障礙 |Abnormality or impairment in the operation of a specified bodily organ or system.| 
+		> |Disruption of normal social relations.| 
+	- colic 腹部絞痛 == Severe pain in the abdomen caused by wind or obstruction in the intestines and suffered especially by babies.
+	- appendicitis 闌尾炎/盲腸炎 == A serious medical condition in which the appendix becomes inflamed and painful.
+	- skin caner 皮膚癌，是一種生長在皮膚上的癌症，它是由異常的細胞發展而來，甚至有可能會侵犯擴散到身體不同部位
+	- scoliosis 脊椎側彎 == Abnormal lateral curvature of the spine.
+	- claustrophobia /ˌklɔːstrəˈfəʊbɪə/ 幽閉恐懼症 == Extreme or irrational fear of confined places.
+	- influenza	流感 == flu 
+	- emphysema	/ˌɛmfəˈsimə/ 肺氣腫
+	- glioblastoma multiforme 多形性膠質母細胞瘤
+	- asthma 哮喘
+	- bronchitis /brɑŋˈkaɪdəs/ 支氣管炎
+	- syphilis 梅毒
+	- diabetes 糖尿病 == diabetes mellitus
+	- pancreatitis 胰臟炎 == Inflammation of the pancreas.
+	- upper respiratory infection 上呼吸道感染
+	- pneumonitis /ˌnjuːmə(ʊ)ˈnʌɪtɪs/  肺炎
+	- rhinotracheitis /ˌrʌɪnə(ʊ)treɪkɪˈʌɪtɪs/ 鼻氣管炎
+	- congestive heart failure 充血性心力衰竭/慢性心臟衰竭
+	- arthritis 關節炎 == A disease causing painful inflammation and stiffness of the joints.
+	- phenylketonuria 苯丙酮尿症 <-- phenyl 苯基 + ketone 酮 + -uria
+	- diabetes /dʌɪəˈbiːtiːz/ 糖尿病 == diabetes mellitus
+	- hyperglycemia 高血糖症 == An excess of glucose in the bloodstream, often associated with diabetes mellitus.
+	- ketoacidosis 糖尿病酮症酸中毒
+	+ hypochondriac /hʌɪpə(ʊ)ˈkɒndrɪak/ 憂鬱症患者
+	- schizophrenia /ˌskɪtsə(ʊ)ˈfriːnɪə/ 精神分裂症
+	- autistic (adj)自閉症的 (n)自閉症患者
+	- manic depression 躁鬱症
+	+ paranoia (n)偏執狂/妄想狂, 疑神疑鬼/多疑
+	- rabies /ˈreɪbiːz/ 狂犬病 --> rabid (adj)患有狂犬病的, 瘋狂的
+	- idiot savant 學者症候群 == A person who (unlike a true savant in that s/he is not medically considered mentally disabled or autistic) is extraordinarily gifted in one or two specific areas, yet is still incapable of handling simple, easy tasks or common-sense situations
+	- shingles 帶狀皰疹
+	- body-dysmorphic disorder 體象障礙(BDD)，或稱軀體變形障礙、身體畸形恐懼症，是一種精神障礙，患者過度關注自己的體像並對自身體貌缺陷進行誇張或臆想
+	- sirenomelia 美人魚綜合症，一種非常罕見的先天性缺陷，兩條腿融合在一起，看起來像「美人魚」
+	- Ebola 伊波拉出血熱，一種由伊波拉病毒引起，多出現於靈長動物身上的人畜共患傳染病。罹患此病的人會在2天至3週內陸續出現發燒、頭痛、肌肉疼痛、嘔吐、腹瀉以及出疹等症狀
+	- Zika 茲卡病毒，是黃病毒科中之黃病毒屬，經由埃及斑蚊傳播，而使受斑蚊叮咬的人罹患茲卡病毒感染症（亦稱寨卡熱）
+	- E. coli == Escherichia coli 大腸桿菌
+	- chlamydia 砂眼衣原體，一種「絕對寄生病原體」，披衣菌是一種在構造上介於細菌和病毒之間的微生物
+	- postpartum hemorrhage 產後出血
+	* irritation
+		> 惱怒 |The state of feeling annoyed, impatient, or slightly angry.| much to my irritation, Chris fell asleep
+		> 疼痛/發炎 |Inflammation or other discomfort in a body part caused by reaction to an irritant substance| some chemicals cause a direct irritation to the skin leading to dermatitis
+	- stillborn 死胎的 == (of an infant) born dead
+	- miscarriage
+		> 流產 |The spontaneous or unplanned expulsion of a fetus from the womb before it is able to survive independently.| his wife had a miscarriage
+		> 失敗 |An unsuccessful outcome of something planned.| the miscarriage of the project
+	- traumatize
+		> 使受精神創上 |Subject to lasting shock as a result of a disturbing experience or physical injury.| the children were traumatized by separation from their families
+		> 使受傷 |Cause physical injury to.| the dressings can be removed without traumatizing newly formed tissue
+	- ache /eɪk/ 
+		> 持續性的疼痛 |A continuous or prolonged dull pain in a part of one`s body.| the ache in her head worsened
+		> 疼痛 |Suffer from a continuous dull pain.| my legs ached from the previous day`s exercise
+		> 心痛 |An emotion experienced with painful or bittersweet intensity.| an ache in her heart
+		> 感到悲傷 |Feel intense sadness or compassion.| she sat still and silent, her heart aching
+		> 渴望 |Feel an intense desire for.| she ached for his touch
+	- bruise
+		> 擦傷/瘀青 |An injury appearing as an area of discoloured skin on the body, caused by a blow or impact rupturing underlying blood vessels.|
+		> |Inflict a bruise or bruises on (a part of the body)| I fell and bruised my kne
+		> 碰傷 |A mark indicating an area of damage on a fruit, vegetable, or plant.|
+		> |Cause a bruise or bruises to appear on (a fruit, vegetable, or plant)| the fall bruised several of the ripest bananas
+		> 傷害 |Hurt (someone`s feelings)| I will admit that my pride was bruised by his comment
+		> 搗碎 |Crush or pound (food)| add the beans, tomatoes, and lime wedges and roughly bruise 
+	- ulcer /ˈʌlsə/ (n)潰瘍, 道德腐敗
+	- abscess 膿瘡/潰瘍
+	- distemper
+		> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
+		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
+		> 膠畫法 |A method of mural and poster painting using distemper.|
+		> |Paint with distemper.|
+	- asthma (n)氣喘 --> asthmatic (adj)氣喘的 (n)氣喘患者
+	- kidney stone 腎結石
+	- strabismus 斜視
+	- laceration == A deep cut or tear in skin or flesh.
+	- rheumatoid arthritis /ˈruːmətɔɪd/ 類風濕關節炎
+	- PTSD == Post-traumatic stress disorder 創傷後壓力症候群
+	- Parkinson’s disease 帕金森氏病，中樞神經系統的退行性疾病
+
 [Literature/Media]
+	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
 	- obituary 訃告 == A notice of a death, especially in a newspaper
 	- columnist 專欄作家
@@ -1003,6 +1048,7 @@
 		> 徹底搜查 |Search carefully and systematically.| police combed the area for the murder weapon
 	- prom dress == 舞會禮服
 	- sweatshirt 運動衫
+	- sweatpants 運動褲 == tracksuit bottoms
 	- hazmat suit 危險物品防護服
 	- sportswear 運動裝 == Clothes worn for sport or for casual outdoor use.
 	- turban /ˈtəːb(ə)n/
@@ -1050,6 +1096,12 @@
 	- Dadaist (adj)達達主義的 (n)達達主義者
 	+ ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
 	- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.
+	- pastel /ˈpast(ə)l/ 
+		> 粉蠟筆 |A crayon made of powdered pigments bound with gum or resin.| future issues will demonstrate work with pastels and marker pens
+		> 粉蠟筆畫 |A work of art created with pastels.| a pastel entitled ‘Girl braiding her hair’
+		> 柔和的淡色彩 |A soft and delicate shade of a colour.| the subtlest of pastels and creams
+		> 柔和的/淡的 |Of a soft and delicate shade of colour.| pastel blue curtains
+	- beige /beɪʒ/ 米色 == A pale sandy fawn colour.
 	
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -1176,6 +1228,7 @@
 	- Sikh /siːk/ 錫克教 <--> seek /siːk/ <--> sick /sɪk/ 
 
 [Engineer]
+	- Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
 	- engineer
 		> 技工 |A person who designs, builds, or maintains engines, machines, or structures.|
 		> 設計/建造 |Design and build (a machine or structure)|
@@ -1215,6 +1268,7 @@
 	- ham radio 業餘無線電
 	- dial-up 撥號連線
 	- gadget /ˈɡadʒɪt/ 小工具 == A small mechanical or electronic device or tool, especially an ingenious or novel one.
+	- auralisation, auralization 可聽化，是一種程序，旨在模擬和模擬在虛擬空間中作為聲場呈現的聲學現象的體驗
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1246,7 +1300,11 @@
 	- salutatory /səˈljuːtətəri/ 
 		> 致敬意的/歡迎的 |(especially of an address) relating to or of the nature of a salutation.|
 		> 畢業典禮謝辭 |An address of welcome, especially one given as an oration by the student ranking second highest in a graduating class at a university or college.|
-	
+	- emeritus 榮譽退休 == (of the former holder of an office, especially a university professor) having retired but allowed to retain their title as an honour.
+	- track record 成績記錄 == all the achievements or failures that someone or something has had in the past
+		> The school has an impressive/strong track record of getting its students into good universities.
+	- Montessori 蒙特梭利教育，由義大利心理學家兼教育學家瑪麗亞·蒙特梭利發展起來的教育方法，強調獨立，有限度的自由和對孩子天然的心理、生理及社會性發展的尊重。
+
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.
@@ -1329,8 +1387,12 @@
 		> 全權公使 |A minister plenipotentiary, ranking below ambassador and above chargé d`affaires.|
 	- civil liberties 公民自由
 	- civil rights 公民權 == the rights that each person has in a society, whatever their race, sex, or religion
+	- ambassador /amˈbasədə/ 
+		> 大使/使節 |An accredited diplomat sent by a state as its permanent representative in a foreign country.| the French ambassador to Portugal
+		> 代表 |A representative or promoter of a specified activity.| he is a good ambassador for the industry
 
-[House]
+[House/Furniture]
+	- chore /tʃɔː/ 雜務 == A routine task, especially a household one.
 	- butler == The chief manservant of a house.
 	- manor 莊園 == A large country house with lands.
 	+ cottage 小屋/村舍 == A small house, typically one in the country.
@@ -1353,9 +1415,29 @@
 	- windowsills 窗台
 	- sill 門檻/窗台
 	- doorbell 門鈴
+	- duvet 鴨絨墊 == A soft quilt filled with down, feathers, or a synthetic fibre, used instead of an upper sheet and blankets.
+	- ceiling fan 吊扇
+	- lawn chair 野餐椅
+	- bunk bed 雙層床
+	- beanbag chair 豆袋椅/懶骨頭
+	- countertop 台子
+	- sprinkler 灑水器 == A device that sprays water.
+	- fire extinguisher 滅火器
+	- decking 室外地板 == a floor outside made of wood, or the long pieces of wood used to make this floor
+	- crib
+		> 嬰兒床 |A child`s bed with barred or latticed sides; a cot.|
+		> 槽 |A barred container or rack for animal fodder; a manger.|
+		> 作弊用的夾帶 |A translation of a text for use by students, especially in a surreptitious way.| an English crib of Caesar`s Gallic Wars
+		> 抄襲 |A thing that has been plagiarized.|
+		> 住所/房子/公寓 |A person`s apartment or house.| 
+	- door-scraper 刮泥墊 == a small horizontal bar fixed to the ground near a door where visitors can scrape mud from their shoes before entering
+	- floorboard
+		> 地板 |A long plank making up part of a wooden floor in a building.|
+		> 汽車駕駛室的車底板 |The floor of a motor vehicle.| the keys had fallen on the floorboard of her car
 
 [Structure]
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
+	- apartment complex 公寓大樓 == a group of buildings that contain apartments and are managed by the same company.
 	- rafter 椽 == A beam forming part of the internal framework of a roof.
 	- plumbing
 		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
@@ -1369,14 +1451,13 @@
 		> |The top of the head.|
 		> |A stately building.|
 		> 腫起 |(of stratified rock or a surface) become rounded in formation; swell.|
-	- parlor /ˈpɑːlə/
+	* parlor /ˈpɑːlə/
 		> 客廳 |A sitting room in a private house.| they had lunch in the parlor
 		> 接待室 |A room in a public building for receiving guests.| the mayor`s parlor
 		> 店 |A shop or business providing specified goods or services.| an ice-cream parlor
 	* slum
 		> 貧民窟 |A squalid and overcrowded urban street or district inhabited by very poor people.|
 		> |Spend time at a lower social level than one`s own through curiosity or for charitable purposes.|
-	- decking 室外地板 == a floor outside made of wood, or the long pieces of wood used to make this floor
 	- cemetery 墓地 == A large burial ground, especially one not in a churchyard.
 	- atrium
 		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
@@ -1399,12 +1480,7 @@
 		> 水庫/蓄水池 |A large natural or artificial lake used as a source of water supply.| the more water we use, the more land has to be flooded for reservoirs
 		> 儲藏/積累 |A supply or source of something.| Scotland has always had a fine reservoir of comic talent
 		> 儲液囊 |A population, tissue, etc. which is chronically infested with the causative agent of a disease and can act as a source of further infection.| there is a vast reservoir of herpes infection in the community
-	- crib
-		> 嬰兒床 |A child`s bed with barred or latticed sides; a cot.|
-		> 槽 |A barred container or rack for animal fodder; a manger.|
-		> 作弊用的夾帶 |A translation of a text for use by students, especially in a surreptitious way.| an English crib of Caesar`s Gallic Wars
-		> 抄襲 |A thing that has been plagiarized.|
-		> 住所/房子/公寓 |A person`s apartment or house.| 
+	
 	- gated development == gated community 門禁社區
 	- lookout
 		> 瞭望所/監視哨 |A place from which to keep watch or view the landscape.|
@@ -1425,28 +1501,20 @@
 	- landlord 房東/地主 == A man (in legal use also a woman) who rents out land, a building, or accommodation.
 	- fixer-upper 需要修理後才能再住人的問題房子 == a house that is not in good condition, that someone buys with the intention of working on it, improving it, and increasing its value
 	- abode 住處/住所 == A place of residence; a house or home.
-	- duvet 鴨絨墊 == A soft quilt filled with down, feathers, or a synthetic fibre, used instead of an upper sheet and blankets.
-	- ceiling fan 吊扇
 	- manse
 		> 牧師住宅 |A house provided for a minister of certain Christian Churches, especially the Scottish Presbyterian Church.|
 		> 房子 |A person`s house or home.| she has just returned to her mother and the family manse after being expelled from convent school
-	- lawn chair 野餐椅
 	- guesthouse
 		> 小旅館 |a small, cheap hotel|
 		> 別館 |a small house near a larger one, where guests who are invited to the larger house can stay|
-	- bunk bed 雙層床
 	- pew /pjuː/ 靠背長椅 == A long bench with a back, placed in rows in the main part of some churches to seat the congregation.
-	- beanbag chair 豆袋椅/懶骨頭
 	- penthouse 空中別墅
 	- eaves 簷 == The part of a roof that meets or overhangs the walls of a building.
 	- rubble 瓦礫堆/粗石 == Waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.
-	- countertop 台子
 	- drainage
 		> 排水 |The action or process of draining something.|
 		> 排水系統 |A system of drains.|
 	- attic 閣樓 == A space or room inside or partly inside the roof of a building.
-	- sprinkler 灑水器 == A device that sprays water.
-	- fire extinguisher 滅火器
 	- cornice /ˈkɔːnɪs/ 
 		> 飛簷 |An ornamental moulding round the wall of a room just below the ceiling.|
 		> 楣 |A horizontal moulded projection crowning a building or structure, especially the uppermost member of the entablature of an order, surmounting the frieze.|
@@ -1455,7 +1523,6 @@
 		> 鷹架 |A temporary structure on the outside of a building, made of wooden planks and metal poles, used by workmen while building, repairing, or cleaning the building.| two of the shops had scaffolding against them
 		> 鷹架材料 |The materials used in scaffolding.| a truck carrying scaffolding
 	- urinal /jʊˈrʌɪnəl/, /ˈjʊərɪn(ə)l/ 小便斗 == A bowl or other receptacle, typically attached to a wall in a public toilet, into which men may urinate.
-	- door-scraper 刮泥墊 == a small horizontal bar fixed to the ground near a door where visitors can scrape mud from their shoes before entering
 	- porch 門廊 == A covered shelter projecting in front of the entrance of a building.
 	- terraced houses 排屋，是住宅的一種式樣，由多幢相連的雙層或多層房屋組成，一排排屋之內相鄰的房屋共用同一堵牆
 	- alleyway 小巷
@@ -1534,6 +1601,14 @@
 	- gymnastics 體操 == Exercises developing or displaying physical agility and coordination. The modern sport of gymnastics typically involves exercises on bars, beam, floor, and vaulting horse.
 	- footrace 賽跑 == A race between runners; a running race.
 	- victory lap 繞場一圈慶祝勝利
+	- hurdle
+		> 跳欄 |One of a series of upright frames over which athletes in a race must jump.| a hurdle race
+		> hurdles 跨欄賽跑 |A hurdle race.| the 100 m hurdles
+		> 參加跨欄比賽 |Take part in a hurdle race.| this gelding hurdled fluently
+		> 跨過 |Jump over (a hurdle or other obstacle) while running.| all 450 runners had hurdled the barriers
+		> 障礙/困難 |A problem or difficulty that must be overcome.| many would like to emigrate to the United States, but face formidable hurdles
+		> 障礙賽馬 |A horse race over a series of hurdles.| a handicap hurdle
+		> 以柵欄圍 |Enclose or fence off with hurdles.| a maze of individual hurdled pens
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
@@ -1548,7 +1623,6 @@
 	- erotica 情色作品 == Erotic literature or art.
 	* trippy 不清醒的 == Resembling or inducing the hallucinatory effect produced by taking a psychedelic drug.
 	* orgasm (n/v)性高潮 == The climax of sexual excitement
-	- cottage industry 家庭代工
 	- nonbinary == gender fluid == gender expansive 性別酷兒，為一群自我性別認同類型的統稱，用來指稱「不單純歸屬於」傳統上的男性或女性之性別特質之自我性別認同
 	- gender norms 性別角色 == a behavior or attribute that society attributes to a particular sex
 	- tranny
@@ -1558,7 +1632,6 @@
 	- faggot /ˈfaɡət/
 		> 同性戀 |A male homosexual.|
 		> 捆柴 |A bundle of sticks bound together as fuel.|
-	- outfitter 旅行用品商店
 	- Kleenex 舒潔
 	- Velcro 魔鬼氈 == hook-and-loop fastener
 	- ChapStick 潤唇膏
@@ -1583,11 +1656,11 @@
 	- narco
 		> 毒品 |Narcotics; illegal drugs.| the multi-billion dollar narco trade
 		> 毒販 |A drug trafficker or dealer.|
-	- modeling agency 模特兒公司 == company that represents fashion models, to work for the fashion industry
-	- boutique consulting firm 小型商業諮詢公司
 	- dry drunk 酒精成癮者 == an alcoholic who is not currently drinking alcohol but is still following an irregular undisciplined lifestyle like that of a drunkard
 	- Breathalyzer 酒測儀
-	- bouncer 保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
-	- lumberjack 伐木工人
-	- undertaker 殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
+	- masturbation /mastəˈbeɪʃən/ 手淫
+	- masturbate
+		> 對……行手淫 |Stimulate one`s genitals with one`s hand for sexual pleasure.| we do not like to admit that we masturbate
+		> 手淫 |Stimulate the genitals of (someone) to give them sexual pleasure.| they masturbated each other in the long grass below the tennis courts
+	- gypsum /ˈdʒɪpsəm/ 石膏
 	

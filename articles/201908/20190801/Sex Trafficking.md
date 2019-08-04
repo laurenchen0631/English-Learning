@@ -21,7 +21,7 @@ One of the spas would avoid being shut down altogether. The one person charged w
 		> 訴諸 |Invoke (a reason or a point of law) as an accusation or defence.| on trial for attempted murder, she pleaded self-defence
 		> 以..為理由 |Offer or present as an excuse for doing or not doing something.| ‘he pleaded family commitments as a reason for not attending
 Police across the nation have touted sex spa stings for years as evidence that they are cracking down on rampant human trafficking. The publicity surrounding these operations hit a high in February in raids in South Florida that led to charges against New England Patriots owner Robert Kraft, who police said was caught on video paying for sex acts.
-	- sting
+	- sting -> stung -> stung
 		> 刺 |A small sharp-pointed organ at the end of the abdomen of bees, wasps, ants, and scorpions, capable of inflicting a painful or dangerous wound by injecting poison.|
 		> 刺/叮 |Wound or pierce with a sting.| he was stung by a jellyfish
 		> 螫 |Any of a number of minute hairs or other organs of plants, jellyfishes, etc., which inject a poisonous or irritating fluid when touched.| a nettle-like plant with no sting
@@ -37,7 +37,7 @@ But a USA TODAY review of three high-profile raids – the one in Miami Beach an
 	- fizzle
 		> 發嘶嘶聲 |Make a feeble hissing or spluttering sound.| the strobe lights fizzled and flickered
 		> 嘶嘶聲 |A feeble hissing or spluttering sound.|
-		> 失敗|End or fail in a weak or disappointing way.| their threatened revolt fizzled out at yesterday's meeting’
+		> 失敗 |End or fail in a weak or disappointing way.| their threatened revolt fizzled out at yesterday's meeting’
 		> 失敗 |A failure.| in the end the fireworks were a fizzle
 	- plead down 減輕刑責 == to have the charge reduced to a lesser one
 	- higher-up 高層人物/要員 == someone with a more important position than you in an organization
@@ -52,7 +52,7 @@ But a USA TODAY review of three high-profile raids – the one in Miami Beach an
 Polaris estimated that 9,000 illicit massage parlors operate in the USA based on reviews on Rubmaps, a Yelp for sex spas, bringing in about $2.5 billion a year.
 Hints of a broader organization not touched by law enforcement stings hover beneath the surface. Through a search of thousands of Florida public records ranging from corporate filings to massage licenses, USA TODAY found connections among more than a third of the 41 spas raided in the three recent operations alone, and links from them to a larger network of potentially suspect massage parlors all over the state.
 	- filing
-		> 存檔，歸檔 |the activity of putting documents, electronic information, etc. into files| a filing cabinet
+		> 存檔/歸檔 |the activity of putting documents, electronic information, etc. into files| a filing cabinet
 		> 存檔檔案/歸檔紀錄 |an official record of something| a bankruptcy filing
 		> 銼屑 |small pieces of metal that are removed from a larger piece by filing|
 Prosecutors defend their track record by noting that a felony trafficking charge is just one tool in their toolbox. Because of the difficulty of getting victims to cooperate, they can look to alternatives that do not require proof that a victim was coerced, such as racketeering or money laundering.
@@ -75,7 +75,7 @@ After each of two summer raids in Hollywood, the department released a poster wi
 		> 海報 |A large printed picture used for decoration.|
 		> 廣告/布告 |A large printed picture, notice, or advertisement displayed in a public place.| a poster campaign
 		> 貼文者 |A person who publishes something online, typically on a blog or social media website or application.|
-		> 張貼 |Put up posters in an area.| illegal postering in downtown Montreal’
+		> 張貼 |Put up posters in an area.| illegal postering in downtown Montreal
 “We will continue to crack down on these types of businesses, which are used as fronts for prostitution,” Police Chief Tomas Sanchez said in a news release. “These massage parlors breed other criminal activities, including human and sex trafficking, drug sales and money laundering.”
 By the time police completed the second operation, they had charged at least 30 women with prostitution.
 Though the case in which Kraft was charged continues, it’s followed the same trajectory.
@@ -140,7 +140,7 @@ Law enforcement faced challenges in the case, including deciphering business pap
 		> 以柵欄圍 |Enclose or fence off with hurdles.| a maze of individual hurdled pens
 Without their testimony, Fernandez Rundle said, there was no way to prove they had been forced into prostitution.
 Richard Hull joined Miami Beach police on their raid in 2017, representing the citizen’s police advisory board that wanted the spas flushed from their neighborhood. One of the spas, Jade Massage, shared an alley with a private school.
-	- advisory board  顧問委員會
+	- advisory board 顧問委員會
 Seeing the conditions the women “lived, ate, slept (and) worked in” altered Hull’s perspective.
 “You have kids going to a Montessori school at $18,000 a year, and you have some poor girl coming here as a slave not able to leave the place of work in the same block,” Hull said. “It shouldn’t be happening in this country.”
 	- Montessori 蒙特梭利教育，由義大利心理學家兼教育學家瑪麗亞·蒙特梭利發展起來的教育方法，強調獨立，有限度的自由和對孩子天然的心理、生理及社會性發展的尊重。
@@ -220,11 +220,6 @@ Li said she works with only a handful of spa clients and does not know of any il
 “I'm not running the business, and I'm not even in the business, so how can I?” she said. “We just have bookkeeping for whatever the client is.”
 Regardless of intent, the churn complicates matters for law enforcement.
 	+ churn
-		> 攪乳器 |A machine for making butter by shaking milk or cream.|
-		> 攪拌 |Shake (milk or cream) in a machine in order to produce butter.| the cream is ripened before it is churned
-		> 翻騰 |(with reference to liquid) move or cause to move about vigorously.| her stomach was churning at the thought of the ordeal
-		> 隆起 |Break up the surface of (an area of ground)| the earth had been churned up where vehicles had passed through
-		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
 On the night of the Miami Beach raid, police cordoned off Lulu Massage with yellow tape, its “OPEN” sign still lit but its doors shut.
 	- cordon
 		> 封鎖線 |A line or circle of police, soldiers, or guards preventing access to or from an area or building.|
@@ -281,7 +276,7 @@ Nearly two years later, Operation Spa LLC is nearly concluded, with sentences fo
 An “open” sign hung in the window of Asian Massage of Naples on Davis Boulevard in April. Yujiao Zhan said she owned the place and another location, Jade Spa in Cape Coral. Zhan said ownership of the two parlors changed “about a year ago. It is a new place.”
 The corporation listed on both of their business massage licenses formed a month after the raid. That LLC’s primary operating address is the location of a third spa in Naples.
 All three spas have been reviewed on Rubmaps in the past six months. One customer of Asian Massage of Naples in January used the abbreviation of a slang term for masturbation: “She asked if I would like anything extra. Asked about prices. Went back and forth one time and settled for a HJ.”
-	- masturbation /mastəˈbeɪʃ(ə)n/  手淫
+	- masturbation /mastəˈbeɪʃ(ə)n/ 手淫
 	- HJ == handjob
 In 2017, agents made one of their arrests at Jade Spa, where they said a woman worker had negotiated to masturbate an undercover officer for $60. Today, a red neon sign illuminates its name in one storefront of a beige strip mall on a major thoroughfare and behind a preschool.
 	- masturbate

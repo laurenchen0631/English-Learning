@@ -718,7 +718,7 @@
 			+ counteract (v)對抗/抵銷 = act against == neutralize
 			+ countermand
 			+ counterintuitive (adj)反直覺的/反常識的
-			+ counterproductive (adj)事與願違的/適得其反的
+			+ counterproductive (adj)產生反效果的/適得其反的
 
 		2. 補足 = complementary
 			- counterbalance (v)使平衡/彌補 = offset = compensate = recompense = indemnify
@@ -763,6 +763,7 @@
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
 		+ cursory (adj)倉促的/匆忙的 = hasty = superficial
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
+		- concourse (n)中央大廳, 群, 匯合/集合
 		*** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
 		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
@@ -1003,7 +1004,7 @@
 		- aristocracy (n)貴族, 貴族統治/貴族政府 --> aristocratic (adj) <-- aristo 最好的 = best + cracy
 		- autocrat
 		+ democracy --> democratic --> democratize
-		- bureaucracy (n)官僚政治
+		- bureaucracy (n)官僚政治, 官僚組織, 官僚, 繁文褥節
 		- gerontocracy
 		+ plutocracy
 		- technocrat
@@ -2236,6 +2237,7 @@
 		+ prefer (v)更喜歡/寧願, 提出(控告等) --> preference (n)偏愛/偏袒, 優先
 		*** refer (v)提交/交付, 論及/談到, 查閱/參考, 不及格
 		- referee (n)裁判員/仲裁者
+		- referral (n)提及, 轉診, 轉診病人 
 		- somniferous
 		- melliferous
 		- transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n) 
@@ -3585,6 +3587,7 @@
 		+ misattribute (v)誤歸功於
 		- misbehavior (n)不禮貌/品行不端
 		- misconception (n)誤解
+		- misdemeanor (n)小錯, 輕罪
 		- misdeed (n)惡行/罪行
 		- misfit (n)與社會脫節的人
 		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
@@ -4536,7 +4539,7 @@
 		- purchase (n)支點/槓桿, 緊抓/緊繫, 購買/所購之物 (v)購買, 贏得/獲得
 		- purlieu (n)郊區, 常逗留之地 <-- pur + lieu 場所 = place
 		- purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
-		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/號稱的/傳說的 = reputed
+		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/號稱的/傳說的 = reputed --> purportedly (adv)據稱
 		- purpose (v)決定/決意 = resolve, 意圖 = intend (n)意圖/目的 = intention, 決心 = resolution = determination, 議題
 		- pursue (v)追趕/追求/追蹤 = follow
 
@@ -5140,7 +5143,7 @@
 		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇
 		- prerequisite (n)先決條件
 		- request (n/v)要求/請求
-		+ requisite (adj)必要的/必需的 = indispensable = essential (n)必需/必要
+		+ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物
 
 	queath, quest 説 = say == dic == fable == log == ore
 		+ bequeath (v)遺贈, 傳下/留下 --> bequest (n)遺產
@@ -5175,6 +5178,7 @@
 			- redemptive (adj)贖回的/救贖的/救世的
 			- redirect (v)改寄/轉發, 改變方向
 			- redistribution (n)重新分配
+			- redo (v)再做 (n/v)改裝
 			+ redolent (adj)令人想起……的 = reminiscent, 芬芳的/芳香的 = aromatic = scented <|> indolent <-- red + ol 聞 = smell + ent
 			+ redouble (v)使加倍/加強
 			+ redoubtable (adj)可敬畏的 = formidable
@@ -5423,7 +5427,7 @@
 		++ disruptive (adj)引起混亂的, 創新的
 		- erupt (v)噴出 = spout, 爆發, 發疹, 長牙
 		- interrupt (v)打斷, 短暫中止
-		- rupture (n/v)破裂/斷裂
+		- rupture (n/v)破裂/使破裂, 有疝氣, 使不和 (n)疝氣, 不和
 
 	rate 責罵 = chide, scold
 		^ berate (v)嚴責/訓斥 = criticize
@@ -5534,6 +5538,7 @@
 	sub, sus, sur, suc, suf, sur, sus
 		1. 下 = under, below, beneath
 			- resuscitate
+			- sub (n)潛水艇, 潛艇堡, 替換成員 (v)替換, 審校
 			* subdue
 			- subject
 			- subjugate
@@ -5819,6 +5824,7 @@
 		+ insult (n/v)侮辱/謾罵 = abuse = indignity = affront
 		- resile (v)彈回, 恢復原形/恢復活力 --> resilient (adj)有彈性的, 能恢復活力的/適應力強的 --> resilience (n)彈性/彈力
 		+ salient (adj)重要的/值得注意的 = noticeable = conspicuous = prominent, 顯著的/突出的, 凸角的 (n)凸角, 戰線的突出部
+		- /ˈseɪlɪəns/ salience (n)突出/特點
 		- sultry (adj)悶熱的, 易怒的, 撩人的
 
 	semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
@@ -5899,7 +5905,8 @@
 		- executor (n)執行者, 遺囑執行人
 		- consecutive (adj)連續不斷的
 		- persecute (v)迫害, 騷擾 = harass = distract = pester
-		- prosecute (v)告發/檢舉 --> prosecution (n)起訴/告發/檢舉, 實行/經營/執行
+		- prosecute (v)告發/檢舉 <|> persecute --> prosecution (n)起訴/告發/檢舉, 實行/經營/執行
+		- prosecutor (n)檢察官, 告訴律師
 
 	sent, sens, scent 感覺 = feel
 		* assent (v)同意/贊成 = accede = accord = consent
@@ -5942,7 +5949,7 @@
 		- reside (v)居住 --> resident (n)居民 (adj)定居的/常駐的
 		- residue (n)剩餘 --> residual (adj)殘餘的/剩餘的 <-- reside
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
-		+ sedentary (adj)久坐的
+		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
 		- sediment (n)沈澱物/渣
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
 		+ subside (v)消退/消失/平息 = lull, 下陷/沉降/沉澱
@@ -6208,7 +6215,7 @@
 	trans, tra, tres
 		1. 穿過 = across, through
 			- trajectory
-			- trance (n)恍惚/昏睡狀態
+			- trance (n)催眠狀態, 恍惚/出神 (v)使昏睡
 			+ transcend --> transcendent
 			- transcendental
 			+ transgress --> transgression
@@ -6314,7 +6321,8 @@
 		+ pretense (n)假裝 = veil, 矯飾 (n)假裝, 做作
 		+ pretension (n)自命不凡, 藉口, 假裝/做作 --> pretentious (adj)自負的/自命不凡的, 矯飾的/做作的
 		- superintend (v)監督 = supervise
-		- tension (n)緊張/焦慮, 張力
+		- tension (n)拉緊, 繃緊, 張力, 電壓, 緊張, 緊張局勢, 取捨 (v)使拉緊/使繃緊
+
 	
 	tempt 嘗試/探查 = probe, feel, test
 		+ contempt (n)蔑視/鄙視/輕視/輕蔑 = scorn = disdain, 藐視法庭罪, 恥辱/丟臉 = disgrace = opprobrium
@@ -6621,7 +6629,7 @@
 		- unprovoked (adj)未受挑釁的/無緣無故的(生氣等)
 		++ unqualified (adj)無資格的, 無限制的/絕對的 = sheer = absolute = complete
 		- unrealized (adj)無法實現的, 無法兌現的
-		* unravel (v)解開/拆開, 揭開/闡明/解開, 破壞
+		* unravel (v)解開/拆開, 破壞, 揭開/闡明/解開
 		- unregenerate (adj)不知悔改的
 		- unregulated (adj)未受管理的/未受約束的
 		* unrelenting (adj)堅定的/不退讓的
@@ -6885,6 +6893,7 @@
 
 	vis 看 = see
 		- envision (v)想像/展望
+		- envisage (v)想像/設想, 想像 
 		+ improvise (v)即興創作/即興表演/臨時做 = extemporeize = vamp --> improvisation (n)
 		* improvised (adj)即興的, 權宜的/臨時代用的
 		+ revise (n/v)修訂/修正 = amend = alter, 復習/溫習 = review

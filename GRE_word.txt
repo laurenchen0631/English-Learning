@@ -834,7 +834,7 @@
     ^ entrée (n)主菜, 獲准進入的權力或特權/入場權
     ^ epic (n)敘事詩, 史詩 (adj)史詩的, 英雄的/壯麗的
     ^ equine (adj)馬的 <-- equ 馬 = horse + ine
-    ^ errand (n)差使, 任務
+    ^ errand (n)差使, 使命
     ^ escalade (n)攀登 (v)以梯子攀登 <-- e + scale 梯子 = ladder + ade
     ^ escalator (n)自動樓梯/電扶梯
     ^ esophagus (n)食管/食道
@@ -932,7 +932,7 @@
         
     * facsimile (n/v)摹寫
     * faint (adj)頭暈的, 微弱的/暗淡的 = dim = wan = opaque, 虛弱的 = feeble, 膽小的 = timid (v)昏厥, 變得沒氣力
-    * fare (n)票價/費用, 乘客, 伙食 (v)進展, 吃, [古]旅行
+    *** fare (n)票價/費用, 乘客, 伙食 (v)進展, 吃, [古]旅行
     * fascinate (v)吸引/迷住 = attract = captivate = mesmerize = hypnotize
     * fast (n)絕食, 齋戒 (adj)快的, 牢的/緊的, 可靠的 (adv)快, 緊緊地
     * fasten (V)扣緊/繫牢/固定, 紮好, 關緊
@@ -2547,7 +2547,7 @@
     + slapdash (ADJ/ADV)草率的/倉促馬虎的
     +++ slight (adj)輕微的/微小的, 不重要的/微不足道的 = trivial, 瘦的 = slender = thin, 脆弱的 = frail = flimsy = delicate (V)輕視, 怠慢, 草率地做 = scamp (n)冒犯 = affront
     ++ slippery (adj)滑的, 不穩的 = unstable, 不精確的 = ambiguous = elusive, 狡猾的 = tricky = cunning
-    + sloth (n)懶散/怠惰 = indolence, 樹懶 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
+    + sloth (n)懶散/怠惰 = indolence, 樹懶, 熊群 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
     + smattering (n)略知, 少量
     + snide (adj)暗諷的/含沙射影的 = allusive, 卑鄙的 (n)卑鄙的人
