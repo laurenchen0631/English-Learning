@@ -269,7 +269,7 @@
 		- anima (n)生命/靈魂
 		- animate (adj)活的 = alive (v)賦予生命, 使有活力, 激勵/鼓舞 
 		- animus (n)敵意/憎恨 = enmity = animosity = wrath, 意圖/動機 = disposition = intention = motivation
-		* animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
+		+ animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
 		+ equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium
 		- inanimate (adj)無生命的
 		+ magnanimous (adj)寬宏大量的/大度的 = generous, 高尚的 = high-minded = noble = lofty 
@@ -898,7 +898,7 @@
 		+ recant (v)毀棄陳諾/反悔 = withdraw = retract = disavow --> recantation (n)改變宗教信想/改變論調
 
 	col 脖子 = neck
-		- accolade (n)讚賞 = appreciation = kudos
+		+ accolade (n)讚賞 = appreciation = kudos
 		- collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
@@ -1216,7 +1216,7 @@
 
 	concil 協商 = council
 		+ /kənˈsɪlɪeɪt/ conciliate (v)安撫/調停/和解 = placate = pacify = reconcile = propitiate --> conciliatory (adj)願意和解的/調停的
-		* /ˈrɛk(ə)nsʌɪl/ reconcile (v)調和/調解/使和解 = conciliate, 使甘於/使接受(不好的事)
+		+ /ˈrɛk(ə)nsʌɪl/ reconcile (v)使和好, 調停/調解 = conciliate, 調和/使一致, 使(帳目)一致
 		- reconcilable (adj)可和解的/能共處的 = compatible
 		- irreconcilable (adj)互相對立的/不相容的
 
@@ -2026,7 +2026,7 @@
 			- episode (n)一個事件, 一節, 一集 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
 			* epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)作為...的縮影/代表/象徵 <-- epi + tome 卷/冊 
 			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = short-lived = transitory, 僅一天的 --> ephemeron (n)短暫之事物 <-- ep + hemer 日 = day + al
-			- epigram
+			+ epigram
 			- epilogue
 
 	err 錯誤 = errant
@@ -2080,7 +2080,7 @@
 		+ quintessential (adj)典型的 = typical
 
 	ethno, ethn 種族/文化 = race, culture
-		- /ˈɛθnɪk/ ethnic (adj)種族的/民族的 人種學的 <|> ethic
+		- /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
 		- /ɛθˈnɪsɪti/ ethnicity (n)種族特徵
 		- ethnology (n)民族學/文化人類學
 		+ ethnocentric (adj)民族中心主義的/種族優越的
@@ -2516,7 +2516,7 @@
 		- diagram
 		- discography (n)音樂作品集, 音樂唱片分類目錄/音樂唱片分類學 <-- disc 錄音/唱片 + o + graphy
 		- engram (n)記憶痕跡 = memory trace
-		- epigram (n)警句, 諷刺短詩
+		+ epigram (n)警句, 諷刺短詩
 		- glossography (n)註釋寫作
 		- graphic (adj)圖解的/圖表的, 生動的/寫實的 = vivid
 		- graphite (n)石墨
@@ -3643,7 +3643,7 @@
 		+ maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
 		++ /ˈmalədi/ malady (n)疾病 = disease = ailment, 問題/弊病 <|> /ˈmɛlədi/ melody
 		- /maˈleɪz/ malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
-		- malaprop, malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
+		+ malaprop, malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
 		- malcontent (adj)不滿的/反抗的 = dissatisified = rebellious (n)不滿份子/不滿現狀者/反抗者 <-- mal + content
 		+ malediction
 		- malevolent
@@ -3718,7 +3718,7 @@
 		- microorganism (n)微生物/細菌 = bacterium
 		- microscope (n)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
 		+ microcosm (n)人類, 小宇宙/縮影/微觀世界 <--> macrocosm <-- micro + cosmo
-		- miniature (n)縮樣/微型畫 (adj)小型的
+		- miniature (n)縮樣/微型畫 (adj)小型的 --> miniaturize (v)使小型化/使微型化 --> miniaturization (n)微型化
 		- minikin (n)嬌小的動物或人 (adj)微小的 = small = insignificant
 		+ minimal (adj)最小的/極微的/最低限度的/最低限度的
 		+ minimize (v)使減到最少或最小 <--> maximize, 輕視 = belittle
@@ -3823,7 +3823,7 @@
 		- mend (v)修復 = repair, 治癒 = heal, 改善 = improve, 把油加入 (n)修繕部位
 		- mendable (adj)可修復的/可治癒的/可改善的
 		- mender (n)修理者/修補者
-		+ mendicant (n)乞丐 = beggar (adj)行乞的
+		+ mendicant (n)乞丐 = beggar = pauper (adj)行乞的
 
 	mnes, mnemo, memor 記得 = remember, mindful
 		- amnesia (n)健忘症, 失憶症
@@ -4121,6 +4121,7 @@
 			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑<-- ob + fusc 黑暗 = dark + ate
 			+ obligate --> obligatory 
 			* obligation
+			*** oblige
 			- obnoxious
 			+ obsequious
 			+ observe --> observation
@@ -4280,7 +4281,7 @@
 	oper 做/工作 = work
 		- operate (v)工作/運作/營運/起作用, 動手術 <-- oper 工作 = work + ate
 		- operative (adj)實施中的/起作用的/有效的 = working = effective, 手術的 (n)工人, 偵探/間諜
-		- operose (adj)費力的/艱苦的 = onerous = taxing
+		- operose (adj)費力的/艱苦的 = onerous = taxing = arduous = laborious
 		- opus -> opuses/opera (n)著作/編號的音樂作品, 作品/傑作
 		- opera (n)歌劇, 歌劇院
 		- /ɒpəˈrɛtə/ operetta (n)小歌劇/輕歌劇
@@ -4368,6 +4369,7 @@
 		- prescribe --> prescription
 		*** presentation (n)贈送/授予, 呈現/表現, 發表/發表會, 介紹/引見
 		- presenter (n)頒獎人/主持人
+		+ presentiment
 		+ preserve --> perservative
 		- preside
 		+ prestige --> prestigious
@@ -4382,7 +4384,6 @@
 		+ prevent
 		- preview (n/v)預展/預演 (v)預看/預習/預覽, 預先評論
 		- previous 
-		+ presentiment
 
 	pro 向前/先前 = forward, forth, before
 		- proactive (adj)主動的/先發制人的
@@ -4410,6 +4411,7 @@
 		- progeny
 		- prognosis
 		+ prohibit --> prohibitive
+		- project
 		- projectile
 		- projection
 		- projector
@@ -4452,7 +4454,7 @@
 		- provision --> provisional
 		- provisory
 		+ provoke --> provocation --> provocative
-		+ reciprocate --> reciprocity --> reciprocal (adj)相互的/互惠的
+		+ reciprocate --> reciprocity --> reciprocal
 
 	prodig 巨大/奇蹟 = extravagant, marvel
 		+ prodigal (adj)揮霍的 = profligate = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
@@ -4468,7 +4470,6 @@
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
 			- perfect
 			- persuade
-			- percept
 			* percept --> perception
 			+ perceptible
 			+ /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
@@ -4520,42 +4521,44 @@
 		- periscope (n)潛望鏡
 
 	prim, prior, prist, princip 最早的/最好的 = first, prime
-		- prim (adj)端莊的/整潔的 = decent = neat = trim
-		- primate (n)靈長類動物 
-		- prime (n)全盛時期 (adj)最初的/原始的, 最好的/第一流的/主要的
+		- /prɪm/ prim (adj)端呆板的/拘謹的
+		- /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
+		- prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥 塗底漆, 啟動(幫補), 上油
+		- primeval
 		- primp (v)刻意打扮/精心打扮
 		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
-		+ primitive (adj)原始的/遠古的/粗糙的/純樸的
-		+ primordial (adj)原始的/最初的/根本的 = original
-		- principle (n)原則/原理, 道德準則
-		- principal (adj)主要的/重要的 = prime
-		- priotity (n)在先/居前, 優先權 = privilege
-		+ /ˈprɪstiːn/ pristine (adj)太古的, 清新的/純樸的/未受污染的 = untouched = uncorrupted
+		+ primitive (adj)原始的/遠古的, 原始的(情感), 純樸的/自然的(藝術), 粗糙的/簡單的, 原來的 = original (n)原始人, 文藝復興以前的藝術家/風格純樸的藝術家, 風格純樸的作品, 原詞/根詞
+		+ primordial (adj)原始的/最初的 = original = primeval, 根本的/基本的 = baisc
+		- /ˈprɪnsɪp(ə)l/ principle (n)原則/道義/節操, 原理, 起源/本源
+		- /ˈprɪnsɪp(ə)l/ principal (adj)主要的/首要的 = prime, 資本的/本金的 (n)校長/社長/首長, 資本/本金, 主要演員/主角, 犯罪當事人
+		- /ˈprʌɪə/ prior (adj)在先的/在前的 (n)前科, 小修道院院長/大修道院副院長
+		- priority (n)優先/重點/優先權, 優先考慮的事/優先事項
+		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt  = untouched, 清新的/未受污染的 = uncorrupted = spotless
 
 	priv 個人/搶奪 = private, rob
-		+ deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)免職/剝奪, 匱乏/貧困 = privation <|> deprave
-		- privacy (n)獨處, 隱私
-		+ privation (n)剝奪, 被剝奪的狀態/喪失/缺乏
-		- privative (adj)剝奪的
+		+ deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)匱乏/缺乏 <|> deprave
+		- privacy (n)清靜, 隱私
+		+ privation (n)缺乏, 貧困/匱乏
+		- privative (adj)匱乏的/缺乏的, 表示缺少的/否定的(字詞) 
 		+ privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
 
 	pur 附近 = around
-		- purchase (n)支點/槓桿, 緊抓/緊繫, 購買/所購之物 (v)購買, 贏得/獲得
-		- purlieu (n)郊區, 常逗留之地 <-- pur + lieu 場所 = place
-		- purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
-		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/號稱的/傳說的 = reputed --> purportedly (adv)據稱
-		- purpose (v)決定/決意 = resolve, 意圖 = intend (n)意圖/目的 = intention, 決心 = resolution = determination, 議題
-		- pursue (v)追趕/追求/追蹤 = follow
+		- purchase (v)購買 (n)購買, 所購之物 , 支點/槓桿, 緊抓/緊繫
+		- /ˈpəːljuː/ purlieu (n)郊區, 常逗留之地/常去的地方 = haunt <|> milieu <-- pur + lieu 場所 = place
+		-/pəːˈlɔɪn/ purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
+		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/據稱的 = reputed = alleged --> purportedly (adv)據稱
+		- purpose (v)決意/打算 = resolve = intend (n)意圖/目的 = intention, 決心 = resolution = determination
+		- pursue (v)追趕/追蹤 = follow, 向……求愛, 追求, 沿著...走, 從事 = engage in, 繼續探索研究
 
 	pene, pen 近似 = almost
 		+ impenetrable
 		- peninsula
-		- penultimate (adj)倒數第二的
+		- penultimate (adj)倒數第二的 = second last <-- pen + ultimate
 		+ penumbra
 	
 	pend, pens 掛/秤重 = hang, weigh
 		- append (v)附加/增補
-		- depend (v)取決於
+		- depend (v)取決於, 依靠/依賴
 		+ dependable (adj)可靠的 = reliable
 		+ compensate (v)賠償/補償/彌補 = indemnify = recompense = offset = counterbalance = wage --> compensation (n)賠償/補償 = reparation = amends
 		+ compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
@@ -4699,7 +4702,7 @@
 
 	plac 平靜/安撫/滿足 = quiet, calm, appease
 		+ complacent (adj)自滿的/得意的 = self-satisfied = smug <|> complaisant --> complacency (n)自滿
-		+ implacable (adj)難以平息的 = inexorable, 堅定的/無法改變的 = inflexible = intractable
+		+ implacable (adj)難以平息的 = inexorable, 無法阻止的 = relentless
 		+ /pləˈkeɪt/ placate (v)平息/安撫 = soothe = appease = pacify = conciliate
 		+ placid (adj)寧靜的/平和的 = calm
 		- placebo (n)安慰劑
@@ -6582,7 +6585,7 @@
 		- uncommitted (adj)不受約束的/不承擔責任的
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
 		* unconcerned (adj)不擔心的/漠不關心的/無興趣的 = blase
-		+ unconscionable (adj)不合理的 = unreasonable, 不合理地多的
+		+ /ʌnˈkɒnʃ(ə)nəbəl/ unconscionable (adj)不合理的 = unreasonable, 不合理地多的
 		- unconscious (adj)不省人事的, 下意識的, 沒有意識到的
 		* uncouth (adj)粗野的/粗魯的/笨拙的 = gauche
 		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick
@@ -6769,7 +6772,7 @@
 		+ verifiable (adj)可證實的/可檢驗的
 		+ verisimilar (adj)好像是真的/好像有道理的 --> verisimilitude (n)逼真
 		- verity (n)真實/事實 = truth, 信念/真理
-		+ veritable (adj)確實的/名副其詞的 
+		+ veritable (adj)真可稱得上的/真正的/名副其詞的 
 
 	verb 話語 = word
 		+ verbal (adj)口頭的, 與言詞有關的
