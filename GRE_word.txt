@@ -1273,6 +1273,7 @@
     + /ˌhɑːfˈhɑːtɪd/ halfhearted (adj)不認真的/興趣不大的
     + hallmark (n)金銀上的純度印記, 特徵 = quirk, 品質證明/戳記
     + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow <|> /həˈləʊ/ hello --> hallowed (adj)神聖的 = holy = sacred 
+    + harry (v)反覆地襲擊, 不斷煩擾 = harass --> harried (adj)彷彿不斷被騷擾的/忙碌的 = harassed
     ++ /ˈharəʊ/ harrow (n)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)悲痛的/難受的 = distressing = terrifying = upsetting
     ++ halt (v)暫停/終止 = stop = cease, 蹣跚/結巴 = falter --> halting (adj)躊躇的/猶豫的, 結結巴巴的, 跛的/蹣跚的
     ++ hamper (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose = check = arrest = deter = stymie (n)有蓋提籃, 障礙物/束縛
@@ -1479,6 +1480,7 @@
     ++ /dʒʌɪb/ jibe, gibe (v)使一致/同意 = accord = agree, 嘲弄 = gibe = mock = flout = scoff = taunt = deride = jeer = gird = jest (n)嘲諷話 = gibe
     + jingo (adj)侵略性沙文主義的 (n)侵略性沙文主義者 <|> lingo --> jingoism (n)侵略沙文主義 = bellicose chauvinism 
     ++ /ˈdʒɒki/ jockey (n)騎師 (v)用計謀獲取/耍手段圖謀 = trick = cheat
+    + jovial (adj)愉快的
     + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult --> jubilation (n)歡騰/歡慶 = triumph --> jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
     + juggernaut (n)駭人的毀滅力量, 重型卡車 <-- [印]印神教主神世界主宰
 
@@ -2120,7 +2122,6 @@
 
     * pamper (v)細心照顧/縱容/嬌慣 = cosset = coddle, 使滿足 = gratify = humor = indulge
     * /ˈpeɪɡ(ə)n/ pagan (adj) 異教的 == heathen == profane
-    *** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
     ** passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
     * pastoral (adj)諮詢指導的, 質樸的 = provincial, 鄉村風情的 = bucolic = rural = idyllic = rustic, 牧人的
     * /ˈpeɪʃ(ə)ns/ patience (n)耐心/忍耐/毅力 = forbearance
@@ -2545,6 +2546,7 @@
     + sloth (n)懶散/怠惰 = indolence, 樹懶, 熊群 --> slothful (adj)怠惰的/懶散的 = lazy = indolent = sluggish
     + sluggish (adj)懶散的 = indolent = slothful = supine, 反應慢的
     + smattering (n)略知, 少量
+    ** /smʌɡ/ smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek = tidy (n)沾沾自喜的人
     + snide (adj)暗諷的/含沙射影的 = allusive, 卑鄙的 (n)卑鄙的人
     ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船、馬), 熄滅 = extinguish = quench
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
@@ -2654,7 +2656,6 @@
     * smirk (n/v)不自然地笑
     * smooth (adj)光滑的, 平穩的 (v)弄平/使光滑, 消除
     * smudge (v)弄髒 = blot = stain (n)污跡/污痕 = blemish = blotch
-    ** /smʌɡ/ smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek = tidy (n)沾沾自喜的人
     * smuggle (v)走私
     * snatch (v)抓 = grab = grasp, 搶救, 綁架 = kidnap (n)片刻, 片段 = bit, 綁架
     ** snob (n)勢利鬼, 自負傲慢的人 <|> snub --> snobbish (adj)勢利眼的, 自負傲慢的 --> snobbery (n)勢利
@@ -3302,6 +3303,7 @@
 
 [W]
     + /wɒn/ wan (adj)病態的 = pallid = morbid, 無精打采的 = languid = dull = torpid, 微弱的 = faint = dim
+    + wanting (adj)缺少的, 不存在的
     +++ /ˈwɒntən/ wanton (adj)殘忍無情的 = merciless = inhumane = ruthless, 惡意的 = malicious = malevolent = malign = spiteful, 無節制的/揮霍的 = extravagant, 下流的/淫猥的 = bawdy = lewd = vulgar = indecent = obscene = salacious, 好色的 = lustful = lascivious = lewd = salacious, 淘氣的 = mischievous = wicked
     + /ˈwɒr(ə)nt/ warrant (v)使有正當理由 = justify = necessitate, 擔保/承諾 (n)搜查令/逮捕狀, (做事的)理由 --> warranted (adj)保證的, 憑正當理由的 = justified
     + wary (adj)謹慎的/小心翼翼的 = careful = cautious = leery = canny = cunning = circumspect = gingerly <-- ware + y

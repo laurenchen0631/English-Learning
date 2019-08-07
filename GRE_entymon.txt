@@ -398,7 +398,7 @@
 		** /ɔːɡˈzɪlɪəri/ auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員 <-- auxin
 
 	audi 聽 = hear
-		- audit (v)旁聽, 審計
+		- audit (n/v)審計, 系統性評價或評估 (v)旁聽
 		- audible (adj)聽得見的
 		- auditory (adj)聽覺的 = acoustic = aural
 		- audition (n/v)試鏡
@@ -837,7 +837,7 @@
 		- recipient (n)接受者/收受者
 		+ /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
 		- recuperate (v)恢復/復原
-		+ susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, 容許..的 --> susceptibility (n)易感性
+		+ susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)易感性
 
 	cide, cid 殺 = kill
 		- genocide (n)種族滅絕
@@ -1363,6 +1363,7 @@
 			+ detract --> detraction
 			+ detriment (n)損害/損壞原因 = loss = damage = injury --> detrimental (adj)有危害的 = damaging = harmful = inimical = pernicious = unfavorable <-- de + tri 摩擦 = rud + ment
 			+ devalue, devaluate (v)降低...的價值/貶值/貶低 = depreciate = depress = downgrade = lower
+			+ devolve
 
 		2. 加強/一再/完全 = intensive, up == a
 			- debate
@@ -2310,7 +2311,7 @@
 		- feticide (v)墮胎
 
 	fili 兒子 = son
-		+ affiliate (v)加入/聯合/合併 = associate = absorb = align --> affiliated (adj)附屬的/相關的 = related
+		+ affiliate (v)使隸屬於 = associate, 接納……為成員, 併入/加入 (n)成員 --> affiliated (adj)附屬的/相關的 = related
 		- filial (adj)子女的
 
 	fin 範圍/限制 = boundary, boder, stop, limit
@@ -2917,6 +2918,7 @@
 			- insecurity (n)不安全感, 危險/安全
 			+ inseparable (adj)不可分割的/形影不離的
 			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual  --> insouciance (n)不在乎 = indifference <-- in + souci 擔心 = worry + ant
+			+ insufferable (adj)難以忍受的 = intolerable, 討厭的/令人討厭的
 			+ insuperable (adj)難以克服的 = insurmountable = unconquerable
 			* insurmountable (adj)無法克服的/無法逾越的
 			- intact
@@ -4186,13 +4188,13 @@
 			+ overthrow (n/v)推翻/廢除 (v)武力終結, 丟過頭, 丟過..的頭
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ /əʊvəˈwiːnɪŋ/ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
-			+ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
-			+ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
+			+++ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
+			++ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
-			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的q
+			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
 			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀 = eclipse
@@ -4378,7 +4380,7 @@
 		* pretend --> pretended
 		+ pretense --> pretension --> pretentious
 		- pretext
-		+ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail, [on/upon]說服 = persuade <|> travail
+		++ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行 = prevail, [on/upon]說服 = persuade <|> travail
 		+ prevalent
 		+ prevaricate (v)支吾其詞 = quibble = equivocate <-- pre + varicate 弓腳 == straddle
 		+ prevent
@@ -4389,7 +4391,7 @@
 		- proactive (adj)主動的/先發制人的
 		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
 		- /ˈprɒbləm/ problem (n)問題 <-- pro + blem 丟 
-		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點 <-- problem
+		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點/疑點 <-- problem
 		- proceed --> proceeds --> proceedings
 		- procession
 		+ proclaim
@@ -4399,7 +4401,7 @@
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
 		+ produce --> productive --> productivity
-		* /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆
+		* /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆 --> profanity (n)褻瀆的話語, 不敬的行為, 誓言
 		- proffer (v)獻出/奉獻/贈送 = offer (n)提議/建議 = offer = proposal <-- pro + offer
 		- proficient
 		- /ˈprəʊfʌɪl/ profile (n)側面像, 剖面, 縱斷圖, 簡介, 概況, 吸引程度, 量化分析表, 行為記錄 (v)給……畫側面像, 簡要介紹, 描出……的輪廓, 畫(形狀) <-- pro + file 線條 = line, thread
@@ -4533,17 +4535,17 @@
 		- /ˈprɪnsɪp(ə)l/ principal (adj)主要的/首要的 = prime, 資本的/本金的 (n)校長/社長/首長, 資本/本金, 主要演員/主角, 犯罪當事人
 		- /ˈprʌɪə/ prior (adj)在先的/在前的 (n)前科, 小修道院院長/大修道院副院長
 		- priority (n)優先/重點/優先權, 優先考慮的事/優先事項
-		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt  = untouched, 清新的/未受污染的 = uncorrupted = spotless
+		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt = untouched = intact, 清新的/未受污染的 = uncorrupted = spotless
 
 	priv 個人/搶奪 = private, rob
 		+ deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)匱乏/缺乏 <|> deprave
 		- privacy (n)清靜, 隱私
 		+ privation (n)缺乏, 貧困/匱乏
 		- privative (adj)匱乏的/缺乏的, 表示缺少的/否定的(字詞) 
-		+ privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
+		+ /ˈprɪvɪlɪdʒ/ privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
 
 	pur 附近 = around
-		- purchase (v)購買 (n)購買, 所購之物 , 支點/槓桿, 緊抓/緊繫
+		- purchase (v)購買 (n)購買, 所購之物, 支點/槓桿, 緊抓/緊繫
 		- /ˈpəːljuː/ purlieu (n)郊區, 常逗留之地/常去的地方 = haunt <|> milieu <-- pur + lieu 場所 = place
 		-/pəːˈlɔɪn/ purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
 		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/據稱的 = reputed = alleged --> purportedly (adv)據稱
@@ -4559,46 +4561,47 @@
 	pend, pens 掛/秤重 = hang, weigh
 		- append (v)附加/增補
 		- depend (v)取決於, 依靠/依賴
-		+ dependable (adj)可靠的 = reliable
-		+ compensate (v)賠償/補償/彌補 = indemnify = recompense = offset = counterbalance = wage --> compensation (n)賠償/補償 = reparation = amends
+		+ dependable (adj)可靠的 = reliable = trustworthy 
+		+ /ˈkɒmpɛnseɪt/ compensate (v)賠償/補償 = indemnify = recompense = wage, [for]彌補/抵銷  = offset = counterbalance --> compensation (n)賠償/補償 = reparation = amends, 賠償金/補償金, 報酬/薪水
 		+ compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
-		+ expend (v)花費/消費/耗費 --> expense (n)支出/花錢/開銷
-		+ expendable (adj)消耗性的, 無足輕重的
-		+ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, 免除/省掉, 豁免/免除 --> dispensation (n)免除/豁免, 分配
-		* dispensable (adj)可有可無的/不必要的 <--> indispensable
+		+ expend (v)花費/耗費 --> expense (n)支出/開支, 花錢的東西/開銷
+		+ expendable (adj)消耗性的, 無足輕重的/可消耗的
+		+ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除 --> dispensation (n)免除/豁免, 分配, 某個時期的政治或宗教制度
+		* dispensable (adj)可有可無的/不必要的 = dispensable <--> indispensable
 		+ indispensable --> indispensability
-		- impend (v)迫近/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
-		- pending (adj)即將發生的 = imminent = impending = momentary, 未決的 = unfinished
-		- pendulum (n)擺/擺錘, 來回擺動
-		+ pensive (adj)沉思的, 悲傷的/哀愁的 = wistful
-		- perpendicular (adj)垂直的 = vertical
-		+ propensity (n)傾向/嗜好 = inclination = tendency = proclivity
-		- recompense (n/v)報酬/報答 = repay = reward, 賠償 = compensate = amends = reparation = wage
-		- suspend (v)暫緩/中止, 吊懸
-		* suspense (n)懸念/擔心, 懸疑, 暫時停止/中止(權利) --> suspension (n)暫停/中止, (作為處罰的)暫令停職/暫令停學/暫令停止活動
+		- impend (v)將至/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
+		- pending (adj)即將發生的 = imminent = impending = momentary, 未決的 = unfinished (prep)直到..發生
+		- /ˈpɛndjʊləm/ pendulum (n)擺/擺錘, 來回擺動
+		+ pensive (adj)沉思的/憂戚的 = wistful
+		- perpendicular (adj)垂直的 = vertical (n)垂直線, 垂直的位置
+		+ propensity (n)傾向/習性 = inclination = tendency = proclivity
+		- recompense (n/v)報答/彌補/補償 = compensate = make amends = reparation = wage
+		- suspend (v)暫時取消/擱置, 使停職, 推遲 = defer = delay, [法]暫緩執行, 懸掛, 懸浮
+		- suspension (n)暫停/中止, 懸吊系統, 懸浮液
+		* suspense (n)懸念/擔心, 懸疑, 暫時停止/中止(權利)
 
 	par 平等 = equality
-		++ /dɪˈsparɪdʒ/ disparage (v)貶低/輕視 = belittle = detract = diminish = contempt = scorn = depreciate = downplay = disdain = flout, 詆毀 = slur = calumniate = disparage = depreciate <|> disparate
+		++ /dɪˈsparɪdʒ/ disparage (v)貶低/輕視 = belittle = detract = diminish = contempt = scorn = depreciate = downplay = disdain = flout <|> disparate
 		+ /ˈdɪsp(ə)rət/ disparate (adj)截然不同的/迥然相異的 = dissimilar <|> disparage <|> /ˈde-sp(ə-)rət/ desperate 
 		+ disparity (n)不同/差異 = inequality = difference
-		+ parity (n)(薪水或職位的)平等/相等 = equality
+		++ parity (n)平等/相等 = equality, 生產狀態, 產次/生產次數
 
 	para, par
 		1. 旁邊 = beside, alongside
-			- compare (v)對照/比較
-			+ comparable (adj)類似的/相當的 = analogous
+			- compare (v)對照/比較, 比喻, 形成比較級
+			+ comparable (adj)可比較的 = similar, 比得上的/相當的 = analogous
 			- parable (n)寓言/比喻
-			- parabola (n)拋物線 <-- para + bola 丟 = throw
+			- parabola (n)拋物線 <|> trajectory <-- para + bola 丟 = throw
 			+ paradigm (n)範例/模板/模型, 示例, 互斥單詞 <-- para + digm 顯示 = show
 			- paralegal (n)律師助理
 			++ /ˈparəlɛl/ parallel (adj)平行的, 相同的/類似的 = comparable = analogous, 並聯的 (n)類似的人或事物, 相似處/比較, 緯線, 參考記號 (v)使成平行, 與...相似 <-- par + allel 另一個 = another
-			- parallelism (n)平行, 類似
-			+ paralysis (n)麻痺/癱瘓, 無力 --> paralyze (v)使麻痺/使癱瘓 = numb, 使無力/使氣餒 <-- par + lysis 放開 = loosen
-			- parameter (n)參量/變量
-			- paraphrase (n/v)解釋/釋義
-			- parasite (n)食客, 寄生蟲 <-- para + site 吃 = eat
+			- parallelism (n)平行/類似, 對句法, 平行處理
+			+ /pəˈralɪsɪs/ paralysis (n)麻痺/癱瘓, 不知所措/停頓 --> paralyze (v)使麻痺/使癱瘓, 使陷入癱瘓/使全面停頓 <-- par + lysis 放開 = loosen
+			- /pəˈramɪtə/ parameter (n)參量/變量, 界限
+			- /ˈparəfreɪz/ paraphrase (n/v)解釋/釋義
+			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (N)寄生蟲病  <-- para + site 吃 = eat
 			+++ paragon (n)模範/典型 = exemplar
-			+ parody (n)諷刺性模仿詩文, 拙劣的模仿 = travesty (v)拙劣地模仿 <-- par + od(e) + y
+			+ parody (n)諷刺性模仿詩文, 拙劣的模仿 = travesty (v)滑稽誇張地模仿 <-- par + od(e) + y
 			+ peremptory
 
 		2. 類似 = simlar, resemble
@@ -4606,22 +4609,22 @@
 
 		3. 超過 = beyond
 			- paramount (adj)最重要的, 最高權力的 <-- par + amount
-			- paroxysm (n)感情爆發, 疾病週期性發作 <-- par + oxy 尖銳/敏銳 = sharp, acute + sm
+			- /ˈparəksɪz(ə)m/ paroxysm (n)感情爆發, 疾病的突然復發 = relapse <-- par + oxy 尖銳/敏銳 = sharp, acute + sm
 
 		4. 不正常的 = abnormal, irregular
 			- paranoia (n)偏執狂/多疑症 <-- para + no(os) 精神 = mind + ia
 			- paranoid (adj)偏執狂的/過度懷疑的
 
 	part 部分 = piece, portion
-		- compartment (n)艙/隔間/包廂
-		+ partial (adj)不公平的/偏袒的, 部分的 --> partiality (n)偏心/偏袒/偏愛
+		- compartment (n)艙/隔間/包廂 (v)分隔/劃分
+		+ partial (adj)不公平的/偏袒的, 部分的/不完全的 = incomplete <--> impartial --> partiality (n)偏心/偏袒/偏愛 = favoritism
 		- particle (n)微粒/顆粒/粒子, 極小量
 		- particulate (adj)微粒的 (n)微粒狀物質 <-- particle
 		+ participation (n)參加/參與, 分享
 		- /pɑːtɪsɪˈpeɪtəri/, /pɑːˈtɪsɪpətri/ participatory (adj)參與的
-		* particular (n)事實/細節 (adj)細緻的/詳細的, 特別的/特有的 = peculiar, 講究的/挑剔的 = fastidious
-		+ particularize (v)詳述/列舉
-		- partition (n)分開/分割/隔開 = division, 隔牆 (v)分割
+		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
+		+ particularize (v)詳述
+		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
 
 	path, pathy 感情/痛苦 = feeling, suffering == pass
 		+ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility
@@ -6417,7 +6420,7 @@
 		+ contingency (n)可能性 = uncertainty = fortuitousness, 意外事件/偶然
 		+ detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
 		++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
-		* intact (adj)完整無缺的/原封不動的
+		* intact (adj)完整無缺的/原封不動的 = pristine
 		+ tact (n)機智/圓滑/得體
 		- tactile (adj)觸覺的, 富有質感的
 		+ tangent (n)正切/切線 (adj)切線的, 離題的 --> /tanˈdʒɛnʃ(ə)l/ tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
@@ -6814,6 +6817,7 @@
 		- conversant (adj)熟知的/精通的 = familiar = versed = acquainted
 		- convert (v)使改變 (n)改變信仰的人(或習慣、生活方式) --> convertible (adj)可轉換的 (n)敞篷車
 		+ convoluted (adj)曲折的/旋繞的 = twisted = coiled = spiraled, 費解的/難懂的 = complicated = involved = intricate
+		+ devolve (v)將…下放/移交(下級), 變壞/衰退 = degenerate
 		+ divert (v)使轉向/使改道, 使分心 = detract = distract = beguile, 逗……開心 = entertain
 		- diversion (n)轉向/轉移, 分散注意力, 娛樂/消遣 = relaxation
 		+ diverse (adj)不同的/相異的 = heterogeneous, 多種多樣的 --> diversify (v)多樣化, 多元化經營 --> diversity (n)差異性, 多樣性
