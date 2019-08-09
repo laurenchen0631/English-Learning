@@ -406,7 +406,7 @@
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious <-- contention + rancorous
     + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = impulsive = unpredictable = skittish = whimsical = wayward
     ++ /ˈkaʒjʊəl/ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
-    + /ˈkɔzəl/ causal (adj)原因的/因果關係的 <|> casual <-- cause
+    + /ˈkɔzəl/ causal (adj)原因的/因果關係的 <|> casual --> causality (n)因果關係 <-- cause
     ++ categorical (adj)分類的, 無條件的/完全的 = absolute = unqualified = unconditional = plumb <-- category
     + cater (v)迎合/照料 = minister, 提供飲食/承辦(宴席)
     ++ /ˈkaθ(ə)lɪk/ catholic (adj)普遍的/廣泛的 = universal = general, 寬厚的/開明的 = liberal <--> petty = narrow-minded (n)[大寫]天主教
@@ -466,7 +466,7 @@
     + /ˈkəːtɪəs/ courteous (adj)有禮貌的 = polite = courtly --> courtesy (n)禮貌/禮節 = amenity = etiquette <-- court
     + /ˈkō-vərt/ covert (adj)隱秘的/秘密的 = hidden = concealed = secret = disguised <--> overt <-- cover 
     + /kə-vət/ covet (v)覬覦/垂涎/貪求 = desire wrongfully --> covetous (adj) (尤指對屬於別人的東西)貪求的/垂涎的 
-    ++ cow (v)嚇唬/恐嚇 = frighten = overawe (n)雌性動物, 母牛
+    ++ cow (v)嚇唬/恐嚇 = frighten = overawe = intimidate (n)雌性動物, 母牛
     + coward (n)膽小鬼 --> cowardly (adj)懦弱的/膽小的 = craven = pusillanimous = timid
     + cowardice (n)膽小/懦弱
     + /ˈkʌz(ə)n/ cozen (v)欺騙 = chicane = deceive = dupe = trick = cheat <|> /ˈkʌz(ə)n/ cousin
@@ -1304,6 +1304,7 @@
     + hodgepodge (n)大雜燴 = jumble = pastiche <-- hotchpotch 雜燴
     + homily (n)布道 = sermon = preach, 說教/訓誡 = sermon --> homiletics (n)講道術/說教術
     + hoodwink (v)欺騙 = trick = deceive = dupe = hoax = delude
+    + hound (n)獵犬, 卑劣的人 (v)煩擾/騷擾 = harass = persecute = pursue
     + /ˈhɒstʌɪl/ hostile (adj)對立的 = antagonistic, 不友善的/敵意的 = unfriendly = inimical --> hostility (n)敵對/憎恨 = enmity = antagonism = unfriendliness = animus = animosity <|> /stʌɪl/ style
     + hotly (adv)激烈地/憤怒地/熱心地
     ++ hunch (n)預感 = premonition (v)弓背/彎腰 = arch = stoop = bend over, 向前移動/推進 = shove = push = jostle
@@ -1417,7 +1418,7 @@
     ^ heathen (n/adj)異教徒 = heretical, 不信教的人
     ^ hoarse (adj)嘶啞的 = raucuous <|> coarse
     ^ humungous, humongous (adj)極大的
-    ^ hound (n)獵犬 (v)煩擾/追趕 = harass
+
     ^ haggle (v)討價還價 = bargain = dicker
     ^ handbill (n)傳單/小廣告 = leaflet
     ^ handout (n)講義/印刷品, 施捨物/救濟款
@@ -2095,6 +2096,7 @@
     ++ polemic (N)爭論/辯論/論戰 --> polemical (adj)論爭的/好爭論的 = quarrelsome <-- polem 戰爭 = war + ic 
     + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 = refinement = elegance --> polished (adj)有光澤的 = glossy= smooth, 優美的, 有文化的 = refined = cultured = elegant = fine
     + politic (adj)有策略的 = tactful = diplomatic, 權宜的 = expedient <-- polity
+    + Pollyanna (n)極度樂觀之人/樂天派 --> Pollyannaish (adj)樂天的
     + pontificate (v)武斷地表示意見 --> pontifical (adj)自以為是的 = pompous = pretentious, 武斷的 = dogmatic
     ++ /pɔː/ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
     ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客, 命運/定數 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion

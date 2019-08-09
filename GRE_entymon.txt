@@ -3216,7 +3216,7 @@
 	ject 扔/拋 = throw
 		++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable <|> abjure <|> adjure
 		+ conjecture (n/v)猜測/猜想
-		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
+		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對
@@ -3250,7 +3250,7 @@
 		+ objurgate (v)申斥/痛罵 = scold = rebuke
 
 	journ 日 = day, daily
-		- adjourn (v)推遲/使延期 = defer, 使休會
+		- adjourn (v)使休會/休庭, 推遲/使延期 = defer
 		- journey (n)旅行 = jaunt
 		- journal (n)期刊
 		- sojourn (n/v)逗留/停留 = stay
@@ -4119,8 +4119,8 @@
 			* obey (v)服從/聽從, 執行, 遵守
 			+ /əˈbiːdɪənt/ obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
 			+ /ə(ʊ)ˈbeɪs(ə)ns/ obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 = respect = deference <-- obey
-			- /ə(ʊ)ˈbiːs/ obese (adj)極肥胖的 = corpulent --> obesity (n)肥胖 <-- ob + ese 吃 = eat
-			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑<-- ob + fusc 黑暗 = dark + ate
+			- /ə(ʊ)ˈbiːs/ obese (adj)極肥胖的 = corpulent <|> obsess --> obesity (n)肥胖 <-- ob + ese 吃 = eat
+			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑 <-- ob + fusc 黑暗 = dark + ate
 			+ obligate --> obligatory 
 			* obligation
 			*** oblige
@@ -4228,7 +4228,7 @@
 
 	ord 命令 = order
 		- ordain (v)任命..為神職, 命令/下令 = decree = enact = prescribe = enjoin <|> foreordain
-		- ordinance (n)法令/條例 = decree = command, 宗教儀式
+		- ordinance (n)法令/條例 = decree = command, 宗教儀式 <|> ordnance
 		- /ˈɔːdnəns/ ordnance (n)大砲 = artillery, 軍械 = munitions, 軍械署
 		+ orderly (adj)整齊的/有條理的/整潔的, 守秩序的 (n)勤務員/護理員, 傳令兵
 
@@ -4416,12 +4416,12 @@
 		- project
 		- projectile
 		- projection
-		- projector
+		- projectorp
 		+ /prəˈlɪfəreɪt/ proliferate (v)激增 = multiply, 快速繁殖, 使快速增生 --> proliferation (n)快速增加, 快速繁殖, 大量
 		+ prolific (adj)多產的/多作品的, 多育的 = fertile = frutiful, 大量的 = plentiful, 富饒的
 		+ /ˈprəʊlɪks/ prolix (adj)囉唆的/冗長的 --> prolixity (n)冗長 = verbosity <-- pro + lix 液體 = liquid
 		- prologue
-		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen
+		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen = elongate
 		- /ˌprɒməˈnɑːd/ promenade (n/v)散步 (v)帶著..散步 (n)兜風  <-- pro + mena 開車 + ade
 		- prominent
 		- promise
@@ -4452,6 +4452,7 @@
 		- provender (n)糧草, [戲謔]食物
 		+ provident
 		+ providential
+		- providence
 		+ provincial
 		- provision --> provisional
 		- provisory
@@ -4475,6 +4476,7 @@
 			* percept --> perception
 			+ perceptible
 			+ /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
+			+ peremptory
 			+ /pəˈrɛnɪəl/ perennial (adj)永久的 = permanent = perpetual = persistent = enduring = recurring, 多年生的, 終年的 (n)多年生植物 <-- per + enn 年 = year + ial
 			- perfervid
 			+ perish (v)死去, 破滅, 腐爛 = rot = decay --> perishing (adj)極冷的/嚴寒的
@@ -4523,16 +4525,16 @@
 		- periscope (n)潛望鏡
 
 	prim, prior, prist, princip 最早的/最好的 = first, prime
-		- /prɪm/ prim (adj)端呆板的/拘謹的
+		- /prɪm/ prim (adj)呆板的/拘謹的
 		- /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
-		- prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥 塗底漆, 啟動(幫補), 上油
+		*** prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥 塗底漆, 啟動(幫補), 上油
 		- primeval
 		- primp (v)刻意打扮/精心打扮
 		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		+ primitive (adj)原始的/遠古的, 原始的(情感), 純樸的/自然的(藝術), 粗糙的/簡單的, 原來的 = original (n)原始人, 文藝復興以前的藝術家/風格純樸的藝術家, 風格純樸的作品, 原詞/根詞
 		+ primordial (adj)原始的/最初的 = original = primeval, 根本的/基本的 = baisc
-		- /ˈprɪnsɪp(ə)l/ principle (n)原則/道義/節操, 原理, 起源/本源
-		- /ˈprɪnsɪp(ə)l/ principal (adj)主要的/首要的 = prime, 資本的/本金的 (n)校長/社長/首長, 資本/本金, 主要演員/主角, 犯罪當事人
+		* /ˈprɪnsɪp(ə)l/ principle (n)原則/道義/節操, 原理, 起源/本源
+		* /ˈprɪnsɪp(ə)l/ principal (adj)主要的/首要的 = prime, 資本的/本金的 (n)校長/社長/首長, 資本/本金, 主要演員/主角, 犯罪當事人
 		- /ˈprʌɪə/ prior (adj)在先的/在前的 (n)前科, 小修道院院長/大修道院副院長
 		- priority (n)優先/重點/優先權, 優先考慮的事/優先事項
 		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt = untouched = intact, 清新的/未受污染的 = uncorrupted = spotless
@@ -4555,7 +4557,7 @@
 	pene, pen 近似 = almost
 		+ impenetrable
 		- peninsula
-		- penultimate (adj)倒數第二的 = second last <-- pen + ultimate
+		- /pɪˈnʌltɪmət/ penultimate (adj)倒數第二的 = second last <-- pen + ultimate
 		+ penumbra
 	
 	pend, pens 掛/秤重 = hang, weigh
@@ -4599,10 +4601,9 @@
 			+ /pəˈralɪsɪs/ paralysis (n)麻痺/癱瘓, 不知所措/停頓 --> paralyze (v)使麻痺/使癱瘓, 使陷入癱瘓/使全面停頓 <-- par + lysis 放開 = loosen
 			- /pəˈramɪtə/ parameter (n)參量/變量, 界限
 			- /ˈparəfreɪz/ paraphrase (n/v)解釋/釋義
-			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (N)寄生蟲病  <-- para + site 吃 = eat
+			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (n)寄生蟲病  <-- para + site 吃 = eat
 			+++ paragon (n)模範/典型 = exemplar
 			+ parody (n)諷刺性模仿詩文, 拙劣的模仿 = travesty (v)滑稽誇張地模仿 <-- par + od(e) + y
-			+ peremptory
 
 		2. 類似 = simlar, resemble
 			- paradox 
@@ -4612,7 +4613,7 @@
 			- /ˈparəksɪz(ə)m/ paroxysm (n)感情爆發, 疾病的突然復發 = relapse <-- par + oxy 尖銳/敏銳 = sharp, acute + sm
 
 		4. 不正常的 = abnormal, irregular
-			- paranoia (n)偏執狂/多疑症 <-- para + no(os) 精神 = mind + ia
+			- /ˌparəˈnɔɪə/ paranoia (n)偏執狂/多疑症 <-- para + no(os) 精神 = mind + ia
 			- paranoid (adj)偏執狂的/過度懷疑的
 
 	part 部分 = piece, portion
@@ -4622,24 +4623,20 @@
 		- particulate (adj)微粒的 (n)微粒狀物質 <-- particle
 		+ participation (n)參加/參與, 分享
 		- /pɑːtɪsɪˈpeɪtəri/, /pɑːˈtɪsɪpətri/ participatory (adj)參與的
-		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
+		**的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = c* particular (adj)特定的, 不同尋常arping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
 		+ particularize (v)詳述
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
 
 	path, pathy 感情/痛苦 = feeling, suffering == pass
-		+ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility
-		+ apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = torpor <--> antipathy
-		+ apathetic (adj)冷淡的/無動於衷的 = casual = indifferent = lethargic = phlegmatic, 無精打采的 = dull = spiritless = listless = torpid = lethargic
-		- pathos (n)感染力, 感傷/悲悵/悲情 = pity
-		* pathetic (adj)可憐的 = abject = miserable = dismal, 無用的/差勁的
-		+ sympathy (n)同感/理解 = empathy, 同情/憐憫 = pity = empathy = compassion
+		+ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility <|> apathy
+		+ /ˈapəθi/ apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = torpor <--> antipathy
+		+ apathetic (adj)冷淡的/無動於衷的 = casual = indifferent = lethargic = phlegmatic
+		- /ˈpeɪθɒs/ pathos (n)感染力/激起憐憫或同情等的因素
+		* pathetic (adj)可憐的 = abject = miserable = dismal, 可鄙的
+		+ empathy (n)同理心/移情 --> empathetic (adj)移情作用的
+		+ sympathy (n)同情/憐憫 = pity = empathy = compassion, 情感共鳴, 同感/贊同, 共鳴
 		+ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
-		+ empathy (n)同情 = sympathy, 同感/共鳴 --> empathetic (adj)有同感的/産生共鳴的
-
-	patho, path 病 = disease
-		+ pathology (n)病理學 --> pathologic, pathological (adj)病理學的 = morbid, 病態的 = morbid
-		+ pathogen (n)病原體 --> pathogenic (adj)引起疾病的
-
+	
 	pass, pact, pat
 		1. 通過 = step, pace
 			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
@@ -4655,36 +4652,66 @@
 			- impassioned (adj)慷慨激昂的
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial
 
+	patho, path 病 = disease
+		+ pathology (n)病理學, 病狀, 病變 --> pathologic, pathological (adj)病理學的 = morbid, 病理的/病態的, 無法控制的/強迫性的 = compulsive = obsessive
+		+ pathogen (n)病原體 --> pathogenic (adj)引起疾病的
+
+	psycho, psych 心理 
+		- psychology (n)心理學, 心理狀態
+		- psychologist (n)心理學家
+		- psychotic (adj)精神病的 (n)精神病患者
+		- psychoactive (adj)影響精神行為的
+		- psychopathology (n)精神病理學, 精神, 精神錯亂
+		- psyche (n)心智/心靈/精神
+		- /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
+		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
+		- /sʌɪˈkʌɪətrɪst/ psychiatrist (n)精神科醫生
+		- psychiatry (n)精神病學
+
+	physi, physio 自然的 = nature
+		*** physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
+		- ˌfɪzɪˈɒlədʒi/ physiology (n)生理學 --> physiological (adj)生理的/生理學的 <|> psychological
+		+ /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
+		+++ /fɪˈzɪʃən/ physician (n)醫師 <|> psychologist <|> psychiatrist
+
+	pharmaco, pharmac 藥 = drug
+		- /ˈfɑːməsi/ pharmacy (n)藥局/藥房, 配藥學
+		- pharmacist (n)藥劑師
+		- pharmacology (n)藥理學
+		- /ˌfɑːməˈs(j)uːtɪkəl/ pharmaceutical (adj)藥學的/藥物的/藥用的 --> pharmaceuticals (n)藥物, 藥業股份
+	
 	paleo, pale 古老/原始 = old, anicent, primitive
 		+ /ˌpeɪliənˈtɑlədʒi/ paleontology (n)古生物學 <-- pale + onto 生物 = being + logy
-		- paleopathology (n)古病理學
+		- paleobiology (n) 古生物學 --> paleobiologist (n)古生物學家
+		- /ˌpeɪlioʊpəˈθɑlədʒi/ paleopathology (n)古病理學
 		- paleokinetic (adj)自主運動的
 
 	pale, pal 蒼白/樁 = pallid, stake
-		+ pallid (adj)蒼白的/沒血色的 = pale = wan, 無趣的 = innocuous = insipid
-		- appall (v)使驚駭/使恐怖 --> appalling (adj)糟透的 = abysmal, 駭人聽聞的/極為惡劣的 = atrocious = egregious
+		+ /ˈpalɪd/ pallid (adj)蒼白的/沒血色的 = pale = wan, 無趣的 = innocuous = insipid
+		- appall (vt)使驚駭/使恐怖 --> appalling (adj)糟透的 = awful = abysmal = atrocious = egregious, 駭人的/可怕的
 		- impale (v)刺入/刺中
 
 	peal, pel, pell, puls 推 = push, drive
-		++ appeal (v)吸引 = allure, 求助, 上訴, 懇求/請願 (n)懇求/請願 = entreaty = petition = plea
+		++ appeal (v)懇求, [to]嘗試說服, 上訴, 吸引 = allure (n)懇求 = entreaty = petition = plea, 呼籲, 嘗試說服, 吸引力/魅力
 		+ appellant (n)上訴人
-		+ appellation (n)名稱/稱呼
+		+ appellation (n)名稱/稱呼, 命名, 法定產區葡萄酒 = appellation contrôlée
 		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact = oblige, 激起/引發 = incite 
-		+ compelling (adj)(理由、論證等)令人信服的/很有說服力的, 引人入勝的/令人注目的, 無法抵擋的
+		+ compelling (adj)引人入勝的 = complusive, 令人信服的, 壓倒的 = overwhelming
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
-		- compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的
-		- compulsory (adj)必須的 = required = mandatory = obligatory
-		* expel (v)開除 = oust, 排出/噴出 = discharge = emit = utter
-		+ dispel (v)驅散 = disperse = dissipate, 消除 = alleviate
-		- impel (v)推進 = push = propel, 驅使 = force = compel = urge
-		* impulse (n)衝動/突然的強烈欲望 = compulsion = urge, 脈衝, 動機/動力 = impetus --> impulsive (adj)衝動的/易衝動的, 推進的
-		- pulse (v)搏動/跳動 (n)脈搏, 脈衝
-		- propel (v)推進 = impel --> propulsion (n)推進力
-		- repeal (v)廢除/廢止 = annul = quash = abolish = abrogate = rescind = revoke
-		- repel (v)驅逐/逐回/擊退/抗禦, 排斥/相斥, 使厭惡/使極反感
-		- repellent (adj)令人厭惡的
-		- repulse (n/v)擊退/趕走 (v)拒絕/拒絕接受, 令人厭惡/使人反感 --> repulsive (adj)令人厭惡的/使人反感的 = disgusting = fulsome = vile = obscence
-		- repulsion (n)厭惡/反感, 排斥力
+		* compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的 = compelling
+		- compulsory (adj)義務的 = required = mandatory = obligatory, 強制的/強迫的 = coercive
+		* expel (v)開除/退學 = oust, 趕走/驅逐, 排出(體內) = discharge = emit = utter
+		+ dispel (v)驅散/消除(情緒) = alleviate
+		- impel (v)驅使 = force = compel = urge, 推進 = push = propel
+		* impulse (n)衝動/強烈欲望 = compulsion = urge, 動機/刺激 = impetus, 脈衝, 衝力 --> impulsive (adj)衝動的/易衝動的, 衝力的
+		- pulse (v)搏動/跳動 = pulsate, 使產生脈衝 (n)脈搏, 脈衝, 規律的節奏, 果實可食用的豆類植物
+		- propel (v)推進 = impel, 驅策/刺激 = spur = drive --> propulsion (n)推進力 
+		- /rɪˈpiːl/ repeal (n/v)廢除/廢止 = annul = quash = abolish = abrogate = rescind = revoke
+		- /rɪˈpɛl/ repel (v)擊退/驅除, 排斥/相斥, 拒絕/排斥, 使厭惡/使極反感
+		- repellent, repellant (adj)排斥的/相斥的, 令人厭惡的 (n)驅蟲劑, 防水劑
+		- repulse (n/v)擊退/趕走 = repel, 拒絕/排斥 = reject = rebuff = repel (v)令人厭惡/使人反感 
+		- repulsive (adj)令人厭惡的/使人反感的 = disgusting = fulsome = vile = obscence, 排斥力的
+		- /rɪˈpʌlʃən/ repulsion (n)厭惡/反感, 排斥力
 
 	poly 多 = many, much
 		+ polyglot (adj)會使用數種語言的 (n)精通數國語言的人 <-- poly + glot 舌頭 = tongue
@@ -5084,29 +5111,6 @@
 
 	pseudo, pseud 假 = false, pretended, unreal
 		+ pseudonym
-
-	psycho, psych 心理 
-		- psyche (n)心智/心靈/精神
-		-  /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
-		- psychology (n)心理學, 心理狀態
-		- psychotic (adj)精神病的 (n)精神病患者
-		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
-		- psychiatrist (n)精神科醫生
-		- psychiatry (n)精神病學
-		- psychoactive (adj)影響精神行為的 == (chiefly of a drug) affecting the mind
-		- psychopathology (n)精神病理學, 精神, 精神錯亂
-
-	physi, physio 自然的 = nature
-		- physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
-		- physiology (n)生理學 --> physiological (adj)生理的/生理學的 <|> psychological
-		+ /ˌfɪzɪˈɒ(ɡ)nəmi/ physiognomy (n)容貌/相貌, 觀相術/相面術
-		+ /fɪˈzɪʃ(ə)n/ physician (n)醫師
-
-	pharmaco, pharmac 藥 = drug
-		- pharmacy (n)藥局/藥房, 配藥學
-		- pharmacist (n)藥劑師
-		- pharmacology (n)藥理學
-		- pharmaceutical (adj)製藥的
 
 	port 帶著 = carry
 		- export
@@ -6006,7 +6010,7 @@
 		+ assumption (n)設想, 奪取/取得/承担
 		- consume (v)消費, 消耗
 		+ presume (v)擅自/冒然 = dare, 假定/假設/推測/推定 = expect = assume, 意味著 = imply
-		+ presumptuous (adj)冒昧的/專橫的 = arrogant = overweening = petulant
+		+ presumptuous (adj)放肆的/專橫的 = arrogant = overweening = petulant
 		+ presumption (n)推測/假定, 冒昧/放肆 = effrontery
 		- resume (v)重新開始/繼續 = renew
 		+ subsume (v)歸入/納入, 包容/包含 = include = incorporate
@@ -6043,7 +6047,7 @@
 	scend, scens, scent 爬 = climb
 		- ascend (v)上升/攀登 = climb, 晉升 = promote
 		- ascent (n)登高, 上坡, 上升, (地位)提高/提升
-		- ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
+		+ ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
 		+ condescend (v)懷著優越感地對待/輕慢, 屈尊做… = patronize = deign --> condescension (n)傲慢, 屈尊 
 		*** descend (v)下降/走下, 下傾, 傳下來/源自於/是...的後裔, 突然襲擊/拜訪 --> descent (n)下降/下坡/衰落, 突擊/突訪, 血統/世系, 遺傳
 		- descendant (n)後代/後裔
@@ -6835,7 +6839,7 @@
 		- revolve (v)旋轉/自轉, 週期性出現/循環往復, 盤桓於腦海, 以……為中心
 		- revolute (v)參加革命
 		+ revolution (n)革命, 變革 --> revolutionary (adj)革命的/革命性的 (n)革命者
-		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/反感的 = disgusting = repulsive = lurid, 叛變的 = rebellious
+		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/反感的 = disgusting = repulsive = lurid
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
 		+ versatile (adj)多才多藝的, 多用途的
 		* verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 
@@ -6853,7 +6857,7 @@
 		- verge (n)邊緣/瀕臨
 
 	vent, vene, ve, ven 到來/同意 = come, agree
-		- advent (n)到來/出現 --> adventitious (adj)偶然的
+		- advent (n)到來/出現, 降臨節, 耶穌再臨 --> adventitious (adj)偶然的
 		+ adventure (n/v)冒險/歷險/奇遇 --> adventurous (adj)喜歡冒險的/大膽創新的 = audacious, 驚險刺激的
 		+ circumvent
 		- contravene (v)違反/違背(法律或規則)
@@ -6948,6 +6952,7 @@
 		+ invidious (adj)招致不滿的/惹人反感的 = hateful, 有害的/誹謗的 = offensive = injurious
 		+ provident (adj)有遠見的/深謀遠慮的 = prudent, 節儉的 = frugal = thrifty
 		+ providential (adj)幸運的/天佑的 = lucky = fortunate, 上帝的/天意的
+		- providence (n)天命/天佑, 深謀遠慮
 		- provide (v)提供, 規定, 撫養/贍養, 準備
 		*** provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
 		- provisional (adj)暫時的/臨時的 = temporary
@@ -7009,7 +7014,7 @@
 		+ benevolent
 		- malevolent (adj)惡意的/惡毒的 = malicious = malignant = vicious = spiteful = wanton
 		* involuntary (adj)不由自主的/無意的
-		- volition (n)意志/決心
+		- volition (n)意志/選擇/決定
 		+ voluntary (adj)自願的/無償的, 有意的/故意的, (組織)公益性的
 
 	volat, vola 飛 = fly
