@@ -1132,10 +1132,10 @@
 	
 	chol, chole 膽汁 = bile
 		- choler (n)憤怒 = anger = wrath , 膽汁 = bile
-		- /ˈkɒlərɪk/ choleric (adj)易怒的/暴躁的 = cantankerous
+		+ /ˈkɒlərɪk/ choleric (adj)易怒的/暴躁的 = cantankerous
 		- /ˌkɒlɪsɪsˈtʌɪtɪs/ cholecystitis (n)膽囊炎
 		- acholia (n)膽汁缺乏症
-		* /ˈmɛlənkəli/ melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (n)憂鬱 <-- melan 黑 = black + chol + ly 
+		** /ˈmɛlənkəli/ melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (N)憂鬱 <-- melan 黑 = black + chol + ly 
 		- melancholic (adj)憂鬱的, 嚴重憂鬱症的
 
 	cyst 囊
@@ -2820,7 +2820,7 @@
 			- impolitic (adj)失策的/不智的 <-- im + politic
 			- imponderable
 			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的
-			- impregnable
+			+ impregnable
 			+ imprecate --> imprecation
 			+ imprecise (adj)不精確的/不清楚的 = vague = inexact = inaccurate = lax
 			+ improbable (adj)不可能的
@@ -4416,7 +4416,7 @@
 		- project
 		- projectile
 		- projection
-		- projectorp
+		- projectory
 		+ /prəˈlɪfəreɪt/ proliferate (v)激增 = multiply, 快速繁殖, 使快速增生 --> proliferation (n)快速增加, 快速繁殖, 大量
 		+ prolific (adj)多產的/多作品的, 多育的 = fertile = frutiful, 大量的 = plentiful, 富饒的
 		+ /ˈprəʊlɪks/ prolix (adj)囉唆的/冗長的 --> prolixity (n)冗長 = verbosity <-- pro + lix 液體 = liquid
@@ -4480,7 +4480,7 @@
 			+ /pəˈrɛnɪəl/ perennial (adj)永久的 = permanent = perpetual = persistent = enduring = recurring, 多年生的, 終年的 (n)多年生植物 <-- per + enn 年 = year + ial
 			- perfervid
 			+ perish (v)死去, 破滅, 腐爛 = rot = decay --> perishing (adj)極冷的/嚴寒的
-			+ /pəˈnɪʃəs/ pernicious (adj)有害的 = noxious = harmful = malign = baneful = baneful <-- per + nic 死 = death + ious
+			+ /pəˈnɪʃəs/ pernicious (adj)有害的 = noxious = harmful = baleful = baneful <-- per + nic 死 = death + ious
 			+ perpetual --> perpetuate
 			+ perplex
 			+ perquisite 
@@ -4623,7 +4623,7 @@
 		- particulate (adj)微粒的 (n)微粒狀物質 <-- particle
 		+ participation (n)參加/參與, 分享
 		- /pɑːtɪsɪˈpeɪtəri/, /pɑːˈtɪsɪpətri/ participatory (adj)參與的
-		**的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = c* particular (adj)特定的, 不同尋常arping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
+		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
 		+ particularize (v)詳述
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
 
@@ -4641,16 +4641,15 @@
 		1. 通過 = step, pace
 			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
 			- compass (n)指南針, (能力、活動、興趣等的)界限/範圍/範疇 = scope = range
-			* compact (adj)密實的/結實的 = dense = solid, 簡潔的 = compendious = concise = terse = succinct = laconic (n)合同/協議 = agreement = covenant
-			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)擠滿 = fill ip = congest = throng, 影響 = influence = alter, 衝擊
+			* compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約= agreement = covenant
+			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)衝擊, 擠壓, [on]影響 = influence = alter
 
 		2. 感情 = suffer, undergo == pathy 
-			+ compassion (n)同情/憐憫 = pity = rue --> compassionate (adj)有同情心的
+			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
-			+ impassive (adj)無動於衷的/冷淡的 = apathy = apathetic = unmoved, 平靜的 = clam = serene, 無意識的 = unconscious = insensible
-			+ impassivity (n)無動於衷, 平靜, 無知覺
-			- impassioned (adj)慷慨激昂的
-			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial
+			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathy = apathetic = unmoved = clam = serene --> impassivity (n)
+			- impassioned (adj)充滿激情的/熱烈的
+			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
 
 	patho, path 病 = disease
 		+ pathology (n)病理學, 病狀, 病變 --> pathologic, pathological (adj)病理學的 = morbid, 病理的/病態的, 無法控制的/強迫性的 = compulsive = obsessive
@@ -4662,11 +4661,11 @@
 		- psychotic (adj)精神病的 (n)精神病患者
 		- psychoactive (adj)影響精神行為的
 		- psychopathology (n)精神病理學, 精神, 精神錯亂
-		- psyche (n)心智/心靈/精神
-		- /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
+		-/ˈsʌɪki/ psyche (n)心智/心靈/精神
 		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
-		- /sʌɪˈkʌɪətrɪst/ psychiatrist (n)精神科醫生
+		- /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
 		- psychiatry (n)精神病學
+		- /sʌɪˈkʌɪətrɪst/ psychiatrist (n)精神科醫生
 
 	physi, physio 自然的 = nature
 		*** physical (adj)身體的/肉體的, 物質的, 按自然法則的/物理的
@@ -4682,7 +4681,7 @@
 	
 	paleo, pale 古老/原始 = old, anicent, primitive
 		+ /ˌpeɪliənˈtɑlədʒi/ paleontology (n)古生物學 <-- pale + onto 生物 = being + logy
-		- paleobiology (n) 古生物學 --> paleobiologist (n)古生物學家
+		- paleobiology (n)古生物學 --> paleobiologist (n)古生物學家
 		- /ˌpeɪlioʊpəˈθɑlədʒi/ paleopathology (n)古病理學
 		- paleokinetic (adj)自主運動的
 
@@ -4718,54 +4717,55 @@
 
 	pair, pejor 壞 = worse
 		+ pejorative (adj)貶抑的/貶損的 = derogatory = disparaging = belittling (n)貶義詞語
-		+ impair (v)損害/削弱 = damage = reduce = injure = lossen = weaken
+		+ impair (v)損害/削弱 = damage = injure = lossen = weaken
 		- repair (v)修理/修補, 恢復, 彌補/補償
 		- reparable (adj)能補救的/可挽回的
 		+ /ˌrɛpəˈreɪʃ(ə)n/ reparation (n)賠償/補償 = amends = compensation = recompense --> reparative (adj) <-- repair
 
 	pease, pac 和平 = peace
 		+ appease (v)綏靖/對..讓步, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
-		- peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
-		* pacify (v)使平靜/安撫/平定/平息 = appease = placate
-		- pacific (adj)和解的, 溫和的/平靜的, 太平洋的
+		- /ˈpɛz(ə)nt/ peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
+		* pacify (v)使平靜/安撫 = appease = placate = quell = allay = mitigate = repress, 平定/平息 
+		- pacific (adj)愛好和平的/平和的 --> Pacific (adj)太平洋的 (n)太平洋
 		- pacifist (n)和平主義者/反戰主義者
 
 	plac 平靜/安撫/滿足 = quiet, calm, appease
 		+ complacent (adj)自滿的/得意的 = self-satisfied = smug <|> complaisant --> complacency (n)自滿
 		+ implacable (adj)難以平息的 = inexorable, 無法阻止的 = relentless
 		+ /pləˈkeɪt/ placate (v)平息/安撫 = soothe = appease = pacify = conciliate
-		+ placid (adj)寧靜的/平和的 = calm
+		+ placid (adj)寧靜的/平和的 = calm, 平穩的 <|> pacific
 		- placebo (n)安慰劑
 
 	plaint, plain 悲嘆 = mourn
-		* complain (v)抱怨 = repine = grouse = grumble = grouch = fret, 控告/控訴 --> complaint (n)抱怨/抗議, 控告/控訴, 疾病/身體不適
-		- plaint (n)悲嘆/訴苦, 起訴
+		* complain (v)抱怨/發牢騷 = repine = grouse = grumble = grouch = fret, 發出哀鳴
+		* complaint (n)抱怨/抗議, 疾病/小病
+		- plaint (n)悲嘆/訴苦 =  complaint = lamentation
 		- plaintiff (n)原告 <--> defendant
-		+ plaintive (adj)悲傷的/憂鬱的 = melancholy = mournful = dismal = gloomy = desolate
+		+ plaintive (adj)聽起來悲傷的 = melancholy = mournful = dismal = gloomy = desolate
 
 	plast 塑造 = mold
-		- plaster (n)灰泥/石膏 (v)抹灰泥
-		+ plastic (adj)可塑的/塑性的, 易受影響的, 不自然的/不真實的 (n)塑膠, 信用卡
-		+ plasticity (n)可塑性/適應性/柔軟性 = pliability
+		- plaster (n)灰泥/石膏 (v)抹灰泥, 塗抹, 公開展示, 敷貼膏藥, 轟炸/砲彈攻擊
+		++ plastic (adj)可塑的/塑性的, 不自然的/假的 = artifical = unnatural, 容易塑形的, 塑造的/塑性的, 適應性的 (n)塑膠, 信用卡
+		++ plasticity (n)可塑性/柔軟性 = pliability, 適應性
 
 	plat 平的 = flat
-		- plate (n)盤子/碟子/托盤 (v)電鍍
+		- plate (n)盤子/碟子/托盤, 一盤, 肉類主菜, 車牌 (v)電鍍
 		+ platitude (n)陳腐/陳詞濫調 = cliché = commonplace --> platitudinous (adj)陳腐的/陳詞濫調的 = commonplace = trite = hackneyed
-		- plateau (n)高原, 平穩的狀態
+		-  /ˈplatəʊ/ plateau -> plateaux/plateaus (n)高原, 穩定水準 (v)達到穩定水準
 
 	plagio, plage 斜的 = oblique
-		- plage (n)海濱浴場
-		- plagiotropism (n)斜向性
+		- /plɑːʒ/plage (n)海濱浴場
+		- plagiotropic (adj)斜向性的 --> plagiotropism (n)斜向性
 
 	peter, pet, pir 尋找/嘗試 = seek
-		- appetence (n)欲望/性欲
-		* appetite (n)慾望/食慾, 愛好 = penchant = passion = propensity --> appetizer (n)開胃品/開胃菜 --> appetizing (adj)美味可口的/促進食慾的
-		- compete (v)競爭
-		+ competent (adj)有能力的/能幹的 <-- compete
+		- appetence, appetency (n)欲望/性欲, 傾向 = tendency = affinity
+		* /ˈapɪtʌɪt/ appetite (n)慾望/食慾, 愛好 = penchant = passion = propensity --> appetizer (n)開胃品/開胃菜 --> appetizing (adj)美味可口的/促進食慾的
+		- compete (v)競爭, 媲美/比得上 --> competition (n)競爭, 比賽/競賽, 對手
+		+ competent (adj)有能力的/能幹的, 充分的/足夠的 = acceptable = satisfactory, 有法定資格的 <-- compete
 		++ competence, competency (n)能力, 權限, 語言潛意識, 足以過著舒適生活的收入
-		+ empiric (n)經驗主義者, 庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
+		+ empiric (n)庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
 		+ perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存
-		*** petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
+		*** /pɪˈtɪʃən/ petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
 
 	petri, petro 石頭 = rock, stone
 		- petrify (v)石化, 嚇呆 --> petrifaction (n)石化, 嚇呆
@@ -4850,7 +4850,7 @@
 		+ praise (n/v)讚揚/表揚
 		+ appraise (v)評價/鑑定 = assess --> appraisal (n)評價/估價
 		- appreciate (v)欣賞/賞識 = admire, 理解/領會, 感謝, 漲價/增值
-		* appreciable (adj)相當的/非常可觀的 = considerable = substantial
+		+ appreciable (adj)相當的/非常可觀的 = considerable = substantial
 		- inappreciable (adj)微不足道的
 		- deprecate (v)反對, 輕視/貶低 = belittle = contempt = scorn = denigrate
 		- depreciate (v)輕視 = deprecate = belittle = disparage, 貶值 = depress, 詆毀 = slur = calumniate = disparage = denigrate
@@ -4864,7 +4864,7 @@
 		- comprehensible (adj)能充分理解的 = lucid = intelligible
 		+ comprehensive (adj)包羅萬象的 = fulsome
 		- impregnate (v)使懷孕, 灌輸 = imbue, 浸漬/使(固體)吸收(液體)
-		- impregnable (adj)攻不破的/征服不了的
+		+ impregnable (adj)攻不破的, 無法擊敗的/克服不了的
 		- pregnable (adj)易受攻擊的/有弱點的
 		+ prehensile (adj)能抓住的, 能纏繞的
 		- reprehend (v)譴責/責難 --> reprehensible (adj)應受譴責的
@@ -5374,7 +5374,7 @@
 			- reside --> resident
 			- residue --> residual
 			+ resist --> resistance
-			+ respite (n)休息, 暫緩
+			+ respite
 			+ restive --> restiveness
 			- restless
 			+++ retaliate (v)報復/反擊 = riposteor = retort --> retaliation (n)報復 <-- re + tali 如此 = such + ate

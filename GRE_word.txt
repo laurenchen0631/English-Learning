@@ -162,6 +162,7 @@
     + bay (n)灣/海灣, 間隔區, 月桂樹 (v)(狗或狼)叫/吠 = bark --> baying (n)嚎叫 = howling
     + beatify (v)(天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福 = sanctify = bless
     + /biːəˈtɪfɪk/ beatific (adj)喜氣洋洋的, 賜予祝福的
+    + becoming (adj)搭調的/搭的(衣服), 合適的/適宜的 = suitable = appropriate
     + /bɪˈdɪz(ə)n/ bedizen (v)俗麗地穿著 <-- dizen (v)裝飾/穿得漂亮
     + befriend (v)對…友好 = help = aid, 交朋友
     + /bɪˈfʌdəl/ befuddle (v)使迷惑/使困惑 = confuse = bewilder = confound --> befuddlement (n)迷惑/困惑 <-- fuddle
@@ -171,6 +172,7 @@
     ++ belie (v)掩飾 = misrepresent, 證明為假 = disprove = contradict = negative
     + bemoan (v)哀嘆/惋惜/悲悼
     + benighted (adj)愚昧無知的, 陷入黑暗的
+    + besmirch (v)誹謗/玷污 = taint = sully, 弄髒 <-- smirch
     + besotted (adj)入迷的
     * bend -> bent -> bent (v)彎曲 = curve, 屈服
     + bent (n)傾向/特長/天賦 = predisposition = characteristic = talent = aptitude = flair, 忍耐限度 = capacity of endurance (adj)彎曲的, 不誠實的, 同性戀的 
@@ -295,7 +297,6 @@
     ^ bellwether (n)領頭羊/領導者 <-- wether
     ^ bench (n)長凳, 法官席/議員席 (v)(比賽)罰下場, 臥推
     ^ beset (v)鑲嵌, 困擾 = beleaguer = bedevil = harass = assail = distract (adj)困擾的
-    ^ besmirch (v)誹謗/玷污 = taint = sully <-- smirch
     ^ bestial (adj)野獸的/殘忍的 = atrocious = barbarous = brutal = savage
     ^ betroth (v)使訂婚/許配 = engage <-- troth
     ^ beverage (n)飲料 = drink <-- bever 喝 = drink + age 
@@ -1622,7 +1623,7 @@
     ^ lag (v)落後/滯留
     ^ lair (n)野獸的巢穴, 躲藏處/祕密藏身處
     ^ laity (n)普通信徒 <--> clergy, 外行人 <-- lay 世俗 + ity
-    ^ lament (n/v)悲傷/哀悼 = grief = sorrow = grieve
+    ^ lament (n/v)悲傷/哀悼 = grief = sorrow = grieve --> lamentation (n)悲嘆/訴苦 = plaint
     ^ lance (n)長矛, 魚叉
     ^ lancet (n)手術刀 <-- lance
     ^ landfill (n)垃圾堆, 垃圾掩埋場
@@ -2096,7 +2097,7 @@
     ++ polemic (N)爭論/辯論/論戰 --> polemical (adj)論爭的/好爭論的 = quarrelsome <-- polem 戰爭 = war + ic 
     + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光/拋光劑, 優美/優雅 = refinement = elegance --> polished (adj)有光澤的 = glossy= smooth, 優美的, 有文化的 = refined = cultured = elegant = fine
     + politic (adj)有策略的 = tactful = diplomatic, 權宜的 = expedient <-- polity
-    + Pollyanna (n)極度樂觀之人/樂天派 --> Pollyannaish (adj)樂天的
+    + Pollyanna (n)極度樂觀之人/樂天派 --> Pollyannaish (adj)樂天的 = extremely optimistic
     + pontificate (v)武斷地表示意見 --> pontifical (adj)自以為是的 = pompous = pretentious, 武斷的 = dogmatic
     ++ /pɔː/ pore (n)毛孔/氣孔 (v)鑽研, 凝視, 沈思 = meditate --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的
     ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客, 命運/定數 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion
@@ -2340,6 +2341,7 @@
 [R]
     + /ˌrakɒnˈtəː/ raconteur (n)善於講故事的人 <|> rancor <-- racont 講述 = tell + eur
     + raffish (adj)落拓不羈的/不修邊幅的 = unconventional
+    ++ raft (n)木筏, 橡皮艇, 大群(水鳥或哺乳動物), 大量 (v)乘木筏渡, 把……紮成筏子
     + rage (n)狂怒/盛怒, 肆虐, 狂熱, 風行 (v)發怒, 肆虐/激烈進行, 流行/盛行
     ++ rail (V)咒罵/猛烈指責 = rant = inveigh = fulminate, 用鐵路運輸 (n)欄杆, 鐵軌
     + /ˈreɪm(ə)nt/ raiment (n)衣飾/衣裳 = clothing = garments
@@ -2405,7 +2407,6 @@
     ^ racy (adj)活潑的/生動的 = amusing <-- race
     ^ radius (n)半徑, 周圍/範圍
     ^ raffle (n)獎券銷售/公益抽獎
-    ^ raft (n)木筏, 橡皮艇
     ^ rafter (n)椽
     ^ rag (n)舊布/碎布, 破舊衣服 --> ragged (adj)破爛的
     ^ raisin (n)葡萄乾
