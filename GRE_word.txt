@@ -2078,6 +2078,7 @@
     + pioneer (n)先驅者/開拓者 (v)開闢/倡導
     ++ /piːk/ pique (n)生氣/慍怒 = resentment (v)使生氣/激怒 = irritate = vex = irk = provoke, 刺激/激起 = excite = arouse = provoke, 驕傲 = pride --> piquant (adj)辛辣的/開胃的 = pungent = spicy = poignant, 有趣的/刺激的 = attractive = stimulating = provocative
     +++ /ˈpɔɪnjənt/ poignant (adj)尖刻的 = piercing = shrewd, 動人的 = touching, 強烈的 = cutting = intense, 辛辣刺激的 = pungent = piquant <-- pungent
+    + pillory (n)(刑具)頸手枷, 示眾/受公眾嘲笑 (v)使當眾受辱/公開辱罵
     ++ pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     + pinnacle (n)尖塔 = spire, 山峰/頂峰 = summit
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
@@ -2224,7 +2225,6 @@
     ^ pigment (n)天然色素, 乾粉顏料
     ^ pilgrim (n)朝聖客/香客
     ^ pillar (n)柱子
-    ^ pillory (n)(刑具)頸手枷, 示眾/受公眾嘲笑 (v)使當眾受辱/公開辱罵
     ^ pilot (n)飛行員, 領航員, 領導人
     ^ pinch (v)捏/掐 = queeze (n)一搓/一點
     ^ pinpoint (V)精確地找出或描述 (adj)非常精確地
@@ -2353,6 +2353,7 @@
     + rant (v)咆哮 = rave, 嚴厲斥責 = rail = fulminate = inveigh = scold vehemently (n)激烈的發言 = tirade
     ++ rare (adj)罕見的 = peculiar = uncommon = unusual = scarce, 稀薄的/稀疏的, 傑出的 = excellent = admirable = fine
     ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄, 使精細/使純化 --> rarefied (adj)稀薄的, 崇高的 = elevated = lofty = exalted = noble, 限於圈內人的 = esoteric --> rarefaction (n)
+    + rash (adj)衝動的 = impetuous (n)疹子, 大量令人不快的事
     + rebus (n)字謎/畫謎 
     + /reɪn/ rein (n)韁繩, 控制力 (v)控制/駕馭 = control, 抑止/阻止 <|> /reɪn/ rain
     ++ relish (n)享受/愛好 = zest = gusto, 滋味/美味 = zest (v)享受 = enjoy = savor, 品味 = savor <-- remainder

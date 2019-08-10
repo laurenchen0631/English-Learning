@@ -501,6 +501,7 @@
 		- baritone (n)男中音
 
 	bell, bel 戰爭/戰鬥 = war
+		- antebellum (adj)戰前的/美國內戰之前的
 		- bellicose (adj)好鬥的/好戰的 = combative
 		+ belligerent (adj)交戰的, 好鬥的/敵對的 = truculent = bellicose = quarrelsome = aggressively hostile --> belligerence (n)交戰, 好戰性/鬥爭性
 		- rebel (v)反叛/反抗 (n)造反者/反抗者
@@ -1419,7 +1420,7 @@
 			+ disaffected (adj)不滿的 = dissatisfied
 			+ debunk (v)揭穿 = expose <-- de + bunk 不合理/謊言 = humbug, nonsense
 			- debut (n)初次登台 <-- de + but 終點 = goal
-			- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
+			- decompose
 			+ decipher (v)破解/破譯 = decode
 			- decode (v)破譯 = decipher
 			+++ defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
@@ -2057,7 +2058,7 @@
 		- equator (n)赤道
 		- equivalent
 		+ equivocate --> equivocal
-		- inequity (n)不公平/不公正 = injustice = unfairness
+		+ inequity (n)不公平/不公正 = injustice = unfairness
 
 	esthete 感覺
 		+ aesthete (n)審美家 --> /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
@@ -3275,7 +3276,7 @@
 		+ /ˈdʒɒkjʊlə/ jocular (adj)有趣的/詼諧的/愛開玩笑的 = facetious
 
 	judic, jud 判斷 = judge
-		- adjudicate (v)[法]判決/宣告 = arbitrate = umpire
+		+ adjudicate (v)[法]判決/宣告 = arbitrate = umpire
 		- judge (v)審判/判決, 判斷/認為 (n)裁判, 法官/推事/裁判員
 		* judicial (adj)司法的/審判的, 法官的/法庭的
 		+ judicious (adj)明斷的 = discreet = prudent = circumspect = deliberate = measured = canny = guarded = methodical
@@ -4092,7 +4093,7 @@
 		- nitrate (n)硝酸鹽 (v)用硝酸處理/硝化
 
 [O]
-	ob, oc, o, op
+	ob
 		1. 反/反對 = inverse, against, opposite
 			+ obdurate --> obduracy
 			- object --> objection --> objective
@@ -4112,8 +4113,8 @@
 			+ obliterate
 			+ obsolete --> obsolescent
 			+++ /ɒˈkʌlt/ occult (adj)奧祕的/超自然的, 祕密的 = hermetic, [醫]潛隱的 (n)神秘現象 (v)掩蔽/遮蔽 <-- oc + cult 藏 = hide
-			- occur --> occurence
-			- omit (v)省略, 遺漏/疏忽
+			- occur --> occurence omit (v)省略, 遺漏/
+			-疏忽
 
 		3. 走向/加強 = to, towards == a == de == dis == e
 			* obey (v)服從/聽從, 執行, 遵守
@@ -4129,7 +4130,7 @@
 			+ observe --> observation
 			- observatory
 			- obtain --> obtainable
-			- obstreperous (adj)難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
+			+ obstreperous (adj)難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
 			+ obtrude --> obtrusive
 			- obverse
 			+ obvious --> obviate
@@ -4264,6 +4265,7 @@
 		+ /ˈsjuːdənɪm/ pseudonym (n)筆名
 		- /ˈsɪnənɪm/ synonym (n)同義字
 		- /ˈantənɪm/ antonym (n)反義字
+		- /ˈakrənɪm/ acronym (n)縮寫
 
 	orex 胃口/渴望 = longing
 		- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症
@@ -4347,7 +4349,7 @@
 		+ preempt
 		- preface (n)序言 = introduction
 		+ prefer --> preference
-		- pregnant (adj)懷孕的 = gravid, 意味深長的 <-- pre + gna 出生 = born + ant
+		- pregnant (adj)懷孕的 = gravid, 意味深長的 <--> impregnable <-- pre + gna 出生 = born + ant
 		- prehistoric (adj)史前的
 		- prejudge
 		* prejudice --> prejudiced
@@ -4401,7 +4403,7 @@
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
 		+ produce --> productive --> productivity
-		* /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆 --> profanity (n)褻瀆的話語, 不敬的行為, 誓言
+		** /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆 --> profanity (n)褻瀆的話語, 不敬的行為, 誓言
 		- proffer (v)獻出/奉獻/贈送 = offer (n)提議/建議 = offer = proposal <-- pro + offer
 		- proficient
 		- /ˈprəʊfʌɪl/ profile (n)側面像, 剖面, 縱斷圖, 簡介, 概況, 吸引程度, 量化分析表, 行為記錄 (v)給……畫側面像, 簡要介紹, 描出……的輪廓, 畫(形狀) <-- pro + file 線條 = line, thread
@@ -4418,7 +4420,7 @@
 		- projection
 		- projectory
 		+ /prəˈlɪfəreɪt/ proliferate (v)激增 = multiply, 快速繁殖, 使快速增生 --> proliferation (n)快速增加, 快速繁殖, 大量
-		+ prolific (adj)多產的/多作品的, 多育的 = fertile = frutiful, 大量的 = plentiful, 富饒的
+		+ prolific (adj)多產的/多作品的 = fecund, 多育的 = fertile = frutiful, 大量的 = plentiful, 富饒的
 		+ /ˈprəʊlɪks/ prolix (adj)囉唆的/冗長的 --> prolixity (n)冗長 = verbosity <-- pro + lix 液體 = liquid
 		- prologue
 		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen = elongate
@@ -4435,7 +4437,7 @@
 		+ /ˈprɒfɪt/ prophet (n)先知/預言家/宣揚者 --> prophecy (n)預言, 預知能力 --> prophetic (adj)準確預測的, 預言的 <-- pro + peht 說 = speak
 		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <-- pro + pit 懇求 = resort, solicit
 		+ propitiate (v)取悅 = appease <-- propitious
-		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (v)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
+		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (V)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
 		* propose --> proposal
 		- proposition
 		+ proprietary
@@ -4485,7 +4487,7 @@
 			+ perplex
 			+ perquisite 
 			- persecute
-			+ /pəːsɪˈvɪə/ persevere (v)堅持不懈/不屈不撓 <|> /prɪˈzəːv/ preserve --> perseverance (n)堅持不懈 <-- per + severe 
+			+ /pəːsɪˈvɪə/ persevere (v)堅持不懈/不屈不撓 = persist <|> /prɪˈzəːv/ preserve --> perseverance (n)堅持不懈 <-- per + severe 
 			- /ˈpəːsɪflɑːʒ/ persiflage (n)挖苦/戲謔 <-- per + sifl 吹哨 = whistle + age
 			+ persist
 			- perspire
@@ -4516,7 +4518,7 @@
 
 	peri 周圍/周邊/附近 = around, adjacent
 		+ perigee
-		- perimeter (n)周/周圍/邊緣, 視野計
+		- perimeter (n)周/周圍/邊緣, 視野計 <|> circumference
 		- /ˈpɪərɪəd/ period (n)時期/期間, 時代, 節, 週期, 句號 (adj)某一時代特有的 <-- peri + od 路 = way
 		- periodic (adj)週期性的, 週期表的
 		- periodical (n)期刊 (adj)週期性的 = periodic, 期刊的
@@ -4564,7 +4566,7 @@
 		- append (v)附加/增補
 		- depend (v)取決於, 依靠/依賴
 		+ dependable (adj)可靠的 = reliable = trustworthy 
-		+ /ˈkɒmpɛnseɪt/ compensate (v)賠償/補償 = indemnify = recompense = wage, [for]彌補/抵銷  = offset = counterbalance --> compensation (n)賠償/補償 = reparation = amends, 賠償金/補償金, 報酬/薪水
+		+ /ˈkɒmpɛnseɪt/ compensate (v)賠償/補償 = indemnify = recompense = wage, [for]彌補/抵銷 = offset = counterbalance --> compensation (n)賠償/補償 = reparation = amends, 賠償金/補償金, 報酬/薪水
 		+ compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
 		+ expend (v)花費/耗費 --> expense (n)支出/開支, 花錢的東西/開銷
 		+ expendable (adj)消耗性的, 無足輕重的/可消耗的
@@ -4586,7 +4588,7 @@
 		++ /dɪˈsparɪdʒ/ disparage (v)貶低/輕視 = belittle = detract = diminish = contempt = scorn = depreciate = downplay = disdain = flout <|> disparate
 		+ /ˈdɪsp(ə)rət/ disparate (adj)截然不同的/迥然相異的 = dissimilar <|> disparage <|> /ˈde-sp(ə-)rət/ desperate 
 		+ disparity (n)不同/差異 = inequality = difference
-		++ parity (n)平等/相等 = equality, 生產狀態, 產次/生產次數
+		++ parity (n)平等/相等 = equality, 生產狀態, 產次/生產次數 <--> partial
 
 	para, par
 		1. 旁邊 = beside, alongside
@@ -4598,7 +4600,7 @@
 			- paralegal (n)律師助理
 			++ /ˈparəlɛl/ parallel (adj)平行的, 相同的/類似的 = comparable = analogous, 並聯的 (n)類似的人或事物, 相似處/比較, 緯線, 參考記號 (v)使成平行, 與...相似 <-- par + allel 另一個 = another
 			- parallelism (n)平行/類似, 對句法, 平行處理
-			+ /pəˈralɪsɪs/ paralysis (n)麻痺/癱瘓, 不知所措/停頓 --> paralyze (v)使麻痺/使癱瘓, 使陷入癱瘓/使全面停頓 <-- par + lysis 放開 = loosen
+			+ /pəˈralɪsɪs/ paralysis (n)麻痺/癱瘓, 癱瘓/停頓 --> paralyze (v)使麻痺/使癱瘓, 使陷入癱瘓/使全面停頓 <-- par + lysis 放開 = loosen
 			- /pəˈramɪtə/ parameter (n)參量/變量, 界限
 			- /ˈparəfreɪz/ paraphrase (n/v)解釋/釋義
 			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (n)寄生蟲病  <-- para + site 吃 = eat
@@ -4634,8 +4636,8 @@
 		- /ˈpeɪθɒs/ pathos (n)感染力/激起憐憫或同情等的因素
 		* pathetic (adj)可憐的 = abject = miserable = dismal, 可鄙的
 		+ empathy (n)同理心/移情 --> empathetic (adj)移情作用的
-		+ sympathy (n)同情/憐憫 = pity = empathy = compassion, 情感共鳴, 同感/贊同, 共鳴
-		+ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
+		++ sympathy (n)同情/憐憫 = pity = empathy = compassion, 情感共鳴, 同感/贊同, 共鳴
+		++ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
 	
 	pass, pact, pat
 		1. 通過 = step, pace
@@ -4691,7 +4693,7 @@
 		- impale (v)刺入/刺中
 
 	peal, pel, pell, puls 推 = push, drive
-		++ appeal (v)懇求, [to]嘗試說服, 上訴, 吸引 = allure (n)懇求 = entreaty = petition = plea, 呼籲, 嘗試說服, 吸引力/魅力
+		++ appeal (n/v)懇求, [to]嘗試說服, 上訴, 吸引 = allure
 		+ appellant (n)上訴人
 		+ appellation (n)名稱/稱呼, 命名, 法定產區葡萄酒 = appellation contrôlée
 		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact = oblige, 激起/引發 = incite 
@@ -4744,68 +4746,68 @@
 		+ plaintive (adj)聽起來悲傷的 = melancholy = mournful = dismal = gloomy = desolate
 
 	plast 塑造 = mold
-		- plaster (n)灰泥/石膏 (v)抹灰泥, 塗抹, 公開展示, 敷貼膏藥, 轟炸/砲彈攻擊
+		- plaster (n)灰泥/石膏 (v)抹灰泥, 塗抹, 公開展示, 敷貼膏藥, 轟炸/砲彈攻擊 = bombard
 		++ plastic (adj)可塑的/塑性的, 不自然的/假的 = artifical = unnatural, 容易塑形的, 塑造的/塑性的, 適應性的 (n)塑膠, 信用卡
 		++ plasticity (n)可塑性/柔軟性 = pliability, 適應性
 
 	plat 平的 = flat
 		- plate (n)盤子/碟子/托盤, 一盤, 肉類主菜, 車牌 (v)電鍍
 		+ platitude (n)陳腐/陳詞濫調 = cliché = commonplace --> platitudinous (adj)陳腐的/陳詞濫調的 = commonplace = trite = hackneyed
-		-  /ˈplatəʊ/ plateau -> plateaux/plateaus (n)高原, 穩定水準 (v)達到穩定水準
+		- /ˈplatəʊ/ plateau -> plateaux/plateaus (n)高原, 穩定水準 (v)達到穩定水準
 
 	plagio, plage 斜的 = oblique
-		- /plɑːʒ/plage (n)海濱浴場
+		- /plɑːʒ/ plage (n)海濱浴場
 		- plagiotropic (adj)斜向性的 --> plagiotropism (n)斜向性
 
 	peter, pet, pir 尋找/嘗試 = seek
 		- appetence, appetency (n)欲望/性欲, 傾向 = tendency = affinity
-		* /ˈapɪtʌɪt/ appetite (n)慾望/食慾, 愛好 = penchant = passion = propensity --> appetizer (n)開胃品/開胃菜 --> appetizing (adj)美味可口的/促進食慾的
+		* /ˈapɪtʌɪt/ appetite (n)食慾, 慾望/渴望 --> appetizer (n)開胃品/開胃菜 --> appetizing (adj)美味可口的/促進食慾的
 		- compete (v)競爭, 媲美/比得上 --> competition (n)競爭, 比賽/競賽, 對手
-		+ competent (adj)有能力的/能幹的, 充分的/足夠的 = acceptable = satisfactory, 有法定資格的 <-- compete
+		+ /ˈkɒmpɪt(ə)nt/ competent (adj)有能力的/能幹的, 充分的/足夠的 = acceptable = satisfactory, 有法定資格的 <-- compete
 		++ competence, competency (n)能力, 權限, 語言潛意識, 足以過著舒適生活的收入
 		+ empiric (n)庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
 		+ perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存
-		*** /pɪˈtɪʃən/ petition (n)請願 = entreaty = appeal, 請願書 --> petitioner (n)請願人
+		*** /pɪˈtɪʃən/ petition (n/v)請願, 上訴 = appeal --> petitioner (n)請願人
 
 	petri, petro 石頭 = rock, stone
-		- petrify (v)石化, 嚇呆 --> petrifaction (n)石化, 嚇呆
+		- petrify (v)石化, 嚇呆 --> petrification, petrifaction (n)石化, 嚇呆
 		- /pɪˈtrəʊlɪəm/ petroleum (n)石油
 		- petrology (n)岩石學
-		- petroglyph (n)岩石畫/岩石雕刻
+		- /ˈpɛtrə(ʊ)ɡlɪf/ petroglyph (n)岩石畫/岩石雕刻
 
 	plaud, plaus 鼓掌 = clap the hands
-		+ applaud (v)鼓掌(表示歡迎或讚賞) = acclaim = admire --> applause (n)鼓掌/喝采 = ovation
-		- plaudit (n)喝采/讚美 = praise
-		+++ plausible (adj)貌似真實的/貌似有理的 <|> pause
+		+ /əˈplɔːd/ applaud (v)鼓掌 = acclaim = admire, 讚賞 = praise --> /əˈplɔːz/ applause (n)鼓掌/喝采 = ovation
+		- plaudit (n)讚美  = praise, 鼓掌 = applause
+		+++ /ˈplɔːzɪb(ə)l/ plausible (adj)貌似真實的/貌似有理的, 花言巧語的 <|> pause
 
 	ple, plete, plent, pleni, pleth 滿 = fill == compl
 		- complete (adj)完全的
-		+ complement (V)補充/補足/使完善/使增色 (n)補充物 --> complementary (adj)互補的/補充的 <-- complete
-		+ deplete (v)大量減少/耗盡 = exhaust
+		+ /ˈkɒmplɪm(ə)nt/ complement (V)補充/補足/使完善 (n)補充物, 一些, 人員定額, 補語, 補數 <|> compliment --> complementary (adj)互補的/補充的, 替代醫學的 <-- complete
+		+ /dɪˈpliːt/ deplete (v)大量減少/耗盡 = exhaust
 		+ implement (n)工具/器具 (v)實現/實施 = fulfill = accomplish
-		+ plentiful (adj)豐富的/大量的 = exuberant
-		- plentitude (n)完全 = completeness, 大量
-		- plenteous (adj)豐富的/豐碩的
-		+ plethora (n)過量/過剩 = excess = superfluity = overabundance
+		+ plentiful (adj)豐富的/大量的 = abundant = plenteous
+		- plenitude, plentitude (n)完全 = completeness, 大量 = abundance
+		- plenteous (adj)豐富的/豐碩的 = plentiful
+		+ plethora (n)過量/過多 = excess = superfluity = overabundance, n.過多；過剩；
 		- replenish (v)補充/再裝滿
-		+ replete (adj)充滿的, 完備的
-		- repletion (n)充滿
-		+ supplement (n/v)增補/補充
+		+ /rɪˈpliːt/ replete (adj)充滿的/裝滿的, 吃飽喝足的 <|> deplete --> repletion (n)
+		+ supplement (v)增補/補充 (n)補充物, 營養補給品, 增刊/副刊, 額外收入, 額外收費 <|> supple
 
 	pos, pose, post, pon, pound, postul 放 = place, put
-		+ apposite (adj)適當的/恰當的 = appropriate = agreeable = applicable, 相關的 = pertinent = relevant
-		- component (n)成分/零件
-		+ compose (v)作曲/創作, 組成/構成
+		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
+		- component (n)成分/零件 (adk)組成的/構成的 = constituent
+		+ compose (v)作曲/創作, 組成/構成 =  constitute = make up, 使平靜 = calm = settle
 		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
 		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise
-		+ compound (n)複合物/混合物/化合物, (圍起來的)場地 (v)使混合 = mix, 使加重/使加劇 (adj)複合的, 以複利計算的
-		- decompose
-		- depose (v)宣誓證明, 罷免/免職 --> deposition (n)證言, 罷免/免職, 沉澱
-		* discompose (v)使不安/使煩惱
-		- disposal (n)清除/處理
-		*** dispose (v)配置/布置, 處理/處置, 使傾向於, 決定 --> disposition (n)性格 = characteristic attitude = mettle = temper = humor, 傾向/意向 = inclination, 配置/布置, 處理/清除
-		* predispose (v)使有傾向 --> predisposition (n)傾向
-		* disposable (adj)一次性的/用完即丟的, 可用的
+		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 是惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
+		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
+		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
+		* discompose (v)使不安/使煩惱 = disturb = agitate
+		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
+		*** dispose (v)處理/處置, 殺, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定
+		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
+		* disposable (adj)一次性的/用完即丟的, 可以捨棄的, 可自由使用的 (n)一次性用品
+		* predispose (v)使有傾向 = dispose = incline --> predisposition (n)傾向
 		+ exposition (n)闡述/說明, 展覽會/博覽會 --> expository (adj)說明的 = explanatory
 		++ expound (v)詳細述說/闡述 = expatiate --> exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
 		+ expose (v)使接觸到, 揭發 --> exposure (n)暴露/顯露, 曝光
@@ -5892,7 +5894,7 @@
 		- seminary (n)神學院, 女子學校
 
 	sacr, secr, sanct 神聖 = sacred, holy
-		+ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow
+		+ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow, 獻身於/致力於
 		+ execrate (v)詛咒, 憎恨/憎惡
 		+ /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
 		- massacre (n)大屠殺 = carnage = slaughter = genocide
@@ -6476,7 +6478,7 @@
 
 	trit, tribe 摩擦 = rub, wear down
 		- attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
-		+ contrite (adj)悔罪的/悔恨的 = repentant = penitent --> contrition (n)悔恨 = compunction = remorse = penitence = ruth
+		+ contrite (adj)悔罪的/悔恨的 = repentant = penitent = remorseful --> contrition (n)悔恨 = compunction = remorse = penitence = ruth
 		+ diatribe (v)怒斥/抨擊
 		- detritus (n)碎屑, 廢墟/殘海 = debris
 		+ trite (adj)陳腐的/老一套的 = banal = hack
@@ -6624,7 +6626,7 @@
 		- ungrudging (adj)慷慨的
 		+ unguided (adj)無約束的, 無約束的
 		- unimpassioned (adj)沒有激情的
-		+ unimpeachable (adj)無可指責的/無可置疑的 <-- un + impeach + able
+		+ unimpeachable (adj)無可指責的/無可置疑的 = trustworthy <-- un + impeach + able
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/缺乏經驗的 = inexperienced
 		- unjustified (adj)未被證明為正當的/不正當的, 無法解釋的, 無端的/不必要的
@@ -6646,7 +6648,7 @@
 		* unprincipled (adj)無原則的/肆無忌憚的/不道德的
 		+ unproductive (adj)徒然的/無成效的
 		+ unpromising (adj)沒希望的/沒出息的
-		+ unpropitious (adj)不吉利的/惡運的/不順遂的 = untoward <-- un + propitious
+		+ unpropitious (adj)不順遂的 = untoward <-- un + propitious
 		- unprovoked (adj)未受挑釁的/無緣無故的(生氣等)
 		++ unqualified (adj)無資格的, 無限制的/絕對的 = sheer = absolute = complete
 		- unrealized (adj)無法實現的, 無法兌現的
