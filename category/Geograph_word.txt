@@ -26,6 +26,8 @@
 	- the Northern Hemisphere 北半球
 	- the Western Hemisphere 西半球
 	- the North Pole 北極點，又叫北極，用於稱呼地球上的地理北極
+	- the Green Belt 綠帶，用於土地利用規劃的政策和土地使用區域名稱，用於保留周圍或鄰近城市地區的大部分未開發，野生或農業用地
+	- brownfield 棕色地帶的（指城鎮中原為工業用地現準備重新開發的地區）
 
 [Landscape]
 	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
@@ -48,6 +50,7 @@
 	- playa
 		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
 		> |player|
+	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
 
 [Weather]
 	- cyclone 氣旋 --> cyclonic 氣旋的
@@ -99,6 +102,9 @@
 	- Waorani 華尤拉尼人，是來自厄瓜多爾亞馬遜地區的本土美洲印第安人
 	- Singhalese, Sinhalese (n)錫蘭人/僧伽羅人, 僧伽羅語(斯里蘭卡的官方語言之一) (adj)僧伽羅人的, 僧伽羅語的
 	- Tamils 泰米爾人，由一群使用泰米爾語的人所組成，為南亞民族之一。主要分布在印度的坦米爾那德邦、安得拉邦和喀拉拉邦，以及斯里蘭卡的東部和北部地區
+	- Mayan /ˈmʌɪ(j)ən/ (n)瑪雅語系 (adj)瑪雅語系的, 瑪雅人的
+	- Taino (adj)泰諾語的/泰諾人的 (n)泰諾族人(隸屬阿拉瓦克人，是加勒比地區主要原住民之一), 泰諾語
+
 [Language]
 	- Swahili 斯瓦希里語，是非洲語言使用人數最多的語言之一，和阿拉伯語及豪薩語並列非洲三大語言
 	- francophone
@@ -120,6 +126,9 @@
 	- Sri Lanka 斯里蘭卡，1972年之前稱錫蘭，是一個位於南亞－印度次大陸東南方外海的島國，屬於亞洲
 	- Iran 伊朗(很長一段歷史時間稱波斯) --> Iranian (adj)伊朗的/伊朗人的, 伊朗語系的 (n)伊朗人, 伊朗語系
 	- Israel 以色列，是位於西亞的主權國家
+	- Damascus 大馬士革
+	- Bangladesh /ˌbaŋɡləˈdɛʃ/ 孟加拉 --> Bangladeshi (adj)孟加拉的/孟加拉人的 (n)孟加拉國人
+	- Qatari /kaˈtɑːri/ 卡達，是位於西亞的君主專制國，屬於遜尼派的阿拉伯國家
 
 [Asia POI]
 	- Kremlin 克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
@@ -132,16 +141,21 @@
 	- Lahore 拉哈爾，巴基斯坦的第二大城市，旁遮普省的省會，人口約1000萬人，位於印度河上游平原
 	- Petra 佩特拉，約旦的一座古城，位於安曼南250公里處，隱藏在阿拉伯谷東側的一條狹窄的峽谷內
 	- Hagia Sophia 聖索菲亞大教堂，現今土耳其伊斯坦堡的宗教建築，有近一千五百年的漫長歷史，因其巨大的圓頂而聞名於世
+	- Yangtze /ˈjaŋtsi/ 長江
+	- the Holy Land 聖地，是在約旦河與地中海之間的一個區域，包括約旦河的東岸。「聖地」這個詞傳統上是「聖經以色列地」以及歷史上的「巴勒斯坦地區」的同義詞
+
 
 [Europe]
 	- Chad 查德，是非洲中部的一個內陸國家
 	- Uganda 烏干達，是位於東非的內陸國家
 	- Libya 利比亞，是北非的一個阿拉伯國家 --> Libyan 利比亞的
 	- Rwanda 盧安達，是位於中非東部的主權國家，坐落在赤道以南
-	- Poland 波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語
+	- Poland 波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole 波蘭人
 	- Denmark 丹麥 --> Dane 丹麥人
 	- Portugal /ˈpɔːtjʊɡ(ə)l/ 葡萄牙
+	- Great Britain 大不列顛島
 	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
+	- Scotland 蘇格蘭，大不列顛及北愛爾蘭聯合王國下屬的構成國之一，位於大不列顛島北部，英格蘭之北，被大西洋環繞包圍
 	+ Spaniard 西班牙人 == A native or inhabitant of Spain
 	+ Spanish 西班牙
 	- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
@@ -173,6 +187,16 @@
 	- Manchester 曼徹斯特，英國英格蘭西北區域大曼徹斯特郡的都市自治市、城市、單一管理區。「曼徹斯特」此名經常用來指整個都市區，其市區總人口在英國排名第二，僅次於倫敦。曼徹斯特以倉庫眾多聞名於世，別名「倉庫城市」
 	- Ħal Saflieni Hypogeum 哈爾·薩夫列尼地下宮殿，位於馬爾他東南部的城鎮保拉，是一座約建於馬爾他薩夫列尼期的地下建築
 	- Elbphilharmonie 易北愛樂廳，是一座位於德國漢堡的音樂廳，是建設中的漢堡港城的一部分，位於倉庫城的最西端，高達110米，是漢堡最高的居住建築
+	- Royal Botanic Gardens 邱園，正式名稱為「邱的皇家植物園」，座落在英國倫敦西南郊的泰晤士河畔列治文區邱，原是英國王家園林，收了約5萬種植物，約占已知植物的7分之1，目前是聯合國認定的世界文化遺產
+	- Kew 邱/基尤，是英國倫敦泰晤士河畔列治文區下屬一區，是倫敦的郊區之一
+	- the Thames /tɛmz/ 泰晤士河
+	- the Isle of Dogs 道格斯島，道格斯島是倫敦東區的一個地區，也是泰晤士河泥沙堆積形成的最大半島之一
+	- Frankfurt 法蘭克福，正式全名為美茵河畔法蘭克福，是德國中西部黑森邦的第一大城市，也是德國第五大城
+	- Canary Wharf 金絲雀碼頭，是繁忙的金融地區，處處皆是有如加拿大廣場一號般閃爍奪目的大廈
+	- Big Ben 大本鐘，是倫敦西敏宮北端鐘樓的大報時鐘的暱稱，也常代指該鐘所在的鐘樓伊莉莎白塔 
+	- Lagos 拉各斯，奈及利亞海港及最大城市帶，位於國境西南部，也是非洲第一大城市，並為非洲成長速度第二快的城市
+	- Greenwich 格林威治，是位於英國英格蘭大倫敦東南的格林威治區、泰晤士河以南的城區和歷史古鎮。格林威治鎮位於泰晤士河南岸，倫敦傳統中心點查令十字東南偏東8.9公里處
+	- the Royal Observatory 皇家天文台
 
 [Americas]
 	- Arizona 亞利桑那州。首府和最大城市是鳳凰城。
@@ -204,12 +228,13 @@
 	- Vermont 佛蒙特州 
 	- Idaho 愛達荷州，美國西北方的一個州，州首府是波夕，美國郵政縮寫是ID
 	- West Virginia
-
-	- Wyomin 懷俄明州。包括舉世聞名的黃石國家公園和大提頓國家公園等
+	- Tennessee 田納西州，位於美國南方，首府為納許維爾，是美國音樂聖地，也是美國鄉村音樂的中心
 	- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
+
 	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
 	- Haiti 海地，是位於加勒比海的島國
 	- Guatemala 瓜地馬拉，位於中美洲
+	- Hispaniola 伊斯帕尼奧拉島，是加勒比海地區第二大島
 
 [Americas POI]
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部

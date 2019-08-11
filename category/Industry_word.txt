@@ -20,6 +20,7 @@
 	- licensing terms 授權條款
 	- licensing agreement 授權合約 
 	- capitalism 資本主義 == An economic and political system in which a country`s trade and industry are controlled by private owners for profit, rather than by the state.
+	- yellow page 黃頁，在很多國家和地區都用來表示一份商業用社會團體的電話名冊、通訊目錄
 
 [Title/Job]
 	- chief executive 首席執行官
@@ -64,6 +65,8 @@
 	- undertaker 殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- cottage industry 家庭代工
 	- attachés /əˈtaʃeɪ/ 專員 == A person on the staff of an ambassador having a specialized area of responsibility.
+	- sidekick 助手 == A person`s assistant or close associate, especially one who has less authority than that person.
+	- aide-de-camp /ˌeɪddəˈkɒ̃/ 副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
 
 [Company/Store]
 	- off-duty 不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
@@ -126,6 +129,10 @@
 	- fire drill 消防演習
 	- clock in 打卡上班 == to record the time you arrive at work on a special machine
 		> What time did you clock in this morning?
+	- booth
+		> 貨攤 |A small temporary tent or structure at a market, fair, or exhibition, used for selling goods, providing information, or staging shows.|
+		> 小房間/電話亭/投票間/包廂 |An enclosed compartment that allows privacy, for example when telephoning, voting, or sitting in a restaurant.|
+	- PR == public relations 公共關係，通常簡稱PR或公關，是指有關著名人物、商業機構、政府、非牟利機構等各種組織，為改善與社會公眾的關係、促進公眾對其認識，以樹立良好形象、取得公眾的理解及支持
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -315,6 +322,10 @@
 		> 小錯 |A minor wrongdoing.|
 		> 輕罪 |A nonindictable offense, regarded in the US (and formerly in the UK) as less serious than a felony.|
 	- deferred prosecution 延期起訴協議，是一種自願的裁決替代方案，其中檢察官同意給予大赦，以換取被告同意滿足某些要求
+	- ruling
+		> 裁決/裁定 |An authoritative decision or pronouncement, especially one made by a judge.| the ruling was reversed in the appeal court
+		> 統治的/管理的 |Currently exercising authority or influence.| the ruling coalition
+	
 
 [Crime/Police]
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
@@ -393,6 +404,11 @@
 		> 飛簷層 |A projecting course of brick or stone on the face of a wall.|
 	- cordon sth off 封鎖隔離 == Prevent access to or from an area or building by surrounding it with police or other guards.
 		> the city centre was cordoned off after fires were discovered in two stores
+	- snoop
+		> 窺探 |Investigate or look around furtively in an attempt to find out something, especially information about someone`s private affairs.| your sister might find the ring if she goes snooping about
+		> 窺探 |A furtive investigation.| I could go back to her cottage and have another snoop
+		> 私家偵探/狗仔 |A person who furtively tries to find out information about someone`s private affairs.| I start talking without admitting that I`m a professional snoop
+	- narc, nark 緝查毒品的刑警 == An official narcotics agent.
 
 [Army/Military]
 	- captain
@@ -433,6 +449,18 @@
 		> 隊/團 |A group of people with a characteristic in common.| the anti-smoking brigade
 		>  把……編成旅 |Form into a brigade.| the militia, which was brigaded with regular formations to improve its training
 		> 與...有關連 |Associate with (someone or something)| they thought the speech too closely brigaded with illegal action
+	- blitz
+		> 閃電戰 |An intensive or sudden military attack.| a heavy artillery blitz
+		> 對…發動閃電戰 |Attack or seriously damage (a place) in a blitz.| news came that Rotterdam had been blitzed
+		> 突如其來的努力 |A sudden concerted effort to deal with something.| Katrina and I had a blitz on the cleaning
+		> |A play in which one or more defensive backs charge the quarterback of the opposing team.|
+		> |Charge (the opposing team`s quarterback) in a blitz.|
+		> 快速國際象棋 |lightning chess|
+		> |Process (food) in an electric mixing machine.|  add the eggs and blitz the mixture until it becomes granula
+	- stranglehold
+		> 勒頸動作 |A grip around the neck of another person that can kill by asphyxiation if held for long enough.|
+		> 壓倒性的控制 |Complete or overwhelming control.| in France, supermarkets have less of a stranglehold on food supplies
+	- beachhead 灘頭陣地 == A defended position on a beach taken from the enemy by landing forces, from which an attack can be launched.
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -458,6 +486,9 @@
 	- headlight 車前大燈/前照燈 == A powerful light at the front of a motor vehicle or railway engine.
 	- dead reckoning 航位推測法，是一種利用現在物體位置及速度推定未來位置方向的航海技術
 	- diesel motor 柴油引擎
+	- diesel /ˈdiːz(ə)l/ 
+		> 柴油引擎 |diesel engine|
+		> 柴油 |A heavy petroleum fraction used as fuel in diesel engines.|
 	- hydraulic fluid 液壓油
 	- number plate 車牌
 	- motorboat 汽艇
@@ -490,6 +521,8 @@
 		> 幹線 |A road or path forming a route between two places.| a scheme to stop the park being used as a thoroughfare
 		> 大街/大道 |A main road in a town.| the teeming thoroughfares of central London
 	- speedometer /spiːˈdɒmɪtə/ 車速錶
+	- viaduct 高架橋 == A long bridge-like structure, typically a series of arches, carrying a road or railway across a valley or other low ground.
+
 
 [Agriculture/Farming]
 	+ farm
@@ -645,7 +678,7 @@
 	- tri-tip 嫩角尖沙朗
 	- ground beef 牛絞肉
 	- tamale 墨西哥粽
-	- cookout 野炊派對 == A party or gathering where a meal is cooked and eaten outdoors.
+	- cookout 露天燒烤/野炊派對 == A party or gathering where a meal is cooked and eaten outdoors.
 	- tangy 撲鼻的 == Having a strong, piquant flavour or smell.
 	- churro 吉拿棒
 	- cinnamon /ˈsɪnəmən/ 肉桂/肉桂樹
@@ -673,8 +706,22 @@
 		> 主菜 |The main course of a meal.|
 		> 入場權 |The right to enter or join a particular sphere or group.’| an actress with an entrée into the intellectual society of Berlin
 	- matzah balls 瑪索球(猶太丸子)
+	- pickle
+		> 醃漬食品 |A relish consisting of vegetables or fruit preserved in vinegar or brine.| cheese and pickle
+		> 醃黃瓜 |A pickled cucumber.|
+		> 鹽滷 |Liquid used to preserve food or other perishable items.|
+		> 醃製 |Preserve (food or other perishable items) in vinegar or brine.| fish pickled in brine
+		> 困境 |A difficult situation.| I am in a pickle
+		> 淡酸水 |An acid solution for cleaning metal objects.|
+		> 用酸性溶液清洗 |Immerse (a metal object) in an acid or other chemical solution for cleaning.| the steel sheet is first pickled in acid to remove all oxides
+	- gherkin 泡菜用的小黃瓜
+	- broccoli /ˈbrɒkəli/ 西蘭花/花椰菜
 
 [Medicine]
+	- medical
+		> 醫學的 |Relating to the science or practice of medicine.| a medical centre
+		> 藥物的 |Relating to medicine as distinguished from surgery, psychiatry, etc.| he was transferred for further treatment to a medical ward
+		> 健康檢查 |An examination to assess a person's state of physical health or fitness.| they have medicals before they're sent overseas
 	- doula == A woman, typically without formal obstetric training, who is employed to provide guidance and support to a pregnant woman during labour.
 	- midwife == A person, typically a woman, who is trained to assist women in childbirth.
 	* psychologist 心理學家 == An expert or specialist in psychology.
@@ -788,6 +835,11 @@
 	- ICD 植入式去顫器 == Implantable Cardioverter Defibrillator
 	- AED 自動體外心臟去顫器 == Automated External Defibrillator
 	- defibrillator 去顫/除顫 == An apparatus used to control heart fibrillation by application of an electric current to the chest wall or heart.
+	- miasma theory 瘴氣中文中瘴氣為中醫名詞，疾病地理學之概念，是指中國南方山林間濕熱環境下因某種原因（如動植物腐敗等）而產生的一種能致病的有毒氣體
+	- quinine 金雞納鹼/奎寧(治療與預防瘧疾且可治療焦蟲症的藥物)
+	- maternity ward 產房 == the part of a hospital in which women give birth and where they are taken care of after giving birth
+	- microbiome /mʌɪkrəʊˈbʌɪəʊm/ 人類微生物群系，又稱為正常菌群是某些微生物與宿主在長期的進化過程中形成共生關係，對生物體無害的一類細菌
+	- terminal illness 絕症
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -874,6 +926,13 @@
 	- Parkinson’s disease 帕金森氏病，中樞神經系統的退行性疾病
 	- Asperger syndromes 亞斯伯格症候群，其重要特徵是社交與非言語交際的困難，同時伴隨著興趣狹隘及重複特定行為，但相較於其他泛自閉症障礙，仍相對保有語言及認知發展。通常亞斯伯格症患者的智力正常，有許多人智商偏高，具有某些方面的天賦，極少數的人屬於高智商。但患者經常出現肢體笨拙和語言表達方式異常等狀況
 	- autism /ˈɔːtɪz(ə)m/ 自閉症
+	- malaria /məˈlɛːrɪə/ 瘧疾，是一種會感染人類及其他動物的全球性寄生蟲傳染病，其病原瘧原蟲藉由蚊子散播
+	- ague /ˈeɪɡjuː/ 寒顫/發冷 == A fever or shivering fit.
+	- syphilis /ˈsɪfɪlɪs/ 梅毒
+	- smallpox 天花 == An acute contagious viral disease, with fever and pustules that usually leave permanent scars. It was effectively eradicated through vaccination by 1979.
+	- Plasmodium falciparum 惡性瘧原蟲，一種原生動物寄生蟲，是引發人類瘧疾的瘧原蟲的一種，由雌性瘧蚊傳播
+	- Toxoplasma gondii 弓漿蟲
+	- STD 性感染疾病 == Sexually transmitted diseases
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -915,6 +974,7 @@
 	- editor-at-large 特約編輯
 	+ lithography 平板印刷術 == offset printing == The process of printing from a flat surface treated so as to repel the ink except where it is required for printing.
 	- letterpress 凸版印刷 == Printing from a hard raised image under pressure, using viscous ink.
+	- printing press 印刷機
 	- intaglio (n)陰刻/凹雕/凹刻印刷 (v)凹雕
 	- blanket cylinder 橡膠滾筒
 	- webfed press 捲筒紙印刷機
@@ -935,6 +995,10 @@
 	- paparazzi 狗仔隊
 	- stream-of-consciousness 意識流
 	- Associated Press 聯合通訊社，為美國乃至於世界最大的通訊社，是由各成員單位聯合組成的合作型通訊社
+	- backdrop
+		> 佈景 |A painted cloth hung at the back of a theatre stage as part of the scenery.|
+		> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
+		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -1128,6 +1192,8 @@
 		> 充氣臂圈/救生臂環 |a hollow, ring-shaped piece of plastic filled with air, that people who are learning to swim wear on their arms in water to help them float|
 	- black armband == In Western culture, a black armband signifies that the wearer is in mourning or wishes to identify with the commemoration of a family friend, comrade or team member who has died. 
 	- vanity case 化妝包 == a small case fitted with a mirror and compartments for make-up.
+	- wig 假髮 == A covering for the head made of real or artificial hair, typically worn by judges and barristers in law courts or by people trying to conceal their baldness.
+
  
 [Art]
 	- the Mona Lisa
@@ -1155,6 +1221,10 @@
 		> 柔和的淡色彩 |A soft and delicate shade of a colour.| the subtlest of pastels and creams
 		> 柔和的/淡的 |Of a soft and delicate shade of colour.| pastel blue curtains
 	- beige /beɪʒ/ 米色 == A pale sandy fawn colour.
+	- maroon
+		> 褐紅色的 |Of a brownish-red colour.|
+		> 褐紅色 |A brownish-red colour.| the hat is available in either white or maroon
+		> 把……放逐到無人島上/使孤立無援 |Leave (someone) trapped and alone in an inaccessible place, especially an island.| a novel about schoolboys marooned on a desert island
 	
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -1279,6 +1349,10 @@
 		> 人生 |Life viewed as a journey.| now is the thirty-first year of my dark pilgrimage on this earth
 	- mecca 聖地 --> Mecca 麥加
 	- Sikh /siːk/ 錫克教 <--> seek /siːk/ <--> sick /sɪk/ 
+	- Christianity (n)基督教, 基督教精神
+	- English Protestant 英國新教教徒
+	- Catholic Ireland 愛爾蘭天主教
+	- Huguenot 胡格諾派，16世紀至17世紀法國基督新教歸正宗的一支教派
 
 [Engineer]
 	- Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1354,6 +1428,9 @@
 	- turbine /ˈtəːbʌɪn/ 渦輪
 	- keystroke 按鍵之敲擊 == A single depression of a key on a keyboard, especially as a measure of work.
 	- accelerometer /əkˌsɛləˈrɒmɪtə/ 加速度計
+	- gremli /ˈɡrɛmlɪn/ 
+		> 小精靈 |An imaginary mischievous sprite regarded as responsible for an unexplained mechanical or electronic problem or fault.| a gremlin in my computer omitted a line
+		> 無有任何解釋的問題或故障 |An unexplained problem or fault.| electrical gremlins are often difficult to locate
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1389,6 +1466,7 @@
 	- track record 成績記錄 == all the achievements or failures that someone or something has had in the past
 		> The school has an impressive/strong track record of getting its students into good universities.
 	- Montessori 蒙特梭利教育，由義大利心理學家兼教育學家瑪麗亞·蒙特梭利發展起來的教育方法，強調獨立，有限度的自由和對孩子天然的心理、生理及社會性發展的尊重。
+	- abstinence-only programs 守貞教育，是性教育的一種形式，其會教育學生不要進行發生婚姻以外的性行為，並以負面角度形容發生婚前性行為及女性進行墮胎後的後果
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1476,7 +1554,12 @@
 	- ambassador /amˈbasədə/
 		> 大使/使節 |An accredited diplomat sent by a state as its permanent representative in a foreign country.| the French ambassador to Portugal
 		> 代表 |A representative or promoter of a specified activity.| he is a good ambassador for the industry
+	- embassy
+		> 大使館 |The official residence or offices of an ambassador.| the Chilean embassy in Moscow
+		> 大使館全體人員 |The staff working in an embassy.| the embassy denied any involvement in the murder
+		> 大使 |A deputation or mission sent by one ruler or state to another.| Worsley failed to be selected to join the embassy to Sweden
 	- land grab 土地掠奪，大規模土地徵用的一個有爭議的問題：國內和跨國公司，政府和個人購買或租賃大塊土地
+	- the Magna Carta 大憲章，是英格蘭國王約翰最初於1215年6月15日在溫莎附近的蘭尼米德訂立的拉丁文政治性授權文件
 
 [House/Furniture]
 	- chore /tʃɔː/ 雜務 == A routine task, especially a household one.
@@ -1520,6 +1603,7 @@
 	- floorboard
 		> 地板 |A long plank making up part of a wooden floor in a building.|
 		> 汽車駕駛室的車底板 |The floor of a motor vehicle.| the keys had fallen on the floorboard of her car
+	- thermostat 恆溫器
 
 [Structure]
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
@@ -1613,6 +1697,20 @@
 	- terraced houses 排屋，是住宅的一種式樣，由多幢相連的雙層或多層房屋組成，一排排屋之內相鄰的房屋共用同一堵牆
 	- alleyway 小巷
 	- tepee, teepee, tipi 梯皮(一種圓錐體狀的帳篷) == A portable conical tent made of skins, cloth, or canvas on a frame of poles, used by North American Indians of the Plains and Great Lakes regions.
+	- dike, dyke
+		> 女同性戀 |A lesbian.|
+		> 堤 |A long wall or embankment built to prevent flooding from the sea.|
+		> 堤壩 |A low wall or earthwork serving as a boundary or defence.| Offa`s Dyke
+		> 堤道 |A causeway.|
+		> 溝渠/水道 |A ditch or watercourse.|
+		> |An intrusion of igneous rock cutting across existing strata.|
+		> 建水提 |Provide (land) with a wall or embankment to prevent flooding.|
+	- high-rise 摩天樓 == a tall modern building with many floors
+	- chimney /ˈtʃɪmni/ 
+		> 煙囪 |A vertical channel or pipe which conducts smoke and combustion gases up from a fire or furnace and typically through the roof of a building.| a coal fire thrust yellow flames up the chimney
+		> 煙囪柱 |A chimney stack.| the outlines of rooftops and chimneys stood out against the pale sky
+		> 玻璃燈罩 |A glass tube protecting the flame of a lamp.| he trimmed the wick and put the glass chimney over the flame
+		> 可供攀登的狹窄裂口 |A very steep narrow cleft by which a rock face may be climbed.| he slid fifty feet down a chimney, and became wedged there
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
@@ -1696,6 +1794,9 @@
 		> 障礙賽馬 |A horse race over a series of hurdles.| a handicap hurdle
 		> 以柵欄圍 |Enclose or fence off with hurdles.| a maze of individual hurdled pens
 	- rugby 橄欖球
+	- velodrome /ˈvɛlədrəʊm/ 
+		> 自行車場 |A cycle-racing track, typically with steeply banked curves.|
+		> 自行車體育場 |A stadium containing a banked cycle-racing track.|
 
 [Fun/Entertainment]
 	- spree /spriː/ 
@@ -1758,3 +1859,4 @@
 	- gypsum /ˈdʒɪpsəm/ 石膏
 	- bifocals 雙光眼鏡，是具有兩種不同光學能力的眼鏡
 	- lightning rod 避雷針
+	- Slurpee 思樂冰，由全球性的便利商店7-Eleven研製的沙冰飲品，在1967年首次推出

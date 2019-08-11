@@ -183,10 +183,14 @@
 			>> such (sth) as 例如
 			>> traceable to 追溯到
 			>> prejudice against
-
+	+ as to 關於 == With respect to; concerning.
+		> decisions as to which patients receive treatment
+		> He was uncertain as to which road to take.
+		> There is no decision as to when the work might start.
+	+ as to/for 至於(轉變話題) == changing the subject to
+		> As to where we'll get the money from, we'll talk about that later.
 	- as of 在...時/自...起 == on, at, from - used to indicate a time or date at which something begins or ends
 		> The project wa terminated as of January 1.
-
 	- as opposed to 而不是 == not something else, used to compare two things.
 		> We ate in the restaurants, as opposed to the bistro.
 		> The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author`s beliefs, as opposed to what is imposed by political coercion.
@@ -210,7 +214,9 @@
 		> Visitors build a stronger connection to the brand when they are front and center as opposed to an observer in this Star Wars universe, Niles said.
 	+ as a whole 總體上/整個看來 == when considered as a group and not in parts
 		> The population as a whole is getting healthier.
-
+	- as well as == in addition to
+	- as a rule == generally == usually
+		>  an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring
 	- ascribe A to B
 		1. 認為 A 是 B 所為 == B said or created A == A is ascribed to B
 			> He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin.
@@ -324,10 +330,7 @@
 			> This, and the remaining frescoes, are not attributed to Giotto.
 			> A Madonna and Child attributed to Pietro Lorenzetti.
 	
-	- as well as == in addition to
-	- as to == with respect to == concerning
-	- as a rule == generally == usually
-		>  an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring
+	
 	- at the opposite end of the spectrum == at the other end of the spectrum
 		> At the other end of the spectrum is the diamond, whose energy can be released only when it heated to its burning point, 650°C
 		> As astronomers explore the vast outer reaches of space, physicists are busy working at the opposite end of the spectrum, studying the microworld of particles that make up all things.
@@ -428,7 +431,7 @@
 	- be subject to
 		1. 易受...影響的
 			> a disorder in which the person`s mood is subject to wild wings from mania to depression.
-			> Because the potential hazards pollen grains are subject to as they are transported over long distances are enormous, wind pollinated plants have, in the view above, compensated for the ensuing loss of pollen that is one to three orders of magnitude greater than the amount produced by species pollinated by insects.
+			> Because the potential hazards pollen grains are subject to as they are transported over long distances are enormous, wind pollinated plants have, in the view above, compensated for the ensuing loss of pollen that is aone to three orders of magnitude greater than the amount produced by species pollinated by insects.
 				>> pollen 花粉
 				>> pollinate
 				>> in the view above 按上述觀點
@@ -515,6 +518,8 @@
 		> This isn`t the last we`ll hear of it by any means.
 
 [C]
+	- chalks sth up to 把..歸因於.. == To attribute something to something else
+		> They're a very young team, so we'll chalk this loss up to inexperience and nerves.
 	- call attention to == make people know and be concerned or think about something
 	- call for == require == demand
 		> The job calls for typing skill.
@@ -527,6 +532,7 @@
 		> The results of the experiments performed by Elizabeth Hazen and Rachel Brown were provocative not only because these results challenged old assumption but also because they called the prevailing methodology into question.
 			>> provocative == inciting, stimulating, irritating, or vexing
 			>> prevail == exist everywhere
+	- call the whole thing off 完全結束 == to completely end it all.
 	- capture one·s imagination 吸引..的注意 == To hold one·s interest or spark one·s creativity.
 		> I know it sounds strange, but his talk on the importance of obtuse angles really captured my imagination.
 		> That movie captured his imagination so much that it inspired him to become a screenwriter.
@@ -609,7 +615,9 @@
 		> |used to say that one does not like something and wants it to stop or fail| Down with racism!
 		> NA |used to say that one understands or approves of something| I told them I wasn`t down with lying to people.
 		> |affected by (an illness)| She has been down with the flu for a week.
-	- down/along the line == at a further, later, or unspecified point.
+	- down/along the line 終將 == If you say that something happens all down the line, or right down the line, you mean that it happens in every case.
+		> Excellent acting all down the line captures the sound and feeling of that semi-feudal age.
+		> Democrats and Republicans differed right down the line on what the proper responses were.
 		> I knew that somewhere down the line there would be an inquest
 	- down the drain 付諸東流/前功盡棄 == If work or money is or goes down the drain, it is spoiled or wasted.
 		> If the factory closes, that will be a million dollars` worth of investment down the drain.
@@ -633,6 +641,8 @@
 		> 失敗 |If a relationship, organization, or system goes/falls to pieces, it fails:|
 	- fall prey to something/someone == to be influenced by someone or something
 		> Grocers, in their own workaday way, fall prey to the same inertia
+	- nearly/almost fall off one`s chair 非常震驚 == to be extremely surprised
+		> She nearly fell off her chair when she heard the news.
 	- few and far between 稀有/難得 == not very many or not appearing very frequently
 		> Sunny, warm weekends have been few and far between this summer.
 	- first of all == first == first off
@@ -683,8 +693,12 @@
 	+ give rise to 導致 == to cause something
 		> International support has given rise to a new optimism in the company.
 	- good call 正確的選擇/正確的決定
+	- (be) green with envy 十分妒忌/非常嫉妒 == to be very unhappy because someone has something that you want
+		> Chad is heading off to Spain for the week, and I am green with envy.
 [H]
 	- have a say 有發言權 == To have an active and participatory role in making or influencing a decision about something.
+	- have a crush on sb 迷戀/對..一見鍾情 == To have a romantic infatuation with someone, especially unbeknownst to that person.
+		> I have had a crush on Tommy for years.
 	- have a shot at 嘗試/試著 == to attempt == to make a try at
 		? A: "Do you want to try driving my car, to see how you like it?" B: "Yeah, sure, I'll have a shot at it."
 	- have/take a shot 有機會做到 == To have a chance to achieve, attain, or have success in something.
@@ -782,6 +796,9 @@
 	+ lay the foundation for/of 打下基礎 == to produce the basic ideas or structures from which something much larger develops
 		> The two leaders have laid the foundations of a new era in cooperation between their countries.
 		> He had laid the foundation of the science of genetics.
+	- lay waste to sth 對..導致非常嚴重的損害 == to cause very bad damage to (something)
+		> The fire laid waste to the land.
+	- like rats deserting/leaving/fleeing a sinking ship 快速逃離 == in a hurry to leave when problems develop
 	- live off the land 錦衣玉食
 	- long shot == something that is not likely to succeed
 		> It`s a long shot, but you could try phoning him at home.
@@ -864,6 +881,7 @@
 		> She made it clear that her comments were strictly off the record.
 	- off the map 不再知名 == no longer famous or relevant
 		> Mary Kate and Ashley are long off the map if you ask me.
+	+ off of == off 
 	- out of the gate == At or from the very starting position
 		> The company’s stock tumbled about 5% out of the gate, to the $42 range.
 	- out of the red == No longer having a debt owed to one or more other people, corporations, banks
@@ -973,6 +991,8 @@
 		> In that relationship it is very much Lorna who wears the trousers, so to speak
 	- swing for the fences == be going ‘all out’, or giving something their maximum effort.
 		> “Whenever you swing for the fences, the likelihood is, you strike out,” Makovsky said. “But they believe that, even if you don’t get a breakthrough here, this will create a new baseline for future administrations.”
+	- stay put 留在原地 == to remain in the same place or position
+		> Just stay put with the suitcases, while I go and find a cab.
 	- stop short of 險些（做或說） == If you stop short of doing or saying something, you decide not to do or say it although you almost do.
 		> I stopped short of telling him the brutal truth. 
 		> Eppley stops short of saying anything that might discourage incels from continuing to seek him out.
@@ -999,6 +1019,10 @@
 		> Keri is generous to a fault.
 	- to the present 迄今 == until now
 		> From the time of Einstein`s first important publication in 1905 to the present, science has become the world of the mathematician
+	- to the point of 達到某種程度 == to a particular state
+		> The animals were hunted to the point of extinction.
+		> He pushed her to the point of hysterics.
+		> He is concerned about money to the point of obsession.
 	- to date 迄今 == up to the present time
 		? This novel is his best work to date.
 	- to name a few 僅舉幾例 == To provide only a few examples, though there are copious amounts from which to choose.
@@ -1056,7 +1080,8 @@
 		> Her latest play is a firmly tongue-in-cheek look at the world of advertising.
 		> He said that he was a huge fan of the president, although I suspect it was tongue in cheek.
 [U]
-	- upwards of == over == more than
+	+ upwards of 至少 == over == more than == if a number, value, etc. is upwards of something, it is at least that amount or more
+		> The rescue plan is expected to cost upwards of $10 billion. 
 		> This melancholy man wrote upwards of twenty plays during the 1920`s alone and earned Pulitzer Prizes for three
 	- up with == shouted or written on notices to show support
 		> Up with freedom, down with repression

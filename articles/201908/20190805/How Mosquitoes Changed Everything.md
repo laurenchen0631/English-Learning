@@ -26,7 +26,7 @@ The expedition met with ruin. Colonists, sickened by yellow fever and strains of
 	- ague /ˈeɪɡjuː/ 寒顫/發冷 == A fever or shivering fit.
 	- printing press 印刷機
 But, Winegard writes, the expedition did have some lasting results: the overwhelming debt from the failure drove the reluctant Scottish to at last accept a unification offer from England. The mosquitoes of Darien led, by an unexpected route, to the birth of Great Britain.
-	- Great Britain 大不列顛島，一個位於歐洲西北部的島嶼，面積209,331平方公里，是全世界第九大島嶼，
+	- Great Britain 大不列顛島，一個位於歐洲西北部的島嶼，面積209,331平方公里，是全世界第九大島嶼
 Winegard’s book offers a catalogue of such stories. It turns out that, if you’re looking for them, the words “mosquitoes,” “fever,” “ague,” and “death” are repeated to the point of nausea throughout human history. (And before: Winegard suggests that, when the asteroid hit, dinosaurs were already in decline from mosquito-borne diseases.) Malaria laid waste to prehistoric Africa to such a degree that people evolved sickle-shaped red blood cells to survive it. The disease killed the ancient Greeks and Romans — as well as the peoples who tried to conquer them — by the hundreds of thousands, playing a major role in the outcomes of their wars. Hippocrates associated malaria’s late-summer surge with the Dog Star, calling the sickly time the “dog days of summer.” In 94 B.C., the Chinese historian Sima Qian wrote, “In the area south of the Yangtze the land is low and the climate humid; adult males die young.” In the third century, malaria epidemics helped drive people to a small, much persecuted faith that emphasized healing and care of the sick, propelling Christianity into a world-altering religion.
 	- lay -> laid -> laid
 	- lay waste to sth 對..導致非常嚴重的損害 == to cause very bad damage to (something)

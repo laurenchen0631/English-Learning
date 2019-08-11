@@ -799,6 +799,7 @@
 		+ conceive (v)想像/想出/構想 = imagine = invent = form = gestate, 懷孕 = gestate --> conceivable (adj)可想像的/可想到的 = imaginable
 		* concept (n)概念/觀念/想法 = idea --> conception (n)觀念/概念/見解 = idea = perception, 懷孕
 		* conceit (n)自負/自大, 誇張的比喻/藝術效果/奇想 --> conceited (adj)自大的/自負的 = vain = arrogant = haughty = cavalier
+		- contraception (n)避孕
 		* deceive (v)欺騙/矇騙
 		* deceit (n)欺騙/欺詐 = chicanery
 		- deception (n)欺騙/欺詐
@@ -1277,6 +1278,7 @@
 		- crusade (n)(為理想或信念而奮鬥的)運動/鬥爭, 聖戰 (v)為達到某理想而奮鬥
 		- cruciform (n)十字形
 		- crux (n)關鍵/癥結
+		- cruciferous (adj)十字花科的(例如花椰菜，捲心菜，羽衣甘藍，花園水芹，白菜，西蘭花，抱子甘藍和類似的綠葉蔬菜)
 		- excruciate (v)拷問/施酷刑於 = torment --> excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = awkward = tedious
 
 	cub, cumb 立方體/躺 = cube, lie down
@@ -1394,7 +1396,7 @@
 			* deficiency
 			- defraud
 			+ defray (v)支付 <-- de + fray 花費 = cost, expense
-			- defunct
+			+ defunct
 			- defuse (v)拆除引信, 平息/緩和
 			- dehydrate
 			* deliberate
@@ -1917,6 +1919,7 @@
 		- emboss
 		* embitter (v)使難受/使忿恨 
 		+ embrace
+		- embroil (v)捲入糾紛/牽連 = involve
 		+ empathy
 		- emphasis --> emphatic
 		* empower (v)授權/准許, 使強大/使有自信 --> empowerment (n)權利, 自主權 <-- em + power
@@ -1924,6 +1927,7 @@
 		+ encapsulate (v)裝入叫囊, 概括/摘要 = summarize = condense <-- en + capsulate
 		+ enchant --> enchanting
 		- enchain (v)加鎖鍊於, 束縛 = enfetter
+		- enclave (n)飛地（被包圍在另外一個國家境內，和本國其他領土不接壤）, 族群/群體
 		* enclose (v)圍住, (信)附入/封入 --> enclosure (n)圈地/圍場, 圍欄/圍牆, 隔離/隱居, 附件 --> enclosed (adj)與世隔絕的
 		+ encomium (n)讚頌/頌詞 = eulogy = panegyric --> encomiast (n)讚美者 <-- en + com 迷戀 = revel + ium
 		- encompass (v)圍繞/包圍 = enclose = envelop = circumvent, 包含
@@ -4356,6 +4360,7 @@
 		* preliminary
 		- preliterate
 		- prelude
+		- premarital (adj)婚前的 
 		+ premature (adj)過早的, 不成熟的
 		- premeditate --> premeditated
 		+ premise
@@ -4619,7 +4624,7 @@
 			- paranoid (adj)偏執狂的/過度懷疑的
 
 	part 部分 = piece, portion
-		- compartment (n)艙/隔間/包廂 (v)分隔/劃分
+		- compartment (n)艙/隔間/包廂 (v)分隔/劃分 --> compartmentalize (v)分隔/隔開/劃分
 		+ partial (adj)不公平的/偏袒的, 部分的/不完全的 = incomplete <--> impartial --> partiality (n)偏心/偏袒/偏愛 = favoritism
 		- particle (n)微粒/顆粒/粒子, 極小量
 		- particulate (adj)微粒的 (n)微粒狀物質 <-- particle
@@ -4826,7 +4831,7 @@
 		- positive (adj)肯定的, 積極的
 		- poster (n)海報/招貼
 		* postpone (v)使延期/推遲 <-- post 後 = after + pone
-		* postulate (v)假定 = assume = presume = posit, 要求 = demand = claim
+		* postulate (v)假設/假定 = assume = presume = posit (n)假定/假設, 基本條件要求
 		- posture (n)姿勢, 情形/態勢, 心情/心境 (v)裝模作樣/故作姿態
 		- predisposition (n)傾向
 		- preposition (n)介詞/前置詞
@@ -4900,7 +4905,6 @@
 		+ proximity (n)接近/鄰近 = adjacency, 親近
 		- proximate (adj)即將來臨的, 接近的/鄰近的
 
-
 	ped, pedi, pod 腳 = having a foot
 		- biped (n)兩足動物
 		- centipede (n)蜈蚣
@@ -4910,7 +4914,7 @@
 		+ impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter --> impediment (n)妨礙, 阻礙物
 		- pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的
 		- pedestal (n)基座/臺座 = base = foundation
-		+ /pɪˈdɛstrɪən/ pedestrian (n)行人/步行者 (adj)缺乏想像的/平淡的/平庸的 = unimaginative
+		+ /pɪˈdɛstrɪən/ pedestrian (n)行人/步行者 (adj)平淡的/沉悶的 = unimaginative
 		+ peddle (v)兜售/叫賣, 銷贓/違法販售, 提倡 = promote --> peddler (n)小販 = huckster = peddler, 傳播者
 		- podiatry (n)足部治療
 		- podiatrist (n)足科醫師
@@ -5212,12 +5216,12 @@
 			- refrain (v)忍住/節制 = chasten = circumscribe = restrict = forbear = forgo = abstain (n)反覆句/疊句/副歌 <-- re + frain 籠頭 = bridle
 			- refresh (v)消除……疲勞/使精神振作, 使清涼
 			+ refulgent
-			- refurbish (v)刷新/擦亮 = brighten = renovate = furbish <-- re + furbish 
+			- refurbish (v)整修 = renovate = redecorate <-- re + furbish 
 			+ /rəˈɡeɪl/ regale (v)款待, 逗樂 = entertain = amuse <-- re + gale 喜悅 = pleasure
 			*** regard (v)看待, 注視 = observe = look at, 尊敬 = esteem = respec, 考慮 = consider, 有關 = concern = relate to (n)注意 = attention = consideration = care, 注視 = look = gaze, 尊敬/尊重 = esteem, 動機 = motive, 觀點 = aspect = point
 			+ rehabilitate (v)復興/復原/復權/復職 <-- re + habilitate
 			* rehearse (v)排練/預演, 詳述 --> rehearsal (n)排演/演習/練習, 詳述 <-- re + hearse 耙子 = harrow
-			- reimburse (v)償還 <-- re + im + burse 錢包 = bag
+			- reimburse (v)償還/歸還, 補償<-- re + im + burse 錢包 = bag
 			+ reinforce (v)加固/使更結實 = buttress, 加深/進一步證實, 增援 <-- re + in + force
 			- reinstate (v)復職 <-- re + in + state
 			+ reiterate (v)重申/反覆地說 <-- re + iterate
@@ -5792,7 +5796,7 @@
 		+ perspicuity (n)明晰/簡明/聰明睿智 --> perspicuous (adj)清晰明白的/明瞭的
 		+ prospect (v)勘探/勘察 = explore (n)指望/預期/期望, 前景
 		- retrospect (n)回顧/回想
-		+ respite (n)休息, 暫緩
+		+ respite (n)暫時的休息/喘息, 寬限期, 緩期執行 <--> despite
 		- species (n)種類/物種
 		- specialize (v)專門研究 <-- special
 		- specific (adj)特定的/明確的/具體的 (n)特性, 特效藥 --> specifics (n)細小問題/細節/詳情
@@ -5930,7 +5934,7 @@
 
 	sent, sens, scent 感覺 = feel
 		* assent (v)同意/贊成 = accede = accord = consent
-		* consent (v)同意/許可
+		* consent (n/v)許可 (v)同意
 		+ consensus (n)意見一致/共識 --> consensual (adj) 一致的/同意的
 		* dissent (v)反對/不同意 = contradict = demur --> dissenter (n)反對者 = maverick
 		- desensitized (adj)不敏感的, 麻木的
@@ -5942,14 +5946,14 @@
 		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = resentment
 		++ sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
 		- sensible (adj)明智的 = reasonable, 可感覺到的 = noticeable
-		- sensitive (adj)敏感的 --> sensitivity (n)敏感/靈敏性
+		- sensitive (adj)敏感的 --> sensitivity (n)敏感, 感情
 		- sensitize (v)使敏感/使敏化, 使過敏 --> sensitization (n)敏化
 		+ sensual (adj)官能的/肉體上的, 性感的, 喜愛感官享受的/好色的/淫蕩的 = lascivious = lustful = 
 		+ sensuous (adj)感覺上的
 		+ sentient (adj)有知覺的, 意識到的/認識到的 = aware = concious
 		+ sentiment (n)多愁善感, 思想情感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
 		- sentimentality (n)多愁善感
-		- sentinel (n)哨兵/衛兵 = sentry = lookout (v)警戒/守衛
+		- sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛
 		- sentry (n)步哨/哨兵, 站崗/看守
 
 	sert 連結/加入 = connect, link, join == junct == arthr
@@ -6016,7 +6020,7 @@
 		+ presumption (n)推測/假定, 冒昧/放肆 = effrontery
 		- resume (v)重新開始/繼續 = renew
 		+ subsume (v)歸入/納入, 包容/包含 = include = incorporate
-		- sumptuous (adj)豪華的/奢侈的
+		- /ˈsʌm(p)tjʊəs/ sumptuous (adj)豪華的/奢侈的
 
 	sure 肯定
 		- assure (v)像某人保證, 使確信, 給...保險
@@ -6152,7 +6156,7 @@
 		+ instinct (n)天性/本能, 直覺 --> instinctive (adj)本能的, 直覺的 = intuitive
 		+ stimulate (v)刺激/激勵/促使 = goad = prod = urge = whet --> stimulating (adj)使人興奮的
 		- stimulant (n)興奮劑/刺激物
-		- stimulus -> stimuli (n)刺激物/激勵 = impetus
+		- stimulus -> stimuli (n)刺激 = impetus, 刺激品, 刺激/有趣
 		- sting (v)刺/螫/叮, 刺痛/傷害, 刺激/驅使 (n)刺, 諷刺/挖苦
 		++ stingy (adj)吝嗇的 = mean = parsimonious = miserly = penurious, 缺乏的/不足的/極少的 = scanty = meager = sparing = miserable, 有刺的/刺人的
 		- stinginess (n)小氣/吝嗇
@@ -6423,7 +6427,7 @@
 		+ contagion (n)接觸傳染, 感染/蔓延/擴散 --> contagious (adj)接觸性傳染的/帶傳染源的, (情感)具有感染力的
 		+ contiguous (adj)相鄰的/毗鄰的/連續的 = adjacent = near --> contiguity (n)鄰近
 		++ contingent (adj)偶然的 = accidental = fortuitous, [on/upon]視…而定的/取決於…的 (n)代表團, 小分隊
-		+ contingency (n)可能性 = uncertainty = fortuitousness, 意外事件/偶然
+		+ contingency (n)意外事故/偶然事件, 預期, 偶然的花費, 不確定性, 偶然性
 		+ detach (v)分開 = disassemble, 派遣 --> detached (adj)分開的, 獨幢的, 毫不關心的 = indfiierent
 		++ detachment (n)冷漠/淡然 = aloofness, 不帶偏見 <--> prejudice = partiality
 		* intact (adj)完整無缺的/原封不動的 = pristine
@@ -6652,7 +6656,7 @@
 		- unprovoked (adj)未受挑釁的/無緣無故的(生氣等)
 		++ unqualified (adj)無資格的, 無限制的/絕對的 = sheer = absolute = complete
 		- unrealized (adj)無法實現的, 無法兌現的
-		* unravel (v)解開/拆開, 破壞, 揭開/闡明/解開
+		*** unravel (v)解開/拆開, 破壞, 揭開/闡明/解開
 		- unregenerate (adj)不知悔改的
 		- unregulated (adj)未受管理的/未受約束的
 		* unrelenting (adj)堅定的/不退讓的
@@ -6730,6 +6734,7 @@
 		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹的 = funny
 		- upstage (adj)驕傲的/高傲的
 		- upswing (n)上升/增長
+		- uptick (n)上揚/趨勢上揚 
 
 	uni, un 一 = one
 		- unanimous
@@ -6814,7 +6819,7 @@
 		+ adversary (n)敵手/對手
 		- adversarial (adj)對立的, [法]對抗制的 --> adversariality (n)對立
 		+ averse (adj)不願的/反對的 = antagonistic = reluctant = unwilling = loath
-		+ aversion (n)嫌惡/反感 = antipathy = animosity = antagonism = distaste = enmity = hatred = rancor
+		+ aversion (n)嫌惡/反感 = antipathy = animosity = antagonism = distaste = enmity = hatred = rancor, 討厭的人或事物
 		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) <|> aver <|> advert
 		* controvert (v)反駁/駁斥 = contradict = disprove
 		+ controversy (n)爭議/爭論 --> controversial (adj)引起爭論的 = contention
@@ -6840,8 +6845,8 @@
 		- revert (v)恢復/回復到, 重新考慮
 		- revolve (v)旋轉/自轉, 週期性出現/循環往復, 盤桓於腦海, 以……為中心
 		- revolute (v)參加革命
-		+ revolution (n)革命, 變革 --> revolutionary (adj)革命的/革命性的 (n)革命者
-		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/反感的 = disgusting = repulsive = lurid
+		+ revolution (n)革命, 變革 --> revolutionary (adj)大變革的, 革命的, 獨立戰爭的 (n)革命者
+		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive = lurid
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
 		+ versatile (adj)多才多藝的, 多用途的
 		* verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 
@@ -6938,7 +6943,7 @@
 
 		2. 毒 = poison
 			- virus (n)病毒 --> viral (adj)病毒性的 
-			+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 惡毒的/充滿敵意的 = hateful = hostile, 劇烈的
+			+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 充滿敵意的 = hateful = hostile, 高度傳染性的
 
 	viv 活 = live
 		+ /kənˈvɪvɪəl/ convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (n)歡樂/愛交際的性格

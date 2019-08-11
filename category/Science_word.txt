@@ -21,12 +21,14 @@
 	- carat 克拉 == 200 milligrams
 	- megawatt == MW == one million watts
 	- biweekly (ADJ/ADV)一週兩次的, 雙週的 (n)雙週刊, 半週刊
+	- faraday 法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
 
 [Law/Theory/Study]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
 	- Doppler effect == Doppler shift 都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
 	- Milgram`s obedience studies == Milgram experiment 米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
 	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
+	- epigenetics 表觀遺傳學
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
@@ -97,7 +99,11 @@
 	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
 	- galvanic corrosion 伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。
 	- Plexiglas 聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
-
+	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ 硫脲，是尿素中的氧被硫替代後形成的化合物
+	- meth
+		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
+		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
+		> 甲醇化物 |meths|
 [Physical]
 	- wavelength 波長
 	- light wave 光波
@@ -253,6 +259,9 @@
 	- thigh /θʌɪ/ 
 		> 股/大腿 |The part of the human leg between the hip and the knee.|
 		> 股節/腿部 |The body part in other animals that corresponds to the human thigh.| One young bird, handled after wandering, readily disgorged a leg and thigh of a former brother or sister.
+	- taste bud 味蕾
+	- dopamine 多巴胺，是一種腦內分泌物，屬於神經遞質，可影響一個人的情緒
+	- amygdala /əˈmɪɡdələ/ 杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
 	
 [Environment]
 	- greenhouse effect
@@ -269,6 +278,7 @@
 	- Tropic of Cancer 北回歸線
 	- Tropic of Capricorn 南回歸線
 	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
+	- the prime meridian 本初子午線
 	- meridian
 		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth`s surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
 		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth`s surface.|

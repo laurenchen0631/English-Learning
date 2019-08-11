@@ -36,7 +36,7 @@ I wasn’t choosing to hate these vegetables, so I set out to learn what could e
 	- taste bud 味蕾
 	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ 硫脲，是尿素中的氧被硫替代後形成的化合物
 	- revolting 令人作嘔的 == Causing intense disgust; disgusting.
-	- frenemy 敵友/ == A person with whom one is friendly despite a fundamental dislike or rivalry.
+	- frenemy 敵友 == A person with whom one is friendly despite a fundamental dislike or rivalry.
 
 ARE YOU REALLY JUST A PILE OF GENES?
 
@@ -96,7 +96,7 @@ Other research has shown that certain areas in the brain are different for liber
 		> 刺激 |A thing or event that evokes a specific functional reaction in an organ or tissue.| areas of the brain which respond to auditory stimuli
 		> 刺激品 |A thing that arouses activity or energy in someone or something; a spur or incentive.| if the tax were abolished, it would act as a stimulus to exports
 		> 刺激/有趣 |An interesting and exciting quality.| she loved the stimulus of the job
-	- amygdala /əˈmɪɡdələ/  杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
+	- amygdala /əˈmɪɡdələ/ 杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
  
 These examples are just the tip of the iceberg. The truth is, every human behavior — from addiction to attraction to anxiety — is tethered to a genetic anchor. This is not to say that we’re destined to be slaves of our DNA, however. DNA has built human beings a brain so magnificent that it has figured out DNA’s game. And with the advent of gene editing, we have become the first species capable of revising our genetic instructions.
 	- tether /ˈtɛðə/ 

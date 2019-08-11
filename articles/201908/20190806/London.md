@@ -207,7 +207,7 @@ Sadiq Khan, the son of Pakistani immigrants and the fifth of eight children, bec
 	- megacity 大都市 == A very large city, typically one with a population of over ten million people.
 	- Lagos 拉各斯，奈及利亞海港及最大城市帶，位於國境西南部，也是非洲第一大城市，並為非洲成長速度第二快的城市
 Khan attacked threats to London’s livability on all fronts. Climate change? Becoming “zero carbon” by 2050 means more bicycles, fewer cars, a ban on the sale of diesel-burning autos, and building up a fleet of electric buses. Public safety? Protecting children on their walks to school and female pedestrians at night. Khan even unveiled a plan to save London’s disappearing historic pubs, some of which had closed because of changing drinking habits and higher rents and taxes, and to fight childhood obesity by restricting fast food outlets. And Khan backed the designation of London, a city with 8.4 million trees and multiple large parks, as the world’s first National Park City. The brainchild of geographer and National Geographic Explorer Daniel Raven-Ellison, the idea is to encourage Londoners to better acquaint themselves with the city’s environment, which includes 15,000 species of wildlife and plants.
-	- livability, livability 宜居性
+	- livability 宜居性
 	- diesel /ˈdiːz(ə)l/ 
 		> 柴油引擎 |diesel engine|
 		> 柴油 |A heavy petroleum fraction used as fuel in diesel engines.|
@@ -259,7 +259,7 @@ The plant closed in 1983. But fame also saved it from — or prevented, if you p
 	- chimney /ˈtʃɪmni/ 
 		> 煙囪 |A vertical channel or pipe which conducts smoke and combustion gases up from a fire or furnace and typically through the roof of a building.| a coal fire thrust yellow flames up the chimney
 		> 煙囪柱 |A chimney stack.| the outlines of rooftops and chimneys stood out against the pale sky
-		> 玻璃燈罩 |A glass tube protecting the flame of a lamp.| he trimmed the wick and put the glass chimney over the flame’
+		> 玻璃燈罩 |A glass tube protecting the flame of a lamp.| he trimmed the wick and put the glass chimney over the flame
 		> 可供攀登的狹窄裂口 |A very steep narrow cleft by which a rock face may be climbed.| he slid fifty feet down a chimney, and became wedged there
 Ravi Govindia, leader of the Wandsworth borough council, which approved the project, says the infrastructure and restoration more than compensated. “Every development has a finite contribution it can give to the improvement of public services,” he says. “Affordable housing is one component.”
 	- Wandsworth 旺茲沃思倫敦自治市，英國英格蘭大倫敦內倫敦的自治市

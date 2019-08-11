@@ -289,6 +289,7 @@
     ^ bearing (n)負擔, 舉止/風度, 軸承, 關聯/影響, 方位/方向
     ^ bedeck (v)裝飾 = adorn = embellish
     ^ bedlam (n)混亂/騷亂 = riot <--> serenity
+    ^ befall (v)降臨於
     ^ behold (v)看見 = regard = witness --> beholder (n)目擊者/旁觀者 = witness
     ^ behove, behoove (v)對...來說理應... --> it behoves sb to ...
     ^ belabor, belabour (v)過分冗長地說或做, 批評 = criticize, 痛打 = beat = batter = lash = clobber
@@ -297,6 +298,7 @@
     ^ bellwether (n)領頭羊/領導者 <-- wether
     ^ bench (n)長凳, 法官席/議員席 (v)(比賽)罰下場, 臥推
     ^ beset (v)鑲嵌, 困擾 = beleaguer = bedevil = harass = assail = distract (adj)困擾的
+    ^ bespeak -> bespoke -> bespoken (v)證明/表示 = indicate, 預定/預約 = order = reserve --> - bespoke (adj)訂做的/定制的 
     ^ bestial (adj)野獸的/殘忍的 = atrocious = barbarous = brutal = savage
     ^ betroth (v)使訂婚/許配 = engage <-- troth
     ^ beverage (n)飲料 = drink <-- bever 喝 = drink + age 
@@ -391,7 +393,7 @@
 
     ^ bony (adj)瘦削的, 骨頭的
     ^ boulevard (n)大街/大道
-    ^ bedevil (v)迷惑/苦惱 = confuse
+    ^ bedevil (v)使痛苦, 折磨
 
 [C]
     + /kadʒ/ cadge (v)乞討/乞得 = beg, 佔便宜 = sponge <|> budge <|> badge
@@ -568,6 +570,7 @@
     ^ cloture (v)結束辯論/結辯 <-- closure
     ^ clout (v)(用手或重物)猛打/猛擊 (n)權勢/影響力, 猛打/猛擊
     ^ cobble (n)鵝卵石 --> cobbler (n)修鞋匠/鞋匠 <|> coddle <|> clobber
+    ^ cod (n)鱈魚, 不合理 (n/v)愚弄/戲弄 (adj)假的
     ^ colander (n)漏勺/濾盆/濾器 <|> calander
     ^ collision (n)(車輛的)碰撞, 衝突/牴觸 <|> collusion
     ^ colon (n)冒號
@@ -687,7 +690,7 @@
     * dregs (n)殘渣/糟粕/廢物 = dross, 渣滓/敗類 = dross
     * droop (v)低垂/下垂 = lop, 枯萎 = flag = wither, 委靡/沮喪 --> droopy (adj)下垂的/疲乏的 <-- drop
     * drowsy (adj)睡意朦朧的/半夢半醒的 = lethargic = soporific
-    *** due (adj)到期的/快到期的(帳單) = owing = owed, 合適的 = rightful = proper = fitting, 足夠的 = adequate = sufficient, 安排好的 = scheduled
+    *** due (adj)預期在...發生/計畫在..發生, 應支付的, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting (n)應得權益, 應付款 = fee (ADV)正 = directly
     *** /dʌl/ dull (adj)枯燥的/乏味的 = bland = jejune = insipid = innocuous = pallid = dreary = tedious = tame = humdrum = nondescript, 愚笨的 = blunt = obtuse = stupid = opaque = dense = crass, 暗淡的 = dim = faint, 鈍的 = blunt, 無精打采的 = listless = torpid = apathetic = lethargic = wan (v)使遲鈍, 使陰暗, 緩和/減輕
     * duty (n)責任/義務, 關稅 = tariff --> dutiful (adj)忠於職守的, 順從的 = amenable = obedient
     * dwell (v)居住 --> dwelling (n)住處
@@ -961,6 +964,7 @@
     ** franchise (n)投票權 = suffrage, 特許經銷權 (v)向…授予特許經銷權
     *** frank (adj)坦率的/坦誠的/直言不諱的 = candid = straightforward = sincere = explicit = guileless (v)在...上蓋戳
     * frantic (adj)發狂似的/狂暴的/狂亂的 = frenetic <-- frenzy
+    * fray (n)磨損的邊緣, 競爭 (v)使精神緊繃, 留下氣味
     * frenzy (n)(暫時的)瘋狂/狂怒 (v)使發狂
     *** fret (n/v)折磨/使煩躁/使焦慮 = torment = irritate = annoy, 抱怨/發牢騷 = repine = crab = complain = grouse ＝ grumble, 侵蝕 = gnaw = erode = corrode
     * fretful (adj)抱怨的 = complaining = querulous = whining = grouchy = grumpy
@@ -1812,6 +1816,7 @@
     ^ marital (adj)婚姻的 <-- marry
     ^ maritage (n)嫁妝
     ^ marked (adj)明顯的, 被監視的
+    ^ markup (n)漲價, 審定
     ^ maroon (n)栗子 (adj)栗子的/栗子色的
     ^ marsh (n)沼澤地/濕地 = swamp = mire <|> marshal
     ^ marsupial (n/adj)有袋動物
@@ -1957,6 +1962,7 @@
     ^ nomad (n)流浪者 = wanderer, 遊牧部落的人 --> nomadic (adj)遊牧的
     ^ notch (n)刻痕/凹口
     ^ nova (n)新星
+    ^ nub (n)核心, 突起/結節, 一小塊
     ^ nubile (adj)適婚年齡的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
     ^ nut (n)堅果/核果, 難事/難題, 螺母/螺帽 
     ^ nucleate (adj)有核的 (v)使集結/使成核
@@ -2148,7 +2154,7 @@
     * plaster (n)灰泥/灰漿, 熟石膏, 膏藥 (v)在……上塗灰泥, 使緊貼, 大量張貼
     * plea (n)請求/懇求, 抗辯/答辯
     ** plead (v)辯護/辯稱, 乞求/懇求 = beg = crave = appeal = entreat = solicit <-- plea
-    *** pledge (n)誓言/保證 = oath, 抵押, 信物/證明, 祝酒 = toast (v)發誓 = vow, 用……抵押 = pawn, 向……祝酒
+    *** pledge (n)誓言/保證 = oath, 捐款承諾, 戒酒, 抵押品 (v)發誓, 宣言, 保證, 保證給予, 抵押, 信物
     ** plot (n)故事的情節, 秘密計劃/陰謀 = machinations = schemes, 小塊土地, 圖表 (v)密謀 = conspire = collude = connive = scheme, 做記號
     * plough, plow (v)犁/耕 = cultivate (n)犁
     *** plunge (v)驟然移動/驟然下降 = plummet, 暴跌/驟降, 陷入 (n)跳入/下跌/落下
@@ -2191,7 +2197,7 @@
     ^ pastry (n)油酥麵團/酥皮點心
     ^ papyrus (n)莎草/莎草紙
     ^ parch (v)烘烤 = toast, 烤焦 <|> perch <|> porch
-    ^ perch (v)棲息/座落, 位居(某職位) (n)棲息處/高處, 高位
+    ^ /pəːtʃ/ perch (v)棲息, 座落, 暫歇 (n)棲木, 休息處/高處, 河鱸
     ^ porch (n)門廊/入口處, 走廊, 陽臺
     ^ parka (n)抵禦風雪的毛皮大衣
     ^ parquet (n)鑲木地板 <|> banquet <|> bouquet <|> tourniquet
@@ -2212,8 +2218,8 @@
     ^ pen (n)圍欄, 監禁, 母天鵝, 鋼筆
     ^ penance (n)苦行/苦修 (v)使悔過
     ^ pennant (n)細長三角旗
-    ^ perch (v)(鳥)棲息
     ^ perky (adj)神氣的/活潑的
+	^ pesky (adj)惱人的 == Causing trouble; annoying.
     ^ pestilent (adj)致死的 = deadly, 有害的 = pernicious
     ^ pestle (n)杵/乳缽
     ^ petal (n)花瓣
@@ -2350,7 +2356,7 @@
     ** ramp (v)用後腳立起/躍立, 橫衝直撞/暴跳 (n)斜面/斜坡/坡道, 野韭葱
     ++ rampant (adj)猛烈的 = raging = furious, 繁茂的/蔓生的, 蔓延的/猖獗的 = prevailing = unchecked = rife <-- ramp
     + rankle (v)使怨恨/使痛苦
-    + rant (v)咆哮 = rave, 嚴厲斥責 = rail = fulminate = inveigh = scold vehemently (n)激烈的發言 = tirade
+    + rant (v)怒氣沖沖地叫嚷 (n)激昂的抨擊性演說 = tirade
     ++ rare (adj)罕見的 = peculiar = uncommon = unusual = scarce, 稀薄的/稀疏的, 傑出的 = excellent = admirable = fine
     ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄, 使精細/使純化 --> rarefied (adj)稀薄的, 崇高的 = elevated = lofty = exalted = noble, 限於圈內人的 = esoteric --> rarefaction (n)
     + rash (adj)衝動的 = impetuous (n)疹子, 大量令人不快的事
@@ -2974,7 +2980,8 @@
     ^ swine (n)豬 = pig
     ^ swing (v)搖擺, 旋轉 (n)鞦韆
     ^ swirl (v)旋轉 (n)漩渦 <-- whirl
-    syllabus (n)教學綱要
+    ^ swoon (n/v)昏倒 (v)狂喜/心醉神迷
+    ^ syllabus (n)教學綱要
 
     ^ salvo (n)(槍砲或禮砲)齊射 = barrage = fusillade, 一陣/一片(巨大的聲響), 演講的開場
     ^ scenery (n)風景/景色, 舞台背景 = background
@@ -2984,7 +2991,7 @@
     ^ seizure (n)佔領/奪取/查封/充公, 發作
     ^ slender (v)苗條的/纖細的 = fine, 少量的
     ^ soggy (adj)濕透的, 濕軟的
-    ^ spar (v)爭吵 = quarrel (n)(船桅杆的)圓材
+    ^ spar (n)圓杆, 主杆, 拳擊賽, 親密的朋友, 晶石 (v)輕拳出擊, 爭論, 用爪踢鬥
     ^ stash (v)存放/藏匿(大量物品) = hoard
     ^ steamy (adj)潮濕悶熱的 = muggy, 色情的 = sultry
     ^ stifling (adj)悶熱的 = oppressive
@@ -3112,7 +3119,7 @@
     ^ taut (adj)繃緊的 --> tauten (v)拉緊/繃緊
     ^ taxis (n)分類法, 排列, 整腹法, 反射運動
     ^ tease (v)逗樂/戲弄, 強求 (n)揶揄/戲弄/取笑
-    ^ teeter (V)搖擺/搖晃
+    ^ teeter (v)搖晃/站不穩, 猶豫
     ^ temp (v)做臨時工作
     ^ tumult (n)吵鬧/喧譁, 騷亂/騷動
     ^ tempo (n)步調/速度
