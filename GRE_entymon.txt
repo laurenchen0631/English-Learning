@@ -633,6 +633,7 @@
 			+ conspire --> conspiracy
 			* console --> consolation
 			+ consolidate --> consolidation
+			- consortium (n)合夥/聯合 (adj)配偶權的 
 			+ consummate
 			+ constant
 			+ constitute
@@ -839,7 +840,7 @@
 		- recipient (n)接受者/收受者
 		+ /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
 		- recuperate (v)恢復/復原
-		+ susceptible (adj)易受影響的 = liable, 易被感動的 = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)易感性
+		+ susceptible (adj)易受……影響的 = liable, susceptible = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)易感性
 
 	cide, cid 殺 = kill
 		- genocide (n)種族滅絕
@@ -1161,7 +1162,7 @@
 		- circus (n)馬戲團
 		- circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
 		- /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
-		- circumference (n)周圍, 圓周/周長
+		- /səˈkʌmfərəns/ circumference (n)周圍, 圓周/周長
 		+ circumspect (adj)小心的/謹慎的 = cautious = prudent = careful = discreet = judicious = canny = well-considered
 		- /ˈsəːkəmstans/ circumstance (n)(客觀)環境, 情況/情形/形勢
 		++ circumstantial (adj)(關於犯罪)按情況推測的/佐證的, 描述詳盡的 = detailed = particular, 偶然的/不重要的 = incidental
@@ -1995,7 +1996,7 @@
 		- extrapolate (v)預測/推測 = speculate --> extrapolation (n)預測/推測 <-- extra + interpolate
 		+ extravagant --> extravagance
 		- extrovert 
-		* external (adj)外面的, 外來的, 表面的 --> externalize (v)使...表面化 <-- exter 外面 = outside + nal
+		* external (adj)外面的, 外來的, 表面的 --> externalize (v)賦予外形, 使具體化, 投射 <-- exter 外面 = outside + nal
 		- /ɪkˈstɪərɪə/ exterior (adj)外部的/外面的, 對外的/外交上的 (n)外表/表面
 		+ extrinsic (adj)外在的/外來的/非固有的 = extraneous
 
@@ -2553,6 +2554,7 @@
 
 	gender, gener, gen, genu 產生/生/種類 = beget, born
 		* carcinogen (n)致癌物質
+		* /ˈkɒlədʒ(ə)n/ collagen (n)膠原蛋白 <-- colla = glue + gen
 		++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
 		+ engender (v)產生/引起 = produce = cause = beget
 		+ eugenics (n)優生學
@@ -5198,6 +5200,7 @@
 			+ /ˌriːkruːˈdɛs/ recrudesce (v)復發 = recur --> recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
 			- recruit
 			+++ redeem (v)償還/還清, 買回/贖回, 兌現/兌換現金, 履行 = fulfill, 補償 = offset, 贖救/解救 <-- re + deem 買 = buy
+			- redeeming (adj)補償的, 救贖的
 			- redemption (n)挽救/贖罪/贖回, 清償/履行
 			- redemptive (adj)贖回的/救贖的/救世的
 			- redirect (v)改寄/轉發, 改變方向
@@ -5230,6 +5233,7 @@
 			+ rejuvenate
 			+ rekindle (v)再點火, 使振作
 			- relapse
+			- relay (n)一組, 接力賽跑, 繼電器, 訊號轉送器, 轉播訊號 (v)轉達, 轉播, 重新鋪設
 			- relex (v)放鬆/放寬 --> relaxation (n)放鬆/消遣 = diversion
 			- release (n/v)釋放/放出 <-- relax
 			+ relegate
@@ -5299,6 +5303,7 @@
 			- retouch (v)修描/潤色
 			+ retrench (v)節省/緊縮/縮短 <-- re + trench 切掉 = cut
 			+ retrieve
+			- /ˈrɛtrəʊfɪt/ retrofit (v)加入..以翻新, 對……作翻新改進 (n)加裝, 加裝物 <-- retroactive + refit
 			+ revamp (v)修補/改造/改寫 = renovate = redo = revise = upgrade
 			- reveal (v)展現/顯露/暴露/揭露 --> revealing (adj)暴露的/裸露的, 揭露性的 <-- re + veal 遮掩 = veil
 			- reveler, reveller (n)縱酒狂歡者
@@ -5650,7 +5655,7 @@
 	sol
 		1. 習慣 = accustom
 			+ insolent (adj)傲慢的/專橫的 = overbearing = imperious = domineering = arrogant = peremptory <|> indolent
-			+ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
+			+ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
 			+ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
 		2. 安慰 = soothe
@@ -6143,7 +6148,7 @@
 		- siccative (adj)乾燥的 (n)乾燥劑
 
 	sip 丟/味道 = throw, sapid == ject
-		+ dissipate (v)使消散/驅散 = dispel = scatter, 浪費 = waste = squander 
+		+ dissipate (v)消失/使消失, 散開 = disperse = scatter, 揮霍 = waste = squander 
 		+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
 
 	stin, sti, sting, stig, stimul 刺 = prick
@@ -6636,7 +6641,7 @@
 		- unjustified (adj)未被證明為正當的/不正當的, 無法解釋的, 無端的/不必要的
 		- unjustly (adv)不義地/不法地
 		- unkempt (adj)未梳理的/蓬亂的/不整潔的
-		- unleash (v)發洩/釋放
+		- unleash (v)解開……的皮帶, 使被釋放
 		* unmitigated (adj)未緩和的/未減輕的, 全然的
 		- unmoved (adj)無動於衷的/冷漠的, 鎮定的
 		+ unnoticed (adj)不引人注目的
@@ -6726,9 +6731,11 @@
 
 	up 上 = upper, upwards
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
+		- upend (v)倒置 == Set or turn (something) on its end or upside down.
 		- upgrade (v)提升/升級
 		+ upheave (v)漲起/鼓起, 舉起, 發生混亂 --> upheaval (n)劇變/大變動, 脹起/鼓起/隆起
 		+ uphold (v)維護 = defend, 肯定/支持 = support <--> withhold
+		- upkeep (n)保養, 經濟或物資援助
 		* uplift (n/v)舉起 = exalt, 提升/促進/鼓舞
 		* upright (adj)挺直的/筆直的, 正直的/誠實的
 		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹的 = funny

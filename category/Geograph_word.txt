@@ -13,6 +13,7 @@
 	- county (n)郡
 	- Gondwanaland 岡瓦那大陸
 	- Laurasia 勞拉西亞大陸
+	- the Bering Land Bridge 白令陸橋，位於白令海，伸延至極限時長達1600公里。白令陸橋連接現今的美國阿拉斯加西岸和俄羅斯西伯利亞東岸 在冰河時期，白令海的水面降低，白令海峽成為一個白令海陸橋。
 	- topography
 		> 地形/地貌 |The arrangement of the natural and artificial physical features of an area.|
 		> 地形圖 |A detailed description or representation on a map of the physical features of an area.|
@@ -38,7 +39,7 @@
 	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- temperate zone 溫帶
 	- tropic 熱帶
-	- tundra 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
+	- tundra /ˈtʌndrə/ 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
 	- landmass 整塊陸地/大陸 == land mass == A continent or other large body of land.
 	- expanse /ɪkˈspans/ <--> expense /ɪkˈspɛns/
 		> 廣袤的地區 |A wide continuous area of something.| the green expanse of the forest
@@ -51,6 +52,7 @@
 		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
 		> |player|
 	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
+	- dune /djuːn/ 沙丘 == A mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert.
 
 [Weather]
 	- cyclone 氣旋 --> cyclonic 氣旋的
@@ -63,7 +65,7 @@
 	- orographic lift 地形舉升
 	- updraft, updraught 上升氣流 == An upward current of air
 	- subarctic 副極地氣候的 == Relating to the region immediately south of the Arctic Circle.
-
+	- clime /klʌɪm/ 氣候區 == A region considered with reference to its climate.
 
 [Geology]
 	- convergent boundary 聚合板塊邊緣
@@ -231,10 +233,14 @@
 	- Tennessee 田納西州，位於美國南方，首府為納許維爾，是美國音樂聖地，也是美國鄉村音樂的中心
 	- Wyoming 懷俄明州，懷俄明州內擁有眾多知名的景點，包括舉世聞名的黃石國家公園和大提頓國家公園等
 
+	- Yukon 育空地區，加拿大三個地區/領地之一，位於加拿大的西北方。1898年6月13日，育空正式加入加拿大聯邦
+
 	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
 	- Haiti 海地，是位於加勒比海的島國
 	- Guatemala 瓜地馬拉，位於中美洲
 	- Hispaniola 伊斯帕尼奧拉島，是加勒比海地區第二大島
+	
+
 
 [Americas POI]
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部

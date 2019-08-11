@@ -522,7 +522,12 @@
 		> 大街/大道 |A main road in a town.| the teeming thoroughfares of central London
 	- speedometer /spiːˈdɒmɪtə/ 車速錶
 	- viaduct 高架橋 == A long bridge-like structure, typically a series of arches, carrying a road or railway across a valley or other low ground.
-
+	- veer /vɪə/
+		> 急轉向 |Change direction suddenly.| an oil tanker that had veered off course
+		> |A sudden change of direction.|
+		> 轉向/改變 |Suddenly change an opinion, subject, type of behaviour, etc.| the conversation eventually veered away from theatrical things
+		> 使順風 |Slacken or let out (a rope or cable) in a controlled way.|
+	- off course 偏離航線
 
 [Agriculture/Farming]
 	+ farm
@@ -716,6 +721,12 @@
 		> 用酸性溶液清洗 |Immerse (a metal object) in an acid or other chemical solution for cleaning.| the steel sheet is first pickled in acid to remove all oxides
 	- gherkin 泡菜用的小黃瓜
 	- broccoli /ˈbrɒkəli/ 西蘭花/花椰菜
+	- superfood 超級食物，是一個行銷詞彙，意指各種宣稱有益健康的食物
+	- smoothie /ˈsmuːði/ 
+		> 圓滑討好的男人 |A man with a smooth, suave manner.| I love to see him gliding his way round a dance floor, he is such a smoothie!
+		> 冰沙 |A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.|
+	- gluten /ˈɡluːt(ə)n/ 麩質 == A mixture of two proteins present in cereal grains, especially wheat, which is responsible for the elastic texture of dough.
+	
 
 [Medicine]
 	- medical
@@ -840,6 +851,7 @@
 	- maternity ward 產房 == the part of a hospital in which women give birth and where they are taken care of after giving birth
 	- microbiome /mʌɪkrəʊˈbʌɪəʊm/ 人類微生物群系，又稱為正常菌群是某些微生物與宿主在長期的進化過程中形成共生關係，對生物體無害的一類細菌
 	- terminal illness 絕症
+	+ hygiene /ˈhʌɪdʒiːn/ 衛生/衛生情況 == Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -933,6 +945,13 @@
 	- Plasmodium falciparum 惡性瘧原蟲，一種原生動物寄生蟲，是引發人類瘧疾的瘧原蟲的一種，由雌性瘧蚊傳播
 	- Toxoplasma gondii 弓漿蟲
 	- STD 性感染疾病 == Sexually transmitted diseases
+	- diarrhea /ˌdaɪəˈriə/ 腹瀉
+	- irritable bowel syndrome == IBS 大腸激躁症
+	- inflammatory bowel disease == IBD 炎症性腸病
+	* allergy /ˈalədʒi/ 
+		> 過敏 |A damaging immune response by the body to a substance, especially a particular food, pollen, fur, or dust, to which it has become hypersensitive.|
+		> 厭惡 |A strong dislike.| their allergy to free enterprise
+	- autoimmune disease == AID 自體免疫性疾病，是人體內的異常的免疫反應攻擊了正常細胞
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1225,6 +1244,7 @@
 		> 褐紅色的 |Of a brownish-red colour.|
 		> 褐紅色 |A brownish-red colour.| the hat is available in either white or maroon
 		> 把……放逐到無人島上/使孤立無援 |Leave (someone) trapped and alone in an inaccessible place, especially an island.| a novel about schoolboys marooned on a desert island
+	- xkcd 蘭德爾·門羅創作的網絡漫畫。作者對其的描述是「關於浪漫、諷刺、數學和語言的網絡漫畫」。 漫畫的題材多種多樣，包括生活與愛情、數學與科學幽默、簡單的幽默和流行文化等，人物則多是簡單的火柴人。
 	
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -1428,9 +1448,28 @@
 	- turbine /ˈtəːbʌɪn/ 渦輪
 	- keystroke 按鍵之敲擊 == A single depression of a key on a keyboard, especially as a measure of work.
 	- accelerometer /əkˌsɛləˈrɒmɪtə/ 加速度計
-	- gremli /ˈɡrɛmlɪn/ 
+	- gremli /ˈɡrɛmlɪn/
 		> 小精靈 |An imaginary mischievous sprite regarded as responsible for an unexplained mechanical or electronic problem or fault.| a gremlin in my computer omitted a line
 		> 無有任何解釋的問題或故障 |An unexplained problem or fault.| electrical gremlins are often difficult to locate
+	- Global Positioning System 全球定位系統 == GPS
+	- carrier phase 載波相位，利用衛星與接收器之間相對運動的關係，先取得衛星發射訊號時所產生的相位與接收器接收時所產生的參考相位，並求出兩者之間的相位差值，即為載波觀測量
+	+ relay
+		> 一組 |A group of people or animals engaged in a task or activity for a period of time and then replaced by a similar group.| the wagons were pulled by relays of horses
+		> 接力賽跑 |A race between teams of runners, each team member in turn covering part of the total distance.| a 550-metre relay race
+		> 繼電器 |An electrical device, typically incorporating an electromagnet, which is activated by a current or signal in one circuit to open or close another circuit.|
+		> 訊號轉送器 |A device to receive, reinforce, and retransmit a radio or television signal.| TV transmitters and relay stations
+		> 轉播訊號 |A signal or broadcast transmitted by a relay.| a relay of a performance live from the concert hall
+		> 轉達 |Receive and pass on (information or a message)| she intended to relay everything she had learned
+		> 轉播 |Broadcast (something) by passing signals received from elsewhere through a transmitting station.| the speech was relayed live from the palace
+		> 重新鋪設 |Lay again or differently.| they plan to relay about half a mile of the track
+	- LORAN 遠距離無線電導航系統 == Long Range Navigation
+	- spoof
+		> 滑稽模仿的作品 |A humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect.| a Robin Hood spoof
+		> 滑稽地模仿 |Imitate (something) while exaggerating its characteristic features for comic effect.| it is a movie that spoofs other movies
+		> 愚弄 |A trick played on someone as a joke.| word got out that the whole thing had been a spoof
+		> 欺騙/戲弄 |Hoax or trick (someone)| they proceeded to spoof Western intelligence with false information
+		> 干擾(訊號) |Interfere with (radio or radar signals) so as to make them useless.| that meant that the Americans might not be able to jam or spoof his systems
+
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1467,6 +1506,9 @@
 		> The school has an impressive/strong track record of getting its students into good universities.
 	- Montessori 蒙特梭利教育，由義大利心理學家兼教育學家瑪麗亞·蒙特梭利發展起來的教育方法，強調獨立，有限度的自由和對孩子天然的心理、生理及社會性發展的尊重。
 	- abstinence-only programs 守貞教育，是性教育的一種形式，其會教育學生不要進行發生婚姻以外的性行為，並以負面角度形容發生婚前性行為及女性進行墮胎後的後果
+	- sabbatical /səˈbatɪkəl/ 
+		> 教授休假/學術休假 |A period of paid leave granted to a university teacher or other worker for study or travel, traditionally one year for every seven years worked.| she is away on sabbatical
+		> 特休的 |Relating to a sabbatical.| sabbatical leave
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1585,6 +1627,12 @@
 	- sill 門檻/窗台
 	- doorbell 門鈴
 	- duvet 鴨絨墊 == A soft quilt filled with down, feathers, or a synthetic fibre, used instead of an upper sheet and blankets.
+	- quilt
+		> 被褥 |A warm bed covering made of padding enclosed between layers of fabric and kept in place by lines of stitching, typically applied in a decorative design.|
+		> 縫被子 |Join together (layers of fabric or padding) with lines of stitching to form a bed covering, a warm garment, or for decorative effect.| a blue quilted jacket
+		> 刺繡床罩 |A knitted or fabric bedspread with decorative stitching.|
+		> 鴨絨墊 |A duvet.|
+		> 隔絕墊 |A layer of padding used for insulation.| the roof space should be insulated with a glass-fibre quilt at least 100 mm thick
 	- ceiling fan 吊扇
 	- lawn chair 野餐椅
 	- bunk bed 雙層床
@@ -1711,6 +1759,10 @@
 		> 煙囪柱 |A chimney stack.| the outlines of rooftops and chimneys stood out against the pale sky
 		> 玻璃燈罩 |A glass tube protecting the flame of a lamp.| he trimmed the wick and put the glass chimney over the flame
 		> 可供攀登的狹窄裂口 |A very steep narrow cleft by which a rock face may be climbed.| he slid fifty feet down a chimney, and became wedged there
+	- restroom 公廁 == A toilet in a public building.
+	- handrail /ˈhandreɪl/ 扶手/欄杆 == A rail fixed to posts or a wall for people to hold on to for support.
+	- washbasin /ˈwɒʃbeɪs(ə)n/ 洗臉盆/洗手盆
+	* skylight 天窗 == A window set in a roof or ceiling at the same angle.
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
@@ -1797,6 +1849,8 @@
 	- velodrome /ˈvɛlədrəʊm/ 
 		> 自行車場 |A cycle-racing track, typically with steeply banked curves.|
 		> 自行車體育場 |A stadium containing a banked cycle-racing track.|
+	- skiing /ˈskiːɪŋ/ 滑雪
+	- swimming /ˈswɪmɪŋ/ 游泳
 
 [Fun/Entertainment]
 	- spree /spriː/ 
@@ -1860,3 +1914,5 @@
 	- bifocals 雙光眼鏡，是具有兩種不同光學能力的眼鏡
 	- lightning rod 避雷針
 	- Slurpee 思樂冰，由全球性的便利商店7-Eleven研製的沙冰飲品，在1967年首次推出
+	- Ziploc bag 保鮮袋 (Ziploc是一種可重複使用，可重複密封的拉鍊儲存袋和容器品牌)
+	- jigsaw puzzle 拼圖

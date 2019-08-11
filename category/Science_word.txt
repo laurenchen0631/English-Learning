@@ -22,6 +22,7 @@
 	- megawatt == MW == one million watts
 	- biweekly (ADJ/ADV)一週兩次的, 雙週的 (n)雙週刊, 半週刊
 	- faraday 法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
+	- Celsius 攝氏 /ˈsɛlsɪəs/ 
 
 [Law/Theory/Study]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
@@ -29,6 +30,12 @@
 	- Milgram`s obedience studies == Milgram experiment 米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
 	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
 	- epigenetics 表觀遺傳學
+	- entropy
+		> 熵 |A thermodynamic quantity representing the unavailability of a system`s thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.|
+		> 混亂/失序 |Lack of order or predictability; gradual decline into disorder.| a marketplace where entropy reigns supreme
+		> |(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language.|
+	- rule of thumb 經驗法則，是一些廣為應用的原則，但本身有經過簡化，不保證在所有的情形下都可靠，或者都有準確的結果
+	- hypothesis 假說 <--> hypocrisy
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
@@ -104,6 +111,7 @@
 		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
 		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
 		> 甲醇化物 |meths|
+
 [Physical]
 	- wavelength 波長
 	- light wave 光波
@@ -209,6 +217,12 @@
 	- intestine /ɪnˈtɛstɪn/ 腸 == the lower part of the alimentary canal from the end of the stomach to the anus.
 	- small intestine 小腸 == small bowel
 	- large intestine 大腸 == large bowel
+	- colon /ˈkəʊlən/
+		> 冒號 |A punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.|
+		> 結腸 |The main part of the large intestine, which passes from the caecum to the rectum and absorbs water and electrolytes from food which has remained undigested.|
+	- anus 肛門 == The opening at the end of the alimentary canal through which solid waste matter leaves the body.
+	- intestinal tract 腸道
+	- bowel /ˈbaʊəl/  腸 == intestine == The part of the alimentary canal below the stomach; the intestine.
 	- the spinal cord 脊髓
 	- plumbing
 		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
@@ -262,6 +276,9 @@
 	- taste bud 味蕾
 	- dopamine 多巴胺，是一種腦內分泌物，屬於神經遞質，可影響一個人的情緒
 	- amygdala /əˈmɪɡdələ/ 杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
+	- tibia /ˈtɪbɪə/ 脛骨
+	- genitals /ˈdʒɛnɪt(ə)l/ 生殖器官 == A person's or animal's external organs of reproduction.
+	- sphincter /ˈsfɪŋktə/ 括約肌 == A ring of muscle surrounding and serving to guard or close an opening or tube, such as the anus or the openings of the stomach.
 	
 [Environment]
 	- greenhouse effect
