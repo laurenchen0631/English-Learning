@@ -454,6 +454,7 @@
     ++ /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
+    + /kəˈrɒləri/ corollary (n)必然的結果, 推論 (adj)推論的, 附屬的/補充的 = associated = supplementary
     + comic (adj)使人發笑的/喜劇的 = ludicrous (n)漫畫雜誌, 喜劇演員 --> comical (adj)滑稽的/好笑的
     + commonplace (adj)平凡的 = normal = ordinary = prosaic = plebeian = quotidian = trivial = terrestrial, 陳腐的 = trite = hackneyed = clichéd (n)陳腔濫調 = cliché = platitude
     + comrade (n)朋友/同志 --> camaraderie, comradeship (n)同志情誼/友情
@@ -773,6 +774,7 @@
     + /ɪˈlɪzɪəm/ Elysium (n)樂園/天堂 --> Elysian (adj)極樂世界的/天堂的 <-- [希臘神話]
     + /iːk/ eke (v)節省地使用, 艱苦地活著 = scrape by/along
     + emulate (v)盡力趕上/超越 = equal or excel, 與...競爭 = rival --> emulous (adj)好勝的 --> emulation (n)努力追上並超越, 競爭
+    + enmity (n)敵意/仇恨 = hostility = antipathy = hatred = animosity = antagonism = rancor = resentment
     + enigma (n)令人費解的事物/難解之謎/費解之人 --> enigmatic (adj)神秘的/費解的 = perplexing = mysterious
     + entomology (n)昆蟲學 <-- entomo 昆蟲 + logy
     + envy (n/v)嫉妒 = covetousness = discontent --> enviable (adj)令人羨慕的/令人嫉妒的 = very desirable
@@ -805,7 +807,6 @@
     * /ɪˌkliːzɪˈastɪk(ə)l/ ecclesiastical (adj)基督教的/有關教會的 = churchly = clerical <--> secular 
     * eddy (v)起漩渦 (n)漩渦 = whirlpool, 氣旋
     * enemy (n)敵人, 敵人的
-    * enmity (n)敵意/仇恨 = hostility = antipathy = hatred = animosity = antagonism = rancor = resentment
     * entire (adj)全部的, 完全的 (n)全部/整體 --> entirety (n)全部/整體
     * /ɛtʃ/ etch (v)蝕刻/蝕鏤, 深印/銘記 --> etching (n)蝕刻術, 蝕刻版畫
     *** /ɪnˈθjuːzɪaz(ə)m/ enthusiasm (n)熱情 = zeal, 狂熱 --> /ɪnˌθjuːzɪˈastɪk/ enthusiastic (adj)熱情的 = zealous = ardent = passionate = devoted
@@ -922,7 +923,7 @@
     + frown (v)皺眉 = scowl, 不贊成
     + frugal (adj)節約的/節儉的 = provident = abstemious = thrifty = canny = prudent --> frugality (n)節儉/簡樸 = thrift
     + frustrate (v)阻礙/阻撓 = hinder = thwart = stymie, 使失敗 = defeat = nullify
-    +++ fulsome (adj)虛情假意的/過分恭維的 = cloying, 令人厭惡的 = disgusting = repulsive = obscene = vile, 充足的/豐富的 = full = ample = abundant = copious, 面面俱到的/包羅萬象的 = comprehensive
+    +++ fulsome (adj)虛情假意的/過分恭維的 = cloying充足的/豐富的 = full = ample = abundant = copious
     + fundamental (adj)基礎的/根本的 = basic = underlying = substantial, 主要的 = primary
     ++ further (v)促進 = promote = advance (adj)更遠的 = farther, 額外的 = additional = more = fresh (adv)此外, 更遠地
     ++ furtive (adj)偷偷的/秘密的 = sly = shifty = sneaky = stealthy = secret = surreptitious, 狡猾的 = sly = shifty = cunning = canny <-- furt 小偷 = thief + ive
@@ -1542,6 +1543,7 @@
     ^ know-how (n)專業技能/知識
 
 [L]
+    + label (n)貼紙/標籤, 商標, 稱號/綽號, 標記/符號 (v)貼標籤於, 把……列為/把……歸類為
     + /ˈleɪbʌɪl/ labile (adj)不穩定的/不安定的 = apt or likely to change <-- lab 滑 = slip + ile
     + lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     + laconic (adj)簡潔的 = brief = compendious = concise = curt = succinct = spartan = terse = pithy
@@ -2357,6 +2359,7 @@
     ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄, 使精細/使純化 --> rarefied (adj)稀薄的, 崇高的 = elevated = lofty = exalted = noble, 限於圈內人的 = esoteric --> rarefaction (n)
     + rash (adj)衝動的 = impetuous (n)疹子, 大量令人不快的事
     + rebus (n)字謎/畫謎 
+    ++ register (n)清單, 登記簿, 音域/聲域, 收銀機, 標示/讀數 (v)登記, 到達..讀數, 表達 = express = convey, 注意到 = notice, 達到 = achieve
     + /reɪn/ rein (n)韁繩, 控制力 (v)控制/駕馭 = control, 抑止/阻止 <|> /reɪn/ rain
     ++ relish (n)享受/愛好 = zest = gusto, 滋味/美味 = zest (v)享受 = enjoy = savor, 品味 = savor <-- remainder
     + remedy (v)治療/補救/糾正 (n)治療/藥物, 糾正/補償 = reparation
@@ -3315,6 +3318,7 @@
     + /ˈwɒr(ə)nt/ warrant (v)使有正當理由 = justify = necessitate, 擔保/承諾 (n)搜查令/逮捕狀, (做事的)理由 --> warranted (adj)保證的, 憑正當理由的 = justified
     + wary (adj)謹慎的/小心翼翼的 = careful = cautious = leery = canny = cunning = circumspect = gingerly <-- ware + y
     + wayward (adj)任性的/不順從的 = willful = ungovernable = froward = disobedient = insubordinate = obstinate, 反覆無常的 = capricious = perverse, 叛逆的/倔強的 = perverse = untoward <-- (a)way + ward
+    ++ wax (n)蠟/蜂蠟/蠟狀物, 耳垢, 紀錄 (v)給……上蠟, 做..的紀錄, (月亮)漸圓/漸滿, 變大/增強, 講述/撰寫
     ++ welter (n)混亂 = disorder = turmoil = confusion, 雜亂 = jumble (v)打滾/翻滾 = writhe = wallow = roll = toss, 浸漬/沉溺 = wallow, 混亂 = be in turmoil
     ++ /wɛt/ whet (v)刺激 = stimulate = excite, 磨/磨刀 = grind <|> /wɛt/ wet
     + /wɪm/ whim (n)奇想/怪念頭/突然的念頭 = caprice = vagary --> /ˈwɪmzi/ whimsy (n)反覆無常/異想天開, 與眾不同的想法/奇異的事物
@@ -3370,7 +3374,6 @@
     ^ warranty (n)保證/批准, 辯解/正當理由 = warrant
     ^ wastrel (n)揮霍無度的人
     ^ watershed (n)分水嶺/轉折點
-    ^ wax (n)蠟 (v)打蠟, (月亮)漸圓，漸滿
     ^ wean (v)斷奶, 戒掉
     ^ wearisome (adj)使人感到疲倦的/使人感到厭倦的
     ^ weasel (n)黃鼠狼 (v)逃避
@@ -3430,6 +3433,7 @@
     + /ˈzɛlət/ zealot (n)狂熱者 = fanatic = maniac --> zealotry (n)狂熱行為
     + /ˈzɛləs/ zealous (adj)熱情的/狂熱的 = devoted = diligent = ardent = impassioned
     + /ˈzɛnɪθ/ zenith (n)天頂, 極點
+    + /ˈzʌɪtɡʌɪst/ zeitgeist (n)時代精神 <-- zeit 時間 == time + geist 精神 = spirit
 
     * zest (n)風味/滋味 = relish = savor, 熱情 = zeal, 柑橘類的皮
 

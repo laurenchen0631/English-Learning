@@ -1460,6 +1460,10 @@
 	- feed -> fed -> fed
 	- feed off/on sth 因..而增加 == to increase because of something, or to use something to succeed or get advantages
 		> Fascism feeds off poverty.
+	- feel -> felt -> felt
+	- feel like sth
+		> 好像 |to seem to be something, or (esp. of weather) to seem likely to do something| I felt like a fool when I couldn’t remember her name.
+		> 想要 |to have a desire to do or have something| He was so rude, I felt like leaving immediately.
 	- fly -> flied/flew -> flown
 	- flyer
 		> 飛人 |A person or thing that flies, especially in a particular way.|
@@ -2548,6 +2552,16 @@
 		> |Having no prospect of progress or success.| a nowhere job
 	- nowhere near 遠非 == Not nearly.
 		> he`s nowhere near as popular as he used to be
+	+ note
+	- notch 
+		> 刻痕/槽口 |An indentation or incision on an edge or surface.| there was a notch in the end of the arrow for the bowstring
+		> 帶釦孔 |Each of a series of holes for the tongue of a buckle.| he tightened his belt an extra notch
+		> 刻痕 |A nick made on something in order to keep a score or record.| the notches in the rail represent the number of bear sightings we have in a year
+		> 等/級 |A point or degree in a scale.| her opinion of Nicole dropped a few notches
+		> 峽谷/山峽 |A deep, narrow mountain pass.| Short sections of dirt roads connect trails that usually wind through notches.
+		> 在……上刻凹痕 |Make notches in.| he notched the stick at each end
+		> 扣 |Secure or insert by means of notches.| she notched her belt tighter
+		> 贏得 |Score or achieve (something)| he notched up fifteen years` service with the company
 	- notice
 		> 注意 |The fact of observing or paying attention to something.| their silence did not escape my notice
 		> |Become aware of.| he noticed the youths behaving suspiciously
@@ -3746,6 +3760,8 @@
 	- show -> showed -> shown/showed
 	- show up 到達/露面 == to arrive somewhere in order to join a group of people, especially late or unexpectedly:
 		> I invited him for eight o`clock, but he didn`t show up until 9.30.
+	+ show off 炫耀/賣弄 == to behave in a way that is intended to attract attention or admiration, and that other people often find annoying
+		> She only bought that sports car to show off and prove she could afford one.
 	- shell out == to pay money for something, especially when the cost is unexpected and not wanted:
 		> If we lose the case, we`ll be forced to shell out.
 		> The ecosystem of esports organisms vying for resources consists of esports teams and tournament organizers, who shell out money for player salaries and flashy events with cash from investors and sponsors.
