@@ -183,7 +183,7 @@
 		- amble (n/v)漫步 = saunter = stroll
 		- ambulance (n)救護車
 		- perambulate (v)巡視, 散步 = stroll = amble
-		+ preamble (n)前言/序言 = preface = prologue
+		+ preamble (n)前言/序言 = preface = prologue <|> perambulate
 		* /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble, 隨筆, 蔓生 <|> /ˈreɪnbəʊ/ rainbow
 		- noctambulant
 
@@ -2681,7 +2681,7 @@
 	here, heir, herit 繼承
 		* /ɛː/ heir (n)繼承人
 		* hereditary (adj)遺傳的, 世襲的 --> heredity (n)
-		+ /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance, 世界遺產, 傳統
+		+ /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance = patrimony, 世界遺產, 傳統
 		* /ɪnˈhɛrɪt/ inherit (v)繼承, 經遺傳而獲得
 		+ /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
 
@@ -3225,7 +3225,7 @@
 		+ conjecture (n/v)猜測/猜想
 		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
-		- interject (v)插話/插嘴 --> interjection (n)插話, 感歎詞
+		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對
 		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
@@ -4368,8 +4368,7 @@
 		- premeditate --> premeditated
 		+ premise
 		+ premonition
-		* preoccupied (adj)全神貫注的/入神的 = engrossed
-		- preoccupation (n)全神貫注, 使人專注的東西
+		* preoccupied (adj)全神貫注的/入神的 = engrossed --> preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
 		- preposition
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的
@@ -4443,7 +4442,7 @@
 		- propel --> propulsion
 		+ propensity
 		+ /ˈprɒfɪt/ prophet (n)先知/預言家/宣揚者 --> prophecy (n)預言, 預知能力 --> prophetic (adj)準確預測的, 預言的 <-- pro + peht 說 = speak
-		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <|> <-- pro + pit 懇求 = resort, solicit
+		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <|> unpropitious <-- pro + pit 懇求 = resort, solicit
 		+ propitiate (v)取悅 = appease <-- propitious
 		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (V)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
 		* propose --> proposal
@@ -4537,10 +4536,10 @@
 	prim, prior, prist, princip 最早的/最好的 = first, prime
 		- /prɪm/ prim (adj)呆板的/拘謹的
 		- /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
+		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		*** prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥, 塗底漆, 啟動(幫補), 上油
 		- primeval
 		- primp (v)刻意打扮/精心打扮
-		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		+ primitive (adj)原始的/遠古的, 原始的(情感), 純樸的/自然的(藝術), 粗糙的/簡單的, 原來的 = original (n)原始人, 文藝復興以前的藝術家/風格純樸的藝術家, 風格純樸的作品, 原詞/根詞
 		+ primordial (adj)原始的/最初的 = original = primeval, 根本的/基本的 = baisc
 		* /ˈprɪnsɪp(ə)l/ principle (n)原則/道義/節操, 原理, 起源/本源
@@ -4557,9 +4556,9 @@
 		+ /ˈprɪvɪlɪdʒ/ privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
 
 	pur 附近 = around
-		- purchase (v)購買 (n)購買, 所購之物, 支點/槓桿, 緊抓/緊繫
+		- purchase (n/v)購買 (n)所購之物, 支點/槓桿, 緊抓/緊繫
 		- /ˈpəːljuː/ purlieu (n)郊區, 常逗留之地/常去的地方 = haunt <|> milieu <-- pur + lieu 場所 = place
-		-/pəːˈlɔɪn/ purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
+		- /pəːˈlɔɪn/ purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
 		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/據稱的 = reputed = alleged --> purportedly (adv)據稱
 		- purpose (v)決意/打算 = resolve = intend (n)意圖/目的 = intention, 決心 = resolution = determination
 		- pursue (v)追趕/追蹤 = follow, 向……求愛, 追求, 沿著...走, 從事 = engage in, 繼續探索研究
@@ -4632,7 +4631,7 @@
 		- particle (n)微粒/顆粒/粒子, 極小量
 		- particulate (adj)微粒的 (n)微粒狀物質 <-- particle
 		+ participation (n)參加/參與, 分享
-		- /pɑːtɪsɪˈpeɪtəri/, /pɑːˈtɪsɪpətri/ participatory (adj)參與的
+		- /pɑːtɪsɪˈpeɪtəri/ participatory (adj)參與的
 		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
 		+ particularize (v)詳述
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
@@ -4657,7 +4656,7 @@
 		2. 感情 = suffer, undergo == pathy 
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
-			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathy = apathetic = unmoved = clam = serene --> impassivity (n)
+			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
 			- impassioned (adj)充滿激情的/熱烈的
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
 
@@ -4709,12 +4708,12 @@
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
 		* compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的 = compelling
 		- compulsory (adj)義務的 = required = mandatory = obligatory, 強制的/強迫的 = coercive
-		* expel (v)開除/退學 = oust, 趕走/驅逐, 排出(體內) = discharge = emit = utter
+		* expel (v)開除/退學 = oust, 趕走/驅逐 = disperse, 排出(體內) = discharge = emit = utter
 		+ dispel (v)驅散/消除(情緒) = alleviate
 		- impel (v)驅使 = force = compel = urge, 推進 = push = propel
 		* impulse (n)衝動/強烈欲望 = compulsion = urge, 動機/刺激 = impetus, 脈衝, 衝力 --> impulsive (adj)衝動的/易衝動的, 衝力的
 		- /pʌls/ pulse (v)搏動/跳動 = pulsate, 使產生脈衝 (n)脈搏, 脈衝, 規律的節奏, 果實可食用的豆類植物 <|> /pəʊz/ pose
-		- propel (v)推進 = impel, 驅策/刺激 = spur = drive --> propulsion (n)推進力 
+		- propel (v)推進 = impel, 驅策/刺激 = spur = drive --> /prəˈpʌlʃən/ propulsion (n)推進力 <|> /prəˈpɔːʃən/  proportion
 		- /rɪˈpiːl/ repeal (n/v)廢除/廢止 = annul = quash = abolish = abrogate = rescind = revoke
 		- /rɪˈpɛl/ repel (v)擊退/驅除, 排斥/相斥, 拒絕/排斥, 使厭惡/使極反感
 		- repellent, repellant (adj)排斥的/相斥的, 令人厭惡的 (n)驅蟲劑, 防水劑
@@ -4749,7 +4748,7 @@
 	plaint, plain 悲嘆 = mourn
 		* complain (v)抱怨/發牢騷 = repine = grouse = grumble = grouch = fret, 發出哀鳴
 		* complaint (n)抱怨/抗議, 疾病/小病
-		- plaint (n)悲嘆/訴苦 =  complaint = lamentation
+		- plaint (n)悲嘆/訴苦 = complaint = lamentation
 		- plaintiff (n)原告 <--> defendant
 		+ plaintive (adj)聽起來悲傷的 = melancholy = mournful = dismal = gloomy = desolate
 
@@ -4804,14 +4803,14 @@
 	pos, pose, post, pon, pound, postul 放 = place, put
 		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
 		- component (n)成分/零件 (adj)組成的/構成的 = constituent
-		+ compose (v)作曲/創作, 組成/構成 =  constitute = make up, 使平靜 = calm = settle <--> discompose
+		+ compose (v)作曲/創作, 組成/構成 = constitute = make up, 使平靜 = calm = settle <--> discompose
 		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
 		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise
 		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
 		* discompose (v)使不安/使煩惱 = disturb = agitate
-		*** dispose (v)處理/處置, 殺, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定
+		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定
 		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
 		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
 		* disposable (adj)一次性的/用完即丟的, 可以捨棄的, 可自由使用的 (n)一次性用品
@@ -4819,12 +4818,12 @@
 		+ expose (v)使接觸到, 揭發 --> exposure (n)暴露/顯露, 曝光
 		+ exposition (n)闡述/說明, 展覽會/博覽會 = exhibition --> expository (adj)說明的 = explanatory
 		+ expound (v)詳細述說/闡述 = expatiate
-		++ /ɪkˈspəʊnənt/ exponent (n)闡述者, 倡導者/支持者, 指數 --> exponentially (adv)指數地
+		++ /ɪkˈspəʊnənt/ exponent (n)倡導者/支持者, 指數 --> exponentially (adv)指數地
 		- expostulate (v)反對/抗議
 		*** impose (v)強制實行/強行收取/徵, 利用
 		- imposing (adj)壯觀的/宏偉的 = grand
 		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
-		- interpose (v)置於...之間 = interpolate, 插嘴, 介入/干預, 行使(否決權)
+		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預, 行使(否決權)
 		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
 		+ opponent (n)敵手/對手, 反對者
 		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
@@ -4839,7 +4838,7 @@
 		- posture (n)姿勢, 立場態度, 姿態/裝腔作勢 = pose (v)裝模作樣/故作姿態
 		- preposition (n)介詞/前置詞
 		+ presuppose (v)預先假定, 以……為前提 --> presupposition (n)預先假定/臆測
-		- proponent (n)提議人/擁護者/倡導者
+		- proponent (n)提議人/擁護者/倡導者 = exponent <--> opponent
 		*** propose (v)提議/建議, 推薦/提名, 計畫/打算 = intend, 求婚
 		- proposal (n)提案/建議, 求婚 
 		- proposition (n/v)提議/建議 = proposal, 求歡 (n)主張/論點, 命題, 法案/議案, 計畫/想法
@@ -4892,6 +4891,7 @@
 		++ reprobate (adj)邪惡的/無賴的/不講道德的 = shameless = unprincipled (n)無賴/惡棍
 		- reprove (v)責罵/申斥 = censure = reprimand --> reproof (n)斥責/責備 = rebuke
 		- probation (n)試用, 緩刑 --> probationer (n)試用人員, 緩刑中的犯人
+	    +++ probity (n)剛正/正直 = uprightness = rectitude = honesty = high-mindness = goodness 
 
 	propr, proper 擁有 = own
 		++ appropriate (v)撥款 = allot, 挪用 = embezzle (adj)恰當的 = agreeable
@@ -4899,9 +4899,9 @@
 		- misappropriate (v)侵吞/盜用 = embezzle = appropriate
 		- property (n)財產/所有物, 房地產, 所有權, 特性/特質 = attribute = quality = characteristic
 		+ /prəˈprʌɪəti/ propriety (n)禮貌/禮節 = decorum, 適當/妥當/得體 = appropriateness = fitness
+		- proprietor (n)業主/經營者 == The owner of a business, or a holder of property.
 		+ /prəˈprʌɪətəri/ proprietary (adj)所有權的/所有人的, 專賣的/專利的
 		- impropriety (n)不恰當的行為
-		- proprietor (n)業主/經營者 == The owner of a business, or a holder of property.
 
 	proxim 大約/接近 = next, near
 		+ approximate (adj)大約的/估計的 = estimated (v)接近/近似 = approach, 精確地估算
@@ -4937,15 +4937,16 @@
 		+ euphemism
 
 	phen, phan, pha 出現 = appear == appar
-		- emphasis (n)強調/重視/重點 --> emphatic (adj)強調的/重視的, 有力的
-		+ epiphany (n)一瞬的顯現
+		- emphasis -> emphases (n)重點/顯著, 加強語氣, 重音
+		- /ɪmˈfatɪk/ emphatic (adj)強調的, 明確堅決的, 加強語氣的/帶重音的
+		+ /ɪˈpɪf(ə)ni/ epiphany (n)神靈之顯現, 顯現節, 頓悟
 		+ diaphanous
 		- phantom (n)幽靈/鬼魅, 幻象 = visionary
 		+ phantasmagorical (adj)幻影似的/虛假的 = illusory = unreal
-		- phanerogam (n)顯花植物
-		- phenomenon -> phenomena (n)(尤指不尋常的或有趣的)現象, 奇才/奇蹟 = miracle
-		- phenomenal (adj)顯著的/非凡的 = extraordinary = remarkable
-		+ sycophant (n)馬屁精 = toady = adulator --> sycophantic (adj)阿諛奉承的 <-- syco 無花果 = fig + phan + ant
+		- phanerogam (n)顯花植物 = spermatophyte
+		*** phenomenon -> phenomena (n)(尤指不尋常的或有趣的)現象, 非凡的人或物
+		- phenomenal (adj)傑出的/非凡的 = extraordinary = remarkable, 能被感知的
+		+ sycophant (n)馬屁精 = toady = adulator --> sycophantic (adj)阿諛奉承的 = obsequious <-- syco 無花果 = fig + phan + ant
 
 	phob, phobia 恐懼 = fear
 		- acrophobia
@@ -4955,55 +4956,56 @@
 
 	phony, phone 聲音 = sound
 		+ cacophony --> cacaphonous
-		- euphonious (adj)悅耳的/動聽的
-		+ euphony (n)悅耳 --> euphonious (adj)悅耳的
-		* phony (adj)虛偽的 = affected = sham = insincere = fulsome = cloying, 假冒的/偽造的 = bogus = counterfeit = spurious
-		- phonetic (adj)語音的
-		- symphony (n)交響樂/交響曲
-		- telephone (n)電話
+		+ euphony (n)悅耳 --> euphonious (adj)悅耳的  = melodious = liquid
+		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
+		- phonetic (adj)語音的, 語音學的, 音形一致的
+		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
+		- telephone (n)電話 (v)打電話
 
 	phot 光 = light
+		- photon (n)光子
 		- photics (n)光學
 		- photography (n)攝影
-		- photosynthesis (n)光合作用 <-- photo + synthesis
+		- /ˌfəʊtə(ʊ)ˈsɪnθɪsɪs/ photosynthesis (n)光合作用 --> photosynthesize (v) <-- photo + synthesis
 
 	patri, patr 父親/本土 = father, native land
-		- compatriot (n)同國人/同胞, 同事
-		+ expatriate (v)流放 = exile <|> expatiate
-		- expat (adj)居住海外的 (n)居住海外的人 <-- expatriate
-		- patrician (n)貴族 <-- patr 
-		- patrimony (n)繼承的遺產/祖產
+		- /kəmˈpatrɪət/ compatriot (n)同國人/同胞
+		+ expatriate (v)送..出國 (n)居住海外的人 (adj)居住海外的 <|> expatiate
+		- expat (adj)居住海外的 = expatriate (n)居住海外的人 = expatriate 
+		- patrician (n)貴族 = aristocrat = nobleman (adj)貴族的 <-- patr 
+		- patrimony (n)繼承的遺產/祖產 = heritage
 		- patriot (n)愛國者/愛國主義者
-		- patriotism (n)愛國主義, 愛國者
-		- patriotism (n)愛國心/愛國精神/愛國主義
-		* patron (n)贊助者/資助者, 老主顧 --> patronage (n)資助/贊助 = auspices, 光顧/惠顧
-		+++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
-		- repatriate (v)遣返
+		- /ˈpeɪtrɪətɪz(ə)m/ patriotism (n)愛國心/愛國精神/愛國主義
+		* patron (n)贊助者/資助者, 老主顧
+		* patronage (n)資助/贊助 = auspices, 經常光顧/惠顧, 權力/特權 = right, 恩賜態度
+		+++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 經常光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
+		- repatriate (v)遣返/送..回國 (n)被遣返回國者
 
 	pli, plic, plex, ply 彎 = fold, plait
-		- accomplice (n)同謀/幫凶 = accessory
+		- accomplice (n)同謀/幫凶 = conspirator = collaborator
 		+ complicate (v)使複雜化, (疾病)使惡化/加重 = exacerbate = aggravate
 		* comply (v)服從/遵守 = conform
 		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
-		+ compliant (adj)服從的/順從的 = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience
-		+ compliment (n/v)恭維/讚揚/讚賞 = praise --> complimentary (adj)讚賞的 <|> complement <|> implement
-		+ duplicity (n)口是心非/欺騙 = guile, 搞兩面派 --> duplicitious (adj)雙面的/兩面派的, 欺騙的
-		+ duplicate (adj)複製的, 一對的 (n)複製品
+		+ compliant (adj)服從的/順從的 = acquiescent = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience, 過度默從
+		+ compliment (n/v)恭維/讚揚 = praise = congratulate --> complimentary (adj)讚賞的, 贈送的 <|> complement <|> implement
+		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> duplicitous (adj)雙面的/兩面派的, 欺騙的
+		+ duplicate (adj)複製的, 一對的 (n)複製品 (v)複製, 加倍 = double, 多做一次
 		- duplex (adj)雙重的/二倍的 (n)雙層公寓
-		+ explicate (v)詳細解說/闡明 = explain = interpret = clarify = expatiate = expound
-		+ explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 成熟的/成形的 <-- explicate
+		+ explicate (v)詳細解釋/詳細分析 = explain = interpret = clarify = expatiate = expound
+		+ explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 赤裸裸的/露骨的 <-- explicate
 		* explicable (adj)可解釋的/可理解的 <--> mysterious = obscure
 		+ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
-		+ implicit (adj)含蓄的/暗示的 = implied, 無疑問的/無保留的 = unreserved = absolute
+		+ implicit (adj)暗示的 = implied, 內含的/固有的, 無疑問的/絕對的 = unreserved = absolute
 		+ inexplicable
 		- multiplex (adj)許多的/多樣的, 多路通訊的, 多廳的 (n/v)多路傳輸 (n)多廳電影院 --> multiplicity (n)多樣性
-		+ perplex (v)使困惑/使擔憂 = confound = baffle = puzzle = confuse --> perplexity (n)困惑/茫然
-		- pliable (adj)易彎的/柔軟的 = flexible = lithe = limber = supple = yielding
-		- pliant (adj)易受影響的, 易彎的 = pliable =
-		- plight (n)困境/苦境, 誓約 (v)發誓/保證
-		+ replicate (n)摺疊, 複製 (adj)摺疊的, 複製的 (n)複製品
-		+ supple (adj)易彎曲的/柔軟的 = pliant = flexible = limber = lithe, 順從的 = obedient = compliant = yielding, 適應性強的 <-- supplicate
-		+ supplicate (v)懇求/祈願/請求 --> suppliant (adj)懇求的/哀求的 = beseeching (n)懇求者 --> supplicant (n)乞求者/懇求者
+		+ perplex (v)使困惑 = confound = baffle = puzzle = confuse, 使複雜化 = Complicate --> perplexity (n)困惑/茫然
+		- pliable (adj)易彎的/柔軟的 = flexible = lithe = limber = supple = yielding, 易受影響的
+		- pliant (adj)易受影響的 = yielding, 易彎的 = pliable
+		- plight (n)困境/苦境 (v)[be plighted to]訂婚
+		+ replicate (n)複製 = reproduce, 重複試驗 (adj)複製的, 重複試驗的 (n)複製品 = replica = duplicate, 重複試驗
+		- replica (n)複製品 = replicate = duplicate
+		+ /ˈsʌp(ə)l/ supple (adj)易彎曲的/柔軟的 = pliant = flexible = limber = lithe, 靈活的/適應能力強的 (v)使柔軟 <-- supplicate
+		+ supplicate (v)懇求/請求 --> suppliant, supplicant (adj)懇求的/哀求的 = beseeching (n)懇求者
 
 	pluto 財富 = wealth
 		+ /pluːˈtɒkrəsi/ plutocracy (n)財閥統治 

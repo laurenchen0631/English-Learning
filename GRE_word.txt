@@ -1291,6 +1291,7 @@
     + /ˈhɔːti/ haughty (adj)傲慢的/自大的 = arrogant = supercilious = conceited = cavalier = disdainful = imperious
     + /əʊˈtəː/ hauteur (n)傲慢 = haughtiness = snobbery
     + hearten (v)鼓勵/激勵 = cheer = encourage
+    + hector (v)欺凌/威嚇 = browbeat = bully
     ++ hedge (n)樹籬/籬笆, 限制/界限 (v)限制 = restrict, 避免答覆/迴避, 兩面下注
     + /ˈhiːd(ə)nɪst/ hedonist (n)享樂主義者 = sybarite --> hedonistic (adj)享樂主義的 <-- hedon 快樂 = pleasure + ist
     + /hɪˈdʒɛməni/ hegemony (n)霸權/領導權 = predominance = leadership = domination = authority <-- hegemon 領導 = lead
@@ -1373,7 +1374,6 @@
     ^ heavy-handedness (n)笨拙, 粗劣 = clumsiness
     ^ heckle (v)詰問/質問/刁難
     ^ hectic (adj)興奮的, 忙亂的
-    ^ hector (v)凌辱/欺凌/威嚇 = browbeat = bully
     ^ heed (v)注意/留心 (n)關心 --> heedless (adj)不注意的/疏忽的 = inadvertent
     ^ heinous (adj)十惡不赦的/可憎的/兇惡的 = abominable
     ^ heirloom (n)傳家寶
@@ -2114,7 +2114,6 @@
     + /ˈprɛdətə/ predator (n)食肉動物, 掠奪者 <-- predat 掠奪 = plunder + or
     + preternatural (adj)超自然的/不可思議的 = supernatural = exceptional <-- preter 超 = beyond + natural
     + prey (n)獵物
-    +++ probity (n)剛正/正直 = uprightness = rectitude = honesty = high-mindness = goodness <-- prob 正直 = upright + ity
     + /prəʊz/ prose (n)散文, 平凡/單調 --> prosaic (adj)平凡的 = commonplace = everday = ordinary = quotidian = mundane = terrestrial = unromatic
     + /ˈprəʊtɪən/ protean (adj)變化多端的/多變的, 多才多藝的/多功能的 = versatile
     ++ province (n)省/州, 地方/鄉間, 領域 --> provincial (adj)狹隘的 = narrow = scanty, 純樸的 = rustic = unsophisticated, 地區性的 = local, 省的
@@ -2348,6 +2347,7 @@
     ++ raft (n)木筏, 橡皮艇, 大群(水鳥或哺乳動物), 大量 (v)乘木筏渡, 把……紮成筏子
     + rage (n)狂怒/盛怒, 肆虐, 狂熱, 風行 (v)發怒, 肆虐/激烈進行, 流行/盛行
     ++ rail (V)咒罵/猛烈指責 = rant = inveigh = fulminate, 用鐵路運輸 (n)欄杆, 鐵軌
+    + raillery (n)揶揄 <-- rail
     + /ˈreɪm(ə)nt/ raiment (n)衣飾/衣裳 = clothing = garments
     + rakish (adj)瀟灑的/放蕩的 = jaunty = dissolute
     ++ /ˈramɪfʌɪ/ ramify (v)分支/分叉 --> ramification (n)分枝/分派 = branch, 延伸性影響/結果 = implication = consequence = outgrowth <-- ram 分枝 = branch + ify
