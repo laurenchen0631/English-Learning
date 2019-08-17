@@ -438,6 +438,7 @@
     + /ˈklaŋ/ clang (v)叮噹作響/發出噹啷聲 <|> cling --> clangor (n)吵鬧/喧嚷 = clamorous noise, 連續的鏗鏘聲響
     + clarify (v)澄清/闡明/使更清晰易懂 --> clarity (n)清晰
     + clearheaded (adj)頭腦清楚的 <--> lightheaded
+    + clement (adj)寬容的 = indulgent = permissive = lenient = merciful --> clemency (mn)寬容 = mercy = lenience <|> inclement
     + /ˈkliːʃeɪ/ cliche (n)陳腔濫調 = platitude = commonplace --> cliched (adj) = stale = trite = banal = hackneyed
     ** /ˈklik/ click (v)發出短而尖的聲音, 成為朋友/受歡迎, 恍然大悟 (n)短而尖的聲音
     + /ˈklik/ clique (n)小集團/小圈子/派系 = coterie = faction <-- click
@@ -497,7 +498,6 @@
     * /ʃiːk/ chic (adj)時髦的, 雅緻的
     * chide (v)責駡/訓斥 = scold = reproach = criticize <|> child
     *** chief (adj)首要的/最重要的 = cardinal, 首席的 (n)領導人/首領/頭目
-    * clement (adj)寬容的 = indulgent = permissive = lenient = merciful <|> inclement
     * cling (v)依附/附著/抓緊/抱緊, 依戀/緊挨著/捨不得放棄
     * cobweb (n)蜘蛛網/蜘蛛絲
     * coddle (v)寵愛/悉心照料 = cosset = pamper = mollycoddle, (把雞蛋在稍低於沸點的水中)煮嫩/煮軟
@@ -800,7 +800,7 @@
     + /ɪɡˈzamɪn/ examine (v)細看 = scrutinize, 研究, 測驗, 調查/打聽 = inquire = investigate, 審問 = interrogate
     + /ɪɡˈzɛmpləm/ exemplum (n)例證/範例 = example = model --> exemplar (n)榜樣/楷模 = paragon --> exemplary (adj)可作楷模的 --> exemplify (v)作為…的典例, 用例子說明 = illustrate
     ++ exigent (adj)緊急的/急迫的 = urgent = pressing, 艱鉅的 = arduous = severe --> exigency (n)緊急/危急 = crisis, 迫切需要 <-- ex + ig 做 = drive + ent
-    + /ɪɡˈzɪɡjʊəs/ exiguous (adj)稀少的/非常小的 --> exiguity (n)稀少/細小
+    + /ɪɡˈzɪɡjʊəs/ exiguous (adj)稀少的/非常小的 --> /ɪɡzɪˈɡjuːɪti/exiguity (n)稀少/細小
     + exist (v)存在, 生存 --> existential (adj)存在的, 存在主義的
     +++ /ɪkˈsplɔɪt/ exploit (v)剝削 = milk, 利用 = utilize, 推廣 = promote = tout (n)英勇行為/輝煌的成就 --> exploitation (n)利用, 剝削, 廣告推銷 <|> explicit
 
@@ -1113,7 +1113,7 @@
     + glean (v)拾落穗, 搜集(消息、材料等)
     + glib (adj)油嘴滑舌的, 能言善道的 <-- slippery
     + glide (v)滑行, 滑翔, 悄悄地移動
-    + gloat (n/v)洋洋自得/幸災樂禍 = malevolent smugness <|> bloat <|> float
+    + gloat (n/v)洋洋自得/幸災樂禍 = schadenfreude = malevolent smugness <|> bloat <|> float
     + /ˈɡlaʊə/ glower (n/v)怒目而視 <--> frown <--> leer
     ++ /ˈglət/ glut (v)過度供應, 使飽足 = sate, 使厭膩 = cloy = weary (n)供過於求 = surfeit <--> dearth
     + /ɡəʊd/ goad (n)趕牛棒 (n/v)刺激/激勵 = prod = urge on = stimulate = encourage = spur <|> /ɡəʊld/ gold 
@@ -1314,6 +1314,7 @@
     + hound (n)獵犬, 卑劣的人 (v)煩擾/騷擾 = harass = persecute = pursue
     + /ˈhɒstʌɪl/ hostile (adj)對立的 = antagonistic, 不友善的/敵意的 = unfriendly = inimical --> hostility (n)敵對/憎恨 = enmity = antagonism = unfriendliness = animus = animosity <|> /stʌɪl/ style
     + hotly (adv)激烈地/憤怒地/熱心地
+    + hubris (n)傲慢自大
     ++ hunch (n)預感 = premonition (v)弓背/彎腰 = arch = stoop = bend over, 向前移動/推進 = shove = push = jostle
     ++ husband (v)節儉地管理/節約地使用 = conserve (n)丈夫 --> husbandry (n)耕種/務農 = agriculture = farming, 節儉/管理 = frugality = thrift = conservation
 
@@ -1404,7 +1405,6 @@
     ^ hut (n)簡陋的小屋, 臨時營房
     ^ hover (v)盤旋, 徘徊
     ^ hub (n)軸心
-    ^ hubris (n)傲慢自大
     ^ huckster (n)叫賣的小販/零售商 = peddler = hawker
     ^ hawker (n)叫賣小販, 飼鷹者
     ^ hue (n)色彩/色澤
@@ -2379,6 +2379,7 @@
     ++ /ˈrɪvɪt/ rivet (n)鉚釘 (v)固定/釘牢, 吸引注意 = arrest --> riveting (adj)吸引注意的 = fascinating = arresting
     + robust (adj)強健的 = vigorous = hardy = stalwart, 結實的 = stout, 醇厚的/濃的
     + rococo (adj)洛可可式的/裝飾花樣多且繁雜的
+    +++ row (n)一列/一排 (v)划船, 划船載, 爭吵, 嚴厲斥責 (n)划船小遊, 吵架/口角, 嚴重爭執, 嚴厲斥責, 吵嚷/喧鬧 = uproar
     ++ rue (n/v)後悔/遺憾/懊悔 = repent = regret = sorrow = repentance = remorse = ruth --> rueful (adj)哀傷的/後悔的 = mournful = lachrymose = regretful, 可憐的 = pitiable = deplorable = sordid = squalid
     + ruminant (adj)反芻的, 沈思的 = meditative = contemplative --> rumination (n) <-- rumen
     + /ruːz/ ruse (n)花招/詐術 = trick = stratagem = artifice <|> ruth <|> rue
@@ -2505,6 +2506,7 @@
     ++ /skɛːs/ scarce (adj)缺乏的/不足的 = insufficient = scanty, 稀有的/罕見的 = rare = uncommon --> scarcity (n)不足/缺乏 = paucity = scantiness = dearth, 稀有 = rarity = infrequency
     ++ /skeɪð/ scathe (v)傷害 = hurt = harm = injury --> scathing (adj)苛刻的/嚴厲的 = severe = vitriolic = truculent
     + /sɛnt/ scent (n)香味, 氣味 = odor, 蹤跡/線索/跡象 = track = trail, 嗅覺 = sense of smell, 香水 = perfume (v)嗅/聞, 使充滿氣味 = perfume
+    + /ˈʃɑːd(ə)nˌfrɔɪdə/ schadenfreude (mn)幸災樂禍 <-- Schaden == harm + Freude == joy.
     *** /skiːm/ scheme (n)計畫, 組合, 體制/結構, 圖解/大綱/摘要, 詭計/陰謀 = machination = plot = stratagem (v)計畫/密謀 = plan = plot
     + schematic (adj)示意的/概略的/圖解的 = diagrammatic --> schematize (v)系統化
     + schism (n)組織分裂 = division
@@ -3273,7 +3275,6 @@
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
     * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
     * vomit (v)嘔吐 = disgorge = heave
-    ** /ˈvʌlɡə/ vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
     
     ^ vaccine (n)牛疫苗, 疫苗 --> vaccineate (v)給...接種疫苗 <-- vacc 牛 = cow + ine
     ^ valve (n)活門/閥門

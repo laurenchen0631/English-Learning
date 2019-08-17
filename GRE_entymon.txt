@@ -15,6 +15,7 @@
 			+ accrue
 			+ admonish
 			+ adroit (adj)靈巧的/熟練的/精明的 = adept = ingenious <-- a + droit 正確的 = straight, just, correct
+			- acquaint (v)[with]使認識/介紹, 熟悉/了解 <-- ac + quaint 知道 = know == gnost
 			+ acquiesce
 			+ adduce
 			+ adjunct
@@ -736,7 +737,7 @@
 		+ accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
 		- access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
 		+ accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
-		+ concede (v)讓步/讓出(權利) = compromise = yield, 承認(失敗) = admit = grant
+		+ concede (v)讓步/讓出(權利) = compromise = yield = appease, 承認(失敗) = admit = grant
 		++ concession (n)(常指為結束爭端而)認可/讓步/妥協, 讓予物/特許權, 營業權/營業場所
 		+ /siːd/ cede (v)割讓/放棄 = yield = surrender --> cession (n)割讓/放棄
 		- cessation (n)結束/中斷/中止
@@ -1002,7 +1003,7 @@
 	cryph, crypt 隱藏/秘密 = hide == scond
 		- apocrypha (n)偽經/偽書 <--> canon
 		+ apocryphal (adj)虛假的/可疑的 = bogus <--> authenticated = authentic = genuine
-		- cryptic (adj)神秘的/有隱義的
+		+ cryptic (adj)神秘的/有隱義的
 		- cryptogram (n)密碼/暗號
 
 	cracy, crat 統治 = power, rule, strength, might
@@ -2943,7 +2944,8 @@
 			* invariably (adv)不變地/總是 == always == In every case or on every occasion
 			- invertebrate (adj)無脊椎的 (n)無脊椎動物 = in + vertebrate 
 			+ invidious
-			- inviolate (adj)未被侵犯的/未被褻瀆的 <-- in + violate + able
+			- inviolate (adj)未被侵犯的/未被褻瀆的 <-- in + violate
+			- inviolable (adj)不可褻瀆的/不可侵犯的 <-- in + viol(ate) + able
 			* involuntary
 			- invulnerable (adj)無法傷害的
 			+ irrational (adj)無理由的, 不合理的/不合邏輯的 = illogical = inconsequential
@@ -3602,7 +3604,7 @@
 		+ misattribute (v)誤歸功於
 		- misbehavior (n)不禮貌/品行不端
 		- misconception (n)誤解
-		- misdemeanor (n)小錯, 輕罪
+		- misdemeanor (n)小錯, 輕罪 = peccadillo
 		- misdeed (n)惡行/罪行
 		- misfit (n)與社會脫節的人
 		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
@@ -3703,7 +3705,7 @@
 		+ intermediary (n)仲裁者 = mediator, 媒介物 = medium (adj)中間的/媒介的 = intermediate <-- inter + media 媒體 + ary
 		* intermediate (adj)中間的/居中的/中等的
 		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about (adj)居中的/間接的 --> mediator (n)調解人 = broker = intercessor <|> meditate
-		- /ˈmɛdɪteɪt/ meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate
+		- /ˈmɛdɪteɪt/ meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate <|> medication
 		+ meditative (adj)沈思冥想的 = contemplative = ruminant
 		- medieval
 		+ /ˌmiːdɪˈəʊkə/ mediocre (adj)中庸的/中等的 --> mediocrity (n)中庸, 中庸的人
@@ -3987,6 +3989,7 @@
 	nerv 精力 = sinew
 		+ /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
 		* nerve (n)神經, 沉著, 勇氣/膽量, 憂慮/焦躁, 葉脈 (v)[nerve oneself]鼓起勇氣/激勵
+		+ unnerve 
 
 	nihil 無 = nothing
 		+ annihilate (v)消滅 = obliterate = extingush = decimate = wipe out, 征服/徹底勝過 = vanquish
@@ -4391,7 +4394,7 @@
 		* pretend --> pretended
 		+ pretense --> pretension --> pretentious
 		- pretext
-		++ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh, 盛行, [on/upon]說服 = persuade <|> travail
+		++ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh = preponderate, 盛行, [on/upon]說服 = persuade <|> travail
 		+ prevalent
 		+ prevaricate (v)支吾其詞 = quibble = equivocate <-- pre + varicate 弓腳 == straddle
 		+ prevent
@@ -4447,6 +4450,7 @@
 		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <|> unpropitious <-- pro + pit 懇求 = resort, solicit
 		+ propitiate (v)取悅 = appease <-- propitious
 		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (V)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
+		* propound (v)提出…供考慮
 		* propose --> proposal
 		- proposition
 		+ proprietary
@@ -4508,7 +4512,7 @@
 		2. 穿過 = through, throughout
 			- perambulate
 			- percuss --> percussion --> percussionist 
-			- perforates
+			- perforate
 			+ permanent (adj)永久的/永恆的 = perennial, 持續不斷的 (n)燙髮 <-- per + mane 保留 = remain + ent
 			+ /ˈpəːmɪeɪt/ permeate (v)滲透/瀰漫 = pervade = riddle with = saturate
 			+ permeable (adj)可滲透的/可穿過的 = penetrable = pervious = porous
@@ -4551,7 +4555,7 @@
 		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt = untouched = intact, 清新的/未受污染的 = uncorrupted = spotless
 
 	priv 個人/搶奪 = private, rob
-		+ deprive (v)奪走/剝奪 = remove = strip --> deprivation (n)匱乏/缺乏 <|> deprave
+		+ deprive (v)奪走/剝奪 = remove = strip <|> deprave --> deprivation (n)匱乏/缺乏
 		- privacy (n)清靜, 隱私
 		+ privation (n)缺乏, 貧困/匱乏
 		- privative (adj)匱乏的/缺乏的, 表示缺少的/否定的(字詞) 
@@ -4659,7 +4663,7 @@
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
 			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
-			- impassioned (adj)充滿激情的/熱烈的
+			- impassioned (adj)充滿激情的/熱烈的 <--> impassive
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
 
 	patho, path 病 = disease
@@ -4710,7 +4714,7 @@
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
 		* compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的 = compelling
 		- compulsory (adj)義務的 = required = mandatory = obligatory, 強制的/強迫的 = coercive
-		* expel (v)開除/退學 = oust, 趕走/驅逐 = disperse, 排出(體內) = discharge = emit = utter
+		* expel (v)開除/退學 = oust, 趕走/驅逐 = disperse, 排出(體內)
 		+ dispel (v)驅散/消除(情緒) = alleviate
 		- impel (v)驅使 = force = compel = urge, 推進 = push = propel
 		* impulse (n)衝動/強烈欲望 = compulsion = urge, 動機/刺激 = impetus, 脈衝, 衝力 --> impulsive (adj)衝動的/易衝動的, 衝力的
@@ -4734,7 +4738,7 @@
 		+ /ˌrɛpəˈreɪʃ(ə)n/ reparation (n)賠償/補償 = amends = compensation = recompense --> reparative (adj) <-- repair
 
 	pease, pac 和平 = peace
-		+ appease (v)綏靖/對..讓步, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
+		+ appease (v)綏靖/對..讓步 = concede, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
 		- /ˈpɛz(ə)nt/ peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
 		* pacify (v)使平靜/安撫 = appease = placate = quell = allay = mitigate = repress, 平定/平息 
 		- pacific (adj)愛好和平的/平和的 --> Pacific (adj)太平洋的 (n)太平洋
@@ -4807,7 +4811,7 @@
 		- component (n)成分/零件 (adj)組成的/構成的 = constituent
 		+ compose (v)作曲/創作, 組成/構成 = constitute = make up, 使平靜 = calm = settle <--> discompose
 		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
-		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise
+		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise = aplomb = serenity
 		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
@@ -4882,7 +4886,7 @@
 		- reprehend (v)譴責/責難 = reprimand --> reprehensible (adj)應受譴責的 = culpable
 
 	proach 接近 = near
-		+ approach (v)接近, 大約, 首次提出, 處理 = address = deal with (n)方法 = access, 首次提議, 接近, 大約, 路線
+		+ approach (n/v)接近, 大約, 首次提出 (v)處理 = address = deal with (n)方法 = access, 路線
 		- approachable (adj)可接近的/可到達的, 和藹可親的/易交談的 = affable
 		+ reproach (n/v)責備/責怪 = blame = censure = denounce = reprimand = scold = excoriate = condemn = decry = upbraid (v)[with]指控 = accuse of 
 
@@ -4896,7 +4900,7 @@
 	    +++ probity (n)剛正/正直 = uprightness = rectitude = honesty = high-mindness = goodness 
 
 	propr, proper 擁有 = own
-		++ appropriate (v)撥款 = allot, 挪用 = embezzle (adj)恰當的 = agreeable
+		++ appropriate (v)撥款 = allot, 挪用 (adj)恰當的 = agreeable
 		+ appropriation (n)挪用, 撥款總額
 		- misappropriate (v)侵吞/盜用 = embezzle = appropriate = peculate
 		- property (n)財產/所有物, 房地產, 所有權, 特性/特質 = attribute = quality = characteristic
@@ -4972,7 +4976,7 @@
 
 	patri, patr 父親/本土 = father, native land
 		- /kəmˈpatrɪət/ compatriot (n)同國人/同胞
-		+ expatriate (v)送..出國 (n)居住海外的人 (adj)居住海外的 <|> expatiate
+		+ expatriate (v)把..送出國 (n)居住海外的人 (adj)居住海外的 <|> expatiate
 		- expat (adj)居住海外的 = expatriate (n)居住海外的人 = expatriate 
 		- patrician (n)貴族 = aristocrat = nobleman (adj)貴族的 <-- patr 
 		- patrimony (n)繼承的遺產/祖產 = heritage
@@ -4986,9 +4990,9 @@
 	pli, plic, plex, ply 彎 = fold, plait
 		- accomplice (n)同謀/幫凶 = conspirator = collaborator
 		+ complicate (v)使複雜化, (疾病)使惡化/加重 = exacerbate = aggravate
-		* comply (v)服從/遵守 = conform
-		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
+		* /kəmˈplʌɪ/ comply (v)服從/遵守 = conform
 		+ compliant (adj)服從的/順從的 = acquiescent = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience, 過度默從
+		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
 		+ compliment (n/v)恭維/讚揚 = praise = congratulate --> complimentary (adj)讚賞的, 贈送的 <|> complement <|> implement
 		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> duplicitous (adj)雙面的/兩面派的, 欺騙的
 		+ duplicate (adj)複製的, 一對的 (n)複製品 (v)複製, 加倍 = double, 多做一次
@@ -4996,7 +5000,7 @@
 		+ explicate (v)詳細解釋/詳細分析 = explain = interpret = clarify = expatiate = expound
 		+ explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 赤裸裸的/露骨的 <-- explicate
 		* explicable (adj)可解釋的/可理解的 <--> mysterious = obscure
-		+ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
+		++ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
 		+ implicit (adj)暗示的 = implied, 內含的/固有的, 無疑問的/絕對的 = unreserved = absolute
 		+ inexplicable
 		- multiplex (adj)許多的/多樣的, 多路通訊的, 多廳的 (n/v)多路傳輸 (n)多廳電影院 --> multiplicity (n)多樣性
@@ -5021,16 +5025,15 @@
 		- hemophilia
 
 	pict 畫 = paint
-		* depict (v)描繪/描述 = delineate = trace4
+		* depict (v)描繪/描述 = delineate = trace = picture = limn
 		- picture (n)畫/畫像, 照片, 肖像, 畫面, 影片, 劇院, 形象/想像 (v)畫/拍攝, 描繪/描述 = describe, 想像
 		* pictorial (adj)用圖表示的 = illustrated (n)畫刊/畫報
-		** picturesque (adj)如詩如畫的, 生動的(作品) = vivid
+		* /ˌpɪktʃəˈrɛsk/ picturesque (adj)如詩如畫的, 生動的(作品) = vivid
 
 	press 壓
-		- compress (v)壓縮/壓緊, 精煉/精簡 = abridge (n)(止血或消腫)敷布/壓布
+		- compress (v)壓縮/壓緊 = compact, 精煉/精簡 = abridge = compact (n)(止血或消腫)敷布/壓布
 		+++ depress (v)使沮喪 = deject = dispirit = dampen, 使蕭條/使減少, 按下/壓下 --> depression (n)沮喪/憂鬱 = despondency, 憂鬱症, 蕭條, 按下/壓下, 凹陷處, 低氣壓區 <|> distress
 		- depressed (adj)沮喪的, 患憂鬱症的, 蕭條的, 凹陷的 <--> bulged
-		+ impress (v)使感動, 使銘記 --> impressed (adj)被打動的/被感動的 --> impression (n)印象, 感想, 蓋印/壓痕
 		+ impress (v)使欽佩, 壓印, [on]使銘記 (n)壓印, 印記, 特質 = characteristic --> impression (n)想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
 		- impressionable (adj)易受影響的
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
@@ -5045,7 +5048,7 @@
 		+ /ɪkˈspʌn(d)ʒ/ expunge (v)清除/刪除 = obliterate = remove <|> expurgate
 		- /ˈpʌŋ(k)tʃʊəl/ punctual (adj)準時的/守時的 = prompt
 		+ /pʌŋkˈtɪlɪəs/ punctilious (adj)精密細心的/一絲不苟的
-		- puncture (v)刺穿/刺破, 使(情緒)突然低落 (n)刺孔/穿孔
+		- puncture (v)刺穿/刺破 = impale, 使(情緒)突然低落 (n)刺孔/穿孔
 		+ pungent (adj)有刺激性的/辣的 = stimulating = piquant = poignant, 尖刻的 = caustic = sharp
 
 	puni 罰 = punish, penalty
@@ -5072,10 +5075,10 @@
 		- implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge
 
 	pute 思考 = reckon, consider, think
-		+++ dispute (n)爭執/糾紛 (v)爭論 = argue = wrangle = quarrel, 質疑 = question, 競爭 = compete = strive 
+		+++ dispute (n)爭執/糾紛 (v)爭論 = argue = wrangle = quarrel, 質疑 = question = impugn, 競爭 = compete = strive 
 		* depute (v)委託/委任 = delegate <|> dispute --> deputy (n)代理人, 副手 
 		+++ impute (v)歸咎於 = ascribe = credit = attribute
-		- putative (adj)假定存在的/被認為存在的
+		- putative (adj)假定存在的/被認為存在的/傳說的
 		+ repute (n)名聲/名譽, 聲望 = fame (v)認為 = regard --> reputation (n)名聲 = repute, 聲望
 
 	phore, phor, pher 帶來/帶著 = bear
@@ -5088,12 +5091,12 @@
 		+ expiate (v)補償 = atone for = recompense = compensate = make amends
 		* pious (adj)虔誠的/篤信的, 虛偽的/假虔誠的, 不可能實現的
 		+ /ˈpʌɪəti/ piety (n)虔誠 = devoutness, 信仰
-		+ impious (adj)不虔誠的= ungodly <--> religious, 邪惡的 = wicked
+		+ impious (adj)不虔誠的 = ungodly <--> religious, 邪惡的 = wicked
 
 	pecca 罪/錯誤 = sin, err
 		+ impeccable
 		- peccable (adj)易犯罪的
-		- /ˌpɛkəˈdɪləʊ/ peccadillo (n)輕罪/小過/小瑕疵
+		- /ˌpɛkəˈdɪləʊ/ peccadillo (n)輕罪/小過/小瑕疵 = misdemeanor
 		- peccant (adj)致病的/疾病的
 
 	pecun 財富 = wealth
@@ -5115,7 +5118,7 @@
 	popul 人民 = people
 		- /ˈpɒpjʊləs/ populace (n)全體居民
 		- /ˈpɒpjʊləs/ populous (adj)人口稠密的/擁擠的 <|> /ˈpɒpjʊləs/ populace
-		- popular (adj)流行的, 普及的, 民眾的/大眾的
+		- popular (adj)流行的, 普及的, 民眾的/大眾的 = vulgar = plebeian
 		- popularity (n)普及/流行
 		- populate (v)組成人口, 居住於/移民於, 充滿, 填入(資料) = fill in
 		- population (n)全部居民, 人口, 生物族群
@@ -5129,7 +5132,7 @@
 		- importune
 		* opportune --> opportunity
 		- portfolio
-		+ purport
+		+ purport --> purported --> purportedly
 		- rapport
 		- report --> reportorial
 		- transport
@@ -5139,13 +5142,10 @@
 		- /ˈfɒsfeɪt/ phosphate (n)磷酸鹽/磷酸酯, 磷肥
 
 [Q]
-	quaint 知道 = know == gnost
-		- acquaint (v)使熟悉/使了解
-
 	quant 數量 = how much
-		- quantum (n)量子
+		- quantum -> quanta (n)量子, 定量/總量, 部分 = share = portion
 		- quantity (n)量/數量/總量, 大量
-		+ quantitative (adj)量化的, 數量的
+		+ quantitative (adj)量的/量化的 <--> qualitative
 		- quantify (v)以數量表示/使量化
 		+ quantifiable (adj)可量化的
 
@@ -5868,7 +5868,7 @@
 		* ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
 		+ idiosyncrasy --> idiosyncratic
 		+++ resemble (v)像 = favor --> resemblance (n)相似 = affinity
-		* semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
+		+ semblance (n)外貌/外觀 = guise, 假象/假裝 = guise, 類似/酷似
 		- similarity (n)相似 = analogy = resemble
 		+ /ˈsɪmɪli/ simile (n)直喻/明喻 <|> smile
 		- simulate (v)模仿/偽裝
@@ -6647,6 +6647,7 @@
 		- unleash (v)解開……的皮帶, 使被釋放
 		* unmitigated (adj)未緩和的/未減輕的, 全然的
 		- unmoved (adj)無動於衷的/冷漠的, 鎮定的
+		+ unnerve (v)使失去勇氣/使氣餒
 		+ unnoticed (adj)不引人注目的
 		+ unoriginal (adj)非原創的/模仿的
 		- unobtrusive (adj)不引人注目的
@@ -6730,7 +6731,7 @@
 		- understudy (n)預備演員/替角 (v)充當...的替角
 		- undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
 		- underutilized (adj)未充分利用的
-		- underwrite (v)簽署/簽名同意支付/同意, 給……保險
+		+ underwrite (v)簽署/簽名同意支付/同意, 給……保險, 認購
 
 	up 上 = upper, upwards
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
@@ -6811,13 +6812,13 @@
 
 	vulg 普遍 = general, common
 		+ divulge (v)洩漏/透露(秘密) = disclose
-		- vulgar (adj)粗俗的/庸俗的, 通俗的/大眾的 = demotic, 方言的 --> vulgarity (n)粗俗/庸俗
+		** /ˈvʌlɡə/ vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
 		- vulgarian (n)俗物/俗人
 		- vulgarize (v)庸俗化
 
 	vade, vas, vag 走 = go, walk
 		+ evade (v)躲避/逃避 = elude = escape --> evasion (n)逃避/迴避, 藉口 --> evasive (adj)逃避的 = oblique, 難以捉模的 = elusive = evanescent
-		+ pervade (v)彌漫, 遍及/流行 --> pervasive (adj)普遍的/瀰漫的
+		+ pervade (v)彌漫, 遍及/流行 = prevail --> pervasive (adj)普遍的/瀰漫的
 		- invade (v)侵略, 侵犯, 擁入
 		+ extravagant (adj)奢侈的/浪費的 = wasteful, 過度的/過分的 = outrageous --> extravagance (n)奢侈/浪費, 過度/無節制
 		- vagrant (adj)流浪的 (n)流浪漢
