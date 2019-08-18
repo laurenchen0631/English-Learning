@@ -40,7 +40,7 @@ Over the last few years, Berges and a network of colleagues have uncovered a sur
 		> 普遍現象 |A nature or essence signified by a general term.|
 		> 通用文法規則 |A universal grammatical rule or linguistic feature.|
 	- plasma, plasm
-		> 血漿；乳漿 |The colourless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.|
+		> 血漿/乳漿 |The colourless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.|
 		> 電漿 |An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at low pressures (as in the upper atmosphere and in fluorescent lamps) or at very high temperatures (as in stars and nuclear fusion reactors)| the current passed through a column of plasma
 		> 等離子氣體 |A substance analogous to ionized-gas plasma, consisting of mobile charged particles (such as a molten salt or the electrons within a metal).|
 		> 深綠玉髓 |A bright green, translucent variety of quartz used in mosaic and for other decorative purposes.|
@@ -53,7 +53,7 @@ The findings suggest that the initial stages of thermalization play out in a way
 	- fractal
 		> 不規則碎片形 |A curve or geometrical figure, each part of which has the same statistical character as the whole. They are useful in modelling structures (such as snowflakes) in which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth and galaxy formation.|
 		> 碎形的 |Relating to or of the nature of a fractal or fractals.|
-	- spatial, spacial /ˈspeɪʃ(ə)l/  空間的 = Relating to or occupying space.
+	- spatial, spacial /ˈspeɪʃ(ə)l/ 空間的 = Relating to or occupying space.
 		> the spatial distribution of population
 	- temporal
 		> 世間的/世俗的 |Relating to worldly as opposed to spiritual affairs; secular.| the Church did not imitate the secular rulers who thought only of temporal gain

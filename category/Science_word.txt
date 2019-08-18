@@ -23,6 +23,7 @@
 	- biweekly (ADJ/ADV)一週兩次的, 雙週的 (n)雙週刊, 半週刊
 	- faraday 法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
 	- Celsius 攝氏 /ˈsɛlsɪəs/ 
+	- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
 
 [Law/Theory/Study]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
@@ -92,6 +93,7 @@
 		> NA 五分錢 |A five-cent coin; five cents.| we will see gasoline prices go up about a nickel
 	- lithium 鋰
 	- chlorine 氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
+	- potassium /pəˈtasɪəm/ 鉀
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
@@ -111,6 +113,14 @@
 		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
 		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
 		> 甲醇化物 |meths|
+	- condensate
+		> 冷凝水 |Liquid collected by condensation.|
+		> 凝化物 |A compound produced by a condensation reaction.|
+	- quark
+		> 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元) |Any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed but theoretical predictions based on their existence have been confirmed experimentally.|
+		> 低脂起司凝塊 |A type of low-fat curd cheese.|
+	- ultracold atom 超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
+	
 
 [Physical]
 	- wavelength 波長
@@ -142,6 +152,20 @@
 		> 殘響 |Prolongation of a sound; resonance.| electronic effects have been added, such as echo and reverberation’
 		> 反衝 |A continuing effect; a repercussion.| the attack has had reverberations around the world
 	- cymatics 細小的顆粒在振動的表面形成特定圖案的現象
+	- thermalization 熱化，是物理體通過相互作用達到熱平衡的過程。一般而言，系統的自然趨勢是朝向能量均分和均勻溫度的狀態，從而使系統的熵最大化
+	- plasma, plasm
+		> 血漿/乳漿 |The colourless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.|
+		> 電漿 |An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at low pressures (as in the upper atmosphere and in fluorescent lamps) or at very high temperatures (as in stars and nuclear fusion reactors)| the current passed through a column of plasma
+		> 等離子氣體 |A substance analogous to ionized-gas plasma, consisting of mobile charged particles (such as a molten salt or the electrons within a metal).|
+		> 深綠玉髓 |A bright green, translucent variety of quartz used in mosaic and for other decorative purposes.|
+		> 細胞質/原生質 |cytoplasm or protoplasm|
+	- spatial, spacial /ˈspeɪʃ(ə)l/ 空間的 = Relating to or occupying space.
+		> the spatial distribution of population
+	- temporal
+		> 世間的/世俗的 |Relating to worldly as opposed to spiritual affairs; secular.| the Church did not imitate the secular rulers who thought only of temporal gain
+		> 時間的 |Relating to time.| the spatial and temporal dimensions of human interference in complex ecosystems
+		> 太陽穴的/顳的 |Of or situated in the temples of the head.| arterial biopsy usually confirms the diagnosis of temporal arteritis
+	
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的

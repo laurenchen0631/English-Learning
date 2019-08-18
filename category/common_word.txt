@@ -630,6 +630,9 @@
 		> 落地櫃 |A cabinet for television or radio equipment.|
 		> 演奏台 |The cabinet or enclosure containing the keyboards, stops, pedals, etc., of an organ.|
 		> 螺形支架 |An ornamented bracket or corbel supporting a shelf or table top.|
+	+ context
+		> 來龍去脈/背景/環境 |The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.| the proposals need to be considered in the context of new European directives
+		> 上下文/文章脈絡 |The parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning.|
 	+ corner
 		> 角 |A place or angle where two sides or edges meet.| Jan sat at one corner of the table
 		> 角落 |The area inside a room or other space near the place where two walls or other surfaces meet.| the colour TV in the corner of the room
@@ -1172,7 +1175,7 @@
 		> 應得權益 |One`s right; what is owed to one.| he thought it was his due
 		> 應付款 |An obligatory payment; a fee.| he had paid trade union dues for years
 		> 正 |(with reference to a point of the compass) exactly; directly.| we`ll head due south again on the same road
-	* dub
+	+ dub
 		> 給...取別稱 |Give an unofficial name or nickname to.| the media dubbed anorexia ‘the slimming disease
 		> 封..為爵士 |Make (someone) a knight by the ritual touching of the shoulder with a sword.| he should be dubbed Sir Hubert
 		> |Dress (an artificial fishing fly) with strands of fur or wool or with other material.| prewaxed thread has dramatically eased the process of dubbing
@@ -3672,6 +3675,7 @@
 	- strip down 脫得只剩下…/把衣服脫到 == to remove everything except for a particular piece of clothing or above a particular part of the body
 		> I had to strip down to my underwear for my medical examination.
 		> He was stripped to the waist.
+		
 	- specialization
 		> 特別化/專門化 |The process of concentrating on and becoming expert in a particular subject or skill.| the division and specialization of labour
 		> 專業分工 |A particular area which someone concentrates on or is an expert in.| an academic whose specialization was Romantic literature
@@ -4217,6 +4221,9 @@
 		> 拒絕 |to refuse to accept something such as an agreement any longer| We will tear up the whole treaty rather than accept this clause.
 		> 使不開心/使難過 |to make someone feel very unhappy or upset| It tears me up to leave you.
 		> 眼框泛淚 |to become tearful| She teared up as the award was presented to her.
+	- tease out 
+		> 套取/套出 |to try to get information or understand a meaning that is hidden or not clear| It took me a while to tease the truth out of him.
+		> 梳理 |to use your fingers to gradually separate hairs or threads that are stuck or twisted together| While it was still wet, I gently teased out the tangled knots in Rosie`s hair.
 	+ tend
 		> 趨向 |Regularly or frequently behave in a particular way or have a certain characteristic.| written language tends to be formal
 		> 朝向 |Go or move in a particular direction.| fire is hot and tends upwards
@@ -4512,6 +4519,17 @@
 	+ uphold
 		> 肯定/支持 |Confirm or support (something which has been questioned)| the court upheld his claim for damages
 		> 維護 |Maintain (a custom or practice)| they uphold a tradition of not causing distress to living creatures
+	+ universal
+		> 全體的/普遍的 |Relating to or done by all people or things in the world or in a particular group; applicable to all cases.| universal adult suffrage
+		> 通用的 |Denoting a proposition in which something is asserted of all of a class.| He connects it with the thesis that only universal propositions can be known.
+		> 通用的 |Denoting or relating to a grammatical rule, set of rules, or other linguistic feature that is found in all languages.| Instead, slang and universal loanwords are used, a so - called ‘globespeak.’
+		> 萬能的/萬用的 |(of a tool or machine) adjustable to or appropriate for all requirements.|
+		> 宇宙的/全世界的 |A thing having universal effect, currency, or application.|
+		> 全稱命題 |A universal proposition.|
+		> 一般概念 |A term or concept of general application.|
+		> 普遍現象 |A nature or essence signified by a general term.|
+		> 通用文法規則 |A universal grammatical rule or linguistic feature.|
+
 [V]
 	- vault
 		> 拱頂 |A roof in the form of an arch or a series of arches, typical of churches and other large, formal buildings.| a Gothic ribbed vault

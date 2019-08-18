@@ -1610,7 +1610,7 @@
 		+++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定, 使處於良好狀態, 訓練/使習慣於, 為..設立條件, 用護髮素 --> conditional (adj)有條件的 <--> absolute
 		* conditioning (adj)訓練的/調適的
 		+ contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
-		+ dictate (v)口述, 命令/下令/決定 (n)命令
+		+ dictate (v)命令/下令, 決定, 大聲說/朗誦 (n)命令
 		- dictator (n)命令者, 獨裁者 = autocrat --> dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
 		- /dɪkˈteɪtəʃɪp/ dictatorship (n)獨裁政府, 獨裁國家, 專政
 		+ dictum (n)名言/格言 = adage = aphorism
@@ -2302,7 +2302,7 @@
 
 	fig, figur 形成/形狀 = shape
 		- configure (v)裝配/配置/設定
-		- configuration (n)結構/格局/配置 = form = arrangement, 輪廓 = contour = outline
+		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 輪廓 = contour = outline, 原子組態, 完形（一種結構或者經歷，其整體不等於各部分簡單相加之和）
 		- disfigure (v)損毀…的外觀/使毀容
 		+ effigy (n)(尤指被憎恨人的)肖像/雕像
 		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵
@@ -5247,6 +5247,7 @@
 			+ reliquish
 			+ reluct (v)反抗/不同意 --> reluctant (adh)不情願的 = averse = unwilling = loath --> reluctance (n)不情願 <-- re + luct 掙扎 = struggle
 			- remain (v)剩下/餘留/保持 <-- re + main 留下 = stay
+			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的
 			- remainder (n)剩餘物 
 			- remains (n)遺址/廢墟
 			+++ remark (v)談到/評論/說, 注意/覺察 = note = perceive = observe (n)談論/評論, 注意/察覺 --> remarkable (adj)值得注意的/非凡的/出色的
@@ -5825,7 +5826,7 @@
 	sper
 		1. 散開 = scatter, sprinkle
 			+ asperse (v)誹謗 --> aspersion (n)誹謗/中傷/污衊 = calumny = slander = derogate (v) 
-			* disperse (v)驅散 = dispel, 散佈 = intersperse = disseminate = scatter = squander
+			* disperse (v)使分散/散佈 = intersperse = disseminate = scatter = squander, 分開, 消散/消失, 使色散
 			- intersperse (v)散佈, 點綴
 
 		2. 希望 = hope
@@ -5892,6 +5893,7 @@
 	sim, sin 一 = one
 		- simplex (adj)單純的/單一的 (n)單字
 		- simple (adj)簡單的/單純的/善良的, 完全的/純粹的, 普通的/不重要的/頭腦簡單的
+		- /sɪmˈplɪsɪti/ simplicity (n)簡易/簡明, 簡明易懂的事物, 簡樸
 		+ simplistic (adj)過分單純化的/被過分簡單化的
 		- simpler (v)傻笑/癡笑
 		- simpleton (n)笨蛋
@@ -5902,7 +5904,7 @@
 	semin 種子 = seed
 		+ disseminate (v)傳播/宣傳 = disperse = spread = scatter = broadcast
 		- semen (n)精液
-		- seminal (adj)種子的, 有發展性的/有創意的, 精液的
+		** seminal (adj)種子的, 有發展性的/有創意的, 精液的
 		- seminary (n)神學院, 女子學校
 
 	sacr, secr, sanct 神聖 = sacred, holy
@@ -6391,7 +6393,7 @@
 		- extempore (adj/adv)即興的/無準備的 = offhand = improvised
 		+ extemporaneous (adj)即席的 = unrehearsed, 隨口而出的
 		- extemporize (v)即席演說 = improvise = vamp
-		- temporal (adj)時間的, 短暫的, 世間的/世俗的 = mundane = worldly = early = secular
+		- temporal (adj)時間的, 太陽穴的/顳的, 世間的/世俗的 = mundane = worldly = early = secular
 		- temporary (adj)臨時的/暫時的 = casual
 		- temporize (v)拖延, 見風轉舵
 
@@ -6755,6 +6757,8 @@
 		- uniform
 		+ unique (adj)獨一無二的/獨特的/無與倫比的 <--> ubiquitous
 		- unisex (adj)不分男女的/男女皆宜的
+		+ universal (adj)全體的/普遍的, 通用的, 萬能的/萬用的, 宇宙的/全世界的 (n)全稱命題, 一般概念, 普遍現象, 通用文法規則
+		+ universality (n)普遍性, 普適性
 		- univocal (adj)意思明確的, 單一意思的
 
 	use 用
@@ -6844,7 +6848,7 @@
 		+ divert (v)使轉向/使改道, 使分心 = detract = distract = beguile, 逗……開心 = entertain
 		- diversion (n)轉向/轉移, 分散注意力, 娛樂/消遣 = relaxation
 		+ diverse (adj)不同的/相異的 = heterogeneous, 多種多樣的 --> diversify (v)多樣化, 多元化經營 --> diversity (n)差異性, 多樣性
-		+ evolve (v)使逐步發展/逐漸改變, 進化, 排出 = emit --> evolution (n)演化/進化, 發展/演變
+		++ evolve (v)逐漸發展, 進化, 發散/排出 = give off = emit --> evolution (n)演化/進化, 發展/演變
 		- extrovert (n)個性外向的人
 		+ introvert (n)內向者
 		- inverse (adj)相反的, 倒轉的
@@ -6868,7 +6872,7 @@
 		- vertical (adj)垂直的 = plumb
 		+ vertigo (n)眩暈 = dizziness
 		+ /ˈvɒljʊb(ə)l/ voluble (adj)滔滔不絕的/健談的 = talkative --> volubility (n)
-		+ vortex (n)渦/旋風/旋渦 = whirlpool
+		+ vortex (n)旋渦/渦流 = whirlpool
 
 	verge 軸/竿 = rod
 		+ converge (v)匯聚/交會, 聚集/集中, 趨於一致 --> convergent (adj)匯聚的 --> convergence (n)
