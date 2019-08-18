@@ -123,7 +123,7 @@ Probably the best example of this are the bearings that we are using for the clo
 		> 方位/方向 |The direction or position of something, or the direction of movement, relative to a fixed point. It is usually measured in degrees, typically with magnetic north as zero.| the Point is on a bearing of 015°
 		> one's bearings 所在位子 |Awareness of one's position relative to one's surroundings.|
 	- race 座圈/鋼珠軸承
-	- weld
+	- 
 		> 焊接/熔接 |Join together (metal parts) by heating the surfaces to the point of melting with a blowpipe, electric arc, or other means, and uniting them by pressing, hammering, etc.| steel plates were being welded
 		> 焊接 |Forge (an article) by welding.| He rushed into the kitchen where a metal coat rack, which was a piece given to Nick from a friend who welded marvelous art pieces, stood.
 		> 接合 |Unite (pieces of plastic or other material) by melting or softening of surfaces in contact.|

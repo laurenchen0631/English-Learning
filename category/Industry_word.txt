@@ -208,6 +208,7 @@
 		> 暫由第三方保管 |Place in custody or trust until a specified condition has been fulfilled.| those funds are escrowed for the purpose of improving municipal services
 	- licensing terms 授權條款
 	- licensing agreement 授權合約 
+	- Goldman Sachs 高盛集團，一家美國跨國投資銀行與金融服務公司，其總部位於紐約市曼哈頓
 
 [Law]
 	- the Supreme Court 最高法院
@@ -409,11 +410,8 @@
 		> 窺探 |A furtive investigation.| I could go back to her cottage and have another snoop
 		> 私家偵探/狗仔 |A person who furtively tries to find out information about someone`s private affairs.| I start talking without admitting that I`m a professional snoop
 	- narc, nark 緝查毒品的刑警 == An official narcotics agent.
-	- nock
-		> 弓的搭弦處 |A notch at either end of a bow for holding the string.|
-		> 箭尾端搭弦處 |A notch at the butt end of an arrow for receiving the bowstring.|
-		> 搭上弦 |Fit (an arrow) to the bowstring ready for shooting.| I was shaking and had trouble getting the arrow nocked
-	- bowstring 弓弦
+	- treason (n)叛國罪, 背叛/不忠 --> treasonable (adj)背叛的/叛國的
+
 
 [Army/Military]
 	- captain
@@ -466,6 +464,11 @@
 		> 勒頸動作 |A grip around the neck of another person that can kill by asphyxiation if held for long enough.|
 		> 壓倒性的控制 |Complete or overwhelming control.| in France, supermarkets have less of a stranglehold on food supplies
 	- beachhead 灘頭陣地 == A defended position on a beach taken from the enemy by landing forces, from which an attack can be launched.
+	- nock
+		> 弓的搭弦處 |A notch at either end of a bow for holding the string.|
+		> 箭尾端搭弦處 |A notch at the butt end of an arrow for receiving the bowstring.|
+		> 搭上弦 |Fit (an arrow) to the bowstring ready for shooting.| I was shaking and had trouble getting the arrow nocked
+	- bowstring 弓弦
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -534,6 +537,7 @@
 		> 使順風 |Slacken or let out (a rope or cable) in a controlled way.|
 	- off course 偏離航線
 	- sleigh /sleɪ/  (n)雪橇 (v)駕雪橇/乘雪橇
+	- Rolls-Royce 勞斯萊斯
 
 [Agriculture/Farming]
 	+ farm
@@ -734,6 +738,8 @@
 	- gluten /ˈɡluːt(ə)n/ 麩質 == A mixture of two proteins present in cereal grains, especially wheat, which is responsible for the elastic texture of dough.
 	- zucchini /zʊˈkiːni/ 西葫蘆
 	- caviar 魚子醬
+	- surf-and-turf == surf 'n' turf 海陸雙拼 == a main course combining seafood and red meat.
+	- potato-chip bag 袋裝洋芋片
 
 [Medicine]
 	- medical
@@ -859,6 +865,20 @@
 	- microbiome /mʌɪkrəʊˈbʌɪəʊm/ 人類微生物群系，又稱為正常菌群是某些微生物與宿主在長期的進化過程中形成共生關係，對生物體無害的一類細菌
 	- terminal illness 絕症
 	+ hygiene /ˈhʌɪdʒiːn/ 衛生/衛生情況 == Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
+	- wheelchair /ˈwiːltʃɛː/ 輪椅
+	- syringe /sɪˈrɪndʒ/
+		> 注射器 |A tube with a nozzle and piston or bulb for sucking in and ejecting liquid in a thin stream, used for cleaning wounds or body cavities, or fitted with a hollow needle for injecting or withdrawing fluids.|
+		> |A device similar to a syringe used in gardening or cooking.|
+		> 注射/洗淨 |Clean (the ear, a wound, etc.) by spraying liquid from a syringe.| I had my ears syringed
+		> 噴灑 |Spray liquid over (plants) with a syringe.| syringe the leaves frequently during warm weather
+	- suture /ˈsuːtʃə/ 
+		> 縫線 |A stitch or row of stitches holding together the edges of a wound or surgical incision.| sutures are removed on the 5th to 7th day after the operation
+		> 縫合用的線 |A thread or wire used for suturing a wound or incision.|
+		> 縫合 |The action of stitching together the edges of a wound or incision.|
+		> 縫合 |Stitch up (a wound or incision) with a suture.| the small incision was sutured
+		> 不會動的關節 |An immovable junction between two bones, such as those of the skull.|
+		> |A junction between the sclerites of an insect·s body.|
+		> |A line of junction formed by two crustal plates which have collided|
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -1114,6 +1134,16 @@
 	- Cannes Film Festival 坎城影展
 	- dailies 母片 == the raw unedited footage shot during the making of a motion picture
 	- Cirque du Soleil 太陽劇團
+	- chord /kɔːd/ 
+		> 和弦/和音 |A group of (typically three or more) notes sounded together, as a basis of harmony.| the triumphal opening chords
+		> 奏和音 |Play, sing, or arrange notes in chords.| his chording makes an exhilarating accompaniment to the melody
+		> 弦 |A straight line joining the ends of an arc.|
+		> |Each of the two principal members of a truss.| a stabilizer chord
+		> 髓 |cord| the spinal chord
+		> 絃 |A string on a harp or other instrument.|
+	- musicality
+		> 音樂天份/音感 |Musical talent or sensitivity.| her beautiful, rich tone and innate musicality
+		> 悅耳 |The quality of having a pleasant sound; melodiousness.| the natural musicality of the language
 
 [Clothing/Fashion]
 	- attire (n/v)衣著/打扮
@@ -1225,6 +1255,13 @@
 	- vanity case 化妝包 == a small case fitted with a mirror and compartments for make-up.
 	- wig 假髮 == A covering for the head made of real or artificial hair, typically worn by judges and barristers in law courts or by people trying to conceal their baldness.
 	- overcoat 大衣/長大衣
+	+ cosmetic /kɒzˈmɛtɪk/ 
+		> 整容的 |Relating to treatment intended to restore or improve a perso`s appearance.| cosmetic surgery
+		> 化妝用的 |Serving to improve the appearance of the body, especially the face.| cosmetic creams
+		> 裝飾性的/表面的 |Affecting only the appearance of something rather than its substance.| the reform package was merely a cosmetic exercise
+		> 化妝品 |A preparation applied to the body, especially the face, to improve its appearance.| the range covers everything from the latest cosmetics to skin and hair care
+	- fake nail 假指甲
+	- eyelash extension 接睫毛
  
 [Art]
 	- the Mona Lisa
@@ -1481,6 +1518,11 @@
 		> 愚弄 |A trick played on someone as a joke.| word got out that the whole thing had been a spoof
 		> 欺騙/戲弄 |Hoax or trick (someone)| they proceeded to spoof Western intelligence with false information
 		> 干擾(訊號) |Interfere with (radio or radar signals) so as to make them useless.| that meant that the Americans might not be able to jam or spoof his systems
+	- clockwork
+		> 發條裝置 |A mechanism with a spring and toothed gearwheels, used to drive a mechanical clock, toy, or other device.| quartz watches are more accurate than those driven by clockwork
+		> 發條啟動的 |Driven by clockwork.| a clockwork motor
+		> 規律的 |Very smooth and regular.| the clockwork precision of the galaxy
+		> 可預測的 |Repetitive and predictable.| it was a clockwork existence for the children
 
 
 [Sea]
@@ -1585,9 +1627,9 @@
 	- coalition 結盟 == A temporary alliance for combined action, especially of political parties forming a government.
 	- bloc 政治聯盟/經濟聯盟 == A group of countries or political parties with common interests who have formed an alliance.
 	- communist (adj)共產主義的 (n)共產主義支持者
+	- alt-right == alternative right 另類右派，是美國右派政治思想中反對主流保守主義的一個派別。這一派別總體上並無正式確定的政治理念，但其擁護者多支持2016年大選中的共和黨候選人唐納·川普
 	- courtier 朝臣/弄臣 == A person who attends a royal court as a companion or adviser to the king or queen.
 	- spoils system 獵官制，又稱分贓制度，是以政治背景進行公職任命。因選舉而政權政黨輪替之際，不分中央、地方的公務員悉數變更為新政權政黨的人物。也稱作獵官主義、黨人任用制。
-	- treason (n)叛國罪, 背叛/不忠 --> treasonable (adj)背叛的/叛國的
 	- Orders in Council 樞密令，英國君主會在樞密院的建議下發出，以發揮其行政權力。樞密令一般由政府，而非君主所撰寫，它的作用主要是制定簡單的政府規例和作政府任命。此外。樞密令也會向王家屬地立法機關通過的法律給予御准
 	- sovereign /ˈsɒvrɪn/
 		> 君主 |A supreme ruler, especially a monarch.| the Emperor became the first Japanese sovereign to visit Britain
@@ -1624,7 +1666,6 @@
 		> 簡陋的小屋 |A small, simple, single-storey house or shelter.|
 		> 使住在小屋中 |Provide with huts.| it will be advisable to hut the troops, for their protection during the cold season
 	- detergent 洗潔劑
-	- utensil == A tool, container, or other article, especially for household use.
 	- spinster 老處女 == An unmarried woman, typically an older woman beyond the usual age for marriage.
 	- cat lady == A old woman who usually lives secluded from society with her hundreds of cats. 
 	- newlywed 新婚夫婦 == A recently married person.
@@ -1664,6 +1705,7 @@
 		> 地板 |A long plank making up part of a wooden floor in a building.|
 		> 汽車駕駛室的車底板 |The floor of a motor vehicle.| the keys had fallen on the floorboard of her car
 	- thermostat 恆溫器
+	- utensil /juːˈtɛnsəl/ 用具 == A tool, container, or other article, especially for household use.
 
 [Structure]
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
@@ -1775,6 +1817,19 @@
 	- handrail /ˈhandreɪl/ 扶手/欄杆 == A rail fixed to posts or a wall for people to hold on to for support.
 	- washbasin /ˈwɒʃbeɪs(ə)n/ 洗臉盆/洗手盆
 	* skylight 天窗 == A window set in a roof or ceiling at the same angle.
+	- plywood /ˈplʌɪwʊd/ 夾板/膠合板
+	- laminate /ˈlamɪneɪt/ 
+		> 給…覆蓋保護膜 |Overlay (a flat surface) with a layer of plastic or some other protective material.| the book had a shiny laminated cover
+		> 把..層層接合 |Manufacture (something) by bonding layers of material together.| windows fitted with laminated glass
+		> 把……分成薄片 |Split into layers or leaves.| the laminated sediments of the eastern Pacific
+		> 把……製成薄板 |Beat or roll (metal) into thin plates.|
+		> |Prepare (pastry) using a method of repeatedly folding layers of butter between thin layers of dough and rolling it out.| he set to laminating dough for croissants
+		> 層壓材料 |A laminated structure or material.| the blade is suitable for cutting plastics or laminates
+		> |A small badge made of laminated plastic bearing the wearer`s name.| my face and laminate were checked by the security man
+		> 薄板的/薄層的 |In the form of a lamina or laminae.|
+	- joinery /ˈdʒɔɪnəri/ 
+		> 木工製品 |The wooden components of a building, such as stairs, doors, and door and window frames, viewed collectively.| the timber is in demand for furniture and interior joinery
+		> 細木工業 |The activity or skill of a joiner.| he quickly mastered the techniques of joinery
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的

@@ -1130,8 +1130,7 @@
 		* disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
 	
 	chival, cheval, caval 馬 = horse
-		++ /ˌkavəˈlɪə/ cavalier (n)騎士 = knight = horseman (adj)不假思索的 = offhand, 傲慢的 = haughty
-		- cavalry (n)騎兵, 裝甲部隊
+		++ /ˌkavəˈlɪə/ cavalier (n)護花使者, 保王黨支持者, 查理斯王騎士犬 = Cavalier King Charles (adj)漫不經心的 = offhand
 		- /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
 		+ /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
 	
@@ -1559,6 +1558,7 @@
 		+ dichotomy
 		+ dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
 		- dual (adj)雙重的 <|> duel <|> duet
+		- duality (n)雙重性, 二象性, 對比性/二元論
 		- duel (n)決鬥
 		- duet (n)二重唱/二重奏
 		+ duplicity <|> duplicate
@@ -1701,7 +1701,7 @@
 		- educate (v)教育/培養
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
-		- induce (v)誘使/勸說 = suborn, 導致/引起 = originate, 引產/催生
+		*  /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
@@ -1743,6 +1743,7 @@
 		- dent (n)凹陷/凹痕 (v)弄凹, 打擊/損傷(自信)
 		- denture (n)假牙 = artificial teeth
 		- dentist (n)牙醫
+		- /ˈdɛntɪstri/ dentistry (n)牙醫學
 		- dentate (adj)有齒的, 齒狀的
 		- indent (v)切割成鋸齒狀, 縮排, 用契約約束 --> indenture (n)契約/合約 = contract = agreement
 
@@ -2272,6 +2273,7 @@
 		+ defend (v)保衛/保護, 維護 = uphold
 		+ defense, defence (n)防禦/保衛, 辯護/辯護方
 		- offend (v)冒犯/觸怒/犯錯, 使不舒服, 犯罪/犯法
+		- offender (n)違法者, 有問題的人或物
 		- offensive (adj)冒犯的/無禮的, 令人不快的 = disgusting = repulsive, 進攻的 (n)進攻/攻勢
 		- offense, offence (n)違法行為, 冒犯, 攻擊/進攻方
 		- fence, fense (n)籬笆
@@ -2433,7 +2435,7 @@
 		- flex (v)活動(手腳), 繃緊(肌肉) (n)彎曲, 電源線
 		++ flexible (adj)有適應能力的 = adaptable, 易彎曲的 = limber, 柔軟的 = pliable
 		** inflexible (adj)不易彎曲的/堅固的 = rigid, 不願改變的/不妥協的 = immovable = intransigent = pertainacious = hidebound = implacable = unyielding, 不許改變的 = unalterable = rigid
-		- inflect (v)彎曲/使曲折, 使變音/使變調
+		- inflect (v)屈折變化, 使變音/使變調, 影響, 彎曲
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
 
 	foli 樹葉/紙 = leaf, sheet
@@ -2677,7 +2679,9 @@
 		- horizon (n)地平線
 
 	here, her, hes 黏住 = stick, cling
-		- adhere (v)黏附 = attach, 堅持 --> adherent (n)擁護者/信徒 = devotee = disciple --> adhesive (adj)黏性的 = viscous = viscid (n)黏著劑,膠帶
+		- adhere (v)黏附 = attach, 堅持
+		- adherent (n)擁護者/信徒 = devotee = disciple
+		- /ədˈhiːsɪv/ adhesive (adj)黏性的 = viscous = viscid (n)黏著劑
 		- coherent (adj)有條理的/連貫的, 形成一體的
 		+ cohesion (n)內聚力/凝聚力/團結 --> cohesive (adj)有凝聚力的/團結的
 
@@ -3366,7 +3370,7 @@
 		- leverage (n)槓桿力, 槓桿作用, 力量/影響力, 負債經營 (v)負債經營, 使用..達到最大功效
 		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 		+ relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
-		+ relevance (n)關聯/相關, 適宜
+		+ relevance, relevancy (n)關聯/相關
 		** /rɪˈliːv/ relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
 		** /rɪˈliːf/ relief (n)寬心/慰藉, 救濟/補助, 救濟品/救濟金, 替換/接替, 浮雕, 顯眼
 		- relieved (adj)寬慰的/如釋重負的
@@ -3698,7 +3702,7 @@
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
 		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
 		++ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
-		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)費時費力的/耗費精力的 = taxing
+		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)艱難的 = taxing, 不易滿足的
 		- recommend (v)推薦 = commend, 建議 = suggest = advise
 
 	medi 中間
@@ -4307,6 +4311,7 @@
 		* organism (n)生物/有機體, 社會組織
 		- organic (adj)器官的, 有機的/不施化肥的, 組織的/建制的, 基本的
 		- organize (v)組織/使…有條理, 安排/承擔安排的責任 --> organization (n)社會組織/機構/團體, 組織/條理/系統
+		- reorganize (v)重新組織/改組
 
 	oscill 擺動 = swing
 		+ /ˈɒsɪleɪt/ oscillate (v)擺動, 猶豫/游移不定 = vacillate = dither, 振盪/簡諧運動 --> oscillatory (adj)
@@ -4359,7 +4364,7 @@
 		- predominate (v)佔優勢, 佔主導或支配地位 = dominate --> predominant (adj)主要的/佔優勢的, 佔支配地位的
 		+ preeminent
 		+ preempt
-		- preface (n)序言 = introduction
+		- preface (n)序言 = introductionl, 初步解釋, 序誦/序禱 (v)為……加序言
 		+ prefer --> preference
 		- pregnant (adj)懷孕的 = gravid, 意味深長的 <--> impregnable <-- pre + gna 出生 = born + ant
 		- prehistoric (adj)史前的
@@ -5725,7 +5730,7 @@
 		- instate (v)任命/安置
 		+ institute (v)建立/制定 (n)研究所/學院/協會 --> institution (n)組織/協會, 制度, 代表性人物/習俗, 建立/設立
 		- institutionalized (adj)制度化的/有組織的
-		- instrument (n)儀器/器具, 手段, 樂器 --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
+		- instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
 		- obstacle (n)障礙/干擾
 		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固
 		+ persist (v)堅持/固執, 持續
@@ -5935,7 +5940,7 @@
 	secu 跟隨 = follow, pursue
 		- execute (v)執行/履行, 處死, 製作(藝術品), 扮演
 		- executioner (n)死刑執行者
-		- executive (adj)執行的, 行政上的 (n)執行者, 行政官, 經理/業務主管, 行政部門
+		* executive (adj)執行的, 行政上的, 商業用的 (n)執行者/經理/業務主管, 執行委員會, 行政部門
 		- executor (n)執行者, 遺囑執行人
 		- consecutive (adj)連續不斷的
 		- persecute (v)迫害, 騷擾 = harass = distract = pester
@@ -6192,6 +6197,7 @@
 		- somatoplasm (n)體細胞
 
 	surge, surrect 升起 = rise
+		- /səːdʒ/ surge (n/v)激增, 浪湧 (n)高漲, 增兵, 澎湃 (v)蜂擁而至, 洶湧/澎湃
 		* insurgent (adj)叛亂的 = rebellious (n)叛亂份子 <-- in + surge + ent
 		+ insurrection (n)造反/叛亂 = rebellion = revolt <-- insurgent
 		+ resurge (v)復活/復甦 --> resurgence (n)再起/復活/再現 --> resurgent (adj)復活的/復甦的 (n)復活者
@@ -6394,7 +6400,7 @@
 		+ extemporaneous (adj)即席的 = unrehearsed, 隨口而出的
 		- extemporize (v)即席演說 = improvise = vamp
 		- temporal (adj)時間的, 太陽穴的/顳的, 世間的/世俗的 = mundane = worldly = early = secular
-		- temporary (adj)臨時的/暫時的 = casual
+		- temporary (adj)臨時的/暫時的 = casual (n)臨時工
 		- temporize (v)拖延, 見風轉舵
 
 	tomy 切 = cut
@@ -6443,6 +6449,7 @@
 		* intact (adj)完整無缺的/原封不動的 = pristine
 		+ tact (n)機智/圓滑/得體
 		- tactile (adj)觸覺的, 富有質感的
+		- /ˈtaktʃʊəl/ tactual (adj)觸覺的 = tactile, 能觸知的/有形的, 以觸覺為設計的
 		+ tangent (n)正切/切線 (adj)切線的, 離題的 --> /tanˈdʒɛnʃ(ə)l/ tangential (adj)切線的, 離題的 = divergent = digressive = peripheral = irrelevant
 		++ tangible (adj)可觸知的/有形的 = palpable = touchable, 真實存在的 = real = actual, 明確的 = definite
 
@@ -6604,7 +6611,7 @@
 		- unassuming (adj)謙虛的/不出風頭的
 		- unbecoming (adj)不合身的, 不得體的 = improper
 		- unbend (v)弄直, 放鬆
-		+ uncanny (adj)怪異的/可怕的 = strange, 神奇的/不可思議的 = myterious
+		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
 		- uncommitted (adj)不受約束的/不承擔責任的
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
 		* unconcerned (adj)不擔心的/漠不關心的/無興趣的 = blase
@@ -6864,7 +6871,7 @@
 		+ revolution (n)革命, 變革 --> revolutionary (adj)大變革的, 革命的, 獨立戰爭的 (n)革命者
 		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive = lurid
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
-		+ versatile (adj)多才多藝的, 多用途的
+		+ /ˈvəːsətʌɪl/ versatile (adj)多功能的/多方面適用的
 		* verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 
 		- vertebra (n)脊椎骨
 		* vertebrate (adj)有脊椎的 (n)脊椎動物
@@ -7055,7 +7062,7 @@
 		+ convey (v)運送/運輸/傳遞 = transport = bear = consign = transmit, 表達/傳達 = express = communicate = impart
 		- convoy (v)護衛/護送 (n)艦隊/車隊
 		- envoy (n)使者/使節/代表 = legate
-		- voyage (n)航海/航行/旅行 = odyssey (v)旅行
+		- voyage (n)航海/航空 = odyssey (v)航行
 		+ deviate (v)偏離/背離 = depart = diverge = digress --> deviant (adj)越軌的/異常的 = aberrant --> deviation (n)越軌, 背離
 		* devious (adj)迂迴的/間接的 = indriect = roundabout = circuitous = tortuous = sinuous, 精心設計的/會算計的
 		+ obvious (adj)明顯的/顯著的 = evident = patent = palpable <|> oblivious

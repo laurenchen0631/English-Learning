@@ -98,11 +98,12 @@
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
 	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
-	- polymer 聚合物
+	* polymer 聚合物
 	- vinyl 乙烯基
 	- asbestos 石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
 	- alkaloid 生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
 	- protein 蛋白質
+	- formaldehyde /fɔːˈmaldɪhʌɪd/ 甲醛
 	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
 	- oxidize /ˈɒksɪdʌɪz/ 氧化 == Combine chemically with oxygen.
 	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
@@ -165,7 +166,7 @@
 		> 世間的/世俗的 |Relating to worldly as opposed to spiritual affairs; secular.| the Church did not imitate the secular rulers who thought only of temporal gain
 		> 時間的 |Relating to time.| the spatial and temporal dimensions of human interference in complex ecosystems
 		> 太陽穴的/顳的 |Of or situated in the temples of the head.| arterial biopsy usually confirms the diagnosis of temporal arteritis
-	
+	- quantum decoherence 量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的

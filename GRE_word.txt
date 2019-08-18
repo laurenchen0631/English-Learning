@@ -1729,7 +1729,7 @@
     + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = conscientious = thorough, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
     + merge (v)使合併 = combine = coalesce = unite = consolidate = amalgamate
     ++ /ˈmɛrɪt/ merit (v)值得 = deserve (n)長處/價值 = excellence = worth, 法律依據, 應得/報應 = desert --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
-    ++ mesmerize (v)迷住/使入迷 = fascinate = spellbind = hypnotize = beguile, 對……施催眠術 = hypnotize
+    ++ mesmerize (v)迷住/使入迷 = fascinate = spellbind = hypnotize = beguile, 對……施催眠術 = hypnotize --> mesmerizing (adj)吸引人的/迷人的
     + /ˈmiːtɪə/ meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral --> meteoroid (n)隕石
     + meteorological (adj)氣象的/氣象學的 <-- meteoro + logy + ical
     + method (n)條理/秩序 = order = system, 方法/辦法 = mode = manner = procedure --> methodical (adj)細心的 = painstaking = deliberate = measured, 有條理的/秩序井然的 = systematic = orderly
@@ -1975,7 +1975,7 @@
 [O]
     ++ /əˈbliːk/ oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive = backhanded
     ++ /əˈblɪvɪən/ oblivion (n)遺忘/無人知曉, 失去感覺, 滅絕 = annihilation = extinction --> oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware <|> obvious
-    +++ obscure (adj)費解的/晦澀的 = ambiguous = elliptical = vague = opaque = subtle, 黑暗的 = gloomy = murky = stygian, 不醒目的 = inconspicuous = unnoticeable, 隱匿的/偏僻的 = remote = retired, 無名的/默默無聞的 (v)遮掩/掩蓋 = conceal, 使難理解
+    +++ obscure (adj)模糊的/不確定的 = uncertain, 無名的/無足輕重的, 含糊不清的/晦澀的  = ambiguous = elliptical = vague = opaque = subtle, 模糊的/難以言喻的 = vague, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
     + obscurity (n)暗淡/朦朧, 晦澀/難解, 隱匿
     + odyssey (n)長途的冒險旅行 = voyage
     + offset (v)補償/抵消 = compensate = recompense = counterbalance = indemnify = redeem
@@ -3271,7 +3271,7 @@
     *** /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
-    * vigil (n)守夜/警戒 --> vigilant (adj)機警的/警惕的
+    * vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
     * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
     * vomit (v)嘔吐 = disgorge = heave
