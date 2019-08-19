@@ -1422,7 +1422,7 @@
 			+ deviate --> deviant --> deviation
 
 		4. 反 = reversal
-			+ disaffected (adj)不滿的 = dissatisfied
+			+ disaffected (adj)不滿的 = dissatisfied = discontented
 			+ debunk (v)揭穿 = expose <-- de + bunk 不合理/謊言 = humbug, nonsense
 			- debut (n)初次登台 <-- de + but 終點 = goal
 			- decompose
@@ -2017,6 +2017,7 @@
 	edi, ed
 		1. 寺廟 
 			+ edify (v)啟迪/教化 = instruct = benefit = uplift --> edification (n)啟迪/教化
+			+ edifying (adj)起教化作用的
 			- edifice (n)宏偉建築
 
 		2. 吃 = eat
@@ -4319,7 +4320,7 @@
 		- oscilloscope (n)示波器
 
 	ostrac, ostra 貝殼 = shell, oyster
-		- /ˈɒstrəsʌɪz/ ostracize (v)放逐/排除, 按貝殼流放法放逐 <-- [希]貝殼放逐法
+		+ /ˈɒstrəsʌɪz/ ostracize (v)放逐/排除, 按貝殼流放法放逐 <-- [希]貝殼放逐法
 		- ostracism (n)放逐, 貝殼流放法
 		- ostracean (n)雙殼類生物 (adj)雙殼類的
 		- ostrakon, ostracon (n)陶片
@@ -4597,7 +4598,7 @@
 		+ pensive (adj)沉思的/憂戚的 = wistful
 		- perpendicular (adj)垂直的 = vertical (n)垂直線, 垂直的位置
 		+ propensity (n)傾向/習性 = inclination = tendency = proclivity
-		- recompense (n/v)報答/彌補/補償 = compensate = make amends = reparation = wage
+		- recompense (n/v)報答/彌補/補償 = compensate = make amends = reparation = wage = requite
 		- suspend (v)暫時取消/擱置, 使停職, 推遲 = defer = delay, [法]暫緩執行, 懸掛, 懸浮
 		- suspension (n)暫停/中止, 懸吊系統, 懸浮液
 		* suspense (n)懸念/擔心, 懸疑, 暫時停止/中止(權利)
@@ -4662,6 +4663,7 @@
 			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
 			- compass (n)指南針, (能力、活動、興趣等的)界限/範圍/範疇 = scope = range
 			*** compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約= agreement = covenant
+			- encompass
 			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)衝擊, 擠壓, [on]影響 = influence = alter
 
 		2. 感情 = suffer, undergo == pathy 
@@ -4809,7 +4811,7 @@
 		+ plethora (n)過量/過多 = excess = superfluity = overabundance
 		- replenish (v)補充/再裝滿
 		+ /rɪˈpliːt/ replete (adj)充滿的/裝滿的, 吃飽喝足的 <|> deplete --> repletion (n)
-		+ supplement (v)增補/補充 (n)補充物, 營養補給品, 增刊/副刊, 額外收入, 額外收費 <|> supple
+		+ /ˈsʌplɪm(ə)nt/ supplement (v)增補/補充 (n)補充物, 營養補給品, 增刊/副刊, 額外收入, 額外收費 <|> supple
 
 	pos, pose, post, pon, pound, postul 放 = place, put
 		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
@@ -4826,7 +4828,7 @@
 		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
 		* disposable (adj)一次性的/用完即丟的, 可以捨棄的, 可自由使用的 (n)一次性用品
 		* predispose (v)使有傾向 = dispose = incline --> predisposition (n)傾向
-		+ expose (v)使接觸到, 揭發 --> exposure (n)暴露/顯露, 曝光
+		+ expose (v)使接觸到, 揭發 = debunk --> exposure (n)暴露/顯露, 曝光
 		+ exposition (n)闡述/說明, 展覽會/博覽會 = exhibition --> expository (adj)說明的 = explanatory
 		+ expound (v)詳細述說/闡述 = expatiate
 		++ /ɪkˈspəʊnənt/ exponent (n)倡導者/支持者, 指數 --> exponentially (adv)指數地
@@ -4838,6 +4840,7 @@
 		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
 		+ opponent (n)敵手/對手, 反對者
 		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
+		- opposite (adj)相反的/對立的 = contrary, 對面的/相對的 (n)相反的人或物 (adv)在對面 (prep)在…對面
 		+++ pose (v)提出, 引起/造成, 擺姿勢, 造作/裝腔作勢, [as]假裝
 		+ /pəʊˈzəː/ poseur (n)裝模作樣的人
 		+ posit (v)斷定/假定 = put forward = postulate = presume = suggest = predicate, [on]基於 = base = predicate, 安置 = place
@@ -4897,6 +4900,7 @@
 
 	prob, prove, proof 證實
 		* approve (v)贊成/同意 = advocate = endorse, 相信 = believe
+		* approval (n)批准/認可, 相信/信任
 		+ approbation (n)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
 		+ disprove (v)證明為假/駁倒 = belie = discredit = negative --> disproof (n)反證, 證明為假
 		++ reprobate (adj)邪惡的/無賴的/不講道德的 = shameless = unprincipled (n)無賴/惡棍
@@ -4944,7 +4948,7 @@
 		- pediatric (adj)小兒科的 --> pediatrics (n)小兒科 <-- ped + iatric 治療 = heal + s
 
 	phem 說 = speech, speaking
-		- blasphemy (n)褻瀆/瀆神 = desecration = irreverence <-- blas 傷害 = harm + phemy
+		- /ˈblasfəmi/ blasphemy (n)褻瀆/瀆神 = desecration = irreverence <-- blas 傷害 = harm + phemy
 		+ euphemism
 
 	phen, phan, pha 出現 = appear == appar
@@ -4967,7 +4971,7 @@
 
 	phony, phone 聲音 = sound
 		+ cacophony --> cacaphonous
-		+ euphony (n)悅耳 --> euphonious (adj)悅耳的  = melodious = liquid
+		+ euphony (n)悅耳 --> euphonious (adj)悅耳的 = melodious = liquid
 		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
 		- phonetic (adj)語音的, 語音學的, 音形一致的
 		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
@@ -5006,7 +5010,7 @@
 		+ explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 赤裸裸的/露骨的 <-- explicate
 		* explicable (adj)可解釋的/可理解的 <--> mysterious = obscure
 		++ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
-		+ implicit (adj)暗示的 = implied, 內含的/固有的, 無疑問的/絕對的 = unreserved = absolute
+		++ implicit (adj)暗示的 = implied, 內含的/固有的, 無疑問的/絕對的 = unreserved = absolute
 		+ inexplicable
 		- multiplex (adj)許多的/多樣的, 多路通訊的, 多廳的 (n/v)多路傳輸 (n)多廳電影院 --> multiplicity (n)多樣性
 		+ perplex (v)使困惑 = confound = baffle = puzzle = confuse, 使複雜化 = Complicate --> perplexity (n)困惑/茫然
@@ -5015,8 +5019,8 @@
 		- plight (n)困境/苦境 (v)[be plighted to]訂婚
 		+ replicate (n)複製 = reproduce, 重複試驗 (adj)複製的, 重複試驗的 (n)複製品 = replica = duplicate, 重複試驗
 		- replica (n)複製品 = replicate = duplicate
-		+ /ˈsʌp(ə)l/ supple (adj)易彎曲的/柔軟的 = pliant = flexible = limber = lithe, 靈活的/適應能力強的 (v)使柔軟 <-- supplicate
-		+ supplicate (v)懇求/請求 --> suppliant, supplicant (adj)懇求的/哀求的 = beseeching (n)懇求者
+		+ /ˈsʌp(ə)l/ supple (adj)易彎曲的/柔軟的 = pliant = flexible = limber = lithe, 靈活的/適應能力強的 (v)使柔軟 <|> supplement <-- supplicate
+		+ supplicate (v)懇求/請求 --> suppliant, supplicant (adj)懇求的/哀求的 = beseeching (n)懇求者 
 
 	pluto 財富 = wealth
 		+ /pluːˈtɒkrəsi/ plutocracy (n)財閥統治, 富豪
@@ -5042,7 +5046,7 @@
 		+ impress (v)使欽佩, 壓印, [on]使銘記 (n)壓印, 印記, 特質 = characteristic --> impression (n)想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
 		- impressionable (adj)易受影響的
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
-		+ press (v)按/壓/擠, [敵人]猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
+		++ press (v)按/壓/擠, [敵人]猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
 		+ pressing (adj)緊迫的/迫切的, 懇切的/再三要求的 (n)壓/按, 沖壓件/模壓製品, 同次模壓製品
 		+ repress (adj)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 --> repressive (adj)壓迫性的/專制的, 壓抑的
 		+ suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue --> suppression (n)鎮壓/抑制/壓抑
@@ -5077,7 +5081,7 @@
 	plore 喊/哀嚎 = wail
 		*** deplore (v)譴責/強烈反對 = condemn
 		- deplorable (adj)應受譴責的/極其惡劣的 = egregious = atrocious, 糟透的
-		- implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge
+		- implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge = supplicate
 
 	pute 思考 = reckon, consider, think
 		+++ dispute (n)爭執/糾紛 (v)爭論 = argue = wrangle = quarrel, 質疑 = question = impugn, 競爭 = compete = strive 
@@ -5155,34 +5159,34 @@
 		+ quantifiable (adj)可量化的
 
 	quiesce, quiet, qui 安靜
-		+ acquiesce (v)默認/默許 = condone
-		+ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
-		- quietude (n)寧靜/安靜 = clam
-		+ disquiet (v)焦慮/擔心/不安
-		- quietus (n)債務等解除/清償, 最後一擊
+		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
+		+ /kwɪˈɛsənt/ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
+		- quietude (n)寧靜/寂靜 = clam
+		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 (n)不安/憂慮
+		- quietus (n)生命的終止/死
 
 	quit 釋放/放棄 = release, discharge
-		- acquit (v)宣判...無罪 = absolve, 表現, 脫卸責任, 還清(債務) --> acquittal (n)宣判無罪
-		- requite (v)回報/報復
+		- /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 --> acquittal (n)宣判無罪
+		- requite (v)報答/回報 = recompense, 回應(情感) = respond to 
 
 	quir, quer, quisit 尋找/取得 = search, obtain == petr
-		- acquire (v)獲得 --> acquired (adj)後天習得的
-		- acquisitive (adj)渴望得到的/貪婪的 = greedy = rapacious = covetous, 收購的(公司)
-		- conquer (v)以武力征服 --> conquest (n)征服 = triumph, 戰利品
-		* exquisite (adj)精緻的, 強烈的, 敏銳的 (n)愛時髦的人
-		- enquire == inquire
-		* inquire (v)詢問/打聽 --> inquiry (n)打聽/質詢, 調查, 疑問/問題
+		- acquire (v)買得/獲得 = buy = obtain, 學到/養成 = learn = develop --> acquired (adj)後天習得的
+		- /əˈkwɪzɪtɪv/ acquisitive (adj)渴望得到的/貪婪的 = greedy = rapacious = covetous, 收購的(公司)
+		- conquer (v)以武力征服 = overcome, 克服(問題或弱點), 成功登上(山) 
+		- conquest (n)征服 = subjugation, 征服地, 克服, 成功登上
+		* /ˈɛkskwɪzɪt/ exquisite (adj)精緻的, 劇烈的/強烈的, 敏銳的 = sensitive = discriminating (n)服飾過於講究的男子 = dandy
+		* inquire (v)詢問/打聽, [into]調查 = investigate --> inquiry (n)打聽/質詢, 調
 		+ inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
-		- inquisition (n)調查, 審訊
+		- inquisition (n)審訊/盤問, 宗教裁判
 		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇
-		- prerequisite (n)先決條件
+		- /priːˈrɛkwɪzɪt/ prerequisite (n)必要條件 (adj)必備的/事先需要的/必修的
 		- request (n/v)要求/請求
-		+ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物
+		+ /ˈrɛkwɪzɪt/ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物 
 
 	queath, quest 説 = say == dic == fable == log == ore
-		+ bequeath (v)遺贈, 傳下/留下 --> bequest (n)遺產
-		+ inquest (v)審訊/審理, 驗屍
-		- quest (v)搜尋/探求 (n)探求 = investigation = pursuit
+		+ /bɪˈkwiːð/ bequeath (v)遺贈, 傳下/留下 --> bequest (n)遺產 = legacy, 傳下/留下
+		+ inquest (n)審訊/審理, 私下調查 <-- inquire
+		- quest (v)搜尋/探求 = search for = seek out (n)尋找/探索 = pursuit
 
 [R]
 	re, r, red
@@ -5468,7 +5472,7 @@
 		- rupture (n/v)破裂/使破裂, 有疝氣, 使不和 (n)疝氣, 不和
 
 	rate 責罵 = chide, scold
-		^ berate (v)嚴責/訓斥 = criticize
+		* berate (v)嚴責/訓斥 = criticize = vituperate
 
 	rept 爬行 = snatch, creep
 		- reptile (n)爬蟲類 --> reptilian (adj)爬蟲類的, 卑下的
@@ -6319,7 +6323,7 @@
 			- subtract (v)減去/減掉
 			- tend (v)趨向, 傾向/易於, 朝向, 照料, 管理
 			* tendency (n)傾向 = bent = inclination, 趨勢 = trend
-			+ tendentious (adj)有偏見的 = biased <-- tendency
+			+ /tɛnˈdɛnʃəs/ tendentious (adj)有偏見的 = biased <-- tendency
 			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
 			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順
 
@@ -7000,7 +7004,7 @@
 		++ vicious (adj)邪惡的/墮落的 = depraved = profligate = putrid, 應受譴責的 = reprehensible = blameworthy, 惡意的 = spiteful = malicious = malevolent = vindictive = malign = mean = wanton, 殘暴的 = savage = ferocious, 極度不舒服的 = unpleasantly severe
 		+ /ˈvɪʃɪeɪt/ vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
 		- vitiable (adj)能使腐敗的/能使無效的
-		+ vituperate (v)痛斥/辱罵 = revile --> vituperation (n)謾罵/責罵 = invective
+		+ vituperate (v)痛斥/辱罵 = revile = berate --> vituperation (n)謾罵/責罵 = invective
 		+ /vɪˈtjuːp(ə)rətɪv/ vituperative (adj)謾罵的/責罵的 = invective = denunciatory = censoriously abusive
 		
 	vitr 玻璃 = glass
@@ -7042,7 +7046,7 @@
 
 	vol 意志 = will
 		+ benevolent
-		- malevolent (adj)惡意的/惡毒的 = malicious = malignant = vicious = spiteful = wanton
+		+ /məˈlɛvələnt/ malevolent (adj)惡意的/惡毒的 = malicious = malignant = vicious = spiteful = wanton
 		* involuntary (adj)不由自主的/無意的
 		- volition (n)意志/選擇/決定
 		+ voluntary (adj)自願的/無償的, 有意的/故意的, (組織)公益性的

@@ -192,6 +192,7 @@
     + bleak (adj)荒涼的 = barren = desolate = sterile, 陰冷的 = cold = chilly, 慘淡的/無希望的 = depressing = harsh = somber = dismal
     + blemish (v)損害/破壞 = spoil = mar = impair (n)斑點/瑕疵, 缺陷/缺點 = defect = flaw = smirch
     ++ blight (v)使枯萎 = wither = decay = flag = shrivel, 破壞/阻撓 = destory = ruin = spoil = frustrate (n)植物枯萎病, 破壞因素/陰影
+    + blinkered (adj)戴上眼罩的(馬), 目光偏狹的
     ++ blithe (adj)漫不經心的 = carefree = lax = negligent, 快樂的/愉快的 = joyous = merry = jolly = boon
     + bliss (n)極樂/福氣 = ecstasy <-- blithe
     + block (v)阻擋/阻礙/擋住視線 (n)街區/街段, 大廈/大樓, 堵塞物
@@ -2567,6 +2568,7 @@
     + /ˈsɒlɪsɪz(ə)m/ solecism (n)語病/語法錯誤, 失禮 <--> etiquette
     + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的, 昏睡的 = drowsy = sleepy, 單調的 = monotonous (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
     + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 單獨的/孤立的 = scattered = isolated = singly <-- spore
+    + spurn (v)輕蔑地拒絕/唾棄 = scorn
     +++ sordid (adj)可鄙的/可恥的 = vile = contemptible = filthy = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
     ++ squalid (adj)骯髒的 = sordid = filthy, 可鄙的/可恥的 = sordid <-- squal 髒 = dirty + or
     + squalor (n)極其骯髒/邋遢
@@ -3001,7 +3003,6 @@
     ^ superior (adj)較高的
     ^ surge (n/v)遽增/急遽上升, 湧現
     ^ svelte (adj)苗條的
-    ^ spurn (v)輕蔑地拒絕/唾棄 = scorn, 輕視 = contempt = despise, 踩踏 = trample
 
 [T]
     + /ˈtalɪzmən/ talisman (n)避邪物/護身符/法寶
