@@ -504,7 +504,7 @@
 
 	bell, bel 戰爭/戰鬥 = war
 		- antebellum (adj)戰前的/美國內戰之前的
-		- bellicose (adj)好鬥的/好戰的 = combative
+		+ bellicose (adj)好鬥的/好戰的 = combative = warlike
 		+ belligerent (adj)交戰的, 好鬥的/敵對的 = truculent = bellicose = quarrelsome = aggressively hostile --> belligerence (n)交戰, 好戰性/鬥爭性
 		- rebel (v)反叛/反抗 (n)造反者/反抗者
 		- /rɪˈbɛljən/ rebellion (n)造反/叛亂/反抗 = insurrection --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
@@ -1600,7 +1600,7 @@
 
 	deci 十分之一 = tenth
 		* decibel (n)分貝 <-- deci + bel 貝(音量單位)
-		+ decimate (v)毀滅/大幅削減
+		+ decimate (v)毀滅/大幅削減 --> decimation (n)大屠殺, 大幅削弱
 		- decimal (adj)十進位的, 小數的 (n)小數
 
 	dic, dict, dit 說話/命令/要求 = say
@@ -2249,7 +2249,7 @@
 		- fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
 		- infertile (adj)不肥沃的/不毛的, 不育的
 		++ infer (v)推斷/推定 = deduce = deduct = conclude, 猜測 = guess = surmise = sepeculate, 暗示/暗指 = hint = imply = suggest = intimate
-		+ prefer (v)更喜歡/寧願, 提出(控告等) --> preference (n)偏愛/偏袒, 優先
+		++ prefer (v)更喜歡/寧願, 提出(控告等) --> preference (n)偏愛/偏袒, 優先
 		*** refer (v)提交/交付, 論及/談到, 查閱/參考, 不及格
 		- referee (n)裁判員/仲裁者
 		- referral (n)提及, 轉診, 轉診病人 
@@ -3330,7 +3330,7 @@
 		* ludicrous (adj)滑稽的/荒唐可笑的 = absurd = ridiculous
 		+ illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive, illusory (adj)迷惑人的/虛假的 = unreal = delusive = counterfeit
 		- interlude (v)暫時休息/間歇, 插曲 = interval, 中場/中場表演 = intermission
-		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕
+		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕 <|> preclude
 			
 	luc, lucid, lumin 光亮 = light
 		+ lucid (adj)清楚易懂的 = pellucid = comprehensible, 神志清醒的 = intelligible = sane, 明亮的 = bright --> lucidity (n)清晰, 神智清醒 <|> lurid
@@ -4359,14 +4359,14 @@
 		- predestine (v)注定
 		+ predetermine (v)預先確定/預先決定
 		- predicate (n)述語 (v)假設/斷定 = postulate = assert, [on/upon]使基於/使取決於 <-- pre + dica 表示 = indicate + ate
-		+ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
+		+ /prɪˈdɪkəmənt/ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
 		+ predilection 
 		- predisposition 
 		- predominate (v)佔優勢, 佔主導或支配地位 = dominate --> predominant (adj)主要的/佔優勢的, 佔支配地位的
 		+ preeminent
 		+ preempt
 		- preface (n)序言 = introductionl, 初步解釋, 序誦/序禱 (v)為……加序言
-		+ prefer --> preference
+		++ prefer --> preference
 		- pregnant (adj)懷孕的 = gravid, 意味深長的 <--> impregnable <-- pre + gna 出生 = born + ant
 		- prehistoric (adj)史前的
 		- prejudge
@@ -4377,7 +4377,7 @@
 		- /priːˈmarɪtəl/ premarital (adj)婚前的
 		+ premature (adj)過早的, 不成熟的
 		- premeditate --> premeditated
-		+ premise
+		+++ premise
 		+ premonition
 		* preoccupied (adj)全神貫注的/入神的 = engrossed --> preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
@@ -4408,7 +4408,7 @@
 		- previous 
 
 	pro 向前/先前 = forward, forth, before
-		- proactive (adj)主動的/先發制人的
+		- proactive (adj)積極主動的
 		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
 		- /ˈprɒbləm/ problem (n)問題 <-- pro + blem 丟 
 		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點/疑點 <-- problem
@@ -4428,7 +4428,8 @@
 		+ profit --> profitable --> profitability
 		- profiteer (n)奸商/謀取暴利者
 		+ profligate (adj)揮霍的 = extravagant, 放蕩的 = licentious = dissolute (n)放蕩者 <-- pro + flig 攪拌 = beat + ate
-		+ profound (adj)深的/深刻的 = deep, 嚴重的(疾病), 淵博的, 深奧的 --> profundity (n)深淵, 深奧/淵博 <-- pro + found 底 = bottom
+		+ profound (adj)深的/深刻的 = deep, 嚴重的(疾病), 淵博的, 深奧的 <-- pro + found 底 = bottom
+		+ profundity (n)深淵, 深奧/淵博 
 		++ profuse --> profusion
 		- progeny
 		- prognosis
@@ -4625,8 +4626,6 @@
 			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (n)寄生蟲病  <-- para + site 吃 = eat
 			+++ paragon (n)模範/典型 = exemplar
 			+ parody (n)諷刺性模仿詩文, 拙劣的模仿 = travesty (v)滑稽誇張地模仿 <-- par + od(e) + y
-
-		2. 類似 = simlar, resemble
 			- paradox 
 
 		3. 超過 = beyond
@@ -4649,7 +4648,7 @@
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
 
 	path, pathy 感情/痛苦 = feeling, suffering == pass
-		+ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility <|> apathy
+		+ /anˈtɪpəθi/ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility <|> apathy
 		+ /ˈapəθi/ apathy (n)冷漠不關心/無動於衷 = indifference = nonchalance = torpor <--> antipathy
 		+ apathetic (adj)冷淡的/無動於衷的 = casual = indifferent = lethargic = phlegmatic
 		- /ˈpeɪθɒs/ pathos (n)感染力/激起憐憫或同情等的因素
@@ -4659,7 +4658,7 @@
 		++ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的
 	
 	pass, pact, pat
-		1. 通過 = step, pace
+		1. 通過 = step, pace0.
 			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
 			- compass (n)指南針, (能力、活動、興趣等的)界限/範圍/範疇 = scope = range
 			*** compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約= agreement = covenant
@@ -4675,7 +4674,7 @@
 
 	patho, path 病 = disease
 		+ pathology (n)病理學, 病狀, 病變 --> pathologic, pathological (adj)病理學的 = morbid, 病理的/病態的, 無法控制的/強迫性的 = compulsive = obsessive
-		+ pathogen (n)病原體 --> pathogenic (adj)引起疾病的
+		+ pathogen (n)病原體 --> pathogenic (adj)引起疾病的 = peccant
 
 	psycho, psych 心理 
 		- psychology (n)心理學, 心理狀態
@@ -4713,7 +4712,7 @@
 		- impale (v)刺入/刺中
 
 	peal, pel, pell, puls 推 = push, drive
-		++ appeal (n/v)懇求, [to]嘗試說服, 上訴, 吸引 = allure
+		++ appeal (n/v)懇求, [to]嘗試說服, 上訴 = petition, 吸引 = allure
 		+ appellant (n)上訴人
 		+ appellation (n)名稱/稱呼, 命名, 法定產區葡萄酒 = appellation contrôlée
 		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact = oblige, 激起/引發 = incite 
@@ -4836,7 +4835,7 @@
 		*** impose (v)強制實行/強行收取/徵, 利用
 		- imposing (adj)壯觀的/宏偉的 = grand
 		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
-		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預, 行使(否決權)
+		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
 		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
 		+ opponent (n)敵手/對手, 反對者
 		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
@@ -4881,7 +4880,7 @@
 		+ imprecate (v)詛咒 --> imprecation (n)詛咒/咒罵 = curse = damnation = malediction
 
 	prehend, prent, pregn 抓住 = seize, grasp
-		** apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = understand = comprehend = fathom = plumb
+		** apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = appreciate = understand = comprehend = fathom = plumb
 		++ apprehension (n)憂慮/擔心 = trepidation, 逮捕, 領會/理解 --> apprehensive (adj)(對將要做的事情)擔憂的/擔心的 = solicitous
 		- /əˈprɛntɪs/ apprentice (n)學徒 = pupil, 初學者 = beginner (v)雇用..當學徒, 做學徒
 		++ comprehend (v)充分理解/領悟 = fathom = perceive = apprehend = plumb, 包括 = embrace = comprise = include = encompass
@@ -4927,7 +4926,7 @@
 		- /ˈbʌɪpɛd/ biped (n)兩足動物 (adj)兩足的
 		- centipede (n)蜈蚣
 		+ /ˈɛkspɪdʌɪt/ expedite (v)迅速執行 = dispatch, 加快/促進 = hasten = accelerate --> expeditious (adj)迅速的
-		+++ expedient (adj)權宜的/出於便利的 = improvised, 合適的/恰當的 = suitable = appropriate (n)緊急措施/權宜之計 --> expediency (n)方便 = convenience
+		+++ /ɪkˈspiːdɪənt/ expedient (adj)權宜的/出於便利的 = improvised, 合適的/恰當的 = suitable = appropriate (n)緊急措施/權宜之計 --> expediency (n)方便 = convenience
 		- hexapod (n)有六足的節肢動物
 		+ impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter
 		+ impediment (n)妨礙/阻礙物, 語言障礙/說話障礙
@@ -4944,7 +4943,7 @@
 
 	ped, pedo 兒童 = child
 		- /ˈpɛdəɡɒdʒi/ pedagogy (n)教育學 --> pedagogue (n)教師 = teacher
-		+ pedant (n)書呆子/學究 --> pedantic (adj)學究式的/過分注意小細節的 = overscrupulous
+		+ /ˈpɛd(ə)nt/ pedant (n)書呆子/學究 --> pedantic (adj)學究式的/過分注意小細節的 = overscrupulous
 		- pediatric (adj)小兒科的 --> pediatrics (n)小兒科 <-- ped + iatric 治療 = heal + s
 
 	phem 說 = speech, speaking
@@ -5003,7 +5002,7 @@
 		+ compliant (adj)服從的/順從的 = acquiescent = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience, 過度默從
 		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
 		+ compliment (n/v)恭維/讚揚 = praise = congratulate --> complimentary (adj)讚賞的, 贈送的 <|> complement <|> implement
-		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> duplicitous (adj)雙面的/兩面派的, 欺騙的
+		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> /djuːˈplɪsɪtəs/ duplicitous (adj)雙面的/兩面派的, 欺騙的
 		+ duplicate (adj)複製的, 一對的 (n)複製品 (v)複製, 加倍 = double, 多做一次
 		- duplex (adj)雙重的/二倍的 (n)雙層公寓
 		+ explicate (v)詳細解釋/詳細分析 = explain = interpret = clarify = expatiate = expound
@@ -5106,7 +5105,7 @@
 		+ impeccable
 		- peccable (adj)易犯罪的
 		- /ˌpɛkəˈdɪləʊ/ peccadillo (n)輕罪/小過/小瑕疵 = misdemeanor
-		- peccant (adj)致病的/疾病的
+		- peccant (adj)致病的/疾病的 = pathogenic
 
 	pecun 財富 = wealth
 		+ impecunious (adj)貧窮的 = indigent = needy = poor = destitute = penniless = penurious <--> affluent
@@ -5443,7 +5442,7 @@
 		- irradicable (adj)無法根除的
 
 	rog 要求/說 = ask, beg
-		- abrogate (v)廢除/廢止 = abolish
+		+ abrogate (v)廢除/廢止 = abolish = revoke, 逃避(責任)
 		+ arrogate (v)霸佔/僭越/詐稱
 		+ arrogant (adj)傲慢的 = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
 		- interrogate (v)質問 = examine, 獲取資料 --> interrogative (adj)審問的/疑問的
@@ -6909,7 +6908,7 @@
 
 	voc, voic, vok 叫喊/聲音 = call
 		+ avocation (n)副業 <-- vocation
-		+ advocate (v)支持/擁護 (n)支持者 --> advocacy (n)
+		+ advocate (v)支持/擁護 (n)支持者, 辯護者/律師 --> advocacy (n)
 		+ convoke (v)召開(會議) = convene <--> adjourn
 		+ equivocate (v)含糊其詞 --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
 		+ unequivocal
