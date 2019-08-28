@@ -910,6 +910,7 @@
     + flush (n/v)臉紅, 奔流, 沖洗 (adj)富有的
     + /ˈfɔɪb(ə)l/ foible (n)小缺點/小毛病
     + foment (v)煽動 = instigate = foster = incite = arouse = ferment
+    + foolhardy (adj)有勇無謀的 = audacious = reckless
     + /ˈfɒrɪdʒ/ forage (n)(牛馬的)飼料/糧草, 搜索/搜尋 = rummage --> forager (n)為動物尋找飼料的人 <-- fodder
     + ford (n)淺灘/可涉水而過之處 (v)涉水而過
     + formidable (adj)可怕的 = menacing = threatening = surly, 令人生畏的 = intimidating, 強大的/強力的 = forceful = powerful <-- formid 恐懼 = fear + able
@@ -1093,7 +1094,6 @@
     ^ flabbergast (v)使大吃一驚
     ^ flaunt (v)炫耀/誇飾 = boast = brag
     ^ flinty (adj)燧石構成的, 強硬的/堅定不移的 = resolute = adamant
-    ^ foolhardy (adj)有勇無謀的 = audacious = reckless
     ^ freakish (adj)反常的/古怪的 = aberrant = strange - fantastic
     ^ freckle (n)雀斑/小斑點
     ^ fuddle (v)使糊塗 (n)糊塗
@@ -1106,6 +1106,7 @@
     + gall (n)膽汁 = bile, 膽囊, 厚臉皮/厚顏無恥, 怨恨/不滿 = resentment = hatred, 擦傷 (v)激怒, 擦傷 --> gallant (adj)勇敢的, 華麗的, 獻殷勤的
     + /ˈɡalvənʌɪz/ galvanize (v)電鍍, 用電流刺激, 激勵/激起/使振奮 = stimulate
     + /ˈɡamb(ə)l/ gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <|> /ˈɡamb(ə)l/ gamble <-- gamb 腳 = leg + ol
+    + gambit (n)開始/開局, 開局讓棋法
     + /ˈɡɑːnə/ garner (v)收藏/積累 = amass = collect, 取得 = gather = get = acquire = earn <-- garn 顆粒 = grain + er
     + garrulous (adj)[貶]嘮叨的/喋喋不休的/饒舌的 = wordy = loquacious --> garrulity (n)嘮叨/饒舌 <-- garr 講話 = chatter + ulous
     + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = coarse = uncouth = clumsy = awkward = tactless --> gaucherie (n)笨拙
@@ -1337,6 +1338,7 @@
     * hermit (n)隱士/修道者 = recluse <|> hermetic
     ** hide (N)獸皮, 藏身處 (v)隱藏 <|> chide
     * highbrow (n)自詡為學識高的人 <|> middlebrow <|> lowbrow
+    * hiss (v)發出嘶嘶聲, 發出噓聲/表示不同意 (n)噓聲, 嘶嘶聲, 電波干擾
     * /hɪðəˈtuː/ hitherto (adv)到目前為止 = until now
     *** hoax (v)欺騙 = fraud = hoodwink (n)欺騙/騙局 = sham <|> coax
     * hold (n)船的貨艙, 抓/握, 支撐點
@@ -1389,7 +1391,6 @@
     ^ hie (v)疾走, 催促 = hasten
     ^ hike (v)高漲/上升, 健行/徒步旅行 (n)高漲/上升, 徒步旅行
     ^ hinge (n)鉸鏈 = join, 關鍵/樞紐 = pivot
-    ^ hiss (v)發出噓聲, 發出嘶嘶聲 (n)噓聲, 嘶嘶聲
     ^ hive (n)蜂房 = beehive, 忙碌之地
     ^ hoe (n)鋤頭
     ^ hoist (v)吊起/升高 (n)起重機
@@ -1487,7 +1488,7 @@
     + /ˈdʒɛpədi/ jeopardy (n)危險 = peril = danger --> jeopardize (v)危及/危害 = endanger = compromise = imperil = menace
     + jettison (v)(船舶等在遇難時為減輕負載而)投棄 = cast off, 捨棄 = discard (n)投棄的貨物 = jetsam
     ++ /dʒʌɪb/ jibe, gibe (v)使一致/同意 = accord = agree, 嘲弄 = gibe = mock = flout = scoff = taunt = deride = jeer = gird = jest (n)嘲諷話 = gibe
-    + jingo (adj)侵略性沙文主義的 (n)侵略性沙文主義者 <|> lingo --> jingoism (n)侵略沙文主義 = bellicose chauvinism 
+    + jingo (adj)侵略性沙文主義的 (n)侵略性沙文主義者 <|> lingo --> jingoism (n)侵略沙文主義 = bellicose chauvinism  --> jingoist (n)沙文主義者
     ++ /ˈdʒɒki/ jockey (n)騎師 (v)用計謀獲取/耍手段圖謀 = trick = cheat
     + jovial (adj)愉快的
     + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult --> jubilation (n)歡騰/歡慶 = triumph --> jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
@@ -3244,7 +3245,9 @@
     + /ˈvasɪleɪt/ vacillate (v)猶豫/動搖 = dither = falter = waver = scruple, 搖擺/波動 = waver = oscillate = fluctuate = totter = stagger <-- vacill 搖擺 = sway + ate
     + /veɪɡ/ vague (adj)含糊的/不明確的 = ambiguous = equivocal = nebulous, 模糊的 = blurred, 空洞的/茫然的 = vacant
     + vanguard (n)先鋒/前鋒
+    + vanquish (v)徹底擊敗 = conquer = overcome = overpower = quell = repress = subdue
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor
+    +++ /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
     + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible <|> penal --> venality (n)貪贓枉法/腐敗 <-- vend
     + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable <|> venal
@@ -3271,7 +3274,6 @@
     * vagary (n)奇想/異想天開 = caprice = whim <|> vague
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle
     * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
-    *** /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
     * vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的
@@ -3283,7 +3285,6 @@
     ^ valve (n)活門/閥門
     ^ vandal (adj)破壞文物的/野蠻的, 汪達爾人的 --> vandalize (v)肆意破壞 --> vandalism (n)惡意破壞
     ^ vanilla (n)香草/香子蘭 (adj)平凡的/普通的, 香草的
-    ^ vanquish (v)征服
     ^ vantage (n)優勢/有利地位 <-- advantage
     ^ varnish (n)清漆/亮光漆 (v)塗上漆
     ^ vascular (adj)血管的/脈管的 <-- vascul 血管 = vessel + ar
