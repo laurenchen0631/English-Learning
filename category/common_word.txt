@@ -1,6 +1,15 @@
 [A]
-	- account for 佔 == to form the total of something
-		> Students account for the vast majority of our customers.
+	- account for
+		1. 佔(數量或比例) == consist of
+			> Computers account for 5% of the country`s commercial electricity consumptions.
+		2. 解釋 == explain == give the necessary information about
+			> Now, the gene they discovered today doesn`t account for all those cases.
+			> How do you account for the company`s alarmingly high staff turnover?
+				>> turnover 員工更替率
+			> He said only 200 of the trains`s 600 passenger had been accounted for.
+		3. 負有責任 == responsible for something and may be required to explain it
+			> The President and the President alone must account for this government`s reforms.
+				>> ... and ... alone 全權
 	- address
 		> |to mark directions for delivery on| This letter is addressed to my mother.
 		> |to communicate directly| He addresses his thanks to his host
@@ -2544,7 +2553,6 @@
 		> 搬家/遷移 | to leave the place where you are staying and go somewhere else| I`ve lived in this town long enough - it`s time to move on.
 		> 開始新的活動 |to start a new activity| I`d done the same job for years and felt it was time to move on.
 		> 接受現實 |to accept that a situation has changed and be ready to deal with new experiences| Since he and his girlfriend broke up, he`s been finding it difficult to move on.
-
 	+ movement
 		> 移動/活動 |An act of moving.| a slight movement of the body
 		> |An arrival or departure of an aircraft.| the Civil Aviation Authority directed 125,000 aircraft movements in 1991
@@ -2552,8 +2560,6 @@
 		> 發展 |A change or development.| the movement towards greater sexual equality
 		> 運動/活動 |A campaign undertaken by a political, social, or artistic movement.|
 		> |A group of people working together to advance their shared political, social, or artistic ideas.| the labour movement
-	+ moreover 此外 == As a further matter; besides.
-		> moreover, statistics show that competition for places is growing
 	- moral compass 道德羅盤 == a natural feeling that makes people know what is right and wrong and how they should behave
 		> Some people believe that the increase in crime shows that society is losing its moral compass.
 	- morale 士氣/鬥志 == The confidence, enthusiasm, and discipline of a person or group at a particular time.

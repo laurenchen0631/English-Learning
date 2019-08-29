@@ -1,22 +1,48 @@
-## Groundwater
+# Nature
+## Geology
+Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. By far the most abundant type of groundwater is *meteoric* water; this is the groundwater that circulates as part of the water cycle. Ordinary meteoric water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. There it remains, sometimes for long periods, before emerging at the surface again. At first thought it seems **incredible** that there can be enough space in the “solid” ground *underfoot* to hold all this water.
 
-Groundwater is the word used to describe water that saturates the ground, filling all the available spaces. By far the most abundant type of groundwater is meteoric water; this is the groundwater that circulates as part of the water cycle. Ordinary *meteoric* water is water that has soaked into the ground from the surface, from precipitation (rain and snow) and from lakes and streams. There it remains, sometimes for long periods, before emerging at the surface again. At first thought it seems incredible that there can be enough space in the “solid” ground underfoot to hold all this water.
+The necessary space is there, however, in many forms. The commonest spaces are those among the particles—sand grains and tiny pebbles—of loose, *unconsolidated* sand and *gravel*. Beds of this material, **out of sight** beneath the soil, are common. They are found wherever fast rivers carrying loads of coarse sediment once flowed. For example, as the great ice sheets that covered North America during the last ice age steadily melted away, huge volumes of water flowed from them. The water was always *laden* with pebbles, gravel, and sand, known as **glacial outwash**, that was deposited as the flow slowed down.
 
-The necessary space is there, however, in many forms. The commonest spaces are those among the particles—sand grains and tiny pebbles—of loose, unconsolidated sand and gravel. Beds of this material, out of sight beneath the soil, are common. They are found wherever fast rivers carrying loads of coarse sediment once flowed. For example, as the great ice sheets that covered North America during the last ice age steadily melted away, huge volumes of water flowed from them. The water was always laden with pebbles, gravel, and sand, known as glacial outwash, that was deposited as the flow slowed down.
+The same thing happens to this day, though on a smaller scale, wherever a sediment-laden river or stream **emerges from a mountain valley onto relatively flat land**, dropping its load as the current slows: the water usually spreads out fanwise, depositing the sediment in the form of a smooth, fan-shaped slope. Sediments are also dropped where a river slows on entering a lake or the sea, the deposited sediments are on a lake floor or the seafloor at first, but will be located inland at some future date, when the sea level falls or the land rises; such beds are sometimes thousands of meters thick.
 
-The same thing happens to this day, though on a smaller scale, wherever a sediment-laden river or stream emerges from a mountain valley onto relatively flat land, dropping its load as the current slows: the water usually spreads out fanwise, depositing the sediment in the form of a smooth, fan-shaped slope. Sediments are also dropped where a river slows on entering a lake or the sea, the deposited sediments are on a lake floor or the seafloor at first, but will be located inland at some future date, when the sea level falls or the land rises; such beds are sometimes thousands of meters thick.
+In *lowland* country almost any spot on the ground may **overlie** what was once the bed of a river that has since become buried by soil; if they are now below the water’s upper surface (the water table), the gravels and sands of the former riverbed, and its *sandbars*, will be saturated with groundwater.
 
-In lowland country almost any spot on the ground may overlie what was once the bed of a river that has since become buried by soil; if they are now below the water’s upper surface (the water table), the gravels and sands of the former riverbed, and its sandbars, will be saturated with groundwater.
+So much for unconsolidated sediments. **Consolidated** (or cemented) sediments, too, contain millions of minute water-holding pores. This is because the gaps among the original grains are often not totally **plugged with** cementing chemicals; also, parts of the original grains may become dissolved by *percolating* groundwater, either while consolidation is taking place or at any time afterwards. The result is that sandstone, for example, can be as porous as the loose sand from which it was formed.
 
-So much for unconsolidated sediments. Consolidated (or cemented) sediments, too, contain millions of minute water-holding pores. This is because the gaps among the original grains are often not totally plugged with cementing chemicals; also, parts of the original grains may become dissolved by *percolating* groundwater, either while consolidation is taking place or at any time afterwards. The result is that sandstone, for example, can be as porous as the loose sand from which it was formed.
+Thus a proportion of the total volume of any sediment, loose or cemented, consists of empty space. Most *crystalline* rocks are much more solid; a common exception is *basalt*, a form of solidified volcanic lava, which is sometimes full of tiny bubbles that make it very porous.
 
-Thus a proportion of the total volume of any sediment, loose or cemented, consists of empty space. Most crystalline rocks are much more solid; a common exception is *basalt*, a form of solidified volcanic lava, which is sometimes full of tiny bubbles that make it very porous.
-
-The proportion of empty space in a rock is known as its *porosity*. [] But note that porosity is not the same as permeability, which measures the ease with which water can flow through a material; this depends on the sizes of the individual cavities and the crevices linking them.
+The proportion of empty space in a rock is known as its *porosity*. [] But note that porosity is not the same as permeability, which measures the ease with which water can flow through a material; this depends on the sizes of the individual *cavities* and the crevices linking them.
 
 Much of the water in a sample of water-saturated sediment or rock will drain from it if the sample is put in a suitable dry place. But some will remain, clinging to all solid surfaces. [] It is held there by the force of surface tension without which water would drain instantly from any wet surface, leaving it totally dry. [] The total volume of water in the saturated sample must therefore be thought of as consisting of water that can, and water that cannot, drain away. []
 
-The relative amount of these two kinds of water varies greatly from one kind of rock or sediment to another, even though their porosities may be the same. What happens depends on pore size. If the pores are large, the water in them will exist as drops too heavy for surface tension to hold, and it will drain away; but if the pores are small enough, the water in them will exist as thin films, too light to overcome the force of surface tension holding them in place; then the water will be firmly held.
+The relative amount of these two kinds of water varies greatly from one kind of rock or sediment to another, even though their porosities may be the same. What happens depends on pore size. If the pores are large, the water in them will exist as drops too heavy for surface tension to hold, and it will drain away; but if the pores are small enough, the water in them will exist as thin *films*, too light to overcome the force of surface tension holding them in place; then the water will be firmly held.
+
+## Vocab
+- meteoric (adj)流星的, 迅疾的/曇花一現的, 大氣的/氣象的
+- underfoot (adv)在腳下/在地上, 礙手礙腳地
+- unconsolidated (adj)[礦]未固結的
+- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
+- ? Beds of this material, **out of sight** beneath the soil, are common. They are found wherever fast rivers carrying loads of coarse sediment once flowed. 由這些顆粒組成的水床非常普遍，通常位於看不見的土壤下方，在攜帶粗糙沉澱物的湍急的河流曾流過的地方都能找到它們的踪跡
+* laden (adj)滿載的
+- lade -> laden -> laden (v)裝載/裝貨
+- outwash 沖積物 == Material carried away from a glacier by meltwater and deposited beyond the moraine.
+- ? wherever a sediment-laden river or stream **emerges from a mountain valley onto relatively flat land**, dropping its load as the current slows 凡是有携带沙石的河流或者溪流从山谷流至相对平坦的地面时，砂石就随着水流速度的减慢逐渐沉淀
+- lowland (n)低地
+- sandbar 沙洲
+- percolate (v)過濾, 滲出, 濾煮
+- crystalline (adj)結晶的/結晶質的, 透明的/清晰的
+- basalt 玄武岩，一種細粒緻密、外觀呈黑色的火成岩，由基性岩漿噴發凝結而成，主要成分是矽鋁酸鈉或矽鋁酸鈣
+- porosity 孔隙率，表徵材料的孔隙部分的物理量，定義為孔隙的體積與材料總體積的比率
+- ? Of the pores are large, the water in them will exist as drops (which are) *too* heavy for surface tension *to* hold 如果孔隙很大，其中的水会形成水滴，太重足以克服吸引它的表面张力，就会流走
++ film
+	- 薄膜 |A thin flexible strip of plastic or other material coated with light-sensitive emulsion for exposure in a camera, used to produce photographs or motion pictures.| he had already shot a whole roll of film
+	- 薄層材料 |Material in the form of a very thin flexible sheet.| clear plastic film between the layers of glass
+	- 薄層 |A thin layer covering a surface.| she quickly wiped away the light film of sweat
+	- 在…上覆以薄膜 |Become or appear to become covered with a thin layer of something.| his eyes had filmed over
+	- 影片 |A story or event recorded by a camera as a set of moving images and shown in a cinema or on television.| a horror film
+	- 電影 |Cinema considered as an art or industry.| a critical overview of feminist writing on film
+	- 拍攝 |Capture on film as part of a series of moving images; make a film of (a story, event, or book)| she glowered at the television crew who were filming them
 
 ## Questions
 
@@ -102,9 +128,9 @@ The relative amount of these two kinds of water varies greatly from one kind of 
 	1. (O) Sediments that hold water were spread by glaciers and are still spread by rivers and streams.
 	1. (O) Water is stored underground in beds of loose sand and gravel or in cemented sediment.
 	1. (O) The size of a saturated rock’s pores determines how much water it will retain when the rock is put in a dry place.
-	1. Groundwater often remains underground for a long time before it emerges again.
+	1. (?) Groundwater often remains underground for a long time before it emerges again.
 	1. Like sandstone, basalt is a crystalline rock that is very porous.
-	1. Beds of unconsolidated sediments are typically located at inland sites that were once underwater.
+	1. (?) Beds of unconsolidated sediments are typically located at inland sites that were once underwater.
 
 ## Review
 4. 

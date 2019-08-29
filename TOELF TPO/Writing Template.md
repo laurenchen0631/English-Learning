@@ -73,28 +73,47 @@
 		1. Sentence three: A transitional sentence. Try something like “I feel this way for two reasons."
 		1. Sentence four:  A one sentence **summary of your first reason**. Begin this sentence with “first” (you can leave this out if you are low on time).
 		1. Sentence five:  A one sentence **summary of your second reason**. Begin this sentence with “second” (you can leave this out if you are low on time).
-		* Example: There are many great gifts that can be given to a child.  I believe that the best gift to give a child is a pet.  I feel this way for two main reasons, which I will explore in the following essay.  First, a pet can be very educational.  Second, a pet can be a good friend to a young child. 
 	3. Writing a body paragraph
 		1. Each reason gets its own paragraph. Don't combine your reasons into one paragraph.
 		1. Start your first paragraph with a transitional word or phrase like “first,” “to begin with,” and your second paragraph with “second" or "secondly."
-		1. **At the beginning of each body paragraph, clearly state your reason. Don't use a hook**, just get to the point. Next, **state your details one after another, expanding each one to three or four sentences**.  You can expand by including a personal example from your life. Including personal examples from your life in the essay is okay. In fact, I recommend it.
-		1. Try to **use transitional phrases** in between your details (“moreover,” “furthermore,” “also”).
-		* This is your chance to **show off your essay writing ability.**
-		* Examples: 
-
-		To begin with, a pet is a very educational gift.  Having a pet teaches children responsibility.  A pet has to be fed every day and be given a chance to exercise.  The owner of a pet also has to observe the health of their pet and take action if it becomes sick.  Practicing this kind of responsibility will make a child more mature.  Moreover, a pet can help teach a child about the stages of life.  Animals grow much faster than humans and a young child can learn a lot by observing how their pet grows up.  I had a pet gecko as a child and watching it grow from a baby to a full-sized adult taught me a lot and got me very interested in biology and nature.
-
-		Secondly, I feel that a pet makes great friend.   It is good for children to have pets because they are never judgmental.  A child might have a bad day at school or he might get in a fight with his friends, but he will never fight with his pet.  It will love him unconditionally.  Furthermore, pets can prevent children from being lonely.  These days parents are often too busy to spend time with their children.  They often leave their kids home alone.  This might leave some kids feeling lonely, but those with pets will never feel alone.
+		1. **At the beginning of each body paragraph, clearly state your reason. Don't use a hook**, just get to the point. Next, **state your details one after another, expanding each one to three or four sentences**.  You can **expand by including a personal example** from your life. ([1]A Topic Sentence, [2-4]The Explanation, [5]The Transition, [6-]The Personal Example)
 	4. Writing a conclusion
 		1. Sentence one: **re-state your main point** and begin with a phrase like “to sum it up…”
 		1. Sentence two: **restate your two reasons**, beginning with a transitional phrase like “this is because…”
 		1. Sentence three: Once again, **restate your main point but use different words**
-		* Examples: 
+		
+* Examples:
+	1. 
+	There are many great gifts that can be given to a child. I believe that the best gift to give a child is a pet.  I feel this way for two main reasons, which I will explore in the following essay.  First, a pet can be very educational.  Second, a pet can be a good friend to a young child. 
 
-		To sum it up, I feel that a pet is the very best gift to give to a child.  This is because pets are very educational, and they make great friends.  There really is no better gift that a child can receive than a pet.
+	To begin with, a pet is a very educational gift.  Having a pet teaches children responsibility.  A pet has to be fed every day and be given a chance to exercise.  The owner of a pet also has to observe the health of their pet and take action if it becomes sick.  Practicing this kind of responsibility will make a child more mature.  Moreover, a pet can help teach a child about the stages of life.  Animals grow much faster than humans and a young child can learn a lot by observing how their pet grows up.  I had a pet gecko as a child and watching it grow from a baby to a full-sized adult taught me a lot and got me very interested in biology and nature.
+
+	Secondly, I feel that a pet makes great friend.   It is good for children to have pets because they are never judgmental.  A child might have a bad day at school or he might get in a fight with his friends, but he will never fight with his pet.  It will love him unconditionally.  Furthermore, pets can prevent children from being lonely.  These days parents are often too busy to spend time with their children.  They often leave their kids home alone.  This might leave some kids feeling lonely, but those with pets will never feel alone.
+
+	To sum it up, I feel that a pet is the very best gift to give to a child. This is because pets are very educational, and they make great friends. There really is no better gift that a child can receive than a pet.
+
+	2. 
+	There are many different learning styles, and it is important that we look for classes that match our academic preferences. **Personally, I believe that** it is extremely beneficial to take classes which are very interactive. **I feel this way for two reasons, which I will explore in the following essay**.
+
+	**First of all,** classes that include a lot of discussions develop our communication skills. Our long-term success depends on our ability to persuade others to accept our ideas and proposals, so it critically important to seize opportunities to talk to a variety of people. If we do not practice this skill, we will never develop it. **My personal experience is a compelling example of this.** About ten years ago, I enrolled in a history class. At that time I had already taken many classes at university, but I was still very shy around strangers. However, after nine months of participating in debates, discussions and presentations in that class I came out of my shell and became a very confident public speaker. As a result, when I began my career following my graduation I excelled in group work and was seen by my supervisors as a natural leader. For this reason, I was quickly promoted within my company. I have been very successful at my workplace, and I owe it all to that wonderful class.
+
+	**Secondly,** classes that are very interactive help us to form connections with our classmates, and these can lead to future opportunities.  When we regularly converse with our peers, we get to know their personalities. **Consequently**, we can even become very close friends with them. In contrast, when students just sit and passively listen to their professor, they are unlikely to get to know each other. **For instance,** when my brother was in college he took an information technology class that required a lot of group work. He spent two months that semester working on a programming project with two other students and during that time they all became very close. In fact, a year later they felt comfortable enough to actually form a company together. It has been six years since they founded that business and it is still very profitable.
+
+	**In conclusion**, **I am of the opinion that** it is a great idea to take classes where students actually talk to each other and their professor. **This is because** they help us develop valuable skills and abilities, **and** because they help us form important social connections.
 
 
-* 觀點選擇型: …A, B, C, D… Which do you choose?
+* Tips
+	1. Do not use memorized examples. Make sure to use your own words.
+	1. Don’t copy from the question prompt when you write your **hook (楔子)**.
+	1. **Don't waste time stating the opposite** of your thesis.
+	1. *At the body paragraphs, this is your chance to **show off your essay writing ability.** Use a mix of simple and compound sentences. Avoid very short sentences (less than seven words) and very long sentences (more than 60 words)
+	1. Try to **use transitional phrases** in between your details (“moreover,” “furthermore,” “also”). Don’t start sentences with coordinating conjunctions (FANBOYS).
+	1. **Emphasize the example**. It is the easiest part to write, so make it about 60% (or more) of each body paragraph
+	1. Don’t introduce new ideas in the conclusion
+	1. Don’t write “This is because that…”
+	1. Aim for about 380 to 400 words. Write a bit more if need a really high score
+
+* Multiple Choice: …A, B, C, D… Which do you choose?
 	1. 
 	It appears, in so many aspects, very difficult to prefer one to another because all of them have their advantages and disadvantages to the extent that it is hard to distinguish.
 	Yet that does not mean they are of the same to me. To be frank, I would prefer A if personal quality is considered as a criterion to choose things.
@@ -114,61 +133,61 @@
 
 	1. 
 	There are numerous approaches to [solving XXX / impacts on XXX / characteristics of XXX], and I would explore the most conspicuous ones here.
-	[One of the primary method / One of the primary impacts / One of the primary characteristics], to my mind, is that ______.
+	[One of the primary method / One of the primary impacts / One of the primary characteristics], **to my mind**, is that ______.
 	A more subtle point which we must consider is that________.
-	[In addition / Furthermore], ______.
-	[In conclusion / Taking into account of all these methods/effects/aspects], we may reach the conclusion that______.
+	[**In addition / Furthermore**], ______.
+	[In conclusion / **Taking into account of** all these methods/effects/aspects], we may **reach the conclusion** that______.
 
 	2. 
 	Among countless factors which contribute to XXX, three conspicuous aspects are as follows. One of the primary causes is that ______.
 	XXX also results from________. ______is responsible for XXX, as well.
 	To put all into a nutshell, I draw the conclusion that A, B and C are three main contributors to XXX. 
 
-* 支持反對型: Do you agree or disagree with the following statement? AAA.
+* Agree/Disagree: Do you agree or disagree with the following statement? AAA.
 	1. 
-	There is no need for me to put any emphasis on what the advantages of AAA are. ______. Many people believe that_______.
+	**There is no need for me to** put any emphasis on what the advantages of AAA are. ______. Many people believe that_______.
 	However, I disagree with the title statement because I consider_______.
-	On the other hand, one of the notorious disadvantages of AAA is that______. The modern example of this is________. So if this is prevalent, _____. Another factor shows that_______. So, as I see it, _________.
+	**On the other hand**, one of the notorious disadvantages of AAA is that______. The modern example of this is________. **So if this is prevalent**, _____. **Another factor shows that**_______. So, as I see it, _________.
 
 	2. 
 	Before rendering my opinion, I think it is important to take a glance at the arguments on both sides. People who support AAA usually give some, even all of the following reasons.
-	The first is that_______.
+	**The first is that**_______.
 	The second is that______.
 	Third, _______.
-	Generally, people who attack AAA claim that _______. They also often say that there will be problems of ________.
-	As far as I am concerned, I come to the notion that there are three main reasons why I support AAA. Firstly, _______. Secondly, ______. Furthermore, _______. 
+	**Generally**, people who attack AAA **claim that** _______. They also often say that there will be problems of ________.
+	**As far as I am concerned, I come to the notion that** there are three main reasons why I support AAA. Firstly, _______. Secondly, ______. Furthermore, _______. 
 
-* 觀點對比型1: Some people like A; others like B. Which one do you prefer—A or B?
+* Preference 1: Some people like A; others like B. Which one do you prefer—A or B?
 	1. 
 	No doubt, I choose A, because there are too many benefits that outnumber its disadvantages. But B, on the other hand, has advantages no more than its disadvantages.
-	The most important benefit of A is that______.
+	**The most important benefit of A is** that______.
 	To achieve the same effect, B will_______.
 	Another benefit of A, which B almost cannot achieve, is that________.
-	Although B also has its seemingly profound advantages, it can only be achieved conditionally because_______.
+	**Although B also has its seemingly profound advantages**, it can only be achieved conditionally because_______.
 	After understanding the reasoning above, it is quite safe now to say: to choose A is a wise action.
 
 	2. 
-	Some people hold the opinion that A is superior to B in many ways. Others, however, contradict A. Personally, I would prefer______ because I think A has more advantages.
-	There are numerous reasons why______, and I would here explain a few of the most important ones. The main reason is that________. It can be given a concrete example________.
+	Some people hold the opinion that **A is superior to B in many ways**. Others, **however**, **contradict A**. Personally, I would prefer______ because I think A has more advantages.
+	**There are numerous reasons why**______, and I would here explain a few of the most important ones. The main reason is that________. **It can be given a concrete example**________.
 	Another reason why I advocate the attitude of A is that_______. Take the case of a thing that_________.
 	One very strong argument for A is that_______. This demonstrates the undeniable fact that_________.
-	Of course, choosing B also has advantages to some extent, ________.
-	But if all these factors are complicated, the advantages of A carry more weight than those of B. From what has been discussed above, we may finally draw the conclusion that_________.
+	Of course, choosing B also **has advantages to some extent**, ________.
+	But if all these factors are complicated, **the advantages of A carry more weight than those of B**. **From what has been discussed above,** we may finally draw the conclusion that_________.
 
-* 觀點對比型2: Some people believe that A while others consider B more appropriate. Give advantages and disadvantages of the two positions and explain which position you support.
+* Preference 2: Some people believe that A while others consider B more appropriate. Give advantages and disadvantages of the two positions and explain which position you support.
 	1. 
-	Some people believe that______. Other people hold the opinion that______. While both methods may have their advantages and disadvantages, they can be applied under different circumstances. Afterwards, I will explain my opinions about it.
+	Some people believe that______. **Other people hold the opinion that**______. **While both methods may have their advantages and disadvantages,** they can be applied under different circumstances. **Afterwards, I will explain my opinions about it.**
 	For A, ________.
-	But this also demonstrates that_______.
+	But **this also demonstrates that**_______.
 	Moreover, _______.
 	B, on the other hand, ______. For example, _______.
 	In my opinion, the advantages of B are more than those of A because B fits me better in two ways: First, ________. Second, __________.
 
 	2. 
-	A and B are two totally different ideas that have caused a heated debate for a long period. Anyway, I agree with the idea of A. However, it is unfair to say which is better than the other if we do not see both sides of the story in the following paragraphs.
-	Some people believe B because______. These people point out the fact that______. They also argue that_________.
-	However, other people stand on a very different ground, they believe that_______. They firmly point out that_______. An example can give the details of this argument: ________. In addition, __________.
-	In a word, A is too temptating not to be chosen. A, as shown above, has________. 
+	A and B are two totally different ideas that have caused a heated debate for a long period. Anyway, I agree with the idea of A. **However, it is unfair to say which is better than the other if we do not see both sides of the story in the following paragraphs.**
+	Some people believe B because______. **These people point out the fact that**______. **They also argue that**_________.
+	However, other people **stand on a very different ground**, they believe that_______. They firmly point out that_______. **An example can give the details of** this argument: ________. In addition, __________.
+	In a word, A is too temptating not to be chosen. A, **as shown above**, has________. 
 
 ## Examples
 * https://tstprep.com/toefl-writing-topics-and-sample-essays-2019/
@@ -176,3 +195,4 @@
 * https://www.toeflresources.com/writing-section/beginners-toefl-independent-guide
 * https://www.toeflresources.com/toefl-independent-writing-section
 * https://www.bestmytest.com/blog/toefl/toefl-writing-template
+* http://host.uniroma3.it/docenti/boylan/courses/variety/discuss/ac_spo_e/celte_discourse_markers.htm

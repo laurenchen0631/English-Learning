@@ -923,7 +923,7 @@
 		++ accord (n/v)同意/協議/使一致 = agree = adapt (v)授予/給予 = bestow = grant --> accordingly (adv)照著
 		+ discord (n)不一致/紛爭, (婚姻)不和
 		+ discordant (adj)不和諧的 = disagreeing = incongruous, 刺耳的 <--> concord
-		- concord (n)和諧/和睦 = amity = rapportm <--> discord, 公約/協定 = agreement = accord = treaty
+		- concord (n)和諧/和睦 = amity = rapport <--> discord, 公約/協定 = agreement = accord = treaty
 		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的
 
 	cre, crue 增長/產生 = grow, increase
@@ -5204,7 +5204,7 @@
 			+ recapitulate --> recapitulation
 			- recast (v)重鑄, 更換演員 <-- re + cast
 			- recite --> recitation 
-			- recittal
+			- recital
 			+ recluse
 			- recombine (v)重組/再結合 = anew
 			- recompense
@@ -5250,13 +5250,12 @@
 			** relieve --> relieved --> relief
 			* rely (v)[on/upon]依靠/依賴/指望 --> reliance (n)信賴/依賴
 			+ reliable (adj)可信賴的/可靠的 = dependable (n)可信賴的人或物
-			+ relinquish
 			+ reluct (v)反抗/不同意 --> reluctant (adh)不情願的 = averse = unwilling = loath = disinclined --> reluctance (n)不情願 <-- re + luct 掙扎 = struggle
 			- remain (v)剩下/餘留/保持 <-- re + main 留下 = stay
+			- remains (n)遺址/廢墟, 大體/遺體
 			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的
 			- remainder (n)剩餘物, 餘數, 地產的指定繼承權 (v)削價出售(書)
-			- remains (n)遺址/廢墟, 大體/遺體
-			+++ remark (v)談到/評論/說, 注意/覺察 = note = perceive = observe (n)談論/評論, 注意/察覺
+			+++ remark (n/v)談到/評論, 注意/覺察 = note = perceive = observe 
 			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking
 			- remind (v)使想起, 提醒 --> reminder (n)提醒人的事物, 催函/催單
 			* reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
@@ -5329,73 +5328,73 @@
 			* reward (n/v)報謝/獎賞 = recompense --> rewarding (adj)值得做的/有意義的 = gratifying
 
 		2. 回/向後/反 = back, backward
-			- rapport (n)和睦/意見一致 <-- r(e) + ap + port
+			- rapport (n)融洽關係/和諧一致 <-- r(e) + ap + port
 			- rebel --> rebellion --> rebellious
-			+ rebuff (v)斷然拒絕 <-- re + buff 噴/吹 = puff
-			+ rebuke (n/v)指責/譴責 = reprimand = snub <-- re + buke 打 = beat
-			- rebut (v)反駁/抗辯 --> rebuttal (n)反駁/反證 <-- re + butt
-			- recall (n/v)回想/回憶, 收回/叫回/召回 = countermand = withdraw <-- re + call
-			+ recant
+			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
+			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
+			- rebut (v)反駁/揭穿 --> rebuttal (n)反駁/反證 <-- re + butt
+			- recall (n/v)回想/回憶 = remember, 收回/叫回/召回 = countermand = withdraw <-- re + call
+			+ recant --> recantation
 			+ recede
 			- receive --> receipt 
 			- reception 
-			- receptacle
 			+ receptive
+			- receptacle
+			- recipient
 			- recess --> recession --> recessive
 			+ recipe (n)食譜, 訣竅/方法
-			- recipient
 			* reciprocate (v)給予適當的回應, 感同身受, 往復運動 <-- re + ci + pro + cate
-			+ reciprocity (n)對等/互惠 --> reciprocal (adj)相互的/互惠的 (n)倒數 <-- reciprocate
+			+ reciprocity (n)對等/互惠 --> reciprocal (adj)回報的/報答的, 相互的/互惠的, 倒數的 (n)倒數 <-- reciprocate
 			- reclaim
-			+ recoil (v)退縮/畏懼 = flinch, 厭惡/強烈反對 (n)後坐力 <-- re + coil
-			- recollect (v)回憶/記起 --> recollection (n)記憶力, 回憶/往事
+			+ recoil (v)退縮/畏懼 = flinch, 彈回, [on/upon]產生反作用 (n)彈回/跳回 <-- re + coil
+			- recollect (v)回憶/記起 = recall, [oneself]使冷靜 --> recollection (n)記起, 回憶/往事 = memory
 			+ recondite
 			- recur
 			* recourse
 			- recumbent
-			+++ redeem (v)償還/還清 = compensate, 彌補 = atone = make amends = offset, 贖救/解救, 買回/贖回, 兌現/兌換現金, 履行 = fulfill = carry out  <-- re + deem 買 = buy
+			+++ redeem (v)償還/還清 = compensate, 彌補 = atone = make amends = offset, 救贖/解救, 買回/贖回, 兌現/兌換現金, 履行 = fulfill = carry out  <-- re + deem 買 = buy
 			- redeeming (adj)補償的, 救贖的
-			- redemption (n)挽救/贖罪/贖回, 清償/履行
-			- redemptive (adj)贖回的/救贖的/救世的
+			- redemption (n)救贖, 救贖之物 贖回
+			- redemptive (adj)救贖的
 			- referee
 			+ reflect
 			- refract --> refaction
 			+ refractory
 			+ refuge --> refugee
-			+ refute (v)駁斥/反駁 = contradict = disprove --> refutation (n)駁斥 <-- re + fute 打 = beat
-			+ regret (n/v)後悔/遺憾, 痛惜/哀悼 --> regrettable (adj)使人悔恨的/令人遺憾的
+			+ refute (v)駁斥/反駁 = repudiate = rebut = contradict = disprove --> refutation (n)駁斥/反駁 <-- re + fute 打 = beat
+			+ regret (n/v)後悔/遺憾 --> regrettable (adj)令人遺憾的 = undesirable = unwelcome
 			- regress --> regressive
-			- relate
+			*** relate
 			+ relegate
-			* relent (v)發慈悲/憐憫, 減弱 --> relenting (adj)憐憫的, 減弱的 <-- re + lent 彎 = bend
+			* relent (v)發慈悲/憐憫, 減弱 --> relenting (adj) <-- re + lent 彎 = bend
 			+ relentless (adj)不間斷的, 無情的/殘酷的
 			+ relinquish
-			* remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence = ruth --> remorseful (adj) = penitent = repentant = contrite < -- re + morse 咬 = bite
-			- remove (v)移走/脫掉, 遷移
-			+++ render (v)變成/使 = make, 做 = do = perform, 提供 = furnish = supply, 展現 = exhibit = show, 呈遞 = present, 歸還 = return, 放棄 = surrender = give up, 表達/描繪 = represent = depict, 翻譯 = translate <-- re + n + der 提供 = give
-			- rendering (n)演出 = performance, 翻譯 = translation
+			* remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence = ruth --> remorseful (adj)懊悔的 = sorry = penitent = repentant = contrite < -- re + morse 咬 = bite
+			- remove (v)移走, 脫掉, 遷移, 廢除 = abolish, 解僱 = dismiss, [be removed from]離..很遠/跟..很不同 (N)距離/間隔
+			+++ render (v)提供 = furnish = supply, 呈遞 = present = submit, 作出(判決) = deliver, 放棄 = surrender = give up, 變成/使 = make, 表達/描繪 = represent = depict, 演奏 = perform, 翻譯 = translate, 煎熬/提取(脂肪), [建]給……抹灰打底 (n)底灰 <-- re + n + der 提供 = give
+			- rendering (n)演出 = performance, 翻譯 = translation, 描繪 = depiction, 抹灰泥, 灰泥層, 交出/歸還 = surrendering
 			+ renege
 			- renegade
 			+ renounce
-			- repair --> reparable --> repartion
-			- repartee (n)機靈的回答 <-- re + part + ee
+			- repair --> reparable --> reparation --> reparative
+			- repartee (n)機敏應答的才能 <-- re + part + ee
 			- repeal
 			- repel
 			- repellent
-			* repent (v)後悔 = rue = regret, 悔過 = be penitent <-- re + penitent
-			- repentant (adj)懺悔的/後悔的 = contrite = penitent = rueful
-			- repentance (n)悔恨 = penitence = contrition = compunction = remorse
-			- report (v)報告/報導/記述, 告發/揭發 --> reportorial (adj)記者的, 計時的
+			* repent (v)後悔/懊悔 = rue = regret <-- re + penitent
+			- repentant (adj)懺悔的/後悔的 = remorseful = contrite = penitent = rueful
+			- repentance (n)後悔/懊悔 = remorse = regret = penitence = contrition = compunction 
+			- report (n/v)報告/報導 (v)回報, [to]對..負責 (n)傳聞 = rumour, 爆炸聲/槍聲 --> reportorial (adj)記者的
 			- reprehend --> reprehensible
 			- repress --> repressed
 			* reprimand (n/v)訓誡/譴責 = castigate = criticize = rebuke <-- repress
-			- reprieve (n/v)緩刑, 暫時解救
+			- reprieve (n/v)緩刑, 暫緩/暫免
 			+ reproach
 			- reprove --> reproof
-			+ repudiate (v)拒絕/否認 = deny = abnegate, 拋棄/斷絕關係 = forswear = renounce <-- re + pudi 放 = put + ate
+			+ repudiate (v)拒絕/否認 = deny = abnegate, [法]拒絕接受或履行 <-- re + pudi 放 = put + ate
 			+ repugnant --> repugnance
 			- repulse ---> repulsion
-			- rescue (n/v)解救, 把...從法律監管下強行奪回 <-- re + scue 捨棄 = discard
+			- /ˈrɛskjuː/ rescue (n/v)解救 (v)取回 = retrieve <-- re + scue 捨棄 = discard
 			+ resent --> resentment
 			- reside --> resident
 			- residue --> residual
@@ -5403,65 +5402,65 @@
 			+ respite
 			+ restive --> restiveness
 			- restless
-			+++ retaliate (v)報復/反擊 = riposteor = retort --> retaliation (n)報復 <-- re + tali 如此 = such + ate
-			*** retaliatory (adj)報復性的
+			+++ retaliate (v)報復/反擊 = riposteor = retort --> retaliation (n)報復 = counter-attack = revenge <-- re + tali 如此 = such + ate
+			*** /rɪˈtalɪətri/ retaliatory (adj)報復性的
 			+ retire (v)退出/退隱, 退休, 退隱, 後退/撤退 = retreat, 就寢 --> retiring (adj)害羞的/不喜社交的 = reserved <-- re + tire 拉 = draw
 			* retort
-			- retrace (v)回顧/追想 <-- re + trace
+			- retrace (v)折返 = go back over, 追溯/探究…的源流 <-- re + trace
 			+ retract
-			+ retreat (n/v)撤退 (n)隱退處/休養所
-			+ retrench (v)節省/緊縮/縮短 <-- re + trench 切掉 = cut
+			+ retreat (n/v)撤退/退隱 = retite, 改變心意, (股票)貶值 = decline (n)撤退信號, 降旗號, 隱退處/休養所
+			+ retrench (v)緊縮開支/緊縮/減少 <-- re + trench 切掉 = cut
 			- retribution
-			- revel (v)著迷, 狂歡/歡宴 --> revelry (n)(吵鬧的)狂歡/縱酒/作樂 = bacchanalia = orgy <|> reveal <-- rebel
+			- /ˈrɛv(ə)l/ revel (n/v)狂歡/歡宴 (v)[in]著迷 --> revelry (n)(吵鬧的)狂歡/歡宴 = bacchanalia = orgy <|> reveal <-- rebel
 			- revenge
 			- revenue
 			- revenant
-			- reverberate (v)起回聲/反響 = resound = echo <-- re + verber 打 = beat + ate
+			- reverberate (v)起回聲/反響 = resound = echo, 迴響/產生後續影響 <-- re + verber 打 = beat + ate
 			- reverse
 			- revert
 			+ revolution --> revolutionary
 			- revolt
 
-
 	rect, recti 正/直 = right, straight
 		- rectangle (n)長方形/矩形
-		- rectify (v)改正/調正, 提純/精餾
-		+ rectitude (n)誠實/正直 = uprightness = probity, 公正 = right
+		- rectify (v)改正/調正, 提純/精餾, [電]整流, 求(曲線)的長度
+		+ rectitude (n)誠實/正直 = uprightness = probity = righteousness
 
 	rid, ris 笑 = laugh
-		+ deride (v)嘲弄/愚弄 = mock = gibe = taunt = flout --> derision (n)嘲笑 = ridicule = mockery --> derisive (adj)嘲笑的
-		+ ridicule (n/v)嘲笑/揶揄/奚落 --> ridiculous (adj)荒唐的/可笑的 = absurd = ludicrous
-		- risible (adj)滑稽的/可笑的 = ludicrous
+		+ deride (v)嘲弄/愚弄 = ridicule = mock = gibe = scoff = scorn = taunt
+		+ derision (n)嘲笑 = ridicule --> derisive (adj)嘲笑的 = disdainful = insulting = sarcastic = scornful
+		+++ ridicule (n/v)嘲笑/揶揄/奚落 = caricature = contempt = disdain = deride = derision = mockery = parody = sarcasm = satire = scorn = taunt = humiliate = lampoon --> ridiculous (adj)荒唐的/可笑的 = absurd = ludicrous = bizarre = nonsensical = outrageous = preposterous
+		- risible (adj)滑稽的/可笑的
 
 	rade, ras 摩擦 = scrape
-		- abrade (v)磨損/刮除 = scrape --> abrasion (n)擦傷, 磨損/磨耗
-		- erase (v)擦掉/抹去, 消除/忘卻 --> erasure (n)擦除, 消除
+		- /əˈbreɪd/ abrade (v)磨損/刮除 = scrape --> abrasion (n)擦傷, 磨損/磨耗
+		- /ɪˈreɪz/ erase (v)擦掉/抹去/消除
+		- /ɪˈreɪʒə/ erasure (n)抹去/消除 = obliteration
 		- erasable (adj)可消除的
 
 	radic 根
 		+ eradicate (v)根除/消滅 = extirpate = annihilate = exterminate
-		+ radical (adj)根本的/基本的, 與生俱來的, 極端的/激進的, 根的 (n)基本原理, 激進分子, 根式/根號
-		- radicalize (v)使…更激進
+		- ineradicable (adj)無法根除的
+		+++ radical (adj)根本的/基本的, 與生俱來的, 極端的/激進的, 根的 (n)基本原理, 激進分子, 根式/根號
+		- radicalize (v)使激進/使偏激
 		- radix (n)(數學)根, (植物)根
-		- irradicable (adj)無法根除的
 
 	rog 要求/說 = ask, beg
-		+ abrogate (v)廢除/廢止 = abolish = revoke, 逃避(責任)
-		+ arrogate (v)霸佔/僭越/詐稱
-		+ arrogant (adj)傲慢的 = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
-		- interrogate (v)質問 = examine, 獲取資料 --> interrogative (adj)審問的/疑問的
-		* derogate (v)誹謗 = disparage = denigrate = slur = calumniate, 廢除 = abrogate = abolish
-		+ derogative, derogatory (adj)批評的/貶義的
+		+ abrogate (v)廢除/廢止 = repeal = abolish = revoke, 逃避(責任) = evade
+		+ arrogate (v)霸佔/僭越/擅取
+		+ arrogant (adj)傲慢的 = bossy = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
+		- interrogate (v)質問 = examine = inquire, 獲取資料 --> interrogative (adj)審問的, 疑問句的 (n)疑問詞
+		* derogate (v)[from]貶損 = detract from, [rom]背離/違背, 誹謗 = disparage = denigrate = slur = calumniate
+		+ derogative, derogatory (adj)貶低的
 		- rogation (n)祈禱
-		- prerogative (n)特權 = privilege
-		- subrogate (v)代替
-		+ surrogate (n)代理者/代理人/替代品 = substitute
+		- prerogative (n)特權 = privilege, 特質 = faculty = property
+		- subrogate (v)(擔保人代償債務後)取代(債權人)
+		+ surrogate (n)代理者/代理人 = substitute, 代理孕母 = surrogate mother (adj)代孕的
 
-	rhythm 節奏
+	rhythm, rhy 節奏
 		- arrhythmic (adj)無節奏的/不規律的
-
-	{rina} 女 == enne
-		^ ballerina
+		* /rʌɪm/ rhyme (n)韻/韻腳, 押韻詩/韻文, 同音字 (v)押...韻, 押韻/成韻, 使成韻,  作詩
+		* /ˈrɪð(ə)m/ rhythm (n)節奏/韻律, 規則的運動/規則變化/規律/節律
 
 	rupt 斷 = break
 		** abrupt (adj)突然的/意外的 = sudden = unexpected, 唐突的/魯莽的 = curt = brusque = blunt, 陡峭的/險峻的 = steep = precipitous
@@ -5473,9 +5472,6 @@
 		- erupt (v)噴出 = spout, 爆發, 發疹, 長牙
 		- interrupt (v)打斷, 短暫中止
 		- rupture (n/v)破裂/使破裂, 有疝氣, 使不和 (n)疝氣, 不和
-
-	rate 責罵 = chide, scold
-		* berate (v)嚴責/訓斥 = criticize = vituperate
 
 	rept 爬行 = snatch, creep
 		- reptile (n)爬蟲類 --> reptilian (adj)爬蟲類的, 卑下的
@@ -6423,7 +6419,7 @@
 		+ synthesis --> synthesize
 		*** thesis (n)論題/命題/論點/論文
 
-	type\ 形狀 = morph
+	type 形狀 = morph
 		- archetype
 		- prototype
 
@@ -6746,7 +6742,7 @@
 		+ underscore (v)在...之下畫線, 強調
 		+ understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)保守的/輕描淡寫的 --> understatement (n)不充分的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)充當...的替角
-		- undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
+		*** undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
 		- underutilized (adj)未充分利用的
 		+ underwrite (v)簽署/簽名同意支付/同意, 給……保險, 認購
 

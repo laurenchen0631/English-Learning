@@ -237,6 +237,7 @@
     ** baste (v)(烤肉)給...抹油脂 = anoint = grease, 狠揍/毒打/痛斥/大罵 = lambaste
     * beat (v)打敗/搶先, 打/擊 = batter = clobber = lash, 心跳/跳動, 攪拌 = agitate = stir, 避開/預防 = avoid = avert 
     * beget (v)生(子女) = engender = procreate, 為……之生父, 引起/招致 = engender
+    * berate (v)嚴責/訓斥 = criticize = vituperate <-- rate 責罵 = chide, scold
     * /ˈbɛɡə/ beggar (n)乞丐/窮人 = mendicant (v)使貧窮, 使不足 <|> boycott
     *** belittle (v)輕視/貶低 = detract = disparage = scorn = rubbish = depreciate = downplay = flout = disdain = trifle
     * beseech (v)懇求/哀求 = solicit = beg = implore = crave --> beseeching (adj)哀求的 = suppliant <-- be + seek
@@ -903,7 +904,7 @@
     + fleet (adj)快速的/敏捷的 = swift = rapid (v)掠過, 消磨 --> fleeting (adj)轉瞬即逝的/短暫的 = transient = transitory = ephemeral = momentary
     ++ flip (v)快速翻轉, 輕拍 (n)翻轉 --> flippant (adj)輕浮無禮的 = frivolously disrespectful
     ++ flounder (v)掙扎/處於困境 (n)比目魚 = fluke <-- flounce + founder
-    ++ /flaʊt/ flout (v)藐視[法律] = contempt = scorn = disdain = belittle = trifle, 嘲弄 = mock = scoff = gibe = burlesque = jest = scorn = trifle <-- flute 長笛
+    ++ /flaʊt/ flout (v)藐視[法律] = contempt = scorn = disdain = belittle = trifle <-- flute 長笛
     + fluke (n/v)僥倖/僥倖成功/僥倖獲得 (n)錨爪, 魚叉的倒鉤, 比目魚, 吸蟲
     + fulminate (v)猛烈抨擊/嚴厲譴責 = inveigh = rant = rail, 爆炸 = explore = detonate <-- fulmin 閃電 = lightning
     + flummox (v)使困惑 = bewilder
@@ -1734,7 +1735,7 @@
     + merge (v)使合併 = combine = coalesce = unite = consolidate = amalgamate
     ++ /ˈmɛrɪt/ merit (v)值得 = deserve (n)長處/價值 = excellence = worth, 法律依據, 應得/報應 = desert --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
     ++ mesmerize (v)迷住/使入迷 = fascinate = spellbind = hypnotize = beguile, 對……施催眠術 = hypnotize --> mesmerizing (adj)吸引人的/迷人的
-    + /ˈmiːtɪə/ meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral --> meteoroid (n)隕石
+    + /ˈmiːtɪə/ meteor (n)流星, [古]大氣現象 --> meteoric (adj)流星的, 曇花一現的 = ephemeral, 大氣的/氣象的 --> meteoroid (n)隕石
     + meteorological (adj)氣象的/氣象學的 <-- meteoro + logy + ical
     + method (n)條理/秩序 = order = system, 方法/辦法 = mode = manner = procedure --> methodical (adj)細心的 = painstaking = deliberate = measured, 有條理的/秩序井然的 = systematic = orderly
     + /mɪˈljəː/ milieu (n)(社會或文化)環境 = environment = atmosphere = setting <|> purlieu
@@ -2563,7 +2564,7 @@
     + smattering (n)略知, 少量
     ** /smʌɡ/ smug (adj)自滿的/得意的 = complacent, 整潔的/體面的 = trim = spruce = smooth = sleek = tidy (n)沾沾自喜的人
     + snide (adj)暗諷的/含沙射影的 = allusive, 卑鄙的 (n)卑鄙的人
-    ++ snub (n/v)冷落/忽視, 斥責 = rebuke, 突然停住/止住(船、馬), 熄滅 = extinguish = quench
+    ++ snub (n/v)冷落/忽視, 突然停住/止住(船、馬)
     +++ sober (adj)清醒的/未醉的, 嚴肅的/認真的 = solemn = austere, (顏色)樸素的 = severe, 不誇大的, 自制的, 理性的 = sane = rational <|> somber
     ++ /səˈbrʌɪəti/ sobriety (n)清醒, 嚴肅 = seriousness = gravity = solemnity, 節制/適度 = temperance = moderation <-- sober
     + /ˈsəʊbrɪkeɪ/ sobriquet (n)綽號 = nickname <|> sobriety
