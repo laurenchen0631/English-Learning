@@ -753,7 +753,7 @@
 		- proceeds (n)收入
 		* proceedings (n)行動/行為, 訴訟, 議項/會議記錄
 		- procession (n)行列/隊伍, 一連串/一系列/接連 = succession
-		+ recede (v)後退 = retreat, 逐漸消失 = abate = diminish = blur, 停止生長/禿頭
+		+ recede (v)後退 = retreat, 逐漸消失 = abate = diminish = blur, 停止生長/禿頭 <|> recess <|> regress <|> repress
 		- recess (v)休息 = repose (n)休息/休會, 凹處, 深處
 		- recession (n)後退/退回/撤回, 經濟的衰退, 凹處
 		- recessive (adj)後退的, 隱性的
@@ -1735,7 +1735,7 @@
 		- hypoderm (n)皮下組織
 
 	dele, del 傷害/刪除 = hurt, injure, delete
-		+ /ˌdɛlɪˈtɪərɪəs/ deleterious (adj)有害的 = corrosive = harmful = destructive = detrimenmtal <--> wholesome
+		+ /ˌdɛlɪˈtɪərɪəs/ deleterious (adj)有害的 = harmful = destructive = detrimenmtal <--> wholesome
 		- delete (v)刪除/擦去
 		- indelible (adj)擦拭不掉的/不可磨滅的
 
@@ -4381,7 +4381,7 @@
 		- premeditate --> premeditated
 		+++ premise
 		+ premonition
-		* preoccupied (adj)全神貫注的/入神的 = engrossed --> preoccupation (n)全神貫注, 使人專注的東西
+		* preoccupied (adj)全神貫注的/入神的 = engrossed = rapt --> preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
 		- preposition
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的
@@ -5194,7 +5194,7 @@
 		1. 再次/重新/加強 = again
 			+ /raˈprɒʃmɒ̃/ rapprochement (n)恢復邦交/國家友好 <-- r + appro(a)ch + ment
 			+ react (v)作出反應, [against]抗拒/反抗, 起化學作用 --> reactant (n)反應體/反應物
-			- reactionary (adj)反動的/極端保守的 (n)反動分子
+			- /rɪˈakʃənəri/ reactionary (adj)反動的/極端保守的 (n)反動分子
 			- reagent (n)試劑 <-- react + agent 
 			+ rally (n/v)召集/集會 = muster = convene, 重新振作/恢復 = revive = recover = rebound <-- r(e) + ally
 			- realign (v)調整…的位置, [realign oneself with]改變立場 <-- re + align
@@ -5239,7 +5239,7 @@
 			- reinstate (v)復職 = rehabilitate <-- re + in + state
 			+ reiterate (v)重申/反覆地說 <-- re + iterate
 			- rejoice (v)欣喜/高興 = jubilate = exult
-			+ rejoin (v)重新加入 = reunite, 重返/返回 = return, 回答/反駁 --> rejoinder (n)回答/反駁 = response = reply
+			++ rejoin (v)重新加入 = reunite, 重返/返回 = return, 回答/反駁 --> rejoinder (n)回答/反駁 = response = reply
 			+ rejuvenate
 			+ rekindle (v)再點火 = relight, 使復甦(失去之物) = revive
 			- relapse
@@ -5332,15 +5332,15 @@
 			- rebel --> rebellion --> rebellious
 			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
 			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
-			- rebut (v)反駁/揭穿 --> rebuttal (n)反駁/反證 <-- re + butt
+			- rebut (v)反駁 --> rebuttal (n)反駁/反證 <-- re + but
 			- recall (n/v)回想/回憶 = remember, 收回/叫回/召回 = countermand = withdraw <-- re + call
 			+ recant --> recantation
 			+ recede
 			- receive --> receipt 
 			- reception 
 			+ receptive
-			- receptacle
 			- recipient
+			- receptacle
 			- recess --> recession --> recessive
 			+ recipe (n)食譜, 訣竅/方法
 			* reciprocate (v)給予適當的回應, 感同身受, 往復運動 <-- re + ci + pro + cate
@@ -5354,7 +5354,7 @@
 			- recumbent
 			+++ redeem (v)償還/還清 = compensate, 彌補 = atone = make amends = offset, 救贖/解救, 買回/贖回, 兌現/兌換現金, 履行 = fulfill = carry out  <-- re + deem 買 = buy
 			- redeeming (adj)補償的, 救贖的
-			- redemption (n)救贖, 救贖之物 贖回
+			- redemption (n)救贖, 救贖之物, 贖回
 			- redemptive (adj)救贖的
 			- referee
 			+ reflect
@@ -5447,10 +5447,10 @@
 
 	rog 要求/說 = ask, beg
 		+ abrogate (v)廢除/廢止 = repeal = abolish = revoke, 逃避(責任) = evade
-		+ arrogate (v)霸佔/僭越/擅取
+		+ arrogate (v)霸佔/僭越/擅取 <|> abrogate
 		+ arrogant (adj)傲慢的 = bossy = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
 		- interrogate (v)質問 = examine = inquire, 獲取資料 --> interrogative (adj)審問的, 疑問句的 (n)疑問詞
-		* derogate (v)[from]貶損 = detract from, [rom]背離/違背, 誹謗 = disparage = denigrate = slur = calumniate
+		* derogate (v)[from]貶損 = detract from, [from]背離/違背, 誹謗 = disparage = denigrate = slur = calumniate
 		+ derogative, derogatory (adj)貶低的
 		- rogation (n)祈禱
 		- prerogative (n)特權 = privilege, 特質 = faculty = property
@@ -5460,85 +5460,88 @@
 	rhythm, rhy 節奏
 		- arrhythmic (adj)無節奏的/不規律的
 		* /rʌɪm/ rhyme (n)韻/韻腳, 押韻詩/韻文, 同音字 (v)押...韻, 押韻/成韻, 使成韻,  作詩
-		* /ˈrɪð(ə)m/ rhythm (n)節奏/韻律, 規則的運動/規則變化/規律/節律
+		* /ˈrɪð(ə)m/ rhythm (n)節奏/韻律, 規則的運動/規則變化/規律/節律 <|> /ˈriːz(ə)n/ reason
 
 	rupt 斷 = break
-		** abrupt (adj)突然的/意外的 = sudden = unexpected, 唐突的/魯莽的 = curt = brusque = blunt, 陡峭的/險峻的 = steep = precipitous
-		- bankrupt (adj)破產的 = needy = destitute = impecunious = indigent
-		+ corrupt (v)使腐化墮落, 損壞(電腦上的資料) (adj)腐敗的/墮落的, 被破壞的/有錯誤的(資料)
+		*** abrupt (adj)突然的/意外的 = sudden = unexpected, 唐突的/魯莽的 = curt = brusque = blunt, 陡峭的/險峻的 = steep = precipitous
+		- bankrupt (adj)破產的 = needy = destitute = impecunious = indigent, 徹底缺乏的 (n)破產者 (v)使破產
+		+ corrupt (v)使腐化墮落 = deprave, 損壞(電腦上的資料) (adj)腐敗的/墮落的 = depraved, 被破壞的/有錯誤的(資料)
 		- corruptible (adj)易腐化墮落的/易貪污的
-		+ disrupt (v)打斷/中斷/擾亂 = interrupt = hamper --> disruption (n)分裂/瓦解/中斷
-		++ disruptive (adj)引起混亂的, 創新的
-		- erupt (v)噴出 = spout, 爆發, 發疹, 長牙
-		- interrupt (v)打斷, 短暫中止
-		- rupture (n/v)破裂/使破裂, 有疝氣, 使不和 (n)疝氣, 不和
+		+ disrupt (v)打斷/中斷 = interrupt = disturb = breach, 使分裂/使瓦解 = disorganize --> disruption (n)中斷/擾亂
+		++ disruptive (adj)引起混亂的, 創新的 = innovative = groundbreaking
+		- erupt (v)噴出/噴發 = spout, 爆發, 發疹, 長牙
+		- interrupt (v)打斷/中斷 = disrupt
+		- rupture (n/v)破裂/使破裂, 有疝氣, (關係)打斷/中斷 = breach = disturb (n)破裂, 疝氣, 關係的中斷
 
 	rept 爬行 = snatch, creep
-		- reptile (n)爬蟲類 --> reptilian (adj)爬蟲類的, 卑下的
+		- reptile (n)爬蟲類 --> reptilian (adj)爬蟲類的, 令人討厭的 = repulsive (n)爬蟲類動物 = reptile
 		- reptant (adj)爬行的
-		+ surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
+		+ /ˌsʌrəpˈtɪʃəs/ surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
 
 	respond 反應
-		* correspondent (adj)符合的 = matching (n)記者, 寫信人
+		*** + correspond (v)符合/一致, 相當/相應, 通信
+		* correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
 		- respond (v)作答/回答/作出反應
-		- reponse (n)反應/回響/回答
-		- responsive (adj)反應積極的/響應的 --> responsiveness (n)應答/響應
+		- response (n)反應/回響/回答
+		- responsive (adj)反應積極的/響應的 --> responsiveness (n)反應積極/響應
 		- responsible (adj)有責任的 = accountable, 有鑑別能力的/能明辨是非的/負責可靠的
+		*** responsible (adj)[for]負責../掌管.., [for]對..負責任/應對…承擔責任 [to]向..負責, 責任重大的, 負責可靠的 = trustworthy
 
 	robor 力量 = strength, strong
-		+ corroborate (v)證實/確證 = confirm = attest = substantiate = vindicate --> corroborant (adj)確證的 (n)補劑
+		+ corroborate (v)證實/確證 = authenticate = confirm = substantiate  --> corroborant (adj)確證的 (n)確證的事實
 		- roborant (adj)起強壯作用的 (n)強壯劑
 
 	rod, ros 咬/侵蝕 = gnaw
-		+ corrode (v)(使)腐蝕/侵蝕 = erode = gnaw
-		+ corrosive (adj)腐蝕性的/侵蝕性的 = erosive, 有害的/有危害性的 = harmful = destructive = deleterious, 尖刻的 = sarcastic = caustic = mordant
+		+ corrode (v)(使)腐蝕/侵蝕 = erode = gnaw, 逐漸破壞或削弱
+		+ corrosive (adj)腐蝕性的/侵蝕性的 = erosive (n)腐蝕性物質
 		- corrosion (n)腐蝕/侵蝕
 		- rodent (n)嚙齒動物
-		+ erode (v)侵蝕/磨損/削弱 = gnaw = corrode --> erosive (adj)腐蝕性的/侵蝕性的 = corrosive = mordant
+		+ erode (v)磨蝕/磨損, 逐漸破壞, (疾病)逐漸侵蝕 --> erosive (adj)磨蝕性的 = corrosive
 
 	rud 原始 = unformed, rough
 		+ /ˈɛrʊdʌɪt/ erudite (adj)博學的 = learned = scholarly
-		+ rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的, 未充分發展的 = inchoate
-		- rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 未加工的, 未開化的/原始的, 大略的, 強健的
+		+ rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的 = basic = elemental = fundamental = primitive, 未充分發展的 = inchoate
+		- rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 突然的/意外的
 
 	rug 皺/皺紋 = wrinkle
-		- corrugate (v)使起皺紋 = crumple, 使成波狀
-		- ruga (n)皺紋
-		- rugose (adj)多皺紋的
+		- corrugate (v)使起皺紋/使成波狀 = crumple
+		- ruga (n)皺紋/皺摺/脊  
+		- rugose (adj)多皺摺的 = corrugated = wrinkled
 
 	relic 放棄 = leave, abandon, relinquish
-		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)被遺棄的人 --> dereliction (n)遺棄
-		- relict (n)殘餘物
+		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)社會棄兒, 遺棄物 --> dereliction (n)遺棄/廢棄, [dereliction of duty]怠忽職守
+		- relict (n)殘遺物
 		- relic (n)遺物/遺跡, 聖骨/聖物
 
 	riv 河流 = stream
-		+ derive (v)衍生, 得到 <|> deride --> derivative (adj)缺乏獨創性的 = secondary, 衍生的 = derived
+		+ derive (v)[sth from]得到, [from]源自 = arise from = originate, [數]導出  <|> deride 
+		++ derivative (adj)缺乏獨創性的 = secondary, [of]源自..的, [金]衍生性的 (n)衍生物/衍生字, 衍生性金融商品
 		* derivation (n)發展/起源, 詞源
-		- river (n)河流
-		- arrive (v)到達
-		- /ˌariːˈviːst/ arriviste (n)野心家/新貴 = social climber = parvenu
+		- river (n)河流, 巨流/大量
+		- arrive (v)到達, 發生 = happen = come, 出生 = be born, [at]達到/達成(結論或決定), 成功/成名
+		+ /ˌariːˈviːst/ arriviste (n)野心家/新貴 = social climber = parvenu
 
 	reg, regul, reign 統治
-		+ interregnum (n)無王時期/空位期
-		- regal (adj)帝王的/莊嚴的/堂皇的
+		+ interregnum (n)無王時期/空位期, 過渡期
+		- regal (adj)帝王的, 莊嚴的/堂皇的
 		+ regime (n)政體/政權, 社會制度
 		- regimented (adj)嚴格組織的/嚴格控制的
-		+ regulate (v)管理/控制, 校準.調整 --> regulation (n)規章/規則, 管理, 調整 (adj)正規的/正式的, 普通的/一般的
-		* reign (n)統治/支配, 王朝, 領域 (v)統治, 支配/盛行
+		+++ regulate (v)管理/控制, 校準 --> regulation (n)規章/規則, 管理/控制 (adj)正規的/正式的, 公式化的 = formulaic
+		* /reɪn/ reign (n)在位期間/統治時期, 盛行時期 (v)君臨/統治, 支配/盛行 <|> rein
 		++ sovereign (n)君主/元首 (adj)至高無上的, 主權獨立的, 極好的/極有效的 = effective
-		+ sovereignty (n)主權/統治權 <-- sove 上面 = over + reign
+		+ sovereignty (n)主權/統治權, 至高無上的權力 <-- sove 上面 = over + reign
 
 	rap, rav 抓取 = seize
-		+ rapacious (adj)強取的, 貪婪的 = ravenous, 捕食性的
-		* rape (v)強姦, 強奪/洗劫 (n)油菜
+		+ rapacious (adj)強取的/貪婪的 = ravenous
+		* rape (n/v)強姦, 強奪/洗劫(地方) (n)油菜, 葡萄渣
 		- rapine (n)強奪/搶劫 
-		- rapid (adj)快的/迅速的, 陡的/險峻的
+		- rapid (adj)快的/迅速的/極速的
 		- rapids (n)急流/湍流 <-- rapid
-		* rapt (adj)著迷的/痴迷的, 全神貫注的, 欣喜若狂的 --> rapture (n)著迷/痴迷, 狂喜
-		- ravish (v)使陶醉/使銷魂, 強姦 = rape --> ravish (adj)令人陶醉的
-		* rave (n/v)胡言亂語, 狂罵/咆哮 = rant, (風)呼嘯 = rage
-		*** ravage (v)嚴重傷害 (n)蹂躪, 破壞
-		+ raven (v)狼吞虎嚥地吃, 攫取/掠奪 (n)掠奪/劫掠, 捕食, 渡鴉 (adj)烏亮的/墨黑的
+		* rapt (adj)著迷的/痴迷的/全神貫注的 = preoccupied = enraptured --> rapture (n)著迷/痴迷, 狂喜, 被提(基督教末世論中的一種概念，認為當耶穌再臨之前，已死的信徒將會被復活高升)
+		- ravish (V)使陶醉/使狂喜 = enrapture, 強姦 = rape
+		** rave (n/v)胡言亂語, 狂罵/咆哮 = rant, 狂熱讚揚/極力誇獎, 參加黃灣聚會 (n)狂熱讚揚/極力誇獎, 狂歡聚會/銳舞舞會
+		*** ravage (v)嚴重傷害 --> ravages (n)蹂躪, 破壞
+		+ raven (v)狼吞虎嚥地吃 (n)渡鴉 (adj)烏亮的/墨黑的
 		+ ravenous (adj)餓極了的, 貪婪的 = rapacious = voracious
 
 	rat 深思熟慮/推論 = calculate, deliberate, conclude
@@ -7010,7 +7013,7 @@
 	vitr 玻璃 = glass
 		- vitreous (adj)玻璃的
 		+ /ˈvɪtrɪəl/ vitriol (n)尖刻的話, 硫酸/礬 
-		+ /ˌvɪtrɪˈɒlɪk/ vitriolic (adj)刻薄的 = truculent = scathing = harsh = corrosive
+		+ /ˌvɪtrɪˈɒlɪk/ vitriolic (adj)刻薄的 = truculent = scathing = harsh
 
 	venge 復仇 = avenge
 		- avenge (v)替...復仇/報...之仇 = vindicate

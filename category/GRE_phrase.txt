@@ -57,25 +57,6 @@
 		> |a long distance away| It’s still quite a way off to Glasgow.
 	- the amount of
 	- amounts of 
-	- after all
-		1. 畢竟/終究
-			> I thought you might know somebody. After all, you`re the man with connections.
-			> Ability to select is the test of the perspective historian: a history, after all, consists not only of what the historian has included, but also, in some sense, of what has been left out.
-				>> ability to
-				>> consists of
-				>> in some sense 某種意義上來說
-				>> leave out 省略
-
-		2. 竟然/居然 == something that you thought might not be the case is in fact the case
-			> I came out here on the chance of finding you at home after all.
-				>> came out
-				>> on the chance of 懷著……的希望
-
-			> The Social Democrats say they are ready after all to begin talks on joining a coalition government.
-				>> be ready to 
-				>> talk on
-				>> coalition
-	
 	- agonize over == feel very anxious about it and spend a long time thinking about it
 		> Perhaps he wa agonizing over the moral issues involved.
 		> Like Bela Bartok, Ruth Crawford not only brought a composer`s acumen to the notation of folk music, she also had a marked reverence for the task. This was clear in her agonizing over how far to try to represent the minute details of a performance in a written text, and this fastidiousness makes her work a landmark in ethnomusicology.
@@ -166,19 +147,16 @@
 		> There is no decision as to when the work might start.
 	+ as to/for 至於(轉變話題) == changing the subject to
 		> As to where we'll get the money from, we'll talk about that later.
-	- as of 在...時/自...起 == on, at, from - used to indicate a time or date at which something begins or ends
+	+ as of 在...時/自...起 == on, at, from - used to indicate a time or date at which something begins or ends
 		> The project wa terminated as of January 1.
 	- as opposed to 而不是 == not something else, used to compare two things.
 		> We ate in the restaurants, as opposed to the bistro.
 		> The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author`s beliefs, as opposed to what is imposed by political coercion.
 			>> repressive regimes 壓迫政權
 			>> lie in 
-
 	- as yet == up to the present
 		> Second, the fungi cannot as yet be cultivated in the absence of a living root
 			>> in the absence of
-	- as for == with regard to.
-		> As for the three tricks? Number one is to “harness the power of precommitment,” said De La Rosa.
 	+ as such
 		> (否定)大抵上 |You use as such with a negative to indicate that a word or expression is not a very accurate description of the actual situation.|
 			>> I am not a learner as such – I used to ride a bike years ago.
@@ -187,16 +165,7 @@
 			>> Mr Simon said he was not against taxes as such, `but I do object when taxation is justified on spurious or dishonest grounds,` he says.
 			>> House prices are easily upset by factors which have nothing to do with property as such. The fall in prices in the South-East results largely from the high rate of interest on mortgages.
 			>> It is not grammatical competence as such that is innate but more general cognitive principle.
-	- as opposed to == rather than == instead of
-		> Visitors build a stronger connection to the brand when they are front and center as opposed to an observer in this Star Wars universe, Niles said.
-	- as as matter of fact 說真的/事實上
-		> The shoes are still stylish, and as a matter of fact , I am wearing a pair right now.
-		> We are not losing population in our town. As a matter of fact, people are moving in.
-	+ as a whole 總體上/整個看來 == when considered as a group and not in parts
-		> The population as a whole is getting healthier.
 	- as well as == in addition to
-	- as a rule == generally == usually
-		>  an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring
 	- ascribe A to B
 		1. 認為 A 是 B 所為 == B said or created A == A is ascribed to B
 			> He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin.
@@ -240,17 +209,6 @@
 		> Rather than enhancing a country`s security, the successful development of nuclear weapons could serve at first to increase that country`s vulnerability.
 			>> rather than
 			>> serve to
-
-	- at fist glance 乍看 == something seems to be true when you first see it or think about it, but at you first impression may be wrong
-		> At first glance, organic farming looks much more expensive for the farmer.
-			>> look adj 似乎
-		> As my own studies have advanced, I have been increasingly impressed with the functional similarities between insect and vertebrate societies and less so with structural differences that seem, at first glance, to constitute such an immense gulf between them.
-			>> be impressed with 
-			>> vertebrate
-			>> less so 反而不
-			>> seem to vb
-			>> immense
-			>> gulf
 
 	- at hand 接近的/不遠的 == near at hand == close at hand == very near
 		> Having the right equipment at hand will be enormously helpful.
@@ -309,13 +267,6 @@
 		3. 認為B出自A == B is attributed to A == A wrote, created or said B
 			> This, and the remaining frescoes, are not attributed to Giotto.
 			> A Madonna and Child attributed to Pietro Lorenzetti.
-	
-	
-	- at the opposite end of the spectrum == at the other end of the spectrum
-		> At the other end of the spectrum is the diamond, whose energy can be released only when it heated to its burning point, 650°C
-		> As astronomers explore the vast outer reaches of space, physicists are busy working at the opposite end of the spectrum, studying the microworld of particles that make up all things.
-	- at this very second == at this moment
-		> At this very second, this page is releasing chemical energy.
 	- at that point in time == At a particular moment in the past
 		> It gets people to share what their priorities in life are at that point in time
 	- at/in the back of your mind 在潛意識裡/下意識地 == If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it.
@@ -721,18 +672,6 @@
 		> We are still holding out hope that our missing son will be found.
 		> I know that this legislation is right for the country, but I hold out little hope that it will make it through both houses of congress.
 [I]
-	+ in that 基於...的理由 == for the reason that == because <--> for that
-		> Its workmanship and understanding of gearing and celestial events are remarkable in that many of the ideas and mechanical principles would not be seen again until Europe emerged from the dark ages 1,300 years later.
-		> These elements are unusual in that their atoms show little tendency to combine with each other. 
-	+ in spite of 雖然/儘管 == despite == although == even though
-		> He got the job in spite of his prison record.
-		> He was very fast in spite of being terribly overweight.
-		> When they arrived at Malaga it was hot, in spite of the fact that it was only the end of April.
-	- in terms of 
-		> If you are there strictly for your own gain and you’re not talking in terms of my priorities ever, that’s when I’m seeing someone is there to manipulate me.
-	+ in fact 實際上 == indeed  == actually
-		> in fact, they occur somewhere in the world every year
-	- in an effort to 為了 == in an attempt to 
 	+ in effect 大抵上 == You add in effect to a statement or opinion that is not precisely accurate, but which you feel is a reasonable description or summary of a particular situation.
 	- in one`s favor
 		> 對...有利 |To one`s advantage or for one`s benefit.| I`m so relieved that the court ruled in my favor!
@@ -742,7 +681,6 @@
 		> The teacher put me in charge of organizing the project.
 	- in its infancy == only just started to develop
 		> When the science of animal behavior was still in its infancy, researchers split into two schools of thought.
-	- in other words == namely == that is
 	- in phase with == in harmony with
 		> The light waves of lasers beams are exactly in phase with one another and so nearly parallel that they can travel for long distances in a straight line.
 	- in the wind
@@ -759,9 +697,6 @@
 		> You’ll be in good hands with her – she’s a terrific lawyer.
 	- in the neighborhood of == approximately
 		> The album`s now sold something in the neighborhood of 2 million copies.
-	- "in" response to N 作為...的回應
-	+ in a way 在某種意義上 == considered in a particular manner
-		> In a way, I hope he doesn’t win.
 	- in danger of 處於...危險之中
 	+ in the interest(s) of 為了 == in order to achieve (a particular goal or result)
 		> He tried in vain to control the Supreme Court in the interests of the will of the people
@@ -812,7 +747,6 @@
 [O]
 	+ on and on 持續地 == continuing for a long time
 		> The noise just went on and on.
-	- on the other hand == in contrast
 	- on a regular basis == regularly
 		> “I get bombarded with things about Leonardo on a regular basis that range from laughable to insane,” Kemp told me recently.
 	- or so == approximately
@@ -926,10 +860,6 @@
 	- never/not once 從不 == used to emphasize that something has never happened
 		> In another moment down went Alice after it, never once considering how in the world she was to get out again
 		> I never once saw him get angry or upset.
-	+ no sooner ... than 剛...就... == used to show that one thing happens immediately after another thing
-		> No sooner had I started mowing the lawn than it started raining.
-		> No sooner had the first passenger railroads begun operations in England and the United States, than the public was seized by what was called "railroad mania."
-		> No sooner had the first passenger railroads begun operations in England and the United States, around 1830, than the public was seized by what was called, even then, "railroad mania."
 	- no skin off my back == dont care == wont harm you a bit, 
 	- not mince (one`s) words 直接地表達不滿 == Voice one`s disapproval candidly and directly.
 		> his doctorly persona is that of a gruff surgeon who does not mince words
@@ -940,8 +870,6 @@
 		> You paid too much - I think he pulled a fast one on you.
 	- put sb at ease == To calm, comfort, or reassure one; to make one comfortable or relaxed.
 		> How to put strangers at ease.
-	- put simply 簡單來說 == used for saying that you are just giving the basic facts about a complicated situation
-		> Put simply, intelligence is the ability to successfully perform mental operations - but which ones? 
 	- put (sth) in/into perspective 理解、讚揚或評估..真正的價值 == To clarify, appraise, or assess the true value, importance, or significance of something.
 		> To put things in perspective, the nonprofit Wildlife Conservation Network (WCN) notes that lion numbers have dropped by half since The Lion King premiered in theaters in 1994.
 	- put a/one`s finger on sth 確切地指出 == to discover the exact reason why a situation is the way it is, especially when something is wrong
@@ -985,8 +913,6 @@
 		> We are all ambitious - it seems to run in the family.
 	- (be) running low (on sth) 快用完 == if something is running low, or if you are running low on something, there is not much of it left 
 		> Supplies of food were running low.
-	- regardless of N/Ving
-		> For example, swallowing poison will kill any individual, regardless of genetics.
 	- round/around the clock 日以繼夜地 == all day and all night
 		> Doctors and nurses worked round the clock to help those injured in the train crash.
 		> She needed round-the-clock nursing.
@@ -997,13 +923,6 @@
 	- subordinate A to B 把A置於B的次要地位 == A is less important than B
 	- stake one`s claims on == If you stake a claim to something, you say or show that you have a right to it and that it should belong to you
 		> Various countries were staking their claims on the continent at that time.
-	+ so that 為了 == in order that
-	- so as to == in order to == for the purpose of
-		> there is an aethereal medium filling space and permeating bodies, capable of being set in motion and of transmitting that motion from one part to another, and communicating that motion to gross matter so as to heat to and affect it in various ways.
-	- so long as == as long as == if only
-		> the car was available in any color of the rainbow, Ford said, "so long as it is black." 
-	- so to speak 可以這麼說 == used to explain that what you are saying is not to be understood exactly as stated
-		> In that relationship it is very much Lorna who wears the trousers, so to speak
 	- swing for the fences == be going ‘all out’, or giving something their maximum effort.
 		> “Whenever you swing for the fences, the likelihood is, you strike out,” Makovsky said. “But they believe that, even if you don’t get a breakthrough here, this will create a new baseline for future administrations.”
 	- state of the art 發展水平
@@ -1081,7 +1000,6 @@
 		> He took great pains to dress well for the occasion.
 	- take sth at face value 僅憑表像對…信以為真 == to accept something as it appears to be rather than studying it more closely
 		> I took the offer at face value. I did not think they might be trying to trick me.
-	- take sth for example
 	- take sth for granted 把..視為理所當然 == to never think about something because you believe it will always be available or stay exactly the same
 		> I took it for granted that I would find the perfect job.
 		> It’s easy to take your parents for granted.
@@ -1113,14 +1031,12 @@
 	- with abandon 任意 == an action done without concern or an action done carelessly/flippantly.
 		> The drunk girl threw off her clothes with abandon, as the alcohol had lowered her inhibitions.
 		> For punctuation she used dashes "with such abandon" that her manuscripts have constantly frustrated their editors.
-	+ with respect to 關於 == about == concerning
-		> With respect to your request, we regret that we are unable to assist you in this matter.
 	- with sth in mind 對..有所計畫 == to have a plan or intention
 		> Did you have anything in mind for Helen`s present?
-	++ well over == much more than 
+	+ well over == much more than 
 		> it takes a human infant well over a year to learn how to walk.
 		> Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
-	- well into ==  far into something or far along in something.
+	- well into == far into something or far along in something.
 		> Until well into this century, the mentally ill were often targets of suspicion and even hostility.
 	- well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of
 		> He was efficient at his job and well thought of by everyone.
