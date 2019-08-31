@@ -308,7 +308,7 @@
 	- his death was not due to any lack of care
 	- He was found not guilty by reason of insanity.
 	- they moved here because of the baby
-+ inasmuch as 由於
++ **inasmuch as** 由於
 	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
 	- A most unusual astronomer inasmuch as he was deaf mute
 + considering (that) == seeing (that) == given (the fact that) 考慮到/鑒於
@@ -445,7 +445,7 @@
 	- If I go out she gets nasty
 - at that time == at the same time == in the meantime == simultaneously == concurrently == at once == meanwhile 同時
 	- Answer the telephone promptly and try to pick up a pencil and notepad at the same time’
-	- I was reading a book, meawhile listening to the music.
+	- I was reading a book, meanwhile listening to the music.
 + prior to == before 在..之前
 	- she visited me on the day prior to her death
 	- Only two days remained before the examination. 
@@ -477,4 +477,3 @@
 * https://msu.edu/~jdowell/135/transw.html
 * http://writing2.richmond.edu/writing/wweb/trans1.html
 * https://www.english-grammar-revolution.com/list-of-conjunctions.html
-* 
