@@ -756,7 +756,7 @@
 		+ recede (v)後退 = retreat, 逐漸消失 = abate = diminish = blur, 停止生長/禿頭 <|> recess <|> regress <|> repress
 		- recess (v)休息 = repose (n)休息/休會, 凹處, 深處
 		- recession (n)後退/退回/撤回, 經濟的衰退, 凹處
-		- recessive (adj)後退的, 隱性的
+		- recessive (adj)後退的, 隱性的 <|> regressive
 		* /sɪˈsiːd/ secede (v)正式脫離/退出 --> secession (n)脫離/退出
 		*** succeed (v)成功/實現, 繼任/繼承 = accede, 隨後出現/接著發生
 		* success (n)成功
@@ -2103,6 +2103,7 @@
 		* exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
 		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
 		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
+		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的
 		++ prompt (adj)立即的/準時的 = punctual (v)激起/引起, 提示, 鼓勵/激勵 = encourage = inspire = induce = incite
 
 	{esce}, {escent} 開始...的
@@ -3430,7 +3431,7 @@
 	limin, lime 門檻 = threshold
 		+ eliminate (v)消除/消滅, 淘汰/排除 --> elimination (n)消滅, 淘汰/排除
 		* preliminary (adj)初步的 (n)開端, 初試
-		+++ sublime (adj)崇高的/極好的/極美的, 極大的/極強的 = extreme (v)(固體)昇華(氣體)
+		+++ sublime (adj)崇高的/極好的/極美的 = gorgeous, 極大的/極強的 = extreme (v)(固體)昇華(氣體)
 		- subliminal (adj)潛意識的/下意識的
 
 	lign 木頭 = line
@@ -4272,7 +4273,7 @@
 		- adorn (v)裝飾/使有吸引力 = bedeck = embellish <|> adore
 		* ornate (adj)華麗的 = baroque = bravura, 辭藻華麗的
 		++ ornament (n)裝飾品 (n/v)裝飾/修飾  --> ornamental (adj)裝飾的 (n)裝飾品
-		- suborn (v)唆使/收買 = induce = bribe
+		- suborn (v)唆使/收買 = induce = bribe <|> scorn
 
 	ortho, orth 正 = right
 		- /ˌɔːθəˈdɒntɪk/ orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
@@ -4381,7 +4382,7 @@
 		- premeditate --> premeditated
 		+++ premise
 		+ premonition
-		* preoccupied (adj)全神貫注的/入神的 = engrossed = rapt --> preoccupation (n)全神貫注, 使人專注的東西
+		* preoccupied (adj)全神貫注的/入神的 = engrossed = rapt = absorbed --> preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
 		- preposition
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的
@@ -4823,7 +4824,7 @@
 		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
-		* discompose (v)使不安/使煩惱 = disturb = agitate
+		* discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
 		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定
 		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
 		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
@@ -5164,12 +5165,12 @@
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
 		+ /kwɪˈɛsənt/ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
 		- quietude (n)寧靜/寂靜 = clam
-		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 (n)不安/憂慮
+		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 = discompose (n)不安/憂慮
 		- quietus (n)生命的終止/死
 
 	quit 釋放/放棄 = release, discharge
 		- /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 --> acquittal (n)宣判無罪
-		- requite (v)報答/回報 = recompense, 回應(情感) = respond to 
+		- requite (v)報答/報復 = recompense, 回應(情感) = respond to 
 
 	quir, quer, quisit 尋找/取得 = search, obtain == petr
 		- acquire (v)買得/獲得 = buy = obtain, 學到/養成 = learn = develop --> acquired (adj)後天習得的
@@ -5180,7 +5181,7 @@
 		* inquire (v)詢問/打聽, [into]調查 = investigate --> inquiry (n)打聽/質詢, 調查
 		+ inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
 		- inquisition (n)審訊/盤問, 宗教裁判
-		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇
+		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇 = perk = fringe benefit = bonusf
 		- /priːˈrɛkwɪzɪt/ prerequisite (n)必要條件 (adj)必備的/事先需要的/必修的
 		- request (n/v)要求/請求
 		+ /ˈrɛkwɪzɪt/ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物 
@@ -5204,7 +5205,7 @@
 			+ /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/反抗的 (n) <-- re + calcitr 踢 = kick + ant
 			+ recapitulate --> recapitulation
 			- recast (v)重鑄, 更換演員 <-- re + cast
-			- recite --> recitation 
+			* recite --> recitation 
 			- recital
 			+ recluse
 			- recombine (v)重組/再結合 = anew
@@ -5240,7 +5241,7 @@
 			- reinstate (v)復職 = rehabilitate <-- re + in + state
 			+ reiterate (v)重申/反覆地說 <-- re + iterate
 			- rejoice (v)欣喜/高興 = jubilate = exult
-			++ rejoin (v)重新加入 = reunite, 重返/返回 = return, 回答/反駁 --> rejoinder (n)回答/反駁 = response = reply
+			+ rejoin (v)重新加入 = reunite, 重返/返回 = return, 回答/反駁 = riposte --> rejoinder (n)回答/反駁 = response = reply
 			+ rejuvenate
 			+ rekindle (v)再點火 = relight, 使復甦(失去之物) = revive
 			- relapse
@@ -5251,12 +5252,12 @@
 			** relieve --> relieved --> relief
 			* rely (v)[on/upon]依靠/依賴/指望 --> reliance (n)信賴/依賴
 			+ reliable (adj)可信賴的/可靠的 = dependable (n)可信賴的人或物
-			+ reluct (v)反抗/不同意 --> reluctant (adh)不情願的 = averse = unwilling = loath = disinclined --> reluctance (n)不情願 <-- re + luct 掙扎 = struggle
+			+ reluct (v)不情願 --> reluctant (adh)不情願的 = averse = unwilling = loath = disinclined --> reluctance (n)不情願 <-- re + luct 掙扎 = struggle
 			- remain (v)剩下/餘留/保持 <-- re + main 留下 = stay
 			- remains (n)遺址/廢墟, 大體/遺體
 			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的
 			- remainder (n)剩餘物, 餘數, 地產的指定繼承權 (v)削價出售(書)
-			+++ remark (n/v)談到/評論, 注意/覺察 = note = perceive = observe 
+			+++ remark (n/v)談到/評論 = mention, 注意/覺察 = note = perceive = observe 
 			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional - miraculous = phenomenal = significant
 			- remind (v)使想起, 提醒 --> reminder (n)提醒人的事物, 催函/催單
 			* reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
@@ -5264,7 +5265,7 @@
 			+ remiss
 			- remit --> remittance --> remission
 			+ remonstrate
-			+ remunerate (v)給予酬勞 --> remuneration (n)酬報/酬勞 <-- re + muner 給予 = give + ate
+			+/rɪˈmjuːnəreɪt/ remunerate (v)給予酬勞 --> remuneration (n)酬報/酬勞 <-- re + muner 給予 = give + ate
 			- remunerative (adj)有利可圖的/有利潤的 = lucrative, 獲得收入的
 			+ renew (v)繼續 = resume, 重建(關係) = re-establish, 重述/重申 = repeat, 補充/加強, 展期, 替換 = replace
 			* renovate (v)裝修/翻新 <-- re + nov 新 = new + ate
@@ -5275,7 +5276,7 @@
 			+ repine (v)不滿/埋怨 = fret = complain = grouse = grumble <-- re + pine
 			- replenish
 			+ replete
-			+ replicate
+			+ replicate --> replica
 			+ repose
 			++ /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
 			++ reprobate
@@ -5307,7 +5308,7 @@
 			- resuscitate
 			- retail
 			+ retain --> retainer
-			- retard (v)妨礙/延遲 (n)弱智 <-- re + tard 遲緩 = slow
+			- retard (v)妨礙/延遲 (n)弱智 <|> dastard <-- re + tard 遲緩 = slow
 			- retell (v)重述
 			+ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			- retinue
@@ -5332,27 +5333,27 @@
 			- rebel --> rebellion --> rebellious
 			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
 			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
-			- rebut (v)反駁 = disprove = invalidate = negate = deny = refute --> rebuttal (n)反駁/反證 <-- re + but
+			- rebut (v)反駁 = disprove =  = invalidate = negate = deny = refute --> rebuttal (n)反駁/反證 <-- re + but
 			- recall (n/v)回想/回憶 = remember, 收回/叫回/召回 = countermand = withdraw <-- re + call
 			+ recant --> recantation
-			+ recede
+			+ recede --> recession --> recessive
+			- recess
 			- receive --> receipt 
 			- reception 
 			+ receptive
 			- recipient
 			- receptacle
-			- recess --> recession --> recessive
 			+ recipe (n)食譜, 訣竅/方法
 			* reciprocate (v)給予適當的回應, 感同身受, 往復運動 <-- re + ci + pro + cate
 			+ reciprocity (n)對等/互惠 --> reciprocal (adj)回報的/報答的, 相互的/互惠的, 倒數的 (n)倒數 <-- reciprocate
 			- reclaim
-			++ recoil (v)退縮/畏懼 = flinch, 彈回, [on/upon]產生反作用 (n)彈回/跳回 <-- re + coil
+			++ recoil (v)退縮/畏懼 = flinch, 彈回, [on/upon]產生反作用給 (n)彈回/跳回 <-- re + coil
 			- recollect (v)回憶/記起 = recall, [oneself]使冷靜 --> recollection (n)記起, 回憶/往事 = memory
 			+ recondite
 			- recur
 			* recourse
 			- recumbent
-			+++ redeem (v)償還/還清 = compensate, 彌補 = atone = make amends = offset, 救贖/解救, 買回/贖回, 兌現/兌換現金, 履行 = fulfill = carry out  <-- re + deem 買 = buy
+			+++ /rɪˈdiːm/ redeem (v)償還/還清 = compensate, 彌補 = atone = make amends = offset, 救贖/解救, 買回/贖回, 兌現/兌換現金, 履行 = fulfill = carry out  <-- re + deem 買 = buy
 			- redeeming (adj)補償的, 救贖的
 			- redemption (n)救贖, 救贖之物, 贖回
 			- redemptive (adj)救贖的
@@ -5361,7 +5362,7 @@
 			- refract --> refaction
 			+ refractory
 			+ refuge --> refugee
-			+ refute (v)駁斥/反駁 = repudiate = contradict = disprove --> refutation (n)駁斥/反駁 <-- re + fute 打 = beat
+			+ refute (v)駁斥/反駁 = repudiate = contradict --> refutation (n)駁斥/反駁 <-- re + fute 打 = beat
 			+ regret (n/v)後悔/遺憾 --> regrettable (adj)令人遺憾的 = undesirable = unwelcome
 			- regress --> regressive
 			*** relate
@@ -5371,7 +5372,7 @@
 			+ relinquish
 			* remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence = ruth --> remorseful (adj)懊悔的 = sorry = penitent = repentant = contrite < -- re + morse 咬 = bite
 			- remove (v)移走, 脫掉, 遷移, 廢除 = abolish, 解僱 = dismiss, [be removed from]離..很遠/跟..很不同 (N)距離/間隔
-			+++ render (v)提供 = furnish = supply, 呈遞 = present = submit, 作出(判決) = deliver, 放棄 = surrender = give up, 變成/使 = make, 表達/描繪 = represent = depict, 演奏 = perform, 翻譯 = translate, 煎熬/提取(脂肪), [建]給……抹灰打底 (n)底灰 <-- re + n + der 提供 = give
+			+++ render (v)提供 = furnish = supply, 呈遞 = present = submit, 作出(判決) = deliver, 放棄/讓出 = surrender = give up = yield, 變成/使 = make = become, 表達/描繪 = represent = depict, 演奏 = perform, 翻譯 = translate, 煎熬/提取(脂肪), [建]給……抹灰打底 (n)底灰 <-- re + n + der 提供 = give
 			- rendering (n)演出 = performance, 翻譯 = translation, 描繪 = depiction, 抹灰泥, 灰泥層, 交出/歸還 = surrendering
 			+ renege
 			- renegade
@@ -5391,7 +5392,7 @@
 			- reprieve (n/v)緩刑, 暫緩/暫免
 			+ reproach
 			- reprove --> reproof
-			+ repudiate (v)拒絕/否認 = deny = abnegate, [法]拒絕接受或履行 <-- re + pudi 放 = put + ate
+			+ repudiate (v)拒絕/否認 = refute = deny = abnegate, [法]拒絕接受或履行 <-- re + pudi 放 = put + ate
 			+ repugnant --> repugnance
 			- repulse ---> repulsion
 			- /ˈrɛskjuː/ rescue (n/v)解救 (v)取回 = retrieve <-- re + scue 捨棄 = discard
@@ -5402,13 +5403,13 @@
 			+ respite
 			+ restive --> restiveness
 			- restless
-			+++ retaliate (v)報復/反擊 = riposteor = retort --> retaliation (n)報復 = counter-attack = revenge = reprisal <-- re + tali 如此 = such + ate
+			+++ retaliate (v)報復/反擊 = fight back --> retaliation (n)報復 = counter-attack = revenge = reprisal <-- re + tali 如此 = such + ate
 			*** /rɪˈtalɪətri/ retaliatory (adj)報復性的
-			+ retire (v)退休, 退隱, 後退/撤退 = retreat, 就寢 --> retiring (adj)害羞的/不喜社交的 = reserved <-- re + tire 拉 = draw
+			++ retire (v)退休, 退隱, 後退/撤退 = retreat, 就寢 --> retiring (adj)害羞的/不喜社交的 = reserved <-- re + tire 拉 = draw
 			* retort
 			- retrace (v)折返 = go back over, 追溯/探究…的源流 <-- re + trace
 			+ retract
-			+ retreat (n/v)撤退/退隱 = retite, 改變心意, (股票)貶值 = decline (n)撤退信號, 降旗號, 隱退處/休養所
+			+ retreat (n/v)撤退, 退隱 = retire, 改變心意 = realign, (股票)貶值 = decline (n)撤退信號, 降旗號, 隱退處/休養所
 			+ retrench (v)緊縮開支/緊縮/減少 <-- re + trench 切掉 = cut
 			- retribution
 			- /ˈrɛv(ə)l/ revel (n/v)狂歡/歡宴 (v)[in]著迷 --> revelry (n)(吵鬧的)狂歡/歡宴 = bacchanalia = orgy <|> reveal <-- rebel
@@ -5447,7 +5448,7 @@
 		- radix (n)(數學)根, (植物)根
 
 	rog 要求/說 = ask, beg
-		+ abrogate (v)廢除/廢止 = repeal = abolish = revoke, 逃避(責任) = evade
+		++ abrogate (v)廢除/廢止 = repeal = abolish = revoke, 逃避(責任) = evade
 		+ arrogate (v)霸佔/僭越/擅取 <|> abrogate
 		+ arrogant (adj)傲慢的 = bossy = dictatorial = overweening = overbearing = conceited = haughty = supercilious = pompous = portentous = petulant = presumptuous = imperious = insolent = magisterial --> arrogance (n)傲慢/自大
 		- interrogate (v)質問 = examine = inquire, 獲取資料 --> interrogative (adj)審問的, 疑問句的 (n)疑問詞
@@ -5480,15 +5481,15 @@
 		+ /ˌsʌrəpˈtɪʃəs/ surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
 
 	respond 反應
-		*** correspond (v)符合/一致, 相當/相應, 通信
+		*** correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
 		* correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
 		- respond (v)作答/回答/作出反應
 		- response (n)反應/回響/回答
 		- responsive (adj)反應積極的/響應的 --> responsiveness (n)反應積極/響應
-		*** responsible (adj)[for]負責../掌管.., [for]對..負責任/應對…承擔責任 [to]向..負責, 責任重大的, 負責可靠的 = trustworthy
+		*** responsible (adj)[for]負責../掌管.., [for]對..負責任/應對…承擔責任, [to]向..負責, 責任重大的, 負責可靠的 = trustworthy
 
 	robor 力量 = strength, strong
-		+ corroborate (v)證實/確證 = authenticate = confirm = substantiate  --> corroborant (adj)確證的 (n)確證的事實
+		+ corroborate (v)證實/確證 = authenticate = confirm = substantiate --> corroborant (adj)確證的 (n)確證的事實
 		- roborant (adj)起強壯作用的 (n)強壯劑
 
 	rod, ros 咬/侵蝕 = gnaw
@@ -5589,7 +5590,8 @@
 			+ subordinate
 			- suborn
 			+ /səˈpiːnə/ subpoena (n)傳票 (v)傳喚/傳訊 <-- sub + poena 懲罰 = penalty
-			+ subrogate --> surrogate
+			- subrogate
+			+ surrogate
 			- subsequent
 			+ subservient --> subservience
 			+ subside
@@ -5612,7 +5614,6 @@
 			- suffice --> sufficient
 			- suffocate (v)使窒息而死 = asphyxiate = stifle, 感到壓迫
 			- suffuse
-			- summon
 			+ supplant (v)接替/取代 = supersede = replace = substitute <|> suppliant
 			+ supple
 			+ supplement
@@ -5620,7 +5621,6 @@
 			+ suppress --> suppression
 			+ surrender (v)投降, 放棄/交回 = give up = hand over, [to]使沉溺於(情緒) (n)投降, 引渡
 			+ surreptitious
-			+ surrogate
 			- suspend --> suspension --> suspense
 			+ suspect
 			- suspicion --> suspicious
@@ -5635,10 +5635,11 @@
 		1. 超過/超 = beyond. exceed
 			- superable (adj)可克服的
 			+ insuperable
-			- /suːˈpəːb/ superb (adj)上乘的/出色的 = excellent, 宏偉的/華麗的
+			- /suːˈpəːb/ superb (adj)上乘的/出色的 = excellent = admirable = exquisite = marvelous = sublime = superior = superlative, 宏偉的/華麗的
 			+ supercilious (adj)目中無人的/傲慢的 = haughty = contemptuous = arrogant <-- super + cili 眼皮/眉毛 = eyelid, eyebrow + ous
 			+++ superfluous --> superfluity
 			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> superiority (n)優越/優勢/上等
+			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級的字
 			- supernova (n)超新星
 			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最大的/極度的 --> supremacy (n)至高無上/霸權
 			- supremacist (n)至上主義者 (adj)至上主義的
@@ -5647,12 +5648,12 @@
 			+ surfeit
 			- surmise
 			+++ surpass (v)超過 = exceed = transcend, 超越 = transcend = excel = outstrip = outweigh = prevail over
-			- surplus (adj)過剩的 = excess = superfluous, 盈餘的 (n)過剩, 盈餘
+			- surplus (adj)過剩的 = excess = superfluous, 盈餘的 (n)過剩 = plethora, 盈餘
 			- surrealism (n)超現實主義
 			- survive
 
 		2. 上 = over, above
-			+ superficial (adj)淺薄的/膚淺的, 表面上的/表層的 --> superficiality (n)淺薄
+			+ superficial (adj)淺薄的/膚淺的 = cursory, 表面上的/表層的 --> superficiality (n)淺薄
 			- superimpose
 			- superintend
 			+ supersede
@@ -5664,47 +5665,48 @@
 
 	sol
 		1. 習慣 = accustom
-			+ insolent (adj)傲慢的/專橫的 = overbearing = imperious = domineering = arrogant = peremptory <|> indolent
+			+ insolent (adj)粗魯無禮的 = impertinent = impudent = ill-mannered = uncivil <|> indolent
 			+ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
-			+ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
+			+ /ˌɒbsəˈlɛs(ə)nt/ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
 		2. 安慰 = soothe
-			* console (n)控制台/儀表板 (v)安慰/撫慰 = comfort --> consolation (n)安慰/慰藉
-			- solace (n)安慰/慰藉
+			* console (n)控制台/儀表板 (v)安慰/撫慰 = assuage = soothe = comfort --> consolation (n)安慰/慰藉
+			- solace (n)安慰/慰藉 = consolation (v)給..慰藉
 
 	soli, sol 孤單/整個 = alone, whole
-		** desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely, 憂鬱的 = dreary = gloomy = dismal = plaintive = morose = melancholy (v)破壞 = devastate拉客
-		*** solicit (v)請求/懇求 = beseech = entreat = woo = implore = crave = urge, 乞求, 拉客
-		+ solicitude (n)關懷/牽掛
+		** desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely (v)使荒涼, 使痛苦
+		*** solicit (v)請求/懇求/乞求 = beseech = entreat = woo = implore = crave = urge, 拉客 = accost
+		+ solicitude (n)關懷/牽掛 = care = concern
 		+ /səˈlɪsɪtəs/ solicitous (adj)關切的/熱切期望的
 		+ soliloquy
-		- solipsism (n)唯我主義
-		* solitary (adj)單獨的/獨自的 = isolated = insular = sporadic, 隔絕的, 非群居的, 單一的/唯一的 (n)隱士, 單人牢房
-		+ solitude (n)孤獨/寂寞/隱居 = seclusion, 冷僻/荒涼之地
-		- solo (n)獨唱/獨奏 (adj)單獨的
+		- solipsism (n)唯我論
+		*** solitary (adj)單獨的/獨自的 = isolated = insular = sporadic, 隔絕的, 非群居的, 單一的/唯一的 = single = only (n)隱士 = recluse = hermit, 單人牢房
+		+ solitude (n)孤獨 = seclusion, 冷僻/荒涼之地
+		- solo (adj)獨自的 = solitary (adv)獨自 (v)獨唱/獨奏, 單飛 --> solos (n)獨唱/獨奏, 單飛
 
 	solid 結實 solidarity
 		+ consolidate (v)鞏固/加強 = solidify = strengthen, (企業)合併/聯合 = coalesce = unite = combine --> consolidation (n)鞏固, 合併
-		- solidity (n)堅硬/固態, 堅牢/確實
-		- solidify (v)使固化/使凝固, 穩固/鞏固
+		- solidity (n)堅硬/固態 = durability, 可靠/確實 = reliability
+		- solidify (v)使固化/使凝固, 穩固/鞏固 = reinforce
 		+ solidarity (n)團結/團結一致
 
 	solv, solu 溶解/釋放/鬆開 = dissolve, loosen, free, release
-		+ absolve (v)赦免 = acquit
-		* absolute (adj)完全的/絕對的 = complete = implicit, 無限制的 = unlimited = categorical
-		++ dissolve (v)(使)溶解, 使終結, 弄明白
-		++ dissolution (n)溶解, 解除/解散/潰散/中止 = disintegration = debauchery, 放蕩 = dissipation = debauchery
-		* dissolute (adj)放蕩的/放縱的 = profligate = licentious
+		+ absolve (v)使免受罰 = acquit, 赦免 = give absolution for
+		* absolute (adj)完全的/徹底的 = complete = implicit = sheer = outright, 無條件的/無限制的 = unconditional = unlimited = categorical = unqualified, 絕對的/非相對的
+		++ dissolve (v)(使)溶解, 消失 = disappear, 解散/潰散 = close down = dismiss, 使終結
+		++ dissolution (n)溶解, 解散/潰散 = disintegration = decomposition, 放蕩 = dissipation = debauchery
+		* dissolute (adj)放蕩的/放縱的 = profligate = licentious <|> dissolution
+		+++ resolve (v)決心/決定 = purpose, 解決/解答, 投票表決, 使分解 (n)決心 = determination 
+		+ resolute (adj)堅決的 = adamant = unyielding = inflexible
+		+ resolution (n)決心, 決定, 解決/解答, 分解/解析, 具象化
+		- soluble (adj)可溶的, 能解決的
 		- insoluble (adj)不溶解的, 不能解決的
-		+ insolvent (adj)無力償還的 (n)無力還償者 --> insolvency (n)無力償還 = bankruptcy 
-		+++ resolve (v)決心/決定 = purpose, 解決/解答, 投票表決, 使分解 --> resolute (adj)堅決的 = adamant = unyielding = inflexible
-		+ resolution (n)決心/決定, 分解/解析, 解決/解答
-		- soluble (adj)可溶的
 		+ solvent (adj)有償付能力的, 有溶解力的 --> solvency (n)償債能力, 溶解力
+		+ insolvent (adj)無力償還的 (n)無力還償者 --> insolvency (n)無力償還 = bankruptcy 
 
 	sorb 吸收 = swallow, suck in
-		- absorb (v)吸收(衝擊/液體), 理解 = assimilate, 吸引...的注意, (公司)合併 --> absorbed (adj)專注的
-		- absorption (n)吸收, 全神貫注
+		- absorb (v)吸收, 使用/佔據 = use = take up, [be absorbed in]吸引...的注意 --> absorbed (adj)被吸收的, 全神貫注的 = preoccupied = rapt = engrossed
+		- absorption (n)吸收, 全神貫注 = concentration
 
 	sept 細菌/腐爛的 = rotted
 		- antiseptic (adj)消過毒的/無菌的 = aseptic (n)防腐劑, 殺菌劑/消毒劑
@@ -6154,14 +6156,14 @@
 	sum 總數
 		+ consummate (adj)高明的/熟練的 (v)完婚, 使圓滿/使完美/完成 = fulfill = complete 
 		* summary (n)總結/概要/摘要 
-		- summon (v)召集/傳喚, 鼓起(勇氣)
+		- summon (v)召集/傳喚 = rally, 鼓起(勇氣)
 
 	sicc 乾 = dry
 		+ /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate --> desiccated (adj)乾的/乾燥的/脫水的, 無趣的/毫無新意的 = uninteresting
 		- siccative (adj)乾燥的 (n)乾燥劑
 
 	sip 丟/味道 = throw, sapid == ject
-		+ dissipate (v)消失/使消失, 散開 = disperse = scatter, 揮霍 = waste = squander 
+		+ dissipate (v)消失/使消失, 散開 = disperse = scatter, 揮霍 = waste = squander --> dissipation (n) = dissolution
 		+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
 
 	stin, sti, sting, stig, stimul 刺 = prick
