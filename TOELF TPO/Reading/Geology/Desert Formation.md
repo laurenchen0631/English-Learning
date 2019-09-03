@@ -34,7 +34,7 @@ The extreme seriousness of desertification results from the vast areas of land a
 	- 主詞 |A noun or noun phrase functioning as one of the main components of a clause, being the element about which the rest of the clause is predicated.| 
 	- 主體/主觀意識 |A thinking or feeling entity; the conscious mind; the ego, especially as opposed to anything external to the mind.| 
 + subject to 
-	- 易受...影響的 |Likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one)| he was subject to bouts of manic depression
+	- 易受...影響 |Likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one)| he was subject to bouts of manic depression
 	- 使蒙受/使經歷 |Cause or force someone or something to undergo (a particular experience or form of treatment, typically an unwelcome or unpleasant one)| he'd subjected her to a terrifying ordeal
 	- 取決於/視…而定 |Dependent or conditional upon.| the proposed merger is subject to the approval of the shareholders
 	- ADV 取決於 |Conditionally upon.| subject to the EC's agreement, we intend to set up an enterprise zone in the area
