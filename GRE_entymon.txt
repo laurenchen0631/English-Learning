@@ -360,7 +360,7 @@
 		- armor (n)裝甲
 		- armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
 		* armorial (adj)紋章的/徽章的 (n)紋章書
-		- armistice (n)停戰/休戰
+		- armistice (n)停戰/休戰 <-- arm + stice 停止 = stop
 		- disarm (v)繳械, 使緩和
 		- firearm (n)槍枝
 
@@ -1956,7 +1956,7 @@
 		- engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
-		+ enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe, [法]禁止 <|> enjoy
+		+ enjoin (v)命令/吩咐 = ordain = enjoin = dictate = prescribe, [法]禁止 <|> enjoy <|> rejoin
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
 		- enlist (v)徵兵, 謀取...贊助或支持
 		- enliven (v)使活躍 <-- en + life + en
@@ -1968,7 +1968,7 @@
 		- /ɪnˈskɒns/ ensconce (v)安置/安頓 = en + sconce 木堆 = bundle of wood
 		- ensemble
 		- ensign (n)旗/軍旗
-		- ensue
+		* ensue (v)接著發生/接踵而來, 產生 --> ensuing (adj)接連發生的 <-- en + sue 跟隨 = follow
 		- ensure (v)保證/擔保, 保護
 		+ entail
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
@@ -5300,7 +5300,7 @@
 			+ resplendent (adj)華麗的 <-- re + splend 發光 = shine + end
 			- respond --> reponse --> responsive --> responsiveness
 			- restitution
-			+ restore (v)使回復/恢復 = bring back = re-establish, 復職 = reinstate = rehabilitate, 翻修, 歸還 --> restored (adj)
+			+ restore (v)使回復/恢復 = bring back = re-establish, 復職 = reinstate = rehabilitate, 翻修, 歸還 --> restored (adj) --> restoration (n)
 			+ restrain --> restraint
 			- resume
 			+ resurge --> resurgence --> resurgent
@@ -5338,8 +5338,7 @@
 			+ recant --> recantation
 			+ recede --> recession --> recessive
 			- recess
-			- receive --> receipt 
-			- reception 
+			- receive --> receipt --> reception 
 			+ receptive
 			- recipient
 			- receptacle
@@ -5455,7 +5454,7 @@
 		* derogate (v)[from]貶損 = detract from, [from]背離/違背, 誹謗 = disparage = denigrate = slur = calumniate
 		+ derogative, derogatory (adj)貶低的
 		- rogation (n)祈禱
-		- prerogative (n)特權 = privilege, 特質 = faculty = property
+		- prerogative (N)特權 = privilege, 特質 = faculty = property
 		- subrogate (v)(擔保人代償債務後)取代(債權人)
 		+ surrogate (n)代理者/代理人 = substitute, 代理孕母 = surrogate mother (adj)代孕的
 
@@ -5524,7 +5523,7 @@
 
 	reg, regul, reign 統治
 		+ interregnum (n)無王時期/空位期, 過渡期
-		- regal (adj)帝王的, 莊嚴的/堂皇的	`
+		- regal (adj)帝王的, 莊嚴的/堂皇的
 		+ /reɪˈʒiːm/ regime (n)政體/政權, 社會制度
 		- regimented (adj)嚴格組織的/嚴格控制的
 		+++ regulate (v)管理/控制, 校準 --> regulation (n)規章/規則, 管理/控制 (adj)正規的/正式的, 公式化的 = formulaic
@@ -5539,7 +5538,7 @@
 		- rapid (adj)快的/迅速的/極速的
 		- rapids (n)急流/湍流 <-- rapid
 		* rapt (adj)著迷的/痴迷的/全神貫注的 = preoccupied = enraptured --> rapture (n)著迷/痴迷, 狂喜, 被提(基督教末世論中的一種概念，認為當耶穌再臨之前，已死的信徒將會被復活高升)
-		- ravish (V)使陶醉/使狂喜 = enrapture, 強姦 = rape
+		- ravish (V)使陶醉/使狂喜 = enrapture, 強姦 = rapes
 		** rave (n/v)胡言亂語, 狂罵/咆哮 = rant, 狂熱讚揚/極力誇獎, 參加狂歡聚會 (n)狂熱讚揚/極力誇獎, 狂歡聚會/銳舞舞會
 		*** ravage (v)嚴重傷害 --> ravages (n)蹂躪, 破壞
 		+ raven (v)狼吞虎嚥地吃 (n)渡鴉 (adj)烏亮的/墨黑的
@@ -5556,7 +5555,7 @@
 		- rubicund (adj)紅潤的 = reddish = ruddy
 		- ruby (n)紅寶石, 紅寶石色/暗紅色
 		- ruddy (adj)紅潤的
-		+ /ˈruːbrɪk/ rubric (n)用紅字印刷的題目/文章章節的標題 = title = heading, 類別 = category,  習俗/成規
+		+ /ˈruːbrɪk/ rubric (n)用紅字印刷的題目/文章章節的標題 = title = heading, 類別 = category, 習俗/成規
 
 	rur, rust 鄉村 = country
 		* rural (adj)鄉村的/農村的 = bucolic = rustic = pastoral = idyllic = provincial
@@ -5666,7 +5665,7 @@
 	sol
 		1. 習慣 = accustom
 			+ insolent (adj)粗魯無禮的 = impertinent = impudent = ill-mannered = uncivil <|> indolent
-			+ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 (v)使淘汰
+			+ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 = regressive (v)使淘汰
 			+ /ˌɒbsəˈlɛs(ə)nt/ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
 		2. 安慰 = soothe
@@ -5696,7 +5695,7 @@
 		++ dissolve (v)(使)溶解, 消失 = disappear, 解散/潰散 = close down = dismiss, 使終結
 		++ dissolution (n)溶解, 解散/潰散 = disintegration = decomposition, 放蕩 = dissipation = debauchery
 		* dissolute (adj)放蕩的/放縱的 = profligate = licentious <|> dissolution
-		+++ resolve (v)決心/決定 = purpose, 解決/解答, 投票表決, 使分解 (n)決心 = determination 
+		+++ resolve (v)下決心/決定 = purpose, 解決/解答, 投票表決, 使分解 (n)決心 = determination 
 		+ resolute (adj)堅決的 = adamant = unyielding = inflexible
 		+ resolution (n)決心, 決定, 解決/解答, 分解/解析, 具象化
 		- soluble (adj)可溶的, 能解決的
@@ -5728,7 +5727,7 @@
 		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
 		+ extant (adj)現存的/尚存的 = surviving <--> extinct
 		- hemostat
-		- instant (adj)立即的, 速食的/即溶的, 迫切的 = urgent = pressing, 當月的  (n)現在, 瞬間/頃刻 = moment, 即溶咖啡
+		- instant (adj)立即的, 速食的/即溶的, 迫切的 = urgent = pressing, 當月的 (n)現在, 瞬間/頃刻 = moment, 即溶咖啡
 		- /ˌɪnst(ə)nˈteɪnɪəs/ instantaneous (adj)瞬間的/即時的
 		- instate (v)任命/安置 = install = establish <--> reinstate
 		+ institute (v)建立/制定, 提出(訴訟), [宗]任命 = appoint (n)研究所/學院/協會 --> institution (n)組織/協會, 制度/習俗, 建立/設立
@@ -5745,69 +5744,65 @@
 		- stagnate (v)淤塞, 停滯 --> stagnant (adj)淤塞的, 停滯的/懶散的 = dull = sluggish --> stagnation (n)淤塞, 停滯
 		- staid (adj)沉著的/穩重的 = dignified = sober = solemn = somber <-- stays
 		- stay (v)停留/留下/保持, 堅持/忍耐 (n)逗留, 制止/遏止, 胸衣
-		- stance (n)站姿, 立場
-		+ stanch (v)止血, 使不流失
-		- stanza (n)詩節/詩段
-		+ stasis (n)停滯/靜止 = stagnation, 瘀血
-		+ static (adj)靜態的/固定的/靜止的, 呆板的
-		- station (n)站/所/局/署, 身分/地位, 崗位/站立的位置 (v)駐紮/部署
-		- stationary (adj)靜止的/不動的
-		- statue (n)雕像
-		- statuary (n)雕像, 雕塑藝術
-		- stature (n)聲望 = prestige, 身高
-		- status (n)社會地位, 狀態/近況
-		- statute (n)法令/法規 = canon --> statutory (adj)法點的/受法令約束的
-		- stead (n)代替/接替, 用處/利益
-		+ steady (adj)穩固的/平穩的/穩定的/鎮靜的, 紮實的/可靠的 (v)使穩固/使鎮定 (n)關係確定的情侶
+		- stance (n)站姿, 立場 = standpoint
+		++ stanch, staunch (v)止血 (adj)忠誠的 = loyal, 堅固的(牆壁)
+		- stanza (n)詩節/詩段 = verse
+		+ stasis -> stases (n)停滯/靜止 = inactivity = equilibrium, 瘀血
+		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
+		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
+		- stationary (adj)靜止的/不動的, 不變的
+		- statue (n)雕像 = sculpture = statuary <|> statute
+		- statuary (mn)雕塑
+		- stature (n)聲望 = reputation = prestige, 身高
+		- status (n)地位 = standing = station, 狀態 = situation, 近況
+		- statute (n)法令/規範 = canon --> statutory (adj)法定的
+		- stead (n)代替/接替
+		+ steady (adj)平穩的, 穩定的/不變的, 沉著的/可靠的 = sensible = reliable (v)使穩固/使鎮定 (n)關係確定的情侶
 		+ steadfast (adj)堅定的/不動搖的 = adamant = faithful = resolute = rigid
-		- subsist (v)活下去/維持生活/存在 --> subsistence (n)生存/生計, 生存手段, 法律效力
-		- substance (n)本旨/主旨/真意, 實質/本質/實體, 物質
-		+++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 富裕的, 真實的/實在的 = real = tangible, 基本上的 = basic = essential = fundamental, 
-		++ substantiate (v)證實/確證 = bear out = establish = vindicate = corroborate, 賦予實體, 加強 = strengthen
-		+ substantive (adj)根本的 = essential, 獨立存在的
+		- subsist (v)維持生計/勉強生存, [in]歸因於 --> subsistence (n)生存/生計, 生存手段
+		- substance (n)物質, 實體, 實質/本質, 重要, 依據 = basis, 可靠/沈著, 財產/財物
+		+++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 富裕的, 真實的/實在的 = real = tangible, 基本的 = basic = essential = fundamental
+		+ /səbˈstanʃɪeɪt/ substantiate (v)證實/確證 = corroborate = affirm = demonstrate = justify = prove = bear out 
+		+ substantive (adj)重大的, 獨立存在的 (n)名詞 <|> substantial
 		* substitute (v)用…代替/取代 = supersede = supplant (n)替代品
 		- superstition (n)迷信
 
 	struct 建立 = erect
-		- construct (v)建造/構築 (n)構想/編造/杜撰
-		- destruction (n)毀滅/消滅
-		- instruct (v)教授/指導, 命令/吩咐, 通知/告知 --> instructive (adj)傳授知識的/啟蒙的
-		- obstruct (v)阻塞/堵塞, 阻止/阻撓/妨礙
+		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念
+		- destruction (n)毀滅/消滅, 毀滅的原因
+		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
+		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
 
 	stall 放 = put, place == the == pos
 		* install (v)安裝/裝置, 使就職 = induct = inaugurate
 		+ forestall (v)預先阻止 = hinder/prevent/thwart in advance, 搶先行動/預先做 = anticipate
-		+ stall (n)欄/廄/柵, 貨攤/攤位, 車位, 熄火/拋錨/失速 (v)關入畜舍, 使陷入泥潭/使動彈不得, 使拋錨/使失速
-
-	stice 停止 = stop <-- stit
-		- armistice (n)停戰/休戰 = truce
+		+ stall (n)欄/廄/柵, 貨攤/攤位, 車位, 正廳前座區, 熄火/拋錨/失速 (v)拋錨, 停止進展, 支吾其詞 = prevaricate, 拖延 = delay, 關入畜舍
 
 	strophe 轉 = turn
 		- apostrophe (n)(表示省略或所有格)撇號
-		- strophe (n)詩節
-		- catastrophe (n)大災難 = apocalypse = cataclysm
+		- strophe (n)詩節 = verse = stanza
+		- catastrophe (n)大災難 = apocalypse = cataclysm = disaster, 悲劇的結局 = denouement
 
 	scribe, script 寫 = write == graph
-		+ ascribe (v)歸功於/歸咎於 = attribute
-		* conscribe (V)徵召入伍 = recruit = conscript
-		+ conscript (v)徵召入伍 = conscribe
+		+ ascribe (v)歸功於/歸咎於 = attribute = impute
+		+ conscript (v)徵召入伍 = enlist (n)應徵入伍者
 		+ circumscribe
 		- inscribe (v)題寫/刻寫/在某物上寫, 題贈
 		- manuscript
-		- prescribe (v)規定/命令/指定 = direct = dictate = appoint = ordain = enjoin, 開處方 --> prescription (n)處方
+		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin --> prescription (n)處方, 命令/指示
 		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce
-		- scribble (v)亂寫/亂塗 
-		- script (n)劇本/腳本
+		- scribble (n/v)亂寫/亂塗 
+		- script (n)手跡/筆跡, 劇本/腳本 (v)編寫
 		- scripture (n)權威性著作/經文/聖典
-		+ transcribe (v)抄寫/轉錄
+		+ transcribe (v)抄寫/謄寫, 轉譯, 改編(樂曲)
 
 	spect, spec, speci, spic, spex, spite 看 = look, watch == mir
-		- aspect (n)面向, 觀點, 外觀/樣子, 方位/面向, 時態
-		+ auspices (n)資助/保護/支持 = agies = patronage --> auspicious (adj)吉利的 = propitious <--> ominous
-		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = eminent = striking, 引人注目的 <|> conscious
-		* despise (v)輕視/鄙視 = contempt = spurn
+		*** aspect (n)方面 = part = feathure, 觀點, 外表/外觀, 方位/面向, [文]體/時態
+		+ /ˈɔːspɪsɪz/ auspices (n)[under the auspices of]保護/支持 --> auspicious (adj)吉利的 = propitious = favorable <--> ominous
+		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
+		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
-		+++ despite (n)惡意/怨恨 = malice = hatred = spite, 辱罵 = insult (prep)雖然/儘管 = in spite of
+		+++ despite (N)輕視/鄙視 = contempt = disdain (prep)雖然/儘管 = in spite of
 		- inspect (v)檢查/審查/檢閱 --> inspection (n)檢查/細看
 		+ introspect (n)內省/自省 --> introspective (adj)自省的
 		- perspective (adj)透視的 (n)看法/觀點透, 遠景/展望, 視圖/透視圖法
@@ -6019,9 +6014,6 @@
 
 	sort 種類 = kind
 		- assorted (adj)混雜的 = mixed
-
-	sue 跟隨 = follow
-		- ensue (v)接著發生/接踵而來, 產生 --> ensuing (adj)接連發生的
 
 	suage 甜 = pleasant, sweet
 		+ assuage (v)減輕/緩和 = alleviate = allay

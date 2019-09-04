@@ -8,7 +8,7 @@ Secondly, knowing the truth of oneself stimulate people to advance. People might
 From the above, my idea that you should got is that telling the truth is the most significant behavior in the relationship. For one thing, telling the truth constructs a permanent relationship. And another thing, telling people the truth helps boosting themselves to achieve to be better. Considering the reasons, there are no factor which is as influential as telling the truth.
 
 ## Review
-It is a highly debated issue whether telling the truth is the most pivotal consideration in people's relationship. As far as I am concerned, I agree with *it*. Among countless factors which support my points, there are two conspicuous aspects as follows.
+It is a highly debated issue whether telling the truth is the most pivotal consideration in people's relationship. As far as I am concerned, I agree with *it*. Among countless factors which support my *contention*, there are two conspicuous aspects as follows.
 
 To begin with, endless relationship is based on trust. Some relationship will meet its end sooner or later, but, however, some friends are maintained for a prolonged time, even forever. In fact, what makes the difference is if the person is trustworthy or not. In other words, you never confide your fear or embarrassment to the one you don't trust. As an illustration of my experience, I lost *a long-term friendship* that *associated with my male intimate who hadn't contact me once due to my dishonesty*. *We used to share the thought of many subjects and, also, private things by the time that I pursued a girl who I revealed many things including mine and, also, his for acquiring her affection.* Subsequently, *there are some negative rumors that I didn't acknowledge as my wrongdoing about him*. No sooner had we graduated, he hadn't contact me once. *After a while, I heard that he actually was acquainted* with the girl that disclose what I had told her. **Up to now I still regret that I didn't confess the truth that I leaked his secret.**
 
@@ -19,12 +19,12 @@ From the above, my idea that you should got is that *being honest* sis the most 
 ## Vocab
 + point 論點 == argument == contention 
 + clear == conspicuous == apparent == obvious == evident
-+ trust == confidence == faith == belief
++ trust == confidence == faith == belief == credence
 - truth == authenticity == veracity == truthfulness
 - lose == drop == be deprived of 
 - associate 與..有關連 == be involved with 
 - talk == schmooze == communicate == exchange == interact == speak == tell
-+ wrongdoing 壞事 == misbehavior == evil == sin == crime == 
++ wrongdoing 壞事 == misbehavior == evil == sin == crime
 - find == perceive == observe == realize == recognize == feel
 + true == real == bona fide == genuine == authentic == honest
 - disclose = expose == uncover
@@ -37,6 +37,7 @@ From the above, my idea that you should got is that *being honest* sis the most 
 + important == critical == crucial == essential == influential == significant
 - help == benefit == aid == assist == bolster == further == support == encourage
 - endless == continuous == eternal == interminable == perpetual
++ reason == cause == justification == basis == rationale == purpose == point
 
 ## Question:
 Do you agree or disagree with the following statement? 

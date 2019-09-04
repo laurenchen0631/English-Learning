@@ -4373,10 +4373,23 @@
 		> |(of a letter, figure, or symbol) written or printed above the line.|
 		> |A superior letter, figure, or symbol.|
 		> 更靠近頭/更遠離腳的 |(Anatomy) Further above or out; higher in position.|
-
-	+ subject to
-		> 可能會經歷 |likely to experience or suffer from something| If the plants are growing well, they`ll be less subject to pests.
-		> 等待...的發生 |If an action or event is subject to something, it needs something to happen before it can take place| The agreement is still subject to approval by the League`s 30 teams and the players.
+	+ subject 
+		- 主題/話題 |A person or thing that is being discussed, described, or dealt with.| I have said all there is to be said on the subject
+		- |A person or circumstance giving rise to a specified feeling, response, or action.| the incident was the subject of international condemnation
+		- 研究對象 |A person who is the focus of scientific or medical attention or experiment.|  subjects were asked to complete a questionnaire
+		- |The part of a proposition about which a statement is made.|  It is the medium in which objects and subjects actually come into existence, and is the medium in which their virtuality resides.
+		- 科目/學科 |A branch of knowledge studied or taught in a school, college, or university.|  maths is not my best subject
+		- 國民/臣民 |A member of a state other than its ruler, especially one owing allegiance to a monarch or other supreme ruler.|  the legislation is applicable only to British subjects
+		- 臣服的/被征服的 |Under the control or domination of another ruler, country, or government.| the Greeks were the first subject people to break free from Ottoman rule
+		- 主詞 |A noun or noun phrase functioning as one of the main components of a clause, being the element about which the rest of the clause is predicated.| 
+		- 主體/主觀意識 |A thinking or feeling entity; the conscious mind; the ego, especially as opposed to anything external to the mind.| 
+	+ subject to 
+		- 易受...影響 |Likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one)| he was subject to bouts of manic depression
+		- 使蒙受/使經歷 |Cause or force someone or something to undergo (a particular experience or form of treatment, typically an unwelcome or unpleasant one)| he had subjected her to a terrifying ordeal
+		- 取決於/視…而定 |Dependent or conditional upon.| the proposed merger is subject to the approval of the shareholders
+		- ADV 取決於 |Conditionally upon.| subject to the EC`s agreement, we intend to set up an enterprise zone in the area
+		- 在..的管理之下 |Under the authority of.| ministers are subject to the laws of the land
+		- 使臣服 |Bring (a person or country) under one`s control or jurisdiction, typically by using force.| the city had been subjected to Macedonian rule
 	+ be subjected to 經歷了/必定會經歷
 		> intermediate latitudes are subjected to changes intermediate between those of the poles and the equator
 	+ swing -> swung -> swung
