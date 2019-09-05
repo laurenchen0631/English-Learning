@@ -10,7 +10,7 @@ Finally, the author posits that taking part in a group could be very rewarding f
 ## Reviews
 The reading and the lecture are both about to start a new project by assembling a group of people into a team. The author of the reading feels that assembling a group positively help to develop projects, whereas the lecturer challenges the claims made by the author. Put simply, the lecturer is of the opinion *~~of~~* that it causes devastating troubles.
 
-To begin with, the author suggests that more people represent wider range of knowledge and more resource. The article mentions that this advantage boost their efficiency **of** the task. This specific idea is challenged by the lecturer. He claims that the group, in contrast, hamper the progress. Additionally, he says that it is hard to reconcile all **opinions** of all members **in** a group.
+To begin with, the author **argues** that more people represent wider range of knowledge and more resource. The article mentions that this advantage boost their efficiency **of** the task. This specific idea is challenged by the lecturer. He claims that the group, in contrast, hamper the progress. Additionally, he says that it is hard to reconcile all **opinions** of all members **in** a group.
 
 Secondly, the writer suggests that more creative solutions can be **hatched**. In the article, it is said that the a willingly take the risk to **conceive** brilliant **solutions** compared to an individual. The lecture, however, rebuts this by mentioning there is alway someone owns the **considerable** influence. He elaborates this by bringing up the point that influential people in the group primarily manipulate all ideas and lead to **the fact that** most of opinions are ignored.
 

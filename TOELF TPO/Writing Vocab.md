@@ -1,26 +1,35 @@
 ## Popular
-+ point 論點 == argument == contention 
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
 + increase 增加 == enlarge == escalate == augment == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
-- performance 表現 == achievement 
 + new 嶄新的 == contemporary == recent == modern == original == state-of-the-art == unique = unusual
-- feel 想/認為 == deem == assume == consider == think
-- find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
++ feel 想/認為 == deem == assume == consider == think
++ find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
 + idea 想法 == concept == notion == image == thought
-- help 幫助 == benefit == aid == assist == bolster == further == support == encourage
-+ cause 導致 == lead to == bring about == induce == precipitate == engender == prompt
-- slow 減慢 == decelerate == delay == hamper = impede = suspend
++ cause 導致 == lead to == bring about == give rise to == induce == precipitate == engender == prompt 
++ help 幫助 == benefit == aid == assist == bolster == further == support == encourage
 + bad 不好的 == inferior == faulty == awful == poor == rough = unacceptable
-+ important 重要的 == significant == essential == influential == consequential == considerable == appreciable == critical
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
-+ trust 相信/信任 == confidence == faith == belief == credence
++ opinion 意見 == assessment == feeling == impression == notion == thought == viewpoint
++ important 重要的 == significant == essential == influential == consequential == considerable == appreciable == critical
++ determine 決定 == resolve == decide == elect
+- trust 相信/信任 == confidence == faith == belief == credence
+- slow 減慢 == decelerate == delay == hamper = impede = suspend
 - lose 失去 == drop == be deprived of 
 - talk 談論 == schmooze == communicate == exchange == interact == speak == tell
-+ opinion 意見 == assessment == feeling == impression == notion == thought == viewpoint
 + reason 理由 == cause == justification == basis == rationale == purpose == point
 - good 好的 == remarkable  == phenomenal == sovereign == sublime == exquisite == striking == exceptional == miraculous
-- determine 決定 == resolve
+- create 創作 == make == design == develop == produce == generate
+- work 作為 == achievement == creation == production
+- cultivate 培養 == enrich == nourish == promote == refine
+- different 不同的 == disparate == distinct == distinctive == diverse
+- trouble 煩惱/憂慮 == distress == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
+- relationship 關係 == relation == friendship == ties
+- massive 大量的 == enormous == impressive == tremendous == huge == big
++ get acquainted with 認識 == familiarize == be knowledgeable about
++ like 喜歡 == be fond of == admire == appreciate
++ know 了解 == realize == learn == perceive
+- long 長久的 == long-term == enduring == lasting == persistent
 
 ## Common
 - employee 員工 == laborer == staff member == worker
@@ -32,17 +41,26 @@
 + true 真的 == real == bona fide == genuine == authentic == honest
 - conceive 構思 == concoct == create == hatch == invent == imagine
 + dislike 不喜歡/憎惡 == abhor == deplore == loathe == hate
-+ criticize 批評 == castigate == censure == chide == condemn == blame
 - endless 永恆的 == continuous == eternal == interminable == perpetual
-- trustworthy 值得信賴的 == responsible == reliable
+- trustworthy 值得信賴的 == responsible == reliable == dependable
 - mention 提到 == remark
-- behavior 行為 == conduct == performance
+- behavior 行為 == conduct == performance == achievement
 - additional 新的/額外的 == extra == added == increased == new == other
 - control 控制 == regulate == manipulate
 - helpful 有助益的 = conducive == instrumental
 - resolute 堅定的 == steadfast == adamant
+- disappear 消失 == dissolve == retreat == fade
+- friend 朋友 == partner == intimate == companion == ally == buddy
+- beneficial 有益的 == favorable == advantageous == good
+- space 空間 == capacity == scope == field == spot == territory == room
+- care 關心 == pay attention to == cherish
+- smart 聰明的 == intelligent == brilliant == creative == perceptive == resourceful 
 
 ## Less Common
 - argue == dispute == contend
 - posit == suppose == postulate == presuppose == assume
 - rebut == disprove == invalidate == negate == deny == refute
++ point 論點 == argument == contention 
+- original 原本的 == initial == authentic
+- appease 平息 == allay == alleviate == assuage == pacify == lessen == mitigate == mollify == soothe
++ criticize 批評 == castigate == censure == chide == condemn == blame

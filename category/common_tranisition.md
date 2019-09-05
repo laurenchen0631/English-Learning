@@ -210,19 +210,18 @@
 	- Not the most exciting of places, but even so I was having a good time
 	- There are many spelling mistakes; even so it's quite a good essay. 
 	- The book is rather old; even so, it is very useful
-- be that as it may == for all that 盡管如此
++ be that as it may == for all that == nevertheless == nonetheless == none the less == still == yet 盡管如此/仍然/還是
 	- Building a new children's home will cost a lot of money but, be that as it may, there is an urgent need for the facility.
 	- I accept that he's old and frail; be that as it may, he's still a good politician.
 	- For all that, I still feel that he is the most capable man in our organization.
 	- She may have some shortcomings, but she is a good mother for all that. 
+	- Nevertheless, accidents still occur.
+	- statements which, although literally true, are nevertheless misleading
+	- the rally, which the government had declared illegal, was nonetheless attended by some 6,000
 + **notwithstanding** 儘管/還是
 	- Notwithstanding the bad weather, the match went on. 
 	- Notwithstanding he tried hard, he failed in chemistry
 	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
-+ nevertheless == nonetheless == none the less == still == yet 不過/仍然/還是
-	- Nevertheless, accidents still occur.
-	- statements which, although literally true, are nevertheless misleading
-	- the rally, which the government had declared illegal, was nonetheless attended by some 6,000
 - at the same time 不過/仍然
 	- I can't really explain it, but at the same time I'm not convinced
 - it is true that ... but ... 儘管/雖然
@@ -292,7 +291,7 @@
 	- The two workers were dismissed from the factory by the same token.
 
 ## Cause
-+ **in that** == **being that** == **since** == for the reason that == **because** 因為
++ **in that** == **being that** == **since** == **because** == **inasmuch as** 由於 因為
 	- Privatization is thought to be beneficial in that it promotes competition.
 	- This book is different from that book in that this one is about chemistry and that one about history. 
 	- Being that the local council decided not to grant us a full license, the concerts have all been canceled.
@@ -301,16 +300,15 @@
 	- He must have taken the book since it isn't here. 
 	- Since it is so hot, let's go swimming.
 	- Don't do it just because you can.
-+ on account of == due to == by reason of == because of 因為/歸因
+	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
+	- A most unusual astronomer inasmuch as he was deaf mute
++ on account of == due to == by reason of == because of == for the reason that 因為/歸因
 	- On account of holiday our store will be closed tomorrow.
 	- We delayed our departure on account of the bad weather.
 	- he had to withdraw due to a knee injury
 	- his death was not due to any lack of care
 	- He was found not guilty by reason of insanity.
 	- they moved here because of the baby
-+ **inasmuch as** 由於
-	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
-	- A most unusual astronomer inasmuch as he was deaf mute
 + considering (that) == seeing (that) == given (the fact that) 考慮到/鑒於
 	- Considering he has only been learning English a year he speaks it very well. 
 	- We may as well go to the concert, seeing as we've already paid for the tickets.

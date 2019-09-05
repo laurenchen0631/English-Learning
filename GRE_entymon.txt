@@ -108,6 +108,7 @@
 			- anhydrous
 			+ apathy --> apathetic
 			+ aseptic
+			- asphyxiate (v)(使)窒息而死 = suffocate <-- a + sphyx 跳動/脈搏 = pulse + ate
 			+ /eɪˈtɪpɪkəl/ atypical (adj)非典型的/異常的/不同尋常的
 
 		3. 離去 = off == ab
@@ -826,7 +827,7 @@
 		* occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
 		* perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
 		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
-		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient 
+		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
 		+ perceptible (adj)可察覺到的/可感知的
 		+ percipient (adj)觀察敏銳的/有洞察力的 == perceptive (n)有感知力的人
 		+ precept (n)格言/箴言, 戒律 = principle = law = canon = tenet
@@ -3335,7 +3336,7 @@
 		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕 <|> preclude
 			
 	luc, lucid, lumin 光亮 = light
-		+ lucid (adj)清楚易懂的 = pellucid = comprehensible, 神志清醒的 = intelligible = sane, 明亮的 = bright --> lucidity (n)清晰, 神智清醒 <|> lurid
+		+ lucid (adj)清楚易懂的 = pellucid = perspicuous = comprehensible, 神志清醒的 = intelligible = sane, 明亮的 = bright --> lucidity (n)清晰, 神智清醒 <|> lurid
 		+ elucidate (v)闡明 = explain = clarify
 		+ illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 裝飾 <-- il + lumin + ate
 		- illuminati (n)先覺者/智者
@@ -4249,6 +4250,7 @@
 
 	ord 命令 = order
 		- ordain (v)任命..為神職, 命令/下令 = decree = enact = prescribe = enjoin <|> foreordain
+		- ordeal (n)苦難
 		- ordinance (n)法令/條例 = decree = command, 宗教儀式 <|> ordnance
 		- /ˈɔːdnəns/ ordnance (n)大砲 = artillery, 軍械 = munitions, 軍械署
 		+ orderly (adj)整齊的/有條理的/整潔的, 守秩序的 (n)勤務員/護理員, 傳令兵
@@ -5260,7 +5262,7 @@
 			+++ remark (n/v)談到/評論 = mention, 注意/覺察 = note = perceive = observe 
 			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional = miraculous = phenomenal = significant
 			- remind (v)使想起, 提醒 --> reminder (n)提醒人的事物, 催函/催單
-			* reminisce (v)追憶/回想 --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
+			* reminisce (v)追憶/回想 = recollect --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
 			* /rɛmɪˈnɪsənt/ reminiscent (adj)使人想起…的/使人回憶起…的/發人聯想的 = redolent <-- re + min 思維 = mind + iscent
 			+ remiss
 			- remit --> remittance --> remission
@@ -5334,7 +5336,7 @@
 			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
 			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
 			- rebut (v)證明..為假/反駁 = disprove = invalidate = negate = deny = refute --> rebuttal (n)反駁/反證 <-- re + but
-			- recall (n/v)回想/回憶 = remember, 收回/叫回/召回 = countermand = withdraw <-- re + call
+			- recall (n/v)回想/回憶 = remember = reminisce, 收回/叫回/召回 = countermand = withdraw <-- re + call
 			+ recant --> recantation
 			+ recede --> recession --> recessive
 			- recess
@@ -5456,7 +5458,7 @@
 		- rogation (n)祈禱
 		- prerogative (N)特權 = privilege, 特質 = faculty = property
 		- subrogate (v)(擔保人代償債務後)取代(債權人)
-		+ surrogate (n)代理者/代理人 = substitute, 代理孕母 = surrogate mother (adj)代孕的
+		+ surrogate (n)代理者/代理人 = substitute = proctor = deputy, 代理孕母 = surrogate mother (adj)代孕的
 
 	rhythm, rhy 節奏
 		- arrhythmic (adj)無節奏的/不規律的
@@ -5500,7 +5502,7 @@
 
 	rud 原始 = unformed, rough
 		+ /ˈɛrʊdʌɪt/ erudite (adj)博學的 = learned = scholarly
-		+ rudiment (n)基礎, 初步/入門, 雛形, 退化器官 --> rudimentary (adj)初步的 = basic = elemental = fundamental = primitive, 未充分發展的 = inchoate
+		+ rudiment (n)基礎, 初步/入門, 雛形, 退化器官 = vestige --> rudimentary (adj)初步的 = basic = elemental = fundamental = primitive, 未充分發展的 = inchoate
 		- rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 突然的/意外的
 
 	rug 皺/皺紋 = wrinkle
@@ -5545,7 +5547,7 @@
 		+ ravenous (adj)餓極了的, 貪婪的 = rapacious = voracious
 
 	rat 深思熟慮/推論 = calculate, deliberate, conclude
-		* ratify (v)正式批准/正式簽署 = authorize = approve = sanction --> ratification (n)正式批准
+		* ratify (v)正式批准/正式簽署 = sanction = authorize = approve --> ratification (n)正式批准
 		- /ˌratɪˈɒsɪneɪt/ ratiocinate (n)推理/推論 = reason --> ratiocination (n)
 		- ration (n)定量配給 (v)配給 --> rations (n)口糧 = food = provision
 		+ rational (adj)理性的, 合理的 = reasonable = sober, [數]有理的 --> rationalize (v)使合理化, 有理化 --> rationalization (n)合理化, 有理化
@@ -5640,7 +5642,7 @@
 			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> superiority (n)優越/優勢/上等
 			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級的字
 			- supernova (n)超新星
-			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最大的/極度的 --> supremacy (n)至高無上/霸權
+			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最重要的, 最大的/極度的 = great --> supremacy (n)至高無上/霸權
 			- supremacist (n)至上主義者 (adj)至上主義的
 			- superstition
 			- surcharge (v)對...收取額外費用 (n)附加費
@@ -5652,7 +5654,7 @@
 			- survive
 
 		2. 上 = over, above
-			+ superficial (adj)淺薄的/膚淺的 = cursory, 表面上的/表層的 --> superficiality (n)淺薄
+			+ superficial (adj)淺薄的/膚淺的 = cursory = perfunctory, 表面上的/表層的 --> superficiality (n)淺薄
 			- superimpose
 			- superintend
 			+ supersede
@@ -5665,7 +5667,7 @@
 	sol
 		1. 習慣 = accustom
 			+ insolent (adj)粗魯無禮的 = impertinent = impudent = ill-mannered = uncivil <|> indolent
-			+ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 = regressive (v)使淘汰
+			++ /ˈɒbsəliːt/ obsolete (adj)過時的/淘汰的 = outdated = outmoded, 退化的 = regressive (v)使淘汰
 			+ /ˌɒbsəˈlɛs(ə)nt/ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
 		2. 安慰 = soothe
@@ -5704,7 +5706,7 @@
 		+ insolvent (adj)無力償還的 (n)無力還償者 --> insolvency (n)無力償還 = bankruptcy 
 
 	sorb 吸收 = swallow, suck in
-		- absorb (v)吸收, 使用/佔據 = use = take up, [be absorbed in]吸引...的注意 --> absorbed (adj)被吸收的, 全神貫注的 = preoccupied = rapt = engrossed
+		- absorb (v)吸收, 使用/佔據 = us	e = take up, [be absorbed in]吸引...的注意 --> absorbed (adj)被吸收的, 全神貫注的 = preoccupied = rapt = engrossed
 		- absorption (n)吸收, 全神貫注 = concentration
 
 	sept 細菌/腐爛的 = rotted
@@ -5802,60 +5804,49 @@
 		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
 		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
-		+++ despite (N)輕視/鄙視 = contempt = disdain (prep)雖然/儘管 = in spite of
-		- inspect (v)檢查/審查/檢閱 --> inspection (n)檢查/細看
-		+ introspect (n)內省/自省 --> introspective (adj)自省的
-		- perspective (adj)透視的 (n)看法/觀點透, 遠景/展望, 視圖/透視圖法
-		+ /ˌpəːspɪˈkeɪʃəs/ perspicacious (adj)有洞察力的/敏銳的 --> perspicacity (n)聰穎/聰明/洞察力
-		+ perspicuity (n)明晰/簡明/聰明睿智 --> perspicuous (adj)清晰明白的/明瞭的
-		+ prospect (v)勘探/勘察 = explore (n)指望/預期/期望, 前景
-		- retrospect (n)回顧/回想
-		+ respite (n)暫時的休息/喘息, 寬限期, 緩期執行 <--> despite
-		- species (n)種類/物種
-		- specialize (v)專門研究 <-- special
-		- specific (adj)特定的/明確的/具體的 (n)特性, 特效藥 --> specifics (n)細小問題/細節/詳情
+		w
+		- specialize (v)[in]專攻/專門從事 <-- special
+		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
-		+ /ˈspiːʃəs/ specious (adj)似是而非的 = paradoxical, 華而不實的 = meretricious = pretentious = meretricious = gaudy <|> /səˈspɪʃəs/ suspicious
-		- spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面
-		+ spectacular (adj)壯觀的, 引人入勝的/引人注目的 = sensational
-		- sepectator (n)觀眾/觀看者
-		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物
-		- spectral (adj)幽靈的 = ghostly
-		+ spectrum (n)光譜/頻譜, 系列/範圍
-		+ speculate (v)思索/沉思 = meditate = deliberate = cogitate, 推測/猜想 = infer = conjecture = surmise, 投機 --> speculation (n)沉思/推測, 投機
-		+ speulative (adj)投機的 = risky, 推理的/推測的/思索的
-		** spite (n)惡意/怨恨 = despite (v)刁難/存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
-		+ suspect (v)懷疑 (n)嫌疑犯 (adj)不可靠的/可疑的 --> suspicious (adj)懷疑的 = leery = wary
-		- suspicion (n)懷疑, 察覺, 嫌疑 --> suspicious (adj)懷疑的
+		+ /ˈspiːʃəs/ specious (adj)似是而非的 = plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
+		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面
+		+ /spɛkˈtakjʊlə/ spectacular (adj)壯觀的/引人入勝的/引人注目的, 明顯的 = obvious (n)壯觀場面
+		- spectator (n)觀眾/觀看者 = audience
+		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物 <|> spectator
+		- spectral (adj)幽靈的 = ghostly, 光譜的
+		+ spectrum (n)光譜/頻譜, 範圍, 端點
+		+++ speculate (v)推測/猜想 = infer = conjecture = surmise = guess, 投機 --> speculation (n)推測/猜想, 投機
+		+ speculative (adj)推測的, 投機的 = risky
+		** spite (n)惡意 (v)存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
+		+ suspect (v)察覺, 懷疑 (n)嫌疑犯 (adj)不可信的/靠不住的
+		- suspicion (n)懷疑, 嫌疑, 不信任 = distrust, 一點 --> suspicious (adj)懷疑的 = leery = wary
 
 	sper
 		1. 散開 = scatter, sprinkle
-			+ asperse (v)誹謗 --> aspersion (n)誹謗/中傷/污衊 = calumny = slander = derogate (v) 
+			+ asperse (v)誹謗 --> aspersion (n)誹謗 = calumny = slander
 			* disperse (v)使分散/散佈 = intersperse = disseminate = scatter = squander, 分開, 消散/消失, 使色散
-			- intersperse (v)散佈, 點綴
+			- intersperse (v)散佈 = scater
 
 		2. 希望 = hope
-			- despair (n/v)絕望
-			- desperate (adj)絕望的, 非常嚴重的, 極端的/非常的, 非常需要的, 因絕望而不顧一切的, 瘋狂的
+			- despair (n/v)絕望 <|> desperate
+			- desperate (adj)絕望的, 危急的/險峻的 = serious, 暴力的 = violent, 極度渴望的 = longing
 			+ prosper (v)成功/繁榮 = boom = bloom = thrive --> prosperity (n)成功/繁榮 = bloom = boom
-			+ prosperous (adj)興旺的/繁榮的 = thrifty, 富有的, 有利的
+			+ prosperous (adj)興旺的/繁榮的 = thrifty, 吉利的
 
-	sphyx 跳動/脈搏 = pulse
-		^ asphyxiate (v)使窒息而死 = suffocate
-
-	spir, spire 呼吸 = breathe, blow
-		- aspire (v)嚮往/有志於 --> aspiration (n)抱負/志向 = ambition
-		- aspirate (v)吸入, 吸引/吸出 (n)吸出物, 送氣音 (adj)送氣音的
-		- aspirant (n)有抱負者
-		+ conspire (v)共謀/密謀 = collude = connive = plot --> conspiracy (n)陰謀, 密謀
-		- inspire (v)激勵/鼓舞 = abet, 喚起/激起 --> inspiration (n)靈感/啟示 --> inspired (adj)有靈感的/得到啟示的
-		- expire (v)去世, 期滿/到期, 呼氣 --> expiration (n)期滿/中止 = termination, 死亡, 吐氣
+	spir, spire 呼吸 = breathe, blow == hale
+		* aspire (v)嚮往/有志於, 屹立 = tower 
+		- aspirate (v)吸入 = inhale, 吸出 (n)吸出物, 送氣音 (adj)送氣音的 = aspirated
+		- aspiration (n)抱負/志向 = ambition, [醫]抽吸, 送氣音
+		- aspirant (adj)有抱負的 (n)有抱負者
+		+ conspire (v)共謀/密謀 = collude = connive = plot, 協力 = cooperate --> conspiracy (n)陰謀, 共謀
+		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale = aspire --> inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
+		* expire (v)去世, 期滿/到期, 呼氣 = exhale --> expiration (n)期滿/中止 = termination, 吐氣 = exhalation
 		- perspire (v)出汗 = sweat
-		- respire (v)呼吸 = breathe --> respiration (n)呼吸
-		- transpire (v)被揭露, 發生, 蒸散
+		- respire (v)呼吸 = breathe --> respiration (n)呼吸, 一次呼吸
+		- transpire (v)被揭露 = be revealed, 發生 = occur = happen, (植物)蒸散
 
 	sail, sault, sult, sil, sali 跳 = leap, spring
-		+ assail (v)抨擊 = decry, 猛攻, 困擾/騷擾 = beset = harass --> assault (n)襲擊/猛襲 = onset
+		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass --> assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
 		* consult (v)諮詢/請教
 		+ desultory (adj)散漫的/漫無目的的 = rambling = random, 不連貫的 = disconnected = staccato
 		- exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant

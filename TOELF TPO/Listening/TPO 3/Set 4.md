@@ -1,6 +1,8 @@
+# A+ (大量細節考題)
+
 NARRATOR: Listen to a conversation between a student and a professor.
 
-MALE STUDENT: Hi, Professor Archer, you know how in class last week you said that you were looking for students who were interested in volunteering for your archaeology project?
+MALE STUDENT: Hi, Professor Archer, you know how in class last week you said that you were looking for students who were interested in volunteering for your *archaeology* project?
 
 FEMALE PROFESSOR: Of course, are you volunteering?
 
@@ -10,19 +12,19 @@ FEMALE PROFESSOR: No, not really. I assume that most students taking the introdu
 
 MALE STUDENT: Oh, good, that's a relief. Actually, that's why I'm volunteering for the project - to get experience. What kind of work is it?
 
-FEMALE PROFESSOR: Well, as you know, we're studying the history of the campus this semester.This used to be an agricultural area and we already know that where the main lecture hall now stands, there once were farm house and barn that were erected in the late 1700s[seventeen hundreds].We're excavating near the lecture hall to see what types of artifacts we find, you know, things people used in the past that got buried when the campus was constructed.We've already begun to find some very interesting items, like old bottles, buttons, pieces of clay pottery...
+FEMALE PROFESSOR: Well, as you know, we're studying the history of the campus this *semester*. This used to be an *agricultural* area and we already know that where the *main lecture hall* now stands, there once were *farm house* and barn that were *erected* in the late 1700s. We're *excavating* near the lecture hall to see what types of artifacts we find, you know, things people used in the past that got buried when the campus was constructed. We've already begun to find some very interesting items, like old bottles, *buttons*, pieces of *clay pottery*...
 
 MALE STUDENT: Buttons and clay pottery? Did the old owners leave in such a hurry that they left their clothes and dishes behind?
 
-FEMALE PROFESSOR: [laughs] that's just one of the questions we hope to answer with this project.
+FEMALE PROFESSOR: that's just one of the questions we hope to answer with this project.
 
 MALE STUDENT: Wow-and it's all right here on campus.
 
-FEMALE PROFESSOR: That's right, no traveling involved. I wouldn't expect volunteers to travel to a site, especially in the middle of the semester.We expect to find many more things, but we do need more people to help.
+FEMALE PROFESSOR: That's right, no traveling involved. I wouldn't expect volunteers to travel to a site, especially in the middle of the semester. We expect to find many more things, but we do need more people to help.
 
 MALE STUDENT: So... how many student volunteers are you looking for?
 
-FEMALE PROFESSOR: I'm hoping to get five or six. I've asked for volunteers in all of the classes I teach, but no one has responded.You are the first person to express interest.
+FEMALE PROFESSOR: I'm hoping to get five or six. I've asked for volunteers in all of the classes I teach, but no one has responded. You are the first person to express interest.
 
 MALE STUDENT: It sounds like it could be a lot of work.Is there ... is there any way I can use the experience to get some extra credit in class? I mean, can I write a paper about it?
 
@@ -30,16 +32,24 @@ FEMALE PROFESSOR: I think it'll depend on what type of work you do in the excava
 
 MALE STUDENT: And... how often would you want the volunteers to work?
 
-FEMALE PROFESSOR: We're asking for three or four hours per week, depending on your schedule.A senior researcher, I think you know John Franklin, my assistant, is on site every day.
+FEMALE PROFESSOR: We're asking for three or four hours per week, depending on your schedule. A *senior* researcher, I think you know John Franklin, my assistant, is *on site* every day.
 
 MALE STUDENT: Sure, I know John. By the way, will there be some sort of training?
 
-FEMALE PROFESSOR: Yes, I want to wait till Friday to see how many students volunteer.And then I'll schedule a training class next week at a time that's convenient for everyone.
+FEMALE PROFESSOR: Yes, I want to wait till Friday to see how many students volunteer. And then I'll schedule a *training* class next week at a time that's convenient for everyone.
 
 MALE STUDENT: Ok. I'll wait to hear from you. Thanks a lot for accepting me.
 
-## Questions
+## Vocab
+- archaeology /ˌɑːkɪˈɒlədʒi/ 
+- main lecture hall 大讲堂
+- excavate /ˈɛkskəveɪt/ 
+- button 鈕扣
+- clay pottery 陶瓷
+* senior /ˈsiːnɪə/ (adj)年長的, 四年級生的, 地位較高的/年資較深的 (n)較年長者, 老人, 前輩/學長
+- on site 在現場
 
+## Questions
 1. Why does the student go to see the professor? 
 	1. To ask about a class assignment
 	1. To find out about a mid-semester project
@@ -69,3 +79,4 @@ MALE STUDENT: Ok. I'll wait to hear from you. Thanks a lot for accepting me.
 	1. What book he needs to read before the next lecture
 	1. [O] When the train session will be scheduled
 	1. Where the project is located
+
