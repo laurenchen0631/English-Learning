@@ -23,27 +23,25 @@
 	1. **You should take notes while listening to the lecture.** It is important to note that these counter-points directly challenge the three arguments/problems/solutions mentioned in the reading. Not only that, but they are in the same order. 
 	1. These 3 question styles are all quite similar, so **you will write the same kind of essay no matter what style the question takes**. 
 	1. The **lecture summary is the most important part** of the essay. That should make up about 60% of each body paragraph.
-	1. Avoid copying from the reading word for word. Paraphrase as much as you can.
+	1. **Avoid copying from the reading word for word.** Paraphrase as much as you can.
 * Template:
 	* Introduction:
 		* The reading and the lecture are both about _____.
-		* The author of the reading feels that ______.
-		* The lecturer challenges the claims made by the author.
-		* He is of the opinion that _____.
-	* The Body Paragraphs:
-		* To begin with, the author argues that _____.
-		* The article mentions that ____.
-		* This specific argument is challenged by the lecturer.
-		* He claims ____.
-		* Additionally, he says ______.
+		* The author of the reading feels that ______, whereas the lecturer challenges the claims made by the author.
+		* In short, he is of the opposite opinion that _____.
+	* The Body Paragraphs: 
+		* To begin with, the author contend that _____.
+		* The article mentions that _____.
+		* This specific argument is challenged by the lecturer who claims that _____.
+		* Additionally, he says _____.
 
-		* Secondly, the writer suggests ______.
+		* Secondly, the writer suggests _____.
 		* In the article, it is said that _____.
-		* The lecturer, however, rebuts this by mentioning ______.
-		* He elaborates on this by bringing up the point that ______.
+		* The lecturer, however, rebuts this by remarking that _____.
+		* Furthermore, he elaborates on this by bringing up the point that _____.
 
 		* Finally, the author posits that _____.
-		* Moreover, it is stated in the article that ____.
+		* Moreover, it is stated in the article that _____.
 		* In contrast, the lecturer's position is  _____.
 		* He notes that _____.
 	* Sample: 

@@ -32,6 +32,8 @@
 	- Moreover, statistics show that competition for places is growing
 	- He was, moreover, a poet of promise. 
 	- Bicycling is a good exercise; moreover, it does not pollute the air.
+	- It was also a highly desirable political end. Furthermore, it gave the English a door into France.
+	- He is inefficient, and furthermore he is innocent of any sense of responsibility.
 	- Do you play any other sports besides basketball?
 	- besides being a player, he was my friend
 	- Also, a car is very expensive to run
@@ -136,6 +138,7 @@
 	- We are not losing population in our town. As a matter of fsact, people are moving in.
 - indeed 確實
 	- It was not expected to last long, and indeed it took less than three weeks.
+	- Indeed, much of early Icelandic law deals specifically with harvesting rights for these scarce resources in order to avoid violence.
 + without (a) doubt == undoubtedly == definitely == certainly == clearly == surely 無疑地/確實
 	- Without a doubt, she is the best nurse in the hospital.
 	- He was without doubt the very worst kind of reporter.
@@ -158,7 +161,6 @@
 	- He particularly asked that I should help you
 	- Stevens says the public would be surprised by the depth of DiCaprio is understanding of environmental issues, particularly climate change. 
 	- Specifically, we must focus on the following points
-	- Indeed, much of early Icelandic law deals specifically with harvesting rights for these scarce resources in order to avoid violence.
 	- I liked all the children, Tom especially.
 	- a new song, written especially for Jonathan.
 - by all means 當然/務必
@@ -199,7 +201,7 @@
 	- Much as I would like to help you, I'm simply too busy at the moment.
 	- We went swimming in spite of rain.
 	- Even though he was bigger, he never looked down on me.
-- albeit == in spite of (the fact that) == despite (the fact that)  == even so 即使
+- albeit == in spite of (the fact that) == despite (the fact that) == even so 即使
 	- He was making progress, albeit rather slowly
 	- The cure for the disease is effective, albeit expensive. 
 	- In spite of being very tired, I stayed awake.
@@ -291,7 +293,7 @@
 	- The two workers were dismissed from the factory by the same token.
 
 ## Cause
-+ **in that** == **being that** == **since** == **because** == **inasmuch as** 由於 因為
++ **in that** == **being that** == **since** == **because** == **inasmuch as** 由於/因為
 	- Privatization is thought to be beneficial in that it promotes competition.
 	- This book is different from that book in that this one is about chemistry and that one about history. 
 	- Being that the local council decided not to grant us a full license, the concerts have all been canceled.
