@@ -379,6 +379,7 @@
 		- artifice (n)巧技, 詭計 = contrivance = finesse = ruse
 		*** article (n)文章, 物品/物件, 商品 = commodity, 條款
 		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
+		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -2487,7 +2488,7 @@
 	grav, griev 重/沈重 = heavy
 		* aggravate (v)加重/惡化 = exacerbate
 		++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn (n)墓穴, 死亡
-		- gravel (n)碎石/砂礫
+		- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
 		- gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
 		- gravitation (n)引力/吸引 --> gravitational (adj)引力的/重力的
 		* grieve (v)使悲傷/使苦惱 --> grievance (n)不滿, 抱怨
@@ -2736,7 +2737,7 @@
 	habit, hibit 擁有/居住 = have, own, hold, dwell == propr
 		- cohabit (v)共棲/同居
 		** exhibit (v)展出/展示, 表現/顯出 = manifest (n)展品/展出物, 展覽, 證物/證據 --> exhibition (n)
-		+ habitat (n)棲息地
+		+ /ˈhabɪtat/ habitat (n)棲息地
 		- habitant (n)居民 = inhabitant
 		- habitable (adj)可居住的
 		- habitual (adj)習慣的 = inveterate
@@ -2829,6 +2830,7 @@
 			- impermanent (adj)暫時的 = temporary <-- im + permanent
 			+ impermeable (adj)不能透水的/不可滲透的 = impervious = impenetrable = impassable <-- im + permeable
 			+ impermissible (adj)不允許的 = unallowable
+			+ impersonal (adj)非個人的/客觀的, 無特色的/不知名的, 非人的, 非人稱的
 			++ impertinent (adj)無禮的 = uncivil = discourteous, 無關的 = irrelevant = extraneous = immaterial = inconsequential
 			- impertinence (n)無理/粗魯 = rudeness <-- im + pertinence
 			+ imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
@@ -3238,8 +3240,8 @@
 		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
-		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對
-		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀
+		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
+		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -4523,6 +4525,7 @@
 		
 		2. 穿過 = through, throughout
 			- perambulate
+			- percolate (v)過濾, 滲出, 濾煮
 			- percuss --> percussion --> percussionist 
 			- perforate
 			+ permanent (adj)永久的/永恆的 = perennial, 持續不斷的 (n)燙髮 <-- per + mane 保留 = remain + ent
@@ -4713,6 +4716,7 @@
 
 	pale, pal 蒼白/樁 = pallid, stake
 		+ /ˈpalɪd/ pallid (adj)蒼白的/沒血色的 = pale = wan, 無趣的 = innocuous = insipid
+		** pale (adj)灰白的, 蒼白的, 次級的 (v)變蒼白, 相形見絀
 		- appall (vt)使驚駭/使恐怖 --> appalling (adj)糟透的 = awful = abysmal = atrocious = egregious, 駭人的/可怕的
 		- impale (v)刺入/刺中
 
@@ -4977,6 +4981,7 @@
 		+ cacophony --> cacaphonous
 		+ euphony (n)悅耳 --> euphonious (adj)悅耳的 = melodious = liquid
 		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
+		- phonograph (n)唱機
 		- phonetic (adj)語音的, 語音學的, 音形一致的
 		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
 		- telephone (n)電話 (v)打電話
@@ -5234,7 +5239,7 @@
 			- refresh (v)消除……疲勞/使精神振作 = reinvigorate, 更新/修正 = revise = update, 冰鎮
 			+ refulgent
 			- refurbish (v)整修 = renovate = redecorate <-- re + furbish 
-			+ /rəˈɡeɪl/ regale (v)逗樂 = entertain = amuse, 款待 <-- re + gale 喜悅 = pleasure
+			+ /rəˈɡeɪl/ regale (v)逗樂 = entertain = amuse, 款待 = fete <-- re + gale 喜悅 = pleasure
 			+++ regard (v)將…認為/看待 = think = consider, 注視/凝視 = gaze (n)關心/關注 = attention = concern, 尊敬 = respect = esteem, 凝視, 問候/致意 = greetings
 			+ rehabilitate (v)使…康復/使…恢復正常生活, 復權/復職, 使恢復原狀 <-- re + habilitate
 			* rehearse (v)排練/預演/準備, 敘述 = state --> rehearsal (n)排演/演習/練習 <-- re + hearse 耙子 = harrow
@@ -5973,7 +5978,7 @@
 		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
 		+ obsess (v)迷住 = preoccupy = haunt, 使窘困/使煩擾
 		- preside (v)主持/擔任主席, 負責, 指揮 --> president (n)總統, 校長
-		- reside (v)居住 --> resident (n)居民 (adj)定居的/常駐的
+		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, 屬於/歸於 --> resident (n)居民 (adj)定居的/常駐的
 		- residue (n)剩餘 --> residual (adj)殘餘的/剩餘的 <-- reside
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
@@ -6710,6 +6715,7 @@
 		- underbid (v)要價過低
 		+ undercut (v)削價競爭/廉價出售, 暗中破壞 (n)牛豬的腰肉, 下旋削球, 浮雕
 		- underdog (n)失敗者, 受壓迫者
+		- underfoot (adv)在腳下/在地上, 礙手礙腳地
 		- undergird (v)加強/從底層鞏固
 		* undergo (v)經歷 = experience = pass through, 忍受 = endure = sustain = suffer
 		- underhanded (adj)不光明的/卑鄙的
@@ -6945,6 +6951,7 @@
 		1. 人 = man
 			+ virtue (n)美德/高尚品德, 優點/好處 --> by virtue of 因為/由於 = beacuse of
 			- virtual (adj)實質上的/實際上的
+			+ virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 			- virtuous (adj)有美德的/有道德的/善良的
 			+ /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (n)精湛技藝/高超
 			- virtuosic (adj)藝術名家的

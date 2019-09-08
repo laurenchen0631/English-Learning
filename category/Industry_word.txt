@@ -133,6 +133,8 @@
 		> 貨攤 |A small temporary tent or structure at a market, fair, or exhibition, used for selling goods, providing information, or staging shows.|
 		> 小房間/電話亭/投票間/包廂 |An enclosed compartment that allows privacy, for example when telephoning, voting, or sitting in a restaurant.|
 	- PR == public relations 公共關係，通常簡稱PR或公關，是指有關著名人物、商業機構、政府、非牟利機構等各種組織，為改善與社會公眾的關係、促進公眾對其認識，以樹立良好形象、取得公眾的理解及支持
+	- storefront (n)臨街店面/臨街店舖
+	- arcade (n)拱廊/拱廊通道, 拱廊商業街
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -502,6 +504,7 @@
 	- motorboat 汽艇
 	- Amtrak 國家鐵路客運公司
 	- longshoreman 碼頭工人 == docker
+	- moor (v)使停泊/繫泊 (n)非洲摩爾人
 	- milage
 		> 里程 |A number of miles travelled or covered.| the car is in good condition, considering its mileage
 		> 運費/旅費 |Travelling expenses paid according to the number of miles travelled.| the mileage rate will be 30p per mile
@@ -1294,7 +1297,10 @@
 		> 褐紅色 |A brownish-red colour.| the hat is available in either white or maroon
 		> 把……放逐到無人島上/使孤立無援 |Leave (someone) trapped and alone in an inaccessible place, especially an island.| a novel about schoolboys marooned on a desert island
 	- xkcd 蘭德爾·門羅創作的網絡漫畫。作者對其的描述是「關於浪漫、諷刺、數學和語言的網絡漫畫」。 漫畫的題材多種多樣，包括生活與愛情、數學與科學幽默、簡單的幽默和流行文化等，人物則多是簡單的火柴人。
-	
+	- bead (n)串珠, 露珠/水滴 (v)用珠裝飾, 串珠, 佈滿水滴
+	- gallery (n)畫廊, 畫集, 迴廊/長廊, 樓座, 劇院頂層樓座
+	- /ˈtʃɑːkəʊl/ charcoal (n)木炭, 炭筆, 深灰色
+
 [Religion]
 	- priesthood == The office or position of a priest.
 	- deacon (n)助祭/執事
@@ -1448,6 +1454,7 @@
 		> |A channel for conveying water or other fluid.| nearby springs supplied the conduit which ran into the brewery.
 		> |A tube or trough for protecting electric wiring| the gas pipe should not be close to any electrical conduit
 	- craftsman 工匠 == A worker skilled in a particular craft.
+	- celluloid 賽璐珞，一種合成樹脂的名稱。是歷史上最早發明的熱可塑性樹脂。以硝化纖維和樟腦等原料合成。代表性製品為桌球、人偶等。
 	- tungsten filament 鎢絲
 	- fluorescent screen 螢光幕
 	- semiconductor 半導體
@@ -1523,7 +1530,8 @@
 		> 發條啟動的 |Driven by clockwork.| a clockwork motor
 		> 規律的 |Very smooth and regular.| the clockwork precision of the galaxy
 		> 可預測的 |Repetitive and predictable.| it was a clockwork existence for the children
-
+	- derrick (n)轉臂起重機, 油井的鐵架塔
+	- kerosene (n)煤油
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1563,6 +1571,11 @@
 	- sabbatical /səˈbatɪkəl/ 
 		> 教授休假/學術休假 |A period of paid leave granted to a university teacher or other worker for study or travel, traditionally one year for every seven years worked.| she is away on sabbatical
 		> 特休的 |Relating to a sabbatical.| sabbatical leave
+	- semester /sɪˈmɛstə/ 一學期 == A half-year term in a school or university, especially in North America, typically lasting for fifteen to eighteen weeks.
+	- seminar /ˈsɛmɪnɑː/ (n)專題討論會, 研討會
+	- Registrar`s Office 教務處
+	- bulletin board /ˈbʊlɪtɪn bɔːd/ 佈告欄
+	- administration office 管理辦公室
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1723,7 +1736,7 @@
 		> |The top of the head.|
 		> |A stately building.|
 		> 腫起 |(of stratified rock or a surface) become rounded in formation; swell.|
-	* parlor /ˈpɑːlə/
+	+ parlor /ˈpɑːlə/
 		> 客廳 |A sitting room in a private house.| they had lunch in the parlor
 		> 接待室 |A room in a public building for receiving guests.| the mayor`s parlor
 		> 店 |A shop or business providing specified goods or services.| an ice-cream parlor
@@ -1830,6 +1843,10 @@
 	- joinery /ˈdʒɔɪnəri/ 
 		> 木工製品 |The wooden components of a building, such as stairs, doors, and door and window frames, viewed collectively.| the timber is in demand for furniture and interior joinery
 		> 細木工業 |The activity or skill of a joiner.| he quickly mastered the techniques of joinery
+	- igloo 冰屋
+	- doorway 門口/出入口
+	- hatchway (n)艙口/天花板之出入口
+	- hearth /hɑːθ/ (n)壁爐地面, 家, 熔爐
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
@@ -1929,6 +1946,8 @@
 	- fidget spinner 指尖陀螺
 	- kaleidoscope /kəˈlʌɪdəskəʊp/ 萬花筒
 	- dinner party 社交晚宴 == a formal evening meal to which a small number of people are invited
+	- fairground (n)露天遊樂場
+	- minstrel /ˈmɪnstr(ə)l/ (n)中世紀吟遊詩人, 藝人
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel

@@ -18,7 +18,7 @@ Even the kind of stability defined as simple lack of change is not always associ
 ## Vocab
 - cumulative (adj)漸增的/累計的
 - pale (adj)灰白的, 蒼白的, 次級的 (v)變蒼白, 相形見絀
-- ? Mathematical models of ecosystems likewise suggest that diversity does not guarantee ecosystem stability-just the opposite, in fact 一般来说，多样性本身并不能保证稳定性（事实上正相反），生态系统的数学模型也可以得出同样的结论
+- ? Mathematical models of ecosystems likewise suggest that diversity does not guarantee ecosystem stability-*just the opposite, in fact* 一般来说，多样性本身并不能保证稳定性（事实上正相反），生态系统的数学模型也可以得出同样的结论
 
 ## Questions
 1. The word "**particular**" in the passage is closest in meaning to

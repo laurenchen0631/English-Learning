@@ -1,77 +1,90 @@
-# B+ (難字偏多)
+# A (專有名詞 + 時間順序)
 
-NARRATOR: Listen to part of a lecture in an astronomy class.
+NARRATOR: Listen to part of a lecture in a United States government class.
 
-MALE PROFESSOR: Now astronomy didn't really, uh, *bloom* into the science it is today until the development of *spectroscopy*.
+FEMALE PROFESSOR: OK, last time we were talking about government support for the arts. Who can sum up some of the main points? Frank?
 
-Spectroscopy is basically the study of spectra and *spectral* lines of light, and specifically for us, the light from stars. It makes it possible to analyze the light emitted from stars. When you analyze this light you can figure out their distance from the Earth and identify what they’re made of—determine their chemical composition.
+MALE STUDENT: Well, I guess there wasn't really any, you know, official government support for the arts until the twentieth century. But the first attempt the United States government made to, you know, to support the arts was the *Federal Art Project*.
 
-Before we get into that, though, it’s probably a good thing to back up a bit. You all know how when you take a *crystal prism* and pass a beam of sunlight through it, you get a spectrum which looks like a continuous band of rainbow colors.The light that we see with our human eyes as a band of rainbow color falls in the range of what's called visible light. And visible light spectroscopy is probably the most important kind of spectroscopy. Anyone wanna *take a stab* at the scientific term for visible light… and I'm sure all of you know this because you all did the reading for today…
+FEMALE PROFESSOR: Right. So, what can you say about the project?
 
-FEMALE STUDENT: *Optical radiation*. But I thought being exposed to radiation's dangerous.
+MALE STUDENT: Uh, it was started during the *Depression*, uh in the 1930's, to employ out-of-work artists.
 
-MALE PROFESSOR: Yes and no. If you're talking about radiation like in the element *uranium*, yeah, that's dangerous, but radiation as a general term actually refers to anything that spreads away from its source, so optical radiation is just visible light energy spreading out.
+FEMALE PROFESSOR: So was it successful? Janet? What do you say?
 
-OK, so we've got a spectrum of a beam of sunlight and it looks like the colors *bleed into each other*, uh, there’re no interruptions, just a band flowing from violet to green to yellow to…you get the idea. Well what happens if the sunlight spectrum is magnified? Maybe you all didn't do the reading. Well here's what you’d see:I want you to notice that this spectrum is interrupted by dark lines, called *spectral lines*. If you really magnified the spectrum of the sunlight, you could identify more than a hundred thousand of 'em.They may look kinda randomly placed, but they actually form many distinct patterns. And if you were looking at the spectrum of some other star, the colors would be the same, but the spectral lines would break it up at different places, making different patterns. Each pattern stands for a distinct chemical element, and so different sets or patterns of spectral lines mean that the star has a different chemical composition.
+FEMALE STUDENT: Yeah, sure, it was successful—I mean, for one thing, the project established a lot of, like, community art centers and, uh, galleries in places like *rural* areas where people hadn’t really had *access* to the arts.
 
-FEMALE STUDENT: So, how do we know which spectral patterns match up with which elements?
+FEMALE PROFESSOR: Right.
 
-MALE PROFESSOR: Well, a kind of spectroscopic library of elements was compiled using flame tests. A known element, uh, say a piece of *iron* for example, is heated in a pure gas flame. The iron eventually heats to the point that it radiates light. This light is passed through a *prism*, which breaks it up into a spectrum, and a unique pattern, kind of like a chemical fingerprint, of spectral lines for that element appears. This process was repeated over and over again for many different elements. So we can figure out the chemical makeup of another star by comparing the spectral pattern it has to the pattern of the elements in the library.
+MALE STUDENT: Yeah, but didn't the government end up wasting a lot of money for art that wasn't even very good?
 
-Oh! An interesting story about how one of the elements was discovered through spectroscopy. There was a pretty extensive library of spectral line patterns of elements even by the 1860’s. A British astronomer was analyzing a *spectrograph* of sunlight and he noticed a particular pattern of spectral lines that didn’t match anything in the library. So, he put two and two together and decided there was an element in the Sun that hadn't been discovered here on the Earth yet. Any guesses about what that element is? It’s actually turned out to be pretty common and I'm sure all of you know it. OK. Let's try something else…Any of you happen to be familiar with the Greek word for sun, by chance?
+FEMALE PROFESSOR: Uh, some people might say that, but wasn't the primary objective of the Federal Art Project to provide jobs?
 
-MALE STUDENT: Something like *helios* or something like that?…Oh! It must be "*Helium*". So you're sayin that helium was discovered on the Sun first?
+MALE STUDENT: That's true. I mean it did provide jobs for thousands of unemployed artists.
 
-MALE PROFESSOR: Yes. And this is a good example of how important spectroscopy is in astronomy.
+FEMALE PROFESSOR: Right, but then, when the United States became involved in the Second World War, *unemployment was down*, and it seemed that these programs weren't really necessary any longer.
+
+So, moving on... we don't actually see any govern—er, well, any real government involvement in the arts again until the early 1960's, when President Kennedy and other politicians started to push for major funding to support and promote the arts. It was felt by a number of politicians that, well, that the government had a responsibility to... to support the arts as sort of, what can we say, the soul, or spirit of the country. The idea was that there’d be a federal *subsidy*, uh, financial assistance to artists and artistic or cultural institutions. And for just those reasons, in 1965, the *National Endowment* for the Arts was created.
+
+So, it was through the *NEA*, the National Endowment for the Arts, uh, that the arts would develop, would be promoted throughout the nation. And then, individual states throughout the country started to establish their own state arts councils to help support the arts. There was kind of a cultural explosion—and by the mid-1970's, by 1974, I think, all 50 states had their own arts agencies, their own states arts councils that worked with the federal government, with *corporations*, artists, performers, you name it.
+
+MALE STUDENT: Did you just say corporations? How were they involved?
+
+FEMALE PROFESSOR: Well, you see, corporations aren't always *altruistic*, they might not support the arts unless . . . well, unless the government made it attractive for them to do so, by offering corporations tax incentives to support the arts—that is by letting corporations pay less in taxes if they were patrons of the arts. Uh, the Kennedy Center in Washington, D.C., you may, maybe you’ve been there, or Lincoln Center in New York? Both of these were built with substantial financial support from corporations. And the Kennedy and Lincoln centers aren’t the only examples—many of your cultural *establishments* in the United States will have a *plaque* somewhere acknowledging the support, the money, they’ve received from whatever corporation. Yes, Janet?
+
+FEMALE STUDENT: But aren’t there a lot of people who don’t think it’s the government’s role to support the arts?
+
+FEMALE PROFESSOR: Well, as a matter of fact, a lot of politicians who did not believe in government support for the arts, wanted to *do away* with the agency entirely for that very reason—to get rid of governmental support—but they only succeeded in taking away about half the annual budget. And as far as the public goes...Well, there are about as many individuals who disagree with government support as there are those who agree—in fact, with artists in particular, you have lots of artists who support—and who have benefitted from—this agency, al–although it seems that just as many artists oppose a government agency being involved in the arts for many different reasons—reasons like they don’t want the government to control what they create. In other words... the arguments both for and against government funding of the arts are as many and, and as varied as the individual styles of the artists who hold them.
 
 ## Vocab
-- bloom /bluːm/ (v)開花, 成長茁壯, 發光, 鍛鐵 (n)鍛鐵塊, 花, 花期, 白霜, 藻華(發生在淡水中，由水體中氮磷含量過高導致藻類, 細菌或浮游生物突然性過度增殖的一種自然現象)
-- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
-- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
-- prism /ˈprɪz(ə)m/ (n)稜柱, 稜鏡, 扭曲的觀點 <--> /ˈprɪz(ə)n/ prison
-- take a stab at 嘗試
-- optical radiation 光輻射
-* bleed (v)出血/流血, 抽血, 榨取(金錢或資源), 放氣
-- bleed into (v)干擾 = interfere
-- spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
-- spectrograph 光學光譜儀
-- helios 海利歐斯，古希臘神話中的太陽神
-- Helium 氦
+- Depression 經濟大蕭條(1929年至1933年之間全球性的經濟大衰退)
+- rural /ˈrʊər(ə)l/ 
+- unemployment was down 失業率下降
+- subsidy /ˈsʌbsɪdi/ (n)救助金/補助金, 金錢捐獻
+- National Endowment for the Art 國家藝術基金會
+- endow /ɪnˈdaʊ/  (v)捐贈, 資助, [with]賦予 --> endowment /ɪnˈdaʊm(ə)nt/ (n)捐贈, 捐贈的基金或財產, 才能/遺傳
+- corporation /kɔːpəˈreɪʃ(ə)n/ <--> cooperation /kəʊˌɒpəˈreɪʃ(ə)n/ 
+- altruistic /altruːˈɪstɪk/ 
+- establishment (n)建立, 機構 --> Establishment (N)國家統治集團/權勢集團, 英國國教會
+- plaque /plak/ (n)匾, 齒菌斑, 血小板
+- do away with 擺脫/拋棄/廢除
+	- These ridiculous rules and regulations should have been done away with years ago.
+	- Computerization has enabled us to do away with a lot of paperwork.
 
 ## Questions
 
 1. What is the lecture mainly about? 
-	1. Different ways of magnifying the spectrum of a star
-	1. How a chemical element was first discovered on the Sun
-	1. [O] How astronomers identify the chemical elements in a star
-	1. Why the spectra of different stars are composed of different colors
+	1. Reasons the United States government should not support the arts.
+	1. The history of government support for the arts in the United States.
+	1. Strengths and weaknesses of different government-sponsored arts programs.
+	1. Different ways in which governments can help support artists.
 
-2. What does the professor explain to one of the students about the term "radiation"? 
-	1. It is defined incorrectly in the textbooks
-	1. It was first used in the nineteenth century
-	1. It is rarely used by astronomers
-	1. It does not refer only to harmful energy
+2. According to the talk, in what two ways was the Federal Art Project successful? 
+	1. It established standards for art schools.
+	1. It provided jobs for many artists.
+	1. It produced many excellent artists.
+	1. It gave many people greater access to the arts.
 
-3. What can be inferred about two stars if their spectra have similar spectral line patterns? 
-	1. The stars are approximately the same distance from the Earth
-	1. The stars probably have some chemical elements in common
-	1. The stars have nearly the same brightness
-	1. The stars are probably of the same size
+3. The class discusses some important events related to government support for the arts in the United States. Put the events in order from earliest to latest. [3412]
+	1. Arts councils were established in all 50 states of the country.
+	1. The federal budget supporting the arts was reduced by half.
+	1. The Federal Art Project helped reduce unemployment.
+	1. The National Endowment for the Arts was established.
 
-4. According to the professor, what is the purpose of heating an element in a spectroscopic flame test? 
-	1. To cause an element to emit light
-	1. To study an element in combination with other elements
-	1. To remove impurities from the element
-	1. To measure an element’s resistance to heat
+4. Why does the professor mention the Kennedy Center and Lincoln Center? 
+	1. [O] To give example s of institutions that benefit from corporate support.
+	1. To illustrate why some artists oppose the building of cultural centers.
+	1. To show how two centers were named after presidents who supported the arts.
+	1. To name two art centers built by the government during the Depression.
 
-5. Why does the professor say this: (Before we get into that, though, it’s probably a good thing to back up a bit.)
-	1. He is about to provide some background information
-	1. He is about to repeat what he just said
-	1. He intends to focus on the history of astronomy
-	1. He intends to explain two different points of view
+5. What does the professor say about artists’ opinions of government support for the arts? 
+	1. Most artists believe that the government should provide more funding for the art
+	1. Most artists approve of the ways in which the government supports the arts.
+	1. Even artists do not agree on whether the government should support the arts.
+	1. Even artists have a low opinion of government support for the arts.
 
-6. Why does the professor ask this: (Any of you happen to be familiar with the Greek word for sun, by chance?)
-	1. To check the students’ understanding of their reading assignment
-	1. To give the students a hint to the answer to his previous question
-	1. To emphasize how important it is for astronomers to study Greek
-	1. To remind the students about the historical background of astronomy
+6. Replay: What does the professor imply when she says this: (Uh, some people might say that, but wasn't the primary objective of the Federal Art Project to provide jobs?)
+	1. Others students should comment on the man’s remark.
+	1. Most people would agree with the man’s opinion.
+	1. Artwork funded by the government is usually of excellent quality.
+	1. The government project was not a waste of money.

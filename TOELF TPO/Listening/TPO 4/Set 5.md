@@ -1,74 +1,66 @@
-NARRATOR: Listen to part of a lecture in an Art History class. The professor has been discussing the origins of art.
+# B
 
-MALE PROFESSOR: Some of the world's oldest preserved art is the cave art of Europe, most of it in Spain and France.And the earliest cave paintings found to date are those of the *Chauvet Cave* in France discovered in 1994.
+Listen to part of a lecture in a geology class.
 
-And you know, I remember when I heard about the results of the dating of the Chauvet paintings, I said to my wife, "Can you believe these paintings are over 30,000 years old?" and my 3-year-old daughter piped up and said, "Is that older than my great-grandmother?"
+Now we've got a few minutes before we leave for today.So I'll just touch on an interesting subject that I think makes an important point.
 
-But, uh, That was the oldest age she knew. And you know, come to think of it, It's pretty hard for me to really understand how long 30,000 years is too.
+We've been covering rocks and different types of rocks for the last several weeks. But next week we are going to do something a bit different. And to get started I thought I'd mention something that shows how uh... as a geologist, you need to know about more than just rocks and the structure of solid matter.
 
-I mean, we tend to think that people who lived at that time must have been pretty primitive..., but I'm gonna show you some slides in a few minutes, and I think you'll agree with me that this art is anything but primitive-They are masterpieces. And they look so real, so alive that it's very hard to imagine that they are so very old.
+Moving rocks, you may have heard about them. It's quite a mystery. *Death valley* is this desert plain, a *dry lake bed* in California surrounded by mountains and on the desert floor these huge rocks, some of them hundreds of pounds. And they move. They leave long trails behind them, tracks you might say as they move from one point to another. But nobody has been able to figure out how they are moving because no one has ever seen it happen.
 
-Now, not everyone agrees on exactly how old. A number of the Chauvet paintings have been dated by a lab to 30,000 or more years ago. That would make them not just older than any other cave art, but about twice as old as the art in the caves at *Altamira* or *Lascaux*, which you may have heard of.
+Now there are a lot of theories, but all we know for sure is that people aren't moving the rocks. There are no footprints, no tyre tracks and no heavy machinery like a *bulldozer*... uh, nothing was ever brought in to move these heavy rocks.
 
-Some people find it hard to believe Chauvet is so much older than Altamira and Lascaux, and they noted that only one lab did the dating for Chauvet, without independent confirmation from any other lab.
+So what's going on? Theory NO.1 - Wind? Some researchers think powerful uh... windstorms might move the rocks.Most of the rocks move in the same direction as the dominant wind pattern from southwest to northeast. But some, and this is interesting, move straight west while some zigzag or even move in large circles. Um... How can that be?
 
-*But be that as it may*, whatever the exact date, whether it's 15,000, 20,000 or 30,000 years ago, the Chauvet paintings are from the *dawn* of art, so they are a good place to start our discussion of cave painting.
+How about wind combined with rain? The ground of this desert is made of clay. It's a desert, so it's dry. But when there is the occasional rain, the clay ground becomes extremely slippery. It's hard for anyone to stand on, walk on. Some scientists theorized that perhaps when the ground is slippery the high winds can then move the rocks. There's a problem with this theory. One team of scientists flooded an area of the desert with water, then try to establish how much wind force would be necessary to move the rocks. And get this, you need winds of at least five hundred miles an hour to move just the smallest rocks. And winds that strong have never been recorded. Ever! Not on this *planet*. So I think it's safe to say that that issue has been settled.
 
-Now, one thing you've got to remember is the context of these paintings. *Paleolithic* humans - that's the period we are talking about here, the Paleolithic, the early stone age, not too long after humans first arrived in Europe. The climate was significantly colder then, and so rock shelters-shallow caves-were valued as homes protected from the wind and rain. And in some cases at least, artists drew on the walls of their homes. But many of the truly great cave art sites-like Chauvet-were never inhabited. These paintings were made deep inside a dark cave, where no natural light can penetrate. There's no evidence of people ever living here-*Cave bears*, yes, but not humans. You would have had to make a special trip into the cave to make the paintings, and a special trip to go see it, and each time you'd have to bring along torches to light your way. And people did go see the art-there's *charcoal marks* from their torches on the cave walls, clearly dating from thousands of years after the paintings were made, so we can tell people went there. They came but they didn't stay. Deep inside a cave like that is not really a place you'd want to stay, so, why? What inspired the Paleolithic artists to make such beautiful art in such inaccessible places? We'll never really know, of course, though it's interesting to *speculate*.
+Here is another possibility - ice. It's possible that rain on the desert floor could turn to thin sheets of ice when temperatures drop at night. So if rocks... uh becoming *embedded* in ice, uh... OK, could a piece of ice with rocks in it be pushed around by the wind? But there's a problem with this theory, too. Rocks trapped in ice together would have moved together when the ice moved. But that doesn't always happen. The rocks seem to take separate routes.
 
-But, um, getting to the paintings themselves. Virtually all Paleolithic cave art represents animals, and Chauvet is no exception. The artists were highly skilled at using-or even enhancing-the natural shape of the cave walls to give depth and perspectives to their drawings. The sense of motion and vitality in these animals-Well, wait till I show you the slides.
+There are a few other theories. Maybe the ground vibrates, or maybe the ground itself is shifting, tilting. Maybe the rocks are moved by a *magnetic* force. But sadly all these ideas have been eliminated as possibilities. There's just no evidence. I bet you are saying to yourself well, why don't scientists just set up video cameras to record what actually happens? Thing is this is a protective wilderness area. So by law that type of research isn't allowed. Besides, in powerful windstorms, sensitive camera equipment would be destroyed. So why can't researchers just live there for a while until they observe the rocks' moving? Same reason.
 
-Anyway, most Paleolithic cave art depicts large *herbivores*. Horses are most common overall with deer and bison pretty common too. Probably animals they hunted. But earlier at Chauvet, there is a significant interest in large dangerous animals. Lots of *rhinoceros*, lions, mammoth, bears...remember that the ranges of many animal species were different back then, so all these animals actually lived in the region at that time-but the Chauvet artists didn't paint people. There is a half-man-half-bison creature and there is outlines of human hands, but no depiction of a full human.
-
-So, why these precise animals? Why not birds, fish, snakes? Was it for their religion? Magic? Or sheer beauty? We don't know, but whatever it was, it was worth it to them to spend hours deep inside a cave with just a torch between them and *utter* darkness. So..., on that note, let's dim the lights, so we can see these slides and actually look at the techniques they used.
+So where are we now? Well, right now we still don't have any answers. So all this leads back to my main point - you need to know about more than just rocks as geologists. The researchers studying moving rocks, well, they combine their knowledge of rocks with knowledge of wind, ice and such... not successfully, not yet. But you know, they wouldn't even have been able to get started without uh, earth science understanding - knowledge about wind, storms, you know, meteorology. You need to understand physics. So for several weeks like I said we'll be addressing geology from a wider perspective. I guess that's all for today. See you next time.
 
 ## Vocab
-- Chauvet Cave 肖維岩洞，是位於法國東南部阿爾代什省的一個洞穴，因洞壁上繪有上千幅史前壁畫而聞名，岩畫經證實可追溯至距今3萬6千年前，為人類已知最早的史前藝術
-- Altamira 阿爾塔米拉洞，位於西班牙北部的坎塔布里亞自治區首府桑坦德市以西30公里的桑蒂利亞納戴爾馬爾小鎮。洞內有距今至少12000年以前的舊石器時代晚期的人類原始繪畫藝術遺蹟。石洞壁畫繪有野牛、猛獁等多種動物。
-- Lascaux 拉斯科洞窟，位於法國多爾多涅省蒙特涅克村的韋澤爾峽谷，是著名的石器時代洞穴壁畫。1979年，拉斯科洞窟同韋澤爾峽谷內的許多洞穴壁畫一起被選為世界遺產。
-- be that as it may 儘管如此 == despite that 
-- dawn /dɔːn/ 
-- Cave bear 洞熊
-- charcoal /ˈtʃɑːkəʊl/ (n)木炭, 炭筆, 深灰色
-- herbivores /ˈhəːbɪvɔː/ 
-- rhinoceros /rʌɪˈnɒs(ə)rəs/ 犀牛
-- utter /ˈʌtə/ 
+- Death valley 死亡谷國家公園
+- dry lake bed 干涸的湖泊沉积矿
+- bulldozer 推土機
+- if rocks... uh becoming embedded in ice 当岩石，呃，被冰包裹
+- magnetic /maɡˈnɛtɪk/ 
 
 ## Questions
 
 1. What does the professor mainly discuss? 
-	1. The oldest known cave art
-	1. How ancient cave art is dated
-	1. The homes of Paleolithic humans
-	1. How Paleolithic humans thought about animals
+	1. His plans for research involving moving rocks.
+	1. A difference between two geological forces that cause rocks to move.
+	1. Theories about why desert rocks move.
+	1. Reasons why geologists should study moving rocks.
 
-2. Why does the professor mention his daughter? 
-	1. To describe her reaction to seeing the paintings
-	1. To explain the universal appeal for the Chauvet paintings
-	1. To demonstrate the size of most Paleolithic cave art
-	1. To emphasize his point about the age of Chauvet paintings
+2. According to the professor, what have the researchers agreed on? 
+	1. The rocks cannot move after ice storms.
+	1. The rocks do not move at night.
+	1. The rocks never move in circles.
+	1. The rocks are not moved by people.
 
-3. What is the professor’s opinion about the art at the Chauvet cave? 
-	1. It is extremely well done
-	1. It probably reflected artists’ religious beliefs
-	1. It is less sophisticated than the art at Lascaux and Altamira
-	1. It is probably not much older than the art at Lascaux and Altamira
+3. The professor mentions experiments on the wind speed necessary to move rocks. What is the professor’s attitude toward the experiments? 
+	1. Their results were decisive.
+	1. They were not carried out carefully.
+	1. They were not continued long enough to reach a conclusion.
+	1. The government should not have allowed the experiments.
 
-4. According to the professor, what is the significance of charcoal marks on the walls of the Chauvet cave? 
-	1. They suggest that Paleolithic people cooked their food in the cave
-	1. They prove that people came to the cave long after the paintings were made
-	1. They show how much light the Paleolithic artists needed for their work
-	1. They were used in recent times to date the paintings
+4. What important point does the professor make about the area where the rocks are found? 
+	1. It has been the site of Earth’s highest wind speeds.
+	1. It is subject to laws that restrict experimentation.
+	1. It is accessible to heavy machinery.
+	1. It is not subject to significant changes in temperature.
 
-5. Compared to other Paleolithic art, what is unusual about the animals painted at Chauvet? 
-	1. Most of them are horses
-	1. [O] Many of them are dangerous
-	1. Many of them are shown alongside humans
-	1. All of them are species that are still found in France
+5. What is the professor’s purpose in telling the students about moving rocks? 
+	1. To teach a lesson about the structure of solid matter.
+	1. To share a recent advance in geology.
+	1. To give an example of how ice can move rocks.
+	1. To show how geologists need to combine information from several fields.
 
-6. What are two questions about the Chauvet cave artists that the professor raises but cannot answer? 
-	1. How they lighted their work area
-	1. How they obtained pigments for their paints
-	1. [O] Why they chose to paint certain animals and not others
-	1. [O] Why they placed their art in dark, uninhabited places
-
+6. What does the professor imply when he says this: (But some, and this is interesting, move straight west, while some zigzag... or even move in large circles. Hmmm...how can that be?)
+	1. The movement pattern of the rocks was misreported by researchers.
+	1. The rocs are probably being moved by people.
+	1. The movement pattern of the rocks does not support the wind theory.
+	1. There must be differences in the rocks’ composition.

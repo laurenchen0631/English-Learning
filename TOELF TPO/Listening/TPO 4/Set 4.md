@@ -1,82 +1,88 @@
-# A+ (大量細節考題)
+# C
 
 NARRATOR: Listen to a conversation between a student and a professor.
 
-MALE STUDENT: Hi, Professor Archer, you know how in class last week you said that you were looking for students who were interested in volunteering for your *archaeology* project?
+MALE PROFESSOR: Hey Jane. You look like you're in a hurry…
 
-FEMALE PROFESSOR: Of course, are you volunteering?
+FEMALE STUDENT: Yeah, things're a little crazy.
 
-MALE STUDENT: Yes, I am. It sounds really interesting, but um... do I need to have any experience for these kinds of projects?
+MALE PROFESSOR: Oh, yeah? What's going on?
 
-FEMALE PROFESSOR: No, not really. I assume that most students taking the introductory level class would have little or no experience with archaeological research, but that's OK.
+FEMALE STUDENT: Oh, it's nothing… Well, since it's *your* class… I guess it's OK…it's, it's just that I'm having trouble with my group project.
 
-MALE STUDENT: Oh, good, that's a relief. Actually, that's why I'm volunteering for the project - to get experience. What kind of work is it?
+MALE PROFESSOR: Ahh yes. Due next week. What's your group doing again?
 
-FEMALE PROFESSOR: Well, as you know, we're studying the history of the campus this *semester*. This used to be an *agricultural* area and we already know that where the *main lecture hall* now stands, there once were *farm house* and barn that were *erected* in the late 1700s. We're *excavating* near the lecture hall to see what types of artifacts we find, you know, things people used in the past that got buried when the campus was constructed. We've already begun to find some very interesting items, like old bottles, *buttons*, pieces of *clay pottery*...
+FEMALE STUDENT: It's about United States *Supreme Court decisions*. We're looking at the impact of *recent cases* on *property rights*, *municipal* land use cases, *zoning* disputes…
 
-MALE STUDENT: Buttons and clay pottery? Did the old owners leave in such a hurry that they left their clothes and dishes behind?
+MALE PROFESSOR: Right, OK…And it's not going well?
 
-FEMALE PROFESSOR: that's just one of the questions we hope to answer with this project.
+FEMALE STUDENT: Not really. I'm worried about the other two people in my group. They're just sitting back, not really doing their *fair share of the work*, and waiting for an A. It's kinda stressing me out, because we're getting close to the deadline and I feel like I'm doing everything for this project…
 
-MALE STUDENT: Wow-and it's all right here on campus.
+MALE PROFESSOR: Ah, the good old "free-rider" problem.
 
-FEMALE PROFESSOR: That's right, no traveling involved. I wouldn't expect volunteers to travel to a site, especially in the middle of the semester. We expect to find many more things, but we do need more people to help.
+FEMALE STUDENT: Free rider?
 
-MALE STUDENT: So... how many student volunteers are you looking for?
+MALE PROFESSOR: Oh, it's just a term that describes this situation: when people in a group seek to get the benefits of being in the group without contributing to the work…Anyway, what exactly do you mean when you say they just sit back? I mean, they've been filing their weekly progress reports with me…
 
-FEMALE PROFESSOR: I'm hoping to get five or six. I've asked for volunteers in all of the classes I teach, but no one has responded. You are the first person to express interest.
+FEMALE STUDENT: Yes, but I feel like I'm doing 90 percent of the work. I hate to sound so negative here, but honestly, they're taking credit for things they shouldn't be taking credit for. Like last week in the library, we decided to split up the research into three parts, and then each of us was supposed to find sources in the library for our parts. I went off to the *stacks* and found some really good material for my part, but when I got back to our table they were just *goofing off* and talking.So I went and got material for their sections as well.
 
-MALE STUDENT: It sounds like it could be a lot of work.Is there ... is there any way I can use the experience to get some extra credit in class? I mean, can I write a paper about it?
+MALE PROFESSOR: Hmm, you know you shouldn't do that.
 
-FEMALE PROFESSOR: I think it'll depend on what type of work you do in the excavation, but I imagine we can arrange something.Well, actually, I’ve been considering offering extra credit for class because I’ve been having a tough time getting volunteers … extra credit is always a good incentive for students.
+FEMALE STUDENT: I know, but I didn't want to risk the project *going down the drain*.
 
-MALE STUDENT: And... how often would you want the volunteers to work?
+MALE PROFESSOR: I know Theresa and Kevin, I've had both of them in other courses…so I'm familiar with their work, and their work habits.
 
-FEMALE PROFESSOR: We're asking for three or four hours per week, depending on your schedule. A *senior* researcher, I think you know John Franklin, my assistant, is *on site* every day.
+FEMALE STUDENT: I know, me too, and that's why this has really surprised me.
 
-MALE STUDENT: Sure, I know John. By the way, will there be some sort of training?
+MALE PROFESSOR: Do you…does your group like your topic?
 
-FEMALE PROFESSOR: Yes, I want to wait till Friday to see how many students volunteer. And then I'll schedule a *training* class next week at a time that's convenient for everyone.
+FEMALE STUDENT: Well, I think we'd all *rather* focus on cases that deal with personal liberties—questions about freedom of speech, things like that—but I chose property rights…
 
-MALE STUDENT: Ok. I'll wait to hear from you. Thanks a lot for accepting me.
+MALE PROFESSOR: You chose the topic?
+
+FEMALE STUDENT: Yeah, I thought it would be good for us, all of us, to try something new.
+
+MALE PROFESSOR: Maybe that’s part of the problem—maybe Theresa and Kevin aren't that excited about the topic—and since you picked it…Have you thought…talked to them at all about picking a different topic?
+
+FEMALE STUDENT: But, we've already got all the sources. And it's due next week. We don't have time to start from scratch.
+
+MALE PROFESSOR: OK, well I'll let you go 'cause I know you're so busy. But you might…consider talking to your group about your topic choice…
+
+FEMALE STUDENT: I'll think about it. Gotta run. See you in class.
 
 ## Vocab
-- archaeology /ˌɑːkɪˈɒlədʒi/ 
-- main lecture hall 大讲堂
-- excavate /ˈɛkskəveɪt/ 
-- button 鈕扣
-- clay pottery 陶瓷
-* senior /ˈsiːnɪə/ (adj)年長的, 四年級生的, 地位較高的/年資較深的 (n)較年長者, 老人, 前輩/學長
-- on site 在現場
+- municipal /mjʊˈnɪsɪp(ə)l/ 
+- fair share of the work 分内的工作
+- goof off 逃避工作/偷懶
+- go down the drain 被浪費/白費
 
 ## Questions
-1. Why does the student go to see the professor? 
-	1. To ask about a class assignment
-	1. To find out about a mid-semester project
-	1. To get information about summer jobs
-	1. To discuss ways to improve his grade
+1. What is the conversation mainly about? 
+	1. Methods for finding appropriate sources for a project.
+	1. Reasons the woman is having difficulties with a project.
+	1. Criteria the professor uses to evaluate group projects.
+	1. Ways to develop the skills needed to work in groups
 
-2. What was originally located on the site of the lecture hall? 
-	1. [O] A farmhouse
-	1. A pottery factory
-	1. A clothing store
-	1. A bottle-manufacturing plant
+2. Why does the professor mention the ‘free-rider’ problem? 
+	1. To review a concept he explained in class.
+	1. To give the student a plan to solve her problem.
+	1. To clarify the problem the student is facing.
+	1. To explain a benefit of working in groups.
 
-3. What is mentioned as an advantage of working on this project? 
-	1. Off-campus travel is paid off
-	1. Students can leave class early
-	1. [O] The location is convenient
-	1. It fulfills a graduation requirement
+3. What is the professor’s opinion of the other students in the woman’s group? 
+	1. They try to take credit for work they did not do.
+	1. They did not perform well in previous courses with him.
+	1. They are more motivated when they are working in a group.
+	1. They do good work when they are interested in the subject
 
-4. What is the professor considering doing to get more volunteers? 
-	1. Offering extra class credit
-	1. Paying the students for their time
-	1. Asking for student volunteers from outside her class
-	1. Providing flexible work schedules
+4. Why did the woman choose property rights as a topic? 
+	1. The professor recommended the topic.
+	1. She already had a lot of reference materials on the subject.
+	1. She wanted to learn something new.
+	1. It was easy to research at the school library.
 
-5. What information does the student still need to get from the professor? 
-	1. The name of the senior researcher
-	1. What book he needs to read before the next lecture
-	1. [O] When the train session will be scheduled
-	1. Where the project is located
-
+5. What mistakes does the professor imply the woman has made while working on a project? 
+	1. Finding sources for her group partners.
+	1. Writing the weekly progress reports for her group.
+	1. Forgetting to pay attention to the project’s deadlines.
+	1. Failing to involve the group members in the selection of a topic.

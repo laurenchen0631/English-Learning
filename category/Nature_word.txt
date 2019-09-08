@@ -34,6 +34,7 @@
 	- sac 囊 == A hollow, flexible structure resembling a bag or pouch.
 	- gizzard 沙囊
 	- life expectancy 平均壽命 == the average length of the life of members of a group of people or animals
+	+ life span 壽命
 	- snout /snaʊt/ 
 		> 口鼻部 |The projecting nose and mouth of an animal, especially a mammal.| a sea lion balanced a ball on its snout
 		> 鼻子 |A person`s nose.| a guard with a pair of vicious piggy eyes above a snarling snout
@@ -78,7 +79,7 @@
 	- otter 水獺
 	- sea otter 海獺
 	- wolverine 貂熊
-	- rhino /ˈrʌɪnəʊ/ 犀牛 == rhinoceros
+	- rhino /ˈrʌɪnəʊ/ 犀牛 == rhinoceros /rʌɪˈnɒsərəs/
 	- caiman, cayman 鱷魚 == A semiaquatic reptile similar to the alligator but with a heavily armoured belly, native to tropical America.
 	- moose 駝鹿
 	- bactrian camel 雙峰駱駝
@@ -106,6 +107,9 @@
 	- llama /ˈlɑːmə/ 大羊駝
 	- alpaca /alˈpakə/ 羊駝
 	- reindeer /ˈreɪndɪə/ 馴鹿
+	- mesonychid /ˈmɛzəʊˌnʌɪkɪd/ 爪獸
+	- marmot /ˈmɑːmət/ 土撥鼠
+	- squirrel /ˈskwɪr(ə)l/ 松鼠
 
 [Insect]
 	- moth 蛾
@@ -147,7 +151,7 @@
 	- geese 鵝
 	- parakeet, parrakeet /ˈparəkiːt/ 長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
 
-[Bounty]
+[Bounty/Organ]
 	- tusk 長牙/獠牙
 	- antler /ˈantlə/ 鹿角
 	- baleen 鯨鬚 == whalebone
@@ -160,6 +164,10 @@
 		> 踢 |Kick (a ball) powerfully.| he hoofed the ball 70 metres
 		> 步行 |Go on foot.| I paid the check and hoofed it over to Jane Street
 		> 跳舞 |Dance.| we hoof it reasonably fancily, and no one guffaws
+	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
+	- hind leg 後腿
+	- blowhole 鯨魚噴水孔
+	- fluke 鯨魚尾鰭
 
 [Aquatic]
 	- octopus 章魚 == A cephalopod mollusc with eight sucker-bearing arms, a soft body, strong beaklike jaws, and no internal shell.
@@ -191,6 +199,8 @@
 		> 茉莉花鱂 |A small live-bearing killifish which is popular in aquaria and has been bred in many colours, especially black.|
 		> 亞甲二氧甲基苯丙胺 |The drug MDMA, especially in powdered or crystalline form.|
 	- mother-of-pearl == nacre 珍珠母，是一種由軟體動物所產生的有機及無機混合物，做為該動物貝殼的內層物質
+	- porpoise 江豚
+	- mollusk /ˈmɑləsk/ (n)軟體動物
 
 [Plant]
 	* shrub 灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -205,6 +215,7 @@
 	- ripe == (of fruit or grain) developed to the point of readiness for harvesting and eating
 	- grove 樹叢/小樹林 == A small wood or other group of trees.
 	- cedar /ˈsiːdə/ 雪松/香柏 == Any of a number of conifers which typically yield fragrant, durable timber.
+	- hemlock (n)毒芹, 鐵杉
 	- lily -> lilies 百合
 	- herb  /ˈərb/, /həːb/ == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
 	- sequoia == A redwood tree
@@ -212,6 +223,7 @@
 	- oak 橡樹/櫟樹
 	- maple 楓樹/槭樹
 	- beech	/biːtʃ/ 山毛櫸
+	- red alder (n)紅榿樹
 	- fern 蕨
 	- moss 苔蘚
 	- lichen /ˈlʌɪk(ə)n/ (n)地衣, 苔蘚病
@@ -233,27 +245,19 @@
 	- pea 碗豆
 	- alfalfa /alˈfalfə/ 苜蓿
 	- rhizobium /rʌɪˈzəʊbɪəm/ 根瘤菌 <-- rhizo = root + bi = life + um
-	- nodule /ˈnɒdjuːl/ 小結節/小瘤 
 	- milkweed 乳草 == A herbaceous American plant with milky sap, some kinds of which attract butterflies or yield a variety of useful products.
 	- succulent 多肉植物
 	- coca (n)古柯, 古柯葉
 	- birch 樺木屬
 	- rhododendron /ˌrəʊdəˈdɛndr(ə)n/  杜鵑花
-
-[Ore]
-	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
-	- quartz 石英
-	- mica 雲母
-	- feldspar 長石
-	- coal
-	* petroleum == oil == crude oil
-	- marble 大理石
-	- nugget
-		> 金礦 |A small lump of gold or other precious metal found ready-formed in the earth.|
-		> 塊 |nuggets of meat| nuggets of meat
-		> 有價值的東西或想法 |A valuable idea or fact.|
-	- mother lode == motherlode
-		> 主礦脈 |A principal vein of an ore or mineral.|
-		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
-	- sandstone 砂岩
-	- shale	/ʃeɪl/ 頁岩/泥板岩 <|> shell /ʃɛl/ 
+	- understory (n)下層植物
+	- huckleberry (n)越橘莓
+	- succulent (adj)鮮美多汁的, 肉質的(植物) (n)肉質植物
+	- sorghum 高粱
+	- tree shoots 樹芽
+	- cotton /ˈkɒt(ə)n/ 棉
+	- Manila hemp 馬尼拉麻
+	- hemp (n)大麻, 大麻纖維
+	- nodule /ˈnɒdjuːl/ 小結節/小瘤 
+	- nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液
+	+ pollen 花粉 --> pollinate /ˈpɒlɪneɪt/ (v)異花傳粉

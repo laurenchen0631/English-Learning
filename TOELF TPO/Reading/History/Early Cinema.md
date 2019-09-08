@@ -1,4 +1,5 @@
-## Art
+## Humanities
+## History
 
 The cinema did not emerge as a form of mass consumption until its technology evolved from the initial "*peepshow*" format to the point where images were projected on a screen in a darkened theater. In the peepshow format, a film was viewed through a small opening in a machine that was created for that purpose. Thomas Edison's peepshow device, the Kinetoscope, was introduced to the public in 1894. It was designed for use in Kinetoscope *parlors*, or *arcades*, which contained only a few individual machines and permitted only one customer to view a short, 50-foot film at any one time. The first Kinetoscope parlors contained five machines. For the price of 25 cents (or 5 cents per machine), customers moved from machine to machine to watch five different films (or, in the case of famous prizefights, successive rounds of a single fight).
 

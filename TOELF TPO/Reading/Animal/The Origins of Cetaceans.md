@@ -18,7 +18,7 @@ An even more exciting find was reported in 1994, also from Pakistan. The now ext
 - blowhole 鯨魚噴水孔
 - the Tethys Sea 特提斯洋，又名古地中海，是個中生代時期的海洋，位於勞亞大陸與岡瓦納大陸之間
 - archaeocyte
-- mesonychidss 爪獸
+- mesonychid /ˈmɛzəʊˌnʌɪkɪd/ 爪獸
 - ? Several skeletons of another early whale, Basilosaurus, were found in sediments left by the Tethys Sea and now exposed in the Sahara desert. 人们在古地中海残留的沉积物中发现了另一类早期鲸鱼Basilosaurus的一些骨骸，这些骨骸如今暴露在撒哈拉大沙漠上。
 - Ambulocetus natans 走鯨
 + fluke 鯨魚尾鰭

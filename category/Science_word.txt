@@ -94,6 +94,7 @@
 	- lithium 鋰
 	- chlorine 氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
 	- potassium /pəˈtasɪəm/ 鉀
+	- zinc /zɪŋk/ 鋅
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
@@ -167,6 +168,13 @@
 		> 時間的 |Relating to time.| the spatial and temporal dimensions of human interference in complex ecosystems
 		> 太陽穴的/顳的 |Of or situated in the temples of the head.| arterial biopsy usually confirms the diagnosis of temporal arteritis
 	- quantum decoherence 量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
+	- breaking strength 抗張力裂斷強度
+	- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
+	- spectrograph 光學光譜儀
+	- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
+	- spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
+	- prism /ˈprɪz(ə)m/ (n)稜柱, 稜鏡, 扭曲的觀點 <--> /ˈprɪz(ə)n/ prison
+	- optical radiation 光輻射
 
 [Mathematic]
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
@@ -304,6 +312,7 @@
 	- tibia /ˈtɪbɪə/ 脛骨
 	- genitals /ˈdʒɛnɪt(ə)l/ 生殖器官 == A person's or animal's external organs of reproduction.
 	- sphincter /ˈsfɪŋktə/ 括約肌 == A ring of muscle surrounding and serving to guard or close an opening or tube, such as the anus or the openings of the stomach.
+	- larynx /ˈlarɪŋks/ 喉頭 --> laryngeal /ləˈrɪndʒɪəl/ 喉頭的
 	
 [Environment]
 	- greenhouse effect
@@ -337,6 +346,15 @@
 	- spiral galaxy 螺旋星系
 	- elliptical galaxy 橢圓星系
 	- ecliptic (n)黃道 (adj)黃道的
+	- Mercury 水星
+	- Venus 金星
+	- Jupiter 木星
+	- Uranus 天王星
+	- Neptune 海王星
+	- Saturn 土星
+	- Mars 火星
+	- Pluto 冥王星
+	- Ceres 穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

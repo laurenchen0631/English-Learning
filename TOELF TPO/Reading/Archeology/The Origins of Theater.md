@@ -16,7 +16,7 @@ But neither the human imitative instinct nor a **penchant** for fantasy by itsel
 ## Vocab
 + speculation (n)推測, 投機買賣
 - ? the first step has *been taken toward* theater as an autonomous activity 戲劇做為一種自發的活動邁出了自己的第一步
-- ? *it is [by no means == not]* the only theory about how the theater *came into being* 無論如何這都不是戲劇起源的唯一理論 == 
+- ? *it is [by no means == not]* the only theory about how the theater *came into being* 無論如何這都不是戲劇起源的唯一理論
 - came into being 開始存在 == to start to exist
 	> at the moment when the Earth came into being
 - ? Thus, the recalling of an event (a hunt, battle, or other feat) is elaborated [through the narrator’s pantomime and impersonation] and eventually *[through each role being assumed by a different person.]* 因此，講述人通過自己的手勢和模仿把對一個事件的回憶（一次打獵、戰役或是其它功勳偉業）表現得淋漓盡致，這種方式最終演變成為由不同的人來演繹不同的角色

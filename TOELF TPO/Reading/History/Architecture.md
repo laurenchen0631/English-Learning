@@ -1,5 +1,5 @@
 ## Humanities
-## Art
+## History
 
 Architecture is the art and science of designing structures that organize and enclose space for practical and symbolic purposes. Because architecture grows out of human needs and aspirations, it clearly communicates cultural values. Of all the visual arts, architecture affects our lives most directly for it determines the character of the human environment in major ways.
 

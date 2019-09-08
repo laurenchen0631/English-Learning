@@ -20,7 +20,7 @@ Upper Paleolithic art was not confined to cave paintings. Many *shafts* of spear
 - inner reaches of caves 在洞穴所能及的最深处
 - chip (n)屑片/碎片, 缺口, 積體電路片, 籌碼 (v)在……上造成缺口, 裂開, 削/鑿
 - bovine (n)野牛
-- shaft (n)矛桿
+- shaft (n)手柄, 箭/矛, 升降機井, 軸, 一道(光或感覺), 諷刺話, 礦井 (v)射入光線
 
 ## Questions 
 1. The word "**marked**" in the passage is closest in meaning to

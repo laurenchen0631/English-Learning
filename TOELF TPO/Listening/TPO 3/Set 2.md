@@ -23,7 +23,7 @@ So when a banded bird is recaptured and reported, we learn about its migration r
 Another interesting thing we've learned is that some humming birds, um, they no longer use a certain route.They travel by a different route to reach their destination. And findings like these have been of interest to biologists and environmental scientists in a number of countries who are trying to understand the complexities of how changes in a habitat affect the species in it, species like the humming birds.
 
 ## Vocab
-- habitat /ˈhabɪtat/ (n)棲地
+- habitat (n)棲地
 - housing development 住房建设
 - hemisphere /ˈhɛmɪsfɪə/ (n)半球
 - nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液

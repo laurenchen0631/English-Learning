@@ -25,7 +25,7 @@ MALE PROFESSOR: Well, that's a fair question. Uh, the short answer is that Painl
 - in a way 在某種意義上
 - conform /kənˈfɔːm/ (v)相符/一致
 - mollusk /ˈmɑləsk/ (n)軟體動物
-- narration /nəˈreɪʃ(ə)n/  (n)敘述/講述, 解說
+- narration /nəˈreɪʃ(ə)n/ (n)敘述/講述, 解說
 - uncanny /ʌnˈkani/ (adj)怪異的/神秘的
 - Jacques Cousteau 雅克·庫斯托，法國海軍軍官、探險家、生態學家、電影製片人、攝影家、作家、海洋及海洋生物研究者。1956年，庫斯托與路易·馬盧合作製作了紀錄片《寂靜的世界》，在坎城電影節上映，並獲得金棕櫚獎
 - patch 拼湊/匆匆製成

@@ -3,16 +3,16 @@
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
 + increase 增加 == enlarge == escalate == augment == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
 + new 嶄新的 == contemporary == recent == modern == original == state-of-the-art == unique = unusual
-+ feel 想/認為 == deem == assume == consider == think
++ feel 想/認為 == assume == consider == think == deem == esteem == regard
 + find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
 + idea 想法 == concept == notion == image == thought
 + cause 導致 == lead to == bring about == give rise to == induce == precipitate == engender == prompt 
-+ help 幫助 == benefit == aid == assist == bolster == further == support == encourage
++ help 幫助 == benefit == aid == assist == bolster == further == support == encourage == foster
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
 + good 好的 == remarkable == singular == phenomenal == sovereign == sublime == exquisite == striking == exceptional == miraculous
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
 + opinion 意見 == assessment == feeling == impression == notion == thought == viewpoint
-+ important 重要的 == significant == essential == influential == consequential == considerable == appreciable == critical
++ important 重要的 == significant == essential == influential == consequential == considerable == fair == appreciable == critical
 + determine 決定 == resolve == decide == elect
 + get acquainted with 認識 == familiarize == be knowledgeable about
 + like 喜歡 == be fond of == admire == appreciate
@@ -22,10 +22,9 @@
 + reason 理由 == cause == justification == basis == rationale == purpose == point
 - create 創作 == make == design == develop == produce == generate
 - work 作品 == achievement == creation == production
-- cultivate 培養 == enrich == nourish == promote == refine
+- cultivate 培養 == enrich == nourish == promote == refine == foster
 - different 不同的 == disparate == distinct == distinctive == diverse
-- trouble 煩惱/憂慮 == distress == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
-
+- trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
 
 ## Common
 - employee 員工 == laborer == staff member == worker
@@ -35,7 +34,7 @@
 + morale 士氣 == confidence === spirit == self-esteem
 + wrongdoing 壞事 == misbehavior == evil == sin == crime
 + true 真的 == real == bona fide == genuine == authentic == honest
-- conceive 構思 == concoct == create == hatch == invent == imagine
+- conceive 構思 == concoct == gestate == create == hatch == invent == imagine
 + dislike 不喜歡/憎惡 == abhor == deplore == loathe == hate
 - endless 永恆的 == continuous == eternal == interminable == perpetual
 - trustworthy 值得信賴的 == responsible == reliable == dependable

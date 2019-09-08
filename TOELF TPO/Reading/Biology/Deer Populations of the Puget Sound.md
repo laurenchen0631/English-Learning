@@ -27,7 +27,7 @@ The causes of this population **rebound** are consequences of other human action
 - fodder (n)飼料/秣 (v)為飼料
 + bemoan (v)哀嘆/惋惜/悲悼
 - succulent (adj)鮮美多汁的, 肉質的(植物) (n)肉質植物
-- boded ill
+- boded ill/well 為……的兆頭 == Be a portent of a particular outcome.
 - plight (n)困境 (v)訂婚
 
 ## Questions
