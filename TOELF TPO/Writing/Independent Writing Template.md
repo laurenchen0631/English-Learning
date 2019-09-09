@@ -59,41 +59,41 @@
 	1. Introduction 1
 		* 改寫並復述題目
 		* It is a highly debated issue whether _____.
-		* Some people argue as if it is a general truth that _____.
+		* *Some people argue as if it is a general truth that _____.*
 		* While some people believe that _____.
-		* Depending on personal experience, personality type and emotional concern, we find that some people hold the idea of **A** meanwhile others prefer to **B**.
+		* *Depending on personal experience, personality type and emotional concern, we find that some people hold the idea of **A** meanwhile others prefer to **B**.*
 		* Some people prefer to **A**, and meanwhile others believe **B**. 
 		* When faced with the decision of **A** of **B**, quite a few would deem that _____, but others, in contrast, believe **A/B** as the premier choice and that is also my point.
 		* In my point of view, **A** is as important as, if not more important than, **B**. 
 		* When it comes to _____, _____.
 	1. Introduction 2
 		* Deeply deliberating over the issue, I believe that _____.
-		* As far as I am concerned, I **agree/disagree** that _____.
+		* *As far as I am concerned, I **agree/disagree** that _____.*
 		* But to be frank, I cannot **agree** with _____.
-		* From/In my point of view, it is more advisable to choose **A** rather than **B**.
+		* *From/In my point of view, it is more advisable to choose **A** rather than **B**.*
 		* Nevertheless, in my part, I prefer **A** rather than **B** as my inclination.
 		* The advantages of B carry more weight than those of **A**.
 	1. Introduction 3
 		* My arguments for this point are listed as follows.
 		* The following discussion reveals my stand and reasoning.
 		* Among countless factors which _____, there are two/three conspicuous aspects as follows.
-		* There are numerous reasons why __________, and I would explore only a few of the most important ones here
+		* *Numerous reasons justify why __________, and I would explore only a few of the most important ones here*
 	2. Body Paragraph
-		* First, _____
+		* *To begin with, _____*
 		* First of all, _____
 		* First off, _____
-		* Secondly, _____
+		* *Secondly, _____*
 		* Another reason why _____ is that _____.
-		* My personal experience is a compelling example of this.
+		* *My personal experience is a compelling example of this.*
 		* For instance, _____.
 		* Taking _____ for example/instance, _____.
 	3. Conclusion
 		* In conclusion, I am of the opinion that _____.
 		* From the above you might got idea that _____.
-		* Taking into account of all these factors, we may reach the conclusion that _____.
+		* *Taking into account of all these factors, we may reach the conclusion that _____.*
 		* It is sagacious to support the statement that _____.
 		* In short / In a word / General speaking, _____. 
-		* In a word, to choose **A or B** is a dilemma to the public because they sometimes are confused by the seemingly good qualities of **B**, and neglect the genuinely good aspects of A. For the reasons presented above, I strongly commit to the notion that A, rather than B.
+		* *In a word, to choose **A or B** is a dilemma to the public because they sometimes are confused by the seemingly good qualities of **B**, and neglect the genuinely good aspects of A. For the reasons presented above, I strongly commit to the notion that A, rather than B.*
 
 ## Reference
 * https://www.toeflresources.com/writing-section/beginners-toefl-independent-guide

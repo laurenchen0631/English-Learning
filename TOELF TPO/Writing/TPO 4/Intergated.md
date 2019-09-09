@@ -18,8 +18,8 @@ Finally, the author posits that dinosaurs own a bone structure called Haversian 
 
 ## Vocab
 - cold 冷的 == bleak == chilled == frozen == cool
-- keep 維持 == maintain == preserve == retain == manage
-- extreme 極端的/嚴峻的 == severe == harsh == serious == stern
+- keep 維持 == maintain == preserve == retain == sustain == manage 
+- extreme 極端的/嚴峻的 == severe == harsh == serious == desperate == stern 
 - area 地區 == region == place == section == field == range == space
 - kind 種 == sort == type == brand == variety
 - have 有 == own == carry == hold == include == possess

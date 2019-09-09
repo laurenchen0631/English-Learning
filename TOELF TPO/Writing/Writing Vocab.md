@@ -5,12 +5,13 @@
 + new 嶄新的 == contemporary == recent == modern == original == state-of-the-art == unique = unusual
 + feel 想/認為 == assume == consider == think == deem == esteem == regard
 + find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
-+ opinion 意見/想法 == sentiment == assessment == feeling == impression == notion == thought == viewpoint == idea == concept == image
++ idea 想法 == concept == notion == image == thought
 + cause 導致 == lead to == bring about == give rise to == induce == precipitate == engender == prompt 
 + help 幫助 == benefit == aid == assist == bolster == further == support == encourage == foster
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
 + good 好的 == remarkable == singular == phenomenal == sovereign == sublime == exquisite == striking == exceptional == miraculous
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
++ opinion 意見 == assessment == feeling == impression == notion == thought == viewpoint
 + important 重要的 == substantive == significant == essential == influential == consequential == critical
 - considerable 相當的 == appreciable == substantial == fair
 + determine 決定 == resolve == decide == elect
@@ -20,10 +21,10 @@
 - lose 失去 == drop == be deprived of 
 - talk 談論 == schmooze == communicate == exchange == interact == speak == tell
 + reason 理由 == cause == justification == basis == rationale == purpose == point
-- create 創作 == make == design == execute == develop == produce == generate
+- create 創作 == make == design == develop == produce == generate
 - work 作品 == achievement == creation == production
 - cultivate 培養 == enrich == nourish == promote == refine == foster
-- different 不同的 == disparate == distinct == distinctive == diverse == be at variance with
+- different 不同的 == disparate == distinct == distinctive == diverse
 - trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
 
 ## Common
@@ -36,7 +37,7 @@
 + true 真的 == real == bona fide == genuine == authentic == honest
 - conceive 構思 == concoct == gestate == create == hatch == invent == imagine
 + dislike 不喜歡/憎惡 == abhor == deplore == loathe == hate
-- endless 永恆的 == eternal == interminable == perpetual == continuous
+- endless 永恆的 == continuous == eternal == interminable == perpetual
 - trustworthy 值得信賴的 == responsible == reliable == dependable
 - mention 提到 == remark
 - behavior 行為 == conduct == performance == achievement

@@ -229,6 +229,7 @@
 		- aerate (v)注入氣體
 		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
 		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
+		- aeroponics (n)無土種植法
 
 	agog 引導 = lead, guide
 		+ demagog, demagogue
@@ -367,6 +368,7 @@
 
 	arthr, artic 連結/關節/接合 = joint
 		- /ɑːˈθrʌɪtɪs/ arthritis (n)關節炎
+		- arthropod
 		++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
 		+ inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的 = ineffable, 無關節的
 		** articulation (n)發音 = pronounce, 連結, 關節
@@ -380,6 +382,7 @@
 		*** article (n)文章, 物品/物件, 商品 = commodity, 條款
 		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
+		- artsy, arty (adj)附庸風雅的
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -2729,6 +2732,7 @@
 		- hydria (n)水罐
 		- hydrogen (n)氫
 		- hydrophobia (n)恐水症
+		- hydroponic (adj)水耕的 --> hydroponics (n)水耕法
 
 	histo, hist 細胞組織 = tissue
 		- histology (n)細胞組織學
@@ -2780,6 +2784,7 @@
 	herb 草 = plant
 		- herbicide
 		+ herbivorous (adj)草食的 <--> carnivorous
+		- herbaceous (adj)草本的
 
 	herpeto 爬蟲
 		- herpetologist (n)爬蟲學家
@@ -3649,7 +3654,7 @@
 		- missile (n)發射物/投射武器, 飛彈/導彈
 		- mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
 		- missionary (n)傳教士 (adj)傳教的
-		* permit (v)許可/准許, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
+		* permit (v)許可/准許 = consent, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
 		- remit (v)寬恕/赦免, 匯寄/匯付, 提交/移交(問題) (n)提交/移交
@@ -4827,6 +4832,7 @@
 		+ compose (v)作曲/創作, 組成/構成 = constitute = make up, 使平靜 = calm = settle <--> discompose
 		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
 		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise = aplomb = serenity
+		- compost (n)堆肥 (v)做堆肥
 		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
@@ -4932,6 +4938,7 @@
 		- proximate (adj)大約的 = approximate, 接近的/鄰近的 = immediate
 
 	ped, pedi, pod 腳 = having a foot
+		- arthropod (n)節肢動物
 		- /ˈbʌɪpɛd/ biped (n)兩足動物 (adj)兩足的
 		- centipede (n)蜈蚣
 		+ /ˈɛkspɪdʌɪt/ expedite (v)迅速執行 = dispatch, 加快/促進 = hasten = accelerate --> expeditious (adj)迅速的
@@ -5029,6 +5036,7 @@
 		- plight (n)困境/苦境 (v)[be plighted to]訂婚
 		+ replicate (n)複製 = reproduce, 重複試驗 (adj)複製的, 重複試驗的 (n)複製品 = replica = duplicate, 重複試驗
 		- replica (n)複製品 = replicate = duplicate
+		- replicator (n)複製者/複製品
 		+ /ˈsʌp(ə)l/ supple (adj)易彎曲的/柔軟的 = pliant = flexible = limber = lithe, 靈活的/適應能力強的 (v)使柔軟 <|> supplement <-- supplicate
 		+ supplicate (v)懇求/請求 --> suppliant, supplicant (adj)懇求的/哀求的 = beseeching (n)懇求者 
 
@@ -5758,7 +5766,7 @@
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
 		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
 		- stationary (adj)靜止的/不動的, 不變的
-		- /ˈstatjuː/statue (n)雕像 = sculpture = statuary <|> statute
+		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute
 		- statuary (mn)雕塑
 		- stature (n)聲望 = reputation = prestige, 身高
 		- status (n)地位 = standing = station, 狀態 = situation, 近況
@@ -5813,7 +5821,7 @@
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
 		+ /ˈspiːʃəs/ specious (adj)似是而非的 = plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
-		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面
+		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面 <|> speculate
 		+ /spɛkˈtakjʊlə/ spectacular (adj)壯觀的/引人入勝的/引人注目的, 明顯的 = obvious (n)壯觀場面
 		- spectator (n)觀眾/觀看者 = audience
 		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物 <|> spectator
@@ -5828,7 +5836,7 @@
 	sper
 		1. 散開 = scatter, sprinkle
 			+ asperse (v)誹謗 --> aspersion (n)誹謗 = calumny = slander
-			* disperse (v)使分散/散佈 = intersperse = disseminate = scatter = squander, 分開, 消散/消失, 使色散
+			* disperse (v)使分散/散佈 = intersperse = disseminate = scatter = squander = diffuse, 分開, 消散/消失, 使色散
 			- intersperse (v)散佈 = scatter
 
 		2. 希望 = hope
@@ -5903,7 +5911,7 @@
 		+ disseminate (v)傳播/宣傳 = disperse = spread = scatter = broadcast
 		- semen (n)精液
 		** seminal (adj)種子的, 有發展性的/有創意的, 精液的
-		- seminary (n)神學院
+		- seminary (n)神學院 <|> seminal
 
 	sacr, secr, sanct 神聖 = sacred, holy
 		+ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow, 任命(神職) = ordain, 獻身於/致力於 = devote
@@ -5921,60 +5929,62 @@
 
 	sect, seg 切 = cut == tomy
 		- bisect (v)切成兩半
-		+ dissect (v)解剖, 仔細分析 = analyze
-		- intersect (v)橫斷/貫穿 --> intersection (n)橫斷, 十字路口
-		- section (n)部分/片段, 切開/切口, 切片, 切面 (v)強制入院
-		- sectary (n)門徒
-		+ sectarian (adj)宗派的/派別的, 偏執的 --> sectarianism (n)宗派主義/教派意識
-		- segment (n)部分/片段 = fragment --> segmental (adj)部分的/零碎的, 弧形的
+		+ /dʌɪˈsɛkt/ dissect (v)解剖, 仔細分析 = analyze
+		- intersect (v)橫斷/交叉 --> intersection (n)交叉, 交叉點, 十字路口
+		- section (n)部分/片段, 地區/地段, 組/團/小隊, 切面, 切開/切斷 (v)把……分成組, 將……切片
+		- sectary (n)門徒 <|> secretary
+		- sect (n)宗派/教派, 黨派
+		+ sectarian (adj)宗派的/教派的, 嚴格遵守教義的 (n)教派成員, 嚴格遵守教義的人 --> sectarianism (n)宗派主義/教派意識
+		- segment (n)部分/片段 = fragment, 線段/弓形, 體節 (v)分割/切割 --> segmental (adj)部分的, 弧形的
 		+ vivisection
 
 	secu 跟隨 = follow, pursue
-		- execute (v)執行/履行, 處死, 製作(藝術品), 扮演
+		- execute (v)執行, 製作(藝術品), 表演(花招), 處死, [法]使(證書)生效
 		- executioner (n)死刑執行者
 		* executive (adj)執行的, 行政上的, 商業用的 (n)執行者/經理/業務主管, 執行委員會, 行政部門
 		- executor (n)執行者, 遺囑執行人
-		- consecutive (adj)連續不斷的
+		- consecutive (adj)連續不斷的 = continuous
 		- persecute (v)迫害, 騷擾 = harass = distract = pester
-		- prosecute (v)告發/檢舉 <|> persecute --> prosecution (n)起訴/告發/檢舉, 實行/經營/執行
+		- prosecute (v)告發/提告, 把…進行到底 <|> persecute --> prosecution (n)起訴/告發, 持續進行
 		- prosecutor (n)檢察官, 告訴律師
 
 	sent, sens, scent 感覺 = feel
-		* assent (v)同意/贊成 = accede = accord = consent
-		* consent (n/v)許可 (v)同意
-		+ consensus (n)意見一致/共識 --> consensual (adj) 一致的/同意的
-		* dissent (v)反對/不同意 = contradict = demur --> dissenter (n)反對者 = maverick
-		- desensitized (adj)不敏感的, 麻木的
-		- insensate (adj)無感覺的, 蠢笨的 = foolish
-		+ insensible (adj)昏迷的/不省人事的 = unconscious, 無感覺的/不知道的 = unaware = unresponsive, 無動於衷的/冷淡的
+		* assent (v)同意/贊成 = accede = accord = consent (n)同意 = approval = agreement, 許可 = sanction
+		* consent (n/v)許可 = permit (v)同意 = agree to 
+		+ consensus (n)意見一致/共識 --> consensual (adj)一致的/有共識的
+		* dissent (n/v)不同意/持異議 = demur --> dissenter (n)反對者/持異議者 = maverick
+		- desensitized (adj)不敏感的, 麻木的 = numb
+		- insensate (adj)無感覺的 = unfeeling, 無情的 = unfeeling = cruel, 無理性的/愚鈍的 = foolish
+		+ insensible (adj)昏迷的/不省人事的 = unconscious, 發麻的/麻木的 = numb, [of/to]無動於衷的 = indifferent to = unaware of = unresponsive, 微不足道的 = inappreciable
 		- insentient (adj)無知覺的/無生命的 = inanimate
-		* insensitive (adj)未意識到的/漠不關心的 = callous = indifferent, 不敏感的/無感覺的 = unfeeling = callous = obtuse
+		* insensitive (adj)無動於衷的/漠不關心的 = callous = indifferent, 不敏感的/無感覺的 = unfeeling = callous = obtuse
 		+ presentiment (n)不祥的預感 = premonition = hunch = foreboding
-		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = resentment
-		++ sensation (n)知覺, 轟動 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
-		- sensible (adj)明智的 = reasonable, 可感覺到的 = noticeable
-		- sensitive (adj)敏感的 --> sensitivity (n)敏感, 感情
-		- sensitize (v)使敏感/使敏化, 使過敏 --> sensitization (n)敏化
-		+ sensual (adj)官能的/肉體上的, 性感的, 喜愛感官享受的/好色的/淫蕩的 = lascivious = lustful = 
-		+ sensuous (adj)感覺上的
-		+ sentient (adj)有知覺的, 意識到的/認識到的 = aware = concious 
-		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的
-		+ sentiment (n)多愁善感, 思想情感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
+		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = indignation
+		++ sensation (n)知覺, 感覺, 轟動, 轟動的人或物 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
+		- sensible (adj)明智的 = reasonable, 有實用性的 = practical, 可察覺到的 
+		- sensitive (adj)敏感的, 神經過敏的/纖細的 = delicate, 易怒的 = cantankerous, 要審慎處理的/機密的 --> sensitivity (n)敏感, 纖細
+		- sensitize (v)[to]使敏感/使敏化 --> sensitization (n)敏化
+		+ sensual (adj)肉體上的/感官享受的
+		+ sensuous (adj)感覺上的, 令人感官愉悅的
+		+ sentient (adj)有知覺的 = conscious
+		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <-- sentence
+		+ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
 		- sentimentality (n)多愁善感
-		- sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛
-		- sentry (n)步哨/哨兵, 站崗/看守
+		- /ˈsɛntɪn(ə)l/ sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛 = station
+		- sentry (n)哨兵/衛兵 = sentinel
 
 	sert 連結/加入 = connect, link, join == junct == arthr
-		* assert (v)主張/斷言 = affirm = maintain
-		+ assertive (adj)堅定自信的/肯定的/武段的 = positive = aggressive = dogmatic
-		- desert (v)拋棄 = abandon = defect, 當逃兵/擅離 (n)沙漠, 應得之物/報應/回報 = merits (adj)沙漠的
-		- dissert (v)論述/論說 = discourse, 寫論文 --> dissertation (n)專題論文
-		- exert (v)用盡 = fatigue, 努力/盡力
-		- insert (v)插入
+		* assert (v)主張/斷言 = insist = declare = claim = contend = proclaim = uphold, [oneself]表現強硬
+		+ assertive (adj)堅定自信的/肯定的/武斷的
+		- desert (v)拋棄 = abandon = defect, 離去 = leave, 逃兵 (n)沙漠, 無趣的地方 (adj)沙漠般的, 荒廢的 = desolate
+		- dessert (n)甜點
+		- dissertate (v)談論 = discourse, 寫論文 --> dissertation (n)專題論文
+		- exert (v)施加, [oneself]使努力/盡力
+		- insert (v)插入 = interpolate (n)廣告頁
 
 	sid, sess, sed, sedi 坐 = sit
 		+ /əˈsɪdjʊəs/ assiduous (adj)勤勉的/專注的 = diligent = sedulous <|> acidulous
-		+ dissident (n)唱反調者 = dissenter (adj)不同意的 = disagreeing = dissenting 
+		+ dissident (n)持不同政見者 (adj)不贊成的 = disagreeing
 		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
 		+ obsess (v)迷住 = preoccupy = haunt, 使窘困/使煩擾
 		- preside (v)主持/擔任主席, 負責, 指揮 --> president (n)總統, 校長
@@ -6491,7 +6501,7 @@
 		- attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
 		+ contrite (adj)悔罪的/悔恨的 = repentant = penitent = remorseful --> contrition (n)悔恨 = compunction = remorse = penitence = ruth
 		+ diatribe (v)怒斥/抨擊
-		- detritus (n)碎屑, 廢墟/殘海 = debris
+		- detritus (n)碎屑, 廢墟/殘骸 = debris
 		+ trite (adj)陳腐的/老一套的 = banal = hack
 		- triturate (v)磨碎/搗碎
 

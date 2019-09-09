@@ -50,6 +50,7 @@
 - otherwise 除此之外
 	- The bike needs a new wheel, but otherwise it's in good condition.
 	- The poor sound quality ruined an otherwise beautiful film.
+- 
 + afterward(s) == and then == next 接下去/然後
 	- Afterwards, I will explain my opinions about it.
 	- Afterward they had lunch in the garden.
@@ -101,19 +102,21 @@
 	- In terms of money, he's quite rich, but not in terms of happiness. 
 
 ## Clarification 闡明
-- namely 換句話說/亦即 == That is to say; to be specific
+- namely 換句話說/亦即 
 	- the menu makes good use of Scottish produce, namely game and seafood
-+ in other words == (to) put (it) another way  換句話說
++ in other words == (to) put (it) another way 換句話說
 	- The new cat treat has a 90-plus palatability level. In other words, cats like it
 	- John is the best student in his class. In other words, he is better than any other student in his class. 
 	- You are still very young, Tom. To put it another way, you do not have any idea about what you are getting into. 
+	- Plants rely on photosynthesis. To put it another way, they will die without the sun
 - put simply == in brief == in a few words == in short 簡而言之
 	- Put simply, it was an offer we couldn’t refuse.
 	- he is, in brief, the embodiment of evil
 	- In brief, your work is bad. 
-- that is (to say) 確切地說
+- that is (to say) 確切地說 == to be specific
 	- Our friends, that is to say our son`s friends, will meet us at the airport.
 	- I will meet you in the city, that is, I will if the trains are running.
+	- Whales are mammals. That is to say, they must breathe air.
 - indeed 更確切地
 	- The idea is attractive to many men and indeed to many women.
 - as a rule 在多數情況下/通常 == generally == usually
@@ -163,6 +166,9 @@
 	- Specifically, we must focus on the following points
 	- I liked all the children, Tom especially.
 	- a new song, written especially for Jonathan.
+- by no means 決不/一點都不 == not by all means == not at all
+	- It is by no means certain that we'll finish the project by June.
+	- This isn't the last we'll hear of it by any means.
 - by all means 當然/務必
 	- Bring him by all means
 	- Again, by all means, on paper it’s fitting that Dany retakes King’s Landing the way that her ancestor Aegon Targaryen seized power: through conquest, not birthright.
@@ -283,7 +289,7 @@
 + conversely == oppositely == contrarily 反過來說
 	- The staff of any organisation are its best ambassadors or conversely may be its worst.
 	- Conversely, an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring.
-- likewise == in the same way == similarly == also 同樣地
++ likewise == in the same way == similarly == also 同樣地
 	- I told him to watch me and do likewise
 	- To achieve this goal, you must have ambition; likewise you need to exert great efforts.
 	- There is no reason why a gifted aircraft designer should also be a capable pilot. In the same way, a brilliant pilot can be a menace behind the wheel of a car.
@@ -319,9 +325,10 @@
 - in response to 作為對...的反應
 	- In response to my shouts people ran to help.
 	- He opened the door in response to a knock. 
-+ in order to == in an effort to == in an attempt to 為了
++ in order to == with a view to Ving == in an effort to == in an attempt to 為了
 	- He slouched into his seat in order to avoid drawing attention to himself
 	- We started early in order to arrive before dark.
+	- These measures have been taken with a view to increasing the company's profits.
 	- In an effort to avoid further delays, the delivery process has been simplified.
 - **in order that** == **so that** 為了
  	- She used her mother's kitchen in order that the turkey might be properly cooked

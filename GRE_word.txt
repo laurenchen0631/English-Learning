@@ -410,7 +410,7 @@
     ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily <|> uncanny
     ++ /ˈkanən/ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
-    + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious <-- contention + rancorous
+    + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious = sensitive <-- contention + rancorous
     + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = impulsive = unpredictable = skittish = whimsical = wayward
     ++ /ˈkaʒjʊəl/ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
     + /ˈkɔzəl/ causal (adj)原因的/因果關係的 <|> casual --> causality (n)因果關係 <-- cause
@@ -587,7 +587,6 @@
     ^ commonwealth (n)共和國/聯邦
     ^ comedienne (n)女丑角/女喜劇演員/女滑稽演員
     ^ competence (n)能力/才能/水準
-    ^ compost (n)混合肥料/堆肥
     ^ conifer (n)針葉樹
     ^ consul (n)領事 --> consulate (n)領事館, 領事職/領事任期 --> consular (adj)領事的 <|> council <|> consult
     ^ control (n)實驗對照組 (n/v)控制/支配
@@ -1555,7 +1554,7 @@
     + lampoon (n)諷刺文章 = satire (v)以詩文諷刺
     + /ˈlɑːs(ə)ni/ larceny (n)[法律]竊盜 = theft
     + /lɑːˈdʒɛs/ largess, largesse (n)慷慨的贈予/慷慨的贈禮/巨額賞金/大禮 <|> finesse <-- large + ss(e)
-    + lascivious (adj)淫蕩的/好色的 = lustful = licentious = salacious = sensual = wanton <-- lascivi 嬉鬧的 = playful, wanton + ous
+    + lascivious (adj)淫蕩的/好色的 = lustful = licentious = salacious = wanton <-- lascivi 嬉鬧的 = playful, wanton + ous
     + lassitude (n)無力/疲乏/無精打采 = lethargy = sluggishness = listlessness = languor = fatigue
     + /ˈleɪt(ə)nt/ latent (adj)潛伏的/潛在的 = dormant = potential --> latency (n)潛伏期
     + /lɔːd/ laud (v)稱讚 = praise = extol = eulogize = exalt --> laudatory (adj)表示讚美的 <|> /lɔːd/ lord
@@ -1973,7 +1972,6 @@
     ^ nut (n)堅果/核果, 難事/難題, 螺母/螺帽 
     ^ nucleate (adj)有核的 (v)使集結/使成核
     ^ nudge (v)用手肘輕觸/輕推
-    ^ numb (adj)麻木的
     ^ numismatist (n)錢幣學家/錢幣收藏家
 
     ^ nightstick (n)警棍
