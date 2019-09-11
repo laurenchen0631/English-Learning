@@ -11,7 +11,7 @@
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
 + good 好的 == remarkable == singular == phenomenal == sovereign == sublime == exquisite == striking == exceptional == miraculous
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
-+ opinion 意見 == assessment == feeling == impression == notion == thought == viewpoint
++ opinion 意見 == sentiment == assessment == feeling == impression == notion == thought == viewpoint
 + important 重要的 == substantive == significant == essential == influential == consequential == critical
 - considerable 相當的 == appreciable == substantial == fair
 + determine 決定 == resolve == decide == elect
@@ -26,10 +26,11 @@
 - cultivate 培養 == enrich == nourish == promote == refine == foster
 - different 不同的 == disparate == distinct == distinctive == diverse
 - trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
+- various 各式各樣的 = assorted == miscellaneous
 
 ## Common
 - employee 員工 == laborer == staff member == worker
-- colleague 同事 == coworker == partner == teammate
+- colleague 同事 == coworker = associate == partner == teammate
 - working hours 工時 == workweek
 - work overtime 加班 == do overtime
 + morale 士氣 == confidence === spirit == self-esteem

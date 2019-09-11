@@ -5,9 +5,9 @@
 ## Content
 Personally, I prefer that universities offer academic courses over the Internet for two reasons.
 
-First off, it is more convenient for a lot of people in the world. For example, I'd like to use some websites, such as Coursera and Udemy. I can learn many knowledge from those kind of website without going abroad, not mention to paying expensive tuition.
+First off, it is more convenient for a lot of people in the world. For example, I'd like to use some websites, such as Coursera and Udemy. I can learn many knowledge from those kind of websites without going abroad, not mention to paying expensive tuition.
 
-Secondly, the resource can be reserved. More specifically, once a professor record the video of a course, he or she can reuse the videos without wasting the time to teach the same material again and again. Furthermore, if the course is out-of-date, the professor only has to replace part of course with new content. 
+Secondly, the resource can be reserved. Be specific, once a professor recorded the video of a course, he can reuse the videos without wasting the time to teach the same material again and again. Furthermore, if the course is out-of-date, the professor only has to replace part of course with new content. 
 
 That's why I think that offering academic courses over the Internet is a better opinion than learning in traditional classroom.
 

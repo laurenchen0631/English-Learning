@@ -1,9 +1,9 @@
 ## Content
 The reading passage introduces a type of social interaction: audience effects which says individuals' work is affected by others' watching.
 
-The professor explains the idea with a research that prove we tend to increase the speed of performance by being observed. First off, in the research, there are one group that know that they are being observed, and the other groups that doesn't. Compared to their performance at tying shoes, the group knowing the observation have a better performance.
+The professor explains the idea with a research that prove we tend to increase the speed of performance by being observed. First off, in the research, there are one group that know that they are being observed, and the other groups that doesn't. Compared to their performance at tying shoes, the group knowing the observation had a better performance.
 
-Next, there is also an another behavior shown in the study. It is that the group knowing the observation tend to make more mistakes than the other especially on learning something new. Professor takes typing as example that when we're learning to type and know we're being watched, we'll type faster with more mistakes at the same time.
+Next, there is also an another behavior shown in the study. It is that the group knowing the observation tend to make more mistakes than the other especially on learning something new. Professor takes typing as example: when we're learning to type and know we're being watched, we'll type faster with more mistakes at the same time.
 
 ## Vocab
 

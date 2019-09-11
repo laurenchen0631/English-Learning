@@ -395,7 +395,7 @@
 - in the event of/that 如果..發生
 	- In the event of an actual emergency, you will be told what to do.
 	- In the event that the performance is canceled, you can get your money back.
-+ Granted that = Assuming that 假定/假使
++ **Granted that** = **Assuming that** 假定/假使
 	- Granted that officers were used to making decisions, they still couldn't be expected to understand
 	- Assuming that the treaty is ratified, what is its relevance?
 	- Even assuming that smokers do see the health warnings, I doubt they'll take any notice.
@@ -409,7 +409,7 @@
 	- You can borrow the car so long as you don’t drive too fast.
 	- He's welcome to come along, provided that he behaves himself.
 	- We'll be there at about 7.30, provided that there's a suitable train.
-- only if 只有..才會..
+- **only if** 只有..才會..
 	- I will do it for you only if you ask me nicely.
 
 

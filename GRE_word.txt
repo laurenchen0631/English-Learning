@@ -456,7 +456,7 @@
     + coda (n)(樂曲的或演講、事件、文章的)結尾/尾聲
     * code (n)法典/法規, 規範/規矩, 密碼/代碼
     + codify (v)編纂(法典、條例等) = systematize <-- code
-    ++ /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
+    ++ /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel = constrain --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
     + /kəˈrɒləri/ corollary (n)必然的結果, 推論 (adj)推論的, 附屬的/補充的 = associated = supplementary
@@ -650,7 +650,7 @@
     + /ˈdänt/ daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <|> flaunt <|> gaunt <|> taunt <|> vaunt
     + /ˈdərth/ dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
     + debilitate (v)使虛弱/削弱 = enfeeble = languish = wan = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
-    + debonair (adj)溫文爾雅的
+    + debonair (adj)溫文爾雅的 = suave
     + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)拒絕 = refuse = withhold
@@ -1448,7 +1448,7 @@
     +++ intimation (n)暗示/提示
     + /ɪˈnanɪti/ inanity (n)愚蠢/愚行, 淺薄/空洞 --> inane (adj)空洞的/愚蠢的
     + /ɪnˈkəʊeɪt/ inchoate (adj)剛開始的 = incipient, 未完的/未充分發展的 = rudimentary
-    +++ /ɪnˈdʌldʒ/ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor = pamper --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
+    +++ /ɪnˈdʌldʒ/ indulge (v)放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = humor = pamper = assuage --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful
     + inkling (n)暗示/跡象 = hint, 略知/模糊概念
     + interpret (v)解釋/闡明 = explicate = expatiate = elucidate, 理解 = construe = understand, 口譯 = translate orally --> interpretation (n)解釋/闡釋, 演示, 口譯
     + inviting (adj)吸引人的/誘人的 = attractive = alluring = tempting <-- invite

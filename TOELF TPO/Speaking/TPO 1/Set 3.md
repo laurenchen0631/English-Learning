@@ -1,5 +1,5 @@
 ## Content
-According to the letter, the university is planning to acquire a sculpture. However, the author of the letter oppose the plan because the university is in a poor financial condition and the sculpture will take up too much public space.
+According to the letter, the university plans to acquire a sculpture. However, the author of the letter oppose the plan because the university is in a poor financial condition and the sculpture will take up too much public space.
 
 In the other hand, the woman disagrees with the opinions stated in the letter. First off, most of money is paid by a donor rather the university. Additionally, she thinks it's nice to have some art on campus.
 

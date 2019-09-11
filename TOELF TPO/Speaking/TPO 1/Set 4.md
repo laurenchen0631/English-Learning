@@ -1,7 +1,7 @@
 ## Content
 The reading material discusses about groupthink, which means a process by which groups make irrational decision. The professor elaborates on this concept by mentioning his example that he was working for a computer company.
 
-He and a coworker suggest that the appearance of their products should be redesigned, to be more up to date. At first, more than half of group support their idea. However, some managers disagree. Then, most of group change their position and even also the coworker. The coworker changed his mind because he didn't want to be the only person that is not like a team player and to lose his chance to be promoted.
+He and a coworker suggest that the appearance of their products should be redesigned, to be more up to date. At first, more than half of group support their idea. However, some managers disagree. Then, most of group change their position and even so did the coworker. The coworker changed his mind because he didn't want to be the only person that is not like a team player and to lose his chance to be promoted.
 
 After all, this decision is proved to be faulty because at the same year, a competitor came out with a new design that attracted many of their customers.
 

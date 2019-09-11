@@ -1,0 +1,13 @@
+## Essay
+While some people argue as if it is a general truth that people only focus on personal exultation instead of task they should do, to be frank, I can not agree this opinion. Numerous reason justify why I think people actually don't take too much time on enjoyment, I would explore only a few of the most important ones as follows.
+
+To begin with, to do things people should do is an abstract concept. As always, people are ordered to accomplish many jobs by various people, including their parents, friends, teachers, and superiors. Those objects are all determined by someone else, but however those people pursuing their own ideal are deemed as obstinate in that they doesn't comply with others' requests. For example, one of my classmate usually took enormous time to play video games which are regarded as time-wasting activities by whole society. And then, he dropped out of the college and resolved to become a professional e-sporter. Afterwards, he achieved what he desired, becoming a fruitful e-sporter who eventually earn more than most of other classmates. That is to say, only ourselves have the authority to judge what are the right things that we should do.
+
+Secondly, enjoyment is not absolutely equivalent to ease or unchallenging. Enjoyment is traditionally associated with who abandons themselves to pleasure or euphoria. However, in my opinion, enjoyment merely represents efforts and time by someone willing to try his whole bag of tricks. Taking me as instance, I am software developer and, at the same time, I am also fond of programming itself and the whole process of constructing it. To put it another way, not only a personal enjoyment is the programming, but also it is a job that no one can accomplish better than me, which I am naturally responsible to. Admittedly, I suffered abundant difficulties which coerce me to give up. Nonetheless, I still insist and embrace the sense of accomplishment after overcoming those plights. Put simply, enjoyment is not the same as comfort.
+
+To sum up, people don't spend more time on doing things that exult them than the past. Given the fact that to do things people should do is an abstract concept and enjoyment is not compatible with luxury, people nowadays still concentrate on necessary tasks for themselves.
+
+## Reviewed
+
+## Topic 
+While some people argue as if it is a general truth that people only focus on personal exultation instead of task they should do, to be frank, I can not agree this opinion. Numerous reason justify why I think people actually don't take too much time on enjoyment, I would explore only a few of the most important ones as follows.

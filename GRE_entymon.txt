@@ -76,6 +76,7 @@
 			+ assail --> assault
 			+ assertive
 			+ assiduous
+			- assorted (adj)混雜的/各式各樣的 = mixed = miscellaneous <-- as + sort 種類 = kind
 			+ assuage
 			+ assume --> assumption
 			+ astringent 
@@ -1706,7 +1707,7 @@
 		- educate (v)教育/培養
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
-		*  /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
+		*  /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
@@ -2552,7 +2553,7 @@
 
 	grat 高興/愉悅/感謝 = please, thankful
 		- grateful (adj)感激的 <|> grate
-		+ gratify (v)使高興, 使滿意/使滿足 = satisfy = indulge = humor --> gratification (n)喜悅/滿足 --> gratifying (adj)愉悅的/令人滿足的 = pleasing
+		+ gratify (v)使高興, 使滿意/使滿足 = satisfy = indulge = humor = assuage --> gratification (n)喜悅/滿足 --> gratifying (adj)愉悅的/令人滿足的 = pleasing
 		- gratitude (n)感激 = thankfulness
 		* gratuity (n)打賞/小費 = tip
 		* /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的, 免費的/無償的
@@ -2748,7 +2749,7 @@
 		* habituate (v)使習慣於 = accustom = wont --> habituation (n)習慣
 		- habitude (n)習俗
 		- inhabit (v)棲居於/佔據 --> inhabitant (n)居民, 棲息動物
-		+ inhibit (v)阻止/妨礙 = restrain = arrest = check = hinder = hamper = impede, 禁止/約束 = forbid = prohibit --> inhibited (adj)過度約束的 = overly restrained
+		+ inhibit (v)阻止/妨礙 = restrain = arrest = check = hinder = hamper = impede = constrict, 禁止/約束 = forbid = prohibit --> inhibited (adj)過度約束的 = overly restrained
 		* prohibit (v)禁止/阻止/妨礙 = ban
 		++ prohibitive (adj)抑制的/禁止的, 價錢貴得買不起的/高昂的
 
@@ -4816,7 +4817,7 @@
 	ple, plete, plent, pleni, pleth 滿 = fill == compl
 		- complete (adj)完全的
 		+ /ˈkɒmplɪm(ə)nt/ complement (V)補充/補足/使完善 (n)補充物, 一些, 人員定額, 補語, 補數 <|> compliment --> complementary (adj)互補的/補充的, 替代醫學的 <-- complete
-		+ /dɪˈpliːt/ deplete (v)大量減少/耗盡 = exhaust
+		+ /dɪˈpliːt/ deplete (v)大量減少/耗盡 = exhaust = consume = use up
 		+ implement (n)工具/器具 (v)實現/實施 = fulfill = accomplish
 		+ plentiful (adj)豐富的/大量的 = abundant = plenteous
 		- plenitude, plentitude (n)完全 = completeness, 大量 = abundance
@@ -5652,7 +5653,7 @@
 			- /suːˈpəːb/ superb (adj)上乘的/出色的 = excellent = admirable = exquisite = marvelous = sublime = superior = superlative, 宏偉的/華麗的
 			+ supercilious (adj)目中無人的/傲慢的 = haughty = contemptuous = arrogant <-- super + cili 眼皮/眉毛 = eyelid, eyebrow + ous
 			+++ superfluous --> superfluity
-			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> superiority (n)優越/優勢/上等
+			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> /suːˌpɪərɪˈɒrɪti/ superiority (n)優越/優勢/上等
 			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級的字
 			- supernova (n)超新星
 			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最重要的, 最大的/極度的 = great --> supremacy (n)至高無上/霸權
@@ -5706,7 +5707,7 @@
 
 	solv, solu 溶解/釋放/鬆開 = dissolve, loosen, free, release
 		+ absolve (v)使免受罰 = acquit, 赦免 = give absolution for
-		* absolute (adj)完全的/徹底的 = complete = implicit = sheer = outright, 無條件的/無限制的 = unconditional = unlimited = categorical = unqualified, 絕對的/非相對的
+		* absolute (adj)完全的/徹底的 = complete = implicit = sheer = outright = utter, 無條件的/無限制的 = unconditional = unlimited = categorical = unqualified, 絕對的/非相對的
 		++ dissolve (v)(使)溶解, 消失 = disappear, 解散/潰散 = close down = dismiss, 使終結
 		++ dissolution (n)溶解, 解散/潰散 = disintegration = decomposition, 放蕩 = dissipation = debauchery
 		* dissolute (adj)放蕩的/放縱的 = profligate = licentious <|> dissolution
@@ -5796,7 +5797,7 @@
 	strophe 轉 = turn
 		- apostrophe (n)(表示省略或所有格)撇號
 		- strophe (n)詩節 = verse = stanza
-		- catastrophe (n)大災難 = apocalypse = cataclysm = disaster, 悲劇的結局 = denouement
+		- catastrophe (n)大災難 = apocalypse = cataclysm = disaster, 悲劇的結局 = denouement --> catastrophic (adj)災難性的
 
 	scribe, script 寫 = write == graph
 		+ ascribe (v)歸功於/歸咎於 = attribute = impute
@@ -5805,7 +5806,7 @@
 		- inscribe (v)題寫/刻寫/在某物上寫, 題贈
 		- manuscript
 		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin --> prescription (n)處方, 命令/指示
-		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce
+		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce <|> prescribe
 		- scribble (n/v)亂寫/亂塗 
 		- script (n)手跡/筆跡, 劇本/腳本 (v)編寫
 		- scripture (n)權威性著作/經文/聖典
@@ -5846,12 +5847,12 @@
 			+ prosperous (adj)興旺的/繁榮的 = thrifty, 吉利的
 
 	spir, spire 呼吸 = breathe, blow == hale
-		* aspire (v)嚮往/有志於, 屹立 = tower 
+		* aspire (v)嚮往/有志於, 屹立 = tower
 		- aspirate (v)吸入 = inhale, 吸出 (n)吸出物, 送氣音 (adj)送氣音的 = aspirated
 		- aspiration (n)抱負/志向 = ambition, [醫]抽吸, 送氣音
 		- aspirant (adj)有抱負的 (n)有抱負者
 		+ conspire (v)共謀/密謀 = collude = connive = plot, 協力 = cooperate --> conspiracy (n)陰謀, 共謀
-		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale = aspire --> inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
+		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale --> inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
 		* expire (v)去世, 期滿/到期, 呼氣 = exhale --> expiration (n)期滿/中止 = termination, 吐氣 = exhalation
 		- perspire (v)出汗 = sweat
 		- respire (v)呼吸 = breathe --> respiration (n)呼吸, 一次呼吸
@@ -5861,7 +5862,7 @@
 		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass --> assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
 		* consult (v)諮詢/請教, 查閱 = refer (n)諮詢
 		+ desultory (adj)無計劃的, 漫無目的的 = rambling = random
-		- exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
+		- exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice <|> exalt --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
 		+ insult (n/v)侮辱/謾罵 = abuse = indignity = affront (n)肌肉傷害
 		- resile (v)撤銷 --> resilient (adj)有彈性的, 適應力強的 --> resilience, resiliency (n)恢復力, 彈性/彈力 = elasticity
 		+ salient (adj)重要的/值得注意的 = noticeable, 顯眼的 conspicuous = prominent, 突出的/凸角的 (n)凸角, 戰線的突出部
@@ -5910,7 +5911,7 @@
 	semin 種子 = seed
 		+ disseminate (v)傳播/宣傳 = disperse = spread = scatter = broadcast
 		- semen (n)精液
-		** seminal (adj)種子的, 有發展性的/有創意的, 精液的
+		** seminal (adj)種子的, 精液的, 有發展性的/有創意的
 		- seminary (n)神學院 <|> seminal
 
 	sacr, secr, sanct 神聖 = sacred, holy
@@ -5932,8 +5933,8 @@
 		+ /dʌɪˈsɛkt/ dissect (v)解剖, 仔細分析 = analyze
 		- intersect (v)橫斷/交叉 --> intersection (n)交叉, 交叉點, 十字路口
 		- section (n)部分/片段, 地區/地段, 組/團/小隊, 切面, 切開/切斷 (v)把……分成組, 將……切片
-		- sectary (n)門徒 <|> secretary
 		- sect (n)宗派/教派, 黨派
+		- sectary (n)門徒 <|> secretary
 		+ sectarian (adj)宗派的/教派的, 嚴格遵守教義的 (n)教派成員, 嚴格遵守教義的人 --> sectarianism (n)宗派主義/教派意識
 		- segment (n)部分/片段 = fragment, 線段/弓形, 體節 (v)分割/切割 --> segmental (adj)部分的, 弧形的
 		+ vivisection
@@ -5976,79 +5977,80 @@
 	sert 連結/加入 = connect, link, join == junct == arthr
 		* assert (v)主張/斷言 = insist = declare = claim = contend = proclaim = uphold, [oneself]表現強硬
 		+ assertive (adj)堅定自信的/肯定的/武斷的
-		- desert (v)拋棄 = abandon = defect, 離去 = leave, 逃兵 (n)沙漠, 無趣的地方 (adj)沙漠般的, 荒廢的 = desolate
-		- dessert (n)甜點
+		- /dɪˈzəːt/ desert (v)拋棄 = abandon = defect, 離去 = leave, 逃兵 <|> dessert
+		- /ˈdɛzət/ desert (n)沙漠, 無趣的地方 (adj)沙漠般的, 荒廢的 = desolate
+		- /dɪˈzəːt/ dessert (n)甜點
 		- dissertate (v)談論 = discourse, 寫論文 --> dissertation (n)專題論文
-		- exert (v)施加, [oneself]使努力/盡力
+		- /ɪɡˈzəːt/ exert (v)施加, [oneself]使努力/盡力
 		- insert (v)插入 = interpolate (n)廣告頁
 
-	sid, sess, sed, sedi 坐 = sit
-		+ /əˈsɪdjʊəs/ assiduous (adj)勤勉的/專注的 = diligent = sedulous <|> acidulous
+	sid, sess, sed, sedi 坐 = sit 
 		+ dissident (n)持不同政見者 (adj)不贊成的 = disagreeing
 		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
-		+ obsess (v)迷住 = preoccupy = haunt, 使窘困/使煩擾
-		- preside (v)主持/擔任主席, 負責, 指揮 --> president (n)總統, 校長
-		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, 屬於/歸於 --> resident (n)居民 (adj)定居的/常駐的
-		- residue (n)剩餘 --> residual (adj)殘餘的/剩餘的 <-- reside
+		+ /əbˈsɛs/ obsess (v)迷住 = preoccupy = haunt, 煩擾 <|> /ə(ʊ)ˈbiːs/ obese
+		- preside (v)主持/擔任主席, [over]負責, [at]主奏 --> president (n)總統, 校長, 長官
+		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, (權力)屬於/歸於, (特質)存在 --> resident (n)居民, 留鳥, 住院醫生 (adj)定居的/常駐的
+		- /ˈrɛzɪdjuː/ residue (n)剩餘物  <-- reside
+		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 (n)剩餘, 重播費
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
-		- sediment (n)沈澱物/渣
+		- sediment (n)沉積物, 渣 = dregs (v)沉積
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
-		+ subside (v)消退/消失/平息 = lull, 下陷/沉降/沉澱
-		- subsidiary (adj)輔助的, 次要的
+		+ subside (v)平息/減弱, (水)消退, 下陷, 坐下/跪下
 		- subsidy (n)輔助金
+		- subsidiary (adj)附帶的/次要的 = subordinate, 隸屬的 (n)子公司
 		+ supersede (v)接替/取代 = supplant = replace = displace
 
 	sud 汗
-		+ exude (v)明顯地流露 = radiate, 滲出/流出
-		- sudorific (adj)發汗的/生汗的
-		- sudation (n)出汗
+		+ /ɪɡˈzjuːd/ exude (v)滲出/流出(氣味), 明顯地流露(情緒) = radiate = display = betray
+		- /ˌs(j)uːdəˈrɪfɪk/ sudorific (adj)發汗的/生汗的 (n)發汗劑
 
 	soci 同伴/社會 = social
-		- associate (n/v)聯合/聯繫 = affiliate (adj)聯合的 (n)合夥人
-		- association (n)聯合/聯盟/協會 = syndicate
-		- dissociate (v)使分離, 將...分開考慮
+		- associate (v)連結 = connect, [be associated with]與..有牽連, 來往/交往 (n)合夥人/夥伴/同事 = partner = companion, 準會員, 關聯 (adj)聯合的, 副的
+		- association (n)聯盟/協會 = syndicate, 聯合 = connection, 關聯
+		- dissociate (v)使分離
+		* society (n)社會, 社團/協會 = rganization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
+		- sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
 
 	sorc 詛咒/巫術 = oath
-		+ exorcise (v)驅魔, 去除(壞念頭)
-		- sorcery (n)巫術, 魅力
-		- sorcerer (n)巫師
-
-	sort 種類 = kind
-		- assorted (adj)混雜的 = mixed
+		+ /ˈɛksɔːsʌɪz/ exorcise (v)驅魔, 去除(壞念頭)
+		- sorcery (n)巫術
+		- /ˈsɔːs(ə)rə/ sorcerer (n)巫師
 
 	suage 甜 = pleasant, sweet
-		+ assuage (v)減輕/緩和 = alleviate = allay
-		- suave (adj)溫和的 = affable
+		+ assuage (v)減輕/緩和 = alleviate = allay, 滿足 = satisfy = indulge = gratify
+		- /swɑːv/ suave (adj)溫文爾雅的 = debonair
 
 	suade 建議/力勸 = urge, recommend
-		- dissuade (v)勸阻/阻止
-		- persuade (v)說服
+		- dissuade (v)[from]勸阻/阻止 = discourage = prevent
+		- persuade (v)說服 = induce, 使相信 = convice
 
 	sume, sumpt 拿/取 = take
-		+ assume (v)假定 = presume, 取得/僭取/奪取, 冒充/冒稱/假裝/裝出 = feign, 承擔/擔任 <--> abdicate
-		- assuming (adj)傲慢的/自大的
-		+ assumption (n)設想, 奪取/取得/承担
-		- consume (v)消費, 消耗
-		+ presume (v)擅自/冒然 = dare, 假定/假設/推測/推定 = expect = assume, 意味著 = imply
-		+ presumptuous (adj)放肆的/專橫的 = arrogant = overweening = petulant
-		+ presumption (n)推測/假定, 冒昧/放肆 = effrontery
-		- resume (v)重新開始/繼續 = renew
-		+ subsume (v)歸入/納入, 包容/包含 = include = incorporate
+		+ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
+		- assuming (conj)[that]假使 = granted
+		+ assumption (n)設想, 奪取/取得(權力)
+		- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
+		+++ presume (v)假定/假設 = suppose = assume, 視..為理所當然 = take for granted, 擅自/冒然 = dare
+		+ /prɪˈzʌmptʃʊəs/ presumptuous (adj)放肆的/專橫的 = arrogant = overweening = petulant
+		+ presumption (n)推測/假定, 冒昧/放肆的行為 = effrontery
+		- /rɪˈzjuːm/ resume (v)重新開始/繼續 = renew, 收回/取回
+		- /ˈrɛzjʊmeɪ/ résumé (n)摘要/梗概 = summary
+		+ subsume (v)歸入/納入 = include = absorb
 		- /ˈsʌm(p)tjʊəs/ sumptuous (adj)豪華的/奢侈的
 
 	sure 肯定
-		- assure (v)像某人保證, 使確信, 給...保險
-		- reassure (v)使安心/安慰 = appease
+		- assure (v)使確信, [oneself]確認 = make sur of, 確保, 保障
+		- reassure (v)使安心/使消除疑慮
 
 	string, strain, strict 拉緊 = draw tight, draw togerher
-		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)止血的 = styptic, 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
-		+ constrain (v)限制/束縛 = confine = restrain = repress, 強迫 = compel = oblige --> constraint (n)束縛/拘束, 強制/強迫
-		- constrict (v)壓縮/收縮, 限制/約束 = limit
-		- destrain (v)扣押
+		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)收縮的, 酸澀的(味道), 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
+		+ constrain (v)強迫 = compel = coerce, 限制/束縛 = restrict = confine = restrain, 拘禁 = imprison
+		+ constraint (n)約束/限制
+		- constrict (v)壓縮/緊縮, 阻止/限制 = inhibit = restrict
+		- distrain (v)扣押(財物)
 		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
-		+ restrain (v)克制/制止/抑制/束縛 = constrain = bridle = shackle = stint --> restrained (adj)克制的
-		+ restraint (n)克制 = stint 
+		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
+		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
 		* restrict (v)限制/妨礙 --> restriction (n)限制 = stricture
 		- strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived
 		++ strict (adj)周密的/詳細的 = close = careful = minute, 嚴謹的 = stringent = exacting, 嚴格的 = stern = severe = austere = stringent, 完全的 = absolute = complete = utmost --> stricture (n)苛評/非難 = censure, [醫]狹窄部位, 限制 = restriction
@@ -6182,7 +6184,7 @@
 		- sate (v)使心滿意足/使厭膩 = glut <-- satiate
 		++ /ˈseɪʃɪeɪt/ satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy = saturate (adj)吃飽的 --> satiable (adj)可滿足的
 		- satiated (adj)充分滿足的, 厭倦的/生膩的
-		+ satisfy (v)使滿足/使滿意 = satiate = sate, 使確信
+		+ satisfy (v)使滿足/使滿意 = satiate = sate = assuage, 使確信
 		- satire (n)諷刺/諷刺性作品 --> satirize (v)諷刺
 		+ saturate (v)浸透 = imbue, 使充滿 = impregnate
 

@@ -13,7 +13,7 @@ The passage introduces the concept of nonverbal signal which people unconsciousl
 
 First off, the example is about his uncle who hadn't been seen for several years and paid him a surprise visit. When he saw the uncle, his eyes became wide and he broke into a huge smile. With his greeting, the nonverbal expression enhanced *how happy he was* to see the uncle.
 
-The professor's next example that he smashed his thumb with a hammer when he was with his daughter. Even though he was saying that he's fine with his contorted face and trembling voice, the daughter still kept asking whether he was really fine. Those nonverbal expression told his daughter the truth which was different from his words.
+The professor's next example is that he smashed his thumb with a hammer when he was with his daughter. Even though he was saying that he's fine with his contorted face and trembling voice, the daughter still kept asking whether he was really fine. Those nonverbal expression told his daughter the truth which was different from his words.
 
 ## Vocab
 
