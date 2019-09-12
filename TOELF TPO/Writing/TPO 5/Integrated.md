@@ -1,3 +1,9 @@
+## Notes
+* three theories
+1. purely residential <--> looks, inside (X), no people there, many fireplace need, not enough room 100 families
+2. store food supply <--> sounds possible, not cover maize trace
+3. ceremonial center (excavation reveals broken pots near on house) <--> other materials beside pots (building materia [sand, stone]), trash
+
 ## Essay
 The reading and the material are both about the purpose of the Chaco structures. The author of the reading feels that three potential theories can explain the purpose, whereas the lecturer challenges the claims made by the author. In short, he is of the opinion that none of the theories truly explains it.
 
@@ -23,12 +29,6 @@ Finally, the author posits that the houses functioned as ceremonial centers. Mor
 - reasonable 合理的 == credible == justifiable == rational == sensible
 - evidence 證據 == testimony == clue == indication == proof
 - enough 充足的 == adequate == sufficient
-
-## Notes
-* three theories
-1. purely residential <--> looks, inside (X), no people there, many fireplace need, not enough room 100 families
-2. store food supply <--> sounds possible, not cover maize trace
-3. ceremonial center (excavation reveals broken pots near on house) <--> other materials beside pots (building materia [sand, stone]), trash
 
 ## Lecture
 Unfortunately, none of the arguments about what the Chaco great houses were used for is convincing.

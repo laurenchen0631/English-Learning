@@ -50,7 +50,6 @@
 - otherwise 除此之外
 	- The bike needs a new wheel, but otherwise it's in good condition.
 	- The poor sound quality ruined an otherwise beautiful film.
-- 
 + afterward(s) == and then == next 接下去/然後
 	- Afterwards, I will explain my opinions about it.
 	- Afterward they had lunch in the garden.
@@ -113,12 +112,12 @@
 	- Put simply, it was an offer we couldn’t refuse.
 	- he is, in brief, the embodiment of evil
 	- In brief, your work is bad. 
-- that is (to say) 確切地說 == to be specific
++ that is (to say) 確切地說 == to be specific
 	- Our friends, that is to say our son`s friends, will meet us at the airport.
 	- I will meet you in the city, that is, I will if the trains are running.
 	- Whales are mammals. That is to say, they must breathe air.
 - indeed 更確切地
-	- The idea is attractive to many men and indeed to many women.
+	- The iHdea is attractive to many men and indeed to many women.
 - as a rule 在多數情況下/通常 == generally == usually
 	- As a rule, we get up about six o'clock.
 	- As a rule I'm home by six.
@@ -254,6 +253,10 @@
 + **whereas** == **while** 而/卻
 	- One person wants out, while the other wants the relationship to continue
 	- Some people like fatty meat, whereas others hate it. 
++ however 然而/可是
+	- People tend to put on weight in middle age. However, gaining weight is not inevitable
+- (and) yet == but 但是 
+	- the path was dark, yet I slowly found my way
 + instead 替代/反而
 	- There's no coffee - would you like a cup of tea instead?
 	- He didn't give John the money, but he gave it to me instead. 
@@ -282,10 +285,6 @@
 - at the opposite/other end of the spectrum 另一方面來說
 	- At the other end of the spectrum is the diamond, whose energy can be released only when it heated to its burning point, 650°C
 	- As astronomers explore the vast outer reaches of space, physicists are busy working at the opposite end of the spectrum, studying the microworld of particles that make up all things.
-+ however 然而/可是
-	- People tend to put on weight in middle age. However, gaining weight is not inevitable
-- (and) yet == but 但是 
-	- the path was dark, yet I slowly found my way
 + conversely == oppositely == contrarily 反過來說
 	- The staff of any organisation are its best ambassadors or conversely may be its worst.
 	- Conversely, an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring.

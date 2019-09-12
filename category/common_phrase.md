@@ -1,0 +1,19 @@
+## Quantity
+- a chunk of 大量 == a large amount or a large part of something
+	- The reception given to Kimura`s radical theory of molecular evolution shows that when invention fights orthodoxy to a draw, then novelty has seized a good chunk of space from convention.
+	- The company owns a chunk of farmland near Gatwick Airport.
+- a great deal of 大量 == a large amount of
+	- He made a great deal of money.
+- a/an (vast) array of 大量 == An impressive display or range of a particular type of thing.
+	- there is a vast array of literature on the topic
+- a measure of 大量 == a fairly large amount of 
+	- It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever consigning others, in the end, all his self-adulation has only worked against him.
+- a handful of 一點 == a small number of
+	- There he assembled a handful of yong assistants and a dozen of mechanics to do nothing but work on inventions.
+- a battery of 一些 == a number of things of a similar type
+	- Ragwort contains a battery of toxic and resilient alkaloids.
+	- In the kitchen an impressive battery of stainless steel utensils hangs on the wall.
+- a fraction of 一小部分 == A small or tiny part, amount, or proportion of something.
+	- However, human beings use but a fraction of the vast amount of energy produced by nature every day.
+- a laundry list of 一長串的 == a long list of
+	- a laundry list of reasons why shareholders should reject the bid

@@ -867,7 +867,7 @@
     + falsehood (n)虛假, 謊言, 說謊
     ++ /ˈfɔːltə/ falter (v)動搖/猶豫 = hesitate = waver = vacillate = dither = quail = scruple, 蹣跚/踉蹌 = stumble = halt, 結巴地說話 = stammer = halt
     +++ fashion (v)形成, 適應/使一致 = accommodate = adjust = adapt (n)時裝, 方式 = manner = way = mode, 種類 = kind = sort
-    + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = conscientious = particular = scrupulous = thorough, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
+    + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = particular = scrupulous = thorough, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
     + fathom (v)弄清/理解 = apprehend = comprehend = understand = plumb, 測水深 = plumb = sound (n)噚(測水深的單位, 約1.8公尺) --> fathomable (adj)可推測的/可了解的
     ++ /ˈfætʃuəs/ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
     + /ˈfɔːnə/ fauna (n)動物群
@@ -1732,7 +1732,7 @@
     + /mɪˈandə/ meander (v)蜿蜒而流, 漫步 = wander = ramble (n)蜿蜒的河流或道路, 漫無目的的旅行
     ++ /ˈməːkjəri/ mercury (n)水銀/汞 --> mercurial (adj)善變的 = changeable = fickle = erratic, 活潑的 = animated = sprightly = lively
     + /ˌmɛrɪˈtrɪʃəs/ meretricious (adj)華而不實的/虛有其表的 = specious = grandiose = deceptive = pretentous, 俗氣的/浮華的 = gaudy = tawdry <|> meticulous
-    + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = conscientious = thorough, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
+    + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = thorough, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
     + merge (v)使合併 = combine = coalesce = unite = consolidate = amalgamate
     ++ /ˈmɛrɪt/ merit (v)值得 = deserve (n)長處/價值 = excellence = worth, 法律依據, 應得/報應 = desert --> merited (adj)應得的/理所當然的 --> meritorious (adj)值得讚賞的 = praiseworthy
     ++ mesmerize (v)迷住/使入迷 = fascinate = spellbind = hypnotize = beguile, 對……施催眠術 = hypnotize --> mesmerizing (adj)吸引人的/迷人的
@@ -2046,7 +2046,7 @@
 
 [P]
     + /ˈpiːən/ paean, pean (n)讚美歌/頌歌 = hymn = eulogy = panegyric
-    + painstaking (adj)十分小心的/仔細的 = careful = conscientious = scrupulous = meticulous = measured = fastidious = finicky = fussy = guarded = deliberate = thorough
+    + painstaking (adj)十分小心的/仔細的 = careful = scrupulous = meticulous = measured = fastidious = finicky = fussy = guarded = deliberate = thorough
     + /pəˈleɪʃ(ə)l/ palatial (adj)宮殿般的, 宏偉的 = magnificent = stately = majestic <-- palace
     + /ˈpalət/ palate (n)上顎, 味覺, 口味 --> palatable (adj)美味的 = sapid, 使人愉快的/令人滿足的
     + palaver (n)談判/交涉, 無意義繁瑣的步驟, 冗長且無意義的討論 (v)空談/嘮叨
@@ -2522,7 +2522,7 @@
     +++ scorn (n/v)輕視/貶低 = belittle = detract = disparage = contempt = flout = trifle, 藐視 = scant --> scornful (adj)輕視的/嘲笑的 = derisive = contemptuous
     + scourge (n/v)鞭笞 = whip = lash = flog, 嚴懲/折磨 = punish severely = afflict = chastise (n)鞭打, 懲罰的工具, 苦難之源
     + /skriːd/ screed (n)冗長的文章, 砂漿層
-    +++ /ˈskruːp(ə)l/ scruple (n/v)顧忌/猶豫 = dither = falter = vacillate --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = conscientious = meticulous = fastidious
+    +++ /ˈskruːp(ə)l/ scruple (n/v)顧忌/猶豫 = dither = falter = vacillate --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = meticulous = fastidious
     + /ˈskruːtɪnʌɪz/ scrutinize (v)詳細檢查/細看 = examine --> scrutiny (n)詳細的檢查/仔細的觀察, 監視/監督 = surveillance <-- scrutin 搜尋 = search + ize
     * scrutable (adj)可解讀的 = comprehensible <--> inscrutable
     + /ˈskʌf(ə)l/ scuffle (v)扭打/亂鬥, 急趕 = scurry, 拖著腳走 = scuff (n)亂鬥, 跛腳 = shuffling

@@ -24,7 +24,7 @@ Finally, the author posits that dinosaurs own a bone structure called Haversian 
 - kind 種 == sort == type == brand == variety
 - have 有 == own == carry == hold == include == possess
 - can 可以/能 == be able to == be capable of sth == be equal to sth
-- allow 允許 == let
+- allow 允許 == let == permit == sanction == empower == be entitled to
 - quick 快的 == rapid == hurried == fast
 - typical 標準的 == standard == normal == basic == classic
 

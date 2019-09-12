@@ -4730,7 +4730,7 @@
 		++ appeal (n/v)懇求, [to]嘗試說服, 上訴 = petition, 吸引 = allure
 		+ appellant (n)上訴人
 		+ appellation (n)名稱/稱呼, 命名, 法定產區葡萄酒 = appellation contrôlée
-		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = exact = oblige, 激起/引發 = incite 
+		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = oblige, 激起/引發 = incite 
 		+ compelling (adj)引人入勝的 = complusive, 令人信服的, 壓倒的 = overwhelming
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
 		* compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的 = compelling
@@ -5856,7 +5856,7 @@
 		* expire (v)去世, 期滿/到期, 呼氣 = exhale --> expiration (n)期滿/中止 = termination, 吐氣 = exhalation
 		- perspire (v)出汗 = sweat
 		- respire (v)呼吸 = breathe --> respiration (n)呼吸, 一次呼吸
-		- transpire (v)被揭露 = be revealed, 發生 = occur = happen, (植物)蒸散
+		- transpire (v)[it]被揭露 = be revealed, 發生 = occur = happen, (植物)蒸散
 
 	sail, sault, sult, sil, sali 跳 = leap, spring
 		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass --> assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
@@ -5969,7 +5969,7 @@
 		+ sensuous (adj)感覺上的, 令人感官愉悅的
 		+ sentient (adj)有知覺的 = conscious
 		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <-- sentence
-		+ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
+		++ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish
 		- sentimentality (n)多愁善感
 		- /ˈsɛntɪn(ə)l/ sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛 = station
 		- sentry (n)哨兵/衛兵 = sentinel
@@ -5990,6 +5990,7 @@
 		+ /əbˈsɛs/ obsess (v)迷住 = preoccupy = haunt, 煩擾 <|> /ə(ʊ)ˈbiːs/ obese
 		- preside (v)主持/擔任主席, [over]負責, [at]主奏 --> president (n)總統, 校長, 長官
 		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, (權力)屬於/歸於, (特質)存在 --> resident (n)居民, 留鳥, 住院醫生 (adj)定居的/常駐的
+		- residential (adj)居住的, 提供住宿的, 充滿住宅的
 		- /ˈrɛzɪdjuː/ residue (n)剩餘物  <-- reside
 		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 (n)剩餘, 重播費
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
@@ -6018,11 +6019,11 @@
 		- /ˈsɔːs(ə)rə/ sorcerer (n)巫師
 
 	suage 甜 = pleasant, sweet
-		+ assuage (v)減輕/緩和 = alleviate = allay, 滿足 = satisfy = indulge = gratify
+		+ /əˈsweɪdʒ/ assuage (v)減輕/緩和 = alleviate = allay, 滿足 = satisfy = indulge = gratify
 		- /swɑːv/ suave (adj)溫文爾雅的 = debonair
 
 	suade 建議/力勸 = urge, recommend
-		- dissuade (v)[from]勸阻/阻止 = discourage = prevent
+		- /dɪˈsweɪd/ dissuade (v)[from]勸阻/阻止 = discourage = prevent
 		- persuade (v)說服 = induce, 使相信 = convice
 
 	sume, sumpt 拿/取 = take
@@ -6051,54 +6052,55 @@
 		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
 		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
-		* restrict (v)限制/妨礙 --> restriction (n)限制 = stricture
-		- strain (n)使勁/費力 --> strained (adj)關係緊張的, 焦慮的/神色不安的, 牽強的 = contrived
-		++ strict (adj)周密的/詳細的 = close = careful = minute, 嚴謹的 = stringent = exacting, 嚴格的 = stern = severe = austere = stringent, 完全的 = absolute = complete = utmost --> stricture (n)苛評/非難 = censure, [醫]狹窄部位, 限制 = restriction
-		- string (n)細繩/線
-		+ stringent (adj)嚴格的 = strict = stern = severe = austere, 迫切的/必要的 = compelling = urgent = constraining, 有說服力的/有力的 = convicing = forible, [經濟]緊縮的 <-- string
+		* restrict (v)限制/控制, 監禁 = restrain --> restriction (n)限制規定, 限制/控制 = control = stricture
+		*** strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
+		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
+		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
+		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙 
+		+ stringent (adj)嚴格的/經去的 = strict = stern = severe = austere = precise = exacting
 		* unrestrained (adj)不受限制的/無節制的
 
 	stern 散播 = strew, spread
-		- consternation (n)驚恐/驚惶失措 = shock
-		* stern (adj)嚴厲的/苛刻的 = severe, (工作等)嚴峻的/棘手的 (n)船尾
+		- consternate (v)使驚恐 --> consternation (n)驚恐/驚惶失措 = shock
+		* stern (adj)嚴厲的/苛刻的 = severe (n)船尾
 
 	sphere 球/團
 		- biosphere
 		- atmosphere (n)大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
-		- hemisphere (n)(地球的)半球, 腦半球
+		- hemisphere (n)半球, 腦半球
 
 	scend, scens, scent 爬 = climb
-		- ascend (v)上升/攀登 = climb, 晉升 = promote
-		- ascent (n)登高, 上坡, 上升, (地位)提高/提升
-		+ ascendancy (n)優勢/支配地位/統治權 = dominance = predominance
-		+ condescend (v)懷著優越感地對待/輕慢, 屈尊做… = patronize = deign --> condescension (n)傲慢, 屈尊 
-		*** descend (v)下降/走下, 下傾, 傳下來/源自於/是...的後裔, 突然襲擊/拜訪 --> descent (n)下降/下坡/衰落, 突擊/突訪, 血統/世系, 遺傳
+		- ascend (v)攀登 = climb, 上升 = rise, 晉升 = promote
+		- ascent (n)登高, 上坡, 上升, 晉升
+		+ ascendancy, ascendency (n)優勢/權勢 = dominance = predominance
+		++ condescend (v)懷著優越感地對待 = patronize, 屈尊做 = deign --> condescension (n)高傲態度 = disdain
+		*** descend (v)下降, 下傾/下坡, [to]屈尊, [to]陷入(困境), [on/upon]突然襲擊, [on/upon]突然拜訪, (黑暗)降臨, [be descended from]為……的後裔, 遺贈
+		*** descent (n)下降/下坡, 墮落, 血統/世系, 遺贈, 突擊, 突訪
 		- descendant (n)後代/後裔
-
-		+ transcend (v)超出/超過 = exceed = overpass = surpass, 超越/優於 = surpass = excel = outstrip --> transcendent (adj)超越的/卓越的/出眾的
-		- transcendental (adj)超凡的/人智所不及的/先驗的詞彙
+		+ transcend (v)超出/超過 = exceed = overpass = surpass, 超越/優於 = surpass = excel = outstrip --> transcendent (adj)超驗的, 卓越的/出眾的 = exceptional
+		- transcendental (adj)超凡的/人智所不及的, 先驗的
 	
 	sci 知道 = know == nois == gnost == cogn
-		* conscience (n)良心/良知
-		+ conscientious (adj)本著良心的 = principled, 小心謹慎的 = scrupulous = particular = meticulous = fastidious = painstaking
-		+++ /ˈkɑn(t)ʃəs/ conscious (adj)有意識的/神志清醒的/有知覺的, 故意的/存心的
-		- conscionable (adj)合乎良心的/公正的
+		* conscience (n)良心/善惡觀念
+		+ /ˌkɒnʃɪˈɛnʃəs/ conscientious (adj)本著良心的 = principled, 勤勉認真的 = assiduous
+		+++ /ˈkɑn(t)ʃəs/ conscious (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional <|> conspicuous
+		- conscionable (adj)合乎良心的/公正的 = scrupulous
 		- omniscient (adj)無所不知的/博識的
-		+ prescient (adj)有預知能力的, 有先見之明的 --> prescience (n)預知/先見 = foreknowledge = foresight = presage
+		+ prescient (adj)有先見之明的 --> prescience (n)預知/先見 = foreknowledge = foresight = presage
 		- science (n)科學, 學科, 學問
-		- scientific (adj)科學的, 系統的/精確的, 需要技術的
+		- scientific (adj)科學的, 系統的/精確的
 
 	sequ 跟隨 = follow
-		+ consequence (n)結果/後果, 重要性/價值 = importance
+		+ consequence (n)結果/後果, 重要性/價值 = importance = relevance
 		* consequential, consequent (adj)作爲結果的/隨之而來的, 傲慢的/自以為是的 = arrogant, 重要的
 		+ inconsequential
 		+ obsequious (adj)逢迎的/諂媚的 = courtly = fawning, 順從的 = submissive = deferential
 		+ obsequy (n)喪禮 = funeral ceremony
-		+ sequence (n)連續, 後果/結果 --> sequential (adj)次序的/順序的, 隨之而來的 = following = subsequent = consequent
-		- subsequent (adj)隨後的/後來的 = sequential = consequent
+		+ sequence (n)順序, 連續, 連續鏡頭 (v)照順序排列 --> sequential (adj)次序的/順序的
+		- subsequent (adj)隨後的/後來的 = following = consequent
 
 	serv 奴隸 = slave
-		- service (n)服務, 服役, 公共設施, 維修/保養 (v)效勞, 檢修/維修
+		- service (n)服務, 服務費, 工作期, 公共設施, 軍隊, 服役, 宗教儀式, 維修/保養, 發球, (傳票等的)送達 (v)檢修/維修/保養, 為……服務, 付..的利息, 交配 = mate with
 		- serviceable (adj)可用的/耐用的
 		+++ servile (adj)奴性的/奴隸的, 屈從的/百依百順的 = submissive = obedient = amenable = docile = servile = yielding, 模仿的 = imitative
 		- servitude (n)奴役/勞役 = yoke
@@ -6741,7 +6743,7 @@
 		+ underscore (v)在...之下畫線, 強調
 		+ understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)保守的/輕描淡寫的 --> understatement (n)不充分的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)充當...的替角
-		*** undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
+		*** undertake (v)試圖/著手做, 陳諾/答應 = promise, undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
 		- underutilized (adj)未充分利用的
 		+ underwrite (v)簽署/簽名同意支付/同意, 給……保險, 認購
 

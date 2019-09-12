@@ -1,25 +1,7 @@
 [A]
-	- a battery of == a number of things of a similar type
-		> Ragwort contains a battery of toxic and resilient alkaloids.
-			>> resilient
-			>> alkaloids 生物鹼 <-- alkali
-		> In the kitchen an impressive battery of stainless steel utensils hangs on the wall.
 	- a case in point == good example
 		> In many case religious persecution is the cause of people fleeing their country. A case in point is colonial India.
 			>> religious persecution 宗教迫害
-	- a chunk of == a large amount or a large part of something
-		> The reception given to Kimura`s radical theory of molecular evolution shows that when invention fights orthodoxy to a draw, then novelty has seized a good chunk of space from convention.
-			>> fight ... to a draw 戰成平手
-			>> novelty
-			>> convention
-		> The company owns a chunk of farmland near Gatwick Airport.
-	- a/an (vast) array of 
-	- a fraction of == A small or tiny part, amount, or proportion of something.
-		> However, human beings use but a fraction of the vast amount of energy produced by nature every day.
-	- a handful of == a small number of
-		> There he assembled a handful of yong assistants and a dozen of mechanics to do nothing but work on inventions.
-	- a great deal of == a large amount of
-		> He made a great deal of money.
 	- a cross section of 典型/樣品 == a group of them that you think is typical or representative of all of them
 		> Although the new, improved bicycle had appealed immediately to a few privileged women, its impact would have been modest had it not attracted a greater cross section of the female population.
 			>> privilege 
@@ -27,14 +9,6 @@
 			>> modest
 			>> had it not [假設句]如果沒有 == if it had not
 		> The demonstration provided a platform for a broad cross section of speakers.
-	- a laundry list of == a long list of
-		> a laundry list of reasons why shareholders should reject the bid
-	- a measure of == a fairly large amount of 
-		> It is ironic that a critic of such overwhelming vanity now suffers from a measure of the oblivion to which he was forever consigning others, in the end, all his self-adulation has only worked against him.
-			>> it is ... that ...
-			>> vanity
-			>> consign to
-			>> self-adulation 妄自尊大
 	- a string of == a series of 
 		> Despite a string of dismal earning reports, the two-year-old strategy to return the company to profitability is beginning to work.
 			>> dismal

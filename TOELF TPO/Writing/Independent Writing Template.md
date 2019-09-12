@@ -58,7 +58,7 @@
 * Template
 	1. Introduction 1
 		* 改寫並復述題目
-		* It is a highly debated issue whether _____.
+		* *It is a highly debated issue whether _____.*
 		* *Some people argue as if it is a general truth that _____.*
 		* While some people believe that _____.
 		* *Depending on personal experience, personality type and emotional concern, we find that some people hold the idea of **A** meanwhile others prefer to **B**.*
@@ -67,9 +67,9 @@
 		* In my point of view, **A** is as important as, if not more important than, **B**. 
 		* When it comes to _____, _____.
 	1. Introduction 2
-		* Deeply deliberating over the issue, I believe that _____.
+		* *Deeply deliberating over the issue,* I believe that _____.
 		* *As far as I am concerned, I **agree/disagree** that _____.*
-		* But to be frank, I cannot **agree** with _____.
+		* *But to be frank, I cannot **agree** with _____.*
 		* *From/In my point of view, it is more advisable to choose **A** rather than **B**.*
 		* Nevertheless, in my part, I prefer **A** rather than **B** as my inclination.
 		* The advantages of B carry more weight than those of **A**.
@@ -93,7 +93,7 @@
 		* *Taking into account of all these factors, we may reach the conclusion that _____.*
 		* It is sagacious to support the statement that _____.
 		* In short / In a word / General speaking, _____. 
-		* *In a word, to choose **A or B** is a dilemma to the public because they sometimes are confused by the seemingly good qualities of **B**, and neglect the genuinely good aspects of A. For the reasons presented above, I strongly commit to the notion that A, rather than B.*
+		* *In a word, to choose **A or B** is a dilemma to the public because they sometimes are confused by the seemingly good qualities of **A/B**, and neglect the genuinely good aspects of B/A.* For the reasons presented above, I strongly commit to the notion that A, rather than B.
 
 ## Reference
 * https://www.toeflresources.com/writing-section/beginners-toefl-independent-guide
