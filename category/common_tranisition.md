@@ -217,18 +217,6 @@
 	- Not the most exciting of places, but even so I was having a good time
 	- There are many spelling mistakes; even so it's quite a good essay. 
 	- The book is rather old; even so, it is very useful
-+ be that as it may == for all that == nevertheless == nonetheless == none the less == still == yet 盡管如此/仍然/還是
-	- Building a new children's home will cost a lot of money but, be that as it may, there is an urgent need for the facility.
-	- I accept that he's old and frail; be that as it may, he's still a good politician.
-	- For all that, I still feel that he is the most capable man in our organization.
-	- She may have some shortcomings, but she is a good mother for all that. 
-	- Nevertheless, accidents still occur.
-	- statements which, although literally true, are nevertheless misleading
-	- the rally, which the government had declared illegal, was nonetheless attended by some 6,000
-+ **notwithstanding** 儘管/還是
-	- Notwithstanding the bad weather, the match went on. 
-	- Notwithstanding he tried hard, he failed in chemistry
-	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
 - at the same time 不過/仍然
 	- I can't really explain it, but at the same time I'm not convinced
 - it is true that ... but ... 儘管/雖然
@@ -253,8 +241,19 @@
 + **whereas** == **while** 而/卻
 	- One person wants out, while the other wants the relationship to continue
 	- Some people like fatty meat, whereas others hate it. 
-+ however 然而/可是
++ be that as it may == for all that == nevertheless == nonetheless == none the less == still == yet == however 然而/可是 
+	- Building a new children's home will cost a lot of money but, be that as it may, there is an urgent need for the facility.
+	- I accept that he's old and frail; be that as it may, he's still a good politician.
+	- For all that, I still feel that he is the most capable man in our organization.
+	- She may have some shortcomings, but she is a good mother for all that. 
+	- Nevertheless, accidents still occur.
+	- statements which, although literally true, are nevertheless misleading
+	- the rally, which the government had declared illegal, was nonetheless attended by some 6,000
 	- People tend to put on weight in middle age. However, gaining weight is not inevitable
++ **notwithstanding** 儘管/還是
+	- Notwithstanding the bad weather, the match went on. 
+	- Notwithstanding he tried hard, he failed in chemistry
+	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
 - (and) yet == but 但是 
 	- the path was dark, yet I slowly found my way
 + instead 替代/反而
