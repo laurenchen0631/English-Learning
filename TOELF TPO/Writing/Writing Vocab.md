@@ -40,7 +40,7 @@
 - give up 放棄 == succumb == surrender == abandon
 - necessary 必要的 == essential == mandatory == crucial
 - discover 發現 == uncover == expose == disclose == explore == observe == unearth
-- method 方式 == approach == mode == technique == means == way
+- method 方式 == the way in which == approach == mode == technique == means == way
 - handle 處理 == manage == deal with == cope
 - kind 種 == sort == type == brand == variety
 
@@ -84,7 +84,6 @@
 - abundant 大量的 == plentiful == ample == copious == generous == sufficient == massive == enormous == impressive == tremendous == huge == big 
 - limited 不足的/有限的 == diminished == insufficient == restricted == narrow == small
 - work 作品 == achievement == creation == production
-
 
 ## Less Common
 - argue 爭論 == dispute == contend

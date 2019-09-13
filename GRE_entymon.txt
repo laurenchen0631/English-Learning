@@ -4812,7 +4812,7 @@
 	plaud, plaus 鼓掌 = clap the hands
 		+ /əˈplɔːd/ applaud (v)鼓掌 = acclaim = admire, 讚賞 = praise --> /əˈplɔːz/ applause (n)鼓掌/喝采 = ovation
 		- plaudit (n)讚美  = praise, 鼓掌 = applause
-		+++ /ˈplɔːzɪb(ə)l/ plausible (adj)貌似真實的/貌似有理的, 花言巧語的 <|> pause
+		+++ /ˈplɔːzɪb(ə)l/ plausible (adj)貌似真實的/貌似有理的 = reasonable = believable, 花言巧語的 <|> pause
 
 	ple, plete, plent, pleni, pleth 滿 = fill == compl
 		- complete (adj)完全的
@@ -5277,7 +5277,7 @@
 			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional = miraculous = phenomenal = significant
 			- remind (v)使想起, 提醒 --> reminder (n)提醒人的事物, 催函/催單
 			* reminisce (v)追憶/回想 = recollect --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
-			* /rɛmɪˈnɪsənt/ reminiscent (adj)使人想起…的/使人回憶起…的/發人聯想的 = redolent <-- re + min 思維 = mind + iscent
+			* /rɛmɪˈnɪsənt/ reminiscent (adj)使人想起…的/使人回憶起…的/發人聯想的 = redolent = resonant <-- re + min 思維 = mind + iscent
 			+ remiss
 			- remit --> remittance --> remission
 			+ remonstrate
@@ -5654,7 +5654,7 @@
 			+ supercilious (adj)目中無人的/傲慢的 = haughty = contemptuous = arrogant <-- super + cili 眼皮/眉毛 = eyelid, eyebrow + ous
 			+++ superfluous --> superfluity
 			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> /suːˌpɪərɪˈɒrɪti/ superiority (n)優越/優勢/上等
-			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級的字
+			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級
 			- supernova (n)超新星
 			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最重要的, 最大的/極度的 = great --> supremacy (n)至高無上/霸權
 			- supremacist (n)至上主義者 (adj)至上主義的
@@ -5754,7 +5754,7 @@
 		+ persist (v)堅持/固執, 持續 = continue to exist = be prolonged
 		+ resist (v)抵抗/反抗 = withstand, 克制/忍住(誘惑) = refrain from --> resistance (n)抵抗/反抗/抵制, 抵抗力, 阻力, 電阻
 		+ resistant (adj)抵抗的/抗……的
-		- restitute (v)復職/恢復, 歸還/償還 --> restitution (n)歸還, 償還/賠償, 恢復/歸還 = restoration
+		- restitute (v)復職/恢復, 歸還/償還 --> restitution (n)歸還, 償還/賠償, 恢復 = restoration
 		+++ restive (adj)焦躁的/不安的 = restless, 倔強的(馬) --> restiveness (n)
 		* restless (adj)焦躁的/煩躁的 = restive, 停不下來的/得不到休息的
 		- stagnate (v)淤塞, 停滯 --> stagnant (adj)淤塞的, 停滯的/懶散的 = dull = sluggish --> stagnation (n)淤塞, 停滯
@@ -5821,7 +5821,7 @@
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
-		+ /ˈspiːʃəs/ specious (adj)似是而非的 = plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
+		+ /ˈspiːʃəs/ specious (adj)似是而非的 <--> plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
 		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面 <|> speculate
 		+ /spɛkˈtakjʊlə/ spectacular (adj)壯觀的/引人入勝的/引人注目的, 明顯的 = obvious (n)壯觀場面
 		- spectator (n)觀眾/觀看者 = audience
@@ -5844,7 +5844,7 @@
 			- despair (n/v)絕望 <|> desperate
 			- desperate (adj)絕望的, 危急的/險峻的 = serious, 暴力的 = violent, 極度渴望的 = longing <|> disparate
 			+ prosper (v)成功/繁榮 = boom = bloom = thrive, 成長茁壯 --> prosperity (n)成功/繁榮 = bloom = boom
-			+ prosperous (adj)興旺的/繁榮的 = thrifty, 吉利的
+			+ prosperous (adj)興旺的/繁榮的 = thrifty, 吉利的 = propitious = favorable = benign = auspicious
 
 	spir, spire 呼吸 = breathe, blow == hale
 		* aspire (v)嚮往/有志於, 屹立 = tower
@@ -6045,9 +6045,9 @@
 
 	string, strain, strict 拉緊 = draw tight, draw togerher
 		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)收縮的, 酸澀的(味道), 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
-		+ constrain (v)強迫 = compel = coerce, 限制/束縛 = restrict = confine = restrain, 拘禁 = imprison
+		+ constrain (v)強迫 = compel = coerce, 限制 = restrict = confine = restrain, 監禁 = imprison = restrain
 		+ constraint (n)約束/限制
-		- constrict (v)壓縮/緊縮, 阻止/限制 = inhibit = restrict
+		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict
 		- distrain (v)扣押(財物)
 		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
@@ -6056,8 +6056,8 @@
 		*** strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
 		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
-		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙 
-		+ stringent (adj)嚴格的/經去的 = strict = stern = severe = austere = precise = exacting
+		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙 <|> spring -> sprang -> sprung
+		+ stringent (adj)嚴格的/精確的 = strict = stern = severe = austere = precise = exacting
 		* unrestrained (adj)不受限制的/無節制的
 
 	stern 散播 = strew, spread
@@ -6092,47 +6092,50 @@
 
 	sequ 跟隨 = follow
 		+ consequence (n)結果/後果, 重要性/價值 = importance = relevance
-		* consequential, consequent (adj)作爲結果的/隨之而來的, 傲慢的/自以為是的 = arrogant, 重要的
+		* consequent (adj)作爲結果的/隨之而來的 (n)後項
+		* consequential (adj)作爲結果的/隨之而來的, 重要的
 		+ inconsequential
-		+ obsequious (adj)逢迎的/諂媚的 = courtly = fawning, 順從的 = submissive = deferential
-		+ obsequy (n)喪禮 = funeral ceremony
+		+ obsequious (adj)逢迎的/諂媚的 = courtly = fawning = obedient
+		+ /ˈɒbsɪkwɪz/ obsequies (n)喪禮 = funeral ceremony
 		+ sequence (n)順序, 連續, 連續鏡頭 (v)照順序排列 --> sequential (adj)次序的/順序的
 		- subsequent (adj)隨後的/後來的 = following = consequent
 
 	serv 奴隸 = slave
 		- service (n)服務, 服務費, 工作期, 公共設施, 軍隊, 服役, 宗教儀式, 維修/保養, 發球, (傳票等的)送達 (v)檢修/維修/保養, 為……服務, 付..的利息, 交配 = mate with
-		- serviceable (adj)可用的/耐用的
-		+++ servile (adj)奴性的/奴隸的, 屈從的/百依百順的 = submissive = obedient = amenable = docile = servile = yielding, 模仿的 = imitative
-		- servitude (n)奴役/勞役 = yoke
+		- serviceable (adj)有用的 = usable, 正常運作的, 耐用的
+		+++ servile (adj)奴性的/奴隸的, 卑躬的/諂媚的 = submissive = obedient = subservient = docile = deferential
+		- servitude (n)奴役(狀態) = yoke
 
 	serve 服務/保持/看 = keep, look
-		* conserve (v)保存/保留/保護 (n)糖漬食品/蜜餞
-		- conservatory (n)溫室, 音樂學院/戲劇學院/藝術學院
-		+ conservative (adj)保守的, 保守的/傳統的, 保守黨的, 保守估計的, 穩當的 (n)保守者/守舊者, 保守黨員/保守黨派
-		+ observe (v)看到, 觀察/監視, 遵守 --> observation (n)觀察, 評論/意見
-		- observatory (n)天文台/氣象臺/瞭望臺
-		+ preserve (v)保存/維護/維持 = maintain = retain, 醃漬 --> perservative (adj)防腐的 (n)防腐劑
-		* reserve (v)保存/保留, 預約/預訂 (n)儲備/儲藏量
-		+ reserved (adj)預訂的/儲備的, 沉默寡言的/緘默的/含蓄的, 有所保留的/有節制的 = reticent = reluctant
+		* conserve (v)保存/保留/保護, 醃漬 (n)糖漬食品/蜜餞/果醬 = preserve
+		- conservatory (n)溫室, 音樂學院/藝術學院 = conservatoire
+		+ conservative (adj)保守的, 保守黨的, 保守估計的, 防腐的 (n)保守者/守舊者, 保守黨員/保守黨派
+		+ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力 評論/意見 = remark = review
+		- observatory (n)天文台/氣象臺/觀察站
+		+ preserve (v)保存/維護/維持 = maintain = retain, 醃/防腐 (n)糖漬食品/蜜餞/果醬, 保護區/禁獵區 = sanctuary --> preservative (adj)防腐的 (n)防腐劑
+		* reserve (v)保存/保留, 預約/預訂, 延遲作出(判決) (n)儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = reserve price
+		+ reserved (adj)預訂的/保留的, 沉默寡言的/含蓄的
 		+ /ˈrɛzəvwɑː/ reservoir (n)水庫/蓄水池, 儲藏/積累, 儲液囊
 		+ subservient (adj)充當下手的 = subordinate, 有用的 = useful, 奉承的/卑屈的 = servile = obsequious --> subservience (n)從屬, 有益, 奉承/卑屈/恭順
+		++ subservient (adj)屈從的 = servile = submissive = deferential, 次要的 = subordinate, 作為..目的的
 
 	sign 標出 = mark, seal
-		- assign (v)分配/分派, 把…歸因 = ascribe --> assignment (n)任務/功課/工作, 分配
-		* consign (v)運送/投遞/托運 = send = deliver, 託付/交付 = commit = delegate
-		- design (n/v)設計
+		** assign (v)分配 = allocate, 指派 = appoint, [to]把…歸因 = ascribe, [法]讓渡 --> assignment (n)任務/功課, 分配, 指派, 轉讓
+		* consign (v)託付/投遞/托運 = send = deliver, [to]丟棄
+		- design (n/v)設計, 計畫/謀劃 (mn)計畫
+		- designate (v)指定 = appoint = assign, 把..定名為/稱呼 (post adj)新指定的/新任命的
 		- designation (n)指定 = indication, 名稱/稱呼 = name = title
 		- insignia (n)階級, 徽章/袖章 = badge = emblem
-		+ resign (v)辭去/放棄, 使聽從/使順從 = submit = yield --> resigned (adj)逆來順受的/順從的 --> resignation (m)屈從/順從, 辭職
-		+ signal (v)發信號 (adj)顯著的 (n)信號
-		- signify (v)表示/意味, 有重要性/很重要/要緊
-		+ significant (adj)相當數量的 = considerable = substantial, 意義重大的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
+		+ resign (v)辭去/放棄, [onself to]認命 --> resigned (adj)逆來順受的/認命的 --> resignation (mn)認命, 辭職, 辭呈
+		++ signal (adj)顯著的/不尋常的 (n)信號, 鐵路指示燈 (v)發信號, 命令 = instruct
+		- signify (v)表示/意味 = indicate, 有重要性/很重要/要緊
+		+ significant (adj)重要的, 意義深長的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
 
 	son 聲音 = sound
-		- consonant (adj)一致的/調和的 <--> dissonant (n)子音/子音字母 <--> vowel
-		+ dissonant (adj)不和諧的/不一致的 = discordant = incompatible --> dissonance (n)不一致, 不和諧音
-		- resonant (adj)宏亮的 = orotund = stentorian, 共鳴的 --> resonance (n)共鳴/回響
-		- sonic (adj)聲音的/音速的
+		- consonant (adj)[with]一致的/調和的 <--> dissonant, 子音的 (n)子音/子音字母 <--> vowel
+		+ dissonant (adj)不和諧的/不一致的 = discordant = incompatible --> dissonance (n)不和諧/不一致
+		- resonant (adj)響亮的 = orotund = stentorian, 引起共鳴的/引起聯想的 = reminiscent --> resonance (n)共鳴/回響, 共振
+		- sonic (adj)聲音的
 		- sonata (n)奏鳴曲
 		- sonnet (n)十四行詩
 

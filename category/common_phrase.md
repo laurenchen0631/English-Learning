@@ -17,3 +17,20 @@
 	- However, human beings use but a fraction of the vast amount of energy produced by nature every day.
 - a laundry list of 一長串的 == a long list of
 	- a laundry list of reasons why shareholders should reject the bid
+
+## Degree
+
+## Space
+- the length and breadth of 四處/到處 == If you travel the length and breadth of a place, you go to every part of it.
+	- She travelled the length and breadth of Ireland looking for her missing brother.
+
+## Time
+- all the while 一直 == for all of a period of time
+	- There I was thinking you were hard at work and you were upstairs in bed all the while!
+	- He later worked on similar jobs across the length and breadth of England, all the while studying the newly revealed strata and collecting all the fossils he could find.
+- the passage of time 時間的流逝
+	- The beauty of the gardens had not faded with the passage of time.
+
+## Act
+- a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
+	- I didn't particularly like the job - it was just a means to an end.
