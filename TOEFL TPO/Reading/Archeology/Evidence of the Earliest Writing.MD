@@ -20,6 +20,9 @@ What was the social status of the anonymous accountants who produced this breakt
 - tablet (n)刻寫板, 平板電腦, 便箋
 - detective (n)偵探, 刑探, 刑事調查
 - ? had its origins in the accounting practices of commercial activity 来源于商业活动的计数实践
+- have one's origin (in sth) 出現/被發明/被製造
+	- The silk industry had its origin in China.
+	- The school had its origin with a large gift from a donor.
 - ? A debt of six units of grain and eight head of livestock 六个单位的谷物和八头牲畜的账
 - they were sealed inside clay envelopes that could be broken open and counted when it came time for a debt to be repaid 这里符号被封存在黏土信封中，当还债的时候可以敲碎打开并且计数
 - whereby (adv)憑此 == by which

@@ -359,6 +359,7 @@
 		- arson (n)縱火
 
 	arm, armi 武裝/武器
+		- army (n)軍隊, 大群/大批
 		- armada (n)艦隊 <-- arm + ada 艦隊
 		- armor (n)裝甲
 		- armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
@@ -1368,6 +1369,7 @@
 			*** deprave (v)使墮落 <|> deprive --> depraved (adj)墮落的/腐敗的 = putrid = vicious = wicked --> depravity (n)墮落 = turpitude <-- de + prav 不正派的 = crooked
 			+ derive --> derived --> derivative --> derivation
 			+ deride
+			- desire (n/v)渴望 --> desirable (adj)值得嚮往的/值得擁有的 = advisable <-- de + sire 天體 = heavenly body, constellation
 			+ despite
 			- destrain
 			+ desultory
@@ -1700,7 +1702,7 @@
 		+ adduce (v)引用/舉證
 		+++ conduct (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
 		+ conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
-		- conduit (n)渠道/引水道/水管
+		- conduit (n)導管, 導線管
 		+ deduct (v)減去/扣除 = subtract, 演繹 = deduce = conclude = infer --> deductive (adj)推理的 --> deduction (n)演繹/推論, 扣除 = subtraction
 		- deduce (v)演繹/推斷 = deduct = conclude = infer
 		- duct (n)管線, (人體的)管/導管
@@ -2158,6 +2160,7 @@
 
 	form 形狀
 		+ conform (v)順從/遵從 = comply = hew, 遵從傳統或標準行動, 使相似/使一致 = agree --> conformity (n)遵從/遵守, 符合/符合度
+		- cuneiform (adj)楔形文字的, 楔狀骨的 (n)楔形文字
 		- formal (adj)正式的, 拘謹的/刻板的, 整齊的, 形式上的
 		- formality (n)禮節/俗套, 拘泥形式/拘謹, 正式
 		+ formation (n)形成/組成, 構成物/結構, 編隊/隊形
@@ -2548,6 +2551,7 @@
 		- petroglyph
 		- program (n)節目, 計畫/方案, 大綱 (v)為……安排節目, 為……制訂計畫
 		- photography
+		- pictograph, pictogram (n)象形文字, 統計圖表
 		- telegram (n)電報 (v)向……發電報
 		- typograph (n)印刷 --> typographical (adj)印刷上的
 
@@ -2902,7 +2906,7 @@
 			+ /ˌɪnɪˈlʌktəb(ə)l/ ineluctable (adj)無法逃避的/不可避免的 = inevitable <-- in + eluc 逃避 = struggle out + able
 			+ inept --> ineptitude
 			- inequity
-			+ /ɪˈnəːt/ inert (adj)惰性的, 無生命的/遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 懶惰 <-- in + ert 技巧 = skill
+			+ /ɪˈnəːt/ inert (adj)惰性的, 無生命的/遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 慣性 <-- in + ert 技巧 = skill
 			- inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing, 不會疲勞的 = untiring = tireless
 			++ inexorable (adj)無法改變的/不可阻擋的, 說不動的/無情的 = implacable = relentless = unyielding = stern
 			+ inexplicable (adj)無法解釋的 = mysterious = obscure
@@ -2957,7 +2961,7 @@
 			+ intrepid
 			- intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
 			+ invalidate (v)使無效 = nullify
-			* invariably (adv)不變地/總是 == always == In every case or on every occasion
+			*** invariably (adv)不變地/總是 = always 
 			- invertebrate (adj)無脊椎的 (n)無脊椎動物 = in + vertebrate 
 			+ invidious
 			+ inviolate (adj)未被侵犯的/未被褻瀆的 <-- in + violate
@@ -3323,6 +3327,7 @@
 [L]
 	lut, luv, lug, lav 沖/洗 = wash --> diluv 洪水
 		- ablution (n)沐浴/洗澡, 淨禮
+		- alluvium (n)沖積層/沖積土 --> alluvial (adj)沖積的
 		- deluge (n)大洪水, 暴雨, 大量 (v)被洪水淹沒 = overwhelm, 壓倒 = overwhelm <|> divulge
 		+ dilute (v)沖淡/稀釋, 削弱/減低 = reduce (adj)稀釋的, 低濃度的
 		- diluvial (adj)洪水的
@@ -3581,7 +3586,7 @@
 
 	liqu 液體 = liquid
 		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmonious, 易換成現金的
-		- liquidate (v)清算/清償, 把..換為現金, 殺
+		- liquidate (v)清算/清償, 把..換為現金, 殺 --> liquidation (n)清算/清償, 殺害
 		- liquor (n)白酒/烈酒, 汁水, 溶液
 
 	lapid, lith 石頭
@@ -4610,6 +4615,8 @@
 		+ indispensable --> indispensability
 		- impend (v)將至/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
 		- pending (adj)即將發生的 = imminent = impending = momentary, 未決的 = unfinished (prep)直到..發生
+		- pendant (n)垂飾, 有垂飾的項鍊, 吊燈, 成對物中的一個 (adj)下垂的 = pendent
+		- pendent (adj)下垂的 = pendant, 未決的 = pending
 		- /ˈpɛndjʊləm/ pendulum (n)擺/擺錘, 來回擺動
 		+ pensive (adj)沉思的/憂戚的 = wistful
 		- perpendicular (adj)垂直的 = vertical (n)垂直線, 垂直的位置
@@ -4784,6 +4791,13 @@
 		- plaster (n)灰泥/石膏 (v)抹灰泥, 塗抹, 公開展示, 敷貼膏藥, 轟炸/砲彈攻擊 = bombard
 		++ plastic (adj)可塑的/塑性的, 不自然的/假的 = artifical = unnatural, 容易塑形的, 塑造的/塑性的, 適應性的 (n)塑膠, 信用卡
 		++ plasticity (n)可塑性/柔軟性 = pliability, 適應性
+	
+	plasm 質/漿 = plasma
+		- plasma, plasm (n)血漿/乳漿, 電漿, 等離子氣體, 深綠玉髓, 細胞質/原生質
+		- protoplasm (n)原生質
+		- cytoplasm (n)細胞質
+		- ectoplasm (n)外質/原生動物之外皮層, 靈皮(一種在靈性主義中用來表示物質或精神能量被物質媒介“外化”的術語)
+		- somatoplasm (n)體細胞/體細胞原漿
 
 	plat 平的 = flat
 		- plate (n)盤子/碟子/托盤, 一盤, 肉類主菜, 車牌 (v)電鍍
@@ -5272,7 +5286,7 @@
 			+ reluct (v)不情願 --> reluctant (adh)不情願的 = averse = unwilling = loath = disinclined --> reluctance (n)不情願 <-- re + luct 掙扎 = struggle
 			- remain (v)剩下/餘留/保持 <-- re + main 留下 = stay
 			- remains (n)遺址/廢墟, 大體/遺體
-			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的
+			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的 = residual
 			- remainder (n)剩餘物, 餘數, 地產的指定繼承權 (v)削價出售(書)
 			+++ remark (n/v)談到/評論 = mention, 注意/覺察 = note = perceive = observe 
 			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional = miraculous = phenomenal = significant
@@ -5809,6 +5823,7 @@
 		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin --> prescription (n)處方, 命令/指示
 		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce <|> prescribe
 		- scribble (n/v)亂寫/亂塗 
+		- scribe (n)抄寫員, 劃線器 (v)寫 = write, 用劃線器劃 --> scribal (adj)抄寫的
 		- script (n)手跡/筆跡, 劇本/腳本 (v)編寫
 		- scripture (n)權威性著作/經文/聖典
 		+ transcribe (v)抄寫/謄寫, 轉譯, 改編(樂曲)
@@ -5916,10 +5931,10 @@
 		- seminary (n)神學院 <|> seminal
 
 	sacr, secr, sanct 神聖 = sacred, holy
-		+ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow, 任命(神職) = ordain, 獻身於/致力於 = devote
+		++ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow, 任命(神職) = ordain, 獻身於/致力於 = devote
 		+ /ˈɛksɪkreɪt/ execrate (v)憎恨/憎惡 = loathe
 		+ /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
-		- massacre (n)大屠殺 = carnage = slaughter = genocide, 慘敗 (v)屠殺, 遭慘敗
+		- /ˈmasəkə/ massacre (n)大屠殺 = carnage = slaughter = genocide, 慘敗 (v)屠殺, 遭慘敗
 		+ /ˈdɛsɪkreɪt/ desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
 		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
@@ -5946,7 +5961,7 @@
 		* executive (adj)執行的, 行政上的, 商業用的 (n)執行者/經理/業務主管, 執行委員會, 行政部門
 		- executor (n)執行者, 遺囑執行人
 		- consecutive (adj)連續不斷的 = continuous
-		- persecute (v)迫害, 騷擾 = harass = distract = pester
+		- /ˈpəːsɪkjuːt/ persecute (v)迫害, 騷擾 = harass = distract = pester
 		- prosecute (v)告發/提告, 把…進行到底 <|> persecute --> prosecution (n)起訴/告發, 持續進行
 		- prosecutor (n)檢察官, 告訴律師
 
@@ -5993,7 +6008,7 @@
 		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, (權力)屬於/歸於, (特質)存在 --> resident (n)居民, 留鳥, 住院醫生 (adj)定居的/常駐的
 		- residential (adj)居住的, 提供住宿的, 充滿住宅的
 		- /ˈrɛzɪdjuː/ residue (n)剩餘物  <-- reside
-		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 (n)剩餘, 重播費
+		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 = remnant (n)剩餘, 重播費
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
 		- sediment (n)沉積物, 渣 = dregs (v)沉積
@@ -6082,7 +6097,7 @@
 		- transcendental (adj)超凡的/人智所不及的, 先驗的
 	
 	sci 知道 = know == nois == gnost == cogn
-		* conscience (n)良心/善惡觀念
+		* /ˈkɒnʃ(ə)ns/ conscience (n)良心/善惡觀念 <|> /ˈkɑn(t)ʃəs/ conscious
 		+ /ˌkɒnʃɪˈɛnʃəs/ conscientious (adj)本著良心的 = principled, 勤勉認真的 = assiduous
 		+++ /ˈkɑn(t)ʃəs/ conscious (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional <|> conspicuous
 		- conscionable (adj)合乎良心的/公正的 = scrupulous
@@ -6103,7 +6118,7 @@
 
 	serv 奴隸 = slave
 		- service (n)服務, 服務費, 工作期, 公共設施, 軍隊, 服役, 宗教儀式, 維修/保養, 發球, (傳票等的)送達 (v)檢修/維修/保養, 為……服務, 付..的利息, 交配 = mate with
-		- serviceable (adj)有用的 = usable, 正常運作的, 耐用的
+		- serviceable (adj)有用的 = usable, 正常運作的, 耐用的 = durable
 		+++ servile (adj)奴性的/奴隸的, 卑躬的/諂媚的 = submissive = obedient = subservient = docile = deferential
 		- servitude (n)奴役(狀態) = yoke
 
@@ -6111,13 +6126,12 @@
 		* conserve (v)保存/保留/保護, 醃漬 (n)糖漬食品/蜜餞/果醬 = preserve
 		- conservatory (n)溫室, 音樂學院/藝術學院 = conservatoire
 		+ conservative (adj)保守的, 保守黨的, 保守估計的, 防腐的 (n)保守者/守舊者, 保守黨員/保守黨派
-		+ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力 評論/意見 = remark = review
+		++ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力 評論/意見 = remark = review
 		- observatory (n)天文台/氣象臺/觀察站
 		+ preserve (v)保存/維護/維持 = maintain = retain, 醃/防腐 (n)糖漬食品/蜜餞/果醬, 保護區/禁獵區 = sanctuary --> preservative (adj)防腐的 (n)防腐劑
 		* reserve (v)保存/保留, 預約/預訂, 延遲作出(判決) (n)儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = reserve price
 		+ reserved (adj)預訂的/保留的, 沉默寡言的/含蓄的
 		+ /ˈrɛzəvwɑː/ reservoir (n)水庫/蓄水池, 儲藏/積累, 儲液囊
-		+ subservient (adj)充當下手的 = subordinate, 有用的 = useful, 奉承的/卑屈的 = servile = obsequious --> subservience (n)從屬, 有益, 奉承/卑屈/恭順
 		++ subservient (adj)屈從的 = servile = submissive = deferential, 次要的 = subordinate, 作為..目的的
 
 	sign 標出 = mark, seal
@@ -6141,68 +6155,63 @@
 		- sonnet (n)十四行詩
 
 	stell, sider 星星 = star == astro
-		- consider (v)認真考慮/斟酌/細想 = deliberate = reflect = entertain, 顧及/考慮到, 認爲 = reckon = suppose
+		- consider (v)認真考慮/斟酌 = ponder = deliberate = reflect = entertain, 認爲 = reckon = suppose, 注視 = regard
 		+ considerable (adj)相當多的/相當重要的/值得考慮的/相當的 = significant = substantial
-		- constellation (n)星座/星群, 人才濟濟/明星群集
+		- constellation (n)星座/星群, 群集
 		+ /dɪˌzɪdəˈrɑːtəm/ desideratum -> desiderata (n)需要的東西
 		- interstellar (adj)星際的
-		- stellar (adj)恆星的/星球的, 傑出的/優秀的
+		- stellar (adj)恆星的/星球的, 傑出的/優秀的 = outstanding, 明星的
 		+ /sʌɪˈdɪərɪəl/ sidereal (adj)恆星的
 
 	still 水滴 = drop
 		+ distill (v)蒸餾, 提煉/濃縮
-		- instill (v)徐徐滴入, 逐漸灌輸
-
-	sire 天體 = heavenly body, constellation
-		- desire (n/v)渴望 --> desirable (adj)值得擁有的 = advisable
+		- instill (v)滴入, 逐漸灌輸
 
 	sum 總數
-		+ consummate (adj)高明的/熟練的 (v)完婚, 使圓滿/使完美/完成 = fulfill = complete 
-		* summary (n)總結/概要/摘要 
-		- summon (v)召集/傳喚 = rally, 鼓起(勇氣)
+		+ consummate (adj)高明的/熟練的 (v)完婚, 完成(交易) = complete 
+		* summary (n)總結/概要/摘要 = essence = synopsis = abstract = compendium = recapitulation (adj)精簡的 = brief = cursory = succinct = terse = compact
+		- summon (v)召集/傳喚 = rally, 急需, 使出, [up]喚起(印象)
 
 	sicc 乾 = dry
 		+ /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate --> desiccated (adj)乾的/乾燥的/脫水的, 無趣的/毫無新意的 = uninteresting
-		- siccative (adj)乾燥的 (n)乾燥劑
+		- siccative (n)顏料乾燥劑
 
 	sip 丟/味道 = throw, sapid == ject
 		+ dissipate (v)消失/使消失, 散開 = disperse = scatter, 揮霍 = waste = squander --> dissipation (n) = dissolution
 		+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
 
 	stin, sti, sting, stig, stimul 刺 = prick
-		+ distinct (adj)清楚的/明顯的 = evident, 明顯不同的 = trenchant, 卓越的 = exceptional = noble --> distinction (n)區別/差別, 卓越, 知名 = fame = eminence
+		+ distinct (adj)明顯不同的 = trenchant, 分開的 = separate, 肯定的/絕對的 = definite --> distinction (n)區別/差別 = difference = contrast, 卓越, 殊勛/榮譽
 		- distinctive (adj)與眾不同的/獨特的
-		+ distinguish (v)區分/分辨 = discern = differentiate --> distinguished (adj)著名的/卓越的, 高貴的/高雅的
-		+ extinguish (v)熄滅 = quench, 使(想法或感情)破滅 = annihilate
-		- extinct (adj)絕種的/消失的
-		+ instigate (v)慫恿/煽動 = foment = foster, 激勵 = urge = provoke = incite = stir up
-		+ instinct (n)天性/本能, 直覺 --> instinctive (adj)本能的, 直覺的 = intuitive
-		+ stimulate (v)刺激/激勵/促使 = goad = prod = urge = whet --> stimulating (adj)使人興奮的
-		- stimulant (n)興奮劑/刺激物
-		- stimulus -> stimuli (n)刺激 = impetus, 刺激品, 刺激/有趣
-		- sting (v)刺/螫/叮, 刺痛/傷害, 刺激/驅使 (n)刺, 諷刺/挖苦
-		++ stingy (adj)吝嗇的 = mean = parsimonious = miserly = penurious, 缺乏的/不足的/極少的 = scanty = meager = sparing = miserable, 有刺的/刺人的
-		- stinginess (n)小氣/吝嗇
-		* stir (v)攪拌, 醒來/起來, 激發/煽動 = agitate = roil = rile
+		++ distinguish (v)區分/分辨 = discern = differentiate, [oneself]使傑出 --> distinguished (adj)著名的/卓越的, 氣度不凡的/高雅的
+		+ extinguish (v)熄滅 = quench, 使..消滅 = annihilate = destroy, 使(人))安靜
+		- extinct (adj)絕種的/不復存在的, 死的(火山) <--> extant
+		+ instigate (v)開始/引發 = bring about = initiate, [sb to V]慫恿/煽動 = foment = foster
+		+ instinct (n)天性/本能, 直覺 (adj)[with]充滿的(特質) --> instinctive (adj)本能的, 直覺的 = intuitive
+		+ stimulate (v)刺激(神經), 激勵/促進 = goad = prod = urge = whet <|> simulate --> stimulating (adj)另人興奮的
+		- stimulant (n)興奮劑/刺激物 (adj)使人興奮的
+		- stimulus -> stimuli (n)刺激品/興奮劑, 動機 = spur = incentive, 刺激/有趣
+		- sting -> stung -> stung (n)刺, 螫, 被叮的傷口, 刺痛, 刺痛/傷害, 詐騙行動 (v)刺/叮, 刺痛, 刺痛/傷害, 敲詐
+		++ stingy (adj)吝嗇的 = mean = parsimonious = miserly = penurious --> stinginess (n)小氣/吝嗇
+		*** stir (v)攪拌, (使)微動, 醒來/起來, [from/out of]離開 = leave = go out, 開始採取行動, 激起(情緒), 喚醒/喚起(記憶) (n)微動, 騷動/示威行動 = commotion, 攪拌
 
 	sati, satur 滿足 = enough, full
-		- insatiable (adj)不能滿足的/貪心的
-		- sate (v)使心滿意足/使厭膩 = glut <-- satiate
-		++ /ˈseɪʃɪeɪt/ satiate (v)使反胃/過量提供 = cloy = surfeit, 充分滿足 = satisfy = saturate (adj)吃飽的 --> satiable (adj)可滿足的
-		- satiated (adj)充分滿足的, 厭倦的/生膩的
-		+ satisfy (v)使滿足/使滿意 = satiate = sate = assuage, 使確信
-		- satire (n)諷刺/諷刺性作品 --> satirize (v)諷刺
-		+ saturate (v)浸透 = imbue, 使充滿 = impregnate
+		- insatiable (adj)不能滿足的
+		- sate (v)使充分滿足 = satisfy = gratify = assuage <-- satiate
+		++ /ˈseɪʃɪeɪt/ satiate (v)使充分滿足 = sate --> satiate (adj) --> satiable (adj)可滿足的
+		+ satisfy (v)使滿足/使滿意 = sate, 償還, 使確信 = convince
+		- satisfaction (n)滿意/滿足, 償還債務, [宗]苦行贖罪 --> satisfactory (adj)令人滿意的
+		+ saturate (v)浸透 = imbue, 使飽和, [軍]對……進行飽和轟炸 (n)飽和脂肪 =  saturated fat (adj)浸透的
 
 	somn 睡眠 = sleep
-		- insomnia (n)失眠症
-		- somniferous (adj)催眠的/使睏倦的
-		- somnolent (adj)想睡的/催眠的 = somniferous
+		- insomnia (mn)失眠症
+		- somniferous (adj)催眠的/使睏倦的 = soporific
+		- somnolent (adj)想睡的, 令人想睡的, 嗜睡的 --> somnolence (n)嗜睡症
 	
 	somato, somat 身體 = body
-		+ somatic (adj)身體的/軀體的/肉體的 = corporeal
-		- somatopathic (adj)軀體病的
-		- somatoplasm (n)體細胞
+		- soma (n)體細胞, 肉體/軀體, 
+		+ somatic (adj)身體的/軀體的/肉體的 = corporeal, 體細胞的
+		- somatoplasm
 
 	surge, surrect 升起 = rise
 		- /səːdʒ/ surge (n/v)激增, 浪湧 (n)高漲, 增兵, 澎湃 (v)蜂擁而至, 洶湧/澎湃
@@ -6476,9 +6485,11 @@
 		+ attributable (adj)可歸因於...的
 		+ contribute (v)貢獻 --> contribution (n)貢獻
 		- distribute (v)分發/分配 = allot = dispense
+		- distributary (n)支流
 		- redistribution
 		- retribution (n)報應/懲罰
 		** tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證 <|> tribulation
+		- tributary (n)支流, 進貢國/附庸國
 
 	tect
 		1. 工匠 = builder, craftsman

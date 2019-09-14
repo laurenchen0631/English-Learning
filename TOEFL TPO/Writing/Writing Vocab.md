@@ -13,7 +13,7 @@
 + cause 導致 == lead to == bring about == give rise to == induce == precipitate == engender == prompt 
 + help 幫助 == benefit == aid == assist == bolster == further == support == encourage == foster
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
-+ good 好的 == remarkable == transcendent == singular == phenomenal == sovereign == sublime == exquisite == striking == exceptional == miraculous
++ good 好的 == remarkable == outstanding == stellar == singular == phenomenal == sovereign == sublime == striking == exceptional == miraculous
 + opinion 意見 == sentiment == assessment == feeling == impression == notion == thought == viewpoint
 + important 重要的 == substantive == significant == essential == influential == consequential == critical
 + considerable 相當的 == appreciable == substantial == fair

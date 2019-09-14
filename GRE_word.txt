@@ -2148,7 +2148,7 @@
     * peril (n)危險 = jeopardy = hazard
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely, 和藹的 = affable = amiable = sociable = cordial = genial
     * personnel (n)全體人員/員工
-    * pest (n)害蟲, 討厭的人或物 --> pester (v)不斷煩擾/糾纏/強求 = badger = nag
+    * pest (n)害蟲, 討厭的人或物 --> pester (v)不斷煩擾/糾纏/強求 = badger = nag <|> pestle
     * /pɪə/ pier (n)碼頭, 防波堤 = levee, 墩/橋墩
     * pit (n)窪坑/凹處, 礦坑/煤礦, 陷阱, 墓穴
     * pitcher (n)投擲者, 大水罐/水壺
@@ -2159,7 +2159,7 @@
     ** plead (v)辯護/辯稱, 乞求/懇求 = beg = crave = appeal = entreat = solicit <-- plea
     *** pledge (n)誓言/保證 = oath, 捐款承諾, 戒酒, 抵押品 (v)發誓, 宣言, 保證, 保證給予, 抵押, 信物
     ** plot (n)故事的情節, 秘密計劃/陰謀 = machinations = schemes, 小塊土地, 圖表 (v)密謀 = conspire = collude = connive = scheme, 做記號
-    * plough, plow (v)犁/耕 = cultivate (n)犁
+    * plow (n)犁, 除雪機/剷雪機 (v)犁/耕, 挖(溝/槽), 破浪前進, 狂飆, 艱辛地前進, [on]堅持, 剷雪
     *** plunge (v)驟然移動/驟然下降 = plummet, 暴跌/驟降, 陷入 (n)跳入/下跌/落下
     * pollute (v)污染 = contaminate
     *** pompous (adj)誇大的 = bombastic = grandiloquent = grandiose = orotund = oratorical = tumid = turgid, 傲慢的/自以為是的 = arrogant = grandiose = portentous --> pomposity (n)自大的行為/傲慢/自以為是
@@ -2572,7 +2572,7 @@
     + /ˈsəʊbrɪkeɪ/ sobriquet (n)綽號 = nickname <|> sobriety
     ++ sodden (adj)濕透的 = saturated, 未烘透的
     + /ˈsɒlɪsɪz(ə)m/ solecism (n)語病/語法錯誤, 失禮 <--> etiquette
-    + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的, 昏睡的 = drowsy = sleepy, 單調的 = monotonous (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
+    + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的 = somniferous, 昏睡的 = drowsy = sleepy, 單調的 = monotonous (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
     + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 單獨的/孤立的 = scattered = isolated = singly <-- spore
     + spurn (v)輕蔑地拒絕/唾棄 = scorn
     +++ sordid (adj)可鄙的/可恥的 = vile = contemptible = filthy = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
@@ -2637,7 +2637,7 @@
     + syntax (n)語法/句法
 
     * sapid (adj)有味道的 = favorful <--> vapid, 美味的 = palatable = savory, 使人愉快的 = agreeable
-    * /ˈsatʌɪə/ satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> satirical (adj)諷刺的 = sarcastic = sardonic = ironic
+    * /ˈsatʌɪə/ satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> satirical (adj)諷刺的 = sarcastic = sardonic = ironic --> satirize (v)諷刺
     * /ˈsatʃəreɪt/ saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
     * scatter (v)(使)散開 = squander = disperse, 撒 = sprinkle
     * scholar (n)學者, 獎學金獲得者 --> scholarly (adj)學者的, 博學的 = erudite = learned, 勤奮好學的
