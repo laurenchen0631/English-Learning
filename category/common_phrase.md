@@ -31,6 +31,8 @@
 	- An amount of milk is in the bottle.
 - amounts of 大量
 	- Amounts of snow are falling down.
+- a variety of 各式各樣的 == a number of different kinds of
+	- They argued that cycling would encourage women to get involved in a variety of noble causes.
 
 ## Degree
 
@@ -49,15 +51,38 @@
 - a (long) way off 隔很長一段時間 == a long time in the future
 	- Christmas is still a way off.
 
-## Act
-- a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
-	- I didn't particularly like the job - it was just a means to an end.
-
 ## Conflict
-- a variety of 各式各樣的 == a number of different kinds of
-	- They argued that cycling would encourage women to get involved in a variety of noble causes.
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
 	- For the old lady buying the daily newspaper soon became an end in itself, since she really just wanted to chat with the shopkeeper.
 	- Iti s something that is an end in itself.
+- be a tall order 困難的事 == to be something that is difficult to do
+	- Building the bridge in time for the Olympics will be a tall order.
+
+## Talk
+- drive/hammer sth home 把…講清楚/使人完全明白 == to say something clearly and with a lot of force so that you are certain people understand it
+	- She really drove home the message that we need to economize.
+
+## Act
+- a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
+	- I didn't particularly like the job - it was just a means to an end.
+- search/hunt high and low 到處找 
+	- I've been hunting high and low for that certificate and I still can't find it!
+- bring sb in line 帶..回到正軌 == to force someone or something to be similar or of the same standard as someone or something else
+	- If you change a word, the others will usually bring you in line. 
+	- Teachers say the raises would bring their salaries into line with other public workers.
+- do away with == get rid of 擺脫/拋棄/廢除 
+	- These ridiculous rules and regulations should have been done away with years ago.
+	- Computerization has enabled us to do away with a lot of paperwork.
+
+## Experience
+- have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad
+	- We certainly have our share of problems at the moment.
+	- She's had her fair share of tragedies in her life.
+
+## Bad
+- goof off 偷懶 == to avoid doing any work
+	- The teacher told them to stop goofing off and get back to work.
+- (go) down the drain [口]]浪費/白費 == be spoiled or wasted
+	- If the factory closes, that will be a million dollars' worth of investment down the drain.

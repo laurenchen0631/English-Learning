@@ -930,7 +930,7 @@
 		> 彎曲/起皺 |Become creased, bent, or crooked.|
 		> 倒 |(of a person) suddenly flop down to the ground.| she crumpled to the floor in a dead faint
 		> 嘴角下揚 |(of a person`s face) suddenly sag and show an expression of desolation.| the child`s face crumpled and he began to howl
-	
+	+ crude /kruːd/ (adj)天然的/未經加工的, 粗略的(估計), 粗糙的/粗陋的, 粗野的/沒教養的 <--> /krʊəl/ cruel
 	- cut -> cut -> cut
 	- cut out 突然熄火/停止運轉 == to stop working suddenly
 		> One of the plane`s engines cut out, so they had to land with only one.
@@ -977,6 +977,7 @@
 		> |A thrill.| I get a real charge out of working hard
 		> 衝鋒 |Rush forward in attack.| the plan is to charge headlong at the enemy
 		> |A headlong rush forward, typically in attack.|
+	- charged (adj)引起強烈感情的/引起激烈爭執的, 帶電的
 	+ correction
 		> 改正 |The action or process of correcting something.| I checked the typing for errors and sent it back for correction
 		 修正量 |A quantity adjusting a numerical result to allow for a departure from standard conditions.| isotopic ratios are presented normalized to NBS SRM981 using a fractionation correction of 0.101% per a.m.u
@@ -1500,7 +1501,7 @@
 		> 出選 |(of a political party) put up (a candidate) to stand in an election.| the Ecology party fielded 109 candidates
 		> 處理 |Deal with (a difficult question, telephone call, etc.).|
 	- fib (n)謊言 (v)說謊
-	- finger-pointing 指責/責難 == a situation in which someone is blamed for something that goes wrong:
+	- finger-pointing 指責/責難 == a situation in which someone is blamed for something that goes wrong
 		> There is the usual finger-pointing when mistakes are made.
 	+ field
 		> |An area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.| 
@@ -1542,6 +1543,7 @@
 	- find out
 		> 發現 |to discover a fact or piece of information| We may never find out the truth about what happened.
 		> 察覺...不誠實 |to discover that someone has been dishonest| It was only a matter of time before someone found him out.
+	- finish (v)結束/完成, 最後加工/潤飾 (n)結束, 最後階段, 潤飾/拋光/漆, 酒的餘味
 	- fill out
 		> 填寫 |to add information such as your name or address in the empty spaces on an official document| It took me several hours to fill out the application form.
 		> 發福 |if someone fills out, their body becomes less thin| Sam’s really filled out, hasn’t he?
@@ -1663,6 +1665,7 @@
 	+ foreigner /ˈfɒrɪnə/ 外國人
 	- follow-up 後續 == a further action connected with something that happened before
 		> This meeting is a follow-up to the one we had last month.
+	- folk /fəʊk/ (n)人們, 人群, 家族, 民間音樂 (adj)民間的/通俗的, 民眾的, 民間音樂的
 	+ foul
 		> 令人噁心的 |Offensive to the senses, especially through having a disgusting smell or taste or being dirty.| a foul odour
 		> 令人不快的 |Very disagreeable or unpleasant.| the news had put Michelle in a foul mood
@@ -1848,6 +1851,7 @@
 		> 裝飾 |(of a person or thing) be an attractive presence in or on; adorn.| Ms Pasco has graced the front pages of magazines like Elle and Vogue
 	
 	- grizzled 灰白的 == Having or streaked with grey hair.
+	- groom (v)清潔/梳洗, 照看(草皮), 準備/訓練 (n)馬夫, 新郎
 	- gush
 		> 湧 |(of a liquid) flow out of something in a rapid and plentiful stream.| water gushed out of the washing machine
 		> 噴 |Discharge (liquid) in a rapid and plentiful stream.| the tanker began to gush oil from its damaged hull
@@ -1979,9 +1983,9 @@
 	+ hold on to sb/sth
 		> 緊緊抓住 |to hold something or someone firmly with your hands or your arms| Hold onto the rope and don`t let go.
 		> 保留/保存 |​to keep something you have| Hold on to your ticket - you`ll need it later.
-	- hold back == to not do something, often because of fear or because you do not want to make a bad situation worse
-		> He held back, terrified of going into the dark room.
-		> I held back during the meeting because I knew that my opinions were too controversial.
+	+ hold back 退縮/猶豫 == to not do something, often because of fear or because you do not want to make a bad situation worse
+		- He held back, terrified of going into the dark room.
+		- he held back, remembering the mistake he had made before
 	- hold out
 		> 伸出 |to hold something where someone else can reach it| Gail held out her glass to be refilled.
 		> 維持/持續 |to continue to be enough or continue to exist| How long will your money hold out?
@@ -4578,7 +4582,7 @@
 	- tailor
 		> 裁縫師 |A person whose occupation is making fitted clothes such as suits, trousers, and jackets to fit |
 		> 扁鰺 |tailorfish; bluefish|
-		> 裁製|(of a tailor) make (clothes) to fit individual customers.|
+		> 裁製 |(of a tailor) make (clothes) to fit individual customers.|
 		> 修改/使合適 |Make or adapt for a particular purpose or person.|
 	- tear -> tore -> torn
 	- tear up
@@ -4764,7 +4768,7 @@
 		> 火舌 |A jet of flame.| a tongue of flame flashed from the gun Eugene has worked out the correct tonguing
 		> 用舌頭吹 |Sound (a note) distinctly on a wind instrument by interrupting the air flow with the tongue.|
 		> 舔 |Lick or caress with the tongue.| the other horse tongued every part of the colt`s mane
-
+	- touch-up (n)潤色
 	- touchstone
 		> 試金石 |A piece of fine-grained dark schist or jasper formerly used for testing alloys of gold by observing the colour of the mark which they made on it.|
 		> 標準 |A standard or criterion by which something is judged or recognized.| They tend to regard grammar as the touchstone of all language performance

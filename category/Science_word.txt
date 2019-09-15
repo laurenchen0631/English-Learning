@@ -125,7 +125,7 @@
 	
 
 [Physical]
-	- wavelength 波長
+	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
 	- light wave 光波
 	- ultraviolet light 紫外線
 	- waveform 波形 
@@ -313,6 +313,7 @@
 	- genitals /ˈdʒɛnɪt(ə)l/ 生殖器官 == A person's or animal's external organs of reproduction.
 	- sphincter /ˈsfɪŋktə/ 括約肌 == A ring of muscle surrounding and serving to guard or close an opening or tube, such as the anus or the openings of the stomach.
 	- larynx /ˈlarɪŋks/ 喉頭 --> laryngeal /ləˈrɪndʒɪəl/ 喉頭的
+	- frontal lobe 額葉 <-- - frontal (adj)前面的, 額骨的 + lobe (n)葉, 裂片
 	
 [Environment]
 	- greenhouse effect
@@ -355,6 +356,10 @@
 	- Mars 火星
 	- Pluto 冥王星
 	- Ceres 穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)
+	- crater (n)彈坑/隕石坑, 火山口 (v)形成坑洞, 墜落
+	- South Pole–Aitken Basin 南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，直徑大約2500公里，深13公里，最大落差16.1公里，它是太陽系中已知最大的撞擊坑之一，也被公認為是月球上最大、最古老和最深的撞擊盆地。
+	- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
+
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

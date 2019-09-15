@@ -782,7 +782,7 @@
 		- excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
 		- incur (v)招惹
 		+ incursion (n)侵略/入侵/襲擊 = invasion
-		- occur (v)發生/出現/被想起 --> occurence (n)事件 = event = incident, 發生
+		- occur (v)發生/出現/被想起 --> occurence (n)事件 = event = incident, 發生/經常性發生, 出現/發現
 		+ precursor (n)先驅/先兆 = forerunner = predecessor, 先驅物質
 		+ procure (v)取得/獲得 = obtain = acquire, 說服 = persuade --> procurement (n)獲得/取得/採購
 		- recur (v)再發生/復發, 重提
@@ -791,7 +791,7 @@
 
 	cur 關心 = care, cure
 		- curate (n)牧師助理 (v)策劃
-		- curator (n)館長
+		- /kjʊəˈreɪtə/ curator (n)館長
 		- curable (adj)可治療的/可醫好的
 		- secure (adj)安全的 = safe, 穩固的 = steady (v)固定, 使安全 --> security (n)安全/保安/防護, 保證/保障
 		- securities (n)證券/債券
@@ -1498,6 +1498,7 @@
 			+ dispassionate (adj)冷靜的/沈著的/公平的 = disinterested
 			++ dispatch (v)派遣/發送, 迅速處理 = expedite, 殺死 (n)派遣/發送, 迅速, 官方報告, 新聞稿, 殺 <-- dis + patch 阻礙 = shackle
 			- displace (v)取代/撤換 = supersede, 迫使離開
+			- displacement (n)移位, 置換/取代, 被迫遷出, 移位量, 排水量, 情感轉移
 			+ displease (v)使不高興/使生氣
 			+ disproportionate (adj)不成比例的
 			+ disprove
@@ -1953,6 +1954,7 @@
 		* endeavor (v)努力/奮力 = strive = attempt (n)嘗試/努力 = attempt = bid = effort
 		+ endemic
 		+ endorse
+		* /ɪnˈdaʊ/ endow (v)捐贈, 資助, [with]賦予 --> /ɪnˈdaʊm(ə)nt/ endowment (n)捐贈, 捐贈的基金或財產, 才能/遺傳
 		+ endure --> enduring --> endurance
 		- enfeeble (v)使虛弱無力 = debilitate
 		- enfetter (v)給...上腳鐐, 束縛
@@ -2043,7 +2045,7 @@
 
 		2. 附帶 = in addition to
 			- epiphenomenon (n)附帶現象
-			- episode (n)一個事件, 一節, 一集 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
+			- episode (n)事件/一連串事件/一段經歷, 一集/一節 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
 			* epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)作為...的縮影/代表/象徵 <-- epi + tome 卷/冊 
 			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = short-lived = transitory, 僅一天的 --> ephemeron (n)短暫之事物 <-- ep + hemer 日 = day + al
 			+ epigram
@@ -2589,7 +2591,7 @@
 		- genital (adj)生殖的 <|> genial
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類
-		- genre (n)文藝作品之類型
+		- /ˈ(d)ʒɒnrə/ genre (n)文藝作品之類型
 		+ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
 		+ homogeneous --> homogeneity
 		+ heterogeneous
@@ -3478,7 +3480,7 @@
 		** lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
 	
 	log 比例 = ratio
-		- analogy (n)相似/類比
+		- /əˈnalədʒi/ analogy (n)類比/比較, 相似/類似
 		- analogue (n)類似物/類似的情況
 		+ /əˈnaləɡəs/ analogous (adh)類似的/相當的 = comparable
 
@@ -3634,6 +3636,7 @@
 		- misgiving (n)擔心/疑慮 = doubt = distrust = fear = qualm = scruple
 		+ mishandle (v)處理不當 = maltreat, 隨意操作
 		- misinform (v)誤傳/向...提供錯誤消息 = misrepresent
+		- mismatch (n)不一致, 實力懸殊的比賽 (v)使錯配/使不適當地在一起
 		+ misnomer
 		- misperceive (v)誤解 = misunderstand
 		+ misrepresent (v)誤傳/歪曲 = distort
@@ -4406,6 +4409,7 @@
 		- prerequisite 
 		- prerogative
 		+ presage (n)預兆/惡兆 (v)是...的預兆
+		- preschooler (n)學齡前兒童
 		+ prescient --> prescience
 		- prescribe --> prescription
 		*** presentation (n)贈送/授予, 呈現/表現, 發表/發表會, 介紹/引見

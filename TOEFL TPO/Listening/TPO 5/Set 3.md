@@ -35,16 +35,16 @@ Permanent base, *maybe a ways off*, but we shouldn't have to wait for that. The 
 ## Vocab
 - pinpoint (n)小點 (adj)完全精確的, 微小的 (v)精確找到
 - crater (n)彈坑/隕石坑, 火山口 (v)形成坑洞, 墜落
-- South Pole–Aitken Basin
+- South Pole–Aitken Basin 南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，直徑大約2500公里，深13公里，最大落差16.1公里，它是太陽系中已知最大的撞擊坑之一，也被公認為是月球上最大、最古老和最深的撞擊盆地。
 - pole /pəʊl/ (n)竿, 極 (v)用篙撐（船等） 
 - basin /ˈbeɪs(ə)n/ (n)食物盆 (n)盆地/凹地, 流域, 船塢
 - orbit /ˈɔːbɪt/
 - equator /ɪˈkweɪtə/  (n)赤道, 天體軌道
-- topographical /ˌtɒpəˈɡrafɪkəl/  (adj)地形學的
+- topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
 - planetary /ˈplanɪt(ə)ri/ 
 + mantle /ˈmant(ə)l/  (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋 <--> /ˈmɛnt(ə)l/ mental
 + crude /kruːd/ (adj)天然的/未經加工的, 粗略的(估計), 粗糙的/粗陋的, 粗野的/沒教養的 <--> /krʊəl/ cruel
-- ? maybe a ways off 也許透過遙遠
+- ? maybe a ways off 也許過於遙遠
 - ? I wouldn't give for a few samples of it. 我不会错失一些样本的。
 
 ## Questions

@@ -1,3 +1,5 @@
+# B+ (細節)
+
 NARRATOR: Listen to part of a lecture in a sociology class.
 
 FEMALE PROFESSOR: Have you ever heard the one about *alligators* living in New York sewers? The story goes like this: a family went on vacation in Florida and bought a couple of baby alligators as presents for their children, then returned from vacation to New York, bringing the alligators home with them as pets. But the alligators would escape and find their way into the New York sewer system where they started reproducing, grew to huge sizes and now strike fear into *sewer workers*. Have you heard this story?Well, it isn't true and it never happened, but despite that, the story has been around since the 1930s.
@@ -22,7 +24,7 @@ So, you can see how looking at pieces of cultural information as replicators, as
 
 ## Vocab
 - alligator /ˈalɪɡeɪtə/  (n)短吻鱷
-- meme /miːm/ (n)迷因(文化資訊傳承時的單位)  <--> mean
+- meme /miːm/ (n)迷因(文化資訊傳承時的單位) <--> mean
 - replicator (n)複製者/複製品
 - analogy /əˈnalədʒi/ (n)類比/比較, 相似/類似
 - longevity /lɒnˈdʒɛvɪti/ (n)長壽

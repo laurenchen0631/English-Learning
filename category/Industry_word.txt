@@ -158,7 +158,7 @@
 	- inflation
 		> |The action of inflating something or the condition of being inflated.| the inflation of a balloon
 		> 通貨膨脹 |A general increase in prices and fall in the purchasing value of money.|
-	- The Great Depression 經濟大恐慌，1929年至1933年之間全球性的經濟大衰退
+	- The Great Depression 經濟大恐慌/經濟大蕭條，1929年至1933年之間全球性的經濟大衰退
 	- The Great Recession 經濟大衰退，是一場在2007年8月9日開始浮現的金融危機引發的經濟衰退
 	- wholesale
 		> 批發 |The business of selling of goods in large quantities and at low prices, typically to be sold on by retailers at a profit.| if you want to sell large expensive pieces then wholesale is probably not the way to go
@@ -541,6 +541,7 @@
 	- off course 偏離航線
 	- sleigh /sleɪ/  (n)雪橇 (v)駕雪橇/乘雪橇
 	- Rolls-Royce 勞斯萊斯
+	- bulldozer 推土機
 
 [Agriculture/Farming]
 	+ farm
@@ -1048,6 +1049,7 @@
 		> 佈景 |A painted cloth hung at the back of a theatre stage as part of the scenery.|
 		> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
 		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
+	- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -1084,6 +1086,8 @@
 		> 豎琴 |A musical instrument consisting of a frame supporting a graduated series of parallel strings, played by plucking with the fingers. The modern orchestral harp has an upright frame, with pedals which enable the strings to be retuned to different keys.|
 		> 口琴 |harmonica|
 		> 豎琴螺 |harp shell; harp snail|
+	- cello /ˈtʃɛləʊ/ (n)大提琴
+	- string quartet 弦樂四重奏
 	- mezzo-soprano 次女高音
 	- riff
 		> 即興重複段 |A short repeated phrase in popular music and jazz, typically used as an introduction or refrain in a song.|
@@ -1271,6 +1275,7 @@
 	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
 	- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
 	- The Last Supper 最後的晚餐
+	- Rembrandt /ˈrɛmbrant/ 林布蘭，歐洲巴洛克繪畫藝術的代表畫家之一，也是17世紀荷蘭黃金時代繪畫的主要人物，被稱為荷蘭歷史上最偉大的畫家
 	- formalism 
 		> 過於拘泥的行為或態度 |Excessive adherence to prescribed forms.|  academic dryness and formalism
 		> 形式主義 |A description of something in formal mathematical or logical terms.| there is a formalism which expresses the idea of superposition
@@ -1300,6 +1305,7 @@
 	- bead (n)串珠, 露珠/水滴 (v)用珠裝飾, 串珠, 佈滿水滴
 	- gallery (n)畫廊, 畫集, 迴廊/長廊, 樓座, 劇院頂層樓座
 	- /ˈtʃɑːkəʊl/ charcoal (n)木炭, 炭筆, 深灰色
+	- varnish /ˈvɑːnɪʃ/ (n)清漆/亮光漆, 指甲油, 光鮮亮麗的外表 (v)塗清漆, 粉飾/掩飾
 
 [Religion]
 	- priesthood == The office or position of a priest.
@@ -1576,6 +1582,7 @@
 	- Registrar`s Office 教務處
 	- bulletin board /ˈbʊlɪtɪn bɔːd/ 佈告欄
 	- administration office 管理辦公室
+	- meme /miːm/ (n)迷因(文化資訊傳承時的單位) <--> mean
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1842,6 +1849,7 @@
 	- doorway 門口/出入口
 	- hatchway (n)艙口/天花板之出入口
 	- hearth /hɑːθ/ (n)壁爐地面, 家, 熔爐
+	- cabin (n)客艙, 小木屋 (v)關在小地方
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的

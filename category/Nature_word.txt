@@ -1,7 +1,4 @@
 [General]
-	- excretion == the process of eliminating or expelling waste matter
-	- pesticide == A substance used for destroying insects or other organisms harmful to cultivated plants
-	- suffocation == asphyxiation
 	- trimester == A period of three months, especially as a division of the duration of pregnancy.
 	- spawn
 		> |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
@@ -19,7 +16,6 @@
 	- neuron 神經元  == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- botanist /ˈbɒt(ə)nɪst/ 植物學家 == An expert in or student of the scientific study of plants.
 	- genome 基因組
-	- hibernate 冬眠 == (of an animal or plant) spend the winter in a dormant state.
 	- knuckle --> knuckly
 		> 指關節 |A part of a finger at a joint where the bone is near the surface, especially where the finger joins the hand.|
 		> 四足獸膝關節 |A projection of the carpal or tarsal joint of a quadruped.| 
@@ -128,28 +124,30 @@
 	- barnacle /ˈbɑːnək(ə)l/ 藤壺
 
 [Bird]
-	- passenger pigeon 旅鴿
+	- passenger pigeon (n)旅鴿
 	- parrot (n)鸚鵡 (v)機械式地模仿
 	- ratite /ˈratʌɪt/ (n)平胸鳥 (adj)平胸鳥的 == Any of the mostly large, flightless birds with a ratite breastbone, i.e. the ostrich, rhea, emu, cassowary, and kiwi, together with the extinct moa and elephant bird.
-	- ostrich /ˈɒstrɪtʃ/ 鴕鳥
-	- rhea 美洲鴕 == A large flightless bird of South American grasslands, resembling a small ostrich with greyish-brown plumage.
-	- emu 鴯鶓 == A large flightless fast-running Australian bird resembling the ostrich, with shaggy grey or brown plumage, bare blue skin on the head and neck, and three-toed feet.
-	- cassowary 鶴鴕 == A very large flightless bird related to the emu, with a bare head and neck, a tall horny crest, and one or two coloured wattles. It is native mainly to the forests of New Guinea.
-	- kiwi 奇異鳥/鷸鴕 == A flightless New Zealand bird with hairlike feathers, having a long downcurved bill with sensitive nostrils at the tip.
-	- penguin /ˈpɛŋɡwɪn/ 企鵝 == A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.
-	- dodo 渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
+	- ostrich /ˈɒstrɪtʃ/ (n)鴕鳥
+	- rhea (n)美洲鴕 == A large flightless bird of South American grasslands, resembling a small ostrich with greyish-brown plumage.
+	- emu (n)鴯鶓 == A large flightless fast-running Australian bird resembling the ostrich, with shaggy grey or brown plumage, bare blue skin on the head and neck, and three-toed feet.
+	- cassowary (n)鶴鴕 == A very large flightless bird related to the emu, with a bare head and neck, a tall horny crest, and one or two coloured wattles. It is native mainly to the forests of New Guinea.
+	- kiwi (n)奇異鳥/鷸鴕 == A flightless New Zealand bird with hairlike feathers, having a long downcurved bill with sensitive nostrils at the tip.
+	- penguin /ˈpɛŋɡwɪn/ (n)企鵝 == A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.
+	- dodo (n)渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
 	- Archaeopteryx /ˌɑːkɪˈɒptərɪks/ 始祖鳥 == The oldest known fossil bird, of the late Jurassic period. It had feathers, wings, and hollow bones like a bird, but teeth, a bony tail, and legs like a small coelurosaur dinosaur.
-	- eider /ˈʌɪdə/ 絨鴨/歐絨鴨
-	- seagull 海鷗
-	- pelican 鵜鶘
-	- chick 小雞
-	- tern 燕鷗
-	- drake
-		> 公鴨 |A male duck.| a drake mallard
-		> 蜉蝣類 |(in fishing) a natural or artificial mayfly, especially a subadult or a gravid female.| green drake hatches
-	- puffin 海鸚鵡
-	- geese 鵝
-	- parakeet, parrakeet /ˈparəkiːt/ 長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
+	- eider /ˈʌɪdə/ (n)絨鴨/歐絨鴨
+	- seagull (n)海鷗
+	- pelican (n)鵜鶘
+	- chick (n)小雞
+	- tern (n)燕鷗
+	- drake (n)公鴨, 蜉蝣類
+	- puffin (n)海鸚鵡
+	- geese (n)鵝
+	- parakeet, parrakeet /ˈparəkiːt/ (n)長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
+	- wood thrush 木畫眉
+	- preen (v)用喙整理, 精心打扮, [oneself]洋洋自得
+	- ruffle (v)弄亂(毛髮), (鳥受驚等時)豎起(羽毛), 打擾/使不平靜, 打褶 (n)褶襉飾邊
+	- beak (n)喙 = bill, (鱉等的)喙狀嘴, 鼻子
 
 [Bounty/Organ]
 	- tusk 長牙/獠牙

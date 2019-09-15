@@ -1,4 +1,5 @@
 [General]
+
 	- suburb == An outlying district of a city, especially a residential one.
 	- suburbia 近郊/郊外居民 == The suburbs or their inhabitants viewed collectively.
 	- continent /ˈkɒntɪnənt/
@@ -65,6 +66,8 @@
 		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
 		> |Heap up into a rounded pile.|
 		> 一堆 |A large pile or quantity of something.| a mound of dirty crockery
+	- basin /ˈbeɪs(ə)n/ (n)食物盆 (n)盆地/凹地, 流域, 船塢
+	
 	
 [Weather]
 	- cyclone 氣旋 --> cyclonic 氣旋的
@@ -80,9 +83,10 @@
 	- clime /klʌɪm/ 氣候區 == A region considered with reference to its climate.
 
 [Geology]
+	- topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
 	- convergent boundary 聚合板塊邊緣
 	- magma /ˈmaɡmə/ 岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
-	- mantle 地涵
+	+ mantle /ˈmant(ə)l/  (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋
 	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
 	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
 	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
