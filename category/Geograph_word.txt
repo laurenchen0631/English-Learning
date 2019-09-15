@@ -74,8 +74,10 @@
 	- outcrop (n)礦脈露出地面部分 (v)露出
 	- wadis 乾谷，指北非和阿拉伯沙漠地區乾涸的沙礫河床，地下水的水平不在地面，時有水時無水，時為商旅的交通道路
 	- isle /ʌɪl/ (n)小島
+	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
 	
 [Weather]
+	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
 	- cyclone 氣旋 --> cyclonic 氣旋的
 	- condensation
 		> 冷凝 |Water which collects as droplets on a cold surface when humid air is in contact with it.|

@@ -319,6 +319,7 @@
 	- alimony 贍養費 == A husband`s (or wife`s) provision for a spouse after separation or divorce; maintenance.
 	- legal guardian 法定監護人，是受到合法授權對個人的監護。受監護人一般分為三種，包括對無自理能力的老人、未成年兒童及殘疾的成年人。
 	- all-cause mortality 總死亡率
+	- mortality rate == death rate 死亡率
 	- statute /ˈstatʃuːt/ 
 		> 成文法/法規 |A written law passed by a legislative body.| the Act consolidated statutes dealing with non-fatal offences
 		> 章程/規則 |A rule of an organization or institution.| the appointment will be subject to the statutes of the university
@@ -329,7 +330,6 @@
 	- ruling
 		> 裁決/裁定 |An authoritative decision or pronouncement, especially one made by a judge.| the ruling was reversed in the appeal court
 		> 統治的/管理的 |Currently exercising authority or influence.| the ruling coalition
-	
 
 [Crime/Police]
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
@@ -584,6 +584,7 @@
 	- mulch (n)護蓋物 (v)用護蓋物蓋 == Material (such as decaying leaves, bark, or compost) spread around or over a plant to enrich or insulate the soil.
 	- canopy (n)罩 == An ornamental cloth covering hung or held up over something, especially a throne or bed.
 	- tractor (n)拖拉機 == A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
+	- seed drill (n)種子播種機
 	- thresher (n)打穀機
 	- quern (n)手推磨
 	- mortar (n)迫擊砲, 研缽/乳缽 (v)用迫擊砲轟擊
@@ -832,6 +833,7 @@
 	- microbiome /mʌɪkrəʊˈbʌɪəʊm/ 人類微生物群系，又稱為正常菌群是某些微生物與宿主在長期的進化過程中形成共生關係，對生物體無害的一類細菌
 	- terminal illness 絕症
 	+ hygiene /ˈhʌɪdʒiːn/ 衛生/衛生情況 == Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
+	- sanitary (adj)公共衛生的, 衛生的/清潔的 --> sanitation (n)公共衛生
 	- wheelchair /ˈwiːltʃɛː/ 輪椅
 	- syringe /sɪˈrɪndʒ/
 		> 注射器 |A tube with a nozzle and piston or bulb for sucking in and ejecting liquid in a thin stream, used for cleaning wounds or body cavities, or fitted with a hollow needle for injecting or withdrawing fluids.|
@@ -1551,6 +1553,7 @@
 	- bulletin board /ˈbʊlɪtɪn bɔːd/ 佈告欄
 	- administration office 管理辦公室
 	- meme /miːm/ (n)迷因(文化資訊傳承時的單位) <--> mean
+	- land-grant universities 贈地大學，是指由美國國會在1862年和1890通過的莫里爾法案 (Morrill Acts)，又稱土地撥贈法案，因而獲得國會資助的美國高等教育機構。
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -1696,6 +1699,7 @@
 	- utensil /juːˈtɛnsəl/ 用具 == A tool, container, or other article, especially for household use.
 
 [Structure]
+	- housing (mn)房屋/住宅 (n)遮蔽物/遮蓋物
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
 	- apartment complex 公寓大樓 == a group of buildings that contain apartments and are managed by the same company.
 	- rafter 椽 == A beam forming part of the internal framework of a roof.

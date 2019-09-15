@@ -205,7 +205,7 @@
     +++ bombast (n)高調/誇大之詞/大話 = rhetoric --> bombastic (adj)誇大的 = pompous = orotund = inflated = exaggerated = rhetorical = grandiloquent = oratorical = tumid = turgid
     ++ /buːn/ boon (n)恩賜/利益 = blessing = benefit (adj)快活的/歡樂的 = jolly = jovial = convivial = blithe = merry
     + boor (n)粗魯無禮之人 = peasant = savage --> boorish (adj)粗野的/粗鄙的 = rude = churlish = savage <-- farmer 德文
-    ++ bound (adj)極有可能的/必然的, 受束縛的/受約束的, 前往…的 (v)跳躍/跳動, 成為…的界線
+    ++ bound (adj)[to]極有可能的/必然的, 受束縛的/受約束的, 前往…的 (v)跳躍/跳動, 成為…的界線
     ++ bounty (n)獎金/獎賞 = premium = reward, 慷慨 = generosity --> bountiful (adj)慷慨的 = munificent = generous, 大量的 = abundant = generous = ample = rife
     + /ˈbəʊvʌɪn/ bovine (adj)牛的, 遲鈍的/蠢笨的 = stolid = dull = blunt <-- bov, bos 牛
     + /ˈbaʊdlərʌɪz/ bowdlerize (v)刪節/刪改
@@ -2660,6 +2660,7 @@
     * seize (v)抓住, 奪取/攫取, 沒收/查獲, (強烈情感或劇痛)突然侵襲
     * /ˈsiːnɪə/ senior(adj)年長的, 四年級生的, 地位較高的/年資較深的 (n)較年長者, 老人, 前輩/學長
     * sermon (v)長篇說教, 佈道/講道 = homily
+    * setback (n)挫折/障礙
     *** /sɪˈvɪə/ severe (adj)嚴厲的/嚴苛的 = harsh = austere = acerbic = stern = stringent = scathing = severe = rigor, 苛刻的 = condemnatory, 嚴峻的/艱難的 = exigent, 嚴肅的/正經的 = sober = solemn = austere, 樸素的 = sober
     * /ˈʃaɡi/ shaggy (adj)長滿粗毛的, 頭髮蓬亂的, 草木叢生的, (毛髮等)粗濃的 = hirsute
     ** shave (v)剃去……上的毛髮/修剪, 刨/切成薄片, 擦過/掠過/勉強通過

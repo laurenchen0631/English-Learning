@@ -8,7 +8,6 @@
 		2. 幾乎/差不多 == almost
 			> He has been all but forgotten.
 			> Salazar`s presence in the group was so reassuring to the others that hey lost most of their earlier trepidation; failure, for them, became all but unthinkable.
-	
 	+ as such
 		> (否定)大抵上 |You use as such with a negative to indicate that a word or expression is not a very accurate description of the actual situation.|
 			>> I am not a learner as such – I used to ride a bike years ago.
@@ -21,23 +20,12 @@
 		1. 認為 A 是 B 所為 == B said or created A == A is ascribed to B
 			> He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin.
 			> It can be inferred that the the "reluctance" mentioned in the passage is ascribed to music critics generally.
-				>> it is ... that ...
-
 		2. 認為B具有A/認為B是A的特點 = you consider that A possess B == ascribe to B A
 			> We don`t ascribe a superior wisdom to government or the state.
 			> According to the passage, Thompson attributes to laboring people in eighteenth-century England which of the following attitudes towards capitalist consumerism?
-				>> according to
-				>> attitude to/towards 對...的態度
-				>> capitalist 資本主義
-
 		3. 把A歸因於B/把A歸咎於B = you considers that A was caused by B
 			> An autopsy eventually ascribed the baby`s death to sudden infant death syndrome.
-				>> autopsy
-				>> infant
-				>> syndrome
 			> The minority believed that individuals of both sexes were born similar in capacity and character, and they ascribed male-female differences to socialization and education.
-				>> the minority 少數派
-
 	- aside from 
 		1. 除了...還有.../此外 == besides == in addition to == quite apart from
 			> Richard M Russell said 52 percent of the nation`s growth since the Second World War had come through invention. He said, aside from supporting research, the government`s greatest role in assuring continuing innovation is promoting a strong, modern patent office. "Unless we can protect original ideas, we will not have invention." Mr.Russell said. Speculating on the state of innovation over the next century, several investors agreed that the future lay in giving children the tools to think creatively and the motivation to invent.
@@ -45,24 +33,11 @@
 				>> speculate on
 		2. 除了... = except for == apart from
 			> This reaction suggest that, quite aside from changes in great-trapping gases, commonly known as greenhouse gases, certain positive feedback are also amplifying the temperature change.
-
-	+ at the outset 起初/一開始 == If something happens at the outset of an event, process, or period of time, it happens at the beginning of it.
-		> Decide at the outset what kind of learning programme you want to follow.
-	+ (be) at odds 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
-		> They`re at odds over the funding of the project.
-		> Her version of events was at odds with the police report.
-		> He was at odds with this Prime Minister.
-		> But Mendelssohn`s enduring popularity has often been at odds - sometimes quite sharply - with his critical standing.
 	* at the mercy of 任由某人/某事物擺布或控制 == be affected/harmed by == to not be able to protect yourself from something or someone that you cannot control
 		> Buildings are left to decay at the mercy of vandals and the weather
 			>> vandal
 		> An institution concerned about its reputation is at the mercy of the actions of its members, because the misdeeds of individuals are often used to discredit the institutions of which they are a part.
 		> Farmers are often at the mercy of the weather.
-	- at no point == Never
-		> t no point did I feel unprepared or unable to be a father.
-	+ at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
-		> Thousands of lives will be at stake if emergency aid does not arrive in the city soon.
-		> There was a feeling that there was something bigger than life at stake
 	- attribute A to B
 		1. 把A歸因於B/把A歸咎於B = ascribe A to B
 			> Women tend to attribute their success to external causes such as luck
@@ -74,56 +49,17 @@
 		3. 認為B出自A == B is attributed to A == A wrote, created or said B
 			> This, and the remaining frescoes, are not attributed to Giotto.
 			> A Madonna and Child attributed to Pietro Lorenzetti.
-	- at that point in time == At a particular moment in the past
-		> It gets people to share what their priorities in life are at that point in time
 	- at/in the back of your mind 在潛意識裡/下意識地 == If something is at/in the back of your mind, you intend to do it, but are not actively thinking about it.
 		> It's been at the back of my mind to call José for several days now, but I haven't got round to it yet.
-	- (just) around the corner 附近/將至 == not far away, or going to happen soon
-		> As investors pour hundreds of millions of dollars into the ballooning esports industry, many feel their way forward with statistics that indicate that paydirt is just around the corner
-		> There`s a great restaurant just around the corner.
-		> I`m feeling a little depressed at the moment, but I`m sure good times are just around the corner.
 	- and so forth == and so on 等等
 		> It involves a prodigious slavery of men to animals ... graziers, shepherds, slaughtermen, butchers, milkmaids and so forth
-	- along the way 在這個過程中/在這期間 == during the time that something is happening or that you are doing something
-		> I`ve been in this job for 30 years, and I`ve picked up a good deal of expertise along the way.
-	- hold/keep/put sth at bay 阻止/遏制 == to prevent someone or something unpleasant from harming you
-		> Exercise can help keep fat at bay.
-
+	
 [B]
-	- bang for the buck 值回票價 == value in return for your money
-		> They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
 	+ be to 未來式
 		> |used for telling someone what to do| You are to stay here until I send for you
 		> |used for saying what has been arranged| The ceremony is to take place in the palace grounds.
 		> |used for saying or asking what should be done| What are we to do?
 		> |used about someone or something in the past to say what would happen at a later time| the boy who was to become king
-	- be off 離開 == go away; leave
-		> I must be off if I want to make the next bus.
-		> And the runners are off.
-	- be aimed at 針對 == the person or group should notice something and be influenced by them.
-		> This message was aimed at the undecided middle ground of Israeli politics.
-		> One explanation for the tendency of animals to be more vigilant in smaller groups than in larger ones assumes that the vigilant behavior - looking up, for example - is aimed for predators.
-			>> explanation for
-			>> vigilant == wary == watchful
-
-	- be attributable to 可歸因於....的 == be caused by
-		> 10,000 deaths a year from chronic lung disease are attributable to smoking.
-		> The mess was directly attributable to a corrupt and incompetent official.
-
-	- be bound to
-		1. 肯定是/極可能是 == someone feel confident and certain of something
-			> I`ll show it to Benjamin. He`s bound to know.
-			> However original they might be, Roman poets ere bound to have some favorite earlier author whom they would emulate.
-
-		2. 必然會/註定會 == be a natural consequence of something
-			> If you are topless in a public place, this sort of thing is bound to happen.
-				>> topless 上空的/裸露上身的
-				>> sort of 種
-
-	- be directed at 使轉向/使指向 = focus on
-		> The learner`s attention needs to be directed to the significant features.
-		> It can be inferred from the passage that in species in which vigilant behavior is directed at predators, the tendency of animals to be more vigilant in smaller groups than in larger in larger ones would most likely be minimized if which of the following were true?
-
 	- be indicative of 象徵/暗示 == suggest
 		> The result was indicative of a strong retail market.
 		> Often physical appearance is indicative of how a person feels.

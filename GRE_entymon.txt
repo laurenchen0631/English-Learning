@@ -800,7 +800,7 @@
 	cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
 		- accept (v)接受/收受/歡迎/相信
 		+ anticipate (v)預期/期望, 預先做 = forestall
-		+ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能,  資格/地位
+		+ /kəˈpasɪti/ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能,  資格/地位
 		- capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
 		- captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
 		+ captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
@@ -1070,6 +1070,7 @@
 	carbo 碳
 		- carbohydrate (n)碳水化合物
 		- carbon (n)炭/碳纖維/碳化合物
+		- carbonate (n)碳酸鹽 (v)使含二氧化碳, 使成碳酸鹽
 
 	card, cardio 心臟的 = heart
 		+ cardinal (adj)最重要的 = chief = foremost
@@ -6490,7 +6491,7 @@
 
 	tribute 歸於/給予 = assign, ascribe
 		+++ attribute (v)把...歸於 = ascribe = impute (n)屬性/特性, 品質 --> attribution (n)歸屬, 屬性
-		+ attributable (adj)可歸因於...的
+		+ attributable (adj)[to]可歸因於...的
 		+ contribute (v)貢獻 --> contribution (n)貢獻
 		- distribute (v)分發/分配 = allot = dispense
 		- distributary (n)支流
@@ -7014,7 +7015,7 @@
 		+ providential (adj)幸運的/天佑的 = lucky = fortunate, 上帝的/天意的
 		- providence (n)天命/天佑, 深謀遠慮
 		- provide (v)提供, 規定, 撫養/贍養, 準備
-		*** provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = ration, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
+		++ provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = ration, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
 		+ provisional (adj)暫時的/臨時的 = temporary <|> provincial
 		- provisory (adj)有附帶條件的 <-- provide
 		+ survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰

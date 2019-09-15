@@ -1,6 +1,6 @@
 ## Quantity
 - a chunk of 大量 == a large amount or a large part of something
-	- The reception given to Kimura`s radical theory of molecular evolution shows that when invention fights orthodoxy to a draw, then novelty has seized a good chunk of space from convention.
+	- The reception given to Kimura's radical theory of molecular evolution shows that when invention fights orthodoxy to a draw, then novelty has seized a good chunk of space from convention.
 	- The company owns a chunk of farmland near Gatwick Airport.
 - a great deal of 大量 == a large amount of
 	- He made a great deal of money.
@@ -19,7 +19,7 @@
 	- However, human beings use but a fraction of the vast amount of energy produced by nature every day.
 - a sliver of 少量/小部分 == a very small, thin piece of something, usually broken off something larger
 	- a sliver of glass
-	- Just a sliver of cake for me, please - I shouldn`t really be having any.
+	- Just a sliver of cake for me, please - I shouldn't really be having any.
 - a laundry list of 一長串的 == a long list of
 	- a laundry list of reasons why shareholders should reject the bid
 - a string of = a series of = a range of 一系列的
@@ -47,14 +47,18 @@
 - at best 頂多
 	- This policy, they say, is at best confused and at worst non-existed.
 	- At best they were effective as antidepressants for no more than four months.
-	- Walpole`s art collection was huge and fascinating, and his novel The Castle of Otranto was out of print; none of this mattered to the Victorians, who dismissed him as, at best, insignificant.
+	- Walpole's art collection was huge and fascinating, and his novel The Castle of Otranto was out of print; none of this mattered to the Victorians, who dismissed him as, at best, insignificant.
 - at large 普遍地/全體地 == in general == generally
 	- This group is not representative of the population at large.
 
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near
 	- Having the right equipment at hand will be enormously helpful.
-	- The technological know-how, if not the political commitment, appears already at hand to feed the world`s exploding population and so to eradicate at last the ancient scourges of malnutrition and famine.
+	- The technological know-how, if not the political commitment, appears already at hand to feed the world's exploding population and so to eradicate at last the ancient scourges of malnutrition and famine.
+- (just) around the corner 附近/將至 == not far away, or going to happen soon
+	- As investors pour hundreds of millions of dollars into the ballooning esports industry, many feel their way forward with statistics that indicate that paydirt is just around the corner
+	- There's a great restaurant just around the corner.
+	- I'm feeling a little depressed at the moment, but I`m sure good times are just around the corner.
 - the length and breadth of 四處/到處 == If you travel the length and breadth of a place, you go to every part of it.
 	- She travelled the length and breadth of Ireland looking for her missing brother.
 - all over 在..到處 == everywhere in a particular place
@@ -74,8 +78,9 @@
 	- Christmas is still a way off.
 - the passage of time 時間的流逝
 	- The beauty of the gardens had not faded with the passage of time.
-
-## Conflict
+- be off 離開 == go away; leave
+	- I must be off if I want to make the next bus.
+	- And the runners are off.
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
@@ -93,10 +98,17 @@
 	- I will be anything but quiet on Saturday night.
 	- The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
 
-## Compare
+## Compare/Difference
 - as opposed to 而不是 == not something else, used to compare two things.
 	- We ate in the restaurants, as opposed to the bistro.
-	- The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author`s beliefs, as opposed to what is imposed by political coercion.
+	- The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author's beliefs, as opposed to what is imposed by political coercion.
++ (be) at odds 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
+	- They're at odds over the funding of the project.
+	- Her version of events was at odds with the police report.
+	- He was at odds with this Prime Minister.
+	- But Mendelssohn's enduring popularity has often been at odds - sometimes quite sharply - with his critical standing.
+
+## Denial
 
 ## Relation
 + as to 關於/至於(轉變話題)
@@ -124,6 +136,8 @@
 - bring sb in line 帶..回到正軌 == to force someone or something to be similar or of the same standard as someone or something else
 	- If you change a word, the others will usually bring you in line. 
 	- Teachers say the raises would bring their salaries into line with other public workers.
+- hold/keep/put sth at bay 阻止/遏制 == to prevent someone or something unpleasant from harming you
+	- Exercise can help keep fat at bay.
 - do away with == get rid of 擺脫/拋棄/廢除 
 	- These ridiculous rules and regulations should have been done away with years ago.
 	- Computerization has enabled us to do away with a lot of paperwork.
@@ -140,10 +154,17 @@
 	- The man who tries to have her killed is still in large.
 	- Twelve prisoners are at large following a series of escapes.
 
+## Danger
++ at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
+	- Thousands of lives will be at stake if emergency aid does not arrive in the city soon.
+	- There was a feeling that there was something bigger than life at stake
+
 ## Experience
 - have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad
 	- We certainly have our share of problems at the moment.
 	- She's had her fair share of tragedies in her life.
+- bang for the buck 值回票價 == value in return for your money
+	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
 
 ## Bad
 - goof off 偷懶 == to avoid doing any work
@@ -153,7 +174,7 @@
 
 ## Pejorative
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
-	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn`t get into any colleges.
+	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 
 ## Number
 - all short of 未達 == to fail to reach an amount or standard that was expected or hoped for

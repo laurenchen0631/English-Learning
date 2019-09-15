@@ -168,9 +168,10 @@
 	- Specifically, we must focus on the following points
 	- I liked all the children, Tom especially.
 	- a new song, written especially for Jonathan.
-- by no means 決不/一點都不 == not by all means == not at all
+- by no means 決不/一點都不 == at no point == not by all means == not at all
 	- It is by no means certain that we'll finish the project by June.
 	- This isn't the last we'll hear of it by any means.
+	- At no point did I feel unprepared or unable to be a father.
 - by all means 當然/務必
 	- Bring him by all means
 	- Again, by all means, on paper it’s fitting that Dany retakes King’s Landing the way that her ancestor Aegon Targaryen seized power: through conquest, not birthright.
@@ -425,7 +426,10 @@
 	- No sooner had I started mowing the lawn than it started raining.
 	- No sooner had the first passenger railroads begun operations in England and the United States, than the public was seized by what was called "railroad mania."
 	- No sooner had the first passenger railroads begun operations in England and the United States, around 1830, than the public was seized by what was called, even then, "railroad mania."
-
+- at that point in time 那時 == At a particular moment in the past
+	- It gets people to share what their priorities in life are at that point in time
+- along the way 在這個過程中/在這期間 == during the time that something is happening or that you are doing something
+	- I've been in this job for 30 years, and I've picked up a good deal of expertise along the way.
 - after a bit
 - after a while
 - lately
