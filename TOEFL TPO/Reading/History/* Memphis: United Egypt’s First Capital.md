@@ -27,7 +27,7 @@ Furthermore, the Memphis region seems to have been favorably located for the con
 - Wadi Hof
 - constriction (n)壓縮, 阻塞物
 - Wadi Digla
-- Maadi 馬底，是一個開羅南部的富裕的、多綠葉的郊區，在開羅市中心的沿尼羅河向上游12公里的東岸s
+- Maadi 馬底，是一個開羅南部的富裕的、多綠葉的郊區，在開羅市中心的沿尼羅河向上游12公里的東岸
 - pasturage (n)牧場, 畜牧
 - pasture (n)牧草地, 處境 (v)放..吃草, 吃草
 

@@ -135,6 +135,7 @@
 	- PR == public relations 公共關係，通常簡稱PR或公關，是指有關著名人物、商業機構、政府、非牟利機構等各種組織，為改善與社會公眾的關係、促進公眾對其認識，以樹立良好形象、取得公眾的理解及支持
 	- storefront (n)臨街店面/臨街店舖
 	- arcade (n)拱廊/拱廊通道, 拱廊商業街
+	- ready-made (adj)預先製成的/現成的 (n)現成品
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -533,15 +534,21 @@
 		> 大街/大道 |A main road in a town.| the teeming thoroughfares of central London
 	- speedometer /spiːˈdɒmɪtə/ 車速錶
 	- viaduct 高架橋 == A long bridge-like structure, typically a series of arches, carrying a road or railway across a valley or other low ground.
+	- turnpike (n)收費高速公路
+	- roadbed (n)路基
 	- veer /vɪə/
 		> 急轉向 |Change direction suddenly.| an oil tanker that had veered off course
 		> |A sudden change of direction.|
 		> 轉向/改變 |Suddenly change an opinion, subject, type of behaviour, etc.| the conversation eventually veered away from theatrical things
 		> 使順風 |Slacken or let out (a rope or cable) in a controlled way.|
 	- off course 偏離航線
-	- sleigh /sleɪ/  (n)雪橇 (v)駕雪橇/乘雪橇
+	- /sleɪ/ sleigh (n)雪橇 (v)駕雪橇/乘雪橇
 	- Rolls-Royce 勞斯萊斯
 	- bulldozer 推土機
+	- outrigger (n)舷外浮材（裝在舷外以防翻船的樑架，帆桅或其他裝置）
+	- canoe /kəˈnuː/ (n)獨木舟 (v)划獨木舟
+	- grounding (n)擱淺, 基礎教學
+
 
 [Agriculture/Farming]
 	+ farm
@@ -553,18 +560,34 @@
 		> 把..做農場用 |Use (land) for growing crops and rearing animals.| marshes are being drained in order to farm the land
 		> 經濟耕作或養殖 |Breed or grow (a type of livestock or crop) commercially.| ostriches are farmed in South Africa and Australia
 		> |Allow someone to collect and keep the revenues from (a tax) on payment of a fee.| the customs had been farmed to the collector for a fixed sum
-	- ranch 大牧場 == A large farm where cattle or other animals are bred. 
+	- ranch (n)大牧場/大農場 --> rancher (n)農牧場經營者或工人
+	- homestead (n)家園/農場, 自耕農場/公地 
+	- dairy farm (n)乳牛場
+	- pasturage (n)牧場, 畜牧
+	- pasture
+		> 牧草地/放牧場 |Land covered with grass and other low plants suitable for grazing animals, especially cattle or sheep.|
+		> 放牧 |Put (animals) to graze in a pasture.| they pastured their cows in the water meadow
+		> 吃草 |(of animals) graze.| the livestock pastured and the crops grew
+		> 境地/處境 |Used to refer to a person`s situation in life.| she left the office for pastures new
 	- compost
 		> 堆肥 |Decayed organic material used as a fertilizer for growing plants.| cover with a layer of fine compost
 		> 做堆肥 |Make (vegetable matter or manure) into compost.| don`t compost heavily infested plants
+	- plow (n)犁, 除雪機/剷雪機 (v)犁/耕, 挖(溝/槽), 破浪前進, 狂飆, 艱辛地前進, [on]堅持, 剷雪
+	- hoe (n)鋤/鋤頭 (v)鋤, [into]抨擊
+	- livestock (mn)家畜 == Farm animals regarded as an asset.
+	- dung (n)動物糞便 (v)施肥
 	- graziers /ˈɡreɪzɪə/ 畜牧業者 == A person who rears or fattens cattle or sheep for market.
 	+ nomad (n)遊牧民 --> /nəʊˈmadɪk/ nomadic (adj)遊牧的 == wandering
-	- shepherd 牧羊人 == A person who tends and rears sheep.
-	- milkmaid 擠奶女工 == A girl or woman who milks cows or does other work in a dairy.
+	- herder (n)牧人 == A person who looks after a herd of livestock or makes a living from keeping livestock, especially in open country.
+	- shepherd (n)牧羊人 == A person who tends and rears sheep.
+	- milkmaid (n)擠奶女工 == A girl or woman who milks cows or does other work in a dairy.
 	- mulch (n)護蓋物 (v)用護蓋物蓋 == Material (such as decaying leaves, bark, or compost) spread around or over a plant to enrich or insulate the soil.
-	- canopy 罩 == An ornamental cloth covering hung or held up over something, especially a throne or bed.
-	- tractor 拖拉機 == A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
-	- thresher 打穀機
+	- canopy (n)罩 == An ornamental cloth covering hung or held up over something, especially a throne or bed.
+	- tractor (n)拖拉機 == A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
+	- thresher (n)打穀機
+	- quern (n)手推磨
+	- mortar (n)迫擊砲, 研缽/乳缽 (v)用迫擊砲轟擊
+	- pestle (n)杵/碾槌 (v)搗/研碎
 	- chaff
 		> 粗糠/穀殼 |The husks of corn or other seed separated by winnowing or threshing.|
 		> 乾草/草料 |Chopped hay and straw used as fodder.|
@@ -572,17 +595,11 @@
 		> 金屬箔片 |Strips of metal foil released in the air to obstruct radar detection.|
 		> 玩笑 |Light-hearted joking; banter.| we used to come in for a fair amount of ribbing and good-natured chaff
 		> 戲弄 |Tease.| the pleasures of drinking and betting and chaffing your mates
-	- bundlers 紮捆機
-	- acreage 英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+	- bundlers (n)紮捆機
+	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
 	- meatpacking == The business of preparing and packing meat for transportation and sale.
-	- hoe (n)鋤頭 (v)鋤
-	- irrigate 灌溉 == Supply water to (land or crops) to help growth, typically by means of channels.
-	- leafy green 綠葉蔬菜
-	- arugula 芝麻菜
-	- bok choy 小白菜
-	- butterhead lettuce 結球萵苣
-	- kale 羽衣甘藍
-	- romaine 蘿蔓萵苣
+	- irrigate (n)灌溉 == Supply water to (land or crops) to help growth, typically by means of channels.
+	- slash-and-burn (n)刀耕火種法
 	- squash
 		> 壓扁 |Crush or squeeze (something) with force so that it becomes flat, soft, or out of shape.| wash and squash the cans before depositing them
 		> 擠入 |Make one`s way into a small or restricted space.| I squashed into the middle of the crowd
@@ -591,55 +608,28 @@
 		> 拒絕 |Firmly reject (an idea or suggestion)|
 		> 聚會 |A social gathering or informal meeting.| a poetry squash in London
 		> 西葫蘆/南瓜 |An edible gourd, the flesh of which may be cooked and eaten as a vegetable.|
-	- marijuana 大麻煙/大麻藥物
-	- cannabis 大麻
-	- hemp (n)大麻纖維, 大麻藥物
-	- cheese strainer 奶酪過濾器
-	- domesticate 
-		> 馴養 |Tame (an animal) and keep it as a pet or on a farm.|
-		> 人工培植 |cultivate (a plant) for food.|
-	- homestead
-		> 家園/農場 |A house, especially a farmhouse, and outbuildings.|
-		> 自耕農場/公地 |An area of land (usually 160 acres) granted to a settler in the West as a home.|
-	- paddy, padi
-		> 稻田 |paddy field|
-		> 米 |Rice before threshing or in the husk.|
-	- sickle 鐮刀 == A short-handled farming tool with a semicircular blade
-	- pest
-		> 害蟲 |A destructive insect or other animal that attacks crops, food, livestock, etc.| the tomato plant attracts a pest called whitefly
-		> 討厭的人/麻煩精 |An annoying person or thing; a nuisance.| he was a real pest
-	- livestock (mn)家畜 == Farm animals regarded as an asset.
-	- ranch 大牧場/大農場 --> rancher 農牧場經營者或工人
-	- dairy farm 乳牛場
-	- herder 牧人 == A person who looks after a herd of livestock or makes a living from keeping livestock, especially in open country.
-	- dung
-		> 動物糞便 |The excrement of animals; manure.|
-		> 施肥 |Drop or spread dung on (a piece of ground).|
-	- pasture
-		> 牧草地/放牧場 |Land covered with grass and other low plants suitable for grazing animals, especially cattle or sheep.|
-		> 放牧 |Put (animals) to graze in a pasture.| they pastured their cows in the water meadow
-		> 吃草 |(of animals) graze.| the livestock pastured and the crops grew
-		> 境地/處境 |Used to refer to a person`s situation in life.| she left the office for pastures new
+	- cheese strainer (n)奶酪過濾器
+	- paddy, padi (n)稻田, 米
+	- sickle (n)鐮刀 == A short-handled farming tool with a semicircular blade
+	- pest (n)害蟲, 討厭的人/麻煩精
 
 [Cook/Food]
-	- Worcestershire sauce 伍斯特醬
-	- marinade 醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
-	- vinegar 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
-	- marmalade 果醬 == A preserve made from citrus fruit, especially bitter oranges.
-	- raisin /ˈreɪz(ə)n/ == A partially dried grape.
-	- pomegranate 石榴 == An orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh 
-	- pistachio 開心果 == The edible pale green seed of an Asian tree.
-	- cold brew coffee 冷萃咖啡
+	- Worcestershire sauce (n)伍斯特醬
+	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
+	- vinegar(n) 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
+	- marmalade (n)果醬 == A preserve made from citrus fruit, especially bitter oranges.
+	- raisin /ˈreɪz(ə)n/ (n)葡萄乾 == A partially dried grape.
+	- pistachio (n)開心果 == The edible pale green seed of an Asian tree.
+	- sago (n)西谷米，是由幾種棕櫚樹樹幹內所儲碳水化合物製造的食用澱粉
+	- cold brew coffee (n)冷萃咖啡
 	- Soylent 一種代餐飲料
-	- meringue 酥皮/蛋白酥
-	- tequila 龍舌蘭酒
+	- meringue (n)酥皮/蛋白酥
+	- tequila (n)龍舌蘭酒
 	- magnum
 		> 1.5升的酒 |A wine bottle of twice the standard size, normally 11/2 litres.|
 		> |A gun designed to fire cartridges that are more powerful than its calibre would suggest.|
-	- Scotch == Scotch whisky 蘇格蘭威士忌
-	- rum
-		> 蘭姆酒/甘蔗酒 |An alcoholic spirit distilled from sugar-cane residues or molasses.|
-		> 酒精飲料 |Intoxicating drink.|
+	- Scotch == Scotch whisky (n)蘇格蘭威士忌
+	- rum (n)蘭姆酒/甘蔗酒, 酒精飲料
 	- booze (n)酒精飲料 (v)大量飲用
 	* vintage
 		> 年份/產地 |The year or place in which wine, especially wine of high quality, was produced.| 1982 is one of the best vintages of the century
@@ -647,37 +637,22 @@
 		> 高品質葡萄酒的 |Relating to or denoting wine of high quality.|
 		> 年代 |The time that something of quality was produced.|
 		> 最佳的 |Denoting something from the past of high quality, especially something representing the best of its kind.| a vintage Sherlock Holmes adventure
+	- cocktail /ˈkɒkteɪl/ 
+		> 雞尾酒 |An alcoholic drink consisting of a spirit or spirits mixed with other ingredients, such as fruit juice or cream.| a cocktail bar
+		> 混合物 |A mixture of substances or factors, especially when dangerous or unpleasant.| a cocktail of drugs with severe side effects
+		> 雜錦冷盤 |A dish consisting of small pieces of food, typically served cold as a starter.|
 	- stew
 		> 燉菜 |A dish of meat and vegetables cooked slowly in liquid in a closed dish or pan.| 
 		> |(with reference to meat, fruit, or other food) cook or be cooked slowly in liquid in a closed dish or pan.| beef stewed in wine
 		> be stewed in |Be steeped in or imbued with.| politics there are stewed in sexual prejudice and privilege
 		> 焦慮 |A state of great anxiety or agitation.|
 	- pretzel (v)蜷曲 (n)椒鹽脆餅
-	- tamari 醬油 == tamari sauce 
+	- tamari (n)醬油 == tamari sauce 
+	- oatmeal (n)燕麥粉/燕麥片
 	* cuisine /kwɪˈziːn/ (n)烹飪法 == cooking == cookery, 菜餚
-	- citrus /ˈsɪtrəs/ 柑橘
-	- lettuce /ˈlɛtɪs/ 萵苣
-	- cereal /ˈsɪərɪəl/ 
-		> 穀類植物 |A grain used for food, for example wheat, maize, or rye.|
-		> 穀類食物/麥片 |A breakfast food made from roasted grain, typically eaten with milk.| a bowl of cereal
-	- rye 裸麥/黑麥
-	- oat 燕麥, 麥稈
-	- oatmeal 燕麥粉/燕麥片
-	- barley 大麥
-	- mustard
-		> 芥末/芥子 |A hot-tasting yellow or brown paste made from the crushed seeds of certain plants, typically eaten with meat or used as a cooking ingredient.|
-		> 芥菜 |The yellow-flowered Eurasian plant of the cabbage family whose seeds are used to make mustard.|
-		> 棕黃色 |A brownish yellow colour.|
-	- pepper
-		> 胡椒粉 |A pungent hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavour food.|
-		> 胡椒 |A climbing vine with berries that are dried as black or white peppercorns.|
-		> 灑胡椒 |Sprinkle or season (food) with pepper.|
-		> 辣椒粉 |A reddish hot-tasting spice prepared from various forms of capsicum.|
-		> 辣椒 |A capsicum, especially a sweet pepper.|
-		> be peppered with 使佈滿 |Cover or fill with a liberal amount of scattered items.| the script is peppered with four-letter words
-	- roughage 粗食品 == Fibrous indigestible material in vegetable foodstuffs which aids the passage of food and waste products through the gut.
-	- Chardonnay 夏多內，現在在全世界範圍內廣泛種植號稱葡萄皇后。可以釀造變化多端的白葡萄酒
-	- merlot 梅洛葡萄
+	- roughage (n)粗食品 == Fibrous indigestible material in vegetable foodstuffs which aids the passage of food and waste products through the gut.
+	- Chardonnay (n)夏多內，現在在全世界範圍內廣泛種植號稱葡萄皇后。可以釀造變化多端的白葡萄酒
+	- merlot (n)梅洛葡萄
 	- churn
 		> 攪乳器 |A machine for making butter by shaking milk or cream.|
 		> 攪拌 |Shake (milk or cream) in a machine in order to produce butter.| the cream is ripened before it is churned
@@ -685,31 +660,26 @@
 		> 隆起 |Break up the surface of (an area of ground)| the earth had been churned up where vehicles had passed through
 		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
 	- corkscrew (n)開瓶器, 螺旋狀的東西 (v)作螺旋式移動
-	- spork 叉勺
-	- petroleum jelly 凡士林，一種石油膠的通用商標
-	- stove 爐灶 == An apparatus for cooking or heating that operates by burning fuel or using electricity.
-	- fridge == refrigerator 冰箱
-	- countertop 爐台 == A flat surface for working on, especially in a kitchen; a worktop.
+	- spork (n)叉勺
+	- petroleum jelly (n)凡士林，一種石油膠的通用商標
+	- stove (n)爐灶 == An apparatus for cooking or heating that operates by burning fuel or using electricity.
+	- fridge == refrigerator (n)冰箱
+	- countertop (n)爐台 == A flat surface for working on, especially in a kitchen; a worktop.
 	- cafeteria
 		> 自助餐館 |A restaurant in which customers serve themselves from a counter and pay before eating.|
 		> |Denoting a system in which people may choose from a number of available options, especially one in which an employee may select a personal package of company benefits.|
-	- veal chop 小牛排
-	- tri-tip 嫩角尖沙朗
-	- ground beef 牛絞肉
-	- tamale 墨西哥粽
-	- cookout 露天燒烤/野炊派對 == A party or gathering where a meal is cooked and eaten outdoors.
+	- veal chop (n)小牛排
+	- tri-tip (n)嫩角尖沙朗
+	- ground beef (n)牛絞肉
+	- tamale (n)墨西哥粽
+	- cookout (n)露天燒烤/野炊派對 == A party or gathering where a meal is cooked and eaten outdoors.
 	- tangy 撲鼻的 == Having a strong, piquant flavour or smell.
-	- churro 吉拿棒
-	- cinnamon /ˈsɪnəmən/ 肉桂/肉桂樹
-	- skillet 長柄煎鍋/油炸鍋
-	- pantry 食品儲藏室 == A small room or cupboard in which food, crockery, and cutlery are kept.
-	- bushmeat 叢林肉，是指各種從棲身於非洲和亞洲地區的野生動物身上所獲取的食用肉，類似於中國人所指的野味
-	- cocktail /ˈkɒkteɪl/ 
-		> 雞尾酒 |An alcoholic drink consisting of a spirit or spirits mixed with other ingredients, such as fruit juice or cream.| a cocktail bar
-		> 混合物 |A mixture of substances or factors, especially when dangerous or unpleasant.| a cocktail of drugs with severe side effects
-		> 雜錦冷盤 |A dish consisting of small pieces of food, typically served cold as a starter.|
-	- frying liver 炸肝臟
-	- yoghurt /ˈjɒɡət/ 優酪乳/優格
+	- churro (n)吉拿棒
+	- skillet (n)長柄煎鍋/油炸鍋
+	- pantry (n)食品儲藏室 == A small room or cupboard in which food, crockery, and cutlery are kept.
+	- bushmeat (n)叢林肉，是指各種從棲身於非洲和亞洲地區的野生動物身上所獲取的食用肉，類似於中國人所指的野味
+	- frying liver (n)炸肝臟
+	- yoghurt /ˈjɒɡət/(n)優酪乳/優格
 	- grill
 		> 烤架 |A gridiron used for cooking food on an open fire.|
 		> 燒烤的肉類食物 |A dish of grilled food, especially meat.|
@@ -717,14 +687,9 @@
 		> 烤 |Cook (food) using a grill.|
 		> 拷問/盤問 |Subject (someone) to intense questioning or interrogation.|
 	- vegan (adj)素食的 (n)素食主義者
-	- sesame /ˈsɛsəmi/ 
-		> 芝麻 |A tall annual herbaceous plant of tropical and subtropical areas of the Old World, cultivated for its oil-rich seeds.|
-		> 芝麻 |The edible seeds of the sesame plant, which are used whole or have the oil extracted.|
-	- white tablecloth restaurant 高級餐廳 == An upscale or expensive restaurant, as opposed to a casual or fast-food restaurant
-	- entrée /ˈɒntreɪ/ 
-		> 主菜 |The main course of a meal.|
-		> 入場權 |The right to enter or join a particular sphere or group.’| an actress with an entrée into the intellectual society of Berlin
-	- matzah balls 瑪索球(猶太丸子)
+	- white tablecloth restaurant (n)高級餐廳 == An upscale or expensive restaurant, as opposed to a casual or fast-food restaurant
+	- entrée /ˈɒntreɪ/ (n)主菜, 入場權
+	- matzah balls (n)瑪索球(猶太丸子)
 	- pickle
 		> 醃漬食品 |A relish consisting of vegetables or fruit preserved in vinegar or brine.| cheese and pickle
 		> 醃黃瓜 |A pickled cucumber.|
@@ -733,16 +698,14 @@
 		> 困境 |A difficult situation.| I am in a pickle
 		> 淡酸水 |An acid solution for cleaning metal objects.|
 		> 用酸性溶液清洗 |Immerse (a metal object) in an acid or other chemical solution for cleaning.| the steel sheet is first pickled in acid to remove all oxides
-	- gherkin 泡菜用的小黃瓜
-	- broccoli /ˈbrɒkəli/ 西蘭花/花椰菜
-	- superfood 超級食物，是一個行銷詞彙，意指各種宣稱有益健康的食物
+	- gherkin (n)泡菜用的小黃瓜
+	- superfood (n)超級食物，是一個行銷詞彙，意指各種宣稱有益健康的食物
 	- smoothie /ˈsmuːði/ 
 		> 圓滑討好的男人 |A man with a smooth, suave manner.| I love to see him gliding his way round a dance floor, he is such a smoothie!
 		> 冰沙 |A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.|
-	- gluten /ˈɡluːt(ə)n/ 麩質 == A mixture of two proteins present in cereal grains, especially wheat, which is responsible for the elastic texture of dough.
-	- zucchini /zʊˈkiːni/ 西葫蘆
-	- caviar 魚子醬
-	- surf-and-turf == surf 'n' turf 海陸雙拼 == a main course combining seafood and red meat.
+	- gluten /ˈɡluːt(ə)n/ (n)麩質 == A mixture of two proteins present in cereal grains, especially wheat, which is responsible for the elastic texture of dough.
+	- caviar (n)魚子醬
+	- surf-and-turf == surf 'n' turf (n)海陸雙拼 == a main course combining seafood and red meat.
 	- potato-chip bag 袋裝洋芋片
 
 [Medicine]
@@ -883,6 +846,7 @@
 		> 不會動的關節 |An immovable junction between two bones, such as those of the skull.|
 		> |A junction between the sclerites of an insect·s body.|
 		> |A line of junction formed by two crustal plates which have collided|
+	- infantile amnesia 嬰兒經驗失憶
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -983,6 +947,7 @@
 		> 過敏 |A damaging immune response by the body to a substance, especially a particular food, pollen, fur, or dust, to which it has become hypersensitive.|
 		> 厭惡 |A strong dislike.| their allergy to free enterprise
 	- autoimmune disease == AID 自體免疫性疾病，是人體內的異常的免疫反應攻擊了正常細胞
+	- necrosis (n)壞疽
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1303,6 +1268,7 @@
 		> 把……放逐到無人島上/使孤立無援 |Leave (someone) trapped and alone in an inaccessible place, especially an island.| a novel about schoolboys marooned on a desert island
 	- xkcd 蘭德爾·門羅創作的網絡漫畫。作者對其的描述是「關於浪漫、諷刺、數學和語言的網絡漫畫」。 漫畫的題材多種多樣，包括生活與愛情、數學與科學幽默、簡單的幽默和流行文化等，人物則多是簡單的火柴人。
 	- bead (n)串珠, 露珠/水滴 (v)用珠裝飾, 串珠, 佈滿水滴
+	- pendant (n)垂飾, 有垂飾的項鍊, 吊燈, 成對物中的一個 (adj)下垂的 = pendent
 	- gallery (n)畫廊, 畫集, 迴廊/長廊, 樓座, 劇院頂層樓座
 	- /ˈtʃɑːkəʊl/ charcoal (n)木炭, 炭筆, 深灰色
 	- varnish /ˈvɑːnɪʃ/ (n)清漆/亮光漆, 指甲油, 光鮮亮麗的外表 (v)塗清漆, 粉飾/掩飾
@@ -1538,6 +1504,8 @@
 		> 可預測的 |Repetitive and predictable.| it was a clockwork existence for the children
 	- derrick (n)轉臂起重機, 油井的鐵架塔
 	- kerosene (n)煤油
+	- smelter (n)精鍊工, 精鍊廠
+	- piston (n)活塞
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1850,6 +1818,7 @@
 	- hatchway (n)艙口/天花板之出入口
 	- hearth /hɑːθ/ (n)壁爐地面, 家, 熔爐
 	- cabin (n)客艙, 小木屋 (v)關在小地方
+	- grotto (n)洞穴/石室
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的

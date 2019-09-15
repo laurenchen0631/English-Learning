@@ -17,12 +17,15 @@
 - in the first place 首先/起初
 	- In the first place, we should solve this problem. 
 	- I should have told you in the first place.
-- finally == last == lastly == at last 最終
+- finally == last == lastly == at (long) last 最終
 	- Finally, there is some evidence that more green space makes nearby areas safer simply by pushing crime into nearby neighborhoods – not outright eliminating it.
 	- All her hard work paid off in the end, and she finally passed the exam.
 	- And last, I would like to thank you all for coming.
 	- At last, they ventured into Target.
 	- I had to tug hard and at last freed him
+	- At long last the government is starting to listen to our problems.
+	- I'm so glad that we've found you at long last.
+	- the judge`s standing in the legal community, though shaken by phony allegations of wrongdoing, emerged, at long last, undamaged/undiminished.
 + additionally == in addition (to sth) 此外
 	- Brokers finance themselves additionally by short-term borrowing.
 	- Additionally, 50 hours of practical experience will be necessary.
@@ -87,7 +90,7 @@
 - according to 根據/按照
 	- Please arrange the books according to size. 
 	- According to Garrett, another helpful tool is hemostatic gauze, an advanced dressing that contains an agent to promote blood clotting and thus, stop the bleeding.
-+ concerning == regarding == with regard to == in respect of/to == with reference to == as for == about 關於
++ concerning == regarding == with regard/respect to == in respect of/to == with reference to == as for == about 關於
 	- We are given little information concerning matters of national security
 	- Regarding your work, I do not have much to say
 	- your recent letter regarding the above proposal
@@ -355,9 +358,10 @@
 	- ... a time when many people are losing their jobs as a consequence of the recession.
 	- His departure was totally unexpected and, in consequence, no plans had been made for his replacement.
 	- Maternity services were to be reduced in consequence of falling birth rates.
-+ therefore == thus == accordingly == consequently == hence == for that reason 所以/因此
++ therefore == thereby == thus == accordingly == consequently == hence == for that reason 所以/因此
 	- He was down with the flu, **and therefore** couldn't come to the party.
 	- It haunts me that I was blind to his predation, and therefore complicit in a culture of willed ignorance and denial.
+	- The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward, thereby increasing the speed of the engine and cutting its fuel consumption.
 	- Burke knocked out Byrne, thus becoming champion
 	- Thus, because of seasonality, more annual radiation is received per unit area at lower as compared to higher latitudes.
 	- People become attached to earthly rewards—money, power, sex, prestige—and thus try to make this stage last a lifetime.
@@ -414,10 +418,14 @@
 ## Time
 + at the outset 起初/一開始
 	- Decide at the outset what kind of learning programme you want to follow.
+- at first 一開始 == to the beginning == initially
+	- At first, he seemed surprised by my question.
+	- Rather than enhancing a country's security, the successful development of nuclear weapons could serve at first to increase that country's vulnerability.
 + no sooner ... than 剛...就... == used to show that one thing happens immediately after another thing
 	- No sooner had I started mowing the lawn than it started raining.
 	- No sooner had the first passenger railroads begun operations in England and the United States, than the public was seized by what was called "railroad mania."
 	- No sooner had the first passenger railroads begun operations in England and the United States, around 1830, than the public was seized by what was called, even then, "railroad mania."
+
 - after a bit
 - after a while
 - lately

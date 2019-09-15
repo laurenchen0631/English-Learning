@@ -57,72 +57,81 @@
 		> |A subsidiary line or loop of filament attached to a main line or leader.| a dropper line
 
 [Chemical]
-	- carbon dioxide
-	- oxygen
-	- hydrogen 氫氣
-	- methane /ˈmɛθeɪn/ 甲烷
-	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
-	- nitric 硝酸
-	- fluoride 氟化物
-	- phosphate 磷酸鹽
-	- platinum == a heavy, grayish-white, highly malleable and ductile metallic element, resistant to most chemicals. Symbol : Pt
-	- palladium == a rare metallic element of the platinum group, silver-white, ductile and malleable, harder and fusing more readily than platinum. Symbol : Pd
-	- cholesterol 膽固醇
-	- calcium /ˈkalsɪəm/ 鈣
-	- dopamine 多巴胺
-	- rosin 松香
-	- myelin 髓磷脂
-	- pigment 色素 == The natural colouring matter of animal or plant tissue.
-	- steroid /ˈstɛrɔɪd/ 類固醇
-	+ collagen /ˈkɒlədʒ(ə)n/ 膠原蛋白 <-- colla = glue + gen
-	- amino acid 胺基酸
-	- ammonia /əˈməʊnɪə/ 氨
-	- molecule /ˈmɒlɪkjuːl/ 分子
-	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
-	- noble gases 高貴氣體 == inert gases 惰性氣體
-	- helium 	/ˈhiːlɪəm/ 氦
-	- neon 		/ˈniːɒn/ 氖
-	- argon 	/ˈɑːɡɒn/ 氬
-	- krypton 	/ˈkrɪptɒn/ 氪
-	- xenon 	/ˈzɛnɒn/ 氙
-	- radon 	/ˈreɪdɒn/ 氡
-	- glucose /ˈɡluːkəʊz/ 葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
-	- ketone /ˈkiːtəʊn/ 酮
-	- nickel /ˈnɪk(ə)l/
-		> 鎳 |A silvery-white metal, the chemical element of atomic number 28.| 
-		> NA 五分錢 |A five-cent coin; five cents.| we will see gasoline prices go up about a nickel
+	- oxygen (n)氧
+	- hydrogen (n)氫氣
+	- platinum /ˈplatɪnəm/ (n)鉑/白金
+	- palladium /pəˈleɪdɪəm/ (n)鈀
+	- calcium /ˈkalsɪəm/ (n)鈣
+	- ammonia /əˈməʊnɪə/ (n)氨
+	- helium 	/ˈhiːlɪəm/ (n)氦
+	- neon 		/ˈniːɒn/ (n)氖
+	- argon 	/ˈɑːɡɒn/ (n)氬
+	- krypton 	/ˈkrɪptɒn/ (n)氪
+	- xenon 	/ˈzɛnɒn/ (n)氙
+	- radon 	/ˈreɪdɒn/ (n)氡
+	- sodium /ˈsəʊdɪ/ (n)鈉
+	- cobalt /ˈkəʊbɔːlt/ (n)鈷
+	- manganese /ˈmaŋɡəniːz/ (n)錳
+	- selenium /sɪˈliːnɪəm/ (n)硒
+	- cadmium (n)鎘
+	- nickel /ˈnɪk(ə)l/ (n)鎳, 五分錢
 	- lithium 鋰
 	- chlorine 氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
 	- potassium /pəˈtasɪəm/ 鉀
 	- zinc /zɪŋk/ 鋅
+
+	- molecule /ˈmɒlɪkjuːl/ 分子
+	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
+	- cation /ˈkatʌɪən/ (n)陽離子
+	- ion /ˈʌɪən/ (n)離子
+	- noble gases 高貴氣體 == inert gases 惰性氣體
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
 	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
-	* polymer 聚合物
-	- vinyl 乙烯基
-	- asbestos 石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
-	- alkaloid 生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
-	- protein 蛋白質
-	- formaldehyde /fɔːˈmaldɪhʌɪd/ 甲醛
-	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
-	- oxidize /ˈɒksɪdʌɪz/ 氧化 == Combine chemically with oxygen.
 	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
-	- galvanic corrosion 伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。
-	- Plexiglas 聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
-	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ 硫脲，是尿素中的氧被硫替代後形成的化合物
-	- meth
-		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
-		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
-		> 甲醇化物 |meths|
+	- ultracold atom 超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
 	- condensate
 		> 冷凝水 |Liquid collected by condensation.|
 		> 凝化物 |A compound produced by a condensation reaction.|
 	- quark
 		> 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元) |Any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed but theoretical predictions based on their existence have been confirmed experimentally.|
 		> 低脂起司凝塊 |A type of low-fat curd cheese.|
-	- ultracold atom 超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
 	
+	* polymer 聚合物
+	- amino acid (n)胺基酸
+	- chloride (n)氯化物
+	- oxidize /ˈɒksɪdʌɪz/ 氧化 == Combine chemically with oxygen.
+	- carbon dioxide
+	- methane /ˈmɛθeɪn/ 甲烷
+	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
+	- nitre (n)硝酸 --> nitric (adj)
+	- formaldehyde /fɔːˈmaldɪhʌɪd/ (n)甲醛
+	- fluoride (n)氟化物
+	- phosphate (n)磷酸鹽
+	- cholesterol (n)膽固醇
+	- dopamine (n)多巴胺
+	- rosin (n)松香
+	- myelin (n)髓磷脂
+	- steroid /ˈstɛrɔɪd/ (n)類固醇
+	+ collagen /ˈkɒlədʒ(ə)n/ (n)膠原蛋白 <-- colla = glue + gen
+	- glucose /ˈɡluːkəʊz/ 葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
+	- ketone /ˈkiːtəʊn/ 酮
+	- vinyl 乙烯基
+	- asbestos 石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
+	- alkaloid 生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
+	- protein 蛋白質
+	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
+	- Plexiglas 聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
+	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ 硫脲，是尿素中的氧被硫替代後形成的化合物
+	- meth
+		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
+		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
+		> 甲醇化物 |meths|
+	
+	- saline /ˈseɪlʌɪn/ (adj)含鹽的 (n)鹽水/生理食鹽水
+	- galvanic corrosion 伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。
+
 
 [Physical]
 	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
@@ -359,7 +368,9 @@
 	- crater (n)彈坑/隕石坑, 火山口 (v)形成坑洞, 墜落
 	- South Pole–Aitken Basin 南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，直徑大約2500公里，深13公里，最大落差16.1公里，它是太陽系中已知最大的撞擊坑之一，也被公認為是月球上最大、最古老和最深的撞擊盆地。
 	- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
-
+	- planetesimal (n)小行星體 (adj)小行星體
+	- meteorite (n)隕星
+	- comet (n)彗星
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

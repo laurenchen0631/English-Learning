@@ -1,5 +1,4 @@
 [General]
-
 	- suburb == An outlying district of a city, especially a residential one.
 	- suburbia 近郊/郊外居民 == The suburbs or their inhabitants viewed collectively.
 	- continent /ˈkɒntɪnənt/
@@ -12,9 +11,6 @@
 		> |An elongated region of high barometric pressure.|
 	- borough (n)自治市鎮, 區
 	- county (n)郡
-	- Gondwanaland 岡瓦那大陸
-	- Laurasia 勞拉西亞大陸
-	- the Bering Land Bridge 白令陸橋，位於白令海，伸延至極限時長達1600公里。白令陸橋連接現今的美國阿拉斯加西岸和俄羅斯西伯利亞東岸 在冰河時期，白令海的水面降低，白令海峽成為一個白令海陸橋。
 	- topography
 		> 地形/地貌 |The arrangement of the natural and artificial physical features of an area.|
 		> 地形圖 |A detailed description or representation on a map of the physical features of an area.|
@@ -37,7 +33,7 @@
 	- hot springs
 	- steppe 大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
 	- permafrost 永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
-	- savanna /səˈvanə/ 熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
+	- savanna /səˈvanə/ (n)熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- prairie /ˈprɛːri/ (n)大草原
 	- meadow (n)草地
 	- temperate zone 溫帶
@@ -51,23 +47,33 @@
 	- ice sheet 冰層
 	- fjord /fjɔːd/ 峽灣
 	- floodplain 氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
+	- alluvial fan (n)沖積扇，山地河流出口處的堆積地貌
+	- silt (n)泥沙/淤泥
+	- delta (n)希臘語的第四個字母, 代表D的符號, 差值, 河口三角洲
+	- tributary (n)支流, 進貢國/附庸國
+	- distributary (n)支流
+	- sandbar (n)沙洲
+	- point bar (n)河曲沙洲
+	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
 	- playa
 		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
 		> |player|
 	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
 	- dune /djuːn/ 沙丘 == A mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert.
-	- sandbar 沙洲
-	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
 	- timberline == treeline (n)樹帶界線
 	- ridge (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
 	* mountain range 山脈
 	- mound /maʊnd/
 		> 土石堆 |A rounded mass projecting above a surface.| the bushes were little more than vague mounds beneath the snow
 		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
-		> |Heap up into a rounded pile.|
+		> 堆積 |Heap up into a rounded pile.|
 		> 一堆 |A large pile or quantity of something.| a mound of dirty crockery
 	- basin /ˈbeɪs(ə)n/ (n)食物盆 (n)盆地/凹地, 流域, 船塢
-	
+	- vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔
+	* alpine /ˈalpʌɪn/ (adj)高山的, 阿爾卑斯山的 (n)高山植物, 高山蝶
+	- outcrop (n)礦脈露出地面部分 (v)露出
+	- wadis 乾谷，指北非和阿拉伯沙漠地區乾涸的沙礫河床，地下水的水平不在地面，時有水時無水，時為商旅的交通道路
+	- isle /ʌɪl/ (n)小島
 	
 [Weather]
 	- cyclone 氣旋 --> cyclonic 氣旋的
@@ -107,8 +113,9 @@
 	- pulverization 粉碎
 	- salinization 鹽土化作用
 	- water table 地下水位
-	- runoff (n)決賽/決選投票, 地表逕流(雨水或是冰雪融化後的水流經地表產生的水流，因土壤無法吸收水份而形成)
+	+ runoff (n)決賽/決選投票, 地表逕流(雨水或是冰雪融化後的水流經地表產生的水流，因土壤無法吸收水份而形成)
 	- landslide (n)山崩/滑坡, 選舉的壓倒性大勝利
+	- leach (v)(土壤)漂洗/過濾
 
 [Ore]
 	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
@@ -126,13 +133,20 @@
 		> 主礦脈 |A principal vein of an ore or mineral.|
 		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
 	- sandstone 砂岩
-	- shale	/ʃeɪl/ 頁岩/泥板岩 <|> shell /ʃɛl/ 
+	- shale	/ʃeɪl/ (n)頁岩/泥板岩 <|> shell /ʃɛl/ 
 	- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
 	- outwash 沖積物 == Material carried away from a glacier by meltwater and deposited beyond the moraine.
 	- basalt 玄武岩，一種細粒緻密、外觀呈黑色的火成岩，由基性岩漿噴發凝結而成，主要成分是矽鋁酸鈉或矽鋁酸鈣
 	* Zircon /ˈzəːk(ə)n/ 鋯石
 	* lava /ˈlɑːvə/ 熔岩
 	- obsidian /əbˈsɪdɪən/ 黑曜岩，是一種自然產生的玻璃。成因是因為火山熔岩迅速冷卻凝結，沒有足夠的時間讓礦物晶體長出，而形成玻璃質
+	- gemstone (n)寶石
+	- serpentine (adj)像蛇的, 蜿蜒的, 陰險的 (n)蛇紋石 (v)像蛇般行進
+	- serpentine soil 蛇紋石土，是一種罕見的土壤類型，由橄欖岩及其變質衍生物如蛇紋岩等風化超基性岩石產生
+	- boulder (n)巨石
+	- cobble (n)鵝卵石
+	- bedrock (n)基岩, 基礎
+	- limestone (n)石灰岩
 
 [Ocean]
 	- the Pacific Ocean

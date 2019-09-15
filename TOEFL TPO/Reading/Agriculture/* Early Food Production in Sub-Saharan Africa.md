@@ -14,6 +14,7 @@ The process of clearance and burning may have seemed *haphazard* to the uninform
 ## Vocab
 + modest (adj)審慎的, 適度的/中等的, 端莊的/穩重的
 - ? The yam can easily be resprouted if the top is replanted 山药的顶部如果被再植的话，很容易再次发芽
+- yam (n)山藥, 甘藷 = sweet potato
 - ? economic tradition onto which the cultivation of summer rainfall cereal crops was grafted as it came into use south of the grassland areas on the Sahara's southern borders. 基于这种传统，夏季降水谷类作物的种植也采用嫁接的办法，这种种植技术已经在撒哈拉沙漠南部边界地区的草原南部被使用
 + graft (n/v)嫁接, 貪污, 工作
 - come into use 開始被採用 == to start being used

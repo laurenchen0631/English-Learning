@@ -27,7 +27,7 @@ Only recently have investigators considered using these plants to clean up soil 
 - petiole (n)葉柄, 肉莖
 - hydroponic (adj)水耕的 --> hydroponics (n)水耕法
 - aeroponics (n)無土種植法
-- saline /ˈseɪlʌɪn/  (adj)含鹽的 (n)鹽水/生理食鹽水
+- saline /ˈseɪlʌɪn/ (adj)含鹽的 (n)鹽水/生理食鹽水
 - sodium /ˈsəʊdɪ/ (n)鈉
 - chloride (n)氯化物
 - cadmium (n)鎘

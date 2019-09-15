@@ -33,8 +33,7 @@
 	- alarmist
 		> 危言聳聽者 |Someone who exaggerates a danger and so causes needless worry or panic.|
 		> 危言聳聽的/製造恐慌的 |Creating needless worry or panic.|
-	- all over == everywhere in a particular place
-		> For more than a decade she photographed trees all over the world from sunrise to sunset
+
 	- all-around 全能的 == having a great many abilities or uses; versatile.
 	- all-or-nothing 全做或全不做 == relates to doing something either completely or not at all
 		> She either loves you or hates you - it`s all or nothing with her.
@@ -44,6 +43,10 @@
 	- all-you-can-eat
 		> 隨意吃的/吃到飽的 |used to describe a meal at a restaurant where people can serve themselves as much food as they want| The bar has an all-you-can-eat buffet lunch for $10.
 		> 無上限的(服務、下載量等) |used to describe an arrangement in which a company allows customers to use a service as much as they like or to download as much as they like from the internet for a fixed amount of money| all-you-can-eat packages of voice, video, and internet services
+	- allow for 考慮到 == include some extra time or money in your planning
+		> You have to allow for a certain amount of error.
+		> The Agency`s budget simply did not allow for such a massive increase.
+		> Finally, while the standard particle physics model - which describes all matter in terms of twelve fundamental particles and four fundamental forces - doesn`t allow for neutrinos with mass, there are theories that do.
 	+ allowance
 		> 承認/允許 |The amount of something that is permitted, especially within a set of regulations or for a specified purpose.| your baggage allowance
 		 in the weight that a horse is required to carry in a race.|
@@ -110,6 +113,9 @@
 		> 與眾不同地 |Used after a noun to indicate that someone or something has qualities which mark them out from other people or things.| wrestlers were a breed apart
 		> |Used to indicate that one is dismissing something from consideration or moving from one tone or topic to another.| Alaska apart, much of America`s energy business concentrates on producing gas
 		> 散開地 |So as to be shattered; into pieces.| he leapt out of the car just before it was blown apart
+	- apart from
+		> 除了 |except for| Apart from the ending, it`s a really good film.
+		> 以及 |quite apart from == as well as == in addition to == besides| Quite apart from the cost, we need to think about how much time the job will take.
 	- aural 耳朵的/聽覺的 == Relating to the ear or the sense of hearing.
 	+ administer
 		> 管理/掌管 |Manage and be responsible for the running of (a business, organization, etc.)| each school was administered separately
@@ -144,6 +150,15 @@
 		> 汽車 |automobile| the auto industry
 		> 自動的 |automatic| you have to take the camera out of auto mode and into manual
 		> 自動模式 |automatic| the camera requires a lot of light to get good photos and videos in auto
+	- aim to/for 致力/意欲 == plan or hope to achieve it
+		- an appeal which aims to raise funds for children with special needs
+		- Mr.Hirsh says he will aim to preserver the foundation`s support of heterodox thinkers, individuals who are going against the trends in a field or an acknowledged set of opinions.
+	- argue against (證據)反對/推翻 == say why you disagree with something, in order to persuade people that it is wrong
+		> The report argues against tax increases.
+		> Before 1500 North America was inhabited by more than 300 cultural groups, each with different customs, social structures, world views, and languages; such diversity argue against the existence of a single Native American culture.
+	- argue for (理由)支持 == say why you agree with something, in order to persuade people that it is right
+		> argued for dismissal of the case
+		> The author argues for serious treatment of such arts as crochet and needlework, finding in too many art historians a cultural blindness traceable to their prejudice against textiles as a medium, in which women artist predominate.
 
 [B]
 	- backroad == back road 小路/無人跡的路== a small road that does not have much traffic on it
@@ -354,6 +369,10 @@
 		> 頂替 |Displace from a job or role, especially in favour of someone else.| she was bumped for a youthful model
 	- bump into 巧遇 == Meet by chance.
 		> we might just bump into each other
+	- building block (n)積木 --> building blocks (n)基礎/構成要素
+	- buildup (n)累積/增加, 事前準備期, 事前宣傳
+	+ build up (v)增加/把..加入
+	+ build sb/sth up (v)鼓勵
 	+ bust
 		> 胸圍 |A woman`s chest as measured around her breasts.|
 		> 胸部 |A woman`s breasts, especially considered in terms of their size.|
@@ -372,6 +391,7 @@
 		> 經濟困難 |A period of economic difficulty or depression.|
 		> 破產的 |Bankrupt.|
 		> 無用之物 |A worthless thing.| cynics remain convinced the political process is a bust
+	- blast (n)爆炸/爆破, 突擊, 疾風, 鳴響, 猛烈的批評, 狂歡會 (v)炸開, 炸傷, 炸飛, 開火, 吹奏/鳴響, 嚴厲批評, 使枯萎, 破壞
 	- black out 暫時失去知覺，昏厥 == to become unconscious suddenly but for a short period
 	+ blank 
 		> 空的/空白的 |(of a surface or background) unrelieved by decorative or other features; bare, empty, or plain.| the screen went blank
@@ -500,7 +520,7 @@
 	- campy == camp
 		> 做作女性化的 |(of a man or his manner) ostentatiously and extravagantly effeminate.| a heavily made-up and highly camp actor
 		> 裝模作樣的 |Deliberately exaggerated and theatrical in style.| the movie seems more camp than shocking or gruesome
-	- canal /kəˈnal/
+	+ canal /kəˈnal/
 		> 人工渠道 |An artificial waterway constructed to allow the passage of boats or ships inland or to convey water for irrigation.|
 		> 管/道 |A tubular duct in a plant or animal, serving to convey or contain food, liquid, or air.|
 	+ cancel sth out 抵銷 == to remove the effect of one thing by doing another thing that has the opposite effect
@@ -1231,6 +1251,7 @@
 		> 應得權益 |One`s right; what is owed to one.| he thought it was his due
 		> 應付款 |An obligatory payment; a fee.| he had paid trade union dues for years
 		> 正 |(with reference to a point of the compass) exactly; directly.| we`ll head due south again on the same road
+	- daub /dɔːb/ (v)塗, 亂畫/亂塗 (n)一抹, 拙劣的畫, 灰泥
 	+ dub
 		> 給...取別稱 |Give an unofficial name or nickname to.| the media dubbed anorexia ‘the slimming disease
 		> 封..為爵士 |Make (someone) a knight by the ritual touching of the shoulder with a sword.| he should be dubbed Sir Hubert
@@ -1643,7 +1664,8 @@
 	- flesh out 
 		> 增重 |Put weight on.| he had fleshed out to a solid 220 pounds
 		> 以細節或資訊充實 |Add more details to something which only exists in a draft or outline form.| the arguments were fleshed out by the minister
-	> 使肉剝離 |Remove the flesh adhering to (a skin or hide)| chemicals remove the hair and preserving salts, and then the hides are fleshed
+		> 使肉剝離 |Remove the flesh adhering to (a skin or hide)| chemicals remove the hair and preserving salts, and then the hides are fleshed
+	- flock (n)一群, 軟填料 (v)聚集
 	- fall
 	- fall through 未發生/失敗/落空 == to fail to happen
 		> We found a buyer for our house, but then the sale fell through.
@@ -2345,8 +2367,10 @@
 	- lit 非常興奮/非常熱門 == When something is turned up or popping 
 	- likelihood /ˈlʌɪklɪhʊd/ 可能性 == The state or fact of something`s being likely; probability.
 	- live
-	- live off 依靠…生活 == to use someone or something to provide the money or food that you need to live
-		> All his life he had lived off his father.
+	+ live off 倚靠..維生
+		- All his life he had lived off his father.
+		- They had learned to live off the land 
+		- These cattle people may have moved between fixed settlements during the wet and dry seasons, living off hunting in the dry months and their own livestock and agriculture during the rains.
 	- live up (to) 與…一樣好 == to be as good as what was expected or promised
 		> The breathtakingly beautiful scenery certainly lived up to expectations.
 		> The concert was brilliant - it lived up to all our expectations.
@@ -2509,6 +2533,8 @@
 		> 精湛技藝 |Comprehensive knowledge or skill in a particular subject or activity.| she played with some mastery
 		> 熟練/精通 |The action of mastering a subject or skill.| a child`s mastery of language
 		> 支配/統治 |Control or superiority over someone or something.| man`s mastery over nature
+	- mat (n)擦鞋墊, 墊子, 隔熱墊, 叢/簇, 矩陣 (v)使纏結
+	- matt = mat (adj)無光澤的 (v)使無光澤 (n)亞光漆, 襯邊/框邊 
 	- mirror
 		> 鏡子 |A surface, typically of glass coated with a metal amalgam, which reflects a clear image.| he checked his appearance in the mirror
 		> 反映/真實的寫照 |A thing regarded as accurately representing something else.| the stage is supposed to be the mirror of life
@@ -3532,7 +3558,7 @@
 		> 上升 |A marked rise in the value or level of something.| a sharp run-up of land and stock prices
 	- run-of-the-mill == ordinary and not special or exciting in any way
 		> He gave a fairly run-of-the-mill speech.
-	- rule out sth 排除..的可能性 == to stop considering something as a possibility
+	+ rule out sth 排除..的可能性 == to stop considering something as a possibility
 		> It’s unlikely that he’ll run for president, but you can never rule anything out.
 	- runaway
         > |A person who has run away|
@@ -3549,7 +3575,7 @@
 		> 談論/評論 |A written or spoken comment.| I decided to ignore his rude remarks
 		> 注意/覺察 |Regard with attention; notice.| he remarked the man`s inflamed eyelids
 		> 注意/察覺 |Notice or comment.| the landscape, familiar since childhood, was not worthy of remark
-	- roll
+	+ roll (v)滾動, 轉, 運轉/啟動, 移動, 捲/滾搓, 擀平/碾平, 隆隆作響/轟轟響, (聲音)顫動 (n)一捲, 滾動, 隆隆聲, 麵包捲, 名單/名冊, 地表起伏
 	- roll out == to make something available or known to people for the first time
 		> Microsoft is rolling out templates later this year so people can easily optimize their Teams app to best suit particular industries, like marketing
 		> While Fitz and the Tantrums had already experienced success at home, the burst of fame on TikTok persuaded the band to focus on Asia as it rolls out its new album.
@@ -3990,7 +4016,7 @@
 	- spill out
 		> 溢出/流出/灑出/掉出 |to flow or fall out of a container| All the shopping had spilled out of my bag.
 		> 湧出/蜂擁而出 |If people spill out of a place, large numbers of them come out of it.| People were spilling out of the wine bar onto the street.
-	- spin -> spun -> spun
+	+ spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋
 	- spin off == To spin off or spin off something such as a company means to create a new company that is separate from the original organization.
 		> Many of Spaceship Media’s Facebook groups have spun off into member-run groups, individual friendship and, most of all, real human connection across difference.
 	- spot on 確切的/準確的 == exactly right
@@ -4007,6 +4033,7 @@
 		> 一段時間 |A period spent in an activity.| a spell of greenhouse work
 		> 暫時替換 |Allow (someone) to rest briefly by taking their place in an activity.|
 		> 木頭碎片 |A splinter of wood.|
+	+ spring -> sprang -> sprung (v)彈起/彈開, [from]源自 = originate from, 突然出現, (木頭或船)開裂/破裂 (n)春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
 	- spree 玩樂/短暫的放縱 == a short period of doing a particular, usually enjoyable, activity much more than is usual
 	- settle on
 		>> |to make a decision between two or more people or things after not being certain which to choose| The band has yet to settle on a name.
@@ -4613,6 +4640,9 @@
 		> 和平條約 |Agreed conditions under which a war or other dispute is brought to an end.| the United States played a key role in prodding the two sides to come to terms
 		> 項 |Each of the quantities in a ratio, series, or mathematical expression.|
 		> 把……稱為 |Give a descriptive name to; call by a specified term.| he has been termed the father of modern theology
+	- tell sth apart 分辨/區別 == to be able to see the difference between two very similar things or people
+		- As babies, the twins looked so much alike that I just could not tell them apart.
+		- he never had trouble telling the fossils apart
 	- teensy /ˈtiːnzi/ == teeny == Tiny
 	- teeny 微小的 == tiny
 	- teeny weeny 非常小的 == tiny

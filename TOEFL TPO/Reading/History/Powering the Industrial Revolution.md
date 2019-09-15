@@ -12,7 +12,7 @@ By 1800 more than a thousand steam engines were in use in the British *Isles*, a
 ## Vocab
 - abound (v)大量存在, [in/with]充滿
 - piston (n)活塞
-* embody (v)體現/具體地表顯, 包括/包含 (v)划 
+* embody (v)體現/具體地表顯, 包括/包含, 划 
 - stroke (n)擊/打, 一筆/筆觸, 撫摸, 中風 (v)擊, 撫摸
 - thereby (adv)因此
 - ? in a millennium and a half 1500年以来
@@ -23,7 +23,7 @@ By 1800 more than a thousand steam engines were in use in the British *Isles*, a
 - bellow (v)低吼/怒吼, 大聲叫, 大聲亂唱 (v)低吼聲
 - isle /ʌɪl/ (n)小島
 + virtual (adj)幾乎…的/實質上的, 虛擬的
-+ spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋
++ spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋
 + roll (v)滾動, 轉, 運轉/啟動, 移動, 捲/滾搓, 擀平/碾平, 隆隆作響/轟轟響, (聲音))顫動 (n)一捲, 滾動, 隆隆聲, 麵包捲, 名單/名冊, 地表起伏
 + canal (n)人工渠道, (器官)管/道
 - turnpike (n)收費高速公路

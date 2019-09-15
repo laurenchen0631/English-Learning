@@ -238,7 +238,7 @@
 
 	agon 掙扎/打鬥 = struggle
 		- agony (n)極大的痛苦 = anguish
-		- agonize (v)(使)苦惱/折磨
+		- agonize (v)[over]為…傷腦筋/因…痛苦彷徨
 		+++ /anˈtaɡnʌɪz/ antagonize (v)使對抗/使對立 --> antagonism (n)對抗/對立, 敵對/敵意 = enmity --> antagonistic (adj)對立的 = hostile, 敵對的 = hostile
 		- protagonist (n)主角, 提議者/支持者 = proponent
 
@@ -385,6 +385,7 @@
 		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
 		- artsy, arty (adj)附庸風雅的
+		- artisan (n)工匠/技工 = craftsman
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -1653,7 +1654,7 @@
 
 		2. 家 = house
 			- dome (n)圓屋頂, 蒼穹
-			+++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 喜愛家庭或家務
+			+++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 人工培植
 			- domicile (n)住處 (v)居住 <|> docile
 
 	dote, dose, don 給予 = give
@@ -2114,7 +2115,7 @@
 		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
 		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
 		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的
-		++ prompt (adj)立即的/準時的 = punctual  (v)激起/引起 = cause = bring about, 提示
+		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示
 
 	{esce}, {escent} 開始...的
 		- convalesce
@@ -2369,7 +2370,7 @@
 		* inflict (v)給予打擊/使遭受 --> inflicion (n)施加的痛苦
 
 	flu, fluct, fluv 流 = flow
-		+ affluent (adj)富裕的 = rich = prosperous = opulent <--> needy = impecunious = indigent
+		+ affluent (adj)富裕的 = well-to-do = rich = prosperous = opulent <--> needy = impecunious = indigent
 		- confluence (n)交匯/匯流點 = junction
 		- /ɪˈfluːvɪəm/ effluvium -> effluvia (n)惡臭, 廢料
 		+ fluctuate (v)波動/變動 = vacillate = waver --> fluctuation (n)不斷變動, 波動 = undulation
@@ -2590,7 +2591,7 @@
 		* generosity (n)慷慨/大方, 仁慈/寬厚 = goodness
 		- genital (adj)生殖的 <|> genial
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
-		* genus (n)類/種類
+		* genus (n)類/種類 --> genera (n)類
 		- /ˈ(d)ʒɒnrə/ genre (n)文藝作品之類型
 		+ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
 		+ homogeneous --> homogeneity
@@ -3784,7 +3785,7 @@
 
 	mod, mode 方式/限制 = manner, limit
 		- mode (n)樣式/時尚 = fashion, 方法/做法/模式 = fashion, 形式/種類/風格 = kind
-		* modest (adj)審慎的, 適度的/中等的, 端莊的/穩重的
+		* modest (adj)審慎的, 適度的/中等的/不太多的, 端莊的/穩重的
 		*** moderate (adj)中等的/適度的 = modest, 穩健的/溫和的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
 		- immoderate
 		+ modicum (n)少量
@@ -4183,6 +4184,7 @@
 			+ ostensible, ostensive 
 
 	out 超出/出 = beyond, surpass, out
+		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
 		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
@@ -4218,6 +4220,7 @@
 			- overflow (v)溢出/擠出/外流, 充滿/洋溢 (n)溢出, 過剩
 			- overhaul (n/v)把..徹底檢查/徹底檢修
 			- overheated (adj)過熱的, 太激烈的/太強烈的, 經濟膨脹的
+			- overkill (n)過度使用, 過度殺傷
 			- overpower (v)擊敗/制伏, 對..來說過於強烈 = overwhelm --> overpowering (adj)非常強烈的(情緒) = overwhelming
 			- overreach (v)做得過頭/伸得過遠, 智勝 = outwit
 			+ overreact (v)反應過度
@@ -5838,6 +5841,7 @@
 		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
 		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
+		+ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
@@ -6067,7 +6071,7 @@
 		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)收縮的, 酸澀的(味道), 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
 		+ constrain (v)強迫 = compel = coerce, 限制 = restrict = confine = restrain, 監禁 = imprison = restrain
 		+ constraint (n)約束/限制
-		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict
+		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict --> constriction (n)壓縮, 阻塞物
 		- distrain (v)扣押(財物)
 		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
@@ -6280,7 +6284,7 @@
 			+ transcend --> transcendent
 			- transcendental
 			+ transgress --> transgression
-			+ transient (adj)短暫的/一時的/瞬間的 = transitory = temporary = fleeting (n)短暫之物/短暫居住者/過往旅客/候鳥, 瞬變電流
+			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting  (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 <-- trans + i(t) + ent
 			- transit (v)運輸/運送, 通過/經過/過渡/變遷 --> transition (n)過渡時期/轉變
 			+ transitory (adj)短暫的 = transient = ephemeral = fleeting <-- transit
@@ -6768,6 +6772,7 @@
 
 	up 上 = upper, upwards
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
+		- update (v)使……合乎時代, 為……提供最新信息 (n)更新
 		- upend (v)倒置 == Set or turn (something) on its end or upside down.
 		- upgrade (v)提升/升級
 		+ upheave (v)漲起/鼓起, 舉起, 發生混亂 --> upheaval (n)劇變/大變動, 脹起/鼓起/隆起
@@ -6983,7 +6988,7 @@
 	vir
 		1. 人 = man
 			+ virtue (n)美德/高尚品德, 優點/好處 --> by virtue of 因為/由於 = beacuse of
-			- virtual (adj)實質上的/實際上的
+			- virtual (adj)實質上的/實際上的, 虛擬的
 			+ virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 			- virtuous (adj)有美德的/有道德的/善良的
 			+ /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (n)精湛技藝/高超

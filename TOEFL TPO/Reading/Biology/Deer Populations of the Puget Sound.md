@@ -11,9 +11,8 @@ Reduction in numbers of game should have *boded ill* for their survival in later
 
 The causes of this population **rebound** are consequences of other human actions. First, the major predators of deer-wolves, cougar, and lynx-have been greatly reduced in numbers. Second, conservation has been insured by limiting times for and types of hunting. But the most profound reason for the restoration of high population numbers has been the fate of the forests. Great tracts of lowland country deforested by logging, fire, or both have become ideal feeding grounds of deer. In addition to finding an increase of suitable browse, like huckleberry and vine maple, Arthur Einarsen, longtime game biologist in the Pacific Northwest, found quality of browse in the open areas to be substantially more nutritive. The protein content of shade-grown vegetation, for example, was much lower than that for plants grown in clearings.
 
-
 ## Vocab
-- Puget Sound 普吉特海灣
+- Puget Sound 普吉特海灣，一個位於美國西雅圖西岸峽灣，北臨加拿大溫哥華島，屬薩利希海的一部份
 - prairie /ˈprɛːri/ (n)大草原
 - understory (n)下層植物
 - meadow (n)草地

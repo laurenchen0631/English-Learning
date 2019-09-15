@@ -1,114 +1,14 @@
 [A]
-	- a case in point == good example
-		> In many case religious persecution is the cause of people fleeing their country. A case in point is colonial India.
-			>> religious persecution 宗教迫害
-	- a cross section of 典型/樣品 == a group of them that you think is typical or representative of all of them
-		> Although the new, improved bicycle had appealed immediately to a few privileged women, its impact would have been modest had it not attracted a greater cross section of the female population.
-			>> privilege 
-			>> appeal to 吸引
-			>> modest
-			>> had it not [假設句]如果沒有 == if it had not
-		> The demonstration provided a platform for a broad cross section of speakers.
-	- agonize over == feel very anxious about it and spend a long time thinking about it
-		> Perhaps he wa agonizing over the moral issues involved.
-		> Like Bela Bartok, Ruth Crawford not only brought a composer`s acumen to the notation of folk music, she also had a marked reverence for the task. This was clear in her agonizing over how far to try to represent the minute details of a performance in a written text, and this fastidiousness makes her work a landmark in ethnomusicology.
-			>> not only
-			>> bring ... to ...
-			>> reverence for
-			>> minute details
-
-	- aim to/for == plan or hope to achieve it
-		> an appeal which aims to raise funds for children with special needs
-			>> appeal
-		> Mr.Hirsh says he will aim to preserver the foundation`s support of heterodox thinkers, individuals who are going against the trends in a field or an acknowledged set of opinions.
-			>> go against 背道而馳
-			>> a set of 
-
 	- all but
 		1. 除了...都 == everything or everyone except that person or thing
 			> The general was an unattractive man to all his most ardent admirers.
 			> Despite an agreement between labor and management to keep the print and electronic media apprised of developments, the details of the negotiations were withheld from all but a few journalists from the major metropolitan newspaper.
 				>> apprised of ...
 				>> withhold ... from ... 拒絕把...給...
-
 		2. 幾乎/差不多 == almost
 			> He has been all but forgotten.
 			> Salazar`s presence in the group was so reassuring to the others that hey lost most of their earlier trepidation; failure, for them, became all but unthinkable.
-	- all short of == to fail to reach an amount or standard that was expected or hoped for
-		> Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
-	- all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
-		> He may have been a good football player in high school, but he was all brawn and no brains, so he didn`t get into any colleges.
-	- allow for 考慮到 == include some extra time or money in your planning
-		> You have to allow for a certain amount of error.
-			>> have to
-			>> a amount of
-		> The Agency`s budget simply did not allow for such a massive increase.
-		> Finally, while the standard particle physics model - which describes all matter in terms of twelve fundamental particles and four fundamental forces - doesn`t allow for neutrinos with mass, there are theories that do.
-			>> in terms of 就...方面來說/就……而論
-			>> neutrino 微中子
-			>> there are 
-
-	- along with 一起/除...之外 == along with someone or something else that is also involved in an action or situation.
-		> Tobacco is taxed in most countries, along with alcohol.
-			>> in country
-		> Technological advancements are limited in their ability to change society and will likely bring liabilities along with any potential benefits.
-			>> liability
-
-	- (be) anything but 遠非 == not at all (used for emphasis) == not
-		> this grisly ending is anything but sentimental
-		> I will be anything but quiet on Saturday night.
-			>> on <date>
-			>> in <month/year/season, morning, afternoon, evening>
-			>> at <clock time, midnight, noon, night>
-
-		> The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
-			>> portray ... as ... 把（某人）刻畫成
-			>> make ... out to be == characterize something in a certain way
-	- apart from
-		1. 除了 == except for
-			> Apart from the ending, it`s a really good film.
-
-		2. 除了..以外還有.. == quite apart from == as well as == in addition to == besides
-			> Quite apart from the cost, we need to think about how much time the job will take.
-			> Famous among the job seekers for its largesse, the company, quite part from its generous salaries, bestowed on its annual bonuses and such perquisites as low-interest home mortgages and company cars.
-				>> largesse, largess
-				>> sth be bestowed on/upon sb
-				>> perquisite
-				>> home mortgage 房屋抵押貸款
-
-	- apprised of 通知/告知 == someone tells you about something
-		> Have customers been fully apprised of the advantages ?
-		> Despite an agreement between labor and management to keep the print and electronic media apprised of developments, the details of the negotiations were withheld from all but a few journalists from the major metropolitan newspaper.
-			>> be withheld from
-			>> all but
-
-	- argue against (證據)反對/推翻 == say why you disagree with something, in order to persuade people that it is wrong
-		> The report argues against tax increases.
-		> Before 1500 North America was inhabited by more than 300 cultural groups, each with different customs, social structures, world views, and languages; such diversity argue against the existence of a single Native American culture.
-
-	- argue for (理由)支持 == say why you agree with something, in order to persuade people that it is right
-		> argued for dismissal of the case
-			>> dismissal
-		> The author argues for serious treatment of such arts as crochet and needlework, finding in too many art historians a cultural blindness traceable to their prejudice against textiles as a medium, in which women artist predominate.
-			>> such (sth) as 例如
-			>> traceable to 追溯到
-			>> prejudice against
-	+ as to 關於 == With respect to; concerning.
-		> decisions as to which patients receive treatment
-		> He was uncertain as to which road to take.
-		> There is no decision as to when the work might start.
-	+ as to/for 至於(轉變話題) == changing the subject to
-		> As to where we'll get the money from, we'll talk about that later.
-	+ as of 在...時/自...起 == on, at, from - used to indicate a time or date at which something begins or ends
-		> The project wa terminated as of January 1.
-	- as opposed to 而不是 == not something else, used to compare two things.
-		> We ate in the restaurants, as opposed to the bistro.
-		> The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author`s beliefs, as opposed to what is imposed by political coercion.
-			>> repressive regimes 壓迫政權
-			>> lie in 
-	- as yet == up to the present
-		> Second, the fungi cannot as yet be cultivated in the absence of a living root
-			>> in the absence of
+	
 	+ as such
 		> (否定)大抵上 |You use as such with a negative to indicate that a word or expression is not a very accurate description of the actual situation.|
 			>> I am not a learner as such – I used to ride a bike years ago.
@@ -117,7 +17,6 @@
 			>> Mr Simon said he was not against taxes as such, `but I do object when taxation is justified on spurious or dishonest grounds,` he says.
 			>> House prices are easily upset by factors which have nothing to do with property as such. The fall in prices in the South-East results largely from the high rate of interest on mortgages.
 			>> It is not grammatical competence as such that is innate but more general cognitive principle.
-	- as well as == in addition to
 	- ascribe A to B
 		1. 認為 A 是 B 所為 == B said or created A == A is ascribed to B
 			> He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin.
@@ -144,53 +43,9 @@
 			> Richard M Russell said 52 percent of the nation`s growth since the Second World War had come through invention. He said, aside from supporting research, the government`s greatest role in assuring continuing innovation is promoting a strong, modern patent office. "Unless we can protect original ideas, we will not have invention." Mr.Russell said. Speculating on the state of innovation over the next century, several investors agreed that the future lay in giving children the tools to think creatively and the motivation to invent.
 				>> the Second World War
 				>> speculate on
-		> 2. 除了... = except for == apart from
+		2. 除了... = except for == apart from
 			> This reaction suggest that, quite aside from changes in great-trapping gases, commonly known as greenhouse gases, certain positive feedback are also amplifying the temperature change.
 
-	- at best 頂多
-		> This policy, they say, is at best confused and at worst non-existed.
-			>> at worst
-		> At best they were effective as antidepressants for no more than four months.
-		> Walpole`s art collection was huge and fascinating, and his novel The Castle of Otranto was out of print; none of this mattered to the Victorians, who dismissed him as, at best, insignificant.
-			>> out of
-			>> dismiss ... as ... 把...當作...而不再去想
-
-	- at first == to the beginning == initially
-		> At first, he seemed surprised by my question.
-			>> seem adj
-		> Rather than enhancing a country`s security, the successful development of nuclear weapons could serve at first to increase that country`s vulnerability.
-			>> rather than
-			>> serve to
-
-	- at hand 接近的/不遠的 == near at hand == close at hand == very near
-		> Having the right equipment at hand will be enormously helpful.
-		> The technological know-how, if not the political commitment, appears already at hand to feed the world`s exploding population and so to eradicate at last the ancient scourges of malnutrition and famine.
-			>> if not 
-			>> political commitment 政治承諾
-			>> appear to 看起來
-			>> and so 而且
-			>> scourge
-			>> famine
-
-	- at large
-		1. 一般/普遍 = in general
-			> I think the chances of getting reforms accepted by the community at large remain extremely remote.
-				>> remain adj
-			> Although the compound is abundant in the environment, its presence in the air is not detrimental; only in the form of underwater sediment does it cause damage.
-				>> in the environment
-				>> detrimental
-				>> sediment
-		
-		2. 在逃的/未被捕獲的 = something that has not been captured
-			> The man who tries to have her killed is still in large.
-				>> have sb adj
-
-	- at long last == finally == at last
-		> I`m so glad that we`ve found you at long last.
-		> the judge`s standing in the legal community, though shaken by phony allegations of wrongdoing, emerged, at long last, undamaged/undiminished.
-			>> phony == bogus == counterfeit == forged == sham
-			>> allegation
-			>> undiminished == undamaged
 	+ at the outset 起初/一開始 == If something happens at the outset of an event, process, or period of time, it happens at the beginning of it.
 		> Decide at the outset what kind of learning programme you want to follow.
 	+ (be) at odds 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
@@ -941,6 +796,9 @@
 	- the real deal
 		> 真正的能手／好事 |someone or something that is very good and has all the qualities that people say they have| His performance proved he`s the real deal.
 		> 真實/真實性 |the facts about something|  The booklet gives you the real deal on smoking.
+	- take hold 變強盛/確立地位
+		- The economic recovery is just beginning to take hold now.
+		- Fascism has never taken hold in the United States.
 	- take a stab at 嘗試
 	- take flight
 		> 逃離 |to leave or run away from danger| Fearing arrest, they took flight and hid in the mountains
