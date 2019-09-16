@@ -6,6 +6,7 @@
 	- square foot 平方英尺
 	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
 	- are 公畝 == 100 square meters == 119.6 square yards
+	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
 	- degree Celsius == °C
 	- dozen == twelve
 	+ millennium == A period of a thousand years
@@ -98,13 +99,14 @@
 		> 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元) |Any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed but theoretical predictions based on their existence have been confirmed experimentally.|
 		> 低脂起司凝塊 |A type of low-fat curd cheese.|
 	
-	* polymer 聚合物
+	* polymer (n)聚合物
 	- amino acid (n)胺基酸
 	- chloride (n)氯化物
-	- oxidize /ˈɒksɪdʌɪz/ 氧化 == Combine chemically with oxygen.
+	- sodium chloride (n)氯化鈉
+	- oxidize /ˈɒksɪdʌɪz/ (v)氧化 == Combine chemically with oxygen.
 	- carbon dioxide
-	- methane /ˈmɛθeɪn/ 甲烷
-	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ 硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
+	- methane /ˈmɛθeɪn/ (n)甲烷
+	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ (n)硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
 	- nitre (n)硝酸 --> nitric (adj)
 	- formaldehyde /fɔːˈmaldɪhʌɪd/ (n)甲醛
 	- fluoride (n)氟化物

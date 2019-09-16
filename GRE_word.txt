@@ -227,6 +227,7 @@
     + burgeon (v)快速成長/迅速發展 = flourish = bloom = prosper = proliferate = thrive (n)芽/嫩枝 = sprout <-- bud
     + /bəːˈlɛsk/ burlesque (n)滑稽諷刺作品或戲劇 = caricature (v)模仿嘲弄 = mock = flout <|> brusque <-- burl 玩笑 = jest + esque
     + burnish (v)擦亮/磨光/改善 = polish = ameliorate <|> tarnish <|> furnish <-- brown 法文
+    + bustle (v)奔忙, 催促/趕去, [with]充滿, 忙亂/喧囂, 腰墊/裙撐 --> bustling (adj)熙熙攘攘的/喧囂的, 奔忙的
     ^ butt (n)屁股 = buttocks, 煙蒂, 槍托 (v)用頭或角頂撞
     + buttress (n)拱牆/扶壁 (v)支撐(物體) = reinforce = prop, 支持(想法或論點) = bolster = support
     + /bɪˈzantʌɪn/ byzantine (adj)錯綜複雜的 = intricate = complex --> Byzantine (adj)拜占庭式的/東羅馬帝國的
@@ -345,7 +346,6 @@
     ^ bondage (n)奴役 = slavery, 束縛
     ^ bonnet (n)圓帽
     ^ boob (n)乳房, 愚蠢之人 = boor, 愚蠢的錯誤 (v)犯愚蠢的錯誤 = blunder
-    ^ boom (n)低沉有回響的聲音, 繁榮/迅速發展 = prosperity (v)發出低沉有力的聲音/轟鳴, 增長/迅速發展 = prosper = thrive = bloom
     ^ boost (v)往上推 = lift (n/v)增加/提高/改善
     ^ bootless (adj)無用的/無益的 = useless
     ^ botany (n)植物學 <|> litany --> botancial (adj)植物學的 
@@ -407,6 +407,7 @@
     + /kəˈdʒəʊl/ cajole (v)(以甜言蜜語)哄騙/誘騙 = coax = wheedle = inveigle = blandish
     + callow (adj)(尤指年輕人)不成熟的/缺乏經驗的 = immature = inexperienced
     + /ˈkaləs/ callus (n)(手腳上的)老繭 --> /ˈkaləs/ callous (adj)結硬塊的, 無情的/漠不關心的 = insensitive = indifferent = unsympathetic, 無感覺的 = unfeeling = insensitive
+    + caliber (n)水準/程度, 口徑, 直徑
     +++ /ˈkaləmni/ calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = besmirch = denigrate = defame = depreciate = derogate = malign = slander = vilify  <|> clumsy
     + /kəˈnɑrd/ canard (n)虛假新聞/謊報/假消息
     ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily <|> uncanny
@@ -414,6 +415,7 @@
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious = sensitive <-- contention + rancorous
     + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = impulsive = unpredictable = skittish = whimsical = wayward
+    + case (n)具體情況/實例, 案件, 案例/病例, 訴訟案/案件, 論點/論據, [文]格, 箱/盒, 殼, 行李箱, 大小寫 (v)把……裝入箱中, 盜竊前的事先察看
     ++ /ˈkaʒjʊəl/ casual (adj)偶然的/不經意的 = fortuitous, 休閒的/便裝的 = offhand, 不在意的/無動於衷的 = apathetic = unconcerned = insouciant = indifferent, 不定期的/臨時的 = irregular = occasional <-- case
     + /ˈkɔzəl/ causal (adj)原因的/因果關係的 <|> casual --> causality (n)因果關係 <-- cause
     ++ categorical (adj)明確的 = explicit = absolute <-- category
@@ -521,7 +523,7 @@
     * cower (v)退縮/畏縮 = quail
     * cozy, cosy (adj)舒適的/愜意的 = snug
     *** crafty (adj)狡猾的/詭計多端的 = machiavellian = cunning = subtle = sly = deceitful = artful = wily
-    * carve (v)雕刻, 把...切成小片 <|> crave <|> craven
+    * carve (v)雕刻, 把...切成小片, [out]獲取/創造 <|> crave <|> craven
     ** crave (v)渴望/熱望 = long for = desire eagerly, 懇求 = beg for = entreat = plead = solicit = beseech = implore, 需要 = require = need --> craving (n)強烈的願望/渴望 = desire <|> craven
     ** crab (v)抱怨/發脾氣 = fret = complain = grouse (n)螃蟹 --> crabbed (adj)暴躁的/易怒的 = cantankerous = irritable = irascible 
     * crevice (n)(岩石表面的)裂縫/裂隙, 皺紋/身體上的皺痕 <|> novice
@@ -864,7 +866,7 @@
     + failing (n)過錯 = failure, 缺點/弱點 = defect = fault = shortcoming = weakness
     +++ failure (n)失敗, 失誤, 不足 = insufficiency, 衰弱 = decay = deterioration = decadence
     + fake (v)偽造 = forge = counterfeit = fabricate, 假裝 = pretent (adj)假的 = spurious = bogus
-    + /ˈfaləsi/ fallacy (n)謬誤/謬論 --> /fəˈleɪʃəs/ fallacious (adj)謬誤的/錯誤的 = erroneous, 騙人的/欺騙的 = misleading = fraudulent = deceptive
+    + /ˈfaləsi/ fallacy (n)謬誤/謬論 = sophistry --> /fəˈleɪʃəs/ fallacious (adj)謬誤的/錯誤的 = erroneous, 騙人的/欺騙的 = misleading = fraudulent = deceptive
     + fallible (adj)容易犯錯的 = liable to err --> fallibility (n)容易出錯/出錯性
     + /ˈfaləʊ/ fallow (adj)休耕的 = uncultivated, 不活躍的/不活動的 = inactive (n)休耕地 <|> callow <|> /ˈfɒləʊ/ follow 
     +++ false (adj)錯誤的 = erroneous = fallacious, 偽造的 = counterfeit, 騙人的 = deceptive, 不忠的 = treacherous --> falsify (v)竄改/偽造/曲解 = garble

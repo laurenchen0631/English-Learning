@@ -5,6 +5,8 @@
 			+ abbreviate
 			+ aberrant
 			- abhor --> abhorrent
+			+ abroad (adv)在國外, 廣範圍地, 廣為流傳地, 任意走動地 (n)國外
+			+ aboard (adv)在船或飛機或車上, 在馬上
 			++ abject 
 			+ abstract
 			+ accede
@@ -467,7 +469,7 @@
 		+ benefactor (n)行善者/捐助者 = donor
 		+ beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane, 有益的 = beneficial
 		- benefice (n)有俸聖職, 僧侶之祿/聖俸
-		+ beneficial (adj)有益的/有用的 = helpful = useful = beneficent
+		+ beneficial (adj)有益的/有用的 = salutary = helpful = useful = beneficent
 		- beneficiary (n)受益人
 		+ benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
 		+ /bɪˈnʌɪn/ benign (adj)慈祥的 = gracious = benevolent, 氣候溫和的, 良性的/吉利的 = favorable = propitious = auspicious <--> malignant
@@ -915,7 +917,9 @@
 		- collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
-		- accommodate (v)使適應 = adjust = adapt, 提供住宿/提供/借錢 --> accommodating (adj)樂於助人的 = benevolent
+		- accommodate (v)[to]使適應 = adjust = adapt, 提供住宿
+		- accommodation (n)住處/膳宿, 可用空間, 提供住宿, 調和/和解, 適應/調節
+		- accommodating (adj)樂於助人的 = benevolent
 		+ commodity (n)日用品, 商品 = ware
 		- commodious (adj)寬敞的
 
@@ -1139,6 +1143,7 @@
 		* disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
 	
 	chival, cheval, caval 馬 = horse
+		- cavalry (n)騎兵, 裝甲兵, 最後手段
 		++ /ˌkavəˈlɪə/ cavalier (n)護花使者, 保王黨支持者, 查理斯王騎士犬 = Cavalier King Charles (adj)漫不經心的 = offhand
 		- /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
 		+ /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
@@ -2500,6 +2505,7 @@
 		* aggravate (v)加重/惡化 = exacerbate
 		++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn (n)墓穴, 死亡
 		- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
+		- gravitas (n)莊嚴的舉止/莊重
 		- gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
 		- gravitation (n)引力/吸引 --> gravitational (adj)引力的/重力的
 		* grieve (v)使悲傷/使苦惱 --> grievance (n)不滿, 抱怨
@@ -2617,7 +2623,7 @@
 		- germicide
 		- germule, gemmule (n)小胚芽
 		+ germane (adj)有密切關係的 = relevant, 貼切的/適當的 = appropriate
-		- germinate (v)發芽, 形成/產生
+		* germinate (v)發芽, 形成/產生
 		- germinal (adj)幼芽的, 原始的/未成熟的
 
 	gest 帶來/帶著 = carry, bear == fer
@@ -2700,7 +2706,7 @@
 		- adherent (n)擁護者/信徒 = devotee = disciple
 		- /ədˈhiːsɪv/ adhesive (adj)黏性的 = viscous = viscid (n)黏著劑
 		- coherent (adj)有條理的/連貫的, 形成一體的
-		+ cohesion (n)內聚力/凝聚力/團結 --> cohesive (adj)有凝聚力的/團結的
+		+ cohesion (n)內聚力/凝聚力/團結 --> cohesive (adj)有凝聚力的/團結的 --> cohesiveness (n)聚合性/整體性
 
 	here, heir, herit 繼承
 		* /ɛː/ heir (n)繼承人
@@ -2966,7 +2972,7 @@
 			- intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
 			+ invalidate (v)使無效 = nullify
 			*** invariably (adv)不變地/總是 = always 
-			- invertebrate (adj)無脊椎的 (n)無脊椎動物 = in + vertebrate 
+			- invertebrate (adj)無脊椎的 = spineless (n)無脊椎動物 = in + vertebrate 
 			+ invidious
 			+ inviolate (adj)未被侵犯的/未被褻瀆的 <-- in + violate
 			- inviolable (adj)不可褻瀆的/不可侵犯的 <-- in + viol(ate) + able
@@ -3255,7 +3261,7 @@
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
-		- objective (adj)客觀的, 受格的 (n)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
+		++ objective (adj)客觀的, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -5807,7 +5813,7 @@
 		- superstition (n)迷信
 
 	struct 建立 = erect
-		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念
+		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念 <|> constitute
 		- destruction (n)毀滅/消滅, 毀滅的原因
 		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
@@ -5842,7 +5848,7 @@
 		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
 		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
-		+ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
+		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
@@ -5863,6 +5869,7 @@
 		1. 散開 = scatter, sprinkle
 			+ asperse (v)誹謗 --> aspersion (n)誹謗 = calumny = slander
 			* disperse (v)使分散/散佈 = intersperse = disseminate = scatter = squander = diffuse, 分開, 消散/消失, 使色散
+			- /dɪˈspəːsəl/ dispersal (n)散布/傳播, 分散, 分賣
 			- intersperse (v)散佈 = scatter
 
 		2. 希望 = hope
@@ -6013,7 +6020,8 @@
 		+ dissident (n)持不同政見者 (adj)不贊成的 = disagreeing
 		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
 		+ /əbˈsɛs/ obsess (v)迷住 = preoccupy = haunt, 煩擾 <|> /ə(ʊ)ˈbiːs/ obese
-		- preside (v)主持/擔任主席, [over]負責, [at]主奏 --> president (n)總統, 校長, 長官
+		- obsession (n)著迷 = fixation, 揮之不去的念頭 
+		- preside (v)主持/擔任主席, [over]負責, [at]主奏 --> president (n)總統, 校長, 長官 --> presidency (n)總統職位, 總統任期
 		+ /rɪˈzʌɪd/ reside (v)住/居住, 座落/位在, (權力)屬於/歸於, (特質)存在 --> resident (n)居民, 留鳥, 住院醫生 (adj)定居的/常駐的
 		- residential (adj)居住的, 提供住宿的, 充滿住宅的
 		- /ˈrɛzɪdjuː/ residue (n)剩餘物  <-- reside
@@ -6035,7 +6043,7 @@
 		- associate (v)連結 = connect, [be associated with]與..有牽連, 來往/交往 (n)合夥人/夥伴/同事 = partner = companion, 準會員, 關聯 (adj)聯合的, 副的
 		- association (n)聯盟/協會 = syndicate, 聯合 = connection, 關聯
 		- dissociate (v)使分離
-		* society (n)社會, 社團/協會 = rganization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
+		* society (n)社會, 社團/協會 = organization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
 		- sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
 
 	sorc 詛咒/巫術 = oath
@@ -6044,7 +6052,7 @@
 		- /ˈsɔːs(ə)rə/ sorcerer (n)巫師
 
 	suage 甜 = pleasant, sweet
-		+ /əˈsweɪdʒ/ assuage (v)減輕/緩和 = alleviate = allay, 滿足 = satisfy = indulge = gratify
+		+ /əˈsweɪdʒ/ assuage (v)減輕/緩和 = alleviate = allay, 滿足 = satisfy = sate = indulge = gratify
 		- /swɑːv/ suave (adj)溫文爾雅的 = debonair
 
 	suade 建議/力勸 = urge, recommend
@@ -6052,7 +6060,7 @@
 		- persuade (v)說服 = induce, 使相信 = convice
 
 	sume, sumpt 拿/取 = take
-		+ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
+		++ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
 		- assuming (conj)[that]假使 = granted
 		+ assumption (n)設想, 奪取/取得(權力)
 		- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
@@ -6065,7 +6073,7 @@
 		- /ˈsʌm(p)tjʊəs/ sumptuous (adj)豪華的/奢侈的
 
 	sure 肯定
-		- assure (v)使確信, [oneself]確認 = make sur of, 確保, 保障
+		- assure (v)使確信, [oneself]確認 = make sure of, 確保, 保障
 		- reassure (v)使安心/使消除疑慮
 
 	string, strain, strict 拉緊 = draw tight, draw togerher
@@ -6078,7 +6086,7 @@
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
 		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
 		* restrict (v)限制/控制, 監禁 = restrain --> restriction (n)限制規定, 限制/控制 = control = stricture
-		*** strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
+		+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
 		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
 		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙 <|> spring -> sprang -> sprung
@@ -6135,7 +6143,7 @@
 		* conserve (v)保存/保留/保護, 醃漬 (n)糖漬食品/蜜餞/果醬 = preserve
 		- conservatory (n)溫室, 音樂學院/藝術學院 = conservatoire
 		+ conservative (adj)保守的, 保守黨的, 保守估計的, 防腐的 (n)保守者/守舊者, 保守黨員/保守黨派
-		++ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力 評論/意見 = remark = review
+		++ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力, 評論/意見 = remark = review
 		- observatory (n)天文台/氣象臺/觀察站
 		+ preserve (v)保存/維護/維持 = maintain = retain, 醃/防腐 (n)糖漬食品/蜜餞/果醬, 保護區/禁獵區 = sanctuary --> preservative (adj)防腐的 (n)防腐劑
 		* reserve (v)保存/保留, 預約/預訂, 延遲作出(判決) (n)儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = reserve price
@@ -6204,7 +6212,7 @@
 		++ stingy (adj)吝嗇的 = mean = parsimonious = miserly = penurious --> stinginess (n)小氣/吝嗇
 		*** stir (v)攪拌, (使)微動, 醒來/起來, [from/out of]離開 = leave = go out, 開始採取行動, 激起(情緒), 喚醒/喚起(記憶) (n)微動, 騷動/示威行動 = commotion, 攪拌
 
-	sati, satur 滿足 = enough, full
+	sati, satur 滿 = enough, full == ple
 		- insatiable (adj)不能滿足的
 		- sate (v)使充分滿足 = satisfy = gratify = assuage <-- satiate
 		++ /ˈseɪʃɪeɪt/ satiate (v)使充分滿足 = sate --> satiate (adj) --> satiable (adj)可滿足的
@@ -6212,65 +6220,65 @@
 		- satisfaction (n)滿意/滿足, 償還債務, [宗]苦行贖罪 --> satisfactory (adj)令人滿意的
 		+ saturate (v)浸透 = imbue, 使飽和, [軍]對……進行飽和轟炸 (n)飽和脂肪 =  saturated fat (adj)浸透的
 
-	somn 睡眠 = sleep
+	somno, somn 睡眠 = sleep
 		- insomnia (mn)失眠症
 		- somniferous (adj)催眠的/使睏倦的 = soporific
 		- somnolent (adj)想睡的, 令人想睡的, 嗜睡的 --> somnolence (n)嗜睡症
 	
 	somato, somat 身體 = body
-		- soma (n)體細胞, 肉體/軀體, 
+		- soma (n)體細胞, 肉體/軀體
 		+ somatic (adj)身體的/軀體的/肉體的 = corporeal, 體細胞的
 		- somatoplasm
 
 	surge, surrect 升起 = rise
-		- /səːdʒ/ surge (n/v)激增, 浪湧 (n)高漲, 增兵, 澎湃 (v)蜂擁而至, 洶湧/澎湃
-		* insurgent (adj)叛亂的 = rebellious (n)叛亂份子 <-- in + surge + ent
+		- /səːdʒ/ surge (n/v)激增, 浪湧, 高漲 (n)增兵 (v)蜂擁
+		* insurgent (adj)叛亂的 = rebellious (n)叛亂份子 = rebel <-- in + surge + ent
 		+ insurrection (n)造反/叛亂 = rebellion = revolt <-- insurgent
-		+ resurge (v)復活/復甦 --> resurgence (n)再起/復活/再現 --> resurgent (adj)復活的/復甦的 (n)復活者
-		- resurrect (v)使復活/使復甦/復興 <-- resurge
-		- resurrection (n)復活/復甦
+		+ resurge (n/v)復活/復甦 --> resurgence (n)再起/復活/再現 --> resurgent (adj)復活的/復甦的
+		- resurrect (v)使復活/使復甦/復興 = resuscitate = resurge <-- resurge
+		- resurrection (n)復活/復甦 --> Resurrection (n)耶穌復活, 最後審判日全體死者的復活
 
 	scope 視野/範圍 = look, view
 		- kaleidoscope
 		- kinescope
+		- stethoscope
 
 	sacchar 糖 = sugar
-		- saccharin (n)糖精
-		- saccharine (n)糖精 (adj)糖質的/十分甜蜜的, 故作多情的
-		- saccharize (v)使糖化
+		- /ˈsakərɪn/ saccharin (n)糖精
+		- /ˈsakərʌɪn/ saccharine (n)糖精 = saccharin (adj)含糖的, 過分甜蜜的/多愁善感的 = sentimental
 
 	salubr, salut 健康 = health
-		+ salubrious (adj)有益健康的 = healthful = salutary
-		+ /ˈsaljʊt(ə)ri/ salutary (adj)有益的/有益健康的 = salubrious = wholesome
+		+ /səˈluːbrɪəs/ salubrious (adj)有益健康的 = healthful = salutary, 宜人的 = pleasant = hospitable
+		+ /ˈsaljʊt(ə)ri/ salutary (adj)有益的 = beneficial
 
 	sap, sav 聰明 = wise
-		- sapient (adj)有智慧的
-		+ savant (n)學者/專家 <-- sapient
-		+ savvy (n)精明 = shrewdness (adj)精明的, 通曉的 (v)知道 = know = understand
+		- /ˈseɪpɪənt/ sapient (adj)有智慧的, 人類的 (n)人類 = Homo sapiens
+		+ savant (n)學者/專家
+		- ˈseɪvjər/savior (n)救星, 救世主
+		+ /ˈsavi/ savvy (n)精明 = shrewdness (adj)精明的 = shrewd, 通曉的 (v)知道 = know = understand
 
 	seismo, seism 地震 = earthquake
-		+ /ˈsʌɪzmɪk/ seismic (adj)地震的 <|> /sʌɪz/ size
+		+ /ˈsʌɪzmɪk/ seismic (adj)地震的, 造成嚴重影響的 <|> /sʌɪz/ size
 		- seismograph (n)地震儀
 		- seismology (n)地震學
 
 	serr 鋸子 = saw
-		- serrate, serrated (adj)鋸齒狀的/有鋸齒的
+		- serrate, serrated (adj)鋸齒狀的/有鋸齒的 = sawlike
 		- serration (n)鋸齒狀/鋸齒
-		- serried (adj)密集的/林立的
+		- serried (adj)密集的/密集排列的
 
 	soph 智慧 = wisdom
-		- philosophy (n)哲學
-		- sophism (n)詭辯/詭辨法
-		- sophistry (n)詭辯 
-		* sophisticate (v)使懂世故, 使複雜, 擅自更改 (n)久經世故的人
-		++ sophistication (n)老於世故, 有教養, 複雜/精密, 竄改, 詭辯/強詞奪理 = sophism
-		++ sophisticated (adj)老於世故的, 精密的/複雜的, 富有經驗的/精通的
+		- philosophy (n)哲學, 理論/態度/準則 = theory = attitude
+		- sophism (n)詭辯
+		- sophistry (n)詭辯/謬論 = fallacy
+		* /səˈfɪstɪkeɪt/ sophisticate (v)使懂世故/使複雜, 詭辯 (n)久經世故的人
+		++ sophistication (n)老於世故, 複雜/精密
+		++ sophisticated (adj)老於世故的, 很有品味的, 精密的/複雜的 = complex, 敏銳的/有洞察力的 = subtle
 
 	spine 棘刺 = thorn
-		- spine (n)脊椎, 刺/針, 骨氣/勇氣
-		- spineless (adj)沒骨氣的/懦弱的
-		- spiny (adj)針狀的, 多刺的, 棘手的
-		- spinule (n)小刺
+		- spine (n)脊椎 = backbone, 核心, 骨氣/勇氣, 書脊, 刺/針, 骨氣/勇氣
+		- spineless (adj)無脊椎的 = invertebrate, 沒骨氣的/懦弱的 = purposeless = irresolute, 無刺或針的
+		- spiny (adj)多刺的 = spinous, 棘手的
 		- spinous (adj)刺狀的/多刺的 = spiny
 
 	stetho 胸 = chest
@@ -6281,18 +6289,18 @@
 	trans, tra, tres
 		1. 穿過 = across, through
 			- trajectory
-			- trance (n)催眠狀態, 恍惚/出神 (v)使昏睡
+			- trance (n)昏睡狀態/催眠狀態, 恍惚/出神 = abstraction, 迷幻音樂 (v)使昏睡
 			+ transcend --> transcendent
 			- transcendental
 			+ transgress --> transgression
 			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting  (n)短期工/短暫居住者, 瞬變電流
-			- transience (n)短暫 <-- trans + i(t) + ent
-			- transit (v)運輸/運送, 通過/經過/過渡/變遷 --> transition (n)過渡時期/轉變
-			+ transitory (adj)短暫的 = transient = ephemeral = fleeting <-- transit
+			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
+			- transit (n)運輸/運送 (v)通過/經過 --> transition (n)過渡時期/轉變 (V))經歷/轉變 <|> transmit
+			+ transitory (adj)短暫的 = transient = ephemeral = fleeting --> transitoriness (n)短暫 <-- transit
 			+ translucent
 			- transmit
-			+ transparent (adj)透明的/直率的 <-- trans + par 出現 = present + ent
-			- transport (v)運輸 (n)狂喜
+			+ transparent (adj)透明的, 顯而易見的, 開放參觀的 <-- trans + par 出現 = present + ent
+			- transport (n/v)運輸, 流放/放逐, 壓倒(喜悅) = overwhelm (n)大型交通工具
 			- traverse (v)橫穿過/橫跨
 			+ travesty
 			- trespass (v)侵入/侵犯
@@ -6328,6 +6336,7 @@
 	tract, ten, tent, trait
 		1. 拉 = draw, drag, pull
 			+ abstract (n)摘要 (adj)抽象的
+			- abstraction (n)抽象, 抽象概念, 抽象藝術, 抽象派藝術作品, 出神/心不在焉 = trance, 提取/除去
 			- abstention
 			- attract (v)吸引/招引 --> attractive (adj)有魅力的/誘人的/動人的 = comely, 有吸引力的/令人感興趣的
 			+ intractable
@@ -6988,7 +6997,7 @@
 
 	vir
 		1. 人 = man
-			+ virtue (n)美德/高尚品德, 優點/好處 --> by virtue of 因為/由於 = beacuse of
+			+ virtue (mn)美德/高尚品德 (n)優點/好處--> by virtue of 因為/由於 = beacuse of
 			- virtual (adj)實質上的/實際上的, 虛擬的
 			+ virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 			- virtuous (adj)有美德的/有道德的/善良的

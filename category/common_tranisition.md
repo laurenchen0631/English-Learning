@@ -133,6 +133,8 @@
 	- She treats him as if he were a stranger. 
 	- I felt as though I'd been lying in the sun for hours.
 	- They stared at me as if I was crazy.
+- in all probability 很可能
+	- In all probability, he will go home tomorrow.
 
 ## Emphasis 強調
 - in fact 事實上/實際上 
@@ -312,9 +314,11 @@
 	- Don't do it just because you can.
 	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
 	- A most unusual astronomer inasmuch as he was deaf mute
-+ on account of == due to == by reason of == because of == for the reason that 因為/歸因
++ on account of == by/in virtue of == due to == by reason of == because of == for the reason that 因為/歸因
 	- On account of holiday our store will be closed tomorrow.
 	- We delayed our departure on account of the bad weather.
+	- they achieved pre-eminence by virtue of superior military strength
+	- in virtue of his position he was impartial
 	- he had to withdraw due to a knee injury
 	- his death was not due to any lack of care
 	- He was found not guilty by reason of insanity.

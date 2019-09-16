@@ -81,6 +81,9 @@
 - be off 離開 == go away; leave
 	- I must be off if I want to make the next bus.
 	- And the runners are off.
+- well into 離..有一段時間了 == far into something or far along in something.
+	- Until well into this century, the mentally ill were often targets of suspicion and even hostility.
+	- It was well into the morning before she awoke. The car was well into the tunnel when it broke down.
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
@@ -97,6 +100,10 @@
 	- this grisly ending is anything but sentimental
 	- I will be anything but quiet on Saturday night.
 	- The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
+- what/how/why/.. in the world 究竟/到底 == used to emphasize your surprise when asking a question
+	- What in the world are you doing in the cupboard?
+	- Who in the world could do such a thing?
+	- In another moment down went Alice after it, never once considering how in the world she was to get out again
 
 ## Compare/Difference
 - as opposed to 而不是 == not something else, used to compare two things.
@@ -150,9 +157,11 @@
 - have one's origin (in sth) 出現/被發明/被製造
 	- The silk industry had its origin in China.
 	- The school had its origin with a large gift from a donor.
-- (be) at large 逍遙法外/尚未捉拿歸案
-	- The man who tries to have her killed is still in large.
-	- Twelve prisoners are at large following a series of escapes.
+- exert influence over/on 發揮影響力於
+	- the investment bankers began to exert influence over the railroads' internal affairs
+- with abandon 任意 == an action done without concern or an action done carelessly/flippantly.
+	- The drunk girl threw off her clothes with abandon, as the alcohol had lowered her inhibitions.
+	- For punctuation she used dashes "with such abandon" that her manuscripts have constantly frustrated their editors.
 
 ## Danger
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
@@ -166,16 +175,42 @@
 - bang for the buck 值回票價 == value in return for your money
 	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
 
+## Plan/Mind
+- well thought out 精心計劃的/經縝密思考的 == planned in an effective way
+	- The training schedule was not very well thought out.
+	-  a well-thought-out system for traffic control
+- with sth in mind 對..有所計畫 == to have a plan or intention
+	- Did you have anything in mind for Helen`s present?
+
+## Job/Task
++ walk of life 各行各業/各個社會階層
+	- Members of the gym include lawyers, teachers, plumbers, and hairdressers - people from all (different) walks of life.
+- work one's ass off 拼命做 == to work very hard
+	- I worked my ass off for that man.
+
 ## Bad
 - goof off 偷懶 == to avoid doing any work
 	- The teacher told them to stop goofing off and get back to work.
 - (go) down the drain [口]]浪費/白費 == be spoiled or wasted
 	- If the factory closes, that will be a million dollars' worth of investment down the drain.
+- (be) at large 逍遙法外/尚未捉拿歸案
+	- The man who tries to have her killed is still in large.
+	- Twelve prisoners are at large following a series of escapes.
+- (the) writing is on the wall 有著不詳的徵兆 == said to mean that there are clear signs that something will fail or no longer exist
+	- Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”
 
 ## Pejorative
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 
+## Approbation
+- well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of
+	- He was efficient at his job and well thought of by everyone.
+	- It is a well-thought-of school.
+
 ## Number
 - all short of 未達 == to fail to reach an amount or standard that was expected or hoped for
 	- Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
++ well over 超過/多於 == much more than 
+	- it takes a human infant well over a year to learn how to walk.
+	- Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.

@@ -55,10 +55,12 @@
 	- sandbar (n)沙洲
 	- point bar (n)河曲沙洲
 	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
+	* /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
 	- playa
 		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
 		> |player|
 	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
+	- strait (n)海峽, 困境/危難 (adj)嚴峻的
 	- dune /djuːn/ 沙丘 == A mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert.
 	- timberline == treeline (n)樹帶界線
 	- ridge (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
@@ -75,6 +77,7 @@
 	- wadis 乾谷，指北非和阿拉伯沙漠地區乾涸的沙礫河床，地下水的水平不在地面，時有水時無水，時為商旅的交通道路
 	- isle /ʌɪl/ (n)小島
 	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
+	- landlocked (adj)為陸地所包圍的, 內陸的, 內陸水域的(魚)
 	
 [Weather]
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
@@ -118,6 +121,8 @@
 	+ runoff (n)決賽/決選投票, 地表逕流(雨水或是冰雪融化後的水流經地表產生的水流，因土壤無法吸收水份而形成)
 	- landslide (n)山崩/滑坡, 選舉的壓倒性大勝利
 	- leach (v)(土壤)漂洗/過濾
+	- brine (n)濃鹽水, 海水, 鹵水 (v)用濃鹽水浸泡
+	- faulting (n)斷層化
 
 [Ore]
 	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
@@ -149,6 +154,8 @@
 	- cobble (n)鵝卵石
 	- bedrock (n)基岩, 基礎
 	- limestone (n)石灰岩
+	- granule (n)細粒
+	- gypsum (n)石膏
 
 [Ocean]
 	- the Pacific Ocean

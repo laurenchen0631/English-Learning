@@ -136,6 +136,7 @@
 	- storefront (n)臨街店面/臨街店舖
 	- arcade (n)拱廊/拱廊通道, 拱廊商業街
 	- ready-made (adj)預先製成的/現成的 (n)現成品
+	- administrative reorganization 行政重組
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -146,7 +147,10 @@
 	- fiduciary duty 信託義務
 	- Series A financing/funding A輪融資
 	- venture capital 創業投資 == VC
-	- mortgage 抵押貸款 == A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor`s property, with the condition that the conveyance of title becomes void upon the payment of the debt.
+	- mortgage
+		> 抵押 |A legal agreement by which a bank, building society, etc. lends money at interest in exchange for taking title of the debtor`s property, with the condition that the conveyance of title becomes void upon the payment of the debt.|
+		> |Convey (a property) to a creditor as security on a loan.| the estate was mortgaged up to the hilt
+		> 抵押借款 |The amount of money borrowed in a mortgage.|
 	- real estate 房地產
 	- real estate investment trusts 不動產投資信託
 	- hedge fund 避險基金，又稱對沖基金或套利基金
@@ -472,6 +476,8 @@
 		> 箭尾端搭弦處 |A notch at the butt end of an arrow for receiving the bowstring.|
 		> 搭上弦 |Fit (an arrow) to the bowstring ready for shooting.| I was shaking and had trouble getting the arrow nocked
 	- bowstring 弓弦
+	- garrison (n)衛戍部隊/警衛部隊, 駐防地 (v)駐防
+	- chariot /ˈtʃarɪət/ (n)雙輪戰車, 十八世紀的四輪禮車 (v)駕馭戰車
 
 [Transportation/Vehicle]
 	- captain 機長
@@ -548,7 +554,7 @@
 	- outrigger (n)舷外浮材（裝在舷外以防翻船的樑架，帆桅或其他裝置）
 	- canoe /kəˈnuː/ (n)獨木舟 (v)划獨木舟
 	- grounding (n)擱淺, 基礎教學
-
+	- rights-of-way (n)路權
 
 [Agriculture/Farming]
 	+ farm
@@ -597,7 +603,10 @@
 		> 玩笑 |Light-hearted joking; banter.| we used to come in for a fair amount of ribbing and good-natured chaff
 		> 戲弄 |Tease.| the pleasures of drinking and betting and chaffing your mates
 	- bundlers (n)紮捆機
-	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+	- grain elevator (n)穀倉塔，一種用於儲存穀物的農業設施
+	- gristmill (n)磨坊
+	- grist (n)磨粉用穀物, 釀造用的碎麥芽, 有利的東西
+	* mill (n)磨坊, 磨臼/磨粉機, 製造廠/工廠, [非]引擎, 拳賽, 密爾/釐(等於0.001美元，只用於統計中) (v)磨粉, 打磨, 在(錢幣)上壓印花邊, [about]成群地亂轉, 
 	- meatpacking == The business of preparing and packing meat for transportation and sale.
 	- irrigate (n)灌溉 == Supply water to (land or crops) to help growth, typically by means of channels.
 	- slash-and-burn (n)刀耕火種法
@@ -1017,6 +1026,7 @@
 		> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
 		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 	- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
+	- epistle (n)書信, 使徒書信
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
