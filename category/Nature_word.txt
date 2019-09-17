@@ -1,4 +1,6 @@
 [General]
+	+ species (n)物種, 種/類 = sort = kind
+	- /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
 	- trimester == A period of three months, especially as a division of the duration of pregnancy.
 	- spawn
 		> |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
@@ -51,7 +53,7 @@
 	- elk (n)駝鹿/麋鹿/美洲赤鹿 
 	* mule /mjuːl/ (n)騾子, 固執的人
 	- walrus (n)海象
-	- hippopotamus (n)河馬
+	- hippopotamus /ˌhɪpəˈpɒtəməs/ == hippos (n)河馬
 	- guinea pig (n)豚鼠/天竺鼠/葵鼠(Guinea 幾內亞)
 	- cub (n)幼獸 (v)生, 獵捕
 	- monarch /ˈmɒnək/ (n)帝王/君主, 帝王蝶, 王鶲
@@ -100,12 +102,8 @@
 	- Homo sapiens (n)人
 	- cheetah /ˈtʃiːtə/ (n)獵豹 <--> cheater /ˈtʃiːtə/ 
 	- mink (n)鼬鼠
-	- sheep
-		> 綿羊 |A domesticated ruminant mammal with a thick woolly coat and (typically only in the male) curving horns. It is kept in flocks for its wool or meat, and is proverbial for its tendency to follow others in the flock.|
-		> 羊 |A wild mammal related to this, such as the argali, bighorn, bharal, and urial.|
-		> 懦怯之人 |Used with reference to people who are too easily influenced or led.| party members should not follow their leader like sheep
-		> 信徒 |A person regarded as a protected follower of God.|
-		> 教區居民 |A member of a minister's congregation.| Wouldn't it be wonderful if you, as the shepherd of your  class, could develop a whole team of shepherds to reach out to many of the drifting sheep in your congregation?
+	- sheep (n)綿羊, 羊, 懦怯之人, 信徒, 教區居民
+	- lesser spear-nosed bat 小鼻長矛蝙蝠
 
 [Insect]
 	- moth (n)蛾
@@ -227,7 +225,8 @@
 [Plant]
 	- cyanobacteria /ˌsʌɪənəʊbakˈtɪərɪə/ (n)藍菌門/藍綠藻(是一類能透過光合作用獲取能量的細菌，但有些也能透過異營來獲取能量)
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)
-	- pennycress 菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
+	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
+	- greenery (n)綠色植物 == Green foliage, growing plants, or vegetation.
 	- hemlock (n)毒芹, 鐵杉
 	- cycad /ˈsʌɪkad/ (n)蘇鐵
 	- lily -> lilies (n)百合

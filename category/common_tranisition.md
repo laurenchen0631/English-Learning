@@ -46,8 +46,9 @@
 	- They are coming in, in ever increasing numbers, and what is more, outspent visitors from every other part of the globe in 1999.
 	- And what is more, many even carry animal motifs and animal-friendly messages.
 	- And more than that, I think you have imagined a good arguer, an arguer that is worthy of the kind of arguer you should try to be. 
-- even more (than sth) 除..之外
+- even more (than sth) 除..之外 == on top of sth 除..之外
 	- Even more than my face, my license plate is being recorded.
+	- We missed our flight, and on top of that we had to wait seven hours for the next one.
 - and another thing 此外
 	- And another thing, why did not you tell me you were going out?
 - otherwise 除此之外
@@ -111,6 +112,12 @@
 	- John is the best student in his class. In other words, he is better than any other student in his class. 
 	- You are still very young, Tom. To put it another way, you do not have any idea about what you are getting into. 
 	- Plants rely on photosynthesis. To put it another way, they will die without the sun
++ in a/one sense 在某種意義上
+	- in a sense, behaviour cannot develop independently of the environment
+	- In one sense, however, Brazil's new status signified the substitution of one dependence for another.
++ in effect 大抵上(就像)
+	- What I need to do, in effect, is stop seeing my life as a canvas to fill, and start seeing it more as a block of marble to chip away at and shape something out of.
+	- Indeed, the transfer of the court in effect signified achievement of Brazilian independence.
 - put simply == in brief == in a few words == in short 簡而言之
 	- Put simply, it was an offer we couldn’t refuse.
 	- he is, in brief, the embodiment of evil

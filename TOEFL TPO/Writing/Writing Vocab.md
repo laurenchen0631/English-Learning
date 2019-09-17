@@ -68,7 +68,7 @@
 - friend 朋友 == partner == intimate == companion == ally == buddy
 - beneficial 有益的 == favorable == advantageous == good
 - possible 可能的  == accessible == achievable == feasible == imaginable == potential == probable == accessible
-- impossible 不可能的 == hopeless == impractical == inaccessible == unattainable == unreasonable
+- impossible 不可能的 == impractical == inaccessible == unattainable == unreasonable == hopeless 
 - care 關心 == pay attention to == cherish
 - smart 聰明的 == intelligent == brilliant == creative == perceptive == resourceful 
 - trust 相信/信任 == confidence == faith == belief == credence

@@ -28,14 +28,17 @@
 	- brownfield 棕色地帶的（指城鎮中原為工業用地現準備重新開發的地區）
 
 [Landscape]
-	- glacier /ˈɡleɪsɪə/ == A slowly moving mass or river of ice formed by the accumulation and compaction of snow
-	- geyser /ˈɡʌɪzə/ == A hot spring in which water intermittently boils, sending a tall column of water
+	- glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
+	- crevasse /krɪˈvas/ (n)冰河裂縫
+	- basal slip (n)基底滑動
+	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
 	- hot springs
-	- steppe 大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
-	- permafrost 永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
+	- steppe (n)大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
+	- permafrost (n)永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
 	- savanna /səˈvanə/ (n)熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- prairie /ˈprɛːri/ (n)大草原
 	- meadow (n)草地
+	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
 	- temperate zone 溫帶
 	- tropic 熱帶
 	- tundra /ˈtʌndrə/ 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
@@ -81,6 +84,7 @@
 	
 [Weather]
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
+	- monsoon /mɒnˈsuːn/ (n)季風
 	- cyclone 氣旋 --> cyclonic 氣旋的
 	- condensation
 		> 冷凝 |Water which collects as droplets on a cold surface when humid air is in contact with it.|
@@ -123,6 +127,11 @@
 	- leach (v)(土壤)漂洗/過濾
 	- brine (n)濃鹽水, 海水, 鹵水 (v)用濃鹽水浸泡
 	- faulting (n)斷層化
+	- basal slip/sliding /ˈbeɪs(ə)l/ (n)冰川基底滑動
+	- isostatic uplift (n)地殼抬升
+	- isostatic (adj)地殼均衡的
+	- tectonic movement (n)板塊移動
+	- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
 
 [Ore]
 	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
@@ -160,5 +169,7 @@
 [Ocean]
 	- the Pacific Ocean
 	- the Andaman Sea 安達曼海，又名緬甸海，是一個孟加拉灣東南部的水體，
-	- Caspian Sea 裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體
+	- the Caspian Sea 裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體
 	- the Tethys Sea 特提斯洋，又名古地中海，是個中生代時期的海洋，位於勞亞大陸與岡瓦納大陸之間
+	- the North Sea (n)北海，是北大西洋的一部分，位於大不列顛島以東，斯堪的納維亞半島西南和歐洲大陸以北
+	- the Bering Strait (n)白令海峽，是太平洋的一個海峽，位於亞洲最東點的迭日涅夫角和美洲最西點的威爾斯王子角之間的海峽

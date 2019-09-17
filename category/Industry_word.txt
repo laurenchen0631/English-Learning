@@ -1035,6 +1035,7 @@
 	- George Gershwin 喬治·蓋希文，是一位美國作曲家
 	- Benny Goodman 班尼·古德曼，美國著名單簧管演奏家，被譽為「搖擺樂之王」
 	- Taylor Swift 泰勒·艾莉森·絲薇芙特，是一名美國創作歌手、音樂製作人、慈善家及演員。作為當今全世界最有影響力的歌手之一
+	- playwright /ˈpleɪrʌɪt/ (n)劇作家
 	- score
 		> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
 		> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
@@ -1518,6 +1519,7 @@
 	- kerosene (n)煤油
 	- smelter (n)精鍊工, 精鍊廠
 	- piston (n)活塞
+	- lubricant /ˈluːbrɪk(ə)nt/ (n)潤滑油/潤滑劑 (adj)潤滑的
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1606,6 +1608,7 @@
 	- DNC == Democratic National Committee 民主黨全國委員會
 	- GOP == Grand Old Party == The Republican Party 共和黨，又稱為大老黨，與民主黨並列為美國當代的兩大主要政黨之一
 	- Congress 美國國會 == the U.S. Congress
+	* parliament (n)國會, 一屆議員
 	- government office 政府機關
 	- National Park Service 美國國家公園管理局
 	- constitution 憲法

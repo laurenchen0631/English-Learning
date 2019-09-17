@@ -394,6 +394,7 @@
 		> 經濟困難 |A period of economic difficulty or depression.|
 		> 破產的 |Bankrupt.|
 		> 無用之物 |A worthless thing.| cynics remain convinced the political process is a bust
+	+ burst -> burst -> burst (v)(使)爆炸/破裂, [bursting with]塞滿/幾乎要脹破, 充滿/心情迫切, 爆出口, 突然打開, 暴衝, 突然做 (n)爆炸/破裂, 爆發/突發, 突然增加/迸發, 一段時期的努力
 	- blast (n)爆炸/爆破, 突擊, 疾風, 鳴響, 猛烈的批評, 狂歡會 (v)炸開, 炸傷, 炸飛, 開火, 吹奏/鳴響, 嚴厲批評, 使枯萎, 破壞
 	- black out 暫時失去知覺，昏厥 == to become unconscious suddenly but for a short period
 	+ blank 
@@ -1455,6 +1456,7 @@
 		> 前一刻/前夕 |The day or period of time immediately before an event or occasion.| on the eve of her departure he gave her a little parcel
 		> 前夜/前夕 |The evening or day before a religious festival.| the service for Passover eve
 		> 傍晚 |Evening.| a bitter winter`s eve
+	+ even /ˈiːv(ə)n/ (adj)平坦的/平滑的, 水平的, 同樣的, 對等的/均等的, 規律的 = regular, 鎮定的/沈著的 = equable, 偶數的 (v)使平整 (adv)甚至
 	+ even (sth) out 公平/使相等 == to become equal, or to make something equal
 		> The league is divided into two skill levels in order to even out the competition.
 	
@@ -1580,6 +1582,8 @@
 	- fill out
 		> 填寫 |to add information such as your name or address in the empty spaces on an official document| It took me several hours to fill out the application form.
 		> 發福 |if someone fills out, their body becomes less thin| Sam’s really filled out, hasn’t he?
+	- filter out 濾除/除去 == to remove things from a group
+		- At the first meeting we filter out all unsuitable candidates.
 	- feed -> fed -> fed
 	- feed off/on sth 因..而增加 == to increase because of something, or to use something to succeed or get advantages
 		> Fascism feeds off poverty.
@@ -1678,7 +1682,41 @@
 		> 以細節或資訊充實 |Add more details to something which only exists in a draft or outline form.| the arguments were fleshed out by the minister
 		> 使肉剝離 |Remove the flesh adhering to (a skin or hide)| chemicals remove the hair and preserving salts, and then the hides are fleshed
 	- flock (n)一群, 軟填料 (v)聚集
-	- fall
+	+ fall -> fell -> fallen
+		- 落下 |Move from a higher to a lower level, typically rapidly and without control.| bombs could be seen falling from the planes
+		- fall off 掉下 |Become detached and drop to the ground.| my sunglasses fell off and broke on the pavement
+		- 垂下 |Hang down.| hair that was allowed to fall to the shoulders
+		- 向下傾斜 |(of land) slope downwards.| the land fell away in a steep bank
+		- fall into (河水)流入 |(of a river) flow or discharge itself into.| this is the stream that falls into Gaping Gill on the moor above
+		- 向下看 |(of someone`s eyes or glance) be directed downwards.| Albert`s eyes fell, and he blushed
+		- (臉)垮下 |(of someone`s face) show dismay or disappointment by appearing to droop.| her face fell as she thought about her life with George
+		- 跌倒 |(of a person) lose one`s balance and collapse.| she fell down at school today
+		- 使跌到地上 |Throw oneself to the ground.| she fell to her knees and began to weep
+		- 倒塌 |(of a tree or structure) collapse to the ground.| after the earthquake, part of the city fell down
+		- 減少/下降 |Decrease in number, amount, intensity, or quality.| imports fell by 12 per cent
+		- (數值)下降 |(of a measuring instrument) show a lower reading.| the barometer had fallen a further ten points
+		- fall away 比的比較差 |(in sport) play less well.| when he faded the whole team fell away
+		- 陷落 |Be captured or defeated.| their mountain strongholds fell to enemy attack
+		- 戰死 |Die in battle.| an English leader who had fallen at the hands of the Danes
+		- 被推翻 |(of a government or leader) lose office or be overthrown.|
+		- 陷入 |Pass into a specified state, situation, or position.| many of the buildings fell into disrepair
+		- 發生 |Occur or take place.| when night fell we crawled back to our lines
+		- fall to doing sth 開始做 |Begin to do something.| he fell to musing about how it had happened
+		- |Be drawn accidentally into.| you must not fall into this common error
+		- 被分類於 |Be classified in the way specified.| canals fall within the Minister`s brief
+		- 落下 |An act of falling or collapsing.| his mother had a fall as she alighted from a train
+		- 落下姿勢 |A controlled act of falling, especially as a stunt or in martial arts.| rolling properly into a fall minimizes hurt
+		- 落差 |A downward difference in height between parts of a surface.| at the corner of the massif this fall is interrupted by other heights of considerable stature
+		- 落下物 |A thing which falls or has fallen.| in October came the first fall of snow
+		- 突然的開始 |A sudden onset or arrival.| the fall of darkness
+		- 瀑布 |A waterfall or cascade.| we camped upriver from the falls
+		- 降音 |A downward turn in a melody.| that strain again, it had a dying fall
+		- 垂下方式 |The way in which something falls or hangs.| the fall of her hair
+		- 花垂 |The parts or petals of a flower which bend downwards, especially the outer perianth segments of an iris.|
+		- 減少 |A decrease in size, number, rate, or level.| a big fall in unemployment
+		- 陷落 |A defeat or downfall.| the fall of the government
+		- 墮落 |A person`s moral decline.|
+		- 秋天 |Autumn|
 	- fall through 未發生/失敗/落空 == to fail to happen
 		> We found a buyer for our house, but then the sale fell through.
 	- fault
@@ -1902,7 +1940,6 @@
 		> guts 膽量/勇氣 |Personal courage and determination; toughness of character.|
 		> 腸腺 |Fibre made from the intestines of animals, used especially for violin or racket |
 	- gut-wrenching 摧心裂肝的 == emotionally painful
-	- greenery 綠色植物 == Green foliage, growing plants, or vegetation.
 	+ game
 		> 遊戲 |An activity that one engages in for amusement or fun.|
 		> 運動/競賽 |A form of competitive activity or sport played according to rules.|

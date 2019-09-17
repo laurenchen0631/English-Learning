@@ -7,7 +7,7 @@
 	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
 	- are 公畝 == 100 square meters == 119.6 square yards
 	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
-	- degree Celsius == °C
+	- degree Celsius /ˈsɛlsɪəs/  == °C
 	- dozen == twelve
 	+ millennium == A period of a thousand years
 	+ millennial
@@ -98,6 +98,7 @@
 	- quark
 		> 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元) |Any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed but theoretical predictions based on their existence have been confirmed experimentally.|
 		> 低脂起司凝塊 |A type of low-fat curd cheese.|
+	- deuteron (n)氘核子(重氫的原子核)
 	
 	* polymer (n)聚合物
 	- amino acid (n)胺基酸
@@ -137,43 +138,31 @@
 
 [Physical]
 	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
-	- light wave 光波
-	- ultraviolet light 紫外線
-	- waveform 波形 
+	- light wave (n)光波
+	- ultraviolet light (n)紫外線
+	- waveform (n)波形 
 	+ /ɪnfrəˈrɛd/ infrared (Adj)紅外線的
-	- magnetic field 磁場
-	- spectral
-		> 鬼的/像鬼的 |Of or like a ghost.| a spectral, menacing face
-		> 光譜的 |Of or concerning spectra or the spectrum.|
-	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/  (adj)微粒的 (n)微粒狀物質
-	- electron 電子
+	- infrasound (n)亞聲/次聲
+	- magnetic field (n)磁場
+	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/ (adj)微粒的 (n)微粒狀物質
+	- electron (n)電子
 	+ specimen /ˈspɛsɪmɪn/
 		> 標本/樣品 |An individual animal, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display.| specimens of copper ore
 		> 實例/典型 |An example of something regarded as typical of its class or group.| a specimen paper of the new test
 		> 抽驗 |A sample for medical testing, especially of urine.|
 		> 傢伙 |Used to refer humorously to a person or animal.| Carla could not help feeling a degree of reluctant admiration for this odd female specimen
-	- electrostatic 靜電的
-	- electromagnetic 電磁的
-	- mechanical energy 力學能/機械能
+	- electrostatic (adj)靜電的
+	- electromagnetic (adj)電磁的
+	- mechanical energy (n)力學能/機械能
 	- mechanics
 		> 力學 |the branch of applied mathematics dealing with motion and forces producing motion.| the laws of mechanics and electricity predicted that the electrons would spiral inward until they collided with the nucleus
 		> 機械學 |The practical study of machinery.| skills like carpentry, motor mechanics, and electrics
 		> 機件 |The machinery or working parts of something.| he looks at the mechanics of a car before the bodywork
 		> 方法/機制 |The way in which something is done or operated.| the mechanics of cello playing
-	- pink noise 粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
-	- reverberation
-		> 殘響 |Prolongation of a sound; resonance.| electronic effects have been added, such as echo and reverberation’
-		> 反衝 |A continuing effect; a repercussion.| the attack has had reverberations around the world
-	- cymatics 細小的顆粒在振動的表面形成特定圖案的現象
-	- thermalization 熱化，是物理體通過相互作用達到熱平衡的過程。一般而言，系統的自然趨勢是朝向能量均分和均勻溫度的狀態，從而使系統的熵最大化
-	- plasma, plasm
-		> 血漿/乳漿 |The colourless fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.|
-		> 電漿 |An ionized gas consisting of positive ions and free electrons in proportions resulting in more or less no overall electric charge, typically at low pressures (as in the upper atmosphere and in fluorescent lamps) or at very high temperatures (as in stars and nuclear fusion reactors)| the current passed through a column of plasma
-		> 等離子氣體 |A substance analogous to ionized-gas plasma, consisting of mobile charged particles (such as a molten salt or the electrons within a metal).|
-		> 深綠玉髓 |A bright green, translucent variety of quartz used in mosaic and for other decorative purposes.|
-		> 細胞質/原生質 |cytoplasm or protoplasm|
-	- spatial, spacial /ˈspeɪʃ(ə)l/ 空間的 = Relating to or occupying space.
-		> the spatial distribution of population
+	- pink noise (n)粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
+	- cymatics (n)細小的顆粒在振動的表面形成特定圖案的現象
+	- thermalization (n)熱化，是物理體通過相互作用達到熱平衡的過程。一般而言，系統的自然趨勢是朝向能量均分和均勻溫度的狀態，從而使系統的熵最大化
+	- spatial, spacial /ˈspeɪʃ(ə)l/ (adj)空間的 = Relating to or occupying space.
 	- temporal
 		> 世間的/世俗的 |Relating to worldly as opposed to spiritual affairs; secular.| the Church did not imitate the secular rulers who thought only of temporal gain
 		> 時間的 |Relating to time.| the spatial and temporal dimensions of human interference in complex ecosystems
@@ -351,7 +340,7 @@
 	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth
 	- galaxy 銀河/星系
 	- astronomer == An expert in or student of astronomy.
-	- splashdown == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+	- splashdown 濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
 	- quasar 類星體
 	- interstellar gas 星際物質，星系和恆星之間的物質和輻射場的總稱
 	- barred spiral galaxy 棒旋星系
@@ -374,6 +363,11 @@
 	- planetesimal (n)小行星體 (adj)小行星體
 	- meteorite (n)隕星
 	- comet (n)彗星
+	- Population I (n)第一星族，分類標準的是年齡、化學成分、在星系內的位置、和空間速度。
+	- Population II (n)第二星族
+	- bulge (n)腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) (v)膨脹/凸起, [with]裝滿
+	- galactic disk 銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
+
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

@@ -52,9 +52,11 @@
 		* He has visited the museum. －So have I.
 	1. only
 		* Only by taking a taxi can you arrive there on time.
-	1. should, had (條件句) == if
+	1. should, had, if (條件句)
 		* Should you need any help, don’t hesitate to call.
 		* Had I known you were coming, I would have changed. (== if I had known you were coming, I would have changed.)
+		* If I had time, I will play basketball. --> Had I time, I would play basketball. 
+		* Were it not for an accident of European history, the independence of Brazil might have been long delayed. --> If it were not for an accident of European history, the independence of Brazil might have been long delayed.
 	1. Comparative (比較)
 		* John speaks Chinese, as does Lucy.
 		* More important than love is money.

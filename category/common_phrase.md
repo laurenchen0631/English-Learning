@@ -117,6 +117,10 @@
 
 ## Denial
 
+## Question
+- cast doubt on sth/sb 使人質疑 
+	- New evidence has cast doubt on the guilty verdict.
+
 ## Relation
 + as to 關於/至於(轉變話題)
 	- decisions as to which patients receive treatment

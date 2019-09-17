@@ -115,6 +115,8 @@
 			+ /eɪˈtɪpɪkəl/ atypical (adj)非典型的/異常的/不同尋常的
 
 		3. 離去 = off == ab
+			- abort (v)流產, 發育不全, 失敗/夭折 (n)取消, 夭折企業 --> abortive (adj)失敗的, 發育不全的/早期的 --> abortion 
+			(n)人工流產, 發育不全, 失敗 = failure <-- ab + ort 生 = be born
 			+ abscission
 			+ abscond
 			+ absolve
@@ -1773,6 +1775,7 @@
 
 	dynam 力量 = force, power
 		- dynamic (adj)有活力的, 動態的, 動力的/動力學的
+		- dynamics (n)力學/動力學, 動力, [音]力度/力度變化
 		- dynamism (n)活力, 活力/正向, 物力論/力本說
 		- dynamo (n)發電機
 		* dynamite (n)炸藥 (v)用炸藥爆破
@@ -1942,6 +1945,7 @@
 		+ embrace
 		+ embroil (v)捲入糾紛/牽連 = involve = enmesh = entangle = implicate --> embroiled (adj)受牽連的 = involved
 		+ empathy
+		- emperor (n)皇帝 = sovereign ruler 
 		- emphasis --> emphatic
 		* empower (v)授權/准許, 使強大/使有自信 --> empowerment (n)權利, 自主權 <-- em + power
 		+ enamor --> enamored
@@ -2073,6 +2077,7 @@
 
 	equ, equi 平等/相等 = event, plain, just
 		+++ adequate (adj)足夠的 = enough = sufficient
+		- coequal (adj)同等的 (n)同等的人或事物
 		+ egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
 		+ equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
 		- equation (n)等式/方程式, 均衡/相等, 考量
@@ -2111,7 +2116,7 @@
 	ethno, ethn 種族/文化 = race, culture
 		- /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
 		- /ɛθˈnɪsɪti/ ethnicity (n)種族特徵
-		- ethnology (n)民族學/文化人類學
+		- /ɛθˈnɒlədʒi/ ethnology (n)民族學/文化人類學(比較與分析人類的族群、種族與國家群體之間的起源、分布、技術、宗教、語言與社會結構)
 		+ ethnocentric (adj)民族中心主義的/種族優越的
 		- ethnocentrism (n)民族優越感
 		- ethnomusicology (n)民間音樂
@@ -3267,7 +3272,7 @@
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
 		- projector (n)投影機/電影放映機
 		- reject (v)拒絕, 拋棄
-		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使隸屬/使服從, 使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞
+		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞
 		+ subjection (n)征服/制服/隸屬
 		- subjective (adj)主觀的, 想像的
 		- trajectory (n)軌道/彈道
@@ -3415,7 +3420,7 @@
 	loc, loco 地方 = place
 		*** allocate (v)分配 = allot
 		- collocate (v)組合/搭配(詞句)
-		- dislocate (v)使脫臼 = disjoint, 弄亂/擾亂
+		- dislocate (v)使脫臼 = disjoint, 弄亂/擾亂 --> dislocation (n)脫節, 脫臼
 		- /ləʊˈkɑːl/ locale (n)事情發生的現場或地點
 		- locality (n)地區/場所, 方位
 		- locus (n)地點/所在地 = location
@@ -3506,6 +3511,7 @@
 		- eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
 		- eulogistic (adj)頌揚的/讚頌的 = laudatory
 		* logic (n)邏輯, 推理法, 道理
+		* logical (adj)邏輯的, 合邏輯的/合理的, 當然的/必然的(行動或結果) = expected
 		* logistic (adj) --> logistics (n)組織運作學, 後勤, 物流
 		* logistical (adj)組織運作的
 		- monolog, monologue (n)獨白 = soliloquy, 個人長篇演說
@@ -3589,6 +3595,7 @@
 
 	linqu, lip 離開 = leave
 		- delinquent (adj)怠忽職守的, 拖欠的, 犯法的/不良的 (n)不良青少年 --> delinquency (n)少年犯罪, 失職/懈怠, 拖欠債務
+		- ecliptic (n)黃道 (adj)黃道的
 		+ eclipse (v/n)使黯然失色 = overshadow, 蝕/遮蔽 
 		- ellipsis -> ellipses (n)省略 --> elliptical (adj)省略的, 橢圓的
 		- ellipse (n)橢圓 --> elliptic (adj)橢圓的
@@ -3943,6 +3950,7 @@
 		+ emerge (v)浮現/出現, (昆蟲)孵化, 發生/顯露, 曝光, (從困境中)擺脫 --> emergence (n)浮現/出現, (昆蟲)孵化, 發生/顯露
 		+ emergent (adj)出現的 = issuing = emerging, 興起的/新興的, 緊急的 = urgent
 		- emergency (n)緊急情況 = exigency
+		- submerge (v)把……浸入水中/淹沒, 完全掩藏 = cover = obscure
 
 	macula 斑點/髒污 = spot, blemish
 		- macula (n)黃斑, 皮膚上的斑點 = macule
@@ -4241,6 +4249,7 @@
 			++ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above == up
+			- overhear (v)偶然聽到/無意中聽到
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
@@ -5630,6 +5639,7 @@
 			+ subject --> subjection --> subjective
 			- subjugate
 			- subliminal
+			- submerge (v)把……浸入水中/淹沒, 完全掩藏 = cover = obscure
 			*** submit --> submissive --> submission
 			+ subordinate
 			- suborn
@@ -5668,8 +5678,7 @@
 			- suspend --> suspension --> suspense
 			+ suspect
 			- suspicion --> suspicious
-			+ sustain --> sustained
-			- sustenance
+			+ sustain --> sustained --> sustenance
 
 		2. 稍微/近乎 = slightly, nearly
 			+ sublime
@@ -5804,12 +5813,12 @@
 		- stead (n)代替/接替
 		+ steady (adj)平穩的, 穩定的/不變的, 沉著的/可靠的 = sensible = reliable (v)使穩固/使鎮定 (n)關係確定的情侶
 		+ steadfast (adj)堅定的/不動搖的 = adamant = faithful = resolute = rigid
-		- subsist (v)維持生計/勉強生存, [in]歸因於 --> subsistence (n)生存/生計, 生存手段
+		- subsist (v)維持生計/勉強生存, [in]歸因於 --> subsistence (n)生存/生計 = sustenance, 生存手段
 		- substance (n)物質, 實體, 實質/本質, 重要, 依據 = basis, 可靠/沈著, 財產/財物
 		+++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 富裕的, 真實的/實在的 = real = tangible, 基本的 = basic = essential = fundamental
 		+ /səbˈstanʃɪeɪt/ substantiate (v)證實/確證 = corroborate = affirm = demonstrate = justify = prove = bear out 
 		+ substantive (adj)重大的, 獨立存在的 (n)名詞 <|> substantial
-		* substitute (v)用…代替/取代 = supersede = supplant (n)替代品
+		* substitute (v)用…代替/取代 = supersede = supplant (n)替代品 = alternative
 		- superstition (n)迷信
 
 	struct 建立 = erect
@@ -5850,6 +5859,8 @@
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		- specialize (v)[in]專攻/專門從事 <-- special
+		+ species (n)物種, 種/類 = sort = kind
+		- /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
 		+ /ˈspiːʃəs/ specious (adj)似是而非的 <--> plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
@@ -5859,6 +5870,8 @@
 		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物 <|> spectator
 		- spectral (adj)幽靈的 = ghostly, 光譜的
 		+ spectrum (n)光譜/頻譜, 範圍, 端點
+		- /spɛkˈtrɒskəpi/ spectroscopy (n)光譜學
+		- spectrograph (n)光學光譜儀
 		+++ speculate (v)推測/猜想 = infer = conjecture = surmise = guess, 投機 --> speculation (n)推測/猜想, 投機
 		+ speculative (adj)推測的, 投機的 = risky
 		** spite (n)惡意 (v)存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
@@ -6080,10 +6093,10 @@
 		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)收縮的, 酸澀的(味道), 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
 		+ constrain (v)強迫 = compel = coerce, 限制 = restrict = confine = restrain, 監禁 = imprison = restrain
 		+ constraint (n)約束/限制
-		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict --> constriction (n)壓縮, 阻塞物
+		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict --> constriction (n)壓縮, 阻塞物 = obstruction
 		- distrain (v)扣押(財物)
 		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
-		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated, 受控制的 
+		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated = low-key, 受控制的 
 		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
 		* restrict (v)限制/控制, 監禁 = restrain --> restriction (n)限制規定, 限制/控制 = control = stricture
 		+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
@@ -6100,7 +6113,7 @@
 	sphere 球/團
 		- biosphere
 		- atmosphere (n)大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
-		- hemisphere (n)半球, 腦半球
+		* hemisphere (n)半球, 腦半球
 
 	scend, scens, scent 爬 = climb
 		- ascend (v)攀登 = climb, 上升 = rise, 晉升 = promote
@@ -6158,7 +6171,7 @@
 		- designate (v)指定 = appoint = assign, 把..定名為/稱呼 (post adj)新指定的/新任命的
 		- designation (n)指定 = indication, 名稱/稱呼 = name = title
 		- insignia (n)階級, 徽章/袖章 = badge = emblem
-		+ resign (v)辭去/放棄, [onself to]認命 --> resigned (adj)逆來順受的/認命的 --> resignation (mn)認命, 辭職, 辭呈
+		+ resign (v)辭去/放棄, [oneself to]認命 --> resigned (adj)逆來順受的/認命的 --> resignation (mn)認命, 辭職, 辭呈
 		++ signal (adj)顯著的/不尋常的 (n)信號, 鐵路指示燈 (v)發信號, 命令 = instruct
 		- signify (v)表示/意味 = indicate, 有重要性/很重要/要緊
 		+ significant (adj)重要的, 意義深長的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
@@ -6215,7 +6228,7 @@
 	sati, satur 滿 = enough, full == ple
 		- insatiable (adj)不能滿足的
 		- sate (v)使充分滿足 = satisfy = gratify = assuage <-- satiate
-		++ /ˈseɪʃɪeɪt/ satiate (v)使充分滿足 = sate --> satiate (adj) --> satiable (adj)可滿足的
+		++ /ˈseɪʃɪeɪt/ satiate (v)使充分滿足 = sate --> satiable (adj)可滿足的
 		+ satisfy (v)使滿足/使滿意 = sate, 償還, 使確信 = convince
 		- satisfaction (n)滿意/滿足, 償還債務, [宗]苦行贖罪 --> satisfactory (adj)令人滿意的
 		+ saturate (v)浸透 = imbue, 使飽和, [軍]對……進行飽和轟炸 (n)飽和脂肪 =  saturated fat (adj)浸透的
@@ -6254,7 +6267,7 @@
 	sap, sav 聰明 = wise
 		- /ˈseɪpɪənt/ sapient (adj)有智慧的, 人類的 (n)人類 = Homo sapiens
 		+ savant (n)學者/專家
-		- ˈseɪvjər/savior (n)救星, 救世主
+		- /ˈseɪvjər/ savior (n)救星, 救世主
 		+ /ˈsavi/ savvy (n)精明 = shrewdness (adj)精明的 = shrewd, 通曉的 (v)知道 = know = understand
 
 	seismo, seism 地震 = earthquake
@@ -6271,12 +6284,12 @@
 		- philosophy (n)哲學, 理論/態度/準則 = theory = attitude
 		- sophism (n)詭辯
 		- sophistry (n)詭辯/謬論 = fallacy
-		* /səˈfɪstɪkeɪt/ sophisticate (v)使懂世故/使複雜, 詭辯 (n)久經世故的人
+		* /səˈfɪstɪkeɪt/ sophisticate (v)使懂世故, 使複雜, 詭辯 (n)久經世故的人
 		++ sophistication (n)老於世故, 複雜/精密
 		++ sophisticated (adj)老於世故的, 很有品味的, 精密的/複雜的 = complex, 敏銳的/有洞察力的 = subtle
 
 	spine 棘刺 = thorn
-		- spine (n)脊椎 = backbone, 核心, 骨氣/勇氣, 書脊, 刺/針, 骨氣/勇氣
+		- spine (n)脊椎 = backbone, 核心, 骨氣/勇氣, 書脊, 刺/針
 		- spineless (adj)無脊椎的 = invertebrate, 沒骨氣的/懦弱的 = purposeless = irresolute, 無刺或針的
 		- spiny (adj)多刺的 = spinous, 棘手的
 		- spinous (adj)刺狀的/多刺的 = spiny
@@ -6295,52 +6308,57 @@
 			+ transgress --> transgression
 			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting  (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
-			- transit (n)運輸/運送 (v)通過/經過 --> transition (n)過渡時期/轉變 (V))經歷/轉變 <|> transmit
+			- transit (n)運輸/運送 (v)通過/經過 --> transition (n)過渡時期/轉變 (V)經歷/轉變 <|> transmit
 			+ transitory (adj)短暫的 = transient = ephemeral = fleeting --> transitoriness (n)短暫 <-- transit
 			+ translucent
 			- transmit
 			+ transparent (adj)透明的, 顯而易見的, 開放參觀的 <-- trans + par 出現 = present + ent
 			- transport (n/v)運輸, 流放/放逐, 壓倒(喜悅) = overwhelm (n)大型交通工具
-			- traverse (v)橫穿過/橫跨
+			- traverse (n/v)橫穿過/橫跨 (v)沿……來回移動, [法]否認/反駁 (n)橫樑/橫軸, 通廊
 			+ travesty
-			- trespass (v)侵入/侵犯
+			- trespass (n/v)侵入/擅自進入 (v)[on]侵害/侵犯
 
 		2. 改變/交換 = change
-			- transact (v)辦理/處理, 交易/談判 --> transaction (n)辦理/處置, 交易/買賣
+			- transact (v)辦理/處理 = conduct = carry out --> transaction (n)辦理/處置, 交易/買賣, 會報/會刊
 			+ transcribe
-			- transfer 
+			- transfer --> transference
 			- transfigure
 			+ transform
 			+ transmute
-			- transplant (v)移植 --> transplantation (n)移植
+			- transplant (v)移植, 使移居/使移動 (n)器官移植手術, 被移植的器官, 移居者或物 --> transplantation (n)移植, 移居/移動 
 			- transpose
 
 	tain, tin 拿著 = hold, keep
-		++ abstain (v)戒除(菸酒) = forbear, 棄權 = refrain from voting --> abstinence (n)禁食 = continence --> abstention (n)戒除 --> abstentious (adj)禁慾的 = ascetic
-		*** attain (v)獲得/達到/實現 = achieve --> attainment (n)成就
+		++ abstain (v)戒除 = restrain = forbear, 棄權(投票)
+		+ abstinence (n)節制 = continence --> abstinent (adj)節制的/禁慾的 = ascetic = abstentious
+		+ abstention (n)棄權, 節制/戒除 = abstinence --> abstentious (adj)節制的/禁慾的 = abstinent
+		*** attain (v)實現 = achieve, 達到 = reach --> attainment (mn)達到/實現 (n)成就
 		- unattainable (adj)不可能的
-		- contain (v)包含/含有, 克制/控制(情緒), 阻止/抑制(有害物蔓延) = restrain --> containment (n)阻止/遏制
+		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain, 阻止/抑制(問題)) = prevent --> containment (n)封鎖/阻遏(問題)
 		+ continent (adj)有自制力的 = temperate (n)洲/大陸 --> continence (n)自制/節制 = self-restraint = abstinence = temperance = moderation
-		+ continuity (n)連續性/連貫性 <|> contin
+		- incontinence (n)失禁
+		+ continuity (n)連續性/連貫性
 		- detain (v)留住/使耽擱, 拘留, 扣留
-		+ entertain (v)吸引/逗樂 = divert = amuse, 考慮 = consider, 懷著/心存 = cherish = harbor
-		- obtain (v)得到/獲得, 存在
+		++ entertain (v)吸引/逗樂 = divert = amuse, 款待 = regale, 懷著/心存(想法) = cherish = harbor
+		** obtain (v)得到/獲得 = get = acquire = secure, 通用/流行/存在 = be prevalent/customary/establish
 		- obtainable (adj)能得到的
-		+ pertain (v)屬於, 有關/關於 --> pertinent (adj)有關的 = relevant = apropos <|> appurtenant --> pertinence (n)恰當/中肯/切題
-		- pertainacious (adj)固執的/不妥協的 = intransigent = uncompromising = inflexible = insubordinate = disobedient
-		+ retain (v)保留 = maintain = preserve, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱 --> retainer (n)侍從 = servant
-		- retinue (n)侍從/隨員團 = retainer
-		+ sustain (v)保持/維持, 承受/承擔/支撐 = suffer = undergo, 支持 = support = buoy = bolster = endorse --> sustained (adj)持久的/經久不衰的
-		- sustenance (n)食糧/糧食/營養, 生計 <-- sustain
+		+ pertain (v)[to]有關/關於 = relate, [法]從屬/附屬, 在..有效用或存在
+		+ pertinent (adj)有關的 = relevant = apposite = applicable <|> appurtenant --> pertinence (n)
+		- pertinacious (adj)固執的/不妥協的 = intransigent = uncompromising = inflexible = obstinate
+		+++ retain (v)保留 = maintain = preserve, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱, 預付
+		- retainer (n)固定器, 預付金, 侍從 = servant
+		- retinue (n)隨員/扈從
+		+ sustain (v)支撐/維持 = support = bear, 遭受/蒙受 = suffer = undergo, 維持/使持續, 扮演, [法]確認/認可 = uphold = affirm
+		+ sustained (adj)持久的/持續的 
+		- sustenance (n)食糧/糧食/營養 = nourishment, 生計 = subsistence <-- sustain 
 
 	tract, ten, tent, trait
 		1. 拉 = draw, drag, pull
-			+ abstract (n)摘要 (adj)抽象的
+			+ abstract (adj)抽象的, 理論的 = theoretical (v)[from]使抽象化, [from]提取/除去, [from]偷, 寫…的摘要 (n)摘要, 抽象派藝術作品
 			- abstraction (n)抽象, 抽象概念, 抽象藝術, 抽象派藝術作品, 出神/心不在焉 = trance, 提取/除去
-			- abstention
-			- attract (v)吸引/招引 --> attractive (adj)有魅力的/誘人的/動人的 = comely, 有吸引力的/令人感興趣的
-			+ intractable
-			* contract (n)合約 (v)簽合約 = stipulate, 收縮, 縮短 = condense, 感染 --> contraction (n)收縮, 痙攣/子宮收縮
+			- attract (v)吸引/招引, 引起 = evoke --> attractive (adj)有吸引力的/令人感興趣的
+			* contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
+			* contraction (n)收縮, 痙攣/子宮收縮
 			+ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert --> detraction (n)貶低/輕視
 			+ distract (v)使分心/干擾 = amuse = entertain detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
@@ -6356,7 +6374,7 @@
 			* tendency (n)傾向 = bent = inclination, 趨勢 = trend
 			+ /tɛnˈdɛnʃəs/ tendentious (adj)有偏見的 = biased <-- tendency
 			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
-			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順
+			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
 
 		2. 拿著 = hold, keep == tain
 			* content (adj)滿意的/滿足的 (v)使滿意/使滿足 (n)內容 --> contentment (n)滿足/滿意 <|> contention
@@ -6387,7 +6405,7 @@
 		- intend (v)想要/打算
 		+ intent (adj)熱切的/渴望的, 專心致志的 (n)目的/意向
 		- intention (n)意圖/意向/目的 --> intentional (adj)存心的/故意的 <-- intend
-		* ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = showy = pretentious = pompous = showy
+		* ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = pretentious = pompous = showy = flashy
 		+ ostensible, ostensive (adj)表面的/假裝的 = professed = pretended
 		+ ostensibly (adv)表面上
 		++ portent (n)前兆 = omen = sign, 奇事 = marvel = prodigy --> portentous (adj)凶兆的/不祥的 = ominous, 自命不凡的
@@ -6665,7 +6683,7 @@
 		* uneasiness (n)焦慮/不安 = compunction
 		- unenlightened (adj)愚昧無知的/不文明的/落後的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
-		- uneven (adj)不平坦的/粗糙的, 不規則的/不一致的, 不平衡的
+		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
 		- unexceptionable (adj)無可非議的/無懈可擊的
 		- unfailing (adj)無盡的/無窮的 = everlasting = inexhaustible
 		- unfasten (v)解開
@@ -6818,8 +6836,8 @@
 		- umbrella (n)雨傘
 
 	und 波浪 = wave
-		+ abound (v)大量存在, [in/with]富含/充滿 = teem
-		+ /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm
+		+ abound (v)大量存在, [in/with]富含/充滿 = teem 
+		+ /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm  --> inundation (n)壓倒, 洪水 = flooding
 		+ redound (v)起作用/有助於, 報應/返回到
 		+ redundant (adj)累贅的/多餘的
 		- undulant (adj)起伏的
@@ -6910,7 +6928,7 @@
 		+ revolution (n)革命, 變革 --> revolutionary (adj)大變革的, 革命的, 獨立戰爭的 (n)革命者
 		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive = lurid
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
-		+ /ˈvəːsətʌɪl/ versatile (adj)多功能的/多方面適用的
+		+ /ˈvəːsətʌɪl/ versatile (adj)多才多藝的/多功能的/多方面適用的
 		* verse (n)詩 (v)作詩, 使熟練/使精通 --> versed (adj)熟練的/精通的 
 		- vertebra (n)脊椎骨
 		* vertebrate (adj)有脊椎的 (n)脊椎動物
