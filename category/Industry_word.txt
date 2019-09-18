@@ -1004,6 +1004,12 @@
 	- intaglio (n)陰刻/凹雕/凹刻印刷 (v)凹雕
 	- blanket cylinder 橡膠滾筒
 	- webfed press 捲筒紙印刷機
+	- papyrus /pəˈpʌɪrəs/ (n)紙莎草紙, 紙莎草
+	- vellum (n)羊皮紙
+	- calf skin (n)小牛皮
+	- parchment (n)羊皮紙, 羊皮紙文稿
+	- octavo /ɒkˈtɑːvəʊ/ (n)八開紙/八開本
+	- cloth parchment (n)布羊皮紙
 	- laureate
 		> 獲獎者 |A person who is honoured with an award for outstanding creative or intellectual achievement.| a Nobel laureate
 		> 桂冠詩人 |Poet Laureate|
@@ -1285,8 +1291,16 @@
 	- gallery (n)畫廊, 畫集, 迴廊/長廊, 樓座, 劇院頂層樓座
 	- /ˈtʃɑːkəʊl/ charcoal (n)木炭, 炭筆, 深灰色
 	- varnish /ˈvɑːnɪʃ/ (n)清漆/亮光漆, 指甲油, 光鮮亮麗的外表 (v)塗清漆, 粉飾/掩飾
+	- salon /ˈsalɒn/ (n)沙龍, 會客室, 名流社交聚會
 
 [Religion]
+	+ shrine /ʃrʌɪn/ (n)聖祠/神殿/神社, 聖陵, 聖骨匣/聖物箱 = reliquary, 神龕 = niche (v)祀奉/供奉
+	- sacristy 聖器收藏室
+	- mosque 清真寺 /mɒsk/ == A Muslim place of worship.
+	- synagogue 猶太教堂 == A building in which Jews meet for religious worship or instruction.
+	- shul /ʃuːl/ 猶太教堂 == synagogue
+	- scriptorium -> scriptoria (n)修道院的繕寫室/藏經樓
+	
 	- priesthood == The office or position of a priest.
 	- deacon (n)助祭/執事
 	- clergy 牧師
@@ -1342,8 +1356,6 @@
 		> 膜拜 |A system of religious veneration and devotion directed towards a particular figure or object.| 
 		> |A person or thing that is popular or fashionable among a particular group or section of society.|
 		> 邪教/異教 |A relatively small group of people having religious beliefs or practices regarded by others as strange or as imposing excessive control over members.|
-	- synagogue 猶太教堂 == A building in which Jews meet for religious worship or instruction.
-	- shul /ʃuːl/ 猶太教堂 == synagogue
 	- Jewish == Relating to, associated with, or denoting Jews or Judaism.
 	- apostolic 使徒的 == Relating to the Apostles.
 	- baptism /ˈbaptɪz(ə)m/ 洗禮/浸禮 --> baptismal 淨禮的 == Relating to the Christian rite of baptism.
@@ -1390,13 +1402,11 @@
 	- devout
 		> 虔誠的 |Having or showing deep religious feeling or commitment.| she was a devout Catholic
 		> 誠摯的/忠心的 |Totally committed to a cause or belief.| the most devout environmentalist
-	- sacristy 聖器收藏室
 	- presbytery /ˈprɛzbɪt(ə)ri/ 
 		> 長老會教務評議會 |A body of Church elders and ministers, especially (in Presbyterian Churches) an administrative body (court) representing all the local congregations of a district.|
 		> 神父之居地 |The house of a Roman Catholic parish priest.|
 		> 聖所 |The eastern part of a church chancel beyond the choir; the sanctuary.|
 	- transept 耳堂/袖廊 == (in a cross-shaped church) either of the two parts forming the arms of the cross shape, projecting at right angles from the nave.
-	- mosque 清真寺 /mɒsk/ == A Muslim place of worship.
 	- rapture
 		> 著迷/癡迷 |A feeling of intense pleasure or joy.| Leonora listened with rapture
 		> 狂喜 |Expressions of intense pleasure or enthusiasm about something.| the tabloids went into raptures about her
@@ -1413,6 +1423,7 @@
 	- English Protestant 英國新教教徒
 	- Catholic Ireland 愛爾蘭天主教
 	- Huguenot 胡格諾派，16世紀至17世紀法國基督新教歸正宗的一支教派
+
 
 [Engineer]
 	- Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉

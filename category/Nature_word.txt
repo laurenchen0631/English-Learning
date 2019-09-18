@@ -103,7 +103,9 @@
 	- cheetah /ˈtʃiːtə/ (n)獵豹 <--> cheater /ˈtʃiːtə/ 
 	- mink (n)鼬鼠
 	- sheep (n)綿羊, 羊, 懦怯之人, 信徒, 教區居民
-	- lesser spear-nosed bat 小鼻長矛蝙蝠
+	- lesser spear-nosed bat (n)小鼻長矛蝙蝠
+	- calf /kɑːf/ (n)小牛, 仔, 小牛皮, 腓/小腿
+
 
 [Insect]
 	- moth (n)蛾
@@ -141,7 +143,13 @@
 	- puffin (n)海鸚鵡
 	- geese (n)鵝
 	- parakeet, parrakeet /ˈparəkiːt/ (n)長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
-	- wood thrush 木畫眉
+	- wood thrush (n)木畫眉
+	- shorebird (n)涉禽/水鳥
+	- plover /ˈplʌvə/ (n)鴴(一種短尾長腿鳥，主要棲息於海邊或草地)
+	- warbler (n)刺嘴鶯/鶯
+	- blackcap (n)黑頭鶯 = blackcap warbler
+
+	+ fledgling /ˈflɛdʒlɪŋ/ (n)剛會飛的幼鳥, 無經驗的人 (adj)缺乏經驗的
 	- preen (v)用喙整理, 精心打扮, [oneself]洋洋自得
 	- ruffle (v)弄亂(毛髮), (鳥受驚等時)豎起(羽毛), 打擾/使不平靜, 打褶 (n)褶襉飾邊
 	- beak (n)喙 = bill, (鱉等的)喙狀嘴, 鼻子
@@ -197,6 +205,7 @@
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
 	- mother-of-pearl == nacre (n)珍珠母，是一種由軟體動物所產生的有機及無機混合物，做為該動物貝殼的內層物質
 	- barnacle /ˈbɑːnək(ə)l/ (n)藤壺
+	- shellfish (n)貝類/甲殼類水生動物
 
 [Tree]
 	* shrub (n)灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -227,6 +236,7 @@
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)
 	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
 	- greenery (n)綠色植物 == Green foliage, growing plants, or vegetation.
+	- bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
 	- hemlock (n)毒芹, 鐵杉
 	- cycad /ˈsʌɪkad/ (n)蘇鐵
 	- lily -> lilies (n)百合
@@ -288,6 +298,7 @@
 	- reed (n)蘆葦, 蘆笛, 箭頭, 不可依靠的人, 簧片, 簧片繼電器
 	- taro /ˈtɑːrəʊ/ (n)芋
 	- sugarcane (n)甘蔗
+
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
 	- nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液
 	+ pollen 花粉 --> pollinate /ˈpɒlɪneɪt/ (v)異花傳粉
@@ -299,3 +310,4 @@
 	- petiole (n)葉柄, 肉莖
 	- mycorrhiza /ˌmʌɪkə(ʊ)ˈrʌɪzə/ (n)菌根 --> mycorrhizal (adj)菌根的
 	- hypha /ˈhʌɪfə/ --> hyphae (n)菌絲
+	- fibrous (adj)纖維的/纖維狀的

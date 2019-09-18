@@ -202,6 +202,7 @@
     + boisterous (adj)喧閙的 = blatant = clamorous, 精力旺盛的 <|> bolster
     + bold (adj)勇敢的/無畏的 = audacious, 醒目的/顯著的 = conspicuous, 冒昧的/魯莽的 = audacious = abrupt
     + /ˈbōl-stər/ bolster (n)長墊/靠墊 = cushion (v)支持/鼓勵 = support = advocate
+    + bombard (v)砲擊/轟炸, 向……連續提出問題, 以高能量粒子或放射能衝擊 (n)射石砲
     +++ bombast (n)高調/誇大之詞/大話 = rhetoric --> bombastic (adj)誇大的 = pompous = orotund = inflated = exaggerated = rhetorical = grandiloquent = oratorical = tumid = turgid
     ++ /buːn/ boon (n)恩賜/利益 = blessing = benefit (adj)快活的/歡樂的 = jolly = jovial = convivial = blithe = merry
     + boor (n)粗魯無禮之人 = peasant = savage --> boorish (adj)粗野的/粗鄙的 = rude = churlish = savage <-- farmer 德文
@@ -462,7 +463,8 @@
     + coda (n)(樂曲的或演講、事件、文章的)結尾/尾聲
     * code (n)法典/法規, 規範/規矩, 密碼/代碼
     + codify (v)編纂(法典、條例等) = systematize <-- code
-    ++ /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel = constrain --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
+    ++ cope (v)應付/處理 = deal with, 蓋住(建築) (n)斗篷式長袍/法衣
+    + /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel = constrain --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
     + /kəˈrɒləri/ corollary (n)必然的結果, 推論 (adj)推論的, 附屬的/補充的 = associated = supplementary
@@ -472,7 +474,7 @@
     + /ˌkɒnəˈsəː/ connoisseur (n)鑒賞家/行家 <-- cognoscible
     + /kəˈnʌndrəm/ conundrum (n)難題/複雜的問題 = riddle, (以雙關為答案的)謎語
     + /koʊˈkɛt/ coquet (v)賣弄風情/挑逗 = flirt --> coquette (n)賣弄風情的女子 <-- coq [法]cock 公雞
-    + correlate (v)相互關係/相關 --> correlation (n)相互關係/聯繫
+    + /ˈkɒrələt/ correlate (v)相互關係/相關 --> correlation (n)相互關係/聯繫
     + /ˈkɒsɪt/ cosset (v)寵愛/溺愛 = pamper = coddle = mollycoddle <-- coss [古]kiss
     + coterie (n)小圈子/小團體 = clique <-- cote [德]佃農 = cotter
     *** court (n)球場, 庭院, 法院/法庭, 全體出庭人員/全體審判人員, 宮廷/皇室 (v)吸引 = allure = tempt = engage, 求取/設法取得 = court, 招致/招惹 = woo, 求愛 = woo
@@ -796,7 +798,7 @@
     + /ˌɛsəˈtɛrɪk/ esoteric (adj)深奧的 = recondite = arcane = hermetic = abstruse, 祕傳的, 秘密的/機密的 = secret = confidential, 限於圈內人的 = rarefied <-- esoter 裡面 = inner + ic
     ++ /ɪˈspaʊz/ espouse (v)支持/擁護/採用 = adopt = embrace, 嫁/娶 = marry --> espousal (n)支持/擁護 <-- spouse
     ++ /ˈɛseɪ/ essay (v)企圖/嘗試 = try = attempt, 試驗 (n)散文/隨筆, 嘗試 <|> assay /əˈseɪ/
-    + establish (v)建立/創立 = found = institute, 證實 = prove = substantiate, 使被接受 --> established (adj)被接受的/被認可的
+    + establish (v)建立/創立 = found = institute, 證實 = prove = substantiate, 使被接受 --> established (adj)已確立的/被承認的/既定的, 被認可的/著名的, 繁茂的
     * establishment (n)建立, 機構 --> Establishment (N)國家統治集團/權勢集團, 英國國教會
     ++ /ɪˈstiːm/ esteem (v)尊敬 = regard, 認為 = regard = thikn = consider
     ++ estimable (daj)值得尊重的 = admirable, 可估價的/可估計的
@@ -2103,6 +2105,7 @@
     + pillory (n)(刑具)頸手枷, 示眾/受公眾嘲笑 (v)使當眾受辱/公開辱罵
     ++ pine (v)消瘦/衰弱 = languish = debilitate = wan, 渴望/思念 = long = thrist = yearn = crave (n)松樹
     + pinnacle (n)尖塔 = spire, 山峰/頂峰 = summit
+    + pinpoint (n)小點 = tiny dot (adj)完全精確的 = absolutely precise, 微小的 = tiny (v)精確找到
     + pitfall (n)陷阱 = trap, 隱藏的危險/意想不到的困難
     + pith (n)髓, 要旨/精髓 = essence = core = heart --> pithy (adj)簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)簡潔
     + pittance (n)微薄的收入 <-- pity
@@ -2186,6 +2189,7 @@
     * prod (n/v)刺/戳 = poke, 刺激/敦促 = stir up = urge = goad = 
     ** prop (v)支撐(物體) = buttress (n)道具, 支撐物 --> props (n)尊重 = respect
     ** puff (n)一陣/一股, 泡芙, 吹捧的言論, 吸煙/抽煙 (v)喘氣, 一陣陣地吹或噴, 抽煙, [out/up]膨脹, 吹捧
+    * /pʌlp/ pulp (n)黏漿狀物質, 果泥/菜泥, 紙漿, 牙髓, 低級書刊 (v)使成漿/使稀爛, 收回(出版品)
     * purge (v)肅清, 刪除/除去(不好的東西)
     * purse (n)女用錢包, 女式手提包, (政府或機構的)資金/財力 (v)噘嘴 <|> pursue
     * plunder (v)搶劫/掠奪 = strip

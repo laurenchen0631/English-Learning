@@ -154,7 +154,7 @@
 			* /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
 			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
 			+ antiquarian (adj)古文物的 (n)古文物家
-			- antiquity (n)古代, 古董, 古蹟
+			- antiquity (n)古代, 古董, 古老 = great age
 
 	ante, ance, anti 前 = before
 		- ancestor (n)祖先 = antecedent --> ancestry (n)家系
@@ -235,6 +235,7 @@
 		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
 		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
 		- aeroponics (n)無土種植法
+		-  /ɛːˈrəʊbɪks/ aerobics(n)有氧運動
 
 	agog 引導 = lead, guide
 		+ demagog, demagogue
@@ -389,6 +390,7 @@
 		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
 		- artsy, arty (adj)附庸風雅的
+		- /ˈɑːtɪstri/ artistry (n)藝術才能
 		- artisan (n)工匠/技工 = craftsman
 
 	asper 粗暴 = rough
@@ -975,6 +977,7 @@
 		+ credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信/易受騙
 		* recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
 		+ discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
+		- discredited (adj)名聲掃地的
 		- incredulity (n)懷疑/不相信
 	
 	cumul 堆積 = heap
@@ -1056,12 +1059,13 @@
 		+ /kəˈpɪtjʊleɪt/ capitulate (v)投降/停止抵抗 = surrender = yield
 		- capitulum (n)骨的頭部
 		+ recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize --> recapitulation (n)
+		+ recap (v)概述 = recapitulate (n)概要/總結 = recapitulation
 
 	crimin, culp 罪行 = guilty, crime
 		+ criminality (n)犯罪
 		+ culpable (adj)應受譴責的/該受處罰的 = reprehensible --> culpability (n)罪過 = blame
 		+ culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
-		+ exculpate (v)證明…無罪/脫罪 = exonerate = vindicate --> exculpatory (adj)證明無罪的/辯解的
+		+ exculpate (v)證明…無罪/脫罪 = exonerate = vindicate <|> extenuate --> exculpatory (adj)證明無罪的/辯解的 
 		- inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
 		- incriminate (v)連累/牽連 = inculpat --> incrimination (n)連累
 		- recriminate (v)反控
@@ -1137,7 +1141,7 @@
 
 	cert 搞清 = sure, certain
 		+ certitude (n)確定無疑/確信 = certainty
-		- certify (v)(通常以書面形式)證明/證實 = qualify
+		- /ˈsəːtɪfʌɪ/ certify (v)(通常以書面形式)證明/證實 = qualify
 		- certificate (n)證書
 		- certification (n)證明
 		+ ascertain (v)弄清/確定/查明, 確信
@@ -1191,6 +1195,7 @@
 		- /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
 		- /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane --> cyclonic (adj)氣旋的
 		- /ˈsɪkləmeɪt/ cyclamate (n)糖精
+		- /ˈsʌɪklətrɒn/ cyclotron (n)迴旋加速器
 		- /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, 廣泛的
 		- encyclopedia, encyclopaedia (n)百科全書/大全 <-- en + cyclo + pedo 兒童 = child + ia
 		- cylinder (n)圓柱
@@ -2365,7 +2370,7 @@
 		- befringe (v)飾以邊
 
 	firm 堅定
-		+ affirm (v)斷言/主張 = assert, 確認 = confirm = uphold = ratify
+		+ affirm (v)斷言/主張 = assert = maintain, 確認 = confirm = uphold = ratify
 		++ confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrenched
 		- infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
 
@@ -2441,7 +2446,7 @@
 
 	fiss 分裂 = split
 		+ fissure (n)裂縫/裂隙 = crevice = rift
-		- fission (n/v)分裂
+		- /ˈfɪʃ(ə)n/ fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂 <|> /ˈfɪkʃ(ə)n/ fiction
 		- fissile (adj)易裂的
 
 	flagr 燒 = flame, burn == ard == bust == caus
@@ -2689,6 +2694,7 @@
 		+ hypocrite (n)偽善者/偽君子
 		* hypocritical
 		+++ hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
+		- hypotenuse
 	
 	hypno 催眠 = put to sleep
 		* hypnotic (adj)催眠的 = soporific (n)安眠藥 = sedative
@@ -4201,6 +4207,7 @@
 	out 超出/出 = beyond, surpass, out
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
+		- outflow (n)外流
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
 		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
 		+ outland (n)遙遠的地區 (adj)遙遠的, 外國的 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
@@ -4408,7 +4415,7 @@
 		+ preempt
 		- preface (n)序言 = introductionl, 初步解釋, 序誦/序禱 (v)為……加序言
 		++ prefer --> preference
-		- pregnant (adj)懷孕的 = gravid, 意味深長的 <--> impregnable <-- pre + gna 出生 = born + ant
+		- pregnant (adj)懷孕的 = gravid, 意味深長的 = significant <--> impregnable <-- pre + gna 出生 = born + ant
 		- prehistoric (adj)史前的
 		- prejudge
 		* prejudice --> prejudiced
@@ -4419,6 +4426,7 @@
 		+ premature (adj)過早的, 不成熟的
 		- premeditate --> premeditated
 		+++ premise
+		* /ˈprɛmɪə/ premier (adj)首位的/首要的, 最早的/最先的 (n)總理/首相
 		+ premonition
 		* preoccupied (adj)全神貫注的/入神的 = engrossed = rapt = absorbed --> preoccupation (n)全神貫注, 使人專注的東西
 		- preponderate
@@ -5086,6 +5094,7 @@
 	phil, philo 愛 = loving == amat
 		- philanthropic --> philanthropist
 		- philately (n)集郵 --> philatelist (n)集郵家
+		- philosophy
 		- bibliophile
 		- negrophile
 		- hemophilia
@@ -5566,6 +5575,7 @@
 		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)社會棄兒, 遺棄物 --> dereliction (n)遺棄/廢棄, [dereliction of duty]怠忽職守
 		- relict (n)殘遺物
 		- relic (n)遺物/遺跡, 聖骨/聖物
+		- reliquary (n)聖骨盒/聖物箱 = shrine
 
 	riv 河流 = stream
 		+ derive (v)[sth from]得到, [from]源自 = arise from = originate, [數]導出  <|> deride 
@@ -5639,7 +5649,7 @@
 			+ subject --> subjection --> subjective
 			- subjugate
 			- subliminal
-			- submerge (v)把……浸入水中/淹沒, 完全掩藏 = cover = obscure
+			- submerge (v)把……浸入水中/淹沒 = inundate, 完全掩藏 = cover = obscure
 			*** submit --> submissive --> submission
 			+ subordinate
 			- suborn
@@ -5786,7 +5796,7 @@
 		- instate (v)任命/安置 = install = establish <--> reinstate
 		+ institute (v)建立/制定, 提出(訴訟), [宗]任命 = appoint (n)研究所/學院/協會 --> institution (n)組織/協會, 制度/習俗, 建立/設立
 		- institutionalized (adj)制度化的/有組織的
-		- instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 (v)裝配 = equip --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
+		- /ˈɪnstrʊm(ə)nt/ instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 (v)裝配 = equip --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
 		- obstacle (n)障礙/干擾
 		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固 = stubbornness
 		+ persist (v)堅持/固執, 持續 = continue to exist = be prolonged
@@ -5849,6 +5859,7 @@
 		- scribe (n)抄寫員, 劃線器 (v)寫 = write, 用劃線器劃 --> scribal (adj)抄寫的
 		- script (n)手跡/筆跡, 劇本/腳本 (v)編寫
 		- scripture (n)權威性著作/經文/聖典
+		- scriptorium -> scriptoria (n)修道院的繕寫室/藏經樓
 		+ transcribe (v)抄寫/謄寫, 轉譯, 改編(樂曲)
 
 	spect, spec, speci, spic, spex, spite 看 = look, watch == mir
@@ -5967,11 +5978,11 @@
 		+ /ˈdɛsɪkreɪt/ desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
 		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
-		- sacrilege (n)褻瀆/冒犯神靈 --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
+		- sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
 		* sanctify (v)使神聖化/使聖潔化 = consecrate = purify, 使可接受
 		* sanctuary (n)避難所/庇護所 = asylum = refuge, 禁獵區 = reserve, 聖殿/聖堂 = temple
 		+++ /ˈsaŋ(k)ʃ(ə)n/ sanction (n/v)認可/批准 = approve = ratify = permit = authorize, 制裁/懲罰 = penalize (n)強硬措施
-		+ sanctimony (n)假裝的虔誠 --> sanctimonious (adj)假裝神聖的 = pious = hypocritical = holier-than-thou
+		+ sanctimony (n)假裝的虔誠 --> sanctimonious (adj)假裝虔誠的 = pious = hypocritical = holier-than-thou
 
 	sect, seg 切 = cut == tomy
 		- bisect (v)切成兩半
@@ -6057,6 +6068,7 @@
 		- association (n)聯盟/協會 = syndicate, 聯合 = connection, 關聯
 		- dissociate (v)使分離
 		* society (n)社會, 社團/協會 = organization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
+		- /səˈsʌɪɪtəl/ societal (adj)社會的
 		- sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
 
 	sorc 詛咒/巫術 = oath
@@ -6123,7 +6135,8 @@
 		*** descend (v)下降, 下傾/下坡, [to]屈尊, [to]陷入(困境), [on/upon]突然襲擊, [on/upon]突然拜訪, (黑暗)降臨, [be descended from]為……的後裔, 遺贈
 		*** descent (n)下降/下坡, 墮落, 血統/世系, 遺贈, 突擊, 突訪
 		- descendant (n)後代/後裔
-		+ transcend (v)超出/超過 = exceed = overpass = surpass, 超越/優於 = surpass = excel = outstrip --> transcendent (adj)超驗的, 卓越的/出眾的 = exceptional
+		+ transcend (v)超出/超過 = exceed = overpass = surpass, 超越/優於 = surpass = excel = outstrip
+		+ transcendent (adj)超驗的, 卓越的/出眾的 = exceptional
 		- transcendental (adj)超凡的/人智所不及的, 先驗的
 	
 	sci 知道 = know == nois == gnost == cogn
@@ -6156,7 +6169,7 @@
 		* conserve (v)保存/保留/保護, 醃漬 (n)糖漬食品/蜜餞/果醬 = preserve
 		- conservatory (n)溫室, 音樂學院/藝術學院 = conservatoire
 		+ conservative (adj)保守的, 保守黨的, 保守估計的, 防腐的 (n)保守者/守舊者, 保守黨員/保守黨派
-		++ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply, 慶祝(節日) --> observation (n)觀察, 洞察力, 評論/意見 = remark = review
+		++ observe (v)注意/察覺 = notice = perceive, 評論 = remark, 遵守 = comply = respect, 慶祝(節日) --> observation (n)觀察, 洞察力, 評論/意見 = remark = review
 		- observatory (n)天文台/氣象臺/觀察站
 		+ preserve (v)保存/維護/維持 = maintain = retain, 醃/防腐 (n)糖漬食品/蜜餞/果醬, 保護區/禁獵區 = sanctuary --> preservative (adj)防腐的 (n)防腐劑
 		* reserve (v)保存/保留, 預約/預訂, 延遲作出(判決) (n)儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = reserve price
@@ -6174,7 +6187,7 @@
 		+ resign (v)辭去/放棄, [oneself to]認命 --> resigned (adj)逆來順受的/認命的 --> resignation (mn)認命, 辭職, 辭呈
 		++ signal (adj)顯著的/不尋常的 (n)信號, 鐵路指示燈 (v)發信號, 命令 = instruct
 		- signify (v)表示/意味 = indicate, 有重要性/很重要/要緊
-		+ significant (adj)重要的, 意義深長的 --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
+		+ significant (adj)重要的, 意義深長的 = pregnant --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
 
 	son 聲音 = sound
 		- consonant (adj)[with]一致的/調和的 <--> dissonant, 子音的 (n)子音/子音字母 <--> vowel
@@ -6306,7 +6319,7 @@
 			+ transcend --> transcendent
 			- transcendental
 			+ transgress --> transgression
-			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting  (n)短期工/短暫居住者, 瞬變電流
+			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
 			- transit (n)運輸/運送 (v)通過/經過 --> transition (n)過渡時期/轉變 (V)經歷/轉變 <|> transmit
 			+ transitory (adj)短暫的 = transient = ephemeral = fleeting --> transitoriness (n)短暫 <-- transit
@@ -6328,13 +6341,13 @@
 			- transplant (v)移植, 使移居/使移動 (n)器官移植手術, 被移植的器官, 移居者或物 --> transplantation (n)移植, 移居/移動 
 			- transpose
 
-	tain, tin 拿著 = hold, keep
+	tain, tin, ten 拿著 = hold, keep
 		++ abstain (v)戒除 = restrain = forbear, 棄權(投票)
 		+ abstinence (n)節制 = continence --> abstinent (adj)節制的/禁慾的 = ascetic = abstentious
 		+ abstention (n)棄權, 節制/戒除 = abstinence --> abstentious (adj)節制的/禁慾的 = abstinent
 		*** attain (v)實現 = achieve, 達到 = reach --> attainment (mn)達到/實現 (n)成就
 		- unattainable (adj)不可能的
-		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain, 阻止/抑制(問題)) = prevent --> containment (n)封鎖/阻遏(問題)
+		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain, 阻止/抑制(問題) = prevent --> containment (n)封鎖/阻遏(問題)
 		+ continent (adj)有自制力的 = temperate (n)洲/大陸 --> continence (n)自制/節制 = self-restraint = abstinence = temperance = moderation
 		- incontinence (n)失禁
 		+ continuity (n)連續性/連貫性
@@ -6359,40 +6372,42 @@
 			- attract (v)吸引/招引, 引起 = evoke --> attractive (adj)有吸引力的/令人感興趣的
 			* contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
 			* contraction (n)收縮, 痙攣/子宮收縮
-			+ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert --> detraction (n)貶低/輕視
-			+ distract (v)使分心/干擾 = amuse = entertain detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
+			+ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
+
+			+ distract (v)使分心/干擾 = detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = inattentive = preoccupied
 			- distraught (adj)心煩意亂的 = distracted
-			- extract (v)使勁拔出, 提取/提煉, 設法得到(情報等)
+			- extract (v)使勁拔出, 設法得到, 提取/提煉 (n)摘錄, 提出物/精華/汁
 			- hypotenuse (n)直角三角形的斜邊
-			+ pretentious (adj)矯飾的/做作的 = meretricious, 炫耀的 = ostentatious = showy, 自負的
-			+ protract (v)延長/拖長 = prolong --> protracted (adj)拖延的/長時間的
-			+ retract (v)縮回/收回, 撤回 = withdraw
+			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
+			+ pretension (n)意圖/抱負 = aspiration, [to]自稱/自命,  假裝/做作 = pretentiousness
+			+ pretentious (adj)炫耀的/矯飾的/自以為是的 = exaggerated = pompous = showy = conceited
+			+ protract (v)延長/拖長 = prolong --> protracted (adj)比平常久的/延長的
+			+ retract (v)縮回/收回 = draw back, 撤回(指控或承諾) = withdraw <|> retract
 			- subtract (v)減去/減掉
-			- tend (v)趨向, 傾向/易於, 朝向, 照料, 管理
-			* tendency (n)傾向 = bent = inclination, 趨勢 = trend
-			+ /tɛnˈdɛnʃəs/ tendentious (adj)有偏見的 = biased <-- tendency
-			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 微妙的/棘手的 
-			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple =malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
+			*** tend (v)[to]傾向, [to/towards]易於, 朝向, 照管/照料 = look after, 管理 = manage = work in
+			** tendency (n)傾向 = bent = inclination, 政治團體
+			+ /tɛnˈdɛnʃəs/ tendentious (adj)有強烈傾向的/有偏見的 = biased <-- tendency
+			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 敏感的 = sensitive, 年輕的/無經驗的
+			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple = malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
 
 		2. 拿著 = hold, keep == tain
-			* content (adj)滿意的/滿足的 (v)使滿意/使滿足 (n)內容 --> contentment (n)滿足/滿意 <|> contention
-			- contented (adj)心滿意足的 
-			+ maintain (v)維持/保持/維修 = preserve = retain, 堅持/主張 = assert = affirm = declare
-			+ maintenance (n)維持/維護, 贍養費 = alimony
-			+ /tɪˈneɪʃəs/ tenacious (adj)緊握的, 頑強的/固執的 = determined = stubborn = adamant, 持續存在的 --> tanacity (n)堅持/固執
-			* tenable (adj)可維持的 <--> untenable
-			- tenacity (n)緊握, 決心/堅持, 保持/存續
+			* /kənˈtɛnt/ content (adj)滿意的/滿足的 = satisfied (v)使滿意/使滿足 = sate, [onself]勉強接受 (n)滿足 --> contentment (n)滿足/滿意 --> contented (adj)滿意的/滿足的 = content  <|> contention
+			* /ˈkɒntɛnt/ content (n)內容, 所含之物/容納的東西, 含量, 目錄
+			+ maintain (v)維持/保持 = preserve = retain, 維修/保養, 供養/撫養, 堅持/主張 = assert = affirm = declare
+			++ maintenance (n)維持/保持, 維修/保養, 生活費/贍養費 = alimony
+			+ /tɪˈneɪʃəs/ tenacious (adj)緊握的, 堅持的 = determined = stubborn = adamant, 持續存在的 --> /tɪˈnasɪti/ tenacity (n)緊握, 堅持/固執 = determination, 持續 = persistence
+			* tenable (adj)站得住腳的, (職位)可保持一段時間的  <--> untenable
 			* tenant (n)承租人/房客/佃戶 (v)租借
-			+ tenet (n)信教/宗旨/原則 = doctrine = belief = canon = precept
-			- tenor (n)要點/要旨, 男高音
-			+++ tenure (n)任期, 終身職位
+			+ /ˈtɛnɪt/ tenet (n)信教/原則 = principle = belief = canon
+			- tenor (n)要點/要旨, [法]抄本/謄本 男高音, 男高音歌手, 次中音樂器
+			++ /ˈtɛnjə/ tenure (n)佔有/使用權, 任期, 終身職位 (v)給..終身職
 
 	tenu 薄 = thin
-		+ attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish --> atentuation (n)稀釋, 減弱
-		++ extenuate (v)掩飾罪行/減輕罪過 = palliate --> extenuating (adj)情有可原的
-		+ tenuous (adj)細薄的/纖細的, 稀薄的, 空洞的/貧弱的 = unsubstantiated = weak
+		+ attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish, 使變薄 --> attenuation (n)減弱
+		++ extenuate (v)掩飾罪行/減輕罪過 = palliate, 使變瘦 <--> exculpate <--> exonerate --> extenuating (adj)情有可原的
+		+ tenuous (adj)細薄的/纖細的, 不確定的/不明朗的
 
 	tend, tent, tense 伸展 = stretch
 		* attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
@@ -6794,7 +6809,7 @@
 		+ underscore (v)在...之下畫線, 強調
 		+ understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)保守的/輕描淡寫的 --> understatement (n)不充分的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)充當...的替角
-		*** undertake (v)試圖/著手做, 陳諾/答應 = promise, undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
+		+++ undertake (v)試圖/著手做, 陳諾/答應 = promise --> undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
 		- underutilized (adj)未充分利用的
 		+ underwrite (v)簽署/簽名同意支付/同意, 給……保險, 認購
 

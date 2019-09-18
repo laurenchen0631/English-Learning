@@ -56,39 +56,46 @@
 	- dropper
 		> 滴管 |A short glass tube with a rubber bulb at one end and a tiny hole at the other, for measuring out drops of medicine or other liquids.| oils sold in bottles with a rubber-tipped dropper
 		> |A subsidiary line or loop of filament attached to a main line or leader.| a dropper line
+	- cyclotron /ˈsʌɪklətrɒn/ (n)迴旋加速器
 
 [Chemical]
-	- oxygen (n)氧
-	- hydrogen (n)氫氣
+	+ oxygen (n)氧
+	+ hydrogen (n)氫氣
 	- platinum /ˈplatɪnəm/ (n)鉑/白金
 	- palladium /pəˈleɪdɪəm/ (n)鈀
 	- calcium /ˈkalsɪəm/ (n)鈣
-	- ammonia /əˈməʊnɪə/ (n)氨
+	+ ammonia /əˈməʊnɪə/ (n)氨
 	- helium 	/ˈhiːlɪəm/ (n)氦
 	- neon 		/ˈniːɒn/ (n)氖
 	- argon 	/ˈɑːɡɒn/ (n)氬
 	- krypton 	/ˈkrɪptɒn/ (n)氪
 	- xenon 	/ˈzɛnɒn/ (n)氙
 	- radon 	/ˈreɪdɒn/ (n)氡
-	- sodium /ˈsəʊdɪ/ (n)鈉
+	+ sodium /ˈsəʊdɪ/ (n)鈉
 	- cobalt /ˈkəʊbɔːlt/ (n)鈷
 	- manganese /ˈmaŋɡəniːz/ (n)錳
 	- selenium /sɪˈliːnɪəm/ (n)硒
 	- cadmium (n)鎘
-	- nickel /ˈnɪk(ə)l/ (n)鎳, 五分錢
-	- lithium 鋰
-	- chlorine 氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
-	- potassium /pəˈtasɪəm/ 鉀
-	- zinc /zɪŋk/ 鋅
+	+ nickel /ˈnɪk(ə)l/ (n)鎳, 五分錢
+	+ lithium (n)鋰
+	+ chlorine (n)氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
+	+ potassium /pəˈtasɪəm/ (n)鉀
+	- zinc (n)/zɪŋk/ 鋅
+	- iridium (n)銥
+	- masurium (n)鎝
+	- technetium /tɛkˈniːʃɪəm/ (n)鎝(其所有同位素都具有放射性，是原子序最小的非穩定元素)
 
-	- molecule /ˈmɒlɪkjuːl/ 分子
+	- atomic /əˈtɒmɪk/ (adj)原子的, 無法分割的, 原子能的
 	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
+	- proton ˈprəʊtɒn/ (n)質子
+	- molecule /ˈmɒlɪkjuːl/ (n)分子
 	- cation /ˈkatʌɪən/ (n)陽離子
 	- ion /ˈʌɪən/ (n)離子
 	- noble gases 高貴氣體 == inert gases 惰性氣體
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
 		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
+	- fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂
 	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
 	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
 	- ultracold atom 超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
@@ -366,7 +373,9 @@
 	- Population I (n)第一星族，分類標準的是年齡、化學成分、在星系內的位置、和空間速度。
 	- Population II (n)第二星族
 	- bulge (n)腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) (v)膨脹/凸起, [with]裝滿
-	- galactic disk 銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
+	- galactic disk (n)銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
+	- outflow channel (n)流出通道，火星上非常長的大片沖刷地面，通常包含預先存在的地形的流線型殘餘物和其他線性侵蝕特徵，表明流體向下坡移動的雕刻
+
 
 
 [Photograph]

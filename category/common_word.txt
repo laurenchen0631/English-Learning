@@ -61,10 +61,10 @@
 	* add up 
 		> 漸增 |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people`s health.
 		> 看似合理 |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn`t add up.
-	- alongside
-		> |Close to the side of; next to.| she was sitting alongside him
-		> |Together and in cooperation with.| a care assistant was working alongside him
-		> |At the same time as or in coexistence with.| they aim to encourage coverage of disabled sport alongside able-bodied achievement
+	+ alongside (prep)
+		> 在旁邊|Close to the side of; next to.| she was sitting alongside him
+		> 與…一起 |Together and in cooperation with.| a care assistant was working alongside him
+		> 與…一起 |At the same time as or in coexistence with.| they aim to encourage coverage of disabled sport alongside able-bodied achievement
 	- air
 		> |Express (an opinion or grievance) publicly.| a meeting in which long-standing grievances were aired
 		> |Broadcast (a programme) on radio or television.| the programmes were aired on India`s state TV network
@@ -142,6 +142,7 @@
 		> 方位/面向 |The positioning of a building or other structure in a particular direction.|
 		> 時態 |A category or form which expresses the way in which time is denoted by a verb|
 	+ amongst == among
+	
 	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
 	- avail
 		> 有幫助/有益 |Help or benefit.| no amount of struggle availed Charles
@@ -1025,6 +1026,7 @@
 		> 替換 |Take or use another instead of.| she decided to change her name
 		> 零錢 |Coins as opposed to banknotes.| a handful of loose change
 		> 找零 |Money returned to someone as the balance of the sum paid for something.|  I watched him check and pocket his change
+	- crippled (adj)跛腿的, (機器)嚴重受損的
 	- creep -> crept/creeped -> crept/creeped
 		> 躡手躡腳 |Move slowly and carefully in order to avoid being heard or noticed.| he crept downstairs, hardly making any noise
 		> 緩慢地移動 |(of a thing) move very slowly and inexorably.| the fog was creeping up from the marsh
@@ -3772,6 +3774,7 @@
 		> There will have to be a sea change in people`s attitudes if public transport is ever to replace the private car.
 	- see for oneself 親身體驗/親眼見識 == To see or experience something firsthand as a means of proving to oneself that it is true or accurate.
 		> I couldn not believe that his car could actually park automatically, so I had to go over and see for myself.
+	+ seal /siːl/ (n)封條, 浮水印, 封蠟/印章, 圖章, 誓約/象徵, 海豹 (v)封/密封, 護貝, 快速高溫油炸, 確定/決定, 蓋章/蓋印於
 	+ set -> set -> set
 	- set sth aside == to save something, usually money or time, for a special purpose
 		> More than 809,000 hectares were set aside eight years later to preserve the Yellowstone River`s source, known for geyser and hot springs.
@@ -4095,6 +4098,9 @@
 		> 充公/扣押 |The action of confiscating or impounding property by warrant of legal right.| the seizure of all his assets
 		> 發作 |A sudden attack of illness, especially a stroke or an epileptic fit.| the patient had a seizure
 	- speak -> spoke -> spoken
+	- speak of
+		- 談到 |to talk or write about: to mention (a subject) in speech or writing| Speaking of Jill, where is she?
+		- 表示/顯示 |to indicate or suggest| His diaries speak of a troubled mind.
 	- speak up 提高嗓門/大聲點說 == to speak in a louder voice so that people can hear you
 		> Could you speak up? We can not hear at the back.
 	- splay

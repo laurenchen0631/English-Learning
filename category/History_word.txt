@@ -1,21 +1,28 @@
 [Age]
 	- the Middle Ages 中古世紀
+	- Early Modern period (n)近世，又譯近代早期，歷史學上的一種分期法，指中世紀之後
 	- zeitgeist 時代精神 == The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.
 	- Enlightenment 啟蒙運動/啟蒙時代/理性時代，指一場在17世紀及18世紀於歐洲發生的哲學及文化運動，該運動相信理性發展知識可以解決人類實存的基本問題
 	- Lost Generation 迷惘的一代，又稱迷失的一代、失落的一代，通常指在第一次世界大戰期間成年的人
 
 [Archaeology]
-	- tablet (n)刻寫板, 平板電腦, 便箋
-	- drill cores 岩芯鑽頭的挖掘物 == The long cylinder of material obtained by use of a core drill
+	- heavy bombardment 後期重轟炸期，又稱晚期重轟炸，是指約於41億年前至38億年前，即於地球地質年代中的冥古宙及太古宙前後，推斷在月球上發生不成比例的大量小行星撞擊的事件，在地球、水星、金星及火星亦同樣發生。
 	- Gondwanaland 岡瓦那大陸
 	- Laurasia 勞拉西亞大陸
-	- the Bering Land Bridge == Beringia 白令陸橋，位於白令海，伸延至極限時長達1600公里
-	- the glacier maximum (n)巔冰期/冰盛期，是指末次冰期中氣候最為寒冷、冰川規模達到最大的時期
 	- Levant 黎凡特，是歷史上一個模糊的地理名稱，廣義指的是中東托魯斯山脈以南、地中海東岸、阿拉伯沙漠以北和上美索不達米亞以西的一大片地區
+	- Cambrian (n)寒武紀(5.31～4.85億年前，顯生宙的開始，名字來自於英國威爾斯的一個古代地名羅馬名稱)
+	- Tommotian 寒武紀第二期 (大約位於5.29～5.21億年前)
+	- Permian /ˈpəːmɪən/ (n)二疊紀(2.99～2.52億年前，古生代的最後一個地質時代，在石炭紀、三疊紀之間)
+	- Mesozoic /ˌmɛsə(ʊ)ˈzəʊɪk/ (n)中生代(可分為三疊紀，侏羅紀和白堊紀三個地質年代)
+	- Triassic /trʌɪˈasɪk/ (n)三疊紀(2.51億至2.01億年前，位於二疊紀和侏羅紀之間)
+	- Jurassic /dʒʊˈrasɪk/ (n)侏羅紀(約2.01億年前到1.45億年前，侏羅紀是中生代的第二個紀，界於三疊紀和白堊紀之間)
+	- Cretaceous /krɪˈteɪʃəs/ (n)白堊紀(約1.45億年前到0.65億年前，中生代的最後一個紀，長達8000萬年，是顯生宙的最長一個階段)
+	- Cenozoic /ˌsiːnəˈzəʊɪk/ (n)新生代
 	- Pleistocene /ˈplʌɪstəsiːn/ 更新世，亦稱洪積世，時間自2,588,000年前到11,700年前，為地質時代中新生代第四紀的早期
-	- Cambrian 寒武紀
-	- Tommotian 寒武紀第二期
-	- heavy bombardment 後期重轟炸期，又稱晚期重轟炸，是指約於41億年前至38億年前，即於地球地質年代中的冥古宙及太古宙前後，推斷在月球上發生不成比例的大量小行星撞擊的事件，在地球、水星、金星及火星亦同樣發生。
+	- the glacier maximum (n)巔冰期/冰盛期，是指末次冰期中氣候最為寒冷、冰川規模達到最大的時期
+	- the Bering Land Bridge == Beringia 白令陸橋，位於白令海，伸延至極限時長達1600公里
+	- tablet (n)刻寫板, 平板電腦, 便箋
+	- drill cores 岩芯鑽頭的挖掘物 == The long cylinder of material obtained by use of a core drill
 	
 
 [Celebrity]
@@ -87,7 +94,9 @@
 	- 1992 Manchester bombing 1992年曼徹斯特爆炸案 == an attack by the Provisional Irish Republican Army (IRA) on Thursday 3 December 1992. Two 2 lb (0.9 kg) bombs exploded, wounding 65 people and damaging many buildings in the city of Manchester
 	- 1996 Manchester bombing 1996年曼徹斯特爆炸案，是愛爾蘭共和軍（IRA）於1996年6月15日在英國曼徹斯特市中心發起的一場恐怖襲擊。事件中，一枚炸彈被人放置在麵包車裏。在炸彈引爆前約90分鐘，愛爾蘭共和軍曾打電話作事先警告，令至少7.5萬因而撤離的人倖免於難
 
-[United States]
+[America]
+	- Olmecs (n)奧爾梅克文明，已知的最古老的美洲文明之一。它存在和繁盛於公元前1200年到公元前400年的中美洲
+
 	- Louisiana Purchase 路易斯安那購地，是美國於1803年以大約每英畝三美分向法國購買超過529,911,680英畝土地的交易案
 	- Gold Rush 淘金潮，又稱淘金熱
 	- pueblo /ˈpwɛbləʊ/ 印地安聚落 == A North American Indian settlement of the south-western US, especially one consisting of multistoreyed adobe houses built by the Pueblo people.

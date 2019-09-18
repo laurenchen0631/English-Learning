@@ -81,6 +81,7 @@
 	- isle /ʌɪl/ (n)小島
 	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
 	- landlocked (adj)為陸地所包圍的, 內陸的, 內陸水域的(魚)
+	- permafrost (n)永凍土層
 	
 [Weather]
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
@@ -134,8 +135,9 @@
 	- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
 
 [Ore]
-	- granite /ˈɡranɪt/ 花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
-	- quartz 石英
+	- ore /ɔː/ (n)礦
+	- granite /ˈɡranɪt/ (n)花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
+	- quartz  /kwɔːts/ (n)石英
 	- mica 雲母
 	- feldspar 長石
 	- coal
@@ -165,6 +167,8 @@
 	- limestone (n)石灰岩
 	- granule (n)細粒
 	- gypsum (n)石膏
+	- pumice stone (n)浮石/輕石(用來摩擦物體使其光滑)
+	- pumice /ˈpʌmɪs/ (n)浮岩(火山石，是一種多孔的火山碎屑岩), 浮石/輕石 (v)用輕石磨
 
 [Ocean]
 	- the Pacific Ocean

@@ -84,6 +84,10 @@
 - well into 離..有一段時間了 == far into something or far along in something.
 	- Until well into this century, the mentally ill were often targets of suspicion and even hostility.
 	- It was well into the morning before she awoke. The car was well into the tunnel when it broke down.
+- in circulation 流通/流傳 == going or passing from person to person or place to place
+	- That rumor has been in circulation for a long time.
+	- coins no longer in circulation
+	- by 1500, after only 45 years of the printed book, there were 9 million in circulation
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
@@ -120,6 +124,7 @@
 ## Question
 - cast doubt on sth/sb 使人質疑 
 	- New evidence has cast doubt on the guilty verdict.
+- how come? 為甚麼/怎麼會？
 
 ## Relation
 + as to 關於/至於(轉變話題)
@@ -218,3 +223,6 @@
 + well over 超過/多於 == much more than 
 	- it takes a human infant well over a year to learn how to walk.
 	- Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
+
+## Apothegm
+- That was then. This is now. 此一時，彼一時
