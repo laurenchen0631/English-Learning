@@ -61,7 +61,12 @@
 	- mammoth /ˈmaməθ/ (n)長毛象/猛獁象
 	- woolly mammoth (n)真猛瑪象
 	- Tasmanian tiger (n)袋狼
-	- pachyderm(n) 厚皮類動物
+	- primate (n)靈長類動物, 最高階主教 
+	- orangutan /ɔːˌraŋuːˈtan/ (n)猩猩/紅毛猩猩，靈長目人科的一屬，與猴子最大不同的地方就是沒有尾巴，能用手或腳拿東西
+	- chimpanzee /tʃɪmpanˈziː/ (n)黑猩猩
+	- gorilla /ɡəˈrɪlə/ (n)大猩猩
+	- lowland gorilla (n)西部低地大猩猩
+	- pachyderm (n)厚皮類動物
 	- velociraptor (n)伶盜龍屬
 	- marsupial (n)有袋類
 	- thylacine (n)袋狼
@@ -71,13 +76,11 @@
 	- mesonychid /ˈmɛzəʊˌnʌɪkɪd/ (n)爪獸
 	- marmot /ˈmɑːmət/ (n)土撥鼠
 	- squirrel /ˈskwɪr(ə)l/ (n)松鼠
-	- lowland gorilla (n)西部低地大猩猩
-	- chimpanzee /tʃɪmpanˈziː/ (n)黑猩猩
 	- snowshoe hare (n)白靴兔
-	- caribou /ˈkarɪbuː/ (n)馴鹿
 	- llama /ˈlɑːmə/ (n)大羊駝
 	- alpaca /alˈpakə/ (n)羊駝
 	- reindeer /ˈreɪndɪə/ (n)馴鹿
+	- caribou /ˈkarɪbuː/ (n)北美馴鹿 == North American reindeer
 	- gazelle (n)瞪羚
 	- lynx /lɪŋks/ (n)山貓
 	- otter (n)水獺
@@ -105,7 +108,7 @@
 	- sheep (n)綿羊, 羊, 懦怯之人, 信徒, 教區居民
 	- lesser spear-nosed bat (n)小鼻長矛蝙蝠
 	- calf /kɑːf/ (n)小牛, 仔, 小牛皮, 腓/小腿
-
+	- prairie dog (n)草原犬鼠，也常稱作土撥鼠，是一種小型穴棲性嚙齒目動物，原產於北美洲大草原，當地人稱之為「草原犬」
 
 [Insect]
 	- moth (n)蛾
@@ -120,7 +123,8 @@
 	- centipede /ˈsɛntɪpiːd/ (n)蜈蚣
 	- mosquito /mɒˈskiːtəʊ/ (n)蚊
 	- tsetse /ˈtsɛtsi/ = tsetse fly (n)舌蠅/采采蠅
-	- trilobite 三葉蟲
+	- trilobite (n)三葉蟲
+	- honey bee (n)蜜蜂
 
 [Bird]
 	- passenger pigeon (n)旅鴿
@@ -206,6 +210,7 @@
 	- mother-of-pearl == nacre (n)珍珠母，是一種由軟體動物所產生的有機及無機混合物，做為該動物貝殼的內層物質
 	- barnacle /ˈbɑːnək(ə)l/ (n)藤壺
 	- shellfish (n)貝類/甲殼類水生動物
+	- clam /klam/ (n)蛤/蛤蜊/蚌, [非]一元/一塊錢 (v)撈蛤/挖蛤, [非]閉嘴不言/保持沉默
 
 [Tree]
 	* shrub (n)灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
@@ -234,18 +239,21 @@
 [Plant]
 	- cyanobacteria /ˌsʌɪənəʊbakˈtɪərɪə/ (n)藍菌門/藍綠藻(是一類能透過光合作用獲取能量的細菌，但有些也能透過異營來獲取能量)
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)
+	- vegetation (mn)植物/草木, 呆板單調的生活
 	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
 	- greenery (n)綠色植物 == Green foliage, growing plants, or vegetation.
+	- angiosperm (n)被子植物(又名開花植物或有花植物)
+
 	- bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
 	- hemlock (n)毒芹, 鐵杉
 	- cycad /ˈsʌɪkad/ (n)蘇鐵
 	- lily -> lilies (n)百合
 	- herb /ˈərb/, /həːb/ == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
+	+ alga /ˈalɡə/ -> algae /ˈalɡē/ (n)海藻/水藻
+	+ fungus /ˈfʌŋɡəs/ -> fungi /ˈfʌŋɡiː/ (n)真菌/菌類植物
+	+ lichen /ˈlʌɪk(ə)n/ (n)地衣, 苔蘚病
 	- fern (n)蕨
 	- moss (n)苔蘚
-	- lichen /ˈlʌɪk(ə)n/ (n)地衣, 苔蘚病
-	+ fungus /ˈfʌŋɡəs/ -> fungi /ˈfʌŋɡiː/ (n)真菌/菌類植物
-	- alga /ˈalɡə/ -> algae /ˈalɡē/ (n)海藻/水藻
 	- ginseng 人參
 	- yellowroot (n)黃根，兩種植物的俗名(金印草、黃根草)
 	- gourd /ɡɔːd/ (n)葫蘆
@@ -298,6 +306,7 @@
 	- reed (n)蘆葦, 蘆笛, 箭頭, 不可依靠的人, 簧片, 簧片繼電器
 	- taro /ˈtɑːrəʊ/ (n)芋
 	- sugarcane (n)甘蔗
+	- dandelion /ˈdandɪlʌɪən/ (n)蒲公英
 
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
 	- nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液

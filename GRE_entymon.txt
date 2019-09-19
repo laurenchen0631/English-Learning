@@ -32,6 +32,7 @@
 			- affectation
 			- affecting
 			- affection
+			- afield (adv)遠離著, 去野外
 			+ affiliate --> affiliated 
 			+ affinity 
 			+ affirm
@@ -779,6 +780,7 @@
 	cur, curr, cor, corr, curs, cour 跑 = run
 		** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
 		- corral (n)(牛、馬等)畜欄/圍欄 (v)把(馬、牛)趕進畜欄/把(一群人)集中起來
+		- /ˈkɒrɪdɔː/ corridor (n)走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
 		+ cursory (adj)倉促的/匆忙的 = hasty = superficial
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
@@ -848,7 +850,7 @@
 		+ precipitous (adj)險峻的/陡峭的, 突然的/戲劇化的, 魯莽的/倉卒的
 		+ precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
 		- precipitant (n)沈澱物
-		- precipitation (n)降水, 急躁/衝動
+		- precipitation (n)降水, 沈澱
 		- receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
 		- reception (n)反應/回應, 迎接/歡迎, 接待處/服務台
 		+ receptive (adj)善於接受的/從善如流的
@@ -958,7 +960,7 @@
 		+ discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
 		+ discriminate (v)區別/辨別 = differentiate, 差別對待
 		+++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
-		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的
+		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的 --> - discreteness (n)獨立性/不連續性
 		* excrete (v)排泄/分泌
 		* secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣 <|> /sɪˈkriːt/ secrete
 		- /ˈsiːkrɪsi/ secrecy (n)保密
@@ -2468,6 +2470,7 @@
 		** inflexible (adj)不易彎曲的/堅固的 = rigid, 不願改變的/不妥協的 = immovable = intransigent = pertainacious = hidebound = implacable = unyielding, 不許改變的 = unalterable = rigid
 		- inflect (v)屈折變化, 使變音/使變調, 影響, 彎曲
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
+		+ reflection (mn)反射, 深思/深思 (n)反射光, 鏡像, 後果, 想法 = idea --> reflective (adj)反射的, 深思的
 
 	foli 樹葉/紙 = leaf, sheet
 		- defoliate (v)使落葉 --> defoliator (n)落葉劑
@@ -3218,7 +3221,7 @@
 		- insula (n)島
 		+ /ˈɪnsjʊlə/ insular (adj)島嶼的/海島的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
 		+ /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
-		- insulate (v)使絕緣/使隔熱, 使免於不良的影響 --> - insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
+		- /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate -->  insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
@@ -3773,7 +3776,7 @@
 		+ diminish (v)減少 = curtail = abate = wane = pare = lessen = scant = dwindle, 降低..的權勢或價值
 		+ /ˌdɪmɪˈnjuːʃ(ə)n/ diminution (n)減少/縮減
 		* diminutive (adj)微小的 = minuscule = lilliputian, 表示小的 (n)表示小的字詞, 暱稱/名字縮寫
-		- microbe (n)微生物
+		- /ˈmʌɪkrəʊb/ microbe (n)微生物 = microscopic organisms = microorganism
 		- microorganism (n)微生物/細菌 = bacterium
 		- microscope (n)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
 		+ microcosm (n)人類, 小宇宙/縮影/微觀世界 <--> macrocosm <-- micro + cosmo
@@ -3854,6 +3857,7 @@
 		- multiply (v)乘, 增加, 繁殖 = breed (adv)多樣地/多重地
 		- multiplex --> multiplicity
 		- multitude (n)大量, 群眾 --> multitudinous (adj)極多的, 種類繁多的, 廣大的(水體)
+		- multimedia (adj)多媒體的 (n)多種媒體的採用
 
 	muni 禮物 = gift
 		+ /mjʊˈnɪfɪsənt/ munificent (adj)慷慨的/寬宏的 = very generous = bountiful = liberal --> munificence (n)慷慨/寬宏大量 = generosity
@@ -3941,6 +3945,7 @@
 	mut 改變 = change
 		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
 		- mutate (v)變異 --> mutation (n)突變
+		+ /ˈmjuːtʃʊəl/ mutual (adj)相互的/彼此的, 共有的/共同的 (n)互惠機構(由成員而不是持股人擁有的金融機構)
 		+ muted (adj)柔和的(聲音或光亮), 無言的/無聲的
 		+ immutable (adj)永恆的/不可改變的 = unchangeable 
 		+ transmute (v)變化/使變形
@@ -4207,6 +4212,7 @@
 	out 超出/出 = beyond, surpass, out
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
+		- outdo -> outdid -> outdone (v)勝過/超越
 		- outflow (n)外流
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
 		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
@@ -4382,6 +4388,7 @@
 
 [P]
 	pan, panto 全部 = all == omni
+		+ pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
 		+ /ˌpanəˈsiːə/ panacea (n)萬靈藥 <-- pan + acea 治療 = cure
 		- pancreas (n)胰腺 <-- pan + creas 肉 = flesh, meat
 		- pandemic
@@ -4519,6 +4526,7 @@
 		- prostrate (adj)俯臥的 = prone, 被征服的/無助的 (v)使下跪/俯臥, 使衰竭/使疲憊 <-- pro + stra 伸展 = stretch + ate
 		- protest (n/v)抗議/反對, 書面拒付聲明
 		- /prəˈtjuːbərənt/ protuberant (adj)凸出的/隆起的 = prominent = tumid = bulging <-- pro + tuber 隆起/腫脹 + ant
+		- protuberance (n)突出/隆起 = protrusion
 		* protude
 		* provenance (n)出處/起源 = origin = source <-- pro + ven 來 = come + ance
 		- provender (n)糧草, [戲謔]食物
@@ -4572,6 +4580,7 @@
 			- percuss --> percussion --> percussionist 
 			- perforate
 			+ permanent (adj)永久的/永恆的 = perennial, 持續不斷的 (n)燙髮 <-- per + mane 保留 = remain + ent
+			- permafrost /ˈpəːməfrɒst/ (n)永凍土 <-- permanent + frost
 			+ /ˈpəːmɪeɪt/ permeate (v)滲透/瀰漫 = pervade = riddle with = saturate
 			+ permeable (adj)可滲透的/可穿過的 = penetrable = pervious = porous
 			- permit --> permissive
@@ -5027,6 +5036,7 @@
 
 	phob, phobia 恐懼 = fear
 		- acrophobia
+		- mysophobia (n)潔癖
 		- xenophobe
 		- xenophobia
 		- hydrophobia
@@ -5737,7 +5747,7 @@
 			- solace (n)安慰/慰藉 = consolation (v)給..慰藉
 
 	soli, sol 孤單/整個 = alone, whole
-		** desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely (v)使荒涼, 使痛苦
+		** /ˈdɛs(ə)lət/ desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely (v)使荒涼, 使痛苦
 		*** solicit (v)請求/懇求/乞求 = beseech = entreat = supplicant = woo = implore = crave = urge, 拉客 = accost
 		+ solicitude (n)關懷/牽掛 = care = concern
 		+ /səˈlɪsɪtəs/ solicitous (adj)關切的/熱切期望的
@@ -5835,6 +5845,7 @@
 		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念 <|> constitute
 		- destruction (n)毀滅/消滅, 毀滅的原因
 		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
+		- instruction (n)命令/指示, 用法說明/操作指南 (mn)教學/教育
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
 
 	stall 放 = put, place == the == pos
@@ -5951,7 +5962,7 @@
 		- synergy, synergism (n)合力/協力 --> synergetic, synergic (adj)合作的 <-- syn + erg 工作 = work + y
 		+ synopsis -> synopses (n)概要/梗概 = summary, 大綱 = outline --> synoptic (adj)概要的, 縱觀全局的 <-- syn + op 看 = see + sis
 		- synonym
-		+++ synthesis (n)綜合/合成 --> synthesize (v)綜合/合成
+		+++ synthesis (n)綜合/合成 --> /ˈsɪnθəsʌɪz/ synthesize (v)綜合/合成
 		* synthetic (adj)合成的/人造的 = artificial = ersatz, 虛假的 = insincere = illusive (n)合成物
 
 	sim, sin 一 = one
@@ -6015,7 +6026,7 @@
 		+ insensible (adj)昏迷的/不省人事的 = unconscious, 發麻的/麻木的 = numb, [of/to]無動於衷的 = indifferent to = unaware of = unresponsive, 微不足道的 = inappreciable
 		- insentient (adj)無知覺的/無生命的 = inanimate
 		* insensitive (adj)無動於衷的/漠不關心的 = callous = indifferent, 不敏感的/無感覺的 = unfeeling = callous = obtuse
-		+ presentiment (n)不祥的預感 = premonition = hunch = foreboding
+		+ presentiment (n)不祥的預感 = premonition = hunch = foreboding <|> resentment
 		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = indignation
 		++ sensation (n)知覺, 感覺, 轟動, 轟動的人或物 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
 		- sensible (adj)明智的 = reasonable, 有實用性的 = practical, 可察覺到的 
@@ -6082,7 +6093,7 @@
 
 	suade 建議/力勸 = urge, recommend
 		- /dɪˈsweɪd/ dissuade (v)[from]勸阻/阻止 = discourage = prevent
-		- persuade (v)說服 = induce, 使相信 = convice
+		- persuade (v)說服 = induce = tempt, 使相信 = convice
 
 	sume, sumpt 拿/取 = take
 		++ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
@@ -6227,7 +6238,7 @@
 		+ distinct (adj)明顯不同的 = trenchant, 分開的 = separate, 肯定的/絕對的 = definite --> distinction (n)區別/差別 = difference = contrast, 卓越, 殊勛/榮譽
 		- distinctive (adj)與眾不同的/獨特的
 		++ distinguish (v)區分/分辨 = discern = differentiate, [oneself]使傑出 --> distinguished (adj)著名的/卓越的, 氣度不凡的/高雅的
-		+ extinguish (v)熄滅 = quench, 使..消滅 = annihilate = destroy, 使(人))安靜
+		+ extinguish (v)熄滅 = quench, 使..消滅 = annihilate = destroy, 使(人)安靜
 		- extinct (adj)絕種的/不復存在的, 死的(火山) <--> extant
 		+ instigate (v)開始/引發 = bring about = initiate, [sb to V]慫恿/煽動 = foment = foster
 		+ instinct (n)天性/本能, 直覺 (adj)[with]充滿的(特質) --> instinctive (adj)本能的, 直覺的 = intuitive
@@ -6273,7 +6284,7 @@
 		- /ˈsakərɪn/ saccharin (n)糖精
 		- /ˈsakərʌɪn/ saccharine (n)糖精 = saccharin (adj)含糖的, 過分甜蜜的/多愁善感的 = sentimental
 
-	salubr, salut 健康 = health
+	salu 健康 = health
 		+ /səˈluːbrɪəs/ salubrious (adj)有益健康的 = healthful = salutary, 宜人的 = pleasant = hospitable
 		+ /ˈsaljʊt(ə)ri/ salutary (adj)有益的 = beneficial
 
@@ -6316,8 +6327,7 @@
 		1. 穿過 = across, through
 			- trajectory
 			- trance (n)昏睡狀態/催眠狀態, 恍惚/出神 = abstraction, 迷幻音樂 (v)使昏睡
-			+ transcend --> transcendent
-			- transcendental
+			+ transcend --> transcendent --> transcendental
 			+ transgress --> transgression
 			+ transient (adj)短暫的/一時的 = transitory = temporary = fleeting (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
@@ -6329,14 +6339,14 @@
 			- transport (n/v)運輸, 流放/放逐, 壓倒(喜悅) = overwhelm (n)大型交通工具
 			- traverse (n/v)橫穿過/橫跨 (v)沿……來回移動, [法]否認/反駁 (n)橫樑/橫軸, 通廊
 			+ travesty
-			- trespass (n/v)侵入/擅自進入 (v)[on]侵害/侵犯
+			- trespass (n/v)侵入/擅自進入 = transgress (v)[on]侵害/侵犯
 
 		2. 改變/交換 = change
 			- transact (v)辦理/處理 = conduct = carry out --> transaction (n)辦理/處置, 交易/買賣, 會報/會刊
 			+ transcribe
 			- transfer --> transference
 			- transfigure
-			+ transform
+			+ transform --> transformation
 			+ transmute
 			- transplant (v)移植, 使移居/使移動 (n)器官移植手術, 被移植的器官, 移居者或物 --> transplantation (n)移植, 移居/移動 
 			- transpose
@@ -6372,16 +6382,18 @@
 			- attract (v)吸引/招引, 引起 = evoke --> attractive (adj)有吸引力的/令人感興趣的
 			* contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
 			* contraction (n)收縮, 痙攣/子宮收縮
-			+ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
-
-			+ distract (v)使分心/干擾 = detract, 困擾/使苦惱 = beset = harass = besiege = badger --> distracted (adj)分心的 = diverted, 困擾的/心煩意亂的 
+			+ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心/轉移 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
+			+ distract (v)干擾, 使分心/轉移 = detract--> distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
-			+ distrait (adj)心不在焉的 = inattentive = preoccupied
-			- distraught (adj)心煩意亂的 = distracted
+			+ distrait (adj)心不在焉的 = distracted = absent-minded
+			- distraught (adj)心煩意亂的
 			- extract (v)使勁拔出, 設法得到, 提取/提煉 (n)摘錄, 提出物/精華/汁
 			- hypotenuse (n)直角三角形的斜邊
 			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
-			+ pretension (n)意圖/抱負 = aspiration, [to]自稱/自命,  假裝/做作 = pretentiousness
+			- pretended (adj)假的/假裝的 = assumed = pretend
+			+ pretense (n)假裝 = veil, 炫耀, [to]自稱/自吹 <-- pretend
+			+ pretension (n)意圖/抱負 = aspiration, [to]自稱/自命, 假裝/做作 = pretentiousness
+			+ pretension (n)[to]自稱/自命, [to]標榜/抱負, 矯飾/自負
 			+ pretentious (adj)炫耀的/矯飾的/自以為是的 = exaggerated = pompous = showy = conceited
 			+ protract (v)延長/拖長 = prolong --> protracted (adj)比平常久的/延長的
 			+ retract (v)縮回/收回 = draw back, 撤回(指控或承諾) = withdraw <|> retract
@@ -6401,61 +6413,65 @@
 			* tenable (adj)站得住腳的, (職位)可保持一段時間的  <--> untenable
 			* tenant (n)承租人/房客/佃戶 (v)租借
 			+ /ˈtɛnɪt/ tenet (n)信教/原則 = principle = belief = canon
-			- tenor (n)要點/要旨, [法]抄本/謄本 男高音, 男高音歌手, 次中音樂器
+			- tenor (n)要點/要旨, [法]抄本/謄本, 男高音, 男高音歌手, 次中音樂器
 			++ /ˈtɛnjə/ tenure (n)佔有/使用權, 任期, 終身職位 (v)給..終身職
 
 	tenu 薄 = thin
 		+ attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish, 使變薄 --> attenuation (n)減弱
 		++ extenuate (v)掩飾罪行/減輕罪過 = palliate, 使變瘦 <--> exculpate <--> exonerate --> extenuating (adj)情有可原的
-		+ tenuous (adj)細薄的/纖細的, 不確定的/不明朗的
+		+ tenuous (adj)細薄的/纖細的, 不確定的/不明朗的 <|> tenure
 
 	tend, tent, tense 伸展 = stretch
-		* attend (v)出席, 照料, 陪同, 注意/傾聽 --> attentive (adj)注意的, 體貼的, 彬彬有禮的
-		+++ contend (v)競爭/爭奪 = compete = vie = strive, 聲稱/主張/據理力爭 = assert
-		++ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 --> contentious (adj)有異議的, 好辯的/愛爭吵的 = quarrelsome = bellicose, 有爭議的 = controversial <|> content
-		+ distend (v)(通常指腹部或身體其他部位)鼓起/隆起 = expand = swell out --> distension (n)膨脹
-		+ extend (v)擴大/擴展, 延長/使延期, 伸出/伸開, 延伸/延續, 提供/給予, 包括/適用於
-		* inattentive (adj)不注意的/怠慢的 = distrait
-		+ intense (adj)繃緊的/緊張的 --> intensify (v)加劇
-		- intend (v)想要/打算
-		+ intent (adj)熱切的/渴望的, 專心致志的 (n)目的/意向
-		- intention (n)意圖/意向/目的 --> intentional (adj)存心的/故意的 <-- intend
-		* ostentation (n)炫耀/虛飾/賣弄 --> ostentatious (adj)豪華的, 炫耀的/賣弄的 = pretentious = pompous = showy = flashy
-		+ ostensible, ostensive (adj)表面的/假裝的 = professed = pretended
-		+ ostensibly (adv)表面上
-		++ portent (n)前兆 = omen = sign, 奇事 = marvel = prodigy --> portentous (adj)凶兆的/不祥的 = ominous, 自命不凡的
-		* portend (v)預示 = omen, 表示/意味著 = mean = signify
-		* pretend (v)假裝, 自稱 (adj)假想的 --> pretended (adj)假裝的 = ostensible = professed, 傳說的/號稱的
-		+ pretense (n)假裝 = veil, 矯飾 (n)假裝, 做作
-		+ pretension (n)自命不凡, 藉口, 假裝/做作 --> pretentious (adj)自負的/自命不凡的, 矯飾的/做作的
-		- superintend (v)監督 = supervise
-		- tension (n)拉緊, 繃緊, 張力, 電壓, 緊張, 緊張局勢, 取捨 (v)使拉緊/使繃緊
-
+		*** attend (v)出席, [to]處理, [to]照料, [to]注意, 陪同/護送 = escort, 伴隨 = occur with
+		* attentive (adj)注意的/留意的, 殷勤的/體貼的
+		* inattentive (adj)不注意的, 怠慢的/不殷勤的
+		+++ contend (v)[for]競爭/爭奪 = compete = vie = strive, [with/against]克服, 聲稱/主張 = assert = posit
+		+ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張
+		+ contentious (adj)有異議的, 有爭議的 = controversial, 熱烈的(爭論) <|> content
+		+ distend (v)鼓起/隆起 = expand = swell --> distension (n)膨脹
+		+ extend (v)擴大/擴展/延長, 佔據(空間) = occupy, [to]適用於 = be applicable to, 伸出, 給予/提供 = offer, 使竭盡全力
+		- /ɪkˈstɛndɪd/ extended (adj)擴大的, 延長的
+		+ intense (adj)強烈的/劇烈的 = extreme, 集中的/密集的(活動) = concentrated, 熱情的/熱切的 --> intensify (v)加劇
+		- intend (v)想要/打算 = plan, [be intended for/to]作為/為了
+		+ intent (adj)[on/upon]堅決要做的, 專注的, 熱切的(臉色) (n)目的/意向 = intention = purpose
+		- intention (n)意圖/意向/目的 = aim = plan, 癒合, 意思/含義
+		- intentional (adj)存心的/故意的 = deliberate <-- intend
+		* ostentation (n)炫耀/虛飾/賣弄
+		* ostentatious (adj)炫耀的/賣弄的 = pretentious = pompous = showy = flashy
+		+ ostensible (adj)貌似真實的 = believable = plausible = persuasive
+		+ ostensibly (adv)明顯地
+		+ ostensive (adj)明示的/以實例證示的
+		* portend (v)預示/是..的徵兆 = omen
+		++ portent (n)前兆, 奇人/奇事 = marvel = prodigy
+		++ portentous (adj)凶兆的/不祥的 = ominous, 自大的/裝模作樣的
+		- superintend (v)監督 = oversee = supervise
+		- tension (n)拉緊/繃緊/張力, 電壓, 緊張, 緊張局勢, 取捨 (v)使拉緊/使繃緊
 	
 	tempt 嘗試/探查 = probe, feel, test
-		+ contempt (n)蔑視/鄙視/輕視/輕蔑 = scorn = disdain, 藐視法庭罪, 恥辱/丟臉 = disgrace = opprobrium
-		+ contemptuous (adj)輕蔑的/鄙視的/傲慢的 = scornful = disrespectful
-		* contemptible (adj)可鄙的/卑劣的 = scurvy = mean = sordid = despicable = paltry = wretched = filthy
-		- attempt (n/v)嘗試/努力
-		+ tempt (v)引誘/誘惑 = court = allure = engage, 吸引/打動, 不顧 --> temptation (n)引誘/誘惑/誘惑物
-		* tentative (adj)試驗性的/嘗試的/暫時的, 躊躇的/猶豫的 <-- tempt
+		+ contempt (n)鄙視/輕視 = scorn = disdain, 蔑視, 藐視法庭
+		+ contemptuous (adj)輕蔑的/輕視的/鄙視的 = scornful = disrespectful
+		* contemptible (adj)可鄙的 = despicable = scurvy = mean = sordid = paltry = wretched = filthy
+		- attempt (v)企圖/嘗試 (n)努力 = effort, 謀殺
+		+ tempt (v)引誘/誘惑 = entice = allure = engage, [be tempted to]想要/想做, 說服 = persuade
+		+ temptation (n)誘惑/渴望 = desire, 誘惑物
+		* tentative (adj)暫時的/臨時的 = provisional, 躊躇的/猶豫的 = hesitant <-- tempt
 
 	trude, trus 推/擠/刺/戳 = push, thrust == punct
-		+ abstruse (adj)深奧難懂的 = recondite = profound = esoteric
-		- intrusion (n)闖入
-		- intrusive (adj)闖入的, 
-		- protrusion (n)突出物/隆起
-		- intrude (v)把……強加於, 侵入/闖入 --> intrusive (adj)ㄅㄨ
-		- extrude (v)擠壓出, 逐出
-		+ obtrude (v)強迫, 闖入, 打擾 --> obtrusive (adj)強迫人的, 冒失的/魯莽的, 顯眼的
-		* protrude (v)使伸出/使突出
+		+ abstruse (adj)深奧難懂的 = obscure = recondite = profound = esoteric
+		- extrude (v)擠壓出 = thrust out
+		- intrude (v)侵入/闖入/侵擾
+		- intrusive (adj)打攪的/侵擾的
+		- intrusion (n)侵入, 侵入物
+		* protrude (v)使伸出/使突出 --> protrusion (n)突出物/隆起 = protuberance
+		+ obtrude (v)使過分顯眼, 強迫 = impose = force --> obtrusive (adj)過分顯眼的
+		* thrust -> thrust -> thrust (v)刺/戳/插入/推擠 (n)要點, 猛推/刺
 
 	tail 切 = cut
 		+ curtail (v)減少/縮減 = abridge = reduce = diminish
-		+ detail (v)詳述, 列舉 = specify = list (n)細節 = minute part, 細枝末節/無足輕重的小事
-		+ entail (v)必需/需要
-		- retail (n/v)零售
-		- tailor (n)裁縫
+		+ detail (v)詳細說明, 分派(任務) = assign (n)細節, 瑣事/枝節, 情報/消息, 分遣隊/小組, 任務/差事
+		+ entail (v)使必要/牽涉 = involve, [法]限定繼承
+		- retail (n/v)零售, [at/for]零售價格為, 詳述(故事) (adv)以零售方式/以零售價格 <|> retell
+		- /ˈteɪləd/ tailor (n)裁縫師 (v)裁製, 修改
 
 	tri 三 = three
 		- trilogy (n)三部曲
@@ -6481,7 +6497,7 @@
 		* hypothesis --> hypothetical
 		* synthetic
 		+ synthesis --> synthesize
-		*** thesis (n)論題/命題/論點/論文
+		*** /ˈθiːsɪs/, /ˈθɛsɪs/ thesis (n)論題/論點, 論文 = dissertation = essay
 
 	type 形狀 = morph
 		- archetype
@@ -6566,6 +6582,7 @@
 		++ tortuous (adj)彎彎曲曲的 = twisting = winding, 拐彎抹角的 = roundabout = circuitous = devious
 		+ torque (n)力矩, 項鍊/手鐲/項圈
 		- tornado (n)颶風/龍捲風
+		- /təˈrɛnʃəl/ torrential (adj)傾盆的, 洶湧的
 
 	trit, tribe 摩擦 = rub, wear down
 		- attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
@@ -7058,7 +7075,7 @@
 		- providence (n)天命/天佑, 深謀遠慮
 		- provide (v)提供, 規定, 撫養/贍養, 準備
 		++ provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = ration, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
-		+ provisional (adj)暫時的/臨時的 = temporary <|> provincial
+		+ provisional (adj)暫時的/臨時的 = tentative = temporary <|> provincial
 		- provisory (adj)有附帶條件的 <-- provide
 		+ survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰
 		- surveyor (n)測量員

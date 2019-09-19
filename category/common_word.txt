@@ -532,6 +532,7 @@
 		> This month`s pay cheque will cancel out his debt, but it won·t give him any extra money.
 		> The new tax rates will cancel out any financial benefits to the company.
 	- care
+	- cardboard /ˈkɑːdbɔːd/ (n)硬紙板 (adj)不真實的/不自然的
 	- carry
 	* carcass
 		> 動物屍體 |The dead body of an animal.|
@@ -579,6 +580,9 @@
 	- catch up
 		> 趕上 |Succeed in reaching a person who is ahead of one.| he stopped and waited for Lily to catch up
 		> 趕工 |Do tasks which one should have done earlier.| he normally used the afternoons to catch up on paperwork
+	- catch on
+		- 流行 |(of a practice or fashion) become popular.| the idea of linking pay to performance has caught on
+		- 理解 |understand what is meant or how to do something.| I caught on to what it was the guy was saying
 	- catchy 引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
 	- catch-22 左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
 		> But it is a catch-22 situation - you can`t get people without funding, but you can`t get funding without the people there in the first place.
@@ -779,7 +783,9 @@
 		> 被包租的交通工具 |A ship or vehicle that is hired.| the fifty foot charter Capricorn will join the team
 		> 包租旅行 |A trip made by a ship or vehicle under hire.| he liked to see the boat sparkling clean before each charter
 		> 包租 |Hire (an aircraft or ship)| he immediately chartered a plane to take him to Paris
-	- characteristic == feature == trait
+	- chop up 切碎/剁碎
+		- Meat is often chopped up into cubes before being cooked.
+		- During the second rainy period, the dunes were kind of chopped up at the top, full of hollows and ridges, and these hollows would have captured the rain right there on the top.
 	- captain
 		> |The person in command of a ship.| 
 		> |The pilot in command of a civil aircraft.|
@@ -1398,6 +1404,7 @@
 		> 差動齒輪 |A set of gears allowing a motor vehicle`s driven wheels to revolve at different speeds when going around corners.|
 
 [E]
+	- eat (v)吃 (n)零嘴
 	- -esque 似 == (forming adjectives) in the style of; resembling.
 	- estimate /ˈɛstɪmeɪt/ V
 		> |Roughly calculate or judge the value, number, quantity, or extent of.| the aim is to estimate the effects of macroeconomic policy on the economy
@@ -2527,6 +2534,9 @@
 		> 極佳的 |Very good or impressive.| I had some really lush pressies
 		> 酒鬼 |A heavy drinker, especially a habitual one.| a lush who does not make very much sense most of the time
 		> 向……灌酒 |Make (someone) drunk.| Mr Hobart got so lushed up he was spilling drinks down his shirt
+	- luck out (v)非常幸運
+		- The Giants really lucked out in last night`s game.
+		- My wife lucked out – she left town just before the hurricane hit.
 
 [M]
 	- make up
@@ -5082,6 +5092,7 @@
 	- wash over
 		> 徹底地影響 |to affect or be felt by (someone) thoroughly and deeply| Just close your eyes and let the music wash over you.
 		> 突然表現在臉上 |to appear on (a person`s face) suddenly| A look of surprise washed over his face.
+	+ waste (v)浪費, 處置(多餘的貨物), 瘦削, 毀壞(地方), 殺害/謀殺, (時間)逝去 (adj)廢棄的, 荒廢的 (n)浪費, 廢物/廢料, 荒地
 	+ ward
 		> 病房 |A separate room in a hospital, typically one allocated to a particular type of patient.|
 		> 送..到病房 |Admit (a patient) to a hospital ward.| the last of the accident victims was warded
@@ -5156,6 +5167,8 @@
 		> 巫術 |The art or practice of magic.| Merlin used his powers of wizardry for good’
 		> 魔法 |Great skill in a particular area of activity.| Pless`s wizardry with a bat
 		> 奇妙的裝置 |Very impressive or ingenious technology or devices.| the car is full of hi-tech wizardry
+	- (be) wild for/about sth 對…非常狂熱 == to be very enthusiastic about
+		- I am not wild about Thai food.
 	- warn someone of sth
 		> Stick shakers are designed to warn pilots of an impending stall
 	- work

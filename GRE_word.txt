@@ -464,7 +464,7 @@
     * code (n)法典/法規, 規範/規矩, 密碼/代碼
     + codify (v)編纂(法典、條例等) = systematize <-- code
     ++ cope (v)應付/處理 = deal with, 蓋住(建築) (n)斗篷式長袍/法衣
-    + /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel = constrain --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
+    + /koʊˈərs/ coerce (v)強迫/威逼/脅迫 = force = compel = constrain = obtrude --> coercion (n)強制/強迫, 高壓統治 <|> coalesce
     + coffer (n)保險箱, 資金/金庫 <-- coffin
     + collage (n)拼貼畫 <|> college <|> collate
     + /kəˈrɒləri/ corollary (n)必然的結果, 推論 (adj)推論的, 附屬的/補充的 = associated = supplementary
@@ -1535,6 +1535,7 @@
     ++ /kiːn/ keen (adj)銳利的/尖刻的 = shrewd = piercing = fine, 精明的/敏銳的 = acute = shrewd = astute, 熱烈的 = intense  = ferocious, 熱衷的 = eager = interested = enthusiastic <|> /kɪŋ/ king
     + kindle (v)著火/點燃 = ignite = inflame, 激勵/刺激 = incite = arouse = excite = stir up = inflame = excite = evoke
     + /ˈkɪndrɪd/ kindred (adj)相似的/有關的 = associated = relevant, 有親屬關係的/有血統關係的 <-- kin
+    + /nak/ knack (n)本領, 傾向
     + /nɛl/ knell (n)喪鐘, 破滅的信號/凶兆 (v)鳴喪鐘, 預報凶兆
     + /ˈnɒti/ knotty (adj)有結的/多節的, 複雜難懂的 = involved = intricate = complex = complicated
     + /kaʊˈtaʊ/ kowtow (v)叩首/卑躬屈膝 = grovel
@@ -1943,7 +1944,7 @@
     + /ˈnjuːɑːns/ nuance (n)(意思上的或顏色上的)細微的差別 = a subtle difference or distinction <|> nuisance <-- nu 雲/陰影 = cloud, shade + ance
     ++ /ˈnjuːɡət(ə)ri/ nugatory (adj)無價值的/瑣碎的 = trifling = frivolous = futile = inconsequential = trivial, 無用的 = invalid = futile = vain = ineffective <-- nugae 無聊事
     + nurture (v)養育/培育/教養 = nourish, 給……營養 (n)養育, 營養物/食物, 環境因素
-    ** nutrient (N)滋養物質 --> nutrition (n)營養, 營養學
+    * nutrient (N)滋養物質 --> nutrition (n)營養, 營養學 --> nutritional (adj)營養的
 
     * native (adj)天生的/天然的/自然的, 土著的, 本土的/本國的 (n)本地人/本國人, 原住民
     * naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow --> naivete (n)缺乏經驗或智慧, 天真/天真的行為 <-- native
@@ -2003,7 +2004,7 @@
     + /ˌɒnə(ʊ)matəˈpiːə/ onomatopoeia (n)擬聲/擬聲字
     + onset (n)(壞事)開始 = start = beginning, 攻擊/襲擊 = assault = attak  <|> outset
     * outset (n)最初/開始 = start = beginning
-    ++ /ə(ʊ)ˈpeɪk/ opaque (adj)不透明的/不透光的 = turbid, 暗淡的 = dull = dim = faint = dark, 難理解的/晦澀的 = obscure, 愚鈍的 = stupid = dull = dense = blunt = crass
+    ++ /ə(ʊ)ˈpeɪk/ opaque (adj)不透明的/不透光的 = turbid, 難理解的/晦澀的 = obscure (n)半透明物
     + /ə(ʊ)ˈpʌɪn/ opine (v)想/認為 = say = suggest = imagine --> opinion (n)意見/見解
     + /ˈɒptɪməm/ optimum (adj)最理想的/最佳的 --> optimism (n)樂觀主義者 --> optimistic (adj)樂觀的 = sanguine
     + opulent (adj)富裕的 = wealthy = rich = affluent, 豐富的 = abundant = profuse = plentiful = luxuriant = rife --> opulence (n)奢侈/富麗堂皇, 財富 <|> petulant <-- opul 財富 = wealth + ent
@@ -3104,7 +3105,7 @@
     * tangle (v)使糾纏/使纏住, 使捲入 = entangle, 使混亂 (n)纏結, 紛亂/混亂
     * tap (n)水龍頭, 竊聽器, 塞子, 輕拍/輕敲 (v)竊聽, 鑽, 抽水, 開發/開闢, 輕拍/輕敲
     * tear -> tore -> torn (v)撕 = rend, 撕裂傷 = lacerate, 拉扯, 撕掉 = remove, 奮力去做, 流淚 (n)眼淚, 悲傷 = sorrow --> tearful (adj)流淚的/哭泣的/令人傷心的 = mournful = lachrymose
-    * thaw (v)(冰)融化/融解, 變暖和, 變得隨和 (n)解凍時期, 融洽
+    * /θɔː/ thaw (v)(冰)融化/融解, 變暖和, 變得隨和 (n)解凍時期, 融洽 <--> /θɔːt/ thought 
     * /θɪˈatrɪk(ə)l/ theatrical (adj)劇場的/戲劇的, 戲劇性的/誇張的 <-- theater 
     * theft (n)偷竊/盜竊 = larceny
     * thorn (n)刺/棘 = spine, 惱人的事物
@@ -3114,7 +3115,6 @@
     * /θrɛt/ threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的 
     *** treat (v)對待/看待, 處理, 探討, 治療, 宴請 (n)請客, 難得的樂事 <|> threat
     * treaty (n)條約/協議 <-- tractate
-    * thrust -> thrust -> thrust (v)刺/戳/插入/推擠 (n)要點, 猛推/刺
     * tip (n)頂/尖端/梢/末端, 垃圾場, 小費, 指點/指導, 內幕消息 (v)(使)傾斜/傾倒, 覆蓋…的尖端, 小費
     * tolerate (v)寬容/容忍 = abide, 忍耐/忍受 --> tolerant (adj)寬容的/容忍的, 忍耐的/忍受的 --> tolerance (n)容許量/公差, 容忍/忍受
     * totter (v)踉蹌/蹣跚, 搖晃, 搖搖欲墜
@@ -3260,6 +3260,7 @@
     * urgent (adj)緊急的/急迫的 = exigent
     * /ˈʌʃə/ usher (v)引導/引領 = conduct, 迎接 = introduce, 預報...的到來 = herald (n)接待員/門房
     * /ˈjuːt(ə)rəs/ uterus (n)子宮 --> /ˈjuːtərɪn/ uterine (adj)子宫的
+    * utilitarian (adj)實用的, 功利主義的 (n)功利主義者
     ** ultimate (adj)最後的/最終的, 基本的/根本的 <-- ultim 最後的 = last + mate
     
     ^ ugly (adj)難看的, 可怕的/討厭的/邪惡的/醜陋的

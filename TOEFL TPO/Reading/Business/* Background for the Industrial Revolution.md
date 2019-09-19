@@ -14,9 +14,23 @@ A precursor to the Industrial Revolution was a revolution in agricultural techni
 Much of the increased production was **consumed** by Great Britain's burgeoning population. At the same time, people were moving to the city, partly because of the *enclosure* movement; that is, *the fencing of common fields and pastures*in order to provide more compact, efficient privately held agricultural *parcels* that would produce more goods and greater profits. In the sixteenth century enclosures were usually used for creating sheep pastures, but by the eighteenth century new farming techniques made it advantageous for large landowners to seek enclosures in order to improve agricultural production. Between 1714 and 1820 over 6 million acres of English land were enclosed. As a result, many small, independent farmers were forced to sell out simply because they could not compete. Non-landholding peasants and cottage workers, who worked for wages and grazed cows or pigs on the village common, were also hurt when the common was no longer available. It was such people who began to flock to the cities seeking employment and who found work in the factories that would transform the nation and, the world.
 
 ## Vocab
-- waste
-- eat
-* compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約= agreement = covenant
+- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
++ waste (v)浪費, 處置(多餘的貨物), 瘦削, 毀壞(地方), 殺害/謀殺, (時間)逝去 (adj)廢棄的, 荒廢的 (n)浪費, 廢物/廢料, 荒地
+- eat (v)吃 (n)零嘴
+* compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約 = agreement = covenant
+- ? beginning as far back as the sixteenth century
+- stepped-up (adj)加強的
++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 人工培植
+- cottage (n)小屋/村舍
+- peasant  /ˈpɛz(ə)nt/ (n)農民, 沒教養的人/粗人
+- ? as British markets and opportunities grew, the English quickly learned from them
+- catch on
+	- 流行 |(of a practice or fashion) become popular.| the idea of linking pay to performance has caught on
+	- 理解 |understand what is meant or how to do something.| I caught on to what it was the guy was saying
+- enclosure (n)圈地/圍場, 圍欄/圍牆, 隔離/隱居, 附件
+- enclosure movement 圈地運動(在12到19世紀，在以英國為代表的歐洲出現了所謂的圈地運動，土地所有權集中於國王或取得羅馬教廷承認的皇帝，以及教會，另有少量屬自由民私有。以納稅和提供兵役為條件分封於領主，而後又按各級契約依次分配於總佃戶，佃戶)
+- the fencing of common fields and pastures 将公共耕地和牧场圈起
+- parcel /ˈpɑːs(ə)l/ (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
 
 ## Questions
 1. The word **“potential”** in the passage is closet in meaning to

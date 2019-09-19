@@ -48,6 +48,8 @@
 	- This policy, they say, is at best confused and at worst non-existed.
 	- At best they were effective as antidepressants for no more than four months.
 	- Walpole's art collection was huge and fascinating, and his novel The Castle of Otranto was out of print; none of this mattered to the Victorians, who dismissed him as, at best, insignificant.
+- at (the very) least 至少 
+	- At the very least we have to consider that it was more… it was more of a *mutual* thing
 - at large 普遍地/全體地 == in general == generally
 	- This group is not representative of the population at large.
 
@@ -88,6 +90,9 @@
 	- That rumor has been in circulation for a long time.
 	- coins no longer in circulation
 	- by 1500, after only 45 years of the printed book, there were 9 million in circulation
+- the bowels of ..的最深處 == The deepest inner parts or areas of (something)
+	- the mineshaft descended deep into the bowels of the earth
+	- Lichens helped to speed the decomposition of the hard rock surfaces, preparing a soft bed of soil that was abundantly supplied with minerals that had been carried in the molten rock from the bowels of Earth
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
@@ -176,6 +181,10 @@
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
 	- Thousands of lives will be at stake if emergency aid does not arrive in the city soon.
 	- There was a feeling that there was something bigger than life at stake
+
+## Hesitation
+- if you will/like 如果你願意那樣說的話
+	- I did very well in school , with a "genius IQ" if you will.
 
 ## Experience
 - have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad

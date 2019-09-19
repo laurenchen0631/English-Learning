@@ -29,6 +29,7 @@
 
 [Landscape]
 	- glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
+	- ice sheet 冰蓋，連續的冰川冰覆蓋了50,000 km²以上陸地，因此也稱作大陸冰川。目前僅有的冰原是南極洲與格陵蘭
 	- crevasse /krɪˈvas/ (n)冰河裂縫
 	- basal slip (n)基底滑動
 	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
@@ -41,7 +42,9 @@
 	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
 	- temperate zone 溫帶
 	- tropic 熱帶
-	- tundra /ˈtʌndrə/ 苔原/凍土地帶 == A vast, flat, treeless Arctic region of Europe, Asia, and North America in which the subsoil is permanently frozen.
+	- tundra /ˈtʌndrə/ (n)苔原/凍土地帶 
+	- permafrost (n)永凍土層
+	- snowdrift (n)被風刮在一起的雪堆
 	- landmass 整塊陸地/大陸 == land mass == A continent or other large body of land.
 	- expanse /ɪkˈspans/ <--> expense /ɪkˈspɛns/
 		> 廣袤的地區 |A wide continuous area of something.| the green expanse of the forest
@@ -51,7 +54,7 @@
 	- fjord /fjɔːd/ 峽灣
 	- floodplain 氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
 	- alluvial fan (n)沖積扇，山地河流出口處的堆積地貌
-	- silt (n)泥沙/淤泥
+	- silt /sɪlt/ (n)泥沙/淤泥 <--> salt /sɔːlt/ 
 	- delta (n)希臘語的第四個字母, 代表D的符號, 差值, 河口三角洲
 	- tributary (n)支流, 進貢國/附庸國
 	- distributary (n)支流
@@ -64,10 +67,11 @@
 		> |player|
 	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
 	- strait (n)海峽, 困境/危難 (adj)嚴峻的
-	- dune /djuːn/ 沙丘 == A mound or ridge of sand or other loose sediment formed by the wind, especially on the sea coast or in a desert.
 	- timberline == treeline (n)樹帶界線
-	- ridge (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
-	* mountain range 山脈
+	- dune /djuːn/ (n)沙丘
+	- ridge /rɪdʒ/ (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
+	- butte /bjuːt/ (n)孤山/孤峰
+	* mountain range (n)山脈
 	- mound /maʊnd/
 		> 土石堆 |A rounded mass projecting above a surface.| the bushes were little more than vague mounds beneath the snow
 		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
@@ -81,7 +85,7 @@
 	- isle /ʌɪl/ (n)小島
 	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
 	- landlocked (adj)為陸地所包圍的, 內陸的, 內陸水域的(魚)
-	- permafrost (n)永凍土層
+	+ pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
 	
 [Weather]
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
@@ -100,11 +104,20 @@
 
 [Geology]
 	- topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
-	- convergent boundary 聚合板塊邊緣
-	- magma /ˈmaɡmə/ 岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
+	- convergent boundary  (n)聚合板塊邊緣
+	- continent crust  (n)大陸地殼 <--> oceanic crust 海洋地殼
+	- crustal plate  (n)地殼板塊
+	- continental shelf (n)大陸棚
+	- isostatic uplift (n)地殼抬升
+	- isostatic (adj)地殼均衡的
+	- tectonic movement (n)板塊移動
+	- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
+	- ocean floor = seabed 海床
+
+	- magma /ˈmaɡmə/ (n)岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
 	+ mantle /ˈmant(ə)l/  (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋
-	- lithosphere 岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
-	- asthenosphere /əsˈθɛnəsfɪə/ 軟流圈，位於岩石圈的下面、中間圈的上面
+	- lithosphere  (n)岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
+	- asthenosphere /əsˈθɛnəsfɪə/ (n)軟流圈，位於岩石圈的下面、中間圈的上面
 	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
 	- sediment /ˈsɛdɪm(ə)nt/  --> sedimentary
 		> 沈積/沈澱 |Matter that settles to the bottom of a liquid; dregs.| the ice freezes the wine and sediment at the base of the cork
@@ -112,14 +125,12 @@
 		> 沈積物 |Particulate matter that is carried by water or wind and deposited on the surface of the land or the seabed, and may in time become consolidated into rock.| there is a huge concentration of sediment in deltas
 	- anticline 背斜層 == A ridge or fold of stratified rock in which the strata slope downwards from the crest.
 	- geostationary 與地球同步旋轉的
-	- ocean floor = seabed 海床
+	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
+	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
+
 	- undertow
 		> 深層逆流/退浪/回頭浪 |A current of water below the surface and moving in a different direction from any surface current.|
 		> 暗流 |An implicit quality, emotion, or influence underlying the superficial aspects of something and leaving a particular impression| there is a dark undertow of loss that links the novel with earlier works
-	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
-	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
-	- continent crust 大陸地殼 <--> oceanic crust 海洋地殼
-	- crustal plate 地殼板塊
 	- pulverization 粉碎
 	- salinization 鹽土化作用
 	- water table 地下水位
@@ -129,10 +140,6 @@
 	- brine (n)濃鹽水, 海水, 鹵水 (v)用濃鹽水浸泡
 	- faulting (n)斷層化
 	- basal slip/sliding /ˈbeɪs(ə)l/ (n)冰川基底滑動
-	- isostatic uplift (n)地殼抬升
-	- isostatic (adj)地殼均衡的
-	- tectonic movement (n)板塊移動
-	- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
 
 [Ore]
 	- ore /ɔː/ (n)礦
@@ -164,7 +171,7 @@
 	- boulder (n)巨石
 	- cobble (n)鵝卵石
 	- bedrock (n)基岩, 基礎
-	- limestone (n)石灰岩
+	- limestone /ˈlʌɪmstəʊn/ (n)石灰岩
 	- granule (n)細粒
 	- gypsum (n)石膏
 	- pumice stone (n)浮石/輕石(用來摩擦物體使其光滑)
