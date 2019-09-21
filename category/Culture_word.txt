@@ -75,15 +75,18 @@
 	- Great Britain 大不列顛島
 	+ Britain /ˈbrɪt(ə)n/ 大不列顛島 == The island containing England, Wales, and Scotland.
 	- Scotland 蘇格蘭，大不列顛及北愛爾蘭聯合王國下屬的構成國之一，位於大不列顛島北部，英格蘭之北，被大西洋環繞包圍
-	+ Spaniard 西班牙人 == A native or inhabitant of Spain
-	+ Spanish 西班牙
+	+ Spaniard (n)西班牙人 == A native or inhabitant of Spain
+	+ Spanish (adj)西班牙的/西班牙人的/西班牙語的 (n)西班牙人, 西班牙語
 	- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
 	- Estonia /ɪˈstəʊnɪə/ 愛沙尼亞，波羅的海國家之一。 愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成
 	- Maltese (adj)馬爾他的/馬爾他人的 (n)馬爾他人, 馬爾他語 (馬爾他島是地中海的一個小島，位於義大利西西里島南方約93公里處)
 	- Ukraine 烏克蘭 --> Ukrainian /juːˈkreɪnɪən/ (n)烏克蘭人/烏克蘭語 (adj)烏克蘭的/烏克蘭人的/烏克蘭語的
 	- Romanian (n)羅馬尼亞人, 羅馬尼亞語 (adj)羅馬尼亞的/羅馬尼亞人的, 羅馬尼亞語
-	- Chechnya /ˌtʃɛtʃˈnjɑː/ 車臣共和國，是俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
 	+ Portugal /ˈpɔːtjʊɡ(ə)l/ (n)葡萄牙 --> Portuguese /ˌpɔːtjʊˈɡiːz/ (adj)葡萄牙的/葡萄牙人的/葡萄牙語的 (n)葡萄牙人/葡萄牙語
+	- Baltic (adj)波羅的海的, 波羅的海語系的 (n)波羅的海/波羅的海諸國, 波羅的海語系
+	- Hungary (n)匈牙利 --> Hungarian (adj)匈牙利的/匈牙利人的/匈牙利語的 (n)匈牙利人, 匈牙利語 
+
+	- Chechnya /ˌtʃɛtʃˈnjɑː/ 車臣共和國，是俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
 
 	- Chad (n)查德，是非洲中部的一個內陸國家
 	- Uganda (n)烏干達，是位於東非的內陸國家
@@ -92,6 +95,7 @@
 	- Nigeria (n)奈及利亞，是西非國家，位於非洲的幾內亞灣西岸頂點，全非洲人口最多的國家，全世界人口第七多的國家
 	- Ghana (n)迦納，是非洲西部的國家，首都阿克拉
 	- Mali (n)馬利，是位於西非的內陸國家，是西非面積第二大的國家，馬利過去也被稱為法屬蘇丹，它的名字來源於馬利帝國
+	- Peru (n)秘魯 --> Peruvian (adj)秘魯的/秘魯人的, 祕魯人s
 
 [Europe POI]
 	- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
@@ -127,6 +131,8 @@
 	- Latium 拉丁姆，是義大利中西部的區域，在那裡羅馬城建立並擴展至羅馬帝國首都。這裡的居民在羅馬王國被建立前使用的語言，即為拉丁文的前身。
 	- Lisbon (n)里斯本，亦稱為葡京，是葡萄牙共和國的首都和最大都市
 	- Venice /ˈvɛnɪs/ (n)威尼斯
+	- Flanders (n)法蘭德斯，是比利時西部的一個地區
+	- Delft (n)代爾夫特，是荷蘭南荷蘭省的一個城市，地處海牙和鹿特丹之間，也被稱為知識之城
 
 	- Maadi 馬底，是一個開羅南部的富裕的、多綠葉的郊區，在開羅市中心的沿尼羅河向上游12公里的東岸
 	- Sahara (n)撒哈拉沙漠，其總面積超過9,400,000平方公里，與美國國土面積相當。撒哈拉沙漠東至紅海，西至大西洋，南部邊界則為薩赫勒，包括撒哈拉以南非洲中部和西部的北端地區
@@ -182,6 +188,7 @@
 	- New Caledonia 新喀里多尼亞，位於南回歸線附近，是法國在大洋洲西南部的一個特別集體，作爲法國的海外屬地之一
 	- Brazil /brəˈzɪl/ (n)巴西, 巴西胡桃 --> Brazilian (adj)巴西的 (n)巴西人
 
+	- Antarctica /antˈɑːktɪkə/ (n)南極洲
 
 [Americas POI]
 	- Acadia /əˈkeɪdɪə/ 阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
@@ -241,9 +248,11 @@
 	- United States Gulf Coast 美國墨西哥灣沿岸地區
 	- the Strait of Gibraltar 直布羅陀海峽
 	- Minneapolis (n)明尼亞波里斯，美國明尼蘇達州最大的城市，該州東南部亨內平郡的郡治
+
 	- Rio de Janeiro (n)里約熱內盧，是位於巴西東南部的城市，為里約熱內盧州首府，同時是巴西第二大城，僅次於聖保羅
 	- Newfoundland (n)紐芬蘭，是加拿大的十個省之一
 	- Mesoamerica (n)中部美洲，一個歷史上的地區和文化區，地理上位於北美洲
+	- the Andes Mountains (n)安地斯山脈，是陸地上最長的山脈，位於南美洲的西岸
 
 [World]
 	- Afrikaans 南非語
@@ -293,7 +302,6 @@
 	- Nordic (adj)北歐國家的 (n)北歐人 == Relating to or denoting Scandinavia, Finland, and Iceland.
 	- North Central Africa
 	- Persia 波斯 --> Persian 
-	- Peru 秘魯
 	- Piacenza 皮亞琴察是義大利北部艾米利亞-羅馬涅地區的一座城市
 	- Roman 羅馬人/羅馬的
 	- Rome 羅馬

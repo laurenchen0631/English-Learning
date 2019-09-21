@@ -19,13 +19,14 @@
 	- Cretaceous /krɪˈteɪʃəs/ (n)白堊紀(約1.45億年前到0.65億年前，中生代的最後一個紀，長達8000萬年，是顯生宙的最長一個階段)
 	- Cenozoic /ˌsiːnəˈzəʊɪk/ (n)新生代
 	- Pleistocene /ˈplʌɪstəsiːn/ 更新世，亦稱洪積世，時間自2,588,000年前到11,700年前，為地質時代中新生代第四紀的早期
+	- Holocene (n)全新世，是最年輕的地質年代，從11700年前開始，根據傳統的地質學觀點，全新世一直持續至今
 	- the glacier maximum (n)巔冰期/冰盛期，是指末次冰期中氣候最為寒冷、冰川規模達到最大的時期
-	- the Bering Land Bridge == Beringia 白令陸橋，位於白令海，伸延至極限時長達1600公里
-	- Laurentide 勞倫太德冰蓋，一塊巨大的冰層，覆蓋了數百萬平方公里，包括加拿大大部分地區和美國北部的大部分地區
-	- Cordilleran 科迪勒拉冰蓋，在過去約260萬年的冰川期間定期覆蓋北美大部分地區
+	- the Bering Land Bridge == Beringia (n)白令陸橋，位於白令海，伸延至極限時長達1600公里
+	- Laurentide (n)勞倫太德冰蓋，一塊巨大的冰層，覆蓋了數百萬平方公里，包括加拿大大部分地區和美國北部的大部分地區
+	- Cordilleran (n)科迪勒拉冰蓋，在過去約260萬年的冰川期間定期覆蓋北美大部分地區
 	- tablet (n)刻寫板, 平板電腦, 便箋
-	- drill cores 岩芯鑽頭的挖掘物 == The long cylinder of material obtained by use of a core drill
-	
+	- drill core (n)岩芯鑽頭的挖掘物 == The long cylinder of material obtained by use of a core drill
+	- ice core (n)冰芯，通常從冰蓋或高山冰川中移除的岩心樣品
 
 [Celebrity]
 	- Charles Darwin 查爾斯·羅伯特·達爾文，英國地理學家、生物學家，其最著名的研究成果是演化論

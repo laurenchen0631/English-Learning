@@ -618,7 +618,7 @@
 	- meatpacking == The business of preparing and packing meat for transportation and sale.
 	- irrigate (n)灌溉 == Supply water to (land or crops) to help growth, typically by means of channels.
 	- slash-and-burn (n)刀耕火種法
-	- squash
+	- squash (v)壓扁, 擠入, 壓抑, 拒絕 (n)壓扁, 聚會, 西葫蘆/南瓜
 		> 壓扁 |Crush or squeeze (something) with force so that it becomes flat, soft, or out of shape.| wash and squash the cans before depositing them
 		> 擠入 |Make one`s way into a small or restricted space.| I squashed into the middle of the crowd
 		> |A state of being squeezed or forced into a small or restricted space.| it was a bit of a squash but he didn`t seem to mind
@@ -631,6 +631,7 @@
 	- sickle (n)鐮刀 == A short-handled farming tool with a semicircular blade
 	- pest (n)害蟲, 討厭的人/麻煩精
 	- enclosure movement (n)圈地運動(在12到19世紀，在以英國為代表的歐洲出現了所謂的圈地運動，土地所有權集中於國王或取得羅馬教廷承認的皇帝，以及教會，另有少量屬自由民私有。以納稅和提供兵役為條件分封於領主，而後又按各級契約依次分配於總佃戶，佃戶)
+	- crop failure (n)作物歉收
 
 [Cook/Food]
 	- Worcestershire sauce (n)伍斯特醬
@@ -725,7 +726,8 @@
 	- gluten /ˈɡluːt(ə)n/ (n)麩質 == A mixture of two proteins present in cereal grains, especially wheat, which is responsible for the elastic texture of dough.
 	- caviar (n)魚子醬
 	- surf-and-turf == surf 'n' turf (n)海陸雙拼 == a main course combining seafood and red meat.
-	- potato-chip bag 袋裝洋芋片
+	- potato-chip bag (n)袋裝洋芋片
+	- goulash /ˈɡuːlaʃ/ (n)匈牙利湯
 
 [Medicine]
 	- medical
@@ -867,6 +869,7 @@
 		> |A junction between the sclerites of an insect·s body.|
 		> |A line of junction formed by two crustal plates which have collided|
 	- infantile amnesia 嬰兒經驗失憶
+	- vitamin /ˈvɪtəmɪn/ (n)維他命/維生素
 
 [Disease/Hurt]
 	- acrania 無顱畸形
@@ -1042,6 +1045,7 @@
 		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 	- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
 	- epistle (n)書信, 使徒書信
+	- lyrical (adj)抒情的, 歌詞的 
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -1206,7 +1210,10 @@
 		> |Put a nappy on (a baby).|
 		> 花紋織物 |A linen or cotton fabric woven in a repeating pattern of small diamonds.|
 		> |Decorate (a surface) with a repeating geometrical or floral pattern.|
-	- denim 牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
+	- denim (n)牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
+	- linen (n)亞麻布, 亞麻布製品
+	- Lycra 氨綸，俗稱萊卡，是一種彈力纖維
+	- spandex 氨綸 == Lycra == A type of stretchy polyurethane fabric.
 	- onesie /ˈwʌnzi/ 連身衣
 	- pacifier 奶嘴
 	- fedora 男士軟呢帽 == A low, soft felt hat with a curled brim and the crown creased lengthways.
@@ -1229,8 +1236,6 @@
 		> 纏頭巾 |A man`s head covering consisting of a long length of material wound around a cap or the head, worn especially by Sikhs and Muslims.|
 		> 角蠑螺 |turban shell|
 	- boiler suit 連衫褲工作服
-	- Lycra 氨綸，俗稱萊卡，是一種彈力纖維
-	- spandex 氨綸 == Lycra == A type of stretchy polyurethane fabric.
 	- crop top 露臍裝 == a piece of clothing for a woman`s top half that does not cover her stomach
 	- cape
 		> 披肩|A sleeveless cloak, typically a short one.| he was wearing a flowing cape
@@ -1265,6 +1270,16 @@
 	- eyelash extension 接睫毛
  
 [Art]
+	+ ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
+	- porcelain (mn)瓷 = china, 瓷器 (n)瓷器
+	- earthenware (n)陶器/土器
+	* /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 
+	- glaze (v)給……裝玻璃/用玻璃覆蓋, 給…上釉/給…上光, 給(食物)表面澆糖汁, 使(眼睛)變呆滯 (n)光滑的表層, 釉, 糖汁, 翳
+
+	- neoclassical 新古典主義的
+	- romanticism 浪漫主義
+	- Transcendentalism 超越主義/超越論，也稱作「新英格蘭超越主義」或「美國文藝復興」，是美國的一種文學和哲學運動。超驗主義強調人與上帝間的直接交流和人性中的神性，具有強烈的批判精神。其社會目標是建立一個道德完滿的烏托邦式理想社會，其精神成為美國文化中一個重要遺產。
+
 	- the Mona Lisa
 	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
 	- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
@@ -1273,17 +1288,14 @@
 	- formalism 
 		> 過於拘泥的行為或態度 |Excessive adherence to prescribed forms.|  academic dryness and formalism
 		> 形式主義 |A description of something in formal mathematical or logical terms.| there is a formalism which expresses the idea of superposition
-	- neoclassical 新古典主義的
-	- romanticism 浪漫主義
-	- Transcendentalism 超越主義/超越論，也稱作「新英格蘭超越主義」或「美國文藝復興」，是美國的一種文學和哲學運動。超驗主義強調人與上帝間的直接交流和人性中的神性，具有強烈的批判精神。其社會目標是建立一個道德完滿的烏托邦式理想社會，其精神成為美國文化中一個重要遺產。
+	- Dadaist (adj)達達主義的 (n)達達主義者
+
 	- Renaissance /rɪˈneɪsɑ:ns/ 文藝復興 
 	- distemper
 		> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
 		> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
 		> 膠畫法 |A method of mural and poster painting using distemper.|
 		> |Paint with distemper.|
-	- Dadaist (adj)達達主義的 (n)達達主義者
-	+ ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
 	- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.
 	- pastel /ˈpast(ə)l/ 
 		> 粉蠟筆 |A crayon made of powdered pigments bound with gum or resin.| future issues will demonstrate work with pastels and marker pens
@@ -1586,7 +1598,9 @@
 	- bulletin board /ˈbʊlɪtɪn bɔːd/ 佈告欄
 	- administration office 管理辦公室
 	- meme /miːm/ (n)迷因(文化資訊傳承時的單位) <--> mean
-	- land-grant universities 贈地大學，是指由美國國會在1862年和1890通過的莫里爾法案 (Morrill Acts)，又稱土地撥贈法案，因而獲得國會資助的美國高等教育機構。
+	- land-grant universities (n)贈地大學，是指由美國國會在1862年和1890通過的莫里爾法案 (Morrill Acts)，又稱土地撥贈法案，因而獲得國會資助的美國高等教育機構。
+	- civil service examination (n))公務員考試
+	* syllabus /ˈsɪləbəs/ (n)教學大綱/課程大綱
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision

@@ -148,6 +148,10 @@
 ## Talk
 - drive/hammer sth home 把…講清楚/使人完全明白 == to say something clearly and with a lot of force so that you are certain people understand it
 	- She really drove home the message that we need to economize.
+- word gets around 迅速傳開 
+	- "I hear you were having drinks with a tall, dark, handsome man last night." "Wow, word gets around fast, doesn't it?"
+	- She doesn't want word getting around the office that she's pregnant.
+
 
 ## Act
 - a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
@@ -199,6 +203,10 @@
 	-  a well-thought-out system for traffic control
 - with sth in mind 對..有所計畫 == to have a plan or intention
 	- Did you have anything in mind for Helen`s present?
+
+## Status
+- in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
+	- The project is in full gear now that we have Sally on board.
 
 ## Job/Task
 + walk of life 各行各業/各個社會階層

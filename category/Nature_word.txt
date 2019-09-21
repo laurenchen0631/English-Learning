@@ -152,6 +152,7 @@
 	- plover /ˈplʌvə/ (n)鴴(一種短尾長腿鳥，主要棲息於海邊或草地)
 	- warbler (n)刺嘴鶯/鶯
 	- blackcap (n)黑頭鶯 = blackcap warbler
+	- crane (n)鶴, 起重機/吊車 (v)伸(頸), 用起重機起吊
 
 	+ fledgling /ˈflɛdʒlɪŋ/ (n)剛會飛的幼鳥, 無經驗的人 (adj)缺乏經驗的
 	- preen (v)用喙整理, 精心打扮, [oneself]洋洋自得
@@ -182,9 +183,12 @@
 	- bottlenose dolphin (n)寬吻海豚屬
 	- humpback (n)座頭鯨
 	- beluga whale (n)白鯨
+	- sperm whales (n)抹香鯨，是世界上最大的齒鯨
+	- baleen whales /bəˈliːn/ (n)鬚鯨
 	- blowhole (n)鯨魚噴水孔
 	- porpoise (n)江豚
-	- Ambulocetus natans (n)走鯨
+	- Ambulocetus /ˌambjʊlə(ʊ)ˈsiːtəs/ == Ambulocetus natans (n)走鯨
+	- Basilosaurus /ˌbasɪlə(ʊ)ˈsɔːrəs/ (n)龍王鯨
 	- cetacean (n)鯨類動物 (adj)鯨類的
 	+ fluke 鯨魚尾鰭
 	- coral-reef (n)珊瑚礁
@@ -243,6 +247,7 @@
 	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
 	- greenery (n)綠色植物 == Green foliage, growing plants, or vegetation.
 	- angiosperm (n)被子植物(又名開花植物或有花植物)
+	- nightshade (n)茄屬植物
 
 	- bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
 	- hemlock (n)毒芹, 鐵杉
@@ -279,17 +284,19 @@
 	- leafy green (n)綠葉蔬菜
 	- arugula (n)芝麻菜
 	- cinnamon /ˈsɪnəmən/ (n)肉桂/肉桂樹
+	- pomegranate /ˈpɒmɪɡranɪt/ (n)石榴, 石榴樹
 	- bok choy (n)小白菜
 	- butterhead lettuce (n)結球萵苣
 	- kale (n)羽衣甘藍
 	- romaine (n)蘿蔓萵苣
-	- pomegranate (n)石榴 == An orange-sized fruit with a tough reddish outer skin and sweet red gelatinous flesh 
 	- citrus /ˈsɪtrəs/ (n)柑橘
 	- lettuce /ˈlɛtɪs/ (n)萵苣
 	- cereal /ˈsɪərɪəl/ (n)穀類植物, 穀類食物/麥片
-	- rye(n)裸麥/黑麥
+	- wheat /wiːt/ (n)小麥 <--> /wɪt/ wit
+	- rye /rʌɪ/ (n)裸麥/黑麥,  裸麥威士忌, 裸麥麵包
 	- oat (n)燕麥, 麥稈
 	- barley (n)大麥
+	- maize /meɪz/ (n)玉米
 	- mustard (n)芥末/芥子, 芥菜, 棕黃色
 	- zucchini /zʊˈkiːni/ 西葫蘆
 	- broccoli /ˈbrɒkəli/ 西蘭花/花椰菜
@@ -307,6 +314,8 @@
 	- taro /ˈtɑːrəʊ/ (n)芋
 	- sugarcane (n)甘蔗
 	- dandelion /ˈdandɪlʌɪən/ (n)蒲公英
+	- mandrake /ˈmandreɪk/ (n)曼陀羅草
+	- belladonna /ˌbɛləˈdɒnə/ (n)顛茄，全株有毒，特別是根部和根莖毒性最強。葉片表面會出油狀液體，接觸皮膚會引起過敏，嚴重導致潰瘍
 
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
 	- nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液

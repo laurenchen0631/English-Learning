@@ -29,7 +29,8 @@
 
 [Landscape]
 	- glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
-	- ice sheet 冰蓋，連續的冰川冰覆蓋了50,000 km²以上陸地，因此也稱作大陸冰川。目前僅有的冰原是南極洲與格陵蘭
+	- ice sheet (n)冰蓋，連續的冰川冰覆蓋了50,000 km²以上陸地，因此也稱作大陸冰川。目前僅有的冰原是南極洲與格陵蘭
+	- ice cap (n)冰帽，一塊巨型的圓頂狀冰，覆蓋少於50000km²的陸地面積
 	- crevasse /krɪˈvas/ (n)冰河裂縫
 	- basal slip (n)基底滑動
 	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
@@ -62,10 +63,11 @@
 	- point bar (n)河曲沙洲
 	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
 	* /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
+	- fen (n)沼地/沼澤, [中國貨幣]一分
 	- playa
 		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
 		> |player|
-	- isthmus /ˈɪsθməs/ 地峽 == A narrow strip of land with sea on either side, forming a link between two larger areas of land.
+	- isthmus /ˈɪsθməs/ (n)地峽
 	- strait (n)海峽, 困境/危難 (adj)嚴峻的
 	- timberline == treeline (n)樹帶界線
 	- dune /djuːn/ (n)沙丘
@@ -176,6 +178,7 @@
 	- gypsum (n)石膏
 	- pumice stone (n)浮石/輕石(用來摩擦物體使其光滑)
 	- pumice /ˈpʌmɪs/ (n)浮岩(火山石，是一種多孔的火山碎屑岩), 浮石/輕石 (v)用輕石磨
+	- calcite /ˈkalsʌɪt/ (mn)方解石
 
 [Ocean]
 	- the Pacific Ocean

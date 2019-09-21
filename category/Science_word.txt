@@ -7,6 +7,7 @@
 	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
 	- are 公畝 == 100 square meters == 119.6 square yards
 	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+	- acre /ˈeɪkə/(n)英畝 == 0.405 hectare
 	- degree Celsius /ˈsɛlsɪəs/  == °C
 	- dozen == twelve
 	+ millennium == A period of a thousand years
@@ -89,6 +90,7 @@
 	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
 	- proton ˈprəʊtɒn/ (n)質子
 	- molecule /ˈmɒlɪkjuːl/ (n)分子
+	- molecular /məˈlɛkjʊlə/ (adj)分子的
 	- cation /ˈkatʌɪən/ (n)陽離子
 	- ion /ˈʌɪən/ (n)離子
 	- noble gases 高貴氣體 == inert gases 惰性氣體
@@ -198,14 +200,8 @@
 		> 大地測量學的 |geodetic|
 		> 測地線 |A geodesic line or structure.|
 
-[Human]
+[Body]
 	- protractor (n)量角器, 伸肌
-	- spine
-		> 脊椎 |backbone|
-		> |The central feature or main source of strength of something.| players of high quality who will form the spine of our side
-		> 書脊 |The part of a book`s jacket or cover that encloses the inner edges of the pages, facing outwards when the book is on a shelf and typically bearing the title and the author`s name.| 
-		> |A tall mass of viscous lava extruded from a volcano.| 
-		> 刺/針 |Any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish`s fin, or a spike on the stem of a plant.|
 	- visceral
 		> 內臟的 |Relating to the viscera.| the visceral nervous system
 		> |Relating to deep inward feelings rather than to the intellect.|
@@ -214,6 +210,10 @@
 	- umbilical cord 臍帶
 	- masseter muscle 咬肌/咀嚼
 	- zygomatic arch 顴骨弓
+	- skull /skʌl/ (n)頭骨, [非]腦袋 (v)[非]撞到頭
+	- skeletal (adj)骨骼的, 骨瘦如柴的 = emaciated, 輪廓的/大概的
+	- skeleton (n)骨骼, 骨瘦如柴的人或動物, 遺骸, 概略/大綱
+	- pelvis /ˈpɛlvɪs/ (n)骨盆, 腎盂(腎臟內側的漏斗狀空腔) = renal pelvis
 	- bicep 二頭肌
 	- womb 子宮 = uterus
 	- eyelash 睫毛

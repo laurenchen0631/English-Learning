@@ -426,6 +426,7 @@
     + caucus (n/)政黨高層會議/幹部會議 <|> cactus
     + cautious (adj)謹慎的/小心的 = chary = canny = prudent = wary
     ++ /sɪˈlɛstɪəl/ celestial (adj)天體的/天空的, 精妙的/極佳的 = sublime = ethereal <-- celest 天空 = heaven, sky
+    + ceramic (adj)陶器的, 陶製的 (n)陶器 (mn)製陶藝術, 陶/陶器的原料, 加熱後變硬的物質
     + /ʃəˈɡrɪn/ chagrin (n/v)因失望或屈辱而懊惱 = vex by disappointment or humiliation
     + champion (v)支持/擁護/為...而戰 = support = advocate (adj)優秀的/第一流的 = excellent (n)冠軍, 捍衛者/鬥士
     + chaotic (adj)混亂的/無秩序的 = disordered = confused
@@ -1807,6 +1808,7 @@
     *** moral (adj)道德上的/品性端正的 = ethic, 教訓的, 精神上的/心理上的 (n)寓意, 道德/品行/風紀 --> /məˈralɪti/ morality (n)道德/倫理, 道德規範, 道德程度
     * /ˈmɔrsəl/ morsel (n)(食物)一口/一片, 少量/一點點 <-- morse 咬 = bite + l
     * mote (n)塵埃/微粒 <|> dote <|> rote
+    * motif (n)基本圖案/基調, 主題/中心思想
     * /ˈmɒt(ə)l/ mottle (v)使呈雜色 (n)雜色/斑駁 <|> /ˈmɒd(ə)l/ model --> mottled (adj)雜色的/斑駁的
     *** /mɔːn/ mourn (v)哀痛/哀悼 = deplore = wail --> mournful (adj)哀傷的 = sorrowful = lachrymose = tearful = rueful, 憂鬱的 = gloomy = somber = dreary = morose = dismal = lugubrious = saturnine
         
@@ -1910,7 +1912,6 @@
     ^ minaret (n)清真寺的尖塔
     ^ mosquito (n)蚊子
     ^ malaria (n)瘧疾, 汙濁的空氣
-    ^ motif (n)主題/中心思想/主旨/動機
     ^ motto (n)座右銘/箴言 = maxim
     ^ mountainous (adj)多山的, 巨大的
     ^ movement (n)樂章, 移動/運動
@@ -2644,7 +2645,8 @@
     + stupor (n)昏迷/不省人事 --> stupefy (v)使麻木 = numb, 使驚呆/使驚愕 = startle = astound = astonish <-- stupe 震驚 + fy
     + /ˈstɪdʒɪən/ stygian (adj)冥河的/地獄的 = hellish, 陰沉的/陰暗的 = gloomy = dark = murky = obscure <-- Styx [希神]冥河
     + /ˈstʌɪmi/ stymie (v)阻撓/妨礙 = hinder = block = thwart
-    +++ subtle (adj)難以察覺的/隱約的 = delicate = obscure = elusive, 敏銳的/有洞察力的 = perceptive = refined = acute, 精湛的 = expert, 製作精巧的 = ingenious, 詭計多端的/狡詐的 = crafty = artful = wily = cunning = machiavellian --> subtlety (n)纖細/微妙/細微/精細
+    +++ /ˈsʌt(ə)l/ subtle (adj)難以察覺的/隱約的 = delicate = obscure = elusive, 敏銳的/有洞察力的 = perceptive = refined = acute, 精湛的 = expert, 製作精巧的 = ingenious, 詭計多端的/狡詐的 = crafty = artful = wily = cunning = machiavellian --> subtlety (n)纖細/微妙/細微/精細
+    +++ /ˈsɛt(ə)l/ settle (v)解決/協定, 結束(法律糾紛), 決定 = determine, 勉強接受, 付, 安頓, 居住, 移居, [down to]轉移注意力到, 鎮定/平息, 使閉嘴, 坐下/休息, 使舒服, 安放/安置, (雪)落下, 沈澱/沈 (n)長椅 <--> /ˈsʌt(ə)l/  subtle 
     + suffrage (n)投票 = vote, 投票權 = franchise
     +++ sullen (adj)鬱鬱寡歡的/憂鬱的 = gloomy = morose = dismal = dreary, 陰沉的/暗的 = dismal = dreary = gloomy = surly
     + sully (v)弄髒/玷污/敗壞 = stain = taint = tarnish = defile = smear <|> sullen
@@ -2746,6 +2748,7 @@
     * swagger (v)大搖大擺地走/神氣活現 = panache (n)大搖大擺的行走姿勢/趾高氣揚 = strut
     * swamp (n)沼澤 (v)淹沒, 進水沉沒, 壓倒 = inundate
     * swell -> swelled -> swollen (v)腫脹/膨脹 = balloon = bloat = bulge = strut (n)波濤起伏, 音量的增大 (adj/adv)極好
+    * syllabus /ˈsɪləbəs/ (n)教學大綱/課程大綱
     * syrupy (adj)似蜜糖的/糖漿狀的 = viscid
     * systematize (v)使系統化/使條理化 = codify
     
@@ -3015,7 +3018,6 @@
     ^ swing (v)搖擺, 旋轉 (n)鞦韆
     ^ swirl (v)旋轉 (n)漩渦 <-- whirl
     ^ swoon (n/v)昏倒 (v)狂喜/心醉神迷
-    ^ syllabus (n)教學綱要
 
     ^ salvo (n)(槍砲或禮砲)齊射 = barrage = fusillade, 一陣/一片(巨大的聲響), 演講的開場
     ^ scenery (n)風景/景色, 舞台背景 = background
