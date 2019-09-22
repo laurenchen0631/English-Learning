@@ -1,3 +1,4 @@
+## [B](https://img.kmf.com/toefl/listening/audio/cb69ae68c2ee1076df3357888ec27f85.mp3)
 
 NARRATOR: Listen to part of a lecture in a geology class.
 
@@ -18,8 +19,8 @@ There are a few pretty exciting possibilities for Uranium-Lead Dating. Here is o
 * flatten out 弄平/扁平化
 * Appalachian Mountains /ˌapəˌleɪ(t)ʃ(ə)n ˈmaʊntənz/ 阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
 * up to a point 在一定程度上 == partly, or to a limited degree
-	> Of course there is some truth in all this, but only up to a point.
-	> The new traffic system worked up to a point, but it had its problems.
+	- Of course there is some truth in all this, but only up to a point.
+	- The new traffic system worked up to a point, but it had its problems.
 * Zircon /ˈzəːk(ə)n/ 鋯石
 * Uranium /jʊˈreɪnɪəm/ 鈾
 * Lead /lɛd/ 鉛
@@ -39,9 +40,9 @@ There are a few pretty exciting possibilities for Uranium-Lead Dating. Here is o
 	1. An ancient lake located in the American Southwest
 	1. A desert that once connected two continents
 	1. Sands carried by a river from the Appalachian Mountains
-	1. (O) A nearby mountain range that had flattened out over time
+	1. A nearby mountain range that had flattened out over time
 
-3. In the talk, the professor describes the sequence of uranium-lead dating. Summarize the sequence by putting the events in the correct order. 
+3. In the talk, the professor describes the sequence of uranium-lead dating. Summarize the sequence by putting the events in the correct order. [231]
 	1. Zircon in the sandstone is matched to the zircon in a particular mountain range.
 	1. The amount of lead in sandstone zircon is measured
 	1. The age of zircon in a sandstone sample is determined

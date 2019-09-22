@@ -1,3 +1,5 @@
+## [C](https://img.kmf.com/toefl/listening/audio/fede3f3185253173e82f1807beab5462.mp3)
+
 NARRATOR: Listen to a conversation between a student and a *receptionist* at the *Registrar's Office* **on the first day of the semester**.
 
 FEMALE STUDENT: Excuse me, I'm supposed to be having my physics class in the science building, but no one's in the classroom. Could you tell me where the class is? Physics 403 - has it been moved?

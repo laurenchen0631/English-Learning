@@ -1,3 +1,5 @@
+# [A(例子)](https://img.kmf.com/toefl/listening/audio/36f5abafd649592297588409fe03fa82.mp3)
+
 NARRATOR: Listen to part of a lecture in a philosophy class.
 
 FEMALE PROFESSOR: OK. Another ancient Greek philosopher we need to discuss is Aristotle - Aristotle's **ethical** theory. What Aristotle's ethical theory is all about is this: he's trying to show you how to be happy - what true happiness is.
@@ -66,16 +68,3 @@ In the end, Aristotle says that true happiness is the exercise of reason - life 
 	1. She may change professions in order to earn more money
 	1. The reason she is a teacher has little to do with her salary
 	1. More people would become teachers if the salary were higher
-
-## Review
-
-2. 
-Exercise：Exercise. There may be some people who value exercise for itself, but I don’t. I value exercise because if I exercise, I tend to stay healthier than I would if I didn’t.
-
-Health：So health is important to me–has value to me–as a means to a productive life. But health is also important to me because I just kind of like to be healthy–it feels good.It’s pleasant to be healthy, unpleasant not to be. So to some degree I value health both for itself and as a means to something else: productivity. It’s got extrinsic and intrinsic value for me.
-
-Playing a musical instrument：Then there’s some things that are just valued for themselves. I’m a musician, not a professional musician; I just play a musical instrument for fun.
-
-Teaching：No, something else I value is teaching. Why? Well, it brings in a modest income, but I could make more money doing other things. I’d do
-
-it even if they didn’t pay me. I just enjoy teaching. In that sense it’s an end to itself.

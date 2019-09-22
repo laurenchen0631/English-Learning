@@ -1,10 +1,12 @@
+## [B+(難字)](https://img.kmf.com/toefl/listening/audio/09cd76791f11659ac94ceaa04a3b716d.mp3)
+
 NARRATOR: Listen to part of a psychology lecture. The professor is discussing behaviorism.
 
 MALE PROFESSOR: Now, many people consider John Watson to be the founder of behaviorism. And like other behaviorists, he believed that psychologists should study only the behaviors they can observe and measure. They're not interested in mental processes. While a person could describe his thoughts, no one else can see or hear them to verify the accuracy of his report. But one thing you can observe is muscular habits. What Watson did was to observe muscular habits because he viewed them as a **manifestation** of thinking. One kind of habits that he studied are **laryngeal habits**.
 
 Watson thought laryngeal habits... you know, from **larynx**, in other words, related to the voice box... he thought those habits were an expression of thinking. He argued that for very young children, thinking is really talking out loud to oneself because they talk out loud even if they're not trying to communicate with someone in particular. As the individual **matures**, that **overt** talking to oneself becomes **covert** talking to oneself, but thinking still shows up as a laryngeal habit. One of the bits of evidence that supports this is that when people are trying to solve a problem, they, um, typically have increased muscular activity in the **throat** region. That is, if you put **electrodes** on the throat and measure muscle **potential** - muscle activity - you discover that when people are thinking, like if they're **diligently** trying to solve a problem, that there is muscular activity in the throat region.
 
-So, Watson made the argument that problem solving, or thinking, can be defined as a set of behaviors - a set of responses - and in this case the response he observed was the throat activity.That's what he means when he calls it a laryngeal habit. [Now, as I am thinking about what I am going to be saying, my muscles in my throat are responding. So, thinking can be measured as muscle activity. Now, the motor theory... yes?
+So, Watson made the argument that problem solving, or thinking, can be defined as a set of behaviors - a set of responses - and in this case the response he observed was the throat activity.That's what he means when he calls it a laryngeal habit. Now, as I am thinking about what I am going to be saying, my muscles in my throat are responding. So, thinking can be measured as muscle activity. Now, the motor theory... yes?
 
 FEMALE STUDENT: Professor Blake, um, did he happen to look at people who sign? I mean deaf people?
 
@@ -45,9 +47,9 @@ OK. Well, Watson makes the assumption that muscular activity is equivalent to th
 	1. A study on problem solving took place there
 	1. Students should go there to read more about behaviorism
 	1. Students' eyes will turn toward it if they think about it
-	1. He learned aboutWilliam James' concept of thinking there
+	1. He learned about William James' concept of thinking there
 
-5. The professor describes a magic trick to the class,what does the magic trick demonstrate? 
+5. The professor describes a magic trick to the class, what does the magic trick demonstrate? 
 	1. An action people make that they are not aware of
 	1. That behaviorists are not really scientists
 	1. How psychologists study children

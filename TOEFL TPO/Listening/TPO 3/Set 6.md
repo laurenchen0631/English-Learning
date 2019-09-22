@@ -1,4 +1,4 @@
-# B+ (難字偏多)
+# [B+(難字)](https://img.kmf.com/toefl/listening/audio/ff89af959d40d8d9f92d2474577a38a9.mp3)
 
 NARRATOR: Listen to part of a lecture in an astronomy class.
 
@@ -6,13 +6,13 @@ MALE PROFESSOR: Now astronomy didn't really, uh, *bloom* into the science it is 
 
 Spectroscopy is basically the study of spectra and *spectral* lines of light, and specifically for us, the light from stars. It makes it possible to analyze the light emitted from stars. When you analyze this light you can figure out their distance from the Earth and identify what they’re made of—determine their chemical composition.
 
-Before we get into that, though, it’s probably a good thing to back up a bit. You all know how when you take a *crystal prism* and pass a beam of sunlight through it, you get a spectrum which looks like a continuous band of rainbow colors.The light that we see with our human eyes as a band of rainbow color falls in the range of what's called visible light. And visible light spectroscopy is probably the most important kind of spectroscopy. Anyone wanna *take a stab* at the scientific term for visible light… and I'm sure all of you know this because you all did the reading for today…
+Before we get into that, though, it’s probably a good thing to back up a bit. You all know how when you take a *crystal prism* and pass a beam of sunlight through it, you get a spectrum which looks like a continuous band of rainbow colors. The light that we see with our human eyes as a band of rainbow color falls in the range of what's called visible light. And visible light spectroscopy is probably the most important kind of spectroscopy. Anyone wanna *take a stab* at the scientific term for visible light… and I'm sure all of you know this because you all did the reading for today…
 
 FEMALE STUDENT: *Optical radiation*. But I thought being exposed to radiation's dangerous.
 
 MALE PROFESSOR: Yes and no. If you're talking about radiation like in the element *uranium*, yeah, that's dangerous, but radiation as a general term actually refers to anything that spreads away from its source, so optical radiation is just visible light energy spreading out.
 
-OK, so we've got a spectrum of a beam of sunlight and it looks like the colors *bleed into each other*, uh, there’re no interruptions, just a band flowing from violet to green to yellow to…you get the idea. Well what happens if the sunlight spectrum is magnified? Maybe you all didn't do the reading. Well here's what you’d see:I want you to notice that this spectrum is interrupted by dark lines, called *spectral lines*. If you really magnified the spectrum of the sunlight, you could identify more than a hundred thousand of 'em.They may look kinda randomly placed, but they actually form many distinct patterns. And if you were looking at the spectrum of some other star, the colors would be the same, but the spectral lines would break it up at different places, making different patterns. Each pattern stands for a distinct chemical element, and so different sets or patterns of spectral lines mean that the star has a different chemical composition.
+OK, so we've got a spectrum of a beam of sunlight and it looks like the colors *bleed into each other*, uh, there’re no interruptions, just a band flowing from violet to green to yellow to…you get the idea. Well what happens if the sunlight spectrum is magnified? Maybe you all didn't do the reading. Well here's what you’d see: I want you to notice that this spectrum is interrupted by dark lines, called *spectral lines*. If you really magnified the spectrum of the sunlight, you could identify more than a hundred thousand of 'em. They may look kinda randomly placed, but they actually form many distinct patterns. And if you were looking at the spectrum of some other star, the colors would be the same, but the spectral lines would break it up at different places, making different patterns. Each pattern stands for a distinct chemical element, and so different sets or patterns of spectral lines mean that the star has a different chemical composition.
 
 FEMALE STUDENT: So, how do we know which spectral patterns match up with which elements?
 
@@ -20,7 +20,7 @@ MALE PROFESSOR: Well, a kind of spectroscopic library of elements was compiled u
 
 Oh! An interesting story about how one of the elements was discovered through spectroscopy. There was a pretty extensive library of spectral line patterns of elements even by the 1860’s. A British astronomer was analyzing a *spectrograph* of sunlight and he noticed a particular pattern of spectral lines that didn’t match anything in the library. So, he put two and two together and decided there was an element in the Sun that hadn't been discovered here on the Earth yet. Any guesses about what that element is? It’s actually turned out to be pretty common and I'm sure all of you know it. OK. Let's try something else…Any of you happen to be familiar with the Greek word for sun, by chance?
 
-MALE STUDENT: Something like *helios* or something like that?…Oh! It must be "*Helium*". So you're sayin that helium was discovered on the Sun first?
+MALE STUDENT: Something like *helios* or something like that? …Oh! It must be "*Helium*". So you're sayin that helium was discovered on the Sun first?
 
 MALE PROFESSOR: Yes. And this is a good example of how important spectroscopy is in astronomy.
 

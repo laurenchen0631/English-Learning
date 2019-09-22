@@ -39,6 +39,9 @@
 	- Natufian culture developed somewhat differently in different regions, in part because of differences in the types and amount of food available from place to place.
 	- Both these views are justified in part.
 	- This is, in part, my own mistake.
+* up to a point 在一定程度上 == partly, or to a limited degree
+	- Of course there is some truth in all this, but only up to a point.
+	- The new traffic system worked up to a point, but it had its problems.
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
 + as such (否定)大抵上

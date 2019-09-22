@@ -1,4 +1,4 @@
-# A+ (大量細節考題)
+## [A+(大量細節考題)](https://img.kmf.com/toefl/listening/audio/8f5ca4b3198db5b3f57e20951af21b8c.mp3)
 
 NARRATOR: Listen to a conversation between a student and a professor.
 
@@ -26,9 +26,9 @@ MALE STUDENT: So... how many student volunteers are you looking for?
 
 FEMALE PROFESSOR: I'm hoping to get five or six. I've asked for volunteers in all of the classes I teach, but no one has responded. You are the first person to express interest.
 
-MALE STUDENT: It sounds like it could be a lot of work.Is there ... is there any way I can use the experience to get some extra credit in class? I mean, can I write a paper about it?
+MALE STUDENT: It sounds like it could be a lot of work. Is there ... is there any way I can use the experience to get some extra credit in class? I mean, can I write a paper about it?
 
-FEMALE PROFESSOR: I think it'll depend on what type of work you do in the excavation, but I imagine we can arrange something.Well, actually, I’ve been considering offering extra credit for class because I’ve been having a tough time getting volunteers … extra credit is always a good incentive for students.
+FEMALE PROFESSOR: I think it'll depend on what type of work you do in the excavation, but I imagine we can arrange something. Well, actually, I’ve been considering offering extra credit for class because I’ve been having a tough time getting volunteers … extra credit is always a good incentive for students.
 
 MALE STUDENT: And... how often would you want the volunteers to work?
 

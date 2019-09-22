@@ -1,4 +1,5 @@
-## Content
+## [C+](https://img.kmf.com/toefl/listening/audio/fb659bf4f0df8931ea87272549956d09.mp3)
+
 NARRATOR: Listen to a conversation between a student and a professor.
 
 MALE STUDENT: Uh, excuse me, Professor Thompson. I know your office hours are tomorrow, but I was wondering if you had a few minutes free now to discuss something.
@@ -23,13 +24,13 @@ FEMALE PROFESSOR: Yes, definitely. You should use them to indicate what your **e
 
 MALE STUDENT: OK. So, for example, I studied **meteorological** records; I looked at climate charts; I used different methods for analyzing the data, like certain statistical tests; and then I discussed the results. Is that what you mean?
 
-FEMALE PROFESSOR: Yes, that's right. You should include all of that. The **statistical** tests are especially important.And also be sure you include a good reference section where all your published and unpublished data came from, 'cause you have a lot of unpublished climate data.
+FEMALE PROFESSOR: Yes, that's right. You should include all of that. The **statistical** tests are especially important. And also be sure you include a good reference section where all your published and unpublished data came from, 'cause you have a lot of unpublished climate data.
 
 MALE STUDENT: Hmm... something just came into my mind and **went out the other side.**
 
 FEMALE PROFESSOR: Oh, that happens to me a lot, so I've come up with a pretty good memory management tool. I carry a little **pad** with me all the time and jot down questions or ideas that I don't want to forget. For example, I went to the doctor with my daughter and her baby son last week and we knew we wouldn't remember everything we wanted to ask the doctor, so we actually made a list of five things we wanted answers to.
 
-MALE STUDENT: A ((notepad)) is a good idea. Since I'm so busy now at the end of the semester, I'm getting pretty forgetful these days.how can i just remembered what I was trying to say before.
+MALE STUDENT: A **notepad** is a good idea. Since I'm so busy now at the end of the semester, I'm getting pretty forgetful these days. how can i just remembered what I was trying to say before.
 
 FEMALE PROFESSOR: Good. I was hoping you'd come up with it.
 

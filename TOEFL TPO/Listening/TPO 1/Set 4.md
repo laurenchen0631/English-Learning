@@ -1,8 +1,10 @@
+## [C+](https://img.kmf.com/toefl/listening/audio/026b837e05857daa8e291212ab2303b8.mp3)
+
 NARRATOR: Listen to part of a conversation between a student and his professor.
 
-FEMALE PROFESSOR: Hi Mathew, I'm glad you could come in today.You've been observing Mr. Grabell's **third-grade** class for your **Approaches to Education paper**, right?
+FEMALE PROFESSOR: Hi Mathew, I'm glad you could *come in today*. You've been observing Mr. Grabell's **third-grade** class for your **Approaches to Education paper**, right?
 
-MALE STUDENT: Um… yes…I go over to Johnson elementary school.. you know to watch Mr. Grabell teach the children in class.It's been amazing, I mean, I'm just learning so much from just watching him. I'm so glad the classroom observations are a **requirement for the education program**. I mean it's like the best thing ever to prepare you to be a good teacher.
+MALE STUDENT: Um… yes…I go over to Johnson elementary school. you know to watch Mr. Grabell teach the children in class.It's been amazing, I mean, I'm just learning so much from just watching him. I'm so glad the classroom observations are a **requirement for the education program**. I mean it's like the best thing ever to prepare you to be a good teacher.
 
 FEMALE PROFESSOR: Well, I'm glad to see you feel that way, Mathew. You know, that's the goal.So … I’ve been reading over your observation notes, and I’m quite interested in what’s going on—in particular with the **astronomy unit** he’s been teaching.
 
@@ -22,7 +24,7 @@ MALE STUDENT: He introduced Greek and Roman mythology as a way of explaining. Li
 
 FEMALE PROFESSOR: Oh Matthew, that's a great example!
 
-MALE STUDENT: Yeah … and each student chose a planet, and then did research on it to write a report and make a presentation.They went to the library to do the research. Then they made presentations about the planet they chose.
+MALE STUDENT: Yeah … and each student chose a planet, and then did research on it to write a report and make a presentation. They went to the library to do the research. Then they made presentations about the planet they chose.
 
 FEMALE PROFESSOR: So in one science unit, in which the focus was astronomy, the students also learned about the literature of Greek and Roman mythology, used research skills in the library, wrote a report, and practiced their oral presentation skills?
 

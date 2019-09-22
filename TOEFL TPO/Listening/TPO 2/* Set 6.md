@@ -1,3 +1,5 @@
+## [A(天文)](https://img.kmf.com/toefl/listening/audio/4f07fae00b0d9a7802d356607b9c76eb.mp3)
+
 NARRATOR: Listen to part of a lecture in an **astronomy** class. You will not need to remember the numbers the professor mentions.
 
 MALE PROFESSOR: OK. Let's get going. Today I'm going to talk about how the **asteroid belt** was discovered. And... I'm going to start by writing some numbers on the board. Here they are; We'll start with zero, then 3, ... 6, ... 12. Uh, tell me what I'm doing.
@@ -30,7 +32,7 @@ MALE PROFESSOR: The next planet out, **Uranus** - after Saturn. And look, Uranus
 
 And so then people got really excited about the validity of this thing and finding the missing object between Mars and Jupiter. And **telescopes**, remember, were getting better. So people went to work on finding objects that would be at that missing distance from the Sun, and then in 1801, the object **Ceres** was discovered.
 
-And Ceres was in the right place - the missing spot. Uh, but it was way too faint to be a planet. It looked like a little star. Uh, and because of its star-like appearance, um, it was called an "*asteroid*".OK? "Aster" is Greek for "star", as in "astronomy". Um, and so, Ceres was the first and is the largest of what became many objects discovered at that same distance. Not just one thing, but all the objects found at that distance form the asteroid belt. So the asteroid belt is the most famous success of this Bode's Law. That's how the asteroid belt was discovered.
+And Ceres was in the right place - the missing spot. Uh, but it was way too faint to be a planet. It looked like a little star. Uh, and because of its star-like appearance, um, it was called an "*asteroid*". OK? "Aster" is Greek for "star", as in "astronomy". Um, and so, Ceres was the first and is the largest of what became many objects discovered at that same distance. Not just one thing, but all the objects found at that distance form the asteroid belt. So the asteroid belt is the most famous success of this Bode's Law. That's how the asteroid belt was discovered.
 
 ## Vocab
 - Mercury 水星
