@@ -1,5 +1,5 @@
 # Nature
-## Biology
+## Plant
 
 Research has shown that certain minerals are required by plants for normal growth and development. The soil is the source of these minerals, which are absorbed by the plant with the water from the soil. Even nitrogen, which is a gas in its elemental state, is normally absorbed from the soil as *nitrate ions*. Some soils are notoriously deficient in micro nutrients and are therefore unable to support most plant life. So-called *serpentine* soils, for example, are deficient in calcium, and only plants able to tolerate low levels of this mineral can survive. In modern agriculture, mineral depletion of soils is a major concern, since harvesting crops interrupts the recycling of nutrients back to the soil.
 

@@ -45,7 +45,7 @@ Hunting is a skill. Tracking, stalking, chasing, and killing the prey are diffic
 	1. Paleolithic people were able to satisfy their basic needs fairly easily.
 	1. People in Paleolithic Europe learned about art from people living in other areas.
 
-4. The word “Plausibly” in the passage is closest in meaning to
+4. The word **“Plausibly”** in the passage is closest in meaning to
 	1. Similarly
 	1. Obviously
 	1. Ideally
@@ -63,7 +63,7 @@ Hunting is a skill. Tracking, stalking, chasing, and killing the prey are diffic
 	1. Some of the most beautiful images in Paleolithic rock art are of human figures.
 	1. There is more variety in how humans are depicted in cave art than in how animals are.
 
-7. The word “spectacular” in the passage is closest in meaning to
+7. The word **“spectacular”** in the passage is closest in meaning to
 	1. unique
 	1. impressive
 	1. isolated

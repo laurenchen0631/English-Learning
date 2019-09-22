@@ -24,7 +24,7 @@ The most striking characteristic of the plants of the alpine zone is their low g
 - cushion (n)墊子/坐墊, 緩衝物, 撞球臺的橡皮邊, 減震墊 (v)緩和……的衝擊, 減輕..的負面影響
 
 ## Questions
-1. The word “dramatic” in the passage is closest in meaning to
+1. The word **“dramatic”** in the passage is closest in meaning to
 	1. gradual
 	1. complex
 	1. visible
@@ -48,19 +48,19 @@ The most striking characteristic of the plants of the alpine zone is their low g
 	1. They are less likely than evergreens to survive at the upper timberline.
 	1. They do not require as much moisture as evergreens do.
 
-5. The word "attain" in the passage is closest in meaning to
+5. The word "**attain**" in the passage is closest in meaning to
 	1. require
 	1. resist
 	1. achieve
 	1. endure
 
-6. The word "they” in the passage refers to
+6. The word "**they”** in the passage refers to
 	1. valleys
 	1. trees
 	1. heights
 	1. ridges
 
-7. The word "prone" in the passage is closest in meaning to
+7. The word "**prone**" in the passage is closest in meaning to
 	1. adapted
 	1. likely
 	1. difficult
@@ -73,7 +73,7 @@ The most striking characteristic of the plants of the alpine zone is their low g
 	1. Tree growth lasts longer in those latitudes than it does in the tropics
 
 9. Which of the sentences below best express the essential information in the highlighted sentence in the passage? In correct choices change the meaning in important ways or leave out essential information.
-	1. ecause of their deformed shapes at high altitudes, trees are not likely to be seriously harmed by the strong winds typical of those altitudes.
+	1. Because of their deformed shapes at high altitudes, trees are not likely to be seriously harmed by the strong winds typical of those altitudes.
 	1. As altitude increases, the velocity of winds increase, leading to a serious decrease in the number of trees found at high altitudes.
 	1. The deformed shapes of trees at high altitudes show that wind velocity, which increase with altitude, can cause serious hardship for trees.
 	1. Increased wind velocity at high altitudes deforms the shapes of trees, and this may cause serious stress for trees.
@@ -97,16 +97,16 @@ The most striking characteristic of the plants of the alpine zone is their low g
 	1. Their low growth form keeps them closer to the ground, where there is more heat than further up.
 
 13. Look at the four squares [] that indicate where the following sentence could be added to the passage. Where would the sentence best fit? [This explains how, for example, alpine cushion plants have been found growing at an altitude of 6,180 meters.]
-	1. 
-	1. 
-	1. 
-	1. 
+	1. []
+	1. []
+	1. []
+	1. []
 
 14. Directions: An introductory sentence for a brief summary of the passage is provided below.  Some sentences do not belong in the summary because they express ideas that are **not presented in the passage** or are **minor ideas in the passage**. 
-	1. (?) Birch is one of the few species of tree that can survive in the extreme environments of the upper timberline.
-	1. (O) There is no agreement among scientists as to exactly why plant growth is sharply different above and below the upper timberline.
-	1. (O) The temperature at the upper timberline is probably more important in preventing tree growth than factors such as the amount of snowfall or the force of winds.
-	1. (O) The geographical location of an upper timberline has an impact on both the types of trees found there and their physical characteristics.
+	1. [?] Birch is one of the few species of tree that can survive in the extreme environments of the upper timberline.
+	1. [O] There is no agreement among scientists as to exactly why plant growth is sharply different above and below the upper timberline.
+	1. [O] The temperature at the upper timberline is probably more important in preventing tree growth than factors such as the amount of snowfall or the force of winds.
+	1. [O] The geographical location of an upper timberline has an impact on both the types of trees found there and their physical characteristics.
 	1. High levels of ultraviolet light most likely play a greater role in determining tree growth at the upper timberline than do grazing animals such as the ibex.
 	1. Despite being adjacent to the timberline, the alpine tundra is an area where certain kinds of low trees can endure high winds and very low temperatures.
 

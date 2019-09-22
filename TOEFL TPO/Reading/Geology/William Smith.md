@@ -30,7 +30,7 @@ Not only could Smith identify rock strata by the fossils they contained, he coul
 - trilobite 三葉蟲
 
 ## Questions
-1. The word "rudimentary" in the passage is closest in meaning to
+1. The word "**rudimentary**" in the passage is closest in meaning to
 	1. thorough
 	1. strict
 	1. basic
@@ -54,7 +54,7 @@ Not only could Smith identify rock strata by the fossils they contained, he coul
 	1. The data for the map were collected during Smith’s work on canals.
 	1. It is no longer regarded as a geological masterpiece.
 
-5. The word "meticulously" in the passage is closest in meaning to
+5. The word "**meticulously**" in the passage is closest in meaning to
 	1. carefully
 	1. quickly
 	1. frequently
@@ -78,13 +78,13 @@ Not only could Smith identify rock strata by the fossils they contained, he coul
 	1. their similarity to each other made it difficult for him to distinguish one rock type from another
 	1. the type of rock between two consistent strata was always the same
 
-9. The word "endured" in the passage is closest in meaning to
+9. The word "**endured**" in the passage is closest in meaning to
 	1. vanished
 	1. developed
 	1. varied
 	1. survived
 
-10. The word "virtually" in the passage is closest in meaning to
+10. The word "**virtually**" in the passage is closest in meaning to
 	1. possibly
 	1. absolutely
 	1. surprisingly
@@ -96,13 +96,13 @@ Not only could Smith identify rock strata by the fossils they contained, he coul
 	1. It describes how fossils are distributed in rock strata.
 	1. It explains why plants and animals undergo transformations through time.
 
-12. In mentioning "trilobite", the author is making which of the following points?
+12. In mentioning "**trilobite**", the author is making which of the following points?
 	1. Fossils cannot be found in more than one rock stratum.
 	1. [O] Faunal succession can help put rock layers in relative temporal sequence.
 	1. Faunal succession cannot be applied to different strata composed of the same kind of rock.
 	1. The presence of trilobite fossils makes it difficult to date a rock.
 
-13. Look at the four squares []that indicate where the following sentence could be added to the passage. Where would the sentence best fit? [The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world]
+13. Look at the four squares [] that indicate where the following sentence could be added to the passage. Where would the sentence best fit? [The findings of these geologists inspired others to examine the rock and fossil records in different parts of the world]
 	1. []
 	1. []
 	1. []

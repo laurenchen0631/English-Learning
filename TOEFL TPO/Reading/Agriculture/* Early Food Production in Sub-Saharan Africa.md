@@ -19,6 +19,7 @@ The process of clearance and burning may have seemed *haphazard* to the uninform
 + graft (n/v)嫁接, 貪污, 工作
 - come into use 開始被採用 == to start being used
 	- Computers first came into use in the early 1950s.
+- watercourses (n)水道/運河
 - savanna /səˈvanə/ 熱帶大草原
 - Sudan 蘇丹，南蘇丹獨立後有時也被稱作北蘇丹，位於非洲東北部，紅海沿岸，撒哈拉沙漠東端
 + live off 倚靠..維生
@@ -72,7 +73,7 @@ The process of clearance and burning may have seemed *haphazard* to the uninform
 	1. Cattle required a great deal of movement from one season to the next.
 	1. [O] Cattle suffered from sleeping sickness after the herds spread south.
 
-6. The word “severely” in the passage is closest in meaning to
+6. The word **“severely”** in the passage is closest in meaning to
 	1. gradually
 	1. permanently
 	1. indirectly
@@ -90,13 +91,13 @@ The process of clearance and burning may have seemed *haphazard* to the uninform
 	1. It enabled farmers to cultivate crops with minimal equipment and effort.
 	1. It enriched the soil and produced large yields of crops over the years.
 
-9. The word “exploiting” in the passage is closest in meaning to
+9. The word **“exploiting”** in the passage is closest in meaning to
 	1. making use of
 	1. finding
 	1. destroying
 	1. looking for
 
-10. The word “readily” in the passage is closest in meaning to
+10. The word **“readily”** in the passage is closest in meaning to
 	1. completely
 	1. easily
 	1. properly

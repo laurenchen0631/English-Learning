@@ -14,6 +14,7 @@ Plants with large, buoyant seeds-like coconuts-drift on ocean currents and are w
 By means of these seeds, plants spread more widely to new locations, even to isolated islands like the Hawaiian archipelago, which lies more than 2,000 miles west of California and 3,500 miles east of Japan. The seeds of grasses, flowers, and blooming trees made the long trips to these islands. (Grasses are simple forms of angiosperms that bear their encapsulated seeds *on long stalks*.) In a surprisingly short time, angiosperms filled many of the land areas on Hawaii that had been bare.
 
 ## Review
+- drench (v)使濕透/浸濕, 覆蓋, 給(動物)灌藥 (n)獸用藥水
 - flank (n)脅/脅腹, (動物)腹肉, 側面, 翼側/側翼 (v)位於…的側面, 掩護…的翼側, 攻擊…的翼側
 - toehold (n)小立足點
 - the bowels of ..的最深處 == The deepest inner parts or areas of (something)

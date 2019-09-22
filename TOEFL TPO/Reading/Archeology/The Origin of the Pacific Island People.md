@@ -29,7 +29,7 @@ Because all Polynesians, Micronesians, and many Melanesians speak Austronesian l
 - breadfruit 麵包樹
 - sago 西谷米，，是由幾種棕櫚樹樹幹內所儲碳水化合物製造的食用澱粉
 - outrigger (n)舷外浮材（裝在舷外以防翻船的樑架，帆桅或其他裝置）
-- canoe /kəˈnuː/ (n)獨木舟 (v) 划獨木舟
+- canoe /kəˈnuː/ (n)獨木舟 (v)划獨木舟
 
 ## Questions
 1. According to paragraph 1, all of the following are true statements about Melanesia, Micronesia, and Polynesia EXCEPT:

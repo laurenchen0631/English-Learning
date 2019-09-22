@@ -20,8 +20,8 @@ Much of the increased production was **consumed** by Great Britain's burgeoning 
 * compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約 = agreement = covenant
 - ? beginning as far back as the sixteenth century
 - stepped-up (adj)加強的
-+ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 人工培植
-- cottage (n)小屋/村舍
++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨
+- cottage (n)小屋/村舍 <|> cotton
 - peasant  /ˈpɛz(ə)nt/ (n)農民, 沒教養的人/粗人
 - ? as British markets and opportunities grew, the English quickly learned from them
 - catch on

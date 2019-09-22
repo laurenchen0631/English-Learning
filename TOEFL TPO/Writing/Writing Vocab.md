@@ -101,6 +101,6 @@
 - area 地區 == region == place == section == field == range == space
 - control 控制 == regulate == manipulate
 - relationship 關係 == relation == friendship == ties
-- cold 冷的 == bleak == chilled == frozen == cool
+- cold 冷的 == bleak == frigid == chilled == frozen == cool
 - extreme 極端的/嚴峻的 == severe == harsh == serious == desperate == stern 
 - typical 標準的 == standard == normal == basic == classic

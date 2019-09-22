@@ -798,6 +798,7 @@
 		- recur (v)再發生/復發, 重提
 		* recourse (v)求助/依靠
 		+ /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
+		- watercourses (n)水道/運河
 
 	cur 關心 = care, cure
 		- curate (n)牧師助理 (v)策劃
@@ -2869,7 +2870,7 @@
 			- impermanent (adj)暫時的 = temporary <-- im + permanent
 			+ impermeable (adj)不能透水的/不可滲透的 = impervious = impenetrable = impassable <-- im + permeable
 			+ impermissible (adj)不允許的 = unallowable
-			+ impersonal (adj)非個人的/客觀的, 無特色的/不知名的, 非人的, 非人稱的
+			+ impersonal (adj)非個人的/客觀的 = objective, 無特色的/不知名的, 非人的, 非人稱的
 			++ impertinent (adj)無禮的 = uncivil = discourteous, 無關的 = irrelevant = extraneous = immaterial = inconsequential
 			- impertinence (n)無理/粗魯 = rudeness <-- im + pertinence
 			+ imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
@@ -2980,7 +2981,7 @@
 			+ insufferable (adj)難以忍受的 = intolerable, 討厭的/令人討厭的
 			+ insuperable (adj)難以克服的 = insurmountable = unconquerable
 			* insurmountable (adj)無法克服的/無法逾越的
-			- intact
+			+ intact
 			+ intangible (adj)無形的/觸摸不到的 <-- in + tangible
 			+ /ɪnˈtəːmɪnəb(ə)l/ interminable (adj)無盡頭的/無止盡的
 			+ intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
@@ -3280,7 +3281,7 @@
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
-		++ objective (adj)客觀的, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
+		++ objective (adj)客觀的/公正的 = impersonal = unbiased = impartial, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -3969,6 +3970,7 @@
 		+ emerge (v)浮現/出現, (昆蟲)孵化, 發生/顯露, 曝光, (從困境中)擺脫 --> emergence (n)浮現/出現, (昆蟲)孵化, 發生/顯露
 		+ emergent (adj)出現的 = issuing = emerging, 興起的/新興的, 緊急的 = urgent
 		- emergency (n)緊急情況 = exigency
+		- merger (n)混和/合併
 		- submerge (v)把……浸入水中/淹沒, 完全掩藏 = cover = obscure
 
 	macula 斑點/髒污 = spot, blemish
@@ -4272,6 +4274,7 @@
 		2. 在上 = above == up
 			- overhear (v)偶然聽到/無意中聽到
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
+			- overlie -> overlay -> overlain (v)覆蓋在..之上
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
