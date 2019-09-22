@@ -31,16 +31,14 @@
 	- Additionally, 50 hours of practical experience will be necessary.
 	- In addition to its political achievements, the women`s movement also helped to forge a new sense of identity and shared experiences among women.
 	- In addition, schools and universities began to offer courses in women`s issues.
-+ moreover == further == furthermore == besides == also == as well 此外
++ moreover == further == furthermore == also 此外
 	- Moreover, statistics show that competition for places is growing
 	- He was, moreover, a poet of promise. 
 	- Bicycling is a good exercise; moreover, it does not pollute the air.
 	- It was also a highly desirable political end. Furthermore, it gave the English a door into France.
 	- He is inefficient, and furthermore he is innocent of any sense of responsibility.
-	- Do you play any other sports besides basketball?
-	- besides being a player, he was my friend
 	- Also, a car is very expensive to run
-	- The museum provides hours of fun and a few surprises as well
+
 + and what is more == and more than that 此外
 	- The decorations were absolutely beautiful and what`s more, the children had made them themselves.
 	- They are coming in, in ever increasing numbers, and what is more, outspent visitors from every other part of the globe in 1999.

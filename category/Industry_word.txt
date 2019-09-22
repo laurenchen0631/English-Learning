@@ -165,6 +165,7 @@
 		> 通貨膨脹 |A general increase in prices and fall in the purchasing value of money.|
 	- The Great Depression 經濟大恐慌/經濟大蕭條，1929年至1933年之間全球性的經濟大衰退
 	- The Great Recession 經濟大衰退，是一場在2007年8月9日開始浮現的金融危機引發的經濟衰退
+	- the dotcom bubble (n)網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
 	- wholesale
 		> 批發 |The business of selling of goods in large quantities and at low prices, typically to be sold on by retailers at a profit.| if you want to sell large expensive pieces then wholesale is probably not the way to go
 		> |Sell (goods) in large quantities at low prices, to be sold on at a profit.| imported clothing, which he now wholesales to 20 retail store
@@ -216,6 +217,16 @@
 	- licensing terms 授權條款
 	- licensing agreement 授權合約 
 	- Goldman Sachs 高盛集團，一家美國跨國投資銀行與金融服務公司，其總部位於紐約市曼哈頓
+	- Morgan Stanley (n)摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
+	- charter
+		> 特許狀 |A written grant by the sovereign or legislative power of a country, by which a body such as a city, company, or university is founded or its rights and privileges defined.| the town received a charter from the Emperor
+		> 許可證 |A written constitution or description of an organization`s functions.| the impending review of the BBC`s Charter
+		> 特許設立 |Grant a charter to (a city, company, university, or other body)| the company was chartered in 1864
+		> 憲章 |(in the UK) a written statement of the rights of a specified group of people.| the standard set by the patient`s charter
+		> 租賃/包租 |The hiring of an aircraft, ship, or motor vehicle for a special purpose.| a plane on charter to a multinational company
+		> 被包租的交通工具 |A ship or vehicle that is hired.| the fifty foot charter Capricorn will join the team
+		> 包租旅行 |A trip made by a ship or vehicle under hire.| he liked to see the boat sparkling clean before each charter
+		> 包租 |Hire (an aircraft or ship)| he immediately chartered a plane to take him to Paris
 
 [Law]
 	- the Supreme Court 最高法院
@@ -334,6 +345,10 @@
 	- ruling
 		> 裁決/裁定 |An authoritative decision or pronouncement, especially one made by a judge.| the ruling was reversed in the appeal court
 		> 統治的/管理的 |Currently exercising authority or influence.| the ruling coalition
+	+ correction
+		> 改正 |The action or process of correcting something.| I checked the typing for errors and sent it back for correction
+		 修正量 |A quantity adjusting a numerical result to allow for a departure from standard conditions.| isotopic ratios are presented normalized to NBS SRM981 using a fractionation correction of 0.101% per a.m.u
+		> 懲治/懲罰 |Punishment, especially that of criminals in prison intended to rectify their behaviour.| the incompatibility of justice and correction as penal objectives has long been the major unsolved problem of penal practice
 
 [Crime/Police]
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
@@ -499,6 +514,7 @@
 		> 用渡船運送 |Convey in a ferry or other ship or boat, especially across a short stretch of water.|
 		> 擺渡 |Transpor
 	- dead reckoning 航位推測法，是一種利用現在物體位置及速度推定未來位置方向的航海技術
+	+ canal /kəˈnal/ (n)渠道/運河, 管/道
 
 	- captain 機長
 	- first officer 副機長
@@ -540,9 +556,10 @@
 		> 避開 |Avoid by taking a detour.| ‘I would detour the endless stream of motor homes
 	- rush hour 交通高峰時間/交通擁擠時間
 	- traffic jam 交通阻塞
-	- gridlock
+	- gridlock (n)極端嚴重的交通壅塞, 僵局 = deadlock
 		> 極端嚴重的交通壅塞 |A situation of very severe traffic congestion.| the city reaches gridlock during peak hours
 		> 僵局 |deadlock|
+	- backroad == back road 小路/無人跡的路 == a small road that does not have much traffic on it
 	- flat tire 爆胎
 	t from one place to another on short or regular trips.| ambulances ferried the injured to hospital
 	- pick-up point 接送點
@@ -559,6 +576,11 @@
 	- bulldozer 推土機
 	- grounding (n)擱淺, 基礎教學
 	- rights-of-way (n)路權
+	- crossover
+		> 天橋/平交道 |A point or place of crossing from one side to the other.|
+		> 成名 |The process of achieving success in a different field or style, especially in popular music.|
+		> 交叉 |Relating to or denoting trials of medical treatment in which experimental subjects and control groups are exchanged after a set period.| a crossover study
+	
 
 [Agriculture/Farming]
 	+ farm
@@ -632,6 +654,7 @@
 	- pest (n)害蟲, 討厭的人/麻煩精
 	- enclosure movement (n)圈地運動(在12到19世紀，在以英國為代表的歐洲出現了所謂的圈地運動，土地所有權集中於國王或取得羅馬教廷承認的皇帝，以及教會，另有少量屬自由民私有。以納稅和提供兵役為條件分封於領主，而後又按各級契約依次分配於總佃戶，佃戶)
 	- crop failure (n)作物歉收
+	- feeder fish (n)飼養魚，是某些類型的廉價魚的通用名稱，通常作為捕食動物飼養
 
 [Cook/Food]
 	- Worcestershire sauce (n)伍斯特醬
@@ -1022,6 +1045,7 @@
 	- parchment (n)羊皮紙, 羊皮紙文稿
 	- octavo /ɒkˈtɑːvəʊ/ (n)八開紙/八開本
 	- cloth parchment (n)布羊皮紙
+	- cardboard /ˈkɑːdbɔːd/ (n)硬紙板 (adj)不真實的/不自然的
 	- laureate
 		> 獲獎者 |A person who is honoured with an award for outstanding creative or intellectual achievement.| a Nobel laureate
 		> 桂冠詩人 |Poet Laureate|
@@ -1268,6 +1292,14 @@
 		> 化妝品 |A preparation applied to the body, especially the face, to improve its appearance.| the range covers everything from the latest cosmetics to skin and hair care
 	- fake nail 假指甲
 	- eyelash extension 接睫毛
+	- buckle (n)帶扣/扣子, 飾扣, 水果蛋糕 (v)扣, [up]繫上安全帶, 使彎曲/弄皺, 精神崩潰
+		> 帶扣/扣子 |A flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap.|
+		> 扣 |Fasten or decorate with a buckle.| he buckled his belt
+		> buckle up 繫上安全帶 |Fasten one`s seat belt in a car or aircraft.| it is advisable to buckle up as some of the mountain roads require skilful manoeuvring
+		> 飾扣 |A similarly shaped ornament on a shoe.| black shoes with ornate 
+		> 水果蛋糕 |A cake made with fruit (typically blueberries) and having a streusel topping.|
+		> 使彎曲/弄皺 |Bend and give way under pressure or strain.| the earth buckled under the titanic stress
+		> 精神崩潰 |(of a person) suffer a psychological collapse as a result of stress.| a weaker person might have buckled under the strain
  
 [Art]
 	+ ceramic (adj)陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
@@ -1314,6 +1346,7 @@
 	- /ˈtʃɑːkəʊl/ charcoal (n)木炭, 炭筆, 深灰色
 	- varnish /ˈvɑːnɪʃ/ (n)清漆/亮光漆, 指甲油, 光鮮亮麗的外表 (v)塗清漆, 粉飾/掩飾
 	- salon /ˈsalɒn/ (n)沙龍, 會客室, 名流社交聚會
+	- close-up 特寫照片/近景照片 == She took a stunning close-up of him.
 
 [Religion]
 	+ shrine /ʃrʌɪn/ (n)聖祠/神殿/神社, 聖陵, 聖骨匣/聖物箱 = reliquary, 神龕 = niche (v)祀奉/供奉

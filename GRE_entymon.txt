@@ -40,6 +40,7 @@
 			- affidavit
 			+ afford (v)買得起, 有時間做, (東西)提供/給予(人)
 			- agenda (n)待議諸事項, 待辦事項, 意圖/目的
+			- agent (n)劑/媒介, 代理人 = deputy = representative
 			- agglomerate
 			+ aggrandize
 			- aggravate
@@ -58,6 +59,7 @@
 			+ amortize
 			+ amulet
 			+ amuse
+			- anew (adv)重新, 再一次
 			+ annihilate
 			- announce
 			+ annul
@@ -433,6 +435,7 @@
 		- autobiography
 		- autocrat (n)獨裁者 = dictator = despot
 		+ autonomy (n)自治/獨立 --> autonomous (adj)自主的 = independent, 自治的 = self-governing
+		- auto (n)汽車 = automobile, 自動模式 = automatic (adj)自動的 = automatic
 
 	avi 鳥 = bird
 		+ avid (adj)渴望的 = agog, 熱心的 = eager
@@ -923,6 +926,7 @@
 	col 脖子 = neck
 		+ accolade (n)讚賞 = appreciation = kudos
 		- collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
+		- column (n)圓柱, 柱狀物, 欄, 專欄, 縱列
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
 		- accommodate (v)[to]使適應 = adjust = adapt, 提供住宿
@@ -973,7 +977,7 @@
 
 	cre, cred 相信 = believe, confide, entrust
 		- accredit (v)相信, 委任/授權 = authorize, 歸功於 = attribute to
-		+++ credit (n)賒帳, 信任 = trust, 片尾字幕, 學分, 讚揚/讚許 (v)把錢存進銀行帳戶, 信任/相信
+		+++ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, 加(金額)於帳戶
 		+ creditable (adj)值得稱讚的
 		+ credent (adj)相信的 --> credence (n)相信/可信性
 		+ credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
@@ -1203,7 +1207,7 @@
 		- /ˈsʌɪklətrɒn/ cyclotron (n)迴旋加速器
 		- /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, 廣泛的
 		- encyclopedia, encyclopaedia (n)百科全書/大全 <-- en + cyclo + pedo 兒童 = child + ia
-		- cylinder (n)圓柱
+		+ cylinder (n)圓柱, 汽缸, 鋼瓶, 滾筒
 		- encyclic (n)教皇通諭
 	
 	cit, cite 激起/喚起 = start ip, hurry, summon
@@ -1382,7 +1386,7 @@
 			- depend (v)取決於
 			+ dependable (adj)可靠的 = reliable = trustworthy
 			* depict
-			- deplore
+			+ deplore
 			- depreciate
 			+ depress --> depressed --> depression
 			*** deprave (v)使墮落 <|> deprive --> depraved (adj)墮落的/腐敗的 = putrid = vicious = wicked --> depravity (n)墮落 = turpitude <-- de + prav 不正派的 = crooked
@@ -2225,6 +2229,7 @@
 		- fabulous, fab (adj)驚人的, 極好的, 神話般的 --> fabulously (adv)極度 = extremely
 
 	fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
+		*** affect (v)影響/產生效果 == have an effect on, 使感動 = touch
 		+ affected (adj)受影響的, 做作的/不自然的/假裝的 = pretentious
 		- affectation (n)做作/假裝
 		- affecting (adj)感人的 = moving
@@ -2283,6 +2288,7 @@
 		* deferement (n)延期/推遲 <-- defer
 		* differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
 		+ /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish = discriminate
+		+ differential (adj)不同的/有差異的, 獨特的 (n)差異, 微分, 差動齒輪 (adj)微分的, 差動的
 		* /ˈfəːtʌɪl/ fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
 		- fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
 		- infertile (adj)不肥沃的/不毛的, 不育的
@@ -2583,6 +2589,7 @@
 		- pictograph, pictogram (n)象形文字, 統計圖表
 		- telegram (n)電報 (v)向……發電報
 		- typograph (n)印刷 --> typographical (adj)印刷上的
+		- topography (n)地形/地貌, 地形圖 --> topographical (adj)地形學的
 
 	grat 高興/愉悅/感謝 = please, thankful
 		- grateful (adj)感激的 <|> grate
@@ -3573,7 +3580,7 @@
 	
 	lati, late 寬的 = broad
 		++ /dʌɪˈleɪt/ dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
-		++ latitude (n)行動自由 = freedom, 緯度 <--> longitude
+		++ latitude (n)行動自由 = freedom, 緯度 <--> longitude --> latitudes (n)緯度地區
 
 	later 邊/邊緣 = side
 		- collateral (adj)並行的/平行的 = parallel, 附帶的/次要的 = incidental = secondary, 旁系的 (n)擔保品, 旁系血親
@@ -3678,10 +3685,10 @@
 		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
 
 	miss, mit, mise 送/放出 = send, give over
-		*** commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
+		+ commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
 		+ commitment (n)投入/奉獻, 承諾/保證
 		- committal (n)拘押, 埋葬
-		*** commission (v)(正式地)委託, 委任…為軍官/任命 (n)委託/請求, 佣金, 犯罪, 委員會
+		++ commission (V)委任/委託, 指名, 使..投入使用 (n)任務/職權, 委託品, 被委託人, 佣金, 委任狀/所授軍銜, 犯罪
 		- commissary (n)代表/代理, 雜貨店/小賣部
 		+ demit (v)辭職/退職 = resign
 		+ /dɪˈmʌɪz/ demise (n)死亡 = decease = death, 終結 = termination (n/v)轉讓/租賃
@@ -4734,7 +4741,7 @@
 		1. 通過 = step, pace0.
 			- /ˈbʌɪpɑːs/ bypass (n)旁道/旁路, 旁通管, 分流術, 分流術管 (v)繞過, 加設旁道, 避開/迴避 = circumvent
 			- compass (n)指南針, (能力、活動、興趣等的)界限/範圍/範疇 = scope = range
-			*** compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約= agreement = covenant
+			*** compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約 = agreement = covenant
 			- encompass
 			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)衝擊, 擠壓, [on]影響 = influence = alter
 
@@ -4871,7 +4878,7 @@
 
 	petri, petro 石頭 = rock, stone
 		- petrify (v)石化, 嚇呆 --> petrification, petrifaction (n)石化, 嚇呆
-		- /pɪˈtrəʊlɪəm/ petroleum (n)石油
+		+ /pɪˈtrəʊlɪəm/ petroleum (n)石油
 		- petrology (n)岩石學
 		- /ˈpɛtrə(ʊ)ɡlɪf/ petroglyph (n)岩石畫/岩石雕刻
 
@@ -4904,6 +4911,7 @@
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
 		* discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
+		+ deposit (n)儲蓄, 保證金, 押金, 堆積/沈澱, 礦床, 放/寄放 (v)存, 付保證金, 沈澱, 放/寄存, 下蛋
 		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定
 		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
 		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
@@ -4954,7 +4962,7 @@
 	praise, prec, preci 價值/讚揚 = prize, price
 		+ praise (n/v)讚揚/表揚
 		+ appraise (v)評價/鑑定 = assess, 估價/定價 = value --> appraisal (n)評價/鑑定
-		- appreciate (v)欣賞/賞識 = admire, 理解/領會, 感謝, 漲價/增值 --> appreciation (n)
+		- appreciate (v)欣賞/賞識 = admire, 理解/領會, 感謝, 漲價/增值 --> appreciation (n)欣賞/鑑賞, 感激之情 = Gratitude, 評論文字, 全面理解, 增值
 		+ appreciable (adj)相當的/非常可觀的 = considerable = substantial
 		- inappreciable (adj)微不足道的
 		- /ˈdɛprɪkeɪt/ deprecate (v)反對, 輕視/詆毀/貶值 = depreciate 
@@ -5044,6 +5052,7 @@
 		- phanerogam (n)顯花植物 = spermatophyte
 		*** phenomenon -> phenomena (n)(尤指不尋常的或有趣的)現象, 非凡的人或物
 		- phenomenal (adj)傑出的/非凡的 = extraordinary = remarkable, 能被感知的
+		- phenotype (n)顯形/表現某一顯性特徵之生物個體或群體
 		+ sycophant (n)馬屁精 = toady = adulator --> sycophantic (adj)阿諛奉承的 = obsequious <-- syco 無花果 = fig + phan + ant
 
 	phob, phobia 恐懼 = fear
@@ -5056,6 +5065,7 @@
 	phony, phone 聲音 = sound
 		+ cacophony --> cacaphonous
 		+ euphony (n)悅耳 --> euphonious (adj)悅耳的 = melodious = liquid
+		- francophone (adj)法語圈的 (n)法語圈
 		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
 		- phonograph (n)唱機
 		- phonetic (adj)語音的, 語音學的, 音形一致的
@@ -5167,7 +5177,7 @@
 		- metropolis (n)大城市 --> metropolitan (adj)大都市的, 宗主國的/母國的, 大主教轄區的 (n)大都市人, 大主教
 
 	plore 喊/哀嚎 = wail
-		*** deplore (v)譴責/強烈反對 = condemn
+		+ deplore (v)譴責/強烈反對 = condemn
 		- deplorable (adj)應受譴責的/極其惡劣的 = egregious = atrocious, 糟透的
 		- implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge = supplicate
 
@@ -5508,6 +5518,7 @@
 			- revolt
 
 	rect, recti 正/直 = right, straight
+		* correction (n)改正, 懲治/懲罰
 		- rectangle (n)長方形/矩形
 		- rectify (v)改正/調正, 提純/精餾, [電]整流, 求(曲線)的長度
 		+ rectitude (n)誠實/正直 = uprightness = probity = righteousness
@@ -5565,7 +5576,7 @@
 		+ /ˌsʌrəpˈtɪʃəs/ surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
 
 	respond 反應
-		*** correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
+		+ correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
 		* correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
 		- respond (v)作答/回答/作出反應
 		- response (n)反應/回響/回答
@@ -5755,7 +5766,7 @@
 			+ /ˌɒbsəˈlɛs(ə)nt/ obsolescent (adj)逐步廢棄的/即將淘汰的/逐漸過時的
 
 		2. 安慰 = soothe
-			* console (n)控制台/儀表板 (v)安慰/撫慰 = assuage = soothe = comfort --> consolation (n)安慰/慰藉
+			* console (n)控制台/儀表板, 落地櫃, 演奏台, 螺形支架 (v)安慰/撫慰 = assuage = soothe = comfort --> consolation (n)安慰/慰藉
 			- solace (n)安慰/慰藉 = consolation (v)給..慰藉
 
 	soli, sol 孤單/整個 = alone, whole
@@ -6076,7 +6087,7 @@
 		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 = remnant (n)剩餘, 重播費
 		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
-		- sediment (n)沉積物, 渣 = dregs (v)沉積
+		- sediment (n)沉積物, 渣 = dregs (v)沉積 --> sedimentary (adj)
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
 		+ subside (v)平息/減弱, (水)消退, 下陷, 坐下/跪下
 		- subsidy (n)輔助金
@@ -6373,8 +6384,10 @@
 		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain, 阻止/抑制(問題) = prevent --> containment (n)封鎖/阻遏(問題)
 		+ continent (adj)有自制力的 = temperate (n)洲/大陸 --> continence (n)自制/節制 = self-restraint = abstinence = temperance = moderation
 		- incontinence (n)失禁
+		- continual (adj)重複多次的/頻頻的, 不間斷的
+		- continuous (adj)連續的/不斷的
 		+ continuity (n)連續性/連貫性
-		- detain (v)留住/使耽擱, 拘留, 扣留
+		- detain (v)留住/使耽擱 = corner, 拘留, 扣留
 		++ entertain (v)吸引/逗樂 = divert = amuse, 款待 = regale, 懷著/心存(想法) = cherish = harbor
 		** obtain (v)得到/獲得 = get = acquire = secure, 通用/流行/存在 = be prevalent/customary/establish
 		- obtainable (adj)能得到的
@@ -6489,6 +6502,7 @@
 		- trilogy (n)三部曲, 三個
 		- trio (n)三重奏/三重唱/三人一組, (小步舞曲、諧謔曲等的)中段 <--> quartet
 		- tripod (n)三腳架
+		- trimester (n)三個月/三月期(懷孕期的分隔單位), 一學期
 
 	tempor 時間
 		+ contemporary (adj)現代的 = modern, 當代的/同時代的 (n)現代人, 當代人/同時代的人
@@ -6576,7 +6590,7 @@
 			- protect (v)保護
 
 	text 編織 = plait, weave
-		- context (n)上下文
+		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
 		- pretext (n)藉口 = pretense
 		- textile (n)紡織物/織物
 		- texture (n)質地/質感, (文章或音樂的)特色/韻味
@@ -6991,7 +7005,7 @@
 		- contravene (v)違反/違背(法律或規則)
 		+ convene (v)召集/召開 = rally --> convention (n)大會, 習俗 --> conventional (adj)傳統的 = customary
 		- convenient (adj)方便的/便利的/省事的 --> convenience (n) = expediency
-		* covenant (n)盟約/契約/協定/合同/約定 = compact = agreement = pact (v)立書保證 <-- convene
+		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery <|> convene
 		- intervene (v)干涉/介入 --> intervention (n)干涉/介入
 		* invent (v)捏造/編造 = concoct = confect = vamp, 發明/創造 --> inventive (adj)發明的
@@ -7173,7 +7187,7 @@
 		- viaduct (n)高架橋
 	
 	vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
-		- convect (v)空氣對流 --> convection (n) --> convective (adj)
+		- convect (v)空氣對流 --> convection (n)對流 --> convective (adj)對流的
 		+ convex (adj)凸的/凸起的 <--> concave 
 		+ inveigh (v)猛烈抨擊/強力抗議 = rail = fulminate = protest strongly = attack vehemently <|> inveigle
 		+ invective (n)惡言謾罵

@@ -56,6 +56,10 @@
 - at large 普遍地/全體地 == in general == generally
 	- This group is not representative of the population at large.
 
+## Frequency
+- (every) now and then 偶爾 == sometimes, but not regularly
+	- We still get together for lunch every now and then.
+
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near
 	- Having the right equipment at hand will be enormously helpful.
@@ -145,6 +149,12 @@
 	- Tobacco is taxed in most countries, along with alcohol.
 	- Technological advancements are limited in their ability to change society and will likely bring liabilities along with any potential benefits.
 
+## Conclusion/Finish
+- boil down to sth 主要原因在於/歸結為
+	- The problem boils down to one thing - lack of money.
+- cap off 把...收尾 == to finish something with a very good final activity or achievement
+	- We capped off a wonderful evening with birthday cheesecake.
+
 ## Desire
 
 
@@ -154,7 +164,6 @@
 - word gets around 迅速傳開 
 	- "I hear you were having drinks with a tall, dark, handsome man last night." "Wow, word gets around fast, doesn't it?"
 	- She doesn't want word getting around the office that she's pregnant.
-
 
 ## Act
 - a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
@@ -183,22 +192,28 @@
 - with abandon 任意 == an action done without concern or an action done carelessly/flippantly.
 	- The drunk girl threw off her clothes with abandon, as the alcohol had lowered her inhibitions.
 	- For punctuation she used dashes "with such abandon" that her manuscripts have constantly frustrated their editors.
+- cop to 承認做了 == to admit to doing (something)
+	- He agreed to cop to a misdemeanor.
 
-## Danger
+## Danger/Suffer
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
 	- Thousands of lives will be at stake if emergency aid does not arrive in the city soon.
 	- There was a feeling that there was something bigger than life at stake
+- bite (one's) lip 強忍
+	- I just had to bite my lip while the boss yelled at me for losing the account.
+	- If someone tries to provoke you, just bite your lip and keep walking.
+- have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad
+	- We certainly have our share of problems at the moment.
+	- She's had her fair share of tragedies in her life.
+- close call 即將到來的災難 == a situation in which something bad, unpleasant, or dangerous almost happens, but you manage to avoid it
+	- It was a close call for residents when a tornado swept through just west of the town.
+	- Getting to the airport on time was a close call.
 
 ## Hesitation
 - if you will/like 如果你願意那樣說的話
 	- I did very well in school , with a "genius IQ" if you will.
-
-## Experience
-- have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad
-	- We certainly have our share of problems at the moment.
-	- She's had her fair share of tragedies in her life.
-- bang for the buck 值回票價 == value in return for your money
-	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
+- catch-22 左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
+	- But it is a catch-22 situation - you can't get people without funding, but you can't get funding without the people there in the first place.
 
 ## Plan/Mind
 - well thought out 精心計劃的/經縝密思考的 == planned in an effective way
@@ -206,6 +221,7 @@
 	-  a well-thought-out system for traffic control
 - with sth in mind 對..有所計畫 == to have a plan or intention
 	- Did you have anything in mind for Helen`s present?
+- bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
 
 ## Status
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
@@ -228,6 +244,7 @@
 - (the) writing is on the wall 有著不詳的徵兆 == said to mean that there are clear signs that something will fail or no longer exist
 	- Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”
 
+
 ## Pejorative
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
@@ -236,6 +253,9 @@
 - well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of
 	- He was efficient at his job and well thought of by everyone.
 	- It is a well-thought-of school.
+- bang for the buck 值回票價 == value in return for your money
+	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
+- big draw 非常吸引人的點 == a big source of attraction.
 
 ## Number
 - all short of 未達 == to fail to reach an amount or standard that was expected or hoped for

@@ -1,59 +1,30 @@
-[General]
-	- suburb == An outlying district of a city, especially a residential one.
-	- suburbia 近郊/郊外居民 == The suburbs or their inhabitants viewed collectively.
-	- continent /ˈkɒntɪnənt/
-	- the tropics == The region between the tropics of Cancer and Capricorn.
-	- ridge	
-		> 山脊 |A long, narrow hilltop, mountain range, or watershed.| the North-East ridge of Everest
-		> |Mark with or form into ridges.| the ridged sand of the beach
-		> |(of a surface) form into or rise up as a ridge.| the crust of the earth ridged
-		> 隆起 |A narrow raised band on a surface.|
-		> |An elongated region of high barometric pressure.|
-	- borough (n)自治市鎮, 區
-	- county (n)郡
-	- topography
-		> 地形/地貌 |The arrangement of the natural and artificial physical features of an area.|
-		> 地形圖 |A detailed description or representation on a map of the physical features of an area.|
-	- latitude --> latitudinal
-		> 緯度 |The angular distance of a place north or south of the earth`s equator, or of the equator of a celestial object, usually expressed in degrees and minutes.| at a latitude of 51° N
-		> 餘地/自由 |Scope for freedom of action or thought.| journalists have considerable latitude in criticizing public figures
-		> 曝光寬容度 |The range of exposures for which an emulsion or printing paper will give acceptable contrast.|
-	- latitudes 緯度地區 == Regions, especially with reference to their temperature and distance from the equator.
-		> temperate latitudes
-		> northern latitudes
-	- the Northern Hemisphere 北半球
-	- the Western Hemisphere 西半球
-	- the North Pole 北極點，又叫北極，用於稱呼地球上的地理北極
-	- the Green Belt 綠帶，用於土地利用規劃的政策和土地使用區域名稱，用於保留周圍或鄰近城市地區的大部分未開發，野生或農業用地
-	- brownfield 棕色地帶的（指城鎮中原為工業用地現準備重新開發的地區）
+[Earth]
+	- the Northern Hemisphere (n)北半球
+	- the Western Hemisphere (n)西半球
+	- the North Pole (n)北極點，又叫北極，用於稱呼地球上的地理北極
+	- the Arctic Circle 北極圈，緯度數值為北緯66.5°的一個假想圈，是北寒帶與北溫帶的分界線，與黃赤交角餘角
+	- landmass (n)整塊陸地/大陸 == land mass == A continent or other large body of land.
 
 [Landscape]
-	- glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
+	* landform 地形/地貌 == A natural feature of the earth`s surface.
+	- outcrop (n)礦脈露出地面部分 (v)露出
+	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
+
+	+ glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
 	- ice sheet (n)冰蓋，連續的冰川冰覆蓋了50,000 km²以上陸地，因此也稱作大陸冰川。目前僅有的冰原是南極洲與格陵蘭
 	- ice cap (n)冰帽，一塊巨型的圓頂狀冰，覆蓋少於50000km²的陸地面積
 	- crevasse /krɪˈvas/ (n)冰河裂縫
 	- basal slip (n)基底滑動
-	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
-	- hot springs
-	- steppe (n)大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
+	+ tundra /ˈtʌndrə/ (n)苔原/凍土地帶 
 	- permafrost (n)永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
+	- snowdrift (n)被風刮在一起的雪堆
+
+	- steppe (n)大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
 	- savanna /səˈvanə/ (n)熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- prairie /ˈprɛːri/ (n)大草原
 	- meadow (n)草地
-	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
-	- temperate zone 溫帶
-	- tropic 熱帶
-	- tundra /ˈtʌndrə/ (n)苔原/凍土地帶 
-	- permafrost (n)永凍土層
-	- snowdrift (n)被風刮在一起的雪堆
-	- landmass 整塊陸地/大陸 == land mass == A continent or other large body of land.
-	- expanse /ɪkˈspans/ <--> expense /ɪkˈspɛns/
-		> 廣袤的地區 |A wide continuous area of something.| the green expanse of the forest
-		> 展開的距離 |The distance to which something expands or can be expanded.| the moth has a wing expanse of 20 to 24 mm
-	* landform 地形/地貌 == A natural feature of the earth`s surface.
-	- ice sheet 冰層
-	- fjord /fjɔːd/ 峽灣
-	- floodplain 氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
+
+	- floodplain (n)氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
 	- alluvial fan (n)沖積扇，山地河流出口處的堆積地貌
 	- silt /sɪlt/ (n)泥沙/淤泥 <--> salt /sɔːlt/ 
 	- delta (n)希臘語的第四個字母, 代表D的符號, 差值, 河口三角洲
@@ -62,114 +33,101 @@
 	- sandbar (n)沙洲
 	- point bar (n)河曲沙洲
 	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
-	* /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
-	- fen (n)沼地/沼澤, [中國貨幣]一分
-	- playa
-		> 乾鹽湖 |An area of flat, dried-up land, especially a desert basin from which water evaporates quickly.|
-		> |player|
+	- fjord /fjɔːd/ (n)峽灣
 	- isthmus /ˈɪsθməs/ (n)地峽
 	- strait (n)海峽, 困境/危難 (adj)嚴峻的
-	- timberline == treeline (n)樹帶界線
+	- isle /ʌɪl/ (n)小島
+
+	* /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
+	- fen (n)沼地/沼澤, [中國貨幣]一分
+	- playa (n)乾鹽湖
+
 	- dune /djuːn/ (n)沙丘
+	- mound /maʊnd/ (n)土石堆, 土塚, 堆積, 一堆
+	* alpine /ˈalpʌɪn/ (adj)高山的, 阿爾卑斯山的 (n)高山植物, 高山蝶
 	- ridge /rɪdʒ/ (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
 	- butte /bjuːt/ (n)孤山/孤峰
+	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
 	* mountain range (n)山脈
-	- mound /maʊnd/
-		> 土石堆 |A rounded mass projecting above a surface.| the bushes were little more than vague mounds beneath the snow
-		> 土塚 |A raised mass of earth and stones created for purposes of defence or burial.| basmati rice was mounded on our plates
-		> 堆積 |Heap up into a rounded pile.|
-		> 一堆 |A large pile or quantity of something.| a mound of dirty crockery
-	- basin /ˈbeɪs(ə)n/ (n)食物盆 (n)盆地/凹地, 流域, 船塢
 	- vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔
-	* alpine /ˈalpʌɪn/ (adj)高山的, 阿爾卑斯山的 (n)高山植物, 高山蝶
-	- outcrop (n)礦脈露出地面部分 (v)露出
-	- wadis 乾谷，指北非和阿拉伯沙漠地區乾涸的沙礫河床，地下水的水平不在地面，時有水時無水，時為商旅的交通道路
-	- isle /ʌɪl/ (n)小島
-	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
+	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
+	- hot spring (n)溫泉
+
+	- timberline == treeline (n)樹帶界線
+	- boreal forest (n)北方針葉林， 北方針葉林是陸上最大的生物群系，陽光照射充足、氣候乾旱。全年溫度界乎-40－20℃，夏季平均10℃。全年雨量300-900毫米。
+
+	- basin /ˈbeɪs(ə)n/ (n)食物盆 (n)盆地/凹地, 流域, 船塢
+	- wadis (n)乾谷，指北非和阿拉伯沙漠地區乾涸的沙礫河床，地下水的水平不在地面，時有水時無水，時為商旅的交通道路
 	- landlocked (adj)為陸地所包圍的, 內陸的, 內陸水域的(魚)
 	+ pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
 	
 [Weather]
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
+	- clime /klʌɪm/ (n)氣候區 == A region considered with reference to its climate.
 	- monsoon /mɒnˈsuːn/ (n)季風
-	- cyclone 氣旋 --> cyclonic 氣旋的
-	- condensation
-		> 冷凝 |Water which collects as droplets on a cold surface when humid air is in contact with it.|
-		> 凝結/凝聚 |The conversion of a vapour or gas to a liquid.| the cloud is caused by condensation in the air
-		> 縮寫本/濃縮版本 |A concise version of something, especially a text.|
-	- Mediterranean climate 地中海型氣候
-	* convection 對流 --> convective 對流的
-	- orographic lift 地形舉升
-	- updraft, updraught 上升氣流 == An upward current of air
-	- subarctic 副極地氣候的 == Relating to the region immediately south of the Arctic Circle.
-	- clime /klʌɪm/ 氣候區 == A region considered with reference to its climate.
+	- cyclone (n)氣旋 --> cyclonic (adj)氣旋的
+	- condensation (n)冷凝, 凝結/凝聚, 縮寫本/濃縮版本
+	- Mediterranean climate (n)地中海型氣候
+	* convection (n)對流 --> convective (adj)對流的
+	- orographic lift (n)地形舉升
+	- updraft, updraught (n)上升氣流 == An upward current of air
+	- subarctic (n)副極地氣候的 == Relating to the region immediately south of the Arctic Circle.
+	- the tropics (n)熱帶 == The region between the tropics of Cancer and Capricorn.
+	- temperate zone 溫帶
+	- tropic 熱帶
 
 [Geology]
-	- topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
-	- convergent boundary  (n)聚合板塊邊緣
-	- continent crust  (n)大陸地殼 <--> oceanic crust 海洋地殼
-	- crustal plate  (n)地殼板塊
+	- - topography (n)地形/地貌, 地形圖 --> topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
+	- convergent boundary (n)聚合板塊邊緣
+	- continent crust (n)大陸地殼 <--> oceanic crust 海洋地殼
+	- crustal plate (n)地殼板塊
 	- continental shelf (n)大陸棚
-	- isostatic uplift (n)地殼抬升
-	- isostatic (adj)地殼均衡的
-	- tectonic movement (n)板塊移動
-	- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
+	- isostatic uplift (n)地殼抬升 <-- isostatic (adj)地殼均衡的
+	- tectonic movement (n)板塊移動 <-- tectonic (adj)地殼構造上的, 相當的(改變), 建築的
 	- ocean floor = seabed 海床
-
-	- magma /ˈmaɡmə/ (n)岩漿 == Hot fluid or semi-fluid material below or within the earth`s crust from which lava and other igneous rock is formed on cooling.
-	+ mantle /ˈmant(ə)l/  (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋
-	- lithosphere  (n)岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
+	+ mantle /ˈmant(ə)l/ (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋
+	- lithosphere (n)岩石圈，岩石圈在軟流圈之上，包含部分上地函和地殼
 	- asthenosphere /əsˈθɛnəsfɪə/ (n)軟流圈，位於岩石圈的下面、中間圈的上面
-	- subduction 隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
-	- sediment /ˈsɛdɪm(ə)nt/  --> sedimentary
-		> 沈積/沈澱 |Matter that settles to the bottom of a liquid; dregs.| the ice freezes the wine and sediment at the base of the cork
-		> 沈積 |Settle as sediment.| the erythrocytes were allowed to sediment within the syringe
-		> 沈積物 |Particulate matter that is carried by water or wind and deposited on the surface of the land or the seabed, and may in time become consolidated into rock.| there is a huge concentration of sediment in deltas
-	- anticline 背斜層 == A ridge or fold of stratified rock in which the strata slope downwards from the crest.
-	- geostationary 與地球同步旋轉的
-	- geothermal 地熱的 == Relating to or produced by the internal heat of the earth.
-	- geothermal gradient 地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
+	- subduction (n)隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
+	- anticline (n)背斜層(褶曲的一種，指岩層發生波狀彎曲時，其形狀向上凸起者)
+	- faulting (n)斷層化
 
-	- undertow
-		> 深層逆流/退浪/回頭浪 |A current of water below the surface and moving in a different direction from any surface current.|
-		> 暗流 |An implicit quality, emotion, or influence underlying the superficial aspects of something and leaving a particular impression| there is a dark undertow of loss that links the novel with earlier works
-	- pulverization 粉碎
-	- salinization 鹽土化作用
+	- magma /ˈmaɡmə/ (n)岩漿
+	- sediment (n)沉積物, 渣 = dregs (v)沉積  --> sedimentary
+	- geothermal (adj)地熱的 == Relating to or produced by the internal heat of the earth.
+	- geothermal gradient (n)地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
+	- geostationary 與地球同步旋轉的
+
+	- undertow (n)深逆流/退浪/回頭浪, 暗流
+	- pulverization (n)粉碎
+	- salinization (n)鹽土化作用
 	- water table 地下水位
 	+ runoff (n)決賽/決選投票, 地表逕流(雨水或是冰雪融化後的水流經地表產生的水流，因土壤無法吸收水份而形成)
 	- landslide (n)山崩/滑坡, 選舉的壓倒性大勝利
 	- leach (v)(土壤)漂洗/過濾
 	- brine (n)濃鹽水, 海水, 鹵水 (v)用濃鹽水浸泡
-	- faulting (n)斷層化
-	- basal slip/sliding /ˈbeɪs(ə)l/ (n)冰川基底滑動
 
-[Ore]
+[Ore/Rock]
 	- ore /ɔː/ (n)礦
-	- granite /ˈɡranɪt/ (n)花崗岩 == A very hard, granular, crystalline, igneous rock consisting mainly of quartz, mica, and feldspar and often used as a building stone.
-	- quartz  /kwɔːts/ (n)石英
-	- mica 雲母
-	- feldspar 長石
-	- coal
-	* petroleum == oil == crude oil
-	- marble 大理石
-	- nugget
-		> 金礦 |A small lump of gold or other precious metal found ready-formed in the earth.|
-		> 塊 |nuggets of meat| nuggets of meat
-		> 有價值的東西或想法 |A valuable idea or fact.|
-	- mother lode == motherlode
-		> 主礦脈 |A principal vein of an ore or mineral.|
-		> 主要來源 |A rich source of something.| your portfolio holds a mother lode of opportunities
-	- sandstone 砂岩
+	- granite /ˈɡranɪt/ (n)花崗岩
+	- quartz /kwɔːts/ (n)石英
+	- mica (n)雲母
+	- feldspar (n)長石
+	* petroleum (n)石油 == oil == crude oil
+	- marble (n)大理石
+	- nugget /ˈnʌɡɪt/  (n)金礦, 一塊, 有價值的東西或想法
+	- mother lode == motherlode (n)主礦脈, 主要來源
+	- sandstone (n)砂岩
 	- shale	/ʃeɪl/ (n)頁岩/泥板岩 <|> shell /ʃɛl/ 
 	- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
-	- outwash 沖積物 == Material carried away from a glacier by meltwater and deposited beyond the moraine.
-	- basalt 玄武岩，一種細粒緻密、外觀呈黑色的火成岩，由基性岩漿噴發凝結而成，主要成分是矽鋁酸鈉或矽鋁酸鈣
-	* Zircon /ˈzəːk(ə)n/ 鋯石
-	* lava /ˈlɑːvə/ 熔岩
-	- obsidian /əbˈsɪdɪən/ 黑曜岩，是一種自然產生的玻璃。成因是因為火山熔岩迅速冷卻凝結，沒有足夠的時間讓礦物晶體長出，而形成玻璃質
+	- outwash (n)沖積物 == Material carried away from a glacier by meltwater and deposited beyond the moraine.
+	- basalt (n)玄武岩，一種細粒緻密、外觀呈黑色的火成岩，由基性岩漿噴發凝結而成，主要成分是矽鋁酸鈉或矽鋁酸鈣
+	* Zircon /ˈzəːk(ə)n/ (n)鋯石
+	* lava /ˈlɑːvə/ (n)熔岩
+	- obsidian /əbˈsɪdɪən/ (n)黑曜岩，是一種自然產生的玻璃。成因是因為火山熔岩迅速冷卻凝結，沒有足夠的時間讓礦物晶體長出，而形成玻璃質
 	- gemstone (n)寶石
 	- serpentine (adj)像蛇的, 蜿蜒的, 陰險的 (n)蛇紋石 (v)像蛇般行進
-	- serpentine soil 蛇紋石土，是一種罕見的土壤類型，由橄欖岩及其變質衍生物如蛇紋岩等風化超基性岩石產生
+	- serpentine soil (n)蛇紋石土，是一種罕見的土壤類型，由橄欖岩及其變質衍生物如蛇紋岩等風化超基性岩石產生
 	- boulder (n)巨石
 	- cobble (n)鵝卵石
 	- bedrock (n)基岩, 基礎
@@ -181,9 +139,8 @@
 	- calcite /ˈkalsʌɪt/ (mn)方解石
 
 [Ocean]
-	- the Pacific Ocean
-	- the Andaman Sea 安達曼海，又名緬甸海，是一個孟加拉灣東南部的水體，
-	- the Caspian Sea 裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體
-	- the Tethys Sea 特提斯洋，又名古地中海，是個中生代時期的海洋，位於勞亞大陸與岡瓦納大陸之間
+	- the Pacific Ocean (n)太平洋
+	- the Andaman Sea (n)安達曼海，又名緬甸海，是一個孟加拉灣東南部的水體，
+	- the Caspian Sea (n)裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體
 	- the North Sea (n)北海，是北大西洋的一部分，位於大不列顛島以東，斯堪的納維亞半島西南和歐洲大陸以北
 	- the Bering Strait (n)白令海峽，是太平洋的一個海峽，位於亞洲最東點的迭日涅夫角和美洲最西點的威爾斯王子角之間的海峽

@@ -1,5 +1,5 @@
 [Unit]
-	- kilowatt-hour == a unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules
+	- kilowatt-hour (n)千瓦·時(能量量度單位，表示一件功率為一千瓦的電器在使用一小時之後所消耗的能量) == 3.6 million joules
 	- kiloliter
 	- pound == 0.45359237 kilogram
 	- ft == feet == foot == A unit of linear measure equal to 12 inches (30.48 cm)
