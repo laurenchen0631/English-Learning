@@ -1165,7 +1165,7 @@
     * gradient (n)斜坡, 坡度, 梯度
     * grain (n)穀粒, 顆粒, 一點兒 = fig, 紋理 (v)使成粒狀
     ** grease (n)動物脂, 賄賂 (v)用油脂塗/上油 = lubricate = baste = anoint, 賄賂 = bribe
-    * grapple (n/v)扭打/格鬥 = wrestle (n)抓勾 (v)抓住 = seize, [with]盡力解決 = struggle = deal
+    * grapple (n/v)扭打/格鬥 = wrestle (n)抓勾 (v)抓住 = seize, [with]努力克服/盡力解決 = struggle = deal
     * grid (n)網格/方格, 電力網/輸電網
     * /ɡəːd/ gird (v)束, 做好準備, 嘲弄 = gibe = jeer  <|> grid
     ** grim (adj)嚴肅的, 無情的/殘忍的, 黑色的(幽默), 陰森的, 嚴酷的
@@ -1743,7 +1743,7 @@
     + melodious (adj)旋律優美的/悅耳的 = tuneful = musical = sweet-sounding
     +++ /ˈmɛnəs/ menace (n)威脅/威嚇, 討厭的人(尤指小孩) (v)威脅/威嚇 = threaten, 危害 = imperil = endanger = jeopardize = compromise <|> commence --> menacing (adj)威脅的 = formidable = minatory = surly 
     + /meɪˈnɑːʒ/ ménage (n)住家 = household, 家管 = housekeeping --> /məˈnadʒ(ə)ri/ menagerie (n)動物園/獸欄, (供展覽用的)野生動物
-    + /mɪˈandə/ meander (v)蜿蜒而流, 漫步 = wander = ramble (n)蜿蜒的河流或道路, 漫無目的的旅行
+    + /mɪˈandə/ meander (v)蜿蜒而流, 漫步 = wander = ramble (n)蜿蜒的河流或道路, 漫無目的的旅行 --> /mɪˈandərɪŋ/ meandering  (adj)蜿蜒的/曲折的, 兜圈子的 = undirected (n)蜿蜒曲折, 亂走/漫步, 兜圈子
     ++ /ˈməːkjəri/ mercury (n)水銀/汞 --> mercurial (adj)善變的 = changeable = fickle = erratic, 活潑的 = animated = sprightly = lively
     + /ˌmɛrɪˈtrɪʃəs/ meretricious (adj)華而不實的/虛有其表的 = specious = grandiose = deceptive = pretentous, 俗氣的/浮華的 = gaudy = tawdry <|> meticulous
     + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = thorough, 難討好的 = finicky = fussy  <-- metic 害怕 = fear + ulous
@@ -2681,7 +2681,7 @@
     * shelter (n)掩蔽/遮蔽 = refuge = asylum (v)躲避/保護/遮蔽, 為...提供避難的地方, 合法避稅
     * /ˈʃrɪv(ə)l/ shrivel (v)枯萎/乾枯 = wither = wizen, 使萎縮/漸漸減少 = dwindle = wither = diminish, 變得無用
     *** showy (adj)引人注目的 = striking, 炫耀的/浮華的/俗艷的 = tawdry = meretricious = gaudy = ostentatious = flamboyant
-    * sift (n/v)篩/過濾 = winnow = riddle
+    - /sɪft/ sift (v)篩/過濾, 篩選 (n)篩/過濾, 篩出量
     ** /sɪnˈsɪə/ sincere (adj)真誠的/正直的 = earnest = upright --> /sɪnˈsɛrəti/ sincerity (n)真實, 誠心誠意
     * /ˈsɪnjuː/ sinew (n)活力/精力, 主要支柱, 肌腱 = tendon (v)支持/加強
     * skip (v)蹦蹦跳跳, 跳繩, 略過, 迅速翻閱, 衝衝離開 (n)蹦蹦跳跳, 大垃圾桶/廢料桶
@@ -3106,6 +3106,7 @@
     * tangle (v)使糾纏/使纏住, 使捲入 = entangle, 使混亂 (n)纏結, 紛亂/混亂
     * tap (n)水龍頭, 竊聽器, 塞子, 輕拍/輕敲 (v)竊聽, 鑽, 抽水, 開發/開闢, 輕拍/輕敲
     * tear -> tore -> torn (v)撕 = rend, 撕裂傷 = lacerate, 拉扯, 撕掉 = remove, 奮力去做, 流淚 (n)眼淚, 悲傷 = sorrow --> tearful (adj)流淚的/哭泣的/令人傷心的 = mournful = lachrymose
+    * /tiːm/ teem (v)[with]充滿, 傾盆 <|> team /tiːm/ 
     * /θɔː/ thaw (v)(冰)融化/融解, 變暖和, 變得隨和 (n)解凍時期, 融洽 <--> /θɔːt/ thought 
     * /θɪˈatrɪk(ə)l/ theatrical (adj)劇場的/戲劇的, 戲劇性的/誇張的 <-- theater 
     * theft (n)偷竊/盜竊 = larceny
@@ -3124,7 +3125,7 @@
     *** tremendous (adj)巨大的/極大的, 極度的/驚人的, 可怕的 <-- trem
     * trench (n)溝/溝渠/戰壕/海溝 (v)挖溝/挖戰壕, 侵害/侵佔 <|> trenchant <|> entrench <|> retrench
     * tuber (n)塊莖, [解剖]結節/隆起/腫脹
-    * turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
+    * /ˈtəːmɔɪl/ turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
 
     ^ table (v)擱置/不加考慮, 放在桌上 (n)桌子, 食物/菜餚, 表/目錄
@@ -3240,7 +3241,6 @@
     ^ typo (n)排印錯誤
 
     ^ taunt (v)譏諷/嘲弄
-    ^ teem (vi)充滿 = abound with (vt)倒出/傾注 = pour = empty
     ^ torrid (adj)炎熱的 <--> arctic, (性愛)熾烈的/熱烈的
     ^ troth (n)誓言/訂婚
     ^ trout (n)鱒魚/鮭魚

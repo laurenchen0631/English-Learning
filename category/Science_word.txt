@@ -88,11 +88,13 @@
 
 	- atomic /əˈtɒmɪk/ (adj)原子的, 無法分割的, 原子能的
 	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
+	- subatomic /sʌbəˈtɒmɪk/ (adj)次原子的/比原子小的
 	- proton ˈprəʊtɒn/ (n)質子
+	- cation /ˈkatʌɪən/ (n)陽離子
+	- muon /ˈmjuːɒn/ (n)緲子，一種帶有一個單位負電荷、自旋為1/2的基本粒子
+	- ion /ˈʌɪən/ (n)離子
 	- molecule /ˈmɒlɪkjuːl/ (n)分子
 	- molecular /məˈlɛkjʊlə/ (adj)分子的
-	- cation /ˈkatʌɪən/ (n)陽離子
-	- ion /ˈʌɪən/ (n)離子
 	- noble gases 高貴氣體 == inert gases 惰性氣體
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
@@ -375,8 +377,7 @@
 	- bulge (n)腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) (v)膨脹/凸起, [with]裝滿
 	- galactic disk (n)銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
 	- outflow channel (n)流出通道，火星上非常長的大片沖刷地面，通常包含預先存在的地形的流線型殘餘物和其他線性侵蝕特徵，表明流體向下坡移動的雕刻
-
-
+	- cosmic ray (n)宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

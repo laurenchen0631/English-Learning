@@ -43,6 +43,8 @@
 - method 方式 == the way in which == approach == mode == technique == means == way
 - handle 處理 == manage == deal with == cope
 - kind 種 == sort == type == brand == variety
+- error 錯誤 == failure == fault == glitch == mistake
+- need 需求 == requirement == demand == urgency
 
 ## Common
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
@@ -84,6 +86,9 @@
 - abundant 大量的 == plentiful == ample == copious == generous == sufficient == massive == enormous == impressive == tremendous == huge == big 
 - limited 不足的/有限的 == diminished == insufficient == restricted == narrow == small
 - work 作品 == achievement == creation == production
+- content 內容 == chapters == section == subjects == substance == elements == items
+- traditional 傳統 == conventional == classic == long-established == old-fashioned == standard == routine 
+- present 現在 == now == today 
 
 ## Less Common
 - argue 爭論 == dispute == contend

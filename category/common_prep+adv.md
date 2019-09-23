@@ -49,13 +49,13 @@
 ## Degree
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
+- by and large 大體上/總體上/一般來講
+	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
 
 ## Possibility
 - necessarily (adv)必然地 == inevitably
 - anecdotally (adv)據傳 == According to or by means of personal accounts rather than facts or research.
 - admittedly (adv)公認地
-
-＃
 
 ## Others
 - anew (adv)

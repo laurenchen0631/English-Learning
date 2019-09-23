@@ -1396,6 +1396,7 @@
 			+ despite
 			- destrain
 			+ desultory
+			- deterge (v)擦淨/洗淨 --> detergent (adj)去垢的/潔淨的 (n)洗潔劑/去垢劑 <-- de + terge 擦 = wipe
 			+ /dɪˈtɪərɪəreɪt/ deteriorate (v)惡化/變糟 = aggravate = exacerbate = make worse
 			- detonate (v)引爆 = explode = fulminate --> detonation (n)爆炸, 爆炸聲 = explosion <-- de + ton 雷 = tunder 
 			+ detract --> detraction
@@ -2374,6 +2375,7 @@
 		+++ affinity (n)吸引/喜愛 = fondness = affection = penchant = bent, 密切關係, 雷同/相似 = resemblance
 		+ confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
 		+ define (v)說明/解釋, 界定 --> /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
+		- defined (adj)輪廓分明的
 		+ finite (adj)有限的 = measurable
 		+ infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense --> infinity (n)無限的時間或空間
 		- infinitesimal (adj)極微小的 (n)極小量
@@ -2435,7 +2437,7 @@
 		- insectifuge (n)驅蟲劑
 		+ refuge (n)避難所/庇護所 = asylum = shelter
 		- refugee (n)難民/流亡者
-		+ subterfuge (n)託辭 = quibble = quirk
+		+ subterfuge (n)花招/伎倆
 
 	fulg 閃亮 = shine
 		- effulgent (adj)燦爛的 = refulgent
@@ -3586,7 +3588,7 @@
 		- collateral (adj)並行的/平行的 = parallel, 附帶的/次要的 = incidental = secondary, 旁系的 (n)擔保品, 旁系血親
 		- bilateral (adj)雙邊的
 		- equilateral (adj)等邊的
-		- lateral (adj)側面的/橫的/橫向的, 側音的 (n)側面, 側音
+		- /ˈlat(ə)rəl/ lateral (adj)側面的/橫的/橫向的, 側音的 (n)側面, 側音
 		* unilateral (adj)單方面的, 單邊的
 
 	liter 文字 = letter
@@ -4089,7 +4091,7 @@
 		- nominative (adj)主格的, 被提名的 (n)主格
 		- denominate (v)命名 = call = name, 結算(貨幣) --> denomination (n)宗派/教派, 面額, (貨幣或長度的)單位, 名稱/命名
 		+ misnomer (n)誤稱/人名誤載
-		+++ /rɪˈnaʊn/ renown (n)名聲/聲譽 = fame --> renowned (adj)有名的/著名的
+		+++ /rɪˈnaʊn/ renown (n)名聲/聲譽 = fame --> /rɪˈnaʊnd/ renowned (adj)有名的/著名的
 
 	not 標示/注意 = note, mark
 		- annotate (v)註解/註記
@@ -5403,7 +5405,7 @@
 			- resuscitate
 			- retail
 			+ retain --> retainer
-			- retard (v)妨礙/延遲 (n)弱智 <|> dastard <-- re + tard 遲緩 = slow
+			- retard
 			- retell (v)重述
 			+ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			- retinue
@@ -6104,7 +6106,7 @@
 		- dissociate (v)使分離
 		* society (n)社會, 社團/協會 = organization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
 		- /səˈsʌɪɪtəl/ societal (adj)社會的
-		- sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
+		- /səʊʃɪˈɒlədʒi/ sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
 
 	sorc 詛咒/巫術 = oath
 		+ /ˈɛksɔːsʌɪz/ exorcise (v)驅魔, 去除(壞念頭)
@@ -6397,9 +6399,9 @@
 		+++ retain (v)保留 = maintain = preserve, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱, 預付
 		- retainer (n)固定器, 預付金, 侍從 = servant
 		- retinue (n)隨員/扈從
-		+ sustain (v)支撐/維持 = support = bear, 遭受/蒙受 = suffer = undergo, 維持/使持續, 扮演, [法]確認/認可 = uphold = affirm
+		+ sustain (v)撐 = support = bear, 遭受/蒙受 = suffer = undergo, 維持/使持續, 扮演, [法]確認/認可 = uphold = affirm
 		+ sustained (adj)持久的/持續的 
-		- sustenance (n)食糧/糧食/營養 = nourishment, 生計 = subsistence <-- sustain 
+		- /ˈsʌst(ə)nəns/ sustenance (n)食糧/糧食/營養 = nourishment, 生計 = subsistence <-- sustain 
 
 	tract, ten, tent, trait
 		1. 拉 = draw, drag, pull
@@ -6418,8 +6420,8 @@
 			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
 			- pretended (adj)假的/假裝的 = assumed = pretend
 			+ pretense (n)假裝 = veil, 炫耀, [to]自稱/自吹 <-- pretend
-			+ pretentious (adj)炫耀的/矯飾的/自以為是的 = exaggerated = pompous = showy = conceited
 			++ pretension (n)意圖/抱負 = aspiration, [to]自稱/自命, 假裝/做作 = pretentiousness
+			+ pretentious (adj)炫耀的/矯飾的/自以為是的 = exaggerated = pompous = showy = conceited
 			+ protract (v)延長/拖長 = prolong --> protracted (adj)比平常久的/延長的
 			+ retract (v)縮回/收回 = draw back, 撤回(指控或承諾) = withdraw <|> retract
 			- subtract (v)減去/減掉
@@ -6444,15 +6446,15 @@
 	tenu 薄 = thin
 		+ attenuate (v)使減弱/使減少 = weaken = debilitate = abate = wane = diminish, 使變薄 --> attenuation (n)減弱
 		++ extenuate (v)掩飾罪行/減輕罪過 = palliate, 使變瘦 <--> exculpate <--> exonerate --> extenuating (adj)情有可原的
-		+ tenuous (adj)細薄的/纖細的, 不確定的/不明朗的 <|> tenure
+		+ tenuous (adj)細薄的/纖細的, 不確定的/不明朗的 <|> tenable <|> tenure
 
 	tend, tent, tense 伸展 = stretch
 		*** attend (v)出席, [to]處理, [to]照料 = tend, [to]注意, 陪同/護送 = escort, 伴隨 = occur with
 		* attentive (adj)注意的/留意的, 殷勤的/體貼的
 		* inattentive (adj)不注意的, 怠慢的/不殷勤的
 		+++ contend (v)[for]競爭/爭奪 = compete = vie = strive, [with/against]克服, 聲稱/主張 = assert = posit
-		+ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張
-		+ contentious (adj)有異議的, 有爭議的 = controversial, 熱烈的(爭論) <|> content
+		+ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 <|> content
+		+ contentious (adj)有異議的, 有爭議的 = controversial, 熱烈的(爭論) 
 		+ distend (v)鼓起/隆起 = expand = swell --> distension (n)膨脹
 		+ extend (v)擴大/擴展/延長, 佔據(空間) = occupy, [to]適用於 = be applicable to, 伸出, 給予/提供 = offer, 使竭盡全力
 		- /ɪkˈstɛndɪd/ extended (adj)擴大的, 延長的
@@ -6471,6 +6473,7 @@
 		++ portentous (adj)凶兆的/不祥的 = ominous, 自大的/裝模作樣的
 		- superintend (v)監督 = oversee = supervise
 		- tension (n)拉緊/繃緊/張力, 電壓, 緊張, 緊張局勢, 取捨 (V)使拉緊/使繃緊
+		* /ˈtɛntətɪv/ tentative (adj)暫時的/臨時的 = provisional, 躊躇的/猶豫的 = hesitant <-- tempt
 	
 	tempt 嘗試/探查 = probe, feel, test
 		+ contempt (n)鄙視/輕視 = scorn = disdain, 蔑視, 藐視法庭
@@ -6479,7 +6482,6 @@
 		- attempt (v)企圖/嘗試 (n)努力 = effort, 謀殺
 		+ tempt (v)引誘/誘惑 = entice = allure = engage, [be tempted to]想要/想做, 說服 = persuade
 		+ temptation (n)誘惑/渴望 = desire, 誘惑物
-		* tentative (adj)暫時的/臨時的 = provisional, 躊躇的/猶豫的 = hesitant <-- tempt
 
 	trude, trus 推/擠/刺/戳 = push, thrust == punct
 		+ abstruse (adj)深奧難懂的 = obscure = recondite = profound = esoteric
@@ -6521,7 +6523,6 @@
 	the, thesis 放 = put == pos
 		+ antithesis (n)正相反的事物, 對比 = contrast (mn)對語/對句 --> antithetical (adj)正相反的 = mutually incompatible, 對語的/對句的
 		+++ hypothesis --> hypothetical
-		+++ synthesis (n)綜合/合成 --> /ˈsɪnθəsʌɪz/ synthesize (v)綜合/合成
 		+++ synthesis --> synthesize --> synthetic
 		*** /ˈθiːsɪs/, /ˈθɛsɪs/ thesis (n)論題/論點, 論文 = dissertation = essay
 
@@ -6562,7 +6563,7 @@
 
 	test 證明/目擊 = witness == prob
 		+ attest (v)證實/證明為真/作為…的證明 = authenticate = corroborate = substantiate = vindicate, 徵兵
-		+ contest (v)競爭, 參加, 駁斥/質疑 (n)比賽/競賽, 競爭/爭執
+		+ contest (v)競爭, 參加, 駁斥/質疑 (n)比賽/競賽, 競爭/爭執 <|> content
 		- detest (v)憎恨/厭惡/討厭 = hate
 		- testament (n)遺囑, 證明/證據, 聖約, 舊約聖經, 新約聖經
 		- testator (n)立遺囑的人
@@ -6571,122 +6572,120 @@
 		- testy (adj)易怒的/暴躁的 = irritable --> testiness (n)易怒
 
 	tribute 歸於/給予 = assign, ascribe
-		+++ attribute (v)把...歸於 = ascribe = impute = attach (n)屬性/特性, 品質 --> attribution (n)歸屬, 屬性
-		+ attributable (adj)[to]可歸因於...的
-		+ contribute (v)貢獻 --> contribution (n)貢獻
-		- distribute (v)分發/分配 = allot = dispense
+		+++ attribute (v)[to]把...歸於 = ascribe = impute = attach (n)屬性/特性 --> attribution (n)[to]歸屬, 屬性
+		+ attributable (adj)[to]可歸於...的
+		++ contribute (v)捐獻/捐助, [to]導致 = bring about, 投稿, 貢獻/提供(意見) --> contribution (n)捐獻, 貢獻, 投稿
+		- distribute (v)分發/分配 = allot = dispense, [be distributed]散布/分布
 		- distributary (n)支流
 		- redistribution
 		- retribution (n)報應/懲罰
-		** tribute (n)頌詞 = eulogy, 貢品, 稱讚, 確證 <|> tribulation
+		** tribute (n)頌詞/致敬, 進貢/貢物 <|> tribulation
 		- tributary (n)支流, 進貢國/附庸國
 
 	tect
 		1. 工匠 = builder, craftsman
-			- architect
+			- architect --> architecture
 		
 		2. 覆蓋 = cover == calyps
-			+ detect (v)發現/察覺, 測出 --> detection (n)發現/察覺, 測出
-			- protect (v)保護
+			+ detect (v)發現/察覺 = discover, 辨別出 = discern, 調查 = investigate --> detection (n)發現/察覺, 調查工作
+			- protect (v)保護, 對…實行貿易保護, 為..提供保險
 
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
-		- pretext (n)藉口 = pretense
-		- textile (n)紡織物/織物
-		- texture (n)質地/質感, (文章或音樂的)特色/韻味
+		- pretext (n)藉口/托詞 = disguise
+		- textile (n)紡織物/織物, [textiles]紡織業, [非]有穿衣服的人 (adj)紡織的, [非]有穿衣服的
+		- texture (n)質地/質感, (文章或音樂的)特色/韻味 (V)使……具有粗糙或浮凸的紋理
 
-	tort 扭曲 = twist, wring
+	tort, torn 扭曲 = twist, wring
 		- contort (v)(使)扭曲/歪曲(變形)
-		+ distort (v)扭曲(變形或改變意思) = deform = twist = misrepresent = pervert
-		* extort (v)敲詐/勒索 = gouge = swindle = overcharge = goldbrick
-		* retort (n/v)反擊/反駁/回嘴 = riposte = reply = retaliate
-		- torture (n/v)拷打/拷問/折磨/虐待 = torment = afflict
-		- torment (n)折磨/痛苦
-		++ tortuous (adj)彎彎曲曲的 = twisting = winding, 拐彎抹角的 = roundabout = circuitous = devious
-		+ torque (n)力矩, 項鍊/手鐲/項圈
+		+ distort (v)(使)扭曲 = deform = twist, 曲解 = misrepresent = pervert
+		* extort (v)敲詐/強索 = exact = blackmail
+		* retort (n/v)回嘴 = riposte = reply, 反擊/反駁 = retaliate
+		- torture (n/v)折磨 = torment = afflict 
+		- torment (n/v)折磨/痛苦 (v)糾纏/作弄 = annoy = provoke
+		++ tortuous (adj)彎彎曲曲的 = twisting = winding, 囉嗦的/繞圈子的 = roundabout = circuitous = devious
+		+ /tɔːk/ torque (n)力矩, 項鍊/手鐲/項圈 = torc (v)施力矩
 		- tornado (n)颶風/龍捲風
 		- /təˈrɛnʃəl/ torrential (adj)傾盆的, 洶湧的
+		- detour (n)彎路, 繞行路線 (v)繞道, 繞過
 
 	trit, tribe 摩擦 = rub, wear down
-		- attrit (v)消耗/削弱 --> attrition (n)消耗/損耗, 中途輟學者
-		+ contrite (adj)悔罪的/悔恨的 = repentant = penitent = remorseful --> contrition (n)悔恨 = compunction = remorse = penitence = ruth
-		+ diatribe (v)怒斥/抨擊
-		- detritus (n)碎屑, 廢墟/殘骸 = debris
+		- attrit (v)削弱 = wear down --> /əˈtrɪʃ(ə)n/ attrition (n)削弱, 磨損 = abrasion, 不徹底的懺悔
+		+ /kənˈtrʌɪt/ contrite (adj)悔罪的/悔恨的 = repentant = penitent = remorseful --> /kənˈtrɪʃən/ contrition (n)悔恨 = compunction = remorse = penitence = ruth
+		+ /ˈdʌɪətrʌɪb/ diatribe (n)怒斥/抨擊 <|> diaper
+		- detritus (mn)廢墟/殘骸 = waste = debris, 岩屑/碎石, 廢物/排泄物
 		+ trite (adj)陳腐的/老一套的 = banal = hack
-		- triturate (v)磨碎/搗碎
+		- triturate (v)磨碎/搗碎 = grind, 咀嚼/磨碎(食物)
 
 	tum, turg 腫脹 = swell
-		+ contumacious (adj)不服從的 = disobedient = rebellious = pertainacious = wayward <--> compliant, (尤指對法庭命令)抗拒的
-		++ tumid (adj)腫起的/腫脹的 = swollen = distended, 隆起的 = protuberant = bulging, 誇大的 = bombastic = pompous = tumid = turgid
-		++ /ˈtjuːmʌlt/ tumult (n)亂哄哄 = uproar = commotion, 混亂/動亂 = riot = turmoil --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/喧嘩的 = noisy, 騷動的/混亂的 = riotous = chaotic
+		+ contumacious (adj)不服從的 = disobedient = rebellious = pertainacious = wayward <--> compliant
 		++ /ˈtəːdʒɪd/ turgid (adj)浮腫的/腫脹的 = swollen = inflated = tumid, 浮誇的 = pompous = tumid = bombastic <-- tugr 腫漲 = swell + id
+		++ tumid (adj)腫起的/腫脹的 = swollen = distended = protuberant = bulging, 誇大的 = bombastic = pompous = turgid
+		++ /ˈtjuːmʌlt/ tumult (n)一大群(吵鬧的人), 混亂/動亂 = riot = turmoil --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/大聲的 = noisy, 騷動的/混亂的 = riotous = chaotic
 
 	terminm, term 邊界/終止 = boundary, limit, end == fin
 		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
-		- exterminate (v)滅絕/消滅 = eradicate = annihilate = extirpate
+		- exterminate (v)滅絕/消滅 = eradicate = annihilate = extirpate, 殺(蟲)
 		+ interminable
-		- terminal (adj)末期的, 極其的/極度的 (n)終點站, 月臺/候機樓
-		- terminus (n)終點
-		- terminate (v)結束/中止 --> termination (n)終點
-		* term (n)術語, 措辭, 期/期限/學期/任期, 條件/條款, 關係/友誼, 費用/價格, 
+		- terminal (adj)末端的/終點的, 末期的 = incurable, 學期的 (n)終點站, 航廈, 電極, 終端機
+		- terminus (n)[英]終點站 = terminal, (時間或空間)終點
+		- terminate (v)結束/中止, 人工流產, 解僱 = dismiss, 謀殺 = murder --> termination (n)結束, 人工流產, 解僱, 暗殺 = assassination, 字尾
+		+++ term (n)專門名詞/術語, 措辭, 詞, 期/期限, 孕期結束, 租用期, 學期/開庭期, 條件, 要求額/費用, 和平條約, [數]項 (v)把……稱為
 		- terminology (n)術語/術語學 <-- term
 
 	tric, trig 複雜/迷惑 = perplex
-		- extricate (v)使擺脫/使脫離/解救 = release --> extricable (adj)能擺脫的/可解救的 <--> inextricable
+		- extricate (v)使擺脫/使脫離 = release --> extricable (adj)能擺脫的/可解救的 <--> inextricable
 		- inextricable (adj)分不開的, 無法擺脫的/無法逃離的
-		+ intricate (adj)纏結交錯的 = entangled = involved = convoluted, 錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (n)複雜/紛亂
+		+ intricate (adj)錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (mn)複雜/紛亂 --> intricacies (n)細節 = details
 		++ intrigue (v)策劃/密謀 = plot, 吸引 = captivate = attract = fascinate = enamor = enchant = entrance (n)神秘, 陰謀, 地下情 --> intriguing (adj)吸引人的 = fascinating
-		* trick (n)騙局/詭計/惡作劇, 訣竅/秘訣 (v)欺騙 (adj)捉弄的 --> trickery (n)欺騙/欺詐 = chicanery
+		* trick (n)騙局/詭計/惡作劇, 訣竅/秘訣, 習慣/癖好 (v)欺騙 (adj)欺詐的, 脆弱的 --> trickery (mn)欺騙/欺詐 = chicanery
 
 	triv, trieve 找 = find
-		+ contrive (v)謀劃/策劃, 設計/發明 = concoct = devise = fabricate --> contrived (adj)不自然的/牽強的 = artificial = strained <|> contrite
+		+ contrive (v)謀劃/設計 = concoct = devise = fabricate, 設法做到 --> contrived (adj)人為的/不自然的 = artificial, 牽強的 = strained <|> contrite
 		* contraption (n)新發明物/奇怪的裝置 = gadget = contrivance = device
-		- contrivance (n)計謀/詭計 = artifice, 設計/發明
-		- retrieve (n/v)尋回/取回 = regain, 挽回 = correct
+		- contrivance (n)發明物/裝置, 設計, 發明或設計才能
+		- retrieve (v)尋回/取回 = regain, 檢索/擷取(電腦資料), 回想 = recall, 挽回/彌補 = correct = put right (n)尋回/取回, 咬線
 
 	ter, trep, tim 怕 = frighten
-		+ deter (v)威懾住/嚇住/使斷念 = check = arrest = discourage = restrain = preclude = thwart = impede = hinder = hamper = inhibit
-		++ deterrent (N)威懾力量/遏制因素 == something that deters
-		+ intimidate (v)使膽怯 = daunt, 威嚇 <|> intimate
-		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless
-		+ timid (adj)羞怯的/膽小的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant --> timidity (n)膽怯
-		+ timorous (adj)膽小的/膽怯的 = fearful = tremulous = timid = trepid
-		- terror (n)恐懼
-		++ terrific (adj)驚人的/非比尋常的, 極好的 = wonderful, 可怕的/嚇人的
+		+ deter (v)威懾住/嚇住 = check = arrest = discourage = restrain = preclude = thwart = impede = hinder = hamper = inhibit, 阻止..的發生
+		++ deterrent (N)威懾力量/遏制因素 == something that deters, 威嚇武力 (adj)威懾的
+		+ intimidate (v)威嚇 = daunt = frighten = overawe <|> intimate
+		+ timid (adj)膽小的/無自信的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant --> timidity (mn)膽怯/無自信
+		+ timorous (adj)提心吊膽的/戰戰兢兢的 = fearful = tremulous = timid = trepid
+		- terror (mn)恐懼, 恐怖主義 = Terrorism, 令人恐懼之物, 討厭的人/造成麻煩的人 = holy terror
+		++ terrific (adj)極大的, [非]極好的 = excellent
 		+ trepid (adj)害怕的 = timorous = fearful --> trepidation (n)憂心/不安 = fear = anxiety = apprehension
-		- trepidation (n)驚恐/慌張/不安
+		- trepidation (mn)驚恐/不安
+		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless
 
 	terr, ter 土
-		+ inter (v)埋葬 = bury --> interment (n)埋葬/安葬 = burial = funeral
-		- subterranean (adj)地下的, 隱蔽的/祕密的
-		- terrace (n)梯田, 陽台
-		- terrain (n)地形/地勢
-		+ terrestrial (adj)地球的 = worldly, 陸地的, 平常的/普通的 = mundane = prosaic == commonplace
-		- territorial (adj)領土的/土地的 --> territoriality (n)領土權
-
-	terge 擦 = wipe
-		- deterge (v)擦淨/洗淨 --> detergeent (adj)淨化的 = cleansing (n)清潔劑
-
-	tour, torn 轉 = turn
-		- detour (n)彎路, 繞行路線
+		+ inter (v)埋葬 = bury <|> deter --> interment (mn)埋葬/安葬 = burial = funeral
+		- /ˌsʌbtəˈreɪnɪən/ subterranean (adj)地下的, 隱蔽的/祕密的 = secret = concealed
+		- terrace (n)露臺 = patio, 梯田, 排屋/排房
+		- /tɛˈreɪn/ terrain (mn)地形/地勢
+		+ terrestrial (adj)地球的 = worldly, 陸地的/陸生的/陸棲的 (n)陸地生物
+		- territorial (adj)領土的/領地的, 地區的/區域的 (n)國防義勇軍成員 --> territoriality (n)領土權
 
 	tard 緩慢 = slow
-		- retard (v)使減速/延遲, 妨礙/阻止
-		- tardy (adj)緩慢的/遲緩的 = late = belated = delayed 
+		- dastard (n)卑鄙的人 --> dastardly (adj)邪惡的/惡劣的 
+		- retard (v)妨礙/延遲 (n)弱智 <|> dastard
+		- tardy (adj)遲延的/遲到的 = late = belated = delayed, 緩慢的/遲緩的 = sluggish
 	
 	techno, techn 技術 = skill
-		- technocrat (n)技術管理人員
-		+ technical (adj)工藝的/技術的/專門的/工業的, 根據法律的
+		- technocracy (n)技術官僚政治 --> technocrat (n)技術專家政治主義者, 技術專家官員
+		+ technical (adj)工藝的/技術的, 專門的/技術性的, 嚴格按法律或規則的
+		- technology (mn)技術/科技
+		- technique (n)技巧/技術
 
 	therap 治療 = heal
-		- therapy (n)治療/療法
-		- therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物
+		- therapy (n)治療, 療法
+		- /ˌθɛrəˈpjuːtɪk/ therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物 --> therapeutics (n)治療學
 	
 	tox 毒/弓 = bow
-		- detoxify (v)解毒
-		- intoxicate (v)使喝醉, 使陶醉/使沈醉/使狂喜
-		- toxic (adj)有毒的/中毒的
-		- toxication (n)中毒
+		- detoxify (v)解毒, 戒毒/戒酒
+		- intoxicate (v)使喝醉/使失去控制, 使陶醉/使狂喜 = excite = exhilarate
+		- toxic (adj)有毒的/中毒的 = poisonous, 糟糕的/有害的 --> toxics (n)有毒物質
+		- toxication, toxification (n)中毒
 		- toxin (n)毒素
 
 	turb 擾亂/混亂 = disturb, turmoil

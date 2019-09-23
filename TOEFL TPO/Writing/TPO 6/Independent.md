@@ -1,0 +1,26 @@
+## Essay
+Some people argue as if it is a general truth that the present life is more pleasant and less harsh than the past at least 50 years ago. But to be frank, I can not disagree with the opinion. Numerous reasons justify why I don't support the point, and I would explore a few of the most important reason as follows.
+
+To begin with, after 1960's there is a rise in economy. After the end of the Second World War in 1940s, the birth rate began to rise to some extent. Since it is nowadays the2019, the time gap between us and our grandparents would be about fifty or sixty years, two generations which usually bear a child in 30 years old or earlier. Considering the fact, the year when the grandparents were still be child approaches to 1960. For instance, the dotcom bubble and the Great Recession occurred in about 2000 and 2010, and therefore the economical crisis were close to our generation rather than grandparents'. At these economical declination, many people lost their jobs unwillingly. On the other hand, in the 1960's, the workforce was massively desired since the impact of the Second World which brought both destruction and advancement in technology.
+
+Secondly, capitalism and internationalization makes the life more easier and, at the same time, more harsher. Capitalism benefits with more convenient products and reduces the need of some arduous labor works. On the other hands, it makes the people more comparable to the bills. With internationalization, it soon spread to other countries including less developed countries which mainly exploit manual workforce to develop their economy. Taking my country as instance, in 20 years ago, the agriculture was still one of the most popular businesses. Accompanying with imports and the introduction or new technology, the traditional jobs such as textile and agriculture gradually dissolved. Besides the disappearance of some old-fashioned industries, the remaining jobs became more competitive than the past. Additionally, people may need to buy steep commodities which came from a country that had a higher average salary.
+
+Taking into account of all these factors, we may reach the conclusion that the period when my grandparents were children were possibly more comfortable and less competitive. Given the fact that the economy and opportunities for jobs are more remarkable, the environment in the past, in general, might not be worser than the present.
+
+## Review
+Some people argue as if it is a general truth that the present life is more pleasant and less *harsh* than the past at least 50 years ago. But to be frank, I can not disagree with the opinion. Numerous reasons justify why I don't support the point, and I would explore a few of the most important *reasons* as follows.
+
+To begin with, after 1960's there *was* a rise in economy. After the end of the Second World War in 1940's, the birth rate began to *expand* to some extent. Since it is nowadays *the year* 2019, the time gap between us and our grandparents would be about fifty or sixty years, two generations which usually bear a child in 30 years old or earlier. Considering the fact, the year when the grandparents were still be child approaches to 1960. For instance, the dotcom bubble and the Great Recession occurred in about 2000 and 2010, and therefore the economical crisis were close to our generation rather than grandparents'. At these economical declination, many people lost their jobs unwillingly. On the other hand, in the 1960's, the workforce was massively desired since the impact of the Second World which brought both destruction and advancement in technology.
+
+Secondly, capitalism and internationalization makes the life more easier and, at the same time, *~~more~~* harsher. Capitalism benefits with more convenient products and reduces the *demand* of some arduous labor works. On the other *hand*, it makes the people more comparable to the bills. With internationalization, it soon spread to other countries including less developed countries which mainly exploit manual workforce to develop their economy. Taking my country as instance, in 20 years ago, the agriculture was still one of the most popular businesses. Accompanying with imports and the introduction or new technology, the traditional jobs such as *textiles* and agriculture gradually dissolved. Besides the disappearance of some old-fashioned industries, the remaining jobs became more competitive than the past. Additionally, people may need to buy steep commodities which came from a country that had a higher average salary.
+
+Taking into account of all these factors, we may reach the conclusion that the period when *our* grandparents were children were possibly more comfortable and less competitive. *Given the remarkable economy and opportunities for jobs and less competition*, the environment in the past, in general, might not be worser than the present.
+
+## Vocab
+- need 需求 == requirement == demand == urgency
+- present 現在 == now == today 
+
+## Topic
+Do you agree or disagree with the following statement?
+Life today is easier and more comfortable than it was when your grandparents were children.
+Use specific reasons and examples to support your ansawer.

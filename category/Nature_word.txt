@@ -34,11 +34,13 @@
 	- sac (n)囊 == A hollow, flexible structure resembling a bag or pouch.
 	- hoof /huːf/ (n)蹄 (v)踢, 步行, 跳舞
 	- hind leg (n)後腿
+	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
 
 	- mutualism /ˈmjuːtʃʊəlɪz(ə)m/ (n)互利共生, 互助
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ 片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
+	- diel vertical migration (n)晝夜垂直遷移(是一些生物使用的運動模式) <-- diel /ˈdiːl/ (adj)一晝夜的
 
 [Cell/Bacteria]
 	- eukaryote (n)真核生物 --> eukaryotic (adj)真核生物的
@@ -122,6 +124,7 @@
 	- borer /ˈbɔːrə/ (n)蟲/蛀蟲, 鑽孔器
 	- flea (n)跳蚤
 	- centipede /ˈsɛntɪpiːd/ (n)蜈蚣
+	- worm /wəːm/ (n)蟲, 蚯蚓 = earthworm, 寄生蟲, 蛀蟲, 蛆 = maggot, 卑鄙小人/鼠輩 (v)使緩慢前進, 使蠕動, [one`s way into]潛行/鑽入, [out of]千方百計獲取, 驅除…體內的寄生蟲 <--> /wɔːm/ warm
 	- mosquito /mɒˈskiːtəʊ/ (n)蚊
 	- tsetse /ˈtsɛtsi/ = tsetse fly (n)舌蠅/采采蠅
 	- trilobite (n)三葉蟲
@@ -164,7 +167,9 @@
 	- lesser spear-nosed bat (n)小鼻長矛蝙蝠
 
 [Aquatic]
-	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
+	- plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物
+	- phytoplankton /ˈfʌɪtəʊˌplaŋ(k)t(ə)n/ (mn)浮游植物
+	- zooplankton /ˈzuːə(ʊ)ˌplaŋ(k)t(ə)n/ (mn)浮游動物
 
 	- sardine (n)沙丁魚 == A young pilchard or other young or small herring-like fish.
 	- trout /traʊt/ (n)鱒魚
@@ -172,6 +177,7 @@
 	- sturgeon /ˈstəːdʒ(ə)n/ (n)鱘 
 	- eel /iːl/ (n)鰻 
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
+	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
 
 	- bottlenose dolphin (n)寬吻海豚屬
 	- orca (n)虎鯨/殺人鯨 == killer whale
