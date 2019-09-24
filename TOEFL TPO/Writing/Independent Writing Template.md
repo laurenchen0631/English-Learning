@@ -90,7 +90,7 @@
 	3. Conclusion
 		* In conclusion, I am of the opinion that _____.
 		* From the above you might got idea that _____.
-		* *Taking into account of all these factors, we may reach the conclusion that _____.*
+		* *Taking into account of all these factors, we may reach the conclusion that _____, which is due half to _____ and half to ______*
 		* It is sagacious to support the statement that _____.
 		* In short / In a word / General speaking, _____. 
 		* *In a word, to choose **A or B** is a dilemma to the public because they sometimes are confused by the seemingly good qualities of **A/B**, and neglect the genuinely good aspects of B/A.* For the reasons presented above, I strongly commit to the notion that A, rather than B.

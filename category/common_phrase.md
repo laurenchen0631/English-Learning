@@ -59,6 +59,8 @@
 ## Frequency
 - (every) now and then 偶爾 == sometimes, but not regularly
 	- We still get together for lunch every now and then.
+- on occasion 有時/偶爾 == sometimes
+	- He has, on occasion, told a small lie.
 
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near
@@ -161,6 +163,8 @@
 ## Talk
 - drive/hammer sth home 把…講清楚/使人完全明白 == to say something clearly and with a lot of force so that you are certain people understand it
 	- She really drove home the message that we need to economize.
+- drive the point home 充分表達想法/透徹說明觀點
+	- The speaker really drove his message home, repeating his main point several times.
 - word gets around 迅速傳開 
 	- "I hear you were having drinks with a tall, dark, handsome man last night." "Wow, word gets around fast, doesn't it?"
 	- She doesn't want word getting around the office that she's pregnant.
@@ -194,6 +198,9 @@
 	- For punctuation she used dashes "with such abandon" that her manuscripts have constantly frustrated their editors.
 - cop to 承認做了 == to admit to doing (something)
 	- He agreed to cop to a misdemeanor.
+- back to square one 回到起點/重新開始
+	- If the merger negotiation falls apart, we will have no option but to go back to the drawing board.
+	- If this doesn't work we're back to square one.
 
 ## Danger/Suffer
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
@@ -233,7 +240,7 @@
 - work one's ass off 拼命做 == to work very hard
 	- I worked my ass off for that man.
 
-## Bad
+## Pejorative
 - goof off 偷懶 == to avoid doing any work
 	- The teacher told them to stop goofing off and get back to work.
 - (go) down the drain [口]]浪費/白費 == be spoiled or wasted
@@ -243,9 +250,6 @@
 	- Twelve prisoners are at large following a series of escapes.
 - (the) writing is on the wall 有著不詳的徵兆 == said to mean that there are clear signs that something will fail or no longer exist
 	- Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”
-
-
-## Pejorative
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 

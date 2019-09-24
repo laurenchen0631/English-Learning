@@ -20,7 +20,7 @@ A second form of direct evidence comes from *coprolites* (fossilized bodily wast
 - jaw joint 顎關節
 - hadrosaur (n)鴨嘴龍
 - Coelophysis (n)腔骨龍屬，又名虛形龍，是北美洲的小型、肉食性、雙足恐龍
-+ juvenile /ˈdʒuːvənʌɪl/  (adj)青少年的, 幼稚的/不成熟的 (n)青少年/年輕人
++ juvenile /ˈdʒuːvənʌɪl/ (adj)青少年的, 幼稚的/不成熟的 (n)青少年/年輕人
 - embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
 - ? gave birth to live young rather than laying eggs 小恐龙是怀孕生下的而不是产卵生下的
 - ? too large and too well developed to be prehatchling young 太大，成长地太好，他们是不可能是孵化出来的幼体

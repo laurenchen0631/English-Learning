@@ -95,6 +95,7 @@
 	- ion /ˈʌɪən/ (n)離子
 	- molecule /ˈmɒlɪkjuːl/ (n)分子
 	- molecular /məˈlɛkjʊlə/ (adj)分子的
+	- isomer (n)同分異構，指的是擁有相同分子式，但結構式卻不相同的多種分子
 	- noble gases 高貴氣體 == inert gases 惰性氣體
 	- dissociation
 		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
@@ -164,6 +165,7 @@
 		> 傢伙 |Used to refer humorously to a person or animal.| Carla could not help feeling a degree of reluctant admiration for this odd female specimen
 	- electrostatic (adj)靜電的
 	- electromagnetic (adj)電磁的
+	- magnetic field /maɡˈnɛtɪk/ (n)磁場
 	- mechanical energy (n)力學能/機械能
 	- mechanics
 		> 力學 |the branch of applied mathematics dealing with motion and forces producing motion.| the laws of mechanics and electricity predicted that the electrons would spiral inward until they collided with the nucleus
@@ -201,6 +203,7 @@
 		> 曲面幾何結構的 |(of a dome or other structure) constructed from struts which follow geodesic lines and typically form an open framework of triangles and polygons.|
 		> 大地測量學的 |geodetic|
 		> 測地線 |A geodesic line or structure.|
+	- curvilinear (adj)曲線的
 
 [Body]
 	- protractor (n)量角器, 伸肌
@@ -378,6 +381,8 @@
 	- galactic disk (n)銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
 	- outflow channel (n)流出通道，火星上非常長的大片沖刷地面，通常包含預先存在的地形的流線型殘餘物和其他線性侵蝕特徵，表明流體向下坡移動的雕刻
 	- cosmic ray (n)宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
+	- Roche limit /rəʊʃ/ (n)洛希極限，一個天體對自身的重力與第二個天體對它造成的潮汐力相等時兩個天體的距離，當兩個天體的距離少於洛希極限，天體就會傾向碎散，繼而成為第二個天體的環
+
 
 [Photograph]
 	- platinum palladium printing 鉑鈀印相

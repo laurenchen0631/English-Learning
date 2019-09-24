@@ -147,8 +147,8 @@
 [B]
     + /ˌba-kə-ˈnāl-yə/ bacchanalian (adj)(派對)瘋狂地飲酒作樂的 = reveled <-- Bacchus 希臘酒神
     ++ backhanded (adj)反手的, 拐彎抹角的/隱含批評或譏諷的 = wry = indirect = roundabout = sarcastic
-    +  /ˈba-jər/ badger (n)獾 (v)糾纏/騷擾 = annoy = harass = pester = nag = besiege
-    + /ˈba-fəl/ baffle (v)使困惑 = confuse = perplex = bewilder = confound = vex = nonplus
+    + /ˈba-jər/ badger (n)獾 (v)糾纏/騷擾 = annoy = harass = pester = nag = besiege
+    + /ˈbaf(ə)l/ baffle (v)使困惑 = confuse = perplex = bewilder = confound = vex = nonplus, 限制/管制(聲音或流量) (n)擋板/隔板
     + /bə-ˈlün/ balloon (n)氣球 (v)像氣球般膨脹 = swell, 激增
     + /beɪl/ bale (n)大包/大捆, 一大捆的量, 折磨 --> baleful (adj)威脅的, 有害的 <|> baneful 
     + balk (n)梁木 (v)妨礙 = hinder = thwart = foil = check, 猶豫/不願 <|> bilk
@@ -411,7 +411,7 @@
     + caliber (n)水準/程度, 口徑, 直徑
     +++ /ˈkaləmni/ calumny (n)誹謗/誣衊/中傷 = aspersion = slander --> calumniate (v)誹謗/誣衊 = besmirch = denigrate = defame = depreciate = derogate = malign = slander = vilify  <|> clumsy
     + /kəˈnɑrd/ canard (n)虛假新聞/謊報/假消息
-    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd, 節儉的 = frugal = thrifty = abstemious = prudent, 狡詐的 = cunning = sly = wily <|> uncanny
+    ++ canny (adj)謹慎的 = careful = cautious = prudent = guarded = deliberate = measured = methodical = circumspect = judicious, 精明的 = astute = acute = sagacious = shrewd <|> uncanny
     ++ /ˈkanən/ canon (n)準則/法規 = principle = standard = precept = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious = sensitive <-- contention + rancorous
@@ -681,6 +681,7 @@
     + /drô/ draw (n/v)平手, 吸引/引起, 作(比較), 畫
     + /drōl/ droll (adj)離奇好笑的 = whimsically humorous = waggish --> drollness (n) <-- [德]小胖子 = fat little man
     + dross (n)浮渣, 渣滓/廢物 <-- dregs
+    ++ due (adj)預期在...發生/計畫在..發生, 應支付的, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting, [to]因為/由於 (n)應得權益, 應付款 = fee (ADV)正 = directly
     + dupe (v)欺騙 = deceive = delude = cozen = trick = hoodwink = hoax (n)容易受騙的人 = gull
     + dwindle (v)變小/衰退 = diminish = degenerate = shrink = shrivel = wither = flag <|> swindle
 
@@ -702,7 +703,6 @@
     * droop (v)低垂/下垂 = lop, 枯萎 = flag = wither, 委靡/沮喪 --> droopy (adj)下垂的/疲乏的 <-- drop
     * drowsy (adj)睡意朦朧的/半夢半醒的 = lethargic = soporific
     * drudgery (n)苦工/單調沉悶的工作
-    *** due (adj)預期在...發生/計畫在..發生, 應支付的, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting (n)應得權益, 應付款 = fee (ADV)正 = directly
     *** /dʌl/ dull (adj)枯燥的/乏味的 = bland = jejune = insipid = innocuous = pallid = dreary = tedious = tame = humdrum = nondescript, 愚笨的 = blunt = obtuse = stupid = opaque = dense = crass, 暗淡的 = dim = faint, 鈍的 = blunt, 無精打采的 = listless = torpid = apathetic = lethargic = wan (v)使遲鈍, 使陰暗, 緩和/減輕
     * duty (n)責任/義務, 關稅 = tariff --> dutiful (adj)忠於職守的, 順從的 = amenable = obedient
     * dwell (v)居住 --> dwelling (n)住處
@@ -2418,7 +2418,7 @@
     *** readiness (n)準備就緒, 願意/樂意 = willingness = inclination, 敏捷 = promptness = quickness
     *** ready (adj)機敏的/迅速的 --> readily (adv)不遲疑地/迅速地, 輕易地 
     *** reckon (v)想/認為 = consider = think = suppose, 計算/測量 = compute = estimate = count
-    * reddish (adj)帶紅色的/淡紅的 = sanguine <-- red
+    * /ˈrɛdɪʃ/ reddish (adj)帶紅色的/淡紅的 = sanguine <-- red
     * repertoire (n)可表演節目, 保留劇目, 全部技能 <|> repertorial <|> repertory
     * rid (v)使擺脫 = divest, 放心 = disembarrass = relieve
     *** /ˈrʌɪv(ə)l/ rival (n)競爭者/對手 (v)與...匹敵 --> rivalry (n)競爭/對抗
@@ -2700,7 +2700,7 @@
     * smirk (n/v)不自然地笑
     * smooth (adj)光滑的, 平穩的 (v)弄平/使光滑, 消除
     * smudge (v)弄髒 = blot = stain (n)污跡/污痕 = blemish = blotch
-    * smuggle (v)走私
+    * /ˈsmʌɡ(ə)l/ smuggle (v)走私, 偷運/偷帶
     * snatch (v)抓 = grab = grasp, 搶救, 綁架 = kidnap (n)片刻, 片段 = bit, 綁架
     ** snob (n)勢利鬼, 自負傲慢的人 <|> snub --> snobbish (adj)勢利眼的, 自負傲慢的 --> snobbery (n)勢利
     * soak (v)浸泡, 使濕透, 吸收, 使熱衷 (n)浸泡/浸漬, 酒鬼
@@ -2727,6 +2727,7 @@
     * stammer (v)口吃/結結巴巴地說話 = falter = stumble = halt
     ** stagger (v)使震驚, 踉踉蹌蹌地走 = blunder = bumble, 錯開 = astound (n)蹣跚
     * /ˈstamɪnə/ stamina (n)精力/耐力
+    ** staple (n)釘書針, 主要元素, 主要產品, 纖維, 貿易中心 (v)用釘書針固定 (adj)主要的
     *** stark (adj)外表僵硬的, 完全的 = utter = sheer, 荒涼的/光禿禿的, 明顯的/突出的 (adv)完全地 = completely, 極端地 = extremely
     * stealthy (adj)秘密的/鬼鬼祟祟的 = furtive = sly = shifty
     *** /stɛm/ stem (n)莖/幹, 柄/把, 家系 (v)起源於, 攔住/阻擋/遏止, 抽去……的梗/給……裝柄
@@ -2957,7 +2958,6 @@
     ^ stalk (v)偷偷靠近/追蹤
     ^ stall (v)使停止/使延遲
     ^ stamp (n/v)跺腳, 在...上蓋印
-    ^ staple (n)交易重鎮, 供應處 = source, 主要產品, 原料 = raw material, 纖維/纖維長度, U形釘/訂書針 (adj)主要的
     ^ starch (n)澱粉, 刻板/拘謹 --> starchy (adj)含澱粉的, 刻板的
     ^ steal (v)偷/巧取 --> stealth (n)秘密行動
     ^ steer (v)操舵/駕駛 (n)小公牛/閹牛/食用牛
@@ -3306,6 +3306,7 @@
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle
     * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
     * vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔 <|> tent
+    * /ˈvɛnjuː/ venue (n)發生地點 <--> /ˈmɛnjuː/ menu 
     ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
     * vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的

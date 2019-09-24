@@ -20,6 +20,7 @@
 	- chromosome (n)染色體
 	- neuron (n)神經元 == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- genome (n)基因組
+	- embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
 	- cellular /ˈsɛljʊlə/ 
 		> 細胞的/細胞組成的 |Relating to or consisting of living cells.| cellular proliferation
 		> 蜂巢式網路的 |Denoting or relating to a mobile telephone system that uses a number of short-range radio stations to cover the area that it serves, the signal being automatically switched from one station to another as the user travels about.|
@@ -36,6 +37,7 @@
 	- hind leg (n)後腿
 	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
 
+	- cannibal (n)食人者, 同類相食的動物
 	- mutualism /ˈmjuːtʃʊəlɪz(ə)m/ (n)互利共生, 互助
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ 片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
@@ -63,6 +65,9 @@
 	- sheep (n)綿羊, 羊, 懦怯之人, 信徒, 教區居民
 	- giraffe /dʒɪˈrɑːf/ (n)長頸鹿
 
+	- hadrosaur (n)鴨嘴龍
+	- Coelophysis (n)腔骨龍屬，又名虛形龍，是北美洲的小型、肉食性、雙足恐龍
+	- Edmontosaurus (n)埃德蒙頓龍屬，是鴨嘴龍科下的一屬恐龍
 	- mammoth /ˈmaməθ/ (n)長毛象/猛獁象
 	- woolly mammoth (n)真猛瑪象
 	- rhino /ˈrʌɪnəʊ/ (n)犀牛 == rhinoceros /rʌɪˈnɒsərəs/
@@ -310,7 +315,7 @@
 	- rye /rʌɪ/ (n)裸麥/黑麥, 裸麥威士忌, 裸麥麵包
 	- oat (n)燕麥, 麥稈
 	* millet (n)小米/粟 
-	- barley (n)大麥
+	- barley /ˈbɑːli/ (n)大麥
 	* sorghum (n)高粱
 	* maize /meɪz/ (n)玉米
 
@@ -321,7 +326,8 @@
 	- arugula (n)芝麻菜
 	- sesame /ˈsɛsəmi/ (n)芝麻
 	- bok choy (n)小白菜
-	- alfalfa /alˈfalfə/ (n)苜蓿
+	- alfalfa /alˈfalfə/ (n)苜蓿/紫苜蓿
+	- clover /ˈkləʊvə/ (n)苜蓿/三葉草/紅苜蓿
 	- butterhead lettuce (n)結球萵苣
 	- kale (n)羽衣甘藍
 	- romaine (n)蘿蔓萵苣

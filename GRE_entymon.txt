@@ -1400,14 +1400,14 @@
 			+ /dɪˈtɪərɪəreɪt/ deteriorate (v)惡化/變糟 = aggravate = exacerbate = make worse
 			- detonate (v)引爆 = explode = fulminate --> detonation (n)爆炸, 爆炸聲 = explosion <-- de + ton 雷 = tunder 
 			+ detract --> detraction
-			+ detriment (n)損害/損壞原因 = loss = damage = injury --> detrimental (adj)有危害的 = damaging = harmful = inimical = pernicious = unfavorable <-- de + tri 摩擦 = rud + ment
+			+ detriment --> detrimental
 			+ devalue, devaluate (v)降低...的價值/貶值/貶低 = depreciate = depress = downgrade = lower
 			+ devolve
 
 		2. 加強/一再/完全 = intensive, up == a
 			- debate
 			- debrief (v)聽取...的報告 (n)任務報告 <-- de + breif 簡述
-			- debris (n)廢墟/殘骸 = detritus, 岩層 <-- de + bris 破壞 = break
+			- /ˈdɛbriː/ debris (n)廢墟/殘骸 = detritus, 岩層 <-- de + bris 破壞 = break
 			+ demand --> demanding
 			+ demur
 			+ denigrate
@@ -1492,7 +1492,7 @@
 			- disbar (v)取消…的律師資格
 			*** discharge (v)釋放, 解僱, 排放 = utter, 履行義務, 開槍 (n)獲官方允許離開, 排放, 分泌物, 履行, 開槍
 			+ disciple --> discipline --> disciplinary
-			+ disclose (v)揭露/公佈 = divulge
+			+ disclose (v)揭露/公佈 = divulge = unfold
 			* discontinued (adj)停產的
 			+ discontinuity (n)不連續/不連貫
 			+ discount (n/v)減價/打折 (v)忽視/不理會 = disregard <|> recount
@@ -1615,6 +1615,7 @@
 			- diagram (n)圖表/示圖 (v)用圖示表示
 			+ diaphanous (adj)薄如蟬翼的 = sheer = trasnparent = vague
 			- diameter
+			- diaper (n)尿布, 花紋織物 (v)幫..穿上尿布, 以花紋裝飾
 		
 		2. 反/相對/對面 = opposite
 			- diagonal (n)對角線, 斜線 (adj)對角的, 斜的 = slanting
@@ -2112,6 +2113,7 @@
 
 	esthete 感覺
 		+ aesthete (n)審美家 --> /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
+		- aesthetics (n)美學
 		- /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑
 
 	ev 時代 = age
@@ -3274,7 +3276,7 @@
 		+ transitory
 
 	idio 獨特的/唯一的 = peculiar
-		+ idiosyncrasy (n)氣質/風格/特點 = characteristic = habit = quirk, 特異體質 --> idiosyncratic (adj)獨特的/特性的 = peculiar
+		+ idiosyncrasy (n)氣質/風格/特點 = characteristic = habit = quirk, 特異體質 --> idiosyncratic (adj)獨特的/特性的 = peculiar = unconventional
 		- /ˈɪdɪəlɛkt/ idiolect (n)個人的講話風格
 		- idioventricular (adj)心室的
 
@@ -3687,9 +3689,10 @@
 		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
 
 	miss, mit, mise 送/放出 = send, give over
-		+ commit (v)託付 = consign = delegate, 承諾, 犯罪/做錯事, 將…送進(監獄或醫院) --> committed (adj)盡忠的/忠誠的, 承諾過的
+		+ commit (v)犯, 使承擔義務/使表態, [be committed to]專注於, (資源)留用, [oneself to]獻身, 與...有長期感情關, [to]把..交託給, 押交, 送審 --> committed (adj)盡忠的/忠誠的, 承諾過的
 		+ commitment (n)投入/奉獻, 承諾/保證
 		- committal (n)拘押, 埋葬
+		- committee (n)委員會, [法]保護人
 		++ commission (V)委任/委託, 指名, 使..投入使用 (n)任務/職權, 委託品, 被委託人, 佣金, 委任狀/所授軍銜, 犯罪
 		- commissary (n)代表/代理, 雜貨店/小賣部
 		+ demit (v)辭職/退職 = resign
@@ -4107,7 +4110,8 @@
 		* denunciate (v)公開譴責 = denounce --> denunciation (n)公開譴責 = public censure/condemn, 指控/告發
 		- enounce (v)宣布/闡明, 發音
 		+ enunciate (v)清晰地發音, 明確表明/闡明
-		- pronounce (v)發音, 宣告 = announce = proclaim, 宣判 = convict --> pronounced (adj)明顯的 = conspicuous
+		- pronounce (v)發…的音, 宣稱 = announce = proclaim, [on]宣判 = convict
+		+ pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake = recant, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
 
@@ -4357,6 +4361,7 @@
 		- /ˈsɪnənɪm/ synonym (n)同義字
 		- /ˈantənɪm/ antonym (n)反義字
 		- /ˈakrənɪm/ acronym (n)縮寫
+		- tautonym
 
 	orex 胃口/渴望 = longing
 		- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症
@@ -5851,6 +5856,7 @@
 		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
 		- stationary (adj)靜止的/不動的, 不變的
 		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute
+		- /statʃʊˈɛt/ statuette (n)小雕像
 		- statuary (mn)雕塑
 		- stature (n)聲望 = reputation = prestige, 身高
 		- status (n)地位 = standing = station, 狀態 = situation, 近況
@@ -6177,11 +6183,11 @@
 		- transcendental (adj)超凡的/人智所不及的, 先驗的
 	
 	sci 知道 = know == nois == gnost == cogn
+		+++ /ˈkɑn(t)ʃəs/ conscious (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional <|> conspicuous
 		* /ˈkɒnʃ(ə)ns/ conscience (n)良心/善惡觀念 <|> /ˈkɑn(t)ʃəs/ conscious
 		+ /ˌkɒnʃɪˈɛnʃəs/ conscientious (adj)本著良心的 = principled, 勤勉認真的 = assiduous
-		+++ /ˈkɑn(t)ʃəs/ conscious (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional <|> conspicuous
-		- conscionable (adj)合乎良心的/公正的 = scrupulous
-		- omniscient (adj)無所不知的/博識的
+		- conscionable (adj)合乎良心的/公正的 = scrupulous <|> unconscionable
+		- /ɒmˈnɪsɪənt/ omniscient (adj)無所不知的/博識的
 		+ prescient (adj)有先見之明的 --> prescience (n)預知/先見 = foreknowledge = foresight = presage
 		- science (n)科學, 學科, 學問
 		- scientific (adj)科學的, 系統的/精確的
@@ -6411,7 +6417,7 @@
 			** contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
 			* contraction (n)收縮, 痙攣/子宮收縮
 			++ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心/轉移 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
-			+ distract (v)干擾, 使分心/轉移 = detract--> distracted (adj)心不在焉的  = distrait
+			+ distract (v)干擾, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = distracted = absent-minded
 			- distraught (adj)心煩意亂的
@@ -6420,7 +6426,7 @@
 			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
 			- pretended (adj)假的/假裝的 = assumed = pretend
 			+ pretense (n)假裝 = veil, 炫耀, [to]自稱/自吹 <-- pretend
-			++ pretension (n)意圖/抱負 = aspiration, [to]自稱/自命, 假裝/做作 = pretentiousness
+			++ pretension (n)意圖/抱負 = aspiration, 假裝/做作 = pretentiousness, [to]自稱/自命
 			+ pretentious (adj)炫耀的/矯飾的/自以為是的 = exaggerated = pompous = showy = conceited
 			+ protract (v)延長/拖長 = prolong --> protracted (adj)比平常久的/延長的
 			+ retract (v)縮回/收回 = draw back, 撤回(指控或承諾) = withdraw <|> retract
@@ -6606,14 +6612,15 @@
 		++ tortuous (adj)彎彎曲曲的 = twisting = winding, 囉嗦的/繞圈子的 = roundabout = circuitous = devious
 		+ /tɔːk/ torque (n)力矩, 項鍊/手鐲/項圈 = torc (v)施力矩
 		- tornado (n)颶風/龍捲風
-		- /təˈrɛnʃəl/ torrential (adj)傾盆的, 洶湧的
+		- /təˈrɛnʃəl/ torrential (adj)傾盆的 = teeming, 洶湧的
 		- detour (n)彎路, 繞行路線 (v)繞道, 繞過
 
 	trit, tribe 摩擦 = rub, wear down
 		- attrit (v)削弱 = wear down --> /əˈtrɪʃ(ə)n/ attrition (n)削弱, 磨損 = abrasion, 不徹底的懺悔
 		+ /kənˈtrʌɪt/ contrite (adj)悔罪的/悔恨的 = repentant = penitent = remorseful --> /kənˈtrɪʃən/ contrition (n)悔恨 = compunction = remorse = penitence = ruth
 		+ /ˈdʌɪətrʌɪb/ diatribe (n)怒斥/抨擊 <|> diaper
-		- detritus (mn)廢墟/殘骸 = waste = debris, 岩屑/碎石, 廢物/排泄物
+		- detritus (mn)廢墟/殘骸 = waste = debris, 岩屑/碎石, 廢物/排泄物 <|> detriment
+		+ detriment (n)損害/損壞原因 = loss = damage = injury --> detrimental (adj)有危害的 = damaging = harmful = inimical = pernicious = unfavorable <-- de + tri 摩擦 = rud + ment
 		+ trite (adj)陳腐的/老一套的 = banal = hack
 		- triturate (v)磨碎/搗碎 = grind, 咀嚼/磨碎(食物)
 
@@ -6626,18 +6633,18 @@
 	terminm, term 邊界/終止 = boundary, limit, end == fin
 		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
 		- exterminate (v)滅絕/消滅 = eradicate = annihilate = extirpate, 殺(蟲)
-		+ interminable
+		+++ term (n)專門名詞/術語, 措辭, 詞, 期/期限, 孕期結束, 租用期, 學期/開庭期, 條件, 要求額/費用, 和平條約, [數]項 (v)把……稱為
+		- terminology (n)術語/術語學 <-- term
 		- terminal (adj)末端的/終點的, 末期的 = incurable, 學期的 (n)終點站, 航廈, 電極, 終端機
 		- terminus (n)[英]終點站 = terminal, (時間或空間)終點
 		- terminate (v)結束/中止, 人工流產, 解僱 = dismiss, 謀殺 = murder --> termination (n)結束, 人工流產, 解僱, 暗殺 = assassination, 字尾
-		+++ term (n)專門名詞/術語, 措辭, 詞, 期/期限, 孕期結束, 租用期, 學期/開庭期, 條件, 要求額/費用, 和平條約, [數]項 (v)把……稱為
-		- terminology (n)術語/術語學 <-- term
+		+ interminable
 
 	tric, trig 複雜/迷惑 = perplex
 		- extricate (v)使擺脫/使脫離 = release --> extricable (adj)能擺脫的/可解救的 <--> inextricable
 		- inextricable (adj)分不開的, 無法擺脫的/無法逃離的
-		+ intricate (adj)錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (mn)複雜/紛亂 --> intricacies (n)細節 = details
-		++ intrigue (v)策劃/密謀 = plot, 吸引 = captivate = attract = fascinate = enamor = enchant = entrance (n)神秘, 陰謀, 地下情 --> intriguing (adj)吸引人的 = fascinating
+		+ /ˈɪntrɪkət/ intricate (adj)錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (mn)複雜/紛亂 --> intricacies (n)細節 = details
+		+++ intrigue (v)策劃/密謀 = plot, 吸引 = captivate = attract = fascinate = enamor = enchant = entrance (n)神秘, 陰謀, 地下情 --> intriguing (adj)吸引人的 = fascinating
 		* trick (n)騙局/詭計/惡作劇, 訣竅/秘訣, 習慣/癖好 (v)欺騙 (adj)欺詐的, 脆弱的 --> trickery (mn)欺騙/欺詐 = chicanery
 
 	triv, trieve 找 = find
@@ -6652,10 +6659,9 @@
 		+ intimidate (v)威嚇 = daunt = frighten = overawe <|> intimate
 		+ timid (adj)膽小的/無自信的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant --> timidity (mn)膽怯/無自信
 		+ timorous (adj)提心吊膽的/戰戰兢兢的 = fearful = tremulous = timid = trepid
-		- terror (mn)恐懼, 恐怖主義 = Terrorism, 令人恐懼之物, 討厭的人/造成麻煩的人 = holy terror
+		- terror (mn)恐懼, 恐怖主義 = terrorism, 令人恐懼之物, 討厭的人/造成麻煩的人 = holy terror
 		++ terrific (adj)極大的, [非]極好的 = excellent
-		+ trepid (adj)害怕的 = timorous = fearful --> trepidation (n)憂心/不安 = fear = anxiety = apprehension
-		- trepidation (mn)驚恐/不安
+		+ trepid (adj)害怕的 = timorous = fearful --> trepidation (mn)憂心/不安 = fear = anxiety = apprehension
 		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless
 
 	terr, ter 土
@@ -6689,73 +6695,76 @@
 		- toxin (n)毒素
 
 	turb 擾亂/混亂 = disturb, turmoil
-		* disturb (v)干擾安寧 = unsettle, 打斷/干擾 = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
-		* disturbance (n)干擾, 騷亂/紛亂/暴力事件
-		+ perturb (v)使不安/煩擾 = agitate = disconcert = disturb, 使精神錯亂 = derange <-- per + (dis)turb
-		- perturbation (n)不安, 引起不安的事物, 偏差, 攝動
+		* disturb (v)打斷/干擾 = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
+		* disturbance (mn)擾亂/打擾 (n)擾亂執法, 騷擾/混亂
+		+ perturb (v)使焦慮 = agitate = disconcert = disturb, 擾亂/使混亂 = disturb <-- per + (dis)turb
+		- perturbation (n)焦慮/不安, 引起不安的事物, 偏差, 攝動
 		+ turbid (adj)渾濁的/汙濁的 = muddy = opaque, 思想混亂的/紊亂的 = confused = confused = disturbed
-		+ turbulent (adj)動蕩的/混亂的 = chaotic = disturbed = tumultuous, 猛烈的/洶湧的 = violent --> turbulence (n)騷亂/動盪/混亂, 湍流/亂流
+		+ turbulent (adj)動蕩的/混亂的 = chaotic = disturbed = tumultuous, 猛烈的/洶湧的 = violent --> turbulence (n)亂流/湍流, 動亂/混亂 = conflict = confusion
 	
 	tauto 相同 = same
-		+ tautology (n)贅述, 重複/同義反覆
-		- tautomer (n)互變體 --> tautomeric (adj)
-		- tautonym (n)重名/屬種同名
+		+ tautology (mn)重複/同義反覆 (n)贅述
+		- tautomer (n)互變異構體(某些有機化合物的結構在兩種官能團異構體間產生平衡互相轉換的現象) --> tautomeric (adj)
+		- tautonym (n)重名/屬種同名(物種學名的兩個字都一樣，例如美洲野牛 Bison bison)
 
 	theo, the 神 = God
 		+ apotheosis, apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
-		- theism 
-		- /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> desim
+		- /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> deism <--> pantheism <--> atheism
+		- atheism (n)無神論 --> atheist (n)無神論者
+		- deism (n)自然神論
+		- /ˈpanθiːɪz(ə)m/ pantheism (n)泛神論
 
 [U]
 	un 不/相反/移除/剝奪 = not, removal, deprivation
-		* unaccustomed (adj)不習慣的/不熟悉的, 不尋常的/奇怪的
-		+ unadorned (adj)未經裝飾的/原來的/樸素的
-		- unaffected (adj)自然的/不矯揉造作的
+		- unabashed (adj)不害羞的/厚臉皮的
+		* unaccustomed (adj)[to]不習慣的/不熟悉的, 不尋常的
+		+ unadorned (adj)未經裝飾的/樸素的 = plain
+		- unaffected (adj)自然的/不矯揉造作的, 不受影響的
 		+ unambiguous (adj)不含糊的/清楚明白的 = unequivocal
-		+ unanticipated (adj)未預料到的/意料之外的
-		+ unassailable (adj)攻不破的/無懈可擊的 <-- un + assail + able
-		- unassuming (adj)謙虛的/不出風頭的
-		- unbecoming (adj)不合身的, 不得體的 = improper
-		- unbend (v)弄直, 放鬆
+		+ unanticipated (adj)未預料到的/意料之外的 = unexpected
+		+ unassailable (adj)攻不破的/無懈可擊的 = impeccable = impregnable = indisputable = infallible
+		- unassuming (adj)謙虛的/不出風頭的 = modest <--> pretentious
+		- unbecoming (adj)不合身的, 不得體的 = improper = unseemly
+		- unbend (v)弄直, 變融洽/放鬆, 卸下(帆), 解開(繩索)
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
-		- uncommitted (adj)不受約束的/不承擔責任的
+		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
-		* unconcerned (adj)不擔心的/漠不關心的/無興趣的 = blase
+		* unconcerned (adj)不擔心的/漠不關心的/無興趣的
 		+ /ʌnˈkɒnʃ(ə)nəbəl/ unconscionable (adj)不合理的 = unreasonable, 不合理地多的
-		- unconscious (adj)不省人事的, 下意識的, 沒有意識到的
-		* uncouth (adj)粗野的/粗魯的/笨拙的 = gauche
-		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick
-		- undeserved (adj)不應得的 <-- un + deserved
-		- undesirable (adj)令人不悅的/討厭的 = unwanted
-		- undirected (adj)未受制導的
-		+++ undue (adj)過度的/過分的 = overly = excessive, 不適當的/不正當的, 未到期的 --> unduly (adv)過度 
-		- unearth (v)掘出/使出土, 發現 = discover
-		- unearthly (adj)奇異的 <-- un + earthly
-		* uneasiness (n)焦慮/不安 = compunction
-		- unenlightened (adj)愚昧無知的/不文明的/落後的
+		- unconscious (adj)不省人事的, 下意識的, [of]沒有意識到的 = unaware (n)[the]潛意識
+		* uncouth (adj)粗野的/粗俗的 = gauche = crude
+		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick = atypical <|> inconvenient
+		- undeserved (adj)不應得的/不該受的 <-- un + deserved
+		- undesirable (adj)令人不悅的/不受歡迎的 = unwanted (n)不受歡迎的人
+		- undirected (adj)無方向的/無目標的
+		+++ undue (adj)不適當的/過度的/過分的 = overly = excessive = disproportionate --> unduly (adv)過度 
+		* unearth (v)掘出/使出土, 發現 = discover, 把(狐狸)趕出洞穴 <|> unearthly
+		- unearthly (adj)奇異的 = unnatural = mysteriou <-- un + earthly
+		* uneasiness (n)焦慮/不安 = anxiety = discomfort = compunction
+		- unenlightened (adj)未受啟迪的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
 		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
-		- unexceptionable (adj)無可非議的/無懈可擊的
-		- unfailing (adj)無盡的/無窮的 = everlasting = inexhaustible
-		- unfasten (v)解開
-		* unfathomable (adj)深不可測的/不可理解的 = inscrutable = impenetrable
-		+ unfavorable (adj)不利的/不適宜的 = inimical = adverse, 相反的/反對的, 令人不快的
-		+ unfeigned (adj)不虛偽的/真誠的 = genuine
+		- unexceptionable (adj)無可指摘的/完美無缺的 == not open to objection
+		- unfailing (adj)沒有瑕疵的, 忠實可靠的
+		- unfasten (v)解開 = undo, 鬆脫
+		* unfathomable (adj)無法測量的, 深不可測的 = inscrutable = impenetrable
+		+ unfavorable (adj)反對的/缺少支持的, 不利的 = adverse = inauspicious
+		+ unfeigned (adj)不虛偽的/真誠的 = genuine = sincere
 		- unfetter (v)釋放/使自由
-		+ unflappable (adj)不驚慌的/鎮定的
+		+ unflappable (adj)[非]不驚慌的/鎮定的
 		- unflinching (adj)不畏縮的/堅定無畏的
-		- unfold (v)展開/打開, 逐漸呈現
+		- unfold (v)展開/打開, 逐漸發展, 揭露 = reveal = disclose = divulge
 		+ unforthcoming (adj)不願透露訊息的, 無法隨時可得的
-		- unforgiving (adj)不願原諒的, 嚴峻的
+		- unforgiving (adj)不願原諒的, 嚴峻的 = harsh = hostile
 		- unfounded (adj)無事實根據的 = groundless = unwarranted
-		+ ungainly (adj)優雅的 <-- un + gainly
-		* ungodly (adj)不敬神的/不虔誠的, 有罪的/邪惡的
-		- ungrudging (adj)慷慨的
-		+ unguided (adj)無約束的, 無約束的
-		- unimpassioned (adj)沒有激情的
+		+ ungainly (adj)笨拙的/不優雅的 = awkward = clumsy <-- un + gainly
+		* ungodly (adj)不虔敬的 = irreligious = impious, 不道德的 = immoral
+		- ungrudging (adj)不吝惜的/慷慨的 <--> grudging
+		+ unguided (adj)無導向的, (飛彈)無導向裝置的
+		- unimpassioned (adj)心平氣和的
 		+ unimpeachable (adj)無可指責的/無可置疑的 = trustworthy <-- un + impeach + able
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/缺乏經驗的 = inexperienced
@@ -6798,7 +6807,7 @@
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
 		+ unscrupulous (adj)肆無忌憚的/不講道德的 = unprincipled
-		+ unseemly (adj)不適當的/不宜的 = indecorous
+		+ unseemly (adj)不適當的/不宜的 = indecorous = unbecoming
 		* unsentimental (adj)不感情用事的
 		- unsettle (v)使不安寧/攪亂 = disturb --> unsettling (adj)令人不安的/擾亂的
 		- unsound (adj)不結實的/不堅固的, 無根據的
@@ -6820,7 +6829,7 @@
 		+ /ˌənˈtraməld/ untrammeled (adj)不受限制的/無拘無束的
 		- untutored (adj)未經教育的
 		+ unverifiable (adj)無法證實的/無可考證的
-		+ unwarranted (adj)沒有根據的, 無保證的/未經授權的
+		+ unwarranted (adj)沒有根據的/無保證的 = unfounded
 		+ unwavering (adj)不動搖的/堅定的
 		- unwieldy (adj)龐大的/笨重的 = cumbersome, 使用不便的 
 		+ unwitting (adj)無心的/不經意的 = inadvertent = unaware
@@ -7003,7 +7012,7 @@
 		+ circumvent
 		- contravene (v)違反/違背(法律或規則)
 		+ convene (v)召集/召開 = rally --> convention (n)大會, 習俗 --> conventional (adj)傳統的 = customary
-		- convenient (adj)方便的/便利的/省事的 --> convenience (n) = expediency
+		- convenient (adj)方便的/便利的/省事的 <|> conventional --> convenience (n) = expediency <--> inconvenient
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery <|> convene
 		- intervene (v)干涉/介入 --> intervention (n)干涉/介入
@@ -7016,7 +7025,7 @@
 
 	voc, voic, vok 叫喊/聲音 = call
 		+ avocation (n)副業 <-- vocation
-		+ advocate (v)支持/擁護 (n)支持者, 辯護者/律師 --> advocacy (n)
+		+ /ˈadvəkət/ advocate (v)支持/擁護 = recommend = support (n)支持者, 辯護者/律師 --> advocacy (n)
 		+ convoke (v)召開(會議) = convene <--> adjourn
 		+ equivocate (v)含糊其詞 --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
 		+ unequivocal

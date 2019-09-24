@@ -4,8 +4,8 @@
 + allow 允許 == let == permit == sanction == empower == be entitled to
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
-+ increase 增加 == enlarge == escalate == augment == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
-+ decrease 減少 == decline == dwindle == lessen == shrink 
++ increase 增加 == enlarge == escalate == augment == spiral == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
++ decrease 減少 == decline == spiral down/downward == dwindle == lessen == shrink 
 + new 嶄新的 == contemporary == recent == modern == original == state-of-the-art == unique = unusual
 + feel 想/認為 == assume == consider == think == deem == esteem == regard
 + find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
@@ -29,6 +29,7 @@
 + use 使用 == adopt == exploit == operate == practice == utilize
 + keep 維持 == maintain == preserve == retain == sustain == manage 
 + have 有 == own == carry == hold == include == possess
++ easy 簡單的 == effortless == painless == accessible
 - lose 失去 == drop == be deprived of 
 - talk 談論 == schmooze == communicate == exchange == interact == speak == tell
 - create 創作 == make == design == develop == produce == generate
@@ -47,7 +48,7 @@
 - need 需求 == requirement == demand == urgency
 
 ## Common
-+ clear 明顯的 == conspicuous == apparent == obvious == evident == prominent
++ clear 明顯的 == conspicuous == apparent == obvious == evident == prominent == pronounced
 - obscure 模糊的 == ambiguous == vague 
 - cultivate 培養 == enrich == nourish == promote == refine == foster
 - employee 員工 == laborer == staff member == worker
@@ -66,7 +67,7 @@
 - additional 新的/額外的 == extra == added == increased == new == other
 - helpful 有助益的 = conducive == instrumental
 - resolute 堅定的 == steadfast == adamant
-- disappear 消失 == dissolve == retreat == fade
+- disappear 消失 == dissolve == wear off == retreat == fade ==
 - friend 朋友 == partner == intimate == companion == ally == buddy
 - beneficial 有益的 == favorable == advantageous == good
 - possible 可能的  == accessible == achievable == feasible == imaginable == potential == probable == accessible
@@ -88,7 +89,10 @@
 - work 作品 == achievement == creation == production
 - content 內容 == chapters == section == subjects == substance == elements == items
 - traditional 傳統 == conventional == classic == long-established == old-fashioned == standard == routine 
-- present 現在 == now == today 
+- present 現在 == now == today
+- difference 差異 == distinction == separation == differential
+- trend 趨勢 == style == fashion == rage
+- waste 廢物 == debris == scrap == trash == garbage
 
 ## Less Common
 - argue 爭論 == dispute == contend
@@ -109,3 +113,5 @@
 - cold 冷的 == bleak == frigid == chilled == frozen == cool
 - extreme 極端的/嚴峻的 == severe == harsh == serious == desperate == stern 
 - typical 標準的 == standard == normal == basic == classic
+- normal 普通的 == ordinary == mundane
+- minuscule 微不足道的 == negligible == inappreciable

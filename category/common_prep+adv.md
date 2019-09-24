@@ -51,6 +51,7 @@
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 - by and large 大體上/總體上/一般來講
 	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
+- somewhat /ˈsʌmwɒt/ (adv)有點/稍微
 
 ## Possibility
 - necessarily (adv)必然地 == inevitably

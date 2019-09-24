@@ -710,7 +710,7 @@
 	- stove (n)爐灶 == An apparatus for cooking or heating that operates by burning fuel or using electricity.
 	- fridge == refrigerator (n)冰箱
 	- countertop (n)爐台 == A flat surface for working on, especially in a kitchen; a worktop.
-	- cafeteria
+	- cafeteria (n)自助餐館
 		> 自助餐館 |A restaurant in which customers serve themselves from a counter and pay before eating.|
 		> |Denoting a system in which people may choose from a number of available options, especially one in which an employee may select a personal package of company benefits.|
 	- veal chop (n)小牛排
@@ -753,6 +753,8 @@
 	- surf-and-turf == surf 'n' turf (n)海陸雙拼 == a main course combining seafood and red meat.
 	- potato-chip bag (n)袋裝洋芋片
 	- goulash /ˈɡuːlaʃ/ (n)匈牙利湯
+	- brew /bruː/ (v)釀造, 泡(茶)/煮(咖啡), 醞釀 (n)啤酒, 杯子 = cup = mug, 混合物
+
 
 [Medicine]
 	- medical
@@ -1081,8 +1083,10 @@
 	- George Gershwin 喬治·蓋希文，是一位美國作曲家
 	- Benny Goodman 班尼·古德曼，美國著名單簧管演奏家，被譽為「搖擺樂之王」
 	- Taylor Swift 泰勒·艾莉森·絲薇芙特，是一名美國創作歌手、音樂製作人、慈善家及演員。作為當今全世界最有影響力的歌手之一
-	- playwright /ˈpleɪrʌɪt/ (n)劇作家
+	- cinema /ˈsɪnɪmə/ (n)電影院, 電影
+	+ playwright /ˈpleɪrʌɪt/ (n)劇作家
 	- set designer (n)舞臺設計師
+	- acting coach (n)表演教練
 	- score
 		> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
 		> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
@@ -1442,8 +1446,6 @@
 		> |(in the Roman Catholic Church) officiate as bishop, especially at Mass.| he pontificated at three Christmas Masses
 	- encyclical 諭 == A papal letter sent to all bishops of the Roman Catholic Church.
 	- Jesuit 耶穌會信徒
-	- theism == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
-	- atheism 無神論 --> atheist 無神論者
 	- Islam 伊斯蘭教 --> Islamic 伊斯蘭(教)的 == Relating to Islam.
 	- prelate 高級教士 == A bishop or other high ecclesiastical dignitary.
 	- nemesis
@@ -1458,6 +1460,7 @@
 	- gospel 福音 == The teaching or revelation of Christ.
 	- choir 唱詩班 == An organized group of singers, especially one that takes part in church services or performs in public.
 	- theism /ˈθiːɪz(ə)m/ 有神論/一神論 == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
+	- atheism 無神論 --> atheist 無神論者
 	- deism /ˈdeɪɪz(ə)m/ 自然神論 == Belief in the existence of a supreme being, specifically of a creator who does not intervene in the universe.
 	- pantheism /ˈpanθiːɪz(ə)m/ 泛神論 == A doctrine which identifies God with the universe, or regards the universe as a manifestation of God.
 	- Unitarian (adj)一位論派 (n)一位論派教徒 ==  person who asserts the unity of God and rejects the doctrine of the Trinity.
@@ -1594,6 +1597,7 @@
 	- smelter (n)精鍊工, 精鍊廠
 	- piston (n)活塞
 	- lubricant /ˈluːbrɪk(ə)nt/ (n)潤滑油/潤滑劑 (adj)潤滑的
+	- asphalt /ˈasfalt/ (n)瀝青/柏油 (v)鋪瀝青於
 
 [Sea]
 	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
@@ -1789,6 +1793,9 @@
 
 [Structure]
 	- housing (mn)房屋/住宅 (n)遮蔽物/遮蓋物
+	- villa (n)別墅, 羅馬時代的鄉間莊園
+	- roundhouse (n)圓形屋，一種帶圓形平面的房屋，通常帶有圓錐形屋頂
+	- basilica (n)長方形會堂/教堂
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
 	- apartment complex 公寓大樓 == a group of buildings that contain apartments and are managed by the same company.
 	- rafter 椽 == A beam forming part of the internal framework of a roof.
@@ -1804,10 +1811,11 @@
 		> |The top of the head.|
 		> |A stately building.|
 		> 腫起 |(of stratified rock or a surface) become rounded in formation; swell.|
-	+ parlor /ˈpɑːlə/
+	+ parlor /ˈpɑːlə/ (n)客廳, 接待室, 店
 		> 客廳 |A sitting room in a private house.| they had lunch in the parlor
 		> 接待室 |A room in a public building for receiving guests.| the mayor`s parlor
 		> 店 |A shop or business providing specified goods or services.| an ice-cream parlor
+	- tavern (n)小酒館/小客棧
 	* slum
 		> 貧民窟 |A squalid and overcrowded urban street or district inhabited by very poor people.|
 		> |Spend time at a lower social level than one`s own through curiosity or for charitable purposes.|
@@ -1912,6 +1920,7 @@
 	- hearth /hɑːθ/ (n)壁爐地面, 家, 熔爐
 	- cabin (n)客艙, 小木屋 (v)關在小地方
 	- grotto (n)洞穴/石室
+	- mason (n)石匠/泥水匠, 共濟會成員 (v)用石砌
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
