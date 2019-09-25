@@ -111,6 +111,7 @@
 	- modeling agency 模特兒公司 == company that represents fashion models, to work for the fashion industry
 	- boutique consulting firm 小型商業諮詢公司
 	- outfitter 旅行用品商店
+	- emporium (n)商業中心/大百貨店
 	- strip mall 條形商場，是一個露天購物中心，商店排成一排，前面有一條人行道
 	- subsidize
 		> 補助 |Support (an organization or activity) financially.| the mining industry continues to be subsidized
@@ -137,6 +138,7 @@
 	- arcade (n)拱廊/拱廊通道, 拱廊商業街
 	- ready-made (adj)預先製成的/現成的 (n)現成品
 	- administrative reorganization 行政重組
+	- wholesaler /ˈhəʊlseɪlə/ (n)批發商
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -1017,21 +1019,6 @@
 	- Grammy 葛萊美獎
 	- Henry David Thoreau 亨利·大衛·梭羅，他最著名的作品有散文集《湖濱散記》和《公民不服從》
 	* pun (n)雙關語 (v)說雙關語 == A joke exploiting the different possible meanings of a word or the fact that there are words which sound alike but have different meanings.
-	* prosody /ˈprɒsədi/
-		> 詩韻 |The patterns of rhythm and sound used in poetry.| the translator is not obliged to reproduce the prosody of the original
-		> 詩韻學 |The theory or study of prosody.|
-		> |The patterns of stress and intonation in a language.| the salience of prosody in child language acquisition
-	* hymn /hɪm/ 
-		> 讚美詩 |A religious song or poem of praise to God or a god.| a Hellenistic hymn to Apollo
-		> 讚美 |Praise (something)| the joys of domesticity were being hymned in magazines
-	* rhyme /rʌɪm/ <--> rhythm /ˈrɪð(ə)m/
-		> 韻/韻腳 |Correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.|
-		> 押...韻 |(of a word, syllable, or line) have or end with a sound that corresponds to another.| balloon rhymes with moon
-		> 押韻 |(of a poem or song) be composed in rhyme.| the poem would have been better if it rhymed
-		> 使成韻 |Put a word together with (another word that has a corresponding sound), as when writing poetry.| I`m not sure about rhyming perestroika with balalaika
-		> 作詩 |Compose verse or poetry| Musa rhymed and sang
-		> 押韻詩/韻文 |Rhyming poetry or verse.|
-		> 同音字 |A word that has the same sound as another.|
 	- punctuatio 標點符號
 	- ballad /ˈbaləd/ 民謠/民歌 == A poem or song narrating a story in short stanzas. Traditional ballads are typically of unknown authorship, having been passed on orally from one generation to the next.
 	* trope
@@ -1056,7 +1043,6 @@
 		> 桂冠詩人 |Poet Laureate|
 		> 戴桂冠的 |Wreathed with laurel as a mark of honour.|
 		> 月桂葉作成的 |consisting of laurel.|
-	- stanza 詩節 == A group of lines forming the basic recurring metrical unit in a poem; a verse.
 	- crossover event 穿越/跨界
 		> Chamberlain’s most popular videos tend to be collaborations, which tap the strength of multiple audiences like any crossover event.
 	+ spin-off
@@ -1073,8 +1059,33 @@
 		> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
 		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 	- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
+
+	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
+
 	- epistle (n)書信, 使徒書信
 	- lyrical (adj)抒情的, 歌詞的 
+	- ode /əʊd/ (n)頌詩/頌歌 <--> odd /ɒd/ <--> old /əʊld/ 
+	- iambic pentameter 五步抑揚格，用於傳統英語詩歌和詩歌劇的公制線
+	- iambic /ʌɪˈambɪk/ (adj)抑揚格的 (n)抑揚格的詩
+	- pentameter (n)五音步詩行(一種詩的韻律，以五步格創作的詩，其中的每一個句子，都可以被分為五個音步)
+	- syllable /ˈsɪləb(ə)l/ (n)音節, 絲毫 (v)發音清晰
+	- stanza (n)詩節 == A group of lines forming the basic recurring metrical unit in a poem; a verse.
+	* prosody /ˈprɒsədi/ (n)詩韻, 詩韻學
+		> 詩韻 |The patterns of rhythm and sound used in poetry.| the translator is not obliged to reproduce the prosody of the original
+		> 詩韻學 |The theory or study of prosody.|
+		> |The patterns of stress and intonation in a language.| the salience of prosody in child language acquisition
+	* hymn /hɪm/ (n)讚美詩, 讚美
+		> 讚美詩 |A religious song or poem of praise to God or a god.| a Hellenistic hymn to Apollo
+		> 讚美 |Praise (something)| the joys of domesticity were being hymned in magazines
+	* rhyme /rʌɪm/ (n)韻/韻腳, 押韻詩/韻文, 同音字 (v)押...韻, 押韻/成韻, 使成韻, 作詩 <--> rhythm /ˈrɪð(ə)m/ 
+		> 韻/韻腳 |Correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.|
+		> 押...韻 |(of a word, syllable, or line) have or end with a sound that corresponds to another.| balloon rhymes with moon
+		> 押韻 |(of a poem or song) be composed in rhyme.| the poem would have been better if it rhymed
+		> 使成韻 |Put a word together with (another word that has a corresponding sound), as when writing poetry.| I`m not sure about rhyming perestroika with balalaika
+		> 作詩 |Compose verse or poetry| Musa rhymed and sang
+		> 押韻詩/韻文 |Rhyming poetry or verse.|
+		> 同音字 |A word that has the same sound as another.|
+
 
 [Music/Performance]
 	- the Beatle 披頭四樂團
@@ -1319,11 +1330,14 @@
 	- earthenware (n)陶器/土器
 	* /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 
 	- glaze (v)給……裝玻璃/用玻璃覆蓋, 給…上釉/給…上光, 給(食物)表面澆糖汁, 使(眼睛)變呆滯 (n)光滑的表層, 釉, 糖汁, 翳
+	- stained glass (n)花窗玻璃(為西方建築裝飾品，常見於教堂)
 
 	- neoclassical 新古典主義的
 	- romanticism 浪漫主義
 	- Transcendentalism 超越主義/超越論，也稱作「新英格蘭超越主義」或「美國文藝復興」，是美國的一種文學和哲學運動。超驗主義強調人與上帝間的直接交流和人性中的神性，具有強烈的批判精神。其社會目標是建立一個道德完滿的烏托邦式理想社會，其精神成為美國文化中一個重要遺產。
 
+	- still-life (n)靜物畫
+	- portrait /ˈpɔːtrət/ (n)肖像/畫像, 描繪/描寫
 	- the Mona Lisa
 	- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
 	- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
@@ -1790,6 +1804,7 @@
 		> 汽車駕駛室的車底板 |The floor of a motor vehicle.| the keys had fallen on the floorboard of her car
 	- thermostat 恆溫器
 	- utensil /juːˈtɛnsəl/ 用具 == A tool, container, or other article, especially for household use.
+	- display case (n)陳列櫃
 
 [Structure]
 	- housing (mn)房屋/住宅 (n)遮蔽物/遮蓋物

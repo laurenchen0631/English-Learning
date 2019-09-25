@@ -229,6 +229,8 @@
 - with sth in mind 對..有所計畫 == to have a plan or intention
 	- Did you have anything in mind for Helen`s present?
 - bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
+- by accident 無意地
+	- She hit me with her hand, apparently by accident.
 
 ## Status
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.

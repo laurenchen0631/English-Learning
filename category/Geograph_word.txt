@@ -98,21 +98,26 @@
 	- geothermal gradient (n)地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
 	- geostationary 與地球同步旋轉的
 
+	- tidal /ˈtʌɪd(ə)l/ (adj)潮汐的
+	- tidal force (n)潮汐力(物體壓縮或拉伸的一種假想力，是由於重力場強度不同所導致的)
+	- albedo /alˈbiːdəʊ/ (n)反照率，指物體反射太陽輻射與該物體表面接收太陽總輻射的兩者比率或分數度量，也就是指反射輻射與入射總輻射的比值
+	- ozone depletion (n)臭氧層空洞，地球大氣上空平流層的臭氧從1970年代開始，以每十年4％的速度遞減的一種現象
+	- ground-level ozone (n)對流層臭氧，屬於一種對生物有害的污染物，是光化學煙霧的組成部分之一
+	- stratosphere /ˈstratəˌsfɪə/ (n)平流層, [非]最上層/巔峰
+	- troposphere /ˈtrɒpə(ʊ)sfɪə/ (n)對流層
+
 	- undertow (n)深逆流/退浪/回頭浪, 暗流
 	- pulverization (n)粉碎
 	- salinization (n)鹽土化作用
-	- water table 地下水位
+	- water table (n)地下水位
 	+ runoff (n)決賽/決選投票, 地表逕流(雨水或是冰雪融化後的水流經地表產生的水流，因土壤無法吸收水份而形成)
 	- landslide (n)山崩/滑坡, 選舉的壓倒性大勝利
 	- leach (v)(土壤)漂洗/過濾
 	- brine (n)濃鹽水, 海水, 鹵水 (v)用濃鹽水浸泡
 	- lateral accretion (n)外積作用
 	- secondary flow (n)二次流/副流(疊加在主流上的相對較小的流)
-	- tidal /ˈtʌɪd(ə)l/ (adj)潮汐的
-	- tidal force (n)潮汐力(物體壓縮或拉伸的一種假想力，是由於重力場強度不同所導致的)
 	- high tide (n)滿潮
 	- low tide (n)低潮/退潮
-	- albedo /alˈbiːdəʊ/ (n)反照率，指物體反射太陽輻射與該物體表面接收太陽總輻射的兩者比率或分數度量，也就是指反射輻射與入射總輻射的比值
 
 
 [Ore/Rock]

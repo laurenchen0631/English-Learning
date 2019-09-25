@@ -1,6 +1,6 @@
 [General]
 	+ species (n)物種, 種/類 = sort = kind --> - /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
-	+ spawn (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲
+	+ spawn /spɔːn/ (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲 <--> spore /spɔː/ 
 		> 產卵 |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
 		> 卵 |The eggs of fish, frogs, etc.| the fish covers its spawn with gravel
 		> (電玩遊戲)出現 |(of a character or object in a video game) appear at a certain point in the game.| then they enter the undead land where defenders will spawn to fight against them
@@ -38,6 +38,7 @@
 	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
 
 	- cannibal (n)食人者, 同類相食的動物
+	- scavenger /ˈskavɪn(d)ʒə/ (n)食腐動物, 拾荒者
 	- mutualism /ˈmjuːtʃʊəlɪz(ə)m/ (n)互利共生, 互助
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ 片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
@@ -162,6 +163,8 @@
 	- eider /ˈʌɪdə/ (n)絨鴨/歐絨鴨
 	- eiderdown (n)鴨絨
 
+	- eagle /ˈiːɡ(ə)l/ (n)鷹
+	- crow /krəʊ/ (n)烏鴉, 啼叫聲, 歡呼聲 (V)(公雞)啼, 誇耀/誇口 
 	- passenger pigeon (n)旅鴿
 	- parrot (n)鸚鵡 (v)機械式地模仿
 	- parakeet, parrakeet /ˈparəkiːt/ (n)長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
@@ -182,6 +185,7 @@
 	- sturgeon /ˈstəːdʒ(ə)n/ (n)鱘 
 	- eel /iːl/ (n)鰻 
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
+	- salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
 	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
 
 	- bottlenose dolphin (n)寬吻海豚屬
@@ -296,6 +300,7 @@
 	- bachelor buttons (n)矢車菊
 	- rhododendron /ˌrəʊdəˈdɛndr(ə)n/ (n)杜鵑花
 	- dandelion /ˈdandɪlʌɪən/ (n)蒲公英
+	- balsam /ˈbɔːlsəm/ (n)香脂, 產香脂的樹, 鳳仙花
 
 	- milkweed (n)乳草 
 	- mandrake /ˈmandreɪk/ (n)曼陀羅草
@@ -328,6 +333,7 @@
 	- bok choy (n)小白菜
 	- alfalfa /alˈfalfə/ (n)苜蓿/紫苜蓿
 	- clover /ˈkləʊvə/ (n)苜蓿/三葉草/紅苜蓿
+	- cabbage /ˈkabɪdʒ/ (n)高麗菜/甘藍菜
 	- butterhead lettuce (n)結球萵苣
 	- kale (n)羽衣甘藍
 	- romaine (n)蘿蔓萵苣

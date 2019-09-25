@@ -46,6 +46,9 @@
 - kind 種 == sort == type == brand == variety
 - error 錯誤 == failure == fault == glitch == mistake
 - need 需求 == requirement == demand == urgency
+- stop 阻止 == prevent == avoid == check == hold back == interrupt == suspend == bar 
+- target 目標 == objective == purpose == intention == aim == goal
+- completely 完全地 == absolutely == comprehensively == perfectly == ultimately == utterly == wholly
 
 ## Common
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent == pronounced

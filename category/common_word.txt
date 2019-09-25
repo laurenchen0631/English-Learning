@@ -329,6 +329,7 @@
 		> 復發 |An attack of illness or strong emotion.
 		> 比賽 |A wrestling or boxing match.| he fought 350 bouts, losing only nine times
 		> |A curve in the side of a violin, guitar, or other musical instrument.|
+	- bowl (n)碗/缽, 碗狀部分, 圓形運動場/圓形露天劇場, 木球/圓球, 滾動球 (v)投(球)
 	- box up 打包 == box == enclose or confine as if in a box
 	- brainchild 獨創的觀念 == An idea or invention which is considered to be a particular person`s creation.
 	- branch out 涉足/擴展 == to start to do something different from what you usually do, especially in your job
@@ -726,6 +727,7 @@
 		> 蔓生的 |(of a plant) growing along the ground or other surface by means of extending stems or branches.| creeping ivy can do damage to the wall surface
 		> 蔓延的 |(of a negative characteristic or fact) occurring or developing gradually and almost imperceptibly.| a creeping sense of dread
 	- crippled (adj)跛腿的, (機器)嚴重受損的
+	- crinkle (v)皺縮 = wrinkle (n)摺皺 = wrinkle = crease
 	- cross
 	- cross out 劃掉 == to draw an X or a line through writing because it is wrong or because you have decided to write something else
 		> Just cross out the old address.
@@ -1287,6 +1289,7 @@
 	+ even /ˈiːv(ə)n/ (adj)平坦的/平滑的, 水平的, 同樣的, 對等的/均等的, 規律的 = regular, 鎮定的/沈著的 = equable, 偶數的 (v)使平整 (adv)甚至
 	+ even (sth) out 公平/使相等 == to become equal, or to make something equal
 		> The league is divided into two skill levels in order to even out the competition.
+	- eventual /ɪˈvɛn(t)ʃʊ(ə)l/ (adj)最終的
 	
 [F]
 	- fan -> fanned -> fanned
@@ -3318,6 +3321,10 @@
 		> Clients often phone me up at inconvenient times.
 
 [Q]
+	- quasi- (adj)類似..的/準
+		- quasi-liquid layer 類液態薄層
+		- quasi-military
+
 	- qualify
 		> |Be entitled to a particular benefit or privilege by fulfilling a necessary condition| He qualifies as a genuine political refugee
 		> |Make (a statement or assertion) less absolute; add reservations to| She felt obliged to qualify her first short answer
@@ -4523,7 +4530,10 @@
 		> 痛打 |Beat (someone) repeatedly as a punishment.| If Mickey touches a fishing net, I`ll tan his hide!
 		> 含單寧酸的樹皮 |tanbark|
 	- tag along 跟隨/尾隨 == to go somewhere with a person or group, usually when they have not asked you to go with them
-			> I do not know her, she just tagged along with us.
+		> I do not know her, she just tagged along with us.
+	- throw off 使混亂 == to cause an amount to be wrong or a person to be confused
+		- They left very rich people out of the study so their spending would not throw off the results.
+		- A busy morning can throw off my entire daily schedule.
 	- throughout
 	- therefore /ˈðɛːfɔː/
 	- talk up == to discuss favorably == advocate == promote 

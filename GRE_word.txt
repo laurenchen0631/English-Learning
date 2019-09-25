@@ -681,7 +681,7 @@
     + /drô/ draw (n/v)平手, 吸引/引起, 作(比較), 畫
     + /drōl/ droll (adj)離奇好笑的 = whimsically humorous = waggish --> drollness (n) <-- [德]小胖子 = fat little man
     + dross (n)浮渣, 渣滓/廢物 <-- dregs
-    ++ due (adj)預期在...發生/計畫在..發生, 應支付的, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting, [to]因為/由於 (n)應得權益, 應付款 = fee (ADV)正 = directly
+    ++ due (adj)預期在...發生/計畫在..發生, 應支付的, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting, [to]因為/由於 (n)應得權益, 應付款 = fee (ADV)正 = directly <--> undue
     + dupe (v)欺騙 = deceive = delude = cozen = trick = hoodwink = hoax (n)容易受騙的人 = gull
     + dwindle (v)變小/衰退 = diminish = degenerate = shrink = shrivel = wither = flag <|> swindle
 
@@ -943,7 +943,7 @@
     ++ furtive (adj)偷偷的/秘密的 = sly = shifty = sneaky = stealthy = secret = surreptitious, 狡猾的 = sly = shifty = cunning = canny <-- furt 小偷 = thief + ive
     + fusion (n)融合 = union = synthesis, 聚變, 熔化/熔解
     + fusty (adj)腐壞的/發霉的 = moldy = musty, 陳腐的/守舊的/過時的 = stale = hackneyed
-    ++ /ˈfjuːtʌɪl/ futile (adj)無效的/無用的 = ineffective = feckless = fruitless = vain = nugatory, 不重要的/瑣細的 = frivolous = unimportant = inconsequential = slight = trifling = trivial = lilliputian = nugatory, 沒有出息的 --> futility (n)徒勞/無益
+    ++ /ˈfjuːtʌɪl/ futile (adj)無效的/無用的 = ineffective = feckless = unproductive = fruitless = vain = nugatory, 不重要的/瑣細的 = frivolous = unimportant = inconsequential = slight = trifling = trivial = lilliputian = nugatory, 沒有出息的 --> futility (n)徒勞/無益
         
     * facsimile (n/v)摹寫
     * faint (adj)頭暈的, 微弱的/暗淡的 = dim = wan = opaque, 虛弱的 = feeble, 膽小的 = timid (v)昏厥, 變得沒氣力
@@ -966,7 +966,7 @@
     * fireplug (n)消防栓 = hydrant
     ** filthy (daj)髒的/汙穢的 = sordid = squalid, 可鄙的/卑劣的 = contemptible = sordid = wretched = vile, 淫穢的/下流的 = vulgar = obscene = vile
     * /flɛː/ flair (n)天資/才能 = bent = knack = natural talent
-    * flap (n/v)拍打/拍動, 扔/擲, 激動/慌亂 <|> flip
+    * flap (n/v)拍打/拍動, 扔/擲, 激動/慌亂 <|> flip <--> unflappable
     * flatter (v)諂媚/奉承 = adulate = fawn --> flattery (n)奉承/恭維 
     ** flighty (n)輕浮的 = frivolous, 反復無常的 = capricious = fickle, 不負責任的 = irresponsible = feckless <|> filthy
     * flinch (v)(因疼痛或恐懼)畏縮/退縮 = recoil 
@@ -2063,7 +2063,7 @@
     + /ˈpiːən/ paean, pean (n)讚美歌/頌歌 = hymn = eulogy = panegyric
     + painstaking (adj)十分小心的/仔細的 = careful = scrupulous = meticulous = measured = fastidious = finicky = fussy = guarded = deliberate = thorough
     + /pəˈleɪʃ(ə)l/ palatial (adj)宮殿般的, 宏偉的 = magnificent = stately = majestic <-- palace
-    + /ˈpalət/ palate (n)上顎, 味覺, 口味 --> palatable (adj)美味的 = sapid, 使人愉快的/令人滿足的
+    + /ˈpalət/ palate (n)上顎, 味覺, 口味 --> palatable (adj)美味的 = sapid, 使人愉快的/令人滿足的 <--> unpalatable
     + palaver (n)談判/交涉, 無意義繁瑣的步驟, 冗長且無意義的討論 (v)空談/嘮叨
     ++ /ˈpalɪeɪt/ palliate (v)減輕 = mitigate = alleviate = moderate = temper = reduce = abate = qualify = allay, 掩飾罪行 = extenuate <-- pall 遮蓋物
     + /ˈpalɪm(p)sɛst/ palimpsest (n)重複書寫之羊皮紙, 具有多種意義的事物/多種風格交織的事物
@@ -2530,7 +2530,7 @@
     + savor, savour (n)味道, 口味/風味 = zest (v)調味 = smack = season, 品嚐 = taste, 品味/享受 = relish = enjoy
     +++ scant (v)減少/限制, 忽視 = negelect (adj)不足的/缺乏的 --> scanty (adj)不足的/缺乏的 = meager = inadequate = stingy = sparing = brief = penurious, 狹窄的 = small --> scantiness (n) = scarcity = paucity = dearth
     ++ /skɛːs/ scarce (adj)缺乏的/不足的 = insufficient = scanty, 稀有的/罕見的 = rare = uncommon --> scarcity (n)不足/缺乏 = paucity = scantiness = dearth, 稀有 = rarity = infrequency
-    ++ /skeɪð/ scathe (v)傷害 = hurt = harm = injury --> scathing (adj)苛刻的/嚴厲的 = severe = vitriolic = truculent
+    ++ /skeɪð/ scathe (v)傷害 = hurt = harm = injury <--> unscathed --> scathing (adj)苛刻的/嚴厲的 = severe = vitriolic = truculent 
     + /sɛnt/ scent (n)香味, 氣味 = odor, 蹤跡/線索/跡象 = track = trail, 嗅覺 = sense of smell, 香水 = perfume (v)嗅/聞, 使充滿氣味 = perfume
     + /ˈʃɑːd(ə)nˌfrɔɪdə/ schadenfreude (mn)幸災樂禍 <-- Schaden == harm + Freude == joy.
     *** /skiːm/ scheme (n)計畫, 組合, 體制/結構, 圖解/大綱/摘要, 詭計/陰謀 = machination = plot = stratagem (v)計畫/密謀 = plan = plot
@@ -2542,7 +2542,7 @@
     +++ scorn (n/v)輕視/貶低 = belittle = detract = disparage = contempt = flout = trifle, 藐視 = scant --> scornful (adj)輕視的/嘲笑的 = derisive = contemptuous
     + scourge (n/v)鞭笞 = whip = lash = flog, 嚴懲/折磨 = punish severely = afflict = chastise (n)鞭打, 懲罰的工具, 苦難之源
     + /skriːd/ screed (n)冗長的文章, 砂漿層
-    +++ /ˈskruːp(ə)l/ scruple (n/v)顧忌/猶豫 = dither = falter = vacillate --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = meticulous = fastidious
+    +++ /ˈskruːp(ə)l/ scruple (n/v)顧忌/猶豫 = dither = falter = vacillate --> scrupulous (adj)謹慎的/一絲不苟的/細心的 = meticulous = fastidious <--> unscrupulous
     + /ˈskruːtɪnʌɪz/ scrutinize (v)詳細檢查/細看 = examine --> scrutiny (n)詳細的檢查/仔細的觀察, 監視/監督 = surveillance <-- scrutin 搜尋 = search + ize
     * scrutable (adj)可解讀的 = comprehensible <--> inscrutable
     + /ˈskʌf(ə)l/ scuffle (v)扭打/亂鬥, 急趕 = scurry, 拖著腳走 = scuff (n)亂鬥, 跛腳 = shuffling
@@ -2621,7 +2621,7 @@
     + /stɛnˈtɔːrɪən/ stentorian (adj)聲音響亮的 = loud = orotund = resonant
     ++ /ˈstʌɪf(ə)l/ stifle (v)窒息 = suffocate = smother, 抑止/阻止 = suppress = curb = withhold  <|> stiff
     + stigma (n)汙名/污點 = disgrace = inferiority, 病斑 --> stigmatize (v)污蔑/玷污 <-- stig 刺青 = tattoo + ma
-    +++ stint (v)節省/節制 = economize (n)分配的工作, 花費的時間, 限制 = restraint = limitation
+    +++ stint (v)節省/節制 = economize (n)分配的工作, 花費的時間, 限制 = restraint = limitation <--> unstinting
     + stunt (v)妨礙生長, 表演特技 (n)驚人的表演/驚險動作, 引人注目的花招/噱頭
     + stipend (n)薪俸/津貼
     + stipulate (v)規定/約定/要求以...為條件 = specify = contract --> stipulation (n)規定/約定 <-- stipul 堅定 = firm + ate
@@ -3050,7 +3050,7 @@
     + telltale (adj)洩露秘密的 = revealing (n)指示器/計數器
     + /tɪˈmɛrɪti/ temerity (n)魯莽/大膽 = audacity = rashness <-- temer 輕率地 = rashly + ity
     * tempt (v)引誘/誘惑 = allure = lure, 打動/引起 = urge, 說服 = persuade --> temptation (n)渴望/誘惑, 誘惑物 = lure
-    +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend
+    +++ temper (v)使緩和/減少 = mitigate = moderate = palliate, 調和, 鍛鍊/錘鍊 = toughen (n)性情 = disposition = humor, 脾氣 = humor, 沈著 = composure, 勇氣 = courage, 傾向/趨勢 = trend <--> untempered
 	* temperamental (adj)喜怒無常的, 性情的
     +++ /ˈtɛmp(ə)rət/ temperate (adj)溫暖的/溫帶的, 節制的 = moderate = continent = abstemious, 適度的 = moderate <-- temper
     +++ temperance (n)自制/節制 = continence, 適度 = moderation, 戒酒/禁酒 <-- temper
@@ -3114,7 +3114,7 @@
     * /θrɔːl/ thrall (n)奴隸/俘虜 = slave, 奴役/束縛
     * /θrɛd/ thread (n)線, 一絲, 頭緒, 螺紋 = screw (v)使穿過, 除毛
     * /trɛd/ tread -> trod -> trodden (v)踩/踏 = trample, 行走 = step = walk (n)踩/踏, 足音, 樓梯踏板, 胎面, 鞋底, 輪距 <|> thread <|> treat
-    * /θrɛt/ threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的 
+    * /θrɛt/ threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的  <--> unthreatening
     *** treat (v)對待/看待, 處理, 探討, 治療, 宴請 (n)請客, 難得的樂事 <|> threat
     * treaty (n)條約/協議 <-- tractate
     * tip (n)頂/尖端/梢/末端, 垃圾場, 小費, 指點/指導, 內幕消息 (v)(使)傾斜/傾倒, 覆蓋…的尖端, 小費
@@ -3387,7 +3387,7 @@
     * /wɛlm/ whelm (v)壓倒/淹沒/覆蓋
     * wholesome (adj)有益的/有益健康的 = salutary = salubrious = beneficial, 謹慎的 = prudent, 安全的 = safe
     *** wicked (adj)邪惡的/惡毒的 = sinister = evil, 令人討厭的 = vile, 頑皮的 = mischievous = wanton, 過分的/過度的/超出認知的 
-    * /ˈwiːldi/ wieldy (adj)易使用的/易操作的, 有能力的/能力強的
+    * /ˈwiːldi/ wieldy (adj)易使用的/易操作的, 有能力的/能力強的 <--> unwieldy
     * /wʌɪl/ wile (n)詭計/騙人的把戲  <|> /wʌɪl/ while --> wily (adj)狡猾的 = crafty = subtle = artful = cunning 
     ** wither (v)枯萎/乾枯/凋謝 = blight = wizen = shrivel = droop = flag, 萎縮/逐漸消失 = blight = flag = decline = dwindle = shrivel --> withered (adj)枯萎的/凋謝的, 憔悴的
     *** withhold (v)抑止/阻止 = stifle = refrain = check, 拒絕給予 = deny = decline = forbear, 扣留/徵收(税)

@@ -26,6 +26,9 @@
 	- faraday 法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
 	- Celsius 攝氏 /ˈsɛlsɪəs/ 
 	- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
+	- C.E. == Common Era (n)西元
+	- B.C. == Before Christ (n)西元前
+	- A.D. == Anno Domini (n)西元(在主之年)
 
 [Law/Theory/Study]
 	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
@@ -116,8 +119,9 @@
 	- amino acid (n)胺基酸
 	- chloride (n)氯化物
 	- sodium chloride (n)氯化鈉
+	- ozone /ˈəʊzəʊn/ (n)臭氧
 	- oxidize /ˈɒksɪdʌɪz/ (v)氧化 == Combine chemically with oxygen.
-	- carbon dioxide
+	- carbon dioxide (n)二氧化碳
 	- methane /ˈmɛθeɪn/ (n)甲烷
 	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ (n)硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
 	- nitre (n)硝酸 --> nitric (adj)

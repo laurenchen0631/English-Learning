@@ -115,7 +115,7 @@
 		* And this is the meaning of …
 		* So this is how the professor describes …
 		* These examples demonstrate the idea of ______.
-* Customize
+* Customize 
 	1. Define the term or concept right away
 		* it’s best to define the given concept within the first couple of sentences before you discuss how the professor explains this concept in the lecture.
 	1. Use ample examples **from the lecture**
