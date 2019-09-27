@@ -15,12 +15,36 @@
 	- Scythian (n)斯基泰人，希臘古典時代在歐洲東北部、東歐大草原至中亞一帶居住與活動的農耕民族
 	- Bactrian (adj)巴克特里亞的/巴克特里亞人的 (n)雙峰駱駝, 巴克特里亞/巴克特里亞人(中亞古地名，中國史籍稱之為大夏，此地一說為吐火羅)
 	- Caucasian /kɔːˈkeɪʒən/, /kɔːˈkeɪzɪən/ (adj)白種人的, 高加索地方的, 高加索語言的 (n)白種人, 高加索人
+	- Eskimo (n)愛斯基摩人
+	- Semite (n)閃米人，是起源於阿拉伯半島和敘利亞沙漠的遊牧民族 --> Semitic (adj)閃語族的/閃米特人的
+	- Slavic (n)斯拉夫語 (adj)斯拉夫民族的, 斯拉夫語的
 
 [Language]
 	- Swahili (n)斯瓦希里語，是非洲語言使用人數最多的語言之一，和阿拉伯語及豪薩語並列非洲三大語言
 	- francophone (adj)法語圈的 (n)法語圈
 	- Sanskrit /ˈsanskrɪt/ (n)梵文 (adj)梵文的
 	- Austronesian (n)南島語系，主要由南島民族所使用的語言，是世界現今唯一主要分布在島嶼上的一個語系，包括約1300種語言
+	- Afrikaans (n)南非語
+	- Amharic (n)阿姆哈拉語，衣索比亞使用的閃語的一種，與阿拉伯語、希伯來語同屬閃語族
+
+[Festival]
+	- carnival (n)狂歡節, 嘉年華會/狂歡/歡宴, 旅遊狂歡節/旅遊遊樂場/巡迴演出
+		> 狂歡節 |An annual festival, typically during the week before Lent in Roman Catholic countries, involving processions, music, dancing, and the use of masquerade.| the culmination of the week-long carnival
+		> 嘉年華會/狂歡/歡宴 |A public event or celebration, typically held outdoors and involving stalls, entertainment, and processions.| children from Wroughton are getting ready for the village carnival
+		> |An exciting or riotous mixture of elements.| the film is a visual and aural carnival
+		> 旅遊狂歡節/旅遊遊樂場/巡迴演出 |A travelling funfair or circus.|
+	- maypole (n)五朔節花柱
+	- Ivan Kupala (n)伊凡·庫帕拉節，是聖若翰洗者慶晨在斯拉夫文化的版本，是當地人民慶祝夏至的節日。
+	- Yalda (n)雅爾達之夜，在一年中最長的黑夜，即北半球冬至這一天慶祝的伊朗節日
+	- Saturnalia (n)農神節
+	- ticker-tape parade (n)紙帶遊行，人們從街邊兩側高樓向外拋撒紙屑，以此向遊行隊伍中取得成就的某人表達敬意
+	- Easter (n)復活節，又稱主復活日，是基督宗教的重要節日之一
+	- New Year’s Eve (n)跨年日，又稱作元旦前日，不少國家在元旦前一天的夜晚，均有舉行迎接新年的活動
+	- Poppy Appeal (n)國殤罌粟花，在1920年後，歐洲用來紀念在戰爭中過世的士兵的花朵。源自於1920年，因為《在法蘭德斯戰場》這首詩中，提及在第一次世界大戰戰場上的罌粟花，美國軍團因此以罌粟花來紀念在第一次世界大戰中過世的美國軍人。
+	- Burning Man festival (n)燃燒人，一年一度在美國內華達州黑石沙漠舉辦的活動，九天的活動開始於美國勞動節前一個星期六，結束於美國勞工節當天
+	- Memorial Day (n)陣亡將士紀念日，是美國的一個紀念日，每年5月的最後一個星期一悼念在各戰爭中陣亡的美軍官兵。全國悼念時間於美東時間下午3時開始
+	- Labor Day (n)勞動節，勞動節通常是年度性與全球性的節日，目的是為了慶祝勞動階級對社會和經濟所做的貢獻。世界上大多數國家或地區的勞動節是在5月1日，因此通常也稱之為國際勞動節
+
 
 [City Division]
 	- suburb (n)郊區 == An outlying district of a city, especially a residential one.
@@ -30,11 +54,20 @@
 	- the Green Belt (n)綠帶，用於土地利用規劃的政策和土地使用區域名稱，用於保留周圍或鄰近城市地區的大部分未開發，野生或農業用地
 	- brownfield (n)棕色地帶的(指城鎮中原為工業用地現準備重新開發的地區)
 	- town square (n)廣場
+	- downtown (adj)商業區的 (adv)在城市的商業區 (n)城市商業區
 
 [Asia]
+	- Eurasia (n)歐亞大陸 
 	- Arabian Peninsula (n)阿拉伯半島，位於亞洲和非洲之間，它從中東向東南方伸入印度洋。面積約300萬平方公里，是世界上最大的半島
-	- Anatolia (n)安那托利亞，又名小亞細亞，是亞洲西南部的半島，位於黑海和地中海之間
+	- Anatolia == Asia Minor (n)安那托利亞，又名小亞細亞，是亞洲西南部的半島，位於黑海和地中海之間
+	- Mesopotamia (n)美索不達米亞，是古希臘對兩河流域的稱謂，意為「河流之間的地方」
 	- Empty Quarter (n)魯卜哈利沙漠，意為「空曠的四分之一」，由於其面積占據阿拉伯半島約四分之一而得名，是世界上最大的沙漠之一
+	- Caucasus Mountains (n)高加索山脈，在黑海與裏海之間，是俄羅斯和喬治亞、亞塞拜然等國的國界線
+	- Mount Everest == Everest (n)聖母峰，為地球第一高峰，屬於喜馬拉雅山脈，位於中國西藏自治區與尼泊爾薩加瑪塔專區邊界上
+	- Pamirs == Pamir Mountains (n)帕米爾高原，地理上屬亞洲中部，位於中國、塔吉克和阿富汗的邊境上
+
+	- the Tigris River 底格里斯河，中東名河，與位於其西面的幼發拉底河共同界定美索不達米亞
+	
 	- Syria (n)敘利亞，屬於中東阿拉伯國家，首都大馬士革
 		- Damascus 大馬士革，是亞洲國家敘利亞的首都，也是全世界最古老的有人持續居住城市
 	- Afghanistan (n)阿富汗
@@ -51,19 +84,47 @@
 		- Petra (n)佩特拉，約旦的一座古城，位於安曼南250公里處，隱藏在阿拉伯谷東側的一條狹窄的峽谷內
 		- the Holy Land (n)聖地，是在約旦河與地中海之間的一個區域，包括約旦河的東岸。「聖地」這個詞傳統上是「聖經以色列地」以及歷史上的「巴勒斯坦地區」的同義詞
 	- Iran (n)伊朗(很長一段歷史時間稱波斯) --> Iranian (adj)伊朗的/伊朗人的, 伊朗語系的 (n)伊朗人, 伊朗語系
+	- Persia (n)波斯 --> Persian (adj)
 	- Qatari /kaˈtɑːri/ (n)卡達，是位於西亞的君主專制國，屬於遜尼派的阿拉伯國家
 	- Israel (n)以色列，是位於西亞的主權國家
 		- Tel Aviv 特拉維夫市，是以色列第二大城市，也是國際社會普遍承認的以色列首都
 	- Turkey (n)土耳其 --> Turkish (adj)
 		- Hagia Sophia (n)聖索菲亞大教堂，現今土耳其伊斯坦堡的宗教建築，有近一千五百年的漫長歷史，因其巨大的圓頂而聞名於世
+	- Lebanon (n)黎巴嫩，是位於亞洲西南部、地中海東岸
+	- Turkmenistan /təːkˌmɛnɪˈstɑːn/ (n)土庫曼，一個中亞國家
+	
+	- the Golden Triangle (n)金三角，是緬甸、寮國、泰國交界地區
+	- the Strait of Malacca (n)馬六甲海峽，位於馬來半島與蘇門答臘島之間的海峽
+	- the Mekong River (n)湄公河，是亞洲最重要的跨國水系，世界第十二長河流
 
 	- Cambodia (n)柬埔寨 --> Cambodian (adj)柬埔寨的/柬埔寨人的/柬埔寨語的 (n)柬埔寨人/柬埔寨語
-	- Sri Lanka (n)斯里蘭卡(1972年之前稱錫蘭，是一個位於南亞－印度次大陸東南方外海的島國)
+		- Angkor Wat /ˈaŋkɔː/ (n)吳哥窟
+	- Tailand (n)泰國	
+		- Chiang Mai (n)清邁，也是泰國北部政治、經濟、文化的中心
 	- Bangladesh /ˌbaŋɡləˈdɛʃ/ (n)孟加拉 --> Bangladeshi (adj)孟加拉的/孟加拉人的 (n)孟加拉國人
-	- the Taj Mahal (n)泰姬瑪哈陵，是位於印度北方邦阿格拉的一座用白色大理石建造的陵墓
-	- Angkor Wat /ˈaŋkɔː/ (n)吳哥窟
+	- Sri Lanka (n)斯里蘭卡(1972年之前稱錫蘭，是一個位於南亞－印度次大陸東南方外海的島國)
+	- India (n)印度 --> Indian (adj)印度的, 印第安的 (n)印度人, 印第安人
+		- Hindu (adj)印度教的 (n)印度教徒
+		- the Taj Mahal (n)泰姬瑪哈陵，是位於印度北方邦阿格拉的一座用白色大理石建造的陵墓
+	- Maldives (n)馬爾地夫，位於斯里蘭卡及印度西南偏南對出的印度洋水域約500公里處
+	- Laos (n)寮國，寮人民民主共和國，是東南亞國家中唯一的內陸國家 --> Lao (adj)寮國的/寮國語的 (n)寮國人, 寮國語
+	- Malaysia (n)馬來西亞 --> Malaysian (adj)馬來西亞的/馬來西亞人的 (n)馬來西亞人
+		+ Malay (adj)馬來的/馬來語的 (n)馬來語, 馬來人 
+		- the Malay Peninsula (n)馬來半島
+		- Kuala Lumpur /ˌkwɑːlə ˈlʊmpʊə/ (n)吉隆坡，馬來西亞的首都兼最大城市
+		- Penang (n)檳城，是馬來西亞十三個聯邦州屬之一
+	- Myanmar /mjanˈmɑː/ (n)緬甸，是一個東南亞國家，位於中南半島西部
+	- Nepal (n)尼泊爾 --> Nepali (adj)尼泊爾的/尼泊爾人的/尼泊爾語的 (n)尼泊爾人, 尼泊爾語
+	- Vietnam /vjɛtˈnam/ (n)越南 --> Vietnamese (adj)越南的/越南人的/越南語的 (n)越南人, 越南語
+		- Ho Chi Minh 胡志明市
+	- Sumatra (n)蘇門答臘，最大的市區集中在巨港和棉蘭，當地居民使用52種不同語言，均屬於南島語系
 
 	- Yangtze /ˈjaŋtsi/ (n)長江
+	- Tibet /tɪˈbɛt/ (n)藏區，位於青藏高原之上、喜馬拉雅山以北，是藏族以及門巴族、珞巴族的聚居地
+	- Taklamakan Desert (n)塔克拉瑪干沙漠，位於中國新疆的塔里木盆地中央，是中國最大的沙漠
+	- Hong Kong (n)香港
+		- the New Territories (n)新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
+	- the Silk Road (n)絲路，通常是指歐亞北部的商路
 
 [Oceania]
 	- Oceania (n)大洋洲(將澳大利亞洲與太平洋諸島嶼併稱的地理區域)
@@ -74,8 +135,29 @@
 	- Solomons (n)索羅門群島，南太平洋的一個島國，位於澳洲東北方，巴布亞紐幾內亞東方，是一個君主立憲制大英國協王國	
 	- Australia (n)澳洲
 		- Lake Eyre (n)艾爾湖，位於澳洲的中部地區，是一個時令湖。在罕有情況注滿時，是澳洲最大的湖泊
+		- Hobart (n)荷巴特，澳洲塔斯馬尼亞州首府，為僅次於雪梨的澳洲第二古老城市
+		- Perth (n)珀斯，西澳大利亞州的首府，也是澳大利亞第四大城市
+		- Tasmania (n)塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
+	- Hawaii (n)夏威夷
+		- Honolulu 檀香山，或稱火奴魯魯，為美國夏威夷州最大的城市暨首府。
+
+	- New Zealand (n)紐西蘭
+	- antipodean (adj)紐澳的 (n)紐澳人
+	- Antarctica /antˈɑːktɪkə/ (n)南極洲
 
 [Europe]
+	- the Far East (n)遠東，西伯利亞、東亞、中南半島、馬來群島等其餘更遠的東方稱為「遠東」，以西歐為中心，東歐、東南歐、北非、安納托利亞稱為「近東」
+	- the Middle East (n)中東，東非、黎凡特、阿拉伯半島、中亞一帶稱為「中東」
+
+
+	- Baltic (adj)波羅的海的, 波羅的海語系的 (n)波羅的海/波羅的海諸國, 波羅的海語系
+	- Lithuania (n)立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
+	- Estonia /ɪˈstəʊnɪə/ (n)愛沙尼亞，波羅的海國家之一。愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成
+
+	- Nordic (adj)北歐國家的 (n)北歐人
+	- Scandinavian (adj)斯堪地那維亞的 (n)斯堪地那維亞人 == Relating to Scandinavia
+	- Iceland (n)冰島 --> Icelandic (adj)冰島的, 冰島語的 (n)冰島語
+
 	- Poland (n)波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole (n)波蘭人
 	- Denmark (n)丹麥 --> Dane (n)丹麥人
 	+ Britain /ˈbrɪt(ə)n/ (n)英國 == The island containing England, Wales, and Scotland.
@@ -93,6 +175,7 @@
 		- Big Ben (n)大本鐘，是倫敦西敏宮北端鐘樓的大報時鐘的暱稱，也常代指該鐘所在的鐘樓伊莉莎白塔 
 		- Greenwich (n)格林威治，是位於英國英格蘭大倫敦東南的格林威治區、泰晤士河以南的城區和歷史古鎮。格林威治鎮位於泰晤士河南岸，倫敦傳統中心點查令十字東南偏東8.9公里處
 		- the Royal Observatory (n)皇家天文台
+		- Northumberland (n)諾森伯蘭，英國英格蘭最北、最東北的區
 	- Ireland (n)愛爾蘭共和國, 愛爾蘭島
 		- Dublin 都柏林，愛爾蘭共和國的首都以及最大的城市，靠近愛爾蘭島東岸的中心點，位處都柏林郡的利菲河河口、都柏林地區的中心。都柏林自中世紀以來一直是愛爾蘭首都城市，也是愛爾蘭島上最大的城市。由於很多高技術企業聚集，所以有歐洲的矽谷之稱
 	- France (n)法國 --> French (adj)法國的/法國人的/法語的 (n)法國人, 法語
@@ -112,31 +195,41 @@
 		+ Spaniard (n)西班牙人 == A native or inhabitant of Spain
 		- Hispanic (adj)西班牙(人)的, 西班牙語言(文化)的/西班牙語國家的
 		- Madrid (n)馬德里，是西班牙首都及最大都市，也是馬德里自治區首府
+		- Rock of Gibraltar (n)直布羅陀巨巖，位於的直布羅陀境內的巨型石灰岩。 該巖高達426公尺，而其北端鄰近直布羅陀和西班牙的邊境
 	+ Portugal /ˈpɔːtjʊɡ(ə)l/ (n)葡萄牙 --> Portuguese /ˌpɔːtjʊˈɡiːz/ (adj)葡萄牙的/葡萄牙人的/葡萄牙語的 (n)葡萄牙人/葡萄牙語
 		- Lisbon (n)里斯本，亦稱為葡京，是葡萄牙共和國的首都和最大都市
-	- Belgium /ˈbɛldʒəm/ 比利時
+		- the Azores (n)亞速爾群島，是位於北大西洋中央的一個群島，是葡萄牙兩個自治區之一
+	- Belgium /ˈbɛldʒəm/ (n)比利時
 		- Brussels (n)布魯塞爾，比利時的首都和最大的城市，也是歐洲聯盟的主要行政機構所在地
 		- Flanders (n)法蘭德斯，是比利時西部的一個地區
-	- Estonia /ɪˈstəʊnɪə/ (n)愛沙尼亞，波羅的海國家之一。愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成
 	- Italy (n)義大利 --> Italian (adj)義大利的/義大利人的/義大利語的 (n)義大利人, 義大利語
 		- Naples (n)那不勒斯，義大利南部的第一大城市，坎帕尼亞大區以及拿坡里省的首府
 		- Latium (n)拉丁姆，是義大利中西部的區域，在那裡羅馬城建立並擴展至羅馬帝國首都。這裡的居民在羅馬王國被建立前使用的語言，即為拉丁文的前身。
 		- Venice /ˈvɛnɪs/ (n)威尼斯
+		- Arezzo (n)阿雷佐，位於義大利中部托斯卡納大區
+		- Piacenza (n)皮亞琴察，義大利北部艾米利亞-羅馬涅地區的一座城市
+		- Sicily (n)西西里，義大利南部的一個自治區，是義大利最大的區，同時也是地中海最大的島 --> Sicilian (adj)
+		- Mount Vesuvius (n)維蘇威火山，歐洲的一座活火山，位於義大利南部那不勒斯灣東海岸，同世界名城那不勒斯相距不過20公里
 	- Maltese (adj)馬爾他的/馬爾他人的 (n)馬爾他人, 馬爾他語 (馬爾他島是地中海的一個小島，位於義大利西西里島南方約93公里處)
 		- Ħal Saflieni Hypogeum (n)哈爾·薩夫列尼地下宮殿，位於馬爾他東南部的城鎮保拉，是一座約建於馬爾他薩夫列尼期的地下建築
 	- the Crimea (n)克里米亞 --> Crimean (adj)克里米亞的/克里米亞人的 (n)克里米亞人
 		- Crimean Peninsula (n)克里米亞半島，簡稱克里米亞，是黑海北岸的一個幾乎完全被海包圍的半島。
 	- Ukraine (n)烏克蘭 --> Ukrainian /juːˈkreɪnɪən/ (n)烏克蘭人/烏克蘭語 (adj)烏克蘭的/烏克蘭人的/烏克蘭語的
 	- Romanian (n)羅馬尼亞人, 羅馬尼亞語 (adj)羅馬尼亞的/羅馬尼亞人的, 羅馬尼亞語
-	- Baltic (adj)波羅的海的, 波羅的海語系的 (n)波羅的海/波羅的海諸國, 波羅的海語系
 	- Hungary (n)匈牙利 --> Hungarian (adj)匈牙利的/匈牙利人的/匈牙利語的 (n)匈牙利人, 匈牙利語 
 	- Norway (n)挪威
 		- Svalbard 斯瓦爾巴/冷岸群島，是位於北極地區的群島，亦是挪威最北界的國土範圍
+	- Greece (n)希臘 --> Greek (adj)希臘的/希臘人的/希臘語的 (n)希臘人, 希臘語
+	- Rome (n)羅馬 --> Roman (adj)羅馬的/羅馬人的, 古羅馬語的 (n)羅馬人, 古羅馬語/拉丁語
 
+	- Kazakhstan (n)哈薩克，為跨洲國家，地跨歐亞兩洲，主要位於中亞北部
 	- Chechnya /ˌtʃɛtʃˈnjɑː/ (n)車臣共和國，是俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
 	- Kremlin (n)克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
+	- Siberia /sʌɪˈbɪərɪə/ (n)西伯利亞，整個地域現屬於俄羅斯，相當於該國領土總面積的75％ --> Siberian /sʌɪˈbɪərɪən/ (adj)
+	- Moscow 莫斯科
 
 [Africa]
+	- the Strait of Gibraltar (n)直布羅陀海峽，位於歐洲與非洲之間，分隔大西洋與地中海的海峽，其名取自伊比利半島南端的直布羅陀
 	- Sahara (n)撒哈拉沙漠，其總面積超過9,400,000平方公里，與美國國土面積相當。撒哈拉沙漠東至紅海，西至大西洋，南部邊界則為薩赫勒，包括撒哈拉以南非洲中部和西部的北端地區
 	- Egypt (n)埃及
 		- the Egyptian Valley of Kings (n)帝王谷，埃及埋葬古埃及新王國時期18到20王朝的法老和貴族的一個山谷
@@ -145,23 +238,59 @@
 	- Chad (n)查德，是非洲中部的一個內陸國家
 	- Uganda (n)烏干達，是位於東非的內陸國家
 	- Libya (n)利比亞，是北非的一個阿拉伯國家 --> Libyan 利比亞的
+		- Tripoli (n)的黎波里，利比亞首都
 	- Rwanda (n)盧安達，是位於中非東部的主權國家，坐落在赤道以南
 	- Nigeria (n)奈及利亞，是西非國家，位於非洲的幾內亞灣西岸頂點，全非洲人口最多的國家，全世界人口第七多的國家
 		- Lagos (n)拉各斯，奈及利亞海港及最大城市帶，位於國境西南部，也是非洲第一大城市，並為非洲成長速度第二快的城市
 	- Ghana (n)迦納，是非洲西部的國家，首都阿克拉
 	- Mali (n)馬利，是位於西非的內陸國家，是西非面積第二大的國家，馬利過去也被稱為法屬蘇丹，它的名字來源於馬利帝國
-	- Peru (n)秘魯 --> Peruvian (adj)秘魯的/秘魯人的, 祕魯人
 	- Sudan (n)蘇丹，南蘇丹獨立後有時也被稱作北蘇丹，位於非洲東北部，紅海沿岸，撒哈拉沙漠東端
+	- Congo == Democratic Republic of the Congo == DRC (n)剛果民主共和國 --> Congolese (adj)剛果的 (n)剛果人, 剛果語
+	- Ethiopia (n)衣索比亞 --> Ethiopian (adj)衣索比亞的/衣索比亞人的 (n)衣索比亞人
+	- Guinea /ˈɡɪni/ (n)幾內亞
+	- Madagascar (n)馬達加斯加，是一個位於非洲東南部近海的印度洋島嶼國家
+	- Mauritius (n)模里西斯，位於印度洋的西南方，於非洲第一大島馬達加斯加以東約900公里
+		- Rodrigues (n)羅德里格斯島，馬斯克林群島中最小的一個島嶼，屬於模里西斯共和國下屬領地
+	- Mozambique (n)莫三比克，位於非洲南部，臨印度洋，隔莫三比克海峽與馬達加斯加相望
+	- Réunion 留尼旺，是一座印度洋西部馬斯克林群島中的火山島。為法國的海外大區之一
+
 
 [North America]
+	- the Pacific Northwest (n)太平洋西北地區，是指美國西北部地區和加拿大的西南部地區，又稱「卡斯卡迪亞」
+	- Mesoamerica (n)中部美洲，一個歷史上的地區和文化區，地理上位於北美洲
+
 	- Acadia /əˈkeɪdɪə/ (n)阿卡迪亞，曾是法國的殖民地，範圍覆蓋北美洲的東北部
 	- Yukon (n)育空地區，加拿大三個地區/領地之一，位於加拿大的西北方。1898年6月13日，育空正式加入加拿大聯邦
 	- British Columbia (n)英屬哥倫比亞，加拿大最西部的省，西面瀕太平洋，東靠加拿大洛磯山脈
+	- Newfoundland (n)紐芬蘭，是加拿大的十個省之一
+	- Ontario (n)安大略省，位於加拿大的東部
+		- Toronto (n)多倫多，加拿大安大略省首府
 
 	- New England (n)新英格蘭，當地華人常稱之為紐英倫，是位於美國大陸東北角。包括美國的六個州，由北至南分別為：緬因州、新罕布夏州、佛蒙特州、麻薩諸塞州、羅德島州、康乃狄克州
-	- Niagara Falls /nʌɪˈaɡərə/ (n)尼加拉瀑布，由三座位於北美洲五大湖區尼加拉河上瀑布的總稱
 	- Northeast Corridor (n)東北走廊位於美國東北部的波士頓與華盛頓特區之間的鐵路路段。是美國最繁忙的一條鐵路路線
 	- the Chesapeake Bay /ˈtʃɛsəpiːk/ (n)乞沙比克灣，意為「大貝殼灣」，是美國面積最大的河口灣，位於美國大西洋海岸中部
+	- Sunbelt (n)太陽帶，美國南部北緯37度以南的地區(北卡羅來納州 南卡羅來納州 喬治亞州 佛羅里達州 阿拉巴馬州 密西西比州 路易斯安那州 德克薩斯州 新墨西哥州 田納西州 阿肯色州 俄克拉荷馬州 亞利桑那州 加利福尼亞州)
+	- the Rust Belt 鐵帶。美國地區的貶義詞，主要由美國中西部和五大湖地區組成
+	- the Deep South (n)深南部，又稱為棉花州，一般情況下，是將亞拉巴馬州、喬治亞州、路易斯安娜州、密西西比州和南卡羅來納州視為深南部的範圍
+	- the East (n)美國東部簡稱美東，是指美國密西西比河以東的州份 
+	- the Midwest (n)美國中西部，通常指的是美國地理上中北部的州，包括俄亥俄州、印第安那州、密西根州、伊利諾州、威斯康辛州、愛荷華州、肯薩斯州、密蘇里州、明尼蘇達州、內布拉斯加州、北達科他州及南達科他州
+	- the South (n)美國南部。依據美國人口調查局的定義，美國南部包括了16個州
+	- the Southwest (n)美國西南部，主要為亞利桑那州和新墨西哥州。
+	- West Coasts (n)美洲西岸，指美國西部的州。一般包括阿拉斯加，華盛頓州，奧勒岡州和加利福尼亞
+
+	- Niagara Falls /nʌɪˈaɡərə/ (n)尼加拉瀑布，由三座位於北美洲五大湖區尼加拉河上瀑布的總稱
+	- the Colorado River (n)科羅拉多河，一條位於美國西南部、墨西哥西北部的河流
+	- the Columbia River (n)哥倫比亞河，起源於洛磯山脈在加拿大不列顛哥倫比亞內的部分，向西北方向蜿蜒，然後向南流入美國境內的華盛頓州，
+	- the Missouri River (n)密蘇里河，是密西西比河最長的支流
+	- the Yellowstone River (n)黃石河，美國西部密蘇里河的一條支流
+	- the Grand Canyon (n)大峽谷
+	- the Great Smoky Mountains (n)大霧山
+	- the Rocky Mountains (n)洛磯山脈
+	* Appalachian Mountains /ˌapəˌleɪ(t)ʃ(ə)n ˈmaʊntənz/ (n)阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
+	- the Northern Rockies (n)北落磯山脈
+	- the Great Lakes (n)五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
+	- the Great Plains (n)北美大平原。大致位於密西西比河以西、落基山脈以東、格蘭德河以北
+	- United States Gulf Coast (n)美國墨西哥灣沿岸地區，由瀕臨墨西哥灣的美國的五個州所組成的，其中包括德克薩斯州、路易斯安那州、密西西比州、阿拉巴馬州以及佛羅里達州
 
 	- Arizona (n)亞利桑那州。首府和最大城市是鳳凰城。
 	- California (n)加利福尼亞州，簡稱加州，是美國西部太平洋沿岸的一個州
@@ -170,6 +299,10 @@
 		- Oakland (n)奧克蘭，是美國加利福尼亞州北部舊金山灣沿岸的主要城市
 		- the Central Valley (n)中央谷地，縱貫美國加利福尼亞州中部的平原
 		- the Gulf of California (n)加利福尼亞海灣
+		- Death valley (n)死亡谷國家公園，莫哈韋沙漠的一部分，亦為北美洲最低、最乾旱以及最熱的地區
+	- Washington (n)華盛頓州
+		- Seattle (n)西雅圖
+		- Puget Sound (n)普吉特海灣，一個位於美國西雅圖西岸峽灣，北臨加拿大溫哥華島，屬薩利希海的一部份
 	- Colorado (n)科羅拉多州
 	- Connecticut (n)康乃狄克州，是美國東北部的一州，也是新英格蘭區域中最南的一州
 	- Georgia (n)喬治亞州，是美國東南方的一個州
@@ -179,8 +312,9 @@
 	- Kansas (n)堪薩斯州，位於美國本土的正中心
 	- Louisiana (n)路易斯安那州，位於墨西哥灣沿岸
 	- Massachusetts (n)麻薩諸塞州。正式名稱為麻薩諸塞聯邦，新英格蘭六州裡人口最密集的一州。波士頓為該州首府及最大城市
-	- Michigan (n)密西根州，位於五大湖地區。
+	- Michigan (n)密西根州，位於五大湖地區。ㄇ
 	- Minnesota (n)明尼蘇達州。美國中西部最大的一個州。明尼蘇達州最重要的城市地區是由明尼亞波利斯和聖保羅組成的雙城地區
+		- Minneapolis (n)明尼亞波里斯，美國明尼蘇達州最大的城市，該州東南部亨內平郡的郡治
 	- Mississippi (n)密西西比州
 	- Nevada (n)內華達州，是美國西部的一個州，以其發達的賭博業而著稱
 	- New Hampshire (n)新罕布夏州，位於美國東北部新英格蘭地區的一個州，南接馬薩諸塞州，西接佛蒙特州
@@ -188,13 +322,17 @@
 	- New Orleans (n)新奧爾良
 	- State of New York (n)紐約州，暱稱帝國州
 		- New York (n)紐約市
-			- Manhattan (n)曼哈頓，紐約市五個行政區之中最人口稠密的一個區
-			- Broadway (n)百老匯劇院，是指包括在美國紐約曼哈頓劇院區域以及林肯中心一帶的劇院所演出的戲劇
-			- Grand Central (n)大中央總站，位於美國紐約市曼哈頓中城，為大都會北方鐵路、紐約地鐵7號線、萊辛頓大道線及S線交會的地下化鐵路車站，也是美國最繁忙、最著名的鐵路車站之一。
+		- Manhattan (n)曼哈頓，紐約市五個行政區之中最人口稠密的一個區
+		- Broadway (n)百老匯劇院，是指包括在美國紐約曼哈頓劇院區域以及林肯中心一帶的劇院所演出的戲劇
+		- Grand Central (n)大中央總站，位於美國紐約市曼哈頓中城，為大都會北方鐵路、紐約地鐵7號線、萊辛頓大道線及S線交會的地下化鐵路車站，也是美國最繁忙、最著名的鐵路車站之一。
+		- Twin Towers (n)世界貿易中心，美國紐約市曼哈頓下城的建築群，由6座大樓組成，業主為紐新港務局。自1973年4月4日啟用以來，兩棟雙塔即成為紐約著名地標之一，這兩座分別稱作「北塔」和「南塔」的高樓是當時世界上最高的建築物，超過了同在曼哈頓的帝國大廈。2001年的九一一襲擊事件導致大部分建築受到全毀到結構受損不等的重創
+		- the High Line (n)高架公園，美國紐約市曼哈頓棄用的紐約中央鐵路西區線一個高架橋上的綠道和帶狀公
 
 	- Ohio (n)俄亥俄州，位於美國中東部，是五大湖地區的組成部分
 	- Oklahoma (n)奧克拉荷馬州，是美國的一個州，有美國最大的印地安原住民人口
 	- Pennsylvania (n)賓夕法尼亞州，美國的州份之一，正式名稱為「賓夕法尼亞聯邦」
+		- Philadelphia (n)費城，是美國賓夕法尼亞州人口最多、面積最大的都市
+		- Pittsburgh (n)匹茲堡，位於美國賓夕法尼亞州西南部
 	- South Carolina (n)南卡羅萊納州
 	- North Carolina (n)北卡羅來納州
 		- Durham (n)德罕，一座位於美國北卡羅來納州德罕郡的城市，也是該郡的郡治所在地
@@ -213,182 +351,38 @@
 	- Maine /meɪn/ (n)緬因州，美國東北部新英格蘭的一個州，北鄰加拿大魁北克省，東鄰加拿大新不倫瑞克省以及大西洋
 	- Maryland (n)馬里蘭州，屬於美國中大西洋地區
 		- Baltimore (n)巴爾的摩，美國馬里蘭州最大的城市，也是美國最大獨立城市和主要海港之一
+	- Washington D.C. (n)華盛頓哥倫比亞特區，是美國的首都，又稱哥倫比亞特區（District of Columbia)
+		- The Pentagon (n)五角大廈，美國國防部所在地，位於華盛頓特區西南方的維吉尼亞州阿靈頓郡
 	- Puerto Rico (n)賓波多黎各，美國在加勒比海地區的一個自治邦，距離佛羅里達州邁阿密東南1600公里
 	- Florida (n)佛羅里達州，美國本土最南端的一個州，亦屬於墨西哥灣沿岸地區，是美國人口第三多的州，為著名的避寒聖地
 		- Tallahassee (n)塔拉哈西，是美國佛羅里達州州府
+	- Alabama (n)阿拉巴馬州
+		+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
 	- Indiana (n)印第安納州，印第安納原意是印第安人的土地的意思
 		- Indianapolis (n)印第安納波利斯，是美國印地安納州首府
+	- New Mexico (n)新墨西哥州，是美國西南方的一州，它曾是墨西哥的一省
 
 [South America]
-	- Venezuela 委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
-	- Haiti 海地，是位於加勒比海的島國
-	- Guatemala 瓜地馬拉，位於中美洲
-	- Hispaniola 伊斯帕尼奧拉島，是加勒比海地區第二大島
-	- Vanuatu 萬那杜，是位於太平洋西南部，於1980年獨立建國，由80多個島嶼組成，屬於美拉尼西亞群島的一部分
-	- New Caledonia 新喀里多尼亞，位於南回歸線附近，是法國在大洋洲西南部的一個特別集體，作爲法國的海外屬地之一
-	- Brazil /brəˈzɪl/ (n)巴西, 巴西胡桃 --> Brazilian (adj)巴西的 (n)巴西人
-	- Belize (n)貝里斯，是中美洲東海岸的一個獨立國家
-
-	- Antarctica /antˈɑːktɪkə/ (n)南極洲
-
-[Americas POI]
-	- Philadelphia (n)費城，是美國賓夕法尼亞州人口最多、面積最大的都市
-	- Pittsburgh (n)匹茲堡，位於美國賓夕法尼亞州西南部
-	- Sunbelt (n)太陽帶是指美國南部北緯37度以南的地區。北卡羅來納州 南卡羅來納州 喬治亞州 佛羅里達州 阿拉巴馬州 密西西比州 路易斯安那州 德克薩斯州 新墨西哥州 田納西州 阿肯色州 俄克拉荷馬州 亞利桑那州 加利福尼亞州
-	- the Colorado River
-	- the Columbia River (n)哥倫比亞河，起源於洛磯山脈在加拿大不列顛哥倫比亞內的部分，向西北方向蜿蜒，然後向南流入美國境內的華盛頓州，
-	- the Deep South (n)深南部，又稱為棉花州，一般情況下，是將亞拉巴馬州、喬治亞州、路易斯安娜州、密西西比州和南卡羅來納州視為深南部的範圍
-	- the East (n)美國東部簡稱美東，是指美國密西西比河以東的州份 
-	- the Grand Canyon (n)大峽谷
-	- the Great Lakes (n)五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
-	- the Great Plains (n)北美大平原。大致位於密西西比河以西、落基山脈以東、格蘭德河以北	
-	- the Great Smoky Mountains (n)大霧山
-
-	- the Midwest 美國中西部通常指的是美國地理上中北部的州，包括俄亥俄州、印第安那州、密西根州、伊利諾州、威斯康辛州、愛荷華州、肯薩斯州、密蘇里州、明尼蘇達州、內布拉斯加州、北達科他州及南達科他州
-	- the Missouri River 密蘇里河，是密西西比河最長的支流
-	- the North American continent
-	- the Northern Rockies 北落磯山脈
-	- the Pacific Northwest 太平洋西北地區，是指美國西北部地區和加拿大的西南部地區，又稱「卡斯卡迪亞」
-	- The Pentagon 五角大廈，美國國防部所在地
-	- the Rocky Mountains 洛磯山脈
-	- the Rust Belt 鐵帶。美國地區的貶義詞，主要由美國中西部和五大湖地區組成
-	- the South 美國南部。依據美國人口調查局的定義，美國南部包括了16個州
-	- the Southwest 美國西南部，主要為亞利桑那州和新墨西哥州。
-	- the Yellowstone River 黃石河，美國西部密蘇里河的一條支流
-	- the Yosemite Valley 優勝美地谷
-	- West Coasts 美洲西岸指美國西部的州。一般包括阿拉斯加，華盛頓州，奧勒岡州和加利福尼亞
-	+ Montgomery /məntˈɡʌməri/ 蒙哥馬利郡，阿拉巴馬州的首府和蒙哥馬利郡的郡治所在
-	- Petra 佩特拉，約旦的一座古城，位於安曼南250公里處，隱藏在阿拉伯谷東側的一條狹窄的峽谷內
-	- Machu Picchu 馬丘比丘是祕魯一個著名的前哥倫布時期時印加帝國的遺蹟，西北方距庫斯科130公里，整個遺址高聳在海拔2350—2430米的山脊上
-	- the Bay of Pig 豬玀灣，為卡索內斯灣的其中一個小灣，位於古巴南部海岸
-	- Twin Towers 世界貿易中心，美國紐約市曼哈頓下城的建築群，由6座大樓組成，業主為紐新港務局。自1973年4月4日啟用以來，兩棟雙塔即成為紐約著名地標之一，這兩座分別稱作「北塔」和「南塔」的高樓是當時世界上最高的建築物，超過了同在曼哈頓的帝國大廈。2001年的九一一襲擊事件導致大部分建築受到全毀到結構受損不等的重創
-	- Guantanamo 關塔那摩灣，位於古巴東南端關塔那摩省
-	- the Bermuda Triangle 百慕達三角，位於北大西洋的馬尾藻海，是由英屬百慕達群島、美屬波多黎各及美國佛羅里達州南端所形成的三角形海域
-	* Appalachian Mountains /ˌapəˌleɪ(t)ʃ(ə)n ˈmaʊntənz/ 阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
-	- Death valley 死亡谷國家公園
-	- Puget Sound 普吉特海灣，一個位於美國西雅圖西岸峽灣，北臨加拿大溫哥華島，屬薩利希海的一部份
-	- United States Gulf Coast 美國墨西哥灣沿岸地區
-	- the Strait of Gibraltar 直布羅陀海峽
-	- Minneapolis (n)明尼亞波里斯，美國明尼蘇達州最大的城市，該州東南部亨內平郡的郡治
-
-	- Rio de Janeiro (n)里約熱內盧，是位於巴西東南部的城市，為里約熱內盧州首府，同時是巴西第二大城，僅次於聖保羅
-	- Newfoundland (n)紐芬蘭，是加拿大的十個省之一
-	- Mesoamerica (n)中部美洲，一個歷史上的地區和文化區，地理上位於北美洲
+	- the Bermuda Triangle (n)百慕達三角，位於北大西洋的馬尾藻海，是由英屬百慕達群島、美屬波多黎各及美國佛羅里達州南端所形成的三角形海域
+	- the Indies == West Indies (n)西印度群島，泛指南北美洲之間海域中的一個一連串的島群
 	- the Andes Mountains (n)安地斯山脈，是陸地上最長的山脈，位於南美洲的西岸
+	- the Amazon River (n)亞馬遜河，是一條位於南美洲北部的河流，自西向東流動。其發源於位於秘魯境內的安第斯山脈中的密斯米雪山
+	- Amazonian (adj)亞馬遜河的, 亞馬遜女戰士般的
 
-[World]
-	- Afrikaans 南非語
-	- Amazonian (adj)亞馬遜的, 亞馬遜女戰士般的
-	- Amharic 阿姆哈拉語，衣索比亞使用的閃語的一種，與阿拉伯語、希伯來語同屬閃語族
-	- Antarctica 南極洲
-	- antipodean (adj)紐澳的 (n)紐澳人
-	- Arezzo 阿雷佐位於義大利中部托斯卡納大區
-	- Argentina 阿根廷
-	- Asia Minor 安那托利亞，又名小亞細亞，是亞洲西南部的半島，位於黑海和地中海之間
-	
-	- Belize 貝里斯，前身為英屬宏都拉斯，是中美洲東海岸的一個獨立國家
-	- Cambodia 柬埔寨
-	- Chiang Mai 清邁
-	- Congolese (adj)剛果的 (n)剛果人, 剛果語
-	- Creole /ˈkriːəʊl/ 克里奧爾人 == A person of mixed European and black descent, especially in the Caribbean.
-	- Cuba 古巴
-	- Democratic Republic of the Congo == DRC 剛果民主共和國
-
-	- Egypt	埃及 /ˈiːdʒɪpt/
-	- Eskimo 愛斯基摩人
-	- Ethiopia 衣索比亞 --> Ethiopian
-	- Eurasia 歐亞大陸 
-	- Greece 希臘
-	- Greek 希臘的/希臘人
-	- Guinea /ˈɡɪni/ 幾內亞
-	- Hindu 印度人的, 印度教(的)
-	- Icelandic (adj)冰島的, 冰島人的, 冰島語的, 冰島語
-	- Indian
-	- Iran 伊朗 --> Iranian 伊朗人
-	- Kazakhstan 哈薩克
-	- Laos 寮國，寮人民民主共和國，是東南亞國家中唯一的內陸國家
-	- Lebanon 黎巴嫩
-	- Lithuania 立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
-	- Malay (n)馬來語, 馬來人
-	- Malaysia 馬來西亞 --> Malaysian
-	- Maldives 馬爾地夫，位於斯里蘭卡及印度西南偏南對出的印度洋水域約500公里處
-	- Mesopotamia 美索不達米亞，是古希臘對兩河流域的稱謂，意為「河流之間的地方」
-	- Mexico
-	- Myanmar 緬甸
-	- Nepali 尼泊爾人(的)/尼泊爾語(的)
-	- Netherlands 荷蘭
-	- New Mexico
-	- New Zealand 紐西蘭
-	- Nordic (adj)北歐國家的 (n)北歐人 == Relating to or denoting Scandinavia, Finland, and Iceland.
-	- North Central Africa
-	- Persia 波斯 --> Persian 
-	- Piacenza 皮亞琴察是義大利北部艾米利亞-羅馬涅地區的一座城市
-	- Roman 羅馬人/羅馬的
-	- Rome 羅馬
-	- Scandinavian (adj)斯堪地那維亞的 (n)斯堪地那維亞人 == Relating to Scandinavia
-	- Semitic 閃語族的/閃米特人的
-	- Siberia /sʌɪˈbɪərɪə/ 西伯利亞 --> Siberian /sʌɪˈbɪərɪən/
-	- Sicily 西西里 --> Sicilian 
-	- Slavic 斯拉夫人
-	- the Azores 亞速爾群島
-	- the Indies 印度群島
-	- Tibet 藏區
-	- Turkmenistan 土庫曼，一個中亞國家
-	- Venice 威尼斯
-	- Vietnam 越南 --> Vietnamese  越南人/越南語(的)
-
-[Worldwide POI]
-	- Alpine /ˈalpʌɪn/ 阿爾卑斯山
-	- Buenos Aires 布宜諾斯艾利斯，是阿根廷的首都和最大城市
-	- Caucasus Mountains 高加索山脈
-	- Eurasia 歐亞大陸
-	- Greenland 格陵蘭，是世界第一大島，大約81%都被冰雪覆蓋
-	- Ho Chi Minh 胡志明市
-	- Hobart 荷巴特，澳洲塔斯馬尼亞州首府，為僅次於雪梨的澳洲第二古老城市
-	- Honolulu 檀香山，或稱火奴魯魯，為美國夏威夷州最大的城市暨首府。
-	- Kuala Lumpur /ˌkwɑːlə ˈlʊmpʊə/  吉隆坡，馬來西亞的首都兼最大城市
-	- Madagascar 馬達加斯加，是一個位於非洲東南部近海的印度洋島嶼國家
-	- Mauritius 模里西斯，位於印度洋的西南方，於非洲第一大島馬達加斯加以東約900公里
-	- Moscow 莫斯科
-	- Mount Everest == Everest 聖母峰
-	- Mozambique 莫三比克，位於非洲南部，臨印度洋，隔莫三比克海峽與馬達加斯加相望
-	- Northumberland 諾森伯蘭，英國英格蘭最北、最東北的區
-	- Pamirs 帕米爾高原 == Pamir Mountains 
-	- Penang 檳城，是馬來西亞十三個聯邦州屬之一
-	- Perth 珀斯，西澳大利亞州的首府，也是澳大利亞第四大城市
-	- Réunion 留尼旺，是一座印度洋西部馬斯克林群島中的火山島。為法國的海外大區之一
-	- Rock of Gibraltar 直布羅陀巨巖
-	- Rodrigues 羅德里格斯島
-	- Sumatra 蘇門答臘
-	- Taklamakan Desert 塔克拉瑪干沙漠
-	- Tasmania 塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
-	- the Far East 遠東，以西歐為中心，東歐、東南歐、北非、安納托利亞稱為「近東」，東非、黎凡特、阿拉伯半島、中亞一帶稱為「中東」，西伯利亞、東亞、中南半島、馬來群島等其餘更遠的東方稱為「遠東」
-	- the Golden Triangle 金三角，是緬甸、寮國、泰國交界地區
-	- the Malay Peninsula 馬來半島
-	- the Mekong River 湄公河
-	- the Middle East 中東
-	- the New Territories 新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
-	- the Silk Road 絲路
-	- the Strait of Malacca 馬六甲海峽
-	- the Tigris River 底格里斯河，中東名河，與位於其西面的幼發拉底河共同界定美索不達米亞
-	- Toronto 多倫多，加拿大安大略省首府
-	- Tripoli 的黎波里，利比亞首都
-	- Vesuvius 維蘇威火山
-
-[Festival]
-	- carnival
-		> 狂歡節 |An annual festival, typically during the week before Lent in Roman Catholic countries, involving processions, music, dancing, and the use of masquerade.| the culmination of the week-long carnival
-		> 嘉年華會/狂歡/歡宴 |A public event or celebration, typically held outdoors and involving stalls, entertainment, and processions.| children from Wroughton are getting ready for the village carnival
-		> |An exciting or riotous mixture of elements.| the film is a visual and aural carnival
-		> 旅遊狂歡節/旅遊遊樂場/巡迴演出 |A travelling funfair or circus.|
-	- maypole 五朔節花柱
-	- Ivan Kupala 伊凡·庫帕拉節，是聖若翰洗者慶晨在斯拉夫文化的版本，是當地人民慶祝夏至的節日。
-	- Yalda 雅爾達之夜，在一年中最長的黑夜，即北半球冬至這一天慶祝的伊朗節日
-	- Saturnalia 農神節
-	- ticker-tape parade 紙帶遊行，人們從街邊兩側高樓向外拋撒紙屑，以此向遊行隊伍中取得成就的某人表達敬意
-	- Easter 復活節，又稱主復活日，是基督宗教的重要節日之一
-	- New Year’s Eve 跨年日，又稱作元旦前日，不少國家在元旦前一天的夜晚，均有舉行迎接新年的活動
-	- Poppy Appeal 國殤罌粟花，在1920年後，歐洲用來紀念在戰爭中過世的士兵的花朵。源自於1920年，因為《在法蘭德斯戰場》這首詩中，提及在第一次世界大戰戰場上的罌粟花，美國軍團因此以罌粟花來紀念在第一次世界大戰中過世的美國軍人。
-	- Burning Man festival 燃燒人，一年一度在美國內華達州黑石沙漠舉辦的活動，九天的活動開始於美國勞動節前一個星期六，結束於美國勞工節當天
-	- Memorial Day 陣亡將士紀念日，是美國的一個紀念日，每年5月的最後一個星期一悼念在各戰爭中陣亡的美軍官兵。全國悼念時間於美東時間下午3時開始
-	- Labor Day 勞動節，勞動節通常是年度性與全球性的節日，目的是為了慶祝勞動階級對社會和經濟所做的貢獻。世界上大多數國家或地區的勞動節是在5月1日，因此通常也稱之為國際勞動節
+	- Mexico (n)墨西哥合眾國，通稱墨西哥，是北美洲的一個聯邦共和制主權國家
+	- Venezuela (n)委內瑞拉 --> Venezuelan 委內瑞拉(人)/委內瑞拉(人)的
+	- Haiti (n)海地，是位於加勒比海的島國
+	- Guatemala (n)瓜地馬拉，位於中美洲
+	- Hispaniola (n)伊斯帕尼奧拉島，是加勒比海地區第二大島
+	- Vanuatu (n)萬那杜，是位於太平洋西南部，於1980年獨立建國，由80多個島嶼組成，屬於美拉尼西亞群島的一部分
+	- New Caledonia (n)新喀里多尼亞，位於南回歸線附近，是法國在大洋洲西南部的一個特別集體，作爲法國的海外屬地之一
+	- Brazil /brəˈzɪl/ (n)巴西, 巴西胡桃 --> Brazilian (adj)巴西的 (n)巴西人
+		- Rio de Janeiro (n)里約熱內盧，是位於巴西東南部的城市，為里約熱內盧州首府，同時是巴西第二大城，僅次於聖保羅
+	- Belize (n)貝里斯，是中美洲東海岸的一個獨立國家
+	- Peru (n)秘魯 --> Peruvian (adj)秘魯的/秘魯人的, 祕魯人
+		- Machu Picchu (n)馬丘比丘，祕魯一個著名的前哥倫布時期時印加帝國的遺蹟，整個遺址高聳在海拔2350—2430米的山脊上
+	- Cuba (n)古巴
+		- the Bay of Pig (n)豬玀灣，為卡索內斯灣的其中一個小灣，位於古巴南部海岸
+		- Guantanamo (n)關塔那摩灣，位於古巴東南端關塔那摩省
+	- Argentina (n)阿根廷
+		- Buenos Aires 布宜諾斯艾利斯，是阿根廷的首都和最大城市

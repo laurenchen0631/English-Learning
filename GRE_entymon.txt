@@ -1338,7 +1338,8 @@
 	cline, cliv 傾斜/斜坡 = bend, slope
 		++ decline (v)拒絕 = withhold = deny = refuse, 減少/衰落 = descend (n)減少/衰落
 		+ declivity (n)下坡
-		* incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面 --> inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
+		* /ɪnˈklʌɪn/ incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面
+		* /ɪnklɪˈneɪʃ(ə)n/ inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
 		+ proclivity (n)壞的傾向/癖性 = propensity = inclination = tendency
 
 	crep, crepit 破裂 = crack
@@ -2635,7 +2636,7 @@
 		+ homogeneous --> homogeneity
 		+ heterogeneous
 		* indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous <-- in + di + gen + ous
-		+++ ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
+		+++ /ɪnˈdʒiːnɪəs/ ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
 		+ ingenuity (n)足智多謀的/心靈手巧
 		+++ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
@@ -3687,7 +3688,7 @@
 		+ misrepresent (v)誤傳/歪曲 = distort
 		- mishap
 		- misshapen (adj)畸形的/奇形怪狀的
-		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
+		+ misuse 
 
 	miss, mit, mise 送/放出 = send, give over
 		+ commit (v)犯, 使承擔義務/使表態, [be committed to]專注於, (資源)留用, [oneself to]獻身, 與...有長期感情關, [to]把..交託給, 押交, 送審 --> committed (adj)盡忠的/忠誠的, 承諾過的
@@ -6606,7 +6607,7 @@
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
 		- pretext (n)藉口/托詞 = disguise
-		- textile (n)紡織物/織物, [textiles]紡織業, [非]有穿衣服的人 (adj)紡織的, [非]有穿衣服的
+		- textile (n)紡織物/織物, [textiles]紡織業, [非]有穿衣服的人 (adj)紡織的, [非]有穿衣服的 <|> tactile
 		- texture (n)質地/質感, (文章或音樂的)特色/韻味 (V)使……具有粗糙或浮凸的紋理
 
 	tort, torn 扭曲 = twist, wring
@@ -6702,7 +6703,7 @@
 		- toxin (n)毒素
 
 	turb 擾亂/混亂 = disturb, turmoil
-		* disturb (v)打斷/干擾 = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
+		* disturb (v)打斷/干擾 = disrupt = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
 		* disturbance (mn)擾亂/打擾 (n)擾亂執法, 騷擾/混亂
 		+ perturb (v)使焦慮 = agitate = disconcert = disturb, 擾亂/使混亂 = disturb <-- per + (dis)turb
 		- perturbation (n)焦慮/不安, 引起不安的事物, 偏差, 攝動
@@ -6712,10 +6713,10 @@
 	tauto 相同 = same
 		+ tautology (mn)重複/同義反覆 (n)贅述
 		- tautomer (n)互變異構體(某些有機化合物的結構在兩種官能團異構體間產生平衡互相轉換的現象) --> tautomeric (adj)
-		- tautonym (n)重名/屬種同名(物種學名的兩個字都一樣，例如美洲野牛 Bison bison)
+		- tautonym (n)屬種同名(物種學名的兩個字都一樣，例如美洲野牛 Bison bison)
 
 	theo, the 神 = God
-		+ apotheosis, apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
+		+ apotheosis -> apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
@@ -6777,7 +6778,7 @@
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/無專門知識的 = inexperienced
 		- unjustified (adj)不合理的/無正當理由的, 錯誤的/不值得的 = wrong, 未對齊的
-		- unjustly (adv)不義地/不法地
+		- unjust (adj)不義的/不法的 --> unjustly (adv)不義地/不法地
 		- unkempt (adj)未梳理的/蓬亂的/不整潔的
 		- unleash (v)解開……的皮帶, 使被釋放
 		* unmitigated (adj)全然的/完全的 = absolute = unqualified = unreserved
@@ -6849,95 +6850,86 @@
 		- underact (v)未盡力地表演
 		- underbelly (n)下腹部, 易受攻擊的地帶, 犯罪組織
 		- underbid (v)出價低於(某人)
-		+ undercut (v)削價競爭/廉價出售, 暗中破壞 = weaken = undermine (n)牛豬的腰肉, 下旋削球, 浮雕
-		- underdog (n)失敗者, 受壓迫者
+		+ undercut (v)削價競爭/廉價出售, 切除……的下部, 削弱/暗中破壞 = weaken = undermine (n)牛豬的腰肉, 下旋削球, 浮雕
+		- underdog (n)處於劣勢的一方, 弱者/弱勢群體
 		- underfoot (adv)在腳下/在地上, 礙手礙腳地
-		- undergird (v)加強/從底層鞏固
-		* undergo (v)經歷 = experience = pass through, 忍受 = endure = sustain = suffer
-		- underhanded (adj)不光明的/卑鄙的
-		- underling (n)下屬/手下
-		+ underlie -> underlay -> underlain (v)在下面, 源自於/是...的基礎
-		+ underlying (adj)在下面的 = below, 根本的 = basic = fundamental
-		+ undermine (v)暗中破壞/逐漸損害, 在……下挖坑道
-		+ underplay (v)淡化...的重要性/輕描淡寫, 表演(角色等)不充分 = underact
-		- underrate (v)低估/輕視
-		- underrepresented (adj)代表性不足的
-		+ underscore (v)在...之下畫線, 強調
-		+ understate (v)保守地說/低估/掩飾地說/輕描淡寫 --> understated (adj)保守的/輕描淡寫的 --> understatement (n)不充分的陳述/輕描淡寫
-		- understudy (n)預備演員/替角 (v)充當...的替角
-		+++ undertake (v)試圖/著手做, 陳諾/答應 = promise --> undertaking (n)保證, 許諾, 事業, 企業, 殯儀業
-		- underutilized (adj)未充分利用的
-		+ underwrite (v)簽署/簽名同意支付/同意, 給……保險, 認購
+		- undergird (v)從底層鞏固或支持
+		* undergo (v)經歷 = be subjected to = experience = pass through = bear = endure = sustain = suffer = withstand
+		- underhand (adj)祕密的/不正當的 = dishonest, (投球)低手的 = underarm
+		- underling (n)[貶]部下/走卒
+		+ underlie -> underlay -> underlain (v)在下面, 源自於/是...的基礎 = be the cause or basis of 
+		+ underlying (adj)在下面的 = below, 根本的/基礎的 = basic = fundamental
+		+ undermine (v)暗中破壞/逐漸損害, 侵蝕 = erode, 在……下挖坑道
+		+ underplay (v)對……輕描淡寫 = downplay = underestimate = deemphasize, 含蓄地表演 = underact
+		- underrate (v)低估 = underestimate = underprice = undervalue
+		- underrepresented (adj)未被充分代表的/代表名額不足的
+		+ underscore (v)在...之下畫線 = underline, 強調 = emphasize
+		+ understate (v)保守地說 --> understated (adj)保守的/輕描淡寫的 --> understatement (mn)保守的陳述/輕描淡寫
+		- understudy (n)預備演員/替角 (v)學習..以充當替角
+		+++ undertake (v)試圖/著手做 = take on, 陳諾/答應 = promise = give as a formal pledge --> undertaking (n)保證, 許諾, 事業 = enterprise, 企業 = company = business (mn)殯儀業
+		- underuse (n/v)未充分利用
+		- underutilize (v)未充分利用 = underuse
+		+ underwrite (v)簽署/簽名同意支付/同意, 爲…承擔保險責任/爲…承保, 爲…提供財力支援並承擔經濟責任
 
 	up 上 = upper, upwards
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
 		- update (v)使……合乎時代, 為……提供最新信息 (n)更新
-		- upend (v)倒置 == Set or turn (something) on its end or upside down.
-		- upgrade (v)提升/升級
-		+ upheave (v)漲起/鼓起, 舉起, 發生混亂 --> upheaval (n)劇變/大變動, 脹起/鼓起/隆起
-		+ uphold (v)維護 = defend, 肯定/支持 = support <--> withhold
-		- upkeep (n)保養, 經濟或物資援助
-		* uplift (n/v)舉起 = exalt, 提升/促進/鼓舞
-		* upright (adj)挺直的/筆直的, 正直的/誠實的
-		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹的 = funny
-		- upstage (adj)驕傲的/高傲的
-		- upswing (n)上升/增長
+		- upend (v)倒置/顛倒
+		- upgrade (v)使升級/提升, 提拔 (n)升級
+		+ upheave (v)使隆起 = heave = lift up --> upheaval (n)動盪/劇變, 地殼隆起
+		+ uphold (v)贊成/確認 = confirm = support, 維護/維持(傳統或慣例) = defend <--> withhold
+		- upkeep (mn)保養/維修, 經濟或物資援助
+		* uplift (n/v)舉起 = raise, 隆起 = upheave, 振奮/鼓舞
+		* upright (adj)挺直的/筆直的/直立的, 正直的/誠實的 (adv)挺直地/垂直地 (n)柱, 直立式鋼琴
+		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹大笑的 = funny
+		- upstage (v)搶……鏡頭/搶…的風頭 (adj/adv)向舞臺後部
+		- upswing (n)上升/增長 = increase = upward strength
 		- uptick (n)上揚/趨勢上揚 
 
 	uni, un 一 = one
-		- unanimous
+		* unanimous
 		- unicorn (n)獨角獸
-		- unidemensional (adj)一方面的, 一維的
-		- unify (v)使成一體/統一/使相同/使一致 --> unification (n)統一/一致
+		- unidimensional (adj)一維的
+		- unify (v)使成一體/統一/使一致 --> unification (mn)統一/一致
 		- uniform
-		+ unique (adj)獨一無二的/獨特的/無與倫比的 <--> ubiquitous
-		- unisex (adj)不分男女的/男女皆宜的
-		+ universal (adj)全體的/普遍的, 通用的, 萬能的/萬用的, 宇宙的/全世界的 (n)全稱命題, 一般概念, 普遍現象, 通用文法規則
-		+ universality (n)普遍性, 普適性
-		- univocal (adj)意思明確的, 單一意思的
+		+ unique (adj)獨一無二的/獨特的, [to]屬於..的, 罕有的/極好的 <--> ubiquitous
+		- unisex (adj)不分男女的/男女皆宜的 (n)男女皆宜的造型
+		+ universal (adj)全體的/普遍的, 通用的, 宇宙的/全世界的 (n)全稱命題, 一般概念, 普遍現象, 通用文法規則
+		+ universality (mn)普遍性, 普適性
+		- univocal (adj)意思明確的 = unambiguous
 
 	use 用
-		* abuse (v)濫用/誤用 = misuse, 辱罵 = revile = malign = insult, 虐待 = maltreat --> abusive (adj)謾罵的, 虐待的
+		* abuse (n/v)濫用/誤用 = misuse, 辱罵 = insult, 虐待 = maltreat --> abusive (adj)辱駡的, 虐待的, 不義的/違法的
 		+ disabuse
+		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
 
 	umbr 影子/陰影 = shade, shadow
-		+ adumbrate (v)預示 = foreshadow = prefigure = herald = harbinger, 遮蔽 = obscure = overshadow, 暗示 --> adumbration (n)
-		+ penumbra (n)半影, 曖昧的部分
-		+ /ˈʌmbrɪdʒ/ umbrage (n)憤怒/生氣/不快 = offense = annoyance, 陰影/樹蔭
-		- umbrella (n)雨傘
+		+ adumbrate (v)概括說明/勾畫輪廓, 預示 = foreshadow = prefigure = herald = harbinger, 遮蔽 = obscure = overshadow --> adumbration (n)
+		+ /pɪˈnʌmbrə/ penumbra (n)半影, 曖昧的部分
+		+ /ˈʌmbrɪdʒ/ umbrage (n)憤怒/生氣/不快 = offense = annoyance
+		- umbrella (n)雨傘, 保護傘/庇護, 傘形結構/網
 
 	und 波浪 = wave
-		+ abound (v)大量存在, [in/with]富含/充滿 = teem 
-		+ /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm  --> inundation (n)壓倒, 洪水 = flooding
-		+ redound (v)起作用/有助於, 報應/返回到
+		+ abound (v)大量存在/有很多, [in/with]富含/充滿 = teem 
+		+++ /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm --> inundation (n)壓倒, 洪水 = flooding
+		+ redound (v)有助於(名聲)
 		+ redundant (adj)累贅的/多餘的
-		- undulant (adj)起伏的
+		- undulate (v)起伏 (adj)波浪形的
+		- undulant (adj)起伏的 = undulating
 		+ undulating (adj)波浪起伏的/波浪形的 
-		- undulation (n)波動 = fluctuation, 波浪狀
-
-	{um} 表名詞/表地點
-		- addendum
-		- arboretum
-		- calcium
-		- cerebrum
-	
-	{urscle} 小東西 = let
-		- corpuscle
-
-	{ulous} 多...的
-		- credulous
+		- undulation (mn)起伏/波動 = fluctuation (n)波浪狀
 		
 [V]
 	ver, veri 真實的 = true
-		+ aver (v)斷言/確證 = affirm = assert <|> avert
+		+ aver (v)斷言/堅稱= affirm = assert, [法]證明……屬實 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
-		- verdict (n)判定/裁決
+		- verdict (n)判定/裁決, 判斷/意見 = opinion = judgement
 		+ verify (v)證明/證實 = confirm = substantiate
 		- verified (adj)檢驗的/核實的
 		+ verifiable (adj)可證實的/可檢驗的
-		+ verisimilar (adj)好像是真的/好像有道理的 --> verisimilitude (n)逼真
-		- verity (n)真實/事實 = truth, 信念/真理
-		+ veritable (adj)真可稱得上的/真正的/名副其詞的 
+		+ verisimilar (adj)好像是真的/逼真的 --> verisimilitude (n)逼真
+		- verity (mn)真實/事實 = truth (n)信念/真理
+		+ veritable (adj)名副其實的
 
 	verb 話語 = word
 		+ verbal (adj)口頭的, 與言詞有關的
@@ -7257,4 +7249,4 @@
 [Z]
 	zym 發酵 = ferment
 		- enzyme (n)酵素/酶
-		- zymurgy (n)釀造學
+		- zymurgy (n)釀造學 

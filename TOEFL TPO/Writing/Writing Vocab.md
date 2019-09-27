@@ -33,6 +33,9 @@
 - lose 失去 == drop == be deprived of 
 - talk 談論 == schmooze == communicate == exchange == interact == speak == tell
 - create 創作 == make == design == develop == produce == generate
+- creation 發明 == concoction == invention == concept == product == achievement
+- creative 有創意的 == innovative == ingenious == innovative == inventive == original
+- creativeness 創意 == ingenuity == inventiveness
 - job 任務 == task == assignment == operation == responsibility == work == thing
 - different 不同的 == disparate == distinct == distinctive == diverse
 - trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
@@ -60,7 +63,11 @@
 - work overtime 加班 == do overtime
 + morale 士氣 == confidence === spirit == self-esteem
 + wrongdoing 壞事 == misbehavior == evil == sin == crime
-+ true 真的 == real == bona fide == genuine == authentic == honest
++ true 真的 == bona fide == genuine == authentic == honest == real
+- real 真實的 == tangible == actual == authentic == sincere == substantial
++ fake 假的 == bogus == counterfeit == fictitious == forged == fraudulent == spurious
+- powerful 有權勢的 == puissant == authoritative == dominant == influential == mighty
+- prove 證實 == attest == = authenticate == corroborate == confirm == justify == substantiate == validate == verify
 - conceive 構思 == concoct == gestate == create == hatch == invent == imagine
 + dislike 不喜歡/憎惡 == abhor == deplore == loathe == hate
 - endless 永恆的 == continuous == eternal == interminable == perpetual
@@ -96,6 +103,7 @@
 - difference 差異 == distinction == separation == differential
 - trend 趨勢 == style == fashion == rage
 - waste 廢物 == debris == scrap == trash == garbage
+- drastic 激烈的 == radical == violent == severe
 
 ## Less Common
 - argue 爭論 == dispute == contend
