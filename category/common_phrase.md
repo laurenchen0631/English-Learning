@@ -156,6 +156,8 @@
 	- The problem boils down to one thing - lack of money.
 - cap off 把...收尾 == to finish something with a very good final activity or achievement
 	- We capped off a wonderful evening with birthday cheesecake.
+- go down in history 名留青史 
+	- He’ll go down in history as one of our finest leaders.
 
 ## Desire
 

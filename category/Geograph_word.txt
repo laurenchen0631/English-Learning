@@ -33,10 +33,15 @@
 	- sandbar (n)沙洲
 	- point bar (n)河曲沙洲
 	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
+	- river valley (n)河谷
 	- fjord /fjɔːd/ (n)峽灣
 	- isthmus /ˈɪsθməs/ (n)地峽
 	- strait (n)海峽, 困境/危難 (adj)嚴峻的
+	- lagoon (n)潟湖(因為海灣被沙洲所封閉而演變成的湖泊)
+	- mangrove (n)紅樹林
 	- isle /ʌɪl/ (n)小島
+	- guyot /ˈɡiːəʊ/ == tablemount (n)海底平頂山(曾經在海平面上，並漸漸依不同階段下沉，有岸礁山、珊瑚島，最後成為海底平頂山)
+	- seamount (n)海底山，從海底地面高聳但仍未突出海平面的山，所以不能算是島
 
 	* /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
 	- fen (n)沼地/沼澤, [中國貨幣]一分
@@ -73,8 +78,8 @@
 	- updraft, updraught (n)上升氣流 == An upward current of air
 	- subarctic (n)副極地氣候的 == Relating to the region immediately south of the Arctic Circle.
 	- the tropics (n)熱帶 == The region between the tropics of Cancer and Capricorn.
-	- temperate zone 溫帶
-	- tropic 熱帶
+	- temperate zone (n)溫帶
+	- tropic (n)熱帶
 
 [Geology]
 	- - topography (n)地形/地貌, 地形圖 --> topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
@@ -118,7 +123,7 @@
 	- secondary flow (n)二次流/副流(疊加在主流上的相對較小的流)
 	- high tide (n)滿潮
 	- low tide (n)低潮/退潮
-
+	- silt --> siltation (n)淤積，是由顆粒狀陸地碎屑物質引起的水污染，指的是懸浮沉積物濃度的增加以及不希望在底部沉積的細小沉積物的增加
 
 [Ore/Rock]
 	- ore /ɔː/ (n)礦

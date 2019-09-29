@@ -15,6 +15,7 @@
 	
 [Biology]
 	- biomass (n)生物量, 生物能源
+	- bird feeder (n)餵鳥器
 
 	- androgynous (adj)雌雄同體的
 	- chromosome (n)染色體
@@ -32,11 +33,15 @@
 	- gizzard (n)沙囊
 	- knuckle (n)指關節, 四足獸膝關節, 肘/蹄, 用指關節摩擦或壓 --> knuckly
 	- membrane /ˈmɛmbreɪn/ (n)膜 --> membranous
+	- eyespot (n)眼狀斑點
 	- snout /snaʊt/ (n)口鼻部, 鼻子 (n)菸草, 螟蛾 = snout moth
 	- sac (n)囊 == A hollow, flexible structure resembling a bag or pouch.
 	- hoof /huːf/ (n)蹄 (v)踢, 步行, 跳舞
 	- hind leg (n)後腿
+	- saliva (n)涎/唾液
 	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
+	- nymph (n)居於山林水澤的仙女, 美麗的少女, 蛹
+	- pupa /ˈpjuːpə/ --> pupae (n)蛹
 
 	- cannibal (n)食人者, 同類相食的動物
 	- scavenger /ˈskavɪn(d)ʒə/ (n)食腐動物, 拾荒者
@@ -44,6 +49,7 @@
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ (n)片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
+	+ metamorphosis (n)變形/質變/變態
 	- diel vertical migration (n)晝夜垂直遷移(是一些生物使用的運動模式) <-- diel /ˈdiːl/ (adj)一晝夜的
 
 [Cell/Bacteria]
@@ -120,6 +126,9 @@
 	- thylacine /ˈθʌɪləsiːn/ == Tasmanian tiger (n)袋狼(現已全部滅絕，因其身上斑紋似虎，又名塔斯馬尼亞虎)
 
 [Insect]
+	+ entomologist (n)昆蟲學家
+
+	- worm /wəːm/ (n)蟲, 蚯蚓 = earthworm, 寄生蟲, 蛀蟲, 蛆 = maggot, 卑鄙小人/鼠輩 (v)使緩慢前進, 使蠕動, [one`s way into]潛行/鑽入, [out of]千方百計獲取, 驅除…體內的寄生蟲 <--> /wɔːm/ warm
 	- caterpillar (n)毛毛蟲/蝶或蛾的幼蟲
 	- moth (n)蛾
 	- monarch /ˈmɒnək/ (n)帝王/君主, 帝王蝶, 王鶲
@@ -127,11 +136,10 @@
 	- hornet (n)大黃蜂
 	- bumblebee (n)雄蜂/大黃蜂
 	- honey bee (n)蜜蜂
-	- termite (n)白蟻
+	- termite /ˈtəːmʌɪt/ (n)白蟻
 	- borer /ˈbɔːrə/ (n)蟲/蛀蟲, 鑽孔器
 	- flea (n)跳蚤
 	- centipede /ˈsɛntɪpiːd/ (n)蜈蚣
-	- worm /wəːm/ (n)蟲, 蚯蚓 = earthworm, 寄生蟲, 蛀蟲, 蛆 = maggot, 卑鄙小人/鼠輩 (v)使緩慢前進, 使蠕動, [one`s way into]潛行/鑽入, [out of]千方百計獲取, 驅除…體內的寄生蟲 <--> /wɔːm/ warm
 	- mosquito /mɒˈskiːtəʊ/ (n)蚊
 	- tsetse /ˈtsɛtsi/ = tsetse fly (n)舌蠅/采采蠅
 	- trilobite (n)三葉蟲
@@ -206,8 +214,11 @@
 	+ fluke 鯨魚尾鰭
 	- baleen (n)鯨鬚 == whalebone
 
-	- coral-reef (n)珊瑚礁
 	- coral (n)珊瑚, 紅珊瑚, 珊瑚蟲, 龍蝦卵
+	- coral-reef (n)珊瑚礁
+	- fringing reef (n)邊緣礁
+	- barrier reef (n)堡礁
+	- atoll /ˈatɒl/ (n)環礁
 	- barnacle /ˈbɑːnək(ə)l/ (n)藤壺
 	- shellfish (n)貝類/甲殼類水生動物
 	- crustacean (n)甲殼綱動物 (adj)甲殼綱的
@@ -319,6 +330,7 @@
 	- coca (n)古柯, 古柯葉
 
 	* cereal /ˈsɪərɪəl/ (n)穀類植物, 穀類食物/麥片
+	- kernel /ˈkəːn(ə)l/ (n)仁, (麥、玉米等的)粒, 核心/要點
 	- wheat /wiːt/ (n)小麥 <--> /wɪt/ wit
 	- rye /rʌɪ/ (n)裸麥/黑麥, 裸麥威士忌, 裸麥麵包
 	- oat (n)燕麥, 麥稈
@@ -326,6 +338,7 @@
 	- barley /ˈbɑːli/ (n)大麥
 	* sorghum (n)高粱
 	* maize /meɪz/ (n)玉米
+	- teosinte /ˌtiːəʊˈsɪnteɪ/ (n)大芻草
 
 	- pea (n)碗豆
 	- gourd /ɡɔːd/ (n)葫蘆

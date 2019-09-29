@@ -466,6 +466,9 @@
 	- catch up
 		> 趕上 |Succeed in reaching a person who is ahead of one.| he stopped and waited for Lily to catch up
 		> 趕工 |Do tasks which one should have done earlier.| he normally used the afternoons to catch up on paperwork
+	+ catch on
+		- 流行 |(of a practice or fashion) become popular.| the idea of linking pay to performance has caught on
+		- 理解 |understand what is meant or how to do something.| I caught on to what it was the guy was saying
 	+ change (n/v)改變 (v)替換, 找零 (n)零錢
 		> (使)改變 |Make or become different.| a proposal to change the law
 		> |An act or process through which something becomes different.| the change from a nomadic to an agricultural society
@@ -569,6 +572,7 @@
 		> 投入/奉獻 |the state or quality of being dedicated to a cause, activity, etc.| the company`s commitment to quality
 		> 承諾/保證 |A pledge or undertaking.| I cannot make such a commitment at the moment
 	+ compact (adj)緊的/密的 小巧的, 結實的, 簡潔的(v)壓縮, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約
+	+ complex (adj)由各種部分所構成的, 複雜的/難懂的 (n)複合物/綜合體 = system = network, 建築群, 情結/情絲
 	+ con (n/v)欺騙, 指揮操舵 (n)缺點, 囚犯, 集會
 	+ conscious /ˈkɒnʃəs/ (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional
 	+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
@@ -686,6 +690,7 @@
 		> 快速移動 |Move quickly.| we clip down the track
 		> 速度 |A specified speed or rate of movement, especially when rapid.|
 		> 片段/短片 |A short sequence taken from a film or broadcast.|
+	- colony (n)殖民地, 殖民地原住民, 僑民, 聚落, [生]集群/群體, 菌落
 	- close
 	- close down 倒閉 == shutter == cease or cause to cease business or operation, especially permanently.
 	- close in on 靠近 == to come or move nearer or closer to (someone or something)
@@ -769,12 +774,6 @@
 	- cut through 克服 == If you cut through something difficult that usually causes problems, you quickly understand it or deal with it so that it does not cause problems for you
 		> She always manages to cut through the complex theory and get at the facts.
 
-	
-	
-	
-	+ catch on
-		- 流行 |(of a practice or fashion) become popular.| the idea of linking pay to performance has caught on
-		- 理解 |understand what is meant or how to do something.| I caught on to what it was the guy was saying
 	- catchy (adj)引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
 	- catchphrase (n)妙語/警句
 	* cement /sɪˈmɛnt/ (n)水泥 讓人們團結的要素 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
@@ -784,7 +783,6 @@
 		> |A thin layer of bony material that fixes teeth to the jaw.|
 		> 用水泥接合 |Fix with cement.| wooden posts were cemented into the ground
 		> 鞏固/加強 |Settle or establish firmly.| the two firms are expected to cement an agreement soonent soon
-	
 	- coat
 		> 外套/大衣 |an outer garment worn on the upper body and varying in length and style according to fashion and use| a winter coat
 		> 皮毛 |An animal`s covering of fur or hair.| a dog`s coat may become tangled and matted
@@ -1422,6 +1420,7 @@
 	- feel like sth
 		> 好像 |to seem to be something, or (esp. of weather) to seem likely to do something| I felt like a fool when I couldn’t remember her name.
 		> 想要 |to have a desire to do or have something| He was so rude, I felt like leaving immediately.
+	- fertile /ˈfəːtʌɪl/ (adj)肥沃的, 想像力豐富的, 能生育的, 能孵的/受精的(種子或卵)
 	+ flake
 		> 小薄片 |A small, flat, very thin piece of something, typically one which has broken away or been peeled off from a larger piece.| he licked the flakes of croissant off his finger
 		> 雪花 |A snowflake.| the snow was coming down in thick flakes
@@ -2720,7 +2719,26 @@
 		> 使負有義務 |Make (someone) legally or morally bound to do something.| doctors are obliged by law to keep patients alive while there is a chance of recovery
 		> 答應...的請求 |Do as (someone) asks or desires in order to help or please them.| oblige me by not being sorry for yourself
 		> be obliged 使感激 |Be indebted or grateful.| if you can give me a few minutes of your time I`ll be much obliged
-	- order
+	+ order (n)順序/次序, 整齊/有條理, 秩序/治安, 規定, 命令, 訂購/訂單, 訂購品, 判決書, 匯票/匯單, 等級/階層, 社會等級, 特質/本質, 狀態, [生]目, 配備 (v)命令/指揮, 定購/叫, 整理
+		- 順序/次序 |The arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.| I filed the cards in alphabetical order
+		- 整齊/有條理 |A state in which everything is in its correct or appropriate place.| she tried to put her shattered thoughts into some semblance of order
+		- 秩序/治安 |A state in which the laws and rules regulating public behaviour are observed and authority is obeyed.| the army was deployed to keep order
+		- 規定 |The prescribed or established procedure followed by a meeting, legislative assembly, debate, or court of law.| the meeting was called to order
+		- 命令 |An authoritative command or instruction.| he was not going to take orders from a mere administrator
+		- 訂購/訂單 |A verbal or written request for something to be made, supplied, or served.| the firm has won an order for six tankers
+		- 訂購品 |A thing made, supplied, or served as a result of an order.| he would deliver special orders for the Sunday dinner
+		- 判決書 |A written direction of a court or judge.| she was admitted to hospital under a guardianship order
+		- 匯票/匯單 |A written direction to pay money or deliver property.|
+		- 等級/階層 |A particular social, political, or economic system.| they were dedicated to overthrowing the established order
+		- 社會等級 |A social class.| the upper social orders
+		- 特質/本質 |The quality or nature of something.| poetry of the highest order
+		- 狀態 |The overall state or condition of something.| the house had only just been vacated and was in good order
+		- 目 |A principal taxonomic category that ranks below class and above family.| the higher orders of insects
+		- |Any of the five classical styles of architecture (Doric, Ionic, Corinthian, Tuscan, and Composite) based on the proportions of columns and the style of their decoration.|
+		- 配備 |Equipment or uniform for a specified purpose or of a specified type.| the platoon changed from drill order into PT kit
+		- 命令/指揮 |Give an authoritative instruction to do something.| she ordered me to leave
+		- 定購 |Request (something) to be made, supplied, or served.| my mate ordered the tickets last week
+		- 整理 |Arrange (something) in a methodical way.| all entries are ordered by date
 	- one-up == to get the better of; succeed in being a point, move, step, etc., ahead of (someone)
 		> They one-upped the competition
 		> Want to one-up them with your clever little story?
@@ -3702,6 +3720,8 @@
 		> 富裕的 |Important in material or social terms; wealthy.| a substantial Devon family
 		> 基本上的 |Concerning the essentials of something.| there was substantial agreement on changing policies
 		> 真實的/實在的 |Real and tangible rather than imaginary.| spirits are shadowy, human beings substantia
+	- scare sth/sb off/away 把..嚇走
+		- If you charge as much as that, you will scare customers off.
 	- school
 		> |An institution for educating children.| 
 		> |Any institution at which instruction is given in a particular discipline.| a dancing school

@@ -1,36 +1,42 @@
 ## Notes
 
 ## Content
-According to the passage, the business department of the university plans to make work experience as a requirement because it benefit their students to develop leadership and it secure employment after the graduation. However, the student disagree with the new policy for 2 reasons.
+According to the letter, a student proposes that the location of displaying painting should be the lobby at the entrance to the student center because many students pass through the place every day and there is enough natural light from the glass window. However, the student, she, disagrees with this idea for 2 reasons.
 
-First, about leadership, the ability can't be learned from a temporary job because the job that you will do doesn't have any connection with leadership. Actually, companies only ask those students to do some basic tasks like filing stuff.
+First, she feels that many people passing through makes those painting hard to be appreciated. It is because that even when you want to look at a painting, many people will go through your front and disrupt the concentration.
 
-Another reason is that it cannot guarantee that companies will offer the students the position since there are other universities having the same requirement. Companies definitely don't have enough job position to give all students from different universities even after the graduation.
+Secondly, about the natural light, she thinks that nature light isn't the best light source to lighten paintings because natural light could be too bright when sunny and too dark when cloudy. Thus, she feels that consistent light such that used in art museums should be appropriate.
 
 ## Talking
-NARRATOR: Now listen to two students discussing the announcement.
-MALE STUDENT: Did you read this announcement?
-FEMALE STUDENT: Yeah, and I disagree-I don't think it will actually help students.
-MALE STUDENT: Really? Why not?
-FEMALE STUDENT: Well, they talked about leadership... and organizational skills...
-but that's not really the kind of work you do.
-Like my older brother's had the kind of jobs they're talking about...
-and typically you're just there to do basic tasks like typing or filing stuff-nothing very meaningful.
-MALE STUDENT: Oh, so you wouldn't actually learn anything new...
-FEMALE STUDENT: Exactly.
-MALE STUDENT: I guess I see what you mean-but what about the other point they make?
-FEMALE STUDENT: About this helping us after we graduate? I don't agree.
-MALE STUDENT: How come?
-FEMALE STUDENT: Well, the problem is that there are lots of other universities in our area that have the same requirement . . .
-so there are lots of other students at these positions.
-MALE STUDENT: Yeah, I guess I hadn't thought of that.
-FEMALE STUDENT: So even if you take a position like this in a company while you're still a student, once you graduate, the competition for permanent jobs will be impossible...
-I mean, there just won't be enough jobs available for all the business graduates in this city who will be looking for full-time work.
-MALE STUDENT: Hmm ... I see what you're saying.
+NARRATOR: Now listen to two students discussing the letter.
+MALE STUDENT: Mary, you are an art student.
+What do you think of this letter?
+FEMALE STUDENT: I don't like the idea.
+MALE STUDENT: Why not?
+FEMALE STUDENT: Well, first of all … his first point about a lot people passing through the student center, that's true, but…
+MALE STUDENT: But?
+FEMALE STUDENT: But it's always really crowded with people coming and going.
+It's not good for showing artwork.
+Imagine you are standing there, trying to look at a painting.
+There's gonna be like a million people walking through, people walking in front of you, blocking your view, distracting you…
+MALE STUDENT: Hm…yeah…hadn't thought of that.
+FEMALE STUDENT: You won't be able to appreciate the artwork, or get a good look at anything with so much going on, with so many people moving around.
+MALE STUDENT: Yeah, I see what you mean.
+MALE STUDENT: Plus, he's wrong about the windows.
+MALE STUDENT: But isn't it true that it's good for art to have lots of light?
+FEMALE STUDENT: In a sense, yeah, but that kind of light, all that natural light from windows?
+That's actually not good because if it's really sunny out, it'll be way too bright.
+If it's cloudy, it'll be way too dark.
+MALE STUDENT: Oh!
+FEMALE STUDENT: What you want is controlled light, consistent light, the kind you get from electric light bulbs.
+Think about in an art museum.
+In an art museum, you've got electric lighting, and the light is always carefully controlled, always at the same level.
 
-## Passage
-The business studies department at State University will now require all students enrolled in its program to complete one semester of work experience in a local corporation or small business. It is felt that students will benefit from this work experience by developing leadership and organizational skills that would not normally be learned in a classroom or campus setting. Furthermore, the relationships that students establish with the company that they work for may help them to secure permanent employment with that company once they have completed the program and graduated.
+## Student Art Display
+The university is currently considering possible locations on campus for displaying paintings and other artwork by students. I think the lobby at the entrance to the student center would be a great location. Since many students pass through the student center every day, artwork displayed in the lobby would be viewed by hundreds of people . Also, because the whole front of the building is made of glass windows, the lobby is filled with natural light. This makes it perfect for displaying artwork, which should have plenty of light to be seen and appreciated.
+
+Sincerely,
+Paul Sands
 
 ## Topic
-The woman expresses her opinion of the university's new policy. State her opinion and explain the reasons she gives for holding that opinion.
-
+Briefly summarize the proposal in the student's letter. Then state the woman's opinion about the proposal and explain the reasons she gives for holding that opinion.

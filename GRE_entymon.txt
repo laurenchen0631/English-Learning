@@ -653,6 +653,7 @@
 			+ conspire --> conspiracy
 			* console --> consolation
 			+ consolidate --> consolidation
+			- consort (n)配偶, 隨航船隻, 演奏古典音樂團 (v)[with]陪伴/結交
 			- consortium (n)合夥/聯合 (adj)配偶權的 
 			+ consummate
 			+ constant
@@ -1681,6 +1682,7 @@
 		2. 家 = house
 			- dome (n)圓屋頂, 蒼穹
 			+++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 人工培植
+			- domestication (mn)馴養, 栽種
 			- domicile (n)住處 (v)居住 <|> docile
 
 	dote, dose, don 給予 = give
@@ -4451,7 +4453,7 @@
 		- preface (n)序言 = introductionl, 初步解釋, 序誦/序禱 (v)為……加序言
 		++ prefer --> preference
 		- pregnant (adj)懷孕的 = gravid, 意味深長的 = significant <--> impregnable <-- pre + gna 出生 = born + ant
-		- prehistoric (adj)史前的
+		- prehistoric (adj)有文字記載的歷史以前的/史前的, [非]古老的
 		- prejudge
 		* prejudice --> prejudiced
 		* preliminary
@@ -5712,6 +5714,7 @@
 			+ substantiate
 			+ substantive
 			+ substitute
+			- substratum --> substrata (n)下層/下層土壤, 基礎
 			+ subsume
 			- subterfuge
 			- subterranean
@@ -6720,6 +6723,7 @@
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
+		- theoretical /θɪəˈrɛtɪk(ə)l/ (adj)理論的, 假設的/推理的
 		- /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> deism <--> pantheism <--> atheism
 		- atheism (n)無神論 --> atheist (n)無神論者
 		- deism (n)自然神論
@@ -6921,7 +6925,7 @@
 		
 [V]
 	ver, veri 真實的 = true
-		+ aver (v)斷言/堅稱= affirm = assert, [法]證明……屬實 <|> avert
+		+ aver (v)斷言/堅稱 = affirm = assert, [法]證明……屬實 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
 		- verdict (n)判定/裁決, 判斷/意見 = opinion = judgement
 		+ verify (v)證明/證實 = confirm = substantiate
@@ -6932,62 +6936,65 @@
 		+ veritable (adj)名副其實的
 
 	verb 話語 = word
-		+ verbal (adj)口頭的, 與言詞有關的
-		- verbiage (n)囉唆/冗長
-		+ verbose (adj)囉嗦的/冗長的 = wordy
+		+ verbal (adj)文字的, 口頭的, 嘮叨的, 動詞的 (n)動詞, 動名詞
+		- verbiage (mn)冗詞/廢話/贅語
+		+ verbose (adj)累贅的/冗長的 = wordy
 
 	verd, verdi 綠色 = verdure
-		+ verdant (adj)青翠的/嫩綠的 = green, 無經驗的/不熟練的 = inexperienced
-		- verdigris (n)銅鏽/銅綠
-		- verdure (n)青翠/蔥鬱, 新鮮/生氣勃勃
+		+ verdant (adj)青翠的/嫩綠的 = green
+		- verdigris (mn)銅鏽/銅綠
+		- verdure (n)青翠的草木, 青翠/蔥鬱, 新鮮/生氣勃勃
 
 	vulg 普遍 = general, common
-		+ divulge (v)洩漏/透露(秘密) = disclose
+		+ divulge (v)洩漏/透露(秘密) = disclose = leak = reveal = uncover
 		** /ˈvʌlɡə/ vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
-		- vulgarian (n)俗物/俗人
-		- vulgarize (v)庸俗化
+		- vulgarian (n)俗不可耐的暴發戶/俗人
+		- vulgarize (v)使粗俗, 使通俗化
 
 	vade, vas, vag 走 = go, walk
-		+ evade (v)躲避/逃避 = elude = escape --> evasion (n)逃避/迴避, 藉口 --> evasive (adj)逃避的 = oblique, 難以捉模的 = elusive = evanescent
-		+ pervade (v)彌漫, 遍及/流行 = prevail --> pervasive (adj)普遍的/瀰漫的
-		- invade (v)侵略, 侵犯, 擁入
-		+ extravagant (adj)奢侈的/浪費的 = wasteful, 過度的/過分的 = outrageous --> extravagance (n)奢侈/浪費, 過度/無節制
-		- vagrant (adj)流浪的 (n)流浪漢
-		- divagate (v)流浪/徘徊, 離題 = digress
+		+ evade (v)躲避/逃避 = elude = escape --> evasion (mn)逃避/迴避 (n)藉口 --> evasive (adj)逃避的/躲避的 = oblique
+		+ pervade (v)(味道)彌漫, 遍及於/流行於 = prevail --> pervasive (adj)遍佈的/瀰漫的
+		- invade (v)侵略, 侵犯 = encroach = intrude, 擁入 = flock
+		+ extravagant (adj)奢侈的/浪費的 = wasteful, 過度的/過分的 = outrageous = excessive = elaborate --> extravagance (mn)奢侈/浪費, 過度 (n)奢侈品
+		- vagrant (adj)流浪漢的, 徘徊的 = wandering, 易變的/無常的 = inconstant (n)流浪漢
+		- divagate (v)流浪/徘徊
 
 	vert, verse, vers, volu, volut, volv, volt, vort 轉 = turn, roll == strophe
-		** advert (v)注意 (n)一則廣告 --> advertise (v)廣告, 通知 --> advertence (n)注意/留意
-		+ adverse (adj)不利的/負面的 = detrimental = inimical = unfavorable = thwart, 相反的, 敵對的 = hostile = inimical
-		+ adversity (n)不幸/厄運 = calamit
-		+ adversary (n)敵手/對手
-		- adversarial (adj)對立的, [法]對抗制的 --> adversariality (n)對立
-		+ averse (adj)不願的/反對的 = antagonistic = reluctant = unwilling = loath
+		* advert (v)[to]談到
+		* advertence (n)注意/留意
+		* advertise (v)做..的廣告, 通知/宣揚
+		+ adverse (adj)不利的/負面的 = detrimental = inimical = unfavorable = thwart
+		+ adversity (n)逆境/窘境
+		+ adversary (n)敵手/對手 = opponent (adj)對立的 = adversarial
+		- adversarial (adj)對立的, [法]對抗制的
+		+ averse (adj)不願的/嫌惡的 = antagonistic = reluctant = unwilling = loath <|> adverse
 		+ aversion (n)嫌惡/反感 = antipathy = animosity = antagonism = distaste = enmity = hatred = rancor, 討厭的人或事物
-		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) <|> aver <|> advert
-		* controvert (v)反駁/駁斥 = contradict = disprove
-		+ controversy (n)爭議/爭論 --> controversial (adj)引起爭論的 = contention
+		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) = turn away <|> aver <|> advert
+		* controvert (v)否認/駁斥 = contradict = disprove, 就……展開爭論 = argue about
+		+ controversy (n)爭論/辯論 --> controversial (adj)引起爭論的 = contentious
 		- controvertible (adj)可爭論的/可質疑的
-		* converse (v)談話 = discourse (adj)逆的/相反的 (n)相反的事物
+		* converse (v)談話 = discourse (adj)逆的/相反的 (n)相反/相反的事物
 		- conversant (adj)熟知的/精通的 = familiar = versed = acquainted
-		- convert (v)使改變 (n)改變信仰的人(或習慣、生活方式) --> convertible (adj)可轉換的 (n)敞篷車
+		- convert (v)使改變, 兌換(證券貨幣), (使)皈依/(使)改變信仰 (n)改變信仰的人(或習慣、生活方式)
+		- convertible (adj)可轉換的, 可兌換的, 敞篷的 (n)敞篷車, 可轉換債券 = convertible security
 		+ convoluted (adj)曲折的/旋繞的 = twisted = coiled = spiraled, 費解的/難懂的 = complicated = involved = intricate
-		+ devolve (v)將…下放/移交(下級), 變壞/衰退 = degenerate
-		+ divert (v)使轉向/使改道, 使分心 = detract = distract = beguile, 逗……開心 = entertain
-		- diversion (n)轉向/轉移, 分散注意力, 娛樂/消遣 = relaxation
-		+ diverse (adj)不同的/相異的 = heterogeneous, 多種多樣的 --> diversify (v)多樣化, 多元化經營 --> diversity (n)差異性, 多樣性
-		++ evolve (v)逐漸發展, 進化, 發散/排出 = give off = emit --> evolution (n)演化/進化, 發展/演變
-		- extrovert (n)個性外向的人
-		+ introvert (n)內向者
-		- inverse (adj)相反的, 倒轉的
-		- invert (v)使倒轉
-		+ involved (adj)複雜難懂的 = convoluted = intricate, 有牽連的 = implicated
-		- obverse (adj)正面的 (n)正面
-		- perverse (adj)故意作對的 = contrary = wayward = willful, 反覆無常的 = capricious = wayward, 墮落的/走上邪路的/邪惡的 = wicked = corrupted
-		* pervert (v)使走上邪路 = vitiate, 降低/損害 = debase = vitiate, 誤用 = misapply, 曲解 = distort
-		- reverse (n)反面, 相反 = opposite (v)倒車/使倒退, 反轉
-		- revert (v)恢復/回復到, 重新考慮
-		- revolve (v)旋轉/自轉, 週期性出現/循環往復, 盤桓於腦海, 以……為中心
-		- revolute (v)參加革命
+		+ devolve (v)[on/upon/to]將…下放/移交(下級) <--> submit, [into]變壞/衰退 = degenerate <--> evolve
+		+ divert (v)使轉向/使改道, 重新分派(錢) = reallocate, 使分心 = detract = distract = beguile, 逗…開心 = entertain = amuse
+		- diversion (mn)轉向/轉移, 重新分派, 分散注意力的東西, 娛樂/消遣 = relaxation = recreation = pastime.
+		+ diverse (adj)不同的/相異的 = heterogeneous --> diversify (v)多樣化, 多元化經營 --> diversity (mn)差異性, 一些
+		++ evolve (v)逐漸發展, 進化, 發散/排出 = give off = emit --> evolution (mn)發展/進展, 演化/進化, 排放 (n)陣形
+		- extrovert (n)個性外向的人 (adj)外向的 <--> introvert
+		+ introvert (n)內向者 (adj)內向的 = introverted --> introverted (adj)內向的
+		- inverse (adj)相反的 (n)相反/反面 = opposite
+		- invert (v)使倒轉/使上下顛倒/使前後倒置
+		+ involved (adj)複雜難懂的 = convoluted = intricate
+		- obverse (adj)正面的/朝外的, 對立的 (n)表面/錢幣的正面, 對立面
+		* pervert (v)歪曲/曲解 = distort, 使走上邪路/使變壞
+		- perverse (adj)故意作對的 = contrary = wayward = willful, 與預期結果相反的
+		- reverse (n)反面, 相反 = opposite (v)(使)倒退/倒退/翻轉, 徹底改變
+		- revert (v)[to]恢復/回復到
+		- revolve (v)旋轉/自轉, [around]以……為中心, 盤桓於腦海/一再浮現
+		- revolute (adj)向內卷的(葉片)
 		+ revolution (n)革命, 變革 --> revolutionary (adj)大變革的, 革命的, 獨立戰爭的 (n)革命者
 		- revolt (v)叛亂/造反, 反感 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive = lurid
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子

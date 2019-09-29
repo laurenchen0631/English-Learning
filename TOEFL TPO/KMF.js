@@ -1,5 +1,4 @@
-document.getElementsByClassName('shield-box')[0].remove();
-document.getElementsByClassName('practice-container')[0].classList.remove('blur');
+document.getElementsByClassName('shield-box')[0].remove(); document.getElementsByClassName('practice-container')[0].classList.remove('blur');
 
 自然科学 Nature
 地理 Geology

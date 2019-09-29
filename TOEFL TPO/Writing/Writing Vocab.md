@@ -35,7 +35,7 @@
 - create 創作 == make == design == develop == produce == generate
 - creation 發明 == concoction == invention == concept == product == achievement
 - creative 有創意的 == innovative == ingenious == innovative == inventive == original
-- creativeness 創意 == ingenuity == inventiveness
+- creativeness 創意 == contrivance == ingenuity == inventiveness
 - job 任務 == task == assignment == operation == responsibility == work == thing
 - different 不同的 == disparate == distinct == distinctive == diverse
 - trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
@@ -50,6 +50,7 @@
 - error 錯誤 == failure == fault == glitch == mistake
 - need 需求 == requirement == demand == urgency
 - stop 阻止 == prevent == avoid == check == hold back == interrupt == suspend == bar 
+- avoid 避免 == avert == bypass == escape == shun == ward off
 - target 目標 == objective == purpose == intention == aim == goal
 - completely 完全地 == absolutely == comprehensively == perfectly == ultimately == utterly == wholly
 
@@ -103,7 +104,8 @@
 - difference 差異 == distinction == separation == differential
 - trend 趨勢 == style == fashion == rage
 - waste 廢物 == debris == scrap == trash == garbage
-- drastic 激烈的 == radical == violent == severe
+- drastic 激烈的 == intense == radical == violent == severe
+- short 短暫的 == temporary == brief == momentary == transitory
 
 ## Less Common
 - argue 爭論 == dispute == contend

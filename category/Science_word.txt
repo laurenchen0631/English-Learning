@@ -1,6 +1,7 @@
 [Unit]
 	- kilowatt-hour (n)千瓦·時(能量量度單位，表示一件功率為一千瓦的電器在使用一小時之後所消耗的能量) == 3.6 million joules
 	- kiloliter
+	- quart (n)夸脫(約為一加侖或兩品脫) == 0.94 litre
 	- pound == 0.45359237 kilogram
 	- ft == feet == foot == A unit of linear measure equal to 12 inches (30.48 cm)
 	- square foot 平方英尺
@@ -119,6 +120,7 @@
 	* polymer (n)聚合物
 	- amino acid (n)胺基酸
 	- chloride (n)氯化物
+	- calcareous (adj)石灰質的 == Containing calcium carbonate; chalky.
 	- sodium chloride (n)氯化鈉
 	- ozone /ˈəʊzəʊn/ (n)臭氧
 	- oxidize /ˈɒksɪdʌɪz/ (v)氧化 == Combine chemically with oxygen.
@@ -196,6 +198,7 @@
 	- optical radiation 光輻射
 
 [Mathematic]
+	- the Roman numeral system (n)羅馬數字(羅馬數字共有7個，即I（1）、V（5）、X（10）、L（50）、C（100）、D（500）和M（1000）)
 	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
 	* spherical /ˈsfɛrɪk(ə)l/ 球的/圓的
 	- calculus
