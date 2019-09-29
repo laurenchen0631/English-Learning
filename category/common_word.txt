@@ -219,7 +219,7 @@
 	- back-to-back
 		> 一個接一個的 |happening one after another, without interruption| Hamilton is celebrating back-to-back victories in the German and British Grands Prix.
 		> 背靠背的 |close together and facing in opposite directions|  back-to-back terraced houses
-	- backbreaking, back-breaking 極費氣力的/累人的 == (of manual labour) physically demanding.
+	- backbreaking, back-breaking (adj)需要勞力的 == (of manual labour) physically demanding.
 	- backlash
 		> 強烈反應/強烈反對 |A strong negative reaction by a large number of people, especially to a social or political development.| a public backlash against racism
 		> 後座力 |Recoil arising between parts of a mechanism.| The trigger pull is adjustable for distance as well as for pull weight and backlash.
@@ -463,10 +463,10 @@
 		> 窗鉤/門扣 |A device for securing something such as a door, window, or box.| the window catch was rusty
 		> 圈套/隱藏的困難 |A hidden problem or disadvantage in an apparently ideal situation.| there`s a catch in it somewhere
 		> 哽咽 |An unevenness in a person`s voice caused by emotion.| there was a catch in Anne`s voice
-	- catch up
+	- catch up (v)趕上, 趕工
 		> 趕上 |Succeed in reaching a person who is ahead of one.| he stopped and waited for Lily to catch up
 		> 趕工 |Do tasks which one should have done earlier.| he normally used the afternoons to catch up on paperwork
-	+ catch on
+	+ catch on (v)流行, 理解
 		- 流行 |(of a practice or fashion) become popular.| the idea of linking pay to performance has caught on
 		- 理解 |understand what is meant or how to do something.| I caught on to what it was the guy was saying
 	+ change (n/v)改變 (v)替換, 找零 (n)零錢
@@ -501,18 +501,25 @@
 		> |(of a broker) encourage frequent turnover of (investments) in order to generate commission.|
 	- churn out 大量生產 == to produce a large quantity of something very quickly
 		- Churning out 90 million gallons a year, the facility has become one of the nation`s largest producers of biodiesel.
-	+ classic
+	+ classic (adj)經典的, 典型的 (n)經典
 		> 經典的 |Judged over a period of time to be of the highest quality and outstanding of its kind.| a classic novel
 		> 經典的 |(of a garment or design) of a simple, elegant style not greatly subject to changes in fashion.| this classic navy blazer
 		> 經典 |A work of art of recognized and established value.| his books have become classics
 		> 經典 |A thing which is memorable and a very good example of its kind.|
 		> 典型的 |Very typical of its kind.| Hamlet is the classic example of a tragedy
-	+ classical
+	+ classical (adj)古典的/古希臘的, 古希臘式的, 標準的, 經典的/古典的
 		> 古典的/古希臘的 |Relating to ancient Greek or Latin literature, art, or culture.| classical mythology
 		> 古希臘式的 |(of art or architecture) influenced by ancient Greek or Roman forms or principles.|
 		> 標準的 |Representing an exemplary standard within a traditional and long-established form or style.| classical ballet
 		> 經典的/古典的 |Relating to the first significant period of an area of study.| classical mechanics
 	+ clothe -> clothed/clad -> clothed/clad (v)給..穿上衣服, 給..衣服, 賦予
+		> 給..穿上衣服 |Put clothes on (oneself or someone); dress.| Francesca was clothed in white
+		> 給..衣服 |Provide (someone) with clothes.| they already had eight children to feed and clothe
+		> 賦予 |Endow with a particular quality.| it is clothed with an aura of respectability
+	- clad (adj)穿著..的, 被..鍍包住的 (v)包覆
+		> 穿著..的 |Clothed.| they were clad in T-shirts and shorts
+		> 被..鍍包住的 |Covered with cladding.| copper-clad boards
+		> 包覆 |Encase (a structure) with a covering or coating.| he cladded the concrete-frame structure in stainless steel
 	+ coach (n)旅客車廂, 四輪大馬車, 教練, 家教/私人教師 (v)搭馬車, 訓練/指導, 給..額外的教導, 給..指示/給..專業建議 (adv)以經濟層級地
 		> 旅客車廂 |The cheapest class of seating in an aircraft or train.|
 		> 以經濟層級地 |In economy class accommodation in an aircraft or train.| many employees are now flying coach instead of business class to Europe
@@ -544,10 +551,27 @@
 		> 本性 |Character or general nature.| the hospitable color of his family
 		> 扭曲/影響 |Influence, especially in a negative way; distort.| the experiences had colored her whole existence
 		> 曲解 |Misrepresent by distortion or exaggeration.| witnesses might color evidence to make a story saleable
-	+ come by
-	+ come off
-	+ come up 
-	* come across
+		> 設法取得 |manage to acquire or obtain (something).| the remoteness of the region makes accurate information hard to come by
+	+ come by (v)順道拜訪, 設法取得
+		> 順道拜訪 |call casually and briefly as a visitor| his friends came by
+		> 設法取得 |manage to acquire or obtain (something).| the remoteness of the region makes accurate information hard to come by
+	+ come off (v)如計畫中進行, 停止服用(藥物), 摔落, 掉落
+		> 如計畫中進行 |to happen as planned, or to succeed| There was some sort of property deal that didn`t come off.
+		> 停止服用(藥物) |to stop taking something such as a medicine or drug| She’d been advised to come off the medication immediately.
+		> 摔落 |to fall off something that you are riding| She’d come off her new bike and hurt her knee.
+		> 掉落 |to stop being fixed to something| I pulled at the drawer, and the handle came off.
+	+ come up (v)走向, 被提及, 出現, 發生
+		> 走向 |to move towards someone| A young girl came up to me and asked for money.
+		> 被提及 |to be mentioned or talked about in conversation| What points came up at the meeting?
+		> 出現 |If information comes up on a computer screen, it appears there.|
+		> 出現 |If a job or opportunity comes up, it becomes available|
+		> 發生 |to happen, usually unexpectedly| I`ve got to go - something has just come up at home and I`m needed there.
+	+ come across (v)表現得/讓人覺得/給人以…印象, 偶然發現/碰見/無意中發現
+		> 表現得/讓人覺得/給人以…印象 |to behave in a way that makes people believe that you have a particular characteristic| She comes across really well on television.
+		> 偶然發現/碰見/無意中發現 |to find something by chance| He came across some of his old love letters in his wife`s desk.
+	- come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
+	- come upon 偶然發現/碰上/邂逅 == to find something or meet someone unexpectedly
+		> I came upon this book in the attic - would you like it?
 	+ commission (v)委任/委託, 指名, 使..投入使用 (n)任務/職權, 委託品, 被委託人, 佣金, 委任狀/所授軍銜, 犯罪
 		> 委任/委託 |Order or authorize the production of (something)| the portrait was commissioned by his widow in 1792
 		> 指名 |Appoint (someone) to the rank of officer in an army, navy, or air force.| he was commissioned into the Royal Fusiliers
@@ -558,7 +582,7 @@
 		> 委任狀/所授軍銜 |A warrant conferring the rank of officer in an army, navy, or air force.| he has resigned his commission
 		> 犯罪 |the action of committing a crime or offence.|
 		> 使..投入使用 |Bring (something newly produced) into working condition.|
-	+ commit
+	+ commit (v)犯, 使承擔義務/使表態, [be committed to]專注於, (資源)留用, [oneself to]獻身, 與...有長期感情關, [to]把..交託給, 押交, 送審
 		> 犯 |Perpetrate or carry out (a mistake, crime, or immoral act)| he committed an uncharacteristic error
 		> 使承擔義務/使表態 |Pledge or bind (a person or an organization) to a certain course or policy.| they were reluctant to commit themselves to an opinion
 		> be committed to 專注於 |Be dedicated to (something)| we are committed to the fundamental principles of democracy
@@ -572,10 +596,33 @@
 		> 投入/奉獻 |the state or quality of being dedicated to a cause, activity, etc.| the company`s commitment to quality
 		> 承諾/保證 |A pledge or undertaking.| I cannot make such a commitment at the moment
 	+ compact (adj)緊的/密的 小巧的, 結實的, 簡潔的(v)壓縮, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約
+		> 緊的/密的 |Closely and neatly packed together; dense.|
+		> 壓縮 |Exert force on (something) so that it becomes more dense; compress.| the rubbish was taken to the depot to be compacted
+		> 小巧的 |Having all the necessary components or features neatly fitted into a small space.| this compact car has plenty of boot space
+		> 鏡小粉盒 |A small flat case containing face powder, a mirror, and a powder puff.|
+		> 結實的 |(of a person or animal) small, strong, and well proportioned.|
+		> 簡潔的 |(of speech or writing) concise in expression.| a compact summary of the play
+		> 精簡 |Express in fewer words; condense.| the ideas are compacted into two sentences
+		> 契約/協約 |A formal agreement or contract between two or more parties.| they signed a compact with the United States
+		> 簽訂契約 |Make or enter into (a formal agreement) with another party or parties.| the Democratic Party compacted an alliance with dissident groups
 	+ complex (adj)由各種部分所構成的, 複雜的/難懂的 (n)複合物/綜合體 = system = network, 建築群, 情結/情絲
 	+ con (n/v)欺騙, 指揮操舵 (n)缺點, 囚犯, 集會
+		> 欺騙 |Persuade (someone) to do or believe something by lying to them.| I conned him into giving me your home number
+		> 欺騙 |An instance of deceiving or tricking someone.| the Charter is a glossy public relations con
+		> 缺點 |A disadvantage of or argument against something.| borrowers have to weigh up the pros and cons of each mortgage offer
+		> 囚犯 |A convict.| you don`t snitch to the prison authorities on another con
+		> 集會 |A convention, especially one for science fiction enthusiasts.| an SF con
+		> 指揮操舵 |Direct the steering of (a ship)| he hadn`t conned anything bigger than a Boston whaler
+		> |The action or post of conning a ship.| I quickly took the conn and restored the channel course
 	+ conscious /ˈkɒnʃəs/ (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional
+		> 意識到的 |Aware of and responding to one`s surroundings.| although I was in pain, I was conscious
+		> 知道的 |Having knowledge of something.| we are conscious of the extent of the problem
+		> 有……意識的 |Concerned with or worried about a particular matter.| they were growing increasingly security-conscious
+		> 深思熟慮的/故意的 |(of an action or feeling) deliberate and intentional.| a conscious effort to walk properly
+		> 神志清醒的 |(of the mind or a thought) directly perceptible to and under the control of the person concerned.| when you go to sleep it is only the conscious mind which shuts down
 	+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
+		> 來龍去脈/背景/環境 |The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.| the proposals need to be considered in the context of new European directives
+		> 上下文/文章脈絡 |The parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning.|
 	+ contract
 		> 合約/契約/婚約 |A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.| he has just signed a contract keeping him with the club
 		> 減少/縮小 |Decrease in size, number, or range.| glass contracts as it cools
@@ -585,11 +632,29 @@
 	- contract sth out 發包 == Arrange for work to be done by another organization.
 		> local authorities will have to contract out waste management
 	+ corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
-	+ correspond
+		> 角 |A place or angle where two sides or edges meet.| Jan sat at one corner of the table
+		> 角落 |The area inside a room or other space near the place where two walls or other surfaces meet.| the colour TV in the corner of the room
+		> 街角 |A place where two or more streets meet.| the huge bookshop on the corner
+		> 轉彎 |A sharp bend in a road.| they took the corner in a skidding turn
+		> 轉彎 |(of a vehicle or driver) go round a bend in a road.| no squeal is evident from the tyres when cornering fast
+		> 地區/偏僻處 |A location or area, especially one regarded as secluded or remote.| fountains are discovered in quiet corners and sleepy squares
+		> 壟斷 |A position in which one dominates the supply of a particular commodity.| London does not have a corner on film festivals
+		> 壟斷 |Control (a market) by dominating the supply of a particular commodity.| whether they will corner the market in graphics software remains to be seen
+		> 囤積 |Establish a corner in (a commodity)| you cornered vanadium and made a killing
+		> 角球 |corner kick|
+		> 困境 |A difficult or awkward situation.| I did not wait for the prosecutor to try to get me in a corner
+		> 使陷於絕境 |Force (a person or animal) into a place or situation from which it is hard to escape.| the man was eventually cornered by police dogs
+		> 耽擱 |Detain (someone) in conversation.| I  managed to corner Gary for fifteen minutes
+	+ correspond (v)[to]符合/一致, [to]相當/相應, 通信
 		> 符合/一致 |Have a close similarity; match or agree almost exactly.| the carved heads described in the poem correspond to a drawing of Edgcote House
 		> 相當/相應 |Be analogous or equivalent in character, form, or function.| the rank of Feldwebel in the German forces nominally corresponded to the British rank of sergeant
 		> 通信 |Communicate by exchanging letters.| Margaret corresponded with him until his death
 	+ counsel (v)忠告, 勸告, 給予專業幫助, 推薦 (n)律師/辯護人
+		> 忠告 |Advice, especially that given formally.| with wise counsel a couple can buy a home that will be appreciating in value
+		> 勸告 |Give advice to (someone)| careers officers should counsel young people in making their career decisions
+		> 給予專業幫助 |Give professional help and advice to (someone) to resolve personal or psychological problems.| he was being counselled for depression
+		> 推薦 |Recommend (a course of action)| the athlete`s coach counselled caution
+		> 律師/辯護人 |A barrister or other legal adviser conducting a case.| the counsel for the defence
 	+ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, 加(金額)於帳戶
 		> 信用/信譽 |The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.| I have got unlimited credit
 		> 貸款/信貸 |The money lent or borrowed under a credit arrangement.| the bank refused to extend their credit
@@ -622,7 +687,7 @@
 		> 收割 |Harvest (plants or their produce) from a particular area.| hay would have been cropped several times through the summer
 		> 播種 |Sow or plant (land) with plants that will produce food or fodder, especially on a large commercial scale.| the southern areas are cropped in cotton
 		> 收成 |(of land or a plant) yield a harvest of plants or produce.| the parsley will need protection to continue cropping through the winter
-	- crop up 突然出現 == to happen or appear unexpectedly
+	- crop up (v)突然出現 == to happen or appear unexpectedly
 		> Her name keeps cropping up in conversation.
 	+ crude /kruːd/ (adj)天然的/未經加工的, 粗略的(估計), 粗糙的/粗陋的, 粗野的/沒教養的 <--> /krʊəl/ cruel
 	+ custom (n)傳統, 習慣, 慣例, 關稅, 海關 (adj)訂製的
@@ -633,6 +698,12 @@
 		> 關稅 |duties, tolls, or imposts imposed by the sovereign law of a country on imports or exports|
 		> 海關 |the agency, establishment, or procedure for collecting such customs| went through customs at the airport without any difficulty
 	* cement /sɪˈmɛnt/ (n)水泥 讓人們團結的要素 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
+		> 水泥 |A powdery substance made by calcining lime and clay, mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.|
+		> 讓人們團結的要素 |A factor or element that unites a group of people.|
+		> 黏固粉/白堊 |A substance for filling cavities in teeth.| dental cement
+		> |A thin layer of bony material that fixes teeth to the jaw.|
+		> 用水泥接合 |Fix with cement.| wooden posts were cemented into the ground
+		> 鞏固/加強 |Settle or establish firmly.| the two firms are expected to cement an agreement soonent soon
 	- cabin
 		> 客艙 |A private room or compartment on a ship.|
 		> 客艙 |The area for passengers in an aircraft.|
@@ -649,14 +720,26 @@
 	- care
 	- carry
 	- carry about 帶著...到處走 == To physically carry someone or something all around
+		> After carrying a toddler about all day, my arms are pretty sore.
+		> Your purse weighs a ton because you carry about so much unnecessary junk!
 	- carry out 做/進行 == to do a particular piece of work, research etc
+		> The building work was carried out by a local contractor.
+		> The research, which was carried out by Duke University, studied runners taking part in the Race Across the USA
 	- catch up
 	- catchphrase (n)妙語/警句
 	- catchy (adj)引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
 	- channel
+		> 渠道 |A length of water wider than a strait, joining two larger areas of water, especially two seas.|
+		> 頻道 |A band of frequencies used in radio and television transmission, especially as used by a particular station.|
+		> 途徑/管道 |A method or system for communication or distribution.| they didn`t apply through the proper channels
+		> |An electric circuit which acts as a path for a signal.|
+		> 傳輸/導向 |Direct towards a particular end or object.| the council is to channel public funds into training schemes
+		> 模仿 |Emulate or seem to be inspired by.| Meg Ryan plays Avery as if she`s channelling Nicole Kidman
 	- charged (adj)引起強烈感情的/引起激烈爭執的, 帶電的
 	- check
 	- check on
+		> 確認 |to make sure that someone or something is safe, is in a satisfactory state, or is doing what they should be doing| Honey, can you go upstairs and check on the kids?
+		> 確認..是否為真 |to try to find out if something is true or correct| He wanted to check on the girl’s story.
 	- chill
 		> 寒冷/寒氣 |An unpleasant feeling of coldness in the atmosphere, one`s surroundings, or the body.| there was a chill in the air
 		> 使感到冷 |Make (someone) cold.| they were chilled by a sudden wind
@@ -675,11 +758,36 @@
 		> 好相處的 |Very relaxed or easy-going.| in general, I am a pretty chill guy
 	- chip (n)屑片/碎片, 缺口, 積體電路片, 籌碼 (v)在……上造成缺口, 裂開, 削/鑿
 	- chop up 切碎/剁碎
-	- clad
-	- clean (sth) 
+		- Meat is often chopped up into cubes before being cooked.
+		- During the second rainy period, the dunes were kind of chopped up at the top, full of hollows and ridges, and these hollows would have captured the rain right there on the top.
+
+	- clean (sth) up
+		> 贏得大筆錢/賺大錢 |to win a lot of money| We cleaned up at the poker table last night.
+		> 肅清 |to stop illegal or dishonest activity in a place or organization| We need a mayor who is tough enough to clean up this town.
+		> 梳洗整齊/打掃/清理 |to make a person or place clean and tidy| We`ll go out as soon as I`ve cleaned up the kitchen.
 	- clear out
+		> 離開/滾開 |to leave a place| I hear Daphne`s finally told her husband to clear out 
+		> 清理 |to make a place or container clean or tidy by removing things that are not wanted and getting rid of any dirt or dust in it| I’m going to clear out the cupboards tomorrow.
+		> 售清存貨 |to remove things that are not wanted from a place or container in order to make it tidy|
 	- clearance (n)清,除 拆除 房屋清理, 清倉大拍賣, 進出許可, 機密資料存取許可, 出入港許可, 清關, 清關證明書, 空地
+		> 清除 |The action or process of clearing or of being dispersed.| cleaning of the machine should include clearance of blockages
+		> 拆除 |The removal of buildings, people, or trees from land so as to free it for alternative uses.| slum clearance accelerated during the 1960s
+		> 房屋清理 |The removal of contents from a house.| the sheriff`s officers supervised the house clearance
+		> 清倉大拍賣 |a sale to clear out stock|
+		> 進出許可 |Official authorization for something to proceed or take place.| the aircraft hadn`t got diplomatic clearance to land in Mexico
+		> 機密資料存取許可 |Official permission for someone to have access to classified information.| these people don`t have clearance
+		> 出入港許可 |Permission for an aircraft to take off or land at an airport.| he took off without air traffic clearance
+		> 清關 |The clearing of a person or ship by customs.| when you arrive at the continental airport you will be required to obtain customs clearanc
+		> 清關證明書 |A certificate showing that customs clearance has been granted.|
+		> 空地 |Clear space allowed for a thing to move past or under another.|
 	- cleave -> cleaved/cleft/clove -> cleaved/cleft/cloven
+		> 劈開 |Split or sever (something), especially along a natural line or grain.| the large axe his father used to cleave wood for the fire
+		> 使(原子)分離 |Split (a molecule) by breaking a particular chemical bond.|
+		> 細胞分裂|(of a cell) divide.| the egg cleaves to form a mulberry-shaped cluster of cells
+		> 穿過／鑽進 |Make a way through (something) forcefully, as if by splitting it apart.| they watched a coot cleave the smooth water
+		> 黏著/黏住 |Stick fast to.| Rose`s mouth was dry, her tongue cleaving to the roof of her mouth
+		> 堅信/忠於 |Adhere strongly to (a particular pursuit or belief)| part of why we cleave to sports is that excellence is so measurable
+		> 黏著 |Become very strongly involved with or emotionally attached to (someone)| it was his choice to cleave to the Brownings
 	- clip
 		> 夾/鉗/迴紋針 |A flexible or spring-loaded device for holding an object or objects together or in place.|
 		> 夾住 |Fasten or be fastened with a clip or clips.|
@@ -693,19 +801,42 @@
 	- colony (n)殖民地, 殖民地原住民, 僑民, 聚落, [生]集群/群體, 菌落
 	- close
 	- close down 倒閉 == shutter == cease or cause to cease business or operation, especially permanently.
+		> She began with the litany of local decline: the vanishing jobs in the coal mines, the shuttering stores, the school that closed down.
 	- close in on 靠近 == to come or move nearer or closer to (someone or something)
+		> The fire was closing in on their neighborhood.
+		> The camera slowly closed in on the actor`s face.
 	- closing 最後的/結尾的 == Bringing something to an end; final.
 	- coat
+		> 外套/大衣 |an outer garment worn on the upper body and varying in length and style according to fashion and use| a winter coat
+		> 皮毛 |An animal`s covering of fur or hair.| a dog`s coat may become tangled and matted
+		> 外層/表層 |a layer of anything that covers a surface| the protein coat of the virus
+		> 紋章 |coat of arms| 
+		> 覆蓋……的表面 |Provide with a layer or covering of something.| her right leg was coated in plaster
 	- cocoon
+		> 繭 |A silky case spun by the larvae of many insects for protection as pupae.| the moth emerged from its pale yellow papery cocoon
+		> 繭狀物 |Something that envelops someone in a protective or comforting way.| a cocoon of bedclothes
+		> 防護膜 |A covering that prevents the corrosion of metal equipment.|
+		> 把……緊緊包住 |Envelop in a protective or comforting way.| we felt cold even though we were cocooned in our sleeping bags
+		> 使自己孤立 |Retreat from the stressful conditions of public life into the cosy private world of the family.| Americans are spending more time cocooning at home
+		> 噴上防護膜 |Spray with a protective coating.|
 	- coin (n)硬幣/錢幣 (v)鑄造, 創造/杜撰(新詞)
+		> 硬幣 |A flat disc or piece of metal with an official stamp, used as money.| she opened her purse and took out a coin
+		> 錢幣 |Money in the form of coins.| large amounts of coin and precious metal
+		> |One of the suits in some tarot packs, corresponding to pentacles in others.|
+		> 鑄造 |Make (coins) by stamping metal.| guineas and half-guineas were coined
+		> 鑄造 |Make (metal) into coins.| From ages past, before the time of the Bible, man has coined metal to be used as money
+		> 創造/杜撰(新詞) |Invent (a new word or phrase)
 	- colonization
 		> 殖民/殖民地化 |The action or process of settling among and establishing control over the indigenous people of an area.| Africa boasts a tradition of higher education institutions that predate Western colonization
 		> 掌控 |The action of appropriating a place or domain for one`s own use.| the complete colonization of television entertainment by reality shows
 		> 移生 |The action by a plant or animal of establishing itself in an area.| lower airway bacterial colonization
-	- come 
-	- come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
-	- come upon 偶然發現/碰上/邂逅 == to find something or meet someone unexpectedly
 	- couch /kaʊtʃ/ <--> coach /kəʊtʃ/ 
+		> 長沙發 |A long upholstered piece of furniture for several people to sit on.| I sat in an armchair and they sat on the couch
+		> 心理病人接受治療時躺的沙發 |A reclining seat with a headrest at one end on which a psychoanalyst`s subject or doctor`s patient lies while undergoing treatment.
+		> 表達 |Express (something) in language of a specified style.| the assurances were couched in general terms
+		> 使躺下 |Lay down.| two fair creatures, couched side by side in deepest grass
+		> |Treat (a cataract) by pushing the lens of the eye downwards and backwards, out of line with the pupil.|
+		> 鵝觀草 |A coarse grass with long creeping roots, which can be a serious weed in gardens.|
 	- crack down 著手處理 == to start dealing with bad or illegal behaviour in a more severe way
 		> The library is cracking down on people who lose their books.
 	- crackle
@@ -769,199 +900,104 @@
 		> The government has announced plans to cut back on defence spending by 10 percent next year.
 		> If exercise is causing you pain, you should cut back.
 	- cut into 
+		- 減少 |to reduce an amount of something that is available, especially time or money| The teaching days I do really cut into my time at home.
+		- 干擾 |to interrupt an activity or process| A loud rap on his office door cut into his thoughts.
 	- cut out 突然熄火/停止運轉 == to stop working suddenly
 		> One of the plane`s engines cut out, so they had to land with only one.
 	- cut through 克服 == If you cut through something difficult that usually causes problems, you quickly understand it or deal with it so that it does not cause problems for you
 		> She always manages to cut through the complex theory and get at the facts.
 
-	- catchy (adj)引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
-	- catchphrase (n)妙語/警句
-	* cement /sɪˈmɛnt/ (n)水泥 讓人們團結的要素 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
-		> 水泥 |A powdery substance made by calcining lime and clay, mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.|
-		> 讓人們團結的要素 |A factor or element that unites a group of people.|
-		> 黏固粉/白堊 |A substance for filling cavities in teeth.| dental cement
-		> |A thin layer of bony material that fixes teeth to the jaw.|
-		> 用水泥接合 |Fix with cement.| wooden posts were cemented into the ground
-		> 鞏固/加強 |Settle or establish firmly.| the two firms are expected to cement an agreement soonent soon
-	- coat
-		> 外套/大衣 |an outer garment worn on the upper body and varying in length and style according to fashion and use| a winter coat
-		> 皮毛 |An animal`s covering of fur or hair.| a dog`s coat may become tangled and matted
-		> 外層/表層 |a layer of anything that covers a surface| the protein coat of the virus
-		> 紋章 |coat of arms| 
-		> 覆蓋……的表面 |Provide with a layer or covering of something.| her right leg was coated in plaster
-	- cocoon
-		> 繭 |A silky case spun by the larvae of many insects for protection as pupae.| the moth emerged from its pale yellow papery cocoon
-		> 繭狀物 |Something that envelops someone in a protective or comforting way.| a cocoon of bedclothes
-		> 防護膜 |A covering that prevents the corrosion of metal equipment.|
-		> 把……緊緊包住 |Envelop in a protective or comforting way.| we felt cold even though we were cocooned in our sleeping bags
-		> 使自己孤立 |Retreat from the stressful conditions of public life into the cosy private world of the family.| Americans are spending more time cocooning at home
-		> 噴上防護膜 |Spray with a protective coating.|
-	- coin (n)硬幣/錢幣 (v)鑄造, 創造/杜撰(新詞)
-		> 硬幣 |A flat disc or piece of metal with an official stamp, used as money.| she opened her purse and took out a coin
-		> 錢幣 |Money in the form of coins.| large amounts of coin and precious metal
-		> |One of the suits in some tarot packs, corresponding to pentacles in others.|
-		> 鑄造 |Make (coins) by stamping metal.| guineas and half-guineas were coined
-		> 鑄造 |Make (metal) into coins.| From ages past, before the time of the Bible, man has coined metal to be used as money
-		> 創造/杜撰(新詞) |Invent (a new word or phrase)
-
-	- come 
-	* come across
-		> 表現得/讓人覺得/給人以…印象 |to behave in a way that makes people believe that you have a particular characteristic| She comes across really well on television.
-		> 偶然發現/碰見/無意中發現 |to find something by chance| He came across some of his old love letters in his wife`s desk.
-	+ come by
-		> 順道拜訪 |call casually and briefly as a visitor| his friends came by
-		> 設法取得 |manage to acquire or obtain (something).| the remoteness of the region makes accurate information hard to come by
-	+ come up 
-		> 走向 |to move towards someone| A young girl came up to me and asked for money.
-		> 被提及 |to be mentioned or talked about in conversation| What points came up at the meeting?
-		> 出現 |If information comes up on a computer screen, it appears there.|
-		> 出現 |If a job or opportunity comes up, it becomes available|
-		> 發生 |to happen, usually unexpectedly| I`ve got to go - something has just come up at home and I`m needed there.
-	- come upon 偶然發現/碰上/邂逅 == to find something or meet someone unexpectedly
-		> I came upon this book in the attic - would you like it?
-	+ come off
-		> 如計畫中進行 |to happen as planned, or to succeed| There was some sort of property deal that didn`t come off.
-		> 停止服用(藥物)) |to stop taking something such as a medicine or drug| She’d been advised to come off the medication immediately.
-		> 摔落 |to fall off something that you are riding| She’d come off her new bike and hurt her knee.
-		> 掉落 |to stop being fixed to something| I pulled at the drawer, and the handle came off.
-	- come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
-		> it came down to her word against Guy`s
-	+ compact (adj)緊的/密的 小巧的, 結實的, 簡潔的(v)壓縮, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約
-		> 緊的/密的 |Closely and neatly packed together; dense.|
-		> 壓縮 |Exert force on (something) so that it becomes more dense; compress.| the rubbish was taken to the depot to be compacted
-		> 小巧的 |Having all the necessary components or features neatly fitted into a small space.| this compact car has plenty of boot space
-		> 鏡小粉盒 |A small flat case containing face powder, a mirror, and a powder puff.|
-		> 結實的 |(of a person or animal) small, strong, and well proportioned.|
-		> 簡潔的 |(of speech or writing) concise in expression.| a compact summary of the play
-		> 精簡 |Express in fewer words; condense.| the ideas are compacted into two sentences
-		> 契約/協約 |A formal agreement or contract between two or more parties.| they signed a compact with the United States
-		> 簽訂契約 |Make or enter into (a formal agreement) with another party or parties.| the Democratic Party compacted an alliance with dissident groups
-	+ con (n/v)欺騙, 指揮操舵 (n)缺點, 囚犯, 集會
-		> 欺騙 |Persuade (someone) to do or believe something by lying to them.| I conned him into giving me your home number
-		> 欺騙 |An instance of deceiving or tricking someone.| the Charter is a glossy public relations con
-		> 缺點 |A disadvantage of or argument against something.| borrowers have to weigh up the pros and cons of each mortgage offer
-		> 囚犯 |A convict.| you don`t snitch to the prison authorities on another con
-		> 集會 |A convention, especially one for science fiction enthusiasts.| an SF con
-		> 指揮操舵 |Direct the steering of (a ship)| he hadn`t conned anything bigger than a Boston whaler
-		> |The action or post of conning a ship.| I quickly took the conn and restored the channel course
-	+ conscious /ˈkɒnʃəs/ (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional
-		> 意識到的 |Aware of and responding to one`s surroundings.| although I was in pain, I was conscious
-		> 知道的 |Having knowledge of something.| we are conscious of the extent of the problem
-		> 有……意識的 |Concerned with or worried about a particular matter.| they were growing increasingly security-conscious
-		> 深思熟慮的/故意的 |(of an action or feeling) deliberate and intentional.| a conscious effort to walk properly
-		> 神志清醒的 |(of the mind or a thought) directly perceptible to and under the control of the person concerned.| when you go to sleep it is only the conscious mind which shuts down
-	* console (n)控制台/儀表板, 落地櫃, 演奏台, 螺形支架 (v)安慰/撫慰
-		> 安慰 |Comfort (someone) at a time of grief or disappointment.| ‘she tried to console him but he pushed her gently away
-		> 操縱台 |A panel or unit accommodating a set of controls for electronic or mechanical equipment.|
-		> 落地櫃 |A cabinet for television or radio equipment.|
-		> 演奏台 |The cabinet or enclosure containing the keyboards, stops, pedals, etc., of an organ.|
-		> 螺形支架 |An ornamented bracket or corbel supporting a shelf or table top.|
-	+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
-		> 來龍去脈/背景/環境 |The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.| the proposals need to be considered in the context of new European directives
-		> 上下文/文章脈絡 |The parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning.|
-	+ corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
-		> 角 |A place or angle where two sides or edges meet.| Jan sat at one corner of the table
-		> 角落 |The area inside a room or other space near the place where two walls or other surfaces meet.| the colour TV in the corner of the room
-		> 街角 |A place where two or more streets meet.| the huge bookshop on the corner
-		> 轉彎 |A sharp bend in a road.| they took the corner in a skidding turn
-		> 轉彎 |(of a vehicle or driver) go round a bend in a road.| no squeal is evident from the tyres when cornering fast
-		> 地區/偏僻處 |A location or area, especially one regarded as secluded or remote.| fountains are discovered in quiet corners and sleepy squares
-		> 壟斷 |A position in which one dominates the supply of a particular commodity.| London does not have a corner on film festivals
-		> 壟斷 |Control (a market) by dominating the supply of a particular commodity.| whether they will corner the market in graphics software remains to be seen
-		> 囤積 |Establish a corner in (a commodity)| you cornered vanadium and made a killing
-		> 角球 |corner kick|
-		> 困境 |A difficult or awkward situation.| I did not wait for the prosecutor to try to get me in a corner
-		> 使陷於絕境 |Force (a person or animal) into a place or situation from which it is hard to escape.| the man was eventually cornered by police dogs
-		> 耽擱 |Detain (someone) in conversation.| I  managed to corner Gary for fifteen minutes
-	- couch /kaʊtʃ/ <--> coach /kəʊtʃ/ 
-		> 長沙發 |A long upholstered piece of furniture for several people to sit on.| I sat in an armchair and they sat on the couch
-		> 心理病人接受治療時躺的沙發 |A reclining seat with a headrest at one end on which a psychoanalyst`s subject or doctor`s patient lies while undergoing treatment.
-		> 表達 |Express (something) in language of a specified style.| the assurances were couched in general terms
-		> 使躺下 |Lay down.| two fair creatures, couched side by side in deepest grass
-		> |Treat (a cataract) by pushing the lens of the eye downwards and backwards, out of line with the pupil.|
-		> 鵝觀草 |A coarse grass with long creeping roots, which can be a serious weed in gardens.|
-	+ counsel (v)忠告, 勸告, 給予專業幫助, 推薦 (n)律師/辯護人
-		> 忠告 |Advice, especially that given formally.| with wise counsel a couple can buy a home that will be appreciating in value
-		> 勸告 |Give advice to (someone)| careers officers should counsel young people in making their career decisions
-		> 給予專業幫助 |Give professional help and advice to (someone) to resolve personal or psychological problems.| he was being counselled for depression
-		> 推薦 |Recommend (a course of action)| the athlete`s coach counselled caution
-		> 律師/辯護人 |A barrister or other legal adviser conducting a case.| the counsel for the defence
-	
-	- carry
-	- carry out 做/進行 == to do a particular piece of work, research etc
-		> The building work was carried out by a local contractor.
-		> The research, which was carried out by Duke University, studied runners taking part in the Race Across the USA
-	- carry about 帶著...到處走 == To physically carry someone or something all around
-		> After carrying a toddler about all day, my arms are pretty sore.
-		> Your purse weighs a ton because you carry about so much unnecessary junk!
-	- chop up 切碎/剁碎
-		- Meat is often chopped up into cubes before being cooked.
-		- During the second rainy period, the dunes were kind of chopped up at the top, full of hollows and ridges, and these hollows would have captured the rain right there on the top.
-	
-	
-	
-	- clean (sth) 
-		> 贏得大筆錢/賺大錢 |to win a lot of money| We cleaned up at the poker table last night.
-		> 肅清 |to stop illegal or dishonest activity in a place or organization| We need a mayor who is tough enough to clean up this town.
-		> 梳洗整齊/打掃/清理 |to make a person or place clean and tidy| We`ll go out as soon as I`ve cleaned up the kitchen.
-	- clear out
-		> 離開/滾開 |to leave a place| I hear Daphne`s finally told her husband to clear out 
-		> 清理 |to make a place or container clean or tidy by removing things that are not wanted and getting rid of any dirt or dust in it| I’m going to clear out the cupboards tomorrow.
-		> 售清存貨 |to remove things that are not wanted from a place or container in order to make it tidy|
-	- clearance (n)清,除 拆除 房屋清理, 清倉大拍賣, 進出許可, 機密資料存取許可, 出入港許可, 清關, 清關證明書, 空地
-		> 清除 |The action or process of clearing or of being dispersed.| cleaning of the machine should include clearance of blockages
-		> 拆除 |The removal of buildings, people, or trees from land so as to free it for alternative uses.| slum clearance accelerated during the 1960s
-		> 房屋清理 |The removal of contents from a house.| the sheriff`s officers supervised the house clearance
-		> 清倉大拍賣 |a sale to clear out stock|
-		> 進出許可 |Official authorization for something to proceed or take place.| the aircraft hadn`t got diplomatic clearance to land in Mexico
-		> 機密資料存取許可 |Official permission for someone to have access to classified information.| these people don`t have clearance
-		> 出入港許可 |Permission for an aircraft to take off or land at an airport.| he took off without air traffic clearance
-		> 清關 |The clearing of a person or ship by customs.| when you arrive at the continental airport you will be required to obtain customs clearanc
-		> 清關證明書 |A certificate showing that customs clearance has been granted.|
-		> 空地 |Clear space allowed for a thing to move past or under another.|
-	- cleave -> cleaved/cleft/clove -> cleaved/cleft/cloven
-		> 劈開 |Split or sever (something), especially along a natural line or grain.| the large axe his father used to cleave wood for the fire
-		> 使(原子)分離 |Split (a molecule) by breaking a particular chemical bond.|
-		> 細胞分裂|(of a cell) divide.| the egg cleaves to form a mulberry-shaped cluster of cells
-		> 穿過／鑽進 |Make a way through (something) forcefully, as if by splitting it apart.| they watched a coot cleave the smooth water
-		> 黏著/黏住 |Stick fast to.| Rose`s mouth was dry, her tongue cleaving to the roof of her mouth
-		> 堅信/忠於 |Adhere strongly to (a particular pursuit or belief)| part of why we cleave to sports is that excellence is so measurable
-		> 黏著 |Become very strongly involved with or emotionally attached to (someone)| it was his choice to cleave to the Brownings
-	- close
-	- closing 最後的/結尾的 == Bringing something to an end; final.
-	- close down 倒閉 == shutter == cease or cause to cease business or operation, especially permanently.
-		> She began with the litany of local decline: the vanishing jobs in the coal mines, the shuttering stores, the school that closed down.
-	- close in on 靠近 == to come or move nearer or closer to (someone or something)
-		> The fire was closing in on their neighborhood.
-		> The camera slowly closed in on the actor`s face.
-	+ clothe -> clothed/clad -> clothed/clad (v)給..穿上衣服, 給..衣服, 賦予
-		> 給..穿上衣服 |Put clothes on (oneself or someone); dress.| Francesca was clothed in white
-		> 給..衣服 |Provide (someone) with clothes.| they already had eight children to feed and clothe
-		> 賦予 |Endow with a particular quality.| it is clothed with an aura of respectability
-	- clad
-		> 穿著..的 |Clothed.| they were clad in T-shirts and shorts
-		> 被..鍍包住的 |Covered with cladding.| copper-clad boards
-		> 包覆 |Encase (a structure) with a covering or coating.| he cladded the concrete-frame structure in stainless steel
-	- cut into 
-		- 減少 |to reduce an amount of something that is available, especially time or money| The teaching days I do really cut into my time at home.
-		- 干擾 |to interrupt an activity or process| A loud rap on his office door cut into his thoughts.
-	- channel
-		> 渠道 |A length of water wider than a strait, joining two larger areas of water, especially two seas.|
-		> 頻道 |A band of frequencies used in radio and television transmission, especially as used by a particular station.|
-		> 途徑/管道 |A method or system for communication or distribution.| they didn`t apply through the proper channels
-		> |An electric circuit which acts as a path for a signal.|
-		> 傳輸/導向 |Direct towards a particular end or object.| the council is to channel public funds into training schemes
-		> 模仿 |Emulate or seem to be inspired by.| Meg Ryan plays Avery as if she`s channelling Nicole Kidman
-	- call
-	- call for 需要 == demand == require
-	- check
-	- check on
-		> 確認 |to make sure that someone or something is safe, is in a satisfactory state, or is doing what they should be doing| Honey, can you go upstairs and check on the kids?
-		> 確認..是否為真 |to try to find out if something is true or correct| He wanted to check on the girl’s story.
-
 [D]
-	- darn well 無疑地 == without doubt or question
-	- dash
+	+ deem 認為 == Regard or consider in a specified way.
+	+ direct /dʌɪˈrɛkt/, /dɪˈrɛkt/ (adj)徑直的/直達的, 直接的, 恰好的/正好的, 正直的, 垂直的 (adv)直接地/直達地 (v)指揮, 命令, 指向/針對, 給……指路
+		> 徑直的/直達的 |Extending or moving from one place to another without changing direction or stopping.| there was no direct flight that day
+		> 直接的 |Without intervening factors or intermediaries.| the complications are a direct result of bacteria spreading
+		> 恰好的/正好的 |Complete (used for emphasis)| attitudes which were in direct contrast to the confrontational perspectives of the past
+		> 正直的 |(of a person or their behaviour) frank.| he is very direct and honest
+		> 垂直的 |Perpendicular to a surface; not oblique.| a direct butt joint between surfaces of steel
+		> ADV 直接地/直達地 |With no one or nothing in between.| they seem reluctant to deal with me direct
+		> 指揮 |Control the operations of; manage or govern.| an economic elite directed the nation`s affairs
+		> 指向/針對 |Aim (something) in a particular direction or at a particular person.| his smile was directed at Lois
+		> 給……指路 |Tell or show (someone) how to get somewhere.| can you direct me to the railway station, please?
+		> 命令 |Give (someone) an official order or authoritative instruction.| the judge directed him to perform community service
+	+ dispose of (v)擺脫 == Get rid of by throwing away or giving or selling to someone else.
+	+ draft (n)草圖/草稿, 匯票/匯款單, 徵兵, 選拔制度 (v)起草, 選派, 徵召
+		> 草圖/草稿 |A preliminary version of a piece of writing.| the first draft of the party`s manifesto
+		> 起草 |Prepare a preliminary version of (a document)|
+		> 選派 |Select (a person or group of people) and bring them somewhere for a certain purpose.|
+		> 匯票/匯款單 |A written order to pay a specified sum.|
+		> 徵兵 |Compulsory recruitment for military service.|
+		> 徵召 |Conscript (someone) for military service.|
+		> 選拔制度 |A procedure whereby sports players are made available for selection or reselection by the teams in a league, usually with the earlier choices being given to the weaker teams.|
+		> |Select (a player) for a sports team through the  服用量draft.|
+	+ draft /drɑːft/ == draught /drɑːft/ (n)氣流, 一口氣, 吃水深度 (adj)桶裝的, 能負重物的
+		> 氣流 |A current of cool air in a room or other confined space.| heavy curtains at the windows cut out draughts
+		> 一口氣 |A single act of drinking or inhaling.| she downed the remaining beer in one draught
+		> 服用量 |A quantity of a liquid with medicinal properties.| a sleeping draugh
+		> 吃水深度 |The depth of water needed to float a ship.| the shallow draught enabled her to get close inshore
+		> |The drawing in of a fishing net.|
+		> 桶裝的 |Denoting beer or cider served from a barrel or tank rather than from a bottle or can.| draught ale
+		> 能負重物的 |Denoting an animal used for pulling heavy loads.| a draught horse
+	+ drill (n)鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 (v)鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
+		> 鑽子/鑽機 |A tool or machine with a rotating cutting tip or reciprocating hammer or chisel, used for making holes.|
+		> 鑽床 |A tool with a rotating tip used by a dentist for cutting away part of a tooth before filling it.|
+		> 操練 |Instruction or training in military exercises.| parade-ground drill
+		> 訓練 |Intensive instruction or training in something, typically by means of repeated exercises.| tables can be mastered by drill and practice
+		> 口訣 |A rehearsal of the procedure to be followed in an emergency.| air-raid drills
+		> 規定的步驟 |The correct or recognized procedure or way of doing something.| he didn`t know the drill
+		> 牡蠣鑽 |A predatory mollusc that bores into the shells of other molluscs in order to feed on the soft tissue.|
+		> 鑽 |Produce (a hole) in something by or as if by boring with a drill.| drill holes through the tiles for the masonry pins
+		> 鑽 |Sink a borehole in order to obtain oil or water.| BP has been licensed to drill for oil in the area
+		> 鑽除 |(of a dentist) cut away part of (a tooth) before filling it.| I didn`t like having my teeth drilled, but extractions were worse
+		> |(of a sports player) hit (a shot) hard and in a straight line.| he drilled a right-foot volley into the back of the net
+		> 操練 |Subject (someone) to military training exercises.| a sergeant was drilling new recruits
+		> 受訓 | (of a person) take part in military training exercises.| the troops were drilling
+		> 訓練 |Instruct (someone) in something by the means of repeated exercises or practice.| I reacted instinctively because I had been drilled to do just that
+		> 條播機 |A machine which makes small furrows, sows seed in them, and then covers the seed with earth.|
+		> 條播機弄出來的溝 |A small furrow made by a drill.| sprinkle the seeds along a four foot drill
+		> 一排 |A row of plants sown in a drill.| drills of lettuces
+		> 用條播機播種 |Sow (seed) with a drill.| crops drilled in autumn
+		> 播種 |Plant (the ground) in furrows.| he drilled 100 acres in eight hours
+		> 鬼狒 |A dark brown baboon with a short tail and a naked blue or purple rump, found in the rainforests of West Africa.|
+		> 斜紋粗棉布 |A coarse twilled cotton or linen fabric.| sturdy clothes in drill, denim and linen
+	+ daub /dɔːb/ (v)塗, 亂畫/亂塗 (n)一抹, 拙劣的畫, 灰泥
+	+ dub (v)給...取別稱, 封..為爵士, 給皮革塗油, 配音, 複製, 混錄, 貢獻 (n)配音, 沒經驗的人
+		> 給...取別稱 |Give an unofficial name or nickname to.| the media dubbed anorexia ‘the slimming disease
+		> 封..為爵士 |Make (someone) a knight by the ritual touching of the shoulder with a sword.| he should be dubbed Sir Hubert
+		> |Dress (an artificial fishing fly) with strands of fur or wool or with other material.| prewaxed thread has dramatically eased the process of dubbing
+		> 給皮革塗油 |Smear (leather) with grease.| 
+		> |Provide (a film) with a soundtrack in a different language from the original.| the film will be dubbed into French and Flemish
+		> 配音 |Add (sound effects or music) to a film or recording.| background sound can be dubbed in at the editing stage
+		> 複製 |Make a copy of (a sound or video recording).|
+		> |An instance of dubbing sound effects or music.|
+		> |Transfer (a recording) from one medium to another.|
+		> 混錄 |Combine (two or more sound recordings) into one composite soundtrack.|
+		> 沒經驗的人 |An inexperienced or unskilful person.|
+		> 貢獻 |Pay up; make a contribution.|
+	+ dud (adj)無用的, 假的 (n)無用之物, 衣服
+		> 無用的 |Not working or meeting standards; faulty.| a dud ignition switch
+		> 無用之物 |A thing that fails to work properly or is otherwise unsatisfactory or worthless.| 
+		> 假的 |Counterfeit| she was charged with issuing dud cheques
+		> duds 衣服 |Cloths| buy yourself some new duds
+	+ dude (n)男人/傢伙, 花花公子, 城裡人
+		> 男人/傢伙 |A man; a guy (often as a form of address)| hey dude, what is up?
+		> 花花公子 |A stylish and confident person.| cool dudes
+		> 城裡人 |A city-dweller, especially one holidaying on a ranch in the western US.|
+	- dude up 盛裝打扮 == Dress up elaborately.
+		> my brother was all duded up in silver and burgundy
+	+ due
+	+ dump /dʌmp/ (n)垃圾場, 垃圾堆, 軍需品儲藏處, 髒亂的地方/下流場所 (v)傾倒/丟棄, 傾銷(到外國)
+	+ dust
+		> 侏儒 |(in folklore or fantasy literature) a member of a mythical race of short, stocky humanlike creatures who are generally skilled in mining and metalworking.|
+		> 矮子 |A very short person.|
+		> 使顯得渺小 |Cause to seem small or insignificant in comparison.| the buildings surround and dwarf All Saints church
+		> 阻礙..的發展 |Stunt the growth or development of.| the insurance industry is still battling with a number of challenges that have dwarfed its growth
+		* dab
+	* draw on 利用 == to use information or your knowledge of something to help you do something
+	* drift off 漸漸入睡 == o gradually start to sleep
+
+	- (be) directed at 專注於 = focus on
+	- dash (v)急奔, 猛撞, 撞上, 使破滅/使沮喪, 使失去自信 (n)急衝/奔跑, 匆忙的短程旅行, 短跑, 少量(混合液體), 少量, 破折號, (摩斯電碼)劃/長劃, 破折符, 銳氣/神氣, 儀表板
 		> 急奔 |Run or travel somewhere in a great hurry.| I dashed into the garden
 		> 急衝/奔跑 |An act of running somewhere suddenly and hastily.| she made a dash for the door
 		> 匆忙的短程旅行 |A journey or period of time characterized by urgency or eager haste.| a 20-mile dash to the airport
@@ -978,27 +1014,51 @@
 		> 銳氣/神氣 |Impetuous or flamboyant vigour and confidence; panache.| he has youthful energy, dash, and charisma
 		> 儀表板 |dashboard| an indicator on the dash tells you what gear you are in
 	- date
-	- date back to == to have been made in or to have come into being in (a certain time in the past)
+	- date back to (v)追溯到 == to have been made in or to have come into being in (a certain time in the past)
 		> They found jewelry dating back to the 1700s.
 		> Such uses of sunlight date back to 2,500 years to the world of the ancient Greeks and Romans, whose building were designed to catch more sun in cooler months than warmer ones, much like modern energy-efficient structures are today.
-	- direct /dʌɪˈrɛkt/, /dɪˈrɛkt/
-		> |Extending or moving from one place to another without changing direction or stopping.| there was no direct flight that day
-		> |Without intervening factors or intermediaries.| the complications are a direct result of bacteria spreading
-		> |Complete (used for emphasis)| attitudes which were in direct contrast to the confrontational perspectives of the past
-		> |(of a person or their behaviour) frank.| he is very direct and honest
-		> |Perpendicular to a surface; not oblique.| a direct butt joint between surfaces of steel
-		> ADV |With no one or nothing in between.| they seem reluctant to deal with me direct
-		> |Control the operations of; manage or govern.| an economic elite directed the nation`s affairs
-		> |Aim (something) in a particular direction or at a particular person.| his smile was directed at Lois
-		> |Tell or show (someone) how to get somewhere.| can you direct me to the railway station, please?
-		> |Give (someone) an official order or authoritative instruction.| the judge directed him to perform community service
+	- daub /dɔːb/ (v)塗, 亂畫/亂塗 (n)一抹, 拙劣的畫, 灰泥
+	- deal with == cope with == treat == handle
+	- dealbreaker 破局 == something that is important enough to you to prevent you from agreeing to something, buying something, etc.
+	- decidedly 無疑地 == Undoubtedly; undeniably.
+	- delve /dɛlv/ 
+	- descend on/upon
+	- devoid of 缺乏/免於 == Entirely lacking or free from.
+	- dew /ˈdjuː/ (n)露水 (v)用露水弄濕
+	- die of == to die because of (something)
+	- die Ving == die due to V
+
+	- direct something at
+	- dizzy
+	- docket
+	- dodgy /ˈdɒdʒi/ 
+	- dorky /ˈdɔːki/ 
+	- downsize
+	- downturn (n)衰退 (v)下彎 == A decline in economic, business, or other activity.
+	- drag
+	- drag sb down == if an unpleasant situation drags someone down, it makes them feel unhappy or ill
+	- draw ->  drew -> drawn 
+	- dread /drɛd/
+	- drift
+	- drift out 逐漸離去 == To slowly leave one place or thing.
+	- drink -> drank -> drunk
+	- drive -> drove -> driven
+	- drive up
+	- drop out
+	- drown out 聲音壓過 == (of a sound) to be loud enough to block the sound of something else
+	- drum up 召集 == to try to increase business activity or get support for something
+	- dry up
+	- duly
+	- dumb sth down 使…簡化/將…通俗化 == to make something simpler and easier for people to understand, especially in order to make it more popular
+	- dun
+	- dwarf
+	
 	- (be) directed at 專注於 = focus on
 		> The learner`s attention needs to be directed to the significant features.
 		> It can be inferred from the passage that in species in which vigilant behavior is directed at predators, the tendency of animals to be more vigilant in smaller groups than in larger in larger ones would most likely be minimized if which of the following were true?
 	- direct something at
 		> |direct something at/to Address a comment to or aim a criticism at.| I suggest that he direct his remarks to the council
 		> |arget a product or advertisement specifically at (someone)| the book is directed at the younger reader
-
 	- deal with == cope with == treat == handle
 		> Alligator is fierce when dealing with other animals but very shy in encounters with humans
 	- decidedly 無疑地 == Undoubtedly; undeniably.
@@ -1038,50 +1098,13 @@
 	* draw on 利用 == to use information or your knowledge of something to help you do something
 		> His novels draw heavily on his childhood.
 		> She had a wealth of experience to draw on.
-	+ draft
-		> 草圖/草稿 |A preliminary version of a piece of writing.| the first draft of the party`s manifesto
-		> 起草 |Prepare a preliminary version of (a document)|
-		> 選派 |Select (a person or group of people) and bring them somewhere for a certain purpose.|
-		> 匯票/匯款單 |A written order to pay a specified sum.|
-		> 徵兵 |Compulsory recruitment for military service.|
-		> 徵召 |Conscript (someone) for military service.|
-		> 選拔制度 |A procedure whereby sports players are made available for selection or reselection by the teams in a league, usually with the earlier choices being given to the weaker teams.|
-		> |Select (a player) for a sports team through the draft.|
-	+ draft /drɑːft/ == draught /drɑːft/ 
-		> 氣流 |A current of cool air in a room or other confined space.| heavy curtains at the windows cut out draughts
-		> 一口氣 |A single act of drinking or inhaling.| she downed the remaining beer in one draught
-		> 服用量 |A quantity of a liquid with medicinal properties.| a sleeping draugh
-		> 吃水深度 |The depth of water needed to float a ship.| the shallow draught enabled her to get close inshore
-		> |The drawing in of a fishing net.|
-		> 桶裝的 |Denoting beer or cider served from a barrel or tank rather than from a bottle or can.| draught ale
-		> 能負重物的 |Denoting an animal used for pulling heavy loads.| a draught horse
+	
 	- drift
 	* drift off 漸漸入睡 == o gradually start to sleep
 		> I couldn`t help drifting off in the middle of that lecture - it was so boring!
 	- drift out 逐漸離去 == To slowly leave one place or thing.
 		> Because it was a rainy Monday morning, the students just drifted out of the room after the bell rang.
-	+ drill
-		> 鑽子/鑽機 |A tool or machine with a rotating cutting tip or reciprocating hammer or chisel, used for making holes.|
-		> 鑽床 |A tool with a rotating tip used by a dentist for cutting away part of a tooth before filling it.|
-		> 操練 |Instruction or training in military exercises.| parade-ground drill
-		> 訓練 |Intensive instruction or training in something, typically by means of repeated exercises.| tables can be mastered by drill and practice
-		> 口訣 |A rehearsal of the procedure to be followed in an emergency.| air-raid drills
-		> 規定的步驟 |The correct or recognized procedure or way of doing something.| he didn`t know the drill
-		> 牡蠣鑽 |A predatory mollusc that bores into the shells of other molluscs in order to feed on the soft tissue.|
-		> 鑽 |Produce (a hole) in something by or as if by boring with a drill.| drill holes through the tiles for the masonry pins
-		> 鑽 |Sink a borehole in order to obtain oil or water.| BP has been licensed to drill for oil in the area
-		> 鑽除 |(of a dentist) cut away part of (a tooth) before filling it.| I didn`t like having my teeth drilled, but extractions were worse
-		> |(of a sports player) hit (a shot) hard and in a straight line.| he drilled a right-foot volley into the back of the net
-		> 操練 |Subject (someone) to military training exercises.| a sergeant was drilling new recruits
-		> 受訓 | (of a person) take part in military training exercises.| the troops were drilling
-		> 訓練 |Instruct (someone) in something by the means of repeated exercises or practice.| I reacted instinctively because I had been drilled to do just that
-		> 條播機 |A machine which makes small furrows, sows seed in them, and then covers the seed with earth.|
-		> 條播機弄出來的溝 |A small furrow made by a drill.| sprinkle the seeds along a four foot drill
-		> 一排 |A row of plants sown in a drill.| drills of lettuces
-		> 用條播機播種 |Sow (seed) with a drill.| crops drilled in autumn
-		> 播種 |Plant (the ground) in furrows.| he drilled 100 acres in eight hours
-		> 鬼狒 |A dark brown baboon with a short tail and a naked blue or purple rump, found in the rainforests of West Africa.|
-		> 斜紋粗棉布 |A coarse twilled cotton or linen fabric.| sturdy clothes in drill, denim and linen
+	
 	- drum up 召集 == to try to increase business activity or get support for something
 		> Retailers are trying to drum up sales with price cuts.
 		> If you want to build a ship, do not drum up your men to collect wood and give orders and distribute the work.
@@ -1099,52 +1122,16 @@
 		> 應得權益 |One`s right; what is owed to one.| he thought it was his due
 		> 應付款 |An obligatory payment; a fee.| he had paid trade union dues for years
 		> 正 |(with reference to a point of the compass) exactly; directly.| we`ll head due south again on the same road
-	- daub /dɔːb/ (v)塗, 亂畫/亂塗 (n)一抹, 拙劣的畫, 灰泥
-	+ dub
-		> 給...取別稱 |Give an unofficial name or nickname to.| the media dubbed anorexia ‘the slimming disease
-		> 封..為爵士 |Make (someone) a knight by the ritual touching of the shoulder with a sword.| he should be dubbed Sir Hubert
-		> |Dress (an artificial fishing fly) with strands of fur or wool or with other material.| prewaxed thread has dramatically eased the process of dubbing
-		> 給皮革塗油 |Smear (leather) with grease.| 
-		> |Provide (a film) with a soundtrack in a different language from the original.| the film will be dubbed into French and Flemish
-		> 配音 |Add (sound effects or music) to a film or recording.| background sound can be dubbed in at the editing stage
-		> 複製 |Make a copy of (a sound or video recording).|
-		> |An instance of dubbing sound effects or music.|
-		> |Transfer (a recording) from one medium to another.|
-		> 混錄 |Combine (two or more sound recordings) into one composite soundtrack.|
-		> 沒經驗的人 |An inexperienced or unskilful person.|
-		> 貢獻 |Pay up; make a contribution.|
-	- dud
-		> 無用的 |Not working or meeting standards; faulty.| a dud ignition switch
-		> 無用之物 |A thing that fails to work properly or is otherwise unsatisfactory or worthless.| 
-		> 假的 |Counterfeit| she was charged with issuing dud cheques
-		> duds 衣服 |Cloths| buy yourself some new duds
-	+ dude
-		> 男人/傢伙 |A man; a guy (often as a form of address)| hey dude, what is up?
-		> 花花公子 |A stylish and confident person.| cool dudes
-		> 城裡人 |A city-dweller, especially one holidaying on a ranch in the western US.|
-	- dude up 盛裝打扮 == Dress up elaborately.
-		> my brother was all duded up in silver and burgundy
-	+ dump /dʌmp/ (n)垃圾場, 垃圾堆, 軍需品儲藏處, 髒亂的地方/下流場所 (v)傾倒/丟棄, 傾銷(到外國)
+	
+	
+	
 	* dab
 		> 清塗/輕拍 |Press against (something) lightly several times with a piece of absorbent material in order to clean or dry it or to apply a substance.| he dabbed his mouth with his napkin
 		> |A brief application of a piece of absorbent material to a surface.|
 		> 一點 |A small amount of something.| she licked a dab of chocolate from her finger
 		> 比目魚 |A small, commercially important flatfish found chiefly in the North Atlantic.|
 		> |A dance move or gesture, originating in hip hop and often performed as part of a celebration, in which one arm is bent at an angle across the upper chest while the other is fully extended parallel to the first arm, with the face turned towards the bent elbow.|
-	+ dispose of == Get rid of by throwing away or giving or selling to someone else.
-	+ discipline /ˈdɪsɪplɪn/ 
-		> 懲戒/懲罰 |The practice of training people to obey rules or a code of behaviour, using punishment to correct disobedience.| a lack of proper parental and school discipline
-		> 教養/休養 |The controlled behaviour resulting from such training.| he was able to maintain discipline among his men
-		> 訓練 |Activity that provides mental or physical training.| he tariqa offered spiritual discipline
-		> 紀律/風紀 |A system of rules of conduct.|
-		> 學科 |A branch of knowledge, typically one studied in higher education.| sociology is a fairly new discipline
-	+ dissolve
-		> 溶解 |(with reference to a solid) become or cause to become incorporated into a liquid so as to form a solution.|
-		> 消失 |Disappear.| my courage dissolved
-		> 轉變 |Subside uncontrollably into (an expression of strong feelings)| she suddenly dissolved into floods of tears
-		> 轉場 |An act or instance of moving gradually from one image or scene in a film to another.| the alternatives to a cut are fades or dissolves
-		> 潰散 |Close down or dismiss (an assembly or official body)| the National Assembly was dissolved after a coup
-		> 使終結 |Annul or end (a partnership or marriage)|
+	
 	- dealbreaker 破局 == something that is important enough to you to prevent you from agreeing to something, buying something, etc.
 	- dodgy /ˈdɒdʒi/ 
 		> 危險的 |Potentially dangerous.| activities like these could be dodgy for your heart
@@ -1181,19 +1168,6 @@
 		> 探究/鑽研 |Research or make painstaking inquiries into something.| the society is determined to delve deeper into the matter
 	- devoid of 缺乏/免於 == Entirely lacking or free from.
 	- dew /ˈdjuː/ (n)露水 (v)用露水弄濕
-	+ deem 認為 == Regard or consider in a specified way.
-	+ deposit
-		> 儲蓄 |A sum of money paid into a bank or building society account.|
-		> 存 |Pay (a sum of money) into a bank or building society account.|
-		> 保證金 |A sum payable as a first instalment on the purchase of something or as a pledge for a contract, the balance being payable later.|
-		> 付保證金 |Pay (a sum) as a first instalment or as a pledge for a contract.|
-		> 押金 |A returnable sum payable on the hire or rental of something, to cover possible loss or damage.|
-		> 堆積/沈澱 |A layer or mass of accumulated matter.|
-		> 沈澱 |(of water, the wind, or other natural agency) lay down (matter) gradually as a layer or covering.| beds where salt is deposited by the tide
-		> 礦床 |A natural underground layer of rock, coal, or other material.|
-		> 放/寄存 |Put or set down (something or someone) in a specific place.| he deposited a pile of school books on the kitchen table
-		> 下蛋 |Lay (an egg)| the female deposits a line of eggs
-		> 放/寄放 |The action of placing something in a specified place.| the deposit of a thesis in a library gives no guarantee of copyright protection
 	- dizzy
 		> 頭暈目眩的 |Having or involving a sensation of spinning around and losing one`s balance.| Jonathan had begun to suffer dizzy spells
 		> 使人頭暈的 |Causing a spinning sensation.| a sheer, dizzy drop
@@ -1206,20 +1180,6 @@
 		> 在...上附上標籤 |Mark (a consignment or package) with a document or label listing the contents.|
 		> 附上摘要 |Annotate (a letter or document) with a brief summary of its contents.| he docketed the letter on the 
 	- dwarf
-		> 侏儒 |(in folklore or fantasy literature) a member of a mythical race of short, stocky humanlike creatures who are generally skilled in mining and metalworking.|
-		> 矮子 |A very short person.|
-		> 使顯得渺小 |Cause to seem small or insignificant in comparison.| the buildings surround and dwarf All Saints church
-		> 阻礙..的發展 |Stunt the growth or development of.| the insurance industry is still battling with a number of challenges that have dwarfed its growth
-
-	+ differential
-		> 不同的/有差異的 |Of, showing, or depending on a difference; varying according to circumstances or relevant factors.|
-		> 差異 |A difference between amounts of things.| the differential between petrol and diesel pricesㄅ
-		> 獨特的 |Constituting a specific difference; distinctive.| the differential features between benign and malignant 
-		tumours
-		> 微分的 |Relating to infinitesimal differences or to the derivatives of functions.|
-		> 微分 |An infinitesimal difference between successive values of a variable.|
-		> 差動的 |Relating to a difference in a physical quantity.| a differential amplifier
-		> 差動齒輪 |A set of gears allowing a motor vehicle`s driven wheels to revolve at different speeds when going around corners.|
 
 [E]
 	- eat (v)吃 (n)零嘴
@@ -4890,6 +4850,7 @@
 	- twig
 		> 細條/嫩枝 |A slender woody shoot growing from a branch or stem of a tree or shrub.|
 		> 小支脈 |A small branch of a blood vessel or nerve.|
+	- twitch (v)使抽搐, 猛拉, 刺痛 (n)抽搐, 猛拉, 刺痛
 
 [U]
 	- up-close

@@ -1,50 +1,42 @@
 [General]
-	- tenure
-		> |The conditions under which land or buildings are held or occupied| 
-		> |The holding of an office.|
-		> 任期 |Guaranteed permanent employment| At 38, Harry Overly was decades younger than the tenured raisin man he replaced as the chief executive of Sun-Maid
-		> |Give (someone) a permanent post, especially as a teacher or lecturer. | I had recently been tenured and then promoted to full professor
-	- knowledge economy 知識經濟
-	- brain drain 人才流失
-	- bestseller 暢銷商品 == a product that is extremely popular and has sold in very large numbers
-	- glass ceilings 玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
-	- list price 建議售價
-	- voucher
+	- knowledge economy (n)知識經濟
+	- brain drain (n)人才流失
+	- bestseller (n)暢銷商品 == a product that is extremely popular and has sold in very large numbers
+	- glass ceilings (n)玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
+	- list price (n)建議售價
+	- voucher (n)折價券, 證據, 保證人
 		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
 		> 證據 |a piece of supporting evidence|
 		> 保證人 |surety| 
-	- backbreaking 需要勞力的 == (of manual labour) physically demanding.
-	- marketable
+	- marketable (adj)有市場的, 暢銷的
 		> 有市場的 |Able or fit to be sold or marketed.| the flotation will make the shares marketable
 		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
-	- licensing terms 授權條款
-	- licensing agreement 授權合約 
-	- capitalism 資本主義 == An economic and political system in which a country`s trade and industry are controlled by private owners for profit, rather than by the state.
-	- yellow page 黃頁，在很多國家和地區都用來表示一份商業用社會團體的電話名冊、通訊目錄
+	- licensing terms (n)授權條款
+	- licensing agreement (n)授權合約 
+	- capitalism (n)資本主義 == An economic and political system in which a country`s trade and industry are controlled by private owners for profit, rather than by the state.
+	- yellow page (n)黃頁，在很多國家和地區都用來表示一份商業用社會團體的電話名冊、通訊目錄
 
 [Title/Job]
-	- chief executive 首席執行官
-	- the general manager 總經理
-	- chairman 議長/委員長/董事長
-	- board member 董事會成員
-	- undersecretary 次長
-	- VP == Vice President
-	- executive director 執行董事
-	- CFO == Chief Financial Officer
-	- COO == Chief Operating Officer
-	- benefits manager 企業福利主管
-	- deputy director 副主任
-	- General Secretary 總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
-	- CPA == Certified Public Accountant 註冊會計師，一般是在各國相關管理機構或協會取得認證註冊，接受委託從事審計、會計諮詢、會計服務的專業人士
-	- secretary 祕書 == A person employed by an individual or in an office to assist with correspondence
-	- rank and file 普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
+	- chief executive (n)首席執行官
+	- the general manager (n)總經理
+	- chairman (n)議長/委員長/董事長
+	- board member (n)董事會成員
+	- undersecretary (n)次長
+	- VP == Vice President (n)副總統/副總裁/副總經理
+	- executive director (n)執行董事
 	- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for `chief`
-	- blue-collar 藍領/藍領的，簡單來說就是從事勞動工作的雇員，典型的代表可能是工廠作業員和軟體工程師，藍領經常被用來與白領比較，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作。
-	- spokesperson 發言人/代言人 == spokesman or spokeswoman
-	- foreman
+	- CFO == Chief Financial Officer (n)財務長
+	- COO == Chief Operating Officer (n)營運長
+	- benefits manager (n)企業福利主管
+	- deputy director (n)副主任
+	- General Secretary (n)總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
+	- CPA == Certified Public Accountant (n)註冊會計師
+	- secretary (n)祕書 == A person employed by an individual or in an office to assist with correspondence
+	- spokesperson (n)發言人/代言人 == spokesman or spokeswoman
+	- foreman (n)工頭/領班, 陪審團主席
 		> 工頭/領班 |A male worker who supervises and directs other workers.|
 		> 陪審團主席 |(in a law court) a person who presides over a jury and speaks on its behalf.|
-	- steward
+	- steward (n)服務員, 膳務員, 幹事/籌備員, 籌備, 工會代表, 管理, 財產管理人/管家 
 		> 服務員 |A person employed to look after the passengers on a ship, aircraft, or train.|
 		> 膳務員 |A person responsible for supplies of food to a college, club, or other institution.|
 		> 幹事/籌備員 |An official appointed to supervise arrangements or keep order at a large public event, for example a race, match, or demonstration.|
@@ -52,24 +44,30 @@
 		> 工會代表 |shop steward|
 		> 管理 |Manage or look after (another`s property)|
 		> 財產管理人/管家 |A person employed to manage another`s property, especially a large house or estate.|	
-	- personnel 
+	- sidekick (n)助手 == A person`s assistant or close associate, especially one who has less authority than that person.
+	- aide-de-camp /ˌeɪddəˈkɒ̃/ (n)副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
+	- attachés /əˈtaʃeɪ/ (n)專員 == A person on the staff of an ambassador having a specialized area of responsibility.
+
+	- personnel (n)人員, 人事部門
 		> 人員 |People employed in an organization or engaged in an organized undertaking such as military service.| ‘many of the personnel involved require training
 		> 人事部門 |personnel department|
-	+ bourgeoisie /ˌbʊəʒwɑːˈziː/ 中產階級
-	- help desk 客戶服務部 == a service that provides information and help to people, especially those using a computer network
-	- advisory board 顧問委員會
-	- brain trust 智囊團/顧問團/諮詢團 == a group of people who advise a leader
-	- higher-up 高層人物/要員 == someone with a more important position than you in an organization
-	- bouncer 保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
-	- lumberjack 伐木工人
-	- undertaker 殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
-	- cottage industry 家庭代工
-	- attachés /əˈtaʃeɪ/ 專員 == A person on the staff of an ambassador having a specialized area of responsibility.
-	- sidekick 助手 == A person`s assistant or close associate, especially one who has less authority than that person.
-	- aide-de-camp /ˌeɪddəˈkɒ̃/ 副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
+	- help desk (n)客戶服務部 == a service that provides information and help to people, especially those using a computer network
+	- advisory board (n)顧問委員會
+	- brain trust (n)智囊團/顧問團/諮詢團 == a group of people who advise a leader
+
+	- bouncer (n)保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
+	- lumberjack (n)伐木工人
+	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
+	- cottage industry (n)家庭代工
+	
+	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
+	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
+	+ bourgeoisie /ˌbʊəʒwɑːˈziː/ (N)中產階級
+	- higher-up (n)高層人物/要員 == someone with a more important position than you in an organization
+
 
 [Company/Store]
-	- off-duty 不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
+	- off-duty (adj)不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
 	- pension /ˈpɛnʃ(ə)n/ 
 		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
 		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
@@ -508,6 +506,10 @@
 		> 使順風 |Slacken or let out (a rope or cable) in a controlled way.|
 	- off course 偏離航線
 	- outrigger (n)舷外浮材（裝在舷外以防翻船的樑架，帆桅或其他裝置）
+	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
+	- schooner
+		> 縱帆船 |A sailing ship with two or more masts, typically with the foremast smaller than the mainmast.|
+		> 大啤酒杯|A tall beer glass.|
 	- canoe /kəˈnuː/ (n)獨木舟 (v)划獨木舟
 	- motorboat 汽艇
 	- paddle wheel 明輪/槳輪
@@ -1005,6 +1007,7 @@
 		> 厭惡 |A strong dislike.| their allergy to free enterprise
 	- autoimmune disease == AID 自體免疫性疾病，是人體內的異常的免疫反應攻擊了正常細胞
 	- necrosis (n)壞疽
+	- chronic pain (n)慢性疼痛
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1617,12 +1620,6 @@
 	- lubricant /ˈluːbrɪk(ə)nt/ (n)潤滑油/潤滑劑 (adj)潤滑的
 	- asphalt /ˈasfalt/ (n)瀝青/柏油 (v)鋪瀝青於
 
-[Sea]
-	- mast 桅杆 == A tall upright post, spar, or other structure on a ship or boat, in sailing vessels generally carrying a sail or sails.
-	- schooner
-		> 縱帆船 |A sailing ship with two or more masts, typically with the foremast smaller than the mainmast.|
-		> 大啤酒杯|A tall beer glass.|
-
 [School/Education]
 	- sophomore 二年級學生 == A second-year university or high-school student.
 	- studies programs 課程 <--> study program 研究計畫
@@ -2091,7 +2088,6 @@
 	- masturbate
 		> 對……行手淫 |Stimulate one`s genitals with one`s hand for sexual pleasure.| we do not like to admit that we masturbate
 		> 手淫 |Stimulate the genitals of (someone) to give them sexual pleasure.| they masturbated each other in the long grass below the tennis courts
-	- gypsum /ˈdʒɪpsəm/ 石膏
 	- bifocals 雙光眼鏡，是具有兩種不同光學能力的眼鏡
 	- lightning rod 避雷針
 	- Slurpee 思樂冰，由全球性的便利商店7-Eleven研製的沙冰飲品，在1967年首次推出

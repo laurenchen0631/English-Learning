@@ -576,6 +576,7 @@
 			- cohabit
 			+ coincide --> coincident --> coincidental
 			- collaborate
+			+ /ˈkɒlədʒ(ə)n/ collagen (n)膠原蛋白
 			+ collapse
 			- collate
 			- collateral
@@ -830,7 +831,8 @@
 		- deception (n)欺騙/欺詐
 		+ deceptive (adj)欺騙的/誤導的 = misleading = fallacious = fraudulent = delusive
 		- deciduous (adj)落葉性的, 脫落的
-		++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者 --> /ˈdɪsɪplɪn/ discipline (n)紀律/風紀, 教養/休養, 學科, 懲戒/懲罰
+		++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者
+		+++ /ˈdɪsɪplɪn/ discipline (n)紀律/風紀, 教養/休養, 學科, 懲戒/懲罰
 		+ disciplinary (adj)紀律的, 訓練的, 懲戒的, 學科的
 		* disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
 		* emancipate
@@ -1047,7 +1049,7 @@
 
 	calc 石灰/石灰岩 = lime, limestone
 		- /ˈkalsɪəm/ calcium (n)鈣
-		- calculus (n)微積分
+		- calculus (n)微積分, 計算法/推論法, 結石
 		* calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge <|> articulate
 		+ calculable (adj)可計算的/可預想到的, 可信賴的
 		- /ˈkalsʌɪt/ calcite (mn)方解石
@@ -1725,6 +1727,7 @@
 	dense 濃/密 = thick
 		- dense (adj)密的 = compact = crowed, 強烈的 = extreme = intense, 愚鈍的 = stupid = dull = opaque
 		* condense (v)縮短 = abridge, 使濃縮 = encapsulate <--> rarefy, 使凝結 = congeal = coagulate
+		- condensate (mn)冷凝水, 凝化物
 
 	duc, duce, duit, due 引導 = lead == agog
 		- abduct (v)綁架/誘拐 <--> abduce
@@ -2069,6 +2072,7 @@
 
 	ep, epi
 		1. 上 = on, upon, above, over
+			- epicenter (n)震央, 中心
 			- epidermis
 			- epidemic
 			+ eponym
@@ -2109,7 +2113,7 @@
 		+ equipoise (n)均衡/平衡 = equilibrium = poise (v)平衡 = balance <-- equi + poise
 		+ equitable (adj)公平的 = fair = evenhanded
 		- equate (v)等同, 使相等
-		- equator (n)赤道
+		- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
 		- equivalent
 		+ equivocate --> equivocal
 		+ inequity (n)不公平/不公正 = injustice = unfairness
@@ -2630,7 +2634,7 @@
 		+ generic (adj)種類的/屬的, 一般的 = general, 總稱的, 沒有商標的
 		*** generous (adj)慷慨的/大方的 = liberal = munificent = bountiful, 寬宏大量的 = magnanimous, 豐富的/豐盛的 = large = abundant = ample, 肥沃的 = fertile = prolific
 		* generosity (n)慷慨/大方, 仁慈/寬厚 = goodness
-		- genital (adj)生殖的 <|> genial
+		- genital (adj)生殖的 <|> genial --> genitals (n)生殖器官 
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類 --> genera (n)類
 		- /ˈ(d)ʒɒnrə/ genre (n)文藝作品之類型
@@ -2719,6 +2723,7 @@
 		* hypocritical
 		+++ hypothesis (n)假設/假說 = supposition = assumption --> hypothetical (adj)假設的
 		- hypotenuse
+		- /ˌhʌɪpə(ʊ)ˈθaləməs/ hypothalamus (n)下視丘
 	
 	hypno 催眠 = put to sleep
 		* hypnotic (adj)催眠的 = soporific (n)安眠藥 = sedative
@@ -4000,7 +4005,7 @@
 		- /məˈʃiːnəri/ machinery (n)機器組/機械, 零組件, (政府等的)機構/方法
 		+ /ˈmaʃɪneɪt/ machinate (v)陰謀策劃/密謀 = plot = scheme --> machinations (n)陰謀 = plots = schemes
 		- mechanic (n)機械工/修理工/技工
-		- mechanics (n)力學
+		- mechanics (n)力學, 機械學, 機件, 方法/機制
 		- mechanical (adj)機械的, 機械似的/呆板的, 力學的/物理的, 手工操作的
 		*** mechanism (n)機械裝置, 機制/物理過程, 手法/技巧
 
@@ -4181,9 +4186,10 @@
 
 	nitro, nitr 氮
 		- nitrogen (n)氮
-		- /ˈnaɪdər/ niter (n)硝酸鉀 = potassium nitrate
+		- /ˈnaɪdər/ niter (n)硝酸鉀 = saltpetre = potassium nitrate
 		- nitric (adj)硝石的/五價氮的
 		- nitrate (n)硝酸鹽 (v)用硝酸處理/硝化
+		- nitre (n)硝酸
 
 [O]
 	ob
@@ -6117,7 +6123,7 @@
 	soci 同伴/社會 = social
 		- associate (v)連結 = connect, [be associated with]與..有牽連, 來往/交往 (n)合夥人/夥伴/同事 = partner = companion, 準會員, 關聯 (adj)聯合的, 副的
 		- association (n)聯盟/協會 = syndicate, 聯合 = connection, 關聯
-		- dissociate (v)使分離
+		- dissociate (v)使分離 --> dissociation (n)分離/游離, 精神分裂
 		* society (n)社會, 社團/協會 = organization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
 		- /səˈsʌɪɪtəl/ societal (adj)社會的
 		- /səʊʃɪˈɒlədʒi/ sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)

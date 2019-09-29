@@ -55,6 +55,7 @@
 	- At the very least we have to consider that it was more… it was more of a *mutual* thing
 - at large 普遍地/全體地 == in general == generally
 	- This group is not representative of the population at large.
+- darn well 無疑地 == without doubt or question
 
 ## Frequency
 - (every) now and then 偶爾 == sometimes, but not regularly

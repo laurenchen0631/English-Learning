@@ -11,6 +11,7 @@
 	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
 
 	+ glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
+	* glaciation (n)冰河作用
 	- ice sheet (n)冰蓋，連續的冰川冰覆蓋了50,000 km²以上陸地，因此也稱作大陸冰川。目前僅有的冰原是南極洲與格陵蘭
 	- ice cap (n)冰帽，一塊巨型的圓頂狀冰，覆蓋少於50000km²的陸地面積
 	- crevasse /krɪˈvas/ (n)冰河裂縫
@@ -80,6 +81,10 @@
 	- the tropics (n)熱帶 == The region between the tropics of Cancer and Capricorn.
 	- temperate zone (n)溫帶
 	- tropic (n)熱帶
+	- greenhouse effect (n)溫室效應
+	- El Niño 聖嬰現象
+	- smog /smɒɡ/ (n)霧霾 == Fog or haze combined with smoke and other atmospheric pollutants.
+	- thermal inversion (n)逆溫現象(一種氣象學的現象，指地面上的溫度隨著高度越高而增加，與高度越高溫度下降的正常現象相反)
 
 [Geology]
 	- - topography (n)地形/地貌, 地形圖 --> topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
@@ -96,12 +101,27 @@
 	- subduction (n)隱沒，一板塊的邊緣往下以數十度的傾角下沈至另一板塊的邊緣，使老的岩石圈又下降回到地函中
 	- anticline (n)背斜層(褶曲的一種，指岩層發生波狀彎曲時，其形狀向上凸起者)
 	- faulting (n)斷層化
+	- epicenter (n)震央, 中心
+		> 震央 |The point on the earth`s surface vertically above the focus of an earthquake.| 
+		> 中心 |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
 
 	- magma /ˈmaɡmə/ (n)岩漿
 	- sediment (n)沉積物, 渣 = dregs (v)沉積  --> sedimentary
 	- geothermal (adj)地熱的 == Relating to or produced by the internal heat of the earth.
 	- geothermal gradient (n)地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
-	- geostationary 與地球同步旋轉的
+
+	- summer solstice (n)夏至
+	- solstice (n)至點
+	- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
+
+	- Tropic of Cancer (n)北回歸線
+	- Tropic of Capricorn (n)南回歸線
+	- the prime meridian 本初子午線
+	- meridian (n)子午線/經線, 最高點, 經脈
+		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth`s surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
+		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth`s surface.|
+		> 經脈 |(in acupuncture and Chinese medicine) each of a set of pathways in the body along which vital energy is said to flow.| the slow movements and postures of t`ai chi open up and align the meridians of the body
+	- geostationary (adj)與地球同步旋轉的
 
 	- tidal /ˈtʌɪd(ə)l/ (adj)潮汐的
 	- tidal force (n)潮汐力(物體壓縮或拉伸的一種假想力，是由於重力場強度不同所導致的)

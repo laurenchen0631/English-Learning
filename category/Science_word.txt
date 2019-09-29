@@ -1,67 +1,69 @@
 [Unit]
 	- kilowatt-hour (n)千瓦·時(能量量度單位，表示一件功率為一千瓦的電器在使用一小時之後所消耗的能量) == 3.6 million joules
-	- kiloliter
-	- quart (n)夸脫(約為一加侖或兩品脫) == 0.94 litre
-	- pound == 0.45359237 kilogram
-	- ft == feet == foot == A unit of linear measure equal to 12 inches (30.48 cm)
-	- square foot 平方英尺
-	- hectare /ˈhɛktɛː/ 公頃 == A metric unit of square measure, equal to 100 ares
-	- are 公畝 == 100 square meters == 119.6 square yards
-	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
-	- acre /ˈeɪkə/(n)英畝 == 0.405 hectare
-	- degree Celsius /ˈsɛlsɪəs/  == °C
-	- dozen == twelve
-	+ millennium == A period of a thousand years
-	+ millennial
-		> |Denoting or relating to a period of a thousand years.| 
-		> |Denoting people reaching young adulthood in the early 21st century.| 
-		> N |A person reaching young adulthood in the early 21st century.|
-	- parsec == A unit of distance used in astronomy, equal to about 3.26 light years
-	- mph == miles per hour
-	- light-year == 10,000,000,000,000 kilometers
-	- calorie 卡路里 == 4.184 J(焦耳)
-	- Angstrom /ˈaŋstrəm/ 埃格斯特朗 == Å == one ten-billionth of a metre == 0.1 nanometre 
-	- carat 克拉 == 200 milligrams
 	- megawatt == MW == one million watts
+	- calorie (n)卡路里 == 4.184 J(焦耳)
+	- faraday (n)法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
+
+
+	- liter (n)公升
+	- kiloliter (n)公秉
+	- quart (n)夸脫(約為一加侖或兩品脫) == 0.94 litre
+
+	- pound (n)磅 == 0.45359237 kilogram
+	- carat (n)克拉 == 200 milligrams
+
+	- ft == feet == foot (n)呎/英尺 == 12 inches (30.48 cm)
+	- inch (n)寸/英吋 == 2.54 cm == one twelfth of a foot
+	- mph (n)每小時英里數 == miles per hour
+	- parsec (n)秒差距(宇宙距離尺度) == A unit of distance used in astronomy, equal to about 3.26 light years
+	- light-year (n)光年 == 10,000,000,000,000 kilometers
+	- Angstrom /ˈaŋstrəm/ 埃格斯特朗 == Å == one ten-billionth of a metre == 0.1 nanometre 
+
+	- square foot (n)平方英尺
+	- are (n)公畝 == 100 square meters == 119.6 square yards
+	- acre(n) /ˈeɪkə/(n)英畝 == 0.405 hectare
+	- hectare /ˈhɛktɛː/ (n)公頃 == 100 ares
+	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+
+	- dozen (n)十二個 == twelve
+	+ millennium (n)千年 == A period of a thousand years --> millennial (adj)千年的, 千禧年的 (n)千禧年的的人
 	- biweekly (ADJ/ADV)一週兩次的, 雙週的 (n)雙週刊, 半週刊
-	- faraday 法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
+	- C.E. == Common Era (n)西元
+	- A.D. == Anno Domini (n)西元(在主之年)
+	- B.C. == Before Christ (n)西元前
+
+	- degree Celsius /ˈsɛlsɪəs/  == °C
 	- Celsius 攝氏 /ˈsɛlsɪəs/ 
 	- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
-	- C.E. == Common Era (n)西元
-	- B.C. == Before Christ (n)西元前
-	- A.D. == Anno Domini (n)西元(在主之年)
+
 
 [Law/Theory/Study]
-	- Murphy’s law 墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
-	- Doppler effect == Doppler shift 都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
-	- Milgram`s obedience studies == Milgram experiment 米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
-	- the Malcolm Gladwell rule == 10,000-Hour Rule 一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
-	- epigenetics 表觀遺傳學
-	- entropy
-		> 熵 |A thermodynamic quantity representing the unavailability of a system`s thermal energy for conversion into mechanical work, often interpreted as the degree of disorder or randomness in the system.|
-		> 混亂/失序 |Lack of order or predictability; gradual decline into disorder.| a marketplace where entropy reigns supreme
-		> |(in information theory) a logarithmic measure of the rate of transfer of information in a particular message or language.|
-	- rule of thumb 經驗法則，是一些廣為應用的原則，但本身有經過簡化，不保證在所有的情形下都可靠，或者都有準確的結果
-	- hypothesis 假說 <--> hypocrisy
+	- hypothesis (n)假說 <--> hypocrisy
+
+	- Murphy’s law (n)墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
+	- Milgram`s obedience studies == Milgram experiment (n)米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
+	- the Malcolm Gladwell rule == 10,000-Hour Rule (n)一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
+	- epigenetics (n)表觀遺傳學
+	- rule of thumb (n)經驗法則，是一些廣為應用的原則，但本身有經過簡化，不保證在所有的情形下都可靠，或者都有準確的結果
+
 	- heliocentric theory (n)地動說，也稱為日心說，是關於天體運動的和天動說相對立的學說，它認為太陽是宇宙的中心，而不是地球
+	- Roche limit /rəʊʃ/ (n)洛希極限，一個天體對自身的重力與第二個天體對它造成的潮汐力相等時兩個天體的距離，當兩個天體的距離少於洛希極限，天體就會傾向碎散，繼而成為第二個天體的環
+
+	- galvanic corrosion (n)伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電
+	- Doppler effect == Doppler shift (n)都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
+	池，因電化學作用造成的金屬腐蝕現象。
+
 
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
-	- fume hood == 通風櫥/排氣罩
+	- fume hood (n)通風櫥/排氣罩
 	- beaker (n)大杯子, 燒杯
-	- broth
-		> 湯 |Soup consisting of meat or vegetables cooked in stock, sometimes thickened with barley or other cereals.|
-		> 培養液 |A liquid medium containing proteins and other nutrients for the culture of bacteria.| broth cultures of intestinal tissue
-	- vial 小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
-	- satellite /ˈsatəlʌɪt/ 衛星
-	- transponder 轉發器 == A device for receiving a radio signal and automatically transmitting a different signal.
-	- centrifuge /ˈsɛntrɪfjuːdʒ/ 
-		> 離心機 |A machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate fluids of different densities (e.g. cream from milk) or liquids from solids.|
-		> 使受離心作用 |Subject to the action of a centrifuge.|
-		> 用離心機分離 |Separate by centrifuge.| the black liquid is centrifuged into oil and water
-	- dropper
-		> 滴管 |A short glass tube with a rubber bulb at one end and a tiny hole at the other, for measuring out drops of medicine or other liquids.| oils sold in bottles with a rubber-tipped dropper
-		> |A subsidiary line or loop of filament attached to a main line or leader.| a dropper line
+	- broth (n)湯, 培養液
+	- vial (n)小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
+	- satellite /ˈsatəlʌɪt/ (n)衛星
+	- transponder (n)轉發器 == A device for receiving a radio signal and automatically transmitting a different signal.
+	- centrifuge /ˈsɛntrɪfjuːdʒ/ (n)離心機 (v)使受離心作用, 用離心機分離
+	- dropper (n)滴管
 	- cyclotron /ˈsʌɪklətrɒn/ (n)迴旋加速器
 
 [Chemical]
@@ -84,50 +86,47 @@
 	- cadmium (n)鎘
 	+ nickel /ˈnɪk(ə)l/ (n)鎳, 五分錢
 	+ lithium (n)鋰
-	+ chlorine (n)氯 --> chlorinate 使氯化 == Impregnate or treat with chlorine.
+	+ chlorine (n)氯 --> chlorinate (v)使氯化 == Impregnate or treat with chlorine.
+	+ phosphorus (N)磷
 	+ potassium /pəˈtasɪəm/ (n)鉀
 	- zinc (n)/zɪŋk/ 鋅
 	- iridium (n)銥
 	- masurium (n)鎝
 	- technetium /tɛkˈniːʃɪəm/ (n)鎝(其所有同位素都具有放射性，是原子序最小的非穩定元素)
 
+	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/ (adj)微粒的 (n)微粒狀物質
 	- atomic /əˈtɒmɪk/ (adj)原子的, 無法分割的, 原子能的
 	- monatomic /ˌmɒnəˈtɒmɪk/ 單原子的
 	- subatomic /sʌbəˈtɒmɪk/ (adj)次原子的/比原子小的
+	- quark (n)低脂起司凝塊, 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元)
+	- electron (n)電子
 	- proton ˈprəʊtɒn/ (n)質子
 	- cation /ˈkatʌɪən/ (n)陽離子
 	- muon /ˈmjuːɒn/ (n)緲子，一種帶有一個單位負電荷、自旋為1/2的基本粒子
 	- ion /ˈʌɪən/ (n)離子
+	- valence (n)原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
+	- radioactive (adj)放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
 	- molecule /ˈmɒlɪkjuːl/ (n)分子
 	- molecular /məˈlɛkjʊlə/ (adj)分子的
 	- isomer (n)同分異構，指的是擁有相同分子式，但結構式卻不相同的多種分子
-	- noble gases 高貴氣體 == inert gases 惰性氣體
-	- dissociation
-		> 分離/游離 |The action of disconnecting or separating or the state of being disconnected.| we in the West honour a long-standing dissociation between church and state
-		> 分裂 |Separation of normally related mental processes, resulting in one group functioning independently from the rest, leading in extreme cases to disorders such as multiple personality.|
+	- noble gases (n)高貴氣體 == inert gases 惰性氣體
+	- dissociation (n)分離/游離, 精神分裂
 	- fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂
-	- valence 原子價 == Relating to or denoting electrons involved in or available for chemical bond formation.
-	- radioactive 放射性的 == Emitting or relating to the emission of ionizing radiation or particles.
-	- ultracold atom 超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
-	- condensate
-		> 冷凝水 |Liquid collected by condensation.|
-		> 凝化物 |A compound produced by a condensation reaction.|
-	- quark
-		> 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元) |Any of a number of subatomic particles carrying a fractional electric charge, postulated as building blocks of the hadrons. Quarks have not been directly observed but theoretical predictions based on their existence have been confirmed experimentally.|
-		> 低脂起司凝塊 |A type of low-fat curd cheese.|
-	- deuteron (n)氘核子(重氫的原子核)
+	- ultracold atom (n)超冷原子是將原子保持在一個極低溫的狀態（接近絕對零度），在這樣的低溫狀態下，原子的量子力學性質變得十分重要
+	- condensate (mn)冷凝水, 凝化物
+	- deuteron /ˈdjuːtərɒn/ (n)氘核子(重氫的原子核)
 	
 	* polymer (n)聚合物
 	- amino acid (n)胺基酸
 	- chloride (n)氯化物
 	- calcareous (adj)石灰質的 == Containing calcium carbonate; chalky.
-	- sodium chloride (n)氯化鈉
+	- sodium chloride (n)氯化鈉(鹽)
 	- ozone /ˈəʊzəʊn/ (n)臭氧
 	- oxidize /ˈɒksɪdʌɪz/ (v)氧化 == Combine chemically with oxygen.
 	- carbon dioxide (n)二氧化碳
 	- methane /ˈmɛθeɪn/ (n)甲烷
 	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ (n)硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
-	- nitre (n)硝酸 --> nitric (adj)
+	- nitre == saltpetre == potassium nitrate (n)硝酸鉀 --> nitric (adj)
 	- formaldehyde /fɔːˈmaldɪhʌɪd/ (n)甲醛
 	- fluoride (n)氟化物
 	- phosphate (n)磷酸鹽
@@ -137,77 +136,63 @@
 	- myelin (n)髓磷脂
 	- steroid /ˈstɛrɔɪd/ (n)類固醇
 	+ collagen /ˈkɒlədʒ(ə)n/ (n)膠原蛋白 <-- colla = glue + gen
-	- glucose /ˈɡluːkəʊz/ 葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
-	- ketone /ˈkiːtəʊn/ 酮
-	- vinyl 乙烯基
-	- asbestos 石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
-	- alkaloid 生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
-	- protein 蛋白質
-	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ 去氧核糖酸 == DNA
-	- Plexiglas 聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
-	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ 硫脲，是尿素中的氧被硫替代後形成的化合物
-	- meth
-		> 甲基苯丙胺 |The drug methamphetamine.| he started taking meth to keep up with younger people in sports and at work
-		> 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴) |methadone|
-		> 甲醇化物 |meths|
-	
+	- glucose /ˈɡluːkəʊz/ (n)葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
+	- ketone /ˈkiːtəʊn/ (n)酮
+	- vinyl (n)乙烯基
+	- asbestos (n)石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
+	- alkaloid (n)生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
+	- protein (n)蛋白質
+	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ (n)去氧核糖酸 == DNA
+	- Plexiglas (n)聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
+	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ (n)硫脲，是尿素中的氧被硫替代後形成的化合物
+	- meth (n)甲基苯丙胺, 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴), 甲醇化物
 	- saline /ˈseɪlʌɪn/ (adj)含鹽的 (n)鹽水/生理食鹽水
-	- galvanic corrosion 伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。
-
 
 [Physical]
+	- entropy (n)熵, 混亂/失序
+	- thermalization (n)熱化，是物理體通過相互作用達到熱平衡的過程
+
 	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
+	- waveform (n)波形 
+	- infrasound (n)亞聲/次聲
+	- pink noise (n)粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
+	- cymatics (n)細小的顆粒在振動的表面形成特定圖案的現象
+	- quantum decoherence (n)量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
+
+	- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
+	- spectrograph (n)光學光譜儀
+	- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
+	- spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
+	- prism /ˈprɪz(ə)m/ (n)稜柱, 稜鏡, 扭曲的觀點 <--> /ˈprɪz(ə)n/ prison
+	- optical radiation (n)光輻射
 	- light wave (n)光波
 	- ultraviolet light (n)紫外線
-	- waveform (n)波形 
 	+ /ɪnfrəˈrɛd/ infrared (Adj)紅外線的
-	- infrasound (n)亞聲/次聲
+
 	- magnetic field (n)磁場
-	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/ (adj)微粒的 (n)微粒狀物質
-	- electron (n)電子
-	+ specimen /ˈspɛsɪmɪn/
-		> 標本/樣品 |An individual animal, plant, piece of a mineral, etc. used as an example of its species or type for scientific study or display.| specimens of copper ore
-		> 實例/典型 |An example of something regarded as typical of its class or group.| a specimen paper of the new test
-		> 抽驗 |A sample for medical testing, especially of urine.|
-		> 傢伙 |Used to refer humorously to a person or animal.| Carla could not help feeling a degree of reluctant admiration for this odd female specimen
 	- electrostatic (adj)靜電的
 	- electromagnetic (adj)電磁的
 	- magnetic field /maɡˈnɛtɪk/ (n)磁場
+
 	- mechanical energy (n)力學能/機械能
-	- mechanics
+	- mechanics (n)力學, 機械學, 機件, 方法/機制
 		> 力學 |the branch of applied mathematics dealing with motion and forces producing motion.| the laws of mechanics and electricity predicted that the electrons would spiral inward until they collided with the nucleus
 		> 機械學 |The practical study of machinery.| skills like carpentry, motor mechanics, and electrics
 		> 機件 |The machinery or working parts of something.| he looks at the mechanics of a car before the bodywork
 		> 方法/機制 |The way in which something is done or operated.| the mechanics of cello playing
 	- centrifugal force /ˌsɛntrɪˈfjuːɡ(ə)l/ (n)離心力
-	- pink noise (n)粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
-	- cymatics (n)細小的顆粒在振動的表面形成特定圖案的現象
-	- thermalization (n)熱化，是物理體通過相互作用達到熱平衡的過程。一般而言，系統的自然趨勢是朝向能量均分和均勻溫度的狀態，從而使系統的熵最大化
-	- spatial, spacial /ˈspeɪʃ(ə)l/ (adj)空間的 = Relating to or occupying space.
-	- temporal
-		> 世間的/世俗的 |Relating to worldly as opposed to spiritual affairs; secular.| the Church did not imitate the secular rulers who thought only of temporal gain
-		> 時間的 |Relating to time.| the spatial and temporal dimensions of human interference in complex ecosystems
-		> 太陽穴的/顳的 |Of or situated in the temples of the head.| arterial biopsy usually confirms the diagnosis of temporal arteritis
-	- quantum decoherence 量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
-	- breaking strength 抗張力裂斷強度
-	- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
-	- spectrograph 光學光譜儀
-	- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
-	- spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
-	- prism /ˈprɪz(ə)m/ (n)稜柱, 稜鏡, 扭曲的觀點 <--> /ˈprɪz(ə)n/ prison
-	- optical radiation 光輻射
+	- breaking strength (n)抗張力裂斷強度
 
 [Mathematic]
 	- the Roman numeral system (n)羅馬數字(羅馬數字共有7個，即I（1）、V（5）、X（10）、L（50）、C（100）、D（500）和M（1000）)
-	* /ɪˈlɪps/ ellipse 橢圓 --> /ɪˈlɪptɪk/ elliptic 橢圓的 --> elliptical (adj)橢圓的, 省略的
-	* spherical /ˈsfɛrɪk(ə)l/ 球的/圓的
-	- calculus
+	* spherical /ˈsfɛrɪk(ə)l/ (adj)球的/圓的
+	- calculus (n)微積分, 計算法/推論法, 結石
 		> 微積分 |infinitesimal calculus|
 		> 計算法/推論法 |A particular method or system of calculation or reasoning.|
 		> 結石 |A hard mass formed by minerals within the body, especially in the kidney or gall bladder.|
 	- ordinary and partial differential equations 常微分方程式與偏微分方程式
-	- infinite series 無窮級數，在數學中，一個有窮或無窮的序列的和稱為級數。如果序列是有窮序列，其和稱為有窮級數；反之，稱為無窮級數
-	- geodesic
+	- infinite series (n)無窮級數，在數學中，一個有窮或無窮的序列的和稱為級數。如果序列是有窮序列，其和稱為有窮級數；反之，稱為無窮級數
+	- geodesic (adj)曲面幾何結構的, 大地測量學的 (n)測地線
 		> |Relating to or denoting the shortest possible line between two points on a sphere or other curved surface.|
 		> 曲面幾何結構的 |(of a dome or other structure) constructed from struts which follow geodesic lines and typically form an open framework of triangles and polygons.|
 		> 大地測量學的 |geodetic|
@@ -215,183 +200,148 @@
 	- curvilinear (adj)曲線的
 
 [Body]
-	- protractor (n)量角器, 伸肌
-	- visceral
-		> 內臟的 |Relating to the viscera.| the visceral nervous system
-		> |Relating to deep inward feelings rather than to the intellect.|
-	- chronic pain 慢性疼痛
-	- shoulder blade 肩胛骨
-	- umbilical cord 臍帶
-	- masseter muscle 咬肌/咀嚼
-	- zygomatic arch 顴骨弓
-	- skull /skʌl/ (n)頭骨, [非]腦袋 (v)[非]撞到頭
-	- skeletal (adj)骨骼的, 骨瘦如柴的 = emaciated, 輪廓的/大概的
 	- skeleton (n)骨骼, 骨瘦如柴的人或動物, 遺骸, 概略/大綱
+	- skeletal (adj)骨骼的, 骨瘦如柴的 = emaciated, 輪廓的/大概的
+	- skull /skʌl/ (n)頭骨, [非]腦袋 (v)[非]撞到頭
+	- shoulder blade (n)肩胛骨
+	- zygomatic arch (n)顴骨弓
 	- pelvis /ˈpɛlvɪs/ (n)骨盆, 腎盂(腎臟內側的漏斗狀空腔) = renal pelvis
-	- bicep 二頭肌
-	- womb 子宮 = uterus
-	- eyelash 睫毛
-	- clavicle 鎖骨
-	- deltoid 三角肌
-	- quadriceps 股四頭肌
-	- muscle group 肌肉群
-	- waist 腰/腰身
-	- groin 腹股溝/男性陰部
-	- hormone 賀爾蒙
-	- testosterone 睪酮
-	- acne /ˈakni/ 粉刺
-	- hypothalamus /ˌhʌɪpə(ʊ)ˈθaləməs/ 下視丘
-	- pituitary gland 腦下垂體
-	- adrenal /əˈdriːn(ə)l/ 腎上腺的
-	- cortisol == hydrocortisone 皮質醇，又譯成可體松，在應付壓力中扮演重要角色，故又被稱為「壓力荷爾蒙」
-	- oxytocin /ˌɒksɪˈtəʊsɪn/ 催產素
-	- twitch
-		> 使抽搐 |Give or cause to give a short, sudden jerking or convulsive movement.| 
-		> |A short, sudden jerking or convulsive movement.|
-		> 猛拉 |Cause to move in a specified direction by giving a sharp pull.|
-		> |A sudden pull or jerk.|
-		> 刺痛 |A sudden sharp sensation; a pang.|
-		> |A small noose attached to a stick, which may be twisted around the upper lip or the ear of a horse to subdue 
-		it during veterinary procedures.|
-		> |Use a twitch to subdue (a horse).|
-	- endorphin /ɛnˈdɔːfɪn/ 腦內啡
-	- adrenaline /əˈdrɛn(ə)lɪn/ 腎上腺素
-	- scar tissue 癒傷組織
-	- visceral (adj)內臟的, 出自內心深處的
-	- cortex
-		> 腦皮層 |The outer layer of the cerebrum (the cerebral cortex), composed of folded grey matter and playing an important role in consciousness.|
-		> 皮層/皮質 |An outer layer of another organ or body part such as a kidney (the renal cortex), the cerebellum, or a hair.|
-		> 厚皮/樹皮 |An outer layer of tissue immediately below the epidermis of a stem or root.|
-	- retina /ˈrɛtɪnə/ 視網膜
-	- receptor 受器
-	- the rods 視桿
-	- the cones 視錐
-	- alimentary canal 消化道
-	- anus/ˈeɪnəs/ 肛門 == The opening at the end of the alimentary canal through which solid waste matter leaves the body.
-	- intestine /ɪnˈtɛstɪn/ 腸 == the lower part of the alimentary canal from the end of the stomach to the anus.
-	- small intestine 小腸 == small bowel
-	- large intestine 大腸 == large bowel
-	- colon /ˈkəʊlən/
-		> 冒號 |A punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.|
-		> 結腸 |The main part of the large intestine, which passes from the caecum to the rectum and absorbs water and electrolytes from food which has remained undigested.|
-	- anus 肛門 == The opening at the end of the alimentary canal through which solid waste matter leaves the body.
-	- intestinal tract 腸道
-	- bowel /ˈbaʊəl/  腸 == intestine == The part of the alimentary canal below the stomach; the intestine.
-	- the spinal cord 脊髓
-	- plumbing
+	- clavicle (n)鎖骨
+	- deltoid (n)三角肌
+	- cheekbone (n)頰骨
+	- sacrum /ˈseɪkrəm/ (n)薦骨/盆骨
+	- tibia /ˈtɪbɪə/ (n)脛骨
+	
+	- muscle group (n)肌肉群
+	- protractor (n)量角器, 伸肌
+	- masseter muscle (n)咬肌/咀嚼
+	- bicep (n)二頭肌
+	- quadriceps (n)股四頭肌
+	- sphincter /ˈsfɪŋktə/ (n)(肛門)括約肌
+	- knee-jerk (n)膝躍反射
+
+	- viscera (n)內臟 --> visceral (adj)內臟的, 出自內心深處的
+	- gland (n)腺
+		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
+		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
+	- hypothalamus /ˌhʌɪpə(ʊ)ˈθaləməs/ (n)下視丘
+	- pituitary gland (n)腦下垂體
+	- amygdala /əˈmɪɡdələ/ (n)杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
+	- pancreas (n)胰臟
+	- gallbladder (n)膽囊
+	- atrium (n)天井前廳, 心房
+		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
+		> |A central hall in a modern building, typically rising through several stories and having a glazed roof.|
+		> |The forecourt of a large church built on the basilican plan.|
+		> 心房 |Each of the two upper cavities of the heart from which blood is passed to the ventricles. The right atrium receives deoxygenated blood from the veins of the body, the left atrium oxygenated blood from the pulmonary vein.|
+	- aorta /eɪˈɔːtə/ (n)大動脈
+	- trachea /trəˈkiːə/ (n)氣管
+	- frontal lobe (n)額葉 <-- - frontal (adj)前面的, 額骨的 + lobe (n)葉, 裂片
+
+	- alimentary canal (n)消化道
+	- plumbing (n)排泄/生殖系統, 管線系統
 		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
 		> 排泄/生殖系統 |Used as a humorous euphemism for the excretory, urinary, or reproductive systems.|
-	- cheekbone (n)頰骨
-	- freckled 有雀斑的
-	- spironolactone 螺內酯
-	- estradiol 雌二醇
-	- estrogen 雌激素
-	- groin (n)鼠蹊部
-	- pancreas 胰臟
-	- gallbladder 膽囊
-	- urethra 尿道
-	- kidney 腎臟
-	- ureter 輸尿管
-	- bladder 膀胱
-	- girth
+	- urethra (n)尿道
+	- ureter (n)輸尿管
+	- bladder (n)膀胱
+	- kidney (n)腎臟
+	- intestine /ɪnˈtɛstɪn/ (n)腸 == the lower part of the alimentary canal from the end of the stomach to the anus.
+	- bowel /ˈbaʊəl/ (n)腸 == intestine == The part of the alimentary canal below the stomach; the intestine.
+	- intestinal tract (n)腸道
+	- small intestine == small bowel (n)小腸 
+	- large intestine  == large bowel (n)大腸
+	- anus/ˈeɪnəs/ (n)肛門
+	- colon /ˈkəʊlən/ (n)結腸, 冒號
+		> 冒號 |A punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.|
+		> 結腸 |The main part of the large intestine, which passes from the caecum to the rectum and absorbs water and electrolytes from food which has remained undigested.|
+
+	- umbilical cord (n)臍帶
+	- womb (n)子宮 = uterus
+
+	- genitals (n)生殖器官 == A person`s or animal`s external organs of reproduction.
+	+ sperm (n)精液 = semen, 精子 = spermatozoon
+	+ egg (n)卵子 = ovum, 蛋, 人/傢伙 (v)煽動
+	- sex cells (N)性細胞 == The sperm and egg of living things
+	- placenta (n)胎盤 --> placental (adj)胎盤的 == Relating to a placenta.
+
+	- hormone (n)賀爾蒙
+	- testosterone (n)睪酮
+	- cortisol == hydrocortisone (n)皮質醇，又譯成可體松，在應付壓力中扮演重要角色，故又被稱為「壓力荷爾蒙」
+	- oxytocin /ˌɒksɪˈtəʊsɪn/ (n)催產素
+	- endorphin /ɛnˈdɔːfɪn/ (n)腦內啡/安多酚
+	- adrenal /əˈdriːn(ə)l/ (n)腎上腺的 --> adrenaline /əˈdrɛn(ə)lɪn/ (n)腎上腺素
+	- spironolactone (n)螺內酯
+	- estradiol (n)雌二醇
+	- estrogen (n)雌激素
+
+	- eyelash (n)睫毛
+	- larynx /ˈlarɪŋks/ (n)喉頭 --> laryngeal /ləˈrɪndʒɪəl/ (adj)喉頭的
+	- waist (n)腰/腰身
+	- girth (n)腰身/周長, 肚子, 肚帶
 		> 腰身/周長 |The measurement around the middle of something, especially a person`s waist.| idle men of great girth
 		> 肚子 |A person`s waist or stomach, especially when large.| he tied the knotted towels around his girth
 		> 肚帶 |A band attached to a saddle and fastened around a horse`s belly to keep the saddle in place.|
-	+ belly
+	+ belly (n)腹部/肚子, 腫起/突起, 胃/食慾, 下側, 豬肚
 		> 腹部/肚子 |The front part of the human trunk below the ribs, containing the stomach and bowels.| his fat belly stuck out over his trousers
 		> 腫起/突起 |Swell or cause to swell.| as she leaned forward her pullover bellied out
 		> 胃/食慾 |The stomach, especially as representing the body`s need for food.| they`ll fight all the better on empty bellies
 		> 下側 |The underside of a bird or other animal.| grasses were said to have been tall enough to brush the bellies of horses
 		> 豬肚 |A pig`s belly as food, especially as a traded commodity.|
-	- soma
-		> 體細胞 |The parts of an organism other than the reproductive cells.| 
-		> 軀體 |The body as distinct from the soul, mind, or psyche.|
-		> |An intoxicating drink prepared from a plant and used in Vedic ritual, believed to be the drink of the gods.|
-	- gland
-		> 腺 |An organ in the human or animal body which secretes particular chemical substances for use in the body or for discharge into the surroundings.| 
-		> |A sleeve used to produce a seal round a piston rod or other shaft.| 
-	- atrium
-		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
-		> |A central hall in a modern building, typically rising through several stories and having a glazed roof.|
-		> |The forecourt of a large church built on the basilican plan.|
-		> 心房 |Each of the two upper cavities of the heart from which blood is passed to the ventricles. The right atrium receives deoxygenated blood from the veins of the body, the left atrium oxygenated blood from the pulmonary vein.|
-	- aorta /eɪˈɔːtə/ 大動脈
-	+ sperm (n)精液 = semen, 精子 = spermatozoon
-	+ egg (n)卵子 = ovum, 蛋, 人/傢伙 (v)煽動
-	- sex cells 性細胞 == The sperm and egg of living things
-	+ womb 子宮 == uterus <--> tomb
-	- placental 胎盤的 == Relating to a placenta.
-	- trachea /trəˈkiːə/ 氣管
-	- knee-jerk 膝躍反射
-	- sacrum /ˈseɪkrəm/ 薦骨/盆骨 == A triangular bone in the lower back formed from fused vertebrae and situated between the two hip bones of the pelvis.
-	- thigh /θʌɪ/ 
+	- thigh /θʌɪ/ (n)股/大腿,  股節/腿部
 		> 股/大腿 |The part of the human leg between the hip and the knee.|
 		> 股節/腿部 |The body part in other animals that corresponds to the human thigh.| One young bird, handled after wandering, readily disgorged a leg and thigh of a former brother or sister.
-	- taste bud 味蕾
-	- dopamine 多巴胺，是一種腦內分泌物，屬於神經遞質，可影響一個人的情緒
-	- amygdala /əˈmɪɡdələ/ 杏仁核，是邊緣系統的皮質下中樞，有調節內臟活動和產生情緒的功能
-	- tibia /ˈtɪbɪə/ 脛骨
-	- genitals /ˈdʒɛnɪt(ə)l/ 生殖器官 == A person's or animal's external organs of reproduction.
-	- sphincter /ˈsfɪŋktə/ 括約肌 == A ring of muscle surrounding and serving to guard or close an opening or tube, such as the anus or the openings of the stomach.
-	- larynx /ˈlarɪŋks/ 喉頭 --> laryngeal /ləˈrɪndʒɪəl/ 喉頭的
-	- frontal lobe 額葉 <-- - frontal (adj)前面的, 額骨的 + lobe (n)葉, 裂片
-	
-[Environment]
-	- greenhouse effect
-	- epicenter
-		> |The point on the earth`s surface vertically above the focus of an earthquake.| 
-		> |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
-	- smog /ˈsmäg/, /smɒɡ/ 霧霾  == Fog or haze combined with smoke and other atmospheric pollutants.
-	- thermal inversion 逆溫現象
-	* glaciation 冰河作用
-	- El Niño 聖嬰現象
-	- summer solstice 夏至
-	- solstice 至點
-	- Equator 赤道
-	- Tropic of Cancer 北回歸線
-	- Tropic of Capricorn 南回歸線
-	- equinox 分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
-	- the prime meridian 本初子午線
-	- meridian
-		> 子午線/經線 |A circle of constant longitude passing through a given place on the earth`s surface and the terrestrial poles.| the European Broadcasting Area extends from the Atlantic to the meridian 40°E
-		> 最高點 |A circle passing through the celestial poles and the zenith of a given place on the earth`s surface.|
-		> 經脈 |(in acupuncture and Chinese medicine) each of a set of pathways in the body along which vital energy is said to flow.| the slow movements and postures of t`ai chi open up and align the meridians of the body
+	- groin (n)腹股溝/鼠蹊部
+	- freckled (adj)有雀斑的
+	- acne /ˈakni/ (n)粉刺
+
+	- receptor (n)受器
+	- retina /ˈrɛtɪnə/ (n)視網膜
+	- the rods (n)視桿
+	- the cones (n)視錐
+	- taste bud (n)味蕾
+	- the spinal cord (n)脊髓
+	- cortex (n)腦皮層, 皮層/皮質, 厚皮/樹皮
+		> 腦皮層 |The outer layer of the cerebrum (the cerebral cortex), composed of folded grey matter and playing an important role in consciousness.|
+		> 皮層/皮質 |An outer layer of another organ or body part such as a kidney (the renal cortex), the cerebellum, or a hair.|
+		> 厚皮/樹皮 |An outer layer of tissue immediately below the epidermis of a stem or root.|
+	- scar tissue (n)癒傷組織
 
 [Universe]
-	- the Milky Way 銀河系 == the galaxy (= star system) that includes the earth
-	- galaxy 銀河/星系
-	- astronomer == An expert in or student of astronomy.
-	- splashdown 濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
-	- quasar 類星體
-	- interstellar gas 星際物質，星系和恆星之間的物質和輻射場的總稱
-	- barred spiral galaxy 棒旋星系
-	- spiral galaxy 螺旋星系
-	- elliptical galaxy 橢圓星系
-	- ecliptic (n)黃道 (adj)黃道的
-	- Mercury 水星
-	- Venus 金星
-	- Jupiter 木星
-	- Uranus 天王星
-	- Neptune 海王星
-	- Saturn 土星
-	- Mars 火星
-	- Pluto 冥王星
-	- Ceres 穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)
-	+ crater (n)彈坑/隕石坑, 火山口 (v)形成坑洞, 墜落
-	- impact crater (n)撞擊坑，為行星、衛星、小行星或其它類地天體表面通過隕石撞擊而形成的環形的凹坑
-	- South Pole–Aitken Basin 南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，直徑大約2500公里，深13公里，最大落差16.1公里，它是太陽系中已知最大的撞擊坑之一，也被公認為是月球上最大、最古老和最深的撞擊盆地。
-	- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
 	- planetesimal (n)小行星體 (adj)小行星體
+	- quasar (n)類星體
 	- meteorite (n)隕星
 	- comet (n)彗星
+
+	- Mercury (n)水星
+	- Venus (n)金星
+	- Jupiter (n)木星
+	- Uranus (n)天王星
+	- Neptune (n)海王星
+	- Saturn (n)土星
+	- Mars (n)火星
+	- Pluto (n)冥王星
+	- Ceres (n)穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)
+
+	- galaxy (n)銀河/星系
+	- the Milky Way (n)銀河系 == the galaxy (= star system) that includes the earth
+	- galactic disk (n)銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
+	- barred spiral galaxy (n)棒旋星系
+	- spiral galaxy (n)螺旋星系
+	- elliptical galaxy (n)橢圓星系
 	- Population I (n)第一星族，分類標準的是年齡、化學成分、在星系內的位置、和空間速度。
 	- Population II (n)第二星族
-	- bulge (n)腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) (v)膨脹/凸起, [with]裝滿
-	- galactic disk (n)銀盤/銀河星盤，是圓盤星系，例如螺旋星系或透鏡星系的一部分
+		- bulge (n)腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) (v)膨脹/凸起, [with]裝滿
+
+	+ crater (n)彈坑/隕石坑, 火山口 (v)形成坑洞, 墜落
+	- impact crater (n)撞擊坑，為行星、衛星、小行星或其它類地天體表面通過隕石撞擊而形成的環形的凹坑
+	- South Pole–Aitken Basin (n)南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，被公認為是月球上最大、最古老和最深的撞擊盆地。
 	- outflow channel (n)流出通道，火星上非常長的大片沖刷地面，通常包含預先存在的地形的流線型殘餘物和其他線性侵蝕特徵，表明流體向下坡移動的雕刻
+
+	- astronomer (n)天文學家== An expert in or student of astronomy.
+	- equinox (n)分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
+	- splashdown (n)濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+
+	- ecliptic (n)黃道 (adj)黃道的
+	- interstellar gas (n)星際物質，星系和恆星之間的物質和輻射場的總稱
 	- cosmic ray (n)宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
-	- Roche limit /rəʊʃ/ (n)洛希極限，一個天體對自身的重力與第二個天體對它造成的潮汐力相等時兩個天體的距離，當兩個天體的距離少於洛希極限，天體就會傾向碎散，繼而成為第二個天體的環
-
-
-[Photograph]
-	- platinum palladium printing 鉑鈀印相
