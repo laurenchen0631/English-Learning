@@ -7,7 +7,7 @@ In my opinion, I agree with that children should learn a second language in scho
 
 First off, some researches show that different language provide different stimulus in learning. For example, Japanese and English have very different compositions, English is more effectively used in expressing logic thinking and, on the other hand, Japanese is good at expressing emotion like literature ability.
 
-Secondly, it help to communicate with new people. For example, today there are many chances to interact with people from different countries. This can occur in a party or in a company. If children recognize many people in their future, you are likely to have a better opportunities, such as job or promotion.
+Secondly, it help to communicate with new people. For example, today there are many chances to interact with people from different countries. This can occur in a party or in a company. If children recognize many people in their future, you are likely to have a better opportunities, such as a job or a promotion.
 
 ## Vocab
 

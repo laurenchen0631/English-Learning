@@ -1,4 +1,4 @@
-# B+ (細節)
+# [B+ (細節)](https://img.kmf.com/toefl/listening/audio/18680c7998e29e82ca45290cf7f44e58.mp3)
 
 NARRATOR: Listen to part of a lecture in a sociology class.
 

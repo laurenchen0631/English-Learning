@@ -1,4 +1,4 @@
-## B+ (細節考題)
+## [A(細節考題)](https://img.kmf.com/toefl/listening/audio/5d6cd7bfd55cd2762ec58a3f1f99375b.mp3)
 
 NARRATOR: Listen to part of a lecture in a biology class.
 
@@ -14,7 +14,7 @@ Okay, what have we tried to find out about the tree since we've discovered it? H
 
 MALE STUDENT: Hum... I don't know, but I can imagine that, for instance, seed *dispersal* might be a factor. I mean if the, er... you know, if the seeds cannot really *disperse* in the wild area, then, you know, the tree may not *colonize* new areas, it can't spread from the area where it's growing.
 
-FEMALE PROFESSOR: Right. That's, that's actually a very good answer.Um... of course, you might think there might not be many areas where the tree could spread into, er... because, um... well, it's very specialized in terms of the *habitat*. But, that's not really the case here, uh... the suitable habitat, that is, the actual rain forest is much larger than the few *hectares* where the Nightcap Oak grows.
+FEMALE PROFESSOR: Right. That's, that's actually a very good answer. Um... of course, you might think there might not be many areas where the tree could spread into, er... because, um... well, it's very specialized in terms of the *habitat*. But, that's not really the case here, uh... the suitable habitat, that is, the actual rain forest is much larger than the few *hectares* where the Nightcap Oak grows.
 
 Now this tree is a flowering tree as I showed you, uh uh, it—it produces a fruit, much like a *plum*, on the *inset* inside there’s a seed with a hard shell. It, it appears that the shell has to crack open or break down somewhat to allow the seed to *soak up* water. If the Nightcap Oak remains, if their seeds remain locked inside their shell, they will not *germinate*. Now actually, the seeds, er... they don't retain the power to germinate for very long, maybe two years, so there's actually quite a short *window* of opportunity for the seed to germinate. So the shell somehow has to be broken down before this, um... germination ability expires. And, and then there's a kind of *rat* that likes to feed on the seeds as well. So, given all these limitations, not many seeds that the tree produces will actually germinate. So this is a possible explanation for why the tree does not spread. It doesn't necessarily explain how it became so rare, but it explains why it doesn't increase.
 

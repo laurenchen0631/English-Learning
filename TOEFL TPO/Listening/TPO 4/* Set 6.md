@@ -1,4 +1,4 @@
-# A (專有名詞 + 時間順序)
+# [A(專有名詞 + 時間順序)](https://img.kmf.com/toefl/listening/audio/0ed6782cfd918db0e658ad748b3248bd.mp3)
 
 NARRATOR: Listen to part of a lecture in a United States government class.
 

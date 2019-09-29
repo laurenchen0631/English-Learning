@@ -55,6 +55,8 @@
 	- At the very least we have to consider that it was more… it was more of a *mutual* thing
 - at large 普遍地/全體地 == in general == generally
 	- This group is not representative of the population at large.
+- by and large 大體上/總體上/一般來講
+	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
 - darn well 無疑地 == without doubt or question
 
 ## Frequency

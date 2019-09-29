@@ -1,3 +1,5 @@
+## [B](https://img.kmf.com/toefl/listening/audio/8dad431adb9f586dc1a3f7d4c855a4a8.mp3)
+
 NARRATOR: Listen to part of a lecture in a literature class.
 
 MALE PROFESSOR: Now we can't really talk about fairy tales without first talking about *folk tales* because there's a strong connection between these two *genres*, these two types of stories. In fact, many fairy tales started out as folk tales.

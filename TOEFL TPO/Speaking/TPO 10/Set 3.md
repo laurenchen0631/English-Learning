@@ -3,7 +3,7 @@
 ## Content
 According to the passage, the business department of the university plans to make work experience as a requirement because it benefit their students to develop leadership and it secure employment after the graduation. However, the student disagree with the new policy for 2 reasons.
 
-First, about leadership, the ability can't be learned from a temporary job because the job that you will do doesn't have any connection with leadership. Actually, companies only ask those students to do some basic tasks like filing stuff.
+First, the leadership can't be learned from a temporary job because the job that you will do doesn't have any connection with it. Actually, companies only ask those students to do some basic tasks like filing stuff.
 
 Another reason is that it cannot guarantee that companies will offer the students the position since there are other universities having the same requirement. Companies definitely don't have enough job position to give all students from different universities even after the graduation.
 

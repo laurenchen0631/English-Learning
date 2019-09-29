@@ -14,7 +14,7 @@ To begin with, endless relationship is based on trust. Some relationship will me
 
 Secondly, knowing the truth of oneself stimulate people to advance. People might not *be willing* to listen the truth, *whereas* some truth reveal our weakness and hence makes us to *refine* ourselves. Assuming that a person only ingratiate other people, he or she will lose the confidence of others *in the future*. Taking my colleague for example, he willingly expose his *honest* impression *whatever the situation such as a meeting and time of programming*. At first, he was disliked by his coworkers including me. After a while, I *perceived* that his advises and *assessments* are so helpful that I actually *ameliorate the performance on the job* *for the reason that I received the manager's approbation for the task that was criticized by the colleague*. I would recognize him as my friend even though we don't have any connection out of *the* company.
 
-From the above, my idea that you should got is that *being honest* sis the most significant behavior in the relationship. For one thing, telling the truth constructs a permanent relationship. And another thing, truthfulness helps *encourage* people to *surpass themselves*. Considering the reasons, there are no factor which is as influential as telling the truth.
+From the above, my idea that you should got is that *being honest* is the most significant behavior in the relationship. For one thing, telling the truth constructs a permanent relationship. And another thing, truthfulness helps *encourage* people to *surpass themselves*. Considering the reasons, there are no factor which is as influential as telling the truth.
 
 ## Vocab
 + point 論點 == argument == contention 

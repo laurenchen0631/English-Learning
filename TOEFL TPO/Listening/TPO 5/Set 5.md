@@ -1,3 +1,5 @@
+## [B](https://img.kmf.com/toefl/listening/audio/3be9a9c4cc3cc0fbb25233e34d6b35c6.mp3)
+
 NARRATOR: Listen to part of a lecture in a chemistry class.
 
 MALE PROFESSOR: Okay, I know you all have a lot of questions about this lab assignment that's coming out so, I'm gonna take a little time this morning to discuss it. So, you know the assignment has to do with *Spectroscopy*, right?And your reading should help you get a good idea of what that's all about. But, let's talk about Spectroscopy a little now just to cover the basics.

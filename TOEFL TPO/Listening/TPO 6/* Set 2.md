@@ -1,4 +1,4 @@
-## A+ (難字 + 細節考題)
+## [A+ (難字 + 細節考題)](https://img.kmf.com/toefl/listening/audio/febac9743d1306f14f176022fcb22d4e.mp3)
 
 NARRATOR: Listen to part of a lecture in an economics class.
 

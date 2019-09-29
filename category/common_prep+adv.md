@@ -29,7 +29,7 @@
 
 ## Relation
 - among == amongst
-+ but
++ but (conj)但是 (prep)除了 (adv)僅僅 (n)反對
 	- CONJUNCTION
 	- (prep)除了 |Except; apart from; other than| supply currently exceeds demand in all but the most rural areas
 	- (adv)僅僅 |No more than; only| he is but a shadow of his former self
@@ -49,8 +49,6 @@
 ## Degree
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
-- by and large 大體上/總體上/一般來講
-	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
 - somewhat /ˈsʌmwɒt/ (adv)有點/稍微
 
 ## Possibility

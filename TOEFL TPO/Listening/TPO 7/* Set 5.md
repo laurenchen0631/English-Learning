@@ -1,4 +1,4 @@
-# A (專有名詞 + 細節)
+# [A(專有名詞 + 細節)](https://img.kmf.com/toefl/listening/audio/1aa208c2411bce692862a4bb5f568441.mp3)
 
 NARRATOR: Listen to part of a lecture in *an anthropology* class.
 
@@ -28,7 +28,7 @@ Now how do you think this affected their lives?
 
 FEMALE STUDENT: Well, if they could travel so easily over such a large area, they could trade with people from other areas which I guess would lead them to form *alliances*.
 
-FEMALE PROFESSOR: Exactly, having an efficient means of transportation, well that helped the iroquois to form a *federation*, linked by natural water ways.And this federation expanded from what's now southern Canada all the way south to *Delaware River*. And this efficiency of the birch bark canoe also made an impression on the *newcomer* to the area. French traders in the 17th century modeled their... well, they adopted the design of the Iroquois birch bark canoes and they found they could travel great distances—more than 1500 kilometers a month.
+FEMALE PROFESSOR: Exactly, having an efficient means of transportation, well that helped the iroquois to form a *federation*, linked by natural water ways. And this federation expanded from what's now southern Canada all the way south to *Delaware River*. And this efficiency of the birch bark canoe also made an impression on the *newcomer* to the area. French traders in the 17th century modeled their... well, they adopted the design of the Iroquois birch bark canoes and they found they could travel great distances—more than 1500 kilometers a month.
 
 Now besides the bark, native Americans also use the wood of the birch tree. Eh, the young trees were used to support for *loggings*, with the waterproof bark used as *roofing*. Um branches were folded into snowshoes, and the native American people were all adept at running very fast over the snow in these birch branch snowshoes which if you've ever tried to walk in the snowshoes, you know it wasn't easy.
 

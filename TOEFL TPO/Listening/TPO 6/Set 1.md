@@ -1,4 +1,4 @@
-## C+
+## [C+](https://img.kmf.com/toefl/listening/audio/b31269862d3905115b3a8def1da478e3.mp3)
 
 NARRATOR: Listen to a conversation between a student and an employee in the university's career services office.
 
@@ -40,7 +40,7 @@ FEMALE EMPLOYEE: That's one way of looking at it. Think about it for a second. W
 
 MALE STUDENT: Well, there is the job itself… and salary of course… and working conditions, I mean, would I have an office, or would I work in a big room with a *zillion* other employees? and… and maybe about opportunities for advancement.
 
-FEMALE EMPLOYEE: See? Those're all important things to know.After you do some research, you'll be able to *tailor* your questions to the particular company you are talking to.
+FEMALE EMPLOYEE: See? Those're all important things to know. After you do some research, you'll be able to *tailor* your questions to the particular company you are talking to.
 
 MALE STUDENT: Wow, I'm glad I came by here. So, it looks like I’ve got some work to do.
 

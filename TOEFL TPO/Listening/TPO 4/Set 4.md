@@ -1,4 +1,4 @@
-# C
+# [C+](https://img.kmf.com/toefl/listening/audio/c0497ffe573a41928d99feddebfe5f52.mp3)
 
 NARRATOR: Listen to a conversation between a student and a professor.
 
@@ -12,7 +12,7 @@ FEMALE STUDENT: Oh, it's nothing… Well, since it's *your* class… I guess it'
 
 MALE PROFESSOR: Ahh yes. Due next week. What's your group doing again?
 
-FEMALE STUDENT: It's about United States *Supreme Court decisions*. We're looking at the impact of *recent cases* on *property rights*, *municipal* land use cases, *zoning* disputes…
+FEMALE STUDENT: It's about United States *Supreme Cbnm* disputes…
 
 MALE PROFESSOR: Right, OK…And it's not going well?
 
@@ -60,7 +60,7 @@ FEMALE STUDENT: I'll think about it. Gotta run. See you in class.
 1. What is the conversation mainly about? 
 	1. Methods for finding appropriate sources for a project.
 	1. Reasons the woman is having difficulties with a project.
-	1. Criteria the professor uses to evaluate group projects.
+	1. Criteria the professor uses to evaluate group p1+44\[/drrojects.
 	1. Ways to develop the skills needed to work in groups
 
 2. Why does the professor mention the ‘free-rider’ problem? 

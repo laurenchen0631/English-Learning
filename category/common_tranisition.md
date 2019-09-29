@@ -1,5 +1,5 @@
 ## Addition/Sequence 附加/順序
-- first/firstly, second/secondly, third/thirdly
++ first/firstly, second/secondly, third/thirdly
 	- Firstly, let us deal with the most important issue.
 	- First, however, you have to recognize the problem and then you have to actively fix it.
 	- Second, because the quality of recycled plastic is lower, virgin plastic pellets must be added to the recycled pellets to create the next new plastic thing. 
@@ -11,7 +11,7 @@
 	- Blaine Gibson followed the frustration at first from a distance. 
 	- When it comes to finding a new route around the obstruction, turtle ants employ a broad search strategy, trying out lots of different new routes at first, and gradually pruning them back until they are left with only the most useful paths. 
 	- At first, the hospital could not figure out where Barrett worked.
-- to begin with == to start with == for a start 首先
++ to begin with == to start with == for a start 首先
 	- such a fate is unlikely to befall him: to begin with, his is a genuine talent
 	- To begin with, a pet is a very educational gift.
 - in the first place 首先/起初
@@ -31,24 +31,22 @@
 	- Additionally, 50 hours of practical experience will be necessary.
 	- In addition to its political achievements, the women`s movement also helped to forge a new sense of identity and shared experiences among women.
 	- In addition, schools and universities began to offer courses in women`s issues.
-+ moreover == further == furthermore == also 此外
++ moreover == furthermore == further == also 此外
 	- Moreover, statistics show that competition for places is growing
 	- He was, moreover, a poet of promise. 
 	- Bicycling is a good exercise; moreover, it does not pollute the air.
 	- It was also a highly desirable political end. Furthermore, it gave the English a door into France.
 	- He is inefficient, and furthermore he is innocent of any sense of responsibility.
 	- Also, a car is very expensive to run
-
-+ and what is more == and more than that 此外
++ and what is more == and more than that == and another thing 此外
 	- The decorations were absolutely beautiful and what`s more, the children had made them themselves.
 	- They are coming in, in ever increasing numbers, and what is more, outspent visitors from every other part of the globe in 1999.
 	- And what is more, many even carry animal motifs and animal-friendly messages.
 	- And more than that, I think you have imagined a good arguer, an arguer that is worthy of the kind of arguer you should try to be. 
+	- And another thing, why did not you tell me you were going out?
 - even more (than sth) 除..之外 == on top of sth 除..之外
 	- Even more than my face, my license plate is being recorded.
 	- We missed our flight, and on top of that we had to wait seven hours for the next one.
-- and another thing 此外
-	- And another thing, why did not you tell me you were going out?
 - otherwise 除此之外
 	- The bike needs a new wheel, but otherwise it's in good condition.
 	- The poor sound quality ruined an otherwise beautiful film.
@@ -60,7 +58,7 @@
 	- And then the case was dropped, nso explanation given. 
 	- He wondered what would happen next.
 	- Next, I heard the sound of voices.
-- subsequently 其後/隨後
++ subsequently 其後/隨後
 	- the officer decided to stop and subsequently made an arrest
 	- the Equal Rights Amendment, which was passed by Congress but subsequently failed in the ratification process
 
@@ -82,7 +80,6 @@
 ## Reference 參考
 - speaking of/about == on the subject of 談到/論及/說起
 	- Speaking of cost, can I afford to buy it?
-	- While we are on the subject of money, may I ask when you will repay the loan?
 	- On the subject of funds, you may consult with him. 
 - when it comes to sth 當涉及...時/談到...時
 	- I am as good a cook as she is except when it comes to (making) pastry. 
@@ -105,14 +102,24 @@
 ## Clarification 闡明
 - namely 換句話說/亦即 
 	- the menu makes good use of Scottish produce, namely game and seafood
+	- to be specific, the biggest problem now facing the Chesapeake Bay is* due not to toxins*, but to nutrients contained in chemical fertilizers used on farms all over the region.
 + in other words == (to) put (it) another way 換句話說
 	- The new cat treat has a 90-plus palatability level. In other words, cats like it
 	- John is the best student in his class. In other words, he is better than any other student in his class. 
 	- You are still very young, Tom. To put it another way, you do not have any idea about what you are getting into. 
 	- Plants rely on photosynthesis. To put it another way, they will die without the sun
-+ in a/one sense 在某種意義上
-	- in a sense, behaviour cannot develop independently of the environment
++ that is (to say) == to be specific 換句話說/確切地說
+	- Our friends, that is to say our son`s friends, will meet us at the airport.
+	- I will meet you in the city, that is, I will if the trains are running.
+	- Whales are mammals. That is to say, they must breathe air.
++ in a/one sense == in a way 在某種意義上
+	- in a sense, behavior cannot develop independently of the environment
 	- In one sense, however, Brazil's new status signified the substitution of one dependence for another.
+	- In a way, I hope he doesn’t win.
+- so to speak/say 可以這麼說
+	- In that relationship it is very much Lorna who wears the trousers, so to speak
+	- The new procedures have been officially christened, so to speak.
+	- You scored 60, but your teacher still flunked you. He did it intentionally, so to speak. 
 + in effect 大抵上(就像)
 	- What I need to do, in effect, is stop seeing my life as a canvas to fill, and start seeing it more as a block of marble to chip away at and shape something out of.
 	- Indeed, the transfer of the court in effect signified achievement of Brazilian independence.
@@ -120,10 +127,6 @@
 	- Put simply, it was an offer we couldn’t refuse.
 	- he is, in brief, the embodiment of evil
 	- In brief, your work is bad. 
-+ that is (to say) 確切地說 == to be specific
-	- Our friends, that is to say our son`s friends, will meet us at the airport.
-	- I will meet you in the city, that is, I will if the trains are running.
-	- Whales are mammals. That is to say, they must breathe air.
 - indeed 更確切地
 	- The iHdea is attractive to many men and indeed to many women.
 - as a rule 在多數情況下/通常 == generally == usually
@@ -138,22 +141,23 @@
 	- She treats him as if he were a stranger. 
 	- I felt as though I'd been lying in the sun for hours.
 	- They stared at me as if I was crazy.
-- in all probability 很可能
+- in all probability 很可能 == possibly
 	- In all probability, he will go home tomorrow.
 
 ## Emphasis 強調
-- in fact 事實上/實際上 
+- in fact == as a matter of fact 事實上/實際上 
 	- In fact, no one knows how the pyramids were built.
 	- In fact, planetary scientists use solstices and equinoxes to define "seasons" for other planets in our solar system.
 	- Elite flyers at the Gold Medallion level and higher board ahead of Main Cabin 1, even if they are in fact sitting in the main cabin.
-- as a matter of fact 事實上/說真的 == in reality
 	- We are not losing population in our town. As a matter of fsact, people are moving in.
 - indeed 確實
 	- It was not expected to last long, and indeed it took less than three weeks.
 	- Indeed, much of early Icelandic law deals specifically with harvesting rights for these scarce resources in order to avoid violence.
-+ without (a) doubt == undoubtedly == definitely == certainly == clearly == surely 無疑地/確實
++ without (a) doubt == no doubt == undoubtedly == definitely == certainly == clearly == surely 無疑地/確實
 	- Without a doubt, she is the best nurse in the hospital.
 	- He was without doubt the very worst kind of reporter.
+	- He meant to help, no doubt, but in fact he has been a hindrance. 
+	- Most of you, no doubt, know the story of the North Wind and the Sun.
 	- They are undoubtedly guilty.
 	- Prior to that, esports events were empowering conferences of high-skill fans, but undoubtedly smaller in scope.
 	- It was easier — definitely not easy, but easier — to let themself be considered conventionally transgender, male to female, and go by the name Hannah.
@@ -162,13 +166,12 @@
 	- Clearly, things have changed in the last six weeks.
 	- He was clearly mistaken.
 	- If he did not heed the warning, he would surely die.
-- more importantly 更重要地是
++ more importantly == above all (else)更重要地是
 	- If we served more soft drinks, there would be fewer hangovers and, more importantly, fewer drink-driving incidents.
 	- He is a sensible and reliable team player but, more importantly, he usually seems to score vital match-winning goals.
-- above all (else) 最重要地是
 	- He was concerned above all to speak the truth
 	- He is strong, brave and, above all, honest. 
-- in particular == particularly == specifically = especially 特別/尤其
++ in particular == particularly == specifically = especially 特別/尤其
 	- I enjoyed in particular the singing of Miss Carpenter. 
 	- He particularly asked that I should help you
 	- Stevens says the public would be surprised by the depth of DiCaprio is understanding of environmental issues, particularly climate change. 
@@ -177,6 +180,7 @@
 	- a new song, written especially for Jonathan.
 - by no means 決不/一點都不 == at no point == not by all means == not at all
 	- It is by no means certain that we'll finish the project by June.
+	- it is by no means the only theory about how the theater came into being
 	- This isn't the last we'll hear of it by any means.
 	- At no point did I feel unprepared or unable to be a father.
 - by all means 當然/務必
@@ -197,27 +201,22 @@
 - naturally 當然地
 	- Naturally, I hoped for the best
 	- Naturally enough, she refused
-- so to speak/say 可以這麼說
-	- In that relationship it is very much Lorna who wears the trousers, so to speak
-	- The new procedures have been officially christened, so to speak.
-	- You scored 60, but your teacher still flunked you. He did it intentionally, so to speak. 
-+ in a way 在某種意義上 == considered in a particular manner
-	- In a way, I hope he doesn’t win.
 
 ## Concession 退讓
-- admittedly == granted 無可否認地
++ admittedly == granted 無可否認地
 	- Admittedly, the salary was not wonderful
 	- Admittedly, I could have tried harder but I still don't think all this criticism is fair.
-	- Granted, Marie was two years older than her, but it wasn't a question of ag
+	- Granted, Marie was two years older than her, but it wasn't a question of age.
 + **although** == **though** == **while** == **(as) much as** == **even though** 雖然/儘管
 	- Although the sun was shining it wasn't that warm
 	- Although small, the room has a spacious feel
 	- while I wouldn't recommend a night-time visit, by day the area is full of interest.
+	- While we are on the subject of money, may I ask when you will repay the loan?
 	- Much as I had enjoyed my adventure it was good to be back
 	- Much as I would like to help you, I'm simply too busy at the moment.
 	- We went swimming in spite of rain.
 	- Even though he was bigger, he never looked down on me.
-- albeit == in spite of (the fact that) == despite (the fact that) == even so 即使
++ albeit == in spite of (the fact that) == despite (the fact that) == even so 即使
 	- He was making progress, albeit rather slowly
 	- The cure for the disease is effective, albeit expensive. 
 	- In spite of being very tired, I stayed awake.
@@ -228,21 +227,18 @@
 	- Not the most exciting of places, but even so I was having a good time
 	- There are many spelling mistakes; even so it's quite a good essay. 
 	- The book is rather old; even so, it is very useful
++ regardless (of sth) == anyway 無論如何/無論..
+	- They were determined to carry on regardless
+	- The allowance is paid regardless of age or income
+	- Anyway, we arrived at the station
++ however 無論如何/不管怎樣
+	- However hot it is, he will not take off his coat
+	- However he tries, he never seems able to work satisfactorily.
 - at the same time 不過/仍然
 	- I can't really explain it, but at the same time I'm not convinced
 - it is true that ... but ... 儘管/雖然
 	- It is true that Toshiba does not have as high a profile as Sony. "But it is as innovative as any," says Haskins
 	- It is true that both are, broadly speaking, centrists, but important distinctions are emerging.
-+ however 無論如何/不管怎樣
-	- However hot it is, he will not take off his coat
-	- However he tries, he never seems able to work satisfactorily.
-+ regardless (of sth) == anyway 無論如何/無論..
-	- They were determined to carry on regardless
-	- The allowance is paid regardless of age or income
-	- Anyway, we arrived at the station
-- no doubt 毫無疑問/毋庸置疑
-	- He meant to help, no doubt, but in fact he has been a hindrance. 
-	- Most of you, no doubt, know the story of the North Wind and the Sun.
 
 ## Contrast/Similarity 比較/相似
 - **than** 比起
@@ -252,7 +248,7 @@
 + **whereas** == **while** 而/卻
 	- One person wants out, while the other wants the relationship to continue
 	- Some people like fatty meat, whereas others hate it. 
-+ be that as it may == for all that == nevertheless == nonetheless == none the less == still == yet == however 然而/可是 
++ however == still == yet == *be that as it may* == for all that == *nevertheless == nonetheless == none the less* 然而/可是
 	- Building a new children's home will cost a lot of money but, be that as it may, there is an urgent need for the facility.
 	- I accept that he's old and frail; be that as it may, he's still a good politician.
 	- For all that, I still feel that he is the most capable man in our organization.
@@ -279,6 +275,15 @@
 	- We thought it would be bad weather, but on the contrary it was a clear day. 
 	- But this is not incompatible with work; on the contrary, if we can detach ourselves from worldly attachments and redirect our efforts toward the enrichment and teaching of others, work itself can become a transcendental pursuit.
 	- There is no shortage of basic skills in the workplace. Rather, the problem is poor management
++ in/by contrast (to/with) 與...成對比
+	- In contrast to the diligent bee, the butterfly seems to fly around without a clear purpose
+	- In contrast with most local programs, the federal government’s plan looks beyond just economic growth.
+	- Cats usually sleep in the day. Dogs, by contrast, never settle down.
+- on the other hand 另一方面
+	- My husband likes classical music – I, on the other hand, like all kinds.
++ conversely == oppositely == contrarily 反過來說
+	- The staff of any organisation are its best ambassadors or conversely may be its worst.
+	- Conversely, an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring.
 - rather than 而不是/而非 == instead of == as opposed to == before
 	- she seemed indifferent rather than angry
 	- Visitors build a stronger connection to the brand when they are front and center as opposed to an observer in this Star Wars universe, Niles said.
@@ -286,18 +291,6 @@
 - **unless** 除非
 	- Unless you have a photographic memory, repetition is vital
 	- I won't apologize unless she apologizes first.
-+ in/by contrast (to/with) 與...成對比
-	- In contrast to the diligent bee, the butterfly seems to fly around without a clear purpose
-	- In contrast with most local programs, the federal government’s plan looks beyond just economic growth.
-	- Cats usually sleep in the day. Dogs, by contrast, never settle down.
-- on the other hand 另一方面
-	- My husband likes classical music – I, on the other hand, like all kinds.
-- at the opposite/other end of the spectrum 另一方面來說
-	- At the other end of the spectrum is the diamond, whose energy can be released only when it heated to its burning point, 650°C
-	- As astronomers explore the vast outer reaches of space, physicists are busy working at the opposite end of the spectrum, studying the microworld of particles that make up all things.
-+ conversely == oppositely == contrarily 反過來說
-	- The staff of any organisation are its best ambassadors or conversely may be its worst.
-	- Conversely, an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring.
 + likewise == in the same way == similarly == also 同樣地
 	- I told him to watch me and do likewise
 	- To achieve this goal, you must have ambition; likewise you need to exert great efforts.
@@ -308,7 +301,7 @@
 	- The two workers were dismissed from the factory by the same token.
 
 ## Cause
-+ **in that** == **being that** == **since** == **because** == **inasmuch as** 由於/因為
++ **in that** == **being that** == **since** == **inasmuch as** == **because** 由於/因為
 	- Privatization is thought to be beneficial in that it promotes competition.
 	- This book is different from that book in that this one is about chemistry and that one about history. 
 	- Being that the local council decided not to grant us a full license, the concerts have all been canceled.
@@ -319,7 +312,7 @@
 	- Don't do it just because you can.
 	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
 	- A most unusual astronomer inasmuch as he was deaf mute
-+ on account of == by/in virtue of == due to == by reason of == because of == for the reason that 因為/歸因
++ on account of == by/in virtue of == due to == by reason of == because of 因為/歸因
 	- On account of holiday our store will be closed tomorrow.
 	- We delayed our departure on account of the bad weather.
 	- they achieved pre-eminence by virtue of superior military strength
@@ -333,10 +326,7 @@
 	- We may as well go to the concert, seeing as we've already paid for the tickets.
 	- Given his age, he's a remarkably fast runner.
 	- Given (the fact) that he's had six months to do this, he hasn't made much progress.
-- in response to 作為對...的反應
-	- In response to my shouts people ran to help.
-	- He opened the door in response to a knock. 
-+ in order to == with a view to Ving == in an effort to == in an attempt to 為了
++ in order to == with a view to N == in an effort to == in an attempt to 為了
 	- He slouched into his seat in order to avoid drawing attention to himself
 	- We started early in order to arrive before dark.
 	- These measures have been taken with a view to increasing the company's profits.
@@ -344,6 +334,9 @@
 - **in order that** == **so that** 為了
  	- She used her mother's kitchen in order that the turkey might be properly cooked
 	- I’ll go there so that I can talk to the president. 
+- in response to 作為對...的反應
+	- In response to my shouts people ran to help.
+	- He opened the door in response to a knock. 
 - so ... (that) ... 因為..所以
 	- Gary was so surprised that he remained speechless for a few minutes.
 	- An almost 50-year-old mom looks so young that people think she’s her son’s girlfriend. 
@@ -368,8 +361,8 @@
 	- ... a time when many people are losing their jobs as a consequence of the recession.
 	- His departure was totally unexpected and, in consequence, no plans had been made for his replacement.
 	- Maternity services were to be reduced in consequence of falling birth rates.
-+ therefore == thereby == thus == accordingly == consequently == hence == for that reason 所以/因此
-	- He was down with the flu, **and therefore** couldn't come to the party.
++ *therefore == thereby == thus == accordingly == consequently == hence == for that reason* 所以/因此
+	- He was down with the flu, *and therefore* couldn't come to the party.
 	- It haunts me that I was blind to his predation, and therefore complicit in a culture of willed ignorance and denial.
 	- The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward, thereby increasing the speed of the engine and cutting its fuel consumption.
 	- Burke knocked out Byrne, thus becoming champion
@@ -424,7 +417,6 @@
 - **only if** 只有..才會..
 	- I will do it for you only if you ask me nicely.
 
-
 ## Time
 + at the outset 起初/一開始
 	- Decide at the outset what kind of learning programme you want to follow.
@@ -454,14 +446,13 @@
 - in the past
 - at that point in time == At a particular moment in the past
 	- It gets people to share what their priorities in life are at that point in time
-- **by the time** 到...的時候
-	- By the time we got to the station, the train had already left. 
-	- By the time you get there it will be dark.
-- **as soon as** == **when** == **once** 一...就.../一旦
+- **as soon as** == **when** == **once** == **by the time** 一...就.../一旦
 	- He left as soon as he heard the news.
 	- I'll tell him as soon as I see him.
 	- Once you get into a bad habit, you'll find it hard to get out of it. 
 	- Once the grapes were pressed, the juice was put into barrels
+	- By the time we got to the station, the train had already left. 
+	- By the time you get there it will be dark.
 - **no sooner/scarcely/hardly ... than ...** 當/就
 	- No sooner had we left the village than it began to rain.
 	- Scarcely was the work completed than it was abandoned.
@@ -490,7 +481,6 @@
 - up to 直到
 	- up to now I hadn't had a relationship
 - since == hence 自從
-- hence 從這時起
 	- The railroad will open at the end of the decade, two years hence. 這條鐵路本世紀末通車，離現在還有兩年時間。
 
 ## Space
