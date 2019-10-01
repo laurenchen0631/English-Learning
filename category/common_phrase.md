@@ -33,6 +33,17 @@
 	- Amounts of snow are falling down.
 - a variety of 各式各樣的 == a number of different kinds of
 	- They argued that cycling would encourage women to get involved in a variety of noble causes.
+- a drop in the bucket 微不足道/杯水車薪 = trivial = inconsequential = lilliputian = trifling = nugatory
+	- Aid to the Third World is at present little more than a drop in the bucket. 
+	- You don't have to mind his donation. It was just a drop in the bucket. 
+- all short of 未達 == to fail to reach an amount or standard that was expected or hoped for
+	- Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
++ well over 超過/多於 == much more than 
+	- it takes a human infant well over a year to learn how to walk.
+	- Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
++ upwards of 至少 == over == more than == if a number, value, etc. is upwards of something, it is at least that amount or more
+	- The rescue plan is expe1cted to cost upwards of $10 billion. 
+	- This melancholy man wrote upwards of twenty plays during the 1920`s alone and earned Pulitzer Prizes for three
 
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
@@ -58,6 +69,10 @@
 - by and large 大體上/總體上/一般來講
 	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
 - darn well 無疑地 == without doubt or question
+
+## Perspective
+- on the ground 在公眾中/在普通百姓中
+	- Their political ideas have a lot of support on the ground.
 
 ## Frequency
 - (every) now and then 偶爾 == sometimes, but not regularly
@@ -125,6 +140,8 @@
 	- What in the world are you doing in the cupboard?
 	- Who in the world could do such a thing?
 	- In another moment down went Alice after it, never once considering how in the world she was to get out again
+- could do worse than 是正確的或可取的 == say that a particular choice, action, etc., is not a bad one
+	- You could do worse than to vote for her.
 
 ## Compare/Difference
 - as opposed to 而不是 == not something else, used to compare two things.
@@ -135,6 +152,9 @@
 	- Her version of events was at odds with the police report.
 	- He was at odds with this Prime Minister.
 	- But Mendelssohn's enduring popularity has often been at odds - sometimes quite sharply - with his critical standing.
+- be off the mark 不正確/不準確
+	- His criticisms are way off the mark.
+	- Bedini and Curzi were probably not far off the mark in their analysis.
 
 ## Denial
 
@@ -153,6 +173,8 @@
 - along with 以及/除...之外 == along with someone or something else that is also involved in an action or situation.
 	- Tobacco is taxed in most countries, along with alcohol.
 	- Technological advancements are limited in their ability to change society and will likely bring liabilities along with any potential benefits.
+- out of touch 不知道/與..沒有共鳴
+	- A few of the older teachers are completely out of touch with their students.
 
 ## Conclusion/Finish
 - boil down to sth 主要原因在於/歸結為
@@ -161,8 +183,6 @@
 	- We capped off a wonderful evening with birthday cheesecake.
 - go down in history 名留青史 
 	- He’ll go down in history as one of our finest leaders.
-
-## Desire
 
 
 ## Talk
@@ -173,6 +193,12 @@
 - word gets around 迅速傳開 
 	- "I hear you were having drinks with a tall, dark, handsome man last night." "Wow, word gets around fast, doesn't it?"
 	- She doesn't want word getting around the office that she's pregnant.
+- tongue in cheek (adj/adv)開玩笑的/說著玩的 
+	- Her latest play is a firmly tongue-in-cheek look at the world of advertising.
+	- He said that he was a huge fan of the president, although I suspect it was tongue in cheek.
++ hang up 掛斷電話 == to end a phone conversation
+	- He started shouting so I hung up on him.
+	- Let me speak to Melanie before you hang up.
 
 ## Act
 - a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
@@ -206,6 +232,9 @@
 - back to square one 回到起點/重新開始
 	- If the merger negotiation falls apart, we will have no option but to go back to the drawing board.
 	- If this doesn't work we're back to square one.
+- take one's place 準備好/就位 == to go to the location where one is supposed to sit, stand, etc.
+	- The goalie took her place on the field.
+	- The actors take their places on the stage and the curtain rises.
 
 ## Danger/Suffer
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
@@ -220,6 +249,9 @@
 - close call 即將到來的災難 == a situation in which something bad, unpleasant, or dangerous almost happens, but you manage to avoid it
 	- It was a close call for residents when a tornado swept through just west of the town.
 	- Getting to the airport on time was a close call.
++ take its/a toll 造成損失、傷亡或破壞 == causes suffering, deaths, or damage.
+	- The problems of the past few months have taken their toll on her health and there are shadows under her eyes.
+	- The deepening recession has also taken its toll in the south of the country, where unemployment is rife.
 
 ## Hesitation
 - if you will/like 如果你願意那樣說的話
@@ -236,10 +268,21 @@
 - bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
 - by accident 無意地
 	- She hit me with her hand, apparently by accident.
+- It's your call 這是你自己的決定 == it's your decision
+	- Nobody can make this decision for you - it's your call. 
+
+## Attitude
+- think nothing of 認為…容易/看輕 == to consider that an activity is easy and not unusual
+	- When I was younger, I thought nothing of riding my bike 50 miles in a day.
+- take sth for granted 把..視為理所當然 == to never think about something because you believe it will always be available or stay exactly the same
+	- I took it for granted that I would find the perfect job.
+	- It’s easy to take your parents for granted.
 
 ## Status
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
 	- The project is in full gear now that we have Sally on board.
+- under a cloud 不被信任/受懷疑/受嫌棄 == to not be trusted or popular 
+	- It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
 
 ## Job/Task
 + walk of life 各行各業/各個社會階層
@@ -260,6 +303,7 @@
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 
+
 ## Approbation
 - well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of
 	- He was efficient at his job and well thought of by everyone.
@@ -267,13 +311,6 @@
 - bang for the buck 值回票價 == value in return for your money
 	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
 - big draw 非常吸引人的點 == a big source of attraction.
-
-## Number
-- all short of 未達 == to fail to reach an amount or standard that was expected or hoped for
-	- Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
-+ well over 超過/多於 == much more than 
-	- it takes a human infant well over a year to learn how to walk.
-	- Every second, 17 people watch a TED Talk, on average, and the organization’s videos have garnered well over one-billion views.
 
 ## Apothegm
 - That was then. This is now. 此一時，彼一時

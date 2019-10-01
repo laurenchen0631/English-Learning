@@ -1397,6 +1397,7 @@
 		> flake out 入睡/昏倒 |Fall asleep; drop from exhaustion.|
 		> 一捲繩索 |A single turn of a coiled rope or hawser.|
 		> 捲（繩索） |Lay (a rope) in loose coils in order to prevent it tangling.| a cable had to be flaked out
+	+ flat (adj)平的/平坦的, 單調的/無聊的, 沒氣的(飲料或輪胎), 均一的/一律的, 絕對的 = absolute, [音]降音的 (adv)平, 在..旁, 順暢地, [非]完全地 = completely, 僅僅(時間), 降音地 (n)平坦部分, [flats]沼地/淺灘, [非]洩了氣的輪胎, 降半音符號
 	+ fly -> flied/flew -> flown
 		> 飛 |(of a bird, bat, or insect) move through the air using wings.| close the door or the moths will fly in
 		> 乘飛機旅行 |(of an aircraft or its occupants) travel through the air.| I fly back to London this evening
@@ -3759,6 +3760,7 @@
 		> they could hardly scrape up enough money for one ticket, let alone two
 	- scrape by/along 勉強維持生計 == Manage to live with difficulty.
 		> she has to scrape by on Social Security
+	- screening (n)電影放映, 評估/檢查, 殘渣/碎屑
 	+ screw
 		> 螺絲 |A short, slender, sharp-pointed metal pin with a raised helical thread running round it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.|
 		> 螺栓 |A cylinder with a helical ridge or thread running round the outside (a male screw) that can be turned to seal an opening, apply pressure, adjust position, etc., especially one fitting into a corresponding internally grooved or threaded piece (a female screw).|
@@ -4011,6 +4013,9 @@
 		> I have had many, many colleagues who have been willing to step up and provide that practice for me. 
 	- stepped-up (adj)加強的
 	- shaft (n)手柄, 箭/矛, 升降機井, 軸, 一道(光或感覺), 諷刺話, 礦井 (v)射入光線
+	- shoelace (n)鞋帶
+	- shoot for sth 試圖做/力爭得到 == try to do
+		- It's worth taking chances when you're shooting for a chance of fame and wealth.
 	- shorthand
 		> 速記法 |A method of rapid writing by means of abbreviations and symbols, used especially for taking dictation. The major systems of shorthand currently in use are those devised in 1837 by Sir Isaac Pitman and (in the US) in 1888 by John R. Gregg (1867–1948)|
 		> 簡略的表達方式 |A short and simple way of expressing or referring to something.|
@@ -4522,6 +4527,9 @@
 		- A busy morning can throw off my entire daily schedule.
 	- throughout
 	- therefore /ˈðɛːfɔː/
+	- take sb aback 使..大吃一驚
+		- I was a little taken aback at the directness of the question.
+		- The news really took us aback.
 	- talk up == to discuss favorably == advocate == promote 
 		> Kushner has been talking up his immigration plan with the aid of a PowerPoint presentation, which detractors have derided as laughably simplistic.
 
@@ -5344,7 +5352,7 @@
 	- buzzed 喝醉的/微醺的 == Slightly drunk; tipsy.
 	- buzz in 允許..進入 == to allow someone to enter a door that is controlled by an electric buzzer
 		> Don’t buzz in any visitors who are unknown to you.
-	- cadence
+	- cadence (n)抑揚頓挫, 節奏, 結尾
 		> 抑揚頓挫 |A modulation or inflection of the voice.| the measured cadences that he employed in the Senate
 		> 節奏 |Rhythm| the thumping cadence of the engines
 		> 結尾 |A sequence of notes or chords comprising the close of a musical phrase.|

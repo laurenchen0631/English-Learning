@@ -101,11 +101,12 @@
 - content 內容 == chapters == section == subjects == substance == elements == items
 - traditional 傳統 == conventional == classic == long-established == old-fashioned == standard == routine 
 - present 現在 == now == today
-- difference 差異 == distinction == separation == differential
+- difference 差異 == divergence == distinction == separation == differential
 - trend 趨勢 == style == fashion == rage
 - waste 廢物 == debris == scrap == trash == garbage
 - drastic 激烈的 == intense == radical == violent == severe
 - short 短暫的 == temporary == brief == momentary == transitory
+- encourage 激勵 == stimulate == provoke == give rise to
 
 ## Less Common
 - argue 爭論 == dispute == contend

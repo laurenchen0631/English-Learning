@@ -1,0 +1,42 @@
+## [B](https://img.kmf.com/toefl/listening/audio/edce5c78782ddc58ddd5edfc06566ca0.mp3)
+
+NARRATOR: Listen to part of a lecture in an environmental science class.
+
+MALE PROFESSOR: Alright folks, let's continue our discussion of *alternative* energy sources, and move on to what's probably the most well-known alternative energy source, umm, solar energy. The sun basically provides earth with a virtually unlimited source of energy every day, but the problem has always been how do we tap this source of energy. Can anyone think of why it's so difficult to make use of solar energy?
+
+FEMALE STUDENT: Because it's hard to... um... gather it?
+
+MALE PROFESSOR: That's exactly it. Solar energy is everywhere, but it's also quite diffused. And the thing is, the dream of solar energy is not a new one. Humanity has been trying to use the sun's light as a reliable source of energy for centuries. And around the beginning of the 20th century there were actually some primitive solar water heaters on the consumer market, but they didn’t sell very well. Any of you wanna guess why?
+
+FEMALE STUDENT: Well, there were other energy choices like oil and natural gas, right?
+
+MALE PROFESSOR: Yeah, and for better or for worse, we chose to go down that path as a society. When you consider economic factors, it's easy to see why. But then in the 1970s, there was an interest in solar energy again. Why do you think that happened?
+
+MALE STUDENT: Because oil and natural gas were... err... became scarce?
+
+MALE PROFESSOR: Well, not exactly. The amount of oil and natural gas in the earth was still plentiful, but there were other reasons, uhh, it’s a political thing really, and I’m not gonna get into that now. So what happened in the 1970s was, oil and natural gas became very expensive very quickly, and that *spurred* people to start looking into alternative forms of energy—solar energy probably being the most popular. But then in the 80’s, this trend reversed itself when the price of oil and natural gas went down.
+
+All right. Let's shift our focus now to some of the technologies that have been invented to overcome the problem of gathering diffused solar energy. The most basic solution is simply to carefully place windows in a building so that the sun shines into the building and then it's absorbed and converted into heat. Can anyone think of where this is most commonly used?
+
+FEMALE STUDENT: Greenhouses.
+
+MALE PROFESSOR: Yep, greenhouses, where plants are kept warm and provided with sunlight because the walls of the building are made entirely of glass. But we do also have more complex systems that are used for space heating and they fall into two categories: passive and active heating systems. 
+
+Passive systems take advantage of the location or design of a house—for example, solar energy is gathered through large glass panels facing the Sun. The heat is then stored in water-filled tanks or concrete. No *mechanical devices* are used in passive heating systems. They operate with little or no mechanical assistance.
+
+With active systems, on the other hand, you collect the solar energy at one location, and then you use pumps and fans to move heat from the collectors through a plumbing system to a tank, where it can be used to heat a home or to just provide hot water.
+
+MALE STUDENT: Excuse me professor, but I've got to ask. How can solar energy work at night or on cloudy days?
+
+MALE PROFESSOR: That's... well... that is a really good question. As a matter of fact, science is still working on it, trying to find ways of enhancing energy storage techniques so that the coming of night or cloudy days really wouldn't matter. That is the biggest drawback to solar energy, the problem of what do you do in cases where the sun's light is weak or virtually non-present. So the storage of solar energy—lots of solar energy—is a really important aspect.
+
+FEMALE STUDENT: Does that mean that solar energy can only be used on a small scale, like heating a home?
+
+MALE PROFESSOR: Well actually, there have been some attempts to build solar energy power plants. The world's largest solar power plant is located in Kramer Junction California. It can generate 194 megawatts of electric power, but that's just *a drop in the bucket*. Right now, the utility companies are interested in increasing the capacity of the Kramer Junction Plant. But only time will tell if it will ever develop into a major source of power for that region, considering the economic and political factors involved.
+
+## Vocab
+- alternative /ɔːlˈtəːnətɪv/
+* spur /spəː/ (v)激勵, 促進/加速 (n)馬刺, 刺激, 激勵
+- a drop in the bucket 微不足道/杯水車薪 
+	- Aid to the Third World is at present little more than a drop in the bucket. 
+	- You don't have to mind his donation. It was just a drop in the bucket. 

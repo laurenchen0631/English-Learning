@@ -53,11 +53,13 @@
 	* alpine /ˈalpʌɪn/ (adj)高山的, 阿爾卑斯山的 (n)高山植物, 高山蝶
 	- ridge /rɪdʒ/ (n)屋脊/山脊/山脈/隆起部 (v)使成脊狀
 	- butte /bjuːt/ (n)孤山/孤峰
+	- massif (n)山巒
 	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
 	* mountain range (n)山脈
 	- vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔
 	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
 	- hot spring (n)溫泉
+	+ watershed (n)分水嶺, 轉折點/分水嶺
 
 	- timberline == treeline (n)樹帶界線
 	- boreal forest (n)北方針葉林， 北方針葉林是陸上最大的生物群系，陽光照射充足、氣候乾旱。全年溫度界乎-40－20℃，夏季平均10℃。全年雨量300-900毫米。
@@ -144,6 +146,7 @@
 	- high tide (n)滿潮
 	- low tide (n)低潮/退潮
 	- silt --> siltation (n)淤積，是由顆粒狀陸地碎屑物質引起的水污染，指的是懸浮沉積物濃度的增加以及不希望在底部沉積的細小沉積物的增加
+	- pothole /ˈpɒthəʊl/ (n)壺洞/路陷(路面出現結構崩壞的現象，一般由地下水、車輛經年累月通過有關區域造成), 道路上的洞坑
 
 [Ore/Rock]
 	- ore /ɔː/ (n)礦

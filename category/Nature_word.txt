@@ -19,6 +19,9 @@
 
 	- androgynous (adj)雌雄同體的
 	- chromosome (n)染色體
+	- telomere /ˈtiːlə(ʊ)mɪə/ (n)端粒(真核生物染色體末端的DNA重複序列)
+	- telomerase /ˈtiːlə(ʊ)mɪəreɪz/ (n)端粒酶
+	- enzyme /ˈɛnzʌɪm/ (n)酵素/酶
 	- neuron (n)神經元 == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- genome (n)基因組
 	- embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
@@ -103,6 +106,7 @@
 	- gorilla /ɡəˈrɪlə/ (n)大猩猩
 	- lowland gorilla (n)西部低地大猩猩
 	- Homo sapiens (n)人
+	- Homo habilis (n)巧人，是靈長目動物裡第一種被認為屬於人類的生物，是人科人屬中的一個種
 
 	- marsupial (n)有袋類
 	- kangaroo (n)袋鼠
@@ -258,13 +262,14 @@
 	- juniper (n)杜松 == An evergreen shrub or small tree that bears berrylike cones, widely distributed throughout Eurasia and North America.
 	- hazel (n)榛木, 紅棕色/綠棕色(形容眼睛)
 	- cedar /ˈsiːdə/ (n)雪松/香柏 == Any of a number of conifers which typically yield fragrant, durable timber.
-	- sequoia (n)紅杉 == A redwood tree
 	- oak (n)橡樹/櫟樹
 	- maple (n)楓樹/槭樹
 	- beech	/biːtʃ/ (n)山毛櫸
 	- red alder (n)紅榿樹
 	- birch (n)樺木
 	- spruce (n)雲杉 (adj)整潔的(儀容) = neat
+	- yew /juː/ (n)紫杉
+	- sequoia (n)紅杉 == A redwood tree
 	- balsa (n)輕木，是一種巨大，且生長快速的樹，可以生長到30公尺高
 
 	- breadfruit (n)麵包樹
