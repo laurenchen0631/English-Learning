@@ -22,8 +22,10 @@
 	- telomere /ˈtiːlə(ʊ)mɪə/ (n)端粒(真核生物染色體末端的DNA重複序列)
 	- telomerase /ˈtiːlə(ʊ)mɪəreɪz/ (n)端粒酶
 	- enzyme /ˈɛnzʌɪm/ (n)酵素/酶
+	- chromatophore /kroʊˈmætəfɔr/ (n)色素體
 	- neuron (n)神經元 == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- genome (n)基因組
+	- genotype (n)遺傳型/基因型 (V)調查..的基因型
 	- embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
 	- cellular /ˈsɛljʊlə/ 
 		> 細胞的/細胞組成的 |Relating to or consisting of living cells.| cellular proliferation
@@ -41,6 +43,7 @@
 	- sac (n)囊 == A hollow, flexible structure resembling a bag or pouch.
 	- hoof /huːf/ (n)蹄 (v)踢, 步行, 跳舞
 	- hind leg (n)後腿
+	- papilla /pəˈpɪlə/ --> papillae (n)乳突 == A small rounded protuberance on a part or organ of the body.
 	- saliva (n)涎/唾液
 	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
 	- nymph (n)居於山林水澤的仙女, 美麗的少女, 蛹
@@ -58,6 +61,7 @@
 [Cell/Bacteria]
 	- eukaryote (n)真核生物 --> eukaryotic (adj)真核生物的
 	- Ediacara (n)埃迪卡拉生物群，是一種神秘的管狀或葉狀生物，生活在前寒武紀時代。它們是目前所發現最早的多細胞生物
+	- Proteus /ˈprəʊtɪəs/ (n)普羅透斯(希臘神話中的一個早期海神), 變形桿菌屬
 	- cyanobacteria /ˌsʌɪənəʊbakˈtɪərɪə/ (n)藍菌門/藍綠藻(是一類能透過光合作用獲取能量的細菌，但有些也能透過異營來獲取能量)
 	- rhizobium /rʌɪˈzəʊbɪəm/ (n)根瘤菌 <-- rhizo = root + bi = life + um
 
@@ -68,6 +72,7 @@
 	- pachyderm (n)厚皮類動物(以前用於厚皮目哺乳動物的棄用生物分類名稱)
 	- cloven (adj)偶蹄的/一分為二的 == Split or divided in two.
 	- tusk (n)長牙/獠牙
+	- ivory /ˈʌɪv(ə)ri/ (n)象牙, 象牙製品, [非]琴鍵, [非]牙齒, 象牙白
 	- antler /ˈantlə/ (n)鹿角
 
 	- bison (n)北美野牛/非洲野牛 == A humpbacked shaggy-haired wild ox native to North America and Europe.
@@ -105,6 +110,7 @@
 	- chimpanzee /tʃɪmpanˈziː/ (n)黑猩猩
 	- gorilla /ɡəˈrɪlə/ (n)大猩猩
 	- lowland gorilla (n)西部低地大猩猩
+	- gibbon (n)長臂猿
 	- Homo sapiens (n)人
 	- Homo habilis (n)巧人，是靈長目動物裡第一種被認為屬於人類的生物，是人科人屬中的一個種
 
@@ -112,6 +118,8 @@
 	- kangaroo (n)袋鼠
 	- koala (n)無尾熊
 	- numbat (n)袋食蟻獸
+
+	- chameleon /kəˈmiːlɪən/ (n)變色龍, 善變的人
 
 	- rodent (N)嚙齒目動物
 	- vole (n)田鼠
@@ -147,6 +155,9 @@
 	- mosquito /mɒˈskiːtəʊ/ (n)蚊
 	- tsetse /ˈtsɛtsi/ = tsetse fly (n)舌蠅/采采蠅
 	- trilobite (n)三葉蟲
+	- Pseudomyrmex (n)擬家蟻屬
+
+	- tapeworm (n)絛蟲
 
 [Bird]
 	- chick (n)小雞/小鳥
@@ -166,6 +177,8 @@
 	- ostrich /ˈɒstrɪtʃ/ (n)鴕鳥
 	- dodo (n)渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
 
+	- brush turkey (n)刷火雞/磨砂火雞/灌木火雞
+
 	- seagull (n)海鷗
 	- pelican (n)鵜鶘
 	- puffin (n)海鸚鵡
@@ -176,6 +189,7 @@
 	- geese (n)鵝
 	- eider /ˈʌɪdə/ (n)絨鴨/歐絨鴨
 	- eiderdown (n)鴨絨
+	- rhinoceros hornbill (n)馬來犀鳥
 
 	- eagle /ˈiːɡ(ə)l/ (n)鷹
 	- crow /krəʊ/ (n)烏鴉, 啼叫聲, 歡呼聲 (V)(公雞)啼, 誇耀/誇口 
@@ -237,7 +251,7 @@
 		>  |The spawn or larvae of shellfish, especially oysters.|
 	- mother-of-pearl == nacre (n)珍珠母，是一種由軟體動物所產生的有機及無機混合物，做為該動物貝殼的內層物質
 	- clam /klam/ (n)蛤/蛤蜊/蚌, [非]一元/一塊錢 (v)撈蛤/挖蛤, [非]閉嘴不言/保持沉默
-	- octopus (n)章魚
+	- octopus /ˈɒktəpəs/ (n)章魚
 	- squid (n)烏賊
 
 	- tadpole /ˈtadpəʊl/ (n)蝌蚪 == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
@@ -276,6 +290,7 @@
 	- baobab (n)猴麵包樹 == A short tree with a very thick trunk and large edible fruit, living to a great age.
 	- cinnamon /ˈsɪnəmən/ (n)肉桂/肉桂樹
 	- pomegranate /ˈpɒmɪɡranɪt/ (n)石榴, 石榴樹
+	- acacia ==  acacia tree (n)相思樹屬
 
 
 [Plant]
@@ -291,6 +306,7 @@
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
 	- nectar /ˈnɛktə/ (n)花蜜, 希臘神酒/瓊漿玉液
 	+ pollen (n)花粉 --> pollinate /ˈpɒlɪneɪt/ (v)異花傳粉
+	- pollinator (n)傳粉媒介
 	- chlorosis (n)缺綠病，也稱為萎黃病，是植物體葉綠素含量不足的情況
 	- chlorophyll /ˈklɔːrəfɪl/ (n)葉綠素
 	- anthocyanin (n)花青素

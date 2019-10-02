@@ -45,6 +45,10 @@
 	- The rescue plan is expe1cted to cost upwards of $10 billion. 
 	- This melancholy man wrote upwards of twenty plays during the 1920`s alone and earned Pulitzer Prizes for three
 
+## Value
+* the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
+	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
+
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
 	- Natufian culture developed somewhat differently in different regions, in part because of differences in the types and amount of food available from place to place.
@@ -73,6 +77,13 @@
 ## Perspective
 - on the ground 在公眾中/在普通百姓中
 	- Their political ideas have a lot of support on the ground.
+- see/view .. in a different light 以不同的觀點來看 == differently
+	- I see things in a different light now.
+	- I view the matter in a different light. 
++ take sth into account 考慮到/顧及 == to consider or remember something when judging a situation
+	- I hope my teacher will take into account the fact that I was ill just before the exams when she marks my paper.
+	- A good architect takes into account the building`s surroundings.
+	- The UK`s tax system takes no account of children.
 
 ## Frequency
 - (every) now and then 偶爾 == sometimes, but not regularly
@@ -155,7 +166,10 @@
 - be off the mark 不正確/不準確
 	- His criticisms are way off the mark.
 	- Bedini and Curzi were probably not far off the mark in their analysis.
-
+- in step with 與..一致 == in agreement with someone or something
+	- She is very much in step with the times.
+	- Gasoline prices rose in step with oil prices.
+	
 ## Denial
 
 ## Question
@@ -235,6 +249,13 @@
 - take one's place 準備好/就位 == to go to the location where one is supposed to sit, stand, etc.
 	- The goalie took her place on the field.
 	- The actors take their places on the stage and the curtain rises.
+- take (great) pains to 奮力去做 == to try very hard to so something
+	- He took great pains to dress well for the occasion.
+- take part in 參與 == to be actively involved in something with other people:
+	- All the children took part in the Thanksgiving play.
+	- The mobility offered by the horse resulted in the convergence of diverse aboriginal groups onto the Plains to take advantage of the material wealth afforded by hunting the great bison herds
+- take advantage of 利用 == to use an opportunity to achieve results, sometimes in an unfair way
+* take to the streets 走上街頭/抗爭/示威 
 
 ## Danger/Suffer
 + at stake 有風險/處於危急關頭 == If something that is valuable is at stake, it is in a situation where it might be lost.
@@ -277,6 +298,10 @@
 - take sth for granted 把..視為理所當然 == to never think about something because you believe it will always be available or stay exactly the same
 	- I took it for granted that I would find the perfect job.
 	- It’s easy to take your parents for granted.
+- take sth at face value 僅憑表像對…信以為真 == to accept something as it appears to be rather than studying it more closely
+	- I took the offer at face value. I did not think they might be trying to trick me.
+- take sth on trust 無條件相信 == to believe that something one has been told is true or correct even though one does not have proof of it
+	- I don't know anything about cars so I had to take the mechanic's recommendations on trust.
 
 ## Status
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.

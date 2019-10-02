@@ -1467,7 +1467,7 @@
     + inviting (adj)吸引人的/誘人的 = attractive = alluring = tempting <-- invite
     + /ɪˈrasɪb(ə)l/ irascible (adj)易怒的 = irritable = cantankerous = grumpy = peevish = surly, 憤怒的 --> irascibility (n)易怒 = irritability
     + /əːk/ irk (v)使厭煩/使惱火 = irritate = annoy = exasperate = provoke = nettle = pique = vex --> irksome (adj)令人厭煩的/令人惱怒的 = tiresome
-    + irony (n)反話/諷刺 = sarcasm = satire, 出乎意料的事情或狀況 (adj)鐵的 --> ironic (adj)挖苦的 = sarcastic, 出乎意料的 = coincidental = unexpected --> ironically (adv)相反的是 <-- iron 諷刺 = sarcasm + y
+    + irony (n)反話/諷刺 = sarcasm = satire, 出乎意料的事情或狀況 (adj)鐵的 --> /ʌɪˈrɒnɪk/ ironic (adj)挖苦的 = sarcastic, 出乎意料的 = coincidental = unexpected --> ironically (adv)相反的是 <-- iron 諷刺 = sarcasm + y
     ++ irritate (v)激怒/使惱火 = irk = gall = peeve = rile = provoke = bore = annoy = pique = vex, 刺激/使興奮, 使發炎/使疼痛 = inflame <|> irrigate --> irritation (n)惱怒, 疼痛/發炎 <-- irrit 癢 + ate
     * irritable (adj)易怒的/急躁的 = irascible = cantankerous = grumpy = peevish = = surly, 易感受刺激的/過敏的 <-- irritate
     + issue (n)問題/爭議, [issues]困難, 期號, 結果/後果 = result = outcome, 流出, [法]子女/子嗣 (mn)發行 (v)發行, [with]提供, [from]流出, [from]源於
@@ -1860,6 +1860,7 @@
     - maggot (n)蛆, 怪念頭
     - maw (n)反芻動物的第四胃/嗉囊/人的胃
     - maximize (v)使增加至最大限度 <-- maximum
+    - maximal (adj)最大的
     - maze (n)迷宮
     - measly (adj)麻疹的, 少得可憐的 = meager
     - measured (adj)精確的, 慎重的 = calculated = restrained

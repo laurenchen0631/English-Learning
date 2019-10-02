@@ -55,6 +55,7 @@
 - necessarily (adv)必然地 == inevitably
 - anecdotally (adv)據傳 == According to or by means of personal accounts rather than facts or research.
 - admittedly (adv)公認地
++ inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
 
 ## Others
 - anew (adv)

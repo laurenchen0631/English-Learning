@@ -24,6 +24,7 @@
 	- savanna /səˈvanə/ (n)熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
 	- prairie /ˈprɛːri/ (n)大草原
 	- meadow (n)草地
+	- scrubland (n)灌木叢林地
 
 	- floodplain (n)氾濫平原/洪泛平原，通常位於河流中下游，指由於河流堆積作用而形成的大片堆積體，是河流堆積地貌的一種
 	- alluvial fan (n)沖積扇，山地河流出口處的堆積地貌
@@ -89,7 +90,8 @@
 	- thermal inversion (n)逆溫現象(一種氣象學的現象，指地面上的溫度隨著高度越高而增加，與高度越高溫度下降的正常現象相反)
 
 [Geology]
-	- - topography (n)地形/地貌, 地形圖 --> topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
+	- topography (n)地形/地貌, 地形圖 --> topographical /ˌtɒpəˈɡrafɪkəl/ (adj)地形學的
+	- stratigraphy (n)地層學
 	- convergent boundary (n)聚合板塊邊緣
 	- continent crust (n)大陸地殼 <--> oceanic crust 海洋地殼
 	- crustal plate (n)地殼板塊

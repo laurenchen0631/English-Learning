@@ -48,6 +48,7 @@
 
 	- heliocentric theory (n)地動說，也稱為日心說，是關於天體運動的和天動說相對立的學說，它認為太陽是宇宙的中心，而不是地球
 	- Roche limit /rəʊʃ/ (n)洛希極限，一個天體對自身的重力與第二個天體對它造成的潮汐力相等時兩個天體的距離，當兩個天體的距離少於洛希極限，天體就會傾向碎散，繼而成為第二個天體的環
+	- Milankovitch hypothesis (n)米蘭科維奇循環，塞爾維亞的地球物理學家兼天文學家米盧廷·米蘭科維奇的氣候變化理論
 
 	- galvanic corrosion (n)伽凡尼腐蝕/電偶腐蝕，是指當兩種不同的金屬相接（電氣連接），並同時與電解質（例如鹽水等）接觸時，會形成伽凡尼電
 	- Doppler effect == Doppler shift (n)都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
@@ -147,6 +148,7 @@
 	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ (n)硫脲，是尿素中的氧被硫替代後形成的化合物
 	- meth (n)甲基苯丙胺, 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴), 甲醇化物
 	- saline /ˈseɪlʌɪn/ (adj)含鹽的 (n)鹽水/生理食鹽水
+	- radiocarbon (n)放射性碳
 
 [Physical]
 	- entropy (n)熵, 混亂/失序
@@ -322,6 +324,7 @@
 	- Mars (n)火星
 	- Pluto (n)冥王星
 	- Ceres (n)穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)
+	- Sirius (n)天狼星(夜空中最亮的恆星)
 
 	- galaxy (n)銀河/星系
 	- the Milky Way (n)銀河系 == the galaxy (= star system) that includes the earth
@@ -337,11 +340,15 @@
 	- impact crater (n)撞擊坑，為行星、衛星、小行星或其它類地天體表面通過隕石撞擊而形成的環形的凹坑
 	- South Pole–Aitken Basin (n)南極-艾托肯盆地，月球背面一座巨大的撞擊隕石坑，被公認為是月球上最大、最古老和最深的撞擊盆地。
 	- outflow channel (n)流出通道，火星上非常長的大片沖刷地面，通常包含預先存在的地形的流線型殘餘物和其他線性侵蝕特徵，表明流體向下坡移動的雕刻
+	- interstellar gas (n)星際物質，星系和恆星之間的物質和輻射場的總稱
+	- cosmic ray (n)宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
 
 	- astronomer (n)天文學家== An expert in or student of astronomy.
 	- equinox (n)分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
 	- splashdown (n)濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
 
 	- ecliptic (n)黃道 (adj)黃道的
-	- interstellar gas (n)星際物質，星系和恆星之間的物質和輻射場的總稱
-	- cosmic ray (n)宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
+	- axial tilt /ˈaksɪəl tɪlt/ (n)轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)
+	- precession (n)進動/歲差(自轉物體之自轉軸又繞著另一軸旋轉的現象)
+	- heliacal rising (n)偕日升(一顆恆星經過隱藏在地平線下一段時間或一定的週期之後，首度在拂曉時又出現在東方地平線上，或正好在地平線上但隱藏在太陽的光芒之中的現象)
+	- heliacal /hɪˈlʌɪəkəl/ (adj)太陽的/接近太陽的

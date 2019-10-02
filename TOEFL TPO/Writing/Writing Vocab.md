@@ -1,6 +1,7 @@
 ## Popular
 + do 做 == accomplish == carry out == complete == execute == operate == undertake
 + can 可以/能 == be able to == be capable of sth 
++ lead 引領 == contribute to == draw == influence == head == prompt 
 + allow 允許 == let == permit == sanction == empower == be entitled to
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
@@ -30,6 +31,7 @@
 + keep 維持 == maintain == preserve == retain == sustain == manage 
 + have 有 == own == carry == hold == include == possess
 + easy 簡單的 == effortless == painless == accessible
++ true 真的 == genuine == authentic == real == actual == authentic == sincere == substantial == tangible == honest
 - lose 失去 == drop == be deprived of 
 - talk 談論 == schmooze == communicate == exchange == interact == speak == tell
 - create 創作 == make == design == develop == produce == generate
@@ -37,7 +39,9 @@
 - creative 有創意的 == innovative == ingenious == innovative == inventive == original
 - creativeness 創意 == contrivance == ingenuity == inventiveness
 - job 任務 == task == assignment == operation == responsibility == work == thing
-- different 不同的 == disparate == distinct == distinctive == diverse
+- different 不同的 == heterogeneous == disparate == distinct == distinctive == diverse
+- difference 差異 == divergence == distinction == separation == differential
+- multiple 多樣的 == miscellaneous == variegated == assorted == various = a variety of == diversified == manifold
 - trouble 煩惱/憂慮 == distress == plight == dilemma == disturbance == predicament == struggle == strife == anxiety == difficulty  == worry
 - various 各式各樣的 = assorted == miscellaneous
 - dream 夢想/目標 == ambition == aspiration
@@ -64,8 +68,6 @@
 - work overtime 加班 == do overtime
 + morale 士氣 == confidence === spirit == self-esteem
 + wrongdoing 壞事 == misbehavior == evil == sin == crime
-+ true 真的 == bona fide == genuine == authentic == honest == real
-- real 真實的 == tangible == actual == authentic == sincere == substantial
 + fake 假的 == bogus == counterfeit == fictitious == forged == fraudulent == spurious
 - powerful 有權勢的 == puissant == authoritative == dominant == influential == mighty
 - prove 證實 == attest == = authenticate == corroborate == confirm == justify == substantiate == validate == verify
@@ -101,7 +103,6 @@
 - content 內容 == chapters == section == subjects == substance == elements == items
 - traditional 傳統 == conventional == classic == long-established == old-fashioned == standard == routine 
 - present 現在 == now == today
-- difference 差異 == divergence == distinction == separation == differential
 - trend 趨勢 == style == fashion == rage
 - waste 廢物 == debris == scrap == trash == garbage
 - drastic 激烈的 == intense == radical == violent == severe
