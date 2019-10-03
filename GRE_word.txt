@@ -1155,6 +1155,7 @@
     + gustatory (adj)味覺的/品嚐的 --> gustation (n)味覺/品嚐 <-- gust 品嚐 = taste + atory
 
     * gainly (adj)姿態優美的 = graceful = comely
+    * gage, gauge (n)測量儀器, 測量法, 標準尺寸/大小/程度 (v)估計 = Estimate, 量 = measure
     * /ˈɡɔːdi/ gaudy (adj)俗麗的/過分炫耀的 = tawdry = garish = meretricious = flashy = ostentatiously ornamented
     * gingerly (adj/adv)小心/謹慎 = cautious = careful = wary
     *** gloom (n)黑暗 = murk, 憂鬱 --> gloomy (adj)陰暗的/陰鬱的 = murky = obscure = stygian, 憂鬱的/悲觀的 = lugubrious = mournful = plaintive = dreary = morose = desolate = melancholy = dismal = saturnine = solemn
@@ -1470,6 +1471,7 @@
     + irony (n)反話/諷刺 = sarcasm = satire, 出乎意料的事情或狀況 (adj)鐵的 --> /ʌɪˈrɒnɪk/ ironic (adj)挖苦的 = sarcastic, 出乎意料的 = coincidental = unexpected --> ironically (adv)相反的是 <-- iron 諷刺 = sarcasm + y
     ++ irritate (v)激怒/使惱火 = irk = gall = peeve = rile = provoke = bore = annoy = pique = vex, 刺激/使興奮, 使發炎/使疼痛 = inflame <|> irrigate --> irritation (n)惱怒, 疼痛/發炎 <-- irrit 癢 + ate
     * irritable (adj)易怒的/急躁的 = irascible = cantankerous = grumpy = peevish = = surly, 易感受刺激的/過敏的 <-- irritate
+    * irritant (n)刺激物, 令人煩惱的事物 (adj)刺激的/導致輕微發炎的
     + issue (n)問題/爭議, [issues]困難, 期號, 結果/後果 = result = outcome, 流出, [法]子女/子嗣 (mn)發行 (v)發行, [with]提供, [from]流出, [from]源於
 
     * icon (n)聖像/偶像
@@ -1780,7 +1782,7 @@
     ++ muddle (v)將……混在一起 = jumble = confuse = mingle = intermingle, 弄糟 = bumble = blunder = bungle, 使糊塗/使頭腦混亂 = obfuscate = confuse = bewilder = jumble = befuddle = confound
     + /mʌnˈdeɪn/ mundane (adj)平凡的 = common = ordinary = unimaginative = prosaic = terrestrial, 現世的/世俗的 = lay = profane = temporal = worldly = early
     + murk (adj)黑暗/陰鬱 = darkness = gloom --> murky (adj)暗的/陰鬱的 = dark = gloomy = obscure = stygian, 模糊的/含糊的 = vague = confused = obscure
-    * /mʌɪˈəʊpɪə/ myopia (n)近視, 目光短淺/缺乏遠見
+    * /mʌɪˈəʊpɪə/ myopia (n)近視, 目光短淺/缺乏遠見 <--> hemianopia
     ++ myopic (adj)近視的 = near-sighted = shortsighted, 短視近利的 = shortsighted, 心胸狹窄的 = narrow-minded = petty <-- myopia
     + myriad (n)無數/大量 (adj)許多的/無數的 = innumerable, 各種各樣的
     + mysterious (adj)神秘的, 難解的/無法解釋的 = enigmatic = inexplicable
@@ -2733,6 +2735,7 @@
     * stealthy (adj)秘密的/鬼鬼祟祟的 = furtive = sly = shifty
     *** /stɛm/ stem (n)莖/幹, 柄/把, 家系 (v)起源於, 攔住/阻擋/遏止, 抽去……的梗/給……裝柄
     ** stern (adj)堅定的 = sturdy = stout, 嚴格的/嚴厲的 = strict = severe, 嚴峻的 (n)船尾
+    ** stiff (adj)僵直的/僵硬的, 黏稠的 = viscous = thick, 不易移動的/不靈活的, 拘謹的/不自然的, 嚴重的/強烈的 = severe = strong, 艱難的 = difficult, 烈的(酒), [非][with]充滿 (n)[非]屍體, 特別拘謹的人 (v)[非]詐騙, 忽視 = snub, [非]殺 = kill, (商業或產品)失敗
     * stink (v)發出惡臭, 壞透/糟透 (n)惡臭 = stench
     *** stir (v)攪拌 = disturb = agitate, 搖動/撥動, 刺激/激勵, 喚醒/喚起
     * stout (adj)粗壯結實的, 厚實的/牢固的, 不屈不撓的 (n)烈性黑啤酒
@@ -2969,7 +2972,6 @@
     - sterilize (v)使不育, 殺菌
     - stick (n)棍/棒/杖 (v)刺/戮, 釘住/插牢/黏貼, 伸出, 阻塞/哽塞
     - stickle (v)為小事爭吵/拘泥 --> stickler (n)為小事而爭論的人/頑固的人
-    - stiff (adj)(手腳等)僵直的/僵硬的, 呆板的, 嚴厲的
     - stock (adj)普通的/慣用的/平凡的, 庫存的/現有的/常備的 (n)存貨/儲備, 家畜, 股票, 原料/材料, 信任/相信, 樹幹, 家系/血統
     - stockade (n)柵欄/圍欄
     - stocky (adj)矮胖的 = squat = stout, 粗壯的
@@ -3079,6 +3081,7 @@
     +++ trace (n)痕跡, 遺跡/殘跡 = vestige, 微量 = scintilla (v)跟蹤/追蹤, 追溯/查考, 描繪/描摹/摹寫 = sketch = delineate
     + trample (v)用力踩踏/踐踏 = tread = stamp, 傷害/藐視
     + tranquil (adj)平靜的 = clam = peaceful = halcyon, 平穩的 = unagitated = serene = placid --> tranquility (n)寧靜/安靜
+    + traumatic (adj)令人痛苦的/令人抑鬱的 = disturbing = distressing, 外傷的, 心理創傷的
     + travail (v)艱苦勞動 = toil = moil, 經受分娩的陣痛 = labor = childbirth (n)分娩的陣痛
     + /ˈtrɛtʃ(ə)rəs/ treacherous (adj)背叛的 = traitorous = perfidous, 靠不住的 = untrustworthy = unreliable, 危險的 = precarious = dangerous = hazardous <-- treacher 欺騙 = deceive
     + /ˈtriːtɪs/ treatise (n)論文/專著 <-- treat
@@ -3376,7 +3379,7 @@
 
     ** wage (v)發動戰爭, 在進行中 (n)薪水, 賠償/補償 = compensate = recompense
     ** /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 <|> /weɪ/ weigh <|> /weɪ/ way <|> fare
-    * wane (v)虧/缺, 衰落/沒落/消逝
+    * wane (v)虧/缺, 衰落/沒落/消逝 <--> wax
     ** /wɛː/ wear (v)磨損/耗損, 允許/接受, 穿戴/面帶/梳成
     ** /ˈwɪəri/ weary (adj)筋疲力盡的 = fatigued = languid, 感到厭倦的 = stale = cloying (v)使疲勞/使疲倦 = exert = fatigue, 感到厭倦 = cloy = glut --> weariness (n) <|> dreary
     * wail (n/v)慟哭/呼嘯/悲歎 = mourn = lament = bewail

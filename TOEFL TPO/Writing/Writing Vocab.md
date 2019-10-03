@@ -1,8 +1,9 @@
 ## Popular
 + do 做 == accomplish == carry out == complete == execute == operate == undertake
 + can 可以/能 == be able to == be capable of sth 
-+ lead 引領 == contribute to == draw == influence == head == prompt 
++ cause 導致 == invoke == lead to == bring about == give rise to == contribute to == induce == precipitate == engender == prompt 
 + allow 允許 == let == permit == sanction == empower == be entitled to
++ show 顯示 == demonstrate == display == manifest == disclose == explain == exhibit == illustrate == indicate == reveal == report == suggest == present
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
 + increase 增加 == enlarge == escalate == augment == spiral == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
@@ -11,7 +12,6 @@
 + feel 想/認為 == assume == consider == think == deem == esteem == regard
 + find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
 + idea 想法 == concept == notion == image == thought
-+ cause 導致 == lead to == bring about == give rise to == induce == precipitate == engender == prompt 
 + help 幫助 == benefit == aid == assist == bolster == further == support == encourage == foster
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
 + good 好的 == remarkable == outstanding == stellar == singular == phenomenal == sovereign == sublime == striking == exceptional == miraculous
@@ -25,7 +25,6 @@
 + get acquainted with 認識 == familiarize == be knowledgeable about
 + like 喜歡 == be fond of == admire == appreciate
 + know 了解 == realize == learn == perceive
-+ show 顯示 == appear == demonstrate == disclose == display == explain == illustrate == present == reveal
 + reason 理由 == cause == justification == basis == rationale == purpose == point
 + use 使用 == adopt == exploit == operate == practice == utilize
 + keep 維持 == maintain == preserve == retain == sustain == manage 
@@ -46,7 +45,7 @@
 - various 各式各樣的 = assorted == miscellaneous
 - dream 夢想/目標 == ambition == aspiration
 - give up 放棄 == succumb == surrender == abandon
-- necessary 必要的 == essential == mandatory == crucial
+- necessary 必要的 == vital == essential == mandatory == crucial
 - discover 發現 == uncover == expose == disclose == explore == observe == unearth
 - method 方式 == the way in which == approach == mode == technique == means == way
 - handle 處理 == manage == deal with == cope
@@ -80,7 +79,7 @@
 - additional 新的/額外的 == extra == added == increased == new == other
 - helpful 有助益的 = conducive == instrumental
 - resolute 堅定的 == steadfast == adamant
-- disappear 消失 == dissolve == wear off == retreat == fade ==
+- disappear 消失 == dissolve == evanesce == vanish == wear off == retreat == fade
 - friend 朋友 == partner == intimate == companion == ally == buddy
 - beneficial 有益的 == favorable == advantageous == good
 - possible 可能的  == accessible == achievable == feasible == imaginable == potential == probable == accessible

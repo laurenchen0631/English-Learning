@@ -48,6 +48,7 @@
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
 	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
+	
 
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
@@ -90,6 +91,8 @@
 	- We still get together for lunch every now and then.
 - on occasion 有時/偶爾 == sometimes
 	- He has, on occasion, told a small lie.
+- per annum 每年
+	- an average growth rate of 2 per cent per annum
 
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near

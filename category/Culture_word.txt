@@ -56,6 +56,7 @@
 	- brownfield (n)棕色地帶的(指城鎮中原為工業用地現準備重新開發的地區)
 	- town square (n)廣場
 	- downtown (adj)商業區的 (adv)在城市的商業區 (n)城市商業區
+	- pueblo (n)印第安人的村莊
 
 [Asia]
 	- Eurasia (n)歐亞大陸 
@@ -142,7 +143,8 @@
 		- Tasmania (n)塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
 		- the Great Barrier Reef (n)大堡礁，是世界最大最長的珊瑚礁群，位於南太平洋的澳洲東北海岸，綿延伸展共有2600公里左右，最寬處161公里。約有2900個獨立礁石以及900個大小島嶼
 		- the Murray-Darling basin (n)墨累—大令盆地，流域含蓋澳大利亞七分之一陸地面積，是目前澳大利亞最重要的農業區域
-	- Hawaii (n)夏威夷
+	- Hawaii /həˈwʌɪi/ (n)夏威夷
+		- the Hawaiian Islands /həˈwʌɪən/ (n)夏威夷群島
 		- Honolulu 檀香山，或稱火奴魯魯，為美國夏威夷州最大的城市暨首府。
 	- Marshall Islands (n)馬紹爾群島，是位於北太平洋的島嶼國家。馬紹爾群島是密克羅尼西亞群島的一部分
 		- Kwajelein /ˌkwɑdʒələn/ (n)瓜加林環礁，是馬紹爾群島共和國一部分
@@ -294,6 +296,7 @@
 	- the Grand Canyon (n)大峽谷
 	- the Great Smoky Mountains (n)大霧山
 	- the Rocky Mountains (n)洛磯山脈
+	- the San Juan Mountains (n)聖胡安山脈，是一個高聳崎嶇的山脈，屬於落基山脈的一部分
 	* Appalachian Mountains /ˌapəˌleɪ(t)ʃ(ə)n ˈmaʊntənz/ (n)阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
 	- the Northern Rockies (n)北落磯山脈
 	- the Great Lakes (n)五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
@@ -312,6 +315,7 @@
 		- Seattle (n)西雅圖
 		- Puget Sound (n)普吉特海灣，一個位於美國西雅圖西岸峽灣，北臨加拿大溫哥華島，屬薩利希海的一部份
 	- Colorado (n)科羅拉多州
+		- Mesa Verde (n)梅薩維德，位於美國科羅拉多州，是美國一處國家公園，於1978年被列入聯合國教科文組織世界遺產名錄
 	- Connecticut (n)康乃狄克州，是美國東北部的一州，也是新英格蘭區域中最南的一州
 	- Georgia (n)喬治亞州，是美國東南方的一個州
 	- Illinois (n)伊利諾州

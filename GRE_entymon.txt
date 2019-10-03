@@ -213,6 +213,7 @@
 
 	acro 高 = height, tip
 		- acrobat (n)特技演員
+		- /akrəˈbatɪks/ acrobatics (n)雜技, 巧妙手法
 		- acrophobia (n)懼高症
 
 	acu 銳利 = sharp
@@ -1222,7 +1223,7 @@
 		- excitable (adj)易激動的/易興奮的 --> excitability (n)易激動性/易興奮性
 		+ incite (v)激勵/刺激 = stir = encourage = urge on = stimulate = prompt = kindle = whet, 煽動 = foment = agitate
 		* recite (v)背誦/朗誦, 詳述/列舉 --> recitation (n)背誦/朗誦 = litany, 詳述/列舉
-		- recital (n)獨奏, 吟誦
+		- recital (n)獨奏/獨唱/獨舞, 一串
 		- /ˌrɛsɪtəˈtiːvəʊ/ recitativo, /ˌrɛsɪtəˈtiːv/ recitative (mn)吟誦調	
 		- resuscitate (v)使復活/使甦醒 = resurrect = resurge <-- re + sus + cit + ate
 	
@@ -1619,6 +1620,7 @@
 			- /ˈdʌɪəˌθəːmi/ diathermy (n)電療
 			- /dʌɪˈalɪsɪs/ dialysis (v)透析
 			+ diagnose --> diagnostic --> diagnosis
+			- diaphragm (n)橫膈膜, 隔板/膈膜, 子宮帽, 快門/光圈
 			+ diatribe
 			* /dʌɪəˈbiːtiːz/ diabetes (n)糖尿病 = diabetes mellitus <-- dia + betes 穿過 = pass
 			- diagram (n)圖表/示圖 (v)用圖示表示
@@ -2624,6 +2626,8 @@
 		+ apogee (n)遠地點
 		+ perigee (n)近地點
 		- geology (n)地質學
+		- geography (mn)地理學, 地形/地勢 (n)地區
+		- geometry (mn)幾何學, 幾何分佈
 
 	gender, gener, gen, genu 產生/生/種類 = beget, born
 		* carcinogen (n)致癌物質
@@ -2793,6 +2797,7 @@
 		- hydrate (n)水化物 (v)水化/水合
 		- hydria (n)水罐
 		- hydrogen (n)氫
+		- hydrology (n)水文學 --> hydrologic (adj)
 		- hydrophobia (n)恐水症
 		- hydroponic (adj)水耕的 --> hydroponics (n)水耕法
 
@@ -2834,6 +2839,7 @@
 		+ hazard (n)危險 = risk = peril = danger = jeopardy --> hazardous (adj)危險的 = risky = treacherous
 
 	hemi 半 = half
+		- hemianopia (n)偏盲/單側盲
 		- hemisphere
 		- hemicardia (n)半心畸形
 		- hemicycle (n)半圓
@@ -3744,7 +3750,7 @@
 		+ malaprop, malapropism (n)字的誤用 <-- mal + aprop 恰當 = appropriate + ism 
 		- malcontent (adj)不滿的/反抗的 = dissatisified = rebellious (n)不滿份子/不滿現狀者/反抗者 <-- mal + content
 		+ malediction
-		- malevolent
+		+ malevolent
 		+ malfeasance (n)違法行為/瀆職 = misconduct = wrongdoing <-- mal + feasance
 		- malfunction (v)發生故障 (n)故障
 		* /ˈmalɪs/ malice (n)惡意 = despite = spite = rancor, [法]惡意/惡謀 --> malicious (adj)惡意的/惡毒的 = malevolent = malignant = mean = malign = vicious = spiteful = wanton
@@ -3853,6 +3859,7 @@
 		- modify (v)修改 = amend
 		+ modish (adj)[貶義]時髦的/跟隨流行的
 		+ modulate (v)調整/控制 = regulate, 使變調/改變聲調
+		- /ˈmɒdjuːl/ module (n)標準部件, 單元, 太空船的艙
 
 	mon 警告/提醒 = remind, warn
 		+ admonish (v)警告/責備 = reprimand = berate = revile = censure, 勸告/忠告 = urge = advise --> admonitory (adj)
@@ -4304,6 +4311,7 @@
 
 		2. 在上 = above == up
 			- overhear (v)偶然聽到/無意中聽到
+			- overland (adv)經由陸路 (adj)經由陸路的
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			- overlie -> overlay -> overlain (v)覆蓋在..之上
 			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
@@ -5935,6 +5943,7 @@
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		- specialize (v)[in]專攻/專門從事 <-- special
+		- specialization (n)特別化/專門化, 專業分工, 特化
 		+ species (n)物種, 種/類 = sort = kind
 		- /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
 		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
@@ -6110,7 +6119,7 @@
 
 	sid, sess, sed, sedi 坐 = sit 
 		+ dissident (n)持不同政見者 (adj)不贊成的 = disagreeing
-		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的
+		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的 <|> invidious
 		+ /əbˈsɛs/ obsess (v)迷住 = preoccupy = haunt, 煩擾 <|> /ə(ʊ)ˈbiːs/ obese
 		- obsession (n)著迷 = fixation, 揮之不去的念頭 
 		- preside (v)主持/擔任主席, [over]負責, [at]主奏 --> president (n)總統, 校長, 長官 --> presidency (n)總統職位, 總統任期
@@ -6179,6 +6188,7 @@
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated = low-key, 受控制的 
 		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
 		* restrict (v)限制/控制, 監禁 = restrain --> restriction (n)限制規定, 限制/控制 = control = stricture
+		* restrictive (adj)限制性的
 		+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
 		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
@@ -6786,7 +6796,7 @@
 		+ unfeigned (adj)不虛偽的/真誠的 = genuine = sincere
 		- unfetter (v)釋放/使自由
 		+ unflappable (adj)[非]不驚慌的/鎮定的
-		- unflinching (adj)不畏縮的/堅定無畏的
+		- unflinching (adj)不畏縮的/堅定無畏的 = valorous
 		- unfold (v)展開/打開, 逐漸發展, 揭露 = reveal = disclose = divulge
 		+ unforthcoming (adj)不願透露訊息的, 無法隨時可得的
 		- unforgiving (adj)不願原諒的, 嚴峻的 = harsh = hostile
@@ -6935,7 +6945,7 @@
 		+ abound (v)大量存在/有很多, [in/with]富含/充滿 = teem 
 		+++ /ˈɪnʌndeɪt/ inundate (v)淹沒/氾濫 = flood, 壓倒 = overwhelm = flood --> inundation (n)壓倒, 洪水 = flooding
 		+ redound (v)有助於(名聲)
-		+ redundant (adj)累贅的/多餘的
+		+ redundant (adj)累贅的/多餘的 = excessive = superfluous
 		- undulate (v)起伏 (adj)波浪形的
 		- undulant (adj)起伏的 = undulating
 		+ undulating (adj)波浪起伏的/波浪形的 
@@ -6943,7 +6953,7 @@
 		
 [V]
 	ver, veri 真實的 = true
-		+ aver (v)斷言/堅稱 = affirm = assert, [法]證明……屬實 <|> avert
+		+ /əˈvəː/ aver (v)斷言/堅稱 = affirm = assert, [法]證明……屬實 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
 		- verdict (n)判定/裁決, 判斷/意見 = opinion = judgement
 		+ verify (v)證明/證實 = confirm = substantiate
@@ -6951,7 +6961,7 @@
 		+ verifiable (adj)可證實的/可檢驗的
 		+ verisimilar (adj)好像是真的/逼真的 --> verisimilitude (n)逼真
 		- verity (mn)真實/事實 = truth (n)信念/真理
-		+ veritable (adj)名副其實的
+		+ veritable (adj)名副其實的 <|> verifiable
 
 	verb 話語 = word
 		+ verbal (adj)文字的, 口頭的, 嘮叨的, 動詞的 (n)動詞, 動名詞
@@ -7016,7 +7026,7 @@
 		- revolve (v)旋轉/自轉, [around]以……為中心, 盤桓於腦海/一再浮現
 		- revolute (adj)向內卷的(葉片)
 		+ revolution (n)革命, 變革, 旋轉, 公轉 --> revolutionary (adj)大變革的, 革命的 (n)革命者
-		- revolt (v)叛亂/造反 = rebel, 使..感到噁心 (n)叛亂/造反 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive = lurid
+		- revolt (v)叛亂/造反 = rebel, 使..感到噁心 (n)叛亂/造反 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive
 		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
 		+ /ˈvəːsətʌɪl/ versatile (adj)多才多藝的/多功能的/多方面適用的
 		* verse (mn)詩 (n)詩節 = stanza, [聖經]節 --> versify (v)作詩 --> versed (adj)[in]熟練的/精通的 
@@ -7045,7 +7055,7 @@
 		- convenient (adj)方便的/便利的/省事的 <|> conventional --> convenience (mn)方便/合宜 = expediency (n)便利設施/方便的用具 <--> inconvenient
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
-		- intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入
+		- /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入
 		* invent (v)捏造/編造 = concoct = vamp, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious
 		- inventory (n)詳細目錄/存貨清單 (v)編制(目錄), 把……登入目錄
 		+ prevent (v)防止/預防/阻止
@@ -7065,6 +7075,7 @@
 		+++ provocation (n)挑釁 = affront, 挑撥, 挑逗 --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
 		* revoke (v)撤銷/廢止 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢止的/可取消的
 		- vocalist (n)流行歌手 = singer
+		- vocalize (v)發聲, 用文字表達, 加母音符號於……上 --> vocalization (n)發聲
 		- vocation (n)(對某職業的)傾向/才能, 職業/工作 <|> vacation
 		+ vociferous (adj)喊叫的/喧嚷的 = loud
 
@@ -7092,12 +7103,14 @@
 		+ variegate (v)使多樣化, 使色彩斑駁 --> variegated (adj)多變的/多種多樣的 = varied = diverse, 雜色的/色彩斑駁的 = motley
 		- variegation (n)雜色/斑駁 <-- vari + eg 做 = do + ation
 		+ /vəˈrʌɪəti/ variety (mn)多樣化/變化 (n)種類, 一些, [生]變種/異種
-		- various (adj)不同的/各種各樣的
+		- various (adj)不同的/各種各樣的 = variegated = varied
+		- vary (v)使不同/改變, 修改 = modify
 
 	vis 看 = see
-		- envision (V)想像/展望 = visualize
+		* envision (V)想像/展望 = visualize
 		- envisage (v)構想/設想 = contemplate = conceive, 想像 
 		+ improvise (v)即興創作/即興表演 = extemporeize = vamp, 臨時做/臨時湊成 --> improvisation (mn)即興, 即興做出來的東西
+		+ /ˌɪmprəvʌɪˈzeɪʃ(ə)nəl/ improvisational (adj) (adj)即興的
 		* improvised (adj)即興的, 權宜的/臨時代用的 = makeshift
 		+ revise (n/v)修訂/修正 = amend = alter
 		+ revisionist (n)修正主義者 (adj)修正主義的
@@ -7106,18 +7119,17 @@
 		+ visionary (adj)有遠見的, 有預知能力的 (n)有遠見的人
 		- vista (n)美景, 從兩排樹木或房屋等中間看出去的景色, 遠景/展望
 
-	vir
-		1. 人 = man
-			+ virtue (mn)美德/高尚品德 (n)優點/好處 --> by virtue of (adv)因為/由於 = beacuse of
-			- virtual (adj)實質上的/實際上的, 虛擬的
-			+ virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
-			- /ˈvəːtʃʊəs/ virtuous (adj)有道德的/品德高尚的
-			+ /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (mn)(藝術或音樂的)精湛技藝
-			- virtuosic (adj)(藝術或音樂的)技藝精湛的
+	virt 人 = man
+		+ virtue (mn)美德/高尚品德 (n)優點/好處 --> by virtue of (adv)因為/由於 = beacuse of
+		- virtual (adj)實質上的/實際上的, 虛擬的
+		+ virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
+		- /ˈvəːtʃʊəs/ virtuous (adj)有道德的/品德高尚的
+		+ /ˌvəːtʃʊˈəʊzəʊ/ virtuoso (n)藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity (mn)(藝術或音樂的)精湛技藝
+		- virtuosic (adj)(藝術或音樂的)技藝精湛的
 
-		2. 毒 = poison
-			- virus (n)病毒, 病毒性疾病, 有害的影響 --> viral (adj)病毒性的, 網路爆紅的 (n)網路爆紅的東西
-			+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 高度傳染性的 = infective, 充滿敵意的 = hateful = hostile
+	viru 毒 = poison
+		- virus (n)病毒, 病毒性疾病, 有害的影響 --> viral (adj)病毒性的, 網路爆紅的 (n)網路爆紅的東西
+		+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 高度傳染性的 = infective, 充滿敵意的 = hateful = hostile
 
 	viv 活 = live
 		+ /kənˈvɪvɪəl/ convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (mn)歡樂
@@ -7130,77 +7142,78 @@
 
 	vid, vey 看
 		* evident (adj)明顯的 = patent = flagrant = obvious = palpable = conspicuous
-		+ invidious (adj)招致不滿的/惹人反感的 = hateful, 公平的(比較) = unjust
-		+ provident (adj)有遠見的/深謀遠慮的 = prudent, 節儉的 = frugal = thrifty
-		+ providential (adj)幸運的/天佑的 = lucky = fortunate, 上帝的/天意的
-		- providence (n)天命/天佑, 深謀遠慮
-		- provide (v)提供, 規定, 撫養/贍養, 準備
-		++ provision (n)供應, 經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = ration, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
-		+ provisional (adj)暫時的/臨時的 = tentative = temporary <|> provincial
-		- provisory (adj)有附帶條件的 <-- provide
-		+ survey (v)俯視/眺望, 概括論述, 全面考察/測量/勘測/審視/調查 (n)調查, 概觀/概論, 測量/勘測/檢視/檢驗, 俯瞰
-		- surveyor (n)測量員
+		* evidence (mn)證據, 跡象 = sign = indication (v)顯示/表明
+		+ invidious (adj)招致不滿的/惹人反感的 = hateful, 公平的(比較) = unjust <|> insidious <-- envy
+		+ provident (adj)未雨綢繆的/深謀遠慮的 = careful = prudent
+		+ providential (adj)適時的/湊巧的 = opportune, 天意的
+		- providence (n)天命/天佑, 未雨綢繆/深謀遠慮
+		- provide (v)[with]提供 = supply, 提出 = yield = contribute, [for]做準備, 規定 = stipulate
+		++ provision (n)供應, [for/against]經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = ration, 規定/條款 (v)撥劃準備金, 向……供應糧食 <-- provide
+		+ provisional (adj)暫時性的/臨時的 = provisory = tentative = temporary (n)臨時郵票 <|> provincial
+		- provisory (adj)有但書的/有附帶條件的, 暫時性的/臨時的 = provisional <-- provide
+		+ survey (v)審視, 勘測/測繪, 調查 = investigate (n)全面的考察, 調查, 調查報告, 勘測/測繪, 測量圖, 測繪部門
+		- surveyor (n)測量員/勘測員
 		- surveil (v)監控 --> /səˈveɪləns/ surveillance (n)監控/監視 = scrutiny
 
 	vit 生命 = life
-		+ vital (adj)極其重要的 = pivotal = crucial, 生命的, 維持生命所必需的, 充滿活力的 = animated, 致命的 = deadly <|> vitiate
-		- vitalize (v)激發活力
+		+ /ˈvʌɪt(ə)l/ vital (adj)絕對必要的 = essential, 維持生命所必需的, 充滿活力的 = animated, 致命的 (n)重要器官 <|> vitiate
+		- /ˈvʌɪt(ə)lʌɪz/ vitalize (v)給予……活力
 
 	vic, viti, vitu 邪惡 = vice
-		- vice (n)邪惡
-		++ vicious (adj)邪惡的/墮落的 = depraved = profligate = putrid, 應受譴責的 = reprehensible = blameworthy, 惡意的 = spiteful = malicious = malevolent = vindictive = malign = mean = wanton, 殘暴的 = savage = ferocious, 極度不舒服的 = unpleasantly severe
-		+ /ˈvɪʃɪeɪt/ vitiate (v)損害 = spoil = pervert = impair, 使降低/使墮落 = debase = corrupt = pervert, (使)無效 = invalidate
-		- vitiable (adj)能使腐敗的/能使無效的
-		+ vituperate (v)痛斥/辱罵 = revile = berate --> vituperation (n)謾罵/責罵 = invective
-		+ /vɪˈtjuːp(ə)rətɪv/ vituperative (adj)謾罵的/責罵的 = invective = denunciatory = censoriously abusive
+		- vice (mn)惡行, 犯罪活動 (n)不好的特質, 惡習, 老虎鉗/檯鉗 = vise (prep)代替/代理
+		+ /ˈvɪʃəs/ vicious (adj)邪惡的/惡毒的/兇暴的 = violent = savage = ferocious, 嚴重的/危險的 = serious = dangerous, 不道德的 = immoral
+		+ /ˈvɪʃɪeɪt/ vitiate (v)損害 = spoil = pervert = impair, (使)無效 = invalidate
+		+ vituperate (v)痛斥/辱罵 = insult = revile = berate --> vituperation (mn)謾罵/謾罵 = invective
+		+ /vɪˈtjuːpərətɪv/ vituperative (adj)謾罵的/謾罵的 = abusive = denunciatory
 		
 	vitr 玻璃 = glass
 		- vitreous (adj)玻璃的
-		+ /ˈvɪtrɪəl/ vitriol (n)尖刻的話, 硫酸/礬 
-		+ /ˌvɪtrɪˈɒlɪk/ vitriolic (adj)刻薄的 = truculent = scathing = harsh
+		+ /ˈvɪtrɪəl/ vitriol (mn)辛辣的批評, 硫酸/礬 
+		+ vitriolic (adj)尖刻的 = truculent = scathing = harsh
 
 	venge 復仇 = avenge
 		- avenge (v)替...復仇/報...之仇 = vindicate
-		- revenge (v)報復/報仇
+		- revenge (n/v)報復/報仇
 		- vengeance (n)復仇/復仇
-		* vengeful (adj)報復的/復仇的 = vindictive, 復仇心重的
+		* vengeful (adj)圖謀報復的/意圖復仇的
 
 	void, vacu, vac, van 空 = empty, vain
-		- avoid (v)躲避/避開 = avert = prevent
-		+ evanesce (v)逐漸消失 --> /ɛvəˈnɛs(ə)nt/ evanescent (adj)短暫的/轉瞬即逝的 = fleeting = ephemeral
-		* devoid (adj)缺乏的 = lacking
+		- avoid (v)躲避/避開 = avert, 避免 = prevent, [法]使無效 = nullify = repudiate
+		+ /ˌiːvəˈnɛs/ evanesce (v)消失 --> /ɛvəˈnɛs(ə)nt/ evanescent (adj)迅速消失的/瞬息即逝的 = quickly fading
+		* devoid (adj)缺乏..的 = lacking
 		- evacuate (v)撤離, 使成真空, 淨空, 排出
-		- vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul
-		- vacant (adj)空白的/空的/空缺的/空閒的, 茫然的/空虛的 = vague
-		+ vacuous (adj)空的 = empty = void, 茫然的/空洞的 = inane = stupid, 無所事事的 = purposeless = idle --> vacuity (n)空虛/空泛/無聊之事/蠢事, 空白/空間
-		- vacuum (n)真空, 空白/空虛, 孤立狀態
-		- vanish (v)突然不見, 絕跡
-		- vanity (n)虛榮/自負
+		- /veɪˈkeɪt/ vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul
+		- /ˈveɪk(ə)nt/ vacant (adj)空的/空缺的, 茫然的 = vague
+		+ vacuous (adj)茫然的/空洞的 = vacant = mindless = inane = stupid --> vacuity (n)茫然/空洞, 空曠 = emptiness
+		- vacuum (n)真空, 真空吸塵器 (v)用真空吸塵器清掃
+		- vanish (v)突然消失, 逐漸消失 = evanesce
+		- vanity (n)虛榮/自負, 自費出版, 徒勞/無益, 梳妝臺
 		- void (adj)空的/空虛的, 不合法的/無效的 (n)空洞/空間, 空虛感
-		- voidance (n)宣告無效/廢除, 排泄
+		- void (adj)[法]無效的/無法律效力的, 無用的/徒勞的 = futile = ineffectual, 空的 = empty, [of]缺乏..的 = devoid, 空缺的(職位) = vacant (n)空, 空虛 = emptiness (v)[法]宣布..無效, 排出 = discharge, 排泄 = excrete
+		- voidance (n)排出/排泄, [法]無效化
 
 	vow, vot 誓言 = vow
-		* avow (v)承認, 公開宣稱 = admit = affirm = assert = aver = concede = proclaim -> avowal (n)
-		+ devote (v)把…奉獻給, 將…用於 --> devoted (adj)摯愛的/熱愛的/忠實的
-		* devout (n)虔誠, 真摯/誠懇 <-- devote
-		- devotee (n)崇拜者/愛好者 = idolater
-		- devotional (adj)虔誠的/獻身的, 忠誠的/專心的
-		* disavow (v)否認/推翻前言
+		* avow (v)公開表示 = admit = assert = proclaim -> avowal (n)公開宣布
+		+ devote (v)[to]將…貢獻給/把…奉獻給, [to]將…用於 --> devoted (adj)摯愛的/忠誠的, [to]用於..的
+		* devout (adj)虔誠的 <-- devote
+		- devotee (n)崇拜者/愛好者 = votary = idolater
+		- devotional (adj)宗教禮拜的/祈禱的
+		* disavow (v)否認
 		+ /vaʊ/ vow (n)誓言 (v)發誓 <|> /ˈvaʊəl/ vowel 
-		- votary (n)信徒/崇拜者
-		- vote (v)選舉
-		- votive (adj)奉獻的/誠心祈求的/許願的
+		- votary (n)修士/修女, 信徒/崇拜者 = devotee
+		- vote (n/v)投票 (n)投票結果, 投票權 (v)[非]提議/建議
+		- votive (adj)奉獻的/向上帝還願的
 
 	vol 意志 = will
 		+ benevolent
-		+ /məˈlɛvələnt/ malevolent (adj)惡意的/惡毒的 = malicious = malignant = vicious = spiteful = wanton
-		* involuntary (adj)不由自主的/無意的
-		- volition (n)意志/選擇/決定
-		+ voluntary (adj)自願的/無償的, 有意的/故意的, (組織)公益性的
+		+ /məˈlɛvələnt/ malevolent (adj)有惡意的 = malicious = malignant = vicious = spiteful = wanton
+		* involuntary (adj)非自願的, 不受意志控制的, 強制的/強迫的 = compulsory
+		- /vəˈlɪʃən/ volition (mn)決斷能力/意志力
+		+ voluntary (adj)自願的, 自發的/自覺的, 無償的 (n)禮拜前後所演奏的琴獨奏
 
 	volat, vola 飛 = fly
-		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = fickle, 易揮發的/易發作的/爆炸性的, 飛逝的/短暫的
-		- volant (adj)能飛的/飛行的, 迅速的
+		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = fickle, 易揮發的
+		- volant (adj)能飛的/飛行的, 迅速的 = rapid
 
 	vor, vour 吃 = devour, eat up
 		- carnivorous

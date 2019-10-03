@@ -312,7 +312,7 @@
 	- Don't do it just because you can.
 	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
 	- A most unusual astronomer inasmuch as he was deaf mute
-+ on account of == by/in virtue of == due to == by reason of == because of 因為/歸因
++ *on account of* == *by virtue of* == due to == by reason of == because of 因為/歸因
 	- On account of holiday our store will be closed tomorrow.
 	- We delayed our departure on account of the bad weather.
 	- they achieved pre-eminence by virtue of superior military strength

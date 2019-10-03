@@ -84,6 +84,7 @@
 	- cobalt /ˈkəʊbɔːlt/ (n)鈷
 	- manganese /ˈmaŋɡəniːz/ (n)錳
 	- selenium /sɪˈliːnɪəm/ (n)硒
+	- sulfur /ˈsəlfər/ (n)硫, 硫磺色 (v)用硫磺煙薰或消毒
 	- cadmium (n)鎘
 	+ nickel /ˈnɪk(ə)l/ (n)鎳, 五分錢
 	+ lithium (n)鋰
@@ -125,6 +126,7 @@
 	- ozone /ˈəʊzəʊn/ (n)臭氧
 	- oxidize /ˈɒksɪdʌɪz/ (v)氧化 == Combine chemically with oxygen.
 	- carbon dioxide (n)二氧化碳
+	- sulfur dioxide (n)二氧化硫
 	- methane /ˈmɛθeɪn/ (n)甲烷
 	- nitrate /ˈnʌɪtreɪt/ /ˈnī-ˌtrāt/ (n)硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
 	- nitre == saltpetre == potassium nitrate (n)硝酸鉀 --> nitric (adj)
@@ -213,8 +215,10 @@
 	- cheekbone (n)頰骨
 	- sacrum /ˈseɪkrəm/ (n)薦骨/盆骨
 	- tibia /ˈtɪbɪə/ (n)脛骨
+	- rib cage (n)肋骨
 	
 	- muscle group (n)肌肉群
+	- diaphragm (n)橫膈膜, 隔板/膈膜, 子宮帽, 快門/光圈
 	- protractor (n)量角器, 伸肌
 	- masseter muscle (n)咬肌/咀嚼
 	- bicep (n)二頭肌
@@ -239,6 +243,8 @@
 	- aorta /eɪˈɔːtə/ (n)大動脈
 	- trachea /trəˈkiːə/ (n)氣管
 	- frontal lobe (n)額葉 <-- - frontal (adj)前面的, 額骨的 + lobe (n)葉, 裂片
+	- brain stem (n)腦幹
+	- forebrain (n)前腦
 
 	- alimentary canal (n)消化道
 	- plumbing (n)排泄/生殖系統, 管線系統
@@ -276,6 +282,8 @@
 	- spironolactone (n)螺內酯
 	- estradiol (n)雌二醇
 	- estrogen (n)雌激素
+	- NREM (n)非快速動眼睡眠，指沒有快速動眼運動的睡眠，在這段睡眠期間，大腦的活動下降到最低，使得人體能夠得到完全的舒緩
+	- REM (n)快速動眼期，動物睡眠的一個階段，又稱快速動眼睡眠。在此階段時眼球會快速移動，同時身體肌肉放鬆
 
 	- eyelash (n)睫毛
 	- larynx /ˈlarɪŋks/ (n)喉頭 --> laryngeal /ləˈrɪndʒɪəl/ (adj)喉頭的
