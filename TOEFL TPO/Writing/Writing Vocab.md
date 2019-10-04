@@ -3,7 +3,7 @@
 + can 可以/能 == be able to == be capable of sth 
 + cause 導致 == invoke == lead to == bring about == give rise to == contribute to == induce == precipitate == engender == prompt 
 + allow 允許 == let == permit == sanction == empower == be entitled to
-+ show 顯示 == demonstrate == display == manifest == disclose == explain == exhibit == illustrate == indicate == reveal == report == suggest == present
++ show 顯示 == demonstrate == display == manifest == disclose == evince == explain == exhibit == illustrate == indicate == reveal == report == suggest == present
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
 + increase 增加 == enlarge == escalate == augment == spiral == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 

@@ -49,7 +49,6 @@
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
 	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
 	
-
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
 	- Natufian culture developed somewhat differently in different regions, in part because of differences in the types and amount of food available from place to place.
@@ -311,6 +310,8 @@
 	- The project is in full gear now that we have Sally on board.
 - under a cloud 不被信任/受懷疑/受嫌棄 == to not be trusted or popular 
 	- It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
+- from scratch 從頭開始/從零開始 = from the beginning, without using anything that already exists
+	- Ben built the shed from scratch.
 
 ## Job/Task
 + walk of life 各行各業/各個社會階層
@@ -330,7 +331,6 @@
 	- Hunter said that he wasn’t told by members of the Obama campaign to end his lobbying activities, but that he knew “the writing was on the wall.”
 - all brawn and no brain 四肢發達頭腦簡單 == To have great power or physical strength but lack mental acuity or intelligence.
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
-
 
 ## Approbation
 - well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of

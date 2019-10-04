@@ -83,6 +83,7 @@
 	+ sodium /ˈsəʊdɪ/ (n)鈉
 	- cobalt /ˈkəʊbɔːlt/ (n)鈷
 	- manganese /ˈmaŋɡəniːz/ (n)錳
+	- magnesium /maɡˈniːzɪəm/ (n)鎂
 	- selenium /sɪˈliːnɪəm/ (n)硒
 	- sulfur /ˈsəlfər/ (n)硫, 硫磺色 (v)用硫磺煙薰或消毒
 	- cadmium (n)鎘
@@ -186,6 +187,9 @@
 		> 方法/機制 |The way in which something is done or operated.| the mechanics of cello playing
 	- centrifugal force /ˌsɛntrɪˈfjuːɡ(ə)l/ (n)離心力
 	- breaking strength (n)抗張力裂斷強度
+	- tensile strength (n)抗拉強度，在外力作用下，材料抵抗破壞的能力
+	- escape velocity (n)逃逸速度(一般描述為擺脫一重力場的引力束縛飛離那重力場所需的最低速率)
+	- velocity /vɪˈlɒsɪti/ (n)速度
 
 [Mathematic]
 	- the Roman numeral system (n)羅馬數字(羅馬數字共有7個，即I（1）、V（5）、X（10）、L（50）、C（100）、D（500）和M（1000）)

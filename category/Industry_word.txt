@@ -739,6 +739,7 @@
 	- tangy 撲鼻的 == Having a strong, piquant flavour or smell.
 	- churro (n)吉拿棒
 	- skillet (n)長柄煎鍋/油炸鍋
+	- tableware (mn)餐具
 	- pantry (n)食品儲藏室 == A small room or cupboard in which food, crockery, and cutlery are kept.
 	- bushmeat (n)叢林肉，是指各種從棲身於非洲和亞洲地區的野生動物身上所獲取的食用肉，類似於中國人所指的野味
 	- frying liver (n)炸肝臟
@@ -1055,6 +1056,7 @@
 	- octavo /ɒkˈtɑːvəʊ/ (n)八開紙/八開本
 	- cloth parchment (n)布羊皮紙
 	- cardboard /ˈkɑːdbɔːd/ (n)硬紙板 (adj)不真實的/不自然的
+	- glossy (adj)滑順有光澤的, 用亮光紙印的, 浮誇的 (n)[非]亮光紙印刷的雜誌, 亮面印刷照片
 	- laureate
 		> 獲獎者 |A person who is honoured with an award for outstanding creative or intellectual achievement.| a Nobel laureate
 		> 桂冠詩人 |Poet Laureate|
@@ -1080,7 +1082,7 @@
 	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
 
 	- epistle (n)書信, 使徒書信
-	- lyrical (adj)抒情的, 歌詞的 
+	- lyric (adj)抒情的, 歌詞的 (n)抒情詩, 歌詞 --> lyrical (adj)抒情的, 歌詞的 
 	- ode /əʊd/ (n)頌詩/頌歌 <--> odd /ɒd/ <--> old /əʊld/ 
 	- iambic pentameter 五步抑揚格，用於傳統英語詩歌和詩歌劇的公制線
 	- iambic /ʌɪˈambɪk/ (adj)抑揚格的 (n)抑揚格的詩
@@ -1146,6 +1148,7 @@
 		> 豎琴螺 |harp shell; harp snail|
 	- cello /ˈtʃɛləʊ/ (n)大提琴
 	- string quartet 弦樂四重奏
+	- orchestra /ˈɔːkɪstrə/ (n)管弦樂團, 樂池/樂隊席 = orchestra pit, 正廳前座區 = stall
 	- mezzo-soprano 次女高音
 	- riff
 		> 即興重複段 |A short repeated phrase in popular music and jazz, typically used as an introduction or refrain in a song.|
@@ -1355,6 +1358,7 @@
 	- porcelain (mn)瓷 = china, 瓷器 (n)瓷器
 	- earthenware (n)陶器/土器
 	* /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 
+	- amphora -> amphorae (n)雙耳細頸瓶
 	- glaze (v)給……裝玻璃/用玻璃覆蓋, 給…上釉/給…上光, 給(食物)表面澆糖汁, 使(眼睛)變呆滯 (n)光滑的表層, 釉, 糖汁, 翳
 	- stained glass (n)花窗玻璃(為西方建築裝飾品，常見於教堂)
 
@@ -1605,7 +1609,7 @@
 		> 轉片 |The rotating container in a centrifuge.|
 		> 旋轉翼 |The rotary winder of a clockwork watch.|
 		> 氣旋 |A large eddy in which the air circulates about a horizontal axis, especially in the lee of a mountain.| a rotor cloud
-	- turbine /ˈtəːbʌɪn/ 渦輪
+	- turbine (n)渦輪機 <-- turbo + spin
 	- keystroke 按鍵之敲擊 == A single depression of a key on a keyboard, especially as a measure of work.
 	- accelerometer /əkˌsɛləˈrɒmɪtə/ 加速度計
 	- gremli /ˈɡrɛmlɪn/
@@ -1640,6 +1644,8 @@
 	- piston (n)活塞
 	- lubricant /ˈluːbrɪk(ə)nt/ (n)潤滑油/潤滑劑 (adj)潤滑的
 	- asphalt /ˈasfalt/ (n)瀝青/柏油 (v)鋪瀝青於
+	- noria (n)戽水車
+	- carbon nanotube (n)奈米碳管
 
 [School/Education]
 	- undergrad == undergraduate (adj)大學生的 (n)大學生
@@ -1688,6 +1694,7 @@
 	- tuition /tjuːˈɪʃən/ (mn)講授/教學, 學費
 	- tutoring center (n)輔導中心
 	- tutor /ˈtjuːtə/ (n)家庭教師/私人教師, 助教 (v)當……的教師
+	- journal /ˈdʒəːn(ə)l/ (n)雜誌/期刊, 日記/日誌 (v)寫日誌
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -2052,6 +2059,8 @@
 		> 自行車體育場 |A stadium containing a banked cycle-racing track.|
 	- skiing /ˈskiːɪŋ/ 滑雪
 	- swimming /ˈswɪmɪŋ/ 游泳
+	- racquetball /ˈrakɪtbɔːl/ (n)短柄墻球
+
 
 [Fun/Entertainment]
 	- spree /spriː/ 

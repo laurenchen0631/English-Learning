@@ -709,6 +709,7 @@
 		> 客艙 |The area for passengers in an aircraft.|
 		> 小木屋 |A small wooden shelter or house in a wild or remote area.| the cabin lay three miles into the reserve
 		> 關在小地方 |Confine within narrow bounds.| once loosed, the idea of equality is not easily cabined
+	- cache /kaʃ/ (n)貯藏所 (v)貯藏 <--> cash /kaʃ/ 
 	- call
 	- call for 需要 == demand == require
 		> Because mental illnesses can take so many forms, however, each one calls for a separate explanation of its development.
@@ -757,6 +758,9 @@
 		> 打發時間 |Pass time idly with other people.| she always seems to be just chilling with friends
 		> 好相處的 |Very relaxed or easy-going.| in general, I am a pretty chill guy
 	- chip (n)屑片/碎片, 缺口, 積體電路片, 籌碼 (v)在……上造成缺口, 裂開, 削/鑿
+	- chip away 逐漸破壞或使失效 == to gradually make something less effective or destroy it
+		- Writers such as Voltaire and Diderot were chipping away at the foundations of society.
+		- Fears about the future chipped away at her sense of well-being.
 	- chop up 切碎/剁碎
 		- Meat is often chopped up into cubes before being cooked.
 		- During the second rainy period, the dunes were kind of chopped up at the top, full of hollows and ridges, and these hollows would have captured the rain right there on the top.
@@ -994,6 +998,8 @@
 		> 阻礙..的發展 |Stunt the growth or development of.| the insurance industry is still battling with a number of challenges that have dwarfed its growth
 		* dab
 	* draw on 利用 == to use information or your knowledge of something to help you do something
+	- draw sth up 起草/草擬
+		- I have drawn up a list of candidates that I would like to interview.
 	* drift off 漸漸入睡 == o gradually start to sleep
 
 	- (be) directed at 專注於 = focus on
@@ -1088,7 +1094,8 @@
 		> 退出 |cease to participate in a race or competition.|
 		> 退學 |abandon a course of study.| she had dropped out of college
 	- drown out 聲音壓過 == (of a sound) to be loud enough to block the sound of something else
-		> The sound of the telephone was drowned out by the vacuum cleaner.
+		- The sound of the telephone was drowned out by the vacuum cleaner.
+		- the director drew the meeting out for another hour.
 	- drink -> drank -> drunk
 	- drive -> drove -> driven
 	- drive up
@@ -1791,7 +1798,7 @@
 		> 使慘敗 |Utterly defeat in a game or contest.| they hammered St Mirren 4–0
 		> |Beat down the price of (a stock)| sceptical investors hammered the computer company`s stock
 		> |Declare (a person or company) a defaulter.| Willis was hammered in the recession
-	- hasnd
+	- handout (n)捐款/捐贈物, 傳單/印刷品/講義
 	- hand off 交予 == to give something to someone else to do or complete.
 		> Roger handed the ball off to Jeff. He handed off the ball. Tim handed it off.
 		> I`m going to hand this assignment off to Jeff.
@@ -4366,7 +4373,7 @@
 	- spew
 		> 大量排放 |Expel large quantities of (something) rapidly and forcibly.|
 		> 嘔吐 |Vomit| hㄋe felt faint and nauseous—he had to get out before he spewed
-	- strand
+	- strand /strand/ (v)使擱淺, 使處於困境 (n)股/縷/絞/線/繩
 		> 使擱淺 |Drive or leave (a boat, sailor, or sea creature) aground on a shore.| the ships were stranded in shallow water
 		> 使處於困境 |Leave (someone) without the means to move from somewhere.| two of the firm`s lorries are stranded in France
 		> 股/縷/絞/線/繩 |A single thin length of something such as thread, fibre, or wire, especially as twisted together with others.|
@@ -4754,6 +4761,7 @@
 	- toothpaste (n)牙膏
 	- top out 達到最高點 == to reach the highest point in a continuously changing level that is about to start becoming less again
 	- top-up 注滿/加滿 == A quantity of a drink that refills a partly full glass or cup.
+	- topple /ˈtɒp(ə)l/ (v)使倒塌, 推翻/顛覆 = overthrow
 	- trot
 		> 小跑/快跑 |(with reference to a horse or other  quadruped) proceed or cause to proceed at a pace faster than a walk, lifting each diagonal pair of legs alternately.| the horses trotted slowly through the night
 		> 小跑 |A trotting pace.| our horses slowed to a trot
