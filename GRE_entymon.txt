@@ -26,6 +26,8 @@
 			+ adventure --> adventurous
 			+ advocate --> advocate
 			+ adumbrate
+			- advance (v)向前移動, 將……提前, 進展/進步 = progress, (股價)上漲, 提出(意見), 借..錢,  (n)前進, 進展/進步 = development = improvement, 上漲, 預付款, 貸款
+			- advantageous (adj)有利的/有好處的 = beneficial
 			+ aesthete --> aesthetic
 			+ affable
 			+ affected 
@@ -501,6 +503,7 @@
 	bat
 		1. 打 = strike, beat
 			- baton (n)警棍 = nightstick = cudgel, 指揮棒, 接力棒
+			- batter (v)痛打 = bash = clobber, 施暴, 嚴厲批評, 凹陷 (n)麵糊, 打者, 凹陷
 			- combat (n/v)格鬥/搏鬥 --> combative (adj)鬥志旺盛的
 
 		2. 走 = go
@@ -612,6 +615,7 @@
 			* composure
 			+ compound
 			+ comprehend --> comprehensive
+			- comprise (v)包含/包括/構成 = comprehend = embrace = include
 			++ compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize = endanger = imperil = menace
 			- /kənˈkatɪneɪt/ concatenate (v)使連接/使連鎖 --> concatenation (n)一連串有關聯的事件、想法或事物 <-- con + caten 鐵鍊 = chain + ate
 			+ concave
@@ -680,6 +684,7 @@
 			+ contribute --> contribution
 			+ contrite
 			+ contumacious
+		    - contusion (n)瘀傷 = bruise (v)碰傷/擦傷 = bruise
 			+ convene --> convention --> conventional
 			* covenant
 			* converse --> conversation
@@ -762,6 +767,7 @@
 		+ accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
 		- access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
 		+ accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
+		- /anˈsɛstrəl/ ancestral  (adj)祖先的/祖傳的
 		+ concede (v)讓步/讓出(權利) = compromise = yield = appease, 承認(失敗) = admit = grant
 		++ concession (n)(常指為結束爭端而)認可/讓步/妥協, 讓予物/特許權, 營業權/營業場所
 		+ /siːd/ cede (v)割讓/放棄 = yield = surrender --> cession (n)割讓/放棄
@@ -1124,7 +1130,7 @@
 		+ cartography (n)製圖學 --> cartographer (n)地圖繪製者
 
 	cata 向下 = down, against, back
-		+ /ˈkatəˌklɪz(ə)m/ cataclysm (n)大災難/大變動 = catastrophe = upheaval <-- cata + clysm 洗 = wash == lut 
+		+ /ˈkatəˌklɪz(ə)m/ cataclysm (n)大災難/大變動 = catastrophe = upheaval --> cataclysmic (adj)災難性的 <-- cata + clysm 洗 = wash == lut 
 		- catastrophe
 		- catacomb (n)地下墓穴
 		- catalog (n)目錄
@@ -3714,6 +3720,7 @@
 		+ misuse 
 
 	miss, mit, mise 送/放出 = send, give over
+		- admit (v)承認(錯誤) = concede, 允許(進入) = permit, 接納, 接收…入院 --> admission (n)許可, 承認, 入場費/門票費
 		+ commit (v)犯, 使承擔義務/使表態, [be committed to]專注於, (資源)留用, [oneself to]獻身, 與...有長期感情關, [to]把..交託給, 押交, 送審 --> committed (adj)盡忠的/忠誠的, 承諾過的
 		+ commitment (n)投入/奉獻, 承諾/保證
 		- committal (n)拘押, 埋葬
@@ -3953,6 +3960,7 @@
 		+ commensurate (adj)相當的/相稱的 = proportional, 同樣大小的 <--> incommensurate
 		- diameter (n)直徑 <--> raidus <--> circumference
 		- dimension (n)空間/尺寸, 維度/特點
+		-  /ɡrəˈvɪmɪtri/ gravimetry (n)重量分析法(以分析物固體質量為基礎來測量的定量測定方法)
 		+ immense (adj)極大的 = vast = huge, 無限的 = limitless = infinite = immeasurable = boundless --> immensity (n)巨大之物, 巨大/無限
 		- odometer (n)汽車里程表 <-- odo 路 = way + meter
 		+ symmetry
@@ -4460,6 +4468,7 @@
 		- predecessor
 		+ precept
 		+ precipitate --> precipitous
+		- precinct (n)由圍牆圍成的院落/場地, 警察轄區, 選區 <|> succinct
 		+ précis
 		- precise
 		+ preclude
@@ -5420,6 +5429,7 @@
 			- request
 			+ requisite
 			- requite
+			- repurpose (v)重新利用/改變…的用途
 			+ /rɪˈsɪnd/ rescind (v)廢除/取消 = revoke = cancel = quash <-- re + scind 分開 = split, tear
 			- rescission
 			+ resemble
@@ -5748,7 +5758,7 @@
 			- subterranean
 			- subtract
 			+ subvert --> subversive
-			+ /səkˈsɪŋkt/ succinct (adj)簡明的/簡潔的 = concise = terse = laconic = compendious = brief <-- suc + cinct 束 = gird
+			+ /səkˈsɪŋkt/ succinct (adj)簡明的/簡潔的 = concise = terse = laconic = compendious = brief <|> precinct <-- suc + cinct 束 = gird 
 			+ succor
 			+ succumb
 			- suffice --> sufficient
@@ -5856,6 +5866,7 @@
 		+ apostasy (n)被教/脫黨/變節 = defect --> apostate (n)變節者/叛教者 (adj)變節的 <|> apostle 
 		+ consistent (adj)一貫的/始終如一的, 與..一致的/吻合的 = compatible = in agreement with
 		+ constant (adj)穩定的/不變的 <--> mercurial, 忠誠的, 經常發生的/連續發生的 (n)不變的事物, [數]常數/常量/恆量
+	    * constancy (n)堅定/堅貞/忠誠, 恆久不變 <-- constant
 		+++ constitute (v)構成/形成 = form, 等同於/被視爲 = be equivalent to = correspond to, 設立 = establish by law
 		+ constituent (n)成分/構成部分/要素 = component = element, 選民 (adj)組成的/構成的, 有選舉權的
 		- constitution (n)憲法/章程, 構成/組成 = composition, 構成 = forming, 體質/體格, 性格 = character
@@ -6060,6 +6071,7 @@
 		+ /ˈdɛsɪkreɪt/ desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
 		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
+		- /sakrəˈfɪʃəl/ sacrificial  (adj)獻祭的
 		- sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
 		* sanctify (v)使神聖化/使聖潔化 = consecrate = purify, 使可接受
 		* sanctuary (n)避難所/庇護所 = asylum = refuge, 禁獵區 = reserve, 聖殿/聖堂 = temple
@@ -6483,6 +6495,7 @@
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = distracted = absent-minded
 			- distraught (adj)心煩意亂的
+			+++ extensive (adj)廣大的/廣闊的, 大規模的/大量的
 			- extract (v)使勁拔出, 設法得到, 提取/提煉 (n)摘錄, 提出物/精華/汁
 			- hypotenuse (n)直角三角形的斜邊
 			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
@@ -6789,6 +6802,7 @@
 		- undesirable (adj)令人不悅的/不受歡迎的 = unwanted (n)不受歡迎的人
 		- undirected (adj)無方向的/無目標的
 		- /ʌndɪˈstəːbd/ undisturbed (adj)不受打擾的
+		+ undoubtedly (adv)毫無疑問地/肯定地 = certainly
 		+++ undue (adj)不適當的/過度的/過分的 = overly = excessive = disproportionate --> unduly (adv)過度 
 		* unearth (v)掘出/使出土, 發現 = discover, 把(狐狸)趕出洞穴 <|> unearthly
 		- unearthly (adj)奇異的 = unnatural = mysteriou <-- un + earthly
@@ -6803,9 +6817,9 @@
 		+ unfavorable (adj)反對的/缺少支持的, 不利的 = adverse = inauspicious = unpropitious
 		+ unfeigned (adj)不虛偽的/真誠的 = genuine = sincere
 		- unfetter (v)釋放/使自由
-		+ unflappable (adj)[非]不驚慌的/鎮定的
+		+ unflappable (adj)[非]不驚慌的/鎮定的 = composed
 		- unflinching (adj)不畏縮的/堅定無畏的 = valorous
-		- unfold (v)展開/打開, 逐漸發展, 揭露 = reveal = disclose = divulge
+		- unfold (v)展開/打開, 逐漸發展, 揭露 = reveal = disclose = divulge <|> untold
 		+ unforthcoming (adj)不願透露訊息的, 無法隨時可得的
 		- unforgiving (adj)不願原諒的, 嚴峻的 = harsh = hostile
 		- unfounded (adj)無事實根據的 = groundless = unwarranted
@@ -6852,7 +6866,7 @@
 		- unrest (n)動亂/動盪, (情緒)混亂
 		- unreserved (adj)全部的/徹底的 = unqualified = unmitigated = total = complete, 開誠布公的 = frank, 未被預訂的
 		+ unresolved (adj)未解決的(問題)
-		+ unruly (adj)任性的/不守規矩的 = untoward = fractious
+		+ unruly (adj)任性的/不守規矩的 = fractious
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
 		+ unscrupulous (adj)無道德原則的/不誠實的/不公正的 = unprincipled
@@ -6866,6 +6880,7 @@
 		- unspotted (adj)沒有髒污的 = flawless, 未被注意的 = unnoticed
 		+ unstinting (adj)不吝惜的/大方的 = unsparing = generous <-- un + stinting
 		- unsubstantiated (adj)未經證實的/無事實根據的 = unfounded = tenuous
+		- unsurpassed (adj)未被超越的 = all-time
 		+ unsympathetic (adj)不同情的/冷漠的, 沒有共鳴的/不同意的, 不討人喜歡的 = unlikeable
 		+ untapped (adj)未開發的/未利用的
 		+ untempered (adj)無節制的, 未經錘鍊的
@@ -6881,7 +6896,7 @@
 		+ unwarranted (adj)沒有根據的/不合理的 = unfounded = baseless = gratuitous = unconscionable = unjustified = unprovoked = unreasonable
 		+ unwavering (adj)不動搖的/堅定的 = steady = resolute
 		- unwieldy (adj)龐大的/笨重的 = cumbersome, 使用不便的 
-		+ unwitting (adj)不知情的 = unaware, 無意的 = inadvertent - unintentional
+		+ unwitting (adj)不知情的 = unaware, 無意的 = inadvertent = unintentional
 		- unwonted (adj)不尋常的 = unusual = unaccustomed
 		- unworldly (adj)脫離世俗的, 奇怪的 = strange
 		* unyielding (adj)堅決的/固執的 = adamant = resolute = inflexible = firm, 堅挺的 = rigid = hard
@@ -6970,7 +6985,7 @@
 		+ verifiable (adj)可證實的/可檢驗的
 		+ verisimilar (adj)好像是真的/逼真的 --> verisimilitude (n)逼真
 		- verity (mn)真實/事實 = truth (n)信念/真理
-		+ veritable (adj)名副其實的 <|> verifiable
+		+ veritable (adj)名副其實的 <|> verifiable1
 
 	verb 話語 = word
 		+ verbal (adj)文字的, 口頭的, 嘮叨的, 動詞的 (n)動詞, 動名詞
@@ -7019,7 +7034,7 @@
 		+ convoluted (adj)曲折的/旋繞的 = twisted = coiled = spiraled, 費解的/難懂的 = complicated = involved = intricate
 		+ devolve (v)[on/upon/to]將…下放/移交(下級) <--> submit, [into]變壞/衰退 = degenerate <--> evolve
 		+ divert (v)使轉向/使改道, 重新分派(錢) = reallocate, 使分心 = detract = distract = beguile, 逗…開心 = entertain = amuse
-		- diversion (mn)轉向/轉移, 重新分派, 分散注意力的東西, 娛樂/消遣 = relaxation = recreation = pastime.
+		- diversion (mn)轉向/轉移, 重新分派, 分散注意力的東西, 娛樂/消遣 = relaxation = recreation = pastime
 		+ diverse (adj)不同的/相異的 = heterogeneous --> diversify (v)多樣化, 多元化經營 --> diversity (mn)差異性, 一些
 		++ evolve (v)逐漸發展, 進化, 發散/排出 = give off = emit --> evolution (mn)發展/進展, 演化/進化, 排放 (n)陣形
 		- extrovert (n)個性外向的人 (adj)外向的 <--> introvert
@@ -7036,7 +7051,7 @@
 		- revolute (adj)向內卷的(葉片)
 		+ revolution (n)革命, 變革, 旋轉, 公轉 --> revolutionary (adj)大變革的, 革命的 (n)革命者
 		- revolt (v)叛亂/造反 = rebel, 使..感到噁心 (n)叛亂/造反 --> revolting (adj)噁心的/令人作嘔的 = disgusting = repulsive
-		+++ subvert (v)顛覆/推翻 --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
+		+++ subvert (v)顛覆/推翻 = overthrow --> subversive (adj)破壞性的/顛覆性的 (n)破壞分子/危險分子
 		+ /ˈvəːsətʌɪl/ versatile (adj)多才多藝的/多功能的/多方面適用的
 		* verse (mn)詩 (n)詩節 = stanza, [聖經]節 --> versify (v)作詩 --> versed (adj)[in]熟練的/精通的 = conversant
 		- /ˈvəːtɪbrə/ vertebra --> vertebrae (n)脊椎骨
@@ -7117,6 +7132,7 @@
 		- vary (v)使不同/改變, 修改 = modify
 
 	vis 看 = see
+	    - advise (v)建議/勸告 --> advisable (adj)適當的/可行的 --> advisory (adj)勸告的
 		* envision (V)想像/展望 = visualize
 		- envisage (v)構想/設想 = contemplate = conceive, 想像 
 		+ improvise (v)即興創作/即興表演 = extemporeize = vamp, 臨時做/臨時湊成 --> improvisation (mn)即興, 即興做出來的東西
@@ -7146,7 +7162,7 @@
 		- revive (v)(使)甦醒/復原/復興 = resurrect --> revival (n)甦醒/復活, 復興/再流行
 		- survive (v)倖存, 比……活得長
 		- vivacious (adj)(女性)活潑的/快活的 = sprightly = scintillating = animated
-		- vivid (adj)鮮活的/生動的, 鮮豔的/明亮的
+		- vivid (adj)鮮活的/生動的 = graphic, 鮮豔的/明亮的
 		+ vivisection (mn)活體解剖, 尖銳的批評
 		- /vʌɪˈvɛːrɪəm/ vivarium --> vivaria (n)生態缸(模擬自然生態環境的動植物飼養場所，通常是封閉或半封閉式的)
 
@@ -7240,7 +7256,7 @@
 		(n)不正常者/變異物 --> deviation (n)越軌/背離, 偏差值, 偏航
 		* devious (adj)迂迴的/會算計的, 彎曲的 
 		+ obvious (adj)明顯的/顯著的 = clear = evident = patent = palpable = conspicuous = apparent = salient = observable = prominent <|> oblivious
-		+ obviate (v)排除/消除(需要或困難) = remove = eliminate, 避免/防止 = avoid  prevent
+		+ obviate (v)排除/消除(需要或困難) = remove = eliminate, 避免/防止 = avoid = prevent
 		* pervious (adj)可滲透的 = permeable = porous = penetrable
 		+ previous (adj)以前的, [非]過早的/過急的 <|> pervious
 		+ via (prep)經由/透過/憑藉 = through = by means of
@@ -7267,8 +7283,8 @@
 		- invincible (adj)無敵的/無法戰勝的
 
 	vest 穿/衣服 = dress, cloth
-		+ divest (v)[of]剝奪 = deprive = strip, 賣掉/出售(企業資產) --> divesture, divestiture (mn)賣掉資產
-		- invest (v)投資, 投入 = devote, 授予, [with]捐贈/提供 = endow = provide, [in]授予(權力) = confer
+		+ divest (v)[of]剝奪 = deprive = strip, 賣掉/出售(企業資產) --> divesture, divestiture (mn)賣掉企業資產
+		- invest (v)投資, 投入 = devote, [with]捐贈/提供 = endow = provide, [in]授予(權力) = confer
 		+ investiture (mn)授予 = investing (n)受封儀式 <-- invest
 		+ travesty (n/v)拙劣的模仿/嘲弄/歪曲 = caricature = mockery = parody = distort
 		- vestment (n)法衣/祭衣
@@ -7276,7 +7292,7 @@
 	veter 老 = old
 		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed, 根深蒂固的 <|> invertebrate
 		- /ˈvɛt(ə)rən/ veteran (n)老手, 老兵
-		- /ˈvɛt(ə)nri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
+		- /ˈvɛtərɪnəri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
 
 	vibr 震動 = shake
 		** vibrant (adj)充滿生氣的/活躍的, 鮮豔的 = bright, 響亮的, 振動的/顫動的 = quivering = pulsating

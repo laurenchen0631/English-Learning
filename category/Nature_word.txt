@@ -20,6 +20,8 @@
 	- biodiversity (n)生物多樣性
 	- pedodiversity (n)土壤多樣性
 	- biomass (n)生物量, 生物能源
+	- subpopulation (n)亞族群/次群族
+	- adaptive radiation (n)輻射適應，從原始的一般種類演變至多種多樣、各自適應於獨特生活方式的專門物種的過程
 
 	- androgynous (adj)雌雄同體的
 	- chromosome (n)染色體
@@ -59,6 +61,8 @@
 
 	- cannibal (n)食人者, 同類相食的動物
 	- scavenger /ˈskavɪn(d)ʒə/ (n)食腐動物, 拾荒者
+	- ectotherm /ˈɛktəʊθəːm/ (n)外溫動物 --> ectothermic (adj)外溫動物的
+	- endotherm (n)內溫動物
 	- mutualism /ˈmjuːtʃʊəlɪz(ə)m/ (n)互利共生, 互助
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ (n)片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
@@ -214,9 +218,11 @@
 	- vulture /ˈvʌltʃə/ (n)禿鷹
 
 [Aquatic]
-	- plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物
+	- plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物 --> - planktonic (adj)浮游生物的
 	- phytoplankton /ˈfʌɪtəʊˌplaŋ(k)t(ə)n/ (mn)浮游植物
 	- zooplankton /ˈzuːə(ʊ)ˌplaŋ(k)t(ə)n/ (mn)浮游動物
+	- Ammonoid (n)菊石，一群已經滅絕的海洋生物總稱，約在泥盆紀早期出現在地球上，最後與恐龍、箭石等生物一起於白堊紀末期滅絕
+	- foraminifera (n)有孔蟲門，為變形蟲狀原生生物的大分類，屬於藻類
 
 	- sardine (n)沙丁魚 == A young pilchard or other young or small herring-like fish.
 	- trout /traʊt/ (n)鱒魚
@@ -225,6 +231,7 @@
 	- eel /iːl/ (n)鰻 
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
 	- salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
+	- notothenioids (n)南極魚亞目
 	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
 
 	- bottlenose dolphin (n)寬吻海豚屬
@@ -249,7 +256,7 @@
 	- atoll /ˈatɒl/ (n)環礁
 	- barnacle /ˈbɑːnək(ə)l/ (n)藤壺
 	- shellfish (n)貝類/甲殼類水生動物
-	- crustacean (n)甲殼綱動物 (adj)甲殼綱的
+	- crustacean  /krʌˈsteɪʃn/ (n)甲殼綱動物 (adj)甲殼綱的
 	- shrimp (n)蝦
 	- lobster (n)大螯蝦/龍蝦, 大螯蝦肉/龍蝦肉, 深紅色 (v)捕龍蝦
 	* mussel /ˈmʌs(ə)l/ (n)貽貝 == Any of a number of bivalve molluscs with a brown or purplish-black shell.
@@ -330,6 +337,7 @@
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)
 	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
 	- angiosperm (n)被子植物(又名開花植物或有花植物)
+	- gymnosperm /ˈdʒɪmnə(ʊ)spəːm/ (n)裸子植物 
 	- nightshade (n)茄屬植物
 	* legume /ˈlɛɡjuːm/ (n)豆科植物 --> leguminous (adj)
 	- succulent (adj)鮮美多汁的, 肉質的(植物) (n)肉質植物
@@ -339,6 +347,7 @@
 	+ lichen /ˈlʌɪk(ə)n/ (n)地衣, 苔蘚病
 	- fern (n)蕨
 	- moss (n)苔蘚
+	- horsetail (n)馬尾草/木賊屬，是蕨類植物的一屬，共有15個物種
 
 	- lily -> lilies (n)百合
 	- lavender (n)薰衣草, 淡紫色 (v)用薰衣草燻
@@ -387,7 +396,10 @@
 	- lettuce /ˈlɛtɪs/ (n)萵苣
 	- citrus /ˈsɪtrəs/ (n)柑橘
 	- broccoli /ˈbrɒkəli/ (n)西蘭花/花椰菜
-		- mustard (n)芥末/芥子, 芥菜, 棕黃色
+	- cauliflower /ˈkɒlɪflaʊə/ (n)花椰菜 
+	- brussels sprout /ˌbrʌs(ə)lz ˈspraʊt/ (n)抱子甘藍
+	- asparagus /əˈsparəɡəs/ (n)蘆筍
+	- mustard (n)芥末/芥子, 芥菜, 棕黃色
 	- pepper (n)胡椒, 胡椒粉, 辣椒, 辣椒粉 (v)灑胡椒, [be peppered with]使佈滿
 		> 胡椒粉 |A pungent hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavour food.|
 		> 胡椒 |A climbing vine with berries that are dried as black or white peppercorns.|

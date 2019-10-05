@@ -156,6 +156,7 @@
 [Physical]
 	- entropy (n)熵, 混亂/失序
 	- thermalization (n)熱化，是物理體通過相互作用達到熱平衡的過程
+	- subfreezing (adj)低於冰點的
 
 	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
 	- waveform (n)波形 

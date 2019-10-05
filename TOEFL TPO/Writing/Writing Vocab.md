@@ -1,7 +1,7 @@
 ## Popular
 + do 做 == accomplish == carry out == complete == execute == operate == undertake
 + can 可以/能 == be able to == be capable of sth 
-+ cause 導致 == invoke == lead to == bring about == give rise to == contribute to == induce == precipitate == engender == prompt 
++ cause 導致 == invoke == lead to == bring about == give rise to == contribute to == beget == engender == breed == induce == precipitate == prompt 
 + allow 允許 == let == permit == sanction == empower == be entitled to
 + show 顯示 == demonstrate == display == manifest == disclose == evince == explain == exhibit == illustrate == indicate == reveal == report == suggest == present
 + impact 影響 == affect == influence = have an effect (on sth)
@@ -14,7 +14,7 @@
 + idea 想法 == concept == notion == image == thought
 + help 幫助 == benefit == aid == assist == bolster == further == support == encourage == foster
 + bad 不好的 == execrable == inferior == faulty == awful == poor == rough = unacceptable 
-+ good 好的 == remarkable == outstanding == stellar == singular == phenomenal == sovereign == sublime == striking == exceptional == miraculous
++ good 好的 == remarkable == outstanding == stellar == singular == phenomenal == sovereign == sublime == celestial == ethereal == striking == exceptional == miraculous
 + opinion 意見 == sentiment == assessment == feeling == impression == notion == thought == viewpoint
 + important 重要的 == substantive == significant == essential == influential == consequential == critical
 + considerable 相當的 == appreciable == substantial == fair
@@ -60,7 +60,7 @@
 ## Common
 + clear 明顯的 == conspicuous == apparent == obvious == evident == prominent == pronounced
 - obscure 模糊的 == ambiguous == vague 
-- cultivate 培養 == enrich == nourish == promote == refine == foster
+- cultivate 培養 == enrich == nourish == breed == nurture == promote == refine == foster
 - employee 員工 == laborer == staff member == worker
 - colleague 同事 == coworker = associate == partner == teammate
 - working hours 工時 == workweek

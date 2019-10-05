@@ -1,5 +1,5 @@
 [A]
-	- account for
+	+ account for
 		1. 佔(數量或比例) == consist of
 			> Computers account for 5% of the country`s commercial electricity consumptions.
 		2. 解釋 == explain == give the necessary information about
@@ -10,7 +10,7 @@
 		3. 負有責任 == responsible for something and may be required to explain it
 			> The President and the President alone must account for this government`s reforms.
 				>> ... and ... alone 全權
-	- address
+	+ address (v)在……上寫收件人姓名地址, 對……說話, 向……致詞, 處理 (n)演說/致詞, 舉止/風度, 本領/技巧, 地址
 		> 在……上寫收件人姓名地址 |to mark directions for delivery on| This letter is addressed to my mother.
 		> 對……說話 |to communicate directly| He addresses his thanks to his host
 		> 向……致詞 |to speak or write directly to| The president will address the nation by television.
@@ -22,6 +22,31 @@
 		> I needed to address myself to the burst pipe in my basement—that`s why I didn`t attend the dinner party.
 		> She addressed herself to all of them. 她是針對他們大家說的。 
 		> the main problem to which it has addressed itself has been how it is possible for young children to ....
+	+ administer (v)管理/掌管, 執行/實施, 給予/提供 = dispense, 施予(懲罰) = inflict, 主持……儀式, 給予幫助
+		> 管理/掌管 |Manage and be responsible for the running of (a business, organization, etc.)| each school was administered separately
+		> 執行/實施 |Be responsible for the implementation or use of (law or resources)| a Health and Safety agency would administer new regulations
+		> 給予/提供 |Dispense or apply (a remedy or drug)| paramedic crews are capable of administering drugs
+		> 施予(懲罰) |Deal out or inflict (punishment)| retribution was administered to those found guilty
+		> 主持……儀式 |(of a priest) perform the rites of (a sacrament)| he administered the sacraments to the flock
+		> 給予幫助 |Give help or service.| we must selflessly administer to his needs
+	+ air (v)發表, 廣播, 烘乾 (n)空氣, 樣子/氣氛, 曲調
+		> 發表 |Express (an opinion or grievance) publicly.| a meeting in which long-standing grievances were aired
+		> 廣播 |Broadcast (a programme) on radio or television.| the programmes were aired on India`s state TV network
+		> 烘乾 |Warm (washed laundry) to remove dampness.| I was airing the sheets
+		> 空氣 |The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.| 
+		> 樣子/ 氣氛 |An impression of a quality or manner given by someone or something.| she answered with a faint air of boredom
+		> 曲調 |A tune or short melodious song.| traditional Scottish airs sung in the Gaelic tongue
+	- airy (adj)通風的, 輕而薄的/優美的 = delicate, 優雅的, 輕浮的
+		> 通風的 |(of a room or building) spacious, well lit, and well ventilated.| the conservatory is light and airy’
+		> 輕而薄的/優美的 |Delicate, as though filled with or made of air.| airy clouds
+		> 優雅的 |Giving an impression of light gracefulness and elegance.| her airy presence filled the house
+		> 輕浮的 |Not treating something as serious; casual.| her airy unconcern for economy
+	+ allowance (n)承認/允許, 津貼/補貼, 零用錢
+		> 承認/允許 |The amount of something that is permitted, especially within a set of regulations or for a specified purpose.| your baggage allowance
+		 in the weight that a horse is required to carry in a race.|
+		> 津貼/補貼 |A sum of money paid regularly to a person to meet needs or expenses.| the elderly receive a heating allowance every winter
+		> 零用錢 |A small amount of money given regularly to a child by their parents.|
+	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
 	- aging, ageing
 		> 老化 |The process of growing old.| the external signs of ageing
 		> 陳化/熟化 |The process of change in the properties of a material occurring over a period, either spontaneously or through deliberate action.| the judicious use of oak ageing means the wines are capable of being confused with the great French Chardonnays
@@ -43,27 +68,10 @@
 		> You have to allow for a certain amount of error.
 		> The Agency`s budget simply did not allow for such a massive increase.
 		> Finally, while the standard particle physics model - which describes all matter in terms of twelve fundamental particles and four fundamental forces - doesn`t allow for neutrinos with mass, there are theories that do.
-	+ allowance
-		> 承認/允許 |The amount of something that is permitted, especially within a set of regulations or for a specified purpose.| your baggage allowance
-		 in the weight that a horse is required to carry in a race.|
-		> 津貼/補貼 |A sum of money paid regularly to a person to meet needs or expenses.| the elderly receive a heating allowance every winter
-		> 零用錢 |A small amount of money given regularly to a child by their parents.|
 	- add
 	* add up 
 		> 漸增 |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people`s health.
 		> 看似合理 |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn`t add up.
-	- air
-		> 發表 |Express (an opinion or grievance) publicly.| a meeting in which long-standing grievances were aired
-		> 廣播 |Broadcast (a programme) on radio or television.| the programmes were aired on India`s state TV network
-		> 烘乾 |Warm (washed laundry) to remove dampness.| I was airing the sheets
-		> 空氣 |The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.| 
-		> 樣子/ 氣氛 |An impression of a quality or manner given by someone or something.| she answered with a faint air of boredom
-		> 曲調 |A tune or short melodious song.| traditional Scottish airs sung in the Gaelic tongue
-	- airy
-		> 通風的 |(of a room or building) spacious, well lit, and well ventilated.| the conservatory is light and airy’
-		> 輕而薄的/優美的 |Delicate, as though filled with or made of air.| airy clouds
-		> 優雅的 |Giving an impression of light gracefulness and elegance.| her airy presence filled the house
-		> 輕浮的 |Not treating something as serious; casual.| her airy unconcern for economy
 	- A/C 
 		> |account| 
 		> |air conditioning|
@@ -77,15 +85,7 @@
 		> 令人焦慮的 |(of a situation or period of time) causing or characterized by worry or nervousness.| there were some anxious moments
 		> 渴望的 |Very eager or concerned to do something or for something to happen.| the company was anxious to avoid any trouble
 	- aural 耳朵的/聽覺的 == Relating to the ear or the sense of hearing.
-	+ administer
-		> 管理/掌管 |Manage and be responsible for the running of (a business, organization, etc.)| each school was administered separately
-		> 執行/實施 |Be responsible for the implementation or use of (law or resources)| a Health and Safety agency would administer new regulations
-		> 給予/提供 |Dispense or apply (a remedy or drug)| paramedic crews are capable of administering drugs
-		> 施予(懲罰) |Deal out or inflict (punishment)| retribution was administered to those found guilty
-		> 主持……儀式 |(of a priest) perform the rites of (a sacrament)| he administered the sacraments to the flock
-		> 給予幫助 |Give help or service.| we must selflessly administer to his needs
 	- appliance 器具/設備 == A device or piece of equipment designed to perform a specific task.
-	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
 	- avail
 		> 有幫助/有益 |Help or benefit.| no amount of struggle availed Charles
 		> 效用/助益 |Use or benefit.| he begged her to reconsider, but to no avail
@@ -103,7 +103,16 @@
 		> The author argues for serious treatment of such arts as crochet and needlework, finding in too many art historians a cultural blindness traceable to their prejudice against textiles as a medium, in which women artist predominate.
 
 [B]
-	+ bear -> bore -> borne (v)具有/帶有, 承載, 被以..稱呼, 支撐(重量), 負責, 經受, 忍受/容忍, 生, 開花/結果, 轉向 (n)
+	+ bare /bɛː/ (adj)裸的, 光禿禿的, 空的, [of]缺乏的, 不加掩飾的/赤裸裸的, 僅最基本的, 僅僅的 (v)使赤裸/露出
+		- 裸的 |(of a person or part of the body) not clothed or covered.| he was bare from the waist up
+		- 光禿禿的 |Without the appropriate, usual, or natural covering.| leaf fall had left the trees bare
+		- 空的 |Without the appropriate or usual contents.| a bare cell with just a mattress
+		- bare of 沒有/缺乏 |Devoid of; without.| the interior was bare of plaster
+		- 不加掩飾的/赤裸裸的 |Unconcealed; without disguise.| an ordeal that would lay bare a troubled family background
+		- 僅最基本的 |Without addition; basic and simple.| he outlined the bare essentials of the story
+		- 僅僅的 |Surprisingly small in number or amount.| all you need to get started with this program is a bare 10K bytes of memory
+		- 使赤裸/露出 |Uncover (a part of the body or other thing) and expose it to view.| he bared his chest to show his scar
+	+ bear -> bore -> borne (v)具有/帶有, 承載, 被以..稱呼, 支撐(重量), 負責, 經受, 忍受/容忍, 生, 開花/結果, 轉向 (n)熊, 泰迪熊, 魯莽的人/笨拙的人, (股市)做空頭者/看跌者
 		> 帶著 |(of a person) carry| he was bearing a tray of brimming glasses
 		> 承載 |(of a vehicle or boat) convey (passengers or cargo)| steamboats bear the traveller out of Kerrerra Sound
 		> 具有/帶有 |Have or display as a visible mark or feature.| many of the papers bore his flamboyant signature
@@ -141,8 +150,10 @@
 		> 力量 |Strength or power.| he was brought in to give the team more beef
 		> 要點 |The substance of a matter.| it is more a sketch than a policy — where is the beef?
 		> 抱怨/牢騷 |A complaint or grievance.| he has a beef with education: it does not teach the basics of investing
-		> 申訴/指控 |A criminal charge.| getting caught with pot in the sixties was a narco beefㄏ
+		> 申訴/指控 |A criminal charge.| getting caught with pot in the sixties was a narco beef
 		> 抱怨 |Complain.| he was beefing about how the recession was killing the business
+	+ beef up 加強 == to make something stronger or more effective, esp. by adding more support
+		> The company has beefed up its e-mail service.
 	+ behalf (n)利益, 代表, 就..而言
 		> 利益 |In the interests of a person, group, or principle.| he campaigned on behalf of the wrongly convicted four
 		> 代表 |As a representative of.| he had to attend the funeral on Mama`s behalf 
@@ -175,16 +186,17 @@
 		> 茫然 |An empty space or period of time, especially in terms of a lack of knowledge or understanding.|
 		> 單調的 |Lacking incident or result.| those blank moments aboard airplanes
 		> 完全的 |Complete; absolute (used emphatically with negative force)| he was met with a blank refusal to discuss the issue
+	- bring -> brought -> brought 
 	+ bring about (v)使發生/導致 == to cause something to happen
 		> Harold’s working to bring about changes in the industry.
-	+ bring up 
+	+ bring up (v)照護, 教導, 談論, 嘔吐
 		> 照護 |to look after a child until he or she becomes an adult| She brought up three sons on her own.
 		> 教導 |to teach a child to behave in a particular way or to have particular beliefs|  Our parents brought us up to believe in our own abilities.
 		> 談論 |to start discussing a subject| Brown said the issue would be brought up again at the next climate convention.
 		> 嘔吐 |to make food or drink come back up from your stomach through your mouth|
 	+ build sb/sth up (v)鼓勵
 	+ build up (v)增加/把..加入
-	+ bunch
+	+ bunch (n)串/束, 一群人, 大量 (v)使成束, 使打褶, 成群, (肌肉)隆起 = bulge
 		> 串/束 |A number of things, typically of the same kind, growing or fastened together.| a bunch of grapes
 		> 使成束 |Collect or fasten into a compact group.| she bunched the needles together
 		> 使打褶 |Form or cause to form tight folds.| the bedclothes had bunched up around his waist
@@ -235,15 +247,6 @@
 		> 羽支 |Each of the fine hairlike filaments growing from the shaft of a feather, forming the vane.|
 		> 帶有觸鬚的魚 |A freshwater fish with barbels around the mouth, popular in aquaria.|
 		> 非洲馬 |A small horse of a hardy breed originally from North Africa.|
-	- bare /bɛː/ 
-		- 裸的 |(of a person or part of the body) not clothed or covered.| he was bare from the waist up
-		- 光禿禿的 |Without the appropriate, usual, or natural covering.| leaf fall had left the trees bare
-		- 空的 |Without the appropriate or usual contents.| a bare cell with just a mattress
-		- bare of 沒有/缺乏 |Devoid of; without.| the interior was bare of plaster
-		- 不加掩飾的/赤裸裸的 |Unconcealed; without disguise.| an ordeal that would lay bare a troubled family background
-		- 僅最基本的 |Without addition; basic and simple.| he outlined the bare essentials of the story
-		- 僅僅的 |Surprisingly small in number or amount.| all you need to get started with this program is a bare 10K bytes of memory
-		- 使赤裸/露出 |Uncover (a part of the body or other thing) and expose it to view.| he bared his chest to show his scar
 	- barrel /ˈbar(ə)l/ 
 		> 桶 |A cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops round them.|
 		> 放入桶中 |Put into a barrel or barrels.| when the young spirit is barrelled, it absorbs some of this flavour
@@ -257,7 +260,7 @@
 		> 一組(投資項目) |A group or range of currencies or investments.| a basket of ten currencies
 		> 籃網 |A net fixed on a hoop used as the goal.|
 		> 得分 |A goal scored.|
-	- batter
+	- batter (v)痛打, 施暴, 嚴厲批評, 凹陷 (n)麵糊, 打者, 凹陷
 		> 痛打 |Strike repeatedly with hard blows.| a prisoner was battered to death with a table leg
 		> 施暴 |Subject (one`s spouse, partner, or child) to repeated violence and assault.| the loss of his baby turned him into a domineering bully who battered his partner
 		> 嚴厲批評 |Censure, criticize, or defeat severely.| he was battered at times by critics
@@ -276,8 +279,7 @@
 	- become of == (in questions) happen to.
 		> Whatever became of that parcel you sent? 你寄出的包裹怎麼樣了？
 		> And Mickey Adams - I wonder what became of him.  還有米基‧亞當斯——不知他後來怎麼樣？
-	- beef up 加強 == to make something stronger or more effective, esp. by adding more support
-		> The company has beefed up its e-mail service.
+
 	- begin -> began -> begun
 	- benchmark
 		> 基準 |A standard or point of reference against which things may be compared.| the pay settlement will set a benchmark for other employers and workers
@@ -380,7 +382,6 @@
 	- breezy
 		> 有微風的 |Pleasantly windy.| it was a bright, breezy day
 		> 輕鬆活潑的 |Appearing relaxed, informal, and cheerily brisk.| the text is written in a breezy matter-of-fact manner
-	- bring -> brought -> brought 
 	- budding
 		> 萌芽的 |(of a plant) having or developing buds.| a budding chrysanthemum
 		> 發育期的 |(of a body part) becoming larger as part of normal growth.| her budding breasts
@@ -418,7 +419,7 @@
 		> 緩衝器 |A shock-absorbing piston projecting from a cross-beam at the end of a railway track or at the end of a railway vehicle.|
 		> |bumper race|
 		> 特大的/豐盛的 |Exceptionally large, fine, or successful.| a bumper crop
-	- bunch (sth) up/together(使)聚攏/(使)擠成一團 == to move close together to form a tight group
+	- bunch (sth) up/together (使)聚攏/(使)擠成一團 == to move close together to form a tight group
 		> The monkeys bunched together in their cage.
 		> We were all bunched up at the back of the room.
 	- burn -> burnt -> burnt
@@ -872,6 +873,7 @@
 	- cross out 劃掉 == to draw an X or a line through writing because it is wrong or because you have decided to write something else
 		> Just cross out the old address.
 		> I could see where he had crossed things out
+	- cross section (n)剖面
 	- crumple
 		> 弄皺/壓皺 |Crush (something, typically paper or cloth) so that it becomes creased and wrinkled.|
 		> 皺折 |A crushed fold, crease, or wrinkle.|
@@ -1536,7 +1538,7 @@
 	- follow-up 後續 == a further action connected with something that happened before
 		> This meeting is a follow-up to the one we had last month.
 	- folk /fəʊk/ (n)人們, 人群, 家族, 民間音樂 (adj)民間的/通俗的, 民眾的, 民間音樂的
-	+ foul
+	+ foul (adj)惡臭的, 邪惡的/不道德的, 下流的, 違規的, 受污染的, 阻塞的, 妨礙比賽 (v)犯規, 污染, 潮濕多雨的
 		> 令人噁心的 |Offensive to the senses, especially through having a disgusting smell or taste or being dirty.| a foul odour
 		> 令人不快的 |Very disagreeable or unpleasant.| the news had put Michelle in a foul mood
 		> 邪惡的/不道德的 |Wicked or immoral.| murder most foul
@@ -1553,6 +1555,7 @@
 		> 污染 |Make foul or dirty; pollute.|
 		> foul with 堵塞的 |Clogged or choked with.| the land was foul with weeds
 		> 暴風雨的/惡劣的 |(of the weather) wet and stormy.| he walked in fair and foul weather
+	- fountain /ˈfaʊntɪn/ (n)噴泉, 泉水, 源泉/根源 (v)像噴泉一樣噴或流出
 	* frame
 		> 框 |A rigid structure that surrounds something such as a picture, door, or windowpane.|
 		> 表筐 |Place (a picture or photograph) in a frame.| he had had the photo framed
@@ -1662,6 +1665,11 @@
 		> 突然發出巨響 |If a warning device goes off, it starts to ring loudly or make a loud noise.| The alarm should go off automatically as soon as smoke is detected.
 		> 離開 |to leave a place and go somewhere else| She`s gone off on holiday with Tony.
 		> 發生/進展 |to happen in a particular way| The protest march went off peacefully.
+	- go out
+		- 外出 |to leave a room or building, especially in order to do something for entertainment| Please close the door as you go out.
+		- 談戀愛 |to have a romantic and usually sexual relationship with someone| How long have you been going out with him?
+		- 退潮/落潮 |If the tide goes out, it moves back and covers less of the beach.|
+		- 熄滅 |If a light or something that is burning goes out, it stops producing light or heat.| When I woke up the fire had gone out.
 	- great
 	- gradient /ˈɡreɪdɪənt/ 
 		> 斜坡 |An inclined part of a road or railway; a slope.| ‘fail-safe brakes for use on steep gradients
@@ -4546,6 +4554,10 @@
 		> Kushner has been talking up his immigration plan with the aid of a PowerPoint presentation, which detractors have derided as laughably simplistic.
 
 	- take -> took -> taken
+	- take off
+		- 起飛/飛起 |If an aircraft, bird, or insect takes off, it leaves the ground and begins to fly.| The plane took off at 8.30 a.m.
+		- 突然開始成功/開始走紅 |to suddenly start to be successful or popular| Her singing career had just begun to take off.
+		- 突然離開 |to suddenly leave somewhere, usually without telling anyone that you are going| When he saw me, he took off in the other direction. 
 	- take over == capture == seize
 		> Competitors may take over an organism`s living space.
 	- take up

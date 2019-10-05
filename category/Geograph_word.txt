@@ -16,13 +16,13 @@
 	- ice cap (n)冰帽，一塊巨型的圓頂狀冰，覆蓋少於50000km²的陸地面積
 	- crevasse /krɪˈvas/ (n)冰河裂縫
 	- basal slip (n)基底滑動
-	+ tundra /ˈtʌndrə/ (n)苔原/凍土地帶 
 	- permafrost (n)永凍土 == A thick subsurface layer of soil that remains below freezing point throughout the year, occurring chiefly in polar regions.
 	- snowdrift (n)被風刮在一起的雪堆
 
+	+ tundra /ˈtʌndrə/ (n)苔原/凍土地帶 
 	- steppe (n)大草原/乾草原 == A large area of flat unforested grassland in south-eastern Europe or Siberia.
 	- savanna /səˈvanə/ (n)熱帶大草原 == A grassy plain in tropical and subtropical regions, with few trees.
-	- prairie /ˈprɛːri/ (n)大草原
+	+ prairie /ˈprɛːri/ (n)大草原
 	- meadow (n)草地
 	- scrubland (n)灌木叢林地
 

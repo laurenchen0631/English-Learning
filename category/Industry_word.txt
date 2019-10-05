@@ -630,6 +630,8 @@
 	- hoe (n)鋤/鋤頭 (v)鋤, [into]抨擊
 	- livestock (mn)家畜 == Farm animals regarded as an asset.
 	- dung (n)動物糞便 (v)施肥
+	- lard (mn)豬油 (v)將肥豬肉片嵌於, 塗豬油於, [be larded with]潤色/點綴
+	- tallow (n)獸脂
 	- graziers /ˈɡreɪzɪə/ 畜牧業者 == A person who rears or fattens cattle or sheep for market.
 	+ nomad (n)遊牧民 --> /nəʊˈmadɪk/ nomadic (adj)遊牧的 == wandering
 	- herder (n)牧人 == A person who looks after a herd of livestock or makes a living from keeping livestock, especially in open country.
@@ -668,6 +670,7 @@
 		> 西葫蘆/南瓜 |An edible gourd, the flesh of which may be cooked and eaten as a vegetable.|
 	- cheese strainer (n)奶酪過濾器
 	- paddy, padi (n)稻田, 米
+	- bluestem (n)草原地帶的牧草
 	- sickle (n)鐮刀 == A short-handled farming tool with a semicircular blade
 	- pest (n)害蟲, 討厭的人/麻煩精
 	- enclosure movement (n)圈地運動(在12到19世紀，在以英國為代表的歐洲出現了所謂的圈地運動，土地所有權集中於國王或取得羅馬教廷承認的皇帝，以及教會，另有少量屬自由民私有。以納稅和提供兵役為條件分封於領主，而後又按各級契約依次分配於總佃戶，佃戶)
@@ -1798,6 +1801,7 @@
 	- hut
 		> 簡陋的小屋 |A small, simple, single-storey house or shelter.|
 		> 使住在小屋中 |Provide with huts.| it will be advisable to hut the troops, for their protection during the cold season
+	- front room == living room (n)客廳
 	- detergent 洗潔劑
 	- spinster 老處女 == An unmarried woman, typically an older woman beyond the usual age for marriage.
 	- cat lady == A old woman who usually lives secluded from society with her hundreds of cats. 
@@ -1840,6 +1844,7 @@
 	- thermostat 恆溫器
 	- utensil /juːˈtɛnsəl/ 用具 == A tool, container, or other article, especially for household use.
 	- display case (n)陳列櫃
+	- electric heater (n)電熱器
 
 [Structure]
 	- housing (mn)房屋/住宅 (n)遮蔽物/遮蓋物
@@ -1971,6 +1976,7 @@
 	- cabin (n)客艙, 小木屋 (v)關在小地方
 	- grotto (n)洞穴/石室
 	- mason (n)石匠/泥水匠, 共濟會成員 (v)用石砌
+	- maze /meɪz/ (n)迷宮, 困惑/混亂 <--> maize /meɪz/
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的

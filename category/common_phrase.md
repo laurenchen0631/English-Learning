@@ -173,6 +173,8 @@
 	- Gasoline prices rose in step with oil prices.
 	
 ## Denial
+- turn sth on one's head 顛覆/顛倒 == to cause something to be the opposite of what it was before
+	- These new findings turn the accepted theories on their head.
 
 ## Question
 - cast doubt on sth/sb 使人質疑 
@@ -199,7 +201,6 @@
 	- We capped off a wonderful evening with birthday cheesecake.
 - go down in history 名留青史 
 	- He’ll go down in history as one of our finest leaders.
-
 
 ## Talk
 - drive/hammer sth home 把…講清楚/使人完全明白 == to say something clearly and with a lot of force so that you are certain people understand it
