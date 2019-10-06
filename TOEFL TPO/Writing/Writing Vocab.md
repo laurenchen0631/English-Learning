@@ -82,7 +82,7 @@
 - disappear 消失 == dissolve == evanesce == vanish == wear off == retreat == fade
 - friend 朋友 == partner == intimate == companion == ally == buddy
 - beneficial 有益的 == favorable == advantageous == good
-- possible 可能的  == accessible == achievable == feasible == imaginable == potential == probable == accessible
+- possible 可能的 == viable == feasible == potential == workable == practicable == accessible == achievable == imaginable == probable == accessible
 - impossible 不可能的 == impractical == inaccessible == unattainable == unreasonable == hopeless 
 - care 關心 == pay attention to == cherish
 - smart 聰明的 == intelligent == brilliant == creative == perceptive == resourceful 

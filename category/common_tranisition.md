@@ -86,10 +86,11 @@
 - according to 根據/按照
 	- Please arrange the books according to size. 
 	- According to Garrett, another helpful tool is hemostatic gauze, an advanced dressing that contains an agent to promote blood clotting and thus, stop the bleeding.
-+ concerning == regarding == with regard/respect to == in respect of/to == with reference to == as for == about 關於
++ concerning == regarding == apropos of == with regard/respect to == in respect of/to == with reference to == as for == about 關於
 	- We are given little information concerning matters of national security
 	- Regarding your work, I do not have much to say
 	- your recent letter regarding the above proposal
+	- she remarked apropos of the initiative, ‘It's not going to stop the abuse’
 	- With regard to your suggestion I will consider it carefully. 
 	- I have nothing to say with regard to your complaints. 
 	- The two groups were similar with respect to age, sex, and diagnoses.
@@ -216,6 +217,10 @@
 	- Much as I would like to help you, I'm simply too busy at the moment.
 	- We went swimming in spite of rain.
 	- Even though he was bigger, he never looked down on me.
++ **notwithstanding** 儘管/還是
+	- Notwithstanding the bad weather, the match went on. 
+	- Notwithstanding he tried hard, he failed in chemistry
+	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
 + albeit == in spite of (the fact that) == despite (the fact that) == even so 即使
 	- He was making progress, albeit rather slowly
 	- The cure for the disease is effective, albeit expensive. 
@@ -257,10 +262,6 @@
 	- statements which, although literally true, are nevertheless misleading
 	- the rally, which the government had declared illegal, was nonetheless attended by some 6,000
 	- People tend to put on weight in middle age. However, gaining weight is not inevitable
-+ **notwithstanding** 儘管/還是
-	- Notwithstanding the bad weather, the match went on. 
-	- Notwithstanding he tried hard, he failed in chemistry
-	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
 - (and) yet == but 但是 
 	- the path was dark, yet I slowly found my way
 + instead 替代/反而
@@ -416,6 +417,10 @@
 	- We'll be there at about 7.30, provided that there's a suitable train.
 - **only if** 只有..才會..
 	- I will do it for you only if you ask me nicely.
++ the more ... the more/less 越...就越...
+	- The more fruit and vegetables you eat, the less chance you have of getting cancer.
+	- The more I thought about Carrie’s suggestion, the more doubtful I became.
+	- The more historians have learned about the changes caused by the railroad, the less maniac, the more reasonable or at least understandable, that initial mania has come to seem.
 
 ## Time
 + at the outset 起初/一開始
@@ -446,13 +451,15 @@
 - in the past
 - at that point in time == At a particular moment in the past
 	- It gets people to share what their priorities in life are at that point in time
-- **as soon as** == **when** == **once** == **by the time** 一...就.../一旦
+- **as soon as** == **when** == **once** == **by the time** == **the second (that)** 一...就.../一旦
 	- He left as soon as he heard the news.
 	- I'll tell him as soon as I see him.
 	- Once you get into a bad habit, you'll find it hard to get out of it. 
 	- Once the grapes were pressed, the juice was put into barrels
 	- By the time we got to the station, the train had already left. 
 	- By the time you get there it will be dark.
+	- The second I saw him, I knew he was going to be a star.
+	- The second that I think about my response, I’m half listening to what you’re saying because I’m really waiting for the opportunity to tell you my story.
 - **no sooner/scarcely/hardly ... than ...** 當/就
 	- No sooner had we left the village than it began to rain.
 	- Scarcely was the work completed than it was abandoned.

@@ -4,7 +4,6 @@
 	- calorie (n)卡路里 == 4.184 J(焦耳)
 	- faraday (n)法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
 
-
 	- liter (n)公升
 	- kiloliter (n)公秉
 	- quart (n)夸脫(約為一加侖或兩品脫) == 0.94 litre
@@ -21,11 +20,10 @@
 
 	- square foot (n)平方英尺
 	- are (n)公畝 == 100 square meters == 119.6 square yards
-	- acre(n) /ˈeɪkə/(n)英畝 == 0.405 hectare
+	- acre (n) /ˈeɪkə/(n)英畝 == 0.405 hectare
 	- hectare /ˈhɛktɛː/ (n)公頃 == 100 ares
 	- acreage (n)英畝數 == An area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
 
-	- dozen (n)十二個 == twelve
 	+ millennium (n)千年 == A period of a thousand years --> millennial (adj)千年的, 千禧年的 (n)千禧年的的人
 	- biweekly (ADJ/ADV)一週兩次的, 雙週的 (n)雙週刊, 半週刊
 	- C.E. == Common Era (n)西元
@@ -36,14 +34,12 @@
 	- Celsius 攝氏 /ˈsɛlsɪəs/ 
 	- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
 
-
 [Law/Theory/Study]
 	- hypothesis (n)假說 <--> hypocrisy
 
 	- Murphy’s law (n)墨菲定律，具體內容是「凡是可能出錯的事就一定會出錯」
 	- Milgram`s obedience studies == Milgram experiment (n)米爾格倫實驗，又稱權力服從研究，這個實驗的目的，是為了測試受測者，在面對權威者下達違背良心的命令時，人性所能發揮的拒絕力量到底有多少。
 	- the Malcolm Gladwell rule == 10,000-Hour Rule (n)一萬小時的法則，這原本是在1990年代由Anders Ericsson等人首創的概念，他們認為這個通則，適用於各行各業的任何領域，學習某一特殊技術或專長沒有捷徑，不斷的練習與後天的努力才是成功的關鍵。
-	- epigenetics (n)表觀遺傳學
 	- rule of thumb (n)經驗法則，是一些廣為應用的原則，但本身有經過簡化，不保證在所有的情形下都可靠，或者都有準確的結果
 
 	- heliocentric theory (n)地動說，也稱為日心說，是關於天體運動的和天動說相對立的學說，它認為太陽是宇宙的中心，而不是地球
@@ -54,14 +50,12 @@
 	- Doppler effect == Doppler shift (n)都卜勒效應，是波源和觀察者有相對運動時，觀察者接受到波的頻率與波源發出的頻率並不相同的現象
 	池，因電化學作用造成的金屬腐蝕現象。
 
-
 [Equipment]
 	- pipette (n)移液器 (v)用移液器吸取
 	- fume hood (n)通風櫥/排氣罩
 	- beaker (n)大杯子, 燒杯
 	- broth (n)湯, 培養液
 	- vial (n)小玻璃管 == A small container, typically cylindrical and made of glass, used especially for holding 
-	- satellite /ˈsatəlʌɪt/ (n)衛星
 	- transponder (n)轉發器 == A device for receiving a radio signal and automatically transmitting a different signal.
 	- centrifuge /ˈsɛntrɪfjuːdʒ/ (n)離心機 (v)使受離心作用, 用離心機分離
 	- dropper (n)滴管
@@ -264,7 +258,7 @@
 	- intestinal tract (n)腸道
 	- small intestine == small bowel (n)小腸 
 	- large intestine  == large bowel (n)大腸
-	- anus/ˈeɪnəs/ (n)肛門
+	- anus /ˈeɪnəs/ (n)肛門
 	- colon /ˈkəʊlən/ (n)結腸, 冒號
 		> 冒號 |A punctuation mark (:) used to precede a list of items, a quotation, or an expansion or explanation.|
 		> 結腸 |The main part of the large intestine, which passes from the caecum to the rectum and absorbs water and electrolytes from food which has remained undigested.|
@@ -303,7 +297,7 @@
 		> 胃/食慾 |The stomach, especially as representing the body`s need for food.| they`ll fight all the better on empty bellies
 		> 下側 |The underside of a bird or other animal.| grasses were said to have been tall enough to brush the bellies of horses
 		> 豬肚 |A pig`s belly as food, especially as a traded commodity.|
-	- thigh /θʌɪ/ (n)股/大腿,  股節/腿部
+	- thigh /θʌɪ/ (n)股/大腿, 股節/腿部
 		> 股/大腿 |The part of the human leg between the hip and the knee.|
 		> 股節/腿部 |The body part in other animals that corresponds to the human thigh.| One young bird, handled after wandering, readily disgorged a leg and thigh of a former brother or sister.
 	- groin (n)腹股溝/鼠蹊部
@@ -316,7 +310,7 @@
 	- the cones (n)視錐
 	- taste bud (n)味蕾
 	- the spinal cord (n)脊髓
-	- cortex (n)腦皮層, 皮層/皮質, 厚皮/樹皮
+	+ cortex (n)腦皮層, 皮層/皮質, 厚皮/樹皮
 		> 腦皮層 |The outer layer of the cerebrum (the cerebral cortex), composed of folded grey matter and playing an important role in consciousness.|
 		> 皮層/皮質 |An outer layer of another organ or body part such as a kidney (the renal cortex), the cerebellum, or a hair.|
 		> 厚皮/樹皮 |An outer layer of tissue immediately below the epidermis of a stem or root.|
@@ -359,6 +353,7 @@
 	- astronomer (n)天文學家== An expert in or student of astronomy.
 	- equinox (n)分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
 	- splashdown (n)濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+	- satellite /ˈsatəlʌɪt/ (n)衛星
 
 	- ecliptic (n)黃道 (adj)黃道的
 	- axial tilt /ˈaksɪəl tɪlt/ (n)轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)

@@ -1,5 +1,5 @@
 [General]
-	+ species (n)物種, 種/類 = sort = kind --> - /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
+	+ species (n)物種, 種/類 = sort = kind --> - /ˌspiːʃɪˈeɪʃ(ə)n/ speciation (n)物種形成
 	+ spawn /spɔːn/ (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲 <--> spore /spɔː/ 
 		> 產卵 |(of a fish, frog, mollusc, crustacean, etc.) release or deposit eggs.| the fish spawn among fine-leaved plants
 		> 卵 |The eggs of fish, frogs, etc.| the fish covers its spawn with gravel
@@ -32,8 +32,9 @@
 	- neuron (n)神經元 == A specialized cell transmitting nerve impulses; a nerve cell. 
 	- genome (n)基因組
 	- genotype (n)遺傳型/基因型 (V)調查..的基因型
+	- epigenetics (n)表觀遺傳學
 	- embryo (n)胚胎 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
-	- cellular /ˈsɛljʊlə/ 
+	- cellular /ˈsɛljʊlə/ (adj)細胞的/細胞組成的, 蜂巢式網路的, 蜂巢狀的, 很多小房間組成的
 		> 細胞的/細胞組成的 |Relating to or consisting of living cells.| cellular proliferation
 		> 蜂巢式網路的 |Denoting or relating to a mobile telephone system that uses a number of short-range radio stations to cover the area that it serves, the signal being automatically switched from one station to another as the user travels about.|
 		> 蜂巢狀的 |(of a fabric item, such as a blanket or vest) knitted so as to form holes or hollows that trap air and provide extra insulation.|
@@ -48,14 +49,14 @@
 	- membrane /ˈmɛmbreɪn/ (n)膜 --> membranous
 	- eyespot (n)眼狀斑點
 	- snout /snaʊt/ (n)口鼻部, 鼻子 (n)菸草, 螟蛾 = snout moth
-	- sac (n)囊 == A hollow, flexible structure resembling a bag or pouch.
+	+ sac (n)囊 == A hollow, flexible structure resembling a bag or pouch.
 	- hoof /huːf/ (n)蹄 (v)踢, 步行, 跳舞
 	- hind leg (n)後腿
 	- papilla /pəˈpɪlə/ --> papillae (n)乳突 == A small rounded protuberance on a part or organ of the body.
 	- saliva (n)涎/唾液
 
 	- larva /ˈlɑːvə/ -> larvae (n)幼蟲/幼體 <--> /ˈlʌvə/ lover
-	- nymph (n)居於山林水澤的仙女, 美麗的少女, 蛹
+	- nymph /nɪmf/ (n)居於山林水澤的仙女, 美麗的少女, 蛹
 	- pupa /ˈpjuːpə/ --> pupae (n)蛹
 	- hatchling (n)剛孵出的卵生動物
 
@@ -76,6 +77,7 @@
 	- Proteus /ˈprəʊtɪəs/ (n)普羅透斯(希臘神話中的一個早期海神), 變形桿菌屬
 	- cyanobacteria /ˌsʌɪənəʊbakˈtɪərɪə/ (n)藍菌門/藍綠藻(是一類能透過光合作用獲取能量的細菌，但有些也能透過異營來獲取能量)
 	- rhizobium /rʌɪˈzəʊbɪəm/ (n)根瘤菌 <-- rhizo = root + bi = life + um
+	- hypha /ˈhʌɪfə/ --> hyphae (n)菌絲
 
 [Animal]
 	- cub (n)幼獸 (v)生, 獵捕
@@ -96,11 +98,11 @@
 	- hadrosaur (n)鴨嘴龍
 	- Coelophysis (n)腔骨龍屬，又名虛形龍，是北美洲的小型、肉食性、雙足恐龍
 	- Edmontosaurus (n)埃德蒙頓龍屬，是鴨嘴龍科下的一屬恐龍
-	- mammoth /ˈmaməθ/ (n)長毛象/猛獁象
+	+ mammoth /ˈmaməθ/ (n)長毛象/猛獁象
 	- woolly mammoth (n)真猛瑪象
 	- mastodon /ˈmastədɒn/ (n)乳齒象
 	- rhino /ˈrʌɪnəʊ/ (n)犀牛 == rhinoceros /rʌɪˈnɒsərəs/
-	- lynx /lɪŋks/ (n)山貓
+	+ lynx /lɪŋks/ (n)山貓
 	- wolverine (n)貂熊
 	+ sloth /sləʊθ/ (n)懶散/怠惰 = indolence, 樹懶, 熊群
 	- grizzly == grizzly bear (n)灰熊 == An animal of a large race of the brown bear native to North America.
@@ -111,11 +113,11 @@
 	- bactrian camel (n)雙峰駱駝
 	- dromedary /ˈdrɒmɪd(ə)ri/ (n)單峰駱駝
 
-	- elk (n)駝鹿/麋鹿/美洲赤鹿 
+	+ elk (n)駝鹿/麋鹿/美洲赤鹿 
 	- llama /ˈlɑːmə/ (n)大羊駝
 	- alpaca /alˈpakə/ (n)羊駝
 	- reindeer /ˈreɪndɪə/ (n)馴鹿
-	- caribou /ˈkarɪbuː/ (n)北美馴鹿 == North American reindeer
+	+ caribou /ˈkarɪbuː/ (n)北美馴鹿 == North American reindeer
 	- gazelle (n)瞪羚
 	- moose (n)駝鹿
 
@@ -153,6 +155,7 @@
 
 [Insect]
 	+ entomologist (n)昆蟲學家
+	- Pseudomyrmex (n)擬家蟻屬
 
 	- worm /wəːm/ (n)蟲, 蚯蚓 = earthworm, 寄生蟲, 蛀蟲, 蛆 = maggot, 卑鄙小人/鼠輩 (v)使緩慢前進, 使蠕動, [one`s way into]潛行/鑽入, [out of]千方百計獲取, 驅除…體內的寄生蟲 <--> /wɔːm/ warm
 	- caterpillar (n)毛毛蟲/蝶或蛾的幼蟲
@@ -162,15 +165,13 @@
 	- hornet (n)大黃蜂
 	- bumblebee (n)雄蜂/大黃蜂
 	- honey bee (n)蜜蜂
-	- termite /ˈtəːmʌɪt/ (n)白蟻
+	* termite /ˈtəːmʌɪt/ (n)白蟻
 	- borer /ˈbɔːrə/ (n)蟲/蛀蟲, 鑽孔器
 	- flea (n)跳蚤
-	- centipede /ˈsɛntɪpiːd/ (n)蜈蚣
-	- mosquito /mɒˈskiːtəʊ/ (n)蚊
+	* centipede /ˈsɛntɪpiːd/ (n)蜈蚣
+	* mosquito /mɒˈskiːtəʊ/ (n)蚊
 	- tsetse /ˈtsɛtsi/ = tsetse fly (n)舌蠅/采采蠅
 	- trilobite (n)三葉蟲
-	- Pseudomyrmex (n)擬家蟻屬
-
 	- tapeworm (n)絛蟲
 
 [Bird]
@@ -188,17 +189,16 @@
 	- cassowary (n)鶴鴕 == A very large flightless bird related to the emu, with a bare head and neck, a tall horny crest, and one or two coloured wattles. It is native mainly to the forests of New Guinea.
 	- kiwi (n)奇異鳥/鷸鴕 == A flightless New Zealand bird with hairlike feathers, having a long downcurved bill with sensitive nostrils at the tip.
 	- rhea (n)美洲鴕 == A large flightless bird of South American grasslands, resembling a small ostrich with greyish-brown plumage.
-	- ostrich /ˈɒstrɪtʃ/ (n)鴕鳥
+	+ ostrich /ˈɒstrɪtʃ/ (n)鴕鳥
 	- dodo (n)渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
 
-	- brush turkey (n)刷火雞/磨砂火雞/灌木火雞
 
-	- seagull (n)海鷗
+	+ seagull (n)海鷗
 	- pelican (n)鵜鶘
 	- puffin (n)海鸚鵡
 	- shorebird (n)涉禽/水鳥
 	- plover /ˈplʌvə/ (n)鴴(一種短尾長腿鳥，主要棲息於海邊或草地)
-	- crane (n)鶴, 起重機/吊車 (v)伸(頸), 用起重機起吊
+	+ crane (n)鶴, 起重機/吊車 (v)伸(頸), 用起重機起吊
 	- drake (n)公鴨, 蜉蝣類
 	- geese (n)鵝
 	- eider /ˈʌɪdə/ (n)絨鴨/歐絨鴨
@@ -207,59 +207,59 @@
 
 	- eagle /ˈiːɡ(ə)l/ (n)鷹
 	- crow /krəʊ/ (n)烏鴉, 啼叫聲, 歡呼聲 (V)(公雞)啼, 誇耀/誇口 
-	- passenger pigeon (n)旅鴿
+	+ passenger pigeon (n)旅鴿
 	- parrot (n)鸚鵡 (v)機械式地模仿
 	- parakeet, parrakeet /ˈparəkiːt/ (n)長尾小鸚鵡 == A small parrot with predominantly green plumage and a long tail.
 	- tern (n)燕鷗
-	- wood thrush (n)木畫眉
-	* warbler (n)刺嘴鶯/鶯
+	+ wood thrush (n)木畫眉
+	+ warbler (n)刺嘴鶯/鶯
 	- blackcap (n)黑頭鶯 = blackcap warbler
 	- lesser spear-nosed bat (n)小鼻長矛蝙蝠
-	- vulture /ˈvʌltʃə/ (n)禿鷹
+	* vulture /ˈvʌltʃə/ (n)禿鷹
+	- brush turkey (n)刷火雞/磨砂火雞/灌木火雞
 
 [Aquatic]
-	- plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物 --> - planktonic (adj)浮游生物的
+	+ plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物 --> - planktonic (adj)浮游生物的
 	- phytoplankton /ˈfʌɪtəʊˌplaŋ(k)t(ə)n/ (mn)浮游植物
 	- zooplankton /ˈzuːə(ʊ)ˌplaŋ(k)t(ə)n/ (mn)浮游動物
 	- Ammonoid (n)菊石，一群已經滅絕的海洋生物總稱，約在泥盆紀早期出現在地球上，最後與恐龍、箭石等生物一起於白堊紀末期滅絕
 	- foraminifera (n)有孔蟲門，為變形蟲狀原生生物的大分類，屬於藻類
 
 	- sardine (n)沙丁魚 == A young pilchard or other young or small herring-like fish.
-	- trout /traʊt/ (n)鱒魚
+	+ trout /traʊt/ (n)鱒魚
 	- catfish (n)鯰魚
 	- sturgeon /ˈstəːdʒ(ə)n/ (n)鱘 
 	- eel /iːl/ (n)鰻 
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
-	- salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
+	+ salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
 	- notothenioids (n)南極魚亞目
 	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
 
 	- bottlenose dolphin (n)寬吻海豚屬
-	- orca (n)虎鯨/殺人鯨 == killer whale
+	+ orca (n)虎鯨/殺人鯨 == killer whale
 	- porpoise (n)江豚
-
-	- cetacean /sɪˈteɪʃn/ (n)鯨類動物 (adj)鯨類的
+	+ cetacean /sɪˈteɪʃn/ (n)鯨類動物 (adj)鯨類的
 	- Ambulocetus /ˌambjʊlə(ʊ)ˈsiːtəs/ == Ambulocetus natans (n)走鯨
 	- Basilosaurus /ˌbasɪlə(ʊ)ˈsɔːrəs/ (n)龍王鯨
 	- humpback (n)座頭鯨
 	- beluga whale (n)白鯨
-	- sperm whales (n)抹香鯨，是世界上最大的齒鯨
+	+ sperm whales (n)抹香鯨，是世界上最大的齒鯨
 	- baleen whales /bəˈliːn/ (n)鬚鯨
 	- blowhole (n)鯨魚噴水孔
-	+ fluke 鯨魚尾鰭
+	* fluke 鯨魚尾鰭
 	- baleen (n)鯨鬚 == whalebone
 
-	- coral (n)珊瑚, 紅珊瑚, 珊瑚蟲, 龍蝦卵
-	- coral-reef (n)珊瑚礁
+	+ coral (n)珊瑚, 紅珊瑚, 珊瑚蟲, 龍蝦卵
+	+ coral-reef (n)珊瑚礁
 	- fringing reef (n)邊緣礁
 	- barrier reef (n)堡礁
 	- atoll /ˈatɒl/ (n)環礁
 	- barnacle /ˈbɑːnək(ə)l/ (n)藤壺
 	- shellfish (n)貝類/甲殼類水生動物
-	- crustacean  /krʌˈsteɪʃn/ (n)甲殼綱動物 (adj)甲殼綱的
+	+ crustacean  /krʌˈsteɪʃn/ (n)甲殼綱動物 (adj)甲殼綱的
 	- shrimp (n)蝦
 	- lobster (n)大螯蝦/龍蝦, 大螯蝦肉/龍蝦肉, 深紅色 (v)捕龍蝦
-	* mussel /ˈmʌs(ə)l/ (n)貽貝 == Any of a number of bivalve molluscs with a brown or purplish-black shell.
+	+ mussel /ˈmʌs(ə)l/ (n)貽貝 == Any of a number of bivalve molluscs with a brown or purplish-black shell.
 	- spat (n)貝苗, 鞋罩, 小爭吵 (v)爭吵
 		> 鞋罩 |A short cloth gaiter covering the instep and ankle.|
 		> |A cover for the upper part of an aircraft wheel.|
@@ -268,17 +268,17 @@
 		>  |The spawn or larvae of shellfish, especially oysters.|
 	- mother-of-pearl == nacre (n)珍珠母，是一種由軟體動物所產生的有機及無機混合物，做為該動物貝殼的內層物質
 	- clam /klam/ (n)蛤/蛤蜊/蚌, [非]一元/一塊錢 (v)撈蛤/挖蛤, [非]閉嘴不言/保持沉默
-	- octopus /ˈɒktəpəs/ (n)章魚
+	+ octopus /ˈɒktəpəs/ (n)章魚
 	- squid (n)烏賊
 
-	- tadpole /ˈtadpəʊl/ (n)蝌蚪 == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
-	- alligator (n)短吻鱷 == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
+	+ tadpole /ˈtadpəʊl/ (n)蝌蚪 == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
+	+ alligator (n)短吻鱷 == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
 	- caiman, cayman (n)鱷魚
 	* beaver (n)河狸/海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.
 	- walrus (n)海象
-	- hippopotamus /ˌhɪpəˈpɒtəməs/ == hippos (n)河馬
+	+ hippopotamus /ˌhɪpəˈpɒtəməs/ == hippos (n)河馬
 	- gosling /ˈɡɒzlɪŋ/ (n)小鵝 == a young goose
-	- otter (n)水獺
+	+ otter (n)水獺
 	- sea otter (n)海獺
 	- penguin /ˈpɛŋɡwɪn/ (n)企鵝 == A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.
 	- tortoise (n)陸龜
@@ -288,16 +288,16 @@
 	- grove (n)樹叢/小樹林 == A small wood or other group of trees.
 	- tree shoot (n)樹芽
 
-	- conifer (n)針葉樹 == A tree that bears cones and needle-like or scale-like leaves that are typically evergreen.  
+	+ conifer (n)針葉樹 == A tree that bears cones and needle-like or scale-like leaves that are typically evergreen.  
 	- cypress (n)柏 == An evergreen coniferous tree with small rounded woody cones and flattened shoots bearing small scale-like leaves.
 	- juniper (n)杜松 == An evergreen shrub or small tree that bears berrylike cones, widely distributed throughout Eurasia and North America.
 	- hazel (n)榛木, 紅棕色/綠棕色(形容眼睛)
 	- cedar /ˈsiːdə/ (n)雪松/香柏 == Any of a number of conifers which typically yield fragrant, durable timber.
-	- oak (n)橡樹/櫟樹
+	+ oak (n)橡樹/櫟樹
 	- maple (n)楓樹/槭樹
 	- beech	/biːtʃ/ (n)山毛櫸
 	- red alder (n)紅榿樹
-	- birch (n)樺木
+	+ birch (n)樺木
 	- spruce (n)雲杉 (adj)整潔的(儀容) = neat
 	- yew /juː/ (n)紫杉
 	- sequoia (n)紅杉 == A redwood tree
@@ -309,15 +309,14 @@
 	- pomegranate /ˈpɒmɪɡranɪt/ (n)石榴, 石榴樹
 	- acacia ==  acacia tree (n)相思樹屬
 
-
 [Plant]
 	- greenery (n)綠色植物 == Green foliage, growing plants, or vegetation.
 	- leafy green (n)綠葉蔬菜
-	- herb /ˈərb/, /həːb/ (n)草本植物 == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
+	+ herb /ˈərb/, /həːb/ (n)草本植物 == Any plant with leaves, seeds, or flowers used for flavouring, food, medicine, or perfume
 	- herbaceous (adj)草本的
-	- understory (n)下層植物
-	- vegetation (mn)植物/草木, 呆板單調的生活
-	* shrub (n)灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
+	+ understory (n)下層植物
+	+ vegetation (mn)植物/草木, 呆板單調的生活
+	+ shrub (n)灌木 == A woody plant which is smaller than a tree and has several main stems arising at or near the ground.
 
 	- calyx (n)花萼
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
@@ -328,18 +327,17 @@
 	- chlorophyll /ˈklɔːrəfɪl/ (n)葉綠素
 	- anthocyanin (n)花青素
 	- petiole (n)葉柄, 肉莖
-	- mycorrhiza /ˌmʌɪkə(ʊ)ˈrʌɪzə/ (n)菌根 --> mycorrhizal (adj)菌根的
-	- hypha /ˈhʌɪfə/ --> hyphae (n)菌絲
+	- mycorrhiza /ˌmʌɪkə(ʊ)ˈrʌɪzə/ (n)菌根(維管植物的根與真菌組成的共生關係體) --> mycorrhizal (adj)菌根的
 	- fibrous (adj)纖維的/纖維狀的
 	- latex (n)乳膠 == A milky fluid found in many plants, such as poppies and spurges, which exudes when the plant is cut and coagulates on exposure to the air. The latex of the rubber tree is the chief source of natural rubber.
 
-	- bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
+	+ bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)
 	- pennycress (n)菥蓂屬，又名遏藍菜屬，是十字花科下的一個屬， 本屬物種已被證實是一種重金屬的超積累物，能有效吸收諸如鋅和鎘等金屬
-	- angiosperm (n)被子植物(又名開花植物或有花植物)
-	- gymnosperm /ˈdʒɪmnə(ʊ)spəːm/ (n)裸子植物 
+	+ angiosperm (n)被子植物(又名開花植物或有花植物)
+	+ gymnosperm /ˈdʒɪmnə(ʊ)spəːm/ (n)裸子植物 
 	- nightshade (n)茄屬植物
-	* legume /ˈlɛɡjuːm/ (n)豆科植物 --> leguminous (adj)
+	+ legume /ˈlɛɡjuːm/ (n)豆科植物 --> leguminous (adj)
 	- succulent (adj)鮮美多汁的, 肉質的(植物) (n)肉質植物
 
 	+ alga /ˈalɡə/ -> algae /ˈalɡē/ (n)海藻/水藻
@@ -359,25 +357,25 @@
 	- milkweed (n)乳草 
 	- mandrake /ˈmandreɪk/ (n)曼陀羅草
 	- belladonna /ˌbɛləˈdɒnə/ (n)顛茄，全株有毒，特別是根部和根莖毒性最強。葉片表面會出油狀液體，接觸皮膚會引起過敏，嚴重導致潰瘍
-	- reed (n)蘆葦, 蘆笛, 箭頭, 不可依靠的人, 簧片, 簧片繼電器
+	+ reed (n)蘆葦, 蘆笛, 箭頭, 不可依靠的人, 簧片, 簧片繼電器
 	- hemlock (n)毒芹, 鐵杉
 	- cycad /ˈsʌɪkad/ (n)蘇鐵
-	- cotton /ˈkɒt(ə)n/ (n)棉
+	+ cotton /ˈkɒt(ə)n/ (n)棉
 	- Manila hemp (n)馬尼拉麻
-	- hemp (n)大麻, 大麻纖維
+	+ hemp (n)大麻, 大麻纖維
 	- marijuana (n)大麻煙/大麻藥物
 	- cannabis (n)大麻
 	- coca (n)古柯, 古柯葉
 
-	* cereal /ˈsɪərɪəl/ (n)穀類植物, 穀類食物/麥片
-	- kernel /ˈkəːn(ə)l/ (n)仁, (麥、玉米等的)粒, 核心/要點
-	- wheat /wiːt/ (n)小麥 <--> /wɪt/ wit
-	- rye /rʌɪ/ (n)裸麥/黑麥, 裸麥威士忌, 裸麥麵包
+	+ cereal /ˈsɪərɪəl/ (n)穀類植物, 穀類食物/麥片
+	+ kernel /ˈkəːn(ə)l/ (n)仁, (麥、玉米等的)粒, 核心/要點
+	+ wheat /wiːt/ (n)小麥 <--> /wɪt/ wit
+	+ rye /rʌɪ/ (n)裸麥/黑麥, 裸麥威士忌, 裸麥麵包
 	- oat (n)燕麥, 麥稈
 	* millet (n)小米/粟 
-	- barley /ˈbɑːli/ (n)大麥
-	* sorghum (n)高粱
-	* maize /meɪz/ (n)玉米
+	+ barley /ˈbɑːli/ (n)大麥
+	+ sorghum (n)高粱
+	+ maize /meɪz/ (n)玉米
 	- teosinte /ˌtiːəʊˈsɪnteɪ/ (n)大芻草
 
 	- pea (n)碗豆
@@ -385,22 +383,22 @@
 	- zucchini /zʊˈkiːni/ (n)西葫蘆
 	- huckleberry (n)越橘莓
 	- arugula (n)芝麻菜
-	- sesame /ˈsɛsəmi/ (n)芝麻
+	+ sesame /ˈsɛsəmi/ (n)芝麻
 	- bok choy (n)小白菜
-	- alfalfa /alˈfalfə/ (n)苜蓿/紫苜蓿
-	- clover /ˈkləʊvə/ (n)苜蓿/三葉草/紅苜蓿
-	- cabbage /ˈkabɪdʒ/ (n)高麗菜/甘藍菜
+	+ alfalfa /alˈfalfə/ (n)苜蓿/紫苜蓿
+	+ clover /ˈkləʊvə/ (n)苜蓿/三葉草/紅苜蓿
+	+ cabbage /ˈkabɪdʒ/ (n)高麗菜/甘藍菜
 	- butterhead lettuce (n)結球萵苣
 	- kale (n)羽衣甘藍
 	- romaine (n)蘿蔓萵苣
 	- lettuce /ˈlɛtɪs/ (n)萵苣
 	- citrus /ˈsɪtrəs/ (n)柑橘
-	- broccoli /ˈbrɒkəli/ (n)西蘭花/花椰菜
-	- cauliflower /ˈkɒlɪflaʊə/ (n)花椰菜 
+	+ broccoli /ˈbrɒkəli/ (n)西蘭花/花椰菜
+	+ cauliflower /ˈkɒlɪflaʊə/ (n)花椰菜 
 	- brussels sprout /ˌbrʌs(ə)lz ˈspraʊt/ (n)抱子甘藍
-	- asparagus /əˈsparəɡəs/ (n)蘆筍
-	- mustard (n)芥末/芥子, 芥菜, 棕黃色
-	- pepper (n)胡椒, 胡椒粉, 辣椒, 辣椒粉 (v)灑胡椒, [be peppered with]使佈滿
+	+ asparagus /əˈsparəɡəs/ (n)蘆筍
+	+ mustard (n)芥末/芥子, 芥菜, 棕黃色
+	+ pepper (n)胡椒, 胡椒粉, 辣椒, 辣椒粉 (v)灑胡椒, [be peppered with]使佈滿
 		> 胡椒粉 |A pungent hot-tasting powder prepared from dried and ground peppercorns, used as a spice or condiment to flavour food.|
 		> 胡椒 |A climbing vine with berries that are dried as black or white peppercorns.|
 		> 灑胡椒 |Sprinkle or season (food) with pepper.|

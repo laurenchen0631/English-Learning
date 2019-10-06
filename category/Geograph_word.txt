@@ -2,13 +2,13 @@
 	- the Northern Hemisphere (n)北半球
 	- the Western Hemisphere (n)西半球
 	- the North Pole (n)北極點，又叫北極，用於稱呼地球上的地理北極
-	- the Arctic Circle 北極圈，緯度數值為北緯66.5°的一個假想圈，是北寒帶與北溫帶的分界線，與黃赤交角餘角
+	- the Arctic Circle (n)北極圈，緯度數值為北緯66.5°的一個假想圈，是北寒帶與北溫帶的分界線，與黃赤交角餘角
 	- landmass (n)整塊陸地/大陸 == land mass == A continent or other large body of land.
 
 [Landscape]
 	* landform 地形/地貌 == A natural feature of the earth`s surface.
 	- outcrop (n)礦脈露出地面部分 (v)露出
-	- loess (n)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
+	- loess /ˈləʊɪs/ (mn)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
 
 	+ glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
 	* glaciation (n)冰河作用
@@ -35,7 +35,10 @@
 	- sandbar (n)沙洲
 	- point bar (n)河曲沙洲
 	- shelf -> shelves (n)架子, 突出的岩石, 沙洲/暗礁
+	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
+	- rift valley (n)裂谷，由地質裂谷或斷層作用產生的幾個高地或山脈之間的線性低地
 	- river valley (n)河谷
+	- canyon /ˈkanjən/ (n)峽谷
 	- fjord /fjɔːd/ (n)峽灣
 	- isthmus /ˈɪsθməs/ (n)地峽
 	- strait (n)海峽, 困境/危難 (adj)嚴峻的
@@ -58,15 +61,13 @@
 	- butte /bjuːt/ (n)孤山/孤峰
 	- massif (n)山巒
 	* mountain range (n)山脈
-	- valley /ˈvali/ (n)山谷/溪谷, [建]屋谷
-	- rift valley (n)裂谷，由地質裂谷或斷層作用產生的幾個高地或山脈之間的線性低地
-	- canyon /ˈkanjən/ (n)峽谷
 	- vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔
 	- shield volcano (n)盾狀火山，具有寬廣緩和的斜坡，底部較大，整體看來就像是一個盾牌
 	- stratovolcano /ˌstratəʊvɒlˈkeɪnəʊ/ (n)複式火山/成層火山/層狀火山，是一個錐形火山，是由硬化的熔岩、火山噴發碎屑、浮岩和火山灰的許多層不斷堆積形成的
 	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water
 	- hot spring (n)溫泉
 	+ watershed (n)分水嶺, 轉折點/分水嶺
+	- fault line (n)斷層線 = fault, 問題/隱憂
 
 	- timberline == treeline (n)樹帶界線
 	- boreal forest (n)北方針葉林， 北方針葉林是陸上最大的生物群系，陽光照射充足、氣候乾旱。全年溫度界乎-40－20℃，夏季平均10℃。全年雨量300-900毫米。
@@ -119,7 +120,7 @@
 		> 震央 |The point on the earth`s surface vertically above the focus of an earthquake.| 
 		> 中心 |The central point of something, typically a difficult or unpleasant situation.| the patient was at the epicenter of concern
 
-	- sediment (n)沉積物, 渣 = dregs (v)沉積  --> sedimentary
+	- sediment (n)沉積物, 渣 = dregs (v)沉積  --> sedimentary (adj)
 	- geothermal (adj)地熱的 == Relating to or produced by the internal heat of the earth.
 	- geothermal gradient (n)地溫梯度，地球內部深度增加相關的每單位深度的溫度升高變化率
 	- magma /ˈmaɡmə/ (n)岩漿 <--> lava (n)熔岩
@@ -164,14 +165,15 @@
 [Ore/Rock]
 	- ore /ɔː/ (n)礦
 	- granite /ˈɡranɪt/ (n)花崗岩
-	- quartz /kwɔːts/ (n)石英
+	+ quartz /kwɔːts/ (n)石英
 	- mica (n)雲母
 	- feldspar (n)長石
 	* petroleum (n)石油 == oil == crude oil
-	- marble (n)大理石
+	+ marble (n)大理石
 	- nugget /ˈnʌɡɪt/  (n)金礦, 一塊, 有價值的東西或想法
 	- mother lode == motherlode (n)主礦脈, 主要來源
-	- sandstone (n)砂岩
+	+ sandstone (n)砂岩
+	- greenstone (n)綠岩
 	- shale	/ʃeɪl/ (n)頁岩/泥板岩 <|> shell /ʃɛl/ 
 	- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
 	- outwash (n)沖積物 == Material carried away from a glacier by meltwater and deposited beyond the moraine.

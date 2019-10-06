@@ -26,7 +26,7 @@
 			+ adventure --> adventurous
 			+ advocate --> advocate
 			+ adumbrate
-			- advance (v)向前移動, 將……提前, 進展/進步 = progress, (股價)上漲, 提出(意見), 借..錢,  (n)前進, 進展/進步 = development = improvement, 上漲, 預付款, 貸款
+			+ advance (v)向前移動, 將……提前, 進展/進步 = progress, (股價)上漲, 提出(意見), 借..錢 (n)前進, 進展/進步 = development = improvement, 上漲, 預付款, 貸款
 			- advantageous (adj)有利的/有好處的 = beneficial
 			+ aesthete --> aesthetic
 			+ affable
@@ -1904,7 +1904,7 @@
 		+ exalt
 		+ exasperate
 		- exceed
-		+++ excel (v)勝過/優於 = transcend = surpass = outstrip = outshie
+		+++ excel (v)[at]擅長/善於/突出, [oneself]比平常做得好/超水準的發揮 <--> belie
 		+ except --> exception --> exceptional
 		+ excess --> excessive
 		- excise
@@ -1970,6 +1970,7 @@
 
 	en, em, enter 進入/加強/使 = within, in
 		- embank (v)築堤護住 --> embankment (n)堤岸/路堤 = levee
+		- embark (v)上船, 裝載, [on/upon]開始 = begin
 		- embarrass (v)使尷尬/使窘迫, 使拮据 <-- em + barass 套索 = cord, strap, noose
 		+ embargo
 		- embed (v)牢牢嵌入, 栽種 <-- em + bed 床
@@ -2008,8 +2009,8 @@
 		+ endure --> enduring --> endurance
 		- enfeeble (v)使虛弱無力 = debilitate
 		- enfetter (v)給...上腳鐐, 束縛
-		*** engage (v)聘雇 = hire, 吸引/佔用 = attract = occupy = appeal, 使訂婚 = betroth, 保證, 進攻/交戰 使(齒輪)嚙合 = interlock = mesh
-		* engaged (adj)忙碌的, 從事……的, 訂婚的
+		++ engage (v)吸引/佔用 = attract = occupy = appeal, [in](使)參與 = involve, [with]接觸/嚙合, 啟動(機械), 聘雇 = hire, 答應/保證 = pledge, 交戰/交手
+		* engaged (adj)忙碌的 = bustling, 從事……的, 訂婚的
 		* engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
 		+ engender
 		- engrave (v)雕刻, 銘記
@@ -2170,7 +2171,7 @@
 		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
 		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
 		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的
-		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示
+		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
 
 	{esce}, {escent} 開始...的
 		- convalesce
@@ -2637,6 +2638,7 @@
 		- geology (n)地質學
 		- geography (mn)地理學, 地形/地勢 (n)地區
 		- geometry (mn)幾何學, 幾何分佈
+		- geothermal (adj)地熱的
 
 	gender, gener, gen, genu 產生/生/種類 = beget, born
 		* carcinogen (n)致癌物質
@@ -2662,8 +2664,8 @@
 		+ homogeneous --> homogeneity
 		+ heterogeneous
 		* indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous <-- in + di + gen + ous
-		+++ /ɪnˈdʒiːnɪəs/ ingenious (adj)足智多謀的/心靈手巧的, 製作精巧的/巧妙的 = subtle = clearly inventive
-		+ ingenuity (n)足智多謀的/心靈手巧
+		+++ /ɪnˈdʒiːnɪəs/ ingenious (adj)足智多謀的/心靈手巧的 = cunning = clever, 製作精巧的/巧妙的 = subtle = clearly inventive
+		+ ingenuity (n)足智多謀的/心靈手巧 = cunning = adeptness
 		+++ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
 		- octogenarian
@@ -5344,7 +5346,7 @@
 			- /riːəˈlʌɪn/ realign (v)調整…的位置, [realign oneself with]改變立場 <-- re + align
 			+ reassess (v)再評價/重新考慮 <-- re + assess
 			- rebate
-			+ /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/反抗的 (n) <-- re + calcitr 踢 = kick + ant
+			+ /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/反抗的 --> recalcitrance (n)反抗 <-- re + calcitr 踢 = kick + ant
 			+ recapitulate --> recapitulation
 			- recast (v)重鑄, 更換演員 <-- re + cast
 			* recite --> recitation 
@@ -5354,7 +5356,7 @@
 			- recompense
 			+ reconcile
 			+ recount (n/v)重新計算, 講述/敘述
-			- recoup (v)重獲 = regain, 補償 = compensate = reimburse, [法]請求扣除
+			* recoup (v)重獲 = regain, 補償 = compensate = reimburse, [法]請求扣除
 			** recreate (v)重造, 翻拍 = reproduce = re-enact --> recreation (n)娛樂, 重造
 			+ /ˌriːkruːˈdɛs/ recrudesce (v)復發 = recur = relapse --> recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
 			- recruit
@@ -5902,7 +5904,7 @@
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
 		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
 		- stationary (adj)靜止的/不動的, 不變的
-		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute
+		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute <|> astute
 		- /statʃʊˈɛt/ statuette (n)小雕像
 		- statuary (mn)雕塑
 		- stature (n)聲望 = reputation = prestige, 身高
@@ -6416,6 +6418,7 @@
 			- trajectory
 			- trance (n)昏睡狀態/催眠狀態, 恍惚/出神 = abstraction, 迷幻音樂 (v)使昏睡
 			+ transcend --> transcendent --> transcendental
+			- transfix (v)把..嚇呆, 刺穿
 			+ transgress --> transgression
 			+ /ˈtranzɪənt/ transient (adj)短暫的/一時的 = transitory = temporary = fleeting (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
@@ -7017,7 +7020,7 @@
 		+ inadvertent (adj)不注意的/過失的 = heedless --> inadvertence (n)不注意/怠慢/疏忽 <-- in + advert + ent
 		+ inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
 		* advertise (v)做..的廣告, 通知/宣揚 --> advertising (mn)廣告
-		+ adverse (adj)不利的/負面的 = detrimental = inimical = unfavorable = thwart
+		+ adverse (adj)不利的/負面的 = detrimental = inimical = unfavorable
 		+ adversary (n)敵手/對手 = opponent (adj)對立的 = adversarial = antagonistic
 		- adversarial (adj)對立的, [法]對抗制的
 		+ adversity (n)逆境/窘境
@@ -7182,7 +7185,7 @@
 		- surveil (v)監控 --> /səˈveɪləns/ surveillance (n)監控/監視 = scrutiny
 
 	vit 生命 = life
-		+ /ˈvʌɪt(ə)l/ vital (adj)絕對必要的 = essential, 維持生命所必需的, 充滿活力的 = animated, 致命的 (n)重要器官 <|> vitiate
+		+ /ˈvʌɪt(ə)l/ vital (adj)絕對必要的 = essential, 維持生命所必需的, 充滿活力的 = animated (n)重要器官 <|> vitiate
 		- /ˈvʌɪt(ə)lʌɪz/ vitalize (v)給予……活力
 
 	vic, viti, vitu 邪惡 = vice
@@ -7206,7 +7209,7 @@
 	void, vacu, vac, van 空 = empty, vain
 		- avoid (v)躲避/避開 = avert, 避免 = prevent, [法]使無效 = nullify = repudiate
 		+ /ˌiːvəˈnɛs/ evanesce (v)消失 --> /ɛvəˈnɛs(ə)nt/ evanescent (adj)迅速消失的/瞬息即逝的 = quickly fading
-		* devoid (adj)缺乏..的 = lacking
+		* devoid (adj)缺乏..的 = lacking = bereft = void
 		- evacuate (v)撤離, 使成真空, 淨空, 排出
 		- /veɪˈkeɪt/ vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul
 		- /ˈveɪk(ə)nt/ vacant (adj)空的/空缺的, 茫然的 = vague
@@ -7229,12 +7232,12 @@
 		- vote (n/v)投票 (n)投票結果, 投票權 (v)[非]提議/建議
 		- votive (adj)奉獻的/向上帝還願的
 
-	vol 意志 = will
+	vol 意志 = willvi
 		+ benevolent
 		+ /məˈlɛvələnt/ malevolent (adj)有惡意的 = malicious = malignant = vicious = spiteful = wanton
 		* involuntary (adj)非自願的, 不受意志控制的, 強制的/強迫的 = compulsory
 		- /vəˈlɪʃən/ volition (mn)決斷能力/意志力
-		+ voluntary (adj)自願的, 自發的/自覺的, 無償的 (n)禮拜前後所演奏的風琴獨奏
+		+ /ˈvɒlənt(ə)ri/ voluntary (adj)自願的, 自發的/自覺的, 無償的 (n)禮拜前後所演奏的風琴獨奏
 
 	volat, vola 飛 = fly
 		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = fickle, 易揮發的
@@ -7292,7 +7295,7 @@
 	veter 老 = old
 		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed, 根深蒂固的 <|> invertebrate
 		- /ˈvɛt(ə)rən/ veteran (n)老手, 老兵
-		- /ˈvɛtərɪnəri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
+		- /ˈvɛtrɪnəri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
 
 	vibr 震動 = shake
 		** vibrant (adj)充滿生氣的/活躍的, 鮮豔的 = bright, 響亮的, 振動的/顫動的 = quivering = pulsating

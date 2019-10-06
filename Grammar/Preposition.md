@@ -42,7 +42,7 @@
 		- The specials are on the menu, which is on the table.
 	- exception:
 		- on *[public transport]*: on ~~in~~ the bus, on a plane, on a train
-		- in television/radio: on TV, on the radio
+		- on television/radio: on TV, on the radio
 + at: something at a specific point
 	- examples:
 		- The boys are at the entrance at the movie theater.

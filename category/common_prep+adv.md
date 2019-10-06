@@ -50,6 +50,10 @@
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 - somewhat /ˈsʌmwɒt/ (adv)有點/稍微
+- especially (adv)尤其, 特別
+	- 尤其 |particularly| food seems cheaper, especially meats
+	- 特別 |—used as an intensive| an especially good essay
+	- 特別 |specially| I made it especially for you.
 
 ## Possibility
 - necessarily (adv)必然地 == inevitably

@@ -41,7 +41,7 @@ FEMALE PROFESSOR: OK, well-you make a compelling case! I can't wait to hear more
 ## Vocab
 - genetics /dʒəˈnɛtɪks/ 
 - broccoli /ˈbrɒkəli/ 
-- brussels sprout /ˌbrʌs(ə)lz ˈspraʊt/ (n)抱子甘藍
+- brussels sprout /ˌbrʌs(ə)lz ˈspraʊt/ (n)抱子甘藍.
 - asparagus /əˈsparəɡəs/ (n)蘆筍
 - cauliflower /ˈkɒlɪflaʊə/ (n)花椰菜 
 - National Institutes of Health (n)衛生研究院
