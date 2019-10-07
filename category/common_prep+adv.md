@@ -34,6 +34,7 @@
 	- (prep)除了 |Except; apart from; other than| supply currently exceeds demand in all but the most rural areas
 	- (adv)僅僅 |No more than; only| he is but a shadow of his former self
 	- (n)反對 |An argument against something; an objection| no buts—just get out of here
++ /ad ˈhɒk/ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
 
 ## List
 - besides == apart from == as well 除..之外

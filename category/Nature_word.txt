@@ -39,7 +39,10 @@
 		> 蜂巢式網路的 |Denoting or relating to a mobile telephone system that uses a number of short-range radio stations to cover the area that it serves, the signal being automatically switched from one station to another as the user travels about.|
 		> 蜂巢狀的 |(of a fabric item, such as a blanket or vest) knitted so as to form holes or hollows that trap air and provide extra insulation.|
 		> 很多小房間組成的 |Consisting of small compartments or rooms.| cellular accommodation
+	- cellulose /ˈsɛljʊləʊz/ (mn)纖維素
+	- cell wall (n)細胞壁
 	- hybridization (mn)混種
+	- conspecific (adj)同種的 (n)同種生物
 
 	- bird feeder (n)餵鳥器
 
@@ -68,7 +71,9 @@
 	- commensalism /kəˈmɛns(ə)lɪz(ə)m/ (n)片利共生
 	- parasitism (n)寄生, 寄生狀態, 利用
 	- metabolism (n)新成代謝 --> metabolic (adj)新成代謝的 --> metabolize (v)新陳代謝 
+	- metabolic rate (n)基礎代謝率
 	+ metamorphosis (n)變形/質變/變態
+	- brown fat (n)棕色脂肪，是動物體內一種主要儲存中、小型脂肪滴的脂肪細胞，可以產生身體的熱能
 	- diel vertical migration (n)晝夜垂直遷移(是一些生物使用的運動模式) <-- diel /ˈdiːl/ (adj)一晝夜的
 
 [Cell/Bacteria]
@@ -138,6 +143,7 @@
 	- chameleon /kəˈmiːlɪən/ (n)變色龍, 善變的人
 
 	- rodent (N)嚙齒目動物
+	- mouse /maʊs/ -> mice /mʌɪs/ (n)老鼠, 膽小怕羞的人, 捕鼠 (v)(動物)捕鼠, 仔細搜尋/搜索
 	- vole (n)田鼠
 	* marmot /ˈmɑːmət/ (n)土撥鼠
 	* prairie dog (n)草原犬鼠，也常稱作土撥鼠，是一種小型穴棲性嚙齒目動物，原產於北美洲大草原，當地人稱之為「草原犬」
@@ -272,6 +278,7 @@
 	- squid (n)烏賊
 
 	+ tadpole /ˈtadpəʊl/ (n)蝌蚪 == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
+	- frog /frɒɡ/ (n)青蛙, 飾扣, 鐵路轍叉
 	+ alligator (n)短吻鱷 == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
 	- caiman, cayman (n)鱷魚
 	* beaver (n)河狸/海狸 == A large semiaquatic broad-tailed rodent native to North America and northern Eurasia.

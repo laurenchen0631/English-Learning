@@ -68,6 +68,7 @@
 		> You have to allow for a certain amount of error.
 		> The Agency`s budget simply did not allow for such a massive increase.
 		> Finally, while the standard particle physics model - which describes all matter in terms of twelve fundamental particles and four fundamental forces - doesn`t allow for neutrinos with mass, there are theories that do.
+	- alpha /ˈalfə/ (n)希臘語的第一個字母, 第一個的, 社群首領(指社會性動物的社群中地位最高的個體)
 	- add
 	* add up 
 		> 漸增 |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people`s health.
@@ -1468,8 +1469,8 @@
 		> 釋放 |Release from confinement or slavery.| they were freed from jai
 		> 解放 |Release from physical obstruction or restraint.| I had to tug hard and at last freed him
 		> 使免於 |Remove something undesirable or restrictive from.| his inheritance freed him from financial constraints
-		> 使..可用 |Make available for a particular purpose.| we are freeing management time for alternative work
-		+ flush (v)泛紅/發紅 沖洗 趕出 揭露 冒出新芽  (n)紅暈, 一條(水流) 一陣/激動 旺盛/生氣勃勃 大量的/充滿的 (adj)齊平的/緊接的 (adv)齊平 直接地 (n)洗牌
+	> 使..可用 |Make available for a particular purpose.| we are freeing management time for alternative work
+	+ flush (v)泛紅/發紅ㄝ 沖洗, 趕出, 揭露, 冒出新芽 (n)紅暈, 一條(水流), 一陣/激動, 旺盛/生氣勃勃, 大量的/充滿的 (adj)齊平的/緊接的 (adv)齊平, 直接地 (n)洗牌
 		> 泛紅/發紅 |(of a person`s skin, face, etc.) become red and hot, typically as the result of illness or strong emotion.| Rachel flushed angrily
 		> 紅暈 |A reddening of the face, skin, etc., typically caused by illness or strong emotion.|
 		> 沖洗 |Cleanse (something, especially a toilet) by causing large quantities of water to pass through it.| she flushed the loo
@@ -1848,6 +1849,7 @@
 	- heady
 		> 烈的 |(of alcoholic drink) potent; intoxicating.| several bottles of heady local wine
 		> 興奮的 |Having a strong or exhilarating effect.| a heady, exotic perfume
+	- heaven (n)天國, 上帝, 天空, 極樂/極樂之地
 	- second half 下半 <--> first half 上半
 	* harken/hearken/hark back to
 		> 提起 |Mention or remember (something from the past)| if it was such a rotten holiday, why hark back to it?
@@ -3639,6 +3641,8 @@
 		> 富裕的 |Important in material or social terms; wealthy.| a substantial Devon family
 		> 基本上的 |Concerning the essentials of something.| there was substantial agreement on changing policies
 		> 真實的/實在的 |Real and tangible rather than imaginary.| spirits are shadowy, human beings substantia
+	- scale back 縮減
+		- Sid will have to scale back his plans.
 	- scare sth/sb off/away 把..嚇走
 		- If you charge as much as that, you will scare customers off.
 	- school
@@ -3793,7 +3797,10 @@
 		> 吸取/吸收 |to understand and remember information well| Given the right environment, children are like sponges and will soak up information.
 		> 用完/耗盡 |The repairs on our house soaked up all our savings.|
 	- sort
-	- sort out == to do what is necessary to deal with a problem, disagreement, or difficult situation successfully
+	- sort sth out 成功解決
+		- We have sorted out the computer system`s initial problems.
+		- It will be difficult to sort out how much each person owes.
+		- Most of the job involves sorting out customers who have queries.
 	+ sound
 		> 聲音 |Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.| light travels faster than sound
 		> 發出聲音 |Emit or cause to emit sound.| she sounded the horn
@@ -4034,6 +4041,8 @@
 		> 女短套衫/女帶袖短披肩 |A woman`s close-fitting cardigan or jacket, cut short at the front and back so that only the arms and shoulders are covered.|
 	- shrug sth off 不重視/忽視 == Dismiss something as unimportant.
 		> the managing director shrugged off the criticism
+	- shut out 把..擋在門外 == to prevent someone or something from entering a place
+		- The double windows shut most of the traffic noise out.
 	- slapstick
 		> 低俗的鬧劇 |Comedy based on deliberately clumsy actions and humorously embarrassing events.|
 		> |A device consisting of two flexible pieces of wood joined together at one end, used by clowns and in pantomime to produce a loud slapping noise.| a loud and exhilarating rattle of bladders and slapsticks’
@@ -4250,6 +4259,7 @@
 		> it took ages to scrub off the muck
 	- scrub up 手術前洗手 == Thoroughly clean one`s hands and arms before performing surgery.
 		> the doctor scrubbed up and donned a protective gown
+	- scrap (n)碎塊, 殘羹剩飯, 少量/一點點, 廢料/廢金屬 = scrap metal (v)將……作為廢物, 廢棄/放棄 = abolish = cancel
 	- sibling (n)兄弟姊妹
 	- sink -> sank/sunk -> sunk
 	- sink-or-swim 成敗全憑自己 == fail or succeed entirely by one`s own efforts.
@@ -4378,6 +4388,7 @@
 		- 使臣服 |Bring (a person or country) under one`s control or jurisdiction, typically by using force.| the city had been subjected to Macedonian rule
 	+ be subjected to 經歷了/必定會經歷
 		> intermediate latitudes are subjected to changes intermediate between those of the poles and the equator
+	- sweat (mn)汗, 努力/苦工  (n)[非]焦急/不安, 苦差事 (v)出汗, [out]排除體內, 結水珠, 辛苦工作, 焦慮/煩惱
 	+ swing -> swung -> swung
 		> 搖擺 |Move or cause to move back and forth or from side to side while suspended or on an axis.| her long black skirt swung about her legs
 		> 擺動 |Be executed by hanging.| now he was going to swing for it
@@ -4708,6 +4719,7 @@
 	- touchstone
 		> 試金石 |A piece of fine-grained dark schist or jasper formerly used for testing alloys of gold by observing the colour of the mark which they made on it.|
 		> 標準 |A standard or criterion by which something is judged or recognized.| They tend to regard grammar as the touchstone of all language performance
+	- tour guide (n)導遊
 	- toothpaste (n)牙膏
 	- top out 達到最高點 == to reach the highest point in a continuously changing level that is about to start becoming less again
 	- top-up 注滿/加滿 == A quantity of a drink that refills a partly full glass or cup.

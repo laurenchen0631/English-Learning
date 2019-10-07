@@ -61,6 +61,7 @@
 	- lumberjack (n)伐木工人
 	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- cottage industry (n)家庭代工
+	- fire marshal (n)消防員, 消防署署長/消防隊長
 	
 	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
@@ -142,6 +143,7 @@
 	- administrative reorganization 行政重組
 	- wholesaler /ˈhəʊlseɪlə/ (n)批發商
 	- backorder (n)未交貨訂單 (v)因缺貨而下訂單
+	- admission fee (n)入場費
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -653,7 +655,9 @@
 		> 玩笑 |Light-hearted joking; banter.| we used to come in for a fair amount of ribbing and good-natured chaff
 		> 戲弄 |Tease.| the pleasures of drinking and betting and chaffing your mates
 	- bundlers (n)紮捆機
-	- grain elevator (n)穀倉塔，一種用於儲存穀物的農業設施
+	+ grain elevator (n)穀倉塔，一種用於儲存穀物的農業設施
+	- silo (n)筒倉，一種用來儲藏散裝物料的設施，在農業和工業領域均有使用
+	- granary (n)穀倉/糧倉, 盛產糧食的地區
 	- gristmill (n)磨坊
 	- grist (n)磨粉用穀物, 釀造用的碎麥芽, 有利的東西
 	* mill (n)磨坊, 磨臼/磨粉機, 製造廠/工廠, [非]引擎, 拳賽, 密爾/釐(等於0.001美元，只用於統計中) (v)磨粉, 打磨, 在(錢幣)上壓印花邊, [about]成群地亂轉, 
@@ -1225,6 +1229,9 @@
 	- aria /ˈɑːrɪə/ (n)詠嘆調/抒情調
 	- recitativo /ˌrɛsɪtəˈtiːvəʊ/ == recitative /ˌrɛsɪtəˈtiːv/ (mn)吟誦調
 	- harpsichord /ˈhɑːpsɪkɔːd/ (n)羽管鍵琴
+	- As You Like It (n)皆大歡喜，威廉·莎士比亞於1599年創作的一套喜劇。
+	- playhouse (n)劇場/戲院 = theater, 兒童遊戲館
+	- intermission (n)暫停/間歇 = pause = break, 中場 = interlude
 
 [Clothing/Fashion]
 	- attire (n/v)衣著/打扮
@@ -1361,6 +1368,7 @@
 	- porcelain (mn)瓷 = china, 瓷器 (n)瓷器
 	- earthenware (n)陶器/土器
 	* /wɛː/ ware (n)陶器 = pottery, 貨品/商品 (adj)知道的/意識到的 
+	- terra-cotta, terracotta (n)赤陶/赤土, 陶瓦(是一種陶器，器體本身為多孔設計。陶瓦被運用在許多器物上、水道、屋瓦)
 	- amphora -> amphorae (n)雙耳細頸瓶
 	- glaze (v)給……裝玻璃/用玻璃覆蓋, 給…上釉/給…上光, 給(食物)表面澆糖汁, 使(眼睛)變呆滯 (n)光滑的表層, 釉, 糖汁, 翳
 	- stained glass (n)花窗玻璃(為西方建築裝飾品，常見於教堂)
@@ -1380,6 +1388,8 @@
 		> 過於拘泥的行為或態度 |Excessive adherence to prescribed forms.|  academic dryness and formalism
 		> 形式主義 |A description of something in formal mathematical or logical terms.| there is a formalism which expresses the idea of superposition
 	- Dadaist (adj)達達主義的 (n)達達主義者
+	- Giorgio Vasari (n)喬爾喬·瓦薩里，以傳記《藝苑名人傳》留名後世，為藝術史作品的出版先驅
+	- Michelangelo /ˌmʌɪk(ə)lˈandʒələʊ/ (n)米開朗基羅
 
 	- stencil /ˈstɛns(ə)l/ (n)鏤空範本/印刷模板, 用模板印刷的圖案或文字 (v)用鏤空範本畫
 
@@ -1853,7 +1863,8 @@
 	- basilica (n)長方形會堂/教堂
 	- gatehouse 門房 == A house standing by a gateway, especially on a country estate.
 	- apartment complex 公寓大樓 == a group of buildings that contain apartments and are managed by the same company.
-	- rafter 椽 == A beam forming part of the internal framework of a roof.
+	- rafter (n) 椽 == A beam forming part of the internal framework of a roof.
+	- girder (n)大樑/縱樑
 	- plumbing
 		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
 		> 排泄/生殖系統 |Used as a humorous euphemism for the excretory, urinary, or reproductive systems.|
@@ -1871,9 +1882,7 @@
 		> 接待室 |A room in a public building for receiving guests.| the mayor`s parlor
 		> 店 |A shop or business providing specified goods or services.| an ice-cream parlor
 	- tavern (n)小酒館/小客棧
-	* slum
-		> 貧民窟 |A squalid and overcrowded urban street or district inhabited by very poor people.|
-		> |Spend time at a lower social level than one`s own through curiosity or for charitable purposes.|
+	
 	- cemetery 墓地 == A large burial ground, especially one not in a churchyard.
 	- atrium
 		> 天井前廳 |An open-roofed entrance hall or central court in an ancient Roman house.|
@@ -1975,7 +1984,8 @@
 	- hearth /hɑːθ/ (n)壁爐地面, 家, 熔爐
 	- cabin (n)客艙, 小木屋 (v)關在小地方
 	- grotto (n)洞穴/石室
-	- mason (n)石匠/泥水匠, 共濟會成員 (v)用石砌
+	+ mason (n)石匠/泥水匠, 共濟會成員 (v)用石砌
+	- masonry (n)石造建築, 石工技藝
 	- maze /meɪz/ (n)迷宮, 困惑/混亂 <--> maize /meɪz/
 
 [Sport]

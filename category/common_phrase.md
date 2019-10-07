@@ -260,6 +260,8 @@
 	- We have a huge range of exotic teas: assam, pu-erh, guayusa, yerba mate, to name but a few.
 
 ## Competition
+- head start (on/over sth) 優勢
+	- You've got a head start over/on others trying to get the job because you've got relevant work experience.
 - snatch victory (from the jaws of defeat) 在最後時刻取得勝利
 
 ## Conclusion/Finish
@@ -336,11 +338,18 @@
 - come into being 開始存在 == to start to exist
 	- at the moment when the Earth came into being
 	- Although origin in ritual has long been the most popular, it is by no means the only theory about how the theater came into being.
+- (from) cover to cover 徹底讀過 == read all the way through from the beginning to the end
+	- I read that book from cover to cover in one day.
 - do away with == get rid of 擺脫/拋棄/廢除 
 	- These ridiculous rules and regulations should have been done away with years ago.
 	- Computerization has enabled us to do away with a lot of paperwork.
 - exert influence over/on 發揮影響力於
 	- the investment bankers began to exert influence over the railroads' internal affairs
++ get rid of (v)擺脫/趕走, 清除/消除 = eliminate, 處理掉/賣掉
+	- I didn't enjoy marking those papers and I was glad to be rid of them.
+	- That cream got rid of my skin rash.
+	- Have you managed to get rid of your old Volvo yet?
+	- We got rid of our unwelcome guests by saying we had to go to bed.
 - have one's origin (in sth) 出現/被發明/被製造
 	- The silk industry had its origin in China.
 	- The school had its origin with a large gift from a donor.

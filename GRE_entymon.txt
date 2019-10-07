@@ -187,7 +187,7 @@
 			+ ambiguous (adj)模糊的 = vague = nebulous = equivocal --> ambiguity (n)含糊/不明確
 			- ambidextrous
 			+ ambivalent
-			- amphibian (n)兩棲動物, 水陸兩用飛行器 <-- amphi + bio + ous
+			- /amˈfɪbɪən/ amphibian (n)兩棲動物, 水陸兩用飛行器 <-- amphi + bio + ous
 
 		2. 周圍 = around
 			- ambient (adj)周圍的 = peripheral
@@ -659,6 +659,7 @@
 			- consider
 			+ considerable
 			+ consistent
+			- conspecific (adj)同種的 (n)同種生物
 			+ conspire --> conspiracy
 			* console --> consolation
 			+ consolidate --> consolidation
@@ -818,7 +819,7 @@
 
 	cur 關心 = care, cure
 		- curate (n)牧師助理 (v)策劃
-		- /kjʊəˈreɪtə/ curator (n)館長
+		+ /kjʊəˈreɪtə/ curator (n)館長
 		- curable (adj)可治療的/可醫好的
 		- secure (adj)安全的 = safe, 穩固的 = steady (v)固定, 使安全 --> security (n)安全/保安/防護, 保證/保障
 		- securities (n)證券/債券
@@ -2033,6 +2034,7 @@
 		- ensure (v)保證/擔保, 保護
 		+ entail
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
+	    - entity (n)實體 (mn)存在/本質
 		- /ˈɛntr(ə)nt/ entrant (n)新成員/新職員, 參賽者/考生, 首次銷售某種產品的公司 <-- enter
 		+ enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
@@ -2045,6 +2047,7 @@
 		+ entitle (v)使有權(做某事), 取名
 		- entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
 		* entrust (v)委託/託付 = commend
+	    - entry (n)條目, 紀錄/登錄, 報關手續, 入場/參加, 入口, 參賽作品/參賽 <-- enter
 		- envelop (v)包住/圍繞, 籠罩 <-- en + velop = develop
 		- environ (v)包圍/圍繞 <-- en + viron 圓 = circle
 		
@@ -2303,7 +2306,7 @@
 		- perfect (adj)完美的/絕對的 (v)使完美/改善 --> perfection (n)完美
 		- proficient (adj)熟練的/精通的 = skillful = expert
 		+ profit (n)利潤/利益/益處 --> profitable (adj)贏利的/有益的 --> profitability (n)有利/有益
-		- refection (n)便餐/點心/茶點, (靠飲食等)恢復體力
+		- refection (n)便餐/點心/茶點 = refreshment, (靠飲食等)恢復體力
 		- refectory (n)學院餐廳/食堂
 		- sacrifice
 		+ surfeit (n)過量/過度 = glut (v)使過量/反胃/使厭膩 = cloy
@@ -2638,6 +2641,7 @@
 		- geology (n)地質學
 		- geography (mn)地理學, 地形/地勢 (n)地區
 		- geometry (mn)幾何學, 幾何分佈
+	    - geometrician, geometer (n)幾何學家
 		- geothermal (adj)地熱的
 
 	gender, gener, gen, genu 產生/生/種類 = beget, born
@@ -2757,6 +2761,7 @@
 		- abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
 		- horrible (adj)可怕的
 		- horrid (adj)可怕的, 令人不愉快的 --> horror (n)
+	    - horrific (adj)可怕的
 		- horripilate (v)起雞皮疙瘩 --> horripilation (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
 	hori, horiz 邊界 = bound, limit
@@ -2772,6 +2777,7 @@
 
 	here, heir, herit 繼承
 		* /ɛː/ heir (n)繼承人
+	    - heirloom (n)傳家寶
 		* hereditary (adj)遺傳的, 世襲的 --> heredity (n)
 		+ /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance = patrimony, 世界遺產, 傳統
 		* /ɪnˈhɛrɪt/ inherit (v)繼承, 經遺傳而獲得
@@ -3511,13 +3517,13 @@
 
 	lig 綁
 		* ligate (v)[手術]綁/捆/紮
-		+ obligate (v)使負義務 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
+		+ obligate (v)使負義務 (adj)[生]專門的 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
 		* obligation (n)義務/責任, 恩惠/人情, 合約/契約
 		*** /əˈblʌɪdʒ/ oblige (v)使負有義務, 答應...的請求, 使感激 <|> obligate
 		* obliging (adj)樂於助人的/熱心相助的 = accommodating = helpful 
 
 	limin, lime 門檻 = threshold
-		+ eliminate (v)消除/消滅, 淘汰/排除 --> elimination (n)消滅, 淘汰/排除
+		+ eliminate (v)消滅/消除 = remove = get rid of, 排除 = exclude, 謀殺 = murder, 從身體排出(廢棄物) = expel --> elimination (n)消滅, 淘汰/排除
 		* preliminary (adj)初步的 (n)開端, 初試
 		+++ sublime (adj)崇高的/極好的/極美的 = gorgeous, 極大的/極強的 = extreme (v)(固體)昇華(氣體)
 		- subliminal (adj)潛意識的/下意識的
@@ -3532,7 +3538,7 @@
 		- underling (n)下屬
 		+ amulet (n)護身符
 		- bracelet
-		- booklet (n)小冊子 = brochure = pamphlet
+		- /ˈbʊklɪt/ booklet (n)小冊子 = brochure = pamphlet
 		- leaflet (n)傳單 = handbill, 小葉/嫩葉 (v)發傳單
 		- pamphlet (n)小冊子 = booklet = brochure
 		- droplet (n)小水滴
@@ -3756,6 +3762,7 @@
 		- transmit (v)傳送/傳達/傳播/傳染, 傳(光、熱、聲等)/傳動, 發射/播送
 
 	mal, male 壞/不 = evil == de == dis == in == un == mis
+		- maladaptive (adj)適應不良的
 		+ maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
 		++ /ˈmalədi/ malady (n)疾病 = disease = ailment, 問題/弊病 <|> /ˈmɛlədi/ melody
 		- /maˈleɪz/ malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
@@ -3998,7 +4005,7 @@
 		- locomotive
 		- motile (adj)能動的, 運動表象的 --> motility (n)運動性
 		- motivation (n)動機/誘因, 幹勁/熱情 = enthusiasm
-		+ promote (v)促進/發揚, 推銷/推廣 = tout = exploit, 促使(法律)通過, 升遷/晉升 = exalt = advance = elevate --> promotion (n)促進/發揚, 促銷/推銷, 推廣/宣傳, 晉升/升遷
+		++ promote (v)促進/發揚, 推銷/推廣 = tout = exploit, 促使(法律)通過, 升遷/晉升 = exalt = advance = elevate --> promotion (n)促進/發揚, 促銷/推銷, 推廣/宣傳, 晉升/升遷
 
 	mut 改變 = change
 		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
@@ -5135,7 +5142,7 @@
 		- patrimony (n)繼承的遺產/祖產 = heritage
 		- patriot (n)愛國者/愛國主義者
 		- /ˈpeɪtrɪətɪz(ə)m/ patriotism (n)愛國心/愛國精神/愛國主義
-		* patron (n)贊助者/資助者, 老主顧
+		* /ˈpeɪtr(ə)n/ patron (n)贊助者/資助者, 老主顧
 		* patronage (n)資助/贊助 = auspices, 經常光顧/惠顧, 權力/特權 = right, 恩賜態度
 		+++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 經常光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
 		- repatriate (v)遣返/送..回國 (n)被遣返回國者
@@ -5375,6 +5382,7 @@
 			- refinery (n)提煉場/精鍊場
 			- refrain (v)避免/忍住 = restrain = avoid = forbear (n)反覆句/疊句/副歌 <-- re + frain 籠頭 = bridle
 			- refresh (v)消除……疲勞/使精神振作 = reinvigorate, 更新/修正 = revise = update, 冰鎮
+			+ refreshment (n)茶點/便餐 (mn)恢復活力
 			+ refulgent
 			- refurbish (v)整修 = renovate = redecorate <-- re + furbish 
 			+ /rəˈɡeɪl/ regale (v)逗樂 = entertain = amuse, 款待 = fete <-- re + gale 喜悅 = pleasure
@@ -5455,7 +5463,7 @@
 			- resuscitate
 			- retail
 			+ retain --> retainer
-			- retard
+			+ retard
 			- retell (v)重述
 			+ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			- retinue
@@ -5959,6 +5967,7 @@
 		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
 		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
+		+ inspect (v)檢查/審查 --> inspection (mn)檢驗/審視 = scrutiny
 		+ perspective (mn)透視圖法/遠近畫法 (n)景色 = view = prospect, 看法/觀點 = point of view, 洞察力 = sense of proportion
 		+ prospect (mn)前景/前途 (n)預期/盼望的事物, 可能成為主顧的人, 景象/景色 = perspective --> prospective (adj)預期的/盼望中的
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
@@ -6096,7 +6105,7 @@
 		- executioner (n)死刑執行者
 		* /ɪɡˈzɛkjʊtɪv/ executive (adj)執行的, 行政上的, 商業用的 (n)執行者/經理/業務主管, 執行委員會, 行政部門
 		- executor (n)執行者, 遺囑執行人
-		- consecutive (adj)連續不斷的 = continuous
+		- /kənˈsɛkjʊtɪv/ consecutive (adj)連續不斷的 = continuous
 		- /ˈpəːsɪkjuːt/ persecute (v)迫害, 騷擾 = harass = distract = pester
 		- prosecute (v)告發/提告, 把…進行到底 <|> persecute --> prosecution (n)起訴/告發, 持續進行
 		- prosecutor (n)檢察官, 告訴律師
@@ -6183,7 +6192,7 @@
 		- persuade (v)說服 = induce = tempt = convince = prevail on, 使相信 = convice
 
 	sume, sumpt 拿/取 = take
-		++ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
+		++ /əˈsjuːm/ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
 		- assuming (conj)[that]假使 = granted
 		+ assumption (n)設想, 奪取/取得(權力)
 		- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
@@ -6366,7 +6375,7 @@
 		- resurrection (n)復活/復甦 --> Resurrection (n)耶穌復活, 最後審判日全體死者的復活
 
 	scope 視野/範圍 = look, view
-		- kaleidoscope
+		- kaleidoscope (n)萬花筒, 千變萬化/變化多端 <-- kal 美麗的 = beautiful + eido 形狀 = form + scope 
 		- kinescope
 		- stethoscope
 
@@ -6438,6 +6447,7 @@
 			- transfer --> transference
 			- transfigure
 			+ transform --> transformation
+			- translocate (v)[to]使改變位置 = transport --> translocation (n)改變位置
 			+ transmute
 			- transplant (v)移植, 使移居/使移動 (n)器官移植手術, 被移植的器官, 移居者或物 --> transplantation (n)移植, 移居/移動 
 			- transpose
@@ -6738,6 +6748,7 @@
 	tard 緩慢 = slow
 		- dastard (n)卑鄙的人 --> dastardly (adj)邪惡的/惡劣的 
 		+ retard (v)妨礙/延遲 (n)弱智 <|> dastard
+		- retardant (n)減阻化學作用之物 (adj)不易燃的
 		- tardy (adj)遲延的/遲到的 = late = belated = delayed, 緩慢的/遲緩的 = sluggish
 	
 	techno, techn 技術 = skill
@@ -6899,6 +6910,7 @@
 		+ unwarranted (adj)沒有根據的/不合理的 = unfounded = baseless = gratuitous = unconscionable = unjustified = unprovoked = unreasonable
 		+ unwavering (adj)不動搖的/堅定的 = steady = resolute
 		- unwieldy (adj)龐大的/笨重的 = cumbersome, 使用不便的 
+		- unwind (v)展開/鬆開, 放鬆 = relax
 		+ unwitting (adj)不知情的 = unaware, 無意的 = inadvertent = unintentional
 		- unwonted (adj)不尋常的 = unusual = unaccustomed
 		- unworldly (adj)脫離世俗的, 奇怪的 = strange

@@ -164,6 +164,9 @@
 
 [Ore/Rock]
 	- ore /ɔː/ (n)礦
+	- clay mineral (n)黏土礦物，含水鋁層狀矽酸鹽，有時有不同數量的鐵、鎂、鹼金屬、鹼土金屬和其它陽離子
+	- mineral /ˈmɪn(ə)rəl/ (n)礦物, 無機物 (adj)礦物的 --> mineralization (n)礦化作用，指微生物將土壤中有機態的氮轉變成無機氮化合物
+
 	- granite /ˈɡranɪt/ (n)花崗岩
 	+ quartz /kwɔːts/ (n)石英
 	- mica (n)雲母

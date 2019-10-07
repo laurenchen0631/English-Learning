@@ -107,6 +107,7 @@
 - drastic 激烈的 == intense == radical == violent == severe
 - short 短暫的 == temporary == brief == momentary == transitory
 - encourage 激勵 == stimulate == provoke == give rise to
+- imply 暗示 = implicate == infer == intimate == hint == suggest
 
 ## Less Common
 - argue 爭論 == dispute == contend
