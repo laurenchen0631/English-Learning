@@ -62,6 +62,7 @@
 - admittedly (adv)公認地
 + inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
 + undoubtedly (adv)毫無疑問地/肯定地 = certainly
+- conceivably (adv)可以想像地
 
 ## Others
 - anew (adv)

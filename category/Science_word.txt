@@ -322,6 +322,8 @@
 	- quasar (n)類星體
 	- meteorite (n)隕星
 	- comet (n)彗星
+	- exoplanet /ˈɛksəʊplanɪt/ (n)太陽系外行星
+	- gas giant (n)氣態巨行星，主要由氫和氦組成的巨行星，木星和土星是氣態巨行星
 
 	- Mercury (n)水星
 	- Venus (n)金星
@@ -356,6 +358,7 @@
 	- equinox (n)分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
 	- splashdown (n)濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
 	- satellite /ˈsatəlʌɪt/ (n)衛星
+	- habitable zone (n)適居帶，是天文學上給一種空間的名稱，指的是行星系中適合生命存在的區域
 
 	- ecliptic (n)黃道 (adj)黃道的
 	- axial tilt /ˈaksɪəl tɪlt/ (n)轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)

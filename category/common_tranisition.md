@@ -187,7 +187,7 @@
 - by all means 當然/務必
 	- Bring him by all means
 	- Again, by all means, on paper it’s fitting that Dany retakes King’s Landing the way that her ancestor Aegon Targaryen seized power: through conquest, not birthright.
-+ much less == let alone 更何況/更不用說
++ much less == let alone (sth/do) 更何況/更不用說
 	- Tony can barely boil an egg, much less cook dinner.
 	- He will not even thank you, let alone pay you.
 - to say nothing of == not to mention 更何況/更不用說
@@ -195,6 +195,7 @@
 	- He is one of the kindest and most intelligent, not to mention handsome, men I know.
 	- I am amazed you find the time, not to mention the energy, to do any work at all.
 	- He can speak English, not to mention Japanese.
+
 - yet == still == even 更/再/甚至
 	- snow, snow, and yet more snow
 	- yet another diet book
@@ -285,7 +286,7 @@
 + conversely == oppositely == contrarily 反過來說
 	- The staff of any organisation are its best ambassadors or conversely may be its worst.
 	- Conversely, an organism with disadvantageous or harmful trait will, as a rule, have fewer or no offspring.
-- rather than 而不是/而非 == instead of == as opposed to == before
+- rather than 而不是/而非 == instead of == *as opposed to* == before
 	- she seemed indifferent rather than angry
 	- Visitors build a stronger connection to the brand when they are front and center as opposed to an observer in this Star Wars universe, Niles said.
 	- a skilled warrior who places duty before all else

@@ -7,7 +7,7 @@
 + impact 影響 == affect == influence = have an effect (on sth)
 + improve 改善 == ameliorate == boost == develop == refine == enhance == revamp == polish up
 + increase 增加 == enlarge == escalate == augment == spiral == rise == raise == expand == extend == further == heighten == intensify == strengthen == grow 
-+ decrease 減少 == decline == spiral down/downward == dwindle == lessen == shrink 
++ decrease 減少 == decline == spiral down/downward == dwindle == lessen == shrink == degrade
 + new 嶄新的 == contemporary == recent == modern == original == state-of-the-art == unique = unusual
 + feel 想/認為 == assume == consider == think == deem == esteem == regard
 + find 發現/察覺 == perceive == remark == observe == realize == recognize == feel 
@@ -129,4 +129,6 @@
 - extreme 極端的/嚴峻的 == severe == harsh == serious == desperate == stern 
 - typical 標準的 == standard == normal == basic == classic
 - normal 普通的 == ordinary == mundane
-- minuscule 微不足道的 == negligible == inappreciable
+- minuscule 微不足道的 == negligible == inappreciable == minute
+- belittle 輕視 == detract = disparage = scorn = depreciate = downplay = disdain = trifle
+- hide 藏 == conceal == cover == obscure == shelter

@@ -107,7 +107,10 @@
 	- We see each other every once in a while.
 - per annum 每年
 	- an average growth rate of 2 per cent per annum
-
+- few and far between 罕見稀少的
+	- In Nevada the towns are few and far between. 
+	- My holidays are few and far between.
+	
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near
 	- Having the right equipment at hand will be enormously helpful.
@@ -232,7 +235,9 @@
 - in step with 與..一致 == in agreement with someone or something
 	- She is very much in step with the times.
 	- Gasoline prices rose in step with oil prices.
-	
++ sea change 完全的改變 == a complete change
+	- There will have to be a sea change in people's attitudes if public transport is ever to replace the private car.
+
 ## Question
 - cast doubt on sth/sb 使人質疑 
 	- New evidence has cast doubt on the guilty verdict.
@@ -318,7 +323,9 @@
 - the last straw 最後一根稻草
 	- The woman's arrest was the last straw of Montgomery's African Americans
 	- Losing my job was bad enough, but being evicted was the final straw.
-
+- there goes sth [口]失去
+	- They've scored again -- there go our chances of winning the match. 
+	
 ## Act
 - a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
 	- I didn't particularly like the job - it was just a means to an end.

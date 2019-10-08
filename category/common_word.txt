@@ -86,6 +86,7 @@
 		> 令人焦慮的 |(of a situation or period of time) causing or characterized by worry or nervousness.| there were some anxious moments
 		> 渴望的 |Very eager or concerned to do something or for something to happen.| the company was anxious to avoid any trouble
 	- aural 耳朵的/聽覺的 == Relating to the ear or the sense of hearing.
+	- authorship (n)著作者的身分
 	- appliance 器具/設備 == A device or piece of equipment designed to perform a specific task.
 	- avail
 		> 有幫助/有益 |Help or benefit.| no amount of struggle availed Charles
@@ -2146,6 +2147,9 @@
 		> 跳 |Perform such a vault.| they leapfrogged around the courtyard
 		> 跳升 |Surpass or overtake another to move into a leading or dominant position.| she leapfrogged into a sales position
 		> 越過 |Pass over (a stage or obstacle)| attempts to leapfrog the barriers of class
+	- level off 保持穩定 
+		- House prices now seem to be levelling off after the steep rises of the last few years.
+		- Unemployment rose to ten percent and then levelled off.
 	- lime
 		> 石灰 |A white caustic alkaline substance consisting of calcium oxide, which is obtained by heating limestone and which combines with water with the production of much heat; quicklime.|
 		> 撒石灰於...以降低酸度 |Treat (soil or water) with lime to reduce acidity and improve fertility or oxygen levels.| they were liming acidified lake
@@ -3558,8 +3562,8 @@
 		> 拉 |Make rapid sawlike motions in cutting, or in playing a stringed instrument.| he was sawing away energetically at the loaf
 		> 格言/諺語 |A proverb or maxim.|
 	+ spread -> spread -> spread
-	+ sea change 完全的改變 == a complete change
-		> There will have to be a sea change in people`s attitudes if public transport is ever to replace the private car.
+	- spread out 散開
+		- They spread out to search the whole area.
 	- see for oneself 親身體驗/親眼見識 == To see or experience something firsthand as a means of proving to oneself that it is true or accurate.
 		> I couldn not believe that his car could actually park automatically, so I had to go over and see for myself.
 	+ seal /siːl/ (n)封條, 浮水印, 封蠟/印章, 圖章, 誓約/象徵, 海豹 (v)封/密封, 護貝, 快速高溫油炸, 確定/決定, 蓋章/蓋印於
@@ -5020,6 +5024,8 @@
 	+ windfall
 		> 被風吹下的水果 |An apple or other fruit blown down from a tree or bush by the wind.|
 		> 意外之財 |A large amount of money that is won or received unexpectedly.|
+	- wipe out 失控/出車禍
+		- I was going too fast and I wiped out on the bend.
 	- wizardry
 		> 巫術 |The art or practice of magic.| Merlin used his powers of wizardry for good’
 		> 魔法 |Great skill in a particular area of activity.| Pless`s wizardry with a bat
