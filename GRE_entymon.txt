@@ -3,7 +3,7 @@
 		1. 做/加強/一再 = towards, do
 			+ abase
 			+ abbreviate
-			+ aberrant
+			+ aberrant --> aberrance --> aberration 
 			- abhor --> abhorrent
 			+ abroad (adv)在國外, 廣範圍地, 廣為流傳地, 任意走動地 (n)國外
 			+ aboard (adv)在船或飛機或車上, 在馬上
@@ -25,7 +25,7 @@
 			- admire --> admiration 
 			+ adventure --> adventurous
 			+ advocate --> advocate
-			+ adumbrate
+			+ adumbrate --> adumbration
 			+ advance (v)向前移動, 將……提前, 進展/進步 = progress, (股價)上漲, 提出(意見), 借..錢 (n)前進, 進展/進步 = development = improvement, 上漲, 預付款, 貸款
 			- advantageous (adj)有利的/有好處的 = beneficial
 			+ aesthete --> aesthetic
@@ -752,6 +752,7 @@
 	counter
 		1. 反 = against, ooposite, contrary
 			+ counteract (v)對抗/抵銷 = act against == neutralize
+			- countercurrent (n)逆流 (adv)逆流地
 			+ countermand
 			+ counterintuitive (adj)反直覺的/反常識的
 			+ counterproductive (adj)產生反效果的/適得其反的
@@ -872,7 +873,7 @@
 		- precipitant (n)沈澱物
 		- precipitation (n)降水, 沈澱
 		- receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
-		- reception (n)反應/回應, 迎接/歡迎, 接待處/服務台
+		*** reception (mn)接收, 歡迎 (n)接待, 接待會/歡迎會/宴會, 接收品質
 		+ receptive (adj)善於接受的/從善如流的
 		- receptacle (n)容器
 		- recipient (n)接受者/收受者
@@ -1610,7 +1611,7 @@
 
 	di, dicho, du, duo 二/雙 = two 
 		+ dichotomy
-		+ dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
+		+ /dɪˈlɛmə/ dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
 		- dual (adj)雙重的 <|> duel <|> duet
 		- duality (n)雙重性, 二象性, 對比性/二元論
 		- duel (n)決鬥
@@ -2286,7 +2287,7 @@
 		+ facile (adj)容易做的 = effortless, 膚淺的/輕率的 = superficial
 		- facility (n)天資/才能, 容易/輕易/便利/方便, 設備/工具, (有特定用途的)場所 <-- facile
 		+ facilitate (v)使容易 = favor, 促進 <-- facility
-		++ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
+		++ /ˈfak(ə)lti/ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
 		+ fact (n)事實, 現實/實際情況
 		- factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
 		+ faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
@@ -2305,7 +2306,7 @@
 		+ munificent
 		++ officious (adj)多管閒事的/愛發號施令的 = meddlesome = intrusive, 非正式的 = informal = unofficial
 		- perfect (adj)完美的/絕對的 (v)使完美/改善 --> perfection (n)完美
-		- proficient (adj)熟練的/精通的 = skillful = expert
+		- proficient (adj)熟練的/精通的 = skillful = expert --> proficiency (mn)精通/熟練 = expertise
 		+ profit (n)利潤/利益/益處 --> profitable (adj)贏利的/有益的 --> profitability (n)有利/有益
 		- refection (n)便餐/點心/茶點 = refreshment, (靠飲食等)恢復體力
 		- refectory (n)學院餐廳/食堂
@@ -2665,7 +2666,7 @@
 		- genital (adj)生殖的 <|> genial --> genitals (n)生殖器官 
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類 --> genera (n)類
-		- /ˈ(d)ʒɒnrə/ genre (n)文藝作品之類型
+		- /ˈʒɒ̃rə/  genre (n)文藝作品之類型
 		+ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
 		+ homogeneous --> homogeneity
 		+ heterogeneous
@@ -2771,7 +2772,7 @@
 		- horizon (n)地平線
 
 	here, her, hes 黏住 = stick, cling
-		- adhere (v)黏附 = attach, 堅持
+		- /ədˈhɪə/ adhere (v)[to]黏附 = attach, 堅持
 		- adherent (n)擁護者/信徒 = devotee = disciple
 		- /ədˈhiːsɪv/ adhesive (adj)黏性的 = viscous = viscid (n)黏著劑
 		- coherent (adj)有條理的/連貫的, 形成一體的
@@ -2859,7 +2860,7 @@
 
 	hemi 半 = half
 		- hemianopia (n)偏盲/單側盲
-		- hemisphere
+		+ hemisphere
 		- hemicardia (n)半心畸形
 		- hemicycle (n)半圓
 
@@ -2922,7 +2923,7 @@
 			- impermanent (adj)暫時的 = temporary <-- im + permanent
 			+ impermeable (adj)不能透水的/不可滲透的 = impervious = impenetrable = impassable <-- im + permeable
 			+ impermissible (adj)不允許的 = unallowable
-			+ impersonal (adj)非個人的/客觀的 = objective, 無特色的/不知名的, 非人的, 非人稱的
+			+ impersonal (adj)非個人的/客觀的 = objective, 無特色的/不知名的, 非人的, 非人稱的 <|> impersonate
 			++ impertinent (adj)無禮的 = uncivil = discourteous, 無關的 = irrelevant = extraneous = immaterial = inconsequential
 			- impertinence (n)無理/粗魯 = rudeness <-- im + pertinence
 			+ imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
@@ -3109,7 +3110,7 @@
 			+ impute
 			- inaugurate --> inaugural
 			- inborn (adj)天生的 = innate
-			* innate
+			+ innate
 			- incandescent --> incandescence
 			- incarcerate (v)監禁/關押 = imprison = confine = immure <-- in + carcer 監牢 = prison + ate
 			- imprison (v)監禁/關押
@@ -4188,7 +4189,7 @@
 		- innumerable (adj)數不清的/多不可數的
 
 	nat, nasc, naiss 出生 = born
-		+ innate (adj)與生俱來的/天生的 = inborn = native <|> inmate
+		+ /ɪˈneɪt/ innate (adj)與生俱來的/天生的 = inborn = native <|> inmate
 		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
 		- nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
@@ -4334,6 +4335,7 @@
 			++ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above == up
+			- overarch (v)在……上成拱形
 			- overhear (v)偶然聽到/無意中聽到
 			- overland (adv)經由陸路 (adj)經由陸路的
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
@@ -4810,6 +4812,7 @@
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
 			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
+		    * passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
 			- impassioned (adj)充滿激情的/熱烈的 <--> impassive <--> unimpassioned
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
 
@@ -5097,6 +5100,7 @@
 
 	ped, pedo 兒童 = child
 		- /ˈpɛdəɡɒdʒi/ pedagogy (n)教育學 --> pedagogue (n)教師 = teacher
+		- /ˌpɛdəˈɡɒdʒɪk(ə)l/ pedagogical (adj)教育的
 		+ /ˈpɛd(ə)nt/ pedant (n)書呆子/學究 --> pedantic (adj)學究式的/過分注意小細節的 = overscrupulous
 		- pediatric (adj)小兒科的 --> pediatrics (n)小兒科 <-- ped + iatric 治療 = heal + s
 
@@ -5335,7 +5339,7 @@
 		- conquer (v)以武力征服 = overcome, 克服(問題或弱點), 成功登上(山) 
 		- conquest (n)征服 = subjugation, 征服地, 克服, 成功登上
 		* /ˈɛkskwɪzɪt/ exquisite (adj)精緻的, 劇烈的/強烈的, 敏銳的 = sensitive = discriminating (n)服飾過於講究的男子 = dandy
-		* inquire (v)詢問/打聽, [into]調查 = investigate --> inquiry (n)打聽/質詢, 調查
+		* inquire (v)詢問/打聽, [into]調查 = investigate --> /ɪnˈkwʌɪri/ inquiry (n)打聽/質詢, 調查
 		+ inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
 		- inquisition (n)審訊/盤問, 宗教裁判
 		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇 = perk = fringe benefit = bonus
@@ -5913,6 +5917,7 @@
 		- stay (v)停留/留下/保持, 堅持/忍耐 (n)逗留, 制止/遏止, 胸衣
 		- stance (n)站姿, 立場 = standpoint
 		++ stanch, staunch (v)止血 (adj)忠誠的 = loyal, 堅固的(牆壁)
+		- standstill (n)停止/停滯
 		- stanza (n)詩節/詩段 = verse
 		+ stasis -> stases (n)停滯/靜止 = inactivity = equilibrium, 瘀血
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
@@ -6180,6 +6185,7 @@
 		- associate (v)連結 = connect, [be associated with]與..有牽連, 來往/交往 (n)合夥人/夥伴/同事 = partner = companion, 準會員, 關聯 (adj)聯合的, 副的
 		- association (n)聯盟/協會 = syndicate, 聯合 = connection, 關聯
 		- dissociate (v)使分離 --> dissociation (n)分離/游離, 精神分裂
+	    * sociable (adj)好交際的/善於社交的 = convivial = gregarious
 		* society (n)社會, 社團/協會 = organization = club, 交際 --> social (adj)社會的, 社交的/交際的, 社會性的/群居的 (n)聯誼會/聯歡會
 		- /səˈsʌɪɪtəl/ societal (adj)社會的
 		- /səʊʃɪˈɒlədʒi/ sociology (n)社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
@@ -6238,8 +6244,9 @@
 
 	sphere 球/團
 		- biosphere
-		* hemisphere (n)半球, 腦半球
+		+ hemisphere (n)半球, 腦半球
 		- atmosphere (n)大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
+		- /maɡˈniːtəsfɪə/ magnetosphere (n)磁氣圈/磁層(一個天體周圍、以該天體的磁場為主的地區)
 		- /ˈstratəˌsfɪə/ stratosphere (n)平流層, [非]最上層/巔峰
 		- /ˈtrɒpə(ʊ)sfɪə/ troposphere (n)對流層
 
@@ -7236,7 +7243,7 @@
 		- vacuum (n)真空, 真空吸塵器 (v)用真空吸塵器清掃
 		- vanish (v)突然消失, 逐漸消失 = evanesce
 		- vanity (n)虛榮/自負, 自費出版, 徒勞/無益, 梳妝臺
-		- void (adj)[法]無效的/無法律效力的, 無用的/徒勞的 = futile = ineffectual, 空的 = empty, [of]缺乏..的 = devoid, 空缺的(職位) = vacant (n)空, 空虛 = emptiness (v)[法]宣布..無效, 排出 = discharge, 排泄 = excrete
+		- void (adj)[法]無效的/無法律效力的, 無用的/徒勞的 = futile = ineffectual = vain, 空的 = empty, [of]缺乏..的 = devoid, 空缺的(職位) = vacant (n)空, 空虛 = emptiness (v)[法]宣布..無效, 排出 = discharge, 排泄 = excrete
 		- voidance (n)排出/排泄, [法]無效化
 
 	vow, vot 誓言 = vow

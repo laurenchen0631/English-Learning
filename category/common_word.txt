@@ -1624,8 +1624,7 @@
 		> How can he get by on so little money?
 		> We can get by with four computers at the moment, but we`ll need a couple more when the new staff arrive.
 	- get-tough 採取強硬手段的 == characterized by firmness and determination to act if and as necessary
-	- get-go 開始/開端 == the beginning, when someone starts to do something, or a process starts
-		> The latest research shows that babies can be taught the difference between night and day from the get-go.
+
 	- give -> gave -> given
 	+ give off 散發 == to produce heat, light, a smell, or a gas
 		> The fire was giving off a lot of smoke.
@@ -1751,6 +1750,8 @@
 		> Roger handed the ball off to Jeff. He handed off the ball. Tim handed it off.
 		> I`m going to hand this assignment off to Jeff.
 		> Don`t hand off your dirty work to me — do it yourself!
+	- hand out 分發
+		- Would you please hand out the balloons to the children?
 	- hang -> hung -> hung
 	- hang-up 焦慮/煩惱 == a permanent and unreasonable feeling of anxiety about a particular feature of yourself
 		> He`s one of these men who went bald very young and has a terrible hang-up about it.
@@ -2026,6 +2027,7 @@
 		> |A sleeveless padded tunic worn by foot soldiers.|
 		> 偷 |Take (something) illicitly; steal.| what`s wrong is to jack somebody`s lyrics and not acknowledge the fact
 		> 搶劫 |Rob (someone)| they told police they`d been prowling the streets looking to jack someone
+	- jack-of-all-trades (n)萬事通
 	- jam
 		> 擠入 |Squeeze or pack tightly into a specified space.| ‘four of us were jammed in one compartment
 		> 使長時間忙線 |Cause (telephone lines) to be continuously engaged with a large number of calls.|
@@ -2725,6 +2727,7 @@
 		> No one has owned up to stealing the money.
 	
 [P]
+	- packet (n)一包/一盒, 內容物, 郵船 (v)把……包起來
 	- paddle
 		> 槳 |A short pole with a broad blade at one or both ends, used without a rowlock to move a small boat or canoe through the water.| we dug in deep with our paddles
 		> 划槳 |An act of paddling a boat.| a gentle paddle on sluggish water
@@ -4187,6 +4190,8 @@
 	- straight
 	- straight out of == similar in type to something
 		> The band’s sound is straight out of the 60s.
+	- straighten sth up 清乾淨
+		- Mark and I managed to straighten up the house before our parents got home.
 	- squad
 		> 小隊 |A small group of people having a particular task.| an assassination squad
 		> 班/小組 |A small number of soldiers assembled for drill or assigned to a special task.| the demolition squad from No. 6 Troop were blowing up the guns
@@ -5347,6 +5352,7 @@
 		> 抑揚頓挫 |A modulation or inflection of the voice.| the measured cadences that he employed in the Senate
 		> 節奏 |Rhythm| the thumping cadence of the engines
 		> 結尾 |A sequence of notes or chords comprising the close of a musical phrase.|
+	- chirpy (adj)啁啾叫的, 快活的
 	+ clamor /ˈklamər/ (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)大聲的抱怨/強烈呼聲, 吵鬧/喧嚷
 	- click
 		> 發出喀嚓聲 |Make or cause to make a short, sharp sound as of a switch being operated or of two hard objects coming smartly into contact.| the key clicked in the lock and the door opened
@@ -5447,6 +5453,7 @@
 		> 音節字 |A character or characters representing a syllable.|
 		> 少許表示/幾乎 |The least amount of speech or writing; the least mention of something.| I would never have breathed a syllable if he had kept quiet
 		> 按音節發音 |Pronounce (a word or phrase) clearly, syllable by syllable.|
+	- whistler (n)吹口哨的人, 哨聲波(由閃電產生的極低頻率或VLF電磁波)
 
 [Status]
 	- baron /ˈbar(ə)n/ 

@@ -172,6 +172,7 @@
 	- bumblebee (n)雄蜂/大黃蜂
 	- honey bee (n)蜜蜂
 	* termite /ˈtəːmʌɪt/ (n)白蟻
+	- aphid /ˈeɪfɪd/ (n)蚜蟲
 	- borer /ˈbɔːrə/ (n)蟲/蛀蟲, 鑽孔器
 	- flea (n)跳蚤
 	* centipede /ˈsɛntɪpiːd/ (n)蜈蚣
@@ -198,7 +199,6 @@
 	+ ostrich /ˈɒstrɪtʃ/ (n)鴕鳥
 	- dodo (n)渡渡鳥/愚鳩 == A large extinct flightless bird with a stout body, stumpy wings, a large head, and a heavy hooked bill. It was found on Mauritius until the end of the 17th century.
 
-
 	+ seagull (n)海鷗
 	- pelican (n)鵜鶘
 	- puffin (n)海鸚鵡
@@ -223,6 +223,7 @@
 	- lesser spear-nosed bat (n)小鼻長矛蝙蝠
 	* vulture /ˈvʌltʃə/ (n)禿鷹
 	- brush turkey (n)刷火雞/磨砂火雞/灌木火雞
+	- owl /aʊl/ (n)貓頭鷹/鴞裊
 
 [Aquatic]
 	+ plankton /ˈplaŋ(k)t(ə)n/ (mn)浮游生物 --> - planktonic (adj)浮游生物的
@@ -231,6 +232,7 @@
 	- Ammonoid (n)菊石，一群已經滅絕的海洋生物總稱，約在泥盆紀早期出現在地球上，最後與恐龍、箭石等生物一起於白堊紀末期滅絕
 	- foraminifera (n)有孔蟲門，為變形蟲狀原生生物的大分類，屬於藻類
 
+	- notothenioids (n)南極魚亞目
 	- sardine (n)沙丁魚 == A young pilchard or other young or small herring-like fish.
 	+ trout /traʊt/ (n)鱒魚
 	- catfish (n)鯰魚
@@ -238,7 +240,8 @@
 	- eel /iːl/ (n)鰻 
 	- molly (n)茉莉花鱂, 亞甲二氧甲基苯丙胺
 	+ salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
-	- notothenioids (n)南極魚亞目
+	- anchovy /ˈantʃəvi/ (n)鯷魚
+	- damselfish /ˈdamz(ə)lfɪʃ/ (n)小熱帶魚
 	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
 
 	- bottlenose dolphin (n)寬吻海豚屬
@@ -333,7 +336,7 @@
 	- pollinator (n)傳粉媒介
 	- chlorosis (n)缺綠病，也稱為萎黃病，是植物體葉綠素含量不足的情況
 	- chlorophyll /ˈklɔːrəfɪl/ (n)葉綠素
-	- anthocyanin (n)花青素
+	- anthocyanin /ˌanθə(ʊ)ˈsʌɪənɪn/ (n)花青素
 	- petiole (n)葉柄, 肉莖
 	- mycorrhiza /ˌmʌɪkə(ʊ)ˈrʌɪzə/ (n)菌根(維管植物的根與真菌組成的共生關係體) --> mycorrhizal (adj)菌根的
 	- fibrous (adj)纖維的/纖維狀的

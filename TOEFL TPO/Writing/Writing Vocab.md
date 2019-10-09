@@ -19,7 +19,7 @@
 + important 重要的 == substantive == significant == essential == influential == consequential == critical
 + considerable 相當的 == appreciable == substantial == fair
 + enough 充足的 == adequate == sufficient
-+ completely 完全地 = entirely == absolutely == thoroughly == utterly == wholly
++ completely 完全地 == sheer = entirely == absolutely == thoroughly == utterly == wholly
 + determine 決定 == resolve == decide == elect
 + option 選擇 == alternative == substitute == selection
 + get acquainted with 認識 == familiarize == be knowledgeable about
@@ -130,5 +130,5 @@
 - typical 標準的 == standard == normal == basic == classic
 - normal 普通的 == ordinary == mundane
 - minuscule 微不足道的 == negligible == inappreciable == minute
-- belittle 輕視 == detract = disparage = scorn = depreciate = downplay = disdain = trifle
+- belittle 輕視 == scorn == depreciate == downplay == detract == disparage  == disdain == trifle
 - hide 藏 == conceal == cover == obscure == shelter

@@ -83,6 +83,7 @@
 	+ weather (n)天氣, 惡劣天氣, 迎風 (v)遭受日晒雨淋, 風化, 平安度過(暴風雨), 忍住(危險)
 	- clime /klʌɪm/ (n)氣候區 == A region considered with reference to its climate.
 	- monsoon /mɒnˈsuːn/ (n)季風
+	- trade wind (n)信風，又稱貿易風，指的是在低空從亞熱帶高壓帶吹向赤道低壓帶的風，北半球吹的是東北信風，而南半球吹的是東南信風
 	- cyclone (n)氣旋 --> cyclonic (adj)氣旋的
 	- condensation (n)冷凝, 凝結/凝聚, 縮寫本/濃縮版本
 	- Mediterranean climate (n)地中海型氣候
@@ -94,7 +95,7 @@
 	- temperate zone (n)溫帶
 	- tropic (n)熱帶
 	- greenhouse effect (n)溫室效應
-	- El Niño 聖嬰現象
+	- El Niño /ɛl ˈniːnjəʊ/ (n)聖嬰現象
 	- smog /smɒɡ/ (n)霧霾 == Fog or haze combined with smoke and other atmospheric pollutants.
 	- thermal inversion (n)逆溫現象(一種氣象學的現象，指地面上的溫度隨著高度越高而增加，與高度越高溫度下降的正常現象相反)
 	- drought /draʊt/ (n)乾旱, 長期的缺乏
@@ -161,6 +162,7 @@
 	- secondary flow (n)二次流/副流(疊加在主流上的相對較小的流)
 	- high tide (n)滿潮
 	- low tide (n)低潮/退潮
+	- upwelling (n)上升流/湧升流，是一種海洋學現象，是由風力驅動溫度較低、密度較大、通常富含營養的海水流向海表面
 	- silt --> siltation (n)淤積，是由顆粒狀陸地碎屑物質引起的水污染，指的是懸浮沉積物濃度的增加以及不希望在底部沉積的細小沉積物的增加
 	- pothole /ˈpɒthəʊl/ (n)壺洞/路陷(路面出現結構崩壞的現象，一般由地下水、車輛經年累月通過有關區域造成), 道路上的洞坑
 
@@ -207,3 +209,4 @@
 	- the Caspian Sea (n)裏海，位於亞洲與歐洲交界，是世界上面積最大的封閉內陸水體
 	- the North Sea (n)北海，是北大西洋的一部分，位於大不列顛島以東，斯堪的納維亞半島西南和歐洲大陸以北
 	- the Bering Strait (n)白令海峽，是太平洋的一個海峽，位於亞洲最東點的迭日涅夫角和美洲最西點的威爾斯王子角之間的海峽
+	- Humboldt Current == Peruvian Current (n)洪堡涼流/秘魯涼流

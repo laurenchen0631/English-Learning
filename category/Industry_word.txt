@@ -1038,7 +1038,7 @@
 	- tabloid
 		> 小報 |A newspaper having pages half the size of those of the average broadsheet, typically popular in style and dominated by sensational stories.|
 		> 轟動的 | Lurid and sensational.| a tabloid TV show
-	- Pulitzer Prizes 普立茲獎，亦稱普立茲新聞獎
+	- Pulitzer Prizes /ˈpʊlɪtsə ˌprʌɪz/ (n)普立茲獎，亦稱普立茲新聞獎
 	- science-fiction 科幻
 	- Martian /ˈmɑːʃ(ə)n/ 火星人 == A hypothetical or fictional inhabitant of Mars.
 	- motion-picture 電影 == A cinema film
@@ -1661,6 +1661,7 @@
 	- asphalt /ˈasfalt/ (n)瀝青/柏油 (v)鋪瀝青於
 	- noria (n)戽水車
 	- carbon nanotube (n)奈米碳管
+	- cartridge /ˈkɑːtrɪdʒ/ (n)墨盒, 彈藥筒/彈夾
 
 [School/Education]
 	- undergrad == undergraduate (adj)大學生的 (n)大學生
@@ -1710,6 +1711,9 @@
 	- tutoring center (n)輔導中心
 	- tutor /ˈtjuːtə/ (n)家庭教師/私人教師, 助教 (v)當……的教師
 	- journal /ˈdʒəːn(ə)l/ (n)雜誌/期刊, 日記/日誌 (v)寫日誌
+	- field trip (n)校外考察/修學旅行/戶外教學
+	- Dr. Seuss (n)蘇斯博士為筆名。是美國著名的作家及漫畫家，以兒童繪本最出名
+	- Dolch list (n)由Edward William Dolch編輯的常用英語單詞列表
 
 [Political]
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
@@ -2093,6 +2097,7 @@
 	- fairground (n)露天遊樂場
 	- minstrel /ˈmɪnstr(ə)l/ (n)中世紀吟遊詩人, 藝人
 	- carousel /ˌkarəˈsɛl/ (n)旋轉木馬 = merry-go-round, 行李傳送帶
+	- seesaw (n)蹺蹺板 (v)上下來回搖動
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel

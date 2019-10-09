@@ -3,6 +3,7 @@
 	- megawatt == MW == one million watts
 	- calorie (n)卡路里 == 4.184 J(焦耳)
 	- faraday (n)法拉第(電容單位) == A unit of electric charge equal to Faraday`s constant.
+	- kilohertz (n)千赫茲
 
 	- liter (n)公升
 	- kiloliter (n)公秉
@@ -33,6 +34,7 @@
 	- degree Celsius /ˈsɛlsɪəs/  == °C
 	- Celsius 攝氏 /ˈsɛlsɪəs/ 
 	- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
+
 
 [Law/Theory/Study]
 	- hypothesis (n)假說 <--> hypocrisy
@@ -155,11 +157,14 @@
 
 	- wavelength  /ˈweɪvlɛŋ(k)θ/ (n)波長
 	- waveform (n)波形 
+	- electromagnetic wave (n)電磁波/電磁輻射，量子形式是光子。電磁波不需要依靠介質進行傳播，在真空中其傳播速度為光速
+	- radio wave (n)無線電波，是一種電磁波，其波長在電磁波譜中比紅外線長
+	- VLF radio (n)甚低頻，指頻帶由3KHz到30 KHz的無線電波
+	- waveguide (n)導波管，一種用於傳導高頻電磁波的元件，和同軸電纜相似，只是其傳輸的電磁波頻率更高
 	- infrasound (n)亞聲/次聲
 	- pink noise (n)粉紅雜訊，一個具有功率譜密度與頻率成反比特徵頻譜的訊號或過程
 	- cymatics (n)細小的顆粒在振動的表面形成特定圖案的現象
 	- quantum decoherence (n)量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
-
 	- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
 	- spectrograph (n)光學光譜儀
 	- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
@@ -359,6 +364,7 @@
 	- splashdown (n)濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
 	- satellite /ˈsatəlʌɪt/ (n)衛星
 	- habitable zone (n)適居帶，是天文學上給一種空間的名稱，指的是行星系中適合生命存在的區域
+	- magnetosphere /maɡˈniːtəsfɪə/ (n)磁氣圈/磁層，一個天體周圍、以該天體的磁場為主的地區
 
 	- ecliptic (n)黃道 (adj)黃道的
 	- axial tilt /ˈaksɪəl tɪlt/ (n)轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)

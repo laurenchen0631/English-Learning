@@ -141,6 +141,8 @@
 	- That rumor has been in circulation for a long time.
 	- coins no longer in circulation
 	- by 1500, after only 45 years of the printed book, there were 9 million in circulation
+- in the nick of time 在緊要關頭/在最後一刻 == at the last possible moment
+	- We got there just in the nick of time.
 - on a whim 突然地 == Based on a sudden, impulsive urge, desire, or idea
 	- On a whim, we drove to the beach for the weekend.
 - on the fringes 不屬於/遠離
@@ -154,6 +156,8 @@
 	- Some experts think the downturn in ownership is temporary and that more millennials and families are on the verge of buying.
 - out of the gate 打從一開始 == At or from the very starting position
 	- The company’s stock tumbled about 5% out of the gate, to the $42 range.
+- from the get-go 開始/開端 == the beginning, when someone starts to do something, or a process starts
+	- The latest research shows that babies can be taught the difference between night and day from the get-go.
 + on and on 持續地 == continuing for a long time
 	- The noise just went on and on.
 - right off the bat 立刻/馬上 == immediately
