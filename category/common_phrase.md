@@ -546,6 +546,7 @@
 - bang for the buck 值回票價 == value in return for your money
 	- They’re very careful when they spend money, and they’re going to insist on getting the most bang for their buck.
 - big draw 非常吸引人的點 == a big source of attraction.
+- Renaissance man (n)多才多藝的人
 
 ## Apothegm
 - That was then. This is now. 此一時，彼一時

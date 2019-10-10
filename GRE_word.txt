@@ -364,7 +364,7 @@
     - bride (n)新娘 <|> bridle <|> bribe
     - brink (n)(峭壁的)邊緣 = fringe = edge, (事件發生的)邊緣 = edge
     - brisk (adj)輕快的/敏捷的/生氣勃勃的 = bracing = invigorating = vigorous
-    - brochure (n)小冊子/資料(或廣告)手冊/說明書 = booklet
+    - /ˈbrəʊʃə/ brochure (n)小冊子 = booklet
     - broker (n)經紀人 = agent, 中間人/調停人 (v)作為(中間人)安排(交易、協議等)
     - brood (n)一窩幼鳥, 孩子 = offspring (v)孵蛋, 擔憂/憂思 <|> brook
     - bruise (n/v)碰撞/瘀傷 = contusion <|> cruise
@@ -1250,7 +1250,7 @@
     - guarantee (v)保證/擔保
     - guillotine (n)斷頭台
     - guilt (n)罪行 = crime = sin, 內疚 --> guilty (adj)有罪的
-    - gulp (v)大口地吃喝, 哽住 (n)吞嚥
+    - gulp (v)狼吞虎嚥地吃, 大口地吸氣 (n)狼吞虎嚥, 一大口, 嚥
     - gum (n)橡膠
     - gush (n/v)噴湧, 滔滔地說話 --> gusher (n)淘淘不絕的說話者, 噴油井 = oil well
     - gust (n)陣風, 一陣/爆發(情緒) <|> bust <|> oust <|> rust
@@ -1909,7 +1909,7 @@
 
     * narrate (v)講/敘述, 給..作旁白 --> narrative (n)故事, 記敘文 (adj)敘述的/講故事的 <-- nar 知道 = knowing + rate
     * native (adj)天生的/天然的/自然的 = indigenous, 土著的, 本土的/本國的 (n)本地人/本國人, 原住民
-    * naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow --> naivete (n)缺乏經驗或智慧, 天真/天真的行為 <-- native
+    *** /nʌɪˈiːv/ naive (adj)天真的/純樸的 = unsophisticated = ingenuous = guileless = artless, 輕信的/缺乏經驗的 = credulous = callow --> naivete (n)缺乏經驗或智慧, 天真/天真的行為 <-- native
     * nay (adv)而且/甚至 (n)否定/拒絕/反對
     * negotiate (v)商議/談判/交涉 --> negotiation (n)商議/談判 <-- negoti 公事 = business + sate
     * negotiable (adj)可商量的
@@ -2055,6 +2055,7 @@
     + /ˈpɛsɪmɪz(ə)m/ pessimism (n)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
     ++ petulant (adj)傲慢的/專橫的 = insolent = overbearing = imperious = domineering = arrogant = peremptory = insolent, 易怒的 = peevish = irascible = irritable --> petulance (n) = peevishness
     + /ˈfalaŋks/ phalanx (n)密集的人群/方陣, 指骨/趾骨
+    +  /feɪz/ phase (n)階段/時期, 相, 盈虧 (v)分階段實行
     + /ˈfɪlɪstʌɪn/ philistine (n)庸俗的人 (adj)俗氣的/無教養的/庸俗的
     + phlegmatic (adj)冷淡的/冷靜的 = stolid = unemotional = apathetic = impassive = numb <-- phlegm
     + /ˈfiːnɪks/ phoenix (n)鳳凰, 永生或再生的象徵
@@ -2571,7 +2572,7 @@
     ++ steep (v)浸泡/浸透 = imbue = saturate (adj)陡峭的 = sheer, 高昂的 = exorbitant, 高聳的 = high = lofty --> steeped (adj)沉浸在……中的 = immersed = saturated
     + /stɛnˈtɔːrɪən/ stentorian (adj)聲音響亮的 = loud = orotund = resonant
     ++ /ˈstʌɪf(ə)l/ stifle (v)窒息 = suffocate = smother, 抑止/阻止 = suppress = curb = withhold  <|> stiff
-    + stigma (n)汙名/污點 = disgrace = inferiority, 病斑 --> stigmatize (v)污蔑/玷污 <-- stig 刺青 = tattoo + ma
+    + stigma (n)汙名/污點 = disgrace = inferiority, 病斑, [植]柱頭/眼點 --> stigmatize (v)污蔑/玷污 <-- stig 刺青 = tattoo + ma
     +++ stint (v)節省/節制 = economize (n)分配的工作, 花費的時間, 限制 = restraint = limitation <--> unstinting
     ++ stunt (v)妨礙生長, 表演特技 (n)驚人的表演/驚險動作, 引人注目的花招/噱頭
     + stipend (n)薪俸/津貼
@@ -3191,6 +3192,7 @@
     - tuxedo (n)禮服/無尾禮服
     - twig (n)小枝/嫩枝
     - twinge (n)劇痛
+    - typify (v)為……的典型, 代表/象徵 = represent = symbolize
     - typo (n)排印錯誤
     - tyre (n)輪胎
 
@@ -3250,12 +3252,13 @@
     + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity
     + vulnerable (adj)易受傷的/易收攻擊的 <-- vulner 傷口 = wound + able
 
-    * vagary (n)奇想/異想天開 = caprice = whim <|> vague
+    * vagary (n)難以預測的變化/奇想/異想天開 = caprice = whim <|> vague
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle = void
     * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
     * vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔 <|> tent
+    * ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺 --> /ˌvɛntɪˈleɪʃ(ə)n/ ventilation (n)通風, 供氧, 公開討論
     * /ˈvɛnjuː/ venue (n)發生地點 <--> /ˈmɛnjuː/ menu 
-    ** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
+    *** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
     * vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
@@ -3278,7 +3281,6 @@
     - vend (v)出售/販賣 --> vendor (n)小販 = seller
     - venom (n)毒液, 惡毒/痛恨 = malevolence
     - vent (v)發洩, 開孔 (n)孔/洞 
-    - ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺
     - verge (n)邊/邊緣, 路邊/路肩
     - vermin (n)害蟲/害獸, 危害社會的人/歹徒
     - vernacular (n)本地話/方言 = dialect = patois, 行話 (adj)用本國語的/用方言的/白話的, 本國的/本地的
@@ -3376,6 +3378,7 @@
     - whine (v)哀嚎/號哭
     - whip (n)鞭子, 投票書面通知誒, (用雞蛋、鮮奶油與水果混合製成的)甜品 (v)鞭打, 盜取, 迅速拿來/快速拿走, 攪拌(成糊狀) = stir = agitate = beat
     - whirlpool (n)漩渦
+    - whisk (v)迅速移動, 攪/打 (n)攪拌器, 撢 = fly whisk, 迅速移動
     - whisper (v)耳語/低聲說話
     - whistle (n)口哨, 汽笛聲 (v)吹口哨
     - whittle (v)削(木頭), 削減 = pare = reduce

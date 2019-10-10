@@ -233,6 +233,7 @@
 		> 被包租的交通工具 |A ship or vehicle that is hired.| the fifty foot charter Capricorn will join the team
 		> 包租旅行 |A trip made by a ship or vehicle under hire.| he liked to see the boat sparkling clean before each charter
 		> 包租 |Hire (an aircraft or ship)| he immediately chartered a plane to take him to Paris
+	- build-operate-transfer (n)BOT模式(民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營)
 	
 
 [Law]
@@ -686,6 +687,8 @@
 	+ card (n)卡片, 紙牌, 節目單, 引人發笑的人, 梳棉機 (v)把……記入卡片, 檢查身份, 紡紗前纖維梳理
 
 [Cook/Food]
+	- culinary /ˈkʌlɪn(ə)ri/ (adj)烹飪的
+
 	- Worcestershire sauce (n)伍斯特醬
 	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
 	- vinegar(n) 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
@@ -1392,6 +1395,8 @@
 	- Dadaist (adj)達達主義的 (n)達達主義者
 	- Giorgio Vasari (n)喬爾喬·瓦薩里，以傳記《藝苑名人傳》留名後世，為藝術史作品的出版先驅
 	- Michelangelo /ˌmʌɪk(ə)lˈandʒələʊ/ (n)米開朗基羅
+	- Leon Battista Alberti (n)萊昂·巴蒂斯塔·阿伯提，文藝復興時期在義大利的建築師、建築理論家、作家、詩人、哲學家、密碼學家，是當時的一位通	才。他被譽為是真正作爲復興時期的代表建築師，將文藝復興建築的營造提高到理論高度。
+	- contrapposto pose (n)對立式平衡，在視覺藝術中用來描述雕塑將重心集中在其中一側的腳上的姿態， 以這種姿態雕塑的肩部和手臂便可以偏離中軸做出更有動感，更自然的姿勢
 
 	- stencil /ˈstɛns(ə)l/ (n)鏤空範本/印刷模板, 用模板印刷的圖案或文字 (v)用鏤空範本畫
 

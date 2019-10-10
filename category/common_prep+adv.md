@@ -36,6 +36,7 @@
 	- (n)反對 |An argument against something; an objection| no buts—just get out of here
 + /ad ˈhɒk/ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
 + jointly (adv)共同地 == together
++ respectively (adv)分別地/各自地
 
 ## List
 - besides == apart from == as well 除..之外
@@ -66,6 +67,7 @@
 - conceivably (adv)可以想像地
 
 ## Others
+- throughout (adv/prep)遍及/遍布, 從頭到尾
 - anew (adv)
 	- 重新 |In a new or different and typically more positive way.| her career had begun anew, with a lucrative Japanese modelling contract
 	- 再一次 |Once more; again.| tears filled her eyes anew

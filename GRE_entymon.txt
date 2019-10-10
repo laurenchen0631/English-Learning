@@ -90,22 +90,22 @@
 			+ astringent 
 			+ attest
 			+ attenuate
-			+ attune
-			+ attribute --> attributable
+			+ attune --> attuned
+			+ attribute --> attribution --> attributable
 			+ auspices --> auspicious
-			+ adverse --> adversary --> adversity
-			+ averse --> aversion
 			+ aver
+			+ adverse --> adversary --> adversarial --> adversity
+			+ averse --> aversion
 			+ avert
 
 		2. 不/無 = without
-			+ abdicate
 			+ abjure
 			+ abstain
 			+ /əbˈstiːmɪəs/ abstemious (adj)(吃喝)節制的, 節儉的 = temperate = restrained = frugal <-- abs + tem 酒 + ious
 			+ abstruse
 			* abuse
 			++ /əˈbɪs/ abyss (n)深淵, 險境 --> abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
+			+ abdicate
 			- anaerobic
 			- analgesia
 			+ anarchy
@@ -121,8 +121,8 @@
 			+ /eɪˈtɪpɪkəl/ atypical (adj)非典型的/異常的/不同尋常的
 
 		3. 離去 = off == ab
-			- abort (v)流產, 發育不全, 失敗/夭折 (n)取消, 夭折企業 --> abortive (adj)失敗的, 發育不全的/早期的 --> abortion 
-			(n)人工流產, 發育不全, 失敗 = failure <-- ab + ort 生 = be born
+			- abort (v)流產, 發育不全, 失敗/夭折 (n)取消, 夭折企業 --> abortive (adj)失敗的, 發育不全的/早期的
+			- abortion (n)人工流產, 發育不全, 失敗 = failure <-- ab + ort 生 = be born
 			+ abscission
 			+ abscond
 			+ absolve
@@ -157,7 +157,7 @@
 		2. 古 = ancient
 			+ antic (adj)古怪的 = erratic = grotesque = bizarre
 			- antics (n)古怪而可笑的舉動/噱頭
-			* /anˈtiːk/ antique (adj)古時的/古老的 (n)古董
+			* /anˈtiːk/ antique (adj)古時的/古老的 = archaic (n)古董
 			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
 			+ antiquarian (adj)古文物的 (n)古文物家
 			- antiquity (n)古代, 古董, 古老 = great age
@@ -229,7 +229,7 @@
 	apt 能力/適應 = apt == ept 
 		+ adapt (v)適應/改造/改編 = adjust
 		+ adaptable (adj)有適應能力的, 可改編的 --> adaptability (n)適應性/適應能力
-		+ aptitude (n)才能/資質 = capability = ability = faculty, 傾向/習性 = inclination = predilection = propensity
+		+ aptitude (n)才能/資質 = capability = ability = faculty, 傾向/習性 = inclination = predilection = propensity <|> attitude
 		+++ apt (adj)易於...的 = liable, 恰當的/合適的 = apposite = appropriate = suitable, 聰明的
 
 	add 增加
@@ -243,7 +243,7 @@
 		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
 		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
 		- aeroponics (n)無土種植法
-		-  /ɛːˈrəʊbɪks/ aerobics(n)有氧運動
+		-  /ɛːˈrəʊbɪks/ aerobics (n)有氧運動
 
 	agog 引導 = lead, guide
 		+ demagog, demagogue
@@ -267,7 +267,7 @@
 		+ /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 <--> egoism --> altruistic (adj)利他主義的/無私的
 		+ alienate (v)使疏遠/背離 = estrange = disaffect
 		+++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize <|> /ˈʌtə/ utter <|> /ˈɔːltə/ altar
-		+ alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
+		+++ alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
 		** alternate /ˈɔːltəneɪt/ (v)輪流/交替 /ɔːlˈtəːnət/ (adj)輪流的/交替的 (n)替代性選擇 = alternative, 候選人
 		- altercate (v)爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
 		+ inalienable
@@ -344,7 +344,7 @@
 		- arborescent (adj)樹木狀的
 
 	archae, arche 原本的 = original
-		+ /ɑːˈkeɪɪk/ archaic (adj)古老的/古代的/原始的/過時的
+		+ /ɑːˈkeɪɪk/ archaic (adj)古老的/古代的/原始的/過時的 = antique
 		+ archaeology, archeology (n)考古學
 		+ archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
 
@@ -398,8 +398,8 @@
 		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
 		- artsy, arty (adj)附庸風雅的
-		- /ˈɑːtɪstri/ artistry (n)藝術才能
-		- artisan (n)工匠/技工 = craftsman
+		* /ˈɑːtɪstri/ artistry (n)藝術才能
+		* artisan (n)工匠/技工 = craftsman
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -433,7 +433,7 @@
 		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate --> authenticity (n)真偽/真實性/可靠性
 		- authoritarian (n)獨裁主義者
 		+ authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
-		+ authority (n)權威/權力
+		+ /ɔːˈθɒrɪti/ authority (n)權威/權力
 		- authorize (v)授權, 批准 = approve = permit = ratify
 
 	auto 自己 = self
@@ -543,7 +543,7 @@
 		- bleach (v)漂白/使褪色 (n)漂白劑
 
 	bore 厭煩
-		+ bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑 <|> pore
+		+ bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑 = caliber <|> pore
 		- boredom (n)厭煩/厭倦
 
 	brav 勇敢 = brave
@@ -621,7 +621,7 @@
 			+ concave
 			+ conceive --> conceivable
 			* concert
-			+ /kənˈkɒkt/ concoct (v)調製/配製 = confect, 編造/捏造 = devise = make up = contrive = invent = vamp <-- com + cook
+			+ /kənˈkɒkt/ concoct (v)調製/配製 = confect, 編造/捏造 = devise = make up = contrive = invent = vamp
 			+ concomitant (adj)同時發生的/伴隨的 = concurrent (n)同時發生的事/伴隨物 <-- con + come
 			+ concentrate --> concentration
 			+ concrete
@@ -648,12 +648,11 @@
 			+++ connote --> connotation --> connotative
 			+ conscience --> conscientious
 			+ conscious
-			* conscribe
 			+ conscript
-			* consent
 			+ consensus
 			+ consequence
-			* consequential, consequent
+			* consequential
+			* consequent
 			* conserve
 			+ conservative
 			- consider
@@ -696,13 +695,12 @@
 			+ convivial --> conviviality
 			+ convoluted
 			++ /kənˈvʌls/ convulse (v)(使)振動/劇烈抖動/抽搐, 震撼(國家) --> convulsion (n)動亂, 痙攣/抽搐 = spams = contraction, 捧腹大笑, 地震/地殼搖動 <-- con + vul 拉 = pull, tear + se
-			* correspondent
+			+ correspond --> correspondent
 			+ corroborate --> corroborant
-			+ corrupt
 			
 		2. 全部/始終/完全 = completely
 			- coherent
-			- corrupt
+			+ corrupt
 			- combust (v)燒掉/燒毀 --> combustion (n)燃燒, 氧化
 			- combustible (adj)可燃的/易燃的 = flammable, 易激動的 = aroused <-- com + bust 燃燒 = burn + ible
 			- commemorate
@@ -716,16 +714,15 @@
 			+ conceal (v)隱藏/隱瞞 = hide = disguise = dissemble = clock = harbor = obscure <--> evince = divulge = disclose <-- con + ceal 藏 = hide
 			+ concede --> concession
 			* conceit --> conceitd
-			* concept --> conception
 			+ concise --> concision
 			+ conclude --> conclusive --> conclusion
 			+ condemn
-			+ confident
+			+ confident --> confidence --> confidential
 			+ consecrate
 			+ conspicuous
 			+ contemplate (v)凝視/注視, 思索 = deliberate = meditate, 預期/盤算 = intend <-- com + temple + ate
 			+ contemplation (n)凝視, 反思, 沉思, 冥想
-			* content --> contentment
+			* content --> contentment --> contented
 			+ contrive --> contrived
 			+ convex
 			++ convict --> conviction
@@ -752,6 +749,7 @@
 	counter
 		1. 反 = against, ooposite, contrary
 			+ counteract (v)對抗/抵銷 = act against == neutralize
+			- counterargument (n)用來反駁的論點
 			- countercurrent (n)逆流 (adv)逆流地
 			+ countermand
 			+ counterintuitive (adj)反直覺的/反常識的
@@ -799,7 +797,7 @@
 	cur, curr, cor, corr, curs, cour 跑 = run
 		** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
 		- corral (n)(牛、馬等)畜欄/圍欄 (v)把(馬、牛)趕進畜欄/把(一群人)集中起來
-		- /ˈkɒrɪdɔː/ corridor (n)走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
+		* /ˈkɒrɪdɔː/ corridor (n)走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
 		+ cursory (adj)倉促的/匆忙的 = hasty = superficial
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
@@ -828,7 +826,7 @@
 	cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
 		- accept (v)接受/收受/歡迎/相信
 		+ anticipate (v)預期/期望, 預先做 = forestall
-		+ /kəˈpasɪti/ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能,  資格/地位
+		+ /kəˈpasɪti/ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能, 資格/地位
 		- capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
 		- captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
 		+ captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
@@ -862,16 +860,16 @@
 		+++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任(職務) <-- oc + cup 抓 = take, seize + y
 		* occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
 		* perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
-		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception, 感覺/知覺/感知
+		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception = understanding, 感覺/知覺/感知
 		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
 		+ perceptible (adj)可察覺到的/可感知的
 		+ percipient (adj)觀察敏銳的/有洞察力的 == perceptive (n)有感知力的人
 		+ precept (n)格言/箴言, 戒律 = principle = law = canon = tenet
 		- precipice (n)懸崖/峭壁
 		+ precipitous (adj)險峻的/陡峭的, 突然的/戲劇化的, 魯莽的/倉卒的
-		+ precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
+		++ precipitate (v)使突然發生/加速…的發生 = accelerate, 使直直落下, 使沈澱 (adj)突然的, 倉促的/輕率的 = rash = hasty = sudden = plunge
 		- precipitant (n)沈澱物
-		- precipitation (n)降水, 沈澱
+		* precipitation (n)降水, 沈澱
 		- receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
 		*** reception (mn)接收, 歡迎 (n)接待, 接待會/歡迎會/宴會, 接收品質
 		+ receptive (adj)善於接受的/從善如流的
@@ -1021,7 +1019,7 @@
 	cove, cave, cav 山凹/空/洞 = hollow
 		- alcove (n)凹室/壁龕
 		+ concave (adj)凹的/凹面的 <--> convex
-		- excavate (v)挖掘, 發掘/挖出(古物等) = exhume
+		* excavate (v)挖掘, 發掘/挖出(古物等) = exhume
 		- cavity (n)洞穴, 腔, (病變形成的)空洞
 		- cavern (n)岩洞, 深部 (v)挖空
 
@@ -1037,7 +1035,7 @@
 	chrom, chrome 顏色 = color
 		- chromatic (adj)色彩的/顏色的, 五彩的, 半音的
 		- chromatron (n)彩電顯像管
-		- chromatophore /kroʊˈmætəfɔr/ (n)色素體
+		- /kroʊˈmætəfɔr/ chromatophore (n)色素體
 		- chromosome (n)染色體
 		- chrome, chromium (n)鉻
 		- fluorochrome (n)螢光染料
@@ -1098,7 +1096,7 @@
 		- recriminate (v)反控
 
 	cult 培養/種植 = care for, inhabit, worship
-		+ cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine, 結交 
+		+ cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine = nurture = educate, 結交 
 		- cultivable (adj)可耕作的/可種植的
 		- cultured (adj)有文化修養的
 		- agriculture
@@ -1124,7 +1122,7 @@
 		- carrion (n)腐肉
 
 	carp, cerpt 挑選 = pluck
-		++ carp (v)挑剔/吹毛求疵 = quibble = cavil (n)鯉魚 --> carping (adj)吹毛求疵的/挑毛病的 = cantankerous = censorious = faultfinding
+		++ carp (v)挑剔/吹毛求疵 = quibble = cavil (n)鯉魚 --> carping (adj)吹毛求疵的/挑毛病的 = censorious = faultfinding
 		+ carpet (n)地毯, 一層 (v)在…上鋪地毯
 		- excerpt (n)摘錄/節錄/片斷
 
@@ -1144,7 +1142,7 @@
 		- holocaust (n)大毀滅/浩劫, 大屠殺 = massacre <-- holo 全部 = whole, entire + caust
 
 	cast, chast 潔淨 = pure
-		+ /kɑːst/ caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
+		+++ /kɑːst/ caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
 		+ castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
 		- chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
 		+ chasten (v)懲戒/磨煉
@@ -1314,12 +1312,12 @@
 		+ microcosm
 
 	crit 判斷 = judge, umpire == arbit
-		- /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準
+		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準
 		*** critic (n)批評者, 評論家
 		*** critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
 		- critique (n/v)評論
 		* /ˈkrɪtɪsɪz(ə)m/ criticism (n)批評/指責/反對, 評論/評價
-		* /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid = nag
+		+ /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = deplore = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid
 		* hypocrisy (n)偽善 --> hypocritical (adj)偽善的/虛偽的 = insincere
 		- hypercritical (adj)吹毛求疵的/過分挑剔的 = captious = carping
 
@@ -1410,10 +1408,11 @@
 			- depreciate
 			+ depress --> depressed --> depression
 			*** deprave (v)使墮落 <|> deprive --> depraved (adj)墮落的/腐敗的 = putrid = vicious = wicked --> depravity (n)墮落 = turpitude <-- de + prav 不正派的 = crooked
-			+ derive --> derived --> derivative --> derivation
+			+ derive --> derivative --> derivation
 			+ deride
 			- desire (n/v)渴望 --> desirable (adj)值得嚮往的/值得擁有的 = advisable <-- de + sire 天體 = heavenly body, constellation
-			+ despite
+			+ despise --> despite
+			* despicable
 			- destrain
 			+ desultory
 			- deterge (v)擦淨/洗淨 --> detergent (adj)去垢的/潔淨的 (n)洗潔劑/去垢劑 <-- de + terge 擦 = wipe
@@ -1432,13 +1431,14 @@
 			+ demur
 			+ denigrate
 			- delinquent
-			+ desiccate
+			+ desiccate --> desiccated
 			+ detail
 			+ deter --> deterrent
 			- degust
 			+ desist
 			+ devastate (v)摧毀/破壞 = ravage = lay waste = desolate, 壓倒/使悲痛 <-- de + vast 破壞 = lay waste + ate
-			+ devote --> devoted
+			+ devote --> devoted --> devotee --> devotion --> devotional
+			* devout
 
 		3. 離去/去掉/不 = away == dis
 			+ /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt --> debauchery (n)糜爛/沉湎酒色 <|> debouch <-- de + bauch 責任 = duty, work
@@ -1447,11 +1447,12 @@
 			- deface
 			+ defeat
 			+ defect
-			+ defer --> deference --> deferential
+			* deficit --> deficient--> deficiency
+			+ defer --> deference --> deferential --> deferement
 			- deflate
-			* deficiency
 			- defraud
 			+ defray (v)支付 <-- de + fray 花費 = cost, expense
+			- defrost (v)將……除霜, 解凍 = thaw
 			+ defunct
 			- defuse (v)拆除引信, 平息/緩和
 			- dehydrate
@@ -1466,7 +1467,7 @@
 			+ deprive --> deprivation
 			- deprecate
 			- deracinate (v)根除 = uproot = extirpate <-- de + racin 根 = root + ate
-			- derogate
+			* derogate
 			- desert
 			- desperate
 			+ desuetude (n)廢棄/不用 = disuse <-- de + sue 習慣 = accustom + tude
@@ -1475,7 +1476,6 @@
 			+ deviate --> deviant --> deviation
 
 		4. 反 = reversal
-			+ disaffected (adj)不滿的 = dissatisfied = discontented
 			+ debunk (v)揭穿 = expose <-- de + bunk 不合理/謊言 = humbug, nonsense
 			- debut (n)初次登台 <-- de + but 終點 = goal
 			- decompose
@@ -1490,6 +1490,7 @@
 		1. 無/缺乏/不/不再/否定/除去 = negation, lack, release
 			+ diffident --> diffidence
 			+ disabuse (v)糾正/打消(某人的)錯誤念頭
+			+ disaffected (adj)不滿的 = dissatisfied = discontented
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
 			- disbandment (n)團體的解散
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
@@ -1515,10 +1516,10 @@
 			+ disclose (v)揭露/公佈 = divulge = unfold
 			* discontinued (adj)停產的
 			+ discontinuity (n)不連續/不連貫
-			+ discount (n/v)減價/打折 (v)忽視/不理會 = disregard <|> recount
+			++ discount (n/v)減價/打折 (v)忽視/不理會 = disregard <|> recount
 			+ discourage (v)阻撓/阻止 = hinder, 使洩氣/使心灰意冷 = dishearten = dispirit
 			+ discourteous (adj)失禮的/沒禮貌的 = impolite = uncivil = rude = impertinent
-			+ discredit
+			+ discredit --> discredited
 			- disembody (v)脫離實體 --> disembodied (adj)無實體的, 空洞的 = fluffy
 			- disengage (v)解開/使脫離
 			- disentangle (v)解決/解開
@@ -1561,8 +1562,8 @@
 		2. 不同/分開/離開 = apart, away == de
 			* differ --> different --> difference
 			+ differentiate
-			+ diffuse = disperse
-			* disperse <-- di + spers + e
+			+ diffuse 
+			* disperse
 			+ digress --> digression
 			+ dilapidate --> dilapidated
 			+ dilate
@@ -1574,7 +1575,7 @@
 			- disjunction
 			+ dismiss --> dismissal
 			+ dispel
-			* dispose --> disposition
+			*** dispose --> disposal --> disposition --> disposable
 			+ dispute
 			+ disrupt
 			+ dissect
@@ -1603,7 +1604,7 @@
 			- disgruntle (v)使不高興/使不滿意 <-- dis + grunt + le
 			+ disguise (v)假扮 = mask, 掩飾/隱藏(感受) = conceal = dissemble = mask = cloak
 			- dispensable
-			- dissert
+			- dissertate
 			* dissipate
 			+ distort
 			+ distress (n/v)焦慮/憂慮 (n)危難/困境 --> distressing (adj)令人苦惱的/令人擔憂的 <-- di + stress
@@ -1621,7 +1622,7 @@
 		- duplex
 	
 	di 天 = daily
-		+ /dʌɪˈəːn(ə)l/ diurnal (adj)白天的, 每天的 = daily
+		+ /dʌɪˈəːnəl/ diurnal (adj)白天的, 每天的 = daily
 		- dial (n)錶盤, 旋鈕 (v)收聽/收視, 撥號
 		- diary (adj)日記
 		+ /kwɒˈtɪdɪən/ quotidian (adj)每天的 = everday, 平凡的 = commonplace = ordinary = prosaic = mundane <-- quoti 每 = every + di
@@ -1717,7 +1718,7 @@
 	dorm 睡 = sleep
 		+ dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
 		* dormancy (n)休眠狀態/冬眠 = torpor
-		- dormitory (n)宿舍 = dorm = dorm room
+		- /ˈdɔːmɪt(ə)ri/ dormitory (n)宿舍 = dorm = dorm room
 		- dormouse (n)榛睡鼠
 
 	dors, dos 背 = back
@@ -1760,10 +1761,10 @@
 		- educate (v)教育/培養
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
-		*  /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
+		* /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
-		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 --> productivity (n)生產力/生產率
+		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 = effective = trenchant --> productivity (n)生產力/生產率
 		+ reproduce (v)繁殖/生殖 = propagate, 複製/翻拍/模仿/使重現
 		+ seduce (v)勾引, 引誘/誘惑 = allure = entice --> seductive (adj)誘惑的/引人注意的
 		*** subdue (v)制服/征服 = conquer = vanquish, 使服從 = humble = tame, 鎮壓 = quell = quash = suppress = repress, 壓抑/克制 = chasten = refrain = quench = repress, 減輕/緩和 = allay, 使柔和 = soften = tame, 開墾
@@ -1782,7 +1783,7 @@
 		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
 		+ demagog, demagogue (n)蠱惑民心的政客, 群眾煽動者
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
-		+ demotic (adj)通俗的/大眾化的 = vulgar
+		+ demotic (adj)通俗的/大眾化的 = vulgar = plebeian
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
 		- epidemic (adj)流行性/傳染的, 極為風行的 (n)流行病, 風行
 		- pandemic (adj)全國流行的 (n)疫情
@@ -1810,7 +1811,7 @@
 		- duration (n)持續期間
 		- durable (adj)耐用的
 		+ endure (v)忍耐/忍受, 持續 --> enduring (adj)持續的/持久的 = lasting = permanent --> endurance (n)忍耐/耐力, 苦難/磨練
-		- /djʊ(ə)ˈrɛs/ duress (n)脅迫
+		- /djʊəˈrɛs/ duress (n)脅迫
 		- indurate (v)使堅硬 = harden
 		+ obdurate (adj)頑固的 = stubborn = refractory, 冷酷的 = hardhearted --> obduracy (n)頑固/倔強, 冷酷
 
@@ -1844,7 +1845,7 @@
 			+ ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited = exuberant, 沸騰的 --> ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
 			- edict
 			- educe
-			* elaborate --> elaboration
+			+++ elaborate --> elaboration
 			+ elate
 			+ elevate
 			+ /ɪˈlɪsɪt/ elicit (v)引出/激起 = evoke = draw out <-- e + licit 引誘 = draw, lure
@@ -1864,7 +1865,7 @@
 			- emote
 			+ enervate
 			- enormity --> enormous
-			+ enumerate
+			+ enumerate --> enumeration
 			+ eradicate
 			- erase
 			* erect (v)建立/建造, 豎立 (adj)直立的/豎起的, 勃起的 <-- e + rect 直 = direct
@@ -1892,13 +1893,14 @@
 		+ eclipse
 		- ecstasy
 		- efface
-		+ effervescence
+		+ effervesce --> effervescetnt --> effervescence
 		+ /ɪˈfiːt/ effete (adj)做作的 = affected = overrefined, 無能力的, 軟弱的/女人氣的 = effeminate <-- ef + fete 繁殖 = breeding
-		+ efficient --> efficacy
+		+ efficient 
+		+ efficacy --> efficacious
 		- effluvium
 		+ effigy
 		+ effusive
-		- ellipsis --> ellipse --> elliptical = epitomize
+		- ellipsis --> ellipse --> elliptical 
 		- escape (n/v)逃跑, 避免, 漏出 <-- es + cap 有帽斗篷 + e
 		- escapism (n)逃避現實
 		+ exacerbate
@@ -2277,7 +2279,7 @@
 		+ counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
 		+ defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
 		+ defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
-		* deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的 --> deficiency (n)
+		* deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
 		* deficiency (n)缺乏/缺少, 缺陷 = incompleteness
 		* effect (n)效果, 影響, 意義 (v)造成/產生, 實現/達到
 		* effective (adj)有效的/生效的 = efficacious, 實際上的 --> effectiveness (n)有效
@@ -3269,6 +3271,11 @@
 			+ intermit --> intermittent --> intermission
 			+ /ˌɪntəˈniːsʌɪn/ internecine (adj)內鬨的, 兩敗俱傷的 <-- inter + nec 殺 = kill + ine
 			+ interplay (n/v)互相影響 = interact = reciprocal relationship <-- inter + play
+	
+	infra 下 = below
+		+ /ɪnfrəˈrɛd/ infrared (adj)紅外線的 (mn)紅外線
+		- infrasound (n)亞聲/次聲
+		- infrastructure (n)基礎設施
 
 	in 素/酶
 		- insulin
@@ -3606,7 +3613,7 @@
 	labor, labyr 勞動 = work
 		- collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
 		- collaborative (adj)合作的
-		+++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, 詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
+		+++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, [on]詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
 		+++ labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive, 分娩
 		+ /ləˈbɔːrɪəs/ laborious (adj)耗時費力的/艱巨的/艱難的 = ardous = burdensome = onerous = strenuous = tiresome
 		- labored (adj)吃力的 = strained, 不自然的 = unnatural
@@ -5034,7 +5041,7 @@
 		+ imprecate (v)詛咒 --> imprecation (n)詛咒/咒罵 = curse = damnation = malediction
 
 	prehend, prent, pregn 抓住 = seize, grasp
-		** apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = appreciate = understand = comprehend = fathom = plumb
+		* apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = appreciate = understand = comprehend = fathom = plumb
 		++ apprehension (n)憂慮/擔心 = trepidation, 逮捕, 領會/理解 --> apprehensive (adj)(對將要做的事情)擔憂的/擔心的 = solicitous
 		- /əˈprɛntɪs/ apprentice (n)學徒 = pupil, 初學者 = beginner (v)雇用..當學徒, 做學徒
 		++ comprehend (v)充分理解/領悟 = fathom = perceive = apprehend = plumb, 包括 = embrace = comprise = include = encompass
@@ -5892,7 +5899,7 @@
 		- constitution (n)憲法/章程, 構成/組成 = composition, 構成 = forming, 體質/體格, 性格 = character
 		- constitutional (adj)憲法或章程允許的, 體質的/體格的 (n)保健散步/保健運動 <|> constitute
 		- contrast (n)對比 (v)對照/對比 = compare, 形成對比 = differ
-		- desist (v)停止/中止 = cease = abstain
+		+ desist (v)停止/中止 = cease = abstain
 		+ destitute (adj)一無所有的/一貧如洗的 = impecunious = indigent = needy, [of]缺乏..的 --> destitution (n)匱乏/窮困 = penury
 		- distant (adj)遙遠的, 遠親的, 疏遠的, 冷淡的 = aloof = reserved, 漠不關心的 = remote
 		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
@@ -5943,6 +5950,7 @@
 	struct 建立 = erect
 		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念 <|> constitute
 		- destruction (n)毀滅/消滅, 毀滅的原因
+		- infrastructure
 		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
 		- instruction (n)命令/指示, 用法說明/操作指南 (mn)教學/教育
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
@@ -5978,10 +5986,12 @@
 		+ conspicuous (adj)顯眼的/醒目的/顯著的 = apparent = salient = observable = prominent, 引人注目的 <|> conscious
 		* despise (v)鄙視 = contempt = spurn
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
+		+ despite (prep)儘管 (n)輕視 = contempt = disdain
 		+ inspect (v)檢查/審查 --> inspection (mn)檢驗/審視 = scrutiny
 		+ perspective (mn)透視圖法/遠近畫法 (n)景色 = view = prospect, 看法/觀點 = point of view, 洞察力 = sense of proportion
 		+ prospect (mn)前景/前途 (n)預期/盼望的事物, 可能成為主顧的人, 景象/景色 = perspective --> prospective (adj)預期的/盼望中的
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
+		+ respective (adj)個別的 --> respectively (adv)分別地/各自地
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specialization (n)特別化/專門化, 專業分工, 特化
 		+ species (n)物種, 種/類 = sort = kind
@@ -6330,7 +6340,7 @@
 		+ /sʌɪˈdɪərɪəl/ sidereal (adj)恆星的
 
 	still 水滴 = drop
-		+ distill (v)蒸餾, 提煉/濃縮
+		+ distill (v)蒸餾, 提煉/濃縮 --> /ˌdɪstɪˈleɪʃn/ distillation (mn)蒸餾, 萃取
 		- instill (v)滴入, 逐漸灌輸
 
 	sum 總數
@@ -6347,7 +6357,8 @@
 		+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland
  
 	stin, sti, sting, stig, stimul 刺 = prick
-		++ distinct (adj)明顯不同的 = trenchant, 分開的 = separate, 肯定的/絕對的 = definite --> distinction (n)區別/差別 = difference = contrast, 卓越, 殊勛/榮譽
+		++ distinct (adj)明顯不同的 = trenchant, 分開的 = separate, 肯定的/絕對的 = definite
+		++ distinction (n)區別/差別 = difference = contrast, 卓越, 殊勛/榮譽
 		- distinctive (adj)與眾不同的/獨特的
 		++ distinguish (v)區分/分辨 = discern = differentiate, [oneself]使傑出 --> distinguished (adj)著名的/卓越的, 氣度不凡的/高雅的
 		+ extinguish (v)熄滅 = quench, 使..消滅 = annihilate = destroy, 使(人)安靜
@@ -6517,7 +6528,7 @@
 			++ contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
 			* contraction (n)收縮, 痙攣/子宮收縮
 			++ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心/轉移 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
-			+ distract (v)干擾 interfere = disturb, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
+			+ distract (v)干擾 = interfere = disturb, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = distracted = absent-minded
 			- distraught (adj)心煩意亂的
@@ -6936,6 +6947,7 @@
 		- underbid (v)出價低於(某人)
 		++ undercut (v)削價競爭/廉價出售, 切除……的下部, 削弱/暗中破壞 = weaken = undermine (n)牛豬的腰肉, 下旋削球, 浮雕
 		- underdog (n)處於劣勢的一方, 弱者/弱勢群體
+		- underfed (adj)營養不夠的
 		- underfoot (adv)在腳下/在地上, 礙手礙腳地
 		- undergird (v)從底層鞏固或支持
 		* undergo (v)經歷 = be subjected to = experience = pass through = bear = endure = sustain = suffer = withstand
