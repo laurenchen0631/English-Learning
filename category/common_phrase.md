@@ -206,7 +206,7 @@
 - a cross section of 典型/樣品 == a group of them that you think is typical or representative of all of them
 	- Although the new, improved bicycle had appealed immediately to a few privileged women, its impact would have been modest had it not attracted a greater cross section of the female population.
 	- The demonstration provided a platform for a broad cross section of speakers.
-- (be) anything but 遠非 == not
++ (be) anything but 遠非 == not
 	- this grisly ending is anything but sentimental
 	- I will be anything but quiet on Saturday night.
 	- The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
@@ -366,6 +366,8 @@
 	- The school had its origin with a large gift from a donor.
 - hold/keep/put sth at bay 阻止/遏制 == to prevent someone or something unpleasant from harming you
 	- Exercise can help keep fat at bay.
+- keep sth straight (in one's mind) 區別/辨別
+	- These two bottles look so much alike. It's hard to keep them straight.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
 	- She made it clear that her comments were strictly off the record.
 - (be) on the same page 同意/意見一致 == in agreement
@@ -463,8 +465,10 @@
 ## Status
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
-- catch-22 左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
+- catch-22 (n)左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
 	- But it is a catch-22 situation - you can't get people without funding, but you can't get funding without the people there in the first place.
+- free-for-all (n)不受控制的局面
+	- The fight on the basketball court turned into a free-for-all.
 - from scratch 從頭開始/從零開始 = from the beginning, without using anything that already exists
 	- Ben built the shed from scratch.
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
@@ -557,3 +561,8 @@
 	- These small local protests are just the tip of the iceberg.
 - if you will/like 如果你願意那樣說的話
 	- I did very well in school , with a "genius IQ" if you will.
+
+## Thing
+- a bite (to eat) 一些食物 == some food
+	- We don't have a lot of time, so let's just grab a quick bite to eat before the movie starts.
+	- Let's pull off at the next rest stop to grab a bite to eat.

@@ -484,7 +484,7 @@
 		+ beneficent (adj)行善的/慈善的 = benevolent = philanthropic = charitable, 仁慈的 = kindly = benevolent = humane, 有益的 = beneficial
 		- benefice (n)有俸聖職, 僧侶之祿/聖俸
 		+ beneficial (adj)有益的/有用的 = salutary = helpful = useful = beneficent
-		- beneficiary (n)受益人
+		- beneficiary (N)受益人
 		+ benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的 = beneficent = charitable = philanthropic
 		+ /bɪˈnʌɪn/ benign (adj)慈祥的 = gracious = benevolent, 氣候溫和的, 良性的/吉利的 = favorable = propitious = auspicious <--> malignant
 		+ /ˈbɒnəmiː/ bonhomie (n)友好/和藹 = geniality = friendliness = affability = amiability = amiableness <-- homie
@@ -1490,7 +1490,8 @@
 		1. 無/缺乏/不/不再/否定/除去 = negation, lack, release
 			+ diffident --> diffidence
 			+ disabuse (v)糾正/打消(某人的)錯誤念頭
-			+ disaffected (adj)不滿的 = dissatisfied = discontented
+			- disaffect (v)使不滿/使不忠
+			+ disaffected (adj)不滿的 = dissatisfied = discontented <|> unaffected
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
 			- disbandment (n)團體的解散
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
@@ -1503,10 +1504,9 @@
 			- disfigure
 			- disfranchise, disenfranchise (v)剝奪選舉權
 			* disuse (n)不用/廢棄 = desuetude
-			* dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱 --> dishonorable (adj)可恥的/卑鄙的 = ignoble
+			** dishonor (v)使蒙受恥辱, 不尊重, 拒付 (n)不名譽/恥辱 --> dishonorable (adj)可恥的/卑鄙的 = ignoble
 			- disgorge
 			*** disgrace (v)使丟臉/使蒙羞 = dishonor (n)恥辱/丟臉 = dishonor = opprobrium = stigma
-			- disaffect (v)使不滿/使不忠
 			- disagreeable (adj)令人討厭的, 難相處的/脾氣壞的 = quarrelsome = contentious
 			- disarm
 			+ disarray (v)弄亂 (n)混亂/無秩序 = disorder = confusion, 衣裝不整 = disorder of apparel
@@ -1947,7 +1947,7 @@
 		+ expatriate
 		+ expiate
 		- expire --> expiration
-		+ explicate --> explicit
+		+ explicate --> explication --> explicit
 		- explode (v)使爆炸, 爆發, 快速成長, 推翻/駁倒 --> explosive (adj)爆炸性的, 暴躁的 (n)炸藥
 		+ expound --> exponent --> exponentially
 		+ exposition --> expository
@@ -1956,10 +1956,10 @@
 		- expunge
 		+ expurgate (v)刪去(不當處) = censor = bowdlerize <-- ex + purg 清洗 = cleanse + ate
 		- exquisite
-		+ extant = in existence = still existing
+		+ extant
 		+ extempore --> extemporaneous --> extemporeize
 		+ extend
-		++ extenuate
+		++ extenuate --> extenuating
 		- exterminate
 		- extinct <--> extant
 		+ extinguish (v)使...熄滅 = quench, 使...破滅 <-- ex + tingu 熄滅 = quench + ish
@@ -1976,7 +1976,7 @@
 	en, em, enter 進入/加強/使 = within, in
 		- embank (v)築堤護住 --> embankment (n)堤岸/路堤 = levee
 		- embark (v)上船, 裝載, [on/upon]開始 = begin
-		- embarrass (v)使尷尬/使窘迫, 使拮据 <-- em + barass 套索 = cord, strap, noose
+		* embarrass (v)使尷尬/使窘迫, 使拮据 <-- em + barrass 套索 = cord, strap, noose
 		+ embargo
 		- embed (v)牢牢嵌入, 栽種 <-- em + bed 床
 		+ embellish (v)裝飾 = adorn = flourish, 潤飾/美化 = flourish = enhance --> embellishment (n)裝飾, 潤色 <-- em + bel 美 = pretty + lish
@@ -2090,7 +2090,7 @@
 			- edifice (n)宏偉建築
 
 		2. 吃 = eat
-			- edible (adj)可食用的 (n)食品
+			* edible (adj)可食用的 (n)食品
 			- /ɪnˈɛdɪb(ə)l/ inedible (adj)不可食用的
 			- edacious (adj)貪吃的
 
@@ -2131,7 +2131,7 @@
 		- coequal (adj)同等的 (n)同等的人或事物
 		+ egalitarian, equalitarian (adj)平等主義的 (n)平等主義者 = feminist <-- egal [法]
 		+ equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
-		- equation (n)等式/方程式, 均衡/相等, 考量
+		* equation (n)等式/方程式, 均衡/相等, 考量
 		- equity (n)公平/公正, 股價, 普通股, 抵押淨值
 		- equilibrium
 		+ equanimity
@@ -2139,6 +2139,7 @@
 		+ equitable (adj)公平的 = fair = evenhanded
 		- equate (v)等同, 使相等
 		- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
+		- /ˌɛkwəˈtɔːrɪəl/ equatorial (adj)赤道的/赤道附近的
 		- equivalent
 		+ equivocate --> equivocal
 		+ inequity (n)不公平/不公正 = injustice = unfairness
@@ -2162,11 +2163,11 @@
 
 	ess 存在 = be
 		- essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
-		* essential (adj)本質的, 必要的/不可缺的 (n)要素/要點/必需品, 本質
+		* essential (adj)本質的, 必要的/不可缺的 (N)要素/要點/必需品, 本質
 		+ quintessential (adj)典型的 = typical
 
 	ethno, ethn 種族/文化 = race, culture
-		- /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
+		* /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
 		- /ɛθˈnɪsɪti/ ethnicity (n)種族特徵
 		- /ɛθˈnɒlədʒi/ ethnology (n)民族學/文化人類學(比較與分析人類的族群、種族與國家群體之間的起源、分布、技術、宗教、語言與社會結構)
 		+ ethnocentric (adj)民族中心主義的/種族優越的
@@ -2177,7 +2178,7 @@
 		* exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
 		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
 		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
-		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的
+		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的 = prime
 		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
 
 	{esce}, {escent} 開始...的
@@ -2194,7 +2195,7 @@
 		+ forbear (v)克制/忍耐 = refrain = abstain from = desist from --> forbearance (n)自制, 忍耐 = patience <-- for + bear
 		* forbid -> forbad/forbade -> forbidden (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
 		- forbidding (adj)嚴峻的/險惡的/令人討厭的
-		+++ forfeit (v)喪失/被罰沒收 (n)罰款/處罰 (adj)被罰的/被沒收的
+		+ forfeit (v)喪失/被罰沒收 (n)罰款/處罰 (adj)被罰的/被沒收的
 		- forgo (v)拋棄/斷念 = renounce = resign = relinquish
 		+ /fəˈlɔːn/ forlorn (adj)被遺棄的/孤獨的, 幾乎無望的/不太可能實現的
 		+ forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
@@ -2210,7 +2211,7 @@
 		- foreordain (v)注定/預先決定 = predestine = ordain
 		* forerunner (n)預兆/前兆 = herald, 先驅 = herald
 		+ foresee (v)預見/預知 = predict --> foreseeable (adj)可預見的
-		* foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = bode
+		* foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = presage
 		- foresight (n)遠見/深謀遠慮 = prescience = presage
 		+ forestall
 		* foretell (v)預言/預示 = presage
@@ -2246,7 +2247,7 @@
 		2. 機運 = chance, lucky
 			- fortune (n)財產/財富, 好運, 命運
 			* fortunate (adj)幸運的/僥倖的
-			+ /fɔːˈtjuːɪtəs/ fortuitous (adj)偶然發生的/巧合的 = casual = accidental, 幸運的 = lucky = fortunate
+			+ /fɔːˈtjuːɪtəs/ fortuitous (adj)偶然發生的/巧合的 = casual = accidental = contingent, 幸運的 = lucky = fortunate
 
 	face, fac 臉/面
 		- deface (v)損壞外觀 = mar = destory = deform = disfigure
@@ -2294,7 +2295,7 @@
 		- factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
 		+ faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
 		+ /ˈfakʃəs/ factious (ad)不合的 <-- faction
-		+ /fakˈtɪʃəs/ factitious (adj)人工的/不自然的 = artificial <|> facetious
+		+ /fakˈtɪʃəs/ factitious (adj)人工的/不自然的 = artificial = contrived <|> facetious
 		+ /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
 		+ feasible (adj)可行的/可能的/合適的 = probable = likely = suitable
 		+ feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
@@ -2360,10 +2361,10 @@
 		- fence, fense (n)籬笆
 
 	fract, frac, frag 碎裂 = break == rupt
-		- fraction (n)碎片, 小部分
+		* fraction (n)碎片, 小部分
 		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
 		- fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
-		-  /ˈfraktʃəd/ fractured (adj)破碎的, 停止運作的, 錯誤百出的(語言)
+		- /ˈfraktʃəd/ fractured (adj)破碎的, 停止運作的, 錯誤百出的(語言)
 		* /ˈfradʒʌɪl/ fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
 		- fragment (n)碎片 (v)成碎片
 		- infraction (n)違法 = violation = infringement
@@ -2390,10 +2391,10 @@
 		- disfigure (v)損毀…的外觀/使毀容
 		+ effigy (n)(尤指被憎恨人的)肖像/雕像
 		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵
-		* figurative (adj)比喻的/借喻的 = metaphoric
+		* figurative (adj)比喻的/借喻的 = metaphoric <--> simile
 		- figurehead (n)有名無實的領導人/傀儡領袖, 船首像
 		- figurine (n)小雕像/小塑像
-		- figment (n)虛構的事
+		- figment (n)虛構的事 <|> pigment
 		- prefigure (v)預示/預想/預見 = adumbrate = foreshadow
 		- transfigure (v)美化/改觀
 
@@ -2469,7 +2470,7 @@
 	fug 逃離 = flee
 		- centrifugal
 		- fug (n)室內的悶熱空氣, 煙霧騰騰
-		* fugitive (n)逃犯 (adj)短暫的/轉瞬即逝的 = fleeting = transitory = elusive
+		* fugitive (n)逃犯 (adj)短暫的/轉瞬即逝的 = fleeting = transitory = elusive  <|> figurative
 		- insectifuge (n)驅蟲劑
 		+ refuge (n)避難所/庇護所 = asylum = shelter
 		- refugee (n)難民/流亡者
@@ -2498,7 +2499,7 @@
 
 	fiss 分裂 = split
 		+ fissure (n)裂縫/裂隙 = crevice = rift
-		- /ˈfɪʃ(ə)n/ fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂 <|> /ˈfɪkʃ(ə)n/ fiction
+		- /ˈfɪʃ(ə)n/ fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂 = disintegrate <|> /ˈfɪkʃ(ə)n/ fiction
 		- fissile (adj)易裂的
 
 	flagr 燒 = flame, burn == ard == bust == caus
@@ -2638,13 +2639,13 @@
 		* /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的 = unwarranted, 免費的/無償的
 		* ungrateful (adj)不感激的, 討厭的
 		+ ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
-		+ ingratiate (v)逢迎/討好 --> ingratiating (adj)討好的/諂媚的
+		+ ingratiate (v)逢迎/討好 = flatter --> ingratiating (adj)討好的/諂媚的
 
 	gee, geo 地球 = earth
 		+ apogee (n)遠地點
 		+ perigee (n)近地點
 		- geology (n)地質學
-		- geography (mn)地理學, 地形/地勢 (n)地區
+		- geography (mn)地理學, 地形/地勢 = landform (n)地區
 		- geometry (mn)幾何學, 幾何分佈
 	    - geometrician, geometer (n)幾何學家
 		- geothermal (adj)地熱的
@@ -2668,14 +2669,14 @@
 		- genital (adj)生殖的 <|> genial --> genitals (n)生殖器官 
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類 --> genera (n)類
-		- /ˈʒɒ̃rə/  genre (n)文藝作品之類型
-		+ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
+		- /ˈʒɒ̃rə/ genre (n)文藝作品之類型
+		+ /ˈdʒɛnjʊɪn/ genuine (adj)真正的/非偽造的 = authentic = real = legitimate = sincere, 真誠的/誠實的 = sincere
 		+ homogeneous --> homogeneity
 		+ heterogeneous
 		* indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous <-- in + di + gen + ous
 		+++ /ɪnˈdʒiːnɪəs/ ingenious (adj)足智多謀的/心靈手巧的 = cunning = clever, 製作精巧的/巧妙的 = subtle = clearly inventive
 		+ ingenuity (n)足智多謀的/心靈手巧 = cunning = adeptness
-		+++ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
+		+++ /ɪnˈdʒɛnjʊəs/ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
 		- octogenarian
 		* progeny (n)後代/子女 = descendant
@@ -2719,6 +2720,7 @@
 	glaci 冰 = ice
 		+ glacial (adj)冰河的, 冰的 = cold = icy, 冷淡的 = slow = unsympatheti (n)冰河時期
 		- glaciate (v)使冰凍
+		- ˈɡleɪsɪə/ glacier (n)冰川
 		- glaciology (n)冰河學
 			
 	gloss 舌頭/語言 = tongue, language
@@ -2914,7 +2916,7 @@
 			+ immune --> immunity --> immunize
 			+ immutable
 			- /ɪmˈpalpəb(ə)l/ impalpable (adj)無法碰觸的/無形的, 不易理解的 <-- im + palpable
-			+ impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid --> impartiality (n)公平/公正 <-- im + partial
+			+ /ɪmˈpɑːʃ(ə)l/ impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid --> impartiality (n)公平/公正 <-- im + partial
 			+ /amˈpɑːs/ impasse (n)僵局 = deadlock, 死路
 			+ impassive --> impassivity
 			+ impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable <|> impecunious
@@ -2941,15 +2943,14 @@
 			+ improbable (adj)不可能的
 			- impromptu (ADJ/ADV)即席的/即興的 = extempore <-- im + prompt + u
 			+ improvident (adj)無遠見的 <-- im + provident
-			+ improvise --> improvised
+			+ improvise --> improvised --> improvisation --> improvisational
 			+ imprudent (adj)輕率的 = incautious = rash = injudicious <|> impudent
 			+ impudent (adj)厚顏無恥的 = brazen = insolent = shameless --> impudence (n)厚臉皮/粗魯無禮 = effrontery <-- im + pud 羞愧 = shame + ent
-			- inpuissance (n)無力/虛弱 <-- in + puiss 力量 + ance
+			- inpuissance (n)無力/虛弱
 			- impunity
 			** inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
 			+ inadequate (adj)不足的/不夠格的 = inept = unsuitable
-			+ inadvertent 
-			+ inadvertently
+			+ inadvertent --> inadvertently
 			+ inalienable (adj)不可剝奪的/不可分割的
 			- inanimate
 			- inappreciable 
@@ -3021,7 +3022,7 @@
 			- insatiable
 			+ /ɪnˈskruːtəb(ə)l/ inscrutable (adj)高深莫測的/不可理解的 = unfathomable = mysterious = impenetrable <-- in + scrutable
 			- insensate
-			+ insensible = unconscious = unaware = unresponsive
+			+ insensible 
 			- insentient
 			+ insignificant (adj)不重要的 = trivial = inconsequential, 無足輕重的 = contemptible = despicable, 無意義的 = meaningless
 			+ /ɪnsɪnˈsɪə/ insincere (adj)虛偽的/不誠懇的 = hypocritical = sanctimonious = phony = affected = fulsome = cloying --> insincerity (n)虛偽/偽善 <-- in + sincere
@@ -3044,7 +3045,7 @@
 			+ intransigent (adj)不妥協的 = pertainacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
 			+ intransigence (n)不妥協/不讓步
 			+ intrepid
-			- intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
+			* intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
 			+ invalidate (v)使無效 = nullify
 			*** invariably (adv)不變地/總是 = always 
 			- invertebrate (adj)無脊椎的 = spineless (n)無脊椎動物 = in + vertebrate 
@@ -3155,7 +3156,7 @@
 			+ infer
 			- infest (v)大批出沒/侵擾 <|> infect <-- in + fest 攻擊 = assail
 			- /ˈɪnfɪltreɪt/ infiltrate (v)滲透/滲入 <-- in + filtr 過濾 = filter + ate
-			- inflame (v)使燃燒, 激怒, 加劇, 使發炎 <-- in + flame
+			- inflame (v)使燃燒, 激怒, 加劇, 使發炎 = irritate <-- in + flame
 			- inflamed (adj)強烈的 = provoked = intensified, 發炎的
 			+ inflammatory (adj)有煽動性的 = incendiary, 發炎的/炎症性的
 			- inflate --> inflated
@@ -3259,7 +3260,7 @@
 			- interregnum
 			- interrogate --> interrogative
 			- interrupt
-			- intersect
+			- intersect --> intersect
 			- intersperse
 			- intertwine (v)纏繞/交纏
 			- intervene --> intervention
@@ -3288,7 +3289,7 @@
 		- insula (n)島
 		+ /ˈɪnsjʊlə/ insular (adj)島嶼的/海島的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
 		+ /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
-		- /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate -->  insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
+		- /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate --> insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
@@ -3337,7 +3338,7 @@
 [J]
 	ject 扔/拋 = throw
 		++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable <|> abjure <|> adjure
-		+ conjecture (n/v)猜測/猜想
+		+ conjecture (n/v)猜測/猜想 = speculate
 		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
@@ -3349,6 +3350,8 @@
 		- projector (n)投影機/電影放映機
 		- reject (v)拒絕, 拋棄
 		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞
+		+ subject (n)主題/話題, 研究對象, 科目/學科, 國民/臣民, 主詞 主體/主觀意識 (adj)臣服的/被征服的
+		+ subject to (v)易受...影響, 使蒙受/使經歷, 取決於/視…而定, 在..的管理之下, 使臣服 (adv)取決於
 		+ subjection (n)征服/制服/隸屬
 		- subjective (adj)主觀的, 想像的
 		- trajectory (n)軌道/彈道
@@ -3388,7 +3391,7 @@
 		- injunction (n)命令/指令 = command = bidding, 禁止令/強制令
 
 	juven 年輕的 = youthful
-		+ /ˈdʒuːvənʌɪl/ juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune (n)青少年/年輕人
+		+ /ˈdʒuːvənʌɪl/ juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune = puerile (n)青少年/年輕人
 		- rejuvenate (v)使變年輕, 使恢復精神/恢復活力
 
 	joc 玩笑 = joke
@@ -3440,8 +3443,8 @@
 		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕 <|> preclude
 			
 	luc, lucid, lumin 光亮 = light
-		+ lucid (adj)清楚易懂的 = pellucid = perspicuous = comprehensible, 神志清醒的 = intelligible = sane, 明亮的 = bright --> lucidity (n)清晰 = cogency, 神智清醒 <|> lurid
-		+ elucidate (v)闡明 = explain = clarify
+		+ lucid (adj)清楚易懂的 = pellucid = perspicuous = comprehensible, 神志清醒的 = sane, 明亮的 = bright --> lucidity (n)清晰 = cogency, 神智清醒 <|> lurid
+		+ /ɪˈl(j)uːsɪdeɪt/ elucidate (v)闡明 = explain = clarify
 		+ illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 裝飾 <-- il + lumin + ate
 		- illuminati (n)先覺者/智者
 		* lucent (adj)發光的/透光的
@@ -3579,7 +3582,7 @@
 		- colloquial (adj)口語的/通俗的 
 		- colloquium (n)學術討論會 = seminar
 		+ /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing
-		- /ləˈkjuːʃ(ə)n/ locution (n)用句 = word = pharse, 說話方式
+		- /ləˈkjuːʃən/ locution (n)用句 = word = pharse, 說話方式
 		- elocution (n)演講技巧
 		+ eloquent (adj)有說服力的/雄辯的 = rhetorical, 富於表現的/充分表現的 --> eloquence (n)雄辯/口才
 		- epilogue, epilog (n)尾聲/結尾 = coda = denouement
@@ -3617,7 +3620,7 @@
 		+++ labor (n)勞動/有薪勞動, 勞工, 辛苦/勞累 = toil, 分娩/陣痛 = travail = labor (v)勞動 = toil, 奮鬥 = strive, 分娩
 		+ /ləˈbɔːrɪəs/ laborious (adj)耗時費力的/艱巨的/艱難的 = ardous = burdensome = onerous = strenuous = tiresome
 		- labored (adj)吃力的 = strained, 不自然的 = unnatural
-		- /ləˈbɒrəˌt(ə)ri/ laboratory (n)實驗室 = lab
+		- /ləˈbɒrəˌtəri/ laboratory (n)實驗室 = lab
 		- /ˈlab(ə)rɪnθ/ labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
 	
 	lap, lapse 落下/滑倒 = fall, slip, slide
@@ -3758,7 +3761,7 @@
 		- manumit
 		+ missive (n)公文/書信 = letter
 		- missile (n)發射物/投射武器, 飛彈/導彈
-		- mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
+		** mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
 		- missionary (n)傳教士 (adj)傳教的
 		* permit (v)許可/准許 = consent, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
@@ -4103,6 +4106,7 @@
 		- /ˈrɛnɪɡeɪd/ renegade (n)背教者/叛徒 = recreant = apostate (adj)變節的
 
 	neo 新
+		- neoclassic, neoclassical (adj)新古典主義的 --> neoclassicism (n)新古典主義
 		- /ˌniːə(ʊ)ˈlɪθɪk/ Neolithic (adj)新石器時代的 <-- neo + lith + ic
 		+ neologism (n)新字/新義
 		+ neophyte (n)新手/初學者 = novice = beginner = fledgling = tyro, 新信徒 <-- neo + phyte 植物
@@ -5895,7 +5899,7 @@
 		+ constant (adj)穩定的/不變的 <--> mercurial, 忠誠的, 經常發生的/連續發生的 (n)不變的事物, [數]常數/常量/恆量
 	    * constancy (n)堅定/堅貞/忠誠, 恆久不變 <-- constant
 		+++ constitute (v)構成/形成 = form, 等同於/被視爲 = be equivalent to = correspond to, 設立 = establish by law
-		+ constituent (n)成分/構成部分/要素 = component = element, 選民 (adj)組成的/構成的, 有選舉權的
+		+ constituent (n)成分/構成部分/要素 = component = element, 選民 (adj)組成的/構成的 = integrant, 有選舉權的
 		- constitution (n)憲法/章程, 構成/組成 = composition, 構成 = forming, 體質/體格, 性格 = character
 		- constitutional (adj)憲法或章程允許的, 體質的/體格的 (n)保健散步/保健運動 <|> constitute
 		- contrast (n)對比 (v)對照/對比 = compare, 形成對比 = differ
@@ -5988,6 +5992,7 @@
 		* despicable (adj)卑劣的/可鄙的 = contemptible = scurvy = abject = wretched
 		+ despite (prep)儘管 (n)輕視 = contempt = disdain
 		+ inspect (v)檢查/審查 --> inspection (mn)檢驗/審視 = scrutiny
+		+ introspect (v)內省/自省 --> introspective (adj)內省的/反思的
 		+ perspective (mn)透視圖法/遠近畫法 (n)景色 = view = prospect, 看法/觀點 = point of view, 洞察力 = sense of proportion
 		+ prospect (mn)前景/前途 (n)預期/盼望的事物, 可能成為主顧的人, 景象/景色 = perspective --> prospective (adj)預期的/盼望中的
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
@@ -6008,7 +6013,7 @@
 		- /spɛkˈtrɒskəpi/ spectroscopy (n)光譜學
 		- spectrograph (n)光學光譜儀
 		+++ speculate (v)推測/猜想 = infer = conjecture = surmise = guess, 投機 --> speculation (n)推測/猜想, 投機
-		+ speculative (adj)推測的, 投機的 = risky
+		+ speculative (adj)推測的, 投機的 = risky <|> spectacular
 		** spite (n)惡意 (v)存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
 		+ suspect (v)察覺, 懷疑 (n)嫌疑犯 (adj)不可信的/靠不住的
 		- suspicion (n)懷疑, 嫌疑, 不信任 = distrust, 一點 --> suspicious (adj)懷疑的 = leery = wary, 可疑的, 有嫌疑的
@@ -6507,7 +6512,7 @@
 		- /əˈtaʃeɪ/ attaché (n)使館專員
 		+ contact (n/v)聯繫/聯絡 = communicate, 接觸/觸摸 (n)門路/線人, [contacts]隱形眼鏡
 		- contaminate (v)污染 = pollute = smudge <--> containment
-		+ contagion (n)接觸傳染, (壞影響)蔓延/擴散 --> contagious (adj)接觸性傳染的, 帶傳染源的, (情感)具有感染力的
+		+ contagion (n)接觸傳染, (壞影響)蔓延/擴散 --> contagious (adj)接觸性傳染的, 帶傳染源的, (情感)具有感染力的 = catching
 		+ contiguous (adj)有共同邊界的 = touching, 相鄰的/毗鄰的 = adjacent = near --> contiguity (n)相鄰
 		++ contingent (adj)看運氣的 = accidental = fortuitous, [on/upon]視…而定的/取決於…的 (n)代表團, 小分隊
 		+ contingency (n)意外事故/偶然事件, 預期, 偶然的花費 (mn)不確定性, 偶然性
@@ -7177,7 +7182,7 @@
 		* envision (V)想像/展望 = visualize
 		- envisage (v)構想/設想 = contemplate = conceive, 想像 
 		+ improvise (v)即興創作/即興表演 = extemporeize = vamp, 臨時做/臨時湊成 --> improvisation (mn)即興, 即興做出來的東西
-		+ /ˌɪmprəvʌɪˈzeɪʃ(ə)nəl/ improvisational (adj) (adj)即興的
+		+ /ˌɪmprəvʌɪˈzeɪʃ(ə)nəl/ improvisational (adj)即興的
 		* improvised (adj)即興的, 權宜的/臨時代用的 = makeshift = expedient
 		+ revise (n/v)修訂/修正 = amend = alter
 		+ revisionist (n)修正主義者 (adj)修正主義的

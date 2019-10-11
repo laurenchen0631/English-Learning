@@ -233,7 +233,7 @@
 		> 被包租的交通工具 |A ship or vehicle that is hired.| the fifty foot charter Capricorn will join the team
 		> 包租旅行 |A trip made by a ship or vehicle under hire.| he liked to see the boat sparkling clean before each charter
 		> 包租 |Hire (an aircraft or ship)| he immediately chartered a plane to take him to Paris
-	- build-operate-transfer (n)BOT模式(民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營)
+	- build-operate-transfer (n)BOT模式，民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營
 	
 
 [Law]
@@ -1036,6 +1036,7 @@
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
 	- Rupert Murdoch 魯柏·梅鐸，生於澳洲墨爾本，現居美國，全球首屈一指的新聞媒體大亨，現任新聞集團持有14%股份和39.4%的投票權與21世紀福斯公司董事長與最大股東
 	- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
+	- journalism (mn)新聞工作/新聞業
 	- obituary 訃告 == A notice of a death, especially in a newspaper
 	- columnist 專欄作家
 	- tabloid
@@ -1050,7 +1051,6 @@
 	- Henry David Thoreau 亨利·大衛·梭羅，他最著名的作品有散文集《湖濱散記》和《公民不服從》
 	* pun (n)雙關語 (v)說雙關語 == A joke exploiting the different possible meanings of a word or the fact that there are words which sound alike but have different meanings.
 	- punctuatio 標點符號
-	- ballad /ˈbaləd/ 民謠/民歌 == A poem or song narrating a story in short stanzas. Traditional ballads are typically of unknown authorship, having been passed on orally from one generation to the next.
 	* trope
 		> 轉義/比喻 |A figurative or metaphorical use of a word or expression.| ‘my sense that philosophy has become barren is a recurrent trope of modern philosophy
 		> 主題 |A significant or recurrent theme; a motif.| she uses the Eucharist as a pictorial trope
@@ -1090,6 +1090,7 @@
 		> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
 		> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 	- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
+	- advance copy (n)預讀副本/預審複本，出版商贈送給書商，圖書管理員，新聞工作者，名人或其他人的新書的免費副本
 
 	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
 
@@ -1237,6 +1238,10 @@
 	- As You Like It (n)皆大歡喜，威廉·莎士比亞於1599年創作的一套喜劇。
 	- playhouse (n)劇場/戲院 = theater, 兒童遊戲館
 	- intermission (n)暫停/間歇 = pause = break, 中場 = interlude
+	- double bass (n)低音提琴
+	- banjo /ˈbandʒəʊ/ (n)五弦琴/班卓琴
+	- Appalachian music (n)阿巴拉契亞音樂，美國東部阿巴拉契亞地區的音樂。它源於歐洲和非洲的各種影響，包括英語民謠，愛爾蘭和蘇格蘭的傳統音樂
+	- ballad /ˈbaləd/ (n)民謠/民歌
 
 [Clothing/Fashion]
 	- attire (n/v)衣著/打扮
@@ -2069,7 +2074,7 @@
 	- drop shot 過網急墜球/放小球
 	- baseliner 底線型球員
 	- all-courter 全面型球員
-	- gymnastics 體操 == Exercises developing or displaying physical agility and coordination. The modern sport of gymnastics typically involves exercises on bars, beam, floor, and vaulting horse.
+	- gymnastics (n)體操 == Exercises developing or displaying physical agility and coordination. 
 	- footrace 賽跑 == A race between runners; a running race.
 	- victory lap 繞場一圈慶祝勝利
 	- hurdle
@@ -2103,6 +2108,7 @@
 	- minstrel /ˈmɪnstr(ə)l/ (n)中世紀吟遊詩人, 藝人
 	- carousel /ˌkarəˈsɛl/ (n)旋轉木馬 = merry-go-round, 行李傳送帶
 	- seesaw (n)蹺蹺板 (v)上下來回搖動
+	- clown /klaʊn/ (n)小丑/丑角
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
