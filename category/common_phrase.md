@@ -321,6 +321,8 @@
 	- the New York Times suggested that the craze was getting out of hand.
 + run amok/amuck 失控 == Behave uncontrollably and disruptively.
 	- stone-throwing anarchists were running amok
+- (be) skating on thin ice 如履薄冰
+	- He's skating on thin ice by lying to the police.
 + take its/a toll 造成損失、傷亡或破壞 == causes suffering, deaths, or damage.
 	- The problems of the past few months have taken their toll on her health and there are shadows under her eyes.
 	- The deepening recession has also taken its toll in the south of the country, where unemployment is rife.

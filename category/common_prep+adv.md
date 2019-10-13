@@ -51,6 +51,7 @@
 
 ## Degree
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
+- utterly (adv)完全地 = absolutely
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
 - somewhat /ˈsʌmwɒt/ (adv)有點/稍微
 - especially (adv)尤其, 特別
@@ -61,6 +62,7 @@
 ## Possibility
 - necessarily (adv)必然地 == inevitably
 - anecdotally (adv)據傳 == According to or by means of personal accounts rather than facts or research.
+- purportedly (adv)據稱
 - admittedly (adv)公認地
 + inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
 + undoubtedly (adv)毫無疑問地/肯定地 = certainly

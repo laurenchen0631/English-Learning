@@ -2280,8 +2280,8 @@
 		+ counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
 		+ defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
 		+ defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
-		* deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
-		* deficiency (n)缺乏/缺少, 缺陷 = incompleteness
+		* /ˈdɛfɪsɪt/ deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
+		* /dɪˈfɪʃənsi/ deficiency (n)缺乏/缺少, 缺陷 = incompleteness
 		* effect (n)效果, 影響, 意義 (v)造成/產生, 實現/達到
 		* effective (adj)有效的/生效的 = efficacious, 實際上的 --> effectiveness (n)有效
 		* efficiency (n)效率, 功效 = efficacy
@@ -3289,7 +3289,7 @@
 		- insula (n)島
 		+ /ˈɪnsjʊlə/ insular (adj)島嶼的/海島的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
 		+ /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
-		- /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate --> insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
+		* /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate --> insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
@@ -3862,6 +3862,7 @@
 		- minikin (n)嬌小的動物或人 (adj)微小的 = small = insignificant
 		+ minimal (adj)最小的/極微的/最低限度的/最低限度的
 		+ minimize (v)使減到最少或最小 <--> maximize, 輕視 = belittle
+	    * /ˈmɪnɪməm/ minimum (n)最小量/極小值 (adj)最小的/最少的 <--> maximum
 		- minion (n)奴才/低下之人 = follower = underling 
 		- minuet (n)小步舞, 小步舞曲 (v)跳小步舞
 		*** /mʌɪˈnjuːt/ minute (adj)微小的 = fine = paltry, 不重要的 = trifling = paltry, 細節的/詳盡的 = detailed = particular
@@ -3886,7 +3887,7 @@
 
 	mod, mode 方式/限制 = manner, limit
 		- mode (n)樣式/時尚 = fashion, 方法/做法/模式 = fashion, 形式/種類/風格 = kind
-		* modest (adj)審慎的, 適度的/中等的/不太多的, 端莊的/穩重的
+		+++ modest (adj)審慎的, 適度的/中等的/不太多的, 端莊的/穩重的
 		*** moderate (adj)中等的/適度的 = modest, 穩健的/溫和的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
 		- immoderate
 		+ modicum (n)少量
@@ -3994,6 +3995,7 @@
 		+ morph (v)使圖像變形, 逐漸改變 (n)變形圖像, 圖像變形, 語態
 		+/ˌmɛtəˈmɔːfəʊz/ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
 		- morphology (n)形態學
+		- /ˈskjuːə(ʊ)mɔːf/ skeuomorph (n)仿製品
 
 	mort, mori 死亡 = kill, die
 		+ amortize (v)分期償還 = acquit
@@ -4067,7 +4069,7 @@
 		+ majestic (adj)雄偉的/壯麗的 = grand = stately = lofty = palatial = magnificent <|> magisterial
 
 	mari 海 = sea, ocean
-		- /məˈriːn/ marine (adj)海的, 海中的/海生的 (n)海軍陸戰隊隊員
+		* /məˈriːn/ marine (adj)海的, 海中的/海生的 (n)海軍陸戰隊隊員
 		- submarine (n)潛艇, 海底生物, 水下裝置 (adj)海底的
 		- mariculture (n)海洋生物養殖
 		- /ˈmarɪtʌɪm/ maritime (adj)海的 = nautical, 住海邊的/在海上發現的, 沿海的
@@ -4096,11 +4098,11 @@
 [N]
 	neg, ne 反對/否認/不 = deny, refuse, no
 		- abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate
-		- negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie = disprove, 抵銷 = neutralize = cancel out
+		+++ negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie = disprove, 抵銷 = neutralize = cancel out
 		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = stultify
 		- negation (n)否認/反對, 對立面
 		- nefarious (adj)邪惡的/惡毒的 = evil = wicked = criminal <|> precarious <|> multifarious <-- ne + fa(i)r + ious
-		+ neglect (n/v)忽視/忽略 = disregard, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心
+		+ neglect (n/v)忽視/忽略 = disregard, 疏忽/忘了做 --> negligent (adj)疏忽的/粗心的 = lax = careless = blithe --> negligence (n)疏忽/粗心 
 		+ negligible (adj)無關緊要的/微不足道的 = insignificant
 		+ /rɪˈneɪɡ/ renege (v)食言/背信 = go back on
 		- /ˈrɛnɪɡeɪd/ renegade (n)背教者/叛徒 = recreant = apostate (adj)變節的
@@ -4157,7 +4159,7 @@
 		+++ /rɪˈnaʊn/ renown (n)名聲/聲譽 = fame --> /rɪˈnaʊnd/ renowned (adj)有名的/著名的
 
 	not 標示/注意 = note, mark
-		- annotate (v)註解/註記
+		- /ˈanəteɪt/ annotate (v)註解/註記 --> annotation (n)註解/註釋
 		- notorious (adj)惡名昭彰的 = flagrant
 		+++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
 		+ denote (v)表示/代表 = indicate = mean
@@ -4171,7 +4173,7 @@
 		- enounce (v)宣布/闡明, 發音
 		+ enunciate (v)清晰地發音, 明確表明/闡明
 		- pronounce (v)發…的音, 宣稱 = announce = proclaim, [on]宣判 = convict
-		+ pronounced (adj)明顯的 = conspicuous
+		++ pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake = recant, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
 
@@ -4205,10 +4207,10 @@
 		- natality (n)出生率
 		- nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
 		- renascent (adj)再生的/復興的/復甦的
-		- /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
+		* /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
 
 	noc 傷害 = harm
-		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真 = artlessness
+		- /ˈɪnəs(ə)nt/ innocent (adj)無罪的/清白的, [of]不知道..的/缺乏..的, 被牽連的, 無害的, 天真的/單純的 = naive (n)天真無邪的人, 被牽連的人 --> innocence (n)無辜/清白, 天真無邪/純真 = artlessness
 		+ innocuous (adj)無害的 = harmless = innocent = inoffensive
 		+ /ˈnɒkʃəs/ noxious (adj)有害的/有毒的 = noisome
 		- obnoxious (adj)令人不快的/討厭的/可憎的
@@ -4247,7 +4249,7 @@
 			+ obdurate --> obduracy
 			- object --> objection --> objective
 			- obloquy
-			+ obsess --> obsessive
+			+ obsess --> obsessive --> obsession
 			- obstacle (n)障礙/干擾
 			+ obstinate --> obstinacy
 			- obstruct
@@ -4282,7 +4284,8 @@
 			+ obstreperous (adj)難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
 			+ obtrude --> obtrusive
 			- obverse
-			+ obvious --> obviate
+			+ obvious
+			+ obviate
 			+ occlude
 			- occupy
 			* occupation
@@ -4405,7 +4408,7 @@
 		- orientation (n)定位/定向, 方向/方位, 方向感, 定位, 性取向, 適應/熟悉, 情況介紹
 		- origin (n)起源/由來/起因, 出身/門第/血統, 原點
 		- original (adj)本來的/原始的, 原創的, 新穎的/奇特的 (n)原物/原文, 怪人 --> originality (n)創造力/獨創性, 新穎/奇特
-		+ originate (v)發源/來自, 創始/創作 = create = initiate
+		+ originate (v)發源/來自 = derive from, 創始/創作 = create = initiate
 
 	orn, orna 裝飾 = dress, equip
 		- adorn (v)裝飾/使有吸引力 = bedeck = embellish <|> adore
@@ -4540,7 +4543,7 @@
 		*** presentation (n)贈送/授予, 呈現/表現, 發表/發表會, 介紹/引見
 		- presenter (n)頒獎人/主持人
 		+ presentiment
-		+ preserve --> perservative
+		+ preserve --> preservative
 		- preside
 		+ prestige --> prestigious
 		+ presume --> presumption --> presumptuous 
@@ -4562,7 +4565,7 @@
 		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點/疑點 <-- problem
 		- proceed --> proceeds --> proceedings
 		- procession
-		+ proclaim
+		+ proclaim --> proclamation
 		+ proclivity 
 		* procrastinate (v)耽擱/拖延 = delay = postpone <-- pro + cras 明天 = tomorrow + tinate
 		* procreate (v)生育 = reproduce
@@ -4594,7 +4597,7 @@
 		- /ˌprɒməˈnɑːd/ promenade (n/v)散步 (v)帶著..散步 (n)兜風  <-- pro + mena 開車 + ade
 		- prominent
 		- promise
-		+ promote
+		+ promote --> promotion
 		+ prompt
 		++ promulgate (v)頒布法令 = announce officially, 使廣傳/宣傳 = promote <-- pro + mulg 套出消息 = milk + ate
 		- pronounce --> pronounced
@@ -4624,11 +4627,9 @@
 		+ provident
 		+ providential
 		- providence
-		+ provincial
-		- provision --> provisional
+		++ provision --> provisional
 		- provisory
 		+ provoke --> provocation --> provocative
-		+ reciprocate --> reciprocity --> reciprocal
 
 	prodig 巨大/奇蹟 = extravagant, marvel
 		+ prodigal (adj)揮霍的 = profligate = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
@@ -4644,7 +4645,7 @@
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
 			- perfect
 			- persuade
-			* percept --> perception
+			* perceive --> percept --> perception
 			+ perceptible
 			+ /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
 			+ peremptory
@@ -4739,7 +4740,7 @@
 		+ dependable (adj)可靠的 = reliable = trustworthy 
 		+ /ˈkɒmpɛnseɪt/ compensate (v)賠償/補償 = indemnify = recompense = wage, [for]彌補/抵銷 = offset = counterbalance --> compensation (n)賠償/補償 = reparation = amends, 賠償金/補償金, 報酬/薪水
 		+ compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
-		+ expend (v)花費/耗費 --> expense (n)支出/開支, 花錢的東西/開銷
+		+ expend (v)花費/耗費 = consume --> expense (n)支出/開支, 花錢的東西/開銷
 		+ expendable (adj)消耗性的, 無足輕重的/可消耗的
 		+ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除 --> dispensation (n)免除/豁免, 分配, 某個時期的政治或宗教制度
 		* dispensable (adj)可有可無的/不必要的 = dispensable <--> indispensable
@@ -5037,7 +5038,7 @@
 	praise, prec, preci 價值/讚揚 = prize, price
 		+ praise (n/v)讚揚/表揚
 		+ appraise (v)評價/鑑定 = assess, 估價/定價 = value --> appraisal (n)評價/鑑定
-		- appreciate (v)欣賞/賞識 = admire, 理解/領會, 感謝, 漲價/增值 --> appreciation (n)欣賞/鑑賞, 感激之情 = Gratitude, 評論文字, 全面理解, 增值
+		- appreciate (v)欣賞/賞識 = admire, 理解/領會 = comprehend, 感謝, 漲價/增值 --> appreciation (n)欣賞/鑑賞, 感激之情 = Gratitude, 評論文字, 全面理解, 增值
 		+ appreciable (adj)相當的/非常可觀的 = considerable = substantial
 		- inappreciable (adj)微不足道的
 		- /ˈdɛprɪkeɪt/ deprecate (v)反對, 輕視/詆毀/貶值 = depreciate 
@@ -5048,7 +5049,7 @@
 		* apprehend (v)逮捕 = arrest = collar = bust, 領會/理解 = appreciate = understand = comprehend = fathom = plumb
 		++ apprehension (n)憂慮/擔心 = trepidation, 逮捕, 領會/理解 --> apprehensive (adj)(對將要做的事情)擔憂的/擔心的 = solicitous
 		- /əˈprɛntɪs/ apprentice (n)學徒 = pupil, 初學者 = beginner (v)雇用..當學徒, 做學徒
-		++ comprehend (v)充分理解/領悟 = fathom = perceive = apprehend = plumb, 包括 = embrace = comprise = include = encompass
+		++ comprehend (v)充分理解/領悟 = fathom = perceive = apprehend = plumb = appreciate, 包括 = embrace = comprise = include = encompass
 		- comprehensible (adj)能充分理解的 = lucid = intelligible
 		+ comprehensive (adj)包羅萬象的 = exhaustive = fulsome, 大範圍的 = wide-ranging, 壓倒性的(差距)
 		- pregnable (adj)易受攻擊的/有弱點的
@@ -5066,7 +5067,7 @@
 		* approve (v)贊成/同意 = advocate = endorse, 相信 = believe
 		* approval (n)批准/認可, 相信/信任
 		+ approbation (n)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
-		+ disprove (v)證明為假/駁倒 = belie = discredit = negate = rebut --> disproof (n)反證, 證明為假
+		+ disprove (v)證明為假/駁倒 = discredit = negate = rebut --> disproof (n)反證, 證明為假
 		++ reprobate (adj)邪惡的/無賴的/不講道德的 = shameless = unprincipled (n)無賴/惡棍
 		- reprove (v)責罵/申斥 = censure = reprimand --> reproof (n)斥責/責備 = rebuke
 		- probation (n)試用, 緩刑 --> probationer (n)試用人員, 緩刑中的犯人
@@ -5171,7 +5172,7 @@
 	pli, plic, plex, ply 彎 = fold, plait
 		- accomplice (n)同謀/幫凶 = conspirator = collaborator
 		+ complicate (v)使複雜化, (疾病)使惡化/加重 = exacerbate = aggravate
-		*** complex (adj)錯綜複雜的, 難懂的 (n)複合物/綜合體, 建築群, 情結 --> complexion (n)膚色, 一般特徵/性質 = aspect = character
+		++ complex (adj)錯綜複雜的, 難懂的 (n)複合物/綜合體 = system, 建築群, 情結 --> complexion (n)膚色, 一般特徵/性質 = aspect = character
 		* /kəmˈplʌɪ/ comply (v)服從/遵守 = conform
 		+ compliant (adj)服從的/順從的 = acquiescent = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience, 過度默從
 		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
@@ -5322,7 +5323,7 @@
 		- transport
 
 	phosph, phospho 磷
-		- /ˈfɒsf(ə)rəs/ phosphorus (N)磷 <|> fossil /ˈfɒs(ə)l/ 
+		* /ˈfɒsf(ə)rəs/ phosphorus (N)磷 <|> fossil /ˈfɒs(ə)l/ 
 		- /ˈfɒsfeɪt/ phosphate (n)磷酸鹽/磷酸酯, 磷肥
 
 [Q]
@@ -5355,7 +5356,7 @@
 		- inquisition (n)審訊/盤問, 宗教裁判
 		+ /ˈpəːkwɪzɪt/ perquisite (n)額外待遇 = perk = fringe benefit = bonus
 		- /priːˈrɛkwɪzɪt/ prerequisite (n)必要條件 (adj)必備的/事先需要的/必修的
-		- request (n/v)要求/請求
+		- request (n/v)要求/請求 requisite
 		+ /ˈrɛkwɪzɪt/ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物 
 
 	queath, quest 説 = say == dic == fable == log == ore
@@ -5383,7 +5384,7 @@
 			- recombine (v)重組/再結合 = anew
 			- recompense
 			+ reconcile
-			+ recount (n/v)重新計算, 講述/敘述
+			+ recount (n/v)重新計算, 講述/敘述 <|> discount
 			* recoup (v)重獲 = regain, 補償 = compensate = reimburse, [法]請求扣除
 			** recreate (v)重造, 翻拍 = reproduce = re-enact --> recreation (n)娛樂, 重造
 			+ /ˌriːkruːˈdɛs/ recrudesce (v)復發 = recur = relapse --> recrudescent (adj)再發作的/復發的 <-- re + crud 變糟 = worse + escent
@@ -5439,7 +5440,7 @@
 			+ remiss
 			- remit --> remittance --> remission
 			+ remonstrate
-			+/rɪˈmjuːnəreɪt/ remunerate (v)給予酬勞 --> remuneration (n)酬報/酬勞 <-- re + muner 給予 = give + ate
+			+ /rɪˈmjuːnəreɪt/ remunerate (v)給予酬勞 --> remuneration (n)酬報/酬勞 <-- re + muner 給予 = give + ate
 			- remunerative (adj)有利可圖的/有利潤的 = lucrative, 獲得收入的
 			+ renew (v)繼續 = resume, 重建(關係) = re-establish, 重述/重申 = repeat, 補充/加強, 展期, 替換 = replace
 			* renovate (v)裝修/翻新 <-- re + nov 新 = new + ate
@@ -5995,6 +5996,8 @@
 		+ introspect (v)內省/自省 --> introspective (adj)內省的/反思的
 		+ perspective (mn)透視圖法/遠近畫法 (n)景色 = view = prospect, 看法/觀點 = point of view, 洞察力 = sense of proportion
 		+ prospect (mn)前景/前途 (n)預期/盼望的事物, 可能成為主顧的人, 景象/景色 = perspective --> prospective (adj)預期的/盼望中的
+		+ /ˌpəːspɪˈkeɪʃəs/ perspicacious (adj)有洞察力的 --> perspicacity (n)洞察力
+		+ perspicuous (adj)清晰明白的 = lucid --> perspicuity (n)明晰/簡明
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		+ respective (adj)個別的 --> respectively (adv)分別地/各自地
 		- specialize (v)[in]專攻/專門從事 <-- special

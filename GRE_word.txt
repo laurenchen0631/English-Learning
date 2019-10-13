@@ -1760,7 +1760,6 @@
     * /mʌɪm/ mime (n)啞劇, 啞劇演員
     * mindful (adj)注意的/小心的 = attentive = aware = careful
     * mingle (v)使混合, 往來 = participate = associate
-    * /ˈmɪnɪməm/ minimum (n)最小量/極小值 (adj)最小的/最少的 <--> maximum
     * minister (n)部長/大臣, 牧師, 外交使節 (v)幫助/服侍 = cater
     ** mint (n)大量/鉅額, 造幣廠, 薄荷 (v)鑄幣
     ** /mɔɪl/ moil (v)勤奮工作 = drudge = toil = travail, 旋轉 = eddy = twist (n)辛苦/麻煩 = toil = drudgery, 騷動/混亂 = confusion = turmoil = trouble <|> /ɔɪl/ oil 
@@ -2509,7 +2508,7 @@
     + shackle (v)克制/抑制 = restrain = limit, 束縛 = fetter (n)腳鐐/枷鎖 = fetter
     ++ sham (n)虛假/騙局 = hypocrisy = hoax (v)假裝 = pretend = feign (adj)虛假的 = spurious = bogus = pretended = counterfeit = feigned = mendacious = false <|> shun 
     + shard (n)碎片/陶器碎片 = fragment, 鱗/殼 = scale = shell
-    + share (n)一份, 股份/股票, 分攤/分擔, 貢獻 (v)分攤/分配, 分享
+    + share (n)一份 = portion, 股份/股票, 分攤/分擔, 貢獻 (v)分攤/分配, 分享
     + sharpen (v)削尖/使敏銳/加重/加劇
     +++ /ʃɪə/ sheer (adj)極薄的 = gossamer = diaphanous, 純粹的/完全的 = stark = unmitigated = utter = unqualified, 陡峭的 = steep (adv)垂直地, 完全地 (v)船急轉向 <|> queer <|> /ʃɛː/ share
     +++ shift (v)轉移/移動 = move, 更換/變動 = change, 獨自應付, 輪班 (n)轉換/轉移/轉變, 手段/辦法, 輪班
@@ -2607,7 +2606,7 @@
     + /ˈsʌndri/ sundry (adj)各式各樣的/各種的 = miscellaneous = heterogeneous = various <-- sunder
     + /ˈs(j)uːpʌɪn/ supine (adj)仰向的/仰躺的, 懶散的 = indolent
     ++ surly (adj)暴躁的/易怒的 = crabbed = cantankerous = irritable, 可怕的/陰沈的 = menacing = threatening = formidable = dismal = gloomy = sullen <-- sur 先生 = sir + ly
-    + swift (adj)快的 = fleet = rapid, 迅速的/敏捷的 = prompt = ready, 立刻的 = immediate
+    + swift (adj)快的 = fleet = rapid, 迅速的/敏捷的 = ready, 立刻的 = immediate = prompt
     +++ /ˈsɪbərʌɪt/ sybarite (N)愛奢侈享樂的人 = hedonist -> sybaritic (adj)放縱的/奢侈享樂的 = voluptuous = hedonistic = self-indulgent
     + /ˈsɪlv(ə)n/ sylvan (adj)森林的/多樹木的 = woody, 鄉村的 = rural = pastoral <-- sylv 森林 = forest + an
     + syntax (n)語法/句法
@@ -2616,8 +2615,8 @@
     * /ˈsatʌɪə/ satire (n)諷刺文學, 挖苦/諷刺 = sarcasm = irony --> satirical (adj)諷刺的 = sarcastic = sardonic = ironic --> satirize (v)諷刺
     * /ˈsatʃəreɪt/ saturate (v)浸透/滲透 = imbue = impregnate = soak = steep, 使充滿/使飽和 = satiate
     * scatter (v)(使)散開 = squander = disperse, 撒 = sprinkle
-    * scholar (n)學者, 獎學金獲得者 --> scholarly (adj)學者的, 博學的 = erudite = learned, 勤奮好學的
-    * scholarship (n)學術成就, 獎學金
+    ** scholar (n)學者, 獎學金獲得者 --> scholarly (adj)學者的, 博學的 = erudite = learned, 勤奮好學的
+    ** scholarship (n)學術成就, 獎學金
     ** scramble (v)(艱難地)移動/爬/攀登 = clamber, 爭搶, 緊急起飛, 使混雜 (n)(艱難的)移動/爬/攀登, 匆匆的行爲, 搶奪/爭搶, 炒蛋
     * scrape (v)去除/刮除, 刮傷, 搜刮, 刮擦, 費盡千辛萬苦 (n)擦傷, 摩擦的聲音, 困境 = predicament = quagmire = quandry
     * seasoned (adj)有經驗的/訓練有素的
@@ -2702,7 +2701,7 @@
     * swagger (v)大搖大擺地走/神氣活現 = panache (n)大搖大擺的行走姿勢/趾高氣揚 = strut
     * swamp (n)沼澤 (v)淹沒, 進水沉沒, 壓倒 = inundate
     * swell -> swelled -> swollen (v)腫脹/膨脹 = balloon = bloat = bulge = strut (n)波濤起伏, 音量的增大 (adj/adv)極好
-    * syllabus /ˈsɪləbəs/ (n)教學大綱/課程大綱
+    * /ˈsɪləbəs/ syllabus (n)教學大綱/課程大綱
     * syrupy (adj)似蜜糖的/糖漿狀的 = viscid
     * systematize (v)使系統化/使條理化 = codify
     
@@ -3031,7 +3030,7 @@
     +++ trace (n)痕跡, 遺跡/殘跡 = vestige, 微量 = scintilla (v)跟蹤/追蹤, 追溯/查考, 描繪/描摹/摹寫 = sketch = delineate
     + trample (v)用力踩踏/踐踏 = tread = stamp, 傷害/藐視
     + tranquil (adj)平靜的 = clam = peaceful = halcyon, 平穩的 = unagitated = serene = placid --> tranquility (n)寧靜/安靜
-    + traumatic (adj)令人痛苦的/令人抑鬱的 = disturbing = distressing, 外傷的, 心理創傷的
+    + traumatic (adj)令人痛苦的/令人抑鬱的 = disturbing = distressing = stressful, 外傷的, 心理創傷的
     + travail (v)艱苦勞動 = toil = moil, 經受分娩的陣痛 = labor = childbirth (n)分娩的陣痛
     + /ˈtrɛtʃ(ə)rəs/ treacherous (adj)背叛的 = traitorous = perfidous, 靠不住的 = untrustworthy = unreliable, 危險的 = precarious = dangerous = hazardous <-- treacher 欺騙 = deceive
     + /ˈtriːtɪs/ treatise (n)論文/專著 <-- treat
