@@ -8,14 +8,20 @@
 			+ abroad (adv)在國外, 廣範圍地, 廣為流傳地, 任意走動地 (n)國外
 			+ aboard (adv)在船或飛機或車上, 在馬上
 			++ abject 
+			** absent (adj)缺席的/不在場的, 心不在焉的 (v)[oneself]離開 (prep)沒有 = without
+		    - absenteeism (n)曠課/曠工
 			+ abstract
 			+ accede
 			+ accelerate
 			+ accentuate
+		    - acclimate (v)[to]使服水土/使適應 = accustom = adapt = acclimatize
 			+ accord
+		    - accost (v)搭訕 <-- ac + cost 邊 = side
 			+ accrete --> accretion
 			+ accrue
+		    - acknowledge (v)承認 = concede = confess, 致謝, 對……打招呼, 確認(收到)
 			+ admonish
+		    - /əˈdʒeɪs(ə)nt/ adjacent (adj)隔壁的/毗鄰的 = adjoining = contiguous <-- ad + jac 躺 = lie + ent
 			+ adroit (adj)靈巧的/熟練的/精明的 = adept = ingenious <-- a + droit 正確的 = straight, just, correct
 			- acquaint (v)[with]使認識/介紹, 熟悉/了解 <-- ac + quaint 知道 = know == gnost
 			+ acquiesce
@@ -23,6 +29,7 @@
 			+ adjunct
 			+ adjust
 			- admire --> admiration 
+		    - adopt (v)收養, 採納/接受, 養成(某種習慣) <-- ad + opt 選擇 = choose
 			+ adventure --> adventurous
 			+ advocate --> advocate
 			+ adumbrate --> adumbration
@@ -54,6 +61,7 @@
 			* allege
 			- allegiance
 			+ alleviate
+		    - allot (v)分配/分派 = give = apportion  <-- al + lot 分 = divide
 			+ allure --> alluring
 			+ ameliorate
 			+ amend
@@ -70,6 +78,8 @@
 			+ appease
 			+ /əˈpəːt(ɪ)nənt/ appurtenant (adj)附屬的/從屬的 <-- ap + pertinent
 			+ applaud --> applause
+			** apply --> applicable --> applicant
+			* apportion (V)分攤/分配 = divide up = share out
 			+ apposite
 			+ appraise
 			+ apprehend --> apprehension --> apprehensive
@@ -767,7 +777,8 @@
 		+ accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
 		- access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
 		+ accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
-		- /anˈsɛstrəl/ ancestral  (adj)祖先的/祖傳的
+	    - accessory (adj)附屬的/次要的 = subsidiary = supplementary (n)配件, 幫凶/同謀 = accomplice = abettor
+		- /anˈsɛstrəl/ ancestral (adj)祖先的/祖傳的
 		+ concede (v)讓步/讓出(權利) = compromise = yield = appease, 承認(失敗) = admit = grant
 		++ concession (n)(常指為結束爭端而)認可/讓步/妥協, 讓予物/特許權, 營業權/營業場所
 		+ /siːd/ cede (v)割讓/放棄 = yield = surrender --> cession (n)割讓/放棄
@@ -2031,6 +2042,7 @@
 		* enrage (v)激怒/觸怒 = livid (adj) = furious (adj)
 		- enrapture (v)使著迷/使狂喜
 		- enrichment (n)充實/豐富, 鈾濃縮, 富有
+		- enroll (v)入會/入學, 徵 = recruit
 		- /ɪnˈskɒns/ ensconce (v)安置/安頓 = en + sconce 木堆 = bundle of wood
 		- ensemble
 		- ensign (n)旗/軍旗
@@ -2390,7 +2402,7 @@
 		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 輪廓 = contour = outline, 原子組態, 完形（一種結構或者經歷，其整體不等於各部分簡單相加之和）
 		- disfigure (v)損毀…的外觀/使毀容
 		+ effigy (n)(尤指被憎恨人的)肖像/雕像
-		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵
+		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵, [into]被包括
 		* figurative (adj)比喻的/借喻的 = metaphoric <--> simile
 		- figurehead (n)有名無實的領導人/傀儡領袖, 船首像
 		- figurine (n)小雕像/小塑像
@@ -3081,6 +3093,7 @@
 			+ imminent
 			- /ˈɪməleɪt/ immolate (v)犧牲/獻祭 <-- im + mola 肉 = meal + ate
 			+ impact
+			- impanel (v)列在(陪審名單) = enlist = enroll
 			- impair
 			- impale
 			* impart (v)給予 = bestow, 告知/透露 = reveal = convey = communicate
@@ -4359,6 +4372,7 @@
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
 			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀 = eclipse
+			- overtrain (v)訓練過度
 
 	octo, oct 八
 		- octogenarian (n)八十歲到八十九歲的人 (adj)八十歲到八十九歲的
@@ -4422,7 +4436,7 @@
 
 	onym 字/名 = word, name
 		+ /anəˈnɪmɪti/ anonymity (n)無名/匿名 --> anonymous (adj)匿名的, 無特色的/無個性特徵的
-		+ eponym (n)名祖
+		+ eponym (n)名祖 --> eponymous (adj)同名的
 		+ /ˈsjuːdənɪm/ pseudonym (n)筆名
 		- /ˈsɪnənɪm/ synonym (n)同義字
 		- /ˈantənɪm/ antonym (n)反義字
@@ -4534,6 +4548,7 @@
 		- preposition
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的 <--> unprepossessing
 		* preposterous (adj)違反常理的/荒謬的 = absurb <-- pre + post 後 = after + erous 
+		- prepubescent (adj)青春期前的 (n)青春期前的少年或少女
 		- prerequisite 
 		- prerogative
 		+ presage (n)預兆/惡兆 (v)是...的預兆
@@ -5171,6 +5186,9 @@
 
 	pli, plic, plex, ply 彎 = fold, plait
 		- accomplice (n)同謀/幫凶 = conspirator = collaborator
+		** apply (v)申請, [to]起作用/適用, 啟用, 塗/敷, 施 = use = exert, [oneself]致力於
+		- applicable (adj)恰當的/適合的 = relevant = appropriate
+		- applicant (n)申請人
 		+ complicate (v)使複雜化, (疾病)使惡化/加重 = exacerbate = aggravate
 		++ complex (adj)錯綜複雜的, 難懂的 (n)複合物/綜合體 = system, 建築群, 情結 --> complexion (n)膚色, 一般特徵/性質 = aspect = character
 		* /kəmˈplʌɪ/ comply (v)服從/遵守 = conform
@@ -5332,7 +5350,10 @@
 		- quantity (n)量/數量/總量, 大量
 		+ quantitative (adj)量的/量化的 <--> qualitative
 		- quantify (v)以數量表示/使量化
-		+ quantifiable (adj)可量化的
+		+ quantifiable (adj)可量化
+	
+	quad 四 = four
+		- quad (n)四邊形 = quadrangle, 四胞胎之一 = quadruplet, 股四頭肌 = quadriceps muscle, 四輪摩托車 = quad bike, 四聲道 = quadraphony (adj)[非]四部組成的/四倍的 = quadruple, [非]四聲道的 = quadraphonic
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
@@ -5382,6 +5403,7 @@
 			- recital
 			+ recluse
 			- recombine (v)重組/再結合 = anew
+			- recommence (v)重新開始
 			- recompense
 			+ reconcile
 			+ recount (n/v)重新計算, 講述/敘述 <|> discount
@@ -5487,7 +5509,7 @@
 			+ retain --> retainer
 			+ retard
 			- retell (v)重述
-			+ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
+			+++ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			- retinue
 			- retouch (v)修描/潤色
 			+ retrieve
@@ -6664,6 +6686,7 @@
 		- baritone
 		- monotone (n)單音調 (adj)單音調的, 單調的/乏味的 = dull
 		+ monotony (mn)單音調, 單調/乏味 = humdrum --> monotonous (adj)單調的/乏味的, 無抑揚頓挫的
+		** toned (adj)結實強壯的, 有顏色的 = tinted, 音調的/有…調的, 有特色的
 		- tonetics (n)聲調學
 		- undertone (n)低聲/小聲, 含意/弦外之音 = connotation
 
@@ -7147,6 +7170,7 @@
 		+++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
 		+++ provocation (n)挑釁 = affront, 挑撥, 挑逗 --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
 		* revoke (v)撤銷/廢止 = repeal = countermand = cancel = withdraw --> revocable (adj)可廢止的/可取消的
+		- vocal (adj)聲音的, 歌唱的, 暢所欲言的 (n)聲樂作品, 聲樂節目
 		- vocalist (n)流行歌手 = singer
 		- vocalize (v)發聲, 用文字表達, 加母音符號於……上 --> vocalization (n)發聲
 		- vocation (n)(對某職業的)傾向/才能, 職業/工作 <|> vacation

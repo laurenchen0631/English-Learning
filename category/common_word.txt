@@ -48,15 +48,11 @@
 		> 津貼/補貼 |A sum of money paid regularly to a person to meet needs or expenses.| the elderly receive a heating allowance every winter
 		> 零用錢 |A small amount of money given regularly to a child by their parents.|
 	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
-	- aging, ageing
-		> 老化 |The process of growing old.| the external signs of ageing
-		> 陳化/熟化 |The process of change in the properties of a material occurring over a period, either spontaneously or through deliberate action.| the judicious use of oak ageing means the wines are capable of being confused with the great French Chardonnays
-		> 老年的 |(of a person) growing old; elderly.| an ageing population
-		> 使用年限將至的 |(of a thing) reaching the end of useful life.| the world·s ageing fleet of oil tankers
+
 	- alarmist
 		> 危言聳聽者 |Someone who exaggerates a danger and so causes needless worry or panic.|
 		> 危言聳聽的/製造恐慌的 |Creating needless worry or panic.|
-	- all-around 全能的 == having a great many abilities or uses; versatile.
+	- all-around (adj)全能的/多才多藝的 = versatile
 	- all-or-nothing 走極端/全做或全不做 == relates to doing something either completely or not at all
 		> She either loves you or hates you - it`s all or nothing with her.
 		> The government has rejected the all-or-nothing approach in favour of a compromise solution
@@ -1240,6 +1236,7 @@
 	+ even (sth) out (v)公平/使相等 == to become equal, or to make something equal
 		> The league is divided into two skill levels in order to even out the competition.
 	- eventual /ɪˈvɛn(t)ʃʊ(ə)l/ (adj)最終的
+	- eventuate (v)作為結果發生, [in]最終導致
 	
 [F]
 	+ fall -> fell -> fallen (v)落下, [off]掉下, 垂下, 向下傾斜, [into](河水)流入, 向下看, (臉)垮下, 跌倒, 使跌到地上, 倒塌, 減少/下降, [away]比的比較差, 陷落, 戰死, 被推翻, 陷入, 發生, [to Ving]開始做, 被分類於 (n)落下, 落下姿勢, 落差, 落下物, 突然的開始, 瀑布, 垂下方式, 花垂, 減少, 陷落, 墮落, 秋天
@@ -1531,6 +1528,8 @@
 		> 存檔檔案/歸檔紀錄 |an official record of something| a bankruptcy filing
 		> 銼屑 |small pieces of metal that are removed from a larger piece by filing|
 	- fight -> fought -> fought
+	* figure into (v)被包括在..的一部份 == to be included as a part of (something)
+		- Age may figure into the equation.
 	- find -> found -> found
 	- fight sth out 通過鬥爭使得到解決
 		> I cannot help them to resolve their quarrel -- they must fight it out between them. 
@@ -3401,9 +3400,9 @@
 		> |A joint of meat, typically lamb, that includes the front ribs.| 
 		> |A mass of high, thick, fast-moving clouds.|
 		> |Draw off (wine, beer, etc.) from the sediment in the barrel.| the wine is racked off into large oak casks
-	- rack up == to obtain or achieve something, or to score goals or points
-		> The airline was racking up losses of $1.5 million a day.
-		> Miller racked up 28 points in the first half, and kept racking them up in the second.
+	- rack up 達成/達到
+		- The airline was racking up losses of $1.5 million a day.
+		- Miller racked up 28 points in the first half, and kept racking them up in the second.
 	- run
 	- run-up
 		> 前奏/前期/準備階段 |The period preceding a notable event.| a programme aimed at lowering unemployment in the run-up to the next election
@@ -3845,6 +3844,7 @@
 		> 行動 |A carefully planned operation, typically one involving deception.| five blackmailers were jailed last week after they were snared in a police sting
 		> 敲詐 |Swindle or exorbitantly overcharge (someone)| I had to buy some boxer shorts at the last minute and got stung for £42.50!
 		> If someone brought in a busted iPhone, a Genius would sort it out.
+	- strait-laced (adj)(在性問題上)古板的/拘謹的
 	- strike
 	- strike down == (of a court) to decide that a law or rule is illegal and should be ignored
 		> The law resembles a Texas law struck down by Supreme Court in 2016.
@@ -3899,7 +3899,7 @@
 	+ spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋
 	- spin off == To spin off or spin off something such as a company means to create a new company that is separate from the original organization.
 		> Many of Spaceship Media’s Facebook groups have spun off into member-run groups, individual friendship and, most of all, real human connection across difference.
-	- spiral /ˈspʌɪr(ə)l/ (adj)螺旋的, 螺旋裝訂的 = spiral-bound (n)螺旋, 螺旋星系 = spiral galaxy, 不斷上升或下降 (v)成螺旋形, 不斷	增加, [down/downward]不斷減少
+	- spiral /ˈspʌɪr(ə)l/ (adj)螺旋的, 螺旋裝訂的 = spiral-bound (n)螺旋, 螺旋星系 = spiral galaxy, 不斷上升或下降 (v)成螺旋形, 不斷增加, [down/downward]不斷減少
 	- spot on 確切的/準確的 == exactly right
 		> How old do I reckon she is? I`d say 38." "Spot on.
 	+ spell
@@ -4325,7 +4325,7 @@
 	+ strategic /strəˈtiːdʒɪk/ == strategical
 		> 重要的/有助於計劃成功的 |Relating to the identification of long-term or overall aims and interests and the means of achieving them.| strategic planning for the organization is the responsibility of top management
 		> 戰略上的 |Relating to the gaining of overall or long-term military advantage.| British strategic and commercial interests
-	- snap
+	- snap (v)突然折斷, 劈啪地響, 啪地關上或打開, (動物)咬, 突然崩潰/理智斷線, [at]厲聲說, 拍快照 (n)劈啪聲, 急湊的態度或音調, 快照, 寒流, [非]輕鬆的工作, (橄欖球)開球, 子母扣 (mn)熱情 = zest, 零嘴 (adj)匆忙的/不加思索的
 	- snap out of 擺脫(情緒) == to force yourself to stop feeling sad and upset
 		> He just can`t snap out of the depression he`s had since his wife died.
 		> Now come on, snap out of it. Losing that money isn`t the end of the world

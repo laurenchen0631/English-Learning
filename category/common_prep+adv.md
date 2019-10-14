@@ -60,6 +60,9 @@
 	- 特別 |specially| I made it especially for you.
 
 ## Possibility
+- arguably (adv)可以說/大概/可能
+	- He is arguably the world's best football player.
+	- Arguably, the drug should not have been made available.
 - necessarily (adv)必然地 == inevitably
 - anecdotally (adv)據傳 == According to or by means of personal accounts rather than facts or research.
 - purportedly (adv)據稱

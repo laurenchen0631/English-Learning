@@ -2006,6 +2006,7 @@
 
 [Sport]
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
+	- vaulter (n)撐竿跳選手
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
 	- Golden State 金州勇士，是一支位於美國加利福尼亞州奧克蘭的職業籃球隊

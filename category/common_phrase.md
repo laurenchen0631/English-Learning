@@ -191,6 +191,9 @@
 	- I hope my teacher will take into account the fact that I was ill just before the exams when she marks my paper.
 	- A good architect takes into account the building`s surroundings.
 	- The UK`s tax system takes no account of children.
+- in the name of sth 代表/用…的名義
+	- They were arrested in the name of the king.
+	- As members of the union, we have the right to know what action the union is taking in our name.
 - it behooves sb to V == it is incumbent on (某人)理應..
 	- it behooves any coach to study his predecessors
 	- it ill behooves the opposition constantly to decry the sale of arms to friendly countries
@@ -280,6 +283,8 @@
 	- We capped off a wonderful evening with birthday cheesecake.
 - go down in history 名留青史 
 	- He’ll go down in history as one of our finest leaders.
+- in the wake of sth 作為…的後果/隨…之後而來
+	- Airport security was extra tight in the wake of yesterday's bomb attacks.
 
 ## Talk
 - drive/hammer sth home 把…講清楚/使人完全明白 == to say something clearly and with a lot of force so that you are certain people understand it
@@ -341,6 +346,8 @@
 - bring sb in line 帶..回到正軌 == to force someone or something to be similar or of the same standard as someone or something else
 	- If you change a word, the others will usually bring you in line. 
 	- Teachers say the raises would bring their salaries into line with other public workers.
+- buck the trend 逆勢而上
+	- This company is the only one to have bucked the trend of a declining industry.
 - catch sb off guard 使..措手不及
 	- The strength of the storm caught many residents off guard.
 - cop to 承認做了 == to admit to doing (something)
@@ -467,6 +474,9 @@
 ## Status
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
+- breaking point (n)爆發點/失控點/極限
+	- The situation reached breaking point when his son crashed the family car.
+	- Her nerves were **at** breaking point.
 - catch-22 (n)左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
 	- But it is a catch-22 situation - you can't get people without funding, but you can't get funding without the people there in the first place.
 - free-for-all (n)不受控制的局面
