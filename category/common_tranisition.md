@@ -167,7 +167,7 @@
 	- Clearly, things have changed in the last six weeks.
 	- He was clearly mistaken.
 	- If he did not heed the warning, he would surely die.
-+ more importantly == above all (else)更重要地是
++ more importantly == above all (else) 更重要地是
 	- If we served more soft drinks, there would be fewer hangovers and, more importantly, fewer drink-driving incidents.
 	- He is a sensible and reliable team player but, more importantly, he usually seems to score vital match-winning goals.
 	- He was concerned above all to speak the truth
@@ -335,6 +335,9 @@
 - **in order that** == **so that** 為了
  	- She used her mother's kitchen in order that the turkey might be properly cooked
 	- I’ll go there so that I can talk to the president. 
+- so ... as to 爲了/以便
+	- We took off our shoes so as to avoid scratching the newly finished floors.
+	- I drove at a steady 50 mph so as to save fuel.
 - in response to 作為對...的反應
 	- In response to my shouts people ran to help.
 	- He opened the door in response to a knock. 

@@ -49,45 +49,23 @@
 		> 零用錢 |A small amount of money given regularly to a child by their parents.|
 	+ arithmetic /əˈrɪθmətɪk/ (n)算數/計算 (adj)運算的/計算的
 
-	- alarmist
-		> 危言聳聽者 |Someone who exaggerates a danger and so causes needless worry or panic.|
-		> 危言聳聽的/製造恐慌的 |Creating needless worry or panic.|
 	- all-around (adj)全能的/多才多藝的 = versatile
 	- all-or-nothing 走極端/全做或全不做 == relates to doing something either completely or not at all
 		> She either loves you or hates you - it`s all or nothing with her.
 		> The government has rejected the all-or-nothing approach in favour of a compromise solution
 	- all-important 非常重要的 == extremely important
 	- all-time 空前的 == unsurpassed
-	- all-you-can-eat
+	- all-you-can-eat (adj)隨意吃的/吃到飽的, 無上限的(服務、下載量等)
 		> 隨意吃的/吃到飽的 |used to describe a meal at a restaurant where people can serve themselves as much food as they want| The bar has an all-you-can-eat buffet lunch for $10.
 		> 無上限的(服務、下載量等) |used to describe an arrangement in which a company allows customers to use a service as much as they like or to download as much as they like from the internet for a fixed amount of money| all-you-can-eat packages of voice, video, and internet services
 	- allow for 考慮到 == include some extra time or money in your planning
 		> You have to allow for a certain amount of error.
 		> The Agency`s budget simply did not allow for such a massive increase.
 		> Finally, while the standard particle physics model - which describes all matter in terms of twelve fundamental particles and four fundamental forces - doesn`t allow for neutrinos with mass, there are theories that do.
-	- alpha /ˈalfə/ (n)希臘語的第一個字母, 第一個的, 社群首領(指社會性動物的社群中地位最高的個體)
 	- add
 	* add up 
 		> 漸增 |to increase gradually until there is a large amount| The changes in air quality are small, but after a while they do add up and affect people`s health.
 		> 看似合理 |to seem reasonable or likely| Watson claimed he was at home at the time of the murder, but police said his story didn`t add up.
-	- A/C 
-		> |account| 
-		> |air conditioning|
-	- ancillary == subsidiary
-		> 補助的 |Providing necessary support to the primary activities or operation of an organization, system, etc.| ancillary staff
-		> 助手 |A person whose work provides necessary support to the primary activities of an organization, system, etc.| the employment of specialist teachers and ancillaries
-		> 附加的 |In addition to something else, but not as important.| paragraph 19 was merely ancillary to paragraph 16
-		> 附屬物 |Something which functions in a supplementary or supporting role.| undergraduate courses of three main subjects with related ancillaries
-	- anxious /ˈaŋ(k)ʃəs/ 
-		> 焦慮的/掛念的 |Feeling or showing worry, nervousness, or unease about something with an uncertain outcome.| she was extremely anxious about her exams
-		> 令人焦慮的 |(of a situation or period of time) causing or characterized by worry or nervousness.| there were some anxious moments
-		> 渴望的 |Very eager or concerned to do something or for something to happen.| the company was anxious to avoid any trouble
-	- aural 耳朵的/聽覺的 == Relating to the ear or the sense of hearing.
-	- authorship (n)著作者的身分
-	- appliance 器具/設備 == A device or piece of equipment designed to perform a specific task.
-	- avail
-		> 有幫助/有益 |Help or benefit.| no amount of struggle availed Charles
-		> 效用/助益 |Use or benefit.| he begged her to reconsider, but to no avail
 	- aim to/for 致力/意欲 == plan or hope to achieve it
 		- an appeal which aims to raise funds for children with special needs
 		- Mr.Hirsh says he will aim to preserver the foundation`s support of heterodox thinkers, individuals who are going against the trends in a field or an acknowledged set of opinions.
@@ -142,6 +120,10 @@
 		> Vast, systemic challenges tend to short-circuit our primate brains. So we go on, as the grim future bears down.
 	- bear oneself (v)表現 == Carry or conduct oneself in a particular manner.
 		> she bore herself with dignity
+	- born (adj)出生的/誕生的, 天生的
+	- born of/out (adj)作為..結果的 == happening as the result of something
+		> his work is born of despair.
+		> With a strength born of desperation, he forced open the door.
 	+ beef (n)牛肉, 食用牛, 肌肉, 力量, 要點, 抱怨/牢騷, 申訴/指控 (V)抱怨
 		> 牛肉 |The flesh of a cow, bull, or ox, used as food.| there was the smell of roast beef
 		> 食用牛 |A cow, bull, or ox fattened for its meat.| a beef sent to the abattoir
@@ -203,7 +185,6 @@
 		> 成群 |Form into a tight group or crowd.| he halted, forcing the rest of the field to bunch up behind him
 		> 很多 |A large number or quantity; a lot.| the bluesy style that earned him a bunch of `70s hits
 		> 隆起 |(of muscles) flex or bulge.|
-	+ burst -> burst -> burst (v)(使)爆炸/破裂, [bursting with]塞滿/幾乎要脹破, 充滿/心情迫切, 爆出口, 突然打開, 暴衝, 突然做 (n)爆炸/破裂, 爆發/突發, 突然增加/迸發, 一段時期的努力
 	+ bust (n)胸圍, 胸部, 胸像/半身像, 猛烈的一擊, 搜查/逮補, 經濟困難, 無用之物 (v)[up]分開, 使混亂, 痛打, [out]逃跑, 點數爆掉, 突襲搜查, 逮補, [軍]降階 (adj)破產的
 		> 胸圍 |A woman`s chest as measured around her breasts.|
 		> 胸部 |A woman`s breasts, especially considered in terms of their size.|
@@ -224,122 +205,48 @@
 		> 無用之物 |A worthless thing.| cynics remain convinced the political process is a bust
 
 	- B.S. == Bullshit
-	- back sb up
+	- back sb up (v)支持/援助, 說..說的是實話
 		> 支持/援助 |to support or help someone| My family backed me up in my fight for compensation
-		> 說(人))說的是實話 |to say that someone is telling the truth| That’s exactly what happened – Cleo will back me up.
-	- back-to-back
-		> 一個接一個的 |happening one after another, without interruption| Hamilton is celebrating back-to-back victories in the German and British Grands Prix.
-		> 背靠背的 |close together and facing in opposite directions|  back-to-back terraced houses
-	- backbreaking, back-breaking (adj)需要勞力的 == (of manual labour) physically demanding.
-	- backlash
-		> 強烈反應/強烈反對 |A strong negative reaction by a large number of people, especially to a social or political development.| a public backlash against racism
-		> 後座力 |Recoil arising between parts of a mechanism.| The trigger pull is adjustable for distance as well as for pull weight and backlash.
-		> 角度 |Degree of play between parts of a mechanism.| typical gearbox backlash in these systems is 2°
-	- ballpark (n)棒球場, 預估範圍 (adj)大約的
-	- band together 攜手/團結/聯合 == to join together as a group in order to be able to do something better
-		> We decided to band together and organize a protest.
-	- barb
-		> 倒鉤 |A sharp projection near the end of an arrow, fish hook, or similar object, which is angled away from the main point so as to make extraction difficult.|
-		> 倒鉤 |A cluster of spikes on barbed wire.|
-		> 帶刺的話 |A deliberately hurtful remark.| his barb hurt more than she cared to admit
-		> 蜇/觸鬚 |A fleshy filament at the mouth of some fish, such as barbel and catfish.| The hybrids were good looking fish but careful examination of the mouths would show tell-tale signs of small barbs and their top fins were more carp-shaped.
-		> 羽支 |Each of the fine hairlike filaments growing from the shaft of a feather, forming the vane.|
-		> 帶有觸鬚的魚 |A freshwater fish with barbels around the mouth, popular in aquaria.|
-		> 非洲馬 |A small horse of a hardy breed originally from North Africa.|
-	- barrel /ˈbar(ə)l/ 
+		> 說(人)說的是實話 |to say that someone is telling the truth| That’s exactly what happened – Cleo will back me up.
+	- barrel /ˈbar(ə)l/ (n)桶, 槍管/炮筒, 四足動物的腹部或腰肉 (v)放入桶中, 高速行進
 		> 桶 |A cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops round them.|
 		> 放入桶中 |Put into a barrel or barrels.| when the young spirit is barrelled, it absorbs some of this flavour
 		> 一桶 |A barrel together with its contents.| a barrel of beer
 		> 槍管/炮筒 |A tube forming part of an object such as a gun or a pen.|
 		> 四足動物的腹部或腰肉 |The belly and loins of a four-legged animal such as a horse.|
-		> 高速行進 |Drive or move in a wsay that is so fast as to almost be out of control.| we barrelled across the Everglades
-	- basket
-		> 籃子 |A container used to hold or carry things, typically made from interwoven strips of cane or wire.|
-		> 購物車 |A facility on a website that records items selected by a customer for purchase until the transaction is completed.|
-		> 一組(投資項目) |A group or range of currencies or investments.| a basket of ten currencies
-		> 籃網 |A net fixed on a hoop used as the goal.|
-		> 得分 |A goal scored.|
-	- batter (v)痛打, 施暴, 嚴厲批評, 凹陷 (n)麵糊, 打者, 凹陷
-		> 痛打 |Strike repeatedly with hard blows.| a prisoner was battered to death with a table leg
-		> 施暴 |Subject (one`s spouse, partner, or child) to repeated violence and assault.| the loss of his baby turned him into a domineering bully who battered his partner
-		> 嚴厲批評 |Censure, criticize, or defeat severely.| he was battered at times by critics
-		> 麵糊 |A semi-liquid mixture of flour, egg, and milk or water, used for making pancakes or for coating food before frying.| pancake batter
-		> 打者 |(in various sports, especially baseball) a player who is batting.|
-		> 凹陷 |A gradual backwards slope in a wall or similar structure.| the batter is an inch in for every foot of height
-		> 凹陷 |(of a wall) have a receding slope.|
+		> 高速行進 |Drive or move in a way that is so fast as to almost be out of control.| we barrelled across the Everglades
 	- beat
 	- beat up 
 		> |to hit or kick the person many times.| The government supporters are beating up anyone they suspect of favouring the demonstrators.
 		> |worry about something a lot or blame yourself for it.| I don`t beat myself up. I don`t deal with things I can`t handle.
-	- become -> became -> become
+	- become -> became -> become (v)成為, (衣服)適合, 適合
 		> 成為 |Begin to be.| she became angry and sulked all day
 		> (衣服)適合 |(of clothing) look good on or suit| mourning regalia became her
 		> 適合 |Be appropriate to (someone)| minor celebrity status did not become Potter
 	- become of == (in questions) happen to.
 		> Whatever became of that parcel you sent? 你寄出的包裹怎麼樣了？
 		> And Mickey Adams - I wonder what became of him.  還有米基‧亞當斯——不知他後來怎麼樣？
-
 	- begin -> began -> begun
-	- benchmark
-		> 基準 |A standard or point of reference against which things may be compared.| the pay settlement will set a benchmark for other employers and workers
-		> 基準 |A surveyor`s mark cut in a wall, pillar, or building and used as a reference point in measuring altitudes.| A benchmark is a survey mark made on a monument having a known location and elevation, serving as a reference point for surveying.
-		> 標準檢查程式 |A test designed to evaluate or compare the performance of computer hardware or software.| we thought we`d run some benchmarks on the smartphone
-		> 用標準衡量 |Evaluate (something) by comparison with a standard.| we are benchmarking our performance against external criteria
-		> 給出結果 |Give particular results during a benchmark test.| the device should benchmark at between 100 and 150 MHz
-	- bend over 彎腰
-	- bender (n)扭曲的人或物, 飲酒狂歡
 	- black out 暫時昏厥 == to become unconscious suddenly but for a short period
-	- blast (n)爆炸/爆破, 突擊, 疾風, 鳴響, 猛烈的批評, 狂歡會 (v)炸開, 炸傷, 炸飛, 開火, 吹奏/鳴響, 嚴厲批評, 使枯萎, 破壞
 	- bleed -> bled -> bled
-	- bleed (v)出血/流血, 抽血, 榨取(金錢或資源), 放氣
-	- bleed into (v)干擾 = interfere
-	- blind to 完全沒注意到/完全不了解 == to completely fail to notice or realize something
+	- blind to (v)完全沒注意到/完全不了解 == to completely fail to notice or realize something
 		> International companies are all too often blind to local needs.
-	- blissed-out 極樂無憂的 == completely happy and relaxed
-	- bloom /bluːm/ (v)開花, 成長茁壯, 發光, 鍛鐵 (n)鍛鐵塊, 花, 花期, 白霜, 藻華(發生在淡水中，由水體中氮磷含量過高導致藻類, 細菌或浮游生物突然性過度增殖的一種自然現象)
 	- blow
 	- blow away sb
-	- blown-up
+	- blown-up (adj)炸毀的, 擴大的 = enlarged, 膨脹的 = inflated = swollen
 		> 炸毀的 |Destroyed or severely damaged by an explosion.| blown-up buildings
 		> 擴大的 |Enlarged.| a blown-up photograph
 		> 膨脹的 |Inflated; swollen.| a blown-up balloon
-	- bob
-		> 上下或來回快速擺動 |Make a quick, short movement up and down.| I could see his head bobbing about
-		> 使上下或來回快速擺動 |Cause (something) to make a bobbing movement.| she bobbed her head
-		> 上下或來回快速擺動 |A quick, short movement up and down.| she could only manage a slight bob of her head
-		> 突然冒出/突然消失 |Make a sudden move so as to appear or disappear.| a lady bobbed up from beneath the counter
-		> 行屈膝禮 |Make a brief curtsy.| she bobbed and turned away
-		> 屈膝禮 |A brief curtsy.| the maid scurried away with a bob
-		> 短髮 |A style in which the hair is cut short and evenly all round so that it hangs above the shoulders.| she wore her hair in a fashionable bob
-		> 剪成短髮 |Cut (someone`s hair) in a bob.| she`d had her hair bobbed and highlighted
-		> 鐘擺/秤錘 |A weight on a pendulum, plumb line, or kite tail.|
-		> 有舵雪橇 |A bobsleigh.|
-		> 騎有舵雪橇 |Ride on a bobsleigh.|
-		> |A short line at or near the end of a stanza.|
-		> |Used with reference to a moderately large but unspecified amount of money.| those vases are worth a few bob
-		> |A change of order in bell-ringing.| This table illustrates how you will be affected if the conductor calls a Bob or Single.
-		> |Used in names of change-ringing methods.| plain bob
-	- born (adj)出生的/誕生的, 天生的
-	- born of/out (adj)作為..結果的 == happening as the result of something
-		> his work is born of despair.
-		> With a strength born of desperation, he forced open the door.
 	- bottom out 到達最低點/不再惡化 == to have reached the lowest point in a continuously changing situation and to be about to improve
 		> Economists think that the recession is bottoming out.
-	- bout (n)一回/一陣, 復發, 比賽
-		> 一回/一陣 |A short period of intense activity of a specified kind.| occasional bouts of strenuous exercise
-		> 復發 |An attack of illness or strong emotion.
-		> 比賽 |A wrestling or boxing match.| he fought 350 bouts, losing only nine times
-		> |A curve in the side of a violin, guitar, or other musical instrument.|
-	- bowl (n)碗/缽, 碗狀部分, 圓形運動場/圓形露天劇場, 木球/圓球, 滾動球 (v)投(球)
 	- box up 打包 == box == enclose or confine as if in a box
-	- box sth/sb in 禁錮
+	- box sth/sb in (v)禁錮
 		- The other bicyclists boxed her in and she could not move ahead.
 		- I feel boxed in by all these rules.
-	- brainchild 獨創的觀念 == An idea or invention which is considered to be a particular person`s creation.
 	- branch out 涉足/擴展 == to start to do something different from what you usually do, especially in your job
 		> This designer has recently branched out into children`s wear.
 		> After a couple of years working for other people, she branched out on her own 
-	- breach
+	- breach (n/v)破壞/違反/入侵 (v)衝破/突破, (鯨魚)跳出水面 (n)鬧翻/絕交, 破裂/裂痕
 		> 破壞/違反/入侵 |An act of breaking or failing to observe a law, agreement, or code of conduct.| a breach of confidence
 		> 破壞/違反/入侵 |Break or fail to observe (a law, agreement, or code of conduct)| these outside bodies are bootlegging albums and breaching copyright
 		> 鬧翻/絕交 |A break in relations.| a widening breach between government and Church
@@ -347,61 +254,30 @@
 		> 衝破/突破 |Make a gap in and break through (a wall, barrier, or defence)| the river breached its bank
 		> 跳出水面 |(of a whale) rise and break through the surface of the water.| we saw whales breaching in the distance
 	- break -> broke -> broken
-	- break down
+	- break down (v)停止運轉, 崩潰
 		> 停止運轉 |If a machine or vehicle breaks down, it stops working| Our car broke down and we had to push it off the road.
 		> |If a system, relationship, or discussion breaks down, it fails because there is a problem or disagreement.| 
 		> 崩潰 |to be unable to control your feelings and to start to cry| When we gave her the bad news, she broke down and cried.
-	- break off 
+	- break off (v)折斷/斷開/分開, 絶交/終止, 突然停頓/突然中斷
 		> 折斷/斷開/分開 |to separate a part from a larger piece, or to become separate| He broke off a piece of chocolate.
 		> 絶交/終止 |to end a relationship| They`ve broken off their engagement.
 		> 突然停頓/突然中斷 |to suddenly stop speaking or doing something| She broke off in the middle of a sentence.
-	- break out
+	- break out (v)逃獄, 逃脫, 突然開始, 突然發癢
 		> 逃獄 |to escape from prison| They broke out of prison and fled the country.
 		> 逃脫 |to escape from a place or a situation| wo inmates broke out of prison and are still at large.
 		> 突然開始 |to suddenly starts| Fighting has broken out all over the city.
 		> 突然發癢 |to suddenly begin to have a rash| I hate it when I break out in hives.
-	- breakdown
-		> 故障/失靈 |A mechanical failure.|
-		> 破裂 |A failure of a relationship or system.| a breakdown in military discipline
-		> 崩潰 |A sudden collapse in someone`s mental health.| Heather had a breakdown following the death of her sister
-		> 分解 |The chemical or physical decomposition of something.| the breakdown of ammonia to nitrites
-		> 分析 |An explanatory analysis, especially of statistics.|
-	- breed -> bred -> bred (v)生殖, (使)繁殖, 培育/教養, 引起/產生, 核增殖 (n)品種, 種類/類型
-		> 生殖 |(of animals) mate and then produce offspring.| toads are said to return to the pond of their birth to breed
-		> 使繁殖 |Cause (an animal) to produce offspring, especially in a controlled and organized way.| bitches may not be bred from more than once a year
-		> 繁殖 |Develop (a variety of animal or plant) for a particular purpose or quality.| these horses are bred for this sport
-		> 培育/教養 |Rear and train (someone) to behave in a particular way.| Theodora had been beautifully bred
-		> 引起/產生 |Produce or lead to (something) over a period of time.| success had bred a certain arrogance
-		> 核增殖 |Create (fissile material) by nuclear reaction.|
-		> 品種 |A stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection.| the big continental breeds are eagerly being imported by British farmers
-		> 種類/類型 |A sort or kind of person or thing.| a new breed of entrepreneurs was brought into being
-	- breeze /briːz/ 
+	- breeze (n)微風, 輕而易舉的事 (v)飄然而行, 輕易地通過
 		> 微風 |A gentle wind.|
 		> 輕而易舉的事 |A thing that is easy to do or accomplish.| travelling through London was a breeze
 		> 飄然而行 |Come or go in a casual or light-hearted manner.| Roger breezed into her office
 		> 輕易地通過 |Deal with something with apparently casual ease.| Milan had breezed through their first defence of the European Cup
 		> |Small cinders mixed with sand and cement to make breeze blocks.|
-	- breezy
+	- breezy (adj)有微風的, 輕鬆活潑的
 		> 有微風的 |Pleasantly windy.| it was a bright, breezy day
 		> 輕鬆活潑的 |Appearing relaxed, informal, and cheerily brisk.| the text is written in a breezy matter-of-fact manner
-	- broaden (v)擴大
-	- budding
-		> 萌芽的 |(of a plant) having or developing buds.| a budding chrysanthemum
-		> 發育期的 |(of a body part) becoming larger as part of normal growth.| her budding breasts
-		> 含苞待放的 |(of a person) beginning and showing signs of promise in a particular sphere.| budding young actors
-		> 含苞待放的 |Beginning and showing promising signs of continuing.| their budding relationship
-	- buff (n)愛好者, 暗黃色, 暗黃皮革, 擦拭輪 (v)擦亮/擦淨
 	- building block (n)積木 --> building blocks (n)基礎/構成要素
-	- buildup (n)累積/增加, 事前準備期, 事前宣傳
-	- bum
-		> 乞丐/無業遊民 |A vagrant.| bums had been known to wander up to their door and ask for a sandwich
-		> 遊手好閒的人 |A lazy or worthless person.| you ungrateful bum!
-		> 愛好者 |A person who devotes a great deal of time to a specified activity.| a ski bum
-		> bum around 閒晃 |Travel with no particular purpose.| he bummed around Florida for a few months
-		> bum around 消磨 |Pass one`s time idly.| students bumming around at university
-		> 求取 |Get by asking or begging.| they tried to bum quarters off us
-		> 糟糕的 |Of poor quality; bad or wrong.| not one bum note was played
-	- bump
+	- bump (v)碰撞/顛簸, 碰傷/撞傷, 顛簸著行進, 置頂, 推, 拒絕..登機, 頂替 (n)碰撞/顛簸, 凸塊 = protuberance, 腫塊, 增加, 置頂
 		> 碰撞/顛簸 |A light blow or a jolting collision.| a nasty bump on the head
 		> 碰撞/顛簸 |Knock or run into someone or something with a jolt.| I almost bumped into him
 		> 碰傷/撞傷 |Hurt or damage (something) by striking it on something else.| she bumped her head on the sink
@@ -415,20 +291,15 @@
 		> 推 |Push (something) jerkily in a specified direction.| she had to bump the pushchair down the steps
 		> 拒絕登機 |Refuse (a passenger) a reserved place on a flight because of deliberate overbooking by the airline.| if you check in on time and are bumped, you will be entitled to a full refund
 		> 頂替 |Displace from a job or role, especially in favour of someone else.| she was bumped for a youthful model
-	- bump into 巧遇 == Meet by chance.
+	- bump into (v)巧遇 == Meet by chance.
 		> we might just bump into each other
-	- bumper
-		> 保險槓 |A horizontal bar fixed across the front or back of a motor vehicle to reduce damage in a collision.| she started the car with a jerk and hit the bumper of the car in front
-		> 緩衝器 |A shock-absorbing piston projecting from a cross-beam at the end of a railway track or at the end of a railway vehicle.|
-		> |bumper race|
-		> 特大的/豐盛的 |Exceptionally large, fine, or successful.| a bumper crop
 	- bunch (sth) up/together (使)聚攏/(使)擠成一團 == to move close together to form a tight group
 		> The monkeys bunched together in their cage.
 		> We were all bunched up at the back of the room.
 	- burn -> burnt -> burnt
-	- burn (sth) down 燒毀 == (with reference to a building or structure) destroy or be destroyed completely by fire.
+	- burn (sth) down (v)燒毀 == (with reference to a building or structure) destroy or be destroyed completely by fire.
 	- buy -> bought -> bought
-	- buy up 全面買進 == to buy all of something or as much of it as you can get
+	- buy up (v)全面買進 == to buy all of something or as much of it as you can get
 		> It’s not just Amazon’s purchase of Whole Foods ... — or the fact that Amazon hopes to launch a second new grocery chain in 2019, according to a recent report from The Wall Street Journal, with a potential plan to scale quickly by buying up floundering supermarket
 
 [C]
@@ -574,8 +445,8 @@
 	+ come across (v)表現得/讓人覺得/給人以…印象, 偶然發現/碰見/無意中發現
 		> 表現得/讓人覺得/給人以…印象 |to behave in a way that makes people believe that you have a particular characteristic| She comes across really well on television.
 		> 偶然發現/碰見/無意中發現 |to find something by chance| He came across some of his old love letters in his wife`s desk.
-	- come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
-	- come upon 偶然發現/碰上/邂逅 == to find something or meet someone unexpectedly
+	+ come down to 歸結為 == (of a situation or outcome) be dependent on (a specified factor).
+	+ come upon 偶然發現/碰上/邂逅 == to find something or meet someone unexpectedly
 		> I came upon this book in the attic - would you like it?
 	+ commission (v)委任/委託, 指名, 使..投入使用 (n)任務/職權, 委託品, 被委託人, 佣金, 委任狀/所授軍銜, 犯罪
 		> 委任/委託 |Order or authorize the production of (something)| the portrait was commissioned by his widow in 1792
@@ -618,7 +489,7 @@
 		> 囚犯 |A convict.| you don`t snitch to the prison authorities on another con
 		> 集會 |A convention, especially one for science fiction enthusiasts.| an SF con
 		> 指揮操舵 |Direct the steering of (a ship)| he hadn`t conned anything bigger than a Boston whaler
-		> |The action or post of conning a ship.| I quickly took the conn and restored the channel course
+		> 指揮操舵 |The action or post of conning a ship.| I quickly took the conn and restored the channel course
 	+ conscious /ˈkɒnʃəs/ (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional
 		> 意識到的 |Aware of and responding to one`s surroundings.| although I was in pain, I was conscious
 		> 知道的 |Having knowledge of something.| we are conscious of the extent of the problem
@@ -628,14 +499,6 @@
 	+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
 		> 來龍去脈/背景/環境 |The circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.| the proposals need to be considered in the context of new European directives
 		> 上下文/文章脈絡 |The parts of something written or spoken that immediately precede and follow a word or passage and clarify its meaning.|
-	+ contract
-		> 合約/契約/婚約 |A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.| he has just signed a contract keeping him with the club
-		> 減少/縮小 |Decrease in size, number, or range.| glass contracts as it cools
-		> 締結 |Enter into a formal and legally binding agreement.| the local authority will contract with a wide range of agencies to provide services
-		> 感染 |Catch or develop (a disease or infectious agent)| three people contracted a killer virus
-		> 負債 |Become liable to pay (a debt)| he contracted a debt of £3,300
-	- contract sth out 發包 == Arrange for work to be done by another organization.
-		> local authorities will have to contract out waste management
 	+ corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
 		> 角 |A place or angle where two sides or edges meet.| Jan sat at one corner of the table
 		> 角落 |The area inside a room or other space near the place where two walls or other surfaces meet.| the colour TV in the corner of the room
@@ -702,7 +565,7 @@
 		> 訂製的 |Made or done to order; custom-made.|
 		> 關稅 |duties, tolls, or imposts imposed by the sovereign law of a country on imports or exports|
 		> 海關 |the agency, establishment, or procedure for collecting such customs| went through customs at the airport without any difficulty
-	* cement /sɪˈmɛnt/ (n)水泥 讓人們團結的要素 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
+	* cement /sɪˈmɛnt/ (n)水泥, 讓人們團結的要素, 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
 		> 水泥 |A powdery substance made by calcining lime and clay, mixed with water to form mortar or mixed with sand, gravel, and water to make concrete.|
 		> 讓人們團結的要素 |A factor or element that unites a group of people.|
 		> 黏固粉/白堊 |A substance for filling cavities in teeth.| dental cement
@@ -4667,7 +4530,7 @@
 		> 染髮劑 |An artificial dye for colouring the hair.|
 		> 染髮 |An application of hair dye.| peering into the mirror to see if any white hair showed after her last tint
 		> 染 |Dye (someone`s hair) with a tint.| they spent hours having their hair tinted and set
-	- traffic -> trafficked -> trafficked -> trafficking 作非法買賣 == Deal or trade in something illegal.
+	- traffic -> trafficked -> trafficked -> trafficking (v)作非法買賣 == Deal or trade in something illegal.
 	+ try (v)
 		> 嘗試 |Make an attempt or effort to do something.| he tried to regain his breath
 		> 嘗試通訊 |Attempt to contact.| I`ve tried the apartment, but the number is engaged
@@ -5133,6 +4996,7 @@
 	- wreath
 		> 環/花圈 |An arrangement of flowers, leaves, or stems fastened in a ring and used for decoration or for laying on a grave.| the Queen laid a wreath at the Cenotaph
 		> 圈狀雲霧 |A curl or ring of smoke or cloud.|
+	- write off 註銷
 
 [Y]
 	- yank
@@ -5154,7 +5018,8 @@
 	- zip /zɪp/ (v)拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) (n)拉鍊, [非]精力/活力, [非]無/沒有 = nothin
 
 [Latin]
-	- bona fides
+    + /ad ˈhɒk/ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
+	- bona fides (n)真誠, 書面證據 = credentials
 		> 真誠 |A person`s honesty and sincerity of intention.| he went to great lengths to establish his liberal bona fides
 		> 書面證據 |Documentary evidence showing that a person is what they claim to be; credentials.|
 	- du jour == used to describe something that is enjoying great but probably short-lived popularity or publicity.
@@ -5184,6 +5049,11 @@
 		> 軍械 |A collection of weapons and military equipment.| Britain`s nuclear arsenal
 		> 軍械庫 |A place where weapons and military equipment are stored or made.|
 		> 大量 |An array of resources available for a certain purpose.| we have an arsenal of computers at our disposal
+	- bout (n)一回/一陣, 復發, 比賽
+		> 一回/一陣 |A short period of intense activity of a specified kind.| occasional bouts of strenuous exercise
+		> 復發 |An attack of illness or strong emotion.
+		> 比賽 |A wrestling or boxing match.| he fought 350 bouts, losing only nine times
+		> |A curve in the side of a violin, guitar, or other musical instrument.|
 	* bulk /bʌlk/ 
 		> 大小/質量 |The mass or size of something large.| residents jump up and down on their rubbish to reduce its bulk
 		> 巨大 |Large size or shape.| he moved quickly in spite of his bulk
@@ -5197,6 +5067,7 @@
 		> 組合(銷售) |Combine (shares or commodities for sale)| your shares will be bulked with others and sold at the best prices available
 	- bulk up 增重/變壯實 == Build up flesh and muscle, typically in training for sporting events.
 		> he took dietary supplements to bulk up as he lifted weights
+    * bunch (n)串/束, 一群人, 大量 (v)使成束, 使打褶, 成群, (肌肉)隆起 = bulge
 	- in bulk 
 		> 批發地 |(of goods) in large quantities and generally at a reduced price.| retail multiples buy in bulk
 		> 散裝地 |(of a cargo or commodity) not packaged; loose.| sugar is imported in bulk and bagged on the island

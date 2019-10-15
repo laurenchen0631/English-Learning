@@ -46,6 +46,8 @@
 	- Bankers had reportedly sought a $120 billion valuation for Uber, and the $45 IPO price fell far short of that
 + one another 其他每個人 == each other.
 	- the children used to tease one another
+- a majority of 大多數 
+	- A large majority of people approve of the death sentence.
 
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
@@ -72,6 +74,8 @@
 - by and large 大體上/總體上/一般來講
 	- There are a few small things that I don't like about my job, but by and large it's very enjoyable.
 - darn well 無疑地 == without doubt or question
+- little to no 少的/幾乎沒有的
+	- He said it with little to no inflection.
 - of sorts 勉強稱得上的 == used to describe something that is not a typical or good example of something
 	- That’s all changed, for two reasons, both of which can be thought of as technological advancements of sorts
 - over the top 太過頭/太過分 == OTT == too extreme and not suitable, or demanding too much attention or effort, especially in an uncontrolled way
@@ -165,6 +169,8 @@
 - round/around the clock 日以繼夜地 == all day and all night
 	- Doctors and nurses worked round the clock to help those injured in the train crash.
 	- She needed round-the-clock nursing.
+- sooner rather than later 盡快
+	- We need to fix this problem sooner rather than later.
 - the bowels of ..的最深處 == The deepest inner parts or areas of (something)
 	- the mineshaft descended deep into the bowels of the earth
 	- Lichens helped to speed the decomposition of the hard rock surfaces, preparing a soft bed of soil that was abundantly supplied with minerals that had been carried in the molten rock from the bowels of Earth
@@ -268,6 +274,8 @@
 	- The individual's needs are subordinate to those of the group.
 
 ## Example
+- aside from 除..之外 == except for == besides
+	- I don’t watch any television, aside from the news.
 - to name a few 僅舉幾例 == To provide only a few examples, though there are copious amounts from which to choose.
 	- We have a huge range of exotic teas: assam, pu-erh, guayusa, yerba mate, to name but a few.
 
@@ -343,6 +351,8 @@
 - back to square one 回到起點/重新開始
 	- If the merger negotiation falls apart, we will have no option but to go back to the drawing board.
 	- If this doesn't work we're back to square one.
+- behind the wheel 駕駛
+	- After many hours behind the wheel, I was ready to stop.
 - bring sb in line 帶..回到正軌 == to force someone or something to be similar or of the same standard as someone or something else
 	- If you change a word, the others will usually bring you in line. 
 	- Teachers say the raises would bring their salaries into line with other public workers.
@@ -375,6 +385,8 @@
 	- The school had its origin with a large gift from a donor.
 - hold/keep/put sth at bay 阻止/遏制 == to prevent someone or something unpleasant from harming you
 	- Exercise can help keep fat at bay.
+- hold sway (over sth) 對..有權/有影響力
+	- Fundamentalist beliefs hold sway over whole districts, ensuring the popularity of religious leaders.
 - keep sth straight (in one's mind) 區別/辨別
 	- These two bottles look so much alike. It's hard to keep them straight.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
@@ -431,6 +443,11 @@
 - bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
 - by accident 無意地
 	- She hit me with her hand, apparently by accident.
+- doing nothing to (do sth) 無意
+	- Do nothing to offend her susceptibilities.
+	- Tom is full of good intentions, but can do nothing to help.
+- have half a mind to (do sth) 可能會做/有意
+	- I have a good mind to go without him if he's going to be such an idiot!
 - It's your call 這是你自己的決定 == it's your decision
 	- Nobody can make this decision for you - it's your call. 
 - make up one's mind 下決心 == to decide
@@ -474,6 +491,8 @@
 ## Status
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
+- at one's disposal 可以用來幫助..的
+	- I don’t have a car at my disposal.
 - breaking point (n)爆發點/失控點/極限
 	- The situation reached breaking point when his son crashed the family car.
 	- Her nerves were **at** breaking point.
@@ -578,3 +597,5 @@
 - a bite (to eat) 一些食物 == some food
 	- We don't have a lot of time, so let's just grab a quick bite to eat before the movie starts.
 	- Let's pull off at the next rest stop to grab a bite to eat.
+- knock-on effect (n)連鎖反應
+	- If one or two trains run late, it has a knock-on effect on the entire rail service.

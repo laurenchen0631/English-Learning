@@ -234,9 +234,11 @@
 		> 包租旅行 |A trip made by a ship or vehicle under hire.| he liked to see the boat sparkling clean before each charter
 		> 包租 |Hire (an aircraft or ship)| he immediately chartered a plane to take him to Paris
 	- build-operate-transfer (n)BOT模式，民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營
-	
+	- tax return (n)報稅，在美國是指向美國國家稅務局或各州、地方的徵稅機構申報所得稅或其他稅務
+	- operating expense (n)營業費用，是運行企業的持續性、消耗性的支出，與之對照的是資本支出
 
 [Law]
+	- the Articles of Confederation (n)邦聯條例，全稱為《邦聯和永久聯合條例》，是美利堅合眾國13個創始州共同承認並遵守的第一部憲法
 	- the Supreme Court 最高法院
 	- Chief Justice 首席大法官，美國聯邦政府司法部門的領袖並主管美國最高法院。首席大法官是美國最高司法官員，領導最高法院的事務並在彈劾美國總統時主持參議院
 	- Federal Bureau of Investigation == FBI
@@ -263,6 +265,7 @@
 	- law clerk /lɔː klɑːk/ 法官助理(通常是法學院剛畢業不久的畢業生。法官助理職位通常在法學院畢業生中很受歡迎，而且法院的級別越高，法官助理的聲望也越高)/律師助理(律師事務所的僱員，協助從事法律檢索、文書寫作等工作。其目的在於獲得一些法律上的訓練與實踐，以備將來進入律師界)
 	- Racketeer Influenced and Corrupt Organizations Act 反勒索及受賄組織法
 	- Miranda rights == Miranda Warning 米蘭達警告/米蘭達公約/米蘭達宣言，是指美國警察（包括檢察官）根據美國聯邦最高法院在1966年米蘭達訴亞利桑那州案一案的判例來確立的規則。在訊問刑事案件嫌疑人之前，警察必須明白無誤地告知嫌疑人有權援引憲法第五修正案，即刑事案件嫌疑犯有「不被強迫自証其罪的特權」，有權行使沉默權和要求得到律師協助的權利。
+	- Controlled Substances Act (n)受控物質法案，製定聯邦美國藥物政策的法規，根據該法規規定某些物質的製造，進口，擁有，使用和分銷
 	- appropriation bills 特別支出預算案/撥款法案
 	- search warrant 搜查令/搜索票
 	- forensic /fəˈrɛnsɪk/ 
@@ -501,6 +504,7 @@
 	- bowstring 弓弦
 	- garrison (n)衛戍部隊/警衛部隊, 駐防地 (v)駐防
 	- chariot /ˈtʃarɪət/ (n)雙輪戰車, 十八世紀的四輪禮車 (v)駕馭戰車
+	- VA benefit (n)退伍軍人福利，為退伍軍人，其家屬和倖存者提供經濟和其他形式的援助
 
 [Transportation/Vehicle]
 	- longshoreman 碼頭工人 == docker
@@ -1724,8 +1728,29 @@
 	- field trip (n)校外考察/修學旅行/戶外教學
 	- Dr. Seuss (n)蘇斯博士為筆名。是美國著名的作家及漫畫家，以兒童繪本最出名
 	- Dolch list (n)由Edward William Dolch編輯的常用英語單詞列表
+	- Federal Pell Grants (n)聯邦培爾助學金
 
 [Political]
+	- Attorney General (n)美國司法部長
+	- Senate Majority Leader (n)多數黨領袖
+	- House Democrats 眾議院民主黨人
+	- DNC == Democratic National Committee 民主黨全國委員會
+	- GOP == Grand Old Party == The Republican Party 共和黨，又稱為大老黨，與民主黨並列為美國當代的兩大主要政黨之一
+	- Congress 美國國會 == the U.S. Congress
+	- government office 政府機關
+	- National Park Service 美國國家公園管理局
+	- constitution 憲法
+	- the U.S. Customs 美國海關
+	- Border Protection agency 邊境保護局
+	- the Department of Defense 美國國防部
+	- the General Services Administration 總務署
+	- the House of Representatives 美國眾議院
+	- Internal Revenue Service == IRS (n)美國國家稅務局
+	- U.S. Department of Justice == DOJ (n)美國司法部
+	- House Judiciary Committee (n)美國眾議院司法委員會
+	- Brookings Institution (n)布魯金斯學會，是美國著名智庫之一，主要研究社會科學尤其是經濟與發展、都市政策、政府、外交政策以及全球經濟發展等議題，總部位於華盛頓特區
+
+	
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.
 	- caste
@@ -1762,20 +1787,8 @@
 		> 笨重地行走 |Walk stiffly and noisily.| he stumped away on short thick legs
 	- on the stump == traveling around and giving speeches during a campaign for election to a political office
 		> candidates who give the same speech over and over when they`re on the stump
-	- House Democrats 眾議院民主黨人
-	- DNC == Democratic National Committee 民主黨全國委員會
-	- GOP == Grand Old Party == The Republican Party 共和黨，又稱為大老黨，與民主黨並列為美國當代的兩大主要政黨之一
-	- Congress 美國國會 == the U.S. Congress
+	- federalism (mn)聯邦制
 	* parliament (n)國會, 一屆議員
-	- government office 政府機關
-	- National Park Service 美國國家公園管理局
-	- constitution 憲法
-	- the U.S. Customs 美國海關
-	- Border Protection agency 邊境保護局
-	- the Department of Defense 美國國防部
-	- the U.S. Department of Justice 美國司法部
-	- the General Services Administration 總務署
-	- the House of Representatives 美國眾議院
 	- constituent --> constituency
 		> 構成的 |Being a part of a whole.| the constituent minerals of the rock
 		> |A component part of something.|
