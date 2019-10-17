@@ -91,7 +91,9 @@
 * up to a point 在一定程度上 == partly, or to a limited degree
 	- Of course there is some truth in all this, but only up to a point.
 	- The new traffic system worked up to a point, but it had its problems.
-
+- in every particular == in all particulars 在每一個細節
+	- The documents were identical in almost every particular.
+	
 ## Frequency
 - on and off 時斷時續地/間歇地 == If something happens on and off during a period of time, it happens sometimes.
 	- I've had toothache on and off for a couple of months.	
@@ -141,6 +143,8 @@
 - be off 離開 == go away; leave
 	- I must be off if I want to make the next bus.
 	- And the runners are off.
+- far afield 遠處
+	- Don't go too far afield or you'll get lost.
 - in circulation 流通/流傳 == going or passing from person to person or place to place
 	- That rumor has been in circulation for a long time.
 	- coins no longer in circulation
@@ -164,6 +168,9 @@
 	- The latest research shows that babies can be taught the difference between night and day from the get-go.
 + on and on 持續地 == continuing for a long time
 	- The noise just went on and on.
+- put (sth) on hold 暫停/推遲
+	- We've had to put the sale on hold while we figure out why the website keeps crashing.
+	- Do you mind if we put date night on hold for a few weeks until we get done with this project at work?
 - right off the bat 立刻/馬上 == immediately
 	- You cannot expect to be accepted in a new town right off the bat.
 - round/around the clock 日以繼夜地 == all day and all night
@@ -391,6 +398,9 @@
 	- These two bottles look so much alike. It's hard to keep them straight.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
 	- She made it clear that her comments were strictly off the record.
+- on the run (v)奔逃/躲藏, 忙個不停/奔忙
+	- After a month on the run, the prisoners were finally recaptured by the police.
+	- She's always on the run and never has time for a chat.
 - (be) on the same page 同意/意見一致 == in agreement
 	- everybody`s on the same page for once
 	- To make sure each partner is on the same page, kinksters have to talk about sex in a way that vanilla people often don`t
@@ -541,6 +551,8 @@
 	- It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
 
 ## Job/Task
+- hit the ground running [非]雷厲風行/立刻展開行動
+	- Ask for an update on special projects the day before you return so you can hit the ground running.
 - miss one's calling 選錯職業 == to not have the career one should have
 	- He feels he missed his calling by not becoming a doctor.
 - on the bench
@@ -597,5 +609,12 @@
 - a bite (to eat) 一些食物 == some food
 	- We don't have a lot of time, so let's just grab a quick bite to eat before the movie starts.
 	- Let's pull off at the next rest stop to grab a bite to eat.
+- call to action (n)行動呼籲 == something such as a speech, piece of writing, or act that encourages people to take action about a problem
+	- The film is a call to action on climate change.
+- hot button (n)重要而敏感的問題 == a subject that is important to people and about which they have strong opinions
+	- After the 2016 election, she brought together 25 Clinton supporters from California and 25 Trump supporters from Alabama to talk about hot-button issues
+- icing on the cake 錦上添華 <-- icing (n)裝飾糖霜
+- the ins and outs (n)細節
+	- I know how to use computers, but I don't really understand the ins and outs of how they work.
 - knock-on effect (n)連鎖反應
 	- If one or two trains run late, it has a knock-on effect on the entire rail service.

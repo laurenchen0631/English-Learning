@@ -58,6 +58,10 @@
 	- 尤其 |particularly| food seems cheaper, especially meats
 	- 特別 |—used as an intensive| an especially good essay
 	- 特別 |specially| I made it especially for you.
+- head-on (ADJ/ADV)頭朝前的/迎頭, 直接的/正面針對地
+- insofar == in so far as (adv)到…的程度 == to the extent that == to the degree that
+	- the tool is able to cater to almost any need insofar as graphs are concerned
+	- I'll help you insofar as I can. 
 
 ## Possibility
 - arguably (adv)可以說/大概/可能
@@ -69,7 +73,13 @@
 - admittedly (adv)公認地
 + inadvertently (adv)不慎地/不經意地 = carelessly = unintentionally
 + undoubtedly (adv)毫無疑問地/肯定地 = certainly
+- decidedly (adv)無疑地 == undoubtedly == undeniably
 - conceivably (adv)可以想像地
++ seemingly (adj)表面上/貌似, 據人所知 = as far as one knows
+
+## Attitude
+- inwardly (adv)在內心裡 == within the mind.
+	- If the idea of sending in a resume and cover letter makes you inwardly (or outwardly) groan, you’re not alone. 
 
 ## Others
 - throughout (adv/prep)遍及/遍布, 從頭到尾
