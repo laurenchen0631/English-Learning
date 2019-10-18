@@ -52,8 +52,11 @@
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
 	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
-- or so 大約 == approximately 
+- or so 大約 == approximately
 	- Edison`s goal was "a minor invention every ten days and a big thing every six months or so," an objective that was readily achieved
++ north of sth (n)多出 == used to say that an amount is more than the stated amount
+	- The share price is expected to rise north of $20.
+
 
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
@@ -226,6 +229,8 @@
 	- this grisly ending is anything but sentimental
 	- I will be anything but quiet on Saturday night.
 	- The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
+- nowhere near 遠非 == Not nearly.
+	- he's nowhere near as popular as he used to be
 - one and the same 同一個事物/同一個人 == the same thing or person 
 	- I was amazed to discover that Mary's husband and Jane's son are one and the same (person).
 - what/how/why/.. in the world 究竟/到底 == used to emphasize your surprise when asking a question
@@ -241,7 +246,7 @@
 - as opposed to 而不是 == not something else, used to compare two things.
 	- We ate in the restaurants, as opposed to the bistro.
 	- The challenge of interpreting fictional works written under politically repressive regimes lies in distinguishing what is organic to an author's beliefs, as opposed to what is imposed by political coercion.
-+ (be) at odds 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
++ (be) at odds (with sb) 與…意見不一致/與…相矛盾 == to disagree  == disagree with == quarrel with
 	- They're at odds over the funding of the project.
 	- Her version of events was at odds with the police report.
 	- He was at odds with this Prime Minister.
@@ -289,6 +294,8 @@
 ## Competition
 - head start (on/over sth) 優勢
 	- You've got a head start over/on others trying to get the job because you've got relevant work experience.
+- long odds 為乎其微的勝率 == a poor chance of winning
+	- The team has made some major improvements, but they still face long odds.
 - snatch victory (from the jaws of defeat) 在最後時刻取得勝利
 
 ## Conclusion/Finish
@@ -492,6 +499,8 @@
 	- Did you have anything in mind for Helen`s present?
 
 ## Emotion
+- ill at ease 不安/不自在
+	- He seemed ill at ease and not his usual self.
 - roll one's eyes 翻白眼
 - scare the (living) daylights out of sb 把..嚇壞 == to frighten someone very much
 	- You scared the daylights out of me, yelling like that.
@@ -596,14 +605,18 @@
 - Renaissance man (n)多才多藝的人
 
 ## Apothegm
+- if you will/like 如果你願意那樣說的話
+	- I did very well in school , with a "genius IQ" if you will.
+- revenge is sweet 報仇雪恨，大快人心
+- revenge is a dish best served cold 君子報仇，十年不晚
 - That was then. This is now. 此一時，彼一時
 - tit for tat 以牙還牙
 	- I noticed she didn't send me a card - I think it was tit for tat because I forgot her birthday last year.
 - tip of the iceberg 冰山一角 == a small, noticeable part of a problem, the total size of which is really much greater
 	- These small local protests are just the tip of the iceberg.
 	- These small local protests are just the tip of the iceberg.
-- if you will/like 如果你願意那樣說的話
-	- I did very well in school , with a "genius IQ" if you will.
+- turn the other cheek 不予還擊/不還手
+	- Neither nation is renowned for turning the other cheek.
 
 ## Thing
 - a bite (to eat) 一些食物 == some food
@@ -613,7 +626,9 @@
 	- The film is a call to action on climate change.
 - hot button (n)重要而敏感的問題 == a subject that is important to people and about which they have strong opinions
 	- After the 2016 election, she brought together 25 Clinton supporters from California and 25 Trump supporters from Alabama to talk about hot-button issues
-- icing on the cake 錦上添華 <-- icing (n)裝飾糖霜
+- icing on the cake (n)錦上添華 <-- icing (n)裝飾糖霜
+- moral compass (n)道德羅盤 == a natural feeling that makes people know what is right and wrong and how they should behave
+	- Some people believe that the increase in crime shows that society is losing its moral compass.
 - the ins and outs (n)細節
 	- I know how to use computers, but I don't really understand the ins and outs of how they work.
 - knock-on effect (n)連鎖反應

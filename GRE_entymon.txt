@@ -1243,7 +1243,7 @@
 		- encyclic (n)教皇通諭
 	
 	cit, cite 激起/喚起 = start ip, hurry, summon
-		+ cite (v)引用/引述 = quote --> citation (n)引用
+		+ cite (v)引用/引述 = quote --> citation (n)引用/引證/引文, 褒揚, [法]傳票
 		- excite (v)使興奮/使激動, 引起/激起 = arouse = stir up = cause = awaken = evoke = incite
 		- excitable (adj)易激動的/易興奮的 --> excitability (n)易激動性/易興奮性
 		+ incite (v)激勵/刺激 = stir = encourage = urge on = stimulate = prompt = kindle = whet, 煽動 = foment = agitate
@@ -1262,7 +1262,7 @@
 	clair, clar 清楚 = clear
 		+ clairvoyance (n)透視/千里眼/預視/神視 --> clairvoyant (adj)神視的 (n)先知/有洞察力的人
 		- clarify (v)澄清/闡明 <--> roil
-		- clarity (n)清楚
+		* clarity (mn)清楚明瞭/清晰易懂, 清澈 = transparency = purity, 清晰 = sharpness
 		- /ˈklarɪən/ clarion (adj)響亮清澈的 (n)小號
 
 	cogn 知道 = learn, know == nois == gnost
@@ -2058,6 +2058,7 @@
 		+ entail
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
 	    - entity (n)實體 (mn)存在/本質
+		- entitative (adj)[哲]實體的/本質的 --> entitativity (n)主體性
 		- /ˈɛntr(ə)nt/ entrant (n)新成員/新職員, 參賽者/考生, 首次銷售某種產品的公司 <-- enter
 		+ enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
@@ -2068,7 +2069,7 @@
 		++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirm <-- en + trench
 		+ /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
 		+ entitle (v)使有權(做某事), 取名
-		- entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
+		* entreat (v)懇求/哀求 = solicit = appeal = plead = woo --> entreaty (n)懇求/哀求
 		* entrust (v)委託/託付 = commend
 	    - entry (n)條目, 紀錄/登錄, 報關手續, 入場/參加, 入口, 參賽作品/參賽 <-- enter
 		- envelop (v)包住/圍繞, 籠罩 <-- en + velop = develop
@@ -2261,6 +2262,7 @@
 		+ formulaic (adj)公式化的/客套的/俗套的
 		+ formulate (v)系統地表達, 規劃/開發 = devise = develope
 		- inform (v)通知/告知 --> informed (adj)見多識廣的, 消息靈通的 <--> uninformative
+		- informant (n)情報提供者, 告密者 = informer, (為語言學調查)提供資料的講本地話的人
 		+ transform (v)使改變 --> transformation (n)變化/轉變/變形/變質
 		- uniform (n)制服 (adj)相同的/一致的 = consistent
 
@@ -2333,6 +2335,8 @@
 		+ manifest
 		- manufacture (v)大量製造, 捏造
 		+ munificent
+		- office (n)辦公室, 職位, 任期 = tenure, 服務 = service
+		- official (adj)正式的, 官員的 (n)官員
 		++ officious (adj)多管閒事的/愛發號施令的 = meddlesome = intrusive, 非正式的 = informal = unofficial
 		- perfect (adj)完美的/絕對的 (v)使完美/改善 --> perfection (n)完美
 		- proficient (adj)熟練的/精通的 = skillful = expert --> proficiency (mn)精通/熟練 = expertise
@@ -2444,7 +2448,7 @@
 		- infinitesimal (adj)極微小的 (n)極小量
 
 	fringe 邊緣
-		- fringe (n)(地區)邊緣/周邊, 流蘇/穗子, 瀏海
+		* fringe (n)穗/流蘇, 邊緣, 員工福利 = fringe benefit (v)裝飾…的邊緣, 形成..的邊界
 		*** infringe (v)違反 = violate, 侵佔/侵害 = trespass
 		- befringe (v)飾以邊
 
@@ -3769,13 +3773,15 @@
 		+ miscreant (n)惡棍/歹徒 = villain = criminal (adj)無賴的 <-- mis + crea(te) 做 + ant
 		- misgiving (n)擔心/疑慮 = doubt = distrust = fear = qualm = scruple
 		+ mishandle (v)處理不當 = maltreat, 隨意操作
+		- mishap
 		- misinform (v)誤傳/向...提供錯誤消息 = misrepresent
 		- mismatch (n)不一致, 實力懸殊的比賽 (v)使錯配/使不適當地在一起
 		+ misnomer
 		- misperceive (v)誤解 = misunderstand
 		+ misrepresent (v)誤傳/歪曲 = distort
-		- mishap
 		- misshapen (adj)畸形的/奇形怪狀的
+		- mistake (n)錯誤, 錯誤/不精確 (v)錯看 = be wrong about, [for]認錯
+		- mistaken (adj)錯誤的, 誤解的
 		+ misuse 
 
 	miss, mit, mise 送/放出 = send, give over
@@ -3856,14 +3862,15 @@
 		* /məˈnuːvə/ maneuver (v)調動, 巧妙地操控 (n)(部隊等的)調動/機動, 軍事演習, 策略/謀略
 
 	mand, mend 命令 = order
-		* mandate (n)命令/指令, 授權 (v)授權, 使必要 --> mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
+		* mandate (n)命令/指令, 委任 = commission, 委任文件, 政策執行機關 (v)授權, 要求完成
+		* mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
 		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
 		++ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
 		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)艱難的 = taxing, 不易滿足的
 		- recommend (v)推薦 = commend, 建議 = suggest = advise
 
-	medi 中間
+	medi, mid 中間
 		+ intermediary (n)仲裁者 = mediator, 媒介物 = medium (adj)中間的/媒介的 = intermediate <-- inter + media 媒體 + ary
 		* /ˌɪntəˈmiːdɪət/ intermediate (adj)中介的/中間的, 中等的 (n)中間物, 中級者 (v)作中間人/干預 
 		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about (adj)居中的/間接的 --> mediator (n)調解人 = broker = intercessor <|> meditate
@@ -3872,6 +3879,8 @@
 		- medieval
 		+ /ˌmiːdɪˈəʊkə/ mediocre (adj)中庸的/中等的 --> mediocrity (n)中庸, 中庸的人
 		- medium -> media (n)媒介/媒體, 培養基, (生物的)生存環境, 手段/工具 (adj)中間的/平均的 = average
+		- midday (n)中午 = noon
+		- midst (n)中部/中間
 		* premeditate (v)預先想過/預謀 --> premeditated (adj)預謀的/事先計劃的 <--> unpremeditated
 		+ unpremeditated
 		+ immediate 
@@ -4165,6 +4174,13 @@
 		+ /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
 		** nerve (n)神經, 沉著, 勇氣/膽量, 憂慮/焦躁, 葉脈 (v)[nerve oneself]鼓起勇氣/激勵 <--> unnerve
 		+ unnerve 
+	
+	neuro 神經 = nerves
+		- neuroimaging (n)神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術) = brain imaging
+		- neuroanatomy (n)神經解剖學
+		- neuron (n)神經元
+	    - neurology (n)神經學 
+		- neuroscience (n)神經科學
 
 	nihil 無 = nothing
 		+ annihilate (v)消滅 = obliterate = extingush = decimate = wipe out, 征服/徹底勝過 = vanquish
@@ -4202,6 +4218,8 @@
 		- notorious (adj)惡名昭彰的 = flagrant
 		+++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
 		+ denote (v)表示/代表 = indicate = mean
+	    + notion (n)概念/想法 = idea = concept, 衝動, [notions]小日用品
+		- notice (v)注意, 認真對待 (n)注意, 警告/預先通知, 合約終止通知/辭職通知, 公告/通知, 短評
 		- notable (adj)值得注意的 = remarkable = noteworthy (n)要人/名人
 		- noticeable (adj)顯而易見的/明顯的 = clear = apparent, 值得注意的/重要的 = notable
 
@@ -4340,22 +4358,27 @@
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
 		- outdo -> outdid -> outdone (v)勝過/超越
+		* outdoor (adj)戶外的 --> outdoors (adv)在戶外 (n)戶外/野外
 		- outflow (n)外流
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
 		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
 		+ outland (n)遙遠的地區 (adj)遙遠的, 外國的 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
 		* outlaw (n)逃犯/罪犯, 被剝奪法律權益者 (v)宣布……為不合法, 剝奪……的法律保護 = proscribe
+		- outlay (n)花費 = expense
 		- outlet (n)出水口/排氣口, 銷路, 市場, 商行, 發洩途徑
 		- outline (n)外形/輪廓, 提綱/概要 (v)畫出……的輪廓, 概述
 		- outlive (v)比...活得更久 
 		- outmaneuver (v)以機動性勝過, 以計謀勝過
 		+ outmoded (adj)老式的/過時的 = obsolete = old-fashioned = outdated
 		- outnumber (v)在數量上超過
+		- outpost (n)前哨基地, 郊區, 邊遠分部
 		- outpouring (n)流露 = betray
-		+++ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反 --> outrageous (adj)無恥的/無法無天的/極不道德的 = woeful, 過度的/過分的 = extravagant = remarkable
+		+++ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反
+		+++ outrageous (adj)極不道德的/無法無天的 = woeful = bad = excessive, 過度誇張的 = exaggerated = improbable, 令人吃驚的 = shocking
 		- outset (n)開始/開頭 = start = beginnning <|> onset
 		- outshine (v)比..更亮, 比...更好
 		- outskirts (n)郊區/郊外
+		- outsource (v)外包/委外
 		- outspoken (adj)直言不諱的 = explict
 		+ outstrip (v)超過 = exceed = excel = surpass = transcend, 比..跑(或游、划等)得快
 		- outwit (v)以機智勝過 = overreach
@@ -4431,6 +4454,7 @@
 		- oratorio (n)清唱劇 = cantata
 
 	ord 命令 = order
+		- order (n)順序/次序, 整齊/有條理, 秩序/治安, 規定, 命令, 訂購/訂單, 訂購品, 判決書, 匯票/匯單, 等級/階層, 社會等級, 特質/本質, 狀態, [生]目, 配備 (v)命令/指揮, 定購/叫, 整理
 		- ordain (v)任命..為神職, 命令/下令 = decree = enact = prescribe = enjoin <|> foreordain
 		- ordeal (n)苦難
 		- ordinance (n)法令/條例 = decree = command, 宗教儀式 <|> ordnance
@@ -4489,6 +4513,7 @@
 
 	oper 做/工作 = work
 		- operate (v)工作/運作/營運/起作用, 動手術 <-- oper 工作 = work + ate
+		- operation (n)運作, 作用, 手術, 行動/作戰, 公司 = company, 經營/營運, 運算
 		- operative (adj)實施中的/起作用的/有效的 = working = effective, 手術的 (n)工人, 偵探/間諜
 		- operose (adj)費力的/艱苦的 = onerous = taxing = arduous = laborious
 		- opus -> opuses/opera (n)著作/編號的音樂作品, 作品/傑作
@@ -4698,6 +4723,7 @@
 			- perfervid
 			+ perish (v)死去, 破滅, 腐爛 = rot = decay --> perishing (adj)極冷的/嚴寒的
 			+ /pəˈnɪʃəs/ pernicious (adj)有害的 = noxious = harmful = baleful = baneful <-- per + nic 死 = death + ious
+			- perpetrate (v)犯 = commit = carry out --> perpetrator (n)犯罪者/作惡者
 			+ perpetual --> perpetuate
 			+ perplex
 			+ perquisite 
@@ -4868,6 +4894,7 @@
 			*** compact (adj)緊的/密的 = dense = solid, 小巧的, 結實的, 簡潔的 = compendious = concise = terse = succinct = laconic (v)壓縮 = compress, 精簡, 簽訂契約 (n)鏡小粉盒, 契約/協約 = agreement = covenant
 			- encompass
 			+ impact (n)衝擊力 = collision, 效果/影響/影響力 = influence = effect (v)衝擊, 擠壓, [on]影響 = influence = alter
+			- passable (adj)過得去的/尚可的 = satisfactory, 可通行的
 
 		2. 感情 = suffer, undergo == pathy 
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
@@ -5311,7 +5338,7 @@
 	plore 喊/哀嚎 = wail
 		+ deplore (v)譴責/強烈反對 = condemn
 		- deplorable (adj)應受譴責的/極其惡劣的 = egregious = atrocious, 糟透的
-		- implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge = supplicate
+		* implore (v)哀求/懇求 = beg = beseech = crave = solicit = plead = urge = supplicate
 
 	pute 思考 = reckon, consider, think
 		+++ dispute (n)爭執/糾紛 (v)爭論 = argue = wrangle = quarrel, 質疑 = question = impugn, 競爭 = compete = strive 
@@ -5975,6 +6002,8 @@
 		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
 		+ extant (adj)現存的/尚存的 = surviving <--> extinct
 		- hemostat
+		- instance (n)例子/實例 (v)舉……為例
+		- instantiate (v)舉例說明
 		- instant (adj)立即的, 速食的/即溶的, 迫切的 = urgent = pressing, 當月的 (n)現在, 瞬間/頃刻 = moment, 即溶咖啡
 		- /ˌɪnst(ə)nˈteɪnɪəs/ instantaneous (adj)瞬間的/即時的
 		- instate (v)任命/安置 = install = establish <--> reinstate
@@ -6951,6 +6980,7 @@
 		+ unimpeachable (adj)無可置疑的 = trustworthy <-- un + impeach + able
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/無專門知識的 = inexperienced
+		+ unintelligible (adj)難理解的/晦澀難懂的
 		- unironic (adj)非諷刺的/真誠的
 		- unjustified (adj)不合理的/無正當理由的, 錯誤的/不值得的 = wrong, 未對齊的
 		- unjust (adj)不義的/不法的 --> unjustly (adv)不義地/不法地
@@ -7148,7 +7178,7 @@
 		- adversarial (adj)對立的, [法]對抗制的
 		+ adversity (n)逆境/窘境
 		+ averse (adj)不願的/嫌惡的 = reluctant = unwilling = loath <|> adverse
-		+ aversion (n)嫌惡/反感 = antipathy = animosity = distaste = enmity = hatred = rancor, 討厭的人或事物
+		+ aversion (n)[to]嫌惡/反感 = antipathy = animosity = distaste = enmity = hatred = rancor, 討厭的人或事物
 		+ avert (v)避免/防止 = avoid = prevent = ward off = parry, 轉移(目光或想法) = turn away <|> aver <|> advert
 		* controvert (v)否認/駁斥 = contradict = disprove, 就……展開爭論 = argue about
 		+ controversy (n)爭論/辯論 --> controversial (adj)引起爭論的 = contentious

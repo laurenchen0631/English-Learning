@@ -34,9 +34,10 @@
 	- (prep)除了 |Except; apart from; other than| supply currently exceeds demand in all but the most rural areas
 	- (adv)僅僅 |No more than; only| he is but a shadow of his former self
 	- (n)反對 |An argument against something; an objection| no buts—just get out of here
-+ /ad ˈhɒk/ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
++ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
 + jointly (adv)共同地 == together
 + respectively (adv)分別地/各自地
+- uncharacteristically (adv)不典型地/非同尋常地
 
 ## List
 - besides == apart from == as well 除..之外
@@ -48,6 +49,9 @@
 
 ## Frequency
 + invariably (adv)總是
+
+## Status
+- higgledy-piggledy (adj/adv)亂七八糟/雜亂無章
 
 ## Degree
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
@@ -93,3 +97,10 @@
 	- 與眾不同地 |Used after a noun to indicate that someone or something has qualities which mark them out from other people or things.| wrestlers were a breed apart
 	- |Used to indicate that one is dismissing something from consideration or moving from one tone or topic to another.| Alaska apart, much of America`s energy business concentrates on producing gas
 	- 散開地 |So as to be shattered; into pieces.| he leapt out of the car just before it was blown apart
+* outright (adv)完完全全地, 直接地/公然地 = directly = openly, 立即地 = immediately = instantly (adj)總的 = total = gross, 毫無疑問的 = undisputed, 直接的/公然的
+	- 完完全全地 |Wholly and completely.| logging has been banned outright
+	- |Total| the outright abolition of the death penalty
+	- 毫無疑問的 |Clear and undisputed.| an outright victory
+	- 直接地/公然地 |Directly or openly.| she couldn`t ask him outright
+	- |Open and direct.| an outright refusal
+	- 立即地 |immediately; instantly| the impact killed four horses outright

@@ -26,6 +26,9 @@
 	- At long last the government is starting to listen to our problems.
 	- I'm so glad that we've found you at long last.
 	- the judge`s standing in the legal community, though shaken by phony allegations of wrongdoing, emerged, at long last, undamaged/undiminished.
+- last but not least 最後但同樣重要的
+	- I would like to thank my publisher, my editor, and, last but not least, my husband.
+	- Last but not least, I think we should help people understand how to manage conflicts, in the same way that we teach mathematics and physics and biology in schools today.
 + additionally == in addition (to sth) 此外
 	- Brokers finance themselves additionally by short-term borrowing.
 	- Additionally, 50 hours of practical experience will be necessary.

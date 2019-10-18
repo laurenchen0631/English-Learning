@@ -479,6 +479,7 @@
 		> 集會 |A convention, especially one for science fiction enthusiasts.| an SF con
 		> 指揮操舵 |Direct the steering of (a ship)| he hadn`t conned anything bigger than a Boston whaler
 		> 指揮操舵 |The action or post of conning a ship.| I quickly took the conn and restored the channel course
+	- con artist (n)騙子/行騙者
 	+ conscious /ˈkɒnʃəs/ (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional
 		> 意識到的 |Aware of and responding to one`s surroundings.| although I was in pain, I was conscious
 		> 知道的 |Having knowledge of something.| we are conscious of the extent of the problem
@@ -1605,7 +1606,7 @@
 	- know-it-all (n)自以為無所不知的人
 	
 [L]
-	+ labor, labour (n)勞動/有薪勞動, 勞工, 分娩/陣痛 (v)勞動, 奮鬥, 分娩
+	- labor, labour (n)勞動/有薪勞動, 勞工, 分娩/陣痛 (v)勞動, 奮鬥, 分娩
 		> 勞動 |Work, especially physical work.| the price of repairs includes labour, parts, and VAT
 		> 勞工 |Workers, especially manual workers, considered collectively.| 
 		> 分娩 |The process of childbirth, especially the period from the start of uterine contractions to delivery.| his wife is in labor
@@ -1619,7 +1620,7 @@
 		> 使交錯 |Entwine (things, especially fingers) together.| she laced her fingers together
 		> 加料 |Add an ingredient, especially alcohol, to (a drink or dish) to enhance its flavour or strength.| coffee laced with brandy
 		> 加 |Give (something) a large amount or degree of a feature or quality.| the script is laced with expletives
-	+ land (n)陸地, 土地, 田地, 田園生活, 國家 = state = country, 地區 (v)使登陸, 上岸 = disembark, 釣上, 弄到/撈到, (使)降落, 落地, 突然出現, 給予(打擊) = inflict
+	- land (n)陸地, 土地, 田地, 田園生活, 國家 = state = country, 地區 (v)使登陸, 上岸 = disembark, 釣上, 弄到/撈到, (使)降落, 落地, 突然出現, 給予(打擊) = inflict
 		> 陸地 |The part of the earth`s surface that is not covered by water.| the reptiles lay their eggs on land
 		> 陸地 |Living or travelling on land rather than in water or the air.| a land force
 		> 土地 |An area of ground, especially in terms of its ownership or use.| he bought 360 acres of land
@@ -1644,16 +1645,24 @@
 	- land sb with (v)給予(困難) == Inflict (an unwelcome task or difficult situation) on someone.
 		> the mistake landed the company with a massive bill
 	- lead -> led -> led
-	+ lead to (v)導致 = bring about = induce = cause = engender = prompt
+	- lead to (v)導致 = bring about = induce = cause = engender = prompt
 	- lead up to sth (v)為…作鋪墊/是…的先導, 緩慢過渡/慢慢引導
 		> 為…作鋪墊/是…的先導 |If a period of time or series of events leads up to an event or activity, it happens until that event or activity begins.| The pilot had no recollection of the events leading up to the crash.
 		> 緩慢過渡/慢慢引導 |to prepare to talk about something by gradually mentioning the subject you want to talk about| He started telling me about a wonderful new restaurant he`d been to and I wondered what he was leading up to.
+	- leftover (n)殘餘物/剩菜 (adj)多餘的/剩下的 == Something, especially food, remaining after the rest has been used.
+	- lean -> leant/leaned -> leant/leaned
+	- lean on (v)依賴, 施壓
+		> 依賴 |to depend on someone| Everybody needs someone to lean on in times of trouble.
+		> 施壓 |to put pressure on someone in order to make them do something| The Prime Minister’s been leaning pretty heavily on her to resign.
+	- lean into (v)擁抱/接受, 推擠/擠入
+		> 擁抱/接受 |The act of embracing something, or a situation, by using it to empower yourself| He was often self conscious about having red hair, but recently he decided to lean into it and really prided himself on it being his look
+		> 推擠/擠入 |To push into or press against someone or something.| People in the audience behind me kept leaning into me throughout the concert.
 	- level off (v)保持穩定 
 		- House prices now seem to be levelling off after the steep rises of the last few years.
 		- Unemployment rose to ten percent and then levelled off.
 	- light -> lit -> lighten
 	- live
-	+ live off (v)倚靠..維生
+	- live off (v)倚靠..維生
 		- All his life he had lived off his father.
 		- They had learned to live off the land 
 		- These cattle people may have moved between fixed settlements during the wet and dry seasons, living off hunting in the dry months and their own livestock and agriculture during the rains.
@@ -1684,16 +1693,23 @@
 	- (be) lost on (v)被理解 == not appreciated or understood by (someone)
 		> The jokes were lost on me.
 		> The meaning of her sarcastic remark wasn`t lost on him.
-	- lock	
+	- lock (v)鎖住, 固定住 (n)鎖, 水閘, 確信 = certainty, 一綹(頭髮), 頭髮
+		> 鎖 |A mechanism for keeping a door, window, lid, or container fastened, typically operated by a key.|
+		> 鎖住 |Fasten or secure (something) with a lock.|
+		> 固定住 |Make or become rigidly fixed or immovable.|
+		> 水閘 |A short section of a canal or river with gates and sluices at each end which can be opened or closed to change the water level, used for raising and lowering boats.|
+		> 確信 |A person or thing that is certain to succeed; a certainty.|
+		> 一綹頭髮 |Go through a lock on a canal.| she pushed back a lock of hair
+		> 頭髮 |A person`s hair.| flowing locks and a long white beard
 	- lock up (v)鎖起全部的門窗 == to lock all the doors and windows of a building so that no one can get in
 		> I locked up and went to bed
-	+ loom (n)織布機, 隱約呈現的形象 (v)隱約地出現, (威脅)逼近/即將發生
+	- loom (n)織布機, 隱約呈現的形象 (v)隱約地出現, (威脅)逼近/即將發生
 		> 織布機 |An apparatus for making fabric by weaving yarn or thread|
 		> 隱約地出現 |Appear as a vague form, especially one that is large or threatening.| vehicles loomed out of the darkness
 		> 隱約呈現的形象 |A vague and often exaggerated first appearance of an object seen in darkness or fog, especially at sea.|
 		> |The dim reflection by cloud or haze of a light which is not directly visible, e.g. from a lighthouse over the horizon.|
 		> 逼近/即將發生 |(of an event regarded as threatening) seem about to happen.| there is a crisis looming
-	+ lot
+	- lot (n)大量, 一批/一攤, 拍賣品, 籤, 命運/命數, 一塊地, 停車場 = parking lot (adv)相當地/非常 (v)分
 		> 大量 |A large number or amount; a great deal.| there are a lot of actors in the cast
 		> 相當地/非常 |A great deal; much.| he played tennis a lot last year
 		> 一批/一攤 |A particular group or set of people or things.| it`s just one lot of rich people stealing from another
@@ -1703,79 +1719,34 @@
 		> 命運/命數 |A person`s luck, situation, or destiny in life.| schemes to improve the lot of the disadvantaged
 		> 一塊地 |A plot of land assigned for sale or for a particular use.| a vacant lot
 		> 停車場 |parking lot|
-	- lounge
+	- lounge (v)倚靠/躺 (n)休息室/會客室, 候機室
 		> 倚靠/躺 |Lie, sit, or stand in a relaxed or lazy way.| several students were lounging about reading papers
 		> 休息室/會客室 |A public room in a hotel, theatre, or club in which to sit and relax.|
 		> 候機室 |A seating area in an airport for waiting passengers.|
-	+ lesser 較小的/次級的 == Not so great or important as the other or the rest.
-	- lease
-		> 租約 |A contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.|
-		> 租給 |Grant (property) on lease; let.| she leased the site to a local company
-		> 租 |Take (property) on lease; rent.| land was leased from the Duchy of Cornwall
-	
-	- line up 
+	- line up (v)排隊, 接連安排, 按順序排列, 想同時一起.. 
 		> 排隊 |to form a row, or to put people or things in a row| The books are lined up on a shelf above the desk.
 		> 接連安排 |to organize or prepare things for an event or a series of events| We have a series of activities lined up to keep you entertained.
 		> 按順序排列 |to move something into the correct position in relation to something else, especially so that it is level with it| He lined the ball up and kicked it straight into the net.
 		> 想同時一起.. |if people are lining up to do something, they all want to do it at the same time| Her colleagues are lining up to demand her resignation.
-	+ leftover (n)殘餘物/剩菜 (adj)多餘的/剩下的 == Something, especially food, remaining after the rest has been used.
-	- lock
-		> 鎖 |A mechanism for keeping a door, window, lid, or container fastened, typically operated by a key.|
-		> 鎖住 |Fasten or secure (something) with a lock.|
-		> 固定住 |Make or become rigidly fixed or immovable.|
-		> 水閘 |A short section of a canal or river with gates and sluices at each end which can be opened or closed to change the water level, used for raising and lowering boats.|
-		> 確信 |A person or thing that is certain to succeed; a certainty.|
-		> 一綹頭髮 |Go through a lock on a canal.| she pushed back a lock of hair
-		> 頭髮 |A person`s hair.| flowing locks and a long white beard
-	+ lean -> leant/leaned -> leant/leaned
-	- lean on
-		> 依賴 |to depend on someone| Everybody needs someone to lean on in times of trouble.
-		> 施壓 |to put pressure on someone in order to make them do something| The Prime Minister’s been leaning pretty heavily on her to resign.
-	- lean into
-		> 擁抱/接受 |The act of embracing something, or a situation, by using it to empower yourself| He was often self conscious about having red hair, but recently he decided to lean into it and really prided himself on it being his look
-		> 推擠/擠入 |To push into or press against someone or something.| People in the audience behind me kept leaning into me throughout the concert.
-	- lens -> lenses 
-		> 透鏡/鏡片 |A piece of glass or other transparent material with curved sides for concentrating or dispersing light rays, used singly (as in a magnifying glass) or with other lenses (as in a telescope).|
-		> 鏡頭 |The light-gathering device of a camera, typically containing a group of compound lenses.|
-		> 晶體 |crystalline lens|
-		> 隱形眼鏡 |contact lens|
-	* lobby
-		> 大廳 |A room providing a space out of which one or more other rooms or corridors lead, typically one near the entrance of a public building.| they went into the hotel lobby
-		> 遊說團 |A group of people seeking to influence legislators on a particular issue.| members of the anti-abortion lobby
-		> 遊說 |An organized attempt by members of the public to influence legislators.| a recent lobby of Parliament by pensioners
-		> |Seek to influence (a legislator) on an issue.| they insist on their right to lobby Congress
-	- lull
-		> 使入睡/使平靜 |Calm or send to sleep, typically with soothing sounds or movements.| the rhythm of the boat lulled her to sleep
-		> 使放鬆警惕/哄騙 |Make (someone) feel deceptively secure or confident.| the rarity of earthquakes there has lulled people into a false sense of security
-		> 安靜下來 |(of noise or a storm) abate or fall quiet.| conversation lulled for an hour
-		> 暫時平息/暫時平靜 |A temporary interval of quiet or lack of activity.| for two days there had been a lull in the fighting
-	- lush /lʌʃ/ 
-		> 蒼翠繁茂的 |(of vegetation, especially grass) growing luxuriantly.| lush greenery and cultivated fields
-		> 豐富的 |Very rich and providing great sensory pleasure.| lush orchestrations
-		> 極佳的 |Very good or impressive.| I had some really lush pressies
-		> 酒鬼 |A heavy drinker, especially a habitual one.| a lush who does not make very much sense most of the time
-		> 向……灌酒 |Make (someone) drunk.| Mr Hobart got so lushed up he was spilling drinks down his shirt
+
 	- luck out (v)非常幸運
 		- The Giants really lucked out in last night`s game.
 		- My wife lucked out – she left town just before the hurricane hit.
 
 [M]
-	- make up
-		> |to create from the imagination| He made up a story
-		> |compose| Eleven players make up the team.
-		> |to do something to correct or repay a wrong| Volunteer work made up for their mischief.
-		> |to become friendly again| They quarreled but later made up.
-		> |decide| I have finally made up my mind.
-	- makeup, make-up
+	- make up (v)構想, 組成 = compose, 補償, 決定, 決定再次變得友好
+		> 構想 |to create from the imagination| He made up a story
+		> 組成 |compose| Eleven players make up the team.
+		> 補償 |to do something to correct or repay a wrong| Volunteer work made up for their mischief.
+		> 再次變得友好 |to become friendly again| They quarreled but later made up.
+		> 決定 |decide| I have finally made up my mind.
+	- makeup, make-up (n)化妝品, 組成, 性格組成, 編排, 補考/補分作業
 		> 化妝品 |Cosmetics such as lipstick or powder applied to the face, used to enhance or alter the appearance.| she came downstairs, her face still white under her heavy make-up
 		> 組成 |The composition or constitution of something.| ozone damages the cellular make-up of plants and trees
 		> 性格組成 |The combination of qualities that form a person`s temperament.| a curiously unexpected timidity in his make-up
 		> 編排 |The arrangement of text, illustrations, etc. on a printed page.| page make-up
 		> 補考/補分作業 |A supplementary test or assignment given to a student who missed or failed the original one.| I would have flunked the course but she let me write a make-up
-	- makeshift (adj)權宜的 (n)權宜之計
-	- manner /ˈma-nər/, /ˈmanə/ <--> menace  /ˈme-nəs/
-	- makeover 改頭換面/翻新/改造 == A complete transformation of the appearance of someone or something.
-	+ mantle
+	+ mantle (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋
 		> 披風/斗篷 |A loose sleeveless cloak or shawl, worn especially by women.| she was wrapped tightly in her mantle
 		> 包起/覆蓋 |Cloak or envelop.| heavy mists mantled the forested slopes
 		> 覆蓋物 |A covering of a specified sort.| the houses were covered with a thick mantle of snow
@@ -1786,16 +1757,13 @@
 		> 煤氣燈網罩 |gas mantle|
 		> 地涵 |The region of the earth`s interior between the crust and the core, believed to consist of hot, dense silicate rocks (mainly peridotite)|
 	- mark
-	- marked
-        > |Clearly noticeable.| a marked increase in UK sales
-        > |Having a visible mark or marking.| a houseplant with beautifully marked, dark green leaves
-	* marrow
+	* marrow (n)葫蘆 = gourd, 骨髓, 精華/經髓, 朋友/夥伴, 成對的東西
 		> 葫蘆 |The plant of the gourd family which produces marrows.|
 		> 骨髓 |bone marrow|
 		> 精華/經髓 |The essential part of something.|
 		> 朋友/夥伴 |A friend, companion, or workmate (often used as a form of address)| come here, marrer, we need to talk
 		> 成對的東西 |Something that forms a pair with something else; a counterpart or twin.|
-	+ mass
+	+ mass (n)一團, 色塊, 大群, 大量, [masses]大量, [the mass of]大多數, 大眾, 質量, 重量 (adj)大規模的/大批的 (v)集中/聚集
 		> 一團 |A large body of matter with no definite shape.| the sun broke out from behind a mass of clouds
 		> 色塊 |Any of the main portions in a painting or drawing that each have some unity in colour, lighting, or some other quality.| the masterly distribution of masses
 		> 大群 |A large number of people or objects crowded together.| a mass of cyclists
@@ -1807,43 +1775,23 @@
 		> 重量 |(in general use) weight.| multiply the mass of the payload by the distance travelled
 		> 大規模的/大批的 |Involving or affecting large numbers of people or things.| the film has mass appeal
 		> 集中/聚集 |Assemble or cause to assemble into a single body or mass.| both countries began massing troops in the region
-	- mastermind
-		> 才華橫溢的人 |A person with an outstanding intellect.| an eminent musical mastermind
-		> 智囊 |A person who plans and directs an ingenious and complex scheme or enterprise.| McAvoy was the mastermind of the robbery
-		> 策劃 |Plan and direct (an ingenious and complex scheme or enterprise)| he was accused of masterminding a gold-smuggling racket
-	+ mastery
-		> 精湛技藝 |Comprehensive knowledge or skill in a particular subject or activity.| she played with some mastery
-		> 熟練/精通 |The action of mastering a subject or skill.| a child`s mastery of language
-		> 支配/統治 |Control or superiority over someone or something.| man`s mastery over nature
-	- mat (n)擦鞋墊, 墊子, 隔熱墊, 叢/簇, 矩陣 (v)使纏結
-	- matt = mat (adj)無光澤的 (v)使無光澤 (n)亞光漆, 襯邊/框邊 
-	- mirror
+	- mirror (n)鏡子, 反映/真實的寫照 (v)反射出, 符合/一致 = correspond to
 		> 鏡子 |A surface, typically of glass coated with a metal amalgam, which reflects a clear image.| he checked his appearance in the mirror
 		> 反映/真實的寫照 |A thing regarded as accurately representing something else.| the stage is supposed to be the mirror of life
 		> 反射出 |(of a surface) show a reflection of.| the clear water mirrored the sky
 		> 符合/一致 |Correspond to.| his own views mirrored those of his followers
-	* miss out 錯失機會 == to fail to use an opportunity to enjoy or get an advantage from something
+	* miss out (v)錯失機會 == to fail to use an opportunity to enjoy or get an advantage from something
 		> We didn`t have a TV at home when I was young, and I felt as though I missed out.
 		> If esports is the next big thing, they don’t want to miss out on it
-	- mistake
+	- mistake (n)錯誤, 錯誤/不精確 (v)錯看 = be wrong about, [for]認錯
 		> 錯誤 |An act or judgement that is misguided or wrong.| coming here was a mistake
 		> 錯誤/不精確 |Something, especially a word, figure, or fact, which is not correct; an inaccuracy.| a couple of spelling mistakes
 		> 錯看 |Be wrong about.| because I was inexperienced I mistook the nature of our relationship
 		> mistake sth/sb for 認錯 |Wrongly identify someone or something as.| she thought he`d mistaken her for Diana
-	- mistaken
+	- mistaken (adj)錯誤的, 誤解的
 		> 錯誤的 |Wrong in one`s opinion or judgement.| she wondered whether she`d been mistaken about his intentions
 		> 誤解的 |Based on or resulting from a misunderstanding or faulty judgement.| don`t buy a hard bed in the mistaken belief that it is good for you
-	- midst == The middle part or point.
-		> The declaration, though it would turn out to have little practical consequence for the clergy, was symbolized by liturgical reform that brought the altar down from on high, into the midst of the congregation
-	- mindset 心態 == The established set of attitudes held by someone.
-	- mind-blowing 令人印象深刻的/令人驚奇的 == extremely exciting or surprising
-		> The special effects in this film are pretty mind-blowing.
-	- minority
-		> 少數/少數派 |The smaller number or part, especially a number or part representing less than half of the whole.| only a minority of properties are rented
-		> 少數 |The number of votes cast for or by the smaller party in a legislative assembly.| a blocking minority of 23 votes
-		> 少數民族 |A small group of people within a community or country, differing from the main population in race, religion, language, or political persuasion.| ethnic minorities
-		> 未成年 |The state or period of being under the age of full legal responsibility.| intrigues between factions striving to make the king their puppet continued throughout his minority
-	- mint
+	- mint (n)薄荷, 薄荷味, 薄荷糖, 造幣廠, 巨額 (v)鑄造(錢幣), 創造 (adj)嶄新的
 		> 薄荷 |An aromatic plant native to temperate regions of the Old World, several kinds of which are used as culinary herbs.|
 		> 薄荷味 |The flavour of mint, especially peppermint.| a tasty mint and chocolate flavoured cone
 		> 薄荷糖 |A peppermint sweet.| Dickie pulled out a packet of mints from his pocket
@@ -1852,9 +1800,7 @@
 		> 巨額 |A large sum of money.| the curtains had cost a mint
 		> 嶄新的 |in pristine condition; as new.| a pair of speakers, mint, £160
 		> 創造 |Produce for the first time.| an example of newly minted technology
-	- monumental == Great in importance, extent, or size.
-		> A basilica, a monumental hall where the emperor sat in majesty, became a place of worship.
-	+ margin
+	+ margin (n)邊/邊緣, 頁邊空白, 欄外, 利潤/賺頭, 餘地/餘裕, 極限/限度, 淨利率, 保證金 (v)加邊於, 為..付保證金
 		> 邊/邊緣 |The edge or border of something.| the eastern margin of the Indian Ocean
 		> 頁邊空白 |The blank border on each side of the print on a page.| the notations in the margin
 		> 欄外 |A line ruled on paper to mark off a margin.|
@@ -1862,47 +1808,36 @@
 		> 餘地/餘裕 |An amount of something included so as to be sure of success or safety.| there was no margin for error
 		> 極限/限度 |The furthest limit of possibility, success, etc.| the lighting is brighter than before but is still at the margins of acceptability
 		> 淨利率 |A profit margin.| launching these new products helped increase margins and market share
-		> 保證 |A sum deposited with a broker to cover the risk of loss on a transaction or account.|
+		> 保證金 |A sum deposited with a broker to cover the risk of loss on a transaction or account.|
 		> 加邊於 |Provide with an edge or border.| the plant`s leaves are margined with yellow
 		> 為..付保證金 |Deposit an amount of money with a broker as security for (an account or transaction)| new contracts are margined with the winnings of previously held contracts
-	- market
-		> V |Advertise or promote (something)| the product was marketed under the name ‘aspirin’
-		> V |Offer for sale.| sheep farmers are still unable to market their lambs
-		> V |Go shopping for provisions.| then I have to go uptown and market
-		> |A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.| hey wanted to browse around the street market
-		> |An area or arena in which commercial dealings are conducted.| the UK market remained in recession’
-		> |A demand for a particular commodity or service.| there is a market for high-priced wine
-	- mediocre == Of only average quality; not very good.
+	- market (v)推銷/行銷, 供應, 購物 (n)市集, 市場, 需求
+		> 推銷/行銷 |Advertise or promote (something)| the product was marketed under the name ‘aspirin’
+		> 供應 |Offer for sale.| sheep farmers are still unable to market their lambs
+		> 購物 |Go shopping for provisions.| then I have to go uptown and market
+		> 市集 |A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.| hey wanted to browse around the street market
+		> 市場 |An area or arena in which commercial dealings are conducted.| the UK market remained in recession’
+		> 需求 |A demand for a particular commodity or service.| there is a market for high-priced wine
 	- mean -> meant -> meant
-	- midday 中午 == The middle of the day; noon.
-	* mess sth up 把…弄亂/把…弄髒/搞砸/弄糟 == to make something dirty or to spoil or damage something
+	* mess sth up (v)把…弄亂/把…弄髒/搞砸/弄糟 == to make something dirty or to spoil or damage something
 		> Who has messed up the bookshelf?
 		> I messed up my chances of becoming a great singer.
 		> He says that his divorce has really messed his life up.
 		> You really messed up this time.
-	* mess with sb 打擾/招惹
+	* mess with sb (v)打擾/招惹
 		- I have warned you already, do not mess with me!
-	* messy --> messiness
+	* messy (adj)髒的, 麻煩的, 混亂的 --> messiness (n)
 		> 髒的 |Untidy or dirty.|
 		> 麻煩的 |Generating or involving mess.| stripping wallpaper can be a messy, time-consuming job
 		> 混亂的 |(of a situation) confused and difficult to deal with.|
-	- matchstick (n)火柴桿
-	+ material
+	+ material (n)材料, 人才, 素材, 布料 (adj)物質的, 重要的
 		> 材料 |The matter from which a thing is or can be made.|
 		> 人才 |A person of a specified quality or suitability.| he`s not really Olympic material
 		> 素材 |Information or ideas for use in creating a book or other work.| his colonial experiences gave him material
 		> 布料 |Cloth or fabric.| a piece of dark material
 		> 物質的 |Denoting or consisting of physical objects rather than the mind or spirit.| the material world
 		> 重要的 |Significant; important.| the insects did not do any material damage to the crop
-	- matter-of-fact 就事論事的/不帶感情的 == not showing feelings or emotion, especially in a situation when emotion would be expected
-		> He spoke in a very matter-of-fact way about the accident.
-	- mobilize
-		> 動員 |(of a country or its government) prepare and organize (troops) for active service.| the government mobilized regular forces, reservists, and militia
-		> 動員 |Organize and encourage (a group of people) to take collective action in pursuit of a particular objective.| it would be hard for worker representatives to mobilize the workforce against the employers
-		> 調度 |Bring (resources) into use for a particular purpose.| at sea we will mobilize any amount of resources to undertake a rescue
-		> 使可動 |Make (something) movable or capable of movement.| the physiotherapist might mobilize the patient`s shoulder girdle
-		> 使流通 |Make (a substance) able to be transported by or as a liquid.| acid rain mobilizes the aluminium in forest soils
-	+ mount
+	+ mount (v)爬, 騎上, 發動/進行, 設立, 展出, 成長, 增強, 放置/固定, 鑲嵌 (n)底版/底座, 炮架/底座, 可供騎乘的馬
 		> 爬 |Climb up (stairs, a hill, or other rising surface)| he mounted the steps
 		> 騎上 |Get up on (an animal or bicycle) in order to ride it.| he mounted the horse
 		> 發動 |Organize and initiate (a campaign or other course of action)| the company had successfully mounted takeover bids
@@ -1915,81 +1850,34 @@
 		> 底版/底座 |A backing or setting on which a photograph, gem, or work of art is set for display.| a decorated photograph mount
 		> 炮架/底座 |A support for a gun, camera, or similar piece of equipment.| heavy cannon were torn from their mounts
 		> |A horse that is ridden or is available for riding.|
-	- move on
+	- move on (v)搬家/遷移, 開始新的活動, 接受現實
 		> 搬家/遷移 | to leave the place where you are staying and go somewhere else| I`ve lived in this town long enough - it`s time to move on.
 		> 開始新的活動 |to start a new activity| I`d done the same job for years and felt it was time to move on.
 		> 接受現實 |to accept that a situation has changed and be ready to deal with new experiences| Since he and his girlfriend broke up, he`s been finding it difficult to move on.
-	+ movement
+	+ movement (n)移動/活動, 飛機的出發或離開, 某人的下落, 發展 = change = development, 運動/活動, 群眾
 		> 移動/活動 |An act of moving.| a slight movement of the body
-		> |An arrival or departure of an aircraft.| the Civil Aviation Authority directed 125,000 aircraft movements in 1991
+		> 飛機的出發或離開 |An arrival or departure of an aircraft.| the Civil Aviation Authority directed 125,000 aircraft movements in 1991
 		> 某人的下落 |The activities and whereabouts of someone during a particular period of time.|
 		> 發展 |A change or development.| the movement towards greater sexual equality
 		> 運動/活動 |A campaign undertaken by a political, social, or artistic movement.|
 		> |A group of people working together to advance their shared political, social, or artistic ideas.| the labour movement
-	- moral compass 道德羅盤 == a natural feeling that makes people know what is right and wrong and how they should behave
-		> Some people believe that the increase in crime shows that society is losing its moral compass.
-	- morale 士氣/鬥志 == The confidence, enthusiasm, and discipline of a person or group at a particular time.
-	* meter
+		> 樂章 |A principal division of a longer musical work, self-sufficient in terms of key, tempo, and structure. | the slow movement of his violin concerto
+		> 排泄糞便 |bowel movement| When did you last have a (bowel) movement?
+	* meter (n)公尺, 計量器, 格律, 韻律 (v)量
 		> 公尺 |The fundamental unit of length in the metric system, equal to 100 centimetres or approximately 39.37 inches.| sit two metres away from the TV screen
 		> 量 |Measure by means of a meter.| digital switchboards metered calls by seconds and dialled destination
 		> 計量器 |A device that measures and records the quantity, degree, or rate of something.|
 		> 格律 |The rhythm of a piece of poetry, determined by the number and length of feet in a line.| the Horatian ode has an intricate governing metre
 		> 韻律 |The basic rhythmic pattern of beats in a piece of music.| a dance song in fast quadratic metre
-	- mindfulness
-		> 警覺/察覺 |The quality or state of being conscious or aware of something.| their mindfulness of the wider cinematic tradition
-		> 入神/冥想 |A mental state achieved by focusing one`s awareness on the present moment, while calmly acknowledging and accepting one`s feelings, thovughts, and bodily sensations, used as a therapeutic technique.|
-	- money
-	* monetize
-		> 貨幣化 |Convert into or express in the form of currency.| Hamilton had monetized the entire federal and state war debts
-		> 從..獲利 |Earn revenue from (an asset, business, etc.)| the company has not said how it expects to monetize the game
-	- monetization
-		> 獲利 |The action or process of earning revenue from an asset, business, etc.| the network supports the distribution and monetization of online content to any type of site or device
-		> 換成現金 |The conversion of an asset, debt, etc. into cash or a form easily converted into cash.| the trust is actively reviewing the monetization of a portion of its assets to reduce indebtedness
-		> 貨幣化 |The conversion or adaptation of a society, economy, etc. to trade based on the exchange of money.| the growth of the cattle trade spurred the monetization of the Highland economy
-	- muddy
-		> 泥濘的 |Covered in or full of mud.| they changed their muddy boots
-		> 渾濁的 |Not bright or clear; dirty-looking.| the original colours were blurred into muddy pink and yellow
-		> 重濁的 |(of a sound, especially in music) not clearly defined.| an awful muddy sound that renders his vocals incoherent
-		> 令人困惑的/不合邏輯的 |Confused, vague, or illogical.| some sentences are so muddy that their meaning can only be guessed
-		> 使沾上爛泥 |Cover or fill (something) with mud.| the linoleum flooring was muddied
-		> 使..更加難以理解 |Make (something) hard or harder to understand.| the first year`s results muddy rather than clarify the situation
-	- muscular /ˈmʌskjʊlə/ <-- muscle
-		> 肌肉的 |Relating to or affecting the muscles.| energy is needed for muscular activity
-		> 有肉的/強健的 |Having well-developed muscles.| his legs were strong and muscular
-		> 健壯的 |Vigorously robust.| a muscular economy
-	* muster
-		> 召集 |Assemble (troops), especially for inspection or in preparation for battle.| 
-		> 聚集 |Collect or assemble (a number or amount)| 
-		> 鼓起 |Summon up (a feeling, attitude, or response)|
-		> |A formal gathering of troops, especially for inspection, display, or exercise.|
-	+ mug
-		> 馬克杯 |A large cup, typically cylindrical with a handle and used without a saucer.| she picked up her coffee mug
-		> 一杯 |The contents of a mug.| I drank a mug of tea
-		> 臉 |A person`s face.| I don`t want to see Barry`s ugly mug when I get home
-		> 流氓 |A hoodlum or thug.|
-		> 行搶 |Attack and rob (someone) in a public place.| he was mugged by three men who stole his bike
-		> 做鬼臉 |Make faces, especially silly or exaggerated ones, before an audience or a camera.| he mugged for the camera
-	- mull
-		> 深思 |Think about (a fact, proposal, or request) deeply and at length.| she began to mull over the various possibilities
-		> 熱(紅酒) |Warm (an alcoholic drink, especially wine or beer) and add sugar and spices to it.| a glass of mulled wine
-		> 非酸性腐植質 |Humus formed under non-acid conditions.|
-		> 細軟薄布 |Thin, soft, plain muslin, used in bookbinding for joining the spine of a book to its cover.|
-	- mandate
-		> 命令 |An official order or commission to do something.| a mandate to seek the release of political prisoners
-		> 授權 |Give (someone) authority to act in a certain way.| the rightful king was mandated and sanctioned by God
-		> 要求完成 |Require (something) to be done; make mandatory.| the government began mandating better car safety
-		> 委任 |A commission by which a party is entrusted to perform a service, especially without payment and with indemnity against loss by that party.|
-		> 委任文件 |A written authorization enabling someone to carry out transactions on another`s bank account.|
-		> 政策執行機關 |The authority to carry out a policy, regarded as given by the electorate to a party or candidate that wins an election.| he called an election to seek a mandate for his policies
+
 [N]
-	+ narcissism 自戀狂/虛榮
-	- national
+	- national (adj)全國的, 國家的 (n)國民/國人 = citizen, 全國報, 全國性比賽
 		> 全國的 |Relating to or characteristic of a nation; common to a whole nation.| this policy may have been in the national interest
 		> 國家的 |Owned, controlled, or financially supported by the state.| plans for a national art library
 		> 國民/國人 |A citizen of a particular country.| a German national
 		> 全國報 |A national newspaper as opposed to a local one.| the inability of the local press to compete with the nationals for news
 		> 全國性比賽 |A nationwide competition or tournament.| she finished 16th at the nationals that year
-	+ neat
+	+ neat (adj)整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的, 純的, 好的/妙的 (n)牲畜 = cattle
 		> 整潔的/整齊的 |Arranged in a tidy way; in good order.| the books had been stacked up in neat piles
 		> 愛乾淨的 |(of a person) habitually tidy, smart, or well organized.| her daughter was always neat and clean
 		> 好看的 |Having a pleasing appearance; well formed.| Alan noted down the orders in his neat, precise script
@@ -1998,13 +1886,7 @@
 		> 純的 |(of liquid, especially spirits) not diluted or mixed with anything else.| he drank neat Scotch
 		> 好的/妙的 |Very good; excellent.| it was really neat seeing the city
 		> 牲畜 |Cattle|
-	- nerdy, nurdy
-		> 書呆子的 |Unfashionable and socially inept or boringly studious.| when I was a nerdy kid, I got bullied a lot
-		> 著迷的/狂熱的 |Characterized by an obsessive interest in something, especially technology.| my incredibly nerdy knowledge of videogames
-	- nestle
-		> 依偎/舒適地安頓下來 |Settle or lie comfortably within or against something.| the baby nestled in her arms
-		> 半隱半現地處於 |(of a place) be situated in a half-hidden or sheltered position.| picturesque villages nestle in the wooded hills
-	+ net
+	+ net (n)網, 網狀物, 捕獲量, 球門, 球網, 安全網, 網狀, 陷阱 = trap, 羅網, 通信網, 網狀系統, [the Net]網際網路 (v)用網捉, 用網捕魚, 巧妙的獲得, 打(球)落網, 用網子蓋住, 獲得/賺得/淨賺, 使賺得 (adj)淨值的, 淨重的, 淨數的, 總的/全面的
 		> 網 |A piece of open-meshed material made of twine, cord, or something similar, used typically for catching fish or other animals.| fishermen mending their nets
 		> 網狀物 |A piece of net supported by a frame at the end of a handle, used for catching fish or insects.|
 		> 捕獲量 |The total amount of fish caught in one session or expedition.| good nets of roach, chub, and perch
@@ -2028,59 +1910,26 @@
 		> 總的/全面的 |Remaining after all factors have been taken into account; overall.| the net result is the same
 		> 獲得/賺得/淨賺 |Acquire (a sum of money) as clear profit.| he netted £2.45 million on the deal
 		> 使賺得 |Return (profit or income) for (someone)| the land netted its owner a turnover of $800,000
-	- net something down/off/out 扣除 == Exclude a non-net amount, such as tax, when making a calculation, in order to reduce the amount left to a net sum.
+	- net something down/off/out (v)扣除 == Exclude a non-net amount, such as tax, when making a calculation, in order to reduce the amount left to a net sum.
 		> the scrap value should be netted off against the original purchase price
-	+ north of sth 多餘 == used to say that an amount is more than the stated amount
-		> The share price is expected to rise north of $20.
-	- nowhere
-		> 沒有任何地方地 |Not in or to any place; not anywhere.| plants and animals found nowhere else in the world
-		> 無處 |No place.| there was nowhere for her to sit
-		> |A place that is remote, uninteresting, or nondescript.| a stretch of road between nowhere and nowhere
-		> |Having no prospect of progress or success.| a nowhere job
-	- nowhere near 遠非 == Not nearly.
-		> he`s nowhere near as popular as he used to be
+	- nowhere (adv)沒有任何地方地, 無處, 不知名的地方, 默默無聞
 	+ note
-	- notch 
-		> 刻痕/槽口 |An indentation or incision on an edge or surface.| there was a notch in the end of the arrow for the bowstring
-		> 帶釦孔 |Each of a series of holes for the tongue of a buckle.| he tightened his belt an extra notch
-		> 刻痕 |A nick made on something in order to keep a score or record.| the notches in the rail represent the number of bear sightings we have in a year
-		> 等/級 |A point or degree in a scale.| her opinion of Nicole dropped a few notches
-		> 峽谷/山峽 |A deep, narrow mountain pass.| Short sections of dirt roads connect trails that usually wind through notches.
-		> 在……上刻凹痕 |Make notches in.| he notched the stick at each end
-		> 扣 |Secure or insert by means of notches.| she notched her belt tighter
-		> 贏得 |Score or achieve (something)| he notched up fifteen years` service with the company
-	- notice
+	- notice (v)注意, 認真對待 (n)注意, 警告/預先通知, 合約終止通知/辭職通知, 公告/通知, 短評
 		> 注意 |The fact of observing or paying attention to something.| their silence did not escape my notice
-		> |Become aware of.| he noticed the youths behaving suspiciously
+		> 注意 |Become aware of.| he noticed the youths behaving suspiciously
 		> 認真對待 |Treat (someone) as worthy of recognition or attention.| it was only last year that the singer really began to be noticed
 		> 警告/預先通知 |Notification or warning of something, especially to allow preparations to be made.|
 		> 合約終止通知/辭職通知 |A formal declaration of one`s intention to end an agreement, typically one concerning employment or tenancy, at a specified time.| his employers gave him two weeks` notice
 		> 公告/通知 |A displayed sheet or placard giving news or information.| the jobs were advertised in a notice posted in the common room
 		> 短評 |A short published review of a new film, play, or book.| she had good notices in her first film
-	+ notion
-		> 概念/想法 |A conception of or belief about something.| children have different notions about the roles of their parents
-		> 衝動 |An impulse or desire, especially one of a whimsical kind.| An impulse or desire, especially one of a whimsical kind.
-		> notions 小日用品 |Items used in sewing, such as buttons, pins, and hooks.| 
-	+ niche /nɪtʃ/
+	+ niche /nɪtʃ/ (n)壁龕, 合適的職務, 合宜的小環境, 利基 (v)把..放入壁龕 (adj)特定的
 		> 壁龕 |A shallow recess, especially one in a wall to display a statue or other ornament.|
 		> |Place (something) in a niche.| these elements were niched within the shadowy reaches
 		> 合適的職務 |A comfortable or suitable position in life or employment.| he is now head chef at a leading law firm and feels he has found his niche
 		> 合宜的小環境 |an area or position that is exactly suitable for a small group of the same type| an ecological niche
 		> 利基 |A specialized segment of the market for a particular kind of product or service.|
 		> 特定的 |Denoting or relating to products, services, or interests that appeal to a small, specialized section of the population.| other companies in this space had to adapt to being niche players
-	- nick
-		> 槽口/刻痕 |A small cut or notch.| a small nick on his wrist
-		> 警局 |A police station.| he was being fingerprinted in the nick
-		> |The junction between the floor and side walls in a squash court or real tennis court.|
-		> 割破/在…上刻出凹痕 |Make a nick or nicks in.| he had nicked himself while shaving
-		> nick sb for 敲詐 |Cheat someone of (a sum of money)| banks will be nicked for an extra $40 million
-	- northerly (adj/adv)向北的, 北的(風) (n)北風
-	- nevertheless == In spite of that == notwithstanding == all the same.
-	- necessitate 使必須 == Make (something) necessary as a result or consequence.
-		> a cut which necessitated eighteen stitches
-		> the late arrival had necessitated her getting out of bed
-	- nudge (v)用肘輕推, 輕推, 刺激/鼓勵, 接近 (n)輕推
-	- nut
+	- nut (n)堅果, 堅果殼, 核, 螺母/螺帽, 怪人, 狂人, 腦袋, 睪丸 = testicles
 		> 堅果 |A fruit consisting of a hard or tough shell around an edible kernel.| he was cracking nuts with his teeth
 		> 堅果殼 |The hard kernel of a nut.| savoury snacks like crisps and nuts
 		> 核 |A small lump of something hard or solid, especially coal.| Crunchy cereals, pretzels, soy nuts, veggie chips, even beef or turkey jerky can help satisfy the need to work the jaw while filling the stomach
@@ -2091,30 +1940,19 @@
 		> 腦袋 |A person`s head.| he is aiming to break a record by balancing a car on his nut
 		> 睪丸 |A man`s testicles.|
 		> |The fixed ridge on the neck of a stringed instrument over which the strings pass.| the positioning allows the strings a straight path over the nut
-	- be nuts about sth/sb 迷戀/癡迷於 == to be very enthusiastic about an object, activity, or person
+	- (be) nuts about sth/sb 迷戀/癡迷於 == to be very enthusiastic about an object, activity, or person
 		> Sophie`s nuts about dinosaurs.
 		> I`m nuts about this band.
 
 [O]
-	- (be) on to
+	- (be) on to (v)察覺/注意, 與..聯絡, 發現
 		> 察覺/注意 |To have knowledge, be suspicious, or be aware of someone`s actions, behavior, or intention.| You`d better tread carefully, I`m on to you now.
 		> 與..聯絡 |To be in contact with someone at a given point in time.| I`ll be on to you tomorrow about the details of our meeting.
 		> 發現 |To discover, realize, or be in the process of doing something of great importance, value, or insight.| Scientists now believe they may be on to a cure for cancer.
-	- on-the-job 工作時發生的/在職的 == happening while you are working
-		> No formal qualifications are required for the work - you will get on-the-job training.
-	- occur
 	- occupy
-	- occupy sb with sth 使...忙於... == To keep oneself or someone else busy or distracted with some activity or thing.
+	- occupy sb with sth (v)使...忙於... == To keep oneself or someone else busy or distracted with some activity or thing.
 		> Dan`s occupying the kids with a bug hunt in the back yard.
-	+ odds
-		> 賠率/賭注差額 |The ratio between the amounts staked by the parties to a bet, based on the expected probability either way.| Nicer is starting at odds of 8-1
-		> 可能性 |The chances or likelihood of something happening or being the case.| the odds are that he is no longer alive
-		> 優勢 |The balance of advantage; superiority in strength, power, or resources.| the odds were overwhelmingly in favour of the banks rather than the customer
-	+ long odds 為乎其微的勝率 == a poor chance of winning
-		> The team has made some major improvements, but they still face long odds.
-	- or
-	- object
-	+ oblige
+	+ oblige (v)使負有義務, 答應...的請求, 使感激
 		> 使負有義務 |Make (someone) legally or morally bound to do something.| doctors are obliged by law to keep patients alive while there is a chance of recovery
 		> 答應...的請求 |Do as (someone) asks or desires in order to help or please them.| oblige me by not being sorry for yourself
 		> be obliged 使感激 |Be indebted or grateful.| if you can give me a few minutes of your time I`ll be much obliged
@@ -2138,57 +1976,13 @@
 		- 命令/指揮 |Give an authoritative instruction to do something.| she ordered me to leave
 		- 定購 |Request (something) to be made, supplied, or served.| my mate ordered the tickets last week
 		- 整理 |Arrange (something) in a methodical way.| all entries are ordered by date
-	- one-up == to get the better of; succeed in being a point, move, step, etc., ahead of (someone)
-		> They one-upped the competition
-		> Want to one-up them with your clever little story?
-	- one-off 
-		> 一次性物品 |something that happens or is made or done only once| Will you be doing more talks in the future or was that just a one-off?
-		> 一次性的 |happening only once:| They gave him a one-off payment to compensate for the extra hours that he had to work.
-	- opt-in 主動加入 == the fact of choosing to take part in an activity, arrangement, etc. rather than being forced to take part
-	- opt-out 主動選擇退出 == a situation in which some members of a group choose not to join or be involved in an activity
-	- off-the-shelf 現成的 == If you buy something off the shelf, you buy something that is not specially made for you.
-	- office
-		> 辦公室 |A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.| an office job
-		> 職位 |A position of authority or service, typically one of a public nature.| the office of chief constable
-		> 任期 |Tenure of an official position, especially that of a Minister of State or of the party forming the government.| a year ago, when the President took office
-		> 服務 |A service done for another or others.| rescued through the good offices of the Italian Ambassador, he was returned safely to England
-	- official
-		> ADJ 正式的 |Relating to an authority or public body and its activities and responsibilities.| the prime minister`s official engagements
-		> ADJ 官員的 |Employed by an authority or public body in a position of authority.|
-		> 官員 |A person holding public office or having official duties, especially as a representative of an organization or government department.| a union official
-	- one-size-fits-all
-		> 均碼的/大小皆宜的 |A one-size-fits-all piece of clothing is designed to fit a person of any size.|
-		> 各方面都顧及的/通用的 |(intended to be) suitable for everyone or every purpose|
 	- oughta 應該 == ought to
 		- You oughta tell your mom.
-	- outlay 花費 == An amount of money spent on something.
-	+ outrageous
+	+ outrageous (adj)極不道德的 = bad = excessive, 過度誇張的 = exaggerated = improbable, 令人吃驚的 = shocking
 		> 極不道德的 |Shockingly bad or excessive.| an outrageous act of bribery
 		> 過度誇張的 |Wildly exaggerated or improbable.| the outrageous claims made by the previous government
 		> 令人吃驚的 |Very bold and unusual and rather shocking.| her outrageous leotards and sexy routines
-	* outright
-		> 完完全全地 |Wholly and completely.| logging has been banned outright
-		> |Total| the outright abolition of the death penalty
-		> 毫無疑問的 |Clear and undisputed.| an outright victory
-		> 直接地/公然地 |Directly or openly.| she couldn`t ask him outright
-		> |Open and direct.| an outright refusal
-		> 立即地 |Immediately or instantly.| the impact killed four horses outright
-	* outdoor (adj)戶外的 --> outdoors (adv)在戶外 (n)戶外/野外
-	- outpost
-		> 前哨基地 |A small military camp or position at some distance from the main army, used especially as a guard against surprise attack.|
-		> 郊區 |A remote part of a country or empire.| a few scattered outposts along the west coast
-		> 邊遠分部 |An isolated or remote branch of something.| the community is the last outpost of civilization in the far north
-	+ outrage
-		> 義憤/憤慨 |An extremely strong reaction of anger, shock, or indignation.| her voice trembled with outrage
-		> 惡行/暴行 |An action or event causing outrage.| the massacre was one of the worst outrages in the whole of our history
-		> 激怒 |Arouse fierce anger, shock, or indignation in (someone)| the public were outraged at the brutality involved
-		> 違反 |Flagrantly violate or infringe (a principle, law, etc.)| their behaviour outraged all civilized standards
-	- overhear 無意中聽到/偶然聽到 == to hear what other people are saying without intending to and without their knowledge
-		> He overheard his daughter telling her doll not to be so naughty.
-		> We overheard them say that they didn`t really like the food.
-		> I overheard a very funny conversation on the bus this morning.
-	- offshoot 分支
-	+ operation
+	+ operation (n)運作, 作用, 手術, 行動/作戰, 公司 = company, 經營/營運, 運算
 		> 運作 |The action of functioning or the fact of being active or in effect.| restrictions on the operation of market forces
 		> 作用 |An active process; a discharge of a function.| the operations of the mind
 		> 手術 |An act of surgery performed on a patient.| I`ve never felt better since my bypass operation
@@ -2196,7 +1990,7 @@
 		> 公司 |A business organization; a company.| he reopened his operation under a different name
 		> 經營/營運 |An activity in which a business is involved.| the company is selling most of its commercial banking operations
 		> 運算 |A process in which a number, quantity, expression, etc., is altered or manipulated according to set formal rules, such as those of addition, multiplication, and differentiation.|
-	- own up 承認/坦白 == to admit that you have done something wrong
+	- own up (v)承認/坦白 == to admit that you have done something wrong
 		> No one has owned up to stealing the money.
 	
 [P]
@@ -4437,13 +4231,15 @@
 		> 徹底地影響 |to affect or be felt by (someone) thoroughly and deeply| Just close your eyes and let the music wash over you.
 		> 突然表現在臉上 |to appear on (a person`s face) suddenly| A look of surprise washed over his face.
 	+ waste (v)浪費, 處置(多餘的貨物), 瘦削, 毀壞(地方), 殺害/謀殺, (時間)逝去 (adj)廢棄的, 荒廢的 (n)浪費, 廢物/廢料, 荒地
-	+ ward
+	+ ward (n)病房, 選區/區, 受監護的未成年人, 城池 (v)送..到病房
 		> 病房 |A separate room in a hospital, typically one allocated to a particular type of patient.|
 		> 送..到病房 |Admit (a patient) to a hospital ward.| the last of the accident victims was warded
 		> 選區/區 |An administrative division of a city or borough that typically elects and is represented by a councillor or councillors.|
 		> 受監護的未成年人 |A child or young person under the care and control of a guardian appointed by their parents or a court.|
 		> |Any of the internal ridges or bars in a lock which prevent the turning of any key which does not have grooves of corresponding form or size.|
 		> 城池 |An area of ground enclosed by the encircling walls of a fortress or castle.|
+	- ward off (v)擋開/避開
+		- He used his umbrella to ward off the fierce sun.
 	+ wax
 		> 蠟 |A sticky yellowish mouldable substance secreted by honeybees as the material of a honeycomb; beeswax.|
 		> 蜂蠟 |A white translucent material obtained by bleaching and purifying beeswax and used for such purposes as making candles, modelling, and as a basis of polishes.|
@@ -4924,6 +4720,7 @@
 		> 哭泣 |A fit or period of weeping.| sit down and have a weep
 		> 哭著說 |Utter or express with tears.| ‘No!’ she wept
 		> 使液體流出 |Exude liquid.| she rubbed the sore, making it weep
+    - whine (v)發哀鳴聲, 嘀咕/發牢騷 (n)哀鳴聲/嗚咽聲, 哀訴/牢騷
 	- ticktock
 		> 滴答聲 |The sound of a large clock ticking| we could hear every tick-tock of the clock
 		> 發出滴答聲 |Make a ticking sound.| the clock on the wall was tick-tocking
