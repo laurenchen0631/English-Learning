@@ -52,11 +52,17 @@
 
 ## Status
 - higgledy-piggledy (adj/adv)亂七八糟/雜亂無章
+- pointedly (通常用來表示批評或不滿)顯然地 == In a direct and unambiguous way, often indicating criticism or displeasure.
+	- He pointedly ignored her after the show.
+- underway (adv)進行中, 在航行地
 
 ## Degree
 - whatsoever /wɒtsəʊˈɛvə/ (adv)完全地
 - utterly (adv)完全地 = absolutely
 + virtually (adv)幾乎/差不多 = nearly = almost, 虛擬實境地
++ practically (adv)幾乎 = virtually = almost, 特定地
+	- the strike lasted practically a fortnight
+	- He might win,’ pointed out Emmeline practically
 - somewhat /ˈsʌmwɒt/ (adv)有點/稍微
 - especially (adv)尤其, 特別
 	- 尤其 |particularly| food seems cheaper, especially meats
@@ -66,6 +72,10 @@
 - insofar == in so far as (adv)到…的程度 == to the extent that == to the degree that
 	- the tool is able to cater to almost any need insofar as graphs are concerned
 	- I'll help you insofar as I can. 
+- predominantly (adv)絕大多數/顯著 == mostly == mainly
+	- a predominantly Muslim community
+	- She is predominantly a dancer, but she also sings.
++ reasonably (adv)合理地, 相當地
 
 ## Possibility
 - arguably (adv)可以說/大概/可能
@@ -99,8 +109,17 @@
 	- 散開地 |So as to be shattered; into pieces.| he leapt out of the car just before it was blown apart
 * outright (adv)完完全全地, 直接地/公然地 = directly = openly, 立即地 = immediately = instantly (adj)總的 = total = gross, 毫無疑問的 = undisputed, 直接的/公然的
 	- 完完全全地 |Wholly and completely.| logging has been banned outright
-	- |Total| the outright abolition of the death penalty
+	- 總的 |Total| the outright abolition of the death penalty
 	- 毫無疑問的 |Clear and undisputed.| an outright victory
 	- 直接地/公然地 |Directly or openly.| she couldn`t ask him outright
-	- |Open and direct.| an outright refusal
+	- 直接的/公然的 |Open and direct.| an outright refusal
 	- 立即地 |immediately; instantly| the impact killed four horses outright
+- past (adj)過去的 (n)過去 (prep)過, 超過 (adv)過, 經過
+	- ADJ |Gone by in time and no longer existing.| the danger is now past
+	- N |The time before the moment of speaking or writing.| the war-damaged church is preserved as a reminder of the past
+	- PREP 過 |To or on the further side of.| he rode on past the crossroads
+	- PREP 超過 |Beyond in time; later than| by this time it was past 3.30
+	- PREP 超過 |No longer capable of.| he is past giving the best advice’
+	- ADV 過 |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
+	- ADV 經過 |Used to indicate the lapse of time.| a week went past and nothing changed
+- roundly (adv)強烈地, 徹底地, 唐突地 = bluntly, 圓地

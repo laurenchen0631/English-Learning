@@ -1418,7 +1418,9 @@
 		> 伸出 |to hold something where someone else can reach it| Gail held out her glass to be refilled.
 		> 維持/持續 |to continue to be enough or continue to exist| How long will your money hold out?
 		> 抵抗/抵禦 |to continue to defend a place that is being attacked| They will not be able to hold out much longer under this sort of bombardment.
-	- holy grail (n)聖杯
+	- (be) holed up (v)躲起來
+		- The robbers were holed up in a deserted warehouse.
+		- holy grail (n)聖杯
 	* hop (v)單足跳, 齊足跳, 跳, 跳上(交通工具), 跳過, 快速通過, 快速更換職位, 用蛇麻子調味 (n)蹦蹦跳, 短程旅行, 非正式舞步, 蛇麻草, 蛇麻子, 鴉片/迷幻藥物
 		> 單足跳 |(of a person) move by jumping on one foot.| he hopped along beside her
 		> 齊足跳 |(of a bird or other animal) move by jumping with two or all feet at once.| a blackbird was hopping around in the sun
@@ -1995,7 +1997,7 @@
 	
 [P]
 	- packet (n)一包/一盒, 內容物, 郵船 (v)把……包起來
-	- paddle
+	- paddle (n)槳, 划槳, 攪拌棒, 桌球拍, 明輪翼, 鰭, 太空船太陽能板, 電極貼片 (v)划槳, 划水, 打, 涉水, 把手或腳浸泡在水中
 		> 槳 |A short pole with a broad blade at one or both ends, used without a rowlock to move a small boat or canoe through the water.| we dug in deep with our paddles
 		> 划槳 |An act of paddling a boat.| a gentle paddle on sluggish water
 		> 划槳 |Move through the water in a boat using a paddle or paddles.| she paddled along the coast
@@ -2010,7 +2012,7 @@
 		> 太空船太陽能板 |A flat array of solar cells projecting from a spacecraft.|
 		> 電極貼片 |A plastic-covered electrode used in cardiac stimulation.|
 	
-	+ pan
+	+ pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
 		> 平底鍋/秤盤 |A metal container used for cooking food in.| heat the olive oil in a heavy pan
 		> 一鍋 |An amount of something contained in a pan.| a pan of hot water
 		> 選礦鍋 |A shallow bowl in which gold is separated from gravel and mud by agitation and washing.|
@@ -2022,13 +2024,11 @@
 		> 搖攝 |Swing (a video or film camera) in a horizontal or vertical plane, typically to give a panoramic effect or follow a subject.| he was panning the camera over everything in sight
 		> |A panning movement|
 	+ panic -> panicked -> panicked
-	- pan-handling == begging, sponging, spanging
-	- path-breaking 創新的 == pioneering; innovative.
 	- pay -> paid -> paid
-	- pay off 成功 == to result in success
+	+ pay off (v)成功/得到好結果 == to result in success
 		> All her hard work paid off in the end, and she finally passed the exam.
 		> I hope all this work pays off.
-	+ pad
+	+ pad (n)墊/護墊, 肉墊, 微弱的腳步聲, 便條紙簿, 發射台/起降臺, 家 (v)填塞, [up]墊, [out]鋪張/拉長, 浮報, 放輕腳步走
 		> 墊/護墊 |A thick piece of soft material, typically used to protect or shape something, or to absorb liquid.|
 		> 填塞 |Fill or cover (something) with a soft material in order to protect or shape it or to make it more comfortable.| 
 		> pad up 墊 |Put on protective pads in order to play a sport, especially cricket.| at the age of 90, he still pads up ready to bat
@@ -2040,46 +2040,21 @@
 		> 便條紙簿 |A number of sheets of blank paper fastened together at one edge, used for writing or drawing.| I always keep a pad of paper by the phone.
 		> 發射台/起降臺 |A flat-topped structure or area used for helicopter take-off and landing or for rocket-launching.| an office building with a helicopter pad
 		> 家 |A person`s home.| the police raided my pad
-	- padding
+	- padding (n)墊塞/填料, 充分量的廢話
 		> 墊塞/填料 |Soft material such as foam or cloth used to pad or stuff something.| cushions supplied extra padding and decoration
 		> 充分量的廢話 |Superfluous material in a book, speech, etc., introduced in order to make it reach a desired length.| avoid waffle or padding in your essay
-	- palm /pɑːm/ 
-		> 棕梠 |An unbranched evergreen tree of tropical and warm regions, with a crown of very long feathered or fan-shaped leaves| 
-		> 手掌 |The inner surface of the hand between the wrist and fingers.|
-		> 把……藏於手中 |Conceal (a small object) in the hand, especially as part of a trick or theft.| he would spin wild tales while palming your wristwatch
-		> 用手掌拍開 |(of a goalkeeper) deflect (the ball) with the palm of the hand.| Jason palmed the ball out of danger
-	- partake -> partook -> partakan
-		> partake of 吃喝 |Eat or drink (something)| he partook of a well-earned drink
-		> partake in 參與 |Join in (an activity)| visitors can partake in golfing or clay pigeon shooting
-		> partake of 帶有...的性質 |Be characterized by (a quality)| the birth of twins became an event which partook of the mythic
-	- past
-		> ADJ |Gone by in time and no longer existing.| the danger is now past
-		> N |The time before the moment of speaking or writing.| the war-damaged church is preserved as a reminder of the past
-		> PREP |To or on the further side of.| he rode on past the crossroads
-		> PREP |Beyond in time; later than| by this time it was past 3.30
-		> PREP |No longer capable of.| he is past giving the best advice’
-		> ADV |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
-		> ADV |Used to indicate the lapse of time.| a week went past and nothing changed
-	- pasty /ˈpeɪsti/ 
-		> 蒼白的 |(of a person`s face) unhealthily pale.| a pasty complexion
-		> 麵糊的/麵糊狀的 |Of or like paste.| a pasty mixture
 	- pass
-	- pass on == to tell/give someone something that another person has told/given you
+	- pass on (v)傳達 == to tell/give someone something that another person has told/given you
 		> With skills being passed on from master to apprentice, engineering was regarded as a trade rather than a profession up until the late 18th century
-	- pass for 被視為 == be accepted as == be considered
+	- pass for (v)被視為 == be accepted as == be considered
 		> "Symphonic jazz" and most of the other music that passed for jazz in the 1920`s was not real jazz at all.
-	- pass sth off as sth 拿…假冒/用…冒充
+	- pass sth off as sth (v)拿…假冒/用…冒充
 		> The dealer was trying to pass off fakes as valuable antiques.
 		> It is hard to believe anyone would try to pass this nonsense off as literature.
 	- pass over sth  == to ignore or not mention a statement or subject
 		> 忽視/置之不理 |to ignore or not mention a statement or subject| I mentioned that you were unhappy with your salary, but it was passed over.
 		> 對(某人)不加考慮 |to not give someone a better job, choosing instead someone who is younger or has less experience| Bill was upset about being passed over for the marketing job.
-	- patchy (adj)分布不勻的, 不一致的 = inconsistent
-	- pawn /pɔːn/ 
-		> 卒 |A chess piece of the smallest size and value, that moves one square forwards along its file if unobstructed (or two on the first move), or one square diagonally forwards when making a capture. Each player begins with eight pawns on the second rank, and can promote a pawn to become any other piece (typically a queen) if it reaches the opponent`s end of the board.|
-		> 棋子 |A person used by others for their own purposes.|
-		> 典當 |Deposit (an object) with a pawnbroker as security for money lent.| I pawned the necklace to cover the loan
-	- pedal
+	- pedal (n)踏板/腳蹬, 腳煞車, 腳踏鍵, 踏板, 踏板點 (v)踩……的踏板, 騎, 踩踏板, 踩腳踏鍵 (adj)足的
 		> 踏板/腳蹬 |Each of a pair of foot-operated levers used for powering a bicycle or other vehicle propelled by the legs.|
 		> 腳煞車 |A foot-operated throttle, brake, or clutch control in a motor vehicle.|
 		> 腳踏鍵 |Each of a set of two or three levers on a piano, particularly (also sustaining pedal) one which, when depressed, prevents the dampers from stopping the sound when the keys are released. The second is the soft pedal; a third, if present, produces either selective sustaining or complete muffling of the tone.|
@@ -2091,22 +2066,9 @@
 		> 踩踏板 |Work the pedals of a bicycle.| he was coming down the path on his bike, pedalling hard
 		> 踩腳踏鍵 |Use the pedals of a piano, organ, or other keyboard instrument, especially in a particular style.|
 		> 足的 |Relating to the foot or feet.|
-	- perch /pəːtʃ/ 
-		> 棲木 |An object on which a bird alights or roosts, typically a branch or horizontal bar.| the budgerigar shuffled along its perch
-		> 休息處/高處 |A place where someone or something rests or sits, especially one that is high or precarious.| Marian looked down from her perch in a beech tree above the road
-		> 棲息 |(of a bird) alight or rest on something.| a herring gull perched on the rails
-		> 暫歇 |(of a person) sit on something high or narrow.| Eve perched on the side of the armchair
-		> 座落 |(of a building) be situated above or on the edge of something.| the fortress is perched on a crag in the mountains
-		> 河鱸 |An edible freshwater fish with a high spiny dorsal fin, dark vertical bars on the body, and orange lower fins.|
-		> |square perch|
-	- perk
-		> 津貼/額外補貼 |A benefit to which one is entitled because of one`s job.| many agencies are helping to keep personnel at their jobs by providing perks
-		> 益處 |An advantage or benefit arising from a particular situation.| they were busy discovering the perks of town life
-		> 濾煮 |(with reference to coffee) percolate.|
-		> 濾煮壺 |A coffee percolator.| Leo hooked up an extension cord for me so I can use my perk
-	- perk (sth/sb) up 振作/振奮 == Become or make more cheerful, lively, or interesting.
+	- perk (sth/sb) up (v)振作/振奮 == Become or make more cheerful, lively, or interesting.
 		> she had been depressed, but she seemed to perk up last week
-	- pen 
+	- pen (n)筆, 寫作, 欄/圈, 區, 母天鵝 (v)寫/作 = write = compose, 把(動物)關入圈, 一些動物, [up/in]把...關在
 		> 筆 |An instrument for writing or drawing with ink, typically consisting of a metal nib or ball, or a nylon tip, fitted into a metal or plastic holder.|
 		> 寫作 |The occupation of writing.| she was forced to support herself by the pen
 		> 寫/作 |Write or compose| Olivia penned award-winning poetry
@@ -2116,7 +2078,7 @@
 		> 區 |Any small enclosure in which someone or something can be confined.|
 		> 把...關在 pen someone up/in |Confine someone in a restricted space.| they had been penned up day and night in the house
 		> 母天鵝 |A female swan.|
-	- peg
+	- peg (n)釘/栓/樁, 酒桶塞, 機車腳踏板, 等/級, 標定點, 腳, 強力投球/釘子球 (v)用木釘釘牢, 用夾子夾住, 用木樁標出, 投, 固定/限定, 歸類
 		> 釘/栓/樁 |A short pin or bolt, typically tapered at one end, that is used for securing something in place, hanging things on, or marking a position.|
 		> 用木釘釘牢 |Fix, secure, or mark with a peg or pegs.| drape plants with nets, pegging down the edges
 		> 用夾子夾住 |Hang (washing) on a line with clothes pegs.| clothes were pegged out on a line
@@ -2131,75 +2093,25 @@
 		> 固定/限定 |Fix (a price, rate, or amount) at a particular level| the dividend was pegged at 23.59p
 		> 歸類 |Form a fixed opinion of; categorize.| the officer probably has us pegged as anarchists
 	- pick
-	- pick up == catch
-	- pick up
-		> |detect; catch;| During the war, hydrophones were developed to detect to submarines but they also pick up a vast array of sound produced by sea mammals.
-		> |to increase or improve| The number of applicants will pick up during the autumn.
-		> |to answer the phone| I tried his home number but he didn`t pick up.
-	- pick oneself up 
+	- pick up (v)發現, 改良, 接電話
+		> 發現 |detect; catch;| During the war, hydrophones were developed to detect to submarines but they also pick up a vast array of sound produced by sea mammals.
+		> 改良 |to increase or improve| The number of applicants will pick up during the autumn.
+		> 接電話 |to answer the phone| I tried his home number but he didn`t pick up.
+	- pick oneself up (v)再次站起, 恢復/再次站起
 		> 再次站起 |to stand up again after falling| I fell to the ground but picked myself up and continued running.
 		> 恢復/再次站起 |to recover from a difficult situation| After his divorce, he picked himself up and started looking for love again.
-	- picky 挑剔的 == choosy == demanding == exacting == fastidious == finicky == fussy
-	- pickup
-		> 小卡車 |A small van or truck with low sides.| 
-		> 收集/整理 |An act of collecting a person or goods, especially in a vehicle.| 
-		> 把妞 |A casual encounter with a stranger with a view to having sexual intercourse.| 
-		> 恢復景氣 |An improvement, especially in an economy.| 
-		> |A device that produces an electrical signal in response to some other kind of signal or change.|
-		> |The reception of signals, especially interference or noise, by electrical apparatus.| ‘this microphone helps reduce the pickup of background noise
-		> |Informal and spontaneous.|
-	- (be) pissed off 惱火的/生氣的 == annoyed
+	- (be) pissed off (adj)惱火的/生氣的 == annoyed
 		> He had kept me waiting for an hour so I was pissed off to start with.
 		> She seemed a bit pissed off that she had not been invited.
-	- pant
+	- pant (v)喘氣, 邊跑邊喘, 氣喘吁吁地講, 渴望, 悸動/跳動 (n)喘氣, 悸動/跳動
 		> 喘氣 |Breathe with short, quick breaths, typically from exertion or excitement.| he was panting when he reached the top
 		> |A short, quick breath.|
 		> 邊跑邊喘 |Run or go in a specified direction while panting.| they panted up the stairs
 		> 氣喘吁吁地講 |Say something breathlessly.| We`ll never have time,’ she panted
 		> 渴望 |Long for or to do something.| the opening song makes you pant for more
 		> 悸動/跳動  | (of the heart or chest) throb or heave from strong emotions| his breast panted with alarms
-		> |A throb or heave of a person`s heart or chest.| I felt the quick pant of my bosom
-	+ pop 
-		> 發出砰或啪的響聲 |Make or cause to make a light explosive sound.| corks popped and glasses tinkled
-		> |(of a person`s ears) make a small popping sound within the head as pressure is equalized, typically because of a change of altitude.|
-		> 砰的一聲/啪的一聲 |A light explosive sound.| there were a few pops, perhaps from pistols
-		> ADV 砰或的一聲地 |With a light explosive sound.| the champagne went pop
-		> 加熱使炸裂 |Heat (popcorn or another foodstuff) until it bursts open.| the hot-air popper pops 4 quarts of popcorn in 5 minutes
-		> 迅速地來去|Go somewhere for a short time, often without notice.| she popped in to see if she could help
-		> 迅速地移動..到 |Put or move (something) somewhere quickly.| she popped a pen into her pocket
- 		> 迅速打開 |Release, open, or engage (something) quickly or suddenly.| he pulled a can of beer from the refrigerator and popped its tab
-		> 突出/瞪 |(of a person`s eyes) open wide and appear to bulge, especially with surprise.| the man`s eyes popped in disbelief
-		> 使更加顯眼 |Appear brighter or more striking in juxtaposition with something of a different or complementary colour.| she added a slick of red lipstick to make the outfit pop
-		> 亮色布塊 |A patch of bright colour.| I like wearing a neutral outfit with one pop of yellow
-		> 服用/注射 |Take or inject (a drug)| Williams had spent his life hitting the bottle and popping pills
-		> 含氣飲料 |A sweet fizzy drink such as lemonade.| a bottle of pop
-		> 通俗的/流行的 |Relating to commercial popular music.| pop singers
-		> 普遍化的 |(especially of a scientific or academic subject) made accessible to the general public; popularized.| pop psychology
-		> 流行音樂 |pop music|
-		> 流行歌曲 |A pop record or song.|
-		> 爸爸 |father|
-		> 冰棒 |A piece of flavoured ice or ice cream on a stick.| mango-flavoured ice pops
-	+ poop /puːp/ 
-		> 艉/船尾 |The aftermost and highest deck of a ship, especially in a sailing ship where it typically forms the roof of a cabin in the stern.| there on the poop stood Captain Meech
-		> 沖擊船尾 |(of a wave) break over the stern of (a ship), sometimes causing it to capsize.| off Rame Head we were badly pooped
-		> 使筋疲力盡 |Exhaust (someone)| I was pooped and just flopped into bed
-		> 排泄物/糞便 |Excrement.| dog poop is a major source of water pollution on Cape Cod
-		> 排泄 |Defecate.|
-		> 最新或內幕情報 |Up-to-date or inside information.| here is the latest poop from Hollywood
-		> 傻瓜 |A stupid or ineffectual person.| he was making fun of an old poop
-	- poky
-		> 窄小的 |(of a room or building) uncomfortably small and cramped.| five of us shared the poky little room
-		> 有相當馬力的(車) |(especially of a car) having considerable power or acceleration.| The cabin itself is a huge step forward on the previous model, which was pokey for a car of its overall dimensions.
-		> 慢的令人不耐煩的 |Annoyingly slow.| his speech was poky, like he was a little simple
-	+ pose
-		> |Present or constitute (a problem or danger)| the sheer number of visitors is posing a threat to the area
-		> |Raise (a question or matter for consideration)| the statement posed more questions than it answered
-		> |Assume a particular position in order to be photographed, painted, or drawn.| the prime minister posed for photographers
-		> |A way of standing or sitting, especially in order to be photographed, painted, or drawn.| 
-		> pose as |Pretend to be (someone or something)| an armed gang posed as policemen to ambush a postman
-		> |Behave affectedly in order to impress others.| some people like to drive kit cars, but most just like to pose in them
-		> |A particular way of behaving adopted in order to impress or to give a false impression.| the man dropped his pose of amiability
-	+ post
+		> 悸動/跳動 |A throb or heave of a person`s heart or chest.| I felt the quick pant of my bosom
+	+ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
 		> 柱/樁/竿 |A long, sturdy piece of timber or metal set upright in the ground and used as a support or marker.| follow the blue posts until the track meets a road
 		> 球門柱 |A goalpost.| Robertson, at the near post, headed wide
 		> 起點竿/終點竿 |A starting post or winning post.|
@@ -2223,36 +2135,25 @@
 		> |The status or rank of full-grade captain in the Royal Navy.|
 		> 分發 |Send (someone) to a place to take up an appointment.|
 		> 分派 |Station (someone, especially a soldier or police officer) in a particular place.|
-	- poster
-		> 海報 |A large printed picture used for decoration.|
-		> 廣告/布告 |A large printed picture, notice, or advertisement displayed in a public place.| a poster campaign
-		> 貼文者 |A person who publishes something online, typically on a blog or social media website or application.|
-		> 張貼 |Put up posters in an area.| illegal postering in downtown Montreal
-	+ possess /pəˈzɛs/ 
+	+ possess /pəˈzɛs/ (v)擁有, 具有, 附身, 支配
 		> 擁有 |Have as belonging to one; own.| I do not possess a television set
 		> 具有 |Have as an ability, quality, or characteristic.| he did not possess a sense of humour
 		> 附身 |(of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions.| she was possessed by the Devil
 		> 支配 |(of an emotion, idea, etc.) dominate the mind of.| I was possessed by a desire to tell her everything
-	+ poll
+	+ poll (n)投票, 投票數, 獲得選票數, 投票所, 頭/頭皮, 無角動物 (v)紀錄意見, 去角
 		> 投票 |The process of voting in an election.| the country went to the polls on March 10
-		> |Record the opinion or vote of.| over half of those polled do not believe the prime minister usually tells the truth
+		> 紀錄意見 |Record the opinion or vote of.| over half of those polled do not believe the prime minister usually tells the truth
 		> 投票數 |The number of votes cast in an election.|
 		> 獲得選票數 |(of a candidate in an election) receive a specified number of votes.| the Green candidate polled 3.6 per cent
 		> 投票所 |The places where votes are cast in an election.|
 		> 頭/頭皮 |A person`s head.| Peter scratched his poll and smiled feebly
 		> 無角動物 |A hornless animal, especially one of a breed of hornless cattle.|
 		> 去角 |Cut the horns off (an animal, especially a young cow).|
-	+ ponder 仔細考慮/衡量 == Think about (something) carefully, especially before making a decision or reaching a conclusion.
-	- puberty /ˈpjuːbəti/ 青春期 == The period during which adolescents reach sexual maturity and become capable of reproduction.
-		> the onset of puberty
-	- publicize /ˈpʌblɪsʌɪz/ 
-		> 使廣為人知/宣傳 |Make (something) widely known.| use the magazine to publicize human rights abuses
-		> 宣傳/廣告 |Give out information about (a product, person, or company) for advertising or promotional purposes.| Judy had started to publicize books and celebrities
-	- punch in sth 填入 == to enter information into a computer or other device, using keys or buttons
+	- punch in sth (v)填入 == to enter information into a computer or other device, using keys or buttons
 		> Trev lifted the receiver and punched in the telephone number.
-	- punch in 上班打卡 == to use a special clock to record the time you start working
+	- punch in (v)上班打卡 == to use a special clock to record the time you start working
 		> I punched in at 8:00 a.m.
-	+ pull
+	+ pull (v)拉, 拖/牽, 傳遞能量, 划, 拉出, 拉傷, 拔出, [at/on]吸, 行駛, 拉開, 吸引/招徠, 做成/達成, 取消/撤銷, 取消..的資格, 逮補, 控（馬）慢跑, 印 (n)拉力/引力, 魅力, 影響力/門路, 拉/拖, 把手, 拉傷, 一口, 吸一口
 		> 拉 |Exert force on (someone or something) so as to cause movement towards oneself.| he pulled them down on to the couch
 		> 拉力/引力 |A force drawing someone or something in a particular direction.| the pull of the water tore her away
 		> 魅力 |Something exerting an influence or attraction.| one of the pulls of urban life is the opportunity of finding employment
@@ -2269,62 +2170,49 @@
 		> 拔出 |Bring out (a weapon) for use against someone.| it`s not every day a young woman pulls a gun on a burglar
 		> pull at/on 吸 |Inhale deeply while smoking (a pipe, cigarette, or cigar)| she pulled on her cigarette and blew the smoke at him
 		> 一口 |A deep draught of a drink.| he unscrewed the cap from the flask and took another pull
-		> 一口 |An act of inhaling while smoking a pipe, cigarette, or cigar.| he took a pull on his cheroot
+		> 吸一口 |An act of inhaling while smoking a pipe, cigarette, or cigar.| he took a pull on his cheroot
 		> 行駛 |Move steadily in a specified direction or manner.| the bus was about to pull away
 		> 拉開 |Move one`s body in a specified direction, especially against resistance.| she tried to pull away from him
 		> 吸引/招徠 |Attract (someone) as a customer; cause to show interest in something.| anyone can enter the show if they have a good act and the ability to pull a crowd
 		> 做成/達成 |Carry out or achieve (something clever or duplicitous)| the magazine pulled its trick of producing the right issue at the right time
 		> 取消/撤銷 |Cancel or withdraw (an entertainment or advertisement)| the gig was pulled at the first sign of difficulty
 		> 取消..的資格 |Withdraw or disqualify (a player) from a game.| four of the leading eight runners were pulled
-		> 歹賭 |Arrest.| I am never likely to get pulled for speeding
+		> 逮補 |Arrest.| I am never likely to get pulled for speeding
 		> 控（馬）慢跑 |Check the speed of (a horse), especially so as to make it lose a race.| Jockey Justin Sheehan said after that race that he had almost pulled the horse up midway through the race.
 		> 印 |Print (a proof).| A proof sheet would be pulled, and read against the manuscript.
 		> |A printer`s proof.|
 		> |(in sport) a pulling stroke.|
-	- pull for 鼓勵/支持 == To encourage, support, or root for someone or something
+	- pull for (v)鼓勵/支持 == To encourage, support, or root for someone or something
 		> His whole hometown was pulling for him as he made his professional boxing debut on live television.
 		> I`ve always pulled for the company to succeed, since they made some of my most cherished games growing up.
-	- pull of
+	- pull of (v)反悔, 靠邊停
         > |Withdraw from an undertaking.| he was forced to pull out of the championship because of an injury
         > |(of a vehicle or its driver) move out from the side of the road| as he turned the corner a police car pulled out in front of him
-	- pull off
+	- pull off (v)成功, 在..旁邊停下, 發動(交通工具), 快速脫下
 		> 成功 |to succeed in doing something that is difficult| Hanley pulled off a surprise victory in the semi-final.
 		> 在..旁邊停下 |if a vehicle or driver pulls off a road, they stop by the side of it| If you’re feeling sleepy, pull off the road immediately and have a rest.
 		> 開動 |If a vehicle pulls off, it starts moving.| The car pulled off and sped up the road.
 		> 快速脫下 |to take off clothes, especially quickly| She pulled the dress off over her head.
-	- pull down 
+	- pull down (v)破壞, 賺
 		> 破壞 |to destroy something, esp. a building| Many of those old buildings will soon be pulled down.
 		> 賺 |to earn an amount of money| She’s pulling down over $100,000 a year.
-	- pull up 停 == When a car or someone driving a car pulls up, the driver stops the car, often for a short time
+	- pull up (v)停 == When a car or someone driving a car pulls up, the driver stops the car, often for a short time
 		> A car pulled up outside my house.
 		> The boat pulled up at the dock.
+	- pull out (v)抽身, 開出/離去
+		> 抽身 |to stop being involved in an activity| Lack of funding leaves us with no choice but to pull out.
+		> 開出/離去 |If a vehicle pulls out, it starts moving onto a road or onto a different part of the road| A car pulled right out in front of me.
 	- put -> put -> put
-	- put aside == to ignore or not deal with something
+	- put aside (v)撇開不理/擱置 == to ignore or not deal with something
 		> He was ready to put aside a century of family knowledge, throw away all his assumptions, completely rethink his brand and strategy.
-	- pull out
-		> |to stop being involved in an activity| Lack of funding leaves us with no choice but to pull out.
-		> |If a vehicle pulls out, it starts moving onto a road or onto a different part of the road| A car pulled right out in front of me.
-	+ put up with sb 忍受/忍耐 == to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly
+	+ put up with sb (v)忍受/忍耐 == to accept or continue to accept an unpleasant situation or experience, or someone who behaves unpleasantly
 		> I can put up with the house being messy, but I hate it if it`s not clean.
 		> He`s so moody - I don`t know why she puts up with him.
-	- put sb off 使反感/使洩氣 == to make someone dislike something or someone, or to discourage someone from doing something
+	- put sb off (v)使反感/使洩氣 == to make someone dislike something or someone, or to discourage someone from doing something
 		- The smell of hospitals always puts me off.
 		- You have to work long hours and that puts off a lot of people.
 		- His attitude put me right off him.
 		- Personally, I didn't enjoy the film, but don't let that put you off going.
-	- pussify 使柔弱 == Weaken or emasculate.
-	- pitch
-	- phenom 傑出人才 == A person who is outstandingly talented or admired; a star.
-	+ phenomenon /fəˈnɒmɪnən/ -> phenomena
-	- prank /praŋk/ (n/v)惡作劇
-	- prayer
-		> 祈禱 |A solemn request for help or expression of thanks addressed to God or another deity.| I will say a prayer for him
-		> 禱告式 |A religious service, especially a regular one, at which people gather in order to pray together.| 500 people were detained as they attended Friday prayers
-		> 祈願 |An earnest hope or wish.| it is our prayer that the current progress on human rights will be sustained
-	- practitioner 實踐者/開業者 == A person actively engaged in an art, discipline, or profession, especially medicine.
-	- privy to ==  Sharing in the knowledge of (something secret or private)
-		> he was no longer privy to her innermost thoughts
-		> Several professionals interviewed by Kotaku privy to the financials of esports organizations say they do not know what their organizations’ long-term revenue plans are.
 	* predominately == largely == mainly == mostly
 	- pride
 		> 自豪/得意 |A feeling or deep pleasure or satisfaction derived from one`s own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired.| the faces of the children`s parents glowed with pride
@@ -2370,36 +2258,6 @@
 		> 本金 |A sum of money lent or invested, on which interest is paid.|
 		> 委託人 |A person for whom another acts as an agent or representative.| stockbrokers in Tokyo act as agents rather than as principals
 		> 犯罪當事人 |The person directly responsible for a crime.|
-	+ principle /ˈprɪnsɪp(ə)l/ 
-	- profile
-		> 側面像 |An outline of something, especially a person`s face, as seen from one side.| the man turned and she caught his profile
-		> 給……畫側面像 |Represent in outline from one side.| he was standing motionless, profiled on the far side of the swimming pool
-		> 剖面  |A vertical cross section of a structure.| skilfully made vessels with an S-shaped profile
-		> 縱斷圖 |An outline of part of the earth`s surface, e.g. the course of a river, as seen in a vertical section.| in soft rocks a profile drawn normally to the beach would show a concave form comparable with the long profile of a river
-		> |A flat outline piece of scenery on stage.|
-		> 簡介 |A short article giving a description of a person or organization.| a profile of a Texas tycoon
-		> 簡要介紹 |Describe (a person or organization) in a short article.| he was to profile a backbench MP
-		> 概況 |(on a social media website or application) a user`s summary of their personal details or current situation.| he posted the pictures on his Facebook profile
-		> 吸引程度 |The extent to which a person or organization attracts public notice.| raising the profile of women in industry
-		> 量化分析表 |A graphical or other representation of information relating to particular characteristics of something, recorded in quantified form.| a sleep profile for someone on a shift system
-		> 行為記錄 |A record of a person`s psychological or behavioural characteristics, preferences, etc.| they had been using personal details to build customer profiles
-		> be profiled 描出……的輪廓 |Have a specified shape in outline.| a proud bird profiled like a phoenix
-		> 畫(形狀) |Shape (something), especially by means of a tool guided by a template.| I use my angle grinder all the time for profiling tiles
-	+ proposition
-		> 主張/論點 |A statement or assertion that expresses a judgement or opinion.| the proposition that high taxation is undesirable
-		> 命題 |A formal statement of a theorem or problem, typically including the demonstration.|
-		> 提議/建議 |A suggested scheme or plan of action, especially in a business context.| a detailed investment proposition
-		> 提議/建議 |Make an offer or suggestion to.| she had been propositioned at the party by a subeditor with bad breath
-		> 法案/議案 |A constitutional proposal; a bill.| Californian voters rejected by a two-to-one majority proposition 128
-		> 求歡 |An offer of sexual intercourse made to a person with whom one is not involved, especially one that is made in an unsubtle way.|
-		> 求歡 |Make a suggestion of sexual intercourse to (someone), especially in an unsubtle way.|
-		> 計畫/想法 |A project, task, idea, etc. considered in terms of its likely success or difficulty.| setting up your own business can seem an attractive proposition
-	- progression
-		> 發展 |The process of developing or moving gradually towards a more advanced state.| good opportunities for career progression
-		> 連續 |A number of things in a series.| the vista unfolds in a progression of castles and vineyards as seemingly endless as the Rhine itself
-	- propaganda
-		> 訊息 |Information, especially of a biased or misleading nature, used to promote a political cause or point of view.| he was charged with distributing enemy propaganda
-		> 宣傳/宣傳活動 |The dissemination of propaganda as a political strategy.| the party`s leaders believed that a long period of education and propaganda would be necessary
 	+ project
 		> 方案/計畫/企劃 |An individual or collaborative enterprise that is carefully planned to achieve a particular aim.| a research project
 		> 專案/學生研究 |A piece of research work undertaken by a school or college student.|
@@ -2421,39 +2279,20 @@
 		> provisions 糧食/食物供給/物資 |Supplies of food, drink, or equipment, especially for a journey.| provisions for the journey
 		> 向……供應糧食 |Supply with food, drink, or equipment, especially for a journey.| Supply with food, drink, or equipment, especially for a journey.
 		> 規定/條款 |A condition or requirement in a legal document.| the first private prosecution under the provisions of the 1989 Water Act
-	+ practically
-		> 幾乎 |Virtually; almost.| the strike lasted practically a fortnight
-		> 特定地 |In a practical manner.| He might win,’ pointed out Emmeline practically’
-	- probe
-		> 探針 |A blunt-ended surgical instrument used for exploring a wound or part of the body.|
-		> 探測器 |A small device, especially an electrode, used for measuring, testing, or obtaining information.|
-		> 搜索/徹底調查 |A thorough investigation into a crime or other matter.| a probe into city hall corruption
-		> 探索/搜索/檢查 |Physically explore or examine (something) with the hands or an instrument.|  hands probed his body from top to bottom
-		> 探究 |Seek to uncover information about someone or something.| what right had he to probe into her personal life?
-		> 太空探測站 |space probe|
-	- plantation
-		> 農園/大農場 |An estate on which crops such as coffee, sugar, and tobacco are grown.|
-		> 人造林 |An area in which trees have been planted, especially for commercial purposes.| new conifer plantations
-		> 殖民地/新開墾地 |Colonization or settlement of emigrants, especially of English and then Scottish families in Ireland in the 16th–17th centuries under government sponsorship.| the Plantation of Ulster
-		> 殖民 |A colony.|
-	- plateau /ˈplatəʊ/ -> plateaux/plateaus
-		> 高原 |An area of fairly level high ground.|
-		> 穩定水準 |A state of little or no change following a period of activity or progress.| the peace process had reached a plateau
-		> 穩定水準 |Reach a state of little or no change after a period of activity or progress.| the industry`s problems have plateaued out
 	- play
-	- play out 發生/出現 == When a situation plays out, it happens and develops.
+	- play out (v)發生/出現 == When a situation plays out, it happens and develops.
 		> The debate will play out in the media over the next week or two.
-	- plan out == To make thorough, detailed arrangements and preparations for something in the future.
+	- plan out (v)策劃/籌劃 == To make thorough, detailed arrangements and preparations for something in the future.
 		> Make sure this deal is planned out very carefully. Even the slightest mistake could cost us a huge amount of money.
 		> We`ve spent nearly two years planning our wedding out — at this point, I just want it to be over with!
-	+ pitch
+	+ pitch (n)音高, 坡度, 強度/力度, 捕手丟球, 推銷, 前後擺盪, 間距/螺距, 瀝青, 像瀝青之物/樹脂/松脂 (v)為……定音高, 使(屋頂)向下傾斜, 投球, 扔/拋, 重重摔落, 搭帳篷/紮營, 鋪路 = pave
 		> 音高 |The quality of a sound governed by the rate of vibrations producing it; the degree of highness or lowness of a tone.| her voice rose steadily in pitch
-		> |Set (one`s voice or a piece of music) at a particular pitch.| you`ve pitched the melody very high
+		> 為……定音高 |Set (one`s voice or a piece of music) at a particular pitch.| you`ve pitched the melody very high
 		> 坡度 |The steepness of a slope, especially of a roof|
-		> |Cause (a roof) to slope downwards from the ridge.|
+		> 使(屋頂)向下傾斜 |Cause (a roof) to slope downwards from the ridge.|
 		> 強度/力度 |A level of the intensity of something, especially a high level.| the media furore reached such a pitch that the company withdrew the product
-		> |A delivery of the ball by the pitcher.|
-		> |Throw (the ball) for the batter to try to hit.|
+		> 捕手丟球 |A delivery of the ball by the pitcher.|
+		> 投球 |Throw (the ball) for the batter to try to hit.|
 		> 推銷 |A form of words used when trying to persuade someone to buy or accept something.| he put over a very strong sales pitch
 		> |Make a bid to obtain a contract or other business.| I`ve been pitching for this account for over a month
 		> 前後擺盪 |A swaying or oscillation of a ship, aircraft, or vehicle around a horizontal axis perpendicular to the direction of motion.|
@@ -2462,34 +2301,25 @@
 		> 瀝青 |A sticky resinous black or dark brown substance that is semi-liquid when hot and hardens when cold, obtained by distilling tar or turpentine and used for waterproofing.|
 		> 像瀝青之物/樹脂/松脂 |Any of various substances similar to pitch, such as asphalt or bitumen.|
 		> 扔/拋 |Throw roughly or casually.| he crumpled the page up and pitched it into the fireplace
-		> |Fall heavily, especially headlong.| she pitched forward into blackness
+		> 重重摔落 |Fall heavily, especially headlong.| she pitched forward into blackness
 		> 搭帳篷/紮營 |Set up and fix in position.| we pitched camp for the night
-		> |Pave (a road) with stones.| another sort of stone is used for pitching streets
-	- plunk down
+		> 鋪路 |Pave (a road) with stones.| another sort of stone is used for pitching streets
+	- plunk down (v)突然丟下, 付
 		> 突然丟下 |to put down usually firmly or abruptly| plunked the items down on the counter
 		> 付 |to pay out| reluctant to plunk down the money for a new car
-	+ plunge
-		> 跳水 |Jump or dive quickly and energetically.| our little daughters whooped as they plunged into the sea
-		> |An act of jumping or diving into water.| fanatics went straight from the hot room to take a cold plunge
-		> 投入 |Embark impetuously on a speech or course of action.| he came to a decision, and plunged on before he had time to reconsider it
-		> 暴跌 |Suffer a rapid decrease in value.| shares in the company plunged 18p on news that profits had fallen
-		> |A swift and drastic fall in value or amount.| the central bank declared a 76% plunge in its profits
-		> 推入/塞入 |Push or thrust quickly.| he plunged his hands into his pockets
-		> 浸泡 |Quickly immerse in liquid.| to peel fruit, cover with boiling water and then plunge them into iced water
-		> 陷入 |Suddenly bring into a specified condition or state.c| for a moment the scene was illuminated, then it was plunged back into darkness
-	+ plead -> pleaded/pled -> pleaded/pled
+	+ plead -> pleaded/pled -> pleaded/pled (v)懇求, 抗辯, 辯護, 宣判, 訴諸 = invoke, 以..為理由
 		> 懇求 |Make an emotional appeal.| she pleaded with them not to gag the boy
 		> 抗辯 |Present and argue for (a position), especially in court or in another public context.|
 		> 辯護 |Address a court as an advocate on behalf of a party.|
-		> 承認 |State formally in court whether one is guilty or not guilty of the offence with which one is charged.|
+		> 宣判 |State formally in court whether one is guilty or not guilty of the offence with which one is charged.|
 		> 訴諸 |Invoke (a reason or a point of law) as an accusation or defence.| on trial for attempted murder, she pleaded self-defence
 		> 以..為理由 |Offer or present as an excuse for doing or not doing something.| ‘he pleaded family commitments as a reason for not attending
+	+ plead down 減輕刑責 == to have the charge reduced to a lesser one
 	+ plea
 		> 請求/懇求 |A request made in an urgent and emotional manner.| he made a dramatic plea for disarmament
 		> 託辭/藉口 |A claim that a circumstance means that one should not be blamed for or should not be forced to do something.|
 		> 抗辯 |A formal statement by or on behalf of a defendant or prisoner, stating guilt or innocence in response to a charge, offering an allegation of fact, or claiming that a point of law should apply.|
-	- plead down 減輕刑責 == to have the charge reduced to a lesser one
-	+ pledge
+	+ pledge (n)誓言, 捐款承諾, 戒酒, 宣言, 抵押品, 信物 (v)發誓, 保證 = undertake, 保證給予, 抵押
 		> 誓言 |A solemn promise or undertaking.| the conference ended with a joint pledge to limit pollution
 		> 捐款承諾 |A promise of a donation to charity.| appeals for emergency relief met with pledges totalling £250,000,000
 		> 戒酒 |A solemn undertaking to abstain from alcohol.| she persuaded Arthur to take the pledge
@@ -2500,7 +2330,7 @@
 		> 抵押品 |A thing that is given as security for the fulfilment of a contract or the payment of a debt and is liable to forfeiture in the event of failure.|| he had given the object as a pledge to a creditor
 		> 抵押 |Give as security on a loan.| the creditor to whom the land is pledged
 		> 信物 |A thing given as a token of love, favour, or loyalty.| I have no intention of giving you anything that could be held against me as a pledge
-	- plot
+	+ plot (n)陰謀/祕密計畫, 情節, 小塊土地, 關係圖, 平面圖/標繪圖 (v)密謀/策劃, 設計情節, 標繪, 繪製……的圖, 使在圖表上..成曲線, 以圖表說明
 		> 陰謀/祕密計畫 |A plan made in secret by a group of people to do something illegal or harmful.| there`s a plot to overthrow the government
 		> 密謀/策劃 |Secretly make plans to carry out (an illegal or harmful action)| the two men are serving sentences for plotting a bomb campaign
 		> 情節 |The main events of a play, novel, film, or similar work, devised and presented by the writer as an interrelated sequence.|  the plot consists almost entirely of a man and woman falling in love
@@ -2512,30 +2342,7 @@
 		> 繪製……的圖 |Mark out or allocate (points) on a graph.| the dependent variable`s points are plotted on the Y axis
 		> 使在圖表上..成曲線 |Make (a curve) by marking out a number of points on a graph.| a cooling curve is plotted and the freezing point determined
 		> 以圖表說明 |Illustrate by use of a graph.| it is possible to plot fairly closely the rate at which recruitment of girls increased
-	- point
-	- pointedly （通常用來表示批評或不滿）顯然地 == In a direct and unambiguous way, often indicating criticism or displeasure.
-		> > He pointedly ignored her after the show.
-	- pinpoint
-		> 小點 |A tiny dot or point.|
-		> 完全精確的 |Absolutely precise; to the finest degree.| this weapon fired shells with pinpoint accuracy
-		> 微小的 |Tiny.| a pinpoint hole
-		> 精確找到 |Find or identify with great accuracy or precision.| one flare had pinpointed the target
-	- poster child 代表人物形象 == someone or something that is used to represent a particular quality
-		> He is a poster boy for political reform.
-	- portfolio
-		> 文件夾/公事包 |A large, thin, flat case for loose sheets of paper such as drawings or maps.| under his arm he carried a large portfolio of drawings
-		> 作品集 |A set of pieces of creative work intended to demonstrate a person`s ability to a potential employer.| she had a portfolio of crayon portraits
-		> 投資組合 |A range of investments held by a person or organization.| a portfolio of insured municipal securities
-		> 產品組合 |A range of products or services offered by an organization.| an unrivalled portfolio of quality brands
-		> |Denoting or engaged in an employment pattern which involves a succession of short-term contracts and part-time work, rather than the more traditional model of a single job for life.| portfolio careers allow women to balance work with family
-		> 部長職/大臣職 |The position and duties of a Minister or Secretary of State.|
-	* potency
-		> 力量/潛力 |The power of something to influence or make an impression.|
-		> 濃度/強度 |The strength of an intoxicant or drug, as measured by the amount needed to produce a certain response.| the unexpected potency of the rum punch
-		> 性能力 |A male`s ability to achieve an erection or to reach orgasm.|
-	- pitch dark == extremely dark
-		> a moonless, pitch-black night
-	- phone (sb) up 給..打電話 == to call someone on the phone:
+	- phone (sb) up (v)給..打電話 == to call someone on the phone:
 		> I will phone up and see if they have any tickets left.
 		> Clients often phone me up at inconvenient times.
 
@@ -2543,15 +2350,8 @@
 	- quasi- (adj)類似..的/準
 		- quasi-liquid layer 類液態薄層
 		- quasi-military
-
-	- qualify
-		> |Be entitled to a particular benefit or privilege by fulfilling a necessary condition| He qualifies as a genuine political refugee
-		> |Make (a statement or assertion) less absolute; add reservations to| She felt obliged to qualify her first short answer
-		> |attribute a quality to (another word, especially a preceding noun).| In other words ‘deliberate’ was qualified by ‘malicious’ to bring the meaning into line with ‘wilful’.
-		> |describe something as| One thing that would qualify my work as ‘innovative’ is my interest in abstraction.
-	- questionnaire 問卷/調查表 == A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.
-	+ quiet
-		> 安靜的 |Making little or no noise.| the car has a quiet, economical engine
+	+ quiet (adj)安靜的, 寧靜的, 不被打擾的, 秘密的, 溫和的, 保守的, 不醒目的 (n)安靜, 不被打擾, 安穩 (v)安靜
+		>  |Making little or no noise.| the car has a quiet, economical engine
 		> 安靜 |Absence of noise or bustle; silence; calm.| the ringing of the telephone shattered the early morning quiet
 		> V 安靜 |Make or become silent, calm, or still.| there are ways of quieting kids down
 		> 寧靜的 |(of a place, period of time, or situation) without much activity, disturbance, or excitement.| the street below was quiet, little traffic braving the snow
@@ -2562,14 +2362,8 @@
 		> 溫和的 |(of a person) mild and reserved by nature.| his quiet, middle-aged parents
 		> 保守的 |Expressed in a restrained or understated way.| Molly spoke with quiet confidence
 		> 不醒目的 |(of a colour or garment) unobtrusive; not bright or showy.|
-	- quiver /ˈkwɪvə/ 
-		> 顫抖 |Tremble or shake with a slight rapid motion.| the tree`s branches stopped quivering
-		> 使顫動 |Cause (something) to make a slight rapid motion.| the bird runs along in a zigzag path, quivering its wings
-		> 箭袋/箭筒 |An archer`s portable case for holding arrows.|
-		> |A set of surfboards of different lengths and shapes for use with different types of waves.| he had created a whole new quiver of boards specifically for Hawaii
-
 [R]
-	+ radical
+	+ radical (adj)徹底的, 根本的/基本的, 極端的/激進的, 創新的, 字根的, 開根號的, 根生的, 出色的 (n)化學基, 激進份子, 字根/偏旁, 開根數, 根號
 		> 徹底的 |(especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough.|
 		> 根本的 |Forming an inherent or fundamental part of the nature of someone or something.|
 		> 化學基 |A group of atoms behaving as a unit in a number of compounds.| hydroxide radicals
@@ -2583,15 +2377,7 @@
 		> 根號 |A radical sign.|
 		> 根生的 |Of, or springing direct from, the root or stem base of a plant.|
 		> 出色的 |Very good; excellent.| Okay, then. Seven o`clock. Radical!
-	
-	- rally
-		> 集合/重整 |(of troops) come together again in order to continue fighting after a defeat or dispersion.|
-		> 聚集 |Assemble in a mass meeting.| up to 50,000 people rallied in the city centre
-		> 聚眾 |Bring or come together in order to support a person or cause.| ‘colleagues rallied round to help Ann
-		> 振作/恢復 |Recover or cause to recover in health, spirits, or poise.| he floundered for a moment, then rallied again
-		> 漲回 |(of share, currency, or commodity prices) increase after a fall.| prices of metals have rallied
-		> |Drive in a rally.| we`re driving off to Spain to rally
-	+ range
+	+ range (n)幅度, 範圍, 時期, 區域, 一系列, 最大距離, 最大射程, 最大傳播距離, 最大行程, 最大拍攝距離, 山脈, 放牧地, 試射場, 靶場, 分佈範圍, 多爐爐灶, 電爐/瓦斯爐, 排狀建築物 (v)位在..的範圍, 排列, 延展, 漫遊/閒晃, (眼神)游移, 包含多個主題, 對準/測定距離, 覆蓋, 射程為
 		> 幅度 |The area of variation between upper and lower limits on a particular scale.| the cost will be in the range of $1–5 million a day
 		> 範圍 |The scope of a person`s knowledge or abilities.| in this film he gave some indication of his range
 		> 範圍 |The compass of a person`s voice or a musical instrument.| she was gifted with an incredible vocal range
@@ -2619,22 +2405,17 @@
 		> 包含多個主題 |(of something written or spoken) cover a wide number of different topics.| tutorials ranged over a variety of subjects
 		> 對準/測定距離 |Obtain the range of a target by adjustment after firing past it or short of it, or by the use of radar or laser equipment.| radar-type transmissions which appeared to be ranging on our convoys
 		> 覆蓋 |(of a projectile) cover a specified distance.| Prithvi II is the air force version and Prithvi III the naval version of the missile ranging up to 250 and 750 km respectively.
-		> 射程為|(of a gun) send a projectile over a specified distance.| A 12` gun can range past 30000 yards.
-	- range oneself against 使對立 == Place oneself or be placed in opposition to (a person or group)
+		> 射程為 |(of a gun) send a projectile over a specified distance.| A 12` gun can range past 30000 yards.
+	- range oneself against (v)使對立 == Place oneself or be placed in opposition to (a person or group)
 		> Japan ranged herself against the European nations
-	- rat out 出賣.. == To inform an authority figure of one`s bad or illegal behavior.
+	- rat out (v)出賣.. == To inform an authority figure of one`s bad or illegal behavior.
 		> The criminal ratted out his accomplices to avoid jail time.
 	+ right
-	- right away 馬上 == immediately
-		> I need someone to help me right away.
-		> Right away, I texted him to ask if he had registered on the California Cryobank.
 	- ride -> rode -> ridden
-	- ride out 從...中撐過/倖存 == to succeed in surviving or getting through
+	- ride out (v)從...中撐過/倖存 == to succeed in surviving or getting through
 		> The ship/crew rode out the storm.
 		> We managed to ride out the stock market downturn.
-	- rip /rɪp/ (v)撕/扯 = tear = pull, 迅速且猛烈地移動 (n)裂口/裂縫, [非]詐騙, 巨瀾, 離岸流 = rip current, 浪子
-	- rip out 連根拔起
-	- ripe
+	- ripe (adj)成熟的, 熟成的, 醇美的, 時機成熟的, 老成的, 可以產卵的, 粗俗的
 		> 成熟的 |(of fruit or grain) developed to the point of readiness for harvesting and eating.| a ripe tomato
 		> 熟成的 |(of a cheese or wine) fully matured.| a ripe Brie
 		> 醇美的 |(of a smell or flavour) rich, intense, or pungent.| rich, ripe flavours emanate from this wine
@@ -2642,9 +2423,9 @@
 		> 老成的 |(of a person`s age) advanced.| she lived to a ripe old age
 		> 可以產卵的 |(of a female fish or insect) ready to lay eggs or spawn.| ripe females will stop and spawn with one or more males
 		> 粗俗的 |(of a person`s language) beyond the bounds of propriety; coarse.| I think my language may have been a little ripe outside the church
-	- ripe with 充滿 == full of 
+	- ripe with (adj)充滿 == full of 
 		> a population ripe with discontent
-	* rack
+	* rack (n)架子, 齒條/齒棒, 肢刑架/拷問台, 女性的胸部, 一對鹿角, 床, (撞球)三角框 (馬)同腳 (v)放入架子, 對……施肢刑誒, 折磨/使痛苦
 		> 架子 |A framework, typically with rails, bars, hooks, or pegs, for holding or storing things.| a spice rack
 		> 放入架子 |Place in or on a rack.| the shoes were racked neatly beneath the dresses
 		> 齒條/齒棒 |A cogged or toothed bar or rail engaging with a wheel or pinion, or using pegs to adjust the position of something.|
@@ -2656,77 +2437,32 @@
 		> 一對鹿角 |A set of antlers.| moose have the most impressive racks of all the antlered animals
 		> 床 |A bed.|
 		> 同腳 |A horse`s gait in which both hoofs on either side in turn are lifted almost simultaneously, and all four hoofs are off the ground together at certain moments.|
-		> |A joint of meat, typically lamb, that includes the front ribs.| 
+		> 頸肉 |A joint of meat, typically lamb, that includes the front ribs.| 
 		> |A mass of high, thick, fast-moving clouds.|
 		> |Draw off (wine, beer, etc.) from the sediment in the barrel.| the wine is racked off into large oak casks
-	- rack up 達成/達到
+	- rack up (v)累計(得分或獲利)
 		- The airline was racking up losses of $1.5 million a day.
 		- Miller racked up 28 points in the first half, and kept racking them up in the second.
-	- run
-	- run-up
-		> 前奏/前期/準備階段 |The period preceding a notable event.| a programme aimed at lowering unemployment in the run-up to the next election
-		> 助跑 |An act of running briefly to gain momentum before performing a jump in athletics, bowling in cricket, etc.|
-		> |A low approach shot that bounces and runs forward.|
-		> |An act of running an engine or turbine to prepare it for use or to test it.|
-		> 上升 |A marked rise in the value or level of something.| a sharp run-up of land and stock prices
-	- run-of-the-mill == ordinary and not special or exciting in any way
-		> He gave a fairly run-of-the-mill speech.
-	+ rule out sth 排除..的可能性 == to stop considering something as a possibility
+	+ rule out sth (v)排除..的可能性 == to stop considering something as a possibility
 		> It’s unlikely that he’ll run for president, but you can never rule anything out.
-	- runaway
-        > |A person who has run away|
-        > |An animal or vehicle that is running out of control.| a runaway train
-        > |Denoting something happening or done quickly, easily, or uncontrollably.| the runaway success of the book
-
-	- relief
-	- resort 
-		> |Turn to and adopt (a course of action, especially an extreme or undesirable one) so as to resolve a difficult situation.| the duke was prepared to resort to force if negotiation failed
-		> |Go often or in large numbers to.| local authorities have a duty to provide adequate sites for gypsies ‘residing in or resorting to’ their areas
-	+ resolute 堅定的/堅決的 == Admirably purposeful, determined, and unwavering.
 	+ remark
 		> 談到/評論/說 |Say something as a comment; mention.| ‘Tom is looking peaky,’ she remarked
 		> 談論/評論 |A written or spoken comment.| I decided to ignore his rude remarks
 		> 注意/覺察 |Regard with attention; notice.| he remarked the man`s inflamed eyelids
 		> 注意/察覺 |Notice or comment.| the landscape, familiar since childhood, was not worthy of remark
 	+ roll (v)滾動, 轉, 運轉/啟動, 移動, 捲/滾搓, 擀平/碾平, 隆隆作響/轟轟響, (聲音)顫動 (n)一捲, 滾動, 隆隆聲, 麵包捲, 名單/名冊, 地表起伏
-	- roll out == to make something available or known to people for the first time
+	- roll out (v)推出 == to make something available or known to people for the first time
 		> Microsoft is rolling out templates later this year so people can easily optimize their Teams app to best suit particular industries, like marketing
 		> While Fitz and the Tantrums had already experienced success at home, the burst of fame on TikTok persuaded the band to focus on Asia as it rolls out its new album.
-	- roll around == (of a time or event) to happen:
+	- roll around (v)(時間或事件)開始 == (of a time or event) to happen:
 		> She wondered if he would still be there when spring rolled around.
-	- roll in 到來 == to arrive
+	- roll in (v)到來 == to arrive
 		- What time did you roll in last night?
 		- Fog rolled in overnight.
-	- roundly
-		> 強烈地 |In a vehement or emphatic manner.| the latest attacks have been roundly condemned by campaigners for peace
-		> 徹底地 |So thoroughly as to leave no doubt.| the army was roundly beaten
-		> 唐突地 |Too plainly for politeness; bluntly.| she told him roundly to get to the point
-		> 圓地 |So as to form a circular or roughly circular shape.| he was a middle-aged, roundly built man
 	- round sb/sth up (v)集中/聚集/召集 == To gather or organize a group of people or things together.
 		- Would you mind rounding up the students so we can start the recital?
 		- We rounded up some friends to play poker and drink beer.
-	* routine
-		> 例行公事 |A sequence of actions regularly followed.| I settled down into a routine of work and sleep
-		> 固定劇目/一套固定舞步 |A set sequence in a performance such as a dance or comedy act.| he was trying to persuade her to have a tap routine in the play
-		> 程序 |A sequence of instructions for performing a task that forms a program or a distinct part of one.|
-		> 例行的 |Performed as part of a regular procedure rather than for a special reason.| the Ministry insisted that this was just a routine annual drill
-	- reef /riːf/ 
-		> 礁 |A ridge of jagged rock, coral, or sand just above or below the surface of the sea.|
-		> 礁脈 |A vein of ore in the earth, especially one containing gold.|
-		> 縮帆部/疊帆部 |Each of the several strips across a sail which can be taken in or rolled up to reduce the area exposed to the wind.| We had to sail her with ‘two reefs in’, a reduced sail area for the rough conditions.
-		> 疊捲/收帆 |Take in one or more reefs of (a sail)| reef the mainsail in strong winds
-		> 縮桅 |Shorten (a topmast or a bowsprit).| Even if the sails were incomplete, could not they have been reefed down, rip-stopped, patched, or sewed?
-	- reflect
-		> |(of a surface or body) throw back (heat, light, or sound) without absorbing it.| when the sun`s rays hit the Earth a lot of the heat is reflected back into space
-		> |show an image of.| he could see himself reflected in Keith`s mirrored glasses
-		> 表現出 |Embody or represent (something) in a faithful or appropriate way.| schools should reflect cultural differences
-		> reflect on/upon |Think deeply or carefully about.| he reflected with sadness on the unhappiness of his marriage
-	- refrain
-		> 忍住/抑止 |Stop oneself from doing something.| she refrained from comment
-		> 疊句 |A repeated line or number of lines in a poem or song, typically at the end of each verse.|
-		> 副歌 |The musical accompaniment for a refrain.| he would play the refrain
-		> 口頭禪 |A comment or complaint that is often repeated.| ’Poor Tom’ had become the constant refrain of his friends
-	- revolve around 以…為中心/圍繞 == to have someone or something as the main or most important interest or subject
+	- revolve around (v)以…為中心/圍繞 == to have someone or something as the main or most important interest or subject
 		> The conversation revolved around childcare problems.
 		> His whole life revolves around football.
 	+ redeem
@@ -2737,24 +2473,12 @@
 		> 兌換 |Exchange (a coupon, voucher, or trading stamp) for goods, a discount, or money.|
 		> 償還 |Pay the necessary money to clear (a debt)| owners were unable to redeem their mortgages
 		> 履行 |Fulfil or carry out (a pledge or promise)| the party prepared to redeem the pledges of the past three years
-	- recount
-		> 講述 |Tell someone about something; give an account of an event or experience.| I recounted the tale to Steve
-		> 講述 |An act or instance of giving an account of an event or experience.|
-		> 重算 |Count again.| the children arrange and rearrange the objects in a set and recount them each time
-		> 重算 |An act of counting something again, especially votes in an election.| a three-vote Conservative win after seven recounts
-	- remove oneself 離去 == escape == flee
-	- rock a baby == move it backwards and forwards or from side to side in a regular way to help it to sleep
+	- remove oneself (v)離去 == escape == flee
 	- root
-	- root out
+	- root out (v)找到並消除, 終於找到
 		> 找到並消除 |to find and remove (something or someone)| The mayor was determined to root out corruption in city government.
 		> 終於找到 |to find (something or someone) after searching for a long time| He finally rooted out the cause of the problem.
-	- revolve around 以…為中心/以…為主題 == to have someone or something as the main or most important interest or subject
-		> It still revolved around superstition, but of a mild variety, with quaint rituals indicating things such as whether a lover was being faithful or would become a future marriage partner.
-	- red tape 繁文縟節 == official rules and processes that seem unnecessary and delay results
-	+ reasonably
-		> 合理地 |In a sensible way.| he began to talk calmly and reasonably about his future
-		> 相當地 |To a moderate or acceptable degree; fairly.| she played the piano reasonably well
-	+ realize
+	+ realize (v)察覺/了解 使發生/使成真 達成/實現 獲利 售得 變賣
 		> 察覺/了解 |Become fully aware of (something) as a fact; understand clearly| he realized his mistake at once
 		> 使發生/使成真 |Cause to happen.| his worst fears have been realized
 		> 達成/實現 |Achieve (something desired or anticipated); fulfil.| it is only now that she is beginning to realize her potential
@@ -2762,48 +2486,31 @@
 		> 獲利 |Make (a profit) from a transaction.| she realized a profit of $100,000
 		> 售得 |Be sold for.| the drawings are expected to realize £500,000
 		> 變賣 |Convert (an asset) into cash.| he realized all the assets in her trust fund
-	- refer
-	+ refer to 提及/關於 == ​to talk or write about someone or something
+	- realization /riːəlʌɪˈzeɪʃn/ (n)領悟, 實現, 體現, 變賣
+		> 領悟 |An act of becoming fully aware of something as a fact.| a growing realization of the need to create common economic structures
+		> 實現 |The achievement of something desired or anticipated.|
+		> 體現 |An actual form given to a concept or work.| a perfect realization of Bartók`s Second Violin Concerto on dis
+		> 變賣 |The conversion of an asset into cash.| the realization of his assets in Spain
+	- refer (v)提交/交付, [to]論及/談到, 查閱/參考, 不及格
+	+ refer to (v)提及/關於 == ​to talk or write about someone or something
 		> I refer to your letter of 13 March, 2011.
 		> The new salary scale only refers to company managers and directors.
-	+ refer to A as B 把A稱作B
+	+ refer to A as B (v)把A稱作B
 		> The fixed price includes an amount of compensation, which is generally referred to as a concession or discount.
 		> The control unit and ALU usually are referred to as a processor, or central processing unit (CPU)
-	- referral
-		> 提及/參考 |An act of referring someone or something for consultation, review, or further action.|
-		> 轉診 |The directing of a patient to a medical specialist by a GP.|
-		> 轉診病人 |A person whose case has been referred to a specialist doctor or a professional body.|
-	- reel
+	- reel (n)捲筒, 一捲, 影片的一部份, 卷線器, 蘇格蘭民族舞蹈 (v)跳蘇格蘭民族舞蹈, 捲/繞, 失去平衡/跌倒, 搖搖晃晃地走, 感到困惑/震驚
 		> 捲筒 |A cylinder on which film, wire, thread, or other flexible materials can be wound.|
 		> 一捲 |A length of something wound on to a reel.| a reel of copper wire
 		> 影片的一部份 |A part of a film.| in the final reel he is transformed from unhinged sociopath into local hero
 		> 卷線器 |A device for winding and unwinding a line as required, in particular the line attached to a fishing rod.| 
 		> 蘇格蘭民族舞蹈 |A lively Scottish or Irish folk dance.|
-		> |Dance a reel.|
+		> 跳蘇格蘭民族舞蹈 |Dance a reel.|
 		> 捲/繞 |Wind something on to a reel by turning the reel.| sailplanes are often launched by means of a wire reeled in by a winch
 		> 失去平衡/跌倒 |Lose one`s balance and stagger or lurch violently.| he punched Connolly in the ear, sending him reeling
 		> 搖搖晃晃地走 |Walk in a staggering or lurching manner, especially while drunk.| the two reeled out of the bar arm in arm
 		> 感到困惑/震驚 |Feel shocked, bewildered, or giddy.| the Prime Minister was reeling from a savaging inflicted in the Commons
-	- round-the-clock 全天候的 == happening or done all day and all night:
 		> He`s very sick and needs round-the-clock care.
-	+ realize
-		> 察覺/了解 |Become fully aware of (something) as a fact; understand clearly| he realized his mistake at once
-		> 使發生/使成真 |Cause to happen.| his worst fears have been realized
-		> 達成/實現 |Achieve (something desired or anticipated); fulfil.| it is only now that she is beginning to realize her potential
-		> 實現 |Give actual or physical form to.| the stage designs have been beautifully realized
-		> 獲利 |Make (a profit) from a transaction.| she realized a profit of $100,000
-		> 售得 |Be sold for.| the drawings are expected to realize £500,000
-		> 變賣 |Convert (an asset) into cash.| he realized all the assets in her trust fund
-	- realization /riːəlʌɪˈzeɪʃn/
-		> 領悟 |An act of becoming fully aware of something as a fact.| a growing realization of the need to create common economic structures
-		> 實現 |The achievement of something desired or anticipated.|
-		> 體現 |An actual form given to a concept or work.| a perfect realization of Bartók`s Second Violin Concerto on dis
-		> 變賣 |The conversion of an asset into cash.| the realization of his assets in Spain
-	+ relation
-		> 關係/關聯 |The way in which two or more people or things are connected; a thing`s effect on or relevance to another.| questions about the relation between writing and reality
-		> 親屬 |A person who is connected by blood or marriage; a relative.| he has no close relations
-		> 講故事 |The action of telling a story.|
-	+ register
+	+ register (n)清單, 登記簿, 音域/聲域, 收銀機, 標示/讀數 (v)登記, 到達..讀數, 表達 = express = convey, 注意到 = notice, 達到 = achieve
 		> 清單 |An official list or record of names or items.| a membership register
 		> 登記 |A book or record of attendance, for example of pupils in a class or guests in a hotel.|
 		> |Enter or record on an official list or directory.|
@@ -2814,7 +2521,7 @@
 		> 表達 |Express or convey (an opinion or emotion)| I wish to register an objection
 		> 注意到 |Notice or become aware of.| he hadn`t even registered her presence
 		> 達到 |Achieve (a certain score or result) in a game or match.| they registered their third consecutive draw
-	- registry
+	- registry (n)紀錄處, 官方紀錄, 登記 = registration
 		> 紀錄處 |A place where registers or records are kept.| MI5 maintains a large registry of files on individuals and organizations
 		> 官方紀錄 |An official list or register.|
 		> 登記 |Registration.|
@@ -4083,6 +3790,9 @@
 		> 放在球座 |To place a golf ball on a tee and line oneself up to take a shot.| Please by quiet while other players are teeing up.
 		> 放於發球處 |To put a ball of some kind into the proper position ahead of a shot.| The kicker teed the ball up and delivered an amazing shot through the keeper`s hands to the top-right corner of the net.
 		> 使準備就緒/使待命 |To put someone or something into a position of readiness for some imminent action.| Senators from both political parties helped tee up the legislation, with a vote expected as early as Tuesday.
+	- tip off (v)向...洩露消息
+		- When the police arrived at the club, the suspects had disappeared; someone might have tipped them off. 
+		- The criminal was tipped off to flee in time.
 	- tiptoe (v)踮起腳走, [round/around]小心處理
 	+ time
 		> 時間 |The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.| travel through space and time
@@ -4688,6 +4398,27 @@
 		> 含糊地說/咕噥 |Say something indistinctly and quietly, making it difficult for others to hear.| he mumbled something she did not catch
 		> 抿著嘴嚼 |Bite or chew (something) with toothless gums or without making much use of the teeth.| she mumbled a piece of black bread
 		> 含糊的話/咕噥 |A quiet and indistinct utterance.| Rosie had replied in a mumble
+	+ pop (v)發出砰或啪的響聲, 加熱使炸裂, 迅速地來去, 迅速地移動..到, 迅速打開, 突出/瞪, 使更加顯眼, 服用/注射 (n)砰的一聲/啪的一聲, 亮色布塊, 含氣飲料, 流行音樂, 流行歌曲, 爸爸, 冰棒 (adv)砰或的一聲地 (adj)通俗的/流行的, 普遍化的
+		> 發出砰或啪的響聲 |Make or cause to make a light explosive sound.| corks popped and glasses tinkled
+		> |(of a person`s ears) make a small popping sound within the head as pressure is equalized, typically because of a change of altitude.|
+		> 砰的一聲/啪的一聲 |A light explosive sound.| there were a few pops, perhaps from pistols
+		> ADV 砰或的一聲地 |With a light explosive sound.| the champagne went pop
+		> 加熱使炸裂 |Heat (popcorn or another foodstuff) until it bursts open.| the hot-air popper pops 4 quarts of popcorn in 5 minutes
+		> 迅速地來去|Go somewhere for a short time, often without notice.| she popped in to see if she could help
+		> 迅速地移動..到 |Put or move (something) somewhere quickly.| she popped a pen into her pocket
+ 		> 迅速打開 |Release, open, or engage (something) quickly or suddenly.| he pulled a can of beer from the refrigerator and popped its tab
+		> 突出/瞪 |(of a person`s eyes) open wide and appear to bulge, especially with surprise.| the man`s eyes popped in disbelief
+		> 使更加顯眼 |Appear brighter or more striking in juxtaposition with something of a different or complementary colour.| she added a slick of red lipstick to make the outfit pop
+		> 亮色布塊 |A patch of bright colour.| I like wearing a neutral outfit with one pop of yellow
+		> 服用/注射 |Take or inject (a drug)| Williams had spent his life hitting the bottle and popping pills
+		> 含氣飲料 |A sweet fizzy drink such as lemonade.| a bottle of pop
+		> 通俗的/流行的 |Relating to commercial popular music.| pop singers
+		> 普遍化的 |(especially of a scientific or academic subject) made accessible to the general public; popularized.| pop psychology
+		> 流行音樂 |pop music|
+		> 流行歌曲 |A pop record or song.|
+		> 爸爸 |father|
+		> 冰棒 |A piece of flavoured ice or ice cream on a stick.| mango-flavoured ice pops
+	- putter (n)輕擊球杆, 推球入洞者, 噗噗聲 (v)噗噗作響, 慢慢幹活 = potter, 閒逛 = potter
 	* rattle
 		> 使發出咯咯聲 |Make or cause to make a rapid succession of short, sharp knocking sounds.| the roof rattled with little gusts of wind the rattle of teacups on the tray
 		> 咯咯聲 |A rapid succession of short, sharp, sounds.|
@@ -4744,9 +4475,6 @@
 		> 按音節發音 |Pronounce (a word or phrase) clearly, syllable by syllable.|
 	- whistler (n)吹口哨的人, 哨聲波(由閃電產生的極低頻率或VLF電磁波)
 
-[Status]
-	- baron /ˈbar(ə)n/ 
-		> 男爵 |A member of the lowest order of the British nobility. Baron is not used as a form of address, barons usually being referred to as ‘Lord’.|
-		> 與男爵等級相當的外國貴族 |A member of a foreign nobility having a rank similar to that of a British baron.|
-		> 大地主 |A person who held lands or property from the sovereign or a powerful overlord.|
-		> 巨擘/大亨 |An important or powerful person in a specified business or industry.| a press baron
+[Color]
+	- pitch dark (adj)漆黑的 == extremely dark
+		> a moonless, pitch-black night

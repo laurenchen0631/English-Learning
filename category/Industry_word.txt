@@ -505,6 +505,9 @@
 	- garrison (n)衛戍部隊/警衛部隊, 駐防地 (v)駐防
 	- chariot /ˈtʃarɪət/ (n)雙輪戰車, 十八世紀的四輪禮車 (v)駕馭戰車
 	- VA benefit (n)退伍軍人福利，為退伍軍人，其家屬和倖存者提供經濟和其他形式的援助
+	- false flag (n)假旗行動/栽贓行動/嫁禍行動，是隱蔽行動的一種，指通過使用其他組織的旗幟、制服等手段誤導公眾以為該行動由其他組織所執行的行動
+	- red herring (n)紅鯡魚(指以修辭或文學的手法轉移議題焦點與注意力，是一種政治宣傳、公關及戲劇創作的技巧)
+	- intelligence agency (n)情報機構
 
 [Transportation/Vehicle]
 	- longshoreman 碼頭工人 == docker
@@ -540,6 +543,7 @@
 
 	* freight /freɪt/  (mn)貨物, 貨運, 運費 (n)運貨列車, 負擔 = load = burden (v)運輸, [be freighted with]充滿
 
+
 	- captain 機長
 	- first officer 副機長
 	- control column 駕駛桿
@@ -554,6 +558,7 @@
 		>  One air-mail pilot bailed out four times without ever losing faith in aviation.
 
 	- cockpit 座艙/駕駛艙 == A compartment for the pilot
+	- Hyundai (n)現代汽車株式會社(韓國一家跨國經營的汽車廠商，財富世界500強企業)
 	+ van 有蓋小貨車
 	- stagecoach 接驛馬車 == A large closed horse-drawn vehicle formerly used to carry passengers and often mail along a regular route between two places.
 	- rattletrap 老爺汽車 == An old or rickety vehicle.
@@ -1048,6 +1053,7 @@
 		> 轟動的 | Lurid and sensational.| a tabloid TV show
 	- Pulitzer Prizes /ˈpʊlɪtsə ˌprʌɪz/ (n)普立茲獎，亦稱普立茲新聞獎
 	- science-fiction 科幻
+    - whodunit /huˈdənət/ (n)[非]偵探小說
 	- Martian /ˈmɑːʃ(ə)n/ 火星人 == A hypothetical or fictional inhabitant of Mars.
 	- motion-picture 電影 == A cinema film
 	- the Academy Awards 學院獎，全名學院功績獎，通稱奧斯卡金像獎
@@ -1677,6 +1683,8 @@
 	- noria (n)戽水車
 	- carbon nanotube (n)奈米碳管
 	- cartridge /ˈkɑːtrɪdʒ/ (n)墨盒, 彈藥筒/彈夾
+	- RFID == Radio Frequency IDentification (n)無線射頻辨識(一種無線通訊技術，可以通過無線電訊號識別特定目標並讀寫相關數據)
+    - hacktivist (n)信念駭客 <-- hack + activist
 
 [School/Education]
 	- undergrad == undergraduate (adj)大學生的 (n)大學生
@@ -1751,6 +1759,7 @@
 	- House Judiciary Committee (n)美國眾議院司法委員會
 	- Brookings Institution (n)布魯金斯學會，是美國著名智庫之一，主要研究社會科學尤其是經濟與發展、都市政策、政府、外交政策以及全球經濟發展等議題，總部位於華盛頓特區
 
+	- hermit kingdom (n)隱士王國(指任何故意自行閉關的國家和社會的術語，韓國的朝鮮王朝在後期，經常被描述為一個隱士王國)
 	
 	- referendum == A general vote by the electorate on a single political question which has been referred to them for a direct decision
 	- totalitarianism == A system of government that is centralized and dictatorial and requires complete subservience to the state.

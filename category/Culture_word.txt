@@ -31,6 +31,7 @@
 	- Austronesian (n)南島語系，主要由南島民族所使用的語言，是世界現今唯一主要分布在島嶼上的一個語系，包括約1300種語言
 	- Afrikaans (n)南非語
 	- Amharic (n)阿姆哈拉語，衣索比亞使用的閃語的一種，與阿拉伯語、希伯來語同屬閃語族
+	- Cyrillic (adj)古代斯拉夫語字母的/西里爾字母的 (n)西里爾字母
 
 [Festival]
 	- carnival (n)狂歡節, 嘉年華會/狂歡/歡宴, 旅遊狂歡節/旅遊遊樂場/巡迴演出
@@ -137,6 +138,13 @@
 		- the New Territories (n)新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
 	- the Silk Road (n)絲路，通常是指歐亞北部的商路
 
+	- North Korea (n)北韓，朝鮮民主主義人民共和國
+		- Pyongyang (n)平壤，是朝鮮民主主義人民共和國的首都和最大城市
+	- South Korea (n)南韓，大韓民國
+		- Pyeongchang (n)平昌郡，大韓民國江原的一個郡級行政區域，位於朝鮮半島中東部的太白山區，是韓國的滑雪勝地
+		- Gangneung (n)江陵市，參與舉辦了2018年冬季奧林匹克運動會
+
+
 [Oceania]
 	- Oceania (n)大洋洲(將澳大利亞洲與太平洋諸島嶼併稱的地理區域)
 	- Melanesia (n)美拉尼西亞，太平洋三大島群之一，意為「黑人群島」
@@ -176,6 +184,7 @@
 
 	- Poland (n)波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole (n)波蘭人
 	- Denmark (n)丹麥 --> Dane (n)丹麥人
+		- Copenhagen (n)哥本哈根，丹麥的首都、最大城市及最大港口。
 	+ Britain /ˈbrɪt(ə)n/ (n)英國 == The island containing England, Wales, and Scotland.
 		- Great Britain (n)大不列顛島
 		- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
@@ -246,9 +255,10 @@
 
 	- Kazakhstan (n)哈薩克，為跨洲國家，地跨歐亞兩洲，主要位於中亞北部
 	- Chechnya /ˌtʃɛtʃˈnjɑː/ (n)車臣共和國，是俄羅斯聯邦北高加索聯邦管區下轄的一個自治共和國
-	- Kremlin (n)克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
 	- Siberia /sʌɪˈbɪərɪə/ (n)西伯利亞，整個地域現屬於俄羅斯，相當於該國領土總面積的75％ --> Siberian /sʌɪˈbɪərɪən/ (adj)
-	- Moscow 莫斯科
+	- Moscow (n)莫斯科
+	- the Kremlin (n)克里姆林宮，俄羅斯首都莫斯科市中央行政區特維爾區的一個建築群，為俄羅斯聯邦政府行政總部所在地及象徵建築
+
 
 [Africa]
 	- the Strait of Gibraltar (n)直布羅陀海峽，位於歐洲與非洲之間，分隔大西洋與地中海的海峽，其名取自伊比利半島南端的直布羅陀

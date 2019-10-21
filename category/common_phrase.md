@@ -176,6 +176,9 @@
 	- Do you mind if we put date night on hold for a few weeks until we get done with this project at work?
 - right off the bat 立刻/馬上 == immediately
 	- You cannot expect to be accepted in a new town right off the bat.
+- right away (adv)馬上 == immediately
+	- I need someone to help me right away.
+	- Right away, I texted him to ask if he had registered on the California Cryobank.
 - round/around the clock 日以繼夜地 == all day and all night
 	- Doctors and nurses worked round the clock to help those injured in the train crash.
 	- She needed round-the-clock nursing.
@@ -257,6 +260,8 @@
 - on par with sth 與..相同 == equal or similar to someone or something
 	- In my opinion, none of the new jazz trumpeters are on a par with Miles Davis.
 	- Global Offensive may be on par with the National Football League’s viewership today.
+- (right) on cue 不出所料 == as if planned to happen exactly at that moment
+	- We were just about to say "I do" when, right on cue, my little cousin started crying.
 - in step with 與..一致 == in agreement with someone or something
 	- She is very much in step with the times.
 	- Gasoline prices rose in step with oil prices.
@@ -372,6 +377,8 @@
 	- Teachers say the raises would bring their salaries into line with other public workers.
 - buck the trend 逆勢而上
 	- This company is the only one to have bucked the trend of a declining industry.
+- call to mind 使人想起
+	- That place just calls my ex-girlfriend to mind.
 - catch sb off guard 使..措手不及
 	- The strength of the storm caught many residents off guard.
 - cop to 承認做了 == to admit to doing (something)
@@ -403,6 +410,8 @@
 	- Fundamentalist beliefs hold sway over whole districts, ensuring the popularity of religious leaders.
 - keep sth straight (in one's mind) 區別/辨別
 	- These two bottles look so much alike. It's hard to keep them straight.
+- lie in wait 埋伏起來
+	- The gunmen were lying in wait when Mr Predit came out of the hotel.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
 	- She made it clear that her comments were strictly off the record.
 - on the run (v)奔逃/躲藏, 忙個不停/奔忙
@@ -594,6 +603,7 @@
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 - fob sb off (on sth) 搪塞/欺騙/騙..接受.. == Deceitfully attempt to satisfy someone by making excuses or giving them something inferior.
 	- I was fobbed off with bland reassurances
+- red tape 繁文縟節 == official rules and processes that seem unnecessary and delay results
 
 ## Approbation
 - well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of
@@ -629,6 +639,8 @@
 - icing on the cake (n)錦上添華 <-- icing (n)裝飾糖霜
 - moral compass (n)道德羅盤 == a natural feeling that makes people know what is right and wrong and how they should behave
 	- Some people believe that the increase in crime shows that society is losing its moral compass.
+- poster child 代表人物形象 == someone or something that is used to represent a particular quality
+	- He is a poster boy for political reform.
 - the ins and outs (n)細節
 	- I know how to use computers, but I don't really understand the ins and outs of how they work.
 - knock-on effect (n)連鎖反應

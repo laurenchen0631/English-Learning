@@ -470,6 +470,7 @@
 		++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)艱難的 = arduous
 		- exactitude (n)精確性/正確性 = fidelity
 		- interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
+		- redact (v)編輯/編寫, 審查 = censor
 		- transact --> transaction
 
 	angur 預示/開始
@@ -1511,6 +1512,7 @@
 			+ disaffected (adj)不滿的 = dissatisfied = discontented <|> unaffected
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
 			- disbandment (n)團體的解散
+			- disbeliever (n)持懷疑態度的人
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
 			+ discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
 			- disconcert
@@ -1691,7 +1693,7 @@
 		+ dictum (n)名言/格言 = adage = aphorism
 		- edict (n)敕令/官方命令
 		- indicate (v)指示/指出/表明, 象徵/暗示
-		+ indict (v)起訴/控告 = accuse = inculpate
+		+ indict (v)起訴/控告 = accuse = inculpate --> indictment (n)起訴書 (mn)控告/告發
 		+ interdict (v)禁止 = prohibit = forbid, 切斷補給
 		+ malediction (n)詛咒 = curse = imprecation <--> benediction
 		+ valedictory (adj)離別的/告別的 --> valediction (n)告別/告別演說 <-- vale 告別 = farewell + dict + ory
@@ -2361,7 +2363,7 @@
 		- infertile (adj)不肥沃的/不毛的, 不育的
 		++ infer (v)推斷/推定 = deduce = deduct = conclude, 猜測 = guess = surmise = sepeculate, 暗示/暗指 = hint = imply = suggest = intimate
 		++ prefer (v)更喜歡/寧願, 提出(控告等) --> preference (n)偏愛/偏袒, 優先
-		*** refer (v)提交/交付, 論及/談到, 查閱/參考, 不及格
+		*** refer (v)提交/交付, [to]論及/談到, 查閱/參考, 不及格
 		- referee (n)裁判員/仲裁者
 		- referral (n)提及, 轉診, 轉診病人 
 		- somniferous
@@ -2556,7 +2558,7 @@
 	foli 樹葉/紙 = leaf, sheet
 		- defoliate (v)使落葉 --> defoliator (n)落葉劑
 		- foliage (n)樹葉
-		*** portfolio (n)公事包, 有價證券, 代表作的選輯, (部長或大臣)職務 <-- port 帶著 = carry + folio
+		*** portfolio (n)文件夾/公事包, 作品集, 投資組合, 產品組合, 部長職/大臣職 <-- port 帶著 = carry + folio
 		- folivore (n)食葉動物 <-- foli + vore 吃..的
 
 	fraud 欺騙 = cheat
@@ -2621,7 +2623,7 @@
 		+ digress (v)離題 --> digression (n)離題/脫軌 = excursion --> digressive (adj)離題的 = discursive
 		++ egress (N)外出, 出口/出路 (v)離開
 		- ingredient (n)成分/原料
-		- progress (n/v)進步/進展 = advance = proceed = boost --> progession (n)進展, 一連串
+		- progress (n/v)進步/進展 = advance = proceed = boost --> progression (n)進展, 一連串
 		- regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的 <|> recessive
 		+ transgress (v)違反/違背, 侵犯/越過 --> transgression (n)違反/違法/罪過
 
@@ -3782,6 +3784,7 @@
 		- misshapen (adj)畸形的/奇形怪狀的
 		- mistake (n)錯誤, 錯誤/不精確 (v)錯看 = be wrong about, [for]認錯
 		- mistaken (adj)錯誤的, 誤解的
+		- mistrust (n/v)不相信/懷疑
 		+ misuse 
 
 	miss, mit, mise 送/放出 = send, give over
@@ -4378,6 +4381,7 @@
 		- outset (n)開始/開頭 = start = beginnning <|> onset
 		- outshine (v)比..更亮, 比...更好
 		- outskirts (n)郊區/郊外
+		- outsmart (v)比……更聰明/智勝
 		- outsource (v)外包/委外
 		- outspoken (adj)直言不諱的 = explict
 		+ outstrip (v)超過 = exceed = excel = surpass = transcend, 比..跑(或游、划等)得快
@@ -4671,6 +4675,7 @@
 		+ prompt
 		++ promulgate (v)頒布法令 = announce officially, 使廣傳/宣傳 = promote <-- pro + mulg 套出消息 = milk + ate
 		- pronounce --> pronounced
+		- propaganda (n)訊息 = information, 政治宣傳/宣傳活動
 		++ propagate (v)繁殖 = multiply = reproduce = increase, 使廣傳 = promulgate = promote, 傳播/傳導 <-- pro + pag 砍/切 + ate
 		- propel --> propulsion
 		+ propensity
@@ -4789,6 +4794,7 @@
 		- privacy (n)清靜, 隱私
 		+ privation (n)缺乏, 貧困/匱乏
 		- privative (adj)匱乏的/缺乏的, 表示缺少的/否定的(字詞) 
+		- privy (adj)[to]私下知道的/知曉(內情)的 (n)廁所
 		+ /ˈprɪvɪlɪdʒ/ privilege (n)特權, 殊榮 (v)給予..特權, 豁免 = exempt
 
 	pur 附近 = around
@@ -5026,7 +5032,8 @@
 		+ /ˈkɒmpɪt(ə)nt/ competent (adj)有能力的/能幹的, 充分的/足夠的 = acceptable = satisfactory, 有法定資格的 <-- compete
 		++ competence, competency (n)能力, 權限, 語言潛意識, 足以過著舒適生活的收入
 		+ empiric (n)庸醫 = quack --> empirical (adj)以經驗為依據的 --> empiricism (n)經驗主義
-		+ perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存
+		+ perpetual (adj)永久的/長期的, 連續不斷的 --> perpetuate (v)使不朽/使永存 <|> perpetrate
+		- self-perpetuating (adj)長存不變的/永續循環的
 		*** /pɪˈtɪʃən/ petition (n/v)請願, 上訴 = appeal --> petitioner (n)請願人
 
 	petri, petro 石頭 = rock, stone
@@ -5088,6 +5095,8 @@
 		+ posit (v)斷定/假定 = put forward = postulate = presume = suggest = predicate, [on]基於 = base = predicate, 安置 = place
 		- position (n)職位, 地位, 地點, 處境, 安置方式, 態度/觀點 = attitude (v)安放/放置, 把(產品)打進市場
 		- positive (adj)肯定的, 正面的/積極的, 確信的/有自信的 = optimistic = confident, 有進展的, 確定的/確實的 = definite = certain, 完全的/十足的 = downright = complete, 正數的, 陽極的, 正片的/正像的, [文]原級的, 陽性的 (n)優點, 正片/正像, 陽性, 正數, 陽極
+		- /pəˈzɛs/ possess (v)擁有, 具有, 附身, 支配
+	    +++ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
 		- poster (n)海報/廣告/布告, 貼文者 (v)張貼
 		* postpone (v)使延期/推遲 <-- post 後 = after + pone
 		* postulate (v)假設/假定 = assume = presume = posit (n)假定/假設, 基本條件要求
@@ -5097,7 +5106,7 @@
 		- proponent (n)提議人/擁護者/倡導者 = exponent <--> opponent
 		*** propose (v)提議/建議, 推薦/提名, 計畫/打算 = intend, 求婚
 		- proposal (n)提案/建議, 求婚 
-		- proposition (n/v)提議/建議 = proposal, 求歡 (n)主張/論點, 命題, 法案/議案, 計畫/想法
+		* proposition (n/v)提議/建議 = proposal, 求歡 (n)主張/論點, 命題, 法案/議案, 計畫/想法
 		- purpose
 		+ repose (n)休息/睡眠 = recess = respite, 安詳/安靜/靜止 = peacefulness = tranquility, [藝術]恬靜感/和諧 (v)被安放/座落, 躺著休息/安睡, [in]寄託於
 		- superimpose (v)加在上面/把……放置在上面重疊
@@ -5108,6 +5117,7 @@
 	potent 力量 = power
 		+ impotent
 		** /ˈpəʊt(ə)nt/ potent (adj)有權勢的/有影響的/有效的 = puissant = mighty <|> portent
+		* potency (n)力量/潛力, 濃度/強度, 性能力
 		- potentate (n)統治者/當權者 = monarch = ruler = sovereign
 		- potential (adj)潛在的/有可能性的 (n)潛力/潛能, 電勢/電位
 		- /pəʊˈtɛnʃɪeɪt/ potentiate (v)使成為可能
@@ -5145,6 +5155,7 @@
 		* approval (n)批准/認可, 相信/信任
 		+ approbation (n)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
 		+ disprove (v)證明為假/駁倒 = discredit = negate = rebut --> disproof (n)反證, 證明為假
+		- provably (adv)可被證明地
 		++ reprobate (adj)邪惡的/無賴的/不講道德的 = shameless = unprincipled (n)無賴/惡棍
 		- reprove (v)責罵/申斥 = censure = reprimand --> reproof (n)斥責/責備 = rebuke
 		- probation (n)試用, 緩刑 --> probationer (n)試用人員, 緩刑中的犯人
@@ -5176,7 +5187,7 @@
 		- hexapod (n)有六足的節肢動物
 		+ impede (v)妨礙/阻礙 = hinder = block = encumber = hamper = obstruct = inhibit = deter
 		+ impediment (n)[to]妨礙/阻礙物, 語言障礙/說話障礙
-		- pedal (n)踏板, 腳蹬 (v)踩……的踏板/騎腳踏車 (adj)足的, 腳踏的 <|> peddle
+		- pedal (n)踏板/腳蹬, 腳煞車, 腳踏鍵, 踏板, 踏板點 (v)踩……的踏板, 騎, 踩踏板, 踩腳踏鍵 (adj)足的 <|> peddle
 		- /ˈpɛdɪst(ə)l/ pedestal (n)基座/臺座 = base = foundation, 作為偶像崇拜的顯要地位 (v)把……放在臺座上
 		+ /pɪˈdɛstrɪən/ pedestrian (n)行人/步行者 (adj)平淡的/沉悶的 = unimaginative
 		++ peddle (v)兜售/叫賣, 銷贓/違法販售, 提倡 = promote --> peddler (n)小販 = huckster, 毒販/銷贓者, 提倡者/傳播者
@@ -5421,6 +5432,7 @@
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
+		*  quiet (adj)安靜的, 寧靜的, 不被打擾的, 秘密的, 溫和的, 保守的, 不醒目的 (n)安靜, 不被打擾, 安穩 (v)安靜
 		+ /kwɪˈɛsənt/ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
 		- quietude (n)寧靜/寂靜 = clam
 		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 = discompose (n)不安/憂慮
@@ -5451,6 +5463,7 @@
 		+ /bɪˈkwiːð/ bequeath (v)遺贈, 傳下/留下 --> bequest (n)遺產 = legacy, 傳下/留下
 		+ inquest (n)審訊/審理, 私下調查 <-- inquire
 		- quest (v)搜尋/探求 = search for = seek out (n)尋找/探索 = pursuit
+		- questionnaire (n)問卷/調查表
 
 [R]
 	re, r, red
@@ -5492,7 +5505,7 @@
 			+ refine (v)提煉/精鍊 --> refined (adj)精製的, 有教養的/文雅的 = polished = fine = cultured = elegant, 精細的/完善的/精妙的 = subtle = precise = exact
 			- refinery (n)提煉場/精鍊場
 			- reform (v)改革/革新, 使改邪歸正 (mn)改革/改良
-			- refrain (v)避免/忍住 = restrain = avoid = forbear (n)反覆句/疊句/副歌 <-- re + frain 籠頭 = bridle
+			- refrain (v)忍住/抑止 = restrain = avoid = forbear (n)疊句, 副歌, 口頭禪 <-- re + frain 籠頭 = bridle
 			- refresh (v)消除……疲勞/使精神振作 = reinvigorate, 更新/修正 = revise = update, 冰鎮
 			+ refreshment (n)茶點/便餐 (mn)恢復活力
 			+ refulgent
@@ -5712,7 +5725,7 @@
 	radic 根
 		+ eradicate (v)根除/消滅 = extirpate = annihilate = exterminate
 		- ineradicable (adj)無法根除的
-		+++ radical (adj)根本的/基本的, 與生俱來的, 極端的/激進的, 根的 (n)基本原理, 激進分子, 根式/根號
+		+++ radical (adj)徹底的 = far-reaching = thorough, 根本的/基本的 = fundamental, 極端的/激進的, 創新的 = innovative, 字根的, 開根號的, 根生的, 出色的 = excellent (n)化學基, 激進份子, 字根/偏旁, 開根數, 根號 = radical sign
 		- radicalize (v)使激進/使偏激
 		- radix (n)(數學)根, (植物)根
 
@@ -5892,6 +5905,7 @@
 			+ supplement
 			+ supplicate --> suppliant, supplicant
 			+ suppress --> suppression
+			- surreal (adj)超現實的/荒誕不經的 = bizarre
 			+ surrender (v)投降, 放棄/交回 = give up = hand over, [to]使沉溺於(情緒) (n)投降, 引渡
 			+ surreptitious
 			- suspend --> suspension --> suspense
@@ -6634,6 +6648,7 @@
 			+ attract (v)吸引/招引, 引起 = evoke --> attractive (adj)有吸引力的/令人感興趣的
 			++ contract (n)合約 (v)減少/縮短, (肌肉)收縮, 簽合約 = stipulate, [out]發包, 訂婚, 發展(關係), 感染, 能償還(債)
 			* contraction (n)收縮, 痙攣/子宮收縮
+			- contractor (n)承包人/承包商
 			++ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心/轉移 = distract = divert --> detraction (n)貶低/輕視 --> detractor (n)貶低者
 			+ distract (v)干擾 = interfere = disturb, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
