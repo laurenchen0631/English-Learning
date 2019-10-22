@@ -20,6 +20,9 @@
 	- 在下面地 |At a lower level or layer.| upper layers can be removed to reveal internal parts beneath
 	- 在後面地 |Hidden behind an appearance.| the smile revealed the evil beneath
 + below
++ sideways (adj/adv)向/從旁邊, 間接, 非傳統的
+	- she tilted her body sideways
+	- he came into politics sideways, as campaign manager for Ronald Reagan
 
 ## Time
 - beforehand (adv)事前地 == in advance
@@ -38,6 +41,7 @@
 + jointly (adv)共同地 == together
 + respectively (adv)分別地/各自地
 - uncharacteristically (adv)不典型地/非同尋常地
++ squarely (adv)直接地 == Directly, without deviating to one side.| Ashley looked at him squarely
 
 ## List
 - besides == apart from == as well 除..之外

@@ -2,6 +2,7 @@
 	- knowledge economy (n)知識經濟
 	- brain drain (n)人才流失
 	- bestseller (n)暢銷商品 == a product that is extremely popular and has sold in very large numbers
+	- curriculum vitae /kʌˈrɪkjʊləm ˈviːtʌɪ/ == CV (n)簡歷(CV的篇幅會比Resume長上許多，通常會超過二頁)
 	- glass ceilings (n)玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
 	- list price (n)建議售價
 	- voucher (n)折價券, 證據, 保證人
@@ -48,7 +49,9 @@
 	- sidekick (n)助手 == A person`s assistant or close associate, especially one who has less authority than that person.
 	- aide-de-camp /ˌeɪddəˈkɒ̃/ (n)副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
 	- attachés /əˈtaʃeɪ/ (n)專員 == A person on the staff of an ambassador having a specialized area of responsibility.
-	- pencil pusher 機關辦事員/文書 == a person who has an office job that is not interesting
+	- pencil pusher (n)機關辦事員/文書 == a person who has an office job that is not interesting
+	- chancellor (n)大臣/總理, 大法官, 大學校長
+	- dean (n)司祭長/教長, 學院院長
 
 	- personnel (n)人員, 人事部門
 		> 人員 |People employed in an organization or engaged in an organized undertaking such as military service.| ‘many of the personnel involved require training
@@ -62,6 +65,7 @@
 	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- cottage industry (n)家庭代工
 	- fire marshal (n)消防員, 消防署署長/消防隊長
+    - homemaker (n)主婦
 	
 	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
@@ -159,6 +163,7 @@
 		> |Convey (a property) to a creditor as security on a loan.| the estate was mortgaged up to the hilt
 		> 抵押借款 |The amount of money borrowed in a mortgage.|
 	- real estate 房地產
+	- realtor (n)房地產經紀人
 	- real estate investment trusts 不動產投資信託
 	- hedge fund 避險基金，又稱對沖基金或套利基金
 	- capex == Capital expenditure 資本支出
@@ -444,7 +449,7 @@
 		> 私家偵探/狗仔 |A person who furtively tries to find out information about someone`s private affairs.| I start talking without admitting that I`m a professional snoop
 	- narc, nark 緝查毒品的刑警 == An official narcotics agent.
 	- treason (n)叛國罪, 背叛/不忠 --> treasonable (adj)背叛的/叛國的
-
+	- mail and wire fraud (n)郵件欺詐和電匯欺詐
 
 [Army/Military]
 	- captain
@@ -1738,6 +1743,7 @@
 	- Dr. Seuss (n)蘇斯博士為筆名。是美國著名的作家及漫畫家，以兒童繪本最出名
 	- Dolch list (n)由Edward William Dolch編輯的常用英語單詞列表
 	- Federal Pell Grants (n)聯邦培爾助學金
+    - yearbook (n)年鑑/年報, 畢業紀念冊
 
 [Political]
 	- Attorney General (n)美國司法部長
@@ -2033,6 +2039,10 @@
 	- maze /meɪz/ (n)迷宮, 困惑/混亂 <--> maize /meɪz/
 
 [Sport]
+	- Division I (n)NCAA第一級別，是美國國家大學體育協會校際體育賽事的最高級別，與第二、第三級別學校相比，第一級別學校在預算、設施、體育獎學金等各方面都更有優勢
+	- Division III (n)NCAA三級，國全國大學體育協會的一個部門，包括在大學和大學的運動項目，選擇不向學生運動員提供體育獎學
+	- the Big West Conference (n)大西部聯盟，美國大學體育會議，其成員機構參加全國大學體育協會的第一分部
+
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- vaulter (n)撐竿跳選手
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
@@ -2139,6 +2149,8 @@
 	- carousel /ˌkarəˈsɛl/ (n)旋轉木馬 = merry-go-round, 行李傳送帶
 	- seesaw (n)蹺蹺板 (v)上下來回搖動
 	- clown /klaʊn/ (n)小丑/丑角
+    - pastime (n)消遣/娛樂 = hobby
+	- skydive (v)跳傘
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel

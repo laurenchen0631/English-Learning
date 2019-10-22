@@ -233,6 +233,9 @@
 		> International companies are all too often blind to local needs.
 	- blow
 	- blow away sb
+	- blow up (v)(暴風雨)開始, 勃然大怒
+		- (暴風雨)開始 |begins|
+		- 勃然大怒 |to suddenly become very angry| My dad blew up (at me) when he saw the bill.
 	- blown-up (adj)炸毀的, 擴大的 = enlarged, 膨脹的 = inflated = swollen
 		> 炸毀的 |Destroyed or severely damaged by an explosion.| blown-up buildings
 		> 擴大的 |Enlarged.| a blown-up photograph
@@ -1954,6 +1957,9 @@
 	- occupy
 	- occupy sb with sth (v)使...忙於... == To keep oneself or someone else busy or distracted with some activity or thing.
 		> Dan`s occupying the kids with a bug hunt in the back yard.
+	- occur to sb (v)讓...想到..
+		- The thought of giving up never occurred to me.
+		- It suddenly occurred to her that Joe was afraid of being alone.
 	+ oblige (v)使負有義務, 答應...的請求, 使感激
 		> 使負有義務 |Make (someone) legally or morally bound to do something.| doctors are obliged by law to keep patients alive while there is a chance of recovery
 		> 答應...的請求 |Do as (someone) asks or desires in order to help or please them.| oblige me by not being sorry for yourself
@@ -2528,9 +2534,7 @@
 	
 [S]
 	- say -> said -> said
-	+ said 上述的 == Used in legal language or humorously to refer to someone or something already mentioned or named.
-		> acting in pursuance of the said agreement
-	- saw -> sawed -> sawed/sawn
+	- saw -> sawed -> sawed/sawn (n)鋸子/鋸條, 電鋸, 鋸齒狀部, 格言/諺語 (v)鋸, 用鋸子做成, 不整齊地切, 拉
 		> 鋸子/鋸條 |A hand tool for cutting wood or other hard materials, typically with a long, thin serrated blade and operated using a backwards and forwards movement.|
 		> 電鋸 |A mechanical power-driven tool for cutting which has a toothed rotating disc or moving band.|
 		> 鋸齒狀部 |A serrated organ or part, such as the toothed snout of a sawfish.|
@@ -2540,106 +2544,71 @@
 		> 拉 |Make rapid sawlike motions in cutting, or in playing a stringed instrument.| he was sawing away energetically at the loaf
 		> 格言/諺語 |A proverb or maxim.|
 	+ spread -> spread -> spread
-	- spread out 散開
+	- spread out (v)散開
 		- They spread out to search the whole area.
-	- see for oneself 親身體驗/親眼見識 == To see or experience something firsthand as a means of proving to oneself that it is true or accurate.
-		> I couldn not believe that his car could actually park automatically, so I had to go over and see for myself.
 	+ seal /siːl/ (n)封條, 浮水印, 封蠟/印章, 圖章, 誓約/象徵, 海豹 (v)封/密封, 護貝, 快速高溫油炸, 確定/決定, 蓋章/蓋印於
 	+ set -> set -> set
-	- set sth aside == to save something, usually money or time, for a special purpose
-		> More than 809,000 hectares were set aside eight years later to preserve the Yellowstone River`s source, known for geyser and hot springs.
-	+ set off
+	- set sth aside (v)撥出/留出, 撤銷/駁回, 忘卻/不計較, 把…擱在一邊/暫緩處理
+		- He had some money in an account that he had set aside for his kids.
+		- I set aside half an hour every evening to hear Erik read.
+		- The Court of Appeal set aside his conviction.
+		- In times of war people tend to set aside political differences.
+		- Setting aside the question of cost, what do you think of the idea in principle?
+	+ set off (v)啟程, 啟動, 使爆炸, 導致...發生, 使..看起來吸引人
 		> 啟程 |to start a journey, or to start going in a particular direction| We set off early the next morning.
 		> 啟動 |to cause something to operate, especially by accident| Jeff pushed open the front door, which set off the alarm.
 		> 使爆炸 |to make something explode| Somebody was setting off fireworks down the street.
 		> 導致...發生 |to cause a situation or a series of events to happen, especially without intending to| He fears that the election could set off mass protests.
 		> 使..看起來吸引人 |to make someone or something look more attractive by being clearly different from them| Her plain blue dress was set off by a feather-trimmed hat.
 		> |to make someone start to laugh, cry, or talk a lot| Just mentioning her father’s death could set her off again.
-	+ set about 開始/處理 == to start to do or deal with something
+	+ set about (v)開始/處理 == to start to do or deal with something
 		> I have no idea how to set about changing a tyre on a car.
 		> I tried to apologize, but I think I set about it the wrong way.
-	- set out 發出/啟程 == to start an activity with a particular aim
+	- set out (v)發出/啟程 == to start an activity with a particular aim
 		> She set out with the aim of becoming the youngest ever winner of the championship.
 		> They set out to discover a cure for cancer.
 		> At 1:08 the flight crossed the Malaysian coastline and set out across the South China Sea in the direction of Vietnam.
-	+ set sb up
+	+ set sb up (v)爲..安置職位/使就職, 資助, 使精力充沛/使健康, 陷害/栽贓
 		> 爲..安置職位/使就職 |to establish someone or yourself in a business or position| After he left college, his father set him up in the family business.
 		> 資助 |to provide the money that someone needs for an important task or activity that is expected to last a long time| Winning the lottery has set them up for life.
 		> 使精力充沛/使健康 |to provide someone with the energy or health that you need for a particular period of time| A good breakfast really sets you up for the day.
 		> 陷害/栽贓 |frame; to trick someone in order to make them do something, or in order to make someone seem guilty of something that they have not done| They claimed that they weren`t selling drugs, but that they`d been set up by the police.
-	- set down 寫下/記下 == to write or print words, ideas, or information:
+	- set down (v)寫下/記下 == to write or print words, ideas, or information:
 		> It’s often a lot of work to set your thoughts down on paper.
-	- set forth 解釋/闡明 == to explain ideas, or make rules or suggestions:
+	- set forth (v)解釋/闡明 == to explain ideas, or make rules or suggestions:
 		> She set forth her views in "The Art of Making Dance."
 		> The board set forth the conditions for her release.
-	+ setback 挫折/障礙 == something that happens that delays or prevents a process from developing
-	- self -> selves
+	- self -> selves (n)自我, [one`s self]本性, 自己的利益, 自己, 本人
 		> 自我 |A person`s essential being that distinguishes them from others, especially considered as the object of introspection or reflexive action.| ur alienation from our true selves
 		> one`s self 本性 |One`s particular nature or personality; the qualities that make one individual or unique.| by the end of the round he was back to his old self
 		> 自己的利益 |to love in an unpossessive way implies the total surrender of self|
 		> 自己 |Used ironically to refer to oneself or someone else.| an article with a picture of my good self
 		> 本人 |Used on counterfoils, cheques, and other papers to refer to the holder or person who has signed| the uppermost counterfoil was marked ‘Self’
-	- sew -> sewed -> sewn
+	- sew -> sewed -> sewn (v)縫合/縫補, 縫上, 縫製
 		> 縫合/縫補 |Join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.| she sewed the seams and hemmed the border
 		> 縫上 |Attach (something) to something else by sewing.| she could sew the veil on properly in the morning
 		> 縫製 |Make (a garment)` by sewing.| the two sisters sewed their own dresses
-	- sexist /ˈsɛksɪst/ (adj)性別歧視的 (n)有性別歧視的人
-	- sexuality
-		> 性能力 |Capacity for sexual feelings.| she began to understand the power of her sexuality
-		> 性傾向 |A person`s sexual orientation or preference.| people with proscribed sexualities
-		> 性行為 |Sexual activity.| sexuality within holy matrimony was only justified as a necessary part of reproduction
-	- shaky
-		> 顫抖的 |Shaking or trembling.| he managed a shaky laugg
-		> 不牢固的 |Unstable because of poor construction or heavy use.| a cracked, dangerously shaky table
-		> 不牢靠的/不安全的 |Not safe or reliable; liable to fail or falter.| thoroughly shaky evidence
-	- shatter
+	- shatter (v)打碎/粉碎, 粉碎, 使心煩意亂
 		> 打碎/粉碎 |Break or cause to break suddenly and violently into pieces.| bullets riddled the bar top, glasses shattered, bottles exploded
 		> 粉碎 |Damage or destroy (something abstract)| the crisis will shatter their confidence
 		> 使心煩意亂 |Upset (someone) greatly.| everyone was shattered by the news
-	+ stay off 遠離/避免/避開
+	+ stay off (v)遠離/避免/避開
 		> The best advice is to stay off alcohol altogether.
 		> My main concern was to stay off the subject of religion.
 		> We decided to stay off the motorway.
-	- stop
-	- stop Ving
-		> Death occurs when an organism stops functioning energetically enough to protect itself from these kinds of threats.
-	- serve
-		> |Perform duties or services for (another person or an organization)| Malcolm has served the church very faithfully
-		> |Present (food or drink) to someone.| they serve wine instead of beer
-		> |(of food or drink) be enough for.| the recipe serves four people
-		> Law |Deliver (a document such as a summons or writ) in a formal manner to the person to whom it is addressed.| the court then issues the summons and serves it on your debtor
-		> |Be of use in achieving or satisfying.| this book will serve a useful purpose
-	* sever -> severed 切斷 == Divide by cutting or slicing, especially suddenly and forcibly.
-	- supply
-		> |provide; furnish; equip| the farm supplies apples to cider makers
-		> |A stock or amount of something supplied or available for use.| the demand for tickets greatly exceeds the supply
-		> |A person, especially a schoolteacher, acting as a temporary substitute for another.| a supply teache
-
-	- suffer 
-	+ substantial
+	+ substantial (adj)可觀的/相當的, 堅固的/結實的, 大量的/豐盛的, 富裕的, 真實的/實在的, 基本的
 		> 可觀的/顯著的 |Of considerable importance, size, or worth| a substantial amount of cash
 		> 堅固的/結實的 |Strongly built or made.| a row of substantial Victorian villas
 		> 大量的/豐盛的 |(of a meal) large and filling.| breakfast is a substantial buffet
 		> 富裕的 |Important in material or social terms; wealthy.| a substantial Devon family
 		> 基本上的 |Concerning the essentials of something.| there was substantial agreement on changing policies
 		> 真實的/實在的 |Real and tangible rather than imaginary.| spirits are shadowy, human beings substantia
-	- scale back 縮減
+	- scale back (v)縮減
 		- Sid will have to scale back his plans.
-	- scare sth/sb off/away 把..嚇走
+	- scare sth/sb off/away (v)把..嚇走
 		- If you charge as much as that, you will scare customers off.
-	- school
-		> |An institution for educating children.| 
-		> |Any institution at which instruction is given in a particular discipline.| a dancing school
-		> |A group of people, particularly writers, artists, or philosophers, sharing similar ideas or methods.| the Frankfurt school of critical theory
-		> |A style, approach, or method of a specified character.| film-makers are tired of the skin-deep school of cinema
-		> V |Send to school; educate.| Taverier was born in Paris and schooled in Lyon
-		> |Train (a horse) on the flat or over fences.| if you have schooled your horse properly, your riding will look better
-	* scoff
-		> 嘲弄/嗤之以鼻 |Speak to someone or about something in a scornfully derisive or mocking way.| Patrick professed to scoff at soppy love scenes in films
-		> |An expression of scornful derision.| scoffs of disbelief
-		> 貪婪地吃/狼吞虎嚥 |Eat (something) quickly and greedily.| he can scoff a cannelloni faster than you can drink a pint
-		> 食物 |Food.| ice cream was seen as suitable scoff to keep the under-tens quiet
-	+ score
+	- school (n)學校, 全校學生/全校師生, [非]大學, 學院/系, 學派/流派, (水族)一群 (mn)上課 (v)教育/訓練, 成群
+	+ score (n)分數, 得分, 成績, 非法獲益, 情況/處境, 二十, 總譜, 配樂, 刻痕/凹痕 (v)得分, 給……打分, 得(分), 得手 把……寫成總譜, 配樂 刻痕於/做記號於, 劃掉
 		> 分數 |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
 		> 得分 |An act of gaining a goal or point in a game.|
 		> 得分 |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
@@ -2657,29 +2626,17 @@
 		> 刻痕/凹痕 |A notch or line cut or scratched into a surface.| check the shaft for scratches and scores
 		> 刻痕於/做記號於 |Cut or scratch a notch or line on (a surface)| score the card until you cut through
 		> 劃掉 |Delete text by drawing a line through it.|
-	- scores of 大量的 == A large number of something.
-		> he sent scores of enthusiastic letters to friends
-	* scour
-		> 擦亮 |Clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent.| she scoured the cooker
-		> 擦亮 |An act of rubbing something hard to clean or brighten it.| give the floor a good scour
-		> 擦除 |Remove (dirt or unwanted matter) by scouring.| use an electric toothbrush to scour off plaque
-		> 沖刷 |(of water or a watercourse) make (a channel or pool) by flowing quickly over something and removing soil or rock.| a stream came crashing through a narrow cavern to scour out a round pool below
-		> 沖刷 |The action of scouring or the state of being scoured, especially by swift-flowing water.| ‘the scour of the tide may cause lateral erosion
-		> 家畜腹瀉 |(of livestock) suffer from diarrhoea.| he went out to deal with piglets who were scouring
-		> 家畜腹瀉 |scours|
-		> 搜索 |Subject (a place, text, etc.) to a thorough search in order to locate something.| David scoured each newspaper for an article on the murder
-		> 極速穿過 |Move rapidly in a particular direction, especially in search or pursuit of someone or something.| he scoured up the ladder
-	+ scenario /sɪˈnɑːrɪəʊ/
+	+ scenario /sɪˈnɑːrɪəʊ/ (n)情節/劇本, 事態/局面, 背景設定
 		> 情節/劇本 |A written outline of a film, novel, or stage work giving details of the plot and individual scenes.| the scenarios for four short stories
 		> 事態/局面 |A postulated sequence or development of events.| a possible scenario is that he was attacked after opening the front door 
 		> 背景設定 |A setting, in particular for a work of art or literature.| the scenario is World War Two
-	+ scheme /skiːm/ <--> skin /skiːn/
+	+ scheme /skiːm/ (n)計畫/結構/體制, 陰謀/秘密計畫, 系統 (v)密謀, 按照配色排列 <--> skin /skiːn/
 		> 計畫/結構/體制 |A large-scale systematic plan or arrangement for attaining some particular object or putting a particular idea into effect.| the occupational sick pay scheme
 		> 陰謀/秘密計畫 |A secret or underhand plan; a plot.| police uncovered a scheme to steal paintings worth more than $250,000
 		> 密謀 |Make plans, especially in a devious way or with intent to do something illegal or wrong.| he schemed to bring about the collapse of the government
 		> 系統 |A particular ordered system or arrangement.| a classical rhyme scheme
 		> 按照配色排列 |Arrange according to a colour scheme.| she was busy arranging flowers, scheming the candles and napkins
-	- scrape
+	- scrape (v)刮/擦, 把..刮掉, 用..刮, 挖出/刨出, 擦傷, 刮擦……使發出刺耳聲, 發出刺耳聲, 亂拉(小提琴), 勉強擠過, 勉強成功, 設法達到, 節省, 爬(資料) (n)凹洞, 擦傷/擦痕, 刮擦聲, 困境/窘境
 		> 刮/擦 |Drag or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter.| remove the green tops from the carrots and scrape them
 		> 把..刮掉 |Use a sharp or hard implement to remove (dirt or unwanted matter) from something.| she scraped the mud off her shoes
 		> 用..刮 |Apply (a hard or sharp implement) to a surface so as to remove dirt or other matter.| he scraped the long-bladed razor across the stubble on his cheek
@@ -2691,21 +2648,21 @@
 		> 發出刺耳聲 |Move with or make a harsh scraping sound.| she lifted the gate to prevent it scraping along the ground
 		> 刮擦聲 |An act or sound of scraping.| he heard the scrape of his mother`s key in the lock
 		> 亂拉 |Play a violin tunelessly.| Olivia was scraping away at her violin
-		> 勉強通過 |Narrowly pass by or through something.| there was only just room to scrape through between the tree and the edge of the stream
+		> 勉強擠過 |Narrowly pass by or through something.| there was only just room to scrape through between the tree and the edge of the stream
 		> 勉強成功 |Barely manage to succeed in a particular undertaking.| Bowden scraped in with 180 votes at the last election
 		> 設法達到 |Just manage to achieve; accomplish with great effort or difficulty.| Scotland scraped a lucky home draw with Portugal
 		> 節省 |Try to save as much money as possible; economize.| they had scrimped and scraped and saved for years
 		> 爬(資料) |Copy (data) from a website using a computer program.| all search engines scrape content from sites without permission and display it on their own sites| ringed plovers incubate eggs in shallow scrapes
 		> |A procedure of dilatation of the cervix and curettage of the uterus.|
 		> 困境/窘境 |An embarrassing or difficult predicament caused by one`s own unwise behaviour.| he`d been in worse scrapes than this before now
-	- scrape sth back == Draw one`s hair tightly back off the forehead.
+	- scrape sth back (v)整理(頭髮) == Draw one`s hair tightly back off the forehead.
 		> her hair was scraped back into a bun
-	- scrape sth together/up 蒐集 == Collect or accumulate something with difficulty.
+	- scrape sth together/up (v)蒐集 == Collect or accumulate something with difficulty.
 		> they could hardly scrape up enough money for one ticket, let alone two
-	- scrape by/along 勉強維持生計 == Manage to live with difficulty.
-		> she has to scrape by on Social Security
-	- screening (n)電影放映, 評估/檢查, 殘渣/碎屑
-	+ screw
+	- scrape by/along (v)勉強維持生計 == Manage to live with difficulty.
+		> she has to scrape by on Social Security 
+	- scrap paper (n)(已用過的寫便條用的)廢紙
+	+ screw (n)螺絲, 螺栓, 螺旋槳, 轉/擰, 監獄看守人, 性關係, 性伴侶 (v)用螺絲固定, 旋/擰, 被螺絲固定, 與..發生性關係, 敲詐, 身處嚴重的問題/有麻煩
 		> 螺絲 |A short, slender, sharp-pointed metal pin with a raised helical thread running round it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.|
 		> 螺栓 |A cylinder with a helical ridge or thread running round the outside (a male screw) that can be turned to seal an opening, apply pressure, adjust position, etc., especially one fitting into a corresponding internally grooved or threaded piece (a female screw).|
 		> 用螺絲固定 |Fasten or tighten with a screw or screws.| screw the hinge to your new door
@@ -2714,29 +2671,21 @@
 		> 螺旋槳 |A ship`s or aircraft`s propeller (considered as acting like a screw in moving through water or air).|
 		> 轉/擰 |An act of turning a screw or other object having a thread.|
 		> 監獄看守人 |A prisoner`s derogatory term for a warder.| she was frightened by the look of the screws
-		> 發生性關係 |An act of sexual intercourse.|
+		> 性關係 |An act of sexual intercourse.|
 		> 性伴侶 |A sexual partner of a specified ability.|
 		> 與..發生性關係 |Have sexual intercourse with.|
 		> 敲詐 |Cheat or swindle (someone), especially by charging them too much for something.| the loss of advertising contracts will amount to more than the few quid that they`re trying to screw us for
 		> 身處嚴重的問題/有麻煩 |Be in serious trouble.| if you`re colour-blind, you`re screwed
 		> |Used to express anger or contempt.| I saw red and thought, ‘Screw you!’
 		> |Impart spin or curl to (a ball or shot)| Collins had a late chance to equalize but screwed his shot wide
-	- screw sth around/round 轉頭/轉身 == Turn one`s head or body round sharply
+	- screw sth around/round (v)轉頭/轉身 == Turn one`s head or body round sharply
 		> he screwed his head round to try to find the enemy
-	- screw sth out of 逼...交出/向...勒索 == Extort or force something, especially money, from (someone) by putting them under strong pressure.
+	- screw sth out of (v)逼...交出/向...勒索 == Extort or force something, especially money, from (someone) by putting them under strong pressure.
 		> your grandmother screwed cash out of him for ten years
-	- sense
-	- still
-	- stress
 	- seek -> sought -> sought
-	- seek sb/sth out == to look for someone or something, especially for a long time until you find him, her, or it:
+	- seek sb/sth out (v)費時地找出 == to look for someone or something, especially for a long time until you find him, her, or it
 		> While he was at the library, Steve decided to seek out some information on the history of the area.
-	+ sentiment
-		> 觀點/看法 |A view or opinion that is held or expressed.| I agree with your sentiments regarding the road bridge
-		> 感覺/意見 |General feeling or opinion.| public sentiment was on the side of reform
-		> 感覺/感情 |A feeling or emotion.| an intense sentiment of horro
-		> 多愁善感 |Exaggerated and self-indulgent feelings of tenderness, sadness, or nostalgia.| many of the appeals rely on treacly sentiment
-	+ settle 
+	+ settle (v)解決/協定, 結束(法律爭論), 決定, 勉強接受, 付, 安頓, 居住, 移居, [down to]轉移注意力到, 鎮定/平息, 使閉嘴, 坐下/休息, 使舒服, 安放/安置, (雪)落下, 沈澱, 沈 (n)長椅
 		> 解決/協定 |Resolve or reach an agreement about (an argument or problem)| the unions have settled their year-long dispute with Hollywood producers
 		> 結束 |End (a legal dispute) by mutual agreement.| if the dispute was not settled it was possible there would be strike action
 		> 決定 |Reach a decision about; determine.| exactly what goes into the legislation has not been settled
@@ -2755,7 +2704,7 @@
 		> 沈澱 |(of suspended particles) sink slowly in a liquid to form sediment.|
 		> 沈 |(of an object or objects) gradually sink down under its or their own weight.| they listened to the soft ticking and creaking as the house settled
 		> 長椅 |A wooden bench with a high back and arms, typically incorporating a box under the seat.|
-	+ settlement
+	+ settlement (n)解決, 新殖民地/新拓居地, 殖民/拓居, 財產授與, 授與的財產, 清算/結帳, 沈降
 		> 解決 |An official agreement intended to resolve a dispute or conflict.| unions succeeded in reaching a pay settlement
 		> 新殖民地/新拓居地 |A place, typically one which has previously been uninhabited, where people establish a community.| one of the oldest Viking settlements in western Europe
 		> 殖民/拓居 |The process of establishing a settlement or settlements.|
@@ -2763,31 +2712,22 @@
 		> 授與的財產 |The property given under a settlement.|
 		> 清算/結帳 |The action or process of settling an account.|
 		> 沈降 |Subsidence of the ground or a structure built on it.| a boundary wall, which has cracked due to settlement, is to be replaced
-	- succession
-		> |A number of people or things of a similar kind following one after the other| government ministers gathered in adjoining rooms, peering through a succession of open doors arranged en enfilade.
-		> | The action or process of inheriting a title, office, property, etc.| this tradition held true through to the 20th century, especially for babies high in the line of succession to the throne.
-	+ so-called 所謂的 == used to introduce a new word or phrase that is not yet known by many people
-		> It was one of his so-called friends who supplied him with the drugs that killed him.
-		> It is not yet clear how dangerous these so-called "super-rats" are.
-	- somewhat 有點/稍微 == To a moderate extent or by a moderate amount; rather. 
-	* somewhat of == something of 
-		> How the human eye perceives color has remained somewhat of a mystery.
 	- soak
-	- soak sth up
+	- soak sth up (v)吸收/吸掉, 盡情享受/充分體驗, 吸取/吸收(資訊), 用完/耗盡
 		> 吸收/吸掉 |If a dry material or substance soaks up a liquid, it absorbs the liquid through its surface.| I tried to soak up most of the spilled milk with a dishcloth.
 		> 盡情享受/充分體驗 | to enjoy the effects or experience of something as much as possible| I love to lie on the beach and soak up the sun.
 		> 吸取/吸收 |to understand and remember information well| Given the right environment, children are like sponges and will soak up information.
 		> 用完/耗盡 |The repairs on our house soaked up all our savings.|
 	- sort
-	- sort sth out 成功解決
+	- sort sth out (v)成功解決
 		- We have sorted out the computer system`s initial problems.
 		- It will be difficult to sort out how much each person owes.
 		- Most of the job involves sorting out customers who have queries.
-	+ sound
+	+ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
 		> 聲音 |Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.| light travels faster than sound
 		> 發出聲音 |Emit or cause to emit sound.| she sounded the horn
 		> 發出 |Express or convey (a warning)| pharmaceutical companies are sounding the alarm about counterfeit drugs
-		> |Music, speech, and sound effects when recorded and used to accompany a film, video, or broadcast.| a sound studio
+		> 錄音 |Music, speech, and sound effects when recorded and used to accompany a film, video, or broadcast.| a sound studio
 		> 感覺/印象 |An idea or impression conveyed by words.| you have had a hard day, by the sound of it
 		> 聽起來/似乎 |Convey a specified impression when heard.| he sounded worried
 		> 健全的/完好的 |In good condition; not damaged, injured, or diseased.|
@@ -2798,23 +2738,10 @@
 		> 測水深 |Ascertain (the depth of water in the sea, a lake, or a river), typically by means of a line or pole or using sound echoes.|
 		> 試探/打聽 |Question (someone) discreetly or cautiously so as to ascertain their opinions on a subject.|
 		> 海口/河口 |A narrow stretch of water forming an inlet or connecting two wider areas of water such as two seas or a sea and a lake|
-	- sting
-		> 刺 |A small sharp-pointed organ at the end of the abdomen of bees, wasps, ants, and scorpions, capable of inflicting a painful or dangerous wound by injecting poison.|
-		> 刺/叮 |Wound or pierce with a sting.| he was stung by a jellyfish
-		> 螫 |Any of a number of minute hairs or other organs of plants, jellyfishes, etc., which inject a poisonous or irritating fluid when touched.| a nettle-like plant with no sting
-		> 被叮的傷口 |A wound from a sting.| a wasp or bee sting
-		> 刺痛 |A sharp tingling or burning pain or sensation.| she felt the sharp sting of tears behind her eyelids
-		> 刺痛 |Feel or cause to feel a sharp tingling or burning pain or sensation.| her eyes stung as if she might cry again
-		> 刺痛/傷害 |A hurtful quality or effect.| I recalled the sting of his betrayal
-		> 刺痛/傷害 |(typically of something said) hurt or upset (someone)| stung by her mockery, Frank hung his head
-		> 行動 |A carefully planned operation, typically one involving deception.| five blackmailers were jailed last week after they were snared in a police sting
-		> 敲詐 |Swindle or exorbitantly overcharge (someone)| I had to buy some boxer shorts at the last minute and got stung for £42.50!
-		> If someone brought in a busted iPhone, a Genius would sort it out.
-	- strait-laced (adj)(在性問題上)古板的/拘謹的
 	- strike
-	- strike down == (of a court) to decide that a law or rule is illegal and should be ignored
+	- strike down (v)裁定(某法律條文)非法 == (of a court) to decide that a law or rule is illegal and should be ignored
 		> The law resembles a Texas law struck down by Supreme Court in 2016.
-	* stroke
+	* stroke (n)擊/打, 一筆/筆觸, 輕撫, 中風 (v)擊/打(球), 划, 輕撫
 		> 擊/打 |An act of hitting or striking someone or something; a blow.| he received three strokes of the cane
 		> |Hit or kick (a ball) smoothly and deliberately.|
 		> 一筆/筆觸 |A mark made by drawing a pen, pencil, or paintbrush in one direction across paper or canvas.| the paint had been applied in careful, regular strokes
@@ -2825,7 +2752,7 @@
 		> 中風 |A sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis.| he was left disabled by a stroke
 	- stack up (v)相比/比較 == to compare with another thing of a similar type
 		- The new model of this car just does not stack up against previous models 
-	+ stake /steɪk/ 
+	+ stake /steɪk/ (n)樁, 以樁支撐, 賭金, 股本/股份, 有獎賽馬, 賽馬獎金, 競賽 (v)下注, 給予援助
 		> 樁 |A strong wooden or metal post with a point at one end, driven into the ground to support a plant, form part of a fence, mark a boundary, etc.|
 		> 以樁支撐 |Support (a plant) with a stake or stakes.| the gladioli were staked in gaudy ranks
 		> 賭金 |A sum of money or something else of value gambled on the outcome of a risky game or venture.| the stakes are high with a six-figure bonanza in television rights in the balance
@@ -2835,42 +2762,28 @@
 		> 有獎賽馬 |A horse race in which all the owners of the racehorses running contribute to the prize money.|
 		> 賽馬獎金 |Prize money, especially in horse racing.|
 		> 競賽 |A situation involving competition in a specified area.| we will keep you one step ahead in the fashion stakes
-	- stake something out == Mark an area with stakes so as to claim ownership of it.
-		> the boundary between the two manors was properly staked out
-		> Elena was staking out a role for herself as a formidable political force
+	- stake sth out (v)監視, 表明(觀點或立場)
+		- The police staked out the hotel where the two terrorists were reported to be staying.
+		- Two of the president`s chief advisers have staked out opposite positions on this issue.
 	- stalk (n)莖/稈/葉柄/花梗/果柄, 跟蹤, 昂首闊步 (v)偷偷靠近/跟蹤, 非法跟蹤騷擾, 怒氣衝衝地走/趾高氣揚地走
-	- stem from
+	- stem from (v)源自
 		> In another case stemming from Indiana, a law requires an ultrasound 18 hours before the abortion procedure, essentially requiring a two-day process. 
-	- stare down == to look at someone for so long that they have to look away
-	- studious
-		> 勤奮好學的/用功的 |Spending a lot of time studying or reading.| he was quiet and studious
-		> 專心的 |Done deliberately or with a purpose in mind.| his studious absence from public view
-		> 周詳的 |Showing great care or attention.| he made a studious inspection of the buffet
-	- stoned
-		> 迷幻了的/恍恍惚惚的 |Under the influence of drugs, especially cannabis.|
-		> 酩酊大醉的 |Very drunk.| they are in the local pubs getting stoned
-	- strip down 脫得只剩下…/把衣服脫到 == to remove everything except for a particular piece of clothing or above a particular part of the body
+	- stare down (v)以目光鎮懾某人 == to look at someone for so long that they have to look away
+	- strip down (v)脫得只剩下…/把衣服脫到 == to remove everything except for a particular piece of clothing or above a particular part of the body
 		> I had to strip down to my underwear for my medical examination.
 		> He was stripped to the waist.
-	+ strict /strɪkt/ 
-		- 嚴格的 |Demanding that rules concerning behaviour are obeyed and observed.| my father was very strict
-		- 嚴格遵守規定的 |(of a person) following rules or beliefs exactly.| a strict vegetarian
-		- 屬實的/精確的 |Exact in correspondence or adherence to something; not allowing or admitting deviation or relaxation.| a strict interpretation of the law
-		
-	
-	- spell sth out 解釋清楚/詳細地說明 == to explain something in a very clear way with details
+	- spell sth out (v)解釋清楚/詳細地說明 == to explain something in a very clear way with details
 		- The government has so far refused to spell out its plans/policies.
 	- spill -> spilled/spilt -> spilled/spilt
 	- spill out (v)溢出/流出/灑出/掉出, 湧出/蜂擁而出
 		> 溢出/流出/灑出/掉出 |to flow or fall out of a container| All the shopping had spilled out of my bag.
 		> 湧出/蜂擁而出 |If people spill out of a place, large numbers of them come out of it.| People were spilling out of the wine bar onto the street.
 	+ spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋
-	- spin off == To spin off or spin off something such as a company means to create a new company that is separate from the original organization.
+	- spin off (v)分拆 == To spin off or spin off something such as a company means to create a new company that is separate from the original organization.
 		> Many of Spaceship Media’s Facebook groups have spun off into member-run groups, individual friendship and, most of all, real human connection across difference.
-	- spiral /ˈspʌɪr(ə)l/ (adj)螺旋的, 螺旋裝訂的 = spiral-bound (n)螺旋, 螺旋星系 = spiral galaxy, 不斷上升或下降 (v)成螺旋形, 不斷增加, [down/downward]不斷減少
-	- spot on 確切的/準確的 == exactly right
-		> How old do I reckon she is? I`d say 38." "Spot on.
-	+ spell
+	- spot on (adj)確切的/準確的 == exactly right
+		> "How old do I reckon she is? I'd say 38." "Spot on."
+	+ spell (v)拼寫, 組成/拼成, 是..的特徵, 代表/造成 = mean = caus, 暫時替換, [out]解釋清楚/詳細地說明 (n)咒語, 法術, 著魔/入迷, 短時間, 一段時間, 木頭碎片
 		> 拼寫 |Write or name the letters that form (a word) in correct sequence.| Dolly spelled her name
 		> 組成 |(of letters) make up or form (a word)| the letters spell the word ‘how’
 		> 是..的特徵 |Be a sign or characteristic of.| she had the chic, efficient look that spells Milan
@@ -2883,33 +2796,15 @@
 		> 暫時替換 |Allow (someone) to rest briefly by taking their place in an activity.|
 		> 木頭碎片 |A splinter of wood.|
 	+ spring -> sprang -> sprung (v)彈起/彈開, [from]源自 = originate from, 突然出現, (木頭或船)開裂/破裂 (n)春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
-	- spring up 突然出現/湧現 == to start to exist suddenly
+	- spring up (v)突然出現/湧現 == to start to exist suddenly
 		- Thousands of new businesses have sprung up in the past couple of years.
-	- spree 玩樂/短暫的放縱 == a short period of doing a particular, usually enjoyable, activity much more than is usual
-	- settle on
-		>> |to make a decision between two or more people or things after not being certain which to choose| The band has yet to settle on a name.
-		>> |to give someone money or property in a legal and official way| He settled the remainder of his estate on his three grandchildren.
-		>> |if your eyes settle on someone or something, you begin to look at them|
-	- seizure
-		> 抓住/佔領 |The action of capturing someone or something using force.| the seizure of the Assembly building
-		> 充公/扣押 |The action of confiscating or impounding property by warrant of legal right.| the seizure of all his assets
-		> 發作 |A sudden attack of illness, especially a stroke or an epileptic fit.| the patient had a seizure
 	- speak -> spoke -> spoken
-	- speak of
+	- speak of (v)談到, 表示/顯示
 		- 談到 |to talk or write about: to mention (a subject) in speech or writing| Speaking of Jill, where is she?
 		- 表示/顯示 |to indicate or suggest| His diaries speak of a troubled mind.
-	- speak up 提高嗓門/大聲點說 == to speak in a louder voice so that people can hear you
+	- speak up (v)提高嗓門/大聲點說 == to speak in a louder voice so that people can hear you
 		> Could you speak up? We can not hear at the back.
-	- splay
-		> 展開 |Thrust or spread (things, especially limbs or fingers) out and apart.| her hands were splayed across his broad shoulders
-		> 張開 |(especially of limbs or fingers) be thrust or spread out and apart.| his legs splayed out in front of him
-		> 拓寬/叉開 |Become wider or more separated.| the river splayed out, deepening to become an estuary
-		> 成喇叭口形 |Construct (a window, doorway, or other aperture) so that it diverges or is wider at one side of the wall than the other.|
-		> 展開 |A tapered widening of a road at an intersection to increase visibility.|
-		> |A surface making an oblique angle with another, especially a splayed window or other aperture.|
-		> 斜角/斜面 |The degree of bevel or slant of a surface.|
-		> 展開的 |Turned outward or widened.| the girls were sitting splay-legged
-	+ spare
+	+ spare (adj)額外的, 瘦的, 簡約的, 備品 (v)分出/分讓/騰出, 饒恕/不傷害, [oneself]感到滿足
 		> 額外的 |Additional to what is required for ordinary use.| few people had spare cash for inessentials
 		> 瘦的 |With no excess fat; thin.| a spare, bearded figure
 		> 簡約的 |Elegantly simple.| her clothes are smart and spare in style
@@ -2917,8 +2812,8 @@
 		> 分出/分讓/騰出 |Give (something of which one has enough) to (someone)| she asked if I could spare her a bob or two
 		> 饒恕/不傷害 |Refrain from killing, injuring, or distressing.| there was no way the men would spare her
 		> spare oneself 感到滿足 |Try to ensure or satisfy one`s own comfort or needs.| in her concern to help others, she has never spared herself
-	- spare time 空閒時間
-	- spit -> spat -> spit
+	- spare time (n)空閒時間
+	- spit -> spat -> spit (v)噴口水, 吐口水, 口出(惡言), 感到憤怒/感到挫折, 噴出火花, 發出嘶嘶聲 (n)噴口水, 唾液 = saliva
 		> 噴口水 |Eject saliva forcibly from one`s mouth, sometimes as a gesture of contempt or anger.| Todd spat in Hugh`s face
 		> 噴口水 |An act of spitting.|
 		> 唾液 |Saliva, typically that which has been ejected from a person`s mouth.|
@@ -2928,9 +2823,9 @@
 		> |Perform rap music.|
 		> 噴出火花 |(of a fire or something being cooked) emit small bursts of sparks or hot fat with a series of short, explosive noises.| the bonfire crackled and spat
 		> 發出嘶嘶聲 |(of a cat) make a hissing noise as a sign of anger or hostility.| the cat arched his back and spat at her
-	- spit up 吐出 == to bring food up from the stomach out of the mouth, or cough something up out of the mouth:
+	- spit up (v)吐 == to bring food up from the stomach out of the mouth, or cough something up out of the mouth:
 		> their infants fretted, mewled, and spat up over their jeans
-	- spray /spreɪ/ 
+	- spray /spreɪ/ (n)水花, 噴霧, 噴霧器, 噴灑, 小樹枝, 花束 (v)噴抹, 噴灑, 濺散, 散, 掃射, (公貓)噴尿, 亂丟/亂踢
 		> 水花 |Liquid that is blown or driven through the air in the form of tiny drops.| a torrent of white foam and spray
 		> 噴霧 |A liquid preparation which can be forced out of a can or other container in tiny drops.|
 		> 噴霧器 |A can or container holding a spray.|
@@ -2945,71 +2840,51 @@
 		> 小樹枝 |A stem or small branch of a tree or plant, bearing flowers and foliage.| a spray of honeysuckle
 		> 花束 |A bunch of cut flowers arranged in an attractive way.| a spray of yellow chrysanthemums and red roses
 		> |A brooch in the form of a bouquet of flowers.| a diamond and emerald spray brooch
-	- sweat
+	- sweat (mn)汗, 努力/苦工  (n)[非]焦急/不安, 苦差事 (v)出汗, [out]排除體內, 結水珠, 辛苦工作, 焦慮/煩惱
 		> 汗 |Moisture exuded through the pores of the skin| beads of sweat broke out on her brow
-		> |Exude sweat.| he was sweating profusely
-		> | (of food or an object) ooze or exude beads of moisture on to its surface.| cheese stored at room temperature will quickly begin to sweat
+		> 結水珠 |Exude sweat.| he was sweating profusely
+		> 結露 |(of food or an object) ooze or exude beads of moisture on to its surface.| cheese stored at room temperature will quickly begin to sweat
 		> 緊張 |A state of flustered anxiety or distress.|
-		> |(of a person) be or remain in a state of extreme anxiety, typically for a prolonged period.| if we let them sweat for a week, they`ll be a lot more cooperative
-		> |Worry about (something)| he`s not going to have a lot of time to sweat the details
+		> 緊張 |(of a person) be or remain in a state of extreme anxiety, typically for a prolonged period.| if we let them sweat for a week, they`ll be a lot more cooperative
+		> 擔心 |Worry about (something)| he`s not going to have a lot of time to sweat the details
 		> 努力 |Hard work; effort.| computer graphics take a lot of the sweat out of animation
-		> | (of a person) exert a great deal of strenuous effort.| I`ve sweated over this for six months
+		> 努力 |(of a person) exert a great deal of strenuous effort.| I`ve sweated over this for six months
 		> |Heat (chopped vegetables) slowly in a pan with a small amount of fat, so that they cook in their own juices.| sweat the celery and onions with olive oil and seasoning
-	- sci-fi == science-fiction
-	- scrap paper (n)(已用過的寫便條用的)廢紙
 	- step
-	- step up 在有需要（或有機會）時採取行動 = to take action when there is a need or opportunity for it
+	- step up (v)在有需要或有機會時採取行動 = to take action when there is a need or opportunity for it
 		> Investors have to step up and assume more responsibility for their assets.
 		> I have had many, many colleagues who have been willing to step up and provide that practice for me. 
-	- stepped-up (adj)加強的
-	- shaft (n)手柄, 箭/矛, 升降機井, 軸, 一道(光或感覺), 諷刺話, 礦井 (v)射入光線
-	- shoelace (n)鞋帶
-	- shoot for sth 試圖做/力爭得到 == try to do
-		- It's worth taking chances when you're shooting for a chance of fame and wealth.
-	- shorthand
-		> 速記法 |A method of rapid writing by means of abbreviations and symbols, used especially for taking dictation. The major systems of shorthand currently in use are those devised in 1837 by Sir Isaac Pitman and (in the US) in 1888 by John R. Gregg (1867–1948)|
-		> 簡略的表達方式 |A short and simple way of expressing or referring to something.|
+	- shoot for sth (v)試圖做/力爭得到 == try to do
+		- It is worth taking chances when you are shooting for a chance of fame and wealth.
 	- show -> showed -> shown/showed
-	- show up 到達/露面 == to arrive somewhere in order to join a group of people, especially late or unexpectedly:
+	- show up (v)到達/露面 == to arrive somewhere in order to join a group of people, especially late or unexpectedly
 		> I invited him for eight o`clock, but he didn`t show up until 9.30.
-	+ show off 炫耀/賣弄 == to behave in a way that is intended to attract attention or admiration, and that other people often find annoying
+	+ show off (v)炫耀/賣弄 == to behave in a way that is intended to attract attention or admiration, and that other people often find annoying
 		> She only bought that sports car to show off and prove she could afford one.
-	- shell out == to pay money for something, especially when the cost is unexpected and not wanted:
+	- shell out (v)不情願地支付 == to pay money for something, especially when the cost is unexpected and not wanted:
 		> If we lose the case, we`ll be forced to shell out.
 		> The ecosystem of esports organisms vying for resources consists of esports teams and tournament organizers, who shell out money for player salaries and flashy events with cash from investors and sponsors.
-	- shipshape 整齊的/井井有條的 == In good order; trim and neat.
-	+ shower
+	+ shower (n)陣雨, 一陣, 一大批/大量, 淋浴間, 淋浴器, 淋浴, 送禮會 (v)陣雨般落下, 淋浴
 		> 陣雨 |A brief and usually light fall of rain, hail, sleet, or snow.| a day of sunny spells and scattered showers
 		> 一陣 |A mass of small things falling or moving at the same time.| a shower of dust sprinkled his face
 		> 一大批/大量 |A large number of things happening or given at the same time.| a shower of awards
 		> 陣雨般落下 |(of a mass of small things) fall or be thrown in a shower.| bits of broken glass showered over me
-		> 使像陣雨般落下|Cause (a mass of small things) to fall in a shower.| his hooves showered sparks across the concrete floor
-		>  |A group of particles produced by a cosmic-ray particle in the earth`s atmosphere.|
+		> 使像陣雨般落下 |Cause (a mass of small things) to fall in a shower.| his hooves showered sparks across the concrete floor
+		> |A group of particles produced by a cosmic-ray particle in the earth`s atmosphere.|
 		> 淋浴間 |A cubicle or bath in which a person stands under a spray of water to wash.| all rooms have private shower and WC
 		> 淋浴器 |The apparatus in a shower that produces the spray of water.| she turned off the shower and reached for a towel
 		> 淋浴 |An act of washing oneself in a shower.| she had a nice refreshing shower
 		> 淋浴 |Wash oneself in a shower.| she showered and went down to breakfast
 		> 送禮會 |A party at which presents are given to someone, typically a woman who is about to get married or have a baby.| she loved going to baby showers
-	- shower sb with sth
+	- shower sb with sth (v)用大量的..丟.., 給..很多的..
 		> 用大量的..丟.. |Throw (a number of things) all at once towards someone.| hooligans showered him with rotten eggs
 		> 給..很多的.. |Give someone a great number of (things)| he showered her with kisses
-	- shower sth on/upon sb 給..很多的.. == Give a great number of things to (someone)
+	- shower sth on/upon sb (v)給..很多的.. == Give a great number of things to (someone)
 		> the government showered praise on the young volunteers
-	- showboat
-		> 演藝船 | a river steamer on which theatrical performances are given.|
-		> 好自我表現者 |A show-off; an exhibitionist.|
-		> 賣弄/炫耀 |show off|  he was basically showboating to the crowd and they were loving it
-	- shortfall 不足之額/缺額/差額 == A deficit of something required or expected.
-	- shore sth up
+	- shore sth up (v)支撐住, 支持/幫助
 		> 支撐住 |Support or hold up something with props or beams.| rescue workers had to shore up the building, which was in danger of collapse
 		> 支持/幫助 |Support or assist something that would otherwise fail or decline.| Congress approved a $700 billion plan to shore up the financial industry
-	- shove
-		> 推/擠 |Push (someone or something) roughly.| they started pushing and shoving people out of the way
-		> 推 |A strong push.| she gave him a hefty shove and he nearly fell
-		> 撞 |Make one`s way by pushing someone or something.| Woolley shoved past him
-		> 隨意放 |Put (something) somewhere carelessly or roughly.| she shoved the books into her briefcase
-		> |Used to express angry dismissal of something.| I told the selectors to shove it
-	- shuttle
+	- shuttle (n)往返旅行, 太空梭 = space shuttle, 梭子, 羽毛球/板羽球 = shuttlecock (v)往返旅行, 往返運送
 		> 往返旅行 |A form of transport that travels regularly between two places.| the nine o`clock shuttle from Edinburgh
 		> 往返旅行 |Travel regularly between two or more places.| the Secretary of State shuttled to and fro seeking compromise
 		> 往返運送 |Transport in a shuttle.| the river taxi shuttled employees between the newspaper`s offices and the capital
@@ -3017,24 +2892,16 @@
 		> 梭子 |A bobbin with two pointed ends used for carrying the weft thread across between the warp threads in weaving.|
 		> |A bobbin carrying the lower thread in a sewing machine.|
 		> 羽毛球/板羽球 |shuttlecock|
-		+ shy away from sth 退縮/躲避 == to avoid something that you dislike, fear, or do not feel confident about
+	+ shy away from sth (v)退縮/躲避 == to avoid something that you dislike, fear, or do not feel confident about
 		> I`ve never shied away from hard work.
 		> It left him open to criticism that he was shying away from the moment
-	- shred /ʃrɛd/ (n)碎布, 些許/少量 (v)撕碎/剪碎, 絞碎
-	+ shrug
-		> 聳肩 |Raise (one`s shoulders) slightly and momentarily to express doubt, ignorance, or indifference.| Jimmy looked enquiringly at Pete, who shrugged his shoulders
-		> 聳肩 |An act or instance of shrugging one`s shoulders.| she lifted her shoulders in a dismissive shrug
-		> 女短套衫/女帶袖短披肩 |A woman`s close-fitting cardigan or jacket, cut short at the front and back so that only the arms and shoulders are covered.|
-	- shrug sth off 不重視/忽視 == Dismiss something as unimportant.
+	- shrug sth off (v)不重視/忽視 == Dismiss something as unimportant.
 		> the managing director shrugged off the criticism
-	- shut out 把..擋在門外 == to prevent someone or something from entering a place
+	- shut out (v)把..擋在門外 == to prevent someone or something from entering a place
 		- The double windows shut most of the traffic noise out.
-	- slapstick
-		> 低俗的鬧劇 |Comedy based on deliberately clumsy actions and humorously embarrassing events.|
-		> |A device consisting of two flexible pieces of wood joined together at one end, used by clowns and in pantomime to produce a loud slapping noise.| a loud and exhilarating rattle of bladders and slapsticks’
 	+ slay -> slew/slayed -> slain
 	- slide -> slid -> slid
-	+ slick --> slickness
+	+ slick (adj)光滑的, 熟練的/靈巧的, 華而不實的 (n)浮油, 通俗雜誌, 滑頭 (v)使光滑, [up]打扮整齊 --> slickness
 		> 熟練的/滑順的 |Done or operating in an impressively smooth and efficient way.| Rangers have been entertaining crowds with a slick passing game
 		> 華而不實的 |Smooth and superficially impressive but insincere or shallow.| the brands are backed by slick advertising
 		> 絲滑的 |(of skin or hair) smooth and glossy.| a dandy-looking dude with a slick black ponytail
@@ -3047,18 +2914,7 @@
 		> |A racing-car or bicycle tyre without a tread, for use in dry weather conditions.| Hunt`s victory resulted from the finest sort of judgement about when to change his wet tyres to slicks
 		> 通俗雜誌 |A glossy magazine.| writing for any of the so-called slicks was considered selling out
 		> 滑頭/騙子 |A person who is smooth and persuasive but untrustworthy.|
-	- slink -> slunk
-	- slink off == To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner.
-		> I knew the teacher wanted to lecture me about the poor results on my test, so I made a plan to slink off as soon as the bell rang.
-	* slam
-		> 猛然關上 |Shut (a door, window, or lid) forcefully and loudly.| he slams the door behind him as he leaves
-		> 碰一聲 |A loud bang caused by the forceful shutting of something such as a door.|
-		> 碰地放下 |Push or put something somewhere with great force.| Charlie slammed down the phone
-		> 猛撞 |Crash into; collide heavily with.| the car mounted the pavement, slamming into a lamp post
-		> 輕易地得分 |Score points against or gain a victory over (someone) easily.| the Blue Devils slammed Kansas to win the title
-		> 嚴厲地批評 |Criticize severely.| the new TV soap was slammed as being cynical and irresponsibl
-		> 監獄 |Prison| if he challenged the judge, he was definitely going to the slam
-	+ slip
+	+ slip (v)滑跤/失足, 路落/滑動, 打滑, 溜/悄悄走, 偷偷放, [into/out of]迅速地穿或脫, 變壞/下降, [be slipping]不如往常, 鬆脫, 被遺忘, 釋放(動物), 放開(機車離合器), 解開(船錨), (動物)流產 (n)滑, 滑動, 滑程/滑率, 變壞/下降, 疏忽/小錯誤, 牽狗用的皮帶, 襯裙, 滑道/兩座碼頭之間可停船的水面, 紙條/小紙片, 校對樣本, 接穗/嫩枝, 泥釉凸紋
 		- 滑跤/失足 |Lose one`s footing and slide unintentionally for a short distance.| I slipped over on the ice
 		- 路落/滑動 |(of an object) accidentally slide or move out of position or from someone`s grasp.| the envelope slipped through Luke`s fingers
 		- 打滑 |Fail to grip or make proper contact with a surface.| the front wheels began to slip
@@ -3086,38 +2942,37 @@
 		- 校對樣本 |A printer`s proof on a long piece of paper; a galley proof.|
 		- 接穗/嫩枝 |A cutting taken from a plant for grafting or planting; a scion.|
 		- 泥釉凸紋 |A creamy mixture of clay, water, and typically a pigment of some kind, used especially for decorating earthenware.|
-	- slip away
+	- slip away (v)秘密地離開, (時間)飛逝, (權力、能力或可能性)消失
 		> 秘密地離開 |to leave secretly| He slipped away while we were all sleeping.
-		> (時間) 飛逝 |If a period of time slips away, it passes quickly.| Time was slipping away and she had to make a decision soon.
+		> (時間)飛逝 |If a period of time slips away, it passes quickly.| Time was slipping away and she had to make a decision soon.
 		> (權力、能力或可能性)消失 |If someone`s power or the possibility of someone winning or achieving something slips away, it disappears.| Political power was really in their hands and they let it slip away.
 	- stick -> stuck -> stuck
-	- stick out
+	- stick out (v)探出/露出/凸出, 顯眼/突出 
 		> 探出/露出/凸出 |to go past the surface or edge of something| There was a handkerchief sticking out of his jacket pocket.
 		> 顯眼/突出 |to be very easy to notice| She certainly sticks out in a crowd.
-	- string -> strung -> strung
-	- stink -> stank/stunk -> stunk
+	- stink -> stank/stunk -> stunk (v)發惡臭,  名聲臭/壞透 (n)惡臭, 爭吵/口角 (adj)可鄙的/腐敗的
 		> 發惡臭 |Have a strong unpleasant smell.| the place stank like a sewer
-		> 名聲臭/壞透/討厭透 |Be very unpleasant, contemptible, or scandalous.| he thinks the values of our society stink
+		> 名聲臭/壞透 |Be very unpleasant, contemptible, or scandalous.| he thinks the values of our society stink
 		> 惡臭 |A strong unpleasant smell; a stench.| the stink of the place hit me as I went in
 		> 爭吵/口角 |A row or fuss.| a silly move now would kick up a stink we couldn`t handle
 		> 可鄙的/腐敗的 |Contemptible; corrupt.| the whole episode is so stink that the principal asked for an immediate transfer of the teacher
-	- string along
-		> |to make someone continue believing something that is false for a long time, especially something about your  intentions or beliefs| She’s just stringing you along – she won’t marry you.
-		> |to agree with or go along with an idea or suggestion| I’ll string along with your plan and see what happens.
-		- static
+	- string along (v)長期哄騙/敷衍
+		- She has been promising to pay back the money for six months, but I think she is just stringing me along.
+		- He strung her along for years, saying he would marry her and divorce his wife.
+	- static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
 		> 靜態的 |Lacking in movement, action, or change, especially in an undesirable or uninteresting way.| demand has grown in what was a fairly static market
 		> 靜力的 |Concerned with bodies at rest or forces in equilibrium.|
 		> 靜電的 |(of an electric charge) having gathered on or in an object that cannot conduct a current.|
-		> 靜電干擾 |Crackling or hissing noises on a telephone, radio, or other telecommunication system.| the phone was full of static that sounded distant
+		> 靜電噪聲 |Crackling or hissing noises on a telephone, radio, or other telecommunication system.| the phone was full of static that sounded distant
 		> 靜電 |static electricity|
 		> |Angry or critical talk or behaviour.| the reception was going sour, breaking up into static
 	- stand -> stood -> stood
-	+ stand out
+	+ stand out (v)顯眼, 出眾
 		> 顯眼 |to be very noticeable| The black lettering really stands out on that orange background.
 		> 出眾 |to be much better than other similar things or people| We had lots of good applicants for the job, but one stood out from the rest.
-	+ stand in 頂替/代替 == to do the job that another person was going to do or usually does, or to take that person`s place at an event, because they cannot be there
+	+ stand in (v)頂替/代替 == to do the job that another person was going to do or usually does, or to take that person`s place at an event, because they cannot be there
 		> Paula stood in for Jane, while Jane was on holiday.
-	+ strain	/streɪn/
+	+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		> 竭力 |Force (a part of one`s body or oneself) to make an unusually great effort.| I stopped and listened, straining my ears for any sound.
 		> |A severe or excessive demand on the strength, resources, or abilities of someone or something.| the accusations put a strain on relations between the two countries
 		> 扭傷 |Injure (a limb, muscle, or organ) by overexerting it.| on cold days you are more likely to strain a muscle
@@ -3128,7 +2983,7 @@
 		> 旋律/曲子 |The sound of a piece of music.| the distant strains of the brass band grew louder
 		> 種類 |A particular breed, stock, or variety of an animal or plant.|
 		> 傾向 |A particular tendency as part of a person`s character.| there`s a strain of Victorian rectitude in him
-	* staple
+	* staple (n)釘書針, 主要元素, 主要產品, 纖維, 貿易中心 (v)用釘書針固定 (adj)主要的
 		> 釘書針 |A piece of thin wire with two short right-angled end pieces which are driven by a stapler through sheets of paper to fasten them together.|
 		> 用釘書針固定 |Attach or secure with a staple or staples.|
 		> 主要元素 |A main or important element of something.| Greek legend was the staple of classical tragedy
@@ -3136,10 +2991,7 @@
 		> 主要的 |Main or important, especially in terms of consumption.| the staple foods of the poor
 		> 纖維 |The fibre of cotton or wool considered with regard to its length and degree of fineness.|
 		> 貿易中心 |A centre of trade, especially in a specified commodity.| ‘proposals were made for a wool staple at Pisa
-	- stately
-		> 宏偉的/堂皇的 |Impressive or grand in size, appearance, or manner.| a stately 19th-century mansion
-		> 莊嚴的/高貴的 |Slow, formal, and dignified.| a stately procession
-	- stiff
+	- stiff (adj)僵直的/僵硬的, 黏稠的, 不易移動的/不靈活的, 拘謹的/不自然的, 嚴重的/強烈的, 艱難的, 烈的(酒), [非][with]充滿 (n)[非]屍體, 特別拘謹的人 (v)[非]詐騙, 忽視, [非]殺, (商業或產品)失敗
 		> 堅硬的 |Not easily bent or changed in shape; rigid.| a stiff black collar
 		> 濃稠的 |(of a semi-liquid substance) viscous; thick.| add wheat until the mixture is quite stiff
 		> 難動的 |Not moving as freely as is usual or desirable; difficult to turn or operate.| a stiff drawer
@@ -3156,75 +3008,23 @@
 		> 忽視 |Ignore (someone) deliberately; snub.| the stars are notorious for stiffing their hosts and sponsors at banquets
 		> 殺 |Kill (someone)| I want to get those pigs who stiffed your doctor
 		> 失敗 |(of a commercial venture or product) be unsuccessful.| as soon as he began singing about the wife and kids, his albums stiffed
-	- stimulus --> stimuli
-		> 刺激 |A thing or event that evokes a specific functional reaction in an organ or tissue.| areas of the brain which respond to auditory stimuli
-		> 刺激品 |A thing that arouses activity or energy in someone or something; a spur or incentive.| if the tax were abolished, it would act as a stimulus to exports
-		> 刺激/有趣 |An interesting and exciting quality.| she loved the stimulus of the job
-	- stoner 吸食了大量大麻的人 == A person who regularly takes drugs, especially cannabis
-	+ stunt
-		> 妨礙生長 |Prevent from growing or developing properly.| some weeds produce chemicals that stunt the plant`s growth
-		> 驚人的表演/驚險動作 |An action displaying spectacular skill and daring.| the stunt involved jumping out of a hot-air balloon while attached to a piece of elastic
-		> 表演特技 |Perform stunts, especially aerobatics.| 
-		> 引人注目的花招/噱頭 |Something unusual done to attract attention.|  the story was spread as a publicity stunt to help sell books
 	- straight
-	- straight out of == similar in type to something
+	- straight out of (adj)跟..相似的 == similar in type to something
 		> The band’s sound is straight out of the 60s.
-	- straighten sth up 清乾淨
+	- straighten sth up (v)清乾淨
 		- Mark and I managed to straighten up the house before our parents got home.
-	- squad
-		> 小隊 |A small group of people having a particular task.| an assassination squad
-		> 班/小組 |A small number of soldiers assembled for drill or assigned to a special task.| the demolition squad from No. 6 Troop were blowing up the guns
-		> 運動隊 |A group of sports players from which a team is chosen.| Ireland`s World Cup squad
-		> 小組 |A division of a police force dealing with a particular type of crime.| the vice squad
-		> 親友圈 |A person`s circle of close friends.| the 39-year-old actress and her squad snapped some pics together after the show
-	+ squarely 直接地 == Directly, without deviating to one side.| Ashley looked at him squarely
 	- swap
-	- swap out 交換 == To replace or exchange someone or something with another person or thing.
+	- swap out (v)交換 == To replace or exchange someone or something with another person or thing.
 		> I think I just need to swap out the batteries for this to start working again.
 		> Di Franco hopes to swap out the insulin that he gets from the pharmacy for a supply made by de Kermadec and Anderson.
-	- session
-		> 開會/開庭 |A meeting of an official body, especially a legislature, council, or court of law, to conduct its business.|
-		> 學期 |The part of a year or of a day during which teaching takes place in a school or college.|
-		> |A period devoted to a particular activity.|
-		> |A period of recording music in a studio, especially by a session musician.|
-		> |A period of heavy or sustained drinking.|
-	* sleepover 在朋友家過夜 == A night spent by children or young people at a friend`s house.
-	- slush
-		> 融雪 |Partially melted snow or ice.|
-		> 泥濘 |Watery mud.|
-		> 過度多愁善感 |Excessive sentiment.| the slush of Hollywood`s romantic fifties films
-		> 發出噴濺聲 |Make a squelching or splashing sound.| there was water slushing around in the galley
-	- someone is sold == When someone are convinced of/by something.
-	+ speech
+	+ speech (n)說話能力, 說話方式/口音, 演講, 臺詞
 		> 說話能力 |The expression of or the ability to express thoughts and feelings by articulate sounds| he was born deaf and without the power of speech
 		> 說話方式/口音 |A person`s style of speaking.| she wouldn`t accept his correction of her 
 		> 演講 |A formal address or discourse delivered to an audience.| he gave a speech about the company
 		> 臺詞 |A sequence of lines written for one character in a play.|
-	- smash up == completely destroy it by hitting it and breaking it into many pieces.
+	- smash up (v)搗毀 == completely destroy it by hitting it and breaking it into many pieces.
 		> She took revenge on her ex-boyfriend by smashing up his home.
-	* smudge /smʌdʒ/ 
-		> 弄髒 |Cause (something) to become messily smeared by rubbing it.| she dabbed her eyes, careful not to smudge her make-up
-		> 塗抹 |Become smeared when rubbed.| mascaras that smudge or flake around the eyes
-		> 使模糊 |Make blurred or indistinct.| the photograph had been smudged by the photocopier and was by no means as clear as the original
-		> 汙點/汙跡 |A blurred or smeared mark on the surface of something.| a smudge of blood on the floor
-		> 污漬 |An indistinct or blurred view or image.| the low smudge of hills on the horizon
-		> 煙燻火堆 |A smoky outdoor fire that is lit to keep off insects or protect plants against frost.| discussions of the merits of various smudges at keeping bugs at bay
-	* smear
-		> 弄髒/弄汙  |Coat or mark (something) messily or carelessly with a greasy or sticky substance.| his face was smeared with dirt
-		> 汙跡/汙斑 |A mark or streak of a greasy or sticky substance.| there was an oil smear on his jacket
-		> 塗抹/塗上 |Spread (a greasy or sticky substance) over something.| she smeared sunblock on her skin
-		> 把……擦模糊 |Messily blur the outline of (something such as writing or paint); smudge.| her lipstick was smeared
-		> 誹謗 |Damage the reputation of (someone) by false accusations; slander.| someone was trying to smear her by faking letters
-		> 誹謗 |A false accusation intended to damage someone`s reputation.| the popular press were indulging in unwarranted smears
-		> 塗片/抹片 |A sample of tissue or other material taken from part of the body, spread thinly on a microscope slide for examination, typically for medical diagnosis.| the smears were stained for cryptosporidium
-		> 不穩固的立足點 |An insecure foothold.|
-	- scapegoat 代罪羔羊 == A person who is blamed for the wrongdoings, mistakes, or faults of others, especially for reasons of expediency.
-	- scum
-		> 浮渣/熔渣 |A layer of dirt or froth on the surface of a liquid.| green scum found on stagnant pools
-		> 形成一層 渣垢|Form a layer of dirt or froth on (a liquid)| litter scummed the surface of the water
-		> 蓋滿渣垢 |(of a liquid) become covered with a layer of dirt or froth.| the lagoon scummed over
-		> 渣滓/人渣 |A worthless or contemptible person or group of people.|
-	- scrub
+	- scrub (v)用力擦洗, 擦洗, 取消/中止, 沖掉 (n)磨砂膏, 手術袍, 矮樹叢/灌木叢, 灌木叢地, 渺小之人, 洗滌器, 非正式的比賽 (adj)矮小的, 劣等的
 		> 用力擦洗 |Rub (someone or something) hard so as to clean them, typically with a brush and water.| he had to scrub the floor
 		> 擦洗 |An act of scrubbing something or someone.| give the floor a good scrub
 		> 取消/中止 |Cancel or abandon (something)| the first two races had to be scrubbed because of blustery winds and rough seas
@@ -3242,31 +3042,16 @@
 		> |A sports team or player not among the best or most skilled.| a former All-Star reduced to the role of scrub
 		> 洗滌器 |scrubber|
 		> 非正式的比賽 |An informal team game played by children in a public area.| hardly anyone ever plays scrub these days
-	- scrub away 徹底清洗 == To clean away some substance or residue (from something) very thoroughly and vigorously.
+	- scrub away (v)徹底清洗 == To clean away some substance or residue (from something) very thoroughly and vigorously.
 		> You`ll want to scrub away all the caked-on dirt and grime before you attempt to repair your bicycle.
 		> it took ages to scrub off the muck
-	- scrub up 手術前洗手 == Thoroughly clean one`s hands and arms before performing surgery.
+	- scrub up (v)手術前洗手 == Thoroughly clean one`s hands and arms before performing surgery.
 		> the doctor scrubbed up and donned a protective gown
-	- scrap (n)碎塊, 殘羹剩飯, 少量/一點點, 廢料/廢金屬 = scrap metal (v)將……作為廢物, 廢棄/放棄 = abolish = cancel
-	- sibling (n)兄弟姊妹
-	- sink -> sank/sunk -> sunk
-	- sink-or-swim 成敗全憑自己 == fail or succeed entirely by one`s own efforts.
-	- side with sb 支持(某人或某方)/站在(某人)一邊 == to support one person or group in an argument
+	- side with sb (v)支持(某人或某方)/站在(某人)一邊 == to support one person or group in an argument
 		> If ever there was any sort of argument, she`d always side with my father against me.
-	+ sideways (ADJ/ADV)
-		> 向/從旁邊 |To, towards, or from the side.| she tilted her body sideways
-		> |So as to occupy a job or position at the same level as one previously held rather than be promoted or demoted.| 
-		> 間接 |By an indirect way.| he came into politics sideways, as campaign manager for Ronald Reagan
-		> 非傳統的 |From an unconventional or unorthodox viewpoint.|
-	- sideline
-		> 副業 |An activity done in addition to one`s main job, especially to earn extra income.|
-		> 球場界線 |Either of the two lines bounding the longer sides of a football field, basketball court, tennis court, or similar playing area.|
-		> 界外場地 |The area immediately outside either sideline as a place for non-players, substitutes, or spectators.|
-		> 使退場 |Cause (a player) to be unable to play in a team or game.| an ankle injury has sidelined him for two weeks
-		> 退出第一線 |Remove from the centre of activity or attention; place in a less influential position.| backbench MPs have been sidelined and excluded from decision-making
-	- sign off (on sth) 正式認可 == to approve something officially
+	- sign off (on sth) (v)正式認可 == to approve something officially
 		> Both sides signed off on a legally binding agreement last month.
-	+ sink -> sank -> sunk
+	+ sink -> sank -> sunk (v)沈沒, 使失敗, 消聲匿跡, 隱藏/忽略, 下沈, 陷, 下跌/減少, 陷入, 接近死亡, 插入, 推/擠 (n)水槽, 海洋, 排水孔 = sinkhole, 腐敗墮落的場所
 		> 沈沒 | Go down below the surface of something, especially of a liquid; become submerged.| he saw the coffin sink below the surface of the waves
 		> 使失敗 |Cause to fail.| his pledge could sink the government
 		> 消聲匿跡 |Fail and not be seen or heard of again.| the film sank virtually without trace
@@ -3282,48 +3067,18 @@
 		> 海洋 |A pool or marsh in which a river`s water disappears by evaporation or percolation.| Once again, however, rumours of caves higher on the hillside and far off river sinks abound.
 		> 排水孔 |sinkhole|
 		> 腐敗墮落的場所 |A place of vice or corruption.| a sink of unnatural vice, pride, and luxury
-	- sit right/well (with sb) (某人)可接受/受(某人)歡迎 == to be something that you agree or are pleased with
-		> Their decision/answer did not sit well with the Board of Directors.
-	- siren
-		> 汽笛/警報器  |A device that makes a loud prolonged signal or warning sound.|
-		> 塞壬 |Each of a number of women or winged creatures whose singing lured unwary sailors on to rocks.|
-		> 妖婦 |A woman who is considered to be alluring or fascinating but also dangerous in some way.|
-		> 鰻螈 |An eel-like American amphibian with tiny forelimbs, no hindlimbs, small eyes, and external gills, typically living in muddy pools.|
-	- size up sth 打量 == to examine something in order to make a judgment or form an opinion:
+	- size up sth (v)打量 == to examine something in order to make a judgment or form an opinion:
 		> After sizing up the opposition, Abe suggested a strategy.
-	+ strategic /strəˈtiːdʒɪk/ == strategical
-		> 重要的/有助於計劃成功的 |Relating to the identification of long-term or overall aims and interests and the means of achieving them.| strategic planning for the organization is the responsibility of top management
-		> 戰略上的 |Relating to the gaining of overall or long-term military advantage.| British strategic and commercial interests
-	- snap (v)突然折斷, 劈啪地響, 啪地關上或打開, (動物)咬, 突然崩潰/理智斷線, [at]厲聲說, 拍快照 (n)劈啪聲, 急湊的態度或音調, 快照, 寒流, [非]輕鬆的工作, (橄欖球)開球, 子母扣 (mn)熱情 = zest, 零嘴 (adj)匆忙的/不加思索的
-	- snap out of 擺脫(情緒) == to force yourself to stop feeling sad and upset
+	- snap out of (v)擺脫(情緒) == to force yourself to stop feeling sad and upset
 		> He just can`t snap out of the depression he`s had since his wife died.
 		> Now come on, snap out of it. Losing that money isn`t the end of the world
-	- sniff
-		> 嗅/聞 |Draw up air audibly through the nose to detect a smell, to stop it running, or to express contempt.| his dog sniffed at my trousers
-		> 用力吸/用鼻吸 |Draw in (a scent, substance, or air) through the nose.| Miranda sniffed the heavy perfume of the lilies
-		> 嗅聞聲 |An act or sound of sniffing.| he gave a sniff of disapproval
-		> 吸入量 |An amount of air or other substance taken up by sniffing.| his drug use was confined to a sniff of amyl nitrite
-		> 徵兆 |A hint or sign.| they are off at the first sniff of trouble
-		> 小改變 |A small chance.| the Olympic hosts will at least get a sniff at a medal
-	* snitch
-		> 偷 |Steal| he snitched the umbrella for when he went fishing
-		> 告密 |Inform on someone.| she wouldn`t tell who snitched on me
-		> 告密者 |An informer.|
+	- sniff (v)嗅/聞, 用力吸/用鼻吸 (n)嗅聞聲, 吸入量, 徵兆, 小改變
 	+ sneak -> sneaked/snuck -> sneaked/snuck
 	- separate
-	- separate out 捨棄/移除 == to remove (someone or something) from a group
+	- separate out (v)捨棄/移除 == to remove (someone or something) from a group
 		> Before you put out the trash, you have to separate out the bottles and cans.
 		> Most schools separate out children with learning problems.
-	- spew
-		> 大量排放 |Expel large quantities of (something) rapidly and forcibly.|
-		> 嘔吐 |Vomit| hㄋe felt faint and nauseous—he had to get out before he spewed
-	- strand /strand/ (v)使擱淺, 使處於困境 (n)股/縷/絞/線/繩
-		> 使擱淺 |Drive or leave (a boat, sailor, or sea creature) aground on a shore.| the ships were stranded in shallow water
-		> 使處於困境 |Leave (someone) without the means to move from somewhere.| two of the firm`s lorries are stranded in France
-		> 股/縷/絞/線/繩 |A single thin length of something such as thread, fibre, or wire, especially as twisted together with others.|
-
-	- spinoff 副產品/衍生作品 == A by-product or incidental result of a larger project.
-	- slate
+	- slate (n)板岩/石板, 書寫用的石板, 暗藍灰色, 候選人名單, 紀錄 (v)用石板蓋, 安排/計畫, 提名
 	 	> 板岩/石板 |A fine-grained grey, green, or bluish-purple metamorphic rock easily split into smooth, flat plates.|
 		> 用石板蓋 |Cover (something, especially a roof) with slates.| he was working for his father slating a new roof
 		> 書寫用的石板 |A flat plate of slate formerly used for writing on in schools.|
@@ -3334,20 +3089,7 @@
 		> 提名 |Nominate (someone) as a candidate for an office or post.| I understand that I am being slated for promotion
 		> |A board showing the identifying details of a take in a film, held in front of the camera at the beginning and end of the take.| the electronic time-code system allowed us to shoot with or without conventional slates
 		> |Identify (a take in a film) using a slate.|
-	- slump
-		> 倒下/坐下 |Sit, lean, or fall heavily and limply.| she slumped against the cushions
-		> 下跌 |Undergo a sudden severe or prolonged fall in price, value, or amount.| land prices slumped
-		> 暴跌/下降 |A sudden severe or prolonged fall in the price, value, or amount of something.|
-		> 不景氣 |A prolonged period of abnormally low economic activity, typically bringing widespread unemployment.|
-		> 衰落 |Fail or decline substantially.| United slumped to another one–nil defeat
-		> 衰落 |A period of substantial failure or decline.| Arsenal`s recent slump
-	- stance
-		> 姿勢/姿態 |The way in which someone stands, especially when deliberately adopted (as in cricket, golf, and other sports); a person`s posture.| 
-		> 態度/立場 |The attitude of a person or organization towards something; a standpoint.| the party is changing its stance on Europe
-		> 攀岩的立足處 |A ledge or foothold on which a belay can be secured.|
-	
-	- supper /ˈsʌpə/ 晚餐/晚飯 == An evening meal, typically a light or informal one.
-	- superior /suːˈpɪərɪə/ 
+	- superior /suːˈpɪərɪə/ (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長
 		> 較高的/上級的 |Higher in rank, status, or quality.| a superior officer
 		> 上司/長官 |A person superior to another in rank or status, especially a colleague in a higher position|
 		> 修道院院長 |The head of a monastery or other religious institution.|
@@ -3357,7 +3099,7 @@
 		> |(of a letter, figure, or symbol) written or printed above the line.|
 		> |A superior letter, figure, or symbol.|
 		> 更靠近頭/更遠離腳的 |(Anatomy) Further above or out; higher in position.|
-	+ subject 
+	+ subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞 
 		- 主題/話題 |A person or thing that is being discussed, described, or dealt with.| I have said all there is to be said on the subject
 		- |A person or circumstance giving rise to a specified feeling, response, or action.| the incident was the subject of international condemnation
 		- 研究對象 |A person who is the focus of scientific or medical attention or experiment.|  subjects were asked to complete a questionnaire
@@ -3367,7 +3109,7 @@
 		- 臣服的/被征服的 |Under the control or domination of another ruler, country, or government.| the Greeks were the first subject people to break free from Ottoman rule
 		- 主詞 |A noun or noun phrase functioning as one of the main components of a clause, being the element about which the rest of the clause is predicated.| 
 		- 主體/主觀意識 |A thinking or feeling entity; the conscious mind; the ego, especially as opposed to anything external to the mind.| 
-	+ subject to 
+	+ subject to (v)易受...影響, 使蒙受/使經歷, 取決於/視…而定, 在..的管理之下, 使臣服 (adv)取決於
 		- 易受...影響 |Likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one)| he was subject to bouts of manic depression
 		- 使蒙受/使經歷 |Cause or force someone or something to undergo (a particular experience or form of treatment, typically an unwelcome or unpleasant one)| he had subjected her to a terrifying ordeal
 		- 取決於/視…而定 |Dependent or conditional upon.| the proposed merger is subject to the approval of the shareholders
@@ -3376,8 +3118,7 @@
 		- 使臣服 |Bring (a person or country) under one`s control or jurisdiction, typically by using force.| the city had been subjected to Macedonian rule
 	+ be subjected to 經歷了/必定會經歷
 		> intermediate latitudes are subjected to changes intermediate between those of the poles and the equator
-	- sweat (mn)汗, 努力/苦工  (n)[非]焦急/不安, 苦差事 (v)出汗, [out]排除體內, 結水珠, 辛苦工作, 焦慮/煩惱
-	+ swing -> swung -> swung
+	+ swing -> swung -> swung (v)搖擺, 擺動, 大搖大擺地行走, 轉向/轉身, 有節奏地搖搖擺擺地走, 使擺動, 揮舞, 揮動, 猶豫/搖擺, 對..有決定性的影響, 成功導致, 演奏, 被演奏, 交換性伴侶, 令人興奮/歡快熱鬧 (n)鞦韆, 盪鞦韆, 搖擺, 擺動, 揮拳, 揮動方式, 改變, 搖擺樂, 韻律/音律, 巡迴
 		> 搖擺 |Move or cause to move back and forth or from side to side while suspended or on an axis.| her long black skirt swung about her legs
 		> 擺動 |Be executed by hanging.| now he was going to swing for it
 		> 鞦韆 |A seat suspended by ropes or chains, on which someone may sit and swing back and forth.|
@@ -3401,18 +3142,10 @@
 		> 被演奏 |(of music) be played with a flowing but vigorous rhythm.|
 		> 搖擺樂 |A style of jazz or dance music with a flowing but vigorous rhythm.|
 		> 韻律/音律 |The rhythmic feeling or drive of swing.|
-		> |(of an event, place, or way of life) be lively, exciting, or fashionable.|
+		> 令人興奮/歡快熱鬧 |(of an event, place, or way of life) be lively, exciting, or fashionable.|
 		> 交換性伴侶 |Engage in group sex or swap sexual partners within a group, especially on a habitual basis.|
-		> |A swift tour involving a number of stops, especially one undertaken as part of a political campaign.|
+		> 巡迴 |A swift tour involving a number of stops, especially one undertaken as part of a political campaign.|
 		> |(in musical theatre) an understudy, typically one who covers multiple roles in the chorus of a particular production.|
-	- swirl /swəːl/ 
-		> 打旋/旋轉 |Move in a twisting or spiralling pattern.| the smoke was swirling around him
-		> 使打旋 |Cause to move in a twisting or spiralling pattern.| swirl a little cream into the soup
-		> 漩渦/漩渦狀物 |A quantity of something moving in a twisting or spiralling pattern.| swirls of dust swept across the floor
-		> 打旋/旋轉 |A twisting or spiralling movement or pattern.| she emerged with a swirl of skirts
-	- sync /sɪŋk/ <--> sink /sɪŋk/ 
-		> 同步 |Synchronization.| images flash on to your screen in sync with the music
-		> 同步 |Synchronize.| the flash needs to be synced to your camera
 
 [T]
 	- tack
@@ -3588,6 +3321,9 @@
 	- turn toward 使面向 == to turn someone or something to face someone or something
 		> The nurse turned the old man toward his daughter, who had come to visit him.
 		> Ken turned the microphone toward the speaker.
+	- turned sb/sth down (v)拒絕..請求 == to refuse an offer or request
+		- He offered her a trip to Australia but she turned it/him down.
+		- He turned down the job because it involved too much travelling.
 	- thematic /θɪˈmatɪk/  <--> thermal
 		> 主題的 |Having or relating to subjects or a particular subject.| the book is organized into nine thematic chapters
 		> 主旋律的 |Relating to or containing melodic subjects.| the concerto relies on the frequent repetition of thematic fragments
@@ -3712,6 +3448,7 @@
 	- top out 達到最高點 == to reach the highest point in a continuously changing level that is about to start becoming less again
 	- top-up 注滿/加滿 == A quantity of a drink that refills a partly full glass or cup.
 	- topple /ˈtɒp(ə)l/ (v)使倒塌, 推翻/顛覆 = overthrow
+	- toss up (v)擲硬幣決定
 	- trot
 		> 小跑/快跑 |(with reference to a horse or other  quadruped) proceed or cause to proceed at a pace faster than a walk, lifting each diagonal pair of legs alternately.| the horses trotted slowly through the night
 		> 小跑 |A trotting pace.| our horses slowed to a trot
@@ -3962,6 +3699,8 @@
 		> 漸圓/漸滿 |(of the moon between new and full) have a progressively larger part of its visible surface illuminated, increasing its apparent size.|
 		> 變大/增強 |Become larger or stronger.|
 		> 講述/撰寫 |Begin to speak or write about something in the specified manner.| they waxed lyrical about the old days
+	- weed sth out (v)剔除/淘汰
+		- The first round of interviews only really serves to weed out the very weakest of applicants.
 	+ well /wɛl/ -> better -> best
 		> 好地 |In a good or satisfactory way.| the whole team played well
 		> 恰當地 |In a way that is appropriate to the facts or circumstances.| you did well to come and tell me
@@ -4143,7 +3882,7 @@
 	- en masse 一起/全體 == If a group of people do something en masse, they do it together and at the same time.
 		> The shop`s 85 workers have resigned en masse.
 	+ etc. /ɛtˈsɛtərə/ == et cetera 
-	- de facto 事實上的/實際上的 == existing in fact, although perhaps not intended, legal, or accepted
+	- de facto (adj)事實上的/實際上的 == existing in fact, although perhaps not intended, legal, or accepted
 		> The city is rapidly becoming the de facto centre of the financial world.
 		> He`s her de facto husband though they`re not actually married.
 	* pro bono (ADJ/ADV)公益 == (relating to work that is done, especially by a lawyer) without asking for payment
@@ -4468,6 +4207,15 @@
 		> 尖銳刺耳的聲音 |Loud, harsh piercing cries or noises.|
 		> 發出尖銳刺耳的聲音的 |Making a loud, harsh, piercing sound.| a screeching flock of parrots
 		> 刺耳的 |Used in reference to the sound made by the sudden stopping of a vehicle as a result of a forceful application of the brakes.| the truck came to a screeching halt
+	* slam (v)猛然關上, 碰地放下, 猛撞, 輕易地得分, 嚴厲地批評 (n)碰一聲, 監獄
+		> 猛然關上 |Shut (a door, window, or lid) forcefully and loudly.| he slams the door behind him as he leaves
+		> 碰一聲 |A loud bang caused by the forceful shutting of something such as a door.|
+		> 碰地放下 |Push or put something somewhere with great force.| Charlie slammed down the phone
+		> 猛撞 |Crash into; collide heavily with.| the car mounted the pavement, slamming into a lamp post
+		> 輕易地得分 |Score points against or gain a victory over (someone) easily.| the Blue Devils slammed Kansas to win the title
+		> 嚴厲地批評 |Criticize severely.| the new TV soap was slammed as being cynical and irresponsibl
+		> 監獄 |Prison| if he challenged the judge, he was definitely going to the slam
+	- snap (v)突然折斷, 劈啪地響, 啪地關上或打開, (動物)咬, 突然崩潰/理智斷線, [at]厲聲說, 拍快照 (n)劈啪聲, 急湊的態度或音調, 快照, 寒流, [非]輕鬆的工作, (橄欖球)開球, 子母扣 (mn)熱情 = zest, 零嘴 (adj)匆忙的/不加思索的
 	- syllable /ˈsɪləb(ə)l/ <--> consonant <--> vowel
 		> 音節 |A unit of pronunciation having one vowel sound, with or without surrounding consonants, forming the whole or a part of a word; for example, there are two syllables in water and three in inferno.|
 		> 音節字 |A character or characters representing a syllable.|

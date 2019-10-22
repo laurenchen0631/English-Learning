@@ -37,6 +37,8 @@
 	- An amount of milk is in the bottle.
 - amounts of 大量
 	- Amounts of snow are falling down.
+- scores of 大量的 == A large number of something.
+	- he sent scores of enthusiastic letters to friends
 - a variety of 各式各樣的 == a number of different kinds of
 	- They argued that cycling would encourage women to get involved in a variety of noble causes.
 - a drop in the bucket 微不足道/杯水車薪 = trivial = inconsequential = lilliputian = trifling = nugatory
@@ -56,7 +58,6 @@
 	- Edison`s goal was "a minor invention every ten days and a big thing every six months or so," an objective that was readily achieved
 + north of sth (n)多出 == used to say that an amount is more than the stated amount
 	- The share price is expected to rise north of $20.
-
 
 ## Degree
 + in part 在某種程度上 == To some extent though not entirely.
@@ -433,6 +434,10 @@
 	- There is something odd about him, but I cannot quite put my finger on it.
 - search/hunt high and low 到處找 == to search everywhere for something
 	- I've been hunting high and low for that certificate and I still can't find it!
+- see for oneself 親身體驗/親眼見識 == To see or experience something firsthand as a means of proving to oneself that it is true or accurate.
+	- I could not believe that his car could actually park automatically, so I had to go over and see for myself.
+- sit right/well (with sb) (某人)可接受/受(某人)歡迎 == to be something that you agree or are pleased with
+	- Their decision/answer did not sit well with the Board of Directors.
 - stake (one‘s) claims on 宣佈..的所有權/提出擁有權 == If you stake a claim to something, you say or show that you have a right to it and that it should belong to you
 	- He marked the spot on his map where he had seen the gold and returned later that month to stake his claim.
 	- Various countries were staking their claims on the continent at that time.
@@ -498,6 +503,8 @@
 	- I took the offer at face value. I did not think they might be trying to trick me.
 - take sth on trust 無條件相信 == to believe that something one has been told is true or correct even though one does not have proof of it
 	- I don't know anything about cars so I had to take the mechanic's recommendations on trust.
++ turn your back on sth 不再參與…/對…置之不理
+	- The country cannot afford to turn its back on tourism.
 - well thought out 精心計劃的/經縝密思考的 == planned in an effective way
 	- The training schedule was not very well thought out.
 	-  a well-thought-out system for traffic control
@@ -530,6 +537,11 @@
 	- The fight on the basketball court turned into a free-for-all.
 - from scratch 從頭開始/從零開始 = from the beginning, without using anything that already exists
 	- Ben built the shed from scratch.
+- in a hurry 迅速/匆忙
+	- She dressed in a hurry.
+	- He was in a hurry to leave. 
+- in favor of 有利於
+	- The evidence is in favor of the defendant. 
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
 	- The project is in full gear now that we have Sally on board.
 - more than 非常 == very
@@ -567,6 +579,9 @@
 	- first-line treatment of tuberculosis
 - under a cloud 不被信任/受懷疑/受嫌棄 == to not be trusted or popular 
 	- It also put sexuality, and anything related to it, under a cloud, and ultimately under a tight regime.
+- well off (adj)富有的/有錢的, 擁有大量…的/充足的
+	- Her family was very well off.
+	- The city is well off for parks and gardens.
 
 ## Job/Task
 - hit the ground running [非]雷厲風行/立刻展開行動
@@ -627,6 +642,10 @@
 	- These small local protests are just the tip of the iceberg.
 - turn the other cheek 不予還擊/不還手
 	- Neither nation is renowned for turning the other cheek.
+- sb is sold 買帳 == When someone are convinced of/by something.
+- sink or swim 自己去闖/成敗全憑自己
+	- My employer gave me no help when I started my new job - I was just left to sink or swim.
+
 
 ## Thing
 - a bite (to eat) 一些食物 == some food

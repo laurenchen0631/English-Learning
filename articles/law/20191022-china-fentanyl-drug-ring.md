@@ -1,1 +1,0 @@
-# [The China Connection: How One D.E.A. Agent Cracked a Global Fentanyl Ring](https://www.nytimes.com/2019/10/16/magazine/china-fentanyl-drug-ring.html)

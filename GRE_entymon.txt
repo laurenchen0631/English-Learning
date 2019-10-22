@@ -1462,6 +1462,7 @@
 			- /dɪˈbaʊtʃ/ debouch (v)(河川向廣闊處)流出, 進入(開闊地方) <-- de + bouch 嘴 = mouth
 			- decriminalization (n)合法化/除罪化
 			+ defame (v)詆毀/誹謗 = libel = malign = slander = calumniate = denigrate = disparage = smear = vilify
+			+ defamatory (adj)誹謗的/詆毀的 = calumnious
 			- deface
 			+ defeat
 			+ defect
@@ -1518,6 +1519,7 @@
 			- disconcert
 			* discompose
 			* discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
+			- disconsolate (adj)憂鬱的/哀傷的
 			* discontent (v)使不滿 = dissatisfy = displease = envy
 			+ discord
 			- disfigure
@@ -2086,6 +2088,7 @@
 		+ /ˌjuːθəˈneɪzɪə/ euthanasia (n)安樂死 <-- eu + thanas 死亡 = death + ia
 
 	extra, extro, exter 外面/超過
+		- extracurricular (adj)課外的, 婚外的
 		+ extraneous (adj)外來的 = extrinsic, 無關的 = irrelevant <--> apposite
 		- extrapolate (v)預測/推測 = speculate --> extrapolation (n)預測/推測 <-- extra + interpolate
 		+ extravagant --> extravagance
@@ -2456,6 +2459,7 @@
 
 	firm 堅定
 		+ affirm (v)斷言/主張 = assert = maintain, 確認 = confirm = uphold = ratify
+		+ affirmative (adj)肯定的, 表示贊成的, 明確的 = unequivocal, 支持鼓勵的 (n)肯定詞, 贊成的一方 (excl)肯定 = yes
 		++ confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrenched
 		- infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
 
@@ -3037,7 +3041,7 @@
 			* infancy (n)嬰兒期/幼年, 初期/發展階段
 			* /ˈɪnf(ə)nt/ infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
 			- infantilize (v)把..當成小孩般對待
-			+ infallible (adj)永無過失的/不會犯錯誤的
+			+ infallible (adj)永無過失的/不會犯錯誤的 --> infallibility (n)無錯誤/無過失
 			+ infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
 			- infinite --> infinity
 			- infinitesimal
@@ -3079,7 +3083,7 @@
 			+ intangible (adj)無形的/觸摸不到的 <-- in + tangible
 			+ /ɪnˈtəːmɪnəb(ə)l/ interminable (adj)無盡頭的/無止盡的
 			+ intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
-			+ intractable (adj)倔強的/難管的/棘手的 = implacable = stubborn = obstinate
+			++ intractable (adj))倔強的 = implacable = stubborn = obstinate, 無法控制的/難以處理的/棘手的 = uncontrollable 
 			+ intransigent (adj)不妥協的 = pertainacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
 			+ intransigence (n)不妥協/不讓步
 			+ intrepid
@@ -3212,6 +3216,7 @@
 			- ingrained (adj)根深蒂固的 = confirmed = inveterate <-- in + grain 紋理 + ed
 			+ ingratiate --> ingratiating
 			- ingredient
+			- ingrown (adj)天生的 = innate, 向內生長的/生進肉內的(腳趾甲), 對外界不關心的 = inward-looking
 			- inhabit
 			- inherit
 			+ inhibit --> inhibited
@@ -3233,6 +3238,7 @@
 			+ insight (n)洞悉/深入了解 --> insightful (adj)富有洞察力的 = perceptive
 			- insignia
 			+ insinuate (v)暗指/暗示 = imply = suggest = allude, 緩緩地滑動, 逐漸而巧妙的取得 <-- in + sinuous + ate
+			- insource (v)內包 <--> outsource
 			- inspect --> inspection
 			- inspire --> inspiration --> inspired
 			* install
@@ -3569,6 +3575,7 @@
 			- /ɪnˈtɛlɪdʒ(ə)nt/ intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
 			+ intelligible (adj)清晰的/明瞭的 = comprehensible 
 			+ predilection (n)嗜好/偏愛 <-- pre + dilect 選擇 = select + ion
+			- selectivity (mn)選擇性
 
 	lig 綁
 		* ligate (v)[手術]綁/捆/紮
@@ -4037,6 +4044,7 @@
 		- dimension (n)空間/尺寸, 維度/特點
 		-  /ɡrəˈvɪmɪtri/ gravimetry (n)重量分析法(以分析物固體質量為基礎來測量的定量測定方法)
 		+ immense (adj)極大的 = vast = huge, 無限的 = limitless = infinite = immeasurable = boundless --> immensity (n)巨大之物, 巨大/無限
+		- metric (adj)公制的/米制的 (n)測量系統, [非]公制 --> metrics (n)指標
 		- odometer (n)汽車里程表 <-- odo 路 = way + meter
 		+ symmetry
 
@@ -4085,6 +4093,7 @@
 	merc 交易 = buy, deal
 		* /ˈkɒməːs/ commerce (n)商業/商務/貿易/交易 <|> commence
 		- /ˈməːk(ə)ntʌɪl/ mercantile (adj)貿易的/商業的 = commercial
+		- mercantilism (n)重商主義/商業本位
 		- /ˈməːtʃ(ə)nt/ merchant (n)商人/零售商 (adj)商人的/商業的, 商船的
 		- merchandise (n)商品/貨物, 聯名商品 (v)推銷/促銷 = promote, 推廣 = promote
 		+ /ˈməːsɪn(ə)ri/ mercenary (adj)唯利是圖的 = venal (n)雇傭兵, 以金錢為目的人
@@ -4633,6 +4642,7 @@
 		- previous 
 
 	pro 向前/先前 = forward, forth, before
+		- pro (n)[非]職業選手, 妓女 = prostitute, 優點 (adj)專業的 (prep/adv)偏好
 		- proactive (adj)積極主動的
 		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
 		- /ˈprɒbləm/ problem (n)問題 <-- pro + blem 丟 
@@ -5232,6 +5242,7 @@
 		+ cacophony --> cacaphonous
 		+ euphony (n)悅耳 --> euphonious (adj)悅耳的 = melodious = liquid
 		- francophone (adj)法語圈的 (n)法語圈
+		- phone (n)電話 = telephone, [非]耳機 = headphone = earphone (v)[up]電話通知, [phone it in]敷衍了事
 		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
 		- phonograph (n)唱機
 		- phonetic (adj)語音的, 語音學的, 音形一致的
@@ -5429,6 +5440,7 @@
 	
 	quad 四 = four
 		- quad (n)四邊形 = quadrangle, 四胞胎之一 = quadruplet, 股四頭肌 = quadriceps muscle, 四輪摩托車 = quad bike, 四聲道 = quadraphony (adj)[非]四部組成的/四倍的 = quadruple, [非]四聲道的 = quadraphonic
+		- quadrangle (n)四邊形, 周有建築物圍繞的方院
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
@@ -5958,6 +5970,7 @@
 
 		2. 安慰 = soothe
 			* console (n)控制台/儀表板, 落地櫃, 演奏台, 螺形支架 (v)安慰/撫慰 = assuage = soothe = comfort --> consolation (n)安慰/慰藉
+			- disconsolate
 			- solace (n)安慰/慰藉 = consolation (v)給..慰藉
 
 	soli, sol 孤單/整個 = alone, whole
@@ -6035,10 +6048,12 @@
 		- stagnate (v)淤塞, 停滯 --> stagnant (adj)淤塞的, 停滯的/懶散的 = dull = sluggish --> stagnation (n)淤塞, 停滯
 		+ /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous = dignified = sober = solemn = somber <-- stays
 		- stay (v)停留/留下/保持, 堅持/忍耐 (n)逗留, 制止/遏止, 胸衣
-		- stance (n)站姿, 立場 = standpoint
+		- stance (n)姿勢/姿態, 態度/立場 = standpoint, 攀岩的立足處
 		++ stanch, staunch (v)止血 (adj)忠誠的 = loyal, 堅固的(牆壁)
+		- standout (n)[非]出眾的人或事物 (adj)[非]傑出的
 		- standstill (n)停止/停滯
 		- stanza (n)詩節/詩段 = verse
+		- stately (adj)宏偉的/堂皇的, 莊嚴的/高貴的
 		+ stasis -> stases (n)停滯/靜止 = inactivity = equilibrium, 瘀血
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
 		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
@@ -6188,6 +6203,7 @@
 		+ symmetry (n)對稱, 均勻, 相似處 = resemblance = correspondence = similarity
 		+ sympathy --> sympathetic
 		- symphony
+		- /sɪŋk/ sync (n)同步 = synchronization (v)同步 = synchronize <|> /sɪŋk/ sink 
 		- synchronous (adj)同時的/同時發生的 = simultaneous
 		- syndic (n)市政官 --> syndicate (n)企業聯合 = conglomerate (v)企業聯盟控制, 透過供稿聯合組織在報刊上同時發表
 		- syndrome (n)綜合症狀 <-- syn + drome 跑 = run
@@ -6301,6 +6317,7 @@
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
 		- sediment (n)沉積物, 渣 = dregs (v)沉積 --> sedimentary (adj)
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
+		- session (n)開會/開庭, 學期, 期間
 		+ subside (v)平息/減弱, (水)消退, 下陷, 坐下/跪下
 		- subsidy (n)輔助金
 		- subsidiary (adj)附帶的/次要的 = subordinate, 隸屬的 (n)子公司
@@ -6363,7 +6380,7 @@
 		+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
 		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
-		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙 <|> spring -> sprang -> sprung
+		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙, [along]長期哄騙/敷衍 <|> spring -> sprang -> sprung
 		+ stringent (adj)嚴格的/精確的 = strict = stern = severe = austere = precise = exacting
 		* unrestrained (adj)不受限制的/無節制的
 
@@ -6400,6 +6417,8 @@
 		+ prescient (adj)有先見之明的 --> prescience (n)預知/先見 = foreknowledge = foresight = presage
 		- science (n)科學, 學科, 學問
 		- scientific (adj)科學的, 系統的/精確的
+		- sci-fi (n)[非]科幻小說 = science fiction
+
 
 	sequ 跟隨 = follow
 		+ consequence (n)結果/後果, 重要性/價值 = importance = relevance
@@ -6427,6 +6446,7 @@
 		* reserve (v)保存/保留, 預約/預訂, 延遲作出(判決) (n)儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = reserve price
 		+ reserved (adj)預訂的/保留的, 沉默寡言的/含蓄的
 		+ /ˈrɛzəvwɑː/ reservoir (n)水庫/蓄水池, 儲藏/積累, 儲液囊
+		- serve (v)為……服務, 服役, 供應(飯菜), 侍候, 足夠, [法]送達(傳票等), 適合/用於, 對待, 發球 (n)發球
 		++ subservient (adj)屈從的 = servile = submissive = deferential, 次要的 = subordinate, 作為..目的的
 
 	sign 標出 = mark, seal
@@ -6452,6 +6472,7 @@
 	stell, sider 星星 = star == astro
 		- consider (v)認真考慮/斟酌 = ponder = deliberate = reflect = entertain, 認爲 = reckon = suppose, 注視 = regard
 		+ considerable (adj)相當多的/相當重要的/值得考慮的/相當的 = significant = substantial
+		- considerate (adj)考慮周到的
 		- constellation (n)星座/星群, 群集
 		+ /dɪˌzɪdəˈrɑːtəm/ desideratum -> desiderata (n)需要的東西
 		- interstellar (adj)星際的
@@ -6696,6 +6717,7 @@
 		+++ contend (v)[for]競爭/爭奪 = compete = vie = strive, [with/against]克服, 聲稱/主張 = assert = posit
 		+ contention (n)爭論/口角 = discord = dispute = strife, 論點/主張 <|> content
 		+ contentious (adj)有異議的, 有爭議的 = controversial, 熱烈的(爭論) 
+		- contender (n)爭奪者
 		+ distend (v)鼓起/隆起 = expand = swell --> distension (n)膨脹
 		+ extend (v)擴大/擴展/延長, 佔據(空間) = occupy, [to]適用於 = be applicable to, 伸出, 給予/提供 = offer, 使竭盡全力
 		- /ɪkˈstɛndɪd/ extended (adj)擴大的, 延長的
@@ -6814,6 +6836,7 @@
 		2. 覆蓋 = cover == calyps
 			+ detect (v)發現/察覺 = discover, 辨別出 = discern, 調查 = investigate --> detection (n)發現/察覺, 調查工作
 			- protect (v)保護, 對…實行貿易保護, 為..提供保險
+			- protectionism (n)貿易保護主義 <--> mercantilism
 
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
@@ -6957,6 +6980,7 @@
 		* unconcerned (adj)不擔心的/漠不關心的/無興趣的
 		+ /ʌnˈkɒnʃ(ə)nəbəl/ unconscionable (adj)不合理的 = unreasonable = unwarranted, 不合理地多的
 		- unconscious (adj)不省人事的, 下意識的, [of]沒有意識到的 = unaware (n)[the]潛意識
+		- uncontrollable (adj)無法控制的/抑制不住的 = intractable
 		* uncouth (adj)粗野的/粗俗的 = gauche = crude
 		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick = atypical <|> inconvenient
 		- undemocratic (adj)不民主的
@@ -7005,6 +7029,7 @@
 		- unmoved (adj)無動於衷的/冷漠的, 不動搖的/堅定的
 		+ unnerve (v)使失去勇氣/使氣餒 = dishearten = discourage = dispirit
 		+ unnoticed (adj)未被注意的 = unspotted
+		* unobjectionable (adj)無異議的 = acceptable
 		+ unoriginal (adj)非原創的/模仿的 = derivative
 		- unobtrusive (adj)不引人注目的
 		+ unorthodox (adj)非正統的/非傳統的 = heterodox = maverick = unconventional
@@ -7122,6 +7147,7 @@
 		- unisex (adj)不分男女的/男女皆宜的 (n)男女皆宜的造型
 		+ universal (adj)全體的/普遍的, 通用的, 宇宙的/全世界的 (n)全稱命題, 一般概念, 普遍現象, 通用文法規則
 		+ universality (mn)普遍性, 普適性
+		- varsity (n)[英]大學, 大學代表隊 <-- university
 		- univocal (adj)意思明確的 = unambiguous
 
 	use 用
@@ -7159,6 +7185,7 @@
 
 	verb 話語 = word
 		+ verbal (adj)文字的, 口頭的, 嘮叨的, 動詞的 (n)動詞, 動名詞
+		- verbatim (adj/adv)一字不差地/逐字地
 		- verbiage (mn)冗詞/廢話/贅語
 		+ verbose (adj)累贅的/冗長的 = wordy
 
