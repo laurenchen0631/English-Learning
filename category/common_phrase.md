@@ -50,6 +50,12 @@
 	- the children used to tease one another
 - a majority of 大多數 
 	- A large majority of people approve of the death sentence.
+	- in bulk (adv)批發地, 散裝地
+	- 批發地 |(of goods) in large quantities and generally at a reduced price.| retail multiples buy in bulk
+	- 散裝地 |(of a cargo or commodity) not packaged; loose.| sugar is imported in bulk and bagged on the island
+- per capita (adj/adv)人均/每人
+	- the state had fewer banks per capita than elsewhere
+	- lower than average per capita spending
 
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
@@ -263,6 +269,8 @@
 	- Global Offensive may be on par with the National Football League’s viewership today.
 - (right) on cue 不出所料 == as if planned to happen exactly at that moment
 	- We were just about to say "I do" when, right on cue, my little cousin started crying.
+- in record numbers 多於以往 == in amounts or quantities greater than ever before
+	- New houses are being built in record numbers.
 - in step with 與..一致 == in agreement with someone or something
 	- She is very much in step with the times.
 	- Gasoline prices rose in step with oil prices.
@@ -413,6 +421,8 @@
 	- These two bottles look so much alike. It's hard to keep them straight.
 - lie in wait 埋伏起來
 	- The gunmen were lying in wait when Mr Predit came out of the hotel.
+- off the hook 脫離困境/脫身
+	- John's agreed to go to the meeting in my place so that gets me off the hook.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
 	- She made it clear that her comments were strictly off the record.
 - on the run (v)奔逃/躲藏, 忙個不停/奔忙
@@ -522,7 +532,10 @@
 	- You scared the daylights out of me, yelling like that.
 - sick at heart 非常不高興 == very unhappy
 	- David was sick at heart about having to leave his family behind.
-	
+- take sb aback 使..大吃一驚
+	- I was a little taken aback at the directness of the question.
+	- The news really took us aback.
+
 ## Status
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
@@ -549,6 +562,7 @@
 	- I was more than a little curious about the whole business.
 - off the map 不再知名 == no longer famous or relevant
 	- Mary Kate and Ashley are long off the map if you ask me.
+- on standby 隨時待命
 - on the go 忙碌的/生產中的
 	- I have been on the go all day, and I`m really tired.
 	- Did you know that she's got a new book on the go (= being written)
@@ -574,6 +588,7 @@
 - state-of-the-art 十分先進的/應用最新理念或方法的 == very modern and using the most recent ideas and methods
 	- a state-of-the-art computer
 	- The control panel uses all the newest technology and is considered state-of-the-art.
+- teeny weeny (adj)非常小的 == tiny
 - the first line of == first-line 第一線的/首要的
 	- Passport checks will remain the first line of defence against terrorists.
 	- first-line treatment of tuberculosis
@@ -630,10 +645,18 @@
 - Renaissance man (n)多才多藝的人
 
 ## Apothegm
+- Cogito, ergo sum 我思故我在
+- have/get several irons in the fire 同時有幾件事要做/同時有數種可能
+	- If that job application doesn't work out I've got a couple more irons in the fire.
 - if you will/like 如果你願意那樣說的話
 	- I did very well in school , with a "genius IQ" if you will.
 - revenge is sweet 報仇雪恨，大快人心
 - revenge is a dish best served cold 君子報仇，十年不晚
+- sb is sold 買帳 == When someone are convinced of/by something.
+- sink or swim 自己去闖/成敗全憑自己
+	- My employer gave me no help when I started my new job - I was just left to sink or swim.
+- spread oneself too thin 同時做太多事情
+	- I realized I'd been spreading myself too thin so I resigned as secretary of the golf club.
 - That was then. This is now. 此一時，彼一時
 - tit for tat 以牙還牙
 	- I noticed she didn't send me a card - I think it was tit for tat because I forgot her birthday last year.
@@ -642,9 +665,9 @@
 	- These small local protests are just the tip of the iceberg.
 - turn the other cheek 不予還擊/不還手
 	- Neither nation is renowned for turning the other cheek.
-- sb is sold 買帳 == When someone are convinced of/by something.
-- sink or swim 自己去闖/成敗全憑自己
-	- My employer gave me no help when I started my new job - I was just left to sink or swim.
+- the skin of your teeth 僥倖成功/勉強完成/險些錯過
+	- He escaped from the secret police by the skin of his teeth.
+- window of opportunity 機會之窗
 
 
 ## Thing

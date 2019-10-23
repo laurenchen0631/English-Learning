@@ -63,9 +63,11 @@
 	- bouncer (n)保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
 	- lumberjack (n)伐木工人
 	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
+	- funeral home == funeral parlor (n)殯儀館 = mortuary
 	- cottage industry (n)家庭代工
 	- fire marshal (n)消防員, 消防署署長/消防隊長
     - homemaker (n)主婦
+	- tour guide (n)導遊
 	
 	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
@@ -75,7 +77,9 @@
 
 [Company/Store]
 	- off-duty (adj)不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
-	- pension /ˈpɛnʃ(ə)n/ 
+	- 401K (n)401(k)退休福利計劃，是美國於1981年創立一種延後課稅的退休金帳戶計劃，美國政府將相關規定明訂在國稅法第401(k)條中，故簡稱為401(k)計劃
+	- pension 
+	- pension /ˈpɛnʃ(ə)n/ (n)退休金, 補助金, 膳宿公寓/寄宿家庭 (v)發給..退休金, 捨棄
 		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
 		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
 		> 發給..退休金 |Dismiss someone from employment, typically because of age or ill health, and pay them a pension.| he was pensioned off from the army after the war
@@ -242,6 +246,8 @@
 	- tax return (n)報稅，在美國是指向美國國家稅務局或各州、地方的徵稅機構申報所得稅或其他稅務
 	- operating expense (n)營業費用，是運行企業的持續性、消耗性的支出，與之對照的是資本支出
 
+
+
 [Law]
 	- the Articles of Confederation (n)邦聯條例，全稱為《邦聯和永久聯合條例》，是美利堅合眾國13個創始州共同承認並遵守的第一部憲法
 	- the Supreme Court 最高法院
@@ -365,6 +371,8 @@
 		> 改正 |The action or process of correcting something.| I checked the typing for errors and sent it back for correction
 		 修正量 |A quantity adjusting a numerical result to allow for a departure from standard conditions.| isotopic ratios are presented normalized to NBS SRM981 using a fractionation correction of 0.101% per a.m.u
 		> 懲治/懲罰 |Punishment, especially that of criminals in prison intended to rectify their behaviour.| the incompatibility of justice and correction as penal objectives has long been the major unsolved problem of penal practice
+	- civil law (n)民法
+	- criminal law (n)刑法
 
 [Crime/Police]
 	- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
@@ -568,6 +576,7 @@
 	- stagecoach 接驛馬車 == A large closed horse-drawn vehicle formerly used to carry passengers and often mail along a regular route between two places.
 	- rattletrap 老爺汽車 == An old or rickety vehicle.
 	- tractor-trailer 大貨車 == a large truck in two parts, one in the front for the driver and one behind where goods are carried. The connection between the two parts can bend in order to help the vehicle turn corners.
+	- hearse (n)靈車
 	- roller-skate == Glide across a hard surface on roller skates.
 	- motor pool 調度場 == carpool == a group of vehicles used for a particular purpose and dispatched when needed. A group of military vehicles under the control of the military is an example of a motor pool.
 	- windscreen 擋風玻璃
@@ -800,6 +809,7 @@
 	- goulash /ˈɡuːlaʃ/ (n)匈牙利湯
 	- brew /bruː/ (v)釀造, 泡(茶)/煮(咖啡), 醞釀 (n)啤酒, 杯子 = cup = mug, 混合物
 	- cauldron /ˈkɔːldr(ə)n/ (n)釜/大鍋
+	- spaghetti (n)意大利細麵條
 
 [Medicine]
 	- medical
@@ -818,6 +828,16 @@
 	- anesthesiologist 麻醉師
 	- ObGyn == obstetrician-gynecologist 婦產科醫生 == a doctor who specializes in women’s health
 	* veterinary /ˈvɛtrɪn(ə)ri／ (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
+	- emergency medical service == EMS (n)緊急醫療服務
+	- emergency medical technician == EMT (n)緊急救護技術員
+	- paramedic (n)急救護理人員
+
+	- Medicaid (n)(美)國為窮人服務的)醫療補助制度
+	- Medicare (n)美國醫療保險，為美國聯邦政府對老年人和部分殘疾人、重病患者提供的全國範圍醫療保險
+	- the Affordable Care Act == Patient Protection and Affordable Care Act (n)患者保護與平價醫療法案
+
+	- gurney (n)(醫院裡推送病人用的)輪床
+
 	- phlebotomy 放血法 --> phlebotomist 放血師
 	- psychopathology /ˌsʌɪkəʊpəˈθɒlədʒi/ 
 		> 精神病理學 |The scientific study of mental disorders.| Wharton`s autobiography ranks high in the annals of psychopathology
@@ -1045,6 +1065,7 @@
 	- autoimmune disease == AID 自體免疫性疾病，是人體內的異常的免疫反應攻擊了正常細胞
 	- necrosis (n)壞疽
 	- chronic pain (n)慢性疼痛
+	- cardiac arrest (n)心臟停止，是心臟因不能夠有效收縮，而導致血液循環停止的現象
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1110,6 +1131,7 @@
 	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
 
 	- epistle (n)書信, 使徒書信
+	- epistolary (adj)書信的/書信體的
 	- lyric (adj)抒情的, 歌詞的 (n)抒情詩, 歌詞 --> lyrical (adj)抒情的, 歌詞的 
 	- ode /əʊd/ (n)頌詩/頌歌 <--> odd /ɒd/ <--> old /əʊld/ 
 	- iambic pentameter 五步抑揚格，用於傳統英語詩歌和詩歌劇的公制線
@@ -1257,6 +1279,7 @@
 	- banjo /ˈbandʒəʊ/ (n)五弦琴/班卓琴
 	- Appalachian music (n)阿巴拉契亞音樂，美國東部阿巴拉契亞地區的音樂。它源於歐洲和非洲的各種影響，包括英語民謠，愛爾蘭和蘇格蘭的傳統音樂
 	- ballad /ˈbaləd/ (n)民謠/民歌
+	- /wɔːlts/ waltz (n)華爾滋, 圓舞曲 (v)跳華爾滋, 輕快地走動, 隨意地做, 輕鬆辦到
 
 [Clothing/Fashion]
 	- attire (n/v)衣著/打扮
@@ -1267,6 +1290,7 @@
 	- masseur /maˈsəː/ 按摩師
 	- mannequin /ˈmanɪkɪn/ 模特兒假人 == A dummy used to display clothes in a shop window.
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
+	- waistcoat (n)背心/馬甲
 	- cashmere scarves 喀什米爾羊絨圍巾
 	- trench coats 風衣
 	- tuxedo /tʌkˈsiːdəʊ/ 晚禮服 == A man`s dinner jacket
@@ -2131,6 +2155,8 @@
 	- skiing /ˈskiːɪŋ/ 滑雪
 	- swimming /ˈswɪmɪŋ/ 游泳
 	- racquetball /ˈrakɪtbɔːl/ (n)短柄墻球
+	- doubleheader (n)連賽兩場, 雙車頭列車
+	- shortstop (n)游擊手
 
 
 [Fun/Entertainment]

@@ -1,3 +1,15 @@
+## Interrogative
+* whereabouts (n)下落 (adv)在哪裡
+	- Whereabouts do you feel the pain? 
++ wherein (adv)在那時/在那方面/在那裡, 在哪方面
+	- |In which.| the situation wherein the information will eventually be used
+	- |In what place or respect?| so wherein lies the difference?
+
+## Relative
++ whereby == By which (adv)靠那個/藉以
+	- a system whereby people could vote by telephone
+	
+
 ## Space
 + alongside (prep)
 	- 在旁邊 |Close to the side of; next to.| she was sitting alongside him
@@ -42,6 +54,7 @@
 + respectively (adv)分別地/各自地
 - uncharacteristically (adv)不典型地/非同尋常地
 + squarely (adv)直接地 == Directly, without deviating to one side.| Ashley looked at him squarely
+- exclusively (adv)僅僅, 專門地
 
 ## List
 - besides == apart from == as well 除..之外
@@ -104,7 +117,7 @@
 - anew (adv)
 	- 重新 |In a new or different and typically more positive way.| her career had begun anew, with a lucrative Japanese modelling contract
 	- 再一次 |Once more; again.| tears filled her eyes anew
-- apart
+- apart (adv)相隔地, 分離地, 分開地, 與眾不同地, 散開地
 	- 相隔地 |(of two or more people or things) separated by a specified distance in time or space.| two stone gateposts some thirty feet apart
 	- 分離地 |No longer living together or close emotionally.| alcoholism had driven us apart
 	- 分開地 |To or on one side; at a distance from the main body.| Isabel stepped away from Joanna and stood apart
@@ -127,3 +140,9 @@
 	- ADV 過 |So as to pass from one side of something to the other.| a flotilla of glossy limousines swept past
 	- ADV 經過 |Used to indicate the lapse of time.| a week went past and nothing changed
 - roundly (adv)強烈地, 徹底地, 唐突地 = bluntly, 圓地
+* upfront == up front (adv)在前面, 事前 (adj)勇敢的/正直的, (支付)事前的, 最顯著的/前面的
+	- ADV 在前面 |At the front; in front.| he can play up front or in defence
+	- ADV 事前 |(of a payment) in advance.| the salesmen are paid commission upfront
+	- 勇敢的/正直的 |Bold, honest, and frank.| he`d been upfront about his intentions
+	- 事前的 |(of a payment) made in advance.| an upfront fee of 4%
+	- 最顯著的/前面的 |At the front or the most prominent position.| a literary weekly with an upfront section modelled on the New Yorker

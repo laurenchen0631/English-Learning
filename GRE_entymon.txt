@@ -370,6 +370,9 @@
 			- archive (n)檔案室 --> archives (n)檔案
 			- archbishop (n)樞機主教
 			- monarch (n)君主/帝王, 帝王蝶, 王鶲 --> monarchy (n)君主制
+			- monarchist (n)君主主義者 (adj)支持君主制的
+			- patriarch (n)家長/族長, 元老, 創始人, 早期基督教的主教, 羅馬天主教和東正教的最高一級的主教
+			- patriarchal (adj)家長或族長制的, 家長的/族長的
 			+ hierarchy --> hierarchical
 			+ oligarchy
 			- matriarch (n)母權
@@ -481,6 +484,7 @@
 	bi 二 = two, twice == ambi
 		+ /ˈbʌɪfəkeɪt/ bifurcate (v)(道路、河流、樹枝)分叉 = ramify <--> coalesce
 		- bilingual (adj)兩種語言的 <-- bi + linguistic
+		- bipartisan (adj)獲得兩個政黨支持的
 		- biped
 
 	bio 生命
@@ -662,6 +666,7 @@
 			+ conjugal
 			++ /kəˈnʌɪv/ connive (v)密謀/共謀 = conspire = collude, 默許/放任 = acquiesce = condone <-- con + nive 眨眼 = wink
 			+++ connote --> connotation --> connotative
+			- comport (v)[oneself]舉動/舉止 = behave, (觀點或說法)相符合/一致 (n)蜜餞 = compote
 			+ conscience --> conscientious
 			+ conscious
 			+ conscript
@@ -818,7 +823,7 @@
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
 		+ cursory (adj)倉促的/匆忙的 = hasty = superficial
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
-		- concourse (n)中央大廳, 群, 匯合/集合
+		- concourse (n)中央大廳, 一群, 匯合/集合
 		*** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
 		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
@@ -2126,6 +2131,8 @@
 			- epidermis
 			- epidemic
 			+ eponym
+		    - epistle (n)書信, (聖經‧新約中的)使徒書信
+			- epistolary (adj)書信的/書信體的
 			- epitaph (n)墓誌銘 <-- epi + taph 墓 = tomb
 			- epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = put
 			- epoch (n)時期/時代, 重要時期, 新紀元, 值得紀念的事件 <-- ep + och 擁有 = have
@@ -3115,7 +3122,7 @@
 			+ illuminate
 			- illuminati
 			+ illusion --> illusive, illusory
-			- illustrate
+			+ illustrate --> illustrative
 			+ /ɪmˈbʌɪb/ imbibe (v)喝 = drink, 吸收(知識) = absorb <-- im + bibe 喝 = drink
 			+ /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
 			- immanent (adj)內在的, 普遍存在的 <-- im + man 待 = stay = ent
@@ -3555,6 +3562,7 @@
 
 	lustr, luster 光澤 = polish
 		+ illustrate (v)用圖、例子或圖表說明/闡明 = exemplify <|> illuminate
+		- illustrative (adj)說明的/作例證的, 插畫的
 		+ illustrious (adj)輝煌的/顯赫的 <|> illustrate
 		+ lackluster (adj)無生氣的/無趣的 = uninspired = dull = insipid, 無光澤的 = dull
 		+ luster (n)光澤 = gloss = sheen, 榮耀/榮光 (v)使有光澤 --> lustrous (adj)有光澤的 = shining
@@ -4062,7 +4070,7 @@
 		- /ˈmɔːɡɪdʒ/ mortgage (n)抵押貸款/抵押證書/抵押契據 (v)用...做抵押
 		++ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 --> mortification (n)屈辱/恥辱, 禁慾/克制
 		+ moribund (adj)即將滅亡的, 垂死的 = dying <-- mori + bund 接近
-		- /ˈmɔːtʃʊri/ mortuary (n)停屍間 (adj)喪禮的/墓碑的
+		- /ˈmɔːtʃʊri/ mortuary (n)停屍間/殯儀館 = funeral home (adj)喪禮的/墓碑的
 
 	muse 繆思
 		+ amuse (v)使愉快/逗笑 = delight = please = regale, 給...提供娛樂 = entertain
@@ -4839,6 +4847,7 @@
 		- pendant (n)垂飾, 有垂飾的項鍊, 吊燈, 成對物中的一個 (adj)下垂的 = pendent
 		- pendent (adj)下垂的 = pendant, 未決的 = pending
 		- /ˈpɛndjʊləm/ pendulum (n)擺/擺錘, 來回擺動
+		- /ˈpɛnʃ(ə)n/ pension (n)退休金, 補助金, 膳宿公寓/寄宿家庭 (v)發給..退休金, 捨棄
 		+ pensive (adj)沉思的/憂戚的 = wistful
 		- perpendicular (adj)垂直的 = vertical (n)垂直線, 垂直的位置
 		+ propensity (n)傾向/習性 = inclination = tendency = proclivity
@@ -4865,6 +4874,7 @@
 			- parallelism (n)平行/類似, 對句法, 平行處理
 			- unparalleled
 			+ /pəˈralɪsɪs/ paralysis (n)麻痺/癱瘓, 癱瘓/停頓 --> paralyze (v)使麻痺/使癱瘓, 使陷入癱瘓/使全面停頓 <-- par + lysis 放開 = loosen
+			- paramedic (n)急救護理人員
 			- /pəˈramɪtə/ parameter (n)參量/變量, 界限
 			- /ˈparəfreɪz/ paraphrase (n/v)解釋/釋義 = exegesis
 			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (n)寄生蟲病  <-- para + site 吃 = eat
@@ -4889,7 +4899,8 @@
 		- /pɑːtɪsɪˈpeɪtəri/ participatory (adj)參與的
 		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
 		+ particularize (v)詳述
-		* partisanship (n)偏見 = prejudice = bias
+		+ partisan (n)黨徒/虔誠的信徒/熱烈的支持者 (adj)盲目支持的/擁護的
+		+ partisanship (n)偏見 = prejudice = bias
 		- nonpartisan (n)無黨派的人
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
 
@@ -5599,7 +5610,7 @@
 			- resurrect
 			- resuscitate
 			- retail
-			+ retain --> retainer
+			+ retain --> retainer --> retention
 			+ retard
 			- retell (v)重述
 			+++ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
@@ -5777,6 +5788,7 @@
 	respond 反應
 		+ correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
 		* correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
+		* correspondence (n)類似/相似處 (mn)通信, 信件
 		- respond (v)作答/回答/作出反應
 		- response (n)反應/回響/回答
 		- responsive (adj)反應積極的/響應的 --> responsiveness (n)反應積極/響應
@@ -6029,6 +6041,7 @@
 		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
 		+ extant (adj)現存的/尚存的 = surviving <--> extinct
 		- hemostat
+		- insist (v)堅決要求, [on]堅決主張, [on]堅持, 堅決認為
 		- instance (n)例子/實例 (v)舉……為例
 		- instantiate (v)舉例說明
 		- instant (adj)立即的, 速食的/即溶的, 迫切的 = urgent = pressing, 當月的 (n)現在, 瞬間/頃刻 = moment, 即溶咖啡
@@ -6639,6 +6652,7 @@
 		- pertinacious (adj)固執的/不妥協的 = intransigent = uncompromising = inflexible = obstinate
 		+++ retain (v)保留 = maintain = preserve, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱, 預付
 		- retainer (n)固定器, 預付金, 侍從 = servant
+		- retention (n)保留/保持 <-- retain
 		- retinue (n)隨員/扈從
 		+ sustain (v)撐 = support = bear, 遭受/蒙受 = suffer = undergo, 維持/使持續, 扮演, [法]確認/認可 = uphold = affirm
 		+ sustained (adj)持久的/持續的
@@ -6691,6 +6705,8 @@
 			** tendency (n)傾向 = bent = inclination, 政治團體
 			+ /tɛnˈdɛnʃəs/ tendentious (adj)有強烈傾向的/有偏見的 = biased <-- tendency
 			++ tender (v)正式提出/提供, 投標 (n)投標 (adj)柔軟的/嫩的, 溫柔的/體貼的, 敏感的 = sensitive, 年輕的/無經驗的
+			- tenderness (n)溫柔/親切, 痛覺 = soreness, 柔軟/嫩
+			* tract (n)大片土地, 道, 短文/小冊子
 			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple = malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
 
 		2. 拿著 = hold, keep == tain
@@ -6974,6 +6990,7 @@
 		- unassuming (adj)謙虛的/不出風頭的 = modest <--> pretentious
 		- unbecoming (adj)不合身的, 不得體的 = improper = unseemly
 		- unbend (v)弄直, 變融洽/放鬆, 卸下(帆), 解開(繩索)
+		- unbuttoned (adj)鈕扣解開的, [非]放鬆的/無拘束的
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
 		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
@@ -7107,6 +7124,7 @@
 		- underling (n)[貶]部下/走卒
 		+ underlie -> underlay -> underlain (v)在下面, 是...的基礎 = be the cause or basis of 
 		+ underlying (adj)在下面的 = below, 根本的/基礎的 = basic = fundamental
+		- underinsured (adj)保險額不足的
 		+ undermine (v)暗中破壞/逐漸損害, 侵蝕 = erode, 在……下挖坑道
 		- underperform (v)表現不佳
 		+ underplay (v)對……輕描淡寫 = downplay = underestimate = deemphasize, 含蓄地表演 = underact
@@ -7184,7 +7202,7 @@
 		+ veritable (adj)名副其實的 <|> verifiable1
 
 	verb 話語 = word
-		+ verbal (adj)文字的, 口頭的, 嘮叨的, 動詞的 (n)動詞, 動名詞
+		+ verbal (adj)言語的/字句的, 口頭的/非書面的, 嘮叨的, 動詞的 (n)動詞, 動名詞, 電影歌詞
 		- verbatim (adj/adv)一字不差地/逐字地
 		- verbiage (mn)冗詞/廢話/贅語
 		+ verbose (adj)累贅的/冗長的 = wordy
@@ -7265,7 +7283,7 @@
 		+ convergence, convergency (n)匯聚/交會
 		+ diverge (v)分歧/分離, [from]偏離/背離 = deviate = depart, 相異 = differ
 		+ divergence (mn)分歧/分離 (n)差異/相異 = difference --> divergent (adj)分歧的
-		- verge (n)邊緣/瀕臨 (v)[on]接近, 傾向於 = incline
+		- verge (n)邊緣/瀕臨 (v)[on]接近/瀕臨, 傾向於 = incline
 
 	vent, vene, ve, ven 到來/同意 = come, agree
 		- advent (n)到來/出現, 降臨節, 耶穌再臨 --> adventitious (adj)偶然的, 外來的 <--> native
