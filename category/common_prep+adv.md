@@ -41,6 +41,7 @@
 	- rooms must be booked beforehand
 - circa (尤用於年份)大約 == (used especially with years) approximately
 	- He was born circa 1600.
+- overnight (adv)通宵/整夜, 夜間, 一夜間/突然 (adj)過夜的, 突然的 = instant (v)過夜, 夜間運送 (n)過夜
 
 ## Relation
 - among == amongst

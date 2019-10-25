@@ -152,6 +152,7 @@
 	- wholesaler /ˈhəʊlseɪlə/ (n)批發商
 	- backorder (n)未交貨訂單 (v)因缺貨而下訂單
 	- admission fee (n)入場費
+	- crisis communication (n)危機溝通情況(公共關係專業的一個次要專業，旨在保護和保護面臨公共挑戰聲譽的個人，公司或組織)
 
 [Finance/Commerce]
 	- arbitrage (N/V)套利
@@ -245,8 +246,7 @@
 	- build-operate-transfer (n)BOT模式，民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營
 	- tax return (n)報稅，在美國是指向美國國家稅務局或各州、地方的徵稅機構申報所得稅或其他稅務
 	- operating expense (n)營業費用，是運行企業的持續性、消耗性的支出，與之對照的是資本支出
-
-
+	- pre-roll ads (n)影音進廣告
 
 [Law]
 	- the Articles of Confederation (n)邦聯條例，全稱為《邦聯和永久聯合條例》，是美利堅合眾國13個創始州共同承認並遵守的第一部憲法
@@ -307,12 +307,6 @@
 	- build a case 收集證據 == To compile evidence that supports an argument or charges against someone or something.
 		> The job of the prosecutor is to build a case to prove that the defendant is guilty.
 		> We`re trying to build a case because many employees have been wrongly terminated by the company.
-	* bail
-		> 假釋/交保 |The temporary release of an accused person awaiting trial, sometimes on condition that a sum of money is lodged to guarantee their appearance in court.|
-		> 假釋金 |Money paid by or for someone in order to secure their release on bail.|
-		> V |Release or secure the release of (a prisoner) on payment of bail.| 
-		> |Scoop water out of (a ship or boat)| the first priority is to bail out the boat with buckets
-		> |Abandon a commitment, obligation, or activity.| after 12 years of this, including Sunday Mass with the family, I bailed
 	- condemn
 		> |Express complete disapproval of; censure.| most leaders roundly condemned the attack
 		> |Sentence (someone) to a particular punishment, especially death.| the rebels had been condemned to death
@@ -328,11 +322,8 @@
 	- sentence sb to life 判..無期徒刑
 	- serve a sentence 服刑
 	* capital punishment 死刑/極刑
-	- parole
-		> 假釋 |The temporary or permanent release of a prisoner before the expiry of a sentence, on the promise of good behaviour.| he committed a burglary while on parole
-		> |Release (a prisoner) on parole.| he was paroled after serving nine months of a two-year sentence
-		> 戰俘宣示 |A promise or undertaking given by a prisoner of war not to escape or, if released, not to engage in hostilities, or to return to custody under stated conditions.|
-		> 特用暗號 |The actual linguistic behaviour or performance of individuals, in contrast to the linguistic system of a community.|
+	- bail (mn)保釋, 保釋金 = bond (v)保釋, (從船中)往外舀水 <|> parole
+	- parole (n)假釋, 戰俘宣示, 特用暗號 (v)假釋
 	- reformatory 少年感化院 == An institution to which young offenders are sent as an alternative to prison.
 	- penitentiary /ˌpɛnɪˈtɛnʃ(ə)ri/ 
 		> 重罪監獄 |A prison for people convicted of serious crimes.|
@@ -411,13 +402,7 @@
 	- pilfer 偷
 	- tax shelter 避稅
 	- plagiarism 抄襲/剽竊 == The practice of taking someone else`s work or ideas and passing them off as one`s own.
-	- squat
-		> 蹲 |Crouch or sit with one`s knees bent and one`s heels close to or touching one`s buttocks or the back of one`s thighs.| I squatted down in front of him
-		> |A squatting position.|
-		> 非法佔據 |Unlawfully occupy an uninhabited building or settle on a piece of land.| eight families are squatting in the house
-		> |A building occupied by people living in it without the legal right to do so.|
-		> |An unlawful occupation of an uninhabited building.|
-		> 矮胖的 |Short and thickset; disproportionately broad or wide.| he was muscular and squat
+	- squat (v)蹲, 非法佔據 (n)蹲, 被非法佔據的建築, 非法佔據 (adj)矮胖的
 	- scam
 		> 詐騙 |A dishonest scheme; a fraud.| an insurance scam
 		> 詐騙 |Swindle.| a guy that scams old pensioners out of their savings
@@ -555,7 +540,9 @@
 	+ canal /kəˈnal/ (n)渠道/運河, 管/道
 
 	* freight /freɪt/  (mn)貨物, 貨運, 運費 (n)運貨列車, 負擔 = load = burden (v)運輸, [be freighted with]充滿
-
+	- snowmobile (n)機動雪橇 (v)乘機動雪橇
+	- camper van (n)露營車
+	- carriage (n)四輪馬車, 有輪子的車架/砲架, 帶原者, 滑動架, 舉止/態度 = bearing = deportment
 
 	- captain 機長
 	- first officer 副機長
@@ -711,6 +698,14 @@
 
 [Cook/Food]
 	- culinary /ˈkʌlɪn(ə)ri/ (adj)烹飪的
+	- sous vide (n)低溫烹調
+
+	- goblet (n)高腳杯
+
+	- prosecco (n)普羅賽柯，一種義大利起泡葡萄酒
+	- lemonade (n)檸檬水
+	
+	- gamey, gamy (n)野味
 
 	- Worcestershire sauce (n)伍斯特醬
 	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
@@ -1066,6 +1061,7 @@
 	- necrosis (n)壞疽
 	- chronic pain (n)慢性疼痛
 	- cardiac arrest (n)心臟停止，是心臟因不能夠有效收縮，而導致血液循環停止的現象
+	- psoriasis (n)牛皮癬
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1129,6 +1125,8 @@
 	- advance copy (n)預讀副本/預審複本，出版商贈送給書商，圖書管理員，新聞工作者，名人或其他人的新書的免費副本
 
 	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
+
+	- prime time (n)(廣播與電視的)黃金時段
 
 	- epistle (n)書信, 使徒書信
 	- epistolary (adj)書信的/書信體的
@@ -1289,8 +1287,14 @@
 	- masseuse /maˈsəːz/ 女按摩師
 	- masseur /maˈsəː/ 按摩師
 	- mannequin /ˈmanɪkɪn/ 模特兒假人 == A dummy used to display clothes in a shop window.
+
 	- corset 緊身胸衣 == A woman`s tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
 	- waistcoat (n)背心/馬甲
+	- bathrobe (n)浴衣
+
+	- wristband (n)腕帶, 運動用腕套, 手錶帶, 袖口 = cuff
+	- scarf -> scarved (n)圍巾/披巾/領巾, 嵌接 (v)嵌接, [非]狼吞虎嚥地吃
+
 	- cashmere scarves 喀什米爾羊絨圍巾
 	- trench coats 風衣
 	- tuxedo /tʌkˈsiːdəʊ/ 晚禮服 == A man`s dinner jacket
@@ -1929,6 +1933,7 @@
 	- utensil /juːˈtɛnsəl/ 用具 == A tool, container, or other article, especially for household use.
 	- display case (n)陳列櫃
 	- electric heater (n)電熱器
+	- hot tub (n)木質的熱水浴桶
 
 [Structure]
 	- housing (mn)房屋/住宅 (n)遮蔽物/遮蓋物
@@ -1955,6 +1960,7 @@
 		> 客廳 |A sitting room in a private house.| they had lunch in the parlor
 		> 接待室 |A room in a public building for receiving guests.| the mayor`s parlor
 		> 店 |A shop or business providing specified goods or services.| an ice-cream parlor
+	- hostel (n)旅舍, 青年旅舍 = youth hostel
 	- tavern (n)小酒館/小客棧
 	
 	- cemetery 墓地 == A large burial ground, especially one not in a churchyard.
@@ -2069,6 +2075,7 @@
 
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- vaulter (n)撐竿跳選手
+    - trampoline (n)蹦床/彈簧墊 (v)用蹦床做體操, 彈跳
 	- the Cleveland Cavaliers 克里夫蘭騎士，是一支位於美國俄亥俄州克里夫蘭的NBA籃球隊
 	- the Houston Rockets 休士頓火箭，是一支位於美國德克薩斯州休士頓的NBA籃球隊
 	- Golden State 金州勇士，是一支位於美國加利福尼亞州奧克蘭的職業籃球隊

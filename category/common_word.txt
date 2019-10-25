@@ -2457,6 +2457,8 @@
 		- Miller racked up 28 points in the first half, and kept racking them up in the second.
 	+ rule out sth (v)排除..的可能性 == to stop considering something as a possibility
 		> It’s unlikely that he’ll run for president, but you can never rule anything out.
+	- run up against 遭遇(未料到的困難)
+		- The plans for the new bridge ran up against strong local opposition.
 	+ remark
 		> 談到/評論/說 |Say something as a comment; mention.| ‘Tom is looking peaky,’ she remarked
 		> 談論/評論 |A written or spoken comment.| I decided to ignore his rude remarks
@@ -2867,6 +2869,8 @@
 		> The ecosystem of esports organisms vying for resources consists of esports teams and tournament organizers, who shell out money for player salaries and flashy events with cash from investors and sponsors.
 	- shoot for sth (v)試圖做/力爭得到 == try to do
 		- It is worth taking chances when you are shooting for a chance of fame and wealth.
+	- (be) shorn of 被奪走 == to have something valuable or important taken away from you
+		- Though shorn of some of its powers, the party remains in control.
 	- show -> showed -> shown/showed
 	- show up (v)到達/露面 == to arrive somewhere in order to join a group of people, especially late or unexpectedly
 		> I invited him for eight o`clock, but he didn`t show up until 9.30.
@@ -3127,6 +3131,12 @@
 		- 使臣服 |Bring (a person or country) under one`s control or jurisdiction, typically by using force.| the city had been subjected to Macedonian rule
 	+ be subjected to 經歷了/必定會經歷
 		> intermediate latitudes are subjected to changes intermediate between those of the poles and the equator
+	+ swear (v)發誓, 發(誓), 宣誓, 發誓要, 咒罵/罵髒話
+		- 發誓 |Make a solemn statement or promise undertaking to do something or affirming that something is the case.| Maria made me swear I would never tell anyone
+		- 發(誓) |Take (an oath)| he forced them to swear an oath of loyalty to him
+		- 宣誓 |Take a solemn oath as to the truth of (a statement)| I asked him if he would swear a statement to this effect
+		- 發誓要 |Make (someone) promise to observe a certain course of action.| I have been sworn to secrecy
+		- 咒罵/罵髒話 |Use offensive language, especially as an expression of anger.| Peter swore under his breath
 	+ swing -> swung -> swung (v)搖擺, 擺動, 大搖大擺地行走, 轉向/轉身, 有節奏地搖搖擺擺地走, 使擺動, 揮舞, 揮動, 猶豫/搖擺, 對..有決定性的影響, 成功導致, 演奏, 被演奏, 交換性伴侶, 令人興奮/歡快熱鬧 (n)鞦韆, 盪鞦韆, 搖擺, 擺動, 揮拳, 揮動方式, 改變, 搖擺樂, 韻律/音律, 巡迴
 		> 搖擺 |Move or cause to move back and forth or from side to side while suspended or on an axis.| her long black skirt swung about her legs
 		> 擺動 |Be executed by hanging.| now he was going to swing for it
@@ -3640,6 +3650,8 @@
 		> 軍械 |A collection of weapons and military equipment.| Britain`s nuclear arsenal
 		> 軍械庫 |A place where weapons and military equipment are stored or made.|
 		> 大量 |An array of resources available for a certain purpose.| we have an arsenal of computers at our disposal
+    - band (n)帶/細繩/箍, 樂團, 特定範圍, 波段, 一幫人/一群人 (v)套環/戴上環套, [together]團結/聯合
+    - batch (n)一批/一爐, [非]一群 (v)分批
 	- bout (n)一回/一陣, 復發, 比賽
 		> 一回/一陣 |A short period of intense activity of a specified kind.| occasional bouts of strenuous exercise
 		> 復發 |An attack of illness or strong emotion.
@@ -3684,6 +3696,7 @@
 		> 古羅馬步兵隊 |An ancient Roman military unit, comprising six centuries, equal to one tenth of a legion.| 
 		> 一群人 |A group of people with a shared characteristic.| a cohort of civil servants patiently drafting legislation
 		> 支持者/同夥 |A supporter or companion| young Jack arrived with three of his cohorts
+	- clutch (v)抓緊 (n)緊抓, 控制, 離合器, 離合器踏板, 手抓包 = clutch bag, 一窩蛋, 一小群/一簇 (adj)[非]在緊急關頭的
 	+ clump /klʌmp/ (n)一叢, 一群, 一團/一塊 (v)成團/成群
 		> 一叢 |A small group of trees or plants growing closely together.| a clump of ferns
 		> 一群 |A small, compact group of people.| they sat on the wall in clumps of two and three
@@ -3704,6 +3717,7 @@
 		> 一群 |A number of things arriving or happening suddenly and during the same period.| a flurry of editorials hostile to the government
 		> 吹 |(especially of snow or leaves) be moved in small swirling masses by sudden gusts of wind.|
 		> 忙亂地走 |(of a person) move quickly in a busy or agitated way.| the waiter flurried between them
+    - horde (n)[貶]一大群, 部落
 	- nibble (v)咬一小口, 一點點地咬, 輕咬, 逐漸侵蝕/逐漸消失, 對(機會)表示興趣 (n)細咬/啃, 咬一口的量, 小菜, 表示出興趣
 		> 咬一小口 |Take small bites out of.| he nibbled a biscuit
 		> 一點點地咬 |Eat frequently in small amounts.| I put on weight because I was constantly nibbling
@@ -3781,14 +3795,18 @@
 		> 一陣 |A puff or breath of air or smoke.|
 		> 微弱的氣味 |A smell that is only smelt briefly or faintly.|
 [Sound]
+    - bark (v/n)犬吠 (v)厲聲說話/咆哮, 叫賣, 用樹皮裡的單寧酸染色 = tan = dye (n)樹皮, 巧克力做的外層 <|> balk
 	- bellow (v)低吼/怒吼, 大聲叫, 大聲亂唱 (n)低吼/怒吼
 		> 低吼/怒吼 |(of a person or animal) emit a deep loud roar, typically in pain or anger.|
 		> |A deep roaring shout or sound.| a bellow of rage
 		> 大聲叫 |Shout something with a deep loud roar.| he bellowed out the order
 		> 大聲亂唱 |Sing (a song) loudly and tunelessly.| a dozen large men were bellowing ‘Jerusalem’
+    - bicker (v)(為小事)爭吵/口角 = quibble = quarrel = squabble, (水)潺潺, (火光)閃動
 	- blare (v)發出響而刺耳的聲音 (n)響而刺耳的聲音
 		> 發出響而刺耳的聲音 |Make or cause to make a loud, harsh sound.| the ambulance arrived outside, siren blaring
 		> 響而刺耳的聲音 |A loud, harsh sound.| a blare of trumpets
+    * boom (n)隆隆聲, 嗡嗡聲, 吊杆/帆杠, 水柵 (v)發出隆隆聲, 發出嗡嗡聲 (n/v)繁榮
+    * brittle (adj)易碎的, 尖利的(聲音), 外強中乾的 (n)果仁薄脆糖
 	- burp /bəːp/ (v)打嗝, 使…打嗝 (n)打嗝聲
 		> 打嗝 |Noisily release air from the stomach through the mouth; belch.|
 		> 使…打嗝 |Make (a baby) belch after feeding, typically by patting its back.|
@@ -3852,6 +3870,7 @@
 	- growl (v)嗥叫, 咆哮, 轟鳴 (n)嗥叫聲, 咆哮
 	- grunt (v)發出咕嚕聲, 咕噥 (n)呼嚕聲, [非]普通工作人員/低階士兵
 	* hiss /hɪs/ (v)發出嘶嘶聲, 發出噓聲/表示不同意 (n)噓聲, 嘶嘶聲, 電波干擾
+	- hoarse (adj)嘶啞的/粗啞的
 	- jabber (v)快而含糊地說 (n)快而含糊不清的話
 	- lament (n)嘆息, 哀歌, 抱怨 = complaint (v)哀悼, 悲嘆/悔恨
 		- 嘆息 |A passionate expression of grief or sorrow.| his mother`s night-long laments for his father
@@ -3884,6 +3903,7 @@
 		> 流行歌曲 |A pop record or song.|
 		> 爸爸 |father|
 		> 冰棒 |A piece of flavoured ice or ice cream on a stick.| mango-flavoured ice pops
+	- patter (v)啪嗒啪嗒地響, 啪嗒啪嗒地跑, 喋喋不休地說 (n)啪嗒啪嗒的聲音, (推銷員)連珠砲似的話, 行話 = jargon, 饒舌
 	- putter (n)輕擊球杆, 推球入洞者, 噗噗聲 (v)噗噗作響, 慢慢幹活 = potter, 閒逛 = potter
 	* rattle (v)使發出咯咯聲, 喀嚓喀嚓行進, 使窘迫不安/使驚惶失措 (n)咯咯聲, 發出咯咯聲的東西, 撥浪鼓, 響尾蛇尾端的響環
 		> 使發出咯咯聲 |Make or cause to make a rapid succession of short, sharp knocking sounds.| the roof rattled with little gusts of wind the rattle of teacups on the tray
@@ -3949,6 +3969,8 @@
     - whine (v)發哀鳴聲, 嘀咕/發牢騷 (n)哀鳴聲/嗚咽聲, 哀訴/牢騷
 
 [Color]
+	- bay (adj)棗紅色的(馬) (n)灣/海灣, 月桂樹, 隔間 = compartment, 棗紅馬, 嚎叫聲 (v)(狗或狼)叫/吠 = bark = howl, 喧囂 
+	- iridescent /ˌɪrɪˈdɛs(ə)nt/ (adj)彩虹色的
 	- pitch dark (adj)漆黑的 == extremely dark
 		> a moonless, pitch-black night
 	- tan (n)古銅色, 古銅色的肌膚, 含單寧酸的樹皮 = tanbark (v)曬成古銅色, 製成皮革, 痛打 (adj)古銅色的
@@ -3960,4 +3982,4 @@
 		> 痛打 |Beat (someone) repeatedly as a punishment.| If Mickey touches a fishing net, I`ll tan his hide!
 		> 含單寧酸的樹皮 |tanbark|
 	- tint (n)色彩/色調, 線條, 痕跡, 染髮劑, 染髮 (v)給……著色 (v)染
-	
+    - turquoise (n)藍綠色, 綠松石

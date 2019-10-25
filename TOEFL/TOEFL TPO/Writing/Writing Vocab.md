@@ -1,7 +1,7 @@
 ## Popular
 + do 做 == accomplish == carry out == complete == execute == operate == undertake
 + can 可以/能 == be able to == be capable of sth 
-+ cause 導致 == invoke == lead to == bring about == give rise to == contribute to == beget == engender == breed == induce == precipitate == prompt 
++ cause 導致 == invoke == lead to == bring about == give rise to == contribute to == beget == engender == breed == induce == precipitate == prompt = beget
 + allow 允許 == let == permit == sanction == empower == be entitled to
 + show 顯示 == demonstrate == display == manifest == disclose == evince == explain == exhibit == illustrate == indicate == reveal == report == suggest == present
 + impact 影響 == affect == influence = have an effect (on sth)

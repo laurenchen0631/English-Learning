@@ -153,6 +153,8 @@
 - be off 離開 == go away; leave
 	- I must be off if I want to make the next bus.
 	- And the runners are off.
+- every hour on the hour 整點 == at the beginning of each hour 
+	- Trains leave the station every hour on the hour.
 - far afield 遠處
 	- Don't go too far afield or you'll get lost.
 - in circulation 流通/流傳 == going or passing from person to person or place to place
@@ -292,6 +294,8 @@
 - along with 以及/除...之外 == along with someone or something else that is also involved in an action or situation.
 	- Tobacco is taxed in most countries, along with alcohol.
 	- Technological advancements are limited in their ability to change society and will likely bring liabilities along with any potential benefits.
+- in tandem with sth 與..一起 == together
+	-  a tight fiscal policy working in tandem with a tight foreign exchange policy
 - out of touch 不知道/與..沒有共鳴
 	- A few of the older teachers are completely out of touch with their students.
 - shift/swift gears 換件事做/換個話題 == to suddenly change what you are doing
@@ -461,6 +465,8 @@
 - swing for the fences 奮力一擊/盡全力一搏 == be going ‘all out’, or giving something their maximum effort.
 	- “Whenever you swing for the fences, the likelihood is, you strike out,” Makovsky said.
 	- Rather than swing for the fences with every investment, we strive for consistency, hitting singles, doubles, and triples with far fewer strike-outs. 
+- take a spin 兜風 == To go for a brief, leisurely drive (to some place).
+	- Jenny just got a new car for her birthday, so I think we're going to go take a spin after school.
 - take one's place 準備好/就位 == to go to the location where one is supposed to sit, stand, etc.
 	- The goalie took her place on the field.
 	- The actors take their places on the stage and the curtain rises.
@@ -541,6 +547,8 @@
 	- He was at the height of his fame when he died.
 - at one's disposal 可以用來幫助..的
 	- I don’t have a car at my disposal.
+- blank slate (n)新的開始/乾淨的白板
+	- He added that the mind is not a blank slate, "tabula rasa" but rather comes equipped with categories for organising our sense impressions.
 - breaking point (n)爆發點/失控點/極限
 	- The situation reached breaking point when his son crashed the family car.
 	- Her nerves were **at** breaking point.
@@ -599,6 +607,8 @@
 	- The city is well off for parks and gardens.
 
 ## Job/Task
+- at fault 有責任/有錯
+	- My memory was at fault. 
 - hit the ground running [非]雷厲風行/立刻展開行動
 	- Ask for an update on special projects the day before you return so you can hit the ground running.
 - miss one's calling 選錯職業 == to not have the career one should have
