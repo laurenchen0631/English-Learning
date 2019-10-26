@@ -112,6 +112,7 @@
 ## Attitude
 - inwardly (adv)在內心裡 == within the mind.
 	- If the idea of sending in a resume and cover letter makes you inwardly (or outwardly) groan, you’re not alone. 
+- intently (adv)熱切地/熱心地
 
 ## Others
 - throughout (adv/prep)遍及/遍布, 從頭到尾

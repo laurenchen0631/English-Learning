@@ -172,6 +172,7 @@
 	- quantum decoherence (n)量子去相干，在量子力學裏，開放量子系統的量子相干性會因為與外在環境發生量子糾纏而隨著時間逐漸喪失，由於量子相干性而產生的干涉現象會因為量子去相干而變得消失無蹤。量子去相干促使系統的量子行為變遷成為古典行為，這過程稱為「量子至古典變遷」
 	- spectroscopy /spɛkˈtrɒskəpi/ (n)光譜學
 	- spectrograph (n)光學光譜儀
+	- spectrogram (n)光譜圖
 	- spectral /ˈspɛktr(ə)l/  (adj)幽靈的, 光譜的
 	- spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
 	- prism /ˈprɪz(ə)m/ (n)稜柱, 稜鏡, 扭曲的觀點 <--> /ˈprɪz(ə)n/ prison

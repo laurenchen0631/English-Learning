@@ -193,7 +193,8 @@
 		- Snæfellsjökull (n)斯奈菲爾火山，是冰島西部的一座複式火山，位於冰島首都雷克雅未克西北的斯奈山半島，山峰覆蓋有冰川
 		- Faxa Bay (n)法赫薩灣，冰島西南岸的一個海灣
 	- Poland (n)波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole (n)波蘭人
-	- Denmark (n)丹麥 --> Dane (n)丹麥人
+	- Denmark (n)丹麥 --> Danish (adj)丹麥的/丹麥人的/丹麥語的 (n)丹麥語, 丹麥人
+		- Dane (n)丹麥人
 		- Copenhagen (n)哥本哈根，丹麥的首都、最大城市及最大港口。
 		- Faroe Islands (n)法羅群島，丹麥王國的海外自治領地。地理位置介乎挪威海和北大西洋中間，處於挪威到冰島之間距離一半的位置
 	+ Britain /ˈbrɪt(ə)n/ (n)英國 == The island containing England, Wales, and Scotland.
@@ -307,6 +308,7 @@
 		- Cousin Island (n)庫金島，塞席爾的島嶼，位於印度洋海域，該島被劃入自然保護區範圍，島上無人居住
 	- Senegal (n)塞內加爾，西非國家，位於塞內加爾河的南岸，首都達卡
 		- Senegal (n)塞內加爾，西非國家，位於塞內加爾河的南岸，首都達卡
+	- Malawi (n)馬拉威，是一個位於非洲東南部的內陸國家
 	
 [North America]
 	- the Pacific Northwest (n)太平洋西北地區，是指美國西北部地區和加拿大的西南部地區，又稱「卡斯卡迪亞」

@@ -963,6 +963,7 @@
 	col 脖子 = neck
 		+ accolade (n)讚賞 = appreciation = kudos
 		- collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
+		- collared (adj)有領子的
 		- column (n)圓柱, 柱狀物, 欄, 專欄, 縱列
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
@@ -1469,6 +1470,7 @@
 			+ /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt --> debauchery (n)糜爛/沉湎酒色 <|> debouch <-- de + bauch 責任 = duty, work
 			- /dɪˈbaʊtʃ/ debouch (v)(河川向廣闊處)流出, 進入(開闊地方) <-- de + bouch 嘴 = mouth
 			- decriminalization (n)合法化/除罪化
+			- de-emphasize (v)降低..重要性
 			+ defame (v)詆毀/誹謗 = libel = malign = slander = calumniate = denigrate = disparage = smear = vilify
 			+ defamatory (adj)誹謗的/詆毀的 = calumnious
 			- deface
@@ -1485,6 +1487,7 @@
 			- dehydrate
 			* deliberate
 			+ demit --> demise
+			- demystify (v)使易懂
 			++ /deɪˈnuːmɒ̃/ denouement (n)結尾 = coda = out <-- de + noue 結 = knot + ment
 			+ denounce
 			- denude
@@ -1573,7 +1576,7 @@
 			+ disparate --> disparity
 			+ dispassionate (adj)冷靜的/沈著的/公平的 = disinterested
 			++ dispatch (v)派遣/發送, 迅速處理 = expedite, 殺死 (n)派遣/發送, 迅速, 官方報告, 新聞稿, 殺 <-- dis + patch 阻礙 = shackle
-			- displace (v)取代/撤換 = supersede, 迫使離開
+			* displace (v)取代/撤換 = supersede, 使移位, 迫使離開
 			* displacement (n)移位, 置換/取代, 被迫遷出, 移位量, 排水量, 情感轉移
 			+ displease (v)使不高興/使生氣
 			+ disproportionate (adj)不成比例的
@@ -2675,6 +2678,7 @@
 		- program (n)節目, 計畫/方案, 大綱 (v)為……安排節目, 為……制訂計畫
 		- photography
 		- pictograph, pictogram (n)象形文字, 統計圖表
+		- spectrogram 
 		- telegram (n)電報 (v)向……發電報
 		- typograph (n)印刷 --> typographical (adj)印刷上的
 		- topography (n)地形/地貌, 地形圖 --> topographical (adj)地形學的
@@ -3160,6 +3164,7 @@
 			* impose
 			- imposing
 			- impostor --> imposture
+			- impound (v)扣押/沒收, 將(牲畜)關在圈中, 將..關起 = lock up, (水壩)貯水/蓄水
 			- impoverish (v)使貧窮, 耗盡(精力) <-- im + pover(ty) + ish
 			+ impress --> impressed --> impression --> impressionable
 			- imprint (v)蓋印/印痕
@@ -3236,6 +3241,7 @@
 			- inject --> injection
 			- injunction
 			* inmost (adj)最深處的/內心深處的 = innermost
+			- innards (n)內臟 = entrails, (機械裝置))內部
 			+ innovate (v)革新/創新 --> innovative (adj)革新的 --> innovation (n)新事物/創新 <-- in + nova 新 + te
 			- /ˌɪnjʊˈɛndəʊ/ innuendo (n)含沙射影/暗諷 <-- in + nuendo 點頭 = nod
 			- inoculate (v)預防注射 = vaccinate <|> inculcate <-- in + ocul 眼/花苞 = eye, bud + ate
@@ -3858,6 +3864,8 @@
 		+ /məˈlʌɪn/ malign (v)誹謗/中傷 = defame = slander = traduce = calumniate (adj)惡意的/邪惡的 = evil = sinister = malicious = malevolent
 		+ malignant (adj)有惡意的/邪惡的 = malicious = malign = malevolent = mean = wanton, (醫)惡性的/致命的 <--> benign
 		+ malinger (v)裝病並以逃避責任 <|> malign <-- mal + linger
+		- malnourished (adj)營養不良的
+		- malnutrition (mn)營養不良
 		+ malodorous (adj)有惡臭的
 		- malpractice (n)怠忽職守/瀆職/營私舞弊, 誤診
 		* maltreat (v)粗暴對待/虐待 = abuse = mishandle
@@ -6166,6 +6174,7 @@
 		+ spectrum (n)光譜/頻譜, 範圍, 端點
 		- /spɛkˈtrɒskəpi/ spectroscopy (n)光譜學
 		- spectrograph (n)光學光譜儀
+		- spectrogram (n)光譜圖
 		+++ speculate (v)推測/猜想 = infer = conjecture = surmise = guess, 投機 --> speculation (n)推測/猜想, 投機
 		+ speculative (adj)推測的, 投機的 = risky <|> spectacular
 		** spite (n)惡意 (v)存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
@@ -6934,6 +6943,7 @@
 		+ timid (adj)膽小的/無自信的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant <|> tumid --> timidity (mn)膽怯/無自信
 		+ timorous (adj)提心吊膽的/戰戰兢兢的 = fearful = tremulous = timid = trepid
 		- terror (mn)恐懼, 恐怖主義 = terrorism, 令人恐懼之物, 討厭的人/造成麻煩的人 = holy terror
+		- terrorize (v)恐嚇/使恐懼
 		++ terrific (adj)極大的, [非]極好的 = excellent
 		+ trepid (adj)害怕的 = timorous = fearful --> trepidation (mn)憂心/不安 = fear = anxiety = apprehension
 		+ intrepid (adj)無畏的/剛毅的 = fearless = dauntless

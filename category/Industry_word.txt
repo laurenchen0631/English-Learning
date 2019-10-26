@@ -706,6 +706,7 @@
 	- lemonade (n)檸檬水
 	
 	- gamey, gamy (n)野味
+	- bratwurst (n)德國油煎香腸
 
 	- Worcestershire sauce (n)伍斯特醬
 	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
@@ -1021,7 +1022,7 @@
 		> 心痛 |An emotion experienced with painful or bittersweet intensity.| an ache in her heart
 		> 感到悲傷 |Feel intense sadness or compassion.| she sat still and silent, her heart aching
 		> 渴望 |Feel an intense desire for.| she ached for his touch
-	- bruise
+	- bruise (n/v)擦傷/瘀青 = contusion, 碰傷 (v)傷害(情感), 搗碎(食物) = pound = crush
 		> 擦傷/瘀青 |An injury appearing as an area of discoloured skin on the body, caused by a blow or impact rupturing underlying blood vessels.|
 		> |Inflict a bruise or bruises on (a part of the body)| I fell and bruised my kne
 		> 碰傷 |A mark indicating an area of damage on a fruit, vegetable, or plant.|
@@ -1127,6 +1128,7 @@
 	- field guide (n)圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
 
 	- prime time (n)(廣播與電視的)黃金時段
+	- media consumption (n)媒體消費，個人或團體所接受的信息和娛樂媒體的總和
 
 	- epistle (n)書信, 使徒書信
 	- epistolary (adj)書信的/書信體的
@@ -2072,6 +2074,8 @@
 	- Division I (n)NCAA第一級別，是美國國家大學體育協會校際體育賽事的最高級別，與第二、第三級別學校相比，第一級別學校在預算、設施、體育獎學金等各方面都更有優勢
 	- Division III (n)NCAA三級，國全國大學體育協會的一個部門，包括在大學和大學的運動項目，選擇不向學生運動員提供體育獎學
 	- the Big West Conference (n)大西部聯盟，美國大學體育會議，其成員機構參加全國大學體育協會的第一分部
+
+	- tenpin bowling (n)十瓶制保齡球/保齡球，是由持球者使球延著木製球道或是合成球道，朝著球道終端排成正三角形的十個球瓶使球旋轉前進，目標是要擊倒球瓶的運動
 
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- vaulter (n)撐竿跳選手

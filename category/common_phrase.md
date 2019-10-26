@@ -126,6 +126,8 @@
 - few and far between 罕見稀少的
 	- In Nevada the towns are few and far between. 
 	- My holidays are few and far between.
+- as luck would have it 碰巧/幸好 == by chance
+	- We ran out of petrol on the way home, but as luck would have it, we were very near a garage.
 	
 ## Time & Space
 - at hand 接近的/不遠的 == near at hand == close at hand == very near
@@ -198,6 +200,8 @@
 	- Lichens helped to speed the decomposition of the hard rock surfaces, preparing a soft bed of soil that was abundantly supplied with minerals that had been carried in the molten rock from the bowels of Earth
 - the length and breadth of 四處/到處 == If you travel the length and breadth of a place, you go to every part of it.
 	- She travelled the length and breadth of Ireland looking for her missing brother.
+- the turn of the century (n)世紀交界/世紀末 == the time when a particular century ends and another begins
+	- My great-grandfather was born **at** the turn of the last century.
 - through the ages 長久以來 == throughout history
 	- the influence of Greek culture through the ages
 	- Philosophers and scientists through the ages have compared the human brain to various mechanisms
@@ -225,6 +229,8 @@
 - it behooves sb to V == it is incumbent on (某人)理應..
 	- it behooves any coach to study his predecessors
 	- it ill behooves the opposition constantly to decry the sale of arms to friendly countries
+- at first blush 乍看之下 == when you first see or experience something:
+	- It looks at first blush like a standard smartphone.
 
 ## Emphasis
 - an end in itself 本身即很重要的事物
@@ -579,6 +585,8 @@
 	- Dick is on the outs with his father.
 - on the table 被提交討論中/正式提交考慮 == ​ If a plan or suggestion has been put/laid on the table, it has been made available for people to hear, read, or discuss.
 	- it's so exceptional at editing DNA that "de-extinction," the process of bringing extinct species back from the dead, is on the table.
+- on track (to sth) 有望成功/在正軌上
+	- They're on track to make record profits.
 - on fleek 到位/很完美 == on point
 	- Have you seen the musical of Notre Dame de Paris? I’ve heard the performance is on fleek!
 - out of the red 轉虧為盈 == No longer having a debt owed to one or more other people, corporations, banks

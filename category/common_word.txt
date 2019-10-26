@@ -1771,6 +1771,7 @@
 		> 精華/經髓 |The essential part of something.|
 		> 朋友/夥伴 |A friend, companion, or workmate (often used as a form of address)| come here, marrer, we need to talk
 		> 成對的東西 |Something that forms a pair with something else; a counterpart or twin.|
+    - marry (v)娶/嫁, 成婚, [into]嫁入/入贅, 把..嫁出, 融合/結合
 	+ mass (n)一團, 色塊, 大群, 大量, [masses]大量, [the mass of]大多數, 大眾, 質量, 重量 (adj)大規模的/大批的 (v)集中/聚集
 		> 一團 |A large body of matter with no definite shape.| the sun broke out from behind a mass of clouds
 		> 色塊 |Any of the main portions in a painting or drawing that each have some unity in colour, lighting, or some other quality.| the masterly distribution of masses
@@ -2224,7 +2225,7 @@
 		- The smell of hospitals always puts me off.
 		- You have to work long hours and that puts off a lot of people.
 		- His attitude put me right off him.
-		- Personally, I didn't enjoy the film, but don't let that put you off going.
+		- Personally, I didn`t enjoy the film, but don`t let that put you off going.
 	* predominately == largely == mainly == mostly
 	- pride
 		> 自豪/得意 |A feeling or deep pleasure or satisfaction derived from one`s own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired.| the faces of the children`s parents glowed with pride
@@ -2464,6 +2465,29 @@
 		> 談論/評論 |A written or spoken comment.| I decided to ignore his rude remarks
 		> 注意/覺察 |Regard with attention; notice.| he remarked the man`s inflamed eyelids
 		> 注意/察覺 |Notice or comment.| the landscape, familiar since childhood, was not worthy of remark
+	- rock (n)岩石, 礁岩, 礦石, 巨岩, 石頭, 寶石, 古柯鹼, [俗]睪丸, 靠山, 暗礁, [非]錢, 搖滾樂, 搖滾, 搖動 (v)(使)搖動, 使震驚, 演奏搖滾樂, 充滿社交活動, 有趣, 因穿戴而顯得好看
+		- 岩石 |The solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil.| the beds of rock are slightly tilted
+		- 礁岩 |A mass of rock projecting above the earth`s surface or out of the sea.| there are dangerous rocks around the island
+		- 礦石 |Any natural material, hard or soft (e.g. clay), having a distinctive mineral composition.|
+		- 巨岩 |A large piece of rock which has become detached from a cliff or mountain; a boulder.| the stream flowed through a jumble of rocks
+		- 石頭 |A stone of any size.| the crowd threw a few rocks and dispersed
+		- 寶石 |A precious stone, especially a diamond.| It`s like a trip through a jewelry store that sells nothing but pricey diamond rings with big rocks.
+		- 古柯鹼 |A small piece of crack cocaine.| crack sells for $20 a rock
+		- [俗]睪丸 |A man`s testicles.|
+		- 靠山 |Used to refer to someone or something that is extremely strong, reliable, or hard.| the Irish scrum has been as solid as a rock
+		- 暗礁 |(especially with allusion to shipwrecks) a source of danger or destruction.| the new system is heading for the rocks
+		- [非]錢 |Money.|
+		- 搖動 |Move gently to and fro or from side to side.| she rocked the baby in her arms
+		- 使搖晃 |(with reference to a building or region) shake or cause to shake or vibrate, especially because of an impact, earthquake, or explosion.| minutes later a second blast rocked the city
+		- 使震驚 |Cause great shock or distress to (someone or something), especially so as to weaken or destabilize.| diplomatic upheavals that rocked the British Empire
+		- 演奏搖滾樂 |Dance to or play rock music.| he looked a totally different man and ready to rock
+		- 充滿社交活動 |(of a place) be exciting or full of social activity.| the new town really rocks
+		- 有趣 |Be very good or pleasing.| this is when the job really rocks
+		- 因穿戴而顯得好看 |Wear (a garment) or affect (an attitude or style), especially in a confident or flamboyant way.| she was rocking a clingy little leopard-skin number
+		- 搖滾樂 |Rock music.| the store plays a peculiar blend of 70s and 80s rock
+		- 搖滾 |Rock and roll.| It is a film for everyone, both those who were touched by this era of rock and those who just remember that fleeting second when the world didn`t slow down.
+		- 搖動 |A gentle movement to and fro or from side to side.| she placed the baby in the cot and gave it a rock
+	
 	+ roll (v)滾動, 轉, 運轉/啟動, 移動, 捲/滾搓, 擀平/碾平, 隆隆作響/轟轟響, (聲音)顫動 (n)一捲, 滾動, 隆隆聲, 麵包捲, 名單/名冊, 地表起伏
 	- roll out (v)推出 == to make something available or known to people for the first time
 		> Microsoft is rolling out templates later this year so people can easily optimize their Teams app to best suit particular industries, like marketing
@@ -2734,7 +2758,7 @@
 		- It will be difficult to sort out how much each person owes.
 		- Most of the job involves sorting out customers who have queries.
 	+ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
-		> 聲音 |Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.| light travels faster than sound
+		> 聲音 |Vibrations that travel through the air or another medium and can be heard when they reach a person`s or animal`s ear.| light travels faster than sound
 		> 發出聲音 |Emit or cause to emit sound.| she sounded the horn
 		> 發出 |Express or convey (a warning)| pharmaceutical companies are sounding the alarm about counterfeit drugs
 		> 錄音 |Music, speech, and sound effects when recorded and used to accompany a film, video, or broadcast.| a sound studio
@@ -2792,7 +2816,7 @@
 	- spin off (v)分拆 == To spin off or spin off something such as a company means to create a new company that is separate from the original organization.
 		> Many of Spaceship Media’s Facebook groups have spun off into member-run groups, individual friendship and, most of all, real human connection across difference.
 	- spot on (adj)確切的/準確的 == exactly right
-		> "How old do I reckon she is? I'd say 38." "Spot on."
+		> "How old do I reckon she is? I`d say 38." "Spot on."
 	+ spell (v)拼寫, 組成/拼成, 是..的特徵, 代表/造成 = mean = caus, 暫時替換, [out]解釋清楚/詳細地說明 (n)咒語, 法術, 著魔/入迷, 短時間, 一段時間, 木頭碎片
 		> 拼寫 |Write or name the letters that form (a word) in correct sequence.| Dolly spelled her name
 		> 組成 |(of letters) make up or form (a word)| the letters spell the word ‘how’
@@ -3487,6 +3511,9 @@
 	- wash over (v)徹底地影響, 突然表現在臉上
 		> 徹底地影響 |to affect or be felt by (someone) thoroughly and deeply| Just close your eyes and let the music wash over you.
 		> 突然表現在臉上 |to appear on (a person`s face) suddenly| A look of surprise washed over his face.
+	- (be) washed out (adj)洗得褪色的, 極為疲憊的/筋疲力盡的
+		- She was wearing an old washed-out T-shirt and jeans.
+		- I have to wear make-up in the winter or I look completely washed out.
 	+ waste (v)浪費, 處置(多餘的貨物), 瘦削, 毀壞(地方), 殺害/謀殺, (時間)逝去 (adj)廢棄的, 荒廢的 (n)浪費, 廢物/廢料, 荒地
 	+ ward (n)病房, 選區/區, 受監護的未成年人, 城池 (v)送..到病房
 		> 病房 |A separate room in a hospital, typically one allocated to a particular type of patient.|
@@ -3594,6 +3621,9 @@
 		> 把……楔住 |Fix in position using a wedge.| the door was wedged open
 		> 擠入 |Force into a narrow space.| she wedged her holdall between two bags
 		> |Prepare (pottery clay) for use by cutting, kneading, and throwing down to homogenize it and remove air pockets.| The photo shows this as if you are facing the person wedging the clay.
+	- wrap up (v)完成 == to complete or finish something
+		- It’s getting late – let’s wrap it up.
+		- She wrapped up a deal just before she left on vacation.
 	- wrinkle /ˈrɪŋk(ə)l/ (n)皺/皺紋, 小困難 = snag, 妙計/好主意 (v)起皺紋, 使起皺 = grimace, 皺起來
 		> 皺/皺紋 |A slight line or fold in something, especially fabric or the skin of the face.| she smoothed out the wrinkles from her skirt
 		> 小困難 |A minor difficulty; a snag.| the organizers have the wrinkles pretty well ironed out
@@ -3652,11 +3682,13 @@
 		> 大量 |An array of resources available for a certain purpose.| we have an arsenal of computers at our disposal
     - band (n)帶/細繩/箍, 樂團, 特定範圍, 波段, 一幫人/一群人 (v)套環/戴上環套, [together]團結/聯合
     - batch (n)一批/一爐, [非]一群 (v)分批
+    - bolt (n)閃電, 門閂/螺栓, 弩箭, 一匹/一捲 (v)閂上(門窗) = lock
 	- bout (n)一回/一陣, 復發, 比賽
 		> 一回/一陣 |A short period of intense activity of a specified kind.| occasional bouts of strenuous exercise
 		> 復發 |An attack of illness or strong emotion.
 		> 比賽 |A wrestling or boxing match.| he fought 350 bouts, losing only nine times
 		> |A curve in the side of a violin, guitar, or other musical instrument.|
+    - brush (n)刷子, 刷, 一刷/一拂, 短暫的遭遇, 狐狸尾巴, 畫筆, 矮樹叢 = shrub, 斷樹枝/小樹枝 (v)擦掉/拂去, 刷牙, 梳頭髮, 輕觸/輕撫, 輕推
 	* bulk /bʌlk/ (n)大小/質量, 巨大, 重, 大量, 纖維性物質, 散裝貨物, 紙張厚度, 大部分/大多數 (v)變得重要/顯得巨大, 組合(銷售)
 		> 大小/質量 |The mass or size of something large.| residents jump up and down on their rubbish to reduce its bulk
 		> 巨大 |Large size or shape.| he moved quickly in spite of his bulk
