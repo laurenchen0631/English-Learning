@@ -231,7 +231,10 @@
 	- it ill behooves the opposition constantly to decry the sale of arms to friendly countries
 - at first blush 乍看之下 == when you first see or experience something:
 	- It looks at first blush like a standard smartphone.
-
+- on paper 在書面上/在理論上
+	- The design certainly looks good on paper.
+	- Several candidates seemed suitable on paper but failed the interview.
+	
 ## Emphasis
 - an end in itself 本身即很重要的事物
 	- For the old lady buying the daily newspaper soon became an end in itself, since she really just wanted to chat with the shopkeeper.
@@ -452,6 +455,8 @@
 	- How to put strangers at ease.
 - put a/one's finger on sth 確切地指出 == to discover the exact reason why a situation is the way it is, especially when something is wrong
 	- There is something odd about him, but I cannot quite put my finger on it.
+- rear its (ugly) head (令人不快的事情)發生 == (of something unpleasant) to appear
+	- The familiar spectre of drought and famine has reared its ugly head again.
 - search/hunt high and low 到處找 == to search everywhere for something
 	- I've been hunting high and low for that certificate and I still can't find it!
 - see for oneself 親身體驗/親眼見識 == To see or experience something firsthand as a means of proving to oneself that it is true or accurate.
@@ -631,6 +636,7 @@
 + pull/pick oneself up by one's bootstraps 自力更生 == Improve one`s position by one`s own efforts.
 	- I realized that my story stood in for all those who were expected to pick themselves up by their bootstraps
 - put one's best foot forward 全力以赴 == to try as hard as you can
+- rank and file (n)普通職務
 + walk of life 各行各業/各個社會階層
 	- Members of the gym include lawyers, teachers, plumbers, and hairdressers - people from all (different) walks of life.
 - work one's ass off 拼命做 == to work very hard
@@ -651,6 +657,8 @@
 	- He may have been a good football player in high school, but he was all brawn and no brains, so he didn't get into any colleges.
 - fob sb off (on sth) 搪塞/欺騙/騙..接受.. == Deceitfully attempt to satisfy someone by making excuses or giving them something inferior.
 	- I was fobbed off with bland reassurances
+- pour scorn on sb/sth 鄙夷地談論/對…嗤之以鼻
+	- Critics of the president have been pouring scorn on the plan ever since it was first proposed.
 - red tape 繁文縟節 == official rules and processes that seem unnecessary and delay results
 
 ## Approbation

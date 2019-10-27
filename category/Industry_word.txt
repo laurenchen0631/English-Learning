@@ -5,13 +5,7 @@
 	- curriculum vitae /kʌˈrɪkjʊləm ˈviːtʌɪ/ == CV (n)簡歷(CV的篇幅會比Resume長上許多，通常會超過二頁)
 	- glass ceilings (n)玻璃天花板，指在公司、企業和機關、團體中對某些群體晉升到高級職位或決策層的潛在限制或障礙
 	- list price (n)建議售價
-	- voucher (n)折價券, 證據, 保證人
-		> 折價券 |A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.|
-		> 證據 |a piece of supporting evidence|
-		> 保證人 |surety| 
-	- marketable (adj)有市場的, 暢銷的
-		> 有市場的 |Able or fit to be sold or marketed.| the flotation will make the shares marketable
-		> 暢銷的 |Attractive to potential employers or clients; in demand.| marketable skills
+	- voucher (n)折價券, 證據, 保證人 = surety
 	- licensing terms (n)授權條款
 	- licensing agreement (n)授權合約 
 	- capitalism (n)資本主義 == An economic and political system in which a country`s trade and industry are controlled by private owners for profit, rather than by the state.
@@ -32,11 +26,28 @@
 	- deputy director (n)副主任
 	- General Secretary (n)總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
 	- CPA == Certified Public Accountant (n)註冊會計師
+
+	- advisory board (n)顧問委員會
+	- brain trust (n)智囊團/顧問團/諮詢團 == a group of people who advise a leader
+	- personnel (n)人員, 人事部門
+		> 人員 |People employed in an organization or engaged in an organized undertaking such as military service.| ‘many of the personnel involved require training
+		> 人事部門 |personnel department|
+	- help desk (n)客戶服務部 == a service that provides information and help to people, especially those using a computer network
+
+	- aide-de-camp /ˌeɪddəˈkɒ̃/ (n)副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
+	- attachés /əˈtaʃeɪ/ (n)專員 == A person on the staff of an ambassador having a specialized area of responsibility.
+	- bouncer (n)保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
+	- chancellor (n)大臣/總理, 大法官, 大學校長
+	- clerk (n)辦事員/記帳員, 書記, 教堂執事/預備修道士, 店員/銷售員 (v)當銷售員
+	- cottage industry (n)家庭代工
+	- dean (n)司祭長/教長, 學院院長
+	- fire marshal (n)消防員, 消防署署長/消防隊長
+	- foreman (n)工頭/領班, 陪審團主席
+    - homemaker (n)主婦
+	- lumberjack (n)伐木工人
+	- pencil pusher (n)機關辦事員/文書 == a person who has an office job that is not interesting
 	- secretary (n)祕書 == A person employed by an individual or in an office to assist with correspondence
 	- spokesperson (n)發言人/代言人 == spokesman or spokeswoman
-	- foreman (n)工頭/領班, 陪審團主席
-		> 工頭/領班 |A male worker who supervises and directs other workers.|
-		> 陪審團主席 |(in a law court) a person who presides over a jury and speaks on its behalf.|
 	- steward (n)服務員, 膳務員, 幹事/籌備員, 籌備, 工會代表, 管理, 財產管理人/管家 
 		> 服務員 |A person employed to look after the passengers on a ship, aircraft, or train.|
 		> 膳務員 |A person responsible for supplies of food to a college, club, or other institution.|
@@ -45,63 +56,45 @@
 		> 工會代表 |shop steward|
 		> 管理 |Manage or look after (another`s property)|
 		> 財產管理人/管家 |A person employed to manage another`s property, especially a large house or estate.|	
-	- clerk (n)辦事員/記帳員, 書記, 教堂執事/預備修道士, 店員/銷售員 (v)當銷售員
 	- sidekick (n)助手 == A person`s assistant or close associate, especially one who has less authority than that person.
-	- aide-de-camp /ˌeɪddəˈkɒ̃/ (n)副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
-	- attachés /əˈtaʃeɪ/ (n)專員 == A person on the staff of an ambassador having a specialized area of responsibility.
-	- pencil pusher (n)機關辦事員/文書 == a person who has an office job that is not interesting
-	- chancellor (n)大臣/總理, 大法官, 大學校長
-	- dean (n)司祭長/教長, 學院院長
-
-	- personnel (n)人員, 人事部門
-		> 人員 |People employed in an organization or engaged in an organized undertaking such as military service.| ‘many of the personnel involved require training
-		> 人事部門 |personnel department|
-	- help desk (n)客戶服務部 == a service that provides information and help to people, especially those using a computer network
-	- advisory board (n)顧問委員會
-	- brain trust (n)智囊團/顧問團/諮詢團 == a group of people who advise a leader
-
-	- bouncer (n)保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
-	- lumberjack (n)伐木工人
+	- tour guide (n)導遊
 	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- funeral home == funeral parlor (n)殯儀館 = mortuary
-	- cottage industry (n)家庭代工
-	- fire marshal (n)消防員, 消防署署長/消防隊長
-    - homemaker (n)主婦
-	- tour guide (n)導遊
 	
 	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
 	+ bourgeoisie /ˌbʊəʒwɑːˈziː/ (N)中產階級
 	- higher-up (n)高層人物/要員 == someone with a more important position than you in an organization
 
-
 [Company/Store]
 	- off-duty (adj)不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
+	- overtime (mn)加班, 加班費, 加時賽 (adv)加班地
+	- take-home pay (n)稅後收入 == the amount of earnings that you have left after tax, etc.
+	- pre-tax salary (n)稅前收入
+	- paycheck (n)付薪水的支票, 薪水
+	- payroll (n)薪水帳冊, 公司應付薪金總額
+	
+	- Ltd == limited liability company (n)有限責任公司，是一種公司的組織形態，有限公司對外所負的經濟責任，以出資者所投入的資金為限。
+	- Inc == incorporation (n)股份有限公司
+	- onboarding (n)入職培訓 == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
+	- outsource (v)外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
+	- subcontractor (n)承包者 == A firm or person that carries out work for a company as part of a larger project
+
 	- 401K (n)401(k)退休福利計劃，是美國於1981年創立一種延後課稅的退休金帳戶計劃，美國政府將相關規定明訂在國稅法第401(k)條中，故簡稱為401(k)計劃
-	- pension 
 	- pension /ˈpɛnʃ(ə)n/ (n)退休金, 補助金, 膳宿公寓/寄宿家庭 (v)發給..退休金, 捨棄
 		> 退休金 |A regular payment made during a person`s retirement from an investment fund to which that person or their employer has contributed during their working life.|
 		> 補助金 |A regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.|
 		> 發給..退休金 |Dismiss someone from employment, typically because of age or ill health, and pay them a pension.| he was pensioned off from the army after the war
 		> 捨棄 |Discard something because it is too old or no longer wanted.| garden sheds were raided to bring out machines long since pensioned off
 		> 膳宿公寓/寄宿家庭 |A small hotel or boarding house in France and other European countries.|
-	- onboarding 入職培訓 == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
-	- overtime 加班 == Time worked in addition to one`s normal working hours
-	- Ltd == limited liability company 有限責任公司，是一種公司的組織形態，有限公司對外所負的經濟責任，以出資者所投入的資金為限。
-	- Inc == incorporation 股份有限公司
-	- take-home pay 稅後收入 == the amount of earnings that you have left after tax, etc.
-	- pre-tax salary 稅前收入
-	- paycheck (n)付薪水的支票, 薪水
-	- payroll (n)薪水帳冊, 公司應付薪金總額
-	- outsource 外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
-	- subcontractor 承包者 == A firm or person that carries out work for a company as part of a larger project
+
 	- nondisclosure agreement 保密協議
-	- layoff
+	- layoff (n)臨時解僱, 解僱期, 停止活動
 		> 臨時解僱 |A discharge, especially temporary, of a worker or workers.|
 		> 解僱期 |A period when a layoff is in force.|
 		> 停止活動 |A period during which someone does not take part in a customary sport or other activity.|
-	- family leave 家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
-	- paternity leave 陪產假
+	- family leave (n)家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
+	- paternity leave (n)陪產假
 	- welfare
 		> 健康安樂/幸福 |The health, happiness, and fortunes of a person or group.| they don`t give a damn about the welfare of their families
 		> 福利事業 |Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.| the protection of rights to education, housing, and welfare
@@ -699,6 +692,9 @@
 [Cook/Food]
 	- culinary /ˈkʌlɪn(ə)ri/ (adj)烹飪的
 	- sous vide (n)低溫烹調
+	- simmer (v)煨/燉, 即將爆發, [down]冷靜 (n)即將沸騰狀態
+	- skewer (n)烤肉叉 (v)串起, [非]遭到嚴厲的批評
+
 
 	- goblet (n)高腳杯
 
@@ -1063,6 +1059,7 @@
 	- chronic pain (n)慢性疼痛
 	- cardiac arrest (n)心臟停止，是心臟因不能夠有效收縮，而導致血液循環停止的現象
 	- psoriasis (n)牛皮癬
+	- dementia (mn)痴呆/失智症
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -1774,6 +1771,7 @@
 	- Dolch list (n)由Edward William Dolch編輯的常用英語單詞列表
 	- Federal Pell Grants (n)聯邦培爾助學金
     - yearbook (n)年鑑/年報, 畢業紀念冊
+	- prom (n)班級舞會 <-- promenade
 
 [Political]
 	- Attorney General (n)美國司法部長

@@ -318,9 +318,10 @@
 
 	anthrop, anthropo 人 = human
 		* /ˌanθrəˈpɒlədʒi/ anthropology (n)人類學 --> anthropologist (n)人類學家
+		- anthropomorphism (n)擬人 --> anthropomorphic (adj)擬人的
+		- anthropoid (n)類人猿
 		- philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
 		+ misanthrope, misanthropist (n)厭世者/不願與人來往者 --> misanthropy (n)人類厭惡
-		- anthropoid (n)類人猿
 
 	apo 離開/遠 = away, off, apart
 		+ apostasy --> apostate
@@ -1486,6 +1487,7 @@
 			- defuse (v)拆除引信, 平息/緩和
 			- dehydrate
 			* deliberate
+			- dementia (mn)痴呆/失智症
 			+ demit --> demise
 			- demystify (v)使易懂
 			++ /deɪˈnuːmɒ̃/ denouement (n)結尾 = coda = out <-- de + noue 結 = knot + ment
@@ -2253,6 +2255,7 @@
 		- forefront (n)最顯要的位置/最重要的地位 = foreground
 		+ foreground (n)前佈景, 最顯要的位置/最重要的地位 = forefront (v)強調 = emphasize
 		- foreknowledge (n)預知
+		- foreman (n)工頭/領班, 陪審團主席
 		** foremost (adj)最前的/最先的, 最重要的 = cardinal (adv)在最前/首先
 		- foreordain (v)注定/預先決定 = predestine = ordain
 		* forerunner (n)預兆/前兆 = herald, 先驅 = herald
@@ -4446,6 +4449,7 @@
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
 			+ overthrow (n/v)推翻/廢除 = subvert = topple (v)武力終結, 丟過頭, 丟過..的頭
+			- overtime (mn)加班, 加班費, 加時賽 (adv)加班地
 			- overtourism (n)過度旅遊(指遊客過度擁擠或過度擁擠，導致與當地人發生衝突)
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ /əʊvəˈwiːnɪŋ/ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
@@ -4707,6 +4711,7 @@
 		- prologue
 		+ /prəˈlɒŋ/ prolong (v)延長/拉長 = lengthen = elongate
 		- /ˌprɒməˈnɑːd/ promenade (n/v)散步 (v)帶著..散步 (n)兜風  <-- pro + mena 開車 + ade
+		- prom (n)班級舞會 <-- promenade
 		- prominent
 		- promise
 		+ promote --> promotion
@@ -5309,7 +5314,7 @@
 		++ complex (adj)由各種部分所構成的, 複雜的/難懂的 (n)複合物/綜合體 = system = network, 建築群, 情結/情絲 --> complexion (n)膚色, 一般特徵/性質 = aspect = character
 		* /kəmˈplʌɪ/ comply (v)服從/遵守 = conform
 		+ compliant (adj)服從的/順從的 = acquiescent = complaisant = complying = submissive = yielding <--> contumacious, 合規的 --> compliance (n)遵守/服從 = obedience, 過度默從
-		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的
+		+ /kəmˈplɪsɪt/ complicit (adj)參與共謀的/串通一氣的 --> complicity (mn)同謀/串通
 		+ compliment (n/v)恭維/讚揚 = praise = congratulate --> complimentary (adj)讚賞的, 贈送的 <|> complement <|> implement
 		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> /djuːˈplɪsɪtəs/ duplicitous (adj)雙面的/兩面派的, 欺騙的
 		+ duplicate (adj)複製的, 一對的 (n)複製品 (v)複製, 加倍 = double, 多做一次
@@ -5911,6 +5916,7 @@
 		1. 下 = under, below, beneath
 			- resuscitate
 			- sub (n)潛水艇, 潛艇堡, 替換成員 (v)替換, 審校
+			- subcontractor (n)承包者
 			*** subdue --> subdued
 			+ subject --> subjection --> subjective
 			- subjugate
@@ -6093,6 +6099,7 @@
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
 		- station (n)站/所/局/署, 身分/地位 = social rank, 崗位 = post (v)駐紮/部署
 		- stationary (adj)靜止的/不動的, 不變的
+		- stationery (mn)文具
 		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute <|> astute
 		- /statʃʊˈɛt/ statuette (n)小雕像
 		- statuary (mn)雕塑
@@ -6295,6 +6302,7 @@
 		- execute (v)執行, 製作(藝術品), 表演(花招), 處死, [法]使(證書)生效
 		- executioner (n)死刑執行者
 		* /ɪɡˈzɛkjʊtɪv/ executive (adj)執行的, 行政上的, 商業用的 (n)執行者/經理/業務主管, 執行委員會, 行政部門
+		- exec (n)[非]執行者/經理/業務主管 <-- executive
 		- executor (n)執行者, 遺囑執行人
 		- /kənˈsɛkjʊtɪv/ consecutive (adj)連續不斷的 = continuous
 		- /ˈpəːsɪkjuːt/ persecute (v)迫害, 騷擾 = harass = distract = pester
