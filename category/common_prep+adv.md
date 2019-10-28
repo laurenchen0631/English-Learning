@@ -9,7 +9,6 @@
 + whereby == By which (adv)靠那個/藉以
 	- a system whereby people could vote by telephone
 	
-
 ## Space
 + alongside (prep)
 	- 在旁邊 |Close to the side of; next to.| she was sitting alongside him
@@ -108,6 +107,7 @@
 - decidedly (adv)無疑地 == undoubtedly == undeniably
 - conceivably (adv)可以想像地
 + seemingly (adj)表面上/貌似, 據人所知 = as far as one knows
++ supposedly (adv)據推測/大概/恐怕
 
 ## Attitude
 - inwardly (adv)在內心裡 == within the mind.
@@ -148,3 +148,4 @@
 	- 勇敢的/正直的 |Bold, honest, and frank.| he`d been upfront about his intentions
 	- 事前的 |(of a payment) made in advance.| an upfront fee of 4%
 	- 最顯著的/前面的 |At the front or the most prominent position.| a literary weekly with an upfront section modelled on the New Yorker
+- sic (adv)原文如此 == so == thus

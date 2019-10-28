@@ -59,7 +59,7 @@ Extensive housing construction is underway in Pataska Forest, the habitat of a l
 
 Historian F. W. Maitland observed that legal documents are the best - indeed, often the only - available evidence about the economic and social history of a given period. Why, then, has it taken so long for historians to focus systematically on the *civil (noncriminal) law* of early modern (sixteenth-to eighteenth-century) England? Maitland offered one reason: the subject requires researchers to "master an extremely formal system of pleading and procedure" Yet the complexities that confront those who would study such materials are not wholly different from those recently *surmounted* by historians of *criminal law* in England during the same period. Another possible explanation for historians' *neglect* of the subject is their **widespread assumption** that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical *scholarship*. But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, *propertied*, male elite. Moreover, the later sixteenth and early seventeenth centuries saw an extraordinary explosion in civil litigation by both women and men, making this the most litigious era in English history on a *per capita* basis.
 
-8. The author of the passage mentions the occupations of those involved in civil litigation in early modern England most likely in order to
+8. The author of the passage mentions the *occupations* of those involved in civil litigation in early modern England most likely in order to
 	1. suggest that most historians' assumptions about the participants in the civil legal system during that period are probably correct
 	1. support the theory that more people participated in the civil legal system than the criminal legal system in England during that period
 	1. counter the claim that issues reveal more about a country's ordinary citizens than about its elite
@@ -142,3 +142,4 @@ Historian F. W. Maitland observed that legal documents are the best - indeed, of
 	- the state had fewer banks per capita than elsewhere
 	- lower than average per capita spending
 * scholarship (n)學問/學術成就, 獎學金
++ occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據

@@ -1665,6 +1665,34 @@
 	- lean into (v)擁抱/接受, 推擠/擠入
 		> 擁抱/接受 |The act of embracing something, or a situation, by using it to empower yourself| He was often self conscious about having red hair, but recently he decided to lean into it and really prided himself on it being his look
 		> 推擠/擠入 |To push into or press against someone or something.| People in the audience behind me kept leaning into me throughout the concert.
+	- level (n)水平線/水平面, 高度, 層, 水準/程度, 社會標準, 級別, 關卡, 等級, 水準測量, 水準儀 (adj)水平的, 平的, 同高度的, 同樣位置的, 同水平的, 平穩的/冷靜的 (V)弄平/推平, [off/out]水平飛行, [off/out]變平緩, [up/down]使平等, 瞄準(武器), 針對, [非][with]對..誠實
+		- 水平線/水平面 |A horizontal plane or line with respect to the distance above or below a given point.| the front garden is on a level with this floor
+		- 高度 |A height or distance from the ground or another stated or understood base.| storms caused river levels to rise
+		- 層 |A floor within a multistorey building.|
+		- 水準/程度 |A position on a scale of amount, quantity, extent, or quality.| a high level of unemployment
+		- 社會標準 |An intellectual, social, or moral standard.| at six he could play chess at an advanced level
+		- 級別 |A position in a hierarchy.| a junior level of management
+		- 關卡 |(in a video game) each of a series of stages of increasing difficulty through which a player may progress, completing one stage in order to reach the next.| I have now reached level 106 on Candy Crush Saga
+		- 等級 |(especially in a role-playing game) each of a number of steps in the development of a character, who progressively acquires enhanced skills and abilities within the game as the player advances by completing tasks and earning points.|
+		- 水準測量 |An instrument marked with a line parallel to the plane of the horizon for testing whether things are horizontal.|
+		- 水準儀 |An instrument for giving a horizontal line of sight.| Generally, the most accurate beach survey data are obtained using a surveying level.
+		-  |A flat tract of land.| the Somerset Levels
+		- 水平的 |Having a flat, horizontal surface.| we had reached level ground
+		- 平的 |(of a quantity of a dry substance) with the contents not rising above the brim of the measure.| a level teaspoon of salt
+		- 同高度的 |At the same height as someone or something else.| his eyes were level with hers
+		- 同樣位置的 |Having the same relative position; not in front of or behind.| the car backed rapidly until it was level with me
+		- 同水平的 |Not having risen or fallen; unchanged.| earnings were level at 17.5p a share
+		- 平穩的/冷靜的 |Calm and steady.| the cold, level gaze he had given her
+		- 弄平/推平 |Give a flat and even surface to.| contractors started levelling the ground for the new power station
+		- 拆除/拆毀 |Demolish (a building or town)| bulldozers are now waiting to level their home
+		- level off/out 水平飛行 |Begin to fly horizontally after climbing or diving.| he quickly levelled off at 1500 ft
+		- 變平緩 |(of a path, road, or incline) cease to slope.| the track levelled out and there below us was the bay
+		- 變平緩 |Remain at a steady level after falling or rising.| inflation has levelled out at an acceptable rate
+		- level something up/down 使平等 |Increase or reduce something in order to remove a disparity.|
+		- 瞄準(武器) |Aim (a weapon)| he levelled a pistol at us
+		- 針對 |Direct (a criticism or accusation)| accusations of corruption had been levelled against him
+		- level with 對..誠實 |Be frank or honest with (someone)| when are you going to level with me?
+		- |Ascertain differences in the height of (land).|
 	- level off (v)保持穩定 
 		- House prices now seem to be levelling off after the steep rises of the last few years.
 		- Unemployment rose to ten percent and then levelled off.
@@ -3718,6 +3746,9 @@
 		> 傳遞 |Pass (something) on to a succession of others.| teachers who are able to cascade their experience effectively
 		> 串聯 |A succession of devices or stages in a process, each of which triggers or initiates the next.|
 		> 串聯 |Arrange (a number of devices or objects) in a series or sequence.|
+    - /kɑːsk/ cask (n)(儲酒等的)圓木桶, 一桶
+    * coil (v)弄成圈狀, 盤繞 (n)一圈/一捲, 線圈, 子宮內節育環
+    * column (n)欄, 縱列, 柱, 一隊/一列
 	- couple (n)對/雙, 一對舞伴, 夫婦/未婚夫妻, 幾個/一點點 (v)結合, 連接, 與..有性關係
 		> 對/雙 |Two people or things of the same sort considered together.| a couple of girls were playing marbles
 		> 一對舞伴 |A pair of partners in a dance or game.|
@@ -3863,6 +3894,7 @@
 		> 抑揚頓挫 |A modulation or inflection of the voice.| the measured cadences that he employed in the Senate
 		> 節奏 |Rhythm| the thumping cadence of the engines
 		> 結尾 |A sequence of notes or chords comprising the close of a musical phrase.|
+    * chatter (n/v)喋喋不休/嘮叨 = prate = prattle = rattle, 咯咯作響
 	- chirpy (adj)啁啾叫的, 快活的
 	+ clamor /ˈklamər/ (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)大聲的抱怨/強烈呼聲, 吵鬧/喧嚷
 	- click (v)發出喀嚓聲, 點擊, 變得明白, 一見如故/立刻成為朋友, 進行順利/成功 (n)卡嗒聲/喀嚓聲

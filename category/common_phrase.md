@@ -155,6 +155,8 @@
 - be off 離開 == go away; leave
 	- I must be off if I want to make the next bus.
 	- And the runners are off.
+- come/follow (hard/hot) on the heels of sth 緊隨…而來
+	- For Walter, disaster followed hard on the heels of his initial success.
 - every hour on the hour 整點 == at the beginning of each hour 
 	- Trains leave the station every hour on the hour.
 - far afield 遠處

@@ -882,7 +882,7 @@
 		- /mjʊˈnɪsɪpəl/ municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
 		- municipality (n)市/市政當局
 		+++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任(職務) <-- oc + cup 抓 = take, seize + y
-		* occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
+		+++ occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
 		* perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
 		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception = understanding, 感覺/知覺/感知
 		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
@@ -896,7 +896,7 @@
 		* precipitation (n)降水, 沈澱
 		- receive (v)得到/收到, 接待/迎接 --> receipt (n)收到/接到, 發票/收據
 		*** reception (mn)接收, 歡迎 (n)接待, 接待會/歡迎會/宴會, 接收品質
-		+ receptive (adj)善於接受的/從善如流的
+		+ receptive (adj)善於接受的/從善如流的 <--> unreceptive
 		- receptacle (n)容器
 		- recipient (n)接受者/收受者
 		+ /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
@@ -1050,7 +1050,8 @@
 
 	chron 時間
 		+ anachronism (n)時代錯誤/年代誤植/不合時代的人或物 --> anachronistic (adj)時代錯誤的
-		- chronic (adj)慢性的/長期的
+		* chronic (adj)慢性的, 長期的/持續的 = long-lasting
+		* chronically (adv)慢性地, 長期地
 		- chronology (n)年代學, 年表
 		- chronological (adj)按時間順序的
 		- /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
@@ -1514,7 +1515,7 @@
 			+ decipher (v)破解/破譯 = decode
 			- decode (v)破譯 = decipher
 			+++ defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
-			* demolish (v)拆除/拆毀, 駁斥/反駁 = refute <-- de + mol 建造 = construct + ish
+			* demolish (v)拆除/拆毀 = level, 駁斥/反駁 = refute <-- de + mol 建造 = construct + ish
 			* demolition (n)拆除/拆毀
 			- detest
 
@@ -2014,6 +2015,7 @@
 		- embark (v)上船, 裝載, [on/upon]開始 = begin
 		* embarrass (v)使尷尬/使窘迫, 使拮据 <-- em + barrass 套索 = cord, strap, noose
 		+ embargo
+		- embattle (v)備戰, 加強(防禦) = fortify --> embattled (adj)布陣的/準備戰鬥的, 處境艱難的
 		- embed (v)牢牢嵌入, 栽種 <-- em + bed 床
 		+ embellish (v)裝飾 = adorn = flourish, 潤飾/美化 = flourish = enhance --> embellishment (n)裝飾, 潤色 <-- em + bel 美 = pretty + lish
 		- embezzle (v)盜用/貪污 <-- em + bezzle 破壞 = destory
@@ -2062,6 +2064,7 @@
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
 		+ enlist (v)徵兵, 謀取...贊助或支持
 		- enliven (v)使活躍 <-- en + life + en
+		- enamel (mn)琺瑯, 琺瑯質, 瓷漆/瓷釉 =  enamel paint (v)給…上琺瑯 (n)琺瑯製品
 		- enmesh (v)使絆住/使陷入
 		+ empiric --> empirical --> empiricism
 		* enrage (v)激怒/觸怒 = livid (adj) = furious (adj)
@@ -2144,6 +2147,8 @@
 			- epistolary (adj)書信的/書信體的
 			- epitaph (n)墓誌銘 <-- epi + taph 墓 = tomb
 			- epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = put
+			- epithelium (n)上皮
+			- epithelial (adj)上皮的
 			- epoch (n)時期/時代, 重要時期, 新紀元, 值得紀念的事件 <-- ep + och 擁有 = have
 
 		2. 附帶 = in addition to
@@ -2676,6 +2681,7 @@
 		- hieroglyphic
 		+ hagiography (n)聖徒傳記 --> hagiographic (adj)
 		- lexicographer (n)詞典編纂者
+		- monogram (n)交織字母/花押字 = cipher (v)把花押字印於
 		- oceanographer (n)海洋學家
 		- petroglyph
 		- program (n)節目, 計畫/方案, 大綱 (v)為……安排節目, 為……制訂計畫
@@ -3592,6 +3598,7 @@
 			- collective (adj)聚集而成的, 共同的/集體的, 合計的 = aggregate (n)集體企業/集體農場
 			- eligible (adj)有資格的 = qualified = suitable, (婚姻)合意的
 			- elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
+			- elective (adj)選舉的/選舉產生的, 有選舉權利的(職位), [醫]選擇性的, 選修的 (n)選修課程
 			- elite (n)精華, 精英 
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
 			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
@@ -4393,6 +4400,7 @@
 			+ ostensible, ostensive 
 
 	out 超出/出 = beyond, surpass, out
+		- outage (n)停電期間/停止服務時期
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
 		- outdo -> outdid -> outdone (v)勝過/超越
@@ -6166,6 +6174,7 @@
 		+ perspicuous (adj)清晰明白的 = lucid --> perspicuity (n)明晰/簡明
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		+ respective (adj)個別的 --> respectively (adv)分別地/各自地
+		+ respectable (adj)值得尊敬的, 體面的/文雅的, 相當的/可觀的
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specialization (n)特別化/專門化, 專業分工, 特化
 		+ species (n)物種, 種/類 = sort = kind
@@ -6454,6 +6463,7 @@
 	
 	sci 知道 = know == nois == gnost == cogn
 		+++ /ˈkɑn(t)ʃəs/ conscious (adj)神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = deliberate = intentional <|> conspicuous
+		- consciousness (mn)有知覺/清醒 (n)感覺/覺察
 		* /ˈkɒnʃ(ə)ns/ conscience (n)良心/善惡觀念 <|> /ˈkɑn(t)ʃəs/ conscious
 		+ /ˌkɒnʃɪˈɛnʃəs/ conscientious (adj)本著良心的 = principled, 勤勉認真的 = assiduous
 		- conscionable (adj)合乎良心的/公正的 = scrupulous <|> unconscionable
@@ -7098,6 +7108,7 @@
 		++ unqualified (adj)無資格的, 不夠格的, 無限制的/完全的 = sheer = absolute = complete = unmitigated
 		- unrealized (adj)無法實現的, 無法兌現的
 		*** unravel (v)解開/拆開, 破壞 = disintegrate, 揭開/解開
+		- unreceptive (adj)不願接受的 <--> receptive
 		- unregenerate (adj)不知悔改的 = unrepentant
 		- unregulated (adj)未受管理的/未受管制的
 		* unrelenting (adj)堅定不移的/不退讓的, 不仁慈的/殘酷無情的 = relentless

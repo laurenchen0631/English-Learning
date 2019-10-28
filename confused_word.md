@@ -15,26 +15,36 @@
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bowl <--> bowel
-- bribe <--> bride
+- bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
+- budge <--> budget
 
 ## C
+- cabin <--> cabinet
 - calumniate <--> culminate
-- canon <--> canoe
+- canon <--> canoe <--> cannon <--> canyon
 - carat <--> caret <--> carrot <--> karat
 - casual <--> causal
+- cellar <--> cellular
 - cement <--> clement
+- civil <--> cavil
+- classic <--> classical
 - cluster <--> clutter
+- coarse <--> course
 - complement <--> compliment
 - council <--> counsel
+- country <--> county
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
+- crass <--> grass
+- cruise <--> bruise
 
 ## D
 - discreet <--> discrete
 
 ## F
 - fetid <--> fetish
+- fruit <--> bruit
 
 ## I
 + inveigh <--> inveigle
@@ -45,10 +55,13 @@
 
 ## N
 - notch <--> note <--> botch
-- budge <--> budget
 
 ## P
+- persecute <--> prosecute
 - principle <--> principal
+
+## R
+- risk <--> brisk
 
 ## S
 - stationery <--> stationary

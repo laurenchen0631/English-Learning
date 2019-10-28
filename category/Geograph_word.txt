@@ -9,6 +9,7 @@
 	* landform 地形/地貌 == A natural feature of the earth`s surface.
 	- outcrop (n)礦脈露出地面部分 (v)露出
 	- loess /ˈləʊɪs/ (mn)黃土，一種淺黃或褐黃色的土，顆粒成分以粉土粒級為主，物質粒徑均一，具孔隙，無層理，疏鬆，垂直節理發育
+	- topsoil (n)表土
 
 	+ glacier /ˈɡlasɪə/, /ˈɡleɪsɪə/ (n)冰川
 	* glaciation (n)冰河作用
@@ -54,6 +55,7 @@
 	- seepage (n)滲流
 	- backwater (n)回水/滯水, 落後閉塞的地方
 	- fen (n)沼地/沼澤, [中國貨幣]一分
+	- mudflat (n)泥灘(是潮間帶形成的沿海濕地，沉積物因潮汐或河流沉積)
 	- playa (n)乾鹽湖
 	- salt marsh (n)鹽鹼灘/鹽沼，是沿海潮間帶和陸地間的一種生態系統，海水或鹹水有規律地湧入流出地帶
 	- culvert /ˈkʌlvət/ (n)涵洞(是一種用來為道路泄水排涵的暗渠或暗管) (v)使通過涵洞
@@ -65,7 +67,9 @@
 	- butte /bjuːt/ (n)孤山/孤峰
 	- massif (n)山巒
 	* mountain range (n)山脈
+	- foothill (n)山麓丘陵
 	- vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔
+	- fumarole /ˈfjuːmərəʊl/ (n)火山噴氣孔
 	- shield volcano (n)盾狀火山，具有寬廣緩和的斜坡，底部較大，整體看來就像是一個盾牌
 	- stratovolcano /ˌstratəʊvɒlˈkeɪnəʊ/ (n)複式火山/成層火山/層狀火山，是一個錐形火山，是由硬化的熔岩、火山噴發碎屑、浮岩和火山灰的許多層不斷堆積形成的
 	- geyser /ˈɡʌɪzə/ (n)間歇泉 == A hot spring in which water intermittently boils, sending a tall column of water

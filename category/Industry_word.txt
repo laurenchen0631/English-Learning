@@ -293,8 +293,8 @@
 		> 答辯人 |A person who replies to something, especially one supplying information for a questionnaire or responding to an advertisement.| most respondents to our questionnaire considered their practices to be in accordance with current medical guidelines
 		> 回答的/應答的 |Replying to something.| the respondent firms in the survey
 		> 反應的 |Involving or denoting a response, especially a conditioned reflex, to a specific stimulus.|
-	- class action 集體訴訟 == a legal action (= a case that is decided in a law court) that is organized by a group of people who all have the same legal problem
-		> Plaintiffs` lawyers have tried to get the courts to combine all the potential suits into a single class action.
+	- class action (n)集體訴訟
+	- negligence lawsuit (n)過失訴訟
 	- adjudication 判決
 	* ratification 批准 == The action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid.
 	- build a case 收集證據 == To compile evidence that supports an argument or charges against someone or something.
@@ -649,8 +649,7 @@
 	- seed drill (n)種子播種機
 	- thresher (n)打穀機
 	- quern (n)手推磨
-	- mortar (n)迫擊砲, 研缽/乳缽 (v)用迫擊砲轟擊
-	- pestle (n)杵/碾槌 (v)搗/研碎
+    - huller (n)脫殼機/去殼機
 	- chaff
 		> 粗糠/穀殼 |The husks of corn or other seed separated by winnowing or threshing.|
 		> 乾草/草料 |Chopped hay and straw used as fodder.|
