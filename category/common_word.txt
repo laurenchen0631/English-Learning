@@ -613,6 +613,23 @@
 	- chop up (v)切碎/剁碎
 		- Meat is often chopped up into cubes before being cooked.
 		- During the second rainy period, the dunes were kind of chopped up at the top, full of hollows and ridges, and these hollows would have captured the rain right there on the top.
+	- choke (v)(使)窒息/哽住, [down]困難地嚥下. 阻止(植物)生長, 阻止 (運動)表現到位, 堵塞/阻塞, 使哽咽, 使悲傷, 壓抑 (n)汽油引擎的空氣調節裝置, 阻氣門, 窒息/噎
+		- 窒息/哽住 |(of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.| Willie choked on a mouthful of tea
+		- 使窒息 |Cause (a person or animal) to choke.| the toys contained parts that could choke a very young child
+		- choke something down 困難地嚥下 |Swallow something with difficulty.| I attempted to choke down supper
+		- 阻止(植物)生長 |Prevent (a plant) from growing by depriving it of light, air, or nourishment.| the bracken will choke the wild gladiolus
+		- 阻止 |Prevent or inhibit the occurrence or development of.| higher rates of interest choke off investment demand
+		- (運動)表現到位 |(in sports) fail to perform at a crucial point of a game or contest as a result of nervousness.| we were the only team not to choke when it came to the crunch
+		- 堵塞/阻塞 |Fill (a space) so as to make movement difficult or impossible.| the roads were choked with traffic
+		- 使哽咽 |Make (someone) speechless with a strong feeling or emotion.| he was choked with fury
+		- be choked up 使悲傷 |Cause (someone) to feel tearful or extremely upset.| I was so choked up I started crying and could not sing any more
+		- 壓抑 |Suppress a strong emotion or the expression of such an emotion.| Liz was choking back her anger
+		- |Enrich the fuel mixture in (a petrol engine) by reducing the intake of air.| carbon monoxide results during a cold start, when an engine is choked
+		- 汽油引擎的空氣調節裝置 |A valve in the carburettor of a petrol engine that is used to reduce the amount of air in the fuel mixture when the engine is started.| an automatic choke
+		- 阻氣門 |A knob which controls the choke in a carburettor.| he pulled the choke out to its full extent
+		- |A narrowed part of a shotgun bore near the muzzle, serving to restrict the spread of the shot.| many guns may not have the right choke
+		- |An inductance coil used to smooth the variations of an alternating current or to alter its phase.|
+		- 窒息/噎 |An act or the sound of a person or animal having difficulty in breathing.| a little choke of laughter
 	- clean (sth) up (v)贏得大筆錢/賺大錢, 肅清, 梳洗整齊/打掃/清理
 		> 贏得大筆錢/賺大錢 |to win a lot of money| We cleaned up at the poker table last night.
 		> 肅清 |to stop illegal or dishonest activity in a place or organization| We need a mayor who is tough enough to clean up this town.
@@ -3662,7 +3679,11 @@
 		> 起皺紋 |Make or cause lines or folds in (something, especially fabric or the skin)| his hands and face were wrinkled by age
 		> 使起皺 |Grimace and cause wrinkles on (a part of the face)| he sniffed and wrinkled his nose
 		> 皺起來 |Form or become marked with lines or folds.| her brow wrinkled
-	- write off (v)註銷
+	- write off (v)發信(詢問公司), 一筆勾銷(債務), 把...看作不存在, (交通工具)撞壞
+		- 發信(詢問公司) |If you write off to a company or organization, you send them a letter, usually asking for something.| He wrote off to the New Zealand Government for these pamphlets about life in New Zealand
+		- 一筆勾銷(債務) |If someone writes off a debt or an amount of money that has been spent on a project, they accept that they are never going to get the money back.| The committee decided to write off this debt.
+		- 把...看作不存在 |If you write someone or something off, you decide that they are unimportant or useless and that they are not worth further serious attention.| He is fed up with people writing him off because of his age.
+		- (交通工具)撞壞 |If someone writes off a vehicle, they have a crash in it and it is so badly damaged that it is not worth repairing.| John`s written off four cars. Now he sticks to public transport.
 
 
 [Z]
@@ -3784,6 +3805,7 @@
 		> 吹 |(especially of snow or leaves) be moved in small swirling masses by sudden gusts of wind.|
 		> 忙亂地走 |(of a person) move quickly in a busy or agitated way.| the waiter flurried between them
     - horde (n)[貶]一大群, 部落
+    - litter (n)雜物, 一堆(雜物), 一窩, 貓沙, 乾草 (v)使雜亂, 使充滿
 	- nibble (v)咬一小口, 一點點地咬, 輕咬, 逐漸侵蝕/逐漸消失, 對(機會)表示興趣 (n)細咬/啃, 咬一口的量, 小菜, 表示出興趣
 		> 咬一小口 |Take small bites out of.| he nibbled a biscuit
 		> 一點點地咬 |Eat frequently in small amounts.| I put on weight because I was constantly nibbling
@@ -3854,6 +3876,7 @@
 		> 布塊 |The smallest item of clothing.| nymphs with come-hither looks and not a stitch on
 		> 跑步後肋部的劇痛 |A sudden sharp pain in the side of the body, caused by strenuous exercise.| he was panting and had a stitch
 		> 縫紉/編結 |Make, mend, or join (something) with stitches.| stitch a plain seam with right sides together
+    - troop (n)軍隊/部隊, 騎兵隊, 一群 (v)集合, 列隊而行
 	- whiff (n)一陣微弱的氣味, 一吸, 一點點, 一陣, 微弱的氣味
 		> 一陣微弱的氣味 |Get a brief or faint smell of.|  caught a whiff of eau de cologne
 		> 一吸 |An act of sniffing or inhaling.| I found my inhaler and took a deep whiff
@@ -3872,6 +3895,7 @@
 		> 發出響而刺耳的聲音 |Make or cause to make a loud, harsh sound.| the ambulance arrived outside, siren blaring
 		> 響而刺耳的聲音 |A loud, harsh sound.| a blare of trumpets
     * boom (n)隆隆聲, 嗡嗡聲, 吊杆/帆杠, 水柵 (v)發出隆隆聲, 發出嗡嗡聲 (n/v)繁榮
+    - bray (n)驢叫聲 (v)(驢)叫, 粗聲粗氣地講話
     * brittle (adj)易碎的, 尖利的(聲音), 外強中乾的 (n)果仁薄脆糖
 	- burp /bəːp/ (v)打嗝, 使…打嗝 (n)打嗝聲
 		> 打嗝 |Noisily release air from the stomach through the mouth; belch.|
@@ -3908,6 +3932,7 @@
 		> 發出咯吱咯吱聲 |(of an object or structure, typically a wooden one) make a harsh, high-pitched sound when being moved or when pressure or weight is applied.| the stairs creaked as she went up them
 		> |Show weakness or frailty under strain.| the system started to creak
 		> 咯吱咯吱聲 |A harsh scraping or squeaking sound.| the creak of a floorboard broke the silence
+    - croak (n)蛙鳴聲 (v)蛙鳴, [非]死, [非]殺
 	+ crunch (v)嘎嘎作響地咬, 發出嘎嘎聲, (電腦)處理 (n)嘎嘎聲, 重要時刻, 財政困難/短缺, 仰臥起坐
 		> 嘎嘎作響地咬 |Crush (a hard or brittle foodstuff) with the teeth, making a loud but muffled grinding sound.| she paused to crunch a ginger biscuit
 		> 發出嘎嘎聲 |Make a crunching sound, especially when walking or driving over gravel or an icy surface.|
@@ -4012,6 +4037,7 @@
 		> 嚴厲地批評 |Criticize severely.| the new TV soap was slammed as being cynical and irresponsibl
 		> 監獄 |Prison| if he challenged the judge, he was definitely going to the slam
 	- snap (v)突然折斷, 劈啪地響, 啪地關上或打開, (動物)咬, 突然崩潰/理智斷線, [at]厲聲說, 拍快照 (n)劈啪聲, 急湊的態度或音調, 快照, 寒流, [非]輕鬆的工作, (橄欖球)開球, 子母扣 (mn)熱情 = zest, 零嘴 (adj)匆忙的/不加思索的
+	- sputter (v)發劈啪聲, 急敗壞地說, 勉強進行 (n)噴濺聲/劈啪聲
 	- syllable /ˈsɪləb(ə)l/ (n)音節, 音節字, 少許表示/幾乎, 按音節發音
 		> 音節 |A unit of pronunciation having one vowel sound, with or without surrounding consonants, forming the whole or a part of a word; for example, there are two syllables in water and three in inferno.|
 		> 音節字 |A character or characters representing a syllable.|
@@ -4040,6 +4066,7 @@
 [Color]
 	- bay (adj)棗紅色的(馬) (n)灣/海灣, 月桂樹, 隔間 = compartment, 棗紅馬, 嚎叫聲 (v)(狗或狼)叫/吠 = bark = howl, 喧囂 
 	- blush (n/v)尷尬臉紅 (v)變成紅色 (n)紅色
+    - cerulean (adj)天藍色的 
 	- iridescent /ˌɪrɪˈdɛs(ə)nt/ (adj)彩虹色的
 	- pitch dark (adj)漆黑的 == extremely dark
 		> a moonless, pitch-black night

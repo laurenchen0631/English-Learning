@@ -11,6 +11,7 @@
 	- life expectancy (n)平均壽命 == the average length of the life of members of a group of people or animals
 	+ life span (n)壽命
 	* carcass (n)動物屍體, 畜體, 軀體, 骨架, 殘骸
+	- hen (n)母鳥/雌禽, 母雞, 母蟹/母龍蝦/雌鮭
 	- taxidermist (n)剝製師
 	- fieldwork (mn)實地考察, 野戰工事
 	
@@ -102,6 +103,7 @@
 	- musk ox (n)麝牛，因為雄性麝牛在交配季節時會散發強烈的氣味而得名
 	- sheep (n)綿羊, 羊, 懦怯之人, 信徒, 教區居民
 	- giraffe /dʒɪˈrɑːf/ (n)長頸鹿
+    - hog (n)豬, 野放家豬 = feral pig, 野豬, [非]貪婪自私的人 (v)[非]貪心地攫取/霸佔, 使(船)中部拱起
 
 	- hadrosaur (n)鴨嘴龍
 	- Coelophysis (n)腔骨龍屬，又名虛形龍，是北美洲的小型、肉食性、雙足恐龍
@@ -241,7 +243,14 @@
 
 	- notothenioids (n)南極魚亞目
 	- sardine (n)沙丁魚 == A young pilchard or other young or small herring-like fish.
+	- salmonid (n)鮭魚屬
 	+ trout /traʊt/ (n)鱒魚
+	- sockeye = sockeye salmon (n)紅鮭
+	- kokanee (n)紅鮭 = sockeye
+	- coho (n)銀鮭
+	- smolt (n)銀色幼鮭 
+	- steelhead (n)虹鱒/虹鮭
+	- redd (n)鮭魚或鱒魚的產卵區
 	- catfish (n)鯰魚
 	- sturgeon /ˈstəːdʒ(ə)n/ (n)鱘 
 	- eel /iːl/ (n)鰻 
@@ -249,8 +258,11 @@
 	+ salmon /ˈsamən/ (n)鮭魚 (mn)鮭魚肉, 淺橙色
 	- anchovy /ˈantʃəvi/ (n)鯷魚
 	- herring (n)鯡魚
+    - cod (n)鱈魚
 	- damselfish /ˈdamz(ə)lfɪʃ/ (n)小熱帶魚
 	- gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
+	- spawning bed (n)產卵床(水下固體表面，魚在其上產卵以繁殖)
+	- milt (n)魚的精子, 雄魚的生殖腺
 
 	- bottlenose dolphin (n)寬吻海豚屬
 	+ orca (n)虎鯨/殺人鯨 == killer whale
@@ -305,6 +317,7 @@
 	- sea otter (n)海獺
 	- /siːl/ seal (n)海豹, ....
 	- sea cow (n)海牛，一類大型水生哺乳動物，在淡水或淺海中生活，以草食為主
+	- sea lion (n)海獅
 
 	- penguin /ˈpɛŋɡwɪn/ (n)企鵝 == A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming under water.
 	- tortoise (n)陸龜
@@ -360,6 +373,8 @@
 	- nodule /ˈnɒdjuːl/ (n)小結節/小瘤 
 	- fibrous (adj)纖維的/纖維狀的
 	- latex (n)乳膠 == A milky fluid found in many plants, such as poppies and spurges, which exudes when the plant is cut and coagulates on exposure to the air. The latex of the rubber tree is the chief source of natural rubber.
+	- pod (n)莢/豆莢, 蝗蟲的卵囊, 捕鰻網, 分離艙 (v)生莢/結莢, 剝去豆莢
+	- sap (n)樹的液汁, 精力/元氣, 坑道, [非]傻瓜/容易上當的人, [非]棍棒 = bludgeon = club (v)耗損(元氣), [of]使大傷元氣, 挖掘坑道, 打
 
 	+ bush /bʊʃ/ (n)灌木, 荒野/叢林地, 濃密的頭髮, 陰毛
 	- spurge == Euphorbia (n)大戟屬(是大戟科植物的一個屬，包括了2160多種不同種類的植物)

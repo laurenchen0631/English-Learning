@@ -605,6 +605,8 @@
 - roll in dough 非常有錢的 == Exceptionally wealthy; having large amounts of money to spend.
 	- I hear her father is rolling in dough, so I wouldn not be too worried about her future.
 	- Once we get this plan underway, we will be rolling in dough in no time!
+- run the gauntlet 受到夾道攻撃/受到眾人的批評
+	- Every day they had to run the gauntlet of hostile journalists on their way to school.
 - (be) running low (on sth) 快用完 
 	- Supplies of food were running low.
 - state of the art 發展水平
@@ -715,3 +717,4 @@
 	- I know how to use computers, but I don't really understand the ins and outs of how they work.
 - knock-on effect (n)連鎖反應
 	- If one or two trains run late, it has a knock-on effect on the entire rail service.
+- vested interest (n)既得利益 --> vested interest (n)既得利益人群/既得利益集團

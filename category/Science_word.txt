@@ -93,6 +93,7 @@
 	- iridium (n)銥
 	- masurium (n)鎝
 	- technetium /tɛkˈniːʃɪəm/ (n)鎝(其所有同位素都具有放射性，是原子序最小的非穩定元素)
+	- plutonium (n)鈽
 
 	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/ (adj)微粒的 (n)微粒狀物質
 	- atomic /əˈtɒmɪk/ (adj)原子的, 無法分割的, 原子能的
@@ -136,6 +137,7 @@
 	- dopamine (n)多巴胺
 	- rosin (n)松香
 	- myelin (n)髓磷脂
+	- glycoside (n)醣苷
 	- steroid /ˈstɛrɔɪd/ (n)類固醇
 	+ collagen /ˈkɒlədʒ(ə)n/ (n)膠原蛋白 <-- colla = glue + gen
 	- glucose /ˈɡluːkəʊz/ (n)葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
@@ -357,6 +359,8 @@
 	- Uranus (n)天王星
 	- Neptune (n)海王星
 	- Saturn (n)土星
+		- E ring (n)E環，土星最外層的環，並且散布得非常寬
+		- Enceladus (n)土衛二，是土星的第六大衛星，其表面幾乎能反射百分之百的陽光
 	- Mars (n)火星
 	- Pluto (n)冥王星
 	- Ceres (n)穀神星(在火星和木星軌道之間的主小行星帶中最亮的天體)

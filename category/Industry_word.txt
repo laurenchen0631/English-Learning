@@ -689,11 +689,12 @@
 	+ card (n)卡片, 紙牌, 節目單, 引人發笑的人, 梳棉機 (v)把……記入卡片, 檢查身份, 紡紗前纖維梳理
 
 [Cook/Food]
+	* cuisine /kwɪˈziːn/ (n)烹飪法 == cooking == cookery, 菜餚
 	- culinary /ˈkʌlɪn(ə)ri/ (adj)烹飪的
 	- sous vide (n)低溫烹調
 	- simmer (v)煨/燉, 即將爆發, [down]冷靜 (n)即將沸騰狀態
 	- skewer (n)烤肉叉 (v)串起, [非]遭到嚴厲的批評
-
+    - cutlery (n)餐具
 
 	- goblet (n)高腳杯
 
@@ -738,7 +739,6 @@
 	- pretzel (v)蜷曲 (n)椒鹽脆餅
 	- tamari (n)醬油 == tamari sauce 
 	- oatmeal (n)燕麥粉/燕麥片
-	* cuisine /kwɪˈziːn/ (n)烹飪法 == cooking == cookery, 菜餚
 	- roughage (n)粗食品 == Fibrous indigestible material in vegetable foodstuffs which aids the passage of food and waste products through the gut.
 	- Chardonnay (n)夏多內，現在在全世界範圍內廣泛種植號稱葡萄皇后。可以釀造變化多端的白葡萄酒
 	- merlot (n)梅洛葡萄
@@ -1292,6 +1292,7 @@
 
 	- wristband (n)腕帶, 運動用腕套, 手錶帶, 袖口 = cuff
 	- scarf -> scarved (n)圍巾/披巾/領巾, 嵌接 (v)嵌接, [非]狼吞虎嚥地吃
+    - gantlet (n)長手套, 鐵手套
 
 	- cashmere scarves 喀什米爾羊絨圍巾
 	- trench coats 風衣
@@ -1979,6 +1980,7 @@
 		> 水庫/蓄水池 |A large natural or artificial lake used as a source of water supply.| the more water we use, the more land has to be flooded for reservoirs
 		> 儲藏/積累 |A supply or source of something.| Scotland has always had a fine reservoir of comic talent
 		> 儲液囊 |A population, tissue, etc. which is chronically infested with the causative agent of a disease and can act as a source of further infection.| there is a vast reservoir of herpes infection in the community
+	- spillway (n)溢洪道(指水壩或堰的構造物，功能在於排除宣洩超過水庫容量之多餘洪水)
 	
 	- gated development == gated community 門禁社區
 	- lookout
@@ -2010,9 +2012,7 @@
 	- penthouse 空中別墅
 	- eaves 簷 == The part of a roof that meets or overhangs the walls of a building.
 	- rubble 瓦礫堆/粗石 == Waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.
-	- drainage
-		> 排水 |The action or process of draining something.|
-		> 排水系統 |A system of drains.|
+	- drainage (n)排水, 排水系統
 	- attic 閣樓 == A space or room inside or partly inside the roof of a building.
 	- cornice /ˈkɔːnɪs/ 
 		> 飛簷 |An ornamental moulding round the wall of a room just below the ceiling.|
@@ -2073,6 +2073,8 @@
 	- the Big West Conference (n)大西部聯盟，美國大學體育會議，其成員機構參加全國大學體育協會的第一分部
 
 	- tenpin bowling (n)十瓶制保齡球/保齡球，是由持球者使球延著木製球道或是合成球道，朝著球道終端排成正三角形的十個球瓶使球旋轉前進，目標是要擊倒球瓶的運動
+	- rodeo (n)牛仔競技, 為打烙印而驅集牧牛 (v)牛仔競技
+
 
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
 	- vaulter (n)撐竿跳選手

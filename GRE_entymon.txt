@@ -280,7 +280,7 @@
 		+++ alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
 		** alternate /ˈɔːltəneɪt/ (v)輪流/交替 /ɔːlˈtəːnət/ (adj)輪流的/交替的 (n)替代性選擇 = alternative, 候選人
 		- altercate (v)爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
-		+ inalienable
+		+ inalienable, unalienable
 
 	alt, alti 高 = high
 		- altitude (n)高度/海拔, 高處 <|> aptitude
@@ -524,6 +524,7 @@
 		1. 打 = strike, beat
 			- baton (n)警棍 = nightstick = cudgel, 指揮棒, 接力棒
 			- batter (v)痛打 = bash = clobber, 施暴, 嚴厲批評, 凹陷 (n)麵糊, 打者, 凹陷
+			- battered (adj)受傷害的, 受虐的, 受損的, 打扁了的
 			- combat (n/v)格鬥/搏鬥 --> combative (adj)鬥志旺盛的
 
 		2. 走 = go
@@ -607,6 +608,7 @@
 			+ collapse
 			- collate
 			- collateral
+		    - college (n)大學, 團體/協會 <-- col + lege 委任 = depute
 			- colloquial
 			- colloquium
 			+ collude --> collusion
@@ -1582,6 +1584,7 @@
 			* displace (v)取代/撤換 = supersede, 使移位, 迫使離開
 			* displacement (n)移位, 置換/取代, 被迫遷出, 移位量, 排水量, 情感轉移
 			+ displease (v)使不高興/使生氣
+			* dispossess (v)沒收/奪取, 搶(球)
 			+ disproportionate (adj)不成比例的
 			+ disprove
 			+ disquiet
@@ -2032,6 +2035,7 @@
 		- emphasis --> emphatic
 		* empower (v)授權/准許, 使強大/使有自信 --> empowerment (n)權利, 自主權 <-- em + power
 		+ enamor --> enamored
+		- encamp (v)紮營 --> encampment (n)營地 (mn)紮營
 		+ encapsulate (v)裝入叫囊, 概括/摘要 = summarize = condense <-- en + capsulate
 		+ enchant --> enchanting
 		- enchain (v)加鎖鍊於, 束縛 = enfetter
@@ -2230,6 +2234,7 @@
 	electro 電
 		* electric (adj)靠電力運作的/用電的, 令人震驚的 (n)靠電運作的交通工具/電車
 		* electrical (adj)電的, 電器的 (n)電氣設備/電路
+		- electrocute (v)使觸電致死/用電刑處死
 		- electron (n)電子
 		- electrostatic (adj)靜電的
 		- electromagnetic (adj)電磁的
@@ -2241,6 +2246,7 @@
 		+ evanesce --> evanescent
 		- fluorescent
 		+ obsolescent
+		- pearlescent (adj)珍珠般的
 		- senescent (adj)老邁的 <-- sen 老 = old + escent
 
 [F]
@@ -3017,7 +3023,7 @@
 			** inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
 			+ inadequate (adj)不足的/不夠格的 = inept = unsuitable
 			+ inadvertent --> inadvertently
-			+ inalienable (adj)不可剝奪的/不可分割的
+			+ inalienable (adj)不可剝奪的/不可分割的 = unalienable
 			- inanimate
 			- inappreciable 
 			- incapacitated (adj)虛弱無力的 = debilitated
@@ -3367,6 +3373,7 @@
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
+		- isolationist (n)政治孤立主義者 (adj)孤立主義的
 
 	integ, integr 完整的 = whole, integer
 		- integer (n)整數
@@ -3414,6 +3421,7 @@
 		++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable <|> abjure <|> adjure
 		+ conjecture (n/v)猜測/猜想 = speculate
 		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
+		- ejecta (n)噴出物
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
@@ -3809,7 +3817,7 @@
 		- misfit (n)與社會脫節的人
 		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
 		+ misconstrue (v)誤解/曲解 = misinterpret
-		+ miscreant (n)惡棍/歹徒 = villain = criminal (adj)無賴的 <-- mis + crea(te) 做 + ant
+		+ miscreant (n)惡棍/歹徒 = villain = criminal (adj)無賴的 <|> recreant <-- mis + crea(te) 做 + ant
 		- misgiving (n)擔心/疑慮 = doubt = distrust = fear = qualm = scruple
 		+ mishandle (v)處理不當 = maltreat, 隨意操作
 		- mishap
@@ -4161,6 +4169,7 @@
 		+ majestic (adj)雄偉的/壯麗的 = grand = stately = lofty = palatial = magnificent <|> magisterial
 
 	mari 海 = sea, ocean
+		- marina (n)小艇碼頭
 		* /məˈriːn/ marine (adj)海的, 海中的/海生的 (n)海軍陸戰隊隊員
 		- submarine (n)潛艇, 海底生物, 水下裝置 (adj)海底的
 		- mariculture (n)海洋生物養殖
@@ -4412,6 +4421,7 @@
 		* outlaw (n)逃犯/罪犯, 被剝奪法律權益者 (v)宣布……為不合法, 剝奪……的法律保護 = proscribe
 		- outlay (n)花費 = expense
 		- outlet (n)出水口/排氣口, 銷路, 市場, 商行, 發洩途徑
+		- outlier (n)局外人/門外漢, 分離物
 		- outline (n)外形/輪廓, 提綱/概要 (v)畫出……的輪廓, 概述
 		- outlive (v)比...活得更久 
 		- outmaneuver (v)以機動性勝過, 以計謀勝過
@@ -5905,6 +5915,9 @@
 		- ruralize (v)田園化/鄉村化
 		- rurality (n)田園風光
 		+ rustic (adj)鄉村的/鄉村特色的 = rural = pastoral, 質樸的/簡陋的 (n)鄉下人
+	
+	retro 向後 = backwards
+		- retrograde (adj)後退的/逆行的, 退步的/惡化的, 反的
 
 [S]
 	se 分開 = apart
@@ -7028,6 +7041,7 @@
 		* unaccustomed (adj)[to]不習慣的/不熟悉的, 不尋常的
 		+ unadorned (adj)未經裝飾的/樸素的 = plain
 		- unaffected (adj)自然的/不矯揉造作的, 不受影響的
+		+ inalienable (adj)不可剝奪的/不可分割的 = unalienable (adj)不可剝奪的/不可分割的 = inalienable
 		+ unambiguous (adj)不含糊的/清楚明白的 = unequivocal
 		+ unanticipated (adj)未預料到的/意料之外的 = unexpected
 		+ unassailable (adj)攻不破的/無懈可擊的 = impeccable = impregnable = indisputable = infallible
@@ -7189,6 +7203,7 @@
 		- up-and-comer (n)有進取心的人/有前途的人
 		- up-close (adv)極近距離地 (adj)富含許多細節的
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
+		- upbringing (n)撫育
 		- update (v)使……合乎時代, 為……提供最新信息 (n)更新
 		- upend (v)倒置/顛倒
 		- upgrade (v)使升級/提升, 提拔 (n)升級
