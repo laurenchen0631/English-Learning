@@ -56,7 +56,9 @@
 - per capita (adj/adv)人均/每人
 	- the state had fewer banks per capita than elsewhere
 	- lower than average per capita spending
-
+- out in force 成群行動/成群出現 == Appearing or operating in a large, unified group; present at full strength, as of an army.
+	- The voters are going to come out in force against you if you don't change your position on this.
+	
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
 	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
@@ -475,6 +477,8 @@
 - stop short of 險些(做或說) == If you stop short of doing or saying something, you decide not to do or say it although you almost do.
 	- I stopped short of telling him the brutal truth. 
 	- Eppley stops short of saying anything that might discourage incels from continuing to seek him out.
+- sweep sth under the rug 把(不好的事情或令人尷尬的事)隱藏起來
+	- This scandal can’t be swept under the rug.
 - swing for the fences 奮力一擊/盡全力一搏 == be going ‘all out’, or giving something their maximum effort.
 	- “Whenever you swing for the fences, the likelihood is, you strike out,” Makovsky said.
 	- Rather than swing for the fences with every investment, we strive for consistency, hitting singles, doubles, and triples with far fewer strike-outs. 

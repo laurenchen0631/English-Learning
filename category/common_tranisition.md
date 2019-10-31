@@ -338,6 +338,8 @@
 - **in order that** == **so that** 為了
  	- She used her mother's kitchen in order that the turkey might be properly cooked
 	- I’ll go there so that I can talk to the president. 
+- in a bid to 力圖
+	- Now in a bid to be pretty, people pluck their eyebrows, they trim them, they preen them, and that is just the guys.
 - so ... as to 爲了/以便
 	- We took off our shoes so as to avoid scratching the newly finished floors.
 	- I drove at a steady 50 mph so as to save fuel.

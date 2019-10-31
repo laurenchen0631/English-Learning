@@ -4,10 +4,12 @@
 - aloof <--> aloft
 - arrant <--> errant
 - argument <--> augment
+- abrogate <--> arrogate <--> arrogant
 - allegory <--> allergy
 - alter <--> altar
 
 ## B
+- bail <--> bait
 - ballad <--> ballast <--> ballot
 - banquet <--> bouquet <--> boutique
 - blot <--> bolt <--> colt
@@ -18,9 +20,11 @@
 - bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
+- burst <--> blast <--> bluster <--> blunt <--> brunt
 
 ## C
 - cabin <--> cabinet
+- cache <--> cachet
 - calumniate <--> culminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - carat <--> caret <--> carrot <--> karat
@@ -55,12 +59,24 @@
 - curb <--> cub
 
 ## D
+- daunt <--> flaunt <--> gaunt <--> taunt <--> vaunt
+- debilitate <--> deliberate
+- deed <--> deem
+- deft <--> daft
+- despot <--> unspotted
 - discreet <--> discrete
+- disturb <--> disrupt
+- don <--> doff
+- downplay <--> underplay
 
 ## F
+- fare <--> ware
 - fetid <--> fetish
 - flinch <--> clinch
 - fruit <--> bruit
+
+## H
+- hermetic <--> heretic
 
 ## I
 + inveigh <--> inveigle
@@ -76,12 +92,18 @@
 ## N
 - notch <--> notion <--> note <--> botch <--> blotch
 
+## O
+- outlook <--> overlook
+
 ## P
 - persecute <--> prosecute
 - principle <--> principal
+- preeminent <--> prominent 
+- prodigy <--> prodigal <--> prodigious
 
 ## R
 - recoup <--> coup
+- respite <--> respect
 - risk <--> brisk
 - rub <--> rubber
 
@@ -90,9 +112,13 @@
 - spur <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt
+- subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T
 - troop <--> troupe
+
+## V
+- vocation <--> vacation
 
 ## W
 - wrap <--> warp

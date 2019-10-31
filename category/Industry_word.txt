@@ -117,7 +117,8 @@
 	- outfitter 旅行用品商店
 	- emporium (n)商業中心/大百貨店
 	- strip mall 條形商場，是一個露天購物中心，商店排成一排，前面有一條人行道
-	- subsidize
+	- convenience store == CVS (n)便利商店
+	- subsidize (v)補助, 補貼
 		> 補助 |Support (an organization or activity) financially.| the mining industry continues to be subsidized
 		> 補貼 |Pay part of the cost of producing (something) to keep the selling price low.| the government subsidizes basic goods including sugar, petroleum, and wheat
 	- triple bottom line 三重底線，或稱作三重盈餘，即企業盈利、社會責任、環境責任三者的統一
@@ -619,6 +620,7 @@
 	- ranch (n)大牧場/大農場 --> rancher (n)農牧場經營者或工人
 	- cottage (n)小屋/村舍
 	- peasant /ˈpɛz(ə)nt/ (n)農民, 沒教養的人/粗人
+    - serf (n)農奴 --> serfdom (mn)農奴身分/農奴制 
 	- homestead (n)家園/農場, 自耕農場/公地 
 	- parcel /ˈpɑːs(ə)l/ (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
 	- cattle (n)牛, 牲口
@@ -703,6 +705,8 @@
 	
 	- gamey, gamy (n)野味
 	- bratwurst (n)德國油煎香腸
+
+	- Nutella (n)能多益(義大利廠商Ferrero生產的棕櫚油巧克力榛果醬)
 
 	- Worcestershire sauce (n)伍斯特醬
 	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
@@ -1125,6 +1129,7 @@
 
 	- prime time (n)(廣播與電視的)黃金時段
 	- media consumption (n)媒體消費，個人或團體所接受的信息和娛樂媒體的總和
+    - readership (n)讀者
 
 	- epistle (n)書信, 使徒書信
 	- epistolary (adj)書信的/書信體的
@@ -2191,11 +2196,10 @@
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
 	- bordello 妓院 == brothel
-	* prostitute
-		> 娼妓 |A person, in particular a woman, who engages in sexual activity for payment.|
-		> |Offer (someone) for sexual activity in exchange for payment.| although she was paid £15 to join a man at his table, she never prostituted herself
-		> 濫用才能者 |A person who misuses their talents or behaves unworthily for personal or financial gain.| 
-		> |Put (oneself or ones talents) to an unworthy or corrupt use for personal or financial gain.| his willingness to prostitute himself to the worst instincts of the electorate
+	- escort service (n)陪伴服務(可以是正當的陪伴服務如，陪同參加社交活動，或是色情服務)
+	- window brothel (n)窗戶賣淫，一種賣淫形式，在荷蘭及周邊國家相當普遍。妓女在一個窗口租用一段時間，通常是每天或部分時間並招募自己的顧客
+	- prostitute (n)娼妓, 濫用才能 (v)賣淫, 濫用才能 --> prostitution (mn)賣淫, 濫用/糟蹋
+
 	- orgasm (n/v)性高潮 == The climax of sexual excitement
 	- slut-shamed 蕩婦羞辱，一個概念用來描述使一個人，尤其是女性，為自己的某種性行為或性慾感到羞恥或低人一等的行為。
 	- erotica 情色作品 == Erotic literature or art.

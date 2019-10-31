@@ -426,7 +426,7 @@
 		- astrology (n)占星學 = horoscope
 		- astronomy (n)天文學 --> astronomical (adj)天文學的, 龐大的 = colossal
 		- astronaut (n)太空人
-		+++ disaster (n)災難 --> disastrous (adj)災難性的 = ruinous = very unfortunate = calamitous
+
 
 	auct, aug, aux 提高/增加 = increase
 		- auction (n)拍賣
@@ -1851,7 +1851,7 @@
 		- duration (n)持續期間
 		- durable (adj)耐用的
 		+ endure (v)忍耐/忍受, 持續 --> enduring (adj)持續的/持久的 = lasting = permanent --> endurance (n)忍耐/耐力, 苦難/磨練
-		- /djʊəˈrɛs/ duress (n)脅迫
+		+ /djʊəˈrɛs/ duress (n)脅迫
 		- indurate (v)使堅硬 = harden
 		+ obdurate (adj)頑固的 = stubborn = refractory, 冷酷的 = hardhearted --> obduracy (n)頑固/倔強, 冷酷
 
@@ -3551,7 +3551,8 @@
 			- legislator (n)立法員
 			* legislature (n)立法機關, 美國州議會
 			- legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
-			+ legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
+			++ legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
+			- legitimacy (n)合法, 合法性, 合理性 = validity
 			- illegitimate
 			+ privilege
 
@@ -4424,6 +4425,7 @@
 		- outlier (n)局外人/門外漢, 分離物
 		- outline (n)外形/輪廓, 提綱/概要 (v)畫出……的輪廓, 概述
 		- outlive (v)比...活得更久 
+		- outlook (n)觀點/看法 = point of view, 景色, 前景 = prospect
 		- outmaneuver (v)以機動性勝過, 以計謀勝過
 		+ outmoded (adj)老式的/過時的 = obsolete = old-fashioned = outdated
 		- outnumber (v)在數量上超過
@@ -4480,7 +4482,7 @@
 			- overland (adv)經由陸路 (adj)經由陸路的
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			- overlie -> overlay -> overlain (v)覆蓋在..之上
-			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置
+			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置 <|> outlook
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
@@ -4753,6 +4755,7 @@
 		- prosecute --> prosecution
 		+ prospect --> prospective
 		+ prosper --> prosperity --> prosperous
+		- prostitute --> prostitution
 		- prostrate (adj)俯臥的 = prone, 被征服的/無助的 (v)使下跪/俯臥, 使衰竭/使疲憊 <-- pro + stra 伸展 = stretch + ate
 		- protest (n/v)抗議/反對, 書面拒付聲明
 		- /prəˈtjuːbərənt/ protuberant (adj)凸出的/隆起的 = prominent = tumid = bulging <-- pro + tuber 隆起/腫脹 + ant
@@ -5301,6 +5304,7 @@
 		- phonograph (n)唱機
 		- phonetic (adj)語音的, 語音學的, 音形一致的
 		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
+		- symphonic (adj)交響樂的
 		- telephone (n)電話 (v)打電話
 
 	phot 光 = light
@@ -5477,6 +5481,7 @@
 		- portfolio
 		+ purport --> purported --> purportedly
 		- rapport
+		- rapporteur
 		- report --> reportorial
 		- transport
 
@@ -5678,6 +5683,7 @@
 
 		2. 回/向後/反 = back, backward
 			- rapport (n)融洽關係/和諧一致 <-- r(e) + ap + port
+			- rapporteur (n)報告人/調查員
 			- rebel --> rebellion --> rebellious
 			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
 			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
@@ -5955,6 +5961,7 @@
 			- subsidiary
 			- subsidy
 			- subsist --> subsistence
+			- substandard (adj)不夠標準的, 非標準的/不規則的 = non-standard
 			- substance
 			+ substantial
 			+ substantiate
@@ -6102,6 +6109,7 @@
 		- obstacle (n)障礙/干擾
 		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固 = stubbornness
 		+ persist (v)堅持/固執, 持續 = continue to exist = be prolonged
+		- prostitute (n)娼妓, 濫用才能 (v)賣淫, 濫用才能 --> prostitution (mn)賣淫, 濫用/糟蹋
 		+ resist (v)抵抗/反抗 = withstand, 克制/忍住(誘惑) = refrain from --> resistance (n)抵抗/反抗/抵制, 抵抗力, 阻力, 電阻
 		+ resistant (adj)抵抗的/抗……的
 		- restitute (v)復職/恢復, 歸還/償還 --> restitution (n)歸還, 償還/賠償, 恢復 = restoration
@@ -6188,6 +6196,7 @@
 		+++ respect (n/v)敬重/尊敬, 注重/重視 = regard (v)遵守/顧及 (n)敬意/問候 = greeting, 方面/點 = aspect = point
 		+ respective (adj)個別的 --> respectively (adv)分別地/各自地
 		+ respectable (adj)值得尊敬的, 體面的/文雅的, 相當的/可觀的
+		+ respite (n)暫時的休息/喘息, (懲罰)緩期執行 (v)緩期執行 = postpone
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specialization (n)特別化/專門化, 專業分工, 特化
 		+ species (n)物種, 種/類 = sort = kind
@@ -6251,7 +6260,7 @@
 	semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
 		- assemble (v)聚集 = aggregate = agglomerate = amass, 安裝
 		- asymmetric (adj)不對稱的
-		- assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
+		* assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak
 		- dissimulate (v)掩蓋/掩飾 = dissemble
 		* ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
@@ -6386,6 +6395,7 @@
 		- session (n)開會/開庭, 學期, 期間
 		+ subside (v)平息/減弱, (水)消退, 下陷, 坐下/跪下
 		- subsidy (n)輔助金
+		- subsidize (v)補助, 補貼
 		- subsidiary (adj)附帶的/次要的 = subordinate, 隸屬的 (n)子公司
 		+ supersede (v)接替/取代 = supplant = replace = displace
 
@@ -6438,7 +6448,7 @@
 		+ constraint (n)約束/限制
 		- constrict (v)壓縮/緊縮, 阻止/束縛 = inhibit = restrict --> constriction (n)壓縮, 阻塞物 = obstruction
 		- distrain (v)扣押(財物)
-		+ prestige (n)威信/威望/聲望 --> prestigious (adj)有聲望的/有威信的
+		+ prestige (n)威信/威望/聲望 = cachet --> prestigious (adj)有聲望的/有威信的
 		+ restrain (v)克制/制止 = constrain = bridle = shackle = stint, 抑制 = suppress, 監禁/剝奪(自由) --> restrained (adj)不帶感情的, 保守的(裝飾) = understated = low-key, 受控制的 
 		+ restraint (n)控制 = control, 監禁, 拘束裝置, 自制力 = self-control, 保守
 		* restrict (v)限制/控制, 監禁 = restrain --> restriction (n)限制規定, 限制/控制 = control = stricture
@@ -6764,6 +6774,7 @@
 			- tenderness (n)溫柔/親切, 痛覺 = soreness, 柔軟/嫩
 			* tract (n)大片土地, 道, 短文/小冊子
 			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple = malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
+			- traction (n)牽引, 附著摩擦力, 引擎, 變得流行/變得被接受, [醫]牽引療法
 
 		2. 拿著 = hold, keep == tain
 			* /kənˈtɛnt/ content (adj)滿意的/滿足的 = satisfied (v)使滿意/使滿足 = sate, [oneself]勉強接受 (n)滿足 --> contentment (n)滿足/滿意 --> contented (adj)滿意的/滿足的 = content  <|> contention
@@ -6888,6 +6899,7 @@
 		- testator (n)立遺囑的人
 		- testify (v)作證, 作為…的證明 = attest
 		+ testimony (n)證言 (mn)證明/證據
+		- testimonial (n)證明書/推薦書, 褒揚狀/感謝狀
 		- testy (adj)易怒的/暴躁的 = irritable --> testiness (n)易怒
 
 	tribute 歸於/給予 = assign, ascribe
@@ -7014,6 +7026,7 @@
 	turb 擾亂/混亂 = disturb, turmoil
 		* disturb (v)打斷/干擾 = disrupt = interfere with = interrupt = hinder, 打亂/弄亂 = disarrange = muddle, 使焦慮 = perplex = trouble = agitate 
 		* disturbance (mn)擾亂/打擾 (n)擾亂執法, 騷擾/混亂
+		- disturbed (adj)被擾亂的, 心亂的
 		+ perturb (v)使焦慮 = agitate = disconcert = disturb, 擾亂/使混亂 = disturb <-- per + (dis)turb
 		- perturbation (n)焦慮/不安, 引起不安的事物, 偏差, 攝動
 		+ turbid (adj)渾濁的/汙濁的 = muddy = opaque, 思想混亂的/紊亂的 = confused = confused = disturbed
@@ -7382,7 +7395,7 @@
 		- vocal (adj)聲音的, 歌唱的, 暢所欲言的 (n)聲樂作品, 聲樂節目
 		- vocalist (n)流行歌手 = singer
 		- vocalize (v)發聲, 用文字表達, 加母音符號於……上 --> vocalization (n)發聲
-		- vocation (n)(對某職業的)傾向/才能, 職業/工作 <|> vacation
+		+ vocation (n)(對某職業的)傾向/才能, 職業/工作 <|> vacation
 		+ /vəʊˈsɪfərəs/ vociferous (adj)喊叫的/喧嚷的 = loud
 
 	val, vail 力量/價值 = strong, worth
