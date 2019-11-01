@@ -12,6 +12,7 @@
 - bail <--> bait
 - ballad <--> ballast <--> ballot
 - banquet <--> bouquet <--> boutique
+- bicker <--> dicker
 - blot <--> bolt <--> colt
 - bluff <--> cliff
 - blur <--> slur <--> blurt <--> blurb
@@ -46,11 +47,14 @@
 - collusion <--> collision
 - complement <--> compliment
 - cooperate <--> corporate <--> coop
+- cope <--> dope
 - council <--> counsel <--> consul
 - country <--> county
+- coup <--> couple <--> recoup
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
 - crumble <--> crumple <--> cramp
+- cramp <--> clamp <--> crap
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
@@ -64,10 +68,16 @@
 - deed <--> deem
 - deft <--> daft
 - despot <--> unspotted
+- dim <--> din
 - discreet <--> discrete
 - disturb <--> disrupt
+- dizzy <--> drizzle
 - don <--> doff
+- dose <--> douse
 - downplay <--> underplay
+- drastic <--> dramatic
+- dub <--> dab <--> daub <--> dud <--> dude
+- dwindle <--> dawdle <--> doodle
 
 ## F
 - fare <--> ware
@@ -115,6 +125,7 @@
 - subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T
+- trench <--> drench <--> wrench
 - troop <--> troupe
 
 ## V

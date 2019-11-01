@@ -347,6 +347,8 @@
 + hang up 掛斷電話 == to end a phone conversation
 	- He started shouting so I hung up on him.
 	- Let me speak to Melanie before you hang up.
+- hit the nail on the head 說中要害 == to describe exactly what is causing a situation or problem
+	- I think Mick hit the nail on the head when he said that what's lacking in this company is a feeling of confidence.
 - not mince (one's) words 直接地表達不滿 == Voice one`s disapproval candidly and directly.
 	- The report does not mince words, describing the situation as extremely serious.
 - pull (one's) leg 跟..開玩笑 == To tease or joke with someone, often by trying to convince them of something untrue.
@@ -438,6 +440,8 @@
 	- These two bottles look so much alike. It's hard to keep them straight.
 - lie in wait 埋伏起來
 	- The gunmen were lying in wait when Mr Predit came out of the hotel.
+- makes a splash 一炮而紅/一舉成名 == to become suddenly very successful or very well known
+	- Jodie Foster made quite a splash in the film "Taxi Driver".
 - off the hook 脫離困境/脫身
 	- John's agreed to go to the meeting in my place so that gets me off the hook.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
@@ -455,6 +459,8 @@
 	- It doesn't really matter who gets promoted to assistant manager—just pick a name out of a hat for all I care!
 + pull a fast one (on sb) 成功地欺騙/耍弄 == to successfully deceive someone
 	- You paid too much - I think he pulled a fast one on you.
+- pull out all the stops 全力以赴/竭盡所能
+	- They pulled out all the stops for their daughter's wedding.
 - put sb at ease 使..冷靜 == To calm, comfort, or reassure one; to make one comfortable or relaxed.
 	- How to put strangers at ease.
 - put a/one's finger on sth 確切地指出 == to discover the exact reason why a situation is the way it is, especially when something is wrong
