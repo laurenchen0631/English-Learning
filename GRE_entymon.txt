@@ -347,7 +347,8 @@
 	arbit 判斷 = judge
 		+ arbiter (n)仲裁人/權威人士 = arbitrator = moderator
 		+ /ˈɑːbɪt(rə)ri/ arbitrary (adj)任意的/隨機的, 專橫的 = dictatorial
-		- arbitrate (v)仲裁/公斷 = adjudicate = umpire
+		- arbitrate (v)仲裁/公斷 = adjudicate = umpire --> arbitration (n)仲裁
+
 
 	arbor 樹 = tree
 		- /ɑːˈbɔːrɪəl/ arboreal (adj)樹木的
@@ -381,7 +382,7 @@
 	ard, ars, arsen 火/熱 = burn == flagr == caus
 		+ ardent (adj)熱心的 = accommodating, 熱烈的/強烈的/激情的 = zealous = fervent = vehement
 		+ ardor (n)激情/熱情/熾熱的愛情 = zeal
-		+ arduous (adj)艱難的/艱巨的/費力的 = laborious = exigent
+		+ arduous (adj)艱難的/艱巨的/費力的 = laborious
 		- arsenal (n)軍械, 軍械庫 = armory, 大量
 		- arson (n)縱火
 
@@ -459,7 +460,7 @@
 
 	avi 鳥 = bird
 		- avian (adj)鳥的/鳥類的 (n)鳥 = bird
-		+ avid (adj)渴望的 = agog, 熱心的 = eager
+		+ avid (adj)渴望的 = agog, 熱心的 = eager --> avidity (n)渴望/熱情, [化]親和力
 		- aviary (n)大鳥籠,鳥舍
 		- aviation (n)航空
 		- aviatrix (n)女飛行員
@@ -1975,6 +1976,7 @@
 		+ exonerate
 		+ exorbitant
 		+ exorcise
+		- exoteric (adj)開放的/公開的 <--> esoteric
 		+ exotic (adj)異國情調的/外來的, 奇特的
 		++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述
 		++ expansive (adj)豪爽的/健談的, 遼闊的 = extensive, 擴張的
@@ -2993,7 +2995,7 @@
 			+ impassive --> impassivity
 			+ impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable <|> impecunious
 			+ impecunious
-			+ impenetrable (adj)不能穿透的, 無法理解的 = arcane = unfathomable = incomprehensible = arcane <-- im + penetrable
+			+ impenetrable (adj)不能穿透的, 無法理解的 = arcane = unfathomable = incomprehensible = abstruse <-- im + penetrable
 			- impenitent (adj)不知悔改的 = incorrigible <-- im + penitent
 			+ imperceptible (adj)非常細微的 = very slight/subtle, 感覺不到的/察覺不出的
 			- impermanent (adj)暫時的 = temporary <-- im + permanent
@@ -3092,7 +3094,7 @@
 			+ inopportune (adj)不適合的/不合時宜的 = inappropriate = inconvenient = untimely
 			+ inordinate
 			- insatiable
-			+ /ɪnˈskruːtəb(ə)l/ inscrutable (adj)高深莫測的/不可理解的 = unfathomable = mysterious = impenetrable <-- in + scrutable --> inscrutability (n)
+			+ /ɪnˈskruːtəb(ə)l/ inscrutable (adj)高深莫測的/不可理解的 = unfathomable = mysterious = impenetrable = arcane <-- in + scrutable --> inscrutability (n)
 			- insensate
 			+ insensible 
 			- insentient
@@ -4770,6 +4772,64 @@
 		- provisory
 		+ provoke --> provocation --> provocative
 
+	post 之後 = after
+		- postpartum (adj)產後的
+		- postpone
+	
+	pos, pose, post, pon, pound, postul 放 = place, put
+		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
+		- component (n)成分/零件 (adj)組成的/構成的 = constituent
+		+ compose (v)作曲/創作, 組成/構成 = constitute = make up, 使平靜 = calm = settle <--> discompose
+		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
+		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise = aplomb = serenity
+		- compost (n)堆肥 (v)做堆肥
+		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
+		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
+		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
+		* discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
+		+ deposit (n)儲蓄, 保證金, 押金, 堆積/沈澱, 礦床, 放/寄放 (v)存, 付保證金, 沈澱, 放/寄存, 下蛋
+		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定, [of]擺脫 = get rid of
+		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
+		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
+		* disposable (adj)一次性的/用完即丟的, 可以捨棄的, 可自由使用的 (n)一次性用品
+		* predispose (v)使有傾向 = dispose = incline --> predisposition (n)傾向
+		+ expose (v)使接觸到, 揭發 = debunk --> exposure (n)暴露/顯露, 曝光
+		+ exposition (n)闡述/說明, 展覽會/博覽會 = exhibition --> expository (adj)說明的 = explanatory
+		+ expound (v)詳細述說/闡述 = expatiate
+		++ /ɪkˈspəʊnənt/ exponent (n)倡導者/支持者, 指數 --> exponentially (adv)指數地
+		- expostulate (v)反對/抗議
+		*** impose (v)強制實行/強行收取/徵, 利用
+		- imposing (adj)壯觀的/宏偉的 = grand
+		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
+		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
+		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
+		+ opponent (n)敵手/對手, 反對者
+		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
+		- opposite (adj)相反的/對立的 = contrary, 對面的/相對的 (n)相反的人或物 (adv)在對面 (prep)在…對面
+		+++ pose (v)提出, 引起/造成, 擺姿勢, 造作/裝腔作勢, [as]假裝
+		+ /pəʊˈzəː/ poseur (n)裝模作樣的人
+		+ posit (v)斷定/假定 = put forward = postulate = presume = suggest = predicate, [on]基於 = base = predicate, 安置 = place
+		- position (n)職位, 地位, 地點, 處境, 安置方式, 態度/觀點 = attitude (v)安放/放置, 把(產品)打進市場
+		- positive (adj)肯定的, 正面的/積極的, 確信的/有自信的 = optimistic = confident, 有進展的, 確定的/確實的 = definite = certain, 完全的/十足的 = downright = complete, 正數的, 陽極的, 正片的/正像的, [文]原級的, 陽性的 (n)優點, 正片/正像, 陽性, 正數, 陽極
+		- /pəˈzɛs/ possess (v)擁有, 具有, 附身, 支配
+	    +++ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
+		- poster (n)海報/廣告/布告, 貼文者 (v)張貼
+		* postpone (v)使延期/推遲 <-- post 後 = after + pone
+		* postulate (v)假設/假定 = assume = presume = posit (n)假定/假設, 基本條件要求
+		* posture (n)姿勢, 立場態度, 姿態/裝腔作勢 = pose (v)裝模作樣/故作姿態 --> posturing (n)故作姿態/裝腔作勢
+		- preposition (n)介詞/前置詞
+		+ presuppose (v)預先假定, 以……為前提 --> presupposition (n)預先假定/臆測
+		- proponent (n)提議人/擁護者/倡導者 = exponent <--> opponent
+		*** propose (v)提議/建議, 推薦/提名, 計畫/打算 = intend, 求婚
+		- proposal (n)提案/建議, 求婚 
+		* proposition (n/v)提議/建議 = proposal, 求歡 (n)主張/論點, 命題, 法案/議案, 計畫/想法
+		- purpose
+		+ repose (n)休息/睡眠 = recess = respite, 安詳/安靜/靜止 = peacefulness = tranquility, [藝術]恬靜感/和諧 (v)被安放/座落, 躺著休息/安睡, [in]寄託於
+		- superimpose (v)加在上面/把……放置在上面重疊
+		+ suppose (v)猜想/以為, 讓/建議, 假定, 以……為前提 = presuppose = premise, [be supposed to]應該/必須
+		+ /ˌsʌpəˈzɪʃ(ə)n/ supposition (n)假定/推測 = assumption = hypothesis
+		- transpose (v)變換位置/調換, 移動位置, [音]變調, [數]移項, 翻譯
+
 	prodig 巨大/奇蹟 = extravagant, marvel
 		+ prodigal (adj)揮霍的 = profligate = wasteful = extravagant = lavish (n)揮霍者, 浪蕩子 <|> prodigious
 		+ prodigy (n)奇才 = genius, 奇事 = portent = marvel
@@ -4778,7 +4838,7 @@
 	proto, prot 首先/首要 = first, foremost
 		- protagonist
 		* protocol (n)禮儀/禮節, 條約/公約/議定書, 通訊協定 <-- proto + col 膠水 = glue
-		+ prototype (n)原型, 典型 (v)製作..的原型
+		+ prototype (n)原型 = dummy, 典型 (v)製作..的原型
 	  
 	per
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
@@ -5126,60 +5186,6 @@
 		- replenish (v)補充/再裝滿
 		+ /rɪˈpliːt/ replete (adj)充滿的/裝滿的, 吃飽喝足的 <|> deplete --> repletion (n)
 		+ /ˈsʌplɪm(ə)nt/ supplement (v)增補/補充 (n)補充物, 營養補給品, 增刊/副刊, 額外收入, 額外收費 <|> supple
-
-	pos, pose, post, pon, pound, postul 放 = place, put
-		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
-		- component (n)成分/零件 (adj)組成的/構成的 = constituent
-		+ compose (v)作曲/創作, 組成/構成 = constitute = make up, 使平靜 = calm = settle <--> discompose
-		- composed (adj)鎮靜的/沉著的 = tranquil = calm = imperturbable
-		* composure (n)鎮靜/沈著 = tranquility = equanimity = poise = aplomb = serenity
-		- compost (n)堆肥 (v)做堆肥
-		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
-		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
-		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
-		* discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
-		+ deposit (n)儲蓄, 保證金, 押金, 堆積/沈澱, 礦床, 放/寄放 (v)存, 付保證金, 沈澱, 放/寄存, 下蛋
-		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定, [of]擺脫 = get rid of
-		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
-		*** disposition (n)性格 = character = mettle = temper = humor, 傾向/意向 = inclination = tendency, 配置/布置, 轉讓, 處置權
-		* disposable (adj)一次性的/用完即丟的, 可以捨棄的, 可自由使用的 (n)一次性用品
-		* predispose (v)使有傾向 = dispose = incline --> predisposition (n)傾向
-		+ expose (v)使接觸到, 揭發 = debunk --> exposure (n)暴露/顯露, 曝光
-		+ exposition (n)闡述/說明, 展覽會/博覽會 = exhibition --> expository (adj)說明的 = explanatory
-		+ expound (v)詳細述說/闡述 = expatiate
-		++ /ɪkˈspəʊnənt/ exponent (n)倡導者/支持者, 指數 --> exponentially (adv)指數地
-		- expostulate (v)反對/抗議
-		*** impose (v)強制實行/強行收取/徵, 利用
-		- imposing (adj)壯觀的/宏偉的 = grand
-		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
-		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
-		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
-		+ opponent (n)敵手/對手, 反對者
-		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
-		- opposite (adj)相反的/對立的 = contrary, 對面的/相對的 (n)相反的人或物 (adv)在對面 (prep)在…對面
-		+++ pose (v)提出, 引起/造成, 擺姿勢, 造作/裝腔作勢, [as]假裝
-		+ /pəʊˈzəː/ poseur (n)裝模作樣的人
-		+ posit (v)斷定/假定 = put forward = postulate = presume = suggest = predicate, [on]基於 = base = predicate, 安置 = place
-		- position (n)職位, 地位, 地點, 處境, 安置方式, 態度/觀點 = attitude (v)安放/放置, 把(產品)打進市場
-		- positive (adj)肯定的, 正面的/積極的, 確信的/有自信的 = optimistic = confident, 有進展的, 確定的/確實的 = definite = certain, 完全的/十足的 = downright = complete, 正數的, 陽極的, 正片的/正像的, [文]原級的, 陽性的 (n)優點, 正片/正像, 陽性, 正數, 陽極
-		- /pəˈzɛs/ possess (v)擁有, 具有, 附身, 支配
-	    +++ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
-		- poster (n)海報/廣告/布告, 貼文者 (v)張貼
-		* postpone (v)使延期/推遲 <-- post 後 = after + pone
-		* postulate (v)假設/假定 = assume = presume = posit (n)假定/假設, 基本條件要求
-		* posture (n)姿勢, 立場態度, 姿態/裝腔作勢 = pose (v)裝模作樣/故作姿態 --> posturing (n)故作姿態/裝腔作勢
-		- preposition (n)介詞/前置詞
-		+ presuppose (v)預先假定, 以……為前提 --> presupposition (n)預先假定/臆測
-		- proponent (n)提議人/擁護者/倡導者 = exponent <--> opponent
-		*** propose (v)提議/建議, 推薦/提名, 計畫/打算 = intend, 求婚
-		- proposal (n)提案/建議, 求婚 
-		* proposition (n/v)提議/建議 = proposal, 求歡 (n)主張/論點, 命題, 法案/議案, 計畫/想法
-		- purpose
-		+ repose (n)休息/睡眠 = recess = respite, 安詳/安靜/靜止 = peacefulness = tranquility, [藝術]恬靜感/和諧 (v)被安放/座落, 躺著休息/安睡, [in]寄託於
-		- superimpose (v)加在上面/把……放置在上面重疊
-		+ suppose (v)猜想/以為, 讓/建議, 假定, 以……為前提 = presuppose = premise, [be supposed to]應該/必須
-		+ /ˌsʌpəˈzɪʃ(ə)n/ supposition (n)假定/推測 = assumption = hypothesis
-		- transpose (v)變換位置/調換, 移動位置, [音]變調, [數]移項, 翻譯
 
 	potent 力量 = power
 		+ impotent

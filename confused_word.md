@@ -12,6 +12,7 @@
 - bail <--> bait
 - ballad <--> ballast <--> ballot
 - banquet <--> bouquet <--> boutique
+- bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blot <--> bolt <--> colt
 - bluff <--> cliff
@@ -21,6 +22,7 @@
 - bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
+- burnish <--> furnish
 - burst <--> blast <--> bluster <--> blunt <--> brunt
 
 ## C
@@ -28,6 +30,7 @@
 - cache <--> cachet
 - calumniate <--> culminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
+- capillary <--> caterpillar
 - carat <--> caret <--> carrot <--> karat
 - carcass <--> caress
 - cascade <--> cadence
@@ -58,7 +61,7 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
-- cruise <--> bruise
+ - cruise <--> bruise
 - curate <--> curator
 - curb <--> cub
 
@@ -75,9 +78,17 @@
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
+- dozen <--> doyen
 - drastic <--> dramatic
+- drive <--> drove <--> drivel
 - dub <--> dab <--> daub <--> dud <--> dude
-- dwindle <--> dawdle <--> doodle
+- dupe <--> dope <--> cope
+- dwindle <--> dawdle <--> doodle <--> swindle
+
+## E
+- esoteric <--> exoteric
+- ethic <--> ethnic
+- exigent <--> exiguous
 
 ## F
 - fare <--> ware
@@ -89,8 +100,10 @@
 - hermetic <--> heretic
 
 ## I
-+ inveigh <--> inveigle
-+ ingenious <--> ingenuous <--> ingenuity
+- inveigh <--> inveigle
+- ingenious <--> ingenuous <--> ingenuity
+- intransigent <--> transient
+- invidious <--> insidious
 
 ## L
 - lie <--> lay
