@@ -182,6 +182,8 @@
 	- light wave (n)光波
 	- ultraviolet light (n)紫外線
 	+ /ɪnfrəˈrɛd/ infrared (Adj)紅外線的
+	- gravitational lens (n)重力透鏡效應，根據廣義相對論，就是當背景光源發出的光在重力場附近經過時，光線會像通過透鏡一樣發生彎曲。光線彎曲的程度主要取決於重力場的強弱
+
 
 	- magnetic field (n)磁場
 	- electrostatic (adj)靜電的
@@ -269,6 +271,7 @@
 	- brain stem (n)腦幹
 	- forebrain (n)前腦
 
+    - esophagus (n)食管/食道
 	- alimentary canal (n)消化道
 	- plumbing (n)排泄/生殖系統, 管線系統
 		> 管線系統 |The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.|
@@ -396,3 +399,5 @@
 	- precession (n)進動/歲差(自轉物體之自轉軸又繞著另一軸旋轉的現象)
 	- heliacal rising (n)偕日升(一顆恆星經過隱藏在地平線下一段時間或一定的週期之後，首度在拂曉時又出現在東方地平線上，或正好在地平線上但隱藏在太陽的光芒之中的現象)
 	- heliacal /hɪˈlʌɪəkəl/ (adj)太陽的/接近太陽的
+
+	- Hubble Space Telescope (n)哈伯太空望遠鏡

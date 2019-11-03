@@ -58,7 +58,10 @@
 	- lower than average per capita spending
 - out in force 成群行動/成群出現 == Appearing or operating in a large, unified group; present at full strength, as of an army.
 	- The voters are going to come out in force against you if you don't change your position on this.
-	
+- the whole kit and kaboodle/caboodle 全部/全體
+	- once you get them talking about one case, they might as well settle the whole kit and caboodle
+	- Moving was easy back then. We decided to move to California, so we loaded everything we owned – the whole kit and caboodle – in our old car and we drove all the way across the USA.
+
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.
 	- Once the bottom fell out of the housing market, I knew I'd be stuck with a bad investment—or sell the house for a significant loss.
@@ -584,6 +587,9 @@
 - in a hurry 迅速/匆忙
 	- She dressed in a hurry.
 	- He was in a hurry to leave. 
+- in circulation 流通/流傳
+	- That rumor has been in circulation for a long time.
+	- coins no longer in circulation
 - in favor of 有利於
 	- The evidence is in favor of the defendant. 
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
@@ -611,6 +617,9 @@
 	- Investors believe esports could be the next NBA or, optimistically, NFL, and they’ve poured hundreds of millions of dollars into realizing that vision, even while esports businesses are struggling to stay out of the red.
 - out of reach 力有未逮 == not able to be achieved
 	- Their goal is out of reach.
+- out of whack 出故障/不正常 == something is not working properly, often because its natural balance has been upset.
+	- My stomach seems out of whack
+	- The television report on the weather is always out of whack with the weather we actually get
 - pretty darn 非常 == very
 - roll in dough 非常有錢的 == Exceptionally wealthy; having large amounts of money to spend.
 	- I hear her father is rolling in dough, so I wouldn not be too worried about her future.

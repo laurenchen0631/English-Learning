@@ -2,7 +2,7 @@
 - across <--> cross
 - adulate <--> adulterate
 - aloof <--> aloft
-- arrant <--> errant
+- arrant <--> errant <--> errand
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
 - allegory <--> allergy
@@ -23,6 +23,7 @@
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - burnish <--> furnish
+- brusque <--> burlesque
 - burst <--> blast <--> bluster <--> blunt <--> brunt
 
 ## C
@@ -38,14 +39,13 @@
 - caucus <--> cactus
 - cease <--> crease <--> grease
 - cellar <--> cellular
-- cement <--> clement
+- clement <--> cement <--> cremate
 - civil <--> cavil
 - clamp <--> clasp
 - classic <--> classical
-- clog <--> clot
-- cloy <--> coy
+- clog <--> clot <--> - cloy <--> coy 
 - cluster <--> clutter
-- coarse <--> course
+- coarse <--> course <--> hoarse
 - coddle <--> cobble <--> clobber
 - collusion <--> collision
 - complement <--> compliment
@@ -61,7 +61,7 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
- - cruise <--> bruise
+- cruise <--> bruise
 - curate <--> curator
 - curb <--> cub
 
@@ -71,7 +71,7 @@
 - deed <--> deem
 - deft <--> daft
 - despot <--> unspotted
-- dim <--> din
+- dim <--> din <--> dingy
 - discreet <--> discrete
 - disturb <--> disrupt
 - dizzy <--> drizzle
@@ -80,12 +80,15 @@
 - downplay <--> underplay
 - dozen <--> doyen
 - drastic <--> dramatic
-- drive <--> drove <--> drivel
+- drive <--> drove <--> drivel <--> drawl
 - dub <--> dab <--> daub <--> dud <--> dude
 - dupe <--> dope <--> cope
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
+- eddy <--> ebb
+- empire <--> empiric
+- escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethnic
 - exigent <--> exiguous
@@ -95,6 +98,9 @@
 - fetid <--> fetish
 - flinch <--> clinch
 - fruit <--> bruit
+
+## G
+- grab <--> drab <--> drag
 
 ## H
 - hermetic <--> heretic
@@ -146,3 +152,4 @@
 
 ## W
 - wrap <--> warp
+- wrinkle <--> crinkle
