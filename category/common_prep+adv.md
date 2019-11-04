@@ -42,14 +42,23 @@
 	- He was born circa 1600.
 - overnight (adv)通宵/整夜, 夜間, 一夜間/突然 (adj)過夜的, 突然的 = instant (v)過夜, 夜間運送 (n)過夜
 
+## Perspective
+- objectively (adv)客觀地, 實際的 = actually
+- universally (adv)人人
+
 ## Relation
 - among == amongst
++ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
 + but (conj)但是 (prep)除了 (adv)僅僅 (n)反對
 	- CONJUNCTION
 	- (prep)除了 |Except; apart from; other than| supply currently exceeds demand in all but the most rural areas
 	- (adv)僅僅 |No more than; only| he is but a shadow of his former self
 	- (n)反對 |An argument against something; an objection| no buts—just get out of here
-+ ad hoc (adv)特別地/專門地 (adj)特別的/專門的
+- especially (adv)尤其, 特別
+	- 尤其 |particularly| food seems cheaper, especially meats
+	- 特別 |—used as an intensive| an especially good essay
+	- 特別 |specially| I made it especially for you.
+- head-on (ADJ/ADV)頭朝前的/迎頭, 直接的/正面針對地
 + jointly (adv)共同地 == together
 + respectively (adv)分別地/各自地
 - uncharacteristically (adv)不典型地/非同尋常地
@@ -80,12 +89,6 @@
 + practically (adv)幾乎 = virtually = almost, 特定地
 	- the strike lasted practically a fortnight
 	- He might win,’ pointed out Emmeline practically
-- somewhat /ˈsʌmwɒt/ (adv)有點/稍微
-- especially (adv)尤其, 特別
-	- 尤其 |particularly| food seems cheaper, especially meats
-	- 特別 |—used as an intensive| an especially good essay
-	- 特別 |specially| I made it especially for you.
-- head-on (ADJ/ADV)頭朝前的/迎頭, 直接的/正面針對地
 - insofar == in so far as (adv)到…的程度 == to the extent that == to the degree that
 	- the tool is able to cater to almost any need insofar as graphs are concerned
 	- I'll help you insofar as I can. 
@@ -93,6 +96,7 @@
 	- a predominantly Muslim community
 	- She is predominantly a dancer, but she also sings.
 + reasonably (adv)合理地, 相當地
+- somewhat /ˈsʌmwɒt/ (adv)有點/稍微
 
 ## Possibility
 - arguably (adv)可以說/大概/可能

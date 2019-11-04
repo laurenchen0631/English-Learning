@@ -456,8 +456,9 @@
     * /kəˈnuː/ canoe (n)獨木舟 (v)划獨木舟 <|> canon <|> cannon <|> canyon
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
     + cantankerous (adj)易怒的 = crabbed = irritable = irascible = peevish = grumpy = fractious = sensitive <-- contention + rancorous
-    + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = unpredictable = skittish = whimsical = wayward
+    + /kəˈpriːs/ caprice (n)反覆無常/突發奇想/任性 = whim = inconstancy = vagary --> capricious (adj)反覆無常的 = fickle = flighty = erratic = mercurial = quixotic = unpredictable = skittish = whimsical = wayward = temperamental = volatile
     ++ case (n)具體情況/實例, 案件, 案例/病例, 訴訟案/案件, 論點/論據, [文]格, 箱/盒, 殼, 行李箱, 大小寫 (v)把……裝入箱中, 盜竊前的事先察看
+    + caricature (n)諷刺畫/諷刺文 = burlesque, 好笑/古怪 (v)用漫畫表現/諷刺
     ++ /ˈkaʒjʊəl/ casual (adj)隨性的, 不經意的/隨意的, 無計劃的 = desultory, 漫不經心的 = indifferent = apathetic, 不固定的/不定期的/臨時的 = irregular = occasional, 偶然的 = accidental = fortuitous, 休閒的/便裝的 <-- case
     + /ˈkɔzəl/ causal (adj)原因的/因果關係的 <|> casual --> causality (n)因果關係 <-- cause 
     ++ categorical (adj)明確的 = explicit = absolute <-- category
@@ -549,7 +550,6 @@
 
     * calamity (n)災難/災禍 = disaster = tragedy = cataclysm = catastrophe = scourge = woe
     * /ˈkeɪnʌɪn/ canine (adj)犬的/狗的 (n)(人的)犬齒, 狗 <-- can 犬 = dog
-    * caricature (n)諷刺畫/諷刺文 = burlesque, 漫畫, 誇張或滑稽的模仿 = travesty
     * carpenter (n)木工 (v)做木工
     * cast (v)扮演, 投射(光影), 扔/拋, 鑄造, 施魔法, 蛻皮 (n)全體演員, 鑄膜/石膏
     * chatter (n/v)喋喋不休/嘮叨 = prate = prattle = rattle, 咯咯作響
@@ -648,6 +648,7 @@
     - charitable (adj)慈善的, 慷慨的, 仁慈的/寬容的
     - charter (n)憲章/章程, 特權/豁免權 (v)包下(租), 特許成立
     - cheeky (adj)厚顏無恥的/大膽無恥的
+	- chestnut (n)栗子 = sweet chestnut, 栗色, 栗色馬, 栗木 = chestnut tree, 馬腿內側的角質胼胝
     - chill (n)寒冷/寒氣, 風寒, 掃興/心寒, 寒顫, 冷凝鐵鑄模 (v)使感到冷, 冷藏, 使變冷, 使打寒顫, 冷激鑄造, 冷靜/放鬆, 打發時間 (adj)冷的 = chilly, 好相處的
     - cinema (n)電影 --> cinematic (adj)電影的
 	- chime (n)管鐘/排鐘, 樂鐘/音樂門鈴, 木桶兩端的凸邊 (v)鳴/鳴響
@@ -709,6 +710,7 @@
     - conifer (n)針葉樹 <-- cone
     - consul (n)領事 --> consulate (n)領事館, 領事職/領事任期 --> consular (adj)領事的 <|> council <|> consult
     - coop (n)籠子/欄舍 (v)把…關起來, 把…關在欄舍中
+    - commentary (n)評論, 實況報導, 註釋
     - corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
     - coronation (n)加冕儀式
     - corrigible (adj)可改正的/易矯正的
@@ -772,15 +774,15 @@
     + dampen (v)(使)潮濕 = damp, 抑制/減輕 = depress = damp
     + /dɔːnt/ daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <|> flaunt <|> gaunt <|> taunt <|> vaunt
     + /ˈdərth/ dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
-    + debilitate (v)使虛弱/削弱 = enfeeble = languish = wan = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
+    + debilitate (v)使虛弱/削弱 = enfeeble = languish = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
     + debonair (adj)溫文爾雅的 = suave
-    + delay (v)推遲 = defer = postpone, 阻止/妨礙 = retard = hinder
-    + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant, 常去某處的人 <-- deniz 裡面 = within + en
+    + delay (v)耽擱/延誤, 推遲 = defer = postpone (n)延遲/耽擱
+    + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)否定/否認, 拒絕 = refuse = withhold
     + /ˈdɛspɒt/ despot (n)暴君 = tyrant --> despotic (adj)暴君的 <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
     + diabolical (adj)魔鬼的 <-- diabol 惡魔 = devil + ic
     + /dīˈdaktik/ didactic (adj)教訓的/說教的, 教師般的/擺出恩賜態度的 = patronizing <-- didact 被教 = taught + ic
-    + /ˈdɪlət(ə)ri/ dilatory (adj)拖延的/遲緩的/磨蹭的 = slow = late = procrastinating <-- delay
+    + /ˈdɪlət(ə)ri/ dilatory (adj)慢的 = slow = late, 拖延的/磨蹭的 = procrastinating <-- delay
     + dilettante -> dilettanti/dilettantes (n)一知半解者/半吊子 <-- delight
     + dirge (n)哀歌/輓歌 = elegy = funeral hymn
     + distaff (adj)女性的 (n)紡紗桿
@@ -834,7 +836,7 @@
     - daredevil (adj)大膽的/冒失的 = bold = reckless (n)大膽的人/冒失的人
     - dart (n)鏢, 褶子/縫褶, 飛快突然的動作, 一陣(痛苦) = pang (v)飛奔, 瞥, 朝(動物)射標鏢
     - dash (v)急奔, 猛撞, 撞上, 使破滅/使沮喪, 使失去自信 (n)急衝/奔跑, 匆忙的短程旅行, 短跑, 少量(混合液體), 少量, 破折號, (摩斯電碼)劃/長劃, 破折符, 銳氣/神氣, 儀表板
-    - dawdle (v)磨蹭/拖時間 = loiter, 遊蕩
+    - dawdle (v)磨蹭/拖時間 = loiter = dally, 遊蕩
     - deaden (v)減輕/削弱(聲音或感覺) = lessen, 剝奪(感官) = deprive of, 使無用 = stultify, 使無感 <-- dead + en
     - deadpan (adj)無表情的/不動聲色的 (adv)面無表情地
     - dealbreaker (n)破局
@@ -897,7 +899,7 @@
     - drill (n)鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 (v)鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
     - drivel (v)胡說/瞎扯/廢話 = babble (mn)瞎扯/廢話
     - drizzle (v)下毛毛雨 (n)毛毛雨 --> drizzley (adj)毛毛細雨的
-    - drone (v)嗡嗡地響, 低沉單調地說 (n)嗡嗡聲, 持續音/低音部 單調的演說, 風笛聲, 雄蜂, 靠別人養的人, 無人機
+    - drone (v)嗡嗡地響, 低沉單調地說 (n)嗡嗡聲, 持續音/低音部, 單調的演說, 風笛聲, 雄蜂, 靠別人養的人, 無人機
     - drop-in (adj)(諮詢、服務中心等)不用預約的
     - drought (n)乾旱 <-- dry
     - drove (n)畜群, 人群 (v)將畜群帶到市場 <-- driven
@@ -964,7 +966,6 @@
     +++ /ɪkˈsplɔɪt/ exploit (v)利用 = utilize, 剝削/濫用 = milk (n)英勇行為/輝煌的成就, 漏洞利用軟體 --> exploitation (n)利用, 剝削 <|> explicit
 
     * /ɪˌkliːzɪˈastɪk(ə)l/ ecclesiastical (adj)基督教的/有關教會的 = churchly = clerical <--> secular 
-    * eddy (v)起漩渦 (n)漩渦 = whirlpool, 氣旋
     * eddy (n)(水或風)旋渦/渦流 (v)旋轉/迴旋
     * enemy (n)敵人/敵國 
     * entire (adj)全部的 = whole, 完全的 = absolute, 完好無缺的, (馬)未被閹割的 (n)在勢的公馬 --> entirety (n)全部/整體
@@ -975,6 +976,7 @@
     * expert (n)專家 (adj)熟練的/專業的 --> /ˌɛkspəːˈtiːz/ expertise (n)專門技術 <-- experience
     * /ɪkˈstriːm/ extreme (adj)末端的, 極度的, 異常的 = exceptional, 非常嚴重的, 極端的(人或意見), 極限的/冒著危險的 (n)極端 = antithesis, 極度 --> extremist (n)[貶]極端主義者
 
+    - /əːl/ earl (n)伯爵
     - earnest (adj)認真的 (n)象徵
     - earplug (n)耳塞
     - earring (n)耳飾
@@ -988,11 +990,10 @@
     - ebb (v)退潮 = recede, 衰退/減少 = decline = wane (n)退潮
     - editorial (adj)編輯的 (n)社論
     - elbow (n)肘, 衣服的肘部, 肘狀物 (v)用肘推, 推擠, 摒棄(人或意見) = dismiss
-    - elephant (n)大象 --> elephantine (adj)像大象的/巨大的 = massive/笨拙的 
-    - embroider (v)刺繡, 修飾/潤飾 <-- em + broider [古]刺繡
+    - elephant (n)大象 --> elephantine (adj)像大象的/巨大的/笨拙的 
     - embryo (n)胚胎, 初期 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
-    - empire (n)帝國, 大企業[ (mn)皇權/絕對統治 (adj)第一法蘭西帝國的(風格) <|> empiric
-	- empty (adj)空的, 空洞的/無意義的, 無價值的 (v)倒/倒空, 使成為空的, [into]流入(海洋或湖) (n)空瓶
+    - empire (n)帝國, 大企業 (mn)皇權/絕對統治 (adj)(風格)第一法蘭西帝國的 <|> empiric
+	- empty (adj)空的, 空洞的/無意義的, 無價值的 (V)倒/倒空, 使成為空的, [into]流入(海洋或湖) (n)空瓶
     - /ˌɛmpʌɪˈriːən/ empyrean (adj)天空的 = celestial (n)蒼天/最高天, 天空
     - ennui (mn)倦怠/無聊
     - entrance (n)入口, 進入 (mn)進入的權利 (v)使入迷 = enchant = intrigue = captivate, 對..施咒 <-- enter
@@ -1016,44 +1017,46 @@
 [F]
     + fabric (mn)織品/布料, 構造/結構 --> fabricate (v)捏造/編造 = invent = concoct = vamp, 製造 = construct
     + fad (n)一時的流行/一時的狂熱 = vogue = craze --> faddish (adj)流行一時的/時尚的
-    + failing (n)過錯 = failure, 缺點/弱點 = defect = fault = shortcoming = weakness
-    +++ failure (n)失敗, 失誤, 不足 = insufficiency, 衰弱 = decay = deterioration = decadence
-    + faithful (adj)忠實的/忠誠的, 如實的
-    + fake (v)偽造 = forge = counterfeit = fabricate, 假裝 = pretend (adj)假的 = spurious = bogus
-    + /ˈfaləsi/ fallacy (n)謬誤/謬論 = sophistry --> /fəˈleɪʃəs/ fallacious (adj)謬誤的/錯誤的 = erroneous, 騙人的/欺騙的 = misleading = fraudulent = deceptive
-    + fallible (adj)容易犯錯的 = liable to err --> fallibility (n)容易出錯/出錯性
-    + /ˈfaləʊ/ fallow (adj)休耕的 = uncultivated, 不活躍的/不活動的 = inactive (n)休耕地 <|> callow <|> /ˈfɒləʊ/ follow 
-    +++ false (adj)錯誤的 = erroneous = fallacious, 偽造的 = counterfeit, 騙人的 = deceptive, 不忠的 = treacherous --> falsify (v)竄改/偽造/曲解 = garble
-    + falsehood (n)虛假, 謊言, 說謊
-    ++ /ˈfɔːltə/ falter (v)動搖/猶豫 = hesitate = waver = vacillate = dither = quail = scruple, 蹣跚/踉蹌 = stumble = halt, 結巴地說話 = stammer = halt
-    +++ fashion (v)形成, 適應/使一致 = accommodate = adjust = adapt (n)時裝, 方式 = manner = way = mode, 種類 = kind = sort
-    + fastidious (adj)細心的/一絲不苟的/講究的/挑剔的 = finicky = fussy = picky = choosy = meticulous = painstaking = particular = scrupulous = thorough, 難以取悅的 = meticulous = finicky = fussy --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
-    + fathom (v)弄清/理解 = apprehend = comprehend = understand = plumb, 測水深 = plumb = sound (n)噚(測水深的單位, 約1.8公尺) --> fathomable (adj)可推測的/可了解的
-    ++ /ˈfætʃuəs/ fatuous (adj)愚昧而不自知的 = foolish = inane, 幻想的 = unreal = illusory --> fatuity (n)愚蠢/愚昧 = stupidity = foolishness
-	+ fault (n)缺點/缺陷/失誤, 咎/責任, 斷層 (v)批評, 斷裂 --> faulty (adj)有缺點的, 有瑕疵的(邏輯)
+    + failing (n)缺點/弱點 = defect = fault = shortcoming = weakness (prep)如果沒有
+    +++ failure (mn)失敗 (n)失誤, 缺乏/不足 = insufficiency, 衰竭/失靈 = decay = deterioration = decadence, 破產
+    + faithful (adj)[to]忠實的/忠誠的, (物品)可靠的 = reliable,  如實的
+    + fake (adj)假的 = counterfeit (n)冒牌貨/仿造品 = forgery = sham, 冒充者 (v)偽造 = forge = counterfeit = fabricate, 假裝 = pretend, [out]欺騙
+    + /ˈfaləsi/ fallacy (n)謬誤/謬論 = sophistry, 邏輯謬誤 (mn)謬誤的推理 --> /fəˈleɪʃəs/ fallacious (adj)謬誤的/錯誤的 = erroneous
+    + fallible (adj)容易犯錯的 = liable to err --> fallibility (n)容易出錯
+    + /ˈfaləʊ/ fallow (adj)休耕的, 不活躍的/不活動的 = inactive, (母豬)未懷孕的 (n)休耕地, 淡棕色 (v)休耕 <|> callow <|> /ˈfɒləʊ/ follow 
+    +++ false (adj)錯誤的 = erroneous = fallacious, 非法的, 偽造的 = counterfeit, 人造的 = artificial, 虛偽的, 騙人的 = deceptive, 不忠的 = treacherous
+    + falsify (v)竄改/偽造/曲解 = garble, 證明……虛假 = disprove = rebut
+    + falsehood (mn)虛假 (n)謊言, 說謊
+    ++ /ˈfɔːltə/ falter (v)衰弱/動搖, 結巴 = stammer = halt, 蹣跚/搖晃  = stumble = halt
+    +++ fashion (mn)時尚 (n)流行, 方式 = mode = manner (v)使成形, [into]用..製作
+    + fastidious (adj)一絲不苟的/講究的/苛求的 = finicky = fussy = picky = choosy = meticulous = painstaking = particular = scrupulous = thorough, 有潔癖的 --> fastidiousness (n) <-- fast 驕傲自大 = pride, conceit + tid 無聊 = s + ious
+    + fathom (v)弄清/理解 = apprehend = comprehend = plumb, 測水深 = plumb = sound (n)噚(測水深的單位, 約1.8公尺)
+    ++ /ˈfætʃuəs/ fatuous (adj)愚蠢的/昏庸的 = foolish = inane--> fatuity (n)
+	+ fault (n)缺點/缺陷/失誤, 咎/責任, 斷層 (v)批評, [be faulted]斷裂 --> faulty (adj)有缺陷的, 有瑕疵的(邏輯)
     + /ˈfɔːnə/ fauna (n)動物群 <--> flora
-    + /fɔːn/ fawn (n)未滿周歲的小鹿 (v)向某人表示親熱/搖尾乞憐/諂媚 = adulate
-    ++ fell (v)砍倒 = cut down, 擊倒 = knock down (n)木材量 (adj)邪惡的/致命的
-    ++ feckless (adj)無氣力的/無精打采的 = irresponsible <-- feck 效用 = effect + less
+    ++ /fɔːn/ fawn (n)未滿周歲的小鹿, 淡黃褐色 (v)(鹿)生, [on/upon](狗)搖尾乞憐 [over/on]恭維/討好 = adulate
+    ++ fell (v)砍倒 = cut down, 擊倒 = knock down, 明縫 = flat-fell (adj)邪惡的/致命的 = deadly
+    ++ feckless (adj)軟弱的/無氣力的 = irresponsible <-- feck 效用 = effect + less
     + feeble (adj)虛弱的 = frail = wan = debilitated = faint, 軟弱的, 薄弱的/站不住腳的
-    + /feɪn/ feign (v)假裝/假冒 = dissemble = pretend, 捏造 = concoct <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
-    + felicity (n)幸福/喜樂 = bliss, 得體/恰當的語句 --> /fɪˈlɪsɪtəs/ felicitous (adj)適當的/得體的 = appropiate, 幸福的 <-- felici 快樂 = happy + ty
-    + /ˈfɛr(ə)l/ feral (adj)兇猛的 = savage, 野的 = wild <|> /ˈfɛːrəʊ/ pharaoh <-- fer 野生動物 = wild animal + al
-    + /fəˈrəʊʃəs/ ferocious (adj)十分野蠻的/兇殘的 = savagely fierce = savage, 強烈的/極度的 = extreme = intense
-    + /ˈfɛrɪt/ ferret (n)雪貂 (v)搜尋/找到[out] = rummage, 用雪貂獵取
-    + /feɪt/ fete (n)節日/喜慶 (v)盛宴招待/款待
+    + /feɪn/ feign (v)假裝/假冒 = dissemble = pretend <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
+    + felicity (mn)幸福/喜樂 = bliss, 得體/恰當的語句 --> /fɪˈlɪsɪtəs/ felicitous (adj)得體的 = appropiate, 令人愉悅的 <-- felici 快樂 = happy + ty
+    + /ˈfɛr(ə)l/ feral (adj)野生的 = wild, 野獸的, 野獸特有的, 不遵守紀律的(年親人) <|> /ˈfɛːrəʊ/ pharaoh <-- fer 野生動物 = wild animal + al
+    + /fəˈrəʊʃəs/ ferocious (adj)野蠻的/兇殘的 = fierce = savage, [非]強烈的/極度的 = extreme = intense <-- fierce
+    + /ˈfɛrɪt/ ferret (n)雪貂, 搜尋 (v)用雪貂獵取, 搜尋/搜索 = rummage, [out]找到 = discover
+    + /feɪt/ fete (n)節日/喜慶 = celebration = festival (v)盛宴招待/款待
     + fetid (adj)有惡臭的 = stinking = noisome <|> fetish <-- fet 臭 = stink + id
-    + /ˈfɛtə/ fetter (n)腳鐐 = shackle, 束縛 = shackle (v)把……上腳鐐, 束縛 = bind = confine <|> /ˈfaktə/ factor 
+    + /ˈfɛtə/ fetter (n)腳鐐 = shackle = manacle, 束縛 = restraint = shackle (v)把……上腳鐐, 束縛 = restrain = confine
     + fiat (n)威權性的命令 = decree
-    + fickle (adj)反覆無常的/易變的 = capricious = mercurial = skittish = volatile --> fickleness (n)變化無常 <|> sickle
+    + fickle (adj)不忠實的/反覆無常的 = capricious--> fickleness (n)不忠實/易變 <|> sickle
     ++ /fɪˈdɛlɪti/ fidelity (n)忠誠 = loyalty, 準確度/精確性 = correspondence <--- fidel 忠誠 = loyal + ity
     + filibuster (n/v)妨礙議事
-    + finagle (v)欺騙 = fleece
-    + /fɪˈnans/ finance (v)提供資金/獲得資金 (n)財政, 收入 = revenue --> financial (adj)
+    + finagle (v)[非]欺騙/騙取 = fleece
+    + /fɪˈnans/ finance (n)財政, 資金支援, 資金(v)提供資金  --> financial (adj)財政的 (n)財政情況, 公司股票
     + find -> found -> found (v)找到/發現 = locate = discover = recover, 覺得/認為/意識到 = perceive = feel
     + /fɪˈnɛs/ finesse (n)技巧/計謀/手段 = trick = artifice = stratagem (v)巧妙地應對 <-- fine
     + /ˈfɪnɪki/ finicky, /ˈfɪnɪk(ə)l/ finical (adj)過分講究的/謹慎的/挑剔的 = fastidious = meticulous = fussy = picky = choosy, 難取悅的 = fussy = fastidious = meticulous
     + firebrand (n)挑動政治爭端者/煽動鬧事者
+    + fitful (adj)斷斷續續的/一陣陣的
     + flaccid (adj)鬆弛的, (植物)萎軟的, 無活力的
     ++ flag (v)減弱/衰退 = dwindle = wither, 枯萎 = droop = wither = blight, 標記 (n)旗幟, 菖蒲 --> flagging (adj)下垂的, 衰弱的 --> flaggy (adj)枯萎的, 鬆軟無力的
     + flamboyant (adj)豔麗的/華麗的 = florid = ornate = elaborately styled, 炫耀的 = showy <-- flame
@@ -1524,6 +1527,7 @@
     + /əʊˈtəː/ hauteur (n)傲慢 = haughtiness = snobbery <|> /ˈɔːltə/ alter
     + hearten (v)鼓勵/激勵 = cheer = encourage
     + hector (v)欺凌/威嚇 = browbeat = bully
+    * hectic (adj)忙亂的/鬧哄哄的
     ++ hedge (n)樹籬/籬笆, 限制/界限 (v)限制 = restrict, 避免答覆/迴避, 兩面下注
     + /ˈhiːd(ə)nɪst/ hedonist (n)享樂主義者 = sybarite --> hedonistic (adj)享樂主義的 <-- hedon 快樂 = pleasure + ist
     + /hɪˈdʒɛməni/ hegemony (n)霸權/領導權 = predominance = leadership = domination = authority <-- hegemon 領導 = lead
@@ -1612,6 +1616,8 @@
     - hawk (n)鷹/隼 = falcon
     - hawker (n)叫賣小販, 飼鷹者
     - haze
+	- hazel (n)榛木, 淡褐色(尤指眼睛的顏色)
+	- hazelnut (n)榛子
     - hazy (adj)有薄霧的, 模糊的 = vague, 困惑的 = confused = uncertain
     - head (v)治癒
     - heady (adj)烈的 = potent = intoxicating, 有興奮效果的
@@ -1635,6 +1641,7 @@
     - hem (v)包圍 = beset, 吞吞吐吐地說 (n)袖邊, 邊緣
 	- hen (n)母鳥/雌禽, 母雞, 母蟹/母龍蝦/雌鮭
     - herd (n)獸群 (v)聚集
+    - herring (n)鯡魚
     - hiatus (n)短暫的中斷, 元音連讀
     - hiccup, hiccough (n)打嗝, 小問題 (v)打嗝
     - hideous (adj)討厭的, 醜陋的/可怕的
@@ -1824,6 +1831,7 @@
     + lacerate (v)撕裂, 深深傷害 <-- lacer 撕 = tear + ate
     + laconic (adj)簡潔的 = brief = compendious = concise = curt = succinct = spartan = terse = pithy
     + lambaste (v)痛打 = beat severely, 痛罵/強烈批評 = excoriate = savage <-- lam + baste
+    + lament (n)嘆息 = grief, 哀歌, 抱怨 = complaint (v)哀悼 = grieve, 悲嘆/悔恨 --> lamentation (n)悲嘆/訴苦 = plaint
     + lampoon (n)諷刺文章 = satire (v)以詩文諷刺
     + /ˈlɑːs(ə)ni/ larceny (n)[法律]竊盜 = theft
     + /lɑːˈdʒɛs/ largess, largesse (n)慷慨的贈予/慷慨的贈禮/巨額賞金/大禮 <|> finesse <-- large + ss(e)
@@ -1909,8 +1917,6 @@
     - lag (v)落後於, 給……裝絕熱層 (n)時間間隔, [非]慣犯
     - lair (n)野獸的巢穴, 躲藏處/祕密藏身處
     - laity (n)普通信徒 <--> clergy, 外行人 <-- lay 世俗 + ity
-	- lament (n)嘆息 = grief, 哀歌, 抱怨 = complaint (v)哀悼 = grieve, 悲嘆/悔恨
-    - lamentation (n)悲嘆/訴苦 = plaint
     - laminate (v)給…覆蓋保護膜, 把..層層接合, 把……分成薄片, 把……製成薄板 (n)層壓材料 (adj)薄板的/薄層的
     - lance (n)長矛, 魚叉
     - lancet (n)手術刀 <-- lance
@@ -1937,6 +1943,7 @@
     - leash (v)栓住/繫住, 約束/控制 (n)皮帶/鏈條
     - lectern (n)讀經臺 <|> lecture
     - ledger (n)帳簿
+    - leets (n)民事法庭, [非]駭客語(是指一種發源於西方國家的BBS、線上遊戲和駭客社群所使用的文字書寫方式) = 1337 (adj)傑出的
     - leeway (n)餘裕/餘地, 安全裕度
     - lei (n)夏威夷人戴於頸上的花環
 	- lens -> lenses (n)透鏡/鏡片, 鏡頭, 晶體, 隱形眼鏡
@@ -1961,6 +1968,7 @@
 	- lineup (n)陣容, 電視節目時間表, 列隊, 嫌疑犯列隊
     - lingo (n)外國語言, 隱語/行話/術語 = argot
 	- lit (adj)非常興奮/非常熱門
+    - liter (n)升
     - litter (n)雜物, 一堆(雜物), 一窩, 貓沙, 乾草 (v)使雜亂, 使充滿
     - livelihood (n)生計
     - livewire (n)機靈鬼 = live wire
@@ -3347,7 +3355,7 @@
     - sleaze (n)齷齪行為, 齷齪的人 (v)齷齪
     - sleek (adj)光滑的，柔滑的, 保養得好的, (外形)線條流暢的, 花言巧語的 = ingratiating = unctuous
 	- sleepover (n)在朋友家過夜
-    - sleigh (n)馬拉的雪橇
+    - sleigh (n)雪橇 (v)駕雪橇/乘雪橇
     - slender (v)苗條的/纖細的 = fine, 少量的
 	- slew (v)打滑 (n)打滑, 大量
     - slice (v)切成片 (n)薄片
@@ -3398,7 +3406,7 @@
     - somber (adj)暗的/暗淡的/深色的 = gloomy = dark = shadowy, 憂鬱的 = gloomy = mournful = dismal, 嚴肅的 = extremely serious = grave
     - soot (n)黑煙灰/油煙
     - sop (v)浸/泡, 賄賂 (n)泡過的食品, 安慰品/巴結用的物品 --> sopping (adj)渾身濕透的
-    - sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
+    - sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深 = fathom, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
     - spackle (n)填泥料
     - spade (n/v)鏟/鍬 (n)黑桃
     - span (n)跨度/一段時間/兩個界線間的距離
@@ -3623,6 +3631,7 @@
     * trench (n)溝, 壕溝, 海溝, 風衣 = trench coat (v)挖溝 <|> trenchant <|> entrench <|> retrench
     * tuber (n)塊莖, [解剖]結節/隆起/腫脹
 	* turf (n)草皮, 用草皮覆蓋, 泥炭/泥煤, 賽馬場, 地盤
+    * tug (v)用力拉或拖, 用拖船拖 (n)牽引/拖曳, 拖船 = tugboat, 韁繩
 	*** tumble (v)跌落, 衝出, 暴跌, 弄亂 = rumple, 翻筋斗, [to]理解...的含義, 打磨 (n)跌落, 暴跌, 凌亂, 筋斗
     * /ˈtəːmɔɪl/ turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
@@ -3777,7 +3786,6 @@
     - trustworthy (adj)值得信賴的/可靠的
 	- tried-and-true (adj)經多次試驗而證明有用的 == used many times in the past and proven to work well
 	- tuck (v)塞進/藏入, 舒服地裹好, 折疊/捲起/挽起 (n)褶, 減脂手術
-    - tug (v)用力拉或拖, 用拖船拖 (n)牽引/拖曳, 拖船 = tugboat, 韁繩
     - tumult (n)吵鬧/喧譁, 騷亂/騷動
     - turbocharge (v)為..裝配渦輪增壓器, 使更強而有力
     - turncoat (n)背叛者/變節者
@@ -3958,7 +3966,7 @@
     ** wrap (v)包/裹, [round/around]纏繞, 蜷起(手腳), 抱住 = clasp = embrace, [非](交通工具)撞上(固著物), 使換行, 拍攝完工/殺青, [up]完成 (n)寬鬆外套/浴衣, 披肩, 包裹物/包裝紙, 拍攝完工/殺青, 捲餅 <|> warp
     *** /rɛtʃ/ wretch (n)可憐的人, 可鄙的人 --> wretched (adj)悲慘的/可憐的 = abject = miserable = pathetic = pitiful = dismal = deplorable = sordid = squalid = rueful, 卑劣的/可鄙的 = filthy = sordid = pitiful = despicable = contemptible = mean, 低劣的 = poor = worthless = inferior
     * wring (v)擰, 擰乾 = squeeze = twist, 使痛苦/使煩惱
-    * /rɔːt/ wrought (adj)加工的, 精細的  <-- work
+    * /rɔːt/ wrought (adj)鍛的, ..製的 <-- work
 
 	- waffle (v)猶豫不決 (n)猶豫, 鬆餅 (adj)蜂巢狀的
     - waddle (v)(鴨、鵝般地)搖搖擺擺地走 (n)搖擺的步伐, 蹣跚
@@ -3968,6 +3976,7 @@
     - waggish (adj)詼諧的/滑稽的 = humorous = droll
 	- waistcoat (n)背心/馬甲
     - wallop (v)猛擊/重擊 = batter = clobber = lash, (v)輕鬆擊敗 = demolish
+	- walnut (n)胡桃, 胡桃木 = walnut tree
     - walrus (n)海象
 	- /wɔːlts/ waltz (n)華爾滋, 圓舞曲 (v)跳華爾滋, 輕快地走動, 隨意地做, 輕鬆辦到
     - wanderlust (n)漫遊癖/旅遊熱

@@ -116,6 +116,7 @@
 			* abuse
 			++ /əˈbɪs/ abyss (n)深淵, 險境 --> abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
 			+ abdicate
+			+ ahistorical (adj)缺乏歷史觀點的/與歷史無關的 == Lacking historical perspective or context. 
 			- anaerobic
 			- analgesia
 			+ anarchy
@@ -423,6 +424,8 @@
 	aster, astro 星星 = star == stell
 		- asterisk (n)星號
 		- asteroid (n)小行星
+		- astrophysicist (n)天體物理學家
+		- astral (adj)星星的, 靈魂的
 		- astrolabe (n)星盤
 		- astrology (n)占星學 = horoscope
 		- astronomy (n)天文學 --> astronomical (adj)天文學的, 龐大的 = colossal
@@ -1223,6 +1226,7 @@
 		- cholecystitis
 
 	chor, chore, choir 歌舞/舞蹈 = dance == balle
+		- choral (adj)歌唱隊的, 合唱的
 		- choreography (n)編舞/舞蹈編排/舞蹈設計
 		- chorus (n)合唱曲, 合唱團, 歌舞隊, 副歌, 異口同聲 (v)齊聲說/異口同聲地說
 		- /ˈkwʌɪə/ choir (n)唱詩班/合唱團
@@ -1297,6 +1301,7 @@
 	concil 協商 = council
 		+ /kənˈsɪlɪeɪt/ conciliate (v)安撫/調停/和解 = placate = pacify = reconcile = propitiate --> conciliatory (adj)願意和解的/調停的
 		+ /ˈrɛk(ə)nsʌɪl/ reconcile (v)使和好, 調停/調解 = conciliate, 調和/使一致, 使(帳目)一致
+		+ reconciliation (n)和解/和好, 和諧/一致, 帳目一致
 		- reconcilable (adj)可和解的/能共處的 = compatible
 		- irreconcilable (adj)互相對立的/不相容的
 
@@ -2031,6 +2036,7 @@
 		- emboss
 		* embitter (v)使難受/使忿恨 
 		+ embrace
+	    - embroider (v)刺繡, 修飾/潤飾 <-- em + broider [古]刺繡
 		+ embroil (v)捲入糾紛/牽連 = involve = enmesh = entangle = implicate --> embroiled (adj)受牽連的 = involved
 		+ empathy
 		- emperor (n)皇帝 = sovereign ruler 
@@ -2202,7 +2208,7 @@
 		- /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑
 
 	ev 時代 = age
-		- coeval (adj)同年代的/同時期的 (n)同時代的人或物
+		- coeval (adj)同時代的/當代的 = contemporary (n)同時代的人 = contemporary
 		- medieval (adj)中世紀的
 		- longevity (n)長壽, 長期受歡迎
 		- /prʌɪˈmiːvəl/ primeval (adj)原始的
@@ -2445,6 +2451,7 @@
 		- affidavit (n)宣誓書
 		- confide (v)吐露/傾訴/信任/託付
 		+ confident (adj)自信的/肯定的
+		- self-confident (adj)有自信的
 		- confidence (n)自信/把握, 信賴/信任, 秘密/知心話
 		- confidential (adj)機密的 = esoteric
 		+ diffident (adj)缺乏自信的/羞怯的 = shy --> diffidence (n)缺乏自信
@@ -3142,7 +3149,7 @@
 			- irreverence (n)不敬 = disrespect <--> awe <-- ir + reverence
 			+ irrevocable (adj)不可撤回的/無法取消的 <-- ir + revoke + able
 			+ irresolute (adj)優柔寡斷的/猶豫的 = wavering = vacillating = doubtful = hesitating <-- ir + resolute
-			+++ irresponsible (adj)不負責任的 = feckless = flighty, 不可靠的
+			+++ irresponsible (adj)不負責任的 = flighty, 不可靠的 = feckless
 
 		2. 裡面/進入/使/加強 = in == en
 			+ illuminate
@@ -3428,6 +3435,7 @@
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
 		++ objective (adj)客觀的/公正的 = impersonal = unbiased = impartial, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
+		- objectively (adv)客觀地, 實際的 = actually
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -3564,7 +3572,7 @@
 		++ /ˈɛlɪveɪt/ elevate (v)抬起/舉起 = raise, 提升/晉升 = exalt = promote = uplift
 		- lever (n)槓桿, 控制桿, 手段 (v)撬起, 移動, 壓迫/迫使
 		- leverage (n)槓桿力, 槓桿作用, 力量/影響力, 負債經營 (v)負債經營, 使用..達到最大功效
-		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
+		*** levy (v)徵稅 = impose = tax = toll, 扣押, 開戰 = wage (n)徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 		+ relevant (adj)有關的/相關聯的 = apropos = apposite = pertinent = kindred = associated, 恰當的/適宜的
 		+ relevance, relevancy (n)關聯/相關
 		** /rɪˈliːv/ relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
@@ -3844,6 +3852,7 @@
 		- committee (n)委員會, [法]保護人
 		++ commission (V)委任/委託, 指名, 使..投入使用 (n)任務/職權, 委託品, 被委託人, 佣金, 委任狀/所授軍銜, 犯罪
 		- commissary (n)代表/代理, 雜貨店/小賣部
+		- commissioner (n)委員/專員/特派員, 長官 
 		+ demit (v)辭職/退職 = resign
 		+ /dɪˈmʌɪz/ demise (n)死亡 = decease = death, 終結 = termination (n/v)轉讓/租賃
 		+ dismiss (v)把..送走, 解僱 = discharge, 遣散/解散 = disperse, 駁回/摒棄 = discard = reject = put aside
@@ -4685,7 +4694,7 @@
 		+ prestige --> prestigious
 		+ presume --> presumption --> presumptuous 
 		+ presuppose --> presupposition
-		* pretend --> pretended
+		+++ pretend --> pretended
 		+ pretense --> pretension --> pretentious
 		- pretext
 		++ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh = preponderate, 盛行, [on/upon]說服 = persuade <|> travail
@@ -5314,6 +5323,7 @@
 		- telephone (n)電話 (v)打電話
 
 	phot 光 = light
+		- photocopier (n)複印機
 		- photon (n)光子
 		- photics (n)光學
 		- /fəˈtɑː.ɡrə.fi/ photography (n)攝影
@@ -5797,6 +5807,7 @@
 
 	rade, ras 摩擦 = scrape
 		- /əˈbreɪd/ abrade (v)磨損/刮除 = scrape --> abrasion (n)擦傷, 磨損/磨耗
+		+ abrasive (adj)有研磨作用的, 生硬粗暴的/不友好的 = harsh (n)研磨料
 		- /ɪˈreɪz/ erase (v)擦掉/抹去/消除
 		- /ɪˈreɪʒə/ erasure (n)抹去/消除 = obliteration
 		- erasable (adj)可消除的
@@ -6764,7 +6775,7 @@
 			- extract (v)使勁拔出, 設法得到, 提取/提煉 (n)摘錄, 提出物/精華/汁
 			- extractive (adj)提取的
 			- hypotenuse (n)直角三角形的斜邊
-			+ pretend (v)假裝 = stimulate, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
+			+++ pretend (v)假裝 = stimulate = fake = feign, 模仿 = stimulate, [to]自命/自稱 (adj)[非]假裝的/假想的
 			- pretended (adj)假的/假裝的 = assumed = pretend
 			+ pretense (n)假裝 = veil, 炫耀, [to]自稱/自吹 <-- pretend
 			++ pretension (n)意圖/抱負 = aspiration, 假裝/做作 = pretentiousness, [to]自稱/自命
@@ -7249,6 +7260,7 @@
 		- unisex (adj)不分男女的/男女皆宜的 (n)男女皆宜的造型
 		+ universal (adj)全體的/普遍的, 通用的, 宇宙的/全世界的 (n)全稱命題, 一般概念, 普遍現象, 通用文法規則
 		+ universality (mn)普遍性, 普適性
+		+ universally (adv)人人
 		- varsity (n)[英]大學, 大學代表隊 <-- university
 		- univocal (adj)意思明確的 = unambiguous
 
@@ -7381,7 +7393,7 @@
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
 		* /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
 
-		* invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious
+		+ invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious --> inventiveness (n)創造力/創意 = creativity
 		- inventory (n)詳細目錄/存貨清單 (v)編制(目錄), 把……登入目錄
 		+ prevent (v)防止/預防/阻止
 		- reconvene (v)重新召集

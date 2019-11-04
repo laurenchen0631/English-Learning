@@ -1,6 +1,7 @@
 ## A
 - across <--> cross
 - adulate <--> adulterate
+- advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft
 - arrant <--> errant <--> errand
 - argument <--> augment
@@ -49,6 +50,7 @@
 - coddle <--> cobble <--> clobber
 - collusion <--> collision
 - complement <--> compliment
+- content <--> contention
 - cooperate <--> corporate <--> coop
 - cope <--> dope
 - council <--> counsel <--> consul
@@ -71,6 +73,7 @@
 - deed <--> deem
 - deft <--> daft
 - despot <--> unspotted
+- deterrent <--> determinant
 - dim <--> din <--> dingy
 - discreet <--> discrete
 - disturb <--> disrupt
@@ -95,33 +98,41 @@
 
 ## F
 - fare <--> ware
+- fallow <--> callow <--> follow
+- feign <--> foreign <--> deign <--> reign
 - fetid <--> fetish
+- fit <--> fitful
 - flinch <--> clinch
 - fruit <--> bruit
 
 ## G
+- germ <--> germane
 - grab <--> drab <--> drag
 
 ## H
+- hector <--> hectic
 - hermetic <--> heretic
 
 ## I
 - inveigh <--> inveigle
 - ingenious <--> ingenuous <--> ingenuity
+- intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - intransigent <--> transient
 - invidious <--> insidious
 
 ## L
 - lie <--> lay
-- little <--> litter
+- little <--> litter <--> liter
 
 ## M
 - miscreant <--> recreant
 
 ## N
 - notch <--> notion <--> note <--> botch <--> blotch
+- nuance <--> nuisance
 
 ## O
++ object --> objection <--> objective
 - outlook <--> overlook
 
 ## P
@@ -131,12 +142,14 @@
 - prodigy <--> prodigal <--> prodigious
 
 ## R
+- raise <--> raisin
 - recoup <--> coup
 - respite <--> respect
 - risk <--> brisk
 - rub <--> rubber
 
 ## S
+- sleight <--> sleigh
 - stationery <--> stationary
 - spur <--> spurn <--> spurt <--> churn
 - sputter <--> putter

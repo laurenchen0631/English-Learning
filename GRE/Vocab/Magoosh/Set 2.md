@@ -69,6 +69,13 @@
 	1. ceremony
 	1. *gambit*
 
+11. History has recast the 15th century *Florentine* monk Girolamo Savonarola as a *rabble-rousing* zealot *lording over* the "bonfire of the *vanities*"; yet this so-called _____ --mainly because he directed his censure at the church--was a crusader for austerity and thus a check on a *papacy* that had run a course of profligacy.
+    1. ascetic
+    1. nonpartisan
+    1. *heretic*
+    1. *martyr*
+    1. *libertine*
+
 ## Review
 4. 尽管她很有才华，但是她被她无所谓的态度毁了。她的满不在乎让她看不起那些对待任何思考都很严肃的人。她坚称哲学思想只有在没有和人的思考方式联系太紧密的时候才最起作用。
 
@@ -113,3 +120,12 @@
 + /djʊəˈrɛs/ duress (n)脅迫
 + vocation (n)(對某職業的)傾向/才能, 職業/工作 <|> vacation
 + gambit (n)開始/開局, 開局讓棋法
+- Florentine (adj)佛羅倫斯的 (n)佛羅倫斯人, 瓦片餅
+- rabble (n)暴民 = mob, 烏合之眾, 一群(蝴蝶)
+- rabble-rouser (n)煽動暴民者 --> rabble-rousing (n)煽動暴民 (adj)煽動暴民者的
+- mob (n)一群(暴民), 烏合之眾 = ordinary people, 犯罪集團 (v)成群圍住
+- lord (n)貴族 = nobleman, 統治者 = ruler, [lord it over]作威作福
+- vanity (n)虛榮/自負, 自費出版, 徒勞/無益, 梳妝臺
+- heretic
+- martyr
+- libertine

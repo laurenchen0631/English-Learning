@@ -603,6 +603,9 @@
 - on the go 忙碌的/生產中的
 	- I have been on the go all day, and I`m really tired.
 	- Did you know that she's got a new book on the go (= being written)
+- at/on the heels of 緊跟在..之後
+    - he headed off with Sammy at his heels
+    - The new revelation comes on the heels of the previous scandal.
 - on the hook 入迷的 == overly infatuated with another person.
 - on the outs (with sb) 與..不合 == in a state of disagreement or unfriendliness
 	- Dick is on the outs with his father.

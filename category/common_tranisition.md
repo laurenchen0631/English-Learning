@@ -403,6 +403,9 @@
 - **if** 如果/假如
 	- If you have a complaint, write to the director
 	- If I were you, this would never have happened
++ failing 如果沒有 == if not
+	- You may find her at home, or failing that, try the library. 
+	- she longed to be with him and, failing that, to be alone
 - **in case** 假使
 	- In case I am prevented from coming, please excuse me. 
 	- In case she comes back, let me know immediately. 
