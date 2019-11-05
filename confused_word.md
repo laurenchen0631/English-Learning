@@ -3,7 +3,7 @@
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft
-- arrant <--> errant <--> errand
+- arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
 - allegory <--> allergy
@@ -25,12 +25,12 @@
 - budge <--> budget
 - burnish <--> furnish
 - brusque <--> burlesque
-- burst <--> blast <--> bluster <--> blunt <--> brunt
+- burst <--> blast <--> bluster <--> blunt <--> blunder <--> brunt
 
 ## C
 - cabin <--> cabinet
 - cache <--> cachet
-- calumniate <--> culminate
+- calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
 - carat <--> caret <--> carrot <--> karat
@@ -40,11 +40,12 @@
 - caucus <--> cactus
 - cease <--> crease <--> grease
 - cellar <--> cellular
+- chary <--> char
 - clement <--> cement <--> cremate
 - civil <--> cavil
 - clamp <--> clasp
 - classic <--> classical
-- clog <--> clot <--> - cloy <--> coy 
+- clog <--> clot <--> cloy <--> coy 
 - cluster <--> clutter
 - coarse <--> course <--> hoarse
 - coddle <--> cobble <--> clobber
@@ -52,14 +53,14 @@
 - complement <--> compliment
 - content <--> contention
 - cooperate <--> corporate <--> coop
-- cope <--> dope
+- cope <--> dope <--> dupe
 - council <--> counsel <--> consul
 - country <--> county
 - coup <--> couple <--> recoup
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
-- crumble <--> crumple <--> cramp
-- cramp <--> clamp <--> crap
+- crumble <--> crumple
+- cramp <--> cram <--> gram <--> clamp <--> crap 
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
@@ -76,6 +77,7 @@
 - deterrent <--> determinant
 - dim <--> din <--> dingy
 - discreet <--> discrete
+- dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt
 - dizzy <--> drizzle
 - don <--> doff
@@ -85,7 +87,6 @@
 - drastic <--> dramatic
 - drive <--> drove <--> drivel <--> drawl
 - dub <--> dab <--> daub <--> dud <--> dude
-- dupe <--> dope <--> cope
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
@@ -112,8 +113,10 @@
 ## H
 - hector <--> hectic
 - hermetic <--> heretic
+- hurdle <--> hurtle
 
 ## I
+- indolence <--> insolence
 - inveigh <--> inveigle
 - ingenious <--> ingenuous <--> ingenuity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
@@ -123,6 +126,7 @@
 ## L
 - lie <--> lay
 - little <--> litter <--> liter
+- lurk <--> lark <--> luck
 
 ## M
 - miscreant <--> recreant
@@ -139,6 +143,7 @@
 - persecute <--> prosecute
 - principle <--> principal
 - preeminent <--> prominent 
+- probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 
 ## R

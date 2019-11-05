@@ -257,6 +257,9 @@
 	- this grisly ending is anything but sentimental
 	- I will be anything but quiet on Saturday night.
 	- The media once portrayed the governor as anything but ineffective; they now, however, make her out to be the epitome of fecklessness.
+- not so much sth as sth 與其說是…還不如說是…
+	- They're not so much lovers as friends.
+	- I don't feel angry so much as sad.
 - nowhere near 遠非 == Not nearly.
 	- he's nowhere near as popular as he used to be
 - one and the same 同一個事物/同一個人 == the same thing or person 

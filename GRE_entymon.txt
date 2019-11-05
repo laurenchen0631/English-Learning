@@ -1522,7 +1522,7 @@
 			- decompose
 			+ decipher (v)破解/破譯 = decode
 			- decode (v)破譯 = decipher
-			+++ defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)反抗的 = rebellious
+			+++ defy (v)違抗/反抗 --> defiance (n)違抗/反抗 --> defiant (adj)違抗的/挑戰的 = rebellious
 			* demolish (v)拆除/拆毀 = level, 駁斥/反駁 = refute <-- de + mol 建造 = construct + ish
 			* demolition (n)拆除/拆毀
 			- detest
@@ -2240,6 +2240,7 @@
 		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
 
 	electro 電
+		- electroencephalographic (adj)腦電圖的
 		* electric (adj)靠電力運作的/用電的, 令人震驚的 (n)靠電運作的交通工具/電車
 		* electrical (adj)電的, 電器的 (n)電氣設備/電路
 		- electrocute (v)使觸電致死/用電刑處死
@@ -2405,6 +2406,7 @@
 		*** refer (v)提交/交付, [to]論及/談到, 查閱/參考, 不及格
 		- referee (n)裁判員/仲裁者
 		- referral (n)提及, 轉診, 轉診病人 
+    	- referendum --> referenda (n)全民公投
 		- somniferous
 		- melliferous
 		- transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n) 
@@ -3045,6 +3047,7 @@
 			+ inconclusive (adj)非決定性的/不確定的
 			+ incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
 			+ inconsequential (adj)不重要的 = trivial = frivolous = futile
+			+ inconsiderable (adj)無足輕重的/不值得考慮的 <--> considerable
 			+ inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾 
 			+ inconstant (adj)易變的/無常的 = variable = irregular = erratic, 不忠的 --> inconstancy (n) <-- in + constant
 			+ incontrovertible (adj)無可辯駁的/無庸置疑的 = indisputable
@@ -3436,6 +3439,7 @@
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
 		++ objective (adj)客觀的/公正的 = impersonal = unbiased = impartial, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		- objectively (adv)客觀地, 實際的 = actually
+		- objectionable (adj)令人反感的/使人不快的
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -3463,7 +3467,7 @@
 		- injure (v)傷害, 受傷, 危害/損害
 		- injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
 		+ justify (v)證明……是正當的/是..的好理由 = warrant, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
-		- justifiable (adj)有理由的/有道理的
+		+ justifiable (adj)可辯護的/有道理的 = defensible
 		+ objurgate (v)申斥/痛罵 = scold = rebuke --> objurgation (n)
 
 	journ 日 = day, daily
@@ -3618,6 +3622,7 @@
 			- eligible (adj)有資格的 = qualified = suitable, (婚姻)合意的
 			- elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
 			- elective (adj)選舉的/選舉產生的, 有選舉權利的(職位), [醫]選擇性的, 選修的 (n)選修課程
+			- electoral (adj)選舉的/選舉人的
 			- elite (n)精華, 精英 
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
 			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
@@ -4422,6 +4427,7 @@
 
 	out 超出/出 = beyond, surpass, out
 		- outage (n)停電期間/停止服務時期
+		- outbound (adj)向外去的/往外地的 (adv)向外去
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
 		- outdo -> outdid -> outdone (v)勝過/超越
@@ -4439,6 +4445,7 @@
 		- outlook (n)觀點/看法 = point of view, 景色, 前景 = prospect
 		- outmaneuver (v)以機動性勝過, 以計謀勝過
 		+ outmoded (adj)老式的/過時的 = obsolete = old-fashioned = outdated
+		- outermost (adj)最遠的/離中心最遠的 (adv)在最外
 		- outnumber (v)在數量上超過
 		- outpost (n)前哨基地, 郊區, 邊遠分部
 		- outpouring (n)流露 = betray
@@ -4471,6 +4478,7 @@
 			- overkill (n)過度使用, 過度殺傷
 			- overnight (adv)通宵/整夜, 夜間, 一夜間/突然 (adj)過夜的, 突然的 = instant (v)過夜, 夜間運送 (n)過夜
 			- overpower (v)擊敗/制伏, 對..來說過於強烈 = overwhelm --> overpowering (adj)非常強烈的(情緒) = overwhelming
+			- overrate (v)高估
 			- overreach (v)做得過頭/伸得過遠, 智勝 = outwit
 			+ overreact (v)反應過度
 			- overrun (v)橫行於/大批出沒於/蔓延於, 跑過, 超越(尤指完成期限或費用) (n)超越限度 (mn)泛濫/橫行
@@ -4562,6 +4570,7 @@
 	ortho, orth 正 = right
 		- /ˌɔːθəˈdɒntɪk/ orthodontic (adj)齒列矯正的 --> orthodontics (n)齒列矯正術 <-- ortho + dont 牙齒 = dent + ic
 		+ orthodox --> orthodoxy
+		- orthography (n)正確拼字, 正投影 = orthographic projection
 
 	onym 字/名 = word, name
 		+ /anəˈnɪmɪti/ anonymity (n)無名/匿名 --> anonymous (adj)匿名的, 無特色的/無個性特徵的
@@ -5237,6 +5246,7 @@
 		* approval (n)批准/認可, 相信/信任
 		+ approbation (n)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
 		+ disprove (v)證明為假/駁倒 = discredit = negate = rebut --> disproof (n)反證, 證明為假
+		- probate (mn)遺囑的認證 (n)經認證的遺囑 (v)認證(遺囑)
 		- provably (adv)可被證明地
 		++ reprobate (adj)邪惡的/無賴的/不講道德的 = shameless = unprincipled (n)無賴/惡棍
 		- reprove (v)責罵/申斥 = censure = reprimand --> reproof (n)斥責/責備 = rebuke
@@ -5447,7 +5457,9 @@
 		+ euphoria (n)心情愉快 = elation --> euphoric (adj)狂喜的/興高采烈的 = intensely happy
 		- /ˈsɛməfɔː/ semaphore (n)旗語/信號 (v)發信號 <-- sema 信號 = signal + phore
 		+ /ˈmɛtəfə/ metaphor (n)隱喻/暗喻 --> metaphoric (adj)隱喻的 = figurative --> metaphorize (v)暗喻
-		+++ /pəˈrɪfəri/ periphery (n)周圍/外圍, 次要部分 --> /pəˈrɪfərəl/ peripheral (adj)外圍的, 不重要的/次要的 = marginal = secondary, 周邊設備的 (n)周邊設備
+		+++ /pəˈrɪfəri/ periphery (n)周圍/外圍, 次要部分
+		+++ /pəˈrɪfərəl/ peripheral (adj)外圍的, [to]不重要的/次要的 = marginal, 周邊的(裝置) (n)周邊裝置
+		= secondary, 周邊設備的 (n)周邊設備
 
 	pi 撫慰/虔誠 = propitiate, piety
 		+ expiate (v)補償 = atone for = recompense = compensate = make amends
@@ -5624,7 +5636,7 @@
 			- remnant (n)殘餘/剩餘/遺跡, 零頭布, 生活痕跡, 殘存者 (adj)剩餘的 = residual
 			- remainder (n)剩餘物, 餘數, 地產的指定繼承權 (v)削價出售(書)
 			+++ remark (n/v)談到/評論 = mention, 注意/覺察 = note = perceive = observe 
-			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional = miraculous = phenomenal = significant
+			+++ remarkable (adj)引人注目的/非凡的/出色的 = striking = exceptional = miraculous = phenomenal = significant <--> unremarkable
 			- remind (v)使想起, 提醒 --> reminder (n)提醒人的事物, 催函/催單
 			* reminisce (v)追憶/回想 = recollect --> reminiscence (n)回想/追憶 --> reminiscences (n)回憶錄
 			* /rɛmɪˈnɪsənt/ reminiscent (adj)使人想起…的/使人回憶起…的/發人聯想的 = redolent = resonant <-- re + min 思維 = mind + iscent
@@ -6482,9 +6494,10 @@
 		* stern (adj)嚴厲的/苛刻的 = severe (n)船尾
 
 	sphere 球/團
+		- atmosphere (n)大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
 		- biosphere
 		+ hemisphere (n)半球, 腦半球
-		- atmosphere (n)大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
+		- heliosphere (n)太陽圈
 		- /maɡˈniːtəsfɪə/ magnetosphere (n)磁氣圈/磁層(一個天體周圍、以該天體的磁場為主的地區)
 		- /ˈstratəˌsfɪə/ stratosphere (n)平流層, [非]最上層/巔峰
 		- /ˈtrɒpə(ʊ)sfɪə/ troposphere (n)對流層
@@ -6566,7 +6579,7 @@
 
 	stell, sider 星星 = star == astro
 		- consider (v)認真考慮/斟酌 = ponder = deliberate = reflect = entertain, 認爲 = reckon = suppose, 注視 = regard
-		+ considerable (adj)相當多的/相當重要的/值得考慮的/相當的 = significant = substantial
+		+ considerable (adj)相當多的/相當重要的/值得考慮的/相當的 = significant = substantial <--> inconsiderable
 		- considerate (adj)考慮周到的
 		- constellation (n)星座/星群, 群集
 		+ /dɪˌzɪdəˈrɑːtəm/ desideratum -> desiderata (n)需要的東西
@@ -6835,6 +6848,7 @@
 		++ portent (n)前兆, 奇人/奇事 = marvel = prodigy
 		++ portentous (adj)凶兆的/不祥的 = ominous, 自大的/裝模作樣的
 		- superintend (v)監督 = oversee = supervise
+		- tendrils (n)卷鬚/蔓, 卷鬚狀物
 		- tension (n)拉緊/繃緊/張力, 電壓, 緊張, 緊張局勢, 取捨 (V)使拉緊/使繃緊
 		- tensile /ˈtɛnsʌɪl/ (adj)張力的/拉力的, 抗張的
 		* /ˈtɛntətɪv/ tentative (adj)暫時的/臨時的 = provisional, 躊躇的/猶豫的 = hesitant <-- tempt
@@ -7127,7 +7141,7 @@
 		- uninitiated (adj)外行的/無專門知識的 = inexperienced
 		+ unintelligible (adj)難理解的/晦澀難懂的
 		- unironic (adj)非諷刺的/真誠的
-		- unjustified (adj)不合理的/無正當理由的, 錯誤的/不值得的 = wrong, 未對齊的
+		* unjustified (adj)不合理的/無正當理由的, 錯誤的/不值得的 = wrong, 未對齊的
 		- unjust (adj)不義的/不法的 --> unjustly (adv)不義地/不法地
 		- unkempt (adj)未梳理的/蓬亂的/不整潔的
 		- unleash (v)解開……的皮帶, 使被釋放
@@ -7135,7 +7149,7 @@
 		- unmoved (adj)無動於衷的/冷漠的, 不動搖的/堅定的
 		+ unnerve (v)使失去勇氣/使氣餒 = dishearten = discourage = dispirit
 		+ unnoticed (adj)未被注意的 = unspotted
-		* unobjectionable (adj)無異議的 = acceptable
+		* unobjectionable (adj)無異議的 = acceptable <|>objectionable
 		+ unoriginal (adj)非原創的/模仿的 = derivative
 		- unobtrusive (adj)不引人注目的
 		+ unorthodox (adj)非正統的/非傳統的 = heterodox = maverick = unconventional
@@ -7158,6 +7172,7 @@
 		- unregulated (adj)未受管理的/未受管制的
 		* unrelenting (adj)堅定不移的/不退讓的, 不仁慈的/殘酷無情的 = relentless
 		+ unreliable (adj)不可信任的/靠不住的/不可靠的 = untrustworthy
+		+ unremarkable (adj)平凡的/不值得注意的
 		- unremitting (adj)不間斷的/持續的 = incessant = restless
 		- unrepentant (adj)不悔悟的/不後悔的 = unregenerate
 		- unrequited (adj)得不到回報的/單相思的
