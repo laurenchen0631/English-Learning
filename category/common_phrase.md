@@ -363,6 +363,8 @@
 - roll off the tongue 順口的 == To be very easy or enjoyable to say.
 	- When you name your food truck, make sure it is something that rolls off the tongue so that people will remember it.
 	- The book is a joy to read aloud. The passages just roll off the tongue.
+- straight up 真的/屬實
+	- You're a really attractive woman, straight up!
 - tongue in cheek (adj/adv)開玩笑的/說著玩的 
 	- Her latest play is a firmly tongue-in-cheek look at the world of advertising.
 	- He said that he was a huge fan of the president, although I suspect it was tongue in cheek.

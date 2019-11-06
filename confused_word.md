@@ -51,7 +51,7 @@
 - coddle <--> cobble <--> clobber
 - collusion <--> collision
 - complement <--> compliment
-- content <--> contention
+- congenial <--> congenital <--> genital
 - cooperate <--> corporate <--> coop
 - cope <--> dope <--> dupe
 - council <--> counsel <--> consul
@@ -98,6 +98,7 @@
 - exigent <--> exiguous
 
 ## F
+- facet <--> facetious <--> factitious <--> multifaceted
 - fare <--> ware
 - fallow <--> callow <--> follow
 - feign <--> foreign <--> deign <--> reign
@@ -108,6 +109,7 @@
 
 ## G
 - germ <--> germane
+- glum <--> glue <--> slum
 - grab <--> drab <--> drag
 
 ## H
@@ -129,6 +131,7 @@
 - lurk <--> lark <--> luck
 
 ## M
+- mend <--> mendicant <--> mendacious <--> amends <--> emend
 - miscreant <--> recreant
 
 ## N
@@ -156,9 +159,10 @@
 ## S
 - sleight <--> sleigh
 - stationery <--> stationary
-- spur <--> spurn <--> spurt <--> churn
+- spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt
+- solicit <--> solicitude <--> solicitous
 - subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T

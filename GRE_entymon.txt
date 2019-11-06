@@ -2340,6 +2340,7 @@
 		- affectation (n)做作/假裝
 		- affecting (adj)感人的 = moving
 		- affection (n)鍾愛/愛, 疾病/感染, 情緒
+		- affectionate (adj)表示愛的, 充滿深情的/有感情的 = fond
 		- artifact
 		- artifice
 		+ benefactor
@@ -2737,6 +2738,7 @@
 		* carcinogen (n)致癌物質
 		* /ˈkɒlədʒ(ə)n/ collagen (n)膠原蛋白 <-- colla = glue + gen
 		++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
+		- congenital (adj)天生的/先天的
 		+ engender (v)產生/引起 = produce = cause = beget
 		+ eugenics (n)優生學
 		- general (adj)一般的 = generic, 普遍的/全體的/大體的, 首席的 = chief = principal (n)將軍
@@ -2749,7 +2751,8 @@
 		+ generic (adj)種類的/屬的, 一般的 = general, 總稱的, 沒有商標的
 		*** generous (adj)慷慨的/大方的 = liberal = munificent = bountiful, 寬宏大量的 = magnanimous, 豐富的/豐盛的 = large = abundant = ample, 肥沃的 = fertile = prolific
 		* generosity (n)慷慨/大方, 仁慈/寬厚 = goodness
-		- genital (adj)生殖的 <|> genial --> genitals (n)生殖器官 
+		- genital (adj)生殖的 <|> genial --> genitals (n)生殖器官 genitalia = genitalia
+		- genitalia (n)生殖器 = genitals
 		- genius (n)天賦, 天才 = prodigy, 精靈/神靈/守護神
 		* genus (n)類/種類 --> genera (n)類
 		- /ˈʒɒ̃rə/ genre (n)文藝作品之類型
@@ -3333,6 +3336,7 @@
 			- intelligent --> intelligence
 			+ intelligible
 			+ /ɪnˈtəːn(ə)l/ internal (adj)裡面的/內在的/內心的, 國內的 = domestic, 本質的 = intrinstic <|> /ɪˈtəːn(ə)l/ eternal
+			- internist (n)內科醫師
 			- interact --> interaction
 			+ interdisciplinary (adj)跨學科的
 			- /ɪnˈtəːkəleɪt/ intercalate (v)插入/置於...中間 = interpose = interpolate
@@ -3528,7 +3532,7 @@
 
 	lud, lude, lus 嘻笑/玩弄 = play
 		+ allude (v)間接提到/暗指/影射 = imply = insinuate, 略微提及 --> allusive (ad)影射的/暗指的
-		+ collude (v)串通/勾結 = conspire = connive --> collusion (n)勾結/共謀/串通
+		+ collude (v)[in]串通/勾結 = conspire = connive --> collusion (n)勾結/共謀/串通
 		* delude (v)欺騙/矇騙/讓..相信是真的 = dupe = hoodwink = hoax = deceive = cheat = trick
 		** delusive (adj)欺騙的/誤導的 = deceptive = misleading --> delusion (n)欺騙
 		+ elude (v)躲避 = evade = escape, 難以被..獲得/難以被..所理解 --> elusion (n)逃避/躲避
@@ -4293,6 +4297,7 @@
 		- notice (v)注意, 認真對待 (n)注意, 警告/預先通知, 合約終止通知/辭職通知, 公告/通知, 短評
 		- notable (adj)值得注意的 = remarkable = noteworthy (n)要人/名人
 		- noticeable (adj)顯而易見的/明顯的 = clear = apparent, 值得注意的/重要的 = notable
+		- noteworthy (adj)顯著的/值得注意的
 
 	nounce, nunci 宣布/報告 = announce = dict = cent = log
 		- announce (v)宣布/發表 = pronounce = proclaim = herald, 通報...的到來
@@ -4501,7 +4506,7 @@
 			- overland (adv)經由陸路 (adj)經由陸路的
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			- overlie -> overlay -> overlain (v)覆蓋在..之上
-			*** overlook (v)未察覺, 忽視, 俯瞰/俯視 (n)觀察位置 <|> outlook
+			*** overlook (v)未察覺, 忽視 = disregard, 俯瞰/俯視 (n)觀察位置 <|> outlook
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
