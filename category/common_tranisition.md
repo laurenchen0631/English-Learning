@@ -190,7 +190,7 @@
 - by all means 當然/務必
 	- Bring him by all means
 	- Again, by all means, on paper it’s fitting that Dany retakes King’s Landing the way that her ancestor Aegon Targaryen seized power: through conquest, not birthright.
-+ much less == let alone (sth/do) 更何況/更不用說
++ *much less* == let alone (sth/do) 更何況/更不用說
 	- Tony can barely boil an egg, much less cook dinner.
 	- He will not even thank you, let alone pay you.
 - to say nothing of == not to mention 更何況/更不用說
@@ -316,7 +316,8 @@
 	- Don't do it just because you can.
 	- Inasmuch as you are their commanding officer, you are responsible for the behaviour of these men.
 	- A most unusual astronomer inasmuch as he was deaf mute
-+ *on account of* == *by virtue of* == due to == by reason of == because of 因為/歸因
++ *in light of * == *on account of* == *by virtue of* == due to == by reason of == because of 因為/歸因
+	- In the light of recent incidents, we are asking our customers to take particular care of their personal belongings.
 	- On account of holiday our store will be closed tomorrow.
 	- We delayed our departure on account of the bad weather.
 	- they achieved pre-eminence by virtue of superior military strength

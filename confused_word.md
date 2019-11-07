@@ -35,7 +35,7 @@
 - capillary <--> caterpillar
 - carat <--> caret <--> carrot <--> karat
 - carcass <--> caress
-- cascade <--> cadence
+- cascade <--> cadence <--> decadence
 - casual <--> causal
 - caucus <--> cactus
 - cease <--> crease <--> grease
@@ -76,6 +76,7 @@
 - despot <--> unspotted
 - deterrent <--> determinant
 - dim <--> din <--> dingy
+- dilatory <—> dilate
 - discreet <--> discrete
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt
@@ -98,13 +99,19 @@
 - exigent <--> exiguous
 
 ## F
-- facet <--> facetious <--> factitious <--> multifaceted
+- facet <--> faucet <--> facetious <--> factitious <--> multifaceted
 - fare <--> ware
 - fallow <--> callow <--> follow
+- faux <--> flax <--> flex <---> flexible
 - feign <--> foreign <--> deign <--> reign
 - fetid <--> fetish
+- fib <--> dibs
 - fit <--> fitful
-- flinch <--> clinch
+- flake <--> flak <--> flank <--> flask
+- flare <--> blare
+- fleeting <--> fleeing
+- flinch <--> clinch <--> filth
+- frail <--> flail
 - fruit <--> bruit
 
 ## G
@@ -115,6 +122,7 @@
 ## H
 - hector <--> hectic
 - hermetic <--> heretic
+- humiliate <--> humility <--> humble
 - hurdle <--> hurtle
 
 ## I
@@ -122,6 +130,7 @@
 - inveigh <--> inveigle
 - ingenious <--> ingenuous <--> ingenuity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
+- imitate <--> inimitable <--> inimical <--> intimat
 - intransigent <--> transient
 - invidious <--> insidious
 
@@ -143,6 +152,7 @@
 - outlook <--> overlook
 
 ## P
+- perpetrate <--> perpetuate
 - persecute <--> prosecute
 - principle <--> principal
 - preeminent <--> prominent 
@@ -166,6 +176,7 @@
 - subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T
+- temper <--> temperate <--> temperance <--> temperature <--> tempest
 - trench <--> drench <--> wrench
 - troop <--> troupe
 

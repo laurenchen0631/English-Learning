@@ -402,7 +402,7 @@
 		- arthropod
 		++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
 		+ inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的 = ineffable, 無關節的
-		** articulation (n)發音 = pronounce, 連結, 關節
+		** articulation (mn)清楚的發音, 表達, 連接/接合 (n)關節
 		* artery (n)動脈 = aorta, 主要幹道 --> arterial (adj)
 
 	art, arti 技巧
@@ -925,7 +925,7 @@
 		+ abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (v)切除, 截枝
 		+ concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact --> concision (n)簡潔
 		- decide (v)決定
-		- /dɪˈsʌɪsɪv/ decisive (adj)果決的, 決定性的/確定的
+		+ /dɪˈsʌɪsɪv/ decisive (adj)果決的, 決定性的/確定的
 		+ indecisive
 		- /ˈɛksʌɪz/ excise (v)刪除, 切除 (n)消費稅
 		- /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使/運用 (n)活動 (v)擔心 = worry = perplex
@@ -2828,6 +2828,7 @@
 	gamy 婚姻 = marriage
 		- monogamy (n)一夫一妻制 --> monogamous (adj)一夫一妻制的, 單一性伴侶的
 		- /ˈbɪɡəmi/ bigamy (n)重婚, 重婚罪
+		- polygamist (n)一夫多妻者
 
 [H]
 	hyper 過 = over, above
@@ -3229,6 +3230,7 @@
 			- incur
 			+ incursion
 			* indebted (adj)負債的, [to]感激的/受惠的 = beholden
+			+ indeed (adv)確實, 更確切地
 			- indent --> indenture
 			- in-depth (adj)詳盡的/深入的 = comprehensive = thorough
 			- indicate
@@ -4862,6 +4864,7 @@
 		- protagonist
 		* protocol (n)禮儀/禮節, 條約/公約/議定書, 通訊協定 <-- proto + col 膠水 = glue
 		+ prototype (n)原型 = dummy, 典型 (v)製作..的原型
+		* prototypical (adj)原型的/典型的
 	  
 	per
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
@@ -5330,7 +5333,7 @@
 		+ euphony (n)悅耳 --> euphonious (adj)悅耳的 = melodious = liquid
 		- francophone (adj)法語圈的 (n)法語圈
 		- phone (n)電話 = telephone, [非]耳機 = headphone = earphone (v)[up]電話通知, [phone it in]敷衍了事
-		* phony (adj)假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent
+		+ phony (adj)[非]]假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent (n)[非]騙子/冒牌貨
 		- phonograph (n)唱機
 		- phonetic (adj)語音的, 語音學的, 音形一致的
 		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
@@ -5505,6 +5508,7 @@
 
 	pseudo, pseud 假 = false, pretended, unreal
 		+ pseudonym
+		- pseudoscience (n)偽科學
 
 	port 帶著 = carry
 		- export
@@ -6281,6 +6285,7 @@
 
 	sail, sault, sult, sil, sali 跳 = leap, spring
 		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass --> assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
+		- assailant (n)攻擊者
 		- consulate (n)領事館, 領事職
 		* consult (v)諮詢/請教, 查閱 = refer (n)諮詢
 		+ desultory (adj)無計劃的, 漫無目的的 = rambling = random
@@ -6326,7 +6331,7 @@
 		- simple (adj)簡單的/單純的, 樸素的, 謙遜的 = humble = unpretentious, 單一的, 頭腦簡單的 (n)草藥
 		- /sɪmˈplɪsɪti/ simplicity (n)簡易/簡明, 簡樸, 簡樸的事物
 		+ simplistic (adj)過分單純化的/被過分簡單化的
-		- simpleton (n)笨蛋
+		+ simpleton (n)笨蛋
 		- single (adj)單一的/單個的/孤單的/唯一的 = solitary, 單身的, 其中之一的 (n)個人 = individual, 單曲, 單人競賽 (v)[out]選出/挑出, 疏(苗)
 		++ singular (adj)單數的, 單個的/唯一的 = single, 非凡的/卓越的 = unique = remarkable, 異常的/奇異的 = extraordinary (n)單數型
 		+ singularity (n)獨特/唯一, 特點/怪癖 = peculiarity, (天文)奇點(密度無窮大、體積無窮小的點)
@@ -7129,6 +7134,7 @@
 		+ unfavorable (adj)反對的/缺少支持的, 不利的 = adverse = inauspicious = unpropitious
 		+ unfeigned (adj)不虛偽的/真誠的 = genuine = sincere
 		- unfetter (v)釋放/使自由
+		+ unfit (adj)[for]不適合的/不恰當的, 不強健的
 		+ unflappable (adj)[非]不驚慌的/鎮定的 = composed
 		- unflinching (adj)不畏縮的/堅定無畏的 = valorous
 		- unfold (v)展開/打開, 逐漸發展, 揭露 = reveal = disclose = divulge <|> untold

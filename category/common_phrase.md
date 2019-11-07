@@ -524,6 +524,8 @@
 - doing nothing to (do sth) 無意
 	- Do nothing to offend her susceptibilities.
 	- Tom is full of good intentions, but can do nothing to help.
+- give sb the benefit of the doubt 把…往好處想
+	- I didn't know whether his story was true or not, but I decided to give him the benefit of the doubt.
 - have half a mind to (do sth) 可能會做/有意
 	- I have a good mind to go without him if he's going to be such an idiot!
 - It's your call 這是你自己的決定 == it's your decision
@@ -725,7 +727,6 @@
 - the skin of your teeth 僥倖成功/勉強完成/險些錯過
 	- He escaped from the secret police by the skin of his teeth.
 - window of opportunity 機會之窗
-
 
 ## Thing
 - a bite (to eat) 一些食物 == some food
