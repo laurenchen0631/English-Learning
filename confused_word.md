@@ -10,7 +10,7 @@
 - alter <--> altar
 
 ## B
-- bail <--> bait
+- bail <--> bait <--> gait
 - ballad <--> ballast <--> ballot
 - banquet <--> bouquet <--> boutique
 - bastard <--> dastard <--> retard
@@ -48,9 +48,9 @@
 - clog <--> clot <--> cloy <--> coy 
 - cluster <--> clutter
 - coarse <--> course <--> hoarse
-- coddle <--> cobble <--> clobber
+- coddle <--> cobble <--> clobber <--> gobble
 - collusion <--> collision
-- complement <--> compliment
+- complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
 - cooperate <--> corporate <--> coop
 - cope <--> dope <--> dupe
@@ -64,6 +64,7 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
+- cruel <--> gruel <--> grueling
 - cruise <--> bruise
 - cuddle <--> fuddle <--> muddle
 - curate <--> curator
@@ -78,10 +79,11 @@
 - deterrent <--> determinant
 - dim <--> din <--> dingy
 - dilatory <—> dilate
+- discomfort <--> discomfit
 - discreet <--> discrete
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt
-- dizzy <--> drizzle
+- dizzy <--> drizzle <--> guzzle
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -111,7 +113,7 @@
 - fit <--> fitful
 - flagrant <--> fragrant
 - flake <--> flak <--> flank <--> flask
-- flare <--> blare
+- flare <--> blare <--> glare <--> glaze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth
 - frail <--> flail <--> fragile
@@ -120,14 +122,28 @@
 - fruit <--> bruit
 
 ## G
+- gaffe <--> guffaw
+- gallery <--> galley
+- gambit <--> gamble <--> gambol
+- gawk <--> hawk
 - germ <--> germane
-- glum <--> glue <--> slum
+- gird <--> grid <--> girder
+- git <--> grit
+- glean <--> clean
+- glib <--> gild
+- gloat <--> bloat
+- glum <--> glam <--> glue <--> slum
 - grab <--> drab <--> drag
+- grovel <--> grove <--> groove <--> gravel <--> gavel
+- grouse <--> arouse
+- gush <--> gash <--> gasp <--> gust <--> bust <--> oust <--> rust
 
 ## H
-- harrow <--> furrow
-- hector <--> hectic
-- hermetic <--> heretic
+- harrow <--> furrow <--> hallow <--> hollow
+- hector <--> hectic <--> sector
+- hermetic <--> heretic <--> hermit
+- histrionic <--> historic
+- hoard <--> board
 - humiliate <--> humility <--> humble
 - hurdle <--> hurtle
 
@@ -143,6 +159,7 @@
 ## L
 - lie <--> lay
 - little <--> litter <--> liter
+- lucid <--> lurid
 - lurk <--> lark <--> luck
 
 ## M
@@ -174,6 +191,7 @@
 - rub <--> rubber
 
 ## S
+- sanction <--> sanctify <--> sanctimony
 - sleight <--> sleigh
 - stationery <--> stationary
 - spur <--> spurious <--> spurn <--> spurt <--> churn
@@ -186,7 +204,7 @@
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
-- troop <--> troupe <--> trope
+- troop <--> troupe <--> trope <--> grope
 
 ## V
 - vocation <--> vacation
