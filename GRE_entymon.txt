@@ -859,6 +859,7 @@
 		+ /kəˈpasɪti/ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能, 資格/地位
 		- capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
 		- captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
+		- captor (n)俘虜者
 		+ captivate (v)迷住/吸引 = attract = fascinate = intrigue = enamor = enchant = entrance
 		- caption (n)說明文字/圖片說明
 		+ captious (adj)吹毛求疵的/挑剔的 = faultfinding = carping = censorious = particular
@@ -1061,6 +1062,7 @@
 		- chronology (n)年代學, 年表
 		- chronological (adj)按時間順序的
 		- /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
+		- chronicler (n)編年史家
 		- chronometer (n)精密計時器
 		- synchronous (adj)同步的/同時的 <--> asynchronous
 
@@ -1827,6 +1829,7 @@
 	dem, demo 人民 = people
 		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
 		+ demagog, demagogue (n)蠱惑民心的政客, 群眾煽動者
+		- demagoguery (n)群眾煽動/煽動行為
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
 		+ demotic (adj)通俗的/大眾化的 = vulgar = plebeian
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
@@ -2032,7 +2035,7 @@
 		+ emblem (n)象徵/標誌, 徽章 --> emblematic (adj)作為象徵的 <-- em + blem 放 = put
 		- emblazon (v)裝飾/刻記
 		* embody (v)體現/具體地表顯, 包括/包含
-		- embolden (v)壯膽/使有勇氣 <-- em + bold + en
+		- embolden (v)壯膽/使有勇氣, 使呈粗體字 <-- em + bold + en
 		- emboss
 		* embitter (v)使難受/使忿恨 
 		+ embrace
@@ -2598,6 +2601,7 @@
 		- inflect (v)屈折變化, 使變音/使變調, 影響, 彎曲 --> inflection (mn)屈折變化, 變調, 彎曲
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
 		+ reflection (mn)反射, 深思/深思 (n)反射光, 鏡像, 後果, 想法 = idea --> reflective (adj)反射的, 深思的
+		- reflexive (adj)[語]反身的, (動作)反射性的 (n)反身動詞/反身代詞
 
 	foli 樹葉/紙 = leaf, sheet
 		- defoliate (v)使落葉 --> defoliator (n)落葉劑
@@ -2622,6 +2626,8 @@
 	funct 表現 = perform
 		+ defunct (adj)不復存在的/失靈的 = bypass = extinct = dead = gone
 		+ function (n)存在的目的, 典禮/社交聚會 (v)運作 = work = operate
+	    - functional (adj)功能性的, 爲實用而設計的/實用的, 正常工作的, 函數的
+	    - functionary (n)官員 = official
 		+ perfunctory (adj)馬虎的/敷衍的 = superficial
 		- malfunction
 
@@ -2665,6 +2671,7 @@
 		- aggression (n)侵略 = invasion, 攻擊 = assult = raid
 		+ aggressive (adj)好鬥的 = belligerent = assertive = militant, 積極進取的
 		- aggressor (n)侵略者 = assailant = invader
+		- congressional (adj)國家立法機關的, 議會的
 		+ digress (v)離題 --> digression (n)離題/脫軌 = excursion --> digressive (adj)離題的 = discursive
 		++ egress (N)外出, 出口/出路 (v)離開
 		- ingredient (n)成分/原料
@@ -3176,6 +3183,7 @@
 			* impart (v)給予 = bestow, 告知/透露 = reveal = convey = communicate
 			- impassioned
 			* impeach (v)控告/檢舉 = accuse, 彈劾 <--> unimpeachable
+			- impeachment (n)懷疑, 檢舉/彈劾
 			+ impede --> impediment
 			- impel
 			- impend --> impending
@@ -3442,10 +3450,9 @@
 		- ejecta (n)噴出物
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
-		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 
+		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 -->  objectionable (adj)令人反感的/使人不快的
 		++ objective (adj)客觀的/公正的 = impersonal = unbiased = impartial, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		- objectively (adv)客觀地, 實際的 = actually
-		- objectionable (adj)令人反感的/使人不快的
 		*** project (n)方案/計畫/企劃, 專案/學生研究, 公營住宅 (v)估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 		- projectile (n)投射物
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
@@ -3629,6 +3636,7 @@
 			- elect (v)推選, 選擇/決定 = opt for = choose (adj)當選的 --> election (n)選舉
 			- elective (adj)選舉的/選舉產生的, 有選舉權利的(職位), [醫]選擇性的, 選修的 (n)選修課程
 			- electoral (adj)選舉的/選舉人的
+			- electorate (n)全體選民
 			- elite (n)精華, 精英 
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
 			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
@@ -3947,6 +3955,7 @@
 		+ intermediary (n)仲裁者 = mediator, 媒介物 = medium (adj)中間的/媒介的 = intermediate <-- inter + media 媒體 + ary
 		* /ˌɪntəˈmiːdɪət/ intermediate (adj)中介的/中間的, 中等的 (n)中間物, 中級者 (v)作中間人/干預 
 		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about (adj)居中的/間接的 --> mediator (n)調解人 = broker = intercessor <|> meditate
+		- mediation (n)調解 = arbitration, 求情/說情 = intercession
 		- /ˈmɛdɪteɪt/ meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate <|> medication
 		+ meditative (adj)沈思冥想的 = contemplative = ruminant
 		- medieval
@@ -5031,7 +5040,7 @@
 		- /pɑːtɪsɪˈpeɪtəri/ participatory (adj)參與的
 		*** particular (adj)特定的, 不同尋常的 = noteworthy = marked = unusual, 特別的 = exceptional, 詳盡的 = detailed = minute, 講究的/挑剔的 = captious = carping = dainty = fastidious = fussy = finicky = meticulous = painstaking = conscientious = scrupulous
 		+ particularize (v)詳述
-		+ partisan (n)黨徒/虔誠的信徒/熱烈的支持者 (adj)盲目支持的/擁護的
+		+ partisan (n)黨徒/虔誠的信徒/熱烈的支持者 = zealot = ideologue (adj)盲目支持的/擁護的
 		+ partisanship (n)偏見 = prejudice = bias
 		- nonpartisan (n)無黨派的人
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
@@ -5534,9 +5543,10 @@
 		- quantify (v)以數量表示/使量化
 		+ quantifiable (adj)可量化
 	
-	quad 四 = four
+	quadm quart 四 = four
 		- quad (n)四邊形 = quadrangle, 四胞胎之一 = quadruplet, 股四頭肌 = quadriceps muscle, 四輪摩托車 = quad bike, 四聲道 = quadraphony (adj)[非]四部組成的/四倍的 = quadruple, [非]四聲道的 = quadraphonic
 		- quadrangle (n)四邊形, 周有建築物圍繞的方院
+		- quarter (n)四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 (mn)(對敗者的)寬恕/饒命 (v)把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = traverse
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
@@ -6216,6 +6226,7 @@
 		- scripture (n)權威性著作/經文/聖典
 		- scriptorium -> scriptoria (n)修道院的繕寫室/藏經樓
 		+ transcribe (v)抄寫/謄寫, 轉譯, 改編(樂曲)
+		- transcript (n)抄本/謄本, 學生成績報告單
 
 	spect, spec, speci, spic, spex, spite 看 = look, watch == mir
 		*** aspect (n)方面 = part = feathure, 觀點, 外表/外觀, 方位/面向, [文]體/時態
@@ -6725,7 +6736,7 @@
 
 		2. 改變/交換 = change
 			- transact (v)辦理/處理 = conduct = carry out --> transaction (n)辦理/處置, 交易/買賣, 會報/會刊
-			+ transcribe
+			+ transcribe --> transcript
 			- transfer --> transference
 			- transfigure
 			+ transform --> transformation

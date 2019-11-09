@@ -16,14 +16,14 @@
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blot <--> bolt <--> colt
-- bluff <--> cliff
+- bluff <--> cliff <--> fluff <--> flurry
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bowl <--> bowel
 - bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
-- burnish <--> furnish
+- burnish <--> furnish <--> furbish
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> blunt <--> blunder <--> brunt
 
@@ -60,11 +60,12 @@
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
 - crumble <--> crumple
-- cramp <--> cram <--> gram <--> clamp <--> crap 
+- cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
 - cruise <--> bruise
+- cuddle <--> fuddle <--> muddle
 - curate <--> curator
 - curb <--> cub
 
@@ -86,13 +87,13 @@
 - downplay <--> underplay
 - dozen <--> doyen
 - drastic <--> dramatic
-- drive <--> drove <--> drivel <--> drawl
+- drive <--> drove  <--> drawl <--> drivel <--> shrivel
 - dub <--> dab <--> daub <--> dud <--> dude
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
 - eddy <--> ebb
-- empire <--> empiric
+- empire <--> empiric <--> empirical
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethnic
@@ -106,12 +107,16 @@
 - feign <--> foreign <--> deign <--> reign
 - fetid <--> fetish
 - fib <--> dibs
+- fickle <--> freckle
 - fit <--> fitful
+- flagrant <--> fragrant
 - flake <--> flak <--> flank <--> flask
 - flare <--> blare
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth
-- frail <--> flail
+- frail <--> flail <--> fragile
+- fraught <--> fright <--> draught
+- front <--> frond
 - fruit <--> bruit
 
 ## G
@@ -120,6 +125,7 @@
 - grab <--> drab <--> drag
 
 ## H
+- harrow <--> furrow
 - hector <--> hectic
 - hermetic <--> heretic
 - humiliate <--> humility <--> humble
@@ -130,7 +136,7 @@
 - inveigh <--> inveigle
 - ingenious <--> ingenuous <--> ingenuity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
-- imitate <--> inimitable <--> inimical <--> intimat
+- imitate <--> inimitable <--> inimical <--> intimate
 - intransigent <--> transient
 - invidious <--> insidious
 
@@ -140,15 +146,16 @@
 - lurk <--> lark <--> luck
 
 ## M
-- mend <--> mendicant <--> mendacious <--> amends <--> emend
+- mediate <--> meditate
+- mend <--> mendicant <--> mendacious <--> amend <--> emend
 - miscreant <--> recreant
 
 ## N
-- notch <--> notion <--> note <--> botch <--> blotch
+- notion <--> notch <--> note <--> botch <--> blotch
 - nuance <--> nuisance
 
 ## O
-+ object --> objection <--> objective
+- object --> objection <--> objective
 - outlook <--> overlook
 
 ## P
@@ -161,7 +168,7 @@
 
 ## R
 - raise <--> raisin
-- recoup <--> coup
+- reflective <--> reflexive
 - respite <--> respect
 - risk <--> brisk
 - rub <--> rubber
@@ -178,7 +185,8 @@
 ## T
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
 - trench <--> drench <--> wrench
-- troop <--> troupe
+- tribulation <--> tribunal <--> tribal
+- troop <--> troupe <--> trope
 
 ## V
 - vocation <--> vacation
