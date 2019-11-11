@@ -589,6 +589,8 @@
 	- Her nerves were **at** breaking point.
 - catch-22 (n)左右兩難/進退維谷 == a situation in which there are only two possibilities, and you cannot do either because each depends on having done the other first
 	- But it is a catch-22 situation - you can't get people without funding, but you can't get funding without the people there in the first place.
+- fall short (of sth) 未達到
+	- August car sales fell short of the industry's expectations.
 - free-for-all (n)不受控制的局面
 	- The fight on the basketball court turned into a free-for-all.
 - from scratch 從頭開始/從零開始 = from the beginning, without using anything that already exists

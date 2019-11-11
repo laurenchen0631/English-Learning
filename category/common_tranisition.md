@@ -501,6 +501,8 @@
 	- up to now I hadn't had a relationship
 - since == hence 自從
 	- The railroad will open at the end of the decade, two years hence. 這條鐵路本世紀末通車，離現在還有兩年時間。
+- thenceforth (adv)從那時起/以後
+	- thenceforth he made his life in England
 
 ## Space
 - **wherever** 無論(哪裡)

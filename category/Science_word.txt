@@ -8,6 +8,7 @@
 	- liter (n)公升
 	- kiloliter (n)公秉
 	- quart (n)夸脫(約為一加侖或兩品脫) == 0.94 litre
+	- bushel (n)蒲式耳(穀物，水果等容量單位，在美國為35.238升)
 
 	- pound (n)磅 == 0.45359237 kilogram
 	- carat (n)克拉 == 200 milligrams

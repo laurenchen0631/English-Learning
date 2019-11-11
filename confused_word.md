@@ -19,13 +19,15 @@
 - bluff <--> cliff <--> fluff <--> flurry
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
+- bound <--> hound
 - bowl <--> bowel
 - bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
+- bumble <--> fumble
 - burnish <--> furnish <--> furbish
 - brusque <--> burlesque
-- burst <--> blast <--> bluster <--> blunt <--> blunder <--> brunt
+- burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
 
 ## C
 - cabin <--> cabinet
@@ -48,7 +50,8 @@
 - clog <--> clot <--> cloy <--> coy 
 - cluster <--> clutter
 - coarse <--> course <--> hoarse
-- coddle <--> cobble <--> clobber <--> gobble
+- coax <--> hoax
+- coddle <--> cobble <--> clobber <--> gobble <--> hobble
 - collusion <--> collision
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
@@ -59,7 +62,7 @@
 - coup <--> couple <--> recoup
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
-- crumble <--> crumple
+- crumble <--> crumb <--> crumple
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
@@ -77,6 +80,7 @@
 - deft <--> daft
 - despot <--> unspotted
 - deterrent <--> determinant
+- dew <--> pew
 - dim <--> din <--> dingy
 - dilatory <—> dilate
 - discomfort <--> discomfit
@@ -91,6 +95,7 @@
 - drastic <--> dramatic
 - drive <--> drove  <--> drawl <--> drivel <--> shrivel
 - dub <--> dab <--> daub <--> dud <--> dude
+- dull <--> hull
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
@@ -104,6 +109,7 @@
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
 - fare <--> ware
+- falcon <--> felon
 - fallow <--> callow <--> follow
 - faux <--> flax <--> flex <---> flexible
 - feign <--> foreign <--> deign <--> reign
@@ -115,9 +121,11 @@
 - flake <--> flak <--> flank <--> flask
 - flare <--> blare <--> glare <--> glaze
 - fleeting <--> fleeing
-- flinch <--> clinch <--> filth
+- flinch <--> clinch <--> filth <--> filch
+- flint <--> flit
 - frail <--> flail <--> fragile
 - fraught <--> fright <--> draught
+- fright <--> fraught
 - front <--> frond
 - fruit <--> bruit
 
@@ -139,13 +147,29 @@
 - gush <--> gash <--> gasp <--> gust <--> bust <--> oust <--> rust
 
 ## H
-- harrow <--> furrow <--> hallow <--> hollow
+- habilitate <--> rehabilitate
+- harrow <--> furrow <--> burrow <--> hallow <--> hollow 
+- haul <--> hurl <--> overhaul
+- head <--> heady <--> heed
+- hearse <--> rehearse
+- hearten <--> heathen
+- heave <--> heaven <--> haven <--> upheave
 - hector <--> hectic <--> sector
-- hermetic <--> heretic <--> hermit
-- histrionic <--> historic
-- hoard <--> board
+- hermetic <--> heretic <--> hermit <--> helmet
+- hen <--> hem
+- hide <--> hideous
+- histrionic <--> historic <--> hysterical
+- hoard <--> board <--> hoary
+- homage <--> homily <--> homey <--> homie <--> hone
+- hop <--> hoop <--> hoof
+- hospitable <--> hospital
+- humbug <--> hamburger
 - humiliate <--> humility <--> humble
 - hurdle <--> hurtle
+- hubris <--> debris
+- hurdle <--> hurtle <--> curdle
+- husband <--> husbandry 
+- husk <--> hulk <--> hull
 
 ## I
 - indolence <--> insolence
@@ -176,18 +200,23 @@
 - outlook <--> overlook
 
 ## P
+- pastoral <--> pastor <--> pasture
 - perpetrate <--> perpetuate
 - persecute <--> prosecute
 - principle <--> principal
 - preeminent <--> prominent 
+- private <--> privation
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 
 ## R
 - raise <--> raisin
+- ravine <--> ravish <--> rave <--> ravage <--> raven
 - reflective <--> reflexive
 - respite <--> respect
+- retrench <--> retreat <--> entrench
 - risk <--> brisk
+- roast <--> roost
 - rub <--> rubber
 
 ## S
@@ -198,6 +227,8 @@
 - sputter <--> putter
 - silt <--> slit <--> milt
 - solicit <--> solicitude <--> solicitous
+- stand <--> strand
+- struggle <--> straggle
 - subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T
@@ -210,5 +241,7 @@
 - vocation <--> vacation
 
 ## W
+- weather <--> wether
 - wrap <--> warp
 - wrinkle <--> crinkle
+- write <--> writhe

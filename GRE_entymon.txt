@@ -566,6 +566,7 @@
 	blanc, blea 白 = white, pale
 		- blanch (v)使(植物)變白, 使(臉色)蒼白 = appall, 川燙
 		- bleach (v)漂白/使褪色 (n)漂白劑
+		- bleacher (n)漂白業者/漂白劑, 廉價露天座位
 
 	bore 厭煩
 		+ bore (v)鑽孔, 使厭煩 (n)無趣之人/令人厭煩之物, 孔/口徑 = caliber <|> pore
@@ -833,6 +834,7 @@
 		- cursive (adj)草寫的 (n)草寫的字母/草寫體的文件
 		- concourse (n)中央大廳, 一群, 匯合/集合
 		*** course (n)課程, 競賽場地, 進展/進程, 路線, 一道菜, 療程 (v)流動/奔流 <|> court
+		- courier (n)信差/遞送員 (v)通過遞送員遞送
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
 		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
 		- excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
@@ -1042,7 +1044,7 @@
 
 	cuse 理由
 		* accuse (v)指控 = charge, 指責 = allege = blame = censure = denounce --> accused (adj)被指控的 (n)被吿
-		- excuse (n)藉口 (v)原諒, 辯解, 免除責任
+		+ excuse (n)藉口/托詞 = pretext, 請假條 (v)辯解, 原諒, 免除責任, [oneself]抱歉/失陪
 
 	chemy 化學
 		+ alchemy (n)煉金術
@@ -1228,6 +1230,7 @@
 		- cholecystitis
 
 	chor, chore, choir 歌舞/舞蹈 = dance == balle
+	 	- chore (n)雜務/家務活
 		- choral (adj)歌唱隊的, 合唱的
 		- choreography (n)編舞/舞蹈編排/舞蹈設計
 		- chorus (n)合唱曲, 合唱團, 歌舞隊, 副歌, 異口同聲 (v)齊聲說/異口同聲地說
@@ -1513,7 +1516,7 @@
 			* derogate
 			- desert
 			- desperate
-			- despondency (n)沮喪 = dejection
+			- despondent (adj)沮喪的 --> despondency (n)沮喪 = dejection
 			+ desuetude (n)廢棄/不用 = disuse <-- de + sue 習慣 = accustom + tude
 			+ detect --> detection
 			+ detach --> detached --> detachment
@@ -1810,6 +1813,7 @@
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
 		* /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
+		+ inducement(n)誘因, 賄賂 = bribe
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 = effective = trenchant --> productivity (n)生產力/生產率
@@ -2015,7 +2019,7 @@
 		- extinct <--> extant
 		+ extinguish (v)使...熄滅 = quench, 使...破滅 <-- ex + tingu 熄滅 = quench + ish
 		+ /ˈɛkstəːpeɪt/ extirpate (v)消滅/根除 = exterminate = eradicate, 連根拔起 --> extirpation (n)根除/滅絕 <-- ex + stirp 莖 = stem + ate 
-		* extol (v)讚美/頌揚 = exalt = laud = eulogize <-- ex + tol 舉起 = lift
+		+ extol -> extolled -> extolled (v)讚美/頌揚 = exalt = laud = eulogize <-- ex + tol 舉起 = lift
 		* extort
 		- extract --> extractive
 		- extricate --> extricable
@@ -2666,6 +2670,7 @@
 		+ /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, 群居的(動物) --> gregariousness (n)和群, 群居
 		- egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
 		- congregate (v)聚集/集合
+		- congregation (n)(宗教)會衆/信眾, 集合/會集, 宗教團體
 		+ segregate (v)分離/分開 = detach = disentangle, (尤指基於種族或性別原因)隔離
 
 	gress 走 = go, step, walk == amble == bat == cede == gress == journ
@@ -3067,7 +3072,7 @@
 			- incorruptible (adj)不腐敗的/清廉的
 			- incredulity
 			* indecent (adj)下流的/猥褻的 = bawdy = vulgar = obscene = lewd, 不恰當的
-			- indecipherable (adj)無法破譯的/難讀解的 <-- in + decipherable
+			+ indecipherable (adj)無法破譯的/難讀解的 <-- in + decipherable
 			+ indecisive (adj)遲疑不決的 = irresolute = undecided, 非決定性的/模糊的/未明確定義的 = vague = indistinct
 			+ indefatigable (adj)不知疲倦的 <-- in + de 加強 + fatigable
 			- indelible
@@ -3281,6 +3286,7 @@
 			- in-house (adj)機構內部的 (adv)獨力地/不假外力地 = internally
 			- inject --> injection
 			- injunction
+			- inlet (n)水灣/小灣, 進口/入口
 			* inmost (adj)最深處的/內心深處的 = innermost
 			- innards (n)內臟 = entrails, (機械裝置))內部
 			+ innovate (v)革新/創新 --> innovative (adj)革新的 --> innovation (n)新事物/創新 <-- in + nova 新 + te
@@ -4418,7 +4424,7 @@
 			+ /əˈbiːdɪənt/ obedient (adj)服從的/順從的 = submissive = docile = yielding = tractable = supple = compliant = servile = amenable = obsequious = dutiful --> obedience (n)服從/順從 = compliance <-- obey
 			+ /ə(ʊ)ˈbeɪs(ə)ns/ obeisance (n)敬禮/鞠躬/屈膝禮, 敬重/尊敬 = respect = deference <-- obey
 			- /ə(ʊ)ˈbiːs/ obese (adj)極肥胖的 = corpulent <|> obsess --> obesity (n)肥胖 <-- ob + ese 吃 = eat
-			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse --> obfuscation (n)模糊/困惑 <-- ob + fusc 黑暗 = dark + ate
+			+ obfuscate (v)(故意)使模糊, 使糊塗/使困惑 = bewilder = muddle = confuse = mystify --> obfuscation (n)模糊/困惑 <-- ob + fusc 黑暗 = dark + ate
 			+ obligate --> obligatory 
 			* obligation
 			*** oblige
@@ -4476,6 +4482,7 @@
 		- outspoken (adj)直言不諱的 = explict
 		+ outstrip (v)超過 = exceed = excel = surpass = transcend, 比..跑(或游、划等)得快
 		- outwit (v)以機智勝過 = overreach
+		- outwork (n)外圍工事, 外包活 (v)工作比……做得更好更快或更勤
 		* outcry (n)大聲疾呼, 強烈抗議
 
 	over 
@@ -5356,6 +5363,7 @@
 		- photics (n)光學
 		- /fəˈtɑː.ɡrə.fi/ photography (n)攝影
 		- /ˌfəʊtə(ʊ)ˈsɪnθɪsɪs/ photosynthesis (n)光合作用 --> photosynthesize (v) <-- photo + synthesis
+		- photovoltaic (adj)太陽能光電的
 
 	patri, patr 父親/本土 = father, native land
 		- /kəmˈpatrɪət/ compatriot (n)同國人/同胞
@@ -5720,7 +5728,7 @@
 			- reveal (v)展現/顯露/暴露/揭露 --> revealing (adj)揭露真相的, 袒胸露肩的 <-- re + veal 遮掩 = veil
 			+ /rɛvəˈleɪʃən/ revelation (n)被揭露的真相, 揭示/揭露, 天啓/啟示, 啟示錄 <|> revolution /rɛvəˈluːʃən/  <-- reveal
 			+ /rɪˈvɪə/ revere (v)崇敬/敬畏 = hallow = venerate = worship --> reverence (n/v)崇敬  <-- re + vere 恐懼 = fear
-			+ reverent (adj)恭敬的/虔誠的 = worshipful
+			+ reverent (adj)恭敬的/虔誠的 = worshipful 
 			+ revile (v)辱罵/謾罵 = abuse = vituperate <-- re + vile
 			+ revise
 			+ revisionist
@@ -5811,7 +5819,7 @@
 			- retrace (v)折返 = go back over, 追溯/探究…的源流 <-- re + trace
 			+ retract
 			+ retreat (n/v)撤退, 退隱 = retire, 改變心意 = realign, (股票)貶值 = decline (n)撤退信號, 降旗號, 隱退處/休養所
-			+ retrench (v)緊縮開支/緊縮/減少 <-- re + trench 切掉 = cut
+			+ retrench (v)緊縮開支/緊縮/減少 = curtail --> retrenchment (mn)緊縮開支, 縮減 = reduction <-- re + trench 切掉 = cut
 			- retribution
 			- /ˈrɛv(ə)l/ revel (n/v)狂歡/歡宴 (v)[in]著迷 --> revelry (n)(吵鬧的)狂歡/歡宴 = bacchanalia = orgy <|> reveal <-- rebel
 			- reveler, reveller (n)縱酒狂歡者
@@ -5871,6 +5879,7 @@
 	rupt 斷 = break
 		*** abrupt (adj)突然的/意外的 = sudden = unexpected, 唐突的/魯莽的 = curt = brusque = blunt, 陡峭的/險峻的 = steep = precipitous
 		- bankrupt (adj)破產的 = needy = destitute = impecunious = indigent, 徹底缺乏的 (n)破產者 (v)使破產
+		- bankruptcy (mn)破產, 徹底消失
 		+ corrupt (v)使腐化墮落 = deprave, 損壞(電腦上的資料) (adj)腐敗的/墮落的 = depraved, 被破壞的/有錯誤的(資料)
 		- corruptible (adj)易腐化墮落的/易貪污的
 		+ disrupt (v)打斷/中斷 = interrupt = disturb = breach, 使分裂/使瓦解 = disorganize --> disruption (n)中斷/擾亂
@@ -6310,6 +6319,7 @@
 
 	semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
 		- assemble (v)聚集 = aggregate = agglomerate = amass, 安裝
+		- assembly (n)一群, 與會者, 零件 (mn)集會/集合, 裝配
 		- asymmetric (adj)不對稱的
 		* assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak
@@ -6827,6 +6837,7 @@
 			* tract (n)大片土地, 道, 短文/小冊子
 			+ tractable (adj)聽話的/易控制的/易勸服的 = obedient = yielding = docile = amenable = supple = malleable = adaptable, 易處理的 --> tractability (n)溫順 <--> intractable
 			- traction (n)牽引, 附著摩擦力, 引擎, 變得流行/變得被接受, [醫]牽引療法
+			- tractor (n)拖拉機
 
 		2. 拿著 = hold, keep == tain
 			* /kənˈtɛnt/ content (adj)滿意的/滿足的 = satisfied (v)使滿意/使滿足 = sate, [oneself]勉強接受 (n)滿足 --> contentment (n)滿足/滿意 --> contented (adj)滿意的/滿足的 = content  <|> contention
@@ -6978,7 +6989,7 @@
 
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
-		- pretext (n)藉口/托詞 = disguise
+		- pretext (n)extol= disguise
 		- textile (n)紡織物/織物, [textiles]紡織業, [非]有穿衣服的人 (adj)紡織的, [非]有穿衣服的 <|> tactile
 		- texture (n)質地/質感, (文章或音樂的)特色/韻味 (V)使……具有粗糙或浮凸的紋理
 
@@ -7125,6 +7136,7 @@
 		- uncontrollable (adj)無法控制的/抑制不住的 = intractable
 		* uncouth (adj)粗野的/粗俗的 = gauche = crude
 		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick = atypical <|> inconvenient
+		+ uncritical (adj)不加批評的/不願批評的/不加鑑別的
 		- undemocratic (adj)不民主的
 		- undeserved (adj)不應得的/不該受的 <-- un + deserved
 		- undesirable (adj)令人不悅的/不受歡迎的 = unwanted (n)不受歡迎的人

@@ -60,6 +60,7 @@
 	- tour guide (n)導遊
 	- undertaker (n)殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
 	- funeral home == funeral parlor (n)殯儀館 = mortuary
+    - welder (n)焊接工人
 	
 	- rank and file (n)普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
 	- blue-collar (adj)藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
@@ -624,6 +625,7 @@
 	- peasant /ˈpɛz(ə)nt/ (n)農民, 沒教養的人/粗人
     - serf (n)農奴 --> serfdom (mn)農奴身分/農奴制 
 	- homestead (n)家園/農場, 自耕農場/公地 
+    - orchard (n)果樹園
 	- parcel /ˈpɑːs(ə)l/ (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
 	- cattle (n)牛, 牲口
 	- dairy farm (n)乳牛場
@@ -710,6 +712,7 @@
 	
 	- gamey, gamy (n)野味
 	- bratwurst (n)德國油煎香腸
+	- nachos (n)烤乾酪辣味玉米片
 
 	- Nutella (n)能多益(義大利廠商Ferrero生產的棕櫚油巧克力榛果醬)
 	- Skittles (n)彩虹糖(一種果味糖果的品牌，目前由瑪氏食品的子公司箭牌股份有限公司進行生產)
@@ -1507,8 +1510,9 @@
 
 	- Mormon (n)摩爾門教徒，研讀摩爾門經和聖經的信徒，崇拜耶穌基督和祂的教導。摩爾門經是古代美洲大陸的紀錄，教會成員藉由研讀摩爾門經和聖經可以更加了解耶穌基督和祂的教導。並且相信神依舊在現代的世代中召喚先知，並且啟示給每個人在這世代中應該要注意的事
 	- fundamentalist (n)基本教義派(指某些宗教群体試圖回歸其原初的信仰的運動), 基要主義者 (adj)基本教義派的, 基要主義的
-	- LDS Church == the Church of Jesus Christ of Latter-day Saints (n)耶穌基督後期聖徒教會，總部位於美國猶他州鹽湖城，分支遍及世界。教	會成員相信該教會復興了耶穌最初建立的教會
+	- LDS Church == the Church of Jesus Christ of Latter-day Saints (n)耶穌基督後期聖徒教會，總部位於美國猶他州鹽湖城，分支遍及世界。教會成員相信該教會復興了耶穌最初建立的教會
 
+	- Ten Commandments (n)十誡，根據《聖經》記載，是上帝耶和華藉由以色列的先知和首領摩西向以色列民族頒布的律法中的首要的十條規定
 	
 	- priesthood == The office or position of a priest.
 	- deacon (n)助祭/執事
@@ -1913,6 +1917,8 @@
 
 [House/Furniture]
 	- chore /tʃɔː/ 雜務 == A routine task, especially a household one.
+	- chore list (n)瑣事表，用於跟踪和組織家務的清單，通常是父母用來發布期望孩子做家務的方式
+
 	- butler == The chief manservant of a house.
 	- manor 莊園 == A large country house with lands.
 	+ cottage 小屋/村舍 == A small house, typically one in the country.
@@ -2104,6 +2110,7 @@
 
 	- tenpin bowling (n)十瓶制保齡球/保齡球，是由持球者使球延著木製球道或是合成球道，朝著球道終端排成正三角形的十個球瓶使球旋轉前進，目標是要擊倒球瓶的運動
 	- rodeo (n)牛仔競技, 為打烙印而驅集牧牛 (v)牛仔競技
+	- cheerleading (n)啦啦隊 (adj)啦啦隊的
 
 
 	+ athlete /ˈaθliːt/ 運動員 --> athletic /aθˈlɛtɪk/ (adj)運動員的, 運動的/體育的
