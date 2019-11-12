@@ -24,6 +24,7 @@
 		    - /əˈdʒeɪs(ə)nt/ adjacent (adj)隔壁的/毗鄰的 = adjoining = contiguous = neighboring <-- ad + jac 躺 = lie + ent
 			+ adroit (adj)靈巧的/熟練的/精明的 = adept = ingenious <-- a + droit 正確的 = straight, just, correct
 			- acquaint (v)[with]使認識/介紹, 熟悉/了解 <-- ac + quaint 知道 = know == gnost
+			- acquaintance (mn)知識/經驗, 了解 (n)相識的人
 			+ acquiesce
 			+ adduce
 			+ adjunct
@@ -967,6 +968,7 @@
 		* chant (n)聖歌 (v)歌唱/背誦/吟誦
 		- disenchant (v)使醒悟/使不抱幻想
 		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
+		- incant (v)吟唱/吟誦 = cant = intone --> incantation (n)咒文
 		+ incentive (n)刺激因素/誘因 = stimulus = motive
 		+ recant (v)宣佈放棄 = renounce = relinquish = disavow = forswear = abjure  --> recantation (n)改變宗教信想/改變論調
 
@@ -2074,7 +2076,7 @@
 		- enfetter (v)給...上腳鐐, 束縛
 		++ engage (v)吸引/佔用 = attract = occupy = appeal, [in](使)參與 = involve, [with]接觸/嚙合, 啟動(機械), 聘雇 = hire, 答應/保證 = pledge, 交戰/交手
 		* engaged (adj)忙碌的 = bustling, 從事……的, 訂婚的
-		* engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
+		+ engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
 		+ engender
 		- engrave (v)雕刻, 銘記
 		- engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
@@ -2798,6 +2800,7 @@
 	gest 帶來/帶著 = carry, bear == fer
 		* congest (v)使充滿/使擠滿/使壅擠, 充血 --> congestion (n)壅擠, 充血
 		- digest (v)消化, 理解/吸收 (n)文摘/摘要 --> digestion (n)消化/消化能力
+		- digestible (adj)可消化的(食物), 容易瞭解的(資訊)
 		- ingest (v)攝取/嚥下, 吸收 --> ingestion (n)攝取/吸收
 
 	gru 一致 <-- gree
@@ -2974,6 +2977,7 @@
 		- hemostat (n)止血器, 止血劑
 
 	herb 草 = plant
+		- herbage (n)草, 牧草
 		- herbicide
 		+ herbivorous (adj)草食的 <--> carnivorous
 		- herbaceous (adj)草本的
@@ -3441,7 +3445,8 @@
 		+ transitory
 
 	idio 獨特的/唯一的 = peculiar
-		+ idiosyncrasy (n)氣質/風格/特點 = characteristic = habit = quirk, 特異體質 --> idiosyncratic (adj)獨特的/特性的 = peculiar = unconventional
+		+ idiosyncrasy (n)氣質/風格/特點 = characteristic = habit = quirk, 特異體質 
+		+ idiosyncratic (adj)獨特的 = peculiar = individual
 		- /ˈɪdɪəlɛkt/ idiolect (n)個人的講話風格
 		- idioventricular (adj)心室的
 
@@ -3487,6 +3492,7 @@
 		- injure (v)傷害, 受傷, 危害/損害
 		- injury (n)傷害/損害 = damage = harm --> injurious (adj)有害的 = harmful, 誹謗的/中傷的
 		+ justify (v)證明……是正當的/是..的好理由 = warrant, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
+		+ justified (adj)[in]有正當理由的
 		+ justifiable (adj)可辯護的/有道理的 = defensible
 		+ objurgate (v)申斥/痛罵 = scold = rebuke --> objurgation (n)
 
@@ -3666,7 +3672,7 @@
 		- subliminal (adj)潛意識的/下意識的
 
 	lign 木頭 = line
-		- align (v)排成一直線, 支持, 結盟 = associate = affiliate
+		+ align (v)使成一條直線, 放..在正確的位置, [oneself with]支持 = support, 結盟 = ally = affiliate = join
 		- ligneous (adj)木質的/木頭的 = woody
 		- lignify (v)木質化
 
@@ -3676,6 +3682,7 @@
 		+ amulet (n)護身符
 		- bracelet
 		- /ˈbʊklɪt/ booklet (n)小冊子 = brochure = pamphlet
+	    - islet (n)小島 = isle
 		- leaflet (n)傳單 = handbill, 小葉/嫩葉 (v)發傳單
 		- pamphlet (n)小冊子 = booklet = brochure
 		- droplet (n)小水滴
@@ -3818,6 +3825,7 @@
 		- lithography (n)平板印刷術 = offset
 		- lithosphere (n)岩石圈 <--> asthenosphere
 		+ monolith --> monolithic
+		- Mesolithic (adj)中石器時代的 (n)中石器時代/細石器時代(位於舊石器時代和新石器時代之間的年代，然後結束於農業的出現)
 		- neolithic
 
 	lachrym 眼淚 = tear
@@ -4517,6 +4525,7 @@
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ /əʊvəˈwiːnɪŋ/ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
 			+++ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
+			- overwinter (v)過冬
 			++ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
 		2. 在上 = above == up
@@ -6210,6 +6219,7 @@
 		- infrastructure
 		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
 		- instruction (n)命令/指示, 用法說明/操作指南 (mn)教學/教育
+		+ instructor (n)教練/指導者, 大學講師
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
 
 	stall 放 = put, place == the == pos
@@ -6501,7 +6511,7 @@
 
 	sure 肯定
 		- assure (v)使確信, [oneself]確認 = make sure of, 確保, 保障
-		- reassure (v)使安心/使消除疑慮
+		* reassure (v)使安心/使消除疑慮
 
 	string, strain, strict 拉緊 = draw tight, draw togerher
 		+ /əˈstrɪn(d)ʒ(ə)nt/ astringent (adj)收縮的, 酸澀的(味道), 辛辣的/尖刻的 = acerbic = severe = harsh (n)止血劑
@@ -7472,7 +7482,7 @@
 		- convalesce (v)康復/休養 --> convalescent (adj)療養的/康復中的 (n)處於康復期的病人
 		- equivalent (adj)[to]相同的/等值的 (n)相等物/等價物, 當量 = equivalent weight
 		+ prevalent (adj)流行的/盛行的/普遍的 = rife = widespread --> prevalence (mn)流行/普遍 = commonness
-		- valiant (adj)勇敢的/英勇的 = courageous = heroic = stalwart
+		* valiant (adj)勇敢的/英勇的 = courageous = heroic = stalwart
 		+ valid (adj)有根據的/令人信服的 = compelling, 合法的/有效的 --> /vəˈlɪdɪti/ validity (mn)正確/合理, 有效性/效力
 		+ validate (v)證實 = prove = substantiate, 使生效
 		- valor (n)勇氣/英勇 --> valorous (adj)勇敢的/英勇的 = valiant

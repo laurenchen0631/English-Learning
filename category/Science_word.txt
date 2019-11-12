@@ -95,6 +95,7 @@
 	- masurium (n)鎝
 	- technetium /tɛkˈniːʃɪəm/ (n)鎝(其所有同位素都具有放射性，是原子序最小的非穩定元素)
 	- plutonium (n)鈽
+	- iodine /ˈʌɪədiːn/ (n)碘, 碘酒
 
 	- particle (n)微粒 --> particulate /pɑːˈtɪkjʊlət/ (adj)微粒的 (n)微粒狀物質
 	- atomic /əˈtɒmɪk/ (adj)原子的, 無法分割的, 原子能的
@@ -149,12 +150,15 @@
 	- asbestos (n)石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
 	- alkaloid (n)生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
 	- protein (n)蛋白質
+	- crude protein (n)粗蛋白質
 	- deoxyribonucleic acid /dɪˌɒksɪrʌɪbəʊnjuːˈkleɪɪk/ (n)去氧核糖酸 == DNA
 	- Plexiglas (n)聚甲基丙烯酸甲酯，又稱做壓克力、亞克力或有機玻璃
 	- thiourea /ˌθʌɪə(ʊ)jʊˈriːə/ (n)硫脲，是尿素中的氧被硫替代後形成的化合物
 	- meth (n)甲基苯丙胺, 美沙冬(適用於緩解疼痛以及維持治療，或用於幫助戒毒人士擺脫鴉片依賴), 甲醇化物
 	- saline /ˈseɪlʌɪn/ (adj)含鹽的 (n)鹽水/生理食鹽水
 	- radiocarbon (n)放射性碳
+    - silicone (n)矽樹脂/硅酮
+
 
 [Physical]
 	- entropy (n)熵, 混亂/失序

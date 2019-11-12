@@ -16,7 +16,7 @@
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blot <--> bolt <--> colt
-- bluff <--> cliff <--> fluff <--> flurry
+- bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bound <--> hound
@@ -24,7 +24,7 @@
 - bribe <--> bride <--> bridle
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
-- bumble <--> fumble
+- bumble <--> fumble <--> grumble
 - burnish <--> furnish <--> furbish
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
@@ -32,6 +32,7 @@
 ## C
 - cabin <--> cabinet
 - cache <--> cachet
+- callow <--> fallow
 - calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
@@ -81,13 +82,15 @@
 - despot <--> unspotted
 - deterrent <--> determinant
 - dew <--> pew
+- digest <--> ingest
 - dim <--> din <--> dingy
 - dilatory <—> dilate
+- disciple <--> discipline
 - discomfort <--> discomfit
 - discreet <--> discrete
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt
-- dizzy <--> drizzle <--> guzzle
+- dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -104,14 +107,17 @@
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethnic
+- expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
 - fare <--> ware
 - falcon <--> felon
+- fall <--> fell
 - fallow <--> callow <--> follow
 - faux <--> flax <--> flex <---> flexible
+- feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
 - fetid <--> fetish
 - fib <--> dibs
@@ -119,32 +125,36 @@
 - fit <--> fitful
 - flagrant <--> fragrant
 - flake <--> flak <--> flank <--> flask
-- flare <--> blare <--> glare <--> glaze
+- flare <--> blare <--> glare <--> glaze <--> gaze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch
 - flint <--> flit
+- flunk <--> funky
 - frail <--> flail <--> fragile
-- fraught <--> fright <--> draught
-- fright <--> fraught
-- front <--> frond
+- fright <--> fraught <--> draught
+- front <--> frond <--> froth
 - fruit <--> bruit
 
 ## G
 - gaffe <--> guffaw
 - gallery <--> galley
 - gambit <--> gamble <--> gambol
+- garble <--> gargle
 - gawk <--> hawk
 - germ <--> germane
+- gig <--> giggle <--> goggle <--> gaggle
 - gird <--> grid <--> girder
 - git <--> grit
 - glean <--> clean
 - glib <--> gild
 - gloat <--> bloat
-- glum <--> glam <--> glue <--> slum
+- glum <--> glam <--> glue <--> glee <--> slum
+- gob <--> fob
 - grab <--> drab <--> drag
-- grovel <--> grove <--> groove <--> gravel <--> gavel
+- gross <--> gloss
+- grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
 - grouse <--> arouse
-- gush <--> gash <--> gasp <--> gust <--> bust <--> oust <--> rust
+- gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter
 
 ## H
 - habilitate <--> rehabilitate
@@ -172,13 +182,16 @@
 - husk <--> hulk <--> hull
 
 ## I
+- idiom <--> idiot
 - indolence <--> insolence
 - inveigh <--> inveigle
-- ingenious <--> ingenuous <--> ingenuity
+- ingenious <--> ingenuous <--> ingenuity <--> disingenuous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate
+- inter <--> intern
 - intransigent <--> transient
 - invidious <--> insidious
+- irritate <--> irrigate
 
 ## L
 - lie <--> lay

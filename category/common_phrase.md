@@ -410,6 +410,8 @@
 	- If this doesn't work we're back to square one.
 - behind the wheel 駕駛
 	- After many hours behind the wheel, I was ready to stop.
+- breathe life into sth 帶來起色/注入活力 == to bring new ideas and energy to something
+	- We need some new people to breathe life into this project.
 - bring sb in line 帶..回到正軌 == to force someone or something to be similar or of the same standard as someone or something else
 	- If you change a word, the others will usually bring you in line. 
 	- Teachers say the raises would bring their salaries into line with other public workers.
@@ -532,6 +534,10 @@
 	- I have a good mind to go without him if he's going to be such an idiot!
 - It's your call 這是你自己的決定 == it's your decision
 	- Nobody can make this decision for you - it's your call. 
++ live up to sth 實踐/遵守/無愧于
+	- Everyone ought to live up to what he knows to be right.
+	- Students should live up to certain standards of behavior. 
+	- You must live up to your promise.
 - make up one's mind 下決心 == to decide
 	- I haven`t made up my mind where to go yet.
 	- She made up her mind to call him again.
@@ -564,7 +570,9 @@
 	- For punctuation she used dashes "with such abandon" that her manuscripts have constantly frustrated their editors.
 - with sth in mind 對..有所計畫 == to have a plan or intention
 	- Did you have anything in mind for Helen`s present?
-
+- zero in on sth 把注意力全部集中於
+	- We must decide on our target market, then zero in on it.
+	
 ## Emotion
 - ill at ease 不安/不自在
 	- He seemed ill at ease and not his usual self.
