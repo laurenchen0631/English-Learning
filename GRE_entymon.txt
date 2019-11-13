@@ -176,6 +176,7 @@
 
 	ante, ance, anti 前 = before
 		+ ancestor (n)祖先 = antecedent, 原型 --> ancestry (n)家系
+		- antechamber (n)前廳
 		+ antedate (v)早於...存在
 		+ /ˌantɪdɪˈluːvɪən/ antediluvian (adj)史前的, 老套的
 		* antecede (v)先於 = precede
@@ -256,6 +257,7 @@
 		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
 		- aeroponics (n)無土種植法
 		-  /ɛːˈrəʊbɪks/ aerobics (n)有氧運動
+		- aerosol (n)氣膠(指固體或液體微粒穩定地懸浮於氣體介質中形成的分散體系，其中顆粒物質則被稱作懸浮粒子) --> aerosolize (v)氣膠化
 
 	agog 引導 = lead, guide
 		+ demagog, demagogue
@@ -839,7 +841,7 @@
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
 		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
 		- excursion (n)遠足/短途旅行, 離題 = digression --> excursive (adj)離題的
-		- incur (v)招惹
+		- incur (v)招致
 		+ incursion (n)侵略/入侵/襲擊 = invasion
 		- occur (v)發生/出現/被想起 --> occurence (n)事件 = event = incident, 發生/經常性發生, 出現/發現
 		+ precursor (n)先驅/先兆 = forerunner = predecessor, 先驅物質
@@ -1473,6 +1475,7 @@
 			+ demand --> demanding
 			+ demur
 			+ denigrate
+			- denude (v)使裸露/剝下
 			- delinquent
 			+ desiccate --> desiccated
 			+ detail
@@ -2226,7 +2229,7 @@
 	emi, emia 血 = blood == hemo
 		- anemia (n)貧血
 		+ anemic (adj)貧血的, 無活力的
-		- leukemia (n)白血病/血癌
+		- leukaemia, leukemia (n)白血病/血癌
 		- hyperemia (n)充血
 
 	ess 存在 = be
@@ -2253,6 +2256,7 @@
 		- electroencephalographic (adj)腦電圖的
 		* electric (adj)靠電力運作的/用電的, 令人震驚的 (n)靠電運作的交通工具/電車
 		* electrical (adj)電的, 電器的 (n)電氣設備/電路
+		- electrician (n)電工/電氣技師
 		- electrocute (v)使觸電致死/用電刑處死
 		- electron (n)電子
 		- electrostatic (adj)靜電的
@@ -3160,6 +3164,7 @@
 			- inviolable (adj)不可褻瀆的/不可侵犯的 <-- in + viol(ate) + able
 			* involuntary
 			- invulnerable (adj)無法傷害的
+			- irradiate (v)使受放射線照射, 照耀/照亮 = illuminate
 			+ irrational (adj)無理由的, 不合理的/不合邏輯的 = illogical = inconsequential
 			- irreproachable (adj)無法批評的/無缺點的 = impeccable = faultless
 			- irreconcilable (adj)不能協調的/不合的/矛盾的 <-- ir + reconcilable
@@ -3300,7 +3305,7 @@
 			- inquiry
 			+ inquisitive
 			- inquisition
-			- inroad (n)襲擊/突襲, 侵害/侵入
+			- inroad (n)襲擊/突襲, [make inroads in/into/on]侵害/侵入
 			- inscribe
 			- insider (n)局內人/圈內人
 			+ insidious
@@ -3856,9 +3861,11 @@
 		+ misattribute (v)誤歸功於
 		- misbehavior (n)不禮貌/品行不端
 		- miscalculate (v)計算錯誤, 錯誤地評估
+		- miscarriage (n)流產, 失敗
 		- misconception (n)誤解
 		- misdemeanor (n)小錯, 輕罪 = peccadillo
 		- misdeed (n)惡行/罪行
+		- misfire (v)(槍彈)射不出/啞火, (引擎)無法啟動, (神經)無法傳送神經訊號, (計畫)失敗 (n)啞火, 引擎無法啟動
 		- misfit (n)與社會脫節的人
 		- mischief (n)頑皮/淘氣, 胡鬧/惡作劇, 傷害/危害 --> mischievous (adj)淘氣的 = wanton = wicked, 有害的/惡意傷人的 = harmful <-- mis + (a)chieve
 		+ misconstrue (v)誤解/曲解 = misinterpret
@@ -3962,6 +3969,7 @@
 		* mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
 		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
+		- commandeer (v)徵用, 霸佔, 徵募 = enlist
 		++ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
 		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)艱難的 = taxing, 不易滿足的
 		- recommend (v)推薦 = commend, 建議 = suggest = advise
@@ -4086,7 +4094,7 @@
 	muni 禮物 = gift
 		+ /mjʊˈnɪfɪsənt/ munificent (adj)慷慨的/寬宏的 = very generous = bountiful = liberal --> munificence (n)慷慨/寬宏大量 = generosity
 		- /mjʊˈnɪʃən/ munition (n)軍火/彈藥 = weapons and ammunition = ordnance (v)提供軍火
-		- ammunition (n)彈藥
+		- ammunition (n)彈藥, (用來支持自己論點的)資訊/事實
 
 	monstr 顯示 = show
 		++ demonstrate (v)示範/展示, 證明/論證, 顯示/表露, 參加示威
@@ -6236,7 +6244,7 @@
 		+ ascribe (v)歸功於/歸咎於 = attribute = impute
 		+ conscript (v)徵召入伍 = enlist (n)應徵入伍者
 		+ circumscribe
-		- inscribe (v)題寫/刻寫/在某物上寫, 題贈
+		- inscribe (v)題寫/刻寫/在某物上寫, 題贈, [幾何]内切
 		- manuscript
 		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin --> prescription (n)處方, 命令/指示
 		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce <|> prescribe
@@ -6312,6 +6320,7 @@
 		* expire (v)去世, 期滿/到期, 呼氣 = exhale --> expiration (n)期滿/中止 = termination, 吐氣 = exhalation
 		- perspire (v)出汗 = sweat
 		- respire (v)呼吸 = breathe --> respiration (n)呼吸, 一次呼吸
+		- respirator (n)口罩/防毒面具, 人工呼吸機
 		- transpire (v)[it]被揭露 = be revealed, 發生 = occur = happen, (植物)蒸散
 
 	sail, sault, sult, sil, sali 跳 = leap, spring
@@ -7090,6 +7099,12 @@
 	therap 治療 = heal
 		- therapy (n)治療, 療法
 		- /ˌθɛrəˈpjuːtɪk/ therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物 --> therapeutics (n)治療學
+
+	thermo, therm 熱 = heat
+		- geothermal
+		- thermal (ad)熱的, 地熱的, 隔熱的 (n)熱氣流, 隔熱衣
+		- thermonuclear (adj)氫彈的/核熱的
+		- thermostat (n)恆溫器
 	
 	tox 毒/弓 = bow
 		- detoxify (v)解毒, 戒毒/戒酒
@@ -7190,6 +7205,7 @@
 		- unjust (adj)不義的/不法的 --> unjustly (adv)不義地/不法地
 		- unkempt (adj)未梳理的/蓬亂的/不整潔的
 		- unleash (v)解開……的皮帶, 使被釋放
+		- unlined (adj)未標線的, (衣服)沒有襯裡的
 		* unmitigated (adj)全然的/完全的 = absolute = unqualified = unreserved
 		- unmoved (adj)無動於衷的/冷漠的, 不動搖的/堅定的
 		+ unnerve (v)使失去勇氣/使氣餒 = dishearten = discourage = dispirit
@@ -7245,6 +7261,7 @@
 		+ untempered (adj)無節制的, 未經錘鍊的
 		+ untenable (adj)難以防守的/站不住腳的 
 		+ untested (adj)未經考驗的/未經試驗的
+		- unthinkable (adj)難以想像的/難以置信的
 		- unthreatening (adj)不具威脅的
 		+ untimely (adj)(結束或死亡)過早的, 不適時的
 		- untold (adj)無數的/數不清的, 未被講述的
@@ -7533,7 +7550,7 @@
 		+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 高度傳染性的 = infective, 充滿敵意的 = hateful = hostile
 
 	viv 活 = live
-		+ /kənˈvɪvɪəl/ convivial (adj)友好的/愛交際的 = friendly = agreeable = sociable, 歡樂的 = jolly = jovial = merry = joyous = boon --> conviviality (mn)歡樂
+		+ /kənˈvɪvɪəl/ convivial (adj)友好快活的 = friendly = jovial, 歡樂的 = jolly = merry = joyousconfound --> conviviality (mn)歡樂
 		- revive (v)(使)甦醒/復原/復興 = resurrect --> revival (n)甦醒/復活, 復興/再流行
 		- survive (v)倖存, 比……活得長
 		- vivacious (adj)(女性)活潑的/快活的 = sprightly = scintillating = animated

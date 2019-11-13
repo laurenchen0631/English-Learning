@@ -11,12 +11,12 @@
 
 ## B
 - bail <--> bait <--> gait
-- ballad <--> ballast <--> ballot
+- ballad <--> ballast <--> ballistic <--> ballot
 - banquet <--> bouquet <--> boutique
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blot <--> bolt <--> colt
-- bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> fuzzy <--> fussy
+- bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bound <--> hound
@@ -25,6 +25,7 @@
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble
+- bump <--> hump
 - burnish <--> furnish <--> furbish
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
@@ -54,6 +55,7 @@
 - coax <--> hoax
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble
 - collusion <--> collision
+- command <--> commend <--> commandeer
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
 - cooperate <--> corporate <--> coop
@@ -70,12 +72,12 @@
 - creak <--> creek <--> creep
 - cruel <--> gruel <--> grueling
 - cruise <--> bruise
-- cuddle <--> fuddle <--> muddle
+- cuddle <--> fuddle <--> muddle <--> saddle
 - curate <--> curator
 - curb <--> cub
 
 ## D
-- daunt <--> flaunt <--> gaunt <--> taunt <--> vaunt
+- daunt <--> flaunt <--> gaunt <--> jaunt <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
 - deft <--> daft
@@ -121,7 +123,7 @@
 - feign <--> foreign <--> deign <--> reign
 - fetid <--> fetish
 - fib <--> dibs
-- fickle <--> freckle
+- fickle <--> freckle <--> heckle
 - fit <--> fitful
 - flagrant <--> fragrant
 - flake <--> flak <--> flank <--> flask
@@ -129,7 +131,7 @@
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch
 - flint <--> flit
-- flunk <--> funky
+- flunk <--> funky <--> hunker
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught
 - front <--> frond <--> froth
@@ -140,7 +142,7 @@
 - gallery <--> galley
 - gambit <--> gamble <--> gambol
 - garble <--> gargle
-- gawk <--> hawk
+- gawk <--> hawk <--> hawker
 - germ <--> germane
 - gig <--> giggle <--> goggle <--> gaggle
 - gird <--> grid <--> girder
@@ -152,34 +154,40 @@
 - gob <--> fob
 - grab <--> drab <--> drag
 - gross <--> gloss
-- grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
+- grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave <--> hovel <--> shove <--> shovel
 - grouse <--> arouse
-- gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter
+- gush <--> gash <--> gasp <--> grasp <--> gust <--> cusp <--> gut <--> gutter
 
 ## H
 - habilitate <--> rehabilitate
+- hale <--> hare
+- hangar <--> hanger <--> hanker
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow 
 - haul <--> hurl <--> overhaul
+- haze <--> hazel
 - head <--> heady <--> heed
 - hearse <--> rehearse
 - hearten <--> heathen
 - heave <--> heaven <--> haven <--> upheave
 - hector <--> hectic <--> sector
+- heed <--> weed
 - hermetic <--> heretic <--> hermit <--> helmet
 - hen <--> hem
 - hide <--> hideous
 - histrionic <--> historic <--> hysterical
 - hoard <--> board <--> hoary
+- hoe <--> hog
 - homage <--> homily <--> homey <--> homie <--> hone
 - hop <--> hoop <--> hoof
 - hospitable <--> hospital
+- hostel <--> hotel
 - humbug <--> hamburger
 - humiliate <--> humility <--> humble
 - hurdle <--> hurtle
 - hubris <--> debris
 - hurdle <--> hurtle <--> curdle
 - husband <--> husbandry 
-- husk <--> hulk <--> hull
+- husk <--> husky <--> hulk <--> hull
 
 ## I
 - idiom <--> idiot
@@ -192,6 +200,9 @@
 - intransigent <--> transient
 - invidious <--> insidious
 - irritate <--> irrigate
+
+## J
+- jockey <--> hockey
 
 ## L
 - lie <--> lay
@@ -246,6 +257,7 @@
 
 ## T
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
+- toll <--> atoll
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
@@ -254,7 +266,11 @@
 - vocation <--> vacation
 
 ## W
+- waive <--> wave
 - weather <--> wether
 - wrap <--> warp
 - wrinkle <--> crinkle
 - write <--> writhe
+
+## Z
+- zealous <--> jealous
