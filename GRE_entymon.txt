@@ -414,7 +414,7 @@
 		+ artificial (adj)人造的 = faux = synthetic, 假的 = faux = synthetic
 		- artifice (n)巧技, 詭計 = contrivance = finesse = ruse
 		*** article (n)文章, 物品/物件, 商品 = commodity, 條款
-		+ artful (adj)有技巧的, 熟練的 = dexterous, 狡詐的/詭計多端的 = wily = crafty = cunning = subtle, 人造的 = artificial
+		+ artful (adj)精明的/狡詐的 = wily = crafty = cunning, 有創意的/有品味的
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
 		- artsy, arty (adj)附庸風雅的
 		* /ˈɑːtɪstri/ artistry (n)藝術才能
@@ -1729,6 +1729,7 @@
 		+ dictum (n)名言/格言 = adage = aphorism
 		- edict (n)敕令/官方命令
 		- indicate (v)指示/指出/表明, 象徵/暗示
+		* indicative (adj)[of/that]象徵的/暗示的, [文]直說法的 (n)直說法
 		+ indict (v)起訴/控告 = accuse = inculpate --> indictment (n)起訴書 (mn)控告/告發
 		+ interdict (v)禁止 = prohibit = forbid, 切斷補給
 		+ malediction (n)詛咒 = curse = imprecation <--> benediction
@@ -1818,7 +1819,8 @@
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
 		* /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
-		+ inducement(n)誘因, 賄賂 = bribe
+		+ inducement (n)誘因, 賄賂 = bribe
+		+ inductive (adj)歸納的, 電磁感應的
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 = effective = trenchant --> productivity (n)生產力/生產率
@@ -2661,7 +2663,7 @@
 
 	grav, griev 重/沈重 = heavy
 		* aggravate (v)加重/惡化 = exacerbate
-		++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn (n)墓穴, 死亡
+		++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn = grim (n)墓穴, 死亡
 		- /ˈɡrav(ə)l/ gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
 		- gravitas (n)莊嚴的舉止/莊重
 		- gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
@@ -4596,6 +4598,7 @@
 
 	ori 升起 = rise
 		* aboriginal (adj)原住民的 (N)原住民
+		- disorient, disorientate (v)使困惑
 		- orient (v)確定方向, 熟悉環境 (n)東方/亞洲, 優質珍珠 (adj)東方的 = oriental, 正在升起的 = rising, 有光澤的 = lustrous
 		- orientation (n)定位/定向, 方向/方位, 方向感, 定位, 性取向, 適應/熟悉, 情況介紹
 		- origin (n)起源/由來/起因, 出身/門第/血統, 原點
@@ -5093,6 +5096,7 @@
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
 			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
+			+ passivity (n)被動/消極以對, [化]不活性/鈍態
 		    * passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
 			- impassioned (adj)充滿激情的/熱烈的 <--> impassive <--> unimpassioned
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
@@ -7197,6 +7201,7 @@
 		+ unguided (adj)無導向的, (飛彈)無導向裝置的
 		- unimpassioned (adj)心平氣和的
 		+ unimpeachable (adj)無可置疑的 = trustworthy <-- un + impeach + able
+		+ uninformed (adj)無知的/不了解情況的
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/無專門知識的 = inexperienced
 		+ unintelligible (adj)難理解的/晦澀難懂的
