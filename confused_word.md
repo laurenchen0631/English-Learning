@@ -24,6 +24,7 @@
 - bowl <--> bowel
 - breed <--> brood
 - bribe <--> bride <--> bridle
+- buff <--> rebuff
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble
@@ -82,7 +83,7 @@
 - curb <--> cub
 
 ## D
-- daunt <--> flaunt <--> gaunt <--> jaunt <--> taunt <--> vaunt
+- daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
 - deft <--> daft
@@ -135,7 +136,6 @@
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch
-- flint <--> flit
 - flunk <--> funky <--> hunker
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
@@ -147,14 +147,14 @@
 - gallery <--> galley
 - gambit <--> gamble <--> gambol
 - garble <--> gargle
+- gauche <--> gaudy
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
 - germ <--> germane
-- gig <--> giggle <--> goggle <--> gaggle <--> haggle
-- git <--> grit
+- gig <--> giggle <--> goggle <--> gaggle <--> haggle <--> waggle
+- git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
 - glean <--> clean
 - glib <--> gild <--> glide
-- glimmer <--> glitter
 - gloat <--> bloat <--> glower
 - glum <--> glam <--> glue <--> glee <--> slum
 - gob <--> fob <--> fop <--> fab
@@ -189,7 +189,7 @@
 - hoard <--> board <--> hoary
 - hoe <--> hog
 - homage <--> homily <--> homey <--> homie <--> hone
-- hop <--> hoop <--> hoof
+- hop <--> hoop <--> lop <--> hoof 
 - hospitable <--> hospital
 - hostel <--> hotel
 - humbug <--> hamburger
@@ -221,14 +221,21 @@
 - jot <--> jolt <--> jostle
 
 ## L
+- lascivious <--> luscious
+- lava <--> larva
+- leave <--> leaf <--> leaven
 - leer <--> leery
+- liable <--> liability
+- lair <--> liar
 - lie <--> lay
 - list <--> listless
 - listen <--> glisten
 - little <--> litter <--> liter
 - loath <--> loathe
+- lose <--> loss <--> loose
 - lucid <--> lurid
 - lurk <--> lark <--> luck
+- luster <--> lust <--> lustful <--> lustrous
 
 ## M
 - mediate <--> meditate
@@ -250,6 +257,7 @@
 - perpetrate <--> perpetuate
 - persecute <--> prosecute
 - principle <--> principal
+- predicate <--> predicament
 - preeminent <--> prominent 
 - private <--> privation
 - probity <--> probate
@@ -284,6 +292,7 @@
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
+- tug <--> tuck
 
 ## V
 - vocation <--> vacation
@@ -291,6 +300,7 @@
 ## W
 - waive <--> wave
 - weather <--> wether
+- whip <--> whop <--> whopping
 - whisk <--> whisky
 - wrap <--> warp
 - wrinkle <--> crinkle

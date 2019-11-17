@@ -477,6 +477,9 @@
 	- How to put strangers at ease.
 - put a/one's finger on sth 確切地指出 == to discover the exact reason why a situation is the way it is, especially when something is wrong
 	- There is something odd about him, but I cannot quite put my finger on it.
+- put a spin on sth 傳遞(資訊) == To report or relay information to someone else in a way that makes their interpretation or understanding of it more palatable, acceptable, or favorable.
+	- Though the crime rate was still higher than anywhere else in the country, the police commissioner tried to put a positive spin on the report by applauding that the city had a 10% crime reduction from the previous year.
+	- No matter what the facts are, they're going to try to put a spin on it one way or another—that's what PR companies do!
 - rear its (ugly) head (令人不快的事情)發生 == (of something unpleasant) to appear
 	- The familiar spectre of drought and famine has reared its ugly head again.
 - search/hunt high and low 到處找 == to search everywhere for something
@@ -613,6 +616,8 @@
 	- The evidence is in favor of the defendant. 
 - in full gear 在最高峰 == at the highest or maximum level of function, operation, or performance.
 	- The project is in full gear now that we have Sally on board.
+- in the grip of sth 處於(無法控制的不利局勢)中/受制於
+	- The country is currently in the grip of the worst recession in 20 years.
 - more than 非常 == very
 	- It is more than likely that there is oil here under the ground.
 	- I was more than a little curious about the whole business.

@@ -2091,7 +2091,7 @@
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge --> enlightening (adj)啟發的/令人領悟的
 		+ enlist (v)徵兵, 謀取...贊助或支持
 		- enliven (v)使活躍 <-- en + life + en
-		- enamel (mn)琺瑯, 琺瑯質, 瓷漆/瓷釉 =  enamel paint (v)給…上琺瑯 (n)琺瑯製品
+		- enamel (mn)琺瑯, 琺瑯質, 瓷漆/瓷釉 = enamel paint (v)給…上琺瑯 (n)琺瑯製品
 		- enmesh (v)使絆住/使陷入
 		+ empiric --> empirical --> empiricism
 		* enrage (v)激怒/觸怒 = livid (adj) = furious (adj)
@@ -2760,6 +2760,7 @@
 		* /ˈkɒlədʒ(ə)n/ collagen (n)膠原蛋白 <-- colla = glue + gen
 		++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
 		- congenital (adj)天生的/先天的
+		- gendered (adj)性別的
 		+ engender (v)產生/引起 = produce = cause = beget
 		+ eugenics (n)優生學
 		- general (adj)一般的 = generic, 普遍的/全體的/大體的, 首席的 = chief = principal (n)將軍
@@ -3506,7 +3507,7 @@
 	journ 日 = day, daily
 		- adjourn (v)使休會/休庭, 推遲/使延期 = defer
 		- journey (n)旅行 = jaunt
-		- journal (n)期刊
+		- journal (n)雜誌/期刊, 日記/日誌 (v)寫日誌
 		- sojourn (n/v)逗留/停留 = stay
 
 	junct, join 結合/連結 = join == arthr == articul
@@ -4528,6 +4529,7 @@
 			+ overstate (v)誇張/對...言過其實 = exaggerate
 			- overstay (v)停留得過久
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
+			- overstretch (v)使過分伸張, 做出過度的要求
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
 			+ overthrow (n/v)推翻/廢除 = subvert = topple (v)武力終結, 丟過頭, 丟過..的頭
 			- overtime (mn)加班, 加班費, 加時賽 (adv)加班地
@@ -4604,6 +4606,7 @@
 		- origin (n)起源/由來/起因, 出身/門第/血統, 原點
 		- original (adj)本來的/原始的, 原創的, 新穎的/奇特的 (n)原物/原文, 怪人 --> originality (n)創造力/獨創性, 新穎/奇特
 		+ originate (v)發源/來自 = derive from, 創始/創作 = create = initiate
+		- reorient (v)轉移注意, 找到定位
 
 	orn, orna 裝飾 = dress, equip
 		- adorn (v)裝飾/使有吸引力 = bedeck = embellish <|> adore
@@ -4974,6 +4977,7 @@
 		* /ˈprɪnsɪp(ə)l/ principal (adj)主要的/首要的 = prime, 資本的/本金的 (n)校長/社長/首長, 資本/本金, 主要演員/主角, 犯罪當事人
 		- /ˈprʌɪə/ prior (adj)在先的/在前的 (n)前科, 小修道院院長/大修道院副院長
 		- priority (n)優先/重點/優先權, 優先考慮的事/優先事項
+		- prioritize (v)優先處理, 決定優先順序
 		+ /ˈprɪstiːn/ pristine (adj)嶄新的/完好如初的 = unspoilt = untouched = intact, 清新的/未受污染的 = uncorrupted = spotless
 
 	priv 個人/搶奪 = private, rob
@@ -5807,6 +5811,7 @@
 			+ renege
 			- renegade
 			+ renounce
+			- reorient
 			- repair --> reparable --> reparation --> reparative
 			- repartee (n)機敏應答的才能 <-- re + part + ee
 			- repeal
