@@ -2,7 +2,7 @@
 - across <--> cross
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
-- aloof <--> aloft
+- aloof <--> aloft <--> loaf
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
@@ -21,14 +21,15 @@
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bound <--> hound
+- both <--> booth
 - bowl <--> bowel
 - breed <--> brood
 - bribe <--> bride <--> bridle
-- buff <--> rebuff
+- buff <--> puff <--> rebuff <--> buffoon 
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble
-- bump <--> hump
+- bump <--> hump <--> lump
 - burnish <--> furnish <--> furbish
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
@@ -59,7 +60,7 @@
 - coax <--> hoax
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble
 - collusion <--> collision
-- command <--> commend <--> commandeer
+- command <--> commend <--> commandeer <--> commence <--> commerce
 - commute <--> commune
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
@@ -95,32 +96,34 @@
 - dilatory <—> dilate
 - disciple <--> discipline
 - discomfort <--> discomfit
-- discreet <--> discrete
+- discreet <--> discrete <--> discretion
 - dispense <--> dispensable <--> indispensable
-- disturb <--> disrupt
+- disturb <--> disrupt <--> disruptive
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
 - dozen <--> doyen
 - drastic <--> dramatic
-- drive <--> drove <--> drawl <--> drivel <--> shrivel
+- drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
 - dub <--> dab <--> daub <--> dud <--> dude
 - dull <--> hull
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
 - eddy <--> ebb
+- egalitarian <--> equalitarian
 - empire <--> empiric <--> empirical
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethnic
+- exegesis <--> genesis
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
-- fare <--> ware
+- fare <--> ware <--> aware
 - falcon <--> felon
 - fall <--> fell
 - fallow <--> callow <--> follow
@@ -136,7 +139,7 @@
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch
-- flunk <--> funky <--> hunker
+- flunk <--> funky <--> hunker <--> hanker
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
 - front <--> frond <--> froth
@@ -145,8 +148,7 @@
 ## G
 - gaffe <--> guffaw
 - gallery <--> galley
-- gambit <--> gamble <--> gambol
-- garble <--> gargle
+- gambit <--> gamble <--> gambol <--> garble <--> gargle
 - gauche <--> gaudy
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
@@ -157,13 +159,12 @@
 - glib <--> gild <--> glide
 - gloat <--> bloat <--> glower
 - glum <--> glam <--> glue <--> glee <--> slum
-- gob <--> fob <--> fop <--> fab
+- gob <--> fob <--> fop <--> fad
 - grab <--> drab <--> drag
 - grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
 - gross <--> gloss
 - groundless <--> grounded
-- grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave <--> hovel <--> shove <--> shovel
 - grouse <--> arouse
 - gush <--> gash <--> gasp <--> grasp <--> gust <--> cusp <--> gut <--> gutter
 
@@ -171,7 +172,7 @@
 - habilitate <--> rehabilitate
 - hale <--> hare
 - harry <--> marry <--> parry <--> quarry
-- hangar <--> hanger <--> hanker
+- hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow 
 - hatch <--> hitch <--> hutch <--> hut <--> ditch
 - haul <--> hurl <--> overhaul
@@ -189,12 +190,11 @@
 - hoard <--> board <--> hoary
 - hoe <--> hog
 - homage <--> homily <--> homey <--> homie <--> hone
-- hop <--> hoop <--> lop <--> hoof 
+- hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
 - hostel <--> hotel
 - humbug <--> hamburger
 - humiliate <--> humility <--> humble
-- hurdle <--> hurtle
 - hubris <--> debris
 - hurdle <--> hurtle <--> curdle
 - husband <--> husbandry 
@@ -209,7 +209,10 @@
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate
+- imitative <--> initiative
 - impart <--> impartial
+- impose <--> imposing
+- inch <--> itch
 - inter <--> intern
 - intransigent <--> transient
 - invidious <--> insidious
@@ -222,25 +225,34 @@
 
 ## L
 - lascivious <--> luscious
+- launch <--> lunch
 - lava <--> larva
 - leave <--> leaf <--> leaven
+- lease <--> leash
 - leer <--> leery
 - liable <--> liability
 - lair <--> liar
 - lie <--> lay
+- lime <--> limestone
 - list <--> listless
 - listen <--> glisten
 - little <--> litter <--> liter
 - loath <--> loathe
+- lobe <--> lode <--> lodge
+- loll <--> lull
+- loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
 - lucid <--> lurid
-- lurk <--> lark <--> luck
+- lurk <--> lark <--> lurch <--> luck 
 - luster <--> lust <--> lustful <--> lustrous
 
 ## M
+- martial <--> marital
+- meddle <--> mettle
 - mediate <--> meditate
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
 - miscreant <--> recreant
+- miser <--> misery
 
 ## N
 - notion <--> notch <--> note <--> botch <--> blotch
@@ -257,7 +269,7 @@
 - perpetrate <--> perpetuate
 - persecute <--> prosecute
 - principle <--> principal
-- predicate <--> predicament
+- predict <--> predicate <--> predicament
 - preeminent <--> prominent 
 - private <--> privation
 - probity <--> probate
@@ -265,18 +277,22 @@
 
 ## R
 - raise <--> raisin
-- ravine <--> ravish <--> rave <--> ravage <--> raven
+- ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
 - reflective <--> reflexive
 - respite <--> respect
 - retrench <--> retreat <--> entrench
 - risk <--> brisk
 - roast <--> roost
 - rub <--> rubber
+- rubric <--> lubricate <--> fabricate
 
 ## S
-- sanction <--> sanctify <--> sanctimony
+- sanction <--> sanctify <--> sanctimony <--> sacrosanct
+- sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
+- scrupulous <--> unscrupulous
 - sleight <--> sleigh
 - stationery <--> stationary
+- snarl <--> gnarl
 - snitch <--> stitch
 - spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
@@ -284,17 +300,22 @@
 - solicit <--> solicitude <--> solicitous
 - stand <--> strand
 - struggle <--> straggle
+- stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
 
 ## T
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
+- tend <--> tender <--> tendentious
+- thick <--> thicket
 - toll <--> atoll
+- trapping <--> trap
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
-- tug <--> tuck
+- tug <--> tuck <--> lug
 
 ## V
+- vie <--> vile <--> vilify
 - vocation <--> vacation
 
 ## W

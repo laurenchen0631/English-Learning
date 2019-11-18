@@ -370,6 +370,8 @@
 - tongue in cheek (adj/adv)開玩笑的/說著玩的 
 	- Her latest play is a firmly tongue-in-cheek look at the world of advertising.
 	- He said that he was a huge fan of the president, although I suspect it was tongue in cheek.
+- under one's breathe 低聲地/輕聲地
+	- He muttered something under his breath.
 - word gets around 迅速傳開 
 	- "I hear you were having drinks with a tall, dark, handsome man last night." "Wow, word gets around fast, doesn't it?"
 	- She doesn't want word getting around the office that she's pregnant.
@@ -520,6 +522,8 @@
 - take hold 變強盛/確立地位
 	- The economic recovery is just beginning to take hold now.
 	- Fascism has never taken hold in the United States.
+- throw in the towel 認輸/放棄
+	- Three of the original five candidates for the Democratic presidential nomination have now thrown in the towel.
 - to and fro (adv) 往復地/來回地
 - turn sth on one's head 顛覆/顛倒 == to cause something to be the opposite of what it was before
 	- These new findings turn the accepted theories on their head.

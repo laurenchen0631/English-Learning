@@ -162,6 +162,7 @@
 			- antihistamine
 			+ antipathy
 			- antipode (n)正相反的事物
+			- antimacassar (n)椅背套
 			- antonyms
 			+ antithesis
 			- antiseptic
@@ -913,7 +914,7 @@
 		- recipient (n)接受者/收受者
 		+ /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
 		- recuperate (v)恢復/復原
-		+ susceptible (adj)易受……影響的 = liable = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)易感性
+		+ susceptible (adj)易受……影響的 = liable = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)敏感性/易受影響, 感情纖細
 
 	cide, cid 殺 = kill
 		- genocide (n)種族滅絕
@@ -1109,7 +1110,7 @@
 
 	cand, cend, cense 白/發光 = shine, white
 		++ candid (adj)率直的/直言不諱的 = frank = ingenuous, 公正的 = honest = impartial, 偷拍的 --> candidness (n)
-		+ candor (n)坦白/率直
+		+ candor (n)坦率/真誠 = frankness
 		- candle (n)蠟燭 = taper
 		- candidate (n)候選人/申請人, 考生/應試者 --> candidacy (n)候選人的資格
 		- incandescent (adj)熾熱的/白熱的, 光亮的/燦爛的 --> incandescence (n)白熾, 熾熱發光
@@ -1319,7 +1320,7 @@
 		+ conclusion (n)結尾/結束, 結論/結果 = result = outcome = settlement = arrangement, 推論 = deduction = inference
 		+ exclude (v)把…排斥在外, 排除/不考慮, 驅除 = expel = eject = thrust out
 		+ exclusive (adj)除外的, 唯一的, 獨佔的/專用的/獨有的
-		- include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
+		+ include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
 		+ /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
 		+ preclude (v)排除/防止 = prevent = avert
 		+ recluse (adj)隱遁的 (n)隱居者/隱士 = hermit --> reclusive (adj) = monastic 
@@ -1548,6 +1549,7 @@
 			- disbandment (n)團體的解散
 			- disbeliever (n)持懷疑態度的人
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
+			- discolor (v)使變色/使褪色
 			+ discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
 			- disconcert
 			* discompose
@@ -1577,6 +1579,7 @@
 			- disembody (v)脫離實體 --> disembodied (adj)無實體的, 空洞的 = fluffy
 			- disengage (v)解開/使脫離
 			- disentangle (v)解決/解開
+			- disequilibrium (n)不均衡/失調
 			- disgorge (v)嘔出 = vomit, 大量排放/流出, 不情願地提供/被迫交出, 去除酒中的沈澱物 <-- dis + gorge 喉嚨
 			- disgust --> disgusting
 			* dishearten (v)使洩氣/使沮喪 = daunt = discourage
@@ -1952,7 +1955,7 @@
 		+ eccentric
 		+ eclectic
 		+ eclipse
-		- ecstasy
+		* ecstasy --> ecstatic
 		- efface
 		+ effervesce --> effervescetnt --> effervescence
 		+ /ɪˈfiːt/ effete (adj)做作的 = affected = overrefined, 無能力的, 軟弱的/女人氣的 = effeminate <-- ef + fete 繁殖 = breeding
@@ -2486,7 +2489,7 @@
 		- figurehead (n)有名無實的領導人/傀儡領袖, 船首像
 		- figurine (n)小雕像/小塑像
 		- figment (n)虛構的事 <|> pigment
-		- prefigure (v)預示/預想/預見 = adumbrate = foreshadow
+		+ prefigure (v)預示/預想/預見 = adumbrate = foreshadow
 		- transfigure (v)美化/改觀
 
 	fet, fe 胎兒
@@ -3218,7 +3221,7 @@
 			- implore
 			** import (v)進口/輸入, 表達/使知曉 (n)進口, 意義 = meaning, 重要性 = significance = importance
 			+ importune (v)強求/煩擾 = harass = woo = solicit --> importunate (adj)強求的/纏擾不休的 <-- im + (op)portune
-			* impose
+			* impose --> imposition
 			- imposing
 			- impostor --> imposture
 			- impound (v)扣押/沒收, 將(牲畜)關在圈中, 將..關起 = lock up, (水壩)貯水/蓄水
@@ -3244,7 +3247,7 @@
 			- incipient
 			+ incise --> incision --> incisive
 			+ incite
-			- include --> inclusive
+			+ include --> inclusive
 			+ incorporate
 			- increment
 			- incriminate
@@ -3579,7 +3582,7 @@
 		- illuminati (n)先覺者/智者
 		* lucent (adj)發光的/透光的
 		- lumen (n)流明
-		- luminary (n)傑出人物/名人 = lion
+		+ luminary (n)傑出人物/名人 = lion
 		+ luminous (adj)發光的/光輝的 = bright = glowing = radiant, 清楚的/明白易懂的 = lucid
 		+ pellucid (adj)清澄的/透明的 = translucent = limpid, 明白的/易懂的 = lucid
 		+ translucent (adj)半透明的 <--> transparent
@@ -3802,7 +3805,7 @@
 	liber, libr 平衡/自由 = balance, weigh
 		++ deliberate (v)慎重考慮 = consider = contemplate = reflect = mediate (adj)深思熟慮的 = studied = measured = judicious = discreet = prudent = circumspect = measured = canny = guarded = methodical, 故意的/蓄意的 = intentional <|> debilitate
 		+ deliberation (n)審議/商議 = consideration = discussion, 深思熟慮/慎重
-		- equilibrium (n)平衡/均衡, (心裡的)平靜/安寧 = equanimity
+		- equilibrium (n)平衡/均衡, (心裡的)平靜/安寧 = equanimity <--> disequilibrium
 		+ liberal (adj)開放的/開明的 = catholic = broad-minded, 自由的 = free, [法]不拘泥於字面意義的, 通才教育的, 慷慨的/大方的 = generous = munificent, 大量的 (n)自由主義者
 		- liberality (n)慷慨, 心胸寬闊
 		- liberty (n)自由, 失禮/冒失
@@ -4028,7 +4031,7 @@
 	min, minu 突出 = jug, rise, project
 		+ eminent (adj)著名的/出眾的 = prominent = distinguished, 卓越的
 		- eminence (n)卓越/著名, 高地, 皮膚上的突起物
-		+++ /ˈɪmɪnənt/ imminent (adj)逼近的/即將發生的 = impending = momentary
+		+++ /ˈɪmɪnənt/ imminent (adj)逼近的/即將發生的 = impending
 		+ preeminent (adj)超群的/出類拔萃的 = supreme = outstanding = peerless = distinguished = dominant
 		* prominent (adj)著名的/重要的 = eminent, 顯眼的 = eminent, 突起的/凸出的
 		* prominence (mn)顯著/傑出, 突起/凸出 (n)凸出物
@@ -4706,6 +4709,7 @@
 		+ precursor
 		- predestine (v)注定
 		+ predetermine (v)預先確定/預先決定
+		- predict (v)預言/預料
 		- predicate (n)述語 (v)假設/斷定 = postulate = assert, [on/upon]使基於/使取決於 <-- pre + dica 表示 = indicate + ate
 		+ /prɪˈdɪkəmənt/ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
 		+ predilection 
@@ -4864,6 +4868,7 @@
 		++ /ɪkˈspəʊnənt/ exponent (n)倡導者/支持者, 指數 --> exponentially (adv)指數地
 		- expostulate (v)反對/抗議
 		*** impose (v)強制實行/強行收取/徵, 利用
+		- imposition (n)徵收/實施, 徵收物, 稅/責任 = tax = duty
 		- imposing (adj)壯觀的/宏偉的 = grand
 		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
 		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
@@ -5011,12 +5016,12 @@
 		+ compendium (n)綱要/概略 = summary = abstract = brief --> compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
 		+ expend (v)花費/耗費 = consume --> expense (n)支出/開支, 花錢的東西/開銷
 		+ expendable (adj)消耗性的, 無足輕重的/可消耗的
-		+ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除 --> dispensation (n)免除/豁免, 分配, 某個時期的政治或宗教制度
+		+++ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除 --> dispensation (n)免除/豁免, 分配, 某個時期的政治或宗教制度
 		* dispensable (adj)可有可無的/不必要的 = dispensable <--> indispensable
 		- dispensary (n)配藥室, 診療所, 醫療用大麻販售處
 		+ indispensable --> indispensability
-		- impend (v)將至/逼近 --> impending (adj)即將發生的/逼近的 = imminent = momentary = pending
-		- pending (adj)即將發生的 = imminent = impending = momentary, 未決的 = unfinished (prep)直到..發生
+		- impend (v)將至/逼近 --> impending (adj)即將發生的/逼近的 = imminent = pending
+		- pending (adj)即將發生的 = imminent = impending, 未決的 = unfinished (prep)直到..發生
 		- pendant (n)垂飾, 有垂飾的項鍊, 吊燈, 成對物中的一個 (adj)下垂的 = pendent
 		- pendent (adj)下垂的 = pendant, 未決的 = pending
 		- /ˈpɛndjʊləm/ pendulum (n)擺/擺錘, 來回擺動
@@ -5376,7 +5381,7 @@
 		- francophone (adj)法語圈的 (n)法語圈
 		- phone (n)電話 = telephone, [非]耳機 = headphone = earphone (v)[up]電話通知, [phone it in]敷衍了事
 		+ phony (adj)[非]]假冒的/偽造的 = bogus = counterfeit = spurious = fraudulent (n)[非]騙子/冒牌貨
-		- phonograph (n)唱機
+		- phonograph (n)留聲機 --> phonographic (adj)
 		- phonetic (adj)語音的, 語音學的, 音形一致的
 		- symphony (n)交響樂/交響曲, 交響樂團, 和諧/一致
 		- symphonic (adj)交響樂的
@@ -5602,6 +5607,7 @@
 		- acquiree (n)被收購者
 		- conquer (v)以武力征服 = overcome, 克服(問題或弱點), 成功登上(山) 
 		- conquest (n)征服 = subjugation, 征服地, 克服, 成功登上
+		- disquisition (n)專題討論 <--> memoir
 		* /ˈɛkskwɪzɪt/ exquisite (adj)精緻的, 劇烈的/強烈的, 敏銳的 = sensitive = discriminating (n)服飾過於講究的男子 = dandy
 		* inquire (v)詢問/打聽, [into]調查 = investigate --> /ɪnˈkwʌɪri/ inquiry (n)打聽/質詢, 調查
 		+ inquisitive (adj)好問的/好奇的 = intellectually curious, 刺探的 = prying
@@ -6178,7 +6184,8 @@
 		+ desist (v)停止/中止 = cease = abstain
 		+ destitute (adj)一無所有的/一貧如洗的 = impecunious = indigent = needy, [of]缺乏..的 --> destitution (n)匱乏/窮困 = penury
 		- distant (adj)遙遠的, 遠親的, 疏遠的, 冷淡的 = aloof = reserved, 漠不關心的 = remote
-		- ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥
+		* ecstasy (n)狂喜 = bliss = euphoria = joy, 入迷狀態, 合成迷幻藥 
+		* ecstatic (adj)狂喜的
 		+ extant (adj)現存的/尚存的 = surviving <--> extinct
 		- hemostat
 		- insist (v)堅決要求, [on]堅決主張, [on]堅持, 堅決認為
@@ -6199,6 +6206,7 @@
 		- restitute (v)復職/恢復, 歸還/償還 --> restitution (n)歸還, 償還/賠償, 恢復 = restoration
 		+++ restive (adj)焦躁的/不安的 = restless, 倔強的(馬) --> restiveness (n)
 		* restless (adj)焦躁的/煩躁的 = restive, 停不下來的/得不到休息的
+		+ stabilization (mn)穩定/安定
 		- stagnate (v)淤塞, 停滯 --> stagnant (adj)淤塞的, 停滯的/懶散的 = dull = sluggish --> stagnation (n)淤塞, 停滯
 		+ /steɪd/ staid (adj)沈著的/穩重的/端莊的 = sedate = respectable = unadventurous = dignified = sober = solemn = somber <-- stays
 		- stay (v)停留/留下/保持, 堅持/忍耐 (n)逗留, 制止/遏止, 胸衣
@@ -6402,6 +6410,7 @@
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
 		- /sakrəˈfɪʃəl/ sacrificial  (adj)獻祭的
 		- sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
+		+ sacrosanct (adj)極神聖的/不可侵犯的
 		* sanctify (v)使神聖化/使聖潔化 = consecrate = purify, 使可接受
 		* sanctuary (n)避難所/庇護所 = asylum = refuge, 禁獵區 = reserve, 聖殿/聖堂 = temple
 		+++ /ˈsaŋ(k)ʃ(ə)n/ sanction (n/v)認可/批准 = approve = ratify = permit = authorize, 制裁/懲罰 = penalize (n)強硬措施
@@ -6445,6 +6454,7 @@
 		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = indignation
 		++ sensation (n)知覺, 感覺, 轟動, 轟動的人或物 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
 		- sensible (adj)明智的 = reasonable, 有實用性的 = practical, 可察覺到的 
+		+ sensibility (n)敏感/識別力 = sensitivity, 纖細 = delicacy, 感覺
 		- sensitive (adj)敏感的, 神經過敏的/纖細的 = delicate, 易怒的 = cantankerous, 要審慎處理的/機密的 --> sensitivity (n)敏感, 纖細
 		- sensitize (v)[to]使敏感/使敏化 --> sensitization (n)敏化
 		+ sensual (adj)肉體上的/感官享受的
@@ -6503,6 +6513,7 @@
 
 	sorc 詛咒/巫術 = oath
 		+ /ˈɛksɔːsʌɪz/ exorcise (v)驅魔, 去除(壞念頭)
+		- exorcism (n)驅魔
 		- sorcery (n)巫術
 		- /ˈsɔːs(ə)rə/ sorcerer (n)巫師
 
@@ -7237,7 +7248,7 @@
 		- unprovoked (adj)無端的/無緣無故的(生氣等)
 		++ unqualified (adj)無資格的, 不夠格的, 無限制的/完全的 = sheer = absolute = complete = unmitigated
 		- unrealized (adj)無法實現的, 無法兌現的
-		*** unravel (v)解開/拆開, 破壞 = disintegrate, 揭開/解開
+		+++ unravel (v)解開/拆開, 瓦解 = disintegrate, 揭開/解開
 		- unreceptive (adj)不願接受的 <--> receptive
 		- unregenerate (adj)不知悔改的 = unrepentant
 		- unregulated (adj)未受管理的/未受管制的
@@ -7639,7 +7650,7 @@
 		+ /ˈvɒlənt(ə)ri/ voluntary (adj)自願的, 自發的/自覺的, 無償的 (n)禮拜前後所演奏的風琴獨奏
 
 	volat, vola 飛 = fly
-		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = fickle, 易揮發的
+		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = mercurial, 易揮發的
 		- volant (adj)能飛的/飛行的, 迅速的 = rapid
 
 	vor, vour 吃 = devour, eat up
