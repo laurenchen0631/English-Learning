@@ -61,6 +61,8 @@
 - the whole kit and kaboodle/caboodle 全部/全體
 	- once you get them talking about one case, they might as well settle the whole kit and caboodle
 	- Moving was easy back then. We decided to move to California, so we loaded everything we owned – the whole kit and caboodle – in our old car and we drove all the way across the USA.
+- all told 總共 == as a complete total
+	- There were 550 people at the festival all told.
 
 ## Value
 * the bottom fall out of sth ..的價值跌落谷底 == The value of something reached a lower point or collapsed entirely.

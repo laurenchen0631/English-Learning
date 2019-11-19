@@ -958,6 +958,7 @@
 		- exclaim (v)驚叫/呼喊 --> exclamation (n)驚叫, 感歎句/感歎詞
 		+ proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
 		- reclaim (v)取回/拿回, 使改過/使悔改 = reform, 開墾/開拓, 回收利用 = recycle (n)提取行李
+		- reclamation (n)取回, 開墾/開拓, 回收利用
 
 	celer 速度
 		+ accelerate (v)加速, 促進 = expedite = hasten <--> retard
@@ -1039,7 +1040,7 @@
 		+ credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信/易受騙
 		* recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
 		+ discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
-		- discredited (adj)名聲掃地的
+		+ discredited (adj)名聲掃地的
 		- incredulity (n)懷疑/不相信
 	
 	cumul 堆積 = heap
@@ -2029,12 +2030,12 @@
 		- extinct <--> extant
 		+ extinguish (v)使...熄滅 = quench, 使...破滅 <-- ex + tingu 熄滅 = quench + ish
 		+ /ˈɛkstəːpeɪt/ extirpate (v)消滅/根除 = exterminate = eradicate, 連根拔起 --> extirpation (n)根除/滅絕 <-- ex + stirp 莖 = stem + ate 
-		+ extol -> extolled -> extolled (v)讚美/頌揚 = exalt = laud = eulogize <-- ex + tol 舉起 = lift
+		+++ extol -> extolled -> extolled (v)讚美/頌揚 = exalt = laud = eulogize <-- ex + tol 舉起 = lift
 		* extort
 		- extract --> extractive
 		- extricate --> extricable
 		+ exuberant (adj)熱情洋溢的, 生氣勃勃的/充滿活力的, 繁茂的 <-- ex + uber 肥沃 = fertile + ant
-		- exuberance (n)繁茂, 生氣勃勃 <-- exuberant
+		+ exuberance (n)繁茂, 生氣勃勃 <-- exuberant
 		+ exude
 		- exult
 
@@ -2067,7 +2068,8 @@
 		- enchain (v)加鎖鍊於, 束縛 = enfetter
 		- enclave (n)飛地（被包圍在另外一個國家境內，和本國其他領土不接壤）, 族群/群體
 		* enclose (v)圍住, (信)附入/封入 --> enclosure (n)圈地/圍場, 圍欄/圍牆, 隔離/隱居, 附件 --> enclosed (adj)與世隔絕的
-		+ encomium (n)讚頌/頌詞 = eulogy = panegyric --> encomiast (n)讚美者 <-- en + com 迷戀 = revel + ium
+		+ encomium (n)讚頌/頌詞 = eulogy = panegyric 
+		+ encomiast (n)讚美者 --> encomiastic (adj) <-- en + com 迷戀 = revel + ium
 		- encompass (v)圍繞/包圍 = enclose = envelop = circumvent, 包含
 		- encounter (v)遭遇, 邂逅 <-- en + counter 相反 = contra
 		+ encumber
@@ -2455,7 +2457,7 @@
 
 	fract, frac, frag 碎裂 = break == rupt
 		* fraction (n)碎片, 小部分
-		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的 = irritable = peevish = quarrelsome = rebellious, 難以控制的 = unruly = refractory = disobedient
+		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的= irritable = peevish = quarrelsome = rebellious, 難以控制的 = restive  = unruly = refractory = disobedient
 		- fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
 		- /ˈfraktʃəd/ fractured (adj)破碎的, 停止運作的, 錯誤百出的(語言)
 		* /ˈfradʒʌɪl/ fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
@@ -2901,7 +2903,7 @@
 		* hereditary (adj)遺傳的, 世襲的 --> heredity (n)
 		+ /ˈhɛrɪtɪdʒ/ heritage (n)遺產 = inheritance = patrimony, 世界遺產, 傳統
 		* /ɪnˈhɛrɪt/ inherit (v)繼承, 經遺傳而獲得
-		+ /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的
+		+ /ɪnˈhɪər(ə)nt/ inherent (adj)與生俱來的 --> inherently (adv)天性地/固有地
 
 	here, hetero 不同/異 = different, other
 		* heresy (n)異端邪說
@@ -3626,7 +3628,7 @@
 		- lento (adj/adv)(音樂)緩慢
 
 	leth 死亡 = death
-		- lethal (adj)致命的 = fatal = deadly --> lethality (n)致命性/殺傷力
+		- lethal (adj)致命的 = fatal = deadly, 極其危險的 --> lethality (n)致命性/殺傷力
 		+ lethargy (n)昏睡/瞌睡, 無生氣 = lassitude = torpor = sluggishness
 		+ /lɪˈθɑːdʒɪk/ lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic = listless = spiritless = torpid
 
@@ -3811,6 +3813,7 @@
 		- liberty (n)自由, 失禮/冒失
 		- liberate (v)釋放/解放, (化學)釋放, 偷
 		+ /ˈlɪbətiːn/ libertine (n)放蕩者/性行為放縱者, 宗教思想自由者 (adj)放蕩的, 思想自由的
+		- libertinism (n)放蕩主義
 
 	licen 允許 = allow
 		+ license (n)過度自由 = undue freedom, 許可證/執照 (v)授權同意
@@ -4379,6 +4382,7 @@
 		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
 		* nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
+		- neonatal (adj)新生的 = newborn
 		- prenatal
 		- renascent (adj)再生的/復興的/復甦的
 		* /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
@@ -5488,7 +5492,7 @@
 		+ /ɪmˈpjuːn/ impugn (v)置疑/對...表示懷疑 = cast doubt upon
 		+ /ˈpjuːdʒɪlɪz(ə)m/ pugilism (n)拳擊/搏擊
 		- pugilist (n)拳擊手/拳師
-		+ /pʌɡˈneɪʃəs/ pugnacious (adj)好鬥的
+		+ /pʌɡˈneɪʃəs/ pugnacious (adj)好鬥的 --> pugnacity (mn)好鬥
 		+ /rɪˈpʌɡnənt/ repugnant (adj)令人厭惡的 = distasteful = unacceptable, [to]不一致的/敵對的 --> repugnance (n)厭惡/反感 = distaste = antagonism = disgust
 	
 	polis 城市
@@ -5585,7 +5589,8 @@
 	quadm quart 四 = four
 		- quad (n)四邊形 = quadrangle, 四胞胎之一 = quadruplet, 股四頭肌 = quadriceps muscle, 四輪摩托車 = quad bike, 四聲道 = quadraphony (adj)[非]四部組成的/四倍的 = quadruple, [非]四聲道的 = quadraphonic
 		- quadrangle (n)四邊形, 周有建築物圍繞的方院
-		- quarter (n)四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 (mn)(對敗者的)寬恕/饒命 (v)把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = traverse
+		* quadruple (adj)四倍的/四重的, 四部組成的 (v)成為四倍 (n)四倍數
+		** quarter (n)四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 (mn)(對敗者的)寬恕/饒命 (v)把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = traverse
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
@@ -5786,7 +5791,7 @@
 			+ recipe (n)食譜, 訣竅/方法
 			* reciprocate (v)給予適當的回應, 感同身受, 往復運動 <-- re + ci + pro + cate
 			+ reciprocity (mn)對等/互惠 --> reciprocal (adj)回報的/報答的, 相互的/互惠的, 倒數的 (n)倒數 <-- reciprocate
-			- reclaim
+			- reclaim --> reclamation
 			++ recoil (v)退縮/畏懼 = flinch, 彈回, [on/upon]產生反作用給 (n)彈回/跳回 <-- re + coil
 			- recollect (v)回憶/記起 = recall, [oneself]使冷靜 --> recollection (n)記起, 回憶/往事 = memory
 			+ recondite
@@ -6437,7 +6442,7 @@
 		- /ˈpəːsɪkjuːt/ persecute (v)迫害, 騷擾 = harass = distract = pester
 		- prosecute (v)告發/提告, 把…進行到底 <|> persecute --> prosecution (n)起訴/告發, 持續進行
 		- prosecutor (n)檢察官, 告訴律師
-		- secular (adj)世俗的 = temporal <--> sacred, 每一世紀發生一次的/延續幾個世紀的 (n)修道院外的教士
+		+ secular (adj)世俗的 = temporal <--> sacred, 每一世紀發生一次的/延續幾個世紀的 (n)修道院外的教士
 		- secularize (v)使世俗化, 使脫離宗教 --> secularization (n)世俗化
 
 	sent, sens, scent 感覺 = feel
@@ -7538,7 +7543,7 @@
 		- variance (n)不同/變化/變動, 矛盾/分歧
 		+ variable (adj)易變的/多變的, 可變的 (n)易變物/可變因素, 變數, 變星(指亮度與電磁輻射不穩定的，經常變化並且伴隨著其他物理變化的恆星) = variable star
 		- variability (n)變化性/易變性
-		+ variegate (v)使多樣化, 使色彩斑駁 --> variegated (adj)多變的/多種多樣的 = varied = diverse, 雜色的/色彩斑駁的 = motley
+		+ variegate (v)使多樣化, 使色彩斑駁 = mottle --> variegated (adj)多變的/多種多樣的 = varied = diverse = motley, 雜色的/色彩斑駁的
 		- variegation (n)雜色/斑駁 <-- vari + eg 做 = do + ation
 		+ /vəˈrʌɪəti/ variety (mn)多樣化/變化 (n)種類, 一些, [生]變種/異種
 		- various (adj)不同的/各種各樣的 = variegated = varied

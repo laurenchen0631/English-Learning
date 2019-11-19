@@ -64,6 +64,7 @@
 - commute <--> commune
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
+- convey <--> convoy
 - cooperate <--> corporate <--> coop
 - cope <--> dope <--> dupe
 - contempt <--> contemplate
@@ -106,6 +107,7 @@
 - dozen <--> doyen
 - drastic <--> dramatic
 - drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
+- drudge <--> dredge
 - dub <--> dab <--> daub <--> dud <--> dude
 - dull <--> hull
 - dwindle <--> dawdle <--> doodle <--> swindle
@@ -134,6 +136,7 @@
 - fib <--> dibs
 - fickle <--> freckle <--> heckle
 - fit <--> fitful
+- fixation <--> fixity
 - flagrant <--> fragrant
 - flake <--> flak <--> flank <--> flask
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
@@ -213,6 +216,7 @@
 - impart <--> impartial
 - impose <--> imposing
 - inch <--> itch
+- innate <--> natal
 - inter <--> intern
 - intransigent <--> transient
 - invidious <--> insidious
@@ -232,6 +236,7 @@
 - leer <--> leery
 - liable <--> liability
 - lair <--> liar
+- liberal <--> liberty <--> liberate <--> libertine
 - lie <--> lay
 - lime <--> limestone
 - list <--> listless
@@ -247,12 +252,17 @@
 - luster <--> lust <--> lustful <--> lustrous
 
 ## M
+- magisterial <--> magistery
 - martial <--> marital
+- mason <--> mansion
 - meddle <--> mettle
 - mediate <--> meditate
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
 - miscreant <--> recreant
 - miser <--> misery
+- moral <--> morale
+- myriad <--> pyramid
+- mythic <--> mythical
 
 ## N
 - notion <--> notch <--> note <--> botch <--> blotch
@@ -274,12 +284,15 @@
 - private <--> privation
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
+- profane <--> profuse
+- pugnacious <--> impugn <--> repugnant
 
 ## R
 - raise <--> raisin
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
 - reflective <--> reflexive
 - respite <--> respect
+- restive <--> restless 
 - retrench <--> retreat <--> entrench
 - risk <--> brisk
 - roast <--> roost
@@ -288,8 +301,10 @@
 
 ## S
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
+- secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - scrupulous <--> unscrupulous
+- shed <--> shred
 - sleight <--> sleigh
 - stationery <--> stationary
 - snarl <--> gnarl
@@ -302,12 +317,15 @@
 - struggle <--> straggle
 - stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
+- supplant <---> suppliant
 
 ## T
+- tactile <--> tactual
+- telltale <--> untold
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
 - tend <--> tender <--> tendentious
 - thick <--> thicket
-- toll <--> atoll
+- toll <--> atoll <--> extolling
 - trapping <--> trap
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
@@ -323,6 +341,7 @@
 - weather <--> wether
 - whip <--> whop <--> whopping
 - whisk <--> whisky
+- wistful <--> waist<--> fistful
 - wrap <--> warp
 - wrinkle <--> crinkle
 - write <--> writhe

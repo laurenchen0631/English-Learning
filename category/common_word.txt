@@ -113,7 +113,7 @@
 		> bearings 軸承 |A part of a machine that allows one part to rotate or move in contact with another part with as little friction as possible.|
 		> 方位/方向 |The direction or position of something, or the direction of movement, relative to a fixed point. It is usually measured in degrees, typically with magnetic north as zero.| the Point is on a bearing of 015°
 		> one`s bearings 所在位子 |Awareness of one`s position relative to one`s surroundings.|
-	- bear out (v)支持/證實 == confirm == substantiate
+	+ bear sth out (v)支持/證實 == confirm == substantiate
 		> a theory borne out by data
 		> Recent studies have borne out claims that certain perfumes can bring about profound psychological changes.
 	- bear down (v)努力 == to put more effort into doing something 
@@ -4110,6 +4110,7 @@
 		> |A stone-built fortified settlement in Scotland or Ireland, of a kind built from the late Iron Age to the early Middle Ages. The word is a frequent place-name element in Scotland and Ireland.|
     - dusky (adj)黝黑的, 微暗的/暗淡的
 	- iridescent /ˌɪrɪˈdɛs(ə)nt/ (adj)彩虹色的
+    - magenta (n)洋紅色, 品紅 = fuchsin
 	- mauve (adj)淡紫色的
 	- pitch dark (adj)漆黑的 == extremely dark
 		> a moonless, pitch-black night
