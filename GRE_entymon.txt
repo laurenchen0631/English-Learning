@@ -1201,7 +1201,7 @@
 		- cerebration (n)用腦, 思考/思考過程
 	
 	cens 評估 = assess <-- censor
-		* /ˈsɛnsə/ censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
+		+ /ˈsɛnsə/ censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
 		+ /sɛnˈsɔːrɪəs/ censorious (adj)好批評的
 		+ /ˈsɛnʃə/ censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = upbraid <|> censor
 		- census (n)人口普查, (官方的)調查/統計 = poll
@@ -2452,6 +2452,7 @@
 		- offend (v)冒犯/觸怒/犯錯, 使不舒服, 犯罪/犯法
 		- offender (n)違法者, 有問題的人或物
 		- offensive (adj)冒犯的/無禮的, 令人不快的 = disgusting = repulsive, 進攻的 (n)進攻/攻勢
+		+ inoffensive (adj)無害的 = innocuous = harmless
 		- offense, offence (n)違法行為, 冒犯, 攻擊/進攻方
 		- fence, fense (n)籬笆
 
@@ -3134,6 +3135,7 @@
 			- injury --> injurious
 			- innocent --> innocence
 			+ innocuous
+			+ inoffensive (adj)無害的 = innocuous = harmless
 			+ inopportune (adj)不適合的/不合時宜的 = inappropriate = inconvenient = untimely
 			+ inordinate
 			- insatiable
@@ -3270,6 +3272,7 @@
 			- indigenous
 			- individual
 			- indoctrinate
+			- indoors (adv)在室內/在屋裡 (n)室內
 			- induce
 			- induct --> induction
 			- indurate
@@ -3330,7 +3333,7 @@
 			+ instinct --> instinctive
 			+ institute --> institution
 			- institutionalized
-			- instruct --> instructive
+			+ instruct --> instructive
 			- instrument --> instrumental --> instrumentalist
 			+ insult
 			+ insure (v)保障/確保 --> insurance (n)保險, 保險業, 保險費, 保險金額, 預防措施
@@ -3527,7 +3530,7 @@
 
 	juven 年輕的 = youthful
 		+ /ˈdʒuːvənʌɪl/ juvenile (adj)青少年的 = adolescent = young = youthful, 幼稚的/不成熟的 = childish = jejune = puerile (n)青少年/年輕人
-		- rejuvenate (v)使變年輕, 使恢復精神/恢復活力
+		+ rejuvenate (v)使變年輕, 使恢復精神/恢復活力
 
 	joc 玩笑 = joke
 		- /ˈdʒɒk(ə)nd/ jocund (adj)快樂的/高興的 = cheerful = genial = merry = jovial = jolly = convivial
@@ -3782,7 +3785,7 @@
 	
 	lati, late 寬的 = broad
 		++ /dʌɪˈleɪt/ dilate (v)(身體部位)擴張/展開/膨脹, 詳述/細說 <|> dilatory 
-		++ latitude (n)行動自由 = freedom, 緯度 <--> longitude --> latitudes (n)緯度地區
+		++ latitude (n)行動自由/餘地 = freedom = leeway, 緯度 <--> longitude --> latitudes (n)緯度地區
 
 	later 邊/邊緣 = side
 		- collateral (adj)並行的/平行的 = parallel, 附帶的/次要的 = incidental = secondary, 旁系的 (n)擔保品, 旁系血親
@@ -4250,6 +4253,7 @@
 
 	ment 精神 = mind
 		- mentor (n)導師
+		- mentorship (mn)指導
 		- mentee (n)受指導者/導生
 		- mental (adj)精神的/心理的, 智力的 --> mentality (n)智力, 心理狀態/意識型態
 	
@@ -4500,6 +4504,7 @@
 		- outpouring (n)流露 = betray
 		+++ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反
 		+++ outrageous (adj)極不道德的/無法無天的 = woeful = bad = excessive, 過度誇張的 = exaggerated = improbable, 令人吃驚的 = shocking
+		- outsell (v)賣得比……多
 		- outset (n)開始/開頭 = start = beginnning <|> onset
 		- outshine (v)比..更亮, 比...更好
 		- outskirts (n)郊區/郊外
@@ -4848,6 +4853,7 @@
 	post 之後 = after
 		- postpartum (adj)產後的
 		- postpone
+		* posthumous (adj)死後的/死後出版的, 父親死後出生的
 	
 	pos, pose, post, pon, pound, postul 放 = place, put
 		+ apposite (adj)適當的/有關的 = appropriate = agreeable = applicable = pertinent = relevant
@@ -5664,6 +5670,7 @@
 			+ redundant <-- red + und + ant
 			+ redress (n/v)改正/修正 = compensation = correction = remedy
 			- re-enact (v)上演/再現, 重新制定 
+			- reenter (v)再次進入
 			- refection
 			- refectory
 			+ refine (v)提煉/精鍊 --> refined (adj)精製的, 有教養的/文雅的 = polished = fine = cultured = elegant, 精細的/完善的/精妙的 = subtle = precise = exact
@@ -5758,6 +5765,7 @@
 			+ reticence (n)保留/沈默 = reserve
 			- retinue
 			- retouch (v)修描/潤色
+			- retrain (v)再培訓
 			+ retrieve
 			- /ˈrɛtrəʊfɪt/ retrofit (v)加入..以翻新, 對……作翻新改進 (n)加裝, 加裝物 <-- retroactive + refit
 			+ revamp (n/v)翻新/修改 = renovate = improve = revise = upgrade
@@ -6247,7 +6255,7 @@
 		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念 <|> constitute
 		- destruction (n)毀滅/消滅, 毀滅的原因
 		- infrastructure
-		- instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
+		+ instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
 		- instruction (n)命令/指示, 用法說明/操作指南 (mn)教學/教育
 		+ instructor (n)教練/指導者, 大學講師
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
@@ -6612,6 +6620,7 @@
 		+ /ˈɒbsɪkwɪz/ obsequies (n)喪禮 = funeral ceremony
 		+ sequence (n)順序, 連續, 連續鏡頭 (v)照順序排列 --> sequential (adj)次序的/順序的
 		- subsequent (adj)隨後的/後來的 = following = consequent
+		- /sɪˈkwiːlə/ sequela -> sequelae (n)後遺症
 
 	serv 奴隸 = slave
 		- service (n)服務, 服務費, 工作期, 公共設施, 軍隊, 服役, 宗教儀式, 維修/保養, 發球, (傳票等的)送達 (v)檢修/維修/保養, 為……服務, 付..的利息, 交配 = mate with
@@ -7122,6 +7131,8 @@
 		- technique (n)技巧/技術
 
 	therap 治療 = heal
+		- chemotherapy (n)化學療法
+		- radiotherapy (n)放射線療法
 		- therapy (n)治療, 療法
 		- /ˌθɛrəˈpjuːtɪk/ therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物 --> therapeutics (n)治療學
 
@@ -7656,6 +7667,7 @@
 
 	volat, vola 飛 = fly
 		+ /ˈvɒlətʌɪl/ volatile (adj)易變的/反覆無常的 = mercurial, 易揮發的
+		+ volatility (mn)易變/不穩定, 反覆無常, 揮發性
 		- volant (adj)能飛的/飛行的, 迅速的 = rapid
 
 	vor, vour 吃 = devour, eat up

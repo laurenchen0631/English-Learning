@@ -56,6 +56,7 @@
 - classic <--> classical
 - clog <--> clot <--> cloy <--> coy 
 - cluster <--> clutter
+- cogent <--> coagent
 - coarse <--> course <--> hoarse
 - coax <--> hoax
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble
@@ -64,6 +65,7 @@
 - commute <--> commune
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
+- contingent <--> continent <--> contiguous 
 - convey <--> convoy
 - cooperate <--> corporate <--> coop
 - cope <--> dope <--> dupe
@@ -132,6 +134,7 @@
 - faux <--> flax <--> flex <---> flexible
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
+- fete <--> mete
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle
@@ -173,10 +176,10 @@
 
 ## H
 - habilitate <--> rehabilitate
-- hale <--> hare
+- hale <--> hare <--> mare
 - harry <--> marry <--> parry <--> quarry
 - hangar <--> hanger
-- harrow <--> furrow <--> burrow <--> hallow <--> hollow 
+- harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow
 - hatch <--> hitch <--> hutch <--> hut <--> ditch
 - haul <--> hurl <--> overhaul
 - haze <--> hazel
@@ -242,6 +245,7 @@
 - list <--> listless
 - listen <--> glisten
 - little <--> litter <--> liter
+- inveterate <--> invertebrate
 - loath <--> loathe
 - lobe <--> lode <--> lodge
 - loll <--> lull
@@ -255,8 +259,12 @@
 - magisterial <--> magistery
 - martial <--> marital
 - mason <--> mansion
+- mast <--> mash <--> mat <--> matt <--> mattress
+- metric <--> metrical
+- mature <---> manure
 - meddle <--> mettle
 - mediate <--> meditate
+- member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
 - miscreant <--> recreant
 - miser <--> misery
@@ -270,6 +278,7 @@
 
 ## O
 - object --> objection <--> objective
+- offensive <--> inoffensive
 - orchard <--> orchid
 - outlook <--> overlook
 
@@ -293,6 +302,7 @@
 - reflective <--> reflexive
 - respite <--> respect
 - restive <--> restless 
+- retain <--> retrain
 - retrench <--> retreat <--> entrench
 - risk <--> brisk
 - roast <--> roost
@@ -339,6 +349,7 @@
 ## W
 - waive <--> wave
 - weather <--> wether
+- winnow <--> minnow <--> wallow
 - whip <--> whop <--> whopping
 - whisk <--> whisky
 - wistful <--> waist<--> fistful

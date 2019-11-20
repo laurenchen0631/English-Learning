@@ -152,6 +152,9 @@
 	- The project wa terminated as of January 1.
 - as yet 直到現在 == up to the present
 	- Second, the fungi cannot as yet be cultivated in the absence of a living root
+- (at) the tail end (of sth) 末尾/尾聲
+	- I only saw the tail end of the news.
+	- She was at the front of the queue but I was at the tail end.
 - all the while 一直 == for all of a period of time
 	- There I was thinking you were hard at work and you were upstairs in bed all the while!
 	- He later worked on similar jobs across the length and breadth of England, all the while studying the newly revealed strata and collecting all the fossils he could find.
@@ -750,6 +753,8 @@
 - the skin of your teeth 僥倖成功/勉強完成/險些錯過
 	- He escaped from the secret police by the skin of his teeth.
 - window of opportunity 機會之窗
+- double whammy (n)禍不單行
+	- Farmers have faced the double whammy of a rising dollar and falling agricultural prices.
 
 ## Thing
 - a bite (to eat) 一些食物 == some food
