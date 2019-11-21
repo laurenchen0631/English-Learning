@@ -9,6 +9,7 @@
 - allegory <--> allergy
 - allude <--> delude
 - alter <--> altar
+- awry <--> wry <--> wary <--> askew
 
 ## B
 - bail <--> bait <--> gait
@@ -16,6 +17,7 @@
 - banquet <--> bouquet <--> boutique
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
+- blight <--> delight
 - blot <--> bolt <--> colt
 - bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
@@ -23,6 +25,7 @@
 - bound <--> hound
 - both <--> booth
 - bowl <--> bowel
+- bracket <--> brackish
 - breed <--> brood
 - bribe <--> bride <--> bridle
 - buff <--> puff <--> rebuff <--> buffoon 
@@ -46,6 +49,7 @@
 - cascade <--> cadence <--> decadence
 - casual <--> causal
 - caucus <--> cactus
+- caveat <--> cavern
 - cease <--> crease <--> grease
 - cellar <--> cellular
 - chary <--> char
@@ -75,6 +79,7 @@
 - coup <--> couple <--> recoup
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
+- crane <--> crank
 - crumble <--> crumb <--> crumple
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
@@ -112,6 +117,7 @@
 - drudge <--> dredge
 - dub <--> dab <--> daub <--> dud <--> dude
 - dull <--> hull
+- dun <--> dune
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
@@ -159,7 +165,7 @@
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
 - germ <--> germane
-- gig <--> giggle <--> goggle <--> gaggle <--> haggle <--> waggle
+- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle  <>
 - git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
 - glean <--> clean
 - glib <--> gild <--> glide
@@ -176,7 +182,7 @@
 
 ## H
 - habilitate <--> rehabilitate
-- hale <--> hare <--> mare
+- hale <--> hare <--> harem <--> mare
 - harry <--> marry <--> parry <--> quarry
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow
@@ -266,6 +272,7 @@
 - mediate <--> meditate
 - member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
+- milk <--> bilk
 - miscreant <--> recreant
 - miser <--> misery
 - moral <--> morale

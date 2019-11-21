@@ -4158,6 +4158,7 @@
 	morph 形狀 = shape, form, structure
 		+ amorphous (adj)無定形的
 		- biomorph (n)生物形態模擬(自然發生的圖案或形狀的藝術設計元素，讓人聯想到自然和生物) --> biomorphic (adj)
+		- dimorphic (adj)同種二形的 --> dimorphism (n)
 		+ morph (v)使圖像變形, 逐漸改變 (n)變形圖像, 圖像變形, 語態
 		+/ˌmɛtəˈmɔːfəʊz/ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
 		- morphology (n)形態學
@@ -6482,6 +6483,7 @@
 	sert 連結/加入 = connect, link, join == junct == arthr
 		* assert (v)主張/斷言 = insist = declare = claim = contend = proclaim = uphold, [oneself]表現強硬
 		+ assertive (adj)堅定自信的/肯定的/武斷的
+		+ assertion (n)斷言/言明 (mn)主張/堅持
 		- /dɪˈzəːt/ desert (v)拋棄 = abandon = defect, 離去 = leave, 逃兵 <|> dessert
 		- /ˈdɛzət/ desert (n)沙漠, 無趣的地方 (adj)沙漠般的, 荒廢的 = desolate
 		- /dɪˈzəːt/ dessert (n)甜點
@@ -7042,6 +7044,7 @@
 
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡
+		+ contextualize (v)將…置於上下文中/研究上下文
 		- pretext (n)extol= disguise
 		- textile (n)紡織物/織物, [textiles]紡織業, [非]有穿衣服的人 (adj)紡織的, [非]有穿衣服的 <|> tactile
 		- texture (n)質地/質感, (文章或音樂的)特色/韻味 (V)使……具有粗糙或浮凸的紋理
