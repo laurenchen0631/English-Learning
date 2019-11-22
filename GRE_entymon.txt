@@ -1145,6 +1145,7 @@
 		- mariculture
 
 	carbo 碳
+		- carb (n)化油器 = carburetor, 飲食中的碳水化合物
 		- carbohydrate (n)碳水化合物
 		- carbon (n)炭/碳纖維/碳化合物
 		- carbonate (n)碳酸鹽 (v)使含二氧化碳, 使成碳酸鹽
@@ -1627,6 +1628,7 @@
 			+ dilapidate --> dilapidated
 			+ dilate
 			+ dilute
+			- disband (v)解散
 			+ discrepancy
 			+ discursive
 			+ disaster --> disastrous
@@ -1851,6 +1853,7 @@
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
 		- epidemic (adj)流行性/傳染的, 極為風行的 (n)流行病, 風行
 		- epidemiologist (n)流行病學家
+		- epidemiological (adj)流行病學的
 		- pandemic (adj)全國流行的 (n)疫情
 
 	derm, dermat, dermato 皮膚 = skin
@@ -4018,6 +4021,7 @@
 		+ /ˌdɪmɪˈnjuːʃ(ə)n/ diminution (n)減少/縮減
 		* diminutive (adj)微小的 = minuscule = lilliputian, 表示小的 (n)表示小的字詞, 暱稱/名字縮寫
 		- /ˈmʌɪkrəʊb/ microbe (n)微生物 = microscopic organisms = microorganism
+		- microbiome (n)微生物群系
 		- microorganism (n)微生物/細菌 = bacterium
 		- microscope (n)顯微鏡 --> microscopic (adj)極小的, 顯微鏡的
 		+ microcosm (n)人類, 小宇宙/縮影/微觀世界 <--> macrocosm <-- micro + cosmo
@@ -4053,6 +4057,7 @@
 		- mode (n)樣式/時尚 = fashion, 方法/做法/模式 = fashion, 形式/種類/風格 = kind
 		+++ modest (adj)審慎的, 適度的/中等的/不太多的, 端莊的/穩重的
 		*** moderate (adj)中等的/適度的 = modest, 穩健的/溫和的 (n)穩健派 (v)使和緩 = mitigate = temper = qualify, 主持 --> moderation (n)溫和/適度/節制 = temperance = continence = sober
+	    - moderator (n)仲裁人/調解人 = arbiter, 主持人, 評分審核人, 版主
 		- immoderate
 		+ modicum (n)少量
 		- modify (v)修改 = amend
@@ -4563,6 +4568,7 @@
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise
+			- oversight (n)失察/疏忽, 監督/照管
 			+ overshadow (v)給..投上陰影/遮蔽, 使黯然失色/使相形見絀 = eclipse
 			- overtrain (v)訓練過度
 			- layover (n)中途停留
@@ -4982,7 +4988,7 @@
 
 	prim, prior, prist, princip 最早的/最好的 = first, prime
 		- /prɪm/ prim (adj)呆板的/拘謹的
-		- /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
+		* /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
 		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		++ prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥, 塗底漆, 啟動(幫補), 上油
 		- primeval
@@ -6659,7 +6665,8 @@
 	son 聲音 = sound
 		- consonant (adj)[with]一致的/調和的 <--> dissonant, 子音的 (n)子音/子音字母 <--> vowel
 		+ dissonant (adj)不和諧的/不一致的 = discordant = incompatible --> dissonance (n)不和諧/不一致
-		- resonant (adj)響亮的 = orotund = stentorian, 引起共鳴的/引起聯想的 = reminiscent --> resonance (n)共鳴/回響, 共振
+		+ resonate (v)共鳴/發出迴響, 勾起 = evoke, 同意/一致, 共振
+		+ resonant (adj)響亮的 = orotund = stentorian, 引起共鳴的/引起聯想的 = reminiscent --> resonance (n)共鳴/回響, 共振
 		- sonic (adj)聲音的
 		- sonata (n)奏鳴曲
 		- sonnet (n)十四行詩
@@ -7236,6 +7243,7 @@
 		+ unguided (adj)無導向的, (飛彈)無導向裝置的
 		- unimpassioned (adj)心平氣和的
 		+ unimpeachable (adj)無可置疑的 = trustworthy <-- un + impeach + able
+		- unimpressed (adj)沒留下深刻印象的
 		+ uninformed (adj)無知的/不了解情況的
 		+ uninformative (adj)信息不足的
 		- uninitiated (adj)外行的/無專門知識的 = inexperienced

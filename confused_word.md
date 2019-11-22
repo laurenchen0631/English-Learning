@@ -31,7 +31,7 @@
 - buff <--> puff <--> rebuff <--> buffoon 
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
-- bumble <--> fumble <--> grumble
+- bumble <--> fumble <--> grumble <--> mumble
 - bump <--> hump <--> lump
 - burnish <--> furnish <--> furbish
 - brusque <--> burlesque
@@ -248,13 +248,14 @@
 - liberal <--> liberty <--> liberate <--> libertine
 - lie <--> lay
 - lime <--> limestone
+- limpid <--> lipid
 - list <--> listless
 - listen <--> glisten
 - little <--> litter <--> liter
 - inveterate <--> invertebrate
 - loath <--> loathe
 - lobe <--> lode <--> lodge
-- loll <--> lull
+- loll <--> lull <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
 - lucid <--> lurid
@@ -268,7 +269,7 @@
 - mast <--> mash <--> mat <--> matt <--> mattress
 - metric <--> metrical
 - mature <---> manure
-- meddle <--> mettle
+- meddle <--> mettle <--> nettle
 - mediate <--> meditate
 - member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
@@ -276,10 +277,14 @@
 - miscreant <--> recreant
 - miser <--> misery
 - moral <--> morale
+- mosquito <--> mosque
+- mug <--> muggy
+- mulct <--> dulcet
 - myriad <--> pyramid
 - mythic <--> mythical
 
 ## N
+- naive <--> native
 - notion <--> notch <--> note <--> botch <--> blotch
 - nuance <--> nuisance
 
@@ -287,7 +292,7 @@
 - object --> objection <--> objective
 - offensive <--> inoffensive
 - orchard <--> orchid
-- outlook <--> overlook
+- outlook <--> overlook <--> oversee <--> oversight
 
 ## P
 - passive <--> impassive <--> passionate <--> impassioned
@@ -298,6 +303,7 @@
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
 - private <--> privation
+- primacy <--> primate <--> prim <--> primp
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
@@ -306,6 +312,7 @@
 ## R
 - raise <--> raisin
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
+- rapprochement <--> reapproach
 - reflective <--> reflexive
 - respite <--> respect
 - restive <--> restless 
@@ -344,6 +351,7 @@
 - thick <--> thicket
 - toll <--> atoll <--> extolling
 - trapping <--> trap
+- treat <--> treatise
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope

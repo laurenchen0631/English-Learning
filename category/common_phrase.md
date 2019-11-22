@@ -368,6 +368,8 @@
 - roll off the tongue 順口的 == To be very easy or enjoyable to say.
 	- When you name your food truck, make sure it is something that rolls off the tongue so that people will remember it.
 	- The book is a joy to read aloud. The passages just roll off the tongue.
++ ring true 聽起來是真的
+	- Something about his explanation didn't quite ring true.
 - shed light on 闡明
 	- Experts hope the plane’s flight recorders will shed light on the cause of the crash.
 - straight up 真的/屬實
@@ -633,6 +635,8 @@
 - off the map 不再知名 == no longer famous or relevant
 	- Mary Kate and Ashley are long off the map if you ask me.
 - on standby 隨時待命
+- on the chopping block 可能要被開除或消滅的
+	- There were several government programs on the chopping block.
 - on the go 忙碌的/生產中的
 	- I have been on the go all day, and I`m really tired.
 	- Did you know that she's got a new book on the go (= being written)
@@ -719,6 +723,8 @@
 - pour scorn on sb/sth 鄙夷地談論/對…嗤之以鼻
 	- Critics of the president have been pouring scorn on the plan ever since it was first proposed.
 - red tape 繁文縟節 == official rules and processes that seem unnecessary and delay results
+- the butt of a/the joke 嘲笑的對象 == The target of a joke
+	- My big brother loves to tease me—every time he opens his mouth, I'm the butt of the joke.
 
 ## Approbation
 - well thought of 受好評的/受讚揚的 == considered by other people as good; admired, and approved of

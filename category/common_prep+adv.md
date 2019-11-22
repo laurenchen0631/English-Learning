@@ -97,6 +97,7 @@
 	- She is predominantly a dancer, but she also sings.
 + reasonably (adv)合理地, 相當地
 - somewhat /ˈsʌmwɒt/ (adv)有點/稍微
+- dearly (adv)非常, 昂貴地/付出巨大代價地
 
 ## Possibility
 - arguably (adv)可以說/大概/可能
