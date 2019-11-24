@@ -773,6 +773,7 @@
 
 	contra, contro 反
 		+ /ˈkɒntrəri/ contrary (adj)相反的/對立的 = perverse, 乖戾的/反骨的 (n)相反/相反的事物
+		- contrarian (n)做法與一般大眾想法相反的投資人 (adj)持與大眾相反意見的
 		- contraband
 		+ contradict
 		- contrast
@@ -4143,6 +4144,7 @@
 		- amnesty (n)(政治)大赦/特赦 = absolve (v)赦免
 		++ /nɪˈmɒnɪk/ mnemonic (adj)有助於記憶的, 記憶力的 --> mnemonics (n)記憶法/記憶規則
 		- commemorate (v)紀念/緬懷(偉人、大事件等)
+		- memento (n)引起回憶的東西
 		- memory (n)記憶力/記性, 記憶/回憶, 紀念, 記憶體
 		- immemorial (adj)年代久遠的/古老的
 		- memorial (n)紀念碑/紀念物, 記錄, 陳情書/請願書
@@ -4795,7 +4797,7 @@
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
 		+ produce --> productive --> productivity
-		** /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆 --> profanity (n)褻瀆的話語, 不敬的行為, 誓言
+		** /prəˈfeɪn/ profane (adj)非宗教的/世俗的, 不諳宗教儀式的, 褻瀆的/不敬的 = blasphemous = irreverent (v)褻瀆 --> profanity (n)褻瀆的話語 = oath, 不敬的行為, 誓言
 		- proffer (v)獻出/奉獻/贈送 = offer (n)提議/建議 = offer = proposal <-- pro + offer
 		- proficient
 		- /ˈprəʊfʌɪl/ profile (n)側面像, 剖面, 縱斷圖, 簡介, 概況, 吸引程度, 量化分析表, 行為記錄 (v)給……畫側面像, 簡要介紹, 描出……的輪廓, 畫(形狀) <-- pro + file 線條 = line, thread
@@ -6320,7 +6322,7 @@
 		+ /ˈspiːʃəs/ specious (adj)似是而非的 <--> plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
 		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面 <|> speculate
 		+ /spɛkˈtakjʊlə/ spectacular (adj)壯觀的/引人入勝的/引人注目的, 明顯的 = obvious (n)壯觀場面
-		- spectator (n)觀眾/觀看者 = audience
+		- spectator (n)觀眾/觀看者 = audience = onlooker
 		- /ˈspektər/ specter (n)鬼魂/幽靈 = ghost, 陰影/恐怖之物 <|> spectator
 		- spectral (adj)幽靈的 = ghostly, 光譜的
 		+ spectrum (n)光譜/頻譜, 範圍, 端點

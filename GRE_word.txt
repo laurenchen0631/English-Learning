@@ -90,6 +90,7 @@
     - adobe (n)泥磚, 做泥磚用的黏土
     - aging, ageing (n)老化, 陳化/熟化 (adj)老年的 = elderly, 使用年限將至的
     - aegis (n)盾, 保護/庇護 
+    - aftermath (n)後果/餘波, 再生草/被吃掉後長出的草
     - agog (adj)興奮的/渴望的 = avid <-- a + gog 趣味 = fun
     - afterthought (n)事後的想法/後來添加的東西
     - air (v)發表, 廣播, 烘乾 (n)空氣, 樣子/氣氛, 曲調
@@ -823,6 +824,7 @@
     + delay (v)耽擱/延誤, 推遲 = defer = postpone (n)延遲/耽擱
     + /ˈdɛnɪz(ə)n/ denizen (n)居民 = inhabitant <-- deniz 裡面 = within + en
     + /dɪˈnʌɪ/ deny (v)否定/否認, 拒絕 = refuse = withhold
+    - denier (n)否認者, 旦(古時布料的重量單位), 古時法國銀幣
     + /ˈdɛspɒt/ despot (n)暴君 = tyrant --> despotic (adj)暴君的 <-- des 家 = house + pot 丈夫/配偶 = husband, spouse
     + diabolical (adj)魔鬼的 <-- diabol 惡魔 = devil + ic
     + /dīˈdaktik/ didactic (adj)教訓的/說教的, 教師般的/擺出恩賜態度的 = patronizing <-- didact 被教 = taught + ic
@@ -1297,6 +1299,7 @@
     - flinty (adj)燧石似的/含燧石的, 強硬的/堅定不移的 = resolute = adamant
     - flit (v)閃過/掠過 (n)(偷偷地)搬家
     - floodgate (n)水閘門, 制約
+    - floor (n)地板/地面, 底, 層 = storey, 議員席, 發言權 (v)在……鋪設地板, 把……打倒在地, 使困惑 = baffle
     - flounce (n/v)急動/大步走動 (n)荷葉邊 = frill
     - fluff (n)絨毛, 蓬鬆物, 無意義的娛樂, [非]念錯臺詞 (v)使蓬鬆, [非]搞砸/弄糟
     - fluffy (adj)有絨毛的, (食物)蓬鬆的, [非]空洞的 = disembodied = frivolous
@@ -1834,7 +1837,7 @@
     - insect (n)昆蟲, 蟲
     - /ˈʌɪədiːn/ iodine (n)碘, 碘酒
     - /ʌɪˈəʊtə/ iota (n)極小量/極少
-    - irate (adj)令人發怒的/極其憤怒的 = angry = incensed
+    - /ʌɪˈreɪt/ irate (adj)令人發怒的/極其憤怒的 = angry = incensed
     - /ˈʌɪə/ ire (mn)憤怒 = anger
     - iridescent (adj)彩虹色的 <-- irid 虹光 = iris + escent
     - iron (n)鐵, 鐵器, 手銬/腳鐐, [非]馬鐙 = stirrups, 熨斗, 鐵頭球杆 (v)熨衣/燙平, [out]解決/消除
@@ -1947,7 +1950,7 @@
     + levee (n)防洪堤/堤岸 = embankment, 碼頭 = quay
     + /lɪˈbiːdəʊ/ libido (n)性慾/性衝動 = sexual desire
     + liken (v)[to]把……比作 = compare to = assimilate <-- like
-    + /ˌlɪlɪˈpjuːʃ(ə)n/ lilliputian (adj)極小的/微型的 = small = minuscule = diminutive = paltry (n)小人/小事 <-- Lilliput 小人國
+    + /ˌlɪlɪˈpjuːʃ(ə)n/ lilliputian (adj)極小的/微型的 = minuscule = diminutive = paltry (n)小人/小事 <-- Lilliput 小人國
     + limn (v)描寫/描繪 = draw = describe <|> lime
     + limpid (adj)(河水、眼睛或音樂)清澈的/透明的 = clear = transparent
     + linguistic (adj)語言的/語言學的 --> linguistics (n)語言學 <-- lingu 語言 = speech, tongue + ist
@@ -2002,7 +2005,7 @@
     * loiter (v)遊蕩/閒逛 = linger aimlessly, 磨蹭 = dawdle
     * long (v)渴望 = crave = desire = yearn = pine (adj)長的, 久的, (機率)低的 (n)長期, 長音, 長期證券 (adv)長時間, 長距離 --> longing (n)渴望 (adj)渴望的
     * loose (adj)鬆的, 未予束縛的, (衣服)寬鬆的, 鬆散的, 放鬆的 = relaxed, 不嚴謹的 <--> strict, 放蕩的 (v)釋放 = release, 解開 = untie, 放鬆, [off]射(箭或子彈) --> loosen (v)鬆開/解開, 放鬆, 放鬆(限制)
-    * lop (v)砍 = hack = hew, 修剪, [非]刪減 (n)截下的小樹枝
+    * lop (v)砍 = hack = hew, 修剪, [非]刪減 (n)截下的小樹枝 <|> lope <|> lobe <|> lode
     * lore (n)流傳下來的知識 = learning = knowledge = erudition
     ** lot (n)大量, 一批/一攤, 拍賣品, 籤, 命運/命數, 一塊地, 停車場 = parking lot (adv)相當地/非常 (v)分
     ** lottery (n)彩券/抽籤, 運氣
@@ -2039,7 +2042,7 @@
     - leaky (adj)漏的/有漏洞的, 易洩密的
     - leapfrog (n)跳蛙遊戲 (v)跳, 跳升, 越過 = pass over = hop
     - lease (n)租約 (v)租給 = let, 租 = rent to
-    - leash (v)栓住/繫住, 約束/控制 (n)皮帶/鏈條
+    - leash (v)栓住/繫住 = hitch, 約束/控制 (n)皮帶/鏈條
     - lectern (n)讀經臺 <|> lecture
     - ledger (n)帳簿, 蓋墓石板
     - leets (n)民事法庭, [非]駭客語(是指一種發源於西方國家的BBS、線上遊戲和駭客社群所使用的文字書寫方式) = 1337 (adj)傑出的
@@ -2109,7 +2112,7 @@
     - lyric (adj)抒情的 (n)抒情詩, 歌詞 <-- Lyra 天琴座 + ic
 
 [M]
-    + /ˌmakɪəˈvɛlɪən/ machiavellian (n)權謀政治家 (adj)(政治方面)詭計多端的/不擇手段的 = crafty = double-dealing = cunning = subtle = artful
+    + /ˌmakɪəˈvɛlɪən/ machiavellian (n)權謀政治家 (adj)(政治方面)詭計多端的/不擇手段的 = crafty = = cunning = subtle = artful
     + /məˈkɑːbrə/ macabre (adj)令人毛骨悚然的/以死亡為主題的
     + /ˈmeɪlstrəm/ maelstrom (n)大漩渦 = whirlpool, 大混亂 = turmoil <-- mael 碾碎 = grind + strom 流 = stream
     ++ /ˌmadʒɪˈstɪərɪəl/ magisterial (adj)權威的 = authoritative = official, 傲慢的/專橫的 = imperious = domineering = arrogant = peremptory = dictatorial = overbearing = petulant = insolent, 地方行政官的 <-- magister 主人 = master + ial
@@ -2117,6 +2120,7 @@
     + mainstream (n)主流/主要趨勢 (adj)主流的 (v)使成主流
     + mar (v)毀損/破壞 = damage = spoil = ruin = impair = rack = blemish
     +++ marked (adj)有記號的, 明顯的
+    ++ margin (n)邊/邊緣, 頁邊空白, 欄外, 利潤/賺頭, 餘地/餘裕 = leeway, 極限/限度, 淨利率, 保證金 (v)加邊於, 為..付保證金
     ++ marginal (adj)邊緣的, 微小的/不重要的, 少量的 = almost insufficient, 臨界的 (n)崖邊植物 --> marginalize (v)忽視/使邊緣化
     + material (n)材料, 人才, 素材 = information = ideas, 布料 = cloth = fabric (adj)物質的, 重要的 = significant
     + materialize (v)使實體化, 實現/發生 = happen
@@ -2126,7 +2130,7 @@
     + mask (n)偽裝/遮蔽物, 面具/面罩/口罩, 面膜 = masque, 面部模型 (v)戴面具, 掩蓋/遮掩 = disguise = conceal = hide = dissemble = cloak
     + mature (adj)成熟的 = full-grown, 慎重的/周到的 = careful = thorough, (票據)到期的/應支付的 = due (v)(使)成熟, 到期 --> maturity (n)成熟, 到期
     + /ˈmɔːdlɪn/ maudlin (adj)感情脆弱的/多愁善感的 = mawkish = sentimental
-    + maunder (v)胡扯/嘮叨地講, 徘徊 <|> meander
+    + maunder (v)胡扯/嘮叨地講 = gibberish, 徘徊 <|> meander
     + maverick (n)不服從的人/持不同意見的人 = dissenter (adj)異端的/非傳統的 = heterodox = unorthodox = unconventional = nonconformist
     + /ˈmɔːkɪʃ/ mawkish (adj)多愁善感的/容易流淚的 = maudlin = sentimental
     + maxim (n)格言/箴言 <--> aphorism <--> dictum <--> adage
@@ -2140,7 +2144,7 @@
     +++ /ˈmɛnəs/ menace (n)會造成威脅的人或物, 討厭的人 (mn)威脅 (v)威脅/危害 = threaten --> menacing (adj)威脅的 = minatory
     + /meɪˈnɑːʒ/ ménage (n)家庭
     + menagerie (n)(供展覽用的)野生動物
-    + /mɪˈandə/ meander (v)蜿蜒, 漫步/閒逛 = wander = ramble, 無目的地進行 (n)蜿蜒的河流或道路, 漫無目的的旅行 --> /mɪˈandərɪŋ/ meandering  (adj)蜿蜒的/曲折的, 兜圈子的 = undirected (n)蜿蜒曲折, 亂走/漫步, 兜圈子
+    + /mɪˈandə/ meander (v)蜿蜒, 漫步/閒逛 = wander = ramble, 無目的地進行 (n)蜿蜒的河流或道路, 漫無目的的旅行 --> meandering  (adj)蜿蜒的/曲折的, 兜圈子的 = undirected (n)蜿蜒曲折, 亂走/漫步, 兜圈子
     ++ /ˈməːkjəri/ mercury (n)水銀/汞 --> mercurial (adj)(情緒)易變的 = volatile, 含汞的, 水星的 (n)汞製藥劑
     + /ˌmɛrɪˈtrɪʃəs/ meretricious (adj)華而不實的/虛有其表的 = specious = grandiose = deceptive = gaudy = tawdry
     + meticulous (adj)小心翼翼的/一絲不苟的 = picky = fastidious = painstaking = careful = thorough <-- metic 害怕 = fear + ulous
@@ -2151,7 +2155,7 @@
     + /ˈmiːtɪə/ meteor (n)流星 <|> comet --> meteoric (adj)流星的, (發展)迅速的 = very rapid, 大氣的/氣象的
     - meteoroid (n)隕石 --> meteorite (n)撞到地面的隕石
     + meteorological (adj)氣象的/氣象學的 <-- meteoro + logy + ical
-    + method (mn)條理/秩序 = order = system (n)方法/辦法 = mode = manner = procedure --> methodical (adj)有條理的/井然有序的 = systematic = orderly
+    + method (mn)條理/秩序 = order = system (n)方法/辦法 = mode = manner = procedure --> methodical (adj)有條理的/井然有序的 = systematic = orderly <--> inchoate
     + /mɪˈljəː/ milieu -> milieux/milieus (n)(社會或文化)環境 = environment = atmosphere = setting <|> purlieu
     + mimic (v)模仿..以嘲弄 = imitate, (動植物)模仿 (n)善於模仿的人, 能模仿的動植物 (adj)模仿的 = imitative = simulative = servile <-- mime
     + minatory, minatorial (adj)威脅的/威嚇的 = threatening = menacing <-- mina 威脅 = menace
@@ -2195,12 +2199,12 @@
     + mystify (n)使困惑 = perplex = confuse, 使晦澀/使神秘 --> mystification (n)困惑, 神秘化
     - mystic (adj)神秘的/不可思議的 (n)神秘主義者
     
-    * makeshift (n)臨時代用品/權宜之計 (adj)臨時代用的/權宜的 = expedient = improvised
+    *** makeshift (n)臨時代用品/權宜之計 (adj)臨時代用的/權宜的 = expedient = improvised
     * manifold (adj)各式各樣的 = multifarious = varied = miscellaneous = motley (n)[機]歧管
     *** marshal (n)元帥, 聯邦法院執行官, 警官局長, 消防隊長, 體育競賽組織人員 (v)編列/統帥, 整理/排列(思緒或物品)
     * /ˈmaskjʊlɪn/ masculine (adj)男性的, 男子氣概的 (n)男性 <--> feminine
     *** mass (n)一團, 色塊, 大群, 大量, [masses]大量, [the mass of]大多數, 大眾, 質量, 重量 (adj)大規模的/大批的 (v)集中/聚集
-    ** maternal (adj)產後的, 母親的 = motherly, 母系的 <-- matern 母親
+    *** maternal (adj)產後的, 母親的 = motherly, 母系的 <-- matern 母親
     * matrilineal (adj)母系的
     *** mean -> meant -> meant (v)代表/意味著 = signify, 意圖 = intend, [to]對…具有意義, [be meant to]應該/預期, [be meant for]用於 (adj)刻薄的/令人不悅的 = spiteful, 兇惡的 = vicious = aggressive =  asty = malicious = vindictive = wanton, 破爛的 = shabby, 低賤的 = humiliated = ashamed, [非]出色的 = excellent, 平均的 = average, 中間的/中等的 (n)平均數, 中間/中等
     * merry (adj)快樂的/興高采烈的 = blithe = joyous = jolly, [非]微醺的 --> merriment (mn)快樂/興高采烈 = mirth = gaiety
@@ -2240,13 +2244,12 @@
     - mangle (v)絞壞/撕爛, (因錯誤太多而)損壞/弄糟 = spoil = ruin, 用衣物軋乾機擰 (n)衣物軋乾機
     - mania (mn)瘋狂 (n)狂熱 = obsession
     - manse (n)牧師住宅, [非]住家 --> mansion (n)大廈/豪宅 <|> mason
-    - mantle (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 <--> subduction (v)包起/覆蓋 = cloak = envelop
+    - mantle (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋 = cloak = envelop
     - manure (n)糞肥 (v)給...施肥 <|> mature
     - maple (n)楓樹 <|> ample
     - marble (n)大理石, 大理石雕刻品, 彈珠, 彈珠遊戲, [非]理智/明智 (v)使..具有大理石花紋
     - mare (n)母馬/母騾 = horse = mule = donkey, [天]海(指月球或火星及其他行星等表面的陰暗區)
     - margarine (mn)人造黃油
-    - margin (n)邊/邊緣, 頁邊空白, 欄外, 利潤/賺頭, 餘地/餘裕, 極限/限度, 淨利率, 保證金 (v)加邊於, 為..付保證金
     - marionette (n)牽線木偶 = puppet
     - marital (adj)婚姻的 <-- marry
     - market (v)推銷/行銷, 供應, 購物 (n)市集, 市場, 需求
@@ -2261,7 +2264,7 @@
     - mart (n)商場
     - martyr (n)烈士/殉道者
     - marvel (v)對...感到驚異 (n)奇蹟 = miracle
-    - mash (v)把…搗成糊狀, [非]壓碎/壓壞, 調成麥芽漿, 泡/煮 = brew = infuse (n)糊狀物 = pulp, 混合飼料, 麥芽漿
+    - mash (v)把…搗成糊狀, [非]壓碎/壓壞, 調成麥芽漿, 泡/煮 = brew = infuse = mast (n)糊狀物 = pulp, 混合飼料, 麥芽漿
     - mason (n)泥瓦匠/水泥匠/石匠 --> masonry (n)石工技藝/石造建築
     - masquerade (n)化裝舞會, 偽裝/化裝 (v)偽裝/冒充 <-- masque 面具 = mask + rade
     - mast (n)船桅/旗桿, 天線杆, 飼料堅果, 泡 = brew = mash
@@ -2274,7 +2277,6 @@
     - mate (n)動物的配偶, 配偶/伴侶, 配對物, 同伴/伙伴 (v)使交配 = copulate, 嚙合
     - matrix (n)模子 = mold, 矩陣
     - matter-of-fact (adj)就事論事的/不帶感情的
-    - mature (adj)成熟的 = full-grown, 深思熟慮的 = thorough, 到期的/應支付的 (v)成熟, 到期
     - maul (v)(動物)抓傷/撕咬, 粗暴地對待, 抨擊/嚴厲批評
     - mauve (adj)淡紫色的 (n)淡紫色染料, 淡紫色
     - maven (n)[非]專家/行家 = expert = connoisseur
@@ -2283,10 +2285,10 @@
     - maximize (v)使增加至最大限度 <-- maximum
     - maze (n)迷宮 = labyrinth, 困惑/混亂
     - meat (n)肉, 人的肌肉, 可食用部位, [the meat of]實質/要點, 餐
-    - measly (adj)少得可憐的 = meager 
     - meaty (adj)肉的, 肌肉結實的 = fleshy = brawny, 內容豐富的
+    - measly (adj)少得可憐的 = meager 
     - medal (n)獎牌/勳章 (v)獲得獎牌
-    - medley (n) 混雜/混合, 混合曲/集錦, 混合式游泳比賽
+    - medley (n)混雜/混合, 混合曲/集錦, 混合式游泳比賽
     - meek (adj)溫順的 = submissive
     - meld (v)(使)混合/合併 = blend = mix, 出示(得分的牌) (n)混合物, 出示之牌
     - melodrama (n)情節劇, 音樂戲劇 <-- melody + drama
@@ -2364,7 +2366,7 @@
     - mutter (v)嘀咕 = mumble = murmur, 偷偷抱怨 (n)咕噥
 
 [N]
-    + /ˈnɑːsɪsɪz(ə)m/ narcissism (n)自我陶醉/自戀 = self-flattery
+    + /ˈnɑːsɪsɪz(ə)m/ narcissism (n)自我陶醉/自戀 = self-flattery --> narcissist (n)自戀者
     + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> summit = acme,, [天]天底
     + /nʌɪˈiːv/ naive (adj)天真的/幼稚的 = unsophisticated = childlike = ignorant, 無害的 = innocent, 樸素的(藝術)
     + naivete (mn)天真/幼稚/缺乏經驗或智慧, 無害/無邪, 樸素作品 <-- native
@@ -2387,90 +2389,90 @@
 
     * narrate (v)講/敘述, 給..作旁白 --> narrative (n)故事, 記敘文 (adj)敘述的/講故事的 <-- nar 知道 = knowing + rate
     * native (n)本地人, 原住民, 原生動植物 (adj)出生地的, 本地的, 原生的, 天生的 = innate, 純的(礦物)
-    * nay (adv)而且/甚至 (n)否定/拒絕/反對
-    * negotiate (v)商議/談判/交涉 --> negotiation (n)商議/談判 <-- negoti 公事 = business + sate
-    * negotiable (adj)可商量的
+    * nay (adv)而且/甚至 = or rather (n)否定/拒絕
+    * negotiate (v)商議/談判/交涉, 順利通過/成功越過, 轉讓, 洽兌 --> negotiation (n)商議/談判, 轉讓
+    * negotiable (adj)可商量的, 可轉讓的, 可通行的 = passable
     * /ˈnɛfjuː/ nephew (n)姪兒/外甥
     * noble (adj)高尚的/崇高的 = rarefied, 壯麗的/宏偉的, 貴族的/顯貴的 (n)貴族
     * nobility (mn)高貴/高尚, 貴族
-    * nod (n/v)點頭, 打瞌睡
+    * nod (v)點頭, 點頭表達, [through]同意, 打瞌睡, 不小心而出錯 (n)點頭, 同意
     * noose (n)套索, 圈套/陷阱 (v)用套索捕捉/使落入圈套 <|> loose
-    * nourish (v)養育/滋養/培育/支持 = nurture, 懷抱 --> nourishment (n)食物/營養品 = nurture, 養育/滋養
+    * nourish (v)養育/培育 = nurture, 施肥, 懷抱 --> nourishment (n)食物/營養品 = nurture, 養育/滋養
     * /ˈnjuːklɪəs/ nucleus -> nuclei (n)核/核心 --> nuclear (adj)核心的/核的
-    * /nʌm/ numb (v)使失去感覺/使麻木 = stupefy, 使驚呆/使發愣 = stupefy (adj)失去感覺的/麻木的 = enervated = prostrate = torpid, 麻痺的 = paralysed
+    - nucleate (adj)有核的 (v)使集結, 使成核
+    * /nʌm/ numb (adj)失去感覺的/麻痺的 = paralysed, 麻木的 (v)使失去感覺, 使麻木
     * nun (n)修女 --> nunnery (n)女修道院 = convent
     
-    - nag (v)責罵不休/抱怨/不斷糾纏 = badger = yap = babble (n)老馬/駑馬 = jade
-    - nagging (adj)騷擾的, 憂心的
+    - nag (v)跟……糾纏不休, 困擾/憂心 (n)不斷糾纏的人, 憂慮, [非]老馬/駑馬 = jade
+    - nagging (adj)騷擾的, 憂心的 = brooding
     - nanny (n)保姆, 母山羊 = nanny goat (v)做保姆, 過度保護
-    - narcissism (n)自戀 <-- [希臘神話]Narcissus --> narcissist (n)自戀者
     - national (adj)全國的, 國家的 (n)國民/國人 = citizen, 全國報, 全國性比賽
     - nation-state (n)民族國家
-    - natty (adj)整潔的, 瀟灑的 <-- neat
-    - neat (adj)整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的, 純的, 好的/妙的 (n)牲畜 = cattle
+    - natty (adj)整潔時髦的, 精巧的 = clever
+    - neat (adj)整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的 = facile, 純的, [非]好的/妙的 
     - neighboring (adj)旁邊的/附近的 = adjacent
     - necessitate (v)使必須 == make (something) necessary 
     - necessitous (adj)窮困的 = needy
-    - needle (n)針/注射針/指針/針葉/唱針, 惹惱/激怒/不斷地數落 = irritate
-    - needlework (n)縫紉/刺繡
-    - needy (adj)需要過多關懷的, 貧窮的 = impecunious = indigent
+    - needle (n)針/編織針, 注射針, 指針/磁針, 唱針 = stylus, 針葉 (v)戳 = prick, 刺激/激怒 = provoke = irritate
+    - needlework (mn)縫紉/刺繡, 刺繡品
+    - needy (adj)需要關懷的 = insecure, 貧窮的 = impecunious = indigent = necessitous
     - nerdy, nurdy (adj)書呆子的 = boringly studious, 狂熱的 = obsessive
     - nestle (v)依偎/舒適地安頓下來 = settle = lie , 半隱半現地處於
     - net (n)網, 網狀物, 捕獲量, 球門, 球網, 安全網, 網狀, 陷阱 = trap, 羅網, 通信網, 網狀系統, [the Net]網際網路 (v)用網捉, 用網捕魚, 巧妙的獲得, 打(球)落網, 用網子蓋住, 獲得/賺得/淨賺, 使賺得 (adj)淨值的, 淨重的, 淨數的, 總的/全面的
-    - nib (n)鋼筆尖
+    - nib (n)筆尖, 尖頭, 咖啡豆/去胚芽可可豆
     - nibble (v)咬一小口, 一點點地咬, 輕咬, 逐漸侵蝕/逐漸消失, 對(機會)表示興趣 (n)細咬/啃, 咬一口的量, 小菜, 表示出興趣
-    - nice (adj)精密的/細微的, 好的, 講究的/愛挑剔的 = fastidious
     - nick (n)槽口/刻痕 = cut = notch , 警局 (v)割破/在…上刻出凹痕, [for]敲詐 = cheat = swindle
-    - nifty (adj)俏皮的/極好的, 漂亮的
-    - niggardly (adj)吝嗇的 = stingy = miserly = parsimonious = mean = ungenerous
+    - nifty (adj)[非]絕妙的/俐落的, 有吸引力的/漂亮的
+    - niggardly (adj)吝嗇的 = stingy = miserly = parsimonious = mean = ungenerous, 很少量的
     - nightmare (n)惡夢, 可怕的事/夢魘 <-- night + mare
-    - nightstick (n)警棍
-    - nil (n)無/零 = cipher = nothing = zero
-    - nip (v)小口啜飲
-    - nipple (n)奶頭, 奶嘴
+    - nightstick (n)警棍 = truncheon
+    - nil (n)無/零 = cipher = nothing = zero (adj)不存在的 = non-existent
+    - nip (v)咬/掐/捏 = bite = pinch, 凍傷, [非]偷取, 喝一口 (n)咬/掐/捏, 刺骨, 一小口/少量 = sip
+    - nipple (n)奶頭, 奶嘴, 短管/短節/螺紋接管
     - nit (n)卵/幼蟲
-    - nitpick (v)挑剔/吹毛求疵
-    - nomad (n)流浪者 = wanderer, 遊牧部落的人 --> nomadic (adj)遊牧的
+    - nitpick (v)吹毛求疵/雞蛋裡挑骨頭
+    - nomad (n)遊牧民, 流浪者 = wanderer --> nomadic (adj)遊牧的 = wandering
     - northerly (adj/adv)向北的, 北的(風) (n)北風
-    - notch (n)刻痕/槽口, 帶釦孔, 刻痕 = nick, 等/級 (v)在……上刻凹痕, 扣 = secure, 贏得 = score = achieve
-    - nova (n)新星
+    - notch (n)刻痕/槽口, 帶釦孔, 刻痕 = nick, 等/級, 峽谷/山峽 (v)在……上刻凹痕, 扣 = secure, 贏得 = score = achieve
+    - nova -> novae/novas (n)新星
     - nub (n)核心, 突起/結節, 一小塊
-    - nubile (adj)適婚年齡的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
-    - nucleate (adj)有核的 (v)使集結/使成核
+    - nubile (adj)性發育成熟的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
     - nudge (v)用肘輕推, 輕推, 刺激/鼓勵, 接近 (n)輕推
     - numismatist (n)錢幣學家/錢幣收藏家
     - nut (n)堅果, 堅果殼, 核, 螺母/螺帽, 怪人, 狂人, 腦袋, 睪丸 = testicles (adj)[nuts about]迷戀的/癡迷於..的 = crazy = about
 
 [O]
-    ++ /əˈbliːk/ oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive = backhanded
-    ++ /əˈblɪvɪən/ oblivion (n)遺忘/無人知曉, 失去感覺, 滅絕 = annihilation = extinction --> oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware <|> obvious
+    ++ /əˈbliːk/ oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive = backhanded (n)斜肌
+    ++ /əˈblɪvɪən/ oblivion (n)無知覺/無意識, 被遺忘, 毀滅/滅絕 = annihilation = extinction, 大赦/赦免 = amnesty = pardon
+    --> oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware <|> obvious
     +++ obscure (adj)模糊的/不確定的 = uncertain, 無名的/無足輕重的, 含糊不清的/晦澀的  = ambiguous = elliptical = vague = opaque = subtle, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
     + obscurity (n)默默無名/不重要, 晦澀/難解
-    + odyssey (n)長途的冒險旅行 = voyage
-    + offset (v)補償/抵消 = compensate = recompense = counterbalance = indemnify = redeem
+    + /ˈɒdɪsi/ odyssey (n)長途的冒險旅行 = voyage
+    + offset (n)補償/抵消, 偏移量, (植物植物)橫枝/旁枝, 平版印刷 (v)補償/抵消, 襯托出, 用平版印刷術印刷
     + /ɒlˈfakt(ə)ri/ olfactory (adj)嗅覺的 --> olfaction (n)嗅覺 <-- olfac 味道 = smell + tory
     ++ onetime (adj)曾經的 = former, 一次的 (adv)一次/一口氣
-    + /ˌɒnə(ʊ)matəˈpiːə/ onomatopoeia (n)擬聲/擬聲字
-    + onset (n)(壞事)開始 = start = beginning, 攻擊/襲擊 = assault = attak  <|> outset
+    + /ˌɒnə(ʊ)matəˈpiːə/ onomatopoeia (n)擬聲/擬聲字, 擬聲法
+    + onset (n)(壞事)開始 = start = beginning <|> outset
     * outset (n)最初/開始 = start = beginning
-    ++ /ə(ʊ)ˈpeɪk/ opaque (adj)不透明的/不透光的 = turbid, 難理解的/晦澀的 = obscure (n)半透明物
+    ++ /ə(ʊ)ˈpeɪk/ opaque (adj)不透明的/不透光的 = turbid, 難理解的/晦澀的 = obscure (n)不透明體 <--> translucent
     ++ open-ended (adj)無限制的, 開放式的(問題)
-    + /ə(ʊ)ˈpʌɪn/ opine (v)想/認為 = say = suggest = imagine --> opinion (n)意見/見解
-    + /ˈɒptɪməm/ optimum (adj)最理想的/最佳的 --> optimism (n)樂觀主義者 --> optimistic (adj)樂觀的 = sanguine
-    + opulent (adj)富裕的 = wealthy = rich = affluent, 豐富的 = abundant = profuse = plentiful = luxuriant = rife --> opulence (n)奢侈/富麗堂皇, 財富 <|> petulant <-- opul 財富 = wealth + ent
+    + /ə(ʊ)ˈpʌɪn/ opine (v)想/認為 = suggest = think --> opinion (n)意見/見解, 主張, 評價
+    + optimum -> optima/optimums (adj)最理想的/最佳的 = best (n)最佳情況
+    + optimism (n)樂觀, 樂觀主義 --> optimistic (adj)樂觀的 = sanguine
+    + opulent (adj)奢華的, 富裕的 = wealthy = affluent <|> petulant --> opulence (n)奢侈/富裕 <-- opul 財富 = wealth + ent
     + /ˌɔrnəˈθɑlədʒi/ ornithology (n)鳥類學 --> ornithologist (n)鳥類學家 <-- ornitho 鳥 = bird + logy
-    ++ orotund (adj)誇大的 = pompous = bombastic = rhetorical = oratorical = tumid = turgid, 響亮的 = resonant = booming = stentorian
-    + ossify (v)硬化/骨化, 使僵化 <-- ossi 骨頭 = bone + fy
+    ++ orotund (adj)響亮的 = resonant = booming = stentorian, 誇大的 = pompous = bombastic = rhetorical = oratorical = tumid = turgid,
+    + ossify (v)硬化/骨化, 停滯 = stagnate <-- ossi 骨頭 = bone + fy
     ++ otherwise (adj)不同的 (adv)否則/不然, 在其他方面/除此以外, 用別的方法
-    + /aʊst/ oust (v)罷免/廢黜 = dispossess = depose, 驅逐/趕走 = expel = banish = evict
-    + overt (adj)公開的/非秘密的 = manifest <--> covert
+    + /aʊst/ oust (v)罷免/廢黜 = dispossess = depose, [法]剝奪
+    + overt (adj)公開的/非秘密的 = apparent <--> covert
 
     *** oath (n)誓言 = pledge = troth, 詛咒/咒罵 = curse = swearword <|> loath
-    ** /əbˈsiːn/ obscene (adj)猥褻的/下流的 = gross = bawdy = vulgar = indecent = lewd = depraved = ribald = salacious = vile, 令人厭惡的 = abominable = disgusting = repulsive = fulsome = vile
-    ** offhand (adv)即席 = extempore (adj)失禮的/唐突的 = cavalier = informal = casual = curt = brusque
-    * offspring (n)幼獸, 後代/子女 = brood = progeny
-    * onlooker (n)觀眾/旁觀者
-    * /ˈɔɪstə/ oyster (n)牡蠣, 沉默寡言的人
+    ** /əbˈsiːn/ obscene (adj)猥褻的/下流的 = bawdy = vulgar = indecent = depraved = ribald = vile, 令人厭惡的 = repugnant = abominable = disgusting = repulsive = fulsome = vile = gross
+    ** offhand (adj)不友好的/不禮貌的 = nonchalant (v)不假思索地
+    * offspring (n)幼獸, 後代/子女 = brood = progeny, 產物
+    * onlooker (n)觀眾/旁觀者 = spectator
+    * /ˈɔɪstə/ oyster (n)牡蠣, 牡蠣白 = oyster white (v)牡蠣養殖
     * /uːz/ ooze (v)滲出/冒出 = seep out, 散發出(特質) (n)沼澤/沼地, 河床沈澱物
     
     - oaf (n)呆子/蠢人, 畸形兒 --> oafish (adj)痴呆的/愚笨的 --> oafishness (n)癡呆
@@ -2567,8 +2569,7 @@
     + /ˈpɛsɪmɪz(ə)m/ pessimism (n)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
     ++ petulant (adj)傲慢的/專橫的 = insolent = overbearing = imperious = domineering = arrogant = peremptory = insolent, 易怒的 = peevish = irascible = irritable --> petulance (n) = peevishness
     + /ˈfalaŋks/ phalanx (n)密集的人群/方陣, 指骨/趾骨
-    +  /feɪz/ phase (n)階段/時期, 相, 盈虧 (v)分階段實行
-    - phase­out (n/v)逐步淘汰
+    + /feɪz/ phase (n)階段/時期, 相, 盈虧 (v)分階段實行, [out]逐步淘汰 --> phaseout (n)逐步淘汰
     + /ˈfɪlɪstʌɪn/ philistine (n)庸俗的人 (adj)俗氣的/無教養的/庸俗的
     + phlegmatic (adj)冷淡的/冷靜的 = stolid = unemotional = apathetic = impassive = numb <-- phlegm
     + /ˈfiːnɪks/ phoenix (n)鳳凰, 永生或再生的象徵
@@ -2706,6 +2707,7 @@
     - pantry (n)食品室 <|> pastry <|> paltry
     - papyrus (n)莎草/莎草紙
     - paramedics (n)醫護人員
+    - /ˈpɑːs(ə)l/ parcel (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
     - parch (v)烘烤 = toast, 烤焦 <|> perch <|> porch
     - parietal (adj)(身體)外壁的/腔壁的, (腦)頂葉的, (大學宿舍)異性訪客的 (n)外壁/腔壁, 異性訪客規定
     - parka (n)抵禦風雪的毛皮大衣
@@ -3308,6 +3310,7 @@
     ** stiff (adj)僵直的/僵硬的, 黏稠的 = viscous = thick, 不易移動的/不靈活的, 拘謹的/不自然的, 嚴重的/強烈的 = severe = strong, 艱難的 = difficult, 烈的(酒), [非][with]充滿 (n)[非]屍體, 特別拘謹的人 (v)[非]詐騙, 忽視 = snub, [非]殺 = kill, (商業或產品)失敗
     * stink (v)發出惡臭, 壞透/糟透 (n)惡臭 = stench
     *** stir (v)攪拌 = disturb = agitate, 搖動/撥動, 刺激/激勵, 喚醒/喚起
+    * storey
     * stout (adj)粗壯結實的, 厚實的/牢固的, 不屈不撓的 (n)烈性黑啤酒
     * /stəʊ/ stow (v)儲藏 = reserve = store = stash = lodge <|> /stɔː/ store 
     * studious (adj)勤奮好學的/用功的, 審慎的/刻意的, 專心的
@@ -3683,7 +3686,7 @@
     - stuff (n)材料/原料, 東西, 紡織品, 素質/本質, 廢物/劣貨 (v)裝/填/塞
     - stuffy (adj)空氣不新鮮的/空氣沈悶的
     - stutter (n/v)結巴/口吃, 斷斷續續地運轉
-    - stylus (n)唱針, 鐵筆/尖筆, 觸控筆
+    - stylus (n)唱針 = needle, 鐵筆/尖筆, 觸控筆
     - suitcase (n)手提箱/箱子
     - sulky (adj)生氣的 = angry
     - sultry (adj)悶熱的, 性感的/迷人的 = seductive = voluptuous
@@ -4068,7 +4071,7 @@
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
     * vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的
     * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
-    ** vintage (n)年份/產地, 高品質葡萄酒, 年代 (adj)高品質葡萄酒的, 最佳的
+    *** vintage (n)年份/產地, 高品質葡萄酒, 年代 (adj)高品質葡萄酒的, 最佳的
     * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
     * vomit (v)嘔吐 = disgorge = heave
     

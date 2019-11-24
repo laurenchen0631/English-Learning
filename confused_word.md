@@ -52,6 +52,7 @@
 - caveat <--> cavern
 - cease <--> crease <--> grease
 - cellar <--> cellular
+- census <--> consensus <--> censor <--> censure
 - chary <--> char
 - clement <--> cement <--> cremate
 - click <--> cluck
@@ -66,9 +67,11 @@
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble
 - collusion <--> collision
 - command <--> commend <--> commandeer <--> commence <--> commerce
-- commute <--> commune
+- commute <--> communes
+- compass <--> compassion <--> encompass
 - complement <--> compliment <--> compliance
 - congenial <--> congenital <--> genital
+- consort <--> consortium
 - contingent <--> continent <--> contiguous 
 - convey <--> convoy
 - cooperate <--> corporate <--> coop
@@ -127,6 +130,7 @@
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethnic
+- euphony <--> phony
 - exegesis <--> genesis
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
@@ -234,24 +238,28 @@
 ## J
 - jag <--> jog
 - jockey <--> hockey
-- jot <--> jolt <--> jostle
+- jot <--> jut <--> jolt <--> jostle
 
 ## L
+- lacerate <--> macerate
 - lascivious <--> luscious
 - launch <--> lunch
 - lava <--> larva
 - leave <--> leaf <--> leaven
 - lease <--> leash
 - leer <--> leery
+- lesion <--> liaison
 - liable <--> liability
 - lair <--> liar
 - liberal <--> liberty <--> liberate <--> libertine
 - lie <--> lay
+- limb <--> limber <--> limp
 - lime <--> limestone
 - limpid <--> lipid
+- line <--> lien <--> linen
 - list <--> listless
 - listen <--> glisten
-- little <--> litter <--> liter
+- little <--> litter <--> liter <--> lit <--> lilt
 - inveterate <--> invertebrate
 - loath <--> loathe
 - lobe <--> lode <--> lodge
@@ -264,9 +272,12 @@
 
 ## M
 - magisterial <--> magistery
+- makeup <--> markup
+- marshal <--> marsh
 - martial <--> marital
 - mason <--> mansion
 - mast <--> mash <--> mat <--> matt <--> mattress
+- mawkish <--> maw
 - metric <--> metrical
 - mature <---> manure
 - meddle <--> mettle <--> nettle
@@ -278,19 +289,23 @@
 - miser <--> misery
 - moral <--> morale
 - mosquito <--> mosque
-- mug <--> muggy
+- motley <--> medley
 - mulct <--> dulcet
 - myriad <--> pyramid
 - mythic <--> mythical
 
 ## N
 - naive <--> native
+- necessitate --> necessitous
+- nip <--> sip
 - notion <--> notch <--> note <--> botch <--> blotch
 - nuance <--> nuisance
 
 ## O
+- oblivious <--> obvious
 - object --> objection <--> objective
 - offensive <--> inoffensive
+- onset <--> outset
 - orchard <--> orchid
 - outlook <--> overlook <--> oversee <--> oversight
 
@@ -299,6 +314,7 @@
 - pastoral <--> pastor <--> pasture
 - perpetrate <--> perpetuate
 - persecute <--> prosecute
+- petulant <--> opulent
 - principle <--> principal
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
@@ -333,11 +349,13 @@
 - stationery <--> stationary
 - snarl <--> gnarl
 - snitch <--> stitch
+- specter <--> spectator
 - spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt
 - solicit <--> solicitude <--> solicitous
 - stand <--> strand
+- storey <--> story
 - struggle <--> straggle
 - stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
@@ -345,6 +363,7 @@
 
 ## T
 - tactile <--> tactual
+- tangle <--> mangle
 - telltale <--> untold
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
 - tend <--> tender <--> tendentious
@@ -355,7 +374,7 @@
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
-- tug <--> tuck <--> lug
+- tug <--> tuck <--> lug <--> mug <--> muggy
 
 ## V
 - vie <--> vile <--> vilify

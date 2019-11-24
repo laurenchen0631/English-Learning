@@ -224,7 +224,9 @@
 - well into 離..有一段時間了 == far into something or far along in something.
 	- Until well into this century, the mentally ill were often targets of suspicion and even hostility.
 	- It was well into the morning before she awoke. The car was well into the tunnel when it broke down.
-
+- buy time 贏得時間/拖延時間
+	- He tried to buy time by saying he hadn't been well.
+	
 ## Perspective
 - on the ground 在公眾中/在普通百姓中
 	- Their political ideas have a lot of support on the ground.
@@ -341,7 +343,7 @@
 - snatch victory (from the jaws of defeat) 在最後時刻取得勝利
 
 ## Conclusion/Finish
-- boil down to sth 主要原因在於/歸結為
++ boil down to sth 主要原因在於/歸結為
 	- The problem boils down to one thing - lack of money.
 - cap off 把...收尾 == to finish something with a very good final activity or achievement
 	- We capped off a wonderful evening with birthday cheesecake.
@@ -428,6 +430,10 @@
 	- This company is the only one to have bucked the trend of a declining industry.
 - call to mind 使人想起
 	- That place just calls my ex-girlfriend to mind.
+- carry a torch (for sb) 單相思
+	- John has carried a torch for Jane for years but she doesn't seem to notice.
+- carry the can (for sb) 替人受過
+	- The boss is so lazy but when there's a mistake I always have to carry the can for him.
 - catch sb off guard 使..措手不及
 	- The strength of the storm caught many residents off guard.
 - cop to 承認做了 == to admit to doing (something)
