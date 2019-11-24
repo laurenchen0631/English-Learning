@@ -110,6 +110,8 @@
 	- The new traffic system worked up to a point, but it had its problems.
 - in every particular == in all particulars 在每一個細節
 	- The documents were identical in almost every particular.
+- with a fine-tooth comb 仔細地/徹底地
+	- We have gone through the evidence with a fine-tooth comb.
 	
 ## Frequency
 - on and off 時斷時續地/間歇地 == If something happens on and off during a period of time, it happens sometimes.

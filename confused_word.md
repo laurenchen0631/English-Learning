@@ -2,7 +2,7 @@
 - across <--> cross
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
-- aloof <--> aloft <--> loaf
+- aloof <--> aloft <--> loaf <--> oaf <--> oak
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
@@ -119,6 +119,7 @@
 - drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
 - drudge <--> dredge
 - dub <--> dab <--> daub <--> dud <--> dude
+- due <--> undue
 - dull <--> hull
 - dun <--> dune
 - dwindle <--> dawdle <--> doodle <--> swindle
@@ -190,6 +191,7 @@
 - harry <--> marry <--> parry <--> quarry
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow
+- hash <--> mash
 - hatch <--> hitch <--> hutch <--> hut <--> ditch
 - haul <--> hurl <--> overhaul
 - haze <--> hazel
@@ -277,6 +279,7 @@
 - martial <--> marital
 - mason <--> mansion
 - mast <--> mash <--> mat <--> matt <--> mattress
++ maunder <--> meander
 - mawkish <--> maw
 - metric <--> metrical
 - mature <---> manure
@@ -289,14 +292,19 @@
 - miser <--> misery
 - moral <--> morale
 - mosquito <--> mosque
+- mote <--> mite
 - motley <--> medley
+- mow <--> maw
+- muddle <--> muffles
 - mulct <--> dulcet
+- mutter <--> patter <--> putter <--> sputter <--> otter <--> totter
 - myriad <--> pyramid
 - mythic <--> mythical
 
 ## N
 - naive <--> native
 - necessitate --> necessitous
+- nib <--> nibble <--> nip <--> nipple
 - nip <--> sip
 - notion <--> notch <--> note <--> botch <--> blotch
 - nuance <--> nuisance
@@ -307,11 +315,16 @@
 - offensive <--> inoffensive
 - onset <--> outset
 - orchard <--> orchid
+- ordain <--> ordeal <--> ordinance <--> ordnance
 - outlook <--> overlook <--> oversee <--> oversight
 
 ## P
+- paltry <--> penury <--> petty
+- panache <--> penchant <--> pinnacle
+- parley <--> parry <--> parlance <--> parliament
 - passive <--> impassive <--> passionate <--> impassioned
 - pastoral <--> pastor <--> pasture
+- patent <--> latent
 - perpetrate <--> perpetuate
 - persecute <--> prosecute
 - petulant <--> opulent
@@ -345,6 +358,7 @@
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - scrupulous <--> unscrupulous
 - shed <--> shred
+- slaughter <--> onslaught
 - sleight <--> sleigh
 - stationery <--> stationary
 - snarl <--> gnarl
@@ -353,6 +367,7 @@
 - spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt
+- sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - stand <--> strand
 - storey <--> story

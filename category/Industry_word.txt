@@ -840,6 +840,7 @@
 	- anesthesiologist 麻醉師
 	- ObGyn == obstetrician-gynecologist 婦產科醫生 == a doctor who specializes in women’s health
 	* veterinary /ˈvɛtrɪn(ə)ri／ (adj)獸醫的 (n)動物手術 --> veterinarian /ˌvɛt(ə)rɪˈnɛːrɪən/ (n)獸醫
+    - ophthalmology (n)眼科學
 	- emergency medical service == EMS (n)緊急醫療服務
 	- emergency medical technician == EMT (n)緊急救護技術員
 	- paramedic (n)急救護理人員
@@ -984,8 +985,14 @@
 	- infantile amnesia 嬰兒經驗失憶
 	- vitamin /ˈvɪtəmɪn/ (n)維他命/維生素
 	- variolation (n)變種/接種(首先用於從患者或最近變化的個體中取出的材料對個體進行天花免疫的方法)
+	
 
 [Disease/Hurt]
+	- attention deficit hyperactivity disorder == ADHD (n)專注力失調及過度活躍症
+	- Tourette’s syndrome (n)妥瑞症/抽動症/托雷氏症，症狀包含聲音型和運動型抽動綜合症，會不受自主控制地發出清喉嚨的聲音或聳肩、搖頭晃腦等
+	- obsessive-compulsive disorder == OCD (n)強迫症
+	- schizophrenia (n)精神分裂症
+
 	- acrania 無顱畸形
 	- atrophy
 		> 萎縮 |(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution.|
@@ -1234,6 +1241,7 @@
 	- cello /ˈtʃɛləʊ/ (n)大提琴
 	- string quartet 弦樂四重奏
 	- orchestra /ˈɔːkɪstrə/ (n)管弦樂團, 樂池/樂隊席 = orchestra pit, 正廳前座區 = stall
+	- orchestra pit 樂池/樂隊席 == the area of a theatre in which musicians play their instruments, usually in front of the stage
 	- mezzo-soprano 次女高音
 	- riff
 		> 即興重複段 |A short repeated phrase in popular music and jazz, typically used as an introduction or refrain in a song.|
@@ -1256,15 +1264,7 @@
 		> NA 暢飲 |A spell of drinking and lively enjoyment; a spree.| 
 	- rhapsody 狂文/狂想曲 == An effusively enthusiastic or ecstatic expression of feeling.
 	- ragtime 散拍，也稱為抹布時間，是一種原始的音樂風格
-	- offbeat
-		> |Not coinciding with the beat.| 
-		> |Any of the normally unaccented beats in a bar.|
-		> |Unconventional; unusual.| she`s a little offbeat but she`s a wonderful actress
 	- vaudeville 輕舞歌劇 == A type of entertainment popular chiefly in the US in the early 20th century, featuring a mixture of speciality acts such as burlesque comedy and song and dance.
-	- orchestrate /ˈɔːkɪstreɪt/ 
-		> 編排(樂曲) |Arrange or score (music) for orchestral performance.| the song cycle was stunningly arranged and orchestrated
-		> 密謀 |Plan or coordinate the elements of (a situation) to produce a desired effect, especially surreptitiously.| the situation has been orchestrated by a tiny minority
-	- orchestra pit 樂池/樂隊席 == the area of a theatre in which musicians play their instruments, usually in front of the stage
 	- swing 搖擺樂，是1930年代早期發源於美國的一種音樂類型。音樂之所以稱為「搖擺樂」，是由於音樂強調小節裡的下半拍或弱拍，因而帶來搖擺的感覺。搖擺樂樂團通常會有獨奏樂手為編制好的音樂加上即興演奏。
 	- jukebox 點唱機 == A machine that automatically plays a selected musical recording when a coin is inserted
 	- jitterbug 搖擺舞/吉特巴舞 == A fast dance popular in the 1940s, performed chiefly to swing music.

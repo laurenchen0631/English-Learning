@@ -897,6 +897,7 @@
 		- municipality (n)市/市政當局
 		+++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任(職務) <-- oc + cup 抓 = take, seize + y
 		+++ occupation (n)職業/工作, 日常活動/消遣, 佔領/佔據
+		+ occupational (adj)職業的
 		* perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
 		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception = understanding, 感覺/知覺/感知
 		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
@@ -984,7 +985,7 @@
 		- column (n)圓柱, 柱狀物, 欄, 專欄, 縱列
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
-		- accommodate (v)[to]使適應 = adjust = adapt, 提供住宿
+		* accommodate (v)[to]使適應 = adjust = adapt, 提供住宿
 		- accommodation (n)住處/膳宿, 可用空間, 提供住宿, 調和/和解, 適應/調節
 		- accommodating (adj)樂於助人的 = benevolent
 		+ commodity (n)日用品, 商品 = ware
@@ -3385,6 +3386,7 @@
 			- intercept
 			- interchange (v)交換/互換 --> interchangeable (adj)可互換的
 			+ interdict
+			- interfaith (adj)不同信仰者之間的
 			- interfere (v)插手/干涉 --> interference (n)干涉/妨礙 <-- inter+ fere 攻擊 = strike
 			- /ˈɪnt(ə)rɪm/ interim (n)中間時期/過渡時期 (adj)臨時的/暫時的 = temporary
 			- interject --> interjection
@@ -4306,11 +4308,14 @@
 		+ unnerve 
 	
 	neuro 神經 = nerves
+		- neurocognitive (adj)神經認知的
+		- neurodiversity (n)神經多樣性
 		- neuroimaging (n)神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術) = brain imaging
 		- neuroanatomy (n)神經解剖學
 		- neuron (n)神經元
 	    - neurology (n)神經學 
 		- neuroscience (n)神經科學
+
 
 	nihil 無 = nothing
 		+ annihilate (v)消滅 = obliterate = extingush = decimate = wipe out, 征服/徹底勝過 = vanquish
@@ -4549,6 +4554,7 @@
 			+ overstate (v)誇張/對...言過其實 = exaggerate
 			- overstay (v)停留得過久
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
+			- overstimulate (v)過度刺激
 			- overstretch (v)使過分伸張, 做出過度的要求
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
 			+ overthrow (n/v)推翻/廢除 = subvert = topple (v)武力終結, 丟過頭, 丟過..的頭
@@ -4606,7 +4612,7 @@
 	ord 命令 = order
 		- order (n)順序/次序, 整齊/有條理, 秩序/治安, 規定, 命令, 訂購/訂單, 訂購品, 判決書, 匯票/匯單, 等級/階層, 社會等級, 特質/本質, 狀態, [生]目, 配備 (v)命令/指揮, 定購/叫, 整理
 		- ordain (v)任命..為神職, 命令/下令 = decree = enact = prescribe = enjoin <|> foreordain
-		- ordeal (n)苦難
+		- ordeal (n)苦難/不愉快的經驗, 神裁法(將嫌疑犯的手浸入沸水中，受神主宰，手無損，則無罪)
 		- ordinance (n)法令/條例 = decree = command, 宗教儀式 <|> ordnance
 		- /ˈɔːdnəns/ ordnance (n)大砲 = artillery, 軍械 = munitions, 軍械署
 		+ orderly (adj)整齊的/有條理的/整潔的, 守秩序的 (n)勤務員/護理員, 傳令兵
@@ -5188,7 +5194,7 @@
 		- /rɪˈpɛl/ repel (v)擊退/驅除, 排斥/相斥, 拒絕/排斥, 使厭惡/使極反感
 		- repellent, repellant (adj)排斥的/相斥的, 令人厭惡的 (n)驅蟲劑, 防水劑
 		- repulse (n/v)擊退/趕走 = repel, 拒絕/排斥 = reject = rebuff = repel (v)令人厭惡/使人反感 
-		- repulsive (adj)令人厭惡的/使人反感的 = disgusting = fulsome = vile = obscence, 排斥力的
+		- repulsive (adj)令人厭惡的/使人反感的 = disgusting = fulsome = vile = obscence = odious, 排斥力的
 		- /rɪˈpʌlʃən/ repulsion (n)厭惡/反感, 排斥力
 
 	poly 多 = many, much
