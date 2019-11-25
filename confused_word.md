@@ -102,6 +102,7 @@
 - despot <--> unspotted
 - deterrent <--> determinant
 - dew <--> pew
+- dialect <--> dialectical
 - digest <--> ingest
 - dim <--> din <--> dingy
 - dilatory <—> dilate
@@ -212,7 +213,7 @@
 - hospitable <--> hospital
 - hostel <--> hotel
 - humbug <--> hamburger
-- humiliate <--> humility <--> humble
+- humiliate <--> humility <--> humiliation <--> humble
 - hubris <--> debris
 - hurdle <--> hurtle <--> curdle
 - husband <--> husbandry 
@@ -258,6 +259,7 @@
 - limb <--> limber <--> limp
 - lime <--> limestone
 - limpid <--> lipid
+- impress <--> imprint
 - line <--> lien <--> linen
 - list <--> listless
 - listen <--> glisten
@@ -268,7 +270,7 @@
 - loll <--> lull <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
-- lucid <--> lurid
+- lucid <--> lurid <--> ludicrous
 - lurk <--> lark <--> lurch <--> luck 
 - luster <--> lust <--> lustful <--> lustrous
 
@@ -291,6 +293,7 @@
 - miscreant <--> recreant
 - miser <--> misery
 - moral <--> morale
+- morose <--> remorse
 - mosquito <--> mosque
 - mote <--> mite
 - motley <--> medley
@@ -312,6 +315,7 @@
 ## O
 - oblivious <--> obvious
 - object --> objection <--> objective
+- odium <--> opium
 - offensive <--> inoffensive
 - onset <--> outset
 - orchard <--> orchid
@@ -325,20 +329,25 @@
 - passive <--> impassive <--> passionate <--> impassioned
 - pastoral <--> pastor <--> pasture
 - patent <--> latent
-- perpetrate <--> perpetuate
+- penalty <--> penitent <--> penitentiary <--> penitence <--> patience
+- perpetrate <--> perpetuate 
 - persecute <--> prosecute
 - petulant <--> opulent
+- plod <--> plot <--> ploy <--> probe
 - principle <--> principal
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
+- prestige <--> vestige
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
+- proprietary <--> propriety <--> property <--> impropriety
 - pugnacious <--> impugn <--> repugnant
 
 ## R
+- rail <--> raillery
 - raise <--> raisin
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
 - rapprochement <--> reapproach
@@ -356,6 +365,7 @@
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
+- serendipitous <--> serpentine
 - scrupulous <--> unscrupulous
 - shed <--> shred
 - slaughter <--> onslaught
@@ -383,6 +393,7 @@
 - temper <--> temperate <--> temperance <--> temperature <--> tempest
 - tend <--> tender <--> tendentious
 - thick <--> thicket
+- through <--> trough
 - toll <--> atoll <--> extolling
 - trapping <--> trap
 - treat <--> treatise
@@ -390,6 +401,9 @@
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
 - tug <--> tuck <--> lug <--> mug <--> muggy
+
+## U
+- unexceptional <--> unexceptionable <--> unexpected
 
 ## V
 - vie <--> vile <--> vilify

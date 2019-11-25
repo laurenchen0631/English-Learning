@@ -195,6 +195,7 @@
 		- amity (n)友好關係
 		+ enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
 		* glamor, glamour (n)吸引力/魅力 --> glamorous (adj)富有魅力的
+		- glamorize (v)美化/使更有魅力
 
 	ambi, amphi 
 		1. 二 = both, two
@@ -399,6 +400,7 @@
 		* armorial (adj)紋章的/徽章的 (n)紋章書
 		- armistice (n)停戰/休戰 <-- arm + stice 停止 = stop
 		- disarm (v)繳械, 使緩和
+		- disarmament (n)裁軍/裁減軍備
 		- firearm (n)槍枝
 
 	arthr, artic 連結/關節/接合 = joint
@@ -454,7 +456,7 @@
 		+ /ɔːˈθɛntɪk/ authentic (adj)真正的 = authoritative = genuine
 		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate --> authenticity (n)真偽/真實性/可靠性
 		- authorship (n)著作者的身分
-		- authoritarian (n)獨裁主義者
+		* authoritarian (adj)獨裁的/專制的, 專制的/專橫的 = dictatorial (n)獨裁主義者
 		+ authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
 		+ /ɔːˈθɒrɪti/ authority (n)權威/權力
 		- authorize (v)授權, 批准 = approve = permit = ratify
@@ -495,6 +497,7 @@
 		- bilingual (adj)兩種語言的 <-- bi + linguistic
 		- bipartisan (adj)獲得兩個政黨支持的
 		- biped
+		- bipolar (adj)有兩極的/兩極的, 躁鬱的
 
 	bio 生命
 		- antibiotic (n)抗生素
@@ -882,6 +885,7 @@
 		- deciduous (adj)落葉性的, 脫落的
 		++ /dɪˈsʌɪpəl/ disciple (n)信徒/弟子/擁護者
 		+++ /ˈdɪsɪplɪn/ discipline (n)紀律/風紀, 教養/休養, 學科, 懲戒/懲罰
+		- subdiscipline (n)學科的分支
 		+ disciplinary (adj)紀律的, 訓練的, 懲戒的, 學科的
 		* disciplinarian (n)執行紀律者 = martinet (adj)執行紀律的
 		* emancipate
@@ -922,7 +926,7 @@
 		- genocide (n)種族滅絕
 		- germicide (n)殺菌劑
 		- herbicide (n)除草劑
-		- suicide (n)自殺 
+		- suicide (n)自殺 --> suicidal (adj)有自殺傾向的, 自我毀滅的 
 		- homicide (n)謀殺/他殺 --> homicidal (adj)殺人的
 		- fungicide (n)殺真菌劑 
 		- feticide
@@ -2802,7 +2806,7 @@
 
 	gene, gen 基因
 		- gene (n)基因
-		- genealogy (n)家譜學 --> genealogic (adj)系譜學的
+		* genealogy (n)系譜, 家譜學 --> genealogic (adj)系譜學的
 		- genesis (n)創始/起源
 		- genetic (adj)遺傳的, 起源的 --> genetics (n)遺傳學
 		- genome (n)基因組/染色體組 = gene + ome 群組
@@ -3116,7 +3120,7 @@
 			+ inept --> ineptitude
 			- inequity
 			+ /ɪˈnəːt/ inert (adj)惰性的, 無生命的/遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 慣性 <-- in + ert 技巧 = skill
-			- inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing, 不會疲勞的 = untiring = tireless
+			++ inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing, 不會疲勞的 = untiring = tireless
 			++ inexorable (adj)無法改變的/不可阻擋的, 說不動的/無情的 = implacable = relentless = unyielding = stern
 			+ inexplicable (adj)無法解釋的 = mysterious = obscure
 			+ inevitable (adj)無可避免的/必然的 = certain = necessary = unalterable = unavoidable = ineluctable
@@ -3236,7 +3240,7 @@
 			- impound (v)扣押/沒收, 將(牲畜)關在圈中, 將..關起 = lock up, (水壩)貯水/蓄水
 			- impoverish (v)使貧窮, 耗盡(精力) <-- im + pover(ty) + ish
 			+ impress --> impressed --> impression --> impressionable
-			- imprint (v)蓋印/印痕
+			- imprint (v)蓋印, 銘刻/使銘記 (n)壓痕/痕跡, 深刻印象/持久影響, 印在書籍上的出版商名稱
 			+ impugn
 			* impulse
 			+ impute
@@ -4734,6 +4738,7 @@
 		- predestine (v)注定
 		+ predetermine (v)預先確定/預先決定
 		- predict (v)預言/預料
+		- predictor (n)預報性事物
 		- predicate (n)述語 (v)假設/斷定 = postulate = assert, [on/upon]使基於/使取決於 <-- pre + dica 表示 = indicate + ate
 		+ /prɪˈdɪkəmənt/ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
 		+ predilection 
@@ -5149,6 +5154,7 @@
 		* psychic (adj)超自然的, 有超能力的, 心靈的 (n)靈媒/巫師
 		- /ˌsʌɪkəˈdɛlɪk/ psychedelic (adj)引起幻覺的 (n)迷幻藥
 		- /sʌɪˈkʌɪətri/ psychiatry (n)精神病學
+		- psychiatric (adj)精神病的/精神病學的
 		- /sʌɪˈkʌɪətrɪst/ psychiatrist (n)精神科醫生
 
 	physi, physio 自然的 = nature
@@ -5738,6 +5744,7 @@
 			+ repast (n)餐/飲食/宴 = meal = feast <-- re + past 餵食 = feed
 			*** repercussion
 			- repetitive, /rɛpɪˈtɪʃəs/ repetitious (adj)反覆的/重複的
+			* rephrase (v)改變措辭/改換措辭來表述
 			+ repine (v)不滿/埋怨 = fret = complain = grouse = grumble <-- re + pine
 			- replenish
 			+ replete
@@ -7230,6 +7237,7 @@
 		- unenlightened (adj)未受啟迪的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
 		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
+		+ unexceptional (adj)尋常的/平常的 = usual <|> unexpected
 		- unexceptionable (adj)無可指摘的/完美無缺的 == not open to objection
 		- unfailing (adj)沒有瑕疵的, 忠實可靠的
 		- unfasten (v)解開 = undo, 鬆脫

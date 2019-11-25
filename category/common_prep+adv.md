@@ -89,7 +89,7 @@
 + practically (adv)幾乎 = virtually = almost, 特定地
 	- the strike lasted practically a fortnight
 	- He might win,’ pointed out Emmeline practically
-- insofar == in so far as (adv)到…的程度 == to the extent that == to the degree that
++ insofar as == in so far as (adv)到…的程度 == to the extent that == to the degree that
 	- the tool is able to cater to almost any need insofar as graphs are concerned
 	- I'll help you insofar as I can. 
 - predominantly (adv)絕大多數/顯著 == mostly == mainly
