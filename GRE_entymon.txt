@@ -398,7 +398,7 @@
 		- armor (n)裝甲
 		- armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
 		* armorial (adj)紋章的/徽章的 (n)紋章書
-		- armistice (n)停戰/休戰 <-- arm + stice 停止 = stop
+		- armistice (n)停戰/休戰協議 = truce <-- arm + stice 停止 = stop
 		- disarm (v)繳械, 使緩和
 		- disarmament (n)裁軍/裁減軍備
 		- firearm (n)槍枝
@@ -1517,7 +1517,7 @@
 			* deliberate
 			- dementia (mn)痴呆/失智症
 			+ demit --> demise
-			- demystify (v)使易懂
+			+ demystify (v)使易懂
 			++ /deɪˈnuːmɒ̃/ denouement (n)結尾 = coda = out <-- de + noue 結 = knot + ment
 			+ denounce
 			- denude
@@ -2422,7 +2422,7 @@
 
 	fer, fert 帶著/帶來 = carry, bear
 		- circumference
-		++ confer (v)商討/商議/協商 = consult = deliberate = parley, 贈與/授與(稱號或榮譽) = bestow = invest --> conference (n)會議/大會/討論會
+		++ confer (v)商討/商議/協商 = consult = deliberate = parley = powwow, 贈與/授與(稱號或榮譽) = bestow = invest --> conference (n)會議/大會/討論會
 		++ defer (v)拖延/推延 = delay, 聽從 = submit = yield
 		++ deference (n)敬意/尊重 = respect = regard = obeisance --> deferential (adj)順從的 = obedient = obsequious <-- defer
 		* deferement (n)延期/推遲 <-- defer
@@ -3160,7 +3160,7 @@
 			+ insolvent --> insolvency
 			- insomnia
 			- insecurity (n)不安全感, 危險/安全
-			+ inseparable (adj)不可分割的/形影不離的
+			+ inseparable (adj)[from]分不開的/不可分離的 (n)形影不離的朋友
 			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual  --> insouciance (n)不在乎 = indifference <-- in + souci 擔心 = worry + ant
 			- instability (n)不穩定, 不安定
 			+ insufferable (adj)難以忍受的 = intolerable, 討厭的/令人討厭的
@@ -3475,6 +3475,10 @@
 		+ idiosyncratic (adj)獨特的 = peculiar = individual
 		- /ˈɪdɪəlɛkt/ idiolect (n)個人的講話風格
 		- idioventricular (adj)心室的
+	
+	iso 同 = equal
+		- isochron (n)等時線
+		- isotope (n)同位素
 
 	{itis} 炎症
 		- arthritis
@@ -3932,6 +3936,7 @@
 		* permit (v)許可/准許 = consent, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
+		- promising (adj)有希望的/有前途的
 		- remit (v)寬恕/赦免, 匯寄/匯付, 提交/移交(問題) (n)提交/移交 <--> unremitting
 		- remittance (n)匯款, 匯款額
 		- remission (n)寬恕/赦免, (疾病的)緩解期
@@ -4324,6 +4329,7 @@
 	nihil 無 = nothing
 		+ annihilate (v)消滅 = obliterate = extingush = decimate = wipe out, 征服/徹底勝過 = vanquish
 		- /ˈnʌɪ(h)ɪlɪz(ə)m/ nihilism (n)虛無主義
+		- nihilistic (adj)虛無主義的
 		- nihil (n)虛無 = void
 
 	non 不
@@ -4737,7 +4743,8 @@
 		+ precursor
 		- predestine (v)注定
 		+ predetermine (v)預先確定/預先決定
-		- predict (v)預言/預料
+		+ predict (v)預言/預料
+		+ predictive (adj)預言性的/預測的
 		- predictor (n)預報性事物
 		- predicate (n)述語 (v)假設/斷定 = postulate = assert, [on/upon]使基於/使取決於 <-- pre + dica 表示 = indicate + ate
 		+ /prɪˈdɪkəmənt/ predicament (n)困境/窘境 = dilemma = quandary = quagmire = scrape <-- predicate
@@ -4902,7 +4909,7 @@
 		- imposing (adj)壯觀的/宏偉的 = grand
 		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
 		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
-		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n) <-- juxta 在附近 = side by side + pose
+		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置 --> juxtaposition (n)並置/並列 <-- juxta 在附近 = side by side + pose
 		+ opponent (n)敵手/對手, 反對者
 		+++ oppose (v)反對/阻撓 = gainsay = naysay, 反抗 = combat, 與..競爭 --> opposition (n)反對/反抗/對立, 對比 = contrast = antithesis
 		- opposite (adj)相反的/對立的 = contrary, 對面的/相對的 (n)相反的人或物 (adv)在對面 (prep)在…對面
@@ -5401,6 +5408,7 @@
 
 	phob, phobia 恐懼 = fear
 		- acrophobia
+		- homophobic (adj)討厭同性戀的
 		- mysophobia (n)潔癖
 		- xenophobe
 		- xenophobia
@@ -6614,6 +6622,7 @@
 		- ascent (n)登高, 上坡, 上升, 晉升
 		+ ascendancy, ascendency (n)優勢/權勢 = dominance = predominance
 		++ condescend (v)懷著優越感地對待 = patronize, 屈尊做 = deign --> condescension (n)高傲態度 = disdain
+		+ condescending (adj)有優越感的/高傲的
 		*** descend (v)下降, 下傾/下坡, [to]屈尊, [to]陷入(困境), [on/upon]突然襲擊, [on/upon]突然拜訪, (黑暗)降臨, [be descended from]為……的後裔, 遺贈
 		*** descent (n)下降/下坡, 墮落, 血統/世系, 遺贈, 突擊, 突訪
 		- /dɪˈsɛndənt/ descendant (n)後代/後裔
@@ -7237,6 +7246,7 @@
 		- unenlightened (adj)未受啟迪的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
 		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
+		+ unexampled (adj)無先例的/空前的 = unprecedented
 		+ unexceptional (adj)尋常的/平常的 = usual <|> unexpected
 		- unexceptionable (adj)無可指摘的/完美無缺的 == not open to objection
 		- unfailing (adj)沒有瑕疵的, 忠實可靠的
@@ -7461,7 +7471,7 @@
 		+ pervade (v)(味道)彌漫, 遍及於/流行於 = prevail --> pervasive (adj)遍佈的/瀰漫的
 		- invade (v)侵略, 侵犯 = encroach = intrude, 擁入 = flock <|> invidious
 		+ /ɪkˈstravəɡ(ə)nt/ extravagant (adj)奢侈的/浪費的 = wasteful, 過度的/過分的 = outrageous = excessive = elaborate --> extravagance (mn)奢侈/浪費, 過度 (n)奢侈品
-		- vagrant (adj)流浪漢的, 徘徊的 = wandering, 易變的/無常的 = inconstant = variable (n)流浪漢 = bum
+		* vagrant (adj)流浪漢的, 徘徊的 = wandering, 易變的/無常的 = inconstant = variable (n)流浪漢 = bum
 		- divagate (v)流浪/徘徊
 
 	vert, verse, vers, volu, volut, volv, volt, vort 轉 = turn, roll == strophe

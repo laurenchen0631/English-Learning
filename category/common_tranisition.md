@@ -224,6 +224,9 @@
 	- Notwithstanding the bad weather, the match went on. 
 	- Notwithstanding he tried hard, he failed in chemistry
 	- Her parents tried to prevent the marriage but the wedding took place notwithstanding. 
++ for all 儘管/雖然
+	- For all his talk about sports cars and swimming-pools, he's just an ordinary bank-clerk.
+	- For all her wealth, she is not happy. 
 + albeit == in spite of (the fact that) == despite (the fact that) == even so 即使
 	- He was making progress, albeit rather slowly
 	- The cure for the disease is effective, albeit expensive. 

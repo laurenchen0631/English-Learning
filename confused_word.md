@@ -1,5 +1,7 @@
 ## A
 - across <--> cross
++ adduce <--> abduct <--> abduce
+
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft <--> loaf <--> oaf <--> oak
@@ -54,6 +56,7 @@
 - cellar <--> cellular
 - census <--> consensus <--> censor <--> censure
 - chary <--> char
+- civic <--> civil <--> civilian <--> civility
 - clement <--> cement <--> cremate
 - click <--> cluck
 - civil <--> cavil
@@ -70,6 +73,7 @@
 - commute <--> communes
 - compass <--> compassion <--> encompass
 - complement <--> compliment <--> compliance
+- confer <--> conifer
 - congenial <--> congenital <--> genital
 - consort <--> consortium
 - contingent <--> continent <--> contiguous 
@@ -128,6 +132,7 @@
 ## E
 - eddy <--> ebb
 - egalitarian <--> equalitarian
+- embroil <--> boil
 - empire <--> empiric <--> empirical
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
@@ -315,6 +320,7 @@
 ## O
 - oblivious <--> obvious
 - object --> objection <--> objective
+- odd <--> ode
 - odium <--> opium
 - offensive <--> inoffensive
 - onset <--> outset
@@ -323,7 +329,9 @@
 - outlook <--> overlook <--> oversee <--> oversight
 
 ## P
+- pagan <--> pigeon
 - paltry <--> penury <--> petty
+- pamper <--> pander
 - panache <--> penchant <--> pinnacle
 - parley <--> parry <--> parlance <--> parliament
 - passive <--> impassive <--> passionate <--> impassioned
@@ -334,6 +342,7 @@
 - persecute <--> prosecute
 - petulant <--> opulent
 - plod <--> plot <--> ploy <--> probe
+- portion <--> potion
 - principle <--> principal
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
@@ -344,7 +353,10 @@
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
 - proprietary <--> propriety <--> property <--> impropriety
+- prose <--> proselyte
+- protean <--> protein
 - pugnacious <--> impugn <--> repugnant
+- pulchritude
 
 ## R
 - rail <--> raillery
@@ -379,11 +391,14 @@
 - silt <--> slit <--> milt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
+- supple <--> supplement
 - stand <--> strand
 - storey <--> story
+- stifle <--> strife <--> strive 
 - struggle <--> straggle
 - stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
+- subsume <--> resume <--> presume <--> presumptuous
 - supplant <---> suppliant
 
 ## T
@@ -406,6 +421,7 @@
 - unexceptional <--> unexceptionable <--> unexpected
 
 ## V
+- vagrant <--> vagary <--> vague
 - vie <--> vile <--> vilify
 - vocation <--> vacation
 
