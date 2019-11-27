@@ -1,27 +1,27 @@
 ## A
 - across <--> cross
 + adduce <--> abduct <--> abduce
-
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft <--> loaf <--> oaf <--> oak
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
+- ailing <--> alimentary <--> alimony
 - allegory <--> allergy
 - allude <--> delude
 - alter <--> altar
 - awry <--> wry <--> wary <--> askew
 
 ## B
-- bail <--> bait <--> gait
+- bail <--> parole <--> bait <--> gait
 - ballad <--> ballast <--> ballistic <--> ballot
 - banquet <--> bouquet <--> boutique
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blight <--> delight
 - blot <--> bolt <--> colt
-- bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> slurry <--> fuzzy <--> fussy
+- bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> furry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
 - bound <--> hound
@@ -29,13 +29,14 @@
 - bowl <--> bowel
 - bracket <--> brackish
 - breed <--> brood
-- bribe <--> bride <--> bridle
+- bridle <--> bribe <--> bride
 - buff <--> puff <--> rebuff <--> buffoon 
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble <--> mumble
 - bump <--> hump <--> lump
 - burnish <--> furnish <--> furbish
+- bristle <--> gristle
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
 
@@ -55,22 +56,23 @@
 - cease <--> crease <--> grease
 - cellar <--> cellular
 - census <--> consensus <--> censor <--> censure
+- chafe
 - chary <--> char
-- civic <--> civil <--> civilian <--> civility
+- civic <--> civil <--> cavil <--> civilian <--> civility
 - clement <--> cement <--> cremate
 - click <--> cluck
-- civil <--> cavil
 - clamp <--> clasp
 - classic <--> classical
 - clog <--> clot <--> cloy <--> coy 
+- clout <--> lout
 - cluster <--> clutter
 - cogent <--> coagent
 - coarse <--> course <--> hoarse
 - coax <--> hoax
-- coddle <--> cobble <--> clobber <--> gobble <--> hobble
+- coddle <--> cobble <--> clobber <--> gobble <--> hobble <--> pebble
 - collusion <--> collision
 - command <--> commend <--> commandeer <--> commence <--> commerce
-- commute <--> communes
+- commute <--> commune
 - compass <--> compassion <--> encompass
 - complement <--> compliment <--> compliance
 - confer <--> conifer
@@ -92,13 +94,14 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
-- cruel <--> gruel <--> grueling
+- cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
 - cuddle <--> fuddle <--> befuddle <--> muddle <--> saddle
 - curate <--> curator
 - curb <--> cub
 
 ## D
+- dabble <--> paddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
@@ -109,9 +112,9 @@
 - dialect <--> dialectical
 - digest <--> ingest
 - dim <--> din <--> dingy
-- dilatory <—> dilate
+- dilatory <—-> dilate
 - disciple <--> discipline
-- discomfort <--> discomfit
+- discomfit <--> discomfort
 - discreet <--> discrete <--> discretion
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
@@ -122,7 +125,7 @@
 - dozen <--> doyen
 - drastic <--> dramatic
 - drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
-- drudge <--> dredge
+- drudge <--> dredge <--> dread
 - dub <--> dab <--> daub <--> dud <--> dude
 - due <--> undue
 - dull <--> hull
@@ -136,7 +139,7 @@
 - empire <--> empiric <--> empirical
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
-- ethic <--> ethnic
+- ethic <--> ethical <--> ethnic
 - euphony <--> phony
 - exegesis <--> genesis
 - expedite <--> expedition <--> expedient
@@ -155,28 +158,33 @@
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle
+- file <--> defile
+- filly <--> folly
 - fit <--> fitful
 - fixation <--> fixity
+- flabbergast
 - flagrant <--> fragrant
-- flake <--> flak <--> flank <--> flask
+- flake <--> flak <--> plaque <--> flank <--> flask
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
-- flinch <--> clinch <--> filth <--> filch
+- flinch <--> clinch <--> filth <--> filch <--> plinth
 - flunk <--> funky <--> hunker <--> hanker
+- flush <--> blush <--> plush
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
 - front <--> frond <--> froth
 - fruit <--> bruit
 
 ## G
-- gaffe <--> guffaw
+- gaffe <--> gaff <--> guffaw
 - gallery <--> galley
 - gambit <--> gamble <--> gambol <--> garble <--> gargle
+- gangster <--> angst
 - gauche <--> gaudy
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
 - germ <--> germane
-- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle  <>
+- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle
 - git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
 - glean <--> clean
 - glib <--> gild <--> glide
@@ -201,12 +209,11 @@
 - hatch <--> hitch <--> hutch <--> hut <--> ditch
 - haul <--> hurl <--> overhaul
 - haze <--> hazel
-- head <--> heady <--> heed
+- head <--> heady <--> heed <--> weed
 - hearse <--> rehearse
 - hearten <--> heathen
 - heave <--> heaven <--> haven <--> upheave
 - hector <--> hectic <--> sector
-- heed <--> weed
 - hermetic <--> heretic <--> hermit <--> helmet
 - hen <--> hem
 - hide <--> hideous
@@ -229,7 +236,7 @@
 - indolence <--> insolence
 - indict <--> indicate
 - induct <--> induction <--> induce <--> inducement <--> inductive
-- inveigh <--> inveigle
+- inveigh <--> inveigle <--> invective
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate
@@ -244,14 +251,13 @@
 - irritate <--> irrigate <--> irate
 
 ## J
-- jag <--> jog
+- jag <--> jog <--> jug <--> juggle
 - jockey <--> hockey
 - jot <--> jut <--> jolt <--> jostle
 
 ## L
 - lacerate <--> macerate
 - lascivious <--> luscious
-- launch <--> lunch
 - lava <--> larva
 - leave <--> leaf <--> leaven
 - lease <--> leash
@@ -272,7 +278,7 @@
 - inveterate <--> invertebrate
 - loath <--> loathe
 - lobe <--> lode <--> lodge
-- loll <--> lull <--> mull
+- lull <--> loll <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
 - lucid <--> lurid <--> ludicrous
@@ -283,6 +289,7 @@
 - magisterial <--> magistery
 - makeup <--> markup
 - marshal <--> marsh
+- maternal <--> paternal
 - martial <--> marital
 - mason <--> mansion
 - mast <--> mash <--> mat <--> matt <--> mattress
@@ -329,26 +336,49 @@
 - outlook <--> overlook <--> oversee <--> oversight
 
 ## P
-- pagan <--> pigeon
-- paltry <--> penury <--> petty
-- pamper <--> pander
+- pagan <--> pigeon <--> pageant
+- pallid <--> pall <--> palliate
+- palpable <--> palpitate
+- patient <--> patience
+- paltry <--> penury <--> petty <--> pantry <--> pastry
+- pamper <--> pander <--> pauper
 - panache <--> penchant <--> pinnacle
+- pant <--> pant
+- parch <--> patchy <--> perch <--> porch
 - parley <--> parry <--> parlance <--> parliament
+- partake <--> parquet
 - passive <--> impassive <--> passionate <--> impassioned
+- pasty <--> pastel <--> pasteurize <--> parse
 - pastoral <--> pastor <--> pasture
 - patent <--> latent
+- pawn <--> palm
+- peach <--> preach <--> breach <--> impeach
+- peak <--> peck　<--> perk <--> perky <--> pesky
+- peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
 - perpetrate <--> perpetuate 
 - persecute <--> prosecute
+- pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
+- plain <--> plane <--> planet <--> plant <--> plantation
+- plead <--> pledge
 - plod <--> plot <--> ploy <--> probe
+- plumb <--> plumber <--> plume
+- pock <--> poke
+- poll <--> pollen <--> pollinate
+- poppy <--> pop <--> poop
 - portion <--> potion
+- possess <--> posse
+- potable <--> portable
+- prowess <--> prop
 - principle <--> principal
+- privacy <--> privation <--> privy <--> piracy
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
 - prestige <--> vestige
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
+- probe <--> prod <--> pod <--> prop
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
@@ -367,6 +397,7 @@
 - respite <--> respect
 - restive <--> restless 
 - retain <--> retrain
+- retina <--> patina
 - retrench <--> retreat <--> entrench
 - risk <--> brisk
 - roast <--> roost

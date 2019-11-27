@@ -1027,7 +1027,7 @@
 		+ discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
 		+ discriminate (v)區別/辨別 = differentiate, 差別對待
 		+++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded --> discretion (n)謹慎/審慎 --> discretionary (adj)自行決定的 <|> discrete
-		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的 --> - discreteness (n)獨立性/不連續性
+		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的 --> discreteness (n)獨立性/不連續性
 		* excrete (v)排泄/分泌
 		* secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣 <|> /sɪˈkriːt/ secrete
 		- /ˈsiːkrɪsi/ secrecy (n)保密
@@ -1830,9 +1830,9 @@
 		- educate (v)教育/培養
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
 		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
+		+ inductive (adj)歸納的, 電磁感應的
 		* /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
 		+ inducement (n)誘因, 賄賂 = bribe
-		+ inductive (adj)歸納的, 電磁感應的
 		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
 		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
 		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 = effective = trenchant --> productivity (n)生產力/生產率
@@ -3645,7 +3645,7 @@
 		- lento (adj/adv)(音樂)緩慢
 
 	leth 死亡 = death
-		- lethal (adj)致命的 = fatal = deadly, 極其危險的 --> lethality (n)致命性/殺傷力
+		- lethal (adj)致命的 = fatal = deadly = pestilent, 極其危險的 --> lethality (n)致命性/殺傷力
 		+ lethargy (n)昏睡/瞌睡, 無生氣 = lassitude = torpor = sluggishness
 		+ /lɪˈθɑːdʒɪk/ lethargic (adj)瞌睡的/昏睡的 = drowsy, 不活潑的/無生氣的 = sluggish = inactive = lazy = apathetic = listless = spiritless = torpid
 
@@ -4210,7 +4210,7 @@
 		++ promote (v)促進/發揚, 推銷/推廣 = tout = exploit, 促使(法律)通過, 升遷/晉升 = exalt = advance = elevate --> promotion (n)促進/發揚, 促銷/推銷, 推廣/宣傳, 晉升/升遷
 
 	mut 改變 = change
-		- commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
+		* commute (v)上下班往返/通勤, 減輕(刑罰), 用..交換或代替/替代/代償 (n)通勤 <|> commune
 		- mutate (v)變異 --> mutation (n)突變
 		+ /ˈmjuːtʃʊəl/ mutual (adj)相互的/彼此的, 共有的/共同的 (n)互惠機構(由成員而不是持股人擁有的金融機構)
 		+ muted (adj)柔和的(聲音或光亮), 無言的/無聲的
@@ -4379,6 +4379,7 @@
 		++ pronounced (adj)明顯的 = conspicuous
 		- pronunciation (n)發音
 		+ renounce (v)聲明放棄 = abjure = forsake = recant, 放棄權利/斷絕關係, 中止, 拒絕/拋棄(習慣) = abstain
+		+ renunciation (mn)聲明放棄/宣佈放棄
 
 	nul, null 消除 = no, none, not any
 		+ annul (v)宣告無效 = abolish = abrogate = quash = repeal = rescind = revoke <|> annals
@@ -5141,6 +5142,7 @@
 		2. 感情 = suffer, undergo == pathy 
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
+			- passive (adj)被動的/消極的, 順從的/順服的
 			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
 			+ passivity (n)被動/消極以對, [化]不活性/鈍態
 		    * passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
@@ -5957,7 +5959,7 @@
 		- bankruptcy (mn)破產, 徹底消失
 		+ corrupt (v)使腐化墮落 = deprave, 損壞(電腦上的資料) (adj)腐敗的/墮落的 = depraved, 被破壞的/有錯誤的(資料)
 		- corruptible (adj)易腐化墮落的/易貪污的
-		+ disrupt (v)打斷/中斷 = interrupt = disturb = breach, 使分裂/使瓦解 = disorganize --> disruption (n)中斷/擾亂
+		+ disrupt (v)打斷/中斷 = interrupt = disturb, 使分裂/使瓦解 = disorganize = crumple --> disruption (n)中斷/擾亂
 		++ disruptive (adj)引起混亂的, 創新的 = innovative = groundbreaking
 		- erupt (v)噴出/噴發 = spout, 爆發, 發疹, 長牙
 		- interrupt (v)打斷/中斷 = disrupt
