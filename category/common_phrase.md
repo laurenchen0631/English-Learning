@@ -453,6 +453,8 @@
 	- Computerization has enabled us to do away with a lot of paperwork.
 - exert influence over/on 發揮影響力於
 	- the investment bankers began to exert influence over the railroads' internal affairs
+- get a/one's foot in the door (to sth) 初步進入/出成功的第一步
+	- Making contacts can help you get a foot in the door when it comes to getting a job.
 + get rid of (v)擺脫/趕走, 清除/消除 = eliminate, 處理掉/賣掉
 	- I didn't enjoy marking those papers and I was glad to be rid of them.
 	- That cream got rid of my skin rash.

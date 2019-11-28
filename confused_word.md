@@ -4,6 +4,7 @@
 - adulate <--> adulterate
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft <--> loaf <--> oaf <--> oak
+- antagonistic <--> protagonist
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
@@ -11,6 +12,8 @@
 - allegory <--> allergy
 - allude <--> delude
 - alter <--> altar
+- apprehend <--> apprehension
+- astringent <--> stringent
 - awry <--> wry <--> wary <--> askew
 
 ## B
@@ -19,7 +22,7 @@
 - banquet <--> bouquet <--> boutique
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
-- blight <--> delight
+- blight <--> delight <--> plight
 - blot <--> bolt <--> colt
 - bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> furry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
@@ -48,7 +51,7 @@
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
 - carat <--> caret <--> carrot <--> karat
-- carcass <--> caress
+- carcass <--> caress <--> canvass
 - cascade <--> cadence <--> decadence
 - casual <--> causal
 - caucus <--> cactus
@@ -101,7 +104,7 @@
 - curb <--> cub
 
 ## D
-- dabble <--> paddle
+- dabble <--> paddle <--> puddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
@@ -115,7 +118,8 @@
 - dilatory <—-> dilate
 - disciple <--> discipline
 - discomfit <--> discomfort
-- discreet <--> discrete <--> discretion
+- discreet <--> discrete <--> discretion <--> discretionary
+- dismissal <--> dismissive
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle
@@ -239,11 +243,13 @@
 - inveigh <--> inveigle <--> invective
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
-- imitate <--> inimitable <--> inimical <--> intimate
+- imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
 - impart <--> impartial
+- imperative <--> imperious
 - impose <--> imposing
 - inch <--> itch
+- incite
 - innate <--> natal
 - inter <--> intern
 - intransigent <--> transient
@@ -327,6 +333,7 @@
 ## O
 - oblivious <--> obvious
 - object --> objection <--> objective
+- occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
 - offensive <--> inoffensive
@@ -351,9 +358,10 @@
 - pasty <--> pastel <--> pasteurize <--> parse
 - pastoral <--> pastor <--> pasture
 - patent <--> latent
-- pawn <--> palm
+- pawn <--> palm <--> qualm
 - peach <--> preach <--> breach <--> impeach
 - peak <--> peck　<--> perk <--> perky <--> pesky
+- peel <--> pelt <--> belt
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
 - perpetrate <--> perpetuate 
@@ -363,14 +371,16 @@
 - plain <--> plane <--> planet <--> plant <--> plantation
 - plead <--> pledge
 - plod <--> plot <--> ploy <--> probe
+- pluck <--> puck <--> pucker
 - plumb <--> plumber <--> plume
 - pock <--> poke
 - poll <--> pollen <--> pollinate
 - poppy <--> pop <--> poop
 - portion <--> potion
 - possess <--> posse
-- potable <--> portable
-- prowess <--> prop
+- potable <--> potation <--> portable <--> pout <--> bout
+- prowess <--> prow <--> prowl <--> prop
+- prime <--> premium <--> premier
 - principle <--> principal
 - privacy <--> privation <--> privy <--> piracy
 - predict <--> predicate <--> predicament
@@ -382,10 +392,13 @@
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
+- prone <--> prune
 - proprietary <--> propriety <--> property <--> impropriety
 - prose <--> proselyte
 - protean <--> protein
-- pugnacious <--> impugn <--> repugnant
+- prude <--> pride <--> imprudent <--> impudent
+- pugnacious <--> impugn <--> repugnant <--> pun <--> puny
+- pulley <--> pullet
 - pulchritude
 
 ## R
@@ -442,7 +455,7 @@
 - through <--> trough
 - toll <--> atoll <--> extolling
 - trapping <--> trap
-- treat <--> treatise
+- treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
@@ -453,6 +466,7 @@
 
 ## V
 - vagrant <--> vagary <--> vague
+- veritable <--> verifiable1
 - vie <--> vile <--> vilify
 - vocation <--> vacation
 
