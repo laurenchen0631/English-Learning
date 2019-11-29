@@ -110,4 +110,4 @@
 - argumentative (adj)爭辯的/辯論的, 邏輯推論的
 + treatise (n)論文/專著 <-- treat
 + revisionist (n)修正主義者 (adj)修正主義的
-+ rapprochement (n)和睦/和解 = reconciliation
++ rapprochement (n)和睦/和解 = reconciliation 

@@ -414,7 +414,9 @@
 	- Losing my job was bad enough, but being evicted was the final straw.
 - there goes sth [口]失去
 	- They've scored again -- there go our chances of winning the match. 
-	
+- turn the corner 好轉/渡過難關
+	- After nine months of poor sales we've finally turned the corner.
+
 ## Act
 - a means to an end 達到目的的手段 == something that you do because it will help you to achieve something else
 	- I didn't particularly like the job - it was just a means to an end.

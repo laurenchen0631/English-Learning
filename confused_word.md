@@ -1,7 +1,7 @@
 ## A
 - across <--> cross
 + adduce <--> abduct <--> abduce
-- adulate <--> adulterate
+- adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft <--> loaf <--> oaf <--> oak
 - antagonistic <--> protagonist
@@ -51,7 +51,7 @@
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
 - carat <--> caret <--> carrot <--> karat
-- carcass <--> caress <--> canvass
+- carcass <--> caress <--> careen <--> canvass
 - cascade <--> cadence <--> decadence
 - casual <--> causal
 - caucus <--> cactus
@@ -78,6 +78,7 @@
 - commute <--> commune
 - compass <--> compassion <--> encompass
 - complement <--> compliment <--> compliance
+- compromise <--> uncompromising
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - consort <--> consortium
@@ -198,7 +199,7 @@
 - grab <--> drab <--> drag
 - grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
-- gross <--> gloss
+- gross <--> gloss <--> engross
 - groundless <--> grounded
 - grouse <--> arouse
 - gush <--> gash <--> gasp <--> grasp <--> gust <--> cusp <--> gut <--> gutter
@@ -331,6 +332,7 @@
 - nuance <--> nuisance
 
 ## O
+- obligate <--> oblige <--> obliging
 - oblivious <--> obvious
 - object --> objection <--> objective
 - occupation <--> preoccupation
@@ -401,7 +403,14 @@
 - pulley <--> pullet
 - pulchritude
 
+## Q
+- quaver <--> quiver
+- queer <--> sheer
+- quorum <--> quota <--> quote
+
 ## R
+- raffish <--> offish
+- raft <--> rift <--> rife <--> ripe
 - rail <--> raillery
 - raise <--> raisin
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
@@ -414,6 +423,7 @@
 - retrench <--> retreat <--> entrench
 - risk <--> brisk
 - roast <--> roost
+- rue <--> ruse
 - rub <--> rubber
 - rubric <--> lubricate <--> fabricate
 
@@ -424,12 +434,14 @@
 - serendipitous <--> serpentine
 - scrupulous <--> unscrupulous
 - shed <--> shred
+- shuttle <--> shutter
 - slaughter <--> onslaught
 - sleight <--> sleigh
 - stationery <--> stationary
 - snarl <--> gnarl
 - snitch <--> stitch
 - specter <--> spectator
+- spoof <--> spook
 - spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt

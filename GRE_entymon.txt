@@ -897,7 +897,7 @@
 		*** incidence (n)發生率, 入射/入射角
 		* incidental (adj)附帶的/伴隨的, 偶然發生的 (n)意外事件/意外支出
 		* incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
-		- intercept (n/v)中途攔截/截斷/竊聽
+		+ intercept (n/v)中途攔截/截斷/竊聽
 		- /mjʊˈnɪsɪpəl/ municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
 		- municipality (n)市/市政當局
 		+++ occupy (v)佔領/佔據, 使忙碌/使從事, 擔任(職務) <-- oc + cup 抓 = take, seize + y
@@ -1557,6 +1557,7 @@
 			+ disabuse (v)糾正/打消(某人的)錯誤念頭
 			- disaffect (v)使不滿/使不忠
 			+ disaffected (adj)不滿的 = dissatisfied = discontented <|> unaffected
+			+ disallow (v)不許/不准
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
 			- disbandment (n)團體的解散
 			- disbeliever (n)持懷疑態度的人
@@ -2394,7 +2395,7 @@
 		+ /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency --> efficacious (adj)有效的 = effective = potent = sovereign
 		+ facile (adj)容易做的 = effortless, 膚淺的/輕率的 = superficial
 		- facility (n)(有特定用途的)場所, (機器)功能, 天資/才能, 輕易/容易  <-- facile
-		+ facilitate (v)使容易 = favor, 促進 <-- facility
+		+ facilitate (v)使容易 = favor, 促進 = expedite <-- facility
 		++ /ˈfak(ə)lti/ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
 		+ fact (n)事實, 現實/實際情況
 		- factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
@@ -3063,7 +3064,7 @@
 			+ imperturbable (adj)冷靜的/沈著的 = calm = halcyon = limpid = composed <-- im + perturb + able
 			+ impervious (adj)不能滲透的 = impermeable = impenetrable, 不為所動的/無動於衷的 = indifferent
 			+ implacable
-			+ /ɪmˈplɔːzɪb(ə)l/ implausible (adj)難以置信的 = unlikely = unbelievable <|> /ɪmˈpɒsɪb(ə)l/ impossible <-- im + plausible
+			+ /ɪmˈplɔːzɪb(ə)l/ implausible (adj)難以置信的/不合情理的 = unlikely = unbelievable 
 			- impolitic (adj)失策的/不智的 = tactless = unwise <-- im + politic
 			- imponderable
 			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的
@@ -3244,7 +3245,7 @@
 			- impound (v)扣押/沒收, 將(牲畜)關在圈中, 將..關起 = lock up, (水壩)貯水/蓄水
 			- impoverish (v)使貧窮, 耗盡(精力) <-- im + pover(ty) + ish
 			+ impress --> impressed --> impression --> impressionable
-			- imprint (v)蓋印, 銘刻/使銘記 (n)壓痕/痕跡, 深刻印象/持久影響, 印在書籍上的出版商名稱
+			* imprint (v)蓋印, 銘刻/使銘記 (n)壓痕/痕跡, 深刻印象/持久影響, 印在書籍上的出版商名稱
 			+ impugn
 			* impulse
 			+ impute
@@ -3696,8 +3697,8 @@
 		* ligate (v)[手術]綁/捆/紮
 		+ obligate (v)使負義務 (adj)[生]專門的 --> obligatory (adj)有義務的/必須的/強制性的 = mandatory = compulsory
 		* obligation (n)義務/責任, 恩惠/人情, 合約/契約
-		*** /əˈblʌɪdʒ/ oblige (v)使負有義務, 答應...的請求, 使感激 <|> obligate
-		* obliging (adj)樂於助人的/熱心相助的 = accommodating = helpful 
+		+++ /əˈblʌɪdʒ/ oblige (v)使負有義務, 答應...的請求, 使感激 <|> obligate
+		+ obliging (adj)樂於助人的/熱心相助的 = accommodating = helpful 
 
 	limin, lime 門檻 = threshold
 		+ eliminate (v)消滅/消除 = remove = get rid of, 排除 = exclude, 謀殺 = murder, 從身體排出(廢棄物) = expel --> elimination (n)消滅, 淘汰/排除
@@ -5374,7 +5375,8 @@
 		- arthropod (n)節肢動物
 		- /ˈbʌɪpɛd/ biped (n)兩足動物 (adj)兩足的
 		- centipede (n)蜈蚣
-		+ /ˈɛkspɪdʌɪt/ expedite (v)迅速執行 = dispatch, 加快/促進 = hasten = accelerate --> expeditious (adj)迅速的
+		+ expedite (v)迅速執行 = dispatch, 加快/促進 = hasten = accelerate = facilitate
+		+ expeditious (adj)迅速的
 		+ expedition (n)遠征/探險, 探險隊員, 迅速/敏捷
 		+++ /ɪkˈspiːdɪənt/ expedient (adj)權宜的/出於便利的 = improvised = makeshift, 合適的/恰當的 = suitable = appropriate (n)緊急措施/權宜之計 --> /ɪkˈspiːdɪənsi/ expediency (mn)方便 = convenience <|> /ɪkˈspɛkt(ə)nsi/ expectancy
 		- hexapod (n)有六足的節肢動物
@@ -5411,7 +5413,7 @@
 		- phanerogam (n)顯花植物 = spermatophyte
 		*** phenomenon -> phenomena (n)(尤指不尋常的或有趣的)現象, 非凡的人或物
 		- phenomenal (adj)傑出的/非凡的 = extraordinary = remarkable, 能被感知的
-		- phenotype (n)顯形/表現某一顯性特徵之生物個體或群體
+		- phenotype (n)顯形/表現某一顯性特徵之生物個體或群體 --> phenotypic (adj)表型的
 		+ sycophant (n)馬屁精 = toady = adulator --> sycophantic (adj)阿諛奉承的 = obsequious <-- syco 無花果 = fig + phan + ant
 
 	phob, phobia 恐懼 = fear
@@ -5512,7 +5514,7 @@
 		+ impress (v)使欽佩, 壓印, [on]使銘記 (n)壓印, 印記, 特質 = characteristic --> impression (n)想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
 		- impressionable (adj)易受影響的
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
-		++ press (v)按/壓/擠, [敵人]猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
+		++ press (v)按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
 		+ pressing (adj)緊迫的/迫切的 = instant, 懇切的/再三要求的 (n)壓/按, 沖壓件/模壓製品, 同次模壓製品
 		+ repress (adj)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 --> repressive (adj)壓迫性的/專制的, 壓抑的
 		+ suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue --> suppression (n)鎮壓/抑制/壓抑
@@ -5629,10 +5631,11 @@
 		- quantify (v)以數量表示/使量化
 		+ quantifiable (adj)可量化
 	
-	quadm quart 四 = four
+	quadm, quart 四 = four
 		- quad (n)四邊形 = quadrangle, 四胞胎之一 = quadruplet, 股四頭肌 = quadriceps muscle, 四輪摩托車 = quad bike, 四聲道 = quadraphony (adj)[非]四部組成的/四倍的 = quadruple, [非]四聲道的 = quadraphonic
 		- quadrangle (n)四邊形, 周有建築物圍繞的方院
 		* quadruple (adj)四倍的/四重的, 四部組成的 (v)成為四倍 (n)四倍數
+	    - quartet (n)四重奏/四重唱, 四人一組/四件一套
 		** quarter (n)四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 (mn)(對敗者的)寬恕/饒命 (v)把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = traverse
 
 	quiesce, quiet, qui 安靜
@@ -5862,7 +5865,7 @@
 			* relent (v)發慈悲/憐憫, 減弱 --> relenting (adj) <-- re + lent 彎 = bend
 			+ relentless (adj)不間斷的, 無情的/殘酷的 = unrelenting
 			+ relinquish
-			* remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence = ruth --> remorseful (adj)懊悔的 = sorry = penitent = repentant = contrite < -- re + morse 咬 = bite
+			* remorse (n)懊悔/悔恨 = compunction = contrition = repentance = penitence = ruth = rue --> remorseful (adj)懊悔的 = sorry = penitent = repentant = contrite = rueful < -- re + morse 咬 = bite
 			- remove (v)移走, 脫掉, 遷移, 廢除 = abolish, 解僱 = dismiss, [be removed from]離..很遠/跟..很不同 (N)距離/間隔
 			+++ render (v)提供 = furnish = supply, 呈遞 = present = submit, 作出(判決) = deliver, 放棄/讓出 = surrender = give up = yield, 變成/使 = make = become, 表達/描繪 = represent = depict, 演奏 = perform, 翻譯 = translate, 煎熬/提取(脂肪), [建]給……抹灰打底 (n)底灰 <-- re + n + der 提供 = give
 			- rendering (n)演出 = performance, 翻譯 = translation, 描繪 = depiction, 抹灰泥, 灰泥層, 交出/歸還 = surrendering
@@ -5978,8 +5981,8 @@
 		+ /ˌsʌrəpˈtɪʃəs/ surreptitious (adj)鬼鬼祟祟的/秘密的/偷偷的 = clandestine = furtive = sly = stealthy
 
 	respond 反應
-		+ correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
-		* correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
+		++ correspond (v)[to]符合/一致, [to]相當/相應 = be analogous = be equivalent, 通信
+		** correspondent (adj)符合的 = matching (n)特派記者, 通信者/聯絡人
 		* correspondence (n)類似/相似處 (mn)通信, 信件
 		- respond (v)作答/回答/作出反應
 		- response (n)反應/回響/回答
@@ -6895,7 +6898,7 @@
 		+ intact (adj)完整無缺的/原封不動的 = pristine = complete = unblemished = undamaged
 		+ tact (n)機智/圓滑/老練
 		- /ˈtaktʌɪl/ tactile, /ˈtaktʃʊəl/ tactual (adj)觸覺的, 有形的 = tangible, 富有質感的, 愛觸碰他人的
-		+ tangent (n)正切/切線, 不同的思路或行為 (adj)切線的
+		+ tangent (n)正切/切線, 不同的思路或行為/離題 = digression (adj)切線的
 		++ /tanˈdʒɛnʃəl/ tangential (adj)切線的, 離題的/不相關的 = divergent = digressive = peripheral = irrelevant
 		+ tangible (adj)可觸知的/有形的 = palpable = touchable = tactile, 真實存在的 = real = actual (n)有形的物品
 
@@ -7553,9 +7556,9 @@
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
 		* /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
-
 		+ invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious --> inventiveness (n)創造力/創意 = creativity
 		- inventory (n)詳細目錄/存貨清單 (v)編制(目錄), 把……登入目錄
+		- reinvention (mn)重塑
 		+ prevent (v)防止/預防/阻止
 		- reconvene (v)重新召集
 		- /ˈrɛvənjuː/ revenue (mn)收入/收益/總收入 = finance = income, 國家稅收

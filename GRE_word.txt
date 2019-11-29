@@ -14,6 +14,7 @@
     ++ administration (mn)管理/經營, 管理者, 管理部門, 施行/實施 (n)政府, 任期
     + adulate (vt)諂媚/奉承 = flatter = fawn = toady --> adulation (n) --> adulator (n) = toad
     + /əˈdʌltəreɪt/ adulterate (v)摻雜 = debase = corrupt = alloy <|> adulate
+    - adultery (n)通姦 --> adulterous (adj)通姦的
     +++ agreeable (adj)宜人的/令人愉悅的 = pleasing = congenial = sapid = palatable, 可以接受的 = acceptable, 欣然同意的
     + /əˈlakrɪti/ alacrity (n)樂意/欣然/敏捷 = promptness <--> reluctance
     + /ɔːlˈbiːɪt/ albeit (conj)雖然/儘管 = although
@@ -652,6 +653,7 @@
     - carat (n)開(金子的純度單位) = karat, 克拉
     - caret (n)脫字符號
     - carcinoma (n)癌/上皮細胞所產生的惡性腫瘤 
+    - careen (v)把(船)傾倒修理, (船)傾斜, 橫衝直撞
     - caress (n/v)輕撫/愛撫 = stroke <|> carcass
     - caretaker (n)照顧者/管理人 (adj)臨時代理的
     - carriage (n)四輪馬車, 有輪子的車架/砲架, 帶原者, 滑動架, 舉止/態度 = bearing = deportment
@@ -811,6 +813,7 @@
     - cupboard (n)櫥櫃/壁櫥
     - /kəːb/ curb (v)控制/遏止 = restrain, 勒住(馬), 帶(狗)去路邊排泄 (n)約束/抑制 = check = restraint, 馬嚼子 = curb bit, 路邊/路邊鑲石 = kerb
     - curdle (v)使凝結/使凝固 = clot = coagulate
+    - cur (n)(嚇人或兇猛的)雜種狗, [非]可鄙之人
     - curly (adj)蜷曲的/蜷縮的 
     - cushion (n)墊子/坐墊, 緩衝物, 撞球臺的橡皮邊, 減震墊 (v)緩和……的衝擊, 減輕..的負面影響
     - cusp (n)[on]分界線, 尖頭/尖端, 牙尖
@@ -999,7 +1002,7 @@
     + erstwhile (adj)從前的/往昔的 = former = previous <-- erst 以前/往昔
     + escalate (v)擴大/加劇
     + /ɛsˈtʃuː/ eschew (v)避免/避開 = shun = shirk = avoid = abstain from
-    + /ˌɛsəˈtɛrɪk/ esoteric (adj)少數人才懂的/限於小圈子的 = arcane = abstruse <--> exoteric <-- esoter 裡面 = inner + ic 
+    + /ˌɛsəˈtɛrɪk/ esoteric (adj)少數人才懂的/限於小圈子的 = arcane = abstruse = rarefied <--> exoteric <-- esoter 裡面 = inner + ic 
     ++ /ɪˈspaʊz/ espouse (v)支持/擁護/採用 = adopt = embrace, [be espoused to](女性)與..訂婚 --> espousal (n)支持/擁護 = advocacy <-- spouse
     ++ /ˈɛseɪ/ essay (v)企圖/嘗試 = try = attempt (n)散文/隨筆, 嘗試 <|> assay /əˈseɪ/
     + establish (v)建立/創立 = found = institute, 證實 = prove = substantiate --> established (adj)已確立的/被承認的, 繁茂的
@@ -1014,6 +1017,8 @@
     + etymon (n)詞源/字根 --> etymology (n)字源學/詞源學
     + ether, aether (n)乙醚, 蒼穹, [古]以太 --> /ɪˈθɪərɪəl/ ethereal (adj)天上的/非人間的 = celestial, 縹緲的/優雅的
     + evenhanded (adj)公平的 = impartial = equitable = disinterested = fair = candid
+    + /ɪˈvɛn(t)ʃʊ(ə)l/ eventual (adj)最終的
+    + eventuate (v)作為結果發生, [in]最終導致
     + /ɪɡˈzamɪn/ examine (v)細看 = scrutinize, 測驗, 審問 = interrogate
     + /ɪɡˈzɛmpləm/ exemplum -> exempla (n)例證/範例 = example = model
     + exemplar (n)榜樣/楷模 = paragon --> exemplary (adj)可作楷模的, 懲戒性的
@@ -1069,8 +1074,6 @@
     - estate (n)地產, 私有土地/莊園, 資產/遺產
     - /iːv/ eve (n)前一刻/前夕, 前夜/前夕, 傍晚 = evening
     - even (adj)平坦的/平滑的, 水平的, 同樣的, 對等的/均等的, 規律的 = regular, 鎮定的/沈著的 = equable, 偶數的 (v)使平整, [out]公平/使相等 (adv)甚至
-    - /ɪˈvɛn(t)ʃʊ(ə)l/ eventual (adj)最終的
-    - eventuate (v)作為結果發生, [in]最終導致
     - eyestrain (mn)眼痛/眼睛疲勞
     - ewe (n)母羊
     - /ˈjuːə/ ewer (n)大口水罐 = pitcher
@@ -1129,6 +1132,7 @@
     + fleet (n)艦隊, 海軍 (adj)敏捷的 = swift = rapid = nimble (v)掠過, 消磨, 逝去 = fade away
     + fleeting (adj)轉瞬即逝的/短暫的 = transient = transitory = ephemeral = momentary <|> fleeing
     ++ flip (v)翻轉, 空翻, 輕拍/清彈, 開/關, 擲硬幣, 失去控制, 變得狂熱, 炒短線 (n)突然的動作, 快速翻閱 (adj)輕浮的/油嘴滑舌的 --> flippant (adj)輕浮無禮的 = frivolously disrespectful
+    - flip-flop (n)人字拖鞋, 後手翻, (政策)突然的轉變, [電]觸發器 (v)啪嗒啪嗒響著, 突然轉變
     ++ flounder (v)掙扎/處於困境 = flail (n)比目魚 = fluke <-- flounce + founder
     ++ /flaʊt/ flout (v)藐視(法律) = contempt = scorn = disdain = belittle = trifle <-- flute 長笛
     + fluke (n/v)僥倖/僥倖成功 (n)比目魚 = flounder, 吸蟲, 鯨魚尾鰭
@@ -1527,6 +1531,7 @@
     - glare (v)怒目注視, (光)眩目地照射 (n)怒視, 刺眼的強光, 引人注目 <|> flare
     - glaring (adj)耀眼的, 瞪視的, 明顯的 = obvious = conspicuous
     - glaze (v)給……裝玻璃, 給……上釉 (n)光滑的表層, 釉/釉料, 眼翳 <-- glass
+    - gleam (v)發微光/閃耀 (n)微光/閃光, 一絲(情感) --> gleaming (adj)閃亮的
     - glimmer (v)發微光 (n)微光, 少許
     - glitter (v)閃閃發光, [with](眼中)閃爍 (n)閃光/閃耀, 閃爍(情感) (mn)小發光物, 華麗/光彩
     - glisten (n/v)閃耀/閃爍/反光 <-- glitter
@@ -1563,6 +1568,7 @@
     - grisly (adj)恐怖的/可怕的 = abominable = appalling = gruesome
     - gristle (n)軟骨 = cartilage
     - grit (n)砂礫, 砂岩, 膽量 = pluck (v)佈滿砂礫, 磨 = grate
+    - gritty (adj)含砂的/有沙礫的, 勇敢的/堅毅的, (對不好情況的描述)逼真的/不加掩飾的 = uncompromising
     - grizzled (adj)灰白的
     - groan (v)呻吟, 抱怨, 發吱嘎聲, [with/under]裝滿, [beneath/under]被..折磨 (n)呻吟聲, 抱怨, 吱嘎聲
     - groom (n)馬伕, 新郎 = bridegroom (v)清潔(毛皮), 照看(草皮), 準備/訓練
@@ -1578,6 +1584,7 @@
     - gruel (n)稀粥
     - grueling (adj)繁重累人的 = onerous
     - guarantee (n/v)保證/擔保 (v)爲…承擔保險責任/爲…承保 = underwrite
+    - guardrail (n)欄杆/護欄
     - /ˈɡɪlətiːn/ guillotine (n)斷頭台, 切紙機/裁切機 (v)用斷頭臺處決, 切紙
     - guilt (mn)罪行 = crime = sin, 內疚/罪惡感 (v)[非]使有罪惡感
     - guilty (adj)有罪的 = culpable, 有責任的, 自知有過錯的/內疚的 = contrite = repentant
@@ -2334,6 +2341,7 @@
     - minnow (n)米諾魚/鰷魚, 微不足道的機構或人 <|> winnow
     - minority (n)少數/少數派 <--> majority, 少數民族 (mn)未成年 
     - mirror (n)鏡子, 反映/真實的寫照 (v)反射出, 符合/一致 = correspond to
+    - mistress (n)女主人, 女名家/女能手, 情婦
     - mite (n)蟎, (令人憐愛的)小孩, 極小量 (adv)稍許/一點
     - mitten (n)連指手套, [非]拳擊手套
     - moan (n)呻吟聲, [非]發牢騷 (v)呻吟, 嘆息 = lament, 抱怨 = grumble = complain
@@ -2383,12 +2391,14 @@
 
 [N]
     + /ˈnɑːsɪsɪz(ə)m/ narcissism (n)自我陶醉/自戀 = self-flattery --> narcissist (n)自戀者
-    + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> summit = acme,, [天]天底
+    + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> summit = acme, [天]天底
     + /nʌɪˈiːv/ naive (adj)天真的/幼稚的 = unsophisticated = childlike = ignorant, 無害的 = innocent, 樸素的(藝術)
     + /nʌɪˈiːvti/ naivete (mn)天真/幼稚/缺乏經驗或智慧, 無害/無邪, 樸素作品 <-- native
     + naysay -> naysaid (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
     + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy
     + nebulosity (n)朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = mist, cloudy + ous
+    + necessitate (v)使必須 == make (something) necessary 
+    + necessitous (adj)窮困的 = needy
     + necromancy (n)通靈術, 巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
     + nepotism (n)偏袒親戚/任人唯親 = cronyism <-- nephew
     ++ nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate = peeve = vex <|> mettle --> nettlesome (adj)令人惱怒的
@@ -2430,8 +2440,6 @@
     - naturalization (n)(外國人的)歸化, (動植物的)移植, (外國的習慣、語言等)移入/同化, 自然化/天然化
     - neat (adj)整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的 = facile, 純的, [非]好的/妙的 
     - neighboring (adj)旁邊的/附近的 = adjacent
-    - necessitate (v)使必須 == make (something) necessary 
-    - necessitous (adj)窮困的 = needy
     - needle (n)針/編織針, 注射針, 指針/磁針, 唱針 = stylus, 針葉 (v)戳 = prick, 刺激/激怒 = provoke = irritate
     - needlework (mn)縫紉/刺繡, 刺繡品
     - needy (adj)需要關懷的 = insecure, 貧窮的 = impecunious = indigent = necessitous
@@ -2450,6 +2458,7 @@
     - nipple (n)奶頭, 奶嘴, 短管/短節/螺紋接管
     - nit (n)卵/幼蟲
     - nitpick (v)吹毛求疵/雞蛋裡挑骨頭
+    - noir (n)灰色電影(描寫社會陰暗面的影片)
     - nomad (n)遊牧民, 流浪者 = wanderer --> nomadic (adj)遊牧的 = wandering
     - northerly (adj/adv)向北的, 北的(風) (n)北風
     - notch (n)刻痕/槽口, 帶釦孔, 刻痕 = nick, 等/級, 峽谷/山峽 (v)在……上刻凹痕, 扣 = secure, 贏得 = score = achieve
@@ -2611,7 +2620,7 @@
     + pittance (n)少量金錢/微薄的工資 <-- pity
     + /ˈpɪvət/ pivot (n)中樞/中心點, 中心人物 (v)以……為中心旋轉, [on]取決於 = depend on 
     + pivotal (adj)關鍵的 = critical = crucial = key = vital, 樞軸的
-    ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 一大群(造成傷害的蟲或動物), 惱人的事物/麻煩的事物 = nuisance (v)使煩憂/折磨 = bother , 騷擾 = pester
+    ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 一大群(造成傷害的蟲或動物), 惱人的事物/麻煩的事物 = nuisance (v)使煩憂/折磨 = bother, 騷擾 = pester
     + platonic (adj)柏拉圖式的/純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 粗俗的 = unrefined
     + plod (v)沉重緩慢地走, 埋頭苦幹 (n)沉重緩慢的行走 --> plodding (adj)緩慢無趣的, 孜孜不倦工作的
@@ -2623,11 +2632,13 @@
     + poise (mn)沉著/泰然自若 = composure = tranquility (v)平衡/懸著 = balance = suspend, [be poised]作好準備
     + polar (adj)地極的/極地的, 電極的, 兩極的 --> polarity (n)兩極 --> polarize (v)[物]使偏振, [物]給予……極性, 使分裂
     ++ polemic (N)辯論文章/激烈的爭辯, 爭論/辯論 --> polemical (adj)辯論的 <-- polem 戰爭 = war + ic 
-    + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光, 拋光劑, 光澤 = gloss, 洗鍊/優雅 = refinement = elegance --> polished (adj)有光澤的 = glossy= smooth, 精良的/熟練的, 優美的, (米)去殼的
+    + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光, 拋光劑, 光澤 = gloss, 洗鍊/優雅 = refinement = elegance
+    + polished (adj)有光澤的 = glossy= smooth, 精良的/熟練的, 優美的, (米)去殼的
     + politic (adj)精明的/有策略的 = tactful (v)進行競選活動 <-- polity
     + Pollyanna (n)極度樂觀之人/樂天派 --> Pollyannaish (adj)樂天的 = extremely optimistic
-    + pontificate (v)自負地談論/武斷地表示意見, 任命主教 (n)教宗或主教之職權及任期 --> pontifical (adj)羅馬教宗的, 自以為是的 = pompous = pretentious (n)主教儀典書, 主教的祭服及標誌
     - pontiff (n)羅馬教宗/主教/教皇 = Pope
+    + pontificate (v)自負地談論/武斷地表示意見, 任命主教 (n)教宗或主教之職權及任期
+    + pontifical (adj)羅馬教宗的, 自以為是的 = pompous = pretentious (n)主教儀典書, 主教的祭服及標誌
     ++ /pɔː/ pore (n)毛孔/氣孔 (v)[over/through]鑽研/熟讀 --> porous (adj)多孔的, 能滲漏的 = permeable, 多漏洞的 = leaky
     ++ /ˈpɔːʃ(ə)n/ portion (n)部分, 一份/一客 (v)分配 <|> /ˈpəʊʃ(ə)n/ potion
     + portray (v)描繪/描述 = limn = delineate = depict
@@ -2639,8 +2650,9 @@
     + prate (v)瞎扯/胡說 = gibberish = maunder = babble = drivel --> /ˈprat(ə)l/ prattle (n/v)閒扯/閒聊 = prate
     +++ precarious (adj)不穩的/不穩固的 = unstable = insecure, 碰機會的/說不定的 = uncertain <-- prayer
     + /ˈprɛdətə/ predator (n)食肉動物, 尾隨作案者 <-- predat 掠奪 = plunder + or
-    + preternatural (adj)超自然的/不可思議的 = supernatural <-- preter 超 = beyond + natural
+    - predation (mn)掠奪, 掠食 --> predatory (adj)食肉的, 掠奪的
     + prey (n)獵物 (v)[on]獵捕, [on]利用/傷害, [on]折磨
+    + preternatural (adj)超自然的/不可思議的 = supernatural <-- preter 超 = beyond + natural
     + /prəʊz/ prose (n)散文, 外語翻譯練習, 乏味的話或文章 (v)乏味地講話
     + prosaic (adj)缺乏想像力的, 平凡無奇的 = commonplace = everday = quotidian = unromatic
     + /ˈprəʊtɪən/ protean (adj)變化多端的/千變萬化的, 多才多藝的/多功能的 = versatile
@@ -2653,7 +2665,7 @@
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/傻氣的 = juvenile = silly = jejune = immature <-- puer 男孩 = boy + ile
     + puissant (adj)[古]強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢
     + /ˈpʌlkrɪtjuːd/ pulchritude (n)美 = comeliness = beauty <-- pulchr 美麗 = beautiful + itude 
-    + /ˈpʌndɪt/ pundit (n)權威人士/專家
+    + /ˈpʌndɪt/ pundit (n)權威人士/專家 = maven
     + /ˈpɪrɪk/ pyrrhic (adj)得不償失的/付出慘重代價的(勝利) (n)(詩)抑抑格
 
     * /ˈpeɪɡ(ə)n/ pagan (n)異教徒, 非基督教徒 (adj)異教的 = heathen
@@ -2663,7 +2675,7 @@
     * pastoral (adj)諮詢指導的, 質樸的 = provincial, 鄉村風情的 = bucolic = rural = idyllic = rustic, 牧人的
     * /ˈpeɪʃ(ə)ns/ patience (n)耐心/忍耐/毅力 = forbearance
     * pauper (n)貧民/乞丐 = poor = mendicant, 靠救濟度日者
-    ** peach (n)桃子, 桃色, [非]傑出的人/極好的東西 (v)[非][on]告密 = inform against <|> preach
+    ** peach (n)桃子, 桃色, [非]傑出的人/極好的東西 (v)[非][on]告密 = inform against <|> peach
     * preach (v)布道, 鼓吹 = advocate = inculcate, 告誡/說教 
     * pebble (n)小卵石/鵝卵石 = cobble (adj)(鏡片)厚凸的
     *** penetrate (v)穿過/滲入, 成功進入(機構)成為其一部分, 了解/洞察 --> penetrating (adj)有穿透力的, 刺耳的, 敏銳的/犀利的
@@ -2687,6 +2699,7 @@
     ** plead -> pleaded/pled -> pleaded/pled (v)懇求 = beg = appeal = entreat = solicit, [法]抗辯, 辯護, 宣判 = convict, 以..為理由, [down]減輕刑責
     *** pledge (n)誓言/保證 = oath, 捐款承諾, 戒酒, 抵押品, 信物 (v)發誓, 宣言, 保證, 保證給予, 抵押
     * plow (n)犁, 除雪機/剷雪機 (v)犁/耕, 挖(溝/槽), 破浪前進, 狂飆, 艱辛地前進, [on]堅持, 剷雪
+    * plunder (v)搶劫/掠奪 = strip, 侵吞/侵佔 (mn)搶劫/盜竊, 搶劫之物
     *** plunge (v)跳入, 下跌/落下, 衝動開始 = embark, 暴跌/驟降, 將……刺進, 快速浸泡, 突然變成 (n)跳入, 暴跌/驟降
     * pollute (v)污染 = contaminate, 玷汙/褻瀆 = defile
     *** pompous (adj)傲慢的/自以為是的 = arrogant = grandiose = portentous --> pomposity (n)傲慢/自以為是 = self-importance
@@ -2694,22 +2707,21 @@
     * pottery (n)製陶, 陶器 = earthenware
     * poverty (n)貧窮/貧困 = indigence, 貧乏/劣質 = paucity = scantiness = insufficiency = scarcity = dearth = inadequacy
     * practice (mn)實行/實踐, (醫生律師的)業務/工作, 常規/慣例 = procedure, 訴訟手續, 反覆練習 (v)實踐/實行, 練習/經常做
-    * prank (n/v)玩笑/惡作劇 = lark --> prankster (n)愛惡作劇的人
+    * prank (n/v)玩笑/惡作劇 = banter --> prankster (n)愛惡作劇的人
     ** prick (v)刺/戳, 豎起 (adj)豎起的 (n)陰莖, 笨蛋
     ** prickly (adj)多刺的/滿是針刺的, 針刺般的, 刺痛的/癢的, 易動怒的/易生氣的, 複雜的/棘手的 = intractable
     *** probe (n)探針, 徹底探查/調查 = investigation, 太空探測器 = space probe (v)用工具探查, 探究
     * prod (n/v)刺/戳 = poke = jag, 刺激/敦促 = stir up = urge = goad = stimulate = persuade (n)刺針/尖棒
-    ** prop (n)支撐物, (人)支柱, 道具, 螺旋槳 = propeller, [props]尊重 = respect (v)支撐/支持 = buttress, 倚靠 = lean
+    ** prop (n)支撐物, (人)台柱 = pillar, 道具, 螺旋槳 = propeller, [props]尊重 = respect (v)支撐/支持 = buttress, 倚靠 = lean
     ** prowess (n)非凡的能力/高超的技藝 = expertise, 英勇 = derring-do
     ** puff (n)一陣/一股, 泡芙, 吹捧的言論, 吸煙/抽煙 (v)喘氣, 一陣陣地吹或噴, 抽煙, [out/up]膨脹, 吹捧
     * /pʌlp/ pulp (n)黏漿狀物質, 果泥/菜泥, 紙漿, 牙髓, 低級書刊 (v)使成漿/使稀爛, 收回(出版品)
     * ˈpjuːpɪl/ pupil (n)學生/弟子 = apprentice, 瞳孔
     * purge (v)清除/擺脫 = rid, 肅清, 排除/除去 = remove = expel, 清腸 (n)肅清, 瀉藥 = laxative
-    * purse (n)女用錢包, 財產, 比賽獎金, 女式手提包, (政府或機構的)資金/財力 (v)噘嘴<|> pursue
-    * plunder (v)搶劫/掠奪 = strip, 侵吞/侵佔 (mn)搶劫/盜竊, 搶劫之物
+    * purse (n)女用錢包, 財產, 比賽獎金, 女式手提包, (政府或機構的)資金/財力 (v)噘嘴 <|> pursue
 
     - pack (n)一包, 一副(牌), 一群, 一夥/一幫, 背包 = rucksack, 冰袋 = ice pack (v)打包/收拾, 裝箱 = crate, 存放 = store, 擠進/塞滿 = cram, 攜帶(槍) = carry --> packed (adj)充滿人的/擁擠的 = crowded = crammed
-    - pact (n)協定/條約 = agreement = covenant
+    - pact (n)協定/條約 = agreement = covenant = treaty
     - pad (n)墊/護墊, 肉墊, 微弱的腳步聲, 便條紙簿, 發射台/起降臺, 家 (v)填塞, [up]墊, [out]鋪張/拉長, 浮報, 放輕腳步走
     - padding (n)墊塞/填料, 充分量的廢話
     - paddle (n)槳, 划槳, 攪拌棒, 桌球拍, 明輪翼, 鰭, 太空船太陽能板, 電極貼片 (v)划槳, 划水, 打, 涉水, 把手或腳浸泡在水中 = dabble
@@ -2850,7 +2862,6 @@
     - pout (n/v)噘嘴/板臉 (n)條鱈 = bib = eelpout
     - practitioner (n)實踐者/開業者
     - prayer (n)祈禱, 禱告式, 祈願
-    - predation (mn)掠奪, 掠食 --> predatory (adj)食肉的, 掠奪的
     - preen (v)用喙整理羽毛, [oneself]打扮修飾, [oneself]洋洋自得
     - premier (adj)首位的/首要的, 最早的/最先的 --> premiere (n/v)首次公演
     - premium (n)保險費, 獎金 = reward = recompense
@@ -2905,71 +2916,75 @@
     + quorum (n)法定人數
 
     * /kwak/ quack (n)鴨叫聲/呱呱聲, 庸醫 = empiric (v)呱呱叫 
-    * /ˈkwɒr(ə)l/ quarrel (n/v)爭吵/不合 = bicker = quibble = spar = brawl --> quarrelsome (adj)愛爭吵的/好口角的 = polemical = aggressive = bellicose = contentious
-    ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional, 同性戀的 (v)破壞 = spoil = ruin (n)同性戀 <|> sheer
-    ** quench (v)熄滅/撲滅 = extinguish, 壓制/壓抑 = subdue = quell = repress, 使滿足[口渴或慾望] = slake = satisfy, 使冷卻
-    ** quip (n)妙語/諷刺語
+    * /ˈkwɒr(ə)l/ quarrel (n/v)[with]爭吵/不合 = bicker = quibble (n)爭吵的原因 --> quarrelsome (adj)愛爭吵的/好口角的 = aggressive = bellicose
+    * /ˈkwɒri/ quarry (n)採石場, 獵物, 追求物, 方形玻璃/菱形玻璃 (v)從採石場採得
+    ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional, [非]同性戀的 (v)[非]破壞 = spoil = ruin (n)[非]同性戀 <|> sheer
+    ** quench (v)解渴 = slake, 使滿足 = satisfy, 熄滅/撲滅 = extinguish, 壓抑 = subdue = quell = repress, 使冷卻 (n)冷卻
+    ** quip (n)妙語 (v)講妙語
 
-    - quaff (V)痛飲/暢飲
-    - qualitatively (adv)品質上
-    - quantum (n)量子
+    - quaff (v)痛飲/暢飲 (n)[非]酒精飲料
+    - qualitative (adj)質的
     - quarantine (n)隔離檢疫期/隔離 (v)使隔離 <-- quarant 四十 = forty + ine
-    - /ˈkwɒri/ quarry (n)採石場, 獵物, 追求物, 方形玻璃/菱形玻璃 (v)從採石場採得
-    - quartet (n)四重奏/四重唱
-    - quaver (v)發顫音, 顫抖 = shake = tremble (n)顫音
+    - quaver (v)(聲音)顫抖 = shake = tremble (n)顫抖
     - quay (n)碼頭 = dock = wharf = pier
-    - queue (v)排隊 (n)長隊
-    - quill (n)(刺蝟或豪豬的)刺, 羽毛管/羽毛筆/琴撥/牙籤
+    - queue (v)排隊, 非常想做/排隊做 (n)長隊, (想獲取某物的)許多人
+    - quill (n)(鳥)翮/翮羽, 羽毛管, 羽毛筆 = quill pen, (刺蝟或豪豬的)刺, 筆管麵 = penne, Pan pipes
     - /ˈkwɪvə/ quiver (v)顫抖 = tremble, 使顫動 (n)箭袋/箭筒 <|> shiver
     - quota (n)定額/配額
-    - quote (v)引用/引述
+    - quote (v)引用/引述, [as]描述, 報價/開價 (n)引語/引文, 報價/開價, 引號 = quotation mark
 
 [R]
     + /ˌrakɒnˈtəː/ raconteur (n)善於講故事的人 <|> rancor <-- racont 講述 = tell + eur
-    + raffish (adj)落拓不羈的/不修邊幅的 = unconventional
-    ++ raft (n)木筏, 橡皮艇, 大群(水鳥或哺乳動物), 大量 (v)乘木筏渡, 把……紮成筏子
-    + rage (n)狂怒/盛怒, 肆虐, 狂熱, 風行 (v)發怒, 肆虐/激烈進行, 流行/盛行
-    ++ rail (V)咒罵/猛烈指責 = rant = inveigh = fulminate, 用鐵路運輸 (n)欄杆, 鐵軌
-    + raillery (n)揶揄 <-- rail
-    + /ˈreɪm(ə)nt/ raiment (n)衣飾/衣裳 = clothing = garments
-    + rakish (adj)瀟灑的/放蕩的 = jaunty = dissolute
-    ++ /ˈramɪfʌɪ/ ramify (v)分支/分叉 --> ramification (n)分枝/分派 = branch, 延伸性影響/結果 = implication = consequence = outgrowth <-- ram 分枝 = branch + ify
-    ** ramp (v)用後腳立起/躍立, 橫衝直撞/暴跳 (n)斜面/斜坡/坡道, 野韭葱 -->  ramp-up (n)增加/上升  
-    ++ rampant (adj)猛烈的 = raging = furious, 繁茂的/蔓生的, 蔓延的/猖獗的 = prevailing = unchecked = rife <-- ramp
-    + rankle (v)使怨恨/使痛苦
-    + rant (v)怒氣沖沖地叫嚷 (n)激昂的抨擊性演說 = tirade
-    ++ rare (adj)罕見的 = peculiar = uncommon = unusual = scarce, 稀薄的/稀疏的, 傑出的 = excellent = admirable = fine
-    ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄, 使精細/使純化 --> rarefied (adj)稀薄的, 崇高的 = elevated = lofty = exalted = noble, 限於圈內人的 = esoteric --> rarefaction (n)
+    + raffish (adj)落拓不羈的/不修邊幅的
+    ++ raft (n)木筏, 橡皮艇, 大量 (v)乘木筏渡, 把……紮成筏子
+    + rage (n)狂怒/盛怒, (自然)狂暴/肆虐, 強烈的慾望/狂熱, 風行 (v)發怒, 肆虐/激烈進行, [非]狂歡
+    ++ rail (n)欄杆, 鐵軌, 秧雞 (V)用欄杆圍, 用鐵路運輸, [against/at/about]譴責/抱怨 = rant = inveigh = fulminate
+    + raillery (mn)開玩笑/揶揄 = banter = prank <-- rail
+    + /ˈreɪm(ə)nt/ raiment (n)[古]衣飾/衣裳 = clothing = garments
+    + rakish (adj)瀟灑的/放蕩的 = jaunty = dissolute, 流線型的
+    ++ /ˈramɪfʌɪ/ ramify (v)分支/分叉 --> ramification (n)延伸性影響/結果 = implication = consequence, 分枝/分派 = branch,  <-- ram 分枝 = branch + ify
+    * ramp (n)斜面/斜坡 (v)[up]擴大/增加, 架設斜坡
+    + rampant (adj)猛烈的/猖獗的 = prevailing = unchecked = rife = raging = furious, 繁茂的/蔓生的 = lush <-- ramp
+    + rankle (v)使人耿耿於懷/令人懷恨, 激怒 = irritate = annoy
+    + rant (v)怒氣沖沖地叫嚷 (n)憤怒的叫嚷/沒完沒了的怒罵 = tirade
+    ++ rare (adj)罕見的 = peculiar = uncommon = unusual = scarce, 稀有的/珍貴的, 傑出的 = remarkable 煮得半熟的 
+    ++ /ˈrɛːrɪfʌɪ/ rarefy, rarify (v)使變稀薄 --> rarefied (adj)稀薄的 = thin, 少數人才懂得 = esoteric --> rarefaction (n)
     + rash (adj)衝動的 = impetuous (n)疹子, 大量(令人不快的事)
     + rebus (n)字謎/畫謎 
-    + reckless (adj)魯莽的/輕率的 = risky = audacious
+    + reckless (adj)魯莽的/衝動的 = risky = audacious = rash = impetuous
     +++ register (n)清單, 登記簿, 音域/聲域, 收銀機, 標示/讀數 (v)登記, 到達..讀數, 表達 = express = convey, 注意到 = notice, 達到 = achieve
     - /ˈrɛdʒɪstrɑː/ registrar (n)記錄者/登記者, 大學註冊主任
     - registry (n)紀錄處, 官方紀錄, 登記 = registration
     + /reɪn/ rein (n)韁繩, 控制力 (v)控制/駕馭 = control, 抑止/阻止 <|> /reɪn/ rain
-    ++ relish (n)享受/愛好 = zest = gusto, 滋味/美味 = zest (v)享受 = enjoy = savor, 品味 = savor <-- remainder
-    + remedy (v)治療/補救/糾正 (n)治療/藥物, 糾正/補償 = reparation
-    + rend (v)撕裂 = tear, 分裂 = split = divide, 猛拉
-    + repertory (n)保留劇目輪演 --> repertorial (adj)
-    ++ /ˈrɛtərɪk/ rhetoric (N)修辭學, 雄辯 = oratory, 浮誇之詞 = bombast --> rhetorical (adj)修辭學的, 雄辯的/浮誇的 = bombastic = grandiloquent = orotund = oratorical, 循序漸進的(問題)
-    + /ˈrɪb(ə)ld/ ribald (adj)下流的/低俗的 = crude = offensive = bawdy = vulgar = gross = obscence = salacious
+    ++ relish (n/v)享受 = zest, 期盼/憧憬 = qnticipate (n)佐料
+    + remedy (n)治療/藥物, 補救, 補償 = reparation (v)補救 
+    + rend (v)撕裂 = tear
+    + repertory (n)保留劇目輪演, 可表演節目 = repertoire, 大量(情報) = collection --> repertorial (adj)
+    ++ /ˈrɛtərɪk/ rhetoric (mn)修辭學, 雄辯 = oratory --> rhetorical (adj)修辭學的, 雄辯的 = bombastic = grandiloquent = orotund = oratorical, 循序漸進的(問題)
+    + /ˈrɪb(ə)ld/ ribald (adj)猥褻的/下流的 = crude = offensive = bawdy = vulgar = obscence
     + ridden (adj)被支配的 = dominated = burdened = harassed = oppressed, 充滿…的 = laden <-- ride
-    ++ riddle (n)謎/奧秘 = enigma = conundrum = puzzle, 粗篩 (v)打謎似地說, 使布滿洞孔, 充滿 = permeate, 篩 = screen
-    ++ rife (adj)流行的/蔓延的 = prevalent = rampant, 豐富的 = abundant = plentiful = numerous, 充斥的/充滿的 = abundant = abounding <|> ripe
-    + rift (n)裂口/裂縫 = gap = fissure = cleft = chink, 嫌隙 (v)裂開 = split
-    + rigid (adj)堅固的/不易彎曲的 = austere, 嚴格的/死板的 = inflexible = strict = severe = stringent --> rigidity (n)
-    ++ rigor (n)嚴格/嚴謹 = asperity = strictness = severity, 嚴密/精確, 艱苦 = hardship = austerity --> rigorous (adj)嚴格的/嚴厲的 = harsh = severe, 縝密的/精確的 = precise = exact = accurate = rigid
-    + rile (v)激怒 = irritate  = irk = gall = peeve = provoke
-    + /rɪˈpɒst/ riposte (n)反應靈敏的回答 = counterstroke (v)機敏地反駁 = retort = retaliate
-    + /rʌɪt/ rite (n)儀式 <|> /rʌɪt/ right --> /ˈrɪtʃʊəl/ ritual (n)儀式, 例行習慣 --> ritualistic (adj)儀式的, 慣例的/不變的
-    ++ /ˈrɪvɪt/ rivet (n)鉚釘 (v)固定/釘牢, 吸引注意 = arrest --> riveting (adj)吸引注意的 = fascinating = arresting
-    + robust (adj)強健的 = vigorous = hardy = stalwart, 結實的 = stout, 醇厚的/濃的
-    + rococo (adj)洛可可式的/裝飾花樣多且繁雜的
-    +++ row (n)一列/一排 (v)划船, 划船載, 爭吵, 嚴厲斥責 (n)划船小遊, 吵架/口角, 嚴重爭執, 嚴厲斥責, 吵嚷/喧鬧 = uproar
-    ++ rue (n/v)後悔/遺憾/懊悔 = repent = regret = sorrow = repentance = remorse = ruth --> rueful (adj)哀傷的/後悔的 = mournful = lachrymose = regretful, 可憐的 = pitiable = deplorable = sordid = squalid
-    + ruminant (adj)反芻的, 沈思的 = meditative = contemplative --> rumination (n) <-- rumen
+    ++ riddle (n)謎 = enigma, 謎一般的人/難題 = conundrum = puzzle, 粗篩 (v)解……的謎, 使布滿洞孔, [with]充滿 = permeate, 篩 = screen
+    ++ rife (adj)流行的 = widespread = prevalent = rampant, [with]充斥的/充滿的 = abundant = abounding (adv)遍布 <|> ripe
+    + rift (n)裂口/裂縫 = gap = fissure = cleft = chink, 嫌隙 (v)開裂/斷裂 = split
+    + rigid (adj)堅固的/不易彎曲的 = austere, 僵硬的/驚呆的, 嚴格的/死板的 = inflexible = strict = stringent
+    + rigidity (mn)僵硬/堅硬, 死板
+    ++ rigor (n)發燒前的寒顫, 屍僵/死後僵直 = rigor mortis, 嚴謹/謹慎 = asperity = strictness = severity, 嚴格 = severity = strictness, 苛嚴/嚴酷 = harshness = hardship
+    + rigorous (adj)縝密的/謹慎的 = careful = thorough, 嚴格的 = severe = strict, 嚴酷的/嚴峻的
+    + rile (v)激怒 = irritate  = irk = gall = peeve = provoke, 使(水)混濁
+    + /rɪˈpɒst/ riposte (n/v)反應靈敏的回答 = counterstroke = retort = retaliate, 擋後還擊
+    + /rʌɪt/ rite (n)儀式 = ceremony, 慣例 = convention <|> /rʌɪt/ right
+    + /ˈrɪtʃʊəl/ ritual (n)儀式, 例行公事/習慣 (adj)儀式的, 慣例的/例行的
+    + ritualistic (adj)儀式的, 不變的/一如以往的
+    ++ /ˈrɪvɪt/ rivet (n)鉚釘 (v)固定/釘牢, 使動不了, 吸引/使入迷 = arrest = engross
+    + riveting (adj)吸引人的 = fascinating = arresting = compelling = engrossing
+    + robust (adj)強健的 = vigorous = hardy = stalwart, 結實的/堅固的 = stou = sturdy, 堅定的 = uncompromising, 醇厚的/濃的
+    + rococo (adj)洛可可式的/裝飾花樣多且繁雜的 (n)洛可可式
+    +++ row (n)一列/一排, 划船小遊, 吵架/口角, 嚴重爭執, 嚴厲斥責, 吵嚷/喧鬧 = uproar (v)划船, 划船載, 爭吵, 嚴厲斥責
+    + rue (v)懊悔 = repent = regret = remorse (n)同情/憐憫 = compassion = pity
+    + rueful (adj)哀傷的/懊悔的 = mournful = lachrymose = regretful = remorseful
+    + ruminant (n)反芻動物, 沉思者 (adj)反芻的 --> rumination (mn)沉思/深思, 反芻 <-- rumen
     + /ruːz/ ruse (n)花招/詐術 = trick = stratagem = artifice <|> ruth <|> rue
-    + ruthless (adj)殘忍無情的 = cruel = merciless = wanton <-- ruth + less
+    + ruthless (adj)無情的/冷酷的 = cruel = merciless = wanton <-- ruth + less
 
     * radiate (v)發散, 流露/煥發 = exude = project
     * raid (n/v)突襲, 劫掠/挖角, 侵吞/盜用 = steal = loot
@@ -3049,6 +3064,7 @@
     - religiosity (n)篤信 = string belief
     - rendezvous (n)約會/約會地點 <-- [法]rendez 表現 = present + voud 自己 = yourself 
     - rent (n)裂縫/破洞, 意見分歧, 租金 (v)租用/租出 <-- render
+    - resultant (adj)作為結果的, 合量/合力
     - reverie (n)幻想, 夢幻曲 <-- rave
     - rhinestone (n)萊茵石(透明無色的鑽石仿製品)
     - rhubarb (n)大黃 (n/v)喧鬧爭吵
@@ -3188,6 +3204,8 @@
     +++ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深 = fathom, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地 --> soundness (mn)健康/健全 = robustness, 正確/合理, 可靠
     ++ squalid (adj)骯髒的 = sordid = filthy, 可鄙的/可恥的 = sordid <-- squal 髒 = dirty + or
     + squalor (n)極其骯髒/邋遢
+    +++ spare (adj)額外的, 瘦的, 簡約的 (n)備品 (v)分出/分讓/騰出, 饒恕/不傷害, [oneself]感到滿足
+    +++ sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy
     ++ spartan (adj)簡樸的/刻苦的 = austere = stern, 勇敢的 = brave = undaunted, 簡潔的 = laconic
     + speeding (n)超速行駛 (adj)高速行駛的, 快速寫作的
     + spendthrift (n)揮霍無度的人 (adj)揮霍無度的 <-- spend + thrift
@@ -3228,7 +3246,7 @@
     ++ strength (n)力氣/實力/效力, 強度/濃度 = concentration, 人數/兵力, 長處
     * stride (v)大步行走
     + strident (adj)刺耳的 = grating = harsh = discordant = cacophonous = jarring <|> stride
-    *** strike -> struck -> stricken (v)罷工, 打/擊/攻擊, 敲/鳴/報時, 擦/劃(火柴), 刪除/取消, 發現/探測到, 達成協議, 讓…覺得/使產生…想法, 鑄造/壓出, [down]裁定(某法律條文)非法
+    *** strike -> struck -> stricken (v)罷工, 打/擊/攻擊, 敲/鳴/報時, 擦/劃(火柴), 刪除/取消, 發現/探測到, 達成協議, 讓…覺得/使產生…想法, 鑄造/壓出, [down]裁定(某法律條文)非法, [up]開始演奏/開始唱, [up]建立(關係)
     ++ striking (adj)引人注目的 = attractive = impressive = showy = arresting = riveting, 明顯的 = noticeable = conspicuous = eminent, 罷工的
     + struck (adj)因罷工而關閉的/受到罷工影響的
     * stroke (n)擊/打, 一筆/筆觸, 輕撫, 中風 (v)擊/打(球), 划, 輕撫
@@ -3309,8 +3327,6 @@
     * sour (adj)酸的, 不友好的/壞脾氣的/沒好氣的 = acerbic (v)(使)酸腐 = spoil (n)沙瓦/酸味雞尾酒
     * /ˌsuːvəˈnɪə/ souvenir (n)紀念品/紀念物/伴手禮
     ** sow -> sowed -> sown (v)播(種) = plant, [be sown with]被厚厚地蓋住, 散布 (n)母豬
-    *** spare (adj)額外的, 瘦的, 簡約的 (n)備品 (v)分出/分讓/騰出, 饒恕/不傷害, [oneself]感到滿足
-    *** sparing (adj)節約的 = economical, 貧乏的/缺乏的 = scanty = limited = meager = stingy
     * spasm (n)抽搐/痙攣 = jerk --> spasmodic (adj)痙攣的 = jerky
     * spellbind (v)吸引/使入迷 = fascinate
     * splendor (n)壯麗 = magnificence = grandeur, 輝煌 = brilliancy --> splendid (adj)極佳的/華麗的/壯麗的 = grand = gorgeous = gorgeous = magnificent = sumptuous
@@ -3505,6 +3521,7 @@
     - shutoff (n)關閉器, 停止/中斷 = cessation
     - shudder (n/v)顫慄/發抖
     - shunt (v)使(火車)轉軌, 轉至另一地方
+    - shutter (n)百葉窗, 快門/遮光器, (風琴等的)開閉器 (v)關上……的百葉窗, 停止(營業)
     - shuttle (n)往返旅行, 太空梭 = space shuttle, 梭子, 羽毛球/板羽球 = shuttlecock (v)往返旅行, 往返運送
     - sib (adj)親屬的 (n)親族
     - sibilant (adj)發出嘶嘶聲的 = hissing
@@ -3517,6 +3534,7 @@
     - signpost (n)路標/指示牌 (v)給…設置路標
     - silicone (n)矽樹脂/硅酮
     - sill (n)門檻 = threshold, 窗台 = windowsill
+    - slim -> slimmer -> slimmest (adj)苗條的 = slender, 細長的, 渺茫的 = faint (v)減肥 (n)瘦病/愛滋病
     - silt (mn)泥沙/淤泥 (v)使淤塞
     - silver (n)銀
     - silversmith (n)銀匠
@@ -3591,6 +3609,7 @@
     - snappy (adj)[非]厲聲說話的, [非]精確的/簡潔的 = neat = concise, 優雅的 = elegant
     - snip (v)剪斷
     - sniff (v)嗅/聞, 用力吸/用鼻吸 (n)嗅聞聲, 吸入量, 徵兆, 小改變
+    - sniffle (v)(通常指因哭泣或感冒)抽鼻子/吸鼻子 (n)鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
     * snitch (v)偷, 告密 (n)告密者 <|> stitch
     - snowdrift (n)雪堆
     - snug (adj)溫暖的/舒適的 = cozy
@@ -3641,6 +3660,7 @@
     - spoke (n)輪輻/輻條, 梯階, 阻礙
     - sponsor (n)贊助者, 資助/贊助, 倡議者, 保證人/負責人, 教父 = godfather (v)資助/贊助, 倡議, 規劃(雙方會談)
     - spoof (v)揶揄/嘲諷, 愚弄/欺騙 = deceive = hoax
+    - spook (n)幽靈, 間諜, 黑人 (v)受驚嚇
     - sport (v)炫耀/賣弄, 遊戲/玩耍, 開玩笑/嘲弄 (n)娛樂/消遣, 運動, 玩笑/戲謔
     - spotlight (n)聚光燈, 聚光燈光線, [the spotlight]公眾注意的中心 (v)聚光照明, 轉移注意到
     - sprain (v)扭傷
@@ -4241,6 +4261,7 @@
     - weed (n)雜草/野草 (v)除草
     - weep -> wept -> wept (v)流淚, 哭著說, 使液體流出 (n)哭泣
     - weirdo (n)怪人
+    - weigh (v)[be weighed down by/with]扛/肩負, [be weighed down by/with]擔憂
     - weld (v)焊接/熔接/結合 = unite = reunite
     - welder (n)焊接工人
     - well -> better -> best (adv)好地, 恰當地, 好運地, 親切地, 讚賞地, 鎮定地, 有利地, 繁榮地/舒適地, 徹底地, 相當地, 非常可能地, 輕易地, 有好理由地 (adj)健康的, 安好的, 便宜的(酒) (excl)啊/哎呀, 嗯, 噯 (n)井, 凹處, 低場域 大量, 酒吧酒架 
@@ -4249,6 +4270,7 @@
     - well-groomed (adj)非常整潔的
     - well-off (n)有錢人
     - well-rounded (adv)全面的/多方面的
+    - well-to-do (adj)富有的
     - well-timed (adj)及時的/適時的
     - well-trodden (adj)用過多次的/常被參觀的, 多次做過的/多次探討過的
     - wether (n)閹羊
@@ -4274,6 +4296,7 @@
     - /huˈdənət/ whodunit (n)[非]偵探小說
     - wholesale (mn)批發 (adv)以批發方式, 大規模地/不加區別地 (adj)大批的/大規模的 = extensive (v)批發
     - wick (n)燭芯/燈芯
+    - wicker (mn)枝條/柳條
     - wield (v)揮舞, 行使(權力)/施加(影響)
     - wig (n)假髮
     - wight (n)幽靈/鬼魂/超自然生物
