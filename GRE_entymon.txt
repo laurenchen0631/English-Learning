@@ -568,7 +568,7 @@
 		- /rɪˈbɛljən/ rebellion (n)造反/叛亂/反抗 = insurrection --> rebellious (adj)反抗的 = defiant, 難控制的 = refractory
 
 	biblio 書 = booke
-		- bibliography (n)參考書目/文獻目錄
+		* bibliography (n)參考書目/文獻目錄
 		- /ˈbɪblɪə(ʊ)fʌɪl/ bibliophile (n)愛書者/藏書者 = bookworm
 
 	blanc, blea 白 = white, pale
@@ -806,6 +806,7 @@
 		+ accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
 		- access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
 		+ accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
+		+ inaccessible (adj)達不到的, 無法使用的, 難懂的/晦澀的, 不易親近的 = unapproachable
 	    - accessory (adj)附屬的/次要的 = subsidiary = supplementary (n)配件, 幫凶/同謀 = accomplice = abettor
 		- /anˈsɛstrəl/ ancestral (adj)祖先的/祖傳的
 		+ concede (v)讓步/讓出(權利) = compromise = yield = appease, 承認(失敗) = admit = grant
@@ -1029,6 +1030,7 @@
 		+ discriminate (v)區別/辨別 = differentiate, 差別對待
 		+++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded
 		+++ discretion (n)謹慎/審慎
+		+ indiscretion
 		+ discretionary (adj)自行決定的/自主的 <|> discrete
 		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的 --> discreteness (n)獨立性/不連續性
 		* excrete (v)排泄/分泌
@@ -1996,7 +1998,7 @@
 		- exclaim --> exclamation
 		+ exclude --> exclusive
 		+ /ɪkˈskɔːrɪeɪt/ excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste = savage, 剝皮 <-- ex + cor 皮 = skin + iate
-		- excrete
+		* excrete
 		+ exculpate --> exculpatory
 		- excursion --> excursive
 		+ execrate --> execrable <-- ex + secr + ate
@@ -2410,6 +2412,7 @@
 		+ forfeit
 		- ineffectual (adj)無效的/徒勞無意的 = futile <|> ineffable
 		- infect (v)感染/傳染 --> infection (n)感染
+		+ infectious (adj)傳染的/傳染性的, 有感染力的/有影響力的
 		+ manifest
 		- manufacture (v)大量製造, 捏造
 		+ munificent
@@ -3099,6 +3102,7 @@
 			+ inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾 
 			+ inconstant (adj)易變的/無常的 = variable = irregular = erratic, 不忠的 --> inconstancy (n) <-- in + constant
 			+ incontrovertible (adj)無可辯駁的/無庸置疑的 = indisputable
+			- inconvenient (adj)不方便的/打擾的
 			+ incorrigible (adj)屢教不改的/不可救藥的
 			- incorruptible (adj)不腐敗的/清廉的
 			- incredulity
@@ -3114,6 +3118,7 @@
 			+ indirect (adj)迂迴的 = roundabout, 間接的/含蓄的
 			* indignant --> indignation
 			- indignity
+			+ indiscretion (n)輕率/言行失檢/不明智行為
 			++ indiscriminate (adj)不加區別的, 隨意的 = haphazard = thoughtless
 			+ indispensable (adj)必要的 = necessary = essential = requisite --> indispensability (n)不可缺少 = necessity
 			+ indecorous (adj)不適當的 = unseemly = improper
@@ -4585,6 +4590,7 @@
 
 		2. 在上 = above == up
 			- overarch (v)在……上成拱形
+			- overhead (adv)在頭頂上/在上頭 (adj)在頭上的/在上頭的, 企業日常開支的/營運費用的 (n)經常性開支/營運費用, 幻燈片/投影片, 高架艙
 			- overhear (v)偶然聽到/無意中聽到
 			- overland (adv)經由陸路 (adj)經由陸路的
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
@@ -4834,7 +4840,7 @@
 		+ profundity (n)深淵, 深奧/淵博 
 		++ profuse --> profusion
 		- progeny
-		- prognosis
+		* prognosis
 		+ prohibit --> prohibitive
 		- project
 		- projectile
@@ -6259,7 +6265,7 @@
 		+ resist (v)抵抗/反抗 = withstand, 克制/忍住(誘惑) = refrain from --> resistance (n)抵抗/反抗/抵制, 抵抗力, 阻力, 電阻
 		+ resistant (adj)抵抗的/抗……的
 		- restitute (v)復職/恢復, 歸還/償還 --> restitution (n)歸還, 償還/賠償, 恢復 = restoration
-		+++ restive (adj)焦躁的/不安的 = restless, 倔強的(馬) --> restiveness (n)
+		+++ restive (adj)焦躁的/不安的 = restless, 倔強的(馬) --> restiveness (n)躁動不安, 倔強
 		* restless (adj)焦躁的/煩躁的 = restive, 停不下來的/得不到休息的
 		+ stabilization (mn)穩定/安定
 		- stagnate (v)淤塞, 停滯 --> stagnant (adj)淤塞的, 停滯的/懶散的 = dull = sluggish --> stagnation (n)淤塞, 停滯
@@ -6847,6 +6853,7 @@
 		2. 改變/交換 = change
 			- transact (v)辦理/處理 = conduct = carry out --> transaction (n)辦理/處置, 交易/買賣, 會報/會刊
 			+ transcribe --> transcript
+			- transducer (n)換能器
 			- transfer --> transference
 			- transfigure
 			+ transform --> transformation
@@ -7411,6 +7418,7 @@
 		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹大笑的 = funny
 		* uproot (v)連根拔起, 根除/滅絕 = eradiate, 把……趕出家園
 		- upstage (v)搶……鏡頭/搶…的風頭 (adj/adv)向舞臺後部
+		- upstate (adj)在州北部的 (adv)在州北部 (n)州北部
 		- upswing (n)上升/增長 = increase = upward strength
 		- uptick (n)上揚/趨勢上揚 
 
@@ -7553,6 +7561,7 @@
 		+ /kənˈviːn/ convene (v)召集/召開 = rally = assemble = convoke
 		+ convention (n)大會, 習慣, 公約 (mn)習俗 --> conventional (adj)傳統的 = customary, 墨守成規的, 非核的(武器)
 		- convenient (adj)方便的/便利的/省事的 <|> conventional --> convenience (mn)方便/合宜 = expediency (n)便利設施/方便的用具 <--> inconvenient
+		- inconvenient
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
 		* /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
@@ -7590,6 +7599,7 @@
 		+ valid (adj)有根據的/令人信服的 = compelling, 合法的/有效的 --> /vəˈlɪdɪti/ validity (mn)正確/合理, 有效性/效力
 		+ validate (v)證實 = prove = substantiate, 使生效
 		- valor (n)勇氣/英勇 --> valorous (adj)勇敢的/英勇的 = valiant
+		+ valorize (v)歸功於/讚揚 = ascribe = exalt, 穩定物價
 
 	vap 蒸汽 = steam
 		- evaporate (v)蒸發, (抽象概念)消失

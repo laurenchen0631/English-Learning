@@ -14,7 +14,7 @@
 - alter <--> altar
 - apprehend <--> apprehension
 - astringent <--> stringent
-- awry <--> wry <--> wary <--> askew
+- awry <--> wry <--> wary <--> askew <--> weary
 
 ## B
 - bail <--> parole <--> bait <--> gait
@@ -30,13 +30,13 @@
 - bound <--> hound
 - both <--> booth
 - bowl <--> bowel
-- bracket <--> brackish
+- bracket <--> brackish <--> racket <--> rack <--> racketeer <--> racketeering
 - breed <--> brood
 - bridle <--> bribe <--> bride
 - buff <--> puff <--> rebuff <--> buffoon 
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
-- bumble <--> fumble <--> grumble <--> mumble
+- bumble <--> fumble <--> grumble <--> mumble <--> rumble <--> rumple
 - bump <--> hump <--> lump
 - burnish <--> furnish <--> furbish
 - bristle <--> gristle
@@ -82,6 +82,7 @@
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - consort <--> consortium
+- content <--> contention <--> contentment
 - contingent <--> continent <--> contiguous 
 - convey <--> convoy
 - cooperate <--> corporate <--> coop
@@ -120,6 +121,7 @@
 - disciple <--> discipline
 - discomfit <--> discomfort
 - discreet <--> discrete <--> discretion <--> discretionary
+- disjoint <--> disjunction
 - dismissal <--> dismissive
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
@@ -134,7 +136,7 @@
 - dub <--> dab <--> daub <--> dud <--> dude
 - due <--> undue
 - dull <--> hull
-- dun <--> dune
+- dun <--> dune <--> dung <--> rung
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
@@ -146,7 +148,10 @@
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
+- exalt <--> exult
+- excoriate
 - exegesis <--> genesis
+- exhaust <--> exhaustive
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 
@@ -202,8 +207,8 @@
 - gross <--> gloss <--> engross
 - groundless <--> grounded
 - grouse <--> arouse
-- gush <--> gash <--> gasp <--> grasp <--> gust <--> cusp <--> gut <--> gutter
-
+- gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter <--> cusp <--> rasp
+ 
 ## H
 - habilitate <--> rehabilitate
 - hale <--> hare <--> harem <--> mare
@@ -235,6 +240,7 @@
 - hurdle <--> hurtle <--> curdle
 - husband <--> husbandry 
 - husk <--> husky <--> hulk <--> hull
+- hustle <--> rustle
 
 ## I
 - idiom <--> idiot
@@ -258,7 +264,7 @@
 - irritate <--> irrigate <--> irate
 
 ## J
-- jag <--> jog <--> jug <--> juggle
+- jag <--> jog <--> jug <--> juggle <--> ragged <--> rugged
 - jockey <--> hockey
 - jot <--> jut <--> jolt <--> jostle
 
@@ -299,7 +305,7 @@
 - maternal <--> paternal
 - martial <--> marital
 - mason <--> mansion
-- mast <--> mash <--> mat <--> matt <--> mattress
+- mast <--> mash <--> mat <--> matt <--> mattress <--> mastodon
 + maunder <--> meander
 - mawkish <--> maw
 - metric <--> metrical
@@ -414,8 +420,11 @@
 - rail <--> raillery
 - raise <--> raisin
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
+- raconteur <--> rancor <--> rancid
 - rapprochement <--> reapproach
+- rattle <--> prattle
 - reflective <--> reflexive
+- replete <--> deplete
 - respite <--> respect
 - restive <--> restless 
 - retain <--> retrain
@@ -451,6 +460,7 @@
 - stand <--> strand
 - storey <--> story
 - stifle <--> strife <--> strive 
+- streak <--> steak
 - struggle <--> straggle
 - stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
