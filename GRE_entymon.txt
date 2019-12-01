@@ -1043,7 +1043,7 @@
 
 	cre, cred 相信 = believe, confide, entrust
 		- accredit (v)相信, 委任/授權 = authorize, 歸功於 = attribute to
-		+++ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, 加(金額)於帳戶
+		+++ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, [with]將...歸功於 = ascribe, 加(金額)於帳戶
 		+ creditable (adj)值得稱讚的
 		+ credent (adj)相信的 --> credence (n)相信/可信性
 		+ credential (n)證書, 國書(證明大使身分的證件) (v)授與證書
@@ -1616,7 +1616,7 @@
 			+ disparate --> disparity
 			+ dispassionate (adj)冷靜的/沈著的/公平的 = disinterested
 			++ dispatch (v)派遣/發送, 迅速處理 = expedite, 殺死 (n)派遣/發送, 迅速, 官方報告, 新聞稿, 殺 <-- dis + patch 阻礙 = shackle
-			* displace (v)取代/撤換 = supersede, 使移位, 迫使離開
+			+++ displace (v)替代/替換 = take over, 移開, 迫使(人)離開家, 撤換(職位)
 			* displacement (n)移位, 置換/取代, 被迫遷出, 移位量, 排水量, 情感轉移
 			+ displease (v)使不高興/使生氣
 			* dispossess (v)沒收/奪取, 搶(球)
@@ -2374,7 +2374,7 @@
 	fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
 		*** affect (v)影響/產生效果 == have an effect on, 使感動 = touch
 		+ affected (adj)受影響的, 做作的/不自然的/假裝的 = pretentious
-		- affectation (n)做作/假裝
+		- affectation (n)做作/假裝 = pretense = sham
 		- affecting (adj)感人的 = moving
 		- affection (n)鍾愛/愛, 疾病/感染, 情緒
 		- affectionate (adj)表示愛的, 充滿深情的/有感情的 = fond
@@ -4128,7 +4128,8 @@
 		- multiple (adj)多樣的/多重的 = various
 		- multiply (v)乘, 增加, 繁殖 = breed (adv)多樣地/多重地
 		- multiplex --> multiplicity
-		- multitude (n)大量, 群眾 --> multitudinous (adj)極多的, 種類繁多的, 廣大的(水體)
+		- multitude (n)大量, 群眾
+		+ multitudinous (adj)極多的, 種類繁多的, 廣大的(水體)
 		- multimedia (adj)多媒體的 (n)多種媒體的採用
 
 	muni 禮物 = gift
@@ -6818,7 +6819,7 @@
 		- sophistry (n)詭辯/謬論 = fallacy
 		* /səˈfɪstɪkeɪt/ sophisticate (v)使懂世故, 使複雜, 詭辯 (n)久經世故的人
 		++ sophistication (n)老於世故, 複雜/精密
-		++ sophisticated (adj)老於世故的, 很有品味的, 精密的/複雜的 = complex, 敏銳的/有洞察力的 = subtle
+		++ sophisticated (adj)老於世故的 = worldly, 很有品味的, 精密的/複雜的 = complex, 敏銳的/有洞察力的 = subtle
 
 	spine 棘刺 = thorn
 		- spine (n)脊椎 = backbone, 核心, 骨氣/勇氣, 書脊, 刺/針
@@ -6987,10 +6988,12 @@
 		++ portent (n)前兆, 奇人/奇事 = marvel = prodigy
 		++ portentous (adj)凶兆的/不祥的 = ominous, 自大的/裝模作樣的
 		- superintend (v)監督 = oversee = supervise
+		- superintendent (n)監督人/監管者, 管房人
 		- tendrils (n)卷鬚/蔓, 卷鬚狀物
 		- tension (n)拉緊/繃緊/張力, 電壓, 緊張, 緊張局勢, 取捨 (V)使拉緊/使繃緊
 		- tensile /ˈtɛnsʌɪl/ (adj)張力的/拉力的, 抗張的
-		* /ˈtɛntətɪv/ tentative (adj)暫時的/臨時的 = provisional, 躊躇的/猶豫的 = hesitant <-- tempt
+		++ tentative (adj)暫時的/試驗性的 = provisional, 躊躇的/猶豫的 = hesitant
+
 	
 	tempt 嘗試/探查 = probe, feel, test
 		+ contempt (n)鄙視/輕視 = scorn = disdain, 蔑視, 藐視法庭
@@ -7650,7 +7653,7 @@
 		+ /kənˈvɪvɪəl/ convivial (adj)友好快活的 = friendly = jovial, 歡樂的 = jolly = merry = joyousconfound --> conviviality (mn)歡樂
 		- revive (v)(使)甦醒/復原/復興 = resurrect --> revival (n)甦醒/復活, 復興/再流行
 		- survive (v)倖存, 比……活得長
-		- vivacious (adj)(女性)活潑的/快活的 = sprightly = scintillating = animated
+		- vivacious (adj)(女性)活潑的/快活的 = sprightly = animated
 		- vivid (adj)鮮活的/生動的 = graphic, 鮮豔的/明亮的
 		+ vivisection (mn)活體解剖, 尖銳的批評
 		- /vʌɪˈvɛːrɪəm/ vivarium --> vivaria (n)生態缸(模擬自然生態環境的動植物飼養場所，通常是封閉或半封閉式的)
@@ -7684,7 +7687,7 @@
 	vitr 玻璃 = glass
 		- /ˈvɪtrɪəs/ vitreous (adj)玻璃的
 		+ /ˈvɪtrɪəl/ vitriol (mn)辛辣的批評, 硫酸/礬 
-		+ vitriolic (adj)尖刻的 = truculent = scathing = harsh
+		+ vitriolic (adj)尖刻的 = scathing = harsh
 
 	venge 復仇 = avenge
 		- avenge (v)替...復仇/報...之仇 = vindicate

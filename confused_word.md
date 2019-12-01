@@ -14,7 +14,7 @@
 - alter <--> altar
 - apprehend <--> apprehension
 - astringent <--> stringent
-- awry <--> wry <--> wary <--> askew <--> weary
+- awry <--> wry <--> wary <--> weary <--> askew 
 
 ## B
 - bail <--> parole <--> bait <--> gait
@@ -214,7 +214,7 @@
 - hale <--> hare <--> harem <--> mare
 - harry <--> marry <--> parry <--> quarry
 - hangar <--> hanger
-- harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow
+- harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow <--> mellow
 - hash <--> mash
 - hatch <--> hitch <--> hutch <--> hut <--> ditch
 - haul <--> hurl <--> overhaul
@@ -258,6 +258,7 @@
 - inch <--> itch
 - incite
 - innate <--> natal
+- intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
 - invidious <--> insidious
@@ -317,6 +318,7 @@
 - milk <--> bilk
 - miscreant <--> recreant
 - miser <--> misery
+- mitigate <--> unmitigated
 - moral <--> morale
 - morose <--> remorse
 - mosquito <--> mosque
@@ -430,6 +432,7 @@
 - retain <--> retrain
 - retina <--> patina
 - retrench <--> retreat <--> entrench
+- risible <--> rise
 - risk <--> brisk
 - roast <--> roost
 - rue <--> ruse
@@ -441,16 +444,22 @@
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
-- scrupulous <--> unscrupulous
+- scruple <--> scrupulous <--> unscrupulous
 - shed <--> shred
+- shirk <--> shrink
 - shuttle <--> shutter
+- slake <--> slack <--> slick
 - slaughter <--> onslaught
 - sleight <--> sleigh
 - stationery <--> stationary
+- smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
+- sober <--> somber
+- sobriety <--> sobriquet
 - specter <--> spectator
 - spoof <--> spook
+- soporific <--> sporadic
 - spur <--> spurious <--> spurn <--> spurt <--> churn
 - sputter <--> putter
 - silt <--> slit <--> milt
