@@ -161,6 +161,10 @@
 		- Jinghong (n)景洪市
 	- Hong Kong (n)香港
 		- the New Territories (n)新界，香港全境三大地域之一，與中國大陸接壤，也是香港境內除香港島及九龍外的其餘區域
+	- Inner Mongolia (n)內蒙古自治區
+	- Shanxi (n)山西省
+	- Gansu (n)甘肅省
+		- Lanzhou (n)蘭州市，中華人民共和國甘肅省省會
 
 [Oceania]
 	- Oceania (n)大洋洲(將澳大利亞洲與太平洋諸島嶼併稱的地理區域)
@@ -194,7 +198,7 @@
 
 	- Baltic (adj)波羅的海的, 波羅的海語系的 (n)波羅的海/波羅的海諸國, 波羅的海語系
 	- Lithuania (n)立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
-	- Estonia /ɪˈstəʊnɪə/ (n)愛沙尼亞，波羅的海國家之一。愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成
+	- Estonia /ɪˈstəʊnɪə/ (n)愛沙尼亞，波羅的海國家之一。愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成 --> Estonian (adj)愛沙尼亞的/愛沙尼亞人的/愛沙尼亞語的 (n)愛沙尼亞人, 愛沙尼亞語
 
 	- Nordic (adj)北歐國家的 (n)北歐人
 	- Scandinavian (adj)斯堪地那維亞的 (n)斯堪地那維亞人 == Relating to Scandinavia

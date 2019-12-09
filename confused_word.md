@@ -395,6 +395,7 @@
 - privacy <--> privation <--> privy <--> piracy
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
+- prerogative
 - prestige <--> vestige
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
