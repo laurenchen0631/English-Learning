@@ -719,6 +719,7 @@
 	- nachos (n)烤乾酪辣味玉米片
 	- bulgur (n)小麥片
 	- ravioli (n)意大利小方餃
+	- pad thai (n)泰式炒麵
 
 	- Nutella (n)能多益(義大利廠商Ferrero生產的棕櫚油巧克力榛果醬)
 	- Skittles (n)彩虹糖(一種果味糖果的品牌，目前由瑪氏食品的子公司箭牌股份有限公司進行生產)
@@ -2244,6 +2245,7 @@
 	- clown /klaʊn/ (n)小丑/丑角
     - pastime (n)消遣/娛樂 = hobby
 	- skydive (v)跳傘
+	- Yatzy (n)快艇骰子，一種骰子遊戲
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel

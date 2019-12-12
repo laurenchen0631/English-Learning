@@ -1312,6 +1312,7 @@
 		- incognizant (adj)不認識的/沒有察覺到的的
 		- derecognize (v)撤銷對…的承認
 		*** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
+		- reconnoiter (n/v)[軍]勘察/偵查
 
 	centr 中心 = center
 		+ central (adj)首要的/最重要的 = principal = essential = chief = dominant, 核心的/中心的
@@ -1905,7 +1906,7 @@
 		* dynamite (n)炸藥 (v)用炸藥爆破
 
 	dox 思想/意見 = opion
-		+ heterodox
+		+ heterodox --> heterodoxy
 		+ orthodox (adj)正統的 --> orthodoxy (n)正統/正教
 		+ paradox (n)自相矛盾的議論/悖論 --> paradoxical (adj)似是而非的 = specious
 
@@ -2344,6 +2345,7 @@
 		- inform (v)通知/告知 --> informed (adj)見多識廣的, 消息靈通的 <--> uninformative
 		- informant (n)情報提供者, 告密者 = informer, (為語言學調查)提供資料的講本地話的人
 		+ transform (v)使改變 --> transformation (n)變化/轉變/變形/變質
+		- transformative (adj)變化的/變形的
 		- uniform (n)制服 (adj)相同的/一致的 = consistent
 
 	fort
@@ -2714,6 +2716,7 @@
 		++ egress (N)外出, 出口/出路 (v)離開
 		- ingredient (n)成分/原料
 		- progress (n/v)進步/進展 = advance = proceed = boost --> progression (n)進展, 一連串
+		- progressive (adj)逐漸的 = gradual, [醫]進行性的/愈來愈嚴重的, 累進(稅)的, 改革派的, 進行式的 (n)支持進步政策者/改革派人士, 進行式
 		- regress (v)退回/逆行/復原 --> regressive (adj)退步的/退化的 <|> recessive
 		+ transgress (v)違反/違背, 侵犯/越過 --> transgression (n)違反/違法/罪過
 
@@ -2928,6 +2931,7 @@
 		* heresy (n)異端邪說
 		+ heretic (n/adj)異教徒 = heathen <|> hermetic --> heretical (adj)異端的 
 		+ /ˈhɛdərəˌdɑks/ heterodox (adj)非正統的/異端的 = unorthodox = maverick = unconventional <--> orthodox
+		+ heterodoxy (mn)異端
 		+ heterogeneous (adj)不同的 = unlike = incongruous = dissimilar = diverse, 各式各樣的 = motley = sundry = miscellaneous <--> homogeneous
 
 	homo, homeo 相同 = similar
@@ -3048,6 +3052,7 @@
 			- immemorial
 			+ immense --> immensity
 			- immoderate (adj)過度的 = excessive = extreme 
+			- immovable (adj)不可移動的/固定的, [法]不動的, 堅定不移的 (n)[法]不動產
 			+ immune --> immunity --> immunize
 			+ immutable
 			- /ɪmˈpalpəb(ə)l/ impalpable (adj)無法碰觸的/無形的, 不易理解的 <-- im + palpable
@@ -3713,7 +3718,7 @@
 		- subliminal (adj)潛意識的/下意識的
 
 	lign 木頭 = line
-		+ align (v)使成一條直線, 放..在正確的位置, [oneself with]支持 = support, 結盟 = ally = affiliate = join
+		+ align (v)使成一條直線, 放..在正確的位置, [with]支持 = support, 結盟 = ally = affiliate = join
 		- ligneous (adj)木質的/木頭的 = woody
 		- lignify (v)木質化
 
@@ -4576,6 +4581,7 @@
 			+ overreact (v)反應過度
 			- overrun (v)橫行於/大批出沒於/蔓延於, 跑過, 超越(尤指完成期限或費用) (n)超越限度 (mn)泛濫/橫行
 			- oversimplify (v)過分簡單化
+			- oversize (adj)特大號的
 			+ overstate (v)誇張/對...言過其實 = exaggerate
 			- overstay (v)停留得過久
 			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
@@ -7161,7 +7167,7 @@
 		+ deterrent (N)威懾力量/遏制因素 == something that deters, 威嚇武力 (adj)威懾的
 		+ intimidate (v)威嚇 = daunt = frighten = overawe <|> intimate
 		+ timid (adj)膽小的/無自信的 = pusillanimous = cowardly = craven = tremulous = timorous = recreant <|> tumid --> timidity (mn)膽怯/無自信
-		+ timorous (adj)提心吊膽的/戰戰兢兢的 = fearful = tremulous = timid = trepid
+		+ timorous (adj)提心吊膽的/戰戰兢兢的 = fearful = tremulous = timid = trepid --> timorousness (n)
 		- terror (mn)恐懼, 恐怖主義 = terrorism, 令人恐懼之物, 討厭的人/造成麻煩的人 = holy terror
 		- terrorize (v)恐嚇/使恐懼
 		++ terrific (adj)極大的, [非]極好的 = excellent
@@ -7278,6 +7284,7 @@
 		- unfasten (v)解開 = undo, 鬆脫
 		* unfathomable (adj)無法測量的, 深不可測的 = inscrutable = impenetrable
 		+ unfavorable (adj)反對的/缺少支持的, 不利的 = adverse = inauspicious = unpropitious
+		- unfazed (adj)不受干擾的/不為所動的
 		+ unfeigned (adj)不虛偽的/真誠的 = genuine = sincere
 		- unfetter (v)釋放/使自由
 		+ unfit (adj)[for]不適合的/不恰當的, 不強健的

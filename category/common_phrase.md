@@ -440,6 +440,8 @@
 	- The boss is so lazy but when there's a mistake I always have to carry the can for him.
 - catch sb off guard 使..措手不及
 	- The strength of the storm caught many residents off guard.
+- cheek to jowl 緊靠在一起/緊挨著
+	- The poor lived cheek by jowl in industrial mining towns in Victorian England.
 - cop to 承認做了 == to admit to doing (something)
 	- He agreed to cop to a misdemeanor.
 - come into use 開始被採用 == to start being used
@@ -560,6 +562,8 @@
 	- I have a good mind to go without him if he's going to be such an idiot!
 - It's your call 這是你自己的決定 == it's your decision
 	- Nobody can make this decision for you - it's your call. 
+- lip service 口頭/說說
+	- She claims to be in favour of training, but so far she's only paid lip service to the idea.
 + live up to sth 實踐/遵守/無愧于
 	- Everyone ought to live up to what he knows to be right.
 	- Students should live up to certain standards of behavior. 
@@ -573,6 +577,8 @@
 	- He wanted to rush through the job, but I encouraged him to take it one step at a time.
 - (be) no skin off my back 毫不在乎 == dont care 
 	- It's no skin off my nose if you don't take my advice.
+- pull no punches 毫不留情
+	- He has pulled no punches in attacking everyone
 - put (sth) in/into perspective 理解、讚揚或評估..真正的價值 == To clarify, appraise, or assess the true value, importance, or significance of something.
 	- To put things in perspective, the nonprofit Wildlife Conservation Network (WCN) notes that lion numbers have dropped by half since The Lion King premiered in theaters in 1994.
 - side of the fence 立場/邊 == used to refer to either of the opposing positions or interests involved in a particular situation.
@@ -607,11 +613,16 @@
 	- You scared the daylights out of me, yelling like that.
 - sick at heart 非常不高興 == very unhappy
 	- David was sick at heart about having to leave his family behind.
+- strike a chord (v)引起共鳴/得到贊同, 撥動心弦/使觸景生情
+	- Their policy on childcare has struck a responsive chord with women voters.
+	- Her speech struck a sympathetic chord among business leaders.
 - take sb aback 使..大吃一驚
 	- I was a little taken aback at the directness of the question.
 	- The news really took us aback.
 
 ## Status
+- a raw deal (n)不公平的待遇 == bad or unfair treatment
+	- He said that many children in the city's schools were getting/being given a raw deal by being taught in classes that were too large.
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
 	- He was at the height of his fame when he died.
 - at one's disposal 可以用來幫助..的

@@ -194,6 +194,7 @@
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
 - germ <--> germane
+- giddy <--> piddly
 - gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle
 - git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
 - glean <--> clean
@@ -204,6 +205,7 @@
 - grab <--> drab <--> drag
 - grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
+- grind <--> grin
 - gross <--> gloss <--> engross
 - groundless <--> grounded
 - grouse <--> arouse
@@ -453,6 +455,7 @@
 - slaughter <--> onslaught
 - sleight <--> sleigh
 - stationery <--> stationary
+- smudge <--> nudge
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
@@ -470,11 +473,14 @@
 - stand <--> strand
 - storey <--> story
 - stifle <--> strife <--> strive 
+- stride <--> strident
+- strike <--> stroke
 - streak <--> steak
 - struggle <--> straggle
 - stub <--> stud
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
+- sullen <--> sully
 - supplant <---> suppliant
 
 ## T
