@@ -39,7 +39,7 @@
 			+ aesthete --> aesthetic
 			+ affable
 			+ affected 
-			- affectation
+			+ affectation
 			- affecting
 			- affection
 			- afield (adv)遠離著, 去野外
@@ -962,6 +962,7 @@
 		+ clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)大聲的抱怨/強烈呼聲 = outcry, 吵鬧/喧嚷 = jazz = clangor
 		- clamorous (adj)吵鬧的/喧嚷的, 大聲抱怨的/強烈要求的
 		+ declaim (v)慷慨陳詞/朗誦 --> declamation (n)朗讀/雄辯
+		- declamatory (adj)慷慨激昂的
 		- disclaim (v)放棄權力 = renounce, 拒絕承認/否認 = refuse = deny
 		- exclaim (v)驚叫/呼喊 --> exclamation (n)驚叫, 感歎句/感歎詞
 		+ proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
@@ -978,7 +979,7 @@
 		- accent (n)口音, 重音 (v)強調
 		- cantata (n)清唱劇 = oratorio
 		* chant (n)聖歌 (v)歌唱/背誦/吟誦
-		- disenchant (v)使醒悟/使不抱幻想
+		+ disenchant (v)使醒悟/使不抱幻想
 		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
 		- incant (v)吟唱/吟誦 = cant = intone --> incantation (n)咒文
 		+ incentive (n)刺激因素/誘因 = stimulus = motive
@@ -1104,7 +1105,7 @@
 	cracy, crat 統治 = power, rule, strength, might
 		- aristocracy (n)貴族, 貴族統治/貴族政府 --> aristocratic (adj) <-- aristo 最好的 = best + cracy
 		- autocrat
-		+ democracy --> democratic --> democratize
+		+ democracy --> democratic --> democratize --> democratization
 		- bureaucracy (n)官僚政治, 官僚組織, 官僚, 繁文褥節
 		- gerontocracy
 		+ plutocracy
@@ -1534,6 +1535,7 @@
 			+ deprive --> deprivation
 			- deprecate
 			- deracinate (v)根除 = uproot = extirpate <-- de + racin 根 = root + ate
+			- derail (v)出軌, 阻撓
 			* derogate
 			- desert
 			- desperate
@@ -1608,7 +1610,7 @@
 			- dislocate
 			- dislodge (v)用力（或設法）移動, 逐出
 			- dismantle (v)拆除 = disassemble
-			- dismay (v)沮喪/氣餒
+			* dismay (v)沮喪/氣餒
 			* disobedient (adj)不服從的/不聽話的 = contumacious = rebellious = insubordinate = wayward = froward
 			* disorder (n)混亂/淩亂, 失調/紊亂, (政治)暴亂/動亂/騷亂 = anarchy
 			- disorganized (adj)雜亂無章的/缺乏條理的
@@ -1776,6 +1778,7 @@
 			++ dominate (v)支配/統治, 俯視/俯瞰 = overlook --> dominant (adj)主要的/主導的, (基因)顯性的, 高聳的 
 			(n)顯性基因, 優勢物種
 			* domineer (v)跋扈/作威作福 = tyrannize --> domineering (adj)跋扈的/專橫的 = overbearing = imperious = arrogant = dictatorial
+			- dominion (n)統治權 = sovereignty = control, 絕對所有權 = dominium, 領地/領土
 
 		2. 家 = house
 			- condominium, condo (n)公寓大樓, 公寓住房, 被兩個或多個外國勢力共同管轄的國家 (mn)共同管轄
@@ -1861,6 +1864,7 @@
 
 	dem, demo 人民 = people
 		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
+		- democratization (n)民主化, 大眾化/普及化
 		+ demagog, demagogue (n)蠱惑民心的政客, 群眾煽動者
 		- demagoguery (n)群眾煽動/煽動行為
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
@@ -2377,7 +2381,7 @@
 	fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
 		*** affect (v)影響/產生效果 == have an effect on, 使感動 = touch
 		+ affected (adj)受影響的, 做作的/不自然的/假裝的 = pretentious
-		- affectation (n)做作/假裝 = pretense = sham
+		+ affectation (n)做作/假裝 = pretense = sham
 		- affecting (adj)感人的 = moving
 		- affection (n)鍾愛/愛, 疾病/感染, 情緒
 		- affectionate (adj)表示愛的, 充滿深情的/有感情的 = fond
@@ -2641,6 +2645,7 @@
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
 		+ reflection (mn)反射, 深思/深思 (n)反射光, 鏡像, 後果, 想法 = idea --> reflective (adj)反射的, 深思的
 		- reflexive (adj)[語]反身的, (動作)反射性的 (n)反身動詞/反身代詞
+		- unreflecting (adj)欠考慮的/輕率的, 不反光的
 
 	foli 樹葉/紙 = leaf, sheet
 		- defoliate (v)使落葉 --> defoliator (n)落葉劑
@@ -3076,7 +3081,7 @@
 			+ /ɪmˈplɔːzɪb(ə)l/ implausible (adj)難以置信的/不合情理的 = unlikely = unbelievable 
 			- impolitic (adj)失策的/不智的 = tactless = unwise <-- im + politic
 			- imponderable
-			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的
+			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的 --> impotence (n)無效/無能, 陽萎
 			+ impregnable
 			+ imprecate --> imprecation
 			+ imprecise (adj)不精確的/不清楚的 = vague = inexact = inaccurate = lax
@@ -3243,7 +3248,7 @@
 			+ impinge (v)產生負面效果, 侵犯 = encroach, [on/upon]撞擊 = strike = collide <-- im + pinge 固定 = fix
 			* implant (v)灌輸 = instill = inculcate, 著床, 移植/植入 (n)植入物
 			- instill
-			+ implement
+			+ implement --> implementation
 			+ implicate --> implication
 			+ implicit
 			+ implode (v)內爆 <-- im + (ex)plode
@@ -3686,6 +3691,7 @@
 	lect, lig, lit
 		1. 講 = speak
 			* dialect (n)方言 = tongue = patois = idiom = vernacular = lingo
+			- dialectic (mn)辯證法, 辯證 (adj)辯證的 = dialectical
 			* dialectical (adj)辯證的, 相反的
 			- lecture (n/v)講課, 訓斥/斥責
 
@@ -4799,6 +4805,7 @@
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的 <--> unprepossessing
 		* preposterous (adj)違反常理的/荒謬的 = absurb <-- pre + post 後 = after + erous 
 		- prepubescent (adj)青春期前的 (n)青春期前的少年或少女
+		- /ˈpriːkw(ə)l/ prequel (n)前傳 <-- pre + sqeual
 		- prerequisite 
 		- prerogative
 		+ presage (n)預兆/惡兆 (v)是...的預兆
@@ -4833,7 +4840,7 @@
 		- procession
 		+ proclaim --> proclamation
 		+ proclivity 
-		* procrastinate (v)耽擱/拖延 = delay = postpone <-- pro + cras 明天 = tomorrow + tinate
+		+ procrastinate (v)耽擱/拖延 = delay = postpone --> - procrastination (mn)延遲/耽擱 <-- pro + cras 明天 = tomorrow + tinate 
 		* procreate (v)生育 = reproduce
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
@@ -5057,7 +5064,8 @@
 		- purchase (n/v)購買 (n)所購之物, 支點/槓桿, 緊抓/緊繫
 		- /ˈpəːljuː/ purlieu (n)郊區, 常逗留之地/常去的地方 = haunt <|> milieu <-- pur + lieu 場所 = place
 		- /pəːˈlɔɪn/ purloin (v)盜取/偷竊 <-- pur + loin 距離 = distance
-		+ purport (v)貌似 (n)要旨, 意圖 --> purported (adj)謠傳的/據稱的 = reputed = alleged --> purportedly (adv)據稱
+		+ purport (v)貌似 (n)要旨, 意圖
+		+ purported (adj)謠傳的/據稱的 = reputed = alleged --> purportedly (adv)據稱 = anecdotally
 		- purpose (v)決意/打算 = resolve = intend (n)意圖/目的 = intention, 決心 = resolution = determination
 		- pursue (v)追趕/追蹤 = follow, 向……求愛, 追求, 沿著...走, 從事 = engage in, 繼續探索研究
 		- purview (n)認知/範圍
@@ -5314,6 +5322,7 @@
 		+ /ˈkɒmplɪm(ə)nt/ complement (V)補充/補足/使完善 (n)補充物, 一些, 人員定額, 補語, 補數 <|> compliment --> complementary (adj)互補的/補充的, 替代醫學的 <-- complete
 		+ /dɪˈpliːt/ deplete (v)大量減少/耗盡 = exhaust = consume = use up
 		+ implement (n)工具/器具 (v)實現/實施 = fulfill = accomplish
+		+ implementation (n)履行/執行 = execution
 		+ plentiful (adj)豐富的/大量的 = abundant = plenteous
 		- plenitude, plentitude (n)完全 = completeness, 大量 = abundance
 		- plenteous (adj)豐富的/豐碩的 = plentiful
@@ -5662,7 +5671,7 @@
 		- quietus (n)生命的終止/死
 
 	quit 釋放/放棄 = release, discharge
-		- /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 --> acquittal (n)宣判無罪
+		* /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 --> acquittal (n)宣判無罪
 		- requite (v)報答/報復 = recompense, 回應(情感) = respond to  <--> unrequited
 
 	quir, quer, quisit 尋找/取得 = search, obtain == petr
@@ -6930,7 +6939,7 @@
 			+ distract (v)干擾 = interfere = disturb, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = distracted = absent-minded
-			- distraught (adj)心煩意亂的
+			+ distraught (adj)心煩意亂的
 			+++ extensive (adj)廣大的/廣闊的, 大規模的/大量的
 			- extract (v)使勁拔出, 設法得到, 提取/提煉 (n)摘錄, 提出物/精華/汁
 			- extractive (adj)提取的
@@ -7229,7 +7238,8 @@
 		- tautonym (n)屬種同名(物種學名的兩個字都一樣，例如美洲野牛 Bison bison)
 
 	theo, the 神 = God
-		+ apotheosis -> apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神話
+		+ apotheosis -> apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神化
+		+ apotheosize (v)尊崇……為神/神化/崇拜 = idolize
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical

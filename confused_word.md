@@ -1,4 +1,5 @@
 ## A
+- acme <--> acne
 - across <--> cross
 + adduce <--> abduct <--> abduce
 - adulate <--> adulterate <--> adultery <--> adulterous
@@ -106,7 +107,7 @@
 - curb <--> cub
 
 ## D
-- dabble <--> paddle <--> puddle
+- dabble <--> dribble <--> paddle <--> puddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
@@ -114,7 +115,7 @@
 - despot <--> unspotted
 - deterrent <--> determinant
 - dew <--> pew
-- dialect <--> dialectical
+- dialect <--> dialectic
 - digest <--> ingest
 - dim <--> din <--> dingy
 - dilatory <—-> dilate
@@ -189,7 +190,7 @@
 - gaffe <--> gaff <--> guffaw
 - gallery <--> galley
 - gambit <--> gamble <--> gambol <--> garble <--> gargle
-- gangster <--> angst
+- gangster <--> angst 
 - gauche <--> gaudy
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
@@ -210,6 +211,7 @@
 - groundless <--> grounded
 - grouse <--> arouse
 - gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter <--> cusp <--> rasp
+- grasping <--> gripping
  
 ## H
 - habilitate <--> rehabilitate
@@ -398,6 +400,7 @@
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
 - prerogative
+- proscribe <--> prescribe
 - prestige <--> vestige
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
@@ -459,12 +462,13 @@
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
+- snub <--> snob
 - sober <--> somber
 - sobriety <--> sobriquet
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
-- spur <--> spurious <--> spurn <--> spurt <--> churn
+- spur <--> spurious <--> spurn <--> spurt <--> sprout <--> spout
 - sputter <--> putter
 - silt <--> slit <--> milt
 - sodium <--> odium
@@ -487,7 +491,7 @@
 - tactile <--> tactual
 - tangle <--> mangle
 - telltale <--> untold
-- temper <--> temperate <--> temperance <--> temperature <--> tempest
+- temper <--> temperate <--> temperamental <--> temperance <--> temperature
 - tend <--> tender <--> tendentious
 - thick <--> thicket
 - through <--> trough
