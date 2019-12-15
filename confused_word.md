@@ -172,7 +172,7 @@
 - file <--> defile
 - filly <--> folly
 - fit <--> fitful
-- fixation <--> fixity
+- fixation <--> fixity <--> fixture
 - flabbergast
 - flagrant <--> fragrant
 - flake <--> flak <--> plaque <--> flank <--> flask
@@ -446,7 +446,11 @@
 - rubric <--> lubricate <--> fabricate
 
 ## S
+- salutary <--> salute
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
+- saw <--> sew
+- scad <--> scads <--> scald
+- scalp <--> scalpel
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine

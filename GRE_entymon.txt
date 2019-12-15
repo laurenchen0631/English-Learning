@@ -448,6 +448,7 @@
 
 	audi 聽 = hear
 		- audit (n/v)審計, 系統性評價或評估 (v)旁聽
+		- auditor (n)審計員, 聽者, 旁聽生
 		- audible (adj)聽得見的
 		- auditory (adj)聽覺的 = acoustic = aural
 		- audition (n/v)試鏡
@@ -1512,7 +1513,7 @@
 			+ defamatory (adj)誹謗的/詆毀的 = calumnious
 			- deface
 			+ defeat
-			+ defect
+			+ defect --> defection
 			* deficit --> deficient--> deficiency
 			+ defer --> deference --> deferential --> deferement
 			- deflate
@@ -2141,7 +2142,7 @@
 		+ entertain
 		- enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
 		* entrap (v)使投羅網, 欺騙
-		++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirm <-- en + trench
+		++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirmed <-- en + trench
 		+ /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
 		+ entitle (v)使有權(做某事), 取名
 		+++ entreat (v)懇求/哀求 = solicit = appeal = plead = woo = beseech = beg = implore = crave --> entreaty (n)懇求/哀求
@@ -2258,6 +2259,7 @@
 	emi, emia 血 = blood == hemo
 		- anemia (n)貧血
 		+ anemic (adj)貧血的, 無活力的
+		- ischemia (n)局部缺血
 		- leukaemia, leukemia (n)白血病/血癌
 		- hyperemia (n)充血
 
@@ -2395,6 +2397,7 @@
 		+ counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
 		+ defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
 		+ defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
+		- defection (n)脫離/叛逃
 		* /ˈdɛfɪsɪt/ deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
 		* /dɪˈfɪʃənsi/ deficiency (n)缺乏/缺少, 缺陷 = incompleteness
 		++ effect (n)效果, 影響, 意義 (v)造成/導致 = bring about, 實現/達到
@@ -4946,7 +4949,7 @@
 		+++ pose (v)提出, 引起/造成, 擺姿勢, 造作/裝腔作勢, [as]假裝
 		+ /pəʊˈzəː/ poseur (n)裝模作樣的人
 		+ posit (v)斷定/假定 = put forward = postulate = presume = suggest = predicate, [on]基於 = base = predicate, 安置 = place
-		- position (n)職位, 地位, 地點, 處境, 安置方式, 態度/觀點 = attitude (v)安放/放置, 把(產品)打進市場
+		- position (n)職位, 地位, 地點, 處境, 安置方式, 態度/觀點 = attitude (V)安放/放置, 把(產品)打進市場
 		- positive (adj)肯定的, 正面的/積極的, 確信的/有自信的 = optimistic = confident, 有進展的, 確定的/確實的 = definite = certain, 完全的/十足的 = downright = complete, 正數的, 陽極的, 正片的/正像的, [文]原級的, 陽性的 (n)優點, 正片/正像, 陽性, 正數, 陽極
 		- /pəˈzɛs/ possess (v)擁有, 具有, 附身, 支配
 	    +++ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
@@ -6533,7 +6536,7 @@
 		+ presentiment (n)不祥的預感 = premonition = hunch = foreboding <|> resentment
 		+ resent (v)怨恨/不滿/憎惡 = antipathy = bridle --> resentment (n)憤慨/怨恨 = pique = indignation
 		++ sensation (n)知覺, 感覺, 轟動, 轟動的人或物 --> sensational (adj)引起轟動的 = lurid = shocking, 非常好的/吸引人的
-		- sensible (adj)明智的 = reasonable, 有實用性的 = practical, 可察覺到的 
+		- sensible (adj)明智的 = reasonable = saint, 有實用性的 = practical, 可察覺到的 
 		+ sensibility (n)敏感/識別力 = sensitivity, 纖細 = delicacy, 感覺
 		- sensitive (adj)敏感的, 神經過敏的/纖細的 = delicate, 易怒的 = cantankerous, 要審慎處理的/機密的 --> sensitivity (n)敏感, 纖細
 		- sensitize (v)[to]使敏感/使敏化 --> sensitization (n)敏化
@@ -6653,6 +6656,8 @@
 		- /maɡˈniːtəsfɪə/ magnetosphere (n)磁氣圈/磁層(一個天體周圍、以該天體的磁場為主的地區)
 		- /ˈstratəˌsfɪə/ stratosphere (n)平流層, [非]最上層/巔峰
 		- /ˈtrɒpə(ʊ)sfɪə/ troposphere (n)對流層
+		- mesosphere (n)中氣層
+		- thermosphere (n)熱層/熱成層
 
 	scend, scens, scent 爬 = climb
 		- ascend (v)攀登 = climb, 上升 = rise, 晉升 = promote

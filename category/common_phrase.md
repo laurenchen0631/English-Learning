@@ -640,6 +640,8 @@
 	- The fight on the basketball court turned into a free-for-all.
 - from scratch 從頭開始/從零開始 = from the beginning, without using anything that already exists
 	- Ben built the shed from scratch.
+- from the ground up 從頭開始
+	- Ray Kroc started from the ground up with a little hamburger shop for people who wanted something to eat fast. Then he had an idea: lease his fast food system out to others. The result was thousands of McDonald's restaurants selling burgers around the globe.
 - in a hurry 迅速/匆忙
 	- She dressed in a hurry.
 	- He was in a hurry to leave. 
@@ -708,6 +710,8 @@
 ## Job/Task
 - at fault 有責任/有錯
 	- My memory was at fault. 
+- call the shots 當家做主/處於決策地位 == call the tune
+	- He wanted a job where he would be calling the shots himself.
 - hit the ground running [非]雷厲風行/立刻展開行動
 	- Ask for an update on special projects the day before you return so you can hit the ground running.
 - miss one's calling 選錯職業 == to not have the career one should have
