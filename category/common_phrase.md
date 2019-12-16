@@ -457,6 +457,9 @@
 	- Computerization has enabled us to do away with a lot of paperwork.
 - exert influence over/on 發揮影響力於
 	- the investment bankers began to exert influence over the railroads' internal affairs
+- fire back 迅速回應
+	- He fired back a letter that said he wasn't going to negotiate with the firm.
+	- The government fired back *at* critics with a report accusing its biggest trading partners of unfair trade practices.
 - get a/one's foot in the door (to sth) 初步進入/出成功的第一步
 	- Making contacts can help you get a foot in the door when it comes to getting a job.
 + get rid of (v)擺脫/趕走, 清除/消除 = eliminate, 處理掉/賣掉
@@ -657,6 +660,8 @@
 - more than 非常 == very
 	- It is more than likely that there is oil here under the ground.
 	- I was more than a little curious about the whole business.
+- muddy the waters 把水攪渾/使變得更複雜
+	- His suggestions just muddied the waters further, rather than helping the situation.
 - off the map 不再知名 == no longer famous or relevant
 	- Mary Kate and Ashley are long off the map if you ask me.
 - on standby 隨時待命

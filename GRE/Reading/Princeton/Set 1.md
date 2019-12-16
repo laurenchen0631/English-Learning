@@ -89,10 +89,76 @@ Historically, sociologists have presumed that **people will attribute certain ch
 	1. To provide an overview of a **social phenomenon** and its contributions to Hepburn and Locksley's area of inquiry
 	1. To provide a **history** of social stereotyping alongside Hepburn and Locksley's reservations about the practice
 
+Women played a substantial role in the furthering of the Polish art song in the late eighteenth and early nineteenth centuries. One notable woman from this time period was Maria Szymanowska, who was both a concert pianist and a composer.
+
+Szymanowska was a member of the Warsaw Music Society who contributed pieces to a cycle entitled Historical Songs. Her songs are by far the most creative and individualistic of the cycle. In addition, Szymanowska composed more than one hundred other pieces, mostly for the piano, including six romances.
+
+Her songs most resemble French romances, and she also employs *Polonaise* rhythms in two of her songs. In all her works, the *melodic line* is technically superior. She employs *idiomatic* keyboard writing, wide chord-spacing, broad *cantilenas*, and interesting *modulations*. She also uses the most compelling registers of the instrument and pianistic keys. Her romances are on par with those of Beethoven, Schubert, and Mozart. In fact, Szymanowska was praised by her contemporaries, such as Schumann, who lauded her *etudes*. Her piano playing was frequently equated to that of Hummel, though Szymanowska's was said to be more ethereal. Thus, she is a *progenitor* of *Chopin* in both piano technique and composition.
+
+**Female contributors to the development of Polish music have been chiefly ignored.** From the meager records which have been preserved, it is incontrovertible that Polish women were, in fact, playing, instructing, and writing music as early as the fifteenth century. However, *patriarchal* societal structures have precluded adequate documentation about, and preservation of, their work. __Unless changes take place, human society will be made poorer for its inability to recognize the expertise and inventiveness of these women.__
+
+12. According to the passage, the musical contributions of Polish women have been neglected due to
+	1. an absence of **any documentation** of the efforts of female composers
+	1. improper **preservation of musical scores** produced by women
+	1. [O] the **male-dominated social order** that has existed since at least the fifteenth centuiy
+	1. society **willfully ignoring** the talent and hard work of **female composers**
+	1. the fact that people did **not realize** the genius and creativity of female composers
+
+13. __Consider each of the choices separately and select all that apply.__ Which of the following can be properly inferred from the passage?
+	1. Szymanowska's advancement of the music of Polish art songs in spite of patriarchal pressure demonstrates her **feminist tendencies.**
+	1. [O] Szymanowska composed works beyond the genre of the Polonaise that are deserving of praise.
+	1. Szymanowska's works that contributed to the development of Polish art song garnered a disproportionate amount of attention, considering that such **compositions were only a small part of her repertoire.**
+
+14. Select the sentence in the third paragraph that gives evidence for the idea that **Szymanowska's work laid the foundation** for at least one future composer.
+	- Thus, she is a progenitor of Chopin in both piano technique and composition
+
+15. The author's tone in the final sentence ("Unless changes ... these women") is best described as
+	1. nostalgic
+	1. [O] *emphatic*
+	1. dismissive
+	1. perplexed
+	1. [?] didactic
+
+In The Federalist Number Ten. James Madison forewarned against the **dangers of factions-groups of people with a common interest adverse to the overall good of the nation**, what today are referred to as "special interest groups." Madison described two hypothetical ways to check a faction: Either eliminate the causes or mitigate the effects of the faction. To eliminate the causes, the government would either have to make all people perfectly equal, an impossible goal, or take away people's liberty and thus defeat the purpose of having a republican form of government. Madison argued, alternatively, for **ameliorating the effects of factions by enlarging the population of the country and thus diluting their influence.** If there are a sufficient number of diverse peoples, it will be difficult for a majority to share a common interest at the same time.
+
+16. Which of the following can be most correctly inferred from the passage?
+	1. Madison solved the problem of factions in the United States.
+	1. Madison thought that the best solution was to make all citizens equal.
+	1. Madison argued against a republican government in The Federalist Number Ten.
+	1. [?] Madison analyzed the effects of increased population.
+	1. [O] Madison considered more than one way to constrain factions.
+
+17. According to the passage, why does Madison believe it necessary to check a faction?
+	1. Madison considered factions to be detrimental to the common welfare.
+	1. Madison thought factions were a way to encourage population growth.
+	1. Madison relied on factions to support the republican style of government.
+	1. Madison accepted factions as a consequence of allowing people to participate in government.
+	1. Madison surmised that factions would likely be run by his political adversaries.
+
+The *anti-foundationalist* belief that there is no secure basis for knowledge was **worked out philosophically in the somewhat wearisome tracts of Jacques Derrida.** Difference, Derrida tells us, is the idea that **any attempts to discuss universal features of human nature are merely products of local standards**, often serving the *vested* interests of the status quo, and should rightly be dismantled and critiqued. Derrida was considered the originator of a profound challenge to the history of human thought. **However, a century before Derrida. Darwin's theory of natural selection had made anti-foundationalism almost an inevitable consequence.** From an evolutionary point of view, our understanding of the world depends on earlier and less-developed forms of understanding; meaning is continuously referred or deferred to other terms or experiences.
+
+18. Select the sentence which states a position with which the author does NOT agree.
+	- Derrida was considered the originator of a profound challenge to the history of human thought
+
+19. The passage implies that which of the following beliefs is embraced by anti-foundationalists?
+	1. In many cases humans cannot be completely secure in thinking that they fully understand a given situation.
+	1. The meaning of an experience can best **be understood outside the cultural** context in which it occurs.
+	1. Those **who are part of the status quo** are best able to dismantle and critique society.
+	1. Derrida's work would not have been possible without the prior *ruminations* of Darwin a century earlier.
+	1. Darwin's faith in the status quo is sufficient grounds to develop universal truths about cultural experiences.
+
+20. Derrida's definition of difference suggests that he would most likely subscribe to which of the following beliefs?
+	1. The interests of the status quo always maintain local standards.
+	1. Ideas expressed by those who are part of the status quo do not necessarily represent a universally accepted truth.
+	1. Any attempts to discuss human nature serve the interests of the status quo.
+	1. The interests of the status quo should be critiqued and dismantled by those who are part of the status quo.
+	1. Ideas that are a product of local standards cannot contain elements of a universal truth.
+
 ## Review
 5. 明确题目问的是“the use of isolated HIT molecules”， 而不是transplant process本身。大多数人选的第12句强调的是transplant process的局限性，而不是HIT-molecure的。should a potential donor organ be infused with these trigger molecules before the organ is harvested 一句表明了 isolated HIT molecules 的使用限制
 
 11. The first sentence states that sociologists have historically held the view that individuals stereotype. The rest of the paragraph delves into Hepburn and Locksley’s study, which investigates the extent to which people are aware of their own stereotyping behavior. Therefore, the first sentence provides the historical background for Hepburn and Locksley’s study. The closest answer is therefore choice (C)
+
 
 ## Vocab
 - mesosphere (n)中氣層
@@ -108,3 +174,15 @@ Historically, sociologists have presumed that **people will attribute certain ch
 - woodchuck (n)土撥鼠
 + dilute (v)沖淡/稀釋, 削弱/減低 = reduce (adj)稀釋的, 低濃度的
 + corollary (n)必然的結果, 推論 (adj)推論的, 附屬的/補充的 = associated = supplementary
+- Polonaise (n)波蘭舞, 波蘭舞曲, 波蘭連衫裙
+- idiomatic (adj)慣用語句的/自然地道的, 符合當代風格的
+- cantilena (n)柔聲曲調
+- modulation (mn)調節/調整, 變調
+- étude, etude (n)練習曲
+- progenitor (n)祖先, 先驅/始祖
+- patriarchal (adj)家長或族長制的, 家長的/族長的
+- Chopin (n)蕭邦
+- emphatic (adj)強調的, 明確堅決的, 加強語氣的/帶重音的
+- foundationalist (n)基礎主義者
+- vest (n)背心/馬甲 (v)[in/with]授予/賦予(權力或財產), 穿上祭袍, 使穿上
++ rumination (mn)沉思/深思, 反芻

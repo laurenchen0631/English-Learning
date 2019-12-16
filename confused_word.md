@@ -165,10 +165,12 @@
 - faux <--> flax <--> flex <---> flexible
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
+- feint <--> fend <--> fender
 - fete <--> mete
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle
+- fiddle <--> fizzle
 - file <--> defile
 - filly <--> folly
 - fit <--> fitful
@@ -179,7 +181,7 @@
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch <--> plinth
-- flunk <--> funky <--> hunker <--> hanker
+- flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
@@ -451,10 +453,15 @@
 - saw <--> sew
 - scad <--> scads <--> scald
 - scalp <--> scalpel
+- scarf <--> scurf <--> scuff <--> serf
+- scruple <--> scrupulous <--> unscrupulous
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
-- scruple <--> scrupulous <--> unscrupulous
+- severe <--> sever <--> serve
+- sew <--> sewer <--> sewage
+- shatter <--> shattered
+- sheaf <--> sheath
 - shed <--> shred
 - shirk <--> shrink
 - shuttle <--> shutter
@@ -469,6 +476,7 @@
 - snub <--> snob
 - sober <--> somber
 - sobriety <--> sobriquet
+- sooth <--> seethe
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic

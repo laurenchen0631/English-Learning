@@ -1,30 +1,35 @@
 ## Questions
 
-Women played a substantial role in the furthering of the Polish art song in the late eighteenth and early nineteenth centuries. One notable woman from this time period was Maria Szymanowska, who was both a concert pianist and a composer.
+The literature of the American West ranges from lowbrow entertainment to great works of fiction. The extremes are obvious enough, but **the middle tends to blur**. The *dime*-store *Western* never aspired to be anything but entertainment. James Fenimore Cooper and Willa Cather, however, used themes of westward expansion in works clearly intended as highbrow literature. The novels of modern writer Larry McMurtry broke new ground: He took the Western and created a great piece of fiction, without changing its fundamental genre appeal or its accessibility to the general reader.
 
-Szymanowska was a member of the Warsaw Music Society who contributed pieces to a cycle entitled Historical Songs. Her songs are by far the most creative and individualistic of the cycle. In addition, Szymanowska composed more than one hundred other pieces, mostly for the piano, including six romances.
+As an example of his *retooling* of the Western genre, consider McMurtry's themes. While the Western myth is fundamentally about resettlement to new lands. McMurtry's novels **combine elements of the Western myth with less traditional motifs: profound reluctance to face change**, conflict between urbanization and the Western ideal, the importance of place, and the role of the land itself. While the traditional Western is rooted in the past, McMurtry's themes combine nostalgia for that past with a sense of emptiness in the present and hopelessness for the future.
 
-Her songs most resemble French romances, and she also employs Polonaise rhythms in two of her songs. In all her works, the melodic line is technically superior. She employs idiomatic keyboard writing, wide chord-spacing, broad cantilenas, and interesting modulations. She also uses the most compelling registers of the instrument and pianistic keys. Her romances are on par with those of Beethoven, Schubert, and Mozart. In fact, Szymanowska was praised by her contemporaries, such as Schumann, who lauded her etudes. Her piano playing was frequently equated to that of Hummel, though Szymanowska's was said to be more ethereal. Thus, she is a progenitor of Chopin in both piano technique and composition.
+Or consider McMurtry's treatment of character. The traditional Western formula depicts mainly masculine characters and portrays them as both heroic and human. In his novels, McMurtry creates strong female characters, transmuting the conventional plot of the trials and dangers of the frontier by folding in deeper ideological insights. Critics rightly credit his novels with reshaping the Western genre, praising his work and its meticulous attention to the Western mise en scene as a subversive but sincere *tribute* to the American West.
 
-Female contributors to the development of Polish music have been chiefly ignored. From the meager records which have been preserved, it is incontrovertible that Polish women were, in fact, playing, instructing, and writing music as early as the fifteenth century. However, patriarchal societal structures have precluded adequate documentation about, and preservation of, their work. Unless changes take place, human society will be made poorer for its inability to recognize the expertise and inventiveness of these women.
+1. __Consider each of the following answer choices separately and select all that apply.__ According to the passage, the **ideological undertones** in McMurtry's novels stem from the
+	1. introduction of strong female characters
+	1. portrayal of the dangerous nature of the Western frontier
+	1. subversive nature of the writing
 
-1. According to the passage, the musical contributions of Polish women have been neglected due to
-	1. an absence of any documentation of the efforts of female composers
-	1. improper preservation of musical scores produced by women
-	1. the male-dominated social order that has existed since at least the fifteenth centuiy
-	1. society willfully ignoring the talent and hard work of female composers
-	1. the fact that people did not realize the genius and creativity of female composers
+2. It can be inferred that the author regards McMurtry's treatment of character with
+	1. **regret** because McMurtry did not adhere to Western novelistic conventions
+	1. **concern** that the characterizations altered the nature of the Western formula
+	1. approval for the manner in which their inclusion transformed the Western genre
+	1. puzzlement, because the characters seem insignificant to the plot
+	1. **enthusiasm**, because the characters reform the conventionality of Western plots
 
-2. __Consider each of the choices separately and select all that apply.__ Which of the following can be properly inferred from the passage?
-	1. Szymanowska's advancement of the music of Polish art songs in spite of patriarchal pressure demonstrates her feminist tendencies.
-	1. Szymanowska composed works beyond the genre of the Polonaise that are deserving of praise.
-	1. Szymanowska's works that contributed to the development of Polish art song garnered a disproportionate amount of attention, considering that such compositions were only a small part of her repertoire.
+3. Select the sentence that shows the author's view of McMurtry's treatment of gender.
+	- In his novels, McMurtry creates strong female characters, transmuting the conventional plot of the trials and dangers of the frontier by folding in deeper ideological insights.
 
-3. Select the sentence in the third paragraph that gives evidence for the idea that Szymanowska's work laid the foundation for at least one future composer.
+4. The author refers to James Fenimore Cooper and Willa Cather in order to suggest
+	1. that their works are examples of entertaining literature
+	1. that their literary achievements were no less impressive than those of McMurtry
+	1. [O] that the themes of the Western genre could be employed in literature meant to appeal to a more sophisticated reader
+	1. that they were contemporaries of McMurtry
+	1. that the theme of westward expansion was a multicultural concept
 
-4. The author's tone in the final sentence ("Unless changes ... these women") is best described as
-	1. nostalgic
-	1. emphatic
-	1. dismissive
-	1. perplexed
-	1. didactic
+## Vocab
+- dime
+- Western
+- retooling
+* tribute (n)頌詞/致敬, 進貢/貢物

@@ -979,6 +979,7 @@
 		+ accentuate (v)強調 = emphasize = accent
 		- accent (n)口音, 重音 (v)強調
 		- cantata (n)清唱劇 = oratorio
+		- cantilena (n)柔聲曲調
 		* chant (n)聖歌 (v)歌唱/背誦/吟誦
 		+ disenchant (v)使醒悟/使不抱幻想
 		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
@@ -2014,7 +2015,8 @@
 		- exempt <-- ex + empt
 		- exert <-- ex + sert 
 		- exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
-		+++ exhaust (n)排出/廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡, 排出 --> exhaustive (adj)徹底的/詳盡的 = comprehensive 
+		+++ exhaust (n)排出/廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡, 排出
+		+++ exhaustive (adj)徹底的/詳盡的 = comprehensive 
 		* exhibit
 		+ exhilarate
 		+ exhort
@@ -2822,6 +2824,7 @@
 		+++ /ɪnˈdʒɛnjʊəs/ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
 		- octogenarian
+		- progenitor (n)祖先, 先驅/始祖
 		* progeny (n)後代/子女 = descendant
 
 	gene, gen 基因
@@ -2893,6 +2896,7 @@
 		- hyperactive (adj)活動過度的 --> hyperactivity (n)活動過度, 極度活躍
 		+ /hʌɪˈpəːbəli/ hyperbole (n)誇飾法 <-- hyper + bole 扔 = throw
 		- hypercritical
+		- hyperopia (n)遠視 = hypermetropia
 		- hypertension (n)高血壓
 
 	hypo 下 = under <--> hyper
@@ -4101,6 +4105,7 @@
 		- modify (v)修改 = amend
 		+ modish (adj)[貶義]時髦的/跟隨流行的
 		+ modulate (v)調整/控制 = regulate, 使變調/改變聲調
+		+ modulation (mn)調節/調整, 變調
 		- /ˈmɒdjuːl/ module (n)標準部件, 單元, 太空船的艙
 
 	mon 警告/提醒 = remind, warn
@@ -5432,7 +5437,7 @@
 
 	phen, phan, pha 出現 = appear == appar
 		- emphasis -> emphases (n)重點/顯著, 加強語氣, 重音
-		- /ɪmˈfatɪk/ emphatic (adj)強調的, 明確堅決的, 加強語氣的/帶重音的
+		+ /ɪmˈfatɪk/ emphatic (adj)強調的, 明確堅決的, 加強語氣的/帶重音的
 		+ /ɪˈpɪf(ə)ni/ epiphany (n)神靈之顯現, 顯現節, 頓悟
 		+ diaphanous
 		- phantom (n)幽靈/鬼魅, 幻象 = visionary
@@ -7806,6 +7811,7 @@
 		- invest (v)投資, 投入 = devote, [with]捐贈/提供 = endow = provide, [in]授予(權力) = confer
 		+ investiture (mn)授予 = investing (n)受封儀式 <-- invest
 		+ travesty (n/v)拙劣的模仿/嘲弄/歪曲 = caricature = mockery = parody = distort
+		- vest (n)背心/馬甲 (v)[in/with]授予/賦予(權力或財產), 穿上祭袍, 使穿上
 		- vestment (n)法衣/祭衣
 
 	veter 老 = old
