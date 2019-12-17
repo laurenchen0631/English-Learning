@@ -310,6 +310,7 @@
     - backslapping (adj)互相讚揚/相互祝賀的
     - backtrack (v)走回頭路/原路返回, 收回說法/改變立場, 追蹤/監控 = trace = monitor
     - back-to-back (adj)一個接一個的, 背靠背的
+    - back-office (n)事務部門/後勤部門
     - bacterium --> bacteria (n)細菌
     - badge (n)徽章, 象徵 = sign (v)授給……徽章 <|> badger <|> budge <|> barge <|> cadge
     - /ˈbadɪnɑːʒ/ badinage (mn)玩笑/揶揄 = banter
@@ -445,6 +446,7 @@
     - brisk (adj)活潑的/生氣勃勃的 = bracing = invigorating = vigorous, (天氣)寒冷而清新的 (v)[up]加快 = quicken
     - broaden (v)擴大 = widen, 增加
     - /ˈbrəʊʃə/ brochure (n)小冊子 = booklet
+    - broccoli (n)西蘭花/花椰菜
     - broker (n)掮客/代理人 (V)作為(中間人)安排(交易、協議等)
     - brooch (n)胸章
     - broom (n)掃帚, 金雀花
@@ -672,6 +674,7 @@
     - carat (n)開(金子的純度單位) = karat, 克拉
     - caret (n)脫字符號
     - carcinoma (n)癌/上皮細胞所產生的惡性腫瘤 
+    - cardboard (n)硬紙板 (adj)不真實的/不自然的
     - careen (v)把(船)傾倒修理, (船)傾斜, 橫衝直撞
     - caress (n/v)輕撫/愛撫 = stroke <|> carcass
     - caretaker (n)照顧者/管理人 (adj)臨時代理的
@@ -713,6 +716,7 @@
     - chafe (v)擦傷, 磨損, 擦熱, 使焦躁 (mn)擦傷
     - chameleon (n)變色龍, 善變的人
     - chime (n)管鐘/排鐘, 樂鐘/音樂門鈴, 木桶兩端的凸邊 (v)鳴/鳴響
+    - chimney (n)煙囪, 煙囪柱, 玻璃燈罩, 可供攀登的狹窄裂口
     - china (mn)瓷 (n)瓷器
     - chip (n)屑片/碎片, 缺口, 積體電路片, 籌碼 (v)在……上造成缺口, 裂開, 削/鑿, [away]逐漸破壞或使失效
     - chipper (adj)精力充沛的/興高采烈的 (n)削片機
@@ -824,6 +828,7 @@
     - crumb (n)餅乾屑/麵包屑, 少許/點滴, 可鄙之人, 廢舊橡膠 = crumb rubber (v)把……裹上麵包屑
     - crumple (v)弄皺/壓皺, 彎曲/起皺, 嘴角下垂, (人)倒下 (n)皺折 
     - crunch (v)嘎嘎作響地咬, 發出嘎嘎聲, (電腦)處理 (n)嘎嘎聲, 重要時刻, 財政困難/短缺, 仰臥起坐
+    - crunchy (adj)鬆脆的/鮮脆的
     - crust (n)麵包皮, 乾麵包片, 硬皮/外殼 = husk, 地殼, 派皮 (v)結成外殼, 用硬皮覆蓋
     - cub (n)幼獸 (v)生, 獵捕
     - /ˈkʌd(ə)l/ cuddle (v)摟抱, 依偎, [非][up to]迎合 (n)摟抱
@@ -937,6 +942,7 @@
     - die (n)金屬模子/鋼模/印模 (v)死亡, [out]滅絕, 被遺忘, 漸弱/減弱, 熄滅, [非]停止運轉, 渴望
     - diehard (n)頑固份子
     - digit (n)手指/腳趾 = finger = thumb = toe, 數字
+    - dime (n)一角硬幣, [非]少量(錢)
     - din (n)喧囂/嘈雜聲 (v)一再叮囑, 發出嘈雜聲 <|> dim
     - dingy (adj)昏暗的
     - dip (v)[in/into]浸/泡, [into]把(手)伸入, [into]使用/花費(財產), [into]讀..的一部份, 下降/下落 (n)游一游, 浸泡, 沾醬, 傾斜/下沉, 下降/下落, [非]笨蛋, [非]扒竊
@@ -1099,6 +1105,7 @@
     - estate (n)地產, 私有土地/莊園, 資產/遺產
     - /iːv/ eve (n)前一刻/前夕, 前夜/前夕, 傍晚 = evening
     - even (adj)平坦的/平滑的, 水平的, 同樣的, 對等的/均等的, 規律的 = regular, 鎮定的/沈著的 = equable, 偶數的 (v)使平整, [out]公平/使相等 (adv)甚至
+    - eye-opening (adj)令人大開眼界的 = enlightening
     - eyestrain (mn)眼痛/眼睛疲勞
     - ewe (n)母羊
     - /ˈjuːə/ ewer (n)大口水罐 = pitcher
@@ -1780,6 +1787,7 @@
     - helmet (n)頭盔, 萬寶螺 = helmet shell <|> hermit <|> hermetic
     - hem (n)摺邊，摺縫 (v)給……縫邊, [in]包圍/禁閉 (excl)嗯哼/咳嗽聲
     - hen (n)母鳥/雌禽, 母雞, 母蟹/母龍蝦/雌鮭
+    - heme, hame (n)血紅素/原血紅素
     - herd (n)一群 (v)成群移動, 照料(家禽)
     - herring (n)鯡魚
     - hiatus (n)短暫的中斷, 元音連讀
@@ -1865,7 +1873,7 @@
     + intimacy (mn)親密, 舒適, 熟悉/知曉 = knowledge (n)親昵的言語 
     + inane (adj)空洞的/愚蠢的 --> /ɪˈnanɪti/ inanity (n)愚行, 淺薄/空洞 = silliness
     + /ɪnˈkəʊeɪt/ inchoate (adj)剛開始的/未充分發展的 = rudimentary = incipient, 混亂的/無條理的 = incoherent
-    +++ /ɪnˈdʌldʒ/ indulge (v)[in]放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = pamper = assuage  --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful, 自我放縱的 = self-indulgent
+    +++ /ɪnˈdʌldʒ/ indulge (v)[in]放縱/縱容 = abandon = humor, 滿足 = satisfy = gratify = pamper = assuage --> indulgent (adj)寛容的 = permissive = lenient = clement = sparing = merciful, 自我放縱的 = self-indulgent
     * ink (n)墨水, 墨汁, 媒體的版面, 刺青 = tattoo (v)用墨水寫, 塗墨水於, 擦掉...的痕跡 = blot = obliterate, 簽署(合約) = sign, 簽訂
     + inkling (n)暗示/跡象 = hint
     + interpret (v)解釋/闡明 = explicate = expatiate = elucidate, 理解 = construe = understand, (表演)詮釋, 口譯/手譯 --> interpretation (n)解釋/闡明 (mn)詮釋
@@ -1916,10 +1924,10 @@
     + juggernaut (n)駭人的力量, 重型卡車 <-- [印]印神教主神世界主宰
 
     ** jack (n)千斤頂, J牌/傑克, 插孔/插座 = jack socket, 槌球的小白球, 普通人, 不知名的人, 伐木工人 = lumberjack, 偵探/警察, 敲鐘者, 船首旗, 錢 = money, 闊步鰺, 公隼, 公騾/公畜 (v)[非]偷 = steal, [非]搶劫 = steal
-    * jargon (n)行話/專業術語 = argot = cant = patois, 黃鋯石 
-    * jealous (adj)[of]妒忌的/吃醋的, [of]小心守護的 --> jealousy (n)猜忌/嫉妒
+    ** jargon (n)行話/專業術語 = argot = cant = patois, 黃鋯石 
+    ** jealous (adj)[of]妒忌的/吃醋的, [of]小心守護的 --> jealousy (n)猜忌/嫉妒
     * jest (n/v)說笑/玩笑 = banter = joke <|> just <|> vest <|> zest
-    * jet (v)噴出/射出 (n)噴出, 噴射口, 噴射引擎, 噴射機, 黑玉, 黑玉黑 (v)噴出/射出, 搭噴射機旅行
+    ** jet (v)噴出/射出 (n)噴出, 噴射口, 噴射引擎, 噴射機, 黑玉, 黑玉黑 (v)噴出/射出, 搭噴射機旅行
     * jolly (adj)興高采烈的 = cheerful = lively = merry = joyous, [非]快活的 (v)捧/鼓勵, [up]使有活力
     * jollity (n)熱鬧的活動或宴會, 興高采烈 = mirth = merriment 
     * jumble (n)混亂/雜亂 = hodgepodge = welter (v)使混亂/使雜亂 = hodgepodge = muddle
@@ -2304,6 +2312,7 @@
     - madrigal (n)牧歌(文藝復興時期和早期巴洛克時代的世俗聲樂作品)
     - magenta (n)洋紅色, 品紅 = fuchsin
     - maggot (n)蛆, 釣餌
+    - magnesium (n)鎂
     - magpie (n)鵲/喜鵲, 饒舌的人, 有收集零碎東西癖好的人
     - maize (n)玉米 = corn
     - makeup, make-up (n)化妝品, 組成, 性格組成, 編排, 補考/補分作業
@@ -2337,6 +2346,7 @@
     - mash (v)把…搗成糊狀, [非]壓碎/壓壞, 調成麥芽漿, 泡/煮 = brew = infuse = mast (n)糊狀物 = pulp, 混合飼料, 麥芽漿
     - mason (n)泥瓦匠/水泥匠/石匠 --> masonry (n)石工技藝/石造建築
     - masquerade (n)化裝舞會, 偽裝/化裝 (v)偽裝/冒充 <-- masque 面具 = mask + rade
+    - massif (n)山巒
     - mast (n)船桅/旗桿, 天線杆, 飼料堅果, 泡 = brew = mash
     - mastery (n)精湛技藝, 熟練/精通, 支配/統治 = control = superiority 
     - mastermind (n)才華橫溢的人, 智囊 (v)策劃 = plan
@@ -2371,6 +2381,7 @@
     - messy (adj)髒的 = untidy = dirty, 麻煩的, 混亂的 = confused --> messiness (n)
     - mete (v)給予/分配(懲罰), 測量 = measure, 界石 (n)邊界 <|> fete
     - meter (n)公尺, 計量器, 格律, 韻律 (v)量
+    - methane (n)甲烷/沼氣
     - metric (adj)公制的 (n)公制
     - metrical (adj)格律的, 測量的
     - miasma (n)瘴氣/臭氣, 不良氣氛
@@ -3227,6 +3238,7 @@
     +++ /ʃɪə/ sheer (adj)全然的/完全的 = unmitigated = unqualified = stark, 垂直的 = perpendicular, 極薄的 = diaphanous (adv)垂直地 (n)薄紗 = gossamer, 急轉向 (v)船急轉向, 避開/逃避 <|> queer
     ++ shift (v)移動/搬移(短距離), 轉移(注意), 換(檔) (n)轉變, 變速裝置, 輪班, 輪班職工
     ** shifty (adj)躲躲閃閃的/狡詐的 = sly = cunning, 變化的 = shifting  --> shiftiness (n)奸詐
+    - shiftless (adj)無志氣的/偷懶的
     + shirk (v)逃避(責任) = evade = eschew = shun, [from]不願做 <|> shrink
     + shortcoming (n)缺點/短處 = failing = fault = defect = weakness
     + shortsighted (adj)目光短淺的/缺乏遠見的 = myopic, 近視的 = myopic <--> farsighted
@@ -3363,6 +3375,7 @@
     ** shave (v)剃去……上的毛髮, 刨/切成薄片, 減少(少量), 擦過/掠過 (n)剃
     *** shed (n)棚屋 (v)停在公車站, 使脫落/使掉落 = molt, 捨棄 = discard, 投射/散發(光) = cast = give off <|> shred
     * shelter (n)避難所, 動物保護區 = animal sanctuary (mn)庇護/保護 (v)庇護/保護, 避稅
+    ** shoot -> shot -> shot (v)射出/射擊, 狩獵 = hunt, 迅速衝過/飛速通過, 投射(視線), 閂上 = bolt, 射(門)/投(籃), [非]擊(高爾夫球), 擲(骰子), 拍攝 = film = photograph, 發芽 = germinate = sprout, [非]注射(毒品) (n)幼芽/幼枝, 狩獵, 狩獵比賽, 拍攝, 急流
     * /ˈʃrɪv(ə)l/ shrivel (v)枯萎/乾枯 = wither = wizen, 漸漸減少 = dwindle = wither = diminish, 使感到無能為力
     *** showy (adj)引人注目的 = striking = flamboyant
     * /sɪft/ sift (v)篩/過濾, 篩選, [out]篩除/剔除 (n)篩/過濾, 篩出量
@@ -3475,6 +3488,7 @@
     - sash (n)肩帶, 窗框
     - sassy (adj)[非]活潑的/莽撞的 = cheeky <-- saucy
     - saunter (n/v)閒逛/漫步 = stroll
+    - sausage (n)香腸, 香腸的碎肉
     - saw -> sawed -> sawed/sawn (n)鋸子/鋸條, 電鋸, 鋸齒狀部, 格言/諺語 = proverb = maxim (v)鋸, 用鋸子做成, 不整齊地切, 拉
     - sew -> sewed -> sewed/sewn (v)縫合/縫補, 縫上, 縫製
     - sawdust (mn)鋸屑
@@ -3567,52 +3581,52 @@
     - sheaf (n)一捆/一束 (v)捆/扎/束 = bundle
     - sheath (n)鞘/套 = scabbard --> sheathe (v)將...插入鞘, 幫..裝封套
     - shelf (n)架子, 沙洲/暗礁
-    - shell (n)貝殼, 砲彈 (v)剝去...的殼
+    - shelve (v)把…放在架子上, 擱置, 裝擱板, (地面)逐漸傾斜 <-- shelf
+    - shell (n)貝殼, 蛋殼, 果殼, 烏龜的甲殼 = carapace, 蛹殼 = integument, 砲彈, 房屋的骨架, 軀殼, 輕快的賽艇 (v)轟炸, 剝去...的殼 = hull
     - shellac (n)蟲膠漆(一種從雌性的介殼蟲分泌出來的樹脂) (v)塗上蟲膠, 使大敗
-    - shelve (v)擱置 <-- shelf
     - shenanigans (n)[非]把戲/詭計, 惡作劇 = mischief
     - shepherd (n)牧羊人, 牧師/指導者 (v)牧(羊), 小心管理, 帶領/引導
-    - sheriff (n)警長/縣治安官
+    - sheriff (n)(美國的)郡保安官, (英格蘭和威爾士的)郡長, (蘇格蘭)郡法官
     - shibboleth (n)示播列(用來區別一個人的社會或地區背景的指標)
-    - shield (n)盾 (v)掩護/遮擋
-    - shiftless (adj)沒有決斷力的, 偷懶的, 無能的
-    - shingle (n)木瓦/屋頂版, 木質小招牌
+    - shield (n)盾, 美國的警徽, 庇護者/庇護所, 屏障, (動物)背甲 = shell (v)保護
+    - shingle (n)(海岸上)卵石/礫石, 屋頂板/木瓦, 女子短髮式樣, 小招牌 (v)用木瓦蓋, (女性)剪成短髮型
     - shipshape (adj)整齊的/井井有條的 = trim = tidy = neat
     - shoal (n)魚群 (v)(魚)成群/群集, 淺灘, 沙洲 = sandbank, 暗礁/潛在危險 (v)變淺
-    - shoddy (adj)劣質的, 冒充好貨的
+    - shoddy (adj)劣質的, 可鄙的 = sordid (n)翻造的毛線
     - shoelace (n)鞋帶
-    - shoot (n)嫩芽/新芽 (v)長出, 射出/放出/射擊
-    - shoplift (v)在商店內偷竊
-    - shopworn (adj)在商店中陳列舊了的
+    - shoplift (v)冒充顧客在商店內偷竊
+    - shopworn (adj)因污損而降價出售的 = shop-soiled
     - short-lived (adj)短暫的
-    - shortfall (n)不足之額/缺額/差額
-    - shorthand (n)速記法, 簡略的表達方式
-    - shoulder (n)肩, 路肩
-    - shove (v)推/擠, 猛推, 隨意放 (n)推
-    - shovel
-    - showboat (n)演藝船, 好自我表現者 (v)賣弄/炫耀 = show off
+    - shortfall (n)不足 = deficit
+    - shorthand (mn)速記法, 簡略的表達方式
+    - shoulder (n)肩, 肩部, 上背部, 肩膀/重擔, 路肩 = hard shoulder (v)擔負/承擔, 用肩推
+    - shove (v)推/擠過, 猛推, 隨意放 (n)推
+    - shovel (n)鏟子, 一鏟子的量 (v)用鏟鏟起, 把(通常指食物)扔進或塞進
+    - showboat (n)演藝船, 好自我表現者 (v)[非]賣弄/炫耀 = show off
     - showcase (n)玻璃陳列櫃, 供亮相的地方 (v)展示 = display = exhibit
     - shower (n)陣雨, 一陣, 一大批/大量, 淋浴間, 淋浴器, 淋浴, 送禮會 (v)陣雨般落下, 淋浴, [with]用大量的..丟.., [with/on/upon]給..很多的...
     - /ʃrɛd/ shred (n)碎布, 些許/少量 (v)撕碎/剪碎, 絞碎
-    - shriek (v)尖叫
-    - shrine (n)聖壇/神龕/神殿/神社
-    - shroud (n)壽衣, 遮蔽物 (v)覆蓋
+    - shriek (v)尖叫, 促人注意 (n)尖叫 = scream, [非]驚嘆號
+    - shrimp (n)小蝦, [非]矮個子
+    - shrine (n)聖壇/神殿/神社, 神龕 = niche (v)把……放置在龕內 = enshrine
+    - shroud (n)壽衣/裹屍布, 幕/罩, 桅的左右支索, 降落傘的吊傘索 (v)用裹屍布裹/給..穿上壽衣, 覆蓋/掩蔽
     - shrub (n)灌木
-    - shrug (v)聳肩, [off]不重視/忽視  (n)聳肩, 女短套衫/女帶袖短披肩
-    - shuck (n)植物的殼/莢, 無用之物
-    - shutoff (n)關閉器, 停止/中斷 = cessation
+    - shrug (v)聳肩, [off]不重視/忽視 (n)聳肩, 女短套衫/女帶袖短披肩
+    - shuck (n)植物的殼/莢 = hull, 蚌殼 = shell, 蛹殼 = shell = integument, [非]無用之物 (v)剝…的殼, [非]脫掉(衣服), [非]擺脫 = get rid of, 戲弄 = tease = fool
+    - shutoff (n)關閉器 (mn)停止/中斷 = cessation = cessation
     - shudder (n/v)顫慄/發抖
-    - shunt (v)使(火車)轉軌, 轉至另一地方
+    - shunt (v)使(火車)轉軌, 推 = shove = push, 把…轉至/調往(另一地方), 裝上分流器 (n)推, 分流器, (身體裡可讓液體流動)的通路
     - shutter (n)百葉窗, 快門/遮光器, (風琴等的)開閉器 (v)關上……的百葉窗, 停止(營業)
     - shuttle (n)往返旅行, 太空梭 = space shuttle, 梭子, 羽毛球/板羽球 = shuttlecock (v)往返旅行, 往返運送
-    - sib (adj)親屬的 (n)親族
-    - sibilant (adj)發出嘶嘶聲的 = hissing
-    - sibling (n)兄弟姊妹
+    - sib (n)手足 = sibling, 親族
+    - sibilant (adj)發出嘶嘶聲的 = hissing, 發噝音的 (n)(s的發音)噝音
+    - sibling (n)兄弟姊妹 <-- sib
     - sibyl (n)女預言家/女先知
     - sickle (n)鐮刀
     - sideline (n)副職/副業, 界線, 局外人 (v)使…退出比賽, 使不再發揮重要作用
-    - sideshow (n)雜耍/穿插表演
+    - sideshow (n)雜耍/穿插表演, 插曲
     - sidewalk (n)人行道 = pavement
+
     - siege (n)包圍/圍攻
     - sieve 
     - signpost (n)路標/指示牌 (v)給…設置路標
@@ -4241,6 +4255,7 @@
     - vector (n)向量, 矩陣的一行或一列, 傳染媒介, 航向/航線 (v)為……導航
     - veer (v)轉向/改變
     - vegan (n)嚴格素食主義者 (adj)純素的
+    - veggie (n)[非]蔬菜 (adj)[非]蔬菜做成的
     - velocity (n)速度, 迅速
     - vend (v)出售/販賣 --> vendor (n)小販 = seller
     - venom (n)毒液, 惡毒/痛恨 = malevolence
@@ -4375,6 +4390,7 @@
     - well-to-do (adj)富有的
     - well-timed (adj)及時的/適時的
     - well-trodden (adj)用過多次的/常被參觀的, 多次做過的/多次探討過的
+    - western (adj)西的/西方的, 從西吹來的(風), 西方的/歐美的 (n)美國西部片/西部小說
     - wether (n)閹羊
     - whack (v)重打/猛擊, 擊敗, 亂推, 謀殺 (n)重擊聲, 嘗試/機會, 大量, [out of]故障
     - wheedle (v)以甜言蜜語誘惑/用甜言蜜語欺騙/哄騙

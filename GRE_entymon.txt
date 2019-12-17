@@ -363,6 +363,7 @@
 		- arborescent (adj)樹木狀的
 
 	archae, arche 原本的 = original
+		- archaea (n)古菌/古細菌(單細胞微生物，構成生物分類的一個域)
 		+ /ɑːˈkeɪɪk/ archaic (adj)古老的/古代的/原始的/過時的 = antique
 		+ archaeology, archeology (n)考古學
 		+ archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
@@ -423,6 +424,7 @@
 		- artsy, arty (adj)附庸風雅的
 		* /ˈɑːtɪstri/ artistry (n)藝術才能
 		* artisan (n)工匠/技工 = craftsman --> artisanal (adj)工匠的/技工的, 傳統匠人手工製作的
+		- artillery (n)火砲/大砲, 砲術
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
@@ -1047,7 +1049,7 @@
 	cre, cred 相信 = believe, confide, entrust
 		- accredit (v)相信, 委任/授權 = authorize, 歸功於 = attribute to
 		+++ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, [with]將...歸功於 = ascribe, 加(金額)於帳戶
-		+ creditable (adj)值得稱讚的
+		+ creditable (adj)值得稱讚的 = laudable
 		+ credent (adj)相信的 --> credence (n)相信/可信性
 		+ credential (n)證書, 國書(證明大使身分的證件) (v)授與證書
 		+ credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
@@ -3115,6 +3117,7 @@
 			- incompetent (adj)無能力的/不能勝任的 = impotent, 無行為能力的 (n)無行為能力人 <-- in + competent
 			+ inconclusive (adj)非決定性的/不確定的
 			+ incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
+			- inconsonance (mn)不協調/不和諧 = disagreement
 			+ inconsequential (adj)不重要的 = trivial = frivolous = futile
 			+ inconsiderable (adj)無足輕重的/不值得考慮的 <--> considerable
 			+ inconsistent (adj)不一致的 --> inconsistency (n)不一致/前後矛盾 
@@ -5838,6 +5841,7 @@
 			+++ reticent (adj)沈默不語的 = reserved = reluctant <-- re + tic 安靜 = silent + ent
 			+ reticence (n)保留/沈默 = reserve
 			- retinue
+			- retool (v)更換工具/更換機械設備, 重塑 = reshape
 			- retouch (v)修描/潤色
 			- retrain (v)再培訓
 			+ retrieve
@@ -6471,6 +6475,7 @@
 		- synonym
 		+++ synthesis (n)綜合/合成 --> /ˈsɪnθəsʌɪz/ synthesize (v)綜合/合成
 		* synthetic (adj)合成的/人造的 = artificial = ersatz = faux, 虛假的 = insincere = illusive = faux (n)合成物
+		- chemosynthetic (adj)化能合成的
 
 	sim, sin 一 = one
 		- simplex (adj)單純的/單一的 (n)(非複合)單詞

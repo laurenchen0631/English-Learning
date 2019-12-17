@@ -82,7 +82,7 @@
 - compromise <--> uncompromising
 - confer <--> conifer
 - congenial <--> congenital <--> genital
-- consort <--> consortium
+- consort <--> consortium <--> comport
 - content <--> contention <--> contentment
 - contingent <--> continent <--> contiguous 
 - convey <--> convoy
@@ -463,8 +463,11 @@
 - shatter <--> shattered
 - sheaf <--> sheath
 - shed <--> shred
+- shelf <--> shelve
 - shirk <--> shrink
-- shuttle <--> shutter
+- shoulder <--> shroud
+- shuttle <--> shutter <--> shudder
+- single <--> shingle
 - slake <--> slack <--> slick
 - slaughter <--> onslaught
 - sleight <--> sleigh

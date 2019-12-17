@@ -480,6 +480,8 @@
 	- The gunmen were lying in wait when Mr Predit came out of the hotel.
 - makes a splash 一炮而紅/一舉成名 == to become suddenly very successful or very well known
 	- Jodie Foster made quite a splash in the film "Taxi Driver".
+- make waves (故意)興風作浪/挑起事端
+	- It's probably not a good idea to start making waves in your first week in a new job.
 - off the hook 脫離困境/脫身
 	- John's agreed to go to the meeting in my place so that gets me off the hook.
 - off the record 私下 == If someone says something off the record, they do not want it to be publicly reported.	
