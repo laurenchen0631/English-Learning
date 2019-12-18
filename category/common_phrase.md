@@ -497,6 +497,8 @@
 - pick sb/sth out of a hat 隨機選出 == To select someone or something entirely at random
 	- I don't understand why our company is being targeted. It's as if the IRS picked us out of a hat to scrutinize!
 	- It doesn't really matter who gets promoted to assistant manager—just pick a name out of a hat for all I care!
+- poke fun at sb 取笑/奚落
+	- Late night comedy shows often poke fun at politicians.
 + pull a fast one (on sb) 成功地欺騙/耍弄 == to successfully deceive someone
 	- You paid too much - I think he pulled a fast one on you.
 - pull out all the stops 全力以赴/竭盡所能

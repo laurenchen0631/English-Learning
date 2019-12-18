@@ -290,7 +290,10 @@
 
 	+ coral (n)珊瑚, 紅珊瑚, 珊瑚蟲, 龍蝦卵
 	+ coral-reef (n)珊瑚礁
+	- scleractinian coral (n)石珊瑚
+	- zooxanthellae (n)蟲黃藻
 	- fringing reef (n)邊緣礁
+	- polyp (n)珊瑚蟲, 息肉
 	- barrier reef (n)堡礁
 	- atoll /ˈatɒl/ (n)環礁
 	- kelp (n)大海藻/昆布/大海帶, 海草灰

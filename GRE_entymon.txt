@@ -324,6 +324,7 @@
 		- /krɪˈsanθɪməm/ chrysanthemum (n)菊花
 
 	anthrop, anthropo 人 = human
+		- anthropogenic (adj)人為的
 		* /ˌanθrəˈpɒlədʒi/ anthropology (n)人類學 --> anthropologist (n)人類學家
 		- anthropomorphism (n)擬人 --> anthropomorphic (adj)擬人的
 		- anthropoid (n)類人猿
@@ -1120,6 +1121,7 @@
 		+ /kəˈkɒfəni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
 	calc 石灰/石灰岩 = lime, limestone
+		- calcification (n)鈣化
 		- /ˈkalsɪəm/ calcium (n)鈣
 		- calculus (n)微積分, 計算法/推論法, 結石
 		* calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge <|> articulate
@@ -1252,6 +1254,7 @@
 		- aerocyst (n)氣囊
 		- cholecyst (n)膽囊
 		- cholecystitis
+		- nematocyst (n)刺細胞
 
 	chor, chore, choir 歌舞/舞蹈 = dance == balle
 	 	- chore (n)雜務/家務活
@@ -1275,6 +1278,7 @@
 		- /ˈsəːkəmstans/ circumstance (n)(客觀)環境, 情況/情形/形勢
 		++ circumstantial (adj)(關於犯罪)按情況推測的/佐證的, 描述詳盡的 = detailed = particular
 		+ circumscribe (v)限制/控制 = restrict = restrain = limit = confine = delimit, 使外切
+		- circumtropical (adj)環熱帶的
 		+ circumvent (v)迴避/規避/繞過 = bypass = go around = aboid, 環繞/包圍 = entrap = encompass
 	
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
@@ -4811,6 +4815,7 @@
 		+ premonition
 		- prenatal (adj)產前的
 		* preoccupied (adj)全神貫注的/入神的 = engrossed = rapt = absorbed --> preoccupation (n)全神貫注, 使人專注的東西
+		- prep (n/v)[非]準備 (n)預備學校, 預備學校學生
 		- preponderate --> preponderance
 		- preposition
 		- prepossess (v)使預先產生, 使產生好印象 --> prepossessing (adj)有魅力的 <--> unprepossessing
@@ -7400,6 +7405,7 @@
 		+ /ˌənˈtraməld/ untrammeled (adj)不受限制的/無拘無束的
 		- /ʌnˈtjuːtəd/ untutored (adj)未經正規教育或訓練的
 		+ unverifiable (adj)無法證實的/無可考證的
+		- unwanted (adj)不需要的
 		+ unwarranted (adj)沒有根據的/不合理的 = unfounded = baseless = gratuitous = unconscionable = unjustified = unprovoked = unreasonable
 		+ unwavering (adj)不動搖的/堅定的 = steady = resolute
 		- unwieldy (adj)龐大的/笨重的 = cumbersome, 使用不便的 
@@ -7458,6 +7464,7 @@
 		- upstate (adj)在州北部的 (adv)在州北部 (n)州北部
 		- upswing (n)上升/增長 = increase = upward strength
 		- uptick (n)上揚/趨勢上揚 
+		- upwelling (n)上升流/湧升流 (adj)強烈的(情感)
 
 	uni, un 一 = one
 		* unanimous

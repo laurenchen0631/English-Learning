@@ -111,8 +111,43 @@ Scientists are **growing increasingly concerned that coral**, which grows abunda
 	1. considered parasitical to coral
 	1. unnecessary for the continued survival of coral
 
+Face perception is the mind's ability to recognize and register another visage. It plays a significant role in social interactions. Through it we distinguish the familiar from the strange and formulate nuanced readings of people's moods and characters. However, **controversy surrounds the process of face perception.** Psychologists argue that it involves a series of stages: Individuals recognize physical features, make broad inferences regarding gender and age, and finally recall meaningful information regarding the face they perceive, such as a name. Cognitive neuroscientists, on the other hand, posit the idea that face perception works through analogy: The mind has an inherent ability to connect similar objects. While the exact process of face perception is still unclear, evidence suggests that it involves a specific set of skills and that the *fusiform* *gyrus*, a part of the brain, is necessary for it to occur.
+
+18. What can be inferred from the use of the word "analogy" to describe face perception?
+	1. [O] Cognitive neuroscientists believe face perception works via a process of comparison.
+	1. Psychologists believe face perception works via a process of dissemblance.
+	1. Cognitive neuroscientists believe face perception works via a process of analysis.
+	1. Psychologists believe face perception works via a process of resolving discrepancies.
+	1. [?] Cognitive neuroscientists believe it works via contraposition.
+
+19. The author mentions cognitive neuroscientists in order to
+	1. provide a specific example of a general idea the author mentions in the preceding sentence
+	1. present one side in the debate surrounding the issue of how minds identify and understand faces
+	1. trace the development of scientific inquiry into the phenomenon of face perception
+	1. compare the process of face perception with the process of visual recognition more generally
+	1. reconcile two contradictory view points
+
+Theorists are divided about the cause of the *Permian* mass extinctions. Some hypothesize that the impact of a massive asteroid caused a sudden disappearance of species. However, a look at the carbon-isotope record suggests that **existing plant communities were struck down and re-formed several times**. To produce such a pattern would require a succession of asteroid strikes thousands of years apart. Other theorists have proposed that volcanic explosions raised the C02 levels, leading to intense global warming. One problem with this theory is that it **cannot explain the massive marine extinctions at the end of the Permian period**. A new theory posits that rising concentrations of toxic hydrogen *sulfide* in the world's oceans plus gradual oxygen depletions in the surface waters caused the extinctions. **Fortunately, this theory is testable.** If true, oceanic sediments from the Permian period would yield chemical evidence of a rise in hydrogen sulfide-consuming bacteria.
+
+20. Which of the following, if true, would most weaken the author`s conclusion about the hydrogen sulfide theory?
+	1. The oceanic sediment is geologically inactive.
+	1. [O] Changes in the chemical composition of oceanic sediment have rendered the Permian period indistinguishable from earlier periods.
+	1. The oceanic sediments of the Permian period contain unusually high levels of carbon.
+	1. The oceanic sediments contain many chemicals more toxic than simple hydrogen sulfide.
+	1. The oceanic sediments can mask large populations of other types of bacteria.
+
+21. The primary purpose of the passage is to
+	1. present several hypotheses concerning the cause of the Permian mass extinctions
+	1. discuss the strengths and weaknesses **of the asteroid hypothesis** of the Permian mass extinctions
+	1. propose that theories regarding the cause of the Permian mass extinctions **be tested**
+	1. argue that Permian mass extinctions could not have been caused by a volcanic explosion
+	1. describe one reason that a rise in hydrogen sulfide would cause massive marine extinctions
+
 ## Vocab
 10. 这句是讲Close的风格的，他的风格是强调空洞的大脑本身，呆板并缺乏任何明显的个性。选项E The author believes that Close’s approach （of depicting the head but none of the personality of the subject ）is rare是指，作者认为Close的（刻画头部却没有头部的个性）的方法是很少见的。
+
+18. 韦氏字典中对comparison的解释是the representing of one thing or person as similar to or like another
+然后contraposition的解释是the relationship between two propositions when the subject and predicate of one are respectively the negation of the predicate and the negation of the subject of the other 可以看出A是相似E是不同
 
 ## Vocab
 - dime (n)一角硬幣, [非]少量(錢)
@@ -147,3 +182,7 @@ Scientists are **growing increasingly concerned that coral**, which grows abunda
 - calcification (n)鈣化
 - anthropogenic (adj)人為的
 * vagary (n)難以預測的變化/奇想/異想天開 = caprice = whim <|> vague
+- fusiform (adj)紡綻狀的
+- gyrus (n)腦回(形成大腦半球的組織)
+- Permian (n)二疊紀
+- sulfide (n)硫化物

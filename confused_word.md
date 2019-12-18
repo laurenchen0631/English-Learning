@@ -321,10 +321,14 @@
 - mediate <--> meditate
 - member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
+- miff
 - milk <--> bilk
 - miscreant <--> recreant
 - miser <--> misery
 - mitigate <--> unmitigated
+- moat <--> moan
+- mongrel <--> mogul
+- mores
 - moral <--> morale
 - morose <--> remorse
 - mosquito <--> mosque
@@ -340,8 +344,7 @@
 ## N
 - naive <--> native
 - necessitate --> necessitous
-- nib <--> nibble <--> nip <--> nipple
-- nip <--> sip
+- nib <--> nibble <--> nipple <--> nip <--> sip 
 - notion <--> notch <--> note <--> botch <--> blotch
 - nuance <--> nuisance
 
@@ -360,7 +363,7 @@
 
 ## P
 - pagan <--> pigeon <--> pageant
-- pallid <--> pall <--> palliate
+- pallid <--> pall <--> pal <--> palliate
 - palpable <--> palpitate
 - patient <--> patience
 - paltry <--> penury <--> petty <--> pantry <--> pastry
@@ -467,7 +470,10 @@
 - shirk <--> shrink
 - shoulder <--> shroud
 - shuttle <--> shutter <--> shudder
-- single <--> shingle
+- silver <--> sliver
+- single <--> shingle <--> singe
+- skew <--> skewer <--> slew
+- skim <--> skimp <--> skimpy
 - slake <--> slack <--> slick
 - slaughter <--> onslaught
 - sleight <--> sleigh

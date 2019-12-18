@@ -8,6 +8,7 @@
     + /əˈbʌnd(ə)nt/ abundant (adj)大量的 = ample = bountiful = profuse = rife, [in]豐富的/充斥的 = abounding = rife = opulent --> abundance (n)大量, 豐富/充斥 = plentifulness <|> abound
     ++ account (n)記述/描述, 演奏/詮釋, 帳目, [accounts]會計部門, 帳戶, 客戶, 帳號 (mn)重要性 = importance (v)把…視為
     ** accountable (adj)應對..負責任的 = responsible, 可說明的/可解釋的
+    * accountability (n)責任 = responsibility
     + adamant (adj)堅決的/固執的 = resolute = unyielding = tenacious = intransigent = sturdy
     + address (v)在……上寫收件人姓名地址, 對……說話, 向……致詞, 處理 = handle (n)演說/致詞, 舉止/風度, 本領/技巧 = readiness, 地址
     ++ administer (v)管理/掌管, 執行/實施, 給予/提供(治療) = dispense, 施予(懲罰) = inflict, 主持……儀式, [to]給予幫助
@@ -1549,6 +1550,7 @@
     - gentry (n)仕紳/上流社會人士
     - gentrify (v)士紳化, 重建成中產階級居住區 --> gentrification (mn)中產階級化
     - gesture (n)姿勢/手勢, 姿態 (v)用動作示意
+    - get-together (n)聚會
     - get-tough (adj)採取強硬手段的
     - /ˈɡiːzə/ geyser (n)間歇泉, 噴泉 (v)噴
     - ghostly (adj)(聲音或外型)像鬼似的 = eerie 
@@ -1638,6 +1640,7 @@
     - gut-wrenching (adj)摧心裂肝的 = emotionally painful
     - gutter (n)天溝/簷槽, 排水溝, 貧民窟 (v)(燭光或燈光)搖曳不定, [down]流/淌
     - guzzle (v)大吃大喝/暴飲暴食 = gobble = swill = quaff = gulp
+    - gyrus (n)腦回(形成大腦半球的組織)
 
 [H]
     - hackney (n)乘用馬, 出租馬車/出租汽車 = hack
@@ -1949,6 +1952,7 @@
     - jerk (n)突然猛拉, 抽搐/痙攣 = spasm, [非]蠢人 (v)猛然地一拉或一推, 把(肉)切成長條曬乾, 醃漬後烘烤 --> jerky (adj)忽動忽停的, [非]愚蠢的, 痙攣的 = spasmodic (n)條狀肉乾
     - jetsam (n)投棄的貨物/漂流到海岸的貨物 <-- jettison
     - jigsaw puzzle (n)拼圖
+    - jitter (n/v)[非]緊張不安, (輕微無法控制的)移動/抖動
     - jittery (adj)緊張的 = nervous
     - jog (v)慢跑, 顛簸, 輕推/輕敲 = nudge = knock, 觸動/喚起 (n)慢跑, 穩健的步調, 輕推/輕敲
     - jolt (v)使搖動/使顛簸, 使震驚/使慌亂 (n)搖動/顛簸 = jerk, 震驚/驚嚇 = shock = surprise
@@ -2098,6 +2102,7 @@
     - landslide (n)山崩, 壓倒性的勝利
     - lank (adj)(人)瘦的/瘦長的 = lanky, (頭髮)長而柔軟的
     - lanky -> lankier -> lankiest (adj)(人)瘦高的/細長的
+    - lapdog (n)供玩賞用的小狗, 走狗/趨炎附勢的人
     - larch (n)落葉松
     - lard (mn)豬油, [非]人身上的肥油 (v)將(培根)嵌於(料理), 塗豬油於..以利保存, 潤色/點綴 = embellish --> larder (n)食品室
     - lava (n)熔岩
@@ -2239,7 +2244,7 @@
     ++ /məːθ/ mirth (n)歡笑/歡樂 = merriment = amusement = laughter = hilarity = jollity
     + /ˌmɪsəˈleɪnɪəs/ miscellaneous (adj)混雜的/各種各樣的 = mixed = varied = manifold = sundry = heterogeneous
     + miscellany (n)混合物, 文集
-    + /ˈmʌɪzə/ miser (n)守財奴 --> miserly (adj)吝嗇的 = mean = stingy = parsimonious = penurious = niggardly, 非常少的
+    + /ˈmʌɪzə/ miser (n)守財奴 = skinflint --> miserly (adj)吝嗇的 = mean = stingy = parsimonious = penurious = niggardly, 非常少的
     * misery (mn)痛苦/悲慘
     ** /ˈmɪzərəb(ə)l/ miserable (adj)痛苦的/可憐的 = pitiful = deplorable = wretched, 令人難受的/令人痛苦的, 習慣性憂鬱的, 少得可憐的 = needy = meager = miserly = penurious
     + /mɪˈsɒdʒənɪst/ misogynist (n)厭惡女人的人 (adj)厭惡女性的
@@ -2323,6 +2328,7 @@
     - mania (mn)瘋狂 (n)狂熱 = obsession
     - manse (n)牧師住宅, [非]住家 --> mansion (n)大廈/豪宅 <|> mason
     - mantle (n)披風/斗篷, 覆蓋物, 軟體動物的套膜, 衣缽, 煤氣燈網罩, 地涵 (v)包起/覆蓋 = cloak = envelop
+    - mantra (n)曼怛羅/咒語, 口號
     - manure (n)糞肥 (v)給...施肥 <|> mature
     - maple (n)楓樹 <|> ample
     - marble (n)大理石, 大理石雕刻品, 彈珠, 彈珠遊戲, [非]理智/明智 (v)使..具有大理石花紋
@@ -2791,6 +2797,7 @@
     - pageantry (n)盛大慶典
     - painkiller (n)止痛藥
     - pajamas (n)睡褲, 睡覺時穿的衣物 = nightclothes, 寬長褲
+    - pal (n)伙伴/好友 (v)[with]結成好友, [around]花時間陪朋友
     - pall (n)棺罩/柩衣, 陰影/陰雲, 披帶(羅馬天主教教會法衣的一條環形白羊毛帶) = pallium (v)喪失吸引力/變得乏味
     - /pɑːm/ palm (n)棕櫚樹, 棕櫚, 手掌, 手套的掌部, 鹿角的扁平部 (v)把……藏於手中, (守門員)用手掌拍開
     - palmy (adj)繁榮的 = propsperous, 棕櫚蔭覆蓋的
@@ -2908,6 +2915,7 @@
     - pollen (n)花粉
     - pollinate (v)給...授粉 --> pollination (n)授粉
     - polonaise (n)波蘭舞, 波蘭舞曲, 波蘭連衫裙
+	- polyp (n)珊瑚蟲, 息肉
     - poncho (n)南美人的披風式外套, 雨披
     - pop (v)發出砰或啪的響聲, 加熱使炸裂, 迅速地來去, 迅速地移動..到, 迅速打開, 突出/瞪, 使更加顯眼, 服用/注射 (n)砰的一聲/啪的一聲, 亮色布塊, 含氣飲料, 流行音樂, 流行歌曲, 爸爸, 冰棒 (adv)砰或的一聲地 (adj)通俗的/流行的, 普遍化的
     - Popsicle (n)冰棒(商標名) = ice lolly = pop
@@ -3381,6 +3389,7 @@
     * /sɪft/ sift (v)篩/過濾, 篩選, [out]篩除/剔除 (n)篩/過濾, 篩出量
     ** /sɪnˈsɪə/ sincere (adj)真誠的/正直的 = earnest = upright --> /sɪnˈsɛrəti/ sincerity (mn)真誠 = integrity
     * /ˈsɪnjuː/ sinew (n)肌腱 = tendon = ligament, 主要支柱
+    *** sink -> sank -> sunk (v)沈沒, 使失敗, 消聲匿跡, 隱藏/忽略, 下沈, 陷, 下跌/減少, 陷入, 接近死亡, 插入, 推/擠 (n)水槽, 海洋, 排水孔 = sinkhole, 腐敗墮落的場所
     * skip (v)蹦蹦跳跳, 跳繩, 略過/省略 = omit, 錯過 = miss, [非]逃走/消失, 悄悄離開, 打水漂 (n)跳/蹦, [非]失蹤者
     ** slack (adj)鬆弛的 = lax = loose, 蕭條的/冷清的 = quiet, 緩慢的 = sluggish, 懶惰的 = sluggish = indolent, 平的(潮汐) (n)繩索鬆開的部分, 寬鬆長褲, [非]懶散, 煤屑 (v)鬆開 = loosen, 減緩/減少 = reduce, 使(石灰)熟化 = slake
     *** slick (adj)光滑的, 熟練的/靈巧的, 華而不實的 (n)浮油, 通俗雜誌, 滑頭 (v)使光滑, [up]打扮整齊
@@ -3389,8 +3398,10 @@
     * slanderous (adj)中傷性的
     * slant (v)使傾斜, 偏頗地表達(資訊) (n)傾斜/歪斜, 觀點/看法 (adj)傾斜的 = sloping
     * slave (n)奴隸, 奴隸般工作的人/苦工, 受..控制的人, 從動裝置 (v)拼命工作, 使變為從動裝置
+    * slay -> slew/slayed -> slain (v)謀殺/殺害 = murder, [非]使大為高興
     ** sleek (adj)光滑的/柔滑的, 保養得好的, (外形)線條流暢的, 諂媚的/花言巧語的 = ingratiating = unctuous
     ** /slʌɪt/ sleight (mn)狡詐, [sleight of hand]花招/手腕 <|> /slʌɪt/ slight
+    * slink -> slunk -> slunk (n/v)[off/away/by]溜走/偷偷摸摸地走
     ** slur (v)口齒不清地說, 含糊帶過, [音]連唱/連奏, 誹謗/詆毀 = slander (n)汙辱/毀謗, 含糊的發音, [音]連音線
     * sly (adj)狡猾的/狡詐的 = shifty = cunning = crafty = wily, 悄悄的/鬼鬼祟祟的 = surreptitious = stealthy = furtive
     ** smack (n)掌摑, 劈啪聲, 響吻, [of]滋味/味道, [of]跡象 (v)捆/打, 咂(嘴), [of]有特定滋味, [of]帶有…意味/帶有…跡象
@@ -3626,61 +3637,59 @@
     - sideline (n)副職/副業, 界線, 局外人 (v)使…退出比賽, 使不再發揮重要作用
     - sideshow (n)雜耍/穿插表演, 插曲
     - sidewalk (n)人行道 = pavement
-
-    - siege (n)包圍/圍攻
-    - sieve 
+    - siege (n)圍攻, 圍城, 一群(鷺)
+    - sieve (n)篩子/篩網 (v)篩/濾, [out]篩除, [through]檢查
     - signpost (n)路標/指示牌 (v)給…設置路標
-    - silicone (n)矽樹脂/硅酮
-    - sill (n)門檻 = threshold, 窗台 = windowsill
+    - silicone (n)矽氧聚合物/硅酮/矽膠
+    - sill (n)門檻/窗台, (木造建築的)底木, 岩床/海底山脊
     - slim -> slimmer -> slimmest (adj)苗條的 = slender, 細長的, 渺茫的 = faint (v)減肥 (n)瘦病/愛滋病
     - silt (mn)泥沙/淤泥 (v)使淤塞
-    - silver (n)銀
+    - silver (n)銀, 銀色, 銀器, (任何材質的)餐具, 銀幣, 銀牌 (adj)銀的/銀色的 (v)鍍銀於, (月亮)使有銀色光澤, 使(頭髮)灰白
     - silversmith (n)銀匠
     - silviculture (n)造林
     - simmer (v)煨/燉, 即將爆發, [down]冷靜 (n)即將沸騰狀態
-    - singe (v)燒焦/燙焦
+    - singe (v)把……微微燒焦 (n)表面灼傷
     - single-minded (adj)一心一意的/專心致志的
-    - sink -> sank -> sunk (v)沈沒, 使失敗, 消聲匿跡, 隱藏/忽略, 下沈, 陷, 下跌/減少, 陷入, 接近死亡, 插入, 推/擠 (n)水槽, 海洋, 排水孔 = sinkhole, 腐敗墮落的場所
     - sip (v)小口喝/啜飲 (n)一小口
     - siphon, syphon (n)虹吸管, 虹管 (v)用虹吸管吸出, (非法)輸送
     - siren (n)汽笛/警報器, 塞壬, 妖婦, 鰻螈
     - sizzle (v)(熱油)發嘶嘶聲, [非]發燙, [非]興奮 (n)嘶嘶聲, [非]興奮
-    - skeleton (n)骨架/骨骼, 提綱
-    - skew (adj)不值的/歪斜的
+    - skeleton (n)骨骼/骨架, 骨瘦如柴的人, 殘骸, 框架/架構, 俯式冰橇
+    - skew (adj)歪斜的 = askew = crooked (n)傾斜 = slant, 偏好 = bias (v)使歪斜/歪曲, 歪曲/扭曲
     - skewer (n)烤肉叉 (v)串起, [非]遭到嚴厲的批評
+    - skyrocket (n)衝天火箭 (v)[非]猛然上漲
     - skiff (n)輕舟/小船
     - skillet (n)煎鍋 = frying pan
     - skim (v)撇去……表面的浮物, 掠過, 瀏覽/略讀, 表面凝結
-    - skimp (v)節省花費
-    - skimpy = scanty
-    - skinflint (n)吝嗇鬼 <-- [片語] skin a flint 愛錢如命
-    - skirmish (n)小戰/小爭吵
-    - skirt (v)環繞/逃避 = evade
-    - skit (n)幽默諷刺短劇
+    - skimp (v)節儉/節約 (n)短的或暴露的衣物
+    - skimpy (adj)短而暴露的, 缺乏的/不足的 = scanty
+    - skinflint (n)吝嗇鬼 = miser 
+    - skirmish (n)小規模戰鬥/小衝突, 小爭執 (v)進行小規模戰鬥/進行小爭論
+    - skirt (v)裙子, 襯裙, 女人/姑娘, 擋板/護板, (食用)橫隔膜, 馬鞍的垂邊 (v)繞過……的邊緣, [along/around]繞過, 避開/迴避
+    - skit (n)幽默短劇
     - skydive (v)跳傘
     - skyscraper (n)摩天樓
-    - slab (n)厚板/厚塊
     - slag (mn)礦渣/熔渣/爐渣 (n)火山渣 (v)[off]辱罵/詆毀, [off]取笑/嘲弄
-    - slam (v)猛然關上, 碰地放下, 猛撞, 輕易地得分, 嚴厲地批評 (n)碰一聲, 監獄
-    - slapstick (n)低俗的鬧劇
+    - slam (v)猛然關上, 碰地放下, [into]猛撞, 輕易地得分, [非]嚴厲地批評 (n)碰一聲, [非]監獄
+    - slapstick (n)打鬧劇/粗俗滑稽劇
     - slate (n)板岩/石板, 書寫用的石板, 暗藍灰色, 候選人名單, 紀錄 (v)用石板蓋, 安排/計畫, 提名
-    - slaughter (n/v)屠殺/宰殺
-    - sleaze (n)齷齪行為, 齷齪的人 (v)齷齪
+    - slaughter (n/v)宰殺, 屠殺, 使慘敗
+    - sleaze (n)齷齪的人 (v)[非]齷齪
     - sleepover (n)在朋友家過夜
     - sleeve (n)袖子, 唱片套子, 風向袋 = windsock, (飛機)套筒/套管
     - sleigh (n)雪橇 (v)駕雪橇/乘雪橇
-    - slender (v)苗條的/纖細的 = fine, 少量的
-    - slew (v)打滑 (n)打滑, 大量
-    - slice (v)切成片 (n)薄片
-    - slingshot (n)彈弓, 彈弓子彈 (v)因重力兒加速
-    - slink -> slunk -> slunk (n/v)[off]溜走/偷偷摸摸地走
+    - slender (v)苗條的 = thin, 細長的, 不足的/少量的
+    - slew, slue (v)突然轉向/打滑 (n)打滑, 大量
+    - slice (n)片, 份 = portion, 菜刀, (高爾夫)曲球 (v)切, (移動)切開/劃破, 打曲球
+    - slingshot (n)彈弓, 彈弓子彈, 彈弓效應 (v)因重力而加速
     - slip (v)滑跤/失足, 路落/滑動, 打滑, 溜/悄悄走, 偷偷放, [into/out of]迅速地穿或脫, 變壞/下降, [be slipping]不如往常, 鬆脫, 被遺忘, 釋放(動物), 放開(機車離合器), 解開(船錨), (動物)流產, [away]秘密地離開, [away](時間)飛逝, [away](權力、能力或可能性)消失 (n)滑, 滑動, 滑程/滑率, 變壞/下降, 疏忽/小錯誤, 牽狗用的皮帶, 襯裙, 滑道/兩座碼頭之間可停船的水面, 紙條/小紙片, 校對樣本, 接穗/嫩枝, 泥釉凸紋
-    - slippage (n)滑動/下降
+    - slippage (n)減少/下滑, 未能按時發生或完成
     - slipshod (adj)馬虎的/草率的 <-- slip + shoe
     - slipup (n)[非]小錯誤/疏忽
-    - slit
-    - slither (v)滑動/扭動前進
-    - sliver (n)長條 (v)裂成細片
+    - slit (n)窄縫 (v)切開, 切成條狀, 眯著眼看 = squint
+    - slither (v)(軀體)滑行/扭動前進 (n)滑行
+    - sliver (n)碎片/薄片, 梳毛/梳棉 (v)使成薄片, 使成梳毛 <|> silver
+
     - sloppy (adj)草率的/馬虎的 = excessively casual, (衣服)鬆垮的, 過稀的 = watery, 庸俗傷感的
     - slot (n)狹孔
     - slouch (n)沒精打采的樣子 (v)沒精打采地做
@@ -3728,6 +3737,7 @@
     - soot (n)黑煙灰/油煙
     - sop (v)浸/泡, 賄賂 (n)泡過的食品, 安慰品/巴結用的物品 --> sopping (adj)渾身濕透的
     - sore (adj)痛的, 惹人生氣的 = upset = angry, 極度的/劇烈的 = severe = urgent (n)痛處, 痛處/傷心事
+    - soirée, soiree (n)晚會
     - sought-after (adj)熱門的/廣受歡迎的
     - spackle (n)填泥料
     - spade (n/v)鏟/鍬 (n)黑桃
@@ -3844,6 +3854,7 @@
     - stutter (n/v)結巴/口吃, 斷斷續續地運轉
     - stylus (n)唱針 = needle, 鐵筆/尖筆, 觸控筆
     - suitcase (n)手提箱/箱子
+    - sulfide (n)硫化物
     - sulky (adj)生氣的 = angry
     - sultry (adj)悶熱的, 性感的/迷人的 = seductive = voluptuous
     - summary (n)摘要/概要 (adj)摘要的, 簡略的 --> summarily (adv)概括地, 倉促地 <-- sum + mary
@@ -4020,6 +4031,7 @@
     - teeter (v)搖晃/站不穩, 猶豫
     - temp (v)做臨時工作
     - tempo (n)步調/速度
+    - tentacle (n)觸鬚/觸手/觸角
     - termite (n)白蟻
     - tether (v)拴住 (n)拴繩/繫鏈, 限度/範圍
     - thatch (v)以茅草覆蓋 (n)茅草屋頂/茅草
@@ -4040,6 +4052,7 @@
     - throng (n)一大群 (v)擠滿/群集
     - thrum (v)發出連續低沉的聲響, 彈奏/撥弄(弦) = Strum (n)連續低沉的聲響, 紗頭/線頭
     - thuggish = loutish
+    - thumping (adj)重擊的, [非]巨大的/驚人的
     - tickle (v)騷(癢), 發癢, 輕觸, 抓(鱒魚), 喚起/激起, 逗樂 (n)騷癢, 癢感
     - tickler (n)棘手的問題/難題 <-- tickle
     - ticklish (adj)怕癢的, 易怒的 <-- tickle
