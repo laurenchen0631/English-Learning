@@ -796,6 +796,7 @@
 			- countercurrent (n)逆流 (adv)逆流地
 			+ countermand
 			+ counterintuitive (adj)反直覺的/反常識的
+			- counteroffer (n)還價
 			+ counterproductive (adj)產生反效果的/適得其反的
 
 		2. 補足 = complementary
@@ -1414,7 +1415,7 @@
 	cyn 狗
 		* cynic (n)憤世嫉俗的人
 		** cynical (adj)憤世嫉俗的, 挖苦的/冷嘲的 = sardonic = contemptuous = mocking
-		- cynicism (n)憤世嫉俗/譏笑
+		- cynicism (n)憤世嫉俗, 譏笑
 
 	cyt, cyte, cyto 細胞
 		- cytology (n)細胞學
@@ -2365,7 +2366,7 @@
 	fort
 		1. 強 = strong
 			- /ˈfɔːteɪ/ forte (n)特長/專長, 強音記號 (adj)強音的/響的 (adv)響地
-			- fortify (v)加強防衛, 增強/加強(肉體或精神), 增加酒精含量/增加食品的營養價值
+			+ fortify (v)加強防衛, 增強/加強(肉體或精神), 增加酒精含量/增加食品的營養價值
 			* fortitude (n)堅忍/剛毅
 
 		2. 機運 = chance, lucky
@@ -2381,7 +2382,7 @@
 		- boldfaced (adj)公然的/厚顏無恥的 = brazen = flagrant, 粗體印刷的
 		- /fəˈsɑːd/ facade (n)建築物的正面, (虛假的)外表
 		+ facet (n)琢面/小平面, 問題的一個方面
-		+ /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant <|> fastidious <|> factitious
+		+ /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant --> facetiousness (n) <|> fastidious <|> factitious 
 
 	fab, fable 說 = speak == dict == cent
 		+ affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = pleasant = genial = personable --> affability (n)
@@ -2493,6 +2494,7 @@
 
 	fract, frac, frag 碎裂 = break == rupt
 		* fraction (n)碎片, 小部分
+		- fractional (adj)碎片的, 少量的
 		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的= irritable = peevish = quarrelsome = rebellious, 難以控制的 = restive  = unruly = refractory = disobedient
 		- fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
 		- /ˈfraktʃəd/ fractured (adj)破碎的, 停止運作的, 錯誤百出的(語言)
@@ -2782,7 +2784,7 @@
 		* /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的 = unwarranted, 免費的/無償的
 		* ungrateful (adj)不感激的, 討厭的
 		+ ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
-		+ ingratiate (v)逢迎/討好 = flatter --> ingratiating (adj)討好的/諂媚的
+		+ ingratiate (v)逢迎/討好 = flatter --> ingratiating (adj)討好的/諂媚的 = smarmy
 	
 	grad 步 = step
 		- grade (n)級, 成績/評分, 小學 (v)分等級, (顏色等)漸次變化 --> gradation (n)漸變, 階段/等級
@@ -3026,7 +3028,7 @@
 
 	hemo 血 = blood == emi
 		- hemophilia (n)血友病
-		- hemorrhage (n)大出血 <-- hemo + rrgage 大量噴出 = profuse discharage
+		- hemorrhage (n/v)出血, 大出血/損失 <-- hemo + rrgage 大量噴出 = profuse discharage
 		- hemostat (n)止血器, 止血劑
 
 	herb 草 = plant
@@ -3082,7 +3084,7 @@
 			+ impenetrable (adj)不能穿透的, 無法理解的 = arcane = unfathomable = incomprehensible = abstruse <-- im + penetrable
 			- impenitent (adj)不知悔改的 = incorrigible <-- im + penitent
 			+ imperceptible (adj)非常細微的 = very slight/subtle, 感覺不到的/察覺不出的
-			- impermanent (adj)暫時的 = temporary <-- im + permanent
+			- impermanent (adj)暫時的 = temporary --> impermanence, impermanency (mn)短暫性/暫時/無常 <-- im + permanent
 			+ impermeable (adj)不能透水的/不可滲透的 = impervious = impenetrable = impassable <-- im + permeable
 			+ impermissible (adj)不允許的 = unallowable
 			+ impersonal (adj)非個人的/客觀的 = objective, 無特色的/不知名的, 非人的, 非人稱的 <|> impersonate
@@ -3095,6 +3097,7 @@
 			- impolitic (adj)失策的/不智的 = tactless = unwise <-- im + politic
 			- imponderable
 			+ impotent (adj)無力的/無能的 = helpless = powerless, 性無能的 --> impotence (n)無效/無能, 陽萎
+			* impractical (adj)不切實際的/不現實的 = impracticable, 手不靈巧的 --> impracticality (mn)
 			+ impregnable
 			+ imprecate --> imprecation
 			+ imprecise (adj)不精確的/不清楚的 = vague = inexact = inaccurate = lax
@@ -3547,6 +3550,7 @@
 		- adjure (v)力勸/懇請 = urge = request
 		+ conjure (v)招喚/想起 = recall = evoke, 變魔術/變戲法
 		- jury (n)陪審團 = tribunal, 評審委員會 (v)評審(展覽)
+		- juror (n)陪審員/陪審團成員
 		- perjure (v)使作偽證/為……作偽證
 		- perjury (n)偽證, 偽證罪
 	
@@ -4217,7 +4221,7 @@
 		- biomorph (n)生物形態模擬(自然發生的圖案或形狀的藝術設計元素，讓人聯想到自然和生物) --> biomorphic (adj)
 		- dimorphic (adj)同種二形的 --> dimorphism (n)
 		+ morph (v)使圖像變形, 逐漸改變 (n)變形圖像, 圖像變形, 語態
-		+/ˌmɛtəˈmɔːfəʊz/ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
+		+ /ˌmɛtəˈmɔːfəʊz/ metamorphose (v)變形/脫胎換骨 --> metamorphosis (n)變形/質變/變態 = = change = transformation
 		- morphology (n)形態學
 		- /ˈskjuːə(ʊ)mɔːf/ skeuomorph (n)仿製品
 
@@ -4324,7 +4328,7 @@
 
 [N]
 	neg, ne 反對/否認/不 = deny, refuse, no
-		- abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate
+		+ abnegate (v)放棄/拒絕 = renounce = reject = deny = repudiate --> abnegation (n)放棄, 自我否定
 		+++ negative (adj)否定的/否認的, 陰性的, 否定的, 反面的/消極的, 負的, 負極的/陰極的, 底片的 (n)否定/拒絕, 負片, 陰性, 陰極, 負數 (v)否定/否認 = reject, 證明為假 = belie = disprove, 抵銷 = neutralize = cancel out
 		+ negate (v)否認 = abnegate = naysay, 使無效/取消 = nullify = annul = stultify
 		- negation (n)否認/反對, 對立面
@@ -4868,6 +4872,7 @@
 		+ profit --> profitable --> profitability
 		- profiteer (n)奸商/謀取暴利者
 		+ profligate (adj)揮霍的 = extravagant, 放蕩的 = licentious = dissolute (n)放蕩者 <-- pro + flig 攪拌 = beat + ate
+		+ profligacy (mn)揮霍/浪費, 放蕩 = dissolution
 		+ profound (adj)深的/深刻的 = deep, 嚴重的(疾病), 淵博的, 深奧的 <-- pro + found 底 = bottom
 		+ profundity (n)深淵, 深奧/淵博 
 		++ profuse --> profusion
@@ -5254,7 +5259,7 @@
 		- /rɪˈpiːl/ repeal (n/v)廢除/廢止 = annul = quash = abolish = abrogate = rescind = revoke
 		- /rɪˈpɛl/ repel (v)擊退/驅除, 排斥/相斥, 拒絕/排斥, 使厭惡/使極反感
 		- repellent, repellant (adj)排斥的/相斥的, 令人厭惡的 (n)驅蟲劑, 防水劑
-		- repulse (n/v)擊退/趕走 = repel, 拒絕/排斥 = reject = rebuff = repel (v)令人厭惡/使人反感 
+		* repulse (n/v)擊退/趕走 = repel, 拒絕/排斥 = reject = rebuff = repel (v)令人厭惡/使人反感 
 		- repulsive (adj)令人厭惡的/使人反感的 = disgusting = fulsome = vile = obscence = odious = putrid, 排斥力的
 		- /rɪˈpʌlʃən/ repulsion (n)厭惡/反感, 排斥力
 
@@ -5271,7 +5276,7 @@
 	pease, pac 和平 = peace
 		+ appease (v)綏靖/對..讓步 = concede, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate = solace <--> roil = vex = rile
 		- /ˈpɛz(ə)nt/ peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
-		* pacify (v)使平靜/安撫 = appease = placate = quell = allay = mitigate = repress, 平定/平息 
+		* pacify (v)使平靜/安撫 = appease = placate = quell = allay = mitigate = repress, 平定/平息 --> pacification (n)
 		- pacific (adj)愛好和平的/平和的 --> Pacific (adj)太平洋的 (n)太平洋
 		- pacifist (n)和平主義者/反戰主義者
 
@@ -5535,7 +5540,7 @@
 
 	phil, philo 愛 = loving == amat
 		- philanthropic --> philanthropist
-		- philately (n)集郵 --> philatelist (n)集郵家
+		- philately (mn)集郵 --> philatelist (n)集郵家
 		- philosophy
 		- bibliophile
 		- negrophile
@@ -6042,7 +6047,7 @@
 		+ /ɪˈrəʊd/ erode (v)磨蝕/磨損, 逐漸破壞, (疾病)逐漸侵蝕 --> erosive (adj)磨蝕性的 = corrosive
 
 	rud 原始 = unformed, rough
-		+ /ˈɛrʊdʌɪt/ erudite (adj)博學的 = learned = scholarly
+		+ /ˈɛrʊdʌɪt/ erudite (adj)博學的 = learned = scholarly --> erudition (n)博學 = scholarship
 		+ rudiment (n)基礎, 初步/入門, 雛形, 退化器官 = vestige --> rudimentary (adj)初步的 = basic = elemental = fundamental = primitive, 未充分發展的 = inchoate
 		- rude (adj)粗魯的/無禮的, 粗糙的/簡陋的, 突然的/意外的
 
@@ -6238,7 +6243,7 @@
 		+ solitude (n)孤獨 = seclusion, 冷僻/荒涼之地
 		- solo (adj)獨自的 = solitary (adv)獨自 (v)獨唱/獨奏, 單飛 --> solos (n)獨唱/獨奏, 單飛
 
-	solid 結實 solidarity
+	solid 結實 
 		+ consolidate (v)鞏固/加強 = solidify = strengthen, (企業)合併/聯合 = coalesce = unite = combine --> consolidation (n)鞏固, 合併
 		- solidity (n)堅硬/固態 = durability, 可靠/確實 = reliability
 		- solidify (v)使固化/使凝固, 穩固/鞏固 = reinforce
@@ -6906,7 +6911,7 @@
 		+ abstention (n)棄權, 節制/戒除 = abstinence --> abstentious (adj)節制的/禁慾的 = abstinent
 		*** attain (v)實現 = achieve, 達到 = reach --> attainment (mn)達到/實現 (n)成就
 		- unattainable (adj)不可能的
-		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain, 阻止/抑制(問題) = prevent --> containment (n)封鎖/阻遏(問題)
+		- contain (v)包含/含有, 由..組成 = be made up of, 克制/控制(情緒) = restrain = smother, 阻止/抑制(問題) = prevent --> containment (n)封鎖/阻遏(問題)
 		- self-contained (adj)一切都完備的, 沉默寡言的/獨立的 = quiet = independent
 		+ continent (adj)有自制力的 = temperate (n)洲/大陸 --> continence (n)自制/節制 = self-restraint = abstinence = temperance = moderation <|> contingent <|> contiguous 
 		- incontinence (n)失禁
@@ -7282,6 +7287,7 @@
 		- unassuming (adj)謙虛的/不出風頭的 = modest <--> pretentious
 		- unbecoming (adj)不合身的, 不得體的 = improper = unseemly
 		- unbend (v)弄直, 變融洽/放鬆, 卸下(帆), 解開(繩索)
+		- unbendable (adj)僵直的/僵硬的 = stiff, 無法改變的
 		- unbuttoned (adj)鈕扣解開的, [非]放鬆的/無拘束的
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
 		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
@@ -7445,7 +7451,7 @@
 		+ underwrite (v)簽署/簽名同意支付/同意, 爲…承擔保險責任/爲…承保 = guarantee, 爲…提供財力支援並承擔經濟責任
 
 	up 上 = upper, upwards
-		- up-and-comer (n)有進取心的人/有前途的人
+		- up-and-comer (n)有前途的人
 		- up-close (adv)極近距離地 (adj)富含許多細節的
 		+ upbraid (v)訓斥/申斥 = reprimand = criticize = scold = censure = reproach
 		- upbringing (n)撫育

@@ -55,6 +55,7 @@
 - carcass <--> caress <--> careen <--> canvass
 - cascade <--> cadence <--> decadence
 - casual <--> causal
+- castigate <--> castrate
 - caucus <--> cactus
 - caveat <--> cavern
 - cease <--> crease <--> grease
@@ -111,7 +112,9 @@
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
++ defect <--> defection <--> deficit <--> deficient
 - deft <--> daft
+- desiccate <--> dissipate
 - despot <--> unspotted
 - deterrent <--> determinant
 - dew <--> pew
@@ -182,7 +185,8 @@
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch <--> plinth
 - flunk <--> flank <--> funky <--> hunker <--> hanker
-- flush <--> blush <--> plush
+- flush <--> blush <--> plush <--> slush
+- fractious <--> fractional
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
 - front <--> frond <--> froth
@@ -267,6 +271,7 @@
 - intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
+- inveterate <--> invertebrate <--> venerate
 - invidious <--> insidious
 - irritate <--> irrigate <--> irate
 
@@ -385,6 +390,7 @@
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
 - perpetrate <--> perpetuate 
 - persecute <--> prosecute
+- pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
 - plain <--> plane <--> planet <--> plant <--> plantation
@@ -398,6 +404,7 @@
 - portion <--> potion
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
+- praise <--> appraise
 - prowess <--> prow <--> prowl <--> prop
 - prime <--> premium <--> premier
 - principle <--> principal
@@ -417,7 +424,7 @@
 - proprietary <--> propriety <--> property <--> impropriety
 - prose <--> proselyte
 - protean <--> protein
-- prude <--> pride <--> imprudent <--> impudent
+- prude <--> prudish <--> prudent <--> pride <--> imprudent <--> impudent 
 - pugnacious <--> impugn <--> repugnant <--> pun <--> puny
 - pulley <--> pullet
 - pulchritude
@@ -428,7 +435,7 @@
 - quorum <--> quota <--> quote
 
 ## R
-- raffish <--> offish
+- raffish <--> offish <--> rakish
 - raft <--> rift <--> rife <--> ripe
 - rail <--> raillery
 - raise <--> raisin
@@ -474,16 +481,17 @@
 - single <--> shingle <--> singe
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
+- slat <--> slate
 - slake <--> slack <--> slick
 - slaughter <--> onslaught
 - sleight <--> sleigh
+- slouch <--> slough
 - stationery <--> stationary
 - smudge <--> nudge
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
-- snub <--> snob
-- sober <--> somber
+- snub <--> snob <--> sob <--> sod <--> sodden <--> sober <--> somber
 - sobriety <--> sobriquet
 - sooth <--> seethe
 - specter <--> spectator
@@ -518,6 +526,7 @@
 - through <--> trough
 - toll <--> atoll <--> extolling
 - trapping <--> trap
+- tract <--> tractable <--> traction <--> intractable
 - treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
