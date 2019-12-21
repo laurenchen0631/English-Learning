@@ -42,7 +42,7 @@
 	1. supplanted
 	1. enhanced
 
-7. The new lecture hall's _____ design reflected the architect`s **minimalist** influences.
+7. The new lecture hall's _____ design reflected the architect's **minimalist** influences.
 	1. *posh*
 	1. intricate
 	1. unadorned
@@ -86,13 +86,69 @@
 	1. heedlessness
 	1. zeal
 
-13. After hours of practice and **innumerable fruitless attempts** to catch the balls, Allen was finally **forced to admit** that he wasn`t sufficiently _____ to be a *juggler*.
+13. After hours of practice and **innumerable fruitless attempts** to catch the balls, Allen was finally **forced to admit** that he wasn't sufficiently _____ to be a *juggler*.
 	1. *sedate*
 	1. *lumbering*
 	1. *dexterous*
 	1. implicit
 	1. adroit
 	1. awkward
+
+14. **The cohesion** of Alexander the Great's vast empire was _____; **at his death, Alexander's lands were divided** among his generals, Ptolemy, Seleucus, and Antigonus the One-Eyed.
+	1. *abiding*
+	1. precarious
+	1. protracted
+	1. redoubled
+	1. renowned
+	1. tenuous
+
+15. His wife`s **icy stare** and aloof *demeanor* told Johann unequivocally that his *propitiatory* gifts had **failed to** _____ her anger.
+	1. *vilify*
+	1. garner
+	1. exacerbate
+	1. aggravate
+	1. placate
+	1. appease
+
+16. By consuming _____ numbers of power bars, some athletes believe they will have **proportionally greater amounts of** endurance and strength because of the energy-producing ingredients these products claim to contain.
+	1. scant
+	1. furtive
+	1. copious
+	1. solvent
+	1. measured
+	1. profuse
+
+17. The **comprehensive** bill, signed into law by the president late last week, was _____ 249 new regulations on the fishing industry.
+	1. *elucidated* by
+	1. rife with
+	1. deficient in
+	1. *unencumbered* by
+	1. replete with
+	1. *exempted* from
+
+18. The former employees started a blog that **revealed the embarrassing quirks of the boss**, an act which had _____ impact on the company`s CEO.
+	1. a *virulent*
+	1. an assuaging
+	1. a monumental
+	1. a *discomfiting*
+	1. a bolstering
+	1. a *mortifying*
+
+19. The late Samuel Huntington was well known for his _____ opinions on relations among different cultures; many of his **ideas are still passionately debated today.**
+	1. zealous
+	1. pedantic
+	1. polemical
+	1. rhetorical
+	1. divisive
+	1. *hegemonic*
+
+20. The _____ plant life on the previously barren volcanic rock created by the Kilauea lava flow is **strong** evidence that humans, too, will one day be able to inhabit the area.
+	1. *incipient*
+	1. *nascent*
+	1. waning
+	1. *fervent*
+	1. flagging
+	1. static
 
 ## Vocab
 + endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
@@ -117,3 +173,17 @@
 - sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑
 - lumbering (adj)緩慢沉重的(移動) (mn)伐木
 + dexterous, dextrous (adj)靈巧的/熟練的
+- abiding (adj)持續的/持久的 = enduring
+- demeanor (n)舉動/行為
+- propitiatory (adj)取悅的
+- vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate
++ elucidate (v)闡明 = explain = clarify
+- unencumbered (adj)不受妨礙的, 沒有債務負擔的
+* exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
++ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 高度傳染性的 = infective, 充滿敵意的 = hateful = hostile
++ discomfit (v)使羞赧/使羞愧 = mortify
++ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 
+- hegemonic (adj)支配的/霸權的
+* incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
+* nascent (adj)新興的/萌芽的 = incipient = embryonic 
++ fervent (adj)熱烈的/熱情的 

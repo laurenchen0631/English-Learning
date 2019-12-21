@@ -93,8 +93,45 @@ The goods famine occurred at roughly the same time. Because of burgeoning indust
 	1. Economists' belief that the price disparity would have eventually resolved itself without action by the government
 	1. The government's belief that agricultural and industrial prices would have balanced each other, but not in time to stop a crisis from occurring
 
+The paintings of Eugene Delacroix are as political, complex, *tumultuous*, and vivid as the life of Lord Byron, who inspired some of Delacroix's best works, such as Greece Expiring on the Ruins of Missolonghi and Scenes des massacres de Scio. Simultaneously, the paintings boast an incredible *melange* of the artistic traditions of prior masters and movements-such as a preoccupation with terribilitas from Michelangelo; a flair for color from Titian; and power, strength, and exuberance from Rubens-all underlain by the harmony and balance of classical artists and tinted with the Baroque. **Delacroix combined eclectic elements and infused them with his own genius,** creating a unique expression of Romanticism, and in so doing, inspired yet another style, Symbolism.
+
+14. According to the passage, Delacroix`s painting Scenes des massacres de Scio was influenced by
+	1. Greece Expiring on the Ruins of Missolonghi
+	1. a mix of artistic traditions
+	1. the life of Lord Byron
+	1. prior masters and their movements
+	1. the Baroque period
+
+15. __Consider each of the choices separately and select all that apply.__ The passage suggests that which of the following are NOT unique elements of the paintings of Delacroix?
+	1. [O] A tint of the Baroque
+	1. [O] A preoccupation with terribilitas
+	1. Diverse artistic traditions mixed with Delacroix`s own acumen
+
+Sociobiologists, the most well known of whom is Edward O. Wilson, contend that **there is a biological basis for the social behavior of animals**, and they test their hypotheses through observation of animals in situations. Species studied have varied as widely as to encompass both termites and *rhesus macaques*. Sociobiologists further argue that students of human behavior cannot adequately account for the *panoply* of human nature through only such traditional variables as culture, ethnicity, and environment but must also include evolutionary processes. However, many scientists, notably Stephen Jay Gould and Richard Lewontin, have criticized this approach to the study of humans on a number of grounds: for example, that it is based on Eurocentric notions and that it is plagued by methodological problems. **These detractors label it a pseudo-science** because sociobiological theories are not *falsifiable* and thus, in this respect, are similar to alchemy or astrology.
+
+16. The author mentions culture, ethnicity, and environment in order to
+	1. offer justification for a comparative study between termite colonies and rhesus macques
+	1. assert that sociobiology is problematic because it is Eurocentric and beset by methodological complications
+	1. illustrate that sociobiology is an inappropriate method for studying humans
+	1. enumerate some variables that socio-biologists believe are insufficient in the study of humans and thus necessitate the addition of biological considerations
+	1. provide a comprehensive list of the factors that influence human behavior
+
+17. The primary purpose of the passage is to
+	1. offer **praise** for an influential scientific approach to the study of animal and human behavior
+	1. **argue** for a sociobiological approach to the study of human behavior
+	1. **dispute** a sociobiological approach to the study of human behavior
+	1. justify a sociobiological approach to the study of **termite colonies and rhesus macaques**
+	1. [O] *set forth* an influential approach to the study of animal and human behavior and discuss some objections to this approach
+
+18. __Consider each of the choices separately and select all that apply.__ It can be inferred that Gould and Lewontin might agree with which of the following statements about a sociobiological approach to the study of humans?
+	1. [O] Sociobiological theories cannot be proven false, and consequently they cannot be conclusively verified; thus, sociobiology is not a real science.
+	1. [O] When applied to the study of humans, sociobiology is problematic because it is rooted in a Western worldview and it does not comport with proper scientific methodology.
+	1. Scientists cannot adequately explain human behavior through the consideration of cultural, ethnic, and environmental factors alone; therefore, they must resort to sociobiological explanations.
+
 ## Review
 1. 簡而言之，第二段的前面幾句都只provide factual evidence，並沒有author的tone或看法在裡頭。只有最後一句話作者對這些factual evidence表示他個人的看法。
+
+17. 本文作者没有明显意图。选中立的选项。
 
 ## Vocab
 - charter school (n)特許學校(獲得政府資助但獨立於其所處的州立學校系統運營的學校)
@@ -106,3 +143,10 @@ The goods famine occurred at roughly the same time. Because of burgeoning indust
 - trolley (n)觸輪, 路面電車 = trolleybus = trolley card
 - skyrocket (n)衝天火箭 (v)[非]猛然上漲
 - lapdog (n)供玩賞用的小狗, 走狗/趨炎附勢的人
++ tumultuous (adj)吵鬧的/大聲的 = noisy, 騷動的/混亂的 = riotous = chaotic
+- melange (n)混合物 = mixture
+- terribility (n)可怕 = terribleness
+- rhesus macaques
++ panoply (n)壯麗的陳列 = impressive collection, 全套盔甲
+- falsifiable (adj)可以證明為假的
+- set forth (v)解釋/闡明

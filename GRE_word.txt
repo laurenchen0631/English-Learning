@@ -295,7 +295,7 @@
     - brewery (n)啤酒廠/釀造廠 
     ** brood (n)一窩幼鳥, [非]孩子 = offspring, 蜂類的幼蟲 = larvae (v)擔憂/憂思, 孵蛋 (adj)為繁殖而飼養的 <|> brook
     *** brooding (adj)擔憂的/憂思的 = apprehensive, 陰森的/凶險的 
-    *** brief (adj)精簡的 = laconic = pithy = concise = succinct = curt = terse, 短暫的, (衣服)很短的 (v)指示/簡介 --> briefness (n) = brevity
+    *** brief (adj)精簡的 = laconic = pithy = concise = succinct = terse, 短暫的, (衣服)很短的 (v)指示/簡介 --> briefness (n) = brevity
     * /ˈbrɪs(ə)l/ bristle (n)短而硬的毛髮 (v)毛髮豎起, 生氣 = bridle = fume = seethe, [with]充滿 = abundant in <|> gristle
     * /ˈbrɪt(ə)l/ brittle (adj)易碎的, 尖利的(聲音), 外強中乾的 (n)果仁薄脆糖
     * browse (v)吃葉, 漫不經心地看商品, 瀏覽/隨便翻閱 (n)瀏覽, 嫩葉/嫩枝
@@ -335,7 +335,7 @@
     - barb (n)倒鉤, 倒鉤, 帶刺的話, 蜇/觸鬚, 羽支, 帶有觸鬚的魚, 非洲馬
     - barbecue, barbeque (n)烤肉, 烤肉架 (v)燒烤
     - barbarous, barbaric (adj)殘暴的 = cruel = brutal = atrocious = savage, 原始的 = primitive = unsophisticated, 粗俗的 = uncivilized = crude = coarse = rude
-    - bargain (n)協議, 物美價廉的東西 (v)協議/討價還價 = dicker = haggle, [for/on]預料/指望 = expect
+    - bargain (n)協議, 物美價廉的東西 = snip (v)協議/討價還價 = dicker = haggle, [for/on]預料/指望 = expect
     - barge (n)平底貨船/駁船 (v)衝/闖, [in]打擾 = intrude = interrupt, 用駁船運載
     - bark (v/n)犬吠 (v)厲聲說話/咆哮, 叫賣, 用樹皮裡的單寧酸染色 = tan = dye (n)樹皮, 巧克力做的外層 <|> balk
     - barn (n)穀倉/馬房/牛舍, 大車庫/大車棚
@@ -1540,6 +1540,7 @@
     - gargle (v)漱口 (n)漱口, 漱口聲, 漱口水
     - gargoyle (n)石像鬼
     - garish (adj)過分鮮艶的/花哨的 = lurid
+    - garland (n)花環/花冠 (v)給…飾以花環/為…戴上花環
     - garment (n)衣服 = clothing = raiment <-- garish
     - garnish (v)裝飾 (n)裝飾菜
     - gaseous (adj)氣體的/氣態的
@@ -2684,7 +2685,7 @@
     - /ˌpɛnɪˈtɛnʃ(ə)ri/ penitentiary (n)重罪監獄, 宗教裁判所, 宗教裁判官
     * penitence (n)懺悔/贖罪 = contrition = repentance = remorse = compunction = rue <-- penal
     + /pəˈsnɪkɪti/ persnickety (adj)吹毛求疵的/挑剔的 = fussy, 要求極度精確的
-    + /pəˌsɒnɪfɪˈkeɪʃən/ personification (n)化身/象徵/體現, 擬人化/人格化
+    + personify (v)使擬人化, 使具體化 = embody --> personification (n)化身/象徵/體現, 擬人化/人格化
     + /ˈpɛsɪmɪz(ə)m/ pessimism (mn)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
     ++ petulant (adj)耍孩子脾氣的/脾氣暴躁的 = peevish = irascible = irritable --> petulance (mn)孩子氣/脾氣暴躁
     + /ˈfalaŋks/ phalanx (n)密集的人群/方陣, 指骨/趾骨
@@ -2705,7 +2706,7 @@
     + pith (mn)髓, 木髓, 要旨/精髓 = essence = core = heart, 簡潔有力 (v)除去...中的髓, 使癱瘓
     + pithy (adj)有髓的, 簡潔有力的/簡練的 = terse = brief = forcible --> pithiness (n)
     + pittance (n)少量金錢/微薄的工資 <-- pity
-    + /ˈpɪvət/ pivot (n)中樞/中心點, 中心人物 (v)以……為中心旋轉, [on]取決於 = depend on 
+    + /ˈpɪvət/ pivot (n)中樞/中心點, 中心人物 (v)以……為中心旋轉, [on]取決於 = depend on = hinge
     + pivotal (adj)關鍵的 = critical = crucial = key = vital, 樞軸的
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 一大群(有害的生物), 惱人的事物 = nuisance (v)使煩憂/折磨 = bother, 騷擾 = pester
     + platonic (adj)柏拉圖式的/純精神上的 = spiritual
@@ -2777,8 +2778,8 @@
     * pigment (n)色素 (v)給……染色 --> pigmentation (n)天然顏色
     * piracy (mn)海盜行為, 劫持 (n)剽竊
     * pirate (n)海盜, 剽竊者 (v)剽竊/非法翻印, 掠奪(船) = rob = plunder
-    * pit (n)窪坑/凹處, 礦坑/煤礦, 地獄, 麻子 = pockmark, 賽車中途的加油站或修理站, 樂隊池, 交易所某種商品的交易場, 鬥獸場, [非]腋窩 , 果核 (v)[against]使相鬥/使對立, 挖坑於/使成凹, 停車加油, 除去……的果核
-    * pitcher (n)大水罐/水壺, 一罐, 投擲者, 鋪路石塊
+    ** pit (n)窪坑/凹處, 礦坑/煤礦, 地獄, 麻子 = pockmark, 賽車中途的加油站或修理站, 樂隊池, 交易所某種商品的交易場, 鬥獸場, [非]腋窩 , 果核 (v)[against]使相鬥/使對立, 挖坑於/使成凹, 停車加油, 除去……的果核
+    ** pitcher (n)大水罐/水壺, 一罐, 投擲者, 鋪路石塊
     ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 不足的/貧乏的 = inadequate
     * plait (n)辮子 = braid (v)把..編成辮子 = braid
     ** /plak/ plaque (n)匾, 牙菌斑, 血小板
@@ -2878,7 +2879,6 @@
     - /pəːtʃ/ perch (n)棲木, 休息處/高處, 河鱸 (v)棲息 = alight, 暫歇, (建築)座落
     - perk (v)[up]振作/振奮, 濾煮 = percolate (n)(因工作而享有的)額外待遇, 益處 = benefit, 濾煮壺 = percolator 
     - perky (adj)神氣的/活潑的, 厚顏無恥的 = cheeky
-    - personify (v)使擬人化, 使具體化 = embody
     - pesky (adj)惱人的 = annoying
     - pestilent (adj)致命的 = deadly, [非]討厭的/惱人的　= troublesome
     - pestle (n)杵/碾槌 (v)搗/研碎
@@ -3003,7 +3003,7 @@
     ++ /kwɒʃ/ quash (v)[法]撤銷 = annul = rescind, 平息 = suppress = quell = subdue = repress
     + quell (v)平息 = quash = suppress = subdue = repress = stifle, 消除/減輕[感覺] = quiet = pacify
     + querulous (adj)愛抱怨的/多牢騷的 = complaining = grumbling = fretful = grumpy <-- quer 抱怨 = complain + ulous
-    + query (n)詢問/疑問, 問號 = question mark (v)問/詢問 = ask = inquire,  對……表示疑問
+    + query (n)詢問/疑問, 問號 = question mark (v)問/詢問 = ask = inquire, 對……表示疑問
     +++ quibble (n)對小事的抱怨或批評 (v)吹毛求疵/為小事而爭吵 = carp = cavil
     + quirk (n)突然的轉變 = vagary, [建]槽/溝, 怪癖/古怪之處
     + quirky (adj)古怪的 --> quirkiness (n)
@@ -3012,7 +3012,8 @@
     + quorum (n)法定人數
 
     * /kwak/ quack (n)鴨叫聲/呱呱聲, 庸醫 = empiric (v)呱呱叫 
-    * /ˈkwɒr(ə)l/ quarrel (n/v)[with]爭吵/不合 = bicker = quibble (n)爭吵的原因 --> quarrelsome (adj)愛爭吵的/好口角的 = aggressive = bellicose
+    * /ˈkwɒr(ə)l/ quarrel (n/v)[with]爭吵/不合 = bicker = quibble (n)爭吵的原因
+    * quarrelsome (adj)愛爭吵的/好口角的 = aggressive = bellicose
     * /ˈkwɒri/ quarry (n)採石場, 獵物, 追求物, 方形玻璃/菱形玻璃 (v)從採石場採得
     ** queer (adj)奇怪的/異常的 = erratic = eccentric = peculiar = unconventional, [非]同性戀的 (v)[非]破壞 = spoil = ruin (n)[非]同性戀 <|> sheer
     ** quench (v)解渴 = slake, 使滿足 = satisfy, 熄滅/撲滅 = extinguish, 壓抑 = subdue = quell = repress, 使冷卻 (n)冷卻
@@ -3129,7 +3130,7 @@
     - rampart (n)壁壘/城牆, 防禦物 (v)用壁壘防護
     - ramshackle (daj)搖搖欲墜的/要散架的 = rickety
     - ranch (n)大牧場/大農場 --> rancher (n)農牧場經營者或工人
-    - rancid (adj)腐臭的/變質的 = rank = stinking, 令人厭惡的 = repugnant
+    - rancid (adj)腐臭的/變質的 = rank = stinking = putrid, 令人厭惡的 = repugnant
     - random (adj)隨便的/任意的 = haphazard, 大小不一的/規格不一的, 隨機的, 奇怪的 = odd = unusual (n)怪人
     - range (n)幅度, 範圍, 時期, 區域, 一系列, 最大距離, 最大射程, 最大傳播距離, 最大行程, 最大拍攝距離, 山脈, 放牧地, 試射場, 靶場, 分佈範圍, 多爐爐灶, 電爐/瓦斯爐, 排狀建築物 (v)位在..的範圍, 排列, 延展, 漫遊/閒晃, (眼神)游移, 包含多個主題, 對準/測定距離, 覆蓋, 射程為, [oneself against]使對立
     - ranger (n)護林員, 突擊隊員 = commando, 漫遊者
@@ -3139,7 +3140,6 @@
     - raspy (adj)刺耳的 = grating = harsh
     - ratchet (n)棘輪(一種使得線性往復運動或旋轉運動保持單一方向的機械機構) (v)靠棘輪運作, [up]使..一路上升, [down]使..一路下降
     - raucous (adj)刺耳的/喧鬧的
-    - ravel (v)[out]拆開/解開 = untangle = unravel, 磨損 = unravel = fray, 使錯綜複雜 = confuse = complicate (n)纏結
     - ray (n)光線, 流, 線, 放射狀, 傘形花序枝, 輻肋/鰭刺, 鰩/魟魚 (v)放射, 照耀 = radiate 
     - raze (v)徹底破壞/夷平
     - razor (n)剃刀/刮鬍刀 <-- raze
@@ -3161,7 +3161,7 @@
     - rendezvous (n)約會/約會地點 <-- [法]rendez 表現 = present + voud 自己 = yourself 
     - rent (n)租金, 裂縫/破洞 (v)租用 = leash, 租出 = leash
     - rep (n)代表 = representative, 推銷員 = sale representative, 保留劇目輪演 = repertory, 稜紋平布, 名聲 = reputation (v)推銷
-    - resultant (adj)作為結果的, 合量/合力
+    - resultant (adj)作為結果的 (n)合量/合力
     - reverie (n)白日夢/幻想 = daydream, 夢幻曲 <-- rave
     - rhinestone (n)萊茵石(一種假鑽石)
     - rhubarb (n)大黃, 激烈的爭論
@@ -3539,6 +3539,7 @@
     - scale (n)鱗/鱗片, 片狀物 = flake, 水垢, 牙垢 = tartar, 金屬氧化層, 天平/秤, 大小/規模, 等級/級別, 刻度, 刻度尺, 比例 = ratio, 比例尺, 音階, 進位法 (v)刮去……的鱗片, 去除牙垢, 形成片狀物, [off]成片剝落, 秤重, 攀登, 按比例尺繪製
     - scalp (n)頭皮, 首級 (v)取下(敵人)的首級, 嚴懲, 轉手倒賣/做黃牛
     - scalpel (n)外科手術刀/解剖刀
+    - scandal (n)醜聞, 公憤 = outrage, 流言蜚語 = rumor
     - scrap (n)碎塊, 殘羹剩飯, 少量/一點點, 廢料/廢金屬 = scrap metal, 爭吵 (v)將……作為廢物, 廢棄/放棄 = abolish = cancel, 爭吵
     - scrappy (adj)零碎拼湊成的/碎料製的, [非]好鬥的 = argumentative = pugnacious
     - -scape (n)景色
@@ -3771,53 +3772,52 @@
     - spackle (n)[商標]填泥料 (v)用填泥料修補
     - spade (n/v)鏟/鍬 (n)黑桃, [貶]黑人
     - span (n)長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 (v)(橋)橫跨, (時間)持續/跨越 (adj)[spick and span]整潔的/乾淨的
-    
     - spank (v)打/拍打(屁股)
-    - spar (n)圓杆, 主杆, 拳擊賽, 親密的朋友, 晶石 (v)輕拳出擊, 爭論, 用爪踢鬥
+    - spar (n)圓杆, 主杆, 拳擊賽/一局, 親密的朋友, 晶石 (v)輕拳出擊, 爭論, (鬥雞)用爪踢鬥 --> sparring (n)拳擊, 爭鬥
     - spark (n)火花/火星, 微量/絲毫(感覺), 生氣/活力 (v)發出火花/飛出火星, 點燃 = ignite, 激勵/刺激
-    - sparring (n)拳擊, 爭鬥
-    - sparse (adj)稀少的/貧乏的
-    - spat (n)口角/小爭論
+    - sparse (adj)稀疏的/分散的 = dispersed, 稀少的/匱乏的 = scanty
     - spate (n)一連串
-    - spatial (adj)有關空間的/在空間的 <-- space
-    - spatula (n)抹刀
-    - spawn (n)魚卵/魚苗, 菌種體/菌絲 (v)大量生產, 造成/釀成
+    - spatial, spacial (adj)有關空間的/在空間的 <-- space
+    - spatula (n)抹刀, 鑊鏟 = fish slice
+    - spawn (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲
     - spear (n)矛, 嫩葉 (v)刺戳
-    - speck (n)斑點, 少量 --> speckled (adj)布滿斑點的
+    - spearhead (n)矛頭/槍尖, 先鋒 (v)帶頭 = lead
+    - speck (n)斑點 = spot, 微粒/微片 (v)產生斑點/使沾上汙跡 --> speckled (adj)布滿斑點的
     - speech (n)說話能力, 說話方式/口音, 演講, 臺詞
     - speller (n)拼寫單詞者, 綴字教科書, 拼字檢查器 = spellchecker
-    - spew (v)大量排放, [非]嘔吐 = vomit
+    - spew (v)大量排放 (n/v)[非]嘔吐 = vomit
     - spike (n)長釘/大釘
     - spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋, [off]分拆
     - spinach (n)菠菜
-    - spinoff (n)副產品/衍生作品 
-    - spindle (n)紡錘/紡錘體, 杆/軸 (adj)紡錘形的/細長的 --> spindly (adj)細長的/先娑的 <-- spin
+    - spinoff (n)副產品, 衍生作品 
+    - spindle (n)紡錘/紡錘體, 杆/軸, 紡錘體 --> spindly (adj)細長的, 脆弱的(結構) <-- spin
     - /ˈspʌɪr(ə)l/ spiral (adj)螺旋的, 螺旋裝訂的 = spiral-bound (n)螺旋, 螺旋星系 = spiral galaxy, 不斷上升或下降 (v)成螺旋形, 不斷增加, [down/downward]不斷減少
     - spire (n)尖頂
     - spit -> spat -> spit (v)噴口水, 吐口水, [up]吐, 口出(惡言), 感到憤怒/感到挫折, 噴出火花, (貓)發出嘶嘶聲, 用炙叉叉住 (n)噴口水, 唾液 = saliva, 烤肉叉/烤肉針, 岬/沙嘴
-    - splay (v)展開(肢體), 張開, 拓寬/叉開, 成喇叭口形 (n)展開, 斜角/斜面 (adj)斜面
-    - splice (v)接合/銜接
-    - splint (n)固定斷骨的夾板, 薄木條/藤條/薄金屬片
-    - split (n/v)分裂/裂開
-    - splurge (n/v)炫耀/誇耀, 揮霍
-    - spoke (n)輪輻/輻條, 梯階, 阻礙
+    - spat (n)鞋罩, 蠔卵/蠔仔 (n/v)[非]小爭吵 = bicker 
+    - splay (v)展開(肢體), 張開, 拓寬/叉開, 成喇叭口形 (n)展開, 斜角/斜面 (adj)外寬式的
+    - splice (v)接合/銜接 (n)絞接點/粘接點
+    - splint (n)固定斷骨的夾板, 薄木條, 藤條, 薄金屬片 (v)用夾板固定
+    - split (v)劈開/切開, 分擔/分享, 使分裂/使不團結, 斷絕關係/離婚, [非](頭)痛, [非]離開/開小差 (n)裂縫/裂痕, 分裂, (組織)分裂 = division = schism, 斷絕關係/離婚, 分成一半的東西
+    - splurge (n/v)揮霍 = dissipate (n)大量
+    - spoke (n)輪輻, 舵輪把柄
     - spokesman (n)發言人
     - sponsor (n)贊助者, 資助/贊助, 倡議者, 保證人/負責人, 教父 = godfather (v)資助/贊助, 倡議, 規劃(雙方會談)
-    - spoof (v)揶揄/嘲諷, 愚弄/欺騙 = deceive = hoax
-    - spook (n)幽靈, 間諜, 黑人 (v)受驚嚇
-    - sport (v)炫耀/賣弄, 遊戲/玩耍, 開玩笑/嘲弄 (n)娛樂/消遣, 運動, 玩笑/戲謔
+    - spoof (n)滑稽模仿的作品, 愚弄 (v)滑稽地模仿 = mock, 欺騙/戲弄 = hoax = trick, 干擾(訊號) = tnterfere
+    - spook (n)[非]幽靈, [非]間諜, [貶]黑人 (v)[非]受驚嚇 = frighten = unnerve
+    - sport (n)運動, 娛樂/消遣, [非]經得起輸的人, [生]突變/變種 (v)穿戴/裝飾 = wear, 遊戲/玩耍
     - spotlight (n)聚光燈, 聚光燈光線, [the spotlight]公眾注意的中心 (v)聚光照明, 轉移注意到
-    - sprain (v)扭傷
+    - sprain (n/v)扭傷
     - /spreɪ/ spray (n)水花, 噴霧, 噴霧器, 噴灑, 小樹枝, 花束 (v)噴抹, 噴灑, 濺散, 散, 掃射, (公貓)噴尿, 亂丟/亂踢
-    - spree (n)玩樂/短暫的放縱 
-    - sprig (n)小枝/嫩枝
-    - sprightly (adj/adv)生氣勃勃/活潑/輕快
+    - spree (n/v)玩樂/短暫的放縱
+    - sprig (n)帶葉小枝/嫩枝, 後裔
+    - sprightly, spritely (adj)(老人)生氣勃勃的
     - spring -> sprang -> sprung (v)彈起/彈開, [from]源自 = originate from, [up]突然出現/湧現, (木頭或船)開裂/破裂 (n)春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
     - sputter (v)發劈啪聲, 急敗壞地說, 勉強進行 (n)噴濺聲/劈啪聲
     - squad (n)小隊, 班/小組, 運動隊, 小組, 親友圈
-    - squalid (adj)污穢的/骯髒的
     - squall (n)風暴, 大聲啼哭/號哭 (v)(嬰兒)大聲啼哭/號哭
-    - square (v)一致/符合, 結清, 使成正方形 (n)正方形, 廣場, 古板守舊的人/拘謹的人
+    - square (n)正方形, 方形棋盤, 方巾 = square scarf, 廣場, 街區, 練兵場, 平方, 直角尺, [分]古板守舊的人/拘謹的人, 豐盛的一餐 = square meal (adj)正方形的, 結實的/魁梧的, 平方的, 成直角的, 正的/水平的, 整齊的, 同意的, 公平的, 互不相欠的, 平局的, 古板守舊的 (adv)筆直地 = directly = straight, [非]真誠地 (v)成正方形, 使成平方, 使一致/同意 = reconcile, 挺起(肩膀)
+    
     - squat (v)蹲, 非法佔據 (n)蹲, 被非法佔據的建築, 非法佔據 (adj)矮胖的
     - /skwiːk/ squeak (n)吱吱聲 (v)吱吱叫, [非]告密, [非]勉強通過/僥倖成功
     - squeeze (v)擠/壓/擰, 擠進/擠過, [up]擠出空間, [in]擠出時間, 勉強得到, [非]勒索/壓榨, 使離開, 使陷入財務困境 (n)擠/壓, 緊抱, 少量的榨汁, 拮据, 敲詐的錢, [非]男朋友/女朋友
@@ -3843,6 +3843,7 @@
     - sterile (adj)不育的 = barren, 貧脊的 = barren (adj)消過毒的/無菌的 = aseptic = antiseptic
     - sterilize (v)使不育, 殺菌
     - steward (n)服務員, 膳務員, 幹事/籌備員, 工會代表, 財產管理人/管家 (v)籌備, 管理
+    - stewardship (mn)管理工作
     - stick (n)棍/棒/杖 (v)刺/戮, 釘住/插牢/黏貼, 伸出, 阻塞/哽塞
     - stickle (v)為小事爭吵/拘泥 --> stickler (n)為小事而爭論的人/頑固的人
     - stifling (adj)悶熱的 = oppressive
@@ -4023,6 +4024,7 @@
     * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
 
     - table (v)擱置/不加考慮, 放在桌上 (n)桌子, 食物/菜餚, 表/目錄
+    - tablet (n)刻寫板/簡, 掌上電腦, 便箋簿, 藥片
     - tack (n)大頭釘, 圖釘, 粗縫針腳/假縫, 方針, 搶風轉變航向, 航向, 航行距離, 上下角索, 上下腳, 黏性, 馬具, 寒酸俗氣的東西 (v)用平頭釘釘, 暫時用粗針腳縫, 搶風轉變航向, 改變航向, 連續改變航向
     - tacky (adj)發黏的 --> tackiness (n)膠黏性
     - tactic (n)手段, 戰術 <-- tac 佈置 = arrange + tic

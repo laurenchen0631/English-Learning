@@ -1,10 +1,10 @@
 ## A
-- acme <--> acne
+- acme <--> acne <--> pimple
 - across <--> cross
 + adduce <--> abduct <--> abduce
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
-- aloof <--> aloft <--> loaf <--> oaf <--> oak
+- aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - antagonistic <--> protagonist
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
@@ -24,6 +24,7 @@
 - bastard <--> dastard <--> retard
 - bicker <--> dicker
 - blight <--> delight <--> plight
+- bloom <--> boom <--> broom
 - blot <--> bolt <--> colt
 - bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> furry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
@@ -165,6 +166,7 @@
 - falcon <--> felon
 - fall <--> fell
 - fallow <--> callow <--> follow
+- falter <--> palter
 - faux <--> flax <--> flex <---> flexible
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
@@ -266,6 +268,7 @@
 - imperative <--> imperious
 - impose <--> imposing
 - inch <--> itch
+- incipient
 - incite
 - innate <--> natal
 - intend <--> superintend
@@ -394,7 +397,8 @@
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
 - plain <--> plane <--> planet <--> plant <--> plantation
-- plead <--> pledge
+- plangent
+- plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker
 - plumb <--> plumber <--> plume
@@ -405,7 +409,7 @@
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
 - praise <--> appraise
-- prowess <--> prow <--> prowl <--> prop
+- prowess <--> prow <--> prowl
 - prime <--> premium <--> premier
 - principle <--> principal
 - privacy <--> privation <--> privy <--> piracy
@@ -416,7 +420,7 @@
 - prestige <--> vestige
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
-- probe <--> prod <--> pod <--> prop
+- probe <--> prod <--> pod <--> prop <--> propitiate
 - probity <--> probate
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
@@ -425,11 +429,16 @@
 - prose <--> proselyte
 - protean <--> protein
 - prude <--> prudish <--> prudent <--> pride <--> imprudent <--> impudent 
+- pry <-->pyre
+- puck <--> pucker <--> puckish
 - pugnacious <--> impugn <--> repugnant <--> pun <--> puny
 - pulley <--> pullet
 - pulchritude
+- purvey
+- putrid
 
 ## Q
+- quail <--> quill
 - quaver <--> quiver
 - queer <--> sheer
 - quorum <--> quota <--> quote
@@ -439,23 +448,36 @@
 - raft <--> rift <--> rife <--> ripe
 - rail <--> raillery
 - raise <--> raisin
+- rampage <--> rampart
+- random <--> ransom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
 - raconteur <--> rancor <--> rancid
 - rapprochement <--> reapproach
 - rattle <--> prattle
-- reflective <--> reflexive
+- raucous
+- reek
+- reflective reflexive
+- renaissance <--> reconnaissance
 - replete <--> deplete
 - respite <--> respect
 - restive <--> restless 
 - retain <--> retrain
 - retina <--> patina
 - retrench <--> retreat <--> entrench
+- revere <--> reverie
+- rib <--> rig <--> rip
+- rind
+- ribald <--> rabid <--> rabies
+- rickety
 - risible <--> rise
 - risk <--> brisk
+- rive <--> river
 - roast <--> roost
-- rue <--> ruse
+- rod <--> roe
+- rue <--> ruse <--> ruth <--> rug
 - rub <--> rubber
 - rubric <--> lubricate <--> fabricate
+- ruffle <--> ruffian
 
 ## S
 - salutary <--> salute
@@ -497,8 +519,8 @@
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
+- spit <--> spat
 - spur <--> spurious <--> spurn <--> spurt <--> sprout <--> spout
-- sputter <--> putter
 - silt <--> slit <--> milt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous

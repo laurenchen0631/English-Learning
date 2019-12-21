@@ -989,6 +989,7 @@
 		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
 		- incant (v)吟唱/吟誦 = cant = intone --> incantation (n)咒文
 		+ incentive (n)刺激因素/誘因 = stimulus = motive
+		- incentivize (v)鼓勵/激勵 = encourage = motivate
 		+ recant (v)宣佈放棄 = renounce = relinquish = disavow = forswear = abjure  --> recantation (n)改變宗教信想/改變論調
 
 	col 脖子 = neck
@@ -6092,7 +6093,8 @@
 		*** ravage (v)嚴重傷害 --> ravages (n)蹂躪, 破壞
 		+ raven (v)狼吞虎嚥地吃 = devour (n)渡鴉 (adj)烏亮的/墨黑的
 		+ ravenous (adj)餓極了的, 貪婪的 = rapacious = voracious
-		*** unravel
+    	- ravel (v)[out]拆開/解開 = untangle = unravel, 磨損 = unravel = fray, 使錯綜複雜 = confuse = complicate (n)纏結
+		+++ unravel
 
 	rat 深思熟慮/推論 = calculate, deliberate, conclude
 		* ratify (v)正式批准/正式簽署 = sanction = authorize = approve --> ratification (n)正式批准
