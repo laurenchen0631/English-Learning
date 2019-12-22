@@ -78,7 +78,7 @@
 	1. innocuous
 	1. *plaintive*
 
-12. Scholarship reductions and player defections notwithstanding, the new coach applied himself to rebuilding the program with such _____ that the rest of the staff struggled to match his enthusiasm.
+12. Scholarship reductions and player *defections* notwithstanding, the new coach applied himself to rebuilding the program with such _____ that the rest of the staff struggled to match his enthusiasm.
 	1. cessation
 	1. indifference
 	1. rhetoric
@@ -176,7 +176,7 @@
 - abiding (adj)持續的/持久的 = enduring
 - demeanor (n)舉動/行為
 - propitiatory (adj)取悅的
-- vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate
++ vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate
 + elucidate (v)闡明 = explain = clarify
 - unencumbered (adj)不受妨礙的, 沒有債務負擔的
 * exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者

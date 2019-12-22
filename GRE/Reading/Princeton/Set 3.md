@@ -128,6 +128,24 @@ Sociobiologists, the most well known of whom is Edward O. Wilson, contend that *
 	1. [O] When applied to the study of humans, sociobiology is problematic because it is rooted in a Western worldview and it does not comport with proper scientific methodology.
 	1. Scientists cannot adequately explain human behavior through the consideration of cultural, ethnic, and environmental factors alone; therefore, they must resort to sociobiological explanations.
 
+**William Le Baron Jenney** is considered the founder of the Chicago School of architecture, as well as the father of the American skyscraper. He served as an engineering officer during the Civil War but by 1868 was a practicing architect. His greatest accomplishments were his mammoth commercial buildings, including the Home Insurance Building in Chicago, which was one of the first buildings to use a metal skeleton.
+
+This structure, in fact, would become the archetypical American skyscraper design. Other notable accomplishments included his 16-story Manhattan Building, which was the first edifice ever to achieve that height, and the Horticultural Building, which was the largest botanical conservatory ever erected.
+
+**William Holabird** also assisted in the evolution of the Chicago School, beginning as a draftsman for Jenney and then founding his own practice in 1880. Holabird invented the "Chicago window," which made buildings appear to be constructed of glass.
+
+19. The author mentions the "Chicago window" in order to
+	1. highlight a feature of glass buildings
+	1. strengthen the argument that Holabird developed the Chicago School
+	1. argue that Holabird was a better inventor than Jenney
+	1. provide an example of Holabird`s contributions to the Chicago School
+	1. demonstrate the artistry of architecture
+
+20. __Consider each of the following answer choices separately and select all that apply.__ According to the passage, which of the following describe William Jenney
+	1. He served as an architect during the Civil War.
+	1. [O] He is credited with the development of a much-copied design for skyscrapers.
+	1. [?] He designed buildings in New York, as well as Chicago.
+
 ## Review
 1. 簡而言之，第二段的前面幾句都只provide factual evidence，並沒有author的tone或看法在裡頭。只有最後一句話作者對這些factual evidence表示他個人的看法。
 
@@ -146,7 +164,7 @@ Sociobiologists, the most well known of whom is Edward O. Wilson, contend that *
 + tumultuous (adj)吵鬧的/大聲的 = noisy, 騷動的/混亂的 = riotous = chaotic
 - melange (n)混合物 = mixture
 - terribility (n)可怕 = terribleness
-- rhesus macaques
+- rhesus macaque (n)普通獼猴
 + panoply (n)壯麗的陳列 = impressive collection, 全套盔甲
 - falsifiable (adj)可以證明為假的
 - set forth (v)解釋/闡明

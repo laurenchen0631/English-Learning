@@ -18,6 +18,7 @@
 - awry <--> wry <--> wary <--> weary <--> askew 
 
 ## B
+- baffle <--> raffle 
 - bail <--> parole <--> bait <--> gait
 - ballad <--> ballast <--> ballistic <--> ballot
 - banquet <--> bouquet <--> boutique
@@ -97,7 +98,7 @@
 - covert <--> covet <--> overt
 - carve <--> crave <--> craven
 - crane <--> crank
-- crumble <--> crumb <--> crumple
+- crumble <--> crumb <--> crumple <--> rumple
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
@@ -149,6 +150,7 @@
 - egalitarian <--> equalitarian
 - embroil <--> boil
 - empire <--> empiric <--> empirical
+- enervate <--> innervate
 - escalate <--> escalade <--> escalator
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
@@ -156,6 +158,7 @@
 - exalt <--> exult
 - excoriate
 - exegesis <--> genesis
+- exemplum <--> exemplar <--> exempt
 - exhaust <--> exhaustive
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
@@ -202,7 +205,7 @@
 - gauche <--> gaudy
 - gaunt <--> gantlet
 - gawk <--> hawk <--> hawker
-- germ <--> germane
+- germane <--> germ
 - giddy <--> piddly
 - gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle
 - git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
@@ -260,7 +263,7 @@
 - indict <--> indicate
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - inveigh <--> inveigle <--> invective
-- ingenious <--> ingenuous <--> ingenuity <--> disingenuous
+- ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
@@ -268,7 +271,7 @@
 - imperative <--> imperious
 - impose <--> imposing
 - inch <--> itch
-- incipient
+- incipient <--> sapient
 - incite
 - innate <--> natal
 - intend <--> superintend
@@ -367,6 +370,7 @@
 - onset <--> outset
 - orchard <--> orchid
 - ordain <--> ordeal <--> ordinance <--> ordnance
+- ostentatious <--> ostensible
 - outlook <--> overlook <--> oversee <--> oversight
 
 ## P
@@ -377,6 +381,7 @@
 - paltry <--> penury <--> petty <--> pantry <--> pastry
 - pamper <--> pander <--> pauper
 - panache <--> penchant <--> pinnacle
+- panoply <--> canopy
 - pant <--> pant
 - parch <--> patchy <--> perch <--> porch
 - parley <--> parry <--> parlance <--> parliament
@@ -396,7 +401,7 @@
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
-- plain <--> plane <--> planet <--> plant <--> plantation
+- plain <--> plane <--> planet <--> plant <--> plantation <--> plaintive
 - plangent
 - plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
@@ -416,6 +421,7 @@
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
 - prerogative
+- propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
 - prestige <--> vestige
 - private <--> privation
@@ -455,6 +461,8 @@
 - rapprochement <--> reapproach
 - rattle <--> prattle
 - raucous
+- recalcitrant
+- reclusive <--> repulsive
 - reek
 - reflective reflexive
 - renaissance <--> reconnaissance
@@ -472,12 +480,11 @@
 - risible <--> rise
 - risk <--> brisk
 - rive <--> river
-- roast <--> roost
+- roast <--> roost <--> roster <--> rostrum
 - rod <--> roe
-- rue <--> ruse <--> ruth <--> rug
-- rub <--> rubber
+- ruse <--> ruth
+- rub <--> rubber <--> rut <--> rug <--> rugged <--> rutted <--> rue 
 - rubric <--> lubricate <--> fabricate
-- ruffle <--> ruffian
 
 ## S
 - salutary <--> salute
@@ -486,7 +493,10 @@
 - scad <--> scads <--> scald
 - scalp <--> scalpel
 - scarf <--> scurf <--> scuff <--> serf
+- screed <--> creed
+- scuffle <--> ruffle <--> ruffian
 - scruple <--> scrupulous <--> unscrupulous
+- scurvy <--> purvey
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
@@ -519,13 +529,15 @@
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
-- spit <--> spat
+- spit <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spurn <--> spurt <--> sprout <--> spout
 - silt <--> slit <--> milt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - supple <--> supplement
+- stake <--> stick <--> stock <--> stoke <--> stove
 - stand <--> strand
+- stoic <--> stolid
 - storey <--> story
 - stifle <--> strife <--> strive 
 - stride <--> strident
@@ -541,6 +553,7 @@
 ## T
 - tactile <--> tactual
 - tangle <--> mangle
+- tangible <--> tangential
 - telltale <--> untold
 - temper <--> temperate <--> temperamental <--> temperance <--> temperature
 - tend <--> tender <--> tendentious
@@ -561,7 +574,7 @@
 ## V
 - vagrant <--> vagary <--> vague
 - veritable <--> verifiable1
-- vie <--> vile <--> vilify
+- vie <--> vile <--> vilify <--> revile
 - vocation <--> vacation
 
 ## W

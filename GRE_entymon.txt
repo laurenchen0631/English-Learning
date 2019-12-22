@@ -902,7 +902,7 @@
 		+ /ˈɪnsɪd(ə)nt/ incident (n)(不愉快或不尋常的)事件, 隨付責任義務 (adj)易發生的, 隨附的, 入射的 <|> accident
 		*** incidence (n)發生率, 入射/入射角
 		* incidental (adj)附帶的/伴隨的, 偶然發生的 (n)意外事件/意外支出
-		* incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
+		+ incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
 		+ intercept (n/v)中途攔截/截斷/竊聽
 		- /mjʊˈnɪsɪpəl/ municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
 		- municipality (n)市/市政當局
@@ -1473,6 +1473,7 @@
 			+ /dɪˈlɪnɪeɪt/ delineate (v)描述/描繪 = depict = portray = trace <-- de + line 線 + date 
 			- demarcate (v)設下界線, 區隔 <-- de + mark
 			+ demean (v)羞辱/貶低 = degrade = debase = belittle = insult
+			- demeanor (n)舉動/行為
 			- depend (v)取決於
 			+ dependable (adj)可靠的 = reliable = trustworthy
 			* depict
@@ -1578,7 +1579,7 @@
 			- disbeliever (n)持懷疑態度的人
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
 			- discolor (v)使變色/使褪色
-			+ discomfit (v)使不安/使為難 = disconcert, 妨礙計畫 = thwart = foil --> discomfiting (adj) = disconcerting = confusing = frustrating <-- dis + comfit 做到 = make, accomplish
+			+ discomfit (v)使羞赧/使羞愧 = mortify --> discomfiting (adj) <-- dis + comfit 做到 = make, accomplish
 			- disconcert
 			* discompose
 			* discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
@@ -1973,6 +1974,7 @@
 			- evaluate (v)評價/鑑定 --> evalution (n)評價/鑑定
 			+ evanesce --> evanescent
 			- evaporate
+			+ eviscerate (v)除去……的內臟 = disembowel, 掏空
 			+ evoke --> evocative
 			+ evolve --> evolution
 
@@ -2522,7 +2524,7 @@
 
 	fig, figur 形成/形狀 = shape
 		- configure (v)裝配/配置/設定
-		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 輪廓 = contour = outline, 原子組態, 完形（一種結構或者經歷，其整體不等於各部分簡單相加之和）
+		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 輪廓 = contour = outline, 原子組態, 完形(一種結構或者經歷，其整體不等於各部分簡單相加之和)
 		- disfigure (v)損毀…的外觀/使毀容
 		+ effigy (n)(尤指被憎恨人的)肖像/雕像
 		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵, [into]被包括
@@ -4231,7 +4233,8 @@
 		- immortal (adj)不朽的
 		- mortality (n)死亡 = demise, 大規模死亡, 死亡率
 		- /ˈmɔːɡɪdʒ/ mortgage (n)抵押貸款/抵押證書/抵押契據 (v)用...做抵押
-		++ mortify (v)使感屈辱/使羞愧 = humiliate, 禁慾/克制, 被壞疽感染/腐壞 --> mortification (n)屈辱/恥辱, 禁慾/克制
+		++ mortify (v)使感屈辱/使羞愧 = humiliate = discomfit, 禁慾/克制, 被壞疽感染/腐壞
+		+ mortification (n)屈辱/恥辱, 禁慾/克制
 		+ moribund (adj)即將滅亡的, 垂死的 = dying <-- mori + bund 接近
 		- /ˈmɔːtʃʊri/ mortuary (n)停屍間/殯儀館 = funeral home (adj)喪禮的/墓碑的
 
@@ -4357,6 +4360,7 @@
 
 	nerv 精力 = sinew
 		+ /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
+		+ innervate (v)使…受神經支配
 		** nerve (n)神經, 沉著, 勇氣/膽量, 憂慮/焦躁, 葉脈 (v)[nerve oneself]鼓起勇氣/激勵 <--> unnerve
 		+ unnerve 
 	
@@ -4453,7 +4457,7 @@
 		+ /ɪˈneɪt/ innate (adj)與生俱來的/天生的 = inborn = native = born <|> inmate
 		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
-		* nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
+		+ nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
 		- neonatal (adj)新生的 = newborn
 		- prenatal
 		- renascent (adj)再生的/復興的/復甦的
@@ -4903,7 +4907,7 @@
 		+ propensity
 		+ /ˈprɒfɪt/ prophet (n)先知/預言家/宣揚者 --> prophecy (n)預言, 預知能力 --> prophetic (adj)準確預測的, 預言的 <-- pro + peht 說 = speak
 		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <--> unpropitious <-- pro + pit 懇求 = resort, solicit
-		+ propitiate (v)取悅 = appease <-- propitious
+		+ propitiate (v)取悅 = appease --> propitiatory (adj)取悅的
 		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (V)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
 		* propound (v)提出…供考慮
 		* propose --> proposal
@@ -5686,7 +5690,7 @@
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
-		*  quiet (adj)安靜的, 寧靜的, 不被打擾的, 秘密的, 溫和的, 保守的, 不醒目的 (n)安靜, 不被打擾, 安穩 (v)安靜
+		* quiet (adj)安靜的, 寧靜的, 不被打擾的, 秘密的, 溫和的, 保守的, 不醒目的 (n)安靜, 不被打擾, 安穩 (v)安靜
 		+ /kwɪˈɛsənt/ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
 		- quietude (n)寧靜/寂靜 = clam
 		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 = discompose (n)不安/憂慮
@@ -6502,7 +6506,7 @@
 	semin 種子 = seed
 		+ disseminate (v)傳播/宣傳 = disperse = spread = scatter = broadcast
 		- semen (n)精液
-		** seminal (adj)種子的, 精液的, 有發展性的/有創意的
+		++ seminal (adj)種子的, 精液的, 有發展性的/有創意的
 		- seminary (n)神學院 <|> seminal
 
 	sacr, secr, sanct 神聖 = sacred, holy
@@ -6593,7 +6597,8 @@
 		- residential (adj)居住的, 提供住宿的, 充滿住宅的
 		- /ˈrɛzɪdjuː/ residue (n)剩餘物  <-- reside
 		- /rɪˈzɪdjʊəl/ residual (adj)殘餘的/剩餘的 = remnant (n)剩餘, 重播費
-		- sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑 --> sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
+		++ sedate (adj)沉著的, 安靜的 (v)給…服用鎮靜劑
+		+ sedative (adj)鎮靜的 (n)鎮靜劑 = hypnotic
 		+ /ˈsɛd(ə)ntəri/ sedentary (adj)久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
 		- sediment (n)沉積物, 渣 = dregs (v)沉積 --> sedimentary (adj)
 		+ sedulous (adj)聚精會神的/勤勉的 = diligent = assiduous --> sedulity (n)勤勉/勤奮 = diligence
@@ -7312,6 +7317,7 @@
 		* unearth (v)掘出/使出土, 發現 = discover, 把(狐狸)趕出洞穴 <|> unearthly
 		- unearthly (adj)奇異的 = unnatural = mysteriou <-- un + earthly
 		* uneasiness (n)焦慮/不安 = anxiety = discomfort = compunction
+		+ unencumbered (adj)不受妨礙的, 沒有債務負擔的
 		- unenlightened (adj)未受啟迪的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
 		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
