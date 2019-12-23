@@ -42,9 +42,9 @@ Pickett does present a wealth of examples, along with a refreshingly candid argu
 	1. [O] Democratization of a foreign country was a rationale for at least one war that America has waged.
 	1. [O] Pickett provides a large number of examples to bolster his case.
 
-Some readers categorize Maxine Hong Kings-ton as a great Asian-American writer, a classification that is ultimately too narrow for her body of work. However, the subject matter of Kingston's novels and autobiographies espouses the Asian immigrant experience, as the following characters suggest: immigrant laborers in California and Hawaii, railroad laborers, and Chinese doctors. In natural harmony with her choice of subject matter are the personal sensibilities of a first-generation American writer who endeavors to explain her mother's alien sensibility and her relationship with her silent, angry father.
+Some readers categorize Maxine Hong Kings-ton as a great Asian-American writer, a classification that is ultimately too narrow for her body of work. However, the subject matter of Kingston's novels and autobiographies espouses the Asian immigrant experience, as the following characters suggest: immigrant laborers in California and Hawaii, railroad laborers, and Chinese doctors. In natural harmony with her choice of subject matter are the personal *sensibilities* of a first-generation American writer who endeavors to explain her mother's alien sensibility and her relationship with her silent, angry father.
 
-Kingston's Asian influences are present in another type of work. Chinese myths in the guise of "talk stories." A character in her novel Tripmaster Monkey is based on Sun Wu Kong, a mythical Chinese figure. In response to this work. Herbert Gold notes that the author "invigorates her novel with an avid personal perspective, doing what the novel is supposed to do-she brings us the news of the world and makes magic of it."
+Kingston's Asian influences are present in another type of work. Chinese myths in the guise of "talk stories." A character in her novel Tripmaster Monkey is based on Sun Wu Kong, a mythical Chinese figure. In response to this work. Herbert Gold notes that the author "invigorates her novel with an *avid* personal perspective, doing what the novel is supposed to do-she brings us the news of the world and makes magic of it."
 
 7. The author focuses on the content of Kingston's work primarily to
 	1. [O] illustrate why one might be tempted to call Kingston an Asian-American author
@@ -54,9 +54,63 @@ Kingston's Asian influences are present in another type of work. Chinese myths i
 	1. show what makes Kingston unique among Asian-American writers
 
 8. __Consider each of the choices separately and select all that apply.__ It can be inferred that Kingston uses "talk stories"
-	1. to provide an outlet for critiques of her work
+	1. to provide an outlet for *critiques* of her work
 	1. as a way to present Chinese myths in her stories
 	1. as a method of engaging children who are not yet reading on their own
+
+Preciosite, "preciousness." or the manifestation of the baroque in literature, is **often dismissed** as a "*feminine* concoction," mocked by Molière and thought to be ridiculous by modern standards. Preferring appearance to substance and excess to moderation, baroque expression is given to wild exaggeration and *purple* description. However, when one **considers its historical context, the movement can be seen as a subtle rebellion by an otherwise powerless sex** against its restrictive society.
+
+Crippled and stunned from a series of religious wars, seventeenth-century France under Louis XIII was characterized by political intrigue and violence. Escaping the crude court, a group of cultured and educated ladies met to discuss- in a fantastically embellished and witty manner- literature, art, and philosophy. They rejected the predominant emphasis on *vulgarity* and sought the elevation of "education", or "manners" they considered essential to society. More salons followed, and these prgcieuses (literally, "precious ones") produced works of literature that are still widely read, such as novels, essays, and poems that elevated the ideal of courtly, or Platonic, love with an emphasis on *sensuality* and scrupulous rules of behavior.
+
+Though men scoffed at their wives' pretensions, baroque literature as a reaction to political instability reawakened French *proclivities* for cultural expression. When Louis XIV ascended to the throne in 1661, French society was *primed* for the reestablishment of the arts. Baroque ideals served important roles regarding the criticism of the political situation and the influence of cultural trends. Louis XIV's peace provoked the cultural pendulum to swing to the other direction, ushering in a neo-classical movement that elevated simplicity and minimalism. It is surely no coincidence that it was the performance of "Les Precieuses Ridicules" ("The Conceited Ladies"). Moliere's play mocking preciosite, that first gained him wide acclaim and established him as the preeminent father of French theater.
+
+9. The primary purpose of the passage is to
+	1. demonstrate the importance of the role of a specific artistic movement to a culture
+	1. show that **women had a greater influence** on history than was previously thought
+	1. define and explain the origins of an **obscure art form**
+	1. correct a commonly held historical **misconception about the origins** of a literary movement
+	1. emphasize the **influence of a nation's ruler** on its arts and culture
+
+10. __Consider each of the choices separately and select all that apply.__ The author suggests which of the following about how preciosite was viewed during the seventeenth century?
+	1. It became the preferred method of communication for all members of French society.
+	1. It was tolerated until Moliere's popular play mocked it.
+	1. [O] Its importance as a cultural force was not understood.
+
+11. Select the sentence that most concisely describes the contrast between preciosite and the neo-classicism that followed it.
+	- Preferring appearance to substance and excess to moderation, baroque expression is given to wild exaggeration and purple description
+
+12. __Consider each of the choices separately and select all that apply.__ The author suggests which of the following about how the preciosite was viewed during the seventeenth century?
+	1. [O] Literature can be a weapon of protest.
+	1. [?] Before the seventeenth century, the French expressed themselves through the arts.
+	1. Literature was the only means of protest available to women in the seventeenth century.
+
+The mid-nineteenth century witnessed two major wars on U.S. soil: the Mexican-American War and the Civil War. That Abraham Lincoln would commit the country to civil war appears to require little explanation, since he endorsed the abolition of slavery and the preservation of the young nation. **However, Lincoln's disdain for the Mexican-American War, which was ostensibly fought to keep Texas in the Union, requires some examination.** After all, Lincoln's swift military response to the Southern secessionists at the beginning of the Civil War illustrates that Lincoln would not shrink from battle if the war could ensure a united country. Perhaps Lincoln's resistance to the Mexican-American War can best be seen in light of his sincere belief that President Polk had *overstepped* his constitutional boundaries in declaring war against Mexico, a sovereign nation. In this light, it is perhaps ironic that Lincoln's own presidential legacy includes a greater centralization of federal government power.
+
+13. Which of the following best describes the function of the sentence about Lincoln's swift military response in the passage?
+	1. It **provides evidence** that Lincoln generally did not oppose wars.
+	1. It explains that Lincoln, despite his **pacifist tendencies**, was not convinced that the Mexican-American War effort was wrong.
+	1. It confirms that Lincoln's belief in the wisdom of entering a war was formulated on the basis of what is good for a united counties.
+	1. [O] It suggests that Lincoln's opinions on the Mexican-American War were not based solely on a belief in unification.
+	1. It illustrates that **opponents of United States foreign policy** within the federal government convinced Lincoln to enter the Civil War.
+
+14. __Consider each of the choices separately and select all that apply.__ According to the passage, which of the following is true of the Mexican-American War?
+	1. [O] Lincoln did not initiate the war.
+	1. [O] Lincoln would have disagreed with President Polk about its legality.
+	1. it was fought ostensibly to abolish slavery.
+
+**Country music scholars generally overlook the role that African-Americans** played in the formation of this genre. Typically, scholars trace the birth of country music to the recording sessions that record producer and talent scout Ralph Peer held in Bristol, Tennessee, in 1927. However, the origins of country music go back much further and owe a great deal to African-American musicians, some known and some anonymous and *unheralded*. **The *banjo*, *field hollers*, and gospel music are examples of country genre *staples* that are rooted in the African-American experience**. Moreover, some of the "stars" of country music learned their trade from African- American musicians. Rufus "Tee Tot" Payne, for instance, educated Hank Williams. In addition to jazz, gospel, and the blues, country music now clearly needs to be included in the list of musical genres that have an African-American lineage.
+
+15. According to the passage, the "African-American experience" is crucial to country music because other previously established African-American genres
+	1. [O] provided the instrumental and vocal basis for country music
+	1. were not as well developed as country music
+	1. preceded country music
+	1. weakened the popularity of country music
+	1. were more accepted and conventional than country music
+
+16. __Consider each of the choices separately and select all that apply.__ It can be inferred from the passage that the author would be most likely to agree with which of the following statements concerning the contributions of African- Americans to country music?
+	1. Rufus "Tee Tot" Payne is responsible for teaching Hank Williams the banjo, field holler, and gospel.
+	1. [O] African-Americans were *instrumental* in developing country music and for teaching it to some of the well-known musicians in the field.
+	1. [O] Jazz music is commonly acknowledged to have African-American lineage.
 
 ## Vocab
 - corona (n)日冕, (太陽或月球周圍的)暈, [解]冠狀部位, (教堂的)環形吊燭架, [建]挑簷滴水板, 長雪茄菸
@@ -66,3 +120,19 @@ Kingston's Asian influences are present in another type of work. Chinese myths i
 - Pluto (n)冥王星
 * assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 + ostensible (adj)貌似真實的 = believable = plausible = persuasive
++ sensibility (n)敏感/識別力 = sensitivity, 纖細 = delicacy, 感覺
++ avid (adj)熱切的 = eager, [for]渴望的 = agog
++ critique (n/v)評論 
+- feminine (adj)女性特有的/女性的/陰性的
+- purple (n)紫色, (帝王或顯貴穿的)紫袍, 高位 (adj)紫的/紫紅的 (v)使成紫色
+- vulgarity (mn)粗俗
+- sensuality (mn)感官滿足
++ proclivity (n)傾向 = propensity = inclination = tendency
++ prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥, 塗底漆, 啟動(幫補), 上油
+- overstep (v)超出……的限度
+- unheralded (adj)未事先宣布的
+- banjo (n)五弦琴/班卓琴
+- field holler (n)田野歌/喊歌
+- holler (v)叫喊, [at]聯絡 (n)[非]叫喊, 喊歌
+* staple (n)釘書針, 主要元素, 主要產品, 纖維, 貿易中心 (v)用釘書針固定 (adj)主要的
+- instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的

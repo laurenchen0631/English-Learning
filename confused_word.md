@@ -41,7 +41,7 @@
 - budge <--> budget
 - bumble <--> fumble <--> grumble <--> mumble <--> rumble <--> rumple
 - bump <--> hump <--> lump
-- burnish <--> furnish <--> furbish
+- burnish <--> furnish <--> furbish <--> tarnish
 - bristle <--> gristle
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
@@ -162,6 +162,7 @@
 - exhaust <--> exhaustive
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
+- extirpate
 
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
@@ -174,6 +175,7 @@
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
 - feint <--> fend <--> fender
+- feminine <--> famine
 - fete <--> mete
 - fetid <--> fetish
 - fib <--> dibs
@@ -273,6 +275,7 @@
 - inch <--> itch
 - incipient <--> sapient
 - incite
+- iniquity <--> inanity
 - innate <--> natal
 - intend <--> superintend
 - inter <--> intern
@@ -437,7 +440,8 @@
 - prude <--> prudish <--> prudent <--> pride <--> imprudent <--> impudent 
 - pry <-->pyre
 - puck <--> pucker <--> puckish
-- pugnacious <--> impugn <--> repugnant <--> pun <--> puny
+- pugnacious <--> impugn <--> repugnant <--> pun <--> puny 
+- punctilious
 - pulley <--> pullet
 - pulchritude
 - purvey
@@ -500,6 +504,7 @@
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
+- sententious
 - severe <--> sever <--> serve
 - sew <--> sewer <--> sewage
 - shatter <--> shattered
@@ -576,10 +581,13 @@
 - veritable <--> verifiable1
 - vie <--> vile <--> vilify <--> revile
 - vocation <--> vacation
+- volume <--> voluble
 
 ## W
 - waive <--> wave
 - weather <--> wether
+- welter <--> swelter
+- wig <--> swig <--> twig
 - winnow <--> minnow <--> wallow
 - whip <--> whop <--> whopping
 - whisk <--> whisky

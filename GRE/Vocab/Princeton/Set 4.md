@@ -3,7 +3,7 @@
 1. Regardless of the long-winded answers Michael consistently gave in class, his teachers remember him as _____ student, **rather than a garrulous one**, because he generally kept to himself.
 	1. a taciturn
 	1. a *voluble*
-	1. an uncommunicative
+	1. an *uncommunicative*
 	1. a querulous
 	1. a disinterested
 	1. an eccentric
@@ -104,6 +104,46 @@
 	1. refinement
 	1. magnanimity
 
+14. While interviewing for a job as a computer consultant, Robert consciously provided a _____ of references, knowing full well that he had **few former employers who would be laudatory about his past projects.**
+	1. multitude
+	1. array
+	1. myriad
+	1. potpourri
+	1. paucity
+	1. dearth
+
+15. **While** most of the tasks undertaken by the interns were ***undemanding***, a fact that led to the flood of applicants for the positions each year, there was one _____ duty: cleaning out the garbage bins in the laboratory.
+	1. unambiguous
+	1. facile
+	1. arduous
+	1. onerous
+	1. *tenebrous*
+	1. lucid
+
+16. In an attempt to _____ voters to **support her**, the incumbent politician *beguilingly* greeted a room full of *constituents* and pledged to lower taxes-even though she had only ever done the opposite while in office.
+	1. alienate
+	1. *abase*
+	1. inveigle
+	1. eviscerate
+	1. estrange
+	1. entice
+
+17. After **a series of storm**s, the **once arid landscape** became _____ for the first time in many months.
+	1. innocuous
+	1. barren
+	1. *verdant*
+	1. desolate
+	1. bountiful
+	1. limpid
+
+18. Although he received many visitors, the _____ old man *shooed* them away after only a few minutes.
+	1. *misanthropic*
+	1. *curmudgeonly*
+	1. sarcastic
+	1. chauvinistic
+	1. garrulous
+	1. affable
+
 ## Review
 13. 奥斯汀的小说塑造了美好的爱情喜剧，小说主人公爱玛在感情中宽容体谅而不是自私爱管闲事
 
@@ -137,3 +177,12 @@
 - reclusive (adj)隱遁的
 - gayety, gaiety (mn)快樂/興高采烈 = merriment, 喜慶, 娛樂 = entertainment = amusement
 - viscosity (n)黏質/黏性
+- tenebrous (adj)陰暗的/黑暗的
+- undemanding (adj)要求不高的/不苛嚴的
+- beguiling (adj)有趣的/迷人的
++ constituent (n)成分/構成部分/要素 = component = element, 選民 (adj)組成的/構成的 = integrant, 有選舉權的
++ abase (v)貶低自己/卑躬屈膝 = degrade = humble
++ verdant (adj)青翠的/嫩綠的 = green
+- shoo (excl)噓 (v)用噓聲趕走
+- misanthropic (adj)不願與人來往的 = unsociable
+- curmudgeonly (adj)脾氣壞的

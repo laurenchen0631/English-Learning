@@ -330,6 +330,7 @@
 		- anthropoid (n)類人猿
 		- philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
 		+ misanthrope, misanthropist (n)厭世者/不願與人來往者 --> misanthropy (n)人類厭惡
+		+ misanthropic (adj)不願與人來往的 = unsociable
 
 	apo 離開/遠 = away, off, apart
 		+ apostasy --> apostate
@@ -474,7 +475,7 @@
 
 	avi 鳥 = bird
 		- avian (adj)鳥的/鳥類的 (n)鳥 = bird
-		+ avid (adj)渴望的 = agog, 熱心的 = eager --> avidity (n)渴望/熱情, [化]親和力
+		+ avid (adj)熱切的 = eager, [for]渴望的 = agog --> avidity (n)渴望/熱情, [化]親和力
 		- aviary (n)大鳥籠,鳥舍
 		- aviation (n)航空
 		- aviatrix (n)女飛行員
@@ -1085,7 +1086,7 @@
 
 	chron 時間
 		+ anachronism (n)時代錯誤/年代誤植/不合時代的人或物 --> anachronistic (adj)時代錯誤的
-		* chronic (adj)慢性的, 長期的/持續的 = long-lasting
+		+ chronic (adj)慢性的, 長期的/持續的 = long-lasting
 		* chronically (adv)慢性地, 長期地
 		- chronology (n)年代學, 年表
 		- chronological (adj)按時間順序的
@@ -1385,7 +1386,7 @@
 		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準
 		*** critic (n)批評者, 評論家
 		*** critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
-		- critique (n/v)評論
+		+ critique (n/v)評論
 		* /ˈkrɪtɪsɪz(ə)m/ criticism (n)批評/指責/反對, 評論/評價
 		+ /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = deplore = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid
 		* hypocrisy (n)偽善 --> hypocritical (adj)偽善的/虛偽的 = insincere
@@ -1427,7 +1428,7 @@
 		+ declivity (n)下坡
 		* /ɪnˈklʌɪn/ incline (v)傾向於, 傾斜 = tendency (n)斜坡/斜面
 		* /ɪnklɪˈneɪʃ(ə)n/ inclination (n)傾向/愛好/意向 = bent, 傾角/斜角
-		+ proclivity (n)壞的傾向/癖性 = propensity = inclination = tendency
+		+ proclivity (n)傾向 = propensity = inclination = tendency
 		- recline (v)斜倚/靠/躺, 靠背可活動後仰
 		- recliner (n)躺椅
 
@@ -1517,6 +1518,7 @@
 		3. 離去/去掉/不 = away == dis
 			+ /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt --> debauchery (n)糜爛/沉湎酒色 <|> debouch <-- de + bauch 責任 = duty, work
 			- /dɪˈbaʊtʃ/ debouch (v)(河川向廣闊處)流出, 進入(開闊地方) <-- de + bouch 嘴 = mouth
+			- decouple (v)分離 = separate = disengage, (電子)去耦, 減低或吸收(核子爆炸之)震波
 			- decriminalization (n)合法化/除罪化
 			- de-emphasize (v)降低..重要性
 			+ defame (v)詆毀/誹謗 = libel = malign = slander = calumniate = denigrate = disparage = smear = vilify
@@ -1800,7 +1802,7 @@
 
 	dote, dose, don 給予 = give
 		+ antidote (n)緩解辦法/對抗手段, 解毒劑
-		+ condone (v)原諒/寬恕 = pardon = excuse, (不請願)認可/贊同
+		+ condone (v)原諒/寬恕 = pardon = excuse, (不情願)認可/贊同
 		- donate (v)捐/捐獻(錢、血或器官等)
 		- donor (n)捐血者/器官捐贈者/捐助者 = benefactor
 		- dose (n)劑量, 一劑
@@ -1940,7 +1942,8 @@
 [E]
 	e
 		1. 出/外/離 = out, outside, away
-			+ ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited = exuberant, 沸騰的 --> ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
+			+ ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited = exuberant, 沸騰的
+			+ ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
 			- edict
 			- educe
 			- ejaculate (v)射精, 飛快地說 (n)射出的精液
@@ -1962,7 +1965,7 @@
 			- emit
 			- emote
 			+ enervate
-			- enormity --> enormous
+			+++ enormity --> enormous
 			+ enumerate --> enumeration
 			+ eradicate
 			- erase
@@ -2053,7 +2056,8 @@
 		+ expound --> exponent --> exponentially
 		+ exposition --> expository
 		- expostulate (v)勸告/告誡 <-- ex + postulate
-		*** express (v)表達, 快遞, 擠壓出 (adj)明確的, 快的, 專門的 --> expressly (adv)清楚地 = explicitly, 特意地 = particularly
+		++ express (v)表達, 快遞, 擠壓出 (adj)明確的, 快的, 專門的
+		+ expressly (adv)清楚地 = explicitly, 特意地 = particularly
 		- expunge
 		+ expurgate (v)刪去(不當處) = censor = bowdlerize <-- ex + purg 清洗 = cleanse + ate
 		- exquisite
@@ -2677,7 +2681,7 @@
 	fuse 傾倒 = pour, melt
 		** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 混合 = confound = jumble = disorder = muddle = mingle = intermingle, 使不安/使羞愧 = abash = disconcert = discomfit 
 		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
-		+ effusive (adj)奔放的/過於流露感情的 = unduly demonstrative, 流出的 = overflowing
+		+ effusive (adj)奔放的/過於流露感情的 = ebullient, 流出的 = overflowing
 		- infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
 		++ /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n) = proliferation
 		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (n)廢物/垃圾 = rubbish = bin
@@ -2981,6 +2985,7 @@
 		- hydrant (n)水龍頭 = faucet, 消防栓 = fireplug
 		- hydrate (n)水化物 (v)水化/水合
 		- hydria (n)水罐
+		- hydrogel (n)水凝膠
 		- hydrogen (n)氫
 		- hydrology (n)水文學 --> hydrologic (adj)
 		- hydrophobia (n)恐水症
@@ -3177,7 +3182,8 @@
 			+ ingrate --> ingratitude
 			- inhumane (adj)不近人情的/不人道的/殘忍的 = cruel = brutal = unkind = wanton
 			- /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 <|> inimical <-- in + imitate + able
-			+ iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin --> iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
+			+ iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin = enormity
+			+ iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
 			+ /ɪˈnɪʃ(ə)l/ initial (adj)開始的/最初的, 首字的 (n)姓名的首字母 (v)簽首字母, 簽字以同意 <-- in + it + ial --> initially (adv)最初/開始
 			** /ɪˈnɪʃɪeɪt/ initiate (v)發起/創始, 入會 <-- initial
 			*** /ɪˈnɪʃətɪv/ initiative (n)主動的行動/倡議, 首創精神/進取心 = enterprise, 主動權, 新作法
@@ -4444,7 +4450,7 @@
 		- nudism (n)裸體主義
 
 	norm 規定 = rule, pattern
-		+++ enormity (n)窮兇極惡/滔天大罪, 巨大/深遠 --> enormous (adj)巨大的
+		+++ enormity (n)窮兇極惡/滔天大罪 = iniquity, 巨大/深遠 --> enormous (adj)巨大的
 		* /nɔːm/ norm (n)標準/規範 = standard (v)調整..以符合規範
 		+ normative (adj)基準的/規範的 <-- norm
 
@@ -4610,11 +4616,12 @@
 			+ overreach (v)做得過頭/伸得過遠, 智勝 = outwit
 			+ overreact (v)反應過度
 			- overrun (v)橫行於/大批出沒於/蔓延於, 跑過, 超越(尤指完成期限或費用) (n)超越限度 (mn)泛濫/橫行
+			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
 			- oversimplify (v)過分簡單化
 			- oversize (adj)特大號的
 			+ overstate (v)誇張/對...言過其實 = exaggerate
 			- overstay (v)停留得過久
-			- oversaturated (adj)過飽和的 = Excessively saturated = supersaturated
+			- overstep (v)超出……的限度
 			- overstimulate (v)過度刺激
 			- overstretch (v)使過分伸張, 做出過度的要求
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
@@ -4670,6 +4677,7 @@
 		* oratorical (adj)演講術的/雄辯術的 = bombastic = grandiloquent = orotund = rhetorical = pompous
 		- oracle (n)神使/傳神諭者, 神諭處, 權威
 		- oratorio (n)清唱劇 = cantata
+		* orator (n)演說者/雄辯家
 
 	ord 命令 = order
 		- order (n)順序/次序, 整齊/有條理, 秩序/治安, 規定, 命令, 訂購/訂單, 訂購品, 判決書, 匯票/匯單, 等級/階層, 社會等級, 特質/本質, 狀態, [生]目, 配備 (v)命令/指揮, 定購/叫, 整理
@@ -6303,7 +6311,9 @@
 		- instate (v)任命/安置 = install = establish <--> reinstate
 		+ institute (v)建立/制定, 提出(訴訟), [宗]任命 = appoint (n)研究所/學院/協會 --> institution (n)組織, 公共團體/機構, 企業, 制度, 家喻戶曉的人物/習俗, 建立
 		- institutionalized (adj)制度化的/有組織的
-		- /ˈɪnstrʊm(ə)nt/ instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 (v)裝配 = equip --> instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的 --> instrumentalist (n)樂器演奏者
+		** /ˈɪnstrʊm(ə)nt/ instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 (v)裝配 = equip
+		** instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的
+		- instrumentalist (n)樂器演奏者
 		- obstacle (n)障礙/干擾
 		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固 = stubbornness
 		+ persist (v)堅持/固執, 持續 = continue to exist = be prolonged
@@ -6566,7 +6576,7 @@
 		+ sensibility (n)敏感/識別力 = sensitivity, 纖細 = delicacy, 感覺
 		- sensitive (adj)敏感的, 神經過敏的/纖細的 = delicate, 易怒的 = cantankerous, 要審慎處理的/機密的 --> sensitivity (n)敏感, 纖細
 		- sensitize (v)[to]使敏感/使敏化 --> sensitization (n)敏化
-		+ sensual (adj)肉體上的/感官享受的
+		+ sensual (adj)肉體上的/感官享受的 --> sensuality (mn)感官滿足
 		+ sensuous (adj)感覺上的, 令人感官愉悅的
 		+ sentient (adj)有知覺的 = conscious
 		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <-- sentence
@@ -7298,6 +7308,7 @@
 		- unbuttoned (adj)鈕扣解開的, [非]放鬆的/無拘束的
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
 		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
+		+ uncommunicative (adj)不愛說話的/沉默寡言的 = taciturn = reticent
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
 		* unconcerned (adj)不擔心的/漠不關心的/無興趣的
 		+ /ʌnˈkɒnʃ(ə)nəbəl/ unconscionable (adj)不合理的 = unreasonable = unwarranted, 不合理地多的
@@ -7306,6 +7317,7 @@
 		* uncouth (adj)粗野的/粗俗的 = gauche = crude
 		* unconventional (adj)不同尋常的/非傳統的 = heterodox = unorthodox = maverick = atypical <|> inconvenient
 		+ uncritical (adj)不加批評的/不願批評的/不加鑑別的
+		* undemanding (adj)要求不高的/不苛嚴的
 		- undemocratic (adj)不民主的
 		- undeserved (adj)不應得的/不該受的 <-- un + deserved
 		- undesirable (adj)令人不悅的/不受歡迎的 = unwanted (n)不受歡迎的人
@@ -7343,6 +7355,7 @@
 		* ungodly (adj)不虔敬的 = irreligious = impious, 不道德的 = immoral = vicious
 		- ungrudging (adj)不吝惜的/慷慨的 <--> grudging
 		+ unguided (adj)無導向的, (飛彈)無導向裝置的
+		- unheralded (adj)未事先宣布的
 		- unimpassioned (adj)心平氣和的
 		+ unimpeachable (adj)無可置疑的 = trustworthy <-- un + impeach + able
 		- unimpressed (adj)沒留下深刻印象的
@@ -7541,6 +7554,7 @@
 	vulg 普遍 = general, common
 		+ divulge (v)洩漏/透露(秘密) = disclose = leak = reveal = uncover
 		** /ˈvʌlɡə/ vulgar (adj)粗俗的 = crude = coarse = unrefined, 下流的/猥褻的 = bawdy = indecent = obscene = filthy = vile = ribald = salacious = wanton, 通俗的/大眾的 = plebeian = current = popular = common 
+		- vulgarity (mn)粗俗
 		- vulgarian (n)俗不可耐的暴發戶/俗人
 		- vulgarize (v)使粗俗, 使通俗化
 
