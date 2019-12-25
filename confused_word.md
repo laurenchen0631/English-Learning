@@ -234,7 +234,7 @@
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow <--> mellow
 - hash <--> mash
-- hatch <--> hitch <--> hutch <--> hut <--> ditch
+- hatch <--> hitch <--> hutch <--> hut <--> ditch 
 - haul <--> hurl <--> overhaul
 - haze <--> hazel
 - head <--> heady <--> heed <--> weed

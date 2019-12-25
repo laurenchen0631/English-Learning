@@ -544,7 +544,7 @@
     +++ chilling (adj)令人恐懼的 = horrifying = frightening
     + chimera (n)幻想/妄想, 奇美拉, 嵌合體
     + chortle (n/v)哈哈大笑 = chuckle
-    + /tʃəːl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的 = boorish = surly = savage
+    + /tʃəːl/ churl (n)粗鄙之人 = boor = savage --> churlish (adj)粗魯無禮的 = boorish = surly = savage = curmudgeonly
     + clamber (n/v)(艱難地)攀登/攀爬/移動 = scramble <-- clamb 爬 = climb + er
     + clan (n)氏族, 親族/宗族, 幫派/集團 --> clannish (adj)排外的/排他的
     + clandestine (adj)(違法的的活動)秘密的/暗中從事的 = surreptitious
@@ -894,7 +894,7 @@
     + draconian (adj)(法律、政府行爲等)嚴苛的/殘酷的 = severe
     + /drəʊl/ droll (adj)離奇好笑的 = whimsically humorous = waggish --> drollness (n) <-- [德]小胖子 = fat little man
     + dross (n)浮渣, 渣滓/廢物 = rubbish <-- dregs
-    ++ due (adj)預期在...發生/計畫在..發生, 應支付的 = mature, 到期的 = owing = owed, 應得的, 合適的 = rightful = proper = fitting, [to]因為/由於 (n)應得權益, 應付款 = fee (ADV)正 = directly <--> undue
+    ++ due (adj)預期在...發生/計畫在..發生, 應支付的 = mature, 到期的 = owing = owed = mature, 應得的, 合適的 = rightful = proper = fitting, [to]因為/由於 (n)應得權益, 應付款 = fee (ADV)正 = directly <--> undue
     + dupe (v)欺騙 = deceive = delude = cozen = trick = hoodwink = hoax (n)受騙者 (n/v)[非](照片)複製 = dupliicate
     + dwarf (n)侏儒 (adj)極小的 (v)使…顯得矮小
     + dwindle (v)變小/衰退 = diminish = degenerate = shrink = shrivel = wither = flag <|> swindle
@@ -1031,7 +1031,7 @@
 [E]
     + eager (adj)熱切的/渴望的 = ardent = keen
     + /ˈɛʃəlɒn/ echelon (n)階層/等級 = rank = grade = level, [軍]梯隊 (v)[軍]列梯隊 <-- [拉丁]梯子 = ladder
-    + echo (n)回聲/回響, 十分相似的東西/仿效 (v)回響/發出回聲, 重複/復述, 讓人想起/與...相似  
+    + echo (n)回聲/回響, 十分相似的東西/仿效 (v)回響/發出回聲, 重複/覆述, 讓人想起/與...相似  
     ++ edge (n)邊/邊緣, 邊緣/時刻, 刃/刀口, (言論)尖銳, 優勢 (v)給……加上邊, 使漸進/徐徐地移動, 使尖銳
     + /ˈɛlɪdʒi/ elegy (n)哀歌/挽歌 = dirge --> /ˌɛlɪˈdʒʌɪək/ elegiac (adj)挽歌的, 哀傷的 (n)輓歌對句
     +++ element (n)要素/成分, 一點, 基礎 = rudiments, 特定的一群人, 化學元素 = chemical element, 適宜的環境, 惡劣天氣, 電熱絲
@@ -1512,7 +1512,7 @@
     ** grim (adj)嚴肅的, 黑色的(幽默), 可怕的/陰森的, 嚴酷的/嚴峻的 = harsh
     * /ɡrʌɪm/ grime (mn)灰塵/髒污 (v)弄髒 = soil --> grimy (adj)沾滿污垢的 = dirty
     * grind (v)磨刀/拋光 = whet, 磨碎/碾碎, 摩擦 = rub (n)磨擦聲, 顆粒大小, 枯燥乏味的工作, [非]書呆子
-    ** groove (n)溝/槽 = gouge, 常規/習慣 (v)在……上開出溝槽, 盡情享受
+    ** groove (n)溝/槽 = gouge, 常規/習慣 (v)在……上開出溝槽, 盡情享受 <|> rut
     *** gross (adj)顯著的/嚴重的 = obvious = unacceptable, 總的 = overall = total, 粗俗的 = rude = vulgar, 臃腫的/胖的, [非]令人討厭的 = unpleasant = repulsive, 整體的 = general (adv)總 (v)總收 (n)12打 = twelve dozen (n)總收入
     * /ɡraʊtʃ/ grouch (v)發牢騷/抱怨 = grumble = grouse = complain (n)好發牢騷的人, 抱怨, 不滿 <|> crouch
     * /ɡrə(ʊ)ˈtɛsk/ grotesque (adj)怪誕的 = absurd = bizarre = ludicrous = quaint (n)怪異風格, 怪誕的圖樣 <|> burlesque
@@ -1619,7 +1619,6 @@
     - gobble (v)貪婪地吃/狼吞虎嚥 = guzzle, 大量消耗, 併吞/掌控, (火雞)咯咯地叫
     - goggle (v)瞪大眼睛看, (眼睛)睜大 (adj)凸眼的 (n)護目鏡, 瞪視
     - gospel (n)福音, 真理, 信條/準則, 福音書, 福音音樂
-    - gourmand (n)貪吃的人 = glutton, 饕客 = gourmet --> gourmandize (v)吃美食
     - gourmet (n)美食家
     - grace (n)優雅, 風度, [graces]魅力, 恩典/慈悲, 善意, 寬限, 感恩祈禱 (v)使增光, 裝飾
     - gracious (adj)和藹的/慈祥的 = benign = generous, 富足安逸的/華美的 (excl)哎呀/天哪
