@@ -187,7 +187,7 @@
 		+ anticipate
 
 	amat, amor, am 愛 = love, friendly = phil
-		- /ˌaməˈtəː/ amateur (n)業餘愛好者 = dilettante --> amateurish (adj)不熟練的/外行的
+		+ /ˌaməˈtəː/ amateur (n)業餘愛好者 = dilettante --> amateurish (adj)不熟練的/外行的
 		+ ambrosia (n)美味佳餚/仙饈
 		- amorous (adj)多情的/色情的, 戀愛的
 		+ amiable (adj)(自己)和藹的 = affable <-- amicable
@@ -463,6 +463,7 @@
 		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate --> authenticity (n)真偽/真實性/可靠性
 		- authorship (n)著作者的身分
 		* authoritarian (adj)獨裁的/專制的, 專制的/專橫的 = dictatorial (n)獨裁主義者
+		- authoritarianism (n)專制主義/獨裁主義, 獨善其身
 		+ authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
 		+ /ɔːˈθɒrɪti/ authority (n)權威/權力
 		- authorize (v)授權, 批准 = approve = permit = ratify
@@ -627,6 +628,7 @@
 			- collate
 			- collateral
 		    - college (n)大學, 團體/協會 <-- col + lege 委任 = depute
+			- collegial (adj)分工協作共同承擔責任的工作方式, 學院的/學院學生的
 			- colloquial
 			- colloquium
 			+ collude --> collusion
@@ -1385,7 +1387,7 @@
 	crit 判斷 = judge, umpire == arbit
 		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準
 		*** critic (n)批評者, 評論家
-		*** critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
+		+ critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
 		+ critique (n/v)評論
 		* /ˈkrɪtɪsɪz(ə)m/ criticism (n)批評/指責/反對, 評論/評價
 		+ /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = deplore = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid
@@ -2605,7 +2607,7 @@
 		+ flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
 
 	front 前面/臉面 = forehead
-		- affront (v)侮辱/冒犯 = insult = abuse = offend
+		+ affront (v)侮辱/冒犯 = insult = abuse = offend
 		- confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
 		+ effrontery (n)厚顏無恥/放肆 = impudence = presumption
 
@@ -2998,6 +3000,7 @@
 	habit, hibit 擁有/居住 = have, own, hold, dwell == propr
 		- cohabit (v)共棲/同居
 		** exhibit (v)展出/展示, 表現/顯出 = manifest (n)展品/展出物, 展覽, 證物/證據 --> exhibition (n)
+		- exhibitionist (n)好出風頭的人 (adj)好出風頭的
 		+ /ˈhabɪtat/ habitat (n)棲息地
 		- habitant (n)居民 = inhabitant
 		- habitable (adj)可居住的/適合居住的
@@ -3132,6 +3135,7 @@
 			- incompetent (adj)無能力的/不能勝任的 = impotent, 無行為能力的 (n)無行為能力人 <-- in + competent
 			+ inconclusive (adj)非決定性的/不確定的
 			+ incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
+			+ inconsolable (adj)無法安慰的
 			- inconsonance (mn)不協調/不和諧 = disagreement
 			+ inconsequential (adj)不重要的 = trivial = frivolous = futile
 			+ inconsiderable (adj)無足輕重的/不值得考慮的 <--> considerable
@@ -3296,7 +3300,7 @@
 			+ innate
 			- incandescent --> incandescence
 			- incarcerate (v)監禁/關押 = imprison = confine = immure <-- in + carcer 監牢 = prison + ate
-			- imprison (v)監禁/關押
+			+ imprison (v)監禁/關押
 			+ incarnate
 			+ incarnadine
 			+ incendiary
@@ -3535,7 +3539,7 @@
 	ject 扔/拋 = throw
 		++ abject (adj)糟透的, 可鄙的/卑劣的 = contemptible = despicable <|> abjure <|> adjure
 		+ conjecture (n/v)猜測/猜想 = speculate
-		- deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
+		+ deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- ejecta (n)噴出物
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
 		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
@@ -3561,7 +3565,7 @@
 		- jury (n)陪審團 = tribunal, 評審委員會 (v)評審(展覽)
 		- juror (n)陪審員/陪審團成員
 		- perjure (v)使作偽證/為……作偽證
-		- perjury (n)偽證, 偽證罪
+		- perjury (n)偽證, 偽證罪 --> perjurious (adj)
 	
 	just, jury, jur 正確 = right
 		+ adjust (v)調整, 使適應 = adapt = accustom = accommodate
@@ -3840,6 +3844,7 @@
 		- relapse (v)(疾病)復發, 故態復萌 (n)舊病復發
 
 	late 拿 = bear
+		+ ablate (v)(手術)切除, 侵蝕
 		- collate (v)對照/核對, 整理(報告、書等) <|> collateral
 		*** translate (v)翻譯, 解釋/說明, 轉移/調動/使變動
 		+ elate (v)使得意/使興奮 = exalt <|> elevate --> elated (adj)興高采烈的 = exultant --> elation (n) = euphoria
@@ -3856,6 +3861,7 @@
 		- equilateral (adj)等邊的
 		- /ˈlat(ə)rəl/ lateral (adj)側面的/橫的/橫向的, 側音的 (n)側面, 側音
 		* unilateral (adj)單方面的, 單邊的
+		- unilateralism (n)單邊主義
 
 	liter 文字 = letter
 		+ literal (adj)字面上的/原義的, 如實的/精確的 = accurate = actual = factual, 字母的, 乏味的/平凡的 = prosaic
@@ -3952,6 +3958,7 @@
 		- mismatch (n)不一致, 實力懸殊的比賽 (v)使錯配/使不適當地在一起
 		+ misnomer
 		- misperceive (v)誤解 = misunderstand
+		- misread (v)讀錯, 錯誤地解釋
 		+ misrepresent (v)誤傳/歪曲 = distort
 		- misshapen (adj)畸形的/奇形怪狀的
 		- mistake (n)錯誤, 錯誤/不精確 (v)錯看 = be wrong about, [for]認錯
@@ -4404,7 +4411,7 @@
 		- economy --> economics
 
 	nom, nomin, nome 名字 = name == onym
-		- /ˈɪɡnəmɪni/ ignominy (n)恥辱 = shame = disgrace --> ignominious (adj)可恥的 = contemptible = despicable
+		+ /ˈɪɡnəmɪni/ ignominy (n)恥辱 = shame = disgrace --> ignominious (adj)可恥的 = contemptible = despicable
 		+ nominal (adj)名義上的/有名無實的, 名目上的/與實際價值不相符的, 微不足道的(費用), 名詞性的
 		- nominate (v)提名, 任命/指定 = appoint
 		- nominative (adj)主格的, 被提名的 (n)主格
@@ -4666,6 +4673,7 @@
 		- /ɒmˈnɪpət(ə)nt/ omnipotent (adj)全能的/萬能的 = almighty, 有無限權力或力量的
 		+ omnipresent (adj)遍及各處的, 無處不在的 = ubiquitous --> omnipresence (n) = ubiquity
 		- omniscient
+		- omnivorous
 
 	ore, ora 講話 = speak, beg == dic == cant == fable == log == nounce
 		* adore (v)崇拜/敬仰/熱愛 = admire = acclaim, 崇敬 = worship = venerate, 極喜歡
@@ -5513,7 +5521,7 @@
 		* /ˈpeɪtr(ə)n/ patron (n)贊助者/資助者, 老主顧
 		* patronage (n)資助/贊助 = auspices, 經常光顧/惠顧, 權力/特權 = right, 恩賜態度
 		+++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 經常光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
-		- repatriate (v)遣返/送..回國 (n)被遣返回國者
+		+ repatriate (v)遣返/送..回國 (n)被遣返回國者
 
 	pli, plic, plex, ply 彎 = fold, plait
 		- accomplice (n)同謀/幫凶 = conspirator = collaborator
@@ -6358,6 +6366,7 @@
 
 	struct 建立 = erect
 		- construct (v)建造/構築, 構想/編造 = form (n)構想/概念 <|> constitute
+		+ constructive (adj)建設性的/有助益的, [法]推定的
 		- destruction (n)毀滅/消滅, 毀滅的原因
 		- infrastructure
 		+ instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
@@ -7296,7 +7305,7 @@
 		- unabashed (adj)不害羞的/厚臉皮的
 		* unaccustomed (adj)[to]不習慣的/不熟悉的, 不尋常的
 		+ unadorned (adj)未經裝飾的/樸素的 = plain
-		- unaffected (adj)自然的/不矯揉造作的, 不受影響的
+		+ unaffected (adj)自然的/不矯揉造作的, 不受影響的
 		+ inalienable (adj)不可剝奪的/不可分割的 = unalienable (adj)不可剝奪的/不可分割的 = inalienable
 		+ unambiguous (adj)不含糊的/清楚明白的 = unequivocal
 		+ unanticipated (adj)未預料到的/意料之外的 = unexpected
@@ -7421,6 +7430,7 @@
 		- unsustainable (adj)無法支撐的/無法維持的
 		+ unsympathetic (adj)不同情的/冷漠的, 沒有共鳴的/不同意的, 不討人喜歡的 = unlikeable
 		+ untapped (adj)未開發的/未利用的
+		- untether (v)從繩或鍊上解開
 		+ untempered (adj)無節制的, 未經錘鍊的
 		+ untenable (adj)難以防守的/站不住腳的 
 		+ untested (adj)未經考驗的/未經試驗的
@@ -7460,7 +7470,7 @@
 		+ undermine (v)暗中破壞/逐漸損害, 侵蝕 = erode, 在……下挖坑道
 		- underperform (v)表現不佳
 		+ underplay (v)對……輕描淡寫 = downplay = underestimate = deemphasize, 含蓄地表演 = underact
-		- underrate (v)低估 = underestimate = underprice = undervalue
+		+ underrate (v)低估 = underestimate = underprice = undervalue
 		- underreport (v)未全面報告
 		- underrepresented (adj)未被充分代表的/代表名額不足的
 		+ underscore (v)在...之下畫線 = underline, 強調 = emphasize
@@ -7685,6 +7695,7 @@
 
 	vari 多樣的 = variegated, manifold, diverse
 		- variance (n)不同/變化/變動, 矛盾/分歧
+		- variant (n)變體
 		+ variable (adj)易變的/多變的, 可變的 (n)易變物/可變因素, 變數, 變星(指亮度與電磁輻射不穩定的，經常變化並且伴隨著其他物理變化的恆星) = variable star
 		- variability (n)變化性/易變性
 		+ variegate (v)使多樣化, 使色彩斑駁 = mottle --> variegated (adj)多變的/多種多樣的 = varied = diverse = motley, 雜色的/色彩斑駁的
@@ -7808,6 +7819,7 @@
 		+ herbivorous
 		- devour (v)狼吞虎嚥/吞食 = raven, 吞噬/毀滅, 如饑似渴地閱讀
 		- locavore
+		- omnivorous (adj)雜食的
 		+ voracious (adj)狼吞虎嚥的 = ravenous, 狂熱的 --> voracity (n)狼吞虎嚥
 
 	voy, vey, vi 道路 = way, road

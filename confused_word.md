@@ -83,6 +83,7 @@
 - compass <--> compassion <--> encompass
 - complement <--> compliment <--> compliance
 - compromise <--> uncompromising
+- condone
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - consort <--> consortium <--> comport
@@ -506,7 +507,7 @@
 - serendipitous <--> serpentine
 - sententious
 - severe <--> sever <--> serve
-- sew <--> sewer <--> sewage
+- sew <--> sewer <--> sewage <--> sow
 - shatter <--> shattered
 - sheaf <--> sheath
 - shed <--> shred
@@ -524,6 +525,7 @@
 - sleight <--> sleigh
 - slouch <--> slough
 - stationery <--> stationary
+- smooth <--> soothe
 - smudge <--> nudge
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
@@ -547,6 +549,7 @@
 - stifle <--> strife <--> strive 
 - stride <--> strident
 - strike <--> stroke
+- strip <--> strap
 - streak <--> steak
 - struggle <--> straggle
 - stub <--> stud
@@ -560,11 +563,14 @@
 - tangle <--> mangle
 - tangible <--> tangential
 - telltale <--> untold
-- temper <--> temperate <--> temperamental <--> temperance <--> temperature
+- temerity <--> temerarious
+- temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
 - tend <--> tender <--> tendentious
+- tenebrous
 - thick <--> thicket
 - through <--> trough
-- toll <--> atoll <--> extolling
+- toll <--> toil <--> atoll <--> extolling
+- torpid <--> tumid <--> turgid <--> trepid
 - trapping <--> trap
 - tract <--> tractable <--> traction <--> intractable
 - treat <--> treatise <--> treaty

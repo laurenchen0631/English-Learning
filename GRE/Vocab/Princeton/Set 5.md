@@ -39,13 +39,13 @@
 	1. canniness
 	1. perfidy
 
-6. **While** blood and human sacrifices performed to **mollify** the gods were **ubiquitous in ancient cultures**, the Mayans` propensity for sacrificing prisoners from neighboring tribes _____ all the other tribes.
-	1. imprisoned
+6. **While** blood and human sacrifices performed to **mollify** the gods were **ubiquitous in ancient cultures**, the Mayans' propensity for sacrificing prisoners from neighboring tribes _____ all the other tribes.
+	1. *imprisoned*
 	1. engendered
 	1. [O] disquieted
 	1. *expatiated*
 	1. *condoned*
-	1. [?] affronted
+	1. [?] *affronted*
 
 7. **In contrast to the stark facades** of their surviving ruins, medieval castles were depicted in contemporary *tapestries* as _____ with colorful banners and *pennants*.
 	1. *ablated*
@@ -63,7 +63,7 @@
 	1. [O] *sententious*
 	1. *unaffected*
 
-9. Many senior faculty members who were accustomed to being addressed in a more *collegial* and **egalitarian manner were alienated** by the _____ tone of the new department chair`s introductory remarks.
+9. Many senior faculty members who were accustomed to being addressed in a more *collegial* and **egalitarian manner were alienated** by the _____ tone of the new department chair's introductory remarks.
 	1. *ignominious*
 	1. imperious
 	1. peremptory
@@ -71,7 +71,7 @@
 	1. sanguine
 	1. saturnine
 
-10. Meant to demonstrate an air of sophistication and worldliness, the comments that Hannah made upon exiting the building served only to emphasize her _____ mentality and reinforce Mr. Hassan`s conviction that her dismissal was justified because she was **not yet mature enough** for the corporate world.
+10. Meant to demonstrate an air of sophistication and worldliness, the comments that Hannah made upon exiting the building served only to emphasize her _____ mentality and reinforce Mr. Hassan's conviction that her dismissal was justified because she was **not yet mature enough** for the corporate world.
 	1. adroit
 	1. venal
 	1. puerile
@@ -94,6 +94,70 @@
 	1. an artful
 	1. a *crackerjack*
 	1. an affable
+
+13. The photographer _____ posed the bride for her portrait, **carefully adjusting** each fold of her dress and each curl of her hair before taking the picture.
+	1. meticulously
+	1. frantically
+	1. subversively
+	1. hectically
+	1. fastidiously
+	1. hysterically
+
+14. After finishing the editing workshop, the writers found that they were able to give each other _____ comments, **instead of the general and unhelpful suggestions** they had been making beforehand.
+	1. *cursory*
+	1. derisive
+	1. superficial
+	1. amateurish
+	1. critical
+	1. *constructive*
+
+15. Many admirers of art _____ the beauty of Jackson Pollock's paintings, **while others disparage** the *splatters* of color as simplistic.
+	1. defame
+	1. overlook
+	1. ignore
+	1. commend
+	1. underrate
+	1. extol
+
+16. **Expecting Tom to protest** the poor grade on his psychology paper, the professor was disheartened when he _____ tossed it in his bag and **left the room.**
+	1. gingerly
+	1. flippantly
+	1. timidly
+	1. prudently
+	1. *thoughtlessly*
+	1. delicately
+
+17. The stock market having **plunged drastically**, the investor's _____ **mood** on the trading floor **seemed incongruous.**
+	1. enervated
+	1. sanguine
+	1. *inconsolable*
+	1. sardonic
+	1. funereal
+	1. buoyant
+
+18. Hundreds of _____ fans **waited in line for hours** at the comic book convention to talk to **their favorite artists** and buy limited-edition toy *variants* otherwise unavailable.
+	1. [O] *staunch*
+	1. malodorous
+	1. hirsute
+	1. [O] zealous
+	1. noisome
+	1. impecunious
+
+19. The group's final paper, **replete with errors** in spelling, diction, and idiom, showed every sign of having been given only _____ **proofreading**.
+	1. an artless
+	1. [O] a cursory
+	1. an *extraneous*
+	1. a fastidious
+	1. a meticulous
+	1. [O] a perfunctory
+
+20. Releasing a series of solo recordings, collaborating with such musicians as David Byrne and Robert Fripp, and producing artists from Devo to U2 made Brian Eno so _____ for a time that one music industry observer was moved to note that "Brain Eno is **everywhere-like God**, or salt."
+	1. *omnivorous*
+	1. ignoble
+	1. fortuitous
+	1. omnipresent
+	1. *odious*
+	1. ubiquitous
 
 ## Review
 6. 選 mollify 的反義詞
@@ -129,3 +193,16 @@
 - collegial (adj)分工協作共同承擔責任的工作方式, 學院的/學院學生的
 - dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged
 - crackerjack (adj)傑出的 (n)傑出的人物
++ cursory (adj)倉促的/匆忙的 = hasty = superficial
+- amateurish (adj)不熟練的/外行的
+- constructive (adj)建設性的/有助益的, [法]推定的
+- splatter (v)潑濺 = splash, [非]轟動地發表(故事)於報紙上 (n)濺出物, [非]血腥暴力的(電影)
+- underrate (v)低估 = underestimate = underprice = undervalue
+- thoughtless (adj)不顧及他人的, 欠考慮的
+- inconsolable (adj)無法安慰的
+- variant (n)變體
++ staunch (v)止血 (adj)忠誠的 = loyal, 堅固的(牆壁)
++ impecunious (adj)貧窮的 = indigent = needy = poor = destitute = penniless = penurious
++ extraneous (adj)外來的 = extrinsic, 無關的 = irrelevant
+- omnivorous (adj)雜食的
+- odious (adj)可憎的/討厭的 = repulsive 

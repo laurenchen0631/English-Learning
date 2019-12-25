@@ -510,6 +510,8 @@
 - put a spin on sth 傳遞(資訊) == To report or relay information to someone else in a way that makes their interpretation or understanding of it more palatable, acceptable, or favorable.
 	- Though the crime rate was still higher than anywhere else in the country, the police commissioner tried to put a positive spin on the report by applauding that the city had a 10% crime reduction from the previous year.
 	- No matter what the facts are, they're going to try to put a spin on it one way or another—that's what PR companies do!
+- punch above one's weight 能和高於自己重量級別的對手較量/超常發揮
+	- Singapore punches above its weight in the world economy.
 - rear its (ugly) head (令人不快的事情)發生 == (of something unpleasant) to appear
 	- The familiar spectre of drought and famine has reared its ugly head again.
 - search/hunt high and low 到處找 == to search everywhere for something
@@ -668,6 +670,8 @@
 	- His suggestions just muddied the waters further, rather than helping the situation.
 - off the map 不再知名 == no longer famous or relevant
 	- Mary Kate and Ashley are long off the map if you ask me.
+- on a roll 連連獲勝/好運連連
+	- Pippa won five games in a row and it was obvious she was on a roll.
 - on standby 隨時待命
 - on the chopping block 可能要被開除或消滅的
 	- There were several government programs on the chopping block.
@@ -816,3 +820,4 @@
 - knock-on effect (n)連鎖反應
 	- If one or two trains run late, it has a knock-on effect on the entire rail service.
 - vested interest (n)既得利益 --> vested interest (n)既得利益人群/既得利益集團
+- smoke and mirrors (n)謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
