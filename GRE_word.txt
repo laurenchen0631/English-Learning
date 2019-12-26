@@ -538,6 +538,7 @@
     + chauvinism (n)沙文主義/大國沙文主義/男性沙文主義 = jingoism --> chauvinist (n)沙文主義者 --> chauvinistic (adj)沙文主義/大男人主義的/本國至上主義的/盲目愛國的
     ++ check (v)檢查/核對/確認, 阻礙/抑制/阻止 = arrest = hinder = deter = stymie = hamper = thwart, 托運(行李), 寄存/寄放 = lodge (n)檢查/核對, 控制 = control = restraint, 支票, 餐廳帳單, (寄放物品的)對碼牌, 勾 = check mark = tick
     + checker, chequer (n)棋盤花紋, 出納員/審核員 (v)使交替變化 --> checkered (adj)多變的/不規則的
+    - checkup (n)健康檢查
     + cherish (v)珍愛/愛護, 抱有/懷有 = entertain = harbor
     ++ /ʃəˈkeɪn/ chicane (v)詐騙/欺騙 = deceive = defraud = bilk --> chicanery (n)詭計/欺詐 = trickery = fraud = deceit
     +++ chill (n)寒冷/寒氣, 風寒, 掃興/心寒, 寒顫, 冷凝鐵鑄模 (v)使感到冷, 冷藏, 使變冷, 使打寒顫, 冷激鑄造, 冷靜/放鬆, 打發時間 (adj)冷的 = chilly, 好相處的
@@ -1601,6 +1602,7 @@
     - gleam (v)發微光/閃耀 (n)微光/閃光, 一絲(情感) --> gleaming (adj)閃亮的
     - glimmer (v)發微光 (n)微光, 少許
     - glitter (v)閃閃發光, [with](眼中)閃爍 (n)閃光/閃耀, 閃爍(情感) (mn)小發光物, 華麗/光彩
+    - glittery (adj)閃爍的, 發光材料裝飾的, 迷人但膚淺的
     - glisten (n/v)閃耀/閃爍/反光 <-- glitter
     - glitch (n)小故障, 差錯 = setback (v)故障
     - glitz (n)[非]浮華 (v)[非]使浮華
@@ -2169,6 +2171,7 @@
     - lilt (n)抑揚頓挫, 輕快旋律 (v)歡快節奏唱
     - limb (n)肢/臂/腳/翼, 大樹枝
     - limber (adj)(人)柔軟的 = lithe, 易彎曲的 = flexible = supple (v)做準備運動
+    - limbo (n)地獄的邊境, 中間狀態, 被遺忘狀態
     - lime (n)石灰, 萊姆, 萊姆口味的飲品, 萊姆樹, 萊姆綠, 非正式社交聚會 (v)撒石灰於...以降低酸度, 上石灰於(木頭), 坐下閒聊 
     - limerick (n)五行打油詩
     - limestone (n)石灰岩 <-- lime + stone
@@ -3298,7 +3301,7 @@
     + sharpen (v)削尖, [up]改善 = improve
     +++ /ʃɪə/ sheer (adj)全然的/完全的 = unmitigated = unqualified = stark, 垂直的 = perpendicular, 極薄的 = diaphanous (adv)垂直地 (n)薄紗 = gossamer, 急轉向 (v)船急轉向, 避開/逃避 <|> queer
     ++ shift (v)移動/搬移(短距離), 轉移(注意), 換(檔) (n)轉變, 變速裝置, 輪班, 輪班職工
-    ** shifty (adj)躲躲閃閃的/狡詐的 = sly = cunning, 變化的 = shifting  --> shiftiness (n)奸詐
+    ** shifty (adj)躲躲閃閃的/狡詐的 = sly = cunning, 變化的 = shifting --> shiftiness (n)奸詐
     - shiftless (adj)無志氣的/偷懶的
     + shirk (v)逃避(責任) = evade = eschew = shun, [from]不願做 <|> shrink
     + shortcoming (n)缺點/短處 = failing = fault = defect = weakness
@@ -3857,6 +3860,7 @@
     - squint (v)眯著眼看, 患斜視 (n)斜眼, 一瞥
     - squirrel (n)松鼠 (mn)松鼠毛皮 (v)[away]把……藏起來, 偷偷摸摸行動
     - /skwəːt/ squirt (v)噴射/噴出, 傳送(資料) = transmit (n)一束, 噴射器
+    - squishy (adj)濕軟的
     - stake (n)樁, 火刑柱, 賭金, 股本/股份, 賽馬的獎金, 有獎賽馬, 有獎比賽 (v)以樁支撐(植物), [out]明確界定對(某地)的所有權, 押注, 資助
     - stalemate (mn)僵局/僵持局面, (下棋)無子可動 (v)使…陷入僵局
     - stalk (n)莖/稈/葉柄/花梗/果柄, 跟蹤, 昂首闊步 (v)偷偷靠近/跟蹤, 非法跟蹤騷擾, 怒氣衝衝地走/趾高氣揚地走
@@ -3999,6 +4003,7 @@
     ++ tout (v)兜售, 宣揚/吹捧 = promote, 提供賽馬情報 (n)提供賽馬情報的人 <|> stout
     +++ trace (v)查出/探出, 追溯, 追蹤, 描摹/複寫, 描繪 = = sketch = delineate, 勾出……的輪廓 (n)痕跡/蹤跡, (利用電子儀器的)追蹤, 微量/少許 = scintilla, 追查, 輪廓線, 挽繩/韁繩
     + trample (v)用力踩踏/踐踏 = tread = stamp, [on/upon/over]藐視/輕蔑地對待 (n)踩踏聲
+    - trampoline (n)蹦床/彈翻床
     + tranquil (adj)平靜的 = clam = peaceful = unagitated = serene = placid --> tranquility (n)寧靜/安靜 = calm
     + traumatic (adj)令人痛苦的/令人抑鬱的 = disturbing = distressing = stressful, 心理創傷的, 外傷的
     - traumatize (v)使受損傷/使精神創傷
@@ -4014,54 +4019,58 @@
     + trigger (n)板機, (事件的)導火線 (v)引發/導致
     + /ˈtrʌɪʌmf/ triumph (n/v)凱旋/勝利/成功 = victory = conquest, 歡欣 = exultation = jubilation
     + triumphant (adj)勝利的 = victorious, 歡欣的 = exultant = jubilant
-
-    + tribulation (n)苦難/磨難 = suffering
-    +++ /ˈtrɪvɪəl/ trivial (adj)瑣碎的/不重要的 = inconsequential = lilliputian = trifling = nugatory = petty = frivolous = paltry = slight --> trivialize (v)使顯得不重要/輕視
+    + tribulation (n)苦難的緣由/煩惱事 (mn)苦難/磨難 = suffering
+    + /ˈtrɪvɪəl/ trivial (adj)瑣碎的/不重要的 = nugatory = petty = frivolous = paltry = slight, 過度在意小細節的 = petty
+    + trivialize (v)使顯得不重要/輕視
     + truculent (adj)好鬥的 = belligerent = defiant --> truculence (n) = aggressiveness <-- truc 兇猛 = savage + ulent
     + truncate (v)截短/縮短 (adj)截頭的/去尾的 <-- trunk
-    + /trɪst/ tryst (n/v)約會/幽會 = rendezvous = date = engagement
-    + /ˈtəːpɪtjuːd/ turpitude (n)腐化/邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
-    ++ /ˈtjuːtɪlɪdʒ/ tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution --> tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
-    + /ˈtɪr(ə)ni/ tyranny (n)暴政/專制統治, 暴行 --> /ˈtʌɪr(ə)nt/ tyrant (n)暴君 = despot
+    + /trɪst/ tryst (n/v)幽會 = rendezvous = date = engagement
+    + /ˈtəːpɪtjuːd/ turpitude (mn)邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
+    + tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution
+    + tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
+    + /ˈtɪr(ə)ni/ tyranny (n)暴政, 暴行/暴虐
+    + /ˈtʌɪr(ə)nt/ tyrant (n)暴君 = despot, 霸鶲 = tyrant flycatcher
     + /ˈtʌɪrəʊ/ tyro, tiro (n)新手 = beginner = neophyte = novice = fledgling
 
     * /təˈbuː/ taboo (n)禁忌/忌諱 (adj)禁忌的/禁止的 (v)把...列為禁忌/禁止
-    ** /ˈtak(ə)l/ tackle (n)用具, 滑車, 滑車組, 擒抱摔倒 (v)擒抱, 阻截鏟球, 鏟球, 著手處理, 與……交涉
-    * tactless (adj)不機智的/笨拙的/無策略的 = impolitic = gauche
-    * taint (v)污染/腐化 = corrupt, 玷污 = sully = stain = tarnish = besmirch = smear (n)汙染, 感染, 玷汙/汙點
+    *** /ˈtak(ə)l/ tackle (n)用具, 滑車, 滑車組, 擒抱摔倒 (v)擒抱, 阻截鏟球, 鏟球, 著手處理, 與……交涉
+    * tactless (adj)不得體的/不圓滑的 = impolitic = gauche
+    * taint (n)汙點, 有負面影響的事物, [俗]會陰 = perineum (v)汙染, 玷汙
     * talkative (adj)健談的 = loquacious = voluble
-    * tame (adj)馴服的 = domesticate, 溫順的 = subdue, 乏味的/單調的 = insipid = dull (v)馴化/馴養 = domesticate, 使順從 = subdue = humble, 使柔和 = subdue = soften = tone down
-    * tangle (v)使糾纏/使纏住, 使捲入 = entangle, 使混亂 (n)纏結, 紛亂/混亂
-    * tap (n)水龍頭, 竊聽器, 塞子, 輕拍/輕敲 (v)竊聽, 鑽, 抽水, 開發/開闢, 輕拍/輕敲
-    * tear -> tore -> torn (v)撕 = rend = lacerate, 拉扯, 撕掉 = remove, 奮力去做, 流淚 (n)撕裂傷, 眼淚, 悲傷 = sorrow --> tearful (adj)流淚的/哭泣的/令人傷心的 = mournful = lachrymose
+    * tame (adj)馴服的 = domesticate, [非]溫順的 = subdue, 乏味的/單調的 = insipid = dull, 栽培的(植物) (v)馴化/馴養 = domesticate, 使順從 = subdue = humble
+    * tangle (v)使糾纏/使纏住, 使混亂/使複雜, [非][with]使捲入 = entangle (n)纏結, 紛亂/混亂, [非]糾紛, 海帶/昆布 = sea tangle
+    ** tap (n)水龍頭, 竊聽器, 塞子, 輕拍/輕敲 (v)竊聽, 鑽, 抽水, 開發/開闢, 輕拍/輕敲
+    ** tear -> tore -> torn (v)撕 = rend = lacerate, 拉扯, 撕掉 = remove, [非]狂奔, [be torn]拉扯, 流淚 (n)扯破的洞, 短暫的放縱 = spree, 短暫的成功, 眼淚
+    * tearful (adj)流淚的/哭泣的, 令人傷心的 = mournful = lachrymose
     * /tiːm/ teem (v)[with]充滿, 傾盆 <|> team /tiːm/ 
     * /θɔː/ thaw (v)(冰)融化/融解, 變暖和, 變得隨和 (n)解凍時期, 融洽 <--> /θɔːt/ thought 
-    * /θɪˈatrɪk(ə)l/ theatrical (adj)劇場的/戲劇的, 戲劇性的/誇張的 <-- theater 
-    * theft (n)偷竊/盜竊 = larceny
-    * thorn (n)刺/棘 = spine, 惱人的事物
+    * /θɪˈatrɪk(ə)l/ theatrical (adj)劇場的/戲劇的, 戲劇性的/誇張的 (n)專業演員 <-- theater 
+    * theft (mn)偷竊/盜竊 = larceny
+    * thorn (n)刺/棘 = spine, 有刺植物, 惱人的事物
     * thorny (adj)有棘刺的, 棘手的/麻煩的
-    * /θrɔːl/ thrall (n)奴隸/俘虜 = slave, 奴役/束縛
-    * /θrɛd/ thread (n)線, 一絲, 頭緒, 螺紋 = screw (v)使穿過, 除毛
-    * /trɛd/ tread -> trod -> trodden (v)踩/踏 = trample, 行走 = step = walk (n)踩/踏, 足音, 樓梯踏板, 胎面, 鞋底, 輪距 <|> thread <|> treat
-    * /θrɛt/ threat (n)威脅/恐嚇, 凶兆 --> threaten (v)威脅/恐嚇 = menace, 預示/是……的徵兆 --> threatening (adj)脅迫的/威脅的 = menacing, 險惡的  <--> unthreatening
-    * trapping
-    *** treat (v)對待/看待, 處理, 探討, 治療, 宴請 (n)請客, 難得的樂事 <|> threat
+    * /θrɔːl/ thrall (n)奴役/束縛
+    * /θrɛd/ thread (n)線, 思路, 螺紋 = screw thread, [非]衣物 = clothes (v)穿(針或線), 使穿過, 通過/穿過, 交織 = interweave, 刻螺紋於
+    * /trɛd/ tread -> trod -> trodden (v)行走 = step, 踩/踏 = trample (n)足音, 踏板 = tread board, 胎面, 鞋面 <|> thread
+    * /θrɛt/ threat (n)威脅/恐嚇 --> threaten (v)威脅/恐嚇 = menace, 危害 = endanger, (壞事)逼近 --> threatening (adj)脅迫的/威脅的 = menacing <--> unthreatening
+    * trappings (n)(特定工作、處境或事件的)從屬物/標誌, 馬飾
+    *** treat (v)對待, 視為, 提出(主題)供討論, 治療, (用特殊物質)塗抹/處理, 請客/款待, 協商 = negotiate (n)難得的樂事, 請客, 糖果
     * treaty (n)條約/協議 <-- tractate
-    * tip (n)頂/尖端/梢/末端, 垃圾場, 小費, 指點/指導, 內幕消息 (v)(使)傾斜/傾倒, 覆蓋…的尖端, 小費, [off]向...洩露消息
-    * tolerate (v)寬容/容忍 = abide, 忍耐/忍受 --> tolerant (adj)寬容的/容忍的, 忍耐的/忍受的 --> tolerance (n)容許量/公差, 容忍/忍受
-    * totter (v)踉蹌/蹣跚, 搖晃, 搖搖欲墜
+    *** tip (n)頂/尖端/梢, 小費, 小建議, 內幕消息 (v)覆蓋…的尖端, 翻倒, 傾斜, 輕擊/輕觸, 給..小費, [非][off]向...洩露消息
+    * tolerate (v)寬容/容忍 = abide, 忍耐/忍受 --> tolerant (adj)寬容的/容忍的, 有耐受性的
+    * tolerance (n)寬容/寬大, 忍耐力, 耐受性/耐藥量
+    * totter (v)踉蹌/蹣跚, 搖搖欲墜 (n)蹣跚
     * tow (v)拖/拉/牽引 (n)亞麻纖維
-    * tremble (n/v)顫抖/發抖 <-- trem
-    *** tremendous (adj)巨大的/極大的, 極度的/驚人的, 可怕的 <-- trem
+    * tremble (v)顫抖/發抖 = shake = quiver, 焦慮/擔憂 (n)顫抖/發抖, 牛馬震顫病 = milk sickness
+    *** tremendous (adj)巨大的/極大的, [非]傑出的/一流的 = excellent<-- trem
     * trench (n)溝, 壕溝, 海溝, 風衣 = trench coat (v)挖溝 <|> trenchant <|> entrench <|> retrench
-    * tuber (n)塊莖, [解剖]結節/隆起/腫脹
-    * tuck (v)塞進/藏入, 舒服地裹好, 折疊/捲起/挽起 (n)褶, 減脂手術
-    * turf (n)草皮, 用草皮覆蓋, 泥炭/泥煤, 賽馬場, 地盤
+    * tuber (n)塊莖, [解]結節
+    * tuck (v)塞進/藏入, 舒服地裹好, 打褶 (n)褶, 減脂手術
+    * turf (n)草皮, 泥炭/泥煤, 賽馬場, 地盤 (v)用草皮覆蓋
     * turnout (n)出席者/聚集人數, 側線/岔線, 衣著/裝束
     * tug (v)用力拉或拖, 用拖船拖 (n)牽引/拖曳, 拖船 = tugboat, 韁繩
-    *** tumble (v)跌落, 衝出, 暴跌, 弄亂 = rumple, 翻筋斗, [to]理解...的含義, 打磨 (n)跌落, 暴跌, 凌亂, 筋斗
-    * /ˈtəːmɔɪl/ turmoil (n)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
-    * twine (n)麻線, 盤繞/纏繞 (v)使交織/編織, 使環繞/使懷抱, 蜿蜒
+    *** tumble (v)跌落, 衝出, 暴跌, 弄亂 = rumple, 翻筋斗, [非][to]理解...的含義, 打磨 (n)跌落, 暴跌, 凌亂, 筋斗
+    * /ˈtəːmɔɪl/ turmoil (mn)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
+    * twine (n)麻線 (v)使盤繞, 使交織/編織 (n/v)抱怨 = complain = moan
 
     - table (v)擱置/不加考慮, 放在桌上 (n)桌子, 食物/菜餚, 表/目錄
     - tablet (n)刻寫板/簡, 掌上電腦, 便箋簿, 藥片

@@ -451,7 +451,7 @@
 ## Q
 - quail <--> quill
 - quaver <--> quiver
-- queer <--> sheer
+- queer <--> sheer <--> steer
 - quorum <--> quota <--> quote
 
 ## R
@@ -517,6 +517,7 @@
 - shuttle <--> shutter <--> shudder
 - silver <--> sliver
 - single <--> shingle <--> singe
+- sinuous <--> sin
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
 - slat <--> slate
@@ -568,6 +569,7 @@
 - tend <--> tender <--> tendentious
 - tenebrous
 - thick <--> thicket
+- thread <--> tread <--> threat
 - through <--> trough
 - toll <--> toil <--> atoll <--> extolling
 - torpid <--> tumid <--> turgid <--> trepid
@@ -578,6 +580,8 @@
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
 - tug <--> tuck <--> lug <--> mug <--> muggy
+- turpitude
+- tutelage
 
 ## U
 - unexceptional <--> unexceptionable <--> unexpected

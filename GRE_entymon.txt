@@ -509,6 +509,7 @@
 	bio 生命
 		- antibiotic (n)抗生素
 		- autobiography (n)自傳
+		- bioethicist (n)生物倫理學家
 		- /bʌɪˈɒlədʒi/ biology (n)生物學
 		- biotic (adj)生物的
 		- biosphere (n)生命層/生物圈
@@ -993,7 +994,7 @@
 		- incant (v)吟唱/吟誦 = cant = intone --> incantation (n)咒文
 		+ incentive (n)刺激因素/誘因 = stimulus = motive
 		- incentivize (v)鼓勵/激勵 = encourage = motivate
-		+ recant (v)宣佈放棄 = renounce = relinquish = disavow = forswear = abjure  --> recantation (n)改變宗教信想/改變論調
+		+ recant (v)宣佈放棄 = renounce = relinquish = disavow = forswear = abjure --> recantation (n)改變宗教信想/改變論調
 
 	col 脖子 = neck
 		+ accolade (n)讚賞 = appreciation = kudos
@@ -2280,6 +2281,7 @@
 		- ischemia (n)局部缺血
 		- leukaemia, leukemia (n)白血病/血癌
 		- hyperemia (n)充血
+		- thalassemia (n)海洋性貧血/地中海型貧血
 
 	ess 存在 = be
 		- essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
@@ -2543,6 +2545,7 @@
 
 	fet, fe 胎兒
 		+ fecund (adj)肥沃的 = fruitful = fertile = generous = prolific, 有創造力的 = very productive --> fecundity (n)多產/富饒, 創造力
+		- fetal (adj)胎兒的
 		- fetus (n)胎兒
 		- fetology (n)胎兒學
 		- feticide (v)墮胎
@@ -3038,9 +3041,11 @@
 		- hemicycle (n)半圓
 
 	hemo 血 = blood == emi
+		- hemoglobin (n)血紅素
 		- hemophilia (n)血友病
 		- hemorrhage (n/v)出血, 大出血/損失 <-- hemo + rrgage 大量噴出 = profuse discharage
 		- hemostat (n)止血器, 止血劑
+		- hematology (n)血液學
 
 	herb 草 = plant
 		- herbage (n)草, 牧草
@@ -6773,6 +6778,7 @@
 		- signify (v)表示/意味 = indicate, 有重要性/很重要/要緊
 		- signifier (n)指示符
 		+ significant (adj)重要的, 意義深長的 = pregnant --> significance (n)重要性 = importance = consequence, 意義 = import = meaning
+		- signature (n)簽名, 調號/拍號, 識別標誌, 處方指示 (mn)簽署
 
 	son 聲音 = sound
 		- consonant (adj)[with]一致的/調和的 <--> dissonant, 子音的 (n)子音/子音字母 <--> vowel

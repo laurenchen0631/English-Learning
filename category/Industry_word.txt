@@ -832,6 +832,8 @@
 	- spaghetti (n)意大利細麵條
 
 [Medicine]
+	- oncology (n)腫瘤學
+
 	- medical
 		> 醫學的 |Relating to the science or practice of medicine.| a medical centre
 		> 藥物的 |Relating to medicine as distinguished from surgery, psychiatry, etc.| he was transferred for further treatment to a medical ward
@@ -1005,6 +1007,7 @@
 	- bipolar (adj)有兩極的/兩極的, 躁鬱的
 
 	- hepatitis (n)肝炎
+	- thalassemia (n)海洋性貧血/地中海型貧血
 
 	- acrania 無顱畸形
 	- atrophy
@@ -1115,6 +1118,7 @@
 	- glomerulonephritis (n)腎小球性腎炎
 	- pellagra (n)玉蜀黍疹
 	- rickets (n)軟骨病/佝僂病
+	- sickle cell disease == SCD (n)鐮刀型紅血球疾病，是一組通常由雙親遺傳而來的血液疾病
 
 [Literature/Media]
 	- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
@@ -2258,6 +2262,7 @@
 	- skydive (v)跳傘
 	- Yatzy (n)快艇骰子，一種骰子遊戲
 	- Silly Putty (n)橡皮泥
+	- trampoline (n)蹦床/彈翻床
 
 [Other]
 	- whorehouse /ˈhɔːhaʊs/ 妓院 == brothel
