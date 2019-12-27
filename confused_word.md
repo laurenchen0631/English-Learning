@@ -112,7 +112,7 @@
 
 ## D
 - dabble <--> dribble <--> paddle <--> puddle
-- daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> vaunt
+- daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt
 - debilitate <--> deliberate
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
@@ -132,6 +132,7 @@
 - dismissal <--> dismissive
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
+- divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle
 - don <--> doff
 - dose <--> douse
@@ -153,6 +154,7 @@
 - empire <--> empiric <--> empirical
 - enervate <--> innervate
 - escalate <--> escalade <--> escalator
+- esculent
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
@@ -242,6 +244,7 @@
 - hearten <--> heathen
 - heave <--> heaven <--> haven <--> upheave
 - hector <--> hectic <--> sector
+- heft
 - hermetic <--> heretic <--> hermit <--> helmet
 - hen <--> hem
 - hide <--> hideous
@@ -278,6 +281,7 @@
 - incite
 - iniquity <--> inanity
 - innate <--> natal
+- insipid <--> sapid
 - intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
@@ -401,6 +405,7 @@
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
 - perpetrate <--> perpetuate 
+- pernicious
 - persecute <--> prosecute
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
@@ -471,6 +476,7 @@
 - reek
 - reflective reflexive
 - renaissance <--> reconnaissance
+- repatriate
 - replete <--> deplete
 - respite <--> respect
 - restive <--> restless 
@@ -492,7 +498,8 @@
 - rubric <--> lubricate <--> fabricate
 
 ## S
-- salutary <--> salute
+- salutary <--> salute <--> salubrious
+- salvage <--> savage
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
 - saw <--> sew
 - scad <--> scads <--> scald
@@ -542,11 +549,13 @@
 - silt <--> slit <--> milt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
+- somnolent
 - supple <--> supplement
 - stake <--> stick <--> stock <--> stoke <--> stove
 - stand <--> strand
 - stoic <--> stolid
 - storey <--> story
+- stiff <--> tiff
 - stifle <--> strife <--> strive 
 - stride <--> strident
 - strike <--> stroke
@@ -560,6 +569,7 @@
 - supplant <---> suppliant
 
 ## T
+- tackle <--> tickle
 - tactile <--> tactual
 - tangle <--> mangle
 - tangible <--> tangential
@@ -598,6 +608,7 @@
 - weather <--> wether
 - welter <--> swelter
 - wig <--> swig <--> twig
+- wile <--> while
 - winnow <--> minnow <--> wallow
 - whip <--> whop <--> whopping
 - whisk <--> whisky

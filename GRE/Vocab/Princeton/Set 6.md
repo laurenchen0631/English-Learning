@@ -42,7 +42,7 @@
 
 6. **Boycotting** companies that engage in *unethical* behavior, such as promoting wars or violating privacy rights, can be an effective way to **pressure corporations to stop** inherently unacceptable behaviors; nonetheless, such demonstrations of consumer _____ can also have negative consequences including inflation and increased unemployment.
 	1. endorsement
-	1. ratification
+	1. *ratification*
 	1. censure
 	1. debilitation
 	1. disapprobation
@@ -135,7 +135,7 @@
 	1. exsiccated
 	1. anhydrated
 
-18. Many animals such as the poison dart frog, the tiger moth, and the black widow spider give predators advanced warning of their unpalatability or danger through *aposematic* warning signs, while other animals such as the harmless scarlet kingsnake simply mimic the bright colors of the _____ species to keep predators away.
+18. Many animals such as the poison dart frog, the tiger moth, and the black widow spider **give predators advanced warning of their unpalatability or danger** through *aposematic* warning signs, **while other animals** such as the harmless scarlet kingsnake simply **mimic** the bright colors of the _____ species to keep predators away.
 	1. *pernicious*
 	1. *amicable*
 	1. *comestible*
@@ -143,11 +143,27 @@
 	1. deleterious
 	1. *esculent*
 
+19. Truly understanding literary theory **requires a greater academic investment** than simply memorizing descriptions of aestheticism, deconstructionism, and post-modernism; one must also be willing to study philosophy, history, and society to develop an interdisciplinary _____ of how humans build meaning.
+	1. discernment
+	1. *incognizance*
+	1. acumen
+	1. *somnolence*
+	1. *nescience*
+	1. *belletrism*
+
+20. Instead of saying "killed" when reporting on war situations, the military often uses more anodyne phrases such as "neutralizing the target" or "collateral damage;" these attempts to gloss reality with _____ do nothing to alleviate the impact of the news.
+	1. elucidation
+	1. [O] *periphrasis*
+	1. prevarication
+	1. [O] *circumlocution*
+	1. hyperbole
+	1. *dysphemisms*
+
 ##　Review
 8. 自从晋升当任部门主席，Brookstone更加倾向于攻击大学管理，结果导致他失去了几个同盟教授。
 
 ## Vocab
-- oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware
++ oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware
 - repatriate (v)遣返/送..回國 (n)被遣返回國者
 - veracity (n)真實, 誠實
 - perjurious (adj)
@@ -161,7 +177,7 @@
 + vindication (n)證明無辜/平反, 證據 = proof
 * wile (n)詭計/騙人的把戲
 + precursor (n)先驅/先兆 = forerunner = predecessor, 先驅物質
-+ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland <|> sipid
++ insipid (adj)乏味的/枯燥的 = dull = dreary = innocuous = pallid = vapid = jejune = lackluster, 無味的 = bland <|> sapid
 - philanthropy (mn)慈善 (n)慈善組織
 - waiver (n)放棄/不強求執行, 免支付協議/棄權聲明書
 - proverb (n)諺語
@@ -174,9 +190,16 @@
 - disinter (v)挖出/挖掘, 胡瓜魚
 + vitiate (v)損害 = spoil = pervert = impair, (使)無效 = invalidate
 - exsiccate (v)使乾燥
-- aposematic
+- aposematic (adj)警戒色的/起警告作用的 <-- apo + sema = sign
 + pernicious (adj)有害的 = noxious = harmful = baleful = baneful
-* amicable (adj)(他人)友好的 = amiable
-- comestible
-- pulchritudinous
+* amicable (adj)友善的/友好的 = amiable
+- comestible (n)食品 (adj)可食用的 = edible = esculent
+- pulchritudinous (adj)美的
 - esculent (adj)適於食用的 = edible (n)食用品
+- incognizant (adj)不知道的/不知覺的 --> incognizance (n)
+- somnolent (adj)想睡的, 令人想睡的, 嗜睡的 --> somnolence (n)嗜睡症
+- nescient (adj)無知的 = ignorant <-- ne == not + sci
+- belletrism (n)純文學至上主義
+- periphrasis -> periphrases (n)轉彎抹角的說法 = circumlocution
+- circumlocution (n)轉彎抹角的說法 = periphrasis
+- dysphemisms (n)粗直語/粗直語用法 = A derogatory or unpleasant term used instead of a pleasant or neutral one.

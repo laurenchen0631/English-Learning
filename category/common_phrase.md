@@ -173,6 +173,8 @@
 	- Trains leave the station every hour on the hour.
 - far afield 遠處
 	- Don't go too far afield or you'll get lost.
+- in/by fits and starts 間歇地/一陣一陣地
+	- Replies to the advertisement are arriving in fits and starts.
 - in circulation 流通/流傳 == going or passing from person to person or place to place
 	- That rumor has been in circulation for a long time.
 	- coins no longer in circulation

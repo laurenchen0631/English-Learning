@@ -191,7 +191,7 @@
 		+ ambrosia (n)美味佳餚/仙饈
 		- amorous (adj)多情的/色情的, 戀愛的
 		+ amiable (adj)(自己)和藹的 = affable <-- amicable
-		* amicable (adj)(他人)友好的 = amiable
+		+ amicable (adj)友善的/友好的 = amiable
 		- amity (n)友好關係
 		+ enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
 		* glamor, glamour (n)吸引力/魅力 --> glamorous (adj)富有魅力的
@@ -328,7 +328,8 @@
 		* /ˌanθrəˈpɒlədʒi/ anthropology (n)人類學 --> anthropologist (n)人類學家
 		- anthropomorphism (n)擬人 --> anthropomorphic (adj)擬人的
 		- anthropoid (n)類人猿
-		- philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
+		+ philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
+		+ philanthropy (mn)慈善 (n)慈善組織
 		+ misanthrope, misanthropist (n)厭世者/不願與人來往者 --> misanthropy (n)人類厭惡
 		+ misanthropic (adj)不願與人來往的 = unsociable
 
@@ -338,6 +339,7 @@
 		- /əˈpɒkəlɪps/ apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
 		- apocrypha
 		+ apogee
+		- aposematic (adj)警戒色的/起警告作用的 <-- apo + sema = sign
 		+ apotheosis, apotheoses
 
 	appar 出現 = appear
@@ -635,6 +637,7 @@
 			+ collude --> collusion
 			- combat
 			- condominium, condo
+			+ comestible (n)食品 (adj)可食用的 = edible = esculent
 			* commerce
 			- commingle
 			+ commiserate (v)表示同情或憐憫 = sympathize <-- com + miser 可憐的 = pitiable + ate
@@ -1278,7 +1281,7 @@
 		- circulate (v)循環/流通/傳遞, (在聚會上)周旋, 發行 = distribute
 		- circus (n)馬戲團
 		- circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
-		- /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
+		+ /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
 		- /səˈkʌmfərəns/ circumference (n)周圍, 圓周/周長
 		+ circumspect (adj)小心的/謹慎的 = cautious = prudent = careful = discreet = judicious = canny = well-considered
 		- /ˈsəːkəmstans/ circumstance (n)(客觀)環境, 情況/情形/形勢
@@ -1324,7 +1327,7 @@
 	cogn 知道 = learn, know == nois == gnost
 		+ /ˈkɒɡnɪz(ə)nt/ cognizant (adj)認知到的/察覺到的 = informed = conscious = aware
 		+ cognizance (n)認知/察識 = perception = awareness = acknowledgement, 審判管轄權
-		- incognizant (adj)不認識的/沒有察覺到的的
+		+ incognizant (adj)不知道的/不知覺的 --> incognizance (n)
 		- derecognize (v)撤銷對…的承認
 		*** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
 		- reconnoiter (n/v)[軍]勘察/偵查
@@ -1580,6 +1583,7 @@
 			+ disaffected (adj)不滿的 = dissatisfied = discontented <|> unaffected
 			+ disallow (v)不許/不准
 			* disappoint (v)使失望/未達成期望, 阻礙/妨礙 = thwart = frustrate
+			+ disapprobation (n)不贊成/反對
 			- disbandment (n)團體的解散
 			- disbeliever (n)持懷疑態度的人
 			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
@@ -1621,7 +1625,7 @@
 			- disinfect (v)殺菌/消毒
 			+ disingenuous (adj)虛偽的/不誠實的 = insincere <--> candid
 			+ disintegrate (v)分崩離析/碎裂/瓦解, (核)衰變 --> disintegration (n)瓦解/碎裂, 衰變
-			- disinter (v)挖出/挖掘
+			- disinter (v)挖出/挖掘, 胡瓜魚
 			+ disinterested (adj)公正的/客觀的 = impartial = objective = indifferent, 不感興趣的 = indifferent = uninterested
 			- dislocate
 			- dislodge (v)用力（或設法）移動, 逐出
@@ -5079,8 +5083,10 @@
 		- /ˈpɪərɪəd/ period (n)時期/期間, 時代, 節, 週期, 句號 (adj)某一時代特有的 <-- peri + od 路 = way
 		- periodic (adj)週期性的, 週期表的
 		- periodical (n)期刊 (adj)週期性的 = periodic, 期刊的
+		- quasiperiodic (adj)準週期的
 		+ /ˌpɛrɪpəˈtɛtɪk/ peripatetic (adj)巡遊的 = itinerant <-- peri + patet 走 = walk + ic
 		+ periphery --> peripheral
+		+ periphrasis -> periphrases (n)轉彎抹角的說法 = circumlocution
 		- periscope (n)潛望鏡
 
 	prim, prior, prist, princip 最早的/最好的 = first, prime
@@ -5281,6 +5287,7 @@
 		- impel (v)驅使 = force = compel = urge, 推進 = push = propel
 		* impulse (n)衝動/強烈欲望 = compulsion = urge, 動機/刺激 = impetus, 脈衝, 衝力 --> impulsive (adj)衝動的/易衝動的, 衝力的
 		- /pʌls/ pulse (v)搏動/跳動 = pulsate, 使產生脈衝 (n)脈搏, 脈衝, 規律的節奏, 果實可食用的豆類植物 <|> /pəʊz/ pose
+		- pulsate (v)搏動/悸動, 有規律地跳動或振動 --> pulsation (n)
 		- propel (v)推進 = impel, 驅策/刺激 = spur = drive --> /prəˈpʌlʃən/ propulsion (n)推進力 <|> /prəˈpɔːʃən/  proportion
 		- /rɪˈpiːl/ repeal (n/v)廢除/廢止 = annul = quash = abolish = abrogate = rescind = revoke
 		- /rɪˈpɛl/ repel (v)擊退/驅除, 排斥/相斥, 拒絕/排斥, 使厭惡/使極反感
@@ -5472,6 +5479,7 @@
 
 	phem 說 = speech, speaking
 		- /ˈblasfəmi/ blasphemy (n)褻瀆/瀆神 = desecration = irreverence <-- blas 傷害 = harm + phemy
+		- dysphemisms (n)粗直語/粗直語用法 = A derogatory or unpleasant term used instead of a pleasant or neutral one
 		+ euphemism
 
 	phen, phan, pha 出現 = appear == appar
@@ -6122,7 +6130,7 @@
 		+++ unravel
 
 	rat 深思熟慮/推論 = calculate, deliberate, conclude
-		* ratify (v)正式批准/正式簽署 = sanction = authorize = approve --> ratification (n)正式批准
+		+ ratify (v)正式批准/正式簽署 = sanction = authorize = approve --> ratification (n)正式批准
 		- /ˌratɪˈɒsɪneɪt/ ratiocinate (n)推理/推論 = reason --> ratiocination (n)
 		- ration (n)定量配給 (v)配給 --> rations (n)口糧 = food = provision
 		+ rational (adj)理性的, 合理的 = reasonable = sober, [數]有理的 --> rationalize (v)使合理化, 有理化 --> rationalization (n)合理化, 有理化
@@ -6729,6 +6737,7 @@
 		* /ˈkɒnʃ(ə)ns/ conscience (n)良心/善惡觀念 <|> /ˈkɑn(t)ʃəs/ conscious
 		+ /ˌkɒnʃɪˈɛnʃəs/ conscientious (adj)本著良心的 = principled, 勤勉認真的 = assiduous
 		- conscionable (adj)合乎良心的/公正的 = scrupulous <|> unconscionable
+		+ nescient (adj)無知的 = ignorant <-- ne == not + sci
 		- /ɒmˈnɪsɪənt/ omniscient (adj)無所不知的/博識的 --> omniscience (mn)無所不知
 		+ prescient (adj)有先見之明的 --> prescience (n)預知/先見 = foreknowledge = foresight = presage
 		- science (n)科學, 學科, 學問
@@ -6809,6 +6818,7 @@
 		- summon (v)召集/傳喚 = rally, 急需, 使出, [up]喚起(印象)
 
 	sicc 乾 = dry
+		- exsiccate (v)使乾燥
 		+ /ˈdɛsɪkeɪt/ desiccate (v)使乾燥/脫水 = dehydrate --> desiccated (adj)乾的/乾燥的/脫水的, 無趣的/毫無新意的 = uninteresting
 		- siccative (n)顏料乾燥劑
 
@@ -6843,7 +6853,7 @@
 	somno, somn 睡眠 = sleep
 		- insomnia (mn)失眠症
 		- somniferous (adj)催眠的/使睏倦的 = soporific
-		- somnolent (adj)想睡的, 令人想睡的, 嗜睡的 --> somnolence (n)嗜睡症
+		+ somnolent (adj)想睡的, 令人想睡的, 嗜睡的 --> somnolence (n)嗜睡症
 	
 	somato, somat 身體 = body
 		- soma (n)體細胞, 肉體/軀體
@@ -7347,6 +7357,7 @@
 		+ unencumbered (adj)不受妨礙的, 沒有債務負擔的
 		- unenlightened (adj)未受啟迪的
 		+ unequivocal (adj)毫不含糊的/明確的 = unambiguous
+		- unethical (adj)不道德的
 		- uneven (adj)不平整的, 不規律的/不一致的, 不勢均力敵的
 		+ unexampled (adj)無先例的/空前的 = unprecedented
 		+ unexceptional (adj)尋常的/平常的 = usual <|> unexpected
@@ -7548,6 +7559,7 @@
 	ver, veri 真實的 = true
 		+ /əˈvəː/ aver (v)斷言/堅稱 = affirm = assert, [法]證明……屬實 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
+		+ veracity (n)真實, 誠實
 		- verdict (n)判定/裁決, 判斷/意見 = opinion = judgement
 		+ verify (v)證明/證實 = confirm = substantiate
 		- verified (adj)檢驗的/核實的
@@ -7557,6 +7569,7 @@
 		+ veritable (adj)名副其實的 <|> verifiable1
 
 	verb 話語 = word
+		- proverb (n)諺語
 		+ verbal (adj)言語的/字句的, 口頭的/非書面的, 嘮叨的, 動詞的 (n)動詞, 動名詞, 電影歌詞
 		- verbatim (adj/adv)一字不差地/逐字地
 		- verbiage (mn)冗詞/廢話/贅語

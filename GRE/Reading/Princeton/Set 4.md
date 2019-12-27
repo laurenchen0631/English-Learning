@@ -112,6 +112,30 @@ The mid-nineteenth century witnessed two major wars on U.S. soil: the Mexican-Am
 	1. [O] African-Americans were *instrumental* in developing country music and for teaching it to some of the well-known musicians in the field.
 	1. [O] Jazz music is commonly acknowledged to have African-American lineage.
 
+Many scholars consider Marcel Proust's Remembrance of Things Past (1913-1927) a significant literary achievement. For instance, Harold Bloom states that it is "widely recognized as the major novel of the twentieth century." In addition to noting its length-it spans seven volumes and 3,200 pages-**many commentaries have focused on Proust's treatment of two kinds of memory, involuntary and voluntary**. Involuntary memory occurs through the stimulation of the senses, while voluntary memory is a deliberate effort to remember the past. **For Proust, involuntary memories are superior** because they contain the spirit of the past in a way that voluntary memories do not; **the former are more vivid, and they have the power to erase the temporal distance between the present moment and past experiences.** More recently, scholars such as Andre Benhaim have explored the relationship between Proust's treatment of memory and his representation of France and French culture. According to Benhaim, memory functions within this text to reconfigure both.
+
+Proust describes France in ways that one would not expect. In his work, French cities are archaic and exotic. As a result, the narrator becomes a stranger to, or is estranged from, his homeland, and lives the life of an exile. For instance, when recalling his travels through the fictional French town of Balbec, he states. "These strangely ordinary and disdainfully familiar *cathedrals* cruelly stunned my *unconsidered* eyes and stabbed my homesick heart." Words such as "stun" and "stab" suggest the hostility the narrator feels from this French territory. Proust's suggestion of Middle Eastern influences further distorts the idea of a singular French experience. First, the town's name refers to the ancient city of Baalbek, located in what is now Lebanon. Second, Balbec is populated by Jewish residents. **Proust is widely recognized as an icon of French literature and culture**, but ultimately his mysterious representations of this place and its culture call into question the existence of a single Francophone literature or a single French identity.
+
+17. The author uses the quotation from Remembrance of Things Past in order to
+	1. illustrate how Proust's concept of involuntary memory
+	1. [O] exemplify an assertion regarding the narrator's relationship to his homeland, which the author mentions in the preceding sentence
+	1. mark a turning point in the passage in which the author switches from describing life in France to exploring Proust's representation of it
+	1. bolster Proust's disdain for reliance on personal memories when returning to the locales of childhood
+	1. dissuade the reader from accepting Proust's characterizations of voluntary memory
+
+18. __Consider each of the choices separately and select all that apply.__ The passage refers to which of the following as a feature of the French town of Balbec, as Proust represents it?
+	1. *mausoleums*
+	1. *itinerants*
+	1. churches
+
+19. Select the sentence from the second paragraph in which the author summarizes Prousts description of France.
+	- In his work, French cities are archaic and exotic.
+
+20. __Consider each of the choices separately and select all that apply.__ It can be inferred that Benhaim might agree with which of the following statements about the role of memory in Remembrance of Things Past?
+	1. The study of memory in Prousts novel is the most important approach to this text and has led to valuable **insights regarding the human condition**.
+	1. [O] The study of Prousts exploration of memory is a useful starting place with which to consider other issues, such as French culture and traditions.
+	1. While the study of memory in Prousts novel once yielded interesting insights into the workings of the human mind, new approaches to this text have proven more useful.
+
 ## Vocab
 - corona (n)日冕, (太陽或月球周圍的)暈, [解]冠狀部位, (教堂的)環形吊燭架, [建]挑簷滴水板, 長雪茄菸
 - pocket (n)衣袋/口袋, 袋子, [非]錢/財力, 小塊(土地) = patch, 孤立的小塊地區, 礦囊 (adj)袖珍的, 小型的 (v)把……裝入袋內, 侵吞/盜用, 忍受/壓抑(感覺)
@@ -136,3 +160,7 @@ The mid-nineteenth century witnessed two major wars on U.S. soil: the Mexican-Am
 - holler (v)叫喊, [at]聯絡 (n)[非]叫喊, 喊歌
 * staple (n)釘書針, 主要元素, 主要產品, 纖維, 貿易中心 (v)用釘書針固定 (adj)主要的
 - instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的
+- cathedral (n)大教堂
+- unconsidered (adj)不值得考慮的, 欠考慮的/輕率的
+- mausoleum (n)陵墓
++ itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic (n)巡迴者

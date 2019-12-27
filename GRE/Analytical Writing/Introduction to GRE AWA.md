@@ -260,7 +260,7 @@
 		- Your thesis needs to state why you believe this position is correct. Take a moment to think about this, and jot your thesis down on your scratch paper. 
 	4. Outline Your Essay
 		- You need to evaluate the strength of these assumptions out which you laid.
-		- Generally, the arguments on the GRE are poorly reasoned, so you should basically be l**ooking for reasons the assumptions fail to lead to the conclusion.**
+		- Generally, the arguments on the GRE are poorly reasoned, so you should basically be **looking for reasons the assumptions fail to lead to the conclusion.**
 		-  Think about ways you could weaken and strengthen the argument. 
 	5. Write
 		- Typical Structure

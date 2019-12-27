@@ -364,6 +364,7 @@
     - belabor (v)過分冗長地說或做, 批評/攻擊 = attack = criticize
     - belated (adj)遲來的 = delayed
     - /bɪˈliːɡə/ beleaguer (v)圍攻 = besiege, 使..處於困境 <-- leaguer
+    - belletrism (n)純文學至上主義
     - bellow (v)低吼/怒吼, 大聲叫, 大聲亂唱 (n)低吼/怒吼
     - bellwether (n)領頭羊/領導者 <-- wether
     - bench (n)長凳, 工作臺, 法官席, 法官或官員職位, 英國議會議席, 替補隊員席 (v)把(場上隊員)換下, 臥推
@@ -1053,6 +1054,7 @@
     + erstwhile (adj)從前的/往昔的 = former = previous <-- erst 以前/往昔
     + escalate (v)擴大/加劇
     + /ɛsˈtʃuː/ eschew (v)避免/避開 = shun = shirk = avoid = abstain from
+    + esculent (adj)適於食用的 = edible (n)食用品
     + /ˌɛsəˈtɛrɪk/ esoteric (adj)少數人才懂的/限於小圈子的 = arcane = abstruse = rarefied <--> exoteric <-- esoter 裡面 = inner + ic 
     ++ /ɪˈspaʊz/ espouse (v)支持/擁護/採用 = adopt = embrace, [be espoused to](女性)與..訂婚 --> espousal (n)支持/擁護 = advocacy <-- spouse
     ++ /ˈɛseɪ/ essay (v)企圖/嘗試 = try = attempt (n)散文/隨筆, 嘗試 <|> assay /əˈseɪ/
@@ -1413,6 +1415,7 @@
     - freckle (n)雀斑/小斑點 (v)生雀斑
     - free -> freed -> freed (v)釋放, 解放, 使免於, 使..可用
     - freelancer (n)自由職業者
+    - freewheeling (adj)無約束的/隨心所欲的
     - freshet (n)春汛/暴漲
     - fraught (adj)令人焦慮的, [with]充滿...的 <-- freight
     - friable (adj)易碎的/脆弱的 = frail <-- fri 粉碎 = crumble + able
@@ -1813,6 +1816,7 @@
     - heavyweight (n)重量級, 重量級拳擊手, 超過平均重量的人或物, 要人 (adj)超過平均重量的, 重要的
     - heckle (v)詰問/質問/刁難, 以麻梳梳理 (n)詰問
     - heed (v)注意/留心 (n)關心 --> heedless (adj)不注意的/疏忽的 = inadvertent = reckless
+    - heft (v)舉起/扛著, 測重 (n)重量, 能力/影響力
     - hefty (adj)高大健壯的, 可觀的/鉅額的, 有力的
     - heighten (v)變強/變濃 = intensify, 變高/升高
     - heinous (adj)十惡不赦的/極惡的 = odious = wicked = abominable
@@ -2466,6 +2470,7 @@
     - -monger (n)賣..的人
     - mongrel (n)雜種狗, 雜種動物, (貶義)混血兒 <-- mong 混合 = mixture + rel
     - mogul (n)[非]顯要人物/大人物, 貓跳
+    - moniker (n)[非]名字
     - monsoon (n)雨季, 季風
     - montage (n)蒙太奇, 蒙太奇作品, 剪輯
     - mores (n)習慣/習俗
@@ -2780,7 +2785,7 @@
     +++ prudent (adj)審慎的/小心的 = guarded = cautious = careful = discreet = judicious = circumspect = deliberate
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/傻氣的 = juvenile = silly = jejune = immature <-- puer 男孩 = boy + ile
     + puissant (adj)[古]強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢
-    + /ˈpʌlkrɪtjuːd/ pulchritude (n)美 = comeliness = beauty <-- pulchr 美麗 = beautiful + itude 
+    + /ˈpʌlkrɪtjuːd/ pulchritude (n)美 = comeliness = beauty --> pulchritudinous (adj)美的 <-- pulchr 美麗 = beautiful + itude 
     + /ˈpʌndɪt/ pundit (n)權威人士/專家 = maven
     + /ˈpɪrɪk/ pyrrhic (adj)得不償失的/付出慘重代價的(勝利) (n)(詩)抑抑格
 
@@ -3311,6 +3316,7 @@
     + shun (v)避免/閃避 = eschew = sidestep = avoid = evade = shirk <|> sham
     + sidestep (v)側跨步躲開, 避免 = aviod = shun (n)側跨步
     + simian (adj)類人猿的/猴的 (n)人猿/猴子 = ape = monkey <-- simi 猴子 = ape + an
+    * simpatico (adj)和藹可親的, 有共同特質的
     + simpleminded (adj)頭腦簡單的/想當然的
     + /ˈsʌɪnɪkjʊə/ sinecure (n)閒職 <-- without care
     +++ sinister (adj)不祥的 = portentous = ominous = boding, 陰險的/邪惡的 = wicked = evil = fell, 左邊的 = left
@@ -3467,6 +3473,7 @@
     * sly (adj)狡猾的/狡詐的 = shifty = cunning = crafty = wily, 悄悄的/鬼鬼祟祟的 = surreptitious = stealthy = furtive
     ** smack (n)掌摑, 劈啪聲, 響吻, [of]滋味/味道, [of]跡象 (v)捆/打, 咂(嘴), [of]有特定滋味, [of]帶有…意味/帶有…跡象
     ** smear (v)弄髒/弄汙 = stain, 塗抹/塗上, 把……擦模糊 = smudge, 誹謗 = slander (n)汙跡/汙斑, 誹謗, 塗片/抹片, 不穩固的立足點
+    * smelt (v)煉取/精煉
     * /sməːtʃ/ smirch (v)弄髒 = sully = soil, 玷污 = sully = disgrace = discredit = taint (n)污點 = smear 
     * smirk (n/v)得意地笑/詭秘地笑
     * smooth, smoothe (adj)光滑的 = slick, 平穩的, 順利的, 油嘴滑舌的, 溫和的(食物味道) (v)弄平/使光滑, 消除/處理
@@ -4072,54 +4079,56 @@
     * /ˈtəːmɔɪl/ turmoil (mn)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
     * twine (n)麻線 (v)使盤繞, 使交織/編織 (n/v)抱怨 = complain = moan
 
-    - table (v)擱置/不加考慮, 放在桌上 (n)桌子, 食物/菜餚, 表/目錄
+    - table (n)桌子, 食物/菜餚, 表, 乘法表 (v)擱置/暫緩審議
     - tablet (n)刻寫板/簡, 掌上電腦, 便箋簿, 藥片
     - tack (n)大頭釘, 圖釘, 粗縫針腳/假縫, 方針, 搶風轉變航向, 航向, 航行距離, 上下角索, 上下腳, 黏性, 馬具, 寒酸俗氣的東西 (v)用平頭釘釘, 暫時用粗針腳縫, 搶風轉變航向, 改變航向, 連續改變航向
-    - tacky (adj)發黏的 --> tackiness (n)膠黏性
-    - tactic (n)手段, 戰術 <-- tac 佈置 = arrange + tic
+    - tacky (adj)發黏的, [非]品質低劣的/俗氣的 --> tackiness (n)膠黏性, 品質低劣
+    - tactic (n)策略, 戰術 <-- tac 佈置 = arrange + tic
     - tadpole (n)蝌蚪 <-- toad + poll 頭 = head
     - taffy (n)太妃糖, [非]奉承/諂媚
     - tailwind (n)順風
     - takeaway (n)外帶餐, 要點
-    - takeoff (n)起飛, 模仿
-    - taking (adj)楚楚動人的
+    - takeoff (n)起飛, [非]模仿
+    - taking (mn)拿/取, 進款/收入 (adj)(人)迷人的 = charming
     - tally (v)(使)一致/符合
-    - talon (n)猛禽的鋭爪
-    - tambour (n)鼓, 刺繡用的繃圈 (v)用繃圈刺繡 --> tambourine (n)鈴鼓/手鼓 <-- timbre
-    - tamp (v)搗實/敲緊
-    - tamper (v)損害/削弱, 竄改, 影響/賄賂
+    - tally (n)比分/帳, 符木, 標籤/小牌 (v)吻合 = agree = correspond, 總計
+    - talon (n)猛禽的鋭爪, 鎖簧尖狀突出部, 發剩的牌
+    - tambour (n)鼓, 刺繡用的繃圈, 鼓形柱 --> tambourine (n)鈴鼓/手鼓 <-- timbre
+    - tamp (v)用黏土填塞(裝有炸藥的洞口), 搗實/敲緊
+    - tamper (v)干擾 = interfere (n)搗實器具
     - tan (n)古銅色, 古銅色的肌膚, 含單寧酸的樹皮 = tanbark (v)曬成古銅色, 製成皮革, 痛打 (adj)古銅色的
     - tang (n)強烈的味道, 特性/特質, 刀柄, 鈴聲, 刺尾鯛 (v)發出鈴聲 
     - tangy (adj)強烈的/撲鼻的
     - tango (n)探戈舞
     - tank (n)櫃/罐/箱/槽, 坦克/戰車, [非]牢房, 背心 = tank top (v)裝滿燃料, [非]下跌, [非]輸掉
-    - tantrum (n)發脾氣/發怒
+    - tantrum (n)(小孩子)發脾氣
     - tape (n)膠布, 膠帶, 賽跑終點的線帶, 封鎖線, 捲尺, 磁帶/錄音帶 (v)用膠布把……黏牢, [off]封鎖, 用錄音帶為……錄音
     - taper (v)逐漸變得尖細, [off]逐漸變小/逐步減弱 (v)細蠟燭, 燭芯 = wick, 逐漸變細, 逐漸減少
     - tapestry (n)繡帷/掛毯
-    - tare (n)裨子/莠草/雜草
-    - tariff (n)關稅
+    - tare (n)巢菜 = vetch, 裨子/莠草(聖經用語), 皮重, 車身重量
+    - tariff (n)關稅 (v)定……的稅率
     - tarmac (n)瀝青/柏油碎石 (v)用柏油碎石鋪 <--> asphalt
-    - tarpaulin (n)防水油布
-    - tart (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious (v)裝點/裝扮 (n)水果餡餅
+    - tarpaulin (n)防水油布, (水手的)防水帽
+    - tart (n)水果餡餅. 妓女 (v)[about/around]花枝招展 (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious
     - tastemaker (n)時髦風尚之開創者
-    - tasty (adj)味道好的, 有趣的
-    - tatty (adj)簡陋的/不整潔的/襤褸的/破爛的
-    - taunt (v)譏諷/嘲弄
-    - taut (adj)繃緊的 --> tauten (v)拉緊/繃緊
-    - taxis (n)分類法, 排列, 整腹法, 反射運動
-    - tease (v)逗樂/戲弄, 強求 (n)揶揄/戲弄/取笑
-    - /ˈtiːnzi/ teensy, teeny (adj)微小的
-    - teeter (v)搖晃/站不穩, 猶豫
-    - temp (v)做臨時工作
-    - tempo (n)步調/速度
+    - tasty (adj)美味的/可口的
+    - tatty (adj)襤褸的/破爛的, 低劣的/差的
+    - taunt (n/v)嘲笑/奚落
+    - taut (adj)繃緊的, 秩序井然的(船員) --> tauten (v)拉緊/繃緊
+    - taxis (n)[醫]整腹法, 反射運動, 文字分類法
+    - tease (v)逗弄/戲弄, 挑逗, 梳理(毛，麻等), 理出(資訊) (n)[非]愛戲弄人的人, 挑逗者, 戲弄
+    - /ˈtiːnzi/ teensy, teeny (adj)[非]微小的
+    - teeter (v)搖晃/站不穩, [between]猶豫 = waver 
+    - temp (n)[非]臨時工, 溫度 (v)做臨時工
+    - tempo -> tempi (n)拍子, 步調/速度
     - tentacle (n)觸鬚/觸手/觸角
     - termite (n)白蟻
-    - tether (v)拴住 (n)拴繩/繫鏈, 限度/範圍
+    - tether (v)拴住, 用手機熱點連上網 (n)拴繩/繫鏈
     - thatch (n)茅草屋頂/茅草, [非]濃密的頭髮 (v)以茅草覆蓋 
-    - theme (n)話題/題目/主題, 作文/文章
-    - thematic (adj)主題的, 主旋律的, 語幹的 (n, 構幹的)主題 <|> thermal
-    - theory (n)理論/原理/學說, 推測/揣度 --> theoretical (adj)不切實際的, 理論上的
+    - theme (n)題目/主題, 主題思想, 詞幹 (v)給..特定的主題
+    - thematic (adj)主題的, 主旋律的, 語幹的 (n)主題 <|> thermal
+    - theory (n)理論/原理, 意見/推測
+    - theoretical (adj)理論上的
     - theorem (n)定理
     - thereafter (adv)之後/以後
     - thereby (ADV)因此/由此
@@ -4129,21 +4138,22 @@
     - thought-out (adj)深思熟慮的 = considerate
     - thought-provoking (adj)引人深思的/發人深省的
     - thrash (v)鞭打 = baste, 連續擊打, 猛烈擺動/劇烈扭動, [around]掙扎, [非]徹底擊敗 (n)鞭打, 敲擊搖滾樂
-    - threadbare (adj)磨破的, 陳腐的
-    - throne (n)寶座/王位 <|> thorn
+    - threadbare (adj)穿舊的/破爛的, 陳舊的/老一套的
+    - throne (n)王座, 王權/君權 (v)使登王位 <|> thorn
     - throng (n)一大群 (v)擠滿/群集
-    - thrum (v)發出連續低沉的聲響, 彈奏/撥弄(弦) = Strum (n)連續低沉的聲響, 紗頭/線頭
-    - thuggish = loutish
+    - thrum (v)發出連續低沉的聲響, 彈奏/撥弄(弦) = strum (n)連續低沉的聲響, 紗頭/線頭
+    - thuggish (adj)(adj)粗野的/暴力的 = loutish
     - thumping (adj)重擊的, [非]巨大的/驚人的
     - tickle (v)騷(癢), 發癢, 輕觸, 抓(鱒魚), 喚起/激起, 逗樂 (n)騷癢, 癢感
-    - tickler (n)棘手的問題/難題 <-- tickle
-    - ticklish (adj)怕癢的, 易怒的 <-- tickle
+    - tickler (n)使人癢的東西, 備忘錄 = memorandum <-- tickle
+    - ticklish (adj)怕癢的, 需小心處理的/棘手的, 易怒的 = irascible <-- tickle
     - ticktock (n)滴答聲, 一段/一節 (v)發出滴答聲
-    - tidy (adj)整齊的/整潔的
+    - tidy (adj)整齊的/整潔的, [非]相當的(量) = considerable, 支持的 (n)裝零星東西的容器/ 垃圾桶, 罩布/套子 (v)整理, [away]清掉
     - tiebreaker (n)決勝局
-    - tiff (n)吵嘴/嘔氣
-    - tightfisted (adj)吝嗇的 = stingy <-- tight + fist + ed
+    - tiff (n)拌嘴
+    - tightfisted (adj)吝嗇的 = stingy = miserly <-- tight + fist + ed
     - till (prep/conj)直到 = until (n)櫃臺放錢的抽屜, 冰磧 (v)耕
+    
     - tilt (v)(使)傾斜 = slant (n)傾斜/斜坡
     - timber (n)木材, 品格/性格
     - time (n)時間, 服刑/刑期, 次, 一段, 乘法, 拍子/節拍 (v)安排...的時間, 計時
@@ -4159,6 +4169,7 @@
     - tire (n)輪胎 = tyre (v)疲勞
     - tissue (n)細胞組織, 薄紙/棉紙
     - titanic (adj)巨人的/力大無比的 = colossal
+    - titular (adj)有名無實的, 稱號的 <-- title
     - titular (adj)有名無實的/名義上的 <-- title
     - toast (n)吐司, 祝酒/敬酒 (v)烘烤, 烘/取暖, 祝酒/敬酒 <|> boast
     - toddler (n)學步的小孩 == A young child who is just beginning to walk.
@@ -4219,6 +4230,7 @@
     - trinket (n)小裝飾品, 不值錢的珠寶
     - trippy (adj)[非]引起幻覺的
     - troll (n)侏儒/巨人, 故意留下激怒他人言論的人, 網路怪論 (v)在網路上留下侮辱性的訊息, 搜索, 漫步 = troll, 隨意地唱
+    - trolley (n)觸輪, 路面電車 = trolleybus = trolley card
     - tromp (v)腳步沉重地行走 = trudge, [on]踐踏 = stamp on
     - troop (n)軍隊/部隊, 騎兵隊, 一群 (v)集合, 列隊而行
     - trope (n)轉義/比喻, 主題/中心思想 = motif
@@ -4384,7 +4396,7 @@
 [W]
     + waffle (n/v)猶豫不決 (n)鬆餅 (adj)蜂巢狀的
     + waggish (adj)詼諧的/滑稽的 = humorous = facetious
-    + waive (v)放棄/撤回(權利), 不遵守(規則)
+    + waive (v)放棄/撤回(權利), 不遵守(規則) --> waiver (n)放棄/不強求執行, 免支付協議/棄權聲明書
     + /wɒn/ wan (adj)病態的 = pallid = morbid, 無精打采的 = languid = dull = torpid, 微弱的 = faint = dim
     + wanting (adj)缺少的, 不存在的
     +++ /ˈwɒntən/ wanton (adj)殘忍無情的 = merciless = inhumane = ruthless, 惡意的 = malicious = malevolent = malign = spiteful, 無節制的/揮霍的 = extravagant, 下流的/淫猥的 = bawdy = lewd = vulgar = indecent = obscene = salacious, 好色的 = lustful = lascivious = lewd = salacious, 淘氣的 = mischievous = wicked
@@ -4402,9 +4414,10 @@
     + whimsical (adj)異想天開的/古怪的 = fanciful = unpredictable = capricious = fickle = erratic = quixotic = impulsive = flighty = skittish = wayward
     ++ whitewash (v)塗白/粉刷 (n/v)粉飾/掩飾, 徹底擊敗 (n)白塗料/石灰水
     + wholehearted (adj)全心全意/全神貫注的
+    + /wʌɪl/ wile (n)詭計/騙人的把戲  <|> /wʌɪl/ while --> wily (adj)狡猾的 = crafty = subtle = artful = cunning 
     ++ willful (adj)任性的/倔強的 = wayward = perverse = disobedient, 故意的 = intentional = deliberate
     ++ winnow (v)篩選/挑選 = sift = separate = select, [out]除去 = remove, 揚起/吹拂 = fan <-- wind
-    + winsome (adj)可愛的/迷人的 = charming = engaging, 雀躍的 = cheerful = lighthearted
+    + winsome (adj)純真的/迷人的 = charming = engaging
     + wistful (adj)嚮往的/留戀的 = longing = yearning
     + withdraw (v)抽回/拉開/取消 = take away = remove, 收回/撤回 = retreat = recall = recede = revoke --> withdrawal (n)收回/撤回, 退隱
     + withstand (v)抵抗/反對 = resist = oppose 
@@ -4426,7 +4439,7 @@
     * wholesome (adj)有益的/有益健康的 = salutary = salubrious = beneficial, 謹慎的 = prudent, 安全的 = safe <|> fulsome
     *** wicked (adj)邪惡的/惡毒的 = sinister = evil, 令人討厭的 = vile, 頑皮的 = mischievous = wanton, 過分的/過度的/超出認知的 
     * /ˈwiːldi/ wieldy (adj)易使用的/易操作的, 有能力的/能力強的 <--> unwieldy
-    * /wʌɪl/ wile (n)詭計/騙人的把戲  <|> /wʌɪl/ while --> wily (adj)狡猾的 = crafty = subtle = artful = cunning 
+    
     * wind (n)風, 呼吸 = breath, 空談/廢話, [winds]管樂器 (v)使呼吸困難, 嗅出, 吹(樂器)
     *** wind -> wound -> wound (v)繞/使捲繞, 包/裹, 使纏繞成團, 給…上發條, 倒帶, [up]陷入/捲入, [down]放鬆下來 (n)彎曲/轉彎
     ** wither (v)枯萎/乾枯/凋謝 = blight = wizen = shrivel = droop = flag, 萎縮/逐漸消失 = blight = flag = decline = dwindle = shrivel --> withered (adj)枯萎的/凋謝的, 憔悴的
