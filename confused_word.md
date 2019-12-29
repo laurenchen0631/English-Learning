@@ -73,7 +73,7 @@
 - clog <--> clot <--> cloy <--> coy 
 - clout <--> lout
 - cluster <--> clutter
-- cogent <--> coagent
+- cogent <--> regent <--> coagent
 - coarse <--> course <--> hoarse
 - coax <--> hoax
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble <--> pebble
@@ -115,6 +115,7 @@
 - dabble <--> dribble <--> paddle <--> puddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debilitate <--> deliberate
+- decor <--> decorous
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
 - deft <--> daft
@@ -270,6 +271,7 @@
 - indolence <--> insolence
 - indict <--> indicate
 - induct <--> induction <--> induce <--> inducement <--> inductive
+- invective
 - inveigh <--> inveigle <--> invective
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
@@ -283,7 +285,7 @@
 - incite
 - iniquity <--> inanity
 - innate <--> natal
-- insipid <--> sapid
+- insipid <--> sapid <--> vapid
 - intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
@@ -323,6 +325,7 @@
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
 - lucid <--> lurid <--> ludicrous
+- luminary <--> luminous
 - lurk <--> lark <--> lurch <--> luck 
 - luster <--> lust <--> lustful <--> lustrous
 
@@ -365,6 +368,7 @@
 
 ## N
 - naive <--> native
+- nascent <--> nasal
 - necessitate --> necessitous
 - nib <--> nibble <--> nipple <--> nip <--> sip 
 - notion <--> notch <--> note <--> botch <--> blotch <--> scotch
@@ -462,6 +466,7 @@
 - quail <--> quill
 - quaver <--> quiver
 - queer <--> sheer <--> steer
+- quiescence <--> quintessence
 - quorum <--> quota <--> quote
 
 ## R
@@ -504,11 +509,13 @@
 
 ## S
 - sabotage <--> sabot <--> saboteur
+- sack <--> sock
 - sage <--> saga
 - salutary <--> salute <--> salubrious
 - salvage <--> savage
 - salve <--> slave <--> salvo
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
+- saturate <--> suture
 - saw <--> sew
 - scad <--> scads <--> scald <--> scalp <--> scalpel
 - scalp <--> scalpel
@@ -530,7 +537,7 @@
 - serendipitous <--> serpentine
 - sententious
 - severe <--> sever <--> serve
-- sew <--> sewer <--> sewage <--> sow
+- saw <--> sew <--> sewer <--> sewage <--> sow
 - shabby <--> shoddy
 - shatter <--> shattered
 - sheaf <--> sheath
@@ -542,30 +549,33 @@
 - shuttle <--> shutter <--> shudder
 - silver <--> sliver
 - single <--> shingle <--> singe
-- sinuous <--> sin
+- sinuous <--> sinister <--> sin
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
 - slab <--> slat <--> slate 
 - slake <--> slack <--> slick <--> sleek <--> slink
 - slaughter <--> onslaught
+- slay <--> splay <--> spray
 - sleight <--> sleigh
 - slippage <--> slipshod <--> slipup <--> sloppy
 - slouch <--> slough
 - stationery <--> stationary
 - staunch
+- smolder <--> solder
 - smooth <--> soothe <--> seethe
 - smudge <--> nudge
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
-- snub <--> snob <--> sob <--> sod <--> sodden <--> sober <--> somber
+- snub <--> snob <--> sob <--> sod <--> sop <--> sodden <--> sober <--> somber
 - sobriety <--> sobriquet
+- sole <--> sore
 - sooth <--> seethe
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
-- spit <--> spat <--> squat <--> squint
-- spur <--> spurious <--> spurn <--> spurt <--> sprout <--> spout
+- spit <--> split <--> splint <--> spat <--> squat <--> squint
+- spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout
 - squeamish
 - silt <--> slit <--> milt <--> jilt
 - sodium <--> odium
@@ -574,11 +584,13 @@
 - supple <--> supplement
 - stake <--> stick <--> stock <--> stoke <--> stove
 - stand <--> strand
+- stock <--> stocky <--> stoke <--> stove
 - stoic <--> stolid
+- stone <--> stoned <--> stonewall
 - storey <--> story
 - stiff <--> tiff
 - stifle <--> strife <--> strive 
-- straddle <--> saddle
+- straddle <--> saddle <--> straggle
 - strenuous
 - stride <--> strident
 - strike <--> stroke
@@ -586,6 +598,7 @@
 - streak <--> steak
 - struggle <--> straggle
 - stub <--> stud
+- studious <--> studied
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
 - sullen <--> sully
@@ -604,8 +617,8 @@
 - thick <--> thicket
 - thread <--> tread <--> threat
 - through <--> trough
-- toll <--> toil <--> atoll <--> extolling
-- torch <--> scorch
+- toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
+- torch <--> scorch <--> scotch
 - torpid <--> tumid <--> turgid <--> trepid
 - trapping <--> trap
 - trace <--> track <--> trek <--> trail <--> trailer
@@ -614,19 +627,29 @@
 - treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
-- troop <--> troupe <--> trope <--> grope
+- tromp <--> romp
+- troop <--> troupe <--> trope <--> grope 
+- trot <--> troth <--> trout
+- trove <--> rover
+- truant
+- truce
+- trump <--> trumpet
 - tug <--> tuck <--> lug <--> mug <--> muggy
 - turmoil <--> moil <--> roil
 - turpitude
 - tutelage
 
 ## U
+- umpire <--> empire
 - unexceptional <--> unexceptionable <--> unexpected
+- urbane <--> urban <--> suburban
 
 ## V
+- vacillate <--> ventilate 
 - vagrant <--> vagary <--> vague
 - veritable <--> verifiable1
 - vie <--> vile <--> vilify <--> revile
+- vituperation
 - vocation <--> vacation
 - volume <--> voluble
 

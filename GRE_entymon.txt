@@ -664,7 +664,6 @@
 			+ comprehend --> comprehensive
 			- comprise (v)包含/包括/構成 = comprehend = embrace = include
 			++ compromise (n/v)妥協/讓步 = concede, 危害 = jeopardize = endanger = imperil = menace
-			** con (n/v)欺騙 = coax = deceit, 指揮操舵 (n)缺點 = disadvantage <--> pro, 囚犯 = convict, 集會= convention
 			- /kənˈkatɪneɪt/ concatenate (v)使連接/使連鎖 --> concatenation (n)一連串有關聯的事件、想法或事物 <-- con + caten 鐵鍊 = chain + ate
 			+ concave
 			+ conceive --> conceivable
@@ -805,6 +804,7 @@
 			+ counterintuitive (adj)反直覺的/反常識的
 			- counteroffer (n)還價
 			+ counterproductive (adj)產生反效果的/適得其反的
+			- countervailing (adj)對抗的/抵消的/制衡的
 
 		2. 補足 = complementary
 			- counterbalance (v)使平衡/彌補 = offset = compensate = recompense = indemnify
@@ -868,6 +868,7 @@
 		+ precursor (n)先驅/先兆 = forerunner = predecessor, 先驅物質
 		+ procure (v)取得/獲得 = obtain = acquire, 說服 = persuade --> procurement (n)獲得/取得/採購
 		- recur (v)再發生/復發, 重提
+		- recurrence (n)再發生/復發
 		* recourse (v)求助/依靠
 		+ /ˈsʌkə/ succor (n/v)救濟/援助 = relief = help
 		- watercourses (n)水道/運河
@@ -959,6 +960,7 @@
 		- /ˈɛksʌɪz/ excise (v)刪除, 切除 (n)消費稅
 		- /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使/運用 (n)活動 (v)擔心 = worry = perplex
 		- incise (v)切/切割 = cut --> incision (n)切口/傷口, 切割/切開
+		- incisor (n)門牙/前齒
 		+ incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute, 敏銳的
 		+ précis (n)摘要/大綱 = summary = abstract
 		- precise (adj)精確的 = exact = rigorous
@@ -1819,7 +1821,8 @@
 		- donor (n)捐血者/器官捐贈者/捐助者 = benefactor
 		- dose (n)劑量, 一劑
 		- overdose (n/v)用藥過量
-		* pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
+		+ pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
+		+ pardonable (adj)可以被原諒的 = excusable
 
 	dorm 睡 = sleep
 		+ dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
@@ -1833,9 +1836,10 @@
 		- dossier (n)檔案/卷宗
 
 	decor 美/合適 = beauty, honor, seemly
+		+ decor (n)裝飾/室內裝潢, 舞臺裝飾
 		- decorate (v)裝飾
 		+ decorum (n)端莊/合宜, 禮節/禮貌 = etiquette
-		+ decorous (adj)有禮貌的/高雅的/端莊的
+		+ decorous (adj)端莊穩重的/禮貌得體的
 		+ indecorous
 
 	dextr 右
@@ -2099,7 +2103,7 @@
 		- embattle (v)備戰, 加強(防禦) = fortify --> embattled (adj)布陣的/準備戰鬥的, 處境艱難的
 		- embed (v)牢牢嵌入, 栽種 <-- em + bed 床
 		+ embellish (v)裝飾 = adorn = flourish, 潤飾/美化 = flourish = enhance --> embellishment (n)裝飾, 潤色 <-- em + bel 美 = pretty + lish
-		- embezzle (v)盜用/貪污 <-- em + bezzle 破壞 = destory
+		- embezzle (v)盜用/貪污 --> embezzlement (n)侵吞/盜用公款 <-- em + bezzle 破壞 = destory
 		+ emblem (n)象徵/標誌, 徽章 --> emblematic (adj)作為象徵的 <-- em + blem 放 = put
 		- emblazon (v)裝飾/刻記
 		* embody (v)體現/具體地表顯, 包括/包含
@@ -2297,6 +2301,7 @@
 		- essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
 		* essential (adj)本質的, 必要的/不可缺的 (N)要素/要點/必需品, 本質
 		+ quintessential (adj)典型的 = typical
+		+ quintessence (n)典範/典型, 精華, 第五元素 <--> quiescence
 
 	ethno, ethn 種族/文化 = race, culture
 		* /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
@@ -2815,7 +2820,7 @@
 		- /ˈɡreɪdɪənt/ gradient (n)斜坡, 坡度, 梯度
 
 	gee, geo 地球 = earth
-		+ apogee (n)遠地點
+		+ apogee (n)高峰/頂點 = zenith, 遠地點 <--> perigee
 		+ perigee (n)近地點
 		- geology (n)地質學
 		- geography (mn)地理學, 地形/地勢 = landform (n)地區
@@ -2851,7 +2856,7 @@
 		+ heterogeneous
 		* indigenous (adj)本地的/天生的 = native = innate = inherent = natural = spontaneous <-- in + di + gen + ous
 		+++ /ɪnˈdʒiːnɪəs/ ingenious (adj)足智多謀的/心靈手巧的 = cunning = clever, 製作精巧的/巧妙的 = subtle = clearly inventive
-		+ ingenuity (n)足智多謀的/心靈手巧 = cunning = adeptness
+		+ ingenuity (n)足智多謀/心靈手巧 = cunning = adeptness
 		+++ /ɪnˈdʒɛnjʊəs/ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
 		- octogenarian
@@ -3980,7 +3985,7 @@
 		+ misnomer
 		- misperceive (v)誤解 = misunderstand
 		- misread (v)讀錯, 錯誤地解釋
-		+ misrepresent (v)誤傳/歪曲 = distort
+		+ misrepresent (v)誤傳/歪曲 = distort --> misrepresentation (mn)誤傳/歪曲
 		- misshapen (adj)畸形的/奇形怪狀的
 		- mistake (n)錯誤, 錯誤/不精確 (v)錯看 = be wrong about, [for]認錯
 		- mistaken (adj)錯誤的, 誤解的
@@ -4386,6 +4391,7 @@
 		- /ˌniːə(ʊ)ˈlɪθɪk/ Neolithic (adj)新石器時代的 <-- neo + lith + ic
 		+ neologism (n)新字/新義
 		+ neophyte (n)新手/初學者 = novice = beginner = fledgling = tyro, 新信徒 <-- neo + phyte 植物
+		+ neoteric (adj)現代的/新式的 (n)現代人
 
 	neutr 兩者皆非/中 = neither <-- ne 不 + uter 其一 = either
 		- neutral (adj)公平的/中立的 = impartial, 無特色的, 略帶灰色的, 中性的, 不帶電的 (n)中立者/中立國, 灰白色, 汽車空檔
@@ -6027,6 +6033,7 @@
 	rect, recti 正/直 = right, straight
 		* correction (n)改正, 懲治/懲罰
 		- rectangle (n)長方形/矩形
+		+ rector (n)教區牧師/教區長, 院長/校長
 		- rectify (v)改正/調正, 提純/精餾, [電]整流, 求(曲線)的長度
 		+ rectitude (n)誠實/正直 = uprightness = probity = righteousness
 
@@ -6131,6 +6138,7 @@
 	reg, regul, reign 統治
 		+ interregnum (n)無王時期/空位期, 過渡期
 		- regal (adj)帝王的, 莊嚴的/堂皇的
+		+ regent (n)攝政者/攝政王, 州立大學董事會董事 (v)作為攝政者
 		+ /reɪˈʒiːm/ regime (n)政體/政權, 社會制度
 		- regimented (adj)嚴格組織的/嚴格控制的
 		+++ regulate (v)管理/控制, 校準 --> regulation (n)規章/規則, 管理/控制 (adj)正規的/正式的, 公式化的 = formulaic
@@ -7462,6 +7470,7 @@
 		+ unseemly (adj)不適當的/不宜的 = indecorous = unbecoming
 		* unsentimental (adj)不感情用事的
 		- unsettle (v)使焦慮/使不安 = disturb --> unsettling (adj)令人不安的 = disturbing
+		+ unskillful (adj)笨拙的
 		- unsound (adj)不結實的/不堅固的, 不健康的/有病的, 無根據的/不可信的, 不夠好的/不可接受的
 		+ unsparing (adj)不吝惜的/大方的 = generous = lavish, 不寬恕的/嚴厲的 = merciless= unmerciful = harsh
 		- unspoiled (adj)未被破壞的

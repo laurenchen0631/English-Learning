@@ -307,7 +307,7 @@
 		- Many arguments try to **confuse test takers by arguing that correlation and causation are one and the same**. But in fact, they aren’t. 
 		- While correlation just means that two events have occurred simultaneously, causation means that one event is the result of another event. Ine should be careful enough to understand that just **because one event happens after another, it doesn’t mean that the first event caused the other to occur.**
 	5. The Statistical Irrelevance:
-		- While we appreciate any kind of statistical data that further bolsters the author’s point of view, we must also be careful to a**nalyze the relevance of the statistical data in a particular scenario.**
+		- While we appreciate any kind of statistical data that further bolsters the author’s point of view, we must also be careful to **analyze the relevance of the statistical data in a particular scenario.**
 	6. The Data Bias
 		- Sometimes, even though surveys include a large number of people or a certainly large sample space, it is not enough to conclude that the results obtained from the survey are really true. Biased data is another reason why data can be manipulated with, or tainted easily.
 		- A survey is designed, consciously or unconsciously, to yield certain desired responses, and this definitely manipulates responses by providing narrow options.
