@@ -790,6 +790,7 @@
 	- My employer gave me no help when I started my new job - I was just left to sink or swim.
 - spread oneself too thin 同時做太多事情
 	- I realized I'd been spreading myself too thin so I resigned as secretary of the golf club.
+- still waters run deep 深藏不露
 - That was then. This is now. 此一時，彼一時
 - tit for tat 以牙還牙
 	- I noticed she didn't send me a card - I think it was tit for tat because I forgot her birthday last year.

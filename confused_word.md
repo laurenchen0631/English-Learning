@@ -87,6 +87,7 @@
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - consort <--> consortium <--> comport
+- consummate
 - content <--> contention <--> contentment
 - contingent <--> continent <--> contiguous 
 - convey <--> convoy
@@ -106,13 +107,13 @@
 - creak <--> creek <--> creep
 - cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
-- cuddle <--> fuddle <--> befuddle <--> muddle <--> saddle
+- cuddle <--> fuddle <--> befuddle <--> muddle 
 - curate <--> curator
 - curb <--> cub
 
 ## D
 - dabble <--> dribble <--> paddle <--> puddle
-- daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt
+- daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debilitate <--> deliberate
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
@@ -265,6 +266,7 @@
 
 ## I
 - idiom <--> idiot
+- incarcerate
 - indolence <--> insolence
 - indict <--> indicate
 - induct <--> induction <--> induce <--> inducement <--> inductive
@@ -350,6 +352,7 @@
 - mores
 - moral <--> morale
 - morose <--> remorse
+- mortify <--> mortality
 - mosquito <--> mosque
 - mote <--> mite
 - motley <--> medley
@@ -364,7 +367,7 @@
 - naive <--> native
 - necessitate --> necessitous
 - nib <--> nibble <--> nipple <--> nip <--> sip 
-- notion <--> notch <--> note <--> botch <--> blotch
+- notion <--> notch <--> note <--> botch <--> blotch <--> scotch
 - nuance <--> nuisance
 
 ## O
@@ -376,6 +379,7 @@
 - odium <--> opium
 - offensive <--> inoffensive
 - onset <--> outset
+- opaque <--> opacity
 - orchard <--> orchid
 - ordain <--> ordeal <--> ordinance <--> ordnance
 - ostentatious <--> ostensible
@@ -415,7 +419,7 @@
 - plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker
-- plumb <--> plumber <--> plume
+- plumb <--> plumber <--> plume <--> slumber <--> slump
 - pock <--> poke
 - poll <--> pollen <--> pollinate
 - poppy <--> pop <--> poop
@@ -433,6 +437,7 @@
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
 - prestige <--> vestige
+- progenitor <--> primogenitor
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
 - probe <--> prod <--> pod <--> prop <--> propitiate
@@ -498,15 +503,26 @@
 - rubric <--> lubricate <--> fabricate
 
 ## S
+- sabotage <--> sabot <--> saboteur
+- sage <--> saga
 - salutary <--> salute <--> salubrious
 - salvage <--> savage
+- salve <--> slave <--> salvo
 - sanction <--> sanctify <--> sanctimony <--> sacrosanct
 - saw <--> sew
-- scad <--> scads <--> scald
+- scad <--> scads <--> scald <--> scalp <--> scalpel
 - scalp <--> scalpel
+- scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
+- seam <--> seamy <--> sear <--> sere
+- scion
+- scope <--> scoop
+- scour <--> scrounge
+- scrape <--> scrap <--> scratch
 - screed <--> creed
 - scuffle <--> ruffle <--> ruffian
+- screen <--> screech <--> screening
+- scurry <--> scurrilous
 - scruple <--> scrupulous <--> unscrupulous
 - scurvy <--> purvey
 - secure <--> secular
@@ -515,25 +531,29 @@
 - sententious
 - severe <--> sever <--> serve
 - sew <--> sewer <--> sewage <--> sow
+- shabby <--> shoddy
 - shatter <--> shattered
 - sheaf <--> sheath
 - shed <--> shred
 - shelf <--> shelve
 - shirk <--> shrink
 - shoulder <--> shroud
+- shriek
 - shuttle <--> shutter <--> shudder
 - silver <--> sliver
 - single <--> shingle <--> singe
 - sinuous <--> sin
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
-- slat <--> slate
-- slake <--> slack <--> slick
+- slab <--> slat <--> slate 
+- slake <--> slack <--> slick <--> sleek <--> slink
 - slaughter <--> onslaught
 - sleight <--> sleigh
+- slippage <--> slipshod <--> slipup <--> sloppy
 - slouch <--> slough
 - stationery <--> stationary
-- smooth <--> soothe
+- staunch
+- smooth <--> soothe <--> seethe
 - smudge <--> nudge
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
@@ -546,7 +566,8 @@
 - soporific <--> sporadic
 - spit <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spurn <--> spurt <--> sprout <--> spout
-- silt <--> slit <--> milt
+- squeamish
+- silt <--> slit <--> milt <--> jilt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - somnolent
@@ -557,6 +578,8 @@
 - storey <--> story
 - stiff <--> tiff
 - stifle <--> strife <--> strive 
+- straddle <--> saddle
+- strenuous
 - stride <--> strident
 - strike <--> stroke
 - strip <--> strap
@@ -582,14 +605,18 @@
 - thread <--> tread <--> threat
 - through <--> trough
 - toll <--> toil <--> atoll <--> extolling
+- torch <--> scorch
 - torpid <--> tumid <--> turgid <--> trepid
 - trapping <--> trap
-- tract <--> tractable <--> traction <--> intractable
+- trace <--> track <--> trek <--> trail <--> trailer
+- tract <--> tractate <--> tractable <--> traction <--> intractable
+- trait <--> traitor
 - treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
 - troop <--> troupe <--> trope <--> grope
 - tug <--> tuck <--> lug <--> mug <--> muggy
+- turmoil <--> moil <--> roil
 - turpitude
 - tutelage
 

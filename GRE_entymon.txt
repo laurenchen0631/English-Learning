@@ -848,7 +848,9 @@
 		** succession (n)接連/連續, 一連串, 繼任/繼承/繼承權 --> successive (adj)接連的
 
 	cur, curr, cor, corr, curs, cour 跑 = run
-		** /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide --> concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
+		++ /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide 
+		++ concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
+		++ concurrence (n)同時發生, 線的交點, 意見一致 = agreement = consistency
 		- corral (n)(牛、馬等)畜欄/圍欄 (v)把(馬、牛)趕進畜欄/把(一群人)集中起來
 		* /ˈkɒrɪdɔː/ corridor (n)走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
@@ -918,7 +920,7 @@
 		+ occupational (adj)職業的
 		* perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
 		*** percept (n)認知/感知 <|> precept --> perception (n)見解/觀念/看法 = conception = understanding, 感覺/知覺/感知
-		* perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
+		+ perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
 		+ perceptible (adj)可察覺到的/可感知的
 		+ percipient (adj)觀察敏銳的/有洞察力的 == perceptive (n)有感知力的人
 		+ precept (n)格言/箴言, 戒律 = principle = law = canon = tenet
@@ -1550,11 +1552,12 @@
 			- denude
 			+ depart (v)出發/啟程/離開, 偏離/背離 = diverge = deviate <-- de + part 走 = go
 			+ deplete
-			- deport (v)遣返, 流放 = exile = expel
+			- deport (v)遣返 = repatriate, 流放 = exile = expel --> deportation (mn)遣返
 			+ deprive --> deprivation
 			- deprecate
 			- deracinate (v)根除 = uproot = extirpate <-- de + racin 根 = root + ate
 			- derail (v)出軌, 阻撓
+			- deregulation (n)撤銷管制
 			* derogate
 			- desert
 			- desperate
@@ -1621,7 +1624,7 @@
 			- disgorge (v)嘔出 = vomit, 大量排放/流出, 不情願地提供/被迫交出, 去除酒中的沈澱物 <-- dis + gorge 喉嚨
 			- disgust --> disgusting
 			* dishearten (v)使洩氣/使沮喪 = daunt = discourage
-			- disillusion (v)醒悟/使幻想破滅 = disenchant
+			- disillusion (v)醒悟/使幻想破滅 = disenchant --> disillusionment (mn)醒悟
 			- disinfect (v)殺菌/消毒
 			+ disingenuous (adj)虛偽的/不誠實的 = insincere <--> candid
 			+ disintegrate (v)分崩離析/碎裂/瓦解, (核)衰變 --> disintegration (n)瓦解/碎裂, 衰變
@@ -1749,12 +1752,13 @@
 		- dystopian (adj)反烏托邦的 (n)反烏托邦主義者
 	
 	div, dei, deus 神 = god
-		** divine (v)占卜/預言 = augur, 推測 (adj)神的, 天賜的, 神聖的, 非凡的 --> divination (n)占卜/預言 = augury, 預測
+		++ divine (v)占卜/預言 = augur, 推測 (adj)神的, 天賜的, 神聖的, 非凡的 --> divination (n)占卜/預言 = augury, 預測
 		- /ˈdeɪɪfʌɪ/ deify (v)奉為神明/崇拜 = worship = adore --> deification (n)神化, 崇拜
 		- /ˈdeɪɪsʌɪd/ deicide (n)殺神
 		- deity (n)神, 神性
 
 	deci 十分之一 = tenth
+		- decennial (adj)十年間的/每十年的
 		* decibel (n)分貝 <-- deci + bel 貝(音量單位)
 		+ decimate (v)毀滅/大幅削減 --> decimation (n)大屠殺, 大幅削弱
 		- decimal (adj)十進位的, 小數的 (n)小數
@@ -1772,6 +1776,7 @@
 		+ dictum (n)名言/格言 = adage = aphorism
 		- edict (n)敕令/官方命令
 		- indicate (v)指示/指出/表明, 象徵/暗示
+		- indicia (n)指標/徵兆 = sign = indication
 		* indicative (adj)[of/that]象徵的/暗示的, [文]直說法的 (n)直說法
 		+ indict (v)起訴/控告 = accuse = inculpate --> indictment (n)起訴書 (mn)控告/告發
 		+ interdict (v)禁止 = prohibit = forbid, 切斷補給
@@ -1854,6 +1859,7 @@
 		- abduce (v)營救
 		+ adduce (v)引用/舉證
 		+++ conduct (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
+		- conductor (n)指揮, 隨車服務員, 導體, 避雷針 = lightning conductor
 		+ conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
 		- conduit (n)導管, 導線管, 引導人/引導組織
 		+ deduct (v)減去/扣除 = subtract, 演繹 = deduce = conclude = infer --> deductive (adj)推理的 --> deduction (n)演繹/推論, 扣除 = subtraction
@@ -2305,7 +2311,7 @@
 		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
 		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
 		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的 = prime
-		+++ prompt (adj)立即的/準時的 = punctual (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
+		+++ prompt (adj)立即的/準時的 = punctual = timely (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
 
 	electro 電
 		- electroencephalographic (adj)腦電圖的
@@ -2339,6 +2345,7 @@
 		+ forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate = recant, 背棄
 
 	fore, forth 前面 = before, front, superior
+		- fore (adj)在前部的 (n)前部/船頭 (prep)[非]從前 = before
 		- forebode (v)預示/預感 = foretell = predict <-- fore + bode
 		- forecast (v/n)預報/預測
 		- forefront (n)最顯要的位置/最重要的地位 = foreground
@@ -2350,7 +2357,7 @@
 		* forerunner (n)預兆/前兆 = herald, 先驅 = herald
 		+ foresee (v)預見/預知 = predict --> foreseeable (adj)可預見的
 		* foreshadow (v)預示/是…的預兆 = adumbrate = forebode = harbinger = herald = presage
-		- foresight (n)遠見/深謀遠慮 = prescience = presage
+		- foresight (n)遠見/深謀遠慮 = prescience = presage <--> hindsight
 		+ forestall
 		* foretell (v)預言/預示 = presage
 		- forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
@@ -2848,7 +2855,8 @@
 		+++ /ɪnˈdʒɛnjʊəs/ ingenuous (adj)率直的 = candid = sincere, 純樸的/單純的 = naive = simple = artless = innocent = guileless <|> ingenious
 		- lactogenic
 		- octogenarian
-		- progenitor (n)祖先, 先驅/始祖
+		+ primogenitor
+		+ progenitor (n)祖先, 先驅/始祖 = primogenitor
 		* progeny (n)後代/子女 = descendant
 
 	gene, gen 基因
@@ -2938,7 +2946,7 @@
 		- hypnotism (n)催眠 = mesmerism
 
 	hor 憤怒/怕 = bristle, tremble
-		- abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
+		+ abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
 		- horrible (adj)可怕的
 		- horrid (adj)可怕的, 令人不愉快的 --> horror (n)
 	    - horrific (adj)可怕的
@@ -3308,8 +3316,9 @@
 			- inborn (adj)天生的 = innate
 			+ innate
 			- incandescent --> incandescence
-			- incarcerate (v)監禁/關押 = imprison = confine = immure <-- in + carcer 監牢 = prison + ate
-			+ imprison (v)監禁/關押
+			* incarcerate (v)監禁/關押 = imprison = confine = immure <-- in + carcer 監牢 = prison + ate
+			* incarceration (mn)監禁 = imprisonment
+			+ imprison (v)監禁/關押 = incarcerate
 			+ incarnate
 			+ incarnadine
 			+ incendiary
@@ -3616,6 +3625,7 @@
 		+ adjudicate (v)[法]判決/宣告 = arbitrate = umpire
 		- judge (v)審判/判決, 判斷/認為 (n)裁判, 法官/推事/裁判員
 		* judicial (adj)司法的/審判的, 法官的/法庭的
+		- judiciary (n)法官
 		+ judicious (adj)明斷的 = discreet = prudent = circumspect = deliberate = measured = canny = guarded = methodical
 		+ injudicious
 		* prejudge (v)預先判斷
@@ -3844,8 +3854,9 @@
 		+ /ləˈbɔːrɪəs/ laborious (adj)耗時費力的/艱巨的/艱難的 = ardous = burdensome = onerous = strenuous = tiresome
 		- labored (adj)吃力的 = strained, 不自然的 = unnatural
 		- /ləˈbɒrəˌtəri/ laboratory (n)實驗室 = lab
-		- /ˈlab(ə)rɪnθ/ labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
-	
+		+ /ˈlab(ə)rɪnθ/ labyrinth (n)迷宮, 錯綜複雜 <-- labyr + inth 裡面 = within
+		+ labyrinthine (adj)錯綜複雜的, 複雜難懂的 = intricate
+
 	lap, lapse 落下/滑倒 = fall, slip, slide
 		+ collapse (v)倒塌/坍塌, (因疾病或虛弱而)倒下/昏倒, 崩潰/垮掉/失敗 = founder, 折疊 = fold (n)崩毀/垮台/崩潰
 		- elapse (v)時間流逝
@@ -3910,6 +3921,7 @@
 		+ relinquish (v)自願放棄/讓出 = forgo = resign = yield = release = renounce = recant = surrender
 
 	liqu 液體 = liquid
+		- deliquesce (v)潮解/溶解
 		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmonious, 易換成現金的
 		- liquidate (v)清算/清償, 把..換為現金, 殺 --> liquidation (n)清算/清償, 殺害
 		- liquor (n)白酒/烈酒, 汁水, 溶液
@@ -3999,7 +4011,9 @@
 		- missile (n)發射物/投射武器, 飛彈/導彈
 		** mission (n)任務/作戰/太空遠征, 外交使團/代表團, 傳教/佈道, 佈道團, 使命/天職
 		- missionary (n)傳教士 (adj)傳教的
-		* permit (v)許可/准許 = consent, 使可行, 容許 = allow for = admit of (n)許可證/執照 --> permissive (adj)寬容的, 許可的/非義務的, 容許的
+		+ permit (v)許可/准許 = consent, 使可行, 容許 = allow for = admit of (n)許可證/執照
+		+ permissive (adj)寬容的, 許可的/非義務的, 容許的
+		+ permissible (adj)許可的
 		+++ premise (n)假定/前提 (v)基於, 提出..為前提
 		- promise (n/v)保證 (n)前兆, 前途
 		- promising (adj)有希望的/有前途的
@@ -4062,6 +4076,7 @@
 		* mandatory (adj)命令的, 強迫的/義務的 = compulsory = obligatory
 		+ countermand (v)取消(訂貨)/撤回(命令) = cancel = revoke = recall
 		++ /kəˈmɑːnd/ command (v)命令/指示, 指揮/統率, 擁有 (n)命令, 掌握/運用能力
+		- commander-in-chief (n)總司令
 		- commandeer (v)徵用, 霸佔, 徵募 = enlist
 		++ /kəˈmɛnd/ commend (v)稱讚/讚賞 = praise, 推薦 = recommend, 委託/交托 = entrust
 		+ demand (v)強烈要求/強要/需要 (n)強烈的要求 --> demanding (adj)艱難的 = taxing, 不易滿足的
@@ -4196,6 +4211,7 @@
 	monstr 顯示 = show
 		++ demonstrate (v)示範/展示, 證明/論證, 顯示/表露, 參加示威
 		++ demonstrative (adj)感情流露的, 論證的/證明的, [詞]指示性的 (n)指示詞
+		+ demonstrable (adj)可論證的
 		+ demonstration (n)顯示/表露, 展示, 示威
 		+ remonstrate (v)抗議/反對 = object = protest, 進諫/告誡
 
@@ -4348,6 +4364,7 @@
 	milit 士兵 = soldier
 		+ militate (v)[militate against]起作用/產生影響
 		- military (adj)軍事的/軍隊的 (n)軍人/軍隊
+		- militarize (v)使備戰, 使軍事化
 		- /mɪˈlɪʃə/ militia (n)民兵/義勇軍, 反抗軍
 		- militant (adj)好鬥的 = aggressive = assertive (n)好戰者/激進份子
 		- /ˌmɪlɪtəˈrɪstɪk/ militaristic (adj)軍國主義的/強硬的 = hawkishs
@@ -4424,6 +4441,8 @@
 		+ nominal (adj)名義上的/有名無實的, 名目上的/與實際價值不相符的, 微不足道的(費用), 名詞性的
 		- nominate (v)提名, 任命/指定 = appoint
 		- nominative (adj)主格的, 被提名的 (n)主格
+		- nominee (n)被提名人, 登記人
+		- nomination (n)提名/任命, 被提名人
 		- denominate (v)命名 = call = name, 結算(貨幣) --> denomination (n)宗派/教派, 面額, (貨幣或長度的)單位, 名稱/命名
 		+ misnomer (n)誤稱/人名誤載
 		+++ /rɪˈnaʊn/ renown (n)名聲/聲譽 = fame --> /rɪˈnaʊnd/ renowned (adj)有名的/著名的
@@ -4431,6 +4450,7 @@
 	not 標示/注意 = note, mark
 		- /ˈanəteɪt/ annotate (v)註解/註記 --> annotation (n)註解/註釋
 		- notorious (adj)惡名昭彰的 = flagrant
+		- notoriety (mn)惡名昭彰/聲名狼藉
 		+++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
 		+ denote (v)表示/代表 = indicate = mean
 	    + notion (n)概念/想法 = idea = concept, 衝動, [notions]小日用品
@@ -4868,7 +4888,7 @@
 		+ preserve --> preservative
 		- preside
 		+ prestige --> prestigious
-		+ presume --> presumption --> presumptuous 
+		+ presume --> presumption --> presumptuous --> presumptive
 		+ presuppose --> presupposition
 		+++ pretend --> pretended
 		+ pretense --> pretension --> pretentious
@@ -5095,6 +5115,7 @@
 		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		++ prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥, 塗底漆, 啟動(幫補), 上油
 		- primeval
+		+ primogenitor (n)始祖 = progenitor
 		- primp (v)刻意打扮/精心打扮
 		+ primitive (adj)原始的/遠古的, 原始的(情感), 純樸的/自然的(藝術), 粗糙的/簡單的, 原來的 = original (n)原始人, 文藝復興以前的藝術家/風格純樸的藝術家, 風格純樸的作品, 原詞/根詞
 		+ primordial (adj)原始的/最初的 = original = primeval, 根本的/基本的 = baisc
@@ -5202,6 +5223,7 @@
 		+ partisanship (n)偏見 = prejudice = bias
 		- nonpartisan (n)無黨派的人
 		- partition (n)分開/隔開 = division, 分隔間 (v)分隔
+		- partnership (n)合夥關係, 合股關係
 
 	path, pathy 感情/痛苦 = feeling, suffering == pass
 		+ /anˈtɪpəθi/ antipathy (n)反感/厭惡/憎恨 = animosity = antagonism = aversion = distaste = enmity = hatred = rancor = hostility <|> apathy
@@ -5534,7 +5556,7 @@
 		* /ˈpeɪtr(ə)n/ patron (n)贊助者/資助者, 老主顧
 		* patronage (n)資助/贊助 = auspices, 經常光顧/惠顧, 權力/特權 = right, 恩賜態度
 		+++ patronize (v)對……以恩人自居/以高人一等的態度對待 = condescend, 經常光顧/惠顧, 資助/贊助 --> patronizing (adj)擺出恩賜態度的/要人領情的
-		+ repatriate (v)遣返/送..回國 (n)被遣返回國者
+		+ repatriate (v)遣返/送..回國 = deport (n)被遣返回國者
 
 	pli, plic, plex, ply 彎 = fold, plait
 		- accomplice (n)同謀/幫凶 = conspirator = collaborator
@@ -5681,6 +5703,7 @@
 		- popularity (n)普及/流行
 		- populate (v)組成人口, 居住於/移民於, 充滿, 填入(資料) = fill in
 		- population (n)全部居民, 人口, 生物族群
+		- populist (adj)民粹主義的/吸引一般人的 (n)民粹主義者
 
 	pseudo, pseud 假 = false, pretended, unreal
 		+ pseudonym
@@ -5949,6 +5972,7 @@
 			- remove (v)移走, 脫掉, 遷移, 廢除 = abolish, 解僱 = dismiss, [be removed from]離..很遠/跟..很不同 (N)距離/間隔
 			+++ render (v)提供 = furnish = supply, 呈遞 = present = submit, 作出(判決) = deliver, 放棄/讓出 = surrender = give up = yield, 變成/使 = make = become, 表達/描繪 = represent = depict, 演奏 = perform, 翻譯 = translate, 煎熬/提取(脂肪), [建]給……抹灰打底 (n)底灰 <-- re + n + der 提供 = give
 			- rendering (n)演出 = performance, 翻譯 = translation, 描繪 = depiction, 抹灰泥, 灰泥層, 交出/歸還 = surrendering
+			- rendition (n)表演/演繹, 譯文/解釋, 非常規引渡 = extraordinary rendition
 			+ renege
 			- renegade
 			+ renounce
@@ -6585,7 +6609,8 @@
 		* assent (v)同意/贊成 = accede = accord = consent (n)同意 = approval = agreement, 許可 = sanction
 		* consent (n/v)許可 = permit (v)同意 = agree to 
 		+ consensus (n)意見一致/共識 --> consensual (adj)一致的/有共識的
-		* dissent (n/v)不同意/持異議 = demur --> dissenter (n)反對者/持異議者 = maverick
+		+ dissent (n/v)不同意/持異議 = demur --> dissenter (n)反對者/持異議者 = maverick
+		+ dissension (mn)意見不合
 		- desensitized (adj)不敏感的, 麻木的 = numb
 		- insensate (adj)無感覺的 = unfeeling, 無情的 = unfeeling = cruel, 無理性的/愚鈍的 = foolish
 		+ insensible (adj)昏迷的/不省人事的 = unconscious, 發麻的/麻木的 = numb, [of/to]無動於衷的 = indifferent to = unaware of = unresponsive, 微不足道的 = inappreciable
@@ -6676,6 +6701,7 @@
 		+++ presume (v)假定/假設 = suppose = assume, 視..為理所當然 = take for granted, 擅自/冒然 = dare
 		+ /prɪˈzʌmptʃʊəs/ presumptuous (adj)放肆的/專橫的 = arrogant = overweening = petulant
 		+ presumption (n)推測/假定, 冒昧/放肆的行為 = effrontery
+		+ presumptive (adj)推斷的, [法]推定的, 放肆的/專橫的 = presumptuous
 		- /rɪˈzjuːm/ resume (v)重新開始/繼續 = renew, 收回/取回
 		- /ˈrɛzjʊmeɪ/ résumé (n)摘要/梗概 = summary
 		+ subsume (v)歸入/納入 = include = absorb
@@ -7512,6 +7538,7 @@
     	- upland, uplands (mn)高地/山地
 		* uplift (n/v)舉起 = raise, 隆起 = upheave, 振奮/鼓舞
 		* upright (adj)挺直的/筆直的/直立的, 正直的/誠實的 (adv)挺直地/垂直地 (n)柱, 直立式鋼琴
+		- uprising (n)起義/暴動 = revolt = rebellion
 		- uproar (n)喧鬧/騷動 = tumult --> uproarious (adj)騷動的/喧囂的, 令人捧腹大笑的 = funny
 		* uproot (v)連根拔起, 根除/滅絕 = eradiate, 把……趕出家園
 		- upstage (v)搶……鏡頭/搶…的風頭 (adj/adv)向舞臺後部
@@ -7570,6 +7597,7 @@
 
 	verb 話語 = word
 		- proverb (n)諺語
+		- proverbial (adj)諺語的, 眾所周知的 (n)諺語
 		+ verbal (adj)言語的/字句的, 口頭的/非書面的, 嘮叨的, 動詞的 (n)動詞, 動名詞, 電影歌詞
 		- verbatim (adj/adv)一字不差地/逐字地
 		- verbiage (mn)冗詞/廢話/贅語
