@@ -119,6 +119,7 @@
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
 - deft <--> daft
+- demean <--> demeanor
 - desiccate <--> dissipate
 - despot <--> unspotted
 - deterrent <--> determinant
@@ -129,6 +130,7 @@
 - dilatory <—-> dilate
 - disciple <--> discipline
 - discomfit <--> discomfort
+- discompose <--> decompose
 - discreet <--> discrete <--> discretion <--> discretionary
 - disjoint <--> disjunction
 - dismissal <--> dismissive
@@ -283,8 +285,10 @@
 - inch <--> itch
 - incipient <--> sapient
 - incite
+- incredulous <--> incredible
 - iniquity <--> inanity
 - innate <--> natal
+- innuendo
 - insipid <--> sapid <--> vapid
 - intend <--> superintend
 - inter <--> intern
@@ -647,10 +651,15 @@
 ## V
 - vacillate <--> ventilate 
 - vagrant <--> vagary <--> vague
+- vessel <--> vassal
+- venal <--> venial <--> vernal
 - veritable <--> verifiable1
 - vie <--> vile <--> vilify <--> revile
+- vindicate <--> vindictive
+- vintage <--> vantage
 - vituperation
 - vocation <--> vacation
+- vogue <--> rogue
 - volume <--> voluble
 
 ## W

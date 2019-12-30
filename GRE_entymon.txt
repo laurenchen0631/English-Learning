@@ -62,6 +62,7 @@
 			* allege
 			- allegiance
 			+ alleviate
+			- alight (v)下來/下去(交通工具), (鳥)降落/飛落 (adj)燃燒的/著火的 = burning, 照亮的
 		    - allot (v)分配/分派 = give = apportion  <-- al + lot 分 = divide
 			+ allure --> alluring
 			+ ameliorate
@@ -193,7 +194,7 @@
 		+ amiable (adj)(自己)和藹的 = affable <-- amicable
 		+ amicable (adj)友善的/友好的 = amiable
 		- amity (n)友好關係
-		+ enamor (v)使傾心, 吸引 = charm = captivate = intrigue --> enamored (adj)迷戀的
+		+ enamour, enamor (v)使傾心/使迷戀 --> enamored (adj)迷戀的
 		* glamor, glamour (n)吸引力/魅力 --> glamorous (adj)富有魅力的
 		- glamorize (v)美化/使更有魅力
 
@@ -883,6 +884,7 @@
 	cip, cup, cid, ceit, ceiv, cept, capt, ceipt 落下/拿/抓/取得 = take, capture, fall == capt == sume
 		- accept (v)接受/收受/歡迎/相信
 		+ anticipate (v)預期/期望, 預先做 = forestall
+		+ capacious (adj)容量大的/寬敞的 = roomy
 		+ /kəˈpasɪti/ capacity (n)容量/容積, 電容 =  capacitance, 生產力, 能力/才能, 資格/地位
 		- capture (v)俘虜/俘獲, 贏得/獲得/奪取, 表現/描繪/刻畫, 拍攝 (n)戰利品
 		- captive (n)俘虜 = capture (adj)被囚禁的/被俘的 = imprisoned = confined
@@ -1069,6 +1071,7 @@
 		+ credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
 		+ credo (n)信念/信條 = creed
 		+ credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信/易受騙
+		+ incredulous (adj)不輕信的/不相信的 <|> incredible
 		* recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
 		+ discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
 		+ discredited (adj)名聲掃地的
@@ -1405,6 +1408,7 @@
 	cruc, crus 十字/交叉 = cross
 		+ crucial (adj)關鍵的/決定性的 = critical = decisive, 嚴酷的/艱難的 = severe = trying
 		- cruise (v)坐船遊覽/航遊, 巡航, 獵豔
+		- cruiser (n)巡洋艦, 遊艇 = yacht = motorboat, 警察巡邏車
 		- crusade (n)(為理想或信念而奮鬥的)運動/鬥爭, 聖戰 (v)為達到某理想而奮鬥
 		- cruciform (n)十字形
 		- crux (n)關鍵/癥結
@@ -1598,7 +1602,7 @@
 			* discompose
 			* discombobulate (v)使困惑/使不安 = confuse = disconcert = frust <-- discompose
 			- disconsolate (adj)憂鬱的/哀傷的
-			* discontent (v)使不滿 = dissatisfy = displease = envy
+			+ discontent (n)不滿, 不滿者 --> discontentment (n)
 			+ discord
 			- disfigure
 			- disfranchise, disenfranchise (v)剝奪選舉權
@@ -1752,6 +1756,7 @@
 		+ dyspeptic (adj)消化不良的, 易怒的 = grumpy = cantankerous = irritable <-- dys + pept 消化 = digest + ic
 		* dysfunction (n)官能障礙
 		- dystopian (adj)反烏托邦的 (n)反烏托邦主義者
+		- dystopic (adj)反烏托邦的
 	
 	div, dei, deus 神 = god
 		++ divine (v)占卜/預言 = augur, 推測 (adj)神的, 天賜的, 神聖的, 非凡的 --> divination (n)占卜/預言 = augury, 預測
@@ -2173,6 +2178,8 @@
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
 		- /ˌɒntrəprəˈnəːrɪəl/ entrepreneurial (adj)具有企業精神的/願意冒險的 = enterprising
 		+ entertain
+		- entrance (n)入口, 進入 (mn)進入的權利 (v)使入迷 = enchant = intrigue = captivate, 對..施咒 <-- enter
+    	+ entrancing (adj)迷人的 = charming
 		- enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
 		* entrap (v)使投羅網, 欺騙
 		++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirmed <-- en + trench
@@ -4999,7 +5006,7 @@
 		+ compound (n)複合物/混合物/化合物, 有圍牆的建築群 (v)組成/構成 = constitute, 使混合 = mix, 複利計算, 使惡化/使加劇, 復合處分 (adj)複合的, 以複利計算的
 		- decompose (v)(使)腐爛, (使)分解 --> decomposition (n)分解, 腐爛
 		- depose (v)宣誓作證 = testify, 廢黜/免職 --> deposition (n)宣誓作證/具結書, 罷免/廢黜, 沉澱
-		* discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
+		+ discompose (v)使不安/使煩惱 = disturb = agitate = disquiet
 		+ deposit (n)儲蓄, 保證金, 押金, 堆積/沈澱, 礦床, 放/寄放 (v)存, 付保證金, 沈澱, 放/寄存, 下蛋
 		*** dispose (v)處理/處置 = dispatch, 殺 = dispatch, 擊敗/克服, 快速吃掉, 使傾向於 = incline, 配置/布置, 決定, [of]擺脫 = get rid of
 		- disposal (n)清除/處置, 克服/擊敗, 出售/轉讓, 配置/布置
@@ -6041,7 +6048,7 @@
 		+ deride (v)嘲弄/愚弄 = ridicule = mock = gibe = scoff = scorn = taunt
 		+ derision (n)嘲笑 = ridicule --> derisive (adj)嘲笑的 = disdainful = insulting = sarcastic = scornful
 		+++ ridicule (n/v)嘲笑/揶揄/奚落 = caricature = contempt = disdain = deride = derision = mockery = parody = sarcasm = satire = scorn = taunt = humiliate = lampoon --> ridiculous (adj)荒唐的/可笑的 = absurd = ludicrous = bizarre = nonsensical = outrageous = preposterous
-		- risible (adj)滑稽的/可笑的
+		+ risible (adj)滑稽的/可笑的
 
 	rade, ras 摩擦 = scrape
 		- /əˈbreɪd/ abrade (v)磨損/刮除 = scrape --> abrasion (n)擦傷, 磨損/磨耗
@@ -6152,6 +6159,7 @@
 		- rapine (n)強奪/搶劫 <|> repine
 		- rapid (adj)快的/迅速的/極速的 --> rapids (n)急流/湍流
 		* rapt (adj)著迷的/痴迷的/全神貫注的 = preoccupied = enraptured --> rapture (n)著迷/痴迷, 狂喜, 被提(基督教末世論中的一種概念，認為當耶穌再臨之前，已死的信徒將會被復活高升)
+		+ rapturous (adj)欣喜若狂的/狂喜的
 		- ravine (v)溝壑/深谷
 		- ravish (V)使陶醉/使狂喜 = enrapture, 強姦 = rapes
 		** rave (n/v)胡言亂語, 狂罵/咆哮 = rant, 狂熱讚揚/極力誇獎, 參加狂歡聚會 (n)狂熱讚揚/極力誇獎, 狂歡聚會/銳舞舞會
@@ -6395,7 +6403,7 @@
 		- /ˈstatjuː/ statue (n)雕像 = sculpture = statuary <|> statute <|> astute
 		- /statʃʊˈɛt/ statuette (n)小雕像
 		- statuary (mn)雕塑
-		- stature (n)聲望 = reputation = prestige, 身高
+		+ stature (n)聲望 = reputation = prestige, 身高
 		- status (n)地位 = standing = station, 狀態 = situation, 近況
 		- /ˈstatʃuːt/ statute (n)法令/規範 = canon --> statutory (adj)法定的
 		- stead (n)代替/接替
@@ -7460,7 +7468,7 @@
 		- unremitting (adj)不間斷的/持續的 = incessant = restless
 		- unrepentant (adj)不悔悟的/不後悔的 = unregenerate
 		- unrequited (adj)得不到回報的/單相思的
-		- unrest (n)動亂/動盪, (情緒)混亂
+		- unrest (n)動亂/動盪, 不安
 		- unreserved (adj)全部的/徹底的 = unqualified = unmitigated = total = complete, 開誠布公的 = frank, 未被預訂的
 		+ unresolved (adj)未解決的(問題)
 		+ unruly (adj)任性的/不守規矩的 = fractious

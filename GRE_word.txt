@@ -198,6 +198,7 @@
     * behold (v)[古]看 = observe = see = witness --> beholder (n)目擊者 = witness
     + beholden (adj)[to]感激的/受惠的/對..負有義務的 = indebted
     + behoove, behove (v)[it behooves sb to]理應, [否定]適合
+    + belabor (v)過分冗長地說或做, 批評/攻擊 = attack = criticize
     ++ belie (v)給人..的假像/掩飾, 辜負/使失望/使落空 = fail to fulfil <--> excel oneself
     + bemoan (v)哀嘆/惋惜/悲悼
     + benighted (adj)愚昧無知的, 陷入黑暗的
@@ -368,7 +369,6 @@
     - bedside (n)床邊
     - beetle (n)甲蟲, 木槌 (v)[非]匆忙趕住, 用槌打/用杵搗, 凸出 (adj)(眉毛)粗濃的
     - befall (v)(壞事)降臨於(某人)
-    - belabor (v)過分冗長地說或做, 批評/攻擊 = attack = criticize
     - belated (adj)遲來的 = delayed
     - /bɪˈliːɡə/ beleaguer (v)圍攻 = besiege, 使..處於困境 <-- leaguer
     - belletrism (n)純文學至上主義
@@ -829,6 +829,7 @@
     - coy (adj)靦腆的/害羞的, 遮遮掩掩的/含糊其詞的
     - crackdown (n)鎮壓
     - crackle (v)發出細碎的爆裂聲, 使充滿生氣 (n)細碎的爆裂聲, 碎裂花紋
+    - crag (n)懸崖/峭壁
     - cram (v)塞滿/填塞, 死記硬背/臨時抱佛腳 --> crammed (adj)塞滿的/擠滿的
     - cramp (mn)痙攣/抽筋, (月經)腹痛 (n)鐵夾鉗 (v)束縛/阻礙(發展) = inhibit, 用夾鉗固定, 痙攣/抽筋 <|> clamp
     - cramped (adj)抽痙的, 狹小的, 限制發展的, 小且難以閱讀的
@@ -1122,6 +1123,7 @@
     - eavesdrop (v)偷聽/竊聽 = overhear = snoop <-- eaves 屋簷 + drop
     - ebb (v)退潮 = recede, 衰退/減少 = decline = wane (n)退潮
     - editorial (adj)編輯的 (n)社論
+    - eerie (adj)怪異而令人恐懼的/令人毛骨悚然的
     - elbow (n)肘, 衣服的肘部, 肘狀物 (v)用肘推 = nudge, 推擠, 摒棄(人或意見) = dismiss
     - elephant (n)大象 --> elephantine (adj)像大象的/巨大的/笨拙的 
     - embryo (n)胚胎, 初期 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
@@ -1130,7 +1132,6 @@
     - empty (adj)空的, 空洞的/無意義的, 無價值的 (V)倒/倒空, 使成為空的, [into]流入(海洋或湖) (n)空瓶
     - /ˌɛmpʌɪˈriːən/ empyrean (adj)天空的 = celestial (n)蒼天/最高天, 天空
     - ennui (mn)倦怠/無聊
-    - entrance (n)入口, 進入 (mn)進入的權利 (v)使入迷 = enchant = intrigue = captivate, 對..施咒 <-- enter
     - /ˈɒntreɪ/ entrée (n)主菜, 獲准進入的權力或特權/入場權
     - equine (adj)馬的, 像馬的 (n)馬 <-- equ 馬 = horse + ine
     - equipment (n)配備/裝備, 裝配, 才能/知識/能力
@@ -1282,7 +1283,7 @@
     * fray (n)磨損的邊緣, 競爭 (v)使精神緊繃, 留下氣味
     * /freɪt/ freight  (mn)貨物, 貨運, 運費 (n)運貨列車, 負擔 = load = burden (v)運輸, [be freighted with]充滿
     * frenzy (n)瘋狂/狂熱
-    *** fret (v)(使)焦慮, 侵蝕/腐蝕 = gnaw = erode = corrode, (侵蝕)形成(通道), 起波紋, 用卍字浮雕裝飾, 裝檔子 (n)卍字浮雕, (弦樂器指板上定音的)檔子, 海霧 = sea fret = sea fog
+    *** fret (v)(使)焦慮 = vex = harrow, 侵蝕/腐蝕 = gnaw = erode = corrode, (侵蝕)形成(通道), 起波紋, 用卍字浮雕裝飾, 裝檔子 (n)卍字浮雕, (弦樂器指板上定音的)檔子, 海霧 = sea fret = sea fog
     * fretful (adj)煩惱的/焦躁的
     * frisky (adj)愛玩的/活潑好動的 = frolicsome = coltish
     * frolic (N/V)嬉戲/玩鬧 = gambol = romp = lark, 挑逗 = flirt --> frolicsome (adj)活躍的/玩鬧的 = frisky
@@ -1905,6 +1906,7 @@
     - hurtle (n)快速移動/猛衝
     - hurricane (n)颶風
     - hush (v)使安靜, 噓, [up]掩蓋 (mn)靜寂 <|> husk
+    - hush-hush (adj)秘密的
     - husk (n)(種子或果實的)外殼 (v)除去…的外殼, 沙啞地說 (mn)沙啞 = huskiness 
     - husky (adj)聲音沙啞的, (男性)高大健壯的, 外殼的 (n)哈士奇犬
     - hustle (v)推/擠 = jostle, [into]硬逼 = bustle, 非法獲得, 強硬兜售, 做娼妓 (mn)忙碌 = bustle (n)詐騙
@@ -2537,6 +2539,7 @@
     + /nʌɪˈiːv/ naive (adj)天真的/幼稚的 = unsophisticated = childlike = ignorant, 無害的 = innocent, 樸素的(藝術)
     + /nʌɪˈiːvti/ naivete (mn)天真/幼稚/缺乏經驗或智慧, 無害/無邪, 樸素作品 <-- native
     + natation (mn)游泳 --> natatory (adj)游泳的
+    + natty (adj)整潔時髦的, 精巧的 = clever
     + naysay -> naysaid (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
     + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy
     + nebulosity (n)朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = mist, cloudy + ous
@@ -2545,6 +2548,7 @@
     + necromancy (n)通靈術, 巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
     + nepotism (n)偏袒親戚/任人唯親 = cronyism <-- nephew
     ++ nettle (n)蕁麻 (v)惹怒/使惱火 = irritate = sting = annoy = provoke = irk = exasperate = peeve = vex <|> mettle --> nettlesome (adj)令人惱怒的
+    ++ nice (adj)好的/宜人的 = pleasant = satisfactory, 好心的/友好的 = kind, 細微的/精細的 = subtle = fine, 需要小心的
     +++ /nɪtʃ/ niche (n)壁龕, 合適的職務, 合宜的小環境, 利基 (v)把..放入壁龕 (adj)特定的
     ++ noisome (adj)惡臭的 = fetid, 令人不快的 = disagreeable <-- noi 討厭 = annoy + some
     ++ /ˈnɒv(ə)l/ novel (adj)新穎的/新奇的 (n)小說 --> novelty (mn)新穎 (n)新奇的事物, 小巧而廉價的物品
@@ -2561,7 +2565,6 @@
 
     * narrate (v)講/敘述, 給..作旁白 --> narrative (n)故事, 記敘文 (adj)敘述的/講故事的 <-- nar 知道 = knowing + rate
     * native (n)本地人, 原住民, 原生動植物 (adj)出生地的, 本地的, 原生的, 天生的 = innate, 純的(礦物)
-    * natty (adj)整潔時髦的, 精巧的 = clever
     * nay (adv)而且/甚至 = or rather (n)否定/拒絕
     ** negotiate (v)商議/談判/交涉, 順利通過/成功越過, 轉讓, 洽兌 --> negotiation (n)商議/談判, 轉讓
     ** negotiable (adj)可商量的, 可轉讓的, 可通行的 = passable
@@ -3280,7 +3283,7 @@
     - ruffle (v)弄亂(毛髮), 使不平靜, 打擾, 飾褶邊 (n)皺邊/皺摺
     - rug (n)小地毯/墊子, 厚毯子/毛毯, 男用假髮 = toupee = wig
     - rugby (n)英式橄欖球
-    - rugged (adj)高低不平的, 強健的/能吃苦耐勞的, 堅固耐用的 = durable
+    - rugged (adj)高低不平的, 強健的/能吃苦耐勞的, 堅固耐用的 = durable --> ruggedness
     - rumble (v)隆隆響, 聲音低沉地說話/咕噥, 發出飢腸轆轆的聲音, 街頭鬥毆 (n)隆隆聲, 街頭鬥毆
     - rumbling (n)隆隆聲, 徵兆 (adj)發出隆隆聲的, 持續的(不滿或爭論)
     - rumple (v)弄皺/弄亂 (n)凌亂
@@ -4343,61 +4346,66 @@
 
 [V]
     + /ˈvasɪleɪt/ vacillate (v)猶豫/動搖 = dither = falter = waver --> vacillation (mn)猶豫不決 = indecision <-- vacill 搖擺 = sway + ate
-    + /veɪɡ/ vague (adj)含糊的/不明確的 = ambiguous = equivocal = nebulous, 模糊的 = blurred, 空洞的/茫然的 = vacant
+    + /veɪɡ/ vague (adj)模糊的 = blurred, 曖昧的/含糊的 = ambiguous = equivocal = nebulous
     + vanguard (n)先鋒/前鋒
     + vanquish (v)徹底擊敗 = conquer = overcome = overpower = quell = repress = subdue
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor <|> vault
-    +++ /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/熱情的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
-    + veil (n)面紗, 帷幕/遮蔽物, 偽裝 = mask = disguise = pretense (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure --> veiled (adj)蒙面紗的/戴面罩的, 隱藏的/模糊的
-    + /ˈviːn(ə)l/ venal (adj)唯利是圖的 = mercenary, 能收買的 = corruptible <|> penal --> venality (mn)貪腐 <-- vend
+    +++ /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
+    + veil (n)面紗, 修女頭巾, 帷幕/遮蔽物 (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure
+    + veiled (adj)蒙面紗的/戴面罩的, 不明言的/含蓄的/掩飾的
+    + /ˈviːn(ə)l/ venal (adj)唯利是圖的/能收買的 = mercenary = corruptible <|> penal --> venality (mn) <-- vend
     + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable <|> venal
-    + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾 (v)給...鑲上膠合板, 虛飾
-    + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的, 青春的 = fresh = youthful <|> venal <-- vern 春天 = spring + al 
+    + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的 <|> venal <-- vern 春天 = spring + al 
+    + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾, 牙罩冠 = veneer crown (v)給...鑲上膠合板, 虛飾
     + vendetta (n)世仇/宿怨 = feud
-    ++ venerate (v)崇敬/敬仰 = hallow = adore = honor = respect = worship = revere --> venerable (adj)德高望重的, 令人尊敬的 = august, 神聖的/珍貴的, 古老的 = ancient = hoary
-    ++ /ˈvɛstɪdʒ/ vestige (n)遺跡/殘餘 = trace, 一點兒/絲毫, 退化器官 = rudiment --> vestigial (adj)退化的 = degraded
-    ++ vex (v)激怒 = provoke = irritate = annoy = nettle = peeve = irk = pique = harrow, 折磨/苦惱 = afflict = torment = trouble = distress = plague = worry = agitate, 使困惑 = baffle = confuse = puzzle
-    + vexation (n)折磨/苦惱 = affliction, 惱火 = irritation = annoyance
-    ++ vicar (n)教區牧師 --> /vɪˈkɛːrɪəs/ vicarious (adj)感同身受的, 替代的/代理的
-    + /vɪˈsɪsɪtjuːd/ vicissitude (n)變化無常/變換, 盛衰/興敗 --> vicissitudinous (adj)有變化的/變遷的 <-- vicussi 改變 + tude
-    + vigil (n)守夜/警戒 --> vigilant (adj)警戒的/警惕的
-    + /vʌɪ/ vie (v)競爭 = contend = compete --> vying (adj)競爭的
-    *** /vʌɪl/ vile (adj)可鄙的 = filthy = mean = base = sordid, 下流的/粗俗的 = filthy = obscene = vulgar, 邪惡的 = wicked
+    + venerate (v)崇敬/敬仰 = hallow = adore = honor = respect = worship = revere
+    + venerable (adj)德高望重的/令人敬佩的 = august
+    ++ /ˈvɛstɪdʒ/ vestige (n)遺跡/殘餘 = trace, 一點兒/絲毫, 退化器官 = rudiment
+    + vestigial (adj)殘留的/殘餘的, 退化的 = degraded
+    ++ vex (v)使惱火/使煩惱 = annoy = irk = harrow = fret = distress
+    + vexation (n)煩惱/苦惱/惱火 = irritation = annoyance, 令人焦慮或惱火的事
+    ++ vicar (n)教區牧師, 主教代理 --> /vɪˈkɛːrɪəs/ vicarious (adj)感同身受的, 替代的/代理的
+    + /vɪˈsɪsɪtjuːd/ vicissitude (n)變換, 盛衰/興敗 --> vicissitudinous (adj) <-- vicussi 改變 + tude
+    + vigil (n)守夜, 示威, 宗教節日前夕 --> vigilant (adj)警戒的/警惕的 = mindful
+    + /vʌɪ/ vie -> vying (v)競爭 = contend = compete
+    * /vʌɪl/ vile (adj)糟透的/惡劣的 = extremely unpleasant, 邪惡的/卑鄙的 = wicked = iniquitous
     + /ˈvɪlɪfʌɪ/ vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate --> vilifier (n)誹謗者 <-- vile
-    + vim (n)精力/生氣/精神 = pep = enthusiasm = vitality
-    ++ vindicate (v)證明……無辜/平反 = exculpate, 證實 = justify = substantiate = corroborate <-- vindic 主張者 = claimant
-    ++ vindication (n)證明無辜/平反, 證據 = proof
-    + vindictive (adj)有復仇心的/報復的 = vengeful = unforgiving, 惡意的 = malevolent = malicious = malign = mean = spiteful = vicious = wanton <-- vindict 報復 = vengeance
+    + vilipend (v)[古]藐視 = despise, 誹謗 = vilify
+    + vim (n)[非]精力/活力/熱情 = pep = enthusiasm = vitality
+    ++ vindicate (v)證明…無辜/平反 = exculpate, 證實 = justify = substantiate = corroborate <-- vindict 報復 = vengeance
+    ++ vindication (n)證明無辜/平反, 證據/證明 = proof
+    + vindictive (adj)有復仇心的/報復的 = vengeful = unforgiving
     + virago (n)潑婦/悍婦
     + /ˈvɪskəs/ viscous, viscid (adj)黏性的 = syrupy = adhesive = sticky --> viscosity (n)黏質/黏性
-    + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity
-    + vulnerable (adj)易受傷的/易收攻擊的 <-- vulner 傷口 = wound + able
+    + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity (adj)流行的
+    + vulnerable (adj)易受傷的 <-- vulner 傷口 = wound + able
 
-    * vagary (n)難以預測的變化/奇想/異想天開 = caprice = whim <|> vague
-    ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle = void
-    * vamp (n)鞋面, 翻新的東西 (v)給…換鞋面, 修補/翻新 = patch up = repair, 捏造 = concoct = invent = fabricate, 即席伴奏 = improvise = extemporize, 勾引
-    * vent (n)出路/漏孔, 火山口, 通風孔/排氣孔, 肛門 (n/v)發洩/宣洩 (v)給……開孔 <|> tent
-    * ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺 --> /ˌvɛntɪˈleɪʃ(ə)n/ ventilation (n)通風, 供氧, 公開討論
-    * vernacular (n)本地話/方言 = dialect = patois, 行話 (adj)用本國語的/用方言的/白話的
+    * vagary (n)難以預測的變化/突然的轉變 = caprice = whim <|> vague
+    ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle = void, 空洞的/無意義的
+    * vamp (n)鞋面, 勾引男子以勒索金錢的女騙子 (v)[非][up]修補/翻新 = patch up = repair, 給…換鞋面, 勾引
+    * vent (n)出路/漏孔, 火山口, 肛門, 發洩/宣洩 (v)表達(強烈的情緒), 給……開孔, 放出/排出 = expel = discharge <|> tent
+    * ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺
+    * ventilation (n)通風, 供氧, 公開討論
+    * vernacular (n)本地話/方言 = dialect = patois, [非]行話, 實用性建築 (adj)用母語的, 實用性的(建築)
     * /ˈvɛnjuː/ venue (n)發生地點 <--> /ˈmɛnjuː/ menu 
     *** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
-    * vigor (n)力氣 = strength, 精力/活力 = vitality = energy, 健壯/茁壯, 法律效力 --> vigorous (adj)精力旺盛的/健壯的
-    * villain (n)壞人/惡棍/反派角色 = miscreant = criminal
+    * vigor (n)力氣 = strength, 精力/活力 = vitality = energy --> vigorous (adj)充滿活力的/精力旺盛的, 健壯的/強壯的
+    * villain (n)反派角色, 首要危險/禍首, [非]壞人/惡棍 = miscreant = criminal
     *** vintage (n)年份/產地, 高品質葡萄酒, 年代 (adj)高品質葡萄酒的, 最佳的
     * /ˈvɪs(ə)rəl/ visceral (adj)內臟的, 出自內心深處的 <-- viscera
-    * volcanic (adj)火山的 = igneous, 暴烈的/猛烈的
-    * vomit (v)嘔吐 = disgorge = heave
+    * volcanic (adj)火山的 = igneous, 爆發的(情緒)
+    * vomit (v)嘔吐 = disgorge = heave, 噴出 = emit (n)嘔吐物
     
-    - vacant (adj)空的/未被佔用的, (職位)空缺的, 無聊的/茫然的
-    - vaccine (n)牛疫苗, 疫苗 --> vaccineate (v)給...接種疫苗 <-- vacc 牛 = cow + ine
-    - valve (n)活門/閥門
-    - vandal (adj)破壞文物的/野蠻的, 汪達爾人的 --> vandalize (v)肆意破壞 --> vandalism (n)惡意破壞
-    - vanilla (n)香草/香子蘭 (adj)平凡的/普通的, 香草的
+    - vaccine (n)疫苗 --> vaccineate (v)給...接種疫苗 <-- vacc 牛 = cow + ine
+    - valve (n)活門/閥門, [解]瓣/瓣膜, (喇叭等樂器的)閥鍵/活塞
+    - vandal (n)破壞他人財產者, 汪達爾人
+    - vandalize (v)蓄意破壞(他人財產) -->  vandalism (mn)惡意破壞
+    - vanilla (n)香草/香子蘭, 香草口味 (adj)[非]平凡的/普通的
     - vantage (n)優勢/有利地位 <-- advantage
-    - varnish (n)清漆/亮光漆 (v)塗上漆
-    - vascular (adj)血管的/脈管的 <-- vascul 血管 = vessel + ar
+    - varnish (n)清漆/亮光漆, 虛飾/外表 (v)塗上漆, [over]粉飾/掩飾
+    - vascular (adj)血管的/脈管的, 維管束的 <-- vascul 血管 = vessel + ar
     - vase (n)花瓶
-    - vassal (n)封臣 = liege, 附庸國 
+    - vassal (n)封臣 = liege, 從屬者/下屬/附庸國 
     - vat (n)瓮/缸, 染缸 = vat dye (v)把……盛入瓮
     - vault (n)拱頂, 穹窿, 頭蓋骨, 地下儲藏室/地窖, 金庫房, 墓穴, 撐竿跳 (v)撐竿跳
     - vector (n)向量, 矩陣的一行或一列, 傳染媒介, 航向/航線 (v)為……導航
