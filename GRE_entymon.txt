@@ -1109,7 +1109,7 @@
 		- synchronous (adj)同步的/同時的 <--> asynchronous
 
 	chrom, chrome 顏色 = color
-		- chromatic (adj)色彩的/顏色的, 五彩的, 半音的
+		+ chromatic (adj)半音階的, 彩色的/顏色的
 		- chromatron (n)彩電顯像管
 		- /kroʊˈmætəfɔr/ chromatophore (n)色素體
 		- chromosome (n)染色體
@@ -1227,6 +1227,7 @@
 		++ /tʃaˈstʌɪz/ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
 	
 	celebr 有名的 = repeated, famous
+		- celebrant (n)主持宗教儀式的神父/儀式主持人, 參加慶祝活動的人
 		+ celebrate (v)慶祝/祝賀, 讚揚/讚美, 主持(宗教儀式)
 		+ celebrated (adj)有名的/知名的 = famous = renowned
 		- celebrity (n)名聲/名氣/名望 = renown, (娛樂界的)名人/明星
@@ -1382,7 +1383,7 @@
 		- corpus (n)身體/軀體, 語料庫 = lexico, 文集/全集 = canon
 		- corpse (n)屍體 (v)因發笑而忘詞
 		- corporate (n)大公司 (adj)全體的/共同的, 團體的/大公司的 <|> cooperate --> corporation (n)法人/股份有限公司 
-		* corporeal (adj)物質的 = material, 肉體的/身體的 = somatic
+		+ corporeal (adj)物質的 = material, 肉體的/身體的 = somatic
 		- corpuscle (n)血球/血細胞
 		+ incorporate (v)合併/併入, 把...組成公司 (adj)合併的 = incorporated, 具有實體的 = embodied
 
@@ -1487,6 +1488,7 @@
 			+ delimit (v)劃界/標出…的界限 = circumscribe
 			+ /dɪˈlɪnɪeɪt/ delineate (v)描述/描繪 = depict = portray = trace <-- de + line 線 + date 
 			- demarcate (v)設下界線, 區隔 <-- de + mark
+			- demarcation (mn)劃界 (n)分界/分界線
 			+ demean (v)羞辱/貶低 = degrade = debase = belittle = insult
 			- demeanor (n)舉動/行為
 			- depend (v)取決於
@@ -1567,7 +1569,7 @@
 			* derogate
 			- desert
 			- desperate
-			- despondent (adj)沮喪的 --> despondency (n)沮喪 = dejection
+			+ despondent (adj)沮喪的 --> despondency (n)沮喪 = dejection
 			+ desuetude (n)廢棄/不用 = disuse <-- de + sue 習慣 = accustom + tude
 			+ detect --> detection
 			+ detach --> detached --> detachment
@@ -1922,7 +1924,7 @@
 		- indelible (adj)擦拭不掉的/不可磨滅的
 
 	dent 牙 = tooth
-		- dent (n)凹陷/凹痕 (v)弄凹, 打擊/損傷(自信)
+		- dent (n)凹陷/凹痕, 減少 = reduction (v)弄凹, 打擊/使減少 = diminish
 		- denture (n)假牙 = artificial teeth
 		- dentist (n)牙醫
 		- /ˈdɛntɪstri/ dentistry (n)牙醫學
@@ -2241,7 +2243,7 @@
 		    - epistle (n)書信, (聖經‧新約中的)使徒書信
 			- epistolary (adj)書信的/書信體的
 			- epitaph (n)墓誌銘 <-- epi + taph 墓 = tomb
-			- epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = put
+			+ epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = put
 			- epithelium (n)上皮
 			- epithelial (adj)上皮的
 			- epoch (n)時期/時代, 重要時期, 新紀元, 值得紀念的事件 <-- ep + och 擁有 = have
@@ -2527,6 +2529,7 @@
 		- fence, fense (n)籬笆
 
 	fract, frac, frag 碎裂 = break == rupt
+		+ anfractuous (adj)蜿蜒的 = sinuous = circuitous
 		* fraction (n)碎片, 小部分
 		- fractional (adj)碎片的, 少量的
 		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的= irritable = peevish = quarrelsome = rebellious, 難以控制的 = restive  = unruly = refractory = disobedient
@@ -3474,7 +3477,7 @@
 			- interfaith (adj)不同信仰者之間的
 			- interfere (v)插手/干涉 --> interference (n)干涉/妨礙 <-- inter+ fere 攻擊 = strike
 			- /ˈɪnt(ə)rɪm/ interim (n)中間時期/過渡時期 (adj)臨時的/暫時的 = temporary
-			- interject --> interjection
+			* interject --> interjection
 			- interlude
 			+ intermediary
 			* intermediate
@@ -3572,7 +3575,7 @@
 		+ deject (v)使沮喪 = depress = dispirit, 降低/削弱 = lower --> dejected (adj)沮喪的/失望的 = crestfallen = dispirited = discouraged --> dejection (n)沮喪
 		- ejecta (n)噴出物
 		- inject (v)注射/注入 --> injection (n)注射, 注射劑
-		- interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
+		* interject (v)插話/插嘴 = interpose --> interjection (n)插話, 感歎詞
 		+ object (v)反對 (n)物體/對象/目標/目的, 受格 --> objection (n)厭惡/反對 -->  objectionable (adj)令人反感的/使人不快的
 		++ objective (adj)客觀的/公正的 = impersonal = unbiased = impartial, 受格的 (N)目標 = aim, 物鏡 --> objectivity (n)客觀 --> objectify (v)使客觀化, 使具體化 = concrete
 		- objectively (adv)客觀地, 實際的 = actually
@@ -4723,7 +4726,7 @@
 		+ inexorable
 		* /ˈɔːr(ə)l/ oral (adj)口頭的/口述的 = verbal, 口的/口服的/口腔的 (n)口試
 		- oration (n)演講/演說 = harangue = speech, 演講法
-		- oratory (n)演講術, 雄辯 = rhetoric, 小禮拜堂
+		+ oratory (n)演講術, 雄辯 = rhetoric, 小禮拜堂
 		* oratorical (adj)演講術的/雄辯術的 = bombastic = grandiloquent = orotund = rhetorical = pompous
 		- oracle (n)神使/傳神諭者, 神諭處, 權威
 		- oratorio (n)清唱劇 = cantata
@@ -5222,6 +5225,7 @@
 		4. 不正常的 = abnormal, irregular
 			- /ˌparəˈnɔɪə/ paranoia (n)偏執狂/多疑症 <-- para + no(os) 精神 = mind + ia
 			- paranoid (adj)偏執狂的/過度懷疑的
+			- paranormal (adj)超自然的/超常的 = preternatural
 
 	part 部分 = piece, portion
 		- compartment (n)艙/隔間/包廂 (v)分隔/劃分 --> compartmentalize (v)分隔/隔開/劃分
@@ -5638,6 +5642,7 @@
 		+ /kəmˈpʌŋkʃən/ compunction (n)內疚/顧慮 = scruple = uneasiness = contrition = remorse = repentance = qualm
 		+ /ɪkˈspʌn(d)ʒ/ expunge (v)清除/刪除 = obliterate = remove <|> expurgate
 		- /ˈpʌŋ(k)tʃʊəl/ punctual (adj)準時的/守時的 = prompt
+		- punctuate (v)在……中間加標點, 定時發生, [with]不斷打斷
 		+ /pʌŋkˈtɪlɪəs/ punctilious (adj)精密細心的/一絲不苟的
 		- puncture (v)刺穿/刺破 = impale, 使(情緒)突然低落 (n)刺孔/穿孔
 		+ pungent (adj)有刺激性的/辣的 = stimulating = piquant = poignant, 尖刻的 = caustic = sharp
@@ -5667,6 +5672,7 @@
 
 	pute 思考 = reckon, consider, think
 		+++ dispute (n)爭執/糾紛 (v)爭論 = argue = wrangle = quarrel, 質疑 = question = impugn, 競爭 = compete = strive 
+		+ disputatious (adj)好爭吵的
 		* depute (v)委託/委任 = delegate <|> dispute --> deputy (n)代理人, 副手 
 		+++ impute (v)歸咎於/歸因於 = ascribe = credit = attribute
 		- putative (adj)假定存在的/被認為存在的/傳說的
@@ -7725,6 +7731,7 @@
 		++ /ˈadvəkət/ advocate (v)支持/擁護 = recommend = support (n)支持者, 辯護者/律師 --> advocacy (n)擁護/支持, 辯護
 		+ convoke (v)召開(會議) = convene <--> adjourn
 		+ equivocate (v)含糊其詞 = prevaricate --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
+		+ equivocation (n)含糊其詞 = prevarication
 		+ unequivocal
 		+++ evoke (v)喚起(記憶或感情) = conjure = summon, 激起/引起(回應) = elicit = excite = kindle = inflame, 祈求 = invoke --> evocative (adj)引起回憶的/喚起感情的
 		+++ invoke (v)祈求(法律或神靈), 援引/借助(法律), 懇求, 喚起/引起 = give rise to = evoke
@@ -7831,6 +7838,7 @@
 		
 	vitr 玻璃 = glass
 		- /ˈvɪtrɪəs/ vitreous (adj)玻璃的
+		- vitrify (v)使成玻璃
 		+ /ˈvɪtrɪəl/ vitriol (mn)辛辣的批評, 硫酸/礬 
 		+ vitriolic (adj)尖刻的 = scathing = harsh
 

@@ -181,6 +181,7 @@
 		- Hobart (n)荷巴特，澳洲塔斯馬尼亞州首府，為僅次於雪梨的澳洲第二古老城市
 		- Perth (n)珀斯，西澳大利亞州的首府，也是澳大利亞第四大城市
 		- Tasmania (n)塔斯馬尼亞州，簡稱塔州，是澳洲唯一的島州
+		- Melbourne (n)墨爾本，是位於澳洲東岸維多利亞州南部的一座城市。墨爾本是維多利亞州首府和最大城市，亦是澳洲人口排名的第2大城市
 		- the Great Barrier Reef (n)大堡礁，是世界最大最長的珊瑚礁群，位於南太平洋的澳洲東北海岸，綿延伸展共有2600公里左右，最寬處161公里。約有2900個獨立礁石以及900個大小島嶼
 		- the Murray-Darling basin (n)墨累—大令盆地，流域含蓋澳大利亞七分之一陸地面積，是目前澳大利亞最重要的農業區域
 	- Hawaii /həˈwʌɪi/ (n)夏威夷
@@ -188,9 +189,8 @@
 		- Honolulu 檀香山，或稱火奴魯魯，為美國夏威夷州最大的城市暨首府。
 	- Marshall Islands (n)馬紹爾群島，是位於北太平洋的島嶼國家。馬紹爾群島是密克羅尼西亞群島的一部分
 		- Kwajelein /ˌkwɑdʒələn/ (n)瓜加林環礁，是馬紹爾群島共和國一部分
-
-
 	- New Zealand (n)紐西蘭
+		- Christchurch (n)基督城，是紐西蘭第三大城市和南島第一大城
 	- antipodean (adj)紐澳的 (n)紐澳人
 	- Antarctica /antˈɑːktɪkə/ (n)南極洲
 	- Papua New Guinea (n)巴布亞紐幾內亞，是位於太平洋西南部的一個島嶼國家
@@ -203,7 +203,6 @@
 	- the Baltic Sea (n)波羅的海
 	- Lithuania (n)立陶宛共和國，通稱立陶宛，位於歐洲東北部，是北歐和波羅的海三國之一，
 	- Estonia /ɪˈstəʊnɪə/ (n)愛沙尼亞，波羅的海國家之一。愛沙尼亞位於歐洲東北部，其國土由大陸部分和波羅的海的2222個島嶼組成 --> Estonian (adj)愛沙尼亞的/愛沙尼亞人的/愛沙尼亞語的 (n)愛沙尼亞人, 愛沙尼亞語
-
 	- Nordic (adj)北歐國家的 (n)北歐人
 	- Scandinavian (adj)斯堪地那維亞的 (n)斯堪地那維亞人 == Relating to Scandinavia
 	- Iceland (n)冰島 --> Icelandic (adj)冰島的, 冰島語的 (n)冰島語
@@ -213,12 +212,14 @@
 		- Faxa Bay (n)法赫薩灣，冰島西南岸的一個海灣
 	- Sweden /ˈswiːd(ə)n/ (n)瑞典
 	- Switzerland (n)瑞士
-	- Poland (n)波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole (n)波蘭人
+	- Poland (n)波蘭 --> Polish (adj)波蘭的/波蘭人的/波蘭語的 (n)波蘭語 --> Pole (n)波蘭人	
+		- Gdansk (n)格但斯克，是波蘭波美拉尼亞省的省會，也是該國北部沿海地區的最大城市和最重要的海港
 	- Denmark (n)丹麥 --> Danish (adj)丹麥的/丹麥人的/丹麥語的 (n)丹麥語, 丹麥人
 		- Dane (n)丹麥人
 		- Copenhagen (n)哥本哈根，丹麥的首都、最大城市及最大港口。
 		- Faroe Islands (n)法羅群島，丹麥王國的海外自治領地。地理位置介乎挪威海和北大西洋中間，處於挪威到冰島之間距離一半的位置
 	+ Britain /ˈbrɪt(ə)n/ (n)英國 == The island containing England, Wales, and Scotland.
+		- the English Channel (n)英吉利海峽
 		- Great Britain (n)大不列顛島
 		- Cornwall 康瓦耳，大不列顛島西南端的半島，英國英格蘭西南端的區
 		- South-West England 西南英格蘭，英格蘭下轄的9個次級行政區之一，也是英國國內最為風景優美且歷史悠久的地區之一
@@ -235,6 +236,9 @@
 		- Greenwich (n)格林威治，是位於英國英格蘭大倫敦東南的格林威治區、泰晤士河以南的城區和歷史古鎮。格林威治鎮位於泰晤士河南岸，倫敦傳統中心點查令十字東南偏東8.9公里處
 		- the Royal Observatory (n)皇家天文台
 		- Northumberland (n)諾森伯蘭，英國英格蘭最北、最東北的區
+		- Edinburgh (n)愛丁堡，是英國蘇格蘭首府
+		- Nelson Monument (n)納爾遜紀念塔，位於蘇格蘭愛丁堡，建於1807年到1815年，是為了紀念在1805年特拉法加戰役中擊敗法國和西班牙艦隊，但本人卻中彈陣亡的海軍中將霍雷肖·納爾遜
+		- the One o’Clock Gun (n)蘇格蘭愛丁堡的歷史地標
 	- Ireland (n)愛爾蘭共和國, 愛爾蘭島
 		- Dublin (n)都柏林，愛爾蘭共和國的首都以及最大的城市，靠近愛爾蘭島東岸的中心點，位處都柏林郡的利菲河河口、都柏林地區的中心。都柏林自中世紀以來一直是愛爾蘭首都城市，也是愛爾蘭島上最大的城市。由於很多高技術企業聚集，所以有歐洲的矽谷之稱
 		- Irish (adj)愛爾蘭的/愛爾蘭人的/愛爾蘭語的 (n)愛爾蘭人, 愛爾蘭語
@@ -464,6 +468,7 @@
 [South America]
 	- Isthmus of Panama (n)巴拿馬地峽，是美洲中部的一個地峽
 	- the Caribbean (n)加勒比
+	- Jamaica (n)牙買加，是加勒比海地區的一個島國
 	- the Bermuda Triangle (n)百慕達三角，位於北大西洋的馬尾藻海，是由英屬百慕達群島、美屬波多黎各及美國佛羅里達州南端所形成的三角形海域
 	- the Indies == West Indies (n)西印度群島，泛指南北美洲之間海域中的一個一連串的島群
 	- the Andes Mountains (n)安地斯山脈，是陸地上最長的山脈，位於南美洲的西岸

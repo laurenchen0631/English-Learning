@@ -5,6 +5,7 @@
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
+- angst <--> aghast <--> antsy
 - antagonistic <--> protagonist
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
@@ -105,6 +106,7 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
+- cronyism <--> cynicism
 - cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
 - cuddle <--> fuddle <--> befuddle <--> muddle 
@@ -114,6 +116,7 @@
 ## D
 - dabble <--> dribble <--> paddle <--> puddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
+- debauch
 - debilitate <--> deliberate
 - decor <--> decorous
 - deed <--> deem
@@ -651,6 +654,7 @@
 ## V
 - vacillate <--> ventilate 
 - vagrant <--> vagary <--> vague
+- valley <--> volley
 - vessel <--> vassal
 - venal <--> venial <--> vernal
 - veritable <--> verifiable1
@@ -660,9 +664,11 @@
 - vituperation
 - vocation <--> vacation
 - vogue <--> rogue
-- volume <--> voluble
+- volume <--> voluble <--> voluptuous
+- vouch <--> voucher
 
 ## W
+- wanting <--> wanton
 - waive <--> wave
 - weather <--> wether
 - welter <--> swelter
