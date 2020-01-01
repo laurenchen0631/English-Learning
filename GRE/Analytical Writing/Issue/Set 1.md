@@ -60,3 +60,29 @@
 		4. [Pro]
 		5. [Restate]. [Pros]. [Cons].
 	
+4. Claim: Governments must ensure that their major cities receive the financial support they need in order to thrive. Reason: It is primarily in cities that a nation's cultural traditions are preserved and generated.
+- Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.
+	1. Issue: Due to the great preservation and generation of cultural traditions, the major city should receive the finical support from their governments.
+	2. P & C
+		- Pros:
+			- Major city actually need relatively considerable finance to maintain its operation.
+			- In some countries, major city shoulder the accountability to keep its culture, such as historic site.
+		- Cons:
+			- Rustic area sometimes seem a better environment in terms of preserving culture.
+			- Compared to the major city, small cities or towns have limited source of revenue. Thus it may need more support from the government.
+			- Thrive and preservation are not causality.
+	3. Thesis: The major cities actually require considerable finance to flourish their growth. However, in terms of preservation of unique culture, the small cities or towns may desire the economical support from government more eagerly.
+
+5. Some people believe that government funding of the arts is necessary to ensure that the arts can flourish and be available to all people. Others believe that government funding of the arts threatens the integrity of the arts.
+- Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.
+	- Issue: is government funding of the arts beneficent?
+	- P & C
+		- Pros:
+			1. Most of artists are penurious because they need cost and material to complete their work that earn their payout back.
+			2. Appropriate support could improve quality of artist's work.
+			3. With the support, artists can tout their work beyond their country.
+			4. Compared finance from a corporate, sometimes government's stance is impartial rather than focusing on profit.
+		- Cons:
+			1. Government can manipulate the motif of funded art works.
+			2. Political tendency steer the work.
+	- These: While the interference in art from government does exist, it still effectively refine and improve the quality of fund arts.

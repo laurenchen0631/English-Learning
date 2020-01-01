@@ -225,7 +225,7 @@
 	acerb, acid, acri 尖酸/嚴厲 = sour, sharp, harsh
 		+ /əˈsəːbɪk/ acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent, 酸的 = sour --> acerbity (n)苦澀/刻薄
 		- acerbate (v)使發怒/使煩惱 = exasperate <-- acerbic + ate
-		+ /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate, 激怒 = exasperate = acerbate = irritate = irk = vex
+		+ /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate
 		+ acid /ˈasɪd/ (n)酸, [非]迷幻藥 (mn)尖刻 (adj)酸性的, 尖酸刻薄的, 濃烈的/鮮明的 = intense = bright
 		+ /əˈsɪdjʊləs/ acidulous (adj)多少帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
 		- acrid (adj)(味道)辛辣的/刺激的, 刻薄的 = caustic = acerbic
@@ -308,7 +308,7 @@
 		+ animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
 		+ equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium
 		- inanimate (adj)無生命的
-		+ magnanimous (adj)寬宏大量的/大度的 = generous, 高尚的 = high-minded = noble = lofty 
+		+ magnanimous (adj)寬宏大量的/大度的 = generous
 		+ magnanimity (n)寬宏大量/寬大 = generosity = nobility
 		+ /ˌpjuːsɪˈlanɪməs/ pusillanimous (adj)膽小的 = cowardly = timid = craven = pusillanimous = recreant <-- pusill 小的 = small, petty + anim + ous
 		* unanimous (adj)意見一致的/一致通過的
@@ -433,7 +433,7 @@
 
 	asper 粗暴 = rough
 		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
-		+ /ɪɡˈzasp(ə)reɪt/ exasperate (v)激怒 = agitate = rile = acerbate = exacerbate = irritate = provoke = nettle
+		+ /ɪɡˈzasp(ə)reɪt/ exasperate (v)激怒 = agitate = rile = acerbate = irritate = provoke = nettle
 
 	aster, astro 星星 = star == stell
 		- asterisk (n)星號
@@ -1223,7 +1223,7 @@
 		+++ /kɑːst/ caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
 		+ castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
 		- chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
-		+ chasten (v)懲戒/磨煉
+		+ chasten (v)抑制/使和緩 = moderate
 		++ /tʃaˈstʌɪz/ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
 	
 	celebr 有名的 = repeated, famous
@@ -3816,7 +3816,7 @@
 	loft 閣樓/鴿房 = air, sky
 		- aloft (adv)在空中/在高處 <|> aloof
 		- loft (n)閣樓/頂樓 = attic = garret, 頂層房間, (由工業用建築改建的)公寓
-		** lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = magnanimous = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
+		** lofty (adj)高聳的 = steep, 崇高的/高尚的 = noble = sublime = rarefied = exalted = elevated, 自大的/高傲的 = haughty, 厚實而有彈性的(織品)
 	
 	log 比例 = ratio
 		- /əˈnalədʒi/ analogy (n)類比/比較, 相似/類似 <|> /ˈnɒlɪdʒ/ knowledge
@@ -5653,7 +5653,7 @@
 		- punish (v)懲罰/處罰
 
 	pugil, pugn 打鬥 = fight
-		+ /ɪmˈpjuːn/ impugn (v)置疑/對...表示懷疑 = cast doubt upon
+		+ /ɪmˈpjuːn/ impugn (v)置疑 = cast doubt upon = dispute = call into question
 		+ /ˈpjuːdʒɪlɪz(ə)m/ pugilism (n)拳擊/搏擊
 		- pugilist (n)拳擊手/拳師
 		+ /pʌɡˈneɪʃəs/ pugnacious (adj)好鬥的 --> pugnacity (mn)好鬥

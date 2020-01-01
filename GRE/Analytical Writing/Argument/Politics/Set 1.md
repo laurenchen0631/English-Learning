@@ -19,3 +19,16 @@
 		- The Illogical Analogy: While Fitch Realty earn less than Adams Realty last year, in terms of the number of employees and working hours, their revenue is actually close.
 		- The data bias: Adams Realty is a better company main because they sell the homeowner's house quicker than the other. The evaluation is very subjective.
 		- The Illogical Analogy: selling ten years ago is not analogous to of recent year. 
+
+3. The following appeared in a letter to the editor of the Balmer Island Gazette. "On Balmer Island, where *mopeds* serve as a popular form of transportation, the population increases to 100,000 during the summer months. To reduce the number of accidents involving mopeds and pedestrians, the town council of Balmer Island should limit the number of mopeds rented by the island's moped rental companies from 50 per day to 25 per day during the summer season. By limiting the number of rentals, the town council will attain the 50 percent annual reduction in moped accidents that was achieved last year on the neighboring island of Seaville, when Seaville's town council enforced similar limits on moped rentals."
+- Write a response in which you discuss **what questions would need to be answered** in order to decide whether the recommendation is likely to have the predicted result. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+	1. Evaluate
+		- Conclusion: The traffic accidents can be greatly reduced by limiting the number of daily rented mopeds.
+		- Premise: The number of rented moped must be the only factor that cause the accidents in the island. Furthermore, there is no any alternative of transportation.
+	2. Assumption:
+		1. The Stereotypical Assumption: Because the rental is restricted, the possibility of the kind of accidents reduced therefore. (Other alternative or buy a new one rather than rent)
+		2. The Illogical Analogy: It can attain the 50 percent annual reduction in the accidents just like the other island that administrate the same policy. (population and economy of the islands)
+		3. The Stereotypical Assumption: the increase in the population of mopeds naturally boost the number of accidents - thus, most of country present occurrence of accident as percentage. If the percentage of the accidents surge, there must be another cause that needs to be handled rather than reducing the number of mopeds.
+
+## Vocab
+- mopeds

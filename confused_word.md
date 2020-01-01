@@ -66,6 +66,7 @@
 - census <--> consensus <--> censor <--> censure
 - chafe
 - chary <--> char
+- chasten <--> chaste
 - civic <--> civil <--> cavil <--> civilian <--> civility
 - clement <--> cement <--> cremate
 - click <--> cluck
@@ -114,7 +115,7 @@
 - curb <--> cub
 
 ## D
-- dabble <--> dribble <--> paddle <--> puddle
+- dabble <--> dribble <--> paddle <--> puddle <--> waddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debauch
 - debilitate <--> deliberate
@@ -167,6 +168,7 @@
 - euphony <--> phony
 - exalt <--> exult
 - excoriate
+- execrable
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
 - exhaust <--> exhaustive
@@ -391,6 +393,7 @@
 - offensive <--> inoffensive
 - onset <--> outset
 - opaque <--> opacity
+- opprobrium
 - orchard <--> orchid
 - ordain <--> ordeal <--> ordinance <--> ordnance
 - ostentatious <--> ostensible
@@ -568,6 +571,7 @@
 - slouch <--> slough
 - stationery <--> stationary
 - staunch
+- smack <--> whack
 - smolder <--> solder
 - smooth <--> soothe <--> seethe
 - smudge <--> nudge
@@ -670,17 +674,30 @@
 ## W
 - wanting <--> wanton
 - waive <--> wave
+- wean <--> dean
+- weasel <--> easel
 - weather <--> wether
+- weep <--> sweep
 - welter <--> swelter
+- wheedle
+- whiff <--> sniff <--> sniffle
+- whine <--> wine
+- whip <--> whop <--> whopping <--> whoop
+- whirl <--> swirl
+- whisk <--> whisky
+- wicked <--> wick <--> wicker
 - wig <--> swig <--> twig
+- wight <--> weight
 - wile <--> while
 - winnow <--> minnow <--> wallow
-- whip <--> whop <--> whopping
-- whisk <--> whisky
+- wired <--> wiry
 - wistful <--> waist<--> fistful
+- woo <--> wooly
+- wont <--> wonk
 - wrap <--> warp
+- wreak <--> wreck
 - wrinkle <--> crinkle
-- write <--> writhe
+- write <--> writhe <--> writ
 
 ## Z
 - zealous <--> jealous
