@@ -734,6 +734,12 @@
 	
 	- sweetener (n)增甜劑/糖精
 
+	- Mediterranean diet (n)地中海飲食，很受現代營養學推薦的一種飲食模式，源自於1940-1950年代環地中海地區及國家的傳統飲食型態。其以大量橄欖油、豆科植物、天然穀物、水果和蔬菜，適量魚、乳製品及紅酒，少量肉製品為重要特色。
+	- DASH diet (n)得舒飲食，美國國家心肺與血液研究所研發推廣用以控制高血壓的飲食型態。得舒飲食富含水果、蔬菜、全穀類以及低脂食物；包含魚、肉、家禽、堅果與豆類；並且限制高糖食物及飲料、紅肉以及添加脂肪的攝取。
+	- Flexitarian diet (n)彈性素食
+	- MIND diet (n)麥得飲食，發現對失智症的預防有良好的效果
+	- keto diet (n)生酮飲食，一種高脂肪，充足蛋白質，低碳水化合物飲食，醫學上主要在用於治療難以控制（難治）的兒童癲癇
+
 	- Worcestershire sauce (n)伍斯特醬
 	- marinade (n)醃泡汁 == A mixture of oil, wine, spices, or similar ingredients, in which meat, fish, or other food is soaked before cooking in order to flavour or soften it.
 	- vinegar(n) 醋 == A sour-tasting liquid containing acetic acid, obtained by fermenting dilute alcoholic liquids, typically wine, cider, or beer, and used as a condiment or for pickling.
@@ -1009,6 +1015,8 @@
 
 	- hepatitis (n)肝炎
 	- thalassemia (n)海洋性貧血/地中海型貧血
+	- Alzheimer`s disease (n)阿滋海默症
+
 
 	- acrania 無顱畸形
 	- atrophy

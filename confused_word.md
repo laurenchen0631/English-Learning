@@ -1,21 +1,26 @@
 ## A
+- abject <--> abjure
+- accost
 - acme <--> acne <--> pimple
 - across <--> cross
 + adduce <--> abduct <--> abduce
 - adulate <--> adulterate <--> adultery <--> adulterous
-- advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert
+- advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - angst <--> aghast <--> antsy
 - antagonistic <--> protagonist
+- appeal <--> appellant <--> appellation
+- appurtenant
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
 - ailing <--> alimentary <--> alimony
-- allegory <--> allergy
+- allegory <--> allergy <--> allege <--> allegiance
 - allude <--> delude
 - alter <--> altar
 - apprehend <--> apprehension
 - astringent <--> stringent
+- attenuate <--> accentuate
 - awry <--> wry <--> wary <--> weary <--> askew 
 
 ## B
@@ -141,7 +146,7 @@
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
 - divulge
-- dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle
+- dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fizzle
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -186,13 +191,12 @@
 - faux <--> flax <--> flex <---> flexible
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
-- feint <--> fend <--> fender
+- feint <--> fend <--> fender <--> fiendish
 - feminine <--> famine
 - fete <--> mete
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle
-- fiddle <--> fizzle
 - file <--> defile
 - filly <--> folly
 - fit <--> fitful
@@ -288,13 +292,12 @@
 - imperative <--> imperious
 - impose <--> imposing
 - inch <--> itch
-- incipient <--> sapient
+- insipid <--> sapid <--> vapid <--> incipient <--> sapient
 - incite
 - incredulous <--> incredible
 - iniquity <--> inanity
 - innate <--> natal
 - innuendo
-- insipid <--> sapid <--> vapid
 - intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
@@ -699,5 +702,10 @@
 - wrinkle <--> crinkle
 - write <--> writhe <--> writ
 
+## Y
+- yoke <--> yokel
+- yeast <--> feast
+
 ## Z
 - zealous <--> jealous
+- zenith <--> zeitgeist

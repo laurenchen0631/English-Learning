@@ -4,19 +4,19 @@
 			+ abase
 			+ abbreviate
 			+ aberrant --> aberrance --> aberration 
-			- abhor --> abhorrent
+			+ abhor --> abhorrent
 			+ abroad (adv)在國外, 廣範圍地, 廣為流傳地, 任意走動地 (n)國外
 			+ aboard (adv)在船或飛機或車上, 在馬上
 			++ abject 
 			** absent (adj)缺席的/不在場的, 心不在焉的 (v)[oneself]離開 (prep)沒有 = without
 		    - absenteeism (n)曠課/曠工
-			+ abstract
-			+ accede
+			+ abstract --> abstraction
+			+ accede --> accession
 			+ accelerate
 			+ accentuate
 		    - acclimate (v)[to]使服水土/使適應 = accustom = adapt = acclimatize
 			+ accord
-		    - accost (v)搭訕 <-- ac + cost 邊 = side
+		    - accost (v)(貿然)上前搭訕 <-- ac + cost 邊 = side
 			+ accrete --> accretion
 			+ accrue
 		    - acknowledge (v)承認 = concede = confess, 致謝, 對……打招呼, 確認(收到)
@@ -44,21 +44,22 @@
 			- affection
 			- afield (adv)遠離著, 去野外
 			+ affiliate --> affiliated 
-			+ affinity 
-			+ affirm
+			+++ affinity 
+			++ affirm
 			+ affluent
 			- affidavit
-			+ afford (v)買得起, 有時間做, (東西)提供/給予(人)
-			- agenda (n)待議諸事項, 待辦事項, 意圖/目的
-			- agent (n)劑/媒介, 代理人 = deputy = representative
+			+ afford (v)買得起, 有足夠的……去做, 提供/給予 = supply
+			- agenda (n)待議諸事項, 待辦事項, 意圖/目的, 議事日程
+			- agent (n)代理人/仲介 = deputy = representative, 特工/密探, 媒介, [化]劑
 			- agglomerate
 			+ aggrandize
-			- aggravate
-			++ aggregate
+			* aggravate
+			+ aggregate
 			+ aggressive
 			+ /əˈɡɑːst/ aghast (adj)嚇呆的/驚駭的 <-- a + ghost 
-			- agile (adj)敏捷的 = athletic = lithe
-			+ agitate (v)攪拌 = stir = beat, 使焦慮 = disturb = upset = perplex = perturb, 煽動 = incite = exasperate --> agitated (adj)焦慮的 = overwrought = restive
+			- agile (adj)敏捷的 = athletic = lithe, 精明的 = astute
+			+ agitate (v)使焦慮 = disturb = upset = perplex = perturb, 攪拌 = stir = beat, (公開)煽動/鼓動
+			+ agitated (adj)焦慮的 = overwrought = restive
 			* allege
 			- allegiance
 			+ alleviate
@@ -78,10 +79,10 @@
 			+ annul
 			++ appeal --> appellant --> appellation
 			+ appease
-			+ /əˈpəːt(ɪ)nənt/ appurtenant (adj)附屬的/從屬的 <-- ap + pertinent
+			+ /əˈpəːt(ɪ)nənt/ appurtenant (adj)附屬的/從屬的 = belonging = pertinent <-- ap + pertinent
 			+ applaud --> applause
 			** apply --> applicable --> applicant
-			* apportion (V)分攤/分配 = divide up = share out
+			* apportion (V)分攤/分配 = divide up = share out, 分配 = aasign
 			+ apposite
 			+ appraise
 			+ apprehend --> apprehension --> apprehensive
@@ -94,18 +95,19 @@
 			+ ascribe
 			+ asperse --> aspersion 
 			+ assail --> assault
-			+ assertive
+			+ assert --> assertive --> assertion
 			+ assiduous
 			- assorted (adj)混雜的/各式各樣的 = mixed = miscellaneous <-- as + sort 種類 = kind
 			+ assuage
-			+ assume --> assumption
+			++ assume --> assumption
 			+ astringent 
 			+ attest
 			+ attenuate
-			+ attune --> attuned
-			+ attribute --> attribution --> attributable
+			++ attune --> attuned
+			+++ attribute --> attribution --> attributable
 			+ auspices --> auspicious
 			+ aver
+			* advert --> advertence
 			+ adverse --> adversary --> adversarial --> adversity
 			+ averse --> aversion
 			+ avert
@@ -116,7 +118,8 @@
 			+ /əbˈstiːmɪəs/ abstemious (adj)(吃喝)節制的, 節儉的 = temperate = restrained = frugal <-- abs + tem 酒 + ious
 			+ abstruse
 			* abuse
-			++ /əˈbɪs/ abyss (n)深淵, 險境 --> abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
+			++ /əˈbɪs/ abyss (n)深淵, (人之間的)鴻溝 = gulf, 災難
+			++ abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
 			+ abdicate
 			+ ahistorical (adj)缺乏歷史觀點的/與歷史無關的 == Lacking historical perspective or context. 
 			- anaerobic
@@ -1248,7 +1251,7 @@
 		- /ˈsəːtɪfʌɪ/ certify (v)(通常以書面形式)證明/證實 = qualify
 		- certificate (n)證書
 		- certification (n)證明
-		+ ascertain (v)弄清/確定/查明, 確信
+		+ ascertain (v)確定/弄清
 		*** concert (v)商議/使協調 (n)一致/和諧, 音樂會
 		* disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
 	
@@ -1773,7 +1776,7 @@
 		- decimal (adj)十進位的, 小數的 (n)小數
 
 	dic, dict, dit 說話/命令/要求 = say
-		+ abdicate (v)退位, 放棄
+		+ abdicate (v)退位, 背棄(承諾)
 		- addict (n/v)上癮
 		- benediction (n)祝福 = benison = invocation, 祈禱
 		+++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定, 使處於良好狀態, 訓練/使習慣於, 為..設立條件, 用護髮素 --> conditional (adj)有條件的 <--> absolute
@@ -2577,11 +2580,12 @@
 		- feticide (v)墮胎
 
 	fili 兒子 = son
-		+ affiliate (v)使隸屬於 = associate, 接納……為成員, 併入/加入 (n)成員 --> affiliated (adj)附屬的/相關的 = related
+		+ affiliate (v)[be affiliated to/with]使隸屬於 = associate, 接納……為成員, 併入/加入 (n)成員
+		+ affiliated (adj)附屬的/相關的 = related
 		- filial (adj)子女的
 
 	fin 範圍/限制 = boundary, boder, stop, limit
-		+++ affinity (n)吸引/喜愛 = fondness = affection = penchant = bent, 密切關係, 雷同/相似 = resemblance
+		+++ affinity (n)吸引/喜愛 = fondness = penchant = bent, 雷同/相似 = resemblance, [化]親和性 (mn)關係 = relation
 		+ confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
 		+ define (v)說明/解釋, 界定 --> /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
 		- defined (adj)輪廓分明的
@@ -2595,7 +2599,7 @@
 		- befringe (v)飾以邊
 
 	firm 堅定
-		+ affirm (v)斷言/主張 = assert = maintain, 確認 = confirm = uphold = ratify
+		++ affirm (v)申明/堅稱 =  = assert = maintain, 維護(主張) = uphold = defend, 證實/確認, 給予..鼓勵或支持
 		+ affirmative (adj)肯定的, 表示贊成的, 明確的 = unequivocal, 支持鼓勵的 (n)肯定詞, 贊成的一方 (excl)肯定 = yes
 		++ confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrenched
 		- infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
@@ -2756,7 +2760,7 @@
 		- aggrieve (v)使痛苦 = afflict
 
 	greg 聚集 = flock
-		++ aggregate (v)使聚集 = agglomerate = assemble (n)聚集體, 總數/合計 (adj)合計的
+		+ aggregate (n)聚集體, 集料/粒料(建築用的小石料) (adj)合計的/總的 = gross, 複合的 (v)使聚集 = agglomerate = assemble 
 		+ /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, 群居的(動物) --> gregariousness (n)和群, 群居
 		- egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
 		- congregate (v)聚集/集合
@@ -2765,7 +2769,7 @@
 
 	gress 走 = go, step, walk == amble == bat == cede == gress == journ
 		- aggression (n)侵略 = invasion, 攻擊 = assult = raid
-		+ aggressive (adj)好鬥的 = belligerent = assertive = militant, 積極進取的
+		+ aggressive (adj)好鬥的/富有攻擊性的 = belligerent = assertive = militant, 積極進取的, 惡性的(疾病) = malignant
 		- aggressor (n)侵略者 = assailant = invader
 		- congressional (adj)國家立法機關的, 議會的
 		+ digress (v)離題 --> digression (n)離題/脫軌 = excursion --> digressive (adj)離題的 = discursive
@@ -3618,7 +3622,7 @@
 		- sojourn (n/v)逗留/停留 = stay
 
 	junct, join 結合/連結 = join == arthr == articul
-		+ adjunct (n)附加物/附件 = appendage
+		+ adjunct (n)附加物/附件 = appendage, 助手/副手, 附加語/修飾語 (adj)附屬的, 兼職的/副的
 		- conjoin (v)使結合/使連接 --> conjunction (n)聯合/同時發生, 連詞/連接詞
 		+ disjoint (v)使脫臼 = dislocate, 使支離破碎 = dislocate --> disjointed (adj)支離破碎的/無條理的
 		- disjunction (n)分離/歧異 --> disjunctive (adj)分離的, 轉折的/反義的
@@ -3811,7 +3815,8 @@
 
 	lure 誘惑
 		- lure (v)引誘/誘惑 = tempt (n)餌 = bait, 誘惑物 = temptation, 誘惑力
-		+ allure (v)引誘 = tempt = appeal = attract = glamour = entice = seduce = bait (n)誘惑力/魅力 --> alluring (adj)迷人的/吸引人的 = inviting = attractive = tempting
+		+ allure (v)引誘 = tempt = appeal = attract = glamour = entice = seduce = bait (mn)誘惑力/魅力
+		+ alluring (adj)迷人的/吸引人的 = inviting = attractive = tempting
 
 	loft 閣樓/鴿房 = air, sky
 		- aloft (adv)在空中/在高處 <|> aloof
@@ -4488,7 +4493,7 @@
 		+ renunciation (mn)聲明放棄/宣佈放棄
 
 	nul, null 消除 = no, none, not any
-		+ annul (v)宣告無效 = abolish = abrogate = quash = repeal = rescind = revoke <|> annals
+		+ annul (v)宣告..無效 = abolish = abrogate = quash = repeal = rescind = revoke <|> annals
 		+ nullify (v)廢止 = negate = invalidate, 使無價值/使無效 = cancel out
 
 	nigr, negr 黑 = black
@@ -5463,7 +5468,7 @@
 	prob, prove, proof 證實
 		* approve (v)贊成/同意 = advocate = endorse, 相信 = believe
 		* approval (n)批准/認可, 相信/信任
-		+ approbation (n)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
+		+ approbation (mn)稱讚/認可 = accolade = praise = approval --> approbatory (adj)
 		+ disprove (v)證明為假/駁倒 = discredit = negate = rebut --> disproof (n)反證, 證明為假
 		- probate (mn)遺囑的認證 (n)經認證的遺囑 (v)認證(遺囑)
 		- provably (adv)可被證明地
@@ -6444,7 +6449,7 @@
 		- catastrophe (n)大災難 = apocalypse = cataclysm = disaster, 悲劇的結局 = denouement --> catastrophic (adj)災難性的
 
 	scribe, script 寫 = write == graph
-		+ ascribe (v)歸功於/歸咎於 = attribute = impute
+		+ ascribe (v)[to]歸功於/歸咎於 = attribute = impute
 		+ conscript (v)徵召入伍 = enlist (n)應徵入伍者
 		+ circumscribe
 		- inscribe (v)題寫/刻寫/在某物上寫, 題贈, [幾何]内切
@@ -6527,9 +6532,9 @@
 		- transpire (v)[it]被揭露 = be revealed, 發生 = occur = happen, (植物)蒸散
 
 	sail, sault, sult, sil, sali 跳 = leap, spring
-		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass --> assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
+		+ assail (v)抨擊 = decry, 猛攻, 困擾 = beset = harass
+		+ assault (v)攻擊/襲擊, 轟炸 (n)襲擊/猛襲 = onset, [法]施暴, 抨擊
 		- assailant (n)攻擊者
-		- consulate (n)領事館, 領事職
 		* consult (v)諮詢/請教, 查閱 = refer (n)諮詢
 		+ desultory (adj)無計劃的, 漫無目的的 = rambling = random
 		- exult (v)狂喜/歡欣鼓舞 = jubilate = rejoice <|> exalt --> exultant (adj)狂喜的/歡欣鼓舞的 = jubilant
@@ -6666,6 +6671,7 @@
 		- insert (v)插入 = interpolate (n)廣告頁
 
 	sid, sess, sed, sedi 坐 = sit 
+		+ assiduous (adj)勤勉的/堅持不懈的
 		+ dissident (n)持不同政見者 (adj)不贊成的 = disagreeing
 		+ insidious (adj)陰險的/暗中危害的/不知不覺間加劇的 <|> invidious
 		+ /əbˈsɛs/ obsess (v)迷住 = preoccupy = haunt, 煩擾 <|> /ə(ʊ)ˈbiːs/ obese
@@ -7585,7 +7591,8 @@
 		- univocal (adj)意思明確的 = unambiguous
 
 	use 用
-		* abuse (n/v)濫用/誤用 = misuse, 辱罵 = insult, 虐待 = maltreat --> abusive (adj)辱駡的, 虐待的, 不義的/違法的
+		* abuse (n/v)濫用/妄用 = misuse, 虐待 = maltreat, [oneself]自慰 = masturbate, 辱罵 = insult
+		* abusive (adj)辱駡的, 虐待的, 不義的/違法的
 		+ disabuse
 		+ misuse (n/v)誤用/濫用 = misapply, 虐待 = maltreat = abuse
 
@@ -7607,7 +7614,7 @@
 		
 [V]
 	ver, veri 真實的 = true
-		+ /əˈvəː/ aver (v)斷言/堅稱 = affirm = assert, [法]證明……屬實 <|> avert
+		+ /əˈvəː/ aver (v)斷言/堅稱 = affirm = assert, [法]作為事實提出 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
 		+ veracity (n)真實, 誠實
 		- verdict (n)判定/裁決, 判斷/意見 = opinion = judgement

@@ -1046,7 +1046,7 @@
     - /ˈdʌlsɪt/ dulcet (adj)柔和動聽的/輕柔悅耳的 = mellifluous = euphonious <|> mulct
     - dummy (n)假人, 腹語娃娃, 仿製品, 樣品/模型 = prototype = mock-up, 空包彈 = blank round, 假傳球, 傻瓜 (v)假傳球, 做樣品
     - dune (n)沙丘 = mound
-    - dung (n)糞/動物的排泄物 = manure (v)施糞肥於, 排泄 = defecate
+    - dung (n)糞/動物的排泄物 = manure = scats (v)施糞肥於, 排泄 = defecate
 
 [E]
     + eager (adj)熱切的/渴望的 = ardent = keen
@@ -1262,7 +1262,7 @@
     * feudal (adj)封建的, 過時的 --> feudalism (mn)封建制度
     ** fierce -> fiercer -> fiercest (adj)猛烈的/激烈的 = ferocious, 狂熱的/強烈的 = fervent
     * /ˈfʌɪəri/ fiery (adk)火一般的, 激烈的/熱烈的
-    ** fine (adj)好的 = superior = choice = excellent = rare, 好的/同意的, 細的/窄的, 尖銳的 = keen = sharp, 細小的/細微的 = minute, 難以捉模的 (v)變瘦, 使純淨, 罰 (n)罰款
+    ** fine (adj)好的 = superior = choice = excellent = rare, 好的/同意的, 細的/窄的, 尖銳的 = keen = sharp, 細小的/細微的 = minute = nice, 難以捉模的 (v)變瘦, 使純淨, 罰 (n)罰款
     * fireplace (n)壁爐/火爐
     * fireplug (n)消防栓 = fire hydrant
     ** filthy (daj)髒的/汙穢的 = sordid = squalid, 淫穢的/下流的 = obscene, [非]壞脾氣的, [非]可鄙的/卑劣的 = contemptible
@@ -1479,10 +1479,10 @@
     + /ˈɡalvənʌɪz/ galvanize (v)刺激/激起 = stimulate, 電鍍
     + /ˈɡamb(ə)l/ gambol (n/v)跳躍/嬉戲 = frolic = romp = lark <|> /ˈɡamb(ə)l/ gamble <-- gamb 腳 = leg + ol
     + gambit (n)策略/險招, 開場白, 開局讓棋法
-    + garish (adj)過分鮮艶的/花哨的 = lurid
+    + garish (adj)過分鮮艶的/花哨的 = gaudy = tawdry
     + /ˈɡɑːnə/ garner (v)收藏/積累 = amass = collect <-- garn 顆粒 = grain + er
     + garrulous (adj)[貶]嘮叨的/喋喋不休的 = wordy = verbal --> garrulity (mn)嘮叨 <-- garr 講話 = chatter + ulous
-    + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = coarse = uncouth = clumsy = awkward = tactless
+    + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = tactless = coarse = uncouth = clumsy = awkward
     + gaucherie (n)笨拙
     + gayety, gaiety (mn)快樂/興高采烈 = merriment, 喜慶, 娛樂 = entertainment = amusement
     ++ /ˈdʒiːnɪəl/ genial (adj)親切的/友好的 = cordial = friendly = amiable = kindly = affable, 宜人的(氣候) --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
@@ -1524,8 +1524,8 @@
     + gustatory (adj)味覺的/品嚐的 --> gustation (n)味覺/品嚐 <-- gust 品嚐 = taste + atory
 
     * gala (n)盛會
-    * gage, gauge (n)測量儀器, 測量法, 標準尺寸/大小/程度 (v)估計 = Estimate, 量 = measure
-    * /ˈɡɔːdi/ gaudy (adj)俗麗的/過分炫耀的 = tawdry
+    * gage, gauge (n)測量儀器, 測量法, 標準尺寸/大小/程度 (v)估計 = estimate, 量 = measure
+    * /ˈɡɔːdi/ gaudy (adj)俗麗的/過分炫耀的 = tawdry = garish
     * gingerly (adj/adv)小心/謹慎 = cautious = careful = wary
     *** gloom (n)黑暗 = murk, 憂鬱 = depression = despondency --> gloomy (adj)陰暗的/陰鬱的 = murky = obscure = stygian, 憂鬱的/悲觀的 = glum = lugubrious = morose = melancholy = dismal = saturnine
     * glum (adj)憂鬱的/沮喪的 = morose <|> glue
@@ -1658,7 +1658,8 @@
     - gram (n)克, 鷹嘴豆, [非]文法 = grammar
     - granite (n)花崗岩 <-- gran 顆粒 = grain + ite
     - granule (n)細粒
-    - grasp (v)抓緊/握緊, 理解/領悟(尤指費解之事) = comprehend --> grasping (adj)貪婪的 = greedy = avaricious
+    - grasp (v)抓緊/握緊, 理解/領悟(尤指費解之事) = comprehend
+    - grasping (adj)貪婪的 = greedy = avaricious
     - grassroots (n)基層, 基層群眾
 	- gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
     - graze (v)吃草 = browse, [非]吃零食, [非]隨意檢查, 弄破 = scrape, 擦過/略過 (n)擦傷  <-- grass
@@ -1704,16 +1705,17 @@
 
 [H]
     - hackney (n)乘用馬, 出租馬車/出租汽車 = hack
-    + /ˈhaknɪd/ hackneyed (adj)陳腐的/不新奇的 = trite = banal = stale = clichéd = fusty = commonplace = hack = slick
+    + /ˈhaknɪd/ hackneyed (adj)陳腐的/不新奇的 = trite = banal = stale = clichéd = fusty = commonplace
     +++ hail (n)冰雹, 一陣 (v)落下冰雹, 如冰雹般大量落下, 為..歡呼或喝采, 招呼/呼喊, [from]來自
     ++ /ˈhalsɪən/ halcyon (n)昔日美好的 = idyllic = carefree (n)(傳說)神翠鳥, 翠鳥 = kingfisher
     + /ˌhɑːfˈhɑːtɪd/ halfhearted (adj)不認真的/興趣不大的
     + hallmark (n)金銀上的純度印記, 標誌/特徵 = quirk (v)蓋上品質證明印記, 使獨特
-    + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow <|> /həˈləʊ/ hello --> hallowed (adj)神聖的 = holy = sacred, 受崇敬的
+    + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow + hallowed (adj)神聖的 = holy = sacred, 受崇敬的
     ++ hark (v)聽 = listen, [back to]提起/喚起 = harken/hearken back to
     + harry (v)反覆地襲擊, 不斷煩擾 = harass --> harried (adj)疲憊的 = harassed
     ++ /ˈharəʊ/ harrow (n/v)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)焦慮的 = distressing
-    ++ halt (n/v)暫停/停止 = stop = cease --> halting (adj)躊躇的/猶豫的 = faltering
+    + halt (n/v)暫停/停止 = stop = cease
+    + halting (adj)躊躇的/猶豫的 = faltering
     ++ hamper (n)帶蓋食品籃/野餐籃, [航]障礙船具 (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose = check = arrest = stymie
     + hamstring -> hamstrung -> hamstrung (n)腿筋/膕繩肌腱 (v)切斷(人、馬等的)腿後腱使成跛腳, 嚴重地限制..的效果
     + hand-wringing (n)憂慮的模樣
@@ -1722,7 +1724,8 @@
     + harmonious (adj)融洽的/和睦的, 一致的 = congruous = congruent = accordant
     + /ˈhɔːti/ haughty (adj)傲慢的/自大的 = arrogant = supercilious = conceited = cavalier = disdainful = imperious
     + /əʊˈtəː/ hauteur (n)傲慢 = haughtiness = snobbery <|> /ˈɔːltə/ alter
-    ++ haunt (v)(鬼魂)常出沒於, 經常去 = frequent, 縈繞(心頭), 使困擾 (n)常去的地方 --> haunted (adj)鬧鬼的, 焦慮不安的/飽受折磨的
+    ++ haunt (v)(鬼魂)常出沒於, 經常去 = frequent, 縈繞(心頭), 使困擾 (n)常去的地方
+    ++ haunted (adj)鬧鬼的, 焦慮不安的/飽受折磨的
     + hearten (v)鼓勵/激勵 = cheer = encourage
     + hector (v)欺凌/威嚇 = browbeat = bully
     + hectic (adj)忙亂的/鬧哄哄的 = bustling
@@ -1819,7 +1822,7 @@
     - harp (n)豎琴 (v)[on]反覆訴說/嘮叨
     - harpoon (n)魚叉 (v)用魚叉叉
     - harpsichord (n)羽管鍵琴/大鍵琴
-    - harridan (n)潑婦
+    - harridan (n)潑婦 = virago
     - hash (n)剁碎的食物, 混雜 = mess (v)切細 = chop, [out]和其他人協商共同達成 <|> mash
     - hatch (n)艙口, 掀背車的後門, 掀背車 (v)孵化, 孵 = incubate, 策劃 = conspire = devise
     - hatchery (n)人工孵化場
@@ -3286,6 +3289,7 @@
     - rostrum (n)講台/講壇 = podium, 攝影機架, 喙
     - rotate (v)旋轉/轉動, 輪流/交替
     - rotten (adj)腐爛的, 腐敗的 = corrupt, [非]糟糕的, [非]令人不悅的, [非]不舒服的 = unwell (adv)非常
+    - round (adj)圓的, 球形的, 圓胖的 = plump, (聲音)圓潤的 = mellow, 整數的, 大約的, 直率的 = frank (n)一圈, 一輪, 一回合, 一連串的事情/一系列的事件, 一巡(飲料), 輪唱曲/輪唱歌, 一發(彈藥) (v)繞過/繞行, 約略(數字), 使變圓, [out]完成, [on]抨擊, [up]聚集, [up]逮捕
     - round-the-clock (adj)全天候的
     - routine (n)例行公事, 固定劇目/一套固定舞步, 程序 (adj)例行的
     - rover (n)流浪者/漫遊者, 游擊選手, (外星球)探測車, 遠距離箭靶
@@ -3481,7 +3485,7 @@
     + /ˈs(j)uːpʌɪn/ supine (adj)仰向的/仰躺的, 軟弱的/懶散的 = indolent
     + surly -> surlier -> surliest (adj)暴躁的/易怒的 = crabbed = cantankerous = irritable <-- sur 先生 = sir + ly
     + swift (adj)快的 = fleet = rapid, 迅速的/敏捷的 = ready (adv)快地 (n)褐雨燕
-    +++ /ˈsɪbərʌɪt/ sybarite (n)愛奢侈享樂的人 = hedonist -> sybaritic (adj)放縱的 = hedonistic = self-indulgent
+    +++ /ˈsɪbərʌɪt/ sybarite (n)愛奢侈享樂的人 = hedonist - -> sybaritic (adj)放縱的 = hedonistic = self-indulgent
     + /ˈsɪlv(ə)n/ sylvan (adj)森林的/林木覆蓋的 = wooded = woody, 鄉村的 = rural = pastoral <-- sylv 森林 = forest + an
     + syntax (n)語法/句法 <--> semantic
 
@@ -4638,37 +4642,38 @@
 [Y]
     + yoke (n)軛, 壓迫/束縛/枷鎖, 一對銬上軛的(牲口), 上衣抵肩/裙腰, 紐帶/聯結 = tie = link, 飛機的操縱桿 (v)套上軛, 聯合/使結合 = join = link = unite = associate
 
-    +++ /jiːld/ yield (v)出產, 產出/提供 = produce = furnish, 放棄/讓出/禮讓 = cede = concede = elinquish = surrender = submit, 導致 = cause (n)產出, 產量, 收益比
-    + yielding (adj)順從的 = obedient = tractable = amenable = submissive = compliant, 易彎曲的/柔軟的 = flexible = supple = pliable = lithe, 生產的 = productive
-    ++ youth /juːθ/ (n)青少年時期, 青年, 年輕/青春, 初期/早期
+    +++ /jiːld/ yield (v)產出/提供 = produce = furnish, 退讓/讓出/禮讓 = cede = concede, 放棄 = relinquish = surrender, (受壓)彎曲/垮掉 (n)產量, 收益 = financial return
+    +++ yielding (adj)易彎曲的/柔軟的 = flexible = supple = pliable = lithe, 順從的 = obedient = tractable = amenable = submissive = compliant, 生產的 = productive
+    + /juːθ/ youth (n)年輕/青春, 初期/早期, 青年, 青少年
 
-    * yarn (n)紗/紗線, 冒險故事 (v)講故事
+    * yarn (n)紗/紗線, [非]冒險故事/奇談 (v)[非]講故事
     * yank (v)[非]猛地一拉/使勁一拉 (n)[非]突然的猛拉
-    * /jəːn/ yearn (v)渴望 = long = pine = thirst = crave, 同情/憐憫
+    * /jəːn/ yearn (v)渴望 = long = pine = thirst = crave
     * yore (adj)從前的 = former
 
-    - yacht (n)帆船/遊艇
-    - yap (v)(小狗)狂吠/吠叫 = bark, 喋喋不休地說話/嘮叨 = babble
-    - yawn (v)打呵欠 = gape
+    - yacht (n)快艇/遊艇 (v)駕快艇
+    - yap (v)(小狗)狂吠/吠叫 = bark, 喋喋不休地說話/嘮叨 = babble (n)狂吠聲, [非]嘴巴, 嘮叨 
+    - yawn (v)打呵欠 = gape, 大開 = be very large and wide (n)呵欠, 乏味之物
     - yearling (n)滿一歲的動物 (adj)滿一歲的, 一歲動物的
-    - yeast (n)酵母, 興奮 <|> feast
+    - yeast (n)酵母 <|> feast
     - yearbook (n)年鑑/年報, 畢業紀念冊
-    - yelp (v)(因疼痛)尖叫
+    - yelp (n/v)(因疼痛)叫喊
     - yokel (n)鄉巴佬
-    - youngster (n)小孩/年輕人, 幼小動物
+    - youngster (n)小孩/年輕人/幼小動物
 
 [Z]
-    * /ziːl/ zeal (n)熱忱/熱情/狂熱 = zest = fervor = enthusiasm
-    + /ˈzɛlət/ zealot (n)狂熱者 = fanatic = maniac --> zealotry (n)狂熱行為
+    * /ziːl/ zeal (mn)熱忱/熱情 = zest = fervor = enthusiasm
+    + zealot (n)狂熱者 = fanatic = maniac
+    + zealotry (n)狂熱行為
     + /ˈzɛləs/ zealous (adj)熱情的/狂熱的 = devoted = diligent = ardent = impassioned
-    + /ˈzɛnɪθ/ zenith (n)天頂, 極點
+    + /ˈzɛnɪθ/ zenith (n)高峰/極盛時期, 天頂
     + /ˈzʌɪtɡʌɪst/ zeitgeist (n)時代精神 <-- zeit 時間 == time + geist 精神 = spirit
 
-    * zest (n)風味/滋味 = relish = savor, 熱情 = zeal, 柑橘類的皮
-    * zoom (v)疾行, (價錢)直線上升, (使)畫面拉近/畫面拉遠 (n)變焦攝影, 變焦鏡頭
+    * zest (n)熱情/興致 = zeal, 柑橘類的皮 (v)磨柑橘皮
+    ** zoom (v)疾行, (價錢)直線上升, (使)畫面拉近/畫面拉遠 (n)變焦攝影, 變焦鏡頭
 
-    - zephyr (n)和風, 西風
-    - zigzag (n)Ｚ字形/曲曲折折 (adj)鋸齒形的
-    - zip /zɪp/ (v)拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) (n)拉鍊, [非]精力/活力, [非]無/沒有 = nothin
-    - zone (v)分成區
+    - zephyr (n)和風/微風, 輕薄織物
+    - zigzag (n)Ｚ字形, 突然變來變去 (adj)鋸齒形的 (adv)曲曲折折地 (v)呈Z字形移動
+    - /zɪp/ zip (v)拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) (n)拉鍊, [非]精力/活力, [非]無/沒有 = nothin
+    - zone (n)地帶/地區, 時區, 動植物分布帶 (v)分成區, 劃出……為區
     
