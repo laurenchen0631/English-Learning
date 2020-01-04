@@ -824,3 +824,4 @@
 	- If one or two trains run late, it has a knock-on effect on the entire rail service.
 - vested interest (n)既得利益 --> vested interest (n)既得利益人群/既得利益集團
 - smoke and mirrors (n)謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
+- old hand (n)老手/專家

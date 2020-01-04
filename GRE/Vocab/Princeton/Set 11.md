@@ -166,7 +166,7 @@
 		1. *mellifluousness*
 		1. [O] subjectivity
 
-14. The (i)_____ state of the city`s public schools certainly demands immediate attention, **but** it is important that **our remedies be thoughtful and comprehensive**. **While** appropriate measures of teacher performance and subsequent accountability will undoubtedly play a vital role in revitalizing our schools, it would be (ii)_____ the many other factors at play, factors as widely divergent as the system's deteriorating physical capital and students' home lives. Even the most **talented teachers are challenged**, for example, to (iii)_____ of an unstable or abusive home environment on a student's ability to learn.
+14. The (i)_____ state of the city's public schools certainly demands immediate attention, **but** it is important that **our remedies be thoughtful and comprehensive**. **While** appropriate measures of teacher performance and subsequent accountability will undoubtedly play a vital role in revitalizing our schools, it would be (ii)_____ the many other factors at play, factors as widely divergent as the system's deteriorating physical capital and students' home lives. Even the most **talented teachers are challenged**, for example, to (iii)_____ of an unstable or abusive home environment on a student's ability to learn.
 	1. Blank(i)
 		1. *execrable*
 		1. tendentious
@@ -192,7 +192,71 @@
 		1. *impugned*
 		1. parried
 		1. *defalcated*
-					
+
+16. The so-called "thieves' cant" was a (i)_____ language created by thieves, beggars, and swindlers in England in the 1530s to allow them to **communicate without the authorities knowing** what was going on. **Although** the cant was **widely used by criminal subcultures** five hundred years ago, it is now mostly (ii)_____ , **found only in** literature and fantasy role-playing games.
+	1. Blank(i)
+		1. clandestine
+		1. bourgeois
+		1. *sacrilegious*
+	2. Blank(ii)
+		1. obsolete
+		1. pervasive
+		1. contemporary
+
+17. **While** the (i)_____ structures of Lego projects are often **impressive**, it's the **internal** (ii)_____ such as flower pots, sink fixtures, and working windows **that make them truly magical.**
+	1. Blank(i)
+		1. august
+		1. external
+		1. *incidental*
+	
+	2. Blank(ii)
+		1. *minutiae*
+		1. stratagems
+		1. *proboscises*
+
+18. Often considered one of the best films in cinematic history, Breakfast at Tiffany's faced several (i)_____ during production. The film's star, Audrey Hepburn, almost **refused the part**, afraid it would (ii)_____ her **pristine image;** further, the film faced intense scrutiny from censors, and the director had to make several compromises to (iii)_____ them.
+	1. Blank(i)
+		1. complications
+		1. harbingers
+		1. advancements
+	
+	2. Blank(ii)
+		1. augment
+		1. tarnish
+		1. peruse
+	
+	3. Blank(iii)
+		1. assuage
+		1. refute
+		1. *discomfit*
+
+19. The (i)_____ of medieval *papal* power was the pontificate of Innocent III, whose immense personal prestige cowed monarchs from the powerful Philip II "Augustus" of France to the (ii)_____ John of England, who earned such **derisive *epithets* as "Lackland" and "Softsword.**" Even before Innocent's tenure, though, the involvement of Pope Henry IV in the *Investiture* Conflict had begun to hint at the **tension between spiritual and** (iii)_____ leadership that would eventually boil over in the Protestant Reformation.
+	1. Blank(i)
+		1. zenith
+		1. [XXX] *pengee*
+		1. antipathy
+	
+	2. Blank(ii)
+		1. feckless
+		1. *intemperate*
+		1. resplendent
+	
+	3. Blank(iii)
+		1. archaic
+		1. *temporal*
+		1. *consecrated*
+
+20. Some argue that **profiting from terrible suffering** by publishing photographic books about natural disasters is shameless (i)_____ , but perhaps the practice has the (ii)_____ effect of **helping us to appreciate the humanity of people living far way.**
+	1. Blank(i)
+		1. presumptuous
+		1. *idolatrous*
+		1. *profiteering*
+	
+	2. Blank(ii)
+		1. salutary
+		1. *specious*
+		1. sedulous
+						
 ## Vocab
 - scenic (adj)景色秀麗的, 舞臺布景的, 戲劇性的
 - backwater (n)回水/滯水, 落後閉塞的地方
@@ -230,5 +294,16 @@
 - unexpurgated (adj)未被刪減 = uncensored
 - mellifluousness (n)
 + execrable (adj)惡劣的/極壞的 = abhorrent
-- impugn (v)置疑 = dispute = call into question
++ impugn (v)置疑 = dispute = call into question
 - defalcate (v)挪用公款 = misappropriate = embezzle
+- sacrilegious (adj)褻瀆神明的
+* incidental (adj)附帶的/伴隨的, 偶然發生的 (n)意外事件/意外支出
++ minutia, minutiae (n)細節/小事
+- proboscis (n)長鼻, 昆蟲的吸器
++ discomfit (v)使羞赧/使羞愧 = mortify 
++ epithet (n)(褒貶人時使用的)表述形容詞, 稱號/綽號
+- intemperate (adj)不節制的/過度的, 酗酒的
++ investiture (mn)授予 = investing (n)受封儀式 <-- invest
+- temporal (adj)時間的, 太陽穴的/顳的, 世間的/世俗的 = mundane = worldly = early = secular
++ consecrate (v)使聖化/給…祝聖 = sanctify = beatify = hallow, 任命(神職) = ordain, 獻身於/致力於 = devote
++ specious (adj)似是而非的 <--> plausible, 華而不實的 = meretricious

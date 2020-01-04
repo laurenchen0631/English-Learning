@@ -123,15 +123,17 @@
 			+ abdicate
 			+ ahistorical (adj)缺乏歷史觀點的/與歷史無關的 == Lacking historical perspective or context. 
 			- anaerobic
-			- analgesia
+			+ analgesia --> analgesic
 			+ anarchy
 			* /ˌanɪsˈθɛtɪk/ anesthetic, anaesthetic (n)(手術用)麻醉劑 <-- an + aesthetic
-			- anemia --> anemic
+			+ anemia --> anemic
+			- aniconic (adj)象徵性的, 沒有偶像或圖像的
 			+ anomaly (n)異常/異常事物 --> anomalous (adj)異常的/不正常的 = irregular = aberrant
 			+ anonymity --> anonymous 
-			- anorexia
+			- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症 <-- an + orex 胃口/渴望 = longing
 			- anhydrous
 			+ apathy --> apathetic
+			+ apolitical (adj)不關心政治的/無政治傾向的
 			+ aseptic
 			- asphyxiate (v)(使)窒息而死 = suffocate <-- a + sphyx 跳動/脈搏 = pulse + ate
 			+ /eɪˈtɪpɪkəl/ atypical (adj)非典型的/異常的/不同尋常的
@@ -142,12 +144,14 @@
 			+ abscission
 			+ abscond
 			+ absolve
-			- absorb --> absorption
+			- absorb (v)吸收, 使用/佔據 = use = take up, [be absorbed in]吸引...的注意 <-- ab + sorb 吸收 = swallow, suck in
+ 			- absorbed (adj)被吸收的, 全神貫注的 = preoccupied = rapt = engrossed
+			- absorption (n)吸收, 全神貫注 = concentration
 
 	ana
 		1. 上 = up, upwards
 			* analyze --> analysis
-			- anatomy
+			- anatomy --> anatomical
 
 		2. 再次 = again
 			- anagram
@@ -167,77 +171,81 @@
 			+ antipathy
 			- antipode (n)正相反的事物
 			- antimacassar (n)椅背套
-			- antonyms
-			+ antithesis
+			- antonym
+			+ antithesis --> antithetical
 			- antiseptic
 
 		2. 古 = ancient
-			+ antic (adj)古怪的 = erratic = grotesque = bizarre
+			+ antic (adj)[古]古怪的  = grotesque = bizarre
 			- antics (n)古怪而可笑的舉動/噱頭
-			* /anˈtiːk/ antique (adj)古時的/古老的 = archaic (n)古董
-			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian
-			+ antiquarian (adj)古文物的 (n)古文物家
-			** antiquity (n)古代, 古董, 古老 = great age
+			* /anˈtiːk/ antique (n)古董 (adj)古董的, 古時的/古老的 = archaic, 老式的/過時的 = outdated = old-fashioned (v)仿古
+			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian = antique <-- antique
+			+ antiquarian (adj)古董的, 古文物研究的 (n)古物研究家
+			* antiquity (n)古代, 古物/古董, 古老 = great age
 
 	ante, ance, anti 前 = before
-		+ ancestor (n)祖先 = antecedent, 原型 --> ancestry (n)家系
+		+ ancestor (n)祖先 = antecedent, 原型
+		+ ancestry (n)祖先/祖宗, (動植物)世系/血統, 起源/背景
 		- antechamber (n)前廳
-		+ antedate (v)早於...存在
-		+ /ˌantɪdɪˈluːvɪən/ antediluvian (adj)史前的, 老套的
-		* antecede (v)先於 = precede
+		+ antedate (v)早於...存在/先於
+		+ /ˌantɪdɪˈluːvɪən/ antediluvian (adj)史前的, 過時的/老式的 = antiquated
+		* antecede (v)先於 = precede = antedate
 		+ antecedent (n)前事/前身, 祖先 (adj)先前的 = anterior = previous <-- antecede
-		- antenna (n)觸角, 天線
-		- anterior (adj)較早的/先前的, 前面的/前部的
+		- antenna -> antennae (n)觸角/觸鬚, 感受器, 天線
+		- anterior (adj)前面的/前部的, 先前的 = earlier
 		+ anticipate
 
 	amat, amor, am 愛 = love, friendly = phil
-		+ /ˌaməˈtəː/ amateur (n)業餘愛好者 = dilettante --> amateurish (adj)不熟練的/外行的
-		+ ambrosia (n)美味佳餚/仙饈
-		- amorous (adj)多情的/色情的, 戀愛的
-		+ amiable (adj)(自己)和藹的 = affable <-- amicable
+		+ /ˌaməˈtəː/ amateur (n)業餘愛好者 = dilettante, 外行 (adj)業餘的, 外行的
+		+ amateurish (adj)不熟練的/外行的 = unskillful = inept
+		+ ambrosia (n)仙饈, 美味/珍饈, 蜜蜂麵包 = bee bread
+		- amorous (adj)色情的
+		+ amiable (adj)和藹的 = affable <-- amicable
 		+ amicable (adj)友善的/友好的 = amiable
-		- amity (n)友好關係
-		+ enamour, enamor (v)使傾心/使迷戀 --> enamored (adj)迷戀的
+		- amity (mn)友好關係
+		+ enamour, enamor (v)[be enamored of/with/by]使傾心/使迷戀/喜愛
 		* glamor, glamour (n)吸引力/魅力 --> glamorous (adj)富有魅力的
 		- glamorize (v)美化/使更有魅力
 
 	ambi, amphi 
 		1. 二 = both, two
-			+ ambiguous (adj)模糊的 = vague = nebulous = equivocal --> ambiguity (n)含糊/不明確
+			+ ambiguous (adj)含糊不清的/引起歧義的 = vague = nebulous = equivocal, 模棱兩可的/不明確的
+			+ ambiguity (mn)含糊/不明確 = inexactness
 			- ambidextrous
-			+ ambivalent
-			- /amˈfɪbɪən/ amphibian (n)兩棲動物, 水陸兩用飛行器 <-- amphi + bio + ous
+			+ ambivalent --> ambivalence
+			- /amˈfɪbɪən/ amphibian (n)兩棲動物, 水陸兩用飛行器 (adj)兩棲動物的 <-- amphi + bio + ous
 
 		2. 周圍 = around
 			- ambient (adj)周圍的 = peripheral
 
 	amble, ambul 走路 = walk
 		- amble (n/v)漫步 = saunter = stroll
-		- ambulance (n)救護車
-		- perambulate (v)巡視, 散步 = stroll = amble
+		- ambulance (n)救護車 (v)救護車運送
+		- perambulate (v)散步 = stroll = amble
 		+ preamble (n)前言/序言 = preface = prologue <|> perambulate
 		* /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble, 隨筆, 蔓生 <|> /ˈreɪnbəʊ/ rainbow
 		- noctambulant
 
 	ampl 大 = wide, large
-		+ ample (adj)充足的 = adequate = abundant = bountiful = rife, 大的/寬敞的 = large = accommodating
+		+ ample (adj)充足的/大量的 = adequate = abundant = bountiful = plentiful, 大的/寬敞的 = large = accommodating
 		+ amply (adv)充足地 = plentifully
-		+ amplify (v)放大 = augment, 詳述
-		- amplitude (n)廣大/廣闊, 震幅
+		+ amplify (v)擴大/放大 = augment, 詳述/增添(細節)
+		- amplitude (n)廣大/廣闊 = breadth = range = magnitude, 震幅
 
 	acerb, acid, acri 尖酸/嚴厲 = sour, sharp, harsh
-		+ /əˈsəːbɪk/ acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent, 酸的 = sour --> acerbity (n)苦澀/刻薄
-		- acerbate (v)使發怒/使煩惱 = exasperate <-- acerbic + ate
+		+ /əˈsəːbɪk/ acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent
+		+ acerbity (n)苦澀/刻薄
+		- acerbate (v)惡化/加重 = exacerbate <-- acerbic + ate
 		+ /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate
-		+ acid /ˈasɪd/ (n)酸, [非]迷幻藥 (mn)尖刻 (adj)酸性的, 尖酸刻薄的, 濃烈的/鮮明的 = intense = bright
-		+ /əˈsɪdjʊləs/ acidulous (adj)多少帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
-		- acrid (adj)(味道)辛辣的/刺激的, 刻薄的 = caustic = acerbic
-		+ acrimony (n)尖酸/刻薄 = acerbity = bitterness --> acrimonious (adj)刻薄的/嚴厲的/辛辣的 = caustic = stinging
+		+ /ˈasɪd/ acid (n)酸, [非]迷幻藥 (mn)尖刻 (adj)酸性的, 尖酸刻薄的, 濃烈的/鮮明的 = intense = bright
+		+ /əˈsɪdjʊləs/ acidulous (adj)帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
+		- acrid (adj)(味道)辛辣的/刺激的 = bitter = pungent
+		+ acrimony (n)嚴厲/刻薄 = bitterness --> acrimonious (adj)刻薄的/嚴厲的 = caustic = stinging = bitter
 
 	acro 高 = height, tip
 		- acrobat (n)特技演員
 		- /akrəˈbatɪks/ acrobatics (n)雜技, 巧妙手法
-		- acrophobia (n)懼高症
+		- acrophobia (mn)懼高症
 
 	acu 銳利 = sharp
 		+++ acute (adj)敏銳的/精明的 = astute = shrewd = keen = subtle, 嚴重的 = severe = intense = fierce, 急性的, 銳角的 <--> obtuse, 尖音的
@@ -260,7 +268,7 @@
 		+ /ˈɛːri/ aerie, eyrie (n)高處的房子, 鷹巢
 		- aerate (v)注入氣體
 		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
-		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)厭氧的 (n)厭氧生物
+		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)[聲]厭氧的, 無氧的(運動)
 		- aeroponics (n)無土種植法
 		-  /ɛːˈrəʊbɪks/ aerobics (n)有氧運動
 		- aerosol (n)氣膠(指固體或液體微粒穩定地懸浮於氣體介質中形成的分散體系，其中顆粒物質則被稱作懸浮粒子) --> aerosolize (v)氣膠化
@@ -272,8 +280,9 @@
 	agon 掙扎/打鬥 = struggle
 		- agony (n)極大的痛苦 = anguish
 		- agonize (v)[over]為…傷腦筋/因…痛苦彷徨
-		+++ /anˈtaɡnʌɪz/ antagonize (v)使對抗/使對立 --> antagonism (n)對抗/對立, 敵對/敵意 = enmity
+		+++ /anˈtaɡnʌɪz/ antagonize (v)引起…的敵意/使對立 --> antagonism (mn)對立/敵意 = opposition = enmity = hostility
 		+ antagonistic (adj)敵對的/反對的 = hostile = opposed
+		- antagonist (n)對立者/敵手, [生]對抗藥, [解]對抗肌
 		- protagonist (n)主角, 提議者/支持者 = proponent
 
 	agr, agro, agri, ara 土地/農業 = acre, feild, soil
@@ -300,7 +309,7 @@
 		- exaltation (n)欣喜/得意, 提拔/晉升
 
 	alg, algo 痛 = pain
-		+ /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
+		+ /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺, 止痛藥 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
 		+ /nɒˈstaldʒə/ nostalgia (n)懷舊/念舊, 思鄉病 <-- nost 家 = home + algia
 		- neuralgia (n)神經痛
 
@@ -513,7 +522,7 @@
 		- bipolar (adj)有兩極的/兩極的, 躁鬱的
 
 	bio 生命
-		- antibiotic (n)抗生素
+		- antibiotic (n)抗生素 (adj)抗生素的
 		- autobiography (n)自傳
 		- bioethicist (n)生物倫理學家
 		- /bʌɪˈɒlədʒi/ biology (n)生物學
@@ -820,6 +829,7 @@
 	cede, cess, ceed 走/放棄 = go, yield, withdraw == ambul == bat == journ == trus == gress == it
 		+ antecede
 		+ accede (v)同意 = agree = consent, 登基/任職 = succeed = assume
+		+ accession (n)登基/就職/獲得(權力), 加盟, 同意(條約) = acceptance, 增加/增加物 (v)紀錄增加物到收藏
 		- access (n)通路/方法/權利, 發作/爆發 (v)接近/進入, 獲取/取得(資料)
 		+ accessible (adj)可進入的/可得到的, 易受影響的, 易理解的
 		+ inaccessible (adj)達不到的, 無法使用的, 難懂的/晦澀的, 不易親近的 = unapproachable
@@ -916,7 +926,7 @@
 		- incept (v)攝取/接收 = ingest = intake, 取得學位 --> inception (n)成立/創立/起初/開端
 		+ /ˈɪnsɪd(ə)nt/ incident (n)(不愉快或不尋常的)事件, 隨付責任義務 (adj)易發生的, 隨附的, 入射的 <|> accident
 		*** incidence (n)發生率, 入射/入射角
-		* incidental (adj)附帶的/伴隨的, 偶然發生的 (n)意外事件/意外支出
+		+ incidental (adj)附帶的/伴隨的, 偶然發生的 (n)意外事件/意外支出
 		+ incipient (adj)剛開始的/早期的 = inchoate = embryonic = nascent
 		+ intercept (n/v)中途攔截/截斷/竊聽
 		- /mjʊˈnɪsɪpəl/ municipal (adj)市的/市政的 = civic, 地方自治的 <-- muni 責任 = duty + cip + al
@@ -957,7 +967,7 @@
 		- deicide
 
 	cise, ciss, cid 切掉/割 = cut
-		+ abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (v)切除, 截枝
+		+ abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (n)切除(枝葉)
 		+ concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact --> concision (n)簡潔
 		- decide (v)決定
 		+ /dɪˈsʌɪsɪv/ decisive (adj)果決的, 決定性的/確定的
@@ -973,7 +983,7 @@
 		- scissors (n)剪刀
 
 	cond 藏起/儲藏 = stow, secrete
-		+ abscond (v)潛逃/逃亡
+		+ abscond (v)潛逃/逃亡, (蜜蜂)棄巢
 		- condiment (n)調味料
 		+ /ˈrɛk(ə)ndʌɪt/ recondite (adj)深奧的 = esoteric = abstruse = profound = Hermetic
  
@@ -1101,7 +1111,7 @@
 		- cavern (n)岩洞, 深部 (v)挖空
 
 	chron 時間
-		+ anachronism (n)時代錯誤/年代誤植/不合時代的人或物 --> anachronistic (adj)時代錯誤的
+		+ anachronism (n)不合時代的人或物, 時代錯誤/年代誤植 --> anachronistic (adj)時代錯誤的
 		+ chronic (adj)慢性的, 長期的/持續的 = long-lasting
 		* chronically (adv)慢性地, 長期地
 		- chronology (n)年代學, 年表
@@ -1161,6 +1171,7 @@
 		- /ˈtʃɑːndlə/ chandler (n)蠟燭商
 
 	capit 頭 = small head
+		- decapitation (n)斬首, 殺頭
 		+ /kəˈpɪtjʊleɪt/ capitulate (v)投降/停止抵抗 = surrender = yield
 		- capitulum (n)骨的頭部
 		+ recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize --> recapitulation (n)
@@ -1343,6 +1354,9 @@
 		*** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
 		- reconnoiter (n/v)[軍]勘察/偵查
 
+	cent 一百
+		* centurion (n)(古羅馬軍團的)百人隊隊長/百夫長
+
 	centr 中心 = center
 		+ central (adj)首要的/最重要的 = principal = essential = chief = dominant, 核心的/中心的
 		+ centrifugal (adj)離心的 --> centrifuge (n)離心機
@@ -1400,7 +1414,7 @@
 		+ microcosm
 
 	crit 判斷 = judge, umpire == arbit
-		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準
+		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準 = yardstick
 		*** critic (n)批評者, 評論家
 		+ critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
 		+ critique (n/v)評論
@@ -1429,7 +1443,7 @@
 		+ cumber (v)拖累/妨礙 = hinder = hamper, 阻塞 = obstruct
 		+ cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的/難處理的 = unwieldy = clumsy
 		+ encumber (v)妨礙 = restrict = impede = retard = cumber
-		- recumbent (adj)斜躺的/側臥的, 休息的 = resting
+		+ recumbent (adj)斜躺的/側臥的, 貼近地面的(植物)
 		+ succumb (v)屈從, 死亡
 
 	cyn 狗
@@ -1540,6 +1554,7 @@
 			- decouple (v)分離 = separate = disengage, (電子)去耦, 減低或吸收(核子爆炸之)震波
 			- decriminalization (n)合法化/除罪化
 			- de-emphasize (v)降低..重要性
+			+ defalcate (v)挪用公款 = misappropriate = embezzle
 			+ defame (v)詆毀/誹謗 = libel = malign = slander = calumniate = denigrate = disparage = smear = vilify
 			+ defamatory (adj)誹謗的/詆毀的 = calumnious
 			- deface
@@ -1664,6 +1679,7 @@
 			* disrepute (n)不名譽/不受尊重 --> disreputable (adj)不受信任的/名聲不佳的
 			+ dissemble
 			* dissent
+			- disservice (n)有害的行為 = criterion
 			- dissimulate
 			- dissuade
 			+ distaste (n)厭惡/討厭 = antipathy = animosity
@@ -1825,7 +1841,7 @@
 			- domicile (n)住處 (v)居住 <|> docile
 
 	dote, dose, don 給予 = give
-		+ antidote (n)緩解辦法/對抗手段, 解毒劑
+		+ antidote (n)解毒劑, 緩解辦法/對抗手段
 		+ condone (v)原諒/寬恕 = pardon = excuse, (不情願)認可/贊同
 		- donate (v)捐/捐獻(錢、血或器官等)
 		- donor (n)捐血者/器官捐贈者/捐助者 = benefactor
@@ -3205,6 +3221,7 @@
 			+ /ˌɪnɪˈlʌktəb(ə)l/ ineluctable (adj)無法逃避的/不可避免的 = inevitable <-- in + eluc 逃避 = struggle out + able
 			+ inept --> ineptitude
 			- inequity
+			+ inerrant (adj)不會有錯的 --> inerrancy (n)
 			+ /ɪˈnəːt/ inert (adj)惰性的, 無生命的/遲緩的/無生氣的 = dull = slow --> inertia (n)惰性, 慣性 <-- in + ert 技巧 = skill
 			++ inexhaustible (adj)用之不竭的/無窮無盡的 = unfailing, 不會疲勞的 = untiring = tireless
 			++ inexorable (adj)無法改變的/不可阻擋的, 說不動的/無情的 = implacable = relentless = unyielding = stern
@@ -3256,7 +3273,7 @@
 			+ intact
 			+ intangible (adj)無形的/觸摸不到的 <-- in + tangible
 			+ /ɪnˈtəːmɪnəb(ə)l/ interminable (adj)無盡頭的/無止盡的
-			+ intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
+			+ intemperate (adj)不節制的/過度的, 酗酒的 --> intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
 			++ intractable (adj))倔強的 = implacable = stubborn = obstinate, 無法控制的/難以處理的/棘手的 = uncontrollable 
 			+ intransigent (adj)不妥協的 = pertainacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
 			+ intransigence (n)不妥協/不讓步
@@ -3493,7 +3510,7 @@
 			- interrupt
 			- intersect --> intersect
 			- intersperse
-			- intertwine (v)纏繞/交纏
+			+ intertwine (v)纏繞/交纏
 			- intervene --> intervention
 			+ intrinsic, intrinsical (adj)本質的/固有的 = essential <--> extrinsic <-- intr + in + sic
 
@@ -3528,7 +3545,7 @@
 
 	integ, integr 完整的 = whole, integer
 		- integer (n)整數
-		- integral (adj)構成整體所必需的/不可缺的, 完整的/整體的 = whole, 整數的, 積分的 (n)整數, 積分
+		+ integral (adj)構成整體所必需的/不可缺的, 完整的/整體的 = whole, 整數的, 積分的 (n)整數, 積分
 		+ integrate (v)使成一體/加入, 取消隔離政策, 求..積分
 		+ integrant (adj)構成整體的 = constituent (n)部件 = component
 		+ /ɪnˈtɛɡrɪti/ integrity (n)正直/誠實 = sincerity, 完整 = entirety
@@ -3554,7 +3571,7 @@
 		+ /ɪˈtɪnər(ə)nt/ itinerant (adj)(工作)巡迴的/流動的 = unsettled = peripatetic (n)巡迴者
 		+ /ʌɪˈtɪn(ə)(rə)ri/ itinerary (n)旅行計劃/行程表 = travel schedule (adj)旅行的/旅程的
 		- obituary
-		+ sedition (n)煽動叛亂/煽動性的言論 <|> petition <-- sed 分開 = apart + it + ion
+		+ sedition (n)煽動叛亂/煽動性的言論 <|> petition --> seditious (adj)煽動的 <-- sed 分開 = apart + it + ion
 		- transit --> transition 
 		+ transitory
 
@@ -3728,6 +3745,7 @@
 		** /rɪˈliːv/ relieve (v)緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
 		** /rɪˈliːf/ relief (n)寬心/慰藉, 救濟/補助, 救濟品/救濟金, 替換/接替, 浮雕, 顯眼
 		- relieved (adj)寬慰的/如釋重負的
+		- bas-relief (n)淺浮雕
 
 	len 軟 = soft
 		- lenis (adj)發音較不費力的(子音)
@@ -3745,7 +3763,7 @@
 		- dislocate (v)使脫臼 = disjoint, 弄亂/擾亂 --> dislocation (n)脫節, 脫臼
 		- /ləʊˈkɑːl/ locale (n)事情發生的現場或地點
 		- locality (n)位置 = position = site, 地區 = area = neighborhood
-		- locus (n)地點/所在地 = location
+		- locus -> loci (n)地點/所在地 = location, [數]軌跡
 		*** location (n)地點 = locus, [數]軌跡, 出庭權/陳述權 = locus standi
 		- locomotion (n)運動/移動 = motion --> locomotive (n)火車頭 (adj)運動的/移動的
 		- locavore (n)本土膳食主義者(堅持只吃當地所種植和生產的食品的人)
@@ -3843,7 +3861,7 @@
 		- eulogize (v)稱讚/頌揚 = laud = praise = extol = exalt
 		- eulogistic (adj)頌揚的/讚頌的 = laudatory
 		* logic (n)邏輯, 推理法, 道理
-		* logical (adj)邏輯的, 合邏輯的/合理的, 當然的/必然的(行動或結果) = expected
+		+ logical (adj)邏輯的, 合邏輯的/合理的, 當然的/必然的(行動或結果) = expected
 		* logistic (adj) --> logistics (n)組織運作學, 後勤, 物流
 		* logistical (adj)組織運作的
 		- monolog, monologue (n)獨白 = soliloquy, 個人長篇演說
@@ -3862,7 +3880,8 @@
 		- long-winded (adj)冗長的
 
 	lyze, lysis, lyst 分開/分解 = loosen
-		* analyze (v)分析/化驗/剖析 = dissect --> analysis (n)
+		* analyze (v)分析/化驗 = dissect, 剖析(心理)
+		* analysis -> analyses (n)分析, 分解, 化驗, 剖析(心理)
 		- analyst (n)分析家
 		+ /ˈkat(ə)lɪst/ catalyst (n)催化劑/觸媒, 促成事情發展的因素 --> catalytic (adj)催化作用的
 
@@ -4149,7 +4168,7 @@
 		** /ˈmɪnɪt/ minute (n)一分鐘, 備忘錄/筆記/會議記錄 (v)將……記錄下來
 		+ /ˈmɪnəskjuːl/ minuscule (adj)微小的 = small = lilliputian = diminutive, 微不足道的, 小寫的 (n)小寫字
 		- minuscular (adj) == minuscule
-		+ /mɪˈnjuːʃɪiː/ minutia (n)細節/小事 = petty details
+		+ /mɪˈnjuːʃɪiː/ minutia, minutiae (n)細節/小事
 
 	min, minu 突出 = jug, rise, project
 		+ eminent (adj)著名的/出眾的 = prominent = distinguished, 卓越的
@@ -4372,7 +4391,7 @@
 		- /ˈmastədɒn/ mastodon (n)乳齒象
 
 	melli 蜂蜜 = honey
-		+ mellifluous, mellifluent (adj)聲音甜美的/圓潤流暢的 = dulcet = euphonious
+		+ mellifluous, mellifluent (adj)聲音甜美的/圓潤流暢的 = dulcet = euphonious --> mellifluousness (mn)
 		- melliferous (adj)產蜜的
 
 	ment 精神 = mind
@@ -4598,7 +4617,7 @@
 			+ observe --> observation
 			- observatory
 			- obtain --> obtainable
-			+ obstreperous (adj)難駕馭的/難管束的 <-- ob + streper 噪音 = noise + ous
+			+ obstreperous (adj)吵鬧的/難駕馭的 = noisy <-- ob + streper 噪音 = noise + ous
 			+ obtrude --> obtrusive
 			- obverse
 			+ obvious
@@ -4782,9 +4801,6 @@
 		- /ˈantənɪm/ antonym (n)反義字
 		- /ˈakrənɪm/ acronym (n)縮寫
 		- tautonym
-
-	orex 胃口/渴望 = longing
-		- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症
 		
 	oner 負擔 = burden
 		+ exonerate (v)證明無罪 = exculpate, 免除…的責任 = exempt <|> exorable
@@ -4924,7 +4940,7 @@
 	pro 向前/先前 = forward, forth, before
 		- pro (n)[非]職業選手, 妓女 = prostitute, 優點 (adj)專業的 (prep/adv)偏好
 		- proactive (adj)積極主動的
-		- /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
+		+ /prəˈbɒsɪs/ proboscis (n)長鼻, 昆蟲的吸器 <-- pro + bosci 餵食 = feed + is
 		- /ˈprɒbləm/ problem (n)問題 <-- pro + blem 丟 
 		+ problematic (adj)問題的/疑難的/不確定的 = doubtful (n)難點/疑點 <-- problem
 		- proceed --> proceeds --> proceedings
@@ -5210,6 +5226,7 @@
 			- parable (n)寓言/比喻
 			- parabola (n)拋物線 <|> trajectory <-- para + bola 丟 = throw
 			+ paradigm (n)範例/模板/模型, 示例, 互斥單詞 <-- para + digm 顯示 = show
+			+ paradigmatic (adj)範例的/典型的, 詞形變化的
 			- paralegal (n)律師助理
 			++ /ˈparəlɛl/ parallel (adj)平行的, 相同的/類似的 = comparable = analogous, 並聯的 (n)類似的人或事物, 相似處/比較, 緯線, 參考記號 (v)使成平行, 與...相似 = resemble <-- par + allel 另一個 = another
 			- parallelism (n)平行/類似, 對句法, 平行處理
@@ -5793,6 +5810,7 @@
 		- /priːˈrɛkwɪzɪt/ prerequisite (n)必要條件 (adj)必備的/事先需要的/必修的
 		- request (n/v)要求/請求 requisite
 		+ /ˈrɛkwɪzɪt/ requisite (adj)必要的/必需的 = indispensable = essential (n)必要之物 
+		+ requisition (n)徵用, 徵用令/調撥單 (v)徵用, 需要 = demand
 
 	queath, quest 説 = say == dic == fable == log == ore
 		+ /bɪˈkwiːð/ bequeath (v)遺贈, 傳下/留下 --> bequest (n)遺產 = legacy, 傳下/留下
@@ -6232,6 +6250,7 @@
 			+ /səˈpiːnə/ subpoena (n)傳票 (v)傳喚/傳訊 <-- sub + poena 懲罰 = penalty
 			- subrogate
 			+ surrogate
+			+ subscribe
 			- subsequent
 			+ subservient --> subservience
 			+ subside
@@ -6320,7 +6339,7 @@
 
 	soli, sol 孤單/整個 = alone, whole
 		** /ˈdɛs(ə)lət/ desolate (adj)貧脊的/荒涼的 = barren = devastated, 孤獨的 = solitary = lonely (v)使荒涼, 使痛苦
-		*** solicit (v)請求/懇求/乞求 = entreat, 拉客 = accost
+		*** solicit (v)請求/懇求/乞求 = entreat, 拉客 = accost <--> unsolicited
 		+ solicitude (n)關懷/牽掛 = care = concern
 		+ /səˈlɪsɪtəs/ solicitous (adj)關切的/熱切期望的
 		+ soliloquy
@@ -6348,10 +6367,6 @@
 		- insoluble (adj)不溶解的, 不能解決的
 		+ solvent (adj)有償付能力的, 有溶解力的 --> solvency (n)償債能力, 溶解力
 		+ insolvent (adj)無力償還的 (n)無力還償者 --> insolvency (n)無力償還 = bankruptcy 
-
-	sorb 吸收 = swallow, suck in
-		- absorb (v)吸收, 使用/佔據 = use = take up, [be absorbed in]吸引...的注意 --> absorbed (adj)被吸收的, 全神貫注的 = preoccupied = rapt = engrossed
-		- absorption (n)吸收, 全神貫注 = concentration
 
 	sept 細菌/腐爛的 = rotted
 		- antiseptic (adj)抗菌的/防腐的 <|> aseptic, 非常整潔的 (n)防腐劑, 抗菌劑/消毒劑
@@ -6461,6 +6476,7 @@
 		- script (n)手跡/筆跡, 劇本/腳本 (v)編寫
 		- scripture (n)權威性著作/經文/聖典
 		- scriptorium -> scriptoria (n)修道院的繕寫室/藏經樓
+		+ subscribe (v)訂閱/訂購, 認購, [to]同意 = agree with, 簽署 = sign
 		+ transcribe (v)抄寫/謄寫, 轉譯, 改編(樂曲)
 		- transcript (n)抄本/謄本, 學生成績報告單
 
@@ -6601,7 +6617,7 @@
 		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
 		- /sakrəˈfɪʃəl/ sacrificial  (adj)獻祭的
-		- sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
+		+ sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
 		+ sacrosanct (adj)極神聖的/不可侵犯的
 		* sanctify (v)使神聖化/使聖潔化 = consecrate = purify, 使可接受
 		* sanctuary (n)避難所/庇護所 = asylum = refuge, 禁獵區 = reserve, 聖殿/聖堂 = temple
@@ -7169,8 +7185,8 @@
 		+ contemporary (adj)現代的 = modern, 當代的/同時代的 (n)現代人, 當代人/同時代的人
 		- /ɪkˈstɛmp(ə)ri/ extempore (adj/adv)即興/無準備 = offhand = improvised
 		+ /ɪkˌstɛmpəˈreɪnɪəs/ extemporaneous (adj)即席的 = unrehearsed
-		- extemporize (v)即席演說/即興演奏 = improvise = vamp
-		- temporal (adj)時間的, 太陽穴的/顳的, 世間的/世俗的 = mundane = worldly = early = secular
+		+ extemporize (v)即席演說/即興演奏 = improvise = vamp
+		+ temporal (adj)時間的, 太陽穴的/顳的, 世間的/世俗的 = mundane = worldly = early = secular
 		- temporary (adj)臨時的/暫時的 = casual (n)臨時工
 		- temporize (v)拖延/應付
 
@@ -7180,7 +7196,8 @@
 		+ /dʌɪˈkɒtəmi/ dichotomy (n)分裂對立
 
 	the, thesis 放 = put == pos
-		+ antithesis (n)正相反的事物, 對比 = contrast (mn)對語/對句 --> antithetical (adj)正相反的 = mutually incompatible, 對語的/對句的
+		+ antithesis (n)正相反的事物, 對比 = contrast (mn)對語/對句
+		+ antithetical (adj)正相反的 = mutually incompatible, 對語的/對句的
 		+++ hypothesis --> hypothetical
 		+++ synthesis --> synthesize --> synthetic
 		*** /ˈθiːsɪs/, /ˈθɛsɪs/ thesis (n)論題/論點, 論文 = dissertation = essay
@@ -7364,7 +7381,7 @@
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
-		- theoretical /θɪəˈrɛtɪk(ə)l/ (adj)理論的, 假設的/推理的
+		- theologian (n)神學家
 		- /ˈθiːɪz(ə)m/ theism (n)有神論/一神論 <--> deism <--> pantheism <--> atheism
 		- atheism (n)無神論 --> atheist (n)無神論者
 		- deism (n)自然神論
@@ -7416,6 +7433,7 @@
 		+ unexampled (adj)無先例的/空前的 = unprecedented
 		+ unexceptional (adj)尋常的/平常的 = usual <|> unexpected
 		- unexceptionable (adj)無可指摘的/完美無缺的 == not open to objection
+		+ unexpurgated (adj)未被刪減 = uncensored
 		- unfailing (adj)沒有瑕疵的, 忠實可靠的
 		- unfasten (v)解開 = undo, 鬆脫
 		* unfathomable (adj)無法測量的, 深不可測的 = inscrutable = impenetrable
@@ -7491,6 +7509,7 @@
 		* unsentimental (adj)不感情用事的
 		- unsettle (v)使焦慮/使不安 = disturb --> unsettling (adj)令人不安的 = disturbing
 		+ unskillful (adj)笨拙的
+		+ unsolicited (adj)主動提出的/未經要求的
 		- unsound (adj)不結實的/不堅固的, 不健康的/有病的, 無根據的/不可信的, 不夠好的/不可接受的
 		+ unsparing (adj)不吝惜的/大方的 = generous = lavish, 不寬恕的/嚴厲的 = merciless= unmerciful = harsh
 		- unspoiled (adj)未被破壞的

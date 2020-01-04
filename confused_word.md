@@ -1,5 +1,6 @@
 ## A
 - abject <--> abjure
+- accession <--> access
 - accost
 - acme <--> acne <--> pimple
 - across <--> cross
@@ -8,6 +9,7 @@
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - angst <--> aghast <--> antsy
+- anaesthetic
 - antagonistic <--> protagonist
 - appeal <--> appellant <--> appellation
 - appurtenant
@@ -162,6 +164,7 @@
 
 ## E
 - eddy <--> ebb
+- effusive <--> elusive
 - egalitarian <--> equalitarian
 - embroil <--> boil
 - empire <--> empiric <--> empirical
@@ -233,6 +236,7 @@
 - glum <--> glam <--> glue <--> glee <--> slum
 - gob <--> fob <--> fop <--> fad
 - grab <--> drab <--> drag
+- gregarious <--> egregious
 - grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
 - grind <--> grin
@@ -301,6 +305,7 @@
 - intend <--> superintend
 - inter <--> intern
 - intransigent <--> transient
+- invest <--> investiture
 - inveterate <--> invertebrate <--> venerate
 - invidious <--> insidious
 - irritate <--> irrigate <--> irate
@@ -501,6 +506,7 @@
 - renaissance <--> reconnaissance
 - repatriate
 - replete <--> deplete
+- requisite <--> requisition
 - respite <--> respect
 - restive <--> restless 
 - retain <--> retrain
@@ -523,6 +529,7 @@
 ## S
 - sabotage <--> sabot <--> saboteur
 - sack <--> sock
+- sacrilegious
 - sage <--> saga
 - salutary <--> salute <--> salubrious
 - salvage <--> savage
@@ -535,6 +542,7 @@
 - scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
 - seam <--> seamy <--> sear <--> sere
+- seditious <--> sedulous
 - scion
 - scope <--> scoop
 - scour <--> scrounge
@@ -588,6 +596,7 @@
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
+- specious <--> suspicious
 - spit <--> split <--> splint <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout
 - squeamish
@@ -628,6 +637,7 @@
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
 - tend <--> tender <--> tendentious
 - tenebrous
+- tentative
 - thick <--> thicket
 - thread <--> tread <--> threat
 - through <--> trough
