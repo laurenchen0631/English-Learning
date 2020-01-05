@@ -8,11 +8,16 @@
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
-- angst <--> aghast <--> antsy
+- alternate <--> altercate
 - anaesthetic
+- angst <--> aghast <--> antsy
+- animus <--> unanimous <--> animate <--> inanimate
 - antagonistic <--> protagonist
+- apostate <--> apostle
+- apotheosize
 - appeal <--> appellant <--> appellation
 - appurtenant
+- aptitude <--> attitude <--> altitude
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
 - abrogate <--> arrogate <--> arrogant
@@ -169,12 +174,13 @@
 - embroil <--> boil
 - empire <--> empiric <--> empirical
 - enervate <--> innervate
+- epithet <--> epitome
 - escalate <--> escalade <--> escalator
 - esculent
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
-- exalt <--> exult
+- exalt <--> exult 
 - excoriate
 - execrable
 - exegesis <--> genesis
@@ -482,6 +488,7 @@
 
 ## Q
 - quail <--> quill
+- quarrel <--> barrel
 - quaver <--> quiver
 - queer <--> sheer <--> steer
 - quiescence <--> quintessence
@@ -637,15 +644,17 @@
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
 - tend <--> tender <--> tendentious
 - tenebrous
+- teensy <--> tinny
 - tentative
 - thick <--> thicket
 - thread <--> tread <--> threat
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch
-- torpid <--> tumid <--> turgid <--> trepid
+- torpid <--> tumid <--> turgid <--> trepid <--> torrid
+- totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
 - trapping <--> trap
-- trace <--> track <--> trek <--> trail <--> trailer
+- trace <--> track <--> trek <--> trail <--> trailer <--> tract <--> tractate
 - tract <--> tractate <--> tractable <--> traction <--> intractable
 - trait <--> traitor
 - treat <--> treatise <--> treaty
@@ -653,8 +662,7 @@
 - tribulation <--> tribunal <--> tribal
 - tromp <--> romp
 - troop <--> troupe <--> trope <--> grope 
-- trot <--> troth <--> trout
-- trove <--> rover
+- trove <--> rover <--> stove
 - truant
 - truce
 - trump <--> trumpet
@@ -666,7 +674,9 @@
 ## U
 - umpire <--> empire
 - unexceptional <--> unexceptionable <--> unexpected
+- unctuous
 - urbane <--> urban <--> suburban
+- usury <--> usurp
 
 ## V
 - vacillate <--> ventilate 

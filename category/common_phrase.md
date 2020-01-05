@@ -559,6 +559,8 @@
 - to and fro (adv) 往復地/來回地
 - turn sth on one's head 顛覆/顛倒 == to cause something to be the opposite of what it was before
 	- These new findings turn the accepted theories on their head.
+- turn the tide 扭轉局勢
+	- We were losing the game until Jack got there. His coming turned the tide for us, and we won. 
 
 ## Plan/Attitude
 - bucket list 人生清單 == a list of the things that a person would like to do or achieve before they die
@@ -567,6 +569,9 @@
 - doing nothing to (do sth) 無意
 	- Do nothing to offend her susceptibilities.
 	- Tom is full of good intentions, but can do nothing to help.
+- glass half full 樂觀性格
+	- He is a glass half full kind of person. He always sees challenges as opportunities.
+- glass half empty 悲觀性格
 - give sb the benefit of the doubt 把…往好處想
 	- I didn't know whether his story was true or not, but I decided to give him the benefit of the doubt.
 - have half a mind to (do sth) 可能會做/有意
@@ -680,6 +685,7 @@
 - on the go 忙碌的/生產中的
 	- I have been on the go all day, and I`m really tired.
 	- Did you know that she's got a new book on the go (= being written)
+- on the line 面臨危險/處於危險之中
 - at/on the heels of 緊跟在..之後
     - he headed off with Sammy at his heels
     - The new revelation comes on the heels of the previous scandal.

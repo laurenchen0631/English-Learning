@@ -96,6 +96,7 @@
 			+ asperse --> aspersion 
 			+ assail --> assault
 			+ assert --> assertive --> assertion
+			+ asseverate (v)鄭重聲明
 			+ assiduous
 			- assorted (adj)混雜的/各式各樣的 = mixed = miscellaneous <-- as + sort 種類 = kind
 			+ assuage
@@ -249,109 +250,112 @@
 
 	acu 銳利 = sharp
 		+++ acute (adj)敏銳的/精明的 = astute = shrewd = keen = subtle, 嚴重的 = severe = intense = fierce, 急性的, 銳角的 <--> obtuse, 尖音的
-		+ acumen (n)精明 = acuity = shrewdness <-- acute
-		+ acuity (n)(思想或感官)敏銳 = sharpness = acuteness <-- acute
-		- acupuncture (n)針灸
+		+ acumen (mn)精明 = acuity = shrewdness <-- acute
+		+ acuity (mn)(思想或感官)敏銳 = sharpness = acuteness <-- acute
+		- acupuncture (mn)針灸
 
 	apt 能力/適應 = apt == ept 
-		+ adapt (v)適應/改造/改編 = adjust
-		+ adaptable (adj)有適應能力的, 可改編的 --> adaptability (n)適應性/適應能力
-		+ aptitude (n)才能/資質 = capability = ability = faculty, 傾向/習性 = inclination = predilection = propensity <|> attitude
-		+++ apt (adj)易於...的 = liable, 恰當的/合適的 = apposite = appropriate = suitable, 聰明的
+		+ adapt (v)適應, 改造 = adjust, 改編 
+		+ adaptable (adj)有適應能力的, 可改編的 --> adaptability (mn)適應性/適應能力, 可改造性
+		+ aptitude (n)才能/資質 = capability = faculty, 傾向/習性 = inclination = predilection = propensity <|> attitude
+		+++ apt (adj)恰當的/合適的 = apposite = suitable, 易於...的/傾向於...的 = liable, 聰明的
 
 	add 增加
 		- addendum (n)補充/附錄 = appendix
-		- additive (n)添加劑
+		- additive (n)添加劑/添加物 (adj)附加的
 
 	aer 氣 = aero
 		- aerospace (n)航空航太工業
 		+ /ˈɛːri/ aerie, eyrie (n)高處的房子, 鷹巢
 		- aerate (v)注入氣體
-		* /ˈɛːrɪəl/ aerial (adj)空中的 (n)天線 <|> /ˈɛːrɪə/ area
-		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)[聲]厭氧的, 無氧的(運動)
+		* /ˈɛːrɪəl/ aerial (adj)空中的, 空運的, 大氣的 = atmospheric, [植]氣生的 <|> /ˈɛːrɪə/ area
+		- /ˌanɛːˈrəʊbɪk/ anaerobic (adj)[生]厭氧的, 無氧的(運動)
 		- aeroponics (n)無土種植法
 		-  /ɛːˈrəʊbɪks/ aerobics (n)有氧運動
 		- aerosol (n)氣膠(指固體或液體微粒穩定地懸浮於氣體介質中形成的分散體系，其中顆粒物質則被稱作懸浮粒子) --> aerosolize (v)氣膠化
 
 	agog 引導 = lead, guide
-		+ demagog, demagogue
-		- pedagogy --> pedagogue
+		+ demagogue --> demagoguery
+		- pedagogy --> pedagogue --> pedagogical
 
 	agon 掙扎/打鬥 = struggle
-		- agony (n)極大的痛苦 = anguish
-		- agonize (v)[over]為…傷腦筋/因…痛苦彷徨
-		+++ /anˈtaɡnʌɪz/ antagonize (v)引起…的敵意/使對立 --> antagonism (mn)對立/敵意 = opposition = enmity = hostility
-		+ antagonistic (adj)敵對的/反對的 = hostile = opposed
+		- agony (n)極大的痛苦 = anguish, 臨死的痛苦
+		- agonize (v)[over]為…傷腦筋/因…痛苦彷徨, 折磨
+		+ antagonize (v)引起…的敵意/使對立
+		+ antagonism (mn)對立/敵意 = opposition = enmity = hostility
 		- antagonist (n)對立者/敵手, [生]對抗藥, [解]對抗肌
-		- protagonist (n)主角, 提議者/支持者 = proponent
+		+ antagonistic (adj)敵對的/反對的 = hostile = opposed
+		- protagonist (n)主角, 支持者 = proponent = advocate = champion
 
 	agr, agro, agri, ara 土地/農業 = acre, feild, soil
-		- /əˈɡrɛːrɪən/ agrarian (adj)土地的, 農業的/農村的 = agricultural = bucolic = rural = pastoral
-		+++ agriculture (n)農業 --> agricultural (adj)
+		- /əˈɡrɛːrɪən/ agrarian (adj)土地的/農地的/農業的 (n)平均地權論者
+		+++ agriculture (mn)農業 --> agricultural (adj)農業的
 		- agronomy (n)農學
-		- arable (adj)可耕的/適合種植的 = farmable
+		- arable (adj)可耕的/適合種植的 = farmable (mn)耕地/耕種作物
 
 	ali, altru, alter, alien 其他 = other
-		- alias (n)別名, 化名 = pseudonym
-		- alibi (n)不在場證明, 藉口 = excuse
-		+ /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 <--> egoism --> altruistic (adj)利他主義的/無私的
-		+ alienate (v)使疏遠/背離 = estrange = disaffect
-		+++ /ˈɔːltə/ alter (v)改變, 閹割 = sterilize <|> /ˈʌtə/ utter <|> /ˈɔːltə/ altar
-		+++ alternative (adj)可供選擇的/可替代的 (n)可供選擇的事物
-		** alternate /ˈɔːltəneɪt/ (v)輪流/交替 /ɔːlˈtəːnət/ (adj)輪流的/交替的 (n)替代性選擇 = alternative, 候選人
-		- altercate (v)爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
+		- alias (adv)別名叫/化名為 (n)別名/化名 = pseudonym
+		- alibi -> alibis (n)不在場證明, 藉口 = excuse = pretext (v)[非]提供不在場證明
+		+ /ˈaltruːɪz(ə)m/ altruism (n)利他主義/無私 <--> egoism --> altruistic (adj)利他主義的/無私的 = unselfish
+		+ alienate (v)使疏遠/背離 = estrange, 使不友好/使對立 = antagonize, [法]轉讓/讓渡 = negotiate = grant
 		+ inalienable, unalienable
+		+ /ˈɔːltə/ alter (v)改變, 閹割 = castrate <|> /ˈʌtə/ utter <|> /ˈɔːltə/ altar
+		++ alternative (adj)供選擇的/替代的, 互斥的 = mutually exclusive, 非傳統的/非主流的 (n)選擇 = choice
+		** alternate (v)輪流/交替 (adj)間隔的, 輪流的/交替的, 替代的 = alternative (n)代理人/代替者
+		- altercate (v)[古]爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
 
 	alt, alti 高 = high
 		- altitude (n)高度/海拔, 高處 <|> aptitude
-		- altimeter (n)高度計
-		++ /ɪɡˈzɔːlt/ exalt (v)讚揚 = extol = acclaim = laud, 提升/晉升/提拔 = elevate = promote, 使喜悅/使得意 = delight = elate <|> exult
-		- exaltation (n)欣喜/得意, 提拔/晉升
+		- altimeter (n)測高儀/高度計
+		++ /ɪɡˈzɔːlt/ exalt (v)頌揚/讚揚 = extol = acclaim, 晉升/提拔 = elevate = promote, 使高貴 = dignify <|> exult
+		- exaltation (n)欣喜/得意, 提拔/晉升, 頌揚/讚揚
 
 	alg, algo 痛 = pain
-		+ /ˌan(ə)lˈdʒiːzɪə/ analgesia (n)無痛覺, 止痛藥 --> analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
-		+ /nɒˈstaldʒə/ nostalgia (n)懷舊/念舊, 思鄉病 <-- nost 家 = home + algia
-		- neuralgia (n)神經痛
+		+ analgesia (n)無痛覺, 止痛藥
+		+ analgesic (n)鎮痛劑 = anodyne (adj)止痛的 = anodyne
+		+ /nɒˈstaldʒə/ nostalgia (mn)懷舊之情, 令人懷舊之物 <-- nost 家 = home + algia
+		- neuralgia (mn)神經痛
 
 	anim 生命/精神 = soul, spirit, mind
-		- anima (n)生命/靈魂
-		- animate (adj)活的 = alive (v)賦予生命, 使有活力, 激勵/鼓舞 
+		- anima (n)男性陰柔的部分, 生命/靈魂
+		- animate (v)賦予生命, 使有活力/激勵/鼓舞, 繪製(動畫) (adj)活的 = alive 
 		- animus (n)敵意/憎恨 = enmity = animosity = wrath, 意圖/動機 = disposition = intention = motivation
-		+ animosity (n)憎恨 = animus = antagonism = antipathy = rancor = hatred = ill will <-- animus
-		+ equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium
-		- inanimate (adj)無生命的
+		+ animosity (n)敵意/憎惡 = animus = antagonism = rancor = hatred <-- animus
+		+ equanimity (n)(處於震驚、失望或困境時的)鎮靜/沈著/冷靜 = composure = tranquility = calmness = equilibrium = aplomb
+		- inanimate (adj)無生命的, 無生命跡象的 = lifeless
 		+ magnanimous (adj)寬宏大量的/大度的 = generous
 		+ magnanimity (n)寬宏大量/寬大 = generosity = nobility
-		+ /ˌpjuːsɪˈlanɪməs/ pusillanimous (adj)膽小的 = cowardly = timid = craven = pusillanimous = recreant <-- pusill 小的 = small, petty + anim + ous
+		+ /ˌpjuːsɪˈlanɪməs/ pusillanimous (adj)膽小的 = cowardly = timid = craven = recreant <-- pusill 小的 = small
 		* unanimous (adj)意見一致的/一致通過的
 
 	ann, enn 年 = year
-		- annals (n)編年史
-		- anniversary (n)週年紀念日
-		- annuity (n)年金
-		- millennial (adj)千年的, 千禧世代的/21世紀初期成年的 (n)千禧世代者
+		- annals (n)編年史, 歷史紀錄, 年報
+		- anniversary (n)週年紀念日, 結婚週年紀念日
+		- annuity (n)年金, 年金保險
+		- millennial (adj)千年的, 千禧世代的/21世紀初期成年的, 相信千年至福的 (n)千禧世代者
 
 	antho, anthe 花 = flower, blossom == flor
 		- /anˈθɒlədʒi/ anthology (n)文集/選集
-		- anthesis (n)開花期
+		- anthesis (mn)開花期
 		- /krɪˈsanθɪməm/ chrysanthemum (n)菊花
 
 	anthrop, anthropo 人 = human
 		- anthropogenic (adj)人為的
-		* /ˌanθrəˈpɒlədʒi/ anthropology (n)人類學 --> anthropologist (n)人類學家
+		* /ˌanθrəˈpɒlədʒi/ anthropology (mn)人類學 --> anthropologist (n)人類學家
 		- anthropomorphism (n)擬人 --> anthropomorphic (adj)擬人的
-		- anthropoid (n)類人猿
+		- anthropoid (n)似人類的, 類人的(猿猴) (n)類人猿 = ape = apeman
 		+ philanthropic (adj)慈善的/樂善好施的 --> philanthropist (n)慈善家
-		+ philanthropy (mn)慈善 (n)慈善組織
+		+ philanthropy (mn)慈善 (n)慈善組織 = charity
 		+ misanthrope, misanthropist (n)厭世者/不願與人來往者 --> misanthropy (n)人類厭惡
 		+ misanthropic (adj)不願與人來往的 = unsociable
 
 	apo 離開/遠 = away, off, apart
 		+ apostasy --> apostate
-		+ /əˈpɒs(ə)l/ apostle (n)宣導者/鼓吹者/先驅, 使徒/門徒 <-- send forth
-		- /əˈpɒkəlɪps/ apocalypse (n)天啓/大災變/世界末日 --> apocalyptic (adj)啟示的/預言世界末日的 <-- apo + calyps 蓋上 = cover
-		- apocrypha
-		+ apogee
+		+ /əˈpɒs(ə)l/ apostle (n)使徒/門徒, 宣導者/鼓吹者/先驅 <-- send forth
+		- /əˈpɒkəlɪps/ apocalypse (n)啟示/天啟, 大災變
+		- apocalyptic (adj)啟示的, 災難性的/重大的 = catastrophic = momentous, 啟示錄的 <-- apo + calyps 蓋上 = cover
+		+ apocrypha --> apocryphal
+		++ apogee
 		- aposematic (adj)警戒色的/起警告作用的 <-- apo + sema = sign
 		+ apotheosis, apotheoses
 
@@ -721,6 +725,7 @@
 			+ consistent
 			- conspecific (adj)同種的 (n)同種生物
 			+ conspire --> conspiracy
+			- consol (n)(英國)統一國債
 			* console --> consolation
 			+ consolidate --> consolidation
 			- consort (n)配偶, 隨航船隻, 演奏古典音樂團 (v)[with]陪伴/結交
@@ -1300,6 +1305,7 @@
 
 	circ, circu, circum 繞圈/圓/環/周圍 = circle, go round
 		+ /səːˈkjuːɪtəs/ circuitous (adj)迂迴的/繞圈子的 = tortuous = devious = rambling
+		- circuitry (n)電路系統
 		- circulate (v)循環/流通/傳遞, (在聚會上)周旋, 發行 = distribute
 		- circus (n)馬戲團
 		- circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
@@ -1749,6 +1755,7 @@
 		- duplex
 	
 	di 天 = daily
+		+ circadian (adj)生理節奏的
 		+ /dʌɪˈəːnəl/ diurnal (adj)白天的, 每天的 = daily
 		- dial (n)錶盤, 旋鈕 (v)收聽/收視, 撥號
 		- diary (adj)日記
@@ -1921,8 +1928,8 @@
 	dem, demo 人民 = people
 		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
 		- democratization (n)民主化, 大眾化/普及化
-		+ demagog, demagogue (n)蠱惑民心的政客, 群眾煽動者
-		- demagoguery (n)群眾煽動/煽動行為
+		+ demagogue (n)蠱惑民心的政客 (v)煽動
+		- demagoguery (n)群眾煽動
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
 		+ demotic (adj)通俗的/大眾化的 = vulgar = plebeian
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
@@ -2270,7 +2277,7 @@
 		2. 附帶 = in addition to
 			- epiphenomenon (n)附帶現象
 			- episode (n)事件/一連串事件/一段經歷, 一集/一節 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
-			* epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)作為...的縮影/代表/象徵 <-- epi + tome 卷/冊 
+			+ epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)作為...的縮影/代表/象徵 <-- epi + tome 卷/冊 
 			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = short-lived = transitory, 僅一天的 --> ephemeron (n)短暫之事物 <-- ep + hemer 日 = day + al
 			+ epigram
 			- epilogue
@@ -2732,7 +2739,7 @@
 	fuse 傾倒 = pour, melt
 		** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 混合 = confound = jumble = disorder = muddle = mingle = intermingle, 使不安/使羞愧 = abash = disconcert = discomfit 
 		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
-		+ effusive (adj)奔放的/過於流露感情的 = ebullient, 流出的 = overflowing
+		+ effusive (adj)奔放的/過於流露感情的 = ebullient, [地]噴發的
 		- infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
 		++ /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n) = proliferation
 		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (n)廢物/垃圾 = rubbish = bin
@@ -2778,7 +2785,7 @@
 	greg 聚集 = flock
 		+ aggregate (n)聚集體, 集料/粒料(建築用的小石料) (adj)合計的/總的 = gross, 複合的 (v)使聚集 = agglomerate = assemble 
 		+ /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, 群居的(動物) --> gregariousness (n)和群, 群居
-		- egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
+		+ egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
 		- congregate (v)聚集/集合
 		- congregation (n)(宗教)會衆/信眾, 集合/會集, 宗教團體
 		+ segregate (v)分離/分開 = detach = disentangle, (尤指基於種族或性別原因)隔離
@@ -2850,7 +2857,7 @@
 		- /ˈɡreɪdɪənt/ gradient (n)斜坡, 坡度, 梯度
 
 	gee, geo 地球 = earth
-		+ apogee (n)高峰/頂點 = zenith, 遠地點 <--> perigee
+		++ apogee (n)高峰/頂點 = zenith, 遠地點 <--> perigee
 		+ perigee (n)近地點
 		- geology (n)地質學
 		- geography (mn)地理學, 地形/地勢 = landform (n)地區
@@ -3588,6 +3595,7 @@
 	{itis} 炎症
 		- arthritis
 		- dermatitis
+		- encephalitis (n)腦炎
 
 [J]
 	ject 扔/拋 = throw
@@ -4067,7 +4075,7 @@
 		- transmit (v)傳送/傳達/傳播/傳染, 傳(光、熱、聲等)/傳動, 發射/播送
 
 	mal, male 壞/不 = evil == de == dis == in == un == mis
-		- maladaptive (adj)適應不良的
+		+ maladaptive (adj)適應不良的
 		+ maladroit (adj)笨拙的 = clumsy = awkward = inept <-- mal + adroit
 		++ /ˈmalədi/ malady (n)疾病 = disease = ailment, 問題/弊病 <|> /ˈmɛlədi/ melody
 		- /maˈleɪz/ malaise (n)不適/不舒服 <-- mal + aise 舒服 = ease
@@ -4386,7 +4394,7 @@
 		- /ˈmarɪtʌɪm/ maritime (adj)海的 = nautical, 住海邊的/在海上發現的, 沿海的
 
 	mast 乳房
-		- masticate (v)咀嚼 = chew
+		+ masticate (v)咀嚼 = chew --> mastication (n)咀嚼
 		- /maˈstʌɪtɪs/ mastitis (n)乳腺炎
 		- /ˈmastədɒn/ mastodon (n)乳齒象
 
@@ -4493,6 +4501,7 @@
 		- notoriety (mn)惡名昭彰/聲名狼藉
 		+++ connote (v)暗示/意味著 --> connotation (n)言外之意/隱含意義 = undertone --> /ˈkɒnəteɪtɪv/ connotative (adj)有內涵的
 		+ denote (v)表示/代表 = indicate = mean
+		+ denotation (n)意義/本義 = meaning, 表示
 	    + notion (n)概念/想法 = idea = concept, 衝動, [notions]小日用品
 		- notice (v)注意, 認真對待 (n)注意, 警告/預先通知, 合約終止通知/辭職通知, 公告/通知, 短評
 		- notable (adj)值得注意的 = remarkable = noteworthy (n)要人/名人
@@ -4857,7 +4866,8 @@
 		- /ˌpandɪˈməʊnɪəm/ pandemonium (n)喧囂/大混亂 = uproar = tumult <-- pan + demon + ium
 		+ /ˌpanɪˈdʒɪrɪk/ panegyric (n)頌詞/頌揚 = encomium = eulogy = paean <-- pan + egryic 集中 = gathering
 		+ /ˈpanəpli/ panoply (n)壯麗的陳列 = impressive collection, 全套盔甲
-		- /panəˈrɑːmə/ panorama (n)全景, 全景畫, 全貌 <-- pan + orama 看 = look
+		+ /panəˈrɑːmə/ panorama (n)全景, 全景畫, 全貌 <-- pan + orama 看 = look
+		+ panoramic (adj)全景的 = sweeping, 廣泛的 = wide-ranging
 		- pantheon (n)一群(偉人), 偉人祠, 眾神之廟, 諸神殿
 		- pantomime (n)啞劇, 滑稽誇張的行為 (v)用誇張的啞劇表達 <-- panto + mime
 
@@ -5533,7 +5543,7 @@
 		- /stamˈpiːd/ stampede (n/v)逃竄/蜂擁
 
 	ped, pedo 兒童 = child
-		- /ˈpɛdəɡɒdʒi/ pedagogy (n)教育學 --> pedagogue (n)教師 = teacher
+		- /ˈpɛdəɡɒdʒi/ pedagogy (mn)教育學 --> pedagogue (n)教師 = teacher
 		- /ˌpɛdəˈɡɒdʒɪk(ə)l/ pedagogical (adj)教育的
 		+ /ˈpɛd(ə)nt/ pedant (n)書呆子/學究 --> pedantic (adj)學究式的/過分注意小細節的 = overscrupulous
 		- pediatric (adj)小兒科的 --> pediatrics (n)小兒科 <-- ped + iatric 治療 = heal + s
@@ -5780,6 +5790,7 @@
 		* quadruple (adj)四倍的/四重的, 四部組成的 (v)成為四倍 (n)四倍數
 	    - quartet (n)四重奏/四重唱, 四人一組/四件一套
 		** quarter (n)四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 (mn)(對敗者的)寬恕/饒命 (v)把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = traverse
+		- quarterback (n)四分衛
 
 	quiesce, quiet, qui 安靜
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
@@ -5832,6 +5843,7 @@
 			+ /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/反抗的 --> recalcitrance (n)反抗 <-- re + calcitr 踢 = kick + ant
 			+ recapitulate --> recapitulation
 			- recast (v)重鑄, 更換演員 <-- re + cast
+			+ recidivism (n)再犯/累犯
 			* recite --> recitation 
 			- recital
 			+ recluse
@@ -6254,13 +6266,13 @@
 			- subsequent
 			+ subservient --> subservience
 			+ subside
-			- subsidiary
+			+ subsidiary
 			- subsidy
 			- subsist --> subsistence
 			- substandard (adj)不夠標準的, 非標準的/不規則的 = non-standard
 			- substance
 			+ substantial
-			+ substantiate
+			+ substantiate --> substantiation
 			+ substantive
 			+ substitute
 			- substratum -> substrata (n)下層/下層土壤, 基礎
@@ -6374,7 +6386,7 @@
 		+ aseptic (adj)無菌的
 
 	st, sist, sta, stas, stat, stan, stant, stit 站 = stand
-		+ apostasy (n)被教/脫黨/變節 = defect --> apostate (n)變節者/叛教者 (adj)變節的 <|> apostle 
+		+ apostasy (mn)被教/脫黨/變節 = defect --> apostate (n)變節者/叛教者 (adj)變節的 <|> apostle 
 		+ consistent (adj)一貫的/始終如一的, 與..一致的/吻合的 = compatible = in agreement with
 		+ constant (adj)穩定的/不變的 <--> mercurial, 忠誠的, 經常發生的/連續發生的 (n)不變的事物, [數]常數/常量/恆量
 	    * constancy (n)堅定/堅貞/忠誠, 恆久不變 <-- constant
@@ -6438,7 +6450,7 @@
 		- subsist (v)維持生計/勉強生存, [in]歸因於 --> subsistence (n)生存/生計 = sustenance, 生存手段
 		- substance (n)物質, 實體, 實質/本質, 重要, 依據 = basis, 可靠/沈著, 財產/財物
 		+++ substantial (adj)可觀的/相當的 = appreciable = considerable, 堅固的/結實的, 大量的/豐盛的, 富裕的, 真實的/實在的 = real = tangible, 基本的 = basic = essential = fundamental
-		+ /səbˈstanʃɪeɪt/ substantiate (v)證實/確證 = corroborate = affirm = demonstrate = justify = prove = bear out <--> unsubstantiated
+		+ /səbˈstanʃɪeɪt/ substantiate (v)證實/確證 = corroborate = affirm = demonstrate = justify = prove = bear out <--> unsubstantiated --> substantiation (n)
 		+ substantive (adj)重大的, 獨立存在的 (n)名詞 <|> substantial
 		* substitute (v)用…代替/取代 = supersede = supplant (n)替代品 = alternative
 		- superstition (n)迷信
@@ -7134,7 +7146,7 @@
 		- intention (n)意圖/意向/目的 = aim = plan, 癒合, 意思/含義
 		- intentional (adj)存心的/故意的 = deliberate <-- intend
 		* ostentation (n)炫耀/虛飾/賣弄
-		* ostentatious (adj)炫耀的/賣弄的 = pretentious = pompous = showy = flashy
+		+ ostentatious (adj)炫耀的/賣弄的 = pretentious = pompous = showy = flashy
 		+ ostensible (adj)貌似真實的 = believable = plausible = persuasive
 		+ ostensibly (adv)明顯地
 		+ ostensive (adj)明示的/以實例證示的
@@ -7424,6 +7436,7 @@
 		+++ undue (adj)不適當的/過度的/過分的 = overly = excessive = disproportionate --> unduly (adv)過度 
 		* unearth (v)掘出/使出土, 發現 = discover, 把(狐狸)趕出洞穴 <|> unearthly
 		- unearthly (adj)奇異的 = unnatural = mysteriou <-- un + earthly
+		+ unerring (adj)正確的/精確的
 		* uneasiness (n)焦慮/不安 = anxiety = discomfort = compunction
 		+ unencumbered (adj)不受妨礙的, 沒有債務負擔的
 		- unenlightened (adj)未受啟迪的
@@ -7515,6 +7528,7 @@
 		- unspoiled (adj)未被破壞的
 		+ unspoken (adj)沈默的 = tacit = silent
 		- unspotted (adj)沒有髒污的 = flawless, 未被注意的 = unnoticed
+		- unstick (v)分開, 離地/飛起 (mn)離地
 		+ unstinting (adj)不吝惜的/大方的 = unsparing = generous <-- un + stinting
 		- unsubstantiated (adj)未經證實的/無事實根據的 = unfounded = tenuous
 		- unsurpassed (adj)未被超越的 = all-time
