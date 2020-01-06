@@ -709,6 +709,7 @@
     - cap (n)無邊便帽, 蓋/罩, 方頂帽/學位帽 = mortar board, 蓋子, 經費的最高限度, 菌蓋/菌傘, 火藥帽 (v)蓋上, 覆蓋…的頂部, 提供合適的結局, 對(收費或花費)定限額
     - capillary (n)毛細管, 毛細血管 (adj)毛細管的 <-- capill 毛髮 = hair
     - capitalize (v)[on]利用…獲益/從…中獲利, 給..提供資本 = finance, 兌現 = realize, 估(價), 用大寫書寫
+    - caramelize (v)使成焦糖
     - carat (n)開(金子的純度單位) = karat, 克拉
     - caret (n)脫字符號
     - carcinoma (n)癌/上皮細胞所產生的惡性腫瘤 
@@ -1975,6 +1976,7 @@
     * icon (n)聖像/偶像 --> iconic (adj)代表性的
     * /ˈɪdɪəm/ idiom (n)慣用語/成語, 方言 = dialect, (音樂或美術)風格 = mode = style <|> idiot
     * idiomatic (adj)慣用語句的/自然地道的, 符合當代風格的
+    * inasmuch (conj)[as]因為
     ** inch (V)慢慢移動 (n)吋, 少許/一點兒 = fig = grain, [非]身高
     * iterate (v)再次說/反覆做 = utter again or repeatedly <-- iter 再次 = again + ate
 
@@ -2492,6 +2494,7 @@
     - menthol (n)薄荷腦/薄荷醇
     - mesa (n)高地/平底山
     - messy (adj)髒的 = untidy = dirty, 麻煩的, 混亂的 = confused --> messiness (n)
+    - metallic (adj)金屬的, 金屬似的(聲音), 有磁性的(聲音), 有金屬光澤的 = iridescent
     - mete (v)給予/分配(懲罰), 測量 = measure, 界石 (n)邊界 <|> fete
     - meter (n)公尺, 計量器, 格律, 韻律 (v)量
     - methane (n)甲烷/沼氣
@@ -2940,6 +2943,7 @@
     - papyrus (n)莎草/莎草紙
     - /ˈpɑːs(ə)l/ parcel (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
     - parch (v)烘烤 = toast = roast <|> perch <|> porch
+    - praline (n)胡桃糖/杏仁糖, 杏仁巧克力
     - parietal (adj)(身體)外壁的/腔壁的, (腦)頂葉的, (大學宿舍)異性訪客的 (n)外壁/腔壁, 異性訪客規定
     - parishioner (n)教區居民
     - parka (n)抵禦風雪的毛皮大衣
@@ -3279,6 +3283,7 @@
     - rickety (adj)搖搖欲墜的/要散架的 = ramshackle, 軟骨病的
     - rider (n)附文/附件, 騎手
     - ridge (n)脊/隆起部, 田壟, [氣]高壓脊 (v)使成脊狀
+    - riff (n)爵士音樂的即興重複段 (v)即興重複
     - rifle (n)步槍, 步槍隊 (v)在……內做來福線, 迅速翻查/匆忙翻找, 搶劫 = steal <|> rife
     - rig (v)給(船隻)裝配帆及索具, 給(飛機)裝配構件, 草草作成/臨時趕造, 打扮, 操縱/對…做手腳 (n)帆裝/船具, 裝置/設備, 鑽井架, 服裝/裝束, 大型貨車
     - rigging (n)索具
@@ -3904,6 +3909,7 @@
     - spackle (n)[商標]填泥料 (v)用填泥料修補
     - spade (n/v)鏟/鍬 (n)黑桃, [貶]黑人
     - span (n)長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 (v)(橋)橫跨, (時間)持續/跨越 (adj)[spick and span]整潔的/乾淨的
+    - spangle (n)閃爍發光之物, 光點 (v)用閃光飾物裝飾
     - spank (v)打/拍打(屁股)
     - spar (n)圓杆, 主杆, 拳擊賽/一局, 親密的朋友, 晶石 (v)輕拳出擊, 爭論, (鬥雞)用爪踢鬥
     - sparring (n)拳擊, 爭鬥
@@ -4115,12 +4121,12 @@
     ** try (v)嘗試, 嘗試通訊, 磨練/折磨, 審判, 審理, 磨, 提取
     + trial (n)審判, 使用/試驗, 考驗 (v)試驗 <-- try
     ++ trifle (n)小事/瑣事, 少量/少許 (v)小看/輕視 = belittle = flout, [away]浪費時間/虛度
-    ++ trifling (adj)不重要的/瑣碎的 = futile = nugatory = frivolous = minute = trivial
+    ++ trifling (adj)不重要的/瑣碎的 = nugatory = frivolous = minute = trivial = petty = paltry = slight
     + trigger (n)板機, (事件的)導火線 (v)引發/導致
     + /ˈtrʌɪʌmf/ triumph (n/v)凱旋/勝利/成功 = victory = conquest, 歡欣 = exultation = jubilation
     + triumphant (adj)勝利的 = victorious, 歡欣的 = exultant = jubilant
     + tribulation (n)苦難的緣由/煩惱事 (mn)苦難/磨難 = suffering
-    + /ˈtrɪvɪəl/ trivial (adj)瑣碎的/不重要的 = nugatory = petty = frivolous = paltry = slight, 過度在意小細節的 = petty
+    + /ˈtrɪvɪəl/ trivial (adj)瑣碎的/不重要的 = trifling, 過度在意小細節的 = petty
     + trivialize (v)使顯得不重要/輕視
     + truant (n)逃學者/曠課者 (adj)逃學的, 閒晃的 = wandering (v)逃學 --> truancy (mn)逃學/曠課 = absenteeism
     + truculent (adj)好鬥的 = belligerent = defiant --> truculence (n) = aggressiveness <-- truc 兇猛 = savage + ulent
@@ -4164,11 +4170,11 @@
     * tremble (v)顫抖/發抖 = shake = quiver, 焦慮/擔憂 (n)顫抖/發抖, 牛馬震顫病 = milk sickness
     - tremor (n)震顫/顫抖, 地震 = earth tremor
     *** tremendous (adj)巨大的/極大的, [非]傑出的/一流的 = excellent<-- trem
-    * trench (n)溝, 壕溝, 海溝, 風衣 = trench coat (v)挖溝 <|> trenchant <|> entrench <|> retrench
+    ** trench (n)溝, 壕溝, 海溝, 風衣 = trench coat (v)挖溝 <|> trenchant <|> entrench <|> retrench
     * tuber (n)塊莖, [解]結節
     * tuck (v)塞進/藏入, 舒服地裹好, 打褶 (n)褶, 減脂手術
-    * turf (n)草皮, 泥炭/泥煤, 賽馬場, 地盤 (v)用草皮覆蓋 <|> sod
-    * turnout (n)出席者/聚集人數, 側線/岔線, 衣著/裝束
+    ** turf (n)草皮, 泥炭/泥煤, 賽馬場, 地盤 (v)用草皮覆蓋 <|> sod
+    ** turnout (n)出席者/聚集人數, 側線/岔線, 衣著/裝束
     * tug (v)用力拉或拖, 用拖船拖 (n)牽引/拖曳, 拖船 = tugboat, 韁繩
     *** tumble (v)跌落, 衝出, 暴跌, 弄亂 = rumple, 翻筋斗, [非][to]理解...的含義, 打磨 (n)跌落, 暴跌, 凌亂, 筋斗
     * /ˈtəːmɔɪl/ turmoil (mn)騷動/混亂 = tumult = agitation = disquiet = maelstrom = moil = welter <-- tur(n) + moil
@@ -4244,7 +4250,7 @@
     - tickler (n)使人癢的東西, 備忘錄 = memorandum <-- tickle
     - ticklish (adj)怕癢的, 需小心處理的/棘手的, 易怒的 = irascible <-- tickle
     - ticktock (n)滴答聲, 一段/一節 (v)發出滴答聲
-    - tidy (adj)整齊的/整潔的, [非]相當的(量) = considerable, 支持的 (n)裝零星東西的容器/垃圾桶, 罩布/套子 (v)整理, [away]清掉
+    - tidy (adj)整齊的/整潔的 = neat, [非]相當的(量), 支持的 (n)裝零星東西的容器/垃圾桶, 罩布/套子 (v)整理, [away]清掉
     - tiebreaker (n)決勝局
     - tiff (n)拌嘴
     - tightfisted (adj)吝嗇的 = stingy = miserly <-- tight + fist + ed
@@ -4257,6 +4263,7 @@
     - timepiece (n)錶，鐘等各種計時器
     - tinder (n)火絨/火種
     - tine (n)叉/尖齒 --> tined (adj)尖端的
+    - ting (n)叮叮聲, (v)發丁零聲
     - tinker (n)補鍋工人, 修補 (v)拙劣地修補
     - tinkle (v)發叮噹聲 (n)叮噹聲
     - tinny, tinnie (adj)聲音尖細的, 破爛金屬的, 有錫或鐵皮味的 (n)鋁製船身的小船, 錫箔包裹的大麻煙 <-- tin
@@ -4284,7 +4291,7 @@
     - tortoise (n)陸龜
     - toss (n/v)投/擲, 擲硬幣決定 (v)(使)上下或左右搖動, 搜索 = search, 向後甩(頭髮), 搖勻/攪拌(食物)
     - toss-up (n)擲錢幣, 機會均等/同樣可能
-    - tot (n)小孩子 (v)[up]積累/蒐集 = accumulate
+    - tot (n)小孩子 (v)[up]積累/蒐集 = accumulate <|> toddler
     - totalitarian (adj)極權主義的 (n)極權主義者
     - totem (n)圖騰/徽章, 象徵
     - touchy (adj)敏感的 = oversensitive, 棘手的/需要小心處理的 = delicate
@@ -4318,7 +4325,7 @@
     - tribunal (n)法庭/裁判所 = forum, 法官席
     - trickle (v)(使)細流, 慢慢來到 (n)細流, 一小群(慢慢移動的人)
     - trim (v)修剪, 縮減, [down]減肥, 裝點/布置, 調整(船帆), (調整負載)使(船或飛機)平穩, 改變/修改(政策以符合潮流), [非]敲詐, [非]斥責 = rebuke (n)裝飾, 修剪/修整, 整齊/整潔, 平衡 (adj)整齊的 = neat, 苗條的 = fit = slim
-    - trinket (n)小裝飾品, 不值錢的珠寶
+    - trinket (n)小裝飾品, 不值錢的珠寶 <|> thicket
     - trippy (adj)[非]引起幻覺的
     - troll (n)侏儒/巨人, 故意留下激怒他人言論的人, 網路怪論 (v)在網路上留下侮辱性的訊息, 搜索, 漫步 = troll, 隨意地唱
     - trolley (n)觸輪, 路面電車 = trolleybus = trolley card
@@ -4361,7 +4368,7 @@
     - tycoon (n)巨頭/大亨, (日本戰國)將軍
     - typify (v)為……的典型, 代表/象徵 = represent = symbolize
     - typo (n)[非]打字排印錯誤
-    - tyre, tire (n)輪胎, 輪箍
+    - tyre (n)輪胎, 輪箍
 
 [U]
     + ubiquity (n)無所不在 = omnipresence  <-- ubiqu 到處 = everywhere + ity
@@ -4371,7 +4378,7 @@
     + /ˈjuːʒ(ə)ri/ usury (n)高利貸 <-- use + ury
     + utilize (v)利用 = exploit
     + utopia (n)理想國/烏托邦 --> utopian (adj)烏托邦式的/理想的 = idealistic (n)空想家
-    +++ /ˈʌtə/ utter (adj)完全的 = complete, 發出(聲音), 說 = say, 使(偽幣)流通 --> utterly (adv)完全地 = absolutely
+    +++ /ˈʌtə/ utter (adj)完全的 = complete (v) 發出(聲音), 說 = say, 使(偽幣)流通 --> utterly (adv)完全地 = absolutely
     + utterance (n)言詞/言論, 發聲/表達
 
     * /ˈʌmpʌɪə/ umpire (n)裁判 = judge, 仲裁人/裁決者 = arbiter (v)裁判/仲裁 = adjudicate = arbitrate <|> empire
@@ -4402,11 +4409,11 @@
     +++ /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
     + veil (n)面紗, 修女頭巾, 帷幕/遮蔽物 (v)蒙上面紗, 掩飾/遮掩 = mask = disguise = obscure
     + veiled (adj)蒙面紗的/戴面罩的, 不明言的/含蓄的/掩飾的
-    + /ˈviːn(ə)l/ venal (adj)唯利是圖的/能收買的 = mercenary = corruptible <|> penal --> venality (mn) <-- vend
     * vend (v)出售/販賣 = sell --> vendor (n)小販 = seller, [法]賣主
+    + /ˈviːn(ə)l/ venal (adj)唯利是圖的/能收買的 = mercenary = corruptible <|> penal --> venality (mn) <-- vend
     + /ˈviːnɪəl/ venial (adj)輕微的/可原諒的 = forgivable = pardonable <|> venal
     + /ˈvəːn(ə)l/ vernal (adj)春天的/似春天的 <|> venal <-- vern 春天 = spring + al 
-    + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾, 牙罩冠 = veneer crown (v)給...鑲上膠合板, 虛飾
+    + /vɪˈnɪə/ veneer (n)膠合板, 虛飾/外飾, 牙罩冠 = veneer crown (v)給...鑲上膠合板, 虛飾 = varnish
     + vendetta (n)世仇/宿怨 = feud
     + venerate (v)崇敬/敬仰 = hallow = adore = honor = respect = worship = revere
     + venerable (adj)德高望重的/令人敬佩的 = august
@@ -4414,7 +4421,7 @@
     + vestigial (adj)殘留的/殘餘的, 退化的 = degraded
     ++ vex (v)使惱火/使煩惱 = annoy = irk = harrow = fret = distress
     + vexation (n)煩惱/苦惱/惱火 = irritation = annoyance, 令人焦慮或惱火的事
-    ++ vicar (n)教區牧師, 主教代理 --> /vɪˈkɛːrɪəs/ vicarious (adj)感同身受的, 替代的/代理的
+    ++ vicar (n)教區牧師, 主教代理 --> /vɪˈkɛːrɪəs/ vicarious (adj)感同身受的, 替代的/代理的 <|> parochial
     + /vɪˈsɪsɪtjuːd/ vicissitude (n)變換, 盛衰/興敗 --> vicissitudinous (adj) <-- vicussi 改變 + tude
     + vigil (n)守夜, 示威, 宗教節日前夕 --> vigilant (adj)警戒的/警惕的 = mindful
     + /vʌɪ/ vie -> vying (v)競爭 = contend = compete
@@ -4425,7 +4432,7 @@
     ++ vindicate (v)證明…無辜/平反 = exculpate, 證實 = justify = substantiate = corroborate <-- vindict 報復 = vengeance
     ++ vindication (n)證明無辜/平反, 證據/證明 = proof
     + vindictive (adj)有復仇心的/報復的 = vengeful = unforgiving
-    + virago (n)潑婦/悍婦
+    + virago (n)潑婦/悍婦 = harridan
     + /ˈvɪskəs/ viscous, viscid (adj)黏性的 = syrupy = adhesive = sticky --> viscosity (n)黏質/黏性
     + vogue (n)流行/風行 = fashion = fad, 人氣 = popularity (adj)流行的
     + vulnerable (adj)易受傷的 <-- vulner 傷口 = wound + able
@@ -4452,7 +4459,7 @@
     - vandalize (v)蓄意破壞(他人財產) -->  vandalism (mn)惡意破壞
     - vanilla (n)香草/香子蘭, 香草口味 (adj)[非]平凡的/普通的
     - vantage (n)優勢/有利地位 <-- advantage
-    - varnish (n)清漆/亮光漆, 虛飾/外表 (v)塗上漆, [over]粉飾/掩飾
+    - varnish (n)清漆/亮光漆, 虛飾/外表 = veneer (v)塗上漆, [over]粉飾/掩飾
     - vascular (adj)血管的/脈管的, 維管束的 <-- vascul 血管 = vessel + ar
     - vase (n)花瓶
     - vassal (n)封臣 = liege, 從屬者/下屬/附庸國 

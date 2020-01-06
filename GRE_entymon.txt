@@ -361,22 +361,21 @@
 
 	appar 出現 = appear
 		- /əˈpar(ə)l/ apparel (n)(精緻的)衣服 = garment
-		** apparent (adj)可見的 = visible, 明顯的 = obvious = patent, 實質上的 
-		* appearance (n)出現, 外貌 
-		- apparition (n)幽靈, 神奇的現象
+		** apparent (adj)可見的/明顯的 = visible = obvious = patent, 貌似真實的 = plausible
+		* appearance (n)外貌, 印象 = impression, 露面, 出現/來到
+		- apparition (n)幽靈, (特異景象等的)出現
 
 	aqua, aqu 水
-		- /əˈkwɒtɪk/ aquatic (adj)水生的/水中的 = marine
-		- aqueous (adj)水的
-		- aquarium (n)水族館, 水族箱 = fishbowl
+		- /əˈkwɒtɪk/ aquatic (adj)水的, 水生的/水中的 = marine (n)水生動植物, 水上運動
+		- aqueous (adj)含水的, 似水的 = watery
+		- aquarium (n)水族箱 = fishbowl, 水族館
 		- aquifer (n)含水土層 = water level
-		- aqueduct (n)引水渠 = canal
+		- aqueduct (n)引水渠 = canal, [解]導管
 
 	arbit 判斷 = judge
-		+ arbiter (n)仲裁人/權威人士 = arbitrator = moderator
-		+ /ˈɑːbɪt(rə)ri/ arbitrary (adj)任意的/隨機的, 專橫的 = dictatorial
-		- arbitrate (v)仲裁/公斷 = adjudicate = umpire --> arbitration (n)仲裁
-
+		+ arbiter (n)仲裁人 = arbitrator = moderator, 權威人士
+		+ /ˈɑːbɪt(rə)ri/ arbitrary (adj)任意的/隨心所欲的, 獨斷的/專制的 = dictatorial, [數]不定的
+		- arbitrate (v)仲裁/公斷 = adjudicate = umpire --> arbitration (mn)仲裁
 
 	arbor 樹 = tree
 		- /ɑːˈbɔːrɪəl/ arboreal (adj)樹木的
@@ -385,107 +384,108 @@
 
 	archae, arche 原本的 = original
 		- archaea (n)古菌/古細菌(單細胞微生物，構成生物分類的一個域)
-		+ /ɑːˈkeɪɪk/ archaic (adj)古老的/古代的/原始的/過時的 = antique
-		+ archaeology, archeology (n)考古學
-		+ archetype (n)原形 = prototype, 理想典範/典型 --> archetypal (adj)原型的/典型的
+		+ /ɑːˈkeɪɪk/ archaic (adj)古老的 = antique, (詞)已廢的, = obsolete, 古式的/古代的
+		+ archaeology, archeology (mn)考古學
+		+ archetype (n)典型 = paradigm, 原形 = prototype, 象徵/主題 --> archetypal (adj)原型的/典型的
 
 	arch, archi, archy
 		1. 主要的 = chief, first, principal
 			- arch (adj)調皮的/淘氣的 (n)拱/拱門/拱形物, 足背/足弓 (v)使成弧形, 呈拱形覆蓋
-			- archipelago (n)群島 <-- archi + pelago 海 = sea
-			- architect (n)建築師, 締造者 --> architecture (n)建築
+			- archipelago (n)群島, 多島的海 <-- archi + pelago 海 = sea
+			- architect (n)建築師, 創造者 --> architecture (n)建築
 
 		2. 統治 = leader, ruler
 			+ /ˈanəki/ anarchy (n)無政府, 政治上的混亂 = disorder
 			- /ˈanəkɪz(ə)m/ anarchism (n)無政府主義
-			- archive (n)檔案室 --> archives (n)檔案
+			- archive (n)檔案/文件, 檔案室 (v)把……收集歸檔
 			- archbishop (n)樞機主教
-			- monarch (n)君主/帝王, 帝王蝶, 王鶲 --> monarchy (n)君主制
+			- monarch (n)君主/帝王, 帝王蝶, 王鶲 --> monarchy (n)君主政體, 君主國, 王室
 			- monarchist (n)君主主義者 (adj)支持君主制的
 			- patriarch (n)家長/族長, 元老, 創始人, 早期基督教的主教, 羅馬天主教和東正教的最高一級的主教
-			- patriarchal (adj)家長或族長制的, 家長的/族長的
+			* patriarchal (adj)家長或族長制的, 家長的/族長的 <-- patria = family
 			+ hierarchy --> hierarchical
 			+ oligarchy
-			- matriarch (n)母權
+			* matriarch (n)母權 <--> patriarchal
 
 	ard, ars, arsen 火/熱 = burn == flagr == caus
-		+ ardent (adj)熱心的 = accommodating, 熱烈的/強烈的/激情的 = zealous = fervent = vehement
-		+ ardor (n)激情/熱情/熾熱的愛情 = zeal
-		+ arduous (adj)艱難的/艱巨的/費力的 = laborious
+		+ ardent (adj)熱情的/熱烈的 = zealous = fervent = vehement
+		+ ardor (n)熱情 = zeal
+		+ arduous (adj)艱巨的/費力的 = laborious = onerous = strenuous = exacting
 		- arsenal (n)軍械, 軍械庫 = armory, 大量
-		- arson (n)縱火
+		- arson (mn)縱火
 
 	arm, armi 武裝/武器
 		- army (n)軍隊, 大群/大批
 		- armada (n)艦隊 <-- arm + ada 艦隊
-		- armor (n)裝甲
-		- armory (n)軍械庫 = arsenal, 兵工廠, 紋章 = heraldry
+		- armor (n)鎧甲, 裝甲板 = armor plate, 裝甲車, 甲殼 (v)為……提供防禦
+		- armory (n)軍械庫 = arsenal, 兵工廠, 寶庫/錦囊, 紋章 = heraldry
 		* armorial (adj)紋章的/徽章的 (n)紋章書
 		- armistice (n)停戰/休戰協議 = truce <-- arm + stice 停止 = stop
-		- disarm (v)繳械, 使緩和
+		- disarm (v)使繳械, 裁軍, 拆除(炸彈), 使(敵意或猜疑)緩和, 剝奪(權力)
 		- disarmament (n)裁軍/裁減軍備
 		- firearm (n)槍枝
 
 	arthr, artic 連結/關節/接合 = joint
 		- /ɑːˈθrʌɪtɪs/ arthritis (n)關節炎
 		- arthropod
-		++ articulate (v)清楚表達 = enunciate, 接合 = connect (adj)口齒伶俐的 = coherent, 連接的/有關節相連的
-		+ inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的 = ineffable, 無關節的
-		** articulation (mn)清楚的發音, 表達, 連接/接合 (n)關節
+		++ articulate (adj)口齒伶俐的 = coherent, 連接的/有關節相連的 (v)清楚表達 = enunciate, 接合 = connect
+		++ inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的 = ineffable, 無關節的
+		++ articulation (mn)清楚的發音, 連接/接合 (n)關節
 		* artery (n)動脈 = aorta, 主要幹道 --> arterial (adj)
 
 	art, arti 技巧
-		++ artless (adj)粗俗的, 自然的/直率的 = guileless = natural = ingenuous = naive, 單純的 = simple --> artlessness (n)單純/樸實
-		+ artifact (n)人工製品 --> artifacts (n)史前古物
-		+ artificial (adj)人造的 = faux = synthetic, 假的 = faux = synthetic
-		- artifice (n)巧技, 詭計 = contrivance = finesse = ruse
-		*** article (n)文章, 物品/物件, 商品 = commodity, 條款
-		+ artful (adj)精明的/狡詐的 = wily = crafty = cunning, 有創意的/有品味的
-		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術家的
-		- artsy, arty (adj)附庸風雅的
+		+ artless (adj)直率的 = guileless = natural = ingenuous = naive, 單純的 = simple, 拙劣的 
+		+ artlessness (n)直率, 單純/樸實
+		+ artifact (n)工藝品/手工藝品
+		+ artificial (adj)人造的 = faux = synthetic, 假的 = faux = synthetic, 矯揉造作的
+		- artifice (n)詭計 = contrivance = finesse = ruse
+		*** article (n)物品/物件, 文章, 條款
+		++ artful (adj)精明的/狡詐的 = wily = crafty = cunning, 有創意的/有品味的
+		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術的, 藝術家的
+		- artsy, arty (adj)[非]附庸風雅的
 		* /ˈɑːtɪstri/ artistry (n)藝術才能
 		* artisan (n)工匠/技工 = craftsman --> artisanal (adj)工匠的/技工的, 傳統匠人手工製作的
 		- artillery (n)火砲/大砲, 砲術
 
 	asper 粗暴 = rough
-		+ asperity (n)粗魯/粗暴 = roughness, 嚴酷/艱苦 <|> aspersion
+		+ asperity (n)嚴厲/粗暴 = harshness = roughness, 嚴酷/艱苦 <|> aspersion
 		+ /ɪɡˈzasp(ə)reɪt/ exasperate (v)激怒 = agitate = rile = acerbate = irritate = provoke = nettle
 
 	aster, astro 星星 = star == stell
-		- asterisk (n)星號
-		- asteroid (n)小行星
+		- asterisk (n)星號 (v)標上星號
+		- asteroid (n)小行星, 海星
 		- astrophysicist (n)天體物理學家
 		- astral (adj)星星的, 靈魂的
 		- astrolabe (n)星盤
 		- astrology (n)占星學 = horoscope
-		- astronomy (n)天文學 --> astronomical (adj)天文學的, 龐大的 = colossal
+		- astronomy (n)天文學 --> astronomical (adj)天文學的, [非]龐大的 = colossal
 		- astronaut (n)太空人
 
-
 	auct, aug, aux 提高/增加 = increase
-		- auction (n)拍賣
+		- auction (n/V)拍賣
 		+++ /ɔːɡˈmɛnt/ augment (v)增大/提高/加強 = accrue = aggrandize = amplify <|> argument
-		+ august (adj)威嚴的/令人敬畏的/高貴的 = venerable = majestic = awe-inspiring
-		* auxin (n)生長素
-		** /ɔːɡˈzɪlɪəri/ auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員 <-- auxin
+		+ august (adj)有威嚴的 = venerable = awe-inspiring
+		* auxin (mn)生長素
+		* /ɔːɡˈzɪlɪəri/ auxiliary (adj)輔助的/協助的 = subordinate = ancillary (n)輔助人員, 附屬組織 <-- auxin
 
 	audi 聽 = hear
 		- audit (n/v)審計, 系統性評價或評估 (v)旁聽
 		- auditor (n)審計員, 聽者, 旁聽生
 		- audible (adj)聽得見的
 		- auditory (adj)聽覺的 = acoustic = aural
-		- audition (n/v)試鏡
-		- /ɔːdɪˈtɔːrɪəm/ auditorium (n)(劇院等的)聽眾席/觀眾席, 劇院/禮堂
+		- audition (n/v)試鏡 (v)評價
+		- /ɔːdɪˈtɔːrɪəm/ auditorium (n)(劇院等的)聽眾席/觀眾席, 會堂/禮堂
 
 	authent, author 作家
 		+ /ɔːˈθɛntɪk/ authentic (adj)真正的 = authoritative = genuine
-		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate --> authenticity (n)真偽/真實性/可靠性
-		- authorship (n)著作者的身分
-		* authoritarian (adj)獨裁的/專制的, 專制的/專橫的 = dictatorial (n)獨裁主義者
-		- authoritarianism (n)專制主義/獨裁主義, 獨善其身
-		+ authoritative (adj)專斷的/命令式的 = imperative = imperious = magisterial, 權威的/可信的 = genuine = authentic = magisterial
-		+ /ɔːˈθɒrɪti/ authority (n)權威/權力
-		- authorize (v)授權, 批准 = approve = permit = ratify
+		+ authenticity (n)真實性/可靠性
+		+ authenticate (v)證實 = attest = corroborate = substantiate = vindicate
+		- authorship (n)著作者的身分, 作者
+		* authoritarian (adj)獨裁的/專制的, 專制的/專橫的 = dictatorial (n)獨裁者
+		- authoritarianism (mn)專制主義/獨裁主義, 獨善其身
+		+ authoritative (adj)權威的/可信的 = genuine = authentic = magisterial, 專斷的/命令式的 = imperative = imperious = magisterial, 
+		+ /ɔːˈθɒrɪti/ authority (n)權威/權力, 許可 = sanction, 管理機構, 威信, 權威人士/專家
+		- authorize (v)授權/批准 = approve = permit = ratify
 
 	auto 自己 = self
 		- autobiography
@@ -495,9 +495,10 @@
 
 	avi 鳥 = bird
 		- avian (adj)鳥的/鳥類的 (n)鳥 = bird
-		+ avid (adj)熱切的 = eager, [for]渴望的 = agog --> avidity (n)渴望/熱情, [化]親和力
-		- aviary (n)大鳥籠,鳥舍
-		- aviation (n)航空
+		+ avid (adj)熱情的, [for]熱切的 = eager = agog
+		+ avidity (n)渴望/熱情
+		- aviary (n)大鳥籠
+		- aviation (mn)航空
 		- aviatrix (n)女飛行員
 
 	act 動作 = do 
@@ -506,16 +507,18 @@
 		- activism (mn)激進主義
 		- counteract
 		+ enact (v)制定(法律), 扮演(角色)
-		++ exact (v)強要/勒索 = force = compel, 急需 (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 嚴格的 = strict = rigorous
-		++ exacting (adj)嚴格的/嚴厲的 = rigid = severe, (工作)艱難的 = arduous
-		- exactitude (n)精確性/正確性 = fidelity
+		++ exact (v)強要/勒索 = force = compel, 施加(報復) (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 謹慎的
+		++ exacting (adj)(工作)艱難的 = arduous
+		- exactitude (n)精確性/正確性 = fidelity, 謹慎
 		- interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
 		- redact (v)編輯/編寫, 審查 = censor
 		- transact --> transaction
 
 	angur 預示/開始
-		* inaugurate (v)為……舉行就職典禮 = install = induct, 開始/開創 = commence --> /ɪˈnɔːɡjʊr(ə)l/ inaugural (adj)就職的, 開幕的 (n)就職演說
-		+ augur (n)占卜師 (v)占卜/預言 = divine --> augury (n)預言/徵兆 = divination
+		* inaugurate (v)開始/開創 = commence, 就職 = install = induct, 為……舉行開幕式
+		* /ɪˈnɔːɡjʊr(ə)l/ inaugural (adj)就職的/開幕的 (n)(總統)就職演說
+		+ augur (n)古羅馬的占兆官 (v)[well/badly/ill]占卜/預言 = divine
+		+ augury (n)預言/徵兆 = divination = omen
 
 [B]
 	bi 二 = two, twice == ambi
@@ -4857,7 +4860,7 @@
 	{olic} 養...的 = keeper
 		- bucolic
 
-[P]
+[P] 
 	pan, panto 全部 = all == omni
 		+ pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
 		+ /ˌpanəˈsiːə/ panacea (n)萬靈藥 <-- pan + acea 治療 = cure

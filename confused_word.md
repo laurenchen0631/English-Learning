@@ -20,6 +20,8 @@
 - aptitude <--> attitude <--> altitude
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
 - argument <--> augment
+- artifact <--> artifice <--> artificial
+- artful <--> artistic <--> arty
 - abrogate <--> arrogate <--> arrogant
 - ailing <--> alimentary <--> alimony
 - allegory <--> allergy <--> allege <--> allegiance
@@ -28,6 +30,7 @@
 - apprehend <--> apprehension
 - astringent <--> stringent
 - attenuate <--> accentuate
+- authoritative <--> authoritarian
 - awry <--> wry <--> wary <--> weary <--> askew 
 
 ## B
@@ -360,6 +363,7 @@
 - martial <--> marital
 - mason <--> mansion
 - mast <--> mash <--> mat <--> matt <--> mattress <--> mastodon
+- matriarch <--> patriarchal
 + maunder <--> meander
 - mawkish <--> maw
 - metric <--> metrical
@@ -653,6 +657,7 @@
 - torch <--> scorch <--> scotch
 - torpid <--> tumid <--> turgid <--> trepid <--> torrid
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
+- toddler
 - trapping <--> trap
 - trace <--> track <--> trek <--> trail <--> trailer <--> tract <--> tractate
 - tract <--> tractate <--> tractable <--> traction <--> intractable
@@ -683,7 +688,7 @@
 - vagrant <--> vagary <--> vague
 - valley <--> volley
 - vessel <--> vassal
-- venal <--> venial <--> vernal
+- venal <--> venial <--> vernal <--> vandal
 - veritable <--> verifiable1
 - vie <--> vile <--> vilify <--> revile
 - vindicate <--> vindictive
