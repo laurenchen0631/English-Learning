@@ -1,24 +1,31 @@
 ## Templates
-1. Introduction
+1. Introduction (5 min thesis including planning + 3 min complement introduction after finishing conclusion)
 	- Restate the issue you were assigned
 		- *While some people believe that _____.*
 		- *When it comes to _____, _____.*
-	- State your position (thesis) on that assignment
+	- State your position (thesis) on that assignment: 10 - 20 words.
 		- *While ______, _____*
 		- *It is for this reason that I believe that _____*
 
-2. (Body Paragraph 2: Agreeing to the given issue)
+2. Body Paragraph 2: Agreeing to the given issue. Impersonal example is absolutely acceptable. (5 min)
 	- *To begin with, _____*
 	- *My personal experience is a compelling example of this.*
 	- For instance, _____.
 	- Taking _____ for example/instance, _____.
-3. Body Paragraph 3,4: Bringing up the negative side of the issue along with supporting facts and quotes
+
+3. Body Paragraph 3: Bringing up the negative side of the issue along with supporting facts and quotes (5 min)
 	- Bring up your example.
 	- Explain how it relates to the topic.
 	- Show that it fully supports your thesis.
+	- It is not absolutely necessary to use real world examples on the issue task, but they can be more effective and concrete than hypothetical examples.
 	- Conclude the support and example.
 
-3. Conclusion
+4. Body Paragraph 4: Concession (5 min)
+	- A opposing argument of your thesis.
+	- Not refute your concession point, but also not develop it so far that you make it more convincing than the thesis.
+	- This point is meant to show that you recognize that sometimes things differ from the argument you are making, but that your argument is still generally correct.
+
+3. Conclusion (3 min)
 	- Brief mirror of your introductory paragraph.
 		- *In conclusion, ____*
 		- *To sum up, _____*

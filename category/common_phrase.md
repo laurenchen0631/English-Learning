@@ -399,6 +399,8 @@
 - close call 即將到來的災難 == a situation in which something bad, unpleasant, or dangerous almost happens, but you manage to avoid it
 	- It was a close call for residents when a tornado swept through just west of the town.
 	- Getting to the airport on time was a close call.
+- go belly up (公司)破產/失敗 == fail
+	- The business went belly up after only six months.
 - have one's (fair) share of 遭遇許多(壞事) == to have a lot or more than enough of something bad
 	- We certainly have our share of problems at the moment.
 	- She's had her fair share of tragedies in her life.
