@@ -374,7 +374,7 @@
 	- ... a time when many people are losing their jobs as a consequence of the recession.
 	- His departure was totally unexpected and, in consequence, no plans had been made for his replacement.
 	- Maternity services were to be reduced in consequence of falling birth rates.
-+ *therefore == thereby == thus == accordingly == consequently == hence == for that reason* 所以/因此
++ *therefore == thereby == thus == accordingly == consequently == hence == for that reason == accordingly* 所以/因此
 	- He was down with the flu, *and therefore* couldn't come to the party.
 	- It haunts me that I was blind to his predation, and therefore complicit in a culture of willed ignorance and denial.
 	- The final step came when steam was introduced into the cylinder to drive the piston backward as well as forward, thereby increasing the speed of the engine and cutting its fuel consumption.
@@ -387,6 +387,7 @@
 	- This is a gold necklace, hence it is expensive. 
 	- She was slimmer and hence more active
 	- For that reason, he suggests that particularly vulnerable sites such as airports or nuclear power stations should defend themselves with a mixture of anti-drone devices.
+	- He was too sick to stay. Accordingly, we sent him home.
 + otherwise 否則/不然
 	- I'd better write it down, otherwise I'll forget it.
 	- Call home, otherwise your parents will start to worry.

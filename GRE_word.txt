@@ -1500,10 +1500,12 @@
     + /ɡəʊʃ/ gauche (adj)不善交際的/不圓滑的 = tactless = coarse = uncouth = clumsy = awkward
     + gaucherie (n)笨拙
     + gayety, gaiety (mn)快樂/興高采烈 = merriment, 喜慶, 娛樂 = entertainment = amusement
-    ++ /ˈdʒiːnɪəl/ genial (adj)親切的/友好的 = cordial = friendly = amiable = kindly = affable, 宜人的(氣候) --> geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
+    ++ /ˈdʒiːnɪəl/ genial (adj)親切的/友好的 = cordial = friendly = amiable = kindly = affable, 宜人的(氣候)
+    + geniality (n)和藹/親切/友好 = sociability = bonhomie = friendliness = affability
     + /dʒɛnˈtiːl/ genteel (adj)彬彬有禮的/故作高貴的 <-- gentle
     + /ˈdʒɛrɪˌmandə/ gerrymander (n/v)為政黨利益而不公平地劃分選區 <-- Gerry + salamander
-    + /dʒɛˈsteɪt/ gestate (v)懷孕 = conceive, 構思/孕育 = conceive = develop slowly --> gestation (n)懷孕 = pregnancy, 構思/孕育
+    + /dʒɛˈsteɪt/ gestate (v)懷孕 = conceive, 構思/孕育 = conceive = develop slowly 
+    + gestation (n)懷孕 = pregnancy, 構思/孕育
     + glean (v)拾落穗, 搜集(消息、材料等)
     + glib (adj)油嘴滑舌的, 能言善道的 <-- slippery
     + glide (v)滑行, 滑翔 (n)滑行/滑翔, [語]滑音
@@ -1517,13 +1519,15 @@
     + goodness (n)善良/美德 = virtue = probity, 精華/養分 (excl)天哪/啊呀
     + goosebumps (n)雞皮疙瘩 = horripilation
     + gossamer (n)蛛絲 = cobwebs, 薄紗 <-- goose 鵝 + summer
-    + /ɡaʊdʒ/ gouge (n)半圓鑿, 溝/槽 = groove (v)鑿/挖 = tear out = scoop out, [out]敲詐/敲竹槓 = overcharge = extort = swindle
+    + /ɡaʊdʒ/ gouge (n)半圓鑿, 溝/槽 = groove (v)鑿/挖 = scoop out, [out]敲詐/敲竹槓 = overcharge = extort = swindle
     + gourmand (n)貪吃的人 = glutton, 饕客 = gourmet --> gourmandize (v)吃美食
     + graft (n)嫁接用的嫩枝, 嫁接, [醫]移植, [醫]移植手術, [非]艱苦的工作 (v)嫁接, 移植, 結合 = combine, 用不正當手法謀取錢財, [非]賣力地工作 (mn)貪汙/受賄 <|> grate
     +++ grant (v)同意/准予 = agree = accede, 給予 = bestow = give, 承認 = admit (n)補助金, [法]轉讓 (mn)同意, 給予
     + granted (adv)無可否認地 = admittedly (conj)[granted that]鑑於
-    ++ /ɡreɪt/ grate (v)磨碎(食物), 發摩擦聲, 使煩躁 = irritate = annoy = fret, 火爐/壁爐, 鐵格柵 --> grating (adj)令人煩躁的/惱人的 = harsh (n)鐵格柵 <|> /ɡreɪt/ great
-    ++ grip (v)緊握/緊咬 = grasp = seize, (感情)強烈地控制, 吸引 (n)緊握, 握法, 抓地力, 控制, 理解, 柄/把, 旅行袋, 舞臺工作人員 --> gripping (adj)吸引住人的 = fascinating = enthralling = exciting
+    ++ grate (v)磨碎(食物), 發摩擦聲, 使煩躁 = irritate = annoy = fret, 火爐/壁爐, 鐵格柵 <|> /ɡreɪt/ great
+    ++ grating (adj)令人煩躁的/惱人的 = harsh (n)鐵格柵 
+    ++ grip (v)緊握/緊咬 = grasp = seize, (感情)強烈地控制, 吸引 (n)緊握, 握法, 抓地力, 控制, 理解, 柄/把, 旅行袋, 舞臺工作人員
+    + gripping (adj)吸引住人的 = fascinating = enthralling = exciting
     + groundless (adj)無根據的/無合理理由的 = baseless = idle = unfounded
     + /ɡraʊs/ grouse (v)發牢騷/訴苦/抱怨 = grouch = complain = crab = grumble (n)松雞 <|> arouse
     + /ˈɡrɒv(ə)l/ grovel (v)匍匐前進, 卑躬屈膝 <|> grove
@@ -1542,7 +1546,8 @@
     * gage, gauge (n)測量儀器, 測量法, 標準尺寸/大小/程度 (v)估計 = estimate, 量 = measure
     * /ˈɡɔːdi/ gaudy (adj)俗麗的/過分炫耀的 = tawdry = garish
     * gingerly (adj/adv)小心/謹慎 = cautious = careful = wary
-    *** gloom (n)黑暗 = murk, 憂鬱 = depression = despondency --> gloomy (adj)陰暗的/陰鬱的 = murky = obscure = stygian, 憂鬱的/悲觀的 = glum = lugubrious = morose = melancholy = dismal = saturnine
+    ** gloom (n)黑暗 = murk, 憂鬱 = depression = despondency
+    ** gloomy (adj)陰暗的/陰鬱的 = murky = obscure = stygian, 憂鬱的/悲觀的 = glum = lugubrious = morose = melancholy = dismal = saturnine
     * glum (adj)憂鬱的/沮喪的 = morose <|> glue
     * /nɔː/ gnaw (v)啃咬, 啃食/侵蝕 = erode = corrode = fret, 使惱火 = vex = plague
     ** goldbrick (n)假金磚, 懶漢 (v)逃避責任 = shirk, 欺騙/敲詐 = swindle 
@@ -1731,7 +1736,7 @@
     ++ /ˈharəʊ/ harrow (n/v)耙 (v)使焦慮/使惱火 = distress = vex = fret = annoy --> harrowing (adj)焦慮的 = distressing
     + halt (n/v)暫停/停止 = stop = cease
     + halting (adj)躊躇的/猶豫的 = faltering
-    ++ hamper (n)帶蓋食品籃/野餐籃, [航]障礙船具 (v)妨礙/阻撓 = hinder = encumber = impede = inhibit = thwart = oppose = check = arrest = stymie
+    ++ hamper (n)帶蓋食品籃/野餐籃, [航]障礙船具 (v)妨礙/阻撓 = hinder = encumber = impede = thwart = check = arrest = stymie
     + hamstring -> hamstrung -> hamstrung (n)腿筋/膕繩肌腱 (v)切斷(人、馬等的)腿後腱使成跛腳, 嚴重地限制..的效果
     + hand-wringing (n)憂慮的模樣
     + /həˈraŋ/ harangue (n)長篇大論的指責性演說 = tirade (v)向…作慷慨激昂的演講
@@ -2010,7 +2015,7 @@
 [J]
     + jar (n)罐/廣口瓶, 一罐, 震動/搖動 (v)刺痛/刺激(神經), 震動/搖動 = shake = vibrate, 使人產生不愉快的感覺, 不和諧 --> jarring (adj)令人感到不快的/刺耳的 = discordant = cacophonous = harsh = strident = grating, 劇烈搖晃的
     + /ˈdʒɔːndɪs/ jaundice (n)黃疸, 憤世嫉俗/偏見 = resentment = cynicism --> jaundiced (adj)患黃疸病(似)的, 有偏見的/狹隘的
-    ++ /dʒɪˈdʒuːn/ jejune (adj)天真的/膚淺的 = naive = simplistic = superficial, 枯燥乏味的 = dull = insipid = innocuous <-- jejun 空 = empty + es
+    ++ /dʒɪˈdʒuːn/ jejune (adj)天真的/膚淺的 = naive = simplistic = superficial, 枯燥乏味的 = dull = insipid = innocuous
     + /ˈdʒɛpədi/ jeopardy (n)危險 = peril = danger --> jeopardize (v)危及/危害 = endanger = compromise = imperil = menace
     + jeremiad (n)悲嘆/悲痛話
     + jettison (v)(船舶等在遇難時為減輕負載而)投棄 = cast off, 捨棄 = discard (mn)投棄/丟棄 = jetsam
@@ -2018,7 +2023,8 @@
     + jingo (n)侵略性沙文主義者 <|> lingo --> jingoism (mn)侵略沙文主義 = bellicose chauvinism  --> jingoist (n)沙文主義者
     ++ /ˈdʒɒki/ jockey (n)騎師 (v)運用各種手段謀利, 技巧性地處理或操縱 <|> hockey
     + jovial (adj)友善快活的/令人愉快的 = cheerful = convivial
-    + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult = hail --> jubilation (n)歡騰/歡慶 = triumph --> jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
+    + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult = hail --> jubilation (n)歡騰/歡慶 = triumph 
+    + jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
     + juggernaut (n)駭人的力量, 重型卡車 <-- [印]印神教主神世界主宰
 
     ** jack (n)千斤頂, J牌/傑克, 插孔/插座 = jack socket, 槌球的小白球, 普通人, 不知名的人, 伐木工人 = lumberjack, 偵探/警察, 敲鐘者, 船首旗, 錢 = money, 闊步鰺, 公隼, 公騾/公畜 (v)[非]偷 = steal, [非]搶劫 = steal
@@ -2759,9 +2765,10 @@
 
 [P]
     + /ˈpiːən/ paean (n)讚美歌/頌歌 = hymn = eulogy = panegyric
-    + painstaking (adj)細心的/仔細的 = careful = scrupulous = meticulous = measured = fastidious = finicky = fussy = guarded = deliberate = thorough
+    + painstaking (adj)細心的/仔細的 = careful = scrupulous = meticulous = fastidious = guarded = deliberate = thorough
     + /pəˈleɪʃəl/ palatial (adj)宮殿般的/宏偉的 = magnificent = stately = majestic <-- palace
-    + /ˈpalət/ palate (n)上顎, 味覺, 口味 --> palatable (adj)美味的 = sapid, 可以接受的/合乎趣味的 = acceptable <--> unpalatable
+    - /ˈpalət/ palate (n)上顎, 味覺, 口味
+    + palatable (adj)美味的 = sapid, 可以接受的/合乎趣味的 = acceptable <--> unpalatable
     + palaver (n)[非]無意義繁瑣的步驟/不便/麻煩, 冗長且無意義的討論, 談判/交涉 (v)空談/嘮叨
     ++ /ˈpalɪeɪt/ palliate (v)緩和/減輕(症狀) = mitigate = alleviate = moderate = temper = abate = allay, 掩飾(罪行) = extenuate <-- pall 遮蓋物
     - palliative (adj)治標的/止痛的, 緩和的/減輕的 (n)治標藥物/保守療法
@@ -2770,7 +2777,8 @@
     - palpate (v)觸診
     - palpitate (v)心悸/極速而不規則的跳動 = throb = pant, 顫抖 = shake = tremble
     + paltry -> paltrier -> paltriest (adj)非常少的, 不重要的/瑣碎的 = worthless = trashy = trivial = petty = minute
-    + /ˈpɛnjʊri/ penury (n)貧窮 = poverty = destitution --> penurious (adj)貧窮的 = indigent = impecunious, 吝嗇的 = miserly = mean = parsimonious = stingy
+    + /ˈpɛnjʊri/ penury (n)貧窮 = poverty = destitution 
+    ++ penurious (adj)貧窮的 = indigent = impecunious, 吝嗇的 = miserly = mean = parsimonious = stingy
     ++ petty (adj)不重要的/瑣碎的 = paltry = trifling = nugatory = trivial, 過度在意小細節的, 次要的/次級的 = minor = secondary
     + /pəˈnaʃ/ panache (n)瀟灑/氣派 = style = verve = flair, 羽飾 <|> penchant <|> pinnacle
     + /pɛː/ pare (v)削 = peel, 削減/縮減 = diminish
@@ -2789,7 +2797,8 @@
     + /ˈpɔːsɪti/ paucity (n)少量/不足 = scarcity = scantiness = dearth = poverty <-- pauc 少 = few + ity
     ++ /pɪˈkjuːlɪə/ peculiar (adj)奇怪的 = eccentric = queer = odd, 不舒服的 = unwell, 特別的 = particular, [to]特有的 = idiosyncratic, 罕見的 = uncommon = unusual = rare --> peculiarity (n)奇特/古怪, 特性/特質
     ++ peer (n)同等之人/同輩 (v)凝視, 可見 --> peerless (adj)無可匹敵的 = matchless = unrivaled = Unequalled
-    + peeve (v)惹惱 = irritate = irk = gall = rile = provoke = pique = vex (n)使人氣惱的事 --> peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
+    + peeve (v)惹惱 = irritate = irk = gall = rile = provoke = pique = vex (n)使人氣惱的事
+    + peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
     + /ˈpɛn(t)ʃ(ə)nt/ penchant (n)傾向/嗜好 = inclination = bent = propensity = affinity = bias
     + /ˈpiːn(ə)l/ penal (adj)刑事的/刑法上的 = criminal, 重的(稅或利息)
     + penalty (n)刑罰/處罰, 不利結果, 犯規的處罰/罰球 --> penalize (v)處罰, 使不利/對……不公平
@@ -2797,7 +2806,7 @@
     + penitential (adj)悔過的/後悔的
     - /ˌpɛnɪˈtɛnʃ(ə)ri/ penitentiary (n)重罪監獄, 宗教裁判所, 宗教裁判官
     * penitence (n)懺悔/贖罪 = contrition = repentance = remorse = compunction = rue <-- penal
-    + /pəˈsnɪkɪti/ persnickety (adj)吹毛求疵的/挑剔的 = fussy, 要求極度精確的
+    + /pəˈsnɪkɪti/ persnickety (adj)吹毛求疵的/挑剔的 = carping = fussy = finical, 要求極度精確的
     + personify (v)使擬人化, 使具體化 = embody --> personification (n)化身/象徵/體現, 擬人化/人格化
     + /ˈpɛsɪmɪz(ə)m/ pessimism (mn)悲觀/悲觀主義 <--> optimism --> pessimistic (adj)悲觀的/悲觀主義的
     ++ petulant (adj)耍孩子脾氣的/脾氣暴躁的 = peevish = irascible = irritable --> petulance (mn)孩子氣/脾氣暴躁
@@ -2865,7 +2874,7 @@
     ++ provincialism (n)鄉土性/地方風格, 偏狹性 = narrow-mindedness, 方言 = patois, [生]物種封閉性
     + proxy (n)代理人 = agent, 取代物 = substitute
     + /ˈprɒsɪlʌɪt/ proselyte (n)改變信仰者 --> proselytize (v)改變信仰/變節, 支持/提倡 = promote = advocate
-    +++ prudent (adj)審慎的/小心的 = guarded = cautious = careful = discreet = judicious = circumspect = deliberate
+    + prudent (adj)審慎的/小心的 = guarded = cautious = careful = discreet = judicious = circumspect = deliberate
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/傻氣的 = juvenile = silly = jejune = immature --> puerility (n) <-- puer 男孩 = boy
     + puissant (adj)[古]強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢
     + /ˈpʌlkrɪtjuːd/ pulchritude (n)美 = comeliness = beauty --> pulchritudinous (adj)美的 <-- pulchr 美麗 = beautiful + itude 
@@ -2882,7 +2891,8 @@
     ** peach (n)桃子, 桃色, [非]傑出的人/極好的東西 (v)[非][on]告密 = inform against <|> peach
     * preach (v)布道, 鼓吹 = advocate = inculcate, 告誡/說教 
     * pebble (n)小卵石/鵝卵石 = cobble (adj)(鏡片)厚凸的
-    *** penetrate (v)穿過/滲入, 成功進入(機構)成為其一部分, 了解/洞察 --> penetrating (adj)有穿透力的, 刺耳的, 敏銳的/犀利的
+    *** penetrate (v)穿過/滲入, 成功進入(機構)成為其一部分, 了解/洞察 
+    * penetrating (adj)有穿透力的, 刺耳的, 敏銳的/犀利的
     * penetrable (adj)可穿透的 = permeable = pervious = porous, 能理解的 = understandable
     * pep (n)[非]活力/精力/生氣 = vim (v)[非][up]使精力充沛/使充滿活力
     * peril (n)危險 = jeopardy = hazard --> perilous (adj)充滿危險的/非常危險的
@@ -3084,7 +3094,7 @@
     - prise, prize (v)撬開 = pry
     - promiscuous (adj)濫交的/淫亂的, 不加區別的/隨意的 = indiscriminate, 各式各樣東西組成的
     - prone (adj)[to]有...傾向的/易於遭受...的, 俯臥的
-    - prong (n)叉子的分支, 分岔/分支, [俗]陰莖 = penis, 火力分散
+    - prong (n)叉子的分支, 分岔/分支, [俗]陰莖 = penis, 火力分散 <|> tine
     - prow (n)船首/船頭, 突出的部分
     - prowl (n/v)潛行於/暗中來回覓食
     - prepper (n)末日準備者
@@ -3098,7 +3108,7 @@
     - puddle (n)水坑/窪 (mn)膠土 (v)使泥濘, [about/around]忙亂, 做成膠土, 用膠土填塞, 攪煉
     - pull (v)拉, 拖/牽, 傳遞能量, 划, 拉出, 拉傷, 拔出, [at/on]吸, 行駛, 拉開, 吸引/招徠, 做成/達成, 取消/撤銷, 取消..的資格, 逮補, 控(馬)慢跑, 印, [for]鼓勵/支持 (n)拉力/引力, 魅力, 影響力/門路, 拉/拖, 把手, 拉傷, 一口, 吸一口
     - pullet (n)小母雞
-    - pulley (n)滑輪/滑車 (v)用滑輪升起
+    - pulley (n)滑輪/滑車 = tackle (v)用滑輪升起
     - pulverize (v)使成粉末 <-- pulver 粉塵 = dust + ize
     - pun (n)雙關語 (v)說雙關語
     - punch (v)以拳猛擊, 打動
@@ -4568,12 +4578,12 @@
     *** wind -> wound -> wound (v)繞/使捲繞, 包/裹, 使纏繞成團, 給…上發條, 倒帶, [up]陷入/捲入, [down]放鬆下來 (n)彎曲/轉彎
     - winding (n)蜿蜒, 捲繞物, 線圈 (adj)蜿蜒的/彎曲的
     - windy (adj)刮風的/風大的, 誇誇其談的/空談的, 蜿蜒的
-    ** wither (v)枯萎/乾枯 = = blight = wizen = shrivel = droop = flag, 乾癟, 衰落/式微 = decline = dwindle, 使減弱 = weaken, 用輕視的眼神使..羞愧 = humiliate
+    ** wither (v)枯萎/乾枯 = blight = wizen = shrivel = droop = flag, 乾癟, 衰落/式微 = decline = dwindle, 使減弱 = weaken, 用輕視的眼神使..羞愧 = humiliate
     * withered (adj)枯萎的/凋謝的, 萎縮的/乾癟的
     *** withhold (v)拒絕給予 = deny = decline = forbear, 抑止(情緒) = stifle = refrain = check
     * /wəʊ/ woe (n)悲痛/憂慮 = sorrow = distress, 令人煩惱或憂慮的事務 = trouble
     * woeful (adj)極為悲傷的/極為憂慮的, 極其惡劣的 = abysmal = egregious = deplorable = outrageous
-    * wont (n)習慣 = accustom = use (v)[非]習慣 (adj)習慣的 = accustomed --> wonted (adj)習慣的 = habitual = usual
+    * wont (n)習慣 = accustom (v)[非]習慣 = inure (adj)習慣的 = accustomed --> wonted (adj)習慣的 = habitual = usual
     * wordy (adj)嘮叨的/冗長的 = garrulous = verbose = loquacious
     * worship (n)崇拜/敬仰, 儀式 = rite (v)崇拜/敬重 = revere = hallow = venerate, 參加儀式
     * worshipful (adj)崇拜的/崇敬的 = reverent

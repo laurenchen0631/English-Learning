@@ -3,6 +3,7 @@
 - accession <--> access <--> cession <--> cessation <--> precession
 - accost
 - acme <--> acne <--> pimple
+- accord <--> according <--> accordingly
 - across <--> cross
 + adduce <--> abduct <--> abduce
 - adulate <--> adulterate <--> adultery <--> adulterous
@@ -29,7 +30,7 @@
 - alter <--> altar
 - apprehend <--> apprehension
 - astringent <--> stringent
-- attenuate <--> accentuate
+- attenuate <--> accentuate <--> accent
 - authoritative <--> authoritarian
 - awry <--> wry <--> wary <--> weary <--> askew 
 
@@ -67,6 +68,7 @@
 - cabin <--> cabinet
 - cache <--> cachet
 - callow <--> fallow
+- calm <--> clam <--> clamor
 - calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
@@ -156,6 +158,7 @@
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debauch
 - debilitate <--> deliberate
+- declaim <--> declamatory <--> disclaim
 - decor <--> decorous
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
@@ -174,6 +177,7 @@
 - discompose <--> decompose
 - disconsolate
 - discourse <--> discursive
+- discount
 - discreet <--> discrete <--> discretion <--> discretionary
 - disjoint <--> disjunction
 - dismissal <--> dismissive
@@ -212,6 +216,7 @@
 - execrable
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
+- exercise <--> excise <--> incise <--> incisor
 - exhaust <--> exhaustive
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
@@ -261,7 +266,7 @@
 - gawk <--> hawk <--> hawker
 - germane <--> germ
 - giddy <--> piddly
-- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> waggle
+- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> hassle <--> waggle
 - git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
 - glean <--> clean
 - glib <--> gild <--> glide
@@ -282,6 +287,7 @@
 ## H
 - habilitate <--> rehabilitate
 - hale <--> hare <--> harem <--> mare
+- hardheaded <--> headstrong
 - harry <--> marry <--> parry <--> quarry
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow <--> mellow
@@ -431,6 +437,7 @@
 - obligate <--> oblige <--> obliging
 - oblivious <--> obvious
 - object --> objection <--> objective
+- obtrusive
 - occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
@@ -473,12 +480,13 @@
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
+- pillory <--> pillage <--> pillar
 - plain <--> plane <--> planet <--> plant <--> plantation <--> plaintive
 - plangent
 - plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker
-- plumb <--> plumber <--> plume <--> slumber <--> slump
+- plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump
 - pock <--> poke
 - poll <--> pollen <--> pollinate
 - ponderous <--> ponder
@@ -487,6 +495,7 @@
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
 - praise <--> appraise
+- prank
 - prowess <--> prow <--> prowl
 - prime <--> premium <--> premier
 - principle <--> principal
@@ -517,7 +526,7 @@
 - punctilious <--> compunction
 - pulley <--> pullet
 - pulchritude
-- purvey
+- purvey <--> survey
 - putrid
 
 ## Q
@@ -537,6 +546,7 @@
 - rampage <--> rampart
 - random <--> ransom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
+- recant
 - raconteur <--> rancor <--> rancid
 - rapprochement <--> reapproach
 - rattle <--> prattle
@@ -695,7 +705,7 @@
 - toddler
 - trapping <--> trap
 - trace <--> truce <--> truant <--> track <--> trek <--> trail <--> trailer <--> tract <--> tractate
-- tract <--> tractate <--> tractable <--> traction <--> intractable
+- tract <--> tractate <--> tractable <--> traction <--> intractable <--> retraction
 - trait <--> traitor
 - traipse
 - treat <--> treatise <--> treaty

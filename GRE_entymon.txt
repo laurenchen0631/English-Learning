@@ -977,16 +977,17 @@
 		*** reception (mn)接收, 歡迎 (n)接待, 接待會/歡迎會/宴會, 接收品質
 		+ receptive (adj)善於接受的/從善如流的 <--> unreceptive
 		- receptacle (n)容器
-		- recipient (n)接受者/收受者
+		- recipient (n)接受者/收受者 (adj)接受的/能接受的
 		+ /ˈrɛsɪpi/ recipe (n)食譜, 訣竅/方法
-		- recuperate (v)恢復/復原
-		+ susceptible (adj)易受……影響的 = liable = impressionable, [of]容許…的/可以有…的 --> susceptibility (n)敏感性/易受影響, 感情纖細
+		- recuperate (v)恢復/康復, 找回 = recover = regain
+		+ susceptible (adj)易受……影響的 = liable = impressionable, [of]容許…的/可以有…的 
+		+ susceptibility (n)敏感性/易受影響, 感情纖細
 
 	cide, cid 殺 = kill
 		- genocide (n)種族滅絕
 		- germicide (n)殺菌劑
 		- herbicide (n)除草劑
-		- suicide (n)自殺 --> suicidal (adj)有自殺傾向的, 自我毀滅的 
+		- suicide (n/v)自殺 (n)自殺者 --> suicidal (adj)有自殺傾向的, 自我毀滅的 
 		- homicide (n)謀殺/他殺 --> homicidal (adj)殺人的
 		- fungicide (n)殺真菌劑 
 		- feticide
@@ -998,83 +999,88 @@
 		+ abscise (v)切除 --> /əbˈsɪʃ(ə)n/ abscission (n)切除(枝葉)
 		+ concise (adj)簡潔的/簡明的 = laconic = succinct = terse = brief = compendious = compact
 		+ concision (n)簡潔
-		- decide (v)決定
+		- decide (v)決定, 解決 <|> deicide
 		+ /dɪˈsʌɪsɪv/ decisive (adj)果決的, 決定性的/確定的
 		+ indecisive
-		- /ˈɛksʌɪz/ excise (v)刪除, 切除 (n)消費稅
-		- /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使/運用 (n)活動 (v)擔心 = worry = perplex
-		- incise (v)切/切割 = cut --> incision (n)切口/傷口, 切割/切開
+		- /ˈɛksʌɪz/ excise (n)貨物稅/國內消費稅/執照稅 (v)徵收, (手術)切除, 刪除(章節)
+		- /ˈɛksəsʌɪz/ exercise (n/v)運動, 行使(權力) (n)活動/行動, 測驗/習題, 操練, 儀式 = ceremony (v)擔憂 = worry = perplex
+		- incise (v)刻/雕, (手術)切 --> incision (n)切口/傷口, 雕痕/雕刻 (mn)切
 		- incisor (n)門牙/前齒
-		+ incisive (adj)銳利的/一針見血的 = penetrating = sharp = trenchant = acute, 敏銳的
-		+ précis (n)摘要/大綱 = summary = abstract
+		+ incisive (adj)頭腦敏銳的/敏銳的 = acute = sharp, (詮釋)精確的, 快而直接的/切入的 = trenchant
+		+ précis, precis (n)摘要/大綱 = summary = abstract (v)做..的大綱
 		- precise (adj)精確的 = exact = rigorous
-		- rescission (n)廢除
-		- scissors (n)剪刀
+		- rescission (n)廢除 =  revocation = cancellation
+		- scissor (v)用剪刀剪
+		- scissors (n)剪刀 
 
 	cond 藏起/儲藏 = stow, secrete
 		+ abscond (v)潛逃/逃亡, (蜜蜂)棄巢
 		- condiment (n)調味料
-		+ /ˈrɛk(ə)ndʌɪt/ recondite (adj)深奧的 = esoteric = abstruse = profound = Hermetic
+		+ /ˈrɛk(ə)ndʌɪt/ recondite (adj)深奧的 = abstruse = profound
  
 	claim, clam 叫喊/要求 = cry out
-		- acclaim (n/v)稱讚 = admire = adore = accolade = kudos, 歡迎 --> acclamation (n)歡呼/喝采
-		- claim (n/v)要求/認領 = request, 索賠, 聲稱/宣稱 = allege
-		+ clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)大聲的抱怨/強烈呼聲 = outcry, 吵鬧/喧嚷 = jazz = clangor
+		- acclaim (n/v)公開讚揚 = adore = accolade
+		- acclamation (n)歡呼/喝采
+		- claim (v)宣稱 = allege = assert, 認領/索取, 需要(注意) = call for, 奪去(性命) (n)主張, 要求, 索賠, 權利 = right
+		+ clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)吵鬧/喧嚷 = jazz = clangor, 大聲的抱怨/強烈呼聲 = outcry, 
 		- clamorous (adj)吵鬧的/喧嚷的, 大聲抱怨的/強烈要求的
 		+ declaim (v)慷慨陳詞/朗誦 --> declamation (n)朗讀/雄辯
 		- declamatory (adj)慷慨激昂的
-		- disclaim (v)放棄權力 = renounce, 拒絕承認/否認 = refuse = deny
+		- disclaim (v)拒絕承認/否認 = refuse = deny, 撤銷(所有權)
 		- exclaim (v)驚叫/呼喊 --> exclamation (n)驚叫, 感歎句/感歎詞
-		+ proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = show --> proclamation (n)公告/宣言/聲明 = official announcement
+		+ proclaim (v)聲明/宣布 = announce = affirm = herald, 顯示 = indicate = show
+		+ proclamation (n)公告/宣言/聲明 = official announcement
 		- reclaim (v)取回/拿回, 使改過/使悔改 = reform, 開墾/開拓, 回收利用 = recycle (n)提取行李
 		- reclamation (n)取回, 開墾/開拓, 回收利用
 
 	celer 速度
 		+ accelerate (v)加速, 促進 = expedite = hasten <--> retard
-		+ celerity (n)敏捷 = speed = swiftness = alacrity
+		+ celerity (n)[古]敏捷 = speed = swiftness = alacrity
 		+ decelerate (v)減速
 
 	cent, cant, chant 唱/說 = song, chant == dict
 		+ accentuate (v)強調 = emphasize = accent
-		- accent (n)口音, 重音 (v)強調
+		- accent (n)口音, 重音, 強調 (v)強調 = emphasize, 加重音
 		- cantata (n)清唱劇 = oratorio
 		- cantilena (n)柔聲曲調
-		* chant (n)聖歌 (v)歌唱/背誦/吟誦
+		* chant (n)(多人一起唱的)歌/曲子, 讚美詩/聖歌 (v)吟誦 = incant = intone
 		+ disenchant (v)使醒悟/使不抱幻想
-		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch --> enchanting (adj)令人入迷的 = charming = captivating
+		+ enchant (v)使陶醉/使入迷 = entrance = delight = captivate = enamor = intrigue, 對…施魔法 = bewitch
+		+ enchanting (adj)令人入迷的 = charming = captivating
 		- incant (v)吟唱/吟誦 = cant = intone --> incantation (n)咒文
 		+ incentive (n)刺激因素/誘因 = stimulus = motive
 		- incentivize (v)鼓勵/激勵 = encourage = motivate
-		+ recant (v)宣佈放棄 = renounce = relinquish = disavow = forswear = abjure --> recantation (n)改變宗教信想/改變論調
-
+		+ recant (v)背棄(信仰) = forswear = abjure --> recantation (n)公開放棄主張 = retraction
+	
 	col 脖子 = neck
-		+ accolade (n)讚賞 = appreciation = kudos
-		- collar (n)領口, 項圈, 項鍊 (v)逮捕 = apprehend, 攔住(談話), 給...戴上項圈
+		+ accolade (n)榮譽/嘉獎 = kudos, 讚美 = appreciation, 騎士授封儀式
+		- collar (n)領口, 項圈, 項鍊 (v)[非]逮捕 = apprehend, [非]攔住(談話), [非]給...戴上項圈
 		- collared (adj)有領子的
 		- column (n)圓柱, 柱狀物, 欄, 專欄, 縱列
 
 	commod 方便 = convenience, fitting == com + mod 方式 = manner, measure
-		* accommodate (v)[to]使適應 = adjust = adapt, 提供住宿
+		+ accommodate (v)提供(住宿) = lodge, 為…提供方便/照顧到/考慮到, [to]使適應/使順應 = adapt to
+		+ accommodating (adj)樂於助人的 = benevolent
 		- accommodation (n)住處/膳宿, 可用空間, 提供住宿, 調和/和解, 適應/調節
-		- accommodating (adj)樂於助人的 = benevolent
-		+ commodity (n)日用品, 商品 = ware
-		- commodious (adj)寬敞的
+		+ commodity (n)原物料 = material, 有價值之物 
+		- commodious (adj)寬敞的 = roomy
 
 	company 陪伴
-		- accompany (v)陪同/陪伴, 伴隨/和...一起存在
+		- accompany (v)陪同/陪伴, 伴隨/和...一起存在, 伴奏
 		- accompaniment (n)伴奏/配樂, 伴隨物/附加物
-		- companion (n)夥伴/同伴, 陪護, 指南/手冊
+		- companion (n)夥伴/同伴, 看護婦, [天]伴星, 成對的物件之一, 指南/手冊 (v)陪伴 = accompany
 
 	compl 滿 = fill 
-		- accomplish (v)完成/實現 = attain
+		- accomplish (v)完成/達成 = attain
 		- complete --> completion
 
 	cord 心 = hear, mind
-		++ accord (n/v)同意/協議/使一致 = agree = adapt (v)授予/給予 = bestow = grant --> accordingly (adv)照著
-		+ discord (n)不一致/紛爭, (婚姻)不和
-		+ discordant (adj)不和諧的 = disagreeing = incongruous, 刺耳的 <--> concord
-		- concord (n)和諧/和睦 = amity = rapport <--> discord, 公約/協定 = agreement = accord = treaty
-		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的
+		++ accord (v)授予 = grant, 使一致 = agree = adapt (n)協約 = treaty, 一致/同意 = harmony = agreement
+		+ accordingly (adv)照著, 因此 = therefore
+		+ discord (n)不和/不一致, [音]不和諧音
+		+ discordant (adj)不一致的/不和諧的 = disagreeing = incongruous, 刺耳的 <--> concord
+		- concord (n)和諧/和睦 = amity = rapport <--> discord, 公約/協定 = accord, [音]協和音程
+		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的 (n)甜香酒
 
 	cre, crue 增長/產生 = grow, increase
 		+ accrete (v)成長, (植物)連生 --> accretion (n)堆積/積聚/增大
@@ -1243,7 +1249,8 @@
 		- carrion (n)腐肉
 
 	carp, cerpt 挑選 = pluck
-		++ carp (v)挑剔/吹毛求疵 = quibble = cavil (n)鯉魚 --> carping (adj)吹毛求疵的/挑毛病的 = censorious = faultfinding
+		++ carp (v)挑剔/吹毛求疵 = quibble = cavil (n)鯉魚
+		+ carping (adj)吹毛求疵的/挑毛病的 = censorious = faultfinding = persnickety
 		+ carpet (n)地毯, 一層 (v)在…上鋪地毯
 		- excerpt (n)摘錄/節錄/片斷
 
@@ -1670,7 +1677,7 @@
 			+ disclose (v)揭露/公佈 = divulge = unfold
 			* discontinued (adj)停產的
 			+ discontinuity (n)不連續/不連貫
-			++ discount (n/v)減價/打折 (v)忽視/不理會 = disregard <|> recount
+			+++ discount (n/v)減價/打折 (v)忽視/不理會 = disregard <|> recount
 			+ discourage (v)阻撓/阻止 = hinder, 使洩氣/使心灰意冷 = dishearten = dispirit
 			+ discourteous (adj)失禮的/沒禮貌的 = impolite = uncivil = rude = impertinent
 			+ discredit --> discredited
