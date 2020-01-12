@@ -3,7 +3,7 @@
 - accession <--> access <--> cession <--> cessation <--> precession
 - accost
 - acme <--> acne <--> pimple
-- accord <--> according <--> accordingly
+- accord <--> according <--> accordingly <--> concord <--> discord <--> cordial
 - across <--> cross
 + adduce <--> abduct <--> abduce
 - adulate <--> adulterate <--> adultery <--> adulterous
@@ -72,6 +72,7 @@
 - calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - capillary <--> caterpillar
+- capitulate <--> recapitulate <--> decapitation
 - captious <--> captive
 - carat <--> caret <--> carrot <--> karat
 - carcass <--> caress <--> careen <--> canvass
@@ -123,7 +124,7 @@
 - contingent <--> continent <--> contiguous 
 - convene <--> contravene
 - convey <--> convoy
-- cooperate <--> corporate <--> coop
+- cooperate <--> corporate <--> coop 
 - cope <--> dope <--> dupe
 - consist <--> consistent
 - contempt <--> contemplate
@@ -145,12 +146,14 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
+- crescent <--> credent <--> credulous <--> credo
 - cronyism <--> cynicism
 - cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
 - cuddle <--> fuddle <--> befuddle <--> muddle 
+- culpable <--> exculpate <--> inculpate
 - curate <--> curator <--> curable
-- curb <--> cub
+- curb <--> cub <--> carb <--> crab
 - cursory <--> cursor <--> cursive
 
 ## D
@@ -177,14 +180,15 @@
 - discompose <--> decompose
 - disconsolate
 - discourse <--> discursive
-- discount
-- discreet <--> discrete <--> discretion <--> discretionary
+- discount <--> recount
+- discredit <--> credit <--> accredit
+- discreet <--> discrete <--> discreteness <--> discretion <--> discretionary
 - disjoint <--> disjunction
 - dismissal <--> dismissive
 - dispense <--> dispensable <--> indispensable
 - disturb <--> disrupt <--> disruptive
 - divulge
-- dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fizzle
+- dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -237,7 +241,7 @@
 - fete <--> mete
 - fetid <--> fetish
 - fib <--> dibs
-- fickle <--> freckle <--> heckle
+- fickle <--> freckle <--> heckle <--> speckle
 - file <--> defile
 - filly <--> folly
 - fit <--> fitful
@@ -267,7 +271,7 @@
 - germane <--> germ
 - giddy <--> piddly
 - gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> hassle <--> waggle
-- git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> glitter <--> glimmer
+- git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
 - glean <--> clean
 - glib <--> gild <--> glide
 - gloat <--> bloat <--> glower
@@ -321,6 +325,7 @@
 
 ## I
 - idiom <--> idiot
+- incandescent
 - incarcerate
 - indolence <--> insolence
 - indict <--> indicate
@@ -535,6 +540,7 @@
 - quaver <--> quiver
 - queer <--> sheer <--> steer
 - querulous <--> quarrelsome
+- quibble <--> squabble <
 - quiescence <--> quintessence
 - quorum <--> quota <--> quote
 
@@ -544,7 +550,7 @@
 - rail <--> raillery
 - raise <--> raisin
 - rampage <--> rampart
-- random <--> ransom
+- random <--> ransom <--> bosom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
 - recant
 - raconteur <--> rancor <--> rancid
@@ -555,6 +561,7 @@
 - recede <--> recess <--> recession <--> recessive <--> regress <--> regressive <--> repress 
 - receptive <--> receptacle
 - reclusive <--> repulsive
+- recreant
 - reek
 - reflective reflexive
 - renaissance <--> reconnaissance
@@ -654,7 +661,6 @@
 - spit <--> split <--> splint <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout
 - squeamish
-- silt <--> slit <--> milt <--> jilt <--> wilt
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - somnolent

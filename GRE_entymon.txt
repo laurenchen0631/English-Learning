@@ -342,6 +342,7 @@
 		- /krɪˈsanθɪməm/ chrysanthemum (n)菊花
 
 	anthrop, anthropo 人 = human
+		- anthropocentric (adj)以人類為宇宙中心的
 		- anthropogenic (adj)人為的
 		* /ˌanθrəˈpɒlədʒi/ anthropology (mn)人類學 --> anthropologist (n)人類學家
 		- anthropomorphism (n)擬人 --> anthropomorphic (adj)擬人的
@@ -1083,65 +1084,70 @@
 		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的 (n)甜香酒
 
 	cre, crue 增長/產生 = grow, increase
-		+ accrete (v)成長, (植物)連生 --> accretion (n)堆積/積聚/增大
+		+ accrete (v)生長/增加 --> accretion (n)增加, 聚成物
 		+ /əˈkruː/ accrue (v)(利息收益等)增加/增多 = accumulate = accrete
-		+ concrete (adj)具體的/確切的 = particular (n)混凝土 <--> conceptual
-		- crescendo (n)漸強, 高潮
+		+ concrete (adj)具體的/確切的 = particular <--> conceptual (n)混凝土 (v)用混凝土覆蓋或固定
+		- crescendo (n)聲音的最高點, 高點/高潮, 漸強音 (adv)漸強音地 (adj)漸強的 (v)漸強
 		- crescent (n)新月/弦月, 新月狀物 (adj)新月狀的, 逐漸增大的
-		- increment (n)增值/增加 --> increase (v)
-		- recruit (n)新兵, 新成員 = newcomer (v)徵募
+		- increment (n)增值/增加, 加薪 --> increase (n/v)增加 
+		- recruit (n)新兵, 新成員 = newcomer (v)徵募, [非]說服 = persuade, 使恢復健康 = replenish = reinvigorate
 
 	cre, cern 分開/分辨 = separate, distinguish <--> crue
-		+ decree (n)法令/教令 = ordinance, 天意/天命 (vt)裁決 (v)命令 = ordain
-		+ discern (v)(費勁)看出 = recognize = apprehend, 辨別出 = distinguish = discriminate --> discernment (n)洞察力/識別
-		- discernible (adj)能看出的/可辨別出的
+		+ decree (n)法令/政令 = ordinance, 頒布/命令 (vt)命令 = ordain
+		+ discern (v)(費勁)看出 = recognize = apprehend, 辨別出 = distinguish = discriminate
+		+ discernment (n)洞察力/識別
+		- discernible (adj)能看出的/可辨別出的 = perceptible
 		+ discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
 		+ discriminate (v)區別/辨別 = differentiate, 差別對待
-		+++ discreet (adj)謹慎的/小心的 = prudent = judicious = circumspect = deliberate = measured = guarded
-		+++ discretion (n)謹慎/審慎
-		+ indiscretion
+		+++ discreet (adj)謹慎的/小心的 = prudent = circumspect = deliberate = guarded, 故意不引人注意的
+		+++ discretion (n)謹慎/審慎, 行動的自由
 		+ discretionary (adj)自行決定的/自主的 <|> discrete
-		+ discrete (adj)獨立的/單獨的 = independent = distinct = individual, 不連續的 --> discreteness (n)獨立性/不連續性
+		+ indiscretion
+		+ discrete (adj)獨立的/單獨的/分開的 = independent = distinct = individual
+		+ discreteness (n)獨立性/不連續性
 		* excrete (v)排泄/分泌
 		* secret (adj)秘密的 = covert, 不爲人知的 (n)秘密/奧秘/秘訣 <|> /sɪˈkriːt/ secrete
 		- /ˈsiːkrɪsi/ secrecy (n)保密
 		* /ˈsɛkrɪt(ə)ri/ secretary (n)秘書
-		++ /sɪˈkriːt/ secrete (v)隱藏/藏匿 = conceal  = hide, 分泌 --> secretion (n)分泌/分泌液 <|> secret
-		- secretive (adj)隱隱藏藏的, 能分泌的/促進分泌的
+		++ /sɪˈkriːt/ secrete (v)隱藏/藏匿 = conceal = hide, 分泌 <|> secret
+		+ secretion (n)分泌, 分泌液 
+		- secretive (adj)隱隱藏藏的/遮遮掩掩的, 秘密的/神秘的  enigmatic
 		- incretion (n)內分泌 <-- in + (se)certion
 
 	cre, cred 相信 = believe, confide, entrust
-		- accredit (v)相信, 委任/授權 = authorize, 歸功於 = attribute to
+		- accredit (v)相信, 歸功於 = attribute to, 委任/授權 = authorize
 		+++ credit (n)信用/信譽, 貸款/信貸, 帳面餘額, 收到的款項, 讚揚, 功勞, 片尾字幕, 及格記錄, 學分, 增光的人或事物, 名望 (v)公開承認在..的貢獻, [with]將...歸功於 = ascribe, 加(金額)於帳戶
-		+ creditable (adj)值得稱讚的 = laudable
-		+ credent (adj)相信的 --> credence (n)相信/可信性
+		+ creditable (adj)值得公開稱讚的 = laudable
+		+ credent (adj)相信的
+		+ credence (n)相信 = belief, 可信性 = plausibility, 祭器臺/供桌
 		+ credential (n)證書, 國書(證明大使身分的證件) (v)授與證書
-		+ credible (adj)可信的/可靠的 = believable = trustworthy --> credibility (n)可信性/可靠性
+		+ credible (adj)可信的/可靠的 = believable = trustworthy = convincing --> credibility (n)可信性/可靠性
 		+ credo (n)信念/信條 = creed
 		+ credulous (adj)輕信的/易上當的 = gullible --> credulity (n)輕信/易受騙
 		+ incredulous (adj)不輕信的/不相信的 <|> incredible
-		* recreant (adj)膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
-		+ discredit (v)敗壞名聲 = defame = sully = smirch = sully, 不信 = disbelieve (n)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
-		+ discredited (adj)名聲掃地的
 		- incredulity (n)懷疑/不相信
+		* recreant (adj)[古]膽小的/怯懦的 = cowardly = craven = pusillanimous, 不忠的 = apostate = unfaithful = disloyal = traitorous (n)[古]膽小鬼 = coward, 背叛者 = apostate = traitor = renegade
+		+ discredit (v)敗壞名聲 = defame = sully = smirch = sully, 使受到懷疑 (mn)喪失名譽 = dishonor = disrepute, 敗壞名聲的人或物
+		+ discredited (adj)名聲掃地的
 	
 	cumul 堆積 = heap
 		* accumulate (v)積累 = accrue <--> dissipate
 		- cumulative (adj)累積的/漸增的
-		- cumulus (n)積雲
+		- cumulus -> cumuli (n)積雲
 
 	cuse 理由
-		* accuse (v)指控 = charge, 指責 = allege = blame = censure = denounce --> accused (adj)被指控的 (n)被吿
-		+ excuse (n)藉口/托詞 = pretext, 請假條 (v)辯解, 原諒, 免除責任, [oneself]抱歉/失陪
+		* accuse (v)[of]指控 = charge, 指責/譴責 = blame = censure = denounce
+		* accused (n)被吿 = defendant <--> plantiff
+		++ excuse (v)辯解, 原諒 = forgive, 免除責任, [oneself]抱歉/失陪 (n)理由, 藉口/托詞 = pretext, 請假條
 
 	chemy 化學
 		+ alchemy (n)煉金術
 		- chemistry (n)化學
 
 	cove, cave, cav 山凹/空/洞 = hollow
-		- alcove (n)凹室/壁龕
+		- alcove (n)凹室/壁龕 = recess
 		+ concave (adj)凹的/凹面的 <--> convex
-		* excavate (v)挖掘, 發掘/挖出(古物等) = exhume
+		* excavate (v)挖掘 = dig, 發掘/挖出(古物等) = exhume = unearth
 		- cavity (n)洞穴, 腔, (病變形成的)空洞
 		- cavern (n)岩洞, 深部 (v)挖空
 
@@ -1149,89 +1155,93 @@
 		+ anachronism (n)不合時代的人或物, 時代錯誤/年代誤植 --> anachronistic (adj)時代錯誤的
 		+ chronic (adj)慢性的, 長期的/持續的 = long-lasting
 		* chronically (adv)慢性地, 長期地
-		- chronology (n)年代學, 年表
+		- chronology (n)按事件發生的年代排列的順序, 年表, 年代學
 		- chronological (adj)按時間順序的
-		- /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記 (v)記述/紀錄(大事)
+		- /ˈkrɒnɪk(ə)l/ chronicle (n)編年史/年代記, 記事/敘述 (v)記述/紀錄(大事)
 		- chronicler (n)編年史家
 		- chronometer (n)精密計時器
 		- synchronous (adj)同步的/同時的 <--> asynchronous
 
 	chrom, chrome 顏色 = color
 		+ chromatic (adj)半音階的, 彩色的/顏色的
-		- chromatron (n)彩電顯像管
-		- /kroʊˈmætəfɔr/ chromatophore (n)色素體
+		- /kroʊˈmætəfɔr/ chromophore (n)色素基
 		- chromosome (n)染色體
 		- chrome, chromium (n)鉻
 		- fluorochrome (n)螢光染料
-		- monochrome (adj)單色的/黑白的 (n)單色畫/黑白相片 --> monochromatic (adj)單色的
+		- monochrome (adj)單色的/黑白的 (n)單色畫/黑白相片, 單調
+		- monochromatic (adj)單色的
 
 	cryph, crypt 隱藏/秘密 = hide == scond
 		- apocrypha (n)偽經/偽書 <--> canon
-		+ apocryphal (adj)虛假的/可疑的 = bogus <--> authenticated = authentic = genuine
-		+ cryptic (adj)神秘的/有隱義的
+		+ apocryphal (adj)真實性可疑的/偽的 = bogus <--> genuine
+		+ cryptic (adj)神秘的/有隱義的, [動]適合於隱身的
 		- cryptogram (n)密碼/暗號
 
 	cracy, crat 統治 = power, rule, strength, might
-		- aristocracy (n)貴族, 貴族統治/貴族政府 --> aristocratic (adj) <-- aristo 最好的 = best + cracy
+		- aristocracy (n)貴族, 貴族統治/貴族政府, 特權階級 <-- aristo 最好的 = best + cracy
+		- aristocratic (adj)貴族的
 		- autocrat
 		+ democracy --> democratic --> democratize --> democratization
-		- bureaucracy (n)官僚政治, 官僚組織, 官僚, 繁文褥節
+		- bureaucracy (n)官僚, 官僚政治, 繁文褥節
 		- gerontocracy
 		+ plutocracy
 		- technocrat
 		+ theocracy
 
 	caco 壞 = bad
-		+ /kəˈkɒfəni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音 --> cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
+		+ /kəˈkɒfəni/ cacophony (n)難聽的聲音/刺耳嘈雜的聲音/雜音
+		+ cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
 	calc 石灰/石灰岩 = lime, limestone
 		- calcification (n)鈣化
 		- /ˈkalsɪəm/ calcium (n)鈣
-		- calculus (n)微積分, 計算法/推論法, 結石
-		* calculate (v)計算 = compute, 推算 = estimate = evaluate = gauge <|> articulate
-		+ calculable (adj)可計算的/可預想到的, 可信賴的
+		- calculus (n)微積分  infinitesimal calculus, 計算法/推論法, 結石
+		* calculate (v)計算 = compute, 推算/推論 = reckon = estimate = evaluate = gauge, [be calculated to]故意
+		+ calculable (adj)可計算的/可估計的
 		- /ˈkalsʌɪt/ calcite (mn)方解石
 
 	cand, cend, cense 白/發光 = shine, white
-		++ candid (adj)率直的/直言不諱的 = frank = ingenuous, 公正的 = honest = impartial, 偷拍的 --> candidness (n)
+		++ candid (adj)率直的/直言不諱的 = frank = ingenuous, 偷拍的 --> candidness (n)
 		+ candor (n)坦率/真誠 = frankness
-		- candle (n)蠟燭 = taper
-		- candidate (n)候選人/申請人, 考生/應試者 --> candidacy (n)候選人的資格
-		- incandescent (adj)熾熱的/白熱的, 光亮的/燦爛的 --> incandescence (n)白熾, 熾熱發光
-		+ incendiary (adj)放火的 = arsonous, 煽動的 = inflammatory (n)縱火犯, 燃燒彈, 煽動者
+		- candle (n)蠟燭 = taper, 燭光(亮度單位) (v)對光檢查(蛋的品質)
+		- candidate (n)候選人
+		- candidacy (n)候選狀態/候補狀態
+		- incandescent (adj)熾熱的/白熱的, 強烈的 = passionate, 憤怒的 --> incandescence (n)
+		+ incendiary (adj)放火的 = arsonous, 煽動的 = inflammatory (n)燃燒彈, 縱火犯, 煽動者
 		++ incense (n)焚香, 香味 (v)激怒
 
 	chandel, chandle 蠟燭 = candle
 		- /ˌʃandəˈlɪə/ chandelier (n)枝形吊燈/枝形燭臺
-		- /ˈtʃɑːndlə/ chandler (n)蠟燭商
+		- /ˈtʃɑːndlə/ chandler (n)船舶供應商 = ship chandler, 蠟燭商
 
 	capit 頭 = small head
-		- decapitation (n)斬首, 殺頭
+		- decapitation (n)斬首, 殺頭 = scalp
 		+ /kəˈpɪtjʊleɪt/ capitulate (v)投降/停止抵抗 = surrender = yield
 		- capitulum (n)骨的頭部
 		+ recapitulate (v)扼要重述/概括/總結 = encapsulate = summarize --> recapitulation (n)
 		+ recap (v)概述 = recapitulate (n)概要/總結 = recapitulation
 
 	crimin, culp 罪行 = guilty, crime
-		+ criminality (n)犯罪
+	    * criminal (adj)犯罪的/犯法的, 刑事上的 = penal <--> civil, 可恥的 (n)罪犯 = villain = miscreant
+		+ criminality (mn)犯罪
 		+ culpable (adj)應受譴責的/該受處罰的 = reprehensible --> culpability (n)罪過 = blame
 		+ culprit (n)罪犯/刑事被告, 罪魁禍首/問題的起因
-		+ exculpate (v)證明…無罪/脫罪 = exonerate = vindicate <|> extenuate --> exculpatory (adj)證明無罪的/辯解的 
+		+ exculpate (v)證明…無罪/開脫 = exonerate = vindicate <|> extenuate --> exculpatory (adj)
 		- inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
-		- incriminate (v)連累/牽連 = inculpat --> incrimination (n)連累
-		- recriminate (v)反控
+		- incriminate (v)連累/牽連 = inculpate --> incrimination (n)連累
+		- recriminate (v)[古]反控
 
 	cult 培養/種植 = care for, inhabit, worship
 		+ cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine = nurture = educate, 結交 
 		- cultivable (adj)可耕作的/可種植的
-		- cultured (adj)有文化修養的
+		- cultured (adj)有文化修養的, 人工培養的
 		- agriculture
 		- mariculture
 
 	carbo 碳
 		- carb (n)化油器 = carburetor, 飲食中的碳水化合物
 		- carbohydrate (n)碳水化合物
-		- carbon (n)炭/碳纖維/碳化合物
+		- carbon (n)炭, 碳纖維, 碳化合物
 		- carbonate (n)碳酸鹽 (v)使含二氧化碳, 使成碳酸鹽
 
 	card, cardio 心臟的 = heart
@@ -1695,7 +1705,7 @@
 			- disinter (v)挖出/挖掘, 胡瓜魚
 			+ disinterested (adj)公正的/客觀的 = impartial = objective = indifferent, 不感興趣的 = indifferent = uninterested
 			- dislocate
-			- dislodge (v)用力（或設法）移動, 逐出
+			- dislodge (v)用力移動, 逐出
 			- dismantle (v)拆除 = disassemble
 			* dismay (v)沮喪/氣餒
 			* disobedient (adj)不服從的/不聽話的 = contumacious = rebellious = insubordinate = wayward = froward
@@ -3309,7 +3319,8 @@
 			- insomnia
 			- insecurity (n)不安全感, 危險/安全
 			+ inseparable (adj)[from]分不開的/不可分離的 (n)形影不離的朋友
-			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual  --> insouciance (n)不在乎 = indifference <-- in + souci 擔心 = worry + ant
+			+ /ɪnˈsuːsɪənt/ insouciant (adj)漫不經心的/不在乎的 = carefree = nonchalant = blithe = indifferent = casual
+			+ insouciance (n)不在乎 = indifference <-- in + souci 擔心 = worry + ant
 			- instability (n)不穩定, 不安定
 			+ insufferable (adj)難以忍受的 = intolerable, 討厭的/令人討厭的
 			+ insuperable (adj)難以克服的 = insurmountable = unconquerable
@@ -3685,7 +3696,7 @@
 
 	junct, join 結合/連結 = join == arthr == articul
 		+ adjunct (n)附加物/附件 = appendage, 助手/副手, 附加語/修飾語 (adj)附屬的, 兼職的/副的
-		- conjoin (v)使結合/使連接 --> conjunction (n)聯合/同時發生, 連詞/連接詞
+		- conjoin (v)使結合/使連接 --> conjunction (n)同時發生, 天體交會, 連詞/連接詞
 		+ disjoint (v)使脫臼 = dislocate, 使支離破碎 = dislocate --> disjointed (adj)支離破碎的/無條理的
 		- disjunction (n)分離/歧異 --> disjunctive (adj)分離的, 轉折的/反義的
 		- junction (n)樞紐/交會點/交叉路口
@@ -5037,6 +5048,7 @@
 		- propel --> propulsion
 		+ propensity
 		+ /ˈprɒfɪt/ prophet (n)先知/預言家/宣揚者 --> prophecy (n)預言, 預知能力 --> prophetic (adj)準確預測的, 預言的 <-- pro + peht 說 = speak
+		- prophylactic (adj)預防疾病的 (n)預防性藥物, 保險套 = condom
 		+ /prəˈpɪʃəs/ propitious (adj)吉利的/有利的 = favorable = benign <--> unpropitious <-- pro + pit 懇求 = resort, solicit
 		+ propitiate (v)取悅 = appease --> propitiatory (adj)取悅的
 		*** proportion (n)部分, 比率/比例, 調和/均衡, 大小/維度 (V)使成比例/使平衡 --> proportional, proportionate (adj)與…成比例的 = commensurate, 成常比的
@@ -5345,7 +5357,8 @@
 			+ compatible (adj)可共存的/和諧共處的/相容的 = congenial (n)相容
 
 	patho, path 病 = disease
-		+ pathology (n)病理學, 病狀, 病變 --> pathologic, pathological (adj)病理學的 = morbid, 病理的/病態的, 無法控制的/強迫性的 = compulsive = obsessive
+		+ pathology (n)病理學, 病狀, 病變
+		+ pathologic, pathological (adj)病理學的 = morbid, 病理的/病態的, 無法控制的/強迫性的 = compulsive = obsessive
 		+ pathogen (n)病原體 --> pathogenic (adj)引起疾病的 = peccant
 
 	psycho, psych 心理 
@@ -7479,6 +7492,7 @@
 		- undemocratic (adj)不民主的
 		- undeserved (adj)不應得的/不該受的 <-- un + deserved
 		- undesirable (adj)令人不悅的/不受歡迎的 = unwanted (n)不受歡迎的人
+		- undignified (adj)不莊重的/無威嚴的
 		- undirected (adj)無方向的/無目標的
 		- undisclosed (adj)未公開的
 		- /ʌndɪˈstəːbd/ undisturbed (adj)不受打擾的

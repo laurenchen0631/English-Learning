@@ -406,6 +406,9 @@
 	- She's had her fair share of tragedies in her life.
 - out of hand 失控 == out of control
 	- the New York Times suggested that the craze was getting out of hand.
+- out on a limb 冒險做/冒著危險
+	- She really went out on a limb with that hypothesis—the facts don't support it at all.
+	- She really went out on a limb when she criticised the professor in front of the whole class.
 + run amok/amuck 失控 == Behave uncontrollably and disruptively.
 	- stone-throwing anarchists were running amok
 - (be) skating on thin ice 如履薄冰
