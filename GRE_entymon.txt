@@ -1245,16 +1245,16 @@
 		- carbonate (n)碳酸鹽 (v)使含二氧化碳, 使成碳酸鹽
 
 	card, cardio 心臟的 = heart
-		+ cardinal (adj)最重要的 = chief = foremost
+		+ cardinal (n)紅衣主教, 深紅色, 紅衣鳳頭鳥 (adj)最重要的 = chief = foremost = fundamental
 		- cardiologist (n)心臟病專家
-		- cardiac (adj)心臟的 (n)心臟病患者
+		- cardiac (adj)心臟的, (胃的)賁門的 (n)心臟病患者
 	
 	carn, carr 肉 = flesh
-		- carnivorous (adj)肉食動物的 <--> herbivorous
-		+ carnal (adj)肉體的/肉慾的/性慾的 --> carnalism (n)縱欲主義/肉欲主義
+		- carnivorous (adj)肉食性的 <--> herbivorous
+		+ carnal (adj)肉體的/肉慾的 --> carnalism (n)縱欲主義/肉欲主義
 		- carnage (n)大屠殺 = massacre
-		- reincarnate (v)轉世投胎, 以不同的形式出現
-		+ incarnate (adj)化身的/體現的/擬人化的/典型的 = personified
+		- reincarnate (v)轉世投胎, 以不同的形式出現 (adj)轉世抔胎的
+		+ incarnate (adj)化身的/體現的 = personified (v)賦於(靈體)以形體, 使具體化 = embody, 作為典型/代表
 		+ /ɪnˈkɑːnədʌɪn/ incarnadine (adj)粉紅色的/肉色的 (v)染紅
 		- carrion (n)腐肉
 
@@ -1268,49 +1268,50 @@
 		+ cartography (n)製圖學 --> cartographer (n)地圖繪製者
 
 	cata 向下 = down, against, back
-		+ /ˈkatəˌklɪz(ə)m/ cataclysm (n)大災難/大變動 = catastrophe = upheaval --> cataclysmic (adj)災難性的 <-- cata + clysm 洗 = wash == lut 
+		+ /ˈkatəˌklɪz(ə)m/ cataclysm (n)大災難/大變動 = catastrophe = upheaval, 動盪 = upheaval <-- cata + clysm 洗 = wash
+		+ cataclysmic (adj)災難性的/大規模的, [非]糟糕透頂的
 		- catastrophe
 		- catacomb (n)地下墓穴
-		- catalog (n)目錄 (v)為……編目, 將……編入目錄, 列出 = list
-		+ catalyst
+		- catalog (n)目錄, 一連串(壞事) (v)為……編目, 將……編入目錄, 列出 = list
+		+ catalyst --> catalytic
 	
 	caus, caust 燒灼/火 = burn == ard = bust = flagr
-		+ caustic (adj)腐蝕性的 = corrosive, 刻薄的/尖刻的/挖苦的 = pungent = acerbic = acidulous = astringent = acrimonious = mordant = sarcastic = trenchant
+		+ caustic (adj)腐蝕性的 = corrosive, 刻薄的/尖酸的 = pungent = acerbic = astringent = sarcastic = trenchant, [物]焦散的 (n)腐蝕性物質
 		- cauterize (v)(為給傷口止血或防止感染而)燒灼
 		- holocaust (n)大毀滅/浩劫, 大屠殺 = massacre <-- holo 全部 = whole, entire + caust
 
 	cast, chast 潔淨 = pure
 		+++ /kɑːst/ caste (n)(印度社會的)種姓制度, 社會等級 <|> chaste
-		+ castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure = indict --> castigation (n)嚴厲批評 = chastisement = criticism
-		- chaste (adj)純潔的/貞潔的, 簡潔樸實的 = austere <|> caste
+		+ castigate (v)嚴厲指責/斥責 = reprimand severely = criticize = chastise = censure --> castigation (n)
+		- chaste (adj)純潔的/貞潔的, 簡潔的/樸實的 = austere <|> caste
 		+ chasten (v)抑制/使和緩 = moderate
-		++ /tʃaˈstʌɪz/ chastise (v)嚴厲批評 = criticize = castigate = censure = indict, 懲罰 = discipline = scourge --> chastisement (n)嚴厲批評 = castigation, 懲罰 = punishment
+		++ /tʃaˈstʌɪz/ chastise (v)嚴厲批評 = castigate, 懲罰 = discipline = scourge --> chastisement (n)
 	
 	celebr 有名的 = repeated, famous
 		- celebrant (n)主持宗教儀式的神父/儀式主持人, 參加慶祝活動的人
 		+ celebrate (v)慶祝/祝賀, 讚揚/讚美, 主持(宗教儀式)
 		+ celebrated (adj)有名的/知名的 = famous = renowned
-		- celebrity (n)名聲/名氣/名望 = renown, (娛樂界的)名人/明星
+		- celebrity (n)(娛樂或運動界)名人/明星 (mn)知名
 
 	cerebr 腦 = brain
 		+ /ˈsɛrɪbr(ə)l/ cerebral (adj)大腦的, 理智的/理性的 = intelligent <|> celebrated
 		- cerebrum (n)大腦
-		- cerebration (n)用腦, 思考/思考過程
+		- cerebration (mn)思考 = thinking
 	
 	cens 評估 = assess <-- censor
 		+ /ˈsɛnsə/ censor (v)審查(出版品) (n)審查員/審查官 --> censorship (n)(電影書報)審查/審查制度
-		+ /sɛnˈsɔːrɪəs/ censorious (adj)好批評的
-		+ /ˈsɛnʃə/ censure (n/v)責備/譴責 = condemn = denounce = excoriate = decry = lambaste = upbraid <|> censor
-		- census (n)人口普查, (官方的)調查/統計 = poll
+		+ /sɛnˈsɔːrɪəs/ censorious (adj)挑剔的/好批評的
+		+ /ˈsɛnʃə/ censure (n/v)責備/譴責 = condemn = denounce <|> censor
+		- census (n)人口普查/官方調查 = poll
 
 	cert 搞清 = sure, certain
 		+ certitude (n)確定無疑/確信 = certainty
 		- /ˈsəːtɪfʌɪ/ certify (v)(通常以書面形式)證明/證實 = qualify
-		- certificate (n)證書
-		- certification (n)證明
-		+ ascertain (v)確定/弄清
-		*** concert (v)商議/使協調 (n)一致/和諧, 音樂會
-		* disconcert (v)使焦慮/使不安 = unsettle = discomfit = perturb = ruffle = abash = confuse = rattle
+		- certificate (n)證明書/執照, 電影分級
+		- certification (n)授與證書, 證書
+		+ ascertain (v)確定/弄清 = make sure of
+		*** concert (v)商議/使協調 (n)一致/和諧 = agreement = harmony, 音樂會
+		* disconcert (v)使焦慮/使不安 = unsettle = perturb = rattle
 	
 	chival, cheval, caval 馬 = horse
 		- cavalry (n)騎兵, 裝甲兵, 最後手段
@@ -1319,25 +1320,25 @@
 		+ /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
 	
 	chol, chole 膽汁 = bile
-		- choler (n)憤怒 = anger = wrath , 膽汁 = bile
+		- choler (n)憤怒 = anger = wrath
 		+ /ˈkɒlərɪk/ choleric (adj)易怒的/暴躁的 = cantankerous
 		- /ˌkɒlɪsɪsˈtʌɪtɪs/ cholecystitis (n)膽囊炎
 		- acholia (n)膽汁缺乏症
-		** /ˈmɛlənkəli/ melancholy (adj)憂鬱的 = plainive = depressed = dismal = gloomy = somber = morose = desolate = dreary, 令人悲傷的 (N)憂鬱 <-- melan 黑 = black + chol + ly 
+		** /ˈmɛlənkəli/ melancholy (mn)憂鬱, 憂鬱症 = melancholia (adj)憂鬱的 = pensive = depressed = dismal = gloomy = somber = morose, 令人悲傷的  <-- melan 黑 = black + chol + ly 
 		- melancholic (adj)憂鬱的, 嚴重憂鬱症的
 
 	cyst 囊
-		- /sɪst/ cyst (n)囊腫
-		- aerocyst (n)氣囊
+		- /sɪst/ cyst (n)[生]囊胞, [醫]囊腫
+		- aerocyst (n)海草的氣囊
 		- cholecyst (n)膽囊
 		- cholecystitis
 		- nematocyst (n)刺細胞
 
 	chor, chore, choir 歌舞/舞蹈 = dance == balle
 	 	- chore (n)雜務/家務活
-		- choral (adj)歌唱隊的, 合唱的
+		- choral (adj)歌唱隊的, 唱歌的
 		- choreography (n)編舞/舞蹈編排/舞蹈設計
-		- chorus (n)合唱曲, 合唱團, 歌舞隊, 副歌, 異口同聲 (v)齊聲說/異口同聲地說
+		- chorus (n)疊句/副歌, 合唱曲, 合唱團, 歌舞隊/伴舞, 異口同聲, 古希臘戲劇中解釋劇情的歌隊 (v)異口同聲地說
 		- /ˈkwʌɪə/ choir (n)唱詩班/合唱團
 	
 	chrys, chryso 金黃色 = gold
@@ -1347,17 +1348,17 @@
 	circ, circu, circum 繞圈/圓/環/周圍 = circle, go round
 		+ /səːˈkjuːɪtəs/ circuitous (adj)迂迴的/繞圈子的 = tortuous = devious = rambling
 		- circuitry (n)電路系統
-		- circulate (v)循環/流通/傳遞, (在聚會上)周旋, 發行 = distribute
-		- circus (n)馬戲團
-		- circular (adj)圓形的/環形的 (n)通知/通報/傳單/公告
-		+ /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)(尤指對不好的事情的)迂迴曲折的說法
+		- circulate (v)循環/流通/傳遞, (在聚會上)周旋, 流傳, 傳閱
+		- circus (n)馬戲團, [非]鬧哄哄的情形/熱鬧的場面, 古羅馬的露天圓形競技場
+		- circular (adj)圓形的/環形的, 供傳閱的 (n)傳單
+		+ /ˌsəːkəmləˈkjuːʃ(ə)n/ circumlocution (n)轉彎抹角的說法 = periphrasis
 		- /səˈkʌmfərəns/ circumference (n)周圍, 圓周/周長
 		+ circumspect (adj)小心的/謹慎的 = cautious = prudent = careful = discreet = judicious = canny = well-considered
-		- /ˈsəːkəmstans/ circumstance (n)(客觀)環境, 情況/情形/形勢
+		- /ˈsəːkəmstans/ circumstance (n)情況/情形/形勢
 		++ circumstantial (adj)(關於犯罪)按情況推測的/佐證的, 描述詳盡的 = detailed = particular
 		+ circumscribe (v)限制/控制 = restrict = restrain = limit = confine = delimit, 使外切
 		- circumtropical (adj)環熱帶的
-		+ circumvent (v)迴避/規避/繞過 = bypass = go around = aboid, 環繞/包圍 = entrap = encompass
+		+ circumvent (v)避開/繞過 = bypass = go around = aboid, 智取/巧妙地克服
 	
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
 		- cyclist (n)騎腳踏車的人
@@ -2702,6 +2703,7 @@
 
 	flor, flour 花/開花 = bloom, flower == anth
 		- efflorescent (adj)開花的
+		- efflorescence (n)風化, 發展
 		- florescence (n)花期, 全盛期
 		+ flora (n)(某地區或時代的)植物群 <|> fauna
 		++ florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
@@ -3566,7 +3568,7 @@
 			- intersect --> intersect
 			- intersperse
 			+ intertwine (v)纏繞/交纏
-			- intervene --> intervention
+			+ intervene --> intervention
 			+ intrinsic, intrinsical (adj)本質的/固有的 = essential <--> extrinsic <-- intr + in + sic
 
 		2. 互相 = together, mutually, reciprocally
@@ -4718,6 +4720,7 @@
 		- outpouring (n)流露 = betray
 		+++ outrage (n)暴行/惡行, 義憤/憤慨 (v)使憤慨/激怒, 違反
 		+++ outrageous (adj)極不道德的/無法無天的 = woeful = bad = excessive, 過度誇張的 = exaggerated = improbable, 令人吃驚的 = shocking
+		- outreach (n)擴大(醫療或其他)服務範圍 (v)擴展
 		- outsell (v)賣得比……多
 		- outset (n)開始/開頭 = start = beginnning <|> onset
 		- outshine (v)比..更亮, 比...更好
@@ -5268,7 +5271,7 @@
 		- pendent (adj)下垂的 = pendant, 未決的 = pending
 		- /ˈpɛndjʊləm/ pendulum (n)擺/擺錘, 來回擺動
 		- /ˈpɛnʃ(ə)n/ pension (n)退休金, 補助金, 膳宿公寓/寄宿家庭 (v)發給..退休金, 捨棄
-		+ pensive (adj)沉思的/憂戚的 = wistful
+		+ pensive (adj)沉思的/憂戚的 = wistful = melancholy
 		- perpendicular (adj)垂直的 = vertical (n)垂直線, 垂直的位置
 		+ propensity (n)傾向/習性 = inclination = tendency = proclivity
 		- recompense (n/v)報答/彌補/補償 = compensate = make amends = reparation = wage = requite
@@ -6043,7 +6046,8 @@
 			- rebel --> rebellion --> rebellious
 			+ rebuff (n/v)斷然拒絕 <-- re + buff 噴/吹 = puff
 			+++ rebuke (n/v)指責/訓斥 = admonish = berate = castigate = censure = chide = reprimand = reproach = scold = upbraid <-- re + buke 打 = beat
-			- rebut (v)證明..為假/反駁 = disprove = invalidate = negate = deny = refute --> rebuttal (n)反駁/反證 <-- re + but
+			+ rebut (v)證明..為假/反駁 = disprove = invalidate = negate = deny = refute
+			+ rebuttal (n)反駁/反證 <-- re + but
 			- recall (n/v)回想/回憶 = remember = reminisce, 收回/叫回/召回 = countermand = withdraw <-- re + call
 			+ recant --> recantation
 			+ recede --> recession --> recessive
@@ -6097,6 +6101,7 @@
 			- repentant (adj)懺悔的/後悔的 = remorseful = contrite = penitent = rueful <--> unrepentant
 			- repentance (n)後悔/懊悔 = remorse = regret = penitence = contrition = compunction 
 			- report (n/v)報告/報導 (v)回報, [to]對..負責 (n)傳聞 = rumour, 爆炸聲/槍聲 --> reportorial (adj)記者的
+			- reportage (n)新聞報道, 報道文體
 			- reprehend --> reprehensible
 			- repress --> repressed --> repressive
 			* reprimand (n/v)訓誡/譴責 = castigate = criticize = rebuke <-- repress
@@ -7288,7 +7293,7 @@
 		+ monotony (mn)單音調, 單調/乏味 = humdrum --> monotonous (adj)單調的/乏味的, 無抑揚頓挫的
 		** toned (adj)結實強壯的, 有顏色的 = tinted, 音調的/有…調的, 有特色的
 		- tonetics (n)聲調學
-		- undertone (n)低聲/小聲, 含意/弦外之音 = connotation
+		+ undertone (n)低聲/小聲, 含意/弦外之音 = connotation
 
 	troph, tropho 營養 = nourishment, food
 		- atrophy (n/v)萎縮/衰退 (v)(器官或肌肉)萎縮
@@ -7452,7 +7457,7 @@
 
 	theo, the 神 = God
 		+ apotheosis -> apotheoses (n)最高峰/高潮 = culmination = climax, 尊奉為神/神化
-		+ apotheosize (v)尊崇……為神/神化/崇拜 = idolize
+		+ apotheosize (v)尊崇……為神/神化/崇拜 = idolize = deify
 		- pantheon
 		+ /θɪˈɒkrəsi/ theocracy (n)神權統治 <-- theo 神 = god + cracy
 		- theology (n)神學 <|> theoretical
@@ -7822,7 +7827,7 @@
 		- inconvenient
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
-		* /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
+		+ /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
 		+ invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious --> inventiveness (n)創造力/創意 = creativity
 		- inventory (n)詳細目錄/存貨清單 (v)編制(目錄), 把……登入目錄
 		- reinvention (mn)重塑

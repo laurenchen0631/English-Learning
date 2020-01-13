@@ -15,7 +15,7 @@
 - animus <--> unanimous <--> animate <--> inanimate
 - antagonistic <--> protagonist
 - apostate <--> apostle
-- apotheosize
+- apotheosize <--> apotheosis
 - appeal <--> appellant <--> appellation
 - appurtenant
 - aptitude <--> attitude <--> altitude
@@ -81,6 +81,7 @@
 - casual <--> causal
 - castigate <--> castrate
 - caucus <--> cactus
+- cavalier <--> chevalier <--> chivalry
 - caveat <--> cavern
 - cease <--> crease <--> grease
 - cellar <--> cellular
@@ -88,6 +89,7 @@
 - chafe
 - chary <--> char
 - chasten <--> chaste
+- chore <--> choral <--> choir <--> chorus
 - civic <--> civil <--> cavil <--> civilian <--> civility
 - clement <--> cement <--> cremate
 - click <--> cluck
@@ -218,6 +220,7 @@
 - exalt <--> exult 
 - excoriate
 - execrable
+- excruciate <--> excruciating
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
 - exercise <--> excise <--> incise <--> incisor
@@ -254,6 +257,8 @@
 - flinch <--> clinch <--> filth <--> filch <--> plinth
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
+- forsake
+- forthcoming
 - fractious <--> fractional
 - frail <--> flail <--> fragile
 - fright <--> fraught <--> draught <--> drought
@@ -327,6 +332,7 @@
 - idiom <--> idiot
 - incandescent
 - incarcerate
+- incarnate <--> incarnadine <--> carnage <--> carnal
 - indolence <--> insolence
 - indict <--> indicate
 - induct <--> induction <--> induce <--> inducement <--> inductive
@@ -394,6 +400,7 @@
 ## M
 - magisterial <--> magistery
 - makeup <--> markup
+- mantra
 - marshal <--> marsh
 - maternal <--> paternal
 - martial <--> marital
@@ -442,11 +449,13 @@
 - obligate <--> oblige <--> obliging
 - oblivious <--> obvious
 - object --> objection <--> objective
+- objurgate 
 - obtrusive
 - occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
 - offensive <--> inoffensive
+- onerous <--> exonerate
 - onset <--> outset
 - opaque <--> opacity
 - opprobrium
@@ -482,6 +491,7 @@
 - perpetrate <--> perpetuate 
 - pernicious
 - persecute <--> prosecute
+- perquisite
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
@@ -499,7 +509,7 @@
 - portion <--> potion
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
-- praise <--> appraise
+- praise <--> appraise <--> apprise
 - prank
 - prowess <--> prow <--> prowl
 - prime <--> premium <--> premier
@@ -714,6 +724,7 @@
 - tract <--> tractate <--> tractable <--> traction <--> intractable <--> retraction
 - trait <--> traitor
 - traipse
+- transgress
 - treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
@@ -728,6 +739,7 @@
 
 ## U
 - umpire <--> empire
+- undertone
 - unexceptional <--> unexceptionable <--> unexpected
 - unctuous
 - urbane <--> urban <--> suburban

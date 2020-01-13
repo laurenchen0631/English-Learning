@@ -1,5 +1,0 @@
-## Questions
-
-## Review
-
-## Vocab
