@@ -136,6 +136,7 @@
 - convict <--> conviction
 - convivial
 - convulse
+- corpus <--> corpse
 - council <--> counsel <--> consul
 - country <--> county
 - counterfeit
@@ -165,6 +166,7 @@
 - debilitate <--> deliberate
 - declaim <--> declamatory <--> disclaim
 - decor <--> decorous
+- decry <--> descry
 - deed <--> deem
 + defect <--> defection <--> deficit <--> deficient
 - deft <--> daft
@@ -347,7 +349,7 @@
 - impose <--> imposing
 - inch <--> itch
 - insipid <--> sapid <--> vapid <--> incipient <--> sapient <--> percipient <--> precipice
-- incite
+- incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
 - iniquity <--> inanity
 - innate <--> natal
@@ -451,6 +453,7 @@
 - object --> objection <--> objective
 - objurgate 
 - obtrusive
+- occlude <--> occult
 - occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
@@ -605,7 +608,7 @@
 - salutary <--> salute <--> salubrious
 - salvage <--> savage
 - salve <--> slave <--> salvo
-- sanction <--> sanctify <--> sanctimony <--> sacrosanct
+- sanction <--> - sanctity (n)聖潔/神聖, 不可侵犯/神聖 = inviolability <--> sanctify <--> sanctimony <--> sacrosanct
 - saturate <--> suture
 - saw <--> sew
 - scad <--> scads <--> scald <--> scalp <--> scalpel

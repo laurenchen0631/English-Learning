@@ -173,6 +173,7 @@
 			- antipode (n)正相反的事物
 			- antimacassar (n)椅背套
 			- antimicrobial (adj)抗微生物的 (n)抗菌物質
+			- antinomian (adj)主張廢棄道德律的 (n)道德律廢棄論者 --> antinomianism (n)
 			- antonym
 			+ antithesis --> antithetical
 			- antiseptic
@@ -1363,35 +1364,36 @@
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
 		- cyclist (n)騎腳踏車的人
 		- /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
-		- /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane --> cyclonic (adj)氣旋的
+		- /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane 
+		- cyclonic (adj)氣旋的
 		- /ˈsɪkləmeɪt/ cyclamate (n)糖精
 		- /ˈsʌɪklətrɒn/ cyclotron (n)迴旋加速器
-		- /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, 廣泛的
+		- /ɛnˌsʌɪklə(ʊ)ˈpiːdɪk/ encyclopedic (adj)百科全書的, (資訊)包羅萬象的
 		- encyclopedia, encyclopaedia (n)百科全書/大全 <-- en + cyclo + pedo 兒童 = child + ia
 		+ cylinder (n)圓柱, 汽缸, 鋼瓶, 滾筒
-		- encyclic (n)教皇通諭
+		- encyclical (n)教皇通諭
 	
 	cit, cite 激起/喚起 = start ip, hurry, summon
-		+ cite (v)引用/引述 = quote --> citation (n)引用/引證/引文, 褒揚, [法]傳票
+		+ cite (v)引用/引述 = quote, 表揚/表彰, [法]傳喚(出庭) --> citation (n)引用/引證/引文, 褒揚, 獎章, [法]傳喚
 		- excite (v)使興奮/使激動, 引起/激起 = arouse = stir up = cause = awaken = evoke = incite
 		- excitable (adj)易激動的/易興奮的 --> excitability (n)易激動性/易興奮性
 		+ incite (v)激勵/刺激 = stir = encourage = urge on = stimulate = prompt = kindle = whet, 煽動 = foment = agitate
-		* recite (v)背誦/朗誦, 詳述/列舉 --> recitation (n)背誦/朗誦 = litany, 詳述/列舉
-		- recital (n)獨奏/獨唱/獨舞, 一串
+		* recite (v)背誦/朗誦 --> recitation (n)背誦/朗誦 = litany
+		- recital (n)獨奏/獨唱/獨舞, 列舉 = enumeration = list
 		- /ˌrɛsɪtəˈtiːvəʊ/ recitativo, /ˌrɛsɪtəˈtiːv/ recitative (mn)吟誦調	
-		- resuscitate (v)使復活/使甦醒 = resurrect = resurge <-- re + sus + cit + ate
+		- resuscitate (v)使復活/使甦醒 = resurrect = resurge, 使恢復 <-- re + sus + cit + ate
 	
 	civ, civil 公民/文明
 		+ /ˈsɪvɪk/ civic (adj)城市的 = municipal, 公民的 = civil
-		- /ˈsɪv(ə)l/ civil (adj)市民的/公民的, 國內的, 民事的, 有禮貌的/文明的 <|> cavil
-		- civilian (n)平民/老百姓
-		- civility (n)禮貌/客氣/斯文/謙恭 = politeness = comity = courtesy
-		- civilize (v)教化/開化(社會), 使文明/使有教養(人) --> civilization (n)文明/文化, 教化/開化
+		- /ˈsɪv(ə)l/ civil (adj)市民的/公民的, 民間的, 民事的, 有禮貌的/文明的 = courteous <|> cavil
+		- civilian (n)平民/老百姓(非軍警) (adj)平民的/百姓的
+		- civility (n)禮貌 = politeness = comity = courtesy, 客套
+		- civilize (v)教化/開化(社會) --> civilization (n)教化/開化, 文明, 文化
 	
 	clair, clar 清楚 = clear
-		+ clairvoyance (n)透視/千里眼/預視/神視 --> clairvoyant (adj)神視的 (n)先知/有洞察力的人
-		- clarify (v)澄清/闡明 <--> roil
-		* clarity (mn)清楚明瞭/清晰易懂, 清澈 = transparency = purity, 清晰 = sharpness
+		+ clairvoyance (n)千里眼/預視/神視 --> clairvoyant (adj)神視的 (n)先知
+		+ clarify (v)澄清/闡明/使更清晰易懂 
+		+ clarity (n)清晰, 清澈 = transparency = purity
 		- /ˈklarɪən/ clarion (adj)響亮清澈的 (n)小號
 
 	cogn 知道 = learn, know == nois == gnost
@@ -1401,44 +1403,51 @@
 		- derecognize (v)撤銷對…的承認
 		*** recognize, recognise (v)認出/識別, 正式承認/認可/接受, 表彰/表揚
 		- reconnoiter (n/v)[軍]勘察/偵查
+	    - reconnaissance (n)偵查, 預先探索 <|> renaissance
 
 	cent 一百
 		* centurion (n)(古羅馬軍團的)百人隊隊長/百夫長
 
 	centr 中心 = center
-		+ central (adj)首要的/最重要的 = principal = essential = chief = dominant, 核心的/中心的
-		+ centrifugal (adj)離心的 --> centrifuge (n)離心機
+		+ central (adj)中心的/中央的, 地處中心的, 首要的/最重要的 = principal = essential = chief = dominant
+		+ centrifugal (adj)離心的
+		- centrifuge (n)離心機
 		+ centripetal (adj)向心的 <--> centrifugal
-		+ concentrate (v)專注/專心, 聚集/匯集, 濃縮 --> concentration (n)專注/專心, 集中/聚集, 濃度
+		+ concentrate (v)專注/專心, 聚集/匯集, 濃縮 (n)濃縮液 --> concentration (n)專注/專心, 集中/聚集, 濃度, 濃縮
 		+ eccentric (adj)古怪的/反常的 = irregular = erratic = peculiar = queer, 不同圓心的 (n)古怪的人, 偏心圓
-		- egocentric (adj)利己的
+		- egocentric (adj)自我中心的 (n)自我中心主義者
 		+ ethnocentric --> ethnocentrism
 
 	concil 協商 = council
-		+ /kənˈsɪlɪeɪt/ conciliate (v)安撫/調停/和解 = placate = pacify = reconcile = propitiate --> conciliatory (adj)願意和解的/調停的
-		+ /ˈrɛk(ə)nsʌɪl/ reconcile (v)使和好, 調停/調解 = conciliate, 調和/使一致, 使(帳目)一致
-		+ reconciliation (n)和解/和好, 和諧/一致, 帳目一致
-		- reconcilable (adj)可和解的/能共處的 = compatible
+		+ /kənˈsɪlɪeɪt/ conciliate (v)安撫 = placate = pacify, 調停, 調和/使一致 = reconcile
+		+ conciliatory (adj)願意和解的/調停的
+		+ /ˈrɛk(ə)nsʌɪl/ reconcile (v)使和好, 解決(糾紛) = settle, 調和/使一致 = conciliate, 使(帳目)一致
+		+ reconciliation (n)和解/和好, 和諧/一致, 帳目一致 = harmonization
+		- reconcilable (adj)可調和的/能共處的 = compatible
 		- irreconcilable (adj)互相對立的/不相容的
 
 	clud, clus 關閉/封閉 = close
 		+ conclude (v)結束/作結, 推斷出/推論/斷定/作出 = judge
-		+ conclusive (adj)結論性的, 無可置疑的/確實的/決定性的 = convincing
-		+ conclusion (n)結尾/結束, 結論/結果 = result = outcome = settlement = arrangement, 推論 = deduction = inference
-		+ exclude (v)把…排斥在外, 排除/不考慮, 驅除 = expel = eject = thrust out
-		+ exclusive (adj)除外的, 唯一的, 獨佔的/專用的/獨有的
-		+ include (v)包括/包含 --> inclusive (adj)包含的/包括的, 包括一切在內的
+		+ conclusive (adj)決定性的 = decisive
+		+ conclusion (n)結尾/結論/結果 = result = outcome = settlement = arrangement
+		+ exclude (v)把…排斥在外, 排除/不考慮, 不包括
+		+ exclusive (adj)除外的, 排斥的, 獨佔的/專用的, 獨家的, 昂貴的/高檔的, [of]不包括的 (n)獨家新聞
+		+ include (v)包括/包含, [非][out]排除 = exclude
+		+ inclusive (adj)包含的/包括的, 包括一切在內的, 可以包容各種人的
 		+ /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
-		+ preclude (v)排除/防止 = prevent = avert
-		+ recluse (adj)隱遁的 (n)隱居者/隱士 = hermit --> reclusive (adj) = monastic 
-		* seclude (v)使…不與…接觸/使隔離 = confine = immure, 使隱居 = cloister <-- se 分開 = apart + clude
-		* seclusion (n)隔絕/孤立/隱居 = solitude, 隱蔽的地方/僻靜之地
+		+ preclude (v)[from]排除/防止 = prevent = avert
+		+ recluse (n)隱居者/隱士 = hermit  (adj)[古]隱遁的
+		+ reclusive (adj)隱遁的 = monastic = solitary
+		* seclude (v)使…不與…接觸/使隔離 = confine = immure <-- se 分開 = apart + clude
+		* seclusion (n)隔絕/隱居 = solitude
 
 	cuss 震動/打擊 = shake, strike
-		- cuss (n/v)詛咒/咒罵/罵人 (n)古怪的傢伙
-		- /kənˈkʌs/ concuss (v)使腦震盪, 使猛烈震盪 --> concussion (n)腦震盪, 強烈震動
+		- cuss (n/v)詛咒/咒罵 (n)[非]討厭的傢伙
+		- /kənˈkʌs/ concuss (v)使腦震盪/使失去意識 --> concussion (n)腦震盪, 強烈震動
 		- discuss (v)談論 --> discussion (n)討論/議論
-		- percuss (v)敲 --> percussion (n)撞擊, 打擊樂器/敲擊樂器 --> percussionist (n)打擊樂器演奏者
+		- percuss (v)[醫]輕敲..以作診斷
+		- percussion (n)打擊樂器/敲擊樂器, 打/敲, 叩診 
+		- percussionist (n)打擊樂器演奏者
 		*** repercussion (n)反響/反衝
 
 	copia 豐富 = plenty
@@ -1448,25 +1457,26 @@
 	copr, copror 軀體/團體 = corpus
 		- corpus (n)身體/軀體, 語料庫 = lexico, 文集/全集 = canon
 		- corpse (n)屍體 (v)因發笑而忘詞
-		- corporate (n)大公司 (adj)全體的/共同的, 團體的/大公司的 <|> cooperate --> corporation (n)法人/股份有限公司 
-		+ corporeal (adj)物質的 = material, 肉體的/身體的 = somatic
+		- corporate (n)大公司 (adj)全體的/共同的, 團體的/大公司的 <|> cooperate 
+		- corporation (n)法人/股份有限公司 
+		+ corporeal (adj)物質的 = material, 肉體的/身體的 = somatic, [法]有形的
 		- corpuscle (n)血球/血細胞
-		+ incorporate (v)合併/併入, 把...組成公司 (adj)合併的 = incorporated, 具有實體的 = embodied
+		+ incorporate (v)合併/併入 = include, 組合 = combine, 成立(法人) = constitute (adj)組成公司的 = incorporated, 具有實體的 = embodied
 
 	cosm 宇宙/世界 = world, universe
-		- cosmic (adj)宇宙的, 巨大無比的 = astronomical <|> comic
+		- cosmic (adj)宇宙的, 廣大無比的 = astronomical <|> comic
 		- cosmopolis (n)國際大都市 <|> metropolis
-		+ cosmopolitan (adj)四海為家的, 世界性的 (n)四海為家的人
+		+ cosmopolitan (adj)來自世界各地的/國際大都會的, 四海為家的, [生]世界的/遍生的 (n)國際大都會人, [生]世界種
 		- cosmopolitanism (n)世界主義/世界性
-		- cosmos (n)宇宙
+		- cosmos (n)宇宙, 完整體系, 大波斯菊
 		+ cosmology (n)宇宙起源論/宇宙學
 		+ microcosm
 
 	crit 判斷 = judge, umpire == arbit
 		*** /krʌɪˈtɪərɪən/ criterion -> criteria (n)標準 = yardstick
-		*** critic (n)批評者, 評論家
-		+ critical (adj)批評的/批判的/挑剔的, 關鍵性的/決定性的, 評論的
-		+ critique (n/v)評論
+		*** critic (n)持批評態度的人/批評者, 評論家
+		+ critical (adj)批評的/批判的, 評論性的, 危急的, 關鍵性的
+		+ critique (n/v)評論 = evaluate = appraise
 		* /ˈkrɪtɪsɪz(ə)m/ criticism (n)批評/指責/反對, 評論/評價
 		+ /ˈkrɪtɪsʌɪz/ criticize (v)分析/評論, 批評/批判/指責 = deplore = blame = castigate = censure = chastise = chide = condemn = denounce = excoriate = reprimand = upbraid
 		* hypocrisy (n)偽善 --> hypocritical (adj)偽善的/虛偽的 = insincere
@@ -2877,6 +2887,7 @@
 		- hieroglyphic
 		+ hagiography (n)聖徒傳記 --> hagiographic (adj)
 		- lexicographer (n)詞典編纂者
+		- mimeograph (n)油印機, 油印件 (v)油印
 		- monogram (n)交織字母/花押字 = cipher (v)把花押字印於
 		- oceanographer (n)海洋學家
 		- petroglyph
@@ -3288,6 +3299,7 @@
 			- infantilize (v)把..當成小孩般對待
 			+ infallible (adj)永無過失的/不會犯錯誤的 --> infallibility (n)無錯誤/無過失
 			+ infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
+			- infidel (n)[古]異教徒 (adj)[古]異教的
 			- infinite --> infinity
 			- infinitesimal
 			- infirm --> infirmary
@@ -4695,6 +4707,7 @@
 
 	out 超出/出 = beyond, surpass, out
 		- outage (n)停電期間/停止服務時期
+		- outback (n)澳洲內地, 人口稀少開發落後的邊疆地區
 		- outbound (adj)向外去的/往外地的 (adv)向外去
 		- outcrop (n)礦脈露出地面部分 (v)露出
 		+ outdated (adj)陳舊的/過時的 = obsolete
@@ -6696,6 +6709,7 @@
 		+ sacrilege (n)褻瀆/冒犯神靈 = blasphemy --> sacrilegious (adj)褻瀆神明的 <-- sacr + i + leg 偷取 = steal + e
 		+ sacrosanct (adj)極神聖的/不可侵犯的
 		* sanctify (v)使神聖化/使聖潔化 = consecrate = purify, 使可接受
+		- sanctity (n)聖潔/神聖, 不可侵犯/神聖 = inviolability
 		* sanctuary (n)避難所/庇護所 = asylum = refuge, 禁獵區 = reserve, 聖殿/聖堂 = temple
 		+++ /ˈsaŋ(k)ʃ(ə)n/ sanction (n/v)認可/批准 = approve = ratify = permit = authorize, 制裁/懲罰 = penalize (n)強硬措施
 		+ sanctimony (n)假裝的虔誠 --> sanctimonious (adj)假裝虔誠的 = pious = hypocritical = holier-than-thou
@@ -7417,6 +7431,7 @@
 		- tardy (adj)遲延的/遲到的 = late = belated = delayed, 緩慢的/遲緩的 = sluggish
 	
 	techno, techn 技術 = skill
+		- pyrotechnical (adj)煙火的, 非常好的/吸引人的 = brilliant = sensational
 		- technocracy (n)技術官僚政治 --> technocrat (n)技術專家政治主義者, 技術專家官員
 		+ technical (adj)工藝的/技術的, 專門的/技術性的, 嚴格按法律或規則的
 		- technology (mn)技術/科技

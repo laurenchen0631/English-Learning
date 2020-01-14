@@ -627,6 +627,7 @@
 	- We must decide on our target market, then zero in on it.
 	
 ## Emotion
+- give sb the finger 對..比中指表達憤怒
 - ill at ease 不安/不自在
 	- He seemed ill at ease and not his usual self.
 - roll one's eyes 翻白眼
