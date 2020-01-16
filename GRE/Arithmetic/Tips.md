@@ -20,6 +20,10 @@
 - numerator: a/b, a is numerator
 - denominator: a/b, b is denominator
 - absolute value: the distance of a number from the origin. |0| = 0
+- factor, divisor, divisible: If A, B, C are all integers, A*B = C
+	- A and B is the factor of C.
+	- A and B is the divisor of C.
+	- C is divisible by A or B.
 
 ## Fraction
 - if a > b and a&b are numerator, then (a/c) > (b/c)
@@ -58,3 +62,17 @@
 		- monthly: n = 12
 		- daily: n = 365
 	- If the bank pays 5% annual interest, compounding quarterly, the bank pays 1.25% quarter compounding interest.
+
+## Divisibility
+- How to find all factor of a large number?
+	- 2400 = 24 * 100 = 8 * 3 * 25 * 4 = 2^5 * 3 * 5^2, the number of factor = (5+1) * (1+1) * (2+1) = 6 * 2 * 3 = 36
+- Divisibility Rule
+	- Divisibility Rule for 2: all even numbers are divisible by 2.
+	- Divisibility Rule for 3: if the sum of each digits is divisible by 3, the number is divisible by 3.
+		- 135, 1 + 3 + 5 = 9, thus 3 is the factor of 135.
+		- 102334155, 1 + 0 + 2 + 3 + 3 + 4 + 1 + 5 + 5 = 24, thus 102334155 is divisible by 3.
+	- Divisibility Rule for 4: if the last two digit is divisible by 4, the number is divisible by 4.
+	- Divisibility Rule for 5: numbers that ends with 0 or 5.
+	- Divisibility Rule for 5: the number must be divisible by 2 and 3.
+	- Divisibility Rule for 9 if the sum of each digits is divisible by 9, the number is divisible by 9.
+		- 1296, 1 + 2 + 9 + 6 = 18,  thus 1296 is divisible by 9.

@@ -701,6 +701,7 @@
 	- simmer (v)煨/燉, 即將爆發, [down]冷靜 (n)即將沸騰狀態
 	- skewer (n)烤肉叉 (v)串起, [非]遭到嚴厲的批評
     - cutlery (n)餐具
+	- meringue (n)調合蛋白(蛋白拌糖打硬後置於餅或蛋糕上)
 
 	- goblet (n)高腳杯
 
@@ -720,6 +721,7 @@
 	- chicken finger (n)雞柳條
 	- granola (n)穀麥(一種以燕麥片、堅果、蜂蜜作為原料、經烘烤而成的食物)
 	- quesadilla (n)墨西哥酥餅
+	- tortilla (n)墨西哥玉米粉薄烙餅, 西班牙土豆炒雞蛋
 
 	- Nutella (n)能多益(義大利廠商Ferrero生產的棕櫚油巧克力榛果醬)
 	- Skittles (n)彩虹糖(一種果味糖果的品牌，目前由瑪氏食品的子公司箭牌股份有限公司進行生產)
@@ -1566,6 +1568,7 @@
 	- Mormon (n)摩爾門教徒，研讀摩爾門經和聖經的信徒，崇拜耶穌基督和祂的教導。摩爾門經是古代美洲大陸的紀錄，教會成員藉由研讀摩爾門經和聖經可以更加了解耶穌基督和祂的教導。並且相信神依舊在現代的世代中召喚先知，並且啟示給每個人在這世代中應該要注意的事
 	- fundamentalist (n)基本教義派(指某些宗教群体試圖回歸其原初的信仰的運動), 基要主義者 (adj)基本教義派的, 基要主義的
 	- LDS Church == the Church of Jesus Christ of Latter-day Saints (n)耶穌基督後期聖徒教會，總部位於美國猶他州鹽湖城，分支遍及世界。教會成員相信該教會復興了耶穌最初建立的教會
+	- Jesuit (n)耶穌會信徒
 
 	- Ten Commandments (n)十誡，根據《聖經》記載，是上帝耶和華藉由以色列的先知和首領摩西向以色列民族頒布的律法中的首要的十條規定
 	
@@ -1999,12 +2002,6 @@
 	- sill 門檻/窗台
 	- doorbell 門鈴
 	- duvet 鴨絨墊 == A soft quilt filled with down, feathers, or a synthetic fibre, used instead of an upper sheet and blankets.
-	- quilt
-		> 被褥 |A warm bed covering made of padding enclosed between layers of fabric and kept in place by lines of stitching, typically applied in a decorative design.|
-		> 縫被子 |Join together (layers of fabric or padding) with lines of stitching to form a bed covering, a warm garment, or for decorative effect.| a blue quilted jacket
-		> 刺繡床罩 |A knitted or fabric bedspread with decorative stitching.|
-		> 鴨絨墊 |A duvet.|
-		> 隔絕墊 |A layer of padding used for insulation.| the roof space should be insulated with a glass-fibre quilt at least 100 mm thick
 	- ceiling fan 吊扇
 	- lawn chair 野餐椅
 	- bunk bed 雙層床
