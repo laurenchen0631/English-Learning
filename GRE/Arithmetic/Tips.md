@@ -24,6 +24,17 @@
 	- A and B is the factor of C.
 	- A and B is the divisor of C.
 	- C is divisible by A or B.
+- multiple: if x is a multiple of y, then y is a factor of x.
+	- if two multiples of a number is added together, the sum is also the multiple.
+	- if two multiples of a number are subtracted, the difference is also the multiple.
+	- the product of two multiples of a number is also the multiple.
+- prime: a number that has only two factor: 1 and itself.
+	- 1 is not a prime number.
+	- 2 is the only even prime number.
+	- prime < 20: 2, 3, 5, 7, 11, 13, 17, 19
+	- 20 < prime < 60: 23, 29, 31, 37, 41, 43, 47, 54, 59
+	- prime > 100: test whether the number is divisible by prime numbers less than 10 (2, 3, 5, 7).
+	- A number must be a prime number or the product of prime numbers.
 
 ## Fraction
 - if a > b and a&b are numerator, then (a/c) > (b/c)

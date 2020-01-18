@@ -30,7 +30,7 @@
 - argument <--> augment
 - artifact <--> artifice <--> artificial
 - artful <--> artistic <--> arty
-- abrogate <--> arrogate <--> arrogant
+- abrogate <--> arrogate <--> arrogant <--> derogate
 - ailing <--> alimentary <--> alimony
 - allegory <--> allergy <--> allege <--> allegiance
 - allude <--> delude
@@ -40,7 +40,7 @@
 - astringent <--> stringent
 - assert <--> assume
 - ascetic <--> aseptic
-- attenuate <--> accentuate <--> accent
+- attenuate <--> accentuate <--> accent <--> extenuate <--> extenuating
 - authoritative <--> authoritarian
 - avarice
 - avow <--> vow <--> disavow
@@ -134,11 +134,12 @@
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
-- consort <--> consortium <--> comport
+- consort <--> consortium <--> comport <--> deport
+- constituent <--> constitutional
 - consummate
 - content <--> contention <--> contentment <--> contentious <--> consent
 - contingent <--> continent <--> contiguous 
-- contort
+- contort <--> distort <--> extort <--> retort
 - convene <--> contravene
 - convey <--> convoy
 - cooperate <--> corporate <--> coop 
@@ -160,6 +161,7 @@
 - covert <--> covet <--> overt
 - crane <--> crank
 - crumble <--> crumb <--> crumple <--> rumple
+- crackle <--> cackle
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
@@ -171,13 +173,13 @@
 - cuddle <--> fuddle <--> befuddle <--> muddle 
 - culpable <--> exculpate <--> inculpate
 - curate <--> curator <--> curable
-- curb <--> cub <--> carb <--> crab
+- curb <--> cub <--> crab <--> crud
 - cursory <--> cursor <--> cursive
 
 ## D
 - dabble <--> dribble <--> paddle <--> puddle <--> waddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
-- debauch
+- debauch <--> debouch
 - debilitate <--> deliberate
 - decaying <--> decadent <--> decadence
 - declaim <--> declamatory <--> disclaim
@@ -187,14 +189,19 @@
 - deed <--> deem
 - defile
 + defect <--> defection <--> deficit <--> deficient
+- deference <--> deferment
 - deft <--> daft
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
 - demean <--> demeanor
 - demur <--> demure <--> immure
+- demit <--> demise
 - denigrate
+- deprecate <--> depreciate
+- depress <--> distress
 - derive <--> derivative
 - derision <--> risible
+- desert <--> dissert
 - despise <--> despite
 - despot <--> unspotted
 - desiccate <--> dissipate
@@ -205,7 +212,9 @@
 - dialect <--> dialectic
 - digest <--> ingest
 - dim <--> din <--> dingy
-- dilatory <—-> dilate
+- dilatory <—-> dilate <--> dilute
+- disabuse
+- discharge <--> dispatch <--> dismiss <--> dispose <--> disposable
 - disciple <--> discipline
 - discomfit <--> discomfort
 - discompose <--> decompose
@@ -218,10 +227,17 @@
 - disgust <--> degust
 - disjoint <--> disjunction
 - dismissal <--> dismissive
+- disparage <--> disparate
 - dispense <--> dispensable <--> indispensable
-- disturb <--> disrupt <--> disruptive
+- dispute <--> depute <--> repute
+- dissimulate
+- distaste
+- distinguish <--> distinguished
+- disturb <--> disrupt <--> disruptive <--> distract
+- diverse <--> divert
 - divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
+- domestic <--> domicile <--> condominium
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -232,6 +248,7 @@
 - dub <--> dab <--> daub <--> dud <--> dude
 - due <--> undue
 - dull <--> hull
+- duress
 - dun <--> dune <--> dung <--> rung
 - dwindle <--> dawdle <--> doodle <--> swindle
 
@@ -239,9 +256,10 @@
 - eddy <--> ebb
 - effusive <--> elusive
 - egalitarian <--> equalitarian
+- elicit <--> explicit <--> explicate <--> implicit <--> implicate
 - embroil <--> boil
 - empire <--> empiric <--> empirical
-- enervate <--> innervate
+- enervate <--> innervate <--> unnerve
 - evolve <--> devolve
 - epithet <--> epitome
 eradicate <--> extirpate <--> annihilate <--> exterminate
@@ -258,6 +276,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - exemplum <--> exemplar <--> exempt
 - exercise <--> excise <--> incise <--> incisor
 - exhaust <--> exhaustive
+- exhort <--> cohort
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 - extirpate
@@ -290,11 +309,13 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - flinch <--> clinch <--> filth <--> filch <--> plinth
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
+- flux <--> influx
 - forlorn
 - forsake
 - forthcoming
 - fractious <--> fractional
 - frail <--> flail <--> fragile
+- fray <--> defray
 - fright <--> fraught <--> draught <--> drought
 - frivolous
 - front <--> frond <--> froth
@@ -306,7 +327,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - gambit <--> gamble <--> gambol <--> garble <--> gargle
 - gangster <--> angst 
 - gauche <--> gaudy
-- gaunt <--> gantlet
+- gaunt <--> gantlet <--> grunt <--> disgruntle
 - gawk <--> hawk <--> hawker
 - germane <--> germ
 - giddy <--> piddly
@@ -317,8 +338,9 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - gloat <--> bloat <--> glower
 - glum <--> glam <--> glue <--> glee <--> slum
 - gob <--> fob <--> fop <--> fad
-- grab <--> drab <--> drag
+- grab <--> drab <--> drag <--> crag <--> brag <--> snag
 - gregarious <--> egregious
+- gratify <--> ingratiate
 - grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
 - grind <--> grin
@@ -351,6 +373,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - histrionic <--> historic <--> historical <--> hysterical
 - hoard <--> board <--> hoary
 - hoe <--> hog
+- holdout
 - homage <--> homily <--> homey <--> homie <--> hone
 - hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
@@ -366,6 +389,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 
 ## I
 - idiom <--> idiot
+- ignominious
 - incandescent
 - incarcerate
 - incarnate <--> incarnadine <--> carnage <--> carnal
@@ -374,7 +398,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - invective
 - inveigh <--> inveigle <--> invective
-- ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous
+- ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous <--> indignant <--> indignity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
@@ -388,10 +412,11 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - iniquity <--> inanity
 - innate <--> natal
 - innuendo
-- intend <--> superintend
+- inoculate
+- intend <--> superintend <--> distend
 - inter <--> intern
 - intransigent <--> transient
-- invest <--> investiture
+- invest <--> investiture <--> divest <--> divestiture
 - inveterate <--> invertebrate <--> venerate
 - invidious <--> insidious
 - irritate <--> irrigate <--> irate
@@ -402,6 +427,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - jockey <--> hockey
 - jot <--> jut <--> jolt <--> jostle
 - juncture <--> junction
+- junta
 
 ## L
 - lacerate <--> macerate
@@ -414,7 +440,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - lesion <--> liaison
 - liable <--> liability
 - lair <--> liar
-- liberal <--> liberty <--> liberate <--> libertine
+- liberal <--> libel <--> liberty <--> liberate <--> libertine
 - lie <--> lay
 - limb <--> limber <--> limp
 - lime <--> limestone
@@ -426,7 +452,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - little <--> litter <--> liter <--> lit <--> lilt
 - inveterate <--> invertebrate
 - loath <--> loathe
-- lobe <--> lode <--> lodge
+- lobe <--> lode <--> lodge <--> dislodge
 - lull <--> loll <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
@@ -525,6 +551,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - pawn <--> palm <--> qualm
 - peach <--> preach <--> breach <--> impeach
 - peak <--> peck　<--> perk <--> perky <--> pesky
+- pedestrian <--> pedagogy <--> pedant <--> pediatric
 - peel <--> pelt <--> belt
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
@@ -549,6 +576,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - ponderous <--> ponder
 - poppy <--> pop <--> poop
 - portion <--> potion
+- posit <--> position <--> post <--> posture <--> posterity <--> postulate
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
 - praise <--> appraise <--> apprise
@@ -594,7 +622,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - queer <--> sheer <--> steer
 - querulous <--> quarrelsome
 - quibble <--> squabble <
-- quiescence <--> quintessence
+- quiescence <--> quintessence <--> disquiet <--> quietus
 - quorum <--> quota <--> quote
 
 ## R
@@ -604,7 +632,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - raise <--> raisin
 - rampage <--> rampart
 - random <--> ransom <--> bosom
-- ravine <--> ravish <--> rave <--> ravage <--> raven <--> unravel
+- ravine <--> ravish <--> rave <--> ravage <--> raven <--> ravenous <--> unravel
 - react <--> reactionary
 - recant
 - raconteur <--> rancor <--> rancid
@@ -618,6 +646,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - recreant
 - reek
 - reflective reflexive
+- remiss <--> remit <--> remission
 - renaissance <--> reconnaissance
 - repatriate
 - replete <--> deplete
@@ -626,9 +655,10 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - respite <--> respect
 - restive <--> restless <--> unrest
 - retain <--> retrain
+- retire <--> retiring
 - retina <--> patina
 - retrench <--> retreat <--> entrench
-- revere <--> reverie
+- revere <--> reverie <--> reversion
 - rib <--> rig <--> rip
 - rind
 - ribald <--> rabid <--> rabies
@@ -740,6 +770,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - studious <--> studied
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
+- subsist
 - sullen <--> sully
 - superfluous <--> superficial
 - supplant <---> suppliant
@@ -756,6 +787,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - tenebrous
 - teensy <--> tinny
 - tentative
+- testy <--> detest
 - thick <--> thicket
 - thread <--> tread <--> threat
 - through <--> trough
@@ -776,6 +808,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - treat <--> treatise <--> treaty
 - trench <--> drench <--> wrench
 - tribulation <--> tribunal <--> tribal
+- trite <--> contrite <--> attrit
 - tromp <--> romp
 - troop <--> troupe <--> trope <--> grope  <--> toupee
 - trove <--> rover <--> stove
@@ -787,7 +820,8 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 
 ## U
 - umpire <--> empire
-- undertone
+- unconscionable <--> conscionable
+- undertone <--> underwrite
 - unexceptional <--> unexceptionable <--> unexpected
 - unctuous
 - urbane <--> urban <--> suburban
@@ -801,6 +835,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - vessel <--> vassal
 - venal <--> venial <--> vernal <--> vandal
 - veritable <--> verifiable1
+- vicarious
 - vie <--> vile <--> vilify <--> revile
 - vindicate <--> vindictive
 - vintage <--> vantage
