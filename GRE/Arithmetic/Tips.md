@@ -1,9 +1,9 @@
 ## General
-- To get a squared number which ends with 5, we slice 5 from the number and multiple it with its increment with 1, and postfix the result with 25.
+- **To get a squared number which ends with 5, we slice 5 from the number and multiple it with its increment with 1, and postfix the result with 25.**
 	- 35^2 = (3 * 4), 25 = 1225
 	- 75 * 75 = (7 * 8), 25 = 5625
 	- 115 * 115 = (11 * 12), 25 = 13225
-- To get (n+1)^2, if we know n^2, we add n and (n+1) to n^2, and then the result will be (n+1)^2
+- **To get (n+1)^2, if we know n^2, we add n and (n+1) to n^2, and then the result will be (n+1)^2**
 	- n^2 + n + n + 1 = (n+1)^2
 	- 41^2 = 40^2 + 40 + 41 = 1681
 	- 69^2 = 70^2 - 70 - 69 = 4761
@@ -17,6 +17,8 @@
 - difference: the result of subtraction
 - product: the result of multiplication
 - quotient: the result of division
+- dividend: 20 / 3, and 20 is the dividend
+- divisor: 20 / 3 and 3 is divisor
 - numerator: a/b, a is numerator
 - denominator: a/b, b is denominator
 - absolute value: the distance of a number from the origin. |0| = 0
@@ -34,16 +36,49 @@
 	- prime < 20: 2, 3, 5, 7, 11, 13, 17, 19
 	- 20 < prime < 60: 23, 29, 31, 37, 41, 43, 47, 54, 59
 	- prime > 100: test whether the number is divisible by prime numbers less than 10 (2, 3, 5, 7).
-	- A number must be a prime number or the product of prime numbers.
+	- Prime Factorization
+		- A number must be a prime number or the product of prime numbers.
+- GCF (Greatest Common Factor): **Use prime factorization to find GCF**
+	- GCF of 360 and 800 is 2^3 * 5 = 40
+		- 360 = 2^3 * 3^2 * 5
+		- 800 = 2*5 * 5^2
+- LCM (Least Common Multiple), LDC (Least Common Denominator): **Use GCF to find LCM**
+	- The LCM of 24 and 32 is 8 * 3 * 4 = 96
+		- 24 = 2^3 * 3
+		- 32 = 2^5
+		- GCF = 8, and then rewrite the numbers in the form of GCF
+		- 24 = 8 * 3
+		- 32 = 8 * 4
+		- The LCM is the product of the three factors.
+	- If G is GCF, A = G * M and B = G * N, the LCM of A and B is G * M * N
+	- **LCM = (A*B) / GCF**
+	- If A is a factor of B, the LCM must be B
+	- If GCF of A and B is 1, the LCM must be A * B
+- Consecutive integers: {1,2,3,..}, {70,71,72}
+	- If there are n consecutive integers, there must contain a number that is divisible by n
+	- If n is odd, the sum of n consecutive integers must be divisible by n: ... n-2, n-1, n, n+1, n+2 ...
+
+## Even and Odds Integer
+- 0 is an even number
+- E + E = E and E - E = E
+- **O + O = E and O - O = E**
+- E + O = O and E - O = O
+- E * E = E
+- O * O = O
+- **E * O = E**
+- Division of evens and odds has general rule.
+	- E/E = E or O or decimal
+	- O/O = O or decimal
+	- O/E = x or decimal
 
 ## Fraction
 - if a > b and a&b are numerator, then (a/c) > (b/c)
 - if p > q and p&q > 0 and are denominator. then (s/p) < (s/q)
 - Cross multiplication: a/b = c/d --> ad = bc
-- Comparison using cross multiplication
+- **Comparison using cross multiplication**
 	- (7/11) ? (5/8) --> 56 ? 55 --> (7/11) > (5/8)
 	- (9/20) ? (4/9) --> 81 > 80 --> (9/20) > (4/9)
-- If we add a number p to the numerator and a number q to the denominator, the result will get close to p/q.
+- **If we add a number p to the numerator and a number q to the denominator, the result will get close to p/q.**
 	- For the number that is less than p/q, the result become greater.
 	- For the number that is greater than p/q, the result become smaller.
 
@@ -73,10 +108,13 @@
 		- monthly: n = 12
 		- daily: n = 365
 	- If the bank pays 5% annual interest, compounding quarterly, the bank pays 1.25% quarter compounding interest.
+	- **Use simple compound to approximate the compound interest** 
 
 ## Divisibility
-- How to find all factor of a large number?
+- **How to find all factor of a large number?**
 	- 2400 = 24 * 100 = 8 * 3 * 25 * 4 = 2^5 * 3 * 5^2, the number of factor = (5+1) * (1+1) * (2+1) = 6 * 2 * 3 = 36
+	- How to find all *odd* factor: remove factor 2 from permutation. ~~(5+1) *~~ (1+1) * (2+1) = 2 * 3 = 6
+	- How to find all *even* factor: all factor - odd factor. 36 - 6 = 30
 - Divisibility Rule
 	- Divisibility Rule for 2: all even numbers are divisible by 2.
 	- Divisibility Rule for 3: if the sum of each digits is divisible by 3, the number is divisible by 3.
@@ -87,3 +125,8 @@
 	- Divisibility Rule for 5: the number must be divisible by 2 and 3.
 	- Divisibility Rule for 9 if the sum of each digits is divisible by 9, the number is divisible by 9.
 		- 1296, 1 + 2 + 9 + 6 = 18,  thus 1296 is divisible by 9.
+
+## Problem Solving Strategy
+- Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
+	- Improvement: choose the middle answer and see the difference is greater or lesser.
+- Always check whether the question define the variable to be integers or not.

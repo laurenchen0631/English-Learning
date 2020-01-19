@@ -133,6 +133,7 @@
 			+ anomaly (n)異常/異常事物 --> anomalous (adj)異常的/不正常的 = irregular = aberrant
 			+ anonymity --> anonymous 
 			- /ˌanəˈrɛksɪə/ anorexia (n)食慾缺乏症, 厭食症 <-- an + orex 胃口/渴望 = longing
+			- anoxia (n)缺氧症/極度缺氧 --> anoxic (adj)
 			- anhydrous
 			+ apathy --> apathetic
 			+ apolitical (adj)不關心政治的/無政治傾向的
@@ -900,7 +901,7 @@
 		*** course (n)路線, 過程/進程, 方針/做法 = way, 一道菜, (競賽)跑道/場地, 課程, 一連串(治療), 一層磚石, 追獵 (v)流動 = flow, 追獵
 		- courier (n)信差/遞送員 (v)通過遞送員遞送
 		** discourse (n/v)演講/演說 = dissert, 對話/交流 = talk = conversation = converse (n)論文/文章
-		+ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
+		++ discursive (adj)離題的 = digressive, 侃侃而談的, 演說的
 		- excursion (n)遠足/短途旅行, 偏離/背離 = deviation --> excursive (adj)偏離的 = digressive
 		- incur (v)招致
 		+ incursion (n)侵略/入侵/襲擊 = invasion
@@ -1791,7 +1792,7 @@
 
 		3. 加強 == de
 			* disturb --> disturbed --> disturbance
-			+ discourse --> discursive
+			++ discourse --> discursive
 			+ discreet --> discretion --> discretionary
 			+ discrete
 			- disgruntle (v)使不高興/使不滿意 <-- dis + grunt + le
@@ -1806,26 +1807,26 @@
 
 	di, dicho, du, duo 二/雙 = two 
 		+ dichotomy
-		+ /dɪˈlɛmə/ dilemma (n)兩難困境/左右為難 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption, premise
-		- dual (adj)雙重的 <|> duel <|> duet
+		+ /dɪˈlɛmə/ dilemma (n)兩難/左右為難, 困境 = quandary = quagmire = predicament <-- di + lemma 假設 = assumption
+		- dual (adj)雙重的 (n)雙數詞 <|> duel <|> duet
 		- duality (n)雙重性, 二象性, 對比性/二元論
-		- duel (n)決鬥
-		- duet (n)二重唱/二重奏
-		+ duplicity <|> duplicate
+		- duel (n)決鬥, 鬥爭 (v)決鬥
+		- duet (n/v)二重唱/二重奏
+		+ duplicity --> duplicitous
 		+ duplicate
 		- duplex
 	
 	di 天 = daily
 		+ circadian (adj)生理節奏的
-		+ /dʌɪˈəːnəl/ diurnal (adj)白天的, 每天的 = daily
-		- dial (n)錶盤, 旋鈕 (v)收聽/收視, 撥號
+		+ /dʌɪˈəːnəl/ diurnal (adj)白天的, 日行性的, 每天的 = daily
+		- dial (n)表盤/鐘盤, 刻度盤/示數盤, 撥號盤, 旋鈕 = knob (v)撥(電話號碼)
 		- diary (adj)日記
-		+ /kwɒˈtɪdɪən/ quotidian (adj)每天的 = everday, 平凡的 = commonplace = ordinary = prosaic = mundane <-- quoti 每 = every + di
+		+ /kwɒˈtɪdɪən/ quotidian (adj)每天的 = everday, 平凡的 = commonplace = prosaic = mundane <-- quoti 每 = every + di
 
 	dia
 		1. 穿過 = pass through = across
 			- /ˈdʌɪəˌθəːmi/ diathermy (n)電療
-			- /dʌɪˈalɪsɪs/ dialysis (v)透析
+			- /dʌɪˈalɪsɪs/ dialysis (n)透析
 			+ diagnose --> diagnostic --> diagnosis
 			- diaphragm (n)橫膈膜, 隔板/膈膜, 子宮帽, 快門/光圈
 			+ diatribe
@@ -1848,43 +1849,46 @@
 		- dystopic (adj)反烏托邦的
 	
 	div, dei, deus 神 = god
-		++ divine (v)占卜/預言 = augur, 推測 (adj)神的, 天賜的, 神聖的, 非凡的 --> divination (n)占卜/預言 = augury, 預測
-		- /ˈdeɪɪfʌɪ/ deify (v)奉為神明/崇拜 = worship = adore --> deification (n)神化, 崇拜
+		++ divine (v)猜測, 占卜/預言 = augur, 探(水) (adj)神的, 神聖的, [非]美妙的/美好的 = pleasant (n)神學家/牧師
+		+ divination (n)占卜/預言 = augury
+		- /ˈdeɪɪfʌɪ/ deify (v)奉為神明/崇拜 = worship = adore --> deification (n)
 		- /ˈdeɪɪsʌɪd/ deicide (n)殺神
 		- deity (n)神, 神性
 
 	deci 十分之一 = tenth
-		- decennial (adj)十年間的/每十年的
+		- decennial (adj)每十年的, 十年期的
 		* decibel (n)分貝 <-- deci + bel 貝(音量單位)
-		+ decimate (v)毀滅/大幅削減 --> decimation (n)大屠殺, 大幅削弱
+		+ decimate (v)屠殺, 大幅削弱/重挫 --> decimation (n)大屠殺, 大幅削弱/重挫
 		- decimal (adj)十進位的, 小數的 (n)小數
 
 	dic, dict, dit 說話/命令/要求 = say
-		+ abdicate (v)退位, 背棄(承諾)
-		- addict (n/v)上癮
+		+ abdicate (v)退位, 放棄(職責) = 
+		- addict (n)成癮者, [非]上癮
 		- benediction (n)祝福 = benison = invocation, 受祝福者
-		+++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定, 使處於良好狀態, 訓練/使習慣於, 為..設立條件, 用護髮素
-		+ conditional (adj)有條件的 <--> absolute
-		* conditioning (adj)訓練的/調適的
-		+ contradict (v)反駁/否定/與...相矛盾 = refute = belie = deny --> contradictory (adj)互相矛盾的/對立的
-		+ dictate (v)命令/下令, 決定, 大聲說/朗誦 (n)命令
-		- dictator (n)命令者, 獨裁者 = autocrat
+		+++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定/影響, 訓練/使習慣於, 使處於良好狀態, 用護髮素, 設立先決條件
+		+ conditional (adj)有條件的 <--> absolute (n)條件句；
+		* conditioning (n)訓練
+		+ contradict (v)反駁/否定 = refute = deny, 與…有抵觸
+		+ contradictory (adj)矛盾的/對立的, 不一致的
+		+ dictate (v)命令/下令, 影響/決定, 大聲說/朗誦 (n)命令
+		- dictator (n)獨裁者/暴君 = autocrat, 獨斷專行者
 		+ dictatorial (adj)專制的/專橫的 = imperious = overbearing = arrogant
 		- /dɪkˈteɪtəʃɪp/ dictatorship (n)獨裁政府, 獨裁國家, 專政
-		+ dictum (n)名言/格言 = adage = aphorism
+		+ dictum (n)官方聲明, 名言/格言 = adage = aphorism
 		- edict (n)敕令/官方命令
-		- indicate (v)指示/指出/表明, 象徵/暗示
+		- indicate (v)表明/顯示, 暗示 = intimate, (儀器)標示/顯示 = gage, 被建議/有必要
 		- indicia (n)指標/徵兆 = sign = indication
 		* indicative (adj)[of/that]象徵的/暗示的, [文]直說法的 (n)直說法
-		+ indict (v)起訴/控告 = accuse = inculpate --> indictment (n)起訴書 (mn)控告/告發
-		+ interdict (v)禁止 = prohibit = forbid, 切斷補給
+		+ indict (v)起訴/控告 = accuse = inculpate --> indictment (n)控告/起訴, 起訴書/公訴書
+		+ interdict (n)禁令 (v)禁止 = prohibit = forbid, 切斷補給
 		+ malediction (n)詛咒 = curse = imprecation <--> benediction
 		+ valedictory (adj)離別的/告別的 --> valediction (n)告別/告別演說 <-- vale 告別 = farewell + dict + ory
 		- verdict
 
 	doc 教 = teach
-		+ /ˈdəʊsʌɪl/ docile (adj)順從的/聽話的/易控制的 = submissive = obedient = amenable = deferential = obsequious
-		+ /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義/學說 = tenet --> doctrinaire (adj)教條主義的 = dogmatic, 脫離實際的/空論的 (n)空論家, 教條主義 
+		+ /ˈdəʊsʌɪl/ docile (adj)順從的/易控制的 = submissive = obedient = amenable = deferential
+		+ /ˈdɒktrɪn/ doctrine (n)(政治或宗教的)信條/教義 = tenet
+		+ doctrinaire (adj)教條主義的/脫離實際的 (n)空論家/教條主義者 
 		- indoctrinate (v)教導/灌輸思想 = inculcate
 		+ document (n)文件/公文 (v)用文件證明, 紀錄
 		+ documentary (adj)紀實的/記錄的, 文件的/文書的 (n)紀錄片
@@ -1893,15 +1897,16 @@
 		* condolence (n)弔唁/慰問
 		+ doleful (adj)悲傷的 = mournful
 		+ dolorous (adj)憂傷的
-		+++ indolent (adj)懶惰的 = slothful = sluggish = lazy = idle, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) = sloth <|> insolent
+		++ indolent (adj)懶惰的 = slothful = sluggish, [醫]小痛的/無痛的, [醫]進展緩慢的 --> indolence (n) <|> insolent
 
 	dom, domi, domin
 		1. 統治者 = lord
-			- domain (n)領土, 領域/方面, 所有地
-			++ dominate (v)支配/統治, 俯視/俯瞰 = overlook --> dominant (adj)主要的/主導的, (基因)顯性的, 高聳的 
-			(n)顯性基因, 優勢物種
-			* domineer (v)跋扈/作威作福 = tyrannize --> domineering (adj)跋扈的/專橫的 = overbearing = imperious = arrogant = dictatorial
-			- dominion (n)統治權 = sovereignty = control, 絕對所有權 = dominium, 領地/領土
+			- domain (n)領土, 領域/方面, 域
+			+ dominate (v)支配/統治, 俯視/俯瞰 = overlook
+			+ dominant (adj)主要的/主導的, (基因)顯性的, 高聳的 (n)顯性基因, 優勢種, 全階第五音
+			* domineer (v)跋扈/作威作福 = tyrannize
+			* domineering (adj)跋扈的/專橫的 = overbearing = imperious = arrogant = dictatorial
+			- dominion (n)統治/支配 = sovereignty = control, 領地/領土
 
 		2. 家 = house
 			- condominium, condo (n)公寓大樓, 公寓住房, 被兩個或多個外國勢力共同管轄的國家 (mn)共同管轄
@@ -2266,6 +2271,7 @@
 		* entangle (v)捲入/連累 = mire = involve, 使纏住
 	    - entity (n)實體 (mn)存在/本質
 		- entitative (adj)[哲]實體的/本質的 --> entitativity (n)主體性
+		- entomb (v)埋葬
 		- /ˈɛntr(ə)nt/ entrant (n)新成員/新職員, 參賽者/考生, 首次銷售某種產品的公司 <-- enter
 		+ enterprise (n)事業, 企業, 進取心/冒險精神 = initiative <-- inter + prise 抓住 = seize, take
 		* /ˌɒntrəprəˈnəː/ entrepreneur (n)企業家/事業創辦者 <-- enterprise + eur
@@ -2295,7 +2301,7 @@
 	extra, extro, exter 外面/超過
 		- extracurricular (adj)課外的, 婚外的
 		+ extraneous (adj)外來的 = extrinsic, 無關的 = irrelevant <--> apposite
-		- extrapolate (v)預測/推測 = speculate --> extrapolation (n)預測/推測 <-- extra + interpolate
+		* extrapolate (v)預測/推測 = speculate = divine --> extrapolation (n)預測/推測 <-- extra + interpolate
 		+ extravagant --> extravagance
 		- extrovert 
 		* external (adj)外面的, 外來的, 表面的 --> externalize (v)賦予外形, 使具體化, 投射 <-- exter 外面 = outside + nal
@@ -3981,7 +3987,8 @@
 	labor, labyr 勞動 = work
 		- collaborate (v)合作/協作, 勾結/通敵/叛國 --> collaborator (n)合作者, 內奸 = quisling
 		- collaborative (adj)合作的
-		+++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, [on]詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 --> elaboration (n)精心製作, 詳細闡述/細節
+		+++ /ɪˈlab(ə)rət/ elaborate (v)精心製作, [on]詳盡闡述 = expand on (adj)精心製作的/精巧的/複雜的/詳盡的 
+		+++ elaboration (n)精心製作, 詳細闡述/細節
 		+++ labor (n)勞動/有薪勞動, 勞工, 分娩/陣痛 = travail (v)勞動 = toil, 奮鬥 = strive, 分娩
 		+ /ləˈbɔːrɪəs/ laborious (adj)耗時費力的/艱巨的/艱難的 = ardous = burdensome = onerous = strenuous = tiresome
 		- labored (adj)吃力的 = strained, 不自然的 = unnatural
@@ -4749,7 +4756,7 @@
 		* outlaw (n)逃犯/罪犯, 被剝奪法律權益者 (v)宣布……為不合法, 剝奪……的法律保護 = proscribe
 		- outlay (n)花費 = expense
 		- outlet (n)出水口/排氣口, 銷路, 市場, 商行, 發洩途徑
-		- outlier (n)局外人/門外漢, 分離物
+		- outlier (n)離開本體的部分/分離物, 離群值
 		- outline (n)外形/輪廓, 提綱/概要 (v)畫出……的輪廓, 概述
 		- outlive (v)比...活得更久 
 		- outlook (n)觀點/看法 = point of view, 景色, 前景 = prospect

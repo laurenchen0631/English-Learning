@@ -103,6 +103,7 @@
     - adobe (n)泥磚, 做泥磚用的黏土
     - aging, ageing (n)老化, 陳化/熟化 (adj)老年的 = elderly, 使用年限將至的
     - aegis (n)盾, 保護/庇護 
+    - aeon, eon (n)永世/萬古, 億萬年
     - aftermath (n)後果/餘波, 再生草/被吃掉後長出的草
     - afterthought (n)事後的想法/後來添加的東西
     - agog (adj)興奮的/渴望的 = avid <-- a + gog 趣味 = fun
@@ -864,6 +865,7 @@
     - commentator (n)評論者, 實況解說員
     - commentary (n)評論, 實況報導, 註釋
     - conical (adj)圓錐形的
+    - cordon (n)封鎖線, 飛簷層 (v)[off]封鎖隔離/設置警戒線將…圍起
     - cork (n)軟木, 木栓層, 軟木塞, 釣魚用的軟木浮子 (v)用軟木塞塞住, 用軟木炭塗, 用軟木填塞(球棒)
     - corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
     - corona (n)日冕, (太陽或月球周圍的)暈, [解]冠狀部位, (教堂的)環形吊燭架, [建]挑簷滴水板, 長雪茄菸
@@ -1215,6 +1217,7 @@
     - /ˈɛspɪənɑːʒ/ espionage (n)諜報活動
     - espy (v)看見 = descry <-- [法]間諜 = spy
     - estate (n)地產, 私有土地/莊園, 資產/遺產
+    - /ˈɛstjʊ(ə)ri/ estuary (n)河口
     - /iːv/ eve (n)前一刻/前夕, 前夜/前夕, 傍晚 = evening
     - even (adj)平坦的/平滑的, 水平的, 同樣的, 對等的/均等的, 規律的 = regular, 鎮定的/沈著的 = equable, 偶數的 (v)使平整, [out]公平/使相等 (adv)甚至
     - eye-opening (adj)令人大開眼界的 = enlightening
@@ -1516,6 +1519,7 @@
     - frail (adj)脆弱的/虛弱的 = feeble, 易碎的/亦受損的 (n)[非]女性 <-- fragile
     - frailty (n)脆弱/虛弱, (性格上的)弱點/缺陷
     - frame (n)框, 身體, 架構 (v)表筐, 構築, 陷害
+    - frangible (adj)脆弱的/易碎的 = fragile
     - freak (n)反常現象, 畸形的生物或植物, 怪胎, 狂熱者, 藥物成癮者 (v)(使)反常, [out]嚇到
     - freakish (adj)反常的/古怪的 = aberrant = strange - fantastic
     - freckle (n)雀斑/小斑點 (v)生雀斑
@@ -1722,6 +1726,7 @@
     - glaze (v)給……裝玻璃, 給……上釉 (n)光滑的表層, 釉/釉料, 眼翳 <-- glass
     - gleam (v)發微光/閃耀 (n)微光/閃光, 一絲(情感) --> gleaming (adj)閃亮的
     - glimmer (v)發微光 (n)微光, 少許
+    - glint (v)閃閃發光 = glitter, (眼中)閃爍 = glitter (n)反光, 閃爍(情感)
     - glitter (v)閃閃發光, [with](眼中)閃爍 (n)閃光/閃耀, 閃爍(情感) (mn)小發光物, 華麗/光彩
     - glittery (adj)閃爍的, 發光材料裝飾的, 迷人但膚淺的
     - glisten (n/v)閃耀/閃爍/反光 <-- glitter
@@ -1891,6 +1896,7 @@
     - hacktivist (n)信念駭客 <-- hack + activist
     - haggle (v)討價還價 = bargain = dicker
     - hale (adj)(尤指老人)健壯的
+    - halfway (adj)中途的 (adv)在中途, 到某種程度 = to some extent
     - half-baked (adj)考慮不周全的, 愚蠢的 = foolish
     - half-truth (n)片面真理(可能是部分是正確的，該語句可能完全真實的，但只包括全部真相中的一部分)
     - halo (n)(環繞日月等的)暈, (基督及聖徒像頭部的)光環
@@ -2459,6 +2465,7 @@
     + minatory, minatorial (adj)威脅的/威嚇的 = threatening = menacing <-- mina 威脅 = menace
     * minacious (adj)威嚇的 = minatory --> minacity (n)威脅性
     ++ mindful (adj)注意的/小心的 = attentive = aware = careful, 冥想的, 願意的 = willing to
+    ++ mindfulness (mn)警覺/察覺 = consciousness, 入神/冥想
     ++ /mʌɪə/ mire (n)泥沼 = marsh, 汙泥, 困境 = quagmire = scrape (v)使陷入(泥坑), 用泥土用髒, 捲入/陷入 = involve = entangle
     ++ /məːθ/ mirth (n)歡笑/歡樂 = merriment = amusement = laughter = hilarity = jollity
     + /ˌmɪsəˈleɪnɪəs/ miscellaneous (adj)混雜的/各種各樣的 = mixed = varied = manifold = sundry = heterogeneous
@@ -2499,6 +2506,8 @@
     ++ muddle (v)使混亂 = jumble = confuse = mingle, 使困惑 = obfuscate = bewilder = confound, 忙亂, 特調 (n)混亂
     + /mʌnˈdeɪn/ mundane (adj)乏味的 = dull, 現世的/世俗的 = lay = profane = temporal = worldly
     + murk (n)黑暗/朦朧 = darkness = gloom --> murky (adj)黑暗的/不清楚的 = = dark = gloomy = obscure, (液體)混濁的, 不明朗的
+    - mute (adj)一時說不出話的, 沈默的 = slient, [貶]啞的, 不發音的 (n)[貶]啞巴, 弱音器 (v)消除/減輕(聲音), 減弱
+    + muted (adj)不響亮的/輕輕的, (顏色)柔和的/不耀眼的
     * /mʌɪˈəʊpɪə/ myopia (n)近視, 目光短淺/缺乏遠見 <--> hemianopia
     ++ myopic (adj)近視的 = near-sighted = shortsighted, 短視近利的 = shortsighted <-- myopia
     + /ˈmɪrɪəd/ myriad (n)無數/大量 (adj)許多的/無數的 = innumerable, 各種各樣的
@@ -2514,11 +2523,11 @@
     *** mass (n)一團, 色塊, 大群, 大量, [masses]大量, [the mass of]大多數, 大眾, 質量, 重量 (adj)大規模的/大批的 (v)集中/聚集
     *** maternal (adj)產後的, 母親的 = motherly, 母系的 <-- matern 母親
     * matrilineal (adj)母系的 = maternal
-    *** mean -> meant -> meant (v)代表/意味著 = signify, 意圖 = intend, [to]對…具有意義, [be meant to]應該/預期, [be meant for]用於 (adj)刻薄的/令人不悅的 = spiteful, 兇惡的 = vicious = aggressive =  asty = malicious = vindictive = wanton, 破爛的 = shabby, 低賤的 = humiliated = ashamed, [非]出色的 = excellent, 平均的 = average, 中間的/中等的 (n)平均數, 中間/中等
+    *** mean -> meant -> meant (v)代表/意味著 = signify, 意圖 = intend, [to]對…具有意義, [be meant to]應該/預期, [be meant for]用於 (adj)刻薄的/令人不悅的 = spiteful, 兇惡的 = vicious = aggressive, 破爛的 = shabby, 低賤的 = humiliated = ashamed, [非]出色的 = excellent, 平均的 = average, 中間的/中等的 (n)平均數, 中間/中等
     * merry (adj)快樂的/興高采烈的 = blithe = joyous = jolly, [非]微醺的 --> merriment (mn)快樂/興高采烈 = mirth = gaiety
     * mesh (n)網, 網格, 網狀物 (v)使嚙合 = interclock = engage, 使纏住 = entangle = entwin, 緊密配合/相互協調
     * middlebrow (adj)知識或教養中等的 (n)知識中等的人
-    * /mʌɪld/ mild (adj)溫和的/和緩的/不嚴重的 <--> acute, 氣候溫和的 = balmy = clement, (食物)淡的, 溫和的/隨和的 = affable = amiable <|> mile /mʌɪl/
+    * /mʌɪld/ mild (adj)溫和的/不嚴重的 <--> acute, 氣候溫和的 = balmy = clement, (食物)淡的, 溫和的/隨和的 = affable
     ** milk (n)牛奶, 白色汁液 (v)擠奶, 擠出, 榨取 = exploit
     * /mʌɪm/ mime (n)啞劇, 啞劇演員 (v)以默劇的形式表演, (配合已錄好的錄音)做模擬動作/假唱
     ** mince (v)切碎/剁碎, 裝腔作勢地小步快走
@@ -2629,7 +2638,6 @@
     - milt (n)魚的精子, 雄魚的生殖腺
     - minaret (n)叫拜樓/光塔(清真寺的尖塔)
     - mind-blowing (adj)[非]令人印象深刻的/令人驚奇的 = exciting = surprising, (毒品)引起幻覺的
-    - mindfulness (mn)警覺/察覺 = consciousness, 入神/冥想
     - mindset (n)心態
     - minefield (n)雷區/地雷區
     - minnow (n)米諾魚/鰷魚, 微不足道的機構或人 <|> winnow
@@ -2668,6 +2676,7 @@
     - mow (v)除/割/刈(草) (n)乾草堆/穀物堆, 乾草堆放處
     - movement (n)移動/活動, 飛機的出發或離開, 某人的下落, 發展 = change = development, 運動/活動, 群眾, 樂章, 排泄糞便
     - muck (n)髒東西, 動物的糞便, [非]品質低劣的東西 (v)施肥
+    - mucky (adj)骯髒的, 卑鄙的 = corrupt = sordid
     - muddy (adj)泥濘的, 渾濁的 = dirty-looking, (音樂)重濁的, 令人困惑的/不合邏輯的 = confused = illogical (v)使沾上爛泥, 使..更加難以理解 
     - muffle (v)(為保暖)包裹/裹住, 裹住...使其聲音低沉, 使..低沉
     - muffled (adj)低沈的/聽不太清的 = muted
@@ -2683,7 +2692,6 @@
     - musket (n)舊式步槍/毛瑟步槍
     - muster (v)召集(軍隊) = assemble, 聚集/收集 = collect = assemble, 鼓起 = summon up (n)召集
     - masturbate (v)對……行手淫, 手淫
-    - mute (adj)一時說不出話的, 沈默的 = slient, [貶]啞的, 不發音的 (n)[貶]啞巴, 弱音器 (v)消除/減輕(聲音), 減弱
     - mutiny (n/v)反叛/叛亂 --> mutineer (n)反叛者/背叛者
     - mutter (v)嘀咕 = mumble = murmur, 偷偷抱怨 (n)咕噥
 
@@ -2705,7 +2713,6 @@
     + nettlesome (adj)令人惱怒的
     ++ nice (adj)好的/宜人的 = pleasant = satisfactory, 好心的/友好的 = kind, 細微的/精細的 = subtle = fine, 需要小心的
     +++ /nɪtʃ/ niche (n)壁龕, 合適的職務, 合宜的小環境, 利基 (v)把..放入壁龕 (adj)特定的
-    + nigh (adv)[古]接近地/靠近地, [古]幾乎 (prep)[古]接近 (adj)[古]接近的
     ++ noisome (adj)惡臭的 = fetid, 令人不快的 = disagreeable <-- noi 討厭 = annoy + some
     ++ /ˈnɒv(ə)l/ novel (adj)新穎的/新奇的 (n)小說 --> novelty (mn)新穎 (n)新奇的事物, 小巧而廉價的物品
     - novella (n)短篇故事/中篇小說 
@@ -2723,7 +2730,7 @@
     * narrative (n)故事, 記敘文 (adj)敘述的/講故事的 
     * native (n)本地人, 原住民, 原生動植物 (adj)出生地的, 本地的, 原生的, 天生的 = innate, 純的(礦物)
     * nay (adv)而且/甚至 = or rather (n)否定/拒絕
-    ** negotiate (v)商議/談判/交涉, 順利通過/成功越過, 轉讓, 洽兌 --> negotiation (n)商議/談判, 轉讓
+    ** negotiate (v)商議/談判/交涉, 轉讓, 洽兌, 順利通過/成功越過 --> negotiation (n)商議/談判, 轉讓
     ** negotiable (adj)可商量的, 可轉讓的, 可通行的 = passable
     * /ˈnɛfjuː/ nephew (n)姪兒/外甥
     * noble (adj)高尚的/崇高的 = rarefied, 壯麗的/宏偉的, 貴族的/顯貴的 (n)貴族
@@ -2741,7 +2748,7 @@
     - nagging (adj)騷擾的, 憂心的 = brooding
     - nanny (n)保姆, 母山羊 = nanny goat (v)做保姆, 過度保護
     - nasal (adj)鼻的, 鼻音的 (n)鼻音
-    - nasty (adj)糟糕的/令人不快的 = unpleasant, 濕冷的, 令人厭惡的 = repungant, 不友善的/惡意的, 有害的 = harmful (n)[非]討厭的人,恐怖影片 
+    - nasty (adj)糟糕的/令人不快的 = unpleasant, 濕冷的, 令人厭惡的 = repungant, 不友善的/惡意的, 有害的 = harmful (n)[非]討厭的人, 恐怖影片 
     - national (adj)全國的, 國家的 (n)國民/國人 = citizen, 全國報, 全國性比賽
     - nation-state (n)民族國家
     - nationwide (adj)全國的 (adv)全國
@@ -2762,6 +2769,7 @@
     - nibble (v)咬一小口, 一點點地咬, 輕咬, 逐漸侵蝕/逐漸消失, 對(機會)表示興趣 (n)細咬/啃, 咬一口的量 = morsel, 小菜, 表示出興趣
     - nick (n)槽口/刻痕 = cut = notch, 警局 (v)割破/在…上刻出凹痕, [for]敲詐 = cheat = swindle
     - nifty (adj)[非]絕妙的/俐落的, 有吸引力的/漂亮的
+    - nigh (adv)[古]接近地/靠近地, [古]幾乎 (prep)[古]接近 (adj)[古]接近的
     - niggardly (adj)吝嗇的 = stingy = miserly = parsimonious = mean = ungenerous, 很少量的
     - nightmare (n)惡夢, 可怕的事/夢魘 <-- night + mare
     - nightspot (n)[非]夜總會 = nightclub
@@ -2786,8 +2794,8 @@
     ++ /əˈbliːk/ oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive = backhanded (n)斜肌 --> obliquity (n)
     ++ /əˈblɪvɪən/ oblivion (n)無知覺/無意識, 被遺忘, 毀滅/滅絕 = annihilation = extinction, 大赦/赦免 = amnesty = pardon
     + oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware <|> obvious
-    +++ obscure (adj)模糊的/不確定的 = uncertain, 無名的/無足輕重的, 含糊不清的/晦澀的  = ambiguous = elliptical = vague = opaque = subtle, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
-    + obscurity (n)默默無名/不重要, 晦澀/難解
+    +++ obscure (adj)模糊的/不確定的 = uncertain, 含糊不清的/晦澀的  = ambiguous = elliptical = vague = opaque = subtle, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian, 無名的/無足輕重的 (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
+    + obscurity (n)晦澀/難解, 默默無名/不重要
     + odium (n)憎恨/厭惡 = hate = disapproval --> odious (adj)可憎的/討厭的 = repulsive
     + /ˈɒdɪsi/ odyssey (n)長途的冒險旅行 = voyage
     + offset (n)補償/抵消, 偏移量, (植物植物)橫枝/旁枝, 平版印刷 (v)補償/抵消, 襯托出, 用平版印刷術印刷
@@ -2837,6 +2845,7 @@
     - offish (adj)冷漠的/疏遠的 = aloof = distant
     - offshoot (n)分支/分枝
     - offshore (adj)近海的, 向海的, 在國外而不受稅法限制的, 國外的 (v)把..移到國外
+    - onshore (adj)陸上的, 向陸地的 (adv)在陸地, 向陸地
     - offstage (adj/adv)台後/幕後
     - /ˈəʊɡ(ə)l/ ogle (v)色迷迷地盯著/向……拋媚眼 = leer (n)媚眼
     - ointment (n)藥膏/軟膏/油膏 = balm = salve
@@ -4048,7 +4057,8 @@
     - snip (v)剪斷 (n)剪, 剪下的小片, 價廉物美之物 = bargain, (剪金屬的)平頭剪/鐵絲剪, 不足道的人
     - sniff (v)嗅/聞, [非][around/round]搜索, [非][out]調查後發現 (n)嗅聞聲, 吸入量, [非]徵兆 = sign, [非]些微的機會
     - sniffle (v)(通常指因哭泣或感冒)抽鼻子/吸鼻子 (n)鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
-    * snitch (v)[非]偷, [非]告密 (n)[非]告密者 <|> stitch
+    - snitch (v)[非]偷, [非]告密 (n)[非]告密者 <|> stitch
+    - snorkel (n)潛艇換氣裝置/呼吸管 (v)帶呼吸管潛水
     - snowdrift (n)雪堆
     - sonorous (adj)洪亮的, 能發出響亮聲音的, 鏗鏘有力的/語調誇張的 --> sonority (mn)響亮 
     - snuff (v)熄滅 = extinguish, 剪(燭芯), [非]殺掉/終結 (n)燭花, 鼻煙, 嗅/聞 = sniff
@@ -4079,6 +4089,7 @@
     - sparse (adj)稀疏的/分散的 = dispersed, 稀少的/匱乏的 = scanty
     - spat (n)鞋罩, 蠔卵/蠔仔 (n/v)[非]小爭吵 = bicker 
     - spate (n)一連串
+    - spatter (v)濺/灑落 (n)灑/飛濺, 飛濺聲
     - spatial, spacial (adj)有關空間的/在空間的 <-- space
     - spatula (n)抹刀, 鑊鏟 = fish slice
     - spawn (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲
@@ -4830,6 +4841,7 @@
     - winery (n)釀酒廠
     - wink (n/v)使眼色/眨眼, 閃耀/閃爍, 假裝不見/故意忽視
     - wintry (adj)冬天的/冬天似的
+    - wisp (n)小捆/小把, 纖弱的人
     - wired (adj)聯網的, 有線的, [非]緊張的, 因服用毒品而非常興奮的
     - wiry (adj)瘦而結實的, (頭髮)金屬絲般的 <-- wire
     - witness (n)目擊者 = beholder, 證人 (mn)證據 = evidence = proof (v)看見/目擊 = behold, 簽名作證/連署, 發生, 證明/表明 = attest = corroborate = substantiate, 公開表明信仰 = profess

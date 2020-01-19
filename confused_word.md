@@ -68,7 +68,7 @@
 - bracket <--> brackish <--> racket <--> rack <--> racketeer <--> racketeering
 - breed <--> brood
 - bridle <--> bribe <--> bride
-- buff <--> puff <--> rebuff <--> buffoon 
+- buff <--> puff <--> miff <--> rebuff <--> buffoon 
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble <--> mumble <--> rumble <--> rumple
@@ -130,7 +130,7 @@
 - compromise <--> uncompromising
 - concept <--> conception <--> conceit <--> deceit
 - conceit
-- condone
+- condone <--> condolence
 - confer <--> conifer
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
@@ -179,6 +179,7 @@
 ## D
 - dabble <--> dribble <--> paddle <--> puddle <--> waddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
+- debase <--> degrade
 - debauch <--> debouch
 - debilitate <--> deliberate
 - decaying <--> decadent <--> decadence
@@ -209,6 +210,7 @@
 - deter <--> deterge <--> inter <--> intern
 - deterrent <--> determinant 
 - dew <--> pew
+- diagram <--> diaphragm
 - dialect <--> dialectic
 - digest <--> ingest
 - dim <--> din <--> dingy
@@ -229,7 +231,7 @@
 - dismissal <--> dismissive
 - disparage <--> disparate
 - dispense <--> dispensable <--> indispensable
-- dispute <--> depute <--> repute
+- dispute <--> disrepute <--> depute <--> repute
 - dissimulate
 - distaste
 - distinguish <--> distinguished
@@ -238,6 +240,7 @@
 - divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
 - domestic <--> domicile <--> condominium
+- dominate <--> domineer <--> dominion
 - don <--> doff
 - dose <--> douse
 - downplay <--> underplay
@@ -341,7 +344,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - grab <--> drab <--> drag <--> crag <--> brag <--> snag
 - gregarious <--> egregious
 - gratify <--> ingratiate
-- grip <--> gripe <--> grapple <--> gird <--> grid <--> girder
+- grip <--> gripe <--> grope <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
 - grind <--> grin
 - gross <--> gloss <--> engross
@@ -394,7 +397,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - incarcerate
 - incarnate <--> incarnadine <--> carnage <--> carnal
 - indolence <--> insolence
-- indict <--> indicate
+- indict <--> indicate <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - invective
 - inveigh <--> inveigle <--> invective
@@ -423,7 +426,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - itinerant <--> itinerary
 
 ## J
-- jag <--> jog <--> jug <--> juggle <--> ragged <--> rugged
+- jag <--> nag <--> jog <--> jug <--> juggle <--> ragged <--> rugged
 - jockey <--> hockey
 - jot <--> jut <--> jolt <--> jostle
 - juncture <--> junction
@@ -479,7 +482,6 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - mediate <--> meditate
 - member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
-- miff
 - milk <--> bilk
 - mince <--> wince
 - miscreant <--> recreant
@@ -489,6 +491,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - mongrel <--> mogul
 - mores
 - moral <--> morale
+- morbid <--> mordant <--> mordacious
 - morose <--> remorse
 - mortify <--> mortality
 - mosquito <--> mosque
@@ -506,6 +509,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - nascent <--> nasal
 - necessitate --> necessitous
 - nib <--> nibble <--> nipple <--> nip <--> sip 
+- nod <--> nodule <--> nub <--> nubile
 - notion <--> notch <--> note <--> botch <--> blotch <--> scotch <--> denote
 - nuance <--> nuisance
 
@@ -569,7 +573,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - plangent
 - plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
-- pluck <--> puck <--> pucker
+- pluck <--> puck <--> pucker <--> muck
 - plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump
 - pock <--> poke
 - poll <--> pollen <--> pollinate
@@ -648,6 +652,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - reflective reflexive
 - remiss <--> remit <--> remission
 - renaissance <--> reconnaissance
+- renege
 - repatriate
 - replete <--> deplete
 - reprobate
@@ -736,7 +741,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - smug <--> smudge <--> smuggle
 - snarl <--> gnarl
 - snitch <--> stitch
-- snub <--> snob <--> sob <--> sod <--> sop <--> sodden <--> sober <--> somber
+- snub <--> snob <--> sob <--> sod <--> sop <--> sodden <--> sober <--> somber 
 - sobriety <--> sobriquet
 - sole <--> sore
 - sooth <--> seethe
@@ -778,7 +783,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 ## T
 - tackle <--> tickle
 - tactile <--> tactual
-- tangle <--> mangle
+- tangle <--> mangle <--> mingle
 - tangible <--> tangential
 - telltale <--> untold
 - temerity <--> temerarious
@@ -810,7 +815,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - tribulation <--> tribunal <--> tribal
 - trite <--> contrite <--> attrit
 - tromp <--> romp
-- troop <--> troupe <--> trope <--> grope  <--> toupee
+- troop <--> troupe <--> trope  <--> toupee
 - trove <--> rover <--> stove
 - trump <--> trumpet
 - tug <--> tuck <--> lug <--> mug <--> muggy
@@ -829,6 +834,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 
 ## V
 - vacillate <--> ventilate 
+- vacuous <--> viscous <--> vicious
 - vagrant <--> vagary <--> vague
 - valley <--> volley
 - veneer <--> veer
