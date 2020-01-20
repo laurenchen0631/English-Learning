@@ -12,10 +12,18 @@
 		- similarly
 		- **indeed**
 		- also
+		- **while**
+	- Time non-shift: at the same time
 - **Shift sentence** contains words that indicate that the elements of the sentence will be in contrast.
-	- though
-	- but
+	- though, although
+	- yet but
+	- even (though)
 	- in spite, despite
+	- however, notwithstanding
+	- ironically
+	- **while**
+	- Time shift: **once**, **at first**, **then ... now**, initially
+	- Perception Shift
 - Not only watching for "no shift" words but also watching for absence of contrasting words.
 - Choose answers that create the correct levels of similarity or contrast.
 

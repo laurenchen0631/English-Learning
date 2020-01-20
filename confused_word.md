@@ -6,7 +6,7 @@
 - acme <--> acne <--> pimple
 - accord <--> according <--> accordingly <--> concord <--> discord <--> cordial
 - across <--> cross
-+ adduce <--> abduct <--> abduce
++ adduce <--> abduct <--> conduce <--> conduit <--> deduct <--> deduce <--> deductive <--> educe
 - adumbrate
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
@@ -139,7 +139,7 @@
 - consummate
 - content <--> contention <--> contentment <--> contentious <--> consent
 - contingent <--> continent <--> contiguous 
-- contort <--> distort <--> extort <--> retort
+- contort <--> distort <--> extort <--> retort 
 - convene <--> contravene
 - convey <--> convoy
 - cooperate <--> corporate <--> coop 
@@ -190,7 +190,7 @@
 - deed <--> deem
 - defile
 + defect <--> defection <--> deficit <--> deficient
-- deference <--> deferment
+- deference <--> deferment <--> deferential
 - deft <--> daft
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
@@ -239,7 +239,7 @@
 - diverse <--> divert
 - divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
-- domestic <--> domicile <--> condominium
+- domestic <--> domicile <--> docile <--> condominium
 - dominate <--> domineer <--> dominion
 - don <--> doff
 - dose <--> douse
@@ -259,7 +259,7 @@
 - eddy <--> ebb
 - effusive <--> elusive
 - egalitarian <--> equalitarian
-- elicit <--> explicit <--> explicate <--> implicit <--> implicate
+- elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit
 - embroil <--> boil
 - empire <--> empiric <--> empirical
 - enervate <--> innervate <--> unnerve
@@ -409,6 +409,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - imperative <--> imperious
 - impose <--> imposing
 - inch <--> itch
+- inductive <--> induce <--> inducement
 - insipid <--> sapid <--> vapid <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
@@ -434,7 +435,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 
 ## L
 - lacerate <--> macerate
-- languid
+- languid <--> languish
 - lascivious <--> luscious
 - lava <--> larva
 - leave <--> leaf <--> leaven
@@ -508,6 +509,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - naive <--> native
 - nascent <--> nasal
 - necessitate --> necessitous
+- neglect <--> negligent
 - nib <--> nibble <--> nipple <--> nip <--> sip 
 - nod <--> nodule <--> nub <--> nubile
 - notion <--> notch <--> note <--> botch <--> blotch <--> scotch <--> denote

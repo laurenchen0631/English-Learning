@@ -101,6 +101,7 @@
 			- assorted (adj)混雜的/各式各樣的 = mixed = miscellaneous <-- as + sort 種類 = kind
 			+ assuage
 			++ assume --> assumption
+			- astir (adj)興奮的/騷動的, 起床的
 			+ astringent 
 			+ attest
 			+ attenuate
@@ -231,6 +232,7 @@
 		- perambulate (v)散步 = stroll = amble
 		+ preamble (n)前言/序言 = preface = prologue <|> perambulate
 		* /ˈramb(ə)l/ ramble (v)漫步/閒逛 = amble, 隨筆, 蔓生 <|> /ˈreɪnbəʊ/ rainbow
+		* rambling (adj)雜亂無章的, 蔓生的, 閒逛的 = wandering (n)漫步
 		- noctambulant
 
 	ampl 大 = wide, large
@@ -1365,6 +1367,7 @@
 		+ circumscribe (v)限制/控制 = restrict = restrain = limit = confine = delimit, 使外切
 		- circumtropical (adj)環熱帶的
 		+ circumvent (v)避開/繞過 = bypass = go around = aboid, 智取/巧妙地克服
+		- funicular (adj)用繩索運轉的, 繩索的 (n)纜索鐵道
 	
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
 		- cyclist (n)騎腳踏車的人
@@ -1911,23 +1914,24 @@
 		2. 家 = house
 			- condominium, condo (n)公寓大樓, 公寓住房, 被兩個或多個外國勢力共同管轄的國家 (mn)共同管轄
 			- dome (n)圓屋頂, 蒼穹
-			+++ domestic (adj)家庭的, 國內的, 馴養的 = tame (n)僕人, 國貨 --> domesticate (v)馴養, 人工培植
+			+++ domestic (adj)家的, 家用的, 馴養的 = tame, 國內的 (n)家務工, 國貨
+			+ domesticate (v)馴養, 人工培植
 			- domestication (mn)馴養, 栽種
 			- domicile (n)住處 (v)居住 <|> docile
 
 	dote, dose, don 給予 = give
 		+ antidote (n)解毒劑, 緩解辦法/對抗手段
-		+ condone (v)原諒/寬恕 = pardon = excuse, (不情願)認可/贊同
+		+ condone (v)原諒/接受(錯誤行為) = pardon = excuse = forgive, (不情願)認可/贊同
 		- donate (v)捐/捐獻(錢、血或器官等)
 		- donor (n)捐血者/器官捐贈者/捐助者 = benefactor
-		- dose (n)劑量, 一劑
+		- dose (n)一劑, 一次/一番(苦差事), [非]花柳病/性病 = venereal infection (v)給……服藥, 混合 = adulterate
 		- overdose (n/v)用藥過量
 		+ pardon (n/v)原諒/寬恕 = condone = forgive = overlook = excuse, 赦免 = absolve = amnesty
 		+ pardonable (adj)可以被原諒的 = excusable
 
 	dorm 睡 = sleep
-		+ dormant (adj)冬眠的/休眠的 = torpid, 睡著的 = asleep = inactive, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
-		* dormancy (n)休眠狀態/冬眠 = torpor
+		+ dormant (adj)冬眠的/休眠的 = torpid, 暫停活動的/靜止的, 潛在的/潛伏的 = latent
+		+ dormancy (n)休眠/冬眠 = torpor, 潛伏, 暫停活動
 		- /ˈdɔːmɪt(ə)ri/ dormitory (n)宿舍 = dorm = dorm room
 		- dormouse (n)榛睡鼠
 
@@ -1938,7 +1942,7 @@
 
 	decor 美/合適 = beauty, honor, seemly
 		+ decor (n)裝飾/室內裝潢, 舞臺裝飾
-		- decorate (v)裝飾
+		- decorate (v)裝飾, 授勛
 		+ decorum (n)端莊/合宜, 禮節/禮貌 = etiquette
 		+ decorous (adj)端莊穩重的/禮貌得體的
 		+ indecorous
@@ -1948,60 +1952,66 @@
 		- /ˈdɛkst(ə)rəs/ dexterous, dextrous (adj)靈巧的/熟練的 --> dexterity (n)靈巧/熟練
 
 	demn, damn 傷害/損害 = damage, harm, loss
-		++ condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence = convict
+		++ condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence = convict, 迫使……處於(不幸的狀態)
 		- precondemn (v)預先宣告…有罪
 		- indemnify (v)賠償/補償 = compensate, 保障 --> indemnity (n)賠償(金) = compensation, 保障/保險
 		- damnation (n)非難/詛咒
 		- damnify (v)傷害
+	    - damning (adj)可定罪的, 極端重要的 = extremely critical
 
 	dense 濃/密 = thick
-		- dense (adj)密的 = compact = crowed, 強烈的 = extreme = intense, 愚鈍的 = stupid = dull = opaque
-		* condense (v)縮短 = abridge, 使濃縮 = encapsulate <--> rarefy, 使凝結 = congeal = coagulate
+		- dense (adj)密的 = compact = crowed, [非]愚鈍的 = stupid = dull = opaque
+		* condense (v)使濃縮 = encapsulate, 使精簡, 使凝結 = congeal = coagulate
 		- condensate (mn)冷凝水, 凝化物
 
 	duc, duce, duit, due 引導 = lead == agog
-		- abduct (v)綁架/誘拐 <--> abduce
-		- abduce (v)營救
+		- abduct (v)綁架/誘拐
 		+ adduce (v)引用/舉證
-		+++ conduct (n)行爲/舉止 = dealing = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
+		+++ conduct (n)行爲/舉止 = dealing, 組織方式 = manner (v)實施/進行 = perform, 引導/帶領/指引 = lead = guide, 指揮(合唱團、樂隊等), 傳導(電或熱)
 		- conductor (n)指揮, 隨車服務員, 導體, 避雷針 = lightning conductor
-		+ conduce (v)導致/有助於 = lead --> conducive (adj)有益的/有助於...的 = contributive = helpful = favorable
+		+ conduce (v)[to]導致/有助於 = lead
+		+ conducive (adj)[to]有益的/有助於...的 = contributive = helpful = favorable
 		- conduit (n)導管, 導線管, 引導人/引導組織
-		+ deduct (v)減去/扣除 = subtract, 演繹 = deduce = conclude = infer
+		+ deduct (v)減去/扣除 = subtract
 		+ deductive (adj)推理的
 		+ deduction (n)演繹/推論, 扣除 = subtraction
 		- deduce (v)演繹/推斷 = deduct = conclude = infer
 		- duct (n)管線, (人體的)管/導管
-		- educate (v)教育/培養
+		- educate (v)教育
 		- educe (v)引出 = elicit = develop, 推論 = infer = deduce
-		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍 --> induction (n)就職, 入伍儀式, 歸納
+		- induct (v)使正式就任/使就職 = install = inaugurate, 使入伍, 使入門/傳授
+		- induction (n)就職, 入伍, 誘發, 歸納 = inference, 電磁感應, (內燃機)進氣
 		+ inductive (adj)歸納的, 電磁感應的
-		* /ɪnˈdjuːs/ induce (v)引誘/成功勸說 = suborn = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
+		* /ɪnˈdjuːs/ induce (v)勸說 = persuade, 導致/引起 = originate, 感電/感生, 用人工方法催生, 歸納出
 		+ inducement (n)誘因, 賄賂 = bribe
-		- introduce (v)採用/引進/推行, 介紹/引見 <|> induce <|> induct
-		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品
-		+ productive (adj)生產的, 多產的/肥沃的, 富有成效的 = effective = trenchant --> productivity (n)生產力/生產率
-		+ reproduce (v)繁殖/生殖 = propagate, 複製/翻拍/模仿/使重現
-		+ seduce (v)勾引, 引誘/誘惑 = allure = entice --> seductive (adj)誘惑的/引人注意的
-		*** subdue (v)制服/征服 = conquer = vanquish, 使服從 = humble = tame, 鎮壓 = quell = quash = suppress = repress, 壓抑/克制 = chasten = refrain = quench = repress, 減輕/緩和 = allay, 使柔和 = soften = tame, 開墾
-		* subdued (adj)柔和的/暗淡的, 小聲的, 悶悶不樂的/默不做聲的
+		- introduce (v)採用/引進/推行, 介紹/引見, 作為……的開始 <|> induce <|> induct
+		- produce (v)生產/出產, 引起/使產生, 拿出/出示 (n)食品/農產品, 創作
+		+ productive (adj)生產的, 多產的/肥沃的, 出產……的
+		+ productivity (n)生產力/生產率
+		+ reproduce (v)繁殖/生殖 = propagate, 複製/模仿/使重現
+		+ seduce (v)勾引, 引誘/誘惑 = allure = entice
+		+ seductive (adj)誘惑的/引人注意的
+		*** subdue (v)壓抑/克制 = chasten = refrain = quench = repress, 制服/征服 = conquer = vanquish
+		* subdued (adj)悶悶不樂的/默不做聲的誒柔和的/暗淡的
 
 	dain, dign 高貴/價值 = worthy == val
-		- dainty (ADJ)小巧精美的, 挑剔的 = fastidious = particular = captious = carping (n)少量而精美的食物
-		- dignity (n)莊重/端莊, 自尊
+		- dainty (ADJ)小巧精美的, 挑剔的 = fastidious = particular = captious = carping (n)少量而精美的食物 = delicacy
+		- dignity (n)尊嚴/莊嚴, 高位/顯職, 高尚, 自尊
 		* dignitary (n)要人/要員
-		* disdain (n/v)輕視/鄙視 = contempt = scorn = belittle = flout = depreciate = downplay = disparage = detract, 不屑
+		* disdain (n)輕視/鄙視 = contempt = scorn (v)輕視/鄙視 = belittle = disparage = detract, 不屑
 		+ /deɪn/ deign (v)屈尊 = condescend
 		+ /ɪnˈdɪɡnənt/ indignant (adj)憤慨的 --> indignation (n)憤慨
-		- indignity (n)侮辱/輕蔑/侮辱言行/無禮舉動 = insult
+		- indignity (n)侮辱/屈辱 = insult
 
 	dem, demo 人民 = people
-		+ democracy (n)民主政體 --> democratic (adj)民主的 --> democratize (v)使民主化, 使大眾化
+		+ democracy (n)民主政體, 民主
+		+ democratic (adj)民主的, 平等的 = egalitarian
+		+ democratize (v)使民主化, 使大眾化
 		- democratization (n)民主化, 大眾化/普及化
 		+ demagogue (n)蠱惑民心的政客 (v)煽動
 		- demagoguery (n)群眾煽動
 		+ demography (n)人口, 人口統計學 --> demographic (adj)人口的 (n)族群
-		+ demotic (adj)通俗的/大眾化的 = vulgar = plebeian
+		+ demotic (adj)口語的/通俗的 = colloquial = vulgar
 		+ /ɛnˈdɛmɪk/ endemic (adj)地方性的 = native = local = indigenous, 某地特有的 (n)地方病/風土病
 		- epidemic (adj)流行性/傳染的, 極為風行的 (n)流行病, 風行
 		- epidemiologist (n)流行病學家
@@ -2016,16 +2026,17 @@
 
 	dele, del 傷害/刪除 = hurt, injure, delete
 		+ /ˌdɛlɪˈtɪərɪəs/ deleterious (adj)有害的 = harmful = destructive = detrimenmtal <--> wholesome
-		- delete (v)刪除/擦去
-		- indelible (adj)擦拭不掉的/不可磨滅的
+		- delete (v)刪除/擦去 = obliterate
+		- indelible (adj)擦拭不掉的, 無法抹滅的 = unforgettable
 
 	dent 牙 = tooth
-		- dent (n)凹陷/凹痕, 減少 = reduction (v)弄凹, 打擊/使減少 = diminish
+		- dent (n)凹陷/凹痕, 減少 = reduction (v)弄凹, 使減少 = diminish
 		- denture (n)假牙 = artificial teeth
 		- dentist (n)牙醫
 		- /ˈdɛntɪstri/ dentistry (n)牙醫學
-		- dentate (adj)有齒的, 齒狀的
-		- indent (v)切割成鋸齒狀, 縮排, 用契約約束 --> indenture (n)契約/合約 = contract = agreement
+		- dentate (adj)齒狀的
+		- indent (v)切割成鋸齒狀, 縮排 (n)縮排, 契約 = indenture
+		- indenture (n)契約/合約 = contract = agreement, 正式憑單/清單, 師徒契約, 約束 (v)以契約約束
 
 	dur, dure 堅硬 = hard
 		- duration (n)持續期間
@@ -2685,7 +2696,10 @@
 	fin 範圍/限制 = boundary, boder, stop, limit
 		+++ affinity (n)吸引/喜愛 = fondness = penchant = bent, 雷同/相似 = resemblance, [化]親和性 (mn)關係 = relation
 		+ confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
-		+ define (v)說明/解釋, 界定 --> /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 --> definitive (adj)明確的, 最終的/決定性的
+		+ define (v)說明/解釋, 界定 
+		+ /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 
+		+ definitive (adj)明確的, 最終的/決定性的
+		+ definitiveness (mn)決定性
 		- defined (adj)輪廓分明的
 		+ finite (adj)有限的 = measurable
 		+ infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense --> infinity (n)無限的時間或空間
@@ -2861,7 +2875,8 @@
 
 	greg 聚集 = flock
 		+ aggregate (n)聚集體, 集料/粒料(建築用的小石料) (adj)合計的/總的 = gross, 複合的 (v)使聚集 = agglomerate = assemble 
-		+ /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, 群居的(動物) --> gregariousness (n)和群, 群居
+		+ /ɡrɪˈɡɛːrɪəs/ gregarious (adj)喜愛社交的 = outgoing = sociable = overblown, 群居的(動物)
+		+ gregariousness (n)和群, 群居
 		+ egregious (adj)極其嚴重的/極壞的 = atrocious = cruel = deplorable = outrageous = woeful
 		- congregate (v)聚集/集合
 		- congregation (n)(宗教)會衆/信眾, 集合/會集, 宗教團體
@@ -4636,6 +4651,7 @@
 		+++ enormity (n)窮兇極惡/滔天大罪 = iniquity, 巨大/深遠 --> enormous (adj)巨大的
 		* /nɔːm/ norm (n)標準/規範 = standard (v)調整..以符合規範
 		+ normative (adj)基準的/規範的 <-- norm
+		- normalcy (n)常態/正常
 
 	numer 數字
 		+ /ɪˈnjuːməreɪt/ enumerate (v)列舉/枚舉, 計數/點 --> enumeration (n)
@@ -5448,6 +5464,7 @@
 
 	pale, pal 蒼白/樁 = pallid, stake
 		+ /ˈpalɪd/ pallid (adj)蒼白的/沒血色的 = pale = wan, 無趣的 = innocuous = insipid
+		+ pallor (n)(臉色)蒼白
 		** pale (adj)灰白的, 蒼白的, 次級的 (v)變蒼白, 相形見絀
 		- appall (vt)使驚駭/使恐怖 --> appalling (adj)糟透的 = awful = abysmal = atrocious = egregious, 駭人的/可怕的
 		- impale (v)刺入/刺中
@@ -6749,6 +6766,7 @@
 		+ /ˈɛksɪkrəb(ə)l/ execrable (adj)惡劣的/極壞的 = abhorrent
 		- /ˈmasəkə/ massacre (n)大屠殺 = carnage = slaughter = genocide, 慘敗 (v)屠殺, 遭慘敗
 		+ /ˈdɛsɪkreɪt/ desecrate (v)玷污/褻瀆 = defile --> desecration (n)褻瀆/瀆神 = blasphemy
+		- sacerdotal (adj)祭司的 <-- sacerdos 牧師 = priest
 		- sacred (adj)神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 		- sacrifice (n)犧牲, 放棄 (v)宰牲祭神, 放棄
 		- /sakrəˈfɪʃəl/ sacrificial  (adj)獻祭的
@@ -8124,6 +8142,7 @@
 
 	veter 老 = old
 		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed, 根深蒂固的 <|> invertebrate
+		- vet (v)審查/仔細檢查 (n)[非]老兵
 		- /ˈvɛt(ə)rən/ veteran (n)老手, 老兵
 		- /ˈvɛtrɪnəri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
 
