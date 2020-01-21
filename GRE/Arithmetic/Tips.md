@@ -115,6 +115,10 @@
 	- 2400 = 24 * 100 = 8 * 3 * 25 * 4 = 2^5 * 3 * 5^2, the number of factor = (5+1) * (1+1) * (2+1) = 6 * 2 * 3 = 36
 	- How to find all *odd* factor: remove factor 2 from permutation. ~~(5+1) *~~ (1+1) * (2+1) = 2 * 3 = 6
 	- How to find all *even* factor: all factor - odd factor. 36 - 6 = 30
+- Advance:
+	- prime factorization of 1599 (a^2 - b^2 = (a+b)(a-b))
+		- 1599 = 1600 - 1 = 40^2 - 1 = (40 + 1)(40 - 1) = 41 * 3 * 13
+	- 0.999951 / 0.993 = (1 - 0.000049) / (1 - 0.007) = (1+0.007)(1-0.007) / (1 - 0.007) = 1.007
 - Divisibility Rule
 	- Divisibility Rule for 2: all even numbers are divisible by 2.
 	- Divisibility Rule for 3: if the sum of each digits is divisible by 3, the number is divisible by 3.

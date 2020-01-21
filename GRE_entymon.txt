@@ -245,7 +245,7 @@
 		+ /əˈsəːbɪk/ acerbic (adj)刻薄的/辛辣的/嚴厲的 = sour = harsh = severe = caustic = acrid = astringent
 		+ acerbity (n)苦澀/刻薄
 		- acerbate (v)惡化/加重 = exacerbate <-- acerbic + ate
-		+ /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate
+		+ /ɪɡˈzasəbeɪt/ exacerbate (v)惡化/加重 = aggravate = deteriorate <|> exasperate
 		+ /ˈasɪd/ acid (n)酸, [非]迷幻藥 (mn)尖刻 (adj)酸性的, 尖酸刻薄的, 濃烈的/鮮明的 = intense = bright
 		+ /əˈsɪdjʊləs/ acidulous (adj)帶酸味的 = sour, 尖刻的 = sour = acrid = acerbic
 		- acrid (adj)(味道)辛辣的/刺激的 = bitter = pungent
@@ -893,7 +893,7 @@
 		++ /kənˈkəː/ concur (v)同意/贊成 = accord = agree = consent = accede = coincide, 同時發生 = coincide 
 		++ concurrent (adj)一致的/贊同的, 同時發生的 == concomitant
 		++ concurrence, concurrency (n)同時發生, 線的交點, 意見一致 = agreement = consistency
-		- corral (n)(牛、馬等)畜欄/圍欄 = pen (v)把(馬、牛)趕進畜欄/把(一群人)集中起來
+		* corral (n)(牛、馬等)畜欄/圍欄 = pen (v)把(馬、牛)趕進畜欄/把(一群人)集中起來 = round up
 		* /ˈkɒrɪdɔː/ corridor (n)走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
 		- /kəˈrɪkjʊləm/ curriculum (n)課程
 		- cursor (n)游標
@@ -1953,6 +1953,7 @@
 
 	demn, damn 傷害/損害 = damage, harm, loss
 		++ condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence = convict, 迫使……處於(不幸的狀態)
+		- damn (v)罰…入地獄, 失敗/毀掉, 嚴厲指責, 咒罵 = curse (excl)該死/討厭 (adj)該死的 (adv)該死
 		- precondemn (v)預先宣告…有罪
 		- indemnify (v)賠償/補償 = compensate, 保障 --> indemnity (n)賠償(金) = compensation, 保障/保險
 		- damnation (n)非難/詛咒
@@ -2040,41 +2041,44 @@
 
 	dur, dure 堅硬 = hard
 		- duration (n)持續期間
-		- durable (adj)耐用的
-		+ endure (v)忍耐/忍受, 持續 --> enduring (adj)持續的/持久的 = lasting = permanent --> endurance (n)忍耐/耐力, 苦難/磨練
-		+ /djʊəˈrɛs/ duress (n)脅迫
+		- durable (adj)持久的/耐用的 = lasting
+		+ endure (v)忍耐/忍受 = suffer, 持續 = last
+		+ enduring (adj)持續的/持久的 = lasting = durable = permanent 
+		+ endurance (n)忍耐力, 耐用度
+		+ /djʊəˈrɛs/ duress (mn)脅迫
 		- indurate (v)使堅硬 = harden
-		+ obdurate (adj)頑固的 = stubborn = refractory, 冷酷的 = hardhearted --> obduracy (n)頑固/倔強, 冷酷
+		+ obdurate (adj)頑固的 = stubborn = refractory --> obduracy (n)
 
 	dynam 力量 = force, power
-		- dynamic (adj)有活力的, 動態的, 動力的/動力學的
+		- dynamic (adj)動態的, 積極的/有活力的, 動力的/動力學的 (n)動力 = stimulation
 		- dynamics (n)力學/動力學, 動力, [音]力度/力度變化
-		- dynamism (n)活力, 活力/正向, 物力論/力本說
-		- dynamo (n)發電機
-		* dynamite (n)炸藥 (v)用炸藥爆破
+		- dynamism (n)活力, 積極/正向, 物力論/力本說
+		- dynamo (n)發電機, [非]非常有活力的人
+		* dynamite (n)炸藥, [非]令人震驚的事件/使人激動的事情 (v)用炸藥爆破
 
 	dox 思想/意見 = opion
 		+ heterodox --> heterodoxy
-		+ orthodox (adj)正統的 --> orthodoxy (n)正統/正教
-		+ paradox (n)自相矛盾的議論/悖論 --> paradoxical (adj)似是而非的 = specious
+		+ orthodox (adj)正統的, 普通的 = normal, 東正教的 --> orthodoxy (n)正統, 東正教
+		+ paradox (n)自相矛盾的議論/悖論 --> paradoxical (adj)自相矛盾的
 
 	divide, divid 分割 = split, separate
-		- divide (v)分/分發/分配/分裂 (n)分歧/不和 --> divisive (adj) 引起不合的
+		- divide (v)分, 分配, 分隔, (使)意見相左 = disagree, [數]除 (n)意見相左/分歧 = difference, 分水嶺
+		- divisive (adj)引起不合的
 		- dividend (n)被除數, 紅利/股息
 		- individual (adj)個別的/單獨的, 特有的/獨特的 (n)個人/個體
-		- individualism (n)個人主義, 自我主義 = egoism
+		- individualism (n)個人主義, 自我主義/利己主義 = egoism
 
 	dubit, dubi 懷疑 = doubt
 		- dubitable (adj)可疑的/不確定的
-		- dubitation (n)懷疑
+		- dubitation (mn)懷疑 = doubt = hesitation
 		- /ɪnˈdjuːbɪtəb(ə)l/ indubitable (adj)不容置疑的/無疑的 = unquestionable
-		++ /ˈd(j)ubiəs/ dubious (adj)可疑的 = suspicious = questionable = doubtful, 名聲不好的, 無把握的/不安定的 = uncertain = precarious
+		++ /ˈd(j)ubiəs/ dubious (adj)可疑的/懷疑的 = suspicious = questionable = doubtful, 懷疑的/無把握的 = uncertain
 
 [E]
 	e
 		1. 出/外/離 = out, outside, away
-			+ ebullient (adj)熱情洋溢的/興高采烈的 = high-spirited = exuberant, 沸騰的
-			+ ebullience (n)精力充沛, 奔放/興高采烈, 沸騰 <-- e + bulli 氣泡 = bubble + ent
+			+ ebullient (adj)熱情洋溢的 = high-spirited = exuberant <-- e + bulli 氣泡 = bubble + ent
+			+ ebullience (n)精力充沛/熱情洋溢 = exuberance
 			- edict
 			- educe
 			- ejaculate (v)射精, 飛快地說 (n)射出的精液
@@ -2083,7 +2087,7 @@
 			+ elevate
 			+ /ɪˈlɪsɪt/ elicit (v)引出/激起 = evoke = draw out <-- e + licit 引誘 = draw, lure
 			- eligible
-			- elect
+			- elect --> election --> elective --> electoral --> electorate
 			+ eliminate --> elimination
 			- elite
 			- elocution
@@ -2105,7 +2109,7 @@
 			+ erudite
 			- erupt
 			+ evade --> evasion --> evasive
-			- evaluate (v)評價/鑑定 --> evalution (n)評價/鑑定
+			- evaluate (v)評價/鑑定 = appraise = assess --> evaluation (mn)評價/鑑定
 			+ evanesce --> evanescent
 			- evaporate
 			+ eviscerate (v)除去……的內臟 = disembowel, 掏空
@@ -2133,8 +2137,8 @@
 		- effluvium
 		+ effigy
 		+ effusive
-		- ellipsis --> ellipse --> elliptical 
-		- escape (n/v)逃跑, 避免, 漏出 <-- es + cap 有帽斗篷 + e
+		- ellipsis --> elliptical 
+		- escape (v)逃跑/逃過, 外洩/流出 = leak = issue, 沒有被……注意到 = elude (n)逃跑/逃脫, 逃避(現實), (瓦斯)外洩 <-- es + cap 有帽斗篷 + e
 		- escapism (n)逃避現實
 		+ exacerbate
 		+ exact --> exacting 
@@ -2142,26 +2146,27 @@
 		+ exalt
 		+ exasperate
 		- exceed
-		+++ excel (v)[at]擅長/善於/突出, [oneself]比平常做得好/超水準的發揮 <--> belie
+		+++ excel (v)[at]擅長/善於/突出
 		+ except --> exception --> exceptional
 		+ excess --> excessive
 		- excise
+		- exercise
 		- excite --> excitable --> excitability
 		- exclaim --> exclamation
 		+ exclude --> exclusive
-		+ /ɪkˈskɔːrɪeɪt/ excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste = savage, 剝皮 <-- ex + cor 皮 = skin + iate
+		+ /ɪkˈskɔːrɪeɪt/ excoriate (v)嚴厲批評/撻伐 = censure = denounce = lambaste = savage, 剝皮 <-- ex + cor 皮 = skin
 		* excrete
 		+ exculpate --> exculpatory
 		- excursion --> excursive
-		+ execrate --> execrable <-- ex + secr + ate
-		- execute <-- ex + secu + te
-		+ /ˌɛksɪˈdʒiːsɪs/ exegesis -> exegeses (n)解釋/註釋 = paraphrase
-		- exempt <-- ex + empt
+		+ execrate --> execrable
+		- execute 
+		+ /ˌɛksɪˈdʒiːsɪs/ exegesis -> exegeses (n)解釋/註釋 = paraphrase <|> genesis
+		- exempt
 		- exert <-- ex + sert 
 		- exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
 		+++ exhaust (n)排出/廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡, 排出
 		+++ exhaustive (adj)徹底的/詳盡的 = comprehensive 
-		* exhibit
+		** exhibit
 		+ exhilarate
 		+ exhort
 		- exile (v)流放/放逐 = evict = banish, 離鄉背井 (n)流放/流亡, 離鄉背井
@@ -2171,7 +2176,7 @@
 		+ exorcise
 		- exoteric (adj)開放的/公開的 <--> esoteric
 		+ exotic (adj)異國情調的/外來的, 奇特的
-		++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述
+		++ expand (v)展開/張開, 使膨脹/使擴張, 擴大, 詳述 = expound = exhaust
 		++ expansive (adj)豪爽的/健談的, 遼闊的 = extensive, 擴張的
 		* expanse (n)廣袤的地區, 展開的距離
 		++ /ɪkˈspeɪʃɪeɪt/ expatiate (v)細說/詳述, 漫遊 = ramble <|> expatriate <|> peripatetic <-- ex + spati 走 + ate
@@ -2204,7 +2209,7 @@
 		* extort
 		- extract --> extractive
 		- extricate --> extricable
-		+ exuberant (adj)熱情洋溢的, 生氣勃勃的/充滿活力的, 繁茂的 <-- ex + uber 肥沃 = fertile + ant
+		+ exuberant (adj)熱情洋溢的, 繁茂的 <-- ex + uber 肥沃 = fertile + ant
 		+ exuberance (n)繁茂, 生氣勃勃 <-- exuberant
 		+ exude
 		- exult
@@ -2387,6 +2392,7 @@
 		- equity (n)公平/公正, 股價, 普通股, 抵押淨值
 		- equilibrium
 		+ equanimity
+		- equinox (n)晝夜平分時(春分或秋分)
 		+ equipoise (n)均衡/平衡 = equilibrium = poise (v)平衡 = balance <-- equi + poise
 		+ equitable (adj)公平的 = fair = evenhanded
 		- equate (v)等同, 使相等
@@ -2559,7 +2565,8 @@
 		* effective (adj)有效的/生效的 = efficacious, 實際上的 --> effectiveness (n)有效
 		* efficiency (n)效率, 功效 = efficacy
 		+ efficient (adj)效率高的/有能力的, 有效的
-		+ /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency --> efficacious (adj)有效的 = effective = potent = sovereign
+		+ /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency -->
+		+ efficacious (adj)有效的 = effective = potent = sovereign
 		+ facile (adj)容易做的 = effortless, 膚淺的/輕率的 = superficial
 		- facility (n)(有特定用途的)場所, (機器)功能, 天資/才能, 輕易/容易  <-- facile
 		+ facilitate (v)使容易 = favor, 促進 = expedite <-- facility
@@ -2626,8 +2633,9 @@
 		+ /ˈfəːvə/ fervent (adj)熱烈的/熱情的 
 		+ fervid (adj)熾熱的 = hot = buring, 熱情的 = fervent = passionate --> fervor (n)熱情 = ardor
 		- perfervid (adj)非常熱心的 = fervent
-		+ /ɛfəˈvɛsənt/ effervescent (adj)冒泡的 = fizzy, 快活的/熱情洋溢的
-		+ /ˌɛfəˈvɛs/ effervesce (v)冒泡 = bubble = foam, 熱情洋溢 --> effervescence (n)冒泡, 熱情洋溢 = liveliness = ebullience
+		+ effervesce (v)冒泡 = bubble = foam, 熱情洋溢
+		+ effervescent (adj)冒泡的 = fizzy, 快活的/熱情洋溢的 = vivacious = enthusiastic
+		+ effervescence (n)泡泡, 熱情 = vivacity = enthusiasm
 		** /fəˈmɛnt/ ferment (V)使發酵 = leaven, 醞釀, 使騷動/煽動 = foment = inflame <|> /fə(ʊ)ˈmɛnt/ foment
 
 	fend, fence, fense 打擊 = strike
@@ -2795,7 +2803,7 @@
 
 	flagr 燒 = flame, burn == ard == bust == caus
 		+ conflagration (n)大火/大火災, 衝突/戰火
-		* flagrant (adj)駭人的/明顯的 = obvious = evident = blatant = shockingly noticeable, 罪惡昭彰的 = notorious = scandalous
+		* flagrant (adj)明目張膽的/公然的
 		- deflagrate (v)使迅速燃燒, 爆燃
 
 	flat 吹氣 = blow
@@ -3840,6 +3848,7 @@
 			- legislator (n)立法員
 			* legislature (n)立法機關, 美國州議會
 			- legal (adj)法律的, 合法的/正當的 = legitimate <--> illegal
+			- legalese (mn)[非]法律措辭
 			++ legitimate (v)使合法 (adj)合法的/正統的 = licit = legal, 正當的/合理的 = justified = warranted
 			- legitimacy (n)合法, 合法性, 合理性 = validity
 			- illegitimate
@@ -3918,7 +3927,8 @@
 
 	limin, lime 門檻 = threshold
 		- liminal (adj)閾限的/兩者之間的, 同屬兩處的
-		+ eliminate (v)消滅/消除 = remove = get rid of, 排除 = exclude, 謀殺 = murder, 從身體排出(廢棄物) = expel --> elimination (n)消滅, 淘汰/排除
+		+ eliminate (v)消滅/消除 = remove = get rid of, 排除 = exclude, 謀殺 = murder, 從身體排出(廢棄物) = expel
+		+ elimination (n)消滅, 淘汰/排除
 		* preliminary (adj)初步的 (n)開端, 初試
 		+++ sublime (adj)崇高的/極好的/極美的 = gorgeous, 極大的/極強的 = extreme (v)(固體)昇華(氣體)
 		+ sublimate (v)使昇華, 使高尚化/使理想化 (n)昇華物
@@ -4216,6 +4226,7 @@
 		+ manageable (adj)易於管理的/順從的 = tractable = obedient = docile
 		- manuscript (n)手稿
 		- manicure (n/v)修指甲
+		- manicurist (n)護手師
 		+++ manifest (adj)顯然的 = obvious = apparent = perceptible = overt (n)旅客清單, 載貨清單 (v)表明/表露 = make clear, 證明/證實 = prove <-- mani + fest
 		- manifesto (n)宣言/聲明
 		+ manipulate (v)操縱 --> manipulative (adj)操縱的(人或情況), 操作的
@@ -4562,7 +4573,7 @@
 		+ /ˈɛnəveɪt/ enervate (v)使衰弱 = weaken (adj)衰弱的 = weak = enervated
 		+ innervate (v)使…受神經支配
 		** nerve (n)神經, 沉著, 勇氣/膽量, 憂慮/焦躁, 葉脈 (v)[nerve oneself]鼓起勇氣/激勵 <--> unnerve
-		+ unnerve 
+		+ unnerve (v)使失去勇氣/使氣餒 = dishearten = discourage = dispirit
 	
 	neuro 神經 = nerves
 		- neurocognitive (adj)神經認知的
@@ -4791,7 +4802,7 @@
 		- outskirts (n)郊區/郊外
 		- outsmart (v)比……更聰明/智勝
 		- outsource (v)外包/委外
-		- outspoken (adj)直言不諱的 = explict
+		* outspoken (adj)直言不諱的 = explict
 		+ outstrip (v)超過 = exceed = excel = surpass = transcend, 比..跑(或游、划等)得快
 		- outwit (v)以機智勝過 = overreach
 		- outwork (n)外圍工事, 外包活 (v)工作比……做得更好更快或更勤
@@ -6861,7 +6872,7 @@
 		+ subside (v)平息/減弱, (水)消退, 下陷, 坐下/跪下
 		- subsidy (n)輔助金
 		- subsidize (v)補助, 補貼
-		- subsidiary (adj)附帶的/次要的 = subordinate, 隸屬的 (n)子公司
+		+ subsidiary (adj)附帶的/次要的 = subordinate, 隸屬的 (n)子公司
 		+ supersede (v)接替/取代 = supplant = replace = displace
 
 	sud 汗
@@ -7590,6 +7601,7 @@
 		- undirected (adj)無方向的/無目標的
 		- undisclosed (adj)未公開的
 		- /ʌndɪˈstəːbd/ undisturbed (adj)不受打擾的
+		- undone (adj)解開的/鬆開的, 未完成的, 毀了的
 		+ undoubtedly (adv)毫無疑問地/肯定地 = certainly
 		+++ undue (adj)不適當的/過度的/過分的 = overly = excessive = disproportionate --> unduly (adv)過度 
 		* unearth (v)掘出/使出土, 發現 = discover, 把(狐狸)趕出洞穴 <|> unearthly
@@ -7640,7 +7652,6 @@
 		- unlined (adj)未標線的, (衣服)沒有襯裡的
 		* unmitigated (adj)全然的/完全的 = absolute = unqualified = unreserved
 		- unmoved (adj)無動於衷的/冷漠的, 不動搖的/堅定的
-		+ unnerve (v)使失去勇氣/使氣餒 = dishearten = discourage = dispirit
 		+ unnoticed (adj)未被注意的 = unspotted
 		* unobjectionable (adj)無異議的 = acceptable <|>objectionable
 		+ unoriginal (adj)非原創的/模仿的 = derivative
@@ -7737,6 +7748,7 @@
 		- underreport (v)未全面報告
 		- underrepresented (adj)未被充分代表的/代表名額不足的
 		+ underscore (v)在...之下畫線 = underline, 強調 = emphasize
+		- underside (n)下面/底部, 陰暗面
 		+ understate (v)保守地說 --> understated (adj)保守的/輕描淡寫的 --> understatement (mn)保守的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)學習..以充當替角
 		+++ undertake (v)試圖/著手做 = take on, 陳諾/答應 = promise = give as a formal pledge --> undertaking (n)保證, 許諾, 事業 = enterprise, 企業 = company = business (mn)殯儀業
@@ -8128,7 +8140,7 @@
 		- victor (n)勝利者
 		- victory (n)勝利
 		- convince (v)使相信, 說服 = persuade = tempt
-		+ /ɪˈvɪns/ evince (v)表明/表示 = reveal = indicate
+		+ /ɪˈvɪns/ evince (v)表明/表示 = reveal = indicate = denote
 		- vincible (adj)可被征服的
 		- invincible (adj)無敵的/無法戰勝的
 
@@ -8142,7 +8154,6 @@
 
 	veter 老 = old
 		+ inveterate (adj)積習已深的 = chronic = habitual = confirmed, 根深蒂固的 <|> invertebrate
-		- vet (v)審查/仔細檢查 (n)[非]老兵
 		- /ˈvɛt(ə)rən/ veteran (n)老手, 老兵
 		- /ˈvɛtrɪnəri/ veterinary (adj)獸醫的 (n)動物手術 --> /ˌvɛt(ə)rɪˈnɛːrɪən/ veterinarian (n)獸醫
 

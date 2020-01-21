@@ -33,7 +33,7 @@
 - abrogate <--> arrogate <--> arrogant <--> derogate
 - ailing <--> alimentary <--> alimony
 - allegory <--> allergy <--> allege <--> allegiance
-- allude <--> delude
+- allude <--> delude <--> elude <--> evade
 - alter <--> altar
 - apprehend <--> apprehension
 - asinine
@@ -258,6 +258,8 @@
 ## E
 - eddy <--> ebb
 - effusive <--> elusive
+- effigy
+- effluvium <--> effusive
 - egalitarian <--> equalitarian
 - elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit
 - embroil <--> boil
@@ -271,7 +273,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
-- exalt <--> exult 
+- exalt <--> exult <--> elate
 - excoriate
 - execrable
 - excruciate <--> excruciating
@@ -280,9 +282,11 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - exercise <--> excise <--> incise <--> incisor
 - exhaust <--> exhaustive
 - exhort <--> cohort
+- expansive <--> expanse
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 - extirpate
+- exuberant <--> exude
 
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
@@ -296,7 +300,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - feign <--> foreign <--> deign <--> reign
 - feint <--> fend <--> fender <--> fiendish
 - feminine <--> famine
-- fete <--> mete
+- fete <--> mete <--> effete
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle <--> speckle
@@ -373,6 +377,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - hermetic <--> heretic <--> hermit <--> helmet
 - hen <--> hem
 - hide <--> hideous
+- hilarious <--> exhilarate
 - histrionic <--> historic <--> historical <--> hysterical
 - hoard <--> board <--> hoary
 - hoe <--> hog
@@ -410,9 +415,10 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - impose <--> imposing
 - inch <--> itch
 - inductive <--> induce <--> inducement
-- insipid <--> sapid <--> vapid <--> incipient <--> sapient <--> percipient <--> precipice
+- insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
+- ingrate <--> ingratitude <--> ingratiate
 - iniquity <--> inanity
 - innate <--> natal
 - innuendo

@@ -24,7 +24,14 @@
 	- **while**
 	- Time shift: **once**, **at first**, **then ... now**, initially
 	- Perception Shift
-- Not only watching for "no shift" words but also watching for absence of contrasting words.
+	- Special shift: **typically**, **Surprised**
+- False Contrast
+	- Not only watching for "no shift" words but also watching for absence of contrasting words.
+	- For example:
+		1. Though less celebrated, Haydn was far more _____ than Mozart: to Mozart's 41 symphonies, Haydan penned 106.
+			- Always read entire sentence - not necessarily an exact opposite.
+			- The blank does not have any relationship with "Though less celebrated".
+		
 - Choose answers that create the correct levels of similarity or contrast.
 
 ## Cause and Effect
