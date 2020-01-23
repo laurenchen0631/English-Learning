@@ -134,3 +134,4 @@
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.
 - Always check whether the question define the variable to be integers or not.
+- If the question ask the question like x + y rather than x = ? or y = ?, there must be a shorter way to get the answer without resolving x and y.

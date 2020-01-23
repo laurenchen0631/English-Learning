@@ -12,12 +12,13 @@
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aesthete <--> anesthetic
 - affect <--> effect <--> disaffected
+- affectation <--> affection
 - affirm <--> confirm <--> infirm
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - alleviate
 - alternate <--> altercate
 - anaesthetic
-- angst <--> aghast <--> antsy <--> artsy
+- angst <--> aghast <--> antsy <--> artsy <--> artery
 - animus <--> unanimous <--> animate <--> inanimate
 - antagonistic <--> protagonist
 - apathetic <--> pathetic
@@ -203,6 +204,7 @@
 - derive <--> derivative
 - derision <--> risible
 - desert <--> dissert
+- desist <--> destitute
 - despise <--> despite
 - despot <--> unspotted
 - desiccate <--> dissipate
@@ -246,6 +248,7 @@
 - downplay <--> underplay
 - dozen <--> doyen
 - drastic <--> dramatic
+- dressing <--> redress
 - drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
 - drudge <--> dredge <--> dread
 - dub <--> dab <--> daub <--> dud <--> dude
@@ -265,6 +268,8 @@
 - embroil <--> boil
 - empire <--> empiric <--> empirical
 - enervate <--> innervate <--> unnerve
+- enjoin
+- ensconce <--> sconce
 - evolve <--> devolve
 - epithet <--> epitome
 eradicate <--> extirpate <--> annihilate <--> exterminate
@@ -273,7 +278,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
-- exalt <--> exult <--> elate
+- exalt <--> exult <--> elate <--> exude <--> exuberant
 - excoriate
 - execrable
 - excruciate <--> excruciating
@@ -283,10 +288,10 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - exhaust <--> exhaustive
 - exhort <--> cohort
 - expansive <--> expanse
+- expatriate <--> expiate
 - expedite <--> expedition <--> expedient
 - exigent <--> exiguous
 - extirpate
-- exuberant <--> exude
 
 ## F
 - facet <--> faucet <--> facetious <--> factitious <--> multifaceted
@@ -354,6 +359,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - gross <--> gloss <--> engross
 - groundless <--> grounded
 - grouse <--> arouse
+- gulf <--> engulf
 - gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter <--> cusp <--> rasp
 - grasping <--> gripping
  
@@ -386,7 +392,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
 - hostel <--> hotel
-- humbug <--> hamburger
+- humdrum <--> humbug <--> hamburger
 - humiliate <--> humility <--> humiliation <--> humble
 - hubris <--> debris
 - hurdle <--> hurtle <--> curdle
@@ -412,12 +418,13 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - imitative <--> initiative
 - impart <--> impartial
 - imperative <--> imperious
-- impose <--> imposing
+- impose <--> imposing <--> imposture <--> impostor
 - inch <--> itch
 - inductive <--> induce <--> inducement
 - insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
+- industrious <--> industry
 - ingrate <--> ingratitude <--> ingratiate
 - iniquity <--> inanity
 - innate <--> natal
@@ -588,7 +595,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - ponderous <--> ponder
 - poppy <--> pop <--> poop
 - portion <--> potion
-- posit <--> position <--> post <--> posture <--> posterity <--> postulate
+- posit <--> position <--> post <--> posture <--> posterity <--> postulate <--> expostulate
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
 - praise <--> appraise <--> apprise
@@ -600,6 +607,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - precocious
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
+- impregnate <--> impregnable <--> pregnable
 - prerogative
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
@@ -646,7 +654,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - random <--> ransom <--> bosom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> ravenous <--> unravel
 - react <--> reactionary
-- recant
+- recant <--> incant
 - raconteur <--> rancor <--> rancid
 - rapprochement <--> reapproach
 - rattle <--> prattle
@@ -842,7 +850,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 
 ## V
 - vacillate <--> ventilate 
-- vacuous <--> viscous <--> vicious
+- vacuous <--> viscous <--> viscid <--> vicious
 - vagrant <--> vagary <--> vague
 - valley <--> volley
 - veneer <--> veer
