@@ -43,3 +43,11 @@
 
 ## Apposition (同位語)
 - Two words (usually adjective) follow one another.
+
+## Double Blank
+- Read the whole sentence.
+- DO NOT assume a double blank will be easy just because the words seem easy.
+- Focus on the words you understand best rather than on hard vocabulary that distracts you from the correct answer.
+- Look for:
+	1. Phrase or words that are superficially connected yo wrong answers.
+	2. Answer choices that are similar to each other and almost fit.

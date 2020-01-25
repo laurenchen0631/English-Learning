@@ -130,6 +130,29 @@
 	- Divisibility Rule for 9 if the sum of each digits is divisible by 9, the number is divisible by 9.
 		- 1296, 1 + 2 + 9 + 6 = 18,  thus 1296 is divisible by 9.
 
+## Algebra
+- Ax^2 - B^2 = (Ax+B)(Ax-B)
+- (a+b)^2 = a^2 + 2ab + b^2
+- Absolute Value Equation
+	- |Ax+B| = Cx + D
+	- Ax + B = Cx + D or Ax+b = -Cx - D
+	- solve x and take the result back to the original equation to **check if the results works.**
+	- Example. |2x+5| = x+1, 2x+5 = (x+1) or (-x-1), x = -4 (|2*-4 + 5| !== -4 + 1) does not work and x = -2 (|2*-2 + 5| !== -2 +1) also doesn't work.
+
+## Comparison
+- A < B: A is **less** than B
+- A > B: A is **greater** than B
+- A <= B: A is less than or equal to B
+- A >= B: A is greater than or equal to B
+- If we multiply or divide by a **negative** number, **it reverse the order of inequality.**
+	- -x > 3 --> x < -3
+	- 3 < 7 --> -3 > -7
+- if a > b and c > d
+	- [O] a+c > b+d
+	- [X] a-c > b-d (15 > 8, 10 > 2 --> 15 - 10 > 8 - 2)
+	- [O] a-d > b-c (20>15, 12>10 --> 20 - 10 > 15 - 12)
+	- [X] ac > bd (true iff abcd are all positive)
+
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.

@@ -104,6 +104,7 @@
 - chafe
 - chary <--> char
 - chasten <--> chaste
+- choleric
 - chore <--> choral <--> choir <--> chorus
 - civic <--> civil <--> cavil <--> civilian <--> civility
 - clement <--> cement <--> cremate
@@ -137,7 +138,7 @@
 - conjecture <--> conjure <--> conjugal
 - consort <--> consortium <--> comport <--> deport
 - constituent <--> constitutional
-- consummate
+- consummate <--> commensurate
 - content <--> contention <--> contentment <--> contentious <--> consent
 - contingent <--> continent <--> contiguous 
 - contort <--> distort <--> extort <--> retort 
@@ -167,7 +168,7 @@
 - crass <--> grass
 - crater <--> crate
 - creak <--> creek <--> creep
-- crescent <--> credent <--> credulous <--> credo
+- crescent <--> credent <--> credulous <--> credo <--> creditable
 - cronyism <--> cynicism
 - cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
@@ -269,9 +270,12 @@
 - empire <--> empiric <--> empirical
 - enervate <--> innervate <--> unnerve
 - enjoin
+- ensign
 - ensconce <--> sconce
+- entail <--> curtail
+- entrant <--> entrance
 - evolve <--> devolve
-- epithet <--> epitome
+- epithet <--> epitome <--> epigram
 eradicate <--> extirpate <--> annihilate <--> exterminate
 - escalate <--> escalade <--> escalator
 - esculent
@@ -281,6 +285,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - exalt <--> exult <--> elate <--> exude <--> exuberant
 - excoriate
 - execrable
+- execrate <--> excrete
 - excruciate <--> excruciating
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
@@ -294,7 +299,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - extirpate
 
 ## F
-- facet <--> faucet <--> facetious <--> factitious <--> multifaceted
+- facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted
 - fare <--> ware <--> aware
 - falcon <--> felon
 - fall <--> fell
@@ -404,6 +409,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 ## I
 - idiom <--> idiot
 - ignominious
+- imbue <--> imbibe
 - incandescent
 - incarcerate
 - incarnate <--> incarnadine <--> carnage <--> carnal
@@ -412,7 +418,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - invective
 - inveigh <--> inveigle <--> invective
-- ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous <--> indignant <--> indignity
+- ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous <--> indignant <--> indigent <--> indignation <--> indignity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
 - imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
@@ -430,6 +436,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - innate <--> natal
 - innuendo
 - inoculate
+- insufferable
 - intend <--> superintend <--> distend
 - inter <--> intern
 - intransigent <--> transient
@@ -548,6 +555,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - ostentatious <--> ostensible
 - outcry <--> decry
 - outlook <--> overlook <--> oversee <--> oversight
+- overweening
 
 ## P
 - pagan <--> pigeon <--> pageant
@@ -673,6 +681,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - replete <--> deplete
 - reprobate
 - requisite <--> requisition
+- resign <--> resigned
 - respite <--> respect
 - restive <--> restless <--> unrest
 - retain <--> retrain
@@ -793,6 +802,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - subsume <--> resume <--> presume <--> presumptuous
 - subsist
 - sullen <--> sully
+- supercilious
 - superfluous <--> superficial
 - supplant <---> suppliant
 
@@ -814,7 +824,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch
-- torpid <--> tumid <--> contumacious <--> turgid <--> trepid <--> tepid <--> torrid
+- torpid <--> tumid <--> contumacious <--> turgid <--> trepid <--> tepid <--> torrid <--> turbid <--> turbulent
 - torrent <--> turret
 - touchy <--> touching
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor

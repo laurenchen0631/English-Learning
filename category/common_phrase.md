@@ -114,6 +114,8 @@
 	- We have gone through the evidence with a fine-tooth comb.
 	
 ## Frequency
+- more often than not 往往/多半 == most of time
+	- More often than not, a student will come up with the right answer.
 - on and off 時斷時續地/間歇地 == If something happens on and off during a period of time, it happens sometimes.
 	- I've had toothache on and off for a couple of months.	
 - (every) now and then 偶爾 == sometimes
@@ -643,6 +645,8 @@
 	- The news really took us aback.
 
 ## Status
+- (be) above/beyond reproach 無可非議/十全十美
+	- Your behavior today has been above reproach.
 - a raw deal (n)不公平的待遇 == bad or unfair treatment
 	- He said that many children in the city's schools were getting/being given a raw deal by being taught in classes that were too large.
 - at the height of 在..的最高峰 == at the most advanced or extreme point of (something)
