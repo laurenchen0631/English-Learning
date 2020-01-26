@@ -27,7 +27,9 @@
 - appeal <--> appellant <--> appellation
 - appurtenant
 - aptitude <--> attitude <--> altitude
+- arch
 - arrant <--> errant <--> errand <--> erratic <--> erroneous
+- arriviste
 - argument <--> augment
 - artifact <--> artifice <--> artificial
 - artful <--> artistic <--> arty
@@ -167,6 +169,7 @@
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
+- craven <--> crave <--> carve
 - creak <--> creek <--> creep
 - crescent <--> credent <--> credulous <--> credo <--> creditable
 - cronyism <--> cynicism
@@ -276,7 +279,8 @@
 - entrant <--> entrance
 - evolve <--> devolve
 - epithet <--> epitome <--> epigram
-eradicate <--> extirpate <--> annihilate <--> exterminate
+- equable <--> equitable <--> equation <--> equity
+- eradicate <--> extirpate <--> annihilate <--> exterminate 
 - escalate <--> escalade <--> escalator
 - esculent
 - esoteric <--> exoteric
@@ -295,6 +299,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - expansive <--> expanse
 - expatriate <--> expiate
 - expedite <--> expedition <--> expedient
+- expunge <--> expurgate
 - exigent <--> exiguous
 - extirpate
 
@@ -327,9 +332,10 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx
-- forlorn
-- forsake
-- forthcoming
+- forbear <--> forbid <--> forbidding
+- forfeit <--> forlorn
+- forsake <--> sake
+- forthcoming <--> forthright <--> forthwith
 - fractious <--> fractional
 - frail <--> flail <--> fragile
 - fray <--> defray
@@ -409,7 +415,9 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 ## I
 - idiom <--> idiot
 - ignominious
+- imbroglio
 - imbue <--> imbibe
+- impecunious
 - incandescent
 - incarcerate
 - incarnate <--> incarnadine <--> carnage <--> carnal
@@ -488,6 +496,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 ## M
 - magisterial <--> magistery
 - makeup <--> markup
+- malapropism
 - mantra
 - marshal <--> marsh
 - maternal <--> paternal
@@ -507,6 +516,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - mince <--> wince
 - miscreant <--> recreant
 - miser <--> misery
+- misgiving
 - mitigate <--> unmitigated
 - moat <--> moan
 - mongrel <--> mogul
@@ -540,6 +550,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - oblivious <--> obvious
 - object --> objection <--> objective
 - objurgate 
+- obnoxious <--> innocuous <--> noxious
 - obtrusive
 - occlude <--> occult
 - occupation <--> preoccupation
@@ -583,6 +594,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
 - perceive <--> percept <--> precept
+- peremptory <--> preemptive
 - perfidy
 - perpetrate <--> perpetuate 
 - pernicious
@@ -651,6 +663,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - querulous <--> quarrelsome
 - quibble <--> squabble <
 - quiescence <--> quintessence <--> disquiet <--> quietus
+- quintessential <--> essential
 - quorum <--> quota <--> quote
 
 ## R
@@ -814,7 +827,7 @@ eradicate <--> extirpate <--> annihilate <--> exterminate
 - telltale <--> untold
 - temerity <--> temerarious
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
-- tend <--> tender <--> tendentious <--> tenacious
+- tend <--> tender <--> tendentious <--> sententious <--> tenacious
 - tenebrous
 - teensy <--> tinny
 - tentative

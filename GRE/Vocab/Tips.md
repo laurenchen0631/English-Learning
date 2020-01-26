@@ -44,10 +44,15 @@
 ## Apposition (同位語)
 - Two words (usually adjective) follow one another.
 
-## Double Blank
+## Double/Triple Blank
 - Read the whole sentence.
 - DO NOT assume a double blank will be easy just because the words seem easy.
 - Focus on the words you understand best rather than on hard vocabulary that distracts you from the correct answer.
 - Look for:
-	1. Phrase or words that are superficially connected yo wrong answers.
+	1. Phrase or words that are superficially connected to wrong answers.
 	2. Answer choices that are similar to each other and almost fit.
+- Advanced Triple Blanks
+	- Identify and "decode" the hardest word and phrases.
+	- If possible, paraphrase all meaning before you fill in any blanks
+	- **Read every word! Avoid skimming and scanning.**
+	- Double-check the meaning again you fill in the blanks

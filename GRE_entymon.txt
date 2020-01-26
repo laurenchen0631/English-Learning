@@ -106,6 +106,7 @@
 			+ astringent 
 			+ attest
 			+ attenuate
+			- atop (adv/prep)在..之上
 			++ attune --> attuned
 			+++ attribute --> attribution --> attributable
 			+ auspices --> auspicious
@@ -401,7 +402,7 @@
 
 	arch, archi, archy
 		1. 主要的 = chief, first, principal
-			- arch (adj)調皮的/淘氣的 (n)拱/拱門/拱形物, 足背/足弓 (v)使成弧形, 呈拱形覆蓋
+			+ arch (adj)調皮的/淘氣的 (n)拱/拱門/拱形物, 足背/足弓 (v)使成弧形, 呈拱形覆蓋
 			- archipelago (n)群島, 多島的海 <-- archi + pelago 海 = sea
 			- architect (n)建築師, 創造者 --> architecture (n)建築
 
@@ -434,6 +435,7 @@
 		* armorial (adj)紋章的/徽章的 (n)紋章書
 		- armistice (n)停戰/休戰協議 = truce <-- arm + stice 停止 = stop
 		- disarm (v)使繳械, 裁軍, 拆除(炸彈), 使(敵意或猜疑)緩和, 剝奪(權力)
+		- disarming (adj)消除敵意的
 		- disarmament (n)裁軍/裁減軍備
 		- firearm (n)槍枝
 
@@ -649,7 +651,7 @@
 	
 	boss 突出/隆起 = lump
 		- emboss (v)使凸出/加浮雕於
-		- bossy (adj)[非]愛指揮人的/專橫的 = domineering = dictatorial (n)[非]小牛/母牛 = cow = calf
+		- bossy (adj)[非]愛指揮人的/專橫的 = domineering = dictatorial = peremptory (n)[非]小牛/母牛 = cow = calf
 
 [C]
 	com, co, coal, col, con, cor
@@ -1327,7 +1329,7 @@
 	
 	chival, cheval, caval 馬 = horse
 		- cavalry (n)騎兵, 裝甲兵, 最後手段
-		++ /ˌkavəˈlɪə/ cavalier (adj)目空一切的/漫不經心的 = offhand (n)護花使者, 保王黨支持者, 查理斯王騎士犬 
+		++ /ˌkavəˈlɪə/ cavalier (adj)目空一切的/漫不經心的 = offhand = blase (n)護花使者, 保王黨支持者, 查理斯王騎士犬 
 		- /ˌʃɛvəˈlɪə/ chevalier (n)騎士/爵士/見習武士
 		+ /ˈʃɪv(ə)lri/ chivalry (n)騎士風度/彬彬有禮, 騎士精神 --> chivalrous (adj)騎士精神的, (對女士)彬彬有禮的/有騎士風度的
 	
@@ -1543,6 +1545,7 @@
 
 	croach, croch, crook 鉤 = hook
 		* encroach (v)[on]侵入/侵佔 = impinge = intrude, 侵蝕/超出通常界線
+		* encroachment (mn)侵入/侵佔
 		- corchet (v)用鉤針編織 (n)鉤針編織
 
 	ciner 灰 = ashes
@@ -2347,11 +2350,13 @@
 	ego 自己 = self == auto
 		+ egoism (n)利己主義 = self-centeredness
 		- egocentric
-		+ egotist (n)自私自利的人/自我中心者 --> egotistical, egotistic (adj)自負的/自大的 = conceited = vain = 
+		+ egotist (n)自私自利的人/自我中心者
+		+ egotistical, egotistic (adj)自負的/自大的 = conceited = vain = 
 
 	edi, ed
 		1. 寺廟 
-			+ edify (v)啟迪/教化 = instruct = benefit = uplift --> edification (n)啟迪/教化
+			+ edify (v)啟迪/教化 = instruct = benefit = uplift 
+			+ edification (n)啟迪/教化
 			+ edifying (adj)起教化作用的
 			- edifice (n)宏偉建築
 
@@ -2377,23 +2382,26 @@
 
 		2. 附帶 = in addition to
 			- epiphenomenon (n)附帶現象
-			- episode (n)事件/一連串事件/一段經歷, 一集/一節 --> episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
-			+ epitome (n)梗概/節錄, 縮影/典型 --> epitomize (v)作為...的縮影/代表/象徵 <-- epi + tome 卷/冊 
-			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = short-lived = transitory, 僅一天的 <-- ep + hemer 日 = day
+			- episode (n)事件/一連串事件/一段經歷, 一集/一節
+			+ episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
+			+ epitome (n)[the epitome of sth]典型/典範 = quintessence, 摘要 = abstract  <-- epi + tome 卷/冊 
+			+ epitomize (v)是…的典型/成爲…的典範
+			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = transitory (n)短命植物<-- ep + hemer 日 = day
 			+ ephemeron (n)短暫之事物 
 			+ epigram --> epigrammtic
 			- epilogue
 
 	err 錯誤 = errant
-		+ aberrant (adj)越軌的, 異常的 = exceptional = abnormal = anomalous --> aberrance (n)越軌 --> aberration (n)失常
-		+ errant (adj)走入歧途的/犯錯的/行爲不當的 = mistaken = erring = straying
-		+ erratic (adj)反覆無常的/無計劃的/不規則的 = whimsical
+		+ aberrant (adj)偏離正道的/脫離常軌的 = exceptional = abnormal = anomalous --> aberrance (n)越軌
+		+ aberration (n)脫離常軌/失常, [生]畸變/變型, [物](透鏡)像差
+		+ errant (adj)犯錯的/行爲不當的 = mistaken = erring = straying
+		+ erratic (adj)飄忽不定的/無規律的 = unpredictable
 		* /əː/ err (v)犯錯誤/出錯, 作惡/犯罪
 		- error (n)錯誤
 		+ erroneous (adj)錯誤的/不正確的 = mistaken = incorrect = wrong = false
 
 	ept 能力 = apt
-		- adept (adj)熟練的
+		- adept (adj)熟練的 (n)能手/內行
 		+ inept (adj)無能的/笨拙的 = inefficient = maladroit = awkward = clumsy
 		+ ineptitude (n)無能/笨拙/愚笨
 
@@ -2404,27 +2412,29 @@
 		+ equable (adj)性情溫和的 = serene = tranquil, 穩定的 = steady
 		* equation (n)等式/方程式, 均衡/相等, 考量
 		- equity (n)公平/公正, 股價, 普通股, 抵押淨值
+		+ inequity (n)不公平/不公正 = injustice = unfairness
 		- equilibrium
 		+ equanimity
 		- equinox (n)晝夜平分時(春分或秋分)
-		+ equipoise (n)均衡/平衡 = equilibrium = poise (v)平衡 = balance <-- equi + poise
+		+ equipoise (n)平衡 = equilibrium = poise, 平衡力 (v)平衡 = balance = counterbalance <-- equi + poise
 		+ equitable (adj)公平的 = fair = evenhanded
 		- equate (v)等同, 使相等
 		- /ɪˈkweɪtə/ equator (n)赤道, 天體軌道
 		- /ˌɛkwəˈtɔːrɪəl/ equatorial (adj)赤道的/赤道附近的
 		- equivalent
 		+ equivocate --> equivocal
-		+ inequity (n)不公平/不公正 = injustice = unfairness
 
 	esthete 感覺
-		+ aesthete (n)審美家 --> /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
+		+ /ˈiːsθiːt/ aesthete (n)審美家 
+		+ /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
 		- aesthetics (n)美學
-		- /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑
+		- /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑 (adj)麻醉的
+		- anaesthetics (n)麻醉學
 
 	ev 時代 = age
 		- coeval (adj)同時代的/當代的 = contemporary (n)同時代的人 = contemporary
 		- medieval (adj)中世紀的
-		- longevity (n)長壽, 長期受歡迎
+		- longevity (n)長命/長壽
 		- /prʌɪˈmiːvəl/ primeval (adj)原始的
 
 	emi, emia 血 = blood == hemo
@@ -2436,13 +2446,13 @@
 		- thalassemia (n)海洋性貧血/地中海型貧血
 
 	ess 存在 = be
-		- essence (n)本質, 要素, 精髓/精華 = gist, 香精/精油
-		* essential (adj)本質的, 必要的/不可缺的 (N)要素/要點/必需品, 本質
+		- essence (n)本質,  香精/精油
+		* essential (adj)必要的/重要的 = necessary, 本質的/基本的, 自發的/原因不明的(疾病) = idiopathic (N)必需品, 要素/要點/本質
 		+ quintessential (adj)典型的 = typical
 		+ quintessence (n)典範/典型, 精華, 第五元素 <--> quiescence
 
 	ethno, ethn 種族/文化 = race, culture
-		* /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 人種學的 <|> ethic
+		* /ˈɛθnɪk/ ethnic (adj)種族的/民族的, 異族的/異國風味的 <|> ethic
 		- /ɛθˈnɪsɪti/ ethnicity (n)種族特徵
 		- /ɛθˈnɒlədʒi/ ethnology (n)民族學/文化人類學(比較與分析人類的族群、種族與國家群體之間的起源、分布、技術、宗教、語言與社會結構)
 		+ ethnocentric (adj)民族中心主義的/種族優越的
@@ -2450,17 +2460,19 @@
 		- ethnomusicology (n)民間音樂
 
 	empt 買/獲取/拿 = buy, obtain, take
-		* exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
-		+ peremptory (adj)不容反抗的 = imperative, 專橫的/獨斷的 = masterful = imperious = magisterial = domineering = arrogant = dictatorial = overbearing
-		+++ preempt (v)阻止 = forestall, 獲取/先佔/先取/以先買權獲得 --> preemptive (adj)先發制人的
+		+ exempt (v)免除/豁免 = immune (adj)被免除的 (n)被免除者/免稅者
+		+ peremptory (adj)不容置辯的/霸道的 = imperious = arrogant = dictatorial = bossy, [法]絕對的/強制的 
+		+ preempt (v)阻止 = forestall, 先佔/先取/以先買權獲得 
+		+ preemptive (adj)先發制人的
 		*** premium --> premiums (n)保險費, 加價, 紅利 = bonus = extra, 獎品/獎勵品 (adj)優質的 = prime
-		+++ prompt (adj)立即的/準時的 = punctual = timely (v)激起/引起 = cause = bring about, 提示 --> promptness (n)
+		+++ prompt (adj)立即的/準時的 (v)激起/引起 = cause = bring about (n/v)提示(演員) --> promptness (n)
 
 	electro 電
 		- electroencephalographic (adj)腦電圖的
 		* electric (adj)靠電力運作的/用電的, 令人震驚的 (n)靠電運作的交通工具/電車
 		* electrical (adj)電的, 電器的 (n)電氣設備/電路
 		- electrician (n)電工/電氣技師
+		- electrode (n)電極
 		- electrocute (v)使觸電致死/用電刑處死
 		- electron (n)電子
 		- electrostatic (adj)靜電的
@@ -2474,23 +2486,24 @@
 		- fluorescent
 		+ obsolescent
 		- pearlescent (adj)珍珠般的
-		- senescent (adj)老邁的 <-- sen 老 = old + escent
+		- senescent (adj)衰老的 <-- sen 老 = old + escent
 
 [F]
 	for 拒絕/禁止/阻止 = reject, prohibit
-		+ forbear (v)克制/忍耐 = refrain = abstain from = desist from --> forbearance (n)自制, 忍耐 = patience <-- for + bear
-		* forbid -> forbad/forbade -> forbidden (v)禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
-		- forbidding (adj)嚴峻的/險惡的/令人討厭的
-		+ forfeit (v)喪失/被罰沒收 (n)罰款/處罰 (adj)被罰的/被沒收的
+		+ forbear (v)克制/忍耐 = refrain = abstain from = desist from
+		+ forbearance (n)自制/忍耐 = patience <-- for + bear
+		* forbid -> forbad/forbade -> forbidden (v)拒絕給予, 禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
+		- forbidding (adj)可怕的/令人難親近的
+		+ forfeit (v)喪失(權利) (n)罰款/處罰 (adj)被罰的/被沒收的
 		- forgo (v)拋棄/斷念 = renounce = resign = relinquish
 		+ /fəˈlɔːn/ forlorn (adj)被遺棄的/孤獨的, 幾乎無望的/不太可能實現的
 		+ forsake (v)遺棄/捨棄 = abandon = leave = desert, 放棄 = renounce
-		+ forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate = recant, 背棄
+		+ forswear (v)發誓拋棄/發誓戒除 = renounce = repudiate = recant
 
 	fore, forth 前面 = before, front, superior
 		- fore (adj)在前部的 (n)前部/船頭 (prep)[非]從前 = before
 		- forebode (v)預示/預感 = foretell = predict <-- fore + bode
-		- forecast (v/n)預報/預測
+		- forecast (v/n)預報/預測 = predicate = estimate
 		- forefront (n)最顯要的位置/最重要的地位 = foreground
 		+ foreground (n)前佈景, 最顯要的位置/最重要的地位 = forefront (v)強調 = emphasize
 		- foreknowledge (n)預知
@@ -2503,7 +2516,7 @@
 		- foresight (n)遠見/深謀遠慮 = prescience = presage <--> hindsight
 		+ forestall
 		* foretell (v)預言/預示 = presage
-		- forethought (n)深謀遠慮/先見
+		- forethought (n)深謀遠慮/先見 = foresight
 		- forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
 		* forewarning (v)預先警告/事先告知
 		- forthwith (adv)立刻 = immediately
@@ -2511,18 +2524,19 @@
 		+ forthright (adj)直率的/直截了當的 = outspoken (adv)馬上/立刻
 
 	fora 孔 = bore
-		- perforate (v)使穿孔/在…上開孔
-		- foramen (n)孔/小孔, 胚孔
+		- perforate (v)使穿孔/在…上開孔 (adj)穿孔的
+		- foramen (n)孔
 		- biforate (adj)雙孔的
 
 	form 形狀
-		+ conform (v)遵守/遵從 = comply = hew, 使一致 = agree --> conformity (n)遵守/遵從, 相似 = similarity
+		+ conform (v)遵守/遵從 = comply = hew, 使一致 = agree 
+		+ conformity (n)遵守/遵從, 相似/一致 = similarity = agreement
 		- cuneiform (adj)楔形文字的, 楔狀骨的 (n)楔形文字
-		- formal (adj)正式的, 拘謹的/刻板的, 整齊的, 形式上的
-		- formality (n)禮節/俗套, 拘泥形式/拘謹, 正式
+		- formal (adj)正式的, 表面的/外形的, 名義上的 (n)晚禮服, 正式的社交活動
+		- formality (n)禮節 = etiquette, 拘謹, 正式, 正式手續
 		+ formation (n)形成/組成, 構成物/結構, 編隊/隊形
-		- formula (n)分子式, 公式, 客套話, 慣用語
-		+ formulaic (adj)公式化的/客套的/俗套的
+		- formula (n)公式, 分子式, 配方 = formulation, 配方奶, 慣例/常規 = method = procedure, 慣用語句/客套話
+		+ formulaic (adj)客套的/俗套的, 公式化的
 		+ formulate (v)系統地表達, 規劃/開發 = devise = develope
 		- inform (v)通知/告知 --> informed (adj)見多識廣的, 消息靈通的 <--> uninformative
 		- informant (n)情報提供者, 告密者 = informer, (為語言學調查)提供資料的講本地話的人
@@ -3443,7 +3457,7 @@
 			+ illusion --> illusive, illusory
 			+ illustrate --> illustrative
 			+ /ɪmˈbʌɪb/ imbibe (v)喝 = drink, 吸收(知識) = absorb <-- im + bibe 喝 = drink
-			+ /ɪmˈbrəʊlɪəʊ/ imbroglio (n)糾紛/糾葛 = entanglement <-- im + broglio 混亂 = confuse
+			+ /ɪmˈbrəʊlɪəʊ/ imbroglio (n)錯綜複雜的局面 <-- im + broglio 混亂 = confuse
 			- immanent (adj)內在的, 普遍存在的 <-- im + man 待 = stay = ent
 			- immerse (v)浸入, 沈浸於 = engross
 			+ imminent
@@ -3994,6 +4008,7 @@
 		- circumlocution
 		- colloquial (adj)口語的/通俗的 
 		- colloquium -> colloquia/colloquiums (n)學術討論會 = seminar
+		- logorrhea (n)多語症
 		+ /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing
 		- /ləˈkjuːʃən/ locution (n)用句 = word = pharse, 說話方式
 		- elocution (n)演講技巧
@@ -4299,7 +4314,7 @@
 
 	micro, min, mini, minu 小/微 = small
 		+ diminish (v)減少 = curtail = abate = wane = pare = lessen = scant = dwindle, 降低..的權勢或價值
-		+ /ˌdɪmɪˈnjuːʃ(ə)n/ diminution (n)減少/縮減
+		+ /ˌdɪmɪˈnjuːʃ(ə)n/ diminution (n)減少/縮減 = lessening = reduction
 		* diminutive (adj)微小的 = minuscule = lilliputian, 表示小的 (n)表示小的字詞, 暱稱/名字縮寫
 		- /ˈmʌɪkrəʊb/ microbe (n)微生物 = microscopic organisms = microorganism
 		- microbiome (n)微生物群系
@@ -5105,7 +5120,7 @@
 		- procession
 		+ proclaim --> proclamation
 		+ proclivity 
-		+ procrastinate (v)耽擱/拖延 = delay = postpone --> - procrastination (mn)延遲/耽擱 <-- pro + cras 明天 = tomorrow + tinate 
+		+ procrastinate (v)耽擱/拖延 = delay = postpone --> procrastination (mn)延遲/耽擱 <-- pro + cras 明天 = tomorrow + tinate 
 		* procreate (v)生育 = reproduce
 		- /ˈprɒktə/ proctor (n)代理人, 學監 (v)監考 <-- procurator
 		+ procure --> procurement
@@ -5314,6 +5329,7 @@
 		* /ˈprʌɪmeɪt/ primate (n)最高階主教, 靈長類動物 
 		+ primacy (n)第一/首位/卓越, 大主教(或教皇)的職位
 		++ prime (n)主要的, 優質的/一流的/最合適的, 互質的 (n)質數, 巔峰/全盛時期/青春 (v)使準備好/為..事先提供消息, 使準備好, 裝填火藥, 塗底漆, 啟動(幫補), 上油
+		- primer (n)底漆, 雷管, 入門書/初學者讀本
 		- primeval
 		+ primogenitor (n)始祖 = progenitor
 		- primp (v)刻意打扮/精心打扮
@@ -6345,7 +6361,8 @@
 		- rugose (adj)多皺摺的 = corrugated = wrinkled
 
 	relic 放棄 = leave, abandon, relinquish
-		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)社會棄兒, 遺棄物 --> dereliction (n)遺棄/廢棄, [dereliction of duty]怠忽職守
+		+ derelict (adj)廢棄的/荒廢的, 怠忽職守的 = remiss (n)社會棄兒, 遺棄物
+		+ dereliction (n)遺棄/廢棄, [dereliction of duty]怠忽職守
 		- relict (n)殘遺物
 		- relic (n)遺物/遺跡, 聖骨/聖物
 		- reliquary (n)聖骨盒/聖物箱 = shrine
@@ -6863,7 +6880,7 @@
 		+ sensual (adj)肉體上的/感官享受的 --> sensuality (mn)感官滿足
 		+ sensuous (adj)感覺上的, 令人感官愉悅的
 		+ sentient (adj)有知覺的 = conscious
-		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <-- sentence
+		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <|> tendentious <-- sentence 
 		++ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish <--> unsentimental
 		- sentimentality (n)多愁善感
 		- /ˈsɛntɪn(ə)l/ sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛 = station
@@ -7744,6 +7761,7 @@
 		- unthinkable (adj)難以想像的/難以置信的
 		- unthreatening (adj)不具威脅的
 		+ untimely (adj)(結束或死亡)過早的, 不適時的
+		- untiring (adj)不會疲勞的
 		- untold (adj)無數的/數不清的, 未被講述的
 		+ untoward (adj)沒料到的/不適宜的 = unexpected = unfavorable = inconvenient
 		+ /ˌənˈtraməld/ untrammeled (adj)不受限制的/無拘無束的

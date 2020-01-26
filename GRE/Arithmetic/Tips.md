@@ -158,3 +158,6 @@
 	- Improvement: choose the middle answer and see the difference is greater or lesser.
 - Always check whether the question define the variable to be integers or not.
 - If the question ask the question like x + y rather than x = ? or y = ?, there must be a shorter way to get the answer without resolving x and y.
+- If one expression is repeated or compound fraction, we can choose a single variable for the expression.
+	- (x^2+1)^2 - 15(x^2+1) + 50 = 0 --> u = x^2+2, u^2 - 15u + 50 = 0
+	- 3 / (1-8/(7+k)) = 15
