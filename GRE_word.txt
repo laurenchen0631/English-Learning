@@ -365,6 +365,7 @@
     - balmy (adj)氣候溫和的 = mild = pleasant
     - band (n)帶/細繩/箍, 樂團, 特定範圍, 波段, 一幫人/一群人 (v)套環/戴上環套, [together]團結/聯合
     - bandage (n)繃帶 (v)包紮 <|> badinage
+    - bang (n)砰的聲音, 猛擊/猛撞, 瀏海 (v)發出砰的一聲/砰砰作響, 猛擊/猛撞, 剪(瀏海) (excl)砰
     - banjo (n)五弦琴/班卓琴
     - banking (mn)銀行業務, 河堤/堤岸 = embankment
     - banner (n)旗幟/橫幅, 主張/原則 = principle (adj)傑出的/一流的 = excellent
@@ -507,6 +508,7 @@
     - brooch (n)胸章
     - broom (n)掃帚, 金雀花
     - brow (n)額頭 = forehead, 眉毛 = eyebrow, 山頂/峭壁頂端
+    - brunette, brunet (n)深褐髮年輕女子 (adj)有深褐頭髮的, (頭髮)深褐色的
     - bruise (n/v)擦傷/瘀青 = contusion, 碰傷 (v)傷害(情感), 搗碎(食物) = pound = crush <|> cruise
     - /bruːt/ bruit (v)[about/abroad/around]散佈(謠言)
     - brunt (n)最糟糕的部分/主要的影響 <|> blunt
@@ -710,8 +712,6 @@
     * comely (adj)動人的/美麗的 = attractive = gainly <-- becomely
     * con (n/v)欺騙 = coax = deceit, 指揮操舵 (n)缺點 = disadvantage <--> pro, 囚犯 = convict, 集會 = convention
     * /ˈkɒntʊə/ contour (n)輪廓/外型 = configuration = outline, 等高線 (v)使與某種輪廓相符, 加陰影, 標等高線, (路)沿著等高線
-    * cord (n)細繩, 燈芯絨, 羈絆 (v)用繩子捆綁
-    - corduroy (n)燈芯絨, 燈芯絨褲 (v)用木頭鋪(道路)
     * /ˈkaʊns(ə)l/ council (n)理事會/委員會, 政務委員會/地方議會, 會議
     * /ˈkaʊns(ə)l/ counsel (v)忠告, 勸告, 給予專業幫助, 推薦 (n)律師/辯護人
     * counselor, counsellor (n)輔導員, 諮詢顧問, 法律顧問, 夏令營管理員
@@ -751,6 +751,7 @@
     - canal (n)運河/渠, 管/道 = tract
     - canister (n)裝食物的罐子, 瓦斯罐
     - cannery (n)罐頭工廠
+    - cannibal (n)食人者, 同類相食的動物 --> cannibalism (mn)同類相食
     - /ˈkanən/ cannon (n)大砲/火砲, 飛機或坦克上的機關砲 <|> canon <|> canyon
     - /ˈkanjən/ canyon (n)峽谷
     - canvass (v)遊說, 贏取(支持) = botain, 提出(意見或計劃)供考慮 = moot, 詳細討論 (n)遊說, 討論
@@ -784,7 +785,8 @@
     - /sɪˈmɛnt/ cement (n)水泥, 讓人們團結的要素, 黏固粉/白堊 (v)用水泥接合, 鞏固/加強
     - /ˈsɛntɔː/ centaur (n)半人半馬怪物
     - cemetery (n)公墓/墓地 = necropolis
-    - ceremony (n)典禮/儀式 (mn)禮節 --> ceremonious (adj)正式的/隆重的 = formal, 一絲不苟的 = punctilious
+    - ceremony (n)典禮/儀式 (mn)禮節 
+    - ceremonious (adj)正式的/隆重的 = formal, 一絲不苟的 = punctilious
     - /sɪˈruːlɪən/ cerulean (adj)天藍色的 = azure
     - /ˈtʃɑːns(ə)lə/ chancellor (n)大臣/總理, 大法官, 大學校長
     - chance (n)可能性, 機會, 偶然 (adj)偶然的 = fortuitous = accidental (v)碰巧/偶然, [upon/on/across]碰巧發現, 冒風險
@@ -997,7 +999,8 @@
     * delectable (adj)美味的 = delicious <-- delight
     ** device (n)設備/裝置, 手段/計畫/詭計, 圖樣/設計
     ** devise (v)發明/策劃 = contrive = concoct = fabricate, 遺贈給 = legate <-- device
-    * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究) --> diligence (n)勤勉/勤奮
+    * diligent (adj)勤勞的/勤勉的 = assiduous = industrious = sedulous, 潛心的(研究)
+    * diligence (n)勤勉/勤奮
     * dim (adj)暗淡的, 模糊的/朦朧的, 看不清楚的, 慘淡的 = bleak, [非]頭腦遲鈍的 (v)(使)黯淡/模糊, 使減弱
     * dimple (n)酒窩, 淺凹洞 (v)形成淺凹洞, 現笑靨
     ** dismal (adj)悲傷絕望的/憂鬱的 = gloomy, [非]十分糟糕的 = abject = deplorable
@@ -1011,7 +1014,7 @@
     * droop (v)低垂/下垂 = lop, 委靡/沮喪 (n)下垂 --> droopy (adj)下垂的, 疲乏的 <-- drop
     * drowsy (adj)睡意朦朧的/半夢半醒的 = lethargic = soporific, 令人想睡的, (地方)平靜的
     * drudge (n)做苦工的人 <|> grudge --> drudgery (mn)苦工/單調沉悶的工作
-    *** /dʌl/ dull (adj)枯燥的/乏味的 = bland = jejune = insipid = innocuous = pallid = dreary = tedious = tame = humdrum = nondescript, 愚笨的 = blunt = obtuse = stupid = opaque = dense = crass, 暗淡的 = dim = faint, 鈍的 = blunt, 無精打采的 = listless = torpid = apathetic = lethargic = wan (v)使遲鈍/緩和/減輕
+    *** /dʌl/ dull (adj)枯燥的/乏味的 = bland = jejune = insipid = pallid = dreary = tedious = tame = humdrum = nondescript, 愚笨的 = blunt = obtuse = dense = crass, 暗淡的 = dim = faint, 鈍的 = blunt, 無精打采的 = listless = torpid = lethargic (v)使遲鈍/緩和/減輕
     * duty (n)責任/義務, 關稅 = tariff --> dutiful (adj)忠於職守的
     * dwell (v)居住, [on/upon]思索/詳述, [on/upon](注意力或視線)游移 --> dwelling (n)住處
     * diploma (n)文憑, 執照/特許狀 = charter 
@@ -1135,7 +1138,8 @@
     + /ˈɛʃəlɒn/ echelon (n)階層/等級 = rank = grade = level, [軍]梯隊 (v)[軍]列梯隊 <-- [拉丁]梯子 = ladder
     + echo (n)回聲/回響, 十分相似的東西/仿效 (v)回響/發出回聲, 重複/覆述, 讓人想起/與...相似  
     ++ edge (n)邊/邊緣, 邊緣/時刻, 刃/刀口, (言論)尖銳, 優勢 (v)給……加上邊, 使漸進/徐徐地移動, 使尖銳
-    + /ˈɛlɪdʒi/ elegy (n)哀歌/挽歌 = dirge --> /ˌɛlɪˈdʒʌɪək/ elegiac (adj)挽歌的, 哀傷的 (n)輓歌對句
+    + /ˈɛlɪdʒi/ elegy (n)哀歌/挽歌 = dirge 
+    + /ˌɛlɪˈdʒʌɪək/ elegiac (adj)挽歌的, 哀傷的 (n)輓歌對句
     +++ element (n)要素/成分, 一點, 基礎 = rudiments, 特定的一群人, 化學元素 = chemical element, 適宜的環境, 惡劣天氣, 電熱絲
     + elementary (adj)基本的/基礎的 = fundamental, 簡單的 = uncomplicated, 元素的
     + /ɪˈlɪksə/ elixir (n)萬能藥/靈丹妙藥 = panacea
@@ -1173,7 +1177,8 @@
     ++ ethical (adj)倫理的/道德上的, 道德的/合乎道德的, 憑處方出售的 <|> /ˈɛθnɪk/ ethnic
     + /ˌiːtɪˈɒlədʒi/ etiology, aetiology (n)[醫]病原學, 追本溯源/原因論 <-- aeti, eti 原因 = cause
     + etymon (n)詞源/字根 --> etymology (n)字源學/詞源學
-    + ether, aether (n)乙醚, 蒼穹, [古]以太 --> /ɪˈθɪərɪəl/ ethereal (adj)天上的/非人間的 = celestial, 縹緲的/優雅的
+    + ether, aether (n)乙醚, 蒼穹, [古]以太
+    + /ɪˈθɪərɪəl/ ethereal (adj)天上的/非人間的 = celestial, 縹緲的/優雅的
     + evenhanded (adj)公平的 = impartial = equitable = disinterested = fair = candid
     + /ɪˈvɛn(t)ʃʊ(ə)l/ eventual (adj)最終的
     + eventuate (v)作為結果發生, [in]最終導致
@@ -1246,7 +1251,6 @@
 
 [F]
     + fabric (mn)織品/布料, 構造/結構 --> fabricate (v)捏造/編造 = invent = concoct = vamp, 製造 = construct
-    ++ factor (n)因素/要素, [數]因數, 遺傳因子, 代理人 (v)[數]分解……的因子, 委託代管, [out]不考慮/排除
     + fad (n)一時的流行/一時的狂熱 = vogue = craze --> faddish (adj)流行一時的/時尚的
     + failing (n)缺點/弱點 = defect = fault = shortcoming = weakness (prep)如果沒有
     +++ failure (mn)失敗 (n)失誤, 缺乏/不足 = insufficiency, 衰竭/失靈 = decay = deterioration = decadence, 破產
@@ -1264,7 +1268,7 @@
     + fastidious (adj)一絲不苟的/講究的/苛求的 = finicky = fussy = picky = choosy = meticulous = painstaking = particular = scrupulous, 有潔癖的 --> fastidiousness (n)
     + fathom (v)弄清/理解 = apprehend = comprehend = plumb, 測水深 = plumb = sound (n)噚(測水深的單位, 約1.8公尺)
     ++ /ˈfætʃuəs/ fatuous (adj)愚蠢的/昏庸的 = foolish --> fatuity (n)
-    + fault (n)缺點/缺陷/失誤, 咎/責任, 斷層 (v)批評, [be faulted]斷裂 --> faulty (adj)有缺陷的, 有瑕疵的(邏輯)
+    + fault (n)缺點/缺陷/失誤 = defect, 咎/責任, 斷層 (v)批評, [be faulted]斷裂 --> faulty (adj)有缺陷的, 有瑕疵的(邏輯)
     + /ˈfɔːnə/ fauna (n)動物群 <--> flora
     ++ /fɔːn/ fawn (n)未滿周歲的小鹿, 淡黃褐色 (v)(鹿)生, [on/upon](狗)搖尾乞憐, [over/on]恭維/討好 = adulate
     ++ fell (v)砍倒 = cut down, 擊倒 = knock down, 明縫 = flat-fell (adj)邪惡的/致命的 = deadly
@@ -1402,8 +1406,6 @@
 
     - fib (n)謊言 (v)說謊
     - /ˈfrɪdʒɪd/ frigid (adj)寒冷的, 冷淡的 --> frigidity (n)寒冷, 冷淡 <-- frig 冷 = cold + id
-    - fact (n)事實, 實情/真相, 犯罪事實/罪行
-    - factual (adj)真實的, 事實的 <--> fictitious
     - fade (v)變微弱/逐漸消失, 凋謝/枯萎, 褪色, [away](人)凋零, (影像)淡出 (mn)褪色 (n)淡出
     - fair-minded (adj)公平對待每個人的 
     - falcon (n)獵鷹/隼
@@ -1454,6 +1456,7 @@
     - fieldwork (mn)實地考察, 野戰工事
     - fiendish (adj)惡魔似的/殘忍的, [非]刁鑽的/棘手的
     - fig (n)無花果, 無花果樹 = fig tree, [非]服裝/盛裝 (v)[非]穿上盛裝/打扮 = array
+	- filament (n)細絲/長絲, 燈絲
     - filch (v)偷 = pilfer
     - file (n)銼刀, 文件/檔案, 縱列 (v)銼平, 歸檔, 提出(訴訟), 排成一列行進
     - filing (n)存檔/歸檔, 存檔檔案/歸檔紀錄, 銼屑
@@ -1580,7 +1583,7 @@
     - fuzzy (adj)毛茸茸的 = furry, 模糊不清的, 困惑的 = confused
 
 [G]
-    + /ɡaf/ gaffe (n)出醜/失態 = blunder <|> guffaw <-- gaff 魚叉 + e
+    + /ɡaf/ gaffe (n)出醜/失態 = blunder = solecism <|> guffaw <-- gaff 魚叉 + e
     + gainsay (v)否認/反駁 = deny = contradict = naysay, 反對 = oppose <-- gain 再次 = again + say
     + gall (mn)厚顏無恥, 膽汁 = bile, 怨恨/不滿 = resentment = hatred (n)膽囊, 擦傷 = chafe = sore (v)使惱怒, 擦傷
     + gallant (adj)勇敢的, 獻殷勤的/騎士風度的 = chivalrous (n)時髦男士
@@ -2333,6 +2336,7 @@
     * /lʌst/ lust (mn)性慾, 強烈的慾望 (v)貪求/渴望 --> lustful (adj)好色的/淫蕩的 = lascivious = salacious = lecherous = libidinous = wanton <|> lustrous
 
     - lace (n)蕾絲, 飾帶/金邊 (v)繫 = fasten = tighten, 使交錯 = entwine, 加料, 加
+    - lacuna (n)空白/空隙, 腔隙
     - lacy (aaj)蕾絲的
     - lag (v)落後於, 給……裝絕熱層 (n)時間間隔, [非]慣犯
     - lair (n)野獸的巢穴, 躲藏處/祕密藏身處 <|> liar
@@ -3132,6 +3136,7 @@
     - /ˈpɑːs(ə)l/ parcel (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
     - parch (v)烘烤 = toast = roast <|> perch <|> porch
     - praline (n)胡桃糖/杏仁糖, 杏仁巧克力
+    - parenthetical (adj)作為附帶說明的/作為附加註解的
     - parietal (adj)(身體)外壁的/腔壁的, (腦)頂葉的, (大學宿舍)異性訪客的 (n)外壁/腔壁, 異性訪客規定
     - parishioner (n)教區居民
     - parka (n)抵禦風雪的毛皮大衣
@@ -3177,6 +3182,7 @@
     - /pəːtʃ/ perch (n)棲木, 休息處/高處, 河鱸 (v)棲息 = alight, 暫歇, (建築)座落
     - perk (v)[up]振作/振奮, 濾煮 = percolate (n)(因工作而享有的)額外待遇, 益處 = benefit, 濾煮壺 = percolator 
     - perky (adj)神氣的/活潑的, 厚顏無恥的 = cheeky
+    - pert (adj)(女子)冒失但有趣的/俏皮的, 厚臉皮的, 小巧的
     - pesky (adj)惱人的 = annoying
     - pestilent (adj)致命的 = deadly, [非]討厭的/惱人的　= troublesome
     - pestle (n)杵/碾槌 (v)搗/研碎
@@ -3270,6 +3276,7 @@
     - prepper (n)末日準備者
     - prude (n)老古板/過分守禮的人 --> prudish (adj)過分拘謹的 <-- prude
     - prune (n)梅乾, [非]令人討厭的人 (v)修剪 = trim, 刪減/削減
+    - prurient (adj)好色的/淫亂的
     - pry (v)[into]刺探/打聽, 撬開 = prise
     - puberty (mn)青春期 
     - /ˈpʌblɪsʌɪz/ publicize (v)使廣為人知/宣傳 = intimate, 宣傳/廣告
@@ -3640,7 +3647,7 @@
     + /ˈsəʊbrɪkeɪ/ sobriquet (n)綽號 = nickname
     + sodden (adj)濕透的 = saturated, 飲酒過量的 
     + soirée, soiree (n)晚會
-    ++ /ˈsɒlɪsɪz(ə)m/ solecism (n)語病/語法錯誤, 失禮 <--> etiquette
+    ++ /ˈsɒlɪsɪz(ə)m/ solecism (n)語病/語法錯誤, 失禮 = gaffe <--> etiquette
     + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的 = somniferous, 昏昏欲睡的 = drowsy = sleepy, 單調的/乏味的 = monotonous = boring (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
     + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 零星的 = scattered = isolated
     +++ spurn (v)輕蔑地拒絕/唾棄 = snub = despise = disdain = rebuff
@@ -4227,10 +4234,12 @@
     - sterile (adj)不育的 = barren, 貧脊的 = barren (adj)消過毒的/無菌的 = aseptic = antiseptic
     - sterilize (v)使不育, 使貧脊, 殺菌
     - steward (n)服務員, 膳務員, 幹事/籌備員, 工會代表, 財產管理人/管家 (v)籌備, 管理
+    - stewardess (n)女服務員
     - stewardship (mn)管理工作
     - stick -> stuck -> stuck (n)棍/棒/杖, 棒狀物, 懲罰, [非]小鎮/鄉間, 一件(傢俱), 傢伙, 手排汽車 (v)[in/into/through]刺/戮, [in/into/through]釘住/插牢, [on]固定, 伸/伸出, 亂放, 使花費(錢), 黏貼/黏住, [非]使接受/使有道理, 卡住/阻塞, [be stuck on]著迷
     - stickle (adj)山坡的/傾斜的 (v)反對, 拘泥 --> stickler (n)非常注重...的人/固守…的人
     - stilt (n)高蹺, 支撐物/支柱, 長腳鷸
+    - stilted (adj)生硬的, 踏著高蹺的
     - /stɪtʃ/ stitch (n)縫合線, 一針, 針法, 布塊, 跑步後肋部的劇痛 (v)縫紉/編結
     - stock (n)存貨, 家畜 = livestock, 股票/股份, 名聲/聲望, 高湯, 原料, 血統, 物種, 紫羅蘭, 手枷/足枷, 槍托, (工具的)柄 (adj)庫存的, 老一套的/陳腐的 = hackneyed (v)庫存/貯存, 給……裝上柄
     - stockade (n)防禦柵欄, 用柵欄圍起的地方, 軍人監獄 (v)用柵欄圍住

@@ -562,7 +562,7 @@
 		- beneficiary (N)受益人
 		- benefit (n)利益/好處, 津貼/救濟金, 義演/義賣 (v)[from/by]得益/受惠, 有益於
 		+ benevolent (adj)善心的/仁慈的 = kindly = humane, 慈善的(組織) = beneficent = charitable = philanthropic
-		+ /bɪˈnʌɪn/ benign (adj) 仁慈的/親切的 = gracious = benevolent, 氣候溫和的, [醫]良性的 <--> malignant
+		+ /bɪˈnʌɪn/ benign (adj)仁慈的/親切的 = gracious = benevolent, 氣候溫和的, [醫]良性的 <--> malignant
 		+ /ˈbɒnəmiː/ bonhomie (n)友好/和藹 = geniality = friendliness = affability = amiability = amiableness <-- homie
 		- bonnie, bonny (adj)漂亮的, 圓圓胖胖的(嬰兒) = plump, 相當大的 = sizeable (n)[my]寶貝
 		- bonus (n)奬金/津貼 = allowance, 額外的好處 <|> bounty
@@ -1095,6 +1095,8 @@
 		+ discord (n)不和/不一致, [音]不和諧音
 		+ discordant (adj)不一致的/不和諧的 = disagreeing = incongruous, 刺耳的 <--> concord
 		- concord (n)和諧/和睦 = amity = rapport <--> discord, 公約/協定 = accord, [音]協和音程
+		* cord (n)細繩, 燈芯絨, 羈絆 (v)用繩子捆綁 <|> cordial
+    	- corduroy (n)燈芯絨, 燈芯絨褲 (v)用木頭鋪(道路)
 		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的 (n)甜香酒
 
 	cre, crue 增長/產生 = grow, increase
@@ -1269,6 +1271,7 @@
 		- carnage (n)大屠殺 = massacre
 		- reincarnate (v)轉世投胎, 以不同的形式出現 (adj)轉世抔胎的
 		+ incarnate (adj)化身的/體現的 = personified (v)賦於(靈體)以形體, 使具體化 = embody, 作為典型/代表
+		- incarnation (n)化身
 		+ /ɪnˈkɑːnədʌɪn/ incarnadine (adj)粉紅色的/肉色的 (v)染紅
 		- carrion (n)腐肉
 
@@ -1447,6 +1450,7 @@
 		+ conclusion (n)結尾/結論/結果 = result = outcome = settlement = arrangement
 		+ exclude (v)把…排斥在外, 排除/不考慮, 不包括
 		+ exclusive (adj)除外的, 排斥的, 獨佔的/專用的, 獨家的, 昂貴的/高檔的, [of]不包括的 (n)獨家新聞
+		- exclusionary (adj)排斥性的/排他的
 		+ include (v)包括/包含, [非][out]排除 = exclude
 		+ inclusive (adj)包含的/包括的, 包括一切在內的, 可以包容各種人的
 		+ /əˈkluːd/ occlude (v)使阻塞/封閉 = shut = block = close, [牙]咬合, [化學]吸收
@@ -1929,7 +1933,7 @@
 
 	dote, dose, don 給予 = give
 		+ antidote (n)解毒劑, 緩解辦法/對抗手段
-		+ condone (v)原諒/接受(錯誤行為) = pardon = excuse = forgive, (不情願)認可/贊同
+		+ condone (v)原諒/接受(錯誤行為) = pardon = excuse = forgive, (不情願)認可/贊同 <|> condor
 		- donate (v)捐/捐獻(錢、血或器官等)
 		- donor (n)捐血者/器官捐贈者/捐助者 = benefactor
 		- dose (n)一劑, 一次/一番(苦差事), [非]花柳病/性病 = venereal infection (v)給……服藥, 混合 = adulterate
@@ -2312,7 +2316,7 @@
 		+ entertain
 		- entrance (n)入口, 進入 (mn)進入的權利 (v)使入迷 = enchant = intrigue = captivate, 對..施咒 <-- enter
     	+ entrancing (adj)迷人的 = charming
-		- enthrall (v)迷住/吸引住 --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
+		+ enthrall (v)迷住/吸引住 = spellbind --> enthralling (v)迷人的/吸引人的 = gripping = fascinating
 		* entrap (v)使投羅網, 欺騙
 		++ entrench (n)使根深柢固/深植, 挖壕溝 --> entrenched (adj) = confirmed <-- en + trench
 		+ /ɪnˈtʌɪs/ entice (v)誘使/引誘 = bait = allure = inveigle <-- en + tice 燃燒的木柴 = piece of burning wood
@@ -2428,6 +2432,7 @@
 		+ /ˈiːsθiːt/ aesthete (n)審美家 
 		+ /ɛsˈθɛtɪk/ aesthetic (adj)美感的/審美的 = artistic = esthetic
 		- aesthetics (n)美學
+		- anesthesia, anaesthesia (mn)感覺缺失
 		- /ˌanɪsˈθɛtɪk/ anaesthetic, anesthetic (n)(手術用)麻醉劑 (adj)麻醉的
 		- anaesthetics (n)麻醉學
 
@@ -2537,45 +2542,47 @@
 		+ formation (n)形成/組成, 構成物/結構, 編隊/隊形
 		- formula (n)公式, 分子式, 配方 = formulation, 配方奶, 慣例/常規 = method = procedure, 慣用語句/客套話
 		+ formulaic (adj)客套的/俗套的, 公式化的
-		+ formulate (v)系統地表達, 規劃/開發 = devise = develope
-		- inform (v)通知/告知 --> informed (adj)見多識廣的, 消息靈通的 <--> uninformative
+		+ formulate (v)規劃/開發 = devise = develope, 系統地表達
+		- inform (v)通知/告知 = tell
+		- informed (adj)見多識廣的/有見識的, 根據情報的 <--> uninformative
 		- informant (n)情報提供者, 告密者 = informer, (為語言學調查)提供資料的講本地話的人
 		+ transform (v)使改變 --> transformation (n)變化/轉變/變形/變質
 		- transformative (adj)變化的/變形的
-		- uniform (n)制服 (adj)相同的/一致的 = consistent
+		- uniform (adj)不變的 = consistent = constant, 相同的/一致的 = consistent, 制服的 (n)制服, [非]制服警察
+		- uniformitarianism (n)均變說(其思想和漸變論大致相同，且提出了地質時間的概念，也否定了達爾文的天擇說。其中精髓的一句話就是：「現在是通往過去的一把鑰匙」，表示一切過去所發生的地質作用都和現在正在進行的作用方式相同，所以研究現在正在進行的地質作用，就可以明瞭過去的地球歷史)
 
 	fort
 		1. 強 = strong
 			- /ˈfɔːteɪ/ forte (n)特長/專長, 強音記號 (adj)強音的/響的 (adv)響地
 			+ fortify (v)加強防衛, 增強/加強(肉體或精神), 增加酒精含量/增加食品的營養價值
-			* fortitude (n)堅忍/剛毅
+			* fortitude (n)堅忍/剛毅 = perseverance
 
 		2. 機運 = chance, lucky
-			- fortune (n)財產/財富, 好運, 命運
-			* fortunate (adj)幸運的/僥倖的
-			+ /fɔːˈtjuːɪtəs/ fortuitous (adj)偶然發生的/巧合的 = casual = accidental = contingent, 幸運的 = lucky = fortunate
+			- fortune (n)運氣 = chance, 幸運, 財富, 大錢
+			* fortunate (adj)幸運的 = lucky, 有利的 = auspicious = favorable, 富裕的 = prosperous
+			+ /fɔːˈtjuːɪtəs/ fortuitous (adj)偶然發生的/巧合的 = casual = accidental = contingent, 幸運的 = fortunate
 
 	face, fac 臉/面
 		- deface (v)損壞外觀 = mar = destory = deform = disfigure
-		- efface (v)抹去/消除
+		- efface (v)抹去/消除 = erase, [oneself]使(自己)不受人注意
 		+ self-effacing (adj)自我謙避的/不喜歡談論自己的
-		* barefaced (adj)無恥的/公然的 = shameless = impudent = audacious, 公開的 = broadly open, 露臉的
+		* barefaced (adj)無恥的/公然的 = shameless = impudent = audacious, 露臉的
 		- boldfaced (adj)公然的/厚顏無恥的 = brazen = flagrant, 粗體印刷的
 		- /fəˈsɑːd/ facade (n)建築物的正面, (虛假的)外表
-		+ facet (n)琢面/小平面, 問題的一個方面
-		+ /fəˈsiːʃəs/ facetious (adj)好開玩笑的/滑稽的 = humorous = jocular = amusing = flippant --> facetiousness (n) <|> fastidious <|> factitious 
+		+ facet (n)琢面/小平面, 方面 = aspect = feature
+		+ /fəˈsiːʃəs/ facetious (adj)(不問場合)好開玩笑的/滑稽的 = flippant = humorous <|> factitious --> facetiousness (n)
 
 	fab, fable 說 = speak == dict == cent
-		+ affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = pleasant = genial = personable --> affability (n)
+		+ affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = genial = personable --> affability (n)
 		- ineffable (adj)無法表達的/說不出的/難以言喻的
 		- fabulous, fab (adj)驚人的, 極好的, 神話般的 --> fabulously (adv)極度 = extremely
 
 	fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
-		*** affect (v)影響/產生效果 == have an effect on, 使感動 = touch
-		+ affected (adj)受影響的, 做作的/不自然的/假裝的 = pretentious
-		+ affectation (n)做作/假裝 = pretense = sham
+		*** affect (v)影響/產生效果 == have an effect on, 使感動 = touch, 假裝 = pretend
+		++ affected (adj)受影響的, 做作的/假裝的 = pretentious
+		+ affectation (n)做作/矯揉造作
 		- affecting (adj)感人的 = moving
-		- affection (n)鍾愛/愛, 疾病/感染, 情緒
+		- affection (n)鍾愛/愛
 		- affectionate (adj)表示愛的, 充滿深情的/有感情的 = fond
 		- artifact
 		- artifice
@@ -2583,51 +2590,61 @@
 		+ beneficent
 		+ beneficial
 		- beneficiary
-		- confect (v)調製 = concoct --> confection (n)甜食/糖果
-		+ counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的
-		+ defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart 
+		- confect (v)調製 = concoct --> confection (n)甜食/糖果 (mn)調製
+		+ counterfeit (v)偽造/仿造 = fabricate = forge = simulate, 假裝, 像 = resemble (adj)僞造的/仿造的 = forged = bogus = pretended = unreal = queer <--> genuine, 虛假的 (n)仿製品
+		+ defeat (v)擊敗/打敗, 使挫敗 = frustrate = thwart (n)失敗/落敗
 		+ defect (n)缺點/缺陷 = shortcoming = fault = flaw = deficiency = failing (v)叛逃 = desert
 		- defection (n)脫離/叛逃
-		* /ˈdɛfɪsɪt/ deficit (n)赤字/虧損. 不足/缺乏 = deficiency --> deficient (adj)有缺陷的/有缺點的, 不足的/缺乏的
-		* /dɪˈfɪʃənsi/ deficiency (n)缺乏/缺少, 缺陷 = incompleteness
-		++ effect (n)效果, 影響, 意義 (v)造成/導致 = bring about, 實現/達到
-		* effective (adj)有效的/生效的 = efficacious, 實際上的 --> effectiveness (n)有效
+		* /ˈdɛfɪsɪt/ deficit (n)赤字/虧損. 不足/缺乏 = deficiency
+		+ deficient (adj)缺乏的/缺少的, 不夠的/不足的
+		* /dɪˈfɪʃənsi/ deficiency (n)缺乏/缺少, 缺陷/缺點 = incompleteness = failing = shortcoming, 赤字 = deficit
+		++ effect (n)效果, 影響, 意義, 特效, 財產 = belonging (v)造成/導致 = bring about
+		- ineffectual (adj)無效的/無益的 = futile = fruitless = vain <|> ineffable
+		* effective (adj)有效的 = efficacious, 生效的 = operative, 實際上的 = actual (n)實際可作戰的士兵
+		* effectiveness (n)有效 = success
+		+ efficient (adj)效率高的/有能力的
 		* efficiency (n)效率, 功效 = efficacy
-		+ efficient (adj)效率高的/有能力的, 有效的
-		+ /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency -->
+		+ /ˈɛfɪkəsi/ efficacy (n)效力/功效 = effectiveness = efficiency
 		+ efficacious (adj)有效的 = effective = potent = sovereign
-		+ facile (adj)容易做的 = effortless, 膚淺的/輕率的 = superficial
+		++ facile (adj)膚淺的/輕率的 = superficial, 容易做的 = effortless
 		- facility (n)(有特定用途的)場所, (機器)功能, 天資/才能, 輕易/容易  <-- facile
-		+ facilitate (v)使容易 = favor, 促進 = expedite <-- facility
+		+ facilitate (v)使容易 <-- facility
 		++ /ˈfak(ə)lti/ faculty (n)身體的機能/官能, 天資/才能 = aptitude, 全體教職員, (大學的)系/科/院
-		+ fact (n)事實, 現實/實際情況
-		- factor (n)因素/要素, 代理人/代理商 --> factorable (adj)能分解成因子的
-		+ faction (n)派系/小集團 = clique, 派系之爭, 紀實小說
+		+ fact (n)事實, 實情/真相, 犯罪事實/罪行
+	    - factual (adj)真實的, 事實的 <--> fictitious
+		++ factor (n)因素/要素, [數]因數, 遺傳因子, 代理人 (v)[數]分解……的因子, 委託代管, [out]不考慮/排除
+		- factorable (adj)能分解成因子的
+		+ faction (n)派系/小集團 = clique, (派系間的)不合 = dissension, 紀實小說 <--> fiction
 		+ /ˈfakʃəs/ factious (ad)不合的 <-- faction
 		+ /fakˈtɪʃəs/ factitious (adj)人工的/不自然的 = artificial = contrived <|> facetious
 		+ /fakˈtəʊtəm/ factotum (n)雜工/打雜 = handyman <-- fact + totum 全部 = all
-		+ feasible (adj)可行的/可能的/合適的 = probable = likely = suitable
-		+ feat (n)功績/壯舉 --> feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
-		- fiction (n)小說, 虛構/捏造
-		* fictitious (adj)假的/假裝的, 虛構的 = imaginary = fabulous <|> factitious
+		+ feasible (adj)可行的 = suitable, 可能的 = probable = likely
+		+ feat (n)功績/壯舉  = achievement
+		+ feature (n)特徵/特色/特點, 相貌, 專欄 (v)以……為特色, 由……主演
+		- fiction (n)小說, 虛構/捏造 <|> faction
+		- fictive (adj)非真實的/想像中的, 關於小說創作的
+		* fictitious (adj)假的/虛構的 = imaginary = fabulous <|> factitious
 		+ forfeit
-		- ineffectual (adj)無效的/徒勞無意的 = futile <|> ineffable
-		- infect (v)感染/傳染 --> infection (n)感染
+		- infect (v)感染/傳染 --> infection (mn)感染 (n)傳染病
 		+ infectious (adj)傳染的/傳染性的, 有感染力的/有影響力的
 		+ manifest
-		- manufacture (v)大量製造, 捏造
+		- manufacture (v)大量製造, 生成, 捏造(證據) (n)大量製造, 製造業, 製品/產品
 		+ munificent
 		- office (n)辦公室, 職位, 任期 = tenure, 服務 = service
 		- official (adj)正式的, 官員的 (n)官員
-		++ officious (adj)多管閒事的/愛發號施令的 = meddlesome = intrusive, 非正式的 = informal = unofficial
-		- perfect (adj)完美的/絕對的 (v)使完美/改善 --> perfection (n)完美
-		- proficient (adj)熟練的/精通的 = skillful = expert --> proficiency (mn)精通/熟練 = expertise
-		+ profit (n)利潤/利益/益處 --> profitable (adj)贏利的/有益的 --> profitability (n)有利/有益
-		- refection (n)便餐/點心/茶點 = refreshment, (靠飲食等)恢復體力
+		++ officious (adj)愛發號施令的 = domineering, 多管閒事的 = meddlesome = intrusive
+		- perfect (adj)完美的 = faultless, 精確的 = exact, 絕對的 = absolute = complete, [植]雌雄同花的, [文]完成式的 (v)使完美/改善 (n)[文]完成式
+		- perfection (n)完美, 完美的人或事, 完善
+		- proficient (adj)熟練的/精通的 = consummate = skillful = expert (n)能手/專家
+		- proficiency (mn)精通/熟練 = expertise
+		+ profit (n)利潤, 利益/益處 = advantage = benefit (v)獲利, 獲益, 對..有益
+		+ profitable (adj)盈利的, 有益的 = beneficial = useful 
+		+ profitability (n)盈利, 有益
+		- refection (n)(靠飲食等)恢復體力, 便餐/點心/茶點 = refreshment
 		- refectory (n)學院餐廳/食堂
 		- sacrifice
-		+ surfeit (n)過量/過度 = glut (v)使過量/反胃/使厭膩 = cloy
-		- suffice (v)足夠/滿足 --> sufficient (adj)足夠的/充分的 = adequate
+		+ surfeit (n)過量/過度 = glut (v)反胃/使厭膩 = cloy
+		- suffice (v)足夠, 滿足 --> sufficient (adj)足夠的/充分的 = adequate
 
 	fer, fert 帶著/帶來 = carry, bear
 		- circumference
@@ -2793,7 +2810,7 @@
 	front 前面/臉面 = forehead
 		+ affront (v)侮辱/冒犯 = insult = abuse = offend
 		- confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
-		+ effrontery (n)厚顏無恥/放肆 = impudence = presumption
+		+ effrontery (n)厚顏無恥/放肆 = insolence = impudence = presumption = impertinence
 
 	fug 逃離 = flee
 		- centrifugal
@@ -5469,7 +5486,7 @@
 			+ compassion (n)同情/憐憫 = pity = rue = sympath --> compassionate (adj)有同情心的
 			+ dispassionate
 			- passive (adj)被動的/消極的, 順從的/順服的
-			+ impassive (adj)無動於衷的/冷淡的/平靜的 = apathetic = unmoved = clam = serene --> impassivity (n)
+			+ impassive (adj)無動於衷的/冷淡的/平靜的 = innocuous = unmoved = clam = serene --> impassivity (n)
 			+ passivity (n)被動/消極以對, [化]不活性/鈍態
 		    * passionate (adj)情緒激昂的/熱情的/情緒化的 = fervid = emotional
 			- impassioned (adj)充滿激情的/熱烈的 <--> impassive <--> unimpassioned
@@ -6979,7 +6996,8 @@
 		* restrictive (adj)限制性的
 		+ strain (v)竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 (n)張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = tendency
 		* strained (adj)緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = artificial = forced, 牽強的 = laboured = far-fetched contrived, 扭傷的, 過濾出來的
-		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact --> stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
+		++ strict (adj)嚴格的 = stern = severe = austere = stringent, 嚴格遵守規定的, 屬實的/精確的 = exact
+		++ stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
 		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙, [along]長期哄騙/敷衍 <|> spring -> sprang -> sprung
 		+ stringent (adj)嚴格的/精確的 = strict = stern = severe = austere = precise = exacting
 		* unrestrained (adj)不受限制的/無節制的
@@ -7475,6 +7493,7 @@
 			+ detect (v)發現/察覺 = discover, 辨別出 = discern, 調查 = investigate --> detection (n)發現/察覺, 調查工作
 			- protect (v)保護, 對…實行貿易保護, 為..提供保險
 			- protectionism (n)貿易保護主義 <--> mercantilism
+			- protégé, protege (n)門生/門徒
 
 	text 編織 = plait, weave
 		+ context (n)來龍去脈/背景/環境, 上下文/文章脈絡

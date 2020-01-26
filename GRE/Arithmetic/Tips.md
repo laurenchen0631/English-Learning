@@ -16,7 +16,7 @@
 - sum: the result of addition
 - difference: the result of subtraction
 - product: the result of multiplication
-- quotient: the result of division
+- quotient: the result of division 
 - dividend: 20 / 3, and 20 is the dividend
 - divisor: 20 / 3 and 3 is divisor
 - numerator: a/b, a is numerator
@@ -161,3 +161,16 @@
 - If one expression is repeated or compound fraction, we can choose a single variable for the expression.
 	- (x^2+1)^2 - 15(x^2+1) + 50 = 0 --> u = x^2+2, u^2 - 15u + 50 = 0
 	- 3 / (1-8/(7+k)) = 15
+- Assign Variable
+	- Pick a variable that you can know what the symbol represents.
+	- Assign a variable for the smallest value or for the target value for which the question ask. 
+
+## Expression
+- **is** or **are** correspond to the **equal sign**
+	- A is 50 more than B: A = B + 50
+	- A is 50 less than B: A = B - 50
+	- Twice A is 100 less than three times B: 2A = 3B - 100
+	- A is 50% of B: A = 0.5B
+	- A is **50% greater than B**: A = 1.5B
+- A is X times as ____ as B
+	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)

@@ -11,7 +11,7 @@
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aesthete <--> anesthetic
-- affect <--> effect <--> disaffected
+- affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery
 - affectation <--> affection
 - affirm <--> confirm <--> infirm
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
@@ -290,6 +290,7 @@
 - excoriate
 - execrable
 - execrate <--> excrete
+- exclusive <--> exclusionary
 - excruciate <--> excruciating
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
@@ -304,7 +305,7 @@
 - extirpate
 
 ## F
-- facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted
+- facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum
 - fare <--> ware <--> aware
 - falcon <--> felon
 - fall <--> fell
@@ -376,6 +377,7 @@
  
 ## H
 - habilitate <--> rehabilitate
+- hagiography
 - hale <--> hare <--> harem <--> mare
 - hardheaded <--> headstrong
 - harry <--> marry <--> parry <--> quarry
@@ -415,6 +417,7 @@
 ## I
 - idiom <--> idiot
 - ignominious
+- illustrious <--> illustrative
 - imbroglio
 - imbue <--> imbibe
 - impecunious
@@ -433,6 +436,7 @@
 - impart <--> impartial
 - imperative <--> imperious
 - impose <--> imposing <--> imposture <--> impostor
+- importune <--> import
 - inch <--> itch
 - inductive <--> induce <--> inducement
 - insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
@@ -489,6 +493,7 @@
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
 - lucid <--> lurid <--> ludicrous
+- lugubrious
 - luminary <--> luminous
 - lurk <--> lark <--> lurch <--> luck 
 - luster <--> lust <--> lustful <--> lustrous
@@ -557,6 +562,7 @@
 - odd <--> ode
 - odium <--> opium
 - offensive <--> inoffensive
+- officious <--> official
 - onerous <--> exonerate
 - onset <--> outset
 - opaque <--> opacity
@@ -603,6 +609,7 @@
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
 - petulant <--> opulent
+- phantasmagorical
 - pillory <--> pillage <--> pillar
 - plain <--> plane <--> planet <--> plant <--> plantation <--> plaintive
 - plangent
@@ -632,6 +639,7 @@
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
 - prestige <--> vestige
+- prognosticate
 - progenitor <--> primogenitor
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp
@@ -641,10 +649,12 @@
 - procure <--> recur <--> recourse
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
+- prolix <--> prolific
 - prone <--> prune
 - proprietary <--> propriety <--> property <--> impropriety
 - prose <--> proselyte
 - protean <--> protein
+- provident <--> providential <--> provide
 - prude <--> prudish <--> prudent <--> pride <--> imprudent <--> impudent 
 - pry <-->pyre
 - puck <--> pucker <--> puckish
@@ -677,6 +687,7 @@
 - react <--> reactionary
 - recant <--> incant
 - raconteur <--> rancor <--> rancid
+- redoubtable <--> redouble
 - rapprochement <--> reapproach
 - rattle <--> prattle
 - raucous
@@ -688,6 +699,7 @@
 - reek
 - reflective reflexive
 - remiss <--> remit <--> remission
+- remonstrate
 - renaissance <--> reconnaissance
 - renege
 - repatriate
