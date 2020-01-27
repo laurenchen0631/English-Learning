@@ -40,6 +40,7 @@
 - alter <--> altar
 - apprehend <--> apprehension
 - asinine
+- asperity
 - astringent <--> stringent
 - assert <--> assume
 - ascetic <--> aseptic
@@ -200,7 +201,7 @@
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
 - demean <--> demeanor
-- demur <--> demure <--> immure
+- demur <--> demure <--> immure 
 - demit <--> demise
 - denigrate
 - deprecate <--> depreciate
@@ -330,6 +331,7 @@
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch <--> plinth
+- flippant <--> unflappable
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx
@@ -434,7 +436,7 @@
 - imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
 - impart <--> impartial
-- imperative <--> imperious
+- imperative <--> imperious <--> imperial
 - impose <--> imposing <--> imposture <--> impostor
 - importune <--> import
 - inch <--> itch
@@ -547,6 +549,7 @@
 - neglect <--> negligent
 - nib <--> nibble <--> nipple <--> nip <--> sip 
 - nod <--> nodule <--> nub <--> nubile
+- nonchalant
 - notion <--> notch <--> note <--> botch <--> blotch <--> scotch <--> denote
 - nuance <--> nuisance
 
@@ -602,6 +605,7 @@
 - perceive <--> percept <--> precept
 - peremptory <--> preemptive
 - perfidy
+- peripatetic <--> periphrasis
 - perpetrate <--> perpetuate 
 - pernicious
 - persecute <--> prosecute
@@ -622,6 +626,7 @@
 - ponderous <--> ponder
 - poppy <--> pop <--> poop
 - portion <--> potion
+- portend <--> portentous
 - posit <--> position <--> post <--> posture <--> posterity <--> postulate <--> expostulate
 - possess <--> posse
 - potable <--> potation <--> portable <--> pout <--> bout
@@ -696,6 +701,7 @@
 - receptive <--> receptacle
 - reclusive <--> repulsive
 - recreant
+- recrimination <--> incrimination
 - reek
 - reflective reflexive
 - remiss <--> remit <--> remission
@@ -798,6 +804,7 @@
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
+- spare <--> sparing <--> unsparing
 - specious <--> suspicious
 - spit <--> split <--> splint <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout

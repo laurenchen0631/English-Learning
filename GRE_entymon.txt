@@ -1050,7 +1050,7 @@
 
 	celer 速度
 		+ accelerate (v)加速, 促進 = expedite = hasten <--> retard
-		+ celerity (n)[古]敏捷 = speed = swiftness = alacrity
+		+ celerity (n)[古]敏捷 = speed = rapidity = swiftness = alacrity
 		+ decelerate (v)減速
 
 	cent, cant, chant 唱/說 = song, chant == dict
@@ -1245,7 +1245,7 @@
 		+ exculpate (v)證明…無罪/開脫 = exonerate = vindicate <|> extenuate --> exculpatory (adj)
 		- inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
 		- incriminate (v)連累/牽連 = inculpate --> incrimination (n)連累
-		- recriminate (v)[古]反控
+		+ recriminate (v)[古]反控 --> recrimination (n)反責/反控
 
 	cult 培養/種植 = care for, inhabit, worship
 		+ cultivate (v)栽培/種植/耕種 = plow = till, 培養/培育/養成 = train = refine = nurture = educate, 結交 
@@ -2524,9 +2524,11 @@
 		- forethought (n)深謀遠慮/先見 = foresight
 		- forward (adj)莽撞的/魯莽的 = bold, 未來的, 早的, 樂意的 (adv)向前, 今後, 提前 (v)轉交
 		* forewarning (v)預先警告/事先告知
+		- forth (adv)向前/向外, 以後 <|> froth
 		- forthwith (adv)立刻 = immediately
 		+ forthcoming (adj)即將到來的, 現有的/隨時可得的, 願意透露的 <--> unforthcoming
-		+ forthright (adj)直率的/直截了當的 = outspoken (adv)馬上/立刻
+	    + forthright (adj)直率的/坦率的 = outspoken = downright (adv)立即 = immediately
+
 
 	fora 孔 = bore
 		- perforate (v)使穿孔/在…上開孔 (adj)穿孔的
@@ -2849,7 +2851,7 @@
 
 	flagr 燒 = flame, burn == ard == bust == caus
 		+ conflagration (n)大火/大火災, 衝突/戰火
-		* flagrant (adj)明目張膽的/公然的
+		* flagrant (adj)明目張膽的/公然的 <|> fragrant
 		- deflagrate (v)使迅速燃燒, 爆燃
 
 	flat 吹氣 = blow
@@ -3402,7 +3404,7 @@
 			** informal (adj)非正式的 = unofficial, 不拘禮節的, 口語的/通俗的 <|> inform
 			+ ingrate --> ingratitude
 			- inhumane (adj)不近人情的/不人道的/殘忍的 = cruel = brutal = unkind = wanton
-			- /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 <|> inimical <-- in + imitate + able
+			+ /ɪˈnɪmɪtəb(ə)l/ inimitable (adj)無法仿效的/獨特的/不可比擬的 = matchless <|> inimical <-- in + imitate + able
 			+ iniquity (n)不公正/邪惡/罪惡 = injustice = wickedness = sin = enormity
 			+ iniquitous (adj)不公正的/邪惡的 <-- in + iquit 公平 == equ + ty
 			+ /ɪˈnɪʃ(ə)l/ initial (adj)開始的/最初的, 首字的 (n)姓名的首字母 (v)簽首字母, 簽字以同意 <-- in + it + ial --> initially (adv)最初/開始
@@ -5336,7 +5338,7 @@
 		- periodic (adj)週期性的, 週期表的
 		- periodical (n)期刊 (adj)週期性的 = periodic, 期刊的
 		- quasiperiodic (adj)準週期的
-		+ /ˌpɛrɪpəˈtɛtɪk/ peripatetic (adj)巡遊的 = itinerant <-- peri + patet 走 = walk + ic
+		+ /ˌpɛrɪpəˈtɛtɪk/ peripatetic (adj)巡迴的/流動的/漫遊的 = itinerant <-- peri + patet 走 = walk + ic
 		+ periphery --> peripheral
 		+ periphrasis -> periphrases (n)轉彎抹角的說法 = circumlocution
 		- periscope (n)潛望鏡
@@ -6487,7 +6489,7 @@
 			- substratum -> substrata (n)下層/下層土壤, 基礎
 			- substrate (n)基質/培養基, 底物/酶作用物
 			+ subsume
-			- subterfuge
+			+ subterfuge
 			- subterranean
 			- subtract
 			- suburbia (mn)郊區
