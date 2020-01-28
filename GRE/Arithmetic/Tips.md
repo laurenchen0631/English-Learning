@@ -153,6 +153,18 @@
 	- [O] a-d > b-c (20>15, 12>10 --> 20 - 10 > 15 - 12)
 	- [X] ac > bd (true iff abcd are all positive)
 
+## Word Problems
+- Average Speed Problems
+	- Average speed of v1 and v2 is (d1+d2)/(t1+t2) rather than (v1+v2)/2
+- Multiple traveler Problem
+	- Example: M and P travelled from A to B at the same time. M travelled at 60mph, and P travelled at 40 mph. When m had arrived at B, P was still 50 miles away. What the distance between A and B?
+		- D = 60T, D - 50 = 40T --> T = 2.5, D = 60*2.5 = 150
+	- Example2: K drove from A to B at speed of 60mph, turned around, and returned at at 80mph. 4 hours before the end of trip, he was still approaching B, only 15 miles away from B. What is the distance between A and B.
+		- From P (point 4 hours ago) to B back A A is 4 hours.
+		- Time from P to B is 15/60 = 0.25hr
+		- Thus time from B to A is 4 - 0.25 = 3.75
+		- Distance = 3.75 * 80 = 300 miles
+
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.
@@ -172,5 +184,6 @@
 	- Twice A is 100 less than three times B: 2A = 3B - 100
 	- A is 50% of B: A = 0.5B
 	- A is **50% greater than B**: A = 1.5B
-- A is X times as ____ as B
+- A is X times as ____ as B, X times as ____ A as B
 	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)
+	- Sue planted 4 times as many apple seeds as she planted orange seeds: A = 4O

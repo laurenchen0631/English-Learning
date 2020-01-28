@@ -35,7 +35,7 @@
     ++ anoint (v)選定/指定 = appoint = nominate, 擦油 = baste = grease, [with]塗抹 = smear = rub
     + apex (n)點頂/最高點 = acme
     + aplomb (n)沈著/自信 = equanimity
-    + /ˈapəθɛm/ apothegm (n)格言/箴言 = adage = aphorism = dictum
+    + /ˈapəθɛm/ apothegm (n)格言/箴言 = adage = aphorism = dictum <|> apotheosis
     + /əˈprʌɪz/ apprise (v)[be apprised of]通知/告訴 = inform = advise <|> appraise
     ++ /ˈaprəpəʊ/ apropos (adj)適宜的/適時的 = appropiate = opportune = seasonable (prep)關於 = with regard to = in respect of (adv)適時地, 有關地
     + arabesque (n)藤蔓圖飾/阿拉伯花飾, 阿拉貝斯克舞姿
@@ -131,6 +131,7 @@
     - /ˈalfə/ alpha (n)希臘語的第一個字母, 第一個, 社群首領(指社會性動物的社群中地位最高的個體)
     - /əˈlumənəm/ aluminum (n)鋁
     - amber (n)琥珀, 琥珀色
+    - ambitious (adj)有雄心的/野心勃勃的
     - ambush (v)埋伏/突擊
     - anchor (v)拋錨使..停泊, 固定住, 主持 (n)錨, 靠山, 新聞節目主播 = anchorman 
     - ancillary (adj)補助的 = auxiliary = subordinate = accessory, 附加的 (n)助手, 附屬物
@@ -425,6 +426,7 @@
     - blazon (n)紋章/裝飾 (v)印製/精確描繪, 宣揚/誇示 = emblazon = adorn <--> efface
     - bleat (v)咩咩叫, 哭訴/抱怨 (n)咩咩聲, 顫抖可憐的聲音, 抱怨
     - bleed (v)出血/流血, 抽血, 榨取(金錢或資源), 放氣, [into]干擾 = interfere
+    - blip (n)光點, 暫時的改變/臨時的變化
     - blister (n)皮膚上的水泡, 水泡/氣泡 (v)(使)起水泡或氣泡
     - blistering (adj)(溫度)極高的, 憤怒的/猛烈的(批評), 極快的/驚人的 = fast = impressive
     - blizzard (n)暴風雪
@@ -1147,6 +1149,7 @@
     + /ɪˈlɪzɪəm/ Elysium (n)樂園/天堂  <-- [希臘神話]
     + Elysian (adj)極樂世界的/天堂的
     + /iːk/ eke (v)[out]節省地使用, 艱苦地活著 = scrape by/along <|> elk
+    + embryo (n)胚胎, 初期 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
     + emulate (v)盡力趕上/超越(某人或成就) = equal or excell, 模仿 = imitate
     + emulation (mn)努力追上並超越, 模擬器/仿真器
     + emulous (adj)競爭心強的/好勝的
@@ -1158,7 +1161,7 @@
     + enviable (adj)令人羨慕的/令人嫉妒的 = very desirable
     + epicure (n)美食家 = connoisseur --> epicurean (n)美食主義者, 好美食的
     + epistemology (mn)知識論(探討知識的本質、起源和範圍的一個哲學分支) <-- epistemo 知識 = knowledge + logy
-    + /ˈəːsats/ ersatz (adj)代用的 = substitute = synthetic = artificial, 假的 = faux <-- [德]取代
+    + /ˈəːsats/ ersatz (adj)代用的 = substitute = synthetic = artificial, 假的 = faux = phony <-- [德]取代
     + erstwhile (adj)從前的/往昔的 = former = previous <-- erst 以前/往昔
     + escalate (v)擴大/加劇
     + /ɛsˈtʃuː/ eschew (v)避免/避開 = shun = shirk = avoid = abstain from = steer clear of 
@@ -1226,7 +1229,6 @@
     - elbow (n)肘, 衣服的肘部, 肘狀物 (v)用肘推 = nudge, 推擠, 摒棄(人或意見) = dismiss
     - elephant (n)大象 --> elephantine (adj)像大象的/巨大的/笨拙的 
     - elm (n)榆樹
-    - embryo (n)胚胎, 初期 --> embryonic (adj)胚胎的, 萌芽期的/剛起步的 = incipient = nascent
     - emeritus (n)榮譽退休
     - empire (n)帝國, 大企業 (mn)皇權/絕對統治 (adj)(風格)第一法蘭西帝國的 <|> empiric
     - empty (adj)空的, 空洞的/無意義的, 無價值的 (V)倒/倒空, 使成為空的, [into]流入(海洋或湖) (n)空瓶
@@ -3019,12 +3021,14 @@
     ++ /pleɪɡ/ plague (n)瘟疫 = pestilence, 一大群(有害的生物), 惱人的事物 = nuisance (v)使煩憂/折磨 = bother, 騷擾 = pester
     + platonic (adj)柏拉圖式的/純精神上的 = spiritual
     + plebeian (n)百姓/普通人/平民 (adj)平民的/庶民的, 粗俗的 = unrefined
-    + plod (v)沉重緩慢地走, 埋頭苦幹 (n)沉重緩慢的行走 --> plodding (adj)緩慢無趣的, 孜孜不倦工作的
+    + plod (v)沉重緩慢地走, 埋頭苦幹 (n)沉重緩慢的行走
+    + plodding (adj)緩慢無趣的, 孜孜不倦工作的
     ++ plot (n)陰謀/祕密計畫  = machinations = schemes, 情節, 小塊土地 = lot, 關係圖, 平面圖/標繪圖 (v)密謀/策劃 = conspire = collude = connive = scheme, 設計情節, 標繪, 繪製……的圖, 使在圖表上..成曲線, 以圖表說明
     + ploy (n)計謀/策略 = stratagem, 娛樂/消遣
-    ++ pluck (v)採/摘/拔 = pull, 撥/彈(弦), (人)脫離(困境) (n)勇氣 = courage, 動物的內臟 --> plucky (adj)勇敢的 
+    ++ pluck (v)採/摘/拔 = pull, 撥/彈(弦), (人)脫離(困境) (n)勇氣 = courage, 動物的內臟 
+    + plucky (adj)勇敢的 
     ++ plumb (v)測水深 = fathom, 探究/探索 = fathom = comprehend (n)鉛錘 (adv)[非]精確地 = exactly, 完全地 = completely (adj)垂直的 = vertical
-    - plump (adj)豐滿的/飽滿的, 發福的/胖的 = fat (v)[up]使鼓起, [up]變胖, 使撲通倒下/驀地摔下, [for]決定選 (adv)[非]沉重地/突然地, [非]率直地
+    - plump (adj)豐滿的/飽滿的, 發福的/胖的 = fat (v)[up]使鼓起, [up]變胖, 使撲通倒下/驀地摔下, [for]決定選 (adv)[非]沉重地/突然地, [非]率直地 <|> plumb <|> plume
     + plummet (v)垂直落下/高速下墜, 暴跌/急遽下降 = plunge (n)測鉛/鉛錘線 = plumb, 暴跌/急遽下降
     + poise (mn)沉著/泰然自若 = composure = tranquility (v)平衡/懸著 = balance = suspend, [be poised]作好準備
     + polar (adj)地極的/極地的, 電極的, 兩極的 --> polarity (n)兩極 --> polarize (v)[物]使偏振, [物]給予……極性, 使分裂
@@ -3044,7 +3048,8 @@
     - portraiture (n)肖像繪製/肖像畫技法, 生動的描述, 肖像 = portrait
     + /ˈpaʊwaʊ/ powwow (v)[非]商談/開會 = confer (n)非正式集會/商議, 祈禱儀式
     + pragmatic (adj)務實的/實用主義的 = practical --> pragmatism (n)實用主義 --> pragmatist (n)實用主義者
-    + prate (v)瞎扯/胡說 = gibberish = maunder = babble = drivel --> /ˈprat(ə)l/ prattle (n/v)閒扯/閒聊 = prate
+    + prate (v)瞎扯/胡說 = gibberish = maunder = babble = drivel 
+    + /ˈprat(ə)l/ prattle (n/v)閒扯/閒聊 = prate
     +++ precarious (adj)不穩的/不穩固的 = unstable = insecure, 碰機會的/說不定的 = uncertain <-- prayer
     + /ˈprɛdətə/ predator (n)食肉動物, 尾隨作案者 <-- predat 掠奪 = plunder + or
     - predation (mn)掠奪, 掠食 --> predatory (adj)食肉的, 掠奪的
@@ -3057,7 +3062,8 @@
     ++ provincial (adj)省的, 外地的/首都之外的, 守舊的/偏狹的 = narrow (n)地方居民, 外省人/外地人
     ++ provincialism (n)鄉土性/地方風格, 偏狹性 = narrow-mindedness, 方言 = patois, [生]物種封閉性
     + proxy (n)代理人 = agent, 取代物 = substitute
-    + /ˈprɒsɪlʌɪt/ proselyte (n)改變信仰者 --> proselytize (v)改變信仰/變節, 支持/提倡 = promote = advocate
+    + /ˈprɒsɪlʌɪt/ proselyte (n)改變信仰者 
+    ++ proselytize (v)改變信仰/變節, 支持/提倡 = promote = advocate
     + prudent (adj)審慎的/小心的 = guarded = cautious = careful = discreet = judicious = circumspect = deliberate
     + /ˈpjʊərʌɪl/ puerile (adj)幼稚的/傻氣的 = juvenile = silly = jejune = immature --> puerility (n) <-- puer 男孩 = boy
     + puissant (adj)[古]強大的/有權勢的 = powerful = mighty = potent --> puissance (n)權力/威勢
@@ -3071,6 +3077,7 @@
     - pastor (n)本堂牧師, 粉紅椋鳥 = rosy pastor (v)作(教堂)的牧師
     * pastoral (adj)諮詢指導的, 質樸的 = provincial, 鄉村風情的 = bucolic = rural = idyllic = rustic, 牧人的
     * /ˈpeɪʃ(ə)ns/ patience (n)耐心/忍耐/毅力 = forbearance
+    * patient (adj)有耐心的 (n)病人
     * pauper (n)貧民/乞丐 = poor = mendicant, 靠救濟度日者
     ** peach (n)桃子, 桃色, [非]傑出的人/極好的東西 (v)[非][on]告密 = inform against <|> peach
     * preach (v)布道, 鼓吹 = advocate = inculcate, 告誡/說教 
@@ -3082,7 +3089,8 @@
     * peril (n)危險 = jeopardy = hazard --> perilous (adj)充滿危險的/非常危險的
     * personable (adj)英俊的/美麗的 = attractive = handsome or comely
     * personnel (n)全體人員/員工, 人事部門
-    * pest (n)害蟲, 討厭的人或物 --> pester (v)不斷煩擾/糾纏/強求 = badger = nag <|> pestle
+    * pest (n)害蟲, 討厭的人或物 
+    * pester (v)不斷煩擾/糾纏/強求 = badger = nag <|> pestle
     * philanderer (n)調戲女人的男人/風流男子
     * /pɪə/ pier (n)突堤/長堤, 突堤碼頭, 橋墩/支柱
     * pigment (n)色素 (v)給……染色 --> pigmentation (n)天然顏色
@@ -3104,7 +3112,8 @@
     * ply (n)(線)層/股, 膠合板 = plywood (v)不斷使用/經常從事, 定期往返於, [with]持續向(某人)提供(通常指飲食), [with]不停地讓(某人)回答(問題)
     * poach (v)水煮, 隔水煮, 盜獵, 侵佔/竊取
     * pollute (v)污染 = contaminate, 玷汙/褻瀆 = defile
-    *** pompous (adj)傲慢的/自以為是的 = arrogant = grandiose = portentous --> pomposity (n)傲慢/自以為是 = self-importance
+    *** pompous (adj)傲慢的/自以為是的 = arrogant = grandiose = portentous 
+    *** pomposity (n)傲慢/自以為是 = self-importance
     * /pəʊp/ pope (n)教宗
     * pottery (n)製陶, 陶器 = earthenware
     * poverty (n)貧窮/貧困 = indigence, 貧乏/劣質 = paucity = scantiness = insufficiency = scarcity = dearth = inadequacy
@@ -3123,7 +3132,8 @@
     * purge (v)清除/擺脫 = rid, 肅清, 排除/除去 = remove = expel, 清腸 (n)肅清, 瀉藥 = laxative
     * purse (n)女用錢包, 財產, 比賽獎金, 女式手提包, (政府或機構的)資金/財力 (v)噘嘴 <|> pursue
 
-    - pack (n)一包, 一副(牌), 一群, 一夥/一幫, 背包 = rucksack, 冰袋 = ice pack (v)打包/收拾, 裝箱 = crate, 存放 = store, 擠進/塞滿 = cram, 攜帶(槍) = carry --> packed (adj)充滿人的/擁擠的 = crowded = crammed
+    - pack (n)一包, 一副(牌), 一群, 一夥/一幫, 背包 = rucksack, 冰袋 = ice pack (v)打包/收拾, 裝箱 = crate, 存放 = store, 擠進/塞滿 = cram, 攜帶(槍) = carry 
+    - packed (adj)充滿人的/擁擠的 = crowded = crammed
     - pact (n)協定/條約 = agreement = covenant = treaty
     - pad (n)墊/護墊, 肉墊, 微弱的腳步聲, 便條紙簿, 發射台/起降臺, 家 (v)填塞, [up]墊, [out]鋪張/拉長, 浮報, 放輕腳步走
     - padding (n)墊塞/填料, 充分量的廢話
@@ -3150,7 +3160,6 @@
     - papyrus (n)莎草/莎草紙
     - /ˈpɑːs(ə)l/ parcel (n)包裹, 一批/一宗, [英國]土地 (v)包起來/捆紮, [out]分配
     - parch (v)烘烤 = toast = roast <|> perch <|> porch
-    - praline (n)胡桃糖/杏仁糖, 杏仁巧克力
     - parenthetical (adj)作為附帶說明的/作為附加註解的
     - parietal (adj)(身體)外壁的/腔壁的, (腦)頂葉的, (大學宿舍)異性訪客的 (n)外壁/腔壁, 異性訪客規定
     - parishioner (n)教區居民
@@ -3168,12 +3177,12 @@
     - pasture (n)牧草地, 處境 (v)放..吃草, 吃草
     - patch (n)補釘, 眼罩, 膏藥, 斑駁/斑點, 一點, 一塊(土地), 短暫通話 (v)縫上補釘, 蓋上眼罩, 點綴, [up]修補, [together]拼湊, 通訊
     - patchy (adj)分布不勻的, 不一致的 = inconsistent
-    - paternal (adj)父親的/父系的, 父親般的 = fatherly --> paternity (n)父子關係/父親的義務, 父親的身分, 來源/出處
+    - paternal (adj)父親的/父系的, 父親般的 = fatherly 
+    - paternity (n)父子關係/父親的義務, 父親的身分, 來源/出處
     - paternalistic (adj)家長式的/溫和的專制主義的
     - pathfinder (n)探路者, 導航者/導航器, 實驗計畫
     - pathway (n)路/小徑, 途徑/方式, [醫]神經通道, [化]連串的化學反應
     - path-breaking (adj)創新的 = pioneering = innovative
-    - patient (adj)有耐心的 (n)病人
     - patina (n)綠繡, 神態 = impression
     - patio (n)院子, 天井/露臺
     - patter (v)啪嗒啪嗒地響, 啪嗒啪嗒地跑, 喋喋不休地說 (n)啪嗒啪嗒的聲音, (推銷員)連珠砲似的話, 行話 = jargon, 饒舌
@@ -3218,7 +3227,7 @@
     - pigeon (n)鴿子, 易受騙的人, 飛靶
     - pilfer (v)偷竊(小東西)
     - pilgrim (n)朝聖者, 旅行者
-    - pilgrimage (n)朝聖, 旅行, 人生
+    - pilgrimage (n)朝聖, 旅行, 人生 <|> plagiarism
     - pillage (n/v)搶劫/掠奪
     - pillar (n)柱子, 棟樑/臺柱
     - pilot (n)飛行員, 領航員, 試播節目, 排障器 = cowcatcher (adj)試驗性的 (v)駕駛, 領航, 試驗
@@ -3251,10 +3260,12 @@
     - pointedly (adv)顯然地/刻意地 
     - poison (n)毒, 有害之物 (v)下毒 --> poisonous (adj)有毒的, 有害的 = harmful
     - poke (v)戳/撥弄 = jab = prod, 伸出來/探出來 = thrust, [around]搜索/翻找 (n)戳/撥, [a poke round/around]掃視, 寬前沿女帽 = poke bonnet, [非]錢包, (植物)垂序商陸
-    - pole (n)柱/竿, 極, 截然相反的一端/極端, (賽車跑道的)最內側第一排位置 = pole position (v)用篙撐(船) --> Pole (n)波蘭人
+    - pole (n)柱/竿, 極, 截然相反的一端/極端, (賽車跑道的)最內側第一排位置 = pole position (v)用篙撐(船) 
+    - Pole (n)波蘭人
     - poleax (n)戰斧 = battleaxe (v)用斧頭砍/用斧頭殺死, 使目瞪口呆 = shock = gape
     - politicize (v)使政治化, 使參與政治, 談論政治
-    - poll (n)投票, 投票數, 獲得選票數, 投票所, 頭/頭皮, 無角動物 (v)紀錄意見, 去角 --> polls (n)投票所 --> pollster (n)民意調查家
+    - poll (n)投票, 投票數, 獲得選票數, 投票所, 頭/頭皮, 無角動物 (v)紀錄意見, 去角 --> polls (n)投票所 
+    - pollster (n)民意調查家
     - pollen (n)花粉
     - pollinate (v)給...授粉 --> pollination (n)授粉
     - polonaise (n)波蘭舞, 波蘭舞曲, 波蘭連衫裙
@@ -3278,6 +3289,7 @@
     - pound (n)磅, 英鎊 = pound sterling, 動物收容所, 汽車扣押場 (v)連續重擊, 沉重地走, 搗碎 = crush = grind 
     - pout (n/v)噘嘴/板臉 (n)條鱈 = bib = eelpout
     - practitioner (n)實踐者/開業者
+    - praline (n)胡桃糖/杏仁糖, 杏仁巧克力
     - prayer (n)祈禱, 禱告式, 祈願
     - preen (v)用喙整理羽毛, [oneself]打扮修飾, [oneself]洋洋自得
     - premier (adj)首位的/首要的, 最早的/最先的 --> premiere (n/v)首次公演
@@ -3310,6 +3322,7 @@
     - pure (adj)純粹的/純淨的, 純種的 = pedigree, 清亮的, 貞潔的, 純理論的, 完全的 = sheer
     - purity (n)純淨, 貞潔
     - purify (v)使潔淨/淨化, [from]提純 = extract
+    - puritanism (n)清教主義
     - purl (n/v)(編織)反針/倒針 (v)潺潺 (n)潺潺聲
     - purple (n)紫色, (帝王或顯貴穿的)紫袍, 高位 (adj)紫的/紫紅的 (v)使成紫色
     - purvey (v)大量供給/供應, 散佈/發揚 = promote = spread <-- provide
@@ -3320,7 +3333,7 @@
     - puzzle (v)(使)感到迷惑 = confuse, [out]苦思而得出 (n)猜謎, 拼圖, 謎 = enigma
     - pylon (n)高壓電線架 =  electricity pylon, 機場的標塔/指示塔
     - pyramid (n)金字塔, 角錐形物, 金字塔式騙局 = pyramid scheme (v)使成尖塔形
-    - pyre (n)火葬用的柴堆
+    - pyre (n)火葬用的柴堆 <|> pry
 
 [Q]
     + quagmire (n)沼澤地 = marsh, 困境/窘境 = mire = predicament = quandary = scrape <-- quag + mire
@@ -3490,7 +3503,7 @@
     - ream (n)令(紙張計數單位)
     - reed (n)蘆葦, 蘆笛, 箭頭, 不可依靠的人, 簧片, 簧片繼電器
     - /riːf/ reef (n)礁, 礁脈, 縮帆部/疊帆部 (v)疊捲/收帆, 縮桅
-    - reek (v)發臭 = stink, 象徵(壞事) (n)臭氣
+    - reek (v)發臭 = stink, 象徵(壞事), [of]明顯帶有/充滿(令人不快的特性) (n)臭氣
     - reel (n)捲筒, 一捲, 影片的一部份, 卷線器, 蘇格蘭民族舞蹈 (v)跳蘇格蘭民族舞蹈, 捲/繞, 失去平衡/跌倒, 搖搖晃晃地走, 感到困惑/震驚, [off]迅速地做或說
     - refreshing (adj)提神的, 使人耳目一新的
     - religiosity (n)篤信 = string belief
@@ -3708,6 +3721,8 @@
     + stigmatize (v)給……帶來恥辱/汙辱 <-- stig 刺青 = tattoo + ma
     +++ stint (v)節省/節制 = economize <--> unstinting (n)分配的工作, 定量/限額 = quota, 濱鷸
     ++ stunt (v)妨礙生長, 表演特技 (n)驚人的表演/驚險動作, 引人注目的花招/噱頭
+    - stilt (n)高蹺, 支撐物/支柱, 長腳鷸
+    + stilted (adj)生硬的, 踏著高蹺的
     + stipend (n)薪俸/津貼
     + stipulate (v)規定/約定 = specify = contract (adj)有托葉的 --> stipulation (n)規定/約定 <-- stipul 堅定 = firm + ate
     + stodge (mn)易使人飽的食物, 乏味無趣的東西 --> stodgy (adj)易使人飽的, 乏味的 = boring = dull
@@ -3921,6 +3936,7 @@
     - scalpel (n)外科手術刀/解剖刀
     - scamp (n)小淘氣/小調皮
     - scandal (n)醜聞, 公憤 = outrage, 流言蜚語 = rumor
+    - scandalous (adj)令人反感的/令人震驚的, 可恥的/丟臉的 = disgraceful
     - scats (v)[非]走開/滾開 (n)擬聲唱法, 糞便
     - scavenge (v)在……中搜尋有用之物, 從廢棄物中覓食, 以腐肉爲食
     - scrap (n)碎塊, 殘羹剩飯, 少量/一點點, 廢料/廢金屬 = scrap metal, 爭吵 (v)將……作為廢物, 廢棄/放棄 = abolish = cancel, 爭吵
@@ -4254,8 +4270,6 @@
     - stewardship (mn)管理工作
     - stick -> stuck -> stuck (n)棍/棒/杖, 棒狀物, 懲罰, [非]小鎮/鄉間, 一件(傢俱), 傢伙, 手排汽車 (v)[in/into/through]刺/戮, [in/into/through]釘住/插牢, [on]固定, 伸/伸出, 亂放, 使花費(錢), 黏貼/黏住, [非]使接受/使有道理, 卡住/阻塞, [be stuck on]著迷
     - stickle (adj)山坡的/傾斜的 (v)反對, 拘泥 --> stickler (n)非常注重...的人/固守…的人
-    - stilt (n)高蹺, 支撐物/支柱, 長腳鷸
-    - stilted (adj)生硬的, 踏著高蹺的
     - /stɪtʃ/ stitch (n)縫合線, 一針, 針法, 布塊, 跑步後肋部的劇痛 (v)縫紉/編結
     - stock (n)存貨, 家畜 = livestock, 股票/股份, 名聲/聲望, 高湯, 原料, 血統, 物種, 紫羅蘭, 手枷/足枷, 槍托, (工具的)柄 (adj)庫存的, 老一套的/陳腐的 = hackneyed (v)庫存/貯存, 給……裝上柄
     - stockade (n)防禦柵欄, 用柵欄圍起的地方, 軍人監獄 (v)用柵欄圍住

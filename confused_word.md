@@ -23,7 +23,7 @@
 - antagonistic <--> protagonist
 - apathetic <--> pathetic
 - apostate <--> apostle
-- apotheosize <--> apotheosis
+- apothegm <--> apotheosize <--> apotheosis
 - appeal <--> appellant <--> appellation
 - appurtenant
 - aptitude <--> attitude <--> altitude
@@ -237,7 +237,7 @@
 - disjoint <--> disjunction
 - dismissal <--> dismissive
 - disparage <--> disparate
-- dispense <--> dispensable <--> indispensable
+- dispense <--> dispensable <--> indispensable <--> dispensation
 - dispute <--> disrepute <--> depute <--> repute
 - dissimulate
 - distaste
@@ -317,6 +317,7 @@
 - feign <--> foreign <--> deign <--> reign
 - feint <--> fend <--> fender <--> fiendish
 - feminine <--> famine
+- ferry <--> ferrous
 - fete <--> mete <--> effete
 - fetid <--> fetish
 - fib <--> dibs
@@ -339,7 +340,7 @@
 - forfeit <--> forlorn
 - forsake <--> sake
 - forthcoming <--> forthright <--> forthwith
-- fractious <--> fractional
+- fractious <--> fractional <--> infraction <--> anfractuous <--> fracture
 - frail <--> flail <--> fragile
 - fray <--> defray
 - fright <--> fraught <--> draught <--> drought
@@ -439,8 +440,10 @@
 - imperative <--> imperious <--> imperial
 - impose <--> imposing <--> imposture <--> impostor
 - importune <--> import
+- impregnate <--> impregnable <--> pregnable
 - inch <--> itch
 - inductive <--> induce <--> inducement
+- infer <--> refer <--> referendum
 - insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
@@ -559,6 +562,7 @@
 - object --> objection <--> objective
 - objurgate 
 - obnoxious <--> innocuous <--> noxious
+- obstreperous
 - obtrusive
 - occlude <--> occult
 - occupation <--> preoccupation
@@ -639,16 +643,17 @@
 - precocious
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
-- impregnate <--> impregnable <--> pregnable
 - prerogative
+- presentiment
+- prestige <--> vestige
+- prefigure
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
-- prestige <--> vestige
 - prognosticate
 - progenitor <--> primogenitor
 - private <--> privation
-- primacy <--> primate <--> prim <--> primp
-- probe <--> prod <--> pod <--> prop <--> propitiate
+- primacy <--> primate <--> prim <--> primp 
+- probe <--> prod <--> pod <--> prop <--> propitiate <--> propitious
 - probity <--> probate
 - proceeds <--> proceedings <--> procession
 - procure <--> recur <--> recourse
@@ -692,7 +697,9 @@
 - react <--> reactionary
 - recant <--> incant
 - raconteur <--> rancor <--> rancid
+- recrudesce
 - redoubtable <--> redouble
+- refractory <--> refract
 - rapprochement <--> reapproach
 - rattle <--> prattle
 - raucous
@@ -811,6 +818,7 @@
 - squeamish
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
+- solipsism
 - somnolent
 - supple <--> supplement
 - stake <--> stick <--> stock <--> stoke <--> stove
@@ -833,6 +841,7 @@
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
 - subsist
+- susceptible <--> suspicious
 - sullen <--> sully
 - supercilious
 - superfluous <--> superficial
@@ -846,7 +855,7 @@
 - telltale <--> untold
 - temerity <--> temerarious
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
-- tend <--> tender <--> tendentious <--> sententious <--> tenacious
+- tend <--> tender <--> tendentious <--> sententious <--> tenacious <--> untenable
 - tenebrous
 - teensy <--> tinny
 - tentative
@@ -903,6 +912,7 @@
 - vie <--> vile <--> vilify <--> revile
 - vindicate <--> vindictive
 - vintage <--> vantage
+- vitriolic <--> vitriol
 - vituperation
 - vocation <--> vacation
 - vogue <--> rogue

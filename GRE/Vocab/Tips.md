@@ -31,6 +31,8 @@
 		1. Though less celebrated, Haydn was far more _____ than Mozart: to Mozart's 41 symphonies, Haydan penned 106.
 			- Always read entire sentence - not necessarily an exact opposite.
 			- The blank does not have any relationship with "Though less celebrated".
+- As a rule of thumb, **whenever "however" is immediately followed by a comma, it's a shifter.** If it is not immediately followed by a comma (as is the case here), and is rather part of a phrase, **it means "in whatever manner...."**
+- Frequently, when "for" appears at the beginning of a sentence, it's setting up a contrast. 
 		
 - Choose answers that create the correct levels of similarity or contrast.
 
@@ -43,6 +45,11 @@
 
 ## Apposition (同位語)
 - Two words (usually adjective) follow one another.
+
+## Special Phrase
+- anything but == except
+- nothing but == only
+- by no means == not
 
 ## Double/Triple Blank
 - Read the whole sentence.

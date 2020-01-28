@@ -1097,7 +1097,7 @@
 		- concord (n)和諧/和睦 = amity = rapport <--> discord, 公約/協定 = accord, [音]協和音程
 		* cord (n)細繩, 燈芯絨, 羈絆 (v)用繩子捆綁 <|> cordial
     	- corduroy (n)燈芯絨, 燈芯絨褲 (v)用木頭鋪(道路)
-		- cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的 (n)甜香酒
+		* cordial (adj)友好的/熱誠的 = affable = amicable = genial, (尤指厭惡感)強烈的 (n)甜香酒
 
 	cre, crue 增長/產生 = grow, increase
 		+ accrete (v)生長/增加 --> accretion (n)增加, 聚成物
@@ -1571,7 +1571,7 @@
 			+ decline
 			+ declivity
 			- decrepit
-			+ decry (v)公開譴責/抨擊 = denounce = censure = condemn = excoriate <|> decay
+			+ decry (v)公開譴責/抨擊 = denounce = censure = condemn = excoriate <|> decay <|> descry
 			- deduce
 			+ deduct --> deductive --> deduction
 			+++ default (n/v)未履行責任/拖欠債務 (v)[to]還原(預設值) (n)預設值, 標準 = standard <-- de + fault 錯誤 = fail
@@ -1652,7 +1652,7 @@
 			+ defunct
 			- defuse (v)拆除引信, 平息/緩和
 			- dehydrate
-			* deliberate
+			+++ deliberate
 			- demented (adj)失智的
 			- dementia (mn)痴呆/失智症
 			+ demit 
@@ -1734,6 +1734,7 @@
 			- disequilibrium (n)不均衡/失調
 			- disgust --> disgusting
 			* dishearten (v)使洩氣/使沮喪 = daunt = discourage
+			- dishevel (v)使(頭髮)蓬鬆
 			- disillusion (v)醒悟/使幻想破滅 = disenchant --> disillusionment (mn)醒悟
 			- disinfect (v)殺菌/消毒
 			+ disingenuous (adj)虛偽的/不誠實的 = insincere <--> candid
@@ -2285,7 +2286,7 @@
 		+ engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
 		+ engender
 		- engrave (v)雕刻, [on/in]銘記
-		- engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
+		* engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
 		+ enjoin (v)教導/鼓勵 = instruct = urge, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
@@ -2576,7 +2577,7 @@
 
 	fab, fable 說 = speak == dict == cent
 		+ affable (adj)易於交談的/友好的/和藹的 = friendly = cordial = amiable = benign = genial = personable --> affability (n)
-		- ineffable (adj)無法表達的/說不出的/難以言喻的
+		+ ineffable (adj)無法表達的/說不出的/難以言喻的
 		- fabulous, fab (adj)驚人的, 極好的, 神話般的 --> fabulously (adv)極度 = extremely
 
 	fect, fac, fact, fice, feit, fic, feas, feat, fict, fest 做/製作 = make == a == act
@@ -2650,60 +2651,61 @@
 
 	fer, fert 帶著/帶來 = carry, bear
 		- circumference
-		++ confer (v)商討/商議/協商 = consult = deliberate = parley = powwow, 贈與/授與(稱號或榮譽) = bestow = invest
-		+ conference (n)會議/大會/討論會
-		++ defer (v)拖延/推延 = delay, 聽從 = submit = yield
-		++ deference (n)敬意/尊重 = respect = regard = obeisance
-		+ deferential (adj)順從的 = obedient = obsequious <-- defer
-		* deferement (n)延期/推遲 <-- defer
-		* differ (v)與…不同/有區別, 意見不一致 = disagree --> different --> difference
-		+ /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)使有差異/使變異, 區分/區別/辨别 = distinguish = discriminate
+		++ confer (v)贈與/授與(稱號或榮譽) = bestow = invest, 商討/商議 = consult = parley = powwow
+		+ conference (n)會議/大會, 聯盟 (v)參加(會議)
+		++ defer (v)拖延/推延 = postpone = delay, [to]聽從 = submit = yield
+		++ deference (mn)敬意/尊重 = respect = regard = obeisance
+		+ deferential (adj)恭敬的 = obedient <-- defer
+		* deferment (n)延期/推遲 = postponement <-- defer
+		* differ (v)與…不同/有區別, 意見不一致 = disagree --> different (adj) --> difference (n)
+		+ /ˌdɪfəˈrɛnʃɪeɪt/ differentiate (v)區分/區別/辨别 = distinguish = discriminate, 使有差異/使變異
 		+ differential (adj)不同的/有差異的, 獨特的 (n)差異, 微分, 差動齒輪 (adj)微分的, 差動的
 		* /ˈfəːtʌɪl/ fertile (adj)肥沃的 = fecund = generous = prolific, 多產的 = productive, (創造力或想像力)豐富的
 		- fertilize (v)施肥, 使受精/使受粉 --> fertilizer (n)肥料/化肥
 		- infertile (adj)不肥沃的/不毛的, 不育的
-		++ infer (v)推斷/推定 = deduce = deduct = conclude, 猜測 = guess = surmise = sepeculate, 暗示/暗指 = hint = imply = suggest = intimate
-		++ prefer (v)更喜歡/寧願, 提出(控告等) --> preference (n)偏愛/偏袒, 優先
-		*** refer (v)提交/交付, [to]論及/談到, 查閱/參考, 不及格
-		- referee (n)裁判員/仲裁者
+		++ infer (v)推斷/推定 = deduce = deduct = conclude
+		++ prefer (v)更喜歡/寧願, 提出(控告) --> preference (n)偏愛/偏袒, 優先
+		*** refer (v)[to]論及/暗示 = mention = allude, [to]將……提交/交付, [to]轉診, [to]查閱/參考, 不及格
+		- referee (n)裁判/裁判員 (v)擔任裁判
 		- referral (n)提及, 轉診, 轉診病人 
     	- referendum --> referenda (n)全民公投
 		- somniferous
 		- melliferous
-		- transfer (v)轉換/調動/調任/轉移/轉變/轉讓 --> transference (n) 
+		- transfer (n/v)轉換/調動, 改變/轉變, 轉印/描摹, 轉讓/讓渡 --> transference (n)轉移
 
 	ferr 鐵 = iron
 		- ferrous (adj)含鐵的
 		- ferrum (n)鐵
-		- ferroconcrete (n)鋼筋混凝土/鋼筋水泥
+		- ferroconcrete (n)鋼筋混凝土/鋼筋水泥 (v)使結合 = unite
 
 	ferv, ferm 熱 = hot
-		+ /ˈfəːvə/ fervent (adj)熱烈的/熱情的 
-		+ fervid (adj)熾熱的 = hot = buring, 熱情的 = fervent = passionate --> fervor (n)熱情 = ardor
-		- perfervid (adj)非常熱心的 = fervent
+		+ /ˈfəːvə/ fervent (adj)熱烈的/熱情的 = ardent
+		+ fervid (adj)熾熱的 = hot = buring, 熱情的 = fervent = passionate 
+		+ fervor (n)熱情 = ardor
+		- perfervid (adj)非常熱情的 = fervent
 		+ effervesce (v)冒泡 = bubble = foam, 熱情洋溢
 		+ effervescent (adj)冒泡的 = fizzy, 快活的/熱情洋溢的 = vivacious = enthusiastic
 		+ effervescence (n)泡泡, 熱情 = vivacity = enthusiasm
-		** /fəˈmɛnt/ ferment (V)使發酵 = leaven, 醞釀, 使騷動/煽動 = foment = inflame <|> /fə(ʊ)ˈmɛnt/ foment
+		** /fəˈmɛnt/ ferment (V)使發酵 = leaven, 使騷動/煽動 = foment = inflame (n)動亂
 
 	fend, fence, fense 打擊 = strike
-		+ defend (v)保衛/保護, 維護 = uphold
-		+ defense, defence (n)防禦/保衛, 辯護/辯護方
-		- offend (v)冒犯/觸怒/犯錯, 使不舒服, 犯罪/犯法
-		- offender (n)違法者, 有問題的人或物
+		+ defend (v)保衛/保護, 辯護
+		+ defence, defense (n)防禦/保衛, 辯護, 辯護方
+		- offend (v)冒犯/觸怒 = slight, 使不舒服, 犯罪/犯法
+		- offense, offence (n)違法行為, 冒犯, 攻擊, 進攻方
+		- offender (n)違法者, 罪犯
 		- offensive (adj)冒犯的/無禮的, 令人不快的 = disgusting = repulsive, 進攻的 (n)進攻/攻勢
-		+ inoffensive (adj)無害的 = innocuous = harmless
-		- offense, offence (n)違法行為, 冒犯, 攻擊/進攻方
-		- fence, fense (n)籬笆
+		+ inoffensive (adj)不傷人的/不討人嫌的 = innocuous = harmless
+		- fence, fense (n)籬笆, [非]買賣贓物的人, 劍術/擊劍 (v)用籬笆圍住, [out]隔離, 買賣(贓物), 擊劍 <|> fend 
 
 	fract, frac, frag 碎裂 = break == rupt
 		+ anfractuous (adj)蜿蜒的 = sinuous = circuitous
-		* fraction (n)碎片, 小部分
-		- fractional (adj)碎片的, 少量的
+		* fraction (n)[數]分數, 小部分, 少數
+		- fractional (adj)分數的, 少量的
 		+ /ˈfrakʃəs/ fractious (adj)易怒的/暴躁的= irritable = peevish = quarrelsome = rebellious, 難以控制的 = restive  = unruly = refractory = disobedient
-		- fracture (n)骨折, 破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
+		- fracture (n)破裂/斷裂, 裂縫/裂痕 (v)使破裂, 使骨折
 		- /ˈfraktʃəd/ fractured (adj)破碎的, 停止運作的, 錯誤百出的(語言)
-		* /ˈfradʒʌɪl/ fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy = slight
+		* /ˈfradʒʌɪl/ fragile (adj)易碎的/易損壞的 = brittle = frail, 脆弱的 = delicate = flimsy
 		- fragment (n)碎片 (v)成碎片
 		- infraction (n)違法 = violation = infringement
 		- refract (v)折射 --> refraction (n)折射 <|> refection
@@ -2711,34 +2713,36 @@
 
 	femin 女性 = woman
 		- feminist (adj)主張男女平等的 (n)男女平等主義者 = egalitarian
-		* feminine (adj)女性特有的/女性的/陰性的 <--> masculine
-		- effeminate (adj)女人氣的/柔弱的 = effete
+		* feminine (adj)女性特有的/女性的/陰性的 (n)女性 = female <--> masculine
+		- effeminate (adj)[貶]女人氣的/柔弱的 = unmanly = effete
 
 	fid, fide 相信 = trust, faith
 		- affidavit (n)宣誓書
-		- confide (v)吐露/傾訴/信任/託付
-		+ confident (adj)有自信的, 確信的
+		- confide (v)吐露/傾訴, 託付 = entrust
+		+ confident (adj)有信心的, 確信的
 		- self-confident (adj)有自信的
-		- confidence (n)信心, 確信/把握, 自信, 秘密/知心話
+		- confidence (n)信心, 確信/把握, 吐露/傾訴, 秘密
 		- confidential (adj)機密的 = esoteric, 參與機密的
 		+ diffident (adj)缺乏自信的/羞怯的 = shy --> diffidence (n)缺乏自信
-		+ perfidy (n)不誠實/背信棄義 --> perfidious (adj)不忠的/背信棄義的 = faithless = disloyal = treacherous = traitorous
+		+ perfidy (n)不誠實/背信棄義 
+		+ perfidious (adj)不忠的/背信棄義的 = treacherous = faithless = disloyal = traitorous
 
 	fig, figur 形成/形狀 = shape
-		- configure (v)裝配/配置/設定
-		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 輪廓 = contour = outline, 原子組態, 完形(一種結構或者經歷，其整體不等於各部分簡單相加之和)
+		- configure (v)裝配/配置
+		- configuration (n)結構/配置 = form = arrangement, 電腦配置, 原子組態
 		- disfigure (v)損毀…的外觀/使毀容
 		+ effigy (n)(尤指被憎恨人的)肖像/雕像
-		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 肖像/塑像, 圖/表 (v)認為/料到, 出現/參加, 計算, 象徵, [into]被包括
-		* figurative (adj)比喻的/借喻的 = metaphoric <--> simile
+		*** figure (n)數字, 輪廓/人影, 體態, 人物/名人, 圖/表 (v)出現/露頭角, 計算, 認為/料到 = expect, 做圖表
+		* figurative (adj)比喻的/借喻的 = metaphoric <--> simile, 形象的/具象的
 		- figurehead (n)有名無實的領導人/傀儡領袖, 船首像
-		- figurine (n)小雕像/小塑像
+		- figurine (n)小雕像/小塑像 = statuette
 		- figment (n)虛構的事 <|> pigment
 		+ prefigure (v)預示/預想/預見 = adumbrate = foreshadow
 		- transfigure (v)美化/改觀
 
 	fet, fe 胎兒
-		+ fecund (adj)肥沃的 = fruitful = fertile = generous = prolific, 有創造力的 = very productive --> fecundity (n)多產/富饒, 創造力
+		+ fecund (adj)肥沃的 = fruitful = fertile = generous = prolific, 有創造力的 = fertile
+		+ fecundity (n)多產/富饒, 創造力
 		- fetal (adj)胎兒的
 		- fetus (n)胎兒
 		- fetology (n)胎兒學
@@ -2746,18 +2750,18 @@
 
 	fili 兒子 = son
 		+ affiliate (v)[be affiliated to/with]使隸屬於 = associate, 接納……為成員, 併入/加入 (n)成員
-		+ affiliated (adj)附屬的/相關的 = related
+		+ affiliated (adj)附屬的/相關的
 		- filial (adj)子女的
 
 	fin 範圍/限制 = boundary, boder, stop, limit
 		+++ affinity (n)吸引/喜愛 = fondness = penchant = bent, 雷同/相似 = resemblance, [化]親和性 (mn)關係 = relation
-		+ confine (v)限制/把...侷限於 = constrain = cloister, (常指強制)關押/監禁/禁閉 = detain = incarcerate = fetter
-		+ define (v)說明/解釋, 界定 
-		+ /ˈdɛfɪnət/ definite (adj)明確的 (n)明確之事 
-		+ definitive (adj)明確的, 最終的/決定性的
-		+ definitiveness (mn)決定性
+		+ confine (v)限制/把...侷限於 = constrain = cloister, [to/in]監禁/禁閉 = detain = incarcerate = immure (n)邊界/邊緣
+		+ define (v)說明/解釋, 下定義, 界定, 使……的輪廓分明 = delineate
 		- defined (adj)輪廓分明的
-		+ finite (adj)有限的 = measurable
+		+ /ˈdɛfɪnət/ definite (adj)明確的 = unambiguous, 確信的 = confident
+		+ definitive (adj)最終的/決定性的, 權威性的
+		+ definitiveness (mn)決定性
+		+ finite (adj)有限的
 		+ infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense --> infinity (n)無限的時間或空間
 		- infinitesimal (adj)極微小的 (n)極小量
 
@@ -3122,6 +3126,7 @@
 [H]
 	hyper 過 = over, above
 		- hyperactive (adj)活動過度的 --> hyperactivity (n)活動過度, 極度活躍
+		- hyperbaric (adj)高氣壓的
 		+ /hʌɪˈpəːbəli/ hyperbole (n)誇飾法 <-- hyper + bole 扔 = throw
 		- hypercritical
 		- hyperopia (n)遠視 = hypermetropia
@@ -3189,7 +3194,7 @@
 		- humus (n)腐殖質/腐質土壤
 		+ humble (adj)卑微的/低下的, 謙遜的/謙恭的, 簡陋的 (v)使謙卑 = grovel, 使威信掃地
 		- humility (n)謙卑/謙遜 <|> humiliation
-		+ humiliate (v)使屈辱/羞辱 = mortify = degrade --> humiliation (n)羞辱/恥辱 = opprobrium
+		+ humiliate (v)使屈辱/羞辱 = mortify = degrade = chagrin --> humiliation (n)羞辱/恥辱 = opprobrium
 		+ humdrum (adj)無聊的/乏味的/單調的 = boring = dull = monotonous (n)單調 = monotony <|> humbug
 
 	hydr, hydro 水 = water == aqua
@@ -3558,6 +3563,7 @@
 			- induct --> induction
 			- indurate
 			+ industrious (adj)勤勉的/勤勞的 = diligent = hard-working <-- industry
+			- inebriate (v)使醉 = intoxicate (n)酒鬼/醉漢 = drunkard (adj)酒醉的
 			- infatuate (v)使熱戀/使衝昏頭腦 --> infatuation (n)迷戀 <-- in + fatuous + ate
 			- infect --> infection
 			+ infer
@@ -4142,6 +4148,7 @@
 		- liquid (n)液體, 流音 (adj)清澈的 = limpid, 液體的/液態的, 流暢的, 不固定的 = fluid, 悅耳的 = harmonious, 易換成現金的
 		- liquidate (v)清算/清償, 把..換為現金, 殺 --> liquidation (n)清算/清償, 殺害
 		- liquor (n)白酒/烈酒, 汁水, 溶液
+		- liquefy (v)(使)液化
 
 	lapid, lith 石頭
 		+ dilapidate (v)使荒廢/使毀壞 --> dilapidated (adk)破舊的/倒塌的
@@ -6146,7 +6153,8 @@
 			+++ resort (v)訴諸/憑藉/求助 = solicit, 經常去 (n)休閒度假之處/名勝, 訴諸/憑藉 <-- re + sort 出現 = come
 			- resound (v)迴盪著聲音, (名聲/功績)被傳揚/被傳頌 = be much talked of, 鳴響
 			+ resolve --> resolution
-			+ resource (n)資源, 智謀/機智, 消遣/娛樂 (v)提供資源 --> resourceful (adj)機智的 <-- re + source 升起 = rise
+			+ resource (n)資源, 智謀/機智, 消遣/娛樂 (v)提供資源  <-- re + source 升起 = rise
+			+ resourceful (adj)機智的
 			- respire --> respiration
 			+ resplendent (adj)華麗的 <-- re + splend 發光 = shine + end
 			- respond --> reponse --> responsive --> responsiveness
@@ -6568,7 +6576,7 @@
 		+ solicitude (n)關懷/牽掛 = care = concern
 		+ /səˈlɪsɪtəs/ solicitous (adj)關切的/熱切期望的
 		+ soliloquy
-		- solipsism (n)唯我論
+		* solipsism (n)唯我論
 		*** solitary (adj)單獨的/獨自的 = isolated = insular = sporadic, 隔絕的, 非群居的, 單一的/唯一的 = single = only (n)隱士 = recluse = hermit, 單人牢房
 		+ solitude (n)孤獨 = seclusion, 冷僻/荒涼之地
 		- solo (adj)獨自的 = solitary (adv)獨自 (v)獨唱/獨奏, 單飛 --> solos (n)獨唱/獨奏, 單飛
