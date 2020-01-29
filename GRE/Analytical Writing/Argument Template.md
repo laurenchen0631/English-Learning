@@ -31,7 +31,7 @@
 	- *Without supporting evidence and examples _____, one is left with the impression that the claim is more of a wishful thinking rather than substantive evidence. As a result, this conclusion has no legs to stand on.*
 
 4. (Support Argument)
-	- *Finally, the argument concludes that ___fallacy3___*
+	- *Finally, the argument [concludes] that ___fallacy3___*
 	- *Admittedly, this is true especially when it comes to ____specific condition____.*
 	- *In addition, _____further support______*
 	- *However, the above argument does not constitute a sufficient support to claim that ___fallacy3___*

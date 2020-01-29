@@ -164,6 +164,10 @@
 		- Time from P to B is 15/60 = 0.25hr
 		- Thus time from B to A is 4 - 0.25 = 3.75
 		- Distance = 3.75 * 80 = 300 miles
+ - Work Problem
+	- Example: Pump x takes 28 hours to fill a pool. PUmp Y takes 21 hours to fill the same pool. How long does it take them to fill the same pool if they are working simultaneously?
+		- Rx = 1/28, Ry = 1/21
+		- Rxy = Rx + Ry = 1/12
 
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.

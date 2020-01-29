@@ -452,7 +452,7 @@
 		+ artlessness (n)直率, 單純/樸實
 		+ artifact (n)工藝品/手工藝品
 		+ artificial (adj)人造的 = faux = synthetic, 假的 = faux = synthetic, 矯揉造作的
-		- artifice (n)詭計 = contrivance = finesse = ruse
+		+ artifice (n)詭計 = contrivance = finesse = ruse
 		*** article (n)物品/物件, 文章, 條款
 		++ artful (adj)精明的/狡詐的 = wily = crafty = cunning, 有創意的/有品味的
 		- /ɑːˈtɪstɪk/ artistic (adj)富有藝術性的, 藝術的, 藝術家的
@@ -520,6 +520,7 @@
 		*** act (v)行動, 生效, 飾演 (n)行為, 法案/法令, 幕
 		- actionable (adj)有足夠證據可控告的, 有行動價值的
 		- activism (mn)激進主義
+		- actuality (n)現實, 真實情況
 		- counteract
 		+ enact (v)制定(法律), 扮演(角色)
 		++ exact (v)強要/勒索 = force = compel, 施加(報復) (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 謹慎的
@@ -1209,6 +1210,7 @@
 		+ cacophonous (adj)難聽的/刺耳的 = strident <--> euphonious = mellifluous = dulcet
 
 	calc 石灰/石灰岩 = lime, limestone
+		- calcified (adj)鈣化的
 		- calcification (n)鈣化
 		- /ˈkalsɪəm/ calcium (n)鈣
 		- calculus (n)微積分  infinitesimal calculus, 計算法/推論法, 結石
@@ -1966,6 +1968,7 @@
 
 	demn, damn 傷害/損害 = damage, harm, loss
 		++ condemn (v)強烈譴責/指責 = criticize = censure, 判刑 = sentence = convict, 迫使……處於(不幸的狀態)
+		- condemnatory (adj)譴責的 = censorious
 		- damn (v)罰…入地獄, 失敗/毀掉, 嚴厲指責, 咒罵 = curse (excl)該死/討厭 (adj)該死的 (adv)該死
 		- precondemn (v)預先宣告…有罪
 		- indemnify (v)賠償/補償 = compensate, 保障 --> indemnity (n)賠償(金) = compensation, 保障/保險
@@ -2300,7 +2303,7 @@
 		- enrapture (v)使欣喜若狂
 		- enrichment (n)充實/豐富, 鈾濃縮, 富有
 		- enroll (v)入會/入學, 徵 = recruit
-		- /ɪnˈskɒns/ ensconce (v)安置/安頓 = en + sconce 木堆 = bundle of wood
+		- /ɪnˈskɒns/ ensconce (v)安置/安頓 <-- en + sconce 木堆 = bundle of wood
 		- ensemble
 		- ensign (n)旗/軍旗
 		* ensue (v)接著發生/接踵而來, 產生 --> ensuing (adj)接連發生的 <-- en + sue 跟隨 = follow
@@ -2773,132 +2776,146 @@
 	firm 堅定
 		++ affirm (v)申明/堅稱 = assert = maintain, 維護(主張) = uphold = defend, 證實/確認, 給予..鼓勵或支持
 		++ affirmative (adj)肯定的, 表示贊成的, 明確的 = unequivocal, 支持鼓勵的 (n)肯定詞, 贊成的一方 (excl)肯定 = yes
-		++ confirm (v)確認 = affirm --> confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrenched
-		- infirm (adj)病弱的 = ailing (n)病弱的人 --> infirmary (n)(學校)醫務室, 醫院
+		++ confirm (v)確認 = affirm
+		+ confirmed (adj)成習慣的/根深蒂固的 = inveterate = entrenched
+		- infirm (adj)病弱的 = ailing
+		- infirmary (n)醫院 = hospital, 醫務室
 
 	fix 固定 = fasten
-		- affix (v)黏上/附上 = stick = attach, (在末尾)添寫某事物 (n)詞綴
-		- prefix (n)前綴
-		- suffix (n)後綴/詞尾
-		+ fixate (v)使固定/使不變/注視/凝視 
+		- affix (v)[to]黏上/附上 = stick = attach (n)詞綴
+		- prefix (n)前綴 (v)加…作前綴
+		- suffix (n)詞尾 (v)加……作字尾
+		+ fixate (v)迷上/迷戀, 注視/凝視 
+		- fixation (n)著迷 = obsession, 固定, 注視, 保存(標本)
+		- fixity (mn)固定性
+    	- fixture (n)固定裝置/配件
+		- transfix (v)把..嚇呆, 刺穿
 
 	flict 打擊 = knock
 		- afflict (v)折磨/使苦惱 = plague = torture = rack
-		* conflict (n/v)爭論/分歧/衝突, 戰鬥/打鬥
-		* inflict (v)給予打擊/使遭受 --> inflicion (n)施加的痛苦
+		* conflict (v)爭論 = argument = struggle, 衝突 = incompatibility (v)衝突 = clash = be incompatible
+		* inflict (v)[on]給予打擊/使遭受
+		* infliction (mn)施加 (n)[非]惱人的事物 = nuisance
 
 	flu, fluct, fluv 流 = flow
-		+ affluent (adj)富裕的 = well-to-do = rich = prosperous = opulent <--> needy = impecunious = indigent
-		- confluence (n)交匯/匯流點 = junction
+		+ affluent (adj)富裕的 = well-to-do = rich = prosperous = opulent <--> impecunious
+		- confluence (n)匯流點 = junction, 交會
 		- /ɪˈfluːvɪəm/ effluvium -> effluvia (n)惡臭, 廢料
-		+ fluctuate (v)波動/變動 = vacillate = waver --> fluctuation (n)不斷變動, 波動 = undulation
-		- fluvial (adj)河流的, 生在河中的
-		+ flux (n)不斷的變動, 動盪不定
-		- influx (n)注入/湧入
-		+++ superfluous (adj)過多的/不必要的 = excessive = redundant = unnecessary  <|> superficial
+		+ fluctuate (v)波動/變動 = vacillate = waver 
+		+ fluctuation (n)不斷變動 = flux = variation
+		- fluvial (adj)河流的/河中的
+		+ flux (mn)流出, 出血, 不斷的變動 = fluctuation, 助熔劑 (v)使熔化
+		- influx (n)匯集, 流入/注入
+		+++ superfluous (adj)多餘的/不必要的 = excessive = redundant = unnecessary = lefover <|> superficial
 		+++ superfluity (n)不必要/過剩 = plethora, 不必要的東西
 
 	fluoro, fluor 螢光/氟
 		- fluorite (n)螢石/氟石
-		* fluorescent (adj)螢光的/發光的 --> fluorescence (n)
-		- fluorometry (n)螢光計
+		* fluorescent (adj)螢光的/發光的, 鮮豔的 (n)螢光燈 --> fluorescence (mn)螢光, 螢光性
+		- fluorometer (n)螢光計
 		- /ˈflɔːriːn/ fluorine (n)氟
 		- /ˈflɔːrʌɪd/ fluoride (n)氟化物
 
 	flor, flour 花/開花 = bloom, flower == anth
-		- efflorescent (adj)開花的
-		- efflorescence (n)風化, 發展
+		- efflorescence (n)風化, 快速發展 --> efflorescent (adj)
 		- florescence (n)花期, 全盛期
 		+ flora (n)(某地區或時代的)植物群 <|> fauna
-		++ florid (adj)過分華麗的 = flowery = flamboyant = showy, 紅潤的 = rosy = ruddy = reddish
-		+ flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish, 活躍而有影響力, 裝飾/潤飾 = embellish = decorate (n)炫耀性的動作, 花飾/華麗的詞藻, 炫耀
+		++ florid (adj)紅潤的 = rosy = ruddy = reddish, 過度複雜的/精緻的  = flowery = flamboyant = showy, (詞藻)華麗的
+		+ flourish (v)繁榮 = bloom = boom = thrive = prosper, (為引人注意)揮舞 = brandish (n)炫耀性的動作, 花飾/華麗的詞藻, 繁榮
 
 	front 前面/臉面 = forehead
-		+ affront (v)侮辱/冒犯 = insult = abuse = offend
-		- confront (v)面對/面臨 = face, 對抗 --> confrontation (n)對抗/衝突/對峙/爭論 = argument = fight
+		+ affront (v)侮辱/冒犯 = slight = insult = abuse = offend
+		- confront (v)面對/面臨/遭遇/正視 = face
+		- confrontation (n)爭論/衝突 = argument, 對峙 = fight
 		+ effrontery (n)厚顏無恥/放肆 = insolence = impudence = presumption = impertinence
 
 	fug 逃離 = flee
 		- centrifugal
-		- fug (n)室內的悶熱空氣, 煙霧騰騰
-		* fugitive (n)逃犯 (adj)短暫的/轉瞬即逝的 = fleeting = transitory = elusive  <|> figurative
+		- fug (n)室內的悶熱空氣
+		** fugitive (n)逃犯 (adj)短暫的/轉瞬即逝的 = fleeting = transitory = elusive  <|> figurative
 		- insectifuge (n)驅蟲劑
-		+ refuge (n)避難所/庇護所 = asylum = shelter
+		+ refuge (n)避難所/庇護所 = asylum = shelter = haven = harbor
 		- refugee (n)難民/流亡者
 		+ subterfuge (n)花招/伎倆
 
 	fulg 閃亮 = shine
-		- effulgent (adj)燦爛的 = refulgent
-		- fulgurate (v)像閃電般發光, 電燒
+		- effulgent (adj)燦爛的 = refulgent, 洋溢的
+		- fulgurate (v)電燒, 像閃電般發光
 		+ refulgent (adj)輝煌的/燦爛的 = shining = radiant = resplendent
 
 	feder 聯盟 = league
-		* confederate (adj)同盟的 (v)同盟 (n)共犯 --> confederacy (n)(政治或貿易的)聯盟/同盟/聯邦 = alliance
+		* confederate (adj)同盟的 (v)使結盟 (n)共犯 = accomplice
+		* confederacy (n)(政治或貿易的)聯盟/同盟 = alliance
 		- federal (adj)聯邦的 <|> feral
 	
 	fess 承認/聲明 = admit, acknowledge, declare
-		* confess (v)坦白/供認/懺悔/招認(錯誤或罪行) = acknowledge = admit
-		* profess (v)聲稱/自稱/謊稱 = purport = allege = claim
+		* confess (v)坦白/招認(錯誤或罪行) = concede = acknowledge = admit, 聽..的告解, 表明信仰
+		* profess (v)聲稱/自稱/謊稱 = purport = allege = claim, 宣稱信奉, 接受……入教
+		** professed (adj)假裝的/聲稱的 = ostensible = ostensive = pretended, 公開表明的, 宣誓後入教的
 		* profession (n)職業, 同業/同行, 聲稱, 表明信仰
-		* professional (adj)職業的/專業的/職業性的 (n)專家/職業選手
-		** professed (adj)公開表明的, 假裝的/聲稱的 = ostensible = ostensive = pretended, 專業的
+		* professional (adj)職業的, 專業的/職業性的, 內行的 = competent = skillful (n)專家/職業選手, 內行
 		- professor (n)教授
 
 	fisc 錢 = basket, moneybag
-		+ confiscate (v)沒收/充公 = sequestrate --> confiscation (n)沒收
-		- fisc (n)國庫 --> fiscal (adj)財政的/國庫的
+		+ confiscate (v)沒收/充公 = sequestrate 
+		+ confiscation (n)沒收 = seizure
+		- fisc (n)國庫 
+		* fiscal (adj)財政的/國庫的
 
 	fiss 分裂 = split
-		+ fissure (n)裂縫/裂隙 = crevice = rift
+		+ fissure (n)裂縫/裂隙 = crevice = rift, 分歧/不合 = incompatibility (v)裂開 = split = crack
 		- /ˈfɪʃ(ə)n/ fission (n)分裂, 分裂生殖法, 核分裂 (v)核分裂 = disintegrate <|> /ˈfɪkʃ(ə)n/ fiction
-		- fissile (adj)易裂的
+		- fissile (adj)(岩石)易裂的
 
 	flagr 燒 = flame, burn == ard == bust == caus
-		+ conflagration (n)大火/大火災, 衝突/戰火
-		* flagrant (adj)明目張膽的/公然的 <|> fragrant
-		- deflagrate (v)使迅速燃燒, 爆燃
+		+ conflagration (n)大火
+		* flagrant (adj)明目張膽的/公然的 = brazen = conspicuous = blatant = undisguised <|> fragrant
+		- deflagrate (v)爆燃
 
 	flat 吹氣 = blow
 		+ conflate (v)合併/結合(尤指文本)
-		* inflate (adj)使膨脹, 抬高/誇大, 使通貨膨脹 --> inflated (adj)過高的/過多的, 誇大的
-		- deflate (v)給…放氣, 使受挫/使灰心, 使通貨緊縮 --> deflated (adj)灰心喪氣的
-		- flatus (n)氣息
-		- flatulent (adj)胃脹氣的, 浮誇的
+		* inflate (adj)使膨脹, 使大量增加, 誇大 = exaggerate, 使通貨膨脹 
+		* inflated (adj)膨脹的, 過高的/過多的, 誇大的
+		- deflate (v)給…放氣, 使灰心, 使(情緒)減緩, 使通貨緊縮 --> deflated (adj)放氣的, 灰心喪氣的
+		- flatus (n)腸胃脹氣
+		- flatulent (adj)胃脹氣的, 浮誇的 = inflated = pretentious 
 
 	flect, flex 彎曲 = bend, turn == cline == strophe == vert
-		* deflect (v)偏離/轉向 = deviate = parry
-		- flex (v)活動(手腳), 繃緊(肌肉) (n)彎曲, 電源線
-		++ flexible (adj)有適應能力的 = adaptable, 易彎曲的 = limber, 柔軟的 = pliable
-		** inflexible (adj)不易彎曲的/堅固的 = rigid, 不願改變的/不妥協的 = immovable = intransigent = pertainacious = hidebound = implacable = unyielding, 不許改變的 = unalterable = rigid
-		- inflect (v)屈折變化, 使變音/使變調, 影響, 彎曲 --> inflection (mn)屈折變化, 變調, 彎曲
+		* deflect (v)(使)偏離/轉向 = deviate = parry
+		- flex (v)活動(手腳), 繃緊(肌肉), 發揮(能力) (n)彎曲, [非]誇大
+		++ flexible (adj)有適應能力的 = adaptable, 易彎曲的/柔軟的 = limber = pliable
+		** inflexible (adj)不願改變的/不妥協的 = immovable = intransigent = pertinacious = unyielding, 不易彎曲的/堅固的 = rigid = stiff
+		- inflect (v)屈折變化, 使變音/使變調, 彎曲
+		- inflection (mn)屈折變化, 變調, 彎曲
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
-		+ reflection (mn)反射, 深思/深思 (n)反射光, 鏡像, 後果, 想法 = idea --> reflective (adj)反射的, 深思的
-		- reflexive (adj)[語]反身的, (動作)反射性的 (n)反身動詞/反身代詞
+		+ reflection (mn)反射, 深思/深思 (n)想法/意見, 反射光, 鏡像, 後果, 非議/有損名譽的事 = discredit -->
+		+ reflective (adj)反射的, 深思的 = thoughtful
 		- unreflecting (adj)欠考慮的/輕率的, 不反光的
+		- reflexive (adj)[語]反身的, (動作)反射性的 (n)反身動詞/反身代詞
 
 	foli 樹葉/紙 = leaf, sheet
 		- defoliate (v)使落葉 --> defoliator (n)落葉劑
-		- foliage (n)樹葉
+		- foliage (mn)樹葉
 		*** portfolio (n)文件夾/公事包, 作品集, 投資組合, 產品組合, 部長職/大臣職 <-- port 帶著 = carry + folio
 		- folivore (n)食葉動物 <-- foli + vore 吃..的
 
 	fraud 欺騙 = cheat
 		+ defraud (v)詐騙/欺詐 = bilk = swindle = chicane
-		* fraud (n)詐騙 = chicanery = trickery
+		* fraud (n)詐騙 = chicanery = trickery, 騙子
 		* fraudulent (adj)欺騙的/詐欺的 = fallacious = misleading = deceptive
 
 	fuse 傾倒 = pour, melt
-		** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 混合 = confound = jumble = disorder = muddle = mingle = intermingle, 使不安/使羞愧 = abash = disconcert = discomfit 
-		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)嘮叨的 = wordy, 擴散的/分散的 = dispersed
+		** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 使複雜難懂, 誤解 = mistake
+		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)擴散的/分散的 = dispersed, 晦澀的
 		+ effusive (adj)奔放的/過於流露感情的 = ebullient, [地]噴發的
-		- infuse (v)灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
-		++ /prəˈfjuːs/ profuse (adj)毫不吝惜的/慷慨的 = extravagant, 充沛的/過多的 = lavish = opulent --> profusion (n) = proliferation
-		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (n)廢物/垃圾 = rubbish = bin
+		- infuse (v)使充滿 = fill = pervade, 灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
+		++ /prəˈfjuːs/ profuse (adj)充沛的/大量的 = plentiful = abundant --> profusion (n) = proliferation
+		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (mn)廢物/垃圾 = rubbish = bin
 		- suffuse (v)遍布/充滿/瀰漫
 
 	funct 表現 = perform
 		+ defunct (adj)不復存在的/失靈的 = bypass = extinct = dead = gone
-		+ function (n)存在的目的, 典禮/社交聚會 (v)運作 = work = operate
+		+ function (n)功能/作用, 函數, 典禮/社交聚會 (v)運作 = work = operate, 起作用
 	    - functional (adj)功能性的, 爲實用而設計的/實用的, 正常工作的, 函數的
 	    - functionary (n)官員 = official
 		+ perfunctory (adj)馬虎的/敷衍的 = superficial
@@ -2906,8 +2923,8 @@
 
 	foss 石頭/化石 = fossil
 		- /ˈfɒs(ə)l/ fossil (n)化石, 頑固不化的人
-		- fossilize (v)使成化石, 使陳腐
-		- /fɒs/ fosse (n)護城河 <|> /fɒls/ false
+		- fossilize (v)(使)成化石, (使)停滯
+		- /fɒs/ fosse (n)護城河 = moat <|> /fɒls/ false
 
 [G]
 	glomer 球 = ball of yarn
@@ -3447,7 +3464,7 @@
 			+ /ɪnˈtəːmɪnəb(ə)l/ interminable (adj)無盡頭的/無止盡的
 			+ intemperate (adj)不節制的/過度的, 酗酒的 --> intemperance (n)不節制/放縱 = excessive indulgence, 酗酒
 			++ intractable (adj))倔強的 = implacable = stubborn = obstinate, 無法控制的/難以處理的/棘手的 = uncontrollable 
-			+ intransigent (adj)不妥協的 = pertainacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
+			+ intransigent (adj)不妥協的 = pertinacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
 			+ intransigence (n)不妥協/不讓步
 			+ intrepid
 			* intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
@@ -4090,7 +4107,7 @@
 		- collate (v)整理(資料), 對照/核對  <|> collateral
 		*** translate (v)翻譯, 解釋/說明, 轉移/調動/使變動
 		+ elate (v)使得意/使興奮 = exalt <|> elevate --> elated (adj)興高采烈的 = exultant --> elation (n) = euphoria
-		*** /rɪˈleɪt/ relate (v)講述, 認同/欣賞 = identify with, 有關聯
+		*** /rɪˈleɪt/ relate (v)講述, [to]認同/欣賞 = identify with, [to]有關/涉及
 		* /ˈrɛlətɪv/ relative (adj)相關的, 相對的 <--> absolute, 相應的 (n)親屬, [文]關係詞
 	
 	lati, late 寬的 = broad
@@ -4313,7 +4330,8 @@
 	medi, mid 中間
 		+ intermediary (n)仲裁者 = mediator, 媒介物 = medium (adj)中間的/媒介的 = intermediate <-- inter + media 媒體 + ary
 		* /ˌɪntəˈmiːdɪət/ intermediate (adj)中介的/中間的, 中等的 (n)中間物, 中級者 (v)作中間人/干預 
-		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about (adj)居中的/間接的 --> mediator (n)調解人 = broker = intercessor <|> meditate
+		- /ˈmiːdɪeɪt/ mediate (v)居中協調, 導致 = bring about , 傳達 = convey (adj)居中的/間接的 
+		- mediator (n)調解人 = broker = intercessor <|> meditate
 		- mediation (n)調解 = arbitration, 求情/說情 = intercession
 		- /ˈmɛdɪteɪt/ meditate (v)沈思 = speculate = cogitate = deliberate = pore = reflect, 反省 <|> mediate <|> medication
 		+ meditative (adj)沈思冥想的 = contemplative = ruminant
@@ -4321,6 +4339,7 @@
 		+ /ˌmiːdɪˈəʊkə/ mediocre (adj)中庸的/中等的 --> mediocrity (n)中庸, 中庸的人
 		- medium -> media (n)媒介/媒體, 培養基, (生物的)生存環境, 手段/工具 (adj)中間的/平均的 = average
 		- midday (n)中午 = noon
+		- midget (n)極小者, [貶]侏儒/矮人 (adj)極小的
 		- midst (n)中部/中間
 		* premeditate (v)預先想過/預謀 --> premeditated (adj)預謀的/事先計劃的 <--> unpremeditated
 		+ unpremeditated
@@ -4719,7 +4738,8 @@
 		- nudism (n)裸體主義
 
 	norm 規定 = rule, pattern
-		+++ enormity (n)窮兇極惡/滔天大罪 = iniquity, 巨大/深遠 --> enormous (adj)巨大的
+		+++ enormity (n)窮兇極惡/滔天大罪 = iniquity, 巨大/深遠 
+		+ enormous (adj)巨大的
 		* /nɔːm/ norm (n)標準/規範 = standard (v)調整..以符合規範
 		+ normative (adj)基準的/規範的 <-- norm
 		- normalcy (n)常態/正常
@@ -5312,7 +5332,7 @@
 			+ persist
 			- perspire
 			+ pertain --> pertinent
-			- pertainacious
+			- pertinacious
 			+ perturb
 			+ /pəˈruːz/ peruse (v)細讀/精讀, 仔細觀察
 		
@@ -5444,7 +5464,7 @@
 			- /pəˈramɪtə/ parameter (n)參量/變量, 界限
 			- /ˈparəfreɪz/ paraphrase (n/v)解釋/釋義 = exegesis
 			- parasite (n)食客, 寄生蟲 --> parasitism (n)寄生, 寄生狀態, 利用 --> parasitosis (n)寄生蟲病  <-- para + site 吃 = eat
-			+++ paragon (n)模範/典型 = exemplar
+			+++ paragon (n)模範/典型 = exemplar = paradigm
 			+ parody (n)諷刺性模仿詩文, 拙劣的模仿 = travesty (v)滑稽誇張地模仿 <-- par + od(e) + y
 			- paradox 
 
@@ -5479,6 +5499,7 @@
 		- /ˈpeɪθɒs/ pathos (n)感染力/激起憐憫或同情等的因素
 		* pathetic (adj)可憐的 = abject = miserable = dismal, 可鄙的
 		+ empathy (n)同理心/移情 --> empathetic (adj)移情作用的
+		- empathize (v)
 		++ sympathy (n)同情/憐憫 = pity = empathy = compassion, 情感共鳴, 同感/贊同, 共鳴
 		++ sympathetic (adj)有同情心的, 能引起共鳴的, 支持的/贊同的 <--> unsympathetic
 	
@@ -6135,7 +6156,8 @@
 			+ replete
 			+ replicate --> replica
 			+ repose
-			++ /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 --> reprisal (n)軍事報復/政治報復 <-- re + p + rise
+			* /rɪˈpriːz/ reprise (n/v)[樂曲的]重複 
+			+ reprisal (n)軍事報復/政治報復 <-- re + p + rise
 			++ reprobate
 			+ reproduce
 			+ repute --> reputation
@@ -7234,7 +7256,7 @@
 			- trajectory
 			- trance (n)昏睡狀態/催眠狀態, 恍惚/出神 = abstraction, 迷幻音樂 (v)使昏睡
 			+ transcend --> transcendent --> transcendental
-			- transfix (v)把..嚇呆, 刺穿
+			- transfix
 			+ transgress --> transgression
 			+ /ˈtranzɪənt/ transient (adj)短暫的/一時的 = transitory = temporary = fleeting (n)短期工/短暫居住者, 瞬變電流
 			- transience (n)短暫 = transitoriness <-- trans + i(t) + ent
@@ -7542,7 +7564,7 @@
 		++ /ˈtjuːmʌlt/ tumult (n)一大群(吵鬧的人), 混亂/動亂 = riot = turmoil --> /tjʊˈmʌltjʊəs/ tumultuous (adj)吵鬧的/大聲的 = noisy, 騷動的/混亂的 = riotous = chaotic
 
 	terminm, term 邊界/終止 = boundary, limit, end == fin
-		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous 
+		+ coterminous (adj)毗鄰的/有共同邊界的 = contiguous = 
 		- exterminate (v)滅絕/消滅 = eradicate = annihilate = extirpate, 殺(蟲)
 		+++ term (n)專門名詞/術語, 措辭, 詞, 期/期限, 孕期結束, 租用期, 學期/開庭期, 條件, 要求額/費用, 和平條約, [數]項 (v)把……稱為
 		- terminology (n)術語/術語學 <-- term
@@ -7658,6 +7680,7 @@
 		- unbecoming (adj)不合身的, 不得體的 = improper = unseemly
 		- unbend (v)弄直, 變融洽/放鬆, 卸下(帆), 解開(繩索)
 		- unbendable (adj)僵直的/僵硬的 = stiff, 無法改變的
+		- unbidden (adj)未受命令的/未受指使的 = voluntary, 下意識的
 		- unbuttoned (adj)鈕扣解開的, [非]放鬆的/無拘束的
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
 		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
@@ -7871,6 +7894,7 @@
 		+ universality (mn)普遍性, 普適性
 		+ universally (adv)人人
 		- varsity (n)[英]大學, 大學代表隊 <-- university
+		- unison (n)和諧/一致, [音]同度/同音 (adj)和諧的
 		- univocal (adj)意思明確的 = unambiguous
 
 	use 用

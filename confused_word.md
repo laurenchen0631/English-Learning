@@ -11,7 +11,7 @@
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aesthete <--> anesthetic
-- affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery
+- affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery <--> affront
 - affectation <--> affection
 - affirm <--> confirm <--> infirm
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
@@ -136,7 +136,8 @@
 - concept <--> conception <--> conceit <--> deceit
 - conceit
 - condone <--> condolence
-- confer <--> conifer
+- confer <--> conifer <--> confess <--> profess
+- conflagration
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
 - consort <--> consortium <--> comport <--> deport
@@ -209,6 +210,7 @@
 - derive <--> derivative
 - derision <--> risible
 - desert <--> dissert
+- desideratum
 - desist <--> destitute
 - despise <--> despite
 - despot <--> unspotted
@@ -269,7 +271,7 @@
 - effigy
 - effluvium <--> effusive
 - egalitarian <--> equalitarian
-- elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit
+- elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit 
 - embroil <--> boil
 - empire <--> empiric <--> empirical
 - enervate <--> innervate <--> unnerve
@@ -329,13 +331,14 @@
 - flabbergast
 - flagrant <--> fragrant
 - flake <--> flak <--> plaque <--> flank <--> flask
+- flatus <--> flatulent
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch <--> plinth
 - flippant <--> unflappable
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
-- flux <--> influx
+- flux <--> influx <--> flex
 - forbear <--> forbid <--> forbidding
 - forfeit <--> forlorn
 - forsake <--> sake
@@ -347,6 +350,7 @@
 - frivolous
 - front <--> frond <--> froth
 - fruit <--> bruit
+- functional <--> functionary <--> defunct <--> perfunctory
 
 ## G
 - gaffe <--> gaff <--> guffaw
@@ -443,6 +447,7 @@
 - impregnate <--> impregnable <--> pregnable
 - inch <--> itch
 - inductive <--> induce <--> inducement
+- infect <--> inflect
 - infer <--> refer <--> referendum
 - insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
@@ -497,7 +502,7 @@
 - lull <--> loll <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
-- lucid <--> lurid <--> ludicrous
+- lucid <--> lurid <--> ludicrous <--> pellucid
 - lugubrious
 - luminary <--> luminous
 - lurk <--> lark <--> lurch <--> luck 
@@ -560,7 +565,7 @@
 - obligate <--> oblige <--> obliging
 - oblivious <--> obvious
 - object --> objection <--> objective
-- objurgate 
+- objurgate <--> obdurate
 - obnoxious <--> innocuous <--> noxious
 - obstreperous
 - obtrusive
@@ -681,7 +686,7 @@
 - quaver <--> quiver
 - queer <--> sheer <--> steer
 - querulous <--> quarrelsome
-- quibble <--> squabble <
+- quibble <--> squabble
 - quiescence <--> quintessence <--> disquiet <--> quietus
 - quintessential <--> essential
 - quorum <--> quota <--> quote
@@ -710,7 +715,7 @@
 - recreant
 - recrimination <--> incrimination
 - reek
-- reflective reflexive
+- reflective <--> reflexive
 - remiss <--> remit <--> remission
 - remonstrate
 - renaissance <--> reconnaissance
@@ -841,6 +846,7 @@
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
 - subsist
+- suffuse
 - susceptible <--> suspicious
 - sullen <--> sully
 - supercilious
@@ -865,7 +871,7 @@
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch
-- torpid <--> tumid <--> contumacious <--> turgid <--> trepid <--> tepid <--> torrid <--> turbid <--> turbulent
+- torpid <--> tumid <--> turgid <--> trepid <--> tepid <--> contumacious <--> torrid <--> turbid <--> turbulent
 - torrent <--> turret
 - touchy <--> touching
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
@@ -896,6 +902,7 @@
 - undertone <--> underwrite
 - unexceptional <--> unexceptionable <--> unexpected
 - unctuous
+- untrammeled
 - urbane <--> urban <--> suburban
 - usury <--> usurp
 
