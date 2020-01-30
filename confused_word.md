@@ -10,14 +10,13 @@
 - adumbrate
 - adulate <--> adulterate <--> adultery <--> adulterous
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
-- aesthete <--> anesthetic
+- aesthetic <--> anesthetic
 - affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery <--> affront
 - affectation <--> affection
 - affirm <--> confirm <--> infirm
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - alleviate
 - alternate <--> altercate
-- anaesthetic
 - angst <--> aghast <--> antsy <--> artsy <--> artery
 - animus <--> unanimous <--> animate <--> inanimate
 - antagonistic <--> protagonist
@@ -42,7 +41,7 @@
 - asinine
 - asperity
 - astringent <--> stringent
-- assert <--> assume
+- assert <--> assume <--> unassuming
 - ascetic <--> aseptic
 - attenuate <--> accentuate <--> accent <--> extenuate <--> extenuating
 - authoritative <--> authoritarian
@@ -648,6 +647,7 @@
 - precocious
 - predict <--> predicate <--> predicament
 - preeminent <--> prominent 
+- preposterous <--> preponderance
 - prerogative
 - presentiment
 - prestige <--> vestige
@@ -762,6 +762,7 @@
 - scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
 - seam <--> seamy <--> sear <--> sere
+- sedate <--> senate
 - seditious <--> sedulous
 - scion <--> science <--> conscience <--> conscionable <--> conscious <--> conscientious
 - scope <--> scoop
@@ -878,7 +879,7 @@
 - toddler
 - trapping <--> trap
 - trace <--> truce <--> truant <--> track <--> trek <--> trail <--> trailer <--> tract <--> tractate
-- tract <--> tractate <--> tractable <--> traction <--> intractable <--> retraction <--> detract
+- tract <--> tractate <--> tractable <--> traction <--> intractable <--> retraction <--> detract <--> protract
 - trait <--> traitor
 - traipse
 - transgress
