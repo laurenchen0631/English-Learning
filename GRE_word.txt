@@ -30,7 +30,8 @@
     ++ /əˈmiːnɪti/ amenity (mn)(環境)舒適/適意 (n)便利的設施 <|> acumen <-- amen 愉快 = pleasing + ity
     + amok, amuck (adv)[run amok]狂亂地
     + anathema (n)令人討厭的人或物, 詛咒/被詛咒的人 <|> anthem
-    + /ˈanɪkdəʊt/ anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的 --> anecdotally (adv)據傳 = purportedly
+    + /ˈanɪkdəʊt/ anecdote (n)短故事, 趣事/軼事 --> anecdotal (adj)軼事的/趣聞的
+    + anecdotally (adv)據傳 = purportedly
     + /ˈanədʌɪn/ anodyne (n)鎮痛劑 (adj)不得罪人的/一團和氣的
     ++ anoint (v)選定/指定 = appoint = nominate, 擦油 = baste = grease, [with]塗抹 = smear = rub
     + apex (n)點頂/最高點 = acme
@@ -151,10 +152,8 @@
     - appointee (n)被任命的人, 被指定的財產受益人
     - apron (n)圍裙, 停機坪, 臺口(舞臺幕布前的部分), 遮簷板/窗臺
     - arc (n)弧/弧形, 拋物線 = trajectory, 電弧, (故事)情節 = plot (v)沿著拋物線移動, 形成電弧
-    - arch (n)拱門 (v)使...成拱形
-    - archway (n)拱門/拱道
     - /ˈɑːktɪk/ arctic (adj)北極的, [非]極寒的 (n)禦寒防水套鞋 --> Arctic (n)北極
-    - arena (n)鬥技場/圓形舞臺
+    - arenDa (n)鬥技場/圓形舞臺
     - /ˈɑːrɪə/ aria (n)詠嘆調/抒情調
     - aroma (n)香氣/芳香 = fragrance, 韻味
     - array (n)陳列/大批, 列陣, 陣列, 衣服/盛裝 = fig (v)配置 = display = arrange, [be arrayed in]打扮
@@ -426,6 +425,7 @@
     - bisque (n)貝類濃湯, 讓分, 素燒陶器 = biscuit, 淡褐色 = biscuit
     - blackout (n)斷電時期/斷電/停電, 暫時暈倒/暫時失去知覺, 消息封鎖
     - blade (n)刀鋒/刀口, 劍, (螺旋槳)片/葉, 肩胛骨/髆 = blade bone, 草葉, [非]有活力的年輕男子 (v)[非]穿溜冰鞋滑 <|> blare >|> blaze
+    - bladder (n)膀胱
     - blast (n)爆炸/爆破, 突擊, 疾風, 鳴響, 猛烈的批評, 狂歡會 (v)炸開, 炸傷, 炸飛, 開火, 吹奏/鳴響, 嚴厲批評, 使枯萎, 破壞
     - blaze (v)燃燒, 開火 (n)大火, 絢爛/炫目
     - blazon (n)紋章/裝飾 (v)印製/精確描繪, 宣揚/誇示 = emblazon = adorn <--> efface
@@ -540,6 +540,8 @@
     - bump (v)碰撞/顛簸, 碰傷/撞傷, 顛簸著行進, 置頂, 推, 拒絕..登機, 頂替, [into]巧遇 (n)碰撞/顛簸, 凸塊 = protuberance, 腫塊, 增加, 置頂
     - bumper (n)保險槓, 緩衝器 (adj)特大的/豐盛的
     - bumpkin (n)土包子/鄉下佬
+    - bunk (n)架式床舖, [非]胡説/瞎話 = nonsense (v)睡在架式床舖上
+    - bunker 
     - bumptious (adj)傲慢的/自以為是的 = arrogant = brash = self-assertive
     - bungle (v)弄糟/把...搞砸 = botch = bumble = blunder = muddle (n)混亂 <|> jungle
     - bungling (mn)搞砸 (adj)笨拙的/拙劣的 = bumbling
@@ -760,6 +762,7 @@
     - canister (n)裝食物的罐子, 瓦斯罐
     - cannery (n)罐頭工廠
     - cannibal (n)食人者, 同類相食的動物 --> cannibalism (mn)同類相食
+    - cannibalistic (adj)同類相食的
     - /ˈkanən/ cannon (n)大砲/火砲, 飛機或坦克上的機關砲 <|> canon <|> canyon
     - /ˈkanjən/ canyon (n)峽谷
     - canvass (v)遊說, 贏取(支持) = botain, 提出(意見或計劃)供考慮 = moot, 詳細討論 (n)遊說, 討論
@@ -796,6 +799,7 @@
     - ceremony (n)典禮/儀式 (mn)禮節 
     - ceremonious (adj)正式的/隆重的 = formal, 一絲不苟的 = punctilious
     - /sɪˈruːlɪən/ cerulean (adj)天藍色的 = azure
+    - cetacean (n)鯨類動物 (adj)鯨類的
     - /ˈtʃɑːns(ə)lə/ chancellor (n)大臣/總理, 大法官, 大學校長
     - chance (n)可能性, 機會, 偶然 (adj)偶然的 = fortuitous = accidental (v)碰巧/偶然, [upon/on/across]碰巧發現, 冒風險
     - change (n/v)改變 (v)替換, 找零 (n)零錢
@@ -1581,6 +1585,7 @@
     - fumigate (v)以煙燻消毒
     - funeral (n)葬禮/喪禮 = interment = burial
     - fungus -> fungi (n)菌類/蘑菇
+    - fungible (adj)[法]可替代的/可互換的
     - funky (adj)[非]節奏強勁的, 時髦的/不同尋常的, [非]有霉味的 = musty
     - furbish (v)磨光/擦亮/更新 = refurbish = renovate
     - furnace (n)鍋爐/熔爐, 暖氣爐
@@ -1746,6 +1751,7 @@
     - ghoul (n)食屍鬼, 盜墓者
     - gibberish (n)胡言亂語 = nonsense
     - gild (v)鍍金 <|> gilt
+    - gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
     - gilt (adj)鍍金的 (mn)鍍金塗層 (n)[gilts]金邊債券(泛指所有中央政府發行的債券), 小母豬
     - glee (mn)歡欣 = delight (n)(無伴奏的三部或三部以上的)重唱曲
     - /ɡɪɡ/ gig (n)二輪單馬車, 小艇, 演奏/公演, 暫時的工作, 魚叉 (v)演奏/公演, 用..演奏, 用魚叉捕魚
@@ -2747,6 +2753,7 @@
     - muck (n)髒東西, 動物的糞便, [非]品質低劣的東西 (v)施肥
     - muckrake (v)收集並揭發名人醜聞
     - mucky (adj)骯髒的, 卑鄙的 = corrupt = sordid
+    - mudflat (n)灘地/潮汐灘，是在潮間帶地區形成的沿海濕地
     - muddy (adj)泥濘的, 渾濁的 = dirty-looking, (音樂)重濁的, 令人困惑的/不合邏輯的 = confused = illogical (v)使沾上爛泥, 使..更加難以理解 
     - muffle (v)(為保暖)包裹/裹住, 裹住...使其聲音低沉, 使..低沉
     - muffled (adj)低沈的/聽不太清的 = muted
@@ -3108,6 +3115,7 @@
     * pigment (n)色素 (v)給……染色 --> pigmentation (n)天然顏色
     * piracy (mn)海盜行為, 劫持 (n)剽竊
     * pirate (n)海盜, 剽竊者 (v)剽竊/非法翻印, 掠奪(船) = rob = plunder
+    * piratical (adj)海盜的
     ** pit (n)窪坑/凹處, 礦坑/煤礦, 地獄, 麻子 = pockmark, 賽車中途的加油站或修理站, 樂隊池, 交易所某種商品的交易場, 鬥獸場, [非]腋窩 , 果核 (v)[against]使相鬥/使對立, 挖坑於/使成凹, 停車加油, 除去……的果核
     ** pitcher (n)大水罐/水壺, 一罐, 投擲者, 鋪路石塊
     ** pitiful (adj)可憐的/令人同情的 = miserable = wretched, 不足的/貧乏的 = inadequate
@@ -3934,6 +3942,7 @@
     - said (adj)上述的 = mentioned
     - saint (n)聖徒, 道德崇高的人 (v)將……封為聖徒 = canonize
     - saintly (adj)聖潔的/聖人般的, 聖徒的
+    - salable (adj)適於銷售的/暢銷的
     - saliva (mn)唾液/口水
     - salmon (n)鮭魚, 鮭肉色
     - salute (n)敬禮/致意 (v)向……行禮/向……致敬, 招呼/問候 = greet, 讚揚/尊敬 <|> salutary
@@ -4112,6 +4121,7 @@
     - sieve (n)篩子/篩網 (v)篩/濾, [out]篩除, [through]檢查
     - signpost (n)路標/指示牌 (v)給…設置路標
     - silicone (n)矽氧聚合物/硅酮/矽膠
+    - silhouette (n)黑影輪廓像/剪影 (v)成黑色輪廓
     - sill (n)門檻/窗台, (木造建築的)底木, 岩床/海底山脊
     - slim -> slimmer -> slimmest (adj)苗條的 = slender, 細長的, 渺茫的 = faint (v)減肥 (n)瘦病/愛滋病
     - silt (mn)泥沙/淤泥 (v)使淤塞
@@ -4197,6 +4207,7 @@
     - snitch (v)[非]偷, [非]告密 (n)[非]告密者 <|> stitch
     - snooze (n/v)打盹
     - snorkel (n)潛艇換氣裝置/呼吸管 (v)帶呼吸管潛水
+    - snort (n)鼻息聲/噴氣聲, [非]一口(吸入性毒品), [非]一口(烈酒) (v)噴鼻息, [非]吸(毒品)
     - snout (n)口鼻部, 鼻子 (n)菸草, 螟蛾 = snout moth
     - snowdrift (n)雪堆
     - sonorous (adj)洪亮的, 能發出響亮聲音的, 鏗鏘有力的/語調誇張的 --> sonority (mn)響亮 
@@ -4349,6 +4360,7 @@
     - summary (n)摘要/概要 (adj)概括的/扼要的 = brief, (未經討論或法律判決)立即的/速決的
     - summarily (adv)立即地
     - summation (n)累加, 總數/合計 = total, 總結/概要 = summary
+    - sump (n)汙水坑, 化糞池 = cesspool (n)集油槽
     - sunburn (n/v)曬傷
     - sunder (v)分裂/分離
     - /ˈsʌpə/ supper (n)晚餐/晚飯
@@ -4369,7 +4381,7 @@
     - swine (n)[非]下流坯子, [古]豬　= pig
     - swing -> swung -> swung (v)搖擺, 擺動, 大搖大擺地行走, 轉向/轉身, 有節奏地搖搖擺擺地走, 使擺動, 揮舞, 揮動, 猶豫/搖擺, 對..有決定性的影響, 成功導致, 演奏, 被演奏, 交換性伴侶, 令人興奮/歡快熱鬧 (n)鞦韆, 盪鞦韆, 搖擺, 擺動, 揮拳, 揮動方式, 改變, 搖擺樂, 韻律/音律, 巡迴
     - /swəːl/ swirl (v)打旋/旋轉, 使打旋 (n)漩渦/漩渦狀物, 打旋/旋轉  <-- whirl
-    - switchback (n)急轉彎的路 (v)急轉彎
+    - switchback (n)Z字形的山路/急轉彎的路, 雲霄飛車 = roller coaster
     - swoon (n/v)昏厥/昏倒 (v)狂喜/心醉神迷
     - synagogue (n)猶太教堂 = shul, 猶太教徒的聚會
     - /ˈsɪləb(ə)l/ syllable (n)音節, 音節字, 少許/幾乎 (v)按音節發音
@@ -4518,6 +4530,7 @@
     - tacky (adj)發黏的, [非]品質低劣的/俗氣的 --> tackiness (n)膠黏性, 品質低劣
     - tadpole (n)蝌蚪 <-- toad + poll 頭 = head
     - taffy (n)太妃糖, [非]奉承/諂媚
+    - tailspin (n)(飛機)尾旋, 混亂/慌亂 (v)陷入混亂
     - tailwind (n)順風
     - takeaway (n)外帶餐, 要點
     - takeoff (n)起飛, [非]模仿
@@ -4527,6 +4540,7 @@
     - tambour (n)鼓, 刺繡用的繃圈, 鼓形柱 --> tambourine (n)鈴鼓/手鼓 <-- timbre
     - tamp (v)用黏土填塞(裝有炸藥的洞口), 搗實/敲緊
     - tan (n)古銅色, 古銅色的肌膚, 含單寧酸的樹皮 = tanbark (v)曬成古銅色, 製成皮革, 痛打 (adj)古銅色的
+    - tandem (n)雙人自行車, 兩匹馬前後縱列拉的雙輪馬車, 兩人以上一起工作的團體 (adv)[in tandem with]一起 = together
     - tang (n)強烈的味道, 特性/特質, 刀柄, 鈴聲, 刺尾鯛 (v)發出鈴聲 
     - tangy (adj)強烈的/撲鼻的
     - tango (n)探戈舞
@@ -4746,7 +4760,7 @@
     + vacillation (mn)猶豫不決 = indecision
     + /veɪɡ/ vague (adj)模糊的 = blurred, 曖昧的/含糊的 = ambiguous = equivocal = nebulous
     + vanguard (n)先鋒/前鋒
-    + vanquish (v)徹底擊敗 = conquer = overcome = overpower = quell = repress = subdue
+    + vanquish (v)徹底擊敗 = conquer = overcome = overpower = quell = repress = subdue = trounce
     + /vɔːnt/ vaunt (n/v)誇張/吹噓 = boast = brag = flaunt = vapor <|> vault
     + vaunted (adj)被吹噓的/被誇耀的
     +++ /ˈviːɪm(ə)nt/ vehement (adj)熱烈的/強烈的 = zealous = ardent = passionate = impassioned = intense = violent
@@ -4794,6 +4808,7 @@
     * vigor (n)力氣 = strength, 精力/活力 = vitality = energy --> vigorous (adj)充滿活力的/精力旺盛的, 健壯的/強壯的
     * villain (n)反派角色, 首要危險/禍首, [非]壞人/惡棍 = miscreant = criminal
     *** vintage (n)年份/產地, 高品質葡萄酒, 年代 (adj)高品質葡萄酒的, 最佳的
+    - viscus -> viscera (n)內臟
     * /ˈvɪs(ə)rəl/ visceral (adj)內臟的, 出自內心深處的 <-- viscera
     * volcanic (adj)火山的 = igneous, 爆發的(情緒)
     * vomit (v)嘔吐 = disgorge = heave, 噴出 = emit (n)嘔吐物
@@ -4828,10 +4843,9 @@
 	- vinegar (mn)醋, 尖酸刻薄
     - vineyard (n)葡萄園
     - vintner (n)葡萄酒商, 釀酒人 <-- vint 酒 = wine + ner
-    - violate (v)違反/違背, 侵犯/打擾, 強姦
+    - violate (v)違反/違背 = run afoul of, 侵犯/打擾, 強姦
     - violent (adj)暴力的/兇暴的, 強烈的, (顏色)極其鮮艷的 = vivid
     - violet (n)紫羅蘭 (adj)紫羅蘭色的
-    - viscus -> viscera (n)內臟
     - volley (v)齊發/群射 (n/v)(質問)迸發/連發, 截擊(球)
     - voluminous (adj)寬鬆的(衣物), (家具)大而舒適的, 冗長的, 著作多的 <-- volume
     - voluptuous (adj)性感的/撩人的 = seductive = sultry = luscious, 令人愉悅的/令人舒服的 = agreeable <-- volupt 愉快 = pleasure + uous
@@ -4844,7 +4858,8 @@
     + waggish (adj)詼諧的/滑稽的 = humorous = facetious
     + waive (v)放棄/撤回(權利), 不遵守(規則) --> waiver (n)放棄/不強求執行, 免支付協議/棄權聲明書
     + /wɒn/ wan (adj)蒼白的/病懨懨的 = pallid, 有倦容的, (海)暗淡的
-    + want (v)想要, [非]需要, 缺少 (n)缺少/缺乏 = deficiency = lack, 貧窮 = poverty, 渴望 --> wanting (adj)缺少的, 不存在的
+    + want (v)想要, [非]需要, 缺少 (n)缺少/缺乏 = deficiency = lack, 貧窮 = poverty, 渴望 
+    + wanting (adj)缺少的, 不存在的
     +++ wanton (adj)惡意的/恣意的 = malicious = malevolent = malign = spiteful, 淫蕩的 = lustful = lascivious = lewd = salacious (v)[古]嬉戲, 放蕩
     +++ warrant (n)搜查令/逮捕狀, 委託書/證書, 理由/根據 = justification (v)使有正當理由 = justify = necessitate, 擔保/保證
     - warranty (n)保證/批准

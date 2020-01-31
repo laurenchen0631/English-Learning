@@ -88,9 +88,10 @@
 - calm <--> clam <--> clamor
 - calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
+- canny <--> uncanny <--> cranny <--> nanny <--> penny <--> tinny <--> bonnie, bonny
 - capillary <--> caterpillar
 - capitulate <--> recapitulate <--> decapitation
-- captious <--> captive
+- captious <--> captive <--> captious
 - carat <--> caret <--> carrot <--> karat
 - carcass <--> caress <--> careen <--> canvass
 - carve <--> crave <--> craven
@@ -201,6 +202,7 @@
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
 - demean <--> demeanor
+- demotic <--> demolish
 - demur <--> demure <--> immure 
 - demit <--> demise
 - denigrate
@@ -220,6 +222,7 @@
 - dew <--> pew
 - diagram <--> diaphragm
 - dialect <--> dialectic
+- dictate <--> abdicate
 - digest <--> ingest
 - dim <--> din <--> dingy
 - dilatory <—-> dilate <--> dilute
@@ -288,6 +291,7 @@
 - esoteric <--> exoteric
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
+- exact <--> exacting <--> redact
 - exalt <--> exult <--> elate <--> exude <--> exuberant
 - excoriate
 - execrable
@@ -350,11 +354,12 @@
 - front <--> frond <--> froth
 - fruit <--> bruit
 - functional <--> functionary <--> defunct <--> perfunctory
+- fungi <--> fungible
 
 ## G
 - gaffe <--> gaff <--> guffaw
 - gallery <--> galley
-- gambit <--> gamble <--> gambol <--> garble <--> gargle
+- gambit <--> gamble <--> ramble <--> rambling <--> gambol <--> garble <--> gargle
 - gangster <--> angst 
 - gauche <--> gaudy
 - gaunt <--> gantlet <--> grunt <--> disgruntle
@@ -440,6 +445,7 @@
 - imitate <--> inimitable <--> inimical <--> intimate <--> intimacy <--> intimation
 - imitative <--> initiative
 - impart <--> impartial
+- impertinent
 - imperative <--> imperious <--> imperial
 - impose <--> imposing <--> imposture <--> impostor
 - importune <--> import
@@ -448,6 +454,7 @@
 - inductive <--> induce <--> inducement
 - infect <--> inflect
 - infer <--> refer <--> referendum
+- inflammable <--> nonflammable <--> inflammatory
 - insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
@@ -511,6 +518,7 @@
 - magisterial <--> magistery
 - makeup <--> markup
 - malapropism
+- malign <--> malinger
 - mantra
 - marshal <--> marsh
 - maternal <--> paternal
@@ -717,10 +725,11 @@
 - reek
 - reflective <--> reflexive
 - remiss <--> remit <--> remission
-- remonstrate
+- remonstrate <--> demonstrative
 - renaissance <--> reconnaissance
 - renege
 - repatriate
+- repine <--> pine
 - replete <--> deplete
 - reprobate
 - requisite <--> requisition
@@ -872,7 +881,7 @@
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch
-- torpid <--> tumid <--> turgid <--> trepid <--> tepid <--> contumacious <--> torrid <--> turbid <--> turbulent
+- torpid <--> tumid <--> turgid <--> trepid <--> tepid <--> contumacious <--> torrid <--> horrid <--> turbid <--> turbulent
 - torrent <--> turret
 - touchy <--> touching
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
@@ -900,6 +909,7 @@
 ## U
 - umpire <--> empire
 - unconscionable <--> conscionable
+- undergrowth 
 - undertone <--> underwrite
 - unexceptional <--> unexceptionable <--> unexpected
 - unctuous

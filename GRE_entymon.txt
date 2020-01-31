@@ -122,7 +122,7 @@
 			+ abstain
 			+ /əbˈstiːmɪəs/ abstemious (adj)(吃喝)節制的, 節儉的 = temperate = restrained = frugal <-- abs + tem 酒
 			+ abstruse
-			* abuse
+			* abuse --> abusive
 			++ /əˈbɪs/ abyss (n)深淵, (人之間的)鴻溝 = gulf, 災難
 			++ abysmal (adj)無底的, 糟透的 = appalling = atrocious = dismal <-- a + byss 底 = bottom
 			+ abdicate
@@ -185,7 +185,7 @@
 			- antiseptic
 
 		2. 古 = ancient
-			+ antic (adj)[古]古怪的  = grotesque = bizarre
+			+ antic (adj)[古]古怪的 = grotesque = bizarre
 			- antics (n)古怪而可笑的舉動/噱頭
 			* /anˈtiːk/ antique (n)古董 (adj)古董的, 古時的/古老的 = archaic, 老式的/過時的 = outdated = old-fashioned (v)仿古
 			* /ˈantɪkweɪtɪd/ antiquated (adj)陳舊的/過時的 = antediluvian = antique <-- antique
@@ -403,6 +403,7 @@
 	arch, archi, archy
 		1. 主要的 = chief, first, principal
 			+ arch (adj)調皮的/淘氣的 (n)拱/拱門/拱形物, 足背/足弓 (v)使成弧形, 呈拱形覆蓋
+		    - archway (n)拱門/拱道
 			- overarching (adj)包羅萬象的 = comprehensive = all-embracing
 			- archipelago (n)群島, 多島的海 <-- archi + pelago 海 = sea
 			- architect (n)建築師, 創造者 --> architecture (n)建築
@@ -531,7 +532,6 @@
 		- interact (v)互相影響/互動 = interply --> interaction (n)互相影響/互動
 		- redact (v)編輯/編寫, 審查 = censor
 		- transact --> transaction
-
 	angur 預示/開始
 		* inaugurate (v)開始/開創 = commence, 就職 = install = induct, 為……舉行開幕式
 		* /ɪˈnɔːɡjʊr(ə)l/ inaugural (adj)就職的/開幕的 (n)(總統)就職演說
@@ -568,7 +568,7 @@
 		+ /bɪˈnʌɪn/ benign (adj)仁慈的/親切的 = gracious = benevolent, 氣候溫和的, [醫]良性的 <--> malignant
 		+ /ˈbɒnəmiː/ bonhomie (n)友好/和藹 = geniality = friendliness = affability = amiability = amiableness <-- homie
 		- bonnie, bonny (adj)漂亮的, 圓圓胖胖的(嬰兒) = plump, 相當大的 = sizeable (n)[my]寶貝
-		- bonus (n)奬金/津貼 = allowance, 額外的好處 <|> bounty
+		- bonus (n)奬金/津貼 = allowance, 額外的好處 = perquisite <|> bounty
 
 	bate 打/擊 = beat
 		+ abate (v)減少/減弱 = wane = diminish = attenuate, [法]消除
@@ -1385,7 +1385,7 @@
 		- funicular (adj)用繩索運轉的, 繩索的 (n)纜索鐵道
 	
 	cycl, cyl 圓/轉 = cycle, circle, wheel, ring = cycle 
-		- cyclist (n)騎腳踏車的人
+		- cyclist (n)騎腳踏車的人 = biker
 		- /ˈsɪklɪk(ə)l/ cyclical (adj)循環的/反覆發生的 = recurrent
 		- /ˈsʌɪkləʊn/ cyclone (n)氣旋 <--> tornado <--> hurricane 
 		- cyclonic (adj)氣旋的
@@ -3173,7 +3173,7 @@
 	hor 憤怒/怕 = bristle, tremble
 		+ abhor (v)憎恨 = abominate = loathe --> abhorrent (adj)可惡的 = execrable, 厭惡的, 悖逆的
 		- horrible (adj)可怕的
-		- horrid (adj)可怕的, 令人不愉快的 --> horror (n)
+		- horrid (adj)可怕的, 令人不愉快的 <|> horrid --> horror (n)
 	    - horrific (adj)可怕的
 		- horripilate (v)起雞皮疙瘩 --> horripilation (n)雞皮疙瘩/毛骨悚然 = goosebumps
 
@@ -3596,6 +3596,7 @@
 			- inflame (v)使燃燒, 激怒, 加劇, 使發炎 = irritate <-- in + flame
 			- inflamed (adj)強烈的 = provoked = intensified, 發炎的
 			+ inflammatory (adj)有煽動性的 = incendiary, 發炎的/炎症性的
+			- inflammable (adj)易燃的 (n)易燃物
 			- inflate --> inflated
 			- inflict
 			- influx
@@ -4209,6 +4210,7 @@
 
 [M]
 	mis 壞/錯誤/缺乏 = wrong, bad, erroneous, lack == de == dis == in == un == mis
+		- misadventure (n)意外事故致死 = death by misadventurt, 不幸遭遇 = mishap
 		+ misanthrope, misanthropist --> misanthropy
 		+ misattribute (v)誤歸功於
 		- misbehavior (n)不禮貌/品行不端
@@ -7017,7 +7019,7 @@
 
 	sume, sumpt 拿/取 = take
 		++ /əˈsjuːm/ assume (v)假定 = presume, 取得/獲得(權力) = take, 僭取/奪取(權力) = seize, 採取/採用 = adopt <--> abdicate
-		- assuming (conj)[that]假使 = granted
+		- assuming (conj)[that]假使 = granted <|> unassuming
 		+ assumption (n)設想, 奪取/取得(權力)
 		- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
 		+++ presume (v)假定/假設 = suppose = assume, 視..為理所當然 = take for granted, 擅自/冒然 = dare
@@ -7199,6 +7201,7 @@
 		+ insatiable (adj)不能滿足的
 		- sate (v)使充分滿足 = satisfy = gratify = assuage <-- satiate
 		++ /ˈseɪʃɪeɪt/ satiate (v)使充分滿足 = sate --> satiable (adj)可滿足的
+		+ satiation (n)滿足
 		+ satisfy (v)使滿足/使滿意 = sate, 償還, 使確信 = convince
 		- satisfaction (n)滿意/滿足, 償還債務, [宗]苦行贖罪 --> satisfactory (adj)令人滿意的
 		+ /ˈsatʃəreɪt/ saturate (v)浸透 = imbue, 使飽和, [軍]對……進行飽和轟炸 (n)飽和脂肪 =  saturated fat (adj)浸透的
@@ -7410,6 +7413,7 @@
 
 	tend, tent, tense 伸展 = stretch
 		*** attend (v)出席, [to]處理, [to]照料 = tend, [to]注意, 陪同/護送 = escort, 伴隨 = occur with
+		* attendance (mn)到場/出席, 出席人數
 		* attentive (adj)注意的/留意的, 殷勤的/體貼的
 		* inattentive (adj)不注意的, 怠慢的/不殷勤的
 		+++ contend (v)[for]競爭/爭奪 = compete = vie = strive, [with/against]克服, 聲稱/主張 = assert = posit
@@ -7805,6 +7809,7 @@
 		- unreserved (adj)全部的/徹底的 = unqualified = unmitigated = total = complete, 開誠布公的 = frank, 未被預訂的
 		+ unresolved (adj)未解決的(問題)
 		+ unruly (adj)任性的/不守規矩的 = fractious
+		- unsanctioned (adj)未批准的
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
 		+ unscrupulous (adj)無道德原則的/不誠實的/不公正的 = unprincipled
@@ -7858,6 +7863,7 @@
 		- underfoot (adv)在腳下/在地上, 礙手礙腳地
 		- undergird (v)從底層鞏固或支持
 		* undergo (v)經歷 = be subjected to = experience = pass through = bear = endure = sustain = suffer = withstand
+		- undergrowth (n)下層灌木叢
 		- underhand (adj)祕密的/不正當的 = dishonest = devious = byzantine (投球)低手的 = underarm
 		- underling (n)[貶]部下/走卒
 		+ underlie -> underlay -> underlain (v)在下面, 是...的基礎 = be the cause or basis of 
@@ -8229,7 +8235,9 @@
 		- devour (v)狼吞虎嚥/吞食 = raven, 吞噬/毀滅, 如饑似渴地閱讀
 		- locavore
 		- omnivorous (adj)雜食的
-		+ voracious (adj)狼吞虎嚥的 = ravenous, 狂熱的 --> voracity (n)狼吞虎嚥
+		+ voracious (adj)狼吞虎嚥的 = ravenous, 狂熱的
+		+ voracity (n)狼吞虎嚥
+		- voraciousness (mn)狼吞虎嚥, 狂熱
 
 	voy, vey, vi 道路 = way, road
 		- clairvoyance
