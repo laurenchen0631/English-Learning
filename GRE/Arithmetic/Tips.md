@@ -169,6 +169,31 @@
 		- Rx = 1/28, Ry = 1/21
 		- Rxy = Rx + Ry = 1/12
 
+## Sequence
+- 1 + 2 + 3 + .... + 98 + 99 + 100
+	- (1+100) + (2+99) + (3+98) + ... + (50+51)
+	- 101 * 50 = 5050
+- If we have any **evenly-spaced** list that has N items (N can be odd or even), the sum must be (a1+aN)*N/2
+	- What is the sum of all multiples of 20 from 160 to 840 inclusive
+		- 160 is 8th term of multiples of 20
+		- 840 is 42th term of multiples of 20
+		- there is 42 - 8 + 1 = 35 terms in the sequence
+		- (160+840) * 35/2 = 1000 * 17.5 = 17500
+
+## Power and Root
+- (a^n)(a^m) = a^(n+m)
+	- 9^5 * 9*3 = (9 * 9 * 9 * 9 * 9) * (9 * 9 * 9) = 9^8
+- (a^n)/(a^m) = a^(n-m)
+- (a^n)^m = a^(nm)
+	- (6^5)^3 = (6 * 6 * 6 * 6 * 6)^3
+	- (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) = 6^15
+- a^(-n) = 1 / a^n
+	- a^(-n) = a^0 / a^n = 1 / a^n
+- (p/q)^-n = (q/p)^n
+	- (1/3)^-8 = 3^8
+	- (b^5 * d^-8) / (h^-4 * k^7) = (b^5 * h^4)/(d^8 * k^7)
+	- (24x^12 * y^9) / (18x^-4 * y^3) = (4/3)x^16 * y^6
+
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.

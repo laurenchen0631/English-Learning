@@ -1760,14 +1760,7 @@
 		> 活栓 |A membranous fold in a hollow organ or tubular structure, such as a blood vessel or the digestive tract, which maintains the flow of the contents in one direction by closing in response to any pressure from reverse flow.| the aortic valve
 		> |Each of the halves of the hinged shell of a bivalve mollusc or brachiopod, or of the parts of the compound shell of a barnacle.|
 		> 瓣/瓣膜 |Each of the halves or sections into which a dry fruit (especially a pod or capsule) dehisces.|
-	- rotor
-		> 轉子 |A hub with a number of radiating aerofoils that is rotated in an approximately horizontal plane to provide the lift for a helicopter or other rotary wing aircraft.|
-		> 轉片 |The rotating assembly in a turbine.|
-		> 旋轉輪 |The armature of an electric motor.|
-		> 回轉軸 |The rotating part of the distributor of an internal combustion engine which successively makes and breaks electrical contacts so that each spark plug fires in turn.|
-		> 轉片 |The rotating container in a centrifuge.|
-		> 旋轉翼 |The rotary winder of a clockwork watch.|
-		> 氣旋 |A large eddy in which the air circulates about a horizontal axis, especially in the lee of a mountain.| a rotor cloud
+	- rotor (n)轉子, 轉片, 旋轉輪, 回轉軸, 轉片, 旋轉翼, 氣旋
 	- turbine (n)渦輪機 <-- turbo + spin
 	- keystroke 按鍵之敲擊 == A single depression of a key on a keyboard, especially as a measure of work.
 	- accelerometer /əkˌsɛləˈrɒmɪtə/ 加速度計

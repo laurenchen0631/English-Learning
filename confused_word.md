@@ -3,8 +3,9 @@
 - accede 
 - accession <--> access <--> cession <--> cessation <--> precession
 - accost
+- accommodate <--> accommodating <--> commodity <--> commodious
 - acme <--> acne <--> pimple
-- accord <--> according <--> accordingly <--> concord <--> discord <--> cordial
+- accord <--> according <--> accordingly <--> concord <--> discord <--> cordial <--> cardinal <--> cardiac
 - across <--> cross
 + adduce <--> abduct <--> conduce <--> conduit <--> deduct <--> deduce <--> deductive <--> educe
 - adumbrate
@@ -13,7 +14,7 @@
 - aesthetic <--> anesthetic
 - affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery <--> affront
 - affectation <--> affection
-- affirm <--> confirm <--> infirm
+- affirm <--> confirm <--> confirmed <--> infirm
 - aloof <--> aloft <--> lofty <--> loaf <--> oaf <--> oak
 - alleviate
 - alternate <--> altercate
@@ -27,7 +28,7 @@
 - appurtenant
 - aptitude <--> attitude <--> altitude
 - arch
-- arrant <--> errant <--> errand <--> erratic <--> erroneous
+- arrant <--> errant <--> errand <--> erratic <--> eccentric <--> erroneous
 - arriviste
 - argument <--> augment
 - artifact <--> artifice <--> artificial
@@ -61,6 +62,7 @@
 - blight <--> delight <--> plight
 - bloom <--> boom <--> broom
 - blot <--> bolt <--> colt
+- blowhard
 - bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> furry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
@@ -82,8 +84,9 @@
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
 
 ## C
-- cabin <--> cabinet
+- cabin <--> cabinet <--> cachinnate
 - cache <--> cachet
+- cadge
 - callow <--> fallow
 - calm <--> clam <--> clamor
 - calumniate <--> culminate <--> fulminate
@@ -91,30 +94,39 @@
 - canny <--> uncanny <--> cranny <--> nanny <--> penny <--> tinny <--> bonnie, bonny
 - capillary <--> caterpillar
 - capitulate <--> recapitulate <--> decapitation
-- captious <--> captive <--> captious
-- carat <--> caret <--> carrot <--> karat
+- captious <--> captive <--> capacious
+- carat <--> caret <--> carrot <--> carrion <--> karat
 - carcass <--> caress <--> careen <--> canvass
+- caricature
+- carp <--> carpet <--> excerpt
 - carve <--> crave <--> craven
-- cascade <--> cadence <--> decadence
+- cascade <--> cadence <--> decadence <--> decadent <--> decaying
 - casual <--> causal
-- castigate <--> castrate
 - caucus <--> cactus
-- cavalier <--> chevalier <--> chivalry
+- cavalier <--> chevalier <--> chivalry <--> chivalrous
 - caveat <--> cavern
 - cease <--> crease <--> grease
 - cellar <--> cellular
 - census <--> consensus <--> censor <--> censure
 - chafe
+- charge <--> charged
 - chary <--> char
-- chasten <--> chaste
-- choleric
+- chasten <--> chaste <--> chastise <--> caste <--> castigate <--> castrate
+- chic
+- chill <--> chilling
+- choleric <--> acholia
 - chore <--> choral <--> choir <--> chorus
+- chromatic <--> chrome <--> chromosome
+- chronic
+- chum
+- circuitous <--> circular <--> circumvent <--> circumlocution <--> circumspect <--> circumstantial
 - civic <--> civil <--> cavil <--> civilian <--> civility
 - clement <--> cement <--> cremate
 - click <--> cluck
 - clamp <--> clasp
+- clarion
 - classic <--> classical
-- clog <--> clot <--> cloy <--> coy 
+- clog <--> clot <--> cloture <--> clout <--> cloy <--> coy 
 - clout <--> lout
 - cluster <--> clutter
 - cogent <--> regent <--> coagent
@@ -124,50 +136,63 @@
 - collate <--> collateral
 - colloquial <--> colloquium
 - collusion <--> collision
+- comb <--> catacomb
 - command <--> commend <--> commandeer <--> commence <--> commerce
 - commitment <--> committal <--> committee <--> concomitant
 - commiserate
 - commute <--> commune
 - compass <--> compassion <--> encompass
+- compel <--> compelling
 - complacent <--> complaisant <--> implacable 
 - complement <--> compliment <--> compliance
 - comprehend <--> comprehensive
 - compromise <--> uncompromising
+- con
 - concept <--> conception <--> conceit <--> deceit
-- conceit
+- concert <--> disconcert
+- condemn <--> convict <--> conviction <--> damn <--> indemnify <--> damnify <--> damning
+- condescend <--> descend
 - condone <--> condolence
 - confer <--> conifer <--> confess <--> profess
 - conflagration
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
+- consol <--> consul
 - consort <--> consortium <--> comport <--> deport
-- constituent <--> constitutional
+- constituent <--> constituency <--> constitution <--> constitutional
 - consummate <--> commensurate
 - content <--> contention <--> contentment <--> contentious <--> consent
-- contingent <--> continent <--> contiguous 
+- contingent <--> continent <--> contiguous <--> contagious
 - contort <--> distort <--> extort <--> retort 
 - convene <--> contravene
-- convey <--> convoy
+- convey <--> convoy <--> purvey <--> survey
 - cooperate <--> corporate <--> coop 
 - cope <--> dope <--> dupe
+- coquet 
+- corral <--> coral <--> collar
+- cosset
+- corollary
+- conscript <--> circumscribe <--> scripture
 - consist <--> consistent
 - contempt <--> contemplate
 - contrive <--> contrived
 - converse <--> conversant <--> convert
-- convoke
-- convict <--> conviction
+- convoke <--> evoke <--> invoke <--> provoke <--> revoke
 - convivial
 - convulse
-- corpus <--> corpse
+- corpus <--> corpuscle <--> corpse <--> corporeal
 - council <--> counsel <--> consul
 - country <--> county
+- countenance <--> discount <--> recount
 - counterfeit
 - countervailing 
 - coup <--> couple <--> recoup
 - covert <--> covet <--> overt
 - crane <--> crank
 - crumble <--> crumb <--> crumple <--> rumple
+- crackerjack
 - crackle <--> cackle
+- craft <--> crafty <--> craftsmanship
 - cramp <--> cram <--> gram <--> crap 
 - crass <--> grass
 - crater <--> crate
@@ -179,9 +204,13 @@
 - cruise <--> bruise
 - cuddle <--> fuddle <--> befuddle <--> muddle 
 - culpable <--> exculpate <--> inculpate
+- cumber <--> cumbersome <--> encumber <--> recumbent <--> incumbentvgf
 - curate <--> curator <--> curable
 - curb <--> cub <--> crab <--> crud
-- cursory <--> cursor <--> cursive
+- cursory <--> cursor <--> cursive <--> precursor <--> procure <--> recur <--> recourse
+- cuss <--> concuss <--> percuss <--> percussion <--> repercussion
+- cyclical <--> cyclist <--> cyclamate <--> encyclical
+- cynical
 
 ## D
 - dabble <--> dribble <--> paddle <--> puddle <--> waddle
@@ -189,9 +218,9 @@
 - debase <--> degrade
 - debauch <--> debouch
 - debilitate <--> deliberate
-- decaying <--> decadent <--> decadence
-- declaim <--> declamatory <--> disclaim
+- declaim <--> declamatory <--> disclaim <--> acclaim <--> proclaim
 - decor <--> decorous
+- decree <--> ordinance
 - decry <--> descry
 - declivity <--> proclivity
 - deed <--> deem
@@ -225,6 +254,7 @@
 - dictate <--> abdicate
 - digest <--> ingest
 - dim <--> din <--> dingy
+- diminutive <--> diminish
 - dilatory <—-> dilate <--> dilute
 - disabuse
 - discharge <--> dispatch <--> dismiss <--> dispose <--> disposable
@@ -233,10 +263,9 @@
 - discompose <--> decompose
 - disconsolate
 - discourse <--> discursive
-- discount <--> recount
 - discredit <--> credit <--> accredit
 - discreet <--> discrete <--> discreteness <--> discretion <--> discretionary
-- discrepancy <--> decrepit
+- discrepancy <--> decrepit <--> crepitate
 - disgust <--> degust
 - disjoint <--> disjunction
 - dismissal <--> dismissive
@@ -250,6 +279,7 @@
 - diverse <--> divert
 - divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
+- doleful <--> dolorous
 - domestic <--> domicile <--> docile <--> condominium
 - dominate <--> domineer <--> dominion
 - don <--> doff
@@ -289,23 +319,26 @@
 - escalate <--> escalade <--> escalator
 - esculent
 - esoteric <--> exoteric
+- ethereal
 - ethic <--> ethical <--> ethnic
 - euphony <--> phony
 - exact <--> exacting <--> redact
 - exalt <--> exult <--> elate <--> exude <--> exuberant
+- exclude <--> exclusive <--> exclusionary
 - excoriate
-- execrable
+- execrate <--> execrable <--> consecrate <--> desecrate
 - execrate <--> excrete
 - exclusive <--> exclusionary
 - excruciate <--> excruciating
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
-- exercise <--> excise <--> incise <--> incisor
+- exercise <--> excise <--> incise <--> incisor <--> incisive
 - exhaust <--> exhaustive
 - exhort <--> cohort
 - expansive <--> expanse
 - expatriate <--> expiate
 - expedite <--> expedition <--> expedient
+- express <--> expressive
 - expunge <--> expurgate
 - exigent <--> exiguous
 - extirpate
@@ -342,7 +375,7 @@
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx <--> flex
-- forbear <--> forbid <--> forbidding
+- forbear <--> forbid <--> forbidding <--> foreboding
 - forfeit <--> forlorn
 - forsake <--> sake
 - forthcoming <--> forthright <--> forthwith
@@ -350,6 +383,7 @@
 - frail <--> flail <--> fragile
 - fray <--> defray
 - fright <--> fraught <--> draught <--> drought
+- fringe <--> infringe <--> befringe
 - frivolous
 - front <--> frond <--> froth
 - fruit <--> bruit
@@ -378,7 +412,7 @@
 - gratify <--> ingratiate
 - grip <--> gripe <--> grope <--> grapple <--> gird <--> grid <--> girder
 - grim <--> grime
-- grind <--> grin
+- grind <--> grin <--> chagrin
 - gross <--> gloss <--> engross
 - groundless <--> grounded
 - grouse <--> arouse
@@ -412,6 +446,7 @@
 - hoard <--> board <--> hoary
 - hoe <--> hog
 - holdout
+- holocaust
 - homage <--> homily <--> homey <--> homie <--> hone
 - hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
@@ -432,9 +467,11 @@
 - imbroglio
 - imbue <--> imbibe
 - impecunious
-- incandescent
+- incandescent <--> incendiary <--> incense
 - incarcerate
 - incarnate <--> incarnadine <--> carnage <--> carnal
+- incept <--> intake <--> ingest
+- incursion <--> incur <--> occurrence <--> occur <--> intrude
 - indolence <--> insolence
 - indict <--> indicate <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
@@ -447,6 +484,7 @@
 - impart <--> impartial
 - impertinent
 - imperative <--> imperious <--> imperial
+- impervious <--> impermeable <--> impenetrable
 - impose <--> imposing <--> imposture <--> impostor
 - importune <--> import
 - impregnate <--> impregnable <--> pregnable
@@ -455,7 +493,8 @@
 - infect <--> inflect
 - infer <--> refer <--> referendum
 - inflammable <--> nonflammable <--> inflammatory
-- insipid <--> sapid <--> vapid <--> vapor <--> incipient <--> sapient <--> percipient <--> precipice
+- insipid <--> sapid <--> vapid <--> vapor
+- incant <--> incentive <--> recant
 - incite <--> cite <--> recite <--> recital
 - incredulous <--> incredible
 - industrious <--> industry
@@ -463,10 +502,11 @@
 - iniquity <--> inanity
 - innate <--> natal
 - innuendo
-- inoculate
+- inculpate <--> inoculate <--> inculcate
 - insufferable
 - intend <--> superintend <--> distend
 - inter <--> intern
+- intercede
 - intransigent <--> transient
 - invest <--> investiture <--> divest <--> divestiture
 - inveterate <--> invertebrate <--> venerate
@@ -536,6 +576,7 @@
 - mend <--> mendicant <--> mendacious <--> amend <--> emend
 - milk <--> bilk
 - mince <--> wince
+- mirth
 - miscreant <--> recreant
 - miser <--> misery
 - misgiving
@@ -576,7 +617,7 @@
 - obnoxious <--> innocuous <--> noxious
 - obstreperous
 - obtrusive
-- occlude <--> occult
+- occlude <--> occult <--> preclude <--> reclusive <--> seclude
 - occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
@@ -618,7 +659,7 @@
 - peel <--> pelt <--> belt
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience
-- perceive <--> percept <--> precept
+- perceive <--> percept <--> precept <--> perceptive <--> percipient <--> precipitous <--> precipitate <--> precipice <--> incipient <--> sapient
 - peremptory <--> preemptive
 - perfidy
 - peripatetic <--> periphrasis
@@ -637,6 +678,7 @@
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker <--> muck
 - plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump
+- plutocracy
 - pock <--> poke
 - poll <--> pollen <--> pollinate
 - ponderous <--> ponder
@@ -660,6 +702,7 @@
 - presentiment
 - prestige <--> vestige
 - prefigure
+- prophesy <--> prophecy <--> prophylactic
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
 - prognosticate
@@ -669,7 +712,6 @@
 - probe <--> prod <--> pod <--> prop <--> propitiate <--> propitious
 - probity <--> probate
 - proceeds <--> proceedings <--> procession
-- procure <--> recur <--> recourse
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse
 - prolix <--> prolific
@@ -685,7 +727,6 @@
 - punctilious <--> compunction
 - pulley <--> pullet
 - pulchritude
-- purvey <--> survey
 - putrid
 
 ## Q
@@ -714,11 +755,13 @@
 - redoubtable <--> redouble
 - refractory <--> refract
 - rapprochement <--> reapproach
+- rational <--> rationale
 - rattle <--> prattle
 - raucous
 - recalcitrant
 - recede <--> recess <--> recession <--> recessive <--> regress <--> regressive <--> repress 
 - receptive <--> receptacle
+- recline
 - reclusive <--> repulsive
 - recreant
 - recrimination <--> incrimination
@@ -726,13 +769,14 @@
 - reflective <--> reflexive
 - remiss <--> remit <--> remission
 - remonstrate <--> demonstrative
-- renaissance <--> reconnaissance
+- renaissance <--> reconnaissance <--> reconnoiter
 - renege
 - repatriate
 - repine <--> pine
 - replete <--> deplete
 - reprobate
 - requisite <--> requisition
+- rescission
 - resign <--> resigned
 - respite <--> respect
 - restive <--> restless <--> unrest
@@ -773,7 +817,7 @@
 - seam <--> seamy <--> sear <--> sere
 - sedate <--> senate
 - seditious <--> sedulous
-- scion <--> science <--> conscience <--> conscionable <--> conscious <--> conscientious
+- scion <--> science <--> conscience <--> conscionable <--> unconscionable <--> conscious <--> conscientious
 - scope <--> scoop
 - scour <--> scrounge
 - scrape <--> scrap <--> scratch
@@ -783,6 +827,7 @@
 - scurry <--> scurrilous
 - scruple <--> scrupulous <--> unscrupulous
 - scurvy <--> purvey
+- secede <--> succeed <--> success <--> succession
 - secure <--> secular
 - sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
@@ -799,6 +844,7 @@
 - shriek
 - shuttle <--> shutter <--> shudder
 - silver <--> sliver
+- simulacrum
 - single <--> shingle <--> singe
 - sinuous <--> sinister <--> sin
 - skew <--> skewer <--> slew
@@ -856,6 +902,7 @@
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsume <--> resume <--> presume <--> presumptuous
 - subsist
+- succor
 - suffuse
 - susceptible <--> suspicious
 - sullen <--> sully
@@ -874,7 +921,7 @@
 - tend <--> tender <--> tendentious <--> sententious <--> tenacious <--> untenable
 - tenebrous
 - teensy <--> tinny
-- tentative
+- tentative <--> tendentious
 - testy <--> detest
 - thick <--> thicket
 - thread <--> tread <--> threat
@@ -908,7 +955,6 @@
 
 ## U
 - umpire <--> empire
-- unconscionable <--> conscionable
 - undergrowth 
 - undertone <--> underwrite
 - unexceptional <--> unexceptionable <--> unexpected
@@ -925,6 +971,7 @@
 - veneer <--> veer
 - vessel <--> vassal
 - venal <--> venial <--> vernal <--> vandal
+- veracious <--> voracious
 - veritable <--> verifiable1
 - vicarious
 - vie <--> vile <--> vilify <--> revile

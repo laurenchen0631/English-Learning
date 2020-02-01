@@ -716,6 +716,8 @@
 - out of whack 出故障/不正常 == something is not working properly, often because its natural balance has been upset.
 	- My stomach seems out of whack
 	- The television report on the weather is always out of whack with the weather we actually get
+- play second fiddle 居於次要地位
+	- I'm not prepared to play second fiddle to Christina any more - I'm looking for another job!
 - pretty darn 非常 == very
 - roll in dough 非常有錢的 == Exceptionally wealthy; having large amounts of money to spend.
 	- I hear her father is rolling in dough, so I wouldn not be too worried about her future.
