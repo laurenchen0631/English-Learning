@@ -1,5 +1,5 @@
 ## A
-- abject <--> abjure
+- abject <--> abjure <--> deject
 - accede 
 - accession <--> access <--> cession <--> cessation <--> precession
 - accost
@@ -62,7 +62,7 @@
 - blight <--> delight <--> plight
 - bloom <--> boom <--> broom
 - blot <--> bolt <--> colt
-- blowhard
+- blowhard <--> diehard
 - bluff <--> cliff <--> fluff <--> fluffy <--> flurry <--> furry <--> slurry <--> fuzzy <--> fussy
 - blur <--> slur <--> blurt <--> blurb
 - boast <--> boost
@@ -114,7 +114,7 @@
 - chasten <--> chaste <--> chastise <--> caste <--> castigate <--> castrate
 - chic
 - chill <--> chilling
-- choleric <--> acholia
+- choleric
 - chore <--> choral <--> choir <--> chorus
 - chromatic <--> chrome <--> chromosome
 - chronic
@@ -126,8 +126,7 @@
 - clamp <--> clasp
 - clarion
 - classic <--> classical
-- clog <--> clot <--> cloture <--> clout <--> cloy <--> coy 
-- clout <--> lout
+- clog <--> clot <--> cloture <--> clout <--> lout <--> cloy <--> coy 
 - cluster <--> clutter
 - cogent <--> regent <--> coagent
 - coarse <--> course <--> hoarse
@@ -139,7 +138,6 @@
 - comb <--> catacomb
 - command <--> commend <--> commandeer <--> commence <--> commerce
 - commitment <--> committal <--> committee <--> concomitant
-- commiserate
 - commute <--> commune
 - compass <--> compassion <--> encompass
 - compel <--> compelling
@@ -152,9 +150,10 @@
 - concert <--> disconcert
 - condemn <--> convict <--> conviction <--> damn <--> indemnify <--> damnify <--> damning
 - condescend <--> descend
-- condone <--> condolence
+- condone <--> condolence <--> condo
 - confer <--> conifer <--> confess <--> profess
 - conflagration
+- conflate <--> deflate <--> flatulent
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
 - consol <--> consul
@@ -172,14 +171,14 @@
 - corral <--> coral <--> collar
 - cosset
 - corollary
-- conscript <--> circumscribe <--> scripture
+- conscript <--> scripture
 - consist <--> consistent
 - contempt <--> contemplate
 - contrive <--> contrived
 - converse <--> conversant <--> convert
 - convoke <--> evoke <--> invoke <--> provoke <--> revoke
 - convivial
-- convulse
+- convulse <--> divulge
 - corpus <--> corpuscle <--> corpse <--> corporeal
 - council <--> counsel <--> consul
 - country <--> county
@@ -197,14 +196,14 @@
 - crass <--> grass
 - crater <--> crate
 - craven <--> crave <--> carve
-- creak <--> creek <--> creep
+- creak <--> creel <--> creep
 - crescent <--> credent <--> credulous <--> credo <--> creditable
 - cronyism <--> cynicism
 - cruel <--> crude <--> gruel <--> grueling
 - cruise <--> bruise
 - cuddle <--> fuddle <--> befuddle <--> muddle 
 - culpable <--> exculpate <--> inculpate
-- cumber <--> cumbersome <--> encumber <--> recumbent <--> incumbentvgf
+- cumber <--> cumbersome <--> encumber <--> recumbent <--> incumbent
 - curate <--> curator <--> curable
 - curb <--> cub <--> crab <--> crud
 - cursory <--> cursor <--> cursive <--> precursor <--> procure <--> recur <--> recourse
@@ -213,13 +212,14 @@
 - cynical
 
 ## D
-- dabble <--> dribble <--> paddle <--> puddle <--> waddle
+- dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
-- debase <--> degrade
+- debase <--> degrade <--> devalue
 - debauch <--> debouch
 - debilitate <--> deliberate
+- decease <--> deceased <--> disease
 - declaim <--> declamatory <--> disclaim <--> acclaim <--> proclaim
-- decor <--> decorous
+- decor <--> decorum <--> decorous
 - decree <--> ordinance
 - decry <--> descry
 - declivity <--> proclivity
@@ -235,29 +235,34 @@
 - demur <--> demure <--> immure 
 - demit <--> demise
 - denigrate
-- deprecate <--> depreciate
-- depress <--> distress
+- denounce <--> denunciate <--> enounce <--> enunciate <--> pronounce <--> renounce <--> renunciation
+- dent <--> denture <--> indent <--> indenture
+- deplore <--> implore
+- deprecate <--> depreciate <--> appreciate <--> appreciable <--> imprecate
+- depress <--> distress <--> repress 
 - derive <--> derivative
 - derision <--> risible
 - desert <--> dissert
 - desideratum
 - desist <--> destitute
-- despise <--> despite
+- despise <--> despite <--> despicable <--> respite <--> respect <--> spite
 - despot <--> unspotted
-- desiccate <--> dissipate
+- desiccate <--> desiccated <--> dissipate
 - desultory
 - deter <--> deterge <--> inter <--> intern
 - deterrent <--> determinant 
+- divine <--> divisive
 - dew <--> pew
 - diagram <--> diaphragm
 - dialect <--> dialectic
-- dictate <--> abdicate
+- dictate <--> abdicate <--> dictum <--> edict
 - digest <--> ingest
+- dignity <--> dignitary <--> deign
 - dim <--> din <--> dingy
 - diminutive <--> diminish
 - dilatory <—-> dilate <--> dilute
 - disabuse
-- discharge <--> dispatch <--> dismiss <--> dispose <--> disposable
+- discharge <--> dispatch <--> dismiss <--> dispose <--> deposit <--> disposition <--> disposable
 - disciple <--> discipline
 - discomfit <--> discomfort
 - discompose <--> decompose
@@ -267,14 +272,17 @@
 - discreet <--> discrete <--> discreteness <--> discretion <--> discretionary
 - discrepancy <--> decrepit <--> crepitate
 - disgust <--> degust
+- disinterested <--> dispassionate
 - disjoint <--> disjunction
 - dismissal <--> dismissive
 - disparage <--> disparate
 - dispense <--> dispensable <--> indispensable <--> dispensation
 - dispute <--> disrepute <--> depute <--> repute
 - dissimulate
+- dissolution <--> dissolute
 - distaste
 - distinguish <--> distinguished
+- distracted <--> detract <--> distrait <--> distraught
 - disturb <--> disrupt <--> disruptive <--> distract
 - diverse <--> divert
 - divulge
@@ -293,7 +301,7 @@
 - dub <--> dab <--> daub <--> dud <--> dude
 - due <--> undue
 - dull <--> hull
-- duress
+- duress <--> indurate
 - dun <--> dune <--> dung <--> rung
 - dwindle <--> dawdle <--> doodle <--> swindle
 
@@ -306,11 +314,12 @@
 - elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit 
 - embroil <--> boil
 - empire <--> empiric <--> empirical
+- endemic <--> epidemic <--> pandemic
 - enervate <--> innervate <--> unnerve
 - enjoin
 - ensign
 - ensconce <--> sconce
-- entail <--> curtail
+- entail <--> curtail <--> detail
 - entrant <--> entrance
 - evolve <--> devolve
 - epithet <--> epitome <--> epigram
@@ -435,7 +444,7 @@
 - head <--> heady <--> heed <--> weed
 - hearse <--> rehearse
 - hearten <--> heathen
-- heave <--> heaven <--> haven <--> upheave
+- heave <--> heaven <--> haven <--> upheave <--> dishevel
 - hector <--> hectic <--> sector
 - heft
 - hermetic <--> heretic <--> hermit <--> helmet
@@ -473,7 +482,7 @@
 - incept <--> intake <--> ingest
 - incursion <--> incur <--> occurrence <--> occur <--> intrude
 - indolence <--> insolence
-- indict <--> indicate <--> interdict <--> indicia
+- indict <--> indicate <--> indicative <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - invective
 - inveigh <--> inveigle <--> invective
@@ -488,6 +497,7 @@
 - impose <--> imposing <--> imposture <--> impostor
 - importune <--> import
 - impregnate <--> impregnable <--> pregnable
+- impute <--> depute <--> dispute <--> disputatious <--> putative
 - inch <--> itch
 - inductive <--> induce <--> inducement
 - infect <--> inflect
@@ -778,13 +788,13 @@
 - requisite <--> requisition
 - rescission
 - resign <--> resigned
-- respite <--> respect
 - restive <--> restless <--> unrest
 - retain <--> retrain
 - retire <--> retiring
 - retina <--> patina
 - retrench <--> retreat <--> entrench
 - revere <--> reverie <--> reversion
+- revolve <--> revolute <--> revolution <--> revolt <--> revolting
 - rib <--> rig <--> rip
 - rind
 - ribald <--> rabid <--> rabies

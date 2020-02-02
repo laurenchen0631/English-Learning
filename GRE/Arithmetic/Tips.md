@@ -181,18 +181,52 @@
 		- (160+840) * 35/2 = 1000 * 17.5 = 17500
 
 ## Power and Root
-- (a^n)(a^m) = a^(n+m)
-	- 9^5 * 9*3 = (9 * 9 * 9 * 9 * 9) * (9 * 9 * 9) = 9^8
-- (a^n)/(a^m) = a^(n-m)
-- (a^n)^m = a^(nm)
-	- (6^5)^3 = (6 * 6 * 6 * 6 * 6)^3
-	- (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) = 6^15
-- a^(-n) = 1 / a^n
-	- a^(-n) = a^0 / a^n = 1 / a^n
-- (p/q)^-n = (q/p)^n
-	- (1/3)^-8 = 3^8
-	- (b^5 * d^-8) / (h^-4 * k^7) = (b^5 * h^4)/(d^8 * k^7)
-	- (24x^12 * y^9) / (18x^-4 * y^3) = (4/3)x^16 * y^6
+- Power Operation:
+	- (a^n)(a^m) = a^(n+m)
+		- 9^5 * 9*3 = (9 * 9 * 9 * 9 * 9) * (9 * 9 * 9) = 9^8
+	- (a^n)/(a^m) = a^(n-m)
+	- (a^n)^m = a^(nm)
+		- (6^5)^3 = (6 * 6 * 6 * 6 * 6)^3
+		- (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) * (6 * 6 * 6 * 6 * 6) = 6^15
+	- a^(-n) = 1 / a^n
+		- a^(-n) = a^0 / a^n = 1 / a^n
+	- (p/q)^-n = (q/p)^n
+		- (1/3)^-8 = 3^8
+		- (b^5 * d^-8) / (h^-4 * k^7) = (b^5 * h^4)/(d^8 * k^7)
+		- (24x^12 * y^9) / (18x^-4 * y^3) = (4/3)x^16 * y^6
+	- (ab)^n = a^b * b^n
+		- (5*3)^8 = 5^8 * 3^8
+	- (a/b)^n = a^b / b^n
+- Illegal power operation:
+	- (a +- b)^p != a^p +- b^p
+- Unit Digit Question
+	- Look for repetition of pattern
+	- What is the unit digit of 57^123
+		- 7^1 = 7. 7^2 = ..9, 7^3 = ..3, 7^4 = ..1, 7^5 = ...7, ......
+		- the remainder 123 divided by 4 is 3
+		- hence, the unit digit is 3rd term of {7,9,3,1}, 3
+- Root
+	- If the question ask x^2 = 5, there are two answer {√5, -√5}
+	- However, if the question say √36, it must have only one answer, 6.
+	- √x^2 = |x|
+	- Rough Approximation
+		- √2 = 1.4(14)
+		- √3 = 1.7
+		- √5 = 2.2
+	- If b > 1
+		- b^2 > b
+		- √b < b
+	- If 0 < b < 1
+		- b^2 < b < 1
+		- 1 > √b > b
+	- If 0 < a < b < c, then 0 < √a < √b < √c
+- Root Operation
+	- √(PQ) = √P√Q
+	- √(P/Q) = √P / √Q
+- Illegal power operation:
+	- √P + √Q !== √(P+Q)
+	- √P - √Q !== √(P-Q)
+
 
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.

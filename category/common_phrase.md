@@ -310,6 +310,8 @@
 	- Gasoline prices rose in step with oil prices.
 + sea change 完全的改變 == a complete change
 	- There will have to be a sea change in people's attitudes if public transport is ever to replace the private car.
+- by the same token 根據同樣的理由 = likewise
+	- The two workers were dismissed from the factory by the same token.
 
 ## Question
 - cast doubt on sth/sb 使人質疑 
@@ -334,6 +336,8 @@
 	- The first half is a comedy, but then the movie shifts gears.
 - subordinate A to B 把A置於B的次要地位 == A is less important than B
 	- The individual's needs are subordinate to those of the group.
+- in the light of 因為/鑒於
+	- In the light of recent incidents, we are asking our customers to take particular care of their personal belongings.
 
 ## Example
 - aside from 除..之外 == except for == besides

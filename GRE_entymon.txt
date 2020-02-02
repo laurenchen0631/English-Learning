@@ -1042,7 +1042,7 @@
 		- acclaim (n/v)公開讚揚 = adore = accolade
 		- acclamation (n)歡呼/喝采
 		- claim (v)宣稱 = allege = assert, 認領/索取, 需要(注意) = call for, 奪去(性命) (n)主張, 要求, 索賠, 權利 = right
-		+ clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)吵鬧/喧嚷 = jazz = clangor, 大聲的抱怨/強烈呼聲 = outcry, 
+		+ clamor, clamour (v)大聲(或吵鬧)地抱怨/大聲地要求 (n)吵鬧/喧嚷 = jazz = clangor, 大聲的抱怨/強烈呼聲 = outcry
 		- clamorous (adj)吵鬧的/喧嚷的, 大聲抱怨的/強烈要求的
 		+ declaim (v)慷慨陳詞/朗誦 
 		+ declamation (n)朗讀/雄辯
@@ -1585,7 +1585,7 @@
 			- deduce
 			+ deduct --> deductive --> deduction
 			+++ default (n/v)未履行責任/拖欠債務 (v)[to]還原(預設值) (n)預設值, 標準 = standard <-- de + fault 錯誤 = fail
-			+ defend --> defense = defence
+			+ defend --> defense, defence
 			* defile (v)弄髒 = foul = sully = mar = spoil, 褻瀆 = desecrate = profane (n)山間小道 <-- de + file 卑鄙的 = vile
 			+ define --> definite --> definitive
 			- defoliate --> defoliator
@@ -1656,7 +1656,7 @@
 			* deficit --> deficient--> deficiency
 			+ defer --> deference --> deferential --> deferement
 			- deflate
-			- defraud
+			+ defraud
 			+ defray (v)支付 <-- de + fray 花費 = cost, expense
 			- defrost (v)將……除霜, 解凍 = thaw
 			+ defunct
@@ -1793,7 +1793,7 @@
 			+ discrepancy
 			+ disaster --> disastrous
 			+ discard (v)扔掉/拋棄 (n)被拋棄的東西
-			- disjunction
+			- disjunction --> disjunctive
 			+ dismiss --> dismissal --> dismissive
 			+ dispel
 			+++ dispose --> disposal --> disposition --> disposable
@@ -2313,6 +2313,7 @@
 		- enrapture (v)使欣喜若狂
 		- enrichment (n)充實/豐富, 鈾濃縮, 富有
 		- enroll (v)入會/入學, 徵 = recruit
+		- ensnare (v)以陷阱捕
 		- /ɪnˈskɒns/ ensconce (v)安置/安頓 <-- en + sconce 木堆 = bundle of wood
 		- ensemble
 		- ensign (n)旗/軍旗
@@ -4064,7 +4065,7 @@
 		- apologize (v)道歉 --> apology (n)
 		- apologist (n)辯護者
 		- circumlocution
-		- colloquial (adj)口語的/通俗的 
+		- colloquial (adj)口語的/通俗的 = demotic
 		- colloquium -> colloquia/colloquiums (n)學術討論會 = seminar
 		- logorrhea (n)多語症
 		+ /ləˈkweɪʃəs/ loquacious (adj)多話的/健談的 = talkative = chattering = ballbing
@@ -4696,6 +4697,7 @@
 		- nonflammable (adj)不易燃的 <--> inflammable = flammable
 		- nonlegal (adj)非法的
 		+ nonplus (v)使困窘 = bewilder = confound (n)困窘/僵局 --> nonplussed (adj)不知所措的/陷於窘境的
+		- nonprofit (adj)非營利的 (n)非營利組織
 		- nonsensical (adj)無意義的, 荒謬的 <-- nonsense
 		+ nontrivial (adj)重要的/有影響的 = significant
 		- nonviable (adj)不可行的, 出生後無法自力生活的
@@ -5918,7 +5920,8 @@
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
 		++ press (v)按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
 		+ pressing (adj)緊迫的/迫切的 = instant, 懇切的/再三要求的 (n)壓/按, 沖壓件/模壓製品, 同次模壓製品
-		+ repress (adj)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 --> repressive (adj)壓迫性的/專制的, 壓抑的
+		+ repress (adj)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 
+		+ repressive (adj)壓迫性的/專制的, 壓抑的
 		+ suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue --> suppression (n)鎮壓/抑制/壓抑
 
 	punct, pung 刺 = prick == trus
@@ -6449,6 +6452,7 @@
 		++ derivative (adj)缺乏獨創性的 = secondary, [of]源自..的, [金]衍生性的 (n)衍生物/衍生字, 衍生性金融商品
 		* derivation (n)來歷/起源, 詞源, 起源, 衍生物 = derivative, [數]推導
 		- river (n)河流, 巨流/大量
+		- riviera (n)海濱度假勝地
 		- arrive (v)到達, 發生 = happen = come, 出生 = be born, [at]達到/達成(結論或決定), 成功/成名
 		+ /ˌariːˈviːst/ arriviste (n)野心家/新貴 = social climber = parvenu
 
@@ -7375,7 +7379,8 @@
 			++ detract (v)輕視/貶低 = belittle = scorn = disparage = belittle, 使分心/轉移 = distract = divert
 			+ detraction (n)貶低/輕視
 			- detractor (n)貶低者
-			+ distract (v)干擾 = interfere = disturb, 使分心/轉移 = detract --> distracted (adj)心不在焉的  = distrait
+			+ distract (v)干擾 = interfere = disturb, 使分心/轉移 = detract 
+			+ distracted (adj)心不在焉的  = distrait
 			* distraction (n)分心, 令人分心的事物, 焦躁不安
 			+ distrait (adj)心不在焉的 = distracted = absent-minded
 			+ distraught (adj)心煩意亂的
@@ -7642,6 +7647,8 @@
 		+ terrestrial (adj)地球的 = worldly, 陸地的/陸生的/陸棲的 (n)陸地生物
 		- extraterrestrial (adj)外星球的 (n)外星生物
 		- territorial (adj)領土的/領地的, 地區的/區域的 (n)國防義勇軍成員 --> territoriality (n)領土權
+		- terra (n)地 = land = territory
+		- terra incognita (n)未發現的地域/未知領域
 
 	tard 緩慢 = slow
 		- dastard (n)卑鄙的人 --> dastardly (adj)邪惡的/惡劣的 

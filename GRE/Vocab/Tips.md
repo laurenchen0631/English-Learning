@@ -50,6 +50,7 @@
 - anything but == except
 - nothing but == only
 - by no means == not
+- no less than == equal to == same as
 
 ## Double/Triple Blank
 - Read the whole sentence.
