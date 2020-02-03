@@ -247,6 +247,6 @@
 	- Twice A is 100 less than three times B: 2A = 3B - 100
 	- A is 50% of B: A = 0.5B
 	- A is **50% greater than B**: A = 1.5B
-- A is X times as ____ as B, X times as ____ A as B
+- A is X times as ____ as B, X times as ____ A as B: A = XB
 	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)
 	- Sue planted 4 times as many apple seeds as she planted orange seeds: A = 4O

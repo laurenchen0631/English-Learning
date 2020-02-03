@@ -1121,6 +1121,7 @@
 		+ discernment (n)洞察力/識別
 		- discernible (adj)能看出的/可辨別出的 = perceptible
 		+ discerning (adj)有眼光的/有識別力的 = perceptive = sagacious <|> discernible
+		- undiscerning (adj)無辨別能力的
 		+ discriminate (v)區別/辨別 = differentiate, 差別對待
 		+++ discreet (adj)謹慎的/小心的 = prudent = circumspect = deliberate = guarded, 故意不引人注意的
 		+++ discretion (n)謹慎/審慎, 行動的自由
@@ -1253,6 +1254,7 @@
 		+ exculpate (v)證明…無罪/開脫 = exonerate = vindicate <|> extenuate --> exculpatory (adj)
 		- inculpate (v)控告 = accuse, 連累/歸咎於 = incriminate
 		- incriminate (v)連累/牽連 = inculpate --> incrimination (n)連累
+		- incriminating (adj)顯示有罪的
 		+ recriminate (v)[古]反控 --> recrimination (n)反責/反控
 
 	cult 培養/種植 = care for, inhabit, worship
@@ -2155,7 +2157,7 @@
 		+ eclectic
 		+ eclipse
 		* ecstasy --> ecstatic
-		- efface
+		- efface --> self-effacing
 		+ effervesce --> effervescetnt --> effervescence
 		+ /ɪˈfiːt/ effete (adj)做作的 = affected = overrefined, 無能力的, 軟弱的/女人氣的 = effeminate <-- ef + fete 繁殖 = breeding
 		+ efficient 
@@ -2209,7 +2211,7 @@
 		+ expedite --> expeditious
 		+++ expedient --> expediency
 		* expel
-		+ expend --> expense --> expendanle
+		+ expend --> expense --> expendable
 		+ expatriate
 		+ expiate
 		* expire --> expiration
@@ -2228,7 +2230,7 @@
 		+ extend --> extended
 		++ extenuate --> extenuating
 		- exterminate
-		- extinct <--> extant
+		- extinct
 		+ extinguish (v)使...熄滅 = quench, 使...破滅 <-- ex + tingu 熄滅 = quench + ish
 		+ /ˈɛkstəːpeɪt/ extirpate (v)消滅/根除 = exterminate = eradicate
 		+ extirpation (n)根除/滅絕 <-- ex + stirp 莖 = stem + ate 
@@ -2921,7 +2923,7 @@
 	fuse 傾倒 = pour, melt
 		** confuse (v)使困惑 = perplex = bewilder = confound = befuddle = baffle = muddle, 使複雜難懂, 誤解 = mistake
 		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)擴散的/分散的 = dispersed, 晦澀的
-		+ effusive (adj)奔放的/過於流露感情的 = ebullient, [地]噴發的
+		+ effusive (adj)奔放的/過於流露感情的 = ebullient = demonstrative, [地]噴發的
 		- infuse (v)使充滿 = fill = pervade, 灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
 		++ /prəˈfjuːs/ profuse (adj)充沛的/大量的 = plentiful = abundant --> profusion (n) = proliferation
 		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (mn)廢物/垃圾 = rubbish = bin
@@ -3480,7 +3482,9 @@
 			++ intractable (adj))倔強的 = implacable = stubborn = obstinate, 無法控制的/難以處理的/棘手的 = uncontrollable 
 			+ intransigent (adj)不妥協的 = pertinacious = inflexible = stubborn = adamant <-- in + transig 妥協 = compromise + ent
 			+ intransigence (n)不妥協/不讓步
+			- intravenous (adj)靜脈的
 			+ intrepid
+			- intubate (v)氣管插管
 			* intuit (v)憑直覺知道 --> intuition (n)直覺, 直覺感知的事 --> intuitive (adj)直覺的/憑直覺得知的 = instinctive <-- in + tuit 看 = look 
 			+ invalidate (v)使無效 = nullify
 			*** invariably (adv)不變地/總是 = always 
@@ -3620,6 +3624,7 @@
 			- ingredient
 			- ingrown (adj)天生的 = innate, 向內生長的/生進肉內的(腳趾甲), 對外界不關心的 = inward-looking
 			- inhabit
+			- inhalation(n)吸入, 吸入劑
 			- inherit
 			+ inhibit --> inhibited
 			- in-house (adj)機構內部的 (adv)獨力地/不假外力地 = internally
@@ -4635,6 +4640,7 @@
 		- militarize (v)使備戰, 使軍事化
 		- /mɪˈlɪʃə/ militia (n)民兵/義勇軍, 反抗軍
 		- militant (adj)好鬥的 = aggressive = assertive (n)好戰者/激進份子
+		- militancy (mn)好戰性/戰鬥精神
 		- /ˌmɪlɪtəˈrɪstɪk/ militaristic (adj)軍國主義的/強硬的 = hawkishs
 
 [N]
@@ -4965,6 +4971,11 @@
 			- layover (n)中途停留
 			- stopover (n)中途停留, 休息站
 
+	on 
+		- onboard (adj)在船上的/在飛機上的
+		- onshore (adj)陸上的, 向陸地的 (adv)在陸地, 向陸地
+	    - onslaught (n)猛攻, 大量
+
 	octo, oct 八
 		- octogenarian (n)八十歲到八十九歲的人 (adj)八十歲到八十九歲的
 		- octopus (n)章魚
@@ -5042,6 +5053,7 @@
 		
 	oner 負擔 = burden
 		+ exonerate (v)證明無罪 = exculpate, 免除…的責任 = exempt <|> exorable
+		* onus (n)義務/責任 = responsibility = duty
 		+ /ˈɒn(ə)rəs/ onerous (adj)繁重的/麻煩的 = burdensome = taxing = wearing = operose, 負有義務的
 
 	orbit 軌道 = wheel track
@@ -5625,6 +5637,7 @@
 	pease, pac 和平 = peace
 		+ appease (v)綏靖/對..讓步 = concede, 使平靜/安撫/滿足 = mollify = mitigate = pacify = placate <--> roil
 		- /ˈpɛz(ə)nt/ peasant (n)農民, 沒教養的人/粗人 = barbarian = boor = boob
+		- pheasant (n)雉/野雞
 		* pacify (v)使平靜/安撫 = appease = placate = quell = allay = mitigate = repress, 平定/平息 --> pacification (n)
 		- pacific (adj)愛好和平的/平和的 --> Pacific (adj)太平洋的 (n)太平洋
 		- pacifist (n)和平主義者/反戰主義者
@@ -5873,7 +5886,8 @@
 		+ duplicity (n)口是心非/欺騙 = guile = deceitfulness --> /djuːˈplɪsɪtəs/ duplicitous (adj)雙面的/兩面派的, 欺騙的
 		+ duplicate (adj)複製的, 一對的 (n)複製品 (v)複製, 加倍 = double, 多做一次
 		- duplex (adj)雙重的/二倍的 (n)雙層公寓
-		+ explicate (v)詳細解釋/詳細分析 = explain = interpret = clarify = expatiate = expound --> explication (n)解釋/分析, 文學分析
+		+ explicate (v)詳細解釋/詳細分析 = explain = interpret = clarify = expatiate = expound 
+		+ explication (n)解釋/分析, 文學分析
 		+ explicit (adj)清楚明確的 = unequivocal, 坦率的 = outspoken = candid, 赤裸裸的/露骨的 <-- explicate
 		* explicable (adj)可解釋的/可理解的 <--> mysterious = obscure
 		++ implicate (v)牽連/涉及(罪行), 暗示/暗指 = imply = intimate = infer --> implication (n)暗示
@@ -6832,7 +6846,8 @@
 		- aspiration (n)抱負/志向 = ambition, [醫]抽吸, 送氣音
 		- aspirant (adj)有抱負的 (n)有抱負者
 		+ conspire (v)共謀/密謀 = collude = connive = plot, 協力 = cooperate --> conspiracy (n)陰謀, 共謀
-		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale --> inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
+		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale 
+		* inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
 		* inspirational (adj)帶有靈感的 = inspo 
 		* expire (v)去世, 期滿/到期, 呼氣 = exhale --> expiration (n)期滿/中止 = termination, 吐氣 = exhalation
 		- perspire (v)出汗 = sweat
@@ -7067,6 +7082,7 @@
 		++ stricture (n)限制 = restriction, 苛評/非難 = censure, [醫]狹窄部位
 		- string -> strung -> strung (n)細繩/線, 弦, 一串/一行/一列, 纖維/筋 (v)掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙, [along]長期哄騙/敷衍 <|> spring -> sprang -> sprung
 		+ stringent (adj)嚴格的/精確的 = strict = stern = severe = austere = precise = exacting
+		- stringy (adj)細長的, 多纖維的/多筋的, 黏稠的
 		* unrestrained (adj)不受限制的/無節制的
 
 	stern 散播 = strew, spread
@@ -7649,6 +7665,7 @@
 		- territorial (adj)領土的/領地的, 地區的/區域的 (n)國防義勇軍成員 --> territoriality (n)領土權
 		- terra (n)地 = land = territory
 		- terra incognita (n)未發現的地域/未知領域
+		- terrarium (n)養育箱, 栽培植物的玻璃容器
 
 	tard 緩慢 = slow
 		- dastard (n)卑鄙的人 --> dastardly (adj)邪惡的/惡劣的 
@@ -7902,6 +7919,7 @@
 		+++ undertake (v)試圖/著手做 = take on, 陳諾/答應 = promise = give as a formal pledge --> undertaking (n)保證, 許諾, 事業 = enterprise, 企業 = company = business (mn)殯儀業
 		- underuse (n/v)未充分利用
 		- underutilize (v)未充分利用 = underuse
+		- underwhelmed (adj)未給人留下深刻印象的
 		+ underwrite (v)簽署/簽名同意支付/同意, 爲…承擔保險責任/爲…承保 = guarantee, 爲…提供財力支援並承擔經濟責任
 
 	up 上 = upper, upwards

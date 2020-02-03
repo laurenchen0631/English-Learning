@@ -9,7 +9,7 @@
 - across <--> cross
 + adduce <--> abduct <--> conduce <--> conduit <--> deduct <--> deduce <--> deductive <--> educe
 - adumbrate
-- adulate <--> adulterate <--> adultery <--> adulterous
+- adulate <--> adulterate <--> adultery <--> adulterous <--> adolescent
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
 - aesthetic <--> anesthetic
 - affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery <--> affront
@@ -231,7 +231,7 @@
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
 - demean <--> demeanor
-- demotic <--> demolish
+- demotic <--> demolish <--> demote <--> emote
 - demur <--> demure <--> immure 
 - demit <--> demise
 - denigrate
@@ -261,7 +261,7 @@
 - dim <--> din <--> dingy
 - diminutive <--> diminish
 - dilatory <—-> dilate <--> dilute
-- disabuse
+- disabuse <--> abuse
 - discharge <--> dispatch <--> dismiss <--> dispose <--> deposit <--> disposition <--> disposable
 - disciple <--> discipline
 - discomfit <--> discomfort
@@ -306,17 +306,19 @@
 - dwindle <--> dawdle <--> doodle <--> swindle
 
 ## E
+- eclipse <--> ellipsis <--> elliptical <--> ellipse <--> elliptic <--> ecliptic
 - eddy <--> ebb
-- effusive <--> elusive
 - effigy
-- effluvium <--> effusive
-- egalitarian <--> equalitarian
+- effluvium <--> effusive <--> elusive
+- elective <--> electoral <--> electorate
 - elicit <--> explicit <--> explicate <--> implicit <--> implicate <--> complicit 
+- emancipate <--> emaciated
 - embroil <--> boil
 - empire <--> empiric <--> empirical
 - endemic <--> epidemic <--> pandemic
 - enervate <--> innervate <--> unnerve
 - enjoin
+- enormity <--> enormous
 - ensign
 - ensconce <--> sconce
 - entail <--> curtail <--> detail
@@ -330,27 +332,25 @@
 - esoteric <--> exoteric
 - ethereal
 - ethic <--> ethical <--> ethnic
+- evict <--> evince <--> convince
 - euphony <--> phony
 - exact <--> exacting <--> redact
 - exalt <--> exult <--> elate <--> exude <--> exuberant
 - exclude <--> exclusive <--> exclusionary
-- excoriate
-- execrate <--> execrable <--> consecrate <--> desecrate
-- execrate <--> excrete
-- exclusive <--> exclusionary
+- execrate <--> excrete <--> execrable <--> consecrate <--> desecrate
 - excruciate <--> excruciating
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
 - exercise <--> excise <--> incise <--> incisor <--> incisive
 - exhaust <--> exhaustive
 - exhort <--> cohort
-- expansive <--> expanse
+- expand <-->expansive <--> expanse
 - expatriate <--> expiate
-- expedite <--> expedition <--> expedient
+- expedite <--> expedition <--> expedient <--> expeditious
 - express <--> expressive
 - expunge <--> expurgate
 - exigent <--> exiguous
-- extirpate
+- ethos <--> pathos <--> bathos
 
 ## F
 - facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum
@@ -384,6 +384,7 @@
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx <--> flex
+- foray <--> fray
 - forbear <--> forbid <--> forbidding <--> foreboding
 - forfeit <--> forlorn
 - forsake <--> sake
@@ -484,6 +485,7 @@
 - indolence <--> insolence
 - indict <--> indicate <--> indicative <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
+- inkling
 - invective
 - inveigh <--> inveigle <--> invective
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous <--> indignant <--> indigent <--> indignation <--> indignity
@@ -555,6 +557,7 @@
 - inveterate <--> invertebrate
 - loath <--> loathe
 - lobe <--> lode <--> lodge <--> dislodge
+- loquacious <--> locution <--> elocution <--> eloquent
 - lull <--> loll <--> mull
 - loom <--> loon <--> loop <--> lope <--> lop
 - lose <--> loss <--> loose
@@ -595,7 +598,7 @@
 - mongrel <--> mogul
 - mores
 - moral <--> morale
-- morbid <--> mordant <--> mordacious
+- morbid <--> morbidity <--> mortality <--> mordant <--> mordacious
 - morose <--> remorse
 - mortify <--> mortality
 - mosquito <--> mosque
@@ -642,6 +645,7 @@
 - ostentatious <--> ostensible
 - outcry <--> decry
 - outlook <--> overlook <--> oversee <--> oversight
+- overwhelm <--> underwhelmed
 - overweening
 
 ## P
@@ -682,6 +686,7 @@
 - petulant <--> opulent
 - phantasmagorical
 - pillory <--> pillage <--> pillar
+- pious <--> piety <--> impious
 - plain <--> plane <--> planet <--> plant <--> plantation <--> plaintive
 - plangent
 - plead <--> pledge <--> pleat
@@ -709,7 +714,7 @@
 - preeminent <--> prominent 
 - preposterous <--> preponderance
 - prerogative
-- presentiment
+- pretentious <--> 	presentiment <--> present
 - prestige <--> vestige
 - prefigure
 - prophesy <--> prophecy <--> prophylactic
@@ -839,7 +844,7 @@
 - scurvy <--> purvey
 - secede <--> succeed <--> success <--> succession
 - secure <--> secular
-- sensible <--> insensible <--> sensibility <--> sensitive <--> insensitive
+- sensible <--> senescent <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
 - sententious
 - severe <--> sever <--> serve
@@ -873,8 +878,10 @@
 - smooth <--> soothe <--> seethe
 - smudge <--> nudge
 - smug <--> smudge <--> smuggle
+- smite <--> smithereen
 - snarl <--> gnarl
 - snitch <--> stitch
+- snide
 - snub <--> snob <--> sob <--> sod <--> sop <--> sodden <--> sober <--> somber 
 - sobriety <--> sobriquet
 - sole <--> sore
@@ -934,6 +941,7 @@
 - tentative <--> tendentious
 - testy <--> detest
 - thick <--> thicket
+- thalassemia <--> ischemia <--> leukaemia
 - thread <--> tread <--> threat
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
@@ -994,6 +1002,7 @@
 - vociferous
 - volume <--> voluble <--> voluptuous <--> voluminous
 - vouch <--> voucher
+- vowel <--> bowel
 
 ## W
 - wanting <--> wanton
