@@ -36,7 +36,7 @@
 - abrogate <--> arrogate <--> arrogant <--> derogate
 - ailing <--> alimentary <--> alimony
 - allegory <--> allergy <--> allege <--> allegiance
-- allude <--> delude <--> elude <--> evade
+- allude <--> delude <--> deluge <--> elude <--> evade
 - alter <--> altar
 - apprehend <--> apprehension
 - asinine
@@ -49,6 +49,7 @@
 - avarice
 - avow <--> vow <--> disavow
 - awry <--> wry <--> wary <--> weary <--> askew 
+- agonize
 
 ## B
 - baffle <--> raffle <--> waffle
@@ -151,8 +152,8 @@
 - condemn <--> convict <--> conviction <--> damn <--> indemnify <--> damnify <--> damning
 - condescend <--> descend
 - condone <--> condolence <--> condo
-- confer <--> conifer <--> confess <--> profess
-- conflagration
+- confer <--> conifer <--> confess <--> profess <--> profession <--> professional
+- conflagration <--> deflagrate
 - conflate <--> deflate <--> flatulent
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal
@@ -210,6 +211,7 @@
 - cuss <--> concuss <--> percuss <--> percussion <--> repercussion
 - cyclical <--> cyclist <--> cyclamate <--> encyclical
 - cynical
+- cob <--> cod
 
 ## D
 - dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle
@@ -357,21 +359,20 @@
 - fare <--> ware <--> aware
 - falcon <--> felon
 - fall <--> fell
-- fallow <--> callow <--> follow
 - falter <--> palter
-- faux <--> flax <--> flex <---> flexible
+- faux <--> flax <--> flex <---> flexible <--> inflexible
 - feckless <--> reckless
 - feign <--> foreign <--> deign <--> reign
 - feint <--> fend <--> fender <--> fiendish
 - feminine <--> famine
 - ferry <--> ferrous
-- fete <--> mete <--> effete
+- fete <--> mete <--> effete <--> effeminate
 - fetid <--> fetish
 - fib <--> dibs
 - fickle <--> freckle <--> heckle <--> speckle
+- figure <--> figurative <--> figurehead <--> figurine <--> figment <--> prefigure
 - file <--> defile
 - filly <--> folly
-- fit <--> fitful
 - fixation <--> fixity <--> fixture
 - flabbergast
 - flagrant <--> fragrant
@@ -403,7 +404,7 @@
 ## G
 - gaffe <--> gaff <--> guffaw
 - gallery <--> galley
-- gambit <--> gamble <--> ramble <--> rambling <--> gambol <--> garble <--> gargle
+- gambit <--> gamble <--> ramble <--> rambling <--> gambol <--> garble <--> gargle <--> gargoyle
 - gangster <--> angst 
 - gauche <--> gaudy
 - gaunt <--> gantlet <--> grunt <--> disgruntle
@@ -411,7 +412,7 @@
 - germane <--> germ
 - giddy <--> piddly
 - gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> hassle <--> waggle
-- git <--> grit <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
+- git <--> grit <--> gritty <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
 - glean <--> clean
 - glib <--> gild <--> glide
 - gloat <--> bloat <--> glower
@@ -420,12 +421,12 @@
 - grab <--> drab <--> drag <--> crag <--> brag <--> snag
 - gregarious <--> egregious
 - gratify <--> ingratiate
-- grip <--> gripe <--> grope <--> grapple <--> gird <--> grid <--> girder
-- grim <--> grime
+- grip <--> gripe <--> grope <--> grapple <--> gird <--> grid <--> girder <--> undergird
+- grim <--> grime <--> grimy
 - grind <--> grin <--> chagrin
-- gross <--> gloss <--> engross
+- gross <--> gloss <--> glossy <--> engross
 - groundless <--> grounded
-- grouse <--> arouse
+- grouse <--> arouse <--> grouch <--> grumble <--> grumpy
 - gulf <--> engulf
 - gush <--> gash <--> gasp <--> grasp <--> gust <--> gut <--> gutter <--> cusp <--> rasp
 - grasping <--> gripping
@@ -453,7 +454,7 @@
 - hide <--> hideous
 - hilarious <--> exhilarate
 - histrionic <--> historic <--> historical <--> hysterical
-- hoard <--> board <--> hoary
+- hoard <--> board <--> hoary <--> starboard
 - hoe <--> hog
 - holdout
 - holocaust
@@ -482,6 +483,7 @@
 - incarnate <--> incarnadine <--> carnage <--> carnal
 - incept <--> intake <--> ingest
 - incursion <--> incur <--> occurrence <--> occur <--> intrude
+- indefensible
 - indolence <--> insolence
 - indict <--> indicate <--> indicative <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
@@ -503,7 +505,7 @@
 - inch <--> itch
 - inductive <--> induce <--> inducement
 - infect <--> inflect
-- infer <--> refer <--> referendum
+- infer <--> refer <--> referendum <--> referee <--> referral
 - inflammable <--> nonflammable <--> inflammatory
 - insipid <--> sapid <--> vapid <--> vapor
 - incant <--> incentive <--> recant
@@ -595,6 +597,7 @@
 - misgiving
 - mitigate <--> unmitigated
 - moat <--> moan
+- molt <--> molten
 - mongrel <--> mogul
 - mores
 - moral <--> morale
@@ -634,7 +637,7 @@
 - occupation <--> preoccupation
 - odd <--> ode
 - odium <--> opium
-- offensive <--> inoffensive
+- offend <--> offensive <--> inoffensive
 - officious <--> official
 - onerous <--> exonerate
 - onset <--> outset
@@ -692,12 +695,13 @@
 - plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker <--> muck
-- plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump
+- plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump <--> plum
 - plutocracy
 - pock <--> poke
 - poll <--> pollen <--> pollinate
 - ponderous <--> ponder
 - poppy <--> pop <--> poop
+- portfolio
 - portion <--> potion
 - portend <--> portentous
 - posit <--> position <--> post <--> posture <--> posterity <--> postulate <--> expostulate
@@ -716,6 +720,7 @@
 - prerogative
 - pretentious <--> 	presentiment <--> present
 - prestige <--> vestige
+- proficient
 - prefigure
 - prophesy <--> prophecy <--> prophylactic
 - propitious <--> propitiatory <--> prop
@@ -728,7 +733,7 @@
 - probity <--> probate
 - proceeds <--> proceedings <--> procession
 - prodigy <--> prodigal <--> prodigious
-- profane <--> profuse
+- profane <--> profuse <--> suffuse <--> confuse
 - prolix <--> prolific
 - prone <--> prune
 - proprietary <--> propriety <--> property <--> impropriety
@@ -781,7 +786,7 @@
 - recreant
 - recrimination <--> incrimination
 - reek
-- reflective <--> reflexive
+- reflective <--> reflexive <--> reflect <--> refection <--> refectory
 - remiss <--> remit <--> remission
 - remonstrate <--> demonstrative
 - renaissance <--> reconnaissance <--> reconnoiter
@@ -930,6 +935,7 @@
 ## T
 - tackle <--> tickle
 - tactile <--> tactual
+- tally <--> tall
 - tangle <--> mangle <--> mingle
 - tangible <--> tangential
 - telltale <--> untold
@@ -997,7 +1003,7 @@
 - vintage <--> vantage
 - vitriolic <--> vitriol
 - vituperation
-- vocation <--> vacation
+- vocation <--> vacation <--> revocable
 - vogue <--> rogue
 - vociferous
 - volume <--> voluble <--> voluptuous <--> voluminous

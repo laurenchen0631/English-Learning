@@ -32,6 +32,7 @@
 			+ adjust
 			- admire --> admiration
 		    - adopt (v)收養, 採納/接受, 養成(某種習慣) <-- ad + opt 選擇 = choose
+			- adrift (adj/adv)漂浮著, 漫無目的地
 			+ adventure --> adventurous
 			+ advocate --> advocacy
 			+ adumbrate --> adumbration
@@ -1338,7 +1339,7 @@
 		- certification (n)授與證書, 證書
 		+ ascertain (v)確定/弄清 = make sure of
 		*** concert (v)商議/使協調 (n)一致/和諧 = agreement = harmony, 音樂會
-		* disconcert (v)使焦慮/使不安 = unsettle = perturb = rattle
+		* disconcert (v)使焦慮/使不安 = unsettle = perturb = rattle = discompose
 	
 	chival, cheval, caval 馬 = horse
 		- cavalry (n)騎兵, 裝甲兵, 最後手段
@@ -2781,7 +2782,8 @@
 		+ definitive (adj)最終的/決定性的, 權威性的
 		+ definitiveness (mn)決定性
 		+ finite (adj)有限的
-		+ infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense --> infinity (n)無限的時間或空間
+		+ infinite (adj)無限的 = boundless = endless = unlimited = absolute, 極大的 = immeasurable = immense 
+		+ infinity (n)無限的時間或空間
 		- infinitesimal (adj)極微小的 (n)極小量
 
 	fringe 邊緣
@@ -2904,7 +2906,7 @@
 		- inflect (v)屈折變化, 使變音/使變調, 彎曲
 		- inflection (mn)屈折變化, 變調, 彎曲
 		+ reflect (v)[on/upon]深思/考慮 = deliberate = consider = pore = meditate = contemplate, 反射, 反映/顯示
-		+ reflection (mn)反射, 深思/深思 (n)想法/意見, 反射光, 鏡像, 後果, 非議/有損名譽的事 = discredit -->
+		+ reflection (mn)反射, 深思/深思 (n)想法/意見, 反射光, 鏡像, 後果, 非議/有損名譽的事 = discredit 
 		+ reflective (adj)反射的, 深思的 = thoughtful
 		- unreflecting (adj)欠考慮的/輕率的, 不反光的
 		- reflexive (adj)[語]反身的, (動作)反射性的 (n)反身動詞/反身代詞
@@ -6679,6 +6681,7 @@
 
 	st, sist, sta, stas, stat, stan, stant, stit 站 = stand
 		+ apostasy (mn)被教/脫黨/變節 = defect --> apostate (n)變節者/叛教者 (adj)變節的 <|> apostle 
+		- consist (v)[of]組成/構成, [in]在於/存在於
 		+ consistent (adj)一貫的/始終如一的, 與..一致的/吻合的 = compatible = in agreement with
 		+ constant (adj)穩定的/不變的 <--> mercurial, 忠誠的, 經常發生的/連續發生的 (n)不變的事物, [數]常數/常量/恆量
 	    * constancy (n)堅定/堅貞/忠誠, 恆久不變 <-- constant
@@ -8113,7 +8116,8 @@
 		+ equivocate (v)含糊其詞 = prevaricate --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
 		+ equivocation (n)含糊其詞 = prevarication
 		+ unequivocal
-		+++ evoke (v)喚起(記憶或感情) = conjure = summon, 激起/引起(回應) = elicit = excite = kindle = inflame, 祈求 = invoke --> evocative (adj)引起回憶的/喚起感情的
+		+++ evoke (v)喚起(記憶或感情) = conjure = summon, 激起/引起(回應) = elicit = excite = kindle = inflame, 祈求 = invoke 
+		+++ evocative (adj)引起回憶的/喚起感情的
 		+++ invoke (v)祈求(法律或神靈), 援引/借助(法律), 懇求, 喚起/引起 = give rise to = evoke
 		+++ provoke (v)激勵/刺激 = stir up = arouse = incite = stimulate = instigate = whet = pique, 激起/引起(負面反應), 激怒/挑釁 = peeve = pique = irritate = irk = gall = rile = nettle = vex
 		+++ provocation (n)挑釁 = affront, 挑撥, 挑逗 --> provocative (adj)意圖刺激的/挑播的, 性挑逗的
@@ -8182,7 +8186,7 @@
 		+ /ˈvɪrjʊlnt/ virulent (adj)劇毒的/致命的 = poisonous = venomous = baneful, 高度傳染性的 = infective, 充滿敵意的 = hateful = hostile
 
 	viv 活 = live
-		+ /kənˈvɪvɪəl/ convivial (adj)友好快活的 = friendly = jovial, 歡樂的 = jolly = merry = joyousconfound 
+		+ /kənˈvɪvɪəl/ convivial (adj)友好快活的 = friendly = jovial, 歡樂的 = jolly = merry 
 		+ conviviality (mn)歡樂
 		- revive (v)(使)甦醒/復原/復興 = resurrect --> revival (n)甦醒/復活, 復興/再流行
 		- survive (v)倖存, 比……活得長

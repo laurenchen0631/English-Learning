@@ -227,6 +227,17 @@
 	- √P + √Q !== √(P+Q)
 	- √P - √Q !== √(P-Q)
 
+## Triangle
+- Basic facts
+	1. The sum of three angles inside any triangle is 180 degrees.
+	2. Angle: a triangle can not have two obtuse angles
+		- Acute angle: angle < 90 degrees
+		- Right angle: angle = 90 degrees
+		- Obtuse angle: angle > 90 degrees
+	3. **The largest angle is always opposite the longest side. The smallest angle is always opposite the shortest side.**
+	4. Inequality theorem: in any triangle, **the sum of any two sides must be greater than (not equal) the third side.**
+	5. By inequality theorem: **P - Q < third side < P + Q** (P, Q is the lengths of other two sides)
+
 
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.

@@ -356,7 +356,7 @@
     - bacterium --> bacteria (n)細菌
     - badge (n)徽章, 象徵 = sign (v)授給……徽章 <|> badger <|> budge <|> barge <|> cadge
     - /ˈbadɪnɑːʒ/ badinage (mn)玩笑/揶揄 = banter
-    - bail (mn)保釋, 保釋金 = bond (v)保釋, (從船中)往外舀水, [on]離開/拋棄 <|> parole
+    - bail (mn)保釋, 保釋金 = bond (v)保釋, (從船中)往外舀水, [on]離開/拋棄, [out]跳傘, [out]放棄/退出 <|> parole
     - ball-gown (n)晚禮服
     - bait (n)誘餌 = enticement = allurement (v)激怒/嘲弄 = taunt = annoy = rile, 使狗攻擊(獵物), 掛餌
     - bald (adj)禿頭的, 光禿的, 磨平的(輪胎), 露骨的/單調的
@@ -400,6 +400,7 @@
     - beaker (n)大杯子
     - beam (n)樑/桁 = girder, 體操平衡木, 船身寬度, [非]臀部寬度, 光線/光束, 流, 笑容/喜色 (v)(無線信號)播送/發送, 照耀, 眉開眼笑
     - beard (n)鬍鬚, 山羊鬍, 動物的頜毛, 植物的芒, 同性戀用來隱藏身份的女伴 (v)公然反對/與……對抗 = challenge = confront
+    - beau (n)男朋友, 花花公子 = dandy
     - bedeck (v)裝飾 = adorn = embellish = decorate
     - bedevil (v)使痛苦, 折磨 = torment = harass
     - bedlam (mn)混亂/騷亂 = uproar = confusion = riot <--> serenity
@@ -725,7 +726,7 @@
     * /kɔɪl/ coil (v)弄成圈狀, 盤繞 (n)一圈/一捲, 線圈, 子宮內節育環
     * colorful (adj)鮮豔的, 生動的/活潑的, 多姿多采的, (語言)粗俗的 = vulgar
     * comely (adj)動人的/美麗的 = attractive = gainly <-- becomely
-    * con (n/v)欺騙 = coax = deceit, 指揮操舵 (n)缺點 = disadvantage, 囚犯 = convict, 集會 = convention
+    * con (n/v)欺騙 = coax = deceit, 指揮操舵 = helm (n)缺點 = disadvantage, 囚犯 = convict, 集會 = convention
     * /ˈkɒntʊə/ contour (n)輪廓/外型 = configuration = outline, 等高線 (v)使與某種輪廓相符, 加陰影, 標等高線, (路)沿著等高線
     * /ˈkaʊns(ə)l/ council (n)理事會/委員會, 政務委員會/地方議會, 會議
     * /ˈkaʊns(ə)l/ counsel (v)忠告, 勸告, 給予專業幫助, 推薦 (n)律師/辯護人
@@ -848,6 +849,7 @@
     - clam (n)蛤蜊/蛤肉, 守秘密之人
     - clamp (n)鉗子/夾子, 懲罰違規停車的車輪固定夾 = wheel clamp (v)鉗緊/夾緊, 緊緊抓住/牢牢固定住 <|> clasp <|> cramp
     - clank (n)(金屬相擊的)叮噹聲/噹啷聲 (v)發叮噹聲
+    - clap (v)拍(手), 振(翼) (n)拍手, 拍肩, 霹靂聲, 淋病
     - clasp (n)扣子/鉤子, 擁抱 = embrace, 抓住/握手 (v)抱緊/握緊/抓緊
     - clay (n)黏土, 軀體 <|> cloy
     - claymore (n)蘇格蘭闊刃大劍, 定向散鏢地雷
@@ -874,6 +876,7 @@
     - cobbler (n)修鞋匠/鞋匠, 酒味冷飲, 厚皮水果派 <|> coddle <|> clobber
     - cock (n)[俗]陰莖, 扳機, 旋塞/活栓 = stopcock (v)使歪斜 = tilt, 翹起(肢體), 扳起(槍)的扳機
     - cocoon (n)繭, 繭狀物, 防護膜 (v)把……緊緊包住, 使自己孤立, 噴上防護膜
+    - cob (n)玉米穗軸 = corncob, 榛果 = cobnut, 結實的矮腳馬, 雄天鵝
     - cod (n)鱈魚
     - /ˈkəʊhɔːt/ cohort (n)一群人, 古羅馬步兵隊, 支持者/同夥
     - coin (n)硬幣/錢幣 (v)鑄造, 創造/ 杜撰(新詞)
@@ -1424,7 +1427,8 @@
     *** fret (v)(使)焦慮 = vex = harrow, 侵蝕/腐蝕 = gnaw = erode = corrode, (侵蝕)形成(通道), 起波紋, 用卍字浮雕裝飾, 裝檔子 (n)卍字浮雕, (弦樂器指板上定音的)檔子, 海霧 = sea fret = sea fog
     * fretful (adj)煩惱的/焦躁的
     * frisky (adj)愛玩的/活潑好動的 = frolicsome = coltish
-    * frolic (N/V)嬉戲/玩鬧 = gambol = romp = lark, 挑逗 = flirt --> frolicsome (adj)活躍的/玩鬧的 = frisky
+    * frolic -> frolicked -> frolicked (N/V)嬉戲/玩鬧 = gambol = romp = lark, 挑逗 = flirt 
+    * frolicsome (adj)活躍的/玩鬧的 = frisky
     * fruitful (adj)肥沃的/富饒的 = fecund = fertile = prolific = generous, 有成效的, (人)很會生的
     * fruition (n)成就/實現/完成 = realization = fulfilment, 結果實 <-- fruit
     ** fruitless (adj)無效果的/無益的 = futile = unproductive, 不結果實的
@@ -1727,7 +1731,7 @@
     - gaping (adj)張開的 = wide open.
     - garble (n/v)曲解/竄改 = falsify --> garbled (adj)被混淆的 = unclear
     - gardenia (n)梔子屬/梔子花
-    - gargantuan (adj)龐大的/巨大的 = enormous = 
+    - gargantuan (adj)龐大的/巨大的 = enormous
     - gargle (v)漱口 (n)漱口, 漱口聲, 漱口水
     - gargoyle (n)石像鬼
     - garland (n)花環/花冠 (v)給…飾以花環/為…戴上花環
@@ -2161,6 +2165,7 @@
     * iterate (v)再次說/反覆做 = utter again or repeatedly <-- iter 再次 = again + ate
 
     - icicle (n)冰柱/冰錐 <-- ice 冰 + icle 小東西
+    - ichthyologist (n)魚類學者/魚類研究者
     - ideate (v)構思 = imagine = conceive = think
     - ilk (n)種類
     - imp (n)小鬼 = demon, 頑童 = brat (v)移植羽毛於(獵鷹)
@@ -2275,6 +2280,7 @@
     - /nɒb/ knob (n)球形突出物, 球形把手, 旋鈕, 圓丘/小山, [俗]陰莖
     - knowingly (adv)會意地, 故意地 = deliberately
     - know-how (n)專業技能/知識 = expertise
+    - knuckle (n)指關節, 四足獸膝關節, 肘/蹄, 用指關節摩擦或壓
 
 [L]
     + label (n)貼紙/標籤, 商標, 稱號/綽號, 標記/符號 (v)貼標籤於, 把……列為/把……歸類為
@@ -2453,6 +2459,7 @@
     - livelihood (n)生計
     - livewire (n)機靈鬼 = live wire 
     - livery (n)僕從制服, 公司標誌設計, 馬車出租所
+    - indigo (n)槐藍屬植物, 靛藍/靛青
     - loaf (n)一條 (v)虛度/消磨
     - lobby (n)大廳, 遊說團, 遊說 (V)遊說
     - lobe (n)耳垂 = earlobe, (腦、肺等的)葉 <|> lode <|> lope
@@ -2643,6 +2650,7 @@
         
     - macerate (v)(食物)浸軟/軟化 = steep
     - machete (n)大砍刀
+    - machismo (n)大男人主義
     - madrigal (n)牧歌(文藝復興時期和早期巴洛克時代的世俗聲樂作品)
     - magenta (n)洋紅色, 品紅 = fuchsin
     - maggot (n)蛆, 釣餌
@@ -2717,6 +2725,7 @@
     - mentality (n)心理狀態/意識型態, 智力
     - menthol (n)薄荷腦/薄荷醇
     - mesa (n)高地/平底山
+    - messianic (adj)彌賽亞的/救世主的
     - messy (adj)髒的 = untidy = dirty, 麻煩的, 混亂的 = confused --> messiness (n)
     - metallic (adj)金屬的, 金屬似的(聲音), 有磁性的(聲音), 有金屬光澤的 = iridescent
     - mete (v)給予/分配(懲罰), 測量 = measure, 界石 (n)邊界 <|> fete
@@ -3294,6 +3303,8 @@
     - playa (n)乾鹽湖
     - pleat (n)衣服上的摺 (v)給…打褶
     - plinth (n)基座/柱腳/牆基
+    - plop (n)掉下的聲音/撲通聲 (v)使撲通掉下
+    - plum (n)李子/梅子, 李樹 = plum tree, 紫紅色, [非]令人垂涎的東西
     - plumber (n)管子工/水管工
     - plume (n)羽毛, 羽狀雲霧, 大量污染物質, 地函熱柱 = mantle plume (v)形成羽毛狀的煙雲, 用羽毛裝飾, [oneself]自誇/自滿
     - plush (n)長毛絨/厚絨布 (adj)豪華的 = luxurious = expensive
@@ -4329,6 +4340,7 @@
     - stake (n)樁, 火刑柱, 賭金, 股本/股份, 賽馬的獎金, 有獎賽馬, 有獎比賽 (v)以樁支撐(植物), [out]明確界定對(某地)的所有權, 押注, 資助
     - stalk (n)莖/稈/葉柄/花梗/果柄, 跟蹤, 昂首闊步 (v)偷偷靠近/跟蹤, 非法跟蹤騷擾, 怒氣衝衝地走/趾高氣揚地走
     - stamp (n/v)跺腳, 在...上蓋印 (v)[out]消除/消滅
+    - starboard (n)右舷 (v)向右轉
     - starch (n)澱粉, 澱粉類食物, (漿衣服用的)澱粉漿, 刻板/拘謹 (v)給(衣服)上漿 
     - starchy (adj)含澱粉的, 上漿的, [非]拘謹的
     - starling (n)歐掠鳥, 擋水木樁
@@ -4896,6 +4908,7 @@
     - vouch (v)[for]擔保/作證
     - voucher (n)現金卷/代金券/兌換券
     - vowel (n)母音 <--> consonant <|> bowel
+    - vroom (n)汽車加速時發出的嗚嗚聲 (v)發嗚嗚聲
     - vulture (n)禿鷹
 
 [W]
