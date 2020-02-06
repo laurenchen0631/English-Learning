@@ -50,7 +50,8 @@
 - avow <--> vow <--> disavow
 - awry <--> wry <--> wary <--> weary <--> askew 
 - agonize
-
+- alternately <--> alternatively
+ 
 ## B
 - baffle <--> raffle <--> waffle
 - bail <--> parole <--> bait <--> gait
@@ -74,7 +75,7 @@
 - bracket <--> brackish <--> racket <--> rack <--> racketeer <--> racketeering
 - breed <--> brood
 - bridle <--> bribe <--> bride
-- buff <--> puff <--> miff <--> rebuff <--> buffoon 
+- buff <--> puff <--> miff <--> rebuff <--> buffoon  <--> huff
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble <--> mumble <--> rumble <--> rumple
@@ -180,7 +181,7 @@
 - convoke <--> evoke <--> invoke <--> provoke <--> revoke
 - convivial
 - convulse <--> divulge
-- corpus <--> corpuscle <--> corpse <--> corporeal
+- corpus <--> corpuscle <--> corpse <--> copse <--> corporeal
 - council <--> counsel <--> consul
 - country <--> county
 - countenance <--> discount <--> recount
@@ -212,6 +213,8 @@
 - cyclical <--> cyclist <--> cyclamate <--> encyclical
 - cynical
 - cob <--> cod
+- congressional
+- congest
 
 ## D
 - dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle
@@ -240,7 +243,7 @@
 - denounce <--> denunciate <--> enounce <--> enunciate <--> pronounce <--> renounce <--> renunciation
 - dent <--> denture <--> indent <--> indenture
 - deplore <--> implore
-- deprecate <--> depreciate <--> appreciate <--> appreciable <--> imprecate
+- deprecate <--> depreciate <--> appreciate <--> appreciable <--> imprecate <--> inappreciable
 - depress <--> distress <--> repress 
 - derive <--> derivative
 - derision <--> risible
@@ -289,7 +292,7 @@
 - diverse <--> divert
 - divulge
 - dizzy <--> drizzle <--> guzzle <--> puzzle <--> sizzle <--> fiddle <--> fuddle <--> fizzle
-- doleful <--> dolorous
+- doleful <--> dolorous <--> dole
 - domestic <--> domicile <--> docile <--> condominium
 - dominate <--> domineer <--> dominion
 - don <--> doff
@@ -344,7 +347,7 @@
 - exegesis <--> genesis
 - exemplum <--> exemplar <--> exempt
 - exercise <--> excise <--> incise <--> incisor <--> incisive
-- exhaust <--> exhaustive
+- exhaust <--> exhaustive <--> inexhaustible 
 - exhort <--> cohort
 - expand <-->expansive <--> expanse
 - expatriate <--> expiate
@@ -355,7 +358,7 @@
 - ethos <--> pathos <--> bathos
 
 ## F
-- facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum
+- facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum <--> faculty
 - fare <--> ware <--> aware
 - falcon <--> felon
 - fall <--> fell
@@ -409,7 +412,7 @@
 - gauche <--> gaudy
 - gaunt <--> gantlet <--> grunt <--> disgruntle
 - gawk <--> hawk <--> hawker
-- germane <--> germ
+- germane <--> germ <--> germinate
 - giddy <--> piddly
 - gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> hassle <--> waggle
 - git <--> grit <--> gritty <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
@@ -420,7 +423,7 @@
 - gob <--> fob <--> fop <--> fad
 - grab <--> drab <--> drag <--> crag <--> brag <--> snag
 - gregarious <--> egregious
-- gratify <--> ingratiate
+- gratify <--> ingratiate <--> ungrateful <--> gratuity <--> gratuitous <--> ingratitude
 - grip <--> gripe <--> grope <--> grapple <--> gird <--> grid <--> girder <--> undergird
 - grim <--> grime <--> grimy
 - grind <--> grin <--> chagrin
@@ -436,7 +439,7 @@
 - hagiography
 - hale <--> hare <--> harem <--> mare
 - hardheaded <--> headstrong
-- harry <--> marry <--> parry <--> quarry
+- harry <--> harried <--> marry <--> parry <--> quarry
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow <--> mellow
 - hash <--> mash
@@ -449,7 +452,7 @@
 - heave <--> heaven <--> haven <--> upheave <--> dishevel
 - hector <--> hectic <--> sector
 - heft
-- hermetic <--> heretic <--> hermit <--> helmet
+- hermetic <--> heretic <--> hermit <--> helmet <--> helm
 - hen <--> hem
 - hide <--> hideous
 - hilarious <--> exhilarate
@@ -458,7 +461,7 @@
 - hoe <--> hog
 - holdout
 - holocaust
-- homage <--> homily <--> homey <--> homie <--> hone
+- homage <--> homily <--> homiletic <--> homey <--> homie <--> hone
 - hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
 - hostel <--> hotel
@@ -473,7 +476,7 @@
 
 ## I
 - idiom <--> idiot
-- ignominious
+- ignominious <--> ignoble <--> ignorant
 - illustrious <--> illustrative
 - imbroglio
 - imbue <--> imbibe
@@ -499,7 +502,7 @@
 - imperative <--> imperious <--> imperial
 - impervious <--> impermeable <--> impenetrable
 - impose <--> imposing <--> imposture <--> impostor
-- importune <--> import
+- importune <--> import <--> inopportune
 - impregnate <--> impregnable <--> pregnable
 - impute <--> depute <--> dispute <--> disputatious <--> putative
 - inch <--> itch
@@ -513,7 +516,7 @@
 - incredulous <--> incredible
 - industrious <--> industry
 - ingrate <--> ingratitude <--> ingratiate
-- iniquity <--> inanity
+- iniquity <--> inanity <--> iniquitous
 - innate <--> natal
 - innuendo
 - inculpate <--> inoculate <--> inculcate
@@ -525,7 +528,7 @@
 - invest <--> investiture <--> divest <--> divestiture
 - inveterate <--> invertebrate <--> venerate
 - invidious <--> insidious
-- irritate <--> irrigate <--> irate
+- irritate <--> irrigate <--> irate <--> ire
 - itinerant <--> itinerary
 
 ## J
@@ -699,7 +702,7 @@
 - plutocracy
 - pock <--> poke
 - poll <--> pollen <--> pollinate
-- ponderous <--> ponder
+- ponderous <--> ponder <--> imponderable <--> preponderate
 - poppy <--> pop <--> poop
 - portfolio
 - portion <--> potion
@@ -727,6 +730,7 @@
 - proscribe <--> prescribe
 - prognosticate
 - progenitor <--> primogenitor
+- progression <--> progressive <--> egress <--> digression <--> regress
 - private <--> privation
 - primacy <--> primate <--> prim <--> primp 
 - probe <--> prod <--> pod <--> prop <--> propitiate <--> propitious
@@ -768,7 +772,7 @@
 - rampage <--> rampart
 - random <--> ransom <--> bosom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> ravenous <--> unravel
-- react <--> reactionary
+- react <--> reactionary <--> re-enact 
 - recant <--> incant
 - raconteur <--> rancor <--> rancid
 - recrudesce
@@ -864,6 +868,7 @@
 - shriek
 - shuttle <--> shutter <--> shudder
 - silver <--> sliver
+- significant <--> insignificant
 - simulacrum
 - single <--> shingle <--> singe
 - sinuous <--> sinister <--> sin
@@ -931,6 +936,7 @@
 - supercilious
 - superfluous <--> superficial
 - supplant <---> suppliant
+- squeal <--> squeak
 
 ## T
 - tackle <--> tickle

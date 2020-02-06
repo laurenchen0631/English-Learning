@@ -237,6 +237,29 @@
 	3. **The largest angle is always opposite the longest side. The smallest angle is always opposite the shortest side.**
 	4. Inequality theorem: in any triangle, **the sum of any two sides must be greater than (not equal) the third side.**
 	5. By inequality theorem: **P - Q < third side < P + Q** (P, Q is the lengths of other two sides)
+- Isosceles Triangle and Equilateral Triangle
+	- **Isosceles**: a triangle in which two sides are equal
+		- It would have equal angles opposite the equal sides.
+		- If a triangle has two equal angles, it must be isosceles.
+	- **Equilateral**: three equal sides and three equal angles.
+		- All angles are 60 degrees.
+	- 4 special lines
+		1. Altitude: a line goes through the vertex and is perpendicular to the opposite "side". The point where it intersects the side usually is not the midpoint of the opposite line.
+		2. Perpendicular bisector: not pass through the opposite vertex at all.
+		3. Median: A line from a vertex to the midpoint of the opposite side. It does not divide the angle into half.
+		4. Angle bisector: a line divide the angle in half, but it doesn't divide the opposite side into half.
+- Right Triangle
+	- Legs: the two side that meet at the right angle
+	- Hypotenuse: the side opposite the right angle. It is always the longest side.
+	- **Pythagorean theorem**: a^2 + b^2 = c^2
+		- A right triangle can satiate this theorem.
+		- If the theorem works for a triangle, the triangle must be a right triangle.
+	- **Common Pythagorean triplet**
+		- {3,4,5}
+		- **{1,√3,2}: {30deg, 60deg, 90deg}**
+		- {5,12,13}
+		- {7,24,25}
+		- {8,15,17}
 
 
 ## Problem Solving Strategy

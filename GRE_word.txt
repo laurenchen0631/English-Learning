@@ -435,6 +435,7 @@
     - blazon (n)紋章/裝飾 (v)印製/精確描繪, 宣揚/誇示 = emblazon = adorn <--> efface
     - bleat (v)咩咩叫, 哭訴/抱怨 (n)咩咩聲, 顫抖可憐的聲音, 抱怨
     - bleed (v)出血/流血, 抽血, 榨取(金錢或資源), 放氣, [into]干擾 = interfere
+    - blindfold (n)眼罩 (v)蒙住(眼睛) (adj)被蒙住眼睛的 (adv)盲目地, 輕易地
     - blip (n)光點, 暫時的改變/臨時的變化
     - blister (n)皮膚上的水泡, 水泡/氣泡 (v)(使)起水泡或氣泡
     - blistering (adj)(溫度)極高的, 憤怒的/猛烈的(批評), 極快的/驚人的 = fast = impressive
@@ -904,6 +905,7 @@
     - conical (adj)圓錐形的
     - cordon (n)封鎖線, 飛簷層 (v)[off]封鎖隔離/設置警戒線將…圍起
     - condor (n)兀鷹
+    - copse (n)小灌木林
     - cork (n)軟木, 木栓層, 軟木塞, 釣魚用的軟木浮子 (v)用軟木塞塞住, 用軟木炭塗, 用軟木填塞(球棒)
     - corkscrew (n)拔塞鑽/開瓶器 (v)使作螺旋式移動
     - corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
@@ -1105,6 +1107,7 @@
     - /ˈdɒdʒi/ dodgy (adj)危險的 = dangerous, 品質不好的
     - doe (n)雌鹿, 雌兔/雌鼠/雌雪貂/雌袋鼠
     - doldrums (n)停滯/意志消沉, 赤道無風帶
+    - dole (n)賑濟物/施捨物, 命運/宿命 (v)[out]撥出/分給
     - dolt (n)笨蛋 <-- dull
     - don (v)戴上/穿上 = wear = put on 
     - doodle (v)亂畫 (n)塗鴉
@@ -1154,11 +1157,11 @@
     - dude (n)男人/傢伙, 花花公子 = dandy, 城裡人 (v)盛裝打扮
     - dullard (n)笨蛋
     - dump (n)垃圾場, 垃圾堆, 軍需品儲藏處, 髒亂的地方/下流場所 (v)傾倒/丟棄, 傾銷(到外國)
-    - dun (adj)暗褐色的, 黑的, 暗褐色, 催討 (n)蜉蝣幼蟲, 催討
     - dust (n)灰塵/粉塵, 遺骸, 撣 (v)撣去/掃去, 使佈滿粉塵/撒農藥, 打/殺
     - dusky (adj)黝黑的, 微暗的/暗淡的
     - /ˈdʌlsɪt/ dulcet (adj)柔和動聽的/輕柔悅耳的 = mellifluous = euphonious <|> mulct
     - dummy (n)假人, 腹語娃娃, 仿製品, 樣品/模型 = prototype = mock-up, 空包彈 = blank round, 假傳球, 傻瓜 (v)假傳球, 做樣品
+    - dun (adj)暗褐色的, 黑的, 暗褐色, 催討 (n)蜉蝣幼蟲, 催討
     - dune (n)沙丘 = mound
     - dung (n)糞/動物的排泄物 = manure = scats (v)施糞肥於, 排泄 = defecate
 
@@ -1683,7 +1686,6 @@
     * goose -> geese (n)鵝, [非]傻瓜/呆頭鵝, 長柄熨斗 (mn)鵝肉 (v)[非]戳..的屁股, 使改善 = invigorate
     ** gorge (n)峽谷/山谷, 胃裡的食物, 後門, 冰河 (v)[on]狼吞虎嚥地吃
     *** /ˈɡɔːdʒəs/ gorgeous (adj)美的/吸引人的 = beautiful = attractive, [非]令人愉悅的 = enjoyable
-    * gradient (n)斜坡, 坡度, 梯度
     * grain (n)穀粒, 一粒, 一丁點 = fig, 格令(0.0648克), 紋理 (v)成粒狀, 漆成木紋或石紋狀, (皮革)去除毛髮, 餵(馬)
     ** grease (n)潤滑油, 動物脂 (v)用油脂塗/上油 = lubricate = baste = anoint
     * grapple (n/v)扭打/格鬥 = wrestle (n)抓勾 (v)抓住 = seize, [with]努力克服/盡力解決 = struggle = deal
@@ -1922,6 +1924,7 @@
     + homiletic (adj)布道的, 說教的 --> homiletics (n)講道術/說教術
     + hoodwink (v)欺騙 = trick = deceive = dupe = hoax = delude
     + hospitable (adj)好客的, 宜人的/宜居的 <--> inhospitable
+    - hospice (n)臨終安養院
     + hound (n)獵犬, [非]卑劣的人, 白斑角鯊 = dogfish (v)煩擾/騷擾 = harass = persecute = pursue
     + /ˈhɒstʌɪl/ hostile (adj)有敵意的 = unfriendly = inimical, 對立的 = antagonistic <|> /stʌɪl/ style
     + hostility (n)敵意/敵視 = enmity = antagonism = unfriendliness = animus = animosity, [hostilities]戰爭
@@ -1995,6 +1998,7 @@
     - /hɛː/ hare (n)野兔 (v)飛奔
     - harem (n)閨房, 後宮/妻妾
     - harmony (n)相符/一致, 協調/勻稱
+    - harmonium (n)小風琴
     - /ˈhɑːnəs/ harness (n)馬具/挽具, 降落傘背帶/保險帶/安全帶 (v)給……上挽具, 控制/利用
     - harp (n)豎琴 (v)[on]反覆訴說/嘮叨
     - harpoon (n)魚叉 (v)用魚叉叉
@@ -2052,7 +2056,7 @@
     - hipster (n)[非]趕時髦的人, 低腰長褲 (adj)低腰的
     - hitch (v)急拉/急推, 搭便車, 拴住/套住 = fasten = tether, 控制 = harness (n)暫時問題/故障, 索結, 搭便車, 役期
     - hitch-hiking (n)搭便車
-    - hive (n)蜂房/蜂巢 = beehive, 蜂群, 繁忙的地方 (v)使(蜂)入蜂巢
+    - hive (n)蜂房/蜂巢 = beehive, 蜂群, 繁忙的地方 (v)使(蜂)入蜂巢, [off](通常指透過出售)分離(某部分)
     - hoarse (adj)嘶啞的/粗啞的 = raucous <|> coarse
     - hobnob (v)(要人或名人)親近
     - hobo (n)流浪漢 = tramp = vagrant
@@ -2632,6 +2636,7 @@
     ** mince (v)切碎/剁碎, 裝腔作勢地小步快走
     * mingle (v)使混合, 往來 = participate = associate
     * minister (n)部長/大臣, 牧師, 公使/外交使節 (v)[to]照料/伺候 = cater, 執行牧師職務
+    * ministration (n)幫助/照料, 服侍
     ** mint (n)薄荷, 薄荷味, 薄荷糖, 造幣廠, 巨額 (v)鑄造(錢幣), 創造 (adj)嶄新的
     *** moist (adj)濕潤的 = damp = humid --> moisture (mn)潮氣/濕氣
     - moisturizer (n)潤膚膏/潤膚露/潤膚霜
@@ -4331,6 +4336,7 @@
     - squall (n)風暴, 大聲啼哭/號哭 (v)(嬰兒)大聲啼哭/號哭
     - square (n)正方形, 方形棋盤, 方巾 = square scarf, 廣場, 街區, 練兵場, 平方, 直角尺, [分]古板守舊的人/拘謹的人, 豐盛的一餐 = square meal (adj)正方形的, 結實的/魁梧的, 平方的, 成直角的, 正的/水平的, 整齊的, 同意的, 公平的, 互不相欠的, 平局的, 古板守舊的 (adv)筆直地 = directly = straight, [非]真誠地 (v)成正方形, 使成平方, 使一致/同意 = reconcile, 挺起(肩膀)
     - squat (v)蹲, 非法佔據 = rattle (n)蹲, 被非法佔據的建築, 非法佔據 (adj)矮胖的
+    - squeal (n)尖叫聲 (v)發出長而尖的叫聲, [非][on]告密/洩密
     - /skwiːk/ squeak (n)吱吱聲 (v)吱吱叫, [非]告密, [非]勉強通過/僥倖成功
     - squeeze (v)擠/壓/擰, 擠進/擠過, [up]擠出空間, [in]擠出時間, 勉強得到, [非]勒索/壓榨, 使離開, 使陷入財務困境 (n)擠/壓, 緊抱, 少量的榨汁, 拮据, 敲詐的錢, [非]男朋友/女朋友
     - squint (v)眯著眼看, 患斜視 (n)斜眼, 一瞥
@@ -4372,6 +4378,7 @@
     - stoner (n)吸食了大量大麻的人
     - stoop (v)屈身/彎腰 = bend, 彎腰駝背, 屈尊/墮落, (鳥)俯衝下撲 = swoop down (n)彎腰/駝背, 俯衝下撲
     - stopgap (n)權宜之計 = makeshift
+    - stopper (n)塞子, 停止者/制止者 (v)用塞子塞住
     - stove (n)爐灶, 火爐/暖爐 (v)消毒(房屋) = fumigate = disinfect, 加熱
     - stave (n)木柱, 桶的側板, 棍/棒, 詩節/詩句 = verse (v)[in]擊穿, [off]避開/延緩(危險) = avert = delay
     - stowaway (n)偷渡者

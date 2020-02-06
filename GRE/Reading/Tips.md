@@ -48,3 +48,41 @@
 - True, but in a different part of the passage
 - True/commonsensical in the real world, but not found in the passage.
 - Everything is right except for that ony fishy thing (rotten spot)
+- Others
+	- Too general/vague
+	- Too specific
+	- Mentions something that isn't in the passage
+
+## Primary Purpose
+- Primary purpose usually consists of first sentence of the passage and the last sentence.
+- Write primary in your tongue, not having the answers mislead your thinking.  
+
+## Inference Question
+- Common keys:
+	- the author **implies** that ...
+	- It can be **inferred** from the passage ....
+	- The passage **most supports** ...
+	- The author would **most likely** ...
+	- What position would the author **probably** take regarding ...
+- Inference on the GRE have a very close connection to what's actually stated in the passage.
+- Wrong answers
+	- **A paraphrase or a stated fact** is not a valid inference.
+	- Common sense or outside knowledge, which is not included in the passage, is not a valid inference.
+
+## Detail Question
+- May give you a specific line reference or a specific word(s).
+- Strategies
+	1. Read entire answer choice
+	2. Backup with information in the passage
+	3. Put in your own words.
+
+## The Vocab-in-context Question
+- Treat like a Text Completion
+	- Come up with your own word
+- **Resist the urge to plug answer choices back into the paragraph.**
+- Answer must always be a dictionary definition of the word. 
+
+## Select the Sentence Question
+- Require you to understand the structure.
+- Most of times there are only two sentences that could be the answer.
+- Be careful to distinguish the sentence that mentions the topic from the sentence that actually answers the questions. (Read the question.)

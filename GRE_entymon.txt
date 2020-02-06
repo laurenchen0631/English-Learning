@@ -313,7 +313,9 @@
 		+ inalienable, unalienable
 		+ /ˈɔːltə/ alter (v)改變, 閹割 = castrate <|> /ˈʌtə/ utter <|> /ˈɔːltə/ altar
 		++ alternative (adj)供選擇的/替代的, 互斥的 = mutually exclusive, 非傳統的/非主流的 (n)選擇 = choice
+		- alternatively (adv)或者
 		** alternate (v)輪流/交替 (adj)間隔的, 輪流的/交替的, 替代的 = alternative (n)代理人/代替者
+		- alternately (adv)交替地/輪流地, 或者 = alternatively
 		- altercate (v)[古]爭論/口角 --> altercation (n)爭吵/口角 = bickering = brawl = quarrel
 
 	alt, alti 高 = high
@@ -434,6 +436,7 @@
 	arm, armi 武裝/武器
 		- army (n)軍隊, 大群/大批
 		- armada (n)艦隊 <-- arm + ada 艦隊
+		- armamentarium (n)醫療設備
 		- armor (n)鎧甲, 裝甲板 = armor plate, 裝甲車, 甲殼 (v)為……提供防禦
 		- armory (n)軍械庫 = arsenal, 兵工廠, 寶庫/錦囊, 紋章 = heraldry
 		* armorial (adj)紋章的/徽章的 (n)紋章書
@@ -446,6 +449,7 @@
 	arthr, artic 連結/關節/接合 = joint
 		- /ɑːˈθrʌɪtɪs/ arthritis (n)關節炎
 		- arthropod
+		- arthroscopic (adj)關節鏡的
 		++ articulate (adj)口齒伶俐的 = coherent, 連接的/有關節相連的 (v)清楚表達 = enunciate, 接合 = connect
 		++ articulation (mn)清楚的發音, 連接/接合 (n)關節
 		++ inarticulate (adj)口齒不清的/不擅辭令的, 說不出話來的, 難以言喻的 = ineffable, 無關節的
@@ -1585,7 +1589,7 @@
 			+ declivity
 			- decrepit
 			+ decry (v)公開譴責/抨擊 = denounce = censure = condemn = excoriate <|> decay <|> descry
-			- deduce
+			- deduce
 			+ deduct --> deductive --> deduction
 			+++ default (n/v)未履行責任/拖欠債務 (v)[to]還原(預設值) (n)預設值, 標準 = standard <-- de + fault 錯誤 = fail
 			+ defend --> defense, defence
@@ -1644,7 +1648,7 @@
 			* devout
 
 		3. 離去/去掉/不 = away == dis
-			+ /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt  <|> debouch <-- de + bauch 責任 = duty, work
+			+ /dɪˈbɔːtʃ/ debauch (v/n)放蕩/墮落 = corrupt <|> debouch <-- de + bauch 責任 = duty, work
 			+ debauchery (n)糜爛/沉湎酒色
 			- /dɪˈbaʊtʃ/ debouch (v)進入(開闊地方) <-- de + bouch 嘴 = mouth
 			- decouple (v)分離 = separate = disengage, (電子)去耦, 減低或吸收(核子爆炸之)震波
@@ -1893,7 +1897,7 @@
 		- decimal (adj)十進位的, 小數的 (n)小數
 
 	dic, dict, dit 說話/命令/要求 = say
-		+ abdicate (v)退位, 放棄(職責) = 
+		+ abdicate (v)退位, 放棄(職責)
 		- addict (n)成癮者, [非]上癮
 		- benediction (n)祝福 = benison = invocation, 受祝福者
 		+++ condition (n)狀況/狀態, 環境, 條件/前提 (v)決定/影響, 訓練/使習慣於, 使處於良好狀態, 用護髮素, 設立先決條件
@@ -2959,7 +2963,6 @@
 	grav, griev 重/沈重 = heavy
 		* aggravate (v)加重/惡化 = exacerbate
 		++ grave (adj)嚴峻的/嚴重的 = serious, 嚴肅的 = solemn = grim (n)墓穴, 死亡
-		- /ˈɡrav(ə)l/ gravel (n)砂礫/碎石, 砂礫層, [醫]尿砂 (v)用碎石鋪, 使氣惱
 		- gravitas (n)莊嚴的舉止/莊重
 		- gravity (n)重力, 嚴重性/危險性, 嚴肅/莊嚴
 		- gravitation (n)引力/吸引 --> gravitational (adj)引力的/重力的
@@ -3045,7 +3048,7 @@
 	grad 步 = step
 		- grade (n)級, 成績/評分, 小學 (v)分等級, (顏色等)漸次變化 --> gradation (n)漸變, 階段/等級
     	- graduate (v)畢業/取得資格, 把……分等級, 發展 --> graduated (adj)按等級分的, 畢業的
-		- /ˈɡreɪdɪənt/ gradient (n)斜坡, 坡度, 梯度
+		* gradient (n)斜坡, 坡度, 梯度
 
 	gee, geo 地球 = earth
 		++ apogee (n)高峰/頂點 = zenith, 遠地點 <--> perigee
@@ -3324,7 +3327,7 @@
 	in, ig, il, im, ir
 		1. 不 == un
 			+ ignoble (adj)卑鄙的/可恥的 = mean = dishonorable <--> noble, 地位低下的 = base
-			- ignominy
+			+ ignominy --> ignominious
 			- ignore
 			- ignorant --> ignorance <-- ig + gnor + ant
 			- illegal (adj)違法的 --> illegality (n)違法 <- il + legal
@@ -3341,7 +3344,8 @@
 			+ immune --> immunity --> immunize
 			+ immutable
 			- /ɪmˈpalpəb(ə)l/ impalpable (adj)無法碰觸的/無形的, 不易理解的 <-- im + palpable
-			+ /ɪmˈpɑːʃ(ə)l/ impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid --> impartiality (n)公平/公正 <-- im + partial
+			+ /ɪmˈpɑːʃ(ə)l/ impartial (adj)公正的/無私的 = disinterested = evenhanded = fair = just = indifferent = candid 
+			+ impartiality (n)公平/公正 <-- im + partial
 			+ /amˈpɑːs/ impasse (n)僵局 = deadlock, 死路
 			+ impassive --> impassivity
 			+ impeccable (adj)無懈可擊的/無缺點的 = faultless = flawless = irreproachable <|> impecunious
@@ -3369,11 +3373,13 @@
 			+ improbable (adj)不可能的
 			- impromptu (ADJ/ADV)即席的/即興的 = extempore <-- im + prompt + u
 			+ improvident (adj)無遠見的 <-- im + provident
+			+ improvidence
 			+ improvise --> improvised --> improvisation --> improvisational
 			+ imprudent (adj)輕率的 = incautious = rash = injudicious <|> impudent
-			+ impudent (adj)無禮的 = impertinent = insolent --> impudence (n)傲慢無禮 = impertinence = effrontery <-- im + pud 羞愧 = shame + ent
+			+ impudent (adj)無禮的 = impertinent = insolent
+			+ impudence (n)傲慢無禮 = impertinence = effrontery <-- im + pud 羞愧 = shame + ent
 			- inpuissance (n)無力/虛弱
-			- impunity
+			- impunity (n)缺乏遠見
 			** inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
 			+ inadequate (adj)不足的/不夠格的 = inept = unsuitable
 			+ inadvertent --> inadvertently
@@ -3390,7 +3396,8 @@
 			- incompetent (adj)無能力的/不能勝任的 = impotent, 無行為能力的 (n)無行為能力人 <-- in + competent
 			- incomplete (adj)不完全的/不完整的, 未完成的
 			+ inconclusive (adj)非決定性的/不確定的
-			+ incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant --> incongruity (n)不協調/不相稱 <-- in + congruity
+			+ incongruous (adj)不協調的/不一致的 = inappropriate = unbecoming = inconsistent = inconsonant 
+			+ incongruity (n)不協調/不相稱 <-- in + congruity
 			+ inconsolable (adj)無法安慰的
 			- inconsonance (mn)不協調/不和諧 = disagreement
 			+ inconsequential (adj)不重要的 = trivial = frivolous = futile
@@ -3602,7 +3609,7 @@
 			+ industrious (adj)勤勉的/勤勞的 = diligent = hard-working <-- industry
 			- inebriate (v)使醉 = intoxicate (n)酒鬼/醉漢 = drunkard (adj)酒醉的
 			- infatuate (v)使熱戀/使衝昏頭腦 --> infatuation (n)迷戀 <-- in + fatuous + ate
-			- infect --> infection
+			- infect --> infection --> infectious
 			+ infer
 			- infest (v)大批出沒/侵擾 <|> infect <-- in + fest 攻擊 = assail
 			- /ˈɪnfɪltreɪt/ infiltrate (v)滲透/滲入 <-- in + filtr 過濾 = filter + ate
@@ -4754,6 +4761,7 @@
 	nul, null 消除 = no, none, not any
 		+ annul (v)宣告..無效 = abolish = abrogate = quash = repeal = rescind = revoke <|> annals
 		+ nullify (v)廢止 = negate = invalidate, 使無價值/使無效 = cancel out
+		- null (adj)無法律效力的, 零的, 空洞的 (n)零
 
 	nigr, negr 黑 = black
 		+ denigrate (v)誹謗/污衊 = sully = defame = slander = calumniate = slur = disparage
@@ -4887,6 +4895,7 @@
 		- outflow (n)外流
 		* outgoing (adj)友好的/外向的 = friendly = sociable = gregarious, 外出的, 即將離職的 (n)出外
 		- outgrowth (n)長出物, 長出, 自然發展/自然結果 = consequence = ramification
+		- outgun (v)火力壓過/武器多於, 力量超過/比......有優勢
 		+ outland (n)遙遠的地區 (adj)遙遠的, 外國的 --> outlandish (adj)稀奇古怪的/不尋常的 = peculiar = strange = unusual = bizarre
 		* outlaw (n)逃犯/罪犯, 被剝奪法律權益者 (v)宣布……為不合法, 剝奪……的法律保護 = proscribe
 		- outlay (n)花費 = expense
@@ -4896,6 +4905,7 @@
 		- outlive (v)比...活得更久 
 		- outlook (n)觀點/看法 = point of view, 景色, 前景 = prospect
 		- outmaneuver (v)以機動性勝過, 以計謀勝過
+		- outmatch (v)勝過
 		+ outmoded (adj)老式的/過時的 = obsolete = old-fashioned = outdated
 		- outermost (adj)最遠的/離中心最遠的 (adv)在最外
 		- outnumber (v)在數量上超過
@@ -5460,7 +5470,7 @@
 		+ compendious (adj)扼要的/簡明的/簡潔的 = compact = concise = breif = laconic = terse = succinct
 		+ expend (v)花費/耗費 = consume --> expense (n)支出/開支, 花錢的東西/開銷
 		+ expendable (adj)消耗性的, 無足輕重的/可消耗的
-		+++ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除 -->
+		+++ dispense (v)分發/提供 = allot = distribute, 配藥/開藥, [with]擺脫/除去, 豁免/免除
 		+++ dispensation (n)免除/豁免, 分配, 某個時期的政治或宗教制度
 		* dispensable (adj)可有可無的/不必要的 = dispensable <--> indispensable
 		- dispensary (n)配藥室, 診療所, 醫療用大麻販售處
@@ -5931,7 +5941,8 @@
 		+++ depress (v)使沮喪 = deject = dispirit, 使蕭條/使減少, 按下/壓下
 		+++ depression (n)沮喪/憂鬱 = despondency, 憂鬱症, 蕭條, 按下/壓下, 凹陷處, 低氣壓區 <|> distress
 		- depressed (adj)沮喪的, 患憂鬱症的, 蕭條的, 凹陷的 <--> bulged
-		+ impress (v)使欽佩, 壓印, [on]使銘記 (n)壓印, 印記, 特質 = characteristic --> impression (n)想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
+		+ impress (v)使欽佩, 壓印, [on]使銘記 (n)壓印, 印記, 特質 = characteristic 
+		+ impression (n)想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
 		- impressionable (adj)易受影響的
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
 		++ press (v)按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
@@ -6464,7 +6475,7 @@
 		- reliquary (n)聖骨盒/聖物箱 = shrine
 
 	riv 河流 = stream
-		+ derive (v)[sth from]得到, [from]源自 = arise from = originate, [數]導出  <|> deride 
+		+ derive (v)[sth from]得到, [from]源自 = arise from = originate, [數]導出 <|> deride 
 		++ derivative (adj)缺乏獨創性的 = secondary, [of]源自..的, [金]衍生性的 (n)衍生物/衍生字, 衍生性金融商品
 		* derivation (n)來歷/起源, 詞源, 起源, 衍生物 = derivative, [數]推導
 		- river (n)河流, 巨流/大量
@@ -6826,9 +6837,11 @@
 		- spectrogram (n)光譜圖
 		+++ speculate (v)推測/猜想 = infer = conjecture = surmise = guess, 投機 --> speculation (n)推測/猜想, 投機
 		+ speculative (adj)推測的, 投機的 = risky <|> spectacular
-		** spite (n)惡意 = spleen (v)存心使苦惱/故意傷害 --> spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
+		** spite (n)惡意 = spleen (v)存心使苦惱/故意傷害 
+		** spiteful (adj)惡意的 = malicious = malevolent = venomous = vicious = vindictive = wanton
 		+ suspect (v)察覺, 懷疑 (n)嫌疑犯 (adj)不可信的/靠不住的
-		- suspicion (n)懷疑, 嫌疑, 不信任 = distrust, 一點 --> suspicious (adj)懷疑的 = leery = wary, 可疑的, 有嫌疑的
+		- suspicion (n)懷疑, 嫌疑, 不信任 = distrust, 一點 
+		- suspicious (adj)懷疑的 = leery = wary, 可疑的, 有嫌疑的
 
 	sper
 		1. 散開 = scatter, sprinkle
