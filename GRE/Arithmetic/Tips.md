@@ -210,9 +210,9 @@
 	- However, if the question say √36, it must have only one answer, 6.
 	- √x^2 = |x|
 	- Rough Approximation
-		- √2 = 1.4(14)
-		- √3 = 1.7
-		- √5 = 2.2
+		- **√2 = 1.4**
+		- **√3 = 1.7**
+		- **√5 = 2.2**
 	- If b > 1
 		- b^2 > b
 		- √b < b
@@ -243,6 +243,8 @@
 		- If a triangle has two equal angles, it must be isosceles.
 	- **Equilateral**: three equal sides and three equal angles.
 		- All angles are 60 degrees.
+		- **The area of an equilateral triangle is (√3*S^2)/4, S is the length of the side**
+			- Derived by {30deg, 60deg, 90deg} feature of right triangle
 	- 4 special lines
 		1. Altitude: a line goes through the vertex and is perpendicular to the opposite "side". The point where it intersects the side usually is not the midpoint of the opposite line.
 		2. Perpendicular bisector: not pass through the opposite vertex at all.
@@ -255,12 +257,62 @@
 		- A right triangle can satiate this theorem.
 		- If the theorem works for a triangle, the triangle must be a right triangle.
 	- **Common Pythagorean triplet**
+		- **{1,1,√2}: {45deg, 45deg, 90deg}**
 		- {3,4,5}
-		- **{1,√3,2}: {30deg, 60deg, 90deg}**
+		- **{1,√3,2}: {30deg, 60deg, 90deg} proofed by equilateral triangles**
 		- {5,12,13}
 		- {7,24,25}
 		- {8,15,17}
+- Similar triangle
+	- If two triangle has the same angle.
+	- All corresponding sides of triangles share a common scale factor k.
+	- When the length is multiplied by k, and then the area is multiplied by k^2  
 
+## Quadrilaterals
+- The sum of four interior angles is 360deg.
+- Parallelogram
+	- Properties
+		1. Opposite sides are parallel
+		2. Opposite sides are equal
+		3. Opposite angles are equal
+		4. The diagonals bisect each other.
+- Rhombus
+	- It is equilateral quadrilateral. (Diamond Shape)
+	- Properties beside of Parallelogram
+		- All four sides are equal
+		- Diagonals are perpendicular
+- Rectangle
+	- Quadrilaterals with four 90deg angles
+	- Properties beside of Parallelogram
+		- All four angles are equal to 90deg
+		- Diagonals are congruent, same length.
+- Square
+	- All properties of Rhombus and Rectangle
+- Trapezoid
+	- A trapezoid has exactly one pair of parallel sides (bases).
+	- Two angles on a leg are supplementary.
+	- Area: (b1+b2)*h/2
+
+## Polygon
+- Names: pentagon, hexagon, and octagon
+- Diagonals: a vertex has (n - 3) diagonals, n is the number of sides
+	- Pentagon: 5 diagonals
+	- Hexagon: 9 diagonals
+- Angles: 180 * (n-2), n is the number of sides
+- Regular polygon
+	- Every side has the same length.
+	- Every angle is identical.
+
+## Circle
+- Features
+	- Radius/radii (r): a segment from the center to any point on the circle. 
+	- Chord: a segment from two endpoint on the circle. The longest one must be diameter.
+	- Diameter (d): A chord pass through the center of the circle. d = 2r
+	- Circumference: The length around the whole circle. c = dπ = 2rπ
+	- π: an irrational number, equals to 3.14159......, or approximate 3.14 or 22/7
+	- Arc: a curved line between two points on the circle
+	- Area: a = πr^2
+- Primary strategy for circle problems: **find the radius**
 
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.

@@ -51,6 +51,7 @@
 - awry <--> wry <--> wary <--> weary <--> askew 
 - agonize
 - alternately <--> alternatively
+- ablate 
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -134,7 +135,7 @@
 - coarse <--> course <--> hoarse
 - coax <--> hoax
 - coddle <--> cobble <--> clobber <--> gobble <--> hobble <--> pebble
-- collate <--> collateral
+- collate <--> collateral <--> lateral <--> unilateral
 - colloquial <--> colloquium
 - collusion <--> collision
 - comb <--> catacomb
@@ -157,7 +158,7 @@
 - conflagration <--> deflagrate
 - conflate <--> deflate <--> flatulent
 - congenial <--> congenital <--> genital
-- conjecture <--> conjure <--> conjugal
+- conjecture <--> conjure <--> conjugal <--> subjugate
 - consol <--> consul
 - consort <--> consortium <--> comport <--> deport
 - constituent <--> constituency <--> constitution <--> constitutional
@@ -491,7 +492,6 @@
 - indict <--> indicate <--> indicative <--> interdict <--> indicia
 - induct <--> induction <--> induce <--> inducement <--> inductive
 - inkling
-- invective
 - inveigh <--> inveigle <--> invective
 - ingenious <--> ingenuous <--> ingenuity <--> disingenuous <--> indigenous <--> indignant <--> indigent <--> indignation <--> indignity
 - intellect <--> intellectual <--> intelligent <--> intelligence <--> intelligible
@@ -506,7 +506,6 @@
 - impregnate <--> impregnable <--> pregnable
 - impute <--> depute <--> dispute <--> disputatious <--> putative
 - inch <--> itch
-- inductive <--> induce <--> inducement
 - infect <--> inflect
 - infer <--> refer <--> referendum <--> referee <--> referral
 - inflammable <--> nonflammable <--> inflammatory
@@ -539,21 +538,22 @@
 - junta
 
 ## L
-- lacerate <--> macerate
+- lacerate <--> macerate <--> larceny
 - languid <--> languish
 - lascivious <--> luscious
+- latent <--> patent
 - lava <--> larva
 - leave <--> leaf <--> leaven
 - lease <--> leash
-- leer <--> leery
+- leer <--> leery <--> leeway
 - lesion <--> liaison
 - liable <--> liability
 - lair <--> liar
 - liberal <--> libel <--> liberty <--> liberate <--> libertine
 - lie <--> lay
 - limb <--> limber <--> limp
-- lime <--> limestone
 - limpid <--> lipid
+- lime <--> limestone
 - impress <--> imprint
 - line <--> lien <--> linen
 - list <--> listless
@@ -629,9 +629,10 @@
 - nuance <--> nuisance
 
 ## O
-- obligate <--> oblige <--> obliging
+- obligate <--> obligation <--> oblige <--> obliging
 - oblivious <--> obvious
-- object --> objection <--> objective
+- obloquy <--> soliloquy
+- object --> objection <--> objective <--> subject <--> subjection <--> subjective
 - objurgate <--> obdurate
 - obnoxious <--> innocuous <--> noxious
 - obstreperous
@@ -644,7 +645,7 @@
 - officious <--> official
 - onerous <--> exonerate
 - onset <--> outset
-- opaque <--> opacity
+- opaque <--> opacity <--> translucent <--> transparent
 - opprobrium
 - orchard <--> orchid
 - ordain <--> ordeal <--> ordinance <--> ordnance
@@ -671,7 +672,6 @@
 - passive <--> impassive <--> passionate <--> impassioned
 - pasty <--> pastel <--> pasteurize <--> parse
 - pastoral <--> pastor <--> pasture
-- patent <--> latent
 - pawn <--> palm <--> qualm
 - peach <--> preach <--> breach <--> impeach
 - peak <--> peck　<--> perk <--> perky <--> pesky
@@ -682,6 +682,7 @@
 - perceive <--> percept <--> precept <--> perceptive <--> percipient <--> precipitous <--> precipitate <--> precipice <--> incipient <--> sapient
 - peremptory <--> preemptive
 - perfidy
+- perjure <--> perjury <--> prejudge <--> prejudice
 - peripatetic <--> periphrasis
 - perpetrate <--> perpetuate 
 - pernicious
@@ -778,6 +779,7 @@
 - recrudesce
 - redoubtable <--> redouble
 - refractory <--> refract
+- relate <--> relative
 - rapprochement <--> reapproach
 - rational <--> rationale
 - rattle <--> prattle
@@ -791,6 +793,7 @@
 - recrimination <--> incrimination
 - reek
 - reflective <--> reflexive <--> reflect <--> refection <--> refectory
+- relinquish
 - remiss <--> remit <--> remission
 - remonstrate <--> demonstrative
 - renaissance <--> reconnaissance <--> reconnoiter
@@ -839,7 +842,7 @@
 - scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
 - seam <--> seamy <--> sear <--> sere
-- sedate <--> senate
+- sedate <--> senate <--> sedition
 - seditious <--> sedulous
 - scion <--> science <--> conscience <--> conscionable <--> unconscionable <--> conscious <--> conscientious
 - scope <--> scoop
@@ -1001,6 +1004,7 @@
 - veneer <--> veer
 - vessel <--> vassal
 - venal <--> venial <--> vernal <--> vandal
+- ventriloquist (n)腹語表演者
 - veracious <--> voracious
 - veritable <--> verifiable1
 - vicarious

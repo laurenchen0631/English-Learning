@@ -3757,7 +3757,8 @@
 		- insula (n)島
 		+ /ˈɪnsjʊlə/ insular (adj)島嶼的/海島的, 心胸狹窄的 = petty = myopic = narrow-minded, 孤立的/與世隔絕的 = detached = isolated = solitary
 		+ /ˌɪnsjʊˈlarɪti/ insularity (n)島國, 孤立 = isolation, 偏狹/心胸狹窄 = narrow-mindedness
-		* /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate --> insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
+		* /ˈɪnsjʊleɪt/ insulate (v)使絕緣/使隔熱, 使免於不良的影響 <|> /ˈʌɪsəleɪt/ isolate
+		* insulation (n)隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 		- insulin (n)胰島素 <-- insul + in 素
 		- peninsula (n)半島 --> peninsular (adj)半島的 
 		- isolate (v)孤立/隔離
@@ -3782,7 +3783,8 @@
 		* /ɪɡˈnʌɪt/ ignite (v)點燃/燃燒 = kindle, 激起 --> ignition (n)著火/燃燒, 點火裝置
 
 	infer 下/低 = lower, under
-		* inferior (adj)低等的/下級的/較差的 = subordinate = mean = wretched --> inferiority (n)劣勢/劣等/下等 = stigma
+		* inferior (adj)低等的/下級的/較差的 = subordinate = mean = wretched 
+		* inferiority (n)劣勢/劣等/下等 = stigma
 		- inferno (n)火海, 地獄般的場所, 煉獄
 
 	it, itiner 走/旅行 = go, travel
@@ -3826,7 +3828,6 @@
 		- projection (n)凸出, 設計/規劃, 投擲/發射, 投影
 		- projector (n)投影機/電影放映機
 		- reject (v)拒絕, 拋棄
-		*** subject (adj)隸屬的/受支配的, 依賴..的/以..為條件的, 易於...的 = liable = prone (v)使蒙受/使遭到 (n)受支配的人, 實驗對象, 主題/題目, 話題, 科目/學科, 原因/緣由/理由, 主詞
 		+ subject (n)主題/話題, 研究對象, 科目/學科, 國民/臣民, 主詞 主體/主觀意識 (adj)臣服的/被征服的
 		+ subject to (v)易受...影響, 使蒙受/使經歷, 取決於/視…而定, 在..的管理之下, 使臣服 (adv)取決於
 		+ subjection (n)征服/制服/隸屬
@@ -3974,7 +3975,9 @@
 
 	len 軟 = soft
 		- lenis (adj)發音較不費力的(子音)
-		* lenient (adj)寬大的/仁慈的 = clement --> leniency (n)溫和/寬容
+		* lenient (adj)寬大的/仁慈的
+	    * /ˈliːnɪənt/ lenient (adj)(處罰或判決)寬容的/寬大的 = indulgent = permissive = clement
+		* leniency (n)溫和/寬容
 		- lento (adj/adv)(音樂)緩慢
 
 	leth 死亡 = death
@@ -6716,7 +6719,8 @@
 		- instant (adj)立即的, 速食的/即溶的, 迫切的 = urgent = pressing, 當月的 (n)現在, 瞬間/頃刻 = moment, 即溶咖啡
 		- /ˌɪnst(ə)nˈteɪnɪəs/ instantaneous (adj)瞬間的/即時的
 		- instate (v)任命/安置 = install = establish <--> reinstate
-		+ institute (v)建立/制定, 提出(訴訟), [宗]任命 = appoint (n)研究所/學院/協會 --> institution (n)組織, 公共團體/機構, 企業, 制度, 家喻戶曉的人物/習俗, 建立
+		+ institute (v)建立/制定, 提出(訴訟), [宗]任命 = appoint (n)研究所/學院/協會 
+		+ institution (n)組織, 公共團體/機構, 企業, 制度, 家喻戶曉的人物/習俗, 建立
 		- institutionalized (adj)制度化的/有組織的
 		** /ˈɪnstrʊm(ə)nt/ instrument (n)儀器/器具, 手段, 器械般的人, 樂器, 文書 (v)裝配 = equip
 		** instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的
@@ -6768,7 +6772,8 @@
 		+ constructive (adj)建設性的/有助益的, [法]推定的
 		- destruction (n)毀滅/消滅, 毀滅的原因
 		- infrastructure
-		+ instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform --> instructive (adj)有啟發性的
+		+ instruct (v)命令/吩咐 = tell = order, 教導/指導 = teach, 通知/告知 = inform
+		+ instructive (adj)有啟發性的
 		- instruction (n)命令/指示, 用法說明/操作指南 (mn)教學/教育
 		+ instructor (n)教練/指導者, 大學講師
 		- obstruct (v)阻塞/堵塞 = block = clog, 阻止/阻撓/妨礙 = prevent = hinder, 妨礙公務
@@ -7648,7 +7653,8 @@
 	tric, trig 複雜/迷惑 = perplex
 		- extricate (v)使擺脫/使脫離 = release --> extricable (adj)能擺脫的/可解救的 <--> inextricable
 		- inextricable (adj)分不開的, 無法擺脫的/無法逃離的
-		+ /ˈɪntrɪkət/ intricate (adj)錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty --> intricacy (mn)複雜/紛亂 --> intricacies (n)細節 = details
+		+ /ˈɪntrɪkət/ intricate (adj)錯綜複雜的/複雜難懂的 = sinuous = complicated = complex = convoluted = knotty 
+		+ intricacy (mn)複雜/紛亂 --> intricacies (n)細節 = details
 		+++ intrigue (v)策劃/密謀 = plot, 吸引 = captivate = attract = fascinate = enamor = enchant = entrance (n)神秘, 陰謀, 地下情 --> intriguing (adj)吸引人的 = fascinating
 		* trick (n)騙局/詭計/惡作劇, 訣竅/秘訣, 習慣/癖好 (v)欺騙 (adj)欺詐的, 脆弱的 --> trickery (mn)欺騙/欺詐 = chicanery
 
@@ -8113,7 +8119,8 @@
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
 		+ /ɪntəˈviːn/ intervene (v)干涉/介入, 介於中間 --> intervention (n)干涉/介入, 干預, 介入治療
-		+ invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design --> inventive (adj)有發明才能的 = ingenious --> inventiveness (n)創造力/創意 = creativity
+		+ invent (v)捏造/編造 = concoct = vamp = fabricate, 發明/創造 = create = design
+		* inventive (adj)有發明才能的 = ingenious --> inventiveness (n)創造力/創意 = creativity
 		- inventory (n)詳細目錄/存貨清單 (v)編制(目錄), 把……登入目錄
 		- reinvention (mn)重塑
 		+ prevent (v)防止/預防/阻止
