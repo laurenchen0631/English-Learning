@@ -52,6 +52,7 @@
 - agonize
 - alternately <--> alternatively
 - ablate 
+- amnesty
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -85,6 +86,7 @@
 - bristle <--> gristle
 - brusque <--> burlesque
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
+- band <--> bandy
 
 ## C
 - cabin <--> cabinet <--> cachinnate
@@ -99,7 +101,8 @@
 - capitulate <--> recapitulate <--> decapitation
 - captious <--> captive <--> capacious
 - carat <--> caret <--> carrot <--> carrion <--> karat
-- carcass <--> caress <--> careen <--> canvass
+- carcass <--> caress <--> careen
+- canvass <--> crevasse
 - caricature
 - carp <--> carpet <--> excerpt
 - carve <--> crave <--> craven
@@ -140,7 +143,7 @@
 - collusion <--> collision
 - comb <--> catacomb
 - command <--> commend <--> commandeer <--> commence <--> commerce
-- commitment <--> committal <--> committee <--> concomitant
+- commitment <--> committal <--> noncommittal <--> committee <--> concomitant <--> commission <--> commissary <--> commissioner
 - commute <--> commune
 - compass <--> compassion <--> encompass
 - compel <--> compelling
@@ -185,7 +188,7 @@
 - corpus <--> corpuscle <--> corpse <--> copse <--> corporeal
 - council <--> counsel <--> consul
 - country <--> county
-- countenance <--> discount <--> recount
+- countenance <--> discountenance <--> discount <--> recount
 - counterfeit
 - countervailing 
 - coup <--> couple <--> recoup
@@ -216,9 +219,10 @@
 - cob <--> cod
 - congressional
 - congest
+- communicate <--> excommunicate
 
 ## D
-- dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle
+- dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle <--> wade
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debase <--> degrade <--> devalue
 - debauch <--> debouch
@@ -236,7 +240,7 @@
 - deft <--> daft
 - delinquent <--> deliquesce
 - delimit <--> delineate <--> demarcate
-- demean <--> demeanor
+- demean <--> demeanor <--> misdemeanor
 - demotic <--> demolish <--> demote <--> emote
 - demur <--> demure <--> immure 
 - demit <--> demise
@@ -268,7 +272,7 @@
 - diminutive <--> diminish
 - dilatory <—-> dilate <--> dilute
 - disabuse <--> abuse
-- discharge <--> dispatch <--> dismiss <--> dispose <--> deposit <--> disposition <--> disposable
+- discharge <--> dispatch <--> dismiss <--> dispose <--> indisposed <--> predispose <--> deposit <--> disposition <--> disposable
 - disciple <--> discipline
 - discomfit <--> discomfort
 - discompose <--> decompose
@@ -310,6 +314,7 @@
 - duress <--> indurate
 - dun <--> dune <--> dung <--> rung
 - dwindle <--> dawdle <--> doodle <--> swindle
+- denude <--> nudity
 
 ## E
 - eclipse <--> ellipsis <--> elliptical <--> ellipse <--> elliptic <--> ecliptic
@@ -323,7 +328,7 @@
 - empire <--> empiric <--> empirical
 - endemic <--> epidemic <--> pandemic
 - enervate <--> innervate <--> unnerve
-- enjoin
+- enjoin <--> rejoin <--> rejoinder
 - enormity <--> enormous
 - ensign
 - ensconce <--> sconce
@@ -357,6 +362,7 @@
 - expunge <--> expurgate
 - exigent <--> exiguous
 - ethos <--> pathos <--> bathos
+- entrant
 
 ## F
 - facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum <--> faculty
@@ -415,7 +421,7 @@
 - gawk <--> hawk <--> hawker
 - germane <--> germ <--> germinate
 - giddy <--> piddly
-- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> hassle <--> waggle
+- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> haggard <--> hassle <--> waggle
 - git <--> grit <--> gritty <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
 - glean <--> clean
 - glib <--> gild <--> glide
@@ -474,6 +480,7 @@
 - husk <--> husky <--> hulk <--> hull
 - hustle <--> rustle
 - hypocritical <--> hypercritical
+- huff
 
 ## I
 - idiom <--> idiot
@@ -545,13 +552,14 @@
 - lava <--> larva
 - leave <--> leaf <--> leaven
 - lease <--> leash
+- ledge <--> ledger
 - leer <--> leery <--> leeway
 - lesion <--> liaison
 - liable <--> liability
 - lair <--> liar
 - liberal <--> libel <--> liberty <--> liberate <--> libertine
 - lie <--> lay
-- limb <--> limber <--> limp
+- limb <--> limber <--> limp <--> wimp
 - limpid <--> lipid
 - lime <--> limestone
 - impress <--> imprint
@@ -560,7 +568,7 @@
 - listen <--> glisten
 - little <--> litter <--> liter <--> lit <--> lilt
 - inveterate <--> invertebrate
-- loath <--> loathe
+- loath <--> loathe <--> oath
 - lobe <--> lode <--> lodge <--> dislodge
 - loquacious <--> locution <--> elocution <--> eloquent
 - lull <--> loll <--> mull
@@ -568,9 +576,10 @@
 - lose <--> loss <--> loose
 - lucid <--> lurid <--> ludicrous <--> pellucid
 - lugubrious
-- luminary <--> luminous
+- luminary <--> luminous <--> numinous
 - lurk <--> lark <--> lurch <--> luck 
 - luster <--> lust <--> lustful <--> lustrous
+- landfall <--> landfill
 
 ## M
 - magisterial <--> magistery
@@ -579,24 +588,24 @@
 - malign <--> malinger
 - mantra
 - marshal <--> marsh
-- maternal <--> paternal
+- maternal <--> paternal <--> matrilineal
 - martial <--> marital
 - mason <--> mansion
-- mast <--> mash <--> mat <--> matt <--> mattress <--> mastodon
+- mast <--> mastodon <--> masticate <--> mash <--> mat <--> matt <--> mattress
 - matriarch <--> patriarchal
-+ maunder <--> meander
-- mawkish <--> maw
+- maunder <--> meander <--> meandering
+- mawkish <--> maw <--> mow
 - metric <--> metrical
 - mature <---> manure
 - meddle <--> mettle <--> nettle
 - mediate <--> meditate
 - member <--> membrane
-- mend <--> mendicant <--> mendacious <--> amend <--> emend
+- mend <--> mendicant <--> mendacious <--> amend <--> emend <--> mender
 - milk <--> bilk
 - mince <--> wince
 - mirth
 - miscreant <--> recreant
-- miser <--> misery
+- miser <--> misery <--> miserable
 - misgiving
 - mitigate <--> unmitigated
 - moat <--> moan
@@ -604,34 +613,36 @@
 - mongrel <--> mogul
 - mores
 - moral <--> morale
-- morbid <--> morbidity <--> mortality <--> mordant <--> mordacious
+- morbid <--> morbidity <--> mortality <--> mordant <--> mordacious <--> morality <--> morale
 - morose <--> remorse
 - mortify <--> mortality
 - mosquito <--> mosque
 - mote <--> mite
 - motley <--> medley
-- mow <--> maw
-- muddle <--> muffles
+- muddle <--> muffle
 - mulct <--> dulcet
 - mutter <--> patter <--> putter <--> sputter <--> otter <--> totter
 - myriad <--> pyramid
 - mythic <--> mythical
+- mindful <--> absent-minded <--> high-minded <--> simpleminded
 
 ## N
 - naive <--> native
 - nascent <--> nasal
-- necessitate --> necessitous
-- neglect <--> negligent
+- natty <--> nasty
+- necessitate <--> necessitous
+- neglect <--> negligent <--> negligible
 - nib <--> nibble <--> nipple <--> nip <--> sip 
+- nil <--> null <--> nullify
 - nod <--> nodule <--> nub <--> nubile
 - nonchalant
 - notion <--> notch <--> note <--> botch <--> blotch <--> scotch <--> denote
 - nuance <--> nuisance
 
 ## O
-- obligate <--> obligation <--> oblige <--> obliging
+- obligate <--> obligation <--> oblige <--> obliging <--> oblique
 - oblivious <--> obvious
-- obloquy <--> soliloquy
+- obloquy
 - object --> objection <--> objective <--> subject <--> subjection <--> subjective
 - objurgate <--> obdurate
 - obnoxious <--> innocuous <--> noxious
@@ -640,20 +651,23 @@
 - occlude <--> occult <--> preclude <--> reclusive <--> seclude
 - occupation <--> preoccupation
 - odd <--> ode
-- odium <--> opium
+- odium <--> opium <--> odious
 - offend <--> offensive <--> inoffensive
 - officious <--> official
 - onerous <--> exonerate
 - onset <--> outset
 - opaque <--> opacity <--> translucent <--> transparent
 - opprobrium
-- orchard <--> orchid
+- orchard <--> orchid <--> ostrich
 - ordain <--> ordeal <--> ordinance <--> ordnance
 - ostentatious <--> ostensible
+- otherworldly
 - outcry <--> decry
 - outlook <--> overlook <--> oversee <--> oversight
+- outreach <--> overreach
 - overwhelm <--> underwhelmed
 - overweening
+- odorous <--> odometer
 
 ## P
 - pagan <--> pigeon <--> pageant
@@ -664,6 +678,7 @@
 - pamper <--> pander <--> pauper
 - panache <--> penchant <--> pinnacle
 - panoply <--> canopy
+- pat
 - pant <--> pant
 - parch <--> patchy <--> perch <--> porch
 - parley <--> parry <--> parlance <--> parliament
@@ -690,6 +705,7 @@
 - perquisite
 - pervade <--> pervasive <--> perverse
 - pester <--> pestle <--> nestle <--> plaster <--> fester <--> foster　
+- peter
 - petulant <--> opulent
 - phantasmagorical
 - pillory <--> pillage <--> pillar
@@ -719,13 +735,15 @@
 - privacy <--> privation <--> privy <--> piracy
 - precocious
 - predict <--> predicate <--> predicament
-- preeminent <--> prominent 
+- preeminent <--> prominent <--> eminent
 - preposterous <--> preponderance
 - prerogative
-- pretentious <--> 	presentiment <--> present
+- pretentious <--> presentiment <--> present <--> sentiment <--> sentimental
 - prestige <--> vestige
 - proficient
 - prefigure
+- premise <--> surmise
+- promise <--> promising
 - prophesy <--> prophecy <--> prophylactic
 - propitious <--> propitiatory <--> prop
 - proscribe <--> prescribe
@@ -763,6 +781,7 @@
 - quibble <--> squabble
 - quiescence <--> quintessence <--> disquiet <--> quietus
 - quintessential <--> essential
+- quixotic <--> quixotry
 - quorum <--> quota <--> quote
 
 ## R
@@ -794,10 +813,10 @@
 - reek
 - reflective <--> reflexive <--> reflect <--> refection <--> refectory
 - relinquish
-- remiss <--> remit <--> remission
+- remiss <--> remit <--> remission <--> remission
 - remonstrate <--> demonstrative
 - renaissance <--> reconnaissance <--> reconnoiter
-- renege
+- renege <--> renegade
 - repatriate
 - repine <--> pine
 - replete <--> deplete
@@ -842,12 +861,13 @@
 - scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
 - seam <--> seamy <--> sear <--> sere
+- seedy <--> seedling
 - sedate <--> senate <--> sedition
 - seditious <--> sedulous
 - scion <--> science <--> conscience <--> conscionable <--> unconscionable <--> conscious <--> conscientious
 - scope <--> scoop
 - scour <--> scrounge
-- scrape <--> scrap <--> scratch
+- scrape <--> scrap <--> scrappy <--> scratch
 - screed <--> creed
 - scuffle <--> ruffle <--> ruffian
 - screen <--> screech <--> screening
@@ -875,6 +895,7 @@
 - simulacrum
 - single <--> shingle <--> singe
 - sinuous <--> sinister <--> sin
+- skeuomorph
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
 - slab <--> slat <--> slate 
@@ -906,6 +927,7 @@
 - specious <--> suspicious
 - spit <--> split <--> splint <--> spat <--> squat <--> squint
 - spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout
+- squelch <--> squinch <--> squint
 - squeamish
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
@@ -947,6 +969,7 @@
 - tally <--> tall
 - tangle <--> mangle <--> mingle
 - tangible <--> tangential
+- tattered <--> tatty
 - telltale <--> untold
 - temerity <--> temerarious
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
@@ -961,7 +984,7 @@
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch
-- torpid <--> tumid <--> turgid <--> trepid <--> tepid <--> contumacious <--> torrid <--> horrid <--> turbid <--> turbulent
+- torpid <--> tumid <--> turgid <--> trepid <--> tepid <--> contumacious <--> contumely <--> torrid <--> horrid <--> turbid <--> turbulent
 - torrent <--> turret
 - touchy <--> touching
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
@@ -981,6 +1004,7 @@
 - troop <--> troupe <--> trope  <--> toupee
 - trove <--> rover <--> stove
 - trump <--> trumpet
+- try <--> trying <--> trial
 - tug <--> tuck <--> lug <--> mug <--> muggy
 - turmoil <--> moil <--> roil
 - turpitude
@@ -1023,6 +1047,7 @@
 ## W
 - wanting <--> wanton
 - waive <--> wave
+- washout
 - wean <--> dean
 - weasel <--> easel
 - weather <--> wether
@@ -1041,6 +1066,7 @@
 - winnow <--> minnow <--> wallow
 - wired <--> wiry
 - wistful <--> waist <--> fistful
+- wobble <--> wriggle
 - woo <--> wooly
 - wont <--> wonk <--> monk
 - wrap <--> warp

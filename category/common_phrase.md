@@ -525,6 +525,8 @@
 	- No matter what the facts are, they're going to try to put a spin on it one way or another—that's what PR companies do!
 - punch above one's weight 能和高於自己重量級別的對手較量/超常發揮
 	- Singapore punches above its weight in the world economy.
+- push the envelope 挑戰極限
+	- Just like every other kid, I pushed the envelope. If I got away with being ten minutes late one night, I might be twenty minutes late the next night.
 - rear its (ugly) head (令人不快的事情)發生 == (of something unpleasant) to appear
 	- The familiar spectre of drought and famine has reared its ugly head again.
 - search/hunt high and low 到處找 == to search everywhere for something
@@ -621,6 +623,8 @@
 	- I don't know anything about cars so I had to take the mechanic's recommendations on trust.
 + turn your back on sth 不再參與…/對…置之不理
 	- The country cannot afford to turn its back on tourism.
++ turn sth on its head 顛倒/顛覆
+	- These new findings turn the accepted theories on their head.
 - well thought out 精心計劃的/經縝密思考的 == planned in an effective way
 	- The training schedule was not very well thought out.
 	-  a well-thought-out system for traffic control
