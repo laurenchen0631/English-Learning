@@ -471,6 +471,7 @@
     - bodyguard (n)保鑣/侍衛
     - bog (n)沼澤 = swamp = marshland (v)[be/get bogged down]陷入泥沼
     - boggle (v)使困惑/使難以想像 = confuse = bewilder, 使震驚 = astonish, [at](因吃驚)猶豫不決 = hesitate <|> goggle
+    - boil (v)沸騰, 煮熟, 翻滾/翻騰, 激動 (n)沸點, 煮沸, 激烈, 癤/瘡
     - bolt (n)閃電, 門閂/螺栓, 弩箭, 一匹/一捲 (v)閂上(門窗) = lock
     - bonanza (n)發財機遇, 繁榮/興盛
     - bond (n)聯繫/關係, 鐐銬/枷鎖, 契約/合約 = contract, 公債/債券, 保釋金 = bail, 化學鍵 = chemical bond (v)使……黏合/使結合, 建立關係, 以化學鍵結合, 把(進口貨物)存放保稅倉庫
@@ -909,7 +910,7 @@
     - conical (adj)圓錐形的
     - cordon (n)封鎖線, 飛簷層 (v)[off]封鎖隔離/設置警戒線將…圍起
     - condor (n)兀鷹
-    - copse (n)小灌木林
+    - copse (n)小灌木林 <|> corpse
     - cork (n)軟木, 木栓層, 軟木塞, 釣魚用的軟木浮子 (v)用軟木塞塞住, 用軟木炭塗, 用軟木填塞(球棒)
     - corkscrew (n)拔塞鑽/開瓶器 (v)使作螺旋式移動
     - corner (n)角, 角落, 街角, 轉彎, 地區/偏僻處, 壟斷, 困境, 角球, 耽擱 (v)轉彎, 壟斷, 囤積, 使陷於絕境
@@ -1077,6 +1078,7 @@
     - debacle (n)徹底失敗/潰敗 = fiasco
     - deep-seated (adj)根深蒂固的 = confirmed = inveterate = entrenched
     - defendant (n)被告 <--> plaintiff
+    - deli (n)熟食店 = delicatessen
     - /dɛlv/ delve (v)搜索, 探究/鑽研
     - derrick (n)轉臂起重機, 油井的鐵架塔
     - derring-do (n)英勇行為/大膽之舉
@@ -1271,6 +1273,7 @@
     - /ˌɛmpʌɪˈriːən/ empyrean (adj)天空的 = celestial (n)蒼天/最高天, 天空
     - ennui (mn)倦怠/無聊
     - /ˈɒntreɪ/ entrée (n)主菜, 獲准進入的權力或特權/入場權
+    - epinephrine (n)腎上腺素
     - equine (adj)馬的, 像馬的 (n)馬 <-- equ 馬 = horse + ine
     - equipment (n)配備/裝備, 裝配, 才能/知識/能力
     - errand (n)差事/跑腿
@@ -1302,6 +1305,7 @@
     + falsify (v)竄改/偽造/曲解 = garble = juggle, 證明…虛假 = disprove = rebut
     + falsehood (mn)虛假 (n)謊言, 說謊
     ++ /ˈfɔːltə/ falter (v)衰弱/動搖, 結巴 = stammer = halt, 蹣跚/搖晃 = stumble = halt
+    + faltering (adj)步履蹒跚的, 結巴的
     + farsighted (adj)遠視的, 有遠見的/有先見之明的
     +++ fashion (mn)時尚 (n)流行, 方式 = mode = manner (v)使成形, [into]用..製作
     + fastidious (adj)一絲不苟的/講究的/苛求的 = finicky = fussy = picky = choosy = meticulous = painstaking = particular = scrupulous, 有潔癖的 --> fastidiousness (n)
@@ -1313,7 +1317,7 @@
     ++ fell (v)砍倒 = cut down, 擊倒 = knock down, 明縫 = flat-fell (adj)邪惡的/致命的 = deadly
     + felonious (adj)犯罪的, [法]犯重罪的
     - felon (n)重罪犯 --> felony (n)重罪
-    + feckless (adj)軟弱的/無氣力的 = irresponsible <-- feck 效用 = effect + less
+    + feckless (adj)軟弱的/無氣力的 = irresponsible <-- feck 效用 = empireect + less
     + feeble (adj)虛弱的 = frail = wan = debilitated = faint, 軟弱的, 薄弱的/站不住腳的
     + /feɪn/ feign (v)假裝/假冒 = dissemble = pretend <|> foreign <|> deign <|> reign --> feigned (adj)假裝的, 不真誠的
     + felicity (mn)幸福/喜樂 = bliss, 得體/恰當的語句
@@ -1467,6 +1471,7 @@
     - far-reaching (adj)影響深遠的
     - farce (n)滑稽戲/鬧劇, 鬧劇風格, 荒唐的舉動/滑稽的情景
     - farewell (n)告別
+    - farm (n)農場, 農舍, 養殖場, 出產所 (v)務農, 把..做農場用, 經濟耕作或養殖, [out]發包/招人承包(工作), [out]把(兒童)託付照顧, [out]使(地力)衰竭
     - fascist (adj)法西斯主義的 (n)法西斯主義者, 極右份子, 獨斷專行的人 = dictator
     - fashionable (adj)流行的/時尚的, 時尚人物經常造訪的(地方)
     - fast-forward (v)快進/快轉
@@ -1528,6 +1533,7 @@
     - flashback (n)倒敘/插敘, 迷幻藥效幻覺
     - flask (n)燒瓶, 酒瓶, 攜帶瓶, 一瓶, 火藥瓶 = powder flask
     - flat (adj)平的/平坦的, 單調的/無聊的, 沒氣的(飲料或輪胎), 均一的/一律的, 絕對的 = absolute, [音]降音的 (adv)平, 在..旁, 順暢地, [非]完全地 = completely, 僅僅(時間), 降音地 (n)平坦部分, [flats]沼地/淺灘, [非]洩了氣的輪胎, 降半音符號
+    - flat-footed (adj)扁平足的, 束手無策的, [非]平淡無奇的/毫無新意的
     - flat-out (adv)完全地
     - flatcar (n)平車/無蓋貨車
     - flatten (v)變平, 夷平, [非]擊敗, [非]大勝, 降半音 <|> flatter
@@ -1691,6 +1697,7 @@
     ** gorge (n)峽谷/山谷, 胃裡的食物, 後門, 冰河 (v)[on]狼吞虎嚥地吃
     *** /ˈɡɔːdʒəs/ gorgeous (adj)美的/吸引人的 = beautiful = attractive, [非]令人愉悅的 = enjoyable
     * grain (n)穀粒, 一粒, 一丁點 = fig, 格令(0.0648克), 紋理 (v)成粒狀, 漆成木紋或石紋狀, (皮革)去除毛髮, 餵(馬)
+    * grainy (adj)粒狀的 木紋狀的
     ** grease (n)潤滑油, 動物脂 (v)用油脂塗/上油 = lubricate = baste = anoint
     * grapple (n/v)扭打/格鬥 = wrestle (n)抓勾 (v)抓住 = seize, [with]努力克服/盡力解決 = struggle = deal
     * grid (n)網格/格柵 = grating, 網狀物, 電力網/輸電網, 地圖坐標方格 (v)成網狀
@@ -2273,6 +2280,7 @@
     - kennel (n)狗舍/狗窩 = doghouse, 一群狗 (v)把……關進狗舍 <|> kernel <-- ken 狗 = dog +  nel 
     - kernel (n)果仁, 核心 <|> kennel <-- kern 種子 = corn + el
     - kettle (n)水壺/開水壺
+    - keynote (n)主音, 主旨/基調
     - /ˈkɑːki/ khaki (n)卡其布料, 卡其服裝, 卡其色
     - kickoff (n)開球, [非]開始
     - kid (n)小孩/年輕人, 小山羊, 小山羊皮 (v)產(羔), 戲弄 = deceive, 欺騙 = fool, [around]做傻事
@@ -2353,6 +2361,7 @@
     * lade -> laden -> laden (v)裝載/裝貨
     * laden (adj)滿載的
     ** lam (v)[非]重打 = beat = thrash, 逃跑 = escape = flee (n)[on the lam]逃亡 = in flight
+    * lame (adj)(動物)跛腳的/瘸的, 無趣的/乏味的 = uninspiring = dull, 站不住腳的 = untenable (v)使跛腳 (n)金銀錦緞
     ** lap (v)舔食, 使部分重疊/摺疊, 包紮/圍繞 (n)重疊部分, 大腿部/膝部 <|> overlap
     * lark (n)雲雀, [非]早起的人 <--> owl, [非]嬉耍/玩樂 (v)[非][around/about]嬉耍/玩樂
     * lasting (adj)持久的/永久的 <--> ephemeral
@@ -2766,6 +2775,7 @@
     - mobile (adj)可動的, 移動式的/流動的, 機動的(部隊), 移動裝置的 (n)活動雕塑, 行動網路 
     - mobility (m)可動性, 流動性
     - mobilize (v)動員, 調度, 使可動, 使流通
+    - modality (n)模式/形式, 情態動詞所表達的意思, 物理療法
     - modernist (n)現代主義者 (adj)現代主義的
     - molar (n)臼齒 (adj)體積莫耳濃度的 <-- mol 磨 + ar 
     - molecule (n)分子
@@ -4261,6 +4271,7 @@
     - snappy (adj)[非]厲聲說話的, [非]精確的/簡潔的 = neat = concise, 優雅的 = elegant
     - snapper (n)真鯛, 擬鱷龜 = snapping turtle, 紙甩炮　= paper cracker
     - snip (v)剪斷 (n)剪, 剪下的小片, 價廉物美之物 = bargain, (剪金屬的)平頭剪/鐵絲剪, 不足道的人
+    - snippet (n)片斷
     - sniff (v)嗅/聞, [非][around/round]搜索, [非][out]調查後發現 (n)嗅聞聲, 吸入量, [非]徵兆 = sign, [非]些微的機會
     - sniffle (v)(通常指因哭泣或感冒)抽鼻子/吸鼻子 (n)鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
     - snitch (v)[非]偷, [非]告密 (n)[非]告密者 <|> stitch
@@ -4305,7 +4316,9 @@
     - spawn (v)產卵, (電玩遊戲)出現, 生, 產生 (n)卵, 菌絲
     - spear (n)矛, 嫩葉 (v)刺戳
     - spearhead (n)矛頭/槍尖, 先鋒 (v)帶頭 = lead
-    - speck (n)斑點 = spot, 微粒/微片 (v)產生斑點/使沾上汙跡 --> speckled (adj)布滿斑點的
+    - speck (n)斑點 = spot, 微粒/微片 (v)產生斑點/使沾上汙跡
+    - speckle (n)斑點/汙跡 (v)使弄上斑點
+    - speckled (adj)布滿斑點的
     - speech (n)說話能力, 說話方式/口音, 演講, 臺詞
     - speller (n)拼寫單詞者, 綴字教科書, 拼字檢查器 = spellchecker
     - spew (v)大量排放 (n/v)[非]嘔吐 = vomit
@@ -4656,7 +4669,8 @@
     - thoughtful (adj)深思的, 細心的, 體貼的
     - thought-out (adj)深思熟慮的 = considerate
     - thought-provoking (adj)引人深思的/發人深省的
-    - thrash (v)鞭打 = baste, 連續擊打, 猛烈擺動/劇烈扭動, [around]掙扎, [非]徹底擊敗 (n)鞭打, 敲擊搖滾樂
+    - thrash (v)鞭打 = baste, 連續擊打, 猛烈擺動/劇烈扭動, [around]掙扎, [非]徹底擊敗 (n)鞭打, 敲擊搖滾樂thresh
+    - thresh (v)打穀, 打/擊 = thrash
     - threadbare (adj)穿舊的/破爛的 = worn-down, 陳舊的/老一套的
     - throb (v)有節奏地敲, 抽痛 (n)規律的敲擊聲, 抽痛
     - throne (n)王座, 王權/君權 (v)使登王位 <|> thorn
@@ -5106,6 +5120,7 @@
     - wobble (n/v)搖晃/搖擺, (聲音)顫抖 = quaver, 動搖/猶豫 = vacillate
     - wobbly (adj)搖晃的, 虛弱的, 搖擺不定的, 走音的, 歪斜的(字跡)
     - wonder (n)驚奇, 奇觀, 奇才, 奇事 (v)感到驚訝, 納悶/不明白, 請問, 感到懷疑
+    - wonder-struck (adj)大吃一驚的/驚訝不已的
 	- woodchuck (n)土撥鼠
     - wonk (n)[非]工作狂/瘋狂用功的人, [貶]一味苦幹的人
     - workaround (n)暫時的解決方案

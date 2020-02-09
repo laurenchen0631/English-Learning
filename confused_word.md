@@ -104,7 +104,7 @@
 - carcass <--> caress <--> careen
 - canvass <--> crevasse
 - caricature
-- carp <--> carpet <--> excerpt
+- carp <--> carpet <--> excerpt <--> carpal
 - carve <--> crave <--> craven
 - cascade <--> cadence <--> decadence <--> decadent <--> decaying
 - casual <--> causal
@@ -546,6 +546,7 @@
 
 ## L
 - lacerate <--> macerate <--> larceny
+- lam <--> lame
 - languid <--> languish
 - lascivious <--> luscious
 - latent <--> patent
@@ -981,6 +982,7 @@
 - thick <--> thicket
 - thalassemia <--> ischemia <--> leukaemia
 - thread <--> tread <--> threat
+- thresh <--> thrash <--> threshold
 - through <--> trough
 - toll <--> toil <--> troll <--> atoll <--> extolling <--> stroll
 - torch <--> scorch <--> scotch

@@ -86,3 +86,21 @@
 - Require you to understand the structure.
 - Most of times there are only two sentences that could be the answer.
 - Be careful to distinguish the sentence that mentions the topic from the sentence that actually answers the questions. (Read the question.)
+
+## Multiple-Answer Question
+- Any one of the three questions can be correct
+- The answers tend to be less obviously wrong than the answers in other type of questions.
+- General strategy is the same: base your answer on evidence in passage or skip it.
+
+## Structure Question
+- Example: Which of the following best describes the primary function of the third sentence?
+- Approach
+	1. Read the referenced sentence and then describe it in your own words.
+	2. Read the sentence before the referenced one and then describe the function of the referenced one.
+
+## Paragraph Argument
+- Elements
+	- Premise: facts
+	- Conclusion: Tying together of facts
+- The Gap: something that the conclusion does not take into account.
+	- B --> X rather than A --> X 

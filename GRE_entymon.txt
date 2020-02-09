@@ -1280,6 +1280,7 @@
 	card, cardio 心臟的 = heart
 		+ cardinal (n)紅衣主教, 深紅色, 紅衣鳳頭鳥 (adj)最重要的 = chief = foremost = fundamental
 		- cardiologist (n)心臟病專家
+		- cardiovascular (adj)心血管的
 		- cardiac (adj)心臟的, (胃的)賁門的 (n)心臟病患者
 	
 	carn, carr 肉 = flesh
@@ -1721,7 +1722,7 @@
 			- disband (v)解散 --> disbandment (n)團體的解散
 			- disbelief (mn)不信/懷疑
 			- disbeliever (n)持懷疑態度的人
-			- disburse (v)支付/支出 = expend <-- dis + burse 錢包 = purse
+			- disburse (v)支付/支出 = expend = defray <-- dis + burse 錢包 = purse
 			- discolor (v)使變色/使褪色
 			+ discomfit (v)使窘迫/使不安/擾亂 = ruffle = mortify --> discomfiting (adj) <-- dis + comfit 做到 = make, accomplish
 			- disconcert
@@ -2231,6 +2232,7 @@
 		- expostulate (v)勸告/告誡 <-- ex + postulate
 		++ express (v)表達, 快遞, 擠壓出 (adj)明確的, 快的, 專門的
 		+ expressly (adv)清楚地 = explicitly, 特意地 = particularly
+		+ expressive (adj)表情豐富的, [of]表達……的
 		+ expunge
 		+ expurgate (v)刪去(不當處) = censor = bowdlerize <-- ex + purg 清洗 = cleanse + ate
 		- exquisite
@@ -2719,7 +2721,7 @@
 	fend, fence, fense 打擊 = strike
 		+ defend (v)保衛/保護, 辯護
 		+ defence, defense (n)防禦/保衛, 辯護, 辯護方
-		- indefensible (adj)站不住腳的 = untanable = unjustifiable, 不能防禦的
+		- indefensible (adj)站不住腳的 = untenable = unjustifiable, 不能防禦的
 		- offend (v)冒犯/觸怒 = slight, 使不舒服, 犯罪/犯法
 		- offense, offence (n)違法行為, 冒犯, 攻擊, 進攻方
 		- offender (n)違法者, 罪犯
@@ -4957,6 +4959,7 @@
 			- overdo (v)做得過火 = exaggerate, 使過於疲勞, 煮過頭 = overcook --> overdone (adj)做過頭的 = exaggerated, 煮過頭的 = overcooked
 			- overdose (n)(藥物)過大的劑量 (v)過量服用/給..過多的劑量
 			- overdue (adj)到期未付的/逾期未還的/遲來的/過了預產期的 
+			- overestimate (v)高估 (n)過高的評價/過高的估計
 			+ overextend (v)過分擴展, 使..承擔過多的工作
 			- overexposure (n)過分暴露, 曝光過度
 			- overflow (v)溢出/擠出/外流, 充滿/洋溢 (n)溢出, 過剩
@@ -5102,6 +5105,7 @@
 		- operate (v)工作/運作/營運/起作用, 動手術 <-- oper 工作 = work + ate
 		- operation (n)運作, 作用, 手術, 行動/作戰, 公司 = company, 經營/營運, 運算
 		- operative (adj)實施中的/起作用的/有效的 = working = effective, 手術的 (n)工人, 偵探/間諜
+		- postoperative (adj)手術後的
 		- operose (adj)費力的/艱苦的 = onerous = taxing = arduous = laborious
 		- opus -> opuses/opera (n)著作/編號的音樂作品, 作品/傑作
 		- opera (n)歌劇, 歌劇院
@@ -5621,6 +5625,7 @@
 		- /ˈfɑːməsi/ pharmacy (n)藥局/藥房, 配藥學
 		- pharmacist (n)藥劑師
 		- pharmacology (n)藥理學
+		- pharmacological (adj)藥理學的
 		- /ˌfɑːməˈs(j)uːtɪkəl/ pharmaceutical (adj)藥學的/藥物的/藥用的 --> pharmaceuticals (n)藥物, 藥業股份
 	
 	paleo, pale 古老/原始 = old, anicent, primitive
@@ -8176,7 +8181,8 @@
 		+ /amˈbɪvələnt/ ambivalent (adj)有矛盾看法的 = contradictory --> ambivalence (n)矛盾心理
 		- convalesce (v)康復/休養 --> convalescent (adj)療養的/康復中的 (n)處於康復期的病人
 		- equivalent (adj)[to]相同的/等值的 (n)相等物/等價物, 當量 = equivalent weight
-		+ prevalent (adj)流行的/盛行的/普遍的 = rife = widespread --> prevalence (mn)流行/普遍 = commonness
+		+ prevalent (adj)流行的/盛行的/普遍的 = rife = widespread 
+		+ prevalence (mn)流行/普遍 = commonness
 		* valiant (adj)勇敢的/英勇的 = courageous = heroic = stalwart
 		+ valid (adj)有根據的/令人信服的 = compelling, 合法的/有效的 --> /vəˈlɪdɪti/ validity (mn)正確/合理, 有效性/效力
 		+ validate (v)證實 = prove = substantiate, 使生效
