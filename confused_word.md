@@ -53,6 +53,8 @@
 - alternately <--> alternatively
 - ablate 
 - amnesty
+- amass <--> amiss
+- applicant <--> appliance
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -249,7 +251,7 @@
 - dent <--> denture <--> indent <--> indenture
 - deplore <--> implore
 - deprecate <--> depreciate <--> appreciate <--> appreciable <--> imprecate <--> inappreciable
-- depress <--> distress <--> repress 
+- depress <--> distress <--> repress <--> repressive
 - derive <--> derivative
 - derision <--> risible
 - desert <--> dissert
@@ -344,7 +346,7 @@
 - ethereal
 - ethic <--> ethical <--> ethnic
 - evict <--> evince <--> convince
-- euphony <--> phony
+- euphony <--> phony <--> phonetic
 - exact <--> exacting <--> redact
 - exalt <--> exult <--> elate <--> exude <--> exuberant
 - exclude <--> exclusive <--> exclusionary
@@ -356,13 +358,14 @@
 - exhaust <--> exhaustive <--> inexhaustible 
 - exhort <--> cohort
 - expand <-->expansive <--> expanse
-- expatriate <--> expiate
+- expatriate <--> expiate <--> expat <--> repatriate
 - expedite <--> expedition <--> expedient <--> expeditious
 - express <--> expressive
 - expunge <--> expurgate
 - exigent <--> exiguous
 - ethos <--> pathos <--> bathos
 - entrant
+- eponym <--> eponymous
 
 ## F
 - facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum <--> faculty
@@ -396,7 +399,7 @@
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx <--> flex
 - foray <--> fray
-- forbear <--> forbid <--> forbidding <--> foreboding
+- forbear <--> forbid <--> forbidding <--> foreboding <--> overbear <--> overbearing
 - forfeit <--> forlorn
 - forsake <--> sake
 - forthcoming <--> forthright <--> forthwith
@@ -508,7 +511,7 @@
 - impertinent
 - imperative <--> imperious <--> imperial
 - impervious <--> impermeable <--> impenetrable
-- impose <--> imposing <--> imposture <--> impostor
+- impose <--> imposing <--> imposture <--> impostor <--> superimpose
 - importune <--> import <--> inopportune
 - impregnate <--> impregnable <--> pregnable
 - impute <--> depute <--> dispute <--> disputatious <--> putative
@@ -644,7 +647,7 @@
 - obligate <--> obligation <--> oblige <--> obliging <--> oblique
 - oblivious <--> obvious
 - obloquy
-- object --> objection <--> objective <--> subject <--> subjection <--> subjective
+- object <--> objection <--> objective <--> subject <--> subjection <--> subjective
 - objurgate <--> obdurate
 - obnoxious <--> innocuous <--> noxious
 - obstreperous
@@ -672,7 +675,7 @@
 
 ## P
 - pagan <--> pigeon <--> pageant
-- pallid <--> pall <--> pal <--> palliate
+- pallid <--> pall <--> pallor <--> pal <--> palliate <--> appall <--> appalling
 - palpable <--> palpitate
 - patient <--> patience
 - paltry <--> penury <--> petty <--> pantry <--> pastry
@@ -711,9 +714,9 @@
 - phantasmagorical
 - pillory <--> pillage <--> pillar
 - pious <--> piety <--> impious
-- plain <--> plane <--> planet <--> plant <--> plantation <--> plaintive
+- plain <--> plaint <--> plane <--> planet <--> plant <--> plantation <--> plaintive <--> plaintiff <--> platitude <--> plateau
 - plangent
-- plead <--> pledge <--> pleat
+- plea <--> plead <--> pledge <--> pleat
 - plod <--> plot <--> ploy <--> probe
 - pluck <--> puck <--> pucker <--> muck
 - plumb <--> plumber <--> plume <--> slumber <--> slump <--> plump <--> plum
@@ -739,7 +742,7 @@
 - preeminent <--> prominent <--> eminent
 - preposterous <--> preponderance
 - prerogative
-- pretentious <--> presentiment <--> present <--> sentiment <--> sentimental
+- pretentious <--> presentiment <--> presentation <--> sentiment <--> sentimental
 - prestige <--> vestige
 - proficient
 - prefigure
@@ -755,23 +758,24 @@
 - primacy <--> primate <--> prim <--> primp 
 - probe <--> prod <--> pod <--> prop <--> propitiate <--> propitious
 - probity <--> probate
-- proceeds <--> proceedings <--> procession
+- proceeds <--> proceedings <--> procession <--> precession
 - prodigy <--> prodigal <--> prodigious
 - profane <--> profuse <--> suffuse <--> confuse
 - prolix <--> prolific
-- prone <--> prune
+- prone <--> prune <--> prurient
 - proprietary <--> propriety <--> property <--> impropriety
 - prose <--> proselyte
 - protean <--> protein
 - provident <--> providential <--> provide
 - prude <--> prudish <--> prudent <--> pride <--> imprudent <--> impudent 
-- pry <-->pyre
+- pry <--> pyre
 - puck <--> pucker <--> puckish
 - pugnacious <--> impugn <--> repugnant <--> pun <--> puny 
-- punctilious <--> compunction
+- punctilious <--> compunction <--> punctual <--> punctuate <--> pungent
 - pulley <--> pullet
 - pulchritude
 - putrid
+- subsume <--> resume <--> presume <--> presumptuous
 
 ## Q
 - quail <--> quill
@@ -800,7 +804,7 @@
 - redoubtable <--> redouble
 - refractory <--> refract
 - relate <--> relative
-- rapprochement <--> reapproach
+- rapprochement <--> reproach <--> reprobate <--> approach
 - rational <--> rationale
 - rattle <--> prattle
 - raucous
@@ -819,6 +823,8 @@
 - renaissance <--> reconnaissance <--> reconnoiter
 - renege <--> renegade
 - repatriate
+- reparable <--> reparation <--> repair
+- repeal <--> repel <--> repellent <--> repulse <--> repulsive
 - repine <--> pine
 - replete <--> deplete
 - reprobate
@@ -953,7 +959,6 @@
 - stub <--> stud
 - studious <--> studied
 - subside <--> subsidy <--> subsidize <--> subsidiary
-- subsume <--> resume <--> presume <--> presumptuous
 - subsist
 - succor
 - suffuse
@@ -963,6 +968,7 @@
 - superfluous <--> superficial
 - supplant <---> suppliant
 - squeal <--> squeak
+- stampede
 
 ## T
 - tackle <--> tickle
@@ -1019,6 +1025,7 @@
 - unexceptional <--> unexceptionable <--> unexpected
 - unctuous
 - untrammeled
+- upkeep <--> uproot
 - urbane <--> urban <--> suburban
 - usury <--> usurp
 

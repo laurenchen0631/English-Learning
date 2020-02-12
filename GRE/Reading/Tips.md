@@ -104,3 +104,20 @@
 	- Conclusion: Tying together of facts
 - The Gap: something that the conclusion does not take into account.
 	- B --> X rather than A --> X 
+- Weakening/Strengthening the Argument
+	- Identify premises
+	- Spot the conclusion
+	- Think of unstated assumption
+	- Go through every answer choice, not spending too much time on any one answer.
+	- Make sure your answer directly attack the assumption.
+	- Assumption
+		- Use Negating assumption technique
+		- If the assumption is not valid, hen the conclusion completely falls apart.
+		- If this negated answer choice is true, the argument will fall apart.
+	- Common wrong choices
+		1. Irrelevant, ungrounded analogy
+		2. Opposite
+		3. **Seems to do something**
+- Paradox Argument
+	- Two premises and no conclusion
+	- Find an answer that resolves the discrepancy.

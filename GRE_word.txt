@@ -3052,7 +3052,8 @@
     + /ˈpatwɑː/ patois (n)方言/土語 = dialect = vernacular = slang, 行話 = jargon = cant = argot = lingo
     + /ˈpɔːsɪti/ paucity (n)少量/不足 = scarcity = scantiness = dearth = poverty <-- pauc 少 = few + ity
     ++ /pɪˈkjuːlɪə/ peculiar (adj)奇怪的 = eccentric = queer = odd, 不舒服的 = unwell, 特別的 = particular, [to]特有的 = idiosyncratic, 罕見的 = uncommon = unusual = rare --> peculiarity (n)奇特/古怪, 特性/特質
-    ++ peer (n)同等之人/同輩 (v)凝視, 可見 --> peerless (adj)無可匹敵的 = matchless = unrivaled = Unequalled
+    ++ peer (n)同等之人/同輩 (v)凝視, 可見 
+    + peerless (adj)無可匹敵的 = matchless = unrivaled = Unequalled
     + peeve (v)惹惱 = irritate = irk = gall = rile = provoke = pique = vex (n)使人氣惱的事
     + peevish (adj)易怒的 = cantankerous = petulant = irritable = irascible = grouchy = grumpy 
     + /ˈpɛn(t)ʃ(ə)nt/ penchant (n)傾向/嗜好 = inclination = bent = propensity = affinity = bias
@@ -3220,7 +3221,6 @@
     - /pɑːm/ palm (n)棕櫚樹, 棕櫚, 手掌, 手套的掌部, 鹿角的扁平部 (v)把……藏於手中, (守門員)用手掌拍開
     - palmy (adj)繁榮的 = propsperous, 棕櫚蔭覆蓋的
     - palter (v)[古]含糊其辭 = equivocate, [with]馬虎處理 = trifle with
-    - pan (n)平底鍋/秤盤, 一鍋, 選礦鍋, 窪地, 堅硬地層, 臉 (v)掏, 嚴厲批評, 搖攝
     - panhandle (n)鍋柄狀地區 (v)[非]行乞/乞討
     - /ˈpan(ə)l/ panel (n)嵌板/鑲板, 儀表板/操縱台, 專家小組 (v)嵌板/鑲板
     - pang (n)一陣(痛苦)
@@ -3288,8 +3288,7 @@
     - petal (n)花瓣
     - peter (v)[out]逐漸停止/慢慢消失
     - pew (n)教堂內的靠背長椅, 教堂包廂
-    - phenom (n)[非]傑出人才 = star
-    - /fəˈnɒmɪnən/ phenomenon -> phenomena (n)現象, 非凡的人/傑出的人才
+    - pheasant (n)雉/野雞
     - phlegm (n)痰/黏液, 冷淡/鎮定 = clamness
     - piano (n)鋼琴 (adv)輕輕地 (adj)以弱拍彈奏的 (n)以弱拍彈奏的樂節
     - piazza (n)(義大利的)露天廣場/露天市場

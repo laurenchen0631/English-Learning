@@ -313,6 +313,27 @@
 	- Arc: a curved line between two points on the circle
 	- Area: a = πr^2
 - Primary strategy for circle problems: **find the radius**
+- Properties
+	- Central Angle: the angle has its vertex at center of the circle 
+		- - **Equal length chords in the same circle intersect equal length arcs.**
+	- Inscribed angle: the angle has its vertex on the circle 
+		- The measure of the inscribed angle is half (1/2) the measure of the arc it intercepts.
+		- **Any inscribed angle that intercepts a semicircle has to be a right angle.**
+		- **If two inscribed angle in the same circle intercept the same arc of same chord, then the two inscribed angles are equal**
+	- A tangent line is perpendicular to a radius at the point of tangency.
+
+## Three-Dimension 
+- Cube:
+	- Volume = s^3
+	- Total area = 6s^2
+	- Space Diagonal = s√3
+- Rectangular solid
+	- Volume = hwd
+	- Total Area = 2hw + 2hd + 2wd
+	- Space Diagonal = √(width^2 + length^2 + height^2)
+- Cylinder
+	- Volume: hπr^2 
+	- Total Area: 2πr^2 + 2πrh = 2πr(r+h)
 
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
