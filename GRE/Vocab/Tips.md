@@ -33,7 +33,6 @@
 			- The blank does not have any relationship with "Though less celebrated".
 - As a rule of thumb, **whenever "however" is immediately followed by a comma, it's a shifter.** If it is not immediately followed by a comma (as is the case here), and is rather part of a phrase, **it means "in whatever manner...."**
 - Frequently, when "for" appears at the beginning of a sentence, it's setting up a contrast. 
-		
 - Choose answers that create the correct levels of similarity or contrast.
 
 ## Cause and Effect
@@ -49,6 +48,7 @@
 ## Special Phrase
 - anything but == except
 - nothing but == only
+- nothing more than == only
 - by no means == not
 - no less than == equal to == same as
 

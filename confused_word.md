@@ -55,6 +55,7 @@
 - amnesty
 - amass <--> amiss
 - applicant <--> appliance
+- acquisitive
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -146,7 +147,7 @@
 - comb <--> catacomb
 - command <--> commend <--> commandeer <--> commence <--> commerce
 - commitment <--> committal <--> noncommittal <--> committee <--> concomitant <--> commission <--> commissary <--> commissioner
-- commute <--> commune
+- commute <--> commune <--> communion
 - compass <--> compassion <--> encompass
 - compel <--> compelling
 - complacent <--> complaisant <--> implacable 
@@ -225,6 +226,7 @@
 
 ## D
 - dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle <--> wade
+- dapper <--> diaper
 - daunt <--> flaunt <--> gaunt <--> jaunt <--> jaunty <--> taunt <--> taut <--> vaunt <--> saunter
 - debase <--> degrade <--> devalue
 - debauch <--> debouch
@@ -311,12 +313,13 @@
 - drive <--> drove <--> drawl <--> drivel <--> shrivel <--> shovel <--> shove <--> hovel <--> grovel <--> grove <--> groove <--> gravel <--> gavel <--> grave
 - drudge <--> dredge <--> dread
 - dub <--> dab <--> daub <--> dud <--> dude
-- due <--> undue
+- due <--> undue <--> duly
 - dull <--> hull
 - duress <--> indurate
 - dun <--> dune <--> dung <--> rung
 - dwindle <--> dawdle <--> doodle <--> swindle
 - denude <--> nudity
+- degenerate
 
 ## E
 - eclipse <--> ellipsis <--> elliptical <--> ellipse <--> elliptic <--> ecliptic
@@ -366,6 +369,7 @@
 - ethos <--> pathos <--> bathos
 - entrant
 - eponym <--> eponymous
+- enclave <--> enclosure
 
 ## F
 - facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum <--> faculty
@@ -394,7 +398,7 @@
 - flare <--> blare <--> glare <--> glaze <--> gaze <--> faze
 - fleeting <--> fleeing
 - flinch <--> clinch <--> filth <--> filch <--> plinth
-- flippant <--> unflappable
+- flippant <--> unflappable <--> flapper
 - flunk <--> flank <--> funky <--> hunker <--> hanker
 - flush <--> blush <--> plush <--> slush
 - flux <--> influx <--> flex
@@ -539,6 +543,8 @@
 - invidious <--> insidious
 - irritate <--> irrigate <--> irate <--> ire
 - itinerant <--> itinerary
+- inexplicable <--> inextricable
+- irenic
 
 ## J
 - jag <--> nag <--> jog <--> jug <--> juggle <--> ragged <--> rugged
@@ -589,7 +595,7 @@
 - magisterial <--> magistery
 - makeup <--> markup
 - malapropism
-- malign <--> malinger
+- malign <--> malinger <--> linger <--> lingerie <--> menagerie
 - mantra
 - marshal <--> marsh
 - maternal <--> paternal <--> matrilineal
@@ -605,6 +611,7 @@
 - mediate <--> meditate
 - member <--> membrane
 - mend <--> mendicant <--> mendacious <--> amend <--> emend <--> mender
+- menial <--> menstrual
 - milk <--> bilk
 - mince <--> wince
 - mirth
@@ -657,7 +664,7 @@
 - odd <--> ode
 - odium <--> opium <--> odious
 - offend <--> offensive <--> inoffensive
-- officious <--> official
+- officious <--> official <--> offing
 - onerous <--> exonerate
 - onset <--> outset
 - opaque <--> opacity <--> translucent <--> transparent
@@ -675,15 +682,14 @@
 
 ## P
 - pagan <--> pigeon <--> pageant
-- pallid <--> pall <--> pallor <--> pal <--> palliate <--> appall <--> appalling
+- pallid <--> pall <--> pail <--> pallor <--> pal <--> palliate <--> appall <--> appalling
 - palpable <--> palpitate
-- patient <--> patience
 - paltry <--> penury <--> petty <--> pantry <--> pastry
 - pamper <--> pander <--> pauper
 - panache <--> penchant <--> pinnacle
 - panoply <--> canopy
 - pat
-- pant <--> pant
+- pant <--> pants
 - parch <--> patchy <--> perch <--> porch
 - parley <--> parry <--> parlance <--> parliament
 - partake <--> parquet
@@ -697,7 +703,7 @@
 - pedestrian <--> pedagogy <--> pedant <--> pediatric
 - peel <--> pelt <--> belt
 - peep <--> seep <--> weep
-- penalty <--> penitent <--> penitentiary <--> penitence <--> patience
+- penalty <--> penitent <--> penitentiary <--> penitence <--> patience <--> patient
 - perceive <--> percept <--> precept <--> perceptive <--> percipient <--> precipitous <--> precipitate <--> precipice <--> incipient <--> sapient
 - peremptory <--> preemptive
 - perfidy
@@ -754,7 +760,6 @@
 - prognosticate
 - progenitor <--> primogenitor
 - progression <--> progressive <--> egress <--> digression <--> regress
-- private <--> privation
 - primacy <--> primate <--> prim <--> primp 
 - probe <--> prod <--> pod <--> prop <--> propitiate <--> propitious
 - probity <--> probate
@@ -776,9 +781,12 @@
 - pulchritude
 - putrid
 - subsume <--> resume <--> presume <--> presumptuous
+- provenance <--> provender <--> provision <--> provisional <--> provisory
+- perforce
+- pronounce <--> pronounced
 
 ## Q
-- quail <--> quill
+- quail <--> quill <--> quilt
 - quarrel <--> barrel
 - quaver <--> quiver
 - queer <--> sheer <--> steer
@@ -850,6 +858,7 @@
 - ruse <--> ruth
 - rub <--> rubber <--> rut <--> rug <--> rugged <--> rutted <--> rue 
 - rubric <--> lubricate <--> fabricate
+- rove <--> rover <--> mangrove <--> grove
 
 ## S
 - sabotage <--> sabot <--> saboteur
@@ -969,6 +978,7 @@
 - supplant <---> suppliant
 - squeal <--> squeak
 - stampede
+- sophomoric
 
 ## T
 - tackle <--> tickle
@@ -1017,6 +1027,8 @@
 - turmoil <--> moil <--> roil
 - turpitude
 - tutelage
+- tussle
+- topical
 
 ## U
 - umpire <--> empire

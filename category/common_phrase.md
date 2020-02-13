@@ -285,6 +285,7 @@
 	- You could do worse than to vote for her.
 + to the day 正是 == exactly
 	- She died ten years ago to the day.
+- all the more so 更是如此 == even more
 
 ## Compare/Difference
 - as opposed to 而不是 == not something else, used to compare two things.
@@ -338,6 +339,7 @@
 	- The individual's needs are subordinate to those of the group.
 - in the light of 因為/鑒於
 	- In the light of recent incidents, we are asking our customers to take particular care of their personal belongings.
+	
 
 ## Example
 - aside from 除..之外 == except for == besides
@@ -457,6 +459,7 @@
 	- The poor lived cheek by jowl in industrial mining towns in Victorian England.
 - cop to 承認做了 == to admit to doing (something)
 	- He agreed to cop to a misdemeanor.
+- come full circle 兜個大圈又回到原樣
 - come into use 開始被採用 == to start being used
 	- Computers first came into use in the early 1950s.
 	- his primitive form of "vegeculture" may have been the economic tradition onto which the cultivation of summer rainfall cereal crops was grafted as it came into use south of the grassland areas on the Sahara's southern borders.

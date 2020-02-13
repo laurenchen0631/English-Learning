@@ -1527,6 +1527,7 @@
 		- crusade (n)(為理想或信念而奮鬥的)運動/鬥爭, 聖戰 (v)為達到某理想而奮鬥
 		- cruciform (n)十字形
 		- crux (n)關鍵/癥結
+		- crucify (v)把......的手腳釘在十字架上處死, 迫害/折磨, 批評/抨擊
 		- cruciferous (adj)十字花科的(例如花椰菜，捲心菜，羽衣甘藍，花園水芹，白菜，西蘭花，抱子甘藍和類似的綠葉蔬菜)
 		- excruciate (v)拷問/施酷刑於 = torment 
 		- excruciating (adj)劇烈疼痛的, 極其乏味的/極度尷尬的 = awkward = tedious
@@ -2318,7 +2319,7 @@
 		+ enjoin (v)教導/鼓勵 = instruct = urge, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge
 		+ enlist (v)徵兵, 謀取...贊助或支持
-		- enliven (v)使…更有生氣 <-- en + life + en
+		- enliven (v)使有生氣/使活躍/使更有趣 <-- en + life + en
 		- enamel (mn)琺瑯, 琺瑯質, 瓷漆/瓷釉 = enamel paint (v)給…上琺瑯 (n)琺瑯製品
 		- enmesh (v)使捲入/使陷入 = entangle
 		+ empiric --> empirical --> empiricism
@@ -2664,6 +2665,7 @@
 		- manufacture (v)大量製造, 生成, 捏造(證據) (n)大量製造, 製造業, 製品/產品
 		+ munificent
 		- office (n)辦公室, 職位, 任期 = tenure, 服務 = service
+		- officeholder (n)公務員/官員
 		- official (adj)正式的, 官員的 (n)官員
 		++ officious (adj)愛發號施令的 = domineering, 多管閒事的 = meddlesome = intrusive
 		- perfect (adj)完美的 = faultless, 精確的 = exact, 絕對的 = absolute = complete, [植]雌雄同花的, [文]完成式的 (v)使完美/改善 (n)[文]完成式
@@ -2879,6 +2881,7 @@
 	
 	fess 承認/聲明 = admit, acknowledge, declare
 		* confess (v)坦白/招認(錯誤或罪行) = concede = acknowledge = admit, 聽..的告解, 表明信仰
+		* confessional (adj)自白的/懺悔的 (n)告解室
 		* profess (v)聲稱/自稱/謊稱 = purport = allege = claim, 宣稱信奉, 接受……入教
 		** professed (adj)假裝的/聲稱的 = ostensible = ostensive = pretended, 公開表明的, 宣誓後入教的
 		* profession (n)職業, 同業/同行, 聲稱, 表明信仰
@@ -3072,6 +3075,7 @@
 		* /ˈkɒlədʒ(ə)n/ collagen (n)膠原蛋白 <-- colla = glue + gen
 		++ congenial (adj)意氣相投的 = compatible, 舒適的/合適的 <-- con + genius + al
 		- congenital (adj)天生的/先天的
+		- degenerate (adj)衰退的/墮落的, [生]退化的 (v)衰退/墮落 (n)墮落者
 		- gendered (adj)性別的
 		+ engender (v)產生/引起 = produce = cause = beget
 		+ eugenics (n)優生學
@@ -3932,7 +3936,8 @@
 		* ludicrous (adj)滑稽的/荒唐可笑的 = absurd = ridiculous
 		+ illusion (n)幻覺, 錯覺, 幻想/錯誤觀念 --> illusive, illusory (adj)迷惑人的/虛假的 = unreal = delusive = counterfeit = synthetic
 		- interlude (v)暫時休息/間歇, 插曲 = interval, 中場/中場表演 = intermission
-		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕 <|> preclude
+		- prelude (n)序幕/前奏/序曲 (v)作為..的序幕 <|> preclude 
+		- preludial (adj)序言的/序幕的
 			
 	luc, lucid, lumin 光亮 = light
 		+ lucid (adj)清楚易懂的 = pellucid = perspicuous = comprehensible, 神志清醒的 = sane, 明亮的 = bright --> lucidity (n)清晰 = cogency, 神智清醒 <|> lurid
@@ -4043,6 +4048,7 @@
 
 	limin, lime 門檻 = threshold
 		- liminal (adj)閾限的/兩者之間的, 同屬兩處的
+		- illimitable (adj)無限的/無邊際的/無窮的
 		+ eliminate (v)消滅/消除 = remove = get rid of, 排除 = exclude, 謀殺 = murder, 從身體排出(廢棄物) = expel
 		+ elimination (n)消滅, 淘汰/排除
 		* preliminary (adj)初步的 (n)開端, 初試
@@ -4217,6 +4223,7 @@
 		+ monolith --> monolithic
 		- Mesolithic (adj)中石器時代的 (n)中石器時代/細石器時代(位於舊石器時代和新石器時代之間的年代，然後結束於農業的出現)
 		- neolithic
+		- regolith (n)風化層/上岩層
 
 	lachrym 眼淚 = tear
 		+ /ˈlakrɪməʊs/ lachrymose (adj)易落淚的, 催淚的/悲傷的 = tearful = mournful = sorrowful = sad = dreary = rueful
@@ -4399,6 +4406,7 @@
 
 	mune, mun 公共/告知 = common, impart
 		- commune (n)公社 (v)親密交談/交流 = communicate --> communal (adj)公共的/共有的/共享的, 不同群體之間的(爭鬥)
+		- communion (n)共享/共有, 交流, 聖餐式, 教會/教派
 		- communicate (v)交流/溝通, 傳達/表達, 傳染/傳播(疾病), (房間)互通/相連
 		- excommunicate (v)把......逐出教會 (adj)被逐出教會的 (n)被逐出教會的人
 		+ immune (adj)免疫的, 豁免的 = exempt, 不受影響的 <--> susceptible --> immunity (n)免疫, 豁免 --> immunize (v)使免疫
@@ -4987,6 +4995,7 @@
 			- overstimulate (v)過度刺激
 			- overstretch (v)使過分伸張, 做出過度的要求
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
+			- overtax (v)對......課稅過重, 使負擔過度
 			+ overthrow (n/v)推翻/廢除 = subvert = topple (v)武力終結, 丟過頭, 丟過..的頭
 			- overtone (n)[音]泛音, 言外之意/弦外之音 = undertone
 			- overtime (mn)加班, 加班費, 加時賽 (adv)加班地
@@ -5283,6 +5292,7 @@
 		++ promulgate (v)頒布法令 = announce officially, 使廣傳/宣傳 = promote <-- pro + mulg 套出消息 = milk + ate
 		- pronounce --> pronounced
 		- propaganda (n)訊息 = information, 政治宣傳/宣傳活動
+		- propagandistic (n)[貶]宣傳者 (adj)宣傳的
 		++ propagate (v)繁殖 = multiply = reproduce = increase, 使廣傳 = promulgate = promote, 傳播/傳導 <-- pro + pag 砍/切 + ate
 		- propel --> propulsion
 		+ propensity
@@ -5394,6 +5404,7 @@
 		* protocol (n)禮儀/禮節, 條約/公約/議定書, 通訊協定 <-- proto + col 膠水 = glue
 		+ prototype (n)原型 = dummy, 典型 (v)製作..的原型
 		* prototypical (adj)原型的/典型的
+		- protozoa (n)原生動物
 	  
 	per
 		1. 完全/徹底/全部/加強 = throughly = utterly = completely = very
@@ -5404,6 +5415,7 @@
 			+ /ˈpɛrɪɡrɪˌneɪt/ peregrinate (v)遊歷 --> peregrination (n)遊歷 <-- per + egri 土地 = agri + nate
 			+ peremptory
 			+ /pəˈrɛnɪəl/ perennial (adj)永久的 = permanent = perpetual = persistent = enduring = recurring, 多年生的, 終年的 (n)多年生植物 <-- per + enn 年 = year + ial
+			- perforce (adv)必定/必然
 			- perfervid
 			+ perish (v)死去, 破滅, 腐爛 = rot = decay
 			* perishing (adj)極冷的/嚴寒的
@@ -5678,12 +5690,14 @@
 
 	poly 多 = many, much
 		+ polyglot (adj)會使用數種語言的 (n)精通數國語言的人 <-- poly + glot 舌頭 = tongue
+		- polymorphous (adj)多形的/多形態的
 
 	pair, pejor 壞 = worse
 		+ pejorative (adj)貶抑的/貶損的 = derogatory = disparaging = belittling (n)貶義詞語
 		+ impair (v)損害/削弱 = damage = injure = lossen = weaken
 		- repair (v)修理/修補, 恢復, 彌補/補償
 		- reparable (adj)能補救的/可挽回的
+		- irreparable (adj)不能修補的/不能挽回的
 		+ /ˌrɛpəˈreɪʃ(ə)n/ reparation (n)賠償/補償 = amends = compensation = recompense --> reparative (adj) <-- repair
 
 	pease, pac 和平 = peace
@@ -6129,7 +6143,8 @@
 		- quietus (n)生命的終止/死
 
 	quit 釋放/放棄 = release, discharge
-		* /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 --> acquittal (n)宣判無罪
+		* /əˈkwɪt/ acquit (v)宣判...無罪 = absolve = exonerate = vindicate, [oneself]表現 
+		- acquittal (n)宣判無罪
 		- requite (v)報答/報復 = recompense, 回應(情感) = respond to  <--> unrequited
 
 	quir, quer, quisit 尋找/取得 = search, obtain == petr
@@ -6934,6 +6949,7 @@
 	semble, simil, simul, sym, syn, syl 相同/一起 = together, similar == co
 		- assemble (v)聚集 = aggregate = agglomerate = amass, 安裝
 		- assembly (n)一群, 與會者, 零件 (mn)集會/集合, 裝配
+		- assemblage (n)集合在一起的人或物, 裝配/裝置 (mn)聚集
 		- asymmetric (adj)不對稱的
 		* assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak
@@ -7444,6 +7460,7 @@
 		+ intact (adj)完整無缺的/原封不動的 = pristine = complete = unblemished = undamaged
 		+ tact (n)機智/圓滑/老練
 		- /ˈtaktʌɪl/ tactile, /ˈtaktʃʊəl/ tactual (adj)觸覺的, 有形的 = tangible, 富有質感的, 愛觸碰他人的
+		- tangled (adj)纏在一起的 = matted, 混亂的/雜亂的 = complicated = confused = chaotic
 		+ tangent (n)正切/切線, 不同的思路或行為/離題 = digression (adj)切線的
 		++ /tanˈdʒɛnʃəl/ tangential (adj)切線的, 離題的/不相關的 = divergent = digressive = peripheral = irrelevant
 		+ tangible (adj)可觸知的/有形的 = palpable = touchable = tactile, 真實存在的 = real = actual (n)有形的物品
@@ -7796,6 +7813,7 @@
 		- unabashed (adj)不害羞的/厚臉皮的
 		* unaccustomed (adj)[to]不習慣的/不熟悉的, 不尋常的
 		+ unadorned (adj)未經裝飾的/樸素的 = plain
+		- unaffiliated (adj)非附屬的/獨立的
 		+ unaffected (adj)自然的/不矯揉造作的, 不受影響的
 		+ inalienable (adj)不可剝奪的/不可分割的 = unalienable (adj)不可剝奪的/不可分割的 = inalienable
 		+ unambiguous (adj)不含糊的/清楚明白的 = unequivocal
@@ -7808,6 +7826,7 @@
 		- unbidden (adj)未受命令的/未受指使的 = voluntary, 下意識的
 		- unbuttoned (adj)鈕扣解開的, [非]放鬆的/無拘束的
 		+ uncanny (adj)奇怪的/神秘的 = strange = mysterious
+		- uncharacteristic (adj)不典型的
 		- uncommitted (adj)未表態的 = noncommittal, 不受約束的/自由的(資源)
 		+ uncommunicative (adj)不愛說話的/沉默寡言的 = taciturn = reticent <|> excommunicate
 		- uncompromising (adj)不妥協的/不讓步的, 嚴厲的 = harsh
@@ -7916,6 +7935,7 @@
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
 		+ unscrupulous (adj)無道德原則的/不誠實的/不公正的 = unprincipled
+		- unseat (v)使從座位上或馬背上摔下, 使下臺
 		+ unseemly (adj)不適當的/不宜的 = indecorous = unbecoming
 		* unsentimental (adj)不感情用事的
 		- unsettle (v)使焦慮/使不安 = disturb --> unsettling (adj)令人不安的 = disturbing
@@ -7932,6 +7952,7 @@
 		- unsurpassed (adj)未被超越的 = all-time
 		- unsustainable (adj)無法支撐的/無法維持的
 		+ unsympathetic (adj)不同情的/冷漠的, 沒有共鳴的/不同意的, 不討人喜歡的 = unlikeable
+		- unswerving (adj)不偏離的/堅定的
 		+ untapped (adj)未開發的/未利用的
 		- untether (v)從繩或鍊上解開
 		+ untempered (adj)無節制的, 未經錘鍊的
@@ -7944,6 +7965,7 @@
 		- untold (adj)無數的/數不清的, 未被講述的
 		+ untoward (adj)沒料到的/不適宜的 = unexpected = unfavorable = inconvenient
 		+ /ˌənˈtraməld/ untrammeled (adj)不受限制的/無拘無束的
+		- untruth (n)虛假, 謊話
 		- /ʌnˈtjuːtəd/ untutored (adj)未經正規教育或訓練的
 		+ unverifiable (adj)無法證實的/無可考證的
 		- unwanted (adj)不需要的
