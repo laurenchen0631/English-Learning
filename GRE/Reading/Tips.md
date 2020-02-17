@@ -121,3 +121,21 @@
 - Paradox Argument
 	- Two premises and no conclusion
 	- Find an answer that resolves the discrepancy.
+- Boldfaced Argument
+	- The hardest paragraph argument question.
+	- Example: In the argument above, the bold-faced parts play which of the following roles.
+	- Strategy:
+		1. **Read entire paragraph**
+		2. Use your own words to describe the function of a boldface part.
+		3. **Do one boldfaced at a time.**
+		4. Watch out for multiple positions on an issue. 
+		5. **Don't get lost in the verbiage of the answer choice.**
+		6. If you can confidently eliminate one part of an answer choice, do not read the second part.
+- Number vs Percent
+	- Percentage != Actual numbers
+
+## Strategy
+- Do not forget the conclusion. Avoid the verbiage.
+	- Refer back to the conclusion if 
+		1. you are unsure about an answer choice
+		2. you want to check your answer 

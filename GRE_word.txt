@@ -292,6 +292,7 @@
     ++ bust (n)胸圍, 胸部, 胸像/半身像, 猛烈的一擊, 搜查/逮補, 無用之物 (v)打破/使爆裂, [up]分開, 使混亂, 痛打, [out]逃跑, 點數爆掉, 突襲搜查, 逮補, 經濟困難, [軍]降階 (adj)破產的
     + bustle (v)奔忙, 催促/趕去, [with]充滿 (n)忙亂/喧囂, 腰墊/裙撐 --> bustling (adj)熙熙攘攘的/喧囂的, 奔忙的
     - butt (n)屁股 = buttocks, 煙蒂, 槍托 (v)用頭或角頂撞
+    - buttock (n)屁股
     + buttress (n)拱牆/扶壁 (v)支撐(物體) = reinforce = prop = sustain, 支持(想法或論點) = bolster = support
     + /bɪˈzantʌɪn/ byzantine (adj)錯綜複雜的 = intricate = complex, 迂迴曲折的 = devious = underhand --> Byzantine (adj)拜占庭式的/東羅馬帝國的
 
@@ -515,6 +516,7 @@
     - breadth (mn)寬度 = width, 廣泛性/廣度
     - breakdown (n)故障/失靈, 崩潰, 分解, 分析
     - breakneck (adj)高速而危險的
+    - breakup (n)分離/分裂, 分手
     - breeze (n)微風, 輕而易舉的事 (v)飄然而行, 輕易地通過
     - breezy (adj)有微風的, 輕鬆活潑的
     - bribe (n/v)賄賂 = graft = entice = seduce <|> bride
@@ -790,6 +792,7 @@
     - canvass (v)遊說, 贏取(支持) = botain, 提出(意見或計劃)供考慮 = moot, 詳細討論 (n)遊說, 討論
     - crevasse (n)冰河裂縫
     - cap (n)無邊便帽, 蓋/罩, 方頂帽/學位帽 = mortar board, 蓋子, 經費的最高限度, 菌蓋/菌傘, 火藥帽 (v)蓋上, 覆蓋…的頂部, 提供合適的結局, 對(收費或花費)定限額
+    - cape (n)披肩, 斗篷, 頭部或頸部的毛皮, 岬/海角
     - capillary (n)毛細管, 毛細血管 (adj)毛細管的 <-- capill 毛髮 = hair
     - capitalize (v)[on]利用…獲益/從…中獲利, 給..提供資本 = finance, 兌現 = realize, 估(價), 用大寫書寫
     - caramelize (v)使成焦糖
@@ -863,6 +866,7 @@
     - cipher, cypher (n)密碼/密碼文件, 零 = zero = nil, 無影響力之人/無名小卒 = nonentity, 花押字 = monogram (v)編碼 = encode
     - clam (n)蛤蜊/蛤肉, 守秘密之人
     - clamp (n)鉗子/夾子, 懲罰違規停車的車輪固定夾 = wheel clamp (v)鉗緊/夾緊, 緊緊抓住/牢牢固定住 <|> clasp <|> cramp
+    - clack (v)發出嗶剝聲 (n)嗶剝聲
     - clank (n)(金屬相擊的)叮噹聲/噹啷聲 (v)發叮噹聲
     - clap (v)拍(手), 振(翼) (n)拍手, 拍肩, 霹靂聲, 淋病
     - clasp (n)扣子/鉤子, 擁抱 = embrace, 抓住/握手 (v)抱緊/握緊/抓緊
@@ -1053,6 +1057,7 @@
     * dim (adj)暗淡的, 模糊的/朦朧的, 看不清楚的, 慘淡的 = bleak, [非]頭腦遲鈍的 (v)(使)黯淡/模糊, 使減弱
     * dimple (n)酒窩, 淺凹洞 (v)形成淺凹洞, 現笑靨
     ** dismal (adj)悲傷絕望的/憂鬱的 = gloomy, [非]十分糟糕的 = abject = deplorable
+    ** doctor (n)醫生,博士 (v)竄改/偽造 = falsify, [非]治療, 結紮, 修理 = repair
     * dote (v)[on/upon]溺愛 = spoil = pamper --> doting (adj)溺愛的/鍾愛的 = adoring
     * downside (n)不利的一面/不利因素
     *** drain (v)排放/排掉(液體), 喝乾/喝光, 剝奪(精力), 耗盡 (n)排水管, 消耗/負擔, 不斷外流/逐漸流光 <-- dry
@@ -1093,6 +1098,7 @@
     - defendant (n)被告 <--> plaintiff
     - deli (n)熟食店 = delicatessen
     - /dɛlv/ delve (v)搜索, 探究/鑽研
+    - depot (n)倉庫/儲藏處, 火車站/公車站, 兵站
     - derrick (n)轉臂起重機, 油井的鐵架塔
     - derring-do (n)英勇行為/大膽之舉
     - dervish (n)回教的托缽僧
@@ -1337,6 +1343,7 @@
     + /fɪˈlɪsɪtəs/ felicitous (adj)得體的 = appropriate, 令人愉悅的 <-- felici 快樂 = happy + ty
     + /ˈfɛr(ə)l/ feral (adj)野生的 = wild, 野獸的, 野獸特有的, 不遵守紀律的(年青人) <|> /ˈfɛːrəʊ/ pharaoh <-- fer 野生動物 = wild animal + al
     + /fəˈrəʊʃəs/ ferocious (adj)野蠻的/兇殘的 = fierce = savage, [非]強烈的/極度的 = extreme = intense <-- fierce
+    + ferocity (mn)兇猛/殘暴
     + /ˈfɛrɪt/ ferret (n)雪貂, 搜尋 (v)用雪貂獵取, 搜尋/搜索 = rummage, [out]找到 = discover
     + fetching (adj)迷人的 = attractive
     + /feɪt/ fete (n)節日/喜慶 = celebration = festival (v)盛宴招待/款待
@@ -1348,6 +1355,7 @@
     + filibuster (n/v)妨礙議事
     + finagle (v)[非]欺騙/騙取 = fleece
     + /fɪˈnans/ finance (n)財政, 資金支援, 資金 (v)提供資金 = capitalize --> financial (adj)財政的 (n)財政情況, 公司股票
+    - fiance (n)未婚夫
     + find -> found -> found (v)找到/發現 = discover, 覺得/認為/意識到 = perceive = feel, 達到 (n)發現
     + /fɪˈnɛs/ finesse (n)技巧/計謀/手段 = trick = artifice = stratagem (v)巧妙地應對 <-- fine
     + /ˈfɪnɪki/ finicky, /ˈfɪnɪk(ə)l/ finical (adj)過分講究的/挑剔的 = fussy
@@ -1556,6 +1564,7 @@
     - flatten (v)變平, 夷平, [非]擊敗, [非]大勝, 降半音 <|> flatter
     - flaunt (v)炫耀/誇飾 = boast = brag
     - flax (n)亞麻, 亞麻織品 <|> flex
+    - flea (n)跳蚤
     - fleck (n)光斑, 斑點 = speck (v)飾以斑點
     - flesh (n)肌肉, 肉, 果肉, 皮膚/表皮, 肉體, 肉色 (v)用肉餵養, 使習慣於殺人, [out]增重, [out]以細節或資訊充實, [out]使肉剝離
     - flight (n)飛行/飛翔, 飛逝, 一群(鳥、蟲或飛行機) = flock, 樓梯的一段, 障礙賽的障礙物, (想像力)奔放, 飛鏢的尾部 (mn)逃跑 = fleeing (v)在(飛鏢或箭)裝上尾羽, 射(飛行中的野禽) <-- fly
@@ -1722,7 +1731,7 @@
     * grid (n)網格/格柵 = grating, 網狀物, 電力網/輸電網, 地圖坐標方格 (v)成網狀
     - gridlock (n)極端嚴重的交通壅塞, 僵局 = deadlock
     * /ɡəːd/ gird (v)束(帶子), 包圍 = surround = encircle <|> grid
-    ** grim (adj)嚴肅的, 黑色的(幽默), 可怕的/陰森的, 嚴酷的/嚴峻的 = harsh
+    ** grim (adj)嚴肅的, 黑色的(幽默), 可怕的/陰森的, 嚴酷的/嚴峻的 = harsh = bleak
     * /ɡrʌɪm/ grime (mn)灰塵/髒污 (v)弄髒 = soil 
     * grimy (adj)沾滿污垢的 = dirty
     * grind (v)磨刀/拋光 = whet, 磨碎/碾碎, 摩擦 = rub (n)磨擦聲, 顆粒大小, 枯燥乏味的工作, [非]書呆子
@@ -1801,6 +1810,7 @@
     - gild (v)鍍金 <|> gilt
     - gill (n)鰓, 基爾(容量單位) (v)除去魚內臟, 用刺網捕
     - gilt (adj)鍍金的 (mn)鍍金塗層 (n)[gilts]金邊債券(泛指所有中央政府發行的債券), 小母豬
+    - gag (n)塞口物/口銜, 言論箝制 (v)塞住...的嘴, 噎/作嘔 = choke = retch
     - /ɡɪɡ/ gig (n)二輪單馬車, 小艇, 演奏/公演, 暫時的工作, 魚叉 (v)演奏/公演, 用..演奏, 用魚叉捕魚
     - giggle (v)咯咯地笑
     - gimmick (n)吸引人的花招/噱頭
@@ -1977,6 +1987,7 @@
     * /həːl/ hurl (v)猛力投擲, 大聲叫罵/辱罵, [非]嘔吐 = vomit <|> /hɛl/ hell
     ** heave (n/v)用力舉起/拉起 = hoist, [非]丟擲(重物), 發出(嘆息), 上下起伏,  嘔吐 <|> upheave <|> heaven
     * heel (n)腳後跟, 底部/根部, 高跟鞋, 卑鄙的人 (v)緊跟/緊追
+    * hell-bent (adj)不顧一切的/死心塌地的
     * hermit (n)隱士/修道者 = recluse, 隱士夜鶇 <|> hermetic
     ** hide (N)獸皮, 藏身處 (v)隱藏 <|> chide
     * hiss (v)發出嘶嘶聲, 發出噓聲/表示不同意 (n)噓聲, 嘶嘶聲, 電波干擾
@@ -1986,6 +1997,7 @@
     *** honor (n)尊敬, 光榮的事或人, 品德高尚, 貞潔, 榮幸 = privilege, 榮譽, 優等成績, (橋牌)價值最高的牌 (v)尊敬, 承兌/實踐 = fulfill, 支付
     * horticulture (mn)園藝/園藝學 <-- horti 花園 = garden + culture
     * howl (v)長嚎/嗥叫 = bay, 哀號, (風)呼嘯 (n)號叫聲/喊叫聲/呼嘯聲, 怒吼/憤怒的表示 <|> growl
+    * hubbub (n)吵鬧聲/騷動 = tumult = uproar
     * humanitarian (adj)人道主義的 (n)人道主義者
     * /ˈhʌmbʌɡ/ humbug (n)欺騙, 偽君子 = hypocrite (v)欺騙 = delude = deceive <|> humdrum
     *** humor (n)幽默, 幽默感, 心情 = mood (v)迎合/遷就 = indulge = pander to
@@ -2857,6 +2869,7 @@
     + naysay -> naysaid (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
     + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy
     + nebulosity (n)朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = mist, cloudy + ous
+    -nebula -> nebulae (n)星雲, 角膜雲翳
     + necessitate (v)使必須 == make (something) necessary 
     + necessitous (adj)窮困的 = needy
     + necromancy (n)通靈術, 巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
@@ -3476,6 +3489,7 @@
     - quaver (n/v)(聲音)顫抖 = shake = tremble
     - quay (n)碼頭 = dock = wharf = pier
     - queue (v)排隊, 非常想做/排隊做 (n)長隊, (想獲取某物的)許多人
+    - quicken (v)加快, 激發, 使復活
     - quill (n)(鳥)翮/翮羽, 羽毛管, 羽毛筆 = quill pen, (刺蝟或豪豬的)刺, 筆管麵 = penne, Pan pipes
     - quilt (n)被褥, 刺繡床罩, 鴨絨墊, 隔絕墊 (v)縫被子
     - /ˈkwɪvə/ quiver (v)顫抖 = tremble, 使顫動 (n)箭袋/箭筒 <|> shiver
@@ -4864,6 +4878,7 @@
     + utterance (n)言詞/言論, 發聲/表達
 
     * /ˈʌmpʌɪə/ umpire (n)裁判 = judge, 仲裁人/裁決者 = arbiter (v)裁判/仲裁 = adjudicate = arbitrate <|> empire
+    * uppity (ADJ)高傲的/盛氣凌人的 = self-important = arrogant
     * urge (v)力勸, 推薦 = recommend, 驅策 = impel, [on]激勵 = provoke = stimulate (n)衝動/慾望 = compulsion = impluse
     * urgent (adj)緊急的/急迫的 = exigent, 執著的/堅定的 = persistent
     * /ˈʌʃə/ usher (n)接待員, (法庭)庭吏 (v)引領, [in]預報/開闢 = herald

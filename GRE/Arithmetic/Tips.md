@@ -335,6 +335,38 @@
 	- Volume: hπr^2 
 	- Total Area: 2πr^2 + 2πrh = 2πr(r+h)
 
+## Linear Coordinate
+- Horizontal line: y = K
+- Vertical line: x = K
+- Intercepts
+	- An intercept is the point at which a graph crosses the x or y axis.
+	- At a y-intercept, the value of x = 0. (0, y)
+	- At a x-intercept, the value of y = 0. (x, 0)
+- Slope: 
+	- Rise over run
+		- Run: **horizontal separation** from the left to right.
+		- Rise: vertical separation between the points from the left to right. If the point on right is higher, then the rise is positive; if lower, negative.
+		- Slope = rise / run = (y2 - y1) / (x2 - x1)
+	- Meaning: (if slope = 2)
+		- right 1 unit, up 2 unit
+		- right k unit, and then up 2k unit.
+		- left 1 unit, down 2 unit
+		- left k unit, and then down 2k unit.
+	- Special slope m
+		- If |m| = 1, and then the slope triangle is a 45-45-90 triangle
+		- If two line have the same slope, then the two line are parallel.
+		- If the product of two slope m1 and m2 is -1, then the two line must be perpendicular.
+			- If the slope of original line is m1 = p/q
+			- The slope of the perpendicular is m2 = -q/p
+		- For horizontal line, m = 0.
+		- For vertical line, m is undefined or infinite.
+	- Slope-Intercept Form: y = mx + b
+		- m is slope
+		- b is the y-intercept
+- Reflection
+	- Reflection over the line y = x: (a,b) reflects (b,a)
+	- Reflection over the line y = -x: (a,b) reflects (-b,-a)
+
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.

@@ -56,6 +56,7 @@
 - amass <--> amiss
 - applicant <--> appliance
 - acquisitive
+- abrasive
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -80,7 +81,7 @@
 - bracket <--> brackish <--> racket <--> rack <--> racketeer <--> racketeering
 - breed <--> brood
 - bridle <--> bribe <--> bride
-- buff <--> puff <--> miff <--> rebuff <--> buffoon  <--> huff
+- buff <--> puff <--> miff <--> rebuff <--> buffoon  <--> huff <--> riff <--> riff-raff
 - bugle <--> bulge <--> bilge <--> bungle <--> jungle
 - budge <--> budget
 - bumble <--> fumble <--> grumble <--> mumble <--> rumble <--> rumple
@@ -100,6 +101,7 @@
 - calumniate <--> culminate <--> fulminate
 - canon <--> canoe <--> cannon <--> canyon <--> crayon
 - canny <--> uncanny <--> cranny <--> nanny <--> penny <--> tinny <--> bonnie, bonny
+- cap <--> cape
 - capillary <--> caterpillar
 - capitulate <--> recapitulate <--> decapitation
 - captious <--> captive <--> capacious
@@ -166,7 +168,7 @@
 - congenial <--> congenital <--> genital
 - conjecture <--> conjure <--> conjugal <--> subjugate
 - consol <--> consul
-- consort <--> consortium <--> comport <--> deport
+- consort <--> consortium <--> comport <--> deport <--> depot
 - constituent <--> constituency <--> constitution <--> constitutional
 - consummate <--> commensurate
 - content <--> contention <--> contentment <--> contentious <--> consent
@@ -223,6 +225,9 @@
 - congressional
 - congest
 - communicate <--> excommunicate
+- correspond <--> correspondent
+- cosmic <--> cosmetic <--> comic
+- clack <--> clank
 
 ## D
 - dabble <--> dapple <--> dribble <--> paddle <--> puddle <--> waddle <--> wade
@@ -417,6 +422,7 @@
 - fruit <--> bruit
 - functional <--> functionary <--> defunct <--> perfunctory
 - fungi <--> fungible
+- finance <--> fiance
 
 ## G
 - gaffe <--> gaff <--> guffaw
@@ -428,7 +434,7 @@
 - gawk <--> hawk <--> hawker
 - germane <--> germ <--> germinate
 - giddy <--> piddly
-- gig <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> haggard <--> hassle <--> waggle
+- gig <--> gag <--> giggle <--> goggle <--> boggle <--> gaggle <--> haggle <--> haggard <--> hassle <--> waggle
 - git <--> grit <--> gritty <--> gilt <--> glitz <--> flit <--> flint <--> silt <--> slit <--> milt <--> jilt <--> wilt <--> glitter <--> glimmer 
 - glean <--> clean
 - glib <--> gild <--> glide
@@ -539,7 +545,7 @@
 - intercede
 - intransigent <--> transient
 - invest <--> investiture <--> divest <--> divestiture
-- inveterate <--> invertebrate <--> venerate
+- inveterate <--> invertebrate <--> reverberate <--> venerate
 - invidious <--> insidious
 - irritate <--> irrigate <--> irate <--> ire
 - itinerant <--> itinerary
@@ -636,6 +642,7 @@
 - myriad <--> pyramid
 - mythic <--> mythical
 - mindful <--> absent-minded <--> high-minded <--> simpleminded
+- morph <--> morphine
 
 ## N
 - naive <--> native
@@ -799,7 +806,7 @@
 
 ## R
 - raffish <--> offish <--> rakish
-- raft <--> rift <--> rife <--> ripe
+- raft <--> rift <--> rife <--> rifle <--> ripe <--> rip
 - rail <--> raillery
 - raise <--> raisin
 - rampage <--> rampart
@@ -812,7 +819,7 @@
 - redoubtable <--> redouble
 - refractory <--> refract
 - relate <--> relative
-- rapprochement <--> reproach <--> reprobate <--> approach
+- rapprochement <--> reproach <--> reprobate <--> approach <--> rapport <--> rapporteur
 - rational <--> rationale
 - rattle <--> prattle
 - raucous
@@ -823,9 +830,11 @@
 - reclusive <--> repulsive
 - recreant
 - recrimination <--> incrimination
+- redound <--> redundant
 - reek
 - reflective <--> reflexive <--> reflect <--> refection <--> refectory
 - relinquish
+- remark <--> remarkable
 - remiss <--> remit <--> remission <--> remission
 - remonstrate <--> demonstrative
 - renaissance <--> reconnaissance <--> reconnoiter
@@ -835,7 +844,6 @@
 - repeal <--> repel <--> repellent <--> repulse <--> repulsive
 - repine <--> pine
 - replete <--> deplete
-- reprobate
 - requisite <--> requisition
 - rescission
 - resign <--> resigned
@@ -843,7 +851,7 @@
 - retain <--> retrain
 - retire <--> retiring
 - retina <--> patina
-- retrench <--> retreat <--> entrench
+- retrench <--> retreat <--> retract <--> entrench
 - revere <--> reverie <--> reversion
 - revolve <--> revolute <--> revolution <--> revolt <--> revolting
 - rib <--> rig <--> rip
@@ -936,6 +944,7 @@
 - sobriety <--> sobriquet
 - sole <--> sore
 - sooth <--> seethe
+- sovereign <--> sovereignty
 - specter <--> spectator
 - spoof <--> spook
 - soporific <--> sporadic
@@ -950,7 +959,7 @@
 - solipsism
 - somnolent
 - supple <--> supplement
-- stake <--> stick <--> stock <--> stoke <--> stove
+- stake <--> stick <--> stock <--> stoke <--> stove <--> stave
 - staid <--> stand <--> strand
 - stock <--> stocky <--> stoke <--> stove
 - stoic <--> stolid
@@ -969,6 +978,8 @@
 - studious <--> studied
 - subside <--> subsidy <--> subsidize <--> subsidiary
 - subsist
+- subrogate <--> surrogate
+- succinct <--> precinct
 - succor
 - suffuse
 - susceptible <--> suspicious
@@ -991,6 +1002,7 @@
 - temerity <--> temerarious
 - temper <--> untempered <--> temperate <--> temperamental <--> temperance <--> temperature 
 - tend <--> tender <--> tendentious <--> sententious <--> tenacious <--> untenable
+- tenant <--> tenet <--> tenement <--> tenor <--> tenure
 - tenebrous
 - teensy <--> tinny
 - tentative <--> tendentious
