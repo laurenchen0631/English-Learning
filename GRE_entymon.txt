@@ -133,6 +133,7 @@
 			+ analgesia --> analgesic
 			+ anarchy
 			* /ˌanɪsˈθɛtɪk/ anesthetic, anaesthetic (n)(手術用)麻醉劑 <-- an + aesthetic
+			* anesthetize (v)麻醉, 使麻痺
 			+ anemia --> anemic
 			- aniconic (adj)象徵性的, 沒有偶像或圖像的
 			+ anomaly (n)異常/異常事物 --> anomalous (adj)異常的/不正常的 = irregular = aberrant
@@ -2318,6 +2319,7 @@
 		* engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
+		- enjambment (mn)詩句之連續
 		+ enjoin (v)教導/鼓勵 = instruct = urge, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge
 		+ enlist (v)徵兵, 謀取...贊助或支持
@@ -3907,7 +3909,8 @@
 		+ judicious (adj)明斷的 = discreet = prudent = circumspect = deliberate = measured = canny = guarded = methodical
 		+ injudicious
 		* prejudge (v)預先判斷
-		* /ˈprɛdʒʊdɪs/ prejudice (n)偏見/成見 = jaundice = bias, [法]侵害/損害 (v)使懷偏見 = jaundice = bias, 侵害/損害 --> prejudiced (adj)有成見的/有偏見的
+		* /ˈprɛdʒʊdɪs/ prejudice (n)偏見/成見 = jaundice = bias, [法]侵害/損害 (v)使懷偏見 = jaundice = bias, 侵害/損害
+		* prejudiced (adj)有成見的/有偏見的
 
 	jug 束縛 = yoke
 		+ conjugal (adj)婚姻的 = marital
@@ -4247,6 +4250,7 @@
 		++ languish (v)衰弱 = droop = fade = debilitate = pine = wan, 停滯/沒有進展, 經歷苦難/受煎熬
 		++ languid (adj)沒精打采的/疲倦的 = listless = wan = spiritless, 悠閒的, 虛弱的 = weary = fatigued
 		- languor (n)慵懶 = tiredness = inactivity, 沈悶的空氣
+		- languorous (adj)令人倦怠的
 
 	luxur 奢侈 = extravagance
 		* luxury (n)奢侈/奢侈品, 享受/樂趣 (adj)奢侈的 = luxurious
@@ -4824,11 +4828,13 @@
 		- numberless (adj)數不清的/多不可數的 = innumerable
 
 	nat, nasc, naiss 出生 = born
+		- antenatal (adj)產前的
 		+ /ɪˈneɪt/ innate (adj)與生俱來的/天生的 = inborn = native = born <|> inmate
 		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
 		+ nascent (adj)新興的/萌芽的 = incipient = embryonic --> nascency (n)
 		- neonatal (adj)新生的 = newborn
+		- neonatologist (n)新生兒科醫師
 		- prenatal
 		- renascent (adj)再生的/復興的/復甦的
 		* /rɪˈneɪsəns/ renaissance (n)新生/復活 = renascence, 文藝復興 <|> reconnaissance
@@ -5010,7 +5016,8 @@
 			- overtourism (n)過度旅遊(指遊客過度擁擠或過度擁擠，導致與當地人發生衝突)
 			- overturn (v)翻倒 = turn over, 推翻/廢除 = abolish = invalidate 
 			+ /əʊvəˈwiːnɪŋ/ overweening (adj)驕傲的/自負的 = presumptuous = arrogant <-- over + ween [古]料想/想像
-			+++ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower --> overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
+			+++ overwhelm (v)淹沒, 氾濫 = inundate, 壓倒 = crush = overpower = overbear, 徹底擊敗, 對..來說過於強烈 = overpower 
+			+++ overwhelming (adj)壓倒性的/大量的, 非常強烈的(情緒)
 			- overwinter (v)過冬
 			++ overwrought (adj)緊張過度的/興奮過度的, 過度精緻的
 
@@ -5199,6 +5206,7 @@
 		+ predilection 
 		- predisposition 
 		- predominate (v)佔優勢, 佔主導或支配地位 = dominate --> predominant (adj)主要的/佔優勢的, 佔支配地位的
+		- preemie (n)早產嬰兒
 		+ preeminent
 		+ preempt
 		- preface (n)序言 = introductionl, 初步解釋, 序誦/序禱 (v)為……加序言
@@ -5243,6 +5251,7 @@
 		+ presuppose --> presupposition
 		+++ pretend --> pretended
 		+ pretense --> pretension --> pretentious
+		- preterm (adj/adv)早產
 		- pretext
 		++ prevail (v)勝過/優於 = surpass = exceed = transcend = excel = outstrip = outweigh = preponderate, 盛行, [on/upon]說服 = persuade <|> travail
 		+ prevalent
@@ -5724,6 +5733,7 @@
 		+ /pləˈkeɪt/ placate (v)平息/安撫 = soothe = appease = pacify = conciliate
 		+ placid (adj)平和的/溫和的 = not easily upset , 平穩的 <|> pacific
 		- placebo (n)安慰劑
+		- placenta (n)胎盤, 胎座
 
 	plaint, plain 悲嘆 = mourn
 		* complain (v)抱怨/發牢騷 = repine = grouse = grumble = grouch = fret, 發出哀鳴
@@ -6671,8 +6681,7 @@
 			+ supplement
 			+ supplicate --> suppliant, supplicant
 			+ suppress --> suppression
-			- surreal (adj)超現實的/荒誕不經的 = bizarre
-			+ surrender (v)投降, 放棄/交回 = give up = hand over, [to]使沉溺於(情緒) (n)投降, 引渡
+			+ surrender (v)投降, 放棄/交回 = give up = hand over = cede, [to]使沉溺於(情緒) (n)投降, 引渡
 			+ surreptitious
 			- suspend --> suspension --> suspense
 			+ suspect
@@ -6694,7 +6703,8 @@
 			*** /suːˈpɪərɪə/ superior (adj)較高的/上級的, 較好的/上等的, 較大的/較多的, 高傲的/傲慢的, 更靠近頭/更遠離腳的 (n)上司/長官, 修道院院長 --> /suːˌpɪərɪˈɒrɪti/ superiority (n)優越/優勢/上等
 			- superlative (adj)最好的, [文]最高級的 (n)最好的讚美, 最好的人或物, 最高級
 			- supernova (n)超新星
-			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最重要的, 最大的/極度的 = great --> supremacy (n)至高無上/霸權
+			+ /suːˈpriːm/ supreme (adj)最高的/至上的 = sovereign, 最重要的, 最大的/極度的 = great
+			+ supremacy (n)至高無上/霸權
 			- supremacist (n)至上主義者 (adj)至上主義的
 			- supermajority (n)絕大多數
 			- superstition
@@ -6703,6 +6713,7 @@
 			- surmise
 			+++ surpass (v)超過 = exceed = transcend, 超越 = transcend = excel = outstrip = outweigh = prevail over
 			- surplus (adj)過剩的 = excess = superfluous, 盈餘的 (n)過剩 = plethora, 盈餘
+			- surreal (adj)超現實的/荒誕不經的 = bizarre
 			- surrealism (n)超現實主義
 			- survive
 
@@ -6799,7 +6810,8 @@
 		** instrumental (adj)有幫助的/有作用的, 儀器的, 用樂器演奏的
 		- instrumentalist (n)樂器演奏者
 		- obstacle (n)障礙/干擾
-		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的 --> obstinacy (n)固執/頑固 = stubbornness
+		+ obstinate (adj)頑固的/固執的 = froward = intractable = insubordinate, 難以改變的
+		+ obstinacy (n)固執/頑固 = stubbornness
 		+ persist (v)堅持/固執, 持續 = continue to exist = be prolonged
 		- prostitute (n)娼妓, 濫用才能 (v)賣淫, 濫用才能 --> prostitution (mn)賣淫, 濫用/糟蹋
 		+ resist (v)抵抗/反抗 = withstand, 克制/忍住(誘惑) = refrain from --> resistance (n)抵抗/反抗/抵制, 抵抗力, 阻力, 電阻
@@ -6816,7 +6828,7 @@
 		- standout (n)[非]出眾的人或事物 (adj)[非]傑出的
 		- standstill (n)停止/停滯
 		- stanza (n)詩節/詩段 = verse
-		- stately (adj)宏偉的/堂皇的, 莊嚴的/高貴的
+		* stately (adj)宏偉的/堂皇的, 莊嚴的/高貴的
 		- stats (n)[非]統計 = statistics
 		+ stasis -> stases (n)停滯/靜止 = inactivity = equilibrium, 瘀血
 		+ static (adj)靜態的/靜止的, 靜力的, 靜電的 (n)靜電噪聲, 靜電
@@ -6867,7 +6879,9 @@
 		+ circumscribe
 		- inscribe (v)題寫/刻寫/在某物上寫, 題贈, [幾何]内切
 		- manuscript
-		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin --> prescription (n)處方, 命令/指示
+		- prescribe (v)開處方, 規定/命令 = direct = dictate = appoint = ordain = enjoin 
+		- prescription (n)處方, 命令/指示
+		- prescriptive (adj)規定的, 慣例的
 		+ proscribe (v)(政府或其他權力機構)禁止 = ban = forbid = prohibit = outlaw, 譴責 = condemn = denounce <|> prescribe
 		- scribble (n/v)亂寫/亂塗 
 		- scribe (n)抄寫員, 劃線器 (v)寫 = write, 用劃線器劃 --> scribal (adj)抄寫的
@@ -6901,8 +6915,9 @@
 		- specialize (v)[in]專攻/專門從事 <-- special
 		- specialization (n)特別化/專門化, 專業分工, 特化
 		+ species (n)物種, 種/類 = sort = kind
-		- /ˌspiːʃɪˈeɪʃ(ə)n/ speciation  (n)物種形成
-		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 --> specifics (n)細節/詳情 = details
+		- /ˌspiːʃɪˈeɪʃ(ə)n/ speciation (n)物種形成
+		- specific (adj)特定的 = identified, 明確的/具體的 = precise, 物種的, 獨有的/特有的 (n)特效藥 
+		- specifics (n)細節/詳情 = details
 		- specimen (n)範例, 樣品, 標本
 		+ /ˈspiːʃəs/ specious (adj)似是而非的 <--> plausible, 華而不實的 = meretricious <|> /səˈspɪʃəs/ suspicious
 		* /ˈspɛktək(ə)l/ spectacle (n)奇景/壯觀, 精彩的表演/壯觀的場面 <|> speculate

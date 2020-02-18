@@ -11,7 +11,7 @@
 - adumbrate
 - adulate <--> adulterate <--> adultery <--> adulterous <--> adolescent
 - advert <--> advertence <--> advertise <--> inadvertent <--> adverse <--> adversary <--> adversarial <--> adversity <--> averse <--> avert <--> aver
-- aesthetic <--> anesthetic
+- aesthetic <--> anesthetic 
 - affect <--> effect <--> disaffected <--> ineffable <--> ineffectual <--> effrontery <--> affront
 - affectation <--> affection
 - affirm <--> confirm <--> confirmed <--> infirm
@@ -43,7 +43,7 @@
 - asperity
 - astringent <--> stringent
 - assert <--> assume <--> unassuming
-- ascetic <--> aseptic
+- ascetic <--> aseptic <--> septic
 - attenuate <--> accentuate <--> accent <--> extenuate <--> extenuating
 - authoritative <--> authoritarian
 - avarice
@@ -99,7 +99,7 @@
 - callow <--> fallow
 - calm <--> clam <--> clamor
 - calumniate <--> culminate <--> fulminate
-- canon <--> canoe <--> cannon <--> canyon <--> crayon
+- canon <--> canoe <--> cannon <--> canyon <--> crayon <--> canonical
 - canny <--> uncanny <--> cranny <--> nanny <--> penny <--> tinny <--> bonnie, bonny
 - cap <--> cape
 - capillary <--> caterpillar
@@ -152,7 +152,7 @@
 - commute <--> commune <--> communion
 - compass <--> compassion <--> encompass
 - compel <--> compelling
-- complacent <--> complaisant <--> implacable 
+- complacent <--> complaisant <--> implacable <--> placenta
 - complement <--> compliment <--> compliance
 - comprehend <--> comprehensive
 - compromise <--> uncompromising
@@ -493,6 +493,7 @@
 - husk <--> husky <--> hulk <--> hull
 - hustle <--> rustle
 - hypocritical <--> hypercritical
+- hypothesis <--> hypnosis
 - huff
 
 ## I
@@ -504,7 +505,7 @@
 - impecunious
 - incandescent <--> incendiary <--> incense
 - incarcerate
-- incarnate <--> incarnadine <--> carnage <--> carnal
+- incarnate <--> incarnadine <--> carnage <--> carnal <--> carnival
 - incept <--> intake <--> ingest
 - incursion <--> incur <--> occurrence <--> occur <--> intrude
 - indefensible
@@ -551,10 +552,13 @@
 - itinerant <--> itinerary
 - inexplicable <--> inextricable
 - irenic
+- instate
+- instrument <--> instrumental
+- imbecile
 
 ## J
 - jag <--> nag <--> jog <--> jug <--> juggle <--> ragged <--> rugged
-- jockey <--> hockey
+- jockey <--> hockey <--> hokey
 - jot <--> jut <--> jolt <--> jostle
 - juncture <--> junction
 - junta
@@ -562,7 +566,7 @@
 ## L
 - lacerate <--> macerate <--> larceny
 - lam <--> lame
-- languid <--> languish
+- languid <--> languish <--> languorous
 - lascivious <--> luscious
 - latent <--> patent
 - lava <--> larva
@@ -686,6 +690,7 @@
 - overwhelm <--> underwhelmed
 - overweening
 - odorous <--> odometer
+- obstruct <--> obtuse <--> obtrusive
 
 ## P
 - pagan <--> pigeon <--> pageant
@@ -752,7 +757,7 @@
 - privacy <--> privation <--> privy <--> piracy
 - precocious
 - predict <--> predicate <--> predicament
-- preeminent <--> prominent <--> eminent
+- preeminent <--> preemie <--> prominent <--> eminent
 - preposterous <--> preponderance
 - prerogative
 - pretentious <--> presentiment <--> presentation <--> sentiment <--> sentimental
@@ -791,6 +796,9 @@
 - provenance <--> provender <--> provision <--> provisional <--> provisory
 - perforce
 - pronounce <--> pronounced
+- prostitute
+- perspective <--> perspicacious <--> perspicuous <--> prospect
+- prescription <--> prescriptive
 
 ## Q
 - quail <--> quill <--> quilt
@@ -867,6 +875,8 @@
 - rub <--> rubber <--> rut <--> rug <--> rugged <--> rutted <--> rue 
 - rubric <--> lubricate <--> fabricate
 - rove <--> rover <--> mangrove <--> grove
+- retrospective <--> introspective
+- respect <--> respective <--> respectable <--> respite
 
 ## S
 - sabotage <--> sabot <--> saboteur
@@ -898,7 +908,7 @@
 - scurry <--> scurrilous
 - scruple <--> scrupulous <--> unscrupulous
 - scurvy <--> purvey
-- secede <--> succeed <--> success <--> succession
+- secede <--> concede <--> succeed <--> success <--> succession <--> secession
 - secure <--> secular
 - sensible <--> senescent <--> insensible <--> sensibility <--> sensitive <--> insensitive
 - serendipitous <--> serpentine
@@ -923,7 +933,7 @@
 - skew <--> skewer <--> slew
 - skim <--> skimp <--> skimpy
 - slab <--> slat <--> slate 
-- slake <--> slack <--> slick <--> sleek <--> slink
+- slake <--> slack <--> slick <--> sleek <--> meek <--> slink
 - slaughter <--> onslaught
 - slay <--> splay <--> spray
 - sleight <--> sleigh
@@ -950,18 +960,17 @@
 - soporific <--> sporadic
 - spare <--> sparing <--> unsparing
 - specious <--> suspicious
-- spit <--> split <--> splint <--> spat <--> squat <--> squint
-- spur <--> spurious <--> spar <--> spurn <--> spurt <--> sprout <--> spout
+- spit <--> split <--> splint <--> spat <--> spate <--> spatter <--> squat <--> squint
+- spur <--> spurious <--> spar <--> sparring <--> spurn <--> spurt <--> sprout <--> spout
 - squelch <--> squinch <--> squint
 - squeamish
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - solipsism
 - somnolent
-- supple <--> supplement
-- stake <--> stick <--> stock <--> stoke <--> stove <--> stave
+- supple <--> supplement <--> supplicate <--> suppliant, supplicant 
+- stake <--> stick <--> stock <--> stock <--> stocky <--> stoke <--> stove <--> stave <--> stowaway
 - staid <--> stand <--> strand
-- stock <--> stocky <--> stoke <--> stove
 - stoic <--> stolid
 - stone <--> stoned <--> stonewall
 - storey <--> story
@@ -992,6 +1001,7 @@
 - sophomoric
 
 ## T
+- taboo <--> tattoo
 - tackle <--> tickle
 - tactile <--> tactual
 - tally <--> tall

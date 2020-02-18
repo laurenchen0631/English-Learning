@@ -5,6 +5,7 @@
     + abreast (adv)並列地 = side by side --> keep abside of (v)了解...的最新情況
     + abridge (vt)精簡 = abbreviate = condense, 縮限/限制(權力) = curtail
     + absurd (adj)不合理的 = unreasonable = inappropriate, 荒謬的/可笑的 = ludicrous
+    + absurdity (n)荒謬/荒誕
     + /əˈbʌnd(ə)nt/ abundant (adj)大量的 = ample = bountiful = profuse = rife, [in]豐富的/充斥的 = abounding = rife
     + abundance (n)大量, 豐富/充斥 = plentifulness <|> abound
     ++ account (n)記述/描述, 演奏/詮釋, 帳目, [accounts]會計部門, 帳戶, 客戶, 帳號 (mn)重要性 = importance (v)把…視為
@@ -434,6 +435,7 @@
     - billiards (n)撞球
     - billow (n)波濤 (v)(纖維)鼓起, 翻騰 --> billowy (adj)巨浪似的/洶湧的 = surging
     - bin (n)大箱子 (v)[非]把…扔進垃圾箱, 丟棄 = discard, [off]結束與..的關係, 把……貯藏在箱中 --> dustbin (n)垃圾箱
+    - binder (n)裝訂, 黏結劑/繩索/帶子, 割捆機, 裝訂工
     - bit (n)鑽頭/錐, 少許, 硬幣, 馬勒
     - bisque (n)貝類濃湯, 讓分, 素燒陶器 = biscuit, 淡褐色 = biscuit
     - blackout (n)斷電時期/斷電/停電, 暫時暈倒/暫時失去知覺, 消息封鎖
@@ -596,6 +598,7 @@
     ++ canny (adj)精明的 = astute = acute = sagacious = shrewd <|> uncanny --> canniness (n)
     ++ /ˈkanən/ canon (n)準則/法規 = principle = standard = tent, 作品全集 = oeuvre, 真作 <--> apocrypha <-- cane 杖/鞭笞
     * canonize (v)將……封為聖徒 = saint, 褒揚, 視為真作
+    * canonical (adj)根據教會法的, 權威的 (n)禮服/法衣
     * /kəˈnuː/ canoe (n)獨木舟 (v)划獨木舟 <|> canon <|> cannon <|> canyon
     + castrate (v)閹割, 使喪失力量 (n)被閹割的人或動物 <-- castr 閹割 = geld
     ++ /kant/ cant (n)斜面/斜坡 = slant, 偽善之言, 隱語/術語/行話 = argot (v)使傾斜 = bevel
@@ -803,10 +806,12 @@
     - careen (v)把(船)傾倒修理, (船)傾斜, 橫衝直撞
     - caress (n/v)輕撫/愛撫 = stroke <|> carcass
     - caretaker (n)照顧者/管理人 (adj)臨時代理的
+    - carnival (n)狂歡節, 嘉年華會/狂歡/歡宴, 旅遊狂歡節/旅遊遊樂場/巡迴演出
     - carriage (n)四輪馬車, 有輪子的車架/砲架, 帶原者, 滑動架, 舉止/態度 = bearing = deportment
     - cartel (n)企業聯合 = syndicate
     - cascade (n)小瀑布, 傾瀉, 大量, 資訊傳遞, 串聯 (v)傳遞, 串聯
     - /kɑːsk/ cask (n)(儲酒等的)圓木桶, 一桶
+    - catapult (n)石弩 (v)用彈射器發射, 快速移動/躍
     - catamaran (n)筏
     - catching (adj)傳染性的, 具傳染力的 = contagious
     - catchy (adj)引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
@@ -997,6 +1002,7 @@
     - cushion (n)墊子/坐墊, 緩衝物, 撞球臺的橡皮邊, 減震墊 (v)緩和……的衝擊, 減輕..的負面影響
     - cusp (n)[on]分界線, 尖頭/尖端, 牙尖
     - /ˈkjuːtɪk(ə)l/ cuticle (n)角質層/死皮, [生]角質層/表皮
+    - cutback (n)減少
     - cutlery (n)餐具
     - /ˈsʌɪprəs/ cypress (n)柏樹
 
@@ -1616,6 +1622,7 @@
     - frame (n)框, 身體, 架構 (v)表筐, 構築, 陷害
     - framer (n)組成者/籌劃者, 美國憲章制定者, 裝框者
     - frangible (adj)脆弱的/易碎的 = fragile
+    - fraternal (adj)兄弟的/兄弟般的, 友愛的, 異卵的(雙胞胎)
     - freak (n)反常現象, 畸形的生物或植物, 怪胎, 狂熱者, 藥物成癮者 (v)(使)反常, [out]嚇到
     - freakish (adj)反常的/古怪的 = aberrant = strange - fantastic
     - freckle (n)雀斑/小斑點 (v)生雀斑
@@ -1852,6 +1859,7 @@
     - gob (n)一塊(黏質物), 大量, [非]水手
     - gobble (v)貪婪地吃/狼吞虎嚥 = guzzle, 大量消耗, 併吞/掌控, (火雞)咯咯地叫
     - goggle (v)瞪大眼睛看, (眼睛)睜大 (adj)凸眼的 (n)護目鏡, 瞪視
+    - gorilla (n)大猩猩, [非]壯而兇惡的男人
     - gospel (n)福音, 真理, 信條/準則, 福音書, 福音音樂
     - gourmet (n)美食家
     - grace (n)優雅, 風度, [graces]魅力, 恩典/慈悲, 善意, 寬限, 感恩祈禱 (v)使增光, 裝飾
@@ -1992,6 +2000,7 @@
     ** hide (N)獸皮, 藏身處 (v)隱藏 <|> chide
     * hiss (v)發出嘶嘶聲, 發出噓聲/表示不同意 (n)噓聲, 嘶嘶聲, 電波干擾
     *** hoax (v)欺騙 = fraud = hoodwink (n)欺騙/騙局 = sham <|> coax
+    * hokey (adj)做作的/虛偽的 <|> jockey
     * homey (adj)舒適的 = cosy, 不世故的/低調的 = unsophisticated = unpretentious (n)[非]老鄉/老友
     * homie (n)[非]老鄉/老友 <|> homily
     *** honor (n)尊敬, 光榮的事或人, 品德高尚, 貞潔, 榮幸 = privilege, 榮譽, 優等成績, (橋牌)價值最高的牌 (v)尊敬, 承兌/實踐 = fulfill, 支付
@@ -2216,8 +2225,10 @@
     - icicle (n)冰柱/冰錐 <-- ice 冰 + icle 小東西
     - ichthyologist (n)魚類學者/魚類研究者
     - ideate (v)構思 = imagine = conceive = think
+    - idealistic (adj)不切實際的/理想的 = quixotic
     - ilk (n)種類
     - imbecile (n)[非]傻子/蠢人 (adj)[非]低能的/極愚蠢的
+    - immolation (n)供奉牲禮, 犧牲/祭品
     - imp (n)小鬼 = demon, 頑童 = brat (v)移植羽毛於(獵鷹)
     - impresario (n)經理/主辦人
     - insect (n)昆蟲, 蟲
@@ -2615,6 +2626,7 @@
     +++ /mɪˈljəː/ milieu -> milieux/milieus (n)(社會或文化)環境 = environment = atmosphere = setting <|> purlieu
     + milquetoast (n)[非]膽小者 (adj)[非]無趣的 = insipid = bland
     + mimic (v)模仿..以嘲弄 = imitate, (動植物)模仿 (n)善於模仿的人, 能模仿的動植物 (adj)模仿的 = imitative = simulative = servile <-- mime
+    + mimicry (n)模仿
     + minatory, minatorial (adj)威脅的/威嚇的 = threatening = menacing <-- mina 威脅 = menace
     * minacious (adj)威嚇的 = minatory --> minacity (n)威脅性
     ++ mindful (adj)注意的/小心的 = attentive = aware = careful, 冥想的, 願意的 = willing to
@@ -3252,7 +3264,7 @@
     - pad (n)墊/護墊, 肉墊, 微弱的腳步聲, 便條紙簿, 發射台/起降臺, 家 (v)填塞, [up]墊, [out]鋪張/拉長, 浮報, 放輕腳步走
     - padding (n)墊塞/填料, 充分量的廢話
     - paddle (n)槳, 划槳, 攪拌棒, 桌球拍, 明輪翼, 鰭, 太空船太陽能板, 電極貼片 (v)划槳, 划水, 打, 涉水, 把手或腳浸泡在水中 = dabble
-    - pageant (n)露天演出的歷史劇, 盛大的慶典, 選美比賽 =  beauty pageant
+    - pageant (n)露天演出的歷史劇, 盛大的慶典, 選美比賽 = beauty pageant
     - pageantry (n)盛大慶典
     - painkiller (n)止痛藥
     - pajamas (n)睡褲, 睡覺時穿的衣物 = nightclothes, 寬長褲
@@ -3736,7 +3748,7 @@
     + schism (n)(組織)分裂 = division = split
     - schizophrenia (n)精神分裂症
     + /sɪnˈtɪlə/ scintilla (n)微量 = spark = trace
-    + scintillate (v)發出火花 = spark <-- spark
+    + scintillate (v)發出火花 = spark
     ++ scintillating (adj)耀眼的, 機智的 = witty = clever
     ++ scope (mn)範圍/程度 = extent, 機會 = opportunity, ..鏡 (v)[out]調查/評估 = investigate = assess, 設定範圍, [非]細看/審視 = scan
     + scorn (n/v)輕視/鄙視 = disdain = belittle = detract = disparage = contempt = trifle (v)輕蔑地拒絕 
@@ -3810,7 +3822,7 @@
     + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 零星的 = scattered = isolated
     +++ spurn (v)輕蔑地拒絕/唾棄 = snub = despise = disdain = rebuff
     + sordid (adj)可鄙的/可恥的 = vile = contemptible = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
-    +++ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深 = fathom, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地 -->
+    +++ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深 = fathom, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
     + soundness (mn)健康/健全 = robustness, 正確/合理, 可靠
     + squalid (adj)骯髒的 = sordid = filthy, 可鄙的/可恥的 = sordid <-- squal 髒 = dirty + or
     + squalor (mn)骯髒/邋遢/貧窮
@@ -4371,8 +4383,8 @@
     - spew (v)大量排放 (n/v)[非]嘔吐 = vomit
     - spike (n)長釘/大釘
     - spin -> spun -> spun (v)使旋轉, 擲(硬幣) = toss, 烘乾, 紡, 編造/虛構 (n)旋轉, 飛機盤旋下降, 兜風, 詮釋, [off]分拆
-    - spinach (n)菠菜
     - spinoff (n)副產品, 衍生作品 
+    - spinach (n)菠菜
     - spindle (n)紡錘/紡錘體, 杆/軸, 紡錘體
     - spindly (adj)細長的, 脆弱的(結構) <-- spin
     - spiral (adj)螺旋的, 螺旋裝訂的 = spiral-bound (n)螺旋, 螺旋星系 = spiral galaxy, 不斷上升或下降 (v)成螺旋形, 不斷增加, [down/downward]不斷減少
@@ -4687,6 +4699,7 @@
     - tart (n)水果餡餅, 妓女 (v)[about/around]花枝招展 (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious
     - tastemaker (n)時髦風尚之開創者
     - tasty (adj)美味的/可口的
+    - tattoo (n)[軍]歸營號, 連續有節奏的敲擊聲, 紋身圖案 (v)在...上刺青
     - tatters (N)破衣服/破布條
     - tattered (adj)破爛的/衣衫襤褸的 = sedy
     - tatty (adj)襤褸的/破爛的, 低劣的/差的
@@ -4946,6 +4959,7 @@
     * vent (n)出路/漏孔, 火山口, 肛門, 發洩/宣洩 (v)表達(強烈的情緒), 給……開孔, 放出/排出 = expel = discharge <|> tent
     * ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺
     * ventilation (n)通風, 供氧, 公開討論
+    - ventilator (n)通風機/送風機/換氣扇
     * vernacular (n)本地話/方言 = dialect = patois, [非]行話, 實用性建築 (adj)用母語的, 實用性的(建築)
     * /ˈvɛnjuː/ venue (n)發生地點 <--> /ˈmɛnjuː/ menu 
     *** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
@@ -4986,6 +5000,7 @@
     - /vɪˈsɪnɪti/ vicinity, vicinage (n)附近/附近/鄰近地區 = neighborhood = proximity <-- vicin 鄰近 = near
     - victim (n)受害者/受騙者, 犧牲品/祭品 --> victimize (v)使受害/迫害
     - victual (n)[古][victuals]糧食, [古]給......供應食物
+    - vignette (n)花絮/短文, 裝飾圖案/小插圖, 虛光照 (v)把......印放為虛光照
 	- vinegar (mn)醋, 尖酸刻薄
     - vineyard (n)葡萄園
     - vintner (n)葡萄酒商, 釀酒人 <-- vint 酒 = wine + ner

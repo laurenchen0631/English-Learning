@@ -58,6 +58,29 @@
 	- If there are n consecutive integers, there must contain a number that is divisible by n
 	- If n is odd, the sum of n consecutive integers must be divisible by n: ... n-2, n-1, n, n+1, n+2 ...
 
+## Statistics
+- **Mean** is the average: sum / N, N is the number of entries
+	- Sum = N * mean
+	- Weighted Average: 
+		1. Find Sum
+		2. **Average of whole = A1 * P1 + A2 * P2 + A3 * P3, Pn is the proportion of An in all items**
+			- In a certain company, 70% of employees are markets who make an average f $40,000; 20% are programmers who make an average of $80,000; and 10% are managers, who make an average of $120,000. What is the average salary of all employees at this company?
+				- Average = 0.7 * 40000 + 0.2 * 80000 + 0.1 * 120000 = 1000 * (28 + 16 + 12) = 56000
+		3. If there are **only two groups**, the distances from the two group averages to the total average are in a ratio that is the reciprocal of the ratio of the proportions.
+- **Median**: the middle of an **ordered** list.
+	- If two numbers are in the middle, then we average these two numbers
+- **Mode**: the most frequently appearing number
+- **Range**(max - min): doesn't tell where most of the points in between are.
+- Standard Deviation (SD): deviation from the mean
+	- Facts:
+		1. Positive or zero, never negative
+		2. zero when all numbers are the same.
+		3. If all the number are exactly the same distance from the mean, that distance is the SD.
+			- list = {2,2,2,8,8,8}, mean = 5, SD = 3
+		4. a set with most numbers clustered toward the extreme will have higher SD than a list with most values equal to or close to the mean.
+		5. **if we add or subtract the same number to every number on the list, the SD doesn't change.**
+		6. **if we multiply every number on a list by number K, the SD also get multiplied by |K|.**
+
 ## Even and Odds Integer
 - 0 is an even number
 - E + E = E and E - E = E
