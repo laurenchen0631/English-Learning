@@ -392,6 +392,7 @@
     - /ˈbar(ə)n/ baron (n)男爵, 與男爵等級相當的外國貴族, 大地主, 巨擘/大亨 = tycoon
     - /ˈbar(ə)l/ barrel (n)桶, 槍管/炮筒, 四足動物的腹部或腰肉 (v)放入桶中, 高速行進 = fang
     - barter (n/v)以物易物
+    - basalt (n)玄武岩
     - bashful (adj)害羞的 = shy
     - basket (n)籃子, 購物車, 一組(投資項目), 籃網, 得分
     - batch (n)一批/一爐, [非]一群 (v)分批
@@ -457,6 +458,7 @@
     - bloc (n)(為共同目的而組成的)聯盟/集團/陣營
     - blockade (n/v)(地區)封鎖
     - blockage (n)障礙物/堵塞
+    - blockbuster (n)賣座鉅作
     - /bluːm/ bloom (v)開花, 成長茁壯, 發光, 鍛鐵 (n)鍛鐵塊, 花, 花期, 白霜, 藻華/優養化
     - blooming (adj)盛開的, 精力旺盛的 = thriving
     - blot (v)弄髒 = smudge = stain, 吸乾/擦掉 = ink, 使蒙恥, [out]把……弄模糊/遮暗 (n)墨水漬/污漬 = blotch, 汙點, 瑕疵 <|> bolt
@@ -785,6 +787,7 @@
     - callback (n)第二次面試, 收回
     - campaign (n)戰役/軍事行動, 運動/活動 (v)從事運動
     - campaigner (n)運動參加者/運動倡導者
+    - campground (n)營地
     - canal (n)運河/渠, 管/道 = tract
     - canister (n)裝食物的罐子, 瓦斯罐
     - cannery (n)罐頭工廠
@@ -829,6 +832,7 @@
     - ceremony (n)典禮/儀式 (mn)禮節 
     - ceremonious (adj)正式的/隆重的 = formal, 一絲不苟的 = punctilious
     - /sɪˈruːlɪən/ cerulean (adj)天藍色的 = azure
+    - cesarean (n)剖腹產 (adj)剖腹產的
     - cetacean (n)鯨類動物 (adj)鯨類的
     - /ˈtʃɑːns(ə)lə/ chancellor (n)大臣/總理, 大法官, 大學校長
     - chance (n)可能性, 機會, 偶然 (adj)偶然的 = fortuitous = accidental (v)碰巧/偶然, [upon/on/across]碰巧發現, 冒風險
@@ -1172,6 +1176,7 @@
     - drench (v)使濕透 = soak = douse, 徹底覆蓋, 給(牲口)灌藥 (n)獸用藥水 <-- drink
     - dressing (n)沙拉醬, 烤雞用的填料 = stuffing, 包紮用品, 肥料
     - dribble (v)滴下/細流, 流口水, 運球/盤球 (n)細流 = trickle, 口水 = saliva, 運球/盤球
+    - dripping (n)油滴, 滴下物 (adj)濕淋淋的
     - drill (n)鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 (v)鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
     - drivel (v)胡說/瞎扯/廢話 = babble = gibberish (mn)瞎扯/廢話
     - drizzle (v)下毛毛雨 (n)毛毛雨 --> drizzley (adj)毛毛細雨的
@@ -2827,6 +2832,7 @@
     - modernist (n)現代主義者 (adj)現代主義的
     - molar (n)臼齒 (adj)體積莫耳濃度的 <-- mol 磨 + ar 
     - molecule (n)分子
+    - molest (v)猥褻/對...進行性騷擾, 粗暴對待/攻擊
     - molten (adj)溶化的 = melted
     - -monger (n)賣..的人
     - mongrel (n)雜種狗, 雜種動物, (貶義)混血兒 <-- mong 混合 = mixture + rel
@@ -3022,6 +3028,7 @@
     - odor (n)氣味/臭味, 氣息/氣質, 名聲
     - /ˈəːvr(ə)/ oeuvre (n)作品全集 = canon, 作品 = work
     - off-base (adj)[非]錯誤的
+    - off-limits (adj)禁止入內的
     - off-ramp (n)(離開主路的)引路/駛出坡道
     - off-key (adj)走音的, 不恰當的
     - off-the-shelf (adj)現成的 = ready-made
@@ -3249,6 +3256,7 @@
     ** prickly (adj)多刺的/滿是針刺的, 針刺般的, 刺痛的/癢的, 易動怒的/易生氣的, 複雜的/棘手的 = intractable
     - prickle (n)(動植物)刺/棘 = thorn, 刺痛 (v)感到刺痛, 對..感到憤怒
     *** probe (n)探針, 徹底探查/調查 = investigation, 太空探測器 = space probe (v)用工具探查, 探究
+    - probing (adj)探索的, 尋根究底的 = searching
     * prod (n/v)刺/戳 = poke = jag, 刺激/敦促 = stir up = urge = goad = stimulate = persuade (n)刺針/尖棒
     ** prop (n)支撐物, (人)台柱 = pillar, 道具, 螺旋槳 = propeller, [props]尊重 = respect (v)支撐/支持 = buttress, 倚靠 = lean
     ** prowess (n)非凡的能力/高超的技藝 = expertise, 英勇 = derring-do
@@ -3599,7 +3607,7 @@
     - rabid (adj)瘋狂的/狂熱的 = fanatical, 患狂犬病的 <-- rab 憤怒 = mad, rave + id
     - rabies (mn)狂犬病 <-- rab 憤怒 = mad, rave + ies
     - rack (n)架子, 齒條/齒棒, 肢刑架/拷問台, 女性的胸部, 一對鹿角, 床, (撞球)三角框 (馬)同腳 (v)放入架子, 對……施肢刑, 折磨/使痛苦, [up]累計(得分或獲利)
-    - rake (n)耙/草耙, 耙 (v)把......耙在一起, 耙平, 擦過/掠過, 搜索/探索 = rummage
+    - rake (n)耙/草耙, 耙 (v)把......耙在一起, 耙平, 擦過/掠過, 搜索/探索 = rummage, (v)揭(瘡疤)/翻(舊帳)
     - racket (n)球拍, [非]喧嚷 = din, [非]敲詐, 職業 (v)喧嚷, [about/around]忙於社交應酬
     - racketeer (n)詐騙者
     - racketeering (mn)勒索/詐騙/敲詐
@@ -4396,6 +4404,7 @@
     - splay (v)展開(肢體), 張開, 拓寬/叉開, 成喇叭口形 = flare (n)展開, 斜角/斜面 (adj)外寬式的
     - splice (v)接合/銜接 (n)絞接點/粘接點
     - splint (n)固定斷骨的夾板, 薄木條, 藤條, 薄金屬片 (v)用夾板固定
+    - splinter (n)裂片/碎片 (v)使裂成碎片, 分裂
     - split (v)劈開/切開, 分擔/分享, 使分裂/使不團結, 斷絕關係/離婚, [非](頭)痛, [非]離開/開小差 (n)裂縫/裂痕, 分裂, (組織)分裂 = division = schism, 斷絕關係/離婚, 分成一半的東西
     - splurge (n/v)揮霍 = dissipate (n)大量
     - spoke (n)輪輻, 舵輪把柄
@@ -4482,6 +4491,7 @@
     - stretch (v)伸長/拉伸, 伸展/舒展(四肢), 延伸/延續/延長, 超過…的限度/竭盡 (n)伸展/舒展, 伸縮性/彈性 = elasticity, 難題, 延亙/連綿, [非]服刑期
     - stretcher (n)擔架, 椅子的橫木/橫檔, [建]順砌磚 (v)用擔架抬走
     - stroll (n/v)散步/溜達, (運動比賽)輕易取勝 <|> troll
+    - stroller (n)閒逛的人, 摺疊式嬰兒車
     - struggle (v)奮鬥/努力, 鬥爭/對抗, 掙扎 (n)奮鬥, 鬥爭, 掙扎
     - stub (n)殘端/殘段/殘肢/殘牙, 存根/票根 (v)使碰踢, 掐滅(菸頭), 連根拔除
     - stud (n)飾釘/飾鈕, 耳釘/鼻插, 板牆筋/壁骨, 種馬群, 種馬 = stallion, 風流男子 (v)用飾釘裝飾, [with]散布於/點綴
@@ -4544,7 +4554,7 @@
     + /takˈsɒnəmi/ taxonomy (n)分類法/分類學 --> taxnomist (n)分類學家 <-- taxo 分類 = taxis + nomy
     + tedious (adj)乏味的/沈悶的 = dull = jejune = tiresome = monotonous
     + tedium (n)單調乏味/無聊 = boredom
-    + telling (adj)有效的/顯著的, 反映真實情況的/顯露內心活動的 <|> wanting
+    + telling (adj)有效的/顯著的 = effective = striking, 反映真實情況的/顯露內心活動的 <|> wanting
     + telltale (adj)洩露秘密的 = revealing (n)指示器/計數器
     + /tɪˈmɛrɪti/ temerity (n)魯莽/大膽 = audacity = rashness <-- temer 輕率地 = rashly + ity
     + temerarious (adj)輕率的/魯莽的 = bold = reckless = rash
@@ -4599,7 +4609,7 @@
     *** trying (adj)令人難受的/惱人的/令人煩惱的
     + trial (n)審判, 使用/試驗, 考驗 (v)試驗 <-- try
     ++ trifle (n)小事/瑣事, 少量/少許 (v)小看/輕視 = belittle = flout, [away]浪費時間/虛度
-    ++ trifling (adj)不重要的/瑣碎的 = nugatory = frivolous = minute = trivial = petty = paltry = slight
+    + trifling (adj)不重要的/瑣碎的 = nugatory = frivolous = minute = trivial = petty = paltry = slight
     + trigger (n)板機, (事件的)導火線 (v)引發/導致
     + /ˈtrʌɪʌmf/ triumph (n/v)凱旋/勝利/成功 = victory = conquest, 歡欣 = exultation = jubilation
     + triumphant (adj)勝利的 = victorious, 歡欣的 = exultant = jubilant
@@ -4912,7 +4922,7 @@
     - usurp (v)篡奪/奪取 <|> usury
 
 [V]
-    + vacillate (v)猶豫/動搖 = dither = falter = waver  <-- vacill 搖擺 = sway + ate
+    + vacillate (v)猶豫/動搖 = dither = falter = waver <-- vacill 搖擺 = sway + ate
     + vacillation (mn)猶豫不決 = indecision
     + /veɪɡ/ vague (adj)模糊的 = blurred, 曖昧的/含糊的 = ambiguous = equivocal = nebulous
     + vanguard (n)先鋒/前鋒

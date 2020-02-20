@@ -390,6 +390,18 @@
 	- Reflection over the line y = x: (a,b) reflects (b,a)
 	- Reflection over the line y = -x: (a,b) reflects (-b,-a)
 
+## Counting
+- And/OR
+	- And = multiply
+	- Or = add
+- If the first stage can be done in n1 ways, the second in n2 ways, then the complete task can be done in N = n1 * n2 * n3 * ... ways.
+- If we have to arrange a set of n different items **in order**, the number of possible orders is the product of n times all the positive integers less than n, N = n! = n * (n-1) * (n-2) * ... * 1
+- **When a counting problems contains restrictions in certain stage, always do the most restrictive stage first.**
+- If you are asked to count how many arrangements obey a restriction, it may be easier to count the ones that do not, and subtract them from the total.
+	- Clue 1: the word "not".
+	- Clue 2: focus on an single item.
+
+
 ## Problem Solving Strategy
 - Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
 	- Improvement: choose the middle answer and see the difference is greater or lesser.
