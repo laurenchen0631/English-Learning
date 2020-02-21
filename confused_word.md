@@ -64,6 +64,8 @@
 - attend <--> attentive
 - attune <--> attuned
 - attrit <--> attrition
+- advent <--> adventitious <--> adventurous <--> advantage <--> adventure <--> venture <--> vantage
+- advisable <--> advisory
  
 ## B
 - baffle <--> raffle <--> waffle
@@ -137,6 +139,7 @@
 - chore <--> choral <--> choir <--> chorus
 - chromatic <--> chrome <--> chromosome
 - chronic
+- chuck <--> chunk
 - chum
 - circuitous <--> circular <--> circumvent <--> circumlocution <--> circumspect <--> circumstantial
 - civic <--> civil <--> cavil <--> civilian <--> civility
@@ -167,7 +170,7 @@
 - con
 - concept <--> conception <--> conceit <--> deceit
 - concert <--> disconcert
-- condemn <--> convict <--> conviction <--> damn <--> indemnify <--> damnify <--> damning
+- condemn <--> convict <--> conviction <--> convect <--> damn <--> indemnify <--> damnify <--> damning
 - condescend <--> descend
 - condone <--> condolence <--> condo
 - confer <--> conifer <--> confess <--> profess <--> profession <--> professional
@@ -195,7 +198,7 @@
 - contempt <--> contemplate
 - contrive <--> contrived
 - contraption <--> contrivance
-- converse <--> conversant <--> convert
+- converse <--> conversant <--> convert <--> controvert
 - convoke <--> evoke <--> invoke <--> provoke <--> revoke
 - convivial
 - convulse <--> divulge
@@ -239,6 +242,7 @@
 - clack <--> clank
 - consequent <--> consequential <--> subsequent <--> sequela
 - considerable <--> considerate
+- convalesce
 
 ## D
 - dabble <--> dapple <--> dribble <--> dripping <--> paddle <--> puddle <--> waddle <--> wade
@@ -390,6 +394,7 @@
 - eponym <--> eponymous
 - enclave <--> enclosure
 - extempore <--> extemporaneous
+- envision <--> envisage
 
 ## F
 - facet <--> faucet <--> facetious <--> factious <--> factitious <--> multifaceted <--> factotum <--> faculty
@@ -709,10 +714,11 @@
 - odorous <--> odometer
 - obstruct <--> obtuse <--> obtrusive
 - observe <--> observation
+- obvious <--> obviate
 
 ## P
 - pagan <--> pigeon <--> pageant
-- pallid <--> pall <--> pail <--> pallor <--> pal <--> palliate <--> appall <--> appalling
+- pallid <--> pall <--> pail <--> pallor <--> pal <--> palliate <--> appall <--> appalling <--> pillar <--> pillory <--> pillage
 - palpable <--> palpitate
 - paltry <--> penury <--> petty <--> pantry <--> pastry
 - pamper <--> pander <--> pauper
@@ -748,7 +754,6 @@
 - peter
 - petulant <--> opulent
 - phantasmagorical
-- pillory <--> pillage <--> pillar
 - pious <--> piety <--> impious
 - plain <--> plaint <--> plane <--> planet <--> plant <--> plantation <--> plaintive <--> plaintiff <--> platitude <--> plateau
 - plangent
@@ -820,6 +825,7 @@
 - pretend <--> pretense <--> pretension <--> pretentious <--> unpretentious
 - protege
 - pyrotechnical
+- proverb <--> proverbial
 
 ## Q
 - quail <--> quill <--> quilt
@@ -827,7 +833,7 @@
 - quaver <--> quiver
 - queer <--> sheer <--> steer
 - querulous <--> quarrelsome
-- quibble <--> squabble
+- quibble <--> squabble <--> scrabble
 - quiescence <--> quintessence <--> disquiet <--> quietus
 - quintessential <--> essential
 - quixotic <--> quixotry
@@ -856,7 +862,6 @@
 - recede <--> recess <--> recession <--> recessive <--> regress <--> regressive <--> repress 
 - receptive <--> receptacle
 - recline
-- reclusive <--> repulsive
 - recreant
 - recrimination <--> incrimination
 - redound <--> redundant
@@ -870,7 +875,7 @@
 - renege <--> renegade
 - repatriate
 - reparable <--> reparation <--> repair
-- repeal <--> repel <--> repellent <--> repulse <--> repulsive
+- repeal <--> repel <--> repellent <--> repulse <--> repulsive <--> reclusive
 - repine <--> pine
 - replete <--> deplete
 - requisite <--> requisition
@@ -901,6 +906,7 @@
 
 ## S
 - sabotage <--> sabot <--> saboteur
+- sac <--> sic
 - sack <--> sock
 - sacrilegious
 - sage <--> saga
@@ -981,7 +987,7 @@
 - soporific <--> sporadic
 - spare <--> sparing <--> unsparing
 - specious <--> suspicious
-- spit <--> split <--> splint <--> spat <--> spate <--> spatter <--> squat <--> squint
+- spit <--> split <--> splint <--> spat <--> spate <--> spatter <--> squat <--> squint <--> squawk
 - spur <--> spurious <--> spar <--> sparring <--> spurn <--> spurt <--> sprout <--> spout
 - squelch <--> squinch <--> squint
 - squeamish

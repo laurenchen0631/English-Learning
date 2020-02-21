@@ -1759,6 +1759,7 @@
 			+ discredit --> discredited
 			- disembody (v)脫離實體 --> disembodied (adj)無實體的, 空洞的 = fluffy
 			- disengage (v)解開/使脫離
+			- disengagement (n)脫離/分開, 客觀 = objectivity, 解除婚約
 			- disentangle (v)解決/解開
 			- disequilibrium (n)不均衡/失調
 			- disgust --> disgusting
@@ -2950,7 +2951,7 @@
 		++ diffuse (v)散佈/擴散 = spread = disseminat, 漫射 (adj)擴散的/分散的 = dispersed, 晦澀的
 		+ effusive (adj)奔放的/過於流露感情的 = ebullient = demonstrative, [地]噴發的
 		- infuse (v)使充滿 = fill = pervade, 灌輸 = instill = impart, 鼓勵 = inspire, 泡茶
-		++ /prəˈfjuːs/ profuse (adj)充沛的/大量的 = plentiful = abundant --> profusion (n) = proliferation
+		+ /prəˈfjuːs/ profuse (adj)充沛的/大量的 = plentiful = abundant --> profusion (n) = proliferation
 		** refuse (v)拒絕, 拒給, [非]未能, (馬)不肯越過障礙物 (mn)廢物/垃圾 = rubbish = bin
 		- suffuse (v)遍布/充滿/瀰漫
 
@@ -7096,7 +7097,8 @@
 		+ sensuous (adj)感覺上的, 令人感官愉悅的
 		+ sentient (adj)有知覺的 = conscious
 		+ /sɛnˈtɛnʃəs/ sententious (adj)愛說教的/說教式的 <|> tendentious <-- sentence 
-		++ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 --> sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish <--> unsentimental
+		++ sentiment (n)意見/看法, 普遍意見, 感覺, 多愁善感 
+		+ sentimental (adj)多情的, 感情用事的/多愁善感的 = maudlin = mawkish <--> unsentimental
 		- sentimentality (n)多愁善感
 		- /ˈsɛntɪn(ə)l/ sentinel (n)哨兵/衛兵 = sentry = lookout, 疾病的徵兆 (v)站哨/守衛 = station
 		- sentry (n)哨兵/衛兵 = sentinel
@@ -7496,7 +7498,7 @@
 		+ contingency (n)意外事故/偶然事件, 預期, 偶然的花費 (mn)不確定性, 偶然性
 		+ detach (v)分開 = disassemble = disengage, 可移除, [oneself from]離開, [軍]派遣 
 		+ detached (adj)分開的, 獨幢的, 不帶感情的/超然的
-		++ detachment (n)客觀/超然, 分遣隊/派遣部隊, 分開 = separation
+		++ detachment (n)客觀/超然 = disengagement, 分遣隊/派遣部隊, 分開 = separation
 		+ intact (adj)完整無缺的/原封不動的 = pristine = complete = unblemished = undamaged
 		- /ˈtaktʌɪl/ tactile, /ˈtaktʃʊəl/ tactual (adj)觸覺的, 有形的 = tangible, 富有質感的, 愛觸碰他人的
 		- tangled (adj)纏在一起的 = matted, 混亂的/雜亂的 = complicated = confused = chaotic
@@ -8122,7 +8124,7 @@
 		- undulation (mn)起伏/波動 = fluctuation (n)波浪狀
 		
 [V]
-	ver, veri 真實的 = true
+	ver, veri  真實的 = true
 		+ aver (v)斷言/堅稱 = affirm = assert, [法]作為事實提出 <|> avert
 		+ veracious (adj)誠實的/真實的 = truthful = accurate
 		+ veracity (n)真實, 誠實
@@ -8132,7 +8134,7 @@
 		+ verifiable (adj)可證實的/可檢驗的
 		+ verisimilar (adj)好像是真的/逼真的 --> verisimilitude (n)逼真
 		- verity (mn)真實/事實 = truth (n)信念/真理
-		+ veritable (adj)名副其實的 <|> verifiable1
+		+ veritable (adj)名副其實的 <|> verifiable
 
 	verb 話語 = word
 		- proverb (n)諺語
@@ -8231,7 +8233,8 @@
 		+ /kənˈviːn/ convene (v)召集/召開 = rally = assemble = convoke
 		+ convention (n)大會, 習慣, 公約 (mn)習俗
 		+ conventional (adj)傳統的 = customary, 墨守成規的, 非核的(武器)
-		- convenient (adj)方便的/便利的/省事的 <|> conventional --> convenience (mn)方便/合宜 = expediency (n)便利設施/方便的用具 <--> inconvenient
+		- convenient (adj)方便的/便利的/省事的 <|> conventional
+		- convenience (mn)方便/合宜 = expediency (n)便利設施/方便的用具 <--> inconvenient
 		- inconvenient
 		* covenant (n)約定 = agreement, 合約/協定 = compact = pact, 條款, 聖約 (v)立約承諾/立書保證 <-- convene
 		- convent (n)女修道院 = nunnery, 教會學校 <|> convene
@@ -8250,7 +8253,8 @@
 		+ /ˈadvəkət/ advocate (v)支持/擁護 = recommend = support (n)支持者, 辯護者/律師 
 		+ advocacy (n)擁護/支持, 辯護
 		+ convoke (v)召開(會議) = convene <--> adjourn
-		+ equivocate (v)含糊其詞 = prevaricate --> /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
+		+ equivocate (v)含糊其詞 = prevaricate 
+		+ /ɪˈkwɪvək(ə)l/ equivocal (adj)含糊的 = ambiguous = ambivalent, 令人質疑的 = questionable = dibious = suspicious
 		+ equivocation (n)含糊其詞 = prevarication
 		+ unequivocal
 		+++ evoke (v)喚起(記憶或感情) = conjure = summon, 激起/引起(回應) = elicit = excite = kindle = inflame, 祈求 = invoke 
@@ -8291,7 +8295,8 @@
 		- variant (n)變體
 		+ variable (adj)易變的/多變的, 可變的 (n)易變物/可變因素, 變數, 變星(指亮度與電磁輻射不穩定的，經常變化並且伴隨著其他物理變化的恆星) = variable star
 		- variability (n)變化性/易變性
-		+ variegate (v)使多樣化, 使色彩斑駁 = mottle --> variegated (adj)多變的/多種多樣的 = varied = diverse = motley, 雜色的/色彩斑駁的
+		+ variegate (v)使多樣化, 使色彩斑駁 = mottle 
+		+ variegated (adj)多變的/多種多樣的 = varied = diverse = motley, 雜色的/色彩斑駁的
 		- variegation (n)雜色/斑駁 <-- vari + eg 做 = do + ation
 		+ /vəˈrʌɪəti/ variety (mn)多樣化/變化 (n)種類, 一些, [生]變種/異種
 		- various (adj)不同的/各種各樣的 = variegated = varied
@@ -8301,7 +8306,8 @@
 	    - advise (v)建議/勸告 --> advisable (adj)適當的/可行的 --> advisory (adj)勸告的
 		* envision (V)想像/展望 = visualize
 		- envisage (v)構想/設想 = contemplate = conceive, 想像 
-		+ improvise (v)即興創作/即興表演 = extemporeize = vamp, 臨時做/臨時湊成 --> improvisation (mn)即興, 即興做出來的東西
+		+ improvise (v)即興創作/即興表演 = extemporeize = vamp, 臨時做/臨時湊成 
+		+ improvisation (mn)即興, 即興做出來的東西
 		+ /ˌɪmprəvʌɪˈzeɪʃ(ə)nəl/ improvisational (adj)即興的
 		* improvised (adj)即興的, 權宜的/臨時代用的 = makeshift = expedient
 		+ revise (n/v)修訂/修正 = amend = alter
@@ -8376,6 +8382,7 @@
 		+ /ˌiːvəˈnɛs/ evanesce (v)消失 --> /ɛvəˈnɛs(ə)nt/ evanescent (adj)迅速消失的/瞬息即逝的 = quickly fading
 		* devoid (adj)缺乏..的 = lacking = bereft = void
 		- evacuate (v)撤離, 使成真空, 淨空, 排出
+		- evacuee (n)被疏散者
 		- /veɪˈkeɪt/ vacate (v)搬空, 空出/離職, 撤銷/使無效 = annul
 		- /ˈveɪk(ə)nt/ vacant (adj)空的/空缺的, 茫然的 = vague
 		+ vacuous (adj)茫然的/空洞的 = vacant = mindless = inane = stupid --> vacuity (n)茫然/空洞, 空曠 = emptiness
@@ -8435,7 +8442,8 @@
 		* pervious (adj)可滲透的 = permeable = porous = penetrable
 		+ previous (adj)以前的, [非]過早的/過急的 <|> pervious
 		+ via (prep)經由/透過/憑藉 = through = by means of
-		+ viable (adj)可行的 = practicable = feasible, 能發芽的 = germinable, 能活下去的, 能養活的 --> viability (n)有望成功/ 可行性, 生存能力/存活力
+		+ viable (adj)可行的 = practicable = feasible, 能發芽的 = germinable, 能活下去的, 能養活的 
+		+ viability (n)有望成功/ 可行性, 生存能力/存活力
 		- viaduct (n)高架橋
 	
 	vex, vect, veh, veigh 搬運/道路 = carry, bring, way, convey
@@ -8448,12 +8456,12 @@
 	vict, vinc 征服/勝利 = overcome, conquer
 		+ convict (v)定罪/宣判…有罪 = condemn = plead (n)罪犯/囚犯 = captive = felon = prisoner
 		++ conviction (n)定罪/判罪, 確信/信念
+		- convince (v)使相信, 說服 = persuade = tempt
 		- evict (v)驅逐/趕走 = banish = expel  <|> elicit
+		+ /ɪˈvɪns/ evince (v)表明/表示 = reveal = indicate = denote
 		- victorious (adj)勝利的/獲勝的 = triumphant
 		- victor (n)勝利者
 		- victory (n)勝利
-		- convince (v)使相信, 說服 = persuade = tempt
-		+ /ɪˈvɪns/ evince (v)表明/表示 = reveal = indicate = denote
 		- vincible (adj)可被征服的
 		- invincible (adj)無敵的/無法戰勝的
 

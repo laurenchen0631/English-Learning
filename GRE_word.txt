@@ -551,6 +551,7 @@
     - budge (v)稍微移動, 改變立場 = sway
     - budget (n)預算 (v)制訂預算 (adj)低廉的 = cheap
     - buff (n)愛好者, 暗黃色, 暗黃皮革, 擦拭輪 (v)擦亮/擦淨
+    - buffer (n)緩衝物/緩衝人 (v)緩沖
     - buffet (n)自助餐, 餐車/快餐部, 餐具櫃/碗櫥 = sideboard, 打撃, 不幸 (v)連續猛撃/打撃, 折磨 = afflict 
     - /ˈbjuːɡ(ə)l/ bugle (n)軍號/號角, 匍匐筋骨草, (裝飾女服用的)柱狀玻璃小珠 (v)吹號 
     - buildup (n)累積/增加, 事前準備期, 事前宣傳
@@ -866,6 +867,7 @@
     - choice (n)選擇/抉擇 (adj)(食物)優質的/上等的 = fine = excellent, (言語)粗俗的 = abusive = rude
     - christen (v)為…施洗, 施洗時給…命名, [非]首次使用
     - chuckle (n/v)竊笑
+    - chuck (v)扔/拋, 放棄/辭掉, 撫弄 (n)拒絕/放棄, 撫弄(下巴), 牛頸肉, 糧食 = provision
     - chunk (n)大塊, 一部分/大部分 (v)分成塊, [非]丟 = throw
     - chunky (adj)厚實的, 矮胖的, 滿是大塊的(食物)
     - churn (n)攪乳器, 客戶流失率 (v)用攪乳器攪拌, 劇烈攪動/翻騰, 胃部翻騰/反胃/噁心, 隆起, [out]大量生產
@@ -990,6 +992,7 @@
     - cudgel (n)短棍 (v)用棍棒打
     - cue (n/v)提示/暗示 = hint = indication (n)球杆 (v)擊球
     - /kwɪˈziːn/ cuisine (mn)烹調, 菜餚
+    - cul-de-sac (n)死路/死胡同
     - culinary (adj)烹調的
     - culvert (n)涵洞 (v)使通過涵洞
     - cunt (n)[冒犯]女性陰部, 蠢人/笨蛋
@@ -1013,6 +1016,7 @@
 [D]
     ++ damp (v)使潮濕, 封(火), 抑制/降低, 制止(琴弦)的音 (adj)潮濕的 = humid (mn)濕氣, 坑氣/沼氣 = firedam
     + dampen (v)(使)潮濕 = damp, 抑制/減輕 = depress = damp
+    - damper (n)抑制物, 阻尼器, 制音器
     + /dɔːnt/ daunt (v)使膽怯/使嚇倒 = discourage = intimidate = dishearten <|> flaunt <|> gaunt <|> taunt <|> vaunt
     + /ˈdərth/ dearth (n)短缺/缺乏 = lack = paucity = penury = insufficiency = scantiness = scarcity, 飢荒 = famine
     + debilitate (v)使虛弱/削弱 = enfeeble = languish = enervate <|> deliberate <-- debilit 虛弱 = weak + ate
@@ -1959,7 +1963,7 @@
     ++ /ˈhɛr(ə)ld/ herald (v)是..的徵兆 = presage, 稱讚 = acclaim (n)傳令官, 預兆/先驅 = harbinger = forerunner <|> ribald
     ++ hermetic (adj)密封的 = airtight, 與世隔絕的 = isolated, 鍊金術的, 深奧的 = esoteric <|> hermit <|> heretic
     + /ˈhɪroʊ/ hero (n)英雄 --> /həˈroʊɪk/ heroic (adj)英勇的 = daring = noble = stalwart = valiant
-    ++ /hjuː/ hew (v)砍伐 = strike = chop = hack, [to]堅持/遵守 = conform = adhere <|> hem
+    ++ /hjuː/ hew -> hewn/hewed (v)砍伐 = strike = chop = hack, [to]堅持/遵守 = conform = adhere <|> hem
     + heyday (n)全盛期
     + hidebound (adj)思想偏狹頑固的/保守的 = inflexible = conservative
     + highlight (v)引起對..的注意, 使顯著/使突出 = emphasize = underscore = accentuate (n)最有趣最精彩的部分, (畫)最明亮部分
@@ -3572,6 +3576,7 @@
     + rococo (adj)洛可可式的/裝飾花樣多且繁雜的 (n)洛可可式
     + romanticize (v)使浪漫化/使理想化
     +++ row (n)一列/一排, 划船小遊, 吵架/口角, 嚴重爭執, 嚴厲斥責, 吵嚷/喧鬧 = uproar (v)划船, 划船載, 爭吵, 嚴厲斥責
+    * rowdy (n)吵鬧的人 (adj)吵鬧的
     + rue (v)懊悔 = repent = regret = remorse (n)同情/憐憫 = compassion = pity
     + rueful (adj)哀傷的/懊悔的 = mournful = lachrymose = regretful = remorseful
     + ruminant (n)反芻動物, 沉思者 (adj)反芻的 --> rumination (mn)沉思/深思, 反芻 <-- rumen
@@ -4108,6 +4113,7 @@
     - scandalous (adj)令人反感的/令人震驚的, 可恥的/丟臉的 = disgraceful
     - scats (v)[非]走開/滾開 (n)擬聲唱法, 糞便
     - scavenge (v)在……中搜尋有用之物, 從廢棄物中覓食, 以腐肉爲食
+    - scrabble (v)扒找/亂摸 (n)爬著找東西
     - scrap (n)碎塊, 殘羹剩飯, 少量/一點點, 廢料/廢金屬 = scrap metal, 爭吵 (v)將……作為廢物, 廢棄/放棄 = abolish = cancel, 爭吵
     - scrappy (adj)零碎拼湊成的/碎料製的, [非]好鬥的 = argumentative = pugnacious
     - -scape (n)景色
@@ -4243,6 +4249,7 @@
     - sibilant (adj)發出嘶嘶聲的 = hissing, 發噝音的 (n)(s的發音)噝音
     - sibling (n)兄弟姊妹 <-- sib
     - sibyl (n)女預言家/女先知
+    - sic (adv)原文如此 (v)(犬隻)攻擊/追趕
     - sickle (n)鐮刀
     - sideways (adj/adv)向/從旁邊, 間接, 非傳統的
     - sideline (n)副職/副業, 界線, 局外人 (v)使…退出比賽, 使不再發揮重要作用
@@ -4427,6 +4434,7 @@
     - squall (n)風暴, 大聲啼哭/號哭 (v)(嬰兒)大聲啼哭/號哭
     - square (n)正方形, 方形棋盤, 方巾 = square scarf, 廣場, 街區, 練兵場, 平方, 直角尺, [分]古板守舊的人/拘謹的人, 豐盛的一餐 = square meal (adj)正方形的, 結實的/魁梧的, 平方的, 成直角的, 正的/水平的, 整齊的, 同意的, 公平的, 互不相欠的, 平局的, 古板守舊的 (adv)筆直地 = directly = straight, [非]真誠地 (v)成正方形, 使成平方, 使一致/同意 = reconcile, 挺起(肩膀)
     - squat (v)蹲, 非法佔據 = rattle (n)蹲, 被非法佔據的建築, 非法佔據 (adj)矮胖的
+    - squawk (v)發出嘎嘎叫聲, 抱怨/抗議 (n)嘎嘎叫聲, 抱怨/抗議
     - squeal (n)尖叫聲 (v)發出長而尖的叫聲, [非][on]告密/洩密
     - /skwiːk/ squeak (n)吱吱聲 (v)吱吱叫, [非]告密, [非]勉強通過/僥倖成功
     - squeeze (v)擠/壓/擰, 擠進/擠過, [up]擠出空間, [in]擠出時間, 勉強得到, [非]勒索/壓榨, 使離開, 使陷入財務困境 (n)擠/壓, 緊抱, 少量的榨汁, 拮据, 敲詐的錢, [非]男朋友/女朋友
@@ -4825,6 +4833,7 @@
     - tragedy (n)悲劇 <--> comedy, 慘事/災難
     - trail (n)痕跡, 蹤跡, 一縷, 小道, 道, 滑雪路徑, 預告片, 槍架 (v)拖/曳, (植物)垂下, 緩慢或怪異地移動, (聲音)減弱, 追蹤, 落後, 預告(節目), [away/off]逐漸減弱到停止/逐漸消失
     - trailer (n)拖車/掛車, 汽車拖的居住車, 移動住家, 預告片, 蔓生植物 (v)用拖車運, 播放預告片
+    - trailhead (n)登山口
     - trait (n)特徵/特點/特性
     - traitor (n)叛徒
     - traipse (v)疲憊地走, 遊蕩 (n)疲憊的步行/長途跋涉
@@ -5051,6 +5060,7 @@
     + /ˈwɪmzi/ whimsy (mn)怪念頭/離奇的想法 (n)古怪事物
     + whimsical (adj)離奇的/古怪的 = quaint, 異想天開的 = capricious 
     ++ whitewash (n)白塗料/石灰水 (v)塗白/粉刷 (n/v)粉飾/掩飾, 完勝 (v)塗白/粉刷
+    - whiteness (n)白/蒼白, 潔白
     + wholehearted (adj)全心全意/全神貫注的
     + wholesome (adj)有益的/有益健康的 = salutary = salubrious = beneficial, 謹慎的 = prudent, 安全的 = safe <|> fulsome
     + /wʌɪl/ wile (n)詭計/奸計 (v)[away]消磨 --> wily (adj)詭計多端的 = crafty = artful = cunning 
@@ -5063,7 +5073,7 @@
     + withstand (v)抵抗/反對 = resist = oppose 
     + wit (n)智力/機智 = sagacity = astuteness, 幽默風趣, 說話風趣的人 --> witty (adj)風趣的/詼諧的
     + /ˈwɪz(ə)n/ wizen (v)[古](使)乾癟 = wither = shrivel --> wizened (adj)乾枯的/乾癟的
-    ++ woo (v)爭取/努力說服 =  ocurt, 求婚/求愛 = court
+    ++ woo (v)爭取/努力說服 = court, 求婚/求愛 = court
     - woo-woo (adj)迷信鬼神的 (n)迷信鬼神
     * wooly (adj)羊毛製的, 長滿羊毛的/毛茸茸的, 模糊的
 
@@ -5111,6 +5121,7 @@
     - waif (n)流浪兒
     - waist (n)腰, 腰身, 中間的細窄部分, 襯衫 = blouse, 緊身胸衣 = bodice
     - waistcoat (n)背心/馬甲
+    - walk-in (adj)大得能走進去的, 未經預約而來的
     - walkout (n)退席/罷工
     - wall-to-wall (adj)(地毯)覆蓋整個地板的, 無所不在的/到處都是的
     - wallop (v)[非]猛擊/重擊 = batter = clobber = lash, 輕鬆擊敗 = demolish (n)重擊, 效果
@@ -5179,7 +5190,7 @@
     - wight (n)幽靈/鬼魂/超自然生物
     - wildfire (n)野火/大火, 鬼火/磷火 = will-o`-the-wisp, (舊時海戰中的)燃燒劑
     - willow (n)柳樹 = willow tree --> willowy (adj)柳樹茂盛的, 苗條的/柔軟的
-    - wilt (v)使凋謝/枯萎, 喪失勇氣/畏縮, 曬乾(草) (n)萎蔫病/落葉性疾病
+    - wilt (v)使凋謝/枯萎 = wither, 喪失勇氣/畏縮, 曬乾(草) (n)萎蔫病/落葉性疾病
     - wimp (n)軟弱無能者 (v)[out]因恐懼而不做
     - wince (n/v)(因疼痛而)畏縮/退縮
     - windbag (n)[非][貶]饒舌之人
@@ -5262,4 +5273,3 @@
     - /zɪp/ zip (v)拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) (n)拉鍊, [非]精力/活力, [非]無/沒有 = nothing
     - zipper (n)拉鍊 (v)拉上拉鍊
     - zone (n)地帶/地區, 時區, 動植物分布帶 (v)分成區, 劃出……為區
-    

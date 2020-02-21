@@ -5,22 +5,22 @@
 		- In this argument, the author [maintains] that _____.
 	- Summarize the facts or proposals the author provides that leads him to his conclusion–and identify them specially as evidence.
 		- He presents evidence to suggest this is valid including _____
-		- *To [justify/support] the [conclusion/predictions/inference], the [argument] points out _____, which may seem [reasonable/plausible] at first glance.*
+		- *To [justify/support] the [conclusion/predictions/inference], the [argument] points out _____, which may seem [reasonable/plausible/specious] at first glance.*
 	- Your thesis (final sentence): state unequivocally that the argument is flawed. There is **no need to list your the specifics of your three examples** in your thesis
 		- Though the underlying issue may have merit, because of a lack of relevant evidence, unaddressed assumptions, and vague terminology, the author’s argument is unsubstantiated and deeply flawed.
-		- *Nevertheless, this argument fails to be completely compelling as it stands, for it contains a series of unwarranted assumptions, due to the lack of [impregnable/precise] [evidences/data/information/proofs].*
+		- *Nevertheless, this argument fails to be completely compelling as it stands, for it contains a wide array of [unwarranted] assumptions, due to the lack of [impregnable/relevant/immaculate] [evidences/data/information/proofs].*
 		- Stated in this way the argument fails to mention several key factors, on the basis of which it could be evaluated. The conclusion relies on assumptions, for which there is no clear evidence. Therefore, the argument is rather weak, unconvincing, and has several flaws
 	
 2. Assumption of lacking valid evidence
-	- *First of all, the author simply assumes that ___fallacy1___*
+	- *First of all, the author simply [assumes/suggests/claims/declares/proclaims] that ___fallacy1___*
 	- *This [statement/assertion/description/explanation/remark] is a stretch and not substantiated in any way, though this is not [entirely/completely/absolutely/utterly/thoroughtly] [impossible/preposterous/unattainable].*
 	- *It is much likely that ___reason1___*
 	- *There are [numerous/innumerable/various/plentiful] examples _____. For instance, ___example1___.*
 	- *In order to [strengthen/reinforce/heighten/toughen] this argument, the author should [provide/furnish/present] more credible [evidences] and have to rule out and account for these or other possible alternative explanations.*
 
 3. Second Assumption's Problem
-	- *What is more, the argument claims that ___fallacy2___; thus, it [suggests/propose/indicate/imply] that ______*
-	- *Specifically, this is again a very weak and unsupported claim as the argument ___reason2___*
+	- *What is more, the argument [claims] that ___fallacy2___; thus, it [suggests/propose/indicate/imply] that ______*
+	- *Specifically, this is again a very weak and [unsupported/misleading] claim as the argument ___reason2___*
 	- *In fact, ___example2___*
 	- *If the argument provided evidence that _____, the argument could have been [strengthened] even further.*
 	- If _____ had been shown ______, then the author would have sounded a bit more convincing.
@@ -31,10 +31,10 @@
 	- *Without supporting evidence and examples _____, one is left with the impression that the claim is more of a wishful thinking rather than substantive evidence. As a result, this conclusion has no legs to stand on.*
 
 4. (Support Argument)
-	- *Finally, the argument [concludes] that ___fallacy3___*
+	- *Finally, the argument [concludes/premises] that ___fallacy3___*
 	- *Admittedly, this is true especially when it comes to ____specific condition____.*
 	- *In addition, _____further support______*
-	- *However, the above argument does not constitute a sufficient support to claim that ___fallacy3___*
+	- *However, the [above/said] argument does not constitute a sufficient [support/backing] to claim that ___fallacy3___*
 	- *Because ___reason3___, ____refutation___*
 
 5. Conclusion (1~2)
@@ -42,7 +42,7 @@
 		- *In summary, the argument is flawed and therefore unconvincing.*
 		- To sum up, this argument is undoubtedly invalid as it seems, for the lack of compelling evidence and sound reasoning.
 	- Point out that the author has more work to do.
-		- *It could be considerably strengthened if the author clearly mentioned all the relevant facts. In order to assess the merits of a certain situation, it is essential to have full knowledge of all contributing factors.*
+		- *It could be considerably [strengthened/improved] if the author clearly mentioned all the relevant facts. In an attempt to assess the merits of a certain situation, it is essential to include more unbiased and convincing contributing factors.*
 		- To better evaluate the author’s conclusion, it is necessary to provide more convincing and unbiased evidences, reason more frigidly and rule out all other possible explanations.
 
 - Necessity Assumption (Lack of Evidence):

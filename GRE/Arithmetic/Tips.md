@@ -394,12 +394,32 @@
 - And/OR
 	- And = multiply
 	- Or = add
-- If the first stage can be done in n1 ways, the second in n2 ways, then the complete task can be done in N = n1 * n2 * n3 * ... ways.
-- If we have to arrange a set of n different items **in order**, the number of possible orders is the product of n times all the positive integers less than n, N = n! = n * (n-1) * (n-2) * ... * 1
-- **When a counting problems contains restrictions in certain stage, always do the most restrictive stage first.**
-- If you are asked to count how many arrangements obey a restriction, it may be easier to count the ones that do not, and subtract them from the total.
-	- Clue 1: the word "not".
-	- Clue 2: focus on an single item.
+- Fundamental Strategy
+	- If the first stage can be done in n1 ways, the second in n2 ways, then the complete task can be done in N = n1 * n2 * n3 * ... ways.
+	- If we have to arrange a set of n different items **in order**, the number of possible orders is the product of n times all the positive integers less than n, N = n! = n * (n-1) * (n-2) * ... * 1
+	- **When a counting problems contains restrictions in certain stage, always do the most restrictive stage first.**
+	- If you are asked to count how many arrangements obey a restriction, it may be easier to count the ones that do not, and subtract them from the total.
+		- Clue 1: the word "not".
+		- Clue 2: focus on an single item.
+- Counting with **identical items (order doesn't matters)**
+	- In a set on n items, there were b identical items, and the total number of arrangement is N = n! / b!
+	- If there are n items, including one group of b identical items, another group of c identical items, and yet another group of d identical itemsL **N = n! / (b! * c! * d!)**
+- **Combination: nCr (n choose r)**
+	- 7C1 = 7
+	- nC1 = n
+	- 10C4 = 10C6 = (10 * 9 * 8 * 7) / (4 * 3 * 2 * 1) = 10!/4!*6! = 210
+	- nCr = nC(n-r) = n! / r!*(n-r)!
+
+## Probability
+- Rules of Probability
+	- P(not A) = 1 - P(A)
+	- OR means add
+	- AND means multiply
+	- **P(A or B) = P(A) + P(B) - P(A and B)**
+- If A and B are **mutually exclusive** events, and then P(A and B) = 0
+- If A and B are **independent events**, and then **P(A and B) = P(A) * P(B)**
+- Conditional Probability
+	- P(A and B) = P(B) * P(A|B) = P(A) * P(B|A)
 
 
 ## Problem Solving Strategy
