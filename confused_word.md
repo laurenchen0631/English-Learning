@@ -903,6 +903,7 @@
 - rove <--> rover <--> mangrove <--> grove
 - retrospective <--> introspective
 - respect <--> respective <--> respectable <--> respite
+- reprieve	
 
 ## S
 - sabotage <--> sabot <--> saboteur
@@ -915,10 +916,8 @@
 - salve <--> slave <--> salvo
 - sanction <--> - sanctity <--> sanctify <--> sanctimony <--> sacrosanct
 - saturate <--> suture
-- saw <--> sew
 - scald <--> blanch <--> scorch <--> sear <--> singe <--> smolder
 - scad <--> scads <--> scald <--> scalp <--> scalpel
-- scalp <--> scalpel
 - scandal <--> sandal
 - scarf <--> scurf <--> scuff <--> serf
 - seam <--> seamy <--> sear <--> sere
@@ -971,8 +970,7 @@
 - smack <--> whack
 - smolder <--> solder
 - smooth <--> soothe <--> seethe
-- smudge <--> nudge
-- smug <--> smudge <--> smuggle
+- smudge <--> nudge <--> smug <--> smuggle
 - smite <--> smithereen
 - snarl <--> gnarl
 - snitch <--> stitch
@@ -986,30 +984,28 @@
 - spoof <--> spook
 - soporific <--> sporadic
 - spare <--> sparing <--> unsparing
-- specious <--> suspicious
-- spit <--> split <--> splint <--> spat <--> spate <--> spatter <--> squat <--> squint <--> squawk
+- specious <--> suspicious <--> susceptible
+- spit <--> split <--> splint <--> spat <--> spate <--> spatter <--> squat <--> squint <--> squelch <--> squinch <--> squawk
 - spur <--> spurious <--> spar <--> sparring <--> spurn <--> spurt <--> sprout <--> spout
-- squelch <--> squinch <--> squint
 - squeamish
 - sodium <--> odium
 - solicit <--> solicitude <--> solicitous
 - solipsism
 - somnolent
 - supple <--> supplement <--> supplicate <--> suppliant, supplicant 
-- stake <--> stick <--> stock <--> stock <--> stocky <--> stoke <--> stove <--> stave <--> stowaway
+- stake <--> stick <--> stock <--> stocky <--> stoke <--> stove <--> stave <--> stowaway
 - staid <--> stand <--> strand
 - stoic <--> stolid
 - stone <--> stoned <--> stonewall
 - storey <--> story
 - stiff <--> tiff
 - stifle <--> strife <--> strive 
-- straddle <--> saddle <--> straggle
+- straddle <--> saddle <--> straggle <--> struggle
 - strenuous
 - stride <--> strident
 - strike <--> stroke
 - strip <--> strap
 - streak <--> steak
-- struggle <--> straggle
 - stub <--> stud
 - studious <--> studied
 - subside <--> subsidy <--> subsidize <--> subsidiary
@@ -1018,7 +1014,7 @@
 - succinct <--> precinct
 - succor
 - suffuse
-- susceptible <--> suspicious
+-  <--> suspicious
 - sullen <--> sully
 - supercilious
 - superfluous <--> superficial
@@ -1032,10 +1028,9 @@
 - taboo <--> tattoo
 - tackle <--> tickle
 - tact <--> tactile <--> tactual <--> textile <--> texture
-- tally <--> tall
 - tangle <--> mangle <--> mingle
 - tangible <--> tangential
-- tattered <--> tatty
+- tattered <--> tatty <--> tally <--> tall
 - telltale <--> untold
 - temerity <--> temerarious
 - temporal <--> temporary <--> temporize
@@ -1057,7 +1052,7 @@
 - totter <--> dodder <--> teeter <--> tot <--> trot <--> troth <--> trout <--> tutor
 - toddler
 - trapping <--> trap
-- trace <--> truce <--> truant <--> track <--> trek <--> trail <--> trailer
+- trace <--> truce <--> trudge <--> traduce <--> truant <--> track <--> trek <--> trail <--> trailer
 - tract <--> tractate <--> tractable <--> traction <--> tractor <--> intractable <--> retraction <--> detract <--> distrait <--> distraught <--> distract <> <--> protract <--> protrude <--> obtrude
 - trait <--> traitor
 - traipse

@@ -14,6 +14,7 @@
 2. Assumption of lacking valid evidence
 	- *First of all, the author simply [assumes/suggests/claims/declares/proclaims] that ___fallacy1___*
 	- *This [statement/assertion/description/explanation/remark] is a stretch and not substantiated in any way, though this is not [entirely/completely/absolutely/utterly/thoroughtly] [impossible/preposterous/unattainable].*
+	- While such a view is not entirely without merit, it still ___.
 	- *It is much likely that ___reason1___*
 	- *There are [numerous/innumerable/various/plentiful] examples _____. For instance, ___example1___.*
 	- *In order to [strengthen/reinforce/heighten/toughen] this argument, the author should [provide/furnish/present] more credible [evidences] and have to rule out and account for these or other possible alternative explanations.*

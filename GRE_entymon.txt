@@ -4500,7 +4500,7 @@
 
 	mur 牆 = wall, grave
 		+ /dɪˈməː/ demur (v)反對 = object = oppose, 抗辯/表示異議 (n)反對/猶豫 --> demurral (n) = exception
-		+ /dɪˈmjʊə/ demure (adj)端莊的/文靜的 = modest <|> demur
+		+ /dɪˈmjʊə/ demure (adj)端莊的/文靜的 = modest = self-effacing <|> demur
 		- mural (n)壁畫 (adj)牆壁的
 		+ immure (v)監禁 = imprision = confine = incarcerate
 
@@ -6029,7 +6029,7 @@
 		+ oppress (v)壓迫/壓制, 使煩惱/使焦慮 --> oppressive (adj)壓迫的, 悶熱的 = muggy = stifling
 		++ press (v)按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = iron, 壓花, 榨汁, 提出 = put forward, 極力勸說, [on]迫使..接受 (n)壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
 		+ pressing (adj)緊迫的/迫切的 = instant, 懇切的/再三要求的 (n)壓/按, 沖壓件/模壓製品, 同次模壓製品
-		+ repress (adj)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 
+		+ repress (v)鎮壓/平息 = subdue = supress = quell = quash, 阻止 = Restrain = prevent = inhibit, 抑制 = constrain = subdue = supress --> repressed (adj)被壓制的 = restrained = oppressed, 被壓抑的 
 		+ repressive (adj)壓迫性的/專制的, 壓抑的
 		+ suppress (v)鎮壓/壓制 = quell = quash = subdue, 抑制/忍住/壓抑 = repress = subdue --> suppression (n)鎮壓/抑制/壓抑
 

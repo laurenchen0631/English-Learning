@@ -46,7 +46,7 @@
 - Two words (usually adjective) follow one another.
 
 ## Special Phrase
-- anything but == except
+- anything but == except == not
 - nothing but == only
 - nothing more than == only
 - by no means == not

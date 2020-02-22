@@ -112,7 +112,7 @@
 	- Make sure your answer directly attack the assumption.
 	- Assumption
 		- Use Negating assumption technique
-		- If the assumption is not valid, hen the conclusion completely falls apart.
+		- If the assumption is not valid, then the conclusion completely falls apart.
 		- If this negated answer choice is true, the argument will fall apart.
 	- Common wrong choices
 		1. Irrelevant, ungrounded analogy
