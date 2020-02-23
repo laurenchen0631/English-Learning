@@ -281,6 +281,7 @@
     + /brʊsk/ brusque (adj)唐突的/魯莽的 = abrupt = offhand = sully = brash --> brusquely (adv)
     + /bjuˈkɑlɪk/ bucolic (adj)鄉村的/田園的 = rural = pastoral = idyllic <-- buc 牛 = ow + olic
     + buck (v)強烈反抗 = resist = oppose <--> assent, (馬)弓背跳躍 (n)元, 雄鹿/公兔, 莊家標誌 (adj)(軍階)最低一級的
+    - buckle (n)帶扣/扣子, 飾扣, 水果蛋糕 (v)扣, [up]繫上安全帶, 使彎曲/弄皺, 精神崩潰
     ++ bumble (v)笨拙地做/弄糟 = bungle = blunder = botch = muddle, 雜亂無章地講話, 發出嗡嗡聲 = buzz = hum
     + bumbling (adj)經常出錯的/無能的 = incompetent = bungling
     - bumblebee (n)熊蜂/大黃蜂
@@ -1095,6 +1096,7 @@
     - dally (v)蹉跎/磨蹭, 玩弄(感情)
     - dalliance (n)逢場作興/調戲, 短時間的涉入
     - dandy (n)花花公子, [非]第一流的東西 (adj)花花公子的, [非]非常好的 = excellant
+    - dangle (v)懸擺/懸蕩, 用...作為承諾/答應用...作為回報
     - dank (adj)濕冷的
     - dapple (v)使有斑點 (n)花斑/光斑, 花斑動物
     - dapper (adj)精幹利落的
@@ -2509,6 +2511,7 @@
     - levelheaded (adj)頭腦冷靜的/穩健的
     - lewd (adj)淫穢的/下流的 = indecent = obscene = bawdy = salacious
     - liaison (mn)聯繫/合作 (n)聯絡官/聯絡人, 性關係/私通
+    - lickspittle (n)奉承者
     - lien (n)扣押權/留置權
     - life-size (adj)真人大小的/實物大小的
     - lighthearted (adj)有趣的 = amusing = entertaining, 心情輕鬆的/愉快的 = cheerful = carefree
@@ -2656,6 +2659,7 @@
     ++ /məʊld/ mold, mould (n)模子/鑄模, 形狀/樣式 = form = shape, 裝飾線條, 黴菌, 耕作土壤 (v)用模子做, 塑造/影響, 有裝飾線條
     + moldy (adj)發霉的 = fusty, 陳腐的 = fusty
     - molding (n)凹凸形裝飾板條, 鑄造/鑄造物
+    - molder (v)腐朽/崩壞 (n)製模者
     + molt, moult (n/v)換羽/脫毛 = shed = cast off
     + moment (n)瞬間 = instant, 時刻, 時機, 時期 = period, 重要 = importance = consequence 
     + momentous (adj)極重要的/嚴重的
@@ -2974,6 +2978,7 @@
     - nomad (n)遊牧民, 流浪者 = wanderer --> nomadic (adj)遊牧的 = wandering
     - northerly (adj/adv)向北的, 北的(風) (n)北風
     - notch (n)刻痕/槽口, 帶釦孔, 刻痕 = nick, 等/級, 峽谷/山峽 (v)在……上刻凹痕, 扣 = secure, 贏得 = score = achieve
+    - nouveau (n)[非]暴發戶 = nouveau riche, 現代的 = modern
     - nova -> novae/novas (n)新星
     - nub (n)核心, 突起/結節, 一小塊
     - nubile (adj)性發育成熟的, 吸引人的/性感的 <-- nub 結婚 = marry + ile
@@ -3661,6 +3666,7 @@
     - rendezvous (n)約會/約會地點 <-- [法]rendez 表現 = present + voud 自己 = yourself 
     - rent (n)租金, 裂縫/破洞 (v)租用 = leash, 租出 = leash
     - rep (n)代表 = representative, 推銷員 = sale representative, 保留劇目輪演 = repertory, 稜紋平布, 名聲 = reputation (v)推銷
+    - resinous (adj)樹脂的
     - resultant (adj)作為結果的 (n)合量/合力
     - reverie (n)白日夢/幻想 = daydream, 夢幻曲 <-- rave
     - rhapsody (n)狂想曲, 史詩
@@ -3669,6 +3675,7 @@
     - rib (n)肋骨, 傘骨
     - ribbing (n)肋骨狀組織/羅紋, [非]善意的戲弄/逗弄 = banter = raillery
     - rickety (adj)搖搖欲墜的/要散架的 = ramshackle, 軟骨病的
+    - ricochet (n/v)(子彈)跳彈, 彈開
     - rider (n)附文/附件, 騎手
     - ridge (n)脊/隆起部, 田壟, [氣]高壓脊 (v)使成脊狀
     - riff (n)爵士音樂的即興重複段 (v)即興重複
@@ -3705,6 +3712,7 @@
     - rostrum (n)講台/講壇 = podium, 攝影機架, 喙
     - rotate (v)旋轉/轉動, 輪流/交替
     - rotten (adj)腐爛的, 腐敗的 = corrupt, [非]糟糕的, [非]令人不悅的, [非]不舒服的 = unwell (adv)非常
+    - rotunda (n)圓形建築/圓形大廳
     - round (adj)圓的, 球形的, 圓胖的 = plump, (聲音)圓潤的 = mellow, 整數的, 大約的, 直率的 = frank (n)一圈, 一輪, 一回合, 一連串的事情/一系列的事件, 一巡(飲料), 輪唱曲/輪唱歌, 一發(彈藥) (v)繞過/繞行, 約略(數字), 使變圓, [out]完成, [on]抨擊, [up]聚集, [up]逮捕
     - round-the-clock (adj)全天候的
     - routine (n)例行公事, 固定劇目/一套固定舞步, 程序 (adj)例行的
@@ -4581,6 +4589,7 @@
     + /ˈθʌrə/ thorough (adj)徹底的/一絲不苟的 = painstaking, (文章或寫作)深思熟慮的 = measured
     + thoroughly (adj)仔細地/徹底地, 非常
     + thoroughgoing (adj)全面的/徹底的, 完全的 = absolute
+    - thoroughfare (n)大街/大道
     + thoughtless (adj)不顧及他人的, 欠考慮的
     + /θrɪft/ thrift (n)節儉/節約 = frugality, 海石竹 --> thrifty (adj)節儉的/節約的 = frugal = abstemious = prudent = canny
     + thrill (n)興奮/激動, 激動的經驗, 一陣/一絲, (用聽診器聽到的)顫動/顫抖 (v)(使)激動, 使緊張/使毛骨悚然, 顫動 = vibrate = quive
@@ -4629,7 +4638,7 @@
     + truncate (v)截短/縮短 (adj)截頭的/去尾的 <-- trunk
     + /trɪst/ tryst (n/v)幽會 = rendezvous = date = engagement
     + /ˈtəːpɪtjuːd/ turpitude (mn)邪惡/墮落 = depravity = decadence <-- turpi 卑鄙的 = base, vile + tude
-    + tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tution
+    + tutelage (n)保護/監護 = guardianship, 指導 = instruction = teaching = tuition
     + tutelary (adj)守護的/監護的 <|> stultify <-- tutel 監看 = watch + age
     + /ˈtɪr(ə)ni/ tyranny (n)暴政, 暴行/暴虐
     + /ˈtʌɪr(ə)nt/ tyrant (n)暴君 = despot, 霸鶲 = tyrant flycatcher
@@ -4640,7 +4649,6 @@
     * taint (n)汙點, 有負面影響的事物, [俗]會陰 = perineum (v)汙染, 玷汙
     * talkative (adj)健談的 = loquacious = voluble
     * tame (adj)馴服的 = domesticate, [非]溫順的 = subdue, 乏味的/單調的 = insipid = dull, 栽培的(植物) (v)馴化/馴養 = domesticate, 使順從 = subdue = humble
-    * tangle (v)使糾纏/使纏住, 使混亂/使複雜, [非][with]使捲入 = entangle (n)纏結, 紛亂/混亂, [非]糾紛, 海帶/昆布 = sea tangle
     ** tap (n)水龍頭, 竊聽器, 塞子, 輕拍/輕敲 (v)竊聽, 鑽, 抽水, 開發/開闢, 輕拍/輕敲
     ** tear -> tore -> torn (v)撕 = rend = lacerate, 拉扯, 撕掉 = remove, [非]狂奔, [be torn]拉扯, 流淚 (n)扯破的洞, 短暫的放縱 = spree, 短暫的成功, 眼淚
     * tearful (adj)流淚的/哭泣的, 令人傷心的 = mournful = lachrymose
@@ -4749,7 +4757,7 @@
     - thoughtful (adj)深思的, 細心的, 體貼的
     - thought-out (adj)深思熟慮的 = considerate
     - thought-provoking (adj)引人深思的/發人深省的
-    - thrash (v)鞭打 = baste, 連續擊打, 猛烈擺動/劇烈扭動, [around]掙扎, [非]徹底擊敗 (n)鞭打, 敲擊搖滾樂thresh
+    - thrash (v)鞭打 = baste, 連續擊打, 猛烈擺動/劇烈扭動, [around]掙扎, [非]徹底擊敗 (n)鞭打, 敲擊搖滾樂
     - thresh (v)打穀, 打/擊 = thrash
     - threadbare (adj)穿舊的/破爛的 = worn-down, 陳舊的/老一套的
     - throb (v)有節奏地敲, 抽痛 (n)規律的敲擊聲, 抽痛
@@ -4820,7 +4828,7 @@
     - touchstone (n)試金石, 標準
     - toupee (n)遮禿假髮
     - tournament (n)錦標賽, 騎士比武大會
-    - tourniquet (n)止血帶 <-- turn
+    - tourniquet (n)止血帶 <-- turn 
     - tower (n)塔/塔樓, 堡壘, 一大疊/大量 (v)高聳/矗立, 翱翔
     - towering (adj)高聳的/高大的, 重大的, 激烈的
     - toy (n)玩具/玩物, 小動物 (v)[with]玩弄, [with]不很認真地考慮
@@ -4840,6 +4848,7 @@
     - trapeze (n)高空鞦韆 = flying trapeze
     - trashy (adj)無價值的/廉價的
     - treason (n)叛國罪 =  high treason, 背叛 = betrayal
+    - treed (adj)種有樹木的
     - treetop (n)樹梢
     - /trɛk/ trek (n/v)長途跋涉 <|> /trak/ track 
     - trend (n/v)趨勢/傾向 (n)時尚 = fashion
@@ -4885,6 +4894,7 @@
     - tusk (n)長牙/獠牙
     - tussle (n/v)爭鬥/搏鬥
     - tutor (n)家庭教師/私人教師, 助教 (v)當家庭教師
+    - tutti (n)全體的合奏,合唱
     - tuxedo (n)禮服/無尾禮服
     - /twaŋ/ twang (n)撥弦聲, 鼻音/帶鼻音的方言 (v)(使)發出撥弦聲, 帶鼻音說
     - tweak (v)擰, [非]調整(機械), [非]使焦慮 (n)擰, [非]調整
@@ -4928,6 +4938,7 @@
     - unguent (N)藥膏/軟膏 = ointment <-- ungu 油 = grease + ent
     - /ˌjʊərə(ʊ)ˈbɒrəs/ uroboros, ouroboros (n)銜尾蛇
     - urn (n)骨灰甕, 茶壺
+    - usefulness (n)有效
     - usurp (v)篡奪/奪取 <|> usury
 
 [V]
@@ -5087,7 +5098,7 @@
     - wastrel (n)揮霍無度的人
     * waver (v)顫抖/閃爍 = flicker = quiver (v)猶豫 = dither = falter = scruple = vacillate
     * welfare (n)幸福/健康安樂, 救濟, 社會救濟
-    *** wicked (adj)邪惡的/缺德的 = sinister = evil, 糟透的, 頑皮的/淘氣的 = mischievous, 很棒的 = excellant <-- witch
+    *** wicked (adj)邪惡的/缺德的 = sinister = evil, 糟透的, 頑皮的/淘氣的 = mischievous, 很棒的 = excellent <-- witch
     - wick (n)燭芯/燈芯, 鎮/區 (v)吸走(液體) (adj)活潑的
     - wicker (mn)枝條/柳條 = twig
     * /ˈwiːldi/ wieldy (adj)易使用的/易操作的 <--> unwieldy
@@ -5253,6 +5264,7 @@
     - yearbook (n)年鑑/年報, 畢業紀念冊
     - yelp (n/v)(因疼痛)叫喊
     - yeoman (n)自耕農, 國王或貴族的侍從, 海軍文書軍士
+    - yip (n/v)尖叫
     - yolk (n)蛋黃 <--> albumen
     - yokel (n)鄉巴佬 
     - youngster (n)小孩/年輕人/幼小動物

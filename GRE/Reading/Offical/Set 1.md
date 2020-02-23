@@ -102,7 +102,7 @@ Historian F. W. Maitland observed that legal documents are the best - indeed, of
 	3. 無論原本的鹿多不多，數量依舊可能大量減少
 	4. 原文論點要成立，其前提是要有足够的deer给去撞，所以D保证了deer數目足夠。
 	5. 過度假設
-
+q
 8. 作用题，根据题干关键词定位到原文But recent research suggests that civil litigation during the period involved artisans, merchants, professionals, shopkeepers, and farmers, and not merely a narrow, propertied, male elite，再找到上下文 their widespread assumption that most people in early modern England had little contact with civil law. If that were so, the history of legal matters would be of little relevance to general historical scholarship，说明提到这个是为了说明很多人与civil law有关系。
 	3. 说反了，應該要是 counter issue that reveal more about "its elite" than about "a country's ordinary citizens"
 	5. 沒有提到 recent data

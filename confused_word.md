@@ -48,7 +48,7 @@
 - authoritative <--> authoritarian
 - avarice
 - avow <--> vow <--> disavow
-- awry <--> wry <--> wary <--> weary <--> askew 
+- awry <--> wry <--> wary <--> weary <--> askew <--> askance, askant
 - agonize
 - alternately <--> alternatively
 - ablate 
@@ -101,6 +101,7 @@
 - burst <--> blast <--> bluster <--> fluster <--> blunt <--> blunder <--> brunt
 - band <--> bandy
 - bashful
+- buck <--> buckle
 
 ## C
 - cabin <--> cabinet <--> cachinnate
@@ -198,7 +199,7 @@
 - contempt <--> contemplate
 - contrive <--> contrived
 - contraption <--> contrivance
-- converse <--> conversant <--> convert <--> controvert
+- converse <--> conversant <--> convert <--> controvert <--> incontrovertible
 - convoke <--> evoke <--> invoke <--> provoke <--> revoke
 - convivial
 - convulse <--> divulge
@@ -343,6 +344,7 @@
 - design <--> designate <--> consign <--> insignia
 - distinct <--> distinction <--> distinctive
 - deranged
+- dangle
 
 ## E
 - eclipse <--> ellipsis <--> elliptical <--> ellipse <--> elliptic <--> ecliptic
@@ -600,7 +602,7 @@
 - lesion <--> liaison
 - liable <--> liability
 - lair <--> liar
-- liberal <--> libel <--> liberty <--> liberate <--> libertine
+- liberal <--> libel <--> liberty <--> liberate <--> libertine <--> libretto <--> librettist
 - lie <--> lay
 - limb <--> limber <--> limp <--> wimp
 - limpid <--> lipid
@@ -653,7 +655,8 @@
 - misgiving
 - mitigate <--> unmitigated
 - moat <--> moan
-- molt <--> molten
+- molt <--> molten 
+- mold <--> moldy <--> molding <--> molder
 - mongrel <--> mogul
 - mores
 - moral <--> morale
@@ -826,6 +829,7 @@
 - protege
 - pyrotechnical
 - proverb <--> proverbial
+- peccadillo
 
 ## Q
 - quail <--> quill <--> quilt
@@ -843,7 +847,7 @@
 - raffish <--> offish <--> rakish
 - raft <--> rift <--> rife <--> rifle <--> ripe <--> rip
 - rail <--> raillery
-- raise <--> raisin
+- raise <--> raisin <--> resinous
 - rampage <--> rampart
 - random <--> ransom <--> bosom
 - ravine <--> ravish <--> rave <--> ravage <--> raven <--> ravenous <--> unravel
@@ -904,6 +908,7 @@
 - retrospective <--> introspective
 - respect <--> respective <--> respectable <--> respite
 - reprieve	
+- regime <--> regimen <--> regimented
 
 ## S
 - sabotage <--> sabot <--> saboteur
@@ -1073,6 +1078,7 @@
 - tutelage
 - tussle
 - topical
+- thorough <--> thoroughfare <--> thoroughgoing
 
 ## U
 - umpire <--> empire
