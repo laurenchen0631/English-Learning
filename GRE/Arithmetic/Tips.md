@@ -396,7 +396,7 @@
 	- Or = add
 - Fundamental Strategy
 	- If the first stage can be done in n1 ways, the second in n2 ways, then the complete task can be done in N = n1 * n2 * n3 * ... ways.
-	- If we have to arrange a set of n different items **in order**, the number of possible orders is the product of n times all the positive integers less than n, N = n! = n * (n-1) * (n-2) * ... * 1
+	- If we have to arrange a set of n different items **in order**, the number of possible orders is the product of n times all the positive integers less than n, **N = n! = n * (n-1) * (n-2) * ... * 1**
 	- **When a counting problems contains restrictions in certain stage, always do the most restrictive stage first.**
 	- If you are asked to count how many arrangements obey a restriction, it may be easier to count the ones that do not, and subtract them from the total.
 		- Clue 1: the word "not".
@@ -418,8 +418,33 @@
 	- **P(A or B) = P(A) + P(B) - P(A and B)**
 - If A and B are **mutually exclusive** events, and then P(A and B) = 0
 - If A and B are **independent events**, and then **P(A and B) = P(A) * P(B)**
-- Conditional Probability
-	- P(A and B) = P(B) * P(A|B) = P(A) * P(B|A)
+- Conditional Probability: **P(A and B) = P(B) * P(A|B) = P(A) * P(B|A)**
+	- If selection that are **"without replacement" are NEVER independent**
+- Binomial Situation
+	- For some r <= n, what is the probability of exactly r successes in n trials?
+	- Examples:
+		1. Three fair coins are flipped. What is the probability of getting exactly two heads? (3/8)
+		2. Ten dice, each fair with six-sides, are rolled simultaneously. What is the probability of getting exactly two five among them? (1/6)^2 * (5/6)^8 * 10C2
+	- General formula
+		- p = probability of success on one trial
+		- n = number of trials
+		- r = number of success
+		- P = (nCr) * p^r * (1-p)^(n-r)
+- At lest Scenario
+	- When you see the words **"at least"** in a probability question, **use the Complement Rule shortcut**.
+	- Examples:
+		1. Suppose we roll one fair six-sided die eight times. What is the probability we will roll at least one six?
+			- The complement of "at least one six" is "zero six"
+			- P(at least one six) = 1 - (5/6)^8 6
+- Using counting techniques: **P = # of success / total # of outcomes**
+- Which technique to use
+	- Use the *formal algebraic rules* if
+		1. the problem gives you algebraic expressions: P(A) = 0.5, P(B) = 0.6, etc.
+		1. the items concerned are coins, cards, dice, etc.
+		1. if the language of the problem uses words "mutually exclusive" or "independent"
+	- Use the *listing* ONLY IF the full list is vert short, fewer than 10.
+	- Use the counting if the problem involves selection of several elements from a set, with certain restrictions.
+	- Consider using the Complement Rule when applying algebraic rules or counting techniques.
 
 
 ## Problem Solving Strategy

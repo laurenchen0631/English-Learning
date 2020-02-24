@@ -51,6 +51,8 @@
 - nothing more than == only
 - by no means == not
 - no less than == equal to == same as
+- **all but == almost**
+- not so much A as B == B is more important or greater than thing A
 
 ## Double/Triple Blank
 - Read the whole sentence.

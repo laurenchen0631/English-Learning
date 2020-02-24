@@ -3944,6 +3944,7 @@
 	lud, lude, lus 嘻笑/玩弄 = play
 		+ allude (v)間接提到/暗指/影射 = imply = insinuate, 略微提及 -->
 		+ allusive (ad)影射的/暗指的
+		+ allusion (n)暗示/間接提到
 		+ collude (v)[in]串通/勾結 = conspire = connive --> collusion (n)勾結/共謀/串通
 		* delude (v)欺騙/矇騙/讓..相信是真的 = dupe = hoodwink = hoax = deceive = cheat = trick
 		** delusive (adj)欺騙的/誤導的 = deceptive = misleading --> delusion (n)欺騙
@@ -7178,6 +7179,7 @@
 		- assuming (conj)[that]假使 = granted <|> unassuming
 		+ assumption (n)設想, 奪取/取得(權力)
 		- consume (v)吃/喝, 燒毀, 耗盡 = deplete, 購買 = buy, 充滿(情緒) = fill
+		- consumptive (adj)肺病的/患肺癆的, 消耗性的 (n)肺癆病人
 		+++ presume (v)假定/假設 = suppose = assume, 視..為理所當然 = take for granted, 擅自/冒然 = dare
 		+ /prɪˈzʌmptʃʊəs/ presumptuous (adj)放肆的/專橫的 = arrogant = overweening = petulant
 		+ presumption (n)推測/假定, 冒昧/放肆的行為 = effrontery
@@ -8307,6 +8309,7 @@
 		+ variegated (adj)多變的/多種多樣的 = varied = diverse = motley, 雜色的/色彩斑駁的
 		- variegation (n)雜色/斑駁 <-- vari + eg 做 = do + ation
 		+ /vəˈrʌɪəti/ variety (mn)多樣化/變化 (n)種類, 一些, [生]變種/異種
+		- varietal (adj)變種的 (n)(葡萄)品種
 		- various (adj)不同的/各種各樣的 = variegated = varied
 		- vary (v)使不同/改變, 修改 = modify
 

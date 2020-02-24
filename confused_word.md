@@ -66,7 +66,9 @@
 - attrit <--> attrition
 - advent <--> adventitious <--> adventurous <--> advantage <--> adventure <--> venture <--> vantage
 - advisable <--> advisory
- 
+- about-face
+- ambit <--> ambition 
+
 ## B
 - baffle <--> raffle <--> waffle
 - bail <--> parole <--> bait <--> gait
@@ -182,7 +184,7 @@
 - consol <--> consul
 - consort <--> consortium <--> comport <--> deport <--> depot
 - constituent <--> constituency <--> constitution <--> constitutional
-- consummate <--> commensurate
+- consummate <--> commensurate <--> consumption <--> consumptive
 - content <--> contention <--> contentment <--> contentious <--> consent
 - contingent <--> continent <--> contiguous <--> contagious
 - contort <--> distort <--> detour <--> extort <--> retort 
@@ -380,7 +382,7 @@
 - exclude <--> exclusive <--> exclusionary
 - execrate <--> excrete <--> execrable <--> consecrate <--> desecrate
 - excruciate <--> excruciating
-- exegesis <--> genesis
+- exegesis <--> genesis <--> nemesis
 - exemplum <--> exemplar <--> exempt
 - exercise <--> excise <--> incise <--> incisor <--> incisive
 - exhaust <--> exhaustive <--> inexhaustible 
@@ -450,7 +452,7 @@
 ## G
 - gaffe <--> gaff <--> guffaw
 - gallery <--> galley
-- gambit <--> gamble <--> ramble <--> rambling <--> gambol <--> garble <--> gargle <--> gargoyle
+- gambit <--> ambit <--> gamble <--> ramble <--> rambling <--> gambol <--> garble <--> gargle <--> gargoyle
 - gangster <--> angst 
 - gauche <--> gaudy
 - gaunt <--> gantlet <--> grunt <--> disgruntle
@@ -623,7 +625,7 @@
 - lugubrious
 - luminary <--> luminous <--> numinous
 - lurk <--> lark <--> lurch <--> luck 
-- luster <--> lust <--> lustful <--> lustrous
+- luster <--> lust <--> lustful <--> lustrous <--> allusion
 - landfall <--> landfill
 
 ## M
@@ -938,7 +940,7 @@
 - screen <--> screech <--> screening
 - scurry <--> scurrilous
 - scruple <--> scrupulous <--> unscrupulous
-- scurvy <--> purvey
+- scurvy <--> purvey <--> purview
 - secede <--> concede <--> succeed <--> success <--> succession <--> secession
 - secure <--> secular
 - sensible <--> senescent <--> insensible <--> sensibility <--> sensitive <--> insensitive
@@ -1019,7 +1021,6 @@
 - succinct <--> precinct
 - succor
 - suffuse
--  <--> suspicious
 - sullen <--> sully
 - supercilious
 - superfluous <--> superficial
@@ -1028,6 +1029,7 @@
 - stampede
 - sophomoric
 - sustain <--> detain <--> sustained <--> sustenance
+- sleuth
 
 ## T
 - taboo <--> tattoo
