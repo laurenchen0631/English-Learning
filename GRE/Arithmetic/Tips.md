@@ -119,13 +119,13 @@
 		- 1 yr: $1000 + $50 = $1050
 		- 2 yr: $1050 + $50 = $1100
 		- 3 yr: $1100 + $50 = $1150
-		- n yr: $1000 + (1000 * 0.05) * n
+		- **n yr: $1000 + (1000 * 0.05) * n**
 - Compound interest
 	- Bob deposit $1000 in an account that yields 5% interest compounding annually.
 		- 1 yr: $1000 * 1.05 = $1050
 		- 2 yr: $1050 * 1.05 = $1102.5 
 		- 3 yr: $1102.5 * 1.05 = $1157.625
-		- n yr: $1000 * 1.05^n
+		- **n yr: $1000 * 1.05^n**
 	- If the question compound quarterly, monthly, or daily, we need n, which is the number of times that compounding period would occur in a year.
 		- quarterly: n = 4
 		- monthly: n = 12
@@ -446,19 +446,6 @@
 	- Use the counting if the problem involves selection of several elements from a set, with certain restrictions.
 	- Consider using the Complement Rule when applying algebraic rules or counting techniques.
 
-
-## Problem Solving Strategy
-- Backsolving: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
-	- Improvement: choose the middle answer and see the difference is greater or lesser.
-- Always check whether the question define the variable to be integers or not.
-- If the question ask the question like x + y rather than x = ? or y = ?, there must be a shorter way to get the answer without resolving x and y.
-- If one expression is repeated or compound fraction, we can choose a single variable for the expression.
-	- (x^2+1)^2 - 15(x^2+1) + 50 = 0 --> u = x^2+2, u^2 - 15u + 50 = 0
-	- 3 / (1-8/(7+k)) = 15
-- Assign Variable
-	- Pick a variable that you can know what the symbol represents.
-	- Assign a variable for the smallest value or for the target value for which the question ask. 
-
 ## Expression
 - **is** or **are** correspond to the **equal sign**
 	- A is 50 more than B: A = B + 50
@@ -469,3 +456,39 @@
 - A is X times as ____ as B, X times as ____ A as B: A = XB
 	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)
 	- Sue planted 4 times as many apple seeds as she planted orange seeds: A = 4O
+
+## Date Interpretation
+- **All graphs are drawn to scale.**
+- Charts
+	- Pie Chart
+	- Line Chart
+	- Bar Chart
+		- Segmented Bar Graph
+		- Side-by-side Bar Graph
+	- Histogram
+	- Scatterplots
+- Scatter Plots
+	- Visually display the relationship of two variables over a group of individuals.
+	- Correlation:
+		- Positive
+		- Negative
+		- No relation
+	- Regression/Trend line
+		- The dots above the line is greater than expectation.
+		- The dots below the line is worse than expectation.
+
+	
+## Problem Solving Strategy
+- **Backsolving**: assuming one of the numerical answers from five options is the correct answer; from this, we work backwards, and see if it make sense in the problem. If the answer doesn't work, we pick another answer and try again.
+	- Improvement: choose the middle answer and see the difference is greater or lesser.
+- Always check whether the question define the variable to be integers or not.
+- If the question ask the question like x + y rather than x = ? or y = ?, there must be a shorter way to get the answer without resolving x and y.
+- If one expression is repeated or compound fraction, we can choose a single variable for the expression.
+	- (x^2+1)^2 - 15(x^2+1) + 50 = 0 --> u = x^2+2, u^2 - 15u + 50 = 0
+	- 3 / (1-8/(7+k)) = 15
+- Assign Variable
+	- Pick a variable that you can know what the symbol represents.
+	- Assign a variable for the smallest value or for the target value for which the question ask. 
+- **Picking Numbers**
+	- Efficient way when the answer is that relationship can't be decided.
+	- Consider different categories: **positive/negative/zero and integer/fraction/decimal.**

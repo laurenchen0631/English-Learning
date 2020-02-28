@@ -991,6 +991,7 @@
 		+ occupational (adj)職業的
 		++ perceive (v)察覺/注意到 = cognizant = comprehend = remark, 看待/視為
 		+ percept (n)認知的對象 <|> precept 
+		- perceptual (adj)感知的/知覺的
 		+ perception (n)感覺/知覺/感知, 見解/看法 = conception = understanding
 		+ perceptive (adj)觀察敏銳的/有洞察力的 = discerning = insightful = subtle = percipient = perspicacious
 		+ perceptible (adj)可察覺到的/可感知的
@@ -2315,6 +2316,7 @@
 		+ endure --> enduring --> endurance
 		- enfeeble (v)使虛弱無力 = debilitate
 		- enfetter (v)給...上腳鐐, 束縛
+		- enforce (v)強制/強迫 = compel, 實施/執行, [古]堅持/主張
 		++ engage (v)吸引/佔用 = attract = occupy = appeal, [in](使)參與 = involve, [with]接觸/嚙合, 啟動(機械), 聘雇 = hire, 答應/保證 = pledge, 交戰/交手
 		* engaged (adj)忙碌的 = bustling, 從事……的, 訂婚的
 		+ engaging (adj)迷人的 = winsome = charming = winning = attractive = pleasing
@@ -2330,6 +2332,7 @@
 		- enliven (v)使有生氣/使活躍/使更有趣 <-- en + life + en
 		- enamel (mn)琺瑯, 琺瑯質, 瓷漆/瓷釉 = enamel paint (v)給…上琺瑯 (n)琺瑯製品
 		- enmesh (v)使捲入/使陷入 = entangle
+		- ennoble (v)使成為貴族, 使尊貴
 		+ empiric --> empirical --> empiricism
 		* enrage (v)激怒/觸怒 = livid
 		- enrapture (v)使欣喜若狂
@@ -3117,7 +3120,7 @@
 		- octogenarian
 		+ primogenitor
 		+ progenitor (n)祖先, 先驅/始祖 = primogenitor
-		* progeny (n)後代/子女 = descendant
+		* progeny (n)後代/子女 = descendant = posterity
 
 	gene, gen 基因
 		- gene (n)基因
@@ -3269,6 +3272,7 @@
 		- hydrogen (n)氫
 		- hydrology (n)水文學 --> hydrologic (adj)
 		- hydrophobia (n)恐水症
+		- hydrophobic (adj)疏水的, 恐水的
 		- hydroponic (adj)水耕的 --> hydroponics (n)水耕法
 
 	histo, hist 細胞組織 = tissue
@@ -3465,6 +3469,7 @@
 			- infamy (n)惡名/聲名狼藉, 醜惡/邪惡的行徑
 			* infancy (n)嬰兒期/幼年, 初期/發展階段
 			* /ˈɪnf(ə)nt/ infant (n)嬰兒 --> infantry (n)步兵 <-- in + fant 說話 = speak
+			- infantile (adj)嬰兒的/初期的
 			- infantilize (v)把..當成小孩般對待
 			+ infallible (adj)永無過失的/不會犯錯誤的 --> infallibility (n)無錯誤/無過失
 			+ infelicity (n)不幸, 不恰當 --> infelicitous (n)不幸的 = unfortunate, 不妥當的 = unsutiable <-- in + felicitous
@@ -5392,7 +5397,7 @@
 		- imposition (n)徵收/實施, 徵收物, 稅/責任 = tax = duty
 		- imposing (adj)壯觀的/宏偉的 = grand
 		- impostor, imposter (n)騙徒/冒充者 --> imposture (n)冒充
-		- interpose (v)置於...之間 = interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
+		- interpose (v)置於...之間 =chivalrous interpolate, 插嘴 = interject, 介入/干預 = interfere, 行使(否決權)
 		+ /ˌdʒʌkstəˈpəʊz/ juxtapose (v)並排/並置(做比較) <-- juxta 在附近 = side by side + pose
 		+ juxtaposition (n)並置/並列 
 		+ opponent (n)敵手/對手, 反對者
@@ -5407,7 +5412,7 @@
 		- /pəˈzɛs/ possess (v)擁有, 具有, 附身, 支配
 	    +++ post (n)柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, 職位/工作, 崗位, 駐軍 (v)張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, 分發, 分派
 		- poster (n)海報/廣告/布告, 貼文者 (v)張貼
-		- posterity (n)後裔/子孫
+		- posterity (n)後裔/子孫 = progeny
 		* postpone (v)使延期/推遲 <-- post 後 = after + pone
 		* postulate (v)假設/假定 = assume = presume = posit (n)假定/假設, 基本條件要求
 		* posture (n)姿勢, 立場態度, 姿態/裝腔作勢 = pose (v)裝模作樣/故作姿態 --> posturing (n)故作姿態/裝腔作勢
@@ -6015,6 +6020,7 @@
 		- philanthropic --> philanthropist
 		- philately (mn)集郵 --> philatelist (n)集郵家
 		- philosophy
+		- philologist (n)語言學家
 		- bibliophile
 		- negrophile
 		- hemophilia

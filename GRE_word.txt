@@ -581,6 +581,7 @@
     - /bəːp/ burp (v)打嗝 = hiccup, 使…打嗝 (n)打嗝聲
     - burrow (n)洞穴/地道 (v)挖地洞/挖通道, 藏起, 尋找/探索 = investigate
     - butler (n)司膳總管
+    - buyout (n)收購
     - buzz (n)嗡嗡聲, 一通電話, 熱鬧, 愉快, 謠言 (v)發出嗡嗡聲, 充滿嗡嗡聲, 打電話, 充滿, 快速地走, [in]允許..進入
     - buzzed (adj)喝醉的/微醺的 = tipsy = stoned
     - buzzword (n)[非]裝模作樣的專門語/行話 = buzz phrase
@@ -1126,6 +1127,7 @@
     - dibs (n)[非]錢, [have first dibs]權力/資格 = right
     - dicker (v)討價還價/談判 = bargain = haggle, 胡來/亂動 = fiddle with
     - dice -> die (n)骰子, 骰子狀小方塊(食物) (v)擲骰子, [dice with]冒險, 把(食物)切成骰子狀
+    - dicey (adj)不確定的/冒險性的 = precarious
     - die (n)金屬模子/鋼模/印模 (v)死亡, [out]滅絕, 被遺忘, 漸弱/減弱, 熄滅, [非]停止運轉, 渴望
     - diehard (n)頑固份子
     - digit (n)手指/腳趾 = finger = thumb = toe, 數字
@@ -1587,6 +1589,7 @@
     - fleck (n)光斑, 斑點 = speck (v)飾以斑點
     - flesh (n)肌肉, 肉, 果肉, 皮膚/表皮, 肉體, 肉色 (v)用肉餵養, 使習慣於殺人, [out]增重, [out]以細節或資訊充實, [out]使肉剝離
     - flight (n)飛行/飛翔, 飛逝, 一群(鳥、蟲或飛行機) = flock, 樓梯的一段, 障礙賽的障礙物, (想像力)奔放, 飛鏢的尾部 (mn)逃跑 = fleeing (v)在(飛鏢或箭)裝上尾羽, 射(飛行中的野禽) <-- fly
+    - flicker (v)閃爍/搖曳, 顫動 (n)閃爍/搖曳, 輕快的動作/閃現
     - flint (n)打火石/燧石 <|> fling
     - flinty (adj)燧石似的/含燧石的, 強硬的/堅定不移的 = resolute = adamant
     - flit (v)閃過/掠過 (n)(偷偷地)搬家
@@ -2059,6 +2062,7 @@
     - harden (v)變硬, 變強硬, 變堅強/變明確, (價錢)居高不下
     - hardheaded (adj)商業上現實的 = practical
     - hardwearing (adj)經穿的/耐磨的
+    - hard-wired (adj)與生俱來的 = innate = inborn
     - hardy (adj)強壯的 = robust = vigorous, 耐寒的
     - /hɛː/ hare (n)野兔 (v)飛奔
     - harem (n)閨房, 後宮/妻妾
@@ -2167,6 +2171,7 @@
     - hull (n)船身, 皮/殼/莢, (莓果的)蒂 (v)(砲彈)打穿……的船殼, 去……的殼或蒂 <|> lull <|> dull
     - hullabaloo (n)喧鬧 = commotion
     - huller (n)脫殼機/去殼機
+    - hum (v)發嗡嗡聲, 哼, [非]忙碌/活躍 (n)嗡嗡聲
     - humane (adj)仁慈的/人道的 = kind = tender = merciful
     - humanoid (adj)像人的 (n)類人生物
     - humid (adj)潮濕的 = dank = damp = muggy --> humidity (mn)潮濕, 濕氣/濕度 = moisture = damp
@@ -2272,6 +2277,7 @@
     + jovial (adj)友善快活的/令人愉快的 = cheerful = convivial
     + jubilate (v)揚聲歡呼/歡喜 = rejoice = exult = hail --> jubilation (n)歡騰/歡慶 = triumph 
     + jubilant (adj)狂喜的/歡欣鼓舞的 = exultant <-- jubil 大叫 = shout + ate
+    - jubilee (n)二十五週年/五十週年紀念, 大赦年
     + juggernaut (n)駭人的力量, 重型卡車 <-- [印]印神教主神世界主宰
 
     ** jack (n)千斤頂, J牌/傑克, 插孔/插座 = jack socket, 槌球的小白球, 普通人, 不知名的人, 伐木工人 = lumberjack, 偵探/警察, 敲鐘者, 船首旗, 錢 = money, 闊步鰺, 公隼, 公騾/公畜 (v)[非]偷 = steal, [非]搶劫 = steal
@@ -2775,6 +2781,7 @@
     - masquerade (n)化裝舞會, 偽裝/化裝 (v)偽裝/冒充 <-- masque 面具 = mask + rade
     - massif (n)山巒
     - mast (n)船桅/旗桿, 天線杆, 飼料堅果, 泡 = brew = mash
+    - mastiff (n)獒犬
     - maestro -> maestri/maestros (n)大音樂家/名指揮家, 大師/名家
     - mastery (n)精湛技藝, 熟練/精通, 支配/統治 = control = superiority 
     - mastermind (n)才華橫溢的人, 智囊 (v)策劃 = plan
@@ -2949,6 +2956,7 @@
     - national (adj)全國的, 國家的 (n)國民/國人 = citizen, 全國報, 全國性比賽
     - nation-state (n)民族國家
     - nationwide (adj)全國的 (adv)全國
+    - nativism (n)排外主義, 先天論
     - naturalization (n)(外國人的)歸化, (動植物的)移植, (外國的習慣、語言等)移入/同化, 自然化/天然化
     - navel (n)肚臍, 中央/中心
     - navel-gazing (n)紙上談兵/光說不練/過分自省
@@ -3084,6 +3092,7 @@
     - /ˈɒstrɪtʃ/ other-directed (adj)受人支配的
     - otherworldly (adj)超凡脫俗的/超脫塵世的 = unwordly, 來世的
     - otter (n)水獺
+    - out-of-pocket (adj)不在預算的
     - ovation (n)大喝采/熱烈鼓掌 = applause
     - overture (n)前奏曲/序曲, 開端/序幕, 主動的表示/提議
     - ovoid (adj)卵形的 = oval (n)卵形體
@@ -3621,7 +3630,7 @@
     - rabid (adj)瘋狂的/狂熱的 = fanatical, 患狂犬病的 <-- rab 憤怒 = mad, rave + id
     - rabies (mn)狂犬病 <-- rab 憤怒 = mad, rave + ies
     - rack (n)架子, 齒條/齒棒, 肢刑架/拷問台, 女性的胸部, 一對鹿角, 床, (撞球)三角框 (馬)同腳 (v)放入架子, 對……施肢刑, 折磨/使痛苦, [up]累計(得分或獲利)
-    - rake (n)耙/草耙, 耙 (v)把......耙在一起, 耙平, 擦過/掠過, 搜索/探索 = rummage, (v)揭(瘡疤)/翻(舊帳)
+    - rake (n)耙/草耙, 耙 (v)把......耙在一起, 耙平, 擦過/掠過, 搜索/探索 = rummage, 揭(瘡疤)/翻(舊帳)
     - racket (n)球拍, [非]喧嚷 = din, [非]敲詐, 職業 (v)喧嚷, [about/around]忙於社交應酬
     - racketeer (n)詐騙者
     - racketeering (mn)勒索/詐騙/敲詐
@@ -4249,6 +4258,7 @@
     - shriek (v)尖叫, 促人注意 (n)尖叫 = scream, [非]驚嘆號
     - shrimp (n)小蝦, [非]矮個子
     - shrine (n)聖壇/神殿/神社, 神龕 = niche (v)把……放置在龕內 = enshrine
+    - shire (n)[英]郡
     - shroud (n)壽衣/裹屍布, 幕/罩, 桅的左右支索, 降落傘的吊傘索 (v)用裹屍布裹/給..穿上壽衣, 覆蓋/掩蔽
     - shrub (n)灌木 <|> scrub
     - shuck (n)植物的殼/莢 = hull, 蚌殼 = shell, 蛹殼 = shell = integument, [非]無用之物 (v)剝…的殼, [非]脫掉(衣服), [非]擺脫 = get rid of, 戲弄 = tease = fool
@@ -4736,6 +4746,7 @@
     - tatty (adj)襤褸的/破爛的, 低劣的/差的
     - taunt (n/v)嘲笑/奚落
     - taut (adj)繃緊的, 秩序井然的(船員) --> tauten (v)拉緊/繃緊
+    - tavern (n)小酒館
     - taxis (n)[醫]整腹法, 反射運動, 文字分類法
     - teal (n)短頸野鴨, 藍綠色
     - tease (v)逗弄/戲弄, 挑逗, 梳理(毛，麻等), 理出(資訊) (n)[非]愛戲弄人的人, 挑逗者, 戲弄
@@ -4857,6 +4868,7 @@
     - treetop (n)樹梢
     - /trɛk/ trek (n/v)長途跋涉 <|> /trak/ track 
     - trend (n/v)趨勢/傾向 (n)時尚 = fashion
+    - trendsetter (n)引領潮流的人
     - tribe (n)部落, 一幫/一夥(人), [生]族/群
     - tribal (adj)部落的, [貶]忠誠的
     - tribune (n)古羅馬的護民官, 講壇/論壇
@@ -4867,6 +4879,7 @@
     - trippy (adj)[非]引起幻覺的
     - troll (n)侏儒/巨人, 故意留下激怒他人言論的人, 網路怪論 (v)在網路上留下侮辱性的訊息, 搜索, 漫步 = troll, 隨意地唱
     - trolley (n)觸輪, 路面電車 = trolleybus = trolley card
+    - trombone (n)長號
     - tromp (v)腳步沉重地行走 = trudge, [on]踐踏 = stamp on
     - troop (n)軍隊/部隊, 騎兵隊, 一群 (v)集合, 列隊而行
     - troth (n)[古]誓言/訂婚, [古]真相
@@ -4935,6 +4948,7 @@
     * utilitarian (adj)實用的, 功利主義的 (n)功利主義者
     ** ultimate (adj)最後的/最終的 = final, 基本的/根本的 = fundamental, 最大的/極限的 (n)極致, 基本原則 <-- ultim 最後的 = last
     
+    - urchin (n)頑童, 小孩, 刺猥, 海膽
     - ugly (adj)難看的, 邪惡的/醜陋的
     - ulcer (n)潰瘍, 道德敗壞/腐敗
     - unction (n)塗聖油禮, 油膏/軟膏 = ointment, 熱忱

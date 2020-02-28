@@ -483,6 +483,7 @@
 	- That cream got rid of my skin rash.
 	- Have you managed to get rid of your old Volvo yet?
 	- We got rid of our unwelcome guests by saying we had to go to bed.
+- have an axe to grind (v)別有用心, 想爭個對錯
 - have one's origin (in sth) 出現/被發明/被製造
 	- The silk industry had its origin in China.
 	- The school had its origin with a large gift from a donor.
