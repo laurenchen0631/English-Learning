@@ -46,12 +46,12 @@
 - Two words (usually adjective) follow one another.
 
 ## Special Phrase
-- anything but == except == not
+- **anything but == except == not**
+- **all but == almost**
 - nothing but == only
 - nothing more than == only
 - by no means == not
 - no less than == equal to == same as
-- **all but == almost**
 - not so much A as B == B is more important or greater than thing A
 
 ## Double/Triple Blank

@@ -534,6 +534,7 @@
 		- actionable (adj)有足夠證據可控告的, 有行動價值的
 		- activism (mn)激進主義
 		- actuality (n)現實, 真實情況
+		- actuarial (adj)保險精算師的/保險精算的
 		- counteract
 		+ enact (v)制定(法律), 扮演(角色)
 		++ exact (v)強要/勒索 = force = compel, 施加(報復) (adj)確切的 = correct, 精確無誤的 = precise = rigorous, 謹慎的
@@ -1797,6 +1798,7 @@
 			+ dissemble
 			* dissent
 			+ disservice (n)有害的行為 = criterion
+			- dissimilar (adj)不同的 = differemt
 			- dissimulate
 			- dissuade
 			+ distaste (n)厭惡/討厭 = antipathy = animosity
@@ -3407,7 +3409,7 @@
 			+ impudent (adj)無禮的 = impertinent = insolent
 			+ impudence (n)傲慢無禮 = impertinence = effrontery <-- im + pud 羞愧 = shame + ent
 			- inpuissance (n)無力/虛弱
-			- impunity (n)缺乏遠見
+			- impunity (n)免於懲處
 			** inactive (adj)不活動的/不活躍的 = fallow, 消極的 = sedentary = passive, 懶惰的 = sluggish = indolent
 			+ inadequate (adj)不足的/不夠格的 = inept = unsuitable
 			+ inadvertent --> inadvertently
@@ -3965,7 +3967,9 @@
 	luc, lucid, lumin 光亮 = light
 		+ lucid (adj)清楚易懂的 = pellucid = perspicuous = comprehensible, 神志清醒的 = sane, 明亮的 = bright --> lucidity (n)清晰 = cogency, 神智清醒 <|> lurid
 		+ /ɪˈl(j)uːsɪdeɪt/ elucidate (v)闡明 = explain = clarify
+		+ elucidation (n)闡明 = illumination
 		+ illuminate (v)闡明/解釋 = elucidate, 照亮 = light up, 裝飾 <-- il + lumin + ate
+		+ illumination (n)照明, 闡明 = clarification, 啟發
 		- illuminati (n)先覺者/智者
 		* lucent (adj)發光的/透光的
 		- lumen (n)流明
@@ -6178,6 +6182,7 @@
 		+ /ˌakwɪˈɛs/ acquiesce (v)默認/默許 = condone
 		* quiet (adj)安靜的, 寧靜的, 不被打擾的, 秘密的, 溫和的, 保守的, 不醒目的 (n)安靜, 不被打擾, 安穩 (v)安靜
 		+ /kwɪˈɛsənt/ quiescent (adj)平靜的/靜止的 = inactive = still = quiet
+		- quiescence (n)靜止/休眠
 		- quietude (n)寧靜/寂靜 = clam
 		+ /dɪsˈkwʌɪət/ disquiet (v)使憂慮/使不安 = discompose (n)不安/憂慮
 		- quietus (n)生命的終止/死
@@ -7832,6 +7837,9 @@
 		- /ˌθɛrəˈpjuːtɪk/ therapeutic (adj)治療的, 有療效的, 有益於健康的 (n)治療/藥物 --> therapeutics (n)治療學
 
 	thermo, therm 熱 = heat
+		- ectothermic (n)變溫的/外溫的
+		- ectotherm (n)變溫動物/外溫動物
+		- ectothermy (n)外溫性
 		- geothermal
 		- thermal (ad)熱的, 地熱的, 隔熱的 (n)熱氣流, 隔熱衣
 		- thermonuclear (adj)氫彈的/核熱的
@@ -8087,6 +8095,7 @@
 		- upend (v)倒置/顛倒
 		- upgrade (v)使升級/提升, 提拔 (n)升級
 		+ upheave (v)使隆起 = heave = lift up --> upheaval (n)動盪/劇變, 地殼隆起
+		- uphill (adv)往上坡/往山上 (adj)向上的/上坡的, 艱難的/費力的 (n)上坡
 		+ uphold (v)贊成/確認 = confirm = support, 維護/維持(傳統或慣例) = defend <--> withhold
 		- upkeep (mn)保養/維修, 經濟或物資援助
     	- upland, uplands (mn)高地/山地

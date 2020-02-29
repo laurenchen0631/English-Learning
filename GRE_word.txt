@@ -877,6 +877,7 @@
     - churn (n)攪乳器, 客戶流失率 (v)用攪乳器攪拌, 劇烈攪動/翻騰, 胃部翻騰/反胃/噁心, 隆起, [out]大量生產
     - chute (n)導槽/滑運道, 滑水道, [非]降落傘 = parachute
     - /ˈxʊtspə/ chutzpah (mn)膽量/厚臉皮
+    - cicatrix (n)瘢痕(傷口癒合的痕跡), 葉痕
     - cinder (n)煤渣/炭渣, 餘燼 = ashes (mn)爐渣/溶渣 = slag
     - cipher, cypher (n)密碼/密碼文件, 零 = zero = nil, 無影響力之人/無名小卒 = nonentity, 花押字 = monogram (v)編碼 = encode
     - clam (n)蛤蜊/蛤肉, 守秘密之人
@@ -1098,6 +1099,7 @@
     - daft (adj)[about]熱戀..的 <--> deft
     - dally (v)蹉跎/磨蹭, 玩弄(感情)
     - dalliance (n)逢場作興/調戲, 短時間的涉入
+    - dandle (v)搖晃逗弄(嬰兒), 寵/嬌養 = cosset
     - dandy (n)花花公子, [非]第一流的東西 (adj)花花公子的, [非]非常好的 = excellant
     - dangle (v)懸擺/懸蕩, 用...作為承諾/答應用...作為回報
     - dank (adj)濕冷的
@@ -1975,6 +1977,7 @@
     + hidebound (adj)思想偏狹頑固的/保守的 = inflexible = conservative
     + highlight (v)引起對..的注意, 使顯著/使突出 = emphasize = underscore = accentuate (n)最有趣最精彩的部分, (畫)最明亮部分
     + hinder (v)阻礙/妨礙 = impede = encumber = hamper = inhibit = thwart = stymie (adj)後面的/後部的 = rear
+    - hinterland (n)內地, 偏僻地區
     - hindsight (n)後見之明
     + hirsute (adj)多毛的 = hairy = shaggy = bristly
     + /ˌhɪstrɪˈɒnɪk/ histrionic (adj)演戲似的/矯揉造作的 = dramatic = operatic, 表演的/演員的 <-- histrion 演員 = actor
@@ -2582,6 +2585,7 @@
     - lurch (n/v)蹣跚/踉蹌 = stagger = lumber
     - lurk (v)潛伏/埋伏, (危險等)潛在, 網路潛水 <|> lark <|> luck
     - /lʌʃ/ lush (adj)蒼翠繁茂的, (感官享受)豐富的, 極佳的, [非]向……灌酒 (n)[非]酒鬼
+    - lyceum (n)演講廳/講學場所
     - lymph (n)淋巴
     - lymphatic (adj)淋巴的 (n)淋巴腺/淋巴管
     - lynch (v)以私刑處死
@@ -2823,7 +2827,7 @@
     - metallic (adj)金屬的, 金屬似的(聲音), 有磁性的(聲音), 有金屬光澤的 = iridescent
     - methane (n)甲烷/沼氣
     - miasma (n)瘴氣/臭氣, 不良氣氛
-    - miff (v)[非]使惱怒 = annoy
+    - miff (v)[非]使惱怒 = annoy <|> tiff 
     - mighty (adj)強有力的/強大的, 巨大的/大量的 = very large
     - migrate (v)遷移/移居 --> migratory (adj)遷移的
     - milestone (n)里程碑/里程標, 里程碑/劃時代的事件 = landmark
@@ -3069,6 +3073,7 @@
     - one-size-fits-all (adj)均碼的/大小皆宜的, 各方面都顧及的/通用的
     - one-up (adj)[非]略勝一籌的 (V)[非]略勝..一籌/領先某..一步 = get the better of = succeed in
     - oneness (mn)一體, 和諧, 單一性
+    - openness (n)開放 = accessibility, 心胸寬大, 坦誠 = frankness, 空曠/開闊
     - op-ed (adj)發表個人意見的/專欄版的/特稿的(文章)
     - opal (n)蛋白石
     - opalescent (adj)乳白的 --> opalescence (n)乳白光/蛋白光
@@ -4687,6 +4692,7 @@
     * tolerate (v)寬容/容忍 = abide, 忍耐/忍受
     * tolerant (adj)寬容的/容忍的, 有耐受性的
     * tolerance (n)寬容/寬大, 忍耐力, 耐受性/耐藥量
+    * tony (adj)高貴的/時髦的
     * totter (v)踉蹌/蹣跚, 搖搖欲墜 (n)蹣跚
     * tow (v)拖/拉/牽引 (n)亞麻纖維
     * tremble (v)顫抖/發抖 = shake = quiver, 焦慮/擔憂 (n)顫抖/發抖, 牛馬震顫病 = milk sickness
@@ -4739,6 +4745,7 @@
     - tarpaulin (n)防水油布, (水手的)防水帽
     - tart (n)水果餡餅, 妓女 (v)[about/around]花枝招展 (adj)酸的 = sour = acid, 尖酸的/刻薄的 = cutting = biting = acrimonious
     - tastemaker (n)時髦風尚之開創者
+    - tasteful (adj)有鑑賞力的
     - tasty (adj)美味的/可口的
     - tattoo (n)[軍]歸營號, 連續有節奏的敲擊聲, 紋身圖案 (v)在...上刺青
     - tatters (N)破衣服/破布條
@@ -4988,6 +4995,7 @@
     + /vɪˈsɪsɪtjuːd/ vicissitude (n)變換, 盛衰/興敗 --> vicissitudinous (adj) = checkered <-- vicussi 改變 + tude
     + vigil (n)守夜, 示威, 宗教節日前夕 --> vigilant (adj)警戒的/警惕的 = mindful
     - vigilante (n)治安會會員/治安維持者
+    - vigilance (n)警戒/警覺
     + /vʌɪ/ vie -> vying (v)競爭 = contend = compete
     * /vʌɪl/ vile (adj)糟透的/惡劣的 = extremely unpleasant, 邪惡的/卑鄙的 = wicked = iniquitous
     + /ˈvɪlɪfʌɪ/ vilify (v)誹謗 = defile = denigrate = defame = disparage = depreciate = slur = slander = tarnish = calumniate 
@@ -5057,6 +5065,7 @@
     - violent (adj)暴力的/兇暴的, 強烈的, (顏色)極其鮮艷的 = vivid
     - violet (n)紫羅蘭 (adj)紫羅蘭色的
     - virgin (n)處女/童男, 從未有過...經歷的人/新手 (adj)處女的, 未開發的/未經利用的
+    - virility (n)男子氣概 = manliness
     - vis-a-vis (prep)對於/關於 = with regard to, 相較於 = as opposed to (n)相應的人面對面的談話
     - volley (v)齊發/群射 (n/v)(質問)迸發/連發, 截擊(球)
     - voluminous (adj)寬鬆的(衣物), (家具)大而舒適的, 冗長的, 著作多的 <-- volume
@@ -5185,6 +5194,7 @@
     - wellness (n)健康 = well-being = health
     - well-being (n)幸福/安康
     - well-groomed (adj)整潔的 = tidy = smart
+    - well-heeled (adj)[非]富有的 = wealthy
     - well-off (adj)富裕的
     - well-rounded (adj)身材曼妙的 = plump = curvaceous, 面面俱到的/多才多藝的, 面面俱到的(句子)
     - well-to-do (adj)富有的

@@ -246,6 +246,7 @@
 - consequent <--> consequential <--> subsequent <--> sequela
 - considerable <--> considerate
 - convalesce
+- canid <--> candid <--> candor
 
 ## D
 - dabble <--> dapple <--> dribble <--> dripping <--> paddle <--> puddle <--> waddle <--> wade
@@ -346,7 +347,8 @@
 - design <--> designate <--> consign <--> insignia
 - distinct <--> distinction <--> distinctive
 - deranged
-- dangle
+- dangle <--> dandle
+- dicey
 
 ## E
 - eclipse <--> ellipsis <--> elliptical <--> ellipse <--> elliptic <--> ecliptic
@@ -484,6 +486,7 @@
 - hagiography
 - hale <--> hare <--> harem <--> mare
 - hardheaded <--> headstrong
+- hard-wired
 - harry <--> harried <--> marry <--> parry <--> quarry
 - hangar <--> hanger
 - harrow <--> furrow <--> burrow <--> hallow <--> hollow <--> marrow <--> mellow
@@ -510,7 +513,7 @@
 - hop <--> hoop <--> lop <--> loop <--> lope <--> lobe <--> lode
 - hospitable <--> hospital
 - hostel <--> hotel
-- humdrum <--> humbug <--> hamburger
+- humdrum <--> humbug <--> hamburger <--> hum
 - humiliate <--> humility <--> humiliation <--> humble
 - hubris <--> debris <--> detritus
 - hurdle <--> hurtle <--> curdle
@@ -589,6 +592,7 @@
 - jot <--> jut <--> jolt <--> jostle
 - juncture <--> junction
 - junta
+- jubilate <--> jubilee
 
 ## L
 - lacerate <--> macerate <--> larceny
@@ -745,7 +749,7 @@
 - peel <--> pelt <--> belt
 - peep <--> seep <--> weep
 - penalty <--> penitent <--> penitentiary <--> penitence <--> patience <--> patient
-- perceive <--> percept <--> precept <--> perceptive <--> percipient <--> precipitous <--> precipitate <--> precipice <--> incipient <--> sapient
+- perceive <--> percept <--> precept <--> perceptive <--> perceptual <--> percipient <--> precipitous <--> precipitate <--> precipice <--> incipient <--> sapient
 - peremptory <--> preemptive
 - perfidy
 - perjure <--> perjury <--> prejudge <--> prejudice
@@ -832,6 +836,7 @@
 - pyrotechnical
 - proverb <--> proverbial
 - peccadillo
+- prophylactic
 
 ## Q
 - quail <--> quill <--> quilt
@@ -1005,7 +1010,7 @@
 - stoic <--> stolid
 - stone <--> stoned <--> stonewall
 - storey <--> story
-- stiff <--> tiff
+- stiff <--> tiff <--> mastiff
 - stifle <--> strife <--> strive 
 - straddle <--> saddle <--> straggle <--> struggle
 - strenuous
@@ -1119,6 +1124,8 @@
 - volume <--> voluble <--> voluptuous <--> voluminous
 - vouch <--> voucher
 - vowel <--> bowel
+- virility
+- valiant <--> vigilance
 
 ## W
 - wanting <--> wanton
