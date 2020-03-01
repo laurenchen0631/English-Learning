@@ -1,7 +1,7 @@
 ## Templates
 1. Introduction (5 min thesis including planning + 3 min complement introduction after finishing conclusion)
 	- Restate the issue you were assigned
-		- *While some people believe that _____.*
+		- While some people believe that _____.
 		- *When it comes to _____, _____.*
 	- State your position (thesis) on that assignment: 10 - 20 words.
 		- *While ______, _____*

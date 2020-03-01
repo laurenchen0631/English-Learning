@@ -29,6 +29,8 @@
 		1. The Stereotypical Assumption: Because the rental is restricted, the possibility of the kind of accidents reduced therefore. (Other alternative or buy a new one rather than rent)
 		2. The Illogical Analogy: It can attain the 50 percent annual reduction in the accidents just like the other island that administrate the same policy. (population and economy of the islands)
 		3. The Stereotypical Assumption: the increase in the population of mopeds naturally boost the number of accidents - thus, most of country present occurrence of accident as percentage. If the percentage of the accidents surge, there must be another cause that needs to be handled rather than reducing the number of mopeds.
+		4. the success of Seaville is definitely caused by the policy. (another factor could be the reason)
+
 
 ## Vocab
 - mopeds

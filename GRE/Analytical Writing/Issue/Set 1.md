@@ -86,3 +86,56 @@
 			1. Government can manipulate the motif of funded art works.
 			2. Political tendency steer the work.
 	- These: While the interference in art from government does exist, it still effectively refine and improve the quality of fund arts.
+
+6. Claim: In any field — business, politics, education, government — those in power should step down after five years.
+- Reason: The surest path to success for any enterprise is revitalization through new leadership.
+- Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.
+	- Issue: Any leader in any field must step down after a short period because revitalization for any industry is the key to success?
+	- Pros
+		1. foster next successor as early as possible. (accident can happen)
+		2. people easily become avaricious. (politician)
+	- Cons
+		1. Even a good policy may not prolong more than 5 yrs.
+		2. follower/employee may not adapt to new leadership. (change employee or downturn for a moment?)
+		3. Not every field have the similar of period of revealing effect. (medical research, biological investigation)
+	- Thesis: While periodic and short-term alternation of leadership is suitable for some enterprises, there are still some undeniable vantages for keeping the same leadership for longer period.
+
+7. In any field of endeavor, it is impossible to make a significant contribution without first being strongly influenced by past achievements within that field.
+- Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+	- Issue: Without past achievement in a field, a significant contribution can not appear in the field.
+	- Agree:
+		1. Modern technology, pc, mobile, are developed gradually. Those things alternate our lives thoroughly.
+	- Disagree:
+		1. Some significant events do happen without any inkling.
+		2. Past achievement sometimes hinder the greater contribution to discover truth. (Galileo refutes Heliocentrism suggested by Nicolaus Copernicus whose theory gain many supporters.)
+
+8. Nations should pass laws to preserve any remaining wilderness areas in their natural state, even if these areas could be developed for economic gain.
+- Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.
+	1. However the area could profit after being developed, a nation must do as best as it can to preserve its natural environment.
+	2. Pros
+		1. Since the enormous development of technology, some of animals and landscape virtually vanish from the earth. (urgency)
+		2. The effect of loss of natural wilderness can not be easily estimated and quantified unlike the economical profit. (global warming, biodiversity, virus)
+	3. Cons
+		1. The preservation have its considerable cost. Without enough economical support, all of preservation eventually face their failure.
+	4. Thesis: According to the current, exigent situation of the earth, all governments must do their best to preserve existing natural environment, preventing worse consequence of nature.
+
+9. People's behavior is largely determined by forces not of their own making.
+- Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.
+	1. most of people behavior is not by their own spontaneity.
+	2. Agree
+		1. Pressure from various kinds of people.
+	3. Disagree
+		1. Not all actions are controlled or stimulated by others. (Personal entertainment, sexual disorientation)
+		2. those behavior compelled by others could not last long enough.
+	4. Despite enormous pressure from various kinds of people on the modern society, our personal impulsion still plays a leading role in our behavior.
+
+10. Governments should offer a free university education to any student who has been admitted to a university but who cannot afford the tuition.
+- Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.
+	1. Government must make those who have been admitted to a university but can not afford its tuition attending its education for free.
+	2. Pros
+		1. Scale principle: every one could have same education no matter of their financial condition.
+		2. Investment for future of the nation
+	3. Cons
+		1. Profit can not be measured in advance, not to mention that it would eventually be deficit.
+		2. Revenue of government or university curtail, which cause them to lessen cost including education.
+	4. Government should not provide "free" schedule to any certain type of people since prime education needs considerable cost and the loss from the policy could cause other serious problems.

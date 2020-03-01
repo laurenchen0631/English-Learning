@@ -298,8 +298,8 @@
 		- You should immediately **consider any sentence that generalizes a particular group as plain wrong, and attack that assumption** when you are writing your response.
 	2. The Necessity Assumption
 		- This is a **very frequent type of false reasoning** that hides in plain sight. Most students simply cannot identify that this type of reasoning is wrong. 
-		- The author of an argument usually assumes that a certain condition is necessary to achieve the desired result. But the problem here is, **the author simply says that it is necessary to do something to achieve something, and does not provide the necessary evidence.**
-	3. The Illogical Analogy
+		- The author of an argument usually assumes that a certain condition is necessary to achieve the desired result. But the problem here is, the author simply says that it is necessary to do something to achieve something, and does not provide the necessary evidence.
+	3. The Illogical Analogy / Not all x are alike / Apples are not Oranges 
 		- Analogy is when someone comes to a conclusion about something on the basis of another thing. For example, if a giant conglomerate has doubled its sales in the last one year because it had spent over $10 million on advertising, then in order for another giant conglomerate to double its sales, it has to spend more than $10 million on advertising.
 		- If you think about it carefully, it is an illogical analogy that the author has made in order to prove his/her point. One simply can’t analogize these two scenarios, even though the size of the companies is similar.
 	4. The Correlation – Causation Confusion
@@ -308,9 +308,13 @@
 		- While correlation just means that two events have occurred simultaneously, causation means that one event is the result of another event. Ine should be careful enough to understand that just **because one event happens after another, it doesn’t mean that the first event caused the other to occur.**
 	5. The Statistical Irrelevance:
 		- While we appreciate any kind of statistical data that further bolsters the author’s point of view, we must also be careful to **analyze the relevance of the statistical data in a particular scenario.**
-	6. The Data Bias
+	6. The Data Bias / Do not trust a survey
 		- Sometimes, even though surveys include a large number of people or a certainly large sample space, it is not enough to conclude that the results obtained from the survey are really true. Biased data is another reason why data can be manipulated with, or tainted easily.
 		- A survey is designed, consciously or unconsciously, to yield certain desired responses, and this definitely manipulates responses by providing narrow options.
+	6. Things(time, culture) Change
+	7. Assumed Cause & Effect
+	8. Number and Percentage Assumption
+	9. Vague Language
 
 ## Reference
 - [Overview of the Analytical Writing Measure](https://www.ets.org/gre/revised_general/prepare/analytical_writing/)
