@@ -2328,7 +2328,7 @@
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
 		- enjambment (mn)詩句之連續
-		+ enjoin (v)教導/鼓勵 = instruct = urge, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
+		+ enjoin (v)教導/鼓勵 = instruct = urge = exhort, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
 		+ enlighten (v)啟迪/教導 = instruct = impart knowledge
 		+ enlist (v)徵兵, 謀取...贊助或支持
 		- enliven (v)使有生氣/使活躍/使更有趣 <-- en + life + en
@@ -2542,7 +2542,7 @@
 		+ forbear (v)克制/忍耐 = refrain = abstain from = desist from
 		+ forbearance (n)自制/忍耐 = patience <-- for + bear
 		* forbid -> forbad/forbade -> forbidden (v)拒絕給予, 禁止/不許, 妨礙/阻止 = prohibit = interdict <-- for + bid
-		- forbidding (adj)可怕的/令人難親近的
+		- forbidding (adj)可怕的/令人難親近的 <|> unbidden
 		+ forfeit (v)喪失(權利) (n)罰款/處罰 (adj)被罰的/被沒收的
 		- forgo (v)拋棄/斷念 = renounce = resign = relinquish
 		+ /fəˈlɔːn/ forlorn (adj)被遺棄的/孤獨的, 幾乎無望的/不太可能實現的
@@ -3302,7 +3302,7 @@
 		- hilarity (n)大笑
 
 	hort 激勵 = urge
-		+ /ɪɡˈzɔːt/ exhort (v)力勸/勉勵 = urge = encourage
+		+ /ɪɡˈzɔːt/ exhort (v)力勸/勉勵 = urge = encourage = enjoin
 		+ hortatory, hortative (adj)勸告的, 獎勵的/激勵的 --> hortation (n)勸告, 獎勵
 
 	hap 運氣 = luck
@@ -4058,7 +4058,7 @@
 			- electoral (adj)選舉的/選舉人的
 			- electorate (n)全體選民
 			- elite (n)精華, 精英 
-			- elitist (adj.)傑出人物統治論的, 菁英的 (n.)傑出人物統治論者
+			- elitist (adj)傑出人物統治論的, 菁英的 (n)傑出人物統治論者
 			+ eclectic (adj)綜合性的/相容並蓄的/包括不同來源的 --> eclecticism (n)折衷主義
 			++ /ˈɪntəlɛkt/ intellect (n)(潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual (adj)智力的, 理智的/聰明的 (n)知識份子
 			- /ɪnˈtɛlɪdʒ(ə)nt/ intelligent (adj)聰明的 --> intelligence (n)(經驗)智慧, 情報/情報人員
@@ -6230,6 +6230,7 @@
 			- /riːəˈlʌɪn/ realign (v)調整…的位置, [realign oneself with]改變立場 <-- re + align
 			+ reassess (v)再評價/重新考慮 <-- re + assess
 			- rebate
+			- rebound (v)彈回, 回升, [up/upon]產生事與願違的結果 (n)彈回的球, 回升
 			+ /rɪˈkalsɪtrənt/ recalcitrant (adj)頑抗的/反抗的 --> recalcitrance (n)反抗 <-- re + calcitr 踢 = kick + ant
 			+ recapitulate --> recapitulation
 			- recast (v)重鑄, 更換演員 <-- re + cast
@@ -6980,6 +6981,7 @@
 		- aspiration (n)抱負/志向 = ambition, [醫]抽吸, 送氣音
 		- aspirant (adj)有抱負的 (n)有抱負者
 		+ conspire (v)共謀/密謀 = collude = connive = plot, 協力 = cooperate --> conspiracy (n)陰謀, 共謀
+		- conspiratorial (adj)陰謀的/陰謀者的
 		* inspire (v)激勵/鼓舞 = abet, 喚起/激起, 導致 = give rise to, 吸氣 = inhale 
 		* inspiration (n)激勵/刺激, 靈感/啟示, 吸入 = inhalation --> inspired (adj)富有靈感的/有靈感的, 吸入的
 		* inspirational (adj)帶有靈感的 = inspo 
@@ -8006,6 +8008,7 @@
 		- unsanctioned (adj)未批准的
 		- unscathed (adj)未受損傷的/未遭傷害的 <-- un + scathe + ed
 		- unscented (adj)無氣味的
+		- unschooled (adj)未受教育的, 自然的/自發的
 		+ unscrupulous (adj)無道德原則的/不誠實的/不公正的 = unprincipled
 		- unseat (v)使從座位上或馬背上摔下, 使下臺
 		+ unseemly (adj)不適當的/不宜的 = indecorous = unbecoming
@@ -8079,7 +8082,8 @@
 		- understandable (adj)可理解的, 合乎情理的/正常的 = natural = reasonable
 		+ understate (v)保守地說 --> understated (adj)保守的/輕描淡寫的 --> understatement (mn)保守的陳述/輕描淡寫
 		- understudy (n)預備演員/替角 (v)學習..以充當替角
-		+++ undertake (v)試圖/著手做 = take on, 陳諾/答應 = promise = give as a formal pledge --> undertaking (n)保證, 許諾, 事業 = enterprise, 企業 = company = business (mn)殯儀業
+		+++ undertake (v)試圖/著手做 = take on, 陳諾/答應 = promise = give as a formal pledge
+		+++ undertaking (n)保證, 許諾, 事業 = enterprise, 企業 = company = business (mn)殯儀業
 		- untended (adj)被忽略了的
 		- underuse (n/v)未充分利用
 		- underutilize (v)未充分利用 = underuse

@@ -353,7 +353,7 @@
     - /batʃələˈrɛt/ bachelorette (n)未婚女子, 單身公寓
     - backbreaking, back-breaking (adj)需要勞力的
     - backdrop (n)(事情的)背景 = background, 背景布幕 = scenery (v)作為..的背景
-    - backfire (v)引擎逆火, 事與願違 (n)逆火, 預先放火(阻斷火災蔓延)
+    - backfire (v)引擎逆火, 事與願違 = rebound (n)逆火, 預先放火(阻斷火災蔓延)
     - backlash (n)強烈反應/強烈反對 = repercussion, 後座力, 角度
     - backslapping (adj)互相讚揚/相互祝賀的
     - backsliding (mn)故態復萌
@@ -1002,7 +1002,7 @@
     - culvert (n)涵洞 (v)使通過涵洞
     - cunt (n)[冒犯]女性陰部, 蠢人/笨蛋
     - cupboard (n)櫥櫃/壁櫥
-    - /kəːb/ curb (v)控制/遏止 = restrain, 勒住(馬), 帶(狗)去路邊排泄 (n)約束/抑制 = check = restraint, 馬嚼子 = curb bit, 路邊/路邊鑲石 = kerb
+    - /kəːb/ curb (v)控制/遏止 = restrain, 勒住(馬), 帶(狗)去路邊排泄 (n)約束/抑制 = check = restraint, 馬嚼子 = curb bit, 路邊/路邊鑲石 = kerbw
     - curdle (v)使凝結/使凝固 = clot = coagulate
     - cur (n)(嚇人或兇猛的)雜種狗, [非]可鄙之人
     - cure (v)治癒, 解決(問題) = solve, (用煙熏或鹽醃等方法)保存 = preserve, 使硬化 (n)療法/藥, 痊癒, 對策 = solution, 硬化, 牧師職位
@@ -1305,6 +1305,7 @@
     - eavesdrop (v)偷聽/竊聽 = overhear = snoop <-- eaves 屋簷 + drop
     - editorial (adj)編輯的 (n)社論
     - eerie (adj)怪異而令人恐懼的/令人毛骨悚然的
+    - elan (n)熱忱/活力
     - elbow (n)肘, 衣服的肘部, 肘狀物 (v)用肘推 = nudge, 推擠, 摒棄(人或意見) = dismiss
     - elephant (n)大象 --> elephantine (adj)像大象的/巨大的/笨拙的 
     - elm (n)榆樹
@@ -3300,7 +3301,7 @@
     - padding (n)墊塞/填料, 充分量的廢話
     - paddle (n)槳, 划槳, 攪拌棒, 桌球拍, 明輪翼, 鰭, 太空船太陽能板, 電極貼片 (v)划槳, 划水, 打, 涉水, 把手或腳浸泡在水中 = dabble
     - pageant (n)露天演出的歷史劇, 盛大的慶典, 選美比賽 = beauty pageant
-    - pageantry (n)盛大慶典
+    - pageantry (n)壯觀/盛會
     - painkiller (n)止痛藥
     - pajamas (n)睡褲, 睡覺時穿的衣物 = nightclothes, 寬長褲
     - pal (n)伙伴/好友 (v)[with]結成好友, [around]花時間陪朋友
@@ -3860,7 +3861,7 @@
     + /ˌsɒpəˈrɪfɪk/ soporific (adj)催眠的 = somniferous, 昏昏欲睡的 = drowsy = sleepy, 單調的/乏味的 = monotonous = boring (n)安眠藥/催眠劑 <|> sporadic <-- sopor 昏睡 = lethargy + ific
     + /spəˈradɪk/ sporadic (adj)不定時發生的 = occasional = irregular = intermittent, 零星的 = scattered = isolated
     +++ spurn (v)輕蔑地拒絕/唾棄 = snub = despise = disdain = rebuff
-    + sordid (adj)可鄙的/可恥的 = vile = contemptible = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
+    + sordid (adj)可鄙的/可恥的 = vile = unseemly = contemptible = wretched, 髒的 = dirty = filthy = squalid <-- sord 泥土 = dirt + id
     +++ sound (n)聲音, 錄音, 感覺/印象, 海口/河口 (v)發出聲音, 發出(警告), 聽起來/似乎, 測水深 = fathom, 試探/打聽 (adj)健全的/完好的, 合理的/明智的, 深沈的(睡眠), 嚴厲的(打) (adv)酣然地
     + soundness (mn)健康/健全 = robustness, 正確/合理, 可靠
     + squalid (adj)骯髒的 = sordid = filthy, 可鄙的/可恥的 = sordid <-- squal 髒 = dirty + or

@@ -17,7 +17,7 @@
 	- While such a view is not entirely without merit, it still ___.
 	- *It is much likely that ___reason1___*
 	- *There are [numerous/innumerable/various/plentiful] examples _____. For instance, ___example1___.*
-	- *In order to [strengthen/reinforce/heighten/toughen] this argument, the author should [provide/furnish/present] more credible [evidences] and have to rule out and account for these or other possible alternative explanations.*
+	- *In order to [strengthen/reinforce/heighten/toughen] this argument, the author should [provide/furnish/present] more credible [evidences] and have to rule out and account for these or other possible explanations.*
 
 3. Second Assumption's Problem
 	- *What is more, the argument [claims] that ___fallacy2___; thus, it [suggests/propose/indicate/imply] that ______*
@@ -43,7 +43,7 @@
 		- *In summary, the argument is flawed and therefore unconvincing.*
 		- To sum up, this argument is undoubtedly invalid as it seems, for the lack of compelling evidence and sound reasoning.
 	- Point out that the author has more work to do.
-		- *It could be considerably [strengthened/improved] if the author clearly mentioned all the relevant facts. In an attempt to assess the merits of a certain situation, it is essential to include more unbiased and convincing contributing factors.*
+		- *It could be considerably [strengthened/improved] if the author clearly mentioned all the relevant facts. In an attempt to assess the merits of a certain situation, it is essential to include more unbiased contributing factors.*
 		- To better evaluate the author’s conclusion, it is necessary to provide more convincing and unbiased evidences, reason more frigidly and rule out all other possible explanations.
 
 - Necessity Assumption (Lack of Evidence):
