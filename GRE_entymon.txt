@@ -883,7 +883,7 @@
 	    - accessory  (n)配件, 幫凶/同謀 = accomplice = accessary (adj)附加的/輔助的 = subsidiary = supplementary
 		+ concede (v)承認 = admit = grant, 讓步/讓出(權利) = surrender = compromise = yield, 給予 = grant
 		++ concession (n)讓予物, 讓予/給予, 特許, 營業權/土地使用權
-		+ /siːd/ cede (v)割讓/放棄 = yield = surrender -->
+		+ /siːd/ cede (v)割讓/放棄 = yield = surrender
 		+ cession (n)割讓/放棄
 		*** exceed (v)超過/超出 = transcend = overpass
 		+ /ɪkˈsɛs/ excess (n)過度/過量 = plethora = overabundance = superfluity, 暴行 (adj)過量的
@@ -1546,7 +1546,7 @@
 		- incubus (n)夢魘, 精神壓力/負擔 = burden
 		+ incumbent (adj)負有職責的 = responsible, 現任的/在職的 (n)現任者/在職者
 		+ cumber (v)拖累/妨礙 = hinder = hamper, 阻塞 = obstruct
-		+ cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的/難處理的 = unwieldy = clumsy
+		+ cumbersome (ad)麻煩的/累贅的 = burdensome = troublesome, 笨重的/難處理的 = cumbrous = unwieldy = clumsy
 		+ encumber (v)妨礙 = restrict = impede = retard = cumber
 		+ recumbent (adj)斜躺的/側臥的, 貼近地面的(植物)
 		+ succumb (v)屈從, 死亡
@@ -1895,6 +1895,8 @@
 	dys 不良/困難 = difficult, ill, bad
 		- dyslexia (n)讀寫障礙 <-- dys + lex 字 = word + ia
 		+ dyspeptic (adj)消化不良的, 易怒的 = grumpy = cantankerous = irritable <-- dys + pept 消化 = digest + ic
+		- dysphoria (n)[醫]煩躁/焦慮
+		- dysphoric (adj)煩躁不安的
 		* dysfunction (n)官能障礙
 		- dystopian (adj)反烏托邦的 (n)反烏托邦主義者
 		- dystopic (adj)反烏托邦的
@@ -4286,6 +4288,7 @@
 		- miscalculate (v)計算錯誤, 錯誤地評估
 		- miscarriage (n)流產, 失敗
 		- misconception (n)誤解
+		- misconceived (adj)設想錯誤的
 		- misdemeanor (n)小錯, 輕罪 = peccadillo
 		- misdeed (n)惡行/罪行
 		- misfire (v)(槍彈)射不出/啞火, (引擎)無法啟動, (神經)無法傳送神經訊號, (計畫)失敗 (n)啞火, 引擎無法啟動

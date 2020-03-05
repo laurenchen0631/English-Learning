@@ -51,6 +51,7 @@
 - **all but == almost**
 - nothing but == only
 - nothing more than == only
+- anything more than == not only
 - by no means == not
 - no less than == equal to == **at least** 
 - not so much A as B == B is more important or greater than thing A
