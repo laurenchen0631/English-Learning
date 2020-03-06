@@ -1475,6 +1475,7 @@
 		+ conclusion (n)結尾/結論/結果 = result = outcome = settlement = arrangement
 		+ exclude (v)把…排斥在外, 排除/不考慮, 不包括
 		+ exclusive (adj)除外的, 排斥的, 獨佔的/專用的, 獨家的, 昂貴的/高檔的, [of]不包括的 (n)獨家新聞
+		- exclusively (adv)專門地 = only = ad hoc
 		- exclusionary (adj)排斥性的/排他的
 		+ include (v)包括/包含, [非][out]排除 = exclude
 		+ inclusive (adj)包含的/包括的, 包括一切在內的, 可以包容各種人的
@@ -5003,7 +5004,8 @@
 		1. 過分/超過 = excessive
 			*** overly (adv)過度的 = exceedingly = extremely = too = unduly = inordinately
 			- overabundant (adj)過剩的/過多的 --> overabundance (n)過剩/過多
-			+ overbear (v)壓倒 = overwhelm = overcome --> overbearing (adj)專橫的/傲慢的 = arrogant = domineering = dictatorial = imperious <|> forbear
+			+ overbear (v)壓倒 = overwhelm = overcome 
+			+ overbearing (adj)專橫的/傲慢的 = arrogant = domineering = dictatorial = imperious <|> forbear
 			- overcome (v)克服, 擊敗, 壓倒 = overpower = overwhelm = overbear
 			- overdo (v)做得過火 = exaggerate, 使過於疲勞, 煮過頭 = overcook
 			- overdone (adj)做過頭的 = exaggerated, 煮過頭的 = overcooked
@@ -5053,6 +5055,7 @@
 			- overlap (v)部分重疊/重疊, 與……部分同時發生 (n)重疊部分/相同之處
 			- overlie -> overlay -> overlain (v)覆蓋在..之上
 			*** overlook (v)未察覺, 忽視 = disregard, 俯瞰/俯視 (n)觀察位置 <|> outlook
+			- overpass (n)天橋 (v)越過/通過 = surpass
 			+ override (v)推翻/使無效 = reject = cancel, 優先於/比..更重要, 改用手控/超馳控制, 重疊 (n)超馳控制裝置, 超量金額, 否決/推翻 --> overriding (adj)最重要的/首要的, 在上面移動的
 			- overrule (v)否決/駁回 = override
 			- oversee (v)監督 = watch = supervise

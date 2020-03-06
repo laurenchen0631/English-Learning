@@ -2906,12 +2906,12 @@
     + /ˈneɪdɪə/ nadir (n)最低點 = lowest point <--> acme, [天]天底
     + /nʌɪˈiːv/ naive (adj)天真的/幼稚的 = unsophisticated = childlike = ignorant, 無害的 = innocent, 樸素的(藝術)
     + /nʌɪˈiːvti/ naivete (mn)天真/幼稚/缺乏經驗或智慧, 無害/無邪, 樸素作品 <-- native
-    + natation (mn)游泳 --> natatory (adj)游泳的
+    + natation (mn)游泳 --> natatory (adj)游泳的 <|> natal
     + natty (adj)整潔時髦的, 精巧的 = clever <|> nasty
     + naysay -> naysaid (v)拒絕/反對/否認 = deny = reject = oppose = gainsay <-- nay + say
     + nebulous (adj)(想法)模糊不清的/含糊的 = ambiguous = equivocal = vague = murky, 雲的 = cloduy = cloudlike = hazy
     + nebulosity (n)朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = mist, cloudy + ous
-    -nebula -> nebulae (n)星雲, 角膜雲翳
+    - nebula -> nebulae (n)星雲, 角膜雲翳
     + necessitate (v)使必須 == make (something) necessary 
     + necessitous (adj)窮困的 = needy
     + necromancy (n)通靈術, 巫術/妖術 = black magic <-- necro 屍體/死者 = coprpse + mancy + mancy 占卜/預測 = divination
@@ -3010,7 +3010,7 @@
     ++ /əˈbliːk/ oblique (adj)斜的/傾斜的 = slanting = sloping, 拐彎抹角的/間接的 = circuitous = indirect = misleading = evasive = backhanded (n)斜肌 --> obliquity (n)
     ++ /əˈblɪvɪən/ oblivion (n)無知覺/無意識, 被遺忘, 毀滅/滅絕 = annihilation = extinction, 大赦/赦免 = amnesty = pardon
     + oblivious (adj)未注意到的/未察覺的 = unmindful = unconscious = unaware <|> obvious
-    +++ obscure (adj)模糊的/不確定的 = uncertain, 含糊不清的/晦澀的  = ambiguous = elliptical = vague = opaque = subtle, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian, 無名的/無足輕重的 (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
+    +++ obscure (adj)模糊的/不確定的 = uncertain, 含糊不清的/晦澀的 = ambiguous = elliptical = vague = opaque = subtle, 黑暗的/朦朧的 = dark = dim = gloomy = murky = stygian, 無名的/無足輕重的 (v)遮掩 = conceal, 使難理解, 使不顯著/避免被知道
     + obscurity (n)晦澀/難解, 默默無名/不重要
     + odium (n)憎恨/厭惡 = hate = disapproval <|> opium --> odious (adj)可憎的/討厭的 = repulsive
     + /ˈɒdɪsi/ odyssey (n)長途的冒險旅行 = voyage
@@ -3124,6 +3124,7 @@
     + /ˈpɛnjʊri/ penury (n)貧窮 = poverty = destitution 
     ++ penurious (adj)貧窮的 = indigent = impecunious, 吝嗇的 = miserly = mean = parsimonious = stingy
     ++ petty (adj)不重要的/瑣碎的 = paltry = trifling = nugatory = trivial, 過度在意小細節的, 次要的/次級的 = minor = secondary
+    + pettiness (n)小心眼/器量小, 瑣碎
     + /pəˈnaʃ/ panache (n)瀟灑/氣派 = style = verve = flair, 羽飾 <|> penchant <|> pinnacle
     + /pɛː/ pare (v)削 = peel, 削減/縮減 = diminish, [down]削減/簡化 = strip down
     + /ˈpɑːli/ parley (n/v)會談/討論 = discuss = confer
@@ -3931,7 +3932,7 @@
     + strive (v)努力/奮鬥 = endeavor = labor, 競爭 = contend = struggle <|> strife <|> thrive
     + strut (n)支柱/支杆 = brace, 昂首闊步/指高氣昂 = swagger (v)趾高氣揚地走, 支撐 = brace
     ++ studious (adj)勤奮好學的/用功的, 刻意的 = intentional, 專心的
-    + studied (adj)審慎的/刻意的/有意的 <-- study
+    + studied (adj)審慎的/刻意的/有意的 = contrived <-- study
     +++ stultify (v)使停滯 = hamper <-- stult 愚笨 = stupid + ify
     + stunning (adj)極迷人的 = impressive
     ++ stupor (n)昏迷/不省人事 --> stupefy (v)使昏昏沉沉, 使驚呆/使驚愕 <-- stupe 震驚 + fy
@@ -5022,7 +5023,8 @@
     * vernacular (n)本地話/方言 = dialect = patois, [非]行話, 實用性建築 (adj)用母語的, 實用性的(建築)
     * /ˈvɛnjuː/ venue (n)發生地點 <--> /ˈmɛnjuː/ menu 
     *** vessel (n)血管/脈管, 容器/器皿 = container, 船/艦 = watercraft
-    * vigor (n)力氣 = strength, 精力/活力 = vitality = energy --> vigorous (adj)充滿活力的/精力旺盛的, 健壯的/強壯的
+    * vigor (n)力氣 = strength, 精力/活力 = vitality = energy 
+    * vigorous (adj)充滿活力的/精力旺盛的, 健壯的/強壯的
     * villain (n)反派角色, 首要危險/禍首, [非]壞人/惡棍 = miscreant = criminal
     *** vintage (n)年份/產地, 高品質葡萄酒, 年代 (adj)高品質葡萄酒的, 最佳的
     - viscus -> viscera (n)內臟
