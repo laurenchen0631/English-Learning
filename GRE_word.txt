@@ -2499,6 +2499,7 @@
     - larva (n)幼蟲
     - lash (v)鞭打 = whip = scourge, [out]猛擊/狠打 = batter = clobber, [out]抨擊, 急速揮動, 繫緊/繫牢 (n)鞭打, 懲罰, 眼睫毛 = eyelash
     - lasso (n)(捕馬等用的)套索 (v)用套索套捕
+    - latch (n)閂/門閂 (v)閂上, [on to]理解
     - lattice (n)格子/格子窗, [物]晶格
     - launder (n)洗熨 = wash and iron, 洗錢, 竄改(資訊) (n)洗礦槽
     - layover (n)短暫停留 == A period of rest or waiting before a further stage in a journey.
@@ -3195,7 +3196,7 @@
     + polar (adj)地極的/極地的, 電極的, 兩極的 --> polarity (n)兩極 --> polarize (v)[物]使偏振, [物]給予……極性, 使分裂
     ++ polemic (N)辯論文章/激烈的爭辯, 爭論/辯論 --> polemical (adj)辯論的 <-- polem 戰爭 = war + ic 
     + polish (v)擦亮/拋光 = burnish, 使精鍊/潤飾 (n)拋光, 拋光劑, 光澤 = gloss, 洗鍊/優雅 = refinement = elegance
-    + polished (adj)有光澤的 = glossy= smooth, 精良的/熟練的, 優美的, (米)去殼的
+    + polished (adj)有光澤的 = glossy = smooth, 精良的/熟練的, 優美的, (米)去殼的
     + politic (adj)精明的/有策略的 = tactful (v)進行競選活動 <-- polity
     + Pollyanna (n)極度樂觀之人/樂天派 --> Pollyannaish (adj)樂天的 = extremely optimistic
     - pontiff (n)羅馬教宗/主教/教皇 = Pope
