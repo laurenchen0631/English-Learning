@@ -8,7 +8,7 @@
 		- *To [justify/support] the [conclusion/predictions/inference], the [argument] points out _____, which may seem [reasonable/plausible/specious] at first glance.*
 	- Your thesis (final sentence): state unequivocally that the argument is flawed. There is **no need to list your the specifics of your three examples** in your thesis
 		- Though the underlying issue may have merit, because of a lack of relevant evidence, unaddressed assumptions, and vague terminology, the author’s argument is unsubstantiated and deeply flawed.
-		- *Nevertheless, this argument fails to be completely compelling as it stands, for it contains a wide array of [unwarranted] assumptions by the virtue of the lack of [impregnable/relevant/immaculate] [evidences/data/information/proofs].*
+		- *Nevertheless, this argument fails to be completely compelling as it stands, for it contains a wide array of [unwarranted] assumptions by virtue of the lack of [impregnable/relevant/immaculate] [evidences/data/information/proofs].*
 		- Stated in this way the argument fails to mention several key factors, on the basis of which it could be evaluated. The conclusion relies on assumptions, for which there is no clear evidence. Therefore, the argument is rather weak, unconvincing, and has several flaws
 	
 2. Assumption of lacking valid evidence

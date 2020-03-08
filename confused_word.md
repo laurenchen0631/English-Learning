@@ -1109,9 +1109,9 @@
 - veneer <--> veer
 - vessel <--> vassal
 - venal <--> venial <--> vernal <--> vandal
-- ventriloquist (n)腹語表演者
+- ventriloquist
 - veracious <--> voracious
-- veritable <--> verifiable1
+- veritable <--> verifiable
 - vicarious
 - vie <--> vile <--> vilify <--> revile
 - vindicate <--> vindictive

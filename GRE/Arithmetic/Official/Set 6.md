@@ -8,8 +8,6 @@
 	1. The two quantities are equal.
 	1. The relationship cannot be determined from the information given
 
-10. In the xy-plane what is the slope of the. line whose equation is 3x - 2y = 8 ?
-
 ![Survey](https://img.kmf.com/kaomanfen/img/gre/pp2/pp2_04.png)
 
 In a survey, 100 travel agents each ranked Airlines A,B and C in order of preference. Each of the 100 travel agents also rated the three airlines in five categories on a scale of 1 through 10, with 10 being the best rating.
@@ -31,8 +29,6 @@ In a survey, 100 travel agents each ranked Airlines A,B and C in order of prefer
 	1. 500
 
 ## Review
-9. equation可以寫做y=mx+c，slope斜率就是問m是什麼
-
 14. 由表2， average rating总值最低的是C公司，由表1饼图，C被列为第一的是22 agents, 可知 22/100 = 11/50 
 
 16. total of the ratings given to all three airlines for reliability: (7.8+7.5+4.9)*100 = 2020

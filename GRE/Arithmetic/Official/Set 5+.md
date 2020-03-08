@@ -17,6 +17,7 @@
 
 
 ![regular octagon](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/72653-6.png)
+
 6. The figure above is a regular octagon. A diagonal of an octagon is any line segment connecting two nonadjacent vertices.
 - Quantity A:The number of diagonals of the octagon that are parallel to at least one side of the octagon
 - Quantity B:The number of diagonals of the octagon that are not parallel to any side of the octagon
@@ -42,9 +43,11 @@
 	1. 50
 
 Three Types of Electronic Units in Stock and Sold by Stores R, S, and T Last Month
+
 ![Number of Units in Stock](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/72661-1.png)
 
 Number of Units Sold as a Percent of Number of Units in Stock
+
 ![Chart](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/72661-2.png)
 
 15. The number of television sets sold by Store R last month was approximately what percent less than the number of television sets sold by Store T last month?
@@ -55,6 +58,7 @@ Number of Units Sold as a Percent of Number of Units in Stock
 	1. 125%
 
 ![graph](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/72667-19.png)
+
 19. The graph shows the percent changes in the annual city tax revenue for five cities from 1990 to 1995 and from 1995 to 2000. If the annual tax revenue in City B was $800,000 in 1990, what was the annual tax revenue in City B in 2000 ?
 	1. $578,000
 	1. $680,000
@@ -79,7 +83,7 @@ Number of Units Sold as a Percent of Number of Units in Stock
 
 10. 0.025x1150=28.75, 0.035x1150=40.25, 在这之间都可以选
 
-12. T庫存90台電視，售出 50 * 0.9 = 45 台左右，而R庫存40台，售出 40 * 0.5 = 20台，兩者差距百分比為 (45-20) / 45 = 5/9 = 0.555 
+12. T庫存50台電視，售出 50 * 0.9 = 45 台左右，而R庫存40台，售出 40 * 0.5 = 20台，兩者差距百分比為 (45-20) / 45 = 5/9 = 0.555 
 
 19. 800000 * (1-0.15) * (1 + 0.15) = 782,000
 

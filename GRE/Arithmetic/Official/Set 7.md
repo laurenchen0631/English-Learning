@@ -22,7 +22,7 @@
 	1. 1.3(x+8,000)=1.2x+12,000
 	1. 1.3(x+8,000)+12,000=1.2x
 
-19. Set S consists of the integers of the form r^2 + s, where r and s are integers such that 1 <= s, r <= 5. How many integers in S are odd?
+19. Set S consists of the integers of the form r^2 + s, where r and s are integers such that 1 <= s <= 5 and 1 <= r <= 5. How many integers in S are odd?
 	1. 9
 	1. 10
 	1. 11

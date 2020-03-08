@@ -16,6 +16,7 @@
 	1. [O] The relationship cannot be determined from the information given.
 
 ![Distribution](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/72632-6.png)
+
 6. The preceding frequency distributions represent two groups of data. Each of the data values is a multiple of 10.
 - Quantity A:The standard deviation of distribution C
 - Quantity B:The standard deviation of distribution D

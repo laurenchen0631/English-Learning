@@ -8,9 +8,7 @@
 	1. The two quantities are equal.
 	1. The relationship cannot be determined from the information given.
 
-5. $450, $760, $900, $1,000, $1,250, $1,400, $1,750, $2,000
-
-The eight amounts listed are the reported bonuses earned by eight employees during July. Two of the reported amounts are in error: one is $250 greater than the actual amount and one is $250 less than the actual amount.
+5. {$450, $760, $900, $1,000, $1,250, $1,400, $1,750, $2,000}, The eight amounts listed are the reported bonuses earned by eight employees during July. Two of the reported amounts are in error: one is $250 greater than the actual amount and one is $250 less than the actual amount.
 - Quantity A:The standard deviation of the amounts of the eight reported bonuses
 - Quantity B:The standard deviation of the amounts of the eight actual bonuses
 	1. Quantity A is greater.
@@ -21,6 +19,10 @@ The eight amounts listed are the reported bonuses earned by eight employees duri
 6. The median of 5 different positive integers is 12.
 - Quantity A: The **least possible** sum of the 5 integers	
 - Quantity B: 42
+	1. Quantity A is greater.
+	1. Quantity B is greater.
+	1. [O] The two quantities are equal.
+	1. The relationship cannot be determined from the information given.
 
 9. **Sixty percent** of the people who originally auditioned for parts in a musical **were excused**, and the rest were asked to audition again. Of those who were asked to audition again, 30 percent, or 18 people, were hired. How many people originally auditioned for parts?
 	1. 150
@@ -37,6 +39,7 @@ The eight amounts listed are the reported bonuses earned by eight employees duri
 	1. $31,374
 
 ![Data](https://img.kmf.com/kaomanfen/img/gre/PP2PPPlus/73065-20.png)
+
 20. Data list I and data list II are summarized by boxplot I and boxplot II, respectively, as shown above. Which of the following statements must be true? Indicate all such statements.
 	1. [O] The median of data list II is greater than the median of data list I.
 	1. [O] The range of data list I is greater than the range of data list II.
