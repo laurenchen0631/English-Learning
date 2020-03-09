@@ -2439,7 +2439,7 @@
 			+ episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
 			+ epitome (n)[the epitome of sth]典型/典範 = quintessence, 摘要 = abstract  <-- epi + tome 卷/冊 
 			+ epitomize (v)是…的典型/成爲…的典範
-			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = transitory (n)短命植物<-- ep + hemer 日 = day
+			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = transitory (n)短命植物 <-- ep + hemer 日 = day
 			+ ephemeron (n)短暫之事物 
 			+ epigram --> epigrammtic
 			- epilogue
@@ -3072,7 +3072,7 @@
 		+ gratifying (adj)愉悅的/令人滿足的 = pleasing
 		- gratitude (n)感激 = thankfulness
 		* gratuity (n)打賞/小費 = tip
-		* /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的 = unwarranted, 免費的/無償的
+		* /ɡrəˈtjuːɪtəs/ gratuitous (adj)無理由的/無端的 = unwarranted = unprovoked, 免費的/無償的
 		* ungrateful (adj)不感激的, 討厭的
 		+ ingrate (n)忘恩負義的人 = ungrateful (adj) --> ingratitude (n)忘恩負義
 		+ ingratiate (v)逢迎/討好 = flatter --> ingratiating (adj)討好的/諂媚的 = smarmy
@@ -3892,7 +3892,7 @@
 		+ justify (v)證明……是正當的/是..的好理由 = warrant, 使版面對齊 --> justification (n)正當理由, 辯解/證明為正當
 		+ justified (adj)[in]有正當理由的
 		+ justifiable (adj)可辯護的/有道理的 = defensible
-		+ objurgate (v)申斥/痛罵 = scold = rebuke --> objurgation (n)
+		+ objurgate (v)申斥/痛罵 = trounce = scold = rebuke --> objurgation (n)
 
 	journ 日 = day, daily
 		- adjourn (v)使休會/休庭, 推遲/使延期 = defer
@@ -7018,6 +7018,7 @@
 		- asymmetric (adj)不對稱的
 		* assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak
+		- dissembler (n)偽君子
 		- dissimulate (v)掩蓋/掩飾 = dissemble
 		* ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
 		+ idiosyncrasy --> idiosyncratic
