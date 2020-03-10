@@ -801,7 +801,7 @@
 			+ convivial --> conviviality
 			+ convoluted
 			++ /kənˈvʌls/ convulse (v)抽搐, (使)劇烈抖動, 震撼(國家) <-- con + vul 拉 = pull, tear + se
-			++ convulsion (n)痙攣/抽搐 = spams = contraction, 捧腹大笑, 地震/地殼搖動, 動亂 = upheavel
+			++ convulsion (n)痙攣/抽搐 = spams = contraction, 捧腹大笑, 地震/地殼搖動, 動亂 = upheaval
 			+ correspond --> correspondent --> correspondence
 			+ corroborate --> corroborant
 			
@@ -1465,7 +1465,7 @@
 		+ /kənˈsɪlɪeɪt/ conciliate (v)安撫 = placate = pacify, 調停, 調和/使一致 = reconcile
 		+ conciliatory (adj)願意和解的/調停的
 		+ /ˈrɛk(ə)nsʌɪl/ reconcile (v)使和好, 解決(糾紛) = settle, 調和/使一致 = conciliate, 使(帳目)一致
-		+ reconciliation (n)和解/和好, 和諧/一致, 帳目一致 = harmonization
+		+ reconciliation (n)和解/和好 = rapprochement, 和諧/一致, 帳目一致 = harmonization
 		- reconcilable (adj)可調和的/能共處的 = compatible
 		- irreconcilable (adj)互相對立的/不相容的
 
@@ -2220,6 +2220,7 @@
 		- exhale (v)呼氣 <--> inhale <-- ex + hale 呼吸 = breathe
 		+++ exhaust (n)排出/廢氣/排出的氣 (v)使精疲力盡, 詳盡論述, 用盡, 排出
 		+++ exhaustive (adj)徹底的/詳盡的 = comprehensive 
+		+ exhaustible (adj)會枯竭的 <--> inexhaustible
 		** exhibit
 		+ exhilarate
 		+ exhort
@@ -2439,7 +2440,7 @@
 			+ episodic (adj)插曲多的, 偶爾發生的, 有許多片段的 <-- epi + sode 道路 = way
 			+ epitome (n)[the epitome of sth]典型/典範 = quintessence, 摘要 = abstract  <-- epi + tome 卷/冊 
 			+ epitomize (v)是…的典型/成爲…的典範
-			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = transitory (n)短命植物 <-- ep + hemer 日 = day
+			+ /ɪˈfɛm(ə)rəl/ ephemeral (adj)短暫的 = fleeting = transitory (n)短命植物<-- ep + hemer 日 = day
 			+ ephemeron (n)短暫之事物 
 			+ epigram --> epigrammtic
 			- epilogue
@@ -4531,7 +4532,7 @@
 
 	moll 軟 = soft
 		+ emollient (n)潤膚劑 (adj)使柔軟的, 使緩和的 = mollifying
-		+ mollify (v)撫慰/安慰 = appease = soothe = mitigate = propitiate = placate
+		+ mollify (v)撫慰/安慰 = appease = soothe = propitiate = placate
 		- /ˈmɒlɪkɒd(ə)l/ mollycoddle (v)溺愛/縱容 = pamper (n)女性化的男人/嬌生慣養的人 <-- molly + coddle 
 
 	multi 多 = many, much
@@ -5718,7 +5719,7 @@
 		+ appellant (n)上訴人
 		+ appellation (n)名稱/稱呼, 命名, 法定產區葡萄酒 = appellation contrôlée
 		* compel -> compelled (v)強迫/逼迫/迫使 = coerce = force = oblige, 激起/引發 = incite 
-		+ compelling (adj)引人入勝的 = complusive, 令人信服的, 壓倒的 = overwhelming
+		+ compelling (adj)引人入勝的 = compulsive, 令人信服的, 壓倒的 = overwhelming
 		* compulsion (n)強迫力/強制力, 強烈衝動/強烈慾望 = urge
 		* compulsive (adj)強烈衝動引起的/難以抑制的, 引人入勝的 = compelling
 		- compulsory (adj)義務的 = required = mandatory = obligatory, 強制的/強迫的 = coercive
@@ -6229,7 +6230,7 @@
 [R]
 	re, r, red
 		1. 再次/重新/加強 = again
-			+ /raˈprɒʃmɒ̃/ rapprochement (n)恢復邦交/國家友好 <-- r + appro(a)ch + ment
+			+ /raˈprɒʃmɒ̃/ rapprochement (n)恢復邦交/國家友好 = reconciliation <-- r + appro(a)ch + ment
 			+ react (v)作出反應, [against]抗拒/反抗, 起化學作用 
 			- reactant (n)反應體/反應物
 			- /rɪˈakʃənəri/ reactionary (adj)反動的/極端保守的 (n)反動分子
@@ -7018,7 +7019,6 @@
 		- asymmetric (adj)不對稱的
 		* assimilate (v)理解/吸收 = absorb = comprehend, 使(民族、語音)同化, 消化/吸收 = digest = absorb, 把……比作 = liken, 與..相似 = resemble
 		+++ dissemble (v)掩蓋/掩飾(動機、感情、真相) = conceal = dissimulate = pretend = cloak
-		- dissembler (n)偽君子
 		- dissimulate (v)掩蓋/掩飾 = dissemble
 		* ensemble (n)劇團, 合唱曲, 協調, 整體, 穿搭
 		+ idiosyncrasy --> idiosyncratic
@@ -7256,7 +7256,7 @@
 		+ ascendancy, ascendency (n)優勢/權勢 = dominance = predominance
 		++ condescend (v)懷著優越感地對待 = patronize, 屈尊做 = deign 
 		+ condescension (n)高傲態度 = disdain
-		+ condescending (adj)有優越感的/高傲的
+		+ condescending (adj)有優越感的/高傲的 = patronizing 
 		*** descend (v)下降, 下傾/下坡, [to]屈尊, [to]陷入(困境), [on/upon]突然襲擊, [on/upon]突然拜訪, (黑暗)降臨, [be descended from]為……的後裔, 遺贈
 		*** descent (n)下降/下坡, 墮落, 血統/世系, 遺贈, 突擊, 突訪
 		- /dɪˈsɛndənt/ descendant (n)後代/後裔

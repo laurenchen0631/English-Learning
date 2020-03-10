@@ -241,7 +241,7 @@
 - congest
 - communicate <--> excommunicate
 - correspond <--> correspondent
-- cosmic <--> cosmetic <--> comic
+- cosmic <--> cosmetic <--> comic <--> comestible
 - clack <--> clank
 - consequent <--> consequential <--> subsequent <--> sequela
 - considerable <--> considerate
