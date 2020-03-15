@@ -9,6 +9,17 @@
 	- 69^2 = 70^2 - 70 - 69 = 4761
 	- 84^2 = 85^2 - 85 - 84 = 7225 - 169 = 7056
 
+## Expression
+- **is** or **are** correspond to the **equal sign**
+	- A is 50 more than B: A = B + 50
+	- A is 50 less than B: A = B - 50
+	- Twice A is 100 less than three times B: 2A = 3B - 100
+	- A is 50% of B: A = 0.5B
+	- A is **50% greater than B**: A = 1.5B
+- A is X times as B, **X times as A as B**: A = XB
+	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)
+	- Sue planted 4 times as many apple seeds as she planted orange seeds: A = 4O
+
 ## Number
 - Real Number: any number on the number line including fraction/decimal, which can be positive, negative, or zero.
 - Zero (0) is neither positive nor negative.
@@ -445,17 +456,6 @@
 	- Use the *listing* ONLY IF the full list is vert short, fewer than 10.
 	- Use the counting if the problem involves selection of several elements from a set, with certain restrictions.
 	- Consider using the Complement Rule when applying algebraic rules or counting techniques.
-
-## Expression
-- **is** or **are** correspond to the **equal sign**
-	- A is 50 more than B: A = B + 50
-	- A is 50 less than B: A = B - 50
-	- Twice A is 100 less than three times B: 2A = 3B - 100
-	- A is 50% of B: A = 0.5B
-	- A is **50% greater than B**: A = 1.5B
-- A is X times as ____ as B, X times as ____ A as B: A = XB
-	- 7 years ago, Samir was 3 times as old as Deepak: S - 7 = 3(D - 7)
-	- Sue planted 4 times as many apple seeds as she planted orange seeds: A = 4O
 
 ## Date Interpretation
 - **All graphs are drawn to scale.**
