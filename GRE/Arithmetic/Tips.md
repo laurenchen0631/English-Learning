@@ -27,9 +27,9 @@
 - sum: the result of addition
 - difference: the result of subtraction
 - product: the result of multiplication
-- quotient: the result of division 
-- dividend: 20 / 3, and 20 is the dividend
-- divisor: 20 / 3 and 3 is divisor
+- *quotient*: the result of division 
+- *dividend*: 20 / 3, and 20 is the dividend
+- *divisor*: 20 / 3 and 3 is divisor
 - numerator: a/b, a is numerator
 - denominator: a/b, b is denominator
 - absolute value: the distance of a number from the origin. |0| = 0
@@ -49,11 +49,11 @@
 	- prime > 100: test whether the number is divisible by prime numbers less than 10 (2, 3, 5, 7).
 	- Prime Factorization
 		- A number must be a prime number or the product of prime numbers.
-- GCF (Greatest Common Factor): **Use prime factorization to find GCF**
+- **GCF** (Greatest Common Factor): **Use prime factorization to find GCF**
 	- GCF of 360 and 800 is 2^3 * 5 = 40
 		- 360 = 2^3 * 3^2 * 5
 		- 800 = 2*5 * 5^2
-- LCM (Least Common Multiple), LDC (Least Common Denominator): **Use GCF to find LCM**
+- **LCM** (Least Common Multiple), LDC (Least Common Denominator): **Use GCF to find LCM**
 	- The LCM of 24 and 32 is 8 * 3 * 4 = 96
 		- 24 = 2^3 * 3
 		- 32 = 2^5
