@@ -45,7 +45,7 @@
 	- 1 is not a prime number.
 	- 2 is the only even prime number.
 	- prime < 20: 2, 3, 5, 7, 11, 13, 17, 19
-	- 20 < prime < 60: 23, 29, 31, 37, 41, 43, 47, 54, 59
+	- 20 < prime < 60: 23, 29, 31, 37, 41, 43, 47, 53, 59
 	- prime > 100: test whether the number is divisible by prime numbers less than 10 (2, 3, 5, 7).
 	- Prime Factorization
 		- A number must be a prime number or the product of prime numbers.
@@ -96,7 +96,7 @@
 - 0 is an even number
 - E + E = E and E - E = E
 - **O + O = E and O - O = E**
-- E + O = O and E - O = O
+- **E + O = O and E - O = O**
 - E * E = E
 - O * O = O
 - **E * O = E**
@@ -119,7 +119,7 @@
 ## Percent
 - Increase: X is 30% greater than Y, Y increased by 30%
 - Decrease: X is 30% less than Y, Y decreased by 30%
-- Percent Difference: new/old
+- Percent Difference: new/old - 1
 	- 60 -> 102, p = 102/60 - 1 = 17/10 - 1 = 1.7 - 1 
 	- 250 --> 200, p = 200/250 = 0.8
 - 200 -> 800
@@ -160,7 +160,7 @@
 		- 102334155, 1 + 0 + 2 + 3 + 3 + 4 + 1 + 5 + 5 = 24, thus 102334155 is divisible by 3.
 	- Divisibility Rule for 4: if the last two digit is divisible by 4, the number is divisible by 4.
 	- Divisibility Rule for 5: numbers that ends with 0 or 5.
-	- Divisibility Rule for 5: the number must be divisible by 2 and 3.
+	- Divisibility Rule for 6: the number must be divisible by 2 and 3.
 	- Divisibility Rule for 9 if the sum of each digits is divisible by 9, the number is divisible by 9.
 		- 1296, 1 + 2 + 9 + 6 = 18,  thus 1296 is divisible by 9.
 
@@ -194,7 +194,7 @@
 	- Example: M and P travelled from A to B at the same time. M travelled at 60mph, and P travelled at 40 mph. When m had arrived at B, P was still 50 miles away. What the distance between A and B?
 		- D = 60T, D - 50 = 40T --> T = 2.5, D = 60*2.5 = 150
 	- Example2: K drove from A to B at speed of 60mph, turned around, and returned at at 80mph. 4 hours before the end of trip, he was still approaching B, only 15 miles away from B. What is the distance between A and B.
-		- From P (point 4 hours ago) to B back A A is 4 hours.
+		- From P (point 4 hours ago) to B back A is 4 hours.
 		- Time from P to B is 15/60 = 0.25hr
 		- Thus time from B to A is 4 - 0.25 = 3.75
 		- Distance = 3.75 * 80 = 300 miles
@@ -342,10 +342,10 @@
 	- Radius/radii (r): a segment from the center to any point on the circle. 
 	- Chord: a segment from two endpoint on the circle. The longest one must be diameter.
 	- Diameter (d): A chord pass through the center of the circle. d = 2r
-	- Circumference: The length around the whole circle. c = dπ = 2rπ
+	- Circumference: The length around the whole circle. **c = dπ = 2rπ**
 	- π: an irrational number, equals to 3.14159......, or approximate 3.14 or 22/7
 	- Arc: a curved line between two points on the circle
-	- Area: a = πr^2
+	- Area: **a = πr^2**
 - Primary strategy for circle problems: **find the radius**
 - Properties
 	- Central Angle: the angle has its vertex at center of the circle 
@@ -389,12 +389,12 @@
 	- Special slope m
 		- If |m| = 1, and then the slope triangle is a 45-45-90 triangle
 		- If two line have the same slope, then the two line are parallel.
-		- If the product of two slope m1 and m2 is -1, then the two line must be perpendicular.
+		- **If the product of two slope m1 and m2 is -1, then the two line must be perpendicular.**
 			- If the slope of original line is m1 = p/q
 			- The slope of the perpendicular is m2 = -q/p
 		- For horizontal line, m = 0.
 		- For vertical line, m is undefined or infinite.
-	- Slope-Intercept Form: y = mx + b
+	- **Slope-Intercept Form: y = mx + b**
 		- m is slope
 		- b is the y-intercept
 - Reflection
@@ -435,7 +435,7 @@
 	- For some r <= n, what is the probability of exactly r successes in n trials?
 	- Examples:
 		1. Three fair coins are flipped. What is the probability of getting exactly two heads? (3/8)
-		2. Ten dice, each fair with six-sides, are rolled simultaneously. What is the probability of getting exactly two five among them? (1/6)^2 * (5/6)^8 * 10C2
+		2. Ten dice, each fair with six-sides, are rolled simultaneously. What is the probability of getting exactly two five among them? **(1/6)^2 * (5/6)^8 * 10C2**
 	- General formula
 		- p = probability of success on one trial
 		- n = number of trials
@@ -446,7 +446,7 @@
 	- Examples:
 		1. Suppose we roll one fair six-sided die eight times. What is the probability we will roll at least one six?
 			- The complement of "at least one six" is "zero six"
-			- P(at least one six) = 1 - (5/6)^8 6
+			- P(at least one six) = 1 - (5/6)^8
 - Using counting techniques: **P = # of success / total # of outcomes**
 - Which technique to use
 	- Use the *formal algebraic rules* if

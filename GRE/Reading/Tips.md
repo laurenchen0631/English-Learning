@@ -47,7 +47,7 @@
 - Use words in the passage but twist the meaning
 - True, but in a different part of the passage
 - True/commonsensical in the real world, but not found in the passage.
-- Everything is right except for that ony fishy thing (rotten spot)
+- Everything is right except for that only fishy thing (rotten spot)
 - Others
 	- Too general/vague
 	- Too specific

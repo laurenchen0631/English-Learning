@@ -1,4 +1,6 @@
-## Science and technology will one day be able to solve all of society’s problems.
+## Topic 
+Science and technology will one day be able to solve all of society’s problems.
+
 Write a response to the prompt in which you discuss whether or not you agree or disagree. Be certain to fully develop your position and carefully consider ways in which your position could be challenged.
 
 ## 30min
