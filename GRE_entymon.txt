@@ -2332,6 +2332,7 @@
 		- engrave (v)雕刻, [on/in]銘記
 		* engross (v)全神貫注 = immerse = preoccupy = bemuse <-- en + gross 厚 = thick
 		- engulf (v)捲入/吞沒, 整個吞下, 壓倒 = overwhelm
+		- enjambed (adj)跨句連接的 
 		+ enhance (v)提高/改善 = increase = improve <-- en + hance 高 = high
 		- enjambment (mn)詩句之連續
 		+ enjoin (v)教導/鼓勵 = instruct = urge = exhort, 囑咐 = prescribe, [法]使失效 <|> enjoy <|> rejoin
@@ -4856,6 +4857,7 @@
 
 	nat, nasc, naiss 出生 = born
 		- antenatal (adj)產前的
+		- cognate (adj)(語言或詞語)同源的, 相關的 = related = connected (n)同源詞, 親屬 <-- co = together + g + nat = born
 		+ /ɪˈneɪt/ innate (adj)與生俱來的/天生的 = inborn = native = born <|> inmate
 		- natal (adj)出生的/誕生時的, 屁股的
 		- natality (n)出生率
@@ -5038,6 +5040,7 @@
 			- overstimulate (v)過度刺激
 			- overstretch (v)使過分伸張, 做出過度的要求
 			- oversupply (v)過多地供給 = glut (n)供應過多 = surplus
+			- overtake (v)大於/超過, 超過/趕上, 突然降臨於/意外發生在
 			- overtax (v)對......課稅過重, 使負擔過度
 			+ overthrow (n/v)推翻/廢除 = subvert = topple (v)武力終結, 丟過頭, 丟過..的頭
 			- overtone (n)[音]泛音, 言外之意/弦外之音 = undertone
@@ -7915,6 +7918,7 @@
 		+ uncommunicative (adj)不愛說話的/沉默寡言的 = taciturn = reticent <|> excommunicate
 		- uncompromising (adj)不妥協的/不讓步的, 嚴厲的 = harsh
 		+ unchecked (adj)不受抑制的/沒有管束的, 未經調查的/未經檢查的
+		- unclench (v)放開 = release, 放鬆 = relax
 		* unconcerned (adj)不擔心的/漠不關心的/無興趣的
 		+ /ʌnˈkɒnʃ(ə)nəbəl/ unconscionable (adj)不合理的 = unreasonable = unwarranted, 不合理地多的
 		- unconscious (adj)不省人事的, 下意識的, [of]沒有意識到的 = unaware (n)[the]潛意識

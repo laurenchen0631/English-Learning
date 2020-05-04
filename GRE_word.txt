@@ -18,7 +18,8 @@
     ++ administer (v)管理/掌管, 執行/實施, 給予/提供(治療) = dispense, 施予(懲罰) = inflict, 主持……儀式, [to]給予幫助
     ++ administration (mn)管理/經營, 管理者, 管理部門, 施行/實施 (n)政府, 任期
     + adulate (vt)諂媚/奉承 = flatter = fawn = toady --> adulation (n) --> adulator (n) = toad
-    + /əˈdʌltəreɪt/ adulterate (v)摻雜 = debase = corrupt = alloy <|> adulate --> adulterant (n)攙雜物 (ad)攙雜用的
+    + /əˈdʌltəreɪt/ adulterate (v)摻雜 = debase = corrupt = alloy <|> adulate
+    + adulterant (n)攙雜物 (ad)攙雜用的
     - adultery (n)通姦 --> adulterous (adj)通姦的
     +++ agreeable (adj)宜人的/令人愉悅的 = pleasing = congenial = sapid = palatable, 可以接受的 = acceptable, 欣然同意的
     + /əˈlakrɪti/ alacrity (n)欣然/敏捷 = promptness <--> reluctance
@@ -576,6 +577,7 @@
     - bungling (mn)搞砸 (adj)笨拙的/拙劣的 = bumbling
     - bureau (n)(政府機構的)局/司/署/處, 辦事處/辦公室/聯絡處
 	- burglary (n)破門竊盜
+    - /ˈbərɡər/ burgher (n)市民
     - burial (mn)埋葬 = interment (n)葬禮 = funeral, 墓地
     - burnout (n)燃料燒盡, 過熱, 精疲力竭
     - /bəːp/ burp (v)打嗝 = hiccup, 使…打嗝 (n)打嗝聲
@@ -784,6 +786,7 @@
     - /ˈkaʃeɪ/ cachet (n)聲望 = prestige, 封印/特徵, 膠囊 <|> cache
     - cackle (n/v)嘎嘎大笑, (鵝或雞)咯咯叫, 饒舌/閒扯
     - cactus (n)仙人掌 <|> caucus
+    - cad (n)[非]粗俗的男人(尤指對女性無禮)
     - cadence (n)抑揚頓挫, 節奏, 結尾 <|> cascade
     - cadet (n)軍校生/警校生, 次子/幼子 <|> cadge
     - /ˈkɑːdə/ cadre (n)一小群, 共產黨員/革命組織成員
@@ -1315,6 +1318,7 @@
     - empire (n)帝國, 大企業 (mn)皇權/絕對統治 (adj)(風格)第一法蘭西帝國的 <|> empiric
     - empty (adj)空的, 空洞的/無意義的, 無價值的 (V)倒/倒空, 使成為空的, [into]流入(海洋或湖) (n)空瓶
     - /ˌɛmpʌɪˈriːən/ empyrean (adj)天空的 = celestial (n)蒼天/最高天, 天空
+    - endnote (n)後記
     - ennui (mn)倦怠/無聊
     - /ˈɒntreɪ/ entrée (n)主菜, 獲准進入的權力或特權/入場權
     - epinephrine (n)腎上腺素
@@ -1449,7 +1453,7 @@
     * fatigable (adj)易疲勞的 <--> indefatigable
     *** favor (n/v)支持/贊同 = approval = support, 偏袒 (n)小禮物, 善意 (v)有利於 = facilitate, [with]贈予/給予 = bestow, [非]像/相似 = resemble
     *** favorable (adj)贊同的 = positive, [to]有利..的 = propitious = advantageous, 順風的, 好天氣的
-    * /ˈfəːtʌɪl/ fertile (adj)肥沃的, 想像力豐富的, 能生育的, 能孵的/受精的(種子或卵)
+    * /ˈfəːtʌɪl/ fertile (adj)肥沃的 = fecund, 想像力豐富的, 能生育的, 能孵的/受精的(種子或卵)
     * /ˈfɛstə/ fester (v)潰爛/化膿 = suppurate, 腐爛, 惡化
     * /fjuːd/ feud (n)夙怨/長期爭鬥 = quarrel = contention, 世仇 (v)長期鬥爭 <-- foe
     * feudal (adj)封建的, 過時的 --> feudalism (mn)封建制度
@@ -1943,7 +1947,7 @@
     ++ /ˈhalsɪən/ halcyon (n)昔日美好的 = idyllic = carefree (n)(傳說)神翠鳥, 翠鳥 = kingfisher
     + /ˌhɑːfˈhɑːtɪd/ halfhearted (adj)不認真的/興趣不大的
     + hallmark (n)金銀上的純度印記, 標誌/特徵 = quirk (v)蓋上品質證明印記, 使獨特
-    + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow + hallowed (adj)神聖的 = holy = sacred, 受崇敬的
+    + /ˈhaləʊ/ hallow (v)使聖化 = sanctify = consecrate, 把...視為神聖/尊崇/崇敬 = venerate = worship <|> hollow <|> harrow + hallowed (adj)神聖的 = holy = sacred = numinous = sacrosanct, 受崇敬的
     + happenstance (mn)偶然 = coincidence
     ++ hark (v)聽 = listen, [back to]提起/喚起 = harken/hearken back to
     + harry (v)反覆地襲擊, 不斷煩擾 = harass
@@ -2474,6 +2478,7 @@
     * lumpy (adj)表面有塊狀物的/含有塊狀物的
     * /lʌst/ lust (mn)性慾, 強烈的慾望 (v)貪求/渴望
     * lustful (adj)好色的/淫蕩的 = lascivious = salacious = lecherous = libidinous = wanton <|> lustrous
+    - lusty -> lustier -> lustiest (adj)精力充沛的/健壯的
 
     - lace (n)蕾絲, 飾帶/金邊 (v)繫 = fasten = tighten, 使交錯 = entwine, 加料, 加
     - lacy (aaj)蕾絲的
@@ -2867,6 +2872,7 @@
     - moniker (n)[非]名字
     - monsoon (n)雨季, 季風
     - montage (n)蒙太奇, 蒙太奇作品, 剪輯
+    - morass (n)沼澤/泥淖, 困境
     - mores (n)習慣/習俗
     - mortar (n)迫擊砲, 研缽/乳缽 (v)用迫擊砲轟擊
     - mosaic (n)馬賽克/鑲嵌細工
@@ -2969,6 +2975,7 @@
     - navel (n)肚臍, 中央/中心
     - navel-gazing (n)紙上談兵/光說不練/過分自省
     - neat (adj)整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的 = facile, 純的, [非]好的/妙的 
+    - nectar (n)花蜜, 眾神飲的酒/瓊漿玉液
     - neighboring (adj)旁邊的/附近的 = adjacent
     - needle (n)針/編織針, 注射針, 指針/磁針, 唱針 = stylus, 針葉 (v)戳 = prick, 刺激/激怒 = provoke = irritate
     - needlework (mn)縫紉/刺繡, 刺繡品
@@ -4266,6 +4273,7 @@
     - shower (n)陣雨, 一陣, 一大批/大量, 淋浴間, 淋浴器, 淋浴, 送禮會 (v)陣雨般落下, 淋浴, [with]用大量的..丟.., [with/on/upon]給..很多的...
     - /ʃrɛd/ shred (n)碎布, 些許/少量 (v)撕碎/剪碎, 絞碎
     - shriek (v)尖叫, 促人注意 (n)尖叫 = scream, [非]驚嘆號
+    - shrill (adj)尖聲的/刺耳的 (n/v)尖聲/尖叫
     - shrimp (n)小蝦, [非]矮個子
     - shrine (n)聖壇/神殿/神社, 神龕 = niche (v)把……放置在龕內 = enshrine
     - shire (n)[英]郡
@@ -4896,6 +4904,7 @@
     - tromp (v)腳步沉重地行走 = trudge, [on]踐踏 = stamp on
     - troop (n)軍隊/部隊, 騎兵隊, 一群 (v)集合, 列隊而行
     - troth (n)[古]誓言/訂婚, [古]真相
+    - troubadour (n)遊吟詩人
     - trough (n)飼料槽/飲水槽, 槽 = channel = hollow, 低壓槽, 低谷/蕭條期 (v)[非]狼吞虎嚥
     - troupe (n)歌唱團/劇團
     - trot (v)(四足動物)小跑/快跑, (人)快跑/急行, 走/漫步, [out]動不動就提出/重複說 (n)小跑, 快跑, [the trots]腹瀉 = diarrhoea
@@ -5019,6 +5028,7 @@
     * vagary (n)難以預測的變化/突然的轉變 = caprice = whim <|> vague
     ** vain (adj)愛虛榮的/自負的 = conceited = egotistic, 徒勞的/無益的 = futile =  worthless = idle = void, 空洞的/無意義的
     * vamp (n)鞋面, 勾引男子以勒索金錢的女騙子 (v)[非][up]修補/翻新 = patch up = repair, 給…換鞋面, 勾引
+    * vein (n)靜脈, 血管, 葉脈, 翅脈, 礦脈, 紋理/條紋, 脈/泉源, 特色/格調
     * vent (n)出路/漏孔, 火山口, 肛門, 發洩/宣洩 (v)表達(強烈的情緒), 給……開孔, 放出/排出 = expel = discharge <|> tent
     * ventilate (v)使通風/使換氣, 公開討論, [醫]人工提供氧氣, [非]射殺
     * ventilation (n)通風, 供氧, 公開討論
@@ -5142,6 +5152,7 @@
     *** wind -> wound -> wound (v)繞/使捲繞, 包/裹, 使纏繞成團, 給…上發條, 倒帶, [up]陷入/捲入, [down]放鬆下來 (n)彎曲/轉彎
     - winding (n)蜿蜒, 捲繞物, 線圈 (adj)蜿蜒的/彎曲的
     - windy (adj)刮風的/風大的, 誇誇其談的/空談的, 蜿蜒的
+    - windup (n)結束, 揮臂準備投球的動作
     ** wither (v)枯萎/乾枯 = blight = wizen = shrivel = droop = flag, 乾癟, 衰落/式微 = decline = dwindle, 使減弱 = weaken, 用輕視的眼神使..羞愧 = humiliate
     * withered (adj)枯萎的/凋謝的, 萎縮的/乾癟的
     *** withhold (v)拒絕給予 = deny = decline = forbear, 抑止(情緒) = stifle = refrain = check
