@@ -802,6 +802,7 @@
     - cannibal (n)食人者, 同類相食的動物 --> cannibalism (mn)同類相食
     - cannibalistic (adj)同類相食的
     - /ˈkanən/ cannon (n)大砲/火砲, 飛機或坦克上的機關砲 <|> canon <|> canyon
+    - canteen (n)(工廠、學校等的)餐廳, 福利社/小賣部
     - /ˈkanjən/ canyon (n)峽谷
     - canvass (v)遊說, 贏取(支持) = botain, 提出(意見或計劃)供考慮 = moot, 詳細討論 (n)遊說, 討論
     - crevasse (n)冰河裂縫
@@ -858,6 +859,7 @@
     - cinema (n)電影 --> cinematic (adj)電影的
     - chafe (v)擦傷, 磨損, 擦熱, 使焦躁 (mn)擦傷
     - chameleon (n)變色龍, 善變的人
+    - /ˈtʃarɪət/ chariot (n)雙輪戰車, 十八世紀的四輪禮車 (v)駕馭戰車
     - chartreuse (n)淡黃綠色 (adj)淡黃綠色的
     - chime (n)管鐘/排鐘, 樂鐘/音樂門鈴, 木桶兩端的凸邊 (v)鳴/鳴響, [in]插話/附和
     - chimney (n)煙囪, 煙囪柱, 玻璃燈罩, 可供攀登的狹窄裂口
@@ -1160,7 +1162,7 @@
     - doldrums (n)停滯/意志消沉, 赤道無風帶
     - dole (n)賑濟物/施捨物, 命運/宿命 (v)[out]撥出/分給
     - dolt (n)笨蛋 <-- dull
-    - don (v)戴上/穿上 = wear = put on 
+    - don (v)戴上/穿上 = wear = put on (n)大學教師
     - doodle (v)亂畫 (n)塗鴉
     - dope (mn)[非]麻藥/毒品, 馬用興奮劑, 運動興奮劑, [非]笨蛋, [非]內幕消息, 飛機翼布塗料, 潤滑劑 (v)給…服興奮劑, [be doped up]受藥物影響, 下藥, 塗塗料於 (adj)[非]好的 = very good
     - /ˈdɔːki/ dorky (adj)呆頭呆腦的 = awkward, 不時髦的 = unfashionable
@@ -1191,6 +1193,7 @@
     - dredge (v)爲…清淤/疏浚, 搜索/打撈, 撒(麵粉或砂糖等) <|> drudge
     - drench (v)使濕透 = soak = douse, 徹底覆蓋, 給(牲口)灌藥 (n)獸用藥水 <-- drink
     - dressing (n)沙拉醬, 烤雞用的填料 = stuffing, 包紮用品, 肥料
+    - dressing-down (n)斥責 = an act of speaking angrily to someone because they have done something wrong
     - dribble (v)滴下/細流, 流口水, 運球/盤球 (n)細流 = trickle, 口水 = saliva, 運球/盤球
     - dripping (n)油滴, 滴下物 (adj)濕淋淋的
     - drill (n)鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 (v)鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
@@ -1285,6 +1288,7 @@
     * energetic (adj)精力充沛的/充滿活力的 = spirited = dynamic = lively
     * entire (adj)全部的 = whole, 完全的 = absolute, 完好無缺的, (馬)未被閹割的 (n)在勢的公馬 --> entirety (n)全部/整體
     * /ɛtʃ/ etch (v)蝕刻/雕刻, 侵蝕 = corrode, 使明顯, 銘記 (mn)蝕刻 --> etching (mn)蝕刻術 (n)蝕刻版畫
+    * enthuse (v)(使)充滿熱情
     *** /ɪnˈθjuːzɪaz(ə)m/ enthusiasm (mn)熱情 = zeal (n)激發熱情的事物
     *** /ɪnˌθjuːzɪˈastɪk/ enthusiastic (adj)熱情的 = zealous = ardent = passionate
     * /ˈɛtɪkɛt/ etiquette (n)禮節/規矩/成規 = courtesy = amenity = decorum <-- etiqu 附著 = stick, attach + ette
@@ -1734,6 +1738,7 @@
     + /ˈɡrɒv(ə)l/ grovel (v)匍匐前進, 卑躬屈膝 <|> grove
     + growth (n)發展/增長/擴大, 生長物/產物, [醫]瘤 = tumour <|> gross
     + guarded (adj)小心翼翼的/有保留的 = cautious = careful = prudent
+    - guff (n)胡說八道
     + /ɡəˈfɔː/ guffaw (n/v)開懷大笑 = chortle <|> gaffe
     * guile (n)奸詐/狡猾
     + guileless (adj)誠實無欺的/老實的 = honest
@@ -2155,6 +2160,7 @@
     - hoodlum (n)無賴/流氓 = hooligan = gangster
     - hoof (n)(牛或馬的)蹄 (v)[非]大力踢(球), [非][hoof it]步行, [hoof it]跳舞
     - hooligan (n)小流氓/阿飛
+    - hooliganism (mn)無賴行為/流氓行為
     - hoop (n)箍/箍狀物, 呼拉圈 = hula hoop, 古時的裙環, 籃圈 = rim, [非]籃球比賽 (v)用箍把……圍住
     - hoopla (n)投環遊戲, [非]喧嚷/嬉鬧
     - hop (v)單足跳, 齊足跳, 跳, 跳上(交通工具), 跳過 = leadfrog, 快速通過, 快速更換職位, 用蛇麻子調味 (n)蹦蹦跳, 短程旅行, 非正式舞步, 蛇麻草, 蛇麻子, 鴉片/迷幻藥物
@@ -2839,6 +2845,7 @@
     - miff (v)[非]使惱怒 = annoy <|> tiff 
     - mighty (adj)強有力的/強大的, 巨大的/大量的 = very large
     - migrate (v)遷移/移居 --> migratory (adj)遷移的
+    - mileage (n)總英里數, [非]利益/好處
     - milestone (n)里程碑/里程標, 里程碑/劃時代的事件 = landmark
     - mill (n)磨坊/磨臼, 製造廠 (v)碾碎/將……磨成粉
     - milt (n)魚的精子, 雄魚的生殖腺
@@ -3476,6 +3483,7 @@
     - promiscuous (adj)濫交的/淫亂的, 不加區別的/隨意的 = indiscriminate, 各式各樣東西組成的
     - prone (adj)[to]有...傾向的/易於遭受...的, 俯臥的
     - prong (n)叉子的分支, 分岔/分支, [俗]陰莖 = penis, 火力分散 <|> tine
+    - protestant (adj)新教的/新教徒的 (n)新教徒
     - prow (n)船首/船頭, 突出的部分
     - prowl (n/v)潛行於/暗中來回覓食
     - prepper (n)末日準備者

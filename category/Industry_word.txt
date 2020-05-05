@@ -1805,6 +1805,8 @@
 [School/Education]
 	- middle school (n)初級中學
 	- charter school (n)特許學校(獲得政府資助但獨立於其所處的州立學校系統運營的學校)
+	- sixth form (n)預科，是英式教育的制度，在很多前英國殖民地亦沿用。在經過五年的中學教育後，成績良好的可升讀為期兩年的預科，再參加考試，成績良好的方可進入大學。
+	- A-level == General Certificate of Education Advanced Level(普通教育高級證書)，簡稱GCE A-Level 或A-Level是英國普通高中的課程，而最終測驗的成績可以報讀英國和世界各地英系國家的大
 
 	- undergrad == undergraduate (adj)大學生的 (n)大學生
 	- sophomore 二年級學生 == A second-year university or high-school student.

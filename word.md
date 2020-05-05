@@ -31,7 +31,7 @@
 + aloof [adj]疏遠的 = *distant* = *remote* <|> aloft
 + (amalgam)[/əˈmalɡəm/] [n]混合物 --> amalgamate [v]聯合/合併 = *coalesce* = *unite*, 混合 = *blend* = *mix*
 + [amenable](/əˈmiːnəb(ə)l/) [adj]願服從的/順從的 = *cooperative* = *compliant* = *obedient* = *submissive* = *servile* = *docile* = *tractable* = *yielding*, [to]易受..影響的 = *susceptible* <-- amen 領導 = *lead*
-+ [amenity](/əˈmiːnɪti/) [mn](環境)舒適/適意 [n]便利的設施 <|> acumen <-- amen 愉快 = *pleasing* + ity
++ [amenity](/əˈmiːnɪti/) [mn] (環境)舒適/適意 [n]便利的設施 <|> acumen <-- amen 愉快 = *pleasing* + ity
 + amok, amuck [adv][run amok]狂亂地
 + anathema [n]令人討厭的人或物, 詛咒/被詛咒的人 <|> anthem
 + [anecdote](/ˈanɪkdəʊt/) [n]短故事, 趣事/軼事 --> anecdotal [adj]軼事的/趣聞的
@@ -73,7 +73,7 @@
 
 * abash [v]使羞愧/使尷尬 = *embarrass* = *humiliate*
 * abdomen [n]腹/下腹/腹部
-** [abide](/əˈbʌɪd/) -> abode/abided -> abode/abided [v][by]遵守, [can not abide]無法忍受 = *endure* = *tolerate*, (情感或記憶)持續
+* [abide](/əˈbʌɪd/) -> abode/abided -> abode/abided [v][by]遵守, [can not abide]無法忍受 = *endure* = *tolerate*, (情感或記憶)持續
 * abiding [adj]持續的/持久的 = *enduring*
 * abode [n]家 [mn]住處 <|> adobe <-- abide
 * abolish [v]廢止/廢除 = *abrogate* = *annul*
@@ -115,6 +115,7 @@
 - [adage](/ˈadɪdʒ/) [n]格言/諺語 = *proverb* = *aphorism* = *dictum*，
 - adobe [n]泥磚, 做泥磚用的黏土
 - aging, ageing [n]老化, 陳化/熟化 [adj]老年的 = *elderly*, 使用年限將至的
+- agon [n]鬥爭/競賽
 - aegis [n]盾, 保護/庇護 
 - aeon, eon [n]永世/萬古, 億萬年
 - aficionado [n]狂熱愛好者
