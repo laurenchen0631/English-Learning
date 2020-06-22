@@ -5069,7 +5069,7 @@
 + [vicarious](/vɪˈkɛːrɪəs/) [adj]感同身受的, 替代的/代理的 <|> parochial
 + [vicissitude](/vɪˈsɪsɪtjuːd/) [n]變換, 盛衰/興敗 --> vicissitudinous [adj] = *checkered* <-- vicussi 改變 + tude
 + vigil [n]守夜, 示威, 宗教節日前夕 --> vigilant [adj]警戒的/警惕的 = *mindful*
-- vigilante [n]治安會會員/治安維持者
+- **vigilante** [n]治安會會員/治安維持者/警察
 - vigilance [n]警戒/警覺
 + [vie](/vʌɪ/) -> vying [v]競爭 = *contend* = *compete*
 * [vile](/vʌɪl/) [adj]糟透的/惡劣的 = *extremely* unpleasant, 邪惡的/卑鄙的 = *wicked* = *iniquitous*
@@ -5349,7 +5349,7 @@
 - wrist [n]腕/腕關節, 衣服的腕部, 遊樑鐵栓
 - wristband [n]腕帶, 運動用腕套, 手錶帶, 袖口 = *cuff*
 - writ [n]傳票/令狀, 權威 = *authority*
-- writhe [v]扭曲/扭動(身體), [in/with/at]痛苦不安/難堪
+- **writhe** [v]扭曲/扭動(身體), [in/with/at]痛苦不安/難堪
 
 [Y]
 + yoke [n]軛, 壓迫/束縛/枷鎖, 一對銬上軛的(牲口), 上衣抵肩/裙腰, 紐帶/聯結 = *tie* = *link*, 飛機的操縱桿 [v]套上軛, 聯合/使結合 = *join* = *link* = *unite* = *associate*
@@ -5391,6 +5391,26 @@
 - [zip](/zɪp/) [v]拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) [n]拉鍊, [非]精力/活力, [非]無/沒有 = *nothing*
 - zipper [n]拉鍊 [v]拉上拉鍊
 - zone [n]地帶/地區, 時區, 動植物分布帶 [v]分成區, 劃出……為區
+
+[Latin]
+- modus operandi [n]做法/工作方法/作案手法
++ [ad hoc](/ad ˈhɒk/) (adv)特別地/專門地 (adj)特別的/專門的
+- bon vivant [n]講究飲食和社交的人/喜歡享受的人
+- bona fides [n]真誠, 書面證據 = credentials
+- [cri de coeur](/ˌkriː də ˈkəː/) [n]衷心的懇求/呼籲
+- de facto [adj]事實上的/實際上的
+- du jour [adj]當天供應的
+- en route [adv]在路上/在途中
+- en masse [adv]一起/全體 == If a group of people do something en masse, they do it together and at the same time.
++ et cetera == [etc.](/ɛtˈsɛtərə/) [adv]等等
+- [grande dame](/ɡrɒ̃d ˈdam/) [n]德高望重的女性/受人敬仰的女性/女泰斗
+- in vitro [adj]在體外(常指試管內)進行的
+- joie de vivre [n]生活之樂/人生的極大樂趣
+- per capita [adj/adv]人均/每人
++ per se [adv]本身地
+* pro bono [ADJ/ADV]公益
+- quid pro quo [n]交換條件
+- the status quo [n]現狀
 
 <!-- = (\w+)(\s*)  |   = *$1*$2 -->
 <!-- (/\S+/)\s(\w*)  |  [$2]($1) -->

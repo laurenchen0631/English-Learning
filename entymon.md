@@ -7254,7 +7254,8 @@ string, strain, strict 拉緊 = *draw* tight, draw togerher
 * unrestrained [adj]不受限制的/無節制的
 
 stern 散播 = *strew*, spread
-- consternate [v]使驚恐 --> consternation [n]驚恐/驚惶失措 = *shock*
+- consternate [v]使驚恐
+- **consternation** [n]驚恐/驚惶失措 = *shock*
 * stern [adj]嚴厲的/苛刻的 = *severe* [n]船尾
 
 sphere 球/團
