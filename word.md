@@ -3917,7 +3917,7 @@
 + slippery [adj]滑的, 狡猾的/滑頭的 = *tricky* = *cunning*, 不明確的
 + sloth [mn]懶散/怠惰 = *indolence* [n]樹懶, 熊群 --> slothful [adj]怠惰的/懶散的 = *lazy* = *indolent* = *sluggish*
 + sluggish [adj]緩慢的/停滯的 = *slow*-moving = *inactive*, 懶散的 = *slothful*
-+ smatter, smattering [n]略知, 少量
++ **smatter, smattering** [n]略知, 少量
 + snide [adj]挖苦的/暗諷的 = *allusive*, 卑鄙的 = *underhand* [n]卑鄙的人
 + [smug](/smʌɡ/) [adj]自滿的/得意的 = *complacent*
 * [smuggle](/ˈsmʌɡ(ə)l/) [v]走私, 偷運/偷帶 --> smuggling [n]走私
