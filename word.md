@@ -1,15 +1,15 @@
 ## A
-+ abet [vt]教唆/鼓勵 = *ferment* = *foment* = *incite* = *instigate* <-- a + bait
++ **abet** [vt]教唆/鼓勵 = *ferment* = *foment* = *incite* = *instigate* <-- a + bait
 + abeyance [n]擱置/暫時中止
 + aboveboard [adj/adv]率直
-+ abreast [adv]並列地 = *side by side* --> *keep abside of* [v]了解...的最新情況
++ **abreast** [adv]並列地 = *side by side* [v][**keep abside of**]了解...的最新情況
 + abridge [vt]精簡 = *abbreviate* = *condense*, 縮限/限制(權力) = *curtail*
 + absurd [adj]不合理的 = *unreasonable* = *inappropriate*, 荒謬的/可笑的 = *ludicrous*
 + absurdity [n]荒謬/荒誕
 + [abundant](/əˈbʌnd(ə)nt/) [adj]大量的 = *ample* = *bountiful* = *profuse*, (in)豐富的/充斥的 = *abounding* = *rife*
 + abundance [n]大量, 豐富/充斥 = *plentifulness* <|> abound
-+ account [n]記述/描述, 演奏/詮釋, 帳目, [accounts]會計部門, 帳戶, 客戶, 帳號 [mn]重要性 = *importance* [v]把…視為
-+ account for [v]佔(數量或比例), 解釋, 負有責任
++ account [n]記述/描述, 演奏/詮釋, 帳目, [accounts]會計部門, 帳戶, 客戶, 帳號 [mn]**重要性** = *importance* [v]把…視為
++ **account for** [v]佔(數量或比例), 解釋, 負有責任
 * accountable [adj]應對..負責任的 = *responsible*, 可說明的/可解釋的
 * accountability [n]責任 = *responsibility*
 + adamant [adj]堅決的/固執的 = *resolute* = *unyielding* = *tenacious* = *intransigent* = *sturdy*
@@ -18,7 +18,7 @@
 + address [v]在……上寫收件人姓名地址, 對……說話, 向……致詞, 處理 = *handle*, [oneself to]針對 [n]演說/致詞, 舉止/風度, 本領/技巧 = *readiness*, 地址
 + administer [v]管理/掌管, 執行/實施, 給予/提供(治療) = *dispense*, 施予(懲罰) = *inflict*, 主持……儀式, (to)給予幫助
 + administration [mn]管理/經營, 管理者, 管理部門, 施行/實施 [n]政府, 任期
-+ adulate [vt]諂媚/奉承 = *flatter* = *fawn* = *toady* --> adulation [n] --> adulator [n] = *toad*
++ **adulate** [vt]諂媚/奉承 = *flatter* = *fawn* = *toady* --> adulation [n] --> adulator [n] = *toad*
 + [adulterate](/əˈdʌltəreɪt/) [v]摻雜 = *debase* = *corrupt* = *alloy* <|> adulate
 + adulterant [n]攙雜物 [ad]攙雜用的
 - adultery [n]通姦 
@@ -26,24 +26,26 @@
 + agreeable [adj]宜人的/令人愉悅的 = *pleasing* = *congenial* = *sapid* = *palatable*, 可以接受的 = *acceptable*, 欣然同意的
 + [alacrity](/əˈlakrɪti/) [n]欣然/敏捷 = *promptness* <--> reluctance
 + [albeit](/ɔːlˈbiːɪt/) (conj)雖然/儘管 = *although*
-+ allay [v]減輕/緩和 = *lessen* = *soothe* = *alleviate* = *assuage* = *mitigate* = *palliate* = *moderate* <|> alloy <|> ally
++ allay [v]減輕/緩和 = *lessen* = *soothe* = *alleviate* = *assuage* = *mitigate* = *palliate* = *moderate* <|> ally
 + alloy [n]合金 [v]損壞/攙雜 = *impair* = *debase* = *adulterate*, 融合 = *mix*
 + all-important [adj]非常重要的
 + aloof [adj]疏遠的 = *distant* = *remote* <|> aloft
-+ (amalgam)[/əˈmalɡəm/] [n]混合物 --> amalgamate [v]聯合/合併 = *coalesce* = *unite*, 混合 = *blend* = *mix*
-+ [amenable](/əˈmiːnəb(ə)l/) [adj]願服從的/順從的 = *cooperative* = *compliant* = *obedient* = *submissive* = *servile* = *docile* = *tractable* = *yielding*, [to]易受..影響的 = *susceptible* <-- amen 領導 = *lead*
++ [amalgam](/əˈmalɡəm/) [n]混合物
++ amalgamate [v]聯合/合併 = *coalesce* = *unite*, 混合 = *blend* = *mix*
++ [amenable](/əˈmiːnəb(ə)l/) [adj]願服從的/順從的 = *cooperative* = *compliant* = *obedient* = *submissive* = *servile* = *docile* = *tractable* = *yielding*, [to]**易受..影響的** = *susceptible* <-- amen 領導 = *lead*
 + [amenity](/əˈmiːnɪti/) [mn] (環境)舒適/適意 [n]便利的設施 <|> acumen <-- amen 愉快 = *pleasing* + ity
 + amok, amuck [adv][run amok]狂亂地
 + anathema [n]令人討厭的人或物, 詛咒/被詛咒的人 <|> anthem
-+ [anecdote](/ˈanɪkdəʊt/) [n]短故事, 趣事/軼事 --> anecdotal [adj]軼事的/趣聞的
-+ anecdotally [adv]據傳 = *purportedly*
++ [anecdote](/ˈanɪkdəʊt/) [n]短故事, 趣事/軼事
++ anecdotal [adj]軼事的/趣聞的
++ **anecdotally** [adv]據傳 = *purportedly*
 + [anodyne](/ˈanədʌɪn/) [n]鎮痛劑 [adj]不得罪人的/一團和氣的
 + anoint [v]選定/指定 = *appoint* = *nominate*, 擦油 = *baste* = *grease*, [with]塗抹 = *smear* = *rub*
 + apex [n]點頂/最高點 = *acme*
 + aplomb [n]沈著/自信 = *equanimity*
 + [apothegm](/ˈapəθɛm/) [n]格言/箴言 = *adage* = *aphorism* = *dictum* <|> apotheosis
 + [apprise](/əˈprʌɪz/) [v][be apprised of]通知/告訴 = *inform* = *advise* <|> appraise
-+ [apropos](/ˈaprəpəʊ/) [adj]適宜的/適時的 = *appropiate* = *opportune* = *seasonable* (prep)關於 = *with regard to* = *in respect of* [adv]適時地, 有關地
++ [apropos](/ˈaprəpəʊ/) [adj]適宜的/適時的 = *appropiate* = *opportune* = *seasonable* [prep]關於 = *with regard to* = *in respect of* [adv]適時地, 有關地
 + arabesque [n]藤蔓圖飾/阿拉伯花飾, 阿拉貝斯克舞姿
 + arcadian [adj]阿卡迪亞人, 鄉村居民 [adj]阿卡迪亞的, 鄉村的
 + [arcane](/ɑːˈkeɪn/) [adj]神秘的/晦澀難懂的 = *abstruse* = *impenetrable* = *inscrutable* <-- arca 盒子 = *box*, chest
@@ -52,10 +54,10 @@
 + [arithmetic](/əˈrɪθmətɪk/) [n]算數/計算 [adj]運算的/計算的
 + [arrant](/ˈar(ə)nt/) [adj]完全的 = *complete* = *utter* <|> [errant](/ˈɛr(ə)nt/)
 + arrest [v]逮補/拘留 = *apprehend* = *collar*, 引起注意 = *engage* = *rivet*, 阻止/妨礙 = *hinder* = *check*, 抑制(疾病)
-+ arresting [adj]引人注意的 = *striking* = *riveting*
++ **arresting** [adj]引人注意的 = *striking* = *riveting*
 + ascetic [adj]禁慾的 = *abstentious* = *austere* = *monastic* [n]苦行僧 <|> aseptic
-+ asinine [adj]愚蠢的 = *inane* = *half*-baked 
-+ askance, askant [adv]懷疑地/不讚許地
++ **asinine** [adj]愚蠢的 = *inane* = *half*-baked 
++ **askance**, **askant** [adv]懷疑地/不讚許地
 + astound [v]使震驚 = *astonish* = *stagger* = *stupefy* = *boggle* <-- astonish
 + astounding [adj]令人震驚的
 + astute [adj]敏銳的/精明的 = *acute* = *shrewd* = *canny* = *sagacious* = *keen* = *incisive*
@@ -66,19 +68,19 @@
 + audacity [n]大膽, 魯莽 = *impudence* = *temerity* = *forwardness*
 + [austere](/ɔːˈstɪə/) [adj]嚴格的/嚴肅的 = *severe* = *grave* = *sober* = *solemn*, 禁慾的/簡樸的 = *sober* = *simple* = *severe*, 樸素的 = *unadorned*
 + austerity [mn]嚴厲/嚴格, 樸素, 苦行/禁慾, (經濟)緊縮
-+ avarice [mn]貪婪 = *cupidity* = *greed* --> avaricious [adj]貪婪的 = *grasping*
-+ avuncular [adj]叔伯般的/慈祥的/關懷備至的 = *benevolent* = *beneficent* <-- uncle
++ avarice [mn]貪婪 = *cupidity* = *greed*
++ avaricious [adj]貪婪的 = *grasping*
++ **avuncular** [adj]叔伯般的/慈祥的/關懷備至的 = *benevolent* = *beneficent* <-- uncle
 + [axiom](/ˈaksɪəm/) [n]公理 = *maxim*, 定理
-+ axiomatic [adj]不需證明的/不言自明的 = *self*-evident = *obvious*, 公理的 = *aphoristic*
-+ ad hoc [adv]特別地/專門地 [adj]特別的/專門的
++ axiomatic [adj]**不需證明的/不言自明的** = *self-evident* = *obvious*, 公理的 = *aphoristic*
 
 * abash [v]使羞愧/使尷尬 = *embarrass* = *humiliate*
 * abdomen [n]腹/下腹/腹部
 * [abide](/əˈbʌɪd/) -> abode/abided -> abode/abided [v][by]遵守, [can not abide]無法忍受 = *endure* = *tolerate*, (情感或記憶)持續
-* abiding [adj]持續的/持久的 = *enduring*
+* **abiding** [adj]持續的/持久的 = *enduring*
 * abode [n]家 [mn]住處 <|> adobe <-- abide
 * abolish [v]廢止/廢除 = *abrogate* = *annul*
-* abolition [n]廢除
+* **abolition** [n]廢除
 * accustom [v]習慣/適應 = *adjust* = *wont* 
 * accustomed [adj]習慣的 = *wont*, 一貫的
 * [acoustic](/əˈkuːstɪk/) [adj]聽覺的/音響的/聲學的 = *auditory* [n]音響效果
@@ -95,64 +97,65 @@
 * arouse [v]引起/喚起 = *evoke* = *awaken*, 激起 = *provoke* = *excite*, 使起床 <|> arise
 * asthma [n]氣喘
 * [assay](/əˈseɪ/) [n/v]化驗/分析/測定 <|> [essay](/ˈɛseɪ/)
-* [assess](/əˈsɛs/) [v]評價/估價 = *evaluate* = *appraise*  <|> [access](/ˈaksɛs/)
+* [assess](/əˈsɛs/) [v]評價/估價 = *evaluate* = *appraise* <|> [access](/ˈaksɛs/)
 * assessment [n]評價/估價
 - assessor [n]估價員/審核員, 陪審法官
-* atone [v]補償/彌補 = *expiate* = *compensate* = *make* amends, 贖罪 <|> accustom
+* atone [v]補償/彌補 = *expiate* = *compensate* = *make amends*, 贖罪 <|> accustom
 * [attorney](/əˈtəːni/) [n]律師 = *lawyer*
 * avalanche [n]雪崩, 大量 = *flood* [v]雪崩
 * awkward [adj]棘手的/難處理的 = *cumbersome* = *inconvenient*, 難搞的/不合群的, 尷尬的, 難看的 = *ungainly*, 不合適的
 
-- about-face [n]徹底改變
-- abut [v]鄰接/毗鄰 = *adjoin*
+- **about-face** [n]徹底改變
+- **abut** [v]鄰接/毗鄰 = *adjoin*
 - absent-minded [adj]心不在焉的
 - academic [adj]教育的/學術的, (美術)古典的 = *conventional* = *classical*, 純理論的
 - ace [n]一, 佼佼者, 王牌飛行員, 發球得分 [adj]第一流的 [v]發球得分, 得到高分, [out]勝過 = *outdo*
 - acme [n]頂點 = *apex*
 - acne [mn]粉刺/青春痘
-- [acolyte](/ˈakəlʌɪt/) [n]教士助手/仕僧, 助手 = *assistant* = *follower*
+- **[acolyte](/ˈakəlʌɪt/)** [n]教士助手/仕僧, 助手 = *assistant* = *follower*
 - [acorn](/ˈeɪkɔːn/) [n]橡實
 - acreage [n]英畝數
-- [adage](/ˈadɪdʒ/) [n]格言/諺語 = *proverb* = *aphorism* = *dictum*，
+- **[adage](/ˈadɪdʒ/)** [n]格言/諺語 = *proverb* = *aphorism* = *dictum*，
 - add [v]增加, [up]漸增, [up]看似合理
 - adobe [n]泥磚, 做泥磚用的黏土
 - aging, ageing [n]老化, 陳化/熟化 [adj]老年的 = *elderly*, 使用年限將至的
 - agon [n]鬥爭/競賽
-- aegis [n]盾, 保護/庇護 
+- aegis [n]盾, 保護/庇護
 - aeon, eon [n]永世/萬古, 億萬年
-- aficionado [n]狂熱愛好者
-- aft [adv]向船尾/在船尾 = *sternwards* [adj]船尾的
+- **aficionado** [n]狂熱愛好者
+- **aft** [adv]向船尾/在船尾 = *sternwards* [adj]船尾的
 - aftermath [n]後果/餘波, 再生草/被吃掉後長出的草
 - afterthought [n]事後的想法/後來添加的東西
 - aim (v)瞄準, [to/for]致力/意欲, [be aimed at]針對
 - air [v]發表, 廣播, 烘乾 [n]空氣, 樣子/氣氛, 曲調
-- airy [adj]通風的, 輕而薄的/優美的 = *delicate*, 優雅的, 輕浮的
+- airy [adj]通風的, 輕而薄的/優美的 = *delicate*, **優雅的**, **輕浮的**
 - airborne [adj]空氣傳播的, 空運的
 - airtight [adj]密閉的 = *sealed* = *hermetic*, 無懈可擊的 = *unassailable*
 - alabaster [mn]雪花石膏 [adj]雪花石膏製的, 雪白潤滑的
 - alarmist [n]危言聳聽者 [adj]危言聳聽的/製造恐慌的
 - albumen [n]蛋白 <--> yolk
 - alert [v]警告 = *warn* [n]警告, 警戒狀態/警戒期間 [adj]機警的 = *vigilant*, 機敏的 = *acute*
-- [ailing](/ˈeɪlɪŋ/) [adj]生病的 = *ill*
+- **[ailing](/ˈeɪlɪŋ/)** [adj]生病的 = *ill*
 - alimentary [adj]營養的/飲食的
-- [alimony](/ˈalɪməni/) [n]生活費/贍養費 = *maintenance*
-- almanac, almanack [n]曆書/年曆, 年鑑
+- **[alimony](/ˈalɪməni/)** [n]生活費/贍養費 = *maintenance*
+- **almanac**, almanack [n]曆書/年曆, 年鑑
 - [alkali](/ˈalkəlʌɪ/) [n]鹼
-- all-around [adj]全能的/多才多藝的 = versatile
+- **all-around** [adj]全能的/多才多藝的 = versatile
 - all-important [adj]非常重要的 == extremely important
 - all-or-nothing [n]走極端/全做或全不做
 - all-time [adj]空前的
 - all-you-can-eat [adj]隨意吃的/吃到飽的, 無上限的(服務、下載量等)
 - allegory [n]寓言 = *fable* = *apologue* = *parable*, 象徵 = *symbol*
-- allergy [n]過敏, [非]強烈的厭惡 --> allergic [adj]過敏的/引起過敏的, 對...極其反感的
+- allergy [n]過敏, [非]強烈的厭惡
+- allergic [adj]過敏的/引起過敏的, 對...極其反感的
 - allow [v]允許, [for]考慮到
 - allowance [n]承認/允許, 津貼/補貼, 零用錢
-- [almond](/ˈɑːmənd/) [n]杏仁, 杏樹 = *almond* tree
-- aloe [n]蘆薈, 黃邊龍舌蘭 = *century* plant, 沉香木 = *aloes* wood
+- [almond](/ˈɑːmənd/) [n]杏仁, 杏樹 = *almond tree*
+- aloe [n]蘆薈, 黃邊龍舌蘭 = *century plant*, 沉香木 = *aloes wood*
 - [alpha](/ˈalfə/) [n]希臘語的第一個字母, 第一個, 社群首領(指社會性動物的社群中地位最高的個體)
 - [aluminum](/əˈlumənəm/) [n]鋁
 - amber [n]琥珀, 琥珀色
-- ambit [n]範圍 = *purview*
+- **ambit** [n]範圍 = *purview*
 - ambitious [adj]有雄心的/野心勃勃的
 - ambush [v]埋伏/突擊
 - anchor [v]拋錨使..停泊, 固定住, 主持 [n]錨, 靠山, 新聞節目主播 = *anchorman* 
@@ -161,18 +164,19 @@
 - angler [n]釣魚者, 鮟鱇魚 = *anglerfish*
 - angular [adj]有角的 = *jagged*, (人)瘦削的 = *bony* = *gaunt* = *skinny* <-- angle
 - angst [n]不安/憂慮
-- antsy [adj]煩躁的/坐立不安的 <|> artsy
+- **antsy** [adj]煩躁的/坐立不安的 <|> artsy
 - anthem [n]聖歌, 國歌
 - anything-goes [adj]凡事皆有可能的
 - [anvil](/ˈanvɪl/) [n]鐵砧, 砧骨 = *incus* <|> [avail](/əˈveɪl/)
 - [anxious](/ˈaŋ(k)ʃəs/) [adj]焦慮的/掛念的, 令人焦慮的, 渴望的
-- aorta [n]主動脈
+- **aorta** [n]主動脈
 - [apoplexy](/ˈapəplɛksi/) [n]中風, [非]暴怒 
-- apoplectic [adj]中風的, [非]憤怒的 = *furious*
+- apoplectic [adj]中風的, [非]**憤怒的** = *furious*
+- applecart [n]**[upset the applecart]製造麻煩/打亂計劃**
 - appoint [v]任命/指定 = *assign*, 約定/安排(時間或地點) = *determine*
 - appointee [n]被任命的人, 被指定的財產受益人
 - apron [n]圍裙, 停機坪, 臺口(舞臺幕布前的部分), 遮簷板/窗臺
-- arc [n]弧/弧形, 拋物線 = *trajectory*, 電弧, (故事)情節 = *plot* [v]沿著拋物線移動, 形成電弧
+- arc [n]弧/弧形, 拋物線 = *trajectory*, 電弧, **(故事)情節** = *plot* [v]沿著拋物線移動, 形成電弧
 - [arctic](/ˈɑːktɪk/) [adj]北極的, [非]極寒的 [n]禦寒防水套鞋
 - Arctic [n]北極
 - arena [n]鬥技場/圓形舞臺
@@ -185,9 +189,10 @@
 - [asphalt](/ˈasfalt/) [n]瀝青/柏油 = *tarmac* = *pitch* [v]鋪瀝青於
 - asset [n]資產, 有價值的物品/寶貴的人材
 - astray [adv]方向錯誤地, 誤入歧途地
-- atlas [n]地圖集, 寰椎/第一頸椎 = *atlas* vertebra, 男像柱
+- **atlas** [n]地圖集, 寰椎/第一頸椎 = *atlas* vertebra, 男像柱
 - [athlete](/ˈaθliːt/) [n]運動員/體育選手 <-- athle 競賽 = *contest* + te
-- athletic [adj]強壯的/擅長運動的 = *agile*, 運動的 --> athletics [n]運動/體育 
+- athletic [adj]強壯的/擅長運動的 = *agile*, 運動的
+- athletics [n]運動/體育 
 - atomistic [adj]原子論的
 - atrocious [adj]殘忍的/兇惡的 = *cruel* = *brutal*, 糟糕的 = *abominable*
 - atrocity [n]殘暴/殘酷, [謔]使人極不愉快的事物 <-- atroci 兇殘 ＝ fierce + ty
@@ -206,7 +211,7 @@
 - [avenue](/ˈav(ə)njuː/) [n]大街/大道 = *boulevard*
 - aught [n][古]任何事物/任何一部分, 零/無物 <|> ought
 - aural [adj]耳朵的/聽覺的 <|> rural
-- autism [n]自閉症
+- **autism** [n]自閉症
 - avant-garde [n]先鋒派(畫家、作家、音樂家等), 先鋒派作品 [adj]前衛的
 - avoidant [adj]迴避性的(人格)
 - azure [n]天藍色的 = *cerulean* [n]天藍色 = *sapphire*, 藍天
@@ -214,12 +219,12 @@
 ## B
 + [bacchanalian](/ˌbakəˈneɪlɪən/) [adj]瘋狂地飲酒作樂的(派對) = *reveled* <-- Bacchus 希臘酒神
 + backhanded [adj]反手的, 拐彎抹角的/隱含批評或譏諷的 = *wry* = *indirect* = *roundabout* = *sarcastic*
-+ [badger](/ˈbadʒə/) [n]獾 [v]糾纏/騷擾 = *annoy* = *harass* = *pester* = *nag* = *besiege*
++ [badger](/ˈbadʒə/) [n]獾 [v]**糾纏/騷擾** = *annoy* = *harass* = *pester* = *nag* = *besiege*
 + [baffle](/ˈbaf(ə)l/) [v]使困惑 = *confuse* = *perplex* = *bewilder* = *confound* = *nonplus*, 限制/管制(聲音或流量) [n]擋板/隔板
 + [balloon](/bəˈluːn/) [n]氣球, 熱氣球, 漫畫的對話框, 球形短頸玻璃容器 [v]像氣球般膨脹 = *swell*, 激增, 搭熱氣球旅行
-+ [bale](/beɪl/) [n]大包/大捆, 一大捆的量, 折磨 
-+ baleful [adj]威脅的 = *menacing*, 有害的 = *harmful* <|> baneful 
-+ balk [n]梁木, 棒球佯投 [v]妨礙 = *hinder* = *thwart*, [at]猶豫/不願 = *hesitate* <|> bilk
++ [bale](/beɪl/) [n]大包/大捆, 一大捆的量, **折磨**
++ **baleful** [adj]威脅的 = *menacing*, 有害的 = *harmful* <|> baneful 
++ **balk** [n]梁木, 棒球佯投 [v]妨礙 = *hinder* = *thwart*, [at]猶豫/不願 = *hesitate* <|> bilk
 + [bane](/beɪn/) [n]禍根 
 + baneful [adj]有害的/毀滅性的 = *destructive* = *pernicious* = *poisonous*
 + bard [n]詩人/吟遊詩人 <|> ballad
@@ -229,41 +234,43 @@
 + bastardize [v]使品質低落/摻雜 --> bastardization [n]
 + [bawdy](/ˈbɔːdi/) [adj]下流的/淫猥的 = *obscene* = *indecent* = *lewd* = *licentious* = *salacious* = *ribald* = *wanton*
 + bay [n]灣/海灣, 月桂樹, 隔間 = *compartment*, 棗紅馬 [adj]棗紅色的(馬), 嚎叫聲 [v](狗或狼)叫/吠 = *bark* = *howl*, 喧囂 
-+ [beatify](/bɪˈatɪfʌɪ/) [v](天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福 --> beatification [mn]賜福/宣福
++ [beatify](/bɪˈatɪfʌɪ/) [v] (天主教)為...行宣福禮(宣佈死者已升天堂的儀式)/祝福
++ beatification [mn]賜福/宣福
 + [beatific](/biːəˈtɪfɪk/) [adj]喜氣洋洋的, 賜予祝福的
 + becoming [adj]搭調的/搭的(衣服), 合適的/適宜的 = *suitable* = *appropriate* <|> comely <--> unbecoming 
 + [bedizen](/bɪˈdɪzən/) [v]俗麗地穿著 <-- dizen 裝飾/穿得漂亮
 + befriend [v]對…友好 = *help* = *aid*, 交朋友
-+ [befuddle](/bɪˈfʌdəl/) [v]使迷惑/使困惑 = *confuse* = *bewilder* = *confound* --> befuddlement [n]迷惑/困惑 <-- fuddle
-+ beg [v]請求/懇求, 乞討, *假定……為正確*
-+ beguile [v]欺騙/誆騙, 使著迷/使分心 = *charm* = *divert* = *hypnotize* = *fascinate* = *mesmerize*, *度過(愉快的時光)*
-+ beguiling [adj]有趣的/迷人的
-+ [begrudge](/bɪˈɡrʌdʒ/) [v]*羨慕/嫉妒* = *envy* = *grudge*, 吝惜 = *give* reluctantly 
++ [befuddle](/bɪˈfʌdəl/) [v]使迷惑/使困惑 = *confuse* = *bewilder* = *confound* 
++ befuddlement [n]迷惑/困惑 <-- fuddle
++ beg [v]請求/懇求, 乞討, **假定……為正確**
++ **beguile** [v]欺騙/誆騙, 使著迷/使分心 = *charm* = *divert* = *hypnotize* = *fascinate* = *mesmerize*, *度過(愉快的時光)*
++ beguiling [adj]有趣的/迷人的-
++ [begrudge](/bɪˈɡrʌdʒ/) [v]**羨慕/嫉妒** = *envy* = *grudge*, 吝惜 = *give reluctantly*
 + behemoth [n]龐然大物, 強大的事物 = *leviathan*
 * behold [v] [古]看 = *observe* = *see* = *witness* 
 * beholder [n]目擊者 = *witness*
-+ beholden [adj] [to]感激的/受惠的/對..負有義務的 = *indebted* = *obliged*
++ **beholden** [adj] [to]感激的/受惠的/對..負有義務的 = *indebted* = *obliged*
 + behoove, behove [v] [it behooves sb to]理應, [否定]適合
-+ belabor [v]過分冗長地說或做, 批評/攻擊 = *attack* = *criticize*
++ **belabor** [v]過分冗長地說或做, 批評/攻擊 = *attack* = *criticize*
 + belie [v]給人..的假像/掩飾, 與...不符/使落空 = *fail* to justify/fulfil
 + bemoan [v]哀嘆/惋惜/悲悼
-+ benighted [adj]愚昧無知的, 陷入黑暗的
++ **benighted** [adj]愚昧無知的, 陷入黑暗的
 + besmirch [v]誹謗/玷污 = *taint* = *sully*, 弄髒 <-- smirch
 + besotted [adj]入迷的 = *infatuated*
 * bend -> bent -> bent [v]彎曲 = *curve*, [over]彎腰, 屈服
-+ bent [n]傾向/特長/天賦 = *inclination* = *predisposition* = *characteristic* = *talent* = *aptitude* = *flair* [adj]彎曲的, 被偷的 = *stolen*, [on]*決心的/決意的*
++ bent [n]**傾向/特長/天賦** = *inclination* = *predisposition* = *characteristic* = *talent* = *aptitude* = *flair* [adj]彎曲的, 被偷的 = *stolen*, [on]**決心的/決意的**
 - bender [n]扭曲的人或物, [非]飲酒狂歡 = *bacchanalia*
 + [bereft](/bɪˈrɛft/) [adj][of]缺乏…的 = *lacking* = *devoid* = *deprived* of, 孤單失落的 = *forlorn*
 + betray [v]背叛/不忠, 暴露/流露 = *reveal* = *be* evidence of
 + bevy [n]一群(人)
-+ [bewilder](/bɪˈwɪldə/) [v]使迷惑/使糊塗 = *baffle* = *confuse* = *confound* = *nonplus* = *flummox* 
++ **[bewilder](/bɪˈwɪldə/)** [v]使迷惑/使糊塗 = *baffle* = *confuse* = *confound* = *nonplus* = *flummox* 
 + bewildering [adj]令人迷惑的/費解的
-+ beyond (prep)更遠/遠於, 超出/超過
++ beyond [prep]更遠/遠於, 超出/超過
 + besiege [v]圍攻 = *beleaguer*, 困擾 = *beleaguer* = *harass* = *distract* = *badger*, [be besieged with]被(請求或抱怨)壓倒
 + [bias](/ˈbʌɪəs/) [mn]偏見, 傾向/偏好 = *bent* = *penchant*, 斜紋 [v]使…懷有偏見 = *prejudice* = *jaundice* 
-+ [bile](/bʌɪl/) [n]膽汁, *憤怒/怒氣*
++ [bile](/bʌɪl/) [n]膽汁, **憤怒/怒氣**
 + [bilious](/ˈbɪlɪəs/) [adj]壞脾氣的 = *spiteful* = *bad-tampered*, 膽汁的, 令人十分不快的(顏色), 令人噁心想吐的
-+ [bilk](/bɪlk/) [v]騙取/詐騙 = *defraud* = *swindle* <|> balk
++ **[bilk](/bɪlk/)** [v]騙取/詐騙 = *defraud* = *swindle* <|> **balk**
 * bland [adj]冷淡的 = *indifferent*, 無味的 = *watery* = *insipid*, 乏味的 = *dull* = *dreary* = *insipid* = *jejune*
 + blandish [v][古]哄騙 = *cajole* = *coax* = *wheedle*
 + blandishment [n]奉承/甜言蜜語
@@ -277,36 +284,38 @@
 + bliss [n]極樂/福氣 = *ecstasy* <-- blithe 
 + blissed-out [adj]極樂無憂的
 + block [v]阻擋/阻礙/擋住視線 [n]街區/街段, 大廈/大樓, 堵塞物
-+ blow -> blew -> blown [v]吹/刮, 吹動 = *propel*, [非]離去, 吹氣, 喘氣 = *pant*, 吹奏, (鯨魚)噴氣, 爆炸, 揮霍, 搞糟 = *bungle*, (策略)曝光 [n]強風, 吹飛/呼吸新鮮空氣, 吹奏, 擤鼻子, 粉狀古柯鹼, 一擊/毆打, 驚嚇/失望
++ blow -> blew -> blown [v]吹/刮, 吹動 = *propel*, [非]離去, 吹氣, 喘氣 = *pant*, 吹奏, (鯨魚)噴氣, 爆炸, **揮霍**, **搞糟** = *bungle*, (策略)曝光 [n]強風, 吹飛/呼吸新鮮空氣, 吹奏, 擤鼻子, 粉狀古柯鹼, 一擊/毆打, **驚嚇/失望**
 + blunt [adj]唐突的/失禮的 = *abrupt* = *curt* = *offhand* = *terse*, 鈍的 = *obtuse* = *dull*, 感覺遲鈍的/愚鈍的 = *obtuse* = *crass* = *opaque* [v]變鈍, 使(情感)減弱
 + bogus [adj]偽造的/假的 = *phony* = *counterfeit* = *spurious* = *sham* = *fake*
 + boisterous [adj]喧閙的 = *blatant* = *clamorous*, 精力旺盛的 <|> bolster
 + bold [adj]勇敢的/無畏的 = *audacious*, 醒目的/顯著的 = *conspicuous*, 冒昧的/魯莽的 = *audacious* = *abrupt*
 + [bolster](/ˈbəʊlstə/) [n]長墊/靠墊 = *cushion* [v]支持/鼓勵 = *support* = *advocate*
 + bombard [v]砲擊/轟炸, 向……連續提出問題, 以高能量粒子或放射能衝擊 [n]射石砲
-+ bombast [n]高調/誇大之詞/大話 = *rhetoric* --> bombastic [adj]誇大的 = *orotund* = *inflated* = *exaggerated* = *rhetorical* = *grandiloquent* = *oratorical* = *tumid* = *turgid* = *high*-flown 
++ bombast [n]高調/誇大之詞/大話 = *rhetoric* 
++ bombastic [adj]誇大的 = *orotund* = *inflated* = *grandiloquent* = *oratorical* = *tumid* = *turgid* = *high-flown*
 + [boon](/buːn/) [n][to]有益之物 = *benefit*
-+ boor [n]粗魯無禮之人 = *peasant* = *savage* --> boorish [adj]粗野的/粗鄙的 = *rude* = *churlish* = *savage* <-- farmer 德文
-+ bound [adj][to]極有可能的/必然的, [for/to]前往…的, [to]受約束的/有義務的 = *obliged*, 受限於…的/不能離開…的, (書籍)有封皮的 [v]跳躍/跳動, 成為…的界線 = *enclose*, 限制 = *restrict* [n]跳躍, 邊界 = *boundary*, 限制 = *limitation* = *restricts*, 極限值 = *limiting* value
++ boor [n]粗魯無禮之人 = *peasant* = *savage* 
++ boorish [adj]粗野的/粗鄙的 = *rude* = *churlish* = *savage* <-- farmer 德文
++ bound [adj]**[to]極有可能的/必然的**, [for/to]前往…的, [to]受約束的/有義務的 = *obliged*, 受限於…的/不能離開…的, (書籍)有封皮的 [v]**跳躍/跳動**, 成為…的界線 = *enclose*, 限制 = *restrict* [n]跳躍, 邊界 = *boundary*, **限制** = *limitation* = *restricts*, 極限值 = *limiting value*
 + bounty [n]獎金/獎賞 = *premium* = *reward*, 補助金, 慷慨的贈予 [mn]*慷慨* = *generosity*
 + bountiful [adj]大量的 = *abundant* = *generous* = *ample* = *rife*, 慷慨的 = *munificent* = *generous*
 + [bovine](/ˈbəʊvʌɪn/) [adj]牛的, 遲鈍的/蠢笨的 = *stolid* = *dull* = *blunt* [n]牛 <-- bov, bos 牛
-+ [bowdlerize](/ˈbaʊdlərʌɪz/) [v]刪節/刪改 = *censor*
++ **[bowdlerize](/ˈbaʊdlərʌɪz/)** [v]刪節/刪改 = *censor*
 + brag [v]吹噓 = *boast* = *vaunt* = *vapor* [n](卡牌遊戲)吹牛, 牛皮/大話 [adj] [非]一流的
 + braggart [n]吹噓者/自誇者 = *blowhard*
 + brandish [v]威脅地揮舞 = *wave* = *flourish* = *wield* <|> blandish
 + breathtaking [adj]極其刺激的/美得驚人的/驚人的
 + bromide [n]陳腐的話語 = *platitude*, 鎮靜劑/安眠藥, 溴化物
 - bromine [n]溴
-+ browbeat [v]欺侮/嚇唬/威嚇 = *bully* = *intimidate*
++ **browbeat** [v]欺侮/嚇唬/威嚇 = *bully* = *intimidate*
 + [bridle](/ˈbrʌɪd(ə)l/) [v]抑制/控制 = *restrain* = *refrain* = *curb*, 動怒/不滿 = *resent* [n]馬籠頭/馬勒 <|> bride 
 + broach [v]開瓶, 首次提出(討論) = *moot*, 跳出水面, [船]突然橫轉 [n]橫轉
 + broadside [n]猛烈抨擊, 舷側, 全部舷側砲, 單面印刷的大張紙 [adv]側面地 [v]側面撞上
-+ brook [n]小河 [v]容忍 = *endure* = *abide* = *tolerate* <|> brood
++ **brook** [n]小河 [v]容忍 = *endure* = *abide* = *tolerate* <|> brood
 + [brusque](/brʊsk/) [adj]唐突的/魯莽的 = *abrupt* = *offhand* = *sully* = *brash* --> brusquely [adv]
-+ [bucolic](/bjuˈkɑlɪk/) [adj]鄉村的/田園的 = *rural* = *pastoral* = *idyllic* <-- buc 牛 = *ow* + olic
++ **[bucolic](/bjuˈkɑlɪk/)** [adj]鄉村的/田園的 = *rural* = *pastoral* = *idyllic* <-- buc 牛 = *ow* + olic
 + buck [v]強烈反抗 = *resist* = *oppose* <--> assent, (馬)弓背跳躍 [n]元, 雄鹿/公兔, 莊家標誌 [adj] (軍階)最低一級的
-- buckle [n]帶扣/扣子, 飾扣, 水果蛋糕 [v]扣, [up]繫上安全帶, 使彎曲/弄皺, 精神崩潰
+- buckle [n]帶扣/扣子, 飾扣, 水果蛋糕 [v]扣, [up]繫上安全帶, **使彎曲/弄皺**, **精神崩潰**
 + bumble [v]笨拙地做/弄糟 = *bungle* = *blunder* = *botch* = *muddle*, 雜亂無章地講話, 發出嗡嗡聲 = *buzz* = *hum*
 + bumbling [adj]經常出錯的/無能的 = *incompetent* = *bungling*
 - bumblebee [n]熊蜂/大黃蜂
@@ -316,8 +325,8 @@
 + burgeon [v]快速成長/迅速發展 = *flourish* = *bloom* = *prosper* = *proliferate* = *thrive* <-- bud
 + [burlesque](/bəːˈlɛsk/) [n]滑稽諷刺作品 = *caricature*, 滑稽歌舞雜劇(包含脫衣舞等,盛行於19世紀末至20世紀初的美國) [v]模仿嘲弄 = *parody* = *imitate* = *mock* <-- burl 玩笑 = *jest* + esque
 + burnish [v]擦亮/磨光 = *polish*, 改善 = *improve* = *ameliorate* <|> tarnish <|> furnish <-- brown 法文
-+ bust [n]胸圍, 胸部, 胸像/半身像, 猛烈的一擊, 搜查/逮補, 無用之物 [v]打破/使爆裂, [up]分開, 使混亂, 痛打, [out]逃跑, 點數爆掉, 突襲搜查, 逮補, 經濟困難, [軍]降階 [adj]破產的
-+ bustle [v]奔忙, 催促/趕去, [with]充滿 [n]忙亂/喧囂, 腰墊/裙撐 
++ bust [n]胸圍, 胸部, 胸像/半身像, 猛烈的一擊, **搜查/逮補**, **無用之物** [v]打破/使爆裂, [up]分開, 使混亂, 痛打, **[out]逃跑**, 點數爆掉, 突襲搜查, 逮補, **經濟困難**, [軍]降階 [adj]**破產的**
++ **bustle** [v]奔忙, 催促/趕去, [with]充滿 [n]忙亂/喧囂, 腰墊/裙撐 
 + bustling [adj]熙熙攘攘的/喧囂的, 奔忙的
 - butt [n]屁股 = *buttocks*, 煙蒂, 槍托 [v]用頭或角頂撞
 - buttock [n]屁股
@@ -330,18 +339,19 @@
 * [bare](/bɛː/) [adj]裸的, 光禿禿的, 空的, [of]缺乏的 = *bereft*, 不加掩飾的/赤裸裸的, 僅最基本的, 僅僅的 [v]使赤裸/露出 = *reveal* = *expose*
 * barren [adj]貧脊的 = *desolate* = *sterile*, 不會結果實的 = *sterile*, 徒然的/無成效的 = *futile* = *unproductive*, 不孕的 = *sterile*, 荒涼的 = *bleak* = *lifeless*, 無價值的, [of]缺乏..的 = *devoid* [n]貧瘠的荒地 <|> brazen
 * baste [v] (烤肉)給...抹油脂 = *anoint* = *grease*, 粗縫, 狠揍/毒打 = *lambaste* = *thrash*
-* bear -> bore -> borne [v]具有/帶有, 承載, 被以..稱呼, 支撐(重量), 負責, 經受, 忍受/容忍, 生, 開花/結果, 轉向, [out]支持/證實, [down]努力, [oneself]表現 = *acquit* [n]熊, 泰迪熊, 魯莽的人/笨拙的人, (股市)做空頭者/看跌者
-* bearing [n]姿態, 舉止/風度 = *address*, 關係/關聯 = *relation* = *relevance*, 忍耐/忍受力, 軸承, 方位/方向, 所在位子
+* bear -> bore -> borne [v]具有/帶有, 承載, 被以..稱呼, 支撐(重量), 負責, 經受, 忍受/容忍, 生, 開花/結果, 轉向, **[out]支持/證實**, **[down]努力**, [oneself]表現 = *acquit* [n]熊, 泰迪熊, **魯莽的人/笨拙的人**, (股市)做空頭者/看跌者
+* **bearing** [n]姿態, 舉止/風度 = *address*, 關係/關聯 = *relation* = *relevance*, 忍耐/忍受力, 軸承, 方位/方向, 所在位子
 - bearer [n]帶信人, 抬棺者, 票據或支票的持有人
 * born [adj]出生的/誕生的, 天生的 = *innate*
 * beat [v]打敗/搶先, 打/擊 = *batter* = *clobber* = *lash*, 心跳/跳動, 攪拌 = *agitate* = *stir*, 避開/預防 = *avoid* = *avert* 
-* beef [n]牛肉, 食用牛, 肌肉, *力量*, 要點, *抱怨/牢騷*, 申訴/指控 = *allege* [v]抱怨, [up]加強
-* beget [v] (父親)生 = *engender* = *procreate*, 引起/招致 = *engender* = *cause* = *bring* about
+* beef [n]牛肉, 食用牛, 肌肉, **力量**, 要點, **抱怨/牢騷**, 申訴/指控 = *allege* [v]抱怨, [up]加強
+* beget [v] (父親)生 = *engender* = *procreate*, 引起/招致 = *engender* = *cause* = *bring about*
 * behalf [n]利益, 代表, 就..而言
 * berate [v]嚴責/訓斥 = *criticize* = *vituperate* <-- rate 責罵 = *chide*, scold
-* [beggar](/ˈbɛɡə/) [n]乞丐/窮人 = *mendicant* [v]使貧窮 <|> *boycott*
+* **[beggar](/ˈbɛɡə/)** [n]乞丐/窮人 = *mendicant* [v]使貧窮 <|> *boycott*
 * belittle [v]輕視/貶低 = *detract* = *disparage* = *scorn* = *depreciate* = *downplay* = *disdain* = *trifle*
-* beseech [v]懇求/哀求 = *entreat* --> beseeching [adj]哀求的 = *suppliant* <-- be + seek
+* beseech [v]懇求/哀求 = *entreat* 
+* beseeching [adj]哀求的 = *suppliant* <-- be + seek
 * [bevel](/ˈbɛv(ə)l/) [v]使成斜面 = *cant* [n]斜面/斜邊/斜角 <-- bay
 * bestow [v]給予/授予 = *confer* = *invest* <|> endow <-- stow
 * bicker [v] (為小事)爭吵/口角 = *quibble* = *quarrel* = *squabble*, (水)潺潺, (火光)閃動 <|> mocker <|> pucker <|> hacker
@@ -351,7 +361,7 @@
 * blank [adj]空的/空白的, 留空的, 茫然的, 單調的, 完全的 [n]留空, 空包彈
 * blare [v]發出響而刺耳的聲音 [n]響而刺耳的聲音 <|> flare
 * bless [v]祝福/使神聖 = *sanctify*
-* bigot [n]偏執者/固執己見的人 <|> argot
+* **bigot** [n]偏執者/固執己見的人 <|> argot
 * [bigotry](/ˈbɪɡətri/) [mn]偏執/頑固
 * boast [v]自吹自擂/吹噓/誇耀 = *brag* = *vaunt* = *vapor*, 擁有(自豪的東西) [n]誇耀
 * bode [v][bode well/ill]預示 = *foreshadow* = *omen* <|> bold
@@ -359,22 +369,22 @@
 * botany [n]植物學 <|> litany --> botanical [adj]植物學的 --> botanist [n]植物學家
 * brake [n]煞車, [on]阻礙物, 麻梳, 揉碎機, 鳳尾蕨 = *brake* fern [v]煞住
 * brainchild [n]獨創的觀念
-* brawl [n/v]爭吵/打架 = *quarrel* = *fight* = *fracas*
+* **brawl** [n/v]爭吵/打架 = *quarrel* = *fight* = *fracas*
 * breed -> bred -> bred [v]使繁殖, 繁殖/飼養, 培育/教養 = *nurture*, 引起/產生, 核增殖 [n]品種 = *kind* = *brand*, 種類/類型
 * brew [v]釀造, 泡(茶), 醞釀 [n]釀製飲料/啤酒, [非]啤酒杯, 一瓶/一杯, 醞釀
 - brewery [n]啤酒廠/釀造廠 
-* brood [n]一窩幼鳥, [非]孩子 = *offspring*, 蜂類的幼蟲 = *larvae* [v]擔憂/憂思, 孵蛋 [adj]為繁殖而飼養的 <|> brook
+* brood [n]一窩幼鳥, [非]**孩子** = *offspring*, 蜂類的幼蟲 = *larvae* [v]**擔憂/憂思**, **孵蛋** [adj]為繁殖而飼養的 <|> brook
 * brooding [adj]擔憂的/憂思的 = *apprehensive*, 陰森的/凶險的 
-* brief [adj]精簡的 = *laconic* = *pithy* = *succinct* = *terse*, 短暫的, (衣服)很短的 [v]指示/簡介 --> briefness [n] = *brevity*
-* [bristle](/ˈbrɪs(ə)l/) [n]短而硬的毛髮 [v]毛髮豎起, 生氣 = *bridle* = *fume* = *seethe*, [with]充滿 = *abundant* in <|> gristle
+* brief [adj]精簡的 = *laconic* = *pithy* = *succinct* = *terse*, 短暫的, (衣服)很短的 [v]指示/簡介 --> briefness [n]
+* **[bristle](/ˈbrɪs(ə)l/)** [n]短而硬的毛髮 [v]毛髮豎起, **生氣** = *bridle* = *fume* = *seethe*, **[with]充滿** = *abundant in* <|> gristle
 * [brittle](/ˈbrɪt(ə)l/) [adj]易碎的, 尖利的(聲音), 外強中乾的 [n]果仁薄脆糖
 * browse [v]吃葉, 漫不經心地看商品, 瀏覽/隨便翻閱 [n]瀏覽, 嫩葉/嫩枝
 * buffoon [n]丑角 = *clown*, 粗俗而愚蠢的人 = *fool*
 * bunch [n]串/束, 一群人, 大量 [v]使成束, 使打褶, 成群, (肌肉)隆起 = *bulge*
 * burdensome [adj]麻煩的/惱人的 = *distrssing* = *troublesome*, 繁重的 = *onerous* = *taxing*
-* burst -> burst -> burst [v](使)爆炸/破裂, [bursting with]塞滿/幾乎要脹破, 充滿/心情迫切, 爆出口, 突然打開, 暴衝, 突然做 [n]爆炸/破裂, 爆發/突發, 突然增加/迸發, 一段時期的努力
+* burst -> burst -> burst [v] (使)爆炸/破裂, [bursting with]塞滿/幾乎要脹破, 充滿/心情迫切, 爆出口, 突然打開, 暴衝, 突然做 [n]爆炸/破裂, 爆發/突發, 突然增加/迸發, 一段時期的努力
 
-- baboon [n]狒狒
+- **baboon** [n]狒狒
 - baby-boomer [n]嬰兒潮時期出生的人
 - [bachelorette](/batʃələˈrɛt/) [n]未婚女子, 單身公寓
 - backbreaking, back-breaking [adj]需要勞力的
@@ -382,39 +392,39 @@
 - backfire [v]引擎逆火, 事與願違 = *rebound* [n]逆火, 預先放火(阻斷火災蔓延)
 - backlash [n]強烈反應/強烈反對 = *repercussion*, 後座力, 角度
 - backslapping [adj]互相讚揚/相互祝賀的
-- backsliding [mn]故態復萌
-- backtrack [v]走回頭路/原路返回, 收回說法/改變立場, 追蹤/監控 = *trace* = *monitor*
+- **backsliding** [mn]故態復萌
+- backtrack [v]走回頭路/原路返回, **收回說法/改變立場**, **追蹤/監控** = *trace* = *monitor*
 - backwater [n]回水/滯水, 落後閉塞的地方
 - back-to-back [adj]一個接一個的, 背靠背的
 - back-office [n]事務部門/後勤部門
 - bacterium --> bacteria [n]細菌
 - badge [n]徽章, 象徵 = *sign* [v]授給……徽章 <|> badger <|> budge <|> barge <|> cadge
-- [badinage](/ˈbadɪnɑːʒ/) [mn]玩笑/揶揄 = *banter*
+- **[badinage](/ˈbadɪnɑːʒ/)** [mn]玩笑/揶揄 = *banter*
 - bail [mn]保釋, 保釋金 = *bond* [v]保釋, (從船中)往外舀水, [on]離開/拋棄, [out]跳傘, [out]放棄/退出 <|> parole
 - ball-gown [n]晚禮服
 - bait [n]誘餌 = *enticement* = *allurement* [v]激怒/嘲弄 = *taunt* = *annoy* = *rile*, 使狗攻擊(獵物), 掛餌
-- *bald* [adj]禿頭的, 光禿的, 磨平的(輪胎), 露骨的/單調的
-- *ballad* [n]民謠/民歌 = *ditty* <|> ballot
+- **bald** [adj]禿頭的, 光禿的, 磨平的(輪胎), 露骨的/單調的
+- **ballad** [n]民謠/民歌 = *ditty* <|> ballot
 - ballast [n]壓艙物/鎮重物, (道路、鐵路路基上鋪設的)道渣/碎石 [v]給……裝壓艙物, 給……鋪道渣
 - ballistic [adj]彈道的
 - ballerina [n]芭蕾舞女演員, 芭雷舞鞋 <-- ballet
-- ballot [n]不記名投票 = *poll* = *referendum*, 不記名投票數, 投票用紙, 抽籤 = *lottery* [v](使)投票, 抽籤決定
-- ballpark [n]棒球場, 預估範圍 [adj]大約的
+- ballot [n]不記名投票 = *poll* = *referendum*, 不記名投票數, 投票用紙, 抽籤 = *lottery* [v] (使)投票, 抽籤決定
+- ballpark [n]棒球場, 預估範圍 [adj]**大約的**
 - [balm](/bɑːm/) [n]香脂油/藥膏 = *ointment* = *salve*, 安慰物, 香脂樹, 薄荷一類有香味的植物 [mn]香脂
 - balmy [adj]氣候溫和的 = *mild* = *pleasant*
 - bamboozle [v][非]欺騙
 - band [n]帶/細繩/箍, 樂團, 特定範圍, 波段, 一幫人/一群人 [v]套環/戴上環套, [together]團結/聯合
-- bandy [adj]雙膝向外彎曲的 [v][about/around]提及/議論
+- **bandy** [adj]雙膝向外彎曲的 [v]**[about/around]提及/議論**
 - bandage [n]繃帶 [v]包紮 <|> badinage
 - bang [n]砰的聲音, 猛擊/猛撞, 瀏海 [v]發出砰的一聲/砰砰作響, 猛擊/猛撞, 剪(瀏海) (excl)砰
 - banjo [n]五弦琴/班卓琴
 - banking [mn]銀行業務, 河堤/堤岸 = *embankment*
-- banner [n]旗幟/橫幅, 主張/原則 = *principle* [adj]傑出的/一流的 = *excellent*
+- banner [n]旗幟/橫幅, 主張/原則 = *principle* [adj]**傑出的/一流的** = *excellent*
 - banquet [n]宴會 [v]設宴款待 <|> bouquet
 - barb [n]倒鉤, 倒鉤, 帶刺的話, 蜇/觸鬚, 羽支, 帶有觸鬚的魚, 非洲馬
 - barbecue, barbeque [n]烤肉, 烤肉架 [v]燒烤
 - barbarous, barbaric [adj]殘暴的 = *cruel* = *brutal* = *atrocious* = *savage*, 原始的 = *primitive* = *unsophisticated*, 粗俗的 = *uncivilized* = *crude* = *coarse* = *rude*
-- bargain [n]協議, 物美價廉的東西 = *snip* [v]協議/討價還價 = *dicker* = *haggle*, [for/on]預料/指望 = *expect*
+- bargain [n]協議, 物美價廉的東西 = *snip* [v]協議/討價還價 = *dicker* = *haggle*, **[for/on]預料/指望** = *expect*
 - barge [n]平底貨船/駁船 [v]衝/闖, [in]打擾 = *intrude* = *interrupt*, 用駁船運載
 - bark [n/v]犬吠 [v]厲聲說話/咆哮, 叫賣, 用樹皮裡的單寧酸染色 = *tan* = *dye* [n]樹皮, 巧克力做的外層 <|> balk
 - barn [n]穀倉/馬房/牛舍, 大車庫/大車棚
@@ -422,54 +432,54 @@
 - [barrel](/ˈbar(ə)l/) [n]桶, 槍管/炮筒, 四足動物的腹部或腰肉 [v]放入桶中, 高速行進 = *fang*
 - barter [n/v]以物易物
 - basalt [n]玄武岩
-- bashful [adj]害羞的 = *shy*
+- **bashful** [adj]害羞的 = *shy*
 - basket [n]籃子, 購物車, 一組(投資項目), 籃網, 得分
 - batch [n]一批/一爐, [非]一群 [v]分批
 - bathetic [adj]令人掃興的 <-- bathos + pathetic
 - bathos [mn]突降法 = *anticlimax*
-- battalion [n]營/大隊, 隊伍
-- balustrade [n]欄杆/扶手 = *railing*
+- **battalion** [n]營/大隊, 隊伍
+- **balustrade** [n]欄杆/扶手 = *railing*
 - [bauxite](/ˈbɔːksʌɪt/) [mn]鋁土岩
-- bawling [adj]痛哭的
+- **bawling** [adj]痛哭的 <|> *brawl*
 - bazaar [n]集市/商店集中區/商場 = *marketplace* = *mart*
 - beacon [n]烽火, 燈標, 無線電信標
 - beckon [v]招手/向……示意, 召喚 = *summon*, 吸引 = *attract*
 - beaker [n]大杯子
-- beam [n]樑/桁 = *girder*, 體操平衡木, 船身寬度, [非]臀部寬度, 光線/光束, 流, 笑容/喜色 [v](無線信號)播送/發送, 照耀, 眉開眼笑
-- beard [n]鬍鬚, 山羊鬍, 動物的頜毛, 植物的芒, 同性戀用來隱藏身份的女伴 [v]*公然反對/與……對抗* = *challenge* = *confront*
+- beam [n]樑/桁 = *girder*, 體操平衡木, 船身寬度, [非]臀部寬度, 光線/光束, 流, 笑容/喜色 [v] (無線信號)播送/發送, 照耀, 眉開眼笑
+- beard [n]鬍鬚, 山羊鬍, 動物的頜毛, 植物的芒, 同性戀用來隱藏身份的女伴 [v]**公然反對/與……對抗** = *challenge* = *confront*
 - beau [n]男朋友, 花花公子 = *dandy*
 - bedeck [v]裝飾 = *adorn* = *embellish* = *decorate*
 - bedevil [v]使痛苦, 折磨 = *torment* = *harass*
 - bedlam [mn]混亂/騷亂 = *uproar* = *confusion* = *riot* <--> serenity
-- *bedraggled* [adj]全身泥汙的
+- **bedraggled** [adj]全身泥汙的
 - bedside [n]床邊
-- beetle [n]甲蟲, 木槌 [v][非]匆忙趕住, 用槌打/用杵搗, 凸出 [adj] (眉毛)粗濃的
-- befall [v](壞事)降臨於(某人)
+- beetle [n]甲蟲, 木槌 [v]**[非]匆忙趕往**, 用槌打/用杵搗, 凸出 [adj] (眉毛)粗濃的
+- befall [v] (壞事)降臨於(某人)
 - befit [v]合適 = *suit*
 - belated [adj]遲來的 = *delayed*
 - [beleaguer](/bɪˈliːɡə/) [v]圍攻 = *besiege*, 使..處於困境 <-- leaguer
-- *belch* [n/v]打嗝, 大量排放
-- *belletrism* [n]純文學至上主義
+- **belch** [n/v]打嗝, 大量排放
+- **belletrism** [n]純文學至上主義
 - bellow [v]低吼/怒吼, 大聲叫, 大聲亂唱 [n]低吼/怒吼
 - bellwether [n]領頭羊/領導者 <-- wether
-- bench [n]長凳, 工作臺, 法官席, 法官或官員職位, 英國議會議席, 替補隊員席 [v]把(場上隊員)換下, 臥推
+- bench [n]長凳, 工作臺, **法官席**, 法官或官員職位, 英國議會議席, 替補隊員席 [v]把(場上隊員)換下, 臥推
 - benchmark [n]基準, 標準檢查程式 [v]用標準衡量, 給出檢查結果
-- *bereave* [v]使喪失(近親)
+- **bereave** [v]使喪失(近親)
 - brethren [n]教友/同志
 - beset [v]使困擾, 圍住 = *hem* in [adj]困擾的
-- bespeak -> bespoke -> bespoken [v]*證明/表示* = *indicate*, *預定/預約* = *order* = *reserve* 
-- *bespoke* [adj]訂做的/定制的 
-- bestial [adj]動物的, 殘忍的 = *barbarous* = *savage*
+- **bespeak** -> bespoke -> bespoken [v]證明/表示 = *indicate*, 預定/預約 = *order* = *reserve* 
+- **bespoke** [adj]訂做的/定制的
+- **bestial** [adj]動物的, 殘忍的 = *barbarous* = *savage*
 - betroth [v]使訂婚/許配 = *engage* <-- troth
 - beverage [n]飲料 = *drink* <-- bever 喝 = *drink* + age 
 - bilge [n]艙底 [mn]船底汙水, [非]無聊的話 = *nonsense* = *rubbish* <|> barge
-- *billiards* [n]撞球
-- billow [n]波濤 [v](纖維)鼓起, 翻騰 
+- **billiards** [n]撞球
+- billow [n]波濤 [v] (纖維)鼓起, 翻騰 
 - billowy [adj]巨浪似的/洶湧的 = *surging*
 - bin [n]大箱子 [v][非]把…扔進垃圾箱, 丟棄 = *discard*, [off]結束與..的關係, 把……貯藏在箱中
-- binder [n]裝訂, 黏結劑/繩索/帶子, 割捆機, 裝訂工
+- **binder** [n]裝訂, 黏結劑/繩索/帶子, 割捆機, 裝訂工
 - bit [n]鑽頭/錐, 少許, 硬幣, 馬勒
-- *bisque* [n]貝類濃湯, 讓分, 素燒陶器 = *biscuit*, 淡褐色 = *biscuit*
+- **bisque** [n]貝類濃湯, 讓分, 素燒陶器 = *biscuit*, 淡褐色 = *biscuit*
 - blackout [n]斷電時期/斷電/停電, 暫時暈倒/暫時失去知覺, 消息封鎖
 - *blacktop* [n]瀝青質原料, 柏油路
 - blade [n]刀鋒/刀口, 劍, (螺旋槳)片/葉, 肩胛骨/髆 = *blade* bone, 草葉, [非]有活力的年輕男子 [v][非]穿溜冰鞋滑 <|> blare <|> blaze
@@ -477,19 +487,19 @@
 - blast [n]爆炸/爆破, 突擊, 疾風, 鳴響, 猛烈的批評, 狂歡會 [v]炸開, 炸傷, 炸飛, 開火, 吹奏/鳴響, 嚴厲批評, 使枯萎, 破壞
 - blaze [v]燃燒, 開火 [n]大火, 絢爛/炫目
 - blazon [n]紋章/裝飾 [v]印製/精確描繪, 宣揚/誇示 = *emblazon* = *adorn* <--> efface
-- *bleat* [v]咩咩叫, 哭訴/抱怨 [n]咩咩聲, 顫抖可憐的聲音, 抱怨
+- **bleat** [v]咩咩叫, 哭訴/抱怨 [n]咩咩聲, 顫抖可憐的聲音, 抱怨
 - bleed [v]出血/流血, 抽血, 榨取(金錢或資源), 放氣, [into]干擾 = *interfere*
 - blindfold [n]眼罩 [v]蒙住(眼睛) [adj]被蒙住眼睛的 [adv]盲目地, 輕易地
-- *blip* [n]光點, 暫時的改變/臨時的變化
-- blister [n]皮膚上的水泡, 水泡/氣泡 [v](使)起水泡或氣泡
-- blistering [adj] (溫度)極高的, 憤怒的/猛烈的(批評), 極快的/驚人的 = *fast* = *impressive*
+- **blip** [n]光點, 暫時的改變/臨時的變化
+- **blister** [n]皮膚上的水泡, 水泡/氣泡 [v] (使)起水泡或氣泡
+- blistering [adj] (溫度)極高的, **憤怒的/猛烈的(批評)**, **極快的/驚人的** = *fast* = *impressive*
 - blizzard [n]暴風雪
 - bloat [v] (使)膨脹 = *bulge* = *swell*, 醃燻(鯡魚) [mn]脹氣
 - blob [n]一滴/一團, 零分 [v]弄髒/塗抹
-- *bloc* [n] (為共同目的而組成的)聯盟/集團/陣營
+- **bloc** [n] (為共同目的而組成的)聯盟/集團/陣營
 - blockade [n/v] (地區)封鎖
 - blockage [n]障礙物/堵塞
-- *blockbuster* [n]賣座鉅作
+- **blockbuster** [n]賣座鉅作
 - [bloom](/bluːm/) [v]開花, 成長茁壯, 發光, 鍛鐵 [n]鍛鐵塊, 花, 花期, 白霜, 藻華/優養化
 - blooming [adj]盛開的, 精力旺盛的 = *thriving*
 - blot [v]弄髒 = *smudge* = *stain*, 吸乾/擦掉 = *ink*, 使蒙恥, [out]把……弄模糊/遮暗 [n]墨水漬/污漬 = *blotch*, 汙點, 瑕疵 <|> bolt
@@ -497,32 +507,32 @@
 - blowhard [n]吹牛者/自吹自擂的人 = *braggart* = *braggadocio*
 - blowout [n]爆胎, (油或天然氣)井噴, (生氣)爆發 = *outburst*, [非]盛宴, 特賣, [非]輕易取勝, 吹乾, 風蝕凹洞
 - blubber [n]鯨脂/鯨油 = *rind*, [非]脂肪 [v][非]號啕大哭 = *sob*
-- blue [adj]藍色的, [非]憂鬱的/沮喪的 = *depressed* = *sad* = *melancholy*, [非]色情的/成人的 [n]藍色 [v]使成藍色
+- blue [adj]藍色的, [非]憂鬱的/沮喪的 = *depressed* = *sad* = *melancholy*, [非]**色情的/成人的** [n]藍色 [v]使成藍色
 - blueprint [n]藍圖, 方案/計畫 = *plan* [v]策劃 = *draw* up
-- bluff [n]虛張聲勢 [v]以假象欺騙/嚇唬, [bluff it out]以虛張聲勢矇混過關 [adj]坦率的, 陡峭的 [n]陡岸/懸崖
-- *blunder* [n] (通常由於粗心或欠考慮而釀成的)大錯 [v]跌跌撞撞地走, 釀成大錯/犯大錯 <|> asunder <-- blind
+- bluff [n]虛張聲勢 [v]以假象欺騙/嚇唬, [bluff it out]以虛張聲勢矇混過關 [adj]**坦率的**, 陡峭的 [n]陡岸/懸崖
+- **blunder** [n] (通常由於粗心或欠考慮而釀成的)大錯 [v]跌跌撞撞地走, 釀成大錯/犯大錯 <|> asunder <-- blind
 - blur [n]模糊不清的事物(景象或記憶) [v]使模糊 <|> slur <|> blurt <|> blurb <|> blunt
 - blurb [n] (書的)簡介/推薦語 [v][非]寫推薦語
 - blurt [v]脫口而出
-- blush [n/v]尷尬臉紅 [v]變成紅色 [n]紅色 <|> brush <|> flush <|> lush
+- **blush** [n/v]尷尬臉紅 [v]變成紅色 [n]紅色 <|> brush <|> flush <|> lush
 - blusher [n]胭脂/腮紅
 - bluster [v] (風雨)呼嘯, 咆哮 = *roar* = *shout* [mn]咆哮 
 - blustering [adj]狂風大作的, 吵鬧的/恐嚇的 <|> blast
 - boardwalk [n]沿海灘鋪成的木板路
 - boatload [n]一船, [非]大量
-- bob [v]上下或來回快速擺動, 突然冒出/突然消失, 行屈膝禮, 剪成短髮, 騎有舵雪橇 [n]上下或來回快速擺動, 屈膝禮, 短髮, 鐘擺/秤錘, 有舵雪橇 = *bobsleigh*
+- bob [v]上下或來回快速擺動, **突然冒出/突然消失**, **行屈膝禮**, 剪成短髮, 騎有舵雪橇 [n]上下或來回快速擺動, 屈膝禮, 短髮, 鐘擺/秤錘, 有舵雪橇 = *bobsleigh*
 - bodyguard [n]保鑣/侍衛
 - bog [n]沼澤 = *swamp* = *marshland* [v][be/get bogged down]陷入泥沼
-- *boggle* [v]使困惑/使難以想像 = *confuse* = *bewilder*, 使震驚 = *astonish*, [at]猶豫不決(因吃驚) = *hesitate* <|> goggle
+- **boggle** [v]使困惑/使難以想像 = *confuse* = *bewilder*, 使震驚 = *astonish*, [at]猶豫不決(因吃驚) = *hesitate* <|> goggle
 - boil [v]沸騰, 煮熟, 翻滾/翻騰, 激動 [n]沸點, 煮沸, 激烈, 癤/瘡
 - bolt [n]閃電, 門閂/螺栓, 弩箭, 一匹/一捲 [v]閂上(門窗) = *lock*
-- *bonanza* [n]發財機遇, 繁榮/興盛
-- bond [n]聯繫/關係, 鐐銬/枷鎖, 契約/合約 = *contract*, 公債/債券, 保釋金 = *bail*, 化學鍵 = *chemical* bond [v]使……黏合/使結合, 建立關係, 以化學鍵結合, 把(進口貨物)存放保稅倉庫
+- **bonanza** [n]發財機遇, 繁榮/興盛
+- bond [n]聯繫/關係, 鐐銬/枷鎖, 契約/合約 = *contract*, 公債/債券, **保釋金** = *bail*, 化學鍵 = *chemical* bond [v]使……黏合/使結合, 建立關係, 以化學鍵結合, 把(進口貨物)存放保稅倉庫
 - bondage [mn]奴役 = *slavery* = *servitude*
-- bonnet [n]女帽/童帽, (蘇格蘭男子或男孩戴的)無邊呢帽, (煙囪的)蓋子/罩子 <|> sonnet
+- **bonnet** [n]女帽/童帽, (蘇格蘭男子或男孩戴的)無邊呢帽, (煙囪的)蓋子/罩子 <|> sonnet
 - bony [adj]骨頭的, (魚肉)很多骨頭的, 瘦削的
 - boob [n]愚蠢之人 = *boor*, [boobs]乳房
-- *bookend* [n]書夾/書擋 [v]被夾在
+- **bookend** [n]書夾/書擋 [v]被夾在
 - boost [n/v]增加/提高/改善, 往上推 = *lift* [v][非]偷 = *steal*
 - booth [n]貨攤, 公用電話亭/投票站/隔開的小房間 = *compartment*
 - bootless [adj][古]無用的/無益的 = *useless*
@@ -530,7 +540,7 @@
 - bosom [n]女性的胸部, 遮住胸部的衣物, 衣服的胸襟, 胸懷/內心 [adj]知心的/親密的
 - botch [v]搞砸 = *bungle* = *blunder* [n]混亂/一團糟 <|> blotch <|> notch
 - boulder [n]巨石 <|> shoulder
-- *[boulevard](/ˈbuːləvɑːd/)* [n]大街/大道
+- **[boulevard](/ˈbuːləvɑːd/)** [n]大街/大道
 - bouquet [n]花束, 讚美 = *compliment*, (酒或香水)芳香 <|> banquet <|> boutique
 - [bourgeois](/ˈbʊəʒwɑː/) -> bourgeois [adj]中産階級的/追求物質享受的 = *materialistic* [n]中產階級者
 - bout [n]一回/一陣, 復發, 比賽
@@ -544,10 +554,10 @@
 - braid [n]穗帶, 髮辮 = *plait* [v]編成辮子 = *plait*
 - Braille [n]點字
 - brash [adj]性急的/無禮的, 鋪張的/沒品味的, 易碎的 = *brittle* [n]碎片/殘枝
-- brat [n]小孩/頑童, [非]德國油煎香腸醬
-- bray [n]驢叫聲 [v](驢)叫, 粗聲粗氣地講話
-- *brawny* [adj]強壯的 = *strong* = *muscular*
-- breach [n/v]破壞/違反/入侵 = *break* = *violate* [v]衝破/突破, (鯨魚)跳出水面 [n]鬧翻/絕交, 破裂/裂痕
+- **brat** [n]小孩/頑童, [非]德國油煎香腸醬
+- **bray** [n]驢叫聲 [v] (驢)叫, 粗聲粗氣地講話
+- **brawny** [adj]強壯的 = *strong* = *muscular*
+- breach [n/v]破壞/違反/入侵 = *break* = *violate* [v]衝破/突破, (鯨魚)跳出水面 [n]**鬧翻/絕交**, 破裂/裂痕
 - breadth [mn]寬度 = *width*, 廣泛性/廣度
 - breakdown [n]故障/失靈, 崩潰, 分解, 分析
 - breakneck [adj]高速而危險的
@@ -555,13 +565,13 @@
 - breeze [n]微風, 輕而易舉的事 [v]飄然而行, 輕易地通過
 - breezy [adj]有微風的, 輕鬆活潑的
 - bribe [n/v]賄賂 = *graft* = *entice* = *seduce* <|> bride
-- *bric-a-brac* [n](不值錢的)小裝飾品/小擺設
+- **bric-a-brac** [n]不值錢的小裝飾品/小擺設
 - bricklayer [n]砌磚工/泥瓦匠
 - bride [n]新娘 <|> bridle <|> bribe
 - brim [n]帽簷, 緣 [v][with]充滿
 - brine [n]濃鹽水, 海水, 鹵水 [v]用濃鹽水浸泡
 - brink [n](峭壁的)邊緣 = *fringe* = *edge*, (事件發生的)邊緣 = *edge* = *verge*
-- *brio* [n]活潑
+- **brio** [n]活潑
 - brisk [adj]活潑的/生氣勃勃的 = *bracing* = *invigorating* = *vigorous*, (天氣)寒冷而清新的 [v][up]加快 = *quicken*
 - broaden [v]擴大 = *widen*, 增加
 - [brochure](/ˈbrəʊʃə/) [n]小冊子 = *booklet*
@@ -570,10 +580,10 @@
 - brooch [n]胸章
 - broom [n]掃帚, 金雀花
 - brow [n]額頭 = *forehead*, 眉毛 = *eyebrow*, 山頂/峭壁頂端
-- *brunette*, *brunet* [n]深褐髮年輕女子 [adj]有深褐頭髮的, (頭髮)深褐色的
+- **brunette**, **brunet** [n]深褐髮年輕女子 [adj]有深褐頭髮的, (頭髮)深褐色的
 - bruise [n/v]擦傷/瘀青 = *contusion*, 碰傷 [v]傷害(情感), 搗碎(食物) = *pound* = *crush* <|> cruise
-- *[bruit](/bruːt/)* [v][about/abroad/around]散佈(謠言)
-- brunt [n]最糟糕的部分/主要的影響 <|> blunt
+- **[bruit](/bruːt/)** [v][about/abroad/around]散佈(謠言)
+- **brunt** [n]最糟糕的部分/主要的影響 <|> blunt
 - brush [n]刷子, 刷, 一刷/一拂, 短暫的遭遇, 狐狸尾巴, 畫筆, 矮樹叢 = *shrub*, 斷樹枝/小樹枝 [v]擦掉/拂去, 刷牙, 梳頭髮, 輕觸/輕撫, 輕推
 - brutal [adj]殘忍的 = *atrocious* = *bestial* = *barbarous* = *savage*, 嚴酷的 = *harsh*, 赤裸裸的 = *bare*
 - bucket [n]圓桶, 一桶, [buckets][非]大量 [v][交通工具]急速或顛簸著行進
@@ -581,38 +591,38 @@
 - budding [adj]萌芽的, 發育期的, 含苞待放的
 - budge [v]稍微移動, 改變立場 = *sway*
 - budget [n]預算 [v]制訂預算 [adj]低廉的 = *cheap*
-- *buff* [n]愛好者, 暗黃色, 暗黃皮革, 擦拭輪 [v]擦亮/擦淨
+- **buff** [n]愛好者, 暗黃色, 暗黃皮革, 擦拭輪 [v]擦亮/擦淨
 - buffer [n]緩衝物/緩衝人 [v]緩沖
 - buffet [n]自助餐, 餐車/快餐部, 餐具櫃/碗櫥 = *sideboard*, *打撃*, *不幸* [v]連續猛撃/打撃, 折磨 = *afflict* 
-- *[bugle](/ˈbjuːɡ(ə)l/)* [n]軍號/號角, 匍匐筋骨草, (裝飾女服用的)柱狀玻璃小珠 [v]吹號 
+- **[bugle](/ˈbjuːɡ(ə)l/)** [n]軍號/號角, 匍匐筋骨草, (裝飾女服用的)柱狀玻璃小珠 [v]吹號 
+- **bulge** [n/v]凸起/鼓起 = *bloat* = *swell*, 充滿 [n]激增/上漲 <|> budge <|> bilge <|> bugle
+- bulgur [n]小麥片
 - buildup [n]累積/增加, 事前準備期, 事前宣傳
 - [bulb](/bʌlb/) [n]球莖, 燈泡
-- *bulge* [n/v]凸起/鼓起 = *bloat* = *swell*, 充滿 [n]激增/上漲 <|> budge <|> bilge <|> bugle
-- bulgur [n]小麥片
-- [bulk](/bʌlk/) [n]大小/質量, 巨大, 重, 大量, 纖維性物質, 散裝貨物, 紙張厚度, 大部分/大多數 [v]變得重要/顯得巨大, 組合(銷售), [up]增重/變壯實
-- bully [n]惡霸, [非]罐頭牛肉 [v]欺負/欺淩 = *browbeat* = *oppress* [adj][非]特好的
-- bulwark [n]壁壘, 防波堤
-- *bum* [n]流浪漢 = *vagrant* = *hobo*, 遊手好閒的人, 愛好者 [v][around]閒晃/消磨, 求取 [adj]糟糕的
-- bummer [n]*令人不愉快或不滿意的事物*, 流浪漢 = *bum*
+- [bulk](/bʌlk/) [n]大小/質量, 巨大, 重, 大量, 纖維性物質, **散裝貨物**, 紙張厚度, 大部分/大多數 [v]**變得重要/顯得巨大**, 組合(銷售), [up]增重/變壯實
+- bully [n]惡霸, [非]罐頭牛肉 [v]欺負/欺淩 = *browbeat* = *oppress* [adj]**[非]特好的**
+- **bulwark** [n]壁壘, 防波堤
+- **bum** [n]流浪漢 = *vagrant* = *hobo*, 遊手好閒的人, **愛好者** [v]**[around]閒晃/消磨**, **求取** [adj]糟糕的
+- **bummer** [n]令人不愉快或不滿意的事物, 流浪漢 = *bum*
 - bump [v]碰撞/顛簸, 碰傷/撞傷, 顛簸著行進, 置頂, 推, 拒絕..登機, 頂替, [into]巧遇 [n]碰撞/顛簸, 凸塊 = *protuberance*, 腫塊, 增加, 置頂
 - bumper [n]保險槓, 緩衝器 [adj]特大的/豐盛的
 - bumpkin [n]土包子/鄉下佬
 - bunk [n]架式床舖, [非]胡説/瞎話 = *nonsense* [v]睡在架式床舖上
 - bunker [n]燃料儲存槽, 地堡
-- *bumptious* [adj傲慢的/自以為是的 = *arrogant* = *brash* = *self*-assertive
+- **bumptious** [adj]傲慢的/自以為是的 = *arrogant* = *brash* = *self*-assertive
 - bungle [v]弄糟/把...搞砸 = *botch* = *bumble* = *blunder* = *muddle* [n]混亂 <|> jungle
 - bungling [mn]搞砸 [adj]笨拙的/拙劣的 = *bumbling*
 - bureau [n] (政府機構的)局/司/署/處, 辦事處/辦公室/聯絡處
-- *burglary* [n]破門竊盜
-- *[burgher](/ˈbərɡər/)* [n]市民
+- **burglary** [n]破門竊盜
+- **[burgher](/ˈbərɡər/)** [n]市民
 - burial [mn]埋葬 = *interment* [n]葬禮 = *funeral*, 墓地
 - burnout [n]燃料燒盡, 過熱, 精疲力竭
 - [burp](/bəːp/) [v]打嗝 = *hiccup*, 使…打嗝 [n]打嗝聲
 - burrow [n]洞穴/地道 [v]挖地洞/挖通道, 藏起, 尋找/探索 = *investigate*
-- *butler* [n]司膳總管
-- *buyout* [n]收購
-- buzz [n]嗡嗡聲, 一通電話, 熱鬧, 愉快, 謠言 [v]發出嗡嗡聲, 充滿嗡嗡聲, 打電話, 充滿, 快速地走, [in]允許..進入
-- buzzed [adj]*喝醉的/微醺的* = *tipsy* = *stoned*
+- **butler** [n]司膳總管
+- **buyout** [n]收購
+- buzz [n]嗡嗡聲, 一通電話, 熱鬧, 愉快, **謠言** [v]發出嗡嗡聲, 充滿嗡嗡聲, 打電話, **充滿**, 快速地走, **[in]允許..進入**
+- **buzzed** [adj]喝醉的/微醺的 = *tipsy* = *stoned*
 - buzzword [n][非]裝模作樣的專門語/行話 = *buzz* phrase
 - byline [n]報刊雜誌的署名行
 - byproduct [n]副產品, 副作用
@@ -622,13 +632,13 @@
 + cachinnate [v]放聲大笑
 + [cadge](/kadʒ/) [v]乞討/乞得 = *beg*, 佔便宜 = *sponge* <|> budge <|> badge
 + cadaverous [adj]蒼白的/憔悴的/骨瘦如柴的 = *emaciated* = *gaunt* <-- cadaver 屍體 = *corpse*
-+ [cajole](/kəˈdʒəʊl/) [v](以甜言蜜語)哄騙/誘騙 = *coax* = *wheedle* = *inveigle* = *blandish*
++ [cajole](/kəˈdʒəʊl/) [v]以甜言蜜語哄騙/誘騙 = *coax* = *wheedle* = *inveigle* = *blandish*
 + callow [adj](尤指年輕人)不成熟的/缺乏經驗的 = *immature* = *inexperienced*
 + [callus](/ˈkaləs/) [n]老繭(手腳上的)
 + [callous](/ˈkaləs/) [adj]無情的/漠不關心的 = *insensitive* = *indifferent* = *unsympathetic*
 + caliber [n]水準/程度, 口徑, 直徑 = *diameter*
 + calibrate [v]校準/校正, 劃分刻度/標定
-+ [calumny](/ˈkaləmni/) [n]誹謗/誣衊/中傷 = *aspersion* = *slander* 
++ **[calumny](/ˈkaləmni/)** [n]誹謗/誣衊/中傷 = *aspersion* = *slander* 
 + calumniate [v]誹謗/誣衊 = *besmirch* = *denigrate* = *defame* = *depreciate* = *derogate* = *malign* = *slander* = *vilify*
 + calumnious [adj]誹謗的 = *defamatory*
 + [canard](/kəˈnɑrd/) [n]虛假新聞/謊報/假消息
@@ -638,9 +648,9 @@
 * **canonical** [adj]**根據教會法的**, **權威的** [n]禮服/法衣
 * [canoe](/kəˈnuː/) [n]獨木舟 [v]划獨木舟 <|> canon <|> cannon <|> canyon
 + castrate [v]閹割, 使喪失力量 [n]被閹割的人或動物 <-- castr 閹割 = *geld*
-+ [cant](/kant/) [n]斜面/斜坡 = *slant*, 偽善之言, 隱語/術語/行話 = *argot* [v]使傾斜 = *bevel*
-+ cantankerous [adj]易怒的 = *crabbed* = *irritable* = *irascible* = *peevish* = *grumpy* = *fractious* 
-+ caparison [n]馬衣, 盛裝 = *adornment* [v]給馬披掛裝飾, 盛裝打扮
++ [cant](/kant/) [n]斜面/斜坡 = *slant*, **偽善之言**, 隱語/術語/行話 = *argot* [v]使傾斜 = *bevel*
++ **cantankerous** [adj]易怒的 = *crabbed* = *irritable* = *irascible* = *peevish* = *grumpy* = *fractious* 
++ caparison [n]馬衣, **盛裝** = *adornment* [v]給馬披掛裝飾, 盛裝打扮
 + [caprice](/kəˈpriːs/) [n]反覆無常/突發奇想/任性 = *whim* = *inconstancy* = *vagary*
 + capricious [adj]反覆無常的 = *fickle* = *flighty* = *mercurial* = *unpredictable* = *whimsical* = *volatile*
 + case [n]具體情況/實例, 案件, 案例/病例, 訴訟案/案件, 論點/論據, [文]格, 箱/盒, 殼, 行李箱, 大小寫 [v]把……裝入箱中, 盜竊前的事先察看
@@ -649,13 +659,13 @@
 + [causal](/ˈkɔzəl/) [adj]原因的/因果關係的 <|> casual --> causality [n]因果關係 <-- cause 
 + **categorical** [adj]明確的 = *explicit* = *absolute* <-- category
 + cater [v]提供飲食/承辦(宴席), [for/to]提供 = *provide with*, [to]迎合/投合 = *satisfy* = *humor*
-+ [catholic](/ˈkaθ(ə)lɪk/) [adj]廣泛的/包羅萬象的 = *overarching* = *all-embracing* = *general* = *comprehensive*
++ [catholic](/ˈkaθ(ə)lɪk/) [adj]廣泛的/包羅萬象的 = *overarching* = *all-embracing* = *comprehensive*
 + caucus [n]政黨高層會議/幹部會議 <|> cactus
 + cautious [adj]謹慎的/小心的 = *chary* = *prudent* = *wary*
 + cavil [n/v]挑毛病/吹毛求疵 = *quibble* = *carp* <|> civil
 + [celestial](/sɪˈlɛstɪəl/) [adj]天體的/天空的, 精妙的/極佳的 = *sublime* = *ethereal* <-- celest 天空 = *heaven*, sky
 + [ceramic](/sɪˈramɪk/) [adj]陶器的, 陶製的 [n]陶器 [mn]製陶藝術, 陶/陶器的原料, 加熱後變硬的物質 <--> porcelain <--> earthenware <--> ware <--> terracotta
-+ **[chagrin](/ʃəˈɡrɪn/)** [v]使受屈辱/使懊惱 = *humiliate* = *distress* [n]懊惱/悔恨/苦惱 = *annoyance* = *distress* 
++ **[chagrin](/ʃəˈɡrɪn/)** [v]**使受屈辱/使懊惱** = *humiliate* = *distress* [n]懊惱/悔恨/苦惱 = *annoyance* = *distress* 
 + champion [v]支持/擁護 = *support* = *advocate* [adj][非]優秀的/第一流的 = *excellent* [n]冠軍, 擁護者
 + chaotic [adj]混亂的/無秩序的 = *disordered* = *confused*
 * character [n]性格/特質, 好名聲/名譽, 人物/角色, 符號/字 [v]描述 = *describe*
@@ -664,13 +674,14 @@
 + charge [v]索價, 指控, 委託/委任, 充電, 填充/裝滿, 瀰漫/充滿, 衝鋒 [n]價錢, 指控, 責任, 被委託的人, 火藥, 衝鋒
 * charged [adj]引起強烈感情的/引起激烈爭執的, 帶電的
 + **[charlatan](/ˈʃɑːlət(ə)n/)** [n]騙子/不懂裝懂的人
-+ chary [adj]小心的/審慎的 = *careful* = *cautious*
++ **chary** [adj]小心的/審慎的 = *careful* = *cautious*
 + chauvinism [n]沙文主義/大國沙文主義/男性沙文主義 = *jingoism*
 + chauvinist [n]沙文主義者 
 + chauvinistic [adj]沙文主義/大男人主義的/本國至上主義的/盲目愛國的
 + check [v]檢查/核對/確認, 阻礙/抑制/阻止 = *arrest* = *hinder* = *deter* = *stymie* = *hamper* = *thwart*, 托運(行李), 寄存/寄放 = *lodge* [n]檢查/核對, 控制 = *control* = *restraint*, 支票, 餐廳帳單, (寄放物品的)對碼牌, 勾 = *check* mark = *tick*
-+ checker, chequer [n]棋盤花紋, 出納員/審核員 [v]使交替變化 --> checkered [adj]顏色圖案交替變化的, 成敗參半的/盛衰多變的
-- checkup [n]健康檢查
++ checker, chequer [n]棋盤花紋, 出納員/審核員 [v]使交替變化
++ checkered [adj]顏色圖案交替變化的, **成敗參半的/盛衰多變的**
+- **checkup** [n]健康檢查
 + cherish [v]珍愛/愛護, 抱有/懷有 = *entertain* = *harbor*
 + **[chicane](/ʃəˈkeɪn/)** [v]詐騙/欺騙 = *deceive* = *defraud* = *bilk* 
 + chicanery [n]詭計/欺詐 = *trickery* = *fraud* = *deceit*
@@ -685,7 +696,7 @@
 + clannish [adj]排外的/排他的
 + clandestine [adj]秘密的/暗中從事的(違法的的活動) = *surreptitious*
 + [clang](/ˈklaŋ/) [v]叮噹作響/發出噹啷聲 <|> cling 
-+ clangor [n]吵鬧/喧嚷 = *clamorous* noise, 連續的鏗鏘聲響
++ clangor [n]吵鬧/喧嚷 = *clamorous noise*, 連續的鏗鏘聲響
 + clearheaded [adj]頭腦清楚的 <--> lightheaded
 + clergy [n]牧師 <--> laity 
 - clergyman [n]男牧師
@@ -694,7 +705,7 @@
 + clemency [mn]寬容 = *mercy* = *lenience* <|> cement
 + [cliche](/ˈkliːʃeɪ/) [n]陳腔濫調 = *platitude* = *commonplace* 
 + cliched [adj]陳腐的 = *stale* = *trite* = *banal* = *hackneyed*
-* click [v]發出喀嚓聲, 點擊, 變得明白, 一見如故/立刻成為朋友, 進行順利/成功 [n]卡嗒聲/喀嚓聲
+* click [v]發出喀嚓聲, 點擊, 變得明白, 一見如故/立刻成為朋友, **進行順利/成功** [n]卡嗒聲/喀嚓聲
 + [clique](/ˈklik/) [n]小集團/小圈子/派系 = *coterie* = *faction* <-- click
 + [cloak](/kləʊk/) [v]掩蓋/掩飾/籠罩 = *conceal* = *hide* = *mask*, 使披上斗篷 [n]斗篷/披風, 幌子/藉口 <|> [clock](/klɒk/)
 + **cloister** [n]修道院/寺廟 = *monastery*, (宗教建築的)迴廊 [v]與塵世隔絕/隱居 = *seclude* = *confine*
@@ -705,12 +716,13 @@
 * [clutter](/ˈklʌtə/) [v]亂堆在/塞滿 [n]散亂的東西, 凌亂/雜亂 <|> cluster
 + coarse [adj]粗糙的/不柔軟的, 低劣的 = *unpolished*, 粗俗的 = *crude* = *rude* = *vulgar* = *obscene* = *ribald* <|> hoarse
 + [coax](/koʊks/) [v]哄勸/哄騙/勸誘 = *cajole* <-- cokes 笨蛋
-+ coda [n](樂曲的或演講、事件、文章的)結尾/尾聲
++ coda [n] (樂曲的或演講、事件、文章的)結尾/尾聲
 * code [n]法典/法規, 規範/規矩, 密碼/代碼
 + codify [v]編纂(法典、條例等) = *systematize* <-- code
 + cogitate [v]深思熟慮 = *deliberate* = *ponder* = *meditate*
-+ cogitative [adj]深思熟慮的 = *deliberated* --> cogitation [n]仔細思考/深思
-+ cope [v]應付/處理 = *deal* with, 蓋住(建築) [n]斗篷式長袍/法衣
++ cogitative [adj]深思熟慮的 = *deliberated* 
++ cogitation [n]仔細思考/深思
++ cope [v]應付/處理 = *deal with*, 蓋住(建築) [n]斗篷式長袍/法衣
 + [coerce](/koʊˈərs/) [v]強迫/威逼/脅迫 = *force* = *compel* = *constrain* = *obtrude*
 + coercion [n]強制/強迫, 高壓統治 <|> coalesce
 + coffer [n]保險箱, 資金/金庫 <-- coffin
@@ -725,13 +737,13 @@
 + comrade [n]朋友/同志 --> camaraderie, comradeship [n]同志情誼/友情
 + [connoisseur](/ˌkɒnəˈsəː/) [n]鑒賞家/行家 <-- cognoscible
 + [conundrum](/kəˈnʌndrəm/) [n]難題/複雜的問題 = *riddle*, (以雙關為答案的)謎語
-+ [coquet](/koʊˈkɛt/) [v]賣弄風情/挑逗 = *flirt* <-- coq [法]cock 公雞
++ **[coquet](/koʊˈkɛt/)** [v]賣弄風情/挑逗 = *flirt* <-- coq [法]cock 公雞
 + coquette [n]賣弄風情的女子
 + corpulent [adj]肥胖的 = *obese*
 + [correlate](/ˈkɒrələt/) [v][with]相互關係/相關 [n]相關聯的人或物 
 + correlation [n]相互關係/聯繫
-+ [cosset](/ˈkɒsɪt/) [v]過度保護/溺愛 = *pamper* = *coddle* = *mollycoddle* <-- coss [古]kiss
-+ coterie [n]小圈子/小團體 = *clique* <-- cote [德]佃農 = *cotter*
++ **[cosset](/ˈkɒsɪt/)** [v]過度保護/溺愛 = *pamper* = *coddle* = *mollycoddle* <-- coss [古]kiss
++ **coterie** [n]小圈子/小團體 = *clique* <-- cote [德]佃農 = *cotter*
 + **countenance** [n]臉色/表情 [mn]支持/贊同 = *approval* = *support* [v]贊同/支持 = *approve* <--> discountence
 * court [n]球場, 庭院, 法院/法庭, 全體出庭人員/全體審判人員, 宮廷/皇室 [v]求愛 = *woo*, 求偶, 求取(注意或支持), 招致/招惹(不幸)
 * courtier [n]廷臣/朝臣 <|> courier
@@ -746,31 +758,31 @@
 + coward [n]膽小鬼 
 + cowardly [adj]懦弱的/膽小的 = *craven* = *pusillanimous* = *timid*
 + cowardice [mn]膽小/懦弱
-+ [cozen](/ˈkʌz(ə)n/) [v]欺騙 = *chicane* = *deceive* = *dupe* = *trick* = *cheat* <|> [cousin](/ˈkʌz(ə)n/)
++ **[cozen](/ˈkʌz(ə)n/)** [v]欺騙 = *chicane* = *deceive* = *dupe* = *trick* = *cheat* <|> [cousin](/ˈkʌz(ə)n/)
 + crackerjack [adj]傑出的 [n]傑出的人物
 + crafty [adj]狡猾的/詭計多端的 = *cunning* = *subtle* = *sly* = *deceitful* = *artful* = *wily*, [非]手工的
-* craft [n]工藝/手藝, 工藝品, 同業/行會, 船/飛機, 太空船 [mn]手腕/狡猾 [v]熟練地製作
+* craft [n]工藝/手藝, 工藝品, 同業/行會, 船/飛機, 太空船 [mn]**手腕/狡猾** [v]熟練地製作
 * craftsmanship [n]技巧/技術
 + crass [adj]愚鈍的/不敏感的 = *obtuse* = *stupid* = *blunt* = *opaque*
-+ craven [adj]懦弱的/膽小的 = *cowardly* = *recreant* = *pusillanimous* <|> crave --> cravenness [n]
++ **craven** [adj]懦弱的/膽小的 = *cowardly* = *recreant* = *pusillanimous* <|> crave --> cravenness [n]
 + crestfallen [adj]氣餒的/垂頭喪氣的 = *dejected* = *dispirited* = *discouraged* <-- crest + fallen
 + crony [n]親信/密友
 + cronyism [n]任人唯親/任用親信 = *nepotism*
 + croon [v]柔聲低唱/吟唱/低語
 + crumble [v]弄碎, 崩潰/逐漸瓦解 = *disintegrate* gradually <|> crumb <|> crumple
 + crystallize [v]結晶, 成形/使具體化 = *concrete* --> crystalline [adj]結晶的/結晶質的, 透明的/清晰的
-+ culminate [v]達到最高點/高潮 <|> calumniate
++ **culminate** [v]達到最高點/高潮 <|> **calumniate**
 + culmination [n]頂點/高潮 = *zenith* = *apotheosis* <-- culmin 頂點 = *peak*
 + [cult](/kʌlt/) [n]膜拜, 邪教/異教, 風行/崇拜
 + cunning [adj]狡猾的/狡詐的 = *artful* = *crafty* = *sly* = *subtle* = *wily*, 靈巧的 = *ingenious* = *shrewd*, 吸引人的 = *attractive* = *quaint* [mn]狡猾/奸巧, 靈巧/熟練 = *dexterity* = *adeptness* = *ingenuity*
-+ [cupidity](/kjuːˈpɪdɪti/) [mn]貪心/貪婪 = *avarice* = *greed* <-- cup 渴望 + idity
-+ curmudgeon [n]脾氣暴躁之人 = *crab*
++ **[cupidity](/kjuːˈpɪdɪti/)** [mn]貪心/貪婪 = *avarice* = *greed* <-- cup 渴望 + idity
++ **curmudgeon** [n]脾氣暴躁之人 = *crab*
 + curmudgeonly [adj]脾氣壞的
 + custom [n]傳統, 習慣, 慣例, 關稅, 海關 [adj]訂製的
 + customary [adj]習慣的 = *usual* = *habitual*, 合乎習俗的/傳統的 = *traditional* = *conventional*
 
 * calamity [n]災難/災禍 = *disaster* = *tragedy* = *cataclysm* = *catastrophe* = *scourge* = *woe*
-* [canine](/ˈkeɪnʌɪn/) [adj]犬的/狗的 [n](人的)犬齒, 狗 <-- can 犬 = *dog*
+* **[canine](/ˈkeɪnʌɪn/)** [adj]犬的/狗的 [n]犬齒, 狗 <-- can 犬 = *dog*
 * carpenter [n]木工 [v]做木工
 * carpentry [mn]木工
 * cast [v]扮演, 投射(光影), 扔/拋, 鑄造, 施魔法, 蛻皮 [n]全體演員, 鑄膜/石膏
@@ -779,12 +791,12 @@
 * cheerful [adj]興高采烈的, 使人感到愉快的, 樂意的/由衷的
 * [chic](/ʃiːk/) [adj]時髦的/雅緻的 [mn]別緻/時髦
 * chide [v]責駡/訓斥 = *scold* = *rebuke* = *reproach* = *criticize* <|> child
-* chum [n][非]好友 = *crony*, 同房間的人, 魚餌 [v][非]結成好朋友
+* **chum** [n][非]好友 = *crony*, 同房間的人, 魚餌 [v][非]結成好朋友
 * chief [adj]首要的/最重要的 = *cardinal*, 首席的 [n]領導人/首領/頭目
 * [cling](/klɪŋ/) [v]依附/附著/抓緊/抱緊, 依戀/緊挨著/捨不得放棄 <|> [clean](/kliːn/)
 * clingy [adj]黏著的/緊貼的, 依賴的
-* classic [adj]經典的, 典型的 [n]經典
-* classical [adj]古典的/古希臘的, 古希臘式的, 標準的, 經典的/古典的
+* **classic** [adj]經典的, 典型的 [n]經典
+* **classical** [adj]古典的/古希臘的, 古希臘式的, 標準的, 經典的/古典的
 * cleave -> cleaved/cleft/clove -> cleaved/cleft/cloven [v]劈開 = *split* = *sever*, 使(原子)分離, 細胞分裂, 穿過／鑽進, [to]黏著/黏住, [to]堅信/忠於
 * cleavage [n]裂縫/分裂, 細胞分裂, 乳溝
 * cleft [adj]劈開的 [n]裂縫(岩石或地面) = *crack* = *crevice* = *breach*
@@ -797,7 +809,7 @@
 * colorful [adj]鮮豔的, 生動的/活潑的, 多姿多采的, **(語言)粗俗的** = *vulgar*
 * comely [adj]動人的/美麗的 = *attractive* = *gainly* <-- becomely
 * **con** [n/v]**欺騙** = *coax* = *deceit*, 指揮操舵 = *helm* [n]缺點 = *disadvantage*, **囚犯** = *convict*, 集會 = *convention*
-* [contour](/ˈkɒntʊə/) [n]輪廓/外型 = *configuration* = *outline*, 等高線 [v]使與某種輪廓相符, 加陰影, 標等高線, (路)沿著等高線
+* **[contour](/ˈkɒntʊə/)** [n]輪廓/外型 = *configuration* = *outline*, 等高線 [v]使與某種輪廓相符, 加陰影, 標等高線, (路)沿著等高線
 * [council](/ˈkaʊns(ə)l/) [n]理事會/委員會, 政務委員會/地方議會, 會議
 * [counsel](/ˈkaʊns(ə)l/) [v]忠告, 勸告, 給予專業幫助, 推薦 [n]律師/辯護人
 * counselor, counsellor [n]輔導員, 諮詢顧問, 法律顧問, 夏令營管理員
@@ -848,10 +860,10 @@
 - cannibalistic [adj]同類相食的
 - [cannon](/ˈkanən/) [n]大砲/火砲, 飛機或坦克上的機關砲 <|> canon <|> canyon
 - [canyon](/ˈkanjən/) [n]峽谷
-- **canteen** [n](工廠、學校等的)餐廳, 福利社/小賣部
+- **canteen** [n]工廠、學校等的餐廳, 福利社/小賣部
 - **canvass** [v]遊說, 贏取(支持) = *botain*, 提出(意見或計劃)供考慮 = *moot*, 詳細討論 [n]遊說, 討論
 - crevasse [n]冰河裂縫
-- cap [n]無邊便帽, 蓋/罩, 方頂帽/學位帽 = *mortar* board, 蓋子, 經費的最高限度, 菌蓋/菌傘, 火藥帽 [v]蓋上, 覆蓋…的頂部, 提供合適的結局, 對(收費或花費)定限額
+- cap [n]無邊便帽, 蓋/罩, 方頂帽/學位帽 = *mortar board* 蓋子, 經費的最高限度, 菌蓋/菌傘, 火藥帽 [v]蓋上, 覆蓋…的頂部, 提供合適的結局, 對(收費或花費)定限額
 - cape [n]披肩, 斗篷, 頭部或頸部的毛皮, 岬/海角
 - capillary [n]毛細管, 毛細血管 [adj]毛細管的 <-- capill 毛髮 = *hair*
 - capitalize [v][on]利用…獲益/從…中獲利, 給..提供資本 = *finance*, 兌現 = *realize*, 估(價), 用大寫書寫
@@ -864,18 +876,19 @@
 - caress [n/v]輕撫/愛撫 = *stroke* <|> carcass
 - caretaker [n]照顧者/管理人 [adj]**臨時代理的**
 - carnival [n]狂歡節, 嘉年華會/狂歡/歡宴, 旅遊狂歡節/旅遊遊樂場/巡迴演出
-- carriage [n]四輪馬車, 有輪子的車架/砲架, 帶原者, 滑動架, 舉止/態度 = *bearing* = *deportment*
+- carriage [n]四輪馬車, 有輪子的車架/砲架, 帶原者, 滑動架, **舉止/態度** = *bearing* = *deportment*
 - cartel [n]企業聯合 = *syndicate*
 - cascade [n]小瀑布, 傾瀉, 大量, 資訊傳遞, 串聯 [v]傳遞, 串聯
-- [cask](/kɑːsk/) [n](儲酒等的)圓木桶, 一桶
+- [cask](/kɑːsk/) [n]圓木桶, 一桶
 - **catapult** [n]石弩 [v]用彈射器發射, 快速移動/躍
 - **catamaran** [n]筏
-- catching [adj]傳染性的, 具傳染力的 = *contagious*
-- catchy [adj]引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
+- **catching** [adj]傳染性的, 具傳染力的 = *contagious*
+- **catchy** [adj]引起注意的/動聽而易記的 == (of a tune or phrase) instantly appealing and memorable.
 - catchphrase [n]妙語/警句
 - caterpillar [n]毛毛蟲 = *larva*, 履帶 = *caterpillar* track
 - catharsis [n]情感宣洩/精神淨化 <-- cathar 清潔 = *cleanse*, pure
 - cathartic [adj]有宣洩作用的, 有淨化作用的 [n]瀉藥/清腸劑
+- catheter [n]體內的導(液)管
 - cautionary [adj]警告的 <--> cautious
 - cavity [n](牙齒的)洞/腔
 - cellar [n]地下室, 酒窖 [v]把……藏入地窖 <|> cellular
@@ -892,23 +905,23 @@
 - chance [n]可能性, 機會, 偶然 [adj]偶然的 = *fortuitous* = *accidental* [v]碰巧/偶然, [upon/on/across]碰巧發現, 冒風險
 - change [n/v]改變 [v]替換, 找零 [n]零錢
 - channel [n]渠道, 頻道, 途徑/管道 [v]傳輸/導向, 模仿
-- char [v]燒焦/燒黑 = *scorch*, [非]當清潔女工 [mn]燒焦物 [n][非]女清潔工/打雜女工 = *charwoman*, 嘉魚/紅點鮭
+- char [v]**燒焦/燒黑** = *scorch*, [非]當清潔女工 [mn]燒焦物 [n][非]**女清潔工/打雜女工** = *charwoman*, 嘉魚/紅點鮭
 - **charade** [n]顯而易見的作假/明顯的偽裝, 比手畫腳的猜字遊戲
 - charisma [mn]超凡魅力/吸引力 [n]神授的能力 
 - charismatic [adj]有魅力的, 蒙受神恩的 [n]信奉神恩運動的人
 - [charity](/ˈtʃarɪti/) [n]慈善團體 [mn]慈善事業, 施捨, 慈悲/仁愛, 寬容/寬厚 = *kindness*
 - charitable [adj]慈善的, 慷慨的, 仁慈的/寬容的
-- charter [n]憲章/章程, 特權/豁免權 [v]包下/租, 特許成立
-- cheeky [adj]厚顏無恥的/魯莽的/放肆的 = *sassy*
+- **charter** [n]憲章/章程, 特權/豁免權 [v]包下/租, 特許成立
+- **cheeky** [adj]厚顏無恥的/魯莽的/放肆的 = *sassy*
 - cheerleading [n]啦啦隊 [adj]啦啦隊的
 - chestnut [n]栗子 = *sweet* chestnut = *maroon*, 栗色, 栗色馬, 栗木 = *chestnut* tree, 馬腿內側的角質胼胝
 - cinema [n]電影 
 - cinematic [adj]電影的
-- chafe [v]擦傷, 磨損, 擦熱, 使焦躁 [mn]擦傷
+- **chafe** [v]擦傷, 磨損, 擦熱, 使焦躁 [mn]擦傷
 - chameleon [n]變色龍, 善變的人
 - **[chariot](/ˈtʃarɪət/)** [n]雙輪戰車, 十八世紀的四輪禮車 [v]駕馭戰車
 - **chartreuse** [n]淡黃綠色 [adj]淡黃綠色的
-- chime [n]管鐘/排鐘, 樂鐘/音樂門鈴, 木桶兩端的凸邊 [v]鳴/鳴響, [in]插話/附和
+- chime [n]管鐘/排鐘, 樂鐘/音樂門鈴, 木桶兩端的凸邊 [v]鳴/鳴響, **[in]插話/附和**
 - chimney [n]煙囪, 煙囪柱, 玻璃燈罩, 可供攀登的狹窄裂口
 - china [mn]瓷 [n]瓷器
 - **chino** [n]斜紋棉布, 斜紋棉布褲
@@ -928,8 +941,8 @@
 - chunky [adj]厚實的, 矮胖的, 滿是大塊的(食物)
 - churn [n]攪乳器, 客戶流失率 [v]用攪乳器攪拌, 劇烈攪動/翻騰, 胃部翻騰/反胃/噁心, 隆起, [out]大量生產
 - chute [n]導槽/滑運道, 滑水道, [非]降落傘 = *parachute*
-- [chutzpah](/ˈxʊtspə/) [mn]膽量/厚臉皮
-- cicatrix [n]瘢痕(傷口癒合的痕跡), 葉痕
+- **[chutzpah](/ˈxʊtspə/)** [mn]膽量/厚臉皮
+- **cicatrix** [n]瘢痕(傷口癒合的痕跡), 葉痕
 - cinder [n]煤渣/炭渣, 餘燼 = *ashes* [mn]爐渣/溶渣 = *slag*
 - cipher, cypher [n]密碼/密碼文件, 零 = *zero* = *nil*, 無影響力之人/無名小卒 = *nonentity*, 花押字 = *monogram* [v]編碼 = *encode*
 - clam [n]蛤蜊/蛤肉, 守秘密之人
@@ -952,13 +965,13 @@
 - cloture [n]討論終結 = *closure* <-- closure
 - **clout** [n/v]猛打/猛擊 = *clobber* [n]**權勢/影響力**
 - clover [n]紅花草/苜蓿
-- **cluck** [v]咯咯叫(母雞), 嘖嘖/表示反對, **表達過度的關心** [n]咯咯的叫聲, 嘖嘖, [非]笨蛋
+- **cluck** [v]咯咯叫(母雞), 嘖嘖/表示反對, **表達過度的關心** [n]咯咯的叫聲, 嘖嘖, [非]笨蛋 <|> **chuck** <|> **cackle**
 - [clump](/klʌmp/) [n]一叢, 一群, 一團/一塊 [v]成團/成群
 - **clunky** [adj]笨重的/老式的, (鞋子)沉重的 <|> chunky
 - [clutch](/klʌtʃ/) [v]抓緊 [n]緊抓, 控制, 離合器, 離合器踏板, 手抓包 = *clutch* bag, 一窩蛋, 一小群/一簇 [adj][非]在緊急關頭的
-- coach [n]旅客車廂, 四輪大馬車, 教練, 家教/私人教師 [v]搭馬車, 訓練/指導, 給..額外的教導, 給..指示/給..專業建議 [adv]以經濟層級地
+- coach [n]旅客車廂, 四輪大馬車, 教練, 家教/私人教師 [v]**搭馬車**, 訓練/指導, 給..額外的教導, 給..指示/給..專業建議 [adv]以經濟層級地
 - coat [n]外套/大衣, 皮毛, 外層/表層, 紋章 [v]覆蓋……的表面
-- cobble [n]鵝卵石 [v][together]東拼西湊
+- cobble [n]鵝卵石 [v]**[together]東拼西湊**
 - cobbled [adj]鋪著鵝卵石的
 - cobbler [n]修鞋匠/鞋匠, 酒味冷飲, 厚皮水果派 <|> coddle <|> clobber
 - **cock** [n] [俗]陰莖, **扳機**, 旋塞/活栓 = *stopcock* [v]**使歪斜** = *tilt*, 翹起(肢體), 扳起(槍)的扳機
@@ -970,13 +983,13 @@
 - colander [n]濾盆 <|> calendar
 - **colic** [n]腹痛 = *gripe*
 - collide [v]碰撞/相撞, 衝突/抵觸 = *conflict* = *oppose*
-- collision [n](車輛的)碰撞, 衝突/牴觸 <|> collusion
+- collision [n]碰撞, 衝突/牴觸 <|> collusion
 - colon [n]冒號, 結腸
 - colonize [v]建立殖民地
 - colonization [n]殖民/殖民地化, 掌控, 移生
 - colony [n]殖民地, 殖民地原住民, 僑民, 聚落, [生]集群/群體, 菌落
-- colonnade [n]列柱/柱廊
-- colt [n](四歲以下的)小公馬 
+- **colonnade** [n]列柱/柱廊
+- colt [n]四歲以下的小公馬 
 - coltish [adj]蹦蹦跳跳的/不受拘束的 = *frisky*
 - coma [n]昏迷狀態 = *unconsciousness*
 - comatose [adj]昏迷的 = *unconscious*, 極困倦的/昏睡的
@@ -1016,13 +1029,13 @@
 - **crag** [n]懸崖/峭壁
 - cram [v]塞滿/填塞, 死記硬背/臨時抱佛腳 
 - crammed [adj]塞滿的/擠滿的
-- cramp [mn]痙攣/抽筋, (月經)腹痛 [n]鐵夾鉗 [v]束縛/阻礙(發展) = *inhibit*, 用夾鉗固定, 痙攣/抽筋 <|> clamp
+- cramp [mn]痙攣/抽筋, (月經)腹痛 [n]鐵夾鉗 [v]**束縛/阻礙(發展)** = *inhibit*, 用夾鉗固定, 痙攣/抽筋 <|> clamp
 - cramped [adj]抽痙的, **狹小的**, 限制發展的, 小且難以閱讀的
 - crampon [n]防滑的尖釘鐵鞋
 - crane [n]鶴, 起重機/吊車 [v]伸(頸), 用起重機起吊
 - cranny [n]裂縫/裂隙
-- crank [v]**用曲柄啟動**, [up]**增加**, [down]固定產出, [out]大量生產, 使成曲柄狀, [非]注射麻醉藥 [n]曲柄/曲軸, **怪人**, 暴躁的人 [mn]興奮劑 = *methamphetamine*
-- cranky [adj]奇怪的/不尋常的, 易怒的 = *cantankerous*
+- crank [v]用曲柄啟動, **[up]增加**, [down]固定產出, **[out]大量生產**, 使成曲柄狀, [非]注射麻醉藥 [n]曲柄/曲軸, **怪人**, 暴躁的人 [mn]興奮劑 = *methamphetamine*
+- **cranky** [adj]奇怪的/不尋常的, 易怒的 = *cantankerous*
 - crap [n]爛貨/垃圾, 胡言/胡扯, 廢物, 排泄物 = *excrement*, 排泄 = *defecation* [v]排泄 [adj]非常糟糕的
 - crate [n]板條箱, 破舊的交通工具 [v]把…裝箱 <|> crater <|> curate <|> curator
 - crater [n]彈坑/隕石坑, 火山口 [v]形成坑洞, 墜落
@@ -1030,8 +1043,8 @@
 - [crayon](/ˈkreɪən/) [n]彩色蠟筆 [v]用蠟筆畫 <|> canyon
 - crease [n]褶痕/皺褶 [v] (使)起褶皺, (子彈)飛掠 = *graze* <|> grease
 - creak [v]發出咯吱咯吱聲 [n]咯吱咯吱聲
-- creek [n]小溪 = *brook* <|> creep <|> creel <|> crook
-- creel [n]魚簍, [紡]筒子架
+- **creek** [n]小溪 = *brook* <|> creep <|> creel <|> crook
+- **creel** [n]魚簍, [紡]筒子架
 - cremate [v]燒成灰, 火葬/火化 = *incinerate*
 - crest [n]山頂, 浪峰, (動物的)羽冠/肉冠, 頭盔的羽飾, (作為標記的)徽章/紋章 [v]到達山頂, 達到最高峰, 形成浪峰, 在……上加頂飾
 - cringe [v]蜷縮, 感到尷尬 [n]蜷縮
@@ -1042,29 +1055,29 @@
 - croissant [n]牛角麵包/可頌
 - crop [n]作物/莊稼, 收成量, 大量, 生出的牲畜量, 一群, 馬鞭, 嗉囊, 整片皮革 [v]剪短, 嚙, 剪切, 收割, 播種, 收成, [up]突然出現
 - cross [n]十字/叉號, 磨難/苦難, 混種 = *hybrid*, [between]混合 [v]越過/橫穿, (使)交叉, 畫十字, [off]刪掉, [out/through]劃掉, [oneself]劃十字手勢, 混種, 反對 = *oppose* [adj]惱怒的 = *annoyed*  
-- crotchet [n]四分音符, 毫無根據的想法/怪想
+- **crotchet** [n]四分音符, 毫無根據的想法/怪想
 - crowdsource [v]群眾外包/眾包
-- crud [n]汙垢, 難以進行滑雪的暴風雪, [非]謬論/胡扯 = *nonsense*, [非]無用的人
+- **crud** [n]汙垢, 難以進行滑雪的暴風雪, [非]謬論/胡扯 = *nonsense*, [非]無用的人 <|> **suds**
 - crumb [n]餅乾屑/麵包屑, 少許/點滴, 可鄙之人, 廢舊橡膠 = *crumb* rubber [v]把……裹上麵包屑
 - crumple [v]弄皺/壓皺, 彎曲/起皺, 嘴角下垂, (人)倒下 [n]皺折 
-- crunch [v]嘎嘎作響地咬, 發出嘎嘎聲, (電腦)處理 [n]嘎嘎聲, 重要時刻, 財政困難/短缺, 仰臥起坐
-- crunchy [adj]鬆脆的/鮮脆的
+- **crunch** [v]嘎嘎作響地咬, 發出嘎嘎聲, (電腦)處理 [n]嘎嘎聲, 重要時刻, 財政困難/短缺, 仰臥起坐
+- **crunchy** [adj]鬆脆的/鮮脆的
 - crust [n]麵包皮, 乾麵包片, 硬皮/外殼 = *husk*, 地殼, 派皮 [v]結成外殼, 用硬皮覆蓋
 - cub [n]幼獸 [v]生, 獵捕
 - [cuddle](/ˈkʌd(ə)l/) [v]摟抱, 依偎, [非][up to]迎合 [n]摟抱
-- cudgel [n]短棍 [v]用棍棒打
+- **cudgel** [n]短棍 [v]用棍棒打
 - cue [n/v]提示/暗示 = *hint* = *indication* [n]球杆 [v]擊球
 - [cuisine](/kwɪˈziːn/) [mn]烹調, 菜餚
 - **cul-de-sac** [n]死路/死胡同
 - culinary [adj]烹調的
 - **culvert** [n]涵洞 [v]使通過涵洞
-- **cunt** [n][冒犯]女性陰部, 蠢人/笨蛋
-- cupboard [n]櫥櫃/壁櫥
+- **cunt** [n] [冒犯]女性陰部, 蠢人/笨蛋
+- **cupboard** [n]櫥櫃/壁櫥
 - [curb](/kəːb/) [v]控制/遏止 = *restrain*, 勒住(馬), 帶(狗)去路邊排泄 [n]約束/抑制 = *check* = *restraint*, 馬嚼子 = *curb* bit, 路邊/路邊鑲石 = *kerbw*
 - curdle [v]使凝結/使凝固 = *clot* = *coagulate*
 - **cur** [n]雜種狗(嚇人或兇猛的), [非]可鄙之人
 - cure [v]治癒, 解決(問題) = *solve*, (用煙熏或鹽醃等方法)保存 = *preserve*, **使硬化** [n]療法/藥, 痊癒, 對策 = *solution*, 硬化, 牧師職位
-- **curfew** [n]宵禁, 宵禁時間, 晚鐘
+- curfew [n]宵禁, 宵禁時間, 晚鐘
 - curable [adj]可治療的/可醫好的, 可硬化的
 - curl [v] (使)捲曲/(使)彎曲, 撇嘴, (重訓)舉起, 打或踢出弧線球 [n]鬈髮/捲曲物, 葉捲曲(一種植物病害) = *leaf* curl
 - curly [adj]蜷曲的/蜷縮的 
@@ -1076,7 +1089,7 @@
 - cutlery [n]餐具
 - [cypress](/ˈsʌɪprəs/) [n]柏樹
 
-[D]
+## D
 + damp [v]使潮濕, 封(火), 抑制/降低, 制止(琴弦)的音 [adj]潮濕的 = *humid* [mn]濕氣, 坑氣/沼氣 = *firedam*
 + dampen [v](使)潮濕 = *damp*, 抑制/減輕 = *depress* = *damp*
 - damper [n]抑制物, 阻尼器, 制音器
@@ -1089,7 +1102,8 @@
 + [denizen](/ˈdɛnɪz(ə)n/) [n]居民 = *inhabitant* <-- deniz 裡面 = *within* + en
 + [deny](/dɪˈnʌɪ/) [v]否定/否認, 拒絕 = *refuse* = *withhold*
 - denier [n]否認者, 旦(古時布料的重量單位), 古時法國銀幣
-+ [despot](/ˈdɛspɒt/) [n]暴君 = *tyrant* --> despotic [adj]暴君的 <-- des 家 = *house* + pot 丈夫/配偶 = *husband*, spouse
++ [despot](/ˈdɛspɒt/) [n]暴君 = *tyrant* <-- des 家 = *house* + pot 丈夫/配偶 = *husband*, spouse
++ despotic [adj]暴君的 
 + diabolical [adj]魔鬼的 <-- diabol 惡魔 = *devil* + ic
 + [didactic](/dīˈdaktik/) [adj]教訓的/說教的 = *instructive*, 教師般的/擺出恩賜態度的 = *patronizing* <-- didact 被教 = *taught*
 + [dilatory](/ˈdɪlət(ə)ri/) [adj]慢的 = *slow* = *late*, 拖延的/磨蹭的 = *procrastinating* <-- delay
@@ -1101,22 +1115,23 @@
 + dog [n]狗, 傢伙, 無賴/流氓, 醜女人 [v]纏住/糾纏 = *harass*
 + dogged [adj]頑強的 = *stubborn* = *tenacious* = *recalcitrant*
 + [doggerel](/ˈdɒɡ(ə)r)l/) [mn]打油詩/蹩腳詩 = *burlesque*, 拙劣的詩 <|> cynic
-+ dogma [n](宗教的)教條/信條 = *doctrine* 
++ dogma [n]教條/信條 = *doctrine* 
 + dogmatic [adj]武斷的/自以為是的 = *assertive* = *opinionated*
 + dogmatism [mn]武斷/自以為是/教條主義
-+ doughty [adj][古]勇敢的 <|> doughy
-- doughy [adj]生麵團似的, 白胖胖的
++ **doughty** [adj][古]勇敢的 <|> doughy
+- **doughy** [adj]生麵團似的, 白胖胖的
 + dovetail [v]銜接/吻合 [n]鳩尾榫/楔形榫 <-- dove 鴿子 + tail 尾巴
 + downplay [v]對…輕描淡寫/低估 = *underplay* 
-+ draconian [adj](法律、政府行爲等)嚴苛的/殘酷的 = *severe*
++ draconian [adj]嚴苛的/殘酷的(法律、政府行爲等) = *severe*
 + [droll](/drəʊl/) [adj]離奇好笑的 = *whimsically* humorous = *waggish* --> drollness [n] <-- [德]小胖子 = *fat* little man
 + dross [n]浮渣, 渣滓/廢物 = *rubbish* <-- dregs
 + due [adj]預期在...發生/計畫在..發生, 應支付的 = *mature*, 到期的 = *owing* = *owed* = *mature*, 應得的, 合適的 = *rightful* = *proper* = *fitting*, [to]因為/由於 [n]應得權益, 應付款 = *fee* [adv]正 = *directly* <--> undue
-+ duly [adv]適當地, 按時地/如期地
++ duly [adv]**適當地**, **按時地/如期地**
 + dupe [v]欺騙 = *deceive* = *delude* = *cozen* = *trick* = *hoodwink* = *hoax* [n]受騙者 [n/v][非](照片)複製 = *dupliicate*
-+ dumbfound [v]使震驚 --> dumbfounded [adj]震驚的
++ dumbfound [v]使震驚
++ dumbfounded [adj]震驚的
 + dwarf [n]侏儒 [adj]極小的 [v]使…顯得矮小
-+ dwindle [v]變小/衰退 = *diminish* = *degenerate* = *shrink* = *shrivel* = *wither* = *flag* <|> swindle
++ dwindle [v]變小/衰退 = *diminish* = *degenerate* = *shrink* = *shrivel* = *wither* = *flag* <|> *swindle*
 
 * dealing [n]商業往來/往來, 買賣
 * [decent](/ˈdis(ə)nt/) [adj]合乎禮儀的, 恰當的 = *appropriate*, 體面的/像樣的 = *adequate* = *fair*, 好的 = *good*
@@ -1126,48 +1141,52 @@
 * delicate [adj]精美的/雅緻的, 脆弱的 = *fragil*, 易受影響的, 需要小心處理的, 靈巧的/熟練的 = *deft* [n][非]精細織物
 * delight [v]使滿足/使高興, [in]享受 [mn]欣喜 [n]令人欣喜的事物 <|> blight
 - delightful [adj]令人愉快的/令人高興的
-* delectable [adj]美味的 = *delicious* <-- delight
+* **delectable** [adj]美味的 = *delicious* <-- delight
 * device [n]設備/裝置, 手段/計畫/詭計, 圖樣/設計
 * devise [v]發明/策劃 = *contrive* = *concoct* = *fabricate*, 遺贈給 = *legate* <-- device
 * diligent [adj]勤勞的/勤勉的 = *assiduous* = *industrious* = *sedulous*, 潛心的(研究)
 * diligence [n]勤勉/勤奮
-* dim [adj]暗淡的, 模糊的/朦朧的, 看不清楚的, 慘淡的 = *bleak*, [非]頭腦遲鈍的 [v](使)黯淡/模糊, 使減弱
+* dim [adj]暗淡的, 模糊的/朦朧的, 看不清楚的, 慘淡的 = *bleak*, [非]**頭腦遲鈍的** [v] (使)黯淡/模糊, 使減弱
 * dimple [n]酒窩, 淺凹洞 [v]形成淺凹洞, 現笑靨
-* dismal [adj]悲傷絕望的/憂鬱的 = *gloomy*, [非]十分糟糕的 = *abject* = *deplorable*
-* doctor [n]醫生,博士 [v]竄改/偽造 = *falsify*, [非]治療, 結紮, 修理 = *repair*
-* dour [adj]陰鬱的/陰沉的
-* dote [v][on/upon]溺愛 = *spoil* = *pamper* --> doting [adj]溺愛的/鍾愛的 = *adoring*
+* **dismal** [adj]悲傷絕望的/憂鬱的 = *gloomy*, [非]十分糟糕的 = *abject* = *deplorable*
+* doctor [n]醫生,博士 [v]**竄改/偽造** = *falsify*, [非]治療, 結紮, 修理 = *repair*
+* **dour** [adj]陰鬱的/陰沉的
+* dote [v][on/upon]溺愛 = *spoil* = *pamper* 
+* doting [adj]溺愛的/鍾愛的 = *adoring*
 * downside [n]不利的一面/不利因素
 * drain [v]排放/排掉(液體), 喝乾/喝光, 剝奪(精力), 耗盡 [n]排水管, 消耗/負擔, 不斷外流/逐漸流光 <-- dry
 * drainage [n]排水, 排水系統
 * drastic [adj]激烈的/猛烈的 = *violent* = *severe*
 * dreary [adj]沉悶的/枯燥的 = *arid* = *dull* = *insipid* = *bleak* --> dreariness [n]
 * dregs [n]殘渣 = *dross*
-* droop [v]低垂/下垂 = *lop*, 委靡/沮喪 [n]下垂 --> droopy [adj]下垂的, 疲乏的 <-- drop
+* droop [v]低垂/下垂 = *lop*, 委靡/沮喪 [n]下垂 
+* droopy [adj]下垂的, 疲乏的 <-- drop
 * drowsy [adj]睡意朦朧的/半夢半醒的 = *lethargic* = *soporific*, 令人想睡的, (地方)平靜的
 * drudge [n]做苦工的人 <|> grudge --> drudgery [mn]苦工/單調沉悶的工作
-* [dull](/dʌl/) [adj]枯燥的/乏味的 = *bland* = *jejune* = *insipid* = *pallid* = *dreary* = *tedious* = *tame* = *humdrum* = *nondescript*, 愚笨的 = *blunt* = *obtuse* = *dense* = *crass*, 暗淡的 = *dim* = *faint*, 鈍的 = *blunt*, 無精打采的 = *listless* = *torpid* = *lethargic* [v]使遲鈍/緩和/減輕
+* [dull](/dʌl/) [adj]枯燥的/乏味的 = *bland* = *jejune* = *insipid* = *pallid* = *dreary* = *tedious* = *tame* = *humdrum* = *nondescript*, **愚笨的** = *blunt* = *obtuse* = *dense* = *crass*, 暗淡的 = *dim* = *faint*, **鈍的** = *blunt*, **無精打采的** = *listless* = *torpid* = *lethargic* [v]使遲鈍/緩和/減輕
+- **dullard** [n]笨蛋
 * duty [n]責任/義務, 關稅 = *tariff* --> dutiful [adj]忠於職守的
 * dwell [v]居住, [on/upon]思索/詳述, [on/upon](注意力或視線)游移 --> dwelling [n]住處
 * diploma [n]文憑, 執照/特許狀 = *charter* 
 * diplomacy [mn]外交, 交際手腕
 * diplomatic [adj]外交的, 有外交手腕的 = *tactful* = *politic*, 仿真本的 <-- diplo 二 = *double* + ma
 
-- dabble [v]淺嚐/涉獵, (手腳)浸入水中 = *paddle* --> dabbler [n]戲水者, 涉獵者/淺嘗者
-- daedal [adj]有技術的 = *skillful* = *artistic*, 複雜的 = *intricate*, 很多東西裝飾的 <-- Daedalus [希神]代達洛斯
+- dabble [v]淺嚐/涉獵, (手腳)浸入水中 = *paddle* 
+- dabbler [n]戲水者, 涉獵者/淺嘗者
+- *daedal* [adj]有技術的 = *skillful* = *artistic*, 複雜的 = *intricate*, 很多東西裝飾的 <-- Daedalus [希神]代達洛斯
 - daft [adj][about]熱戀..的 <--> deft
 - dally [v]蹉跎/磨蹭, 玩弄(感情)
-- dalliance [n]逢場作興/調戲, 短時間的涉入
-- dandle [v]搖晃逗弄(嬰兒), 寵/嬌養 = *cosset*
+- **dalliance** [n]逢場作興/調戲, 短時間的涉入
+- **dandle** [v]搖晃逗弄(嬰兒), 寵/嬌養 = *cosset*
 - dandy [n]花花公子, [非]第一流的東西 [adj]花花公子的, [非]非常好的 = *excellant*
-- dangle [v]懸擺/懸蕩, 用...作為承諾/答應用...作為回報
-- dank [adj]濕冷的
+- dangle [v]懸擺/懸蕩, **用...作為承諾/答應用...作為回報**
+- **dank** [adj]濕冷的
 - dapple [v]使有斑點 [n]花斑/光斑, 花斑動物
-- dapper [adj]精幹利落的
+- **dapper** [adj]精幹利落的 <|> dipper
 - daredevil [adj]大膽的/冒失的 = *bold* = *reckless* [n]大膽的人/冒失的人
 - dart [n]鏢, 褶子/縫褶, 飛快突然的動作, 一陣(痛苦) = *pang* [v]飛奔, 瞥, 朝(動物)射標鏢
-- dash [v]急奔, 猛撞, 撞上, 使破滅/使沮喪, 使失去自信 [n]急衝/奔跑, 匆忙的短程旅行, 短跑, 少量(混合液體), 少量, 破折號, (摩斯電碼)劃/長劃, 破折符, 銳氣/神氣, 儀表板
-- dawdle [v]磨蹭/拖時間 = *loiter* = *dally*, 遊蕩
+- dash [v]急奔, 猛撞, 撞上, **使破滅/使沮喪**, **使失去自信** [n]急衝/奔跑, 匆忙的短程旅行, 短跑, 少量(混合液體), 少量, 破折號, (摩斯電碼)劃/長劃, 破折符, 銳氣/神氣, 儀表板
+- **dawdle** [v]磨蹭/拖時間 = *loiter* = *dally*, 遊蕩
 - dazzle [v]使目眩/使眼花, 使驚羨/使讚歎 = *amaze* [n]耀眼/炫目的光
 - deaden [v]減輕/削弱(聲音或感覺) = *lessen*, 剝奪(感官) = *deprive* of, 使無用 = *stultify*, 使無感 <-- dead + en
 - deadpan [adj]無表情的/不動聲色的 [adv]面無表情地
@@ -1176,12 +1195,12 @@
 - debacle [n]徹底失敗/潰敗 = *fiasco*
 - deep-seated [adj]根深蒂固的 = *confirmed* = *inveterate* = *entrenched*
 - defendant [n]被告 <--> plaintiff
-- deli [n]熟食店 = *delicatessen*
+- **deli** [n]熟食店 = *delicatessen*
 - [delve](/dɛlv/) [v]搜索, 探究/鑽研
 - depot [n]倉庫/儲藏處, 火車站/公車站, 兵站
-- derrick [n]轉臂起重機, 油井的鐵架塔
+- **derrick** [n]轉臂起重機, 油井的鐵架塔
 - derring-do [n]英勇行為/大膽之舉
-- dervish [n]回教的托缽僧
+- **dervish** [n]回教的托缽僧
 - descry [v]看見/發現 = *espy* <|> decry
 - determinant [n]決定因素, 行列式 [adj]決定的
 - [dew](/ˈdjuː/) [n]露水 [v]用露水弄濕
@@ -1192,29 +1211,30 @@
 - die [n]金屬模子/鋼模/印模 [v]死亡, [out]滅絕, 被遺忘, 漸弱/減弱, 熄滅, [非]停止運轉, 渴望
 - diehard [n]頑固份子
 - digit [n]手指/腳趾 = *finger* = *thumb* = *toe*, 數字
-- dime [n]一角硬幣, [非]少量(錢)
+- **dime** [n]一角硬幣, [非]少量(錢)
 - din [n]喧囂/嘈雜聲 [v]一再叮囑, 發出嘈雜聲 <|> dim
-- dingy [adj]昏暗的
+- **dingy** [adj]昏暗的
 - dip [v][in/into]浸/泡, [into]把(手)伸入, [into]使用/花費(財產), [into]讀..的一部份, 下降/下落 [n]游一游, 浸泡, 沾醬, 傾斜/下沉, 下降/下落, [非]笨蛋, [非]扒竊
-- dipper [n]河烏, 杓 = *ladle* = *scoop*, 浸染工人, [非]扒手 = *pickpocket*
+- **dipper** [n]河烏, 杓 = *ladle* = *scoop*, 浸染工人, [非]扒手 = *pickpocket*
 - dire [adj]緊急的/緊迫的, 預告災難的
 - direct [adj]徑直的/直達的, 直接的, 恰好的/正好的, 正直的, 垂直的 [adv]直接地/直達地 [v]指揮, 命令, 指向/針對, 給……指路, [be directed at]專注於 = *focus* on
 - dirty [adj]髒的, 輻射塵量高的, 卑鄙的/居心不良的, 猥褻的/下流的 = *obscene* = *lewd*, 惡劣的(天氣), 色彩暗淡的 = *dull* [v]弄髒
 - district [n]區 [v]劃分區域
-- ditch [n]水道/渠道 [v]掘溝, 拋棄/遺棄/丟棄 = *get* rid of = *give* up, 逃學, 水上迫降, 使(火車)出軌
-- ditty [n]小曲/小調/短歌 = *ballad*
+- ditch [n]水道/渠道 [v]掘溝, **拋棄/遺棄/丟棄** = *get rid of* = *give up*, 逃學, 水上迫降, 使(火車)出軌
+- **ditty** [n]小曲/小調/短歌 = *ballad*
 - diva [n]歌劇的女主唱, 女歌手, 自以為是的女人/妄自尊大的女人
-- dive [n/v]跳水, 潛水, 俯衝, 衝/猛衝, 暴跌 --> diver [n]跳水員, 潛水員
-- divvy [v][up]分發/分享 [n]部分/分配
+- dive [n/v]跳水, 潛水, 俯衝, 衝/猛衝, 暴跌
+- diver [n]跳水員, 潛水員
+- **divvy** [v][up]分發/分享 [n]部分/分配
 - dizzy [adj]頭暈目眩的, 使人頭暈的, [非](女性)愚蠢的 [v]使頭暈眼花
 - [docket](/ˈdɒkɪt/) [n]一覽表, 事項表 [v]列入, 在...上附上標籤, 附上摘要
 - dodder [v]蹣跚/踉蹌 = *totter* [n]菟絲子
 - dodge [n/v]閃開/躲避 <|> lodge
-- [dodgy](/ˈdɒdʒi/) [adj]危險的 = *dangerous*, 品質不好的
+- **[dodgy](/ˈdɒdʒi/)** [adj]危險的 = *dangerous*, 品質不好的
 - doe [n]雌鹿, 雌兔/雌鼠/雌雪貂/雌袋鼠
-- doldrums [n]停滯/意志消沉, 赤道無風帶
-- dole [n]賑濟物/施捨物, 命運/宿命 [v][out]撥出/分給
-- dolt [n]笨蛋 <-- dull
+- **doldrums** [n]停滯/意志消沉, 赤道無風帶
+- **dole** [n]賑濟物/施捨物, 命運/宿命 [v][out]撥出/分給
+- **dolt** [n]笨蛋 <-- dull
 - don [v]戴上/穿上 = *wear* = *put* on [n]大學教師
 - doodle [v]亂畫 [n]塗鴉
 - dope [mn][非]麻藥/毒品, 馬用興奮劑, 運動興奮劑, [非]笨蛋, [非]內幕消息, 飛機翼布塗料, 潤滑劑 [v]給…服興奮劑, [be doped up]受藥物影響, 下藥, 塗塗料於 [adj][非]好的 = *very* good
@@ -1222,9 +1242,9 @@
 - dose [n]一劑/一服, 吸收劑量, 性病, 一次/一番(苦差事) [v]按劑量給……服藥, 混合
 - dosage [n]劑量
 - doublespeak [n]曖昧混淆的語言
-- douse [v]潑濕 = *drench*, 熄滅 = *extinguish*
+- **douse** [v]潑濕 = *drench*, 熄滅 = *extinguish*
 - down [n]羽絨, 汗毛/絨毛 ......
-- downer [n]鎮定劑, [非]掃興的人或事, 低潮/失敗期
+- **downer** [n]鎮定劑, [非]掃興的人或事, 低潮/失敗期
 - downpour [n]暴雨
 - downright [adj]完全的/十足的, 率直的/坦率的 = *forthright* [adv]完全地
 - downsize [v]縮小, 裁員以縮小公司規模, 裁員
@@ -1235,35 +1255,34 @@
 - dozen [n]十二個 = *twelve*
 - drab [adj]單調的/無趣的, 黃褐色的 [n]黃褐色布料, 妓女 = *prostitute*
 - draft [n]草圖/草稿, 匯票/匯款單, 徵兵, 選拔制度 [v]起草, 選派, 徵召
-- drape [v]把…披/搭/蒙在…上, 垂掛, 使(布、衣服等)呈褶襉狀 [n]簾, 病人袍, 下垂的樣子
-- [draught](/drɑːft/) , [draft](/drɑːft/) [n]氣流, 一口氣, 吃水深度 [adj]桶裝的, 能負重物的
+- **drape** [v]把…披/搭/蒙在…上, 垂掛, 使(布、衣服等)呈褶襉狀 [n]簾, 病人袍, 下垂的樣子
+- **[draught](/drɑːft/)** , **[draft](/drɑːft/)** [n]氣流, 一口氣, 吃水深度 [adj]桶裝的, 能負重物的
 - draughtsmanship, draftsmanship [n]繪畫能力
 - drag [v]拉/拖, 拖沓地進行, [down]使..不愉快 [n]拉/拖, 令人厭倦的事物, 異性穿的服裝, 街道/道路, 影響
 - drawbridge [n]吊橋
 - drawl [v]慢吞吞地說 [n]慢吞吞拉長調子的說話方式
 - drawstring [n]帶/細繩
 - [dread](/drɛd/) [v]懼怕 [n]恐懼, 突然的成群飛起, [非]長髮綹/有長髮綹的人 = *dreadlocks* [adj]恐懼的 = *dreadful*
-- dredge [v]爲…清淤/疏浚, 搜索/打撈, 撒(麵粉或砂糖等) <|> drudge
-- drench [v]使濕透 = *soak* = *douse*, 徹底覆蓋, 給(牲口)灌藥 [n]獸用藥水 <-- drink
+- **dredge** [v]爲…清淤/疏浚, 搜索/打撈, 撒(麵粉或砂糖等) <|> drudge
+- **drench** [v]使濕透 = *soak* = *douse*, 徹底覆蓋, 給(牲口)灌藥 [n]獸用藥水 <-- drink
 - dressing [n]沙拉醬, 烤雞用的填料 = *stuffing*, 包紮用品, 肥料
-- dressing-down [n]斥責 = *an* act of speaking angrily to someone because they have done something wrong
+- **dressing-down** [n]斥責
 - dribble [v]滴下/細流, 流口水, 運球/盤球 [n]細流 = *trickle*, 口水 = *saliva*, 運球/盤球
 - dripping [n]油滴, 滴下物 [adj]濕淋淋的
 - drill [n]鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 [v]鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
 - drivel [v]胡說/瞎扯/廢話 = *babble* = *gibberish* [mn]瞎扯/廢話
 - drizzle [v]下毛毛雨 [n]毛毛雨 --> drizzley [adj]毛毛細雨的
 - drone [v]嗡嗡地響, 低沉單調地說, [on]喋喋不休 [n]嗡嗡聲, 持續音/低音部, 單調的演說, 風笛聲, 雄蜂, 靠別人養的人, 無人機
-- drop-in [adj](諮詢、服務中心等)不用預約的
-- dropout [n]輟學者/退學者
+- drop-in [adj] (諮詢、服務中心等)不用預約的
+- **dropout** [n]輟學者/退學者
 - drought [n]乾旱 <-- dry
 - drove [n]畜群, 人群 [v]將畜群帶到市場 <-- driven
-- druggy [adj]毒品引起的 [n]癮君子
+- **druggy** [adj]毒品引起的 [n]癮君子
 - dab [v]清塗/輕拍 [n]輕拍/輕塗, 一點, 比目魚
 - [daub](/dɔːb/) [v]塗, 亂畫/亂塗 [n]一抹, 拙劣的畫, 灰泥
-- dub [v]給...取別稱, 封..為爵士, 給皮革塗油, 配音, 複製, 混錄, 貢獻 [n]配音, 沒經驗的人
-- dud [adj]無用的, 假的 [n]無用之物, 衣服
-- dude [n]男人/傢伙, 花花公子 = *dandy*, 城裡人 [v]盛裝打扮
-- dullard [n]笨蛋
+- **dub** [v]給...取別稱, 封..為爵士, 給皮革塗油, 配音, 複製, 混錄, 貢獻 [n]配音, 沒經驗的人
+- **dud** [adj]無用的, 假的 [n]無用之物, 衣服
+- **dude** [n]男人/傢伙, 花花公子 = *dandy*, 城裡人 [v]盛裝打扮
 - dump [n]垃圾場, 垃圾堆, 軍需品儲藏處, 髒亂的地方/下流場所 [v]傾倒/丟棄, 傾銷(到外國)
 - dust [n]灰塵/粉塵, 遺骸, 撣 [v]撣去/掃去, 使佈滿粉塵/撒農藥, 打/殺
 - dusky [adj]黝黑的, 微暗的/暗淡的
@@ -1273,32 +1292,34 @@
 - dune [n]沙丘 = *mound*
 - dung [n]糞/動物的排泄物 = *manure* = *scats* [v]施糞肥於, 排泄 = *defecate*
 
-[E]
+## E
 + eager [adj]熱切的/渴望的 = *ardent* = *keen*
 + [echelon](/ˈɛʃəlɒn/) [n]階層/等級 = *rank* = *grade* = *level*, [軍]梯隊 [v][軍]列梯隊 <-- [拉丁]梯子 = *ladder*
-+ echo [n]回聲/回響, 十分相似的東西/仿效 [v]回響/發出回聲, 重複/覆述, 讓人想起/與...相似  
-+ edge [n]邊/邊緣, 邊緣/時刻, 刃/刀口, (言論)尖銳, 優勢 [v]給……加上邊, 使漸進/徐徐地移動, 使尖銳
++ echo [n]回聲/回響, 十分相似的東西/仿效 [v]回響/發出回聲, 重複/覆述, **讓人想起/與...相似**
++ edge [n]邊/邊緣, 邊緣/時刻, 刃/刀口, (言論)尖銳, **優勢** [v]給……加上邊, 使漸進/徐徐地移動, 使尖銳
 + [elegy](/ˈɛlɪdʒi/) [n]哀歌/挽歌 = *dirge* 
 + [elegiac](/ˌɛlɪˈdʒʌɪək/) [adj]挽歌的, 哀傷的 [n]輓歌對句
-+ element [n]要素/成分, 一點, 基礎 = *rudiments*, 特定的一群人, 化學元素 = *chemical* element, 適宜的環境, 惡劣天氣, 電熱絲
++ element [n]要素/成分, 一點, 基礎 = *rudiments*, 特定的一群人, 化學元素 = *chemical element*, 適宜的環境, 惡劣天氣, 電熱絲
 + elementary [adj]基本的/基礎的 = *fundamental*, 簡單的 = *uncomplicated*, 元素的
 + [elixir](/ɪˈlɪksə/) [n]萬能藥/靈丹妙藥 = *panacea*
 + [Elysium](/ɪˈlɪzɪəm/) [n]樂園/天堂  <-- [希臘神話]
 + Elysian [adj]極樂世界的/天堂的
-+ [eke](/iːk/) [v][out]節省地使用, 艱苦地活著 = *scrape* by/along <|> elk
-+ embryo [n]胚胎, 初期 --> embryonic [adj]胚胎的, 萌芽期的/剛起步的 = *incipient* = *nascent*
++ **[eke](/iːk/)** [v][out]節省地使用, 艱苦地活著 = *scrape* by/along <|> elk
++ embryo [n]胚胎, 初期
++ embryonic [adj]胚胎的, 萌芽期的/剛起步的 = *incipient* = *nascent*
 + emulate [v]盡力趕上/超越(某人或成就) = *equal* or excell, 模仿 = *imitate*
 + emulation [mn]努力追上並超越, 模擬器/仿真器
-+ emulous [adj]競爭心強的/好勝的
++ **emulous** [adj]競爭心強的/好勝的
 + enmity [mn]敵意/仇恨 = *hostility* = *antipathy* = *hatred* = *animosity* = *antagonism* = *rancor*
 + enigma [n]令人費解的事物/費解之人
 + enigmatic [adj]神秘的/費解的 = *perplexing* = *mysterious*
 + entomology [mn]昆蟲學 <-- entomo 昆蟲 + logy
 + envy [mn]嫉妒 = *covetousness*, 妒忌的對象 [v]妒忌/羨慕 
-+ enviable [adj]令人羨慕的/令人嫉妒的 = *very* desirable
-+ epicure [n]美食家 = *connoisseur* --> epicurean [n]美食主義者 [adj]好美食的
++ enviable [adj]令人羨慕的/令人嫉妒的 = *very desirable*
++ epicure [n]美食家 = *connoisseur* 
++ epicurean [n]美食主義者 [adj]好美食的
 + epistemology [mn]知識論(探討知識的本質、起源和範圍的一個哲學分支) <-- epistemo 知識 = *knowledge* + logy
-+ [ersatz](/ˈəːsats/) [adj]代用的 = *substitute* = *synthetic* = *artificial*, 假的 = *faux* = *phony* <-- [德]取代
++ **[ersatz](/ˈəːsats/)** [adj]代用的 = *substitute* = *synthetic* = *artificial*, 假的 = *faux* = *phony* <-- [德]取代
 + erstwhile [adj]從前的/往昔的 = *former* = *previous* <-- erst 以前/往昔
 + escalate [v]擴大/加劇
 + [eschew](/ɛsˈtʃuː/) [v]避免/避開 = *shun* = *shirk* = *avoid* = *abstain* from = *steer* clear of 
@@ -1306,28 +1327,36 @@
 + [esoteric](/ˌɛsəˈtɛrɪk/) [adj]少數人才懂的/限於小圈子的 = *arcane* = *rarefied* <--> exoteric <-- esoter 裡面 = *inner* + ic 
 + [espouse](/ɪˈspaʊz/) [v]支持/擁護/採用 = *adopt* = *embrace*, [be espoused to](女性)與..訂婚
 + espousal [n]支持/擁護 = *advocacy* <-- spouse
-+ [essay](/ˈɛseɪ/) [v]企圖/嘗試 = *try* = *attempt* [n]散文/隨筆, 嘗試 <|> assay [](/əˈseɪ/)+ establish [v]建立/創立 = *found* = *institute*, 證實 = *prove* = *substantiate* --> established [adj]已確立的/被承認的, 繁茂的
-* establishment [mn]建立 [n]機構 --> Establishment [n]國家統治集團/權勢集團, 英國國教會
++ [essay](/ˈɛseɪ/) [v]企圖/嘗試 = *try* = *attempt* [n]散文/隨筆, 嘗試 <|> assay 
++ [establish](/əˈseɪ/) [v]建立/創立 = *found* = *institute*, **證實** = *prove* = *substantiate* 
++ established [adj]已確立的/被承認的, 繁茂的
+* establishment [mn]建立 [n]機構 
+* Establishment [n]國家統治集團/權勢集團, 英國國教會
 + [esteem](/ɪˈstiːm/) [mn]尊敬 [v]尊敬 = *regard*, 認為 = *regard* = *thikn* = *consider*
 + estimable (daj)值得尊重的 = *admirable*
-+ estrange [v]使疏遠 = *alienate* --> estranged [adj]疏遠的 = *alienated*, (夫妻)分居的 <-- [義]陌生 = *strange*
++ estrange [v]使疏遠 = *alienate* <-- [義]陌生 = *strange*
++ estranged [adj]疏遠的 = *alienated*, (夫妻)分居的 
 + estrangement [n]疏遠/失和, 分居/分離
-+ [ethos](/ˈiːθɒs/) [n](個人、團體或民族的)道德觀/精神特質/價值觀 = *disposition*
-+ [ethic](/ˈɛθɪk/) [adj]倫理的/道德的 = *moral* [n]倫理標準 --> ethics [n]倫理學, 道德標準
-+ ethical [adj]倫理的/道德上的, 道德的/合乎道德的, 憑處方出售的 <|> [ethnic](/ˈɛθnɪk/)
-+ [etiology](/ˌiːtɪˈɒlədʒi/), aetiology [n][醫]病原學, 追本溯源/原因論 <-- aeti, eti 原因 = *cause*
++ [ethos](/ˈiːθɒs/) [n]道德觀/精神特質/價值觀 = *disposition*
++ [ethic](/ˈɛθɪk/) [adj]倫理的/道德的 = *moral* [n]倫理標準 <|> [ethnic](/ˈɛθnɪk/)
++ ethics [n]倫理學, 道德標準
++ ethical [adj]倫理的/道德上的, 道德的/合乎道德的, **憑處方出售的** 
++ **[etiology](/ˌiːtɪˈɒlədʒi/)**, aetiology [n][醫]病原學, 追本溯源/原因論 <-- aeti, eti 原因 = *cause*
 + etymon [n]詞源/字根 --> etymology [n]字源學/詞源學
 + ether, aether [n]乙醚, 蒼穹, [古]以太
-+ [ethereal](/ɪˈθɪərɪəl/) [adj]天上的/非人間的 = *celestial*, 縹緲的/優雅的
++ **[ethereal](/ɪˈθɪərɪəl/)** [adj]天上的/非人間的 = *celestial*, 縹緲的/優雅的
 + evenhanded [adj]公平的 = *impartial* = *equitable* = *disinterested* = *fair* = *candid*
 + [eventual](/ɪˈvɛn(t)ʃʊ(ə)l/) [adj]最終的
 + eventuate [v]作為結果發生, [in]最終導致
 + [examine](/ɪɡˈzamɪn/) [v]細看 = *scrutinize*, 測驗, 審問 = *interrogate*
 + [exemplum](/ɪɡˈzɛmpləm/) -> exempla [n]例證/範例 = *example* = *model*
-+ exemplar [n]榜樣/楷模 = *paragon* --> exemplary [adj]可作楷模的, 懲戒性的
++ exemplar [n]榜樣/楷模 = *paragon* 
++ exemplary [adj]可作楷模的, 懲戒性的
 + exemplify [v]作為…的典例, 用例子說明 = *illustrate*
-+ exigent [adj]緊急的/急迫的 = *urgent* = *pressing* --> exigency [n]急需/迫切 = *urgent* need <-- ex + ig 做 = *drive* + ent
-+ [exiguous](/ɪɡˈzɪɡjʊəs/) [adj]稀少的/非常小的 --> [exiguity](/ɪɡzɪˈɡjuːɪti/) [n]稀少/細小
++ exigent [adj]緊急的/急迫的 = *urgent* = *pressing* <-- ex + ig 做 = *drive* + ent
++ exigency [n]急需/迫切 = *urgent* need
++ [exiguous](/ɪɡˈzɪɡjʊəs/) [adj]稀少的/非常小的
++ [exiguity](/ɪɡzɪˈɡjuːɪti/) [n]稀少/細小
 + exist [v]存在, 生存 = *survive*
 + existential [adj]存在的, 存在主義的
 + [exploit](/ɪkˈsplɔɪt/) [v]利用 = *utilize*, 剝削/濫用 = *milk* [n]英勇行為/輝煌的成就 = *feat*, 漏洞利用軟體
@@ -1338,14 +1367,17 @@
 * eddy [n](水或風)旋渦/渦流 [v]旋轉/迴旋
 * enemy [n]敵人/敵國 
 * energetic [adj]精力充沛的/充滿活力的 = *spirited* = *dynamic* = *lively*
-* entire [adj]全部的 = *whole*, 完全的 = *absolute*, 完好無缺的, (馬)未被閹割的 [n]在勢的公馬 --> entirety [n]全部/整體
-* [etch](/ɛtʃ/) [v]蝕刻/雕刻, 侵蝕 = *corrode*, 使明顯, 銘記 [mn]蝕刻 --> etching [mn]蝕刻術 [n]蝕刻版畫
-* enthuse [v](使)充滿熱情
+* entire [adj]全部的 = *whole*, 完全的 = *absolute*, 完好無缺的, (馬)未被閹割的 [n]在勢的公馬
+* entirety [n]全部/整體
+* [etch](/ɛtʃ/) [v]蝕刻/雕刻, 侵蝕 = *corrode*, 使明顯, 銘記 [mn]蝕刻
+* etching [mn]蝕刻術 [n]蝕刻版畫
+* **enthuse** [v] (使)充滿熱情
 * [enthusiasm](/ɪnˈθjuːzɪaz(ə)m/) [mn]熱情 = *zeal* [n]激發熱情的事物
 * [enthusiastic](/ɪnˌθjuːzɪˈastɪk/) [adj]熱情的 = *zealous* = *ardent* = *passionate*
 * [etiquette](/ˈɛtɪkɛt/) [n]禮節/規矩/成規 = *courtesy* = *amenity* = *decorum* <-- etiqu 附著 = *stick*, attach + ette
 * eternal [adj]永久的/永恆的 = *permanent* <|> internal <|> external
-* expert [n]專家 [adj]熟練的/專業的 --> [expertise](/ˌɛkspəːˈtiːz/) [n]專門技術 <-- experience
+* expert [n]專家 [adj]熟練的/專業的
+* [expertise](/ˌɛkspəːˈtiːz/) [n]專門技術 <-- experience
 * [extreme](/ɪkˈstriːm/) [adj]末端的, 極度的, 異常的 = *exceptional*, 非常嚴重的, 極端的(人或意見), 極限的/冒著危險的 [n]極端 = *antithesis*, 極度
 * extremist [n][貶]極端主義者
 
@@ -1355,35 +1387,36 @@
 - earring [n]耳飾
 - earshot [mn]聽力範圍
 - earsplitting [adj]震耳欲聾的 = *very* loud
-- earthly [adj]現世的, 塵世的 = *worldly* <|> unearthly
-- earthy [adj]土地的/泥土的, 粗俗的
-- easement [n]地役權(通常指依據契據或遺囑，土地使用人在他人擁有的土地上能享有的非營利利益，土地使用人藉此能夠獲得對此一土地特定的有限使用權利), 緩和/平靜
-- easel [n]畫架 <|> weasel
+- **earthly** [adj]現世的, 塵世的 = *worldly* <|> unearthly
+- **earthy** [adj]土地的/泥土的, 粗俗的
+- **easement** [n]地役權(通常指依據契據或遺囑，土地使用人在他人擁有的土地上能享有的非營利利益，土地使用人藉此能夠獲得對此一土地特定的有限使用權利), 緩和/平靜
+- **easel** [n]畫架 <|> weasel
 - eat [v]吃 [n]零嘴
-- eatery [n]餐館
+- **eatery** [n]餐館
 - eaves [n]簷/屋簷
 - eavesdrop [v]偷聽/竊聽 = *overhear* = *snoop* <-- eaves 屋簷 + drop
 - editorial [adj]編輯的 [n]社論
 - eerie [adj]怪異而令人恐懼的/令人毛骨悚然的
-- elan [n]熱忱/活力
-- elbow [n]肘, 衣服的肘部, 肘狀物 [v]用肘推 = *nudge*, 推擠, 摒棄(人或意見) = *dismiss*
-- elephant [n]大象 --> elephantine [adj]像大象的/巨大的/笨拙的 
-- elm [n]榆樹
+- **elan** [n]熱忱/活力
+- elbow [n]肘, 衣服的肘部, 肘狀物 [v]用肘推 = *nudge*, 推擠, **摒棄(人或意見)** = *dismiss*
+- elephant [n]大象
+- elephantine [adj]像大象的/巨大的/笨拙的 
+- **elm** [n]榆樹
 - emeritus [n]榮譽退休
-- emetic [adj]催吐的, [非]令人想吐的 [n]催吐劑
+- **emetic** [adj]催吐的, [非]令人想吐的 [n]催吐劑
 - empire [n]帝國, 大企業 [mn]皇權/絕對統治 [adj](風格)第一法蘭西帝國的 <|> empiric
 - empty [adj]空的, 空洞的/無意義的, 無價值的 [v]倒/倒空, 使成為空的, [into]流入(海洋或湖) [n]空瓶
 - [empyrean](/ˌɛmpʌɪˈriːən/) [adj]天空的 = *celestial* [n]蒼天/最高天, 天空
 - endnote [n]後記
-- ennui [mn]倦怠/無聊
-- [entr](/ˈɒntreɪ/)ée [n]主菜, 獲准進入的權力或特權/入場權
-- epinephrine [n]腎上腺素
-- equine [adj]馬的, 像馬的 [n]馬 <-- equ 馬 = *horse* + ine
+- **ennui** [mn]倦怠/無聊
+- **[entrée](/ˈɒntreɪ/)** [n]主菜, 獲准進入的權力或特權/入場權
+- **epinephrine** [n]腎上腺素 = adrenaline
+- **equine** [adj]馬的, 像馬的 [n]馬 <-- equ 馬 = *horse* + ine
 - equipment [n]配備/裝備, 裝配, 才能/知識/能力
 - errand [n]差事/跑腿
 - escalade [n]攀登城壁用的梯子 <-- e + scale 梯子 = *ladder* + ade
 - escalator [n]自動樓梯/電扶梯
-- [esophagus](/əˈsɑfəɡəs/) [n]食管/食道
+- **[esophagus](/əˈsɑfəɡəs/)** [n]食管/食道
 - [espionage](/ˈɛspɪənɑːʒ/) [n]諜報活動
 - espy [v]看見 = *descry* <-- [法]間諜 = *spy*
 - estate [n]地產, 私有土地/莊園, 資產/遺產
@@ -1395,33 +1428,37 @@
 - ewe [n]母羊
 - [ewer](/ˈjuːə/) [n]大口水罐 = *pitcher*
 
-[F]
-+ fabric [mn]織品/布料, 構造/結構 --> fabricate [v]捏造/編造 = *invent* = *concoct* = *vamp*, 製造 = *construct*
+## F
++ fabric [mn]織品/布料, 構造/結構 
++ fabricate [v]捏造/編造 = *invent* = *concoct* = *vamp*, 製造 = *construct*
 + fad [n]一時的流行/一時的狂熱 = *vogue* = *craze* --> faddish [adj]流行一時的/時尚的
-+ failing [n]缺點/弱點 = *defect* = *fault* = *shortcoming* = *weakness* (prep)如果沒有
++ failing [n]缺點/弱點 = *defect* = *fault* = *shortcoming* = *weakness* [prep]如果沒有
 + failure [mn]失敗 [n]失誤, 缺乏/不足 = *insufficiency*, 衰竭/失靈 = *decay* = *deterioration* = *decadence*, 破產
-+ faithful [adj][to]忠實的/忠誠的, (物品)可靠的 = *reliable*, 如實的
++ faithful [adj][to]忠實的/忠誠的, **(物品)可靠的** = *reliable*, **如實的**
 + fake [adj]假的 = *counterfeit* [n]冒牌貨/仿造品 = *forgery* = *sham*, 冒充者 [v]偽造 = *forge* = *counterfeit* = *fabricate*, 假裝 = *pretend*, [out]欺騙
-+ [fallacy](/ˈfaləsi/) [n]謬誤/謬論 = *sophistry*, 邏輯謬誤 --> [fallacious](/fəˈleɪʃəs/) [adj]謬誤的/錯誤的 = *erroneous*
-+ fallible [adj]容易犯錯的 = *liable* to err --> fallibility [n]容易出錯
++ [fallacy](/ˈfaləsi/) [n]謬誤/謬論 = *sophistry*, 邏輯謬誤 
++ [fallacious](/fəˈleɪʃəs/) [adj]謬誤的/錯誤的 = *erroneous*
++ fallible [adj]容易犯錯的 = *liable to err* -->
++ fallibility [n]容易出錯
 + [fallow](/ˈfaləʊ/) [adj]休耕的, 不活躍的/不活動的 = *inactive*, (母豬)未懷孕的 [n]休耕地, 淡棕色 [v]休耕 <|> callow <|> [follow](/ˈfɒləʊ/) 
-+ false [adj]錯誤的 = *erroneous* = *fallacious*, 非法的, 偽造的 = *counterfeit*, 人造的 = *artificial*, 虛偽的, 騙人的 = *deceptive*, 不忠的 = *treacherous*
++ false [adj]錯誤的 = *erroneous* = *fallacious*, 非法的, 偽造的 = *counterfeit*, **人造的** = *artificial*, 虛偽的, 騙人的 = *deceptive*, **不忠的** = *treacherous*
 + falsify [v]竄改/偽造/曲解 = *garble* = *juggle*, 證明…虛假 = *disprove* = *rebut*
 + falsehood [mn]虛假 [n]謊言, 說謊
 + [falter](/ˈfɔːltə/) [v]衰弱/動搖, 結巴 = *stammer* = *halt*, 蹣跚/搖晃 = *stumble* = *halt*
 + faltering [adj]步履蹒跚的, 結巴的
 + farsighted [adj]遠視的, 有遠見的/有先見之明的
 + fashion [mn]時尚 [n]流行, 方式 = *mode* = *manner* [v]使成形, [into]用..製作
-+ fastidious [adj]一絲不苟的/講究的/苛求的 = *finicky* = *fussy* = *picky* = *choosy* = *meticulous* = *painstaking* = *particular* = *scrupulous*, 有潔癖的 --> fastidiousness [n]
++ **fastidious** [adj]一絲不苟的/講究的/苛求的 = *finicky* = *fussy* = *picky* = *choosy* = *meticulous* = *painstaking* = *particular* = *scrupulous*, 有潔癖的 --> fastidiousness [n]
 + fathom [v]弄清/理解 = *apprehend* = *comprehend* = *plumb*, 測水深 = *plumb* = *sound* [n]噚(測水深的單位, 約1.8公尺)
 + [fatuous](/ˈfætʃuəs/) [adj]愚蠢的/昏庸的 = *foolish* --> fatuity [n]
-+ fault [n]缺點/缺陷/失誤 = *defect*, 咎/責任, 斷層 [v]批評, [be faulted]斷裂 --> faulty [adj]有缺陷的, 有瑕疵的(邏輯)
++ fault [n]缺點/缺陷/失誤 = *defect*, 咎/責任, 斷層 [v]批評, [be faulted]斷裂
++ faulty [adj]有缺陷的, 有瑕疵的(邏輯)
 + [fauna](/ˈfɔːnə/) [n]動物群 <--> flora
-+ [fawn](/fɔːn/) [n]未滿周歲的小鹿, 淡黃褐色 [v](鹿)生, [on/upon](狗)搖尾乞憐, [over/on]恭維/討好 = *adulate*
-+ fell [v]砍倒 = *cut* down, 擊倒 = *knock* down, 明縫 = *flat*-fell [adj]邪惡的/致命的 = *deadly*
++ [fawn](/fɔːn/) [n]未滿周歲的小鹿, 淡黃褐色 [v] (鹿)生, **[on/upon] (狗)搖尾乞憐**, **[over/on]恭維/討好** = *adulate*
++ **fell** [v]砍倒 = *cut down*, 擊倒 = *knock down*, 明縫 = *flat-fell* [adj]邪惡的/致命的 = *deadly*
 + felonious [adj]犯罪的, [法]犯重罪的
 - felon [n]重罪犯 --> felony [n]重罪
-+ feckless [adj]軟弱的/無氣力的 = *irresponsible* <-- feck 效用 = *empireect* + less
++ **feckless** [adj]軟弱的/無氣力的 = *irresponsible* <|> reckless
 + feeble [adj]虛弱的 = *frail* = *wan* = *debilitated* = *faint*, 軟弱的, 薄弱的/站不住腳的
 + [feign](/feɪn/) [v]假裝/假冒 = *dissemble* = *pretend* <|> foreign <|> deign <|> reign --> feigned [adj]假裝的, 不真誠的
 + felicity [mn]幸福/喜樂 = *bliss*, 得體/恰當的語句
@@ -1430,35 +1467,38 @@
 + [ferocious](/fəˈrəʊʃəs/) [adj]野蠻的/兇殘的 = *fierce* = *savage*, [非]強烈的/極度的 = *extreme* = *intense* <-- fierce
 + ferocity [mn]兇猛/殘暴
 + [ferret](/ˈfɛrɪt/) [n]雪貂, 搜尋 [v]用雪貂獵取, 搜尋/搜索 = *rummage*, [out]找到 = *discover*
-+ fetching [adj]迷人的 = *attractive*
++ **fetching** [adj]迷人的 = *attractive*
 + [fete](/feɪt/) [n]節日/喜慶 = *celebration* = *festival* [v]盛宴招待/款待
 + fetid [adj]有惡臭的 = *stinking* = *noisome* <|> fetish <-- fet 臭 = *stink* + id
 + [fetter](/ˈfɛtə/) [n]腳鐐 = *shackle* = *manacle*, 束縛 = *restraint* = *shackle* [v]把……上腳鐐, 束縛 = *restrain* = *confine*
 + fiat [n]威權性的命令 = *decree*
-+ fickle [adj]不忠實的/反覆無常的 = *capricious* --> fickleness [n]不忠實/易變 <|> sickle
++ **fickle** [adj]不忠實的/反覆無常的 = *capricious*
++ fickleness [n]不忠實/易變 <|> sickle
 + [fidelity](/fɪˈdɛlɪti/) [n]忠誠 = *loyalty*, 準確度/精確性 = *correspondence* <--- fidel 忠誠 = *loyal* + ity
 + filibuster [n/v]妨礙議事
 + finagle [v][非]欺騙/騙取 = *fleece*
-+ [finance](/fɪˈnans/) [n]財政, 資金支援, 資金 [v]提供資金 = *capitalize* --> financial [adj]財政的 [n]財政情況, 公司股票
++ [finance](/fɪˈnans/) [n]財政, 資金支援, 資金 [v]提供資金 = *capitalize*
++ financial [adj]財政的 [n]財政情況, 公司股票
 - fiance [n]未婚夫
 + find -> found -> found [v]找到/發現 = *discover*, 覺得/認為/意識到 = *perceive* = *feel*, 達到 [n]發現
-+ [finesse](/fɪˈnɛs/) [n]技巧/計謀/手段 = *trick* = *artifice* = *stratagem* [v]巧妙地應對 <-- fine
-+ [finicky](/ˈfɪnɪki/), [finical](/ˈfɪnɪk(ə)l/) [adj]過分講究的/挑剔的 = *fussy*
++ **[finesse](/fɪˈnɛs/)** [n]技巧/計謀/手段 = *trick* = *artifice* = *stratagem* [v]巧妙地應對 <-- fine
++ **[finicky](/ˈfɪnɪki/)**, **[finical](/ˈfɪnɪk(ə)l/)** [adj]過分講究的/挑剔的 = *fussy*
 + firebrand [n]挑動政治爭端者/煽動鬧事者, 在燃燒的木柴
-+ fitful [adj]斷斷續續的/一陣陣的
++ **fitful** [adj]斷斷續續的/一陣陣的
 + flaccid [adj]鬆弛的, (植物)萎軟的, 無活力的
-+ flag [v]做標示, 讓..注意到 = *draw* attention to, [down]打旗號使..停下, [off]打旗號作為..的開始, 用旗子裝飾, 變得疲倦/興趣衰減 [n]旗幟, 石板/鋪路石, 菖蒲 --> flagging [adj]變弱的
++ flag [v]做標示, 讓..注意到 = *draw* attention to, [down]打旗號使..停下, [off]打旗號作為..的開始, 用旗子裝飾, **變得疲倦/興趣衰減 **[n]旗幟, 石板/鋪路石, 菖蒲 
++ flagging [adj]變弱的
 + flamboyant [adj]炫耀的/賣弄的 = *showy*, 豔麗的/華麗的 = *florid* = *ornate* = *elaborately* styled [n]鳳凰木 <-- flame
 * fledge [v](幼鳥)變得羽翼豐滿, 撫育(幼鳥)
 + fledgling [n]剛會飛的幼鳥, 無經驗的人 = *novice* = *neophyte* = *tyro*
-+ [fleece](/fliːs/) [v][非]詐欺/敲詐, 彷彿被羊毛蓋住 [n]羊毛, 羊毛織物 <|> flee
++ **[fleece](/fliːs/)** [v][非]詐欺/敲詐, 彷彿被羊毛蓋住 [n]羊毛, 羊毛織物 <|> flee
 + fleet [n]艦隊, 海軍 [adj]敏捷的 = *swift* = *rapid* = *nimble* [v]掠過, 消磨, 逝去 = *fade* away
 + fleeting [adj]轉瞬即逝的/短暫的 = *transient* = *transitory* = *ephemeral* = *momentary* <|> fleeing
 + flip [v]翻轉, 空翻, 輕拍/清彈, 開/關, 擲硬幣, 失去控制, 變得狂熱, 炒短線 [n]突然的動作, 快速翻閱 [adj]輕浮的/油嘴滑舌的 
-+ flippant [adj]輕浮無禮的 = *frivolously* disrespectful
++ **flippant** [adj]輕浮無禮的 = *frivolously disrespectful*
 - flip-flop [n]人字拖鞋, 後手翻, (政策)突然的轉變, [電]觸發器 [v]啪嗒啪嗒響著, 突然轉變
 + flounder [v]掙扎/處於困境 = *flail* [n]比目魚 = *fluke* <-- flounce + founder
-+ [flout](/flaʊt/) [v]藐視(法律) = *contempt* = *scorn* = *disdain* = *belittle* = *trifle* <-- flute 長笛
++ **[flout](/flaʊt/)** [v]藐視(法律) = *contempt* = *scorn* = *disdain* = *belittle* = *trifle* <-- flute 長笛
 + fluke [n/v]僥倖/僥倖成功 [n]比目魚 = *flounder*, 吸蟲, 鯨魚尾鰭
 + fulminate [v]猛烈抨擊/嚴厲譴責 = *inveigh* = *rant* = *rail*, 爆炸 = *explore* = *detonate* <-- fulmin 閃電 = *lightning*
 + flummox [v][非]使困惑 = *bewilder* = *perplex*
@@ -1466,9 +1506,10 @@
 + fluster [v]使慌亂 [n]慌亂
 + [foible](/ˈfɔɪb(ə)l/) [n]小缺點/小毛病
 + foment [v]煽動 = *instigate* = *foster* = *incite* = *arouse* = *ferment* = *stir* up
-+ foolhardy [adj]有勇無謀的 = *audacious* = *reckless*
-+ [forage](/ˈfɒrɪdʒ/) [v]覓食, 搜索(糧秣) [n](牛馬的)飼料/糧草, 搜索/搜尋 = *rummage* --> forager [n]覓食者 <-- fodder
-+ ford [n]淺灘/可涉水而過之處 [v]涉水而過
++ **foolhardy** [adj]有勇無謀的 = *audacious* = *reckless*
++ [forage](/ˈfɒrɪdʒ/) [v]覓食, 搜索(糧秣) [n]牛馬的飼料/糧草, 搜索/搜尋 = *rummage* 
++ forager [n]覓食者 <-- fodder
++ **ford** [n]淺灘/可涉水而過之處 [v]涉水而過
 + forge [n]鐵匠鋪 = *smithy*, 熔鐵爐/煉冶場 [v]鍛造, 鍛鍊, 偽造 = *falsify*, 穩步前進 --> forger [n]偽造者
 + forgery [n]偽造, 偽造物/贗品
 + formidable [adj]令人生畏的/強大的/強力的 = *intimidating* = *forceful* = *powerful* = *puissant* <-- formid 恐懼 = *fear* + able
@@ -1480,17 +1521,17 @@
 + frequent [v]時常出入 = *haunt* [adj]時常發生的/頻繁的, 習慣的 = *habitual* --> frequency [n]頻率
 + fresco [n]壁畫 [v]畫壁畫 <|> fiasco
 + fresh [adj]新的, 新鮮的, 無經驗的 = *callow* = *green*, 剛到的, 額外的 = *additional* = *further*, 不鹹的, 新穎的 <--> stale
-+ [frieze](/friːz/) [n](室內或屋頂下方牆壁的)簷壁飾帶 [mn]起絨粗呢 <|> [freeze](/friːz/)
-+ [frivolous](/ˈfrɪv(ə)ləs/) [adj]不重要的 = *trifling*, 輕浮的/草率的 = *facetious* = *flighty* = *trifling*
++ [frieze](/friːz/) [n] (室內或屋頂下方牆壁的)簷壁飾帶 [mn]起絨粗呢 <|> [freeze](/friːz/)
++ **[frivolous](/ˈfrɪv(ə)ləs/)** [adj]不重要的 = *trifling*, 輕浮的/草率的 = *facetious* = *flighty* = *trifling*
 + frivolity [mn]輕浮/輕率 = *light*-heartedness
 + [froward](/ˈfrəʊəd/) [adj]剛愎的/固執的 = *disobedient* = *obstinate* = *contrary* = *intractable* = *wayward*
 + frown [n/v]皺眉 = *scowl* [v][on/upon]不贊成
 + frugal [adj]節約的/節儉的 = *provident* = *abstemious* = *thrifty* = *prudent* --> frugality [mn]節儉/簡樸 = *thriftiness*
 + frustrate [v]阻礙/阻撓 = *hinder* = *thwart* = *stymie*, 使氣餒 
-+ fulsome [adj]虛情假意的/過分恭維的, 大量的/豐富的 = *full* = *ample* = *abundant* = *copious*
++ **fulsome** [adj]虛情假意的/過分恭維的, 大量的/豐富的 = *full* = *ample* = *abundant* = *copious* <|> **wholesome**
 + fundamental [adj]基礎的/根本的 = *basic* = *underlying* = *substantial* [n]基本原則/根本法則
 + further [adv]更遠地, 進一步地, 而且/另外 = *furthermore* [adj]更遠的, 額外的 = *additional* [v]促進 = *promote* = *advance*
-+ furtive [adj]偷偷的/秘密的 = *sly* = *shifty* = *sneaky* = *stealthy* = *secretive* = *surreptitious*, 鬼鬼祟祟的 <-- furt 小偷 = *thief* + ive
++ **furtive** [adj]偷偷的/秘密的 = *sly* = *shifty* = *sneaky* = *stealthy* = *secretive* = *surreptitious*, 鬼鬼祟祟的 <-- furt 小偷 = *thief* + ive
 + fusion [n]融合 = *union* = *synthesis*, 核聚變 = *nuclear* fusion, 熔化/熔解
 + fusty [adj]腐壞的/發霉的 = *moldy* = *musty*, 陳腐的/守舊的/過時的 = *stale* = *hackneyed*
 + [futile](/ˈfjuːtʌɪl/) [adj]無效的/無益的 = *pointless* = *ineffective* = *unproductive* = *fruitless* = *vain* = *nugatory* 
@@ -1498,19 +1539,19 @@
 	
 * facsimile [n/v]摹寫 [v]傳真 = *fax*
 * faint [adj]頭暈的, 微弱的/暗淡的 = *dim* = *wan* = *opaque*, 渺茫的, 軟弱的 = *feeble* [n/v]昏厥
-* fair [adj]公正的/公平的, 恰當的/公正的, 白皙的/金髮的, 相當的, 相當好的, 晴朗的, 順風的, 說得好聽的/花言巧語的 [adv]公正地/按照規則 [n]露天遊樂場, 定期集市, 推廣會
-* flail [n]連枷 [v]胡亂揮動, 掙扎 = *flounder*, 打 = *beat* <|> frail
+* fair [adj]公正的/公平的, 恰當的/公正的, **白皙的/金髮的**, **相當的**, 相當好的, 晴朗的, 順風的, ((說得好聽的/花言巧語的)) [adv]公正地/按照規則 [n]**露天遊樂場**, **定期集市**, 推廣會
+* **flail** [n]連枷 [v]胡亂揮動, 掙扎 = *flounder*, 打 = *beat* <|> frail
 * fare [n]票價/費用, 乘客, 伙食 [v]進展 <|> welfare <|> ware
 * fascinate [v]吸引/迷住 = *attract* = *captivate* = *mesmerize* = *hypnotize*
 * fast [n/v]絕食/禁食 [adj]快的, 穩固的, (朋友)忠實的, 不褪色的 [adv]快, 緊緊地 = *securely*
 * fasten [v]扣緊/繫牢/固定, [on/upon]集中於
 - fastness [n]要塞/堡壘 [mn]不褪色
-* [fatigue](/fəˈtiːɡ/) [n]疲勞/精疲力盡 = *lassitude* = *languor*, 疲乏, [軍]雜役, 工作服 [v]使疲勞 = *exert*, 使疲乏
+* [fatigue](/fəˈtiːɡ/) [n]疲勞/精疲力盡 = *lassitude* = *languor*, 疲乏, **[軍]雜役**, **工作服** [v]使疲勞 = *exert*, 使疲乏
 * fatigable [adj]易疲勞的 <--> indefatigable
 * favor [n/v]支持/贊同 = *approval* = *support*, 偏袒 [n]小禮物, 善意 [v]有利於 = *facilitate*, [with]贈予/給予 = *bestow*, [非]像/相似 = *resemble*
 * favorable [adj]贊同的 = *positive*, [to]有利..的 = *propitious* = *advantageous*, 順風的, 好天氣的
-* [fertile](/ˈfəːtʌɪl/) [adj]肥沃的 = *fecund*, 想像力豐富的, 能生育的, 能孵的/受精的(種子或卵)
-* [fester](/ˈfɛstə/) [v]潰爛/化膿 = *suppurate*, 腐爛, 惡化
+* **[fertile](/ˈfəːtʌɪl/)** [adj]肥沃的 = *fecund*, 想像力豐富的, 能生育的, 能孵的/受精的(種子或卵)
+* [fester](/ˈfɛstə/) [v]潰爛/化膿 = *suppurate*, 腐爛, 惡化 <|> foster
 * [feud](/fjuːd/) [n]夙怨/長期爭鬥 = *quarrel* = *contention*, 世仇 [v]長期鬥爭 <-- foe
 * feudal [adj]封建的, 過時的 --> feudalism [mn]封建制度
 * fierce -> fiercer -> fiercest [adj]猛烈的/激烈的 = *ferocious*, 狂熱的/強烈的 = *fervent*
@@ -1518,31 +1559,35 @@
 * fine [adj]好的 = *superior* = *choice* = *excellent* = *rare*, 好的/同意的, 細的/窄的, 尖銳的 = *keen* = *sharp*, 細小的/細微的 = *minute* = *nice*, 難以捉模的 [v]變瘦, 使純淨, 罰 [n]罰款
 * fireplace [n]壁爐/火爐
 * fireplug [n]消防栓 = *fire* hydrant
-* filthy (daj)髒的/汙穢的 = *sordid* = *squalid*, 淫穢的/下流的 = *obscene*, [非]壞脾氣的, [非]可鄙的/卑劣的 = *contemptible*
-* [flair](/flɛː/) [n]天資/才能 = *bent* = *knack* = *natural* talent [mn]時尚
+- filth [n]骯髒/汙物, 髒話/下流話, 墮落 = *decadence* <|> filch
+* filthy [adj]髒的/汙穢的 = *sordid* = *squalid*, 淫穢的/下流的 = *obscene*, **[非]壞脾氣的**, [非]可鄙的/卑劣的 = *contemptible*
+* **[flair](/flɛː/)** [n]天資/才能 = *bent* = *knack* [mn]時尚
 * flap [n/v]拍打/拍動, 飄動 = *flutter* [n]蓋/邊, 襟翼, 拍動/拍打, [非]激動/慌亂 <|> flip <--> unflappable
-* flapper [n]年輕女子
-* flatter [v]諂媚/奉承 = *adulate* = *fawn*, 使高興, 比(實物)好看, 使…顯得更吸引人 --> flattery [mn]奉承/恭維 
-* [flaw](/flɔː/) [n]污漬, 缺點, 缺陷 [v]傷害/減弱/使無效 = *mar* = *weaken* --> flawed [adj]有缺陷的 = *wanting*
+* **flapper** [n]年輕女子
+* flatter [v]諂媚/奉承 = *adulate* = *fawn*, 使高興, 比(實物)好看, 使…顯得更吸引人
+* flattery [mn]奉承/恭維 
+* [flaw](/flɔː/) [n]污漬, 缺點, 缺陷 [v]傷害/減弱/使無效 = *mar* = *weaken*
+* flawed [adj]有缺陷的 = *wanting*
 * flighty [n]反覆無常的/不負責任的 = *fickle* = *irresponsible* <|> filthy
-* flinch [v](因疼痛或恐懼)畏縮/退縮 = *recoil*, [from]逃避 [n]畏縮/退縮
-* fling -> flung -> flung [v]用力地扔擲, 猛推, [oneself into]全心投入在…上, 怒氣沖沖地走 [n]一時的放縱
-* [flirt](/fləːt/) [v][with]挑逗/調情, (鳥)擺動/揮動 = *coquet* [n]調情者/打情罵俏者
+* flinch [v] (因疼痛或恐懼)畏縮/退縮 = *recoil*, [from]逃避 [n]畏縮/退縮
+* **fling -> flung -> flung** [v]用力地扔擲, 猛推, [**oneself into]全心投入在…上**, 怒氣沖沖地走 [n]**一時的放縱**
+* [flirt](/fləːt/) [v] [with]挑逗/調情, (鳥)擺動/揮動 = *coquet* [n]調情者/打情罵俏者
 * flirtatious [adj]挑逗的
 * flock [v]聚集/蜂擁 [n]一群, (充填墊子等的)軟填料
 * flowery [adj]花的, 詞藻華麗的 = *florid*
-* foam [v]起泡沫 = *froth* = *effervesce* = *bubble* [mn]泡沫, 海洋 = *sea*
+* foam [v]起泡沫 = *froth* = *effervesce* = *bubble* [mn]泡沫 = suds, 海洋 = *sea*
 * foamy [adj]泡沫的/起泡沫的 = *frothy*
-* [foil](/fɔɪl/) [n]陪襯物/陪襯者, 箔/金屬薄片, 鈍頭劍/花劍 [v]阻止 = *frustrate* = *balk*, [for]陪襯
-* fond [adj][of]喜愛, 快樂美好的/深情的 = *affectionate*, 天真的 = *naive* --> fondness [mn]喜愛 = *affinity*
+* [foil](/fɔɪl/) [n]陪襯物/陪襯者, 箔/金屬薄片, 鈍頭劍/花劍 [v]**阻止** = *frustrate* = *balk*, [for]*8*
+* fond [adj][of]喜愛, 快樂美好的/深情的 = *affectionate*, **天真的** = *naive* 
+* fondness [mn]喜愛 = *affinity*
 * franchise [n]投票權 = *suffrage*, 公民權, 特許經銷權, 版權 [v]給予特權或經銷權
-* frank [adj]坦率的/坦誠的 = *candid* = *straightforward* = *sincere* = *explicit* = *guileless* [v]在...上蓋戳 [n]法蘭克福香腸 = *frankfurter*
+* frank [adj]坦率的/坦誠的 = *candid* = *straightforward* = *sincere* = *explicit* = *guileless* [v]**在...上蓋戳** [n]法蘭克福香腸 = *frankfurter*
 * frantic [adj][with]心煩意亂的 = *distraught*, 緊張忙亂的 <-- frenzy
 * fray [n]磨損的邊緣, 競爭 [v]使精神緊繃, 留下氣味
 * foray [n]突襲, 初步嘗試 [v]進行突襲
-* [freight](/freɪt/)  [mn]貨物, 貨運, 運費 [n]運貨列車, 負擔 = *load* = *burden* [v]運輸, [be freighted with]充滿
+* [freight](/freɪt/) [mn]貨物, 貨運, 運費 [n]運貨列車, 負擔 = *load* = *burden* [v]運輸, [be freighted with]充滿
 * frenzy [n]瘋狂/狂熱
-* fret [v](使)焦慮 = *vex* = *harrow*, 侵蝕/腐蝕 = *gnaw* = *erode* = *corrode*, (侵蝕)形成(通道), 起波紋, 用卍字浮雕裝飾, 裝檔子 [n]卍字浮雕, (弦樂器指板上定音的)檔子, 海霧 = *sea* fret = *sea* fog
+* fret [v] (使)焦慮 = *vex* = *harrow*, 侵蝕/腐蝕 = *gnaw* = *erode* = *corrode*, (侵蝕)形成(通道), 起波紋, 用卍字浮雕裝飾, 裝檔子 [n]卍字浮雕, (弦樂器指板上定音的)檔子, 海霧 = *sea* fret = *sea* fog
 * fretful [adj]煩惱的/焦躁的
 * frisky [adj]愛玩的/活潑好動的 = *frolicsome* = *coltish*
 * frolic -> frolicked -> frolicked [n/v]嬉戲/玩鬧 = *gambol* = *romp* = *lark*, 挑逗 = *flirt* 
@@ -1553,78 +1598,79 @@
 * fulfil, fulfill [v]履行/實現 = *redeem*, 滿足/符合
 * fume [n]煙/氣/汽, 刺鼻的東西, 水汽 [v]生氣, 冒煙, 煙燻
 * furnish [v]爲…配備傢俱/佈置, 提供 = *supply* = *provide* = *yield*
-* fury [n]狂怒/暴怒, 狂暴/猛烈 --> furious [adj]狂怒的/怒不可遏的, 猛烈的/強烈的 = *rampant* = *raging* 
-* [fuss](/fʌs/) [n]過分激動/大驚小怪, 小爭論 = *dispute* = *argument*, 困難 = *trouble* = *difficulty* [v]大驚小怪, 忙於, 過分關心 = *cluck* <|> fuzz
-* fussy [adj]挑剔的 = *fastidious* = *picky* = *choosy* = *finicky* = *thorough*, 大驚小怪的 = *overwrought*, 充滿細節的
+* fury [n]狂怒/暴怒, 狂暴/猛烈
+* furious [adj]狂怒的/怒不可遏的, 猛烈的/強烈的 = *rampant* = *raging* 
+* **[fuss](/fʌs/)** [n]過分激動/大驚小怪, 小爭論 = *dispute* = *argument*, 困難 = *trouble* = *difficulty* [v]大驚小怪, 忙於, 過分關心 = *cluck* <|> fuzz
+* **fussy** [adj]挑剔的 = *fastidious* = *picky* = *choosy* = *finicky* = *thorough*, 大驚小怪的 = *overwrought*, 充滿細節的
 
-- fib [n]謊言 [v]說謊
-- [frigid](/ˈfrɪdʒɪd/) [adj]寒冷的, 冷淡的 --> frigidity [n]寒冷, 冷淡 <-- frig 冷 = *cold* + id
-- fade [v]變微弱/逐漸消失, 凋謝/枯萎, 褪色, [away](人)凋零, (影像)淡出 [mn]褪色 [n]淡出
+- **fib** [n]謊言 [v]說謊 <|> dibs
+- **[frigid](/ˈfrɪdʒɪd/)** [adj]寒冷的, 冷淡的 
+- frigidity [n]寒冷, 冷淡 <-- frig 冷 = *cold* + id
+- fade [v]變微弱/逐漸消失, 凋謝/枯萎, 褪色, [away]凋零, (影像)淡出 [mn]褪色 [n]淡出
 - fair-minded [adj]公平對待每個人的 
 - falcon [n]獵鷹/隼
 - fallout [n]輻射性落塵/原子塵, 不良影響/惡果
 - familiar [adj]親近的, 常見的 = *common*, [with]熟悉的, 親密的 = *intimate*, 不拘形式的 [n]使魔 = *familiar* spirit, 密友
 - familiarity [n]通曉/熟知, 親近, 不拘禮儀
-- famine [mn]飢荒 = *dearth* [n]短缺 = *shortage*
-- famish [v]使飢餓
+- **famine** [mn]飢荒 = *dearth* [n]短缺 = *shortage*
+- **famish** [v]使飢餓
 - fanatic [n]狂熱者 = *zealot* [adj]狂熱的
 - fanciful (ad)不切實際的, 幻想中的 = *fantastic*, 夢幻般的
-- fanfare [n]號角齊鳴
-- fang [n]牙/利齒, 蛇的毒牙, 蜘蛛的毒牙, 高速行駛的車輛 [v]高速駕駛
+- **fanfare** [n]號角齊鳴
+- fang [n]牙/利齒, 蛇的毒牙, 蜘蛛的毒牙, 高速行駛的車輛 [v]**高速駕駛**
 - fanaticism [n]狂熱/盲信
 - fantastic [adj][非]極好的, (數量)極大的, 幻想的/怪誕的, 奇怪的/難以置信的 = *strange* = *bizarre*
 - fantasy [n]想像/幻想, 奇幻小說, 幻想曲 = *fantasia* [v]想像 = *antasize* about
-- faraway [adj]遙遠的, 恍惚的/出神的
+- faraway [adj]遙遠的, **恍惚的/出神的**
 - far-flung [adj]遙遠的/分佈廣的/廣泛的
 - far-off [adj]遙遠的/久遠的
 - far-reaching [adj]影響深遠的
 - farce [n]滑稽戲/鬧劇, 鬧劇風格, 荒唐的舉動/滑稽的情景
 - farewell [n]告別
-- farm [n]農場, 農舍, 養殖場, 出產所 [v]務農, 把..做農場用, 經濟耕作或養殖, [out]發包/招人承包(工作), [out]把(兒童)託付照顧, [out]使(地力)衰竭
+- farm [n]農場, 農舍, 養殖場, 出產所 [v]務農, 把..做農場用, 經濟耕作或養殖, **[out]發包/招人承包(工作)**, **[out]把(兒童)託付照顧**, [out]使(地力)衰竭
 - fascist [adj]法西斯主義的 [n]法西斯主義者, 極右份子, 獨斷專行的人 = *dictator*
 - fashionable [adj]流行的/時尚的, 時尚人物經常造訪的(地方)
 - fast-forward [v]快進/快轉
 - fate [n]命運 [v][be fated]注定
 - fateful [adj]命中注定的
-- fatal [adj]致命的 = *lethal*, 災難性的
+- [fatal](/ˈfeɪt(ə)l/) [adj]致命的 = *lethal*, 災難性的
 - fatten [v]使長肥 <--> emaciate
 - fatty [adj]脂肪的, [醫]脂肪過多的 [n][非]胖子
 - faucet [n]水龍頭 = *tap*
 - faultfinder [n]吹毛求疵者/喜歡挑剔的人
 - faux [adj]人造的 = *artificial*, 假的 = *fake*
-- faux pas [n]失言/失禮
+- **faux pas** [n]失言/失禮
 - faze [v][非]使慌亂/使擔憂 = *disconcert* = *disturb* = *fluster*
 - fearmongering [mn]散布恐懼
 - feast [n]盛宴, (宗教上的)節日 [v]盛宴款待
 - feint [n/v]佯攻 <|> feign
-- fend [v]抵擋/擊退, 努力/力爭, 供養/照料
-- fender [n](車)擋泥板, (船)護舷的墊子
+- **fend** [v]抵擋/擊退, 努力/力爭, 供養/照料
+- fender [n] (車)擋泥板, (船)護舷的墊子
 - fern [n]羊齒植物/蕨
 - ferry [n]渡輪/擺渡船, 渡運 [v]用渡船運送, 擺渡
-- festoon [n]花綵/花環 = *garland* [v][be festooned with]以花綵裝飾
+- **festoon** [n]花綵/花環 = *garland* [v][be festooned with]以花綵裝飾
 - festal, festive [adj]喜慶的/歡樂的 = *merry* = *joyous*, 節日的 [v]山吃海喝, [on]大量地吃, 盛宴款待 <-- feast
 - fetish [n]戀物, 物神/迷戀, 崇拜 --> fetishize [v]迷戀 --> fetishisation [n]
 - fiasco [n]完全失敗/大失敗 = *debacle* <|> fresco
 - fiberglass [n]玻璃纖維, 玻璃棉
-- fibula [n]腓骨, 扣衣針/飾針
-- fiddle [n][航]餐具框, [非]小提琴 [v]胡來/亂動 = *dicker*, [around]遊蕩, [非]拉提琴
-- fidget [v]坐立不安/煩躁 [n]坐立不安, 煩躁不安的人 <|> budget
+- **fibula** [n]腓骨, 扣衣針/飾針
+- **fiddle** [n][航]餐具框, [非]小提琴 [v]胡來/亂動 = *dicker*, [around]遊蕩, [非]拉提琴
+- **fidget** [v]坐立不安/煩躁 [n]坐立不安, 煩躁不安的人 <|> budget
 - field [n]地/原, 領域, 視野範圍, 全體參加者, 底色, 場/域, 外野, 外野手 [adj]田野的 [v]派...出場比賽, 出選, 處理
 - fieldwork [mn]實地考察, 野戰工事
 - fiendish [adj]惡魔似的/殘忍的, [非]刁鑽的/棘手的
-- fig [n]無花果, 無花果樹 = *fig* tree, [非]服裝/盛裝 [v][非]穿上盛裝/打扮 = *array*
-- filament [n]細絲/長絲, 燈絲
-- filch [v]偷 = *pilfer*
-- file [n]銼刀, 文件/檔案, 縱列 [v]銼平, 歸檔, 提出(訴訟), 排成一列行進
+- fig [n]無花果, 無花果樹 = *fig tree*, [非]服裝/盛裝 [v][非]穿上盛裝/打扮 = *array*
+- **filament** [n]細絲/長絲, 燈絲
+- **filch** [v]偷 = *pilfer*
+- file [n]**銼刀**, 文件/檔案, 縱列 [v]銼平, 歸檔, **提出(訴訟)**, 排成一列行進
 - filing [n]存檔/歸檔, 存檔檔案/歸檔紀錄, 銼屑
 - film [n]薄膜, 薄層材料, 薄層, 影片, 電影 [v]拍攝, 在…上覆以薄膜
 - flimsy [adj]脆弱的 = *fragile*, 輕薄的, (藉口)不周密的 [n]薄紙 <|> film
-- filigree, filagree [n]金銀絲細工飾品 <-- fili 線 = *thread* + gree 顆粒 = *grain*
-- filly [n]小雌馬, [謔]小姑娘
-- filth [n]骯髒/汙物, 髒話/下流話, 墮落 = *decadence* <|> filch
+- **filigree**, filagree [n]金銀絲細工飾品 <-- fili 線 = *thread* + gree 顆粒 = *grain*
+- **filly** [n]小雌馬, [謔]小姑娘
 - final [adj]最後的 [n]決賽, 期末考
 - finale [n]終曲
-- finger-pointing [n]指責/責難
+- **finger-pointing** [n]指責/責難 = *dressing-down*
 - finish [v]結束/完成, 最後加工/潤飾 [n]結束, 最後階段, 潤飾/拋光/漆, 酒的餘味
 - firefly [n]螢火蟲
 - fishy [adj]魚的/似魚的, [非]可疑的
@@ -1634,39 +1680,39 @@
 - flabbergast [v][非]使吃驚 = *astonish*
 - flagpole [n]旗竿
 - flagstaff [n]旗桿 = *flagpole*
-- flak [mn]高射砲, 指責/抨擊 = *criticism* <|> flake <|> flask
-- flake [n]小薄片, 雪花, 片狀乾燥食物, 怪人, 靠不住的人, 曬魚或其他食物的架子, 一捲繩索 [v]成薄片/成片剝落, 剝落, 成片分開, 失約, [out]入睡/昏倒, 捲
+- **flak** [mn]高射砲, 指責/抨擊 = *criticism* <|> flake <|> flask
+- flake [n]小薄片, 雪花, 片狀乾燥食物, **怪人**, 靠不住的人, 曬魚或其他食物的架子, 一捲繩索 [v]成薄片/成片剝落, 剝落, 成片分開, **失約**, **[out]入睡/昏倒**, 捲
 - flammable [adj]易燃的 <-- flame
-- flange [n](火車車輪的)凸緣/輪緣
-- flank [n]脅/脅腹, (動物)腹肉, 側面, 翼側/側翼 [v]位於…的側面, 掩護…的翼側, 攻擊…的翼側
-- flare [n](火光)閃耀, 照明, 爆發(情緒) = *burst*, 太陽閃焰, 喇叭形展開 = *splay*, 船舷外傾 [v]閃耀, 爆發/加劇, [up]暴怒, 呈喇叭形展開, (鼻孔 )擴張
-- flashback [n]倒敘/插敘, 迷幻藥效幻覺
+- **flange** [n]火車車輪的凸緣/輪緣
+- **flank** [n]脅/脅腹, (動物)腹肉, 側面, 翼側/側翼 [v]位於…的側面, 掩護…的翼側, 攻擊…的翼側
+- flare [n]火光閃耀, 照明, 爆發(情緒) = *burst*, 太陽閃焰, **喇叭形展開** = *splay*, **船舷外傾** [v]閃耀, 爆發/加劇, [up]暴怒, 呈喇叭形展開, (鼻孔 )擴張
+- **flashback** [n]倒敘/插敘, 迷幻藥效幻覺
 - flask [n]燒瓶, 酒瓶, 攜帶瓶, 一瓶, 火藥瓶 = *powder* flask
 - flat [adj]平的/平坦的, 單調的/無聊的, 沒氣的(飲料或輪胎), 均一的/一律的, 絕對的 = *absolute*, [音]降音的 [adv]平, 在..旁, 順暢地, [非]完全地 = *completely*, 僅僅(時間), 降音地 [n]平坦部分, [flats]沼地/淺灘, [非]洩了氣的輪胎, 降半音符號
 - flat-footed [adj]扁平足的, 束手無策的, [非]平淡無奇的/毫無新意的
-- flat-out [adv]完全地
+- **flat-out** [adv]完全地
 - flatcar [n]平車/無蓋貨車
 - flatten [v]變平, 夷平, [非]擊敗, [非]大勝, 降半音 <|> flatter
-- flaunt [v]炫耀/誇飾 = *boast* = *brag*
+- **flaunt** [v]炫耀/誇飾 = *boast* = *brag*
 - flax [n]亞麻, 亞麻織品 <|> flex
-- flea [n]跳蚤
-- fleck [n]光斑, 斑點 = *speck* [v]飾以斑點
-- flesh [n]肌肉, 肉, 果肉, 皮膚/表皮, 肉體, 肉色 [v]用肉餵養, 使習慣於殺人, [out]增重, [out]以細節或資訊充實, [out]使肉剝離
+- **flea** [n]跳蚤
+- **fleck** [n]光斑 = blip, 斑點 = *speck* [v]飾以斑點
+- flesh [n]肌肉, 肉, 果肉, 皮膚/表皮, 肉體, 肉色 [v]用肉餵養, 使習慣於殺人, [out]增重, **[out]以細節或資訊充實**, [out]使肉剝離
 - flight [n]飛行/飛翔, 飛逝, 一群(鳥、蟲或飛行機) = *flock*, 樓梯的一段, 障礙賽的障礙物, (想像力)奔放, 飛鏢的尾部 [mn]逃跑 = *fleeing* [v]在(飛鏢或箭)裝上尾羽, 射(飛行中的野禽) <-- fly
 - flicker [v]閃爍/搖曳, 顫動 [n]閃爍/搖曳, 輕快的動作/閃現
 - flint [n]打火石/燧石 <|> fling
-- flinty [adj]燧石似的/含燧石的, 強硬的/堅定不移的 = *resolute* = *adamant*
-- flit [v]閃過/掠過 [n](偷偷地)搬家
+- flinty [adj]燧石似的/含燧石的, **強硬的/堅定不移的** = *resolute* = *adamant*
+- **flit** [v]閃過/掠過 [n]偷偷地搬家
 - floodgate [n]水閘門, 制約
 - floor [n]地板/地面, 底, 層 = *storey*, 議員席, 發言權 [v]在……鋪設地板, 把……打倒在地, 使困惑 = *baffle*
-- flotsam [mn]漂浮殘骸/漂浮貨物, 零碎雜物
-- flounce [n/v]急動/大步走動 [n]荷葉邊 = *frill*
-- fluff [n]絨毛, 蓬鬆物, 無意義的娛樂, [非]念錯臺詞 [v]使蓬鬆, [非]搞砸/弄糟
-- fluffy [adj]有絨毛的, (食物)蓬鬆的, [非]空洞的 = *disembodied* = *frivolous*
-- flunk [v][非](考試)失敗/不及格, 給...打不及格分數, [out]因不及格而被退學
+- **flotsam** [mn]漂浮殘骸/漂浮貨物, 零碎雜物
+- **flounce** [n/v]急動/大步走動 [n]荷葉邊 = *frill*
+- fluff [n]絨毛, 蓬鬆物, **無意義的娛樂**, [非]**念錯臺詞** [v]使蓬鬆, [非]搞砸/弄糟
+- fluffy [adj]有絨毛的, (食物)蓬鬆的, [非]**空洞的** = *disembodied* = *frivolous*
+- **flunk** [v][非](考試)失敗/不及格, 給...打不及格分數, [out]因不及格而被退學
 - flurry [n]一陣(雪或落葉), 一陣(忙亂), 一群 [v]吹, 忙亂地走 <|> furry
-- flutter [v]振翼/拍翅, 飄動/飄揚, 焦急地亂動, 不規則跳動 [n]振翼/飄動, 振顫, 音頻顫動
-- fly -> flied/flew -> flown [v]飛, 乘飛機旅行, 駕駛, 空運, 飛走, 飛傳, 擊飛, 飄揚/飛舞, 飛跑/飛奔, 趕緊離開, 飛逝, 成功 [n]前襠開口, 篷頂, 蠅, 瘟 [adj]迷人的
+- **flutter** [v]振翼/拍翅, 飄動/飄揚, 焦急地亂動, 不規則跳動 [n]振翼/飄動, 振顫, 音頻顫動
+- fly -> flied/flew -> flown [v]飛, 乘飛機旅行, 駕駛, 空運, 飛走, 飛傳, 擊飛, 飄揚/飛舞, 飛跑/飛奔, 趕緊離開, 飛逝, 成功 [n]**前襠開口**, 篷頂, 蠅, 瘟 [adj]**迷人的**
 - flyby [n]近天體探測飛行
 - flyer [n]飛人, 乘飛機的旅客, 小傳單
 - fob [n]表鏈, 表鏈上的裝飾物, 表袋, 鑰匙掛件
@@ -1676,72 +1722,73 @@
 - folder [n]文件夾/紙夾, 印刷品
 - [folk](/fəʊk/) [n]人們, 人群, 家族, 民間音樂 [adj]民間的/通俗的, 民眾的, 民間音樂的
 - folklore [mn]民間傳說 <-- folk + lore
-- follow-up [n][to]後續
+- **follow-up** [n][to]後續
 - folly [mn]愚蠢 = *foolishness* [n]愚蠢的行為, 裝飾性建築 <-- fool
 - foodstuff [n]糧食
 - foolproof [adj]簡單而不會誤用的
 - footage [n]連續鏡頭, 英尺長度
 - foothill [n]山麓丘陵
 - foothold [n]立足處/踏腳處, 穩固的基礎
-- footnote [n](註在本頁下方的)腳註, 次要事物/補充 [v]給……作腳註
+- footnote [n]註在本頁下方的腳註, 次要事物/補充 [v]給……作腳註
 - forcibly [adv]強行地, 有力地/有說服力地
-- fop [n]紈褲子弟/花花公子/過分講究衣飾或舉動的人 --> foppish [adj]過分講究衣飾或舉動的
+- **fop** [n]紈褲子弟/花花公子/過分講究衣飾或舉動的人
+- foppish [adj]過分講究衣飾或舉動的
 - [foreigner](/ˈfɒrɪnə/) [n]外國人
-- [forensic](/fəˈrɛnsɪk/) [adj]科學搜查的, 法庭的 --> forensics [n]科學搜查
+- **[forensic](/fəˈrɛnsɪk/)** [adj]科學搜查的, 法庭的 --> forensics [n]科學搜查
 - forestry [n]森林學, 林地 = *forestland* <-- forest
 - formaldehyde [n]甲醛
 - formless [adj]無定形的
 - forum [n]辯論的場所, 論壇, 法庭 = *court* = *tribunal*, 古羅馬城鎮的廣場
 - [fountain](/ˈfaʊntɪn/) [n]噴泉, 泉水, 源泉/根源 [v]像噴泉一樣噴或流出
 - four-poster [n]四柱大床
-- foyer [n]門廳
+- **foyer** [n]門廳
 - frack [v]水力壓裂 --> fracking [n]水力壓裂法採油
 - fragrant [adj]芳香的 --> fragrance [n]香味, 香水/鬍後水 = *perfume* = *aftershave* <|> flagrant
 - frail [adj]脆弱的/虛弱的 = *feeble*, 易碎的/亦受損的 [n][非]女性 <-- fragile
 - frailty [n]脆弱/虛弱, (性格上的)弱點/缺陷
 - frame [n]框, 身體, 架構 [v]表筐, 構築, 陷害
-- framer [n]組成者/籌劃者, 美國憲章制定者, 裝框者
-- frangible [adj]脆弱的/易碎的 = *fragile*
-- fraternal [adj]兄弟的/兄弟般的, 友愛的, 異卵的(雙胞胎)
-- freak [n]反常現象, 畸形的生物或植物, 怪胎, 狂熱者, 藥物成癮者 [v](使)反常, [out]嚇到
-- freakish [adj]反常的/古怪的 = *aberrant* = *strange* - fantastic
+- framer [n]組成者/籌劃者, **美國憲章制定者**, 裝框者
+- **frangible** [adj]脆弱的/易碎的 = *fragile*
+- **fraternal** [adj]兄弟的/兄弟般的, 友愛的, 異卵的(雙胞胎)
+- freak [n]反常現象, 畸形的生物或植物, 怪胎, 狂熱者, 藥物成癮者 [v] **(使)反常**, **[out]嚇到**
+- freakish [adj]反常的/古怪的 = *aberrant* = *strange*
 - freckle [n]雀斑/小斑點 [v]生雀斑
 - free -> freed -> freed [v]釋放, 解放, 使免於, 使..可用
 - freelancer [n]自由職業者
-- freewheeling [adj]無約束的/隨心所欲的
-- freshet [n]春汛/暴漲
+- **freewheeling** [adj]無約束的/隨心所欲的
+- **freshet** [n]春汛/暴漲
 - fraught [adj]令人焦慮的, [with]充滿...的 <-- freight
 - friable [adj]易碎的/脆弱的 = *frail* <-- fri 粉碎 = *crumble* + able
 - friction [mn]摩擦力, 摩擦, 爭執 <-- frict 摩擦 = *rud* + ion
 - [fright](/frʌɪt/) [n]驚嚇/恐怖, 恐怖的經驗
-- frill [n]褶邊/波形褶邊 = *flounce*, 不必要的裝飾/虛飾
-- frond [n]窄長的葉子/蕨類或棕櫚的葉子
-- froth [n]白沫/泡沫 = *foam*, 迷人而無價值的東西/淺薄空洞的東西 [v]起泡沫, 非常氣憤 <|> forth
+- **frill** [n]褶邊/波形褶邊 = *flounce*, 不必要的裝飾/虛飾
+- **frond** [n]窄長的葉子/蕨類或棕櫚的葉子
+- **froth** [n]白沫/泡沫 = *foam*, 迷人而無價值的東西/淺薄空洞的東西 [v]起泡沫, 非常氣憤 <|> forth
 - frothy [adj]起泡沫的/有泡沫的, 淺薄空洞的
-- fructose [n]果糖
+- **fructose** [n]果糖
 - fuddle [v]使糊塗/使喝醉 [n]糊塗
-- fulcrum [n]槓桿支點, 支柱
-- full-blown [adj]成熟的, 盛開的
-- full-bodied [adj]味道濃郁而強烈的
+- **fulcrum** [n]槓桿支點, 支柱
+- **full-blown** [adj]成熟的, 盛開的
+- **full-bodied** [adj]味道濃郁而強烈的
 - full-fledged [adj]發展完全的/完全訓練過的
-- full-on [adj]極度的, 過於嚴肅的, 狂熱的
+- **full-on** [adj]極度的, 過於嚴肅的, 狂熱的
 - fumble [v][about/around]亂摸/摸索, 笨拙地行動, 漏接球 [n]笨拙的處理, 漏接
 - fumigate [v]以煙燻消毒
 - funeral [n]葬禮/喪禮 = *interment* = *burial*
 - fungus -> fungi [n]菌類/蘑菇
-- fungible [adj][法]可替代的/可互換的
+- **fungible** [adj][法]可替代的/可互換的
 - funky [adj][非]節奏強勁的, 時髦的/不同尋常的, [非]有霉味的 = *musty*
-- furbish [v]磨光/擦亮/更新 = *refurbish* = *renovate*
+- **furbish** [v]磨光/擦亮/更新 = *refurbish* = *renovate*
 - furnace [n]鍋爐/熔爐, 暖氣爐
 - furor [n]盛怒 = *frenzy* <-- fury
 - furrow [n]犁溝, 溝 = *rut*, 皺紋 = *wrinkle* [v]開溝/形成溝, 犁田, 起皺紋
-- furry [adj]覆有毛皮的, 毛茸茸的 [n]獸控
-- fusillade [n](子彈的)齊射/連射
+- **furry** [adj]覆有毛皮的, 毛茸茸的 [n]獸控
+- fusillade [n]子彈齊射/連射
 - futuristic [adj]極其新潮的, 未來的, 未來主義的
-- fuzz [n]蓬鬆捲曲的毛髮 = *fluff*, 模糊, [非]警察 [v]使捲曲, 使模糊不清
-- fuzzy [adj]毛茸茸的 = *furry*, 模糊不清的, 困惑的 = *confused*
+- **fuzz** [n]蓬鬆捲曲的毛髮 = *fluff*, 模糊, [非]警察 [v]使捲曲, 使模糊不清
+- **fuzzy** [adj]毛茸茸的 = *furry*, 模糊不清的, 困惑的 = *confused*
 
-[G]
+## G
 + [gaffe](/ɡaf/) [n]出醜/失態 = *blunder* = *solecism* <|> guffaw <-- gaff 魚叉 + e
 + gainsay [v]否認/反駁 = *deny* = *contradict* = *naysay*, 反對 = *oppose* <-- gain 再次 = *again* + say
 + gall [mn]厚顏無恥, 膽汁 = *bile*, 怨恨/不滿 = *resentment* = *hatred* [n]膽囊, 擦傷 = *chafe* = *sore* [v]使惱怒, 擦傷
@@ -1997,7 +2044,7 @@
 - guzzle [v]大吃大喝/暴飲暴食 = *gobble* = *swill* = *quaff* = *gulp*
 - gyrus [n]腦回(形成大腦半球的組織)
 
-[H]
+## H
 - hackney [n]乘用馬, 出租馬車/出租汽車 = *hack*
 + [hackneyed](/ˈhaknɪd/) [adj]陳腐的/不新奇的 = *trite* = *banal* = *stale* = *clich*éd = *fusty* = *commonplace*
 + hail [n]冰雹, 一陣 [v]落下冰雹, 如冰雹般大量落下, 為..歡呼或喝采, 招呼/呼喊, [from]來自
@@ -2054,7 +2101,7 @@
 + homiletic [adj]布道的, 說教的 --> homiletics [n]講道術/說教術
 + hoodwink [v]欺騙 = *trick* = *deceive* = *dupe* = *hoax* = *delude*
 + hospitable [adj]好客的, 宜人的/宜居的 <--> inhospitable
-- hospice [n]臨終安養院
+- **hospice** [n]臨終安養院
 + hound [n]獵犬, [非]卑劣的人, 白斑角鯊 = *dogfish* [v]煩擾/騷擾 = *harass* = *persecute* = *pursue*
 + [hostile](/ˈhɒstʌɪl/) [adj]有敵意的 = *unfriendly* = *inimical*, 對立的 = *antagonistic* <|> [style](/stʌɪl/)
 + hostility [n]敵意/敵視 = *enmity* = *antagonism* = *unfriendliness* = *animus* = *animosity*, [hostilities]戰爭
@@ -2260,7 +2307,7 @@
 - hype [n][非]大肆宣傳, [非]詭計/欺騙, [非]皮下注射, [非]藥物成癮 [v][非]大肆宣傳, [非]使興奮/刺激
 - hyphen [n]連字號(-)
 
-[I]
+## I
 + [iconoclast](/ʌɪˈkɒnəklast/) [n]批評傳統觀念的人, 反對崇拜聖像者  <-- icono + clast 破壞者 = *breaker*
 + iconoclastic [adj]批評傳統觀念的
 + identical [adj]相同的 = *similar* = *alike*, 同卵的(雙胞胎)
@@ -2328,7 +2375,7 @@
 - itch [v]癢, 發癢, 覺得癢/發癢, 渴望 [n]皮膚病, 渴望, 疥瘡 = *scabies*
 - ivory [n]象牙, 象牙製品, [非]琴鍵, [非]牙齒, 象牙白
 
-[J]
+## J
 + jar [n]罐/廣口瓶, 一罐, 震動/搖動 [v]刺痛/刺激(神經), 震動/搖動 = *shake* = *vibrate*, 使人產生不愉快的感覺, 不和諧 
 + jarring [adj]令人感到不快的/刺耳的 = *discordant* = *cacophonous* = *harsh* = *strident* = *grating*, 劇烈搖晃的
 + [jaundice](/ˈdʒɔːndɪs/) [n]黃疸, 憤世嫉俗/偏見 = *resentment* = *cynicism* 
@@ -2389,7 +2436,7 @@
 - jumpstart [v]助動啟動, 給予額外的推力 [n]助動啟動, 額外的推力
 - junk [n][非]廢棄的舊物, 垃圾/廢話, 所有物, [非]海洛因 = *heroin*, [俗]陰莖 [v]當廢物丟棄/拋棄
 
-[K]
+## K
 + [keen](/kiːn/) [adj]銳利的/尖刻的 = *shrewd* = *piercing* = *fine*, 寒冷的/刺骨的 = *biting*, 精明的/敏銳的 = *acute* = *shrewd* = *astute* = *incisive*, [on]熱衷的 = *eager* = *interested*, 低廉的 = *competitive* [v]慟哭, 哀嚎 = *wail* [n]輓歌
 + kindle [v]著火/點燃 = *ignite* = *inflame*, 激勵/刺激 = *incite* = *arouse* = *excite* = *stir* up = *inflame*, (兔子)生
 + [kindred](/ˈkɪndrɪd/) [n]親屬, 血緣關係 [adj]相似的/有關的 = *associated* = *relevant* <-- kin
@@ -2430,7 +2477,7 @@
 - know-how [n]專業技能/知識 = *expertise*
 - knuckle [n]指關節, 四足獸膝關節, 肘/蹄, 用指關節摩擦或壓
 
-[L]
+## L
 + label [n]貼紙/標籤, 商標, 稱號/綽號, 標記/符號 [v]貼標籤於, 把……列為/把……歸類為
 + [labile](/ˈleɪbʌɪl/) [adj]不穩定的/易變的 <-- lab 滑 = *slip* + ile
 + lacerate [v]撕裂, 猛烈抨擊 = *inveigh* <-- lacer 撕 = *tear* + ate
@@ -2471,7 +2518,8 @@
 + listless [adj]無精打采的 = *spiritless* = *languid* = *dull* = *wan* --> listlessness [n]無精打采 = *lassitude*
 + litany [n][宗]連禱 <|> botany, 一連串 <-- litan 祈禱 = *pray* + y
 + [lithe](/lʌɪð/), lithesome [adj](身體)柔軟的 = *lissome* = *limber* = *supple* = *flexible* = *yielding* --> litheness [n]
-+ [litigant](/ˈlɪtɪɡ(ə)nt/) [n]訴訟當事人 --> litigation [n]訴訟 = *lawsuit* <-- litig 訴訟 = *lawsuit*
++ [litigant](/ˈlɪtɪɡ(ə)nt/) [n]訴訟當事人 
++ **litigation** [n]訴訟 = *lawsuit* <-- litig 訴訟 = *lawsuit*
 + littoral [adj]海岸的/沿岸的 [n]沿海地區 <-- litor = *shore*
 + livid [adj]非常憤怒的, 青紫色的
 + [loath](/ləʊθ/), loth [adj]不願的 = *unwilling* = *reluctant* = *disinclined* = *averse*
@@ -2620,11 +2668,12 @@
 - lobby [n]大廳, 遊說團, 遊說 [v]遊說
 - lobe [n]耳垂 = *earlobe*, (腦、肺等的)葉 <|> lode <|> lope
 - lock [v]鎖住, 固定住 [n]鎖, 水閘, 確信 = *certainty*, 一綹(頭髮), 頭髮
-- locust [n]蝗蟲, 蟬 = *cicada*, 刺槐豆 = *locust* bean, 刺槐 = *locust*
+- locust [n]蝗蟲, 蟬 = *cicada*, 刺槐豆 = *locust bean*, 刺槐 = *locust*
 - lode [n]礦脈, 泉源
 - lodestar [n]指示方向之星/北極星, 導師/引導物
 - loll [v]懶散地躺著或坐著 = *slouch*, (身體)下垂 = *droop*, 伸出(舌頭)
 - longtime [adj]做很久的(工作或事情)
+- longhand [adj]手寫的 [n]草書 = *cursive*
 - long-haul [adj]長途的/遠途的
 - longstanding [adj]由來已久的/長期存在的
 - loon [n]愚人, 潛鳥
@@ -2658,7 +2707,7 @@
 - lynch [v]以私刑處死
 - lyric [adj]抒情的 [n]抒情詩, 歌詞 <-- Lyra 天琴座 + ic
 
-[M]
+## M
 + [machiavellian](/ˌmakɪəˈvɛlɪən/) [n]權謀政治家 [adj](政治方面)詭計多端的/不擇手段的 = *crafty* = = *cunning* = *subtle* = *artful*
 + [macabre](/məˈkɑːbrə/) [adj]令人毛骨悚然的/以死亡為主題的
 + [maelstrom](/ˈmeɪlstrəm/) [n]大漩渦 = *whirlpool*, 大混亂 = *turmoil* <-- mael 碾碎 = *grind* + strom 流 = *stream*
@@ -2968,7 +3017,7 @@
 - mutiny [n/v]反叛/叛亂 --> mutineer [n]反叛者/背叛者
 - mutter [v]嘀咕 = *mumble* = *murmur*, 偷偷抱怨 [n]咕噥
 
-[N]
+## N
 + [narcissism](/ˈnɑːsɪsɪz(ə)m/) [n]自我陶醉/自戀 = *self*-flattery --> narcissist [n]自戀者
 + [nadir](/ˈneɪdɪə/) [n]最低點 = *lowest* point <--> acme, [天]天底
 + [naive](/nʌɪˈiːv/) [adj]天真的/幼稚的 = *unsophisticated* = *childlike* = *ignorant*, 無害的 = *innocent*, 樸素的(藝術)
@@ -3049,7 +3098,7 @@
 - nibble [v]咬一小口, 一點點地咬, 輕咬, 逐漸侵蝕/逐漸消失, 對(機會)表示興趣 [n]細咬/啃, 咬一口的量 = *morsel*, 小菜, 表示出興趣
 - nick [n]槽口/刻痕 = *cut* = *notch*, 警局 [v]割破/在…上刻出凹痕, [for]敲詐 = *cheat* = *swindle*
 - nifty [adj][非]絕妙的/俐落的, 有吸引力的/漂亮的
-- nigh [adv][古]接近地/靠近地, [古]幾乎 (prep)[古]接近 [adj][古]接近的
+- nigh [adv][古]接近地/靠近地, [古]幾乎 [prep][古]接近 [adj][古]接近的
 - nightfall [n]黃昏/傍晚 = *dusk*
 - niggardly [adj]吝嗇的 = *stingy* = *miserly* = *parsimonious* = *mean* = *ungenerous*, 很少量的
 - nightmare [n]惡夢, 可怕的事/夢魘 <-- night + mare
@@ -3074,7 +3123,7 @@
 - nutty [adj]像堅果的, 多堅果的, [非]狂熱的
 - nymph [n]居於山林水澤的仙女, 美麗的少女, 蛹
 
-[O]
+## O
 + [oblique](/əˈbliːk/) [adj]斜的/傾斜的 = *slanting* = *sloping*, 拐彎抹角的/間接的 = *circuitous* = *indirect* = *misleading* = *evasive* = *backhanded* [n]斜肌 --> obliquity [n]
 + [oblivion](/əˈblɪvɪən/) [n]無知覺/無意識, 被遺忘, 毀滅/滅絕 = *annihilation* = *extinction*, 大赦/赦免 = *amnesty* = *pardon*
 + oblivious [adj]未注意到的/未察覺的 = *unmindful* = *unconscious* = *unaware* <|> obvious
@@ -3175,7 +3224,7 @@
 - oxide [n]氧化物
 - oxidize [v]氧化/生鏽 <-- oxide
 
-[P]
+## P
 + [paean](/ˈpiːən/) [n]讚美歌/頌歌 = *hymn* = *eulogy* = *panegyric*
 + painstaking [adj]細心的/仔細的 = *careful* = *scrupulous* = *meticulous* = *fastidious* = *guarded* = *deliberate* = *thorough*
 + [palatial](/pəˈleɪʃəl/) [adj]宮殿般的/宏偉的 = *magnificent* = *stately* = *majestic* <-- palace
@@ -3573,7 +3622,7 @@
 - pyramid [n]金字塔, 角錐形物, 金字塔式騙局 = *pyramid* scheme [v]使成尖塔形
 - pyre [n]火葬用的柴堆 <|> pry
 
-[Q]
+## Q
 + quagmire [n]沼澤地 = *marsh*, 困境/窘境 = *mire* = *predicament* = *quandary* = *scrape* <-- quag + mire
 + quail [n]鵪鶉 [v]膽怯/憂心 = *cower* 
 + [quaint](/kweɪnt/) [adj]古雅的/古色古香的 = *oddly* picturesque <|> paint
@@ -3615,7 +3664,7 @@
 - quota [n]定額/配額
 - quote [v]引用/引述, [as]描述, 報價/開價 [n]引語/引文, 報價/開價, 引號 = *quotation* mark
 
-[R]
+## R
 + [raconteur](/ˌrakɒnˈtəː/) [n]善於講故事的人 <|> rancor <-- racont 講述 = *tell* + eur
 + raffish [adj]落拓不羈的/不修邊幅的
 + raft [n]木筏, 橡皮艇, 大量 [v]乘木筏渡, 把……紮成筏子
@@ -3830,7 +3879,7 @@
 - rush [v]衝/奔, 奔騰, 趕緊, 使倉促行事/催促, 急送, 急派, 匆忙地做, 突然襲擊, 跑動帶球, 參訪(兄弟會) [n]急速行動, 一陣, 忙碌時刻, 搶購/爭購, 一陣興奮, 燈心草
 - rustle [v]沙沙作響, 偷(牧場的牲畜), 急忙行動 = *hustle* [n]沙沙作響
 
-[S]
+## S
 + sage [n]聖人/賢人/哲人, 鼠尾草 = *salvia* [adj]賢明的/睿智的 = *wise*
 + sagacious [adj]有眼光的/睿智的 = *discerning* = *shrewd* = *keen* = *astute*
 + sagacity [mn]睿智/聰慧
@@ -3973,7 +4022,7 @@
 - stifling [adj]悶熱的 = *suffocating*, 感到壓迫的
 + stigma [n]汙名/污點 = *disgrace* = *inferiority*, 病斑, 點斑/眼點, [植]柱頭/眼點
 + stigmatize [v]給……帶來恥辱/汙辱 <-- stig 刺青 = *tattoo* + ma
-+ stint [v]節省/節制 = *economize* <--> unstinting [n]分配的工作, 定量/限額 = *quota*, 濱鷸
++ **stint** [v]節省/節制 = *economize* <--> unstinting [n]分配的工作, 定量/限額 = *quota*, 濱鷸
 + stunt [v]妨礙生長, 表演特技 [n]驚人的表演/驚險動作, 引人注目的花招/噱頭
 - stilt [n]高蹺, 支撐物/支柱, 長腳鷸
 + stilted [adj]生硬的, 踏著高蹺的
@@ -4605,16 +4654,18 @@
 - struggle [v]奮鬥/努力, 鬥爭/對抗, 掙扎 [n]奮鬥, 鬥爭, 掙扎
 - stub [n]殘端/殘段/殘肢/殘牙, 存根/票根 [v]使碰踢, 掐滅(菸頭), 連根拔除
 - stud [n]飾釘/飾鈕, 耳釘/鼻插, 板牆筋/壁骨, 種馬群, 種馬 = *stallion*, 風流男子 [v]用飾釘裝飾, [with]散布於/點綴
-- suds [n]肥皂水 = *soapsuds*, [非]啤酒
 - stuff [n]材料/原料, (某人擁有的或攜帶的)物品/東西, [非]毒品, 技巧/高超的能力, 素質/本質 [v]填/塞, 製作動物標本, 填餡, [非]大吃大喝
 - stuffy [adj]通風不良的/不透氣的, 鼻塞的, 古板的/保守的 = *conventional*
 - stump [n]樹墩/樹樁, 殘餘部分/殘肢, 政治演說的講臺或場合 [v][非]使……為難/難住 = *baffle*, [be stumped]不知所措 = *be* at a loss, 邁著沉重的步子走 = *stomp*, 在…進行政治遊說
 - stutter [n/v]結巴/口吃, 斷斷續續地運轉
 - stylus [n]唱針 = *needle*, 鐵筆/尖筆, 觸控筆
 - suckling [n](未斷奶的)乳獸/幼獸 = *cub* = *culf*
+- suds [n]泡沫 = *foam* = *froth*
 - sugarcoat [v]加上糖衣, 使有吸引力
 - suitcase [n]手提箱/箱子
 - sulfide [n]硫化物
+- **skulk** [v]隱匿/潛伏 = *lurk*
+- **sulk** [n/v]生悶氣/慍怒 = *brood* = *pout*
 - sulky [adj]生氣的/繃著臉的 = *angry* [n]雙輪單座馬車
 - sultan [n]蘇丹/回教國家統治者
 - sultry [adj]悶熱的, 性感的/迷人的 = *seductive* = *voluptuous*
@@ -4648,7 +4699,7 @@
 - [syllable](/ˈsɪləb(ə)l/) [n]音節, 音節字, 少許/幾乎 [v]按音節發音
 - syringe [n]注射器 [v](用注射器)沖洗(耳朵), 用注射器澆(植物)
 
-[T]
+## T
 + [talisman](/ˈtalɪzmən/) [n]護身符/避邪物
 + tacit [adj]心照不宣的/不明言的 = *implied* 
 + taciturn [adj]沈默寡言的 = *uncommunicative* = *reserved*
@@ -4799,7 +4850,7 @@
 - takeaway [n]外帶餐, 要點
 - takeoff [n]起飛, [非]模仿
 - taking [mn]拿/取, 進款/收入 [adj](人)迷人的 = *charming*
-- tally [n]比分/帳, 符木, 標籤/小牌 [v]吻合 = *agree* = *correspond*, 總計
+- **tally** [n]比分/帳, 符木, 標籤/小牌 [v]吻合 = *agree* = *correspond*, 總計
 - talon [n]猛禽的鋭爪, 鎖簧尖狀突出部, 發剩的牌
 - tambour [n]鼓, 刺繡用的繃圈, 鼓形柱 --> tambourine [n]鈴鼓/手鼓 <-- timbre
 - tamp [v]用黏土填塞(裝有炸藥的洞口), 搗實/敲緊
@@ -4919,7 +4970,7 @@
 - totalitarian [adj]極權主義的 [n]極權主義者
 - totem [n]圖騰/徽章, 象徵
 - touchy [adj]敏感的 = *oversensitive*, 棘手的/需要小心處理的 = *delicate*
-- touching [adj]動人的/感人的 = *poignant* (prep)關於/至於 = *concerning* = *about*
+- touching [adj]動人的/感人的 = *poignant* [prep]關於/至於 = *concerning* = *about*
 - tongue [n]舌, 牛舌/羊舌, 說話方式, 方言, 舌狀物(尤指鞋舌), 火舌 [v]用舌頭吹, 舔
 - touch-up [n]潤色
 - touchstone [n]試金石, 標準
@@ -5008,7 +5059,7 @@
 - typo [n][非]打字排印錯誤
 - tyre [n]輪胎, 輪箍
 
-[U]
+## U
 + ubiquity [n]無所不在 = *omnipresence* <-- ubiqu 到處 = *everywhere* + ity
 + ubiquitous [adj]無所不在的 = *omnipresent*
 + [urbane](/əːˈbeɪn/) [adj](尤指男子)從容自信的/溫文爾雅的 --> urbanity [n]雅緻/儒雅, 都市生活/都市風格
@@ -5042,7 +5093,7 @@
 - usefulness [n]有效
 - usurp [v]篡奪/奪取 <|> usury
 
-[V]
+## V
 + vacillate [v]猶豫/動搖 = *dither* = *falter* = *waver* <-- vacill 搖擺 = *sway* + ate
 + vacillation [mn]猶豫不決 = *indecision*
 + [vague](/veɪɡ/) [adj]模糊的 = *blurred*, 曖昧的/含糊的 = *ambiguous* = *equivocal* = *nebulous*
@@ -5143,7 +5194,7 @@
 - violet [n]紫羅蘭 [adj]紫羅蘭色的
 - virgin [n]處女/童男, 從未有過...經歷的人/新手 [adj]處女的, 未開發的/未經利用的
 - virility [n]男子氣概 = *manliness*
-- vis-a-vis (prep)對於/關於 = *with* regard to, 相較於 = *as* opposed to [n]相應的人面對面的談話
+- vis-a-vis [prep]對於/關於 = *with* regard to, 相較於 = *as* opposed to [n]相應的人面對面的談話
 - volley [v]齊發/群射 [n/v](質問)迸發/連發, 截擊(球)
 - voluminous [adj]寬鬆的(衣物), (家具)大而舒適的, 冗長的, 著作多的 <-- volume
 - voluptuous [adj]性感的/撩人的 = *seductive* = *sultry* = *luscious*, 令人愉悅的/令人舒服的 = *agreeable* <-- volupt 愉快 = *pleasure* + uous
@@ -5153,7 +5204,7 @@
 - vroom [n]汽車加速時發出的嗚嗚聲 [v]發嗚嗚聲
 - vulture [n]禿鷹
 
-[W]
+## W
 + waffle [n/v]猶豫不決 [n]鬆餅 [adj]蜂巢狀的
 + waggish [adj]詼諧的/滑稽的 = *humorous* = *facetious*
 + waive [v]放棄/撤回(權利), 不遵守(規則) --> waiver [n]放棄/不強求執行, 免支付協議/棄權聲明書
@@ -5293,7 +5344,7 @@
 - whipsaw [n]雙人橫切鋸 [v]鋸開, 使遭受雙重損失, 強迫 = *compel*, 欺騙/利用 = *cheat* = *exploit*
 - [whirl](/wəːl/) [v]旋轉, 疾駛/飛跑 [n]旋轉, 瘋狂的活動, 螺旋狀的點心
 - whirlpool [n]漩渦
-- whisk [v]迅速移動, 攪/打 [n]攪拌器, 撢 = *fly* whisk, 迅速移動
+- **whisk** [v]迅速移動, 攪/打 [n]攪拌器, 撢 = *fly* whisk, 迅速移動
 - whisper [v]低語, [be whisper]謠傳, 沙沙作響 [n]低語聲, 謠言, 沙沙聲, 一絲 = *whiff* = *hint* = *trace* 
 - whistle [n]口哨, 汽笛聲 [v]吹口哨
 - whistler [n]吹口哨的人, 哨聲波(由閃電產生的極低頻率或VLF電磁波)
@@ -5351,7 +5402,7 @@
 - writ [n]傳票/令狀, 權威 = *authority*
 - **writhe** [v]扭曲/扭動(身體), [in/with/at]痛苦不安/難堪
 
-[Y]
+## Y
 + yoke [n]軛, 壓迫/束縛/枷鎖, 一對銬上軛的(牲口), 上衣抵肩/裙腰, 紐帶/聯結 = *tie* = *link*, 飛機的操縱桿 [v]套上軛, 聯合/使結合 = *join* = *link* = *unite* = *associate*
 + [yield](/jiːld/) [v]產出/提供 = *produce* = *furnish*, 退讓/讓出/禮讓 = *cede* = *concede*, 放棄 = *relinquish* = *surrender*, (受壓)彎曲/垮掉 [n]產量, 收益 = *financial* return
 + yielding [adj]易彎曲的/柔軟的 = *flexible* = *supple* = *pliable* = *lithe*, 順從的 = *obedient* = *tractable* = *amenable* = *submissive* = *compliant*, 生產的 = *productive*
@@ -5376,7 +5427,7 @@
 - yokel [n]鄉巴佬 
 - youngster [n]小孩/年輕人/幼小動物
 
-[Z]
+## Z
 * [zeal](/ziːl/) [mn]熱忱/熱情 = *zest* = *fervor* = *enthusiasm*
 + zealot [n]狂熱者 = *fanatic* = *maniac*
 + zealotry [n]狂熱行為
@@ -5392,7 +5443,7 @@
 - zipper [n]拉鍊 [v]拉上拉鍊
 - zone [n]地帶/地區, 時區, 動植物分布帶 [v]分成區, 劃出……為區
 
-[Latin]
+## Latin
 - modus operandi [n]做法/工作方法/作案手法
 + [ad hoc](/ad ˈhɒk/) (adv)特別地/專門地 (adj)特別的/專門的
 - bon vivant [n]講究飲食和社交的人/喜歡享受的人
