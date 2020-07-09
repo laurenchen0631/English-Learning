@@ -3359,6 +3359,7 @@
 ## hor 憤怒/怕 = *bristle*, tremble
 + abhor [v]憎恨 = *abominate* = *loathe*
 + abhorrent [adj]可惡的 = *execrable*, 厭惡的, 悖逆的
+- **horrendous** [adj]駭人的
 - horrible [adj]可怕的
 - horrid [adj]可怕的, 令人不愉快的 --> horror [n]
 - horrific [adj]可怕的 <|> **terrific**
@@ -5178,6 +5179,7 @@
 	- overabundant [adj]過剩的/過多的 --> overabundance [n]過剩/過多
 	+ overbear [v]壓倒 = *overwhelm* = *overcome* 
 	+ overbearing [adj]專橫的/傲慢的 = *arrogant* = *domineering* = *dictatorial* = *imperious* <|> forbear
+	- overcoat [n]大衣, 外套
 	- overcome [v]克服, 擊敗, 壓倒 = *overpower* = *overwhelm* = *overbear*
 	- overdo [v]做得過火 = *exaggerate*, 使過於疲勞, 煮過頭 = *overcook*
 	- overdone [adj]做過頭的 = *exaggerated*, 煮過頭的 = *overcooked*
@@ -6586,7 +6588,7 @@
 	- recipient
 	- receptacle
 	+ recipe [n]食譜, 訣竅/方法
-	* reciprocate [v]給予適當的回應, 感同身受, 往復運動 <-- re + ci + pro + cate
+	* **reciprocate** [v]回報/答謝, 感同身受, 往復運動 <-- re + ci + pro + cate
 	+ reciprocity [mn]對等/互惠 --> reciprocal [adj]回報的/報答的, 相互的/互惠的, 倒數的 [n]倒數 <-- reciprocate
 	- reclaim --> reclamation
 	+ recoil [v]退縮/畏懼 = *flinch*, 彈回, [on/upon]產生反作用給 [n]彈回/跳回 <-- re + coil
@@ -7707,7 +7709,7 @@
 + pertinent [adj]有關的 = *relevant* = *apposite* = *applicable* <|> appurtenant --> pertinence [n]
 - pertinacious [adj]固執的/不妥協的 = *intransigent* = *uncompromising* = *inflexible* = *obstinate*
 + retain [v]保留 = *maintain* = *preserve*, 維持/保持, 記得, 吸收/留住, 固定, 聘/僱, 預付
-- retainer [n]固定器, 預付金, 侍從 = *servant*
+- retainer [n]牙齒固定器/牙套, 預付金, 侍從 = *servant*
 - retention [n]保留/保持 <-- retain
 - retinue [n]隨員/扈從
 + sustain [v]撐 = *support* = *bear*, 遭受/蒙受 = *suffer* = *undergo*, 維持/使持續, 扮演, [法]確認/認可 = *uphold* = *affirm*

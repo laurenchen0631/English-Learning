@@ -8,6 +8,7 @@
 
 ## Time
 - right off the bat [adv]立刻
+- now and again [adv]有時
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -36,3 +37,24 @@
 - rub it in one's face [v]在傷口上灑鹽 = to point out someone's mistake or failure quite crudely
 - cover (one's) bases [v]面面俱到 == cover all the bases
 - have someone cold [v]To have one utterly under control, to the extent that their actions can be dictated.
+- make a day of it [v]開心
+- out of one's league [adj]配不上
+- be pressed for time [v]時間緊迫
+- crack the whip [v]威逼/施威
+- rain on one's parade [v]潑冷水/掃興
+- give sb the runaround [v]搪塞/打發（某人）
+
+## Demotic
+- make out [v]理解, 填寫, 應付, 親熱, 暗示
+- hold up [v]持槍搶劫, 延誤, 支持
+- put off [v]拖延
+- pick on [v]刁難
+- wrap it up [v]住口
+- fool around [v]鬼混
+- wing it [v]即興發揮
+- throw off something/someone [v]出錯/使困惑 = to cause an amount to be wrong or a person to be confused
+- be around [v]存在, 活躍
+
+## Dialect
+- fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
+- one-night stand [n]一夜情, 僅演一次的演出

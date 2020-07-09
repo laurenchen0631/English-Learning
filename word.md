@@ -458,6 +458,7 @@
 - bedlam [mn]混亂/騷亂 = *uproar* = *confusion* = *riot* <--> serenity
 - **bedraggled** [adj]全身泥汙的
 - bedside [n]床邊
+- beet [n]甜菜, 甜菜根
 - beetle [n]甲蟲, 木槌 [v]**[非]匆忙趕往**, 用槌打/用杵搗, 凸出 [adj] (眉毛)粗濃的
 - befall [v] (壞事)降臨於(某人)
 - befit [v]合適 = *suit*
@@ -509,6 +510,7 @@
 - **blonde** [adj]金髮碧眼的 [n]白膚金髮碧眼的女人, 亞麻色
 - [bloom](/bluːm/) [v]開花, 成長茁壯, 發光, 鍛鐵 [n]鍛鐵塊, 花, 花期, 白霜, 藻華/優養化
 - blooming [adj]盛開的, 精力旺盛的 = *thriving*
+- blossom [n]花, 興旺期 [v]開花, 發展
 - blot [v]弄髒 = *smudge* = *stain*, 吸乾/擦掉 = *ink*, 使蒙恥, [out]把……弄模糊/遮暗 [n]墨水漬/污漬 = *blotch*, 汙點, 瑕疵 <|> bolt
 - blotch [n]大塊污跡 = *blemish* = *stain* [v]弄髒 
 - blowhard [n]吹牛者/自吹自擂的人 = *braggart* = *braggadocio*
@@ -520,7 +522,7 @@
 - **blunder** [n] (通常由於粗心或欠考慮而釀成的)大錯 [v]跌跌撞撞地走, 釀成大錯/犯大錯 <|> asunder <-- blind
 - blur [n]模糊不清的事物(景象或記憶) [v]使模糊 <|> slur <|> blurt <|> blurb <|> blunt
 - blurb [n] (書的)簡介/推薦語 [v][非]寫推薦語
-- blurt [v]脫口而出
+- blurt [v][out]脫口而出
 - **blush** [n/v]尷尬臉紅 [v]變成紅色 [n]紅色 <|> brush <|> flush <|> lush
 - blusher [n]胭脂/腮紅
 - bluster [v] (風雨)呼嘯, 咆哮 = *roar* = *shout* [mn]咆哮 
@@ -621,6 +623,7 @@
 - bungling [mn]搞砸 [adj]笨拙的/拙劣的 = *bumbling*
 - bureau [n] (政府機構的)局/司/署/處, 辦事處/辦公室/聯絡處
 - **burglary** [n]破門竊盜
+- burgundy [n]酒紅色
 - **[burgher](/ˈbərɡər/)** [n]市民
 - burial [mn]埋葬 = *interment* [n]葬禮 = *funeral*, 墓地
 - burnout [n]燃料燒盡, 過熱, 精疲力竭
@@ -858,6 +861,7 @@
 - cadence [n]抑揚頓挫, 節奏, 結尾 <|> cascade
 - cadet [n]軍校生/警校生, 次子/幼子 <|> cadge
 - [cadre](/ˈkɑːdə/) [n]一小群, 共產黨員/革命組織成員
+- **cagey**, **cagy** [adj]小心翼翼的 = chary, 機靈的/精明的 = canny = clever
 - calf [n]小牛, 仔, 小牛皮, 腓/小腿
 - calk, caulk [v]填塞/填隙 [n]填隙物
 - callback [n]第二次面試, 收回
@@ -873,6 +877,7 @@
 - [cannon](/ˈkanən/) [n]大砲/火砲, 飛機或坦克上的機關砲 <|> canon <|> canyon
 - [canyon](/ˈkanjən/) [n]峽谷
 - **canteen** [n]工廠、學校等的餐廳, 福利社/小賣部
+- caribou [n]北美馴鹿
 - **canvass** [v]遊說, 贏取(支持) = *botain*, 提出(意見或計劃)供考慮 = *moot*, 詳細討論 [n]遊說, 討論
 - crevasse [n]冰河裂縫
 - cameo [n]客串角色/小配角, 多彩浮雕珠寶飾物
@@ -893,6 +898,7 @@
 - cartel [n]企業聯合 = *syndicate*
 - cascade [n]小瀑布, 傾瀉, 大量, 資訊傳遞, 串聯 [v]傳遞, 串聯
 - [cask](/kɑːsk/) [n]圓木桶, 一桶
+- casket [n]棺材/骨灰盒, 首飾盒 [v]把……裝進小箱或棺材
 - **catapult** [n]石弩 [v]用彈射器發射, 快速移動/躍
 - **catamaran** [n]筏
 - **catching** [adj]傳染性的, 具傳染力的 = *contagious*
@@ -958,6 +964,7 @@
 - chute [n]導槽/滑運道, 滑水道, [非]降落傘 = *parachute*
 - **[chutzpah](/ˈxʊtspə/)** [mn]膽量/厚臉皮
 - **cicatrix** [n]瘢痕(傷口癒合的痕跡), 葉痕
+- cider, cyder [n]蘋果汁/蘋果酒
 - cinder [n]煤渣/炭渣, 餘燼 = *ashes* [mn]爐渣/溶渣 = *slag*
 - cipher, cypher [n]密碼/密碼文件, 零 = *zero* = *nil*, 無影響力之人/無名小卒 = *nonentity*, 花押字 = *monogram* [v]編碼 = *encode*
 - clam [n]蛤蜊/蛤肉, 守秘密之人
@@ -1039,6 +1046,7 @@
 - couple [n]對/雙, 一對舞伴, 夫婦/未婚夫妻, 幾個/一點點 [v]結合, 連接, 與..有性關係
 - cove [n]小海灣, 山凹/洞穴 = *recess*, [建]凹圓形/拱 [v]使成穹形
 - coy [adj]靦腆的/害羞的, 遮遮掩掩的/含糊其詞的
+- cracker [n]薄脆餅乾, 鞭炮/爆竹
 - **crackdown** [n]鎮壓
 - crackle [v]發出細碎的爆裂聲, 使充滿生氣 [n]細碎的爆裂聲, 碎裂花紋
 - **crag** [n]懸崖/峭壁
@@ -1767,6 +1775,7 @@
 - folklore [mn]民間傳說 <-- folk + lore
 - **follow-up** [n][to]後續
 - folly [mn]愚蠢 = *foolishness* [n]愚蠢的行為, 裝飾性建築 <-- fool
+- follicle [n]小囊/濾泡/毛囊
 - foodstuff [n]糧食
 - foolproof [adj]簡單而不會誤用的
 - footage [n]連續鏡頭, 英尺長度
@@ -1937,6 +1946,7 @@
 - **gaff** [n]魚叉 [v]用魚叉捉 <|> **guff**
 - **gaggle** [n]鵝群, [非]一群(吵鬧的人)
 - gait [n]步伐/步態
+- gal [n]女生 = girl
 - gay [adj]同性戀的, 快樂的/爽朗的, 鮮豔的/豔麗的 = *showy*, 笨的 = *foolish* [n]同性戀
 - galaxy [n]銀河星群, 一群(出色的人或燦爛的事物)
 - gale [n]強風, [氣象]大風/八級風 = *fresh* gale, 一陣(笑聲)
@@ -2042,8 +2052,10 @@
 - gob [n]一塊(黏質物), 大量, [非]水手
 - gobble [v]貪婪地吃/狼吞虎嚥 = *guzzle*, 大量消耗, 併吞/掌控, (火雞)咯咯地叫
 - goggle [v]瞪大眼睛看, (眼睛)睜大 [adj]凸眼的 [n]護目鏡, 瞪視
+- **gore** [n]凝血/血塊, 血, 三角形布 [v]刺傷
 - gorilla [n]大猩猩, [非]壯而兇惡的男人
 - gospel [n]福音, 真理, 信條/準則, 福音書, 福音音樂
+- **gourd** [n]葫蘆, 瓢
 - gourmet [n]美食家
 - grace [n]優雅, 風度, [graces]魅力, 恩典/慈悲, 善意, 寬限, 感恩祈禱 [v]使增光, 裝飾
 - gracious [adj]和藹的/慈祥的 = *benign* = *generous*, 富足安逸的/華美的 (excl)哎呀/天哪
@@ -2336,6 +2348,7 @@
 - hospitalization [n]住院治療
 - hostage [n]人質
 - hostel [n]旅舍, 青年旅舍 = *youth* hostel
+- hothead [n]性急的人/暴躁之人
 - household [n]一家人/家眷/家庭/戶
 - **hovel** [n]茅舍/骯髒的小屋 = *hut*
 - hover [v]盤旋, 猶豫, 徘徊, 停留 [n]盤旋/徘徊
@@ -2635,6 +2648,7 @@
 * **[lecher](/ˈlɛtʃə/)** [n]好色之徒 = *satyr*
 * lecherous [adj]好色的/淫蕩的 = *lascivious* = *lustful* = *salacious* = *wanton*
 * leftover [n]殘餘物/剩菜 [adj]多餘的/剩下的 = *remaining*
+* legible [adj]清楚的/易辨認的(字跡)
 * leisure [mn]閒暇/空閒, [for/to]閒暇機會 --> leisurely [adj/adv]悠閒的 --> leisureliness [n]悠然/從容
 * lessen [v]減少/降低/減輕 = *allay*  = *diminish*
 * [leviathan](/lɪˈvʌɪəθən/) [n]巨大海獸, 巨物/強者 = *behemoth*, 獨裁政權
@@ -3176,7 +3190,9 @@
 
 - nag [v]跟……糾纏不休, 困擾/憂心 [n]不斷糾纏的人, 憂慮, [非]老馬/駑馬 = *jade*
 - nagging [adj]騷擾的, 憂心的 = *brooding*
+- nana [n]祖母
 - nanny [n]保姆, 母山羊 = *nanny* goat [v]做保姆, 過度保護
+- narc [n]緝查麻藥的刑警
 - nary [adj]沒有 == not
 - nasal [adj]鼻的, 鼻音的 [n]鼻音
 - nasty [adj]糟糕的/令人不快的 = *unpleasant*, 濕冷的, 令人厭惡的 = *repungant*, 不友善的/惡意的, 有害的 = *harmful* [n][非]討厭的人, 恐怖影片 
@@ -3323,6 +3339,7 @@
 - otherworldly [adj]超凡脫俗的/超脫塵世的 = *unwordly*, 來世的
 - otter [n]水獺
 - ottoman [n]軟墊凳/絨腳墊
+- ounce [n]盎司, 雪豹
 - out-of-pocket [adj]不在預算的
 - ovation [n]大喝采/熱烈鼓掌 = *applause*
 - overture [n]前奏曲/序曲, 開端/序幕, **主動的表示/提議**
@@ -3542,6 +3559,7 @@
 - panic [mn]恐慌/驚慌, [非]慌張 [n]黍 = *panic* grass [v]使恐慌 
 - pant [v]喘氣, 邊跑邊喘, 氣喘吁吁地講, 渴望, 悸動/跳動 [n]喘氣, 悸動/跳動 = *palpitate*
 - pants [n]褲子/長褲 = *trousers* <-- pantaloon
+- pantsuit [n]女套裝
 - panther [n]黑豹, 美洲獅 = *puma*
 - pantry [n]食品室 = *larder* <|> pastry <|> paltry
 - parade [n]行進/遊行, 閱兵典禮, 展覽, 炫示, 閱兵場/練兵場 = *parade* ground [v]列隊行進, 標榜, [as]偽裝/冒充 = *masquerade* as
@@ -3620,7 +3638,7 @@
 - piercing [adj]精明的/敏銳的 = *perceptive*, 刺耳的, 寒風刺骨的 = *keen*, 強烈的 = *fierce* [n]耳洞
 - pigeon [n]鴿子, 易受騙的人, 飛靶
 - pilfer [v]偷竊(小東西)
-- pilgrim [n]朝聖者, 旅行者
+- pilgrim [n]朝聖
 - pilgrimage [n]朝聖, 旅行, 人生 <|> plagiarism
 - pillage [n/v]搶劫/掠奪
 - pillar [n]柱子, 棟樑/臺柱
@@ -3628,6 +3646,7 @@
 - pimple [mn]面皰/粉刺 = *acne*
 - pinch [v]捏/掐 = *queeze*, 抿(嘴唇), [非]偷取/擅自拿取, 節儉度日 [n]捏/掐, 一搓/一點
 - pint [n]品脫
+- pipsqueak [n]小人物
 - pirouette [n/v](芭蕾舞)腳尖旋轉
 - pistol [n]手槍 = *handgun* [v]用手槍射擊
 - pitch [n]音高, 坡度, 強度/力度, 捕手丟球, 推銷, 前後擺盪, 間距/螺距, 瀝青 = *asphalt*, 像瀝青之物/樹脂/松脂 [v]為……定音高, 使(屋頂)向下傾斜, 投球, 扔/拋, 重重摔落, 搭帳篷/紮營, 鋪路 = *pave*
@@ -3928,7 +3947,7 @@
 - rhubarb [n]大黃, 激烈的爭論
 - rib [n]肋骨, 傘骨
 - ribbing [n]肋骨狀組織/羅紋, [非]善意的戲弄/逗弄 = *banter* = *raillery*
-- rickety [adj]搖搖欲墜的/要散架的 = *ramshackle*, 軟骨病的
+- **rickety** [adj]搖搖欲墜的/要散架的 = *ramshackle*, 軟骨病的
 - ricochet [n/v](子彈)跳彈, 彈開
 - rider [n]附文/附件, 騎手
 - ridge [n]脊/隆起部, 田壟, [氣]高壓脊 [v]使成脊狀
@@ -4510,6 +4529,7 @@
 - shutoff [n]關閉器 [mn]停止/中斷 = *cessation* = *cessation*
 - shudder [n/v]顫慄/發抖
 - shunt [v]使(火車)轉軌, 推 = *shove* = *push*, 把…轉至/調往(另一地方), 裝上分流器 [n]推, 分流器, (身體裡可讓液體流動)的通路
+- shush [v]噓/要某人安靜
 - shutter [n]百葉窗, 快門/遮光器, (風琴等的)開閉器 [v]關上……的百葉窗, 停止(營業)
 - shuttle [n]往返旅行, 太空梭 = *space* shuttle, 梭子, 羽毛球/板羽球 = *shuttlecock* [v]往返旅行, 往返運送
 - sib [n]手足 = *sibling*, 親族
@@ -4700,7 +4720,7 @@
 - [spray](/spreɪ/) [n]水花, 噴霧, 噴霧器, 噴灑, 小樹枝, 花束 [v]噴抹, 噴灑, 濺散, 散, 掃射, (公貓)噴尿, 亂丟/亂踢
 - spree [n/v]玩樂/短暫的放縱
 - sprig [n]帶葉小枝/嫩枝, 後裔
-- spritz [n/v]噴/噴灑
+- **spritz** [n/v]噴/噴灑
 - sprightly, spritely [adj](老人)生氣勃勃的
 - spring -> sprang -> sprung [v]彈起/彈開, [from]源自 = *originate* from, [up]突然出現/湧現, (木頭或船)開裂/破裂 [n]春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
 - springboard [n]跳板
@@ -4820,7 +4840,8 @@
 - [swirl](/swəːl/) [v]打旋/旋轉, 使打旋 [n]漩渦/漩渦狀物, 打旋/旋轉  <-- whirl
 - switchback [n]Z字形的山路/急轉彎的路, 雲霄飛車 = *roller* coaster
 - swoon [n/v]昏厥/昏倒 [v]狂喜/心醉神迷
-- synagogue [n]猶太教堂 = *shul*, 猶太教徒的聚會
+- **synagogue** [n]猶太教堂 = *shul*, 猶太教徒的聚會
+- **Syphilis** [n]梅毒
 - [syllable](/ˈsɪləb(ə)l/) [n]音節, 音節字, 少許/幾乎 [v]按音節發音
 - syringe [n]注射器 [v](用注射器)沖洗(耳朵), 用注射器澆(植物)
 
@@ -5075,6 +5096,7 @@
 - tissue [n]細胞組織, 薄紙/棉紙, 面紙/衛生紙, 一連串
 - titanic [adj]巨人的 = *colossal*, 鈦的
 - titular [adj]有名無實的, 稱號的 <-- title
+- **tizzy** [n]興奮/慌亂
 - toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, 祝酒/敬酒 <|> boast
 - toddler [n]學步的小孩 == A young child who is just beginning to walk.
 - toenail [n]腳趾甲
@@ -5238,6 +5260,7 @@
 + [vernal](/ˈvəːn(ə)l/) [adj]春天的/似春天的 <|> venal <-- vern 春天 = *spring* + al 
 + [veneer](/vɪˈnɪə/) [n]膠合板, 虛飾/外飾, 牙罩冠 = *veneer* crown [v]給...鑲上膠合板, 虛飾 = *varnish*
 + vendetta [n]世仇/宿怨 = *feud*
+- venereal [adj]性相關的, 性病的
 + venerate [v]崇敬/敬仰 = *hallow* = *adore* = *honor* = *respect* = *worship* = *revere*
 + venerable [adj]德高望重的/令人敬佩的 = *august*
 + [vestige](/ˈvɛstɪdʒ/) [n]遺跡/殘餘 = *trace*, 一點兒/絲毫, 退化器官 = *rudiment*
@@ -5426,6 +5449,8 @@
 - walrus [n]海象
 - [waltz](/wɔːlts/) [n]華爾滋, 圓舞曲 [v]跳華爾滋, 輕快地走動, 隨意地做, 輕鬆辦到
 - wanderlust [n]旅遊慾/漫遊癖
+- warble [v]用柔和的顫音唱歌 = trill, 轉音 = yodel [n]馬背的硬瘤
+- warbler [n]刺嘴鶯/鶯
 - ward [n]病房, 選區/區, 受監護的未成年人, 城池 [v]送..到病房, [off]擋開/避開
 - warden [n]看守人/管理人, 獄卒, 典獄長
 - wardrobe [n]衣櫥, 全部服裝, 戲服部
@@ -5546,6 +5571,7 @@
 - yacht [n]快艇/遊艇 [v]駕快艇
 - **yap** [v](小狗)狂吠/吠叫 = *bark*, 喋喋不休地說話/嘮叨 = *babble* [n]狂吠聲, [非]嘴巴, 嘮叨 
 - yak [n]犛牛, 饒舌/廢話 [v]饒舌/流暢地說
+- yam [n]山芋類植物, 山藥
 - yawn [v]打呵欠 = *gape*, 大開 = *be* very large and wide [n]呵欠, 乏味之物
 - yearling [n]滿一歲的動物 [adj]滿一歲的, 一歲動物的
 - yeast [n]酵母 <|> feast
