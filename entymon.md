@@ -268,8 +268,8 @@
 
 ## acu 銳利 = *sharp*
 + **acute** [adj]敏銳的/精明的 = *astute* = *shrewd* = *keen* = *subtle* = *incisive*, **嚴重的** = *severe* = *intense* = *fierce*, 急性的, **銳角的** <--> obtuse, 尖音的
-+ **acumen** [mn]精明 = *acuity* = *shrewdness* <-- acute
-+ **acuity** [mn] (思想或感官)敏銳 = *sharpness* = *acuteness* <-- acute
++ **[acumen](/ˈakjʊmən/)** [mn]精明 = *acuity* = *shrewdness* <-- acute
++ **[acuity](/əˈkjuːɪti/)** [mn] (思想或感官)敏銳 = *sharpness* = *acuteness* <-- acute
 - acupuncture [mn]針灸
 
 ## apt 能力/適應 = *apt* == *ept* 
@@ -499,7 +499,7 @@
 - astrophysicist [n]天體物理學家
 - astral [adj]星星的, 靈魂的
 - astrolabe [n]星盤
-- astrology [n]占星學 = *horoscope*
+- astrology [n]占星學 = **horoscope**
 - astronomy [n]天文學 
 - astronomical [adj]天文學的, [非]龐大的 = *colossal*
 - astronaut [n]太空人
@@ -773,7 +773,7 @@
 	+ **conjugal**
 	+ [connive](/kəˈnʌɪv/) [v][to]密謀/共謀 = *conspire* = *collude*, **[at/in]默許/放任** = *acquiesce* = *condone* <-- con + nive 眨眼 = *wink*
 	+ connote --> connotation --> connotative
-	- **comport** [v] [oneself]舉動/舉止 = *behave*, (觀點或說法)相符合/一致 [n]蜜餞 = *compote* <|> deport
+	- **comport** [v] [oneself]舉動/舉止 = *behave*, (觀點或說法)相符合/一致 <|> deport
 	+ conscience --> conscientious
 	+ conscious
 	+ **conscript**
@@ -3264,6 +3264,7 @@
 - genetic [adj]遺傳的, 起源的
 - genetics [n]遺傳學
 - genome [n]基因組/染色體組
+- **phylogenetic** [adj]動植物種類史的
 
 ## germ 芽/菌 = *sprout*
 * germ [n]微生物/細菌/病菌, 胚/胚芽, 起源/萌芽
@@ -4307,6 +4308,7 @@
 - monolog, monologue [n]獨白 = *soliloquy*, 個人長篇演說
 + neologism
 - obloquy [n]破口大罵, 公開的嚴厲批評
+- **[phrenology](/frɪˈnɒlədʒi/)** [n]骨相學
 - prologue [n]序言/序章 = *preamble* = *preface*
 - pulmonologist [n]肺科醫師
 + [soliloquy](/səˈlɪləkwi/) [n]自言自語, 獨白 = *monolog*
@@ -4435,6 +4437,7 @@
 - [lactic](/ˈlaktɪk/) [adj]乳汁的
 - lactate [v]分泌乳汁/餵奶 [n]乳酸鹽
 - lactogenic [adj]催乳的
+- lactose [n]乳糖
 
 ## langu 鬆弛 = *lax*
 + languish [v]衰弱 = *droop* = *fade* = *debilitate* = *pine* = *wan*, 停滯/沒有進展, 經歷苦難/受煎熬
@@ -5202,6 +5205,7 @@
 	- oversaturated [adj]過飽和的 = *Excessively* saturated = *supersaturated*
 	- oversimplify [v]過分簡單化
 	- oversize [adj]特大號的
+	- oversleep [v]睡過頭
 	+ overstate [v]誇張/對...言過其實 = *exaggerate*
 	- overstay [v]停留得過久
 	- overstep [v]超出……的限度
@@ -7606,6 +7610,7 @@
 - resurrection [n]復活/復甦 --> Resurrection [n]耶穌復活, 最後審判日全體死者的復活
 
 ## scope 視野/範圍 = *look*, view
+- horoscope [n]占星術/星象, 天宮圖
 - kaleidoscope [n]萬花筒, 千變萬化/變化多端 <-- kal 美麗的 = *beautiful* + eido 形狀 = *form* + scope 
 - kinescope
 - stethoscope
@@ -8509,7 +8514,8 @@
 + evocative [adj]引起回憶的/喚起感情的
 + invoke [v]祈求(法律或神靈), 援引/借助(法律), 懇求, 喚起/引起 = *give* rise to = *evoke*
 + provoke [v]激勵/刺激 = *stir* up = *arouse* = *incite* = *stimulate* = *instigate* = *whet* = *pique*, 激起/引起(負面反應), 激怒/挑釁 = *peeve* = *pique* = *irritate* = *irk* = *gall* = *rile* = *nettle* = *vex*
-+ provocation [n]挑釁 = *affront*, 挑撥, 挑逗 --> provocative [adj]意圖刺激的/挑播的, 性挑逗的
++ provocation [n]挑釁 = *affront*, 挑撥, 挑逗 
++ provocative [adj]意圖刺激的/挑播的, 性挑逗的
 * revoke [v]撤銷/廢止 = *repeal* = *countermand* = *cancel* = *withdraw*
 * revocable [adj]可廢止的/可取消的
 - vocal [adj]聲音的, 歌唱的, 暢所欲言的 [n]聲樂作品, 聲樂節目

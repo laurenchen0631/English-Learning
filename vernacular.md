@@ -43,6 +43,8 @@
 - crack the whip [v]威逼/施威
 - rain on one's parade [v]潑冷水/掃興
 - give sb the runaround [v]搪塞/打發（某人）
+- a slap in the face [n]一巴掌/一記耳光
+- I snapped [phra]忍不住 == People say "I snapped" after they released their anger. For example, if someone yells at you because they are mad, afterwards they will say "I snapped"
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -54,6 +56,14 @@
 - wing it [v]即興發揮
 - throw off something/someone [v]出錯/使困惑 = to cause an amount to be wrong or a person to be confused
 - be around [v]存在, 活躍
+- tell someone off [v]訓斥某人
+- take after [v]與...相像
+- look after [v]照顧
+- help out [v]幫忙
+- get along [v]和睦相處
+- look up to [v]仰視/尊敬
+- look in on [v]拜訪 == to make a brief social visit to someone
+- phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
