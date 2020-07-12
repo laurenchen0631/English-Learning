@@ -18,7 +18,7 @@
 + address [v]在……上寫收件人姓名地址, 對……說話, 向……致詞, 處理 = *handle*, [oneself to]針對 [n]演說/致詞, 舉止/風度, 本領/技巧 = *readiness*, 地址
 + administer [v]管理/掌管, 執行/實施, 給予/提供(治療) = *dispense*, 施予(懲罰) = *inflict*, 主持……儀式, (to)給予幫助
 + administration [mn]管理/經營, 管理者, 管理部門, 施行/實施 [n]政府, 任期
-+ **adulate** [vt]諂媚/奉承 = *flatter* = *fawn* = *toady* --> adulation [n] --> adulator [n] = *toad*
++ **[adulate](/ˈadjʊleɪt/)** [vt]諂媚/奉承 = *flatter* = *fawn* = *toady* --> adulation [n] --> adulator [n] = *toad*
 + [adulterate](/əˈdʌltəreɪt/) [v]摻雜 = *debase* = *corrupt* = *alloy* <|> adulate
 + adulterant [n]攙雜物 [ad]攙雜用的
 - adultery [n]通姦 
@@ -122,7 +122,7 @@
 - agon [n]鬥爭/競賽
 - aegis [n]盾, 保護/庇護
 - aeon, eon [n]永世/萬古, 億萬年
-- **aficionado** [n]狂熱愛好者
+- **[aficionado](/əˌfɪsjəˈnɑːdəʊ/)** [n]狂熱愛好者
 - **aft** [adv]向船尾/在船尾 = *sternwards* [adj]船尾的
 - aftermath [n]後果/餘波, 再生草/被吃掉後長出的草
 - afterthought [n]事後的想法/後來添加的東西
@@ -390,14 +390,14 @@
 
 - **baboon** [n]狒狒
 - baby-boomer [n]嬰兒潮時期出生的人
-- [bachelorette](/batʃələˈrɛt/) [n]未婚女子, 單身公寓
+- **[bachelorette](/batʃələˈrɛt/)** [n]未婚女子, 單身公寓
 - backbreaking, back-breaking [adj]需要勞力的
 - backdrop [n] (事情的)背景 = *background*, 背景布幕 = *scenery* [v]作為..的背景
 - backfire [v]引擎逆火, 事與願違 = *rebound* [n]逆火, 預先放火(阻斷火災蔓延)
 - backlash [n]強烈反應/強烈反對 = *repercussion*, 後座力, 角度
 - backseat [n]後座, 次要地位
 - backslapping [adj]互相讚揚/相互祝賀的
-- **backsliding** [mn]故態復萌
+- **__backsliding__** [mn]故態復萌
 - backtrack [v]走回頭路/原路返回, **收回說法/改變立場**, **追蹤/監控** = *trace* = *monitor*
 - backwater [n]回水/滯水, 落後閉塞的地方
 - back-to-back [adj]一個接一個的, 背靠背的
@@ -619,7 +619,7 @@
 - bumpkin [n]土包子/鄉下佬
 - bunk [n]架式床舖, [非]胡説/瞎話 = *nonsense* [v]睡在架式床舖上
 - bunker [n]燃料儲存槽, 地堡
-- **bumptious** [adj]傲慢的/自以為是的 = *arrogant* = *brash* = *self-assertive*
+- **[bumptious](/ˈbʌm(p)ʃəs/)** [adj]傲慢的/自以為是的 = *arrogant* = *brash* = *self-assertive*
 - bungle [v]弄糟/把...搞砸 = *botch* = *bumble* = *blunder* = *muddle* [n]混亂 <|> jungle
 - bungling [mn]搞砸 [adj]笨拙的/拙劣的 = *bumbling*
 - bureau [n] (政府機構的)局/司/署/處, 辦事處/辦公室/聯絡處
@@ -1122,7 +1122,7 @@
 + damp [v]使潮濕, 封(火), 抑制/降低, 制止(琴弦)的音 [adj]潮濕的 = *humid* [mn]濕氣, 坑氣/沼氣 = *firedam*
 + dampen [v] (使)潮濕 = *damp*, 抑制/減輕 = *depress* = *damp*
 - damper [n]抑制物, 阻尼器, 制音器
-+ [daunt](/dɔːnt/) [v]使膽怯/使嚇倒 = *discourage* = *intimidate* = *dishearten* <|> flaunt <|> gaunt <|> taunt <|> vaunt
++ [daunt](/dɔːnt/) [v]使膽怯/使嚇倒 = *discourage* = *intimidate* = *dishearten* <|> **flaunt** <|> **gaunt** <|> taunt <|> vaunt
 + [dearth](/ˈdərth/) [n]短缺/缺乏 = *lack* = *paucity* = *penury* = *insufficiency* = *scantiness* = *scarcity*, 飢荒 = *famine*
 + debilitate [v]使虛弱/削弱 = *enfeeble* = *languish* = *enervate* <|> deliberate <-- debilit 虛弱 = *weak* + ate
 + debonair [adj]溫文爾雅的 = *suave*
@@ -1440,8 +1440,8 @@
 - eavesdrop [v]偷聽/竊聽 = *overhear* = *snoop* <-- eaves 屋簷 + drop
 - **eczema** [n]濕疹
 - editorial [adj]編輯的 [n]社論
-- **eerie** [adj]怪異而令人恐懼的/令人毛骨悚然的 = grisly
-- **elan** [n]熱忱/活力
+- **[eerie](/ˈɪəri/)** [adj]怪異而令人恐懼的/令人毛骨悚然的 = grisly
+- **[elan](/eɪˈlan/)** [n]熱忱/活力
 - elbow [n]肘, 衣服的肘部, 肘狀物 [v]用肘推 = *nudge*, 推擠, **摒棄(人或意見)** = *dismiss*
 - elephant [n]大象
 - elephantine [adj]像大象的/巨大的/笨拙的 
@@ -1595,7 +1595,7 @@
 * fare [n]票價/費用, 乘客, 伙食 [v]進展 <|> welfare <|> ware
 * fascinate [v]吸引/迷住 = *attract* = *captivate* = *mesmerize* = *hypnotize*
 * fast [n/v]絕食/禁食 [adj]快的, 穩固的, (朋友)忠實的, 不褪色的 [adv]快, 緊緊地 = *securely*
-* [fasten](/ˈfas(ə)n/) [v]扣緊/繫牢/固定, [on/upon]集中於
+* **[fasten](/ˈfas(ə)n/)** [v]扣緊/繫牢/固定, [on/upon]集中於
 - fastness [n]要塞/堡壘 [mn]不褪色
 * **[fatigue](/fəˈtiːɡ/)** [n]疲勞/精疲力盡 = *lassitude* = *languor*, 疲乏, **[軍]雜役**, **工作服** [v]使疲勞 = *exert*, 使疲乏
 * fatigable [adj]易疲勞的 <--> indefatigable
@@ -2796,7 +2796,7 @@
 - lout [n]舉止粗野的人
 - loutish [adj]粗野的/無禮的 = *uncouth* = *thuggish* ---> loutishness [n]
 - low [adj]低的, 少的/小的, **不誠實的** = *unscrupulous*, (意見)不利的, 低音的, 沒有精神的 [adv]低, 低聲地 [n]低音, 低壓帶 = *depression*, 低潮期, [非]憂鬱, 牛叫聲 = *moo* [v]哞哞叫
-- **lowdown** [n]真相/實情
+- **__lowdown__** [n]真相/實情
 - low-margin [adj]利潤很低的
 - low-slung [adj]低的/貼近地面的, 低腰的
 - loyal [adj]忠誠的/忠貞的
@@ -2810,7 +2810,7 @@
 - lunch [n]午飯 [v]吃午餐, 帶..吃午餐
 - **__lurch__** [n/v]蹣跚/踉蹌 = *stagger* = *lumber*
 - **lurk** [v]潛伏/埋伏, (危險等)潛在, 網路潛水 <|> lark <|> luck
-- [lush](/lʌʃ/) [adj]蒼翠繁茂的, (感官享受)豐富的, 極佳的, [非]向……灌酒 [n][非]酒鬼
+- **[lush](/lʌʃ/)** [adj]蒼翠繁茂的, (感官享受)豐富的, 極佳的, [非]向……灌酒 [n][非]酒鬼 <|> lash
 - **[lyceum](/lʌɪˈsɪəm/ )** [n]演講廳/講學場所
 - **[lymph](/lɪmf/)** [n]淋巴
 - lymphatic [adj]淋巴的 [n]淋巴腺/淋巴管
@@ -3086,14 +3086,14 @@
 - mist [n]霧, (眼淚等造成的)朦朧, 迷霧 [v]被蒙上薄霧, 朦朧, **噴灑** = *spray*
 - mistress [n]女主人, 女名家/女能手, 情婦
 - **[mite](/mʌɪt/)** [n]蟎, (令人憐愛的)小孩, 極小量 [adv]稍許/一點
-- **[mitten](mitten)** [n]連指手套, [非]拳擊手套
+- **[mitten](/ˈmɪt(ə)n/)** [n]連指手套, [非]拳擊手套
 - moan [n]呻吟聲, [非]發牢騷 [v]呻吟, 嘆息 = *lament*, 抱怨 = *grumble* = *complain*
-- **moat** [n]壕溝/護城河 = *fosse* [v]以護城河圍繞
+- **__moat__** [n]壕溝/護城河 = *fosse* [v]以護城河圍繞
 - mob [n]一夥, **普通人民**, **犯罪集團** [v]圍住/圍聚, **成群襲擊**
 - mobile [adj]可動的, 移動式的/流動的, 機動的(部隊), 移動裝置的 [n]活動雕塑, 行動網路 
 - mobility (m)可動性, 流動性
 - mobilize [v]動員, 調度, 使可動, 使流通
-- **modality** [n]模式/形式, 情態動詞所表達的意思, 物理療法
+- **__modality__** [n]模式/形式, 情態動詞所表達的意思, 物理療法
 - modernist [n]現代主義者 [adj]現代主義的
 - **__molar__** [n]臼齒 [adj]體積莫耳濃度的 <-- mol 磨 + ar 
 - molecule [n]分子
@@ -3115,7 +3115,7 @@
 - mosquito [n]蚊子
 - mouthfeel [n]口感
 - motto [n]座右銘
-- mount [v]爬, 騎上, 發動/進行 = *organize* = *initiate*, 設立 = *establish* = *set* up, 展出, 成長, 增強, 放置/固定 = *place* = *fix*, 鑲嵌 [n]底版/底座, 炮架/底座, 可供騎乘的馬
+- mount [v]爬, 騎上, 發動/進行 = *organize* = *initiate*, 設立 = *establish* = *set up*, 展出, 成長, 增強, 放置/固定 = *place* = *fix*, 鑲嵌 [n]底版/底座, 炮架/底座, 可供騎乘的馬
 - mountainous [adj]多山的, 巨大的
 - moviegoer [n]看電影的人
 - **mow** [v]除/割/刈(草) [n]乾草堆/穀物堆, 乾草堆放處
@@ -3154,27 +3154,27 @@
 + [naivete](/nʌɪˈiːvti/) [mn]天真/幼稚/缺乏經驗或智慧, 無害/無邪, 樸素作品 <-- native
 + **natation** [mn]游泳 
 + natatory [adj]游泳的 <|> natal
-+ natty [adj]整潔時髦的, 精巧的 = *clever* <|> nasty
++ **natty** [adj]整潔時髦的, 精巧的 = *clever* <|> nasty
 + naysay -> naysaid [v]拒絕/反對/否認 = *deny* = *reject* = *oppose* = *gainsay* <-- nay + say
-+ nebulous [adj](想法)模糊不清的/含糊的 = *ambiguous* = *equivocal* = *vague* = *murky*, 雲的 = *cloduy* = *cloudlike* = *hazy*
++ nebulous [adj]模糊不清的/含糊的(想法) = *equivocal* = *vague* = *murky*, 雲的 = *cloduy* = *cloudlike* = *hazy*
 + nebulosity [n]朦朧, 星雲狀態/星雲狀物 <-- nebul 雲 = *mist*, cloudy + ous
 - nebula -> nebulae [n]星雲, 角膜雲翳
-+ necessitate [v]使必須 == make (something) necessary 
-+ necessitous [adj]窮困的 = *needy*
++ necessitate [v]使必須
++ [necessitous](/nɪˈsɛsɪtəs/) [adj]窮困的 = *needy*
 + necromancy [n]通靈術, 巫術/妖術 = *black* magic <-- necro 屍體/死者 = *coprpse* + mancy + mancy 占卜/預測 = *divination*
-- necropsied [adj]驗屍的 = *autopsied*
+- **necropsied** [adj]驗屍的 = *autopsied*
 + nepotism [n]偏袒親戚/任人唯親 = *cronyism* <-- nephew
-+ nettle [n]蕁麻 [v]惹怒/使惱火 = *irritate* = *sting* = *annoy* = *provoke* = *irk* = *exasperate* = *peeve* = *vex* <|> mettle
++ nettle [n]蕁麻 [v]惹怒/使惱火 = *irritate* = *sting* = *provoke* = *irk* = *exasperate* = *peeve* = *vex* <|> mettle
 + nettlesome [adj]令人惱怒的
-+ nice [adj]好的/宜人的 = *pleasant* = *satisfactory*, 好心的/友好的 = *kind*, 細微的/精細的 = *subtle* = *fine*, 需要小心的
-+ [niche](/nɪtʃ/) [n]壁龕, 合適的職務, 合宜的小環境, 利基 [v]把..放入壁龕 [adj]特定的
-+ noisome [adj]惡臭的 = *fetid*, 令人不快的 = *disagreeable* <-- noi 討厭 = *annoy* + some
++ nice [adj]好的/宜人的 = *pleasant*, 好心的/友好的 = *kind*, **細微的/精細的** = *subtle* = *fine*, **需要小心的**
++ [niche](/nɪtʃ/) [n]壁龕, 合適的職務, **合宜的小環境**, 利基 [v]把..放入壁龕 [adj]**特定的**
++ **noisome** [adj]惡臭的 = *fetid*, 令人不快的 = *disagreeable* <-- noi 討厭 = *annoy* + some
 + [novel](/ˈnɒv(ə)l/) [adj]新穎的/新奇的 [n]小說 --> novelty [mn]新穎 [n]新奇的事物, 小巧而廉價的物品
 - novella [n]短篇故事/中篇小說 
 + [novice](/ˈnɒvɪs/) [n]新手/初學者 = *neophyte* = *fledgling* = *tyro*, 見習修士或修女
 + [nuance](/ˈnjuːɑːns/) [n]細微的差別 [v]給..細微的差別 <|> nuisance <-- nu 雲/陰影 = *cloud*, shade + ance
 * [nuisance](/ˈnjuːs(ə)ns/) [n]惱人的事物/麻煩的事物 = *bore* = *plague*
-+ [nugatory](/ˈnjuːɡət(ə)ri/) [adj]無價值的/瑣碎的 = *trifling* = *frivolous* = *inconsequential* = *trivial*, 無用的 = *invalid* = *futile* = *vain* = *ineffective* <-- nugae 無聊事
++ **[nugatory](/ˈnjuːɡət(ə)ri/)** [adj]無價值的/瑣碎的 = *trifling* = *frivolous* = *inconsequential* = *trivial*, 無用的 = *invalid* = *futile* = *vain* = *ineffective* <-- nugae 無聊事
 + nurture [v]養育/培育 = *nourish*, 懷有 = *cherish* [mn]養育, 環境因素
 * nutrient [n]滋養物質
 * nutrition [mn]營養, 營養學 
@@ -3184,39 +3184,42 @@
 * narrate [v]講/敘述, 給..作旁白 <-- nar 知道 = *knowing* + rate
 * narrative [n]故事, 記敘文 [adj]敘述的/講故事的 
 * native [n]本地人, 原住民, 原生動植物 [adj]出生地的, 本地的, 原生的, 天生的 = *innate*, 純的(礦物)
-* nay [adv]而且/甚至 = *or* rather [n]否定/拒絕
-* negotiate [v]商議/談判/交涉, 轉讓, 洽兌, 順利通過/成功越過 --> negotiation [n]商議/談判, 轉讓
+* nay [adv]而且/甚至 = *or rather* [n]否定/拒絕
+* negotiate [v]商議/談判/交涉, **轉讓**, 洽兌, **順利通過/成功越過**
+* negotiation [n]商議/談判, 轉讓
 * negotiable [adj]可商量的, 可轉讓的, 可通行的 = *passable*
 * [nephew](/ˈnɛfjuː/) [n]姪兒/外甥
 * noble [adj]高尚的/崇高的 = *rarefied*, 壯麗的/宏偉的, 貴族的/顯貴的 [n]貴族
 * nobility [mn]高貴/高尚, 貴族
 * nod [v]點頭, 點頭表達, [through]同意, 打瞌睡, 不小心而出錯 [n]點頭, 同意
 - nodule [n]小結節/小瘤 
-* noose [n]套索, 圈套/陷阱 [v]用套索捕捉/使落入圈套 <|> loose
-* nourish [v]養育/培育 = *nurture*, 施肥, 懷抱 = *nurture* --> nourishment [n]食物/營養品 = *nurture*, 養育/滋養
+* **noose** [n]套索, 圈套/陷阱 [v]用套索捕捉/使落入圈套 <|> loose
+* nourish [v]養育/培育 = *nurture*, 施肥, 懷抱 = *nurture* 
+* nourishment [n]食物/營養品 = *nurture*, 養育/滋養
 * [nucleus](/ˈnjuːklɪəs/) -> nuclei [n]核/核心 --> nuclear [adj]核心的/核的
 - nucleate [adj]有核的 [v]使集結, 使成核
 * [numb](/nʌm/) [adj]失去感覺的/麻痺的 = *paralysed*, 麻木的 [v]使失去感覺, 使麻木
-* numinous [adj]神聖的 = *sacrosanct*
-* nun [n]修女 --> nunnery [n]女修道院 = *convent*
+* **numinous** [adj]神聖的 = *sacrosanct*
+* nun [n]修女 
+* nunnery [n]女修道院 = *convent*
 
-- nag [v]跟……糾纏不休, 困擾/憂心 [n]不斷糾纏的人, 憂慮, [非]老馬/駑馬 = *jade*
+- nag [v]跟……糾纏不休, 困擾/憂心 [n]不斷糾纏的人, 憂慮, **[非]老馬/駑馬** = *jade*
 - nagging [adj]騷擾的, 憂心的 = *brooding*
 - nana [n]祖母
 - nanny [n]保姆, 母山羊 = *nanny* goat [v]做保姆, 過度保護
-- narc [n]緝查麻藥的刑警
-- nary [adj]沒有 == not
-- nasal [adj]鼻的, 鼻音的 [n]鼻音
-- nasty [adj]糟糕的/令人不快的 = *unpleasant*, 濕冷的, 令人厭惡的 = *repungant*, 不友善的/惡意的, 有害的 = *harmful* [n][非]討厭的人, 恐怖影片 
+- **narc** [n]緝查麻藥的刑警
+- **nary** [adj]沒有 == not
+- **nasal** [adj]鼻的, 鼻音的 [n]鼻音
+- **__nasty__** [adj]糟糕的/令人不快的 = *unpleasant*, 濕冷的, 令人厭惡的 = *repungant*, 不友善的/惡意的, 有害的 = *harmful* [n][非]討厭的人, 恐怖影片 
 - national [adj]全國的, 國家的 [n]國民/國人 = *citizen*, 全國報, 全國性比賽
 - nation-state [n]民族國家
 - nationwide [adj]全國的 [adv]全國
 - nativism [n]排外主義, 先天論
-- naturalization [n](外國人的)歸化, (動植物的)移植, (外國的習慣、語言等)移入/同化, 自然化/天然化
+- naturalization [n] (外國人的)歸化, (動植物的)移植, (外國的習慣、語言等)移入/同化, 自然化/天然化
 - navel [n]肚臍, 中央/中心
-- navel-gazing [n]紙上談兵/光說不練/過分自省
+- **navel-gazing** [n]紙上談兵/光說不練/過分自省
 - neat [adj]整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的 = *facile*, 純的, [非]好的/妙的 
-- nectar [n]花蜜, 眾神飲的酒/瓊漿玉液
+- **nectar** [n]花蜜, 眾神飲的酒/瓊漿玉液
 - neighboring [adj]旁邊的/附近的 = *adjacent*
 - needle [n]針/編織針, 注射針, 指針/磁針, 唱針 = *stylus*, 針葉 [v]戳 = *prick*, 刺激/激怒 = *provoke* = *irritate*
 - needlework [mn]縫紉/刺繡, 刺繡品
