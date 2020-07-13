@@ -128,6 +128,7 @@
 	+ [abyss](/əˈbɪs/) [n]深淵, (人之間的)鴻溝 = *gulf*, 災難
 	+ abysmal [adj]無底的, 糟透的 = *appalling* = *atrocious* = *dismal* <-- a + byss 底 = *bottom*
 	+ abdicate
+	- acentric [adj]無中心的
 	+ ahistorical [adj]缺乏歷史觀點的/與歷史無關的 == *Lacking* historical perspective or context. 
 	- anaerobic
 	+ analgesia --> analgesic
@@ -1238,6 +1239,7 @@
 - [chronicle](/ˈkrɒnɪk(ə)l/) [n]編年史/年代記, 記事/敘述 [v]記述/紀錄(大事)
 - chronicler [n]編年史家
 - chronometer [n]精密計時器
+- synchrony [n]同步
 - synchronous [adj]同步的/同時的 <--> asynchronous
 
 ## chrom, chrome 顏色 = *color*
@@ -2373,6 +2375,7 @@
 - **emblazon** [v]醒目地展示
 * embody [v]體現/具體地表顯, 賦予(靈體)形體, 包括/包含
 - embolden [v]**壯膽/使有勇氣**, 使呈粗體字 <-- em + bold + en
+- **embolism** [n]血管栓塞, 閏/閏日
 - emboss
 * embitter [v]使難受/使忿恨 
 + embrace
@@ -2513,7 +2516,7 @@
 2. 吃 = *eat*
 	* edible [adj]可食用的 = comestible [n]食品
 	- [inedible](/ɪnˈɛdɪb(ə)l/) [adj]不可食用的
-	- edacious [adj]貪吃的
+	- **edacious** [adj]貪吃的
 
 ## ep, epi
 1. 上 = *on*, upon, above, over
@@ -4796,6 +4799,7 @@
 - **__[mortgage](/ˈmɔːɡɪdʒ/)__** [n]抵押貸款/抵押證書/抵押契據 [v]用...做抵押
 + mortify [v]使感屈辱/使羞愧 = *humiliate* = *discomfit*, 禁慾/克制, 被壞疽感染/腐壞
 + mortification [n]屈辱/恥辱, 禁慾/克制
+- mortician [n]殯葬業者
 + moribund [adj]即將滅亡的, 垂死的 = *dying* <-- mori + bund 接近
 - [mortuary](/ˈmɔːtʃʊri/) [n]停屍間/殯儀館 = *funeral* home [adj]喪禮的/墓碑的
 
@@ -5067,7 +5071,9 @@
 - narcotize [v]麻醉/使昏迷
 
 ## naus, naut, navi 船 = *boat*
-* [nausea](/ˈnɔːsɪə/) [n]噁心/作嘔 = *qualm*, 暈船 --> nauseate [v]作嘔, 使感到不舒服
+* [nausea](/ˈnɔːsɪə/) [n]噁心/作嘔 = *qualm*, 暈船 
+* nauseate [v]作嘔, 使感到不舒服
+* nauseous [adj]令人作嘔的, 想嘔吐的
 - nautical [adj]船員的/航海的 = *maritime*
 - astronaut [n]太空人
 - navigate [v]航海/操縱/駕駛, 導航
@@ -5956,7 +5962,7 @@
 + [placate](/pləˈkeɪt/) [v]平息/安撫 = *soothe* = *appease* = *pacify* = *conciliate*
 + placid [adj]平和的/溫和的 = *not* easily upset , 平穩的 <|> pacific
 - placebo [n]安慰劑
-- placenta [n]胎盤, 胎座
+- **[placenta](/pləˈsɛntə/)** [n]胎盤, 胎座
 
 ## plaint, plain 悲嘆 = *mourn*
 * complain [v]抱怨/發牢騷 = *repine* = *grouse* = *grumble* = *grouch* = *fret*, 發出哀鳴
@@ -8322,6 +8328,7 @@
 ## up 上 = *upper*, upwards
 - up-and-comer [n]有前途的人
 - up-close [adv]極近距離地 [adj]富含許多細節的
+- **upbeat** [adj]樂觀的 [n][音]上拍/弱音拍
 + upbraid [v]訓斥/申斥 = *reprimand* = *criticize* = *scold* = *censure* = *reproach*
 - upbringing [n]撫育
 - update [v]使……合乎時代, 為……提供最新信息 [n]更新
@@ -8458,7 +8465,7 @@
 - invert [v]使倒轉/使上下顛倒/使前後倒置
 + involved [adj]複雜難懂的 = *convoluted* = *intricate*
 - obverse [adj]正面的/朝外的, 對立的 [n]表面/錢幣的正面, 對立面
-* pervert [v]歪曲/曲解 = *distort*, 使走上邪路/使變壞
+* **pervert** [v]使走上邪路/使變壞 = **debauch**, 誤用/濫用 = *abuse*, 曲解 = *convolute* [n]反常者
 - perverse [adj]故意作對的 = *contrary* = *wayward* = *willful*, 與預期結果相反的
 - reverse [n]反面, 相反 = *opposite* [v](使)倒退/倒退/翻轉, 徹底改變
 - reversion [mn]回復/退回, [法]歸還/物歸原主, [法]未來所有權/繼承權, 繼承物

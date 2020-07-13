@@ -9,6 +9,7 @@
 ## Time
 - right off the bat [adv]立刻
 - now and again [adv]有時
+- later on [adv]後來
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -45,6 +46,16 @@
 - give sb the runaround [v]搪塞/打發（某人）
 - a slap in the face [n]一巴掌/一記耳光
 - I snapped [phra]忍不住 == People say "I snapped" after they released their anger. For example, if someone yells at you because they are mad, afterwards they will say "I snapped"
+- grasp/clutch at straws [v]抓救命稻草/不放過任何微小的機會
+- sleep on it [v]好好考慮
+- It ain't over till the fat lady sings [v]事情還沒結束，等著瞧
+- bring your a-game [v]盡全力 
+- be out of sorts [adj]有些不舒服/有點不高興
+- make a move on someone [v]調戲某人
+- make a pass at someone [v]調戲某人
+- between rock and a hard place [n]進退兩難/左右為難
+- not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
+- tit for tat [v]以牙還牙
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -64,6 +75,22 @@
 - look up to [v]仰視/尊敬
 - look in on [v]拜訪 == to make a brief social visit to someone
 - phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
+- smooth sth over [v]緩和/調解
+- fall back on [v]借助於/依賴/依靠
+- clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
+- be into sth [v]對...有興趣
+- take up [v]開始/從事, 佔據, 討論/處理
+- work out [v]鍛煉身體, 結果是/算下來, 發生/發展
+- try out for [v]參加..的選拔
+- off you go [v]好了，你可以走(做)了
+- sign off on [v]同意
+- call off  [v]取消/停止進行
+- fill in for someone [v]代替/臨時補缺
+- knuckle down [v]開始認真
+- drive off [v]開走
+- fill up [v]裝滿, 加滿油
+- take out [v]抽出/領出
+- hit on [v]與..調情, 突然想到/碰巧想出
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
