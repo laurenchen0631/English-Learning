@@ -6,6 +6,7 @@
 - lasagna [n]千層麵
 - [charcuterie](/ʃɑːˈkuːt(ə)ri/) [n]熟食冷肉盤
 - salami [n]薩拉米香腸（義大利蒜味香腸）
+- Zifandel [n]金粉黛葡萄酒
 
 ## Religion
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
@@ -38,3 +39,4 @@ papier-mache [n]混凝紙漿
 - funyuns [n]樂事旗下的品牌，這款餅乾看起來很像炸洋蔥圈
 - Tater Tots [n]炸薯球，是將馬鈴薯用擦床擦碎以後油炸製成。實際上是亨氏集團下屬Ore-Ida公司的註冊商標，但一般也用於指非其生產的其他類似食品
 - Frisbee [n]飛盤
+- Fresca [n]grapefruit-flavored citrus soft drink created by The Coca-Cola Companyz

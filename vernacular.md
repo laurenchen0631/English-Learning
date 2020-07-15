@@ -56,6 +56,11 @@
 - between rock and a hard place [n]進退兩難/左右為難
 - not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
 - tit for tat [v]以牙還牙
+- diamond in the rough [n]一塊璞玉
+- Get foot in the door [v]初步進入/邁出成功的第一步
+- be no laughing matter [v]不是開玩笑/不是鬧著玩的
+- when all is said and done [adv]說到底/終究
+- How are you bearing up? [phrase]過得如何
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -91,6 +96,22 @@
 - fill up [v]裝滿, 加滿油
 - take out [v]抽出/領出
 - hit on [v]與..調情, 突然想到/碰巧想出
+- dress up [v]裝扮
+- throw on [v]匆匆穿上
+- slip on [v]迅速穿上
+- drum up something [v]招攬(生意)
+- get ahead [v]取得進展/獲得成功
+- write off [v]注銷/勾銷
+- cash in on [v]用...賺錢
+- close down (sth) [v]倒閉/停業
+- fall through [v]失敗/落空
+- **add up** [v]說得通/合情合理
+- add up to sth [v]總共是/合計為, 結果是/表示/意味著
+- clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
+- slip up [v]出錯/疏忽
+- end up [v]最後成爲/以…告終
+- get caught up in [v]被捲入 = be involved in
+- throw up [v]嘔吐
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.

@@ -438,7 +438,7 @@
 	- monarch [n]君主/帝王, 帝王蝶, 王鶲 
 	- monarchy [n]君主政體, 君主國, 王室
 	- monarchist [n]君主主義者 [adj]支持君主制的
-	* **[matriarch](/ˈmeɪtrɪɑːk/)** [n]母權 <--> patriarchal
+	* **[matriarch](/ˈmeɪtrɪɑːk/)** [n]女家長/女統治者 <--> patriarchal
 	- **patriarch** [n]**家長/族長**, 元老, 創始人, 早期基督教的**主教**, 羅馬天主教和東正教的最高一級的主教
 	* patriarchal [adj]家長或族長制的, 家長的/族長的 <-- patria = *family*
 	+ hierarchy --> hierarchical
@@ -917,7 +917,7 @@
 + [excessive](/ɪkˈsɛsɪv/) [adj]過度的 = *immoderate* = *overly* = *undue* = *superfluous* = *inordinate* = *extravagant*
 - **cessation** [mn]結束/中止
 + incessant [adj]無間斷的/連續的 = *unremitting*
-- intercede [v]代為求情
+- **intercede** [v]代為求情
 - intercession [n]求情/說情, 代為祈求 --> intercessor [n]代禱人
 + precede [v]先於/早於 = *antecede*, 處在……之前, 引言/介紹 = *introduce* = *preface*
 + [precedent](/ˈprɛsɪd(ə)nt/) [n]先例/前例 [adj]先前的 <|> [president](/ˈprɛzɪd(ə)nt/)
@@ -1297,6 +1297,7 @@
 
 ## capit 頭 = *small* head
 - decapitation [n]斬首, 殺頭 = *scalp*
+- **capitol** [n]國會大廈/州議會大廈
 + **[capitulate](/kəˈpɪtjʊleɪt/)** [v]投降/停止抵抗 = *surrender* = *yield*
 - capitulum [n]骨的頭部
 + **recapitulate** [v]扼要重述/概括/總結 = *encapsulate* = *summarize* --> recapitulation [n]
@@ -1784,7 +1785,7 @@
 	+ defy [v]違抗/反抗, 激/惹/向…挑戰
 	+ defiance [n]違抗/反抗 = *resistance* = *disobedience*
 	+ defiant [adj]違抗的/挑戰的 = *rebellious*
-	* demolish [v]拆除/拆毀 = *level*, **駁斥/反駁** = *refute*, [非]輕易擊敗 <-- de + mol 建造 = *construct* + ish
+	* demolish [v]拆除/拆毀 = *level*, **__駁斥/反駁__** = *refute*, [非]輕易擊敗 <-- de + mol 建造 = *construct* + ish
 	* demolition [mn]拆除/拆毀, [非]輕易擊敗
 	- detest
 
@@ -1871,7 +1872,7 @@
 	* disreputable [adj]不受信任的/名聲不佳的
 	+ dissemble
 	* dissent --> dissenter
-	+ **__disservice__** [n]有害的行為
+	+ **__disservice__** [n]幫倒忙的行為
 	- dissimilar [adj]不同的 = *differemt*
 	- **dissimulate**
 	- dissuade
@@ -2580,10 +2581,10 @@
 
 ## esthete 感覺
 + [aesthete](/ˈiːsθiːt/) [n]審美家 
-+ [aesthetic](/ɛsˈθɛtɪk/) [adj]美感的/審美的 = *artistic* = *esthetic*
++ **[aesthetic](/ɛsˈθɛtɪk/) **[adj]美感的/審美的 = *artistic* = *esthetic*
 - aesthetics [n]美學
 - **anesthesia**, anaesthesia [mn]感覺缺失
-- **[anaesthetic](/ˌanɪsˈθɛtɪk/)**, anesthetic [n] (手術用)麻醉劑 [adj]麻醉的
+- **[anaesthetic](/ˌanɪsˈθɛtɪk/)**, anesthetic [n]麻醉劑 [adj]麻醉的
 - anaesthetics [n]麻醉學
 
 ## ev 時代 = *age*
@@ -2594,7 +2595,7 @@
 
 ## emi, emia 血 = *blood* == *hemo*
 - anemia [n]貧血
-+ anemic [adj]貧血的, **無活力的**
++ anemic [adj]貧血的, **__無活力的__**
 - ischemia [n]局部缺血
 - **leukaemia**, leukemia [n]白血病/血癌
 - hyperemia [n]充血
@@ -2616,9 +2617,9 @@
 
 ## empt 買/獲取/拿 = *buy*, obtain, take
 + **exempt** [v]免除/豁免 = *immune* [adj]被免除的 [n]被免除者/免稅者
-+ **peremptory** [adj]不容置辯的/霸道的 = *imperious* = *arrogant* = *dictatorial* = *bossy*, [法]絕對的/強制的 
++ **__peremptory__** [adj]不容置辯的/霸道的 = *imperious* = *arrogant* = *dictatorial* = *bossy*, [法]絕對的/強制的 
 + preempt [v]阻止 = *forestall*, 先佔/先取/以先買權獲得 
-+ preemptive [adj]先發制人的
++ **__preemptive__** [adj]先發制人的
 * premium --> premiums [n]保險費, 加價, 紅利 = *bonus* = *extra*, 獎品/獎勵品 [adj]優質的 = *prime*
 + prompt [adj]立即的/準時的 [v]激起/引起 = *cause* = *bring* about [n/v]提示(演員) --> promptness [n]
 
@@ -2855,13 +2856,13 @@
 - offender [n]違法者, 罪犯
 - offensive [adj]冒犯的/無禮的, 令人不快的 = *disgusting* = *repulsive*, 進攻的 [n]進攻/攻勢
 + inoffensive [adj]不傷人的/不討人嫌的 = *innocuous* = *harmless*
-- fence, fense [n]籬笆, **[非]買賣贓物的人**, 劍術/擊劍 [v]用籬笆圍住, [out]隔離, 買賣(贓物), 擊劍 <|> fend 
+- fence, fense [n]籬笆, **__[非]買賣贓物的人__**, 劍術/擊劍 [v]用籬笆圍住, [out]隔離, 買賣(贓物), 擊劍 <|> fend 
 
 ## fract, frac, frag 碎裂 = *break* == *rupt*
 + **anfractuous** [adj]蜿蜒的 = *sinuous* = *circuitous*
 * fraction [n][數]分數, 小部分, 少數
 - fractional [adj]分數的, 少量的
-+ **[fractious](/ˈfrakʃəs/)** [adj]易怒的/暴躁的= *irritable* = *peevish* = *quarrelsome* = *rebellious*, 難以控制的 = *restive*  = *unruly* = *refractory* = *disobedient*
++ **__[fractious](/ˈfrakʃəs/)__** [adj]易怒的/暴躁的= *irritable* = *peevish* = *quarrelsome* = *rebellious*, 難以控制的 = *restive*  = *unruly* = *refractory* = *disobedient*
 - fracture [n]破裂/斷裂, 裂縫/裂痕 [v]使破裂, 使骨折
 - [fractured](/ˈfraktʃəd/) [adj]破碎的, 停止運作的, 錯誤百出的(語言)
 * [fragile](/ˈfradʒʌɪl/) [adj]易碎的/易損壞的 = *brittle* = *frail*, 脆弱的 = *delicate* = *flimsy*
@@ -2880,6 +2881,7 @@
 ## fid, fide 相信 = *trust*, faith
 - **[affidavit](/ˌafɪˈdeɪvɪt/)** [n]宣誓書
 - confide [v]吐露/傾訴, 託付 = *entrust*
+* **confidant** [n]心腹朋友/知己
 + confident [adj]有信心的, 確信的
 - self-confident [adj]有自信的
 - confidence [n]信心, 確信/把握, 吐露/傾訴, 秘密
@@ -2929,7 +2931,7 @@
 - infinitesimal [adj]極微小的 [n]極小量
 
 ## fringe 邊緣
-* fringe [n]穗/流蘇, 邊緣, **員工福利** = *fringe benefit* [v]裝飾…的邊緣, 形成..的邊界
+* fringe [n]穗/流蘇, 邊緣, **__員工福利__** = *fringe benefit* [v]裝飾…的邊緣, 形成..的邊界
 * **infringe** [v]違反 = *violate*, 侵佔/侵害 = *trespass*
 - befringe [v]飾以邊
 
@@ -3014,7 +3016,7 @@
 * confess [v]坦白/招認(錯誤或罪行) = *concede* = *acknowledge* = *admit*, 聽..的告解, 表明信仰
 * confessional [adj]自白的/懺悔的 [n]告解室
 * profess [v]聲稱/自稱/謊稱 = *purport* = *allege* = *claim*, 宣稱信奉, 接受……入教
-* **professed** [adj]假裝的/聲稱的 = *ostensible* = *ostensive* = *pretended*, 公開表明的, 宣誓後入教的
+* **__professed__** [adj]假裝的/聲稱的 = *ostensible* = *ostensive* = *pretended*, 公開表明的, 宣誓後入教的
 * profession [n]職業, 同業/同行, 聲稱, 表明信仰
 * professional [adj]職業的, 專業的/職業性的, 內行的 = *competent* = *skillful* [n]專家/職業選手, 內行
 - professor [n]教授
@@ -3071,7 +3073,7 @@
 
 ## fuse 傾倒 = *pour*, melt
 * confuse [v]使困惑 = *perplex* = *bewilder* = *confound* = *befuddle* = *baffle* = *muddle*, 使複雜難懂, 誤解 = *mistake*
-+ diffuse [v]散佈/擴散 = *spread* = *disseminat* = **mist**, 漫射 [adj]擴散的/分散的 = *dispersed*, **晦澀的**
++ diffuse [v]散佈/擴散 = *spread* = *disseminat* = **mist**, 漫射 [adj]擴散的/分散的 = *dispersed*, **__晦澀的__**
 + **__effusive__** [adj]奔放的/過於流露感情的 = *ebullient* = *demonstrative*, [地]噴發的
 - infuse [v]使充滿 = *fill* = *pervade*, 灌輸 = *instill* = *impart*, 鼓勵 = *inspire*, 泡茶
 + [profuse](/prəˈfjuːs/) [adj]充沛的/大量的 = *plentiful* = *abundant* --> profusion [n] = *proliferation*
@@ -3089,7 +3091,7 @@
 ## foss 石頭/化石 = *fossil*
 - [fossil](/ˈfɒs(ə)l/) [n]化石, 頑固不化的人
 - fossilize [v] (使)成化石, (使)停滯
-- **[fosse](/fɒs/)** [n]護城河 = **moat** <|> [false](/fɒls/)
+- **[__fosse](/fɒs/)__** [n]護城河 = **moat** <|> [false](/fɒls/)
 
 # G
 
@@ -3114,9 +3116,9 @@
 - gravitational [adj]引力的/重力的
 * grieve [v]使悲傷/使苦惱 
 * grievance [n]不滿, 抱怨
-+ grievous [adj]悲傷的, **極嚴重的** = *grave* = *flagrant* = *outrageous*
++ grievous [adj]悲傷的, **__極嚴重的__** = **grave** = *flagrant* = *outrageous*
 - grief [n]憂傷/悲傷
-- **aggrieve** [v]使痛苦 = *afflict*
+- **__aggrieve__** [v]使痛苦 = *afflict*
 
 ## greg 聚集 = *flock*
 + aggregate [n]聚集體, 集料/粒料(建築用的小石料) [adj]合計的/總的 = *gross*, 複合的 [v]使聚集 = *agglomerate* = *assemble* 
@@ -3251,10 +3253,10 @@
 + [genuine](/ˈdʒɛnjʊɪn/) [adj]真正的/非偽造的 = *authentic* = *real* = *legitimate* = *sincere*, 真誠的/誠實的 = *sincere*
 + homogeneous --> homogeneity
 + heterogeneous
-* **__indigenous__** [adj]本地的/天生的 = *native* = *innate* = *inherent* = *natural* = *spontaneous* <-- in + di + gen + ous
+* **__indigenous__** [adj]本地的/天生的 = *native* = *innate* = *inherent* = *natural* <-- in + di + gen + ous
 + **__[ingenious](/ɪnˈdʒiːnɪəs/)__** [adj]足智多謀的/心靈手巧的 = *cunning* = *clever*, 製作精巧的/巧妙的 = *subtle* = *clearly* inventive
 + **ingenuity** [n]足智多謀/心靈手巧 = *cunning* = *adeptness*
-+ **__[ingenuous](/ɪnˈdʒɛnjʊəs/)__** [adj]率直的 = *candid* = *sincere*, 純樸的/單純的 = *naive* = *simple* = *artless* = *innocent* = *guileless* <|> ingenious
++ **__[ingenuous](/ɪnˈdʒɛnjʊəs/)__** [adj]率直的 = *candid*, 純樸的/單純的 = *naive* = *artless* = *innocent* = *guileless*
 - lactogenic
 - **octogenarian**
 + primogenitor
@@ -3269,7 +3271,7 @@
 - genetic [adj]遺傳的, 起源的
 - genetics [n]遺傳學
 - genome [n]基因組/染色體組
-- **phylogenetic** [adj]動植物種類史的
+- **__phylogenetic__** [adj]動植物種類史的
 
 ## germ 芽/菌 = *sprout*
 * germ [n]微生物/細菌/病菌, 胚/胚芽, 起源/萌芽
@@ -3357,7 +3359,7 @@
 - **[hypothalamus](/ˌhʌɪpə(ʊ)ˈθaləməs/)** [n]下視丘
 
 ## hypno 催眠 = *put* to sleep
-* **hypnotic** [adj]催眠的 = *soporific* [n]安眠藥 = *sedative*
+* **__hypnotic__** [adj]催眠的 = *soporific* [n]安眠藥 = *sedative*
 * hypnotize [v]催眠, 使著迷 = *charm* = *beguile* = *fascinate* = *mesmerize*
 - hypnosis [n]催眠狀態
 - hypnotism [n]催眠 = *mesmerism*
@@ -3397,7 +3399,7 @@
 
 ## here, hetero 不同/異 = *different*, other
 * heresy [n]異端邪說
-+ **heretic** [n/adj]異教徒 = *heathen* <|> hermetic 
++ **[heretic](/ˈhɛrɪtɪk/)** [n/adj]異教徒 = *heathen* <|> **hermetic** 
 + heretical [adj]異端的 
 + [heterodox](/ˈhɛt(ə)rə(ʊ)dɒks/) [adj]非正統的/異端的 = *unorthodox* = *maverick* = *unconventional* <--> orthodox
 + heterodoxy [mn]異端
@@ -3447,8 +3449,8 @@
 - cohabit [v]同居, 共存
 * exhibit [v]展出/展示, 表現/顯出 = *manifest* [n]展品/展出物, 展覽, 證物/證據 --> exhibition [n]
 - exhibitionist [n]好出風頭的人 [adj]好出風頭的
-+ **[habitat](/ˈhabɪtat/)** [n]棲息地
-- **habitant** [n]居民 = *inhabitant*
++ **__[habitat](/ˈhabɪtat/)__** [n]棲息地
+- **__habitant__** [n]居民 = *inhabitant*
 - habitable [adj]可居住的/適合居住的
 - habitual [adj]習慣的 = *inveterate*
 * habituate [v]使習慣於 = *accustom* = *wont* --> habituation [n]習慣
@@ -3473,7 +3475,7 @@
 
 ## hap 運氣 = *luck*
 * **hap** [n]機會/幸運
-+ **haphazard** [adj]任意的/隨意的 = *random* = *aimless* = *indiscriminate* = *thoughtless*
++ **__haphazard__** [adj]任意的/隨意的 = *random* = *aimless* = *indiscriminate* = *thoughtless*
 + hapless [adj]不幸的/運氣不好的 = *unlucky* = *unfortunate*
 - mishap [n]不幸/災難 = *misfortune* = *bale*
 
@@ -3552,17 +3554,17 @@
 	+ impeccable [adj]無懈可擊的/無缺點的 = *faultless* = *flawless* = *irreproachable* <|> impecunious
 	+ impecunious
 	+ impenetrable [adj]不能穿透的, **無法理解的** = *arcane* = *unfathomable* = *incomprehensible* = *abstruse* <-- im + penetrable
+	+ impermeable [adj]不能透水的/不可滲透的 = *impervious* = *impenetrable* = *impassable* <-- im + permeable
+	+ impervious [adj]不能滲透的 = *impermeable* = *impenetrable*, **不為所動的/無動於衷的** = *indifferent*
 	- impenitent [adj]不知悔改的 = *incorrigible* <-- im + penitent
 	+ imperceptible [adj]非常細微的 = *very* slight/subtle, 感覺不到的/察覺不出的
 	- **impermanent** [adj]暫時的 = *temporary*
 	+ impermanence, impermanency [mn]短暫性/暫時/無常 <-- im + permanent
-	+ impermeable [adj]不能透水的/不可滲透的 = *impervious* = *impenetrable* = *impassable* <-- im + permeable
 	+ impermissible [adj]不允許的 = *unallowable*
 	+ **impersonal** [adj]非個人的/客觀的 = *objective*, 無特色的/不知名的, 非人的, 非人稱的 <|> impersonate
 	+ impertinent [adj]無禮的 = *uncivil* = *discourteous* = *impudent*, 無關的 = *irrelevant* = *extraneous* = *immaterial* = *inconsequential*
 	- impertinence [n]無理/粗魯 = *rudeness* = *impudence* <-- im + pertinence
 	+ **imperturbable** [adj]冷靜的/沈著的 = *calm* = *halcyon* = *limpid* = *composed* <-- im + perturb + able
-	+ impervious [adj]不能滲透的 = *impermeable* = *impenetrable*, **不為所動的/無動於衷的** = *indifferent*
 	+ **implacable**
 	+ [implausible](/ɪmˈplɔːzɪb(ə)l/) [adj]難以置信的/不合情理的 = *unlikely* = *unbelievable* 
 	- impolitic [adj]失策的/不智的 = *tactless* = *unwise* <-- im + politic
@@ -3582,7 +3584,7 @@
 	+ **impudent** [adj]無禮的 = *impertinent* = *insolent* <-- im + pud 羞愧 = *shame* + ent
 	+ impudence [n]傲慢無禮 = *impertinence* = *effrontery* 
 	- **inpuissance** [n]無力/虛弱
-	- **impunity** [n]免於懲處
+	- **impunity**
 	* inactive [adj]不活動的/不活躍的 = *fallow*, 消極的 = *sedentary* = *passive*, 懶惰的 = *sluggish* = *indolent*
 	+ inadequate [adj]不足的/不夠格的 = *inept* = *unsuitable*
 	+ **inadvertent** --> inadvertently
@@ -3640,7 +3642,7 @@
 	+ [inert](/ɪˈnəːt/) [adj]惰性的, 無生命的/遲緩的/無生氣的 = *dull* = *slow* 
 	+ inertia [n]惰性, 慣性 <-- in + ert 技巧 = *skill*
 	+ inexhaustible [adj]用之不竭的/無窮無盡的 = *unfailing*, 不會疲勞的 = *untiring* = *tireless*
-	+ **inexorable** [adj]無法改變的/不可阻擋的, 說不動的/無情的 = *implacable* = *relentless* = *unyielding* = *stern*
+	+ **inexorable** [adj]無法改變的/不可阻擋的, 說不動的/無情的 = **implacable** = *relentless* = *unyielding* = *stern*
 	+ inexplicable [adj]無法解釋的 = *mysterious* = *obscure*
 	+ inevitable [adj]無可避免的/必然的 = *certain* = *necessary* = *unalterable* = *unavoidable* = *ineluctable*
 	- infamy [n]惡名/聲名狼藉, 醜惡/邪惡的行徑
@@ -3661,7 +3663,7 @@
 	+ ingrate --> ingratitude
 	- inhumane [adj]不近人情的/不人道的/殘忍的 = *cruel* = *brutal* = *unkind* = *wanton*
 	+ [inimitable](/ɪˈnɪmɪtəb(ə)l/) [adj]無法仿效的/獨特的/不可比擬的 = *matchless* <|> inimical <-- in + imitate + able
-	+ iniquity [n]不公正/邪惡/罪惡 = *injustice* = *wickedness* = *sin* = *enormity*
+	+ **iniquity** [n]不公正/邪惡/罪惡 = *injustice* = *wickedness* = *sin* = *enormity*
 	+ iniquitous [adj]不公正的/邪惡的 <-- in + iquit 公平 == *equ* + ty
 	+ [initial](/ɪˈnɪʃ(ə)l/) [adj]開始的/最初的, 首字的 [n]姓名的首字母 [v]簽首字母, 簽字以同意 <-- in + it + ial --> initially [adv]最初/開始
 	* [initiate](/ɪˈnɪʃɪeɪt/) [v]發起/創始, 入會 <-- initial
@@ -3699,8 +3701,8 @@
 	+ [interminable](/ɪnˈtəːmɪnəb(ə)l/) [adj]無盡頭的/無止盡的
 	+ intemperate [adj]不節制的/過度的, 酗酒的
 	+ intemperance [n]不節制/放縱 = *excessive* indulgence, 酗酒
-	+ **intractable** [adj])倔強的 = *implacable* = *stubborn* = *obstinate*, 無法控制的/難以處理的/棘手的 = *uncontrollable* 
-	+ **intransigent** [adj]不妥協的 = *pertinacious* = *inflexible* = *stubborn* = *adamant* <-- in + transig 妥協 
+	+ **__intractable__** [adj]倔強的 = *implacable* = *stubborn* = *obstinate*, 難以處理的/棘手的 = *uncontrollable* 
+	+ **__intransigent__** [adj]不妥協的 = *pertinacious* = *inflexible* = *stubborn* = *adamant* <-- in + transig 妥協 
 	+ intransigence [n]不妥協/不讓步
 	- **intravenous** [adj]靜脈的
 	+ intrepid
@@ -3767,12 +3769,12 @@
 	+ implode [v]內爆 <-- im + (ex)plode
 	- **implore**
 	* import [v]進口/輸入, 表達/使知曉 [n]進口, 意義 = *meaning*, **重要性** = *significance* = *importance*
-	+ **importune** [v]強求/煩擾 = *harass* = *woo* = *solicit* -->
-	+importunate [adj]強求的/纏擾不休的 <-- im + (op)portune
+	+ **importune** [v]強求/煩擾 = *harass* = *woo* = *solicit*
+	+ importunate [adj]強求的/纏擾不休的 <-- im + (op)portune
 	* impose --> imposition
 	- imposing
 	- **impostor** --> imposture
-	- **impound** [v]扣押/沒收, 將(牲畜)關在圈中, 將..關起 = *lock* up, (水壩)貯水/蓄水
+	- **__impound__** [v]扣押/沒收, 將(牲畜)關在圈中, 將..關起 = *lock* up, (水壩)貯水/蓄水
 	- impoverish [v]使貧窮, 耗盡(精力) 
 	- impoverished [adj]貧窮的, 耗盡精力的 <-- im + pover(ty) + ish
 	+ impress --> impressed --> impression --> impressionable
@@ -3784,7 +3786,7 @@
 	- inborn [adj]天生的 = *innate*
 	+ innate
 	- incandescent --> incandescence
-	* **incarcerate** [v]監禁/關押 = *imprison* = *confine* = *immure* <-- in + carcer 監牢 = *prison* + ate
+	* **__incarcerate__** [v]監禁/關押 = *imprison* = *confine* = *immure* <-- in + carcer 監牢 = *prison* + ate
 	* incarceration [mn]監禁 = *imprisonment*
 	+ imprison [v]監禁/關押 = *incarcerate*
 	+ incarnate
@@ -3804,7 +3806,7 @@
 	- incubate --> incubation --> incubator
 	+ incumbent
 	- incubus
-	+ **[inculcate](/ˈɪnkʌlkeɪt/)** [v]諄諄教誨/灌輸 = *instill* = *implant* = *indoctrinate* <-- in + culc 行走 = *heel*, tread
+	+ **__[inculcate](/ˈɪnkʌlkeɪt/)__** [v]諄諄教誨/灌輸 = *instill* = *implant* = *indoctrinate* <-- in + culc 行走 = *heel*, tread
 	- **inculpate**
 	- incur
 	+ incursion
@@ -3824,7 +3826,7 @@
 	- induct --> induction
 	- **indurate**
 	+ industrious [adj]勤勉的/勤勞的 = *diligent* = *hard*-working <-- industry
-	- **inebriate** [v]使醉 = *intoxicate* [n]酒鬼/醉漢 = *drunkard* [adj]酒醉的
+	- **__inebriate__** [v]使醉 = *intoxicate* [n]酒鬼/醉漢 = *drunkard* [adj]酒醉的
 	- **infatuate** [v]使熱戀/使衝昏頭腦 <-- in + fatuous + ate
 	- infatuation [n]迷戀 
 	- infect --> infection --> infectious
@@ -3875,7 +3877,7 @@
 	+ **insidious**
 	+ insight [n]洞悉/深入了解 
 	+ insightful [adj]富有洞察力的 = *perceptive*
-	- **insignia**
+	- **__insignia__**
 	+ insinuate [v]暗指/暗示 = *imply* = *suggest* = *allude*, 緩緩地滑動, 逐漸而巧妙的取得 <-- in + sinuous + ate
 	- insource [v]內包 <--> outsource
 	- inspect --> inspection
@@ -3911,7 +3913,7 @@
 	- invade
 	+ **invective**
 	+ **__inveigh__**
-	+ **__[inveigle](/ɪnˈviːɡ(ə)l/)__** [v]誘騙/哄騙 = *cajole* = *coax* = *wheedle* <|> [inveigh](/ɪnˈveɪ/) <-- in + veigle 盲目 = *blind*
+	+ **__[inveigle](/ɪnˈviːɡ(ə)l/)__** [v]誘騙/哄騙 = *cajole* = *coax* = *wheedle* <-- in + veigle 盲目 = *blind*
 	* invent --> inventive
 	- inventory
 	- invert --> inverse
@@ -3926,30 +3928,32 @@
 	- irrigate [v]灌溉, 沖洗傷口 --> irrigation [n] <-- ir + rig 水 = *water* + ate
 
 ## intel, inter, intr
-1. 在...之中 = *between*, among
+1. 在...之中 = *between*, *among*
 	+ intellect --> intellectual
 	- intelligent --> intelligence
-	+ intelligible
+	+ **intelligible**
 	- interloper [n]攪局的人
-	+ [internal](/ɪnˈtəːn(ə)l/) [adj]裡面的/內在的/內心的, 國內的 = *domestic*, 本質的 = *intrinstic* <|> [eternal](/ɪˈtəːn(ə)l/)
-	- internist [n]內科醫師
+	+ [internal](/ɪnˈtəːn(ə)l/) [adj]裡面的/內在的/內心的, 國內的 = *domestic*, 本質的 = *intrinstic*
+	- **internist** [n]內科醫師
 	- interact --> interaction
 	+ interdisciplinary [adj]跨學科的
-	- [intercalate](/ɪnˈtəːkəleɪt/) [v]插入/置於...中間 = *interpose* = *interpolate*
-	- intercede --> intercession --> intercessor
+	- **[intercalate](/ɪnˈtəːkəleɪt/)** [v]插入/置於...中間 = *interpose* = *interpolate*
+	- **intercede** --> intercession --> intercessor
 	- intercept
-	- interchange [v]交換/互換 --> interchangeable [adj]可互換的
+	- interchange [v]交換/互換
+	- interchangeable [adj]可互換的
 	+ interdict
 	- interfaith [adj]不同信仰者之間的
-	- interfere [v]插手/干涉 --> interference [n]干涉/妨礙 <-- inter+ fere 攻擊 = *strike*
-	- [interim](/ˈɪnt(ə)rɪm/) [n]中間時期/過渡時期 [adj]臨時的/暫時的 = *temporary*
+	- interfere [v]插手/干涉  <-- inter+ fere 攻擊 = *strike*
+	- interference [n]干涉/妨礙
+	- **[interim](/ˈɪnt(ə)rɪm/)** [n]中間時期/過渡時期 [adj]臨時的/暫時的 = *temporary*
 	* interject --> interjection
 	- interlude
 	+ intermediary
 	* intermediate
-	- intern [v]軟禁/拘禁 = *detain* = *confine*, 做實習 [n]實習生
+	- intern [v]**軟禁/拘禁** = *detain* = *confine*, 做實習 [n]實習生
 	+ interpolate [v]竄改, 插入 = *interject* = *interpose* = *intercalate* = *insert* <-- inter + pol 修飾 = *polish* + ate
-	- interpose
+	- **interpose**
 	- interregnum
 	- interrogate --> interrogative
 	- interrupt
@@ -3958,12 +3962,13 @@
 	- interstate [adj]州際的 [n]州際公路
 	+ intertwine [v]纏繞/交纏
 	+ intervene --> intervention
-	+ intrinsic, intrinsical [adj]本質的/固有的 = *essential* <--> extrinsic <-- intr + in + sic
+	+ **intrinsic**, intrinsical [adj]本質的/固有的 = *essential* <--> extrinsic 
 
 2. 互相 = *together*, mutually, reciprocally
-	- interlock [v]連鎖/連串 --> interlocking [adj]連鎖的
+	- **interlock** [v]連鎖/連串 
+	- interlocking [adj]連鎖的
 	- intermingle [v]混合/攙雜 <-- inter + mingle
-	+ intermit --> intermittent --> intermission
+	+ **intermit** --> intermittent --> intermission
 	+ [internecine](/ˌɪntəˈniːsʌɪn/) [adj]內鬨的, 兩敗俱傷的 <-- inter + nec 殺 = *kill* + ine
 	+ interplay [n/v]互相影響 = *interact* = *reciprocal* relationship <-- inter + play
 
@@ -3981,32 +3986,34 @@
 
 ## insul, isol 島 = *isle*
 - insula [n]島
-+ [insular](/ˈɪnsjʊlə/) [adj]島嶼的/海島的, 心胸狹窄的 = *petty* = *myopic* = *narrow*-minded, 孤立的/與世隔絕的 = *detached* = *isolated* = *solitary*
++ [insular](/ˈɪnsjʊlə/) [adj]島嶼的/海島的, 心胸狹窄的 = *myopic*, 孤立的/與世隔絕的 = *detached* = *solitary*
 + [insularity](/ˌɪnsjʊˈlarɪti/) [n]島國, 孤立 = *isolation*, 偏狹/心胸狹窄 = *narrow*-mindedness
 * [insulate](/ˈɪnsjʊleɪt/) [v]使絕緣/使隔熱, 使免於不良的影響 <|> [isolate](/ˈʌɪsəleɪt/)
 * insulation [n]隔絕, 隔絕狀態, 隔熱材質/絕緣材質
 - insulin [n]胰島素 <-- insul + in 素
-- peninsula [n]半島 --> peninsular [adj]半島的 
+- peninsula [n]半島
+- peninsular [adj]半島的 
 - isolate [v]孤立/隔離
 - isolationist [n]政治孤立主義者 [adj]孤立主義的
 
 ## integ, integr 完整的 = *whole*, integer
 - integer [n]整數
-+ integral [adj]構成整體所必需的/不可缺的, 完整的/整體的 = *whole*, 整數的, 積分的 [n]整數, 積分
++ **integral** [adj]構成整體所必需的/不可缺的, 完整的/整體的 = *whole*, 整數的, 積分的 [n]整數, 積分
 + integrate [v]使成一體/加入, 取消隔離政策, 求..積分
-+ integrant [adj]構成整體的 = *constituent* [n]部件 = *component*
-+ [integrity](/ɪnˈtɛɡrɪti/) [n]正直/誠實 = *sincerity*, 完整 = *entirety*
++ **integrant** [adj]構成整體的 = *constituent* [n]部件 = *component*
++ [integrity](/ɪnˈtɛɡrɪti/) [n]**正直/誠實** = *sincerity*, 完整 = *entirety*
 
 ## imper 命令 = *rule*
 - imperator [n]元首, 大將軍
 + imperative [adj]極重要的/必要的 = *urgent* = *essential*, 命令式的 = *peremptory* = *authoritative* = *commanding* [n]必要之事/急需, 命令/規則 <-- im + per 準備 = *prepare* + ative
 - imperial [adj]帝王的/至尊的
 + imperious [adj]傲慢的/專橫的 = *commanding* = *domineering* = *arrogant* = *dictatorial* = *overbearing* = *magisterial* = *peremptory*, 急需的 = *urgent* = *imperative* <|> impervious
-- imperium [n]最高權力
+- **imperium** [n]最高權力
 
 ## ign 火 = *fire*
 + [igneous](/ˈɪɡnɪəs/) [adj]火的 = *volcanic*, 火成岩的
-* [ignite](/ɪɡˈnʌɪt/) [v]點燃/燃燒 = *kindle*, 激起 --> ignition [n]著火/燃燒, 點火裝置
+* [ignite](/ɪɡˈnʌɪt/) [v]點燃/燃燒 = *kindle*, 激起 
+* ignition [n]著火/燃燒, 點火裝置
 
 ## infer 下/低 = *lower*, under
 * inferior [adj]低等的/下級的/較差的 = *subordinate* = *mean* = *wretched* 
@@ -4016,43 +4023,50 @@
 ## it, itiner 走/旅行 = *go*, travel
 + circuitous
 - initial
-+ [itinerant](/ɪˈtɪnər(ə)nt/) [adj](工作)巡迴的/流動的 = *unsettled* = *peripatetic* [n]巡迴者
++ [itinerant](/ɪˈtɪnər(ə)nt/) [adj]巡迴的/流動的 = *unsettled* = *peripatetic* [n]巡迴者
 + [itinerary](/ʌɪˈtɪn(ə)(rə)ri/) [n]旅行計劃/行程表 = *travel* schedule [adj]旅行的/旅程的
-- obituary
-+ sedition [n]煽動叛亂/煽動性的言論 <|> petition --> seditious [adj]煽動的 <-- sed 分開 = *apart* + it + ion
+- **obituary**
++ sedition [n]煽動叛亂/煽動性的言論 <|> petition
++ **seditious** [adj]煽動的 <-- sed 分開 = *apart* + it + ion
 - transit --> transition 
 + transitory
 
 ## idio 獨特的/唯一的 = *peculiar*
 + idiosyncrasy [n]氣質/風格/特點 = *characteristic* = *habit* = *quirk*, 特異體質 
 + idiosyncratic [adj]獨特的 = *peculiar* = *individual*
-- [idiolect](/ˈɪdɪəlɛkt/) [n]個人的講話風格
-- idioventricular [adj]心室的
+- **[idiolect](/ˈɪdɪəlɛkt/)** [n]個人的講話風格
+- **idioventricular** [adj]心室的
 
 ## iso 同 = *equal*
 - isochron [n]等時線
-- isotope [n]同位素
+- [isotope](/ˈʌɪsətəʊp/) [n]同位素
 
 ## {itis} 炎症
 - arthritis
 - dermatitis
-- encephalitis [n]腦炎
+- **encephalitis** [n]腦炎
 
 # J
 
 ## ject 扔/拋 = *throw*
-+ abject [adj]糟透的, 可鄙的/卑劣的 = *contemptible* = *despicable* <|> abjure <|> adjure
++ **abject** [adj]糟透的, 可鄙的/卑劣的 = *contemptible* = *despicable* <|> abjure <|> adjure
 + conjecture [n/v]猜測/猜想 = *speculate*
-+ deject [v]使沮喪 = *depress* = *dispirit*, 降低/削弱 = *lower* --> dejected [adj]沮喪的/失望的 = *crestfallen* = *dispirited* = *discouraged* --> dejection [n]沮喪
-- ejecta [n]噴出物
-- inject [v]注射/注入 --> injection [n]注射, 注射劑
-* interject [v]插話/插嘴 = *interpose* --> interjection [n]插話, 感歎詞
-+ object [v]反對 [n]物體/對象/目標/目的, 受格 --> objection [n]厭惡/反對 --> objectionable [adj]令人反感的/使人不快的
++ deject [v]使沮喪 = *depress* = *dispirit*, 降低/削弱 = *lower* 
++ dejected [adj]沮喪的/失望的 = *crestfallen* = *dispirited* = *discouraged* 
++ dejection [n]沮喪
+- **ejecta** [n]噴出物
+- inject [v]注射/注入
+- injection [n]注射, 注射劑
+* **interject** [v]插話/插嘴 = **interpose**
+* interjection [n]插話, 感歎詞
++ object **[v]反對** [n]物體/對象/目標/目的, 受格 
++ **objection** [n]厭惡/反對
++ **objectionable** [adj]令人反感的/使人不快的
 + objective [adj]客觀的/公正的 = *impersonal* = *unbiased* = *impartial*, 受格的 [n]目標 = *aim*, 物鏡 
-+ objectivity [n]客觀
+- objectively [adv]客觀地, **實際的** = *actually*
++ **objectivity** [n]客觀
 + objectify [v]使客觀化, 使具體化 = *concrete*
-- objectively [adv]客觀地, 實際的 = *actually*
-* project [n]方案/計畫/企劃, 專案/學生研究, 公營住宅 [v]估計/預測, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
+* project [n]方案/計畫/企劃, 專案/學生研究, 公營住宅 **[v]估計/預測**, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
 - projectile [n]投射物
 - projection [n]凸出, 設計/規劃, 投擲/發射, 投影
 - projector [n]投影機/電影放映機
@@ -4060,12 +4074,12 @@
 + subject [n]主題/話題, 研究對象, 科目/學科, 國民/臣民, 主詞 主體/主觀意識 [adj]臣服的/被征服的
 + subject to [v]易受...影響, 使蒙受/使經歷, 取決於/視…而定, 在..的管理之下, 使臣服 [adv]取決於
 + subjection [n]征服/制服/隸屬
-- subjective [adj]主觀的, 想像的
+- **subjective** [adj]主觀的, 想像的
 - trajectory [n]軌道/彈道
 
 ## jur 發誓 = *swear*
-+ abjure [v]發誓放棄 = *renounce* = *recant* <|> adjure
-- adjure [v]力勸/懇請 = *urge* = *request*
++ **abjure** [v]發誓放棄 = *renounce* = *recant* <|> adjure
+- **adjure** [v]力勸/懇請 = *urge* = *request*
 + conjure [v]招喚/想起 = *recall* = *evoke*, 變魔術/變戲法
 - jury [n]陪審團 = *tribunal*, 評審委員會 [v]評審(展覽)
 - juror [n]陪審員/陪審團成員
@@ -4075,49 +4089,52 @@
 ## just, jury, jur 正確 = *right*
 + adjust [v]調整, 使適應 = *adapt* = *accustom* = *accommodate*
 - jurisdiction [n]司法權, 司法管轄權, 司法體系, 管轄範圍
-- jurisprudence [n]法學, 法律體系
+- **jurisprudence** [n]法學, 法律體系
 - justice [n]正義, 司法, 法官
 - injure [v]傷害, 受傷, 危害/損害
-- injury [n]傷害/損害 = *damage* = *harm* --> injurious [adj]有害的 = *harmful*, 誹謗的/中傷的
-+ justify [v]證明……是正當的/是..的好理由 = *warrant*, 使版面對齊 --> justification [n]正當理由, 辯解/證明為正當
-+ justified [adj][in]有正當理由的
+- injury [n]傷害/損害 = *damage* = *harm* 
+- injurious [adj]有害的 = *harmful*, 誹謗的/中傷的
++ justify [v]證明……是正當的/是..的好理由 = *warrant*, 使版面對齊
++ justification [n]正當理由, 辯解/證明為正當
++ **justified** [adj]有正當理由的
 + justifiable [adj]可辯護的/有道理的 = *defensible*
-+ objurgate [v]申斥/痛罵 = *trounce* = *scold* = *rebuke* --> objurgation [n]
++ **__objurgate__** [v]申斥/痛罵 = *trounce* = *scold* = *rebuke* --> objurgation [n]
 
 ## journ 日 = *day*, daily
-- adjourn [v]使休會/休庭, 推遲/使延期 = *defer*
+- **[adjourn](adjourn)** [v]休會, 閉會
 - journey [n]旅行 = *jaunt*
 - journal [n]雜誌/期刊, 日記/日誌 [v]寫日誌
 - journalese [n]滿是陳腔濫調的新聞文體
-- sojourn [n/v]逗留/停留 = *stay*
+- **sojourn** [n/v]逗留/停留 = *stay*
 
 ## junct, join 結合/連結 = *join* == *arthr* == *articul*
-+ adjunct [n]附加物/附件 = *appendage*, 助手/副手, 附加語/修飾語 [adj]附屬的, 兼職的/副的
++ adjunct [n]附加物/附件 = *appendage*, **助手/副手**, 附加語/修飾語 [adj]附屬的, 兼職的/副的
 - conjoin [v]使結合/使連接 
 - conjunction [n]同時發生, 天體交會, 連詞/連接詞
-+ disjoint [v]使脫臼 = *dislocate*, 使支離破碎 = *dislocate* --> disjointed [adj]支離破碎的/無條理的
++ disjoint [v]使脫臼 = *dislocate*, 使支離破碎 = *dislocate* 
++ disjointed [adj]支離破碎的/無條理的
 - disjunction [n]分離/歧異 
-- disjunctive [adj]分離的, 轉折的/反義的
-- junction [n]樞紐/交會點/交叉路口
+- **disjunctive** [adj]分離的, 轉折的/反義的
+- **junction** [n]樞紐/交會點/交叉路口
 + [junta](/ˈdʒʌntə/) [n]軍人集團/軍政府/私黨
-- juncture [n]關鍵時刻/轉折 = *moment*, 交會點/連接點, 音渡/連音 <|> fracture
-- injunction [n]命令/指令 = *command* = *bidding*, 禁止令/強制令
+- **juncture** [n]關鍵時刻/轉折 = *moment*, 交會點/連接點, 音渡/連音 <|> fracture
+- **injunction** [n]命令/指令 = *command* = *bidding*, 禁止令/強制令
 
 ## juven 年輕的 = *youthful*
 + [juvenile](/ˈdʒuːvənʌɪl/) [adj]青少年的 = *adolescent* = *young* = *youthful*, 幼稚的/不成熟的 = *childish* = *jejune* = *puerile* [n]青少年/年輕人
 + rejuvenate [v]使變年輕, 使恢復精神/恢復活力
 
 ## joc 玩笑 = *joke*
-- [jocund](/ˈdʒɒk(ə)nd/) [adj]快樂的/高興的 = *cheerful* = *genial* = *merry* = *jovial* = *jolly* = *convivial*
-+ [jocose](/dʒəˈkəʊs/) [adj]開玩笑的/詼諧的 = *jocular* = *humorous*
+- **[jocund](/ˈdʒɒk(ə)nd/)** [adj]快樂的/高興的 = *cheerful* = *genial* = *merry* = *jovial* = *jolly* = *convivial*
++ **[jocose](/dʒəˈkəʊs/)** [adj]開玩笑的/詼諧的 = *jocular* = *humorous*
 + [jocular](/ˈdʒɒkjʊlə/) [adj]有趣的/詼諧的/愛開玩笑的 = *facetious*
 
 ## judic, jud 判斷 = *judge*
 + adjudicate [v][法]判決/宣告 = *arbitrate* = *umpire*
 - judge [v]審判/判決, 判斷/認為 [n]裁判, 法官/推事/裁判員
-* judicial [adj]司法的/審判的, 法官的/法庭的
-- judiciary [n]法官
-+ judicious [adj]明斷的 = *discreet* = *prudent* = *circumspect* = *deliberate* = *measured* = *canny* = *guarded* = *methodical*
+* **judicial** [adj]司法的/審判的, 法官的/法庭的
+- **judiciary** [n]法官
++ **judicious** [adj]明斷的 = *discreet* = *prudent* = *circumspect* = *deliberate* = *measured* = *guarded*
 + injudicious
 * prejudge [v]預先判斷
 * [prejudice](/ˈprɛdʒʊdɪs/) [n]偏見/成見 = *jaundice* = *bias*, [法]侵害/損害 [v]使懷偏見 = *jaundice* = *bias*, 侵害/損害
@@ -4137,103 +4154,109 @@
 # L
 
 ## lut, luv, lug, lav 沖/洗 = *wash* --> diluv 洪水
-- ablution [n]沐浴/洗澡, 淨禮
-- alluvium [n]沖積層/沖積土 --> alluvial [adj]沖積的
-- deluge [n]大洪水, 暴雨, 大量 [v]被洪水淹沒 = *overwhelm*, 壓倒 = *overwhelm* <|> divulge
+- **ablution** [n]沐浴/洗澡, 淨禮
+- **alluvium** [n]沖積層/沖積土 
+- alluvial [adj]沖積的
+- **deluge** [n]大洪水, 暴雨, 大量 [v]被洪水淹沒 = *overwhelm*, 壓倒 = *overwhelm* <|> divulge
 + dilute [v]沖淡/稀釋, 削弱/減低 = *reduce* [adj]稀釋的, 低濃度的
-- diluvial [adj]洪水的
+- **diluvial** [adj]洪水的
 - antediluvian [adj]太古的
 - lave [v]洗 = *wash* = *bathe*, (河流)沖刷
-- lavatory [n]廁所/盥洗室
+- **lavatory** [n]廁所/盥洗室
 + lavish [adj]奢華的/鋪張的 = *prodigal* = *extravagant*, 慷慨的, 豐富的 = *profuse* [v]大量給予/慷慨給予
 
 ## lud, lude, lus 嘻笑/玩弄 = *play*
-+ allude [v]間接提到/暗指/影射 = *imply* = *insinuate*, 略微提及 -->
++ **allude** [v]間接提到/暗指/影射 = *imply* = *insinuate*, 略微提及
 + allusive [adj]影射的/暗指的
 + allusion [n]暗示/間接提到
-+ collude [v][in]串通/勾結 = *conspire* = *connive* --> collusion [n]勾結/共謀/串通
++ collude [v][in]串通/勾結 = *conspire* = *connive* 
++ collusion [n]勾結/共謀/串通
 * delude [v]欺騙/矇騙/讓..相信是真的 = *dupe* = *hoodwink* = *hoax* = *deceive* = *cheat* = *trick*
 * delusive [adj]欺騙的/誤導的 = *deceptive* = *misleading* --> delusion [n]欺騙
 + elude [v]躲避 = *evade* = *escape*, 難以被..獲得/難以被..所理解 
 + elusion [n]逃避/躲避
 + elusive [adj]難找到的/難以達成的, 難以記住的
-* ludicrous [adj]滑稽的/荒唐可笑的 = *absurd* = *ridiculous*
-+ illusion [n]幻覺, 錯覺, 幻想/錯誤觀念 --> illusive, illusory [adj]迷惑人的/虛假的 = *unreal* = *delusive* = *counterfeit* = *synthetic*
+* **ludicrous** [adj]滑稽的/荒唐可笑的 = *absurd* = *ridiculous*
++ illusion [n]幻覺, 錯覺, 幻想/錯誤觀念 
++ illusive, illusory [adj]迷惑人的/虛假的 = *unreal* = *delusive* = *counterfeit* = *synthetic*
 - interlude [v]暫時休息/間歇, 插曲 = *interval*, 中場/中場表演 = *intermission*
 - prelude [n]序幕/前奏/序曲 [v]作為..的序幕 <|> preclude 
 - preludial [adj]序言的/序幕的
 
 ## luc, lucid, lumin 光亮 = *light*
-+ lucid [adj]清楚易懂的 = *pellucid* = *perspicuous* = *comprehensible*, 神志清醒的 = *sane*, 明亮的 = *bright* --> lucidity [n]清晰 = *cogency*, 神智清醒 <|> lurid
++ lucid [adj]清楚易懂的 = *pellucid* = *perspicuous* = *comprehensible*, 神志清醒的 = *sane*, 明亮的 = *bright* 
++ lucidity [n]清晰 = *cogency*, 神智清醒 <|> **lurid** <|> **ludicrous**
 + [elucidate](/ɪˈl(j)uːsɪdeɪt/) [v]闡明 = *explain* = *clarify*
 + elucidation [n]闡明 = *illumination*
 + illuminate [v]闡明/解釋 = *elucidate*, 照亮 = *light* up, 裝飾 <-- il + lumin + ate
 + illumination [n]照明, 闡明 = *clarification*, 啟發
-- illuminati [n]先覺者/智者
+- **illuminati** [n]先覺者/智者
 * lucent [adj]發光的/透光的
 - lumen [n]流明
-+ luminary [n]傑出人物/名人 = *lion*
++ **luminary** [n]傑出人物/名人 = *lion*
 + luminous [adj]發光的/光輝的 = *bright* = *glowing* = *radiant*, 清楚的/明白易懂的 = *lucid*
-+ pellucid [adj]清澄的/透明的 = *translucent* = *limpid*, 明白的/易懂的 = *lucid*
++ **pellucid** [adj]清澄的/透明的 = *limpid*, 明白的/易懂的 = *lucid*
 + translucent [adj]半透明的 <--> transparent
 
 ## leg
 1. 任命/指定 = *depute*, choose
-	* [allege](/əˈlɛdʒ/) [v](無證據)宣稱/指控 = *assert* without proof = *accuse* --> allegation [n]
+	* **[allege](/əˈlɛdʒ/)** [v]無證據地宣稱/指控 = *accuse* --> allegation [n]
 	+ delegate [v]委派/委託/授權 = *commit*, 委派..代表 = *appoint* [n]代表 = *representative*
-	* legate [n]特使/使節/使者 = *envoy*
+	* **legate** [n]特使/使節/使者 = *envoy*
 	* legacy [n]遺產/遺贈/留給後人的東西 = *bequest* <-- legate
 	- legion [n]軍團, 一大群
-	+ relegate [v]貶職/使降級 = *demote* <--> promote
+	+ **__relegate__** [v]貶職/使降級 = *demote* <--> promote
 
 2. 法律/君主 = *liege*, law
-	- [allegiance](/əˈliːdʒ(ə)ns/) [n](對統治者、國家、群體或信仰的)忠誠/擁護 = *adherence* = *devotion* = *advocacy*
-	+ legislate [v]立法 = *enact*, (透過立法)實現 --> legislation [n]立法, 法條/法規
+	- [allegiance](/əˈliːdʒ(ə)ns/) [n]忠誠/擁護 = *adherence* = *devotion* = *advocacy*
+	+ legislate [v]立法 = *enact*, (透過立法)實現
+	+ legislation [n]立法, 法條/法規
 	- legislator [n]立法員
 	* legislature [n]立法機關, 美國州議會
 	- legal [adj]法律的, 合法的/正當的 = *legitimate* <--> illegal
-	- legalese [mn][非]法律措辭
+	- **legalese** [mn][非]法律措辭
 	+ legitimate [v]使合法 [adj]合法的/正統的 = *licit* = *legal*, 正當的/合理的 = *justified* = *warranted*
 	- legitimacy [n]合法, 合法性, 合理性 = *validity*
 	- illegitimate
 	+ privilege
 
 ## lev, liev 輕/舉 = *light*, lift
-+ [alleviate](/əˈliːvɪeɪt/) [v]減輕/緩和 = *mitigate* = *palliate* = *moderate* = *relieve* = *allay* = *assuage* = *soothe*
-+ levity [n]輕率/輕浮 = *frivolity* = *giddiness*
++ [alleviate](/əˈliːvɪeɪt/) [v]減輕/緩和 = *mitigate* = *palliate* = *moderate* = *relieve* = *allay* = *assuage*
++ **levity** [n]輕率/輕浮 = *frivolity* = *giddiness*
 + [elevate](/ˈɛlɪveɪt/) [v]抬起/舉起 = *raise*, 提升/晉升 = *exalt* = *promote* = *uplift*
-- lever [n]槓桿, 控制桿, 手段 [v]撬起, 移動, 壓迫/迫使
-- leverage [n]槓桿力, 槓桿作用, 力量/影響力, 負債經營 [v]負債經營, 使用..達到最大功效
+- lever [n]槓桿, 控制桿, 手段 [v]撬起, 移動, **壓迫/迫使**
+- leverage [n]槓桿力, 槓桿作用, **力量/影響力**, 負債經營 [v]負債經營, **使用..達到最大功效**
 * levy [v]徵稅 = *impose* = *tax* = *toll*, 扣押, 開戰 = *wage* [n]徵收, 徵收税, 扣押品, 徵兵, 徵募兵
 + relevant [adj]有關的/相關聯的 = *apropos* = *apposite* = *pertinent* = *kindred* = *associated*, 恰當的/適宜的
 + relevance, relevancy [n]關聯/相關
-* [relieve](/rɪˈliːv/) [v]緩解/減輕(疼痛或擔憂), 救濟/援助, 接替/換班, 解圍/解救, 調劑/使不單調
-* [relief](/rɪˈliːf/) [n]寬心/慰藉, 救濟/補助, 救濟品/救濟金, 替換/接替, 浮雕, 顯眼
+* [relieve](/rɪˈliːv/) [v]緩解/減輕(疼痛或擔憂), 救濟/援助, **接替/換班**, 解圍/解救, 調劑/使不單調
+* [relief](/rɪˈliːf/) [n]寬心/慰藉, 救濟/補助, 救濟品/救濟金, 替換/接替, **浮雕**, **顯眼**
 - relieved [adj]寬慰的/如釋重負的
 - bas-relief [n]淺浮雕
 
 ## len 軟 = *soft*
-- lenis [adj]發音較不費力的(子音)
-* lenient [adj]寬大的/仁慈的
+- **lenis** [adj]發音較不費力的(子音)
 * [lenient](/ˈliːnɪənt/) [adj](處罰或判決)寬容的/寬大的 = *indulgent* = *permissive* = *clement*
 * leniency [n]溫和/寬容
-- lento (adj/adv)(音樂)緩慢
+- **lento** [adj/adv][音]緩慢
 
 ## leth 死亡 = *death*
-- lethal [adj]致命的 = *fatal* = *deadly* = *pestilent*, 極其危險的 --> lethality [n]致命性/殺傷力
-+ lethargy [n]昏睡/瞌睡, 無生氣 = *lassitude* = *torpor* = *sluggishness*
+- lethal [adj]致命的 = *fatal* = *deadly* = *pestilent*, 極其危險的 
+- lethality [n]致命性/殺傷力
++ **lethargy** [n]昏睡/瞌睡, 無生氣 = *lassitude* = *torpor* = *sluggishness*
 + [lethargic](/lɪˈθɑːdʒɪk/) [adj]瞌睡的/昏睡的 = *drowsy*, 不活潑的/無生氣的 = *sluggish* = *inactive* = *lazy* = *apathetic* = *listless* = *spiritless* = *torpid*
 
 ## loc, loco 地方 = *place*
 * allocate [v]分配 = *allot*
-- collocate [v]組合/搭配(詞句)
+- **collocate** [v]組合/搭配(詞句)
 - dislocate [v]使脫臼 = *disjoint*, 弄亂/擾亂 
 - dislocation [n]脫節, 脫臼
-- [locale](/ləʊˈkɑːl/) [n]事情發生的現場或地點
-- locality [n]位置 = *position* = *site*, 地區 = *area* = *neighborhood*
-- locus -> loci [n]地點/所在地 = *location*, [數]軌跡
-* location [n]地點 = *locus*, [數]軌跡, 出庭權/陳述權 = *locus* standi
-- locomotion [n]運動/移動 = *motion* --> locomotive [n]火車頭 [adj]運動的/移動的
+- **[locale](/ləʊˈkɑːl/)** [n]事情發生的現場或地點
+- **locality** [n]位置 = *position* = *site*, 地區 = *area* = *neighborhood*
+- **locus -> loci** [n]地點/所在地 = *location*, [數]軌跡
+* location [n]地點 = *locus*, [數]軌跡, **出庭權/陳述權** = **locus standi**
+- locomotion [n]運動/移動 = *motion* 
+- locomotive [n]火車頭 [adj]運動的/移動的
 - locavore [n]本土膳食主義者(堅持只吃當地所種植和生產的食品的人)
 
 ## lustr, luster 光澤 = *polish*
@@ -4241,52 +4264,58 @@
 - illustrative [adj]說明的/作例證的, 插畫的
 + illustrious [adj]輝煌的/顯赫的 <|> illustrate
 + lackluster [adj]無生氣的/無趣的 = *uninspired* = *dull* = *insipid*, 無光澤的 = *dull*
-+ luster [n]光澤 = *gloss* = *sheen*, 榮耀/榮光 [v]使有光澤 --> lustrous [adj]有光澤的 = *shining*
++ luster [n]光澤 = *gloss* = *sheen*, 榮耀/榮光 [v]使有光澤 
++ lustrous [adj]有光澤的 = *shining*
 
 ## lect, lig, lit
 1. 講 = *speak*
 	* dialect [n]方言 = *tongue* = *patois* = *idiom* = *vernacular* = *lingo*
-	- dialectic [mn]辯證法, 辯證 [adj]辯證的 = *dialectical*
-	* dialectical [adj]辯證的, 相反的
+	- **dialectic** [mn]辯證法, 辯證 [adj]辯證的 = *dialectical*
+	* **dialectical** [adj]辯證的, 相反的
 	- lecture [n/v]講課, 訓斥/斥責
 
 2. 選 = *pick*, choose
 	- collective [adj]聚集而成的, 共同的/集體的, 合計的 = *aggregate* [n]集體企業/集體農場
 	- eligible [adj]有資格的 = *qualified* = *suitable*, **(婚姻)合意的**
-	- elect [v]推選, 選擇/決定 = *opt* for = *choose* [adj]當選的 --> election [n]選舉
-	- elective [adj]選舉的/選舉產生的, 有選舉權利的(職位), [醫]選擇性的, 選修的 [n]選修課程
+	- elect [v]推選, 選擇/決定 = *opt* for = *choose* [adj]當選的 
+	- election [n]選舉
+	- elective [adj]選舉的/選舉產生的, 有選舉權利的(職位), [醫]選擇性的, 選修的 **[n]選修課程**
 	- electoral [adj]選舉的/選舉人的
-	- electorate [n]全體選民
+	- **electorate** [n]全體選民
 	- elite [n]精華, 精英 
 	- elitist [adj]傑出人物統治論的, 菁英的 [n]傑出人物統治論者
-	+ eclectic [adj]綜合性的/相容並蓄的/包括不同來源的 --> eclecticism [n]折衷主義
-	+ [intellect](/ˈɪntəlɛkt/) [n](潛能)智力, 非凡的才智, 才華出眾的人 --> intellectual [adj]智力的, 理智的/聰明的 [n]知識份子
-	- [intelligent](/ɪnˈtɛlɪdʒ(ə)nt/) [adj]聰明的 --> intelligence [n](經驗)智慧, 情報/情報人員
-	+ intelligible [adj]清晰的/明瞭的 = *comprehensible* 
-	- intelligentsia [n]知識分子
+	+ eclectic [adj]綜合性的/相容並蓄的/包括不同來源的 
+	+ eclecticism [n]折衷主義
+	+ [intellect](/ˈɪntəlɛkt/) [n]智力, 非凡的才智, 才華出眾的人 
+	+ intellectual [adj]智力的, 理智的/聰明的 **[n]知識份子**
+	- [intelligent](/ɪnˈtɛlɪdʒ(ə)nt/) [adj]聰明的
+	- intelligence [n]智慧(經驗), **情報/情報人員**
+	+ **intelligible** [adj]清晰的/明瞭的 = *comprehensible* 
+	- **intelligentsia** [n]知識分子
 	+ predilection [n]嗜好/偏愛 <-- pre + dilect 選擇 = *select* + ion
 	- selectivity [mn]選擇性
 
 ## lig 綁
-* ligate [v][手術]綁/捆/紮
-+ obligate [v]使負義務 [adj][生]專門的 --> obligatory [adj]有義務的/必須的/強制性的 = *mandatory* = *compulsory*
+* **ligate** [v][手術]綁/捆/紮
++ obligate [v]使負義務 [adj]**[生]專門的** 
++ obligatory [adj]有義務的/必須的/強制性的 = *mandatory* = *compulsory*
 * obligation [n]義務/責任, 恩惠/人情, 合約/契約
 + [oblige](/əˈblʌɪdʒ/) [v]使負有義務, 答應...的請求, 使感激 <|> obligate
-+ obliging [adj]樂於助人的/熱心相助的 = *accommodating* = *helpful* 
++ **obliging** [adj]樂於助人的/熱心相助的 = *accommodating* = *helpful* 
 
 ## limin, lime 門檻 = *threshold*
-- liminal [adj]閾限的/兩者之間的, 同屬兩處的
+- **liminal** [adj]閾限的/兩者之間的, 同屬兩處的
 - illimitable [adj]無限的/無邊際的/無窮的
-+ eliminate [v]消滅/消除 = *remove* = *get* rid of, 排除 = *exclude*, 謀殺 = *murder*, 從身體排出(廢棄物) = *expel*
++ eliminate [v]消滅/消除 = *remove*, 排除 = *exclude*, 謀殺 = *murder*, 從身體排出(廢棄物) = *expel*
 + elimination [n]消滅, 淘汰/排除
 * preliminary [adj]初步的 [n]開端, 初試
-+ sublime [adj]崇高的/極好的/極美的 = *gorgeous*, 極大的/極強的 = *extreme* [v](固體)昇華(氣體)
-+ sublimate [v]使昇華, 使高尚化/使理想化 [n]昇華物
-- subliminal [adj]潛意識的/下意識的
++ sublime [adj]崇高的/極好的/極美的 = *gorgeous*, 極大的/極強的 = *extreme* [v]昇華(氣體)
++ **sublimate** [v]使昇華, 使高尚化/使理想化 [n]昇華物
+- **subliminal** [adj]潛意識的/下意識的
 
 ## lign 木頭 = *line*
 + align [v]使成一條直線, 放..在正確的位置, [with]支持 = *support*, 結盟 = *ally* = *affiliate* = *join*
-- ligneous [adj]木質的/木頭的 = *woody*
+- **ligneous** [adj]木質的/木頭的 = *woody*
 - lignify [v]木質化
 
 ## {let}, {ling} 小東西
@@ -4299,9 +4328,9 @@
 - leaflet [n]傳單 = *handbill*, 小葉/嫩葉 [v]發傳單
 - pamphlet [n]小冊子 = *booklet* = *brochure*
 - droplet [n]小水滴
-- epaulet [n]肩章/肩飾 <-- epau 肩膀 = *shoulder*
+- **epaulet** [n]肩章/肩飾 <-- epau 肩膀 = *shoulder*
 - goblet [n]高腳杯
-- ringlet [n]捲髮
+- **ringlet** [n]捲髮
 - rivulet [n]小溪/小河
 - triplet [n]三胞胎之一, 三個一組, 三連音符
 
@@ -4318,14 +4347,14 @@
 ## log 比例 = *ratio*
 - [analogy](/əˈnalədʒi/) [n]類比/比較, 相似/類似 <|> [knowledge](/ˈnɒlɪdʒ/)
 - analogue [n]類似物/類似的情況
-+ [analogous](/əˈnaləɡəs/) (adh)類似的/相當的 = *comparable*
++ [analogous](/əˈnaləɡəs/) [adj]類似的/相當的 = *comparable*
 
 ## log, locu, loqu 話/說話 = *word*, saying, speech, speak
 - apologize [v]道歉 --> apology [n]
 - apologist [n]辯護者
 - circumlocution
-- colloquial [adj]口語的/通俗的 = *demotic*
-- colloquium -> colloquia/colloquiums [n]學術討論會 = *seminar*
+- **colloquial** [adj]口語的/通俗的 = *demotic*
+- **colloquium** -> colloquia/colloquiums [n]學術討論會 = *seminar*
 - logorrhea [n]多語症
 + [loquacious](/ləˈkweɪʃəs/) [adj]多話的/健談的 = *talkative* = *chattering* = *ballbing*
 - [locution](/ləˈkjuːʃən/) [n]用句 = *word* = *pharse*, 說話方式
@@ -4342,6 +4371,7 @@
 - monolog, monologue [n]獨白 = *soliloquy*, 個人長篇演說
 + neologism
 - obloquy [n]破口大罵, 公開的嚴厲批評
+- **ontological** [adj]本體論的/實體論的
 - **[phrenology](/frɪˈnɒlədʒi/)** [n]骨相學
 - prologue [n]序言/序章 = *preamble* = *preface*
 - pulmonologist [n]肺科醫師
@@ -4538,7 +4568,8 @@
 - emissary [n]特使/密使 = *legate*
 - emit [v]放射/發出 = *evolve* = *expel* = *discharge* = *utter*, 發出聲音 
 - emission [n]放射/發出, 射精 = *ejaculation*
-- intermit [v]使暫停/使中斷 = *suspend* = *discontinue* --> intermission [n]暫停/間歇 = *pause* = *break*, 中場 = *interlude*
+- **intermit** [v]使暫停/使中斷 = *suspend* = *discontinue* 
+- intermission [n]暫停/間歇 = *pause* = *break*, 中場 = *interlude*
 + intermittent [adj]斷斷續續的/週期的/間歇的 = *sporadic* = *periodic*
 - manumit
 + missive [n]公文/書信 = *letter*
@@ -5632,7 +5663,7 @@
 - imposition [n]徵收/實施, 徵收物, 稅/責任 = *tax* = *duty*
 - imposing [adj]壯觀的/宏偉的 = *grand*
 - impostor, imposter [n]騙徒/冒充者 --> imposture [n]冒充
-- interpose [v]置於...之間 =chivalrous interpolate, 插嘴 = *interject*, 介入/干預 = *interfere*, 行使(否決權)
+- **interpose** [v]置於...之間 = interpolate, 插嘴 = *interject*, 介入/干預 = *interfere*, 行使(否決權)
 + [juxtapose](/ˌdʒʌkstəˈpəʊz/) [v]並排/並置(做比較) <-- juxta 在附近 = *side* by side + pose
 + juxtaposition [n]並置/並列 
 + opponent [n]敵手/對手, 反對者
@@ -5844,6 +5875,7 @@
 	- [paroxysm](/ˈparəksɪz(ə)m/) [n]感情爆發, 疾病的突然復發 = *relapse* <-- par + oxy 尖銳/敏銳 = *sharp*, acute + sm
 
 4. 不正常的 = *abnormal*, irregular
+	- paraplegic [adj]半身麻痺的 [n]半身麻痺患者
 	- [paranoia](/ˌparəˈnɔɪə/) [n]偏執狂/多疑症 <-- para + no(os) 精神 = *mind* + ia
 	- paranoid [adj]偏執狂的/過度懷疑的
 	- paranormal [adj]超自然的/超常的 = *preternatural*
@@ -6453,6 +6485,9 @@
 - quest [v]搜尋/探求 = *search* for = *seek* out [n]尋找/探索 = *pursuit*
 - questionnaire [n]問卷/調查表
 
+## quint 五 = *five*
+- quintet [n]五重奏
+
 # R
 ## re, r, red
 1. 再次/重新/加強 = *again*
@@ -6652,7 +6687,7 @@
 	- regress --> regressive
 	* relate
 	+ relegate
-	* relent [v]發慈悲/憐憫, 減弱 --> relenting [adj] <-- re + lent 彎 = *bend*
+	* **relent** [v]發慈悲/憐憫 --> relenting [adj] <-- re + lent 彎 = *bend*
 	+ relentless [adj]不間斷的, 無情的/殘酷的 = *unrelenting*
 	+ relinquish
 	* remorse [n]懊悔/悔恨 = *compunction* = *contrition* = *repentance* = *penitence* = *ruth* = *rue* 
@@ -7306,6 +7341,8 @@
 - sacrifice [n]犧牲, 放棄 [v]宰牲祭神, 放棄
 - [sacrificial](/sakrəˈfɪʃəl/)  [adj]獻祭的
 + sacrilege [n]褻瀆/冒犯神靈 = *blasphemy* --> sacrilegious [adj]褻瀆神明的 <-- sacr + i + leg 偷取 = *steal* + e
+- sacrament [n]聖禮/聖典
+- sacramental [adj]聖禮的
 + sacrosanct [adj]極神聖的/不可侵犯的 = *numinous*
 * sanctify [v]使神聖化/使聖潔化 = *consecrate* = *purify*, 使可接受
 - sanctity [n]聖潔/神聖, 不可侵犯/神聖 = *inviolability*
@@ -7798,7 +7835,7 @@
 	+ extensive [adj]廣大的/廣闊的, 大規模的/大量的
 	- extract [v]使勁拔出, 設法得到, 提取/提煉 [n]摘錄, 提出物/精華/汁
 	- extractive [adj]提取的
-	- hypotenuse [n]直角三角形的斜邊
+	- **hypotenuse** [n]直角三角形的斜邊
 	+ pretend [v]假裝 = *stimulate* = *fake* = *feign*, 模仿 = *stimulate*, [to]自命/自稱 [adj][非]假裝的/假想的
 	- pretended [adj]假的/假裝的 = *assumed* = *pretend*
 	+ pretense [n]假裝 = *veil*, 炫耀, [to]自稱/自吹 <-- pretend
@@ -8529,7 +8566,8 @@
 - inconvenient
 * covenant [n]約定 = *agreement*, 合約/協定 = *compact* = *pact*, 條款, 聖約 [v]立約承諾/立書保證 <-- convene
 - convent [n]女修道院 = *nunnery*, 教會學校 <|> convene
-+ [intervene](/ɪntəˈviːn/) [v]干涉/介入, 介於中間 --> intervention [n]干涉/介入, 干預, 介入治療
++ [intervene](/ɪntəˈviːn/) [v]干涉/介入, 介於中間
++ intervention [n]干涉/介入, 干預, 介入治療
 + invent [v]捏造/編造 = *concoct* = *vamp* = *fabricate*, 發明/創造 = *create* = *design*
 * inventive [adj]有發明才能的 = *ingenious* --> inventiveness [n]創造力/創意 = *creativity*
 - inventory [n]詳細目錄/存貨清單 [v]編制(目錄), 把……登入目錄
@@ -8744,8 +8782,8 @@
 ## vex, vect, veh, veigh 搬運/道路 = *carry*, bring, way, convey
 - convect [v](空氣)對流 --> convection [n]對流 --> convective [adj]對流的
 + convex [adj]凸的/凸起的 <--> concave 
-+ inveigh [v][against]猛烈抨擊/痛駡 = *rail* = *fulminate* <|> inveigle
-+ invective [n]惡言謾罵 = *vituperation* <-- inveigh
++ **__inveigh__** [v][against]猛烈抨擊/痛駡 = *rail* = *fulminate* <|> inveigle
++ **invective** [n]惡言謾罵 = *vituperation* <-- inveigh
 - vehicle [n]交通工具, 方法/手段/媒介
 
 ## vict, vinc 征服/勝利 = *overcome*, conquer
