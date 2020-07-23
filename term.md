@@ -7,6 +7,7 @@
 - [charcuterie](/ʃɑːˈkuːt(ə)ri/) [n]熟食冷肉盤
 - salami [n]薩拉米香腸（義大利蒜味香腸）
 - Zifandel [n]金粉黛葡萄酒
+- gummi bears [n]小熊軟糖
 
 ## Religion
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
@@ -28,11 +29,16 @@ papier-mache [n]混凝紙漿
 
 ## Finance
 - security deposit [n]保證金
+- cold hard cash [n]現金
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
 - PPE [n]Personal protective equipment
 - VD [n]性病/花柳病 = Venereal Disease 
+- RSVP [n]敬請回覆
+- TBD [n]未定 = To Be Decided
+- FYI [n]僅供參考 = For Your Information
+- aka [n]又名 = as known as
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)

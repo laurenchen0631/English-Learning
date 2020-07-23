@@ -61,6 +61,17 @@
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
 - when all is said and done [adv]說到底/終究
 - How are you bearing up? [phrase]過得如何
+- pop someone's cherry [v]失去第一次/奪走人家第一次
+- good call [n]好主意
+- cash cow [n]搖錢樹
+- make ends meet [v]收支平衡
+- pick up the tab [v]付帳
+- foot the bill [v]付帳
+- seal the deal [v]達成協議
+- Play hardball (with sb) [v]採取強硬方式
+- a roof over your head [n]住處/棲身之處
+- don't dip your pen in the company ink [v]兔子不吃窩邊草(不要跟同事有性關係)
+- to what end [adv]為什麼 = What is the purpose of
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -112,6 +123,17 @@
 - end up [v]最後成爲/以…告終
 - get caught up in [v]被捲入 = be involved in
 - throw up [v]嘔吐
+- drop off [v]下車, 入睡, 減少/下降
+- touch down [v]著陸/降落
+- stop off somewhere [v]中途拜訪/中途停留
+- jump in [v]打斷/插嘴
+- act out [v]實踐/實行, 發洩, 把...表演出來
+- tick off sb [v]使生氣
+- ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
+- wind sb up [v]使生氣
+- put up with [v]忍受
+- root for [v]為..助威/聲援/為...加油
+- start over [v]重新開始
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
