@@ -26,6 +26,7 @@ papier-mache [n]混凝紙漿
 ## Product
 - night cream [n]晚霜
 - monkey wrench [n]活動板手
+- claw hammer [n]爪鎚/拔釘鎚
 
 ## Finance
 - security deposit [n]保證金

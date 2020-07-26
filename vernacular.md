@@ -1,7 +1,4 @@
-## Tool
-- claw hammer [n]爪鎚/拔釘鎚
-
-## pejorative
+## Pejorative
 - whack job [n]怪人/腦子有問題的人
 - red tape [n]繁文縟節
 - crapweasel [n]人渣
@@ -15,7 +12,7 @@
 - shut the stable door after the horse has bolted [v]亡羊補牢
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - within an inch of one's life [adv]差點喪命
-- out of (one's) hair [adv]No longer pestering or annoying to one; not one's responsibility or burden any longer.
+- out of (one's) hair [adv]不再是..的負擔或責任
 - breathe down someone's neck [v]緊跟(某人)
 - crash on someone [v]愛上
 - high and dry [v]給..帶來麻煩/使..陷入困境
@@ -25,7 +22,7 @@
 - by the book [v]嚴格按照規矩辦事
 - get your feet wet [v]熟悉新情況
 - take sth with grain of salt [v]對…半信半疑/對…有所懷疑
-- on your high horse [dav]自以為是，自命不凡
+- on your high horse [adv]自以為是/自命不凡
 - last-ditch [v]最後一招/孤注一擲
 - be like fish out of water [v]如魚離水
 - for all intents and purposes [adv]實際上 = in effect
@@ -72,11 +69,18 @@
 - a roof over your head [n]住處/棲身之處
 - don't dip your pen in the company ink [v]兔子不吃窩邊草(不要跟同事有性關係)
 - to what end [adv]為什麼 = What is the purpose of
+- **that/it figures** [phrase]意料之中
+- nail it [v]搞定
+- **you bet** [phrase]當然 = certainly
+- be angling for sth [v]拐彎抹角地求取
+- get up on wrong side of the bed [v]有起床氣/心情不好
+- run on fumes [v]疲憊不堪
+- get caught up in [v]被捲入 = be involved in
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
 - hold up [v]持槍搶劫, 延誤, 支持
-- put off [v]拖延
+- put off [v]拖延		
 - pick on [v]刁難
 - wrap it up [v]住口
 - fool around [v]鬼混
@@ -121,19 +125,28 @@
 - clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
 - slip up [v]出錯/疏忽
 - end up [v]最後成爲/以…告終
-- get caught up in [v]被捲入 = be involved in
 - throw up [v]嘔吐
 - drop off [v]下車, 入睡, 減少/下降
 - touch down [v]著陸/降落
 - stop off somewhere [v]中途拜訪/中途停留
 - jump in [v]打斷/插嘴
 - act out [v]實踐/實行, 發洩, 把...表演出來
-- tick off sb [v]使生氣
+- **tick off sb** [v]使生氣
 - ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
 - wind sb up [v]使生氣
 - put up with [v]忍受
 - root for [v]為..助威/聲援/為...加油
 - start over [v]重新開始
+- pig out [v]狼吞虎嚥
+- polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
+- knock back [v]一下子喝下(尤指很多酒)
+- whip sth up [v]煽動/激起, 迅速做(飯)
+- rustle sth up [v]很快製作/湊合做成一頓飯
+- dig in [v]開始吃
+- cut back (on sth) [v]減少/削減/縮減
+- turn up [v] (情況)突然好轉, 突然出現
+- tap into [v]使用…以獲得好結果
+- hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
