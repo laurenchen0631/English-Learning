@@ -76,6 +76,7 @@
 - get up on wrong side of the bed [v]有起床氣/心情不好
 - run on fumes [v]疲憊不堪
 - get caught up in [v]被捲入 = be involved in
+- get a word in edgeways [v]插嘴
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
