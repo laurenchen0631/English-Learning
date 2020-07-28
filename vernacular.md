@@ -8,13 +8,18 @@
 - now and again [adv]有時
 - later on [adv]後來
 
+## Adverb
+- with all due respect [adv]恕我直言
+- so to speak [adv]可以說
+- for all intents and purposes [adv]實際上 = in effect
+- might as well [adv] (反正也沒有更好的辦法)要不就…
+
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - within an inch of one's life [adv]差點喪命
 - out of (one's) hair [adv]不再是..的負擔或責任
 - breathe down someone's neck [v]緊跟(某人)
-- crash on someone [v]愛上
 - high and dry [v]給..帶來麻煩/使..陷入困境
 - bed of roses [n]稱心如意的處境
 - credit where credit's due [v]該讚揚的就讚揚
@@ -25,8 +30,6 @@
 - on your high horse [adv]自以為是/自命不凡
 - last-ditch [v]最後一招/孤注一擲
 - be like fish out of water [v]如魚離水
-- for all intents and purposes [adv]實際上 = in effect
-- might as well [v] (反正也沒有更好的辦法)要不就…
 - save face [v]保全顏面
 - woe is me [excl]苦啊/慘哪
 - get down to brass tacks [v]回到正題
@@ -42,7 +45,7 @@
 - rain on one's parade [v]潑冷水/掃興
 - give sb the runaround [v]搪塞/打發（某人）
 - a slap in the face [n]一巴掌/一記耳光
-- I snapped [phra]忍不住 == People say "I snapped" after they released their anger. For example, if someone yells at you because they are mad, afterwards they will say "I snapped"
+- I snapped [phrase]忍不住 == People say "I snapped" after they released their anger. For example, if someone yells at you because they are mad, afterwards they will say "I snapped"
 - grasp/clutch at straws [v]抓救命稻草/不放過任何微小的機會
 - sleep on it [v]好好考慮
 - It ain't over till the fat lady sings [v]事情還沒結束，等著瞧
@@ -77,6 +80,18 @@
 - run on fumes [v]疲憊不堪
 - get caught up in [v]被捲入 = be involved in
 - get a word in edgeways [v]插嘴
+- let one's hair down [v]放開/放輕鬆
+- jack of all trades [n]萬事通/博而不精的人
+- my two cents [n]我個人的小意見
+- front and center [adj]最重要的/最主要的
+- bits and pieces [n]七零八碎/零碎的工作
+- have an axe to grind [v]想爭個對錯, 別有用心/圖謀私利
+- across the board [adj]影響到各個領域和階層的/全面的
+- risk life and limb [v]冒著生命危險
+- larger than life [adj]不同凡響的
+- live and let live [v]互相包容
+- life in the fast lane [n]充滿刺激的生活
+- live wire [n]機靈鬼/精力充沛的人
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -148,7 +163,10 @@
 - turn up [v] (情況)突然好轉, 突然出現
 - tap into [v]使用…以獲得好結果
 - hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
+- crash on someone [v]愛上
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
 - one-night stand [n]一夜情, 僅演一次的演出
+- soaking wet [adj]濕透
+- weak link [n]薄弱的環節

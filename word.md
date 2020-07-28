@@ -133,6 +133,7 @@
 - airy [adj]通風的, 輕而薄的/優美的 = *delicate*, **優雅的**, **輕浮的**
 - airborne [adj]空氣傳播的, 空運的
 - airtight [adj]密閉的 = *sealed* = *hermetic*, 無懈可擊的 = *unassailable*
+- **[aisle](/ʌɪl/)** [n]通道/走道, 教堂的側廊
 - alabaster [mn]雪花石膏 [adj]雪花石膏製的, 雪白潤滑的
 - alarmist [n]危言聳聽者 [adj]危言聳聽的/製造恐慌的
 - albumen [n]蛋白 <--> yolk
@@ -830,6 +831,7 @@
 * clingy [adj]黏著的/緊貼的, 依賴的
 * **classic** [adj]經典的, 典型的 [n]經典
 * **classical** [adj]古典的/古希臘的, 古希臘式的, 標準的, 經典的/古典的
+* **classy** [adj]別緻的/時髦的 = **snazzy**
 * cleave -> cleaved/cleft/clove -> cleaved/cleft/cloven [v]劈開 = *split* = *sever*, 使(原子)分離, 細胞分裂, 穿過／鑽進, [to]黏著/黏住, [to]堅信/忠於
 * cleavage [n]裂縫/分裂, 細胞分裂, 乳溝
 * cleft [adj]劈開的 [n]裂縫(岩石或地面) = *crack* = *crevice* = *breach*
@@ -1254,6 +1256,7 @@
 - dash [v]急奔, 猛撞, 撞上, **使破滅/使沮喪**, **使失去自信** [n]急衝/奔跑, 匆忙的短程旅行, 短跑, 少量(混合液體), 少量, 破折號, (摩斯電碼)劃/長劃, 破折符, 銳氣/神氣, 儀表板
 - **dawdle** [v]磨蹭/拖時間 = *loiter* = **dally**, 遊蕩
 - dazzle [v]使目眩/使眼花, 使驚羨/使讚歎 = *amaze* [n]耀眼/炫目的光
+- dazzling [adj]眼花繚亂的
 - deaden [v]減輕/削弱(聲音或感覺) = *lessen*, 剝奪(感官) = *deprive* of, 使無用 = *stultify*, 使無感 <-- dead + en
 - deadpan [adj]無表情的/不動聲色的 [adv]面無表情地
 - dealbreaker [n]破局
@@ -1801,6 +1804,7 @@
 - **flit** [v]閃過/掠過 [n]偷偷地搬家
 - floodgate [n]水閘門, 制約
 - floor [n]地板/地面, 底, 層 = *storey*, 議員席, 發言權 [v]在……鋪設地板, 把……打倒在地, 使困惑 = *baffle*
+- **flophouse** [n]廉價旅館
 - **flotsam** [mn]漂浮殘骸/漂浮貨物, 零碎雜物
 - **__flounce__** [n/v]急動/大步走動 [n]荷葉邊 = *frill*
 - **flue** [n]煙道 <|> flu
@@ -3540,6 +3544,7 @@
 + polemical [adj]辯論的 <-- polem 戰爭 = *war* + ic 
 + polish [v]擦亮/拋光 = *burnish*, 使精鍊/潤飾 [n]拋光, 拋光劑, 光澤 = *gloss*, 洗鍊/優雅 = *refinement* = *elegance*
 + polished [adj]有光澤的 = *glossy* = *smooth*, 精良的/熟練的, 優美的, (米)去殼的
+- **posh** [adj]雅致的/時髦的 = **classy**
 + **politic** [adj]精明的/有策略的 = *tactful* [v]進行競選活動 <-- polity
 - **political** [adj]政治的, 政黨的
 + **Pollyanna** [n]極度樂觀之人/樂天派
@@ -4704,6 +4709,7 @@
 - sickle [n]鐮刀
 - sidearm [n]配槍/配劍
 - sidekick [n]死黨/好友
+- side-street [n]小街/後街 <|> aisle <|>
 - sideways [adj/adv]向/從旁邊, 間接, 非傳統的
 - sideline [n]副職/副業, 界線, 局外人 [v]使…退出比賽, 使不再發揮重要作用
 - sideshow [n]雜耍/穿插表演, 插曲
@@ -4797,6 +4803,7 @@
 - smoky [adj]煙霧彌漫的, 冒煙的, 菸灰色的, 煙燻味的
 - smolder [v]悶燒, 怒火中燒, 暗中持續存在 [n]悶燒
 - snag [n]意料不到的障礙/潛在的缺點, 尖銳的凸出物, 衣物的鈎破處, 枯木 = *dead* tree [v]鈎破/掛破, [非]攫取/抓到 = *obtain* = *catch*
+- snazzy [adj]時髦的 = *fashionable* = *stylish*
 - snare [n]陷阱/羅網, 圈套/誘惑, (鼓的)響弦 [v]用陷阱捕捉, 抓到 = *catch* = *trap*
 - snarl [n/v](動物或人)咆哮 [v][up]使…交纏 = *entangle*, [up]妨礙 = *hinder* = *impede* [n]結 = *knot* <|> gnarl
 - sneaker [n]運動鞋

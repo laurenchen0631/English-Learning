@@ -5470,7 +5470,7 @@
 - operation [n]運作, 作用, 手術, 行動/作戰, 公司 = *company*, 經營/營運, 運算
 - operative [adj]實施中的/起作用的/有效的 = *working* = *effective*, 手術的 [n]**工人**, **偵探/間諜**
 - postoperative [adj]手術後的
-- **operose** [adj]費力的/艱苦的 = *onerous* = *taxing* = *arduous* = *laborious*
+- **operose** [adj]費力的/艱苦的 = *onerous* = *taxing* = *arduous* = *laborious*ㄍ
 - **opus** -> opuses/opera [n]著作/編號的音樂作品, 作品/傑作
 - opera [n]歌劇, 歌劇院
 * **operatic** [adj]歌劇的, 戲劇性的 = *histrionic*
@@ -6943,6 +6943,7 @@
 + rapturous [adj]欣喜若狂的/狂喜的
 - **ravine** [v]溝壑/深谷
 - ravish [v]使陶醉/使狂喜 = *enrapture*, 強姦 = *rapes*
+- **__ravishing__** [adj]引人入勝的 = *arresting*
 * rave [n/v]胡言亂語, 狂罵/咆哮 = *rant*, 狂熱讚揚/極力誇獎, 參加狂歡聚會 [n]狂熱讚揚/極力誇獎, 狂歡聚會/銳舞舞會
 * ravage [v]嚴重傷害 --> ravages [n]蹂躪, 破壞
 + raven [v]狼吞虎嚥地吃 = *devour* [n]渡鴉 [adj]烏亮的/墨黑的
