@@ -1,4 +1,4 @@
-## Pejorative
+## Pejorative 
 - whack job [n]怪人/腦子有問題的人
 - red tape [n]繁文縟節
 - crapweasel [n]人渣
@@ -92,6 +92,14 @@
 - live and let live [v]互相包容
 - life in the fast lane [n]充滿刺激的生活
 - live wire [n]機靈鬼/精力充沛的人
+- all hands on deck [phrase]全體總動員
+- burn the candle at both ends [phrase]勞累過度
+- call it a day [v]到此為止/收工
+- the big cheese [n]重要或權威的人
+- get the sack [v]被開除
+- bring home the bacon [v]養家糊口
+- The pot calling the kettle black [phrase]五十步笑百步/半斤八兩
+- make one's toes curl [v]讓人尷尬/使人為難, 使受驚嚇
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -170,3 +178,5 @@
 - one-night stand [n]一夜情, 僅演一次的演出
 - soaking wet [adj]濕透
 - weak link [n]薄弱的環節
+- muffin top [n]肚腩肉
+- chick flick [n]文藝愛情片(主要吸引女性觀眾的愛情電影)

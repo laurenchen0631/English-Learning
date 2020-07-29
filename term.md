@@ -47,3 +47,5 @@ papier-mache [n]混凝紙漿
 - Tater Tots [n]炸薯球，是將馬鈴薯用擦床擦碎以後油炸製成。實際上是亨氏集團下屬Ore-Ida公司的註冊商標，但一般也用於指非其生產的其他類似食品
 - Frisbee [n]飛盤
 - Fresca [n]grapefruit-flavored citrus soft drink created by The Coca-Cola Companyz
+- Trident [n]一種薄荷糖的品牌
+- Tic Tac [n]一種薄荷糖的品牌
