@@ -82,6 +82,7 @@
 	+ annihilate
 	- announce
 	+ annul
+	- apart [adv]相隔地, 分離地, 分開地, 與眾不同地, 散開地
 	+ appeal --> *appellant* --> *appellation*
 	+ appease
 	+ [appurtenant](/əˈpəːt(ɪ)nənt/) [adj]附屬的/從屬的 = *belonging* = *pertinent* <-- ap + pertinent
@@ -111,6 +112,7 @@
 	+ attest
 	+ attenuate
 	- atop [adv/prep]在..之上
+	- amid [prep]在...中 = *surrounded by* = *in the middle of*
 	+ attune --> attuned
 	+ attribute --> attribution --> attributable
 	+ auspices --> *auspicious*
@@ -994,6 +996,7 @@
 + coincidental [adj]巧合的 = *ironic*, 同時的
 + **conceive** [v]懷孕/受孕 = *gestate*, 想像/想出/構想 = *imagine* = *invent* = *form* = *gestate*
 + conceivable [adj]可想像的/可想到的 = *imaginable*
++ conceivab [adv]可以想像地
 * concept [n]概念/觀念/想法 = *idea* 
 * conception [n]概念/見解 = *idea* = *perception*, 計畫/意圖 = *plan* = *intention*
 * **conceit** [n]自負/自大, **巧妙的比喻/別出心裁的比喻**, 藝術效果
@@ -1068,6 +1071,7 @@
 + concise [adj]簡潔的/簡明的 = *laconic* = *succinct* = *terse* = *brief* = *compendious* = *compact*
 + concision [n]簡潔
 - decide [v]決定, 解決 <|> deicide
+- decidedly [adv]無疑地 = *undoubtedly* = *undeniably*
 + [decisive](/dɪˈsʌɪsɪv/) [adj]果決的, 決定性的/確定的
 + indecisive
 - **[excise](/ˈɛksʌɪz/)** [n]貨物稅/國內消費稅/執照稅 [v]徵收, (手術)切除, 刪除(章節)
@@ -3929,6 +3933,7 @@
 	+ invigorating [adj]令人有精神的 <-- in + vigor + ate
 	- invoke
 	+ involved
+	- inwardly [adv]在內心裡
 	- **irradiate** [v]使受放射線照射, 照耀/照亮 = *illuminate*
 	- irrigate [v]灌溉, 沖洗傷口 --> irrigation [n] <-- ir + rig 水 = *water* + ate
 
@@ -4068,7 +4073,7 @@
 + **objection** [n]厭惡/反對
 + **objectionable** [adj]令人反感的/使人不快的
 + objective [adj]客觀的/公正的 = *impersonal* = *unbiased* = *impartial*, 受格的 [n]目標 = *aim*, 物鏡 
-- objectively [adv]客觀地, **實際的** = *actually*
+- objectively [adv]客觀地, **實際地** = *actually*
 + **objectivity** [n]客觀
 + objectify [v]使客觀化, 使具體化 = *concrete*
 * project [n]方案/計畫/企劃, 專案/學生研究, 公營住宅 **[v]估計/預測**, 計畫, 突出, 投擲/噴出, 放映/投射, 投射(情感), 使..被遠處被聽到
@@ -4120,6 +4125,7 @@
 + disjointed [adj]支離破碎的/無條理的
 - disjunction [n]分離/歧異 
 - **__disjunctive__** [adj]分離的, 轉折的/反義的
+- jointly [adv]**共同地** = together
 - **junction** [n]樞紐/交會點/交叉路口
 + [junta](/ˈdʒʌntə/) [n]軍人集團/軍政府/私黨
 - **juncture** [n]關鍵時刻/轉折 = *moment*, 交會點/連接點, 音渡/連音 <|> fracture
@@ -4567,6 +4573,7 @@
 
 ## miss, mit, mise 送/放出 = *send*, give over
 - admit [v]承認(錯誤) = *concede*, 允許(進入) = *permit*, 接納, 接收…入院 
+- admittedly [adv]公認地
 - admission [n]許可, 承認, **入場費/門票費**
 + commit [v]犯, 使承擔義務/使表態, [be committed to]專注於, (資源)留用, [oneself to]獻身, 與...有長期感情關, [to]把..交託給, 押交, 送審
 + committed [adj]承諾過的/允諾過的, **忠誠的/堅定的**
@@ -5284,6 +5291,7 @@
 + outrage [n]暴行/惡行, 義憤/憤慨 [v]使憤慨/激怒, 違反
 + outrageous [adj]極不道德的/無法無天的 = *woeful* = *bad* = *excessive*, 過度誇張的 = *exaggerated* = *improbable*, 令人吃驚的 = *shocking*
 - **outreach** [n]擴大(醫療或其他)服務範圍 [v]擴展 <|> **overreach**
+- **outright** [adv]完完全全地, 直接地/公然地 = *directly* = *openly*, 立即地 = *immediately* = *instantly* [adj]**總的** = *total* = *gross*, 毫無疑問的 = *undisputed*, 直接的/公然的
 - outsell [v]賣得比……多
 - outset [n]開始/開頭 = *start* = *beginnning* <|> onset
 - outshine [v]比..更亮, 比...更好
@@ -5544,6 +5552,7 @@
 - predisposition 
 - predominate [v]佔優勢, 佔主導或支配地位 = *dominate*
 - predominant [adj]主要的/佔優勢的, 佔支配地位的
+- predominantly [adv]絕大多數/顯著 = *mostly* = *mainly*
 - **preemie** [n]早產嬰兒
 + preeminent
 + preempt --> preemptive
@@ -5756,6 +5765,7 @@
 + repose [n]休息/睡眠 = *recess* = *respite*, 安詳/安靜/靜止 = *peacefulness* = *tranquility*, [藝術]恬靜感/和諧 [v]被安放/座落, 躺著休息/安睡, [in]寄託於
 - superimpose [v]加在上面/把……放置在上面重疊
 + suppose [v]猜想/以為, 讓/建議, 假定, 以……為前提 = *presuppose* = *premise*, [be supposed to]應該/必須
++ supposedly [adv]據推測/大概/恐怕
 + [supposition](/ˌsʌpəˈzɪʃ(ə)n/) [n]假定/推測 = *assumption* = *hypothesis*
 - transpose [v]變換位置/調換, 移動位置, [音]變調, [數]移項, 翻譯
 
@@ -7276,7 +7286,8 @@
 + [perspicacious](/ˌpəːspɪˈkeɪʃəs/) [adj]有洞察力的 --> perspicacity [n]洞察力
 + perspicuous [adj]清晰明白的 = *lucid* --> perspicuity [n]明晰/簡明
 + respect [n/v]敬重/尊敬, 注重/重視 = *regard* [v]遵守/顧及 [n]敬意/問候 = *greeting*, 方面/點 = *aspect* = *point*
-+ respective [adj]個別的 --> respectively [adv]分別地/各自地
++ respective [adj]個別的 
++ respectively [adv]分別地/各自地
 + respectable [adj]值得尊敬的, 體面的/文雅的, 相當的/可觀的
 + respite [n]暫時的休息/喘息, (懲罰)緩期執行 [v]緩期執行 = *postpone*
 - specialize [v][in]專攻/專門從事 <-- special
@@ -7971,6 +7982,7 @@
 + intense [adj]強烈的/劇烈的 = *extreme*, 集中的/密集的(活動) = *concentrated*, 熱情的/熱切的 --> intensify [v]加劇
 - intend [v]想要/打算 = *plan*, [be intended for/to]作為/為了
 + intent [adj][on/upon]堅決要做的, 專注的, 熱切的(臉色) [n]目的/意向 = *intention* = *purpose*
+- **intently** [adv]熱切地/熱心地
 - intention [n]意圖/意向/目的 = *aim* = *plan*, 癒合, 意思/含義
 - intentional [adj]存心的/故意的 = *deliberate* <-- intend
 * ostentation [n]炫耀/虛飾/賣弄
@@ -8270,6 +8282,7 @@
 - unbuttoned [adj]鈕扣解開的, [非]放鬆的/無拘束的
 + uncanny [adj]奇怪的/神秘的 = *strange* = *mysterious*
 - uncharacteristic [adj]不典型的
+- uncharacteristically [adv]不典型地/非同尋常地
 - uncommitted [adj]未表態的 = *noncommittal*, 不受約束的/自由的(資源)
 + uncommunicative [adj]不愛說話的/沉默寡言的 = *taciturn* = *reticent* <|> excommunicate
 - uncompromising [adj]不妥協的/不讓步的, 嚴厲的 = *harsh*
@@ -8461,6 +8474,7 @@
 - untended [adj]被忽略了的
 - underuse [n/v]未充分利用
 - underutilize [v]未充分利用 = *underuse*
+- underway [adv]進行中, 在航行地
 - underwhelmed [adj]未給人留下深刻印象的
 + underwrite [v]簽署/簽名同意支付/同意, 爲…承擔保險責任/爲…承保 = *guarantee*, 爲…提供財力支援並承擔經濟責任
 
@@ -8472,6 +8486,7 @@
 - upbringing [n]撫育
 - update [v]使……合乎時代, 為……提供最新信息 [n]更新
 - upend [v]倒置/顛倒
+- upfront [adv]在前面, 事前 [adj]勇敢的/正直的, (支付)事前的, 最顯著的/前面的
 - upgrade [v]使升級/提升, 提拔 [n]升級
 + upheave [v]使隆起 = *heave* = *lift* up --> upheaval [n]動盪/劇變, 地殼隆起
 - uphill [adv]往上坡/往山上 [adj]向上的/上坡的, 艱難的/費力的 [n]上坡
@@ -8500,7 +8515,7 @@
 - unisex [adj]不分男女的/男女皆宜的 [n]男女皆宜的造型
 + universal [adj]全體的/普遍的, 通用的, 宇宙的/全世界的 [n]全稱命題, 一般概念, 普遍現象, 通用文法規則
 + universality [mn]普遍性, 普適性
-+ universally [adv]人人
++ **universally** [adv]人人
 - varsity [n][英]大學, 大學代表隊 <-- university
 - unison [n]和諧/一致, [音]同度/同音 [adj]和諧的
 - univocal [adj]意思明確的 = *unambiguous*
@@ -8731,7 +8746,7 @@
 ## virt 人 = *man*
 + virtue [mn]美德/高尚品德 [n]優點/好處 --> by virtue of [adv]因為/由於 = *beacuse* of
 - virtual [adj]實質上的/實際上的, 虛擬的
-+ virtually [adv]幾乎/差不多 = *nearly* = *almost*, 虛擬實境地
++ **virtually** [adv]幾乎/差不多 = *nearly* = *almost*, 虛擬實境地
 - [virtuous](/ˈvəːtʃʊəs/) [adj]有道德的/品德高尚的
 + [virtuoso](/ˌvəːtʃʊˈəʊzəʊ/) [n]藝術大師/音樂名手, 藝術愛好者/古董收藏家 --> virtuosity [mn](藝術或音樂的)精湛技藝
 - virtuosic [adj](藝術或音樂的)技藝精湛的

@@ -27,6 +27,7 @@ papier-mache [n]混凝紙漿
 - night cream [n]晚霜
 - monkey wrench [n]活動板手
 - claw hammer [n]爪鎚/拔釘鎚
+- building block [n]積木
 
 ## Finance
 - security deposit [n]保證金
@@ -40,6 +41,7 @@ papier-mache [n]混凝紙漿
 - TBD [n]未定 = To Be Decided
 - FYI [n]僅供參考 = For Your Information
 - aka [n]又名 = as known as
+- B.S. == Bullshit
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)

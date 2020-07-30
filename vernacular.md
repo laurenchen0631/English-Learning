@@ -2,6 +2,7 @@
 - whack job [n]怪人/腦子有問題的人
 - red tape [n]繁文縟節
 - crapweasel [n]人渣
+- con artist [n]騙子/行騙者 
 
 ## Time
 - right off the bat [adv]立刻
