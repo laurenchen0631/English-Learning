@@ -6484,6 +6484,7 @@
 
 ## phyto, phyte 植物 = *plant*
 - neophyte
+- pyrophyte [n]耐火植物
 - xerophyte
 
 ## popul 人民 = *people*
@@ -7532,7 +7533,7 @@
 - [residual](/rɪˈzɪdjʊəl/) [adj]殘餘的/剩餘的 = *remnant* [n]剩餘, 重播費
 + sedate [adj]沉著的, 安靜的 [v]給…服用鎮靜劑
 + sedative [adj]鎮靜的 [n]鎮靜劑 = *hypnotic*
-+ [sedentary](/ˈsɛd(ə)ntəri/) [adj]久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的
++ **[sedentary](/ˈsɛd(ə)ntəri/)** [adj]久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的 <|> **sedimentary**
 - sediment [n]沉積物, 渣 = *dregs* [v]沉積 --> sedimentary [adj]
 + sedulous [adj]聚精會神的/勤勉的 = *diligent* = *assiduous* --> sedulity [n]勤勉/勤奮 = *diligence*
 - session [n]開會/開庭, 學期, 期間
@@ -7544,7 +7545,7 @@
 
 ## sud 汗
 + [exude](/ɪɡˈzjuːd/) [v]滲出/流出(氣味), 明顯地流露(情緒) = *radiate* = *display* = *betray*
-- [sudorific](/ˌs(j)uːdəˈrɪfɪk/) [adj]發汗的/生汗的 [n]發汗劑
+- **[sudorific](/ˌs(j)uːdəˈrɪfɪk/)** [adj]發汗的/生汗的 [n]發汗劑
 
 ## soci 同伴/社會 = *social*
 - associate [v]連結 = *connect*, [be associated with]與..有牽連, 來往/交往 [n]合夥人/夥伴/同事 = *partner* = *companion*, 準會員, 關聯 [adj]聯合的, 副的
@@ -7750,6 +7751,7 @@
 + extinguish [v]熄滅 = *quench*, 使..消滅 = *annihilate* = *destroy*, 使(人)安靜
 - extinct [adj]絕種的/不復存在的, 死的(火山) <--> extant
 + **instigate** [v]開始/引發 = *bring* about = *initiate*, [sb to V]慫恿/煽動 = *foment* = *foster*
+- instigator [n]煽動者
 + instinct [n]天性/本能, 直覺 [adj][with]充滿的(特質) --> instinctive [adj]本能的, 直覺的 = *intuitive*
 + stimulate [v]刺激(神經), 激勵/促進 = *goad* = *prod* = *urge* = *whet* <|> simulate --> stimulating [adj]另人興奮的
 - stimulant [n]興奮劑/刺激物 [adj]使人興奮的
@@ -7832,6 +7834,11 @@
 ## stetho 胸 = *chest*
 - stethoscope [n]聽診器
 - stethalgia [n]胸痛
+
+## saurs, saurus 恐龍
+- dinosaur [n]恐龍
+- Stegosaurus [n]劍龍
+- Tyrannosaurus [n]暴龍
 
 # T
 
@@ -8044,6 +8051,7 @@
 
 ## tri 三 = *three* <--> oct <--> qua
 - triangulation [n]三角測量, 三角剖分
+- triathlon [n]三項鐵人賽
 - trilogy [n]三部曲, 三個
 - trio [n]三重奏/三重唱/三人一組, (小步舞曲、諧謔曲等的)中段 <--> quartet
 - tripod [n]三腳架
@@ -8414,6 +8422,7 @@
 + unseemly [adj]不適當的/不宜的 = *indecorous* = *unbecoming*
 * unsentimental [adj]不感情用事的
 - unsettle [v]使焦慮/使不安 = *disturb* --> unsettling [adj]令人不安的 = *disturbing*
+- unsightly [adj]不悅目的/難看的
 + unskillful [adj]笨拙的
 + unsolicited [adj]主動提出的/未經要求的
 - unsound [adj]不結實的/不堅固的, 不健康的/有病的, 無根據的/不可信的, 不夠好的/不可接受的
@@ -8598,7 +8607,9 @@
 + **pervade** [v]彌漫(味道), 遍及於/流行於 = *prevail* 
 + pervasive [adj]遍佈的/瀰漫的
 - invade [v]侵略, 侵犯 = *encroach* = *intrude*, 擁入 = *flock* <|> invidious
-+ [extravagant](/ɪkˈstravəɡ(ə)nt/) [adj]奢侈的/浪費的 = *wasteful*, 過度的/過分的 = *outrageous* = *excessive* = *elaborate* --> extravagance [mn]奢侈/浪費, 過度 [n]奢侈品
++ [extravagant](/ɪkˈstravəɡ(ə)nt/) [adj]奢侈的/浪費的 = *wasteful*, 過度的/過分的 = *outrageous* = *excessive* = *elaborate*
++ extravagance [mn]奢侈/浪費, 過度 [n]奢侈品
+- **extravaganza** [n]盛會/盛事
 - vagabond [n]流浪漢
 * vagrant [adj]流浪漢的, 徘徊的 = *wandering*, 易變的/無常的 = *inconstant* = *variable* [n]流浪漢 = *bum*
 - divagate [v]流浪/徘徊

@@ -8,12 +8,16 @@
 - right off the bat [adv]立刻
 - now and again [adv]有時
 - later on [adv]後來
+- dog days [n]三伏天/大熱天, 無所作為的時期/不活躍時期
 
 ## Adverb
 - with all due respect [adv]恕我直言
 - so to speak [adv]可以說
 - for all intents and purposes [adv]實際上 = in effect
 - might as well [adv] (反正也沒有更好的辦法)要不就…
+- all for naught [adv]徒勞 = in vain = all for nothing
+- hand over fist [adv]迅速大量地(賺錢)
+- behind one's back [adv]背著某人(說壞話)
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -101,6 +105,17 @@
 - bring home the bacon [v]養家糊口
 - The pot calling the kettle black [phrase]五十步笑百步/半斤八兩
 - make one's toes curl [v]讓人尷尬/使人為難, 使受驚嚇
+- get in shape [v]保持身材
+- stay put [v]留在原地
+- pull one's leg [v]開玩笑
+- throw caution to the wind [v]不顧一切
+- a piece/slice of the action [n]分一杯羹
+- stick in the mud [v]墨守成規
+- have a frog in one's throat [v]說話困難/聲音嘶啞
+- stark raving mad [adj]完全瘋掉
+- put a sock in it [phrase]別出聲/住嘴
+- cut to the chase [v]切入正題
+- if I had a nickel for every time [phrase]某件事發生的次數很多
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -181,3 +196,5 @@
 - weak link [n]薄弱的環節
 - muffin top [n]肚腩肉
 - chick flick [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
+- pipe dream [n]白日夢/空想
+- Volkswagen [n]福斯汽車

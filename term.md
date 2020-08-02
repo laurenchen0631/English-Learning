@@ -13,25 +13,36 @@
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
 - Mardi Gras [n]懺悔星期二，法文意思是「肥美的星期二」(Fat Tuesday)，這是一個結合了宗教傳統與嘉年華會的節日，之所以「肥美」，理所當然就是要在齋戒前大吃大喝、熱鬧一番。
 - Lutheranism [n]信義宗/路德宗
+- mazel tov [n]恭喜/祝好運(猶太用語)
 
 ## Game
 - petanque [n]法式滚球
 
 ## Art
-papier-mache [n]混凝紙漿
+- papier-mache [n]混凝紙漿
+- stage name [n]藝名
 
-## Fight
+## Sport
 - headlock [n]將對手之頭緊挾於腋下的一種摔角法
+- pump iron [n]舉重
+- bench press [n]臥推
 
 ## Product
 - night cream [n]晚霜
 - monkey wrench [n]活動板手
 - claw hammer [n]爪鎚/拔釘鎚
 - building block [n]積木
+- hard copy [n]紙本拷貝
+- drill press [n]鑽床
 
 ## Finance
 - security deposit [n]保證金
 - cold hard cash [n]現金
+
+## Work
+- Dead Poets Society [n]春風化雨(是1989年彼得·威爾導演的電影。 本片講述一間傳統學校的老師用反傳統的方法來教學生們詩歌、文學、生活的故事)
+- Mrs. Doubtfire [n]窈窕奶爸(1993年美國的一部喜劇電影)
+- The Three Musketeers [n]三劍客/三銃士(法國作家大仲馬在1844年出版的小說)
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -42,6 +53,7 @@ papier-mache [n]混凝紙漿
 - FYI [n]僅供參考 = For Your Information
 - aka [n]又名 = as known as
 - B.S. == Bullshit
+- VAT [n]增值稅/加值型營業稅 = value added tax
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)
@@ -51,3 +63,6 @@ papier-mache [n]混凝紙漿
 - Fresca [n]grapefruit-flavored citrus soft drink created by The Coca-Cola Companyz
 - Trident [n]一種薄荷糖的品牌
 - Tic Tac [n]一種薄荷糖的品牌
+- Chanel [n]香奈兒
+- Volkswagen [n]福斯汽車
+- Q-tip [n]棉花棒
