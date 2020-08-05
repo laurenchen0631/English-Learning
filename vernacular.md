@@ -9,6 +9,7 @@
 - now and again [adv]有時
 - later on [adv]後來
 - dog days [n]三伏天/大熱天, 無所作為的時期/不活躍時期
+- at all times [adv]隨時/永遠
 
 ## Adverb
 - with all due respect [adv]恕我直言
@@ -18,6 +19,18 @@
 - all for naught [adv]徒勞 = in vain = all for nothing
 - hand over fist [adv]迅速大量地(賺錢)
 - behind one's back [adv]背著某人(說壞話)
+- next to nothing [adv]幾乎沒有
+- in a word [adv]總之/一言以蔽之
+- and so forth [adv]等等/諸如此類
+- above all [adv]最重要的是
+- as a rule [adv]通常/一般說來
+- either way [adv]不管哪一種/無論如何
+- on board [adv]參與
+- on the grounds that [adv]因為
+- owing to the fact that [adv]因為
+- hit the nail on the head [v]一針見血
+- on the top of that [adv]除此之外
+- in a nutshell [adv]概括地說
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -116,6 +129,9 @@
 - put a sock in it [phrase]別出聲/住嘴
 - cut to the chase [v]切入正題
 - if I had a nickel for every time [phrase]某件事發生的次數很多
+- get a taste for sth [v]嘗試
+- be dead meat [v] (某人)有大麻煩
+- whip it out [phrase]秀一下
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -188,6 +204,10 @@
 - tap into [v]使用…以獲得好結果
 - hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
 - crash on someone [v]愛上
+- write up [v]詳細寫
+- fall guy [n]代罪羔羊 = *scapegoat*
+- call off [v]取消/停止進行
+- cut it out [v]停止/停下來
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -197,4 +217,5 @@
 - muffin top [n]肚腩肉
 - chick flick [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
 - pipe dream [n]白日夢/空想
-- Volkswagen [n]福斯汽車
+- hobby shop [n]a kind of store that sells recreational items for hobbyists.
+- dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)

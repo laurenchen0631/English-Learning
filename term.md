@@ -1,5 +1,6 @@
 ## Medicine
 - cartilaginous [adj]軟骨的
+- Adam's apple [n]喉結
 
 ## Food
 - fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns
@@ -8,15 +9,16 @@
 - salami [n]薩拉米香腸（義大利蒜味香腸）
 - Zifandel [n]金粉黛葡萄酒
 - gummi bears [n]小熊軟糖
+- pepper shaker [n]胡椒罐
+- sugar bowl [n]糖盅
+- rolling pin [n]桿麵棍
 
 ## Religion
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
 - Mardi Gras [n]懺悔星期二，法文意思是「肥美的星期二」(Fat Tuesday)，這是一個結合了宗教傳統與嘉年華會的節日，之所以「肥美」，理所當然就是要在齋戒前大吃大喝、熱鬧一番。
 - Lutheranism [n]信義宗/路德宗
 - mazel tov [n]恭喜/祝好運(猶太用語)
-
-## Game
-- petanque [n]法式滚球
+- house of worship [n]禮拜堂
 
 ## Art
 - papier-mache [n]混凝紙漿
@@ -26,6 +28,7 @@
 - headlock [n]將對手之頭緊挾於腋下的一種摔角法
 - pump iron [n]舉重
 - bench press [n]臥推
+- petanque [n]法式滚球
 
 ## Product
 - night cream [n]晚霜
@@ -34,6 +37,7 @@
 - building block [n]積木
 - hard copy [n]紙本拷貝
 - drill press [n]鑽床
+- auto transmission [n]汽車自動變速箱
 
 ## Finance
 - security deposit [n]保證金
@@ -43,6 +47,10 @@
 - Dead Poets Society [n]春風化雨(是1989年彼得·威爾導演的電影。 本片講述一間傳統學校的老師用反傳統的方法來教學生們詩歌、文學、生活的故事)
 - Mrs. Doubtfire [n]窈窕奶爸(1993年美國的一部喜劇電影)
 - The Three Musketeers [n]三劍客/三銃士(法國作家大仲馬在1844年出版的小說)
+
+## Business
+- clickbait [n]點擊誘餌(指的是那些透過聳動的標題、熱點…等等，來達成吸引讀者點閱文章的目的)
+- call-to-action [n]行動呼籲/召喚行動(CTA 通常是一張圖片，一個按鈕，或是一段文字，主要是希望透過「呼籲」使造訪網頁的訪客可以依循著網頁的設計而有所「行動」)
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -66,3 +74,5 @@
 - Chanel [n]香奈兒
 - Volkswagen [n]福斯汽車
 - Q-tip [n]棉花棒
+- Volkswagen [n]福斯汽車
+- cologne [n]古龍水

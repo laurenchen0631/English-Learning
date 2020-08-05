@@ -1025,6 +1025,7 @@
 + intercept [n/v]中途攔截/截斷
 - [municipal](/mjʊˈnɪsɪpəl/) [adj]市的/市政的 = *civic* <-- muni 責任 = *duty* + cip + al
 - municipality [n]自治市, 市政當局
+- **occident** [n]西方/歐美
 + occupy [v]佔據, **從事**, 佔領 <-- oc + cup 抓 = *take*, seize + y
 + occupation [n]職業/工作, 消遣, 佔領, 居住
 + occupational [adj]職業的
@@ -2656,7 +2657,7 @@
 + forbear [v]克制/忍耐 = *refrain* = *abstain* from = *desist* from
 + forbearance [n]自制/忍耐 = *patience* <-- for + bear
 * forbid -> forbad/forbade -> forbidden [v]拒絕給予, 禁止/不許, 妨礙/阻止 = *prohibit* = *interdict* <-- for + bid
-- forbidding [adj]可怕的/令人難親近的 <|> unbidden
+- **forbidding** [adj]可怕的/令人難親近的 <|> unbidden
 + forfeit [v]**喪失(權利)** [n]罰款/處罰 [adj]被罰的/被沒收的
 - forgo [v]拋棄/斷念 = *renounce* = *resign* = *relinquish*
 + [forlorn](/fəˈlɔːn/) [adj]被遺棄的/孤獨的, **幾乎無望的/不太可能實現的**
@@ -4440,7 +4441,7 @@
 + latitudes [n]緯度地區
 
 ## later 邊/邊緣 = *side*
-- **collateral** [adj]並行的/平行的 = *parallel*, 附帶的/次要的 = *incidental* = *secondary*, 旁系的 [n]擔保品, 旁系血親
+- **collateral** [adj]並行的/平行的 = *parallel*, 附帶的/次要的 = *incidental* = *secondary*, 旁系的 [n]**擔保品**, 旁系血親
 - bilateral [adj]雙邊的
 - equilateral [adj]等邊的
 - [lateral](/ˈlat(ə)rəl/) [adj]側面的/橫的/橫向的, 側音的 [n]側面, 側音
@@ -5351,6 +5352,7 @@
 	+ overwhelming [adj]壓倒性的/大量的, 非常強烈的(情緒)
 	- **overwinter** [v]過冬
 	+ overwrought [adj]緊張過度的/興奮過度的, 過度精緻的
+	- over-the-counter [adj]無處方的 = *nonprescription*
 
 2. 在上 = *above* == *up*
 	- overarch [v]在……上成拱形
@@ -5791,6 +5793,7 @@
 	- persuade
 	* perceive --> percept --> perception --> perceptive
 	+ perceptible
+	- **perchance** [adv]或許/偶然 = *by chance*
 	+ **percipient**
 	+ **[peregrinate](/ˈpɛrɪɡrɪˌneɪt/)** [v]遊歷 
 	+ peregrination [n]遊歷 <-- per + egri 土地 = *agri* + nate
@@ -8083,6 +8086,7 @@
 - trio [n]三重奏/三重唱/三人一組, (小步舞曲、諧謔曲等的)中段 <--> quartet
 - tripod [n]三腳架
 - trimester [n]三個月/三月期(懷孕期的分隔單位), 一學期
+- tri-state [adj]三州(間地區)的
 
 ## tempor 時間
 + contemporary [adj]現代的 = *modern*, 當代的/同時代的 [n]現代人, 當代人/同時代的人
@@ -8385,6 +8389,7 @@
 + unforthcoming [adj]不願透露訊息的, 無法隨時可得的
 - unforgiving [adj]不願原諒的, 嚴峻的 = *harsh* = *hostile*
 - unfounded [adj]無事實根據的 = *groundless* = *unwarranted*
+- unfurl [v]展開/打開 = *unroll*
 + ungainly [adj]笨拙的/不優雅的 = *awkward* = *clumsy* <-- un + gainly
 * ungodly [adj]不虔敬的 = *irreligious* = *impious*, 不道德的 = *immoral* = *vicious*
 - ungrudging [adj]不吝惜的/慷慨的 <--> grudging
