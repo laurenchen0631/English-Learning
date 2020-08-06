@@ -1693,7 +1693,7 @@
 	+ **deplore**
 	- depreciate
 	+ depress --> depressed --> depression
-	+ **deprave** [v]使墮落 <|> deprive <-- de + prav 不正派的 = *crooked*
+	+ **deprave** [v]使墮落 <|> **deprive** <-- de + prav 不正派的 = *crooked*
 	+ depraved [adj]墮落的/邪惡的 = *putrid* = *vicious* = *wicked*
 	+ depravity [n]墮落 = *turpitude* = *wickedness*
 	- **deranged** [adj]瘋狂的 = *unhinged* = *insane* = *mad*
@@ -1793,7 +1793,7 @@
 	+ defy [v]違抗/反抗, 激/惹/向…挑戰
 	+ defiance [n]違抗/反抗 = *resistance* = *disobedience*
 	+ defiant [adj]違抗的/挑戰的 = *rebellious*
-	* demolish [v]拆除/拆毀 = *level*, **__駁斥/反駁__** = *refute*, [非]輕易擊敗 <-- de + mol 建造 = *construct* + ish
+	* demolish [v]拆除/拆毀 = *level*, [非]輕易擊敗 <-- de + mol 建造 = *construct* + ish
 	* demolition [mn]拆除/拆毀, [非]輕易擊敗
 	- detest
 
@@ -2317,7 +2317,7 @@
 + exhaustible [adj]會枯竭的 <--> inexhaustible
 * exhibit
 + **exhilarate** --> exhilaration
-+ exhort
++ **exhort**
 - exile [v]流放/放逐 = *evict* = *banish*, 離鄉背井 [n]流放/流亡, 離鄉背井
 - exodus [n]大批人的退出/離開/移居國外 <-- ex + odus 道路 = *way*
 + **exonerate**
@@ -2338,7 +2338,8 @@
 + **__expiate__**
 * expire --> expiration
 + explicate --> explication --> explicit
-- explode [v]使爆炸, 爆發, 快速成長, 推翻/駁倒 --> explosive [adj]爆炸性的, 爆發的, 突然的 [n]炸藥
+- explode [v]使爆炸, 爆發, 快速成長, 推翻/駁倒
+- explosive [adj]爆炸性的, 爆發的, 突然的 [n]炸藥
 + expound --> **exponent** --> exponentially
 + exposition --> **expository**
 + express [v]表達, 快遞, 擠壓出 [adj]明確的, 快的, 專門的
@@ -2383,7 +2384,7 @@
 - **emblazon** [v]醒目地展示
 * embody [v]體現/具體地表顯, 賦予(靈體)形體, 包括/包含
 - embolden [v]**壯膽/使有勇氣**, 使呈粗體字 <-- em + bold + en
-- **embolism** [n]血管栓塞, 閏/閏日
+- **__embolism__** [n]血管栓塞, 閏/閏日
 - emboss
 * embitter [v]使難受/使忿恨 
 + embrace
@@ -2438,7 +2439,7 @@
 + enlighten [v]啟迪/教導 = *instruct* = *impart* knowledge
 + enlist [v]徵兵, 謀取...贊助或支持
 - enliven [v]使有生氣/使活躍/使更有趣 <-- en + life + en
-- **enamel** [mn]琺瑯, 琺瑯質, 瓷漆/瓷釉 = *enamel paint* [v]給…上琺瑯 [n]琺瑯製品
+- **[enamel](/ɪˈnam(ə)l)** [mn]琺瑯, 琺瑯質, 瓷漆/瓷釉 = *enamel paint* [v]給…上琺瑯 [n]琺瑯製品
 - enmesh [v]使捲入/使陷入 = *entangle*
 - **ennoble** [v]使成為貴族, 使尊貴
 + empiric --> empirical --> empiricism
@@ -2483,7 +2484,8 @@
 ## eu 好 = *good*, well
 + eulogy, eulogium --> eulogize --> eulogistic
 + eugenics
-+ **__euphemism__** [n]婉轉說法 --> euphemistic [adj]婉轉的
++ **__euphemism__** [n]婉轉說法
++ euphemistic [adj]婉轉的
 + euphony --> euphonious 
 + **__euphoria__** --> euphoric
 + **[euthanasia](/ˌjuːθəˈneɪzɪə/)** [n]安樂死 <-- eu + thanas 死亡 = *death* + ia
@@ -2739,7 +2741,7 @@
 
 ## fab, fable 說 = *speak* == *dict* == *cent*
 + affable [adj]易於交談的/友好的/和藹的 = *friendly* = *cordial* = *amiable* = *benign* = *genial* = *personable* --> affability [n]
-+ **ineffable** [adj]無法表達的/說不出的/難以言喻的
++ **__ineffable__** [adj]無法表達的/說不出的/難以言喻的
 - fabulous, fab [adj]驚人的, 極好的, 神話般的 
 - fabulously [adv]極度 = *extremely*
 
@@ -2889,8 +2891,8 @@
 ## fid, fide 相信 = *trust*, faith
 - **[affidavit](/ˌafɪˈdeɪvɪt/)** [n]宣誓書
 - confide [v]吐露/傾訴, 託付 = *entrust*
-* **confidant** [n]心腹朋友/知己
-+ confident [adj]有信心的, 確信的
+* **[confidant](/ˈkɒnfɪdant/)** [n]心腹朋友/知己
++ [confident](ˈkɒnfɪd(ə)nt/) [adj]有信心的, 確信的
 - self-confident [adj]有自信的
 - confidence [n]信心, 確信/把握, 吐露/傾訴, 秘密
 - confidential [adj]機密的 = *esoteric*, 參與機密的
@@ -3500,7 +3502,7 @@
 
 ## hemo 血 = *blood* == *emi*
 - hemoglobin [n]血紅素
-- hemophilia [n]血友病
+- **hemophilia** [n]血友病
 - hemorrhage [n/v]出血, 大出血/損失 <-- hemo + rrgage 大量噴出 = *profuse* discharage
 - **hemostat** [n]止血器, 止血劑
 - **__hematology__** [n]血液學
@@ -6256,13 +6258,13 @@
 + probity [n]剛正/正直 = *uprightness* = *rectitude* = *honesty* = *high-mindness* = *goodness* 
 
 ## propr, proper 擁有 = *own*
-+ appropriate [v]撥款 = *allot*, 挪用 [adj]恰當的 = *agreeable*
++ appropriate [v]**撥款** = *allot*, **挪用** [adj]恰當的 = *agreeable*
 + appropriation [n]挪用, 撥款總額
-- misappropriate [v]侵吞/盜用 = *embezzle* = *appropriate* = *peculate*
+- **misappropriate** [v]侵吞/盜用 = *embezzle* = *appropriate* = *peculate*
 - property [n]財產/所有物, 房地產, 所有權, 特性/特質 = *attribute* = *quality* = *characteristic*
 + [propriety](/prəˈprʌɪəti/) [n]禮貌/禮節 = *decorum*, 適當/妥當/得體 = *appropriateness* = *fitness*
-- proprietor [n]業主/經營者 == *The* owner of a business, or a holder of property.
-+ [proprietary](/prəˈprʌɪətəri/) [adj]所有權的/所有人的, 專賣的/專利的
+- **proprietor** [n]業主/經營者
++ **[proprietary](/prəˈprʌɪətəri/)** [adj]所有權的/所有人的, 專賣的/專利的
 - impropriety [n]不恰當的行為
 
 ## proxim 大約/接近 = *next*, near
@@ -6274,36 +6276,40 @@
 - arthropod [n]節肢動物
 - [biped](/ˈbʌɪpɛd/) [n]兩足動物 [adj]兩足的
 - centipede [n]蜈蚣
-+ expedite [v]迅速執行 = *dispatch*, 加快/促進 = *hasten* = *accelerate* = *facilitate*
++ **expedite** [v]迅速執行 = *dispatch*, 加快/促進 = *hasten* = *accelerate* = *facilitate*
 + expeditious [adj]迅速的
-+ expedition [n]遠征/探險, 探險隊員, 迅速/敏捷
++ **expedition** [n]遠征/探險, 探險隊員, 迅速/敏捷
 + **__[expedient](/ɪkˈspiːdɪənt/)__** [adj]權宜的/出於便利的 = *improvised* = *makeshift*, 合適的/恰當的 = *suitable* = *appropriate* [n]緊急措施/權宜之計 
-+ [expediency](/ɪkˈspiːdɪənsi/) [mn]方便 = *convenience* <|> [expectancy](/ɪkˈspɛkt(ə)nsi/)
++ **__[expediency](/ɪkˈspiːdɪənsi/)__** [mn]方便 = *convenience* <|> [expectancy](/ɪkˈspɛkt(ə)nsi/)
 - hexapod [n]有六足的節肢動物
 + impede [v]妨礙/阻礙 = *hinder* = *block* = *encumber* = *hamper* = *obstruct* = *inhibit* = *deter*
 + impediment [n][to]妨礙/阻礙物, 語言障礙/說話障礙
 - moped [n]電動腳踏車
 - pedal [n]踏板/腳蹬, 腳煞車, 腳踏鍵, 踏板, 踏板點 [v]踩……的踏板, 騎, 踩踏板, 踩腳踏鍵 [adj]足的 <|> peddle
 - [pedestal](/ˈpɛdɪst(ə)l/) [n]基座/臺座 = *base* = *foundation*, 作為偶像崇拜的顯要地位 [v]把……放在臺座上
-+ [pedestrian](/pɪˈdɛstrɪən/) [n]行人/步行者 [adj]平淡的/沉悶的 = *unimaginative*
-+ peddle [v]兜售/叫賣, 銷贓/違法販售, 提倡 = *promote* --> peddler [n]小販 = *huckster*, 毒販/銷贓者, 提倡者/傳播者
++ [pedestrian](/pɪˈdɛstrɪən/) [n]行人/步行者 [adj]**平淡的/沉悶的** = *unimaginative*
++ **peddle** [v]兜售/叫賣, 銷贓/違法販售, 提倡 = *promote*
++ peddler [n]小販 = *huckster*, 毒販/銷贓者, 提倡者/傳播者
 - pedicure [n/v]足部護理
-- [podiatry](/pəʊˈdʌɪətri/) [n]足部治療 = *chiropody*
+- **[podiatry]**(/pəʊˈdʌɪətri/) [n]足部治療 = *chiropody*
 - podiatrist [n]足科醫師 = *chiropodist*
-- podium -> podiums/podia [n]講壇, 讀經台 = *lectern*, 建築物的墩座 [v]站上領獎台/獲得第一二或三名
+- **podium** -> podiums/podia [n]講壇, 讀經台 = *lectern*, 建築物的墩座 [v]站上領獎台/獲得第一二或三名
 - tripod
 - [stampede](/stamˈpiːd/) [n/v]逃竄/蜂擁
 
 ## ped, pedo 兒童 = *child*
-- [pedagogy](/ˈpɛdəɡɒdʒi/) [mn]教育學 --> pedagogue [n]教師 = *teacher*
+- **[pedagogy](/ˈpɛdəɡɒdʒi/)** [mn]教育學
+- **pedagogue** [n]教師 = *teacher*
 - [pedagogical](/ˌpɛdəˈɡɒdʒɪk(ə)l/) [adj]教育的
-+ [pedant](/ˈpɛd(ə)nt/) [n]書呆子/學究 --> pedantic [adj]學究式的/過分注意小細節的 = *overscrupulous*
-- pediatric [adj]小兒科的 --> pediatrics [n]小兒科 <-- ped + iatric 治療 = *heal* + s
++ **[pedant](/ˈpɛd(ə)nt/)** [n]書呆子/學究
++ **pedantic** [adj]學究式的/過分注意小細節的 = *overscrupulous*
+- **pediatric** [adj]小兒科的 <-- ped + iatric 治療 = *heal* + s
+- pediatrics [n]小兒科
 - pedophile [n]戀童癖者
 
 ## phem 說 = *speech*, speaking
 - [blasphemy](/ˈblasfəmi/) [n]褻瀆/瀆神 = *desecration* = *irreverence* <-- blas 傷害 = *harm* + phemy
-- dysphemisms [n]粗直語/粗直語用法 = *A* derogatory or unpleasant term used instead of a pleasant or neutral one
+- dysphemisms [n]粗直語/粗直語用法 
 + euphemism
 
 ## phen, phan, pha 出現 = *appear* == *appar*
@@ -6312,29 +6318,32 @@
 + [epiphany](/ɪˈpɪf(ə)ni/) [n]神靈之顯現, 顯現節, 頓悟
 + diaphanous
 - phantom [n]幽靈/鬼魅, 幻象 = *visionary*
-+ phantasmagorical [adj]幻影似的/虛假的 = *illusory* = *unreal*
-- phanerogam [n]顯花植物 = *spermatophyte*
++ **phantasmagorical** [adj]幻影似的/虛假的 = *illusory* = *unreal*
+- **phanerogam** [n]顯花植物 = *spermatophyte*
 - phenom [n][非]傑出人才 = *star*
-- [phenomenon](/fəˈnɒmɪnən/) -> phenomena [n]現象, 非凡的人/傑出的人才
-- phenomenal [adj]傑出的/非凡的 = *extraordinary* = *remarkable*, 能被感知的
-- phenotype [n]顯形/表現某一顯性特徵之生物個體或群體 --> phenotypic [adj]表型的
-+ sycophant [n]馬屁精 = *toady* = *adulator* --> sycophantic [adj]阿諛奉承的 = *obsequious* <-- syco 無花果 = *fig* + phan + ant
+- [phenomenon](/fəˈnɒmɪnən/) -> phenomena [n]現象, **非凡的人/傑出的人才**
+- **phenomenal** [adj]傑出的/非凡的 = *extraordinary* = *remarkable*, 能被感知的
+- phenotype [n]顯形/表現某一顯性特徵之生物個體或群體 
+- phenotypic [adj]表型的
++ sycophant [n]馬屁精 = *toady* = *adulator* <-- syco 無花果 = *fig* + phan + ant
++ sycophantic [adj]阿諛奉承的 = *obsequious*
 
 ## phob, phobia 恐懼 = *fear*
 - acrophobia
 - homophobic [adj]討厭同性戀的
-- mysophobia [n]潔癖
+- **mysophobia** [n]潔癖
 - xenophobe
 - xenophobia
 - hydrophobia
 
 ## phony, phone 聲音 = *sound*
 + cacophony --> cacaphonous
-+ euphony [n]悅耳 --> euphonious [adj]悅耳的 = *melodious* = *liquid*
-- francophone [adj]法語圈的 [n]法語圈
++ euphony [n]悅耳
++ euphonious [adj]悅耳的 = *melodious* = *liquid*
+- **francophone** [adj]法語圈的 [n]法語圈
 - phone [n]電話 = *telephone*, [非]耳機 = *headphone* = *earphone* [v][up]電話通知, [phone it in]敷衍了事
-+ phony [adj][非]]假冒的/偽造的 = *bogus* = *counterfeit* = *spurious* = *fraudulent* [n][非]騙子/冒牌貨
-- phonograph [n]留聲機 --> phonographic [adj]
++ **phony** [adj][非]]假冒的/偽造的 = *bogus* = *counterfeit* = *spurious* = *fraudulent* [n][非]騙子/冒牌貨
+- **phonograph** [n]留聲機 --> phonographic [adj]
 - phonetic [adj]語音的, 語音學的, 音形一致的
 - symphony [n]交響樂/交響曲, 交響樂團, 和諧/一致
 - symphonic [adj]交響樂的
@@ -6346,14 +6355,14 @@
 - photics [n]光學
 - [photography](/fəˈtɑː.ɡrə.fi/) [n]攝影
 - [photosynthesis](/ˌfəʊtə(ʊ)ˈsɪnθɪsɪs/) [n]光合作用 --> photosynthesize [v] <-- photo + synthesis
-- photovoltaic [adj]太陽能光電的
+- **photovoltaic** [adj]太陽能光電的
 
 ## patri, patr 父親/本土 = *father*, native land
-- [compatriot](/kəmˈpatrɪət/) [n]同國人/同胞
+- **[compatriot](/kəmˈpatrɪət/)** [n]同國人/同胞
 + expatriate [v]把..送出國 [n]居住海外的人 [adj]居住海外的 <|> expatiate
-- expat [adj]居住海外的 = *expatriate* [n]居住海外的人 = *expatriate* 
-- patrician [n]貴族 = *aristocrat* = *nobleman* [adj]貴族的 <-- patr 
-- patrimony [n]繼承的遺產/祖產 = *heritage*
+- **expat** [adj]居住海外的 = *expatriate* [n]居住海外的人 = *expatriate* 
+- **patrician** [n]貴族 = *aristocrat* = *nobleman* [adj]貴族的 <-- patr 
+- **patrimony** [n]繼承的遺產/祖產 = *heritage*
 - patriot [n]愛國者/愛國主義者
 - [patriotism](/ˈpeɪtrɪətɪz(ə)m/) [n]愛國心/愛國精神/愛國主義
 * [patron](/ˈpeɪtr(ə)n/) [n]贊助者/資助者, 老主顧
@@ -6369,48 +6378,54 @@
 - applicant [n]申請人
 - appliance [n]器具/設備 
 + complicate [v]使複雜化, (疾病)使惡化/加重 = *exacerbate* = *aggravate*
-+ complex [adj]由各種部分所構成的, 複雜的/難懂的 [n]複合物/綜合體 = *system* = *network*, 建築群, 情結/情絲 --> complexion [n]膚色, 一般特徵/性質 = *aspect* = *character*
++ complex [adj]由各種部分所構成的, 複雜的/難懂的 [n]複合物/綜合體 = *system* = *network*, 建築群, 情結/情絲
++ **__complexion__** [n]膚色, 一般特徵/性質 = *aspect* = *character*
 * [comply](/kəmˈplʌɪ/) [v]服從/遵守 = *conform*
 + compliant [adj]服從的/順從的 = *acquiescent* = *complaisant* = *complying* = *submissive* = *yielding* <--> contumacious, 合規的
 + compliance [n]遵守/服從 = *obedience*, 過度默從
-+ [complicit](/kəmˈplɪsɪt/) [adj]參與共謀的/串通一氣的 --> complicity [mn]同謀/串通
++ **[complicit](/kəmˈplɪsɪt/)** [adj]參與共謀的/串通一氣的 
++ complicity [mn]同謀/串通
 + compliment [n/v]恭維/讚揚 = *praise* = *congratulate*
 + complimentary [adj]讚賞的, 贈送的 <|> complement <|> implement
-+ duplicity [n]口是心非/欺騙 = *guile* = *deceitfulness* --> [duplicitous](/djuːˈplɪsɪtəs/) [adj]雙面的/兩面派的, 欺騙的
++ duplicity [n]口是心非/欺騙 = *guile* = *deceitfulness* 
++ [duplicitous](/djuːˈplɪsɪtəs/) [adj]雙面的/兩面派的, 欺騙的
 + duplicate [adj]複製的, 一對的 [n]複製品 [v]複製, 加倍 = *double*, 多做一次
 - duplex [adj]雙重的/二倍的 [n]雙層公寓
 + explicate [v]詳細解釋/詳細分析 = *explain* = *interpret* = *clarify* = *expatiate* = *expound* 
 + explication [n]解釋/分析, 文學分析
-+ explicit [adj]清楚明確的 = *unequivocal*, 坦率的 = *outspoken* = *candid*, 赤裸裸的/露骨的 <-- explicate
-* explicable [adj]可解釋的/可理解的 <--> mysterious = *obscure*
-+ implicate [v]牽連/涉及(罪行), 暗示/暗指 = *imply* = *intimate* = *infer* --> implication [n]暗示
-+ implicit [adj]暗示的 = *implied*, 內含的/固有的, 無疑問的/絕對的 = *unreserved* = *absolute*
++ **explicit** [adj]清楚明確的 = *unequivocal*, 坦率的 = *outspoken* = *candid*, 赤裸裸的/露骨的 <-- explicate
+* **explicable** [adj]可解釋的/可理解的 <--> mysterious = *obscure*
++ implicate [v]牽連/涉及(罪行), 暗示/暗指 = *imply* = *intimate* = *infer*
++ implication [n]暗示
++ **implicit** [adj]暗示的 = *implied*, 內含的/固有的, 無疑問的/絕對的 = *unreserved* = *absolute*
 + inexplicable
-- multiplex [adj]許多的/多樣的, 多路通訊的, 多廳的 [n/v]多路傳輸 [n]多廳電影院 --> multiplicity [n]多樣性
+- multiplex [adj]許多的/多樣的, 多路通訊的, 多廳的 [n/v]多路傳輸 [n]多廳電影院 
+- multiplicity [n]多樣性
 + perplex [v]使困惑 = *confound* = *baffle* = *puzzle* = *confuse*, 使複雜化 = *Complicate* --> perplexity [n]困惑/茫然
 - pliable [adj]易彎的/柔軟的 = *flexible* = *lithe* = *limber* = *supple* = *yielding*, 易受影響的
-- pliant [adj]易受影響的 = *yielding*, 易彎的 = *pliable*
+- **pliant** [adj]易受影響的 = *yielding*, 易彎的 = *pliable*
 - plight [n]困境/苦境 [v][be plighted to]訂婚
 + replicate [n]複製 = *reproduce*, 重複試驗 [adj]複製的, 重複試驗的 [n]複製品 = *replica* = *duplicate*, 重複試驗
 - replica [n]複製品 = *replicate* = *duplicate*
 - replicator [n]複製者/複製品
 + [supple](/ˈsʌp(ə)l/) [adj]易彎曲的/柔軟的 = *pliant* = *flexible* = *limber* = *lithe*, 靈活的/適應能力強的 [v]使柔軟 <|> supplement <-- supplicate
-+ supplicate [v]懇求/請求
-+ suppliant, supplicant [adj]懇求的/哀求的 = *beseeching* [n]懇求者
++ **supplicate** [v]懇求/請求
++ **suppliant**, supplicant [adj]懇求的/哀求的 = *beseeching* [n]懇求者
 + supplication [mn]懇求/哀求
 
 ## pluto 財富 = *wealth*
 + [plutocracy](/pluːˈtɒkrəsi/) [n]財閥統治, 富豪
-- plutonomy [n]政治經濟學
+- **plutonomy** [n]政治經濟學
 
 ## phil, philo 愛 = *loving* == *amat*
 - philanthropic --> philanthropist
-- philately [mn]集郵 --> philatelist [n]集郵家
+- **philately** [mn]集郵
+- philatelist [n]集郵家
 - philosophy
-- philologist [n]語言學家
+- **philologist** [n]語言學家
 - bibliophile
 - negrophile
-- hemophilia
+- **hemophilia**
 
 ## pict 畫 = *paint*
 * depict [v]描繪/描述 = *delineate* = *trace* = *picture* = *limn*
@@ -6420,96 +6435,103 @@
 - pictionary [n]猜猜畫畫(1985年由Rob Angel所設計的派對遊戲)
 
 ## press 壓
-- compress [v]壓縮/壓緊 = *compact*, 精煉/精簡 = *abridge* = *compact* [n](止血或消腫)敷布/壓布
+- compress [v]壓縮/壓緊 = *compact*, 精煉/精簡 = *abridge* = *compact* [n]敷布/壓布
 + depress [v]使沮喪 = *deject* = *dispirit*, 使蕭條/使減少, 按下/壓下
 + depression [n]沮喪/憂鬱 = *despondency*, 憂鬱症, 蕭條, 按下/壓下, 凹陷處, 低氣壓區 <|> distress
 - depressed [adj]沮喪的, 患憂鬱症的, 蕭條的, 凹陷的 <--> bulged
 + impress [v]使欽佩, 壓印, [on]使銘記 [n]壓印, 印記, 特質 = *characteristic* 
 + impression [n]想法/感覺, 印象, 影響/差異, 模仿, 摹寫, 印刷, 印記
-- impressionable [adj]易受影響的
+- **impressionable** [adj]易受影響的
 + oppress [v]壓迫/壓制, 使煩惱/使焦慮
-+ oppressive [adj]壓迫的, 悶熱的 = *muggy* = *stifling*
-+ press [v]按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = *iron*, 壓花, 榨汁, 提出 = *put* forward, 極力勸說, [on]迫使..接受 [n]壓榨機, 印刷機, 出版社, 報刊/新聞界, 壓/按, 一群/一堆
++ oppressive [adj]壓迫的, **悶熱的** = *muggy* = *stifling*
++ press [v]按/壓/擠, (敵人)猛烈進攻, [on/ahead]持續做, 熨平 = *iron*, 壓花, 榨汁, 提出 = *put* forward, 極力勸說, [on]迫使..接受 [n]壓榨機, 印刷機, **出版社**, 報刊/新聞界, 壓/按, 一群/一堆
 + pressing [adj]緊迫的/迫切的 = *instant*, 懇切的/再三要求的 [n]壓/按, 沖壓件/模壓製品, 同次模壓製品
-+ repress [v]鎮壓/平息 = *subdue* = *supress* = *quell* = *quash*, 阻止 = *Restrain* = *prevent* = *inhibit*, 抑制 = *constrain* = *subdue* = *supress* --> repressed [adj]被壓制的 = *restrained* = *oppressed*, 被壓抑的 
++ **repress** [v]鎮壓/平息 = *subdue* = *supress* = *quell* = *quash*, 阻止 = *Restrain* = *prevent* = *inhibit*, 抑制 = *constrain* = *subdue* = *supress*
++ repressed [adj]被壓制的 = *restrained* = *oppressed*, 被壓抑的 
 + repressive [adj]壓迫性的/專制的, 壓抑的
-+ suppress [v]鎮壓/壓制 = *quell* = *quash* = *subdue*, 抑制/忍住/壓抑 = *repress* = *subdue* --> suppression [n]鎮壓/抑制/壓抑
++ **suppress** [v]鎮壓/壓制 = *quell* = *quash* = *subdue*, 抑制/忍住/壓抑 = *repress* = *subdue* 
++ suppression [n]鎮壓/抑制/壓抑
 
 ## punct, pung 刺 = *prick* == *trus*
 - acupuncture
 + [compunction](/kəmˈpʌŋkʃən/) [n]內疚/顧慮 = *scruple* = *uneasiness* = *contrition* = *remorse* = *repentance* = *qualm*
 + [expunge](/ɪkˈspʌn(d)ʒ/) [v]清除/刪除 = *obliterate* = *remove* <|> expurgate
-- [punctual](/ˈpʌŋ(k)tʃʊəl/) [adj]準時的/守時的 = *prompt*
-- punctuate [v]在……中間加標點, 定時發生, [with]不斷打斷
-+ [punctilious](/pʌŋkˈtɪlɪəs/) [adj]精密細心的/一絲不苟的
+- **[punctual](/ˈpʌŋ(k)tʃʊəl/)** [adj]準時的/守時的 = *prompt*
+- **punctuate** [v]在……中間加標點, 定時發生, [with]不斷打斷
++ **[punctilious](/pʌŋkˈtɪlɪəs/)** [adj]精密細心的/一絲不苟的
 - puncture [v]刺穿/刺破 = *impale*, 使(情緒)突然低落 [n]刺孔/穿孔
-+ pungent [adj]有刺激性的/辣的 = *stimulating* = *piquant* = *poignant*, 尖刻的 = *caustic* = *sharp*
++ **pungent** [adj]有刺激性的/辣的 = *stimulating* = *piquant* = *poignant*, 尖刻的 = *caustic* = *sharp*
 
 ## puni 罰 = *punish*, penalty
 - impunity [n]豁免/免除懲罰 = *exemption*
-- punitive, punitory [adj]懲罰性的, 高昂的(税或收費) = *exorbitant* = *steep*
+- **punitive**, **punitory** [adj]懲罰性的, 高昂的(税或收費) = *exorbitant* = *steep*
 - punish [v]懲罰/處罰
 - punishable [adj]可處罰的
 
 ## pugil, pugn 打鬥 = *fight*
-+ [impugn](/ɪmˈpjuːn/) [v]置疑 = *cast* doubt upon = *dispute* = *call* into question
++ **__[impugn](/ɪmˈpjuːn/)__** [v]置疑 = *cast* doubt upon = *dispute* = *call* into question
 + **[pugilism](/ˈpjuːdʒɪlɪz(ə)m/)** [n]拳擊/搏擊
 - pugilist [n]拳擊手/拳師
-+ [pugnacious](/pʌɡˈneɪʃəs/) [adj]好鬥的 --> pugnacity [mn]好鬥
-+ **[repugnant](/rɪˈpʌɡnənt/)** [adj]令人厭惡的 = *distasteful* = *unacceptable*, [to]不一致的/敵對的
++ [pugnacious](/pʌɡˈneɪʃəs/) [adj]好鬥的
++ pugnacity [mn]好鬥
++ **__[repugnant](/rɪˈpʌɡnənt/)__** [adj]令人厭惡的 = *distasteful* = *unacceptable*, [to]不一致的/敵對的
 + repugnance [n]厭惡/反感 = *distaste* = *antagonism* = *disgust*
 
 ## polis 城市
 - polis [n]城邦
 - cosmopolis
 + cosmopolitan --> cosmopolitanism
-- metropolis [n]大城市 --> metropolitan [adj]大都市的, 宗主國的/母國的, 大主教轄區的 [n]大都市人, 大主教
-- necropolis [n]大墓地 = *cemetery*
+- metropolis [n]大城市
+- metropolitan [adj]大都市的, 宗主國的/母國的, **大主教轄區的** [n]大都市人, **大主教**
+- **necropolis** [n]大墓地 = *cemetery*
 
 ## plore 喊/哀嚎 = *wail*
 + **deplore** [v]譴責/強烈反對 = *condemn*
 - deplorable [adj]應受譴責的/極其惡劣的 = *egregious* = *atrocious*, 糟透的
-* **implore** [v]哀求/懇求 = *beg* = *beseech* = *crave* = *solicit* = *plead* = *urge* = *supplicate*
+* **implore** [v]哀求/懇求 = *beg* = *beseech* = *crave* = **solicit** = *plead* = *urge* = **supplicate**
 
 ## pute 思考 = *reckon*, consider, think
 + dispute [n]爭執/糾紛 [v]爭論 = *argue* = *wrangle* = *quarrel*, 質疑 = *question* = *impugn*, 競爭 = *compete* = *strive* 
-+ disputatious [adj]好爭吵的
-* depute [v]委託/委任 = *delegate* <|> dispute --> deputy [n]代理人, 副手 
-+ impute [v]歸咎於/歸因於 = *ascribe* = *credit* = *attribute*
-- putative [adj]假定存在的/被認為存在的/傳說的
-+ repute [n]名聲/名譽, 聲望 = *fame* [v]認為 = *regard* --> reputation [n]名聲 = *repute*, 聲望
++ **disputatious** [adj]好爭吵的
+* **depute** [v]委託/委任 = *delegate* <|> dispute
+* **deputy** [n]代理人, 副手 
++ **__impute__** [v]歸咎於/歸因於 = *ascribe* = *credit* = *attribute*
+- **putative** [adj]假定存在的/被認為存在的/傳說的
++ repute [n]名聲/名譽, 聲望 = *fame* [v]認為 = *regard*
++ reputation [n]名聲 = *repute*, 聲望
 
 ## phore, phor, pher 帶來/帶著 = *bear*
 + **euphoria** [n]心情愉快 = *elation* 
 + euphoric [adj]狂喜的/興高采烈的 = *intensely* happy
-- [semaphore](/ˈsɛməfɔː/) [n]旗語/信號 [v]發信號 <-- sema 信號 = *signal* + phore
-+ [metaphor](/ˈmɛtəfə/) [n]隱喻/暗喻 --> metaphoric [adj]隱喻的 = *figurative* --> metaphorize [v]暗喻
+- **[semaphore](/ˈsɛməfɔː/)** [n]旗語/信號 [v]發信號 <-- sema 信號 = *signal* + phore
++ [metaphor](/ˈmɛtəfə/) [n]隱喻/暗喻 
++ metaphoric [adj]隱喻的 = *figurative* --> metaphorize [v]暗喻
 + [periphery](/pəˈrɪfəri/) [n]周圍/外圍, 次要部分
 + [peripheral](/pəˈrɪfərəl/) [adj]外圍的, [to]不重要的/次要的 = *marginal*, 周邊的(裝置) [n]周邊裝置
 
 ## pi 撫慰/虔誠 = *propitiate*, piety
-+ **expiate** [v]補償 = *atone for* = *recompense* = *compensate* = *make amends*
++ **__expiate__** [v]補償 = *atone for* = *recompense* = *compensate* = *make amends*
 * [pious](/ˈpʌɪəs/) [adj]虔誠的/篤信的, 虛偽的/假虔誠的 = *sanctimonious*, 不可能實現的
 + [piety](/ˈpʌɪəti/) [n]虔誠 = *devoutness*, 信仰
 + **impious** [adj]不虔誠的 = *ungodly* <--> religious, 邪惡的 = *wicked* = *venal*
 
 ## pecca 罪/錯誤 = *sin*, err
 + impeccable
-- peccable [adj]易犯罪的
-- [peccadillo](/ˌpɛkəˈdɪləʊ/) [n]輕罪/小過/小瑕疵 = *misdemeanor*
-- peccant [adj]致病的/疾病的 = *pathogenic*
+- **peccable** [adj]易犯罪的
+- **[peccadillo](/ˌpɛkəˈdɪləʊ/)** [n]輕罪/小過/小瑕疵 = *misdemeanor*
+- **__peccant__** [adj]致病的/疾病的 = *pathogenic*
 
 ## pecun 財富 = *wealth*
 + impecunious [adj]貧窮的 = *indigent* = *needy* = *poor* = *destitute* = *penniless* = *penurious* <--> affluent
-- peculate [v]盜用/侵佔 = *embezzle* = *misappropriate*
-+ [pecuniary](/pɪˈkjuːnɪəri/) [adj]金錢的
+- **peculate** [v]盜用/侵佔 = *embezzle* = *misappropriate*
++ **[pecuniary](/pɪˈkjuːnɪəri/)** [adj]金錢的
 
 ## ponder 衡量 = *weigh*
 + imponderable [n]難以衡量的事物 [adj]難以估量的
 - ponder [v]仔細考慮 
-- ponderable [adj]有相當重量的/有相當重要性的
-+ ponderous [adj]笨重的, 冗長的/沉悶的 = *monotonous* = *dull* = *laborious*
-- preponderate [v]勝過/超過 == *to* be more important or larger in size or number
+- **ponderable** [adj]有相當重量的/有相當重要性的
++ **ponderous** [adj]笨重的, 冗長的/沉悶的 = *monotonous* = *dull* = *laborious*
+- **__preponderate__** [v]勝過/超過
 - preponderance [mn]數量上的優勢 
 
 ## phyto, phyte 植物 = *plant*
@@ -6518,14 +6540,14 @@
 - xerophyte
 
 ## popul 人民 = *people*
-- [populace](/ˈpɒpjʊləs/) [n]全體居民
+- **[populace](/ˈpɒpjʊləs/)** [n]全體居民
 - [populous](/ˈpɒpjʊləs/) [adj]人口稠密的/擁擠的 <|> [populace](/ˈpɒpjʊləs/)
 - popular [adj]流行的, 普及的, 民眾的/大眾的 = *vulgar* = *plebeian*
 - popularity [n]普及/流行
 - populate [v]組成人口, 居住於/移民於, 充滿, 填入(資料) = *fill* in
 - unpopulated [adj]無人居住的
 - population [n]全部居民, 人口, 生物族群
-- populist [adj]民粹主義的/吸引一般人的 [n]民粹主義者
+- **populist** [adj]民粹主義的/吸引一般人的 [n]民粹主義者
 
 ## pseudo, pseud 假 = *false*, pretended, unreal
 + pseudonym
@@ -6536,7 +6558,7 @@
 - import
 - importune
 * opportune --> opportunity
-- portage [n](兩水路間的)陸運 [v]把(貨物、小船等)轉到陸上運輸
+- **portage** [n] (兩水路間的)陸運 [v]把(貨物、小船等)轉到陸上運輸
 - portfolio
 + purport --> purported --> purportedly
 - rapport
@@ -6557,13 +6579,13 @@
 + quantifiable [adj]可量化
 
 ## quadm, quart 四 = *four*
-- quad [n]四邊形 = *quadrangle*, 四胞胎之一 = *quadruplet*, 股四頭肌 = *quadriceps* muscle, 四輪摩托車 = *quad* bike, 四聲道 = *quadraphony* [adj][非]四部組成的/四倍的 = *quadruple*, [非]四聲道的 = *quadraphonic*
+- quad [n]四邊形 = *quadrangle*, 四胞胎之一 = *quadruplet*, 股四頭肌 = *quadriceps* muscle, 四輪摩托車 = *quad bike*, 四聲道 = *quadraphony* [adj][非]四部組成的/四倍的 = *quadruple*, [非]四聲道的 = *quadraphonic*
 - quadrangle [n]四邊形, 周有建築物圍繞的方院
 * **quadruple** [adj]四倍的/四重的, 四部組成的 [v]成為四倍 [n]四倍數
-- quartet [n]四重奏/四重唱, 四人一組/四件一套
-* quarter [n]四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, 個人/群體, 住處/營地 [mn](對敗者的)寬恕/饒命 [v]把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = *traverse*
+- **quartet** [n]四重奏/四重唱, 四人一組/四件一套
+* quarter [n]四分, 季度, 一刻鐘, 25分硬幣, (牛、羊、家禽等)切成四分後的一塊, 四分之一磅, 馬的腰部/後腿, (城鎮的)區, 羅盤針的方位, **個人/群體**, **住處/營地** [mn]**對敗者的寬恕/饒命** [v]把…切成四部分, [be quartered]駐紮, 供……住宿, 橫渡/越過 = *traverse*
 - quarterback [n]四分衛
-- quartermaster [n]軍需官, 舵手
+- **quartermaster** [n]軍需官, 舵手
 
 ## quiesce, quiet, qui 安靜
 + [acquiesce](/ˌakwɪˈɛs/) [v]默認/默許 = *condone*
@@ -6572,22 +6594,23 @@
 - quiescence [n]靜止/休眠
 - quietude [n]寧靜/寂靜 = *clam*
 + **[disquiet](/dɪsˈkwʌɪət/)** [v]使憂慮/使不安 = *discompose* [n]不安/憂慮
-- quietus [n]生命的終止/死
+- **quietus** [n]生命的終止/死
 
 ## quit 釋放/放棄 = *release*, discharge
-* [acquit](/əˈkwɪt/) [v]宣判...無罪 = *absolve* = *exonerate* = *vindicate*, [oneself]表現 
+* **[acquit](/əˈkwɪt/)** [v]宣判...無罪 = *absolve* = *exonerate* = *vindicate*, [oneself]表現 
 - acquittal [n]宣判無罪
-- requite [v]報答/報復 = *recompense*, 回應(情感) = *respond* to <--> unrequited
+- **__requite__** [v]報答/報復 = *recompense*, 回應(情感) = *respond* to <--> unrequited
 
 ## quir, quer, quisit 尋找/取得 = *search*, obtain == *petr*
-- acquire [v]買得/獲得 = *buy* = *obtain*, 學到/養成 = *learn* = *develop* --> acquired [adj]後天習得的
-- [acquisitive](/əˈkwɪzɪtɪv/) [adj]渴望得到的/貪婪的 = *greedy* = *rapacious* = *covetous*, 收購的(公司)
+- acquire [v]買得/獲得 = *buy* = *obtain*, 學到/養成 = *learn* = *develop*
+- acquired [adj]後天習得的
+- **[acquisitive](/əˈkwɪzɪtɪv/)** [adj]渴望得到的/貪婪的 = *greedy* = *rapacious* = *covetous*, 收購的(公司)
 - acqhire, acquihire [n/v]購併雇用(購併的目的是為了取得被併公司的人才)
 - acquirer [n]收購者
 - acquiree [n]被收購者
 - conquer [v]以武力征服 = *overcome*, 克服(問題或弱點), 成功登上(山) 
 - conquest [n]征服 = *subjugation*, 征服地, 克服, 成功登上
-- disquisition [n]專題討論 <--> memoir
+- **disquisition** [n]專題討論 <--> memoir
 * [exquisite](/ˈɛkskwɪzɪt/) [adj]精緻的, **劇烈的/強烈的**, 敏銳的 = *sensitive* = *discriminating* [n]服飾過於講究的男子 = *dandy*
 * inquire [v]詢問/打聽, [into]調查 = *investigate* --> [inquiry](/ɪnˈkwʌɪri/) [n]打聽/質詢, 調查
 + inquisitive [adj]好問的/好奇的 = *intellectually* curious, 刺探的 = *prying*
@@ -6597,34 +6620,36 @@
 - [prerequisite](/priːˈrɛkwɪzɪt/) [n]必要條件 [adj]必備的/事先需要的/必修的
 - request [n/v]要求/請求 requisite
 + [requisite](/ˈrɛkwɪzɪt/) [adj]必要的/必需的 = *indispensable* = *essential* [n]必要之物 
-+ requisition [n]徵用, 徵用令/調撥單 [v]徵用, 需要 = *demand*
++ **requisition** [n]徵用, 徵用令/調撥單 [v]徵用, 需要 = *demand*
 
 ## queath, quest 説 = *say* == *dic* == *fable* == *log* == *ore*
-+ [bequeath](/bɪˈkwiːð/) [v]遺贈, 傳下/留下 --> bequest [n]遺產 = *legacy*, 傳下/留下
++ [bequeath](/bɪˈkwiːð/) [v]遺贈, 傳下/留下
++ bequest [n]遺產 = *legacy*, 傳下/留下
 + inquest [n]審訊/審理, 私下調查 <-- inquire
-- quest [v]搜尋/探求 = *search* for = *seek* out [n]尋找/探索 = *pursuit*
+- quest [v]搜尋/探求 = *search for* = *seek out* [n]尋找/探索 = *pursuit*
 - questionnaire [n]問卷/調查表
 
 ## quint 五 = *five*
-- quintet [n]五重奏
+- **quintet** [n]五重奏
 
 # R
 ## re, r, red
 1. 再次/重新/加強 = *again*
-	+ [rapprochement](/raˈprɒʃmɒ̃/) [n]恢復邦交/國家友好 = *reconciliation* <-- r + appro(a)ch + ment
+	+ **__[rapprochement](/raˈprɒʃmɒ̃/)__** [n]恢復邦交/國家友好 = *reconciliation* <-- r + appro(a)ch + ment
 	+ react [v]作出反應, [against]抗拒/反抗, 起化學作用 
 	- reactant [n]反應體/反應物
-	- [reactionary](/rɪˈakʃənəri/) [adj]反動的/極端保守的 [n]反動分子
+	- **[reactionary](/rɪˈakʃənəri/)** [adj]反動的/極端保守的 [n]反動分子
 	- reagent [n]試劑 <-- react + agent 
 	+ rally [n/v]召集/集會 = *muster* = *convene*, 重新振作/恢復 = *revive* = *recover* = *rebound* <-- r(e) + ally
 	- [realign](/riːəˈlʌɪn/) [v]調整…的位置, [realign oneself with]改變立場 <-- re + align
 	+ reassess [v]再評價/重新考慮 <-- re + assess
 	- rebate
-	- rebound [v]彈回, 回升, [up/upon]產生事與願違的結果 [n]彈回的球, 回升
-	+ [recalcitrant](/rɪˈkalsɪtrənt/) [adj]頑抗的/反抗的 --> recalcitrance [n]反抗 <-- re + calcitr 踢 = *kick* + ant
+	- rebound [v]彈回, 回升, **[up/upon]產生事與願違的結果** [n]彈回的球, 回升
+	+ **__[recalcitrant](/rɪˈkalsɪtrənt/)__** [adj]頑抗的/反抗的 <-- re + calcitr 踢 = *kick* + ant
+	+ recalcitrance [n]反抗 
 	+ recapitulate --> recapitulation
 	- recast [v]重鑄, 更換演員 <-- re + cast
-	+ recidivism [n]再犯/累犯
+	+ **__recidivism__** [n]再犯/累犯
 	* recite --> recitation 
 	- recital
 	+ recluse --> reclusive
@@ -6632,25 +6657,28 @@
 	- recommence [v]重新開始
 	- recompense
 	+ reconcile
-	+ recount [n/v]重新計算, 講述/敘述 <|> discount
-	* recoup [v]重獲 = *regain*, 補償 = *compensate* = *reimburse*, [法]請求扣除
-	* recreate [v]重造, 翻拍 = *reproduce* = *re*-enact --> recreation [n]娛樂, 重造
-	+ [recrudesce](/ˌriːkruːˈdɛs/) [v]復發 = *recur* = *relapse* --> recrudescent [adj]再發作的/復發的 <-- re + crud 變糟 = *worse* + escent
+	+ recount [n/v]重新計算, **講述/敘述** <|> **discount**
+	* **recoup** [v]重獲 = *regain*, 補償 = *compensate* = *reimburse*, [法]請求扣除
+	* recreate [v]重造, 翻拍 = *reproduce* = *re*-enact*
+	* recreation [n]娛樂, 重造
+	+ **[recrudesce](/ˌriːkruːˈdɛs/)** [v]復發 = *recur* = *relapse* <-- re + crud 變糟 = *worse* + escent
+	+ recrudescent [adj]再發作的/復發的 
 	- recruit
 	- redirect [n/v]改寄/轉發
 	- redistribution [n]重新分配
 	- redo [v]再做 [n/v]改裝 = *redecorate*
-	+ [redolent](/ˈrɛdəl(ə)nt/) [adj][of/with]令人想起……的 = *reminiscent*, 強烈的(氣味) <|> indolent <-- red + ol 聞 = *smell* + ent
+	+ **[redolent](/ˈrɛdəl(ə)nt/)** [adj][of/with]令人想起……的 = *reminiscent*, 強烈的(氣味) <|> **indolent** <-- red + ol 聞 = *smell* + ent
 	+ redouble [v]使加倍/加強
-	+ redoubtable [adj]令人敬畏的 = *formidable* 
-	+ redound <-- red + o + und
+	+ **__redoubtable__** [adj]令人敬畏的 = *formidable* 
+	+ **__redound__** <-- red + o + und
 	+ redundant <-- red + und + ant
 	+ redress [n/v]改正/修正 = *compensation* = *correction* = *remedy*
 	- re-enact [v]上演/再現, 重新制定 
 	- reenter [v]再次進入
 	- refection
 	- refectory
-	+ refine [v]提煉/精鍊 --> refined [adj]精製的, 有教養的/文雅的 = *polished* = *fine* = *cultured* = *elegant*, 精細的/完善的/精妙的 = *subtle* = *precise* = *exact*
+	+ refine [v]提煉/精鍊
+	+  refined [adj]精製的, 有教養的/文雅的 = *polished* = *fine* = *cultured* = *elegant*, 精細的/完善的/精妙的 = *subtle* = *precise* = *exact*
 	- refinery [n]提煉場/精鍊場
 	- reform [v]改革/革新, 使改邪歸正 [mn]改革/改良
 	- refrain [v]忍住/抑止 = *restrain* = *avoid* = *forbear* [n]疊句, 副歌, 口頭禪 <-- re + frain 籠頭 = *bridle*
@@ -6658,11 +6686,12 @@
 	- refresh [v]消除……疲勞/使精神振作 = *reinvigorate*, 更新/修正 = *revise* = *update*, 冰鎮
 	+ refreshment [n]茶點/便餐 [mn]恢復活力
 	+ refulgent
-	- refurbish [v]整修 = *renovate* = *redecorate* <-- re + furbish 
-	+ [regale](/rəˈɡeɪl/) [v]逗樂 = *entertain* = *amuse*, 款待 = *fete* <-- re + gale 喜悅 = *pleasure*
+	- **refurbish** [v]整修 = *renovate* = *redecorate* <-- re + furbish 
+	+ **[regale](/rəˈɡeɪl/)** [v]逗樂 = *entertain* = *amuse*, 款待 = *fete* <-- re + gale 喜悅 = *pleasure*
 	+ regard [v]將…認為/看待 = *think* = *consider*, 注視/凝視 = *gaze* [n]關心/關注 = *attention* = *concern*, 尊敬 = *respect* = *esteem*, 凝視, 問候/致意 = *greetings*
 	+ rehabilitate [v]使…康復/使…恢復正常生活, 復權/復職, 使恢復原狀 <-- re + habilitate
-	* rehearse [v]排練/預演/準備, 敘述 = *state* --> rehearsal [n]排演/演習/練習 <-- re + hearse 耙子 = *harrow*
+	* rehearse [v]排練/預演/準備, **敘述** = *state*
+	* rehearsal [n]排演/演習/練習 <-- re + hearse 耙子 = *harrow*
 	- reimburse [v]償還/歸還/補償 = *repay* <-- re + im + burse 錢包 = *bag*
 	+ reinforce [v]加固/使更結實 = *buttress*, 加深/進一步證實, 增援 <-- re + in + force
 	- reinstate [v]復職 = *rehabilitate* <-- re + in + state
@@ -8592,7 +8621,7 @@
 + abound [v]大量存在/有很多, [in/with]富含/充滿 = *teem* 
 + [inundate](/ˈɪnʌndeɪt/) [v]淹沒/氾濫 = *flood*, 壓倒 = *overwhelm* = *flood* 
 - inundation [n]壓倒, 洪水 = *flooding*
-+ redound [v]有助於(名聲)
++ **__redound__** [v]有助於(名聲)
 + redundant [adj]累贅的/多餘的 = *excessive* = *superfluous*
 - undulate [v]起伏 [adj]波浪形的
 - undulant [adj]起伏的 = *undulating*
