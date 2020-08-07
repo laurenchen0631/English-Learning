@@ -7143,6 +7143,7 @@
 
 ## super, supre, sur
 1. 超過/超 = *beyond*. exceed
+	- super [n]**管理員** = superintendent [adj]非常, 複合的 [adv]非常
 	- superable [adj]可克服的
 	+ insuperable
 	- superannuated [adj]領取退休金而退休的, 落伍的/廢棄的

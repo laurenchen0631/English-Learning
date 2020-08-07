@@ -132,6 +132,9 @@
 - get a taste for sth [v]嘗試
 - be dead meat [v] (某人)有大麻煩
 - whip it out [phrase]秀一下
+- I'll flash you [v]To show someone their naked body.
+- go nuts [v]大發雷霆/暴跳如雷
+- be all ears [v]全神貫注地聽/洗耳恭聽
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -208,6 +211,7 @@
 - fall guy [n]代罪羔羊 = *scapegoat*
 - call off [v]取消/停止進行
 - cut it out [v]停止/停下來
+- cave in [v]讓步/屈服/妥協
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -219,3 +223,4 @@
 - pipe dream [n]白日夢/空想
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
 - dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
+- cha-ching [n]錢
