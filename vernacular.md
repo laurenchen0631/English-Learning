@@ -31,6 +31,8 @@
 - hit the nail on the head [v]一針見血
 - on the top of that [adv]除此之外
 - in a nutshell [adv]概括地說
+- In the region of [adv]大約(數目)
+- out of the blue [adv]突然地
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -135,6 +137,13 @@
 - I'll flash you [v]To show someone their naked body.
 - go nuts [v]大發雷霆/暴跳如雷
 - be all ears [v]全神貫注地聽/洗耳恭聽
+- fall off the wagon [v]又重新喝起酒來
+- lose (one's) marbles [v]發瘋
+- **be killing it** [v]做得好
+- bee's knees [n]出類拔萃的人或事物
+- get the monkey off one's back [v]戰勝困難/解決問題
+- paint the town red [v]尋歡作樂
+- catch sb red-handed [v]當場抓到
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -224,3 +233,10 @@
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
 - dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
 - cha-ching [n]錢
+- card sharp [n]耍老千的人/以詐術贏錢者
+- beddy-byes [v]上床睡覺
+- red herring [n]轉移注意力的事情, 燻青魚
+- brown-noser [n]馬屁精
+- white lie [n]善意的謊言
+- pink slip [n]解雇通知單
+- yellow-bellied [adj]膽小的

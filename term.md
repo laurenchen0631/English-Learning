@@ -1,6 +1,7 @@
 ## Medicine
 - cartilaginous [adj]軟骨的
 - Adam's apple [n]喉結
+- **body cast** [n]石膏
 
 ## Food
 - fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns
@@ -19,6 +20,10 @@
 - Lutheranism [n]信義宗/路德宗
 - mazel tov [n]恭喜/祝好運(猶太用語)
 - house of worship [n]禮拜堂
+- namaste [n]印度的合十禮
+
+## Event
+- Flag Day [n]美國國旗紀念日(6月14)
 
 ## Art
 - papier-mache [n]混凝紙漿
@@ -38,6 +43,7 @@
 - hard copy [n]紙本拷貝
 - drill press [n]鑽床
 - auto transmission [n]汽車自動變速箱
+- wiper blade [n]汽車雨刷
 
 ## Finance
 - security deposit [n]保證金
@@ -62,6 +68,8 @@
 - aka [n]又名 = as known as
 - B.S. == Bullshit
 - VAT [n]增值稅/加值型營業稅 = value added tax
+- Wilco [v]照辦(通信用語) = will comply
+- CSR [n]企業社會責任 = Corporate Social Responsibility
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)
