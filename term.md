@@ -2,6 +2,7 @@
 - cartilaginous [adj]軟骨的
 - Adam's apple [n]喉結
 - **body cast** [n]石膏
+- cross section [n]剖面
 
 ## Food
 - fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns

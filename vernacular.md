@@ -144,6 +144,7 @@
 - get the monkey off one's back [v]戰勝困難/解決問題
 - paint the town red [v]尋歡作樂
 - catch sb red-handed [v]當場抓到
+- double back [v]回頭/原路往回
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -176,6 +177,7 @@
 - fill in for someone [v]代替/臨時補缺
 - knuckle down [v]開始認真
 - drive off [v]開走
+- drive up [v]靠邊停, 上漲
 - fill up [v]裝滿, 加滿油
 - take out [v]抽出/領出
 - hit on [v]與..調情, 突然想到/碰巧想出
@@ -187,6 +189,7 @@
 - write off [v]注銷/勾銷
 - cash in on [v]用...賺錢
 - close down (sth) [v]倒閉/停業
+- close in on sth [v]靠近
 - fall through [v]失敗/落空
 - **add up** [v]說得通/合情合理
 - add up to sth [v]總共是/合計為, 結果是/表示/意味著
@@ -195,6 +198,7 @@
 - end up [v]最後成爲/以…告終
 - throw up [v]嘔吐
 - drop off [v]下車, 入睡, 減少/下降
+- drop out [v]退出, 退學
 - touch down [v]著陸/降落
 - stop off somewhere [v]中途拜訪/中途停留
 - jump in [v]打斷/插嘴
@@ -212,6 +216,9 @@
 - rustle sth up [v]很快製作/湊合做成一頓飯
 - dig in [v]開始吃
 - cut back (on sth) [v]減少/削減/縮減
+- cut into sth [v]減少, 干擾
+- cut out [v]突然熄火/停止運轉
+- cut through [v]克服
 - turn up [v] (情況)突然好轉, 突然出現
 - tap into [v]使用…以獲得好結果
 - hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
@@ -221,6 +228,18 @@
 - call off [v]取消/停止進行
 - cut it out [v]停止/停下來
 - cave in [v]讓步/屈服/妥協
+- crack down [v]著手處理
+- crash out [v]很快入睡, 被淘汰出局
+- cue up [v]準備好, 排隊
+- draw on sth [v]利用
+- draw sth up [v]起草/草擬
+- (be) directed at [v]專注於
+- date back to (time) [v]追溯到
+- die of sth [v]因..而死
+- drown out [v]聲音壓過
+- drum up [v]召集
+- dry up [v]乾涸, 中斷
+- dumb sth down [v]使…簡化/將…通俗化
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -240,3 +259,5 @@
 - white lie [n]善意的謊言
 - pink slip [n]解雇通知單
 - yellow-bellied [adj]膽小的
+- escape hatch [n]出路
+- ethical lapse [n]過失
