@@ -3,6 +3,7 @@
 - Adam's apple [n]喉結
 - **body cast** [n]石膏
 - cross section [n]剖面
+- Rorschach [n]羅沙哈測驗(叫人解釋墨水點繪的圖形以判斷其性格)
 
 ## Food
 - fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns
@@ -14,6 +15,8 @@
 - pepper shaker [n]胡椒罐
 - sugar bowl [n]糖盅
 - rolling pin [n]桿麵棍
+- marinara [n]義大利麵醬/大蒜番茄醬
+- mayonnaise [n]蛋黃醬
 
 ## Religion
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
@@ -36,6 +39,9 @@
 - bench press [n]臥推
 - petanque [n]法式滚球
 
+## Entertainment
+- roller coaster [n]雲霄飛車
+
 ## Product
 - night cream [n]晚霜
 - monkey wrench [n]活動板手
@@ -45,6 +51,7 @@
 - drill press [n]鑽床
 - auto transmission [n]汽車自動變速箱
 - wiper blade [n]汽車雨刷
+- g-string [n]丁字褲
 
 ## Finance
 - security deposit [n]保證金
@@ -54,6 +61,7 @@
 - Dead Poets Society [n]春風化雨(是1989年彼得·威爾導演的電影。 本片講述一間傳統學校的老師用反傳統的方法來教學生們詩歌、文學、生活的故事)
 - Mrs. Doubtfire [n]窈窕奶爸(1993年美國的一部喜劇電影)
 - The Three Musketeers [n]三劍客/三銃士(法國作家大仲馬在1844年出版的小說)
+- Goodfellas [n]盜亦有道/四海好傢伙(一部1990年的美國黑幫犯罪電影，由導演馬丁·斯科塞斯所執導。劇本改編自美國作家尼古拉斯·派勒吉以真人真事為題材所撰寫的1985年非虛構書籍)
 
 ## Business
 - clickbait [n]點擊誘餌(指的是那些透過聳動的標題、熱點…等等，來達成吸引讀者點閱文章的目的)
@@ -71,6 +79,7 @@
 - VAT [n]增值稅/加值型營業稅 = value added tax
 - Wilco [v]照辦(通信用語) = will comply
 - CSR [n]企業社會責任 = Corporate Social Responsibility
+- DL [n]駕照 = driver's license
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)

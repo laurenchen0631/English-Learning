@@ -1932,6 +1932,7 @@
 	- **__disgruntle__** [v]使不高興/使不滿意 <-- dis + grunt + le
 	+ disguise [n/v]假扮 = *mask*, 掩飾/隱藏(感受) = *conceal* = *dissemble* = *mask* = *cloak*
 	- **dispensable**
+	- **disport** [v]玩耍/嬉戲 = *frolic* <|> **deport**
 	- **dissertate** --> dissertation
 	* dissipate
 	+ distort
@@ -2911,7 +2912,7 @@
 - configuration [n]結構/配置 = *form* = *arrangement*, 電腦配置, 原子組態
 - disfigure [v]損毀…的外觀/使毀容
 + **effigy** [n] (尤指被憎恨人的)肖像/雕像
-* figure [n]數字, 輪廓/人影, 體態, 人物/名人, 圖/表 [v]**出現/露頭角**, 計算, 認為/料到 = *expect*, 做圖表
+* figure [n]數字, 輪廓/人影, 體態, 人物/名人, 圖/表 [v]**出現/露頭角**, 計算, 認為/料到 = *expect*, 做圖表, [into]被包括在..的一部份
 * **figurative** [adj]比喻的/借喻的 = *metaphoric* <--> simile, 形象的/具象的
 - figurehead [n]有名無實的領導人/傀儡領袖, 船首像
 - figurine [n]小雕像/小塑像 = *statuette*
@@ -8197,6 +8198,7 @@
 - lobotomy [n]前腦葉白質切除術
 - phlebotomy [n]放血法 --> phlebotomist [n]放血師
 + [dichotomy](/dʌɪˈkɒtəmi/) [n]分裂對立
+- vasectomy [n]輸精管切除術
 
 ## the, thesis 放 = *put* == *pos*
 + antithesis [n]正相反的事物, 對比 = *contrast* [mn]對語/對句
@@ -8631,6 +8633,7 @@
 + underwrite [v]簽署/簽名同意支付/同意, 爲…承擔保險責任/爲…承保 = *guarantee*, 爲…提供財力支援並承擔經濟責任
 
 ## up 上 = *upper*, upwards
+- up-and-coming [adj]很有前途的
 - up-and-comer [n]有前途的人
 - up-close [adv]極近距離地 [adj]富含許多細節的
 - **upbeat** [adj]樂觀的 [n][音]上拍/弱音拍

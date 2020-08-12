@@ -33,6 +33,7 @@
 - in a nutshell [adv]概括地說
 - In the region of [adv]大約(數目)
 - out of the blue [adv]突然地
+- on pins and needles [adv]如坐針氈
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -145,6 +146,19 @@
 - paint the town red [v]尋歡作樂
 - catch sb red-handed [v]當場抓到
 - double back [v]回頭/原路往回
+- (as) fit as a fiddle [adj]非常健康
+- Has the cat got your tongue? [v]為何不吭聲
+- let the cat out of the bag [v]洩漏秘密
+- put the cat among the pigeons [v]造成軒然大波
+- chew the fat [v]閒聊
+- take the piss out of sb/sth [v]取笑
+- give the green light to sth [v]准許/許可
+- be down in the mouth [v]神色沮喪/垂頭喪氣
+- (down) in the dumps [adj]情緒低落/不高興
+- have a chip on one's shoulder [v]生氣/耿耿於懷
+- cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
+- come apart at the seams [v]處於崩潰邊緣
+- get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
 
 ## Demotic
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
@@ -207,6 +221,7 @@
 - ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
 - wind sb up [v]使生氣
 - put up with [v]忍受
+- put sb off (sth/sb) [v]使反感/使洩氣
 - root for [v]為..助威/聲援/為...加油
 - start over [v]重新開始
 - pig out [v]狼吞虎嚥
@@ -240,6 +255,12 @@
 - drum up [v]召集
 - dry up [v]乾涸, 中斷
 - dumb sth down [v]使…簡化/將…通俗化
+- sound out [v]試探....的意向
+- dig it [v]喜歡
+- butter someone up [v]拍馬屁
+- butt in [v]打斷/插嘴/插手
+- take aback [v]使吃驚
+- crack (sb) up [v]捧腹大笑/(使某人)哈哈大笑
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -261,3 +282,4 @@
 - yellow-bellied [adj]膽小的
 - escape hatch [n]出路
 - ethical lapse [n]過失
+- better half [n]配偶
