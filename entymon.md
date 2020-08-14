@@ -6533,7 +6533,7 @@
 + impeccable
 - **peccable** [adj]易犯罪的
 - **[peccadillo](/ˌpɛkəˈdɪləʊ/)** [n]輕罪/小過/小瑕疵 = *misdemeanor*
-- **__peccant__** [adj]致病的/疾病的 = *pathogenic*
+- **__peccant__** [adj]易犯罪的
 
 ## pecun 財富 = *wealth*
 + impecunious [adj]貧窮的 = *indigent* = *needy* = *poor* = *destitute* = *penniless* = *penurious* <--> affluent
@@ -6993,7 +6993,7 @@
 
 ## rept 爬行 = *snatch*, creep
 - reptile [n]爬蟲類
-- reptilian [adj]爬蟲類的, 令人討厭的 = *repulsive* [n]爬蟲類動物 = *reptile*
+- reptilian [adj]爬蟲類的, **令人討厭的** = *repulsive* [n]爬蟲類動物 = *reptile*
 - reptant [adj]爬行的
 + [surreptitious](/ˌsʌrəpˈtɪʃəs/) [adj]鬼鬼祟祟的/秘密的/偷偷的 = *clandestine* = *furtive* = *sly* = *stealthy*
 
@@ -7284,9 +7284,9 @@
 + constant [adj]穩定的/不變的 <--> mercurial, 忠誠的, 經常發生的/連續發生的 [n]不變的事物, [數]常數/常量/恆量
 * constancy [n]堅定/堅貞/忠誠, 恆久不變 <-- constant
 + constitute [v]構成/形成 = *form*, 等同於/被視爲 = *be equivalent to* = *correspond to*, 設立 = *establish by law*
-+ **constituent** [n]成分/構成部分/要素 = *component* = *element*, 選民 [adj]組成的/構成的 = *integrant*, 有選舉權的
++ **constituent** [n]成分/構成部分/要素 = *component* = *element*, **選民** [adj]組成的/構成的 = *integrant*, 有選舉權的
 - constituency [n]選舉區的全體選民, 共同利益者
-- constitution [n]憲法/章程, 構成/組成 = *composition*, 構成 = *forming*, 體質/**體格**, **性格** = *character*
+- constitution [n]憲法/章程, 構成/組成 = *composition*, 構成 = *forming*, **體質/體格**, **性格** = *character*
 - **constitutional** [adj]憲法或章程允許的, 體質的/體格的 [n]保健散步/保健運動 <|> constitute
 - contrast [n]對比 [v]對照/對比 = *compare*, 形成對比 = *differ*
 + **desist** [v]停止/中止 = *cease* = *abstain*
@@ -7331,7 +7331,7 @@
 - stay [v]停留/留下/保持, 堅持/忍耐 [n]逗留, 制止/遏止, **胸衣**
 - stance [n]姿勢/姿態, 態度/立場 = *standpoint*, 攀岩的立足處
 + **stanch**, **staunch** [v]止血 [adj]忠誠的 = *loyal*, 堅固的(牆壁)
-- standout [n][非]出眾的人或事物 [adj][非]傑出的
+- **standout** [n][非]出眾的人或事物 [adj][非]傑出的
 - standstill [n]停止/停滯
 - **stanza** [n]詩節/詩段 = *verse*
 * stately [adj]宏偉的/堂皇的, 莊嚴的/高貴的
@@ -7367,37 +7367,39 @@
 - destruction [n]毀滅/消滅, 毀滅的原因
 - infrastructure
 + instruct [v]命令/吩咐 = *tell* = *order*, 教導/指導 = *teach*, 通知/告知 = *inform*
-+ instructive [adj]有啟發性的
-- instruction [n]命令/指示, 用法說明/操作指南 [mn]教學/教育
++ **instructive** [adj]有啟發性的
+- instruction [n]命令/指示, 用法說明/操作指南 [mn]**教學/教育**
 + instructor [n]教練/指導者, 大學講師
 - obstruct [v]阻塞/堵塞 = *block* = *clog*, 阻止/阻撓/妨礙 = *prevent* = *hinder*, 妨礙公務
 
 ## stall 放 = *put*, place == *the* == *pos*
-* install [v]安裝/裝置, 使就職 = *induct* = *inaugurate*
-+ forestall [v]預先阻止 = *hinder*/prevent/thwart in advance, 搶先行動/預先做 = *anticipate*
-+ stall [n]欄/廄/柵, 貨攤/攤位, 車位, 正廳前座區 = *orchestra*, 熄火/拋錨/失速 [v]拋錨, 停止進展, 支吾其詞 = *prevaricate*, 拖延 = *delay*, 關入畜舍
+* install [v]安裝/裝置, **使就職** = *induct* = *inaugurate*
++ forestall [v]預先阻止 = *hinder/prevent/thwart in advance*, 搶先行動/預先做 = *anticipate*
++ stall [n]欄/廄/柵, 貨攤/攤位, 車位, 正廳前座區 = *orchestra*, **熄火/拋錨/失速** [v]拋錨, **停止進展**, **支吾其詞** = *prevaricate*, 拖延 = *delay*, **關入畜舍**
 
 ## strophe 轉 = *turn*
-- apostrophe [n](表示省略或所有格)撇號
+- apostrophe [n]撇號(表示省略或所有格)
 - strophe [n]詩節 = *verse* = *stanza*
-- catastrophe [n]大災難 = *apocalypse* = *cataclysm* = *disaster*, 悲劇的結局 = *denouement* --> catastrophic [adj]災難性的
+- catastrophe [n]大災難 = *apocalypse* = *cataclysm* = *disaster*, 悲劇的結局 = *denouement*
+- catastrophic [adj]災難性的
 
 ## scribe, script 寫 = *write* == *graph*
-+ ascribe [v][to]歸功於/歸咎於 = *attribute* = *impute*
-+ conscript [v]徵召入伍 = *enlist* [n]應徵入伍者
++ **__ascribe__** [v][to]歸功於/歸咎於 = *attribute* = **impute**
++ **conscript** [v]徵召入伍 = *enlist* [n]應徵入伍者
 + circumscribe
 - inscribe [v]題寫/刻寫/在某物上寫, 題贈, [幾何]内切
 - manuscript
-- prescribe [v]開處方, 規定/命令 = *direct* = *dictate* = *appoint* = *ordain* = *enjoin* 
+- prescribe [v]開處方, **規定/命令** = *direct* = *dictate* = *appoint* = *ordain* = *enjoin* 
 - prescription [n]處方, 命令/指示
-- prescriptive [adj]規定的, 慣例的
-+ proscribe [v](政府或其他權力機構)禁止 = *ban* = *forbid* = *prohibit* = *outlaw*, 譴責 = *condemn* = *denounce* <|> prescribe
+- **prescriptive** [adj]規定的, 慣例的
++ **proscribe** [v]禁止 = *ban* = *forbid* = *prohibit* = *outlaw* <|> prescribe
 - scribble [n/v]亂寫/亂塗 
-- scribe [n]抄寫員, 劃線器 [v]寫 = *write*, 用劃線器劃 --> scribal [adj]抄寫的
+- scribe [n]抄寫員, 劃線器 [v]寫 = *write*, 用劃線器劃
+- scribal [adj]抄寫的
 - script [n]手跡/筆跡, 劇本/腳本 [v]編寫
 - scripture [n]權威性著作/經文/聖典
-- scriptorium -> scriptoria [n]修道院的繕寫室/藏經樓
-+ subscribe [v]訂閱/訂購, 認購, [to]同意 = *agree* with, 簽署 = *sign*
+- **scriptorium** -> scriptoria [n]修道院的繕寫室/藏經樓
++ subscribe [v]訂閱/訂購, 認購, **[to]同意** = *agree with*, **簽署** = *sign*
 + transcribe [v]抄寫/謄寫, 轉譯, 改編(樂曲)
 - transcript [n]抄本/謄本, 學生成績報告單
 
@@ -7408,9 +7410,10 @@
 + conspicuous [adj]顯眼的/醒目的/顯著的 = *apparent* = *salient* = *observable* = *prominent*, 引人注目的 <|> conscious
 * despise [v]鄙視 = *contempt* = *spurn*
 * **despicable** [adj]卑劣的/可鄙的 = *contemptible* = *scurvy* = *abject* = *wretched*
-+ despite [prep]儘管 [n]輕視 = *contempt* = *disdain*
++ despite [prep]儘管 [n]**輕視** = *contempt* = *disdain*
 * expectancy [n]期待/盼望 
-+ inspect [v]檢查/審查 --> inspection [mn]檢驗/審視 = *scrutiny*
++ inspect [v]檢查/審查
++ inspection [mn]檢驗/審視 = *scrutiny*
 + introspect [v]內省/自省 --> introspective [adj]內省的/反思的
 + perspective [mn]透視圖法/遠近畫法 [n]景色 = *view* = *prospect*, 看法/觀點 = *point of view*, 洞察力 = *sense* of proportion
 + prospect [mn]前景/前途 [n]預期/盼望的事物, 可能成為主顧的人, 景象/景色 = *perspective* 
@@ -7420,38 +7423,40 @@
 + **perspicuous** [adj]清晰明白的 = *lucid*
 + **__perspicuity__** [n]明晰/簡明
 + respect [n/v]敬重/尊敬, 注重/重視 = *regard* [v]遵守/顧及 [n]敬意/問候 = *greeting*, 方面/點 = *aspect* = *point*
-+ respective [adj]個別的 
++ **respective** [adj]個別的 
 + respectively [adv]分別地/各自地
-+ respectable [adj]值得尊敬的, 體面的/文雅的, 相當的/可觀的
-+ **respite** [n]暫時的休息/喘息, (懲罰)緩期執行 [v]緩期執行 = *postpone*
++ respectable [adj]值得尊敬的, 體面的/文雅的, **相當的/可觀的** = *sizeable*
++ **__respite__** [n]暫時的休息/喘息, (懲罰)緩期執行 [v]緩期執行 = *postpone*
 - specialize [v][in]專攻/專門從事 <-- special
 - specialization [n]特別化/專門化, 專業分工, 特化
 + species [n]物種, 種/類 = *sort* = *kind*
 - [speciation](/ˌspiːʃɪˈeɪʃ(ə)n/) [n]物種形成
-- specific [adj]特定的 = *identified*, 明確的/具體的 = *precise*, 物種的, 獨有的/特有的 [n]特效藥 
+- specific [adj]特定的 = *identified*, 明確的/具體的 = *precise*, 物種的, 獨有的/特有的 [n]**特效藥** 
 - specifics [n]細節/詳情 = *details*
 - specimen [n]範例, 樣品, 標本
 + **[specious](/ˈspiːʃəs/)** [adj]似是而非的 <--> **plausible**, 華而不實的 = *meretricious* <|> [suspicious](/səˈspɪʃəs/)
 * [spectacle](/ˈspɛktək(ə)l/) [n]奇景/壯觀, 精彩的表演/壯觀的場面 <|> speculate
 + [spectacular](/spɛkˈtakjʊlə/) [adj]壯觀的/引人入勝的/引人注目的, 明顯的 = *obvious* [n]壯觀場面
-- spectator [n]觀眾/觀看者 = *audience* = *onlooker*
-- [specter](/ˈspektər/) [n]鬼魂/幽靈 = *ghost*, 陰影/恐怖之物 <|> spectator
-- spectral [adj]幽靈的 = *ghostly*, 光譜的
+- **spectator** [n]觀眾/觀看者 = *audience* = *onlooker*
+- **[specter](/ˈspektər/)** [n]鬼魂/幽靈 = *ghost*, 陰影/恐怖之物 <|> spectator
+- **spectral** [adj]幽靈的 = *ghostly*, 光譜的
 + spectrum [n]光譜/頻譜, 範圍, 端點
 - [spectroscopy](/spɛkˈtrɒskəpi/) [n]光譜學
 - spectrograph [n]光學光譜儀
 - spectrogram [n]光譜圖
-+ speculate [v]推測/猜想 = *infer* = *conjecture* = *surmise* = *guess*, 投機 --> speculation [n]推測/猜想, 投機
++ speculate [v]推測/猜想 = *infer* = *conjecture* = *surmise* = *guess*, 投機
++ speculation [n]推測/猜想, 投機
 + speculative [adj]推測的, 投機的 = *risky* <|> spectacular
-* spite [n]惡意 = *spleen* [v]存心使苦惱/故意傷害 
-* spiteful [adj]惡意的 = *malicious* = *malevolent* = *venomous* = *vicious* = *vindictive* = *wanton*
+* **spite** [n]惡意 = *spleen* [v]存心使苦惱/故意傷害 <|> **despite**
+* **spiteful** [adj]惡意的 = *malicious* = *malevolent* = *venomous* = *vicious* = *vindictive* = *wanton*
 + suspect [v]察覺, 懷疑 [n]嫌疑犯 [adj]不可信的/靠不住的
 - suspicion [n]懷疑, 嫌疑, 不信任 = *distrust*, 一點 
 - suspicious [adj]懷疑的 = *leery* = *wary*, 可疑的, 有嫌疑的
 
 ## sper
 1. 散開 = *scatter*, sprinkle
-	+ asperse [v]誹謗 --> aspersion [n]誹謗 = *calumny* = *slander*
+	+ asperse [v]誹謗
+	+ aspersion [n]誹謗 = *calumny* = *slander*
 	* disperse [v]使分散/散佈 = *intersperse* = *disseminate* = *scatter* = *squander* = *diffuse*, 分開, 消散/消失, 使色散
 	- [dispersal](/dɪˈspəːsəl/) [n]散布/傳播, 分散, 分賣
 	- intersperse [v]散佈 = *scatter*
@@ -7459,39 +7464,43 @@
 2. 希望 = *hope*
 	- despair [n/v]絕望 <|> desperate
 	* desperate [adj]絕望的, 危急的/險峻的 = *serious*, 暴力的 = *violent*, 極度渴望的 = *longing* <|> disparate
-	+ prosper [v]成功/繁榮 = *boom* = *bloom* = *thrive*, 成長茁壯 --> prosperity [n]成功/繁榮 = *bloom* = *boom*
-	+ prosperous [adj]興旺的/繁榮的 = *thrifty*, 吉利的 = *propitious* = *favorable* = *benign* = *auspicious*
+	+ prosper [v]成功/繁榮 = *boom* = *bloom* = *thrive*, 成長茁壯
+	+ prosperity [n]成功/繁榮 = *bloom* = *boom*
+	+ prosperous [adj]興旺的/繁榮的 = *thrifty*, **吉利的** = *propitious* = *favorable* = *benign* = *auspicious*
 
 ## spir, spire 呼吸 = *breathe*, blow == *hale*
 * aspire [v]嚮往/有志於, 屹立 = *tower*
-- aspirate [v]吸入 = *inhale*, 吸出 [n]吸出物, 送氣音 [adj]送氣音的 = *aspirated*
+- **aspirate** [v]吸入 = *inhale*, 吸出 [n]吸出物, 送氣音 [adj]送氣音的 = *aspirated*
 - aspiration [n]抱負/志向 = *ambition*, [醫]抽吸, 送氣音
 - aspirant [adj]有抱負的 [n]有抱負者
-+ conspire [v]共謀/密謀 = *collude* = *connive* = *plot*, 協力 = *cooperate* --> conspiracy [n]陰謀, 共謀
++ conspire [v]共謀/密謀 = *collude* = *connive* = *plot*, 協力 = *cooperate*
++ conspiracy [n]陰謀, 共謀
 - conspiratorial [adj]陰謀的/陰謀者的
-* inspire [v]激勵/鼓舞 = *abet*, 喚起/激起, 導致 = *give* rise to, 吸氣 = *inhale* 
-* inspiration [n]激勵/刺激, 靈感/啟示, 吸入 = *inhalation* --> inspired [adj]富有靈感的/有靈感的, 吸入的
+* inspire [v]激勵/鼓舞 = *abet*, 喚起/激起, 導致 = *give rise to*, **吸氣** = *inhale* 
+* inspiration [n]激勵/刺激, 靈感/啟示, 吸入 = *inhalation*
+* inspired [adj]富有靈感的/有靈感的, 吸入的
 * inspirational [adj]帶有靈感的 = *inspo* 
-* expire [v]去世, 期滿/到期, 呼氣 = *exhale* --> expiration [n]期滿/中止 = *termination*, 吐氣 = *exhalation*
-- perspire [v]出汗 = *sweat*
-- respire [v]呼吸 = *breathe*
+* expire [v]去世, 期滿/到期, **呼氣** = *exhale*
+* expiration [n]期滿/中止 = *termination*, 吐氣 = *exhalation*
+- **perspire** [v]出汗 = *sweat*
+- **respire** [v]呼吸 = *breathe*
 - respiration [n]呼吸, 一次呼吸
 - respirator [n]口罩/防毒面具, 人工呼吸機
-- transpire [v][it]被揭露 = *be* revealed, 發生 = *occur* = *happen*, (植物)蒸散
+- **__transpire__** [v][it]被揭露 = *be* revealed, 發生 = *occur* = *happen*, (植物)蒸散
 
 ## sail, sault, sult, sil, sali 跳 = *leap*, spring
 + assail [v]抨擊 = *decry*, 猛攻, 困擾 = *beset* = *harass*
 + assault [v]攻擊/襲擊, 轟炸 [n]襲擊/猛襲 = *onset*, [法]施暴, 抨擊
 - assailant [n]攻擊者
 * consult [v]諮詢/請教, 查閱 = *refer* [n]諮詢
-+ desultory [adj]無計劃的, 漫無目的的 = *rambling* = *random*
-- exult [v]狂喜/歡欣鼓舞 = *jubilate* = *rejoice* <|> exalt 
++ **desultory** [adj]無計劃的, 漫無目的的 = *rambling* = *random*
+- **exult** [v]狂喜/歡欣鼓舞 = *jubilate* = *rejoice* <|> exalt 
 - exultant [adj]狂喜的/歡欣鼓舞的 = *jubilant*
-+ insult [n/v]侮辱/謾罵 = *abuse* = *indignity* = *affront* [n]肌肉傷害
++ insult [n/v]侮辱/謾罵 = *abuse* = *indignity* = *affront* [n]**肌肉傷害**
 - **resile** [v]彈回, 撤銷
 - resilient [adj]有彈性的, 適應力強的
 - resilience, resiliency [n]恢復力, 彈性/彈力 = *elasticity*
-+ salient [adj]重要的/值得注意的 = *noticeable*, 顯眼的 conspicuous = *prominent*, 突出的/凸角的 [n]凸角, 戰線的突出部
++ **salient** [adj]重要的/值得注意的 = *noticeable*, 顯眼的 conspicuous = *prominent*, 突出的/凸角的 [n]凸角, 戰線的突出部
 - [salience](/ˈseɪlɪəns/), saliency [n]顯著/卓越 = *prominence*
 
 ## semble, simil, simul, sym, syn, syl 相同/一起 = *together*, similar == *co*
@@ -7499,81 +7508,91 @@
 - assembly [n]一群, 與會者, 零件 [mn]集會/集合, 裝配
 - assemblage [n]集合在一起的人或物, 裝配/裝置 [mn]聚集
 - asymmetric [adj]不對稱的
-* assimilate [v]理解/吸收 = *absorb* = *comprehend*, 使(民族、語音)同化, 消化/吸收 = *digest* = *absorb*, 把……比作 = *liken*, 與..相似 = *resemble*
-+ dissemble [v]掩蓋/掩飾(動機、感情、真相) = *conceal* = **dissimulate** = *pretend* = *cloak*
+* **assimilate** [v]理解/吸收 = *absorb* = *comprehend*, 使(民族、語音)同化, 消化/吸收 = *digest* = *absorb*, 把……比作 = *liken*, 與..相似 = *resemble*
++ **dissemble** [v]掩蓋/掩飾(動機、感情、真相) = *conceal* = **dissimulate** = *pretend* = *cloak*
 - **dissimulate** [v]掩蓋/掩飾 = *dissemble*
-* ensemble [n]劇團, 合唱曲, 協調, 整體, 穿搭
+* **__ensemble__** [n]劇團, 合唱曲, 協調, 整體, 穿搭
 + idiosyncrasy --> idiosyncratic
-+ resemble [v]像 = *seem* like = *parallel* = *assimilate*
++ resemble [v]像 = *seem like* = *parallel* = *assimilate*
 + resemblance [n]相似 = *affinity* = *correspondence* = *similarity* = *closeness*, 相似點
 + semblance [n]外貌/假象 = *guise*
 - similarity [n]相似 = *analogy* = *resemble*, 相似點 = *resemblance*
 + [simile](/ˈsɪmɪli/) [n]直喻/明喻 <|> smile <--> metaphor
 - simulate [v]模仿/偽裝, 假裝 = *pretend*, (電腦)模擬 <|> stimulate
-+ simulacrum -> simulacra [n]相似物, 幻影/假象
-* [simultaneous](/ˌsɪmlˈteɪnɪəs/) [adj]同時發生的 = *concurrent* = *synchronous* --> simultaneity [n]
-+ syllogism [n]三段論/演繹推理, 推論
++ **simulacrum** -> simulacra [n]相似物, 幻影/假象
+* [simultaneous](/ˌsɪmlˈteɪnɪəs/) [adj]同時發生的 = *concurrent* = *synchronous*
+* simultaneity [n]同時
++ **syllogism** [n]三段論/演繹推理, 推論
 + symbiosis
 + symmetry [n]對稱, 均勻, 相似處 = *resemblance* = *correspondence* = *similarity*
 + sympathy --> sympathetic
 - symphony
 - [sync](/sɪŋk/) [n]同步 = *synchronization* [v]同步 = *synchronize* <|> [sink](/sɪŋk/) 
 - synchronous [adj]同時的/同時發生的 = *simultaneous*
-- syndic [n]市政官 --> syndicate [n]企業聯合 = *conglomerate* [v]企業聯盟控制, 透過供稿聯合組織在報刊上同時發表
+- **syndic** [n]市政官
+- syndicate [n]企業聯合 = *conglomerate* [v]企業聯盟控制, 透過供稿聯合組織在報刊上同時發表
 - syndrome [n]綜合症狀 <-- syn + drome 跑 = *run*
-- synergy, synergism [n]合力/協力 --> synergetic, synergic [adj]合作的 <-- syn + erg 工作 = *work* + y
-+ synopsis -> synopses [n]概要/梗概 = *summary*, 大綱 = *outline* 
-+ synoptic [adj]概要的, 縱觀全局的 <-- syn + op 看 = *see* + sis
+- **synergy**, synergism [n]合力/協力 <-- syn + erg 工作 = *work* + y
+- synergetic, synergic [adj]合作的
++ **synopsis -> synopses** [n]概要/梗概 = *summary*, 大綱 = *outline* 
++ **synoptic** [adj]概要的, 縱觀全局的 <-- syn + op 看 = see + sis
 - synonym
-+ synthesis [n]綜合/合成 --> [synthesize](/ˈsɪnθəsʌɪz/) [v]綜合/合成
-* synthetic [adj]合成的/人造的 = *artificial* = *ersatz* = *faux*, 虛假的 = *insincere* = *illusive* = *faux* [n]合成物
++ synthesis [n]綜合/合成
++ [synthesize](/ˈsɪnθəsʌɪz/) [v]綜合/合成
+* synthetic [adj]合成的/人造的 = *artificial* = *ersatz* = *faux*, **虛假的** = *insincere* = *illusive* = *faux* [n]合成物
 - chemosynthetic [adj]化能合成的
 
 ## sim, sin 一 = *one*
-- simplex [adj]單純的/單一的 [n](非複合)單詞
-- simple [adj]簡單的/單純的, 樸素的, 謙遜的 = *humble* = *unpretentious*, 單一的, 頭腦簡單的 [n]草藥
+- simplex [adj]單純的/單一的 [n]非複合單詞
+- simple [adj]簡單的/單純的, 樸素的, 謙遜的 = *humble* = *unpretentious*, 單一的, 頭腦簡單的 [n]**草藥**
 - [simplicity](/sɪmˈplɪsɪti/) [n]簡易/簡明, 簡樸, 簡樸的事物
 + simplistic [adj]過分單純化的/被過分簡單化的
-+ simpleton [n]笨蛋
-- single [adj]單一的/單個的/孤單的/唯一的 = *solitary*, 單身的, 其中之一的 [n]個人 = *individual*, 單曲, 單人競賽 [v][out]選出/挑出, 疏(苗)
++ **simpleton** [n]笨蛋
+- single [adj]單一的/單個的/孤單的/唯一的 = *solitary*, 單身的, 其中之一的 [n]個人 = *individual*, 單曲, 單人競賽 [v]**[out]選出/挑出**, **疏苗**
 + singular [adj]單數的, 單個的/唯一的 = *single*, 非凡的/卓越的 = *unique* = *remarkable*, 異常的/奇異的 = *extraordinary* [n]單數型
 + singularity [n]獨特/唯一, 特點/怪癖 = *peculiarity*, (天文)奇點(密度無窮大、體積無窮小的點)
 
 ## semin 種子 = *seed*
 + disseminate [v]傳播/宣傳 = *disperse* = *spread* = *scatter* = *broadcast*
 - semen [n]精液
-+ seminal [adj]種子的, 精液的, 有發展性的/有創意的
-- seminary [n]神學院 <|> seminal
++ seminal [adj]種子的, 精液的, **有發展性的/有創意的**
+- **seminary** [n]神學院 <|> seminal
 
 ## sacr, secr, sanct 神聖 = *sacred*, holy
 + **__consecrate__** [v]使聖化/給…祝聖 = *sanctify* = *beatify* = *hallow*, 任命(神職) = *ordain*, 獻身於/致力於 = *devote*
 + **__[execrate](/ˈɛksɪkreɪt/)__** [v]憎恨/憎惡 = *loathe*
 + [execrable](/ˈɛksɪkrəb(ə)l/) [adj]惡劣的/極壞的 = *abhorrent*
 - [massacre](/ˈmasəkə/) [n]大屠殺 = *carnage* = *slaughter* = *genocide*, 慘敗 [v]屠殺, 遭慘敗
-+ [desecrate](/ˈdɛsɪkreɪt/) [v]玷污/褻瀆 = *defile* --> desecration [n]褻瀆/瀆神 = *blasphemy*
-- sacerdotal [adj]祭司的 <-- sacerdos 牧師 = *priest*
++ [desecrate](/ˈdɛsɪkreɪt/) [v]玷污/褻瀆 = *defile*
++ desecration [n]褻瀆/瀆神 = *blasphemy*
+- **sacerdotal** [adj]祭司的 <-- sacerdos 牧師 = *priest*
 - sacred [adj]神的, 宗教的, 神聖的, 莊嚴的, 不可侵犯的
 - sacrifice [n]犧牲, 放棄 [v]宰牲祭神, 放棄
 - [sacrificial](/sakrəˈfɪʃəl/)  [adj]獻祭的
-+ sacrilege [n]褻瀆/冒犯神靈 = *blasphemy* --> sacrilegious [adj]褻瀆神明的 <-- sacr + i + leg 偷取 = *steal* + e
-- sacrament [n]聖禮/聖典
++ **sacrilege** [n]褻瀆/冒犯神靈 = *blasphemy* <-- sacr + i + leg 偷取 = *steal* + e
++ sacrilegious [adj]褻瀆神明的
+- **[sacrament](/ˈsakrəm(ə)nt/)** [n]聖禮/聖典
 - sacramental [adj]聖禮的
 + sacrosanct [adj]極神聖的/不可侵犯的 = *numinous*
 * sanctify [v]使神聖化/使聖潔化 = *consecrate* = *purify*, 使可接受
-- sanctity [n]聖潔/神聖, 不可侵犯/神聖 = *inviolability*
+- **sanctity** [n]聖潔/神聖, 不可侵犯/神聖 = *inviolability*
 * sanctuary [n]避難所/庇護所 = *asylum* = *refuge*, 禁獵區 = *reserve*, 聖殿/聖堂 = *temple*
-+ [sanction](/ˈsaŋ(k)ʃ(ə)n/) [n/v]認可/批准 = *approve* = *ratify* = *permit* = *authorize*, 制裁/懲罰 = *penalize* [n]強硬措施
-+ sanctimony [n]假裝的虔誠 --> sanctimonious [adj]假裝虔誠的 = *pious* = *hypocritical* = *holier*-than-thou
++ **__[sanction](/ˈsaŋ(k)ʃ(ə)n/)__** [n/v]認可/批准 = *approve* = *ratify* = *permit* = *authorize*, 制裁/懲罰 = *penalize* [n]強硬措施
++ **sanctimony** [n]假裝的虔誠
++ sanctimonious [adj]假裝虔誠的 = *pious* = *hypocritical* = *holier*-than-thou
 
 ## sect, seg 切 = *cut* == *tomy*
 - bisect [v]切成兩半
 + [dissect](/dʌɪˈsɛkt/) [v]解剖, 仔細分析 = *analyze*
-- intersect [v]橫斷/交叉 --> intersection [n]交叉, 交叉點, 十字路口
-- section [n]部分/片段, 地區/地段, 組/團/小隊, 切面, 切開/切斷 [v]把……分成組, 將……切片
-- sect [n]宗派/教派, 黨派
-- sectary [n]門徒 <|> secretary
-+ sectarian [adj]宗派的/教派的, 嚴格遵守教義的 [n]教派成員, 嚴格遵守教義的人 --> sectarianism [n]宗派主義/教派意識
-- segment [n]部分/片段 = *fragment*, 線段/弓形, 體節 [v]分割/切割 --> segmental [adj]部分的, 弧形的
+- intersect [v]橫斷/交叉
+- intersection [n]交叉, 交叉點, 十字路口
+- section [n]部分/片段, 地區/地段, 組/團/小隊, **切面**, 切開/切斷 [v]把……分成組, 將……切片
+- **sect** [n]宗派/教派, 黨派
+- **sectary** [n]門徒 <|> secretary
++ sectarian [adj]宗派的/教派的, 嚴格遵守教義的 [n]教派成員, 嚴格遵守教義的人
++ sectarianism [n]宗派主義/教派意識
+- segment [n]部分/片段 = *fragment*, 線段/弓形, 體節 [v]**分割/切割**
+- segmental [adj]部分的, 弧形的
 + vivisection
 
 ## secu 跟隨 = *follow*, pursue
@@ -7581,14 +7600,15 @@
 - executioner [n]死刑執行者
 * [executive](/ɪɡˈzɛkjʊtɪv/) [adj]執行的, 行政上的, 商業用的 [n]執行者/經理/業務主管, 執行委員會, 行政部門
 - exec [n][非]執行者/經理/業務主管 <-- executive
-- executor [n]執行者, 遺囑執行人
+- executor [n]執行者, **遺囑執行人**
 - [consecutive](/kənˈsɛkjʊtɪv/) [adj]連續不斷的 = *continuous*
 - **[persecute](/ˈpəːsɪkjuːt/)** [v]迫害, 騷擾 = *harass* = *distract* = *pester*
 - **prosecute** [v]告發/提告, 把…進行到底 <|> persecute 
 - prosecution [n]起訴/告發, 持續進行
-- prosecutor [n]檢察官, 告訴律師
-+ secular [adj]世俗的 = *temporal* <--> sacred, 每一世紀發生一次的/延續幾個世紀的 [n]修道院外的教士
-- secularize [v]使世俗化, 使脫離宗教 --> secularization [n]世俗化
+- **prosecutor** [n]檢察官, 告訴律師
++ **__secular__** [adj]世俗的 = *temporal* <--> sacred, 每一世紀發生一次的/延續幾個世紀的 [n]修道院外的教士
+- secularize [v]使世俗化, 使脫離宗教
+- secularization [n]世俗化
 
 ## sent, sens, scent 感覺 = *feel*
 * assent [v]同意/贊成 = *accede* = *accord* = *consent* [n]同意 = *approval* = *agreement*, 許可 = *sanction*
@@ -7599,16 +7619,17 @@
 + dissenter [n]反對者/持異議者 = *maverick*
 + dissension [mn]意見不合 = *faction*
 - desensitized [adj]不敏感的, 麻木的 = *numb*
-- **insensate** [adj]無感覺的 = *unfeeling*, 無情的 = *unfeeling* = *cruel*, 無理性的/愚鈍的 = *foolish*
-+ **insensible** [adj]昏迷的/不省人事的 = *unconscious*, 發麻的/麻木的 = *numb*, [of/to]無動於衷的 = *indifferent* to = *unaware* of = *unresponsive*, 微不足道的 = *inappreciable*
-- **insentient** [adj]無知覺的/無生命的 = *inanimate*
+- **insensate** [adj]無感覺的 = *unfeeling*, 無情的 = *unfeeling* = *cruel*
+- **sensible** [adj]有知覺的, 明顯的, **明智的**, 意識到的/察覺到的
++ **insensible** [adj]沒有意識到的 = *indiscernible*, 無感覺的 = **insensate**, [of/to]無動於衷的 = *indifferent to*
++ sentient [adj]有知覺的 = *conscious*
+- **insentient** [adj]無知覺的/無生命的 = **insensate**
 * insensitive [adj]無動於衷的/漠不關心的 = *callous* = *indifferent*, 不敏感的/無感覺的 = *unfeeling* = *callous* = *obtuse*
 + **presentiment** [n]不祥的預感 = *premonition* = *hunch* = *foreboding* <|> resentment
 + resent [v]怨恨/不滿/憎惡 = *antipathy* = *bridle* 
 + resentment [n]憤慨/怨恨 = *pique* = *indignation*
 + sensation [n]**知覺/感覺**, **轟動**, 轟動的人或物
-+ **sensational** [adj]引起轟動的 = *lurid* = *shocking*, 非常好的/吸引人的
-- sensible [adj]明智的 = *reasonable* = *saint*, 有實用性的 = *practical*, 可察覺到的 
++ **sensational** [adj]引起轟動的 = *lurid* = *shocking*, **非常好的/吸引人的**
 + sensibility [n]敏感/識別力 = *sensitivity*, 纖細 = *delicacy*, 感覺
 - sensitive [adj]敏感的, 神經過敏的/纖細的 = *delicate*, 易怒的 = *cantankerous*, 要審慎處理的/機密的
 - sensitivity [n]敏感, 纖細
@@ -7617,51 +7638,53 @@
 + **sensual** [adj]肉體上的/感官享受的
 + sensuality [mn]感官滿足
 + **sensuous** [adj]感覺上的, 令人感官愉悅的
-+ sentient [adj]有知覺的 = *conscious*
 + [sententious](/sɛnˈtɛnʃəs/) [adj]愛說教的/說教式的 <|> tendentious <-- sentence 
-+ sentiment [n]意見/看法, 普遍意見, 感覺, 多愁善感 
-+ sentimental [adj]多情的, 感情用事的/多愁善感的 = *maudlin* = *mawkish* <--> unsentimental
++ **sentiment** [n]**意見/看法**, 普遍意見, **感覺**, 多愁善感 
++ sentimental [adj]多情的, **感情用事的/多愁善感的** = *maudlin* = *mawkish* <--> unsentimental
 - sentimentality [n]多愁善感
 - [sentinel](/ˈsɛntɪn(ə)l/) [n]哨兵/衛兵 = *sentry* = *lookout*, 疾病的徵兆 [v]站哨/守衛 = *station*
 - sentry [n]哨兵/衛兵 = *sentinel*
 
 ## sert 連結/加入 = *connect*, link, join == *junct* == *arthr*
 * assert [v]主張/斷言 = *insist* = *declare* = *affirm* = *contend* = *proclaim* = *uphold*, [oneself]表現強硬
-+ assertive [adj]堅定自信的/肯定的/武斷的
++ **assertive** [adj]堅定自信的/肯定的/武斷的
 + assertion [n]斷言/言明 [mn]主張/堅持
 - [desert](/dɪˈzəːt/) [v]拋棄 = *abandon* = *defect*, 離去 = *leave*, 逃兵 <|> dessert
 - [desert](/ˈdɛzət/) [n]沙漠, 無趣的地方 [adj]沙漠般的, 荒廢的 = *desolate*
 - [dessert](/dɪˈzəːt/) [n]甜點
-- **dissertate** [v]談論 = *discourse*, 寫論文 --> dissertation [n]專題論文
+- **dissertate** [v]談論 = *discourse*, 寫論文
+- dissertation [n]專題論文
 - [exert](/ɪɡˈzəːt/) [v]施加, [oneself]使努力/盡力
 - insert [v]插入 = *interpolate* [n]廣告頁
 
 ## sid, sess, sed, sedi 坐 = *sit* 
-+ assiduous [adj]勤勉的/堅持不懈的
++ **assiduous** [adj]勤勉的/堅持不懈的
 + dissident [n]持不同政見者 [adj]不贊成的 = *disagreeing*
-+ insidious [adj]陰險的/暗中危害的/不知不覺間加劇的 <|> invidious
++ **insidious** [adj]陰險的/暗中危害的/不知不覺間加劇的 <|> **invidious**
 + [obsess](/əbˈsɛs/) [v]迷住 = *preoccupy* = *haunt*, 煩擾 <|> [obese](/ə(ʊ)ˈbiːs/)
 - obsession [n]著迷 = *fixation*, 揮之不去的念頭 
-- obsessive [adj]
-- preside [v]主持/擔任主席, [over]負責, [at]主奏 
+- obsessive [adj]痴迷的/執著的/縈繞在心頭的 
+- **preside** [v]主持/擔任主席, [over]負責, [at]主奏 
 - president [n]總統, 校長, 長官
 - presidency [n]總統職位, 總統任期
 + [reside](/rɪˈzʌɪd/) [v]住/居住, 座落/位在, (權力)屬於/歸於, (特質)存在
-+ resident [n]居民, 留鳥, 住院醫生 [adj]定居的/常駐的
-- residency [n]居住/定居, 官邸, 住院醫師的實習期
++ resident [n]居民, 留鳥, **住院醫生** [adj]定居的/常駐的
+- residency [n]居住/定居, 官邸, **住院醫師的實習期**
 - residential [adj]居住的, 提供住宿的, 充滿住宅的
 - [residue](/ˈrɛzɪdjuː/) [n]剩餘物  <-- reside
 - [residual](/rɪˈzɪdjʊəl/) [adj]殘餘的/剩餘的 = *remnant* [n]剩餘, 重播費
 + sedate [adj]沉著的, 安靜的 [v]給…服用鎮靜劑
 + sedative [adj]鎮靜的 [n]鎮靜劑 = *hypnotic*
 + **[sedentary](/ˈsɛd(ə)ntəri/)** [adj]久坐不動的, 需要久坐的, 坐著的, 定棲的, 固著的 <|> **sedimentary**
-- sediment [n]沉積物, 渣 = *dregs* [v]沉積 --> sedimentary [adj]
-+ sedulous [adj]聚精會神的/勤勉的 = *diligent* = *assiduous* --> sedulity [n]勤勉/勤奮 = *diligence*
+- sediment [n]沉積物, 渣 = *dregs* [v]沉積
+- sedimentary [adj]沉積形成的
++ **sedulous** [adj]聚精會神的/勤勉的 = *diligent* = *assiduous*
++ sedulity [n]勤勉/勤奮 = *diligence*
 - session [n]開會/開庭, 學期, 期間
 + subside [v]平息/減弱, (水)消退, 下陷, 坐下/跪下
-* subsidy [n]輔助金
-- subsidize [v]補助, 補貼
-+ subsidiary [adj]附帶的/次要的 = *subordinate*, 隸屬的 [n]子公司
+* **__subsidy__** [n]輔助金
+- **subsidize** [v]補助, 補貼
++ **__subsidiary__** [adj]附帶的/次要的 = *subordinate*, 隸屬的 [n]子公司
 + **supersede** [v]接替/取代 = *supplant* = *replace* = *displace*
 
 ## sud 汗
@@ -7671,10 +7694,11 @@
 ## soci 同伴/社會 = *social*
 - associate [v]連結 = *connect*, [be associated with]與..有牽連, 來往/交往 [n]合夥人/夥伴/同事 = *partner* = *companion*, 準會員, 關聯 [adj]聯合的, 副的
 - association [n]聯盟/協會 = *syndicate*, 聯合 = *connection*, 關聯
-- dissociate [v]使分離 
+- **dissociate** [v]使分離
 - dissociation [n]分離/游離, 精神分裂
 * sociable [adj]好交際的/善於社交的 = *convivial* = *gregarious*
-* society [n]社會, 社團/協會 = *organization* = *club*, 交際 --> social [adj]社會的, 社交的/交際的, 社會性的/群居的 [n]聯誼會/聯歡會
+* society [n]社會, 社團/協會 = *organization* = *club*, 交際
+* social [adj]社會的, 社交的/交際的, 社會性的/群居的 [n]聯誼會/聯歡會
 - [societal](/səˈsʌɪɪtəl/) [adj]社會的
 - [sociology](/səʊʃɪˈɒlədʒi/) [n]社會學(是一門研究社會的學科。社會學使用各種研究方法進行實證調查和批判分析，以發展及完善一套有關人類社會結構及活動的知識體系，並會以運用這些知識去尋求或改善社會福利為目標)
 
@@ -7686,55 +7710,59 @@
 
 ## suage 甜 = *pleasant*, sweet
 + [assuage](/əˈsweɪdʒ/) [v]減輕/緩和 = *alleviate* = *allay*, 滿足 = *satisfy* = *sate* = *indulge* = *gratify*
-- [suave](/swɑːv/) [adj]溫文爾雅的 = *debonair*
+- **[suave](/swɑːv/)** [adj]溫文爾雅的 = *debonair*
 
 ## suade 建議/力勸 = *urge*, recommend
 - [dissuade](/dɪˈsweɪd/) [v][from]勸阻/阻止 = *discourage* = *prevent*
-- persuade [v]說服 = *induce* = *tempt* = *convince* = *prevail* on, 使相信 = *convice*
+- persuade [v]說服 = *induce* = *tempt* = *convince* = *prevail on*, 使相信 = *convice*
 
 ## sume, sumpt 拿/取 = *take*
-+ [assume](/əˈsjuːm/) [v]假定 = *presume*, 取得/獲得(權力) = *take*, 僭取/奪取(權力) = *seize*, 採取/採用 = *adopt* <--> abdicate
++ [assume](/əˈsjuːm/) [v]假定 = *presume*, 取得/獲得(權力) = *take*, **__僭取/奪取(權力)__** = *seize*, 採取/採用 = *adopt* <--> abdicate
 - assuming [conj][that]假使 = *granted* <|> unassuming
-+ assumption [n]設想, 奪取/取得(權力)
++ assumption [n]設想, **奪取/取得(權力)**
 - consume [v]吃/喝, 燒毀, 耗盡 = *deplete*, 購買 = *buy*, 充滿(情緒) = *fill*
-- consumptive [adj]肺病的/患肺癆的, 消耗性的 [n]肺癆病人
-+ presume [v]假定/假設 = *suppose* = *assume*, 視..為理所當然 = *take* for granted, 擅自/冒然 = *dare*
+- consumptive [adj]**__肺病的/患肺癆的__**, 消耗性的 [n]肺癆病人
++ presume [v]假定/假設 = *suppose* = *assume*, 視..為理所當然 = *take for granted*, 擅自/冒然 = *dare*
 + **[presumptuous](/prɪˈzʌmptʃʊəs/)** [adj]放肆的/專橫的 = *arrogant* = *overweening* = *petulant*
 + presumption [n]推測/假定, 冒昧/放肆的行為 = *effrontery*
 + **presumptive** [adj]推斷的, [法]推定的, 放肆的/專橫的 = *presumptuous*
 - [resume](/rɪˈzjuːm/) [v]重新開始/繼續 = *renew*, 收回/取回
-- [r](/ˈrɛzjʊmeɪ/)ésumé [n]摘要/梗概 = *summary*
-+ subsume [v]歸入/納入 = *include* = *absorb*
-- [sumptuous](/ˈsʌm(p)tjʊəs/) [adj]豪華的/奢侈的
+- [résumé](/ˈrɛzjʊmeɪ/) [n]摘要/梗概 = *summary*
++ **__subsume__** [v]歸入/納入 = *include* = *absorb*
+- **[sumptuous](/ˈsʌm(p)tjʊəs/)** [adj]豪華的/奢侈的
 
 ## sure 肯定
-- assure [v]使確信, [oneself]確認 = *make* sure of, 確保, 保障
+- assure [v]使確信, [oneself]確認 = *make sure of*, 確保, 保障
 * reassure [v]使安心/使消除疑慮
 
 ## string, strain, strict 拉緊 = *draw* tight, draw togerher
 + **astringent** [adj]收縮的, 酸澀的(味道), 辛辣的/尖刻的 = *acerbic* = *severe* = *harsh* [n]止血劑
 + constrain [v]強迫 = *compel* = *coerce*, 限制 = *restrict* = *confine* = *restrain*, 監禁 = *imprison* = *restrain*
 + constraint [n]約束/限制
-- constrict [v]壓縮/緊縮, 阻止/束縛 = *inhibit* = *restrict* --> constriction [n]壓縮, 阻塞物 = *obstruction*
-- distrain [v]扣押(財物)
-+ prestige [n]威信/威望/聲望 = *cachet* --> prestigious [adj]有聲望的/有威信的
-+ restrain [v]克制/制止 = *constrain* = *bridle* = *shackle* = *stint*, 抑制 = *suppress*, 監禁/剝奪(自由) --> restrained [adj]不帶感情的, 保守的(裝飾) = *understated* = *low*-key, 受控制的 
-+ restraint [n]控制 = *control*, 監禁, 拘束裝置, 自制力 = *self*-control, 保守
-* restrict [v]限制/控制, 監禁 = *restrain* --> restriction [n]限制規定, 限制/控制 = *control* = *stricture*
+- constrict [v]壓縮/緊縮, 阻止/束縛 = *inhibit* = *restrict*
+- constriction [n]壓縮, 阻塞物 = *obstruction*
+- **distrain** [v]扣押(財物)
++ prestige [n]威信/威望/聲望 = *cachet*
++ prestigious [adj]有聲望的/有威信的
++ restrain [v]克制/制止 = *constrain* = *bridle* = *shackle* = *stint*, 抑制 = *suppress*, 監禁/剝奪(自由)
++ restrained [adj]不帶感情的, 保守的(裝飾) = *understated* = *low-key*, 受控制的 
+* unrestrained [adj]不受限制的/無節制的
++ restraint [n]控制 = *control*, 監禁, 拘束裝置, 自制力 = *self-control*, 保守
+* restrict [v]限制/控制, 監禁 = *restrain*
+* restriction [n]限制規定, 限制/控制 = *control* = *stricture*
 * restrictive [adj]限制性的
-+ strain [v]竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 [n]張力, 扭傷, 濫用, 旋律/曲子, 物種/種類, 傾向 = *tendency*
-* strained [adj]緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = *artificial* = *forced*, 牽強的 = *laboured* = *far*-fetched contrived, 扭傷的, 過濾出來的
++ strain [v]竭力, 扭傷, 濫用, 拉緊/拉伸, 過濾 [n]張力, 扭傷, 濫用, **旋律/曲子**, **物種/種類**, **傾向** = *tendency*
+* **__strained__** [adj]緊張的/焦慮的/神色不安的, 勉強的/裝出來的 = *artificial* = *forced*, 牽強的 = *laboured* = *far-fetched* = **contrived**, 扭傷的, 過濾出來的
 + strict [adj]嚴格的 = *stern* = *severe* = *austere* = *stringent*, 嚴格遵守規定的, 屬實的/精確的 = *exact*
 + stricture [n]限制 = *restriction*, 苛評/非難 = *censure*, [醫]狹窄部位
-- string -> strung -> strung [n]細繩/線, 弦, 一串/一行/一列, 纖維/筋 [v]掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, 戲弄/欺騙, [along]長期哄騙/敷衍 <|> spring -> sprang -> sprung
-+ **stringent** [adj]嚴格的/精確的 = *strict* = *stern* = *severe* = *austere* = *precise* = *exacting*
-- stringy [adj]細長的, 多纖維的/多筋的, 黏稠的
-* unrestrained [adj]不受限制的/無節制的
+- string -> strung -> strung [n]細繩/線, 弦, 一串/一行/一列, 纖維/筋 [v]掛, 穿/串起, 使排成一列, 上弦於..上/調..的弦, 抽去（豆莢等的）筋, **戲弄/欺騙**, **[along]長期哄騙/敷衍** <|> **spring -> sprang -> sprung**
++ **__stringent__** [adj]嚴格的/精確的 = *strict* = *stern* = *severe* = *austere* = *precise* = *exacting*
+- stringy [adj]細長的, 多纖維的/多筋的, **黏稠的**
 
 ## stern 散播 = *strew*, spread
-- consternate [v]使驚恐
-- *consternation* [n]驚恐/驚惶失措 = *shock*
-* stern [adj]嚴厲的/苛刻的 = *severe* [n]船尾
+- **__consternate__** [v]使驚恐
+- **consternation** [n]驚恐/驚惶失措 = *shock*
+* **stern** [adj]嚴厲的/苛刻的 = *severe* [n]船尾
 
 ## sphere 球/團
 - atmosphere [n]大氣層, (特定場所的)空氣, 氣氛/環境/氛圍
@@ -7742,19 +7770,19 @@
 + hemisphere [n]半球, 腦半球
 - heliosphere [n]太陽圈
 - [magnetosphere](/maɡˈniːtəsfɪə/) [n]磁氣圈/磁層(一個天體周圍、以該天體的磁場為主的地區)
-- [stratosphere](/ˈstratəˌsfɪə/) [n]平流層, [非]最上層/巔峰
-- [troposphere](/ˈtrɒpə(ʊ)sfɪə/) [n]對流層
-- mesosphere [n]中氣層
+- **[stratosphere](/ˈstratəˌsfɪə/)** [n]平流層, [非]最上層/巔峰
+- **[troposphere](/ˈtrɒpə(ʊ)sfɪə/)** [n]對流層
+- **mesosphere** [n]中氣層
 - thermosphere [n]熱層/熱成層
 
 ## scend, scens, scent 爬 = *climb*
 - ascend [v]攀登 = *climb*, 上升 = *rise*, 晉升 = *promote*
 - ascent [n]登高, 上坡, 上升, 晉升
 + ascendancy, ascendency [n]優勢/權勢 = *dominance* = *predominance*
-+ condescend [v]懷著優越感地對待 = *patronize*, 屈尊做 = *deign* 
++ condescend [v]懷著優越感地對待 = *patronize*, **屈尊做** = *deign* 
 + condescension [n]高傲態度 = *disdain*
 + condescending [adj]有優越感的/高傲的 = *patronizing* 
-* descend [v]下降, 下傾/下坡, [to]屈尊, [to]陷入(困境), [on/upon]突然襲擊, [on/upon]突然拜訪, (黑暗)降臨, [be descended from]為……的後裔, 遺贈
+* descend [v]下降, 下傾/下坡, **[to]屈尊**, [to]陷入(困境), **[on/upon]突然襲擊**, **[on/upon]突然拜訪**, (黑暗)降臨, [be descended from]為……的後裔, **遺贈**
 * descent [n]下降/下坡, 墮落, 血統/世系, 遺贈, 突擊, 突訪
 - [descendant](/dɪˈsɛndənt/) [n]後代/後裔
 + transcend [v]超出/超過 = *exceed* = *overpass* = *surpass*, 超越/優於 = *surpass* = *excel* = *outstrip*
@@ -7762,14 +7790,16 @@
 - transcendental [adj]超凡的/人智所不及的, 先驗的
 
 ## sci 知道 = *know* == *nois* == *gnost* == *cogn*
-+ [conscious](/ˈkɑn(t)ʃəs/) [adj]神志清醒的, [of]意識到的/察覺到的, 故意的/存心的 = *deliberate* = *intentional* <|> conspicuous
++ [conscious](/ˈkɑn(t)ʃəs/) [adj]神志清醒的, [of]意識到的/察覺到的, **故意的/存心的** = *deliberate* = *intentional* <|> conspicuous
 - consciousness [mn]有知覺/清醒 [n]感覺/覺察
-+ [conscience](/ˈkɒnʃ(ə)ns/) [n]良心/善惡觀念 <|> [conscious](/ˈkɑn(t)ʃəs/)
-+ [conscientious](/ˌkɒnʃɪˈɛnʃəs/) [adj]本著良心的 = *principled*, 勤勉認真的 = *assiduous*
++ **[conscience](/ˈkɒnʃ(ə)ns/)** [n]良心/善惡觀念 <|> [conscious](/ˈkɑn(t)ʃəs/)
++ **[conscientious](/ˌkɒnʃɪˈɛnʃəs/)** [adj]本著良心的 = *principled*, **勤勉認真的** = *assiduous*
 - conscionable [adj]合乎良心的/公正的 = *scrupulous* <|> unconscionable
-+ nescient [adj]無知的 = *ignorant* <-- ne == *not* + sci
-- [omniscient](/ɒmˈnɪsɪənt/) [adj]無所不知的/博識的 --> omniscience [mn]無所不知
-+ prescient [adj]有先見之明的 --> prescience [n]預知/先見 = *foreknowledge* = *foresight* = *presage*
++ **nescient** [adj]無知的 = *ignorant* <-- ne == *not* + sci
+- [omniscient](/ɒmˈnɪsɪənt/) [adj]無所不知的/博識的
+- omniscience [mn]無所不知
++ **prescient** [adj]有先見之明的 <|> **precinct**
++ prescience [n]預知/先見 = *foreknowledge* = *foresight* = *presage*
 - science [n]科學, 學科, 學問
 - scientific [adj]科學的, 系統的/精確的
 - sci-fi [n][非]科幻小說 = *science* fiction
@@ -7779,49 +7809,51 @@
 * consequent [adj]作爲結果的/隨之而來的 [n]後項
 * consequential [adj]作爲結果的/隨之而來的, 重要的
 + inconsequential
-+ obsequious [adj]逢迎的/諂媚的 = *courtly* = *fawning* = *obedient*
-+ [obsequies](/ˈɒbsɪkwɪz/) [n]喪禮 = *funeral* ceremony
-+ sequence [n]順序, 連續, 連續鏡頭 [v]照順序排列 --> sequential [adj]次序的/順序的
++ **obsequious** [adj]逢迎的/諂媚的 = *courtly* = *fawning* = *obedient*
++ **__[obsequies](/ˈɒbsɪkwɪz/)__** [n]喪禮 = *funeral* ceremony
++ sequence [n]順序, 連續, 連續鏡頭 [v]照順序排列
++ sequential [adj]次序的/順序的
 - subsequent [adj]隨後的/後來的 = *following* = *consequent*
-- [sequela](/sɪˈkwiːlə/) -> sequelae [n]後遺症
+- **[sequela](/sɪˈkwiːlə/)** -> sequelae [n]後遺症
 
 ## serv 奴隸 = *slave*
-- service [n]服務, 服務費, 工作期, 公共設施, 軍隊, 服役, 宗教儀式, 維修/保養, 發球, (傳票等的)送達 [v]檢修/維修/保養, 為……服務, 付..的利息, 交配 = *mate* with
-- serviceable [adj]有用的 = *usable*, 正常運作的, 耐用的 = *durable*
-+ servile [adj]奴性的/奴隸的, 卑躬的/諂媚的 = *submissive* = *obedient* = *subservient* = *docile* = *deferential*
+- service [n]服務, 服務費, 工作期, 公共設施, 軍隊, **服役**, 宗教儀式, 維修/保養, **發球**, **(傳票等的)送達** [v]檢修/維修/保養, 為……服務, **付..的利息**, **交配** = *mate with*
+- serviceable [adj]有用的 = *usable*, 正常運作的, **耐用的** = *durable*
++ **servile** [adj]奴性的/奴隸的, 卑躬的/諂媚的 = *submissive* = *obedient* = *subservient* = *docile* = *deferential*
 - servitude [n]奴役(狀態) = *yoke*
 
 ## serve 服務/保持/看 = *keep*, look
 * conserve [v]保存/保留/保護, 醃漬 [n]糖漬食品/蜜餞/果醬 = *preserve*
 - **conservatory** [n]溫室, 音樂學院/藝術學院 = *conservatoire*
 + conservative [adj]保守的, 保守黨的, 保守估計的, 防腐的 [n]保守者/守舊者, 保守黨員/保守黨派
-+ observe [v]注意/察覺 = *notice* = *perceive*, 評論 = *remark*, 遵守 = *comply* = *respect*, 慶祝(節日) 
-+ observation [n]觀察, 洞察力, 評論/意見 = *remark* = *review*
++ observe [v]注意/察覺 = *notice* = *perceive*, 評論 = *remark*, **__遵守__** = *comply* = *respect*, 慶祝(節日) 
++ observation [n]觀察, 洞察力, **評論/意見** = *remark* = *review*
 - observatory [n]天文台/氣象臺/觀察站
-+ preserve [v]保存/維護/維持 = *maintain* = *retain*, 醃/防腐 [n]糖漬食品/蜜餞/果醬, 保護區/禁獵區 = *sanctuary* 
++ preserve [v]保存/維護/維持 = *maintain* = *retain*, 醃/防腐 [n]**糖漬食品/蜜餞/果醬**, 保護區/禁獵區 = *sanctuary* 
 - **preservative** [adj]防腐的 [n]防腐劑
-* reserve [v]保存/保留, 預約/預訂, 延遲作出(判決) [n]儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = *reserve* price
+* reserve [v]保存/保留, 預約/預訂, 延遲作出(判決) [n]儲備物/保留金, 預備軍/後備隊, 儲備選手/候補, 保留地/保護區/禁獵區, 含蓄, 預訂價格 = *reserve price*
 + reserved [adj]預訂的/保留的, 沉默寡言的/含蓄的
 + [reservoir](/ˈrɛzəvwɑː/) [n]水庫/蓄水池, 儲藏/積累, 儲液囊
-- serve [v]為……服務, 服役, 供應(飯菜), 侍候, 足夠, [法]送達(傳票等), 適合/用於, 對待, 發球 [n]發球
-+ subservient [adj]屈從的 = *servile* = *submissive* = *deferential*, 次要的 = *subordinate*, 作為..目的的
+- serve [v]為……服務, 服役, 供應(飯菜), 侍候, **足夠**, **[法]送達(傳票等)**, 適合/用於, 對待, **發球** [n]發球
++ **subservient** [adj]屈從的 = *servile* = *submissive* = *deferential*, 次要的 = *subordinate*, 作為..目的的
 
 ## sign 標出 = *mark*, seal
-* assign [v]分配 = *allocate*, 指派 = *appoint*, [to]把…歸因 = *ascribe*, [法]讓渡
+* assign [v]分配 = *allocate*, 指派 = *appoint*, [to]把…歸因 = *ascribe*, **[法]讓渡**
 * assignment [n]任務/功課, 分配, 指派, 轉讓
-* consign [v]託付/投遞/托運 = *send* = *deliver*, [to]丟棄 --> consignment [n]託付物/委託貨物, 交付/運送
+* consign [v]託付/投遞/托運 = *send* = *deliver*, [to]丟棄
+* consignment [n]託付物/委託貨物, 交付/運送
 - design [n/v]設計, 計畫/謀劃 [mn]計畫
 - designate [v]指定 = *appoint* = *assign*, 把..定名為/稱呼 (post adj)新指定的/新任命的
-- designation [n]指定 = *indication*, 名稱/稱呼 = *name* = *title*
-- insignia [n]階級, 徽章/袖章 = *badge* = *emblem*
-+ resign [v]辭去/放棄, [oneself to]認命
+- designation [n]指定 = *indication*, **名稱/稱呼** = *name* = *title*
+- **insignia** [n]階級, 徽章/袖章 = *badge* = *emblem*
++ resign [v]辭去/放棄, **[oneself to]認命**
 + **resigned** [adj]逆來順受的/認命的 
 + resignation [mn]認命, 辭職, 辭呈
-+ signal [adj]顯著的/不尋常的 [n]信號, 鐵路指示燈 [v]發信號, 命令 = *instruct*
-- signify [v]表示/意味 = *indicate*, 有重要性/很重要/要緊
++ signal [adj]**顯著的/不尋常的** [n]信號, 鐵路指示燈 [v]發信號, 命令 = *instruct*
+- signify [v]表示/意味 = *indicate*, **有重要性/很重要/要緊**
 - signifier [n]指示符
-+ significant [adj]重要的, 意義深長的 = *pregnant*
-+ significance [n]重要性 = *importance* = *consequence*, 意義 = *import* = *meaning*
++ significant [adj]重要的, **意義深長的** = *pregnant*
++ significance [n]重要性 = *importance* = *consequence*, **意義** = *import* = *meaning*
 - signature [n]簽名, 調號/拍號, 識別標誌, 處方指示 [mn]簽署
 
 ## son 聲音 = *sound*
@@ -7829,20 +7861,20 @@
 + dissonant [adj]不和諧的/不一致的 = *discordant* = *incompatible* 
 + dissonance [n]不和諧/不一致
 + resonate [v]共鳴/發出迴響, 勾起 = *evoke*, 同意/一致, 共振
-+ resonant [adj]響亮的 = *orotund* = *stentorian*, 引起共鳴的/引起聯想的 = *reminiscent*
++ resonant [adj]響亮的 = *orotund* = *stentorian*, **引起共鳴的/引起聯想的** = *reminiscent*
 + resonance [n]共鳴/回響, 共振
 - sonic [adj]聲音的
-- sonata [n]奏鳴曲
-- sonnet [n]十四行詩
+- **sonata** [n]奏鳴曲
+- **__sonnet__** [n]十四行詩
 
 ## stell, sider 星星 = *star* == *astro*
-- consider [v]認真考慮/斟酌 = *ponder* = *deliberate* = *reflect* = *entertain*, 認爲 = *reckon* = *suppose*, 注視 = *regard*
+- consider [v]認真考慮/斟酌 = *ponder* = *deliberate* = *reflect* = *entertain*, 認爲 = *reckon* = *suppose*, **注視** = *regard*
 + considerable [adj]相當多的/相當重要的/值得考慮的/相當的 = *significant* = *substantial* <--> inconsiderable
-- considerate [adj]考慮周到的
+- **__considerate__** [adj]考慮周到的
 - constellation [n]星座/星群, 群集
-+ [desideratum](/dɪˌzɪdəˈrɑːtəm/) -> desiderata [n]需要的東西
++ **[desideratum](/dɪˌzɪdəˈrɑːtəm/) -> desiderata** [n]需要的東西
 - interstellar [adj]星際的
-- stellar [adj]恆星的/星球的, 傑出的/優秀的 = *outstanding*, 明星的
+- stellar [adj]恆星的/星球的, **傑出的/優秀的** = *outstanding*, 明星的
 + [sidereal](/sʌɪˈdɪərɪəl/) [adj]恆星的
 
 ## still 水滴 = *drop*
@@ -7856,13 +7888,14 @@
 - summon [v]召集/傳喚 = *rally*, 急需, 使出, [up]喚起(印象)
 
 ## sicc 乾 = *dry*
-- exsiccate [v]使乾燥
+- **exsiccate** [v]使乾燥
 + [desiccate](/ˈdɛsɪkeɪt/) [v]使乾燥/脫水 = *dehydrate*
-+ desiccated [adj]乾的/乾燥的/脫水的, 無趣的/毫無新意的 = *uninteresting*
-- siccative [n]顏料乾燥劑
++ desiccated [adj]乾的/乾燥的/脫水的, **無趣的/毫無新意的** = *uninteresting*
+- **siccative** [n]顏料乾燥劑
 
 ## sip 丟/味道 = *throw*, sapid == *ject*
-+ dissipate [v]消失/使消失, 散開 = *disperse* = *scatter*, **揮霍** = *waste* = *squander* --> dissipation [n] = *dissolution*
++ dissipate [v]消失/使消失, 散開 = *disperse* = *scatter*, **揮霍** = *waste* = *squander* 
++ dissipation [n]揮霍 = *dissolution*
 + **insipid** [adj]乏味的/枯燥的 = *dull* = *dreary* = *innocuous* = *pallid* = *vapid* = *jejune* = *lackluster*, 無味的 = *bland*
 
 ## stin, sti, sting, stig, stimul 刺 = *prick*
@@ -7873,80 +7906,85 @@
 + distinguished [adj]著名的/卓越的, 氣度不凡的/高雅的
 + extinguish [v]熄滅 = *quench*, 使..消滅 = *annihilate* = *destroy*, 使(人)安靜
 - extinct [adj]絕種的/不復存在的, 死的(火山) <--> extant
-+ **instigate** [v]開始/引發 = *bring* about = *initiate*, [sb to V]慫恿/煽動 = *foment* = *foster*
++ **instigate** [v]開始/引發 = *bring about* = *initiate*, [sb to V]慫恿/煽動 = *foment* = *foster*
 - instigator [n]煽動者
-+ instinct [n]天性/本能, 直覺 [adj][with]充滿的(特質) --> instinctive [adj]本能的, 直覺的 = *intuitive*
-+ stimulate [v]刺激(神經), 激勵/促進 = *goad* = *prod* = *urge* = *whet* <|> simulate --> stimulating [adj]另人興奮的
-- stimulant [n]興奮劑/刺激物 [adj]使人興奮的
++ instinct [n]天性/本能, 直覺 [adj]**[with]充滿的(特質)**
++ instinctive [adj]本能的, 直覺的 = *intuitive*
++ stimulate [v]刺激(神經), 激勵/促進 = *goad* = *prod* = *urge* = *whet* <|> simulate
++ stimulating [adj]令人興奮的
+- **stimulant** [n]興奮劑/刺激物 [adj]使人興奮的
 - stimulus -> [stimuli](/ˈstɪmjəlaɪ/) [n]刺激品/興奮劑, 動機 = *spur* = *incentive*, 刺激/有趣
-- sting -> stung -> stung [n]刺, 螫, 被叮的傷口, 刺痛, 刺痛/傷害, 詐騙行動 [v]刺/叮, 刺痛, 刺痛/傷害, 敲詐
-+ stingy [adj]吝嗇的 = *mean* = *parsimonious* = *miserly* = *penurious* --> stinginess [n]小氣/吝嗇
-* stir [v]攪拌, (使)微動, 醒來/起來, [from/out of]離開 = *leave* = *go* out, 開始採取行動, 激起(情緒), 喚醒/喚起(記憶) [n]微動, 騷動/示威行動 = *commotion*, 攪拌
+- sting -> stung -> stung [n]刺, 螫, 被叮的傷口, 刺痛, 刺痛/傷害, **詐騙行動** [v]刺/叮, 刺痛, 刺痛/傷害, **敲詐**
++ stingy [adj]吝嗇的 = *mean* = *parsimonious* = *miserly* = *penurious*
++ stinginess [n]小氣/吝嗇
 
 ## sati, satur 滿 = *enough*, full == *ple*
 + insatiable [adj]不能滿足的
-- sate [v]使充分滿足 = *satisfy* = *gratify* = *assuage* <-- satiate
-+ [satiate](/ˈseɪʃɪeɪt/) [v]使充分滿足 = *sate* --> satiable [adj]可滿足的
+- **sate** [v]使充分滿足 = *satisfy* = *gratify* = *assuage* <-- satiate
++ **[satiate](/ˈseɪʃɪeɪt/)** [v]使充分滿足 = *sate*
++ satiable [adj]可滿足的
 + satiation [n]滿足
-+ satisfy [v]使滿足/使滿意 = *sate*, 償還, 使確信 = *convince*
-- satisfaction [n]滿意/滿足, 償還債務, [宗]苦行贖罪 --> satisfactory [adj]令人滿意的
++ satisfy [v]使滿足/使滿意 = *sate*, 償還, **使確信** = *convince*
+- satisfaction [n]滿意/滿足, 償還債務, **[宗]苦行贖罪**
+- satisfactory [adj]令人滿意的
 + [saturate](/ˈsatʃəreɪt/) [v]浸透 = *imbue*, 使飽和, [軍]對……進行飽和轟炸 [n]飽和脂肪 =  saturated fat [adj]浸透的
 
 ## somno, somn 睡眠 = *sleep*
 - insomnia [mn]失眠症
 - somniferous [adj]催眠的/使睏倦的 = *soporific*
-+ somnolent [adj]想睡的, 令人想睡的, 嗜睡的 --> somnolence [n]嗜睡症
++ somnolent [adj]想睡的, 令人想睡的, 嗜睡的
++ somnolence [n]嗜睡症
 
 ## somato, somat 身體 = *body*
-- soma [n]體細胞, 肉體/軀體
+- **soma** [n]體細胞, 肉體/軀體
 + somatic [adj]身體的/軀體的/肉體的 = *corporeal*, 體細胞的
 - somatoplasm
 
 ## surge, surrect 升起 = *rise*
 - [surge](/səːdʒ/) [n/v]激增, 浪湧, 高漲 [n]增兵 [v]蜂擁
-* insurgent [adj]叛亂的 = *rebellious* [n]叛亂份子 = *rebel* <-- in + surge + ent
+* **insurgent** [adj]叛亂的 = *rebellious* [n]叛亂份子 = *rebel* <-- in + surge + ent
 + insurrection [n]造反/叛亂 = *rebellion* = *revolt* <-- insurgent
-+ resurge [n/v]復活/復甦
++ **resurge** [n/v]復活/復甦
 + resurgence [n]再起/復活/再現
 + resurgent [adj]復活的/復甦的
-- resurrect [v]使復活/使復甦/復興 = *resuscitate* = *resurge* <-- resurge
+- **resurrect** [v]使復活/使復甦/復興 = *resuscitate* = *resurge* <-- resurge
 - resurrection [n]復活/復甦
 - Resurrection [n]耶穌復活, 最後審判日全體死者的復活
 
 ## scope 視野/範圍 = *look*, view
-- horoscope [n]占星術/星象, 天宮圖
-- kaleidoscope [n]萬花筒, 千變萬化/變化多端 <-- kal 美麗的 = *beautiful* + eido 形狀 = *form* + scope 
+- **__horoscope__** [n]占星術/星象, 天宮圖
+- **[kaleidoscope](/kəˈlʌɪdəskəʊp/)** [n]萬花筒, 千變萬化/變化多端 <-- kal 美麗的 = *beautiful* + eido 形狀 = *form* + scope 
 - kinescope
 - stethoscope
 
 ## sacchar 糖 = *sugar*
-- [saccharin](/ˈsakərɪn/) [n]糖精
-- [saccharine](/ˈsakərʌɪn/) [n]糖精 = *saccharin* [adj]含糖的, 過分甜蜜的/多愁善感的 = *sentimental*
+- **[saccharin](/ˈsakərɪn/)** [n]糖精
+- [saccharine](/ˈsakərʌɪn/) [n]糖精 = *saccharin* [adj]含糖的, **過分甜蜜的/多愁善感的** = *sentimental*
 
 ## salu 健康 = *health*
-+ [salubrious](/səˈluːbrɪəs/) [adj]有益健康的 = *healthful* = *salutary*, 宜人的 = *pleasant* = *hospitable*
-+ [salutary](/ˈsaljʊt(ə)ri/) [adj]有益的 = *beneficial*
++ **[salubrious](/səˈluːbrɪəs/)** [adj]有益健康的 = *healthful* = *salutary*, 宜人的 = *pleasant* = *hospitable*
++ **[salutary](/ˈsaljʊt(ə)ri/)** [adj]有益的 = *beneficial*
 
 ## sap, sav 聰明 = *wise*
-- [sapient](/ˈseɪpɪənt/) [adj]有智慧的, 人類的 [n]人類 = *Homo* sapiens
+- **[sapient](/ˈseɪpɪənt/)** [adj]有智慧的, 人類的 [n]人類 = *Homo* sapiens
 + savant [n]學者/專家
 - [savior](/ˈseɪvjər/) [n]救星, 救世主
-+ [savvy](/ˈsavi/) [n]精明 = *shrewdness* [adj]精明的 = *shrewd*, 通曉的 [v]知道 = *know* = *understand*
++ [savvy](/ˈsavi/) [n]精明 = *shrewdness* [adj]精明的 = *shrewd*, **通曉的** [v]**知道** = *know* = *understand*
 
 ## seismo, seism 地震 = *earthquake*
-+ [seismic](/ˈsʌɪzmɪk/) [adj]地震的, 造成嚴重影響的 <|> [size](/sʌɪz/)
++ **[seismic](/ˈsʌɪzmɪk/)** [adj]地震的, 造成嚴重影響的 <|> [size](/sʌɪz/)
 - seismograph [n]地震儀
 - seismology [n]地震學
 
 ## serr 鋸子 = *saw*
-- serrate, serrated [adj]鋸齒狀的/有鋸齒的 = *sawlike*
+- **serrate**, serrated [adj]鋸齒狀的/有鋸齒的 = *sawlike*
 - serration [n]鋸齒狀/鋸齒
-- serried [adj]密集的/密集排列的
+- **serried** [adj]密集的/密集排列的
 
 ## soph 智慧 = *wisdom*
 - philosophy [n]哲學, 理論/態度/準則 = *theory* = *attitude*
-- sophism [n]詭辯
-- sophistry [n]詭辯/謬論 = *fallacy*
+- **__sophism__** [n]詭辯
+- **sophistry** [n]詭辯/謬論 = *fallacy*
 * [sophisticate](/səˈfɪstɪkeɪt/) [v]使懂世故, 使複雜, 詭辯 [n]久經世故的人
 + sophistication [n]老於世故, 複雜/精密
 + sophisticated [adj]老於世故的 = *worldly*, 很有品味的, 精密的/複雜的 = *complex*, 敏銳的/有洞察力的 = *subtle*
@@ -7954,12 +7992,12 @@
 ## spine 棘刺 = *thorn*
 - spine [n]脊椎 = *backbone*, 核心, 骨氣/勇氣, 書脊, 刺/針
 - spineless [adj]無脊椎的 = *invertebrate*, 沒骨氣的/懦弱的 = *purposeless* = *irresolute*, 無刺或針的
-- spiny [adj]多刺的 = *spinous*, 棘手的
+- spiny [adj]多刺的 = *spinous*, **棘手的**
 - spinous [adj]刺狀的/多刺的 = *spiny*
 
 ## stetho 胸 = *chest*
-- stethoscope [n]聽診器
-- stethalgia [n]胸痛
+- **stethoscope** [n]聽診器
+- **stethalgia** [n]胸痛
 
 ## saurs, saurus 恐龍
 - dinosaur [n]恐龍

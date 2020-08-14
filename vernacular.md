@@ -34,6 +34,7 @@
 - In the region of [adv]大約(數目)
 - out of the blue [adv]突然地
 - on pins and needles [adv]如坐針氈
+- kind of [adv]似乎/有點
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -161,106 +162,159 @@
 - get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
 
 ## Demotic
-- make out [v]理解, 填寫, 應付, 親熱, 暗示
-- hold up [v]持槍搶劫, 延誤, 支持
-- put off [v]拖延		
-- pick on [v]刁難
-- wrap it up [v]住口
-- fool around [v]鬼混
-- wing it [v]即興發揮
-- throw off something/someone [v]出錯/使困惑 = to cause an amount to be wrong or a person to be confused
+- (be) directed at [v]專注於
+- (be) holed up [v]躲起來
+- (be) lost on sb [v]未被...理解
+- **add up** [v]說得通/合情合理
+- **tick off sb** [v]使生氣
+- act out [v]實踐/實行, 發洩, 把...表演出來
+- add up to sth [v]總共是/合計為, 結果是/表示/意味著
 - be around [v]存在, 活躍
-- tell someone off [v]訓斥某人
-- take after [v]與...相像
-- look after [v]照顧
-- help out [v]幫忙
-- get along [v]和睦相處
-- look up to [v]仰視/尊敬
-- look in on [v]拜訪 == to make a brief social visit to someone
-- phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
-- smooth sth over [v]緩和/調解
-- fall back on [v]借助於/依賴/依靠
-- clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
 - be into sth [v]對...有興趣
-- take up [v]開始/從事, 佔據, 討論/處理
-- work out [v]鍛煉身體, 結果是/算下來, 發生/發展
-- try out for [v]參加..的選拔
-- off you go [v]好了，你可以走(做)了
-- sign off on [v]同意
+- butt in [v]打斷/插嘴/插手
+- butter someone up [v]拍馬屁
 - call off  [v]取消/停止進行
-- fill in for someone [v]代替/臨時補缺
-- knuckle down [v]開始認真
-- drive off [v]開走
-- drive up [v]靠邊停, 上漲
-- fill up [v]裝滿, 加滿油
-- take out [v]抽出/領出
-- hit on [v]與..調情, 突然想到/碰巧想出
-- dress up [v]裝扮
-- throw on [v]匆匆穿上
-- slip on [v]迅速穿上
-- drum up something [v]招攬(生意)
-- get ahead [v]取得進展/獲得成功
-- write off [v]注銷/勾銷
+- call off [v]取消/停止進行
 - cash in on [v]用...賺錢
+- cave in [v]讓步/屈服/妥協
+- clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
+- clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
 - close down (sth) [v]倒閉/停業
 - close in on sth [v]靠近
-- fall through [v]失敗/落空
-- **add up** [v]說得通/合情合理
-- add up to sth [v]總共是/合計為, 結果是/表示/意味著
-- clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
-- slip up [v]出錯/疏忽
-- end up [v]最後成爲/以…告終
-- throw up [v]嘔吐
-- drop off [v]下車, 入睡, 減少/下降
-- drop out [v]退出, 退學
-- touch down [v]著陸/降落
-- stop off somewhere [v]中途拜訪/中途停留
-- jump in [v]打斷/插嘴
-- act out [v]實踐/實行, 發洩, 把...表演出來
-- **tick off sb** [v]使生氣
-- ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
-- wind sb up [v]使生氣
-- put up with [v]忍受
-- put sb off (sth/sb) [v]使反感/使洩氣
-- root for [v]為..助威/聲援/為...加油
-- start over [v]重新開始
-- pig out [v]狼吞虎嚥
-- polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
-- knock back [v]一下子喝下(尤指很多酒)
-- whip sth up [v]煽動/激起, 迅速做(飯)
-- rustle sth up [v]很快製作/湊合做成一頓飯
-- dig in [v]開始吃
-- cut back (on sth) [v]減少/削減/縮減
-- cut into sth [v]減少, 干擾
-- cut out [v]突然熄火/停止運轉
-- cut through [v]克服
-- turn up [v] (情況)突然好轉, 突然出現
-- tap into [v]使用…以獲得好結果
-- hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
-- crash on someone [v]愛上
-- write up [v]詳細寫
-- fall guy [n]代罪羔羊 = *scapegoat*
-- call off [v]取消/停止進行
-- cut it out [v]停止/停下來
-- cave in [v]讓步/屈服/妥協
+- crack (sb) up [v]捧腹大笑/(使某人)哈哈大笑
 - crack down [v]著手處理
+- crash on someone [v]愛上
 - crash out [v]很快入睡, 被淘汰出局
 - cue up [v]準備好, 排隊
-- draw on sth [v]利用
-- draw sth up [v]起草/草擬
-- (be) directed at [v]專注於
+- cut back (on sth) [v]減少/削減/縮減
+- cut into sth [v]減少, 干擾
+- cut it out [v]停止/停下來
+- cut out [v]突然熄火/停止運轉
+- cut through [v]克服
 - date back to (time) [v]追溯到
 - die of sth [v]因..而死
+- dig in [v]開始吃
+- dig it [v]喜歡
+- draw on sth [v]利用
+- draw sth up [v]起草/草擬
+- dress up [v]裝扮
+- drive off [v]開走
+- drive up [v]靠邊停, 上漲
+- drop off [v]下車, 入睡, 減少/下降
+- drop out [v]退出, 退學
 - drown out [v]聲音壓過
 - drum up [v]召集
+- drum up something [v]招攬(生意)
 - dry up [v]乾涸, 中斷
 - dumb sth down [v]使…簡化/將…通俗化
+- ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
+- end up [v]最後成爲/以…告終
+- fall back on [v]借助於/依賴/依靠
+- fall guy [n]代罪羔羊 = *scapegoat*
+- fall through [v]失敗/落空
+- feed off/on sth [v]因..而增加/利用…取得成功
+- feel like sth [v]好像, 想要
+- fight sth out [v]通過鬥爭使得到解決
+- fill in for someone [v]代替/臨時補缺
+- fill out [v]填寫, 發福
+- fill up [v]裝滿, 加滿油
+- flash back [v]突然記起 
+- fool around [v]鬼混
+- force sb/sth off [v]說服或要求..從..下來, 服或要求..從..辭職或離去
+- get ahead [v]取得進展/獲得成功
+- get along [v]和睦相處
+- get by [v]勉強過活/勉強應付過去
+- get into sb [v]支配/使..行為異常
+- get into sth [v]開始對…感興趣/參與/參加 
+- give off [v]散發
+- go about [v]著手做/開始做
+- go off [v]熄滅/停止運行/停止運轉, 爆炸, 走火/開火, 突然發出巨響, 離開, 發生/進展
+- go out [v]外出, 談戀愛, 退潮/落潮, 熄滅
+- hand down [v]將…傳給/將…留給, 宣佈(正式決定)
+- hand off [v]交予
+- hand out [v]分發, 經常出入/廝混
+- hang on [v][非]稍等一會兒, 緊握/抓住
+- hang up [v]掛斷電話
+- help out [v]幫忙
+- hit on [v]與..調情, 突然想到/碰巧想出
+- hit on sb [v]與..調情
+- hit on/upon sth [v]想出
+- hold back [v]退縮/猶豫
+- hold on [v]等一下, 設法存活, 緊握
+- hold on to sb/sth [v]緊緊抓住, 保留/保存
+- hold out [v]伸出, 維持/持續, 抵抗/抵禦
+- hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
+- hold sth down [v]阻止/使..留在原地
+- hold up [v]保持強盛, 耽擱 = delay, **偷竊**
+- hold up [v]持槍搶劫, 延誤, 支持
+- iron out [v]解決/消除
+- jazz up [v]使更有趣/使更吸引人 
+- jet off [v]飛去
+- jump in [v]打斷/插嘴
+- jump out at sb [v]使(某人)一下子注意到 
+- kick around [v]隨意地討論, 不公平地對待, 在..閒晃, 在某處, 閒置/棄置, 踢球
+- kick in [v]開始生效
+- kill off [v]徹底破壞/徹底除去
+- knock back [v]一下子喝下(尤指很多酒)
+- knuckle down [v]開始認真
+- land sb in sth [v]使陷於(困境)
+- land sb with sth [v]給予(困難)
+- lay off [v]解僱/解聘, 停下, 暫時停止
+- lay out [v]編排, 花(大錢), 解釋 = explain
+- lead to [v]導致
+- lead up to sth [v]為…作鋪墊/是…的先導, 緩慢過渡/慢慢引導
+- lean into [v]擁抱/接受, 推擠/擠入
+- lean on [v]依賴, 施壓
+- level off [v]保持穩定 
+- lie in [v]存在於/在於
+- line up [v]排隊, 接連安排, 按順序排列, 想同時一起.. 
+- live by [v]根據...行動
+- live off [v]倚靠..維生
+- live on [v]依靠..生活, 靠..生存/只吃
+- live up (to sth) [v]與…一樣好
+- lock up [v]鎖起全部的門窗
+- look after [v]照顧
+- look in on [v]拜訪 == to make a brief social visit to someone
+- look up to [v]仰視/尊敬
+- lose out [v]處於劣勢
+- luck out [v]非常幸運
+- make out [v]理解, 填寫, 應付, 親熱, 暗示
+- off you go [v]好了，你可以走(做)了
+- phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
+- pick on [v]刁難
+- pig out [v]狼吞虎嚥
+- polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
+- put off [v]拖延		
+- put sb off (sth/sb) [v]使反感/使洩氣
+- put up with [v]忍受
+- root for [v]為..助威/聲援/為...加油
+- rustle sth up [v]很快製作/湊合做成一頓飯
+- sign off on [v]同意
+- slip on [v]迅速穿上
+- slip up [v]出錯/疏忽
+- smooth sth over [v]緩和/調解
 - sound out [v]試探....的意向
-- dig it [v]喜歡
-- butter someone up [v]拍馬屁
-- butt in [v]打斷/插嘴/插手
+- start over [v]重新開始
+- stop off somewhere [v]中途拜訪/中途停留
 - take aback [v]使吃驚
-- crack (sb) up [v]捧腹大笑/(使某人)哈哈大笑
+- take after [v]與...相像
+- take out [v]抽出/領出
+- take up [v]開始/從事, 佔據, 討論/處理
+- tap into [v]使用…以獲得好結果
+- tell someone off [v]訓斥某人
+- throw off something/someone [v]出錯/使困惑 = to cause an amount to be wrong or a person to be confused
+- throw on [v]匆匆穿上
+- throw up [v]嘔吐
+- touch down [v]著陸/降落
+- try out for [v]參加..的選拔
+- turn up [v] (情況)突然好轉, 突然出現
+- whip sth up [v]煽動/激起, 迅速做(飯)
+- wind sb up [v]使生氣
+- wing it [v]即興發揮
+- work out [v]鍛煉身體, 結果是/算下來, 發生/發展
+- wrap it up [v]住口
+- write off [v]注銷/勾銷
+- write up [v]詳細寫
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -283,3 +337,4 @@
 - escape hatch [n]出路
 - ethical lapse [n]過失
 - better half [n]配偶
+- feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
