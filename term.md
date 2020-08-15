@@ -4,6 +4,7 @@
 - **body cast** [n]石膏
 - cross section [n]剖面
 - Rorschach [n]羅沙哈測驗(叫人解釋墨水點繪的圖形以判斷其性格)
+- siamese twins [n]連體嬰
 
 ## Food
 - fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns
@@ -17,6 +18,9 @@
 - rolling pin [n]桿麵棍
 - marinara [n]義大利麵醬/大蒜番茄醬
 - mayonnaise [n]蛋黃醬
+- chorizo [n]西班牙辣香腸
+- per serving [adv]每份
+- pecan sandie [n]胡桃餅
 
 ## Religion
 - Hanukkah [n]光明節(猶太教的節日。該節日乃紀念猶太人在馬加比家族的領導下，從敘利亞塞琉古王朝國王安條克四世手上奪回耶路撒冷，並重新將耶路撒冷第二聖殿獻給上主。)
@@ -25,6 +29,11 @@
 - mazel tov [n]恭喜/祝好運(猶太用語)
 - house of worship [n]禮拜堂
 - namaste [n]印度的合十禮
+
+## Star
+- Ursa Major [n]大熊座
+- Taurus [n]金牛座
+- [Pisces](/ˈpʌɪsiːz/) [n]雙魚座
 
 ## Event
 - Flag Day [n]美國國旗紀念日(6月14)
@@ -52,6 +61,7 @@
 - auto transmission [n]汽車自動變速箱
 - wiper blade [n]汽車雨刷
 - g-string [n]丁字褲
+- fountain pen [n]鋼筆
 
 ## Finance
 - security deposit [n]保證金
@@ -80,6 +90,7 @@
 - Wilco [v]照辦(通信用語) = will comply
 - CSR [n]企業社會責任 = Corporate Social Responsibility
 - DL [n]駕照 = driver's license
+- UPC [n]通用產品代碼 = Universal Product Code
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)
@@ -95,3 +106,10 @@
 - Volkswagen [n]福斯汽車
 - cologne [n]古龍水
 - Tegrin [n]一種非處方藥物名，常被用來治療皮膚瘙癢，頭皮屑，牛皮癬，濕疹等。並且也經常會用來製成洗髮香波，有抑制頭皮屑，止癢，控油等效果
+- Cheetos [n]奇多
+- Porsche [n]保時捷
+- Muppets [n]芝麻街兒童電視節目中的布偶
+
+## Place
+- Serengeti [n]塞倫蓋提國家公園(坦桑尼亞的一座大型國家公園)
+- social butterfly [n]交際花

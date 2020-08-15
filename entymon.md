@@ -1371,6 +1371,7 @@
 - catacomb [n]地下墓穴
 - catalog [n]目錄, 一連串(壞事) [v]為……編目, 將……編入目錄, 列出 = *list*
 + catalyst --> catalytic
+- **__cataract__** [n]白內障, 大瀑布
 
 ## caus, caust 燒灼/火 = *burn* == *ard* = *bust* = *flagr*
 + **caustic** [adj]腐蝕性的 = *corrosive*, 刻薄的/尖酸的 = *pungent* = *acerbic* = *astringent* = *sarcastic* = *trenchant*, [物]焦散的 [n]腐蝕性物質
@@ -3898,6 +3899,7 @@
 	+ insightful [adj]富有洞察力的 = *perceptive*
 	- **__insignia__**
 	+ insinuate [v]暗指/暗示 = *imply* = *suggest* = *allude*, 緩緩地滑動, 逐漸而巧妙的取得 <-- in + sinuous + ate
+	- insole  [n]鞋墊
 	- insource [v]內包 <--> outsource
 	- inspect --> inspection
 	- inspire --> inspiration --> inspired
@@ -4064,6 +4066,7 @@
 ## {itis} 炎症
 - arthritis
 - dermatitis
+- gingivitis [n]齒齦炎
 - **__[encephalitis](/ɛnˌsɛfəˈlʌɪtɪs/)__** [n]腦炎
 
 # J
@@ -5322,6 +5325,7 @@
 	- overabundance [n]過剩/過多
 	+ **overbear** [v]壓倒 = *overwhelm* = *overcome* 
 	+ **overbearing** [adj]專橫的/傲慢的 = *arrogant* = *domineering* = *dictatorial* = *imperious* <|> forbear
+	- overbite [n]上下門牙與犬齒之過度咬合 <--> underbite
 	- overcoat [n]大衣, 外套
 	- overcome [v]克服, 擊敗, 壓倒 = *overpower* = *overwhelm* = *overbear*
 	- overdo [v]做得過火 = *exaggerate*, **使過於疲勞**, 煮過頭 = *overcook*
@@ -6312,7 +6316,7 @@
 - **pedagogue** [n]教師 = *teacher*
 - [pedagogical](/ˌpɛdəˈɡɒdʒɪk(ə)l/) [adj]教育的
 + **[pedant](/ˈpɛd(ə)nt/)** [n]書呆子/學究
-+ **pedantic** [adj]學究式的/過分注意小細節的 = *overscrupulous*
++ **pedantic** [adj]學究式的/賣弄學問的 = *overscrupulous*
 - **pediatric** [adj]小兒科的 <-- ped + iatric 治療 = *heal* + s
 - pediatrics [n]小兒科
 - pedophile [n]戀童癖者

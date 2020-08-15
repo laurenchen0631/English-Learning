@@ -42,7 +42,7 @@
 - within an inch of one's life [adv]差點喪命
 - out of (one's) hair [adv]不再是..的負擔或責任
 - breathe down someone's neck [v]緊跟(某人)
-- high and dry [v]給..帶來麻煩/使..陷入困境
+- **high and dry** [v]給..帶來麻煩/使..陷入困境
 - bed of roses [n]稱心如意的處境
 - credit where credit's due [v]該讚揚的就讚揚
 - bide your time [v]靜候時機
@@ -160,6 +160,14 @@
 - cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
 - come apart at the seams [v]處於崩潰邊緣
 - get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
+- ignorance is bliss [phrase]無知便是福
+- let bygones be bygones [v]過去的就讓它過去吧
+- beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
+- When the going gets tough, the tough get going. [phrase]越艱困處境，越能歷練出強者
+- There is no such thing as a free lunch [phrase]天下沒有白吃的午餐
+- close but no cigar [adj]差一點(但很接近了)
+- The squeaky wheel gets the grease [phrase]嘎吱響的輪子先上油/最明顯的問題先得到關注
+- be an item [v]有戀愛關係
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -315,6 +323,7 @@
 - wrap it up [v]住口
 - write off [v]注銷/勾銷
 - write up [v]詳細寫
+- feel sb up [v]猥褻
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
@@ -338,3 +347,5 @@
 - ethical lapse [n]過失
 - better half [n]配偶
 - feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
+- full stop [n]句號
+- wet blanket [n]掃興的人 = *party pooper*
