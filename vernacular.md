@@ -287,6 +287,7 @@
 - lose out [v]處於劣勢
 - luck out [v]非常幸運
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
+- make up [v]構想, 組成 = *compose*, 補償, 決定, 決定再次變得友好
 - off you go [v]好了，你可以走(做)了
 - phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
 - pick on [v]刁難
@@ -324,6 +325,39 @@
 - write off [v]注銷/勾銷
 - write up [v]詳細寫
 - feel sb up [v]猥褻
+- miss out [v]錯失享樂(或獲利)的機會
+- mess sth up [v]把…弄亂/把…弄髒/搞砸/弄糟
+- mess with sb [v]打擾/招惹
+- move on [v]搬家/遷移, 開始新的活動, 接受現實
+- net sth down/off/out [v]扣除
+- (be) nuts about sth/sb [v]迷戀/癡迷於
+- (be) on to [v]察覺/注意, 與..聯絡, 發現
+- occupy sb with sth [v]使...忙於...
+- occur to sb [v]讓...想到..
+- own up [v]承認/坦白
+- pay off [v]成功/得到好結果
+- pass on [v]傳達 
+- pass for sth [v]被視為
+- pass sth off as sth [v]拿…假冒/用…冒充
+- pass over sth [v]忽視/置之不理, 對(某人)不加考慮
+- perk (sth/sb) up [v]振作/振奮
+- pick up [v]發現, 改良, 接電話
+- pick oneself up [v]再次站起, 恢復/再次站起
+- punch in sth [v]填入
+- punch in [v]上班打卡
+- pull for sb [v]鼓勵/支持
+- pull of [v]反悔, 靠邊停
+- pull off [v]成功, 在..旁邊停下, 發動(交通工具), 快速脫下
+- pull down [v]破壞, 賺
+- pull up [v]停
+- pull out [v]抽身, 開出/離去
+- put aside (v)撇開不理/擱置
+- put up with sb (v)忍受/忍耐
+- put sb off (v)使反感/使洩氣
+- pride oneself on/upon [v]以..為自豪
+- press for sth [v]努力獲得
+- prey on [v]傷害/欺騙/坑害
+- preface sth by/with sth [v]以..作為……的開端
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
