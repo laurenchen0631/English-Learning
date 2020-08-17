@@ -33,8 +33,14 @@
 - in a nutshell [adv]概括地說
 - In the region of [adv]大約(數目)
 - out of the blue [adv]突然地
+- once in a blue moon [adv]少有地/很少發生
 - on pins and needles [adv]如坐針氈
 - kind of [adv]似乎/有點
+- left and right [adv]失控, 到處
+- right and left [adv]到處
+- smack dab in the middle of sth [adv]在...之中
+- a mile off [adv]一下子/很容易
+- for one [adv]對…來說
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -168,6 +174,12 @@
 - close but no cigar [adj]差一點(但很接近了)
 - The squeaky wheel gets the grease [phrase]嘎吱響的輪子先上油/最明顯的問題先得到關注
 - be an item [v]有戀愛關係
+- suck it up [v]自認倒楣
+- have nerves of steel [v]勇敢
+- be on the same page [v]達成共識
+- there’s no love lost between them [phrase]憎恨/仇視彼此
+- strike a pose [v]擺姿勢
+- be in/on the cards [v]很可能發生
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -358,6 +370,7 @@
 - press for sth [v]努力獲得
 - prey on [v]傷害/欺騙/坑害
 - preface sth by/with sth [v]以..作為……的開端
+- chicken out [v]因害怕而退縮/放棄
 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.

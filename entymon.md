@@ -1021,6 +1021,7 @@
 + [incident](/ˈɪnsɪd(ə)nt/) [n]事件, 暴力事件/爭吵, **國家衝突**, [法]**責任/義務** [adj]**因..而易發生的**, [to]隨附的, 入射的
 * incidence [n]發生率, 入射/入射角
 + incidental [adj]附帶的/伴隨的, 偶然發生的, 因為..而發生的 [n]意外支出
++ **__incidentally__** [adv]附帶地/順便 = *by the way*, 偶然地 = **accidentally**
 + incipient [adj]剛開始的/早期的 = *inchoate* = *embryonic* = *nascent*
 + intercept [n/v]中途攔截/截斷
 - [municipal](/mjʊˈnɪsɪpəl/) [adj]市的/市政的 = *civic* <-- muni 責任 = *duty* + cip + al
@@ -2676,6 +2677,7 @@
 - forebode [v]預示/預感 = *foretell* = *predict* <-- fore + bode
 - foreboding [n]不祥的預感 [adj]有不祥預感的
 - forecast [n/v]預報/預測 = *predicate* = *estimate*
+- forefather [n]祖先/祖宗
 - forefront [n]最顯要的位置/最重要的地位 = *foreground*
 + foreground [n]前佈景, 最顯要的位置/最重要的地位 = *forefront* [v]強調 = *emphasize*
 - foreknowledge [n]預知
