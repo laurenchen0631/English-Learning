@@ -71,6 +71,7 @@
 - g-string [n]丁字褲
 - fountain pen [n]鋼筆
 - leaf blower [n]吹葉機
+- scrap paper [n]已用過的寫便條用的廢紙
 
 ## Finance
 - security deposit [n]保證金

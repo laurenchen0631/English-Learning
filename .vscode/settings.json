@@ -10,5 +10,8 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 120,
     },
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ]
 }

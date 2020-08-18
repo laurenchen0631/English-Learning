@@ -41,6 +41,7 @@
 - smack dab in the middle of sth [adv]在...之中
 - a mile off [adv]一下子/很容易
 - for one [adv]對…來說
+- spot on [phrase]確切的/準確的
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -180,6 +181,7 @@
 - there’s no love lost between them [phrase]憎恨/仇視彼此
 - strike a pose [v]擺姿勢
 - be in/on the cards [v]很可能發生
+- refer to A as B (v)把A稱作B
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -302,6 +304,7 @@
 - make up [v]構想, 組成 = *compose*, 補償, 決定, 決定再次變得友好
 - off you go [v]好了，你可以走(做)了
 - phone it in [v]敷衍 == Perform an act in a perfunctory, uncommitted fashion, as if it didn't matter.
+- phone (sb) up [v]給..打電話
 - pick on [v]刁難
 - pig out [v]狼吞虎嚥
 - polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
@@ -371,7 +374,44 @@
 - prey on [v]傷害/欺騙/坑害
 - preface sth by/with sth [v]以..作為……的開端
 - chicken out [v]因害怕而退縮/放棄
-
+- play out [v]發生/出現, 策劃/籌劃
+- ride out [v]從...中撐過/倖存
+- rule out sth (v)排除..的可能性
+- run up against 遭遇(未料到的困難)
+- roll out (v)推出 
+- roll around (v)(時間或事件)開始
+- roll in (v)到來 
+- round sb/sth up (v)集中/聚集/召集
+- remove oneself (v)離去
+- root out (v)找到並消除, 終於找到
+- reach out (v)向某人伸出援手/給某人支持, 與(某人)打成一片
+- set sth/sb apart (v)使…與眾不同
+- set sth aside (v)撥出/留出, 撤銷/駁回, 忘卻/不計較, 把…擱在一邊/暫緩處理
+- set off (v)啟程, 啟動, 使爆炸, 導致...發生, 使..看起來吸引人
+- set about (v)開始/處理 
+- set out (v)發出/啟程
+- set sb up (v)爲..安置職位/使就職, 資助, 使精力充沛/使健康, 陷害/栽贓
+- set down (v)寫下/記下
+- set forth (v)解釋/闡明
+- stay off (v)遠離/避免/避開
+- scale back (v)縮減
+- scare sth/sb off/away (v)把..嚇走
+- scrape sth back (v)整理(頭髮) 
+- scrape sth together/up (v)蒐集
+- scrape by/along (v)勉強維持生計
+- screw sth around/round (v)轉頭/轉身
+- screw sth out of (v)逼...交出/向...勒索
+- seek sb/sth out (v)費時地找出
+- soak sth up (v)吸收/吸掉, 盡情享受/充分體驗, 吸取/吸收(資訊), 用完/耗盡
+- sort sth out (v)成功解決
+- strike down (v)裁定(某法律條文)非法
+- stack up against sth (v)相比/比較
+- stake sth out (v)監視, 表明(觀點或立場)
+- stare down (v)以目光鎮懾某人
+- strip down (v)脫得只剩下…/把衣服脫到
+- spell sth out (v)解釋清楚/詳細地說明
+- spring up (v)突然出現/湧現
+- 
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
 - one-night stand [n]一夜情, 僅演一次的演出
