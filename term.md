@@ -43,6 +43,7 @@
 
 ## Event
 - Flag Day [n]美國國旗紀念日(6月14)
+- maid of honor [n]首席伴娘
 
 ## Art
 - papier-mache [n]混凝紙漿
@@ -104,6 +105,16 @@
 - CSR [n]企業社會責任 = Corporate Social Responsibility
 - DL [n]駕照 = driver's license
 - UPC [n]通用產品代碼 = Universal Product Code
+- CAO [n]首席分析長 = Chief Analytics Officer
+- CAE [n]首席審計執行官 = Chief Audit Executive
+- CMO [n]首席營銷官/營銷總監 = Chief Marketing Officer
+- ED [n]執行長/執行董事 = Executive Director
+- VP [n]副總裁 = Vice President
+- TL [n]項目總監 = Team Leader
+- CFO [n]首席財務官 = Chief Financial Officer
+- CSO [n]首席安全官 = Chief Security Officer
+- CHRO [n]首席人事長 = Chief hHuman Resource Officer
+- PTA [n]家長教師聯誼會 = Parent-Teacher Association
 
 ## Brand
 - Bactine [n]百寧(一種止痛藥的牌子)

@@ -453,6 +453,7 @@
 - barf [v]嘔吐
 - bark [n/v]犬吠 [v]厲聲說話/咆哮, 叫賣, 用樹皮裡的單寧酸染色 = *tan* = *dye* [n]樹皮, 巧克力做的外層 <|> balk
 - barn [n]穀倉/馬房/牛舍, 大車庫/大車棚
+- **barnacles** [n]藤壺, 一種北極鵝
 - barnyard [n]穀倉前的院地
 - [baron](/ˈbar(ə)n/) [n]男爵, 與男爵等級相當的外國貴族, 大地主, 巨擘/大亨 = *tycoon*
 - **boron** [n]硼 <|> baron
@@ -462,6 +463,8 @@
 - [basil](/ˈbaz(ə)l/) [n]羅勒
 - **bashful** [adj]害羞的 = *shy*
 - basket [n]籃子, 購物車, 一組(投資項目), 籃網, 得分
+- **bassinet** [n]嬰兒搖籃, 搖籃式童車
+- **basset** [n]巴吉度獵犬 [v]露出(表面)
 - batch [n]一批/一爐, [非]一群 [v]分批
 - bathetic [adj]令人掃興的 <-- bathos + pathetic
 - bathos [mn]突降法 = *anticlimax*
@@ -493,6 +496,7 @@
 - **belch** [n/v]打嗝, 大量排放
 - Belgian [adj]比利時的 [n]比利時人
 - believe [v][in]認為...存在, [in]相信/信任
+- bellboy [n]旅館大廳的服務生/行李員
 - **belletrism** [n]純文學至上主義
 - bellow [v]低吼/怒吼, 大聲叫, 大聲亂唱 [n]低吼/怒吼
 - bellwether [n]領頭羊/領導者 <-- wether
@@ -555,6 +559,7 @@
 - blue [adj]藍色的, [非]憂鬱的/沮喪的 = *depressed* = *sad* = *melancholy*, [非]**色情的/成人的** [n]藍色 [v]使成藍色
 - blueprint [n]藍圖, 方案/計畫 = *plan* [v]策劃 = *draw* up
 - bluff [n]虛張聲勢 [v]以假象欺騙/嚇唬, [bluff it out]以虛張聲勢矇混過關 [adj]**坦率的**, 陡峭的 [n]陡岸/懸崖
+- **bludgeon** [n]棍棒 = **sap** [v]用棍棒打, 恫嚇
 - **blunder** [n] (通常由於粗心或欠考慮而釀成的)大錯 [v]跌跌撞撞地走, 釀成大錯/犯大錯 <|> asunder <-- blind
 - blur [n]模糊不清的事物(景象或記憶) [v]使模糊 <|> slur <|> blurt <|> blurb <|> blunt
 - blurb [n] (書的)簡介/推薦語 [v][非]寫推薦語
@@ -637,9 +642,10 @@
 - broker [n]掮客/代理人 [v]作為(中間人)安排(交易、協議等)
 - brooch [n]胸章
 - broom [n]掃帚, 金雀花
+- brothel [n]妓院
 - **brouhaha** [n]轟動/嘩然
 - brow [n]額頭 = *forehead*, 眉毛 = *eyebrow*, 山頂/峭壁頂端
-- brown-nose [v]奉承 = *flatter*
+- **brown-nose** [v]奉承 = *flatter*
 - **[brunette](/bruːˈnɛt/)**, **brunet** [n]深褐髮年輕女子 [adj]有深褐頭髮的, (頭髮)深褐色的
 - bruise [n/v]擦傷/瘀青 = *contusion*, 碰傷 [v]傷害(情感), 搗碎(食物) = *pound* = *crush* <|> cruise
 - **[bruit](/bruːt/)** [v][about/abroad/around]散佈(謠言)
@@ -1431,6 +1437,7 @@
 - drift [v][off]漸漸入睡, [out]逐漸離去
 - drifter [n]漂泊者/流浪漢
 - dripping [n]油滴, 滴下物 [adj]濕淋淋的
+- **dill** [n] 蒔蘿
 - drill [n]鑽子/鑽機, 鑽床, 操練, 訓練, 口訣, 規定的步驟, 牡蠣鑽, 條播機, 條播機弄出來的溝, 一排, 鬼狒, 斜紋粗棉布 [v]鑽, 鑽除, 操練, 受訓, 訓練, 用條播機播種, 播種
 - drivel [v]胡說/瞎扯/廢話 = *babble* = *gibberish* [mn]瞎扯/廢話
 - drizzle [v]下毛毛雨 [n]毛毛雨
@@ -2157,6 +2164,7 @@
 - gentrify [v]士紳化, 重建成中產階級居住區
 - gentrification [mn]中產階級化
 - **__[geranium](/dʒɪˈreɪnɪəm/)__** [n]天竺葵
+- [gerund](/ˈdʒɛrʌnd/) [n]動名詞
 - gesture [n]姿勢/手勢, 姿態 [v]用動作示意
 - get-together [n]聚會
 - get-tough [adj]採取強硬手段的
@@ -2542,6 +2550,7 @@
 - household [n]一家人/家眷/家庭/戶
 - **[hovel](/ˈhɒv(ə)l/)** [n]茅舍/骯髒的小屋 = *hut*
 - hover [v]盤旋, 猶豫, 徘徊, 停留 [n]盤旋/徘徊
+- hovercraft [n]氣墊船
 - hub [n]輪轂/輪胎軸心, 中心
 - **huckster** [n]叫賣的小販/零售商 = *peddler* = *hawker*, 廣告撰寫員/廣告人 [v]討價還價 = *bargain* = *haggle*, 宣傳/叫賣
 - huddle [v]擠作一團/聚在一起, 蜷曲/縮成一團, 討論 = *confer* [n]一團
@@ -2991,7 +3000,7 @@
 - loaf [n]一條 **[v]虛度/消磨**
 - lobby [n]大廳, 遊說團, 遊說 **[v]遊說** = canvass
 - lobe [n]耳垂 = *earlobe*, (腦、肺等的)葉 <|> lode <|> lope
-- lock [v]鎖住, 固定住, [up]鎖起全部的門窗 [n]鎖, 水閘, 確信 = *certainty*, 一綹(頭髮), 頭髮
+- lock [v]鎖住, 固定住, [up]鎖起全部的門窗, **[in]獲得優勢/保持優勢** [n]鎖, 水閘, 確信 = *certainty*, 一綹(頭髮), 頭髮
 - **locust** [n]蝗蟲, 蟬 = *cicada*, 刺槐豆 = *locust bean*, 刺槐 = *locust*
 - lode [n]礦脈, 泉源
 - lodestar [n]指示方向之星/北極星, 導師/引導物
@@ -3017,6 +3026,7 @@
 - low-margin [adj]利潤很低的
 - low-slung [adj]低的/貼近地面的, 低腰的
 - loyal [adj]忠誠的/忠貞的
+- **lox** [n]燻鮭魚 <|> pox
 - **lug** [v]使勁拉/硬扯, **被..妨礙** [n]裝水果的箱子, [非]耳朵, 可以提的地方, **粗野的人** = *lout*, 沙蟲 = *lugworm*
 - lugworm [n]沙蟲
 - lukewarm [adj]微溫的 = *tepid*, 冷淡的 = *indifferent* <-- luke 微溫的 = *tepid* + warm
@@ -3843,6 +3853,7 @@
 - pad [n]墊/護墊, 肉墊, 微弱的腳步聲, 便條紙簿, 發射台/起降臺, 家 [v]填塞, [up]墊, [out]鋪張/拉長, 浮報, 放輕腳步走
 - padding [n]墊塞/填料, 充分量的廢話
 - paddle [n]槳, 划槳, 攪拌棒, 桌球拍, 明輪翼, 鰭, 太空船太陽能板, 電極貼片 [v]划槳, 划水, 打, 涉水, 把手或腳浸泡在水中 = *dabble*
+- **pager** [n]攜帶型傳呼器
 - **pageant** [n]露天演出的歷史劇, 盛大的慶典, 選美比賽 
 - **pageantry** [n]壯觀/盛會
 - **pagoda** [n]寶塔
@@ -3888,6 +3899,7 @@
 - pasture [n]牧草地, 處境 [v]放..吃草, 吃草
 - patch [n]補釘, 眼罩, 膏藥, 斑駁/斑點, 一點, 一塊(土地), 短暫通話 [v]縫上補釘, 蓋上眼罩, 點綴, [up]修補, [together]拼湊, 通訊
 - patchy [adj]分布不勻的, **不一致的** = *inconsistent*
+- pate [n]頭/腦袋, 肉醬/魚醬/肝醬
 - paternal [adj]父親的/父系的, 父親般的 = *fatherly* 
 - paternity [n]父子關係/父親的義務, 父親的身分, 來源/出處
 - **paternalistic** [adj]家長式的/溫和的專制主義的
@@ -4023,6 +4035,7 @@
 - posse [n]地方武裝團隊/民兵隊, 一團/一群(人)
 - possess [v]擁有, 支配/控制 
 - possessed [adj]著魔的/發瘋的
+- possum [n]負鼠
 - pot [n]鍋, 罐/壺, 一鍋/一罐, 賭注總額, **獎杯/獎品**, 啤酒肚 = *potbelly*, 氣缸, **大麻** = *marijuana* [v][up/on]把……栽在花盆裡, 把..放在罐子裡保存, **射殺/射獵**, 贏得 = *win*, 製作(陶器)
 - potty [adj]喝醉的 = *intoxicated* = **inebriated**, 瘋狂的/狂熱的 [n]便盆
 - **potation** [n]喝/飲
@@ -4042,7 +4055,7 @@
 - preen [v]用喙整理羽毛, [oneself]打扮修飾, [oneself]洋洋自得
 - premier [adj]首位的/首要的, 最早的/最先的 
 - premiere [n/v]首次公演
-- pretzel [n]椒鹽脆餅
+- **pretzel** [n]椒鹽脆餅
 - pride [n]自豪/得意, 引以為傲的人或物, 同志遊行, 自尊心, 傲慢, **盛期/巔峰**, **獅群**
 - **prion** [n]傳染性蛋白質/病原性蛋白顆粒
 - prise, prize [v]撬開 = *pry*
@@ -4725,7 +4738,7 @@
 * suit [n]套裝/衣服, 一套, [非]公司高級管理人員, 同花色的一組紙牌, 訴訟 = *lawsuit*, 求婚, 懇求/請願 [v]對…方便, [oneself]順..的意, 相稱, 穿
 * swagger [v]大搖大擺地走/神氣活現 [n]大搖大擺的行走姿勢/趾高氣揚 = *strut*
 * swamp [n]沼澤 = *bog* = *marsh* [v]淹沒 = *flood*, 進水沉沒 = *founder*, 壓倒 = *inundate*
-* swear -> swore -> sworn [v]發誓, 發(誓), 宣誓, 發誓要, 咒罵/罵髒話 [n][非]髒話
+* swear -> swore -> sworn [v]發誓, 發(誓), 宣誓, 發誓要, **咒罵/罵髒話** [n][非]髒話
 * sweeping [adj]連綿的/呈彎曲狀的, 影響廣泛的/大的, 一概而論的/過於籠統的
 * **swelter** [n/v]熱得難受 
 * sweltering [adj]酷熱的
@@ -4909,7 +4922,7 @@
 - short-lived [adj]短暫的
 - shortfall [n]不足 = *deficit*
 - shorthand [mn]速記法, 簡略的表達方式
-- shoulder [n]肩, 肩部, 上背部, 肩膀/重擔, 路肩 = *hard* shoulder [v]擔負/承擔, 用肩推
+- shoulder [n]肩, 肩部, 上背部, 肩膀/重擔, 路肩 = *hard shoulder* [v]擔負/承擔, 用肩推
 - shout-out [n]公開表達致意
 - **shove** [v]推/擠過, 猛推, 隨意放 [n]推
 - **shovel** [n]鏟子, 一鏟子的量 [v]用鏟鏟起, 把(通常指食物)扔進或塞進
@@ -5030,6 +5043,7 @@
 - slut [n]懶婦/蕩婦
 - **smarmy** [adj][非]討好的/拍馬屁的 = *ingratiating* = *wheedling*
 - smart [adj]時髦的 = *stylish*, [非]聰明的 = *intelligent*, **缺乏尊重的**, 智慧的/自動的(裝置), 輕快的/敏捷的 = *brisk* [v]感到刺痛, 感到不快/憤怒 [mn]刺痛, [非]聰明/精明 = *acumen* = *intelligence*
+- smash [v]粉碎/打碎, 擊潰/擊毀, 殺球, 破產 [n]打碎/粉碎, 猛撞/猛擊, 殺球, **成功** [adv]轟隆一聲地
 - smidgen, smidge [n][非]少量
 - smiley, smily [n]笑臉符號 [adj]微笑的
 - smite -> smote -> smitten [v]重擊/猛打, (疾病)侵襲, [be smitten]使神魂顛倒
@@ -6096,6 +6110,7 @@
 - **yak** [n]犛牛, 饒舌/廢話 [v]饒舌/流暢地說
 - yam [n]山芋類植物, 山藥
 - yarrow [n]蓍草
+- yaw [n]偏航 [v]偏航, 左右搖動地航行, 張開 = *gape*
 - **__[yawn](/jɔːn/)__** [v]打呵欠 = *gape*, 大開 = *be very large and wide* [n]呵欠, 乏味之物
 - yearling [n]滿一歲的動物 [adj]滿一歲的, 一歲動物的
 - yeast [n]酵母 <|> feast
@@ -6140,6 +6155,7 @@
 - esprit de corps [n]團隊精神
 - in vitro [adj]在體外(常指試管內)進行的
 - joie de vivre [n]生活之樂/人生的極大樂趣
+- magna cum laude [adv]以優異成績地
 - modus operandi [n]做法/工作方法/作案手法
 - **per capita** [adj/adv]人均/每人
 - quid pro quo [n]交換條件

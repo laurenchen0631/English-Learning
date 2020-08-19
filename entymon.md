@@ -5064,6 +5064,7 @@
 - neuron [n]神經元
 - neurology [n]神經學 
 - neuroscience [n]神經科學
+- neurotic [adj]神經性的, 神經質的 [n]神經症患者
 
 ## nihil 無 = *nothing*
 + annihilate [v]消滅 = *obliterate* = *extingush* = *decimate* = *wipe out*, 征服/徹底勝過 = *vanquish*

@@ -42,6 +42,8 @@
 - a mile off [adv]一下子/很容易
 - for one [adv]對…來說
 - spot on [phrase]確切的/準確的
+- from the ground up [adv]從頭開始, 完全地
+- over my dead body [adv]除非我死了
 
 ## Phrase
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -181,7 +183,16 @@
 - there’s no love lost between them [phrase]憎恨/仇視彼此
 - strike a pose [v]擺姿勢
 - be in/on the cards [v]很可能發生
-- refer to A as B (v)把A稱作B
+- refer to A as B [v]把A稱作B
+- up in the air [adj]懸而未決
+- learn the ropes [v]知道訣竅/在行
+- it's not rocket science [phrase]並不太難/並非特別複雜
+- sb's hands are tied [phrase]受到限制/無能為力
+- feel left out [v]感到被排擠
+- run the risk of doing sth [v]冒…的危險/冒險做…
+- be between jobs [v]待業
+- be up and about again [v]康復
+
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -366,9 +377,9 @@
 - pull down [v]破壞, 賺
 - pull up [v]停
 - pull out [v]抽身, 開出/離去
-- put aside (v)撇開不理/擱置
-- put up with sb (v)忍受/忍耐
-- put sb off (v)使反感/使洩氣
+- put aside [v]撇開不理/擱置
+- put up with sb [v]忍受/忍耐
+- put sb off [v]使反感/使洩氣
 - pride oneself on/upon [v]以..為自豪
 - press for sth [v]努力獲得
 - prey on [v]傷害/欺騙/坑害
@@ -376,42 +387,89 @@
 - chicken out [v]因害怕而退縮/放棄
 - play out [v]發生/出現, 策劃/籌劃
 - ride out [v]從...中撐過/倖存
-- rule out sth (v)排除..的可能性
+- rule out sth [v]排除..的可能性
 - run up against 遭遇(未料到的困難)
-- roll out (v)推出 
-- roll around (v)(時間或事件)開始
-- roll in (v)到來 
-- round sb/sth up (v)集中/聚集/召集
-- remove oneself (v)離去
-- root out (v)找到並消除, 終於找到
-- reach out (v)向某人伸出援手/給某人支持, 與(某人)打成一片
-- set sth/sb apart (v)使…與眾不同
-- set sth aside (v)撥出/留出, 撤銷/駁回, 忘卻/不計較, 把…擱在一邊/暫緩處理
-- set off (v)啟程, 啟動, 使爆炸, 導致...發生, 使..看起來吸引人
-- set about (v)開始/處理 
-- set out (v)發出/啟程
-- set sb up (v)爲..安置職位/使就職, 資助, 使精力充沛/使健康, 陷害/栽贓
-- set down (v)寫下/記下
-- set forth (v)解釋/闡明
-- stay off (v)遠離/避免/避開
-- scale back (v)縮減
-- scare sth/sb off/away (v)把..嚇走
-- scrape sth back (v)整理(頭髮) 
-- scrape sth together/up (v)蒐集
-- scrape by/along (v)勉強維持生計
-- screw sth around/round (v)轉頭/轉身
-- screw sth out of (v)逼...交出/向...勒索
-- seek sb/sth out (v)費時地找出
-- soak sth up (v)吸收/吸掉, 盡情享受/充分體驗, 吸取/吸收(資訊), 用完/耗盡
-- sort sth out (v)成功解決
-- strike down (v)裁定(某法律條文)非法
-- stack up against sth (v)相比/比較
-- stake sth out (v)監視, 表明(觀點或立場)
-- stare down (v)以目光鎮懾某人
-- strip down (v)脫得只剩下…/把衣服脫到
-- spell sth out (v)解釋清楚/詳細地說明
-- spring up (v)突然出現/湧現
-- 
+- roll out [v]推出 
+- roll around [v] (時間或事件)開始
+- roll in [v]到來 
+- round sb/sth up [v]集中/聚集/召集
+- remove oneself [v]離去
+- root out [v]找到並消除, 終於找到
+- reach out [v]向某人伸出援手/給某人支持, 與(某人)打成一片
+- set sth/sb apart [v]使…與眾不同
+- set sth aside [v]撥出/留出, 撤銷/駁回, 忘卻/不計較, 把…擱在一邊/暫緩處理
+- set off [v]啟程, 啟動, 使爆炸, 導致...發生, 使..看起來吸引人
+- set about [v]開始/處理 
+- set out [v]發出/啟程
+- set sb up [v]爲..安置職位/使就職, 資助, 使精力充沛/使健康, 陷害/栽贓
+- set down [v]寫下/記下
+- set forth [v]解釋/闡明
+- stay off [v]遠離/避免/避開
+- scale back [v]縮減
+- scare sth/sb off/away [v]把..嚇走
+- scrape sth back [v]整理(頭髮) 
+- scrape sth together/up [v]蒐集
+- scrape by/along [v]勉強維持生計
+- screw sth around/round [v]轉頭/轉身
+- screw sth out of [v]逼...交出/向...勒索
+- seek sb/sth out [v]費時地找出
+- soak sth up [v]吸收/吸掉, 盡情享受/充分體驗, 吸取/吸收(資訊), 用完/耗盡
+- sort sth out [v]成功解決
+- strike down [v]裁定(某法律條文)非法
+- stack up against sth [v]相比/比較
+- stake sth out [v]監視, 表明(觀點或立場)
+- stare down [v]以目光鎮懾某人
+- strip down [v]脫得只剩下…/把衣服脫到
+- spell sth out [v]解釋清楚/詳細地說明
+- spring up [v]突然出現/湧現
+- lock in sth [v]獲得優勢/保持優勢
+- come off [v]取得預期的效果/成功
+- come off sth [v]剛剛度過(非常成功或困難的時期), 停用(藥物)
+- speak of sth [v]談到, 表示/顯示
+- speak to sth [v]談論
+- speak up [v]提高嗓門/大聲點說
+- speak out [v]公開發表意見/坦率說出
+- spit up [v]吐 
+- step up [v]在有需要或有機會時採取行動
+- shell out [v]不情願地支付 
+- shoot for sth [v]試圖做/力爭得到 
+- shore sth up [v]支撐住, 支持/幫助
+- (be) shorn of [v]被奪走
+- show up [v]到達/露面 
+- show off [v]炫耀/賣弄
+- shower sb with sth [v]用大量的..丟.., 給..很多的..
+- shower sth on/upon sb [v]給..很多的..
+- shy away from sth [v]退縮/躲避
+- shrug sth off [v]不重視/忽視
+- shut out [v]把..擋在門外
+- slip away [v]秘密地離開, (時間)飛逝, (權力、能力或可能性)消失
+- stick out [v]探出/露出/凸出, 顯眼/突出
+- string along [v]長期哄騙/敷衍
+- stand out [v]顯眼, 出眾
+- stand in [v]頂替/代替
+- stress sb out [v]使非常焦慮/使壓力過大
+- straight out of (adj)跟..相似的
+- straighten sth up [v]清乾淨
+- swap out [v]交換
+- smash up [v]搗毀
+- scrub away [v]徹底清洗
+- scrub up [v]手術前洗手
+- side with sb [v]支持(某人或某方)/站在(某人)一邊
+- sign off (on sth) [v]正式認可
+- size up sth [v]打量 == to examine something in order to make a judgment or form an opinion:
+- snap out of [v]擺脫(情緒)
+- separate out [v]捨棄/移除
+- tag along [v]跟隨/尾隨 
+- talk up [v]贊揚
+- take off [v]起飛/飛起, 突然開始成功/開始走紅, 突然離開
+- take over [v]掌握
+- take up [v]開始學/喜歡上, 佔(地方)/費(時間)
+- take place [v]發生
+- take out [v]拿出, 帶...到, 申請
+- tear up [v]撕毀/銷毀, 拒絕, 使不開心/使難過, 眼框泛淚
+- tease out [v]套取/套出, 梳理
+- tend to/towards [v]傾向/易於
+
 ## Dialect
 - fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
 - one-night stand [n]一夜情, 僅演一次的演出
@@ -436,3 +494,4 @@
 - feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
 - full stop [n]句號
 - wet blanket [n]掃興的人 = *party pooper*
+- long shot [n]希望不大的嘗試/機會渺茫
