@@ -412,6 +412,7 @@
 + [arbitrary](/ˈɑːbɪt(rə)ri/) [adj]**任意的**/隨心所欲的, **獨斷的**/專制的 = *dictatorial*, [數]不定的
 - arbitrate [v]仲裁/公斷 = *adjudicate* = *umpire* 
 - arbitration [mn]仲裁
+- **arbitrage** [n/v]套利
 
 ## arbor 樹 = *tree*
 - [arboreal](/ɑːˈbɔːrɪəl/) [adj]樹木的
@@ -2832,7 +2833,7 @@
 - circumference
 + confer [v]**贈與/授與(稱號或榮譽)** = *bestow* = *invest*, 商討/商議 = *consult* = *parley* = *powwow*
 + conference [n]會議/大會, 聯盟 [v]參加(會議)
-+ defer [v]拖延/推延 = *postpone* = *delay*, [to]聽從 = *submit* = *yield*
++ defer [v]拖延/推延 = *postpone* = *delay*, **[to]聽從** = *submit* = *yield*
 + **deference** [mn]敬意/尊重 = *respect* = *regard* = *obeisance*
 + **deferential** [adj]恭敬的 = *obedient* <-- defer
 * **deferment** [n]延期/推遲 = *postponement* <-- defer
@@ -8571,6 +8572,7 @@
 * ungodly [adj]不虔敬的 = *irreligious* = *impious*, **不道德的** = *immoral* = *vicious*
 - ungrudging [adj]不吝惜的/慷慨的 <--> grudging
 + unguided [adj]無導向的, (飛彈)無導向裝置的
+- unheard [adj]未聽見的, [of]前所未聞的/從未發生的
 - **unheralded** [adj]未事先宣布的
 * **unhinged** [adj]心神不定的/精神失常的 = *deranged*
 - unimpassioned [adj]心平氣和的

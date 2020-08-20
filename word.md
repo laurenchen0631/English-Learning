@@ -984,7 +984,7 @@
 - carton [n]紙盒, 一紙盒
 - cascade [n]小瀑布, 傾瀉, 大量, 資訊傳遞, 串聯 [v]傳遞, 串聯
 - **[casa](/ˈkɑːsə/)** [n]房屋 = *house*
-- [cask](/kɑːsk/) [n]圓木桶, 一桶
+- [cask](/kɑːsk/) [n]圓木桶, 一桶 <|> pail
 - **casket** [n]棺材/骨灰盒, 首飾盒 [v]把……裝進小箱或棺材
 - **casserole** [n]砂鍋
 - **catapult** [n]石弩 [v]用彈射器發射, 快速移動/躍
@@ -1233,6 +1233,7 @@
 - **[cuticle](/ˈkjuːtɪk(ə)l/)** [n]角質層/死皮, [生]角質層/表皮
 - **cutback** [n]減少 <|> **comeback**
 - cutlery [n]餐具
+- cutting-edge [adj]最新的/尖端的
 - [cypress](/ˈsʌɪprəs/) [n]柏樹
 
 ## D
@@ -1400,6 +1401,7 @@
 - don [v]戴上/穿上 = *wear* = *put* on [n]大學教師
 - doodle [v]亂畫 [n]塗鴉
 - **doofus**, dufus [n]笨貨/蠢人
+- doomed [adj]註定失敗(或滅亡)的
 - dope [mn][非]麻藥/毒品, 馬用興奮劑, 運動興奮劑, [非]笨蛋, [非]內幕消息, 飛機翼布塗料, 潤滑劑 [v]給…服興奮劑, [be doped up]受藥物影響, 下藥, 塗塗料於 [adj][非]好的 = *very* good
 - **dork** [n]呆子/笨蛋
 - [dorky](/ˈdɔːki/) [adj]呆頭呆腦的 = *awkward*, **不時髦的** = *unfashionable*
@@ -1875,7 +1877,7 @@
 - firefly [n]螢火蟲
 - fishy [adj]魚的/似魚的, [非]可疑的
 - fistful [n]一把 = *handful*
-- **fizzle** [v]發嘶嘶聲, 失敗 [n]嘶嘶聲, 失敗
+- **fizzle** [v]發嘶嘶聲, 失敗, [out]逐漸終止/有始無終 [n]嘶嘶聲, 失敗
 - flabby [adj]不結實的/軟弱的, 鬆弛的/肥胖的 = *overweight*
 - **flabbergast** [v][非]使吃驚 = *astonish*
 - flagpole [n]旗竿
@@ -3460,6 +3462,7 @@
 - nanny [n]保姆, 母山羊 = *nanny* goat [v]做保姆, 過度保護
 - napkin [n]餐巾
 - **narc** [n]緝查麻藥的刑警
+- nacre [n]珍珠母
 - **nary** [adj]沒有 == not
 - **nasal** [adj]鼻的, 鼻音的 [n]鼻音
 - **__nasty__** [adj]糟糕的/令人不快的 = *unpleasant*, 濕冷的, 令人厭惡的 = *repungant*, 不友善的/惡意的, 有害的 = *harmful* [n][非]討厭的人, 恐怖影片 
@@ -5427,7 +5430,7 @@
 * **treacly** [adj]糖蜜似的 = *viscous*, 多愁善感的 = *sentimental* = **saccharine**
 * treat [v]對待/看待, [as]把……看作, 探討/論述, 治療, 處理/為……塗上保護層, **[to]請客**, [oneself]享受, **談判/協商** [n]**難得的樂事**, 請客, 甜食
 * **treaty** [n]條約/協議 <|> **treatise** <-- tractate
-* tip [n]頂/尖端/梢, 小費, 小建議, 內幕消息 [v]覆蓋…的尖端, 翻倒, 傾斜, 輕擊/輕觸, 給..小費, [非][off]向...洩露消息
+* tip [n]頂/尖端/梢, 小費, 小建議, 內幕消息 [v]覆蓋…的尖端, 翻倒, 傾斜, 輕擊/輕觸, 給..小費, [非]**[off]向...洩露消息**
 * tolerate [v]寬容/容忍 = *abide*, 忍耐/忍受
 * tolerant [adj]寬容的/容忍的, 有耐受性的
 * tolerance [n]寬容/寬大, 忍耐力, 耐受性/耐藥量
@@ -5506,6 +5509,7 @@
 - **taxis** [n][醫]整腹法, 反射運動, 文字分類法
 - teal [n]短頸野鴨, 藍綠色
 - tease [v]逗弄/戲弄, 挑逗, **梳理(毛，麻等)**, **理出(資訊)** [n][非]愛戲弄人的人, 挑逗者, 戲弄
+- tee [n]球座, 高爾夫的開球點 [v]放在球座
 - [teensy](/ˈtiːnzi/), teeny [adj][非]微小的 = **wee**
 - **teeter** [v]搖晃/站不穩, [between]猶豫 = *waver* <|> **totter**
 - **teetotaler** [n]絕對禁酒者
@@ -5517,6 +5521,7 @@
 - [testosterone](/tɛˈstɒstərəʊn/) [n]睪固酮
 - tequila [n]龍舌蘭酒
 - termite [n]白蟻
+- [tertiary](/ˈtəːʃ(ə)ri/) [adj]第三的, [醫生]第三期的
 - tether [v]拴住, 用手機熱點連上網 [n]拴繩/繫鏈
 - **thatch** [n]茅草屋頂/茅草, [非]濃密的頭髮 [v]以茅草覆蓋 
 - theme [n]題目/主題, 主題思想, 詞幹 [v]給..特定的主題
@@ -5585,7 +5590,7 @@
 - titanic [adj]巨人的 = *colossal*, 鈦的
 - titular [adj]有名無實的, 稱號的 <-- title
 - **tizzy** [n]興奮/慌亂
-- toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, 祝酒/敬酒 <|> boast
+- toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, **祝酒/敬酒** <|> boast
 - toddler [n]學步的小孩
 - toenail [n]腳趾甲
 - **toil** [v]苦幹/努力工作, 艱難緩慢地行走 [n]苦工 = *labor* <|> toll <|> moil
@@ -5623,6 +5628,7 @@
 - **tractate** [n]論文 = **treatise**
 - trade [n]貿易/交易, 交換, 行業, 信風 [v]做買賣, 交換
 - **__traduce__** [v]誹謗/中傷
+- traffic -> **trafficked** -> trafficked -> trafficking [v[作非法買賣
 - tragic [adj]悲痛的, 悲劇性的, [非]糟糕的, 悲劇的
 - tragedy [n]悲劇 <--> comedy, 慘事/災難
 - trail [n]痕跡, 蹤跡, 一縷, 小道, 道, 滑雪路徑, 預告片, 槍架 [v]拖/曳, (植物)垂下, 緩慢或怪異地移動, (聲音)減弱, 追蹤, 落後, **預告(節目)**, [away/off]逐漸減弱到停止/逐漸消失
@@ -5657,10 +5663,10 @@
 - **troubadour** [n]遊吟詩人
 - **__trough__** [n]飼料槽/飲水槽, 槽 = *channel* = *hollow*, 低壓槽, 低谷/蕭條期 [v][非]狼吞虎嚥
 - **troupe** [n]歌唱團/劇團 <|> **toupee** <|> **trope**
-- **trot** [v] (四足動物)小跑/快跑, (人)快跑/急行, 走/漫步, [out]動不動就提出/重複說 [n]小跑, 快跑, [the trots]腹瀉 = *diarrhoea*
+- **trot** [v] (四足動物)小跑/快跑, (人)快跑/急行, 走/漫步, **[out]動不動就提出/重複說** [n]小跑, 快跑, [the trots]腹瀉 = *diarrhoea*
 - trout [n]鱒魚/鮭魚
 - **trowel** [n]泥刀/小鏟子 [v]用泥刀塗抹
-- trove [n]貴重的發現物 
+- **trove** [n]貴重的發現物 
 - **__truce__** [n]講和/和談, 休戰/停戰 = *armistice* <|> **traduce**
 - trudge [v]跋涉 <-- tread + drudge
 - **__truism__** [n]陳詞濫調/老生常談
@@ -5680,6 +5686,7 @@
 - **turncoat** [n]背叛者/變節者
 - **turntable** [n]唱機轉盤, 轉車臺
 - turn-of-the-century [adj]世紀之交的
+- turnover [n]人員更換率, 交易額
 - **turquoise** [n]藍綠色, 綠松石
 - turret [n]塔樓/角塔, 砲塔, (車床)轉臺
 - tushie [n]屁股

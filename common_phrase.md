@@ -780,7 +780,7 @@
 ## Pejorative
 - goof off 偷懶 == to avoid doing any work
 	- The teacher told them to stop goofing off and get back to work.
-- (go) down the drain [口]]浪費/白費 == be spoiled or wasted
+- (go) down the drain [口]浪費/白費 == be spoiled or wasted
 	- If the factory closes, that will be a million dollars' worth of investment down the drain.
 - (be) at large 逍遙法外/尚未捉拿歸案
 	- The man who tries to have her killed is still in large.
