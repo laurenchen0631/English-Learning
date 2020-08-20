@@ -217,10 +217,6 @@
 - geodesic [adj]曲面幾何結構的, 大地測量學的 [n]測地線
 - curvilinear [adj]曲線的
 
-## Psychology
-- brain imaging == neuroimaging [n]神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術)
-- perspective-taking [n]採取觀點，從另一種觀點(例如另一個人)感知情況或理解概念的行為
-
 ## Universe
 - planetesimal [n]小行星體 [adj]小行星體
 - quasar [n]類星體
@@ -244,6 +240,10 @@
 - polestar [n]北極星
 - Orion [n]獵戶座 
 - Betelgeuse [n]參宿四，也就是拜耳命名法中著名的獵戶座α，是全天第九亮星，也是獵戶座第二亮星
+
+- Ursa Major [n]大熊座
+- Taurus [n]金牛座
+- [Pisces](/ˈpʌɪsiːz/) [n]雙魚座
 
 - galaxy [n]銀河/星系
 - the Milky Way [n]銀河系 == the galaxy (= star system) that includes the earth

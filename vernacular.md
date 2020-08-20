@@ -661,3 +661,4 @@
 - wet blanket [n]掃興的人 = *party pooper*
 - white lie [n]善意的謊言
 - yellow-bellied [adj]膽小的
+- social butterfly [n]交際花

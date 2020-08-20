@@ -1,0 +1,172 @@
+
+## Title/Job
+- chief executive [n]首席執行官
+- the general manager [n]總經理
+- chairman [n]議長/委員長/董事長
+- board member [n]董事會成員
+- undersecretary [n]次長
+- VP == Vice President [n]副總統/副總裁/副總經理
+- executive director [n]執行董事
+- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for "chief"
+- CFO == Chief Financial Officer [n]財務長
+- COO == Chief Operating Officer [n]營運長
+- benefits manager [n]企業福利主管
+- deputy director [n]副主任
+- General Secretary [n]總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
+- CPA == Certified Public Accountant [n]註冊會計師
+
+- advisory board [n]顧問委員會
+- brain trust [n]智囊團/顧問團/諮詢團 == a group of people who advise a leader
+- personnel [n]人員, 人事部門
+- help desk [n]客戶服務部 == a service that provides information and help to people, especially those using a computer network
+
+- aide-de-[camp](/ˌeɪddəˈkɒ̃/) [n]副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
+- attaché[s](/əˈtaʃeɪ/) [n]專員 == A person on the staff of an ambassador having a specialized area of responsibility.
+- bouncer [n]保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
+- chancellor [n]大臣/總理, 大法官, 大學校長
+- clerk [n]辦事員/記帳員, 書記, 教堂執事/預備修道士, 店員/銷售員 [v]當銷售員
+- cottage industry [n]家庭代工
+- dean [n]司祭長/教長, 學院院長
+- fire marshal [n]消防員, 消防署署長/消防隊長
+- foreman [n]工頭/領班, 陪審團主席
+- homemaker [n]主婦
+- lumberjack [n]伐木工人
+- pencil pusher [n]機關辦事員/文書 == a person who has an office job that is not interesting
+- secretary [n]祕書 == A person employed by an individual or in an office to assist with correspondence
+- spokesperson [n]發言人/代言人 == spokesman or spokeswoman
+- steward [n]服務員, 膳務員, 幹事/籌備員, 籌備, 工會代表, 管理, 財產管理人/管家 
+- sidekick [n]助手 == A person's assistant or close associate, especially one who has less authority than that person.
+- tour guide [n]導遊
+- undertaker [n]殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
+- funeral home == funeral parlor [n]殯儀館 = mortuary
+- welder [n]焊接工人
+
+- rank and file [n]普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
+- blue-collar [adj]藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
++ [bourgeoisie](/ˌbʊəʒwɑːˈziː/) [n]中產階級
+- higher-up [n]高層人物/要員 == someone with a more important position than you in an organization
+
+## Company/Store
+- off-duty [adj]不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
+- overtime [mn]加班, 加班費, 加時賽 [adv]加班地
+- take-home pay [n]稅後收入 == the amount of earnings that you have left after tax, etc.
+- pre-tax salary [n]稅前收入
+- exit package == severance package [n]解僱補償費/遣散費
+
+- Ltd == limited liability company [n]有限責任公司，是一種公司的組織形態，有限公司對外所負的經濟責任，以出資者所投入的資金為限。
+- Inc == incorporation [n]股份有限公司
+- onboarding [n]入職培訓 == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
+- outsource [v]外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
+- subcontractor [n]承包者 == A firm or person that carries out work for a company as part of a larger project
+
+- front group == front organization [n]掩護機構/傀儡組織，由另一個組織設立並控制的實體，掩護機構可代替其上級組織實施行動，而不使這些行動與其上級組織聯繫起來。 
+- back-office [n]事務部門/後勤部門
+
+- 401K [n]401(k)退休福利計劃，是美國於1981年創立一種延後課稅的退休金帳戶計劃，美國政府將相關規定明訂在國稅法第401(k)條中，故簡稱為401(k)計劃
+- [pension](/ˈpɛnʃ(ə)n/) [n]退休金, 補助金, 膳宿公寓/寄宿家庭 [v]發給..退休金, 捨棄
+- nondisclosure agreement [n]保密協議
+- layoff [n]臨時解僱, 解僱期, 停止活動
+- family leave [n]家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
+- paternity leave [n]陪產假
+- maternal leave [n]產假/育嬰假
+- welfare [n]健康安樂/幸福, 福利事業, 社會救濟
+* paycheck [n]薪水/薪資單
++ proprietary [adj]所有人的/所有權的, 專利的/專賣的
+- proprietary eponym [n]通用商標
+- genericide [n]通用商標 == The process by which a brand name loses its distinctive identity as a result of being used to refer to any product or service of its kind.1
++ cartel [n]壟斷聯盟/企業聯合, 政治聯盟
+- tagline [n]品牌主張/品牌理念
+- big-box store [n]超級商場
+- chain == chain store [n]連鎖店
+- liquor store [n]持有外賣酒類執照的商店
+- modeling agency [n]模特兒公司 == company that represents fashion models, to work for the fashion industry
+- boutique consulting firm [n]小型商業諮詢公司
+- outfitter [n]旅行用品商店
+- emporium [n]商業中心/大百貨店
+- strip mall [n]條形商場，是一個露天購物中心，商店排成一排，前面有一條人行道
+- convenience store == CVS [n]便利商店
+- subsidize [v]補助, 補貼
+- triple bottom line 三重底線，或稱作三重盈餘，即企業盈利、社會責任、環境責任三者的統一
+- turnover [n]營業額/交易額, 人員更換率
+- time off [n]休假
+- day off [n]休假
+- get off work [v]下班
+- fire drill [n]消防演習
+- clock in [v]打卡上班 == to record the time you arrive at work on a special machine
+- booth [n]貨攤, 小房間/電話亭/投票間/包廂
+- PR == public relations [n]公共關係，通常簡稱PR或公關，是指有關著名人物、商業機構、政府、非牟利機構等各種組織，為改善與社會公眾的關係、促進公眾對其認識，以樹立良好形象、取得公眾的理解及支持
+- storefront [n]臨街店面/臨街店舖
+- arcade [n]拱廊/拱廊通道, 拱廊商業街
+- ready-made [adj]預先製成的/現成的 [n]現成品
+- administrative reorganization 行政重組
+- [wholesaler](/ˈhəʊlseɪlə/) [n]批發商
+- backorder [n]未交貨訂單 [v]因缺貨而下訂單
+- admission fee [n]入場費
+- crisis communication [n]危機溝通情況(公共關係專業的一個次要專業，旨在保護和保護面臨公共挑戰聲譽的個人，公司或組織)
+
+## Finance/Commerce
+- arbitrage [n/v]套利
+- arbitrageur [n]從事套利活動的人/套匯者 == A person who engages in arbitrage.
+- IPO == Initial Public Offerings [n]首次公開募股
+- underwater [n] == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
+- earnings call [n] == a teleconference in which a public company talks about its financial situation
+- fiduciary duty [n]信託義務
+- Series A financing/funding [n]A輪融資
+- venture capital [n]創業投資 == VC
+- mortgage [n]抵押貸款/抵押證書/抵押契據 [v]用...做抵押
+- real estate [n]房地產
+- realtor [n]房地產經紀人
+- real estate investment trusts [n]不動產投資信託
+- hedge fund [n]避險基金，又稱對沖基金或套利基金
+- capex == Capital expenditure [n]資本支出
+- Ponzi scheme [n]龐氏騙局，是指以虛假的投資項目作招徠，並以後來投資者的資金，支付給最初投資者作利潤，以營造高回報假象
+- pyramid scheme [n]金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
+- multi-level marketing (MLM) [n]
+- private equity [n]私募股權，指的是公司透過私下，而非公開募集的方式，向特定的少數人來籌集資金 
+- private equity firms [n]私人股本公司
+- inflation [n]通貨膨脹
+- The Great Depression [n]經濟大恐慌/經濟大蕭條，1929年至1933年之間全球性的經濟大衰退
+- The Great Recession [n]經濟大衰退，是一場在2007年8月9日開始浮現的金融危機引發的經濟衰退
+- the dotcom bubble [n]網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
+- wholesale [mn]批發 [adv]以批發方式, 大規模地/不加區別地 [adj]大批的/大規模的 = *extensive* [v]批發
+- tariff [n]關稅 == A tax or duty to be paid on a particular class of imports or exports. 
+- foreclosure [n]取消贖回權 == The action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
+- the housing crash == housing bubble [n]房市泡沫化
+- equity [n]公平/公正, 股價, 普通股, 抵押淨值
+- mom-and-pop [adj]家族的(事業) == used to describe a small business that is owned and operated by members of the same family
+- money loser [n]不賺錢的東西 == a product, service, or business that does not make a profit
+- mortgage-backed securities [n]住房抵押貸款證券
+- pension fund [n]社會保障基金
+- insurer [n]保險業者 == A person or company that underwrites an insurance risk; the party in an insurance contract undertaking to pay compensation.
+- Alt-A [n]美國的房貸市場中，依照借貸人的信用等級來分，可區分為信用較高的主要(Prime)房貸、信用普通的Alt A(另類)貸款，與信用較低的次級(Subprime)房貸。
+- grace period [n]延緩期/寬限期 == extra time you are given to pay money you owe without losing something or paying an additional amount
+- auto loan [n]汽車貸款
+- consumer loan [n]消費者貸款 == a loan made by a bank, etc. to an individual person rather than to a business
+* down payment [n]首期/首付款
+- payroll [n]薪水帳冊, 應付薪資總額
+- appeals panel [n]上訴委員會
+- hazard pay [n]安全津貼/高危工作津貼
+- signing bonus [n]簽約獎金，是公司向新員工支付的一筆錢，作為對其加盟的激勵
+- the Fair Credit Reporting Act [n]公平合理信用報告法，要求各種信用報告活動要以對有關消費者公正、合理的方式進行，並尊重其隱私權。消費者有權瞭解調查報告活動情況，有權瞭解調查報告的內容和修改其中的錯誤等。
+- the Equal Credit Opportunity Act [n]公平信貸機會法，禁止貸款人在處理信貸業務時，基於種族、膚色、宗教信仰、民族、性別、婚姻狀況、年齡的不同而對信貸申請人採取歧視待遇的一項聯邦法律
+- line-item [n]分項賬目 == a single part of a financial statement, especially one giving details of the accounts of a company or government
+- grantee [n]受讓人 == A person to whom a grant or conveyance is made.
+- wire transfer [n]電匯
+- competitive advantage [n]競爭優勢，是一種特質，競爭力大或強的才有優勢，那麼這種優勢就是獨特的，否則它就不可能有更大或更強的競爭力
+- slush fund [n]非法基金/行賄基金
+- [escrow](/ˈɛskrəʊ/) [n]附帶條件委付蓋印契約, 第三方保管 [v]暫由第三方保管
+- licensing terms [n]授權條款
+- licensing agreement [n]授權合約 
+- Goldman Sachs [n]高盛集團，一家美國跨國投資銀行與金融服務公司，其總部位於紐約市曼哈頓
+- Morgan Stanley [n]摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
+- charter [n]特許狀/許可證, 租賃權 [v]給予……特權, 特許成立, 包下/租
+- build-operate-transfer [n]BOT模式，民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營
+- tax return [n]報稅，在美國是指向美國國家稅務局或各州、地方的徵稅機構申報所得稅或其他稅務
+- operating expense [n]營業費用，是運行企業的持續性、消耗性的支出，與之對照的是資本支出
+- pre-roll ads [n]影音進廣告
+- gross domestic product == GDP [n]國內生產總值，在描述地區性生產時稱本地生產總值或地區生產總值
+- security deposit [n]保證金
+- cold hard cash [n]現金
+- pay cut [n]減薪
+- clickbait [n]點擊誘餌(指的是那些透過聳動的標題、熱點…等等，來達成吸引讀者點閱文章的目的)
+- call-to-action [n]行動呼籲/召喚行動(CTA 通常是一張圖片，一個按鈕，或是一段文字，主要是希望透過「呼籲」使造訪網頁的訪客可以依循著網頁的設計而有所「行動」)

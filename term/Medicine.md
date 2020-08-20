@@ -159,7 +159,8 @@
 - infantile amnesia 嬰兒經驗失憶
 - [vitamin](/ˈvɪtəmɪn/) [n]維他命/維生素
 - variolation [n]變種/接種(首先用於從患者或最近變化的個體中取出的材料對個體進行天花免疫的方法)
-
+- siamese twins [n]連體嬰
+- **body cast** [n]石膏
 
 ## Disease/Hurt
 - attention deficit hyperactivity disorder == ADHD [n]專注力失調及過度活躍症
@@ -293,6 +294,9 @@
 - sickle cell disease == SCD [n]鐮刀型紅血球疾病，是一組通常由雙親遺傳而來的血液疾病
 
 
+## Psychology
+- brain imaging == neuroimaging [n]神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術)
+- perspective-taking [n]採取觀點，從另一種觀點(例如另一個人)感知情況或理解概念的行為
 
 ## Body
 - skeleton [n]骨骼, 骨瘦如柴的人或動物, 遺骸, 概略/大綱
@@ -309,6 +313,7 @@
 - rib cage [n]肋骨
 - wrist [n]腕/腕關節, 衣服的腕部, 遊樑鐵栓
 - blade bone [n]肩胛骨/髆
+- cartilaginous [adj]軟骨的
 
 - muscle group [n]肌肉群
 - muscle mass [n]肌肉量
@@ -323,6 +328,7 @@
 - quadriceps [n]股四頭肌
 - [sphincter](/ˈsfɪŋktə/) [n](肛門)括約肌
 - knee-jerk [n]膝躍反射
+- Adam's apple [n]喉結
 
 - viscera [n]內臟 
 - visceral [adj]內臟的, 出自內心深處的

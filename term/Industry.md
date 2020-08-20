@@ -11,173 +11,6 @@
 - capitalism [n]資本主義 == An economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.
 - yellow page [n]黃頁，在很多國家和地區都用來表示一份商業用社會團體的電話名冊、通訊目錄
 
-## Title/Job
-- chief executive [n]首席執行官
-- the general manager [n]總經理
-- chairman [n]議長/委員長/董事長
-- board member [n]董事會成員
-- undersecretary [n]次長
-- VP == Vice President [n]副總統/副總裁/副總經理
-- executive director [n]執行董事
-- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for "chief"
-- CFO == Chief Financial Officer [n]財務長
-- COO == Chief Operating Officer [n]營運長
-- benefits manager [n]企業福利主管
-- deputy director [n]副主任
-- General Secretary [n]總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
-- CPA == Certified Public Accountant [n]註冊會計師
-
-- advisory board [n]顧問委員會
-- brain trust [n]智囊團/顧問團/諮詢團 == a group of people who advise a leader
-- personnel [n]人員, 人事部門
-- help desk [n]客戶服務部 == a service that provides information and help to people, especially those using a computer network
-
-- aide-de-[camp](/ˌeɪddəˈkɒ̃/) [n]副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
-- attaché[s](/əˈtaʃeɪ/) [n]專員 == A person on the staff of an ambassador having a specialized area of responsibility.
-- bouncer [n]保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
-- chancellor [n]大臣/總理, 大法官, 大學校長
-- clerk [n]辦事員/記帳員, 書記, 教堂執事/預備修道士, 店員/銷售員 [v]當銷售員
-- cottage industry [n]家庭代工
-- dean [n]司祭長/教長, 學院院長
-- fire marshal [n]消防員, 消防署署長/消防隊長
-- foreman [n]工頭/領班, 陪審團主席
-- homemaker [n]主婦
-- lumberjack [n]伐木工人
-- pencil pusher [n]機關辦事員/文書 == a person who has an office job that is not interesting
-- secretary [n]祕書 == A person employed by an individual or in an office to assist with correspondence
-- spokesperson [n]發言人/代言人 == spokesman or spokeswoman
-- steward [n]服務員, 膳務員, 幹事/籌備員, 籌備, 工會代表, 管理, 財產管理人/管家 
-- sidekick [n]助手 == A person's assistant or close associate, especially one who has less authority than that person.
-- tour guide [n]導遊
-- undertaker [n]殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
-- funeral home == funeral parlor [n]殯儀館 = mortuary
-- welder [n]焊接工人
-
-- rank and file [n]普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
-- blue-collar [adj]藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
-+ [bourgeoisie](/ˌbʊəʒwɑːˈziː/) [n]中產階級
-- higher-up [n]高層人物/要員 == someone with a more important position than you in an organization
-
-## Company/Store
-- off-duty [adj]不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
-- overtime [mn]加班, 加班費, 加時賽 [adv]加班地
-- take-home pay [n]稅後收入 == the amount of earnings that you have left after tax, etc.
-- pre-tax salary [n]稅前收入
-- exit package == severance package [n]解僱補償費/遣散費
-
-- Ltd == limited liability company [n]有限責任公司，是一種公司的組織形態，有限公司對外所負的經濟責任，以出資者所投入的資金為限。
-- Inc == incorporation [n]股份有限公司
-- onboarding [n]入職培訓 == ​the process in which new employees gain the knowledge and skills they need to become effective members of an organization
-- outsource [v]外包/委外 == Obtain (goods or a service) by contract from an outside supplier.
-- subcontractor [n]承包者 == A firm or person that carries out work for a company as part of a larger project
-
-- front group == front organization [n]掩護機構/傀儡組織，由另一個組織設立並控制的實體，掩護機構可代替其上級組織實施行動，而不使這些行動與其上級組織聯繫起來。 
-- back-office [n]事務部門/後勤部門
-
-- 401K [n]401(k)退休福利計劃，是美國於1981年創立一種延後課稅的退休金帳戶計劃，美國政府將相關規定明訂在國稅法第401(k)條中，故簡稱為401(k)計劃
-- [pension](/ˈpɛnʃ(ə)n/) [n]退休金, 補助金, 膳宿公寓/寄宿家庭 [v]發給..退休金, 捨棄
-- nondisclosure agreement [n]保密協議
-- layoff [n]臨時解僱, 解僱期, 停止活動
-- family leave [n]家庭假 == a period of time allowed away from work in order to deal with a family situation such as taking care of a baby or an ill family member
-- paternity leave [n]陪產假
-- maternal leave [n]產假/育嬰假
-- welfare [n]健康安樂/幸福, 福利事業, 社會救濟
-* paycheck [n]薪水/薪資單
-+ proprietary [adj]所有人的/所有權的, 專利的/專賣的
-- proprietary eponym [n]通用商標
-- genericide [n]通用商標 == The process by which a brand name loses its distinctive identity as a result of being used to refer to any product or service of its kind.1
-+ cartel [n]壟斷聯盟/企業聯合, 政治聯盟
-- tagline [n]品牌主張/品牌理念
-- big-box store [n]超級商場
-- chain == chain store [n]連鎖店
-- liquor store [n]持有外賣酒類執照的商店
-- modeling agency [n]模特兒公司 == company that represents fashion models, to work for the fashion industry
-- boutique consulting firm [n]小型商業諮詢公司
-- outfitter [n]旅行用品商店
-- emporium [n]商業中心/大百貨店
-- strip mall [n]條形商場，是一個露天購物中心，商店排成一排，前面有一條人行道
-- convenience store == CVS [n]便利商店
-- subsidize [v]補助, 補貼
-- triple bottom line 三重底線，或稱作三重盈餘，即企業盈利、社會責任、環境責任三者的統一
-- turnover [n]營業額/交易額, 人員更換率
-- time off [n]休假
-- day off [n]休假
-- get off work [v]下班
-- fire drill [n]消防演習
-- clock in [v]打卡上班 == to record the time you arrive at work on a special machine
-- booth [n]貨攤, 小房間/電話亭/投票間/包廂
-- PR == public relations [n]公共關係，通常簡稱PR或公關，是指有關著名人物、商業機構、政府、非牟利機構等各種組織，為改善與社會公眾的關係、促進公眾對其認識，以樹立良好形象、取得公眾的理解及支持
-- storefront [n]臨街店面/臨街店舖
-- arcade [n]拱廊/拱廊通道, 拱廊商業街
-- ready-made [adj]預先製成的/現成的 [n]現成品
-- administrative reorganization 行政重組
-- [wholesaler](/ˈhəʊlseɪlə/) [n]批發商
-- backorder [n]未交貨訂單 [v]因缺貨而下訂單
-- admission fee [n]入場費
-- crisis communication [n]危機溝通情況(公共關係專業的一個次要專業，旨在保護和保護面臨公共挑戰聲譽的個人，公司或組織)
-
-## Finance/Commerce
-- arbitrage [n/v]套利
-- arbitrageur [n]從事套利活動的人/套匯者 == A person who engages in arbitrage.
-- IPO == Initial Public Offerings [n]首次公開募股
-- underwater [n] == Relating to or denoting a loan with a balance that exceeds the current market value of the loan.
-- earnings call [n] == a teleconference in which a public company talks about its financial situation
-- fiduciary duty [n]信託義務
-- Series A financing/funding [n]A輪融資
-- venture capital [n]創業投資 == VC
-- mortgage [n]抵押貸款/抵押證書/抵押契據 [v]用...做抵押
-- real estate [n]房地產
-- realtor [n]房地產經紀人
-- real estate investment trusts [n]不動產投資信託
-- hedge fund [n]避險基金，又稱對沖基金或套利基金
-- capex == Capital expenditure [n]資本支出
-- Ponzi scheme [n]龐氏騙局，是指以虛假的投資項目作招徠，並以後來投資者的資金，支付給最初投資者作利潤，以營造高回報假象
-- pyramid scheme [n]金字塔式騙局/層壓式推銷，在台灣別稱老鼠會
-- multi-level marketing (MLM) [n]
-- private equity [n]私募股權，指的是公司透過私下，而非公開募集的方式，向特定的少數人來籌集資金 
-- private equity firms [n]私人股本公司
-- inflation [n]通貨膨脹
-- The Great Depression [n]經濟大恐慌/經濟大蕭條，1929年至1933年之間全球性的經濟大衰退
-- The Great Recession [n]經濟大衰退，是一場在2007年8月9日開始浮現的金融危機引發的經濟衰退
-- the dotcom bubble [n]網際網路泡沫，指由1995年至2001年間與資訊科技及網際網路相關的投機泡沫事件
-- wholesale [mn]批發 [adv]以批發方式, 大規模地/不加區別地 [adj]大批的/大規模的 = *extensive* [v]批發
-- tariff [n]關稅 == A tax or duty to be paid on a particular class of imports or exports. 
-- foreclosure [n]取消贖回權 == The action of taking possession of a mortgaged property when the mortgagor fails to keep up their mortgage payments.
-- the housing crash == housing bubble [n]房市泡沫化
-- equity [n]公平/公正, 股價, 普通股, 抵押淨值
-- mom-and-pop [adj]家族的(事業) == used to describe a small business that is owned and operated by members of the same family
-- money loser [n]不賺錢的東西 == a product, service, or business that does not make a profit
-- mortgage-backed securities [n]住房抵押貸款證券
-- pension fund [n]社會保障基金
-- insurer [n]保險業者 == A person or company that underwrites an insurance risk; the party in an insurance contract undertaking to pay compensation.
-- Alt-A [n]美國的房貸市場中，依照借貸人的信用等級來分，可區分為信用較高的主要(Prime)房貸、信用普通的Alt A(另類)貸款，與信用較低的次級(Subprime)房貸。
-- grace period [n]延緩期/寬限期 == extra time you are given to pay money you owe without losing something or paying an additional amount
-- auto loan [n]汽車貸款
-- consumer loan [n]消費者貸款 == a loan made by a bank, etc. to an individual person rather than to a business
-* down payment [n]首期/首付款
-- payroll [n]薪水帳冊, 應付薪資總額
-- appeals panel [n]上訴委員會
-- hazard pay [n]安全津貼/高危工作津貼
-- signing bonus [n]簽約獎金，是公司向新員工支付的一筆錢，作為對其加盟的激勵
-- the Fair Credit Reporting Act [n]公平合理信用報告法，要求各種信用報告活動要以對有關消費者公正、合理的方式進行，並尊重其隱私權。消費者有權瞭解調查報告活動情況，有權瞭解調查報告的內容和修改其中的錯誤等。
-- the Equal Credit Opportunity Act [n]公平信貸機會法，禁止貸款人在處理信貸業務時，基於種族、膚色、宗教信仰、民族、性別、婚姻狀況、年齡的不同而對信貸申請人採取歧視待遇的一項聯邦法律
-- line-item [n]分項賬目 == a single part of a financial statement, especially one giving details of the accounts of a company or government
-- grantee [n]受讓人 == A person to whom a grant or conveyance is made.
-- wire transfer [n]電匯
-- competitive advantage [n]競爭優勢，是一種特質，競爭力大或強的才有優勢，那麼這種優勢就是獨特的，否則它就不可能有更大或更強的競爭力
-- slush fund [n]非法基金/行賄基金
-- [escrow](/ˈɛskrəʊ/) [n]附帶條件委付蓋印契約, 第三方保管 [v]暫由第三方保管
-- licensing terms [n]授權條款
-- licensing agreement [n]授權合約 
-- Goldman Sachs [n]高盛集團，一家美國跨國投資銀行與金融服務公司，其總部位於紐約市曼哈頓
-- Morgan Stanley [n]摩根史坦利，是一家成立於美國紐約的國際金融服務公司，提供包括證券、資產管理、企業合併重組和信用卡等金融服務。
-- charter [n]特許狀/許可證, 租賃權 [v]給予……特權, 特許成立, 包下/租
-- build-operate-transfer [n]BOT模式，民間興建營運後轉移模式，是民間參與公共建設的運用模式之一，為將政府所規劃的工程交由民間投資興建，並且在經營一段時間後，再轉移由政府經營
-- tax return [n]報稅，在美國是指向美國國家稅務局或各州、地方的徵稅機構申報所得稅或其他稅務
-- operating expense [n]營業費用，是運行企業的持續性、消耗性的支出，與之對照的是資本支出
-- pre-roll ads [n]影音進廣告
-- gross domestic product == GDP [n]國內生產總值，在描述地區性生產時稱本地生產總值或地區生產總值
-
 ## Law
 - the Articles of Confederation [n]邦聯條例，全稱為《邦聯和永久聯合條例》，是美利堅合眾國13個創始州共同承認並遵守的第一部憲法
 - the Supreme Court [n]最高法院
@@ -716,574 +549,26 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - [brew](/bruː/) [v]釀造, 泡(茶)/煮(咖啡), 醞釀 [n]啤酒, 杯子 = cup = mug, 混合物
 - [cauldron](/ˈkɔːldr(ə)n/) [n]釜/大鍋
 - spaghetti [n]意大利細麵條
-## Literature/Media
-- Condé Nast 康泰納仕，是一個總部位於美國紐約市的國際期刊出版集團。 旗下眾多出版物中，包括《紐約客》、《浮華世界》、《誘惑》、《時尚》、《GQ》、《現代新娘》等知名雜誌
-- Rupert Murdoch 魯柏·梅鐸，生於澳洲墨爾本，現居美國，全球首屈一指的新聞媒體大亨，現任新聞集團持有14%股份和39.4%的投票權與21世紀福斯公司董事長與最大股東
-- The Times 《泰晤士報》，英國的一份於全國發行的綜合型日報
-- journalism [mn]新聞工作/新聞業
-- obituary 訃告 == A notice of a death, especially in a newspaper
-- columnist 專欄作家
-- tabloid
-	> 小報 |A newspaper having pages half the size of those of the average broadsheet, typically popular in style and dominated by sensational stories.|
-	> 轟動的 | Lurid and sensational.| a tabloid TV show
-- Pulitzer Prizes /ˈpʊlɪtsə ˌprʌɪz/ [n]普立茲獎，亦稱普立茲新聞獎
-- science-fiction 科幻
-- [whodunit](/huˈdənət/) [n][非]偵探小說
-- [Martian](/ˈmɑːʃ(ə)n/) 火星人 == A hypothetical or fictional inhabitant of Mars.
-- motion-picture 電影 == A cinema film
-- the Academy Awards 學院獎，全名學院功績獎，通稱奧斯卡金像獎
-- Grammy 葛萊美獎
-- Henry David Thoreau 亨利·大衛·梭羅，他最著名的作品有散文集《湖濱散記》和《公民不服從》
-* pun [n]雙關語 [v]說雙關語 == A joke exploiting the different possible meanings of a word or the fact that there are words which sound alike but have different meanings.
-- punctuatio 標點符號
-* trope
-	> 轉義/比喻 |A figurative or metaphorical use of a word or expression.| ‘my sense that philosophy has become barren is a recurrent trope of modern philosophy
-	> 主題 |A significant or recurrent theme; a motif.| she uses the Eucharist as a pictorial trope
-- editor-at-large 特約編輯
-+ lithography 平板印刷術 == offset printing == The process of printing from a flat surface treated so as to repel the ink except where it is required for printing.
-- letterpress 凸版印刷 == Printing from a hard raised image under pressure, using viscous ink.
-- printing press 印刷機
-- intaglio [n]陰刻/凹雕/凹刻印刷 [v]凹雕
-- blanket cylinder 橡膠滾筒
-- webfed press 捲筒紙印刷機
-- [papyrus](/pəˈpʌɪrəs/) [n]紙莎草紙, 紙莎草
-- vellum [n]羊皮紙
-- calf skin [n]小牛皮
-- parchment [n]羊皮紙, 羊皮紙文稿
-- [octavo](/ɒkˈtɑːvəʊ/) [n]八開紙/八開本
-- cloth parchment [n]布羊皮紙
-- [cardboard](/ˈkɑːdbɔːd/) [n]硬紙板 [adj]不真實的/不自然的
-- glossy [adj]滑順有光澤的, 用亮光紙印的, 浮誇的 [n][非]亮光紙印刷的雜誌, 亮面印刷照片
-- laureate
-	> 獲獎者 |A person who is honoured with an award for outstanding creative or intellectual achievement.| a Nobel laureate
-	> 桂冠詩人 |Poet Laureate|
-	> 戴桂冠的 |Wreathed with laurel as a mark of honour.|
-	> 月桂葉作成的 |consisting of laurel.|
-- crossover event 穿越/跨界
-	> Chamberlain’s most popular videos tend to be collaborations, which tap the strength of multiple audiences like any crossover event.
-+ spin-off
-	> 衍生産品/副産品 |a product that develops from another more important product| The research has had spin-offs in the development of medical equipment.
-	> 衍生作品 |a programme or other show involving characters from a previous programme| The stage show is a spin-off from a television programme.
-- sound bite 精華片段 == soundbite == A short extract from a recorded interview or speech, chosen for its succinctness or concision.
-- sitcom 情境喜劇
-- thriller 驚悚作品 == a book, play, or film that has an exciting story, often about solving a crime
-- paparazzi 狗仔隊
-- stream-of-consciousness 意識流
-- Associated Press 聯合通訊社，為美國乃至於世界最大的通訊社，是由各成員單位聯合組成的合作型通訊社
-- backdrop
-	> 佈景 |A painted cloth hung at the back of a theatre stage as part of the scenery.|
-	> 背景 |The setting or background for a scene, event, or situation.| the conference took place against a backdrop of increasing diplomatic activity
-	> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
-- Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
-- advance copy [n]預讀副本/預審複本，出版商贈送給書商，圖書管理員，新聞工作者，名人或其他人的新書的免費副本
-
-- field guide [n]圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
-
-- wet-plate photography [n]濕版火棉膠攝影法
-
-- prime time [n](廣播與電視的)黃金時段
-- media consumption [n]媒體消費，個人或團體所接受的信息和娛樂媒體的總和
-
-- Hugo Award [n]雨果獎，一個頒予每年最佳科幻和奇幻作品的獎項
-- novella [n]短篇故事/中篇小說 
-- readership [n]讀者
-- flashback [n]倒敘/插敘, 迷幻藥效幻覺
-
-- Restoration comedy [n]還原喜劇，在1660年至1710年的恢復時期創作並表演的英語喜劇
-
-- epistle [n]書信, 使徒書信
-- epistolary [adj]書信的/書信體的
-- lyric [adj]抒情的, 歌詞的 [n]抒情詩, 歌詞 --> lyrical [adj]抒情的, 歌詞的 
-- [ode](/əʊd/) [n]頌詩/頌歌 <--> [odd](/ɒd/) <--> [old](/əʊld/) 
-- iambic pentameter 五步抑揚格，用於傳統英語詩歌和詩歌劇的公制線
-- [iambic](/ʌɪˈambɪk/) [adj]抑揚格的 [n]抑揚格的詩
-- pentameter [n]五音步詩行(一種詩的韻律，以五步格創作的詩，其中的每一個句子，都可以被分為五個音步)
-- [syllable](/ˈsɪləb(ə)l/) [n]音節, 絲毫 [v]發音清晰
-- stanza [n]詩節 == A group of lines forming the basic recurring metrical unit in a poem; a verse.
-* [prosody](/ˈprɒsədi/) [n]詩韻, 詩韻學
-	> 詩韻 |The patterns of rhythm and sound used in poetry.| the translator is not obliged to reproduce the prosody of the original
-	> 詩韻學 |The theory or study of prosody.|
-	> |The patterns of stress and intonation in a language.| the salience of prosody in child language acquisition
-* [hymn](/hɪm/) [n]讚美詩, 讚美
-	> 讚美詩 |A religious song or poem of praise to God or a god.| a Hellenistic hymn to Apollo
-	> 讚美 |Praise (something)| the joys of domesticity were being hymned in magazines
-* [rhyme](/rʌɪm/) [n]韻/韻腳, 押韻詩/韻文, 同音字 [v]押...韻, 押韻/成韻, 使成韻, 作詩 <--> [rhythm](/ˈrɪð(ə)m/) 
-	> 韻/韻腳 |Correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.|
-	> 押...韻 |(of a word, syllable, or line) have or end with a sound that corresponds to another.| balloon rhymes with moon
-	> 押韻 |(of a poem or song) be composed in rhyme.| the poem would have been better if it rhymed
-	> 使成韻 |Put a word together with (another word that has a corresponding sound), as when writing poetry.| I'm not sure about rhyming perestroika with balalaika
-	> 作詩 |Compose verse or poetry| Musa rhymed and sang
-	> 押韻詩/韻文 |Rhyming poetry or verse.|
-	> 同音字 |A word that has the same sound as another.|
-
-
-## Music/Performance
-- étude, etude [n]練習曲
-- field holler [n]田野歌/喊歌
-
-- Chopin [n]蕭邦
-
-- banjo [n]五弦琴/班卓琴
-
-- the Wizard of Oz [n]綠野仙蹤(一部1939年的美國歌舞奇幻電影)
-
-
-- the Beatle 披頭四樂團
-- Louis Armstrong 阿姆斯壯是20世紀最著名的爵士樂音樂家之一，被稱為「爵士樂之父」
-- Bix Beiderbecke 畢克斯·拜德貝克，美國爵士短號手、爵士鋼琴家和作曲家。 
-- George Gershwin 喬治·蓋希文，是一位美國作曲家
-- Benny Goodman 班尼·古德曼，美國著名單簧管演奏家，被譽為「搖擺樂之王」
-- Taylor Swift 泰勒·艾莉森·絲薇芙特，是一名美國創作歌手、音樂製作人、慈善家及演員。作為當今全世界最有影響力的歌手之一
-- A Midsummer Night’s Dream [n]仲夏夜之夢，威廉·莎士比亞在約1590年－1596年間創作的浪漫喜劇
-- [cinema](/ˈsɪnɪmə/) [n]電影院, 電影
-+ [playwright](/ˈpleɪrʌɪt/) [n]劇作家
-- set designer [n]舞臺設計師
-- acting coach [n]表演教練
-- score
-	> |The number of points, goals, runs, etc. achieved in a game or by a team or an individual.|
-	> |Gain (a point, goal, run, etc.) in a competitive game.| McCartney scored a fine goal
-	> |A rating or grade, such as a mark achieved in a test.|
-	> |Decide on the score to be awarded to (a competitor)| the judge must score each dog and handler against this standard
-	> |Be worth (a number of points)| a yes answer scores ten points
-	> |The state of affairs; the facts about the present situation.| What's wrong Simon? What's the score?
-	> |A group or set of twenty or about twenty.| a score of men lost their lives in the battle
-	> scores of |A large number of something.| he sent scores of enthusiastic letters to friends
-	> 總譜 |A written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.|
-	> 配樂 |The music composed for a film or play.| a film score
-	> |Orchestrate or arrange (a piece of music), typically for a specified instrument or instruments.| the Quartet Suite was scored for flute, violin, viola da gamba, and continuo
-	> |A notch or line cut or scratched into a surface.| check the shaft for scratches and scores
-	> |Cut or scratch a notch or line on (a surface)| score the card until you cut through
-	> |Delete text by drawing a line through it.|
-- tenor
-	> 男高音/次中音 |A singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range.| 
-	> |An instrument, especially a saxophone, trombone, tuba, or viol, of the second or third lowest pitch in its family.|
-	> 大意/要旨 |The general meaning, sense, or content of something.| the general tenor of the debate
-	> 一般趨向/進程 |A settled or prevailing character or direction, especially the course of a person's life or habits.| the even tenor of life in the kitchen was disrupted the following day
-	> 抄本 |The actual wording of a document.|
-	> |The time that must elapse before a bill of exchange or promissory note becomes due for payment.|
-- trumpet 小號
-- harmonica 口琴
-- harp
-	> 豎琴 |A musical instrument consisting of a frame supporting a graduated series of parallel strings, played by plucking with the fingers. The modern orchestral harp has an upright frame, with pedals which enable the strings to be retuned to different keys.|
-	> 口琴 |harmonica|
-	> 豎琴螺 |harp shell; harp snail|
-- [cello](/ˈtʃɛləʊ/) [n]大提琴
-- string quartet 弦樂四重奏
-- [orchestra](/ˈɔːkɪstrə/) [n]管弦樂團, 樂池/樂隊席 = orchestra pit, 正廳前座區 = stall
-- orchestra pit 樂池/樂隊席 == the area of a theatre in which musicians play their instruments, usually in front of the stage
-- mezzo-soprano 次女高音
-- riff
-	> 即興重複段 |A short repeated phrase in popular music and jazz, typically used as an introduction or refrain in a song.|
-	> |Play riffs.| the other horns would be riffing behind him
-	> 獨角戲 |A monologue or spoken improvisation, especially a humorous one, on a particular subject.|
-	> |Perform a monologue or spoken improvisation on a particular subject.|
-- synt == synthesizer 合成器
-- arranger
-	> 編曲者 |A person who adapts a musical composition for performance.|
-	> |A person who arranges flowers in a display.|
-	> 計畫者 |A person who organizes or makes plans for an event or deal.|
-- [symphonic](/sɪmˈfɒnɪk/) 交響樂的 == (of music) relating to or having the form or character of a symphony.
-- concert organizer 音樂會主辦人
-- cornet 短號 == A brass instrument resembling a trumpet but shorter and wider.
-- toot
-	> |A short, sharp sound made by a horn, trumpet, or similar instrument.|
-	> |Sound (a horn or similar) with a short, sharp sound.| an impatient motorist tooted a horn
-	> 古柯鹼 |Cocaine.| 
-	> 吸 |Snort (cocaine)| 
-	> NA 暢飲 |A spell of drinking and lively enjoyment; a spree.| 
-- rhapsody 狂文/狂想曲 == An effusively enthusiastic or ecstatic expression of feeling.
-- ragtime 散拍，也稱為抹布時間，是一種原始的音樂風格
-- vaudeville 輕舞歌劇 == A type of entertainment popular chiefly in the US in the early 20th century, featuring a mixture of speciality acts such as burlesque comedy and song and dance.
-- swing 搖擺樂，是1930年代早期發源於美國的一種音樂類型。音樂之所以稱為「搖擺樂」，是由於音樂強調小節裡的下半拍或弱拍，因而帶來搖擺的感覺。搖擺樂樂團通常會有獨奏樂手為編制好的音樂加上即興演奏。
-- jukebox 點唱機 == A machine that automatically plays a selected musical recording when a coin is inserted
-- jitterbug 搖擺舞/吉特巴舞 == A fast dance popular in the 1940s, performed chiefly to swing music.
-- stagecraft 演出技巧 == Skill or experience in writing or staging plays.
-- opus 著作 == A separate composition or set of compositions.
-- bop 波普爵士樂
-- electronica 電子樂
-- dry run 演習/排練 == a practice of a particular activity or performance
-	> The day before the trial, the lawyers tried a dry run of the closing arguments.
-- Best Picture 奧斯卡金像獎最佳影片
-- Best Animated Feature 奧斯卡金像獎最佳動畫片
-- the Brit Awards 全英音樂獎，是個英國唱片業協會創辦的、一年一度的流行音樂獎
-- A-lister 一線演員
-- reeded
-	> 用小凸嵌線裝飾的 |Shaped into or decorated with semi-cylindrical adjacent mouldings.| a front door with a reeded glass panel
-	> 有加簧片的 |(of a wind instrument) having a reed or reeds.| a double-reeded oboe
-- blockbuster 賣座鉅作 == A thing of great power or size, in particular a film, book, or other product that is a great commercial success.
-- high-concept 高概念，源自美國電影業1970年代中期開始的電影生產與發行方式，透過大型的預算、鮮明清晰的劇情結構以及不斷行銷宣傳以及眾多周邊商品的推動，來造就票房的電影生產策略
-- [helmer](/ˈhɛlmə/) 電影導演 == A film director.
-- Cannes Film Festival 坎城影展
-- dailies 母片 == the raw unedited footage shot during the making of a motion picture
-- Cirque du Soleil 太陽劇團
-- [chord](/kɔːd/) 
-	> 和弦/和音 |A group of (typically three or more) notes sounded together, as a basis of harmony.| the triumphal opening chords
-	> 奏和音 |Play, sing, or arrange notes in chords.| his chording makes an exhilarating accompaniment to the melody
-	> 弦 |A straight line joining the ends of an arc.|
-	> |Each of the two principal members of a truss.| a stabilizer chord
-	> 髓 |cord| the spinal chord
-	> 絃 |A string on a harp or other instrument.|
-- musicality
-	> 音樂天份/音感 |Musical talent or sensitivity.| her beautiful, rich tone and innate musicality
-	> 悅耳 |The quality of having a pleasant sound; melodiousness.| the natural musicality of the language
-- musical [adj]音樂的, 有音樂伴奏的, 喜愛音樂的/擅長音樂的 [n]歌舞劇
-- [narrate](/nəˈreɪt/) [v]講/敘述, 給..作旁白
-- scenery [n]風景/景色, 舞臺布景
-- troupe [n](戲劇或舞蹈)一團/一班
-- variety show [n]綜藝節目(通常包含了許多不同性質和元素的演出，例如音樂與搞笑等類型)
-- benshi [n]辯士(默片時期的日本電影中，當場為觀眾講解劇情的人)
-- melodrama [n]通俗劇/情節劇(指注重情節超過了對人物本身塑造的作品。這類作品中，情節通常會充滿大量感情色彩，而人物本身則通常會一筆帶過) --> melodramatic [adj]情節劇似的
-- [aria](/ˈɑːrɪə/) [n]詠嘆調/抒情調
-- [recitativo](/ˌrɛsɪtəˈtiːvəʊ/) == [recitative](/ˌrɛsɪtəˈtiːv/) [mn]吟誦調
-- [harpsichord](/ˈhɑːpsɪkɔːd/) [n]羽管鍵琴
-- As You Like It [n]皆大歡喜，威廉·莎士比亞於1599年創作的一套喜劇。
-- playhouse [n]劇場/戲院 = theater, 兒童遊戲館
-- intermission [n]暫停/間歇 = pause = break, 中場 = interlude
-- double bass [n]低音提琴
-- [banjo](/ˈbandʒəʊ/) [n]五弦琴/班卓琴
-- Appalachian music [n]阿巴拉契亞音樂，美國東部阿巴拉契亞地區的音樂。它源於歐洲和非洲的各種影響，包括英語民謠，愛爾蘭和蘇格蘭的傳統音樂
-- [ballad](/ˈbaləd/) [n]民謠/民歌
--[](/wɔːlts/) waltz [n]華爾滋, 圓舞曲 [v]跳華爾滋, 輕快地走動, 隨意地做, 輕鬆辦到
-
-## Clothing/Fashion
-- attire (n/v)衣著/打扮
-- barber [n]理髮師 [v]理髮
-- hairdresser [n]理髮師
-- stylist [n]造型師, 理髮師, 注重語言風格的作家/文體家
-- [masseuse](/maˈsəːz/) 女按摩師
-- [masseur](/maˈsəː/) 按摩師
-- [mannequin](/ˈmanɪkɪn/) 模特兒假人 == A dummy used to display clothes in a shop window.
-
-- corset 緊身胸衣 == A woman's tightly fitting undergarment extending from below the chest to the hips, worn to shape the figure.
-- waistcoat [n]背心/馬甲
-- bathrobe [n]浴衣
-
-- wristband [n]腕帶, 運動用腕套, 手錶帶, 袖口 = cuff
-- scarf -> scarved [n]圍巾/披巾/領巾, 嵌接 [v]嵌接, [非]狼吞虎嚥地吃
-- gantlet [n]長手套, 鐵手套
-
-- cashmere scarves 喀什米爾羊絨圍巾
-- trench coats 風衣
-- [tuxedo](/tʌkˈsiːdəʊ/) 晚禮服 == A man's dinner jacket
-- fleece
-	> |The woolly covering of a sheep or goat.|
-	> |A soft warm fabric with a texture similar to sheep's wool, used as a lining material.|
-	> |A jacket or other garment made from a fleece fabric.|
-	> |obtain a great deal of money from (someone), typically by overcharging or swindling them.| the city's cab drivers are notorious for fixing fares and fleecing tourists
-	> |Cover as if with a fleece.| the sky was half blue, half fleeced with white clouds
-- duffel 粗呢 == A coarse woollen cloth with a thick nap.
-- slacks 寬鬆長褲 == Casual trousers.
-- button down shirt 鈕扣襯衫，在領子尖端加上鈕扣的襯衫
-- sandal 涼鞋 == A light shoe with either an openwork upper or straps attaching the sole to the foot
-- sneaker 運動鞋 == A soft shoe worn for sports or casual occasions; a trainer.
-- business professional
-- business casual 商務便裝
-- paisley 佩斯里花紋/變形蟲花紋，一種由圓點和曲線組成的華麗紋樣，形狀像變形的水滴。形狀取自印度教里的菩提樹葉或海棗樹葉
-- pixie cut 精靈短髮
-- mane
-	> 鬃毛 |A growth of long hair on the neck of a horse, lion, or other mammal.| the horse was rushing about in the field, tossing its mane
-	> 長髮 |A long flowing hair| he had a mane of white hair
-- gown
-	> 長禮服 |A long elegant dress worn on formal occasions.|
-	> |Be dressed in a gown.|
-	> 手術衣 |A protective garment worn in hospital, either by a staff member during surgery or by a patient.|
-	> 禮服/長袍 |A loose cloak indicating one's profession or status, worn by a lawyer, teacher, academic, or university student.|
-	> |The members of a university as distinct from the permanent residents of the university town.|
-- parka 有頭套的毛皮外套
-* trinket 小飾品/廉價首飾 == A small ornament or item of jewellery that is of little value.
-- chinos 斜紋棉布褲/寬鬆的棉質褲子
-- hose
-	> 水龍帶 |A flexible tube conveying water, used chiefly for watering plants and in firefighting.|
-	> 灑水 |Water or spray with a hose.| he was hosing down the driveway
-	> 長統襪/短統襪 |Stockings, socks, and tights (especially in commercial use)| her hose had been laddered
-	> 馬褲 |Breeches| Elizabethan doublet and hose
-- [sleeve](/sliːv/) 
-	> 袖子 |The part of a garment that wholly or partly covers a person's arm.|
-	> 唱片套子 |A protective paper or cardboard cover for a record, CD, or DVD.| an album sleeve
-	> 風向袋 |A windsock.| At higher wind speed (approx. 30 km/hour, the sleeve inflates and indicates visually wind direction and speed.
-- hoody == hoodie 連帽衫 == A hooded sweatshirt, jacket, or other top.
-- baseball cap 棒球帽
-- bandanna, bandana 印花大手帕 == A large coloured handkerchief, typically with white spots, worn tied around the head or neck.
-- goatee 山羊鬍 == A small pointed beard like that of a goat.
-- [mustache](/məˈstɑːʃ/) 髭 == A strip of hair left to grow above the upper lip.
-- hairnet 髮網
-- stiletto [n]細高跟鞋, 短劍, 鑽孔錐
-- diaper
-	> 尿布 |A piece of towelling or other absorbent material wrapped round a baby's bottom and between its legs to absorb and retain urine and faeces; a nappy.|
-	> |Put a nappy on (a baby).|
-	> 花紋織物 |A linen or cotton fabric woven in a repeating pattern of small diamonds.|
-	> |Decorate (a surface) with a repeating geometrical or floral pattern.|
-- denim [n]牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
-- linen [n]亞麻布, 亞麻布製品
-- Lycra 氨綸，俗稱萊卡，是一種彈力纖維
-- spandex 氨綸 == Lycra == A type of stretchy polyurethane fabric.
-- [onesie](/ˈwʌnzi/) 連身衣
-- pacifier 奶嘴
-- fedora 男士軟呢帽 == A low, soft felt hat with a curled brim and the crown creased lengthways.
-- scruffy 邋遢的 == Shabby and untidy or dirty.
-- [comb](/kəʊm/) 
-	> 梳子 |A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.|
-	> 梳 |An act of untangling or arranging the hair with comb.| she gave her hair a comb
-	> 用梳子梳理 |Untangle or arrange (the hair) by drawing a comb through it.|
-	> 梳狀飾品 |A short curved type of comb, worn by women to hold the hair in place or as an ornament.| her hair was held back with two tortoiseshell combs
-	> 毛刷 |A device for separating and dressing textile fibres.|
-	> 雞冠 |The red fleshy crest on the head of a domestic fowl, especially a cock.|
-	> 徹底搜查 |Search carefully and systematically.| police combed the area for the murder weapon
-- prom dress == 舞會禮服
-- sweater 毛線衣 == jersey == jumper == pullover
-- sweatshirt 運動衫
-- sweatpants 運動褲 == tracksuit bottoms
-- hazmat suit 危險物品防護服
-- sportswear 運動裝 == Clothes worn for sport or for casual outdoor use.
-- [turban](/ˈtəːb(ə)n/)
-	> 纏頭巾 |A man's head covering consisting of a long length of material wound around a cap or the head, worn especially by Sikhs and Muslims.|
-	> 角蠑螺 |turban shell|
-- boiler suit 連衫褲工作服
-- crop top 露臍裝 == a piece of clothing for a woman's top half that does not cover her stomach
-- cape
-	> 披肩|A sleeveless cloak, typically a short one.| he was wearing a flowing cape
-	> 斗篷 |A part of a longer coat or cloak that falls loosely over the shoulders from the neckband.| the robe was decorated with gold lace on the fronts, cape, and hem
-	> 頭部或頸部的毛皮 |The pelt from the head and neck of an animal, for preparation as a hunting trophy.| the hair on a cape for the taxidermist can spoil in warm weather
-	> 岬/海角 |A headland or promontory.| we could see the island from the cape
-- [khaki](/ˈkɑːki/) 
-	> 卡其布料 |A strong cotton or wool fabric of a dull brownish-yellow colour, used especially in military clothing.| he was dressed from head to toe in khaki
-	> 卡其服裝 |Trousers or other clothing made of khaki.| he pulled on his khakis
-	> 卡其色 |A dull greenish or brownish-yellow colour.| a pair of khaki Bermuda shorts
-- cargo shorts 工作褲
-- top hat 高頂禮帽
-- caftan, kaftan
-	> 阿拉伯長袍 |A man's long belted tunic, worn in countries of the Near East.|
-	> 寬大女袍 |A woman's long loose dress.|
-	> 寬鬆上衣 |A loose shirt or top.|
-- loincloth 腰布
-- headdress 頭飾 == An ornamental covering or band for the head, especially one worn on ceremonial occasions.
-- armband
-	> 臂章/袖標 |a piece of material that a person wears around the arm as a sign of something, for example an official position|
-	> 充氣臂圈/救生臂環 |a hollow, ring-shaped piece of plastic filled with air, that people who are learning to swim wear on their arms in water to help them float|
-- black armband == In Western culture, a black armband signifies that the wearer is in mourning or wishes to identify with the commemoration of a family friend, comrade or team member who has died. 
-- vanity case 化妝包 == a small case fitted with a mirror and compartments for make-up.
-- wig 假髮 == A covering for the head made of real or artificial hair, typically worn by judges and barristers in law courts or by people trying to conceal their baldness.
-- bun [n]小圓麵包, 圓髮髻
-- overcoat 大衣/長大衣
-+ [cosmetic](/kɒzˈmɛtɪk/) 
-	> 整容的 |Relating to treatment intended to restore or improve a perso's appearance.| cosmetic surgery
-	> 化妝用的 |Serving to improve the appearance of the body, especially the face.| cosmetic creams
-	> 裝飾性的/表面的 |Affecting only the appearance of something rather than its substance.| the reform package was merely a cosmetic exercise
-	> 化妝品 |A preparation applied to the body, especially the face, to improve its appearance.| the range covers everything from the latest cosmetics to skin and hair care
-- fake nail 假指甲
-- eyelash extension 接睫毛
-- buckle [n]帶扣/扣子, 飾扣, 水果蛋糕 [v]扣, [up]繫上安全帶, 使彎曲/弄皺, 精神崩潰
-	> 帶扣/扣子 |A flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap.|
-	> 扣 |Fasten or decorate with a buckle.| he buckled his belt
-	> buckle up 繫上安全帶 |Fasten one's seat belt in a car or aircraft.| it is advisable to buckle up as some of the mountain roads require skilful manoeuvring
-	> 飾扣 |A similarly shaped ornament on a shoe.| black shoes with ornate 
-	> 水果蛋糕 |A cake made with fruit (typically blueberries) and having a streusel topping.|
-	> 使彎曲/弄皺 |Bend and give way under pressure or strain.| the earth buckled under the titanic stress
-	> 精神崩潰 |(of a person) suffer a psychological collapse as a result of stress.| a weaker person might have buckled under the strain
-- toe shoe [n]芭蕾舞鞋
-- [tunic](/ˈtjuːnɪk/) [n]長達膝蓋的短袖束腰外衣, 束腰外衣, (警察士兵的)緊身短上衣, 膜皮/被膜
-- lapel pin [n]胸針/徽章 == a small pin worn on clothing, often on the lapel of a jacket, attached to a bag, which indicate wearer's affiliation with an organization or cause.
-
-## Art
-+ ceramic [adj]陶器的/製陶藝術的 == Made of clay and permanently hardened by heat.
-- porcelain [mn]瓷 = china, 瓷器 [n]瓷器
-- earthenware [n]陶器/土器
-*[](/wɛː/) ware [n]陶器 = pottery, 貨品/商品 [adj]知道的/意識到的 
-- terra-cotta, terracotta [n]赤陶/赤土, 陶瓦(是一種陶器，器體本身為多孔設計。陶瓦被運用在許多器物上、水道、屋瓦)
-- amphora -> amphorae [n]雙耳細頸瓶
-- glaze [v]給……裝玻璃/用玻璃覆蓋, 給…上釉/給…上光, 給(食物)表面澆糖汁, 使(眼睛)變呆滯 [n]光滑的表層, 釉, 糖汁, 翳
-- stained glass [n]花窗玻璃(為西方建築裝飾品，常見於教堂)
-
-- neoclassical 新古典主義的
-- romanticism 浪漫主義
-- Transcendentalism 超越主義/超越論，也稱作「新英格蘭超越主義」或「美國文藝復興」，是美國的一種文學和哲學運動。超驗主義強調人與上帝間的直接交流和人性中的神性，具有強烈的批判精神。其社會目標是建立一個道德完滿的烏托邦式理想社會，其精神成為美國文化中一個重要遺產。
-- avant-garde [n]先鋒派(畫家、作家、音樂家等), 先鋒派作品 [adj]前衛的
-
-- plein-air [adj]戶外的(作畫)
-- diorama [n]透視圖畫/立體透視模型
-
-- still-life [n]靜物畫
-- [portrait](/ˈpɔːtrət/) [n]肖像/畫像, 描繪/描寫
-- genre painting [n]風俗畫
-- the Mona Lisa
-- Salvator Mundi 《救世主》是李奧納多·達文西的其中一幅畫作
-- Adoration of the Magi 三博士來朝。是義大利畫家達文西的油畫
-- The Last Supper 最後的晚餐
-- [Rembrandt](/ˈrɛmbrant/) 林布蘭，歐洲巴洛克繪畫藝術的代表畫家之一，也是17世紀荷蘭黃金時代繪畫的主要人物，被稱為荷蘭歷史上最偉大的畫家
-- formalism 
-	> 過於拘泥的行為或態度 |Excessive adherence to prescribed forms.|  academic dryness and formalism
-	> 形式主義 |A description of something in formal mathematical or logical terms.| there is a formalism which expresses the idea of superposition
-- Dadaist [adj]達達主義的 [n]達達主義者
-- Giorgio Vasari [n]喬爾喬·瓦薩里，以傳記《藝苑名人傳》留名後世，為藝術史作品的出版先驅
-- [Michelangelo](/ˌmʌɪk(ə)lˈandʒələʊ/) [n]米開朗基羅
-- Leon Battista Alberti [n]萊昂·巴蒂斯塔·阿伯提，文藝復興時期在義大利的建築師、建築理論家、作家、詩人、哲學家、密碼學家，是當時的一位通	才。他被譽為是真正作爲復興時期的代表建築師，將文藝復興建築的營造提高到理論高度。
-- contrapposto pose [n]對立式平衡，在視覺藝術中用來描述雕塑將重心集中在其中一側的腳上的姿態， 以這種姿態雕塑的肩部和手臂便可以偏離中軸做出更有動感，更自然的姿勢
-
-- [stencil](/ˈstɛns(ə)l/) [n]鏤空範本/印刷模板, 用模板印刷的圖案或文字 [v]用鏤空範本畫
-
-- [Renaissance](/rɪˈneɪsɑ:ns/) 文藝復興 
-- distemper
-	> 犬瘟熱 |A viral disease of some animals, especially dogs, causing fever, coughing, and catarrh.|
-	> 膠畫 |A kind of paint using glue or size instead of an oil base, for use on walls or for scene-painting.|
-	> 膠畫法 |A method of mural and poster painting using distemper.|
-	> |Paint with distemper.|
-- latticework 格子細工/網格結構 == Interlacing strips of wood, metal, or other material forming a lattice.
-- [pastel](/ˈpast(ə)l/) 
-	> 粉蠟筆 |A crayon made of powdered pigments bound with gum or resin.| future issues will demonstrate work with pastels and marker pens
-	> 粉蠟筆畫 |A work of art created with pastels.| a pastel entitled ‘Girl braiding her hair’
-	> 柔和的淡色彩 |A soft and delicate shade of a colour.| the subtlest of pastels and creams
-	> 柔和的/淡的 |Of a soft and delicate shade of colour.| pastel blue curtains
-- [beige](/beɪʒ/) 米色 == A pale sandy fawn colour.
-- maroon
-	> 褐紅色的 |Of a brownish-red colour.|
-	> 褐紅色 |A brownish-red colour.| the hat is available in either white or maroon
-	> 把……放逐到無人島上/使孤立無援 |Leave (someone) trapped and alone in an inaccessible place, especially an island.| a novel about schoolboys marooned on a desert island
-- xkcd 蘭德爾·門羅創作的網絡漫畫。作者對其的描述是「關於浪漫、諷刺、數學和語言的網絡漫畫」。 漫畫的題材多種多樣，包括生活與愛情、數學與科學幽默、簡單的幽默和流行文化等，人物則多是簡單的火柴人。
-- bead [n]串珠, 露珠/水滴 [v]用珠裝飾, 串珠, 佈滿水滴
-- pendant [n]垂飾, 有垂飾的項鍊, 吊燈, 成對物中的一個 [adj]下垂的 = pendent
-- gallery [n]畫廊, 畫集, 迴廊/長廊, 樓座, 劇院頂層樓座
--[](/ˈtʃɑːkəʊl/) charcoal [n]木炭, 炭筆, 深灰色
-- [varnish](/ˈvɑːnɪʃ/) [n]清漆/亮光漆, 指甲油, 光鮮亮麗的外表 [v]塗清漆, 粉飾/掩飾
-- [salon](/ˈsalɒn/) [n]沙龍, 會客室, 名流社交聚會
-- close-up 特寫照片/近景照片 == She took a stunning close-up of him.
-
-## Religion
-+ [shrine](/ʃrʌɪn/) [n]聖祠/神殿/神社, 聖陵, 聖骨匣/聖物箱 = reliquary, 神龕 = niche [v]祀奉/供奉
-- sacristy 聖器收藏室
-- mosque 清真寺[](/mɒsk/) == A Muslim place of worship.
-- synagogue 猶太教堂 == A building in which Jews meet for religious worship or instruction.
-- [shul](/ʃuːl/) 猶太教堂 == synagogue
-- scriptorium -> scriptoria [n]修道院的繕寫室/藏經樓
-
-- Mormon [n]摩爾門教徒，研讀摩爾門經和聖經的信徒，崇拜耶穌基督和祂的教導。摩爾門經是古代美洲大陸的紀錄，教會成員藉由研讀摩爾門經和聖經可以更加了解耶穌基督和祂的教導。並且相信神依舊在現代的世代中召喚先知，並且啟示給每個人在這世代中應該要注意的事
-- fundamentalist [n]基本教義派(指某些宗教群体試圖回歸其原初的信仰的運動), 基要主義者 [adj]基本教義派的, 基要主義的
-- LDS Church == the Church of Jesus Christ of Latter-day Saints [n]耶穌基督後期聖徒教會，總部位於美國猶他州鹽湖城，分支遍及世界。教會成員相信該教會復興了耶穌最初建立的教會
-- Jesuit [n]耶穌會信徒
-
-- Ten Commandments [n]十誡，根據《聖經》記載，是上帝耶和華藉由以色列的先知和首領摩西向以色列民族頒布的律法中的首要的十條規定
-
-- priesthood == The office or position of a priest.
-- deacon [n]助祭/執事
-- clergy 牧師
-- pastor [n]本堂牧師 [v]作為本堂牧師
-- chaplain 附屬教堂牧師 == A member of the clergy attached to a private chapel, institution, ship, regiment, etc.
-- clergymen == A male priest, minister, or religious leader
-- officiant 司儀牧師/司儀神父 == A person, typically a priest or minister, who performs a religious service or ceremony.
-- vigil
-	> 守夜 |A period of keeping awake during the time usually spent asleep, especially to keep watch or pray.| 
-	> |(in the Christian Church) the eve of a festival or holy day as an occasion of religious observance.|
-- parish 教區 == a small administrative district typically having its own church and a priest or pastor.
-- papal == Relating to a pope or to the papacy.
-- Pope 教皇
-- archbishop 大主教
-- bishop
-	>> 主教 |A senior member of the Christian clergy, usually in charge of a diocese and empowered to confer holy orders.|
-	>> |A chess piece, typically with its top shaped like a mitre, that can move in any direction along a diagonal on which it stands.| 
-	>> |An African weaver bird, the male of which has red, orange, yellow, or black plumage.| 
-- diocese 教區
-- Galveston-Houston 天主教加爾維斯頓-休斯敦總教區
-- pilgrimage
-	>> 朝聖 |A pilgrim's journey.|
-	>> |A journey to a place of particular interest or significance.|
-- Mass 彌撒 == The celebration of the Christian Eucharist, especially in the Roman Catholic Church.
-- Eucharist 聖餐禮
-- [Christian](/ˈkrɪstʃ(ə)n/) [adj]基督教的 [n]基督徒
-- christianity 基督教 == The religion based on the person and teachings of Jesus Christ, or its beliefs and practices.
-- Catholic 天主教的
-- [evangelism](/ɪˈvan(d)ʒ(ə)lɪzəm/) 福音傳道 == The spreading of the Christian gospel by public preaching or personal witness.
-- evangelical
-	> 福音的 |Of or according to the teaching of the gospel or the Christian religion.|
-	> 福音教派的 |Of or denoting a tradition within Protestant Christianity emphasizing the authority of the Bible, personal conversion, and the doctrine of salvation by faith in the Atonement.|
-	> 福音教徒 |A member of the evangelical tradition in the Christian Church.|
-	> 熱衷提倡的 |Zealous in advocating or supporting a particular cause.| she was evangelical about organic farming
-- tribune
-	> |An official in ancient Rome chosen by the plebeians to protect their interests.| 
-	> 半圓壁龕 |An apse in a basilica.|
-	> 講壇 |A dais or rostrum, especially in a church.|
-- the Second Vatican Council 第二次梵蒂岡大公會議
-- nave 教堂中殿 == The central part of a church building
-- basilica 長方形會堂/教堂 == A large oblong hall or building with double colonnades and a semicircular apse, used in ancient Rome as a law court or for public assemblies.
-- theological 神學的 == Relating to the study of the nature of God and religious belief.
-- liturgy 禮拜 == A form or formulary according to which public religious worship, especially Christian worship, is conducted.
-- Jesuit 耶穌會
-- Judaism == Jews 猶太教
-- Zoroastrianism 瑣羅亞斯德教，伊斯蘭教誕生之前中東和西亞最具影響力的宗教
-- congregation
-	> 集會 |A group of people assembled for religious worship.|
-	> |A gathering or collection of people, animals, or things.|
-	> |a permanent committee of the College of Cardinals.|
-	> |A group of people obeying a common religious rule but under less solemn vows than members of the older religious orders.|
-* [cult](/kʌlt/)
-	> 膜拜 |A system of religious veneration and devotion directed towards a particular figure or object.| 
-	> |A person or thing that is popular or fashionable among a particular group or section of society.|
-	> 邪教/異教 |A relatively small group of people having religious beliefs or practices regarded by others as strange or as imposing excessive control over members.|
-- Jewish == Relating to, associated with, or denoting Jews or Judaism.
-- apostolic 使徒的 == Relating to the Apostles.
-- [baptism](/ˈbaptɪz(ə)m/) 洗禮/浸禮 --> baptismal 淨禮的 == Relating to the Christian rite of baptism.
-- Baptist 浸禮宗/浸信會
-- Lutheran [adj]信義宗的/路德宗的 == Of or characterized by the theology of Martin Luther.
-- [Scientology](/sʌɪənˈtɒlədʒi/)  山達基，非正式中文譯名包括「科學神教」和「科學教」，是一套信仰與修行活動的體系及宗教
-- Gospels 福音書（《聖經》中記載耶穌生平的四福音書之一）
-- Genesis 創世記
-- Scripture 聖經
-- the Second Coming of Christ 耶穌再臨，耶穌再臨是指他在未來將回到人間。這個信仰是基於正典福音書中的彌賽亞預言
-- netherworld == The underworld; hell.
-- sacrament 聖禮/聖餐
-- ordain
-	> |Make (someone) a priest or minister; confer holy orders on.| he was ordained a minister before entering Parliament
-	> |Order (something) officially.| equal punishment was ordained for the two crimes
-- chaplain 附屬教堂牧師 == A member of the clergy attached to a private chapel, institution, ship, regiment, etc.
-- laity 俗人
-- pontificate
-	> |(in the Roman Catholic Church) the office or period of office of a pope or bishop.| Pope Gregory VIII enjoyed only a ten-week pontificate
-	> |Express one's opinions in a pompous and dogmatic way.| he was pontificating about art and history
-	> |(in the Roman Catholic Church) officiate as bishop, especially at Mass.| he pontificated at three Christmas Masses
-- encyclical 諭 == A papal letter sent to all bishops of the Roman Catholic Church.
-- Jesuit 耶穌會信徒
-- Islam 伊斯蘭教 --> Islamic 伊斯蘭(教)的 == Relating to Islam.
-- prelate 高級教士 == A bishop or other high ecclesiastical dignitary.
-- nemesis
-	> |The inescapable agent of someone's or something's downfall.| njury, consistently his nemesis, struck him down during the match
-	> |A long-standing rival; an arch-enemy.| will Harry Potter finally defeat his nemesis, Voldemort?
-	> 報應 |Retributive justice| Nemesis is notoriously slow
-- christen
-	> 施洗 |Give (a baby) a Christian name at baptism as a sign of admission to a Christian Church.|
-	> 命名 |Give a name to (someone or something) which reflects a notable characteristic.|
-	> 首次使用 |Use for the first time.|
-- nirvana 涅槃/極樂世界
-- gospel 福音 == The teaching or revelation of Christ.
-- choir 唱詩班 == An organized group of singers, especially one that takes part in church services or performs in public.
-- [theism](/ˈθiːɪz(ə)m/) 有神論/一神論 == Belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.
-- atheism 無神論 --> atheist 無神論者
-- [deism](/ˈdeɪɪz(ə)m/) 自然神論 == Belief in the existence of a supreme being, specifically of a creator who does not intervene in the universe.
-- [pantheism](/ˈpanθiːɪz(ə)m/) 泛神論 == A doctrine which identifies God with the universe, or regards the universe as a manifestation of God.
-- Unitarian [adj]一位論派 [n]一位論派教徒 ==  person who asserts the unity of God and rejects the doctrine of the Trinity.
-- séance, seance 降靈會 == A meeting at which people attempt to make contact with the dead, especially through the agency of a medium.
-- devout
-	> 虔誠的 |Having or showing deep religious feeling or commitment.| she was a devout Catholic
-	> 誠摯的/忠心的 |Totally committed to a cause or belief.| the most devout environmentalist
-- [presbytery](/ˈprɛzbɪt(ə)ri/) 
-	> 長老會教務評議會 |A body of Church elders and ministers, especially (in Presbyterian Churches) an administrative body (court) representing all the local congregations of a district.|
-	> 神父之居地 |The house of a Roman Catholic parish priest.|
-	> 聖所 |The eastern part of a church chancel beyond the choir; the sanctuary.|
-- transept 耳堂/袖廊 == (in a cross-shaped church) either of the two parts forming the arms of the cross shape, projecting at right angles from the nave.
-- rapture
-	> 著迷/癡迷 |A feeling of intense pleasure or joy.| Leonora listened with rapture
-	> 狂喜 |Expressions of intense pleasure or enthusiasm about something.| the tabloids went into raptures about her
-	> 被提，是基督教末世論中的一種概念，認為當耶穌再臨之前，已死的信徒將會被復活高升，活著的信徒也將會一起被送到天上與基督相會，並且身體將升華為不朽的身體 |(according to some millenarian teaching) the transporting of believers to heaven at the Second Coming of Christ.|
-	> 被提 |(according to some millenarian teaching) transport (a believer) from earth to heaven at the Second Coming of Christ.|
-- [pilgrimage](/ˈpɪlɡrɪmɪdʒ/) 
-	> 朝聖之旅 |A pilgrim's journey.| he wanted to go on a pilgrimage to Santiago de Compostela
-	> 朝聖 |Go on a pilgrimage.|
-	> 旅行 |A journey to a place of particular interest or significance.|
-	> 人生 |Life viewed as a journey.| now is the thirty-first year of my dark pilgrimage on this earth
-- mecca 聖地 --> Mecca 麥加
-- [Sikh](/siːk/) 錫克教 <--> [seek](/siːk/) <--> [sick](/sɪk/) 
-- Christianity [n]基督教, 基督教精神
-- English Protestant 英國新教教徒
-- Catholic Ireland 愛爾蘭天主教
-- Huguenot 胡格諾派，16世紀至17世紀法國基督新教歸正宗的一支教派
-
+- fern bar [n]a fashionable bar or restaurant decorated mainly with plants, including ferns
+- lasagna [n]千層麵
+- [charcuterie](/ʃɑːˈkuːt(ə)ri/) [n]熟食冷肉盤
+- salami [n]薩拉米香腸（義大利蒜味香腸）
+- Zifandel [n]金粉黛葡萄酒
+- gummi bears [n]小熊軟糖
+- pepper shaker [n]胡椒罐
+- sugar bowl [n]糖盅
+- rolling pin [n]桿麵棍
+- marinara [n]義大利麵醬/大蒜番茄醬
+- mayonnaise [n]蛋黃醬
+- chorizo [n]西班牙辣香腸
+- per serving [adv]每份
+- pecan sandie [n]胡桃餅
+- cruller [n]油條/油煎餅的一種
+- guacamole [n]酪梨莎莎醬
+- Sous Chef [n]副主廚
+- cappuccino [n]卡布奇諾咖啡
+- flan [n]法式焦糖布丁
+- creme de menthe [n]薄荷甜酒
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1834,7 +1119,10 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - [racquetball](/ˈrakɪtbɔːl/) [n]短柄墻球
 - doubleheader [n]連賽兩場, 雙車頭列車
 - shortstop [n]游擊手
-
+- headlock [n]將對手之頭緊挾於腋下的一種摔角法
+- pump iron [n]舉重
+- bench press [n]臥推
+- petanque [n]法式滚球
 
 ## Fun/Entertainment
 - jackpot [n]累積獎金/頭獎
@@ -1856,6 +1144,70 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Yatzy [n]快艇骰子，一種骰子遊戲
 - Silly Putty [n]橡皮泥
 - trampoline [n]蹦床/彈翻床
+- roller coaster [n]雲霄飛車
+- pick-up sticks [n]挑筷子
+- boggle [n]一種拼字遊戲
+
+## Product/Tools
+- night cream [n]晚霜
+- monkey wrench [n]活動板手
+- claw hammer [n]爪鎚/拔釘鎚
+- building block [n]積木
+- hard copy [n]紙本拷貝
+- drill press [n]鑽床
+- auto transmission [n]汽車自動變速箱
+- wiper blade [n]汽車雨刷
+- g-string [n]丁字褲
+- fountain pen [n]鋼筆
+- leaf blower [n]吹葉機
+- scrap paper [n]已用過的寫便條用的廢紙
+
+## Shorthand
+- NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
+- PPE [n]Personal protective equipment
+- VD [n]性病/花柳病 = Venereal Disease 
+- RSVP [n]敬請回覆
+- TBD [n]未定 = To Be Decided
+- FYI [n]僅供參考 = For Your Information
+- aka [n]又名 = as known as
+- B.S. == Bullshit
+- VAT [n]增值稅/加值型營業稅 = value added tax
+- Wilco [v]照辦(通信用語) = will comply
+- CSR [n]企業社會責任 = Corporate Social Responsibility
+- DL [n]駕照 = driver's license
+- UPC [n]通用產品代碼 = Universal Product Code
+- CAO [n]首席分析長 = Chief Analytics Officer
+- CAE [n]首席審計執行官 = Chief Audit Executive
+- CMO [n]首席營銷官/營銷總監 = Chief Marketing Officer
+- ED [n]執行長/執行董事 = Executive Director
+- VP [n]副總裁 = Vice President
+- TL [n]項目總監 = Team Leader
+- CFO [n]首席財務官 = Chief Financial Officer
+- CSO [n]首席安全官 = Chief Security Officer
+- CHRO [n]首席人事長 = Chief hHuman Resource Officer
+- PTA [n]家長教師聯誼會 = Parent-Teacher Association
+
+
+## Brand
+- Bactine [n]百寧(一種止痛藥的牌子)
+- funyuns [n]樂事旗下的品牌，這款餅乾看起來很像炸洋蔥圈
+- Tater Tots [n]炸薯球，是將馬鈴薯用擦床擦碎以後油炸製成。實際上是亨氏集團下屬Ore-Ida公司的註冊商標，但一般也用於指非其生產的其他類似食品
+- Frisbee [n]飛盤
+- Fresca [n]grapefruit-flavored citrus soft drink created by The Coca-Cola Companyz
+- Trident [n]一種薄荷糖的品牌
+- Tic Tac [n]一種薄荷糖的品牌
+- Chanel [n]香奈兒
+- Volkswagen [n]福斯汽車
+- Q-tip [n]棉花棒
+- Volkswagen [n]福斯汽車
+- cologne [n]古龍水
+- Tegrin [n]一種非處方藥物名，常被用來治療皮膚瘙癢，頭皮屑，牛皮癬，濕疹等。並且也經常會用來製成洗髮香波，有抑制頭皮屑，止癢，控油等效果
+- Cheetos [n]奇多
+- Porsche [n]保時捷
+- Muppets [n]芝麻街兒童電視節目中的布偶
+- Pepperidge Farm [n]
+- Celica [n]豐田 Celica 是日本豐田汽車公司自1970年迄2006年生產製造、販售的轎跑車
+
 
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel
