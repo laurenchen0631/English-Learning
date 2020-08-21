@@ -149,6 +149,7 @@
 - [triglyceride](/trʌɪˈɡlɪsərʌɪd/) [n]三酸甘油酯
 - [ketone](/ˈkiːtəʊn/) [n]酮
 - vinyl [n]乙烯基
+- ethanol [n]乙醇/酒精
 - asbestos [n]石棉，是天然的纖維結晶狀的6大矽酸鹽類礦物質的總稱
 - alkaloid [n]生物鹼，主要包含鹼性氮原子，天然存在於大自然動植物及蕈類的化合物
 - protein [n]蛋白質

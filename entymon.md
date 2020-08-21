@@ -950,7 +950,7 @@
 + [concur](/kənˈkəː/) [v]同意/贊成 = *accord* = *agree* = *consent* = *accede* = *coincide*, 同時發生 = *coincide* 
 + concurrent [adj]一致的/贊同的, 同時發生的 == *concomitant*
 + concurrence, concurrency [n]同時發生, 線的交點, 意見一致 = *agreement* = *consistency*
-* **__corral__** [n]畜欄/圍欄 = *pen* [v]把(馬、牛)趕進畜欄/把(一群人)集中起來 = **round up**
+* **__corral__** [n]畜欄/圍欄 = *pen* [v]把(馬、牛)趕進畜欄/把(一群人)集中起來 = **round up** <|> **collar**
 * [corridor](/ˈkɒrɪdɔː/) [n]走廊/通道, 走廊(指一國領土通過他國境內的狹長地帶)
 - [curriculum](/kəˈrɪkjʊləm/) [n]課程
 - cursor [n]游標
@@ -1083,7 +1083,7 @@
 - incise [v]刻/雕, (手術)切 -->
 - incision [n]切口/傷口, 雕痕/雕刻 [mn]切
 - incisor [n]門牙/前齒
-+ **__incisive__** [adj]頭腦敏銳的/敏銳的 = *acute* = *sharp*, (詮釋)精確的, 快而直接的 = *trenchant*
++ **__incisive__** [adj]頭腦敏銳的/敏銳的 = *acute* = *sharp*, 銳利的 = *sharp*
 + précis, precis [n]摘要/大綱 = *summary* = *abstract* [v]做..的大綱
 - precise [adj]精確的 = *exact* = *rigorous*
 - **rescission** [n]廢除 = *revocation* = *cancellation*
@@ -4686,6 +4686,7 @@
 * mandatory [adj]命令的, 強迫的/義務的 = *compulsory* = *obligatory*
 + countermand [v]取消(訂貨)/撤回(命令) = *cancel* = *revoke* = *recall*, 宣告(投票)無效
 + [command](/kəˈmɑːnd/) [v]命令/指示, 指揮/統率, 擁有 [n]命令, 掌握/運用能力
+- commando [n]突擊隊, 突擊隊員 [v][go commando]不穿內衣
 - commander-in-chief [n]總司令
 - **commandeer** [v]徵用, 霸佔, 徵募 = *enlist*
 + **[commend](/kəˈmɛnd/)** [v]稱讚/讚賞 = *praise*, 推薦 = *recommend*, **委託/交托** = *entrust*
@@ -7812,6 +7813,7 @@
 - science [n]科學, 學科, 學問
 - scientific [adj]科學的, 系統的/精確的
 - sci-fi [n][非]科幻小說 = *science* fiction
+- sciolist [n]一知半解的人
 
 ## sequ 跟隨 = *follow*
 + consequence [n]結果/後果, 重要性/價值 = *importance* = *relevance*
@@ -9016,6 +9018,7 @@
 - supervise [v]監督/管理 = *superintend* = *oversee*
 - supervision [n]監督/管理
 + visage [n]面容 = *face*, 表情 = *facial expression*, 外表/外觀 = *manifestation* = *appearance* = *aspect*
+- visor [n]面甲, 遮陽板/眼罩 = *eyeshade*
 + visionary [adj]有遠見的, 有預知能力的 [n]有遠見的人
 - vista [n]美景, 從兩排樹木或房屋等中間看出去的景色, 遠景/展望
 

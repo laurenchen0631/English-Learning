@@ -292,7 +292,8 @@
 - pellagra [n]玉蜀黍疹
 - rickets [n]軟骨病/佝僂病
 - sickle cell disease == SCD [n]鐮刀型紅血球疾病，是一組通常由雙親遺傳而來的血液疾病
-
+- pus [n]膿
+- fugue state [n]一種心理創傷與解離症
 
 ## Psychology
 - brain imaging == neuroimaging [n]神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術)

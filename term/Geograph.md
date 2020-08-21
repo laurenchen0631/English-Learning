@@ -214,6 +214,7 @@
 - [magnetite](/ˈmaɡnɪtʌɪt/) [mn]磁鐵礦
 - turquoise [n]藍綠色, 綠松石
 - opal [n]蛋白石
+- lapis lazuli [n]天青石/青金石
 
 ## Ocean
 - the Pacific Ocean [n]太平洋

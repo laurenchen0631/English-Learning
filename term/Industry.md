@@ -282,9 +282,7 @@
 - windscreen 擋風玻璃
 - headlight 車前大燈/前照燈 == A powerful light at the front of a motor vehicle or railway engine.
 - diesel motor 柴油引擎
-- [diesel](/ˈdiːz(ə)l/) 
-	> 柴油引擎 |diesel engine|
-	> 柴油 |A heavy petroleum fraction used as fuel in diesel engines.|
+- [diesel](/ˈdiːz(ə)l/) [n]柴油引擎, 柴油
 - hydraulic fluid 液壓油
 - number plate 車牌
 - Amtrak 國家鐵路客運公司
@@ -569,6 +567,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - cappuccino [n]卡布奇諾咖啡
 - flan [n]法式焦糖布丁
 - creme de menthe [n]薄荷甜酒
+- hummus [n]鷹嘴豆泥
+- tutti frutti [n]什錦水果冰淇淋
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉

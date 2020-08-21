@@ -248,6 +248,7 @@
 - [zooplankton](/ˈzuːə(ʊ)ˌplaŋ(k)t(ə)n/) (mn)浮游動物
 - Ammonoid [n]菊石，一群已經滅絕的海洋生物總稱，約在泥盆紀早期出現在地球上，最後與恐龍、箭石等生物一起於白堊紀末期滅絕
 - foraminifera [n]有孔蟲門，為變形蟲狀原生生物的大分類，屬於藻類
+***
 
 - notothenioids [n]南極魚亞目
 - sardine [n]沙丁魚 == A young pilchard or other young or small herring-like fish.
@@ -272,6 +273,7 @@
 - spawning bed [n]產卵床(水下固體表面，魚在其上產卵以繁殖)
 - milt [n]魚的精子, 雄魚的生殖腺
 - guppies [n]孔雀魚
+***
 
 - bottlenose dolphin [n]寬吻海豚屬
 + orca [n]虎鯨/殺人鯨 == killer whale
@@ -287,7 +289,7 @@
 - blowhole [n]鯨魚噴水孔
 * fluke 鯨魚尾鰭
 - baleen [n]鯨鬚 == whalebone
-
+***
 + coral [n]珊瑚, 紅珊瑚, 珊瑚蟲, 龍蝦卵
 + coral-reef [n]珊瑚礁
 - scleractinian coral [n]石珊瑚
@@ -311,7 +313,8 @@
 - sea [urchin](/ˈəːtʃɪn/)  [n]海膽
 + [octopus](/ˈɒktəpəs/) [n]章魚
 - squid [n]烏賊
-
+- starfish [n]海星
+***
 + [tadpole](/ˈtadpəʊl/) [n]蝌蚪 == The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander)
 - [frog](/frɒɡ/) [n]青蛙, 飾扣, 鐵路轍叉
 + alligator [n]短吻鱷 == A large semiaquatic reptile similar to a crocodile but with a broader and shorter head
@@ -325,7 +328,7 @@
 - [seal](/siːl/)  [n]海豹, ....
 - sea cow [n]海牛，一類大型水生哺乳動物，在淡水或淺海中生活，以草食為主
 - sea lion [n]海獅
-
+***
 - [penguin](/ˈpɛŋɡwɪn/) [n]企鵝
 - tortoise [n]陸龜
 

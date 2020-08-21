@@ -293,6 +293,11 @@
 - whip it out [phrase]秀一下
 - within an inch of one's life [adv]差點喪命
 - woe is me [excl]苦啊/慘哪
+- be/stay/get ahead of the curve [v]占得先機
+- off the cuff [adv]即席/無準備地
+- start/set/get the ball rolling [v]著手做/開始做
+- err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
+- go commando [v]不穿內衣
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -662,3 +667,4 @@
 - white lie [n]善意的謊言
 - yellow-bellied [adj]膽小的
 - social butterfly [n]交際花
+- fast track [n]快速成功之路/迅速晉升之道
