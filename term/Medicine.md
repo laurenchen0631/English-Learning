@@ -352,6 +352,7 @@
 - brain stem [n]腦幹
 - forebrain [n]前腦
 - lymphatic [adj]淋巴的 [n]淋巴腺/淋巴管
+- vitreous humor [n]眼睛的玻璃狀液
 
 - esophagus [n]食管/食道
 - alimentary canal [n]消化道

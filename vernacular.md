@@ -8,7 +8,7 @@
 - right off the bat [adv]立刻
 - now and again [adv]有時
 - later on [adv]後來
-- dog days [n]三伏天/大熱天, 無所作為的時期/不活躍時期
+- **dog days** [n]三伏天/大熱天, 無所作為的時期/不活躍時期
 - at all times [adv]隨時/永遠
 - down/along the line [adv]將來/終將
 - in the blink of an eye [adv]一眨眼/瞬間
@@ -35,44 +35,44 @@
 - as a rule [adv]通常/一般說來
 - as such [adv] (否定)大抵上, 本質上
 - aside from [adv]除了...還有.../此外, 除了...
-- at the mercy of [adv]任由某人/某事物擺布或控制
+- **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
 - behind one's back [adv]背著某人(說壞話)
-- by and large [adv]大體上/總體上
+- **by and large** [adv]大體上/總體上
 - by design [adv]故意地/蓄意地
 - by way of [adv]當做/用作
 - either way [adv]不管哪一種/無論如何
 - every nook and cranny [adv]處處/到處
-- for all intents and purposes [adv]實際上 = in effect
+- **for all intents and purposes** [adv]實際上 = in effect
 - for good measure [adv]另外/此外
 - for one [adv]對…來說
 - for the most part [adv]一般/通常
 - from the ground up [adv]從頭開始, 完全地
-- hand over fist [adv]迅速大量地(賺錢)
+- **hand over fist** [adv]迅速大量地(賺錢)
 - hit the nail on the head [v]一針見血
 - in a nutshell [adv]概括地說
 - in a vacuum [adv]與世隔絕
 - in a word [adv]總之/一言以蔽之
 - in a/one sense [adv]從某種意義上講
-- in and of itself [adv]單獨來說
+- **in and of itself** [adv]單獨來說 = per se
 - in good/safe hands with sb [adv]受..的細心照顧
 - in kind [adv]以實物支付, 以同樣方法或手段
 - in part [adv]某種程度上 = to some degree = to an extent
 - in phase (with sth) [adv]與..同步
 - in the neighborhood of sth [adv]大約…
-- In the region of [adv]大約(數目)
+- in the region of [adv]大約(數目)
 - in the wind [adv]在醞釀中, 在熱論中, 逃跑後失蹤/消失
 - kind of [adv]似乎/有點
-- left and right [adv]失控, 到處
+- **left and right** [adv]失控, 到處
 - like rats deserting/leaving/fleeing a sinking ship [adv]動如脫兔
-- might as well [adv] (反正也沒有更好的辦法)要不就…
+- **might as well** [adv] (反正也沒有更好的辦法)要不就…
 - more or less [adv]主要/大體, 大約, 幾乎/差不多
 - next to nothing [adv]幾乎沒有
 - on board [adv]參與
 - on hand [adv]在跟前/在旁邊
 - on pins and needles [adv]如坐針氈
 - on the edge [adv]瀕臨/處於的邊緣
-- on the grounds that [adv]因為
+- **on the grounds that** [adv]因為
 - on the top of that [adv]除此之外
 - once in a blue moon [adv]少有地/很少發生
 - one way or another [adv]用某種方法/想方設法
@@ -80,37 +80,34 @@
 - out of the blue [adv]突然地
 - over my dead body [adv]除非我死了
 - owing to the fact that [adv]因為
-- right and left [adv]到處
+- **right and left** [adv]到處
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
-- spot on [phrase]確切的/準確的
 - with all due respect [adv]恕我直言
 
 ## Phrase
-- (as) fit as a fiddle [adj]非常健康
+- **(as) fit as a fiddle** [adj]非常健康
 - (be stuck) in a rut [v]墨守成規/一成不變
 - (down) in the dumps [adj]情緒低落/不高興
 - (the) chances are [phrase]很有可能
 - **be killing it** [v]做得好
 - **high and dry** [v]給..帶來麻煩/使..陷入困境
-- **that/it figures** [phrase]意料之中
+- **spot on** [phrase]確切的/準確的
+- that/it figures [phrase]意料之中
 - **you bet** [phrase]當然 = certainly
-- a piece/slice of the action [n]分一杯羹
-- a roof over your head [n]住處/棲身之處
-- a slap in the face [n]一巴掌/一記耳光
 - across the board [adj]影響到各個領域和階層的/全面的
 - all hands on deck [phrase]全體總動員
-- be (all) the rage [v]風靡一時/十分流行
-- be a far cry from sth [v]和…相去甚遠，與…大相逕庭
+- **be (all) the rage** [v]風靡一時/十分流行
+- be a far cry from sth [v]和…相去甚遠/與…大相逕庭
 - be all ears [v]全神貫注地聽/洗耳恭聽
-- be an item [v]有戀愛關係
+- **be an item** [v]有戀愛關係
 - be angling for sth [v]拐彎抹角地求取
 - be between jobs [v]待業
 - be dead meat [v] (某人)有大麻煩
 - be dead set on doing sth [v]堅決要做…/一心要做…
 - be down in the mouth [v]神色沮喪/垂頭喪氣
 - be green with envy [v]十分妒忌/眼紅
-- be in business [v]be in business
+- **be in business** [v]準備就緒
 - be in its infancy [v]在初期/在早期
 - be in the same boat [v]處境相同/面臨同樣的困境
 - be in/on the cards [v]很可能發生
@@ -124,6 +121,7 @@
 - be up and about again [v]康復
 - be/fall prey to sth [v]成為…的犧牲品/深受…之害
 - be/keep/stay one step ahead [v]比...準備得更好, 設法不被...逮到
+- be/stay/get ahead of the curve [v]占得先機
 - bear witness (to sth) [v]見證了/證明了
 - bed of roses [n]稱心如意的處境
 - bee's knees [n]出類拔萃的人或事物
@@ -170,6 +168,7 @@
 - don't dip your pen in the company ink [v]兔子不吃窩邊草(不要跟同事有性關係)
 - double back [v]回頭/原路往回
 - down the drain [v]付諸東流/打水漂
+- err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
 - fall off the wagon [v]又重新喝起酒來
 - fall/run afoul of [v]犯/違
 - feel left out [v]感到被排擠
@@ -191,6 +190,7 @@
 - get your feet wet [v]熟悉新情況
 - give sb the runaround [v]搪塞/打發（某人）
 - give the green light to sth [v]准許/許可
+- go commando [v]不穿內衣
 - go nuts [v]大發雷霆/暴跳如雷
 - go/fall to pieces [v]經神崩潰, 四分五裂/瓦解
 - good call [n]好主意
@@ -246,6 +246,7 @@
 - nail it [v]搞定
 - nearly/almost fall off one's chair [v]極為驚訝
 - not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
+- off the cuff [adv]即席/無準備地
 - on your high horse [adv]自以為是/自命不凡
 - out of (one's) hair [adv]不再是..的負擔或責任
 - out of one's league [adj]配不上
@@ -271,6 +272,7 @@
 - sleep on it [v]好好考慮
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - stark raving mad [adj]完全瘋掉
+- start/set/get the ball rolling [v]著手做/開始做
 - stay put [v]留在原地
 - stick in the mud [v]墨守成規
 - strike a pose [v]擺姿勢
@@ -293,11 +295,6 @@
 - whip it out [phrase]秀一下
 - within an inch of one's life [adv]差點喪命
 - woe is me [excl]苦啊/慘哪
-- be/stay/get ahead of the curve [v]占得先機
-- off the cuff [adv]即席/無準備地
-- start/set/get the ball rolling [v]著手做/開始做
-- err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
-- go commando [v]不穿內衣
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -668,3 +665,6 @@
 - yellow-bellied [adj]膽小的
 - social butterfly [n]交際花
 - fast track [n]快速成功之路/迅速晉升之道
+- a piece/slice of the action [n]分一杯羹
+- a roof over your head [n]住處/棲身之處
+- a slap in the face [n]一巴掌/一記耳光
