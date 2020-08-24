@@ -161,6 +161,7 @@
 - variolation [n]變種/接種(首先用於從患者或最近變化的個體中取出的材料對個體進行天花免疫的方法)
 - siamese twins [n]連體嬰
 - **body cast** [n]石膏
+- barium enema [n]鋇劑灌腸攝影
 
 ## Disease/Hurt
 - attention deficit hyperactivity disorder == ADHD [n]專注力失調及過度活躍症

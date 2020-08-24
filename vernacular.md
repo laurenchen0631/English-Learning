@@ -295,6 +295,13 @@
 - whip it out [phrase]秀一下
 - within an inch of one's life [adv]差點喪命
 - woe is me [excl]苦啊/慘哪
+- buy a vowel [v]聽不懂
+- hopping mad [adj]暴跳如雷的
+- whip one's butt/ass [v]給..好看
+- mix and match [v]混搭
+- the cream of the crop [n]菁華/最好的部份
+- run aground/ashore [v]擱淺
+- down and out [adj]窮困潦倒的
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -631,6 +638,7 @@
 - write off [v]發信(詢問公司), 一筆勾銷(債務), 把...看作不存在, (交通工具)撞壞
 - write up [v]詳細寫
 - zoned in [adj]專注的 == focused
+- bow out [v]辭職/退出
 
 ## Dialect
 - beddy-byes [v]上床睡覺

@@ -248,6 +248,7 @@
 - [zooplankton](/ˈzuːə(ʊ)ˌplaŋ(k)t(ə)n/) (mn)浮游動物
 - Ammonoid [n]菊石，一群已經滅絕的海洋生物總稱，約在泥盆紀早期出現在地球上，最後與恐龍、箭石等生物一起於白堊紀末期滅絕
 - foraminifera [n]有孔蟲門，為變形蟲狀原生生物的大分類，屬於藻類
+- Dinoflagellates [n]甲藻
 ***
 
 - notothenioids [n]南極魚亞目

@@ -569,6 +569,11 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - creme de menthe [n]薄荷甜酒
 - hummus [n]鷹嘴豆泥
 - tutti frutti [n]什錦水果冰淇淋
+- piccata [adj]酸的(料理)
+- ketchup [n]番茄醬
+- peanut clusters [n]一種用花生跟巧克力做出的甜點
+- macaroon [n]馬卡龍
+- nougat [n]牛軋糖/奶油杏仁糖
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1161,6 +1166,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - fountain pen [n]鋼筆
 - leaf blower [n]吹葉機
 - scrap paper [n]已用過的寫便條用的廢紙
+- ninja star [n]手裡劍
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 

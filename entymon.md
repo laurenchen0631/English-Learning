@@ -1523,6 +1523,7 @@
 + centripetal [adj]向心的 <--> centrifugal
 + concentrate [v]專注/專心, 聚集/匯集, 濃縮 [n]濃縮液 
 + concentration [n]專注/專心, 集中/聚集, 濃度, 濃縮
+- concentric [adj]同心的 <--> eccentric
 + eccentric [adj]古怪的/反常的 = *irregular* = *erratic* = *peculiar* = *queer*, 不同圓心的 [n]古怪的人, 偏心圓
 + eccentricity [mn]古怪/反常 [n]反常的行為
 - **egocentric** [adj]自我中心的 [n]自我中心主義者
@@ -1759,6 +1760,7 @@
 	- defrost [v]將……除霜, 解凍 = *thaw*
 	+ defunct
 	- **defuse** [v]拆除引信, 平息/緩和
+	- dehumanize [v]使失人性
 	- dehumanization [n]失去人性
 	- dehydrate
 	+ deliberate
@@ -4468,6 +4470,7 @@
 - **unilateralism** [n]單邊主義
 
 ## liter 文字 = *letter*
+- alliteration [n]頭韻
 + literal [adj]字面上的/原義的, **如實的/精確的** = *accurate* = *actual* = *factual*, 字母的, **乏味的/平凡的** = *prosaic*
 + **literatus** -> [literati](/ˌlɪtəˈrɑːti/) [n]文人/學者
 * **literate** [adj]能讀寫的 <--> illiterate, 有文化修養的
