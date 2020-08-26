@@ -2925,7 +2925,7 @@
 - figurine [n]小雕像/小塑像 = *statuette*
 - figment [n]虛構的事 <|> pigment
 + **prefigure** [v]預示/預想/預見 = *adumbrate* = *foreshadow* = **presage**
-- **transfigure** [v]美化/改觀
+- **transfigure** [v]美化/使變形, 美化/理想化
 
 ## fet, fe 胎兒
 + **_fecund_** [adj]肥沃的 = *fruitful* = *fertile* = *generous* = *prolific*, 有創造力的 = *fertile*
@@ -8080,8 +8080,9 @@
 + obtain [v]得到/獲得 = *get* = *acquire* = *secure*, **_通用/流行/存在_** = *be prevalent/customary*
 - obtainable [adj]能得到的
 + **pertain** [v][to]有關/關於 = *relate*, [法]從屬/附屬, 在..有效用或存在
-+ **pertinent** [adj]有關的 = *relevant* = *apposite* = *applicable* <|> appurtenant --> pertinence [n]
-- **pertinacious** [adj]固執的/不妥協的 = *intransigent* = *uncompromising* = *inflexible* = *obstinate*
++ **pertinent** [adj]有關的 = *relevant* = *apposite* = *applicable* <|> appurtenant
++ pertinence [n]恰當/相關
+- **_pertinacious_** [adj]固執的/不妥協的 = *intransigent* = *uncompromising* = *inflexible* = *obstinate*
 + retain [v]保留 = *maintain* = *preserve*, 維持/保持, 記得, 吸收/留住, 固定, **聘/僱**, 預付
 - retainer [n]牙齒固定器/牙套, 預付金, **侍從** = *servant*
 - retention [n]保留/保持 <-- retain
@@ -8229,8 +8230,8 @@
 - intrusion [n]侵入, 侵入物
 * protrude [v]使伸出/使突出
 * protrusion [n]突出物/隆起 = *protubewrance*
-+ **obtrude** [v]使過分顯眼, 強迫 = *impose* = *force* 
-+ **obtrusive** [adj]過分顯眼的
++ **_obtrude_** [v]伸出, 闖入/打擾
++ **obtrusive** [adj]伸出的, 出風頭的/顯眼的
 * thrust -> thrust -> thrust [v]刺/戳/插入/推擠 [n]**批評**, 猛推/刺
 
 ## tail 切 = *cut*
@@ -8407,7 +8408,7 @@
 + intimidate [v]威嚇 = *daunt* = *frighten* = *overawe* <|> intimate
 + timid [adj]膽小的/無自信的 = *pusillanimous* = *craven* = *tremulous* = *timorous* = **recreant** <|> **tumid** 
 + timidity [mn]膽怯/無自信
-+ **timorous** [adj]提心吊膽的/戰戰兢兢的 = *fearful* = *tremulous* = *timid* = *trepid*
++ **_timorous_** [adj]提心吊膽的/戰戰兢兢的 = *fearful* = *tremulous* = *timid* = *trepid*
 + timorousness [n]提心吊膽
 - terror [mn]恐懼, 恐怖主義 = *terrorism*, 令人恐懼之物, 討厭的人/造成麻煩的人 = *holy* terror
 - terrorize [v]恐嚇/使恐懼
@@ -8545,7 +8546,7 @@
 + undue [adj]不適當的/過度的/過分的 = *overly* = *excessive* = *disproportionate*
 + unduly [adv]過度 
 * unearth [v]掘出/使出土, 發現 = *discover*, 把(狐狸)趕出洞穴 <|> unearthly
-- **unearthly** [adj]奇異的 = *unnatural* = *mysteriou* <-- un + earthly
+- **_unearthly_** [adj]奇異的 = *unnatural* = *mysteriou* <-- un + earthly
 + unerring [adj]正確的/精確的
 * uneasiness [n]焦慮/不安 = *anxiety* = *discomfort* = *compunction*
 + unencumbered [adj]不受妨礙的, 沒有債務負擔的
@@ -8579,7 +8580,7 @@
 + unguided [adj]無導向的, (飛彈)無導向裝置的
 - unheard [adj]未聽見的, [of]前所未聞的/從未發生的
 - **unheralded** [adj]未事先宣布的
-* **unhinged** [adj]心神不定的/精神失常的 = *deranged*
+* **_unhinged_** [adj]心神不定的/精神失常的 = *deranged*
 - unimpassioned [adj]心平氣和的
 + unimpeachable [adj]無可置疑的 = *trustworthy* <-- un + impeach + able
 - unimpressed [adj]沒留下深刻印象的
@@ -8602,7 +8603,7 @@
 + unoriginal [adj]非原創的/模仿的 = *derivative*
 - unobtrusive [adj]不引人注目的
 + unorthodox [adj]非正統的/非傳統的 = *heterodox* = *maverick* = *unconventional*
-- **unpalatable** [adj]讓人難以接受的 = *unpleasant*, 難吃的
+- **_unpalatable_** [adj]讓人難以接受的 = *unpleasant*, 難吃的
 * unparalleled [adj]無比的/無雙的 = *exceptional* <--> parallel
 + unprecedented [adj]前所未有的 <-- un + precedent + ed
 + unpremeditated [adj]無預謀的/偶然的 = *adventitious*
@@ -8617,7 +8618,7 @@
 - unrealized [adj]無法實現的, 無法兌現的
 + **_unravel_** [v]解開/拆開, **瓦解** = *disintegrate*, 揭開/解開
 - unreceptive [adj]不願接受的 <--> receptive
-- **unregenerate** [adj]不知悔改的 = *unrepentant*
+- **_unregenerate_** [adj]不知悔改的 = *unrepentant*
 - unregulated [adj]未受管理的/未受管制的
 * unrelenting [adj]堅定不移的/不退讓的, 不仁慈的/殘酷無情的 = *relentless*
 + unreliable [adj]不可信任的/靠不住的/不可靠的 = *untrustworthy*
@@ -8746,7 +8747,7 @@
 - uproarious [adj]騷動的/喧囂的, **令人捧腹大笑的** = *funny*
 * uproot [v]連根拔起, 根除/滅絕 = *eradiate*, 把……趕出家園
 - **upstage** [v]搶……鏡頭/搶…的風頭 [adj/adv]向舞臺後部
-- **upstart** [n]暴發戶/傲慢自負的人
+- **_upstart_** [n]暴發戶/傲慢自負的人
 - upstate [adj]在州北部的 [adv]在州北部 [n]州北部
 - upswing [n]上升/增長 = *increase* = *upward* strength
 - uptick [n]上揚/趨勢上揚 
@@ -8882,7 +8883,7 @@
 - **_obverse_** [adj]正面的/朝外的, 對立的 [n]表面/錢幣的正面, 對立面
 * **pervert** [v]使走上邪路/使變壞 = **debauch**, 誤用/濫用 = *abuse*, 曲解 = *convolute* [n]反常者
 - perv [v]性行爲反常者/性變態者 = pervert [v]色迷迷地看
-- **_perverse_** [adj]故意作對的 = *contrary* = *wayward* = *willful*, 墮落的 = *depraved*
+- **_perverse_** [adj]墮落的, 故意作對的 = *contrary* = *wayward* = *willful*, 倔強的/剛愎自用的
 - reverse [n]反面, 相反 = *opposite* [v] (使)倒退/倒退/翻轉, 徹底改變
 - reversion [mn]回復/退回, [法]歸還/物歸原主, [法]未來所有權/繼承權, 繼承物
 - revert [v][to]恢復/回復到
@@ -8927,10 +8928,10 @@
 + convention [n]大會, 習慣, 公約 [mn]習俗
 + conventional [adj]傳統的 = *customary*, 墨守成規的, 非核的(武器)
 - convenient [adj]方便的/便利的/省事的 <|> conventional
-- convenience [mn]方便/合宜 = *expediency* [n]便利設施/方便的用具 <--> inconvenient
+- convenience [mn]方便/合宜 = *expediency* [n]便利設施/方便的用具
 - inconvenient
 * **covenant** [n]約定/合約 = *compact* = *pact*, 聖約 [v]立約承諾/立書保證
-- **convent** [n]女修道院 = *nunnery*, 教會學校 <|> convene <|> **votary**
+- **_convent_** [n]女修道院 = *nunnery*, 教會學校 <|> convene <|> **votary**
 + [intervene](/ɪntəˈviːn/) [v]干涉/介入, 介於中間
 + intervention [n]干涉/介入, 干預, 介入治療
 + invent [v]捏造/編造 = *concoct* = *vamp* = *fabricate*, 發明/創造 = *create* = *design*
@@ -8954,7 +8955,7 @@
 + unequivocal
 + evoke [v]喚起(記憶或感情) = *conjure* = *summon*, 激起/引起(回應) = *elicit* = *kindle* = *inflame*, 祈求 = *invoke* 
 + evocative [adj]引起回憶的/喚起感情的
-+ **_invoke_** [v]祈求(法律或神靈), 招喚, 援引/借助(法律),
++ **_invoke_** [v]祈求(法律或神靈), 招喚, 援引/借助(法律)
 + provoke [v]激勵/刺激 = *stir up* = *arouse* = *incite* = *stimulate* = *instigate* = *whet* = *pique*, 激起/引起(負面反應), 激怒/挑釁 = *peeve* = *pique* = *irritate* = *irk* = *gall* = *rile* = *nettle* = *vex*
 + provocation [n]挑釁 = *affront*, 挑撥, 挑逗 
 + provocative [adj]意圖刺激的/挑播的, 性挑逗的
@@ -8970,14 +8971,14 @@
 ## val, vail 力量/價值 = *strong*, worth
 + [ambivalent](/amˈbɪvələnt/) [adj]有矛盾看法的 = *contradictory*
 + ambivalence [n]矛盾心理
-- **_convalesce_** [v]康復/休養
+- **_[convalesce](/ˌkɒnvəˈlɛs/)_** [v]康復/休養
 - convalescent [adj]療養的/康復中的 [n]處於康復期的病人
 - equivalent [adj][to]相同的/等值的 [n]相等物/等價物, 當量 = *equivalent* weight
 + **prevalent** [adj]流行的/盛行的/普遍的 = *rife* = *widespread* 
 + prevalence [mn]流行/普遍 = *commonness*
 * valiant [adj]勇敢的/英勇的 = *courageous* = *heroic* = *stalwart*
 + valid [adj]有根據的/令人信服的 = *compelling*, 合法的/有效的
-+ [validity](/vəˈlɪdɪti/) [mn]正確/合理, 有效性/效力
++ [validity](/vəˈlɪɪti/) [mn]正確/合理, 有效性/效力
 + validate [v]證實 = *prove* = *substantiate*, 使生效
 - valor [n]勇氣/英勇
 - valorous [adj]勇敢的/英勇的 = *valiant*

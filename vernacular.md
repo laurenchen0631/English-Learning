@@ -1,9 +1,49 @@
-## Pejorative 
-- whack job [n]怪人/腦子有問題的人
-- red tape [n]繁文縟節
-- crapweasel [n]人渣
+## Noun
+- **card sharp** [n]耍老千的人/以詐術贏錢者
+- **chick flick** [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
+- **long shot** [n]希望不大的嘗試/機會渺茫
+- **muffin top** [n]肚腩肉
+- **pink slip** [n]解雇通知單
+- **red herring** [n]轉移注意力的事情, 燻青魚
+- **wet blanket** [n]掃興的人 = *party pooper*
+- **whack job** [n]怪人/腦子有問題的人
+- a piece/slice of the action [n]分一杯羹
+- a roof over your head [n]住處/棲身之處
+- a slap in the face [n]一巴掌/一記耳光
+- bed of roses [n]稱心如意的處境
+- beddy-byes [v]上床睡覺
+- bee's knees [n]出類拔萃的人或事物
+- better half [n]配偶
+- bits and pieces [n]七零八碎/零碎的工作
+- brown-noser [n]馬屁精
+- building block [n]積木/構成要素
+- cash cow [n]搖錢樹
+- cha-ching [n]錢
+- closed book [n]一無所知的學科/完全不懂的學科
 - con artist [n]騙子/行騙者 
-
+- crapweasel [n]人渣
+- dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
+- escape hatch [n]出路
+- ethical lapse [n]過失
+- fast track [n]快速成功之路/迅速晉升之道
+- feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
+- full stop [n]句號
+- good call [n]正確的選擇/正確的決定
+- hobby shop [n]a kind of store that sells recreational items for hobbyists.
+- man of the Hour [n]知名人士
+- one-night stand [n]一夜情, 僅演一次的演出
+- pipe dream [n]白日夢/空想
+- red tape [n]繁文縟節
+- social butterfly [n]交際花
+- the cutting edge [n]發展前沿/領先位置/先鋒地位
+- the real deal [n]真正的能手, 真實/真實性
+- weak link [n]薄弱的環節
+- white lie [n]善意的謊言
+- diamond in the rough [n]一塊璞玉
+- jack of all trades [n]萬事通/博而不精的人
+- life in the fast lane [n]充滿刺激的生活
+- live wire [n]機靈鬼/精力充沛的人
+  
 ## Time
 - right off the bat [adv]立刻
 - now and again [adv]有時
@@ -23,6 +63,7 @@
 - chalks A up to B [v]把A歸因於B
 - consign A to B [v]把A置於B的境地
 - it’s one thing to A, it’s another/a different thing to B [phrase]A是一回事而B又是另一回事
+- refer to A as B [v]把A稱作B
 
 ## Adverb
 - (as) easy as falling off a log [adv]不費吹灰之力/非常輕鬆
@@ -84,6 +125,10 @@
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
 - with all due respect [adv]恕我直言
+- behind the eight ball [adv]處於劣勢
+- off the cuff [adv]即席/無準備地
+- on your high horse [adv]自以為是/自命不凡
+- out of (one's) hair [adv]不再是..的負擔或責任
 
 ## Phrase
 - **(as) fit as a fiddle** [adj]非常健康
@@ -101,7 +146,7 @@
 - be a far cry from sth [v]和…相去甚遠/與…大相逕庭
 - be all ears [v]全神貫注地聽/洗耳恭聽
 - **be an item** [v]有戀愛關係
-- be angling for sth [v]拐彎抹角地求取
+- **be angling for sth** [v]拐彎抹角地求取
 - be between jobs [v]待業
 - be dead meat [v] (某人)有大麻煩
 - be dead set on doing sth [v]堅決要做…/一心要做…
@@ -115,27 +160,20 @@
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
 - be nothing short of sth [v]正是/簡直就是/極其
 - be on the same page [v]達成共識
-- be out of sorts [adj]有些不舒服/有點不高興
+- **be out of sorts** [adj]有些不舒服/有點不高興
 - be pressed for time [v]時間緊迫
-- be under the gun [adv]因為須在限定時間內（或以特定方式）完成任務而倍感壓力
+- **be under the gun** [v]因為須在限定時間內（或以特定方式）完成任務而倍感壓力
 - be up and about again [v]康復
 - be/fall prey to sth [v]成為…的犧牲品/深受…之害
 - be/keep/stay one step ahead [v]比...準備得更好, 設法不被...逮到
 - be/stay/get ahead of the curve [v]占得先機
 - bear witness (to sth) [v]見證了/證明了
-- bed of roses [n]稱心如意的處境
-- bee's knees [n]出類拔萃的人或事物
 - beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
-- behind the eight ball [adv]處於劣勢
-- bestow sth on/upon sb 給與/授與 
-- between rock and a hard place [n]進退兩難/左右為難
+- between rock and a hard place [adj]進退兩難/左右為難
 - bide your time [v]靜候時機
-- bits and pieces [n]七零八碎/零碎的工作
 - blow/knock one's socks off [v]發現非常有趣/發現非常傑出
-- border on [v]近乎於/近似
-- break into [v]突然開始做…
 - breathe (new) life into sth [v]帶來起色/注入活力
-- breathe down someone's neck [v]緊跟(某人)
+- **breathe down someone's neck** [v]緊跟(某人)
 - bring home the bacon [v]養家糊口
 - bring sb in line [v]帶..回到正軌
 - bring sth to sb's attention [v]引起某人對某物的
@@ -145,9 +183,8 @@
 - by all means [phrase]好的/當然可以
 - by the book [v]嚴格按照規矩辦事
 - call into question [v]引起對…的懷疑/使懷疑
-- call it a day [v]到此為止/收工
+- **call it a day** [v]到此為止/收工
 - can't get your head around sth [v]無法理解/搞不懂
-- cash cow [n]搖錢樹
 - cast doubt on sth [v]使產生懷疑/使不確信
 - catch sb red-handed [v]當場抓到
 - chew the fat [v]閒聊
@@ -157,23 +194,22 @@
 - come to light [v]爲人所知/被披露
 - come to terms with [v]逐漸接受(常指所愛之人的死)
 - cover (one's) bases [v]面面俱到 == cover all the bases
-- crack the whip [v]威逼/施威
+- **crack the whip** [v]威逼/施威
 - credit where credit's due [v]該讚揚的就讚揚
 - cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
 - cut to the chase [v]切入正題
 - dawn on sb [v]使…明白/使…意識到
-- diamond in the rough [n]一塊璞玉
-- die hard [v]不易改掉/不容易戒掉
+- **die hard** [v]不易改掉/不容易戒掉
 - don't bet on it [v]不大可能
 - don't dip your pen in the company ink [v]兔子不吃窩邊草(不要跟同事有性關係)
 - double back [v]回頭/原路往回
-- down the drain [v]付諸東流/打水漂
+- **down the drain** [v]付諸東流/打水漂
 - err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
 - fall off the wagon [v]又重新喝起酒來
 - fall/run afoul of [v]犯/違
 - feel left out [v]感到被排擠
-- few and far between [adj]不常發生/稀少
-- fit to be tied [v]怒不可遏
+- **few and far between** [adj]不常發生/稀少
+- **fit to be tied** [v]怒不可遏
 - foot the bill [v]付帳
 - front and center [adj]最重要的/最主要的
 - get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
@@ -182,23 +218,22 @@
 - get a word in edgeways [v]插嘴
 - get caught up in [v]被捲入 = be involved in
 - get down to brass tacks [v]回到正題
-- Get foot in the door [v]初步進入/邁出成功的第一步
+- **get foot in the door** [v]初步進入/邁出成功的第一步
 - get in shape [v]保持身材
 - get the monkey off one's back [v]戰勝困難/解決問題
 - get the sack [v]被開除
 - get up on wrong side of the bed [v]有起床氣/心情不好
-- get your feet wet [v]熟悉新情況
-- give sb the runaround [v]搪塞/打發（某人）
+- **get your feet wet** [v]熟悉新情況
+- **give sb the runaround** [v]搪塞/打發（某人）
 - give the green light to sth [v]准許/許可
-- go commando [v]不穿內衣
-- go nuts [v]大發雷霆/暴跳如雷
+- **go commando** [v]不穿內衣
+- **go nuts** [v]大發雷霆/暴跳如雷
 - go/fall to pieces [v]經神崩潰, 四分五裂/瓦解
-- good call [n]好主意
 - grasp/clutch at straws [v]抓救命稻草/不放過任何微小的機會
 - Has the cat got your tongue? [v]為何不吭聲
-- have a ball [v]玩得開心
+- **have a ball** [v]玩得開心
 - have a bearing on sth [v]與…有關係/對…有影響
-- have a chip on one's shoulder [v]生氣/耿耿於懷
+- **have a chip on one's shoulder** [v]生氣/耿耿於懷
 - have a frog in one's throat [v]說話困難/聲音嘶啞
 - have a shot at sth [v]嘗試
 - have an axe to grind [v]想爭個對錯, 別有用心/圖謀私利
@@ -209,7 +244,7 @@
 - here to stay [adj]已被廣泛使用/已為大多數人所接受
 - hit a snag [v]遇上阻礙或困難
 - hit a wall [v]遭遇撞牆期/遭遇極點
-- hit into one's stride [v]逐漸進入狀態/開始上軌道
+- **hit into one's stride** [v]逐漸進入狀態/開始上軌道
 - hit the road [v]離開/出發
 - How are you bearing up? [phrase]過得如何
 - I rest my case [phrase]陳述完畢
@@ -221,62 +256,54 @@
 - It is not as if [phrase]並非
 - It strikes me that [phrase]突然意識到 
 - it's not rocket science [phrase]並不太難/並非特別複雜
-- jack of all trades [n]萬事通/博而不精的人
-- jump the gun [v]過早地行動
+- **jump the gun** [v]過早地行動
 - larger than life [adj]不同凡響的
 - last-ditch [v]最後一招/孤注一擲
 - lay the foundation for/of [v]打下基礎
 - lay waste to sth [v]對..導致非常嚴重的損害 
-- learn the ropes [v]知道訣竅/在行
+- **learn the ropes** [v]知道訣竅/在行
 - let bygones be bygones [v]過去的就讓它過去吧
 - let one's hair down [v]放開/放輕鬆
 - let the cat out of the bag [v]洩漏秘密
-- life in the fast lane [n]充滿刺激的生活
 - live and let live [v]互相包容
-- live off the land [v]過養尊處優的生活
-- live wire [n]機靈鬼/精力充沛的人
+- **live off the land** [v]過養尊處優的生活
 - lose (one's) marbles [v]發瘋
 - lose sleep over/about sth [v]擔心
 - make a day of it [v]開心
-- make a move on someone [v]調戲某人
-- make a pass at someone [v]調戲某人
-- make ends meet [v]收支平衡
-- make one's toes curl [v]讓人尷尬/使人為難, 使受驚嚇
-- my two cents [n]我個人的小意見
+- make a move/pass on someone [v]調戲某人
+- **make ends meet** [v]收支平衡
+- **make one's toes curl** [v]讓人尷尬/使人為難, 使受驚嚇
+- **my two cents** [n]我個人的小意見
 - nail it [v]搞定
 - nearly/almost fall off one's chair [v]極為驚訝
 - not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
-- off the cuff [adv]即席/無準備地
-- on your high horse [adv]自以為是/自命不凡
-- out of (one's) hair [adv]不再是..的負擔或責任
 - out of one's league [adj]配不上
-- paint the town red [v]尋歡作樂
+- **paint the town red** [v]尋歡作樂
 - pick up the tab [v]付帳
-- Play hardball (with sb) [v]採取強硬方式
+- play hardball (with sb) [v]採取強硬方式
 - pop someone's cherry [v]失去第一次/奪走人家第一次
-- pull one's leg [v]開玩笑
+- **pull one's leg** [v]開玩笑
 - put a sock in it [phrase]別出聲/住嘴
 - put one's hands on sth [v]弄到手/得到, 抓住
 - put the cat among the pigeons [v]造成軒然大波
 - rain on one's parade [v]潑冷水/掃興
-- refer to A as B [v]把A稱作B
 - risk life and limb [v]冒著生命危險
 - rub it in one's face [v]在傷口上灑鹽 = to point out someone's mistake or failure quite crudely
 - run in the family [v]家族遺傳/世代相傳
-- run on fumes [v]疲憊不堪
+- **run on fumes** [v]疲憊不堪
 - run the risk of doing sth [v]冒…的危險/冒險做…
 - save face [v]保全顏面
 - sb's hands are tied [phrase]受到限制/無能為力
 - seal the deal [v]達成協議
 - shut the stable door after the horse has bolted [v]亡羊補牢
-- sleep on it [v]好好考慮
+- **sleep on it** [v]好好考慮
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - stark raving mad [adj]完全瘋掉
 - start/set/get the ball rolling [v]著手做/開始做
 - stay put [v]留在原地
-- stick in the mud [v]墨守成規
+- **stick in the mud** [v]墨守成規
 - strike a pose [v]擺姿勢
-- suck it up [v]自認倒楣
+- **suck it up** [v]自認倒楣
 - take flight [v]逃走
 - take sth with grain of salt [v]對…半信半疑/對…有所懷疑
 - take the piss out of sb/sth [v]取笑
@@ -302,6 +329,7 @@
 - the cream of the crop [n]菁華/最好的部份
 - run aground/ashore [v]擱淺
 - down and out [adj]窮困潦倒的
+- soaking wet [adj]濕透
 
 ## Demotic
 - (be) directed at [v]專注於
@@ -639,40 +667,7 @@
 - write up [v]詳細寫
 - zoned in [adj]專注的 == focused
 - bow out [v]辭職/退出
-
+- border on [v]近乎於/近似
+- break into [v]突然開始做…
+- 
 ## Dialect
-- beddy-byes [v]上床睡覺
-- better half [n]配偶
-- brown-noser [n]馬屁精
-- building block [n]積木/構成要素
-- card sharp [n]耍老千的人/以詐術贏錢者
-- cha-ching [n]錢
-- chick flick [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
-- closed book [n]一無所知的學科/完全不懂的學科
-- dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
-- escape hatch [n]出路
-- ethical lapse [n]過失
-- feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
-- fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
-- full stop [n]句號
-- good call [n]正確的選擇/正確的決定
-- hobby shop [n]a kind of store that sells recreational items for hobbyists.
-- long shot [n]希望不大的嘗試/機會渺茫
-- man of the Hour [n]知名人士
-- muffin top [n]肚腩肉
-- one-night stand [n]一夜情, 僅演一次的演出
-- pink slip [n]解雇通知單
-- pipe dream [n]白日夢/空想
-- red herring [n]轉移注意力的事情, 燻青魚
-- soaking wet [adj]濕透
-- the cutting edge [n]發展前沿/領先位置/先鋒地位
-- the real deal [n]真正的能手, 真實/真實性
-- weak link [n]薄弱的環節
-- wet blanket [n]掃興的人 = *party pooper*
-- white lie [n]善意的謊言
-- yellow-bellied [adj]膽小的
-- social butterfly [n]交際花
-- fast track [n]快速成功之路/迅速晉升之道
-- a piece/slice of the action [n]分一杯羹
-- a roof over your head [n]住處/棲身之處
-- a slap in the face [n]一巴掌/一記耳光

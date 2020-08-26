@@ -436,6 +436,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - granola [n]穀麥(一種以燕麥片、堅果、蜂蜜作為原料、經烘烤而成的食物)
 - quesadilla [n]墨西哥酥餅
 - tortilla [n]墨西哥玉米粉薄烙餅, 西班牙土豆炒雞蛋
+- fixin [n]A Southern (USA) word for the supplemental food, dishes, ingredients, and accompaniments to whatever you are eating, cooking, or serving.
 
 - Nutella [n]能多益(義大利廠商Ferrero生產的棕櫚油巧克力榛果醬)
 - Skittles [n]彩虹糖(一種果味糖果的品牌，目前由瑪氏食品的子公司箭牌股份有限公司進行生產)
