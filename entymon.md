@@ -7346,7 +7346,7 @@
 + **stanch**, **staunch** [v]止血 [adj]忠誠的 = *loyal*, 堅固的(牆壁)
 - **standout** [n][非]出眾的人或事物 [adj][非]傑出的
 - standstill [n]停止/停滯
-- **stanza** [n]詩節/詩段 = *verse*
+- **[stanza](/ˈstanzə)** [n]詩節/詩段 = *verse*
 * stately [adj]宏偉的/堂皇的, 莊嚴的/高貴的
 - stats [n][非]統計 = *statistics*
 + stasis -> stases [n]停滯/靜止 = *inactivity* = *equilibrium*, 瘀血
@@ -7548,7 +7548,7 @@
 - **synergy**, synergism [n]合力/協力 <-- syn + erg 工作 = *work* + y
 - synergetic, synergic [adj]合作的
 + **synopsis -> synopses** [n]概要/梗概 = *summary*, 大綱 = *outline* 
-+ **synoptic** [adj]概要的, 縱觀全局的 <-- syn + op 看 = see + sis
++ **_synoptic_** [adj]概要的, 縱觀全局的 <-- syn + op 看 = see + sis
 - synonym
 + synthesis [n]綜合/合成
 + [synthesize](/ˈsɪnθəsʌɪz/) [v]綜合/合成
@@ -7600,8 +7600,8 @@
 - intersect [v]橫斷/交叉
 - intersection [n]交叉, 交叉點, 十字路口
 - section [n]部分/片段, 地區/地段, 組/團/小隊, **切面**, 切開/切斷 [v]把……分成組, 將……切片
-- **sect** [n]宗派/教派, 黨派
-- **sectary** [n]門徒 <|> secretary
+- **_sect_** [n]宗派/教派, 黨派
+- **_sectary_** [n]門徒 <|> secretary
 + sectarian [adj]宗派的/教派的, 嚴格遵守教義的 [n]教派成員, 嚴格遵守教義的人
 + sectarianism [n]宗派主義/教派意識
 - segment [n]部分/片段 = *fragment*, 線段/弓形, 體節 [v]**分割/切割**

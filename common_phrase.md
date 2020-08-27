@@ -808,13 +808,6 @@
 - Renaissance man (n)多才多藝的人
 
 ## Apothegm
-- Cogito, ergo sum 我思故我在
-- have/get several irons in the fire 同時有幾件事要做/同時有數種可能
-	- If that job application doesn't work out I've got a couple more irons in the fire.
-- if you will/like 如果你願意那樣說的話
-	- I did very well in school , with a "genius IQ" if you will.
-- revenge is sweet 報仇雪恨，大快人心
-- revenge is a dish best served cold 君子報仇，十年不晚
 - sb is sold 買帳 == When someone are convinced of/by something.
 - sink or swim 自己去闖/成敗全憑自己
 	- My employer gave me no help when I started my new job - I was just left to sink or swim.
@@ -835,23 +828,3 @@
 - double whammy (n)禍不單行
 	- Farmers have faced the double whammy of a rising dollar and falling agricultural prices.
 
-## Thing
-- a bite (to eat) 一些食物 == some food
-	- We don't have a lot of time, so let's just grab a quick bite to eat before the movie starts.
-	- Let's pull off at the next rest stop to grab a bite to eat.
-- call to action (n)行動呼籲 == something such as a speech, piece of writing, or act that encourages people to take action about a problem
-	- The film is a call to action on climate change.
-- hot button (n)重要而敏感的問題 == a subject that is important to people and about which they have strong opinions
-	- After the 2016 election, she brought together 25 Clinton supporters from California and 25 Trump supporters from Alabama to talk about hot-button issues
-- icing on the cake (n)錦上添華 <-- icing (n)裝飾糖霜
-- moral compass (n)道德羅盤 == a natural feeling that makes people know what is right and wrong and how they should behave
-	- Some people believe that the increase in crime shows that society is losing its moral compass.
-- poster child 代表人物形象 == someone or something that is used to represent a particular quality
-	- He is a poster boy for political reform.
-- the ins and outs (n)細節
-	- I know how to use computers, but I don't really understand the ins and outs of how they work.
-- knock-on effect (n)連鎖反應
-	- If one or two trains run late, it has a knock-on effect on the entire rail service.
-- vested interest (n)既得利益 --> vested interest (n)既得利益人群/既得利益集團
-- smoke and mirrors (n)謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
-- old hand (n)老手/專家

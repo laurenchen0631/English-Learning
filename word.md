@@ -1403,12 +1403,12 @@
 - ditch [n]水道/渠道 [v]掘溝, **拋棄/遺棄/丟棄** = *get rid of* = *give up*, 逃學, 水上迫降, 使(火車)出軌
 - **ditty** [n]小曲/小調/短歌 = *ballad*
 - **ditto** [n]同上符號 [v]重複 = repeat
+- **_ditzy_** [adj]神經兮兮的
 - diva [n]歌劇的女主唱, 女歌手, 自以為是的女人/妄自尊大的女人
 - dive [n/v]跳水, 潛水, 俯衝, 衝/猛衝, 暴跌
 - diver [n]跳水員, 潛水員
 - **divvy** [v][up]分發/分享 [n]部分/分配
 - dizzy [adj]頭暈目眩的, 使人頭暈的, [非] (女性)愚蠢的 [v]使頭暈眼花
-- **_ditzy_** [adj]神經兮兮的
 - **_dobber_** [n]打小報告的人/告發者
 - [docket](/ˈdɒkɪt/) [n]一覽表, 事項表 [v]列入, 在...上附上標籤, 附上摘要
 - **dodder** [v]蹣跚/踉蹌 = *totter* [n]菟絲子 <|> **dobber**
@@ -1590,7 +1590,7 @@
 - earring [n]耳飾
 - earshot [mn]聽力範圍
 - earsplitting [adj]震耳欲聾的 = *very* loud
-- **earthly** [adj]現世的, 塵世的 = *worldly* <|> unearthly
+- **earthly** [adj]現世的, 塵世的 = *worldly* <|> **unearthly**
 - **earthy** [adj]土地的/泥土的, 粗俗的
 - **easement** [n]地役權(通常指依據契據或遺囑，土地使用人在他人擁有的土地上能享有的非營利利益，土地使用人藉此能夠獲得對此一土地特定的有限使用權利), 緩和/平靜
 - **easel** [n]畫架 <|> weasel
@@ -1616,8 +1616,8 @@
 - **enema** [n][醫]灌腸
 - **ennui** [mn]倦怠/無聊
 - [entrée](/ˈɒntreɪ/) [n]主菜, 獲准進入的權力或特權/入場權
-- **[epinephrine](/ˌɛpəˈnɛfrən/)** [n]腎上腺素 = adrenaline
-- **equine** [adj]馬的, 像馬的 [n]馬 <-- equ 馬 = *horse* + ine
+- **[epinephrine](/ˌɛpəˈnɛfrən/)** [n]腎上腺素 = *adrenaline*
+- **equine** [adj]馬的, 像馬的 [n]馬 <-- equ 馬 = horse + ine
 - equipment [n]配備/裝備, 裝配, 才能/知識/能力
 - errand [n]差事/跑腿
 - escalade [n]攀登城壁用的梯子 <-- e + scale 梯子 = *ladder* + ade
@@ -1649,7 +1649,7 @@
 + [fallacious](/fəˈleɪʃəs/) [adj]謬誤的/錯誤的 = *erroneous*
 + fallible [adj]容易犯錯的 = *liable to err*
 + fallibility [n]容易出錯
-+ [fallow](/ˈfaləʊ/) [adj]休耕的, 不活躍的/不活動的 = *inactive*, (母豬)未懷孕的 [n]休耕地, 淡棕色 [v]休耕 <|> callow <|> [follow](/ˈfɒləʊ/) 
++ [fallow](/ˈfaləʊ/) [adj]休耕的, 不活躍的/不活動的 = *inactive*, **(母豬)未懷孕的** [n]休耕地, **淡棕色** [v]休耕 <|> callow <|> [follow](/ˈfɒləʊ/) 
 + false [adj]錯誤的 = *erroneous* = *fallacious*, 非法的, 偽造的 = *counterfeit*, **人造的** = *artificial*, 虛偽的, 騙人的 = *deceptive*, **不忠的** = *treacherous*
 + falsify [v]竄改/偽造/曲解 = *garble* = *juggle*, 證明…虛假 = *disprove* = *rebut*
 + falsehood [mn]虛假 [n]謊言, 說謊
@@ -1819,9 +1819,6 @@
 * **[fuss](/fʌs/)** [n]過分激動/大驚小怪, 小爭論 = *dispute* = *argument*, 困難 = *trouble* = *difficulty* [v]大驚小怪, 忙於, 過分關心 = *cluck* <|> fuzz
 * **fussy** [adj]挑剔的 = *fastidious* = *picky* = *choosy* = *finicky* = *thorough*, 大驚小怪的 = *overwrought*, 充滿細節的
 ***
-- **fib** [n]謊言 [v]說謊 <|> dibs
-- **[frigid](/ˈfrɪdʒɪd/)** [adj]寒冷的, 冷淡的 
-- frigidity [n]寒冷, 冷淡 <-- frig 冷 = *cold* + id
 - fade [v]變微弱/逐漸消失, 凋謝/枯萎, 褪色, [away]凋零, (影像)淡出 [mn]褪色 [n]淡出
 - **fag** [n]受高年級男生使喚的低年級男生, [冒犯]男同性戀者, 香煙, 枯燥的工作/苦差事
 - fair-minded [adj]公平對待每個人的 
@@ -1879,6 +1876,7 @@
 - fetishisation [n]迷戀
 - **fiasco** [n]完全失敗/大失敗 = **debacle** <|> fresco
 - fiberglass [n]玻璃纖維, 玻璃棉
+- **fib** [n]謊言 [v]說謊 <|> dibs
 - **fibula** [n]腓骨, 扣衣針/飾針
 - **fiddle** [n][航]餐具框, [非]小提琴 [v]胡來/亂動 = *dicker*, [around]遊蕩, [非]拉提琴
 - **_[fidget](/ˈfɪdʒɪt/)_** [v]坐立不安/煩躁 [n]坐立不安 <|> budget
@@ -1901,7 +1899,7 @@
 - firefly [n]螢火蟲
 - fishy [adj]魚的/似魚的, [非]可疑的
 - fistful [n]一把 = *handful*
-- **fizzle** [v]發嘶嘶聲, 失敗, [out]逐漸終止/有始無終 [n]嘶嘶聲, 失敗
+- **fizzle** [v]發嘶嘶聲, **失敗**, **[out]逐漸終止/有始無終** [n]嘶嘶聲, 失敗
 - flabby [adj]不結實的/軟弱的, 鬆弛的/肥胖的 = *overweight*
 - **flabbergast** [v][非]使吃驚 = *astonish*
 - flagpole [n]旗竿
@@ -2002,6 +2000,8 @@
 - friable [adj]易碎的/脆弱的 = *frail* <-- fri 粉碎 = *crumble* + able
 - friction [mn]摩擦力, 摩擦, 爭執 <-- frict 摩擦 = *rud* + ion
 - [fright](/frʌɪt/) [n]驚嚇/恐怖, 恐怖的經驗
+- **[frigid](/ˈfrɪdʒɪd/)** [adj]寒冷的, 冷淡的 
+- frigidity [n]寒冷, 冷淡
 - **_frill_** [n]褶邊/波形褶邊 = *flounce*, 不必要的裝飾/虛飾
 - [frore](/frɔː/) [adj]結冰的
 - **frond** [n]窄長的葉子/蕨類或棕櫚的葉子
@@ -2033,8 +2033,8 @@
 - **fuzzy** [adj]毛茸茸的 = *furry*, 模糊不清的, 困惑的 = *confused*
 
 ## G
-+ **_[gaffe](/ɡaf/)_** [n]出醜/失態 = *blunder* = *solecism* <|> **guffaw** <-- gaff 魚叉 + e
-+ gainsay [v]否認/反駁 = *deny* = *contradict* = *naysay*, 反對 = *oppose* <-- gain 再次 = *again* + say
++ **_[gaffe](/ɡaf/)_** [n]出醜/失態 = *blunder* = *solecism* <|> **guffaw**
++ gainsay [v]否認/反駁 = *deny* = *contradict* = *naysay*, 反對 = *oppose*
 + gall [mn]厚顏無恥, 膽汁 = *bile*, **怨恨/不滿** = *resentment* = *hatred* [n]膽囊, 擦傷 = *chafe* = *sore* [v]使惱怒, 擦傷
 + **gallant** [adj]勇敢的, 獻殷勤的/騎士風度的 = *chivalrous* [n]時髦男士
 - gallblader [n]膽囊 = *gall*
@@ -2087,7 +2087,7 @@
 - **_guff_** [n]胡說八道
 - **_gruff_** [adj]粗魯的 = *surly* = **forbidding**, 粗啞的
 - **goof** [n]傻瓜 = **doof**, 愚蠢的錯誤 [v]犯錯/失敗
-+ **[guffaw](/ɡəˈfɔː/)** [n/v]開懷大笑 = *chortle* <|> gaffe
++ **[guffaw](/ɡəˈfɔː/)** [n/v]開懷大笑 = *chortle* <|> **gaffe**
 * guile [n]奸詐/狡猾
 + guileless [adj]誠實無欺的/老實的 = *honest*
 + [guise](/ɡʌɪz/) [n]外觀/外表 = *appearance* = *semblance* <|> [guy](/ɡʌɪ/)
@@ -2333,12 +2333,12 @@
 + happenstance [mn]偶然 = *coincidence*
 + hark [v]聽 = *listen*, **[back to]提起/喚起** = *harken/hearken back to*
 + harry [v]反覆地襲擊, 不斷煩擾 = *harass*
-+ harried [adj]疲憊的 = *harassed*
++ **harried** [adj]疲憊的 = *harassed*
 + **[harrow](/ˈharəʊ/)** [n/v]耙 [v]使焦慮/使惱火 = *distress* = *vex* = *fret* = *annoy*
 + harrowing [adj]焦慮的 = *distressing*
 + halt [n/v]暫停/停止 = *stop* = *cease*
 + halting [adj]躊躇的/猶豫的 = *faltering*
-+ hamper [n]帶蓋食品籃/野餐籃, [航]障礙船具 [v]妨礙/阻撓 = *hinder* = *encumber* = *impede* = *thwart* = *check* = *arrest* = *stymie*
++ hamper [n]**帶蓋食品籃/野餐籃**, [航]障礙船具 [v]妨礙/阻撓 = *hinder* = *encumber* = *impede* = *thwart* = *check* = *arrest* = *stymie*
 + hamstring -> hamstrung -> hamstrung [n]腿筋/膕繩肌腱 [v]切斷(人、馬等的)腿後腱使成跛腳, 嚴重地限制..的效果
 + hand-wringing [n]憂慮的模樣
 + **[harangue](/həˈraŋ/)** [n]長篇大論的指責性演說 = *tirade* [v]向…作慷慨激昂的演講
@@ -2390,7 +2390,7 @@
 + **_[hubris](/ˈhjuːbrɪs/)_** [n]傲慢自大 = *hauteur* <|> debris
 + **hunch** [n]預感 = *premonition*, 弓起, 大塊 = *hunk* [v]弓背/彎腰 = *arch* = *stoop* = *bend* over
 + husband [v]**節儉地管理/節約地使用** = *conserve* [n]丈夫
-+ husbandry [n]耕種/飼養 = *agriculture* = *farming*, 節儉/管理 = *frugality* = *thrift* = *conservation*
++ husbandry [n]**耕種/飼養** = *agriculture* = *farming*, 節儉/管理 = *frugality* = *thrift* = *conservation*
 ***
 * hack [v]**亂劈/亂砍**, 亂踢, 駭入, 不斷咳嗽, [非]**[hack it]處理** = *manage* = *cope*, 騎馬 [n]亂砍, 駭入, **策略**, **僱用文人/寫手**, 騎用的馬, 騎馬, 出租的馬, 老馬/劣馬, 計程車, 曬架
 * harass [v]騷擾/煩擾 = *badger* = *pester* = *persecute* = *plague* = *nag* <|> harsh
@@ -2408,14 +2408,14 @@
 * heel [n]腳後跟, 底部/根部, 高跟鞋, 卑鄙的人 [v]緊跟/緊追
 * **hell-bent** [adj]不顧一切的/死心塌地的
 * hermit [n]隱士/修道者 = *recluse*, 隱士夜鶇 <|> hermetic
-* **hickey** [n]吻痕, 面皰 <|> **hokey**
+* **[hickey](/ˈhɪki/)** [n]吻痕, 面皰 <|> **hokey**
 * hide [n]獸皮, 藏身處 [v]隱藏 <|> chide
 * hiss [v]發出嘶嘶聲, 發出噓聲/表示不同意 [n]噓聲, 嘶嘶聲, 電波干擾
 * hoax [v]欺騙 = *fraud* = *hoodwink* [n]欺騙/騙局 = *sham* <|> coax
 * **_hokey_** [adj]多愁善感的 = *maudlin* = *mawkish*, 矯揉造作的 = **stilted** = **contrived** <|> jockey
 * homey [adj]舒適的 = *cosy*, 不世故的/低調的 = *unsophisticated* = *unpretentious* [n][非]老鄉/老友
 * homie [n][非]老鄉/老友 <|> homily
-* honor [n]尊敬, 光榮的事或人, 品德高尚, 貞潔, 榮幸 = *privilege*, 榮譽, 優等成績, (橋牌)價值最高的牌 [v]尊敬, 承兌/實踐 = *fulfill*, 支付
+* honor [n]尊敬, 光榮的事或人, 品德高尚, 貞潔, 榮幸 = *privilege*, 榮譽, 優等成績, (橋牌)價值最高的牌 [v]尊敬, **承兌/實踐** = *fulfill*, 支付
 * horticulture [mn]園藝/園藝學 <-- horti 花園 = *garden* + culture
 * howl [v]長嚎/嗥叫 = *bay*, 哀號, (風)呼嘯 [n]號叫聲/喊叫聲/呼嘯聲, 怒吼/憤怒的表示 <|> growl
 * **_[hubbub](/ˈhʌbʌb/)_** [n]吵鬧聲/騷動 = *tumult* = *uproar*
@@ -2434,7 +2434,7 @@
 - hairdo [n]髮型
 - **[hale](/heɪl/)** [adj] (尤指老人)健壯的 <|> [hell](/hɛl/)
 - halfway [adj]中途的 [adv]在中途, 到某種程度 = *to* some extent
-- half-ass [v]隨便
+- **half-ass** [v]隨便
 - half-baked [adj]考慮不周全的, 愚蠢的 = *foolish*
 - half-brother [n]異父或異母的兄弟
 - half-truth [n]片面真理(可能是部分是正確的，該語句可能完全真實的，但只包括全部真相中的一部分)
@@ -2452,7 +2452,7 @@
 - hang -> hung -> hung [v]懸掛/吊, [be hung with]裝飾, 貼(壁紙) = *paste*, 絞死/吊死, 停留/懸浮, 到來, [非]放鬆, 垂下, [on][非]稍等一會兒, [on]緊握/抓住, [out]分發, [out]經常出入/廝混 [up]掛斷電話 [n]彎下/垂下, 懸掛方式
 - hang-up [n]焦慮/煩惱
 - hangar [n]飛機庫
-- **[hangdog](/ˈhaŋdɒɡ/)** [adj]羞愧的 = *shamefaced*
+- **[hangdog](/ˈhaŋdɒɡ/)** [adj]羞愧的 = *shamefaced* <|> **lapdog**
 - **hanger** [n]掛東西的人, 衣架 = *coat hanger* <|> **hangar** 
 - hanger-on [n]攀附權貴者/逢迎者
 - hangover [n]宿醉, 遺留物/過去留下的習俗或習慣 <|> holdover
@@ -2471,7 +2471,7 @@
 - harmony [n]相符/一致, 協調/勻稱
 - **harmonium** [n]小風琴
 - [harness](/ˈhɑːnəs/) [n]馬具/挽具, 降落傘背帶/保險帶/安全帶 [v]給……上挽具, 控制/利用
-- harp [n]豎琴 [v][on]反覆訴說/嘮叨
+- harp [n]豎琴 [v]**[on]反覆訴說/嘮叨**
 - harpoon [n]魚叉 [v]用魚叉叉
 - harpsichord [n]羽管鍵琴/大鍵琴
 - **harridan** [n]潑婦 = *virago*
@@ -2582,16 +2582,16 @@
 - hover [v]盤旋, 猶豫, 徘徊, 停留 [n]盤旋/徘徊
 - hovercraft [n]氣墊船
 - hub [n]輪轂/輪胎軸心, 中心
-- **huckster** [n]叫賣的小販/零售商 = *peddler* = *hawker*, 廣告撰寫員/廣告人 [v]討價還價 = *bargain* = *haggle*, 宣傳/叫賣
+- **_huckster_** [n]叫賣的小販/零售商 = *peddler* = *hawker*, 廣告撰寫員/廣告人 [v]討價還價 = *bargain* = *haggle*, 宣傳/叫賣
 - huddle [v]擠作一團/聚在一起, 蜷曲/縮成一團, 討論 = *confer* [n]一團
 - hue [n]色彩/色澤, 樣子/性質 = *character* = *aspect*
 - **_huff_** [v]氣喘吁吁, 氣惱 = **sulk** [n]氣惱 <|> **chuff**
-- **hulk** [n]廢船, 殘骸, 大而笨重的人或物
+- hulk [n]廢船, 殘骸, 大而笨重的人或物
 - **hulking** [adj][非]大而笨重的
 - hull [n]船身, 皮/殼/莢, (莓果的)蒂 [v]**打穿……的船殼**, 去……的殼或蒂 <|> lull <|> dull
-- **huller** [n]脫殼機/去殼機
+- huller [n]脫殼機/去殼機
 - **[hullabaloo](/ˌhʌləbəˈluː/)** [n]喧鬧 = *commotion*
-- hum [v]發嗡嗡聲, 哼, [非]忙碌/活躍 [n]嗡嗡聲
+- hum [v]發嗡嗡聲, 哼, **[非]忙碌/活躍** [n]嗡嗡聲
 - humane [adj]仁慈的/人道的 = *kind* = *tender* = *merciful*
 - humanoid [adj]像人的 [n]類人生物
 - humid [adj]潮濕的 = *dank* = *damp* = *muggy* --> humidity [mn]潮濕, 濕氣/濕度 = *moisture* = *damp*
@@ -2717,7 +2717,7 @@
 - jackfruit [n]波羅蜜
 * jade [n]駑馬/疲憊的老馬, 翡翠/玉, 綠玉色
 * **jaded** [adj]厭倦的 = *weary*
-* jargon [n]行話/專業術語 = *argot* = *cant* = *patois*, 黃鋯石 
+* jargon [n]行話/專業術語 = *argot* = *cant* = *patois*, **黃鋯石**
 * jealous [adj][of]妒忌的/吃醋的, [of]小心守護的 
 * jealousy [n]猜忌/嫉妒
 * jest [n/v]說笑/玩笑 = *banter* = *joke* <|> just <|> vest <|> zest
@@ -2738,14 +2738,14 @@
 - jam [v]擠入, 使長時間忙線, 使塞住, **干擾(電波訊號)**, **即興創作** = *improvise* = *wing it* [n]塞住/卡住, 尷尬的處境
 - jam-packed [adj]擠得滿滿的/塞得緊緊的
 - **jamb** [n]門或窗的垂直邊框
-- jammies [n]睡衣褲 = *pajama*
+- **jammies** [n]睡衣褲 = *pajama*
 - jaunt [n/v]遠足/短程旅行 = *excursion* <|> vaunt
 - **jaunty** -> jauntier -> jauntiest [adj]得意揚揚的/快活的 = *cheerful* = *self*-confident
 - jasper [n]碧玉
 - jazz [n]爵士樂 [v][up]使更有趣/使更吸引人
 - **jeer** [n/v]嘲笑/嘲弄 = *mock* = *taunt* = *jibe* = *deride*
 - **jell** [v]結凍, 定形, 合作
-- jerk [n]突然猛拉, 抽搐/痙攣 = *spasm*, [非]蠢人 [v]猛然地一拉或一推, 把(肉)切成長條曬乾, 醃漬後烘烤 
+- jerk [n]突然猛拉, 抽搐/痙攣 = *spasm*, [非]蠢人 [v]猛然地一拉或一推, **把(肉)切成長條曬乾**, 醃漬後烘烤 
 - jerky [adj]忽動忽停的, **[非]愚蠢的**, 痙攣的 = *spasmodic* [n]**條狀肉乾**
 - jetsam [n]投棄的貨物/漂流到海岸的貨物 <-- jettison
 - jigsaw puzzle [n]拼圖
@@ -2781,20 +2781,20 @@
 * kinship [mn]血緣關係 = *kindred*, 類似/親密關係
 * kneel -> knelt/kneeled -> knelt/kneeled [v]跪
 ***
-- kabob [n]烤肉
+- **kabob** [n]烤肉
 - kangaroo [n]袋鼠
-- **[karate](/kəˈrɑːti/)** [n]空手道
-- keepsake [n]紀念品 = *souvenir* = *token*
-- **kempt** [adj]整潔的
+- [karate](/kəˈrɑːti/) [n]空手道
+- **keepsake** [n]紀念品 = *souvenir* = *token*
+- kempt [adj]整潔的
 - kennel [n]狗舍/狗窩 = *doghouse*, 一群狗 [v]把……關進狗舍 <|> kernel <-- ken 狗 = *dog* +  nel 
 - kernel [n]果仁, 核心 <|> kennel <-- kern 種子 = *corn* + el
 - **kerfuffle** [n]混亂 = *commotion*
-- **[kerosene](/ˈkɛrəsiːn/)** [n]煤油
+- **[kerosene](/ˈkɛrəsiːn/)** [n]煤油 <|> **diesel**
 - ketchup [n]番茄醬
 - kettle [n]水壺/開水壺
 - keynote [n]主音, **主旨/基調**
 - [khaki](/ˈkɑːki/) [n]卡其布料, 卡其服裝, 卡其色
-- kibble [v]將……磨成粗粒
+- **kibble** [v]將……磨成粗粒
 - kickoff [n]開球, [非]開始
 - **kickback** [n]回扣/佣金 <|> **sidekick**
 - kid [n]小孩/年輕人, 小山羊, 小山羊皮 [v]產(羔), 戲弄 = *deceive*, 欺騙 = *fool*, [around]做傻事
@@ -2803,19 +2803,19 @@
 - killjoy [n]令人掃興的人
 - kiln [n]窯
 - **[kinky](/ˈkɪŋki/)** [adj]性行為反常的/怪癖的, (衣服)撩人的, 纏結的
-- **kingpin** [n]主螺栓, 主要人物
-- kipper [v]燻製(鯡魚)
+- kingpin [n]主螺栓, 主要人物
+- **kipper** [v]燻製(鯡魚)
 - kitchenette [n]小廚房
-- [kitsch](/kɪtʃ/) [n]俗氣的裝飾品/庸俗的藝術品 [adj]俗氣的
+- **[kitsch](/kɪtʃ/)** [n]俗氣的裝飾品/庸俗的藝術品 [adj]俗氣的
 - **knave** [n] (紙牌中的)傑克
 - **knavery** [n]無賴作風/無賴行為 = *rascality*
 - knead [v]揉製/捏製, 推拿/按摩
 - knit [v]編織, (使)接合/聯合 = *connnect*, 皺(眉) = *frown* [mn]編織衣料 [adj]編織的
 - **[knob](/nɒb/)** [n]球形突出物, 球形把手, 旋鈕, 圓丘/小山, [俗]陰莖
 - know-it-all [n]自以為無所不知的人
-- knowingly [adv]會意地, 故意地 = *deliberately*
+- knowingly [adv]會意地, **故意地** = *deliberately*
 - know-how [n]專業技能/知識 = *expertise*
-- **[knuckle](/ˈnʌk(ə)l/ )** [n]指關節, 四足獸膝關節, 肘/蹄, 用指關節摩擦或壓 [v][down]開始認真
+- **[knuckle](/ˈnʌk(ə)l/ )** [n]指關節, 四足獸膝關節, 肘/蹄, 用指關節摩擦或壓 [v]**[down]開始認真**
 - **kook** [n]怪人/瘋子
 
 ## L 
@@ -2831,8 +2831,8 @@
 + [larceny](/ˈlɑːs(ə)ni/) [mn][法律]竊盜 = *theft* <|> **burglary** 
 + [largess](/lɑːˈdʒɛs/), largesse [mn]慷慨 = *generosity*, 慷慨的贈禮/賞金  <-- large + ss(e)
 + **lascivious** [adj]淫蕩的/好色的 = *lustful* = *licentious* = *salacious* = *wanton*
-* **luscious** [adj]香甜甘美的, 滿足感官的, 性感撩人的 = *voluptuous*
-+ lassitude [n]無力/疲乏/無精打采 = *lethargy* = *sluggishness* = *listlessness* = *fatigue*
+* **luscious** [adj]香甜甘美的, 滿足感官的, 性感撩人的 = **voluptuous**
++ **lassitude** [n]無力/疲乏/無精打采 = *lethargy* = *sluggishness* = *listlessness* = *fatigue*
 + **[latent](/ˈleɪt(ə)nt/)** [adj]潛伏的/潛在的 = *dormant* = *potential* 
 + latency [n]潛伏期
 + [laud](/lɔːd/) [v]稱讚 = *praise* = *extol* = *eulogize* = *exalt*
@@ -2873,10 +2873,11 @@
 + log [n/v]日誌/紀錄 = *record* [n]圓木, 測程儀 [v]航行/飛行(一定距離、速度或時數), 伐
 + [loom](/luːm/) [n]織布機, 隱約呈現的形象, 暗淡的反射光 [v]隱約地出現, 逼近/即將發生
 + lubricious [adj]**淫蕩的**, 潤滑的/油滑的 = *lubricous*
-- lubricate [v]潤滑 = *grease* --> lubricant [n]潤滑劑 <-- lubric 光滑的 = *smooth* + ate
+- lubricate [v]潤滑 = *grease*
+- lubricant [n]潤滑劑
 + [lucre](/ˈluːkə/) [n][貶]金錢/利潤 = *money* = *profits*
 + [lucrative](/ˈluːkrətɪv/) [adj]賺大錢的 = *profitable* = *remunerative*
-+ **[lugubrious](/lʊˈɡuːbrɪəs/)** [adj]憂傷的 = *lachrymose* = *mournful* = *plaintive* <-- lugubri 悲傷 = *mourn* + ous
++ **_[lugubrious](/lʊˈɡuːbrɪəs/)_** [adj]憂傷的 = *lachrymose* = *mournful* = *plaintive* <-- lugubri 悲傷 = *mourn* + ous
 + [lull](/lʌl/) [v]使入睡/使平靜, 使放鬆警惕/哄騙, 安靜下來 [n]暫時平息/暫時平靜 <|> [low](/ləʊ/)
 + lumber [v]笨重地移動/蹣跚而行/笨拙地走 = *lurch*, 採伐 [n]木材 = *lignum*
 + lumbering [adj]緩慢沉重的(移動) [mn]伐木
@@ -2894,21 +2895,23 @@
 * lawsuit [n]訴訟 = *suit* = *accusation* = *litigation* = *impeachment* = *prosecution* = *trial*
 * lay -> laid -> laid [v]放, 準備/安排/提出, 平息, 把……歸於, 下蛋/產卵, [off]解僱 **[adj]世俗的** [n]位置/地形
 * lie -> lay -> lain [v]躺/臥, 位於/在, 在於, 說謊
-- laid-back [adj]悠閒的/懶散的
+- **laid-back** [adj]悠閒的/懶散的
 * learned [adj]博學的 = *erudite* = *scholarly*, 學術性的 = *scholarly*
 * leaven [n]酵母/酵素 = *yeast*, 促使漸變的因素 [v]使發酵 = *ferment*, 變得更好 <|> ferment <|> brew
 * **[lecher](/ˈlɛtʃə/)** [n]好色之徒 = *satyr*
 * lecherous [adj]好色的/淫蕩的 = *lascivious* = *lustful* = *salacious* = *wanton*
 * leftover [n]殘餘物/剩菜 [adj]多餘的/剩下的 = *remaining*
 * **legible** [adj]清楚的/易辨認的(字跡)
-* leisure [mn]閒暇/空閒, [for/to]閒暇機會 --> leisurely [adj/adv]悠閒的 --> leisureliness [n]悠然/從容
+* leisure [mn]閒暇/空閒, [for/to]閒暇機會
+* leisurely [adj/adv]悠閒的
+* leisureliness [n]悠然/從容
 * lessen [v]減少/降低/減輕 = *allay*  = *diminish*
 * [leviathan](/lɪˈvʌɪəθən/) [n]巨大海獸, 巨物/強者 = *behemoth*, 獨裁政權
 * lexicon [n]詞典/語彙
 * [liable](/ˈlʌɪəb(ə)l/) [adj]有法律責任的, [to]受法律影響, [to]可能會
 * liability [n]責任/義務 = *obligation*, 所負責的東西/債務 = *debt*, 麻煩/累贅
 * lid [n]蓋子, 眼瞼 = *eyelid*, 派皮
-* liege [n]君主/國王, 諸侯/封臣 = *vassal* [adj]有君臣關係的
+* **liege** [n]君主/國王, 諸侯/封臣 = *vassal* [adj]有君臣關係的
 * likeness [mn]相似 = *resemblance*, 外觀/模樣 = *semblance* [n]畫像
 * [linger](/ˈlɪŋɡə/) [v]逗留/徘徊, [over]花很長的時間在, [on]逐漸消失
 - **[lingerie](/ˈlãʒ(ə)ri/)** [n]女用貼身內衣褲
@@ -2967,8 +2970,8 @@
 - lass [n]少女/小姑娘
 - lasso [n]套索 [v]用套索套捕
 - **latch** [n]閂/門閂 [v]閂上 = *bolt*, **[on to]理解**
-- lath [n]木板條/條板
-- lather [n]肥皂泡沫, (馬)汗沫, 焦慮 = **fret** [v]起泡沫, 冒汗沫, 痛打/毒打
+- **lath** [n]木板條/條板
+- **lather** [n]肥皂泡沫, (馬)汗沫, 焦慮 = **fret** [v]起泡沫, 冒汗沫, 痛打/毒打
 - **[latrine](/ləˈtriːn/)** [n]廁所
 - lattice [n]格子/格子窗, [物]晶格, 冒出汗沫
 - **launder** [n]洗熨 = *wash and iron*, 洗錢, 竄改(資訊) [n]洗礦槽
@@ -2977,7 +2980,7 @@
 - leaguer [n]盟員
 - leak [v]漏出, 洩漏(秘密) [n]漏洞, 漏, 洩漏 --> leakage [n]漏出, 洩漏
 - leaky [adj]漏的/有漏洞的, 易洩密的
-- leek [n]韭蔥
+- **leek** [n]韭蔥
 - **[lepidoptera](/ˌlɛpɪˈdɒpt(ə)rə/)** [n]鱗翅類
 - lean -> leant/leaned -> leant/leaned [v][on]依賴, [on]施壓, [into]擁抱/接受, [into]推擠/擠入
 - leapfrog [n]跳蛙遊戲 [v]跳, 跳升, 越過 = *pass* over = *hop*
