@@ -590,6 +590,7 @@
 - autobiography [n]自傳 [mn]自傳文學
 - bioethicist [n]生物倫理學家
 - [biology](/bʌɪˈɒlədʒi/) [mn]生物學, 生物
+- bionic [adj]仿生學的
 - biotic [adj]生物的
 - biosphere [n]生命層/生物圈
 + symbiosis [mn]共生 = *mutualism* [n]合作關係
@@ -3126,6 +3127,7 @@
 
 ## grand, grandi 大 = *great*, large
 + aggrandize [v]增大/擴大, 吹捧 = *acclaim*
+- grand [adj]重大的/首要的, 宏偉的/壯麗的, 大的, 極好的/出色的 [n]**一千** = 1000, 三角鋼琴
 + grandeur [n]宏偉/壯麗
 + [grandiloquent](/ɡranˈdɪləkwənt/) [adj]誇張的/浮誇的 = *pompous* = *bombastic* = *pretentious*
 + grandiose [adj]壯麗的, 華而不實的 = *meretricious* = *overblown* = *pompous*
@@ -7147,6 +7149,7 @@
 	* subdue --> subdued
 	+ subject --> subjection --> subjective
 	- subjugate
+	- **sublet** [n/v]轉租
 	- subliminal
 	- submerge [v]把……浸入水中/淹沒 = *inundate*, 完全掩藏 = *cover* = *obscure*
 	* submit --> submissive --> submission

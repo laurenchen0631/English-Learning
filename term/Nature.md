@@ -441,6 +441,7 @@
 - quinoa [n]藜麥
 - clover [n]紅花草/苜蓿
 - nutmeg [n]肉豆蔻, 肉豆蔻樹
+- celery [n]芹菜
 
 + [cereal](/ˈsɪərɪəl/) [n]穀類植物, 穀類食物/麥片
 + [kernel](/ˈkəːn(ə)l/) [n]仁, (麥、玉米等的)粒, 核心/要點
@@ -480,3 +481,4 @@
 - yam [n]山藥, 甘藷 = sweet potato
 - [taro](/ˈtɑːrəʊ/) [n]芋
 - sugarcane [n]甘蔗
+- cranberry [n]蔓越莓

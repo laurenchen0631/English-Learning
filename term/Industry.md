@@ -575,6 +575,13 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - peanut clusters [n]一種用花生跟巧克力做出的甜點
 - macaroon [n]馬卡龍
 - nougat [n]牛軋糖/奶油杏仁糖
+- hotpot [n]火鍋
+- Jello shot [n]果凍酒
+- couscous [n]古斯米/蒸粗麥粉(一種源自馬格里布柏柏爾人的食物。它由粗麵粉製造，形狀和顏色都像小米)
+- **egg roll** [n]春捲
+- anchovy [n]鯷魚
+- club soda [n]蘇打水(常與酒混合)
+- crab cake [n]螃蟹餅
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -742,6 +749,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - yearbook [n]年鑑/年報, 畢業紀念冊
 - prom [n]班級舞會 <-- promenade
 - B.A. == Bachelor of the Arts [n]文學士
+- CliffNotes [n]指美國學生學習用的學習導覽手冊
 
 ## Political
 - Attorney General [n]美國司法部長
@@ -1129,6 +1137,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - pump iron [n]舉重
 - bench press [n]臥推
 - petanque [n]法式滚球
+- pas de bourree [n] (芭蕾)細碎舞步
+- lay-up [n]上籃
 
 ## Fun/Entertainment
 - jackpot [n]累積獎金/頭獎
@@ -1153,6 +1163,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - roller coaster [n]雲霄飛車
 - pick-up sticks [n]挑筷子
 - boggle [n]一種拼字遊戲
+- pogo stick [n]彈跳桿
 
 ## Product/Tools
 - night cream [n]晚霜
@@ -1214,8 +1225,10 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Muppets [n]芝麻街兒童電視節目中的布偶
 - Pepperidge Farm [n]
 - Celica [n]豐田 Celica 是日本豐田汽車公司自1970年迄2006年生產製造、販售的轎跑車
-
-
+- gymboree [n]幼兒教育的一個品牌
+- Versace [n]凡賽斯，是義大利的時裝公司
+- Tootsie Roll [n]某種糖果的品牌
+  
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel
 - bordello 妓院 == brothel

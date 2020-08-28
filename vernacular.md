@@ -14,8 +14,10 @@
 - bed of roses [n]稱心如意的處境
 - beddy-byes [v]上床睡覺
 - bee's knees [n]出類拔萃的人或事物
+- best man [n]伴郎
 - better half [n]配偶
 - bits and pieces [n]七零八碎/零碎的工作
+- blind date [n]相親
 - brown-noser [n]馬屁精
 - building block [n]積木/構成要素
 - cash cow [n]搖錢樹
@@ -43,6 +45,7 @@
 - moral compass [n]道德羅盤
 - old hand [n]老手/專家
 - one-night stand [n]一夜情, 僅演一次的演出
+- paper route [n]送報
 - pipe dream [n]白日夢/空想
 - poster child [n]代表人物形象
 - red tape [n]繁文縟節
@@ -74,6 +77,7 @@
 - down/along the line [adv]將來/終將
 - in the blink of an eye [adv]一眨眼/瞬間
 - in years past [adv]很久以前
+- for the time being [adv]目前/暫時
 
 ## Subject
 - A be no more ... than B [v]A跟B都是不...的
@@ -150,13 +154,15 @@
 - off the cuff [adv]即席/無準備地
 - on your high horse [adv]自以為是/自命不凡
 - out of (one's) hair [adv]不再是..的負擔或責任
+- on a budget [adv]拮据
+- over budget [adv]預算超支
 
 ## Phrase
 - **(as) fit as a fiddle** [adj]非常健康
 - (be stuck) in a rut [v]墨守成規/一成不變
-- (down) in the dumps [adj]情緒低落/不高興
 - (the) chances are [phrase]很有可能
 - **be killing it** [v]做得好
+- **bite me** [phrase]少跟我來這一套
 - **high and dry** [v]給..帶來麻煩/使..陷入困境
 - **spot on** [phrase]確切的/準確的
 - that/it figures [phrase]意料之中
@@ -171,13 +177,14 @@
 - be between jobs [v]待業
 - be dead meat [v] (某人)有大麻煩
 - be dead set on doing sth [v]堅決要做…/一心要做…
-- be down in the mouth [v]神色沮喪/垂頭喪氣
+- be down in the mouth/dumps [v]神色沮喪/垂頭喪氣
 - be green with envy [v]十分妒忌/眼紅
 - **be in business** [v]準備就緒
 - be in its infancy [v]在初期/在早期
 - be in the same boat [v]處境相同/面臨同樣的困境
 - be in/on the cards [v]很可能發生
 - be like fish out of water [v]如魚離水
+- be my guest [phrase]請便
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
 - be nothing short of sth [v]正是/簡直就是/極其
 - be on the same page [v]達成共識
@@ -237,6 +244,7 @@
 - get (sth) off the ground [v] (使)開始/(使)成功進行
 - get a taste for sth [v]嘗試
 - get a word in edgeways [v]插嘴
+- get back at sb [v]報復
 - get caught up in [v]被捲入 = be involved in
 - get down to brass tacks [v]回到正題
 - **get foot in the door** [v]初步進入/邁出成功的第一步
@@ -270,6 +278,7 @@
 - have sb in the palm of one's hand [v]完全控制(某人)
 - have someone cold [v]To have one utterly under control, to the extent that their actions can be dictated.
 - have sth under one's belt [v]已經掌握…/已經獲得…
+- hedge [v] (爲避免損失)兩方下注/兩邊押寶
 - here to stay [adj]已被廣泛使用/已為大多數人所接受
 - hit a snag [v]遇上阻礙或困難
 - hit a wall [v]遭遇撞牆期/遭遇極點
@@ -334,6 +343,7 @@
 - **stick in the mud** [v]墨守成規
 - strike a pose [v]擺姿勢
 - **suck it up** [v]自認倒楣
+- **_take a drag_** [v]吸一口煙
 - take flight [v]逃走
 - **take sth with grain of salt** [v]對…半信半疑/對…有所懷疑
 - take the piss out of sb/sth [v]取笑
@@ -343,6 +353,7 @@
 - throw caution to the wind [v]不顧一切
 - tit for tat [v]以牙還牙
 - to what end [adv]為什麼 = What is the purpose of
+- turn sth/sb down [v]拒絕
 - up in the air [adj]懸而未決
 - when all is said and done [adv]說到底/終究
 - **whip it out** [phrase]秀一下

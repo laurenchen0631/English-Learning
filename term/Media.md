@@ -59,6 +59,7 @@
 	> 作為..的背景 |Lie behind or beyond; serve as a background to.| the rolling hills that backdropped our camp
 - Lord of the Flies 蒼蠅王，發表於1954年的寓言體長篇小說，小說講述了一群被困在荒島上的兒童在完全沒有成人的引導下如何建立起一個脆弱的文明體系。最終由於人類內心的黑暗面導致這個文明體系無可避免地被野蠻與暴力所代替
 - advance copy [n]預讀副本/預審複本，出版商贈送給書商，圖書管理員，新聞工作者，名人或其他人的新書的免費副本
+- The Flowers of Evil [n]惡之花(法國詩人夏爾·波德萊爾於1857年發表的詩集作品)
 
 - field guide [n]圖鑑，某一主題內各種相關的圖片集結起來並予以說明解釋的書籍
 
