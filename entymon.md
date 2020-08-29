@@ -4011,7 +4011,7 @@
 - insulin
 - pepsin [n]胃蛋白酶
 - penicillin [n]盤尼西林/青黴素
-- riboflavin [n]核黃素
+- **riboflavin** [n]核黃素(B2)
 - aspirin [n]阿斯匹靈
 
 ## insul, isol 島 = *isle*
@@ -4399,6 +4399,7 @@
 + eulogy, eulogium [n]頌詞/讚頌 = *encomium* = *panegyric* = *paean* = *hymn*, 悼詞/悼文
 - eulogize [v]稱讚/頌揚 = *laud* = *praise* = *extol* = *exalt*
 - eulogistic [adj]頌揚的/讚頌的 = *laudatory*
+- **gynecology** [n]婦科
 * logic [n]邏輯, 推理法, 道理
 + logical [adj]邏輯的, 合邏輯的/合理的, 當然的/必然的(行動或結果) = *expected*
 * logistic [adj]後勤的
@@ -5782,8 +5783,9 @@
 - [possess](/pəˈzɛs/) [v]擁有, 具有, 附身, 支配
 + post [n]柱/樁/竿, 球門柱, 起點竿/終點竿, 貼文/貼圖, 郵件, 郵遞, 報/郵報, 驛站郵差, **職位/工作**, **崗位**, 駐軍 [v]張貼, 在..張貼, 公開/發表, 發布(死訊), 達到(紀錄), 登入/填入, 用馬接力旅行, **分發**, 分派
 - poster [n]海報/廣告/布告, 貼文者 [v]張貼
-- **posterity** [n]後裔/子孫 = *progeny*
-* postpone [v]使延期/推遲 <-- post 後 = *after* + pone
+- **posterior** [adj]後面的/背部的, 以後的 [n]臀部/屁股
+- **posterity** [n]後裔/子孫 = **progeny**
+* postpone [v]使延期/推遲 <-- post 後 = after + pone
 * **postulate** [v]假設/假定 = *assume* = *presume* = *posit* [n]假定/假設, 基本條件要求
 * posture [n]姿勢, 立場態度, **姿態/裝腔作勢** = *pose* [v]裝模作樣/故作姿態 
 * posturing [n]故作姿態/裝腔作勢
@@ -7304,6 +7306,7 @@
 - constituency [n]選舉區的全體選民, 共同利益者
 - constitution [n]憲法/章程, 構成/組成 = *composition*, 構成 = *forming*, **體質/體格**, **性格** = *character*
 - **constitutional** [adj]憲法或章程允許的, 體質的/體格的 [n]保健散步/保健運動 <|> constitute
+- unconstitutional [adj]違憲的
 - contrast [n]對比 [v]對照/對比 = *compare*, 形成對比 = *differ*
 + **desist** [v]停止/中止 = *cease* = *abstain*
 + **destitute** [adj]一無所有的/一貧如洗的 = *impecunious* = *indigent* = *needy*, [of]缺乏..的 

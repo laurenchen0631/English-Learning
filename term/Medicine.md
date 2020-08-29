@@ -295,6 +295,7 @@
 - sickle cell disease == SCD [n]鐮刀型紅血球疾病，是一組通常由雙親遺傳而來的血液疾病
 - pus [n]膿
 - fugue state [n]一種心理創傷與解離症
+- brachydactyly [n]短指症(是一種常染色體顯性遺傳病。其主要症狀為手指、腳趾中的跖骨短小甚至消失)
 
 ## Psychology
 - brain imaging == neuroimaging [n]神經成像(泛指能夠直接或間接對神經系統的功能結構，進行成像的技術)
@@ -370,6 +371,7 @@
 - large intestine  == large bowel [n]大腸
 - [anus](/ˈeɪnəs/) [n]肛門
 - [colon](/ˈkəʊlən/) [n]結腸, 冒號
+- vas deferens [n]輸精管
 
 - umbilical cord [n]臍帶
 - womb [n]子宮 = uterus

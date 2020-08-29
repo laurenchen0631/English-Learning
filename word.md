@@ -710,6 +710,7 @@
 - burnout [n]燃料燒盡, 過熱, 精疲力竭
 - [burp](/bəːp/) [v]打嗝 = *hiccup*, 使…打嗝 [n]打嗝聲
 - **_barrow_** [n]手推車, 一推車, 墳/古墳
+- **burly** [adj]魁梧的
 - burrow [n]洞穴/地道 [v]挖地洞/挖通道, 藏起, 尋找/探索 = *investigate*
 - **_busybody_** [n]愛管閒事的人
 - but [conj]但是 [prep]除了 [adv]僅僅 **[n]反對**
@@ -1324,6 +1325,7 @@
 * diligent [adj]勤勞的/勤勉的 = *assiduous* = *industrious* = *sedulous*, 潛心的(研究)
 * diligence [n]勤勉/勤奮
 * dim [adj]暗淡的, 模糊的/朦朧的, 看不清楚的, 慘淡的 = *bleak*, [非]**頭腦遲鈍的** [v] (使)黯淡/模糊, 使減弱
+- dimmer [n]調光器
 * dimple [n]酒窩, 淺凹洞 [v]形成淺凹洞, 現笑靨
 * **dismal** [adj]悲傷絕望的/憂鬱的 = *gloomy*, [非]十分糟糕的 = *abject* = *deplorable*
 * doctor [n]醫生, 博士 [v]**_竄改/偽造_** = *falsify*, [非]治療, 結紮, 修理 = *repair*
@@ -1463,6 +1465,7 @@
 - drawl [v]慢吞吞地說 [n]慢吞吞拉長調子的說話方式
 - drawstring [n]帶/細繩
 - [dread](/drɛd/) [v]懼怕 [n]恐懼, 突然的成群飛起, [非]長髮綹/有長髮綹的人 = *dreadlocks* [adj]恐懼的 = *dreadful*
+- **dreamboat** [n]夢中情人
 - **dredge** [v]爲…清淤/疏浚, 搜索/打撈, 撒(麵粉或砂糖等) <|> **drudge** 
 - **drench** [v]使濕透 = *soak* = **douse**, 徹底覆蓋, 給(牲口)灌藥 [n]獸用藥水 <-- drink
 - dressing [n]沙拉醬, 烤雞用的填料 = *stuffing*, 包紮用品, 肥料
@@ -1633,6 +1636,7 @@
 - errand [n]差事/跑腿
 - escalade [n]攀登城壁用的梯子 <-- e + scale 梯子 = *ladder* + ade
 - escalator [n]自動樓梯/電扶梯
+- **escarpment** [n]懸崖/絕壁, 內壕
 - **[esophagus](/əˈsɑfəɡəs/)** [n]食管/食道
 - [espionage](/ˈɛspɪənɑːʒ/) [n]諜報活動
 - espy [v]看見 = *descry* <-- [法]間諜 = *spy*
@@ -1943,6 +1947,7 @@
 - floodgate [n]水閘門, 制約
 - floor [n]地板/地面, 底, 層 = *storey*, 議員席, 發言權 [v]在……鋪設地板, 把……打倒在地, 使困惑 = *baffle*
 - **flophouse** [n]廉價旅館
+- floopy [adj]困惑的/混亂的
 - floss [n]牙線, 繡花絨 [v]用牙線潔牙, 刻意引人注目
 - **flossing** [adj]愛現的/炫耀的
 - **flotsam** [mn]漂浮殘骸/漂浮貨物, 零碎雜物
@@ -3301,6 +3306,7 @@
 - march [n/v]行軍, 遊行示威, 進行 = *proceed* [n]進行曲 [v]走過
 - mare [n]母馬/母騾 = *horse* = *mule* = *donkey*, [天]海(指月球或火星及其他行星等表面的陰暗區)
 - **[margarine](/ˌmɑːdʒəˈriːn/)** [mn]人造黃油
+- margarita [n]瑪格麗特(一種雞尾酒)
 - **[marionette](/ˌmarɪəˈnɛt/)** [n]牽線木偶 = *puppet*
 - marina [n]小艇碼頭
 - **marinara** [n]義大利麵醬/大蒜番茄醬
@@ -4230,6 +4236,7 @@
 - **quaver** [n/v]顫抖 = *shake* = *tremble*
 - **quay** [n]碼頭 = *dock* = *wharf* = *pier*
 - queue [v]排隊, 非常想做/排隊做 [n]長隊, (想獲取某物的)許多人
+- [quiche](/kiːʃ/) [n]法式鹹派
 - quicken [v]加快, 激發, 使復活
 - **quickie** [n]一飲而盡的酒, 匆匆完成的性交 [adj]草率的/匆匆的
 - quill [n]翮/翮羽, 羽毛管, 羽毛筆 = *quill pen*, (刺蝟或豪豬的)刺, 筆管麵 = *penne*
@@ -4399,6 +4406,7 @@
 - resultant [adj]作為結果的 [n]合量/合力
 - **reverie** [n]白日夢/幻想 = *daydream*, 夢幻曲 <-- rave
 - **[rhapsody](/ˈrapsədi/)** [n]狂想曲, 史詩
+- **rheostat** [n]可變電阻器
 - rhinestone [n]萊茵石(一種假鑽石)
 - rhubarb [n]大黃, 激烈的爭論
 - rib [n]肋骨, 傘骨, **玩笑** [v]**戲弄/取笑**
@@ -4824,6 +4832,7 @@
 - sturgeon [n]鱘
 * sue [v]控告, 請求/要求 = *appeal*
 * suit [n]套裝/衣服, 一套, [非]公司高級管理人員, 同花色的一組紙牌, 訴訟 = *lawsuit*, 求婚, 懇求/請願 [v]對…方便, [oneself]順..的意, 相稱, 穿
+- suitor [n]追求者
 * swagger [v]大搖大擺地走/神氣活現 [n]大搖大擺的行走姿勢/趾高氣揚 = *strut*
 * swamp [n]沼澤 = *bog* = *marsh* [v]淹沒 = *flood*, 進水沉沒 = *founder*, 壓倒 = *inundate*
 * swear -> swore -> sworn [v]發誓, 發(誓), 宣誓, 發誓要, **咒罵/罵髒話** [n][非]髒話
@@ -4905,6 +4914,7 @@
 - sconce [n]壁式燈座/壁式燭台
 - **scooch** [v]擠一擠
 - scoop [n]勺/匙, 鏟斗/煤斗, 一勺/一匙, [非]獨家新聞, 最新消息 [v]用勺舀/用鏟子鏟, 拾起, 搶在(別家)之前報導新聞, 獲得/贏得 = *win*
+- **scoot** [v]疾走/疾馳
 - **scorch** [v]燒焦/烤焦, 被烤焦, (太陽)使枯萎, [非]非常快地移動 [n]燒焦/焦痕 = *charring* <-- torch 
 - score [n]分數, 得分, 成績, **非法獲益**, **情況/處境**, **二十**, 總譜, 配樂, 刻痕/凹痕 [v]得分, 給……打分, 得(分), 得手, **把……寫成總譜**, **配樂**, 刻痕於/做記號於, 劃掉
 - scorpion [n]蠍子
@@ -5067,6 +5077,7 @@
 - **sip** [v]小口喝/啜飲 [n]一小口 <|> **sop**
 - siphon, syphon [n]虹吸管, 虹管 [v]用虹吸管吸出, (非法)輸送
 - siren [n]汽笛/警報器, 塞壬, 妖婦, 鰻螈
+- sissy [n]膽小的男子 [adj]娘娘腔的/柔弱的
 - **sizable** [adj]相當大的/相當的
 - sizzle [v] (熱油)發嘶嘶聲, [非]發燙, **[非]興奮** [n]嘶嘶聲, [非]興奮
 - skeleton [n]骨骼/骨架, 骨瘦如柴的人, 殘骸, 框架/架構, 俯式冰橇
@@ -5192,6 +5203,7 @@
 - spade [n/v]鏟/鍬 [n]黑桃, [貶]黑人
 - span [n]長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 [v]橫跨, (時間)持續/跨越 [adj][spick and span]整潔的/乾淨的
 - spin -> spun -> spun [v]使旋轉, 擲(硬幣) = *toss*, 烘乾, 紡, 編造/虛構, [off]分拆(公司) [n]旋轉, 飛機盤旋下降, 兜風, 詮釋
+- spinster [n]**未婚女人/老處女**, 從事紡織的女子
 - **_spangle_** [n]閃爍發光之物, 光點 [v]用閃光飾物裝飾
 - **_spank_** [v]打/拍打(屁股) = **larrup** = *paddle*
 - **spandex** [n]彈性人造纖維
@@ -6163,6 +6175,7 @@
 - windswept [adj]暴露在風中的, 被風弄亂的
 - windowsill [n]窗臺
 - winery [n]釀酒廠
+- wingman [n]副機長/副手
 - wink [n/v]使眼色/眨眼, 閃耀/閃爍, **假裝不見/故意忽視**
 - **wintry** [adj]冬天的/冬天似的
 - **wisp** [n]小捆/小把, 纖弱的人
@@ -6281,6 +6294,7 @@
 + et cetera == [etc.](/ɛtˈsɛtərə/) [adv]等等
 
 ## Foreign
+- futon [n]蒲團/日式床墊
 - hibachi [n]木炭火盆
 - shiatsu [n]指壓按摩
 - bonsai [n]盆栽

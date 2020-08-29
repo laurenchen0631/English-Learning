@@ -582,6 +582,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - anchovy [n]鯷魚
 - club soda [n]蘇打水(常與酒混合)
 - crab cake [n]螃蟹餅
+- sangria [n]桑格利亞汽泡酒，是一種以紅酒加入梳打水、水果、糖漿、少量白蘭地和冰塊的飲品
+- margarita [n]瑪格麗特(一種雞尾酒)
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1179,6 +1181,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - leaf blower [n]吹葉機
 - scrap paper [n]已用過的寫便條用的廢紙
 - ninja star [n]手裡劍
+- bubble wrap [n]氣泡墊塑膠包裝材料/氣泡布
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -1228,6 +1231,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - gymboree [n]幼兒教育的一個品牌
 - Versace [n]凡賽斯，是義大利的時裝公司
 - Tootsie Roll [n]某種糖果的品牌
+- Bloomingdales [n]布魯明黛(一家高檔連鎖百貨公司，是梅西百貨的子公司)
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel

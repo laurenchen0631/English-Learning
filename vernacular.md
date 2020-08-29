@@ -32,6 +32,8 @@
 - fast track [n]快速成功之路/迅速晉升之道
 - feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
 - fall guy [n]代罪羔羊 = *scapegoat*
+- friend with benefits [n]可以上床的朋友
+- fuck buddy [n]砲友
 - full stop [n]句號
 - good call [n]正確的選擇/正確的決定
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
@@ -67,6 +69,7 @@
 - The squeaky wheel gets the grease [phrase]嘎吱響的輪子先上油/最明顯的問題先得到關注
 - There is no such thing as a free lunch [phrase]天下沒有白吃的午餐
 - When the going gets tough, the tough get going. [phrase]越艱困處境，越能歷練出強者
+- there are other fish in the sea [phrase]天涯何處無芳草
   
 ## Time
 - right off the bat [adv]立刻
@@ -100,6 +103,7 @@
 - and so on [adv]等等/諸如此類
 - as a rule [adv]通常/一般說來
 - as such [adv] (否定)大抵上, 本質上
+- (one's) ass off [adv]非常 = **very**
 - aside from [adv]除了...還有.../此外, 除了...
 - **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
@@ -396,6 +400,8 @@
 - capitalize on [v]利用…獲益/從…中獲利
 - cash in on [v]用...賺錢
 - **cave in** [v]讓步/屈服/妥協
+- chat up sb [v]與…搭訕/與…調情
+- cheat on sb [v]對(丈夫或妻子)不忠
 - chicken out [v]因害怕而退縮/放棄
 - clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
 - clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
@@ -465,8 +471,7 @@
 - hang on [v][非]稍等一會兒, 緊握/抓住
 - hang up [v]掛斷電話
 - help out [v]幫忙
-- hit on [v]與..調情, 突然想到/碰巧想出
-- hit on sb [v]與..調情
+- **hit on sb** [v]與..調情
 - **hit on/upon sth** [v]想出
 - hold back [v]退縮/猶豫
 - hold on [v]等一下, 設法存活, 緊握
@@ -489,6 +494,7 @@
 - land sb with sth [v]給予(困難)
 - lay off [v]解僱/解聘, 停下, 暫時停止
 - lay out [v]編排, 花(大錢), 解釋 = explain
+- lead sb on [v]誤導矇騙(某人)
 - lead to [v]導致
 - lead up to sth [v]為…作鋪墊/是…的先導, 緩慢過渡/慢慢引導
 - lean into [v]擁抱/接受, 推擠/擠入
@@ -611,6 +617,7 @@
 - stake sth out [v]監視, 表明(觀點或立場)
 - stand in [v]頂替/代替
 - stand out [v]顯眼, 出眾
+- stand sb up [v]放(某人)的鴿子
 - stare down [v]以目光鎮懾某人
 - start over [v]重新開始
 - stay off [v]遠離/避免/避開
