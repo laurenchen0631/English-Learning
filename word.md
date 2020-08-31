@@ -2052,7 +2052,7 @@
 - **furry** [adj]覆有毛皮的, 毛茸茸的 [n]獸控
 - **fusillade** [n]子彈齊射/連射
 - futuristic [adj]極其新潮的, 未來的, 未來主義的
-- **fuzz** [n]蓬鬆捲曲的毛髮 = *fluff*, 模糊, [非]警察 [v]使捲曲, 使模糊不清
+- **fuzz** [n]蓬鬆捲曲的毛髮 = *fluff*, 模糊, [非]警察 [v]使捲曲, 使模糊不清 <|> **fuss**
 - **fuzzy** [adj]毛茸茸的 = *furry*, 模糊不清的, 困惑的 = *confused*
 
 ## G
@@ -2230,7 +2230,7 @@
 - **_giggle_** [v]咯咯地笑 <|> **_gaggle_**
 - gimmick [n]吸引人的花招/噱頭
 - gimmickry [mn]花招/伎倆
-- **gin** [n]琴酒/杜松子酒, 軋棉機, 羅網/陷阱 [v]軋棉, 用陷阱捕捉, [up]創造/生成
+- **gin** [n]琴酒/杜松子酒, 軋棉機, **羅網/陷阱** [v]軋棉, 用陷阱捕捉, **[up]創造/生成**
 - ginger [n]薑, 薑汁汽水 = *ginger* ale, 薑黃色, 精力/活力 = *vigor* = *spirit* [adj]薑黃色的
 - giraffe [n]長頸鹿
 - girder [n]大梁
@@ -2453,7 +2453,7 @@
 * [hysterical](/hɪˈstɛrɪkəl/) [adj]歇斯底里的 = *uncontrollably* emotional, [非]極可笑的
 * hysteria [n]歇斯底里症, 過度興奮/不正常的興奮
 ***
-- **habilitate** [v]給……衣服穿, 取得任職資格(歐洲大學)
+- **_habilitate_** [v]給……衣服穿, 取得任職資格(歐洲大學)
 - hacktivist [n]信念駭客 <-- hack + activist
 - **[haggard](/ˈhaɡəd/)** [adj]憔悴的, (鷹)未馴服的/野性的 [n]野鷹
 - **haggle** [v]討價還價 = *bargain* = *dicker*
@@ -2478,7 +2478,7 @@
 - hang -> hung -> hung [v]懸掛/吊, [be hung with]裝飾, 貼(壁紙) = *paste*, 絞死/吊死, 停留/懸浮, 到來, [非]放鬆, 垂下, [on][非]稍等一會兒, [on]緊握/抓住, [out]分發, [out]經常出入/廝混 [up]掛斷電話 [n]彎下/垂下, 懸掛方式
 - hang-up [n]焦慮/煩惱
 - hangar [n]飛機庫
-- **[hangdog](/ˈhaŋdɒɡ/)** [adj]羞愧的 = *shamefaced* <|> **lapdog**
+- **_[hangdog](/ˈhaŋdɒɡ/)_** [adj]羞愧的 = *shamefaced* <|> **lapdog**
 - **hanger** [n]掛東西的人, 衣架 = *coat hanger* <|> **hangar** 
 - hanger-on [n]攀附權貴者/逢迎者
 - hangover [n]宿醉, 遺留物/過去留下的習俗或習慣 <|> holdover
@@ -2490,7 +2490,7 @@
 - harden [v]變硬, 變強硬, 變堅強/變明確, (價錢)居高不下
 - **hardheaded** [adj]商業上現實的 = *practical* <|> **foolhardy** <|> **headstrong**
 - hardwearing [adj]經穿的/耐磨的
-- **hard-wired** [adj]與生俱來的 = *innate* = *inborn*
+- **_hard-wired_** [adj]與生俱來的 = *innate* = *inborn*
 - hardy [adj]強壯的 = *robust* = *vigorous*, 耐寒的
 - **[hare](/hɛː/)** [n]野兔 [v]飛奔
 - **[harem](/ˈhɑːriːm/)** [n]閨房, 後宮/妻妾
@@ -2509,7 +2509,7 @@
 - havoc [n]大破壞/浩劫 = *ravages*, 混亂 = *disorder*
 - hawk [n]鷹/隼 = *falcon*, 鷹派人物 [v]放鷹行獵, (鷹)捕捉, **叫賣/兜售** = *peddle*, 大聲清嗓, [up]清痰
 - hawker [n]叫賣小販, 飼鷹者 = *falconer*
-- hawthorn [n]山楂樹
+- **hawthorn** [n]山楂樹
 - haze [n]霾/薄霧, 困惑 = *confusion* [v]使朦朧, **(對新成員)作弄/欺淩**, 在馬上趕(牛群)
 - hazy [adj]有薄霧的, 模糊的 = *vague*, 困惑的 = *confused* = *uncertain*
 - hazel [n]榛木, 淡褐色(尤指眼睛的顏色)
@@ -2695,7 +2695,7 @@
 * **inasmuch** [conj][as]因為
 * **insofar** [adv][as]到…的程度
 * inch [v]慢慢移動 [n]吋, 少許/一點兒 = *fig* = *grain*, [非]身高
-* **irenic** [adj]和平的
+* **[irenic](/ʌɪˈrɛnɪk/)** [adj]和平的
 * iterate [v]再次說/反覆做  <-- iter 再次 = *again* + ate
 ***
 - **[icicle](/ˈīˌsik(ə)l/)** [n]冰柱/冰錐 <-- ice 冰 + icle 小東西
@@ -2783,7 +2783,7 @@
 - jetsam [n]投棄的貨物/漂流到海岸的貨物 <-- jettison
 - jigsaw puzzle [n]拼圖
 - **jimmy** [v]用鐵撬撬開 [n]竊盜用的鐵撬
-- jingle [n]叮噹聲, 音韻鏗鏘的詩, (廣告)短歌/短曲 [v]發出叮噹聲
+- jingle [n]叮噹聲, 音韻鏗鏘的詩, **(廣告)短歌/短曲** [v]發出叮噹聲
 - **jitter** [n/v][非]緊張不安, (輕微無法控制的)移動/抖動
 - jittery [adj]緊張的 = *nervous*
 - jockstrap [n]護身三角繃帶
@@ -6320,6 +6320,7 @@
 - the status quo [n]現狀
 * pro bono [ADJ/ADV]公益
 + et cetera == [etc.](/ɛtˈsɛtərə/) [adv]等等
+- per annum [adv]每年 
 
 ## Foreign
 - futon [n]蒲團/日式床墊

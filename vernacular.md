@@ -1,18 +1,10 @@
 ## Noun
-- **card sharp** [n]耍老千的人/以詐術贏錢者
-- **chick flick** [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
-- **long shot** [n]希望不大的嘗試/機會渺茫
-- **muffin top** [n]肚腩肉
-- **pink slip** [n]解雇通知單
-- **red herring** [n]轉移注意力的事情, 燻青魚
-- **wet blanket** [n]掃興的人 = *party pooper*
-- **whack job** [n]怪人/腦子有問題的人
 - a bite (to eat) [n]一些食物
+- a drop in the bucket [n]微不足道/杯水車薪
 - a piece/slice of the action [n]分一杯羹
 - a roof over your head [n]住處/棲身之處
 - a slap in the face [n]一巴掌/一記耳光
 - bed of roses [n]稱心如意的處境
-- beddy-byes [v]上床睡覺
 - bee's knees [n]出類拔萃的人或事物
 - best man [n]伴郎
 - better half [n]配偶
@@ -20,11 +12,12 @@
 - blind date [n]相親
 - brown-noser [n]馬屁精
 - building block [n]積木/構成要素
+- **card sharp** [n]耍老千的人/以詐術贏錢者
+- **chick flick** [n]文藝愛情片(主要吸引女性觀眾的愛情電影)
 - cash cow [n]搖錢樹
 - cha-ching [n]錢
 - closed book [n]一無所知的學科/完全不懂的學科
 - con artist [n]騙子/行騙者 
-- crapweasel [n]人渣
 - diamond in the rough [n]一塊璞玉
 - dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
 - escape hatch [n]出路
@@ -37,32 +30,41 @@
 - full stop [n]句號
 - good call [n]正確的選擇/正確的決定
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
-- hot button [n]重要而敏感的問題
+- **hot button** [n]重要而敏感的問題
 - jack of all trades [n]萬事通/博而不精的人
 - knock-on effect [n]連鎖反應
 - icing on the cake [n]錦上添華
 - life in the fast lane [n]充滿刺激的生活
 - live wire [n]機靈鬼/精力充沛的人
+- **long shot** [n]希望不大的嘗試/機會渺茫
 - man of the Hour [n]知名人士
 - moral compass [n]道德羅盤
+- **muffin top** [n]肚腩肉
 - old hand [n]老手/專家
+- one another [n]其他每個人 = *each other*
 - one-night stand [n]一夜情, 僅演一次的演出
 - paper route [n]送報
 - pipe dream [n]白日夢/空想
+- **pink slip** [n]解雇通知單
 - poster child [n]代表人物形象
+- **red herring** [n]轉移注意力的事情, 燻青魚
 - red tape [n]繁文縟節
 - social butterfly [n]交際花
 - smoke and mirrors [n]謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
-- the cream of the crop [n]菁華/最好的部份
+- **the cream of the crop** [n]菁華/最好的部份
 - the cutting edge [n]發展前沿/領先位置/先鋒地位
 - **the ins and outs** [n]細節
 - the real deal [n]真正的能手, 真實/真實性
+- the whole kit and kaboodle/caboodle [n]全部/全體
 - weak link [n]薄弱的環節
+- **wet blanket** [n]掃興的人 = *party pooper*
+- **whack job** [n]怪人/腦子有問題的人
 - white lie [n]善意的謊言
 - vested interest [n]既得利益
 
 ## Apothegm
 - Cogito, ergo sum [phrase]我思故我在
+- beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
 - revenge is sweet [phrase]報仇雪恨，大快人心
 - revenge is a dish best served cold [phrase]君子報仇，十年不晚
 - The pot calling the kettle black [phrase]五十步笑百步/半斤八兩
@@ -72,15 +74,23 @@
 - there are other fish in the sea [phrase]天涯何處無芳草
   
 ## Time
-- right off the bat [adv]立刻
-- now and again [adv]有時
-- later on [adv]後來
-- **dog days** [n]三伏天/大熱天, 無所作為的時期/不活躍時期
 - at all times [adv]隨時/永遠
+- **dog days** [n]三伏天/大熱天, 無所作為的時期/不活躍時期
 - down/along the line [adv]將來/終將
+- for the time being [adv]目前/暫時
 - in the blink of an eye [adv]一眨眼/瞬間
 - in years past [adv]很久以前
-- for the time being [adv]目前/暫時
+- later on [adv]後來
+- more often than not [adv]往往/多半
+- never/not once [adv]從不
+- now and again [adv]有時
+- (every) now and then [adv]偶爾
+- on a day-to-day basis [adv]每天
+- on a regular basis [adv]經常
+- on and off [adv]時斷時續地/間歇地
+- on occasion [adv]有時/偶爾
+- (every) once in a while [adv]偶爾
+- right off the bat [adv]立刻
 
 ## Subject
 - A be no more ... than B [v]A跟B都是不...的
@@ -99,22 +109,26 @@
 - above all [adv]最重要的是
 - all but [adv]除了...都, 幾乎/差不多
 - all for naught [adv]徒勞 = in vain = all for nothing
+- **all told** [adv]總共
 - and so forth [adv]等等/諸如此類
 - and so on [adv]等等/諸如此類
 - as a rule [adv]通常/一般說來
+- as luck would have it [adv]碰巧/幸好
 - as such [adv] (否定)大抵上, 本質上
 - (one's) ass off [adv]非常 = **very**
 - aside from [adv]除了...還有.../此外, 除了...
 - **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
+- at large [adv]普遍地/全體地
 - behind one's back [adv]背著某人(說壞話)
+- behind the eight ball [adv]處於劣勢
 - **by and large** [adv]大體上/總體上
 - by design [adv]故意地/蓄意地
 - by way of [adv]當做/用作
 - either way [adv]不管哪一種/無論如何
 - every nook and cranny [adv]處處/到處
 - **for all intents and purposes** [adv]實際上 = in effect
-- for good measure [adv]另外/此外
+- **for good measure** [adv]另外/此外
 - for one [adv]對…來說
 - for the most part [adv]一般/通常
 - from the ground up [adv]從頭開始, 完全地
@@ -138,12 +152,22 @@
 - **might as well** [adv] (反正也沒有更好的辦法)要不就…
 - more or less [adv]主要/大體, 大約, 幾乎/差不多
 - next to nothing [adv]幾乎沒有
+- north of sth [adv]多出
+- of sorts [adv]勉強稱得上
+- off the cuff [adv]即席/無準備地
 - on board [adv]參與
 - on hand [adv]在跟前/在旁邊
 - on pins and needles [adv]如坐針氈
 - on the edge [adv]瀕臨/處於的邊緣
 - **on the grounds that** [adv]因為
 - on the top of that [adv]除此之外
+- on your high horse [adv]自以為是/自命不凡
+- on a budget [adv]拮据
+- **or so** [adv]大約
+- out in force [adv]成群行動/成群出現
+- out of (one's) hair [adv]不再是..的負擔或責任
+- over budget [adv]預算超支
+- over the top [adv]太過頭/太過分 = **OTT**
 - once in a blue moon [adv]少有地/很少發生
 - one way or another [adv]用某種方法/想方設法
 - out of bounds [adv]禁止入內, 在界外
@@ -153,13 +177,13 @@
 - **right and left** [adv]到處
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
-- with all due respect [adv]恕我直言
-- behind the eight ball [adv]處於劣勢
-- off the cuff [adv]即席/無準備地
-- on your high horse [adv]自以為是/自命不凡
-- out of (one's) hair [adv]不再是..的負擔或責任
-- on a budget [adv]拮据
-- over budget [adv]預算超支
+- to a fault [adv]過分地
+- to the point of sth [adv]達到..的程度
+- up to a point [adv]在一定程度上
+- upwards of [adv]至少
+- well over [adv]超過/多於 = *over* = *more than*
+- with a fine-tooth comb [adv]仔細地/徹底地
+- **with all due respect** [adv]恕我直言
 
 ## Phrase
 - **(as) fit as a fiddle** [adj]非常健康
@@ -186,9 +210,9 @@
 - **be in business** [v]準備就緒
 - be in its infancy [v]在初期/在早期
 - be in the same boat [v]處境相同/面臨同樣的困境
-- be in/on the cards [v]很可能發生
+- **be in/on the cards** [v]很可能發生
 - be like fish out of water [v]如魚離水
-- be my guest [phrase]請便
+- **be my guest** [phrase]請便
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
 - be nothing short of sth [v]正是/簡直就是/極其
 - be on the same page [v]達成共識
@@ -200,10 +224,10 @@
 - be/keep/stay one step ahead [v]比...準備得更好, 設法不被...逮到
 - be/stay/get ahead of the curve [v]占得先機
 - bear witness (to sth) [v]見證了/證明了
-- beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
+- beddy-byes [v]上床睡覺
 - between rock and a hard place [adj]進退兩難/左右為難
 - bide your time [v]靜候時機
-- blow/knock one's socks off [v]發現非常有趣/發現非常傑出
+- **blow/knock one's socks off** [v]發現非常有趣/發現非常傑出
 - breathe (new) life into sth [v]帶來起色/注入活力
 - **breathe down someone's neck** [v]緊跟(某人)
 - bring home the bacon [v]養家糊口
@@ -307,6 +331,7 @@
 - let bygones be bygones [v]過去的就讓它過去吧
 - let one's hair down [v]放開/放輕鬆
 - let the cat out of the bag [v]洩漏秘密
+- little to no [adj]少的/幾乎沒有的
 - live and let live [v]互相包容
 - **live off the land** [v]過養尊處優的生活
 - lose (one's) marbles [v]發瘋
@@ -353,6 +378,7 @@
 - take the piss out of sb/sth [v]取笑
 - tear sth to pieces/shreds [v]嚴厲批評, 輕易摧毀
 - the big cheese [n]重要或權威的人
+- the bottom fall out of sth [v]..的價值跌落谷底
 - there’s no love lost between them [phrase]憎恨/仇視彼此
 - throw caution to the wind [v]不顧一切
 - tit for tat [v]以牙還牙
@@ -382,6 +408,12 @@
 - (be) washed out [adj]洗得褪色的, 極為疲憊的/筋疲力盡的
 - (be) weighed down by/with sth [v]扛/肩負, 擔憂
 - (be) wild for/about sth 對…非常狂熱
+- a measure of [adj]大量
+- a raft of [adj]大量
+- a battery of [adj]一些
+- amounts of [adj]大量
+- an amount of [adj]一些
+- the amount of sth [n]數量
 - **add up** [v]說得通/合情合理
 - **tick off sb** [v]使生氣
 - act out [v]實踐/實行, 發洩, 把...表演出來
