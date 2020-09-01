@@ -584,6 +584,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - crab cake [n]螃蟹餅
 - sangria [n]桑格利亞汽泡酒，是一種以紅酒加入梳打水、水果、糖漿、少量白蘭地和冰塊的飲品
 - margarita [n]瑪格麗特(一種雞尾酒)
+- gravy [n]肉汁
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -752,6 +753,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - prom [n]班級舞會 <-- promenade
 - B.A. == Bachelor of the Arts [n]文學士
 - CliffNotes [n]指美國學生學習用的學習導覽手冊
+- boy scout [n]童子軍
 
 ## Political
 - Attorney General [n]美國司法部長
@@ -1232,6 +1234,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Versace [n]凡賽斯，是義大利的時裝公司
 - Tootsie Roll [n]某種糖果的品牌
 - Bloomingdales [n]布魯明黛(一家高檔連鎖百貨公司，是梅西百貨的子公司)
+- Lycra [n]氨綸(俗稱萊卡，是一種彈力纖維)
+- 
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel

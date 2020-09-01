@@ -4718,6 +4718,7 @@
 - emanate [v]發出/散發, 源自
 * emancipate [v]解放 = *liberate* <|> emaciate
 * emancipation [n]解放
++ **manacle** [n]手銬/腳鐐 [v]給……上鐐銬/約束
 + manage [v]設法, 管理/控制
 + manageable [adj]易於管理的/順從的 = *tractable* = *obedient* = *docile*
 - manuscript [n]手稿

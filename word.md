@@ -701,6 +701,7 @@
 - bunk [n]架式床舖, [非]胡説/瞎話 = *nonsense* [v]睡在架式床舖上
 - bunker [n]燃料儲存槽, 地堡
 - **[bumptious](/ˈbʌm(p)ʃəs/)** [adj]傲慢的/自以為是的 = *arrogant* = *brash* = *self-assertive*
+- **bungalow** [n]平房/小屋
 - bungle [v]弄糟/把...搞砸 = *botch* = *bumble* = *blunder* = *muddle* [n]混亂 <|> jungle
 - bungling [mn]搞砸 [adj]笨拙的/拙劣的 = *bumbling*
 - bureau [n] (政府機構的)局/司/署/處, 辦事處/辦公室/聯絡處
@@ -1154,6 +1155,7 @@
 - comedienne [n]女丑角/女喜劇演員
 - confetti [n]五彩紙屑
 - conifer [n]針葉樹 <|> confer <-- cone
+- **conk** [v]打…之頭部, 昏過去/昏倒 = *faint* = *pass out*, 死 = *decease*, 停止 = *stall* [n]鼻 = *nose*
 - **constabulary** [n] [英]警察 [adj]警官的/警察的
 - consul [n]領事 
 - consulate [n]領事館, 領事職/領事任期 
@@ -2234,6 +2236,7 @@
 - ginger [n]薑, 薑汁汽水 = *ginger* ale, 薑黃色, 精力/活力 = *vigor* = *spirit* [adj]薑黃色的
 - giraffe [n]長頸鹿
 - girder [n]大梁
+- girly, girlie [adj]女孩子氣的, **色情的/以裸體女郎照片為特色的** [n]少女
 - girth [n]腰圍, 周長 = *circumference*
 - giveaway [n]隨贈品, 洩露 [adj]免費贈送的, 低價的/便宜的, **不慎洩漏的**
 - **glade** [n]林中空地
@@ -2296,6 +2299,7 @@
 - **grasping** [adj]貪婪的 = *greedy* = *avaricious*
 - grassroots [n]基層, 基層群眾
 - gravel [n]砂礫/碎石, 砂礫層, [醫]尿砂 [v]用碎石鋪, **使氣惱**
+- **gravy** [n]肉汁, 意外之財
 - **graze** [v]吃草 = *browse*, [非]吃零食, [非]隨意檢查, 弄破 = *scrape*, 擦過/略過 [n]擦傷  <-- grass
 - great [adj]大的, 宏偉的, [非]優秀的, [at]熟練的/精通的, 非常的, 重要的 [n]偉人 [adv]優秀地
 - greenhorn [n]生手 = *rookie*
@@ -3899,6 +3903,7 @@
 * penetrating [adj]有穿透力的, 刺耳的, 敏銳的/犀利的
 * penetrable [adj]可穿透的 = *permeable* = *pervious* = *porous*, 能理解的 = *understandable*
 * pep [n][非]活力/精力/生氣 = *vim* [v][非][up]使精力充沛/使充滿活力
+- peppiness [n]活力/精力 = *pep*
 * per [prep]每/每一, [as per]按照/根據 = *by means of*
 * peril [n]危險 = *jeopardy* = *hazard* 
 * perilous [adj]充滿危險的/非常危險的
@@ -4026,6 +4031,7 @@
 - pecan [n]山核桃
 - peck [v]啄食/清啄, 鑿/琢, 匆匆一吻, [非]小口小口吃 [n]啄, 匆匆一吻, 配克(穀物等的英美乾量單位)
 - **peckish** [adj]飢餓的, 易怒的
+- **pecs** [n]胸肌
 - peel [v]削皮/去皮, [away/off]除去/脫去, 剝落 [n]外皮, 去角質
 - peep [v]窺/偷看, 隱約顯現/緩緩出現, 吱吱叫 [n]偷看, 一瞥, 吱吱聲/啾啾聲, 嘟嘟聲, 一群(雞) <|> seep <|> weep
 - peg [n]釘/栓/樁, 酒桶塞, 機車腳踏板, 等/級, 標定點, 腳, 強力投球/釘子球 [v]用木釘釘牢, 用夾子夾住, 用木樁標出, 投, 固定/限定, 歸類, **孜孜不倦地做某事**, **[have someone pegged]瞭解(某人)**
@@ -4133,6 +4139,7 @@
 - Popsicle [n][商標]冰棒 = *ice* lolly = *pop*
 - **poppy** [n]罌粟
 - **poppycock** [n]胡說
+- poofy [n]蓬鬆的(頭髮) = **bouffant**
 - **[poop](/puːp/)** [n]艉/船尾, 排泄物/糞便 = *excrement*, **最新或內幕情報**, 傻瓜 [v]沖擊船尾, **使筋疲力盡** = *exhaust*, 排泄 = *defecate*
 - party-pooper [n]掃興的人
 - **porcelain** [n]瓷/瓷器
@@ -4876,6 +4883,7 @@
 - saddle [n]馬鞍, (自行車或摩托車)車座, 鞍狀山脊, 浮橋或電線杆上的托樑, 帶脊骨的腰肉 [v]給(馬)裝鞍, [be saddled with]使負擔
 - safeguard [n]防範措施 [v][from]保護/防衛
 - [saga](/ˈsɑːɡə/) [n]傳說/英雄事跡, 冒險故系列事件/一長串事件事
+- saggy [adj]鬆懈的/下垂的
 - said [adj]上述的 = *mentioned*
 - saint [n]聖徒, 道德崇高的人 [v]將……封為聖徒 = *canonize*
 - saintly [adj]聖潔的/聖人般的, 聖徒的
@@ -4933,6 +4941,7 @@
 - school [n]學校, 全校學生/全校師生, [非]大學, 學院/系, **學派/流派**, (水族)一群 [mn]上課 [v]教育/訓練, 成群
 - **[schmaltz](/ʃmɔːlts/)** [mn][非]過分傷感
 - **[schmooze](/ʃmuːz/ )** [n/v]閒談/閒聊
+- sciatica [adj]坐骨的/坐骨神經的
 - **scion** [n]嫩芽, 豪門望族的後裔/富家子弟
 - sconce [n]壁式燈座/壁式燭台
 - **scooch** [v]擠一擠
@@ -5409,6 +5418,7 @@
 - **[svelte](/svɛlt/)** [adj]苗條的 = slender
 - **swaddle** [v]把(嬰兒)用布包住
 - swallow [v]吞下/嚥下, 忍受, 輕信, 抑制, 捲入/吞沒 = *engulf*, 耗盡/用盡 [n]吞/嚥, 一口, 燕子 <|> wallow
+- swank [adj]華麗的 [n]華麗/時髦 [v]炫耀/出風頭
 - **swash** [v]潑/濺 [n]奔流
 - **swath**, **swathe** [n]狹長的事物, 收割帶狀地, 收割的寬度/划幅
 - sway [v]搖擺/擺動, 說服/使動搖, 統治 [mn]搖動/搖擺, 控制/統治
@@ -5976,6 +5986,7 @@
 - veer [v]轉向, 改變(立場), (風)向順時針轉 [n]轉向
 - vegan [n]嚴格素食主義者 [adj]純素的
 - **veggie** [n][非]蔬菜 [adj][非]蔬菜做成的
+- velveteen [n]棉製天鵝絨
 - velocity [n]速度
 - velociraptor [n]迅猛龍
 - **_vellum_** [n]羊皮紙
@@ -6127,6 +6138,7 @@
 - warmonger [n]好戰者/戰爭販子 <-- war + monger
 - warp [v]使變形/使彎曲, 使扭曲, 靠絞船索移動, (編織)經編, **使..自然覆蓋沖積土壤** [n]變形, 曲解/異常, 絞船索/拖船索, (編織)經線, 曲速
 - **warren** [n]野兔洞穴 = *rabbit warren*, 擁擠且易使人迷路的建築物
+- washboard [n]洗衣板, 船支防波板
 - washout [n]沖失的地區/侵蝕部分, 沖刷, **失敗者**
 - waterfowl [n]水鳥/水禽
 - watershed [n]分水嶺, 轉折點/分水嶺

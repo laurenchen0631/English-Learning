@@ -304,7 +304,6 @@
 	> |Decorate (a surface) with a repeating geometrical or floral pattern.|
 - denim [n]牛仔布 == A hard-wearing cotton twill fabric, typically blue and used for jeans and other clothing.
 - linen [n]亞麻布, 亞麻布製品
-- Lycra 氨綸，俗稱萊卡，是一種彈力纖維
 - spandex 氨綸 == Lycra == A type of stretchy polyurethane fabric.
 - [onesie](/ˈwʌnzi/) 連身衣
 - pacifier 奶嘴

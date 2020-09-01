@@ -1,4 +1,5 @@
 ## Noun
+- a big draw [n]吸引人的事物
 - a bite (to eat) [n]一些食物
 - a drop in the bucket [n]微不足道/杯水車薪
 - a piece/slice of the action [n]分一杯羹
@@ -41,6 +42,7 @@
 - moral compass [n]道德羅盤
 - **muffin top** [n]肚腩肉
 - old hand [n]老手/專家
+- **old wives' tale** [n]無稽之談
 - one another [n]其他每個人 = *each other*
 - one-night stand [n]一夜情, 僅演一次的演出
 - paper route [n]送報
@@ -258,6 +260,7 @@
 - **die hard** [v]不易改掉/不容易戒掉
 - don't bet on it [v]不大可能
 - don't dip your pen in the company ink [v]兔子不吃窩邊草(不要跟同事有性關係)
+- don’t sweat it [v]不必擔心
 - double back [v]回頭/原路往回
 - **down the drain** [v]付諸東流/打水漂
 - err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
@@ -277,6 +280,7 @@
 - get down to brass tacks [v]回到正題
 - **get foot in the door** [v]初步進入/邁出成功的第一步
 - get in shape [v]保持身材
+- get on one's nerves [v]使(某人)心煩
 - get/put one's own house in order [v]解決自己的問題
 - get the monkey off one's back [v]戰勝困難/解決問題
 - get the sack [v]被開除
@@ -336,6 +340,8 @@
 - **live off the land** [v]過養尊處優的生活
 - lose (one's) marbles [v]發瘋
 - lose sleep over/about sth [v]擔心
+- make a beeline for sth [v]直奔
+- make a big thing/deal (out) of sth [v]把…看得過於重要/對…小題大做
 - make a day of it [v]開心
 - make a move/pass on someone [v]調戲某人
 - **make ends meet** [v]收支平衡
@@ -347,10 +353,12 @@
 - off you go [phrase]好了，你可以走(做)了
 - out of one's league [adj]配不上
 - **paint the town red** [v]尋歡作樂
+- pick a lane [v]做出選擇/堅持到底
 - pick up the tab [v]付帳
 - play hardball (with sb) [v]採取強硬方式
 - pop someone's cherry [v]失去第一次/奪走人家第一次
 - **pull one's leg** [v]開玩笑
+- pull oneself together [v]振作起來
 - put a sock in it [phrase]別出聲/住嘴
 - put one's hands on sth [v]弄到手/得到, 抓住
 - put the cat among the pigeons [v]造成軒然大波
@@ -384,6 +392,7 @@
 - tit for tat [v]以牙還牙
 - to what end [adv]為什麼 = What is the purpose of
 - turn sth/sb down [v]拒絕
+- turn (sth) over in one's mind [v]思考/認真考慮
 - up in the air [adj]懸而未決
 - when all is said and done [adv]說到底/終究
 - **whip it out** [phrase]秀一下
@@ -602,6 +611,7 @@
 - scrape by/along [v]勉強維持生計
 - scrape sth back [v]整理(頭髮) 
 - scrape sth together/up [v]蒐集
+- screw it [excl]他媽的(表達憤怒)
 - screw sth around/round [v]轉頭/轉身
 - screw sth out of [v]逼...交出/向...勒索
 - scrub away [v]徹底清洗
@@ -626,6 +636,7 @@
 - shrug sth off [v]不重視/忽視
 - shut out [v]把..擋在門外
 - shy away from sth [v]退縮/躲避
+- sick of sth [v]對..感到厭煩
 - side with sb [v]支持(某人或某方)/站在(某人)一邊
 - sign off (on sth) [v]正式認可
 - **size up sth** [v]打量
