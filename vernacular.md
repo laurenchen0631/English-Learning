@@ -40,12 +40,14 @@
 - **long shot** [n]希望不大的嘗試/機會渺茫
 - man of the Hour [n]知名人士
 - moral compass [n]道德羅盤
+- morning sickness [n]害喜
 - **muffin top** [n]肚腩肉
 - old hand [n]老手/專家
 - **old wives' tale** [n]無稽之談
 - one another [n]其他每個人 = *each other*
 - one-night stand [n]一夜情, 僅演一次的演出
 - paper route [n]送報
+- **pet peeve** [n]最討厭的事/痛處
 - pipe dream [n]白日夢/空想
 - **pink slip** [n]解雇通知單
 - poster child [n]代表人物形象
@@ -67,6 +69,7 @@
 ## Apothegm
 - Cogito, ergo sum [phrase]我思故我在
 - beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
+- Like father, like son. [phrase]有其父必有其子
 - revenge is sweet [phrase]報仇雪恨，大快人心
 - revenge is a dish best served cold [phrase]君子報仇，十年不晚
 - The pot calling the kettle black [phrase]五十步笑百步/半斤八兩
@@ -317,6 +320,7 @@
 - **hit into one's stride** [v]逐漸進入狀態/開始上軌道
 - hit the road [v]離開/出發
 - How are you bearing up? [phrase]過得如何
+- **I am beat** [phrase]累斃了
 - I rest my case [phrase]陳述完畢
 - I snapped [phrase]忍不住 == People say "I snapped" after they released their anger. For example, if someone yells at you because they are mad, afterwards they will say "I snapped"
 - I'll flash you [v]To show someone their naked body.
@@ -353,6 +357,7 @@
 - off you go [phrase]好了，你可以走(做)了
 - out of one's league [adj]配不上
 - **paint the town red** [v]尋歡作樂
+- **pay the piper** [v]付出代價
 - pick a lane [v]做出選擇/堅持到底
 - pick up the tab [v]付帳
 - play hardball (with sb) [v]採取強硬方式
@@ -455,6 +460,7 @@
 - come off [v]取得預期的效果/成功
 - come off sth [v]剛剛度過(非常成功或困難的時期), 停用(藥物)
 - come out of sth [v]從…中產生
+- **cough up** [v]不情願地掏腰包/勉強給錢
 - **crack (sb) up** [v]捧腹大笑/(使某人)哈哈大笑
 - **crack down** [v]著手處理
 - crash on someone [v]愛上
@@ -533,6 +539,7 @@
 - knuckle down [v]開始認真
 - land sb in sth [v]使陷於(困境)
 - land sb with sth [v]給予(困難)
+- lay into sb [v]痛打(某人)/斥責(某人)
 - lay off [v]解僱/解聘, 停下, 暫時停止
 - lay out [v]編排, 花(大錢), 解釋 = explain
 - lead sb on [v]誤導矇騙(某人)

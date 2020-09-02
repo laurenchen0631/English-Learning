@@ -585,6 +585,12 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - sangria [n]桑格利亞汽泡酒，是一種以紅酒加入梳打水、水果、糖漿、少量白蘭地和冰塊的飲品
 - margarita [n]瑪格麗特(一種雞尾酒)
 - gravy [n]肉汁
+- tortilla [n]墨西哥玉米粉薄烙餅
+- tortilla chips [n]墨西哥玉米片
+- baguette [n]法式長條麵包
+- marmalade [n]橘子果醬
+- wiener, wienerwurst [n]維也納香腸
+- daiquiri [n]代基里雞尾酒(用朗姆酒、糖、檸檬汁調製)
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1143,6 +1149,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - petanque [n]法式滚球
 - pas de bourree [n] (芭蕾)細碎舞步
 - lay-up [n]上籃
+- goalie [n]守門員
 
 ## Fun/Entertainment
 - jackpot [n]累積獎金/頭獎
@@ -1168,6 +1175,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - pick-up sticks [n]挑筷子
 - boggle [n]一種拼字遊戲
 - pogo stick [n]彈跳桿
+- dreidel [n]光明節陀螺
 
 ## Product/Tools
 - night cream [n]晚霜
@@ -1184,6 +1192,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - scrap paper [n]已用過的寫便條用的廢紙
 - ninja star [n]手裡劍
 - bubble wrap [n]氣泡墊塑膠包裝材料/氣泡布
+- transponder [n]發射器/應答器
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 

@@ -2268,6 +2268,7 @@
 	+ eliminate --> elimination
 	- elite
 	- **elocution**
+	- **elope** [v]私奔
 	+ elucidate
 	+ elude --> elusion -> elusive
 	* emancipate

@@ -499,6 +499,6 @@
 	- Buenos Aires 布宜諾斯艾利斯，是阿根廷的首都和最大城市
 - Ecuador [n]厄瓜多
 	- the Galapagos Islands [n]科隆群島/加拉巴哥群島，為厄瓜多領土，屬火山群島
-
+- Chile [n]智利 --> Chilean [adj]智利的 [n]智利人
 <!-- (\w*)\s(/\S+/)  |  [$1]($2) -->
  

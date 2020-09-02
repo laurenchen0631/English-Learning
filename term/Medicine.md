@@ -332,6 +332,8 @@
 - [sphincter](/ˈsfɪŋktə/) [n](肛門)括約肌
 - knee-jerk [n]膝躍反射
 - Adam's apple [n]喉結
+- erogenous zone [n]性感帶
+- tonsil [n]扁桃腺
 
 - viscera [n]內臟 
 - visceral [adj]內臟的, 出自內心深處的
@@ -372,6 +374,8 @@
 - [anus](/ˈeɪnəs/) [n]肛門
 - [colon](/ˈkəʊlən/) [n]結腸, 冒號
 - vas deferens [n]輸精管
+- endometrium [n]子宮內膜
+- endometrial [adj]子宮內膜的
 
 - umbilical cord [n]臍帶
 - womb [n]子宮 = uterus

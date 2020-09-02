@@ -993,6 +993,7 @@
 - caramelize [v]使成焦糖
 - **carat** [n]開(金子的純度單位) = *karat*, 克拉
 - **caret** [n]脫字符號
+- **carbuncle** [n]紅玉, [醫]癰/紅斑
 - **_caravan_** [n]車隊, 露營拖車
 - carcinoma [n]癌/上皮細胞所產生的惡性腫瘤 
 - cardboard [n]硬紙板 [adj]**不真實的/不自然的**
@@ -1091,6 +1092,7 @@
 - **_[chutzpah](/ˈhʊtspə/)_** [mn]膽量/厚臉皮
 - cicatrix [n]瘢痕(傷口癒合的痕跡), 葉痕
 - cider, cyder [n]蘋果汁/蘋果酒
+- cilantro [n]芫荽葉/香菜
 - **_cinch_** [n]肚帶, 簡單的事情/有把握的事情 [v]繫肚帶, 弄清楚
 - cinder [n]煤渣/炭渣, 餘燼 = *ashes* [mn]爐渣/溶渣 = *slag*
 - cipher, cypher [n]密碼/密碼文件, 零 = *zero* = *nil*, 無影響力之人/無名小卒 = *nonentity*, 花押字 = *monogram* [v]編碼 = *encode*
@@ -1309,7 +1311,7 @@
 + dross [n]浮渣, 渣滓/廢物 = *rubbish* <-- dregs
 + due [adj]預期在...發生/計畫在..發生, 應支付的 = *mature*, 到期的 = *owing* = *owed* = *mature*, 應得的, 合適的 = *rightful* = *proper* = *fitting*, [to]因為/由於 [n]應得權益, 應付款 = *fee* [adv]正 = *directly* <--> undue
 + duly [adv]**適當地**, **按時地/如期地**
-+ dupe [v]欺騙 = *deceive* = *delude* = *cozen* = *trick* = *hoodwink* = *hoax* [n]受騙者 [n/v][非](照片)複製 = *dupliicate*
++ dupe [v]欺騙 = *deceive* = *delude* = *cozen* = *trick* = *hoodwink* = *hoax* [n]受騙者 [n/v][非] (照片)複製 = *dupliicate*
 + dumbfound [v]使震驚
 + dumbfounded [adj]震驚的
 + dwarf [n]侏儒 [adj]極小的 [v]使…顯得矮小
@@ -1818,6 +1820,7 @@
 * foamy [adj]泡沫的/起泡沫的 = *frothy*
 * [foil](/fɔɪl/) [n]陪襯物/陪襯者, 箔/金屬薄片, 鈍頭劍/花劍 [v]**阻止** = *frustrate* = *balk*, [for]*8*
 * fond [adj][of]喜愛, 快樂美好的/深情的 = *affectionate*, **天真的** = *naive* 
+- fondle [v]愛撫/撫弄 = **caress**
 * fondness [mn]喜愛 = *affinity*
 * franchise [n]投票權 = *suffrage*, 公民權, 特許經銷權, 版權 [v]給予特權或經銷權
 * frank [adj]坦率的/坦誠的 = *candid* = *straightforward* = *sincere* = *explicit* = *guileless* [v]**在...上蓋戳** [n]法蘭克福香腸 = *frankfurter*
@@ -2274,6 +2277,7 @@
 - **[gnarl](/nɑːl/)** [n]樹木的節/瘤 <|> snarl
 - gnarled [adj]多瘤的/多節的
 - go-getter [n]積極能幹的人/野心家
+- goalie [n]守門員
 - goatee [n]山羊鬍子 = *goatee beard*
 - **_goober_** [n]花生, 笨蛋
 - **goody** [n]好吃的東西/吸引人的東西
@@ -2785,6 +2789,7 @@
 - jerk [n]突然猛拉, 抽搐/痙攣 = *spasm*, [非]蠢人 [v]猛然地一拉或一推, **把(肉)切成長條曬乾**, 醃漬後烘烤 
 - jerky [adj]忽動忽停的, **[非]愚蠢的**, 痙攣的 = *spasmodic* [n]**條狀肉乾**
 - jetsam [n]投棄的貨物/漂流到海岸的貨物 <-- jettison
+- **jiggle** [n/v]輕搖
 - jigsaw puzzle [n]拼圖
 - **jimmy** [v]用鐵撬撬開 [n]竊盜用的鐵撬
 - jingle [n]叮噹聲, 音韻鏗鏘的詩, **(廣告)短歌/短曲** [v]發出叮噹聲
@@ -2917,7 +2922,7 @@
 - lubricant [n]潤滑劑
 + [lucre](/ˈluːkə/) [n][貶]金錢/利潤 = *money* = *profits*
 + [lucrative](/ˈluːkrətɪv/) [adj]賺大錢的 = *profitable* = *remunerative*
-+ **_[lugubrious](/lʊˈɡuːbrɪəs/)_** [adj]憂傷的 = *lachrymose* = *mournful* = *plaintive* <-- lugubri 悲傷 = *mourn* + ous
++ **_[lugubrious](/lʊˈɡuːbrɪəs/)_** [adj]憂傷的 = *lachrymose* = *mournful* = *plaintive*
 + [lull](/lʌl/) [v]使入睡/使平靜, 使放鬆警惕/哄騙, 安靜下來 [n]暫時平息/暫時平靜 <|> [low](/ləʊ/)
 + lumber [v]笨重地移動/蹣跚而行/笨拙地走 = *lurch*, 採伐 [n]木材 = *lignum*
 + lumbering [adj]緩慢沉重的(移動) [mn]伐木
@@ -3001,7 +3006,7 @@
 - lane [n]小路, 跑道/泳道/航路/車道/線道
 - **lank** [adj]瘦的/瘦長的(人) = *lanky*, (頭髮)長而柔軟的
 - lanky -> lankier -> lankiest [adj]瘦高的/細長的(人)
-- **lapdog** [n]供玩賞用的小狗, 走狗/趨炎附勢的人
+- **lapdog** [n]供玩賞用的小狗, 走狗/趨炎附勢的人 <|> **hangdog**
 - **larch** [n]落葉松
 - lard [mn]豬油, [非]人身上的肥油 [v]將(培根)嵌於(料理), 塗豬油於..以利保存, **潤色/點綴** = *embellish*
 - larder [n]食品室
@@ -3012,7 +3017,7 @@
 - lasso [n]套索 [v]用套索套捕
 - **latch** [n]閂/門閂 [v]閂上 = *bolt*, **[on to]理解**
 - **lath** [n]木板條/條板
-- **_lather_** [n]肥皂泡沫, (馬)汗沫, 焦慮 = **fret** [v]起泡沫, 冒汗沫, 痛打/毒打
+- **_lather_** [n]肥皂泡沫, (馬)汗沫, 焦慮 = **fret** [v]起泡沫, 冒汗沫, **痛打/毒打**
 - **[latrine](/ləˈtriːn/)** [n]廁所
 - lattice [n]格子/格子窗, [物]晶格, 冒出汗沫
 - **launder** [n]洗熨 = *wash and iron*, 洗錢, 竄改(資訊) [n]洗礦槽
@@ -3328,12 +3333,13 @@
 - marina [n]小艇碼頭
 - **marinara** [n]義大利麵醬/大蒜番茄醬
 - marital [adj]婚姻的 <-- marry
-- **[marijuana](/ˌmarɪˈhwɑːnə/)** (mn)大麻
+- **[marijuana](/ˌmarɪˈhwɑːnə/)** [mn]大麻
 - market [v]推銷/行銷, 供應, 購物 [n]市集, 市場, 需求
 - marketable [adj]有市場的, 暢銷的
 - marketplace [n]市場/集市 = *bazaar*, 商業界
 - **markup** [n][on]漲價/加價幅度, 影印校訂 <|> makeup
 - markhor [n]捻角山羊
+- marmalade [n]橘子果醬
 - maroon [n]栗子 [adj]栗子的/栗子色的 <|> moron
 - marrow [n]葫蘆 = *gourd*, 骨髓 = *bone* marrow, **精華/經髓**, **朋友/夥伴**, 成對的東西 = *counterpart* = *twin*
 - marry [v]娶/嫁, 成婚, [into]嫁入/入贅, 把..嫁出, **融合/結合** <|> merry
@@ -3347,7 +3353,7 @@
 - masonry [n]石工技藝/石造建築
 - **masquerade** [n]化裝舞會, 偽裝/化裝 [v]偽裝/冒充 <-- masque 面具 = *mask* + rade
 - **masseuse** [n]女按摩師
-- **massif** [n]山巒 <|> **matif** <|> **mastiff**
+- **massif** [n]山巒 <|> **motif** <|> **mastiff**
 - mast [n]船桅/旗桿, 天線杆, 飼料堅果, 泡 = *brew* = *mash*
 - **mastiff** [n]獒犬
 - **_[maestro](/ˈmʌɪstrəʊ/)_** -> maestri/maestros [n]大音樂家/名指揮家, 大師/名家
@@ -3399,13 +3405,13 @@
 - metallic [adj]金屬的, 金屬似的(聲音), 有磁性的(聲音), 有金屬光澤的 = *iridescent*
 - methane [n]甲烷/沼氣
 - miasma [n]瘴氣/臭氣, 不良氣氛
-- **_miff_** [v][非]使惱怒 = *annoy* <|> **tiff** 
+- **_miff_** [v][非]使惱怒 = *annoy* <|> **tiff** <|> **guff**
 - mighty [adj]強有力的/強大的, 巨大的/大量的 = *very* large
 - migrate [v]遷移/移居
 - migratory [adj]遷移的
 - mileage [n]總英里數, [非]利益/好處
 - milestone [n]里程碑/里程標, 里程碑/劃時代的事件 = *landmark*
-- **mildew** [n]霉/黴菌, 發霉 [v]發霉 = *mold*
+- **[mildew](/ˈmɪldjuː/)** [n]霉/黴菌, 發霉 [v]發霉 = *mold*
 - mill [n]磨坊/磨臼, 製造廠 [v]碾碎/將……磨成粉
 - millet [n]小米/粟
 - **milt** [n]魚的精子, 雄魚的生殖腺
@@ -3512,7 +3518,7 @@
 + nettle [n]蕁麻 [v]惹怒/使惱火 = *irritate* = *sting* = *provoke* = *irk* = *exasperate* = *peeve* = *vex* <|> mettle
 + nettlesome [adj]令人惱怒的
 + nice [adj]好的/宜人的 = *pleasant*, 好心的/友好的 = *kind*, **細微的/精細的** = *subtle* = *fine*, **需要小心的**
-+ [niche](/nɪtʃ/) [n]壁龕, 合適的職務, **合宜的小環境**, 利基 [v]把..放入壁龕 [adj]**特定的**
++ [niche](/nɪtʃ/) [n]壁龕, 合適的職務, **合宜的小環境**, 利基 [v]把..放入壁龕
 + **noisome** [adj]惡臭的 = *fetid*, 令人不快的 = *disagreeable* <-- noi 討厭 = *annoy* + some
 + [novel](/ˈnɒv(ə)l/) [adj]新穎的/新奇的 [n]小說
 + novelty [mn]新穎 [n]新奇的事物, 小巧而廉價的物品
@@ -3732,7 +3738,7 @@
 - oughta [v]應該 = *ought to*
 - ounce [n]盎司, 雪豹
 - out-of-pocket [adj]不在預算的
-- **ovation** [n]大喝采/熱烈鼓掌 = *applause*
+- **_ovation_** [n]大喝采/熱烈鼓掌 = *applause*
 - overture [n]前奏曲/序曲, 開端/序幕, **主動的表示/提議**
 - ovoid [adj]卵形的 = *oval* [n]卵形體
 - **ovulate** [v]排卵
@@ -5201,6 +5207,7 @@
 - sniff [v]嗅/聞, [非][around/round]搜索, [非][out]調查後發現 [n]嗅聞聲, 吸入量, **[非]徵兆** = *sign*, [非]些微的機會
 - sniffle [v]抽鼻子/吸鼻子 [n]鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
 - **snitch** [v][非]偷, [非]告密 [n][非]告密者 <|> **stitch**
+- **snooty** [adj]自大傲慢的 = *arrogant* = *conceited*
 - snooze [n/v]打盹
 - **snorkel** [n]潛艇換氣裝置/呼吸管 [v]帶呼吸管潛水
 - **_snort_** [n]鼻息聲/噴氣聲, [非]一口(吸入性毒品), [非]一口(烈酒) [v]噴鼻息, [非]吸(毒品)
@@ -5298,6 +5305,7 @@
 - spring -> sprang -> sprung [v]彈起/彈開, [from]源自 = *originate* from, [up]突然出現/湧現, (木頭或船)開裂/破裂 [n]春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
 - springboard [n]跳板
 - **spry** [adj]充滿活力的 <|> spray
+- **spunky** [adj]勇敢的/頑強的 = *plucky*
 - **[sputter](ˈspʌtə/)** [v]發劈啪聲, 急敗壞地說, **勉強進行** [n]噴濺聲/劈啪聲
 - squad [n]小隊, 班/小組, 運動隊, 小組, 親友圈
 - **squall** [n]颮/風暴, 大聲啼哭/號哭 [v]啼哭/號哭, 刮颮
@@ -5737,6 +5745,7 @@
 - tombstone [n]墓碑/墓石, **墓碑廣告(承銷團經常刊登的廣告)** <-- tomb + stone
 - **tongs** [n]夾子/鉗子
 - **thong** [n]丁字褲 = *g-string*, 皮帶/皮條, 人字涼鞋 <|> **throng**
+- [tonsil](/ˈtɒns(ə)l/) [n]扁桃腺
 - toiletry [n]盥洗用品
 - tonic [n]補藥/補品, 生髮水 = *tonic* water [adj]使人精神振奮的 = *invigorating*, **聲調的**, 主音的 <|> tunic
 - tonne [n]公噸 = *metric* ton
@@ -6198,9 +6207,11 @@
 - **whither** [adv][古]去哪裡/去何處 = *to where*, 到何種程度 [conj][古]無論到哪裡, 無論到何種程度
 - [whittle](/ˈwɪt(ə)l/) [v]削(木頭), [down]削減 = *pare* = *reduce* <|> **wheedle**
 - **whiz**, whizz [n]颼颼聲, **能手/奇才** [v]颼颼作聲
+- whup [v]打/打敗 = *beat* = *aasult*
 - [whodunit](/huˈdənət/) [n][非]偵探小說
 - wholesale [mn]批發 [adv]以批發方式, 大規模地/不加區別地 [adj]大批的/大規模的 = *extensive* [v]批發
 - whoosh [n]嗖的一聲, 一陣 [v]嗖嗖地飛快移動 [excl]嗖
+- wiener [n]維也納香腸 = wienerwurst
 - wig [n]假髮
 - **[wight](/wʌɪt/)** [n]幽靈/鬼魂/超自然生物 <|> weight
 - wildfire [n]野火/大火, 鬼火/磷火 = *will-o`-the-wisp*, (舊時海戰中的)燃燒劑
@@ -6335,10 +6346,13 @@
 - per annum [adv]每年 
 
 ## Foreign
+- baguette [n]法式長條麵包
+- bonsai [n]盆栽
+- dreidel [n]光明節陀螺
 - futon [n]蒲團/日式床墊
 - hibachi [n]木炭火盆
 - shiatsu [n]指壓按摩
-- bonsai [n]盆栽
+- tortilla [n]墨西哥玉米粉薄烙餅
 - voila [excl]那就是/瞧/可不是
 
 ## Exclmation
