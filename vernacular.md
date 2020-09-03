@@ -1,9 +1,13 @@
 ## Noun
 - a big draw [n]吸引人的事物
 - a bite (to eat) [n]一些食物
+- a case in point [n]好例子
+- a cross section of sth [n]...的典型/樣品
 - a drop in the bucket [n]微不足道/杯水車薪
+- **an end in itself** [n]本身即很重要的事物
 - a piece/slice of the action [n]分一杯羹
 - a roof over your head [n]住處/棲身之處
+- **a tall order** [n]困難的事
 - a slap in the face [n]一巴掌/一記耳光
 - bed of roses [n]稱心如意的處境
 - bee's knees [n]出類拔萃的人或事物
@@ -44,6 +48,7 @@
 - **muffin top** [n]肚腩肉
 - old hand [n]老手/專家
 - **old wives' tale** [n]無稽之談
+- one and the same [n]同一個事物/同一個人 
 - one another [n]其他每個人 = *each other*
 - one-night stand [n]一夜情, 僅演一次的演出
 - paper route [n]送報
@@ -53,11 +58,13 @@
 - poster child [n]代表人物形象
 - **red herring** [n]轉移注意力的事情, 燻青魚
 - red tape [n]繁文縟節
+- sea change [n]完全的改變
 - social butterfly [n]交際花
 - smoke and mirrors [n]謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
 - **the cream of the crop** [n]菁華/最好的部份
 - the cutting edge [n]發展前沿/領先位置/先鋒地位
 - **the ins and outs** [n]細節
+- the length and breadth of sth [n]...的四處/到處
 - the real deal [n]真正的能手, 真實/真實性
 - the whole kit and kaboodle/caboodle [n]全部/全體
 - weak link [n]薄弱的環節
@@ -79,11 +86,18 @@
 - there are other fish in the sea [phrase]天涯何處無芳草
   
 ## Time
+- all the while [adv]一直
+- **as of** [adv]在...時/自...起
+- **as yet** [adv]直到現在
 - at all times [adv]隨時/永遠
 - **dog days** [n]三伏天/大熱天, 無所作為的時期/不活躍時期
 - down/along the line [adv]將來/終將
+- every hour on the hour [adv]整點 
 - for the time being [adv]目前/暫時
+- **from the get-go** [adv]開始/開端
+- **in/by fits and starts** [adv]間歇地/一陣一陣地
 - in the blink of an eye [adv]一眨眼/瞬間
+- in the nick of time [adv]在緊要關頭/在最後一刻
 - in years past [adv]很久以前
 - later on [adv]後來
 - more often than not [adv]往往/多半
@@ -92,10 +106,22 @@
 - (every) now and then [adv]偶爾
 - on a day-to-day basis [adv]每天
 - on a regular basis [adv]經常
+- on a whim [adv]突然地
 - on and off [adv]時斷時續地/間歇地
+- on and on [adv]持續地
+- on the horizon [adv]即將發生
 - on occasion [adv]有時/偶爾
 - (every) once in a while [adv]偶爾
+- **out of the gate** [adv]打從一開始
+- right away [adv]馬上
 - right off the bat [adv]立刻
+- round/around the clock [adv]日以繼夜地
+- sooner rather than later [adv]盡快
+- the turn of the century [n]世紀交界/世紀末
+- through the ages [adv]長久以來
+- to date [adv]迄今 
+- to the present [adv]迄今
+- well into [adv]離..有一段時間了
 
 ## Subject
 - A be no more ... than B [v]A跟B都是不...的
@@ -107,6 +133,7 @@
 - consign A to B [v]把A置於B的境地
 - it’s one thing to A, it’s another/a different thing to B [phrase]A是一回事而B又是另一回事
 - refer to A as B [v]把A稱作B
+- not so much A as B [v]與其說是A還不如說是B
 
 ## Adverb
 - (as) easy as falling off a log [adv]不費吹灰之力/非常輕鬆
@@ -114,24 +141,36 @@
 - above all [adv]最重要的是
 - all but [adv]除了...都, 幾乎/差不多
 - all for naught [adv]徒勞 = in vain = all for nothing
+- all over [adv]在..到處
+- all the more [adv]更加/越發/格外 
 - **all told** [adv]總共
+- along with [adv]以及/除...之外
 - and so forth [adv]等等/諸如此類
 - and so on [adv]等等/諸如此類
+- anything but [adv]遠非 = not
+- around the corner [adv]附近/將至
 - as a rule [adv]通常/一般說來
 - as luck would have it [adv]碰巧/幸好
+- as opposed to sth [adv]而不是
 - as such [adv] (否定)大抵上, 本質上
+- **as to** [adv]關於/至於(轉變話題)
 - (one's) ass off [adv]非常 = **very**
 - aside from [adv]除了...還有.../此外, 除了...
+- at first blush [adv]乍看之下
+- at hand [adv]接近的/不遠的
+- at large [adv]普遍地/全體地
 - **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
-- at large [adv]普遍地/全體地
+- at the tail end (of sth) [adv]在..的尾聲
 - behind one's back [adv]背著某人(說壞話)
 - behind the eight ball [adv]處於劣勢
 - **by and large** [adv]大體上/總體上
 - by design [adv]故意地/蓄意地
+- by the same token [adv]根據同樣的理由 
 - by way of [adv]當做/用作
 - either way [adv]不管哪一種/無論如何
 - every nook and cranny [adv]處處/到處
+- far afield [adv]遠處
 - **for all intents and purposes** [adv]實際上 = in effect
 - **for good measure** [adv]另外/此外
 - for one [adv]對…來說
@@ -148,6 +187,10 @@
 - in kind [adv]以實物支付, 以同樣方法或手段
 - in part [adv]某種程度上 = to some degree = to an extent
 - in phase (with sth) [adv]與..同步
+- in record numbers [adv]多於以往
+- in step with [adv]與..一致 
+- in tandem with sth [adv]與..一起
+- in the name of sth [adv]代表/用…的名義
 - in the neighborhood of sth [adv]大約…
 - in the region of [adv]大約(數目)
 - in the wind [adv]在醞釀中, 在熱論中, 逃跑後失蹤/消失
@@ -158,14 +201,20 @@
 - more or less [adv]主要/大體, 大約, 幾乎/差不多
 - next to nothing [adv]幾乎沒有
 - north of sth [adv]多出
+- nowhere near [adv]遠非
 - of sorts [adv]勉強稱得上
 - off the cuff [adv]即席/無準備地
 - on board [adv]參與
+- **(right) on cue** [adv]不出所料
 - on hand [adv]在跟前/在旁邊
+- on paper [adv]在書面上/在理論上
 - on pins and needles [adv]如坐針氈
 - on the edge [adv]瀕臨/處於的邊緣
+- on the fringes of sth [adv]不屬於/遠離
+- **on the ground** [adv]在公眾中/在普通百姓中
 - **on the grounds that** [adv]因為
 - on the top of that [adv]除此之外
+- on the verge (of sth) [adv]接近於/瀕臨
 - on your high horse [adv]自以為是/自命不凡
 - on a budget [adv]拮据
 - **or so** [adv]大約
@@ -183,6 +232,7 @@
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
 - to a fault [adv]過分地
+- ***to the day*** [adv]正是 = *exactly*
 - to the point of sth [adv]達到..的程度
 - up to a point [adv]在一定程度上
 - upwards of [adv]至少
@@ -207,6 +257,7 @@
 - be all ears [v]全神貫注地聽/洗耳恭聽
 - **be an item** [v]有戀愛關係
 - **be angling for sth** [v]拐彎抹角地求取
+- be at odds (with sb) [v]與…意見不一致/與…相矛盾
 - be between jobs [v]待業
 - be dead meat [v] (某人)有大麻煩
 - be dead set on doing sth [v]堅決要做…/一心要做…
@@ -219,7 +270,9 @@
 - be like fish out of water [v]如魚離水
 - **be my guest** [phrase]請便
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
+- **be off the mark** [v]不正確/不準確
 - be nothing short of sth [v]正是/簡直就是/極其
+- be on par with sth [v]與..相同
 - be on the same page [v]達成共識
 - **be out of sorts** [adj]有些不舒服/有點不高興
 - be pressed for time [v]時間緊迫
@@ -241,6 +294,7 @@
 - bring to light [v]發現…/使…公開
 - bring your a-game [v]盡全力 
 - burn the candle at both ends [phrase]勞累過度
+- buy time [v]贏得時間/拖延時間
 - by all means [phrase]好的/當然可以
 - by the book [v]嚴格按照規矩辦事
 - call into question [v]引起對…的懷疑/使懷疑
@@ -251,9 +305,11 @@
 - chew the fat [v]閒聊
 - close but no cigar [adj]差一點(但很接近了)
 - come apart at the seams [v]處於崩潰邊緣
+- come/follow (hard/hot) on the heels of sth [v]緊隨…而來
 - come in handy [v]有用/派上用場
 - come to light [v]爲人所知/被披露
 - come to terms with [v]逐漸接受(常指所愛之人的死)
+- could do worse than to do sth [v]...是正確的或可取的
 - cover (one's) bases [v]面面俱到 == cover all the bases
 - **crack the whip** [v]威逼/施威
 - credit where credit's due [v]該讚揚的就讚揚
@@ -327,6 +383,7 @@
 - if I had a nickel for every time [phrase]某件事發生的次數很多
 - ignorance is bliss [phrase]無知便是福
 - It ain't over till the fat lady sings [v]事情還沒結束，等著瞧
+- it behooves sb to do sth [v] (某人)理應
 - It is not as if [phrase]並非
 - It strikes me that [phrase]突然意識到 
 - it's not rocket science [phrase]並不太難/並非特別複雜
@@ -366,6 +423,7 @@
 - pull oneself together [v]振作起來
 - put a sock in it [phrase]別出聲/住嘴
 - put one's hands on sth [v]弄到手/得到, 抓住
+- put (sth) on hold [v]暫停/推遲
 - put the cat among the pigeons [v]造成軒然大波
 - rain on one's parade [v]潑冷水/掃興
 - risk life and limb [v]冒著生命危險
@@ -376,6 +434,7 @@
 - save face [v]保全顏面
 - sb's hands are tied [phrase]受到限制/無能為力
 - seal the deal [v]達成協議
+- see/view sth in a different light [v] 以不同的觀點來看
 - shut the stable door after the horse has bolted [v]亡羊補牢
 - **sleep on it** [v]好好考慮
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
@@ -387,6 +446,7 @@
 - **suck it up** [v]自認倒楣
 - **_take a drag_** [v]吸一口煙
 - take flight [v]逃走
+- take sth into account [v]考慮到/顧及 
 - **take sth with grain of salt** [v]對…半信半疑/對…有所懷疑
 - take the piss out of sb/sth [v]取笑
 - tear sth to pieces/shreds [v]嚴厲批評, 輕易摧毀
@@ -399,6 +459,7 @@
 - turn sth/sb down [v]拒絕
 - turn (sth) over in one's mind [v]思考/認真考慮
 - up in the air [adj]懸而未決
+- what/how/why/.. in the world [phrase]究竟/到底 
 - when all is said and done [adv]說到底/終究
 - **whip it out** [phrase]秀一下
 - within an inch of one's life [adv]差點喪命
@@ -416,6 +477,7 @@
 - **(be) holed up** [v]躲起來
 - (be) lost on sb [v]未被...理解
 - **(be) nuts about sth/sb** [v]迷戀/癡迷於
+- be off [v]離開 = *leave*
 - (be) on to [v]察覺/注意, 與..聯絡, 發現
 - (be) riddled with [v]充滿
 - (be) shorn of [v]被奪走

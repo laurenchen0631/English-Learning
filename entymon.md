@@ -17,7 +17,7 @@
 	- acclimate [v][to]使服水土/使適應 = *accustom* = *adapt* = *acclimatize*
 	+ accord
 	+ accordingly
-	- accost [v] (貿然)上前搭訕 <-- ac + cost 邊 = *side*
+	- **accost** [v] (貿然)上前搭訕 = *chat up <-- ac + cost 邊 = *side*
 	+ accrete --> accretion
 	+ accrue
 	- acknowledge [v]承認 = *concede* = *confess*, 致謝, 對……打招呼, 確認(收到)
@@ -30,7 +30,7 @@
 	+ **adduce**
 	+ adjunct
 	+ adjust
-	+ **adjure**
+	+ **_adjure_**
 	- admire --> admiration
 	- adopt [v]收養, 採納/接受, 養成(某種習慣) <-- ad + opt 選擇 = *choose*
 	- adrift [adj/adv]漂浮著, 漫無目的地
@@ -96,7 +96,7 @@
 	+ **approbation** --> approbatory
 	+ appropriate
 	+ approximate
-	+ arrogate --> arrogant --> arrogance
+	+ **arrogate** --> arrogant --> arrogance
 	+ ascertain
 	+ ascribe
 	+ asperse --> aspersion 
@@ -115,9 +115,9 @@
 	- amid [prep]在...中 = *surrounded by* = *in the middle of*
 	+ attune --> attuned
 	+ attribute --> attribution --> attributable
-	+ auspices --> *auspicious*
+	+ auspices --> **auspicious**
 	- awash [adj]被浪潮沖打的/被海水沖刷的, **_充斥的_**, 與水面齊平的
-	+ aver
+	+ **_aver_**
 	* **advert** --> advertence
 	+ adverse --> adversary --> adversarial --> adversity
 	+ averse --> aversion
@@ -187,7 +187,7 @@
 	+ antidote
 	- antihistamine
 	+ antipathy
-	- antipode [n]正相反的事物
+	- **antipode** [n]正相反的事物
 	- **antimacassar** [n]椅背套 <|> *massacre*
 	- antimicrobial [adj]抗微生物的 [n]抗菌物質
 	- **_antinomian_** [adj]主張廢棄道德律的 [n]道德律廢棄論者
@@ -208,7 +208,7 @@
 + ancestor [n]祖先 = *antecedent*, 原型
 + **ancestry** [n]祖先/祖宗, (動植物)世系/血統, 起源/背景
 - [ancestral](/anˈsɛstrəl/) [adj]祖先的/祖傳的
-- antechamber [n]前廳
+- antechamber [n]前廳 = **vestibule**
 + antedate [v]早於...存在/先於
 + [antediluvian](/ˌantɪdɪˈluːvɪən/) [adj]史前的, 過時的/老式的 = *antiquated*
 * antecede [v]先於 = *precede* = *antedate*
@@ -220,8 +220,8 @@
 ## amat, amor, am 愛 = *love*, friendly = *phil*
 + [amateur](/ˌaməˈtəː/) [n]業餘愛好者 = *dilettante*, 外行 [adj]業餘的, 外行的
 + amateurish [adj]不熟練的/外行的 = *unskillful* = *inept*
-+ ambrosia [n]仙饈, 美味/珍饈, 蜜蜂麵包 = *bee* bread
-- amorous [adj]色情的
++ ambrosia [n]仙饈, 美味/珍饈, 蜜蜂麵包 = *bee bread*
+- **amorous** [adj]色情的
 + amiable [adj]和藹的 = *affable* <-- amicable
 + amicable [adj]友善的/友好的 = *amiable*
 - amity [mn]友好關係
@@ -373,7 +373,7 @@
 
 ## anthrop, anthropo 人 = *human*
 - anthropocentric [adj]以人類為宇宙中心的
-- anthropogenic [adj]人為的
+- **anthropogenic** [adj]人為的
 * [anthropology](/ˌanθrəˈpɒlədʒi/) [mn]人類學
 * anthropologist [n]人類學家
 - **anthropomorphism** [n]擬人 
@@ -494,7 +494,7 @@
 * [artistry](/ˈɑːtɪstri/) [n]藝術才能
 * artisan [n]工匠/技工 = *craftsman*
 * artisanal [adj]工匠的/技工的, 傳統匠人手工製作的
-- artillery [n]火砲/大砲, 砲術
+- **artillery** [n]火砲/大砲, 砲術
 
 ## asper 粗暴 = *rough*
 + asperity [n]嚴厲/粗暴 = *harshness* = *roughness*, 嚴酷/艱苦 <|> *aspersion*
@@ -560,7 +560,7 @@
 - actionable [adj]有足夠證據可控告的, 有行動價值的
 - activism [mn]激進主義
 - actuality [n]現實, 真實情況
-- actuarial [adj]保險精算師的/保險精算的
+- **actuarial** [adj]保險精算師的/保險精算的
 - counteract
 + enact [v]制定(法律), 扮演(角色)
 + exact [v]**強要/勒索** = *force* = *compel*, **施加(報復)** [adj]確切的 = *correct*, 精確無誤的 = *precise* = *rigorous*, 謹慎的
@@ -614,7 +614,7 @@
 
 ## bate 打/擊 = *beat*
 + abate [v]減少/減弱 = *wane* = *diminish* = *attenuate*, [法]消除
-- rebate [n/v]折扣/貼現 [n]槽口 [v]刻(槽口)
+- **rebate** [n/v]折扣/貼現 [n]槽口 [v]刻(槽口)
 - debate [n/v]辯論 [v]思考/盤算 = *consider*
 
 ## brev 短 = *short*
@@ -667,7 +667,7 @@
 ## blanc, blea 白 = *white*, pale
 - blanch [v]使(植物)變白, 使(臉色)蒼白 = *appall*, 川燙
 - bleach [v]漂白, 使變淡, 清潔/消毒 = *sterilize* [n]漂白劑
-- bleacher [n]漂白業者/漂白劑, 廉價露天座位
+- bleacher [n]漂白業者/漂白劑, **廉價露天座位**
 
 ## bore 厭煩
 + bore [v]鑽孔, 擠過去, 使厭煩 [n]口徑/內膛, 孔/口徑 = *caliber*, 無趣之人, 使人厭煩的事, **湧潮/激潮** <|> pore
@@ -7046,7 +7046,7 @@
 
 ## rog 要求/說 = *ask*, beg
 + **abrogate** [v]廢除/廢止 = *repeal* = *abolish* = *revoke*, 逃避(責任) = *evade*
-+ arrogate [v]霸佔/僭越/擅取 <|> ***abrogate***
++ **arrogate** [v]霸佔/僭越/擅取 <|> **abrogate**
 + arrogant [adj]傲慢的 = *bossy* = *dictatorial* = *overweening* = *overbearing* = *conceited* = *haughty* = *supercilious* = *pompous* = *portentous* = *petulant* = *presumptuous* = *imperious* = *insolent* = *magisterial* 
 + arrogance [n]傲慢/自大
 - interrogate [v]質問 = *examine* = *inquire*, 獲取資料 
@@ -8872,7 +8872,7 @@
 # V
 
 ## ver, veri  真實的 = *true*
-+ **aver** [v]斷言/堅稱 = *affirm* = *assert*, [法]作為事實提出 <|> avert
++ **_aver_** [v]斷言/堅稱 = *affirm* = *assert*, [法]作為事實提出 <|> avert
 + veracious [adj]誠實的/真實的 = *truthful* = *accurate*
 + veracity [n]真實, 誠實
 - **verdict** [n]判定/裁決, 判斷/意見 = *opinion* = *judgement*
