@@ -591,6 +591,13 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - marmalade [n]橘子果醬
 - wiener, wienerwurst [n]維也納香腸
 - daiquiri [n]代基里雞尾酒(用朗姆酒、糖、檸檬汁調製)
+- bologna [n]波倫亞大紅腸(含牛豬肉的燻製粗香腸)
+- salami [n]薩拉米香腸(義大利蒜味香腸)
+- pastrami [n]醃燻牛肉
+- frisee [n]菊苣
+- wild rice [n]菰米(一種北美產的野生草籽，常和大米一起食用)
+- salmon en croute [n]奶油鮭魚酥皮派/法式鮭魚千層酥派
+- filet mignon [n]菲力牛柳(是牛排的一種，為位於牛隻腰部的肉被認為是牛肉最嫩的部位)
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1176,6 +1183,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - boggle [n]一種拼字遊戲
 - pogo stick [n]彈跳桿
 - dreidel [n]光明節陀螺
+- log ride [n]漂漂河
 
 ## Product/Tools
 - night cream [n]晚霜
@@ -1193,6 +1201,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - ninja star [n]手裡劍
 - bubble wrap [n]氣泡墊塑膠包裝材料/氣泡布
 - transponder [n]發射器/應答器
+- cuff link [n]袖扣
+- grass roller [n]草坪滾壓器
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -1244,7 +1254,9 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Tootsie Roll [n]某種糖果的品牌
 - Bloomingdales [n]布魯明黛(一家高檔連鎖百貨公司，是梅西百貨的子公司)
 - Lycra [n]氨綸(俗稱萊卡，是一種彈力纖維)
-- 
+- Pringles [n]品客
+- Wite-Out [n]書寫塗改液/修正液的品牌
+- Toblerone [n]三角巧克力(一家瑞士巧克力棒品牌)
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel

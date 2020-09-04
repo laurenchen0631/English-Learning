@@ -1267,6 +1267,7 @@
 - **fluorochrome** [n]螢光染料
 - monochrome [adj]單色的/黑白的 [n]單色畫/黑白相片, 單調
 - monochromatic [adj]單色的
+- polychromatic [adj]多色的
 
 ## cryph, crypt 隱藏/秘密 = *hide* == *scond*
 - apocrypha [n]偽經/偽書 <--> canon
@@ -6185,6 +6186,7 @@
 - [repulsion](/rɪˈpʌlʃən/) [n]厭惡/反感, 排斥力
 
 ## poly 多 = *many*, much
+- polychromatic
 + polyglot [adj]會使用數種語言的 [n]精通數國語言的人 <-- poly + glot 舌頭 = *tongue*
 - polymorphous [adj]多形的/多形態的
 
@@ -6278,6 +6280,7 @@
 + **[plausible](/ˈplɔːzɪb(ə)l/)** [adj]貌似真實的/貌似有理的 = *reasonable* = *believable*, 花言巧語的 <|> pause
 
 ## ple, plete, plent, pleni, pleth 滿 = *fill* == *compl*
+- aplenty [adj]豐富的/很多的
 - complete [adj]完全的
 + [complement](/ˈkɒmplɪm(ə)nt/) [v]補充/補足/使完善 [n]補充物, 一些, 人員定額, 補語, 補數 <|> compliment
 + complementary [adj]互補的/補充的, 替代醫學的 <-- complete

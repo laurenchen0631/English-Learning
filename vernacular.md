@@ -22,6 +22,7 @@
 - cash cow [n]搖錢樹
 - cha-ching [n]錢
 - closed book [n]一無所知的學科/完全不懂的學科
+- close call [n]即將到來的災難
 - con artist [n]騙子/行騙者 
 - diamond in the rough [n]一塊璞玉
 - dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
@@ -33,7 +34,10 @@
 - friend with benefits [n]可以上床的朋友
 - fuck buddy [n]砲友
 - full stop [n]句號
+- gainful employment [n]有酬工作
 - good call [n]正確的選擇/正確的決定
+- **hard pass** [n]堅決拒絕
+- head start (on/over sth) [n]優勢
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
 - **hot button** [n]重要而敏感的問題
 - jack of all trades [n]萬事通/博而不精的人
@@ -41,6 +45,7 @@
 - icing on the cake [n]錦上添華
 - life in the fast lane [n]充滿刺激的生活
 - live wire [n]機靈鬼/精力充沛的人
+- long odds [n]為乎其微的勝率
 - **long shot** [n]希望不大的嘗試/機會渺茫
 - man of the Hour [n]知名人士
 - moral compass [n]道德羅盤
@@ -61,6 +66,7 @@
 - sea change [n]完全的改變
 - social butterfly [n]交際花
 - smoke and mirrors [n]謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
+- **tongue in cheek** [n]玩笑
 - **the cream of the crop** [n]菁華/最好的部份
 - the cutting edge [n]發展前沿/領先位置/先鋒地位
 - **the ins and outs** [n]細節
@@ -134,6 +140,7 @@
 - it’s one thing to A, it’s another/a different thing to B [phrase]A是一回事而B又是另一回事
 - refer to A as B [v]把A稱作B
 - not so much A as B [v]與其說是A還不如說是B
+- subordinate A to B [v]把A置於B的次要地位
 
 ## Adverb
 - (as) easy as falling off a log [adv]不費吹灰之力/非常輕鬆
@@ -159,6 +166,7 @@
 - at first blush [adv]乍看之下
 - at hand [adv]接近的/不遠的
 - at large [adv]普遍地/全體地
+- at stake [adv]有風險/處於危急關頭 
 - **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
 - at the tail end (of sth) [adv]在..的尾聲
@@ -177,7 +185,7 @@
 - for the most part [adv]一般/通常
 - from the ground up [adv]從頭開始, 完全地
 - **hand over fist** [adv]迅速大量地(賺錢)
-- hit the nail on the head [v]一針見血
+- hit the nail on the head [v]一針見血/說中要害
 - in a nutshell [adv]概括地說
 - in a vacuum [adv]與世隔絕
 - in a word [adv]總之/一言以蔽之
@@ -192,7 +200,10 @@
 - in tandem with sth [adv]與..一起
 - in the name of sth [adv]代表/用…的名義
 - in the neighborhood of sth [adv]大約…
-- in the region of [adv]大約(數目)
+- in the light of sth [adv]因為/鑒於 
+- in the region of sth [adv]大約(數目)
+- in full swing [adv]進行到最高點/如火如荼
+- **in the wake of sth** [adv]作為…的後果/隨…之後而來
 - in the wind [adv]在醞釀中, 在熱論中, 逃跑後失蹤/消失
 - kind of [adv]似乎/有點
 - **left and right** [adv]失控, 到處
@@ -232,8 +243,11 @@
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
 - to a fault [adv]過分地
-- ***to the day*** [adv]正是 = *exactly*
+- to one's heart's content [adv]盡興地/盡情地
+- to name a few [adv]僅舉幾例
+- **to the day** [adv]正是 = *exactly*
 - to the point of sth [adv]達到..的程度
+- under one's breathe [adv]低聲地/輕聲地
 - up to a point [adv]在一定程度上
 - upwards of [adv]至少
 - well over [adv]超過/多於 = *over* = *more than*
@@ -275,6 +289,7 @@
 - be on par with sth [v]與..相同
 - be on the same page [v]達成共識
 - **be out of sorts** [adj]有些不舒服/有點不高興
+- be out of touch [adj]與..脫節
 - be pressed for time [v]時間緊迫
 - **be under the gun** [v]因為須在限定時間內（或以特定方式）完成任務而倍感壓力
 - be up and about again [v]康復
@@ -285,6 +300,7 @@
 - beddy-byes [v]上床睡覺
 - between rock and a hard place [adj]進退兩難/左右為難
 - bide your time [v]靜候時機
+- bite (one's) lip [v]強忍
 - **blow/knock one's socks off** [v]發現非常有趣/發現非常傑出
 - breathe (new) life into sth [v]帶來起色/注入活力
 - **breathe down someone's neck** [v]緊跟(某人)
@@ -294,6 +310,7 @@
 - bring to light [v]發現…/使…公開
 - bring your a-game [v]盡全力 
 - burn the candle at both ends [phrase]勞累過度
+- **buy a vowel** [v]聽不懂
 - buy time [v]贏得時間/拖延時間
 - by all means [phrase]好的/當然可以
 - by the book [v]嚴格按照規矩辦事
@@ -322,6 +339,7 @@
 - don’t sweat it [v]不必擔心
 - double back [v]回頭/原路往回
 - **down the drain** [v]付諸東流/打水漂
+- **drive/hammer sth home** [v]把…講清楚/使人完全明白
 - err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
 - fall off the wagon [v]又重新喝起酒來
 - fall/run afoul of [v]犯/違
@@ -350,12 +368,14 @@
 - **go commando** [v]不穿內衣
 - **go nuts** [v]大發雷霆/暴跳如雷
 - go apeshit [v]發狂
+- **go down in history** [v]名留青史 
 - go for broke [v]孤注一擲
 - go out (of) the window [v]完全消失/不再存在
 - go/fall to pieces [v]經神崩潰, 四分五裂/瓦解
 - go out of one's way to do sth [v]非常努力地做
 - go over one's head [v]對...太過難懂, 不經過(某人)直接越級上報
 - **go to great lengths** [v]竭盡全力/全力以赴
+- grab a bite [v]隨便吃點東西
 - grasp/clutch at straws [v]抓救命稻草/不放過任何微小的機會
 - Has the cat got your tongue? [v]為何不吭聲
 - **have a ball** [v]玩得開心
@@ -374,6 +394,7 @@
 - hit a snag [v]遇上阻礙或困難
 - hit a wall [v]遭遇撞牆期/遭遇極點
 - **hit into one's stride** [v]逐漸進入狀態/開始上軌道
+- hit it off (with sb) [v]相處得好/合得來
 - hit the road [v]離開/出發
 - How are you bearing up? [phrase]過得如何
 - **I am beat** [phrase]累斃了
@@ -388,6 +409,7 @@
 - It strikes me that [phrase]突然意識到 
 - it's not rocket science [phrase]並不太難/並非特別複雜
 - **jump the gun** [v]過早地行動
+- kick sb when sb am down [v]落井下石
 - larger than life [adj]不同凡響的
 - last-ditch [v]最後一招/孤注一擲
 - lay the foundation for/of [v]打下基礎
@@ -411,6 +433,7 @@
 - nail it [v]搞定
 - nearly/almost fall off one's chair [v]極為驚訝
 - not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
+- not mince (one's) words [v]直接地表達不滿
 - off you go [phrase]好了，你可以走(做)了
 - out of one's league [adj]配不上
 - **paint the town red** [v]尋歡作樂
@@ -426,7 +449,9 @@
 - put (sth) on hold [v]暫停/推遲
 - put the cat among the pigeons [v]造成軒然大波
 - rain on one's parade [v]潑冷水/掃興
+- ring true [v]聽起來是真的
 - risk life and limb [v]冒著生命危險
+- roll off the tongue [v]順口說出
 - rub it in one's face [v]在傷口上灑鹽 = to point out someone's mistake or failure quite crudely
 - run in the family [v]家族遺傳/世代相傳
 - **run on fumes** [v]疲憊不堪
@@ -435,8 +460,11 @@
 - sb's hands are tied [phrase]受到限制/無能為力
 - seal the deal [v]達成協議
 - see/view sth in a different light [v] 以不同的觀點來看
+- shed light on sth [v]闡明
+- shift/swift gears [v]換件事做/換個話題
 - shut the stable door after the horse has bolted [v]亡羊補牢
 - **sleep on it** [v]好好考慮
+- snatch victory (from the jaws of defeat) [v]在最後時刻取得勝利
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - stark raving mad [adj]完全瘋掉
 - start/set/get the ball rolling [v]著手做/開始做
@@ -464,7 +492,7 @@
 - **whip it out** [phrase]秀一下
 - within an inch of one's life [adv]差點喪命
 - woe is me [excl]苦啊/慘哪
-- **buy a vowel** [v]聽不懂
+- word gets around [v]迅速傳開 
 - hopping mad [adj]暴跳如雷的
 - **whip one's butt/ass** [v]給..好看
 - mix and match [v]混搭
@@ -497,6 +525,7 @@
 - be around [v]存在, 活躍
 - be into sth [v]對...有興趣
 - bow out [v]辭職/退出
+- **boil down to sth** [v]主要原因在於/歸結為
 - border on [v]近乎於/近似
 - break into [v]突然開始做…
 - bulk up (v)增重/變壯實
@@ -505,6 +534,7 @@
 - call for sb [v] (去某地)接(某人)
 - call for sth [v]需要/值得, 號召/呼籲
 - **call off** [v]取消/停止進行
+- **cap off** [v]把...收尾 
 - capitalize on [v]利用…獲益/從…中獲利
 - cash in on [v]用...賺錢
 - **cave in** [v]讓步/屈服/妥協
@@ -738,6 +768,7 @@
 - stop off somewhere [v]中途拜訪/中途停留
 - straight out of [adj]跟..相似的
 - straighten sth up [v]清乾淨
+- straight up [excl]真的/屬實
 - stress sb out [v]使非常焦慮/使壓力過大
 - strike down [v]裁定(某法律條文)非法
 - string along [v]長期哄騙/敷衍
