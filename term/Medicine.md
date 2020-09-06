@@ -162,6 +162,7 @@
 - siamese twins [n]連體嬰
 - **body cast** [n]石膏
 - barium enema [n]鋇劑灌腸攝影
+- Ritalin [n]立得寧(醫界廣泛使用的治療兒童過動病症藥物)
 
 ## Disease/Hurt
 - attention deficit hyperactivity disorder == ADHD [n]專注力失調及過度活躍症

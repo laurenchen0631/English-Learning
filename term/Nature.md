@@ -164,12 +164,14 @@
 - woodchuck [n]土撥鼠
 - hamster [n]倉鼠 
 - snowshoe hare [n]白靴兔
+- vole [n]田鼠
 
 - [canine](/ˈkeɪnʌɪn/) [adj]狗的/犬科的 [n]狗, 犬齒
 - Shar-Pei [n]沙皮狗
 + [coyote](/kʌɪˈəʊti/) [n]郊狼/土狼 == A wild dog that resembles the wolf, native to North America.
 - [thylacine](/ˈθʌɪləsiːn/) == Tasmanian tiger [n]袋狼(現已全部滅絕，因其身上斑紋似虎，又名塔斯馬尼亞虎)
 - chihuahua [n]吉娃娃
+- Airedale [n]萬能㹴
 
 ## Insect
 + entomologist [n]昆蟲學家
@@ -418,6 +420,7 @@
 - [rhododendron](/ˌrəʊdəˈdɛndr(ə)n/) [n]杜鵑花
 - [dandelion](/ˈdandɪlʌɪən/) [n]蒲公英
 - [balsam](/ˈbɔːlsəm/) [n]香脂, 產香脂的樹, 鳳仙花
+- ravintsara [n]桉油樟羅文莎葉精油(主要萃取自馬達加斯加的樟樹葉子)
 
 - milkweed [n]乳草 
 - [mandrake](/ˈmandreɪk/) [n]曼陀羅草

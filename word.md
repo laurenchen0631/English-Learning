@@ -1017,6 +1017,7 @@
 - [cask](/kɑːsk/) [n]圓木桶, 一桶 <|> pail
 - **casket** [n]棺材/骨灰盒, 首飾盒 [v]把……裝進小箱或棺材
 - **casserole** [n]砂鍋
+- cassava [n]木薯/木薯粉
 - catapult [n]石弩 [v]用彈射器發射, 快速移動/躍
 - **catamaran** [n]筏
 - catch -> caught -> caught [v]抓住/攔截, 接住, 捕捉, 抓到/趕上, 逮住/捕獲, 偶然遇到, 鉤住/卡住, 使..被卡住, 夾住/固定, 參加/看, 引起/吸引/迷住, 快速一看, 理解/聽清楚, 傳神地描繪/再現, 打, 撞到, 感染, 燃燒, 點火, [up]趕上, [up]趕工, [on]流行, [on]理解 [n]抓住/接球, 捕獲量, 好同伴/好伴侶, 接球遊戲, 窗鉤/門扣, 圈套/隱藏的困難, 哽咽
@@ -1057,6 +1058,7 @@
 - cheapskate [n]小氣鬼
 - cheeky [adj]厚顏無恥的/魯莽的/放肆的 = *sassy*
 - cheerleading [n]啦啦隊 [adj]啦啦隊的
+- **cheesy** [adj]下等的/低劣的
 - **[cheetah](/ˈtʃiːtə/)** [n]印度豹
 - chemo [n]化療 = *chemotherapy*
 - chestnut [n]栗子 = *sweet chestnut* = *maroon*, 栗色, 栗色馬, 栗木 = *chestnut* tree, 馬腿內側的角質胼胝
@@ -2126,7 +2128,7 @@
 + guarded [adj]小心翼翼的/有保留的 = *cautious* = *careful* = *prudent*
 - **_guff_** [n]胡說八道
 - **_gruff_** [adj]粗魯的 = *surly* = **forbidding**, 粗啞的
-- **goof** [n]傻瓜 = **doof**, 愚蠢的錯誤 [v]犯錯/失敗
+- **goof** [n]傻瓜 = **doof**, 愚蠢的錯誤 [v]犯錯/失敗, **[off]偷懶**
 + **[guffaw](/ɡəˈfɔː/)** [n/v]開懷大笑 = *chortle* <|> **gaffe**
 * guile [n]奸詐/狡猾
 + guileless [adj]誠實無欺的/老實的 = *honest*
@@ -2482,6 +2484,7 @@
 - **[hale](/heɪl/)** [adj] (尤指老人)健壯的 <|> [hell](/hɛl/)
 - halfway [adj]中途的 [adv]在中途, 到某種程度 = *to* some extent
 - **half-ass** [v]隨便
+- half-assed [adj]低劣的/愚蠢的
 - half-baked [adj]考慮不周全的, 愚蠢的 = *foolish*
 - half-brother [n]異父或異母的兄弟
 - half-truth [n]片面真理(可能是部分是正確的，該語句可能完全真實的，但只包括全部真相中的一部分)
@@ -3134,6 +3137,7 @@
 - lunar [adj]月亮的
 - lunatic [adj]瘋的/精神錯亂的, 瘋狂的/愚蠢的 [n]瘋子, 傻子
 - lunch [n]午飯 [v]吃午餐, 帶..吃午餐
+- luncheon [n]午宴
 - **lunge** [n]衝/撲, (用刀劍等的)刺/戳 [v]刺/衝/撲 
 - **_lurch_** [n/v]蹣跚/踉蹌 = *stagger* = *lumber*
 - **lurk** [v]潛伏/埋伏, (危險等)潛在, 網路潛水 <|> lark <|> luck
@@ -3362,6 +3366,7 @@
 - mart [n]商場
 - martyr [n]烈士/殉道者
 - marvel [v]對...感到驚異 [n]奇蹟 = *miracle*
+- mascot [n]吉祥物
 - mash [v]把…搗成糊狀, [非]壓碎/壓壞, 調成麥芽漿, 泡/煮 = *brew* = *infuse* = *mast* [n]糊狀物 = *pulp*, 混合飼料, 麥芽漿
 - mason [n]泥瓦匠/水泥匠/石匠 <|> mansion
 - masonry [n]石工技藝/石造建築
@@ -3503,6 +3508,8 @@
 - musicologist [n]音樂學者
 - **[musket](/ˈmʌskɪt/)** [n]舊式步槍/毛瑟步槍
 - musketeer [n]火槍手
+- **muslin** [n]平紋細布
+- muslim [n]伊斯蘭教徒/回教徒 [adj]回教的/伊斯蘭教的
 - mustache, moustache [n]髭/鬍子
 - muster [v]召集(軍隊) = *assemble*, 聚集/收集 = *collect* = *assemble*, 鼓起 = *summon* up [n]召集
 - **[mussel](/ˈmʌs(ə)l/)** [n]貽貝 <|> [muscle](/ˈmʌs(ə)l/)
@@ -4061,6 +4068,7 @@
 - peg [n]釘/栓/樁, 酒桶塞, 機車腳踏板, 等/級, 標定點, 腳, 強力投球/釘子球 [v]用木釘釘牢, 用夾子夾住, 用木樁標出, 投, 固定/限定, 歸類, **孜孜不倦地做某事**, **[have someone pegged]瞭解(某人)**
 - **_pelf_** [mn][古]錢財/不義之財 = *lucre*
 - **_pell-mell_** [adv/adj/n]凌亂/匆忙
+- pelican [n]鵜鶘
 - **pelt** [v]連續地投擲, 投擲 = *hurl*, **[down]傾盆**, [非]疾行 [n]生皮/毛皮, [非]頭髮
 - pen [n]筆, 寫作, **欄/圈**, 區, 母天鵝 [v]寫/作 = *write* = *compose*, 把(動物)關入圈, 一些動物, [up/in]把...關在
 - penmanship [n]書寫, 字跡/筆跡
@@ -4937,6 +4945,7 @@
 - **sash** [n]肩帶, 窗框
 - **_sassy_** [adj]莽撞的 = *cheeky* <-- saucy
 - **_saucy_** [adj]莽撞的, 活潑的/調皮的 = **pert**
+- saucer [n]茶托/淺碟, 淺碟形物
 - saunter [n/v]閒逛/漫步 = *stroll*
 - sausage [n]香腸, 香腸的碎肉
 - saw -> sawed -> sawed/sawn [n]鋸子/鋸條, 電鋸, 鋸齒狀部, **格言/諺語** = *proverb* = *maxim* [v]鋸, 用鋸子做成, 不整齊地切, 拉
@@ -4946,6 +4955,7 @@
 - **scab** [n]痂, 破壞罷工者/在罷工時工作的人 [v]結痂, 破壞罷工
 - **scad** [n]竹筴魚 = *jack*
 - **scads** [n][非]大量
+- scrawny [adj]瘦的/骨瘦如柴的, 小型的
 - scaredy-cat [n]膽小鬼
 - scaffold [n]斷頭臺/絞刑架, 鷹架 [v]搭鷹架
 - **scald** [v]燙傷, 煮沸, 用沸水燙 [n]燙傷 [mn]曬焦/灼枯
@@ -5059,6 +5069,7 @@
 - **[sheaf](/ʃiːf/)** [n]一捆/一束 [v]捆/扎/束 = *bundle*
 - sheath [n]鞘/套 = *scabbard* 
 - sheathe [v]將...插入鞘, 幫..裝封套
+- **shebang** [n]事務/狀況, 棚屋
 - **sheen** [n]光輝/光澤
 - shelf [n]架子, 沙洲/暗礁
 - shelve [v]把…放在架子上, 擱置, 裝擱板, (地面)逐漸傾斜 <-- shelf
@@ -5763,6 +5774,7 @@
 - tire [v]感到疲勞, [of]對..感到無聊 [n]輪胎 = *tyre*
 - tissue [n]細胞組織, 薄紙/棉紙, 面紙/衛生紙, 一連串
 - titanic [adj]巨人的 = *colossal*, 鈦的
+- tithe [n]什一稅 [v]向……徵收什一稅, 把..的十分之一交稅
 - titular [adj]有名無實的, 稱號的 <-- title
 - **tizzy** [n]興奮/慌亂
 - toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, **祝酒/敬酒** <|> boast
@@ -5782,6 +5794,7 @@
 - **topless** [adj]無頂的, 上空的/上身裸露的
 - topical [adj]有關時事的, 論題的, **[醫]局部的**
 - topple [v] (使)倒下/(使)倒塌, overbalance, 顛覆 = *overthrow*
+- **torpedo** [n]魚雷, 水雷, 甩炮, 油井爆破筒, 職業殺手, 潛艇三明治 [v]用魚雷襲擊
 - torrent [n]洪流/急流, 迸發/狂潮
 - **_tonsorial_** [adj]理髮師的/頭髮的 = *barber*
 - **_torso_** [n]軀幹
@@ -6052,6 +6065,7 @@
 - **virility** [n]男子氣概 = *manliness*
 - **_vis-a-vis_** [prep]對於/關於 = *with regard to*, 相較於 = *as opposed to* [n]相應的人面對面的談話
 - vixen [n]雌狐, 兇悍的女人
+- vole [n]田鼠
 - volley [v]齊發/群射 [n/v] (質問)迸發/連發, 截擊(球)
 - voluminous [adj]寬鬆的(衣物), (家具)大而舒適的, 冗長的, 著作多的 <-- volume
 - **_voluptuous_** [adj]令人愉悅的/令人舒服的 = *agreeable*, 性感的/撩人的 = *seductive* = *sultry* = *luscious*

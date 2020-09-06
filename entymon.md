@@ -8133,6 +8133,7 @@
 	- transplant [v]移植, 使移居/使移動 [n]器官移植手術, 被移植的器官, 移居者或物
 	- transplantation [n]移植, 移居/移動 
 	- transpose
+	- transvestite [n]異性裝扮癖者
 
 ## tain, tin, ten 拿著 = *hold*, keep
 + abstain [v]戒除 = *restrain* = *forbear*, 棄權(投票)
@@ -8817,6 +8818,8 @@
 + upheaval [n]動盪/劇變, 地殼隆起
 - uphill [adv]往上坡/往山上 [adj]向上的/上坡的, **艱難的/費力的** [n]上坡
 + **uphold** [v]贊成/確認 = *confirm* = *support*, 維護/維持(傳統或慣例) = *defend* <--> withhold
+- **upholster** [v]為(沙發、椅子等)裝上墊子
+- upholstery [n]傢具裝飾
 - **upkeep** [mn]保養/維修, 經濟或物資援助
 - upland, uplands [mn]高地/山地
 * uplift [n/v]舉起 = *raise*, 隆起 = *upheave*, 振奮/鼓舞

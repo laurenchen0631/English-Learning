@@ -598,6 +598,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - wild rice [n]菰米(一種北美產的野生草籽，常和大米一起食用)
 - salmon en croute [n]奶油鮭魚酥皮派/法式鮭魚千層酥派
 - filet mignon [n]菲力牛柳(是牛排的一種，為位於牛隻腰部的肉被認為是牛肉最嫩的部位)
+- Bibingka [n]比賓卡，是菲律賓聖誕節的傳統食品，是一種用糯米粉烤製而成的蛋糕
+- cassava [n]木薯/木薯粉
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1203,6 +1205,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - transponder [n]發射器/應答器
 - cuff link [n]袖扣
 - grass roller [n]草坪滾壓器
+- washi tape [n]和紙膠帶
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -1257,6 +1260,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Pringles [n]品客
 - Wite-Out [n]書寫塗改液/修正液的品牌
 - Toblerone [n]三角巧克力(一家瑞士巧克力棒品牌)
+- Zima [n]一種碳酸酒精飲料
+- Ritalin [n]立得寧(醫界廣泛使用的治療兒童過動病症藥物)
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel
