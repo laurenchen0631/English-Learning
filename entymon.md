@@ -774,9 +774,10 @@
 	+ **confirmed**
 	+ confiscate --> confiscation
 	+ conflate
-	+ confound [v]使困惑 = *baffle* = *perplex* = *confuse*, **證明(理論)為錯的**, **破壞(計畫)**, 混合 = *mingle* = *confuse* <|> profound <-- con + found 混合 = *mix*
+	+ confound [v]使困惑 = *baffle* = *perplex* = *confuse*, **弄錯** <|> profound <-- con + found 混合 = *mix*
 	* **[congeal](/kənˈdʒiːl/)** [v]凝結/凝固 = *solidify* = *coagulate* <-- con + geal 凍結 = *freeze*
 	+ **congenial**
+	- **congenital**
 	+ congruent
 	+ congruous --> congruity
 	+ conjecture 
@@ -825,7 +826,7 @@
 	- contractor
 	+ contribute --> contribution
 	+ contrite
-	+ **contumacious**
+	+ **_contumacious_**
 	- contusion [n]瘀傷 = *bruise* [v]碰傷/擦傷 = *bruise*
 	+ **convene** --> convention --> conventional
 	* covenant
@@ -934,7 +935,7 @@
 + precede [v]先於/早於 = *antecede*, 處在……之前, 引言/介紹 = *introduce* = *preface*
 + [precedent](/ˈprɛsɪd(ə)nt/) [n]先例/前例 [adj]先前的 <|> [president](/ˈprɛzɪd(ə)nt/)
 + precedence [mn]優先, 地位先後/級別高低
-- precession [n]進動/歲差(自轉物體之自轉軸又繞著另一軸旋轉的現象)
+- **precession** [n]進動/歲差(自轉物體之自轉軸又繞著另一軸旋轉的現象)
 * predecessor [n]前任/前輩, 原有事物
 - proceed [v]開始, 接續, **起訴**, 向前, 源於/出自 = *originate from*
 - **_proceeds_** [n]收益
@@ -1086,7 +1087,7 @@
 + indecisive
 - **[excise](/ˈɛksʌɪz/)** [n]貨物稅/國內消費稅/執照稅 [v]徵收, (手術)切除, 刪除(章節)
 - [exercise](/ˈɛksəsʌɪz/) [n/v]運動, 行使(權力) [n]活動/行動, 測驗/習題, 操練, 儀式 = *ceremony* [v]擔憂 = *worry* = *perplex*
-- incise [v]刻/雕, (手術)切 -->
+- incise [v]刻/雕, (手術)切
 - incision [n]切口/傷口, 雕痕/雕刻 [mn]切
 - incisor [n]門牙/前齒
 + **_incisive_** [adj]頭腦敏銳的/敏銳的 = *acute* = *sharp*, 銳利的 = *sharp*
@@ -1244,7 +1245,7 @@
 + concave [adj]凹的/凹面的 <--> convex
 * excavate [v]挖掘 = *dig*, 發掘/挖出(古物等) = *exhume* = *unearth*
 - cavity [n]洞穴, 腔, (病變形成的)空洞
-- cavern [n]岩洞, 深部 [v]挖空
+- cavern [n]岩洞, 深部 [v]挖空 <|> caveat
 
 ## chron 時間
 + anachronism [n]不合時代的人或物, 時代錯誤/年代誤植 
@@ -1340,14 +1341,14 @@
 + recrimination [n]反責/反控
 
 ## cult 培養/種植 = *care* for, inhabit, worship
-+ cultivate [v]栽培/種植/耕種 = *plow* = *till*, 培養/培育/養成 = *train* = *refine* = *nurture* = *educate*, 結交 
-- cultivable [adj]可耕作的/可種植的
++ cultivate [v]栽培/種植/耕種 = *plow* = *till*, 培養/培育/養成 = *train* = *refine* = *nurture* = *educate*, 結交
 - cultured [adj]有文化修養的, 人工培養的
+- cultivable [adj]可耕作的/可種植的
 - agriculture
 - mariculture
 
 ## carbo 碳
-- carb [n]化油器 = *carburetor*, 飲食中的碳水化合物
+- **carb** [n]化油器 = *carburetor*, 飲食中的碳水化合物
 - carbohydrate [n]碳水化合物
 - carbon [n]炭, 碳纖維, 碳化合物
 - carbonate [n]碳酸鹽 [v]使含二氧化碳, 使成碳酸鹽
@@ -1366,14 +1367,14 @@
 - **reincarnate** [v]轉世投胎, 以不同的形式出現 [adj]轉世抔胎的
 + **incarnate** [adj]化身的/體現的 = *personified* [v]賦於(靈體)以形體, 使具體化 = *embody*, 作為典型/代表
 - incarnation [n]化身
-+ **[incarnadine](/ɪnˈkɑːnədʌɪn/)** [adj]粉紅色的/肉色的 [v]染紅
++ **_[incarnadine](/ɪnˈkɑːnədʌɪn/)_** [adj]粉紅色的/肉色的 [v]染紅
 - carrion [n]腐肉
 
 ## carp, cerpt 挑選 = *pluck*
-+ carp [v]挑剔/吹毛求疵 = *quibble* = *cavil* [n]鯉魚
++ **carp** [v]挑剔/吹毛求疵 = *quibble* = *cavil* [n]鯉魚
 + carping [adj]吹毛求疵的/挑毛病的 = *censorious* = *faultfinding* = *persnickety*
 + carpet [n]地毯, 一層 [v]在…上鋪地毯
-- excerpt [n]摘錄/節錄/片斷
+- **excerpt** [n]摘錄/節錄/片斷
 
 ## carto 紙/圖 = *sheet*
 + cartography [n]製圖學
@@ -1441,7 +1442,7 @@
 + [choleric](/ˈkɒlərɪk/) [adj]易怒的/暴躁的 = *cantankerous*
 - [cholecystitis](/ˌkɒlɪsɪsˈtʌɪtɪs/) [n]膽囊炎
 - acholia [n]膽汁缺乏症
-* [melancholy](/ˈmɛlənkəli/) [mn]憂鬱, 憂鬱症 = *melancholia* [adj]憂鬱的 = *pensive* = *depressed* = *dismal* = *gloomy* = *somber* = *morose*, 令人悲傷的  <-- melan 黑 = *black* + chol + ly 
+* [melancholy](/ˈmɛlənkəli/) [mn]憂鬱, 憂鬱症 = *melancholia* [adj]憂鬱的 = *pensive* = *dismal* = *gloomy* = *somber* = *morose*, 令人悲傷的  <-- melan 黑 = *black* + chol + ly 
 - melancholic [adj]憂鬱的, 嚴重憂鬱症的
 
 ## cyst 囊
@@ -1468,7 +1469,7 @@
 - circulate [v]循環/流通/傳遞, (在聚會上)周旋, 流傳, 傳閱
 - circus [n]馬戲團, [非]鬧哄哄的情形/熱鬧的場面, 古羅馬的露天圓形競技場
 - circular [adj]圓形的/環形的, 供傳閱的 [n]傳單
-+ [circumlocution](/ˌsəːkəmləˈkjuːʃ(ə)n/) [n]轉彎抹角的說法 = *periphrasis*
++ [circumlocution](/ˌsəːkəmləˈkjuːʃ(ə)n/) [n]轉彎抹角的說法 = **periphrasis**
 - [circumference](/səˈkʌmfərəns/) [n]周圍, 圓周/周長
 + circumspect [adj]小心的/謹慎的 = *cautious* = *prudent* = *careful* = *discreet* = *judicious*
 - [circumstance](/ˈsəːkəmstans/) [n]情況/情形/形勢
