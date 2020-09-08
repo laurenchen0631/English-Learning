@@ -1695,7 +1695,7 @@
 	+ decry [v]公開譴責/抨擊 = *denounce* = *censure* = *condemn* = *excoriate* <|> decay <|> descry
 	+ **deduce** --> deductive --> deduction
 	+ **deduct**
-	+ default **[n/v]未履行責任/拖欠債務** [v][to]還原(預設值) [n]預設值, 標準 = *standard* <-- de + fault 錯誤 = *fail*
+	+ default **_[n/v]未履行責任/拖欠債務_** [v][to]還原(預設值) [n]預設值, 標準 = *standard* <-- de + fault 錯誤 = *fail*
 	+ defend --> defense, defence
 	* defile [v]弄髒 = *foul* = *sully* = *mar* = *spoil*, 褻瀆 = *desecrate* = *profane* **[n]山間小道** <-- de + file 卑鄙的 = *vile*
 	+ define --> definite --> definitive
@@ -1708,7 +1708,7 @@
 	- **demarcate** [v]設下界線, 區隔 <-- de + mark
 	- demarcation [mn]劃界 [n]分界/分界線
 	+ **demean** [v]羞辱/貶低 = *degrade* = *debase* = *belittle* = *insult*
-	- **demeanor** [n]舉動/行為 <--> misdemeanor
+	- **_demeanor_** [n]舉動/行為 <--> misdemeanor
 	- depend [v][on/upon]取決於, [on/upon]依靠
 	+ dependable [adj]可靠的 = *reliable* = *trustworthy*
 	* depict
@@ -1733,7 +1733,7 @@
 	- detonation [n]爆炸, 爆炸聲 = *explosion* <-- de + ton 雷 = *tunder* 
 	+ detract --> detraction --> detractor
 	+ detriment --> detrimental
-	+ devalue, devaluate [v]降低...的價值/貶值/貶低 = *depreciate* = *depress* = *downgrade* = *lower*
+	+ devalue, devaluate [v]降低...的價值/貶值/貶低 = *depreciate* = *depress* = *downgrade*
 	+ **devolve**
 
 2. 加強/一再/完全 = *intensive*, up == *a*
@@ -1748,7 +1748,7 @@
 	+ desiccate --> desiccated
 	+ detail
 	+ deter --> deterrent
-	- **degust**
+	- **_degust_**
 	+ **desist**
 	+ devastate [v]摧毀/破壞 = *ravage* = *lay waste* = *desolate*, 壓倒/使悲痛 <-- de + vast 破壞 = *lay* waste + ate
 	+ devote --> devoted --> devotee --> devotion --> devotional
@@ -1762,7 +1762,7 @@
 	- decriminalization [n]合法化/除罪化
 	- de-emphasize [v]降低..重要性
 	+ **defalcate** [v]挪用公款 = **peculate** = *misappropriate* = **embezzle**
-	+ defame [v]詆毀/誹謗 = **libel** = *malign* = *slander* = *calumniate* = **denigrate** = **disparage** = *smear* = *vilify*
+	+ defame [v]詆毀/誹謗 = **libel** = *malign* = *slander* = **denigrate** = **disparage** = *vilify*
 	+ defamatory [adj]誹謗的/詆毀的 = *calumnious*
 	- deface
 	+ defeat
@@ -1793,9 +1793,9 @@
 	- **_deport_** [v]遣返 = *repatriate*, 流放 = *exile* = *expel* 
 	- deportation [mn]遣返
 	+ deprive --> deprivation
-	- deprecate
+	- **_deprecate_**
 	- deracinate [v]根除 = *uproot* = *extirpate* <-- de + racin 根 = *root* + ate
-	- derail [v]出軌, 阻撓
+	- derail [v]出軌, **阻撓**
 	- deregulation [n]撤銷管制
 	* **_derogate_**
 	- desert
@@ -1841,7 +1841,7 @@
 	- disconcert
 	* discompose
 	* **discombobulate** [v]使困惑/使不安 = *confuse* = *disconcert* = *frust* <-- discompose
-	- **disconsolate** [adj]憂鬱的/哀傷的
+	- **_disconsolate_** [adj]憂鬱的/哀傷的
 	+ discontent [n]不滿 [adj]不滿的 [v]不滿
 	+ discontentment [n]不滿
 	+ discord
@@ -3362,7 +3362,7 @@
 - **_gusto_** [n]愛好/嗜好
 + **gustatory** [adj]味覺的/品嚐的
 + gustation [n]味覺/品嚐 <-- gust 品嚐 = *taste* + atory
-- **degust** [v]品嚐
+- **_degust_** [v]品嚐
 
 ## geronto, geront 老人 = *old* man
 - gerontocracy [n]老人政府
@@ -8379,7 +8379,7 @@
 ## test 證明/目擊 = *witness* == *prob*
 + attest [v]證實/證明為真/作為…的證明 = *authenticate* = *corroborate* = *substantiate* = *vindicate*, 徵兵
 + contest [v]競爭, 參加, 駁斥/質疑 [n]比賽/競賽, 競爭/爭執 <|> content
-- **_detest_** [v]憎恨/厭惡/討厭 = *hate* <|> **testy**
+- **_detest_** [v]憎恨/厭惡/討厭 = *hate* <|> **testy** <|> **degust**
 - testament [n]**遺囑**, 證明/證據, **聖約**, 舊約聖經, 新約聖經
 - **testator** [n]立遺囑的人
 - testify [v]作證, 作為…的證明 = *attest*

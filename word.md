@@ -4415,7 +4415,7 @@
 - racquetball [n]短網拍牆球/壁球
 - racy [adj]活潑的/生動的 = *amusing*, 美味的, (交通工具或動物)用於競賽的 <-- race
 - radioactive [adj]放射性的
-- **_radish_** [n]蘿蔔, 小蘿蔔 <|> *redish*
+- **_radish_** [n]蘿蔔, 小蘿蔔 <|> *reddish*
 - radius [n]半徑/半徑距離/半徑範圍, 橈骨, (動物)徑骨, (昆蟲)徑脈
 - **_raffle_** [n]獎券銷售/公益抽獎 [v]用對獎方法銷售
 - rafter [n]椽, 乘木筏的人
@@ -4473,7 +4473,7 @@
 - rib [n]肋骨, 傘骨, **玩笑** [v]**戲弄/取笑**
 - ribbing [n]肋骨狀組織/羅紋, [非]善意的戲弄/逗弄 = *banter* = *raillery*
 - **_rickety_** [adj]搖搖欲墜的/要散架的 = **ramshackle**, 軟骨病的
-- **_ricochet_** [n/v] (子彈)跳彈, 彈開 <|> **ratchet**
+- **_ricochet_** [n/v] (子彈)跳彈, 彈開 <|> **ratchet** <|> **crochet**
 - ride -> rode -> ridden [v][out]從...中撐過/倖存
 - rider [n]**附文/附件**, 騎手
 - ridge [n]脊/隆起部, 田壟, [氣]高壓脊 [v]使成脊狀
@@ -4505,14 +4505,14 @@
 - **rogue** [n]搗蛋鬼/調皮鬼, 無賴/流氓/惡棍, **兇猛的離群獸**, **(農作物)劣種** [v]去劣/去雜(農作物)
 - **roil** [v]徹底攪拌/攪渾, 使焦急
 - roll [v]滾動, 轉, 運轉/啟動, 移動, 捲/滾搓, 擀平/碾平, 隆隆作響/轟轟響, (聲音)顫動, [out]推出, **[around]開始/發生** = *happen*, [in]到來 = *arrive* [n]一捲, 滾動, 隆隆聲, 麵包捲, 名單/名冊, 地表起伏
-- **rollicking** [adj]喧鬧嬉戲的/歡鬧的 [n][非]斥責
+- **_rollicking_** [adj]喧鬧嬉戲的/歡鬧的 [n][非]斥責
 - rollover [v][經]轉讓, 累積獎金, [非]翻車
-- **_romp_** [n/v]玩耍 = *frolic* = *lark* = *gambol*, [非]不費力地達成
+- **romp** [n/v]玩耍 = *frolic* = *lark* = *gambol*, [非]不費力地達成
 - rookie [n][非]新兵
 - roomie [n]室友
 - roast [v]烘烤, 烘暖, [非]嚴厲批評/痛斥 [adj]烘烤的 [n]烤肉, 烘烤/烘培, 烘培咖啡, 野外烤肉聚會
 - romaine [n]蘿蔓萵苣
-- **roost** [n]鳥巢 [v]棲息/歇息
+- roost [n]鳥巢 [v]棲息/歇息
 - **ropy** [adj]似繩索的, **強壯的** = *muscular*
 - **roster** [n]執勤人員表
 - **rostrum** [n]講台/講壇 = *podium*, 攝影機架, 喙
@@ -4520,7 +4520,7 @@
 - rotisserie [n]旋轉烤肉架, 烤肉店
 - rotogravure [n]照相輪轉凹版
 - rotten [adj]腐爛的, 腐敗的 = *corrupt*, [非]糟糕的, [非]令人不悅的, [非]不舒服的 = *unwell* [adv]非常
-- **_rotunda_** [n]圓形建築/圓形大廳
+- **rotunda** [n]圓形建築/圓形大廳
 - roulette [n]輪盤賭, 騎縫孔
 - round [adj]圓的, 球形的, 圓胖的 = *plump*, (聲音)圓潤的 = *mellow*, 整數的, 大約的, 直率的 = *frank* [n]一圈, 一輪, 一回合, 一連串的事情/一系列的事件, 一巡(飲料), 輪唱曲/輪唱歌, 一發(彈藥) [v]繞過/繞行, 約略(數字), 使變圓, **[out]完成**, **[on]抨擊**, **[up]聚集**, [up]逮捕
 - round-the-clock [adj]全天候的
@@ -4612,7 +4612,7 @@
 + serenity [mn]平靜/寧靜
 + serpentine [adj]像蛇的, 蜿蜒的, 陰險的 [n]蛇紋石 [v]像蛇般行進
 + shackle [n]腳鐐/枷鎖 = *fetter*, 束縛, 鉤環 [v]給……帶上鐐銬, 抑制/束縛 = *restrain* = *limit* = *fetter*
-+ **sham** [n]騙局, 騙子/冒牌貨 [mn]虛偽/做作 = *pretense* = *affectation*, 枕頭套 = *pillow* sham [adj]虛假的 = *spurious* = *bogus* = *pretended* = *counterfeit* = *feigned* = *mendacious* = *false* [v]假裝 = *pretend* = *feign* <|> shun
++ **sham** [n]騙局, 騙子/冒牌貨 [mn]虛偽/做作 = *pretense* = *affectation*, **枕頭套** = *pillow* sham [adj]虛假的 = *spurious* = *bogus* = *pretended* = *counterfeit* = *feigned* = *mendacious* = *false* [v]假裝 = *pretend* = *feign* <|> shun
 + shard [n]碎片/陶器碎片 = *fragment*
 + share [n]一份 = *portion*, 貢獻, 股份/股票 [v]分享/共有
 + sharpen [v]削尖, [up]改善 = *improve*
@@ -4711,8 +4711,8 @@
 + **stint** [v]節省/節制 = *economize* = **scant** <--> unstinting [n]分配的工作, 工作期間, 濱鷸
 + stunt [v]妨礙生長, 表演特技 [n]驚人的表演/驚險動作, 引人注目的花招/噱頭
 - **stilt** [n]高蹺, 支撐物/支柱, 長腳鷸
-+ **stilted** [adj]生硬的
-+ stipend [n]薪俸/津貼
++ **_stilted_** [adj]生硬的
++ **stipend** [n]薪俸/津貼
 + stipulate [v]規定/約定 = *specify* = *contract* [adj]有托葉的  <-- stipul 堅定 = *firm* + ate
 + stipulation [n]規定/約定
 + **stodge** [mn]易使人飽的食物, 乏味無趣的東西 
@@ -4825,7 +4825,7 @@
 * **[sleight](/slʌɪt/)** [mn]狡詐, [sleight of hand]花招/手腕 <|> [slight](/slʌɪt/)
 * sling -> slung -> slung [n]吊索, [醫]吊腕帶, (背嬰兒的)背兜, 投石器/彈弓, 甜酒 [v]吊起/吊掛, 擲/扔 = *hurl*
 * **slink -> slunk -> slunk** [n/v][off/away/by]溜走/偷偷摸摸地走
-* slinky [adj]緊身的, 鬼鬼祟祟的
+* slinky [adj]**緊身的**, 鬼鬼祟祟的
 * slur [v]口齒不清地說, 含糊帶過, [音]連唱/連奏, 誹謗/詆毀 = *slander* [n]汙辱/毀謗, 含糊的發音, [音]連音線
 * sly [adj]狡猾的/狡詐的 = *shifty* = *cunning* = *crafty* = *wily*, 悄悄的/鬼鬼祟祟的 = *surreptitious* = *stealthy* = *furtive*
 * smack [n]掌摑, 劈啪聲, 響吻, **[of]跡象** [v]捆/打, 咂(嘴), **[of]帶有…意味/帶有…跡象** [adv]直接地 = *directly*
@@ -4928,8 +4928,8 @@
 - saliva [mn]唾液/口水
 - salmon [n]鮭魚, 鮭肉色
 - **salute** [n]敬禮/致意 [v]向……行禮/向……致敬, 招呼/問候 = *greet*, 讚揚/尊敬 <|> salutary
-- **[saute](/ˈsəʊteɪ/)**, sauté [v]嫩煎 [n]嫩煎菜餚 [adj]嫩煎的
 - salutation [n]招呼/問候/道別, 信函開頭的/稱呼語
+- **[saute](/ˈsəʊteɪ/)**, sauté [v]嫩煎 [n]嫩煎菜餚 [adj]嫩煎的
 - **[salve](/salv/)** [n]軟膏/藥膏 = *balm* = *ointment*, 緩解物 = *balm* [v]緩解/減輕 = *soothe* <|> slave
 - **salvo** [n] (槍砲或禮砲)齊射 = *barrage* = *fusillade*, 一齊/一片(巨大的聲響)
 - sample [n]樣品, 樣本 = *specimen*, 調查的樣本, 選錄的歌曲片段 [v]抽樣檢查, 品嚐 = *taste*, 體驗/嘗試, 節錄/選錄
@@ -5046,7 +5046,7 @@
 - serf [n]農奴 
 - serfdom [mn]農奴身分/農奴制 
 - serial [adj]連續的/一連串的, 連環的(犯罪), [音]音列的, (資訊傳送)串列的 [n]連續劇/連載故事, 期刊 = *periodical*
-- **settee** [n]小型沙發, 有靠背的長椅
+- **[settee](/sɛˈtiː/)** [n]小型沙發, 有靠背的長椅
 - sever -> severed -> severed [v]切斷 <|> severe 
 - severance [mn]關係斷絕, **解僱** = *dismissal* = *discharge*, **遣散費**, 切斷
 - sewer [n]排水溝/下水道, 縫紉工
@@ -5064,7 +5064,7 @@
 - shambles [n]混亂/凌亂, 屠宰場
 - sharecrop [v]作佃農耕種
 - sharp-eyed [adj]洞察力敏銳的 = *perceptive* = *observant*
-- **shavings** [mn]刨 [n]刨片
+- shavings [mn]刨 [n]刨片
 - shear -> sheared -> sheared/shorn [v]修剪(羊毛), 斷裂 [n][物]切變
 - **[sheaf](/ʃiːf/)** [n]一捆/一束 [v]捆/扎/束 = *bundle*
 - sheath [n]鞘/套 = *scabbard* 
@@ -5096,12 +5096,12 @@
 - shoulder [n]肩, 肩部, 上背部, 肩膀/重擔, 路肩 = *hard shoulder* [v]擔負/承擔, 用肩推
 - shout-out [n]公開表達致意
 - **shove** [v]推/擠過, 猛推, 隨意放 [n]推
-- **shovel** [n]鏟子, 一鏟子的量 [v]用鏟鏟起, 把(通常指食物)扔進或塞進
+- shovel [n]鏟子, 一鏟子的量 [v]用鏟鏟起, 把(通常指食物)扔進或塞進
 - showboat [n]演藝船, 好自我表現者 [v][非]賣弄/炫耀 = *show* off
 - showcase [n]玻璃陳列櫃, 供亮相的地方 [v]展示 = *display* = *exhibit*
 - showdown [n]最後的一決雌雄
 - shower [n]陣雨, 一陣, 一大批/大量, 淋浴間, 淋浴器, 淋浴, 送禮會 [v]陣雨般落下, 淋浴, [with]用大量的..丟.., [with/on/upon]給..很多的...
-- **_[shred](/ʃrɛd/)_** [n]碎布, 些許/少量 [v]撕碎/剪碎
+- **[shred](/ʃrɛd/)** [n]碎布, 些許/少量 [v]撕碎/剪碎 <|> shed
 - shriek [v]尖叫, 促人注意 [n]尖叫 = *scream*, [非]驚嘆號
 - **_shrill_** [adj]尖聲的/刺耳的, 刺眼的 [v]尖聲/尖叫
 - shrimp [n]小蝦, [非]矮個子
@@ -5111,8 +5111,8 @@
 - shrub [n]灌木 <|> scrub
 - shuck [n]植物的殼/莢 = *hull*, 蚌殼 = *shell*, 蛹殼 = *shell* = *integument*, [非]無用之物 [v]剝…的殼, [非]脫掉(衣服), [非]擺脫 = *get* rid of, 戲弄 = *tease* = *fool*
 - shutoff [n]關閉器 [mn]停止/中斷 = *cessation* = *cessation*
-- **_shudder_** [n/v]顫慄/發抖
-- **_shunt_** [v]使(火車)轉軌,裝上分流器 [n]分流器, (身體裡可讓液體流動)的通路
+- shudder [n/v]顫慄/發抖
+- **_shunt_** [v]使(火車)轉軌, 裝上分流器 [n]分流器, (身體裡可讓液體流動)的通路
 - shush [v]噓/要某人安靜
 - shitter [n]廁所
 - shutter [n]百葉窗, 快門/遮光器, (風琴等的)開閉器 [v]關上……的百葉窗, 停止(營業)
@@ -5137,10 +5137,10 @@
 - silicone [n]矽氧聚合物/硅酮/矽膠
 - **[silhouette](/ˌsɪlʊˈɛt/)** [n]黑影輪廓像/剪影 [v]成黑色輪廓
 - **sill** [n]門檻/窗台, (木造建築的)底木, 岩床/海底山脊
-- slim -> slimmer -> slimmest [adj]苗條的 = *slender*, 細長的, **渺茫的** = *faint* [v]減肥 **[n]瘦病/愛滋病**
-- slimeball [n]虛情假意的人/假惺惺的人
+- slim [adj]苗條的 = *slender*, 細長的, **渺茫的** = *faint* [v]減肥 **[n]瘦病/愛滋病**
+- **slimeball** [n]虛情假意的人/假惺惺的人
 - silt [mn]泥沙/淤泥 [v]使淤塞
-- silver [n]銀, 銀色, 銀器, (任何材質的)餐具, 銀幣, 銀牌 [adj]銀的/銀色的 [v]鍍銀於, (月亮)使有銀色光澤, 使(頭髮)灰白
+- silver [n]銀, 銀色, 銀器, (任何材質的)餐具, 銀幣, 銀牌 [adj]銀的/銀色的 [v]鍍銀於, (月亮)使有銀色光澤, 使(頭髮)灰白 <|> **sliver**
 - silversmith [n]銀匠
 - **silviculture** [n]造林
 - simmer [v]煨/燉, 即將爆發, [down]冷靜 [n]即將沸騰狀態
@@ -5158,9 +5158,9 @@
 - skew [adj]歪斜的 = *askew* = *crooked* [n]傾斜 = *slant*, 偏好 = *bias* [v]使歪斜/歪曲, 歪曲/扭曲
 - skewer [n]烤肉叉 [v]串起, **[非]遭到嚴厲的批評**
 - skyrocket [n]衝天火箭 [v][非]猛然上漲
-- **_skiff_** [n]輕舟/小船
-- **_skillet_** [n]煎鍋 = *frying pan*
-- **skimp** [v]對……不夠用心, 節儉/節約 <|> shimp
+- **skiff** [n]輕舟/小船
+- **skillet** [n]煎鍋 = *frying pan*
+- **_skimp_** [v]對……不夠用心, 節儉/節約 <|> shimp
 - skimpy [adj]短而暴露的, 缺乏的/不足的 = *scanty*
 - skirmish [n]小規模戰鬥/小衝突, 小爭執 [v]進行小規模戰鬥/進行小爭論
 - **_skit_** [n]小短劇 <|> **skittish**
@@ -5176,7 +5176,7 @@
 - slather [v]厚厚塗一層/大量塗抹 [n][非]大量
 - slaughter [n/v]宰殺, 屠殺, 使慘敗
 - **_sleaze_** [n]廉價 = *cheapness* = *tackiness* = **tat**
-- **_sleazy_** [adj]齷齪的, 廉價的 = *flimsy* = *squalid*
+- sleazy [adj]**齷齪的**, 廉價的 = *flimsy* = *squalid*
 - sleepover [n]在朋友家過夜
 - **sleet** [n]凍雨/雨夾雪 [v]下凍雨/下雨夾雪
 - sleeve [n]袖子, 唱片套子, 風向袋 = *windsock*, (飛機)套筒/套管
@@ -5198,7 +5198,7 @@
 - slowpoke [n]慢動作的人
 - **_[slouch](/slaʊtʃ/)_** [v]沒精打采地站(坐或走) = *loll*, (帽簷)下垂 [n]無精打采的姿勢, 笨拙的人, 下垂
 - **_[slough](/slaʊ/)_** [n]沼澤 = *swamp*, 停滯
-- **_[slough](/slʌf/ )_** [n]脫皮 [v][off]蛻(皮) = *shed*, [off]擺脫 = *get rid of *
+- **_[slough](/slʌf/ )_** [n]脫皮 [v][off]蛻(皮) = *shed*, [off]擺脫 = *get rid of*
 - sloven [n]散漫的人 
 - **_slovenly_** [adj]邋遢的 = *shabby* = *untidy*
 - slowdown [n]減緩, (經濟)衰退
@@ -5214,38 +5214,38 @@
 - **slurry** [n]泥漿 <|> **flurry**
 - **slush** [n]融雪, **[slush piles]一疊手稿** [v]發出噴濺聲
 - slut [n]懶婦/蕩婦
-- **smarmy** [adj][非]討好的/拍馬屁的 = *ingratiating* = *wheedling*
+- **_smarmy_** [adj][非]討好的/拍馬屁的 = *ingratiating* = *wheedling*
 - smart [adj]時髦的 = *stylish*, [非]聰明的 = *intelligent*, **缺乏尊重的**, 智慧的/自動的(裝置), 輕快的/敏捷的 = *brisk* [v]感到刺痛, 感到不快/憤怒 [mn]刺痛, [非]聰明/精明 = *acumen* = *intelligence*
 - smash [v]粉碎/打碎, 擊潰/擊毀, 殺球, 破產 [n]打碎/粉碎, 猛撞/猛擊, 殺球, **成功** [adv]轟隆一聲地
 - smidgen, smidge [n][非]少量
 - smiley, smily [n]笑臉符號 [adj]微笑的
-- smite -> smote -> smitten [v]重擊/猛打, (疾病)侵襲, [be smitten]使神魂顛倒
+- smite -> smote -> smitten [v]重擊/猛打, (疾病)侵襲, **[be smitten]使神魂顛倒**
 - **smithereen** [v]把......擊碎
 - **smithereens** [n]碎片
-- smock [n]罩衫
+- **smock** [n]罩衫
 - smoke [v][smoke someone out]迫使(某人)離開藏身處
-- smoker [n]吸菸者, 吸菸車廂, 薰製場/燻製工人, 男子的輕鬆的非正式社交聚會, 薰蜂巢的裝置
+- smoker [n]吸菸者, 吸菸車廂, 薰製場/燻製工人, **男子的輕鬆的非正式社交聚會**, 薰蜂巢的裝置
 - smoky [adj]煙霧彌漫的, 冒煙的, 菸灰色的, 煙燻味的
 - smolder [v]悶燒, 怒火中燒, 暗中持續存在 [n]悶燒
 - snag [n]**意料不到的障礙/潛在的缺點**, 尖銳的凸出物, 衣物的破洞 [v]鈎破/掛破, **[非]快速尋獲/抓住** = *obtain* = *catch*
-- snazzy [adj]時髦的 = *fashionable* = *stylish*
+- **snazzy** [adj]時髦的 = *fashionable* = *stylish*
 - snare [n]陷阱/羅網, 圈套/誘惑, (鼓的)響弦 [v]用陷阱捕捉, 抓到 = *catch* = *trap*
 - **_snarl_** [n/v] (動物或人)咆哮 [v][up]使…交纏 = *entangle*, [up]妨礙 = *hinder* = *impede* [n]結 = *knot* <|> gnarl
 - sneaker [n]運動鞋
 - sneaking [adj]秘密的/不公開的, 偷偷摸摸的/鬼鬼祟祟的 = *furtive*
-- sneer [n/v]嘲笑/譏諷 = *scorn* = *mock* 
+- **sneer** [n/v]嘲笑/譏諷 = *scorn* = *mock* 
 - snap [v]突然折斷, 劈啪地響, 啪地關上或打開, (動物)咬, **突然崩潰/理智斷線**, **[at]厲聲說**, 拍快照 [n]劈啪聲, 急湊的態度或音調, 快照, 寒流, [非]輕鬆的工作, (橄欖球)開球, 子母扣 [mn]**熱情** = *zest*, 零嘴 **[adj]匆忙的/不加思索的**
 - snappy [adj][非]厲聲說話的, **[非]精確的/簡潔的** = *neat* = *concise*, **優雅的** = *elegant*
-- snapper [n]真鯛, 擬鱷龜 = *snapping* turtle, 紙甩炮　= paper cracker
+- snapper [n]真鯛, 擬鱷龜 = *snapping* turtle, 紙甩炮 = paper cracker
 - **snip** [v]剪斷 [n]剪, 剪下的小片, **價廉物美之物** = *bargain* = **steal**, (剪金屬的)平頭剪/鐵絲剪, **不足道的人**
 - snippet [n]片斷
 - sniff [v]嗅/聞, [非][around/round]搜索, [非][out]調查後發現 [n]嗅聞聲, 吸入量, **[非]徵兆** = *sign*, [非]些微的機會
 - sniffle [v]抽鼻子/吸鼻子 [n]鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
 - **snitch** [v][非]偷, [非]告密 [n][非]告密者 <|> **stitch**
-- **snooty** [adj]自大傲慢的 = *arrogant* = *conceited*
+- **_snooty_** [adj]自大傲慢的 = *arrogant* = *conceited*
 - snooze [n/v]打盹
 - **snorkel** [n]潛艇換氣裝置/呼吸管 [v]帶呼吸管潛水
-- **_snort_** [n]鼻息聲/噴氣聲, [非]一口(吸入性毒品), [非]一口(烈酒) [v]噴鼻息, [非]吸(毒品)
+- **snort** [n]鼻息聲/噴氣聲, [非]一口(吸入性毒品), [非]一口(烈酒) [v]噴鼻息, [非]吸(毒品)
 - **snout** [n]口鼻部, 鼻子 [n]菸草, 螟蛾 = *snout moth*
 - snowdrift [n]雪堆
 - **sonorous** [adj]洪亮的, 能發出響亮聲音的, 鏗鏘有力的/語調誇張的
@@ -5268,7 +5268,7 @@
 - somersault [n/v]翻筋斗
 - sop [n]**小賄賂/巴結用的物品**, 用來沾醬或湯的麵包 [v][up]吸(液體)
 - sopping [adj]吸飽水的
-- sophomoric [adj]二年級的, 不老練的
+- sophomoric [adj]二年級的, **不老練的**
 - sore [adj]痛的, [非]惹人生氣的 = *upset* = *angry*, 極度的/劇烈的 = *severe* = *urgent* [n]痛處, 痛處/傷心事 <|> sole
 - sorority [n]女生聯誼會/姐妹會
 - **sought-after** [adj]熱門的/廣受歡迎的
@@ -5339,7 +5339,7 @@
 - **sprightly**, **spritely** [adj]生氣勃勃的 <|> **spry**
 - spring -> sprang -> sprung [v]彈起/彈開, [from]源自 = *originate* from, [up]突然出現/湧現, (木頭或船)開裂/破裂 [n]春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
 - springboard [n]跳板
-- **spry** [adj]充滿活力的 <|> spray
+- **_spry_** [adj]充滿活力的 <|> spray
 - **spunky** [adj]勇敢的/頑強的 = *plucky*
 - **[sputter](ˈspʌtə/)** [v]發劈啪聲, 急敗壞地說, **勉強進行** [n]噴濺聲/劈啪聲
 - squad [n]小隊, 班/小組, 運動隊, 小組, 親友圈
@@ -5409,7 +5409,7 @@
 - straggler [n]走散的人/離群的動物
 - strait [n]海峽, **困境/危難** **[adj]嚴峻的**
 - **straitened** [adj]貧窮的/拮据的, 狹窄的
-- **strait-laced** [adj]古板的/拘謹的 = *starchy* = *stuffy*
+- **strait-laced** [adj]古板的/拘謹的 = **starchy** = **stuffy**
 - strand [v]使擱淺, 使處於困境 [n]股/縷/絞/線/繩
 - stranded [adj]擱淺的, 進退兩難的
 - strange [adj]奇怪的 = *extraordinary* = *fantastic* = *bizarre* = *freakish* = *grotesque* = *outlandish* = *peculiar*, 不舒服的 = *unwell* = *ill*, 陌生的/生疏的 = *unfamilar*
@@ -5477,7 +5477,7 @@
 - swine [n][非]下流坯子, 豬　= pig
 - swing -> swung -> swung [v]搖擺, 擺動, 大搖大擺地行走, 轉向/轉身, 有節奏地搖搖擺擺地走, 使擺動, 揮舞, 揮動, 猶豫/搖擺, 對..有決定性的影響, 成功導致, 演奏, 被演奏, 交換性伴侶, 令人興奮/歡快熱鬧 [n]鞦韆, 盪鞦韆, 搖擺, 擺動, 揮拳, 揮動方式, 改變, 搖擺樂, 韻律/音律, 巡迴
 - [swirl](/swəːl/) [v]打旋/旋轉, 使打旋 [n]漩渦/漩渦狀物, 打旋/旋轉  <-- whirl
-- **switchback** [n]Z字形的山路/急轉彎的路, 雲霄飛車 = *roller coasterv
+- **switchback** [n]Z字形的山路/急轉彎的路, 雲霄飛車 = *roller coaster*
 - **swoon** [n/v]昏厥/昏倒 [v]狂喜/心醉神迷
 - swoop [v]俯衝/飛撲 [n]突然襲擊, 俯衝
 - **swoosh** [n]嗖嗖聲 [v]發出嗖嗖聲
