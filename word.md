@@ -4999,10 +4999,10 @@
 - screening [n]電影放映, 評估/檢查, 殘渣/碎屑
 - screw [n]螺絲, 螺栓, 螺旋槳, 轉/擰, 監獄看守人, 性關係, 性伴侶 [v]用螺絲固定, 旋/擰, 被螺絲固定, 與..發生性關係, 敲詐, **身處嚴重的問題/有麻煩**, [around/round]轉頭/轉身, **[out of]逼...交出/向...勒索**
 - screwdriver [n]螺絲起子
-- scrivener [n]代書/書記
+- **scrivener** [n]代書/書記
 - scroll [n]捲軸, 畫卷, 渦捲形裝飾 [n/v]滾動
 - **_scrounge_** [n/v][非]白要/不勞而獲 = *cadge* = *sponge*, [up]搜尋/四處尋找(食物) <|> **scourge**
-- **scrub** [v]用力擦洗, 擦洗, 取消/中止, 沖掉, [away]徹底清洗, [up]手術前洗手 [n]磨砂膏, 手術袍, 矮樹叢/灌木叢, 灌木叢地, 渺小之人, 洗滌器, 非正式的比賽 [adj]矮小的, 劣等的 <|> shurb
+- **scrub** [v]擦洗, **取消/中止** [n]矮樹叢/灌木叢 [adj]劣等的 <|> shurb
 - scrubby [adj]矮小的, 灌木叢生的
 - **_[scrumptious](/ˈskrʌm(p)ʃəs/)_** [adj]非常好吃的
 - scuba [n]水肺 [mn]水肺潛水 = *scuba* diving
@@ -5023,7 +5023,7 @@
 - [seal](/siːl/) [n]封條, 浮水印, 封蠟/印章, 圖章, 誓約/象徵, **海豹** [v]封/密封, 護貝, **快速高溫油炸**, 確定/決定, 蓋章/蓋印於
 - sear [v]燒焦/燒灼 = *scorch*, 烙印(記憶), 高溫快煎, (痛苦)燒灼 [adj]乾枯的 = **sere**
 - second-string [adj]二線的, 替補的/候補的
-- **sere** [adj]乾枯的
+- **_sere_** [adj]乾枯的
 - **seedy** [adj]骯髒的/下流的 = **seamy**, 破舊的/襤褸的
 - seedling [n]幼苗
 - **seep** [v]滲漏 [n]滲漏處 <|> peep <|> weep
@@ -5036,13 +5036,13 @@
 - self-righteous [n]自以爲是的
 - self–styled [adj]自稱的
 - sepia [n] (舊時照片)紅褐色/深褐色, 烏賊墨
-- septum [n]膈膜, 隔板
+- **septum** [n]膈膜, 隔板
 - **sepulcher** [n]墳墓/墓穴 [v]埋葬, 作為..的葬所
 - sepulchral [adj]墳墓的/埋葬的, 陰鬱的 = *gloomy* = *dismal*
 - [sequel](/ˈsiːkw(ə)l/) [n]續集/續篇, 餘波 = *aftermath*
-- sequester [v]使隔離/使隱退 = *isolate* = *seclude* = *hide away*, 扣押/充公 = *sequestrate* [n](政府)砍預算
-- sequestrate [v]扣押/充公 = *confiscate*, 宣告..破產
-- sequoia [n]紅杉
+- sequester [v]**使隔離/使隱退** = *isolate* = *seclude* = *hide away*, 扣押/充公 = *sequestrate* [n] (政府)砍預算
+- sequestrate [v]扣押/充公 = *confiscate*, **宣告..破產**
+- **sequoia** [n]紅杉 <|> sepia
 - serf [n]農奴 
 - serfdom [mn]農奴身分/農奴制 
 - serial [adj]連續的/一連串的, 連環的(犯罪), [音]音列的, (資訊傳送)串列的 [n]連續劇/連載故事, 期刊 = *periodical*
@@ -5150,7 +5150,7 @@
 - **sip** [v]小口喝/啜飲 [n]一小口 <|> **sop**
 - siphon, syphon [n]虹吸管, 虹管 [v]用虹吸管吸出, (非法)輸送
 - siren [n]汽笛/警報器, 塞壬, 妖婦, 鰻螈
-- sissy [n]膽小的男子 [adj]娘娘腔的/柔弱的
+- **sissy** [n]膽小的男子 [adj]娘娘腔的/柔弱的 <|> **sassy**
 - **sizable** [adj]相當大的/相當的
 - sizzle [v] (熱油)發嘶嘶聲, [非]發燙, **[非]興奮** [n]嘶嘶聲, [非]興奮
 - skeleton [n]骨骼/骨架, 骨瘦如柴的人, 殘骸, 框架/架構, 俯式冰橇
@@ -5279,6 +5279,7 @@
 - span [n]長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 [v]橫跨, (時間)持續/跨越 [adj][spick and span]整潔的/乾淨的
 - spin -> spun -> spun [v]使旋轉, 擲(硬幣) = *toss*, 烘乾, 紡, 編造/虛構, [off]分拆(公司) [n]旋轉, 飛機盤旋下降, 兜風, 詮釋
 - spinster [n]**未婚女人/老處女**, 從事紡織的女子
+- **spinoff** [n]副產品, 衍生作品 
 - **_spangle_** [n]閃爍發光之物, 光點 [v]用閃光飾物裝飾
 - **_spank_** [v]打/拍打(屁股) = **larrup** = *paddle*
 - **spandex** [n]彈性人造纖維
@@ -5304,8 +5305,6 @@
 - spew [v]大量排放 [n/v][非]嘔吐 = *vomit*
 - spike [n]長釘/大釘
 - spill -> spilled/spilt -> spilled/spilt [v] (使)溢出/濺出, 流出 [n]溢出的東西, 溢出/濺出, 水道, **驟降/暴跌**, 洩漏 = *divulge*
-- spin -> spun -> spun [v]使旋轉, 擲(硬幣) = *toss*, 烘乾, 紡, 編造/虛構 [n]旋轉, 飛機盤旋下降, 兜風, 詮釋, [off]分拆, [out]車輛打滑
-- **spinoff** [n]副產品, 衍生作品 
 - spinach [n]菠菜
 - spindle [n]紡錘/紡錘體, 杆/軸, 紡錘體
 - spindly [adj]細長的, 脆弱的(結構) <-- spin
@@ -5456,7 +5455,7 @@
 - [supper](/ˈsʌpə/) [n]晚餐/晚飯
 - surge [n/v]湧現/奔湧, 遽增, 增兵, (情感)湧起/翻湧
 - surgeon [n]外科醫師, 軍醫/船醫
-- **suss** [v]**[out]意識到/明白/發現**
+- **suss** [v]**[out]意識到/明白/發現** <|> **sussy**
 - **[suture](/ˈsuːtʃə/)** [n]傷口縫線 [n/v]縫合 <-- sew
 - **[sutra](/ˈsuːtrə/)** [n]佛經
 - **[svelte](/svɛlt/)** [adj]苗條的 = slender
@@ -5510,7 +5509,7 @@
 + **[temerity](/tɪˈmɛrɪti/)** [n]魯莽/大膽 = *audacity* = *rashness* <-- temer 輕率地 = *rashly* + ity
 + **temerarious** [adj]輕率的/魯莽的 = *bold* = *reckless* = *rash*
 - **_tamper_** [v]**用不正當手段影響/干擾** = *interfere* [n]搗實器具
-+ temper [n]性情 = *disposition*, 壞脾氣, 生氣, (鋼的)韌度 [v]回火, **使緩和/減少** = *mitigate* = *moderate* = *palliate*, 調律 <--> untempered
++ temper [n]性情 = *disposition*, 壞脾氣, 生氣, (鋼的)韌度 [v]回火, **使緩和/減少** = *mitigate* = *moderate* = *palliate*, 調律 <--> untempered`
 + **temperament** [n]性情/性格 [mn]**喜怒無常** = *temper*, 調律 = *temper*
 + temperamental [adj]喜怒無常的, 性情的
 + [temperate](/ˈtɛmp(ə)rət/) [adj]溫暖的/溫帶的, 節制的/適度的 = *moderate* = *continent* = *abstemious* <-- temper
@@ -5656,13 +5655,13 @@
 - talon [n]猛禽的鋭爪, 鎖簧尖狀突出部, 發剩的牌
 - **tambour** [n]鼓, 刺繡用的繃圈, 鼓形柱
 - tambourine [n]鈴鼓/手鼓 <-- timbre
-- tamp [v]用黏土填塞(裝有炸藥的洞口), 搗實/敲緊
+- tamp [v]用黏土填塞(裝有炸藥的洞口), 搗實/敲緊 <|> **tamper**
 - **tampon** [n]月經棉塞/衛生棉栓 [v]放棉塞於
 - tan [n]**古銅色**, 古銅色的肌膚, 含單寧酸的樹皮 = *tanbark* [v]曬成古銅色, **製成皮革**, **痛打** [adj]古銅色的
 - **tandem** [n]雙人自行車, 兩匹馬前後縱列拉的雙輪馬車, 兩人以上一起工作的團體 [adv][in tandem with]一起 = *together*
 - **tang** [n]味道, 風味, 海藻 = **kelp** [v]發出鈴聲 
 - **tangy** [adj]有檸檬般酸味的 = *tart* = *lemony*
-- **tangelo** [n]橘柚(由甌柑、橘子與柚子或葡萄柚雜交而成的柑橘類水果)
+- **[tangelo](/ˈtan(d)ʒələʊ/)** [n]橘柚(由甌柑、橘子與柚子或葡萄柚雜交而成的柑橘類水果)
 - tango [n]探戈舞
 - tank [n]櫃/罐/箱/槽, 坦克/戰車, **[非]牢房**, 背心 = *tank top* [v]裝滿燃料, **[非]下跌**, **[非]輸掉**
 - **_tantrum_** [n] (小孩子)發脾氣
@@ -5670,7 +5669,7 @@
 - **taper** [v]逐漸變得尖細, [off]逐漸變小/逐步減弱 [n]細蠟燭, 燭芯 = *wick*
 - **tapestry** [n]繡帷/掛毯
 - **tare** [n]巢菜 = *vetch*, 裨子/莠草(聖經用語), 皮重, 車身重量
-- **tariff** [n]關稅 [v]定……的稅率
+- tariff [n]關稅 [v]定……的稅率
 - tarmac [n]瀝青/柏油碎石 [v]用柏油碎石鋪 <--> asphalt
 - tarpaulin, tarp [n]防水油布, (水手的)防水帽
 - tart [n]水果餡餅, **妓女** [adj]酸的 = *sour* = *acid*, **尖酸的/刻薄的** = *cutting* = *biting* = *acrimonious*
@@ -5692,7 +5691,7 @@
 - tavern [n]小酒館 <|> *cavern*
 - **taxis** [n][醫]整腹法, 反射運動, 文字分類法
 - teal [n]短頸野鴨, 藍綠色
-- **teat** [n]乳頭
+- **teat** [n]乳頭 <|> **tit**
 - tease [v]逗弄/戲弄, 挑逗, **梳理(毛，麻等)**, **理出(資訊)** [n][非]愛戲弄人的人, 挑逗者, 戲弄
 - tee [n]球座, 高爾夫的開球點 [v]放在球座
 - [teensy](/ˈtiːnzi/), teeny [adj][非]微小的 = **wee**
@@ -5731,7 +5730,7 @@
 - throttle [n]節流閥 [v]掐死/使窒息, 調節, [back/down]減速
 - throughout [adv/prep]遍及/遍布, 從頭到尾
 - **thrum** [v]發出連續低沉的聲響, 彈奏/撥弄(弦) = *strum* [n]連續低沉的聲響, 紗頭/線頭
-- **thud** [n]重擊聲 [v]發出砰聲
+- **thud** [n]重擊聲 [v]發出砰聲 <|> **suds**
 - **thuggish** [adj]粗野的/暴力的 = *loutish*
 - thumbtack [n]圖釘
 - thump [n]重擊聲, 重擊 [v]使砰然作聲, 重擊
@@ -5774,7 +5773,7 @@
 - tire [v]感到疲勞, [of]對..感到無聊 [n]輪胎 = *tyre*
 - tissue [n]細胞組織, 薄紙/棉紙, 面紙/衛生紙, 一連串
 - titanic [adj]巨人的 = *colossal*, 鈦的
-- tithe [n]什一稅 [v]向……徵收什一稅, 把..的十分之一交稅
+- **[tithe](/tʌɪð/)** [n]什一稅 [v]向……徵收什一稅, 把..的十分之一交稅
 - titular [adj]有名無實的, 稱號的 <-- title
 - **tizzy** [n]興奮/慌亂
 - toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, **祝酒/敬酒** <|> boast
