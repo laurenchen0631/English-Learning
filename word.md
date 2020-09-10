@@ -112,6 +112,7 @@
 ***
 
 - **aardvark** [n]土豚/非洲食蟻獸
+- abbey [n]大修道院
 - **abbot** [n]男修道院院長/方丈/住持
 - **about-face** [n]徹底改變
 - **abut** [v]鄰接/毗鄰 = *adjoin*
@@ -309,7 +310,7 @@
 + bliss [n]極樂/福氣 = *ecstasy* <-- blithe 
 + blissed-out [adj]極樂無憂的
 + block [v]阻擋/阻礙/擋住視線 [n]街區/街段, 大廈/大樓, 堵塞物
-+ blow -> blew -> blown [v]吹/刮, 吹動 = *propel*, [非]離去, 吹氣, 喘氣 = *pant*, 吹奏, (鯨魚)噴氣, 爆炸, **揮霍**, **搞糟** = *bungle*, (策略)曝光, [up] (暴風雨)開始, [up]勃然大怒 [n]強風, 吹飛/呼吸新鮮空氣, 吹奏, 擤鼻子, 粉狀古柯鹼, 一擊/毆打, **驚嚇/失望**
++ blow -> blew -> blown [v]吹/刮, 吹動 = *propel*, [非]離去, 吹氣, 喘氣 = *pant*, 吹奏, (鯨魚)噴氣, 爆炸, **揮霍**, **搞糟** = *bungle*, (策略)曝光, [up] (暴風雨)開始, [up]勃然大怒, [off]不認真對待 [n]強風, 吹飛/呼吸新鮮空氣, 吹奏, 擤鼻子, 粉狀古柯鹼, 一擊/毆打, **驚嚇/失望**
 - blown-up [adj]炸毀的, 擴大的 = *enlarged*, 膨脹的 = *inflated* = *swollen*
 + blunt [adj]唐突的/失禮的 = *abrupt* = *curt* = *offhand* = *terse*, 鈍的 = *obtuse* = *dull*, 感覺遲鈍的/愚鈍的 = *obtuse* = *crass* = *opaque* [v]變鈍, 使(情感)減弱
 + bogus [adj]偽造的/假的 = *phony* = *counterfeit* = *spurious* = *sham* = *fake*
@@ -604,6 +605,8 @@
 - **bonanza** [n]發財機遇, 繁榮/興盛
 - bond [n]聯繫/關係, 鐐銬/枷鎖, 契約/合約 = *contract*, 公債/債券, **保釋金** = *bail*, 化學鍵 = *chemical* bond [v]使……黏合/使結合, 建立關係, 以化學鍵結合, 把(進口貨物)存放保稅倉庫
 - bondage [mn]奴役 = *slavery* = *servitude*
+- bongo [n]小鼓, 羚羊的一種
+- banjo [n]五弦琴/班卓琴
 - **bonnet** [n]女帽/童帽, (蘇格蘭男子或男孩戴的)無邊呢帽, (煙囪的)蓋子/罩子 <|> sonnet
 - **bonk** [v]撞擊, 性交
 - bony [adj]骨頭的, (魚肉)很多骨頭的, 瘦削的
@@ -695,7 +698,7 @@
 - [bulk](/bʌlk/) [n]大小/質量, 巨大, 重, 大量, 纖維性物質, **散裝貨物**, 紙張厚度, 大部分/大多數 [v]**變得重要/顯得巨大**, 組合(銷售), [up]增重/變壯實
 - bully [n]惡霸, [非]罐頭牛肉 [v]欺負/欺淩 = *browbeat* = *oppress* [adj]**[非]特好的**
 - bulwark [n]壁壘, 防波堤
-- bum [n]流浪漢 = *vagrant* = *hobo*, 遊手好閒的人, **愛好者** [v]**[around]閒晃/消磨**, **求取** [adj]糟糕的
+- bum [n]流浪漢 = *vagrant* = *hobo*, 遊手好閒的人, **愛好者** [v]**[around]閒晃/消磨**, **求取**, [out]使失望 [adj]糟糕的
 - **bummer** [n]令人不愉快或不滿意的事物, 流浪漢 = *bum*
 - bump [v]碰撞/顛簸, 碰傷/撞傷, 顛簸著行進, 置頂, 推, 拒絕..登機, 頂替, [into]巧遇 [n]碰撞/顛簸, 凸塊 = *protuberance*, 腫塊, 增加, 置頂
 - bumper [n]保險槓, 緩衝器 [adj]特大的/豐盛的
@@ -1034,6 +1037,8 @@
 - celery [n]芹菜
 - cellar [n]地下室, 酒窖 [v]把……藏入地窖 <|> cellular
 - [cellular](/ˈsɛljʊlə/) [adj]細胞的/細胞組成的, 蜂巢式網路的, 蜂巢狀的, 很多小房間組成的
+- cellist [n]大提琴手
+- cello [n]大提琴
 - [cement](/sɪˈmɛnt/) [n]水泥, 讓人們團結的要素, 黏固粉/白堊 [v]用水泥接合, 鞏固/加強
 - [centaur](/ˈsɛntɔː/) [n]半人半馬怪物
 - cemetery [n]公墓/墓地 = *necropolis*
@@ -1075,6 +1080,7 @@
 - **chino** [n]斜紋棉布, 斜紋棉布褲
 - chip [n]屑片/碎片, 缺口, 積體電路片, 籌碼 [v]在……上造成缺口, 裂開, 削/鑿, [away]逐漸破壞或使失效
 - chipper [adj]**精力充沛的/興高采烈的** [n]削片機
+- chippy [adj]**易怒的** [n]炸魚薯條店
 - chipmunk [n]花栗鼠
 - chop [v][up]切碎/剁碎
 - chopper [n]直升機, 切肉刀, 一副牙齒
@@ -1217,6 +1223,7 @@
 - **_cranky_** [adj]易怒的 = *cantankerous*
 - crap [n]爛貨/垃圾, 胡言/胡扯, 廢物, 排泄物 = *excrement*, 排泄 = *defecation* [v]排泄 [adj]非常糟糕的
 - **_crappy_** [adj]蹩腳的/糟糕的
+- **carpal** [adj]腕骨的 [n]腕骨
 - crate [n]板條箱, 破舊的交通工具 [v]把…裝箱 <|> crater <|> curate <|> curator
 - crater [n]彈坑/隕石坑, 火山口 [v]形成坑洞, 墜落
 - crawl [v]爬行, (交通工具)緩慢地移動, 自由式游泳, [to]諂媚奉承, [with]爬滿/充斥著, [電腦]爬(資料) [n]爬行, 緩慢的行進, 自由式
@@ -2228,6 +2235,7 @@
 - gem [n]寶石/珠寶, 傑出的人或物 [v]用寶石鑲嵌
 - [gemsbok](/ˈxɛmzbɒk/) [n]大羚羊之一種
 - gamey, gamy [n]野味
+- gazebo [n]涼亭
 - gentle [adj]和藹的/溫柔的, 平和的/徐緩的, 不陡的/平緩的 [v]使溫和, 輕撫
 - gentry [n]仕紳/上流社會人士
 - gentrify [v]士紳化, 重建成中產階級居住區
@@ -2392,6 +2400,7 @@
 + **[harangue](/həˈraŋ/)** [n]長篇大論的指責性演說 = *tirade* [v]向…作慷慨激昂的演講
 + [harbinger](/ˈhɑːbɪn(d)ʒə/) [n]先驅 = *herald* = *forerunner*, 預兆/前兆 = *herald* = *sign* = *omen* <-- habor
 + harmonious [adj]融洽的/和睦的, 一致的 = *congruous* = *congruent* = *accordant*
+- **harmonica** [n]口琴
 + **[haughty](/ˈhɔːti/)** [adj]傲慢的/自大的 = *arrogant* = *supercilious* = *conceited* = *cavalier* = *disdainful* = *imperious*
 + haughtiness [mn]傲慢
 + **[hauteur](/əʊˈtəː/)** [n]傲慢 = *haughtiness* = *snobbery* <|> [alter](/ˈɔːltə/)
@@ -2451,6 +2460,7 @@
 * [hasten](/ˈheɪs(ə)n/) [v]催促 = *accelerate* = *expedite* = *hurry*, 趕緊/趕快
 * hasty [adj]急急忙忙的/匆忙的 = *rash* = *hurried*, 衝動的/輕率的 = *cursory* = *impatient* = *impetuous* = *thoughtless* = *injudicious* = *precipitate*
 * [haul](/hɔːl/) [v]拖/拉 = *pull* = *drag* [n]大批贓物, 大量(漁獲或獎章), 拖運距離 <|> overhaul <|> hurl
+* heuristic [adj]啟發式的/探索式的
 * **[hurl](/həːl/)** [v]猛力投擲, 大聲叫罵/辱罵, [非]嘔吐 = *vomit* <|> [hell](/hɛl/)
 * heave [n/v]用力舉起/拉起 = *hoist*, [非]丟擲(重物), 發出(嘆息), 上下起伏,  嘔吐 <|> upheave <|> heaven
 * heel [n]腳後跟, 底部/根部, 高跟鞋, 卑鄙的人 [v]緊跟/緊追
@@ -3260,6 +3270,7 @@
 + mound [n]土墩/土石堆, 小丘, 墳堆/塚, 一堆 [v]堆起
 + mounting [n]底座/托架 [adj]**增加的/加劇的** = *increasing*
 + **[mulct](/mʌlkt/)** [v]罰金/抽稅, [of]詐騙 = *fleece* [n]罰金 <|> dulcet
+- **mulch** [n]為保持水分、肥沃土壤等用的覆蓋層 [v]以護蓋物覆蓋
 + muddle [v]使混亂 = *jumble* = *confuse* = *mingle*, 使困惑 = *obfuscate* = *bewilder* = *confound*, 忙亂, 特調 [n]混亂
 + [mundane](/mʌnˈdeɪn/) [adj]乏味的 = *dull*, 現世的/世俗的 = *lay* = *profane* = *temporal* = *worldly*
 + murk [n]黑暗/朦朧 = *darkness* = *gloom* 
@@ -4118,7 +4129,7 @@
 - piss [n]尿/小便 = *urine* [v]小便, [off]惹惱/使生氣
 - pistachio [n]開心果
 - pistol [n]手槍 = *handgun* [v]用手槍射擊
-- pitch [n]音高, 坡度, 強度/力度, 捕手丟球, 推銷, 前後擺盪, **間距/螺距**, **瀝青** = *asphalt*, 像瀝青之物/樹脂/松脂 [v]為……定音高, 使(屋頂)向下傾斜, 投球, 扔/拋, **重重摔落**, **搭帳篷/紮營**, 鋪路 = *pave*
+- pitch [n]音高, 坡度, 強度/力度, 捕手丟球, 推銷, 前後擺盪, **間距/螺距**, **瀝青** = *asphalt*, 像瀝青之物/樹脂/松脂 [v]為……定音高, 使(屋頂)向下傾斜, 投球, 扔/拋, **重重摔落**, **搭帳篷/紮營**, 鋪路 = *pave*, **[in]盡一份力/做出貢獻**
 - pixie [n]小妖精
 - plagiarize [v]抄襲/剽竊 
 - plagiarism [n]抄襲/剽竊 
@@ -4843,6 +4854,7 @@
 * snobbery [n]勢利/愛虛榮
 * soak [v]浸泡, 使濕透, 使熱衷, [up]吸收/吸掉, **[up]盡情享受/充分體驗**, [up]吸取/吸收(資訊), [up]用完/耗盡 [n]浸泡/浸漬, 酒鬼
 * [soil](/sɔɪl/) [n]泥土/土壤, 國家/國土, 廢棄物 [v]弄髒, 誹謗/中傷 = *tarnish*, 用青秣飼料餵(牛)
+* soiled [adj]被弄髒的
 * solemn [adj]正式的/莊嚴的 = *forma*, 嚴肅的 = *austere* = *severe* = *sober*, 鄭重的 
 * solemnity [n]莊嚴/肅穆
 * [soothe](/suːð/) [v]使平靜 = *mollify*, 減輕/緩解(疼痛) = *allay* = *alleviate* = *assuage*
@@ -4927,6 +4939,7 @@
 - salable [adj]適於銷售的/暢銷的
 - saliva [mn]唾液/口水
 - salmon [n]鮭魚, 鮭肉色
+- **salmonella** [n]沙門氏菌
 - **salute** [n]敬禮/致意 [v]向……行禮/向……致敬, 招呼/問候 = *greet*, 讚揚/尊敬 <|> salutary
 - salutation [n]招呼/問候/道別, 信函開頭的/稱呼語
 - **[saute](/ˈsəʊteɪ/)**, sauté [v]嫩煎 [n]嫩煎菜餚 [adj]嫩煎的
@@ -5183,6 +5196,7 @@
 - sleigh [n]雪橇 [v]駕雪橇/乘雪橇
 - slender [v]苗條的 = *thin*, 細長的, 不足的/少量的
 - **[sleuth](/sluːθ/)** [n]偵探 = *detective* [v]調查, 調查後發現
+- **slaw** [n]捲心菜沙拉 = **coleslaw**
 - **slew, slue** [v]突然轉向/打滑 [n]打滑, **大量** <|> **slay**
 - slice [n]片, 份 = *portion*, 菜刀, (高爾夫)曲球 [v]切, (移動)切開/劃破, 打曲球
 - slingshot [n]彈弓, 彈弓子彈, 彈弓效應 [v]因重力而加速
@@ -5271,17 +5285,17 @@
 - sophomoric [adj]二年級的, **不老練的**
 - sore [adj]痛的, [非]惹人生氣的 = *upset* = *angry*, 極度的/劇烈的 = *severe* = *urgent* [n]痛處, 痛處/傷心事 <|> sole
 - sorority [n]女生聯誼會/姐妹會
-- **sought-after** [adj]熱門的/廣受歡迎的
+- sought-after [adj]熱門的/廣受歡迎的
 - soupy [adj]湯似的, 潮濕多霧的, **[非]多愁善感的** = *sentimental*
 - **souse** [v]浸/醃, 喝醉/酗酒 = **swig** [n]浸濕, 酒鬼
-- **spackle** [n][商標]填泥料 [v]用填泥料修補
+- spackle [n][商標]填泥料 [v]用填泥料修補
 - spade [n/v]鏟/鍬 [n]黑桃, [貶]黑人
 - span [n]長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 [v]橫跨, (時間)持續/跨越 [adj][spick and span]整潔的/乾淨的
 - spin -> spun -> spun [v]使旋轉, 擲(硬幣) = *toss*, 烘乾, 紡, 編造/虛構, [off]分拆(公司) [n]旋轉, 飛機盤旋下降, 兜風, 詮釋
 - spinster [n]**未婚女人/老處女**, 從事紡織的女子
 - **spinoff** [n]副產品, 衍生作品 
 - **_spangle_** [n]閃爍發光之物, 光點 [v]用閃光飾物裝飾
-- **_spank_** [v]打/拍打(屁股) = **larrup** = *paddle*
+- **_spank_** [v]打/拍打(屁股) = **larrup** = *paddle* <|> **swank**
 - **spandex** [n]彈性人造纖維
 - spar [n]圓杆, 主杆, 拳擊賽/一局, 親密的朋友, 晶石 [v]輕拳出擊, 爭論, (鬥雞)用爪踢鬥
 - sparring [n]拳擊, 爭鬥
@@ -5364,13 +5378,13 @@
 - stamp [n/v]跺腳, 在...上蓋印 [v]**[out]消除/消滅**
 - starboard [n]右舷 [v]向右轉
 - **starch** [n]澱粉, (衣服用的)澱粉漿 [v]給(衣服)上漿 
-- starchy [adj]含澱粉的, 上漿的, [非]拘謹的
+- starchy [adj]含澱粉的, 上漿的, **[非]拘謹的**
 - **starling** [n]歐掠鳥
 - starry -> starrier -> starriest [adj]布滿星星的, 像星星的, 明星的/名人的
 - stash [v][非]存放/貯藏 = *hoard* [n][非]藏匿物, [非]藏匿處
 - steal -> stole -> stolen [v]偷, 偷偷地行動/溜, 偷看 [n]**[非]物美價廉的東西** = *bargain*, 偷竊, 盜壘
 - stealth [n]鬼鬼祟祟
-- steamy [adj]充滿蒸汽的, 潮濕悶熱的 = *muggy*, **[非]色情的** = **sultry**
+- steamy [adj]充滿蒸汽的, 潮濕悶熱的 = *muggy* = **sultry**, **[非]色情的** = **sultry**
 - steel [n]鋼, 堅強/堅固 [v]使堅強/使下決心
 - steer [v]操舵/駕駛, 沿著……前進, 帶領, [steer clear of]避開 = *eschew* [n][非]指點/建議, 小公牛/閹牛 = *bullock*
 - stench [n]臭氣/惡臭
@@ -5449,7 +5463,7 @@
 - summary [n]摘要/概要 [adj]概括的/扼要的 = *brief*, (未經討論或法律判決)立即的/速決的
 - summarily [adv]立即地
 - summation [n]累加, 總數/合計 = *total*, 總結/概要 = *summary*
-- **sump** [n]集液池, 汙水坑/化糞池 = *cesspool*, 集油槽
+- **sump** [n]集液池, 汙水坑/化糞池 = *cesspool*, 集油槽 <|> dump <|> slump
 - sunburn [n/v]曬傷
 - sunder [v]分裂/分離
 - [supper](/ˈsʌpə/) [n]晚餐/晚飯
@@ -5463,15 +5477,15 @@
 - swallow [v]吞下/嚥下, 忍受, 輕信, 抑制, 捲入/吞沒 = *engulf*, 耗盡/用盡 [n]吞/嚥, 一口, 燕子 <|> wallow
 - **swank** [adj]華麗的 [n]華麗/時髦 [v]炫耀/出風頭
 - **swash** [v]潑/濺 [n]奔流
-- **swath**, **swathe** [n]狹長的事物, 收割帶狀地, 收割的寬度/划幅
+- **swath**, **swathe** [n]狹長的事物/帶狀地, 收割的寬度/划幅
 - sway [v]搖擺/擺動, 說服/使動搖, 統治 [mn]搖動/搖擺, 控制/統治
 - sweat [n]汗, 緊張, 努力 [v]流汗, 結露, 緊張, 擔心, **努力**
 - sweater [n]毛線衣, 大量出汗的人 = *perspirer*
 - sweetener [n]增甜劑/糖精
 - sweetums [n]親愛的
 - **swerve** [v]突然改變方向/突然轉向 [n]轉向
-- **swig** [v][非]痛飲/牛飲 [n][非]一大口 <|> twig
-- **swill** [v]攪拌, [非]大口喝/牛飲 = *swig* [n]給豬吃的剩飯菜, [非]非常糟糕的食物, 一大口
+- **swig** [v]痛飲/牛飲, 重擊 = **slug** [n]一大口 <|> twig
+- **swill** [v]大口喝/牛飲 = *swig*, 餵豬 [n]給豬吃的剩飯菜
 - swindle [n/v]敲詐/騙取(錢財) = *gouge* = *extort* = *overcharge* = *pluck* = *rob*
 - swine [n][非]下流坯子, 豬　= pig
 - swing -> swung -> swung [v]搖擺, 擺動, 大搖大擺地行走, 轉向/轉身, 有節奏地搖搖擺擺地走, 使擺動, 揮舞, 揮動, 猶豫/搖擺, 對..有決定性的影響, 成功導致, 演奏, 被演奏, 交換性伴侶, 令人興奮/歡快熱鬧 [n]鞦韆, 盪鞦韆, 搖擺, 擺動, 揮拳, 揮動方式, 改變, 搖擺樂, 韻律/音律, 巡迴
@@ -5672,6 +5686,7 @@
 - tariff [n]關稅 [v]定……的稅率
 - tarmac [n]瀝青/柏油碎石 [v]用柏油碎石鋪 <--> asphalt
 - tarpaulin, tarp [n]防水油布, (水手的)防水帽
+- tarragon [n]龍蒿/龍蒿葉
 - tart [n]水果餡餅, **妓女** [adj]酸的 = *sour* = *acid*, **尖酸的/刻薄的** = *cutting* = *biting* = *acrimonious*
 - **_tassel_** [n]流蘇/纓
 - tastemaker [n]時髦風尚之開創者
@@ -5938,6 +5953,7 @@
 - **[ulcer](/ˈʌlsə/ )** [n]潰瘍, 道德敗壞/腐敗
 - **[unguent](/ˈʌŋɡwənt/)** [n]藥膏/軟膏 = *ointment* <-- ungu 油 = *grease* + ent
 - **_upstanding_** [adj]誠實的/正直的
+- urethra [n]尿道
 - [uroboros](/ˌjʊərə(ʊ)ˈbɒrəs/), ouroboros [n]銜尾蛇
 - urn [n]骨灰甕, 茶壺
 - usefulness [n]有效

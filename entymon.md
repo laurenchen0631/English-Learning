@@ -641,6 +641,7 @@
 + banter [n]玩笑/逗樂 = *badinage* = *ribbing* [v]取笑/逗弄 = *bait* = *tease* <|> barter <|> batter
 + banish [v]放逐/流放 = *evict* = *exile* = *expel* = *oust*, 擺脫 = *get* rid of
 * bar [n]鐵柵欄, 一塊/一條, 閂/橫槓 = *crossbar*, **沙洲/沙灘** = *shoal*, 吧台, 酒吧, 小吃店, 障礙/限制 = *barrier* = *restriction*, [音]小節, (法庭的)欄杆, **律師**, 律師界/法律界 [v]閂住, 阻擋/妨礙 = *preclude* = *prevent*, 禁止 = *prohibit* = *forbid*, **排除(考慮)**, 在……上飾以條紋
+- barstool [n]酒吧凳
 - barrage [n]彈幕/掩護砲火 = *fusillade* = *slavo*, 大量(言論), 堰/攔河垻 [v]向……連續提出問題 = *bombard*
 - barricade [n]路障/街壘 = *barrier* [v]用路障抵禦, 阻塞/擋住
 - barrier [n]路障/障礙
@@ -1166,12 +1167,14 @@
 + accord [v]授予 = *grant*, 使一致 = *agree* = *adapt* [n]協約 = *treaty*, 一致/同意 = *harmony* = *agreement*
 + according [adv][to]根據/照著 [conj][as]取決於
 + accordingly [adv]照著, 因此 = *therefore*
+- **accordion** [n]手風琴
 + discord [n]不和/不一致, [音]不和諧音
 + discordant [adj]不一致的/不和諧的 = *disagreeing* = *incongruous*, 刺耳的 <--> concord
 - concord [n]和諧/和睦 = *amity* = *rapport* <--> discord, 公約/協定 = *accord*, [音]協和音程
 * cord [n]細繩, 燈芯絨, 羈絆 [v]用繩子捆綁 <|> cordial
 - **corduroy** [n]燈芯絨, 燈芯絨褲 [v]用木頭鋪(道路)
 * **cordial** [adj]友好的/熱誠的 = *affable* = *amicable* = *genial*, **(尤指厭惡感)強烈的** [n]甜香酒
+- recorder [n]直笛
 
 ## cre, crue 增長/產生 = *grow*, increase
 + accrete [v]生長/增加 
@@ -7959,6 +7962,7 @@
 - sonic [adj]聲音的
 - **sonata** [n]奏鳴曲
 - **_sonnet_** [n]十四行詩
+- sonogram [n]超音波圖
 
 ## stell, sider 星星 = *star* == *astro*
 - consider [v]認真考慮/斟酌 = *ponder* = *deliberate* = *reflect* = *entertain*, 認爲 = *reckon* = *suppose*, **注視** = *regard*

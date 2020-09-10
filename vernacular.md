@@ -32,6 +32,7 @@
 - con artist [n]騙子/行騙者 
 - diamond in the rough [n]一塊璞玉
 - **double whammy** [n]禍不單行
+- due diligence [n]盡職調查(在企業投資、併購案中是很常見的流程。主要目的是為了確認對方公司是否值得被投資、是否有潛藏的風險)
 - dust bunny [n]塵兔(一種在家具下方形成的小團狀灰塵)
 - escape hatch [n]出路
 - ethical lapse [n]過失
@@ -58,6 +59,7 @@
 - live wire [n]機靈鬼/精力充沛的人
 - long odds [n]為乎其微的勝率
 - **long shot** [n]希望不大的嘗試/機會渺茫
+- loose cannon [n]喜歡惹是生非的人/愛招惹麻煩的人
 - man of the Hour [n]知名人士
 - moral compass [n]道德羅盤
 - morning sickness [n]害喜
@@ -297,6 +299,7 @@
 - **right and left** [adv]到處
 - smack dab in the middle of sth [adv]在...之中
 - so to speak [adv]可以說
+- **through thick and thin** [adv]不顧艱難險阻/赴湯蹈火
 - to a fault [adv]過分地
 - to and fro [adv]往復地/來回地
 - to one's heart's content [adv]盡興地/盡情地
@@ -340,6 +343,7 @@
 - be dead set on doing sth [v]堅決要做…/一心要做…
 - be down in the mouth/dumps [v]神色沮喪/垂頭喪氣
 - be green with envy [v]十分妒忌/眼紅
+- **be in a (pretty/right) pickle** [v]處於困境
 - **be in business** [v]準備就緒
 - be in its infancy [v]在初期/在早期
 - be in the same boat [v]處境相同/面臨同樣的困境
@@ -417,6 +421,7 @@
 - cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
 - cut to the chase [v]切入正題
 - dawn on sb [v]使…明白/使…意識到
+- do one's bit [v]盡自己的一份力量
 - **die hard** [v]不易改掉/不容易戒掉
 - do away with sth [v]擺脫/拋棄/廢除
 - do away with sb [v]謀殺
@@ -487,6 +492,7 @@
 - have someone cold [v]To have one utterly under control, to the extent that their actions can be dictated.
 - have sth under one's belt [v]已經掌握…/已經獲得…
 - **hold sway (over sth)** [v]對..有權/有影響力
+- head over heels [adj]神魂顛倒
 - hedge [v] (爲避免損失)兩方下注/兩邊押寶
 - here to stay [adj]已被廣泛使用/已為大多數人所接受
 - hit a snag [v]遇上阻礙或困難
@@ -555,6 +561,7 @@
 - pick sb/sth out of a hat [v]隨機選出
 - pick up the tab [v]付帳
 - place sth in on's hand [v]讓...負責..
+- play fast and loose with sth/sb [v]輕率地對待…
 - play hardball (with sb) [v]採取強硬方式
 - play second fiddle [v]居於次要地位
 - poke fun at sb [v]取笑/奚落
@@ -619,6 +626,7 @@
 - **swing for the fences** [v]奮力一擊/盡全力一搏
 - **suck it up** [v]自認倒楣
 - **_take a drag_** [v]吸一口煙
+- **take a rain check** [v]改天
 - **take a spin** [v]兜風
 - **take/make a stab at sth** [v]嘗試
 - take advantage of sth [v]利用
@@ -644,6 +652,7 @@
 - throw in the towel [v]認輸/放棄
 - tit for tat [v]以牙還牙
 - to what end [adv]為什麼 = What is the purpose of
+- **toe the line** [v]聽從命令/服從紀律
 - **turn one's back on sth** [v]不再參與…/對…置之不理
 - turn sth/sb down [v]拒絕
 - **turn sth on one's head** [v]顛覆/顛倒
@@ -694,11 +703,13 @@
 - add up to sth [v]總共是/合計為, **_結果是/表示/意味著_**
 - be around [v]存在, 活躍
 - be into sth [v]對...有興趣
+- **blow sth/sb off** [v]不認真對待…
 - bow out [v]辭職/退出
 - **boil down to sth** [v]主要原因在於/歸結為
 - border on [v]近乎於/近似
 - break into [v]突然開始做…
 - bulk up (v)增重/變壯實
+- bum sb out [v]
 - butt in [v]打斷/插嘴/插手
 - **butter sb up [v]拍馬屁**
 - call for sb [v] (去某地)接(某人)
@@ -763,6 +774,7 @@
 - fill up [v]裝滿, 加滿油
 - fizzle out [v]逐漸終止/有始無終
 - flash back [v]突然記起 
+- flip out [v]勃然大怒/失去自我控制
 - **fob sb off (on sth)** [v]搪塞/欺騙/騙..接受..
 - fool around [v]鬼混
 - force sb/sth off [v]說服或要求..從..下來, 服或要求..從..辭職或離去
@@ -778,6 +790,7 @@
 - go out [v]外出, 談戀愛, 退潮/落潮, 熄滅
 - goof off [v]偷懶
 - hand down [v]將…傳給/將…留給, 宣佈(正式決定)
+- **hands down** [adv]輕而易舉地/毫不費力地
 - hand off [v]交予
 - hand out [v]分發, 經常出入/廝混
 - hang on [v][非]稍等一會兒, 緊握/抓住
@@ -848,6 +861,7 @@
 - pick oneself up [v]再次站起, 恢復/再次站起
 - pick up [v]發現, 改良, 接電話
 - pig out [v]狼吞虎嚥
+- pitch in [v]盡一份力/做出貢獻
 - play out [v]發生/出現, 策劃/籌劃
 - polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
 - preface sth by/with sth [v]以..作為……的開端

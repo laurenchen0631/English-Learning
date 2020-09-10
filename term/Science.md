@@ -64,6 +64,7 @@
 - dropper [n]滴管
 - [cyclotron](/ˈsʌɪklətrɒn/) [n]迴旋加速器
 - filter paper [n]濾紙
+- **petri dish** [n]培養皿
 
 ## Chemical
 + oxygen [n]氧

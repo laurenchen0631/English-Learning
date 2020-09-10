@@ -286,6 +286,7 @@
 - the Crimea [n]克里米亞 --> Crimean [adj]克里米亞的/克里米亞人的 [n]克里米亞人
 	- Crimean Peninsula [n]克里米亞半島，簡稱克里米亞，是黑海北岸的一個幾乎完全被海包圍的半島。
 - Ukraine [n]烏克蘭 --> [Ukrainian](/juːˈkreɪnɪən/) [n]烏克蘭人/烏克蘭語 [adj]烏克蘭的/烏克蘭人的/烏克蘭語的
+  - Kiev [n]基輔，是烏克蘭首都、基輔州首府及國內第一大城市
 - Romanian [n]羅馬尼亞人, 羅馬尼亞語 [adj]羅馬尼亞的/羅馬尼亞人的, 羅馬尼亞語
 - Hungary [n]匈牙利 --> Hungarian [adj]匈牙利的/匈牙利人的/匈牙利語的 [n]匈牙利人, 匈牙利語 
 - Norway [n]挪威 --> Norwegian [adj]挪威的/挪威人的/挪威語的 [n]挪威人, 挪威語

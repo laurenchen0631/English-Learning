@@ -600,6 +600,10 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - filet mignon [n]菲力牛柳(是牛排的一種，為位於牛隻腰部的肉被認為是牛肉最嫩的部位)
 - Bibingka [n]比賓卡，是菲律賓聖誕節的傳統食品，是一種用糯米粉烤製而成的蛋糕
 - cassava [n]木薯/木薯粉
+- tarragon [n]龍蒿/龍蒿葉
+- watercress [n]水田芥
+- pancetta [n]義大利培根的一種
+- melba toast [n]梅爾巴吐司(烤脆的薄麵包片)
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1206,6 +1210,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - cuff link [n]袖扣
 - grass roller [n]草坪滾壓器
 - washi tape [n]和紙膠帶
+- chest of drawers [n]五斗櫃
+- **Tetra Brik** [n]瑞典包裝公司利樂包生產的紙箱包裝的名稱(是利樂包裝家族中最知名和最暢銷的包裝，以至於利樂布里克有時被誤認為商標名)
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 

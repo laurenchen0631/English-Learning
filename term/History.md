@@ -117,6 +117,8 @@
 - Genghis Khan [n]成吉思汗
 - Manchu [n]滿族
 
+- Gulf War [n]波斯灣戰爭
+
 ## International
 - the Columbian Exchange [n]哥倫布大交換，是一場東半球與西半球之間生物、農作物、人種、文化、傳染病、甚至思想觀念的突發性交流。它是人類歷史上的跨越種族的一件重要事件。
 - Word War II == the Second World War
