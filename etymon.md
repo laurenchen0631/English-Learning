@@ -1005,7 +1005,7 @@
 + coincidental [adj]巧合的 = *ironic*, 同時的
 + **conceive** [v]懷孕/受孕 = *gestate*, 想像/想出/構想 = *imagine* = *invent* = *form* = *gestate* = **contrive**
 + conceivable [adj]可想像的/可想到的 = *imaginable*
-+ conceivab [adv]可以想像地
++ conceivably [adv]可以想像地
 * concept [n]概念/觀念/想法 = *idea* 
 * conception [n]概念/見解 = *idea* = *perception*, 計畫/意圖 = *plan* = *intention*
 * **conceit** [n]自負/自大, **巧妙的比喻/別出心裁的比喻**, 藝術效果
@@ -1046,7 +1046,7 @@
 + perceptive [adj]觀察敏銳的/有洞察力的 = *discerning* = *insightful* = *subtle* = *percipient* = *perspicacious*
 + perceptible [adj]可察覺到的/可感知的
 + **percipient** [adj]觀察敏銳的/有洞察力的 = *perceptive* [n]有感知力的人
-+ **precept** [n]戒律 = *principle* = *law* = *canon* = *tenet*, 令狀 = *writ* = *warrant*
++ **_precept_** [n]戒律 = *principle* = *law* = *canon* = *tenet*, 令狀 = *writ* = *warrant*
 - precipice [n]懸崖/峭壁
 + precipitous [adj]險峻的/陡峭的, 突然的/戲劇化的, 魯莽的/倉卒的
 + precipitate [v]使突然發生/加速…的發生 = *accelerate*, 使沈澱 [adj]突然的, 倉促的/輕率的 = *rash* = *plunge* [n]沈澱物
@@ -1109,7 +1109,7 @@
 - claim [v]宣稱 = *allege* = *assert*, 認領/索取, 需要(注意) = *call* for, 奪去(性命) [n]主張, 要求, 索賠, 權利 = *right*
 + clamor, clamour [v]大聲(或吵鬧)地抱怨/大聲地要求 [n]吵鬧/喧嚷 = *jazz* = *clangor*, 大聲的抱怨/強烈呼聲 = *outcry*
 - clamorous [adj]吵鬧的/喧嚷的, 大聲抱怨的/強烈要求的
-+ **declaim** [v]慷慨陳詞/朗誦
++ **_declaim_** [v]慷慨陳詞/朗誦
 + declamation [n]朗讀/雄辯
 - declamatory [adj]慷慨激昂的
 - **_disclaim_** [v]拒絕承認/否認 = *refuse* = *deny*, 撤銷(所有權) <|> **discourse** <|> **declaim**
@@ -1138,7 +1138,7 @@
 - **incantation** [n]咒文
 + incentive [n]刺激因素/誘因 = *stimulus* = *motive*
 - incentivize [v]鼓勵/激勵 = *encourage* = *motivate*
-+ **recant** [v]背棄(信仰) = *forswear* = *abjure*
++ **_recant_** [v]背棄(信仰) = *forswear* = *abjure*
 + recantation [n]公開放棄主張 = *retraction*
 
 ## col 脖子 = *neck*
@@ -1398,7 +1398,7 @@
 - holocaust [n]大毀滅/浩劫, 大屠殺 = *massacre* <-- holo 全部 = *whole*, entire + caust
 
 ## cast, chast 潔淨 = *pure*
-+ **[caste](/kɑːst/)** [n]種姓制度, 社會等級 <|> chaste
++ **_[caste](/kɑːst/)_** [n]種姓制度, 社會等級 <|> chaste <|> castle
 + **castigate** [v]嚴厲指責/斥責 = *reprimand* severely = *criticize* = *chastise* = *censure*
 + castigation [n]言語懲罰, 申斥
 - **chaste** [adj]純潔的/貞潔的, 簡潔的/樸實的 = *austere* <|> caste
@@ -1962,8 +1962,8 @@
 	- **_disgruntle_** [v]使不高興/使不滿意 <-- dis + grunt + le
 	+ disguise [n/v]假扮 = *mask*, 掩飾/隱藏(感受) = *conceal* = *dissemble* = *mask* = *cloak*
 	- **dispensable**
-	- **disport** [v]玩耍/嬉戲 = *frolic* = **divert** <|> **deport**
-	- **dissertate** --> dissertation
+	- **_disport_** [v]玩耍/嬉戲 = *frolic* <|> **deport**
+	- **_dissertate_** --> dissertation
 	* dissipate
 	+ distort
 	+ distress [n]焦慮/憂慮, **(船或飛機)危難**, **貧困/窮苦**, **[醫]呼吸困難** [v]使悲痛/使苦惱  <-- di + stress
@@ -7747,7 +7747,7 @@
 - [desert](/dɪˈzəːt/) [v]拋棄 = *abandon* = *defect*, 離去 = *leave*, 逃兵 <|> dessert
 - [desert](/ˈdɛzət/) [n]沙漠, 無趣的地方 [adj]沙漠般的, 荒廢的 = *desolate*
 - [dessert](/dɪˈzəːt/) [n]甜點
-- **dissertate** [v]談論 = *discourse*, 寫論文
+- **_dissertate_** [v]談論 = *discourse*, 寫論文
 - dissertation [n]專題論文
 - [exert](/ɪɡˈzəːt/) [v]施加, [oneself]使努力/盡力
 - insert [v]插入 = *interpolate* [n]廣告頁

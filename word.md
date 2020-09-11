@@ -4602,7 +4602,7 @@
 + scintillate [v]發出火花 = *spark*
 + scintillating [adj]耀眼的, 機智的 = *witty* = *clever*
 + scope [mn]範圍/程度 = *extent*, 機會 = *opportunity*, ..鏡 [v][out]調查/評估 = *investigate* = *assess*, 設定範圍, [非]細看/審視 = *scan*
-+ **_scorn_** [n/v]輕視/鄙視 = *disdain* = *belittle* = *detract* = *disparage* = *contempt* = *trifle* [v]輕蔑地拒絕 
++ **_scorn_** [n/v]輕視/鄙視 = *disdain* = *belittle* = *disparage* = *contempt* [v]輕蔑地拒絕 = **spurn**
 + scornful [adj]輕視的/嘲笑的 = *derisive* = *contemptuous*
 + **_scourge_** [n]鞭子, **苦難的根源** [v]鞭打 = *whip* = *lash*, 使痛苦/折磨 = *afflict* = *chastise*
 + **[screed](/skriːd/)** [n]冗長的文章/長篇漫罵, 砂漿層 [v]鋪砂漿層使平整
@@ -4666,7 +4666,7 @@
 + **[smug](/smʌɡ/)** [adj]自滿的/得意的 = *complacent*
 * [smuggle](/ˈsmʌɡ(ə)l/) [v]走私, 偷運/偷帶
 * smuggling [n]走私
-+ **snub** [n/v]冷落/怠慢 = *ignore* = **spurn**, 拒絕 = *rebuff*  [adj]獅子鼻的
++ **snub** [n/v]冷落/怠慢 = *ignore* = **spurn**, 拒絕 = *rebuff*  [adj]獅子鼻的 <|> **snob**
 + sober [adj]清醒的/未醉的, 嚴肅的/認真的 = *solemn* = *austere*, (顏色)樸素的 = *muted* [v]使清醒, 使嚴肅 <|> somber
 - somber [adj]暗的/暗淡的/深色的 = *gloomy* = *dark* = *shadowy*, 憂鬱的/嚴肅的 = *gloomy* = *dismal* = *grave*
 + [sobriety](/səˈbrʌɪəti/) [mn]清醒, 嚴肅 = *seriousness* = *gravity* = *solemnity* <-- sober
@@ -5348,7 +5348,7 @@
 - [spray](/spreɪ/) [n]水花, 噴霧, 噴霧器, 噴灑, 小樹枝, 花束 [v]噴抹, 噴灑, 濺散, 散, 掃射, (公貓)噴尿, 亂丟/亂踢
 - **spree** [n/v]玩樂/放縱 = **fling** = *indulge* = *pander*
 - sprig [n]帶葉小枝/嫩枝, 後裔
-- **spritz** [n/v]噴/噴灑 <|> glitz
+- **_spritz_** [n/v]噴/噴灑 <|> glitz
 - **sprightly**, **spritely** [adj]生氣勃勃的 <|> **spry**
 - spring -> sprang -> sprung [v]彈起/彈開, [from]源自 = *originate* from, [up]突然出現/湧現, (木頭或船)開裂/破裂 [n]春天, 彈簧, 彈性, 突然的跳躍, 泉, 泉源/來源
 - springboard [n]跳板
@@ -5561,7 +5561,7 @@
 + **tout** [v]兜售, 宣揚/吹捧 = *promote*, 提供賽馬情報 [n]提供賽馬情報的人 <|> stout
 + trace [v]查出/探出, 追溯, 追蹤, 描摹/複寫, 描繪 = *sketch* = *delineate*, 勾出……的輪廓 [n]痕跡/蹤跡, (利用電子儀器的)追蹤, **微量/少許** = *scintilla*, 追查, 輪廓線, **挽繩/韁繩**
 - traceable [adj]可追溯的/可追蹤的
-+ trample [v]用力踩踏/踐踏 = *tread* = *stamp*, **[on/upon/over]藐視/輕蔑地對待** [n]踩踏聲
++ trample [v]用力踩踏/踐踏 = *tread* = *stamp*, [on/upon/over]藐視/輕蔑地對待 [n]踩踏聲
 - tramp [v]腳步沉重地行走, 踩/踐踏 = *tread* [n]沉重的腳步聲, 長途徒步旅行, **不定期貨船**, 流浪者, **[非]蕩婦**
 - trampoline [n]蹦床/彈簧墊 [v]用蹦床做體操, 彈跳
 + [tranquil](/ˈtræŋkwəl/) [adj]平靜的 = *clam* = *peaceful* = *unagitated* = *serene* = *placid*
@@ -5577,7 +5577,7 @@
 * try [v]嘗試, 嘗試通訊, **磨練/折磨**, **審判**, 審理, 磨, 提取
 * **trying** [adj]令人難受的/惱人的/令人煩惱的
 + trial [n]審判, 使用/試驗, 考驗 [v]試驗 <-- try
-+ trifle [n]小事/瑣事, 少量/少許 [v]**小看/輕視** = *belittle* = *flout*, **[away]浪費時間/虛度**
++ trifle [n]小事/瑣事, 少量/少許 [v]**小看/輕視** = *belittle* = *flout* = **scorn**, **[away]浪費時間/虛度**
 + trifling [adj]不重要的/瑣碎的 = *nugatory* = *frivolous* = *minute* = *trivial* = *petty* = *paltry*
 + trigger [n]板機, (事件的)導火線 [v]引發/導致
 + [triumph](/ˈtrʌɪʌmf/) [n/v]凱旋/勝利/成功 = *victory* = *conquest*, 歡欣 = *exultation* = *jubilation*
