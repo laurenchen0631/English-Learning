@@ -1,13 +1,13 @@
 ## Noun
 - a big draw [n]吸引人的事物
 - a bite (to eat) [n]一些食物
-- a case in point [n]好例子
+- **a case in point** [n]好例子
 - a cross section of sth [n]...的典型/樣品
 - a drop in the bucket [n]微不足道/杯水車薪
 - **an end in itself** [n]本身即很重要的事物
 - a means to an end [n]達到目的的手段
-- a piece/slice of the action [n]分一杯羹
-- a raw deal [n]不公平的待遇
+- **a piece/slice of the action** [n]分一杯羹
+- **a raw deal** [n]不公平的待遇
 - a roof over your head [n]住處/棲身之處
 - **a tall order** [n]困難的事
 - a slap in the face [n]一巴掌/一記耳光
@@ -28,7 +28,7 @@
 - **catch-22** [n]左右兩難/進退維谷
 - cha-ching [n]錢
 - closed book [n]一無所知的學科/完全不懂的學科
-- close call [n]即將到來的災難
+- **close call** [n]即將到來的災難
 - con artist [n]騙子/行騙者 
 - diamond in the rough [n]一塊璞玉
 - **double whammy** [n]禍不單行
@@ -46,9 +46,9 @@
 - gainful employment [n]有酬工作
 - glass half empty [n]悲觀性格
 - glass half full [n]樂觀性格
-- good call [n]正確的選擇/正確的決定
+- good call [n]正確的選擇/正確的決定 <|> **close call**
 - **hard pass** [n]堅決拒絕
-- head start (on/over sth) [n]優勢
+- **head start** (on/over sth) [n]優勢
 - hobby shop [n]a kind of store that sells recreational items for hobbyists.
 - **hot button** [n]重要而敏感的問題
 - jack of all trades [n]萬事通/博而不精的人
@@ -92,7 +92,7 @@
 - **the ins and outs** [n]細節
 - the length and breadth of sth [n]...的四處/到處
 - the real deal [n]真正的能手, 真實/真實性
-- the whole kit and kaboodle/caboodle [n]全部/全體
+- **the whole kit and kaboodle/caboodle** [n]全部/全體
 - walk of life [n]各行各業/各個社會階層
 - weak link [n]薄弱的環節
 - **wet blanket** [n]掃興的人 = *party pooper*
@@ -107,7 +107,7 @@
 - Like father, like son. [phrase]有其父必有其子
 - revenge is sweet [phrase]報仇雪恨，大快人心
 - revenge is a dish best served cold [phrase]君子報仇，十年不晚
-- sink or swim [phrase]自己去闖/成敗全憑自己
+- **sink or swim** [phrase]自己去闖/成敗全憑自己
 - still waters run deep [phrase]深藏不露
 - That was then. This is now. [phrase]此一時，彼一時
 - The pot calling the kettle black [phrase]五十步笑百步/半斤八兩
@@ -132,14 +132,14 @@
 - in the nick of time [adv]在緊要關頭/在最後一刻
 - in years past [adv]很久以前
 - later on [adv]後來
-- more often than not [adv]往往/多半
+- **more often than not** [adv]往往/多半
 - never/not once [adv]從不
 - now and again [adv]有時
 - (every) now and then [adv]偶爾
 - on a day-to-day basis [adv]每天
 - on a regular basis [adv]經常
 - on a whim [adv]突然地
-- on and off [adv]時斷時續地/間歇地
+- **on and off** [adv]時斷時續地/間歇地
 - on and on [adv]持續地
 - on the horizon [adv]即將發生
 - on occasion [adv]有時/偶爾
@@ -172,7 +172,7 @@
 - (as) easy as falling off a log [adv]不費吹灰之力/非常輕鬆
 - a mile off [adv]一下子/很容易
 - above all [adv]最重要的是
-- all but [adv]除了...都, 幾乎/差不多
+- **all but** [adv]除了...都, 幾乎/差不多
 - all for naught [adv]徒勞 = in vain = all for nothing
 - all over [adv]在..到處
 - all the more [adv]更加/越發/格外 
@@ -180,7 +180,7 @@
 - along with [adv]以及/除...之外
 - and so forth [adv]等等/諸如此類
 - and so on [adv]等等/諸如此類
-- anything but [adv]遠非 = not
+- **anything but** [adv]遠非 = not
 - around the corner [adv]附近/將至
 - as a rule [adv]通常/一般說來
 - as luck would have it [adv]碰巧/幸好
@@ -197,7 +197,7 @@
 - **at the mercy of sth** [adv]任由某人/某事物擺布或控制
 - at/in the back of one's mind [adv]在潛意識裡/下意識地
 - at the height of sth [adv]在..的最高峰
-- at/on the heels of [adv]緊跟在..之後
+- at/on the heels of sth [adv]緊跟在..之後
 - at the tail end (of sth) [adv]在..的尾聲
 - behind one's back [adv]背著某人(說壞話)
 - behind the eight ball [adv]處於劣勢
@@ -205,8 +205,8 @@
 - **by and large** [adv]大體上/總體上
 - by design [adv]故意地/蓄意地
 - by the same token [adv]根據同樣的理由 
-- by the skin of your teeth [adv]僥倖成功/勉強完成/險些錯過
-- by way of [adv]當做/用作
+- **by the skin of your teeth** [adv]僥倖成功/勉強完成/險些錯過
+- by way of sth [adv]當做/用作
 - **cheek to jowl** [adv]緊靠在一起/緊挨著
 - either way [adv]不管哪一種/無論如何
 - every nook and cranny [adv]處處/到處
@@ -219,7 +219,6 @@
 - from the ground up [adv]從頭開始, 完全地
 - for the most part [adv]一般/通常
 - **hand over fist** [adv]迅速大量地(賺錢)
-- hit the nail on the head [v]一針見血/說中要害
 - in a hurry [adv]迅速/匆忙
 - in a nutshell [adv]概括地說
 - in a vacuum [adv]與世隔絕
@@ -500,6 +499,7 @@
 - **hit into one's stride** [v]逐漸進入狀態/開始上軌道
 - hit it off (with sb) [v]相處得好/合得來
 - hit the ground running [v]雷厲風行/立刻展開行動
+- hit the nail on the head [v]一針見血/說中要害
 - hit the road [v]離開/出發
 - hold/keep/put sth at bay [v]阻止/遏制
 - How are you bearing up? [phrase]過得如何

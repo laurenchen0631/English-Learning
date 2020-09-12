@@ -5620,7 +5620,7 @@
 * threaten [v]威脅/恐嚇 = *menace*, 危害 = *endanger*, (壞事)逼近
 * threatening [adj]脅迫的/威脅的 = *menacing* <--> unthreatening
 * **trappings** [n] (特定工作、處境或事件的)從屬物/標誌 = *ornaments*
-- **treacle** [n]糖蜜 = syrup
+- **[treacle](/ˈtriːk(ə)l/)** [n]糖蜜 = syrup
 * **treacly** [adj]糖蜜似的 = *viscous*, 多愁善感的 = *sentimental* = **saccharine**
 * treat [v]對待/看待, [as]把……看作, 探討/論述, 治療, 處理/為……塗上保護層, **[to]請客**, [oneself]享受, **談判/協商** [n]**難得的樂事**, 請客, 甜食
 * **treaty** [n]條約/協議 <|> **treatise** <-- tractate
@@ -5629,7 +5629,7 @@
 * tolerant [adj]寬容的/容忍的, 有耐受性的
 * tolerance [n]寬容/寬大, 忍耐力, 耐受性/耐藥量
 * **tony** [adj]高貴的/時髦的
-* **_totter_** [v]踉蹌/蹣跚, 搖搖欲墜 [n]蹣跚
+* **_totter_** [v]踉蹌/蹣跚 = **dodder**, 搖搖欲墜 [n]蹣跚 
 * tow [v]拖/拉/牽引 [n]亞麻纖維
 * tremble [v]顫抖/發抖 = *shake* = *quiver*, 焦慮/擔憂 [n]顫抖/發抖, 牛馬震顫病 = *milk sickness*
 - tremor [n]震顫/顫抖, 地震 = *earth* tremor
@@ -5649,7 +5649,7 @@
 ***
 
 - tab [n]拉環, (電腦分頁)標籤, **(餐廳)帳單/帳款** = *bill*, (鍵盤)跳位鍵, [非]迷幻藥, [非]小報, 古記譜法 = *tablature* [v]**選定/合適(職位)**, 按跳位鍵, 使表格化 = *tabulate*
-- tabby [adj]虎斑的(貓) [n]虎斑貓
+- **tabby** [adj]虎斑的(貓) [n]虎斑貓
 - **tad** [adv][a tad]一點點 = *somewhat* [n]一點點
 - table [n]桌子, 食物/菜餚, 表, 乘法表 [v]擱置/暫緩審議
 - tablet [n]刻寫板/簡, 掌上電腦, 便箋簿, 藥片
@@ -5660,7 +5660,7 @@
 - tadpole [n]蝌蚪 <-- toad + poll 頭 = *head*
 - taffy [n]太妃糖, **[非]奉承/諂媚**
 - tailpipe [n]排氣管
-- **tailspin** [n]飛機尾旋, 混亂/慌亂 [v]陷入混亂
+- **_tailspin_** [n]飛機尾旋, 混亂/慌亂 [v]陷入混亂
 - tailwind [n]順風
 - takeaway [n]外帶餐, **要點**
 - takeoff [n]起飛, **[非]模仿**
@@ -5741,7 +5741,7 @@
 - threadbare [adj]穿舊的/破的 = *worn-down*, 陳舊的/老一套的
 - **throb** [v]有節奏地敲, 抽痛 [n]規律的敲擊聲, 抽痛
 - throne [n]王座, 王權/君權 [v]使登王位 <|> thorn
-- **throng** [n]一大群 [v]擠滿/群集
+- **throng** [n]一大群 [v]擠滿/群集 <|> thong
 - throttle [n]節流閥 [v]掐死/使窒息, 調節, [back/down]減速
 - throughout [adv/prep]遍及/遍布, 從頭到尾
 - **thrum** [v]發出連續低沉的聲響, 彈奏/撥弄(弦) = *strum* [n]連續低沉的聲響, 紗頭/線頭
@@ -5790,14 +5790,14 @@
 - titanic [adj]巨人的 = *colossal*, 鈦的
 - **[tithe](/tʌɪð/)** [n]什一稅 [v]向……徵收什一稅, 把..的十分之一交稅
 - titular [adj]有名無實的, 稱號的 <-- title
-- **tizzy** [n]興奮/慌亂
+- **_tizzy_** [n]興奮/慌亂
 - toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, **祝酒/敬酒** <|> boast
 - toddler [n]學步的小孩
 - toenail [n]腳趾甲
 - **toil** [v]苦幹/努力工作, 艱難緩慢地行走 [n]苦工 = *labor* <|> toll <|> moil
 - tombstone [n]墓碑/墓石, **墓碑廣告(承銷團經常刊登的廣告)** <-- tomb + stone
 - **tongs** [n]夾子/鉗子
-- **thong** [n]丁字褲 = *g-string*, 皮帶/皮條, 人字涼鞋 <|> **throng**
+- thong [n]丁字褲 = *g-string*, 皮帶/皮條, 人字涼鞋 <|> **throng** <|> **tongs**
 - [tonsil](/ˈtɒns(ə)l/) [n]扁桃腺
 - toiletry [n]盥洗用品
 - tonic [n]補藥/補品, 生髮水 = *tonic* water [adj]使人精神振奮的 = *invigorating*, **聲調的**, 主音的 <|> tunic
@@ -5880,7 +5880,7 @@
 - **trump** [n]王牌 = *ace*, 大阿爾克那/大牌, 王牌/殺手鐧, 好人 [v]出王牌, 超越
 - **trumpet** [n]喇叭/小號, 喇叭聲, 黃瓶子草 [v]吹喇叭, 大力宣傳 = *proclaim* widely 
 - **truncheon** [n]警棍 = *baton* = *nightstick*
-- **trundle** [n/v]艱難地移動
+- **_trundle_** [n/v]艱難地移動
 - trunk [n]樹幹, 軀幹/身軀, 象鼻, 大皮箱
 - **truss** [n]支撐屋頂、橋樑的構架/桁架, [醫]疝帶/托帶, 花束 [v] (在烹調之前)將(雞、鴨等的)翅膀和腳紮攏, 綁起(雙臂), 用構架支撐
 - trustee [n]財產、業務等的受託管理人, 託管國
@@ -5900,7 +5900,7 @@
 - tusk [n]長牙/獠牙
 - **_tussle_** [n/v]爭鬥/搏鬥
 - tutor [n]家庭教師/私人教師, 助教 [v]當家庭教師
-- **tutti** [n]全體的合奏,合唱
+- **_tutti_** [n]全體的合奏,合唱
 - **tuxedo** [n]禮服/無尾禮服
 - **[twang](/twaŋ/)** [n]撥弦聲, 鼻音/帶鼻音的方言 [v] (使)發出撥弦聲, 帶鼻音說
 - tweak [v]擰, [非]調整(機械), [非]使焦慮 [n]擰, [非]調整
