@@ -1178,6 +1178,7 @@
 - consular [adj]領事的 <|> council <|> consult
 - coo [n]鴿子等的咕咕叫聲 [v]柔情地低聲說話
 - coop [n]籠子/欄舍 [v]把…關起來, 把…關在欄舍中
+- **cootie** [n]虱子 <|> **scoot**
 - come -> came -> come [v][by]順道拜訪, [by]設法取得, **[off]如計畫中進行**, [off]停止服用(藥物), [off]摔落, [off]掉落, **[up]走向**, [up]被提及, [up]出現, [up]發生, **[across]表現得/讓人覺得/給人以…印象**, [across]偶然發現/碰見/無意中發現, [down to]歸結為, [upon]偶然發現/碰上/邂逅
 - **comeback** [n]巧妙的反駁, 恢復/重整旗鼓
 - commentator [n]評論者, 實況解說員
@@ -1233,6 +1234,7 @@
 - **creek** [n]小溪 = *brook* <|> creep <|> creel <|> crook
 - **creel** [n]魚簍, [紡]筒子架
 - cremate [v]燒成灰, 火葬/火化 = *incinerate*
+- crematorium [n]火葬場
 - crest [n]山頂, 浪峰, (動物的)羽冠/肉冠, 頭盔的羽飾, (作為標記的)徽章/紋章 [v]到達山頂, 達到最高峰, 形成浪峰, 在……上加頂飾
 - **crib** [n]有欄杆的嬰兒床, 糧倉 [v]抄襲/剽竊/作弊
 - cringe [v]蜷縮, 感到尷尬 [n]蜷縮
@@ -2037,6 +2039,7 @@
 - framer [n]組成者/籌劃者, **美國憲章制定者**, 裝框者
 - **_frangible_** [adj]脆弱的/易碎的 = *fragile*
 - **_[fraternal](/frəˈtəːn(ə)l/)_** [adj]兄弟的/兄弟般的, 友愛的, 異卵的(雙胞胎)
+- fraternity [n]大學的兄弟會, 同行朋友/會友
 - freak [n]反常現象, 畸形的生物或植物, 怪胎, 狂熱者, 藥物成癮者 [v] **(使)反常**, **[out]嚇到**
 - freakish [adj]反常的/古怪的 = *aberrant* = *strange*
 - **freckle** [n]雀斑/小斑點 [v]生雀斑
@@ -2308,6 +2311,7 @@
 - gob [n]一塊(黏質物), 大量, [非]水手
 - gobble [v]貪婪地吃/狼吞虎嚥 = *guzzle*, 大量消耗, 併吞/掌控, (火雞)咯咯地叫
 - **goggle** [v]瞪大眼睛看, (眼睛)睜大 [adj]凸眼的 [n]護目鏡, 瞪視
+- gonad [n]生殖腺
 - **goon** [n]呆子, 受僱暴徒
 - **goop** [n]黏糊的物體, 3羥基丁酸 = *hydroxybutyrate*
 - **[gore](/ɡɔː/)** [n]凝血/血塊, 血, 三角形布 [v]刺傷
@@ -2616,6 +2620,7 @@
 - homemaker [n]主婦
 - hone [n]磨刀石 [v]磨刀 <--> blunt, 磨練/鍛鍊, [in on]瞄準/對準 = *home in on* = *zero in on*
 - honk [n]鵝叫聲 [v]鵝叫, 鳴(汽車喇叭), **嘔吐** = **barf**
+- honky-tonk [adj]用鋼琴演奏的酒吧爵士樂的 [n]低級酒吧
 - **honorarium -> honoraria** [n]報酬/謝禮 <-- honor + arium 東西
 - honorary [adj]名譽上的
 - honoree [n]領獎人/受勛人
@@ -2638,6 +2643,7 @@
 - hostel [n]旅舍, 青年旅舍 = *youth* hostel
 - hothead [n]性急的人/暴躁之人
 - household [n]一家人/家眷/家庭/戶
+- housewarming [n]喬遷派對
 - **[hovel](/ˈhɒv(ə)l/)** [n]茅舍/骯髒的小屋 = *hut*
 - hover [v]盤旋, 猶豫, 徘徊, 停留 [n]盤旋/徘徊
 - hovercraft [n]氣墊船
@@ -3449,6 +3455,7 @@
 - mind-blowing [adj][非]令人印象深刻的/令人驚奇的 = *exciting* = *surprising*, (毒品)引起幻覺的
 - mindset [n]心態
 - minefield [n]雷區/地雷區
+- mink [n]貂, 貂皮
 - minnow [n]米諾魚/鰷魚, 微不足道的機構或人 <|> winnow
 - minority [n]少數/少數派 <--> majority, 少數民族 [mn]未成年 
 - mirror [n]鏡子, 反映/真實的寫照 [v]反射出, **符合/一致** = *correspond to*
@@ -4470,6 +4477,7 @@
 - **reek** [v]發臭 = *stink*, [of]帶有/充滿 = **smack of** [n]臭氣
 - reel [n]捲筒, 一捲, 影片的一部份, 卷線器, 蘇格蘭民族舞蹈 [v]跳蘇格蘭民族舞蹈, 捲/繞, **失去平衡/跌倒**, 搖搖晃晃地走, **感到困惑/震驚**, **[off]迅速地做或說**
 - refreshing [adj]提神的, 使人耳目一新的
+- regatta [n]帆船賽
 - religiosity [n]篤信 = *string belief*
 - **[rendezvous](/ˈrɑːn.deɪ.vuː/)** [n]約會/約會地點 <-- [法]rendez 表現 = *present* + voud 自己 = *yourself* 
 - rent [n]租金, 裂縫/破洞 [v]租用 = *leash*, 租出 = *leash*
@@ -5449,6 +5457,7 @@
 - **stupendous** [adj]驚人的/巨大的
 - stutter [n/v]結巴/口吃, 斷斷續續地運轉
 - stylus [n]唱針 = *needle*, 鐵筆/尖筆, 觸控筆
+- sucker [n]**易受騙的人**, 吸管/吸盤, [植]吸根, 亞口魚/胭脂魚, 棒棒糖 [v]**欺騙**
 - suckle [v]哺乳, 吮吸
 - suckling [n]未斷奶的乳獸/幼獸 = *cub* = *culf*
 - **suds** [n]泡沫 = *foam* = *froth*, 啤酒 = beer [v]清洗, 起泡沫 = **spume** <|> **stud** <|> **stub**
@@ -5554,7 +5563,7 @@
 + token [n]標記/標誌 = *sign* = *symbol* = *mark*, 禮券/代金券, 代幣 [adj]標誌性的/有象徵意義的, 裝點門面的/裝樣子的
 + toll [n]通行費, 長途電話費, 損失/傷亡人數, 負面效果 [v]徵收(税或通行費) = *impose* <|> toil
 + tome [n]大型書本 = *book*
-+ **_torpid_** [adj]懶散的/無生氣的 = *sluggish* = *lethargic*, 冬眠的 = *dormant* <-- torp 麻木 = *numb* + or
++ **_torpid_** [adj]懶散的/無生氣的 = *sluggish* = *lethargic*, 冬眠的 = *dormant* <|> **turgid**
 + torpor [n]懶散/無生氣 = *sluggishness* = *inert* = *lethargy*
 - **_torrid_** [adj]炎熱的, 灼熱的(性愛), (經濟)狂熱的 <|> **torpid**
 + totality [n]全部/全體
@@ -5798,7 +5807,7 @@
 - tombstone [n]墓碑/墓石, **墓碑廣告(承銷團經常刊登的廣告)** <-- tomb + stone
 - **tongs** [n]夾子/鉗子
 - thong [n]丁字褲 = *g-string*, 皮帶/皮條, 人字涼鞋 <|> **throng** <|> **tongs**
-- [tonsil](/ˈtɒns(ə)l/) [n]扁桃腺
+- **[tonsil](/ˈtɒns(ə)l/)** [n]扁桃腺
 - toiletry [n]盥洗用品
 - tonic [n]補藥/補品, 生髮水 = *tonic* water [adj]使人精神振奮的 = *invigorating*, **聲調的**, 主音的 <|> tunic
 - tonne [n]公噸 = *metric* ton
@@ -5806,7 +5815,7 @@
 - **tootsie** [n]腳趾, 腳, 女人 = *toots*
 - top-up [n]注滿/加滿
 - **topless** [adj]無頂的, 上空的/上身裸露的
-- topical [adj]有關時事的, 論題的, **[醫]局部的**
+- topical [adj]有關時事的, 論題的, **[醫]局部的** <|> tropical
 - topple [v] (使)倒下/(使)倒塌, overbalance, 顛覆 = *overthrow*
 - **torpedo** [n]魚雷, 水雷, 甩炮, 油井爆破筒, 職業殺手, 潛艇三明治 [v]用魚雷襲擊
 - torrent [n]洪流/急流, 迸發/狂潮
@@ -5920,8 +5929,8 @@
 ## U
 + ubiquity [n]無所不在 = *omnipresence* <-- ubiqu 到處 = *everywhere* + ity
 + **ubiquitous** [adj]無所不在的 = *omnipresent*
-- **[unction](/ˈʌŋ(k)ʃ(ə)n/)** [n]塗聖油禮, 油膏/軟膏 = *ointment*, 熱忱
-+ **unctuous** [adj]油質的 = *fatty*, 油腔滑調的 = *oily* = *sleek* <-- unct 塗油 = *anoint*, smear + ous
+- **[unction](/ˈʌŋ(k)ʃ(ə)n/)** [n]塗聖油禮, 油膏/軟膏 = *ointment*, 熱忱 <-- unct 塗油 = *anoint*, smear + ous
++ **unctuous** [adj]油質的 = *fatty*, 油腔滑調的 = *oily* = *sleek* 
 - umpteenth [n]第無數個
 + **[urbane](/əːˈbeɪn/)** [adj] (尤指男子)從容自信的/溫文爾雅的
 + urbanity [n]雅緻/儒雅, 都市生活/都市風格
@@ -6055,7 +6064,7 @@
 - velociraptor [n]迅猛龍
 - **_vellum_** [n]羊皮紙
 - venom [n]毒液, 怨恨/痛恨 = *malevolence*
-- **veranda** [n]走廊
+- **_veranda_** [n]走廊
 - verge [n]邊/邊緣, 路邊/路肩, (標誌職權的)權杖 [v][on]接近/近似
 - **vermin** [n]害蟲/害獸, 危害社會的人/害蟲
 - **_verve_** [n]精力/活力/熱情 = *enthusiasm* = *vigor* = *spirit* <|> **swerve** <|> verge
@@ -6079,15 +6088,15 @@
 - virgin [n]處女/童男, 從未有過...經歷的人/新手 [adj]處女的, 未開發的/未經利用的
 - **virility** [n]男子氣概 = *manliness*
 - **_vis-a-vis_** [prep]對於/關於 = *with regard to*, 相較於 = *as opposed to* [n]相應的人面對面的談話
-- vixen [n]雌狐, 兇悍的女人
+- **vixen** [n]雌狐, 兇悍的女人
 - vole [n]田鼠
 - volley [v]齊發/群射 [n/v] (質問)迸發/連發, 截擊(球)
 - voluminous [adj]寬鬆的(衣物), (家具)大而舒適的, 冗長的, 著作多的 <-- volume
 - **_voluptuous_** [adj]令人愉悅的/令人舒服的 = *agreeable*, 性感的/撩人的 = *seductive* = *sultry* = *luscious*
 - **_vouch_** [v][for]擔保/作證, 傳喚(出庭作証)
-- **voucher** [n]現金卷/代金券/兌換券
+- voucher [n]現金卷/代金券/兌換券
 - vowel [n]母音 <--> consonant <|> bowel
-- **vroom** [n]汽車加速時發出的嗚嗚聲 [v]發嗚嗚聲
+- vroom [n]汽車加速時發出的嗚嗚聲 [v]發嗚嗚聲
 - vulture [n]禿鷹
 - **[vulva](/ˈvʌlvə/)** [n]陰戶/外陰
 

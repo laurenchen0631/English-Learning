@@ -6,10 +6,13 @@
 - a drop in the bucket [n]微不足道/杯水車薪
 - **an end in itself** [n]本身即很重要的事物
 - a means to an end [n]達到目的的手段
+- **a pat on the back** [n]稱讚/讚揚
+- a pain in the arse/backside [n]極其討厭的人或物
 - **a piece/slice of the action** [n]分一杯羹
 - **a raw deal** [n]不公平的待遇
 - a roof over your head [n]住處/棲身之處
 - **a tall order** [n]困難的事
+- a shot in the dark [n]無根據的瞎猜
 - a slap in the face [n]一巴掌/一記耳光
 - bed of roses [n]稱心如意的處境
 - bee's knees [n]出類拔萃的人或事物
@@ -39,6 +42,7 @@
 - fast track [n]快速成功之路/迅速晉升之道
 - feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
 - fall guy [n]代罪羔羊 = *scapegoat*
+- frat brother/boy [n]大學兄弟會成員
 - **free-for-all** [n]不受控制的局面
 - friend with benefits [n]可以上床的朋友
 - fuck buddy [n]砲友
@@ -54,6 +58,7 @@
 - jack of all trades [n]萬事通/博而不精的人
 - knock-on effect [n]連鎖反應
 - icing on the cake [n]錦上添華
+- **laughing stock** [n]笑柄/笑料
 - life in the fast lane [n]充滿刺激的生活
 - lip service [n]口頭/說說
 - live wire [n]機靈鬼/精力充沛的人
@@ -69,6 +74,7 @@
 - one and the same [n]同一個事物/同一個人 
 - one another [n]其他每個人 = *each other*
 - one-night stand [n]一夜情, 僅演一次的演出
+- out-of-body experience [n]靈魂出竅的體驗
 - paper route [n]送報
 - **pet peeve** [n]最討厭的事/痛處
 - pipe dream [n]白日夢/空想
@@ -103,6 +109,7 @@
 
 ## Apothegm
 - Cogito, ergo sum [phrase]我思故我在
+- (One's) cup runneth over [phrase]One has such an abundance of good things or happy benefits that one is overwhelmed by them or cannot contain them.
 - beggars can't be choosers [phrase]要飯的哪能挑肥揀瘦/別無選擇
 - Like father, like son. [phrase]有其父必有其子
 - revenge is sweet [phrase]報仇雪恨，大快人心
@@ -345,6 +352,7 @@
 - **be in a (pretty/right) pickle** [v]處於困境
 - **be in business** [v]準備就緒
 - be in its infancy [v]在初期/在早期
+- be in the driving seat [v]處於控制或管理地位
 - be in the same boat [v]處境相同/面臨同樣的困境
 - **be in/on the cards** [v]很可能發生
 - be like fish out of water [v]如魚離水
@@ -441,6 +449,7 @@
 - **fire back** [v]迅速應對
 - **fit to be tied** [v]怒不可遏
 - foot the bill [v]付帳
+- for crying out loud [phrase]天哪/真是豈有此理
 - front and center [adj]最重要的/最主要的
 - get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
 - get (sth) off the ground [v] (使)開始/(使)成功進行
@@ -557,6 +566,7 @@
 - **paint the town red** [v]尋歡作樂
 - **pay the piper** [v]付出代價
 - pick a lane [v]做出選擇/堅持到底
+- pick one's nose [v]挖鼻孔
 - pick one’s brain [v]尋求..的建議
 - pick sb/sth out of a hat [v]隨機選出
 - pick up the tab [v]付帳
@@ -587,6 +597,7 @@
 - rain on one's parade [v]潑冷水/掃興
 - **rear its (ugly) head** [v] (令人不快的事情)出現/發生
 - ring true [v]聽起來是真的
+- **rise and shine** [phrase]快起床
 - risk life and limb [v]冒著生命危險
 - roll off the tongue [v]順口說出
 - roll one's eyes [v]翻白眼
@@ -624,7 +635,7 @@
 - strike a pose [v]擺姿勢
 - sweep sth under the rug [v]把(不好的事情或令人尷尬的事)隱藏起來
 - **swing for the fences** [v]奮力一擊/盡全力一搏
-- **suck it up** [v]自認倒楣
+- **suck it up** [v]自認倒楣 <|> suck up to
 - **_take a drag_** [v]吸一口煙
 - **take a rain check** [v]改天
 - **take a spin** [v]兜風
@@ -960,6 +971,7 @@
 - strike down [v]裁定(某法律條文)非法
 - string along [v]長期哄騙/敷衍
 - strip down [v]脫得只剩下…/把衣服脫到
+- suck up to sb [v]奉承/巴結
 - swap out [v]交換
 - tag along [v]跟隨/尾隨 
 - take aback [v]使吃驚

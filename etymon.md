@@ -5974,6 +5974,7 @@
 - **_privative_** [adj]匱乏的/缺乏的, 表示缺少的/否定的(字詞) 
 - **privy** [adj][to]私下知道的/知曉(內情)的 [n]廁所
 + [privilege](/ˈprɪvɪlɪdʒ/) [n]特權, 殊榮 [v]給予..特權, 豁免 = *exempt*
+- underprivileged
 
 ## pur 附近 = *around*
 - purchase [n/v]購買 [n]所購之物, **支點/槓桿**, 緊抓/緊繫
@@ -8789,6 +8790,7 @@
 - underperform [v]表現不佳
 - **underpin** [v]支撐, 支持/鞏固
 + underplay [v]對……輕描淡寫 = *downplay* = *underestimate* = *deemphasize*, 含蓄地表演 = *underact*
+- underprivileged [adj]弱勢的
 + underrate [v]低估 = *underestimate* = *underprice* = *undervalue*
 - underreport [v]未全面報告
 - underrepresented [adj]未被充分代表的/代表名額不足的
