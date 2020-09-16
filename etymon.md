@@ -5995,6 +5995,7 @@
 
 ## pend, pens 掛/秤重 = *hang*, weigh	
 - append [v]附加/增補
+- **appendicitis** [n]闌尾炎
 - depend [v]取決於, 依靠/依賴
 + dependable [adj]可靠的 = *reliable* = *trustworthy* 
 + [compensate](/ˈkɒmpɛnseɪt/) [v]賠償/補償 = *indemnify* = *recompense* = *wage*, 酬報, [for]彌補/抵銷 = *offset* = *counterbalance*
@@ -9152,6 +9153,7 @@
 - provide [v][with]提供 = *supply*, 提出 = *yield* = *contribute*, [for]做準備, 規定 = *stipulate*
 + **_provision_** [n]供應, [for/against]經濟規劃, 準備金, 供給, 糧食/食物供給/物資 = *ration*, 規定/條款 [v]撥劃準備金, 向……供應糧食 <-- provide
 + **provisional** [adj]暫時性的/臨時的 = *provisory* = *tentative* = *temporary* [n]臨時郵票 <|> provincial
++ **proviso** [n]但書/附帶條件
 - **provisory** [adj]有但書的/有附帶條件的, 暫時性的/臨時的 = *provisional* 
 + survey [v]審視, 勘測/測繪, 調查 = *investigate* [n]全面的考察, 調查, 調查報告, 勘測/測繪, 測量圖, 測繪部門
 - surveyor [n]測量員/勘測員

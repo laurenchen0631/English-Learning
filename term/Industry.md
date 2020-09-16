@@ -604,6 +604,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - watercress [n]水田芥
 - pancetta [n]義大利培根的一種
 - melba toast [n]梅爾巴吐司(烤脆的薄麵包片)
+- butternut squash [n]南瓜
+- macaroni and cheese [n]起司通心麵
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -745,10 +747,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - track record 成績記錄 == all the achievements or failures that someone or something has had in the past
 	> The school has an impressive/strong track record of getting its students into good universities.
 - Montessori 蒙特梭利教育，由義大利心理學家兼教育學家瑪麗亞·蒙特梭利發展起來的教育方法，強調獨立，有限度的自由和對孩子天然的心理、生理及社會性發展的尊重。
-- abstinence-only programs 守貞教育，是性教育的一種形式，其會教育學生不要進行發生婚姻以外的性行為，並以負面角度形容發生婚前性行為及女性進行墮胎後的後果
-- [sabbatical](/səˈbatɪkəl/) 
-	> 教授休假/學術休假 |A period of paid leave granted to a university teacher or other worker for study or travel, traditionally one year for every seven years worked.| she is away on sabbatical
-	> 特休的 |Relating to a sabbatical.| sabbatical leave
+- abstinence-only programs 守貞教育，是性教育的一種形式，其會教育學生不要進行發生婚姻以外的性行為，並以負面角度形容發生婚前性行為及女性進行墮胎後的後果 
+- [sabbatical](/səˈbatɪkəl/) [n]教授休假/學術休假 [adj]特休的
 - [semester](/sɪˈmɛstə/) 一學期 == A half-year term in a school or university, especially in North America, typically lasting for fifteen to eighteen weeks.
 - [seminar](/ˈsɛmɪnɑː/) [n]專題討論會, 研討會
 - Registrar's Office 教務處

@@ -381,7 +381,7 @@
 - the Great Smoky Mountains [n]大霧山
 - the Rocky Mountains [n]洛磯山脈
 - the San Juan Mountains [n]聖胡安山脈，是一個高聳崎嶇的山脈，屬於落基山脈的一部分
-* Appalachian Mountains /ˌapəˌleɪ(t)ʃ(ə)n ˈmaʊntənz/ [n]阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
+* [Appalachian Mountains](/ˌapəˌleɪ(t)ʃ(ə)nˈmaʊntənz/) [n]阿帕拉契山脈，是北美洲東部的一座山系。南起美國的阿拉巴馬州，北至加拿大的紐芬蘭和拉布拉多省。
 - the Northern Rockies [n]北落磯山脈
 - the Great Lakes [n]五大湖(五大湖是位於加拿大與美國交界處的5個大型淡水湖泊)
 - the Great Plains [n]北美大平原。大致位於密西西比河以西、落基山脈以東、格蘭德河以北
@@ -503,5 +503,6 @@
 - Ecuador [n]厄瓜多
 	- the Galapagos Islands [n]科隆群島/加拉巴哥群島，為厄瓜多領土，屬火山群島
 - Chile [n]智利 --> Chilean [adj]智利的 [n]智利人
+
 <!-- (\w*)\s(/\S+/)  |  [$1]($2) -->
  

@@ -32,9 +32,9 @@
 - A.D. == Anno Domini [n]西元(在主之年)
 - B.C. == Before Christ [n]西元前
 
-- degree [Celsius](/ˈsɛlsɪəs/)  == °C
-- Celsius 攝氏[](/ˈsɛlsɪəs/) 
-- kelvin 克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
+- degree Celsius  == °C
+- [Celsius](/ˈsɛlsɪəs/) 攝氏
+- kelvin [n]克耳文 == The SI base unit of thermodynamic temperature, equal in magnitude to the degree Celsius.
 
 
 ## Law/Theory/Study
@@ -73,12 +73,12 @@
 - [palladium](/pəˈleɪdɪəm/) [n]鈀
 - [calcium](/ˈkalsɪəm/) [n]鈣
 + [ammonia](/əˈməʊnɪə/) [n]氨
-- helium [](/ˈhiːlɪəm/) [n]氦
-- neon 	[](/ˈniːɒn/) [n]氖
-- argon [](/ˈɑːɡɒn/) [n]氬
-- krypton [](/ˈkrɪptɒn/) [n]氪
-- xenon [](/ˈzɛnɒn/) [n]氙
-- radon [](/ˈreɪdɒn/) [n]氡
+- [helium] (/ˈhiːlɪəm/) [n]氦
+- [neon](/ˈniːɒn/) [n]氖
+- [argon](/ˈɑːɡɒn/) [n]氬
+- [krypton](/ˈkrɪptɒn/) [n]氪
+- [xenon](/ˈzɛnɒn/) [n]氙
+- [radon](/ˈreɪdɒn/) [n]氡
 + [sodium](/ˈsəʊdɪ/) [n]鈉
 - [cobalt](/ˈkəʊbɔːlt/) [n]鈷
 - [manganese](/ˈmaŋɡəniːz/) [n]錳
@@ -88,7 +88,8 @@
 - cadmium [n]鎘
 + [nickel](/ˈnɪk(ə)l/) [n]鎳, 五分錢
 + lithium [n]鋰
-+ chlorine [n]氯 --> chlorinate [v]使氯化 == Impregnate or treat with chlorine.
++ chlorine [n]氯
++ chlorinate [v]使氯化 == Impregnate or treat with chlorine.
 + phosphorus [n]磷
 + [potassium](/pəˈtasɪəm/) [n]鉀
 - zinc [n]/zɪŋk/ 鋅
@@ -99,13 +100,14 @@
 - [iodine](/ˈʌɪədiːn/) [n]碘, 碘酒
 - arsenic [n]砷
 
-- particle [n]微粒 --> [particulate](/pɑːˈtɪkjʊlət/) [adj]微粒的 [n]微粒狀物質
+- particle [n]微粒
+- [particulate](/pɑːˈtɪkjʊlət/) [adj]微粒的 [n]微粒狀物質
 - [atomic](/əˈtɒmɪk/) [adj]原子的, 無法分割的, 原子能的
 - [monatomic](/ˌmɒnəˈtɒmɪk/) 單原子的
 - [subatomic](/sʌbəˈtɒmɪk/) [adj]次原子的/比原子小的
-- quark [n]低脂起司凝塊, 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子，它們是構成原子核的單元)
+- quark [n]低脂起司凝塊, 夸克(一種基本粒子，也是構成物質的基本單元。夸克互相結合，形成一種複合粒子，叫強子，強子中最穩定的是質子和中子)
 - electron [n]電子
-- proton ˈprəʊtɒn/ [n]質子
+- [proton](/ˈprəʊtɒn/) [n]質子
 - [cation](/ˈkatʌɪən/) [n]陽離子
 - [muon](/ˈmjuːɒn/) [n]緲子，一種帶有一個單位負電荷、自旋為1/2的基本粒子
 - [ion](/ˈʌɪən/) [n]離子
@@ -133,8 +135,8 @@
 - sulfur dioxide [n]二氧化硫
 - silica [n]二氧化矽
 - [methane](/ˈmɛθeɪn/) [n]甲烷
-- [nitrate](/ˈnʌɪtreɪt/)[](/ˈnī-ˌtrāt/) [n]硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
-- nitre == saltpetre == potassium nitrate [n]硝酸鉀 --> nitric [adj]
+- [nitrate](/ˈnʌɪtreɪt/) [n]硝酸鹽 == A salt or ester of nitric acid, containing the anion NO₃
+- nitre == saltpetre == potassium nitrate [n]硝酸鉀
 - [formaldehyde](/fɔːˈmaldɪhʌɪd/) [n]甲醛
 - cyanide [n]氰化物
 - fluoride [n]氟化物
@@ -145,8 +147,8 @@
 - myelin [n]髓磷脂
 - glycoside [n]醣苷
 - [steroid](/ˈstɛrɔɪd/) [n]類固醇
-+ [collagen](/ˈkɒlədʒ(ə)n/) [n]膠原蛋白 <-- colla = glue + gen
-- [glucose](/ˈɡluːkəʊz/) [n]葡萄糖 == A simple sugar which is an important energy source in living organisms and is a component of many carbohydrates.
++ [collagen](/ˈkɒlədʒ(ə)n/) [n]膠原蛋白
+- [glucose](/ˈɡluːkəʊz/) [n]葡萄糖 
 - [triglyceride](/trʌɪˈɡlɪsərʌɪd/) [n]三酸甘油酯
 - [ketone](/ˈkiːtəʊn/) [n]酮
 - vinyl [n]乙烯基
@@ -174,7 +176,7 @@
 - [gaseous](/ˈɡasɪəs/) [adj]氣體的/氣態的
 - [filtration](/fɪlˈtreɪʃn/) [mn]過濾
 
-- wavelength [](/ˈweɪvlɛŋ(k)θ/) [n]波長
+- wavelength [n]波長
 - waveform [n]波形 
 - electromagnetic wave [n]電磁波/電磁輻射，量子形式是光子。電磁波不需要依靠介質進行傳播，在真空中其傳播速度為光速
 - radio wave [n]無線電波，是一種電磁波，其波長在電磁波譜中比紅外線長
@@ -189,13 +191,12 @@
 - spectrogram [n]光譜圖
 - [spectral](/ˈspɛktr(ə)l/)  [adj]幽靈的, 光譜的
 - spectral lines 譜線，譜線是在均勻且連續的光譜上明亮或黑暗的線條，起因於光子在一個狹窄的頻率範圍內比附近的其他頻率超過或缺乏
-- [prism](/ˈprɪz(ə)m/) [n]稜柱, 稜鏡, 扭曲的觀點 <-->[](/ˈprɪz(ə)n/) prison
+- [prism](/ˈprɪz(ə)m/) [n]稜柱, 稜鏡, 扭曲的觀點 <-->[prison](/ˈprɪz(ə)n/) 
 - optical radiation [n]光輻射
 - light wave [n]光波
 - ultraviolet light [n]紫外線
-+[](/ɪnfrəˈrɛd/) infrared [adj]紅外線的
++ [infrared](/ɪnfrəˈrɛd/)  [adj]紅外線的
 - gravitational lens [n]重力透鏡效應，根據廣義相對論，就是當背景光源發出的光在重力場附近經過時，光線會像通過透鏡一樣發生彎曲。光線彎曲的程度主要取決於重力場的強弱
-
 
 - magnetic field [n]磁場
 - electrostatic [adj]靜電的
@@ -255,7 +256,7 @@
 - elliptical galaxy [n]橢圓星系
 - Population I [n]第一星族，分類標準的是年齡、化學成分、在星系內的位置、和空間速度。
 - Population II [n]第二星族
-	- bulge [n]腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) [v]膨脹/凸起, [with]裝滿
+- bulge [n]腫脹/凸塊, 暫時的上漲, 核球(在天文學中是指緊密聚集的一群恆星，在多數的場合中提到時，通常就是指星系) [v]膨脹/凸起, [with]裝滿
 
 + crater [n]彈坑/隕石坑, 火山口 [v]形成坑洞, 墜落
 - impact crater [n]撞擊坑，為行星、衛星、小行星或其它類地天體表面通過隕石撞擊而形成的環形的凹坑
@@ -264,15 +265,15 @@
 - interstellar gas [n]星際物質，星系和恆星之間的物質和輻射場的總稱
 - cosmic ray [n]宇宙射線，是來自外太空的帶電高能次原子粒子。它們可能會產生二次粒子穿透地球的大氣層和表面
 
-- astronomer [n]天文學家== An expert in or student of astronomy.
+- astronomer [n]天文學家
 - equinox [n]分點，想像中天球赤道在天球上的位置，是每年太陽穿過天球赤道和黃道在天球上交點的天文事件
-- splashdown [n]濺落(指太空船墜入海裡) == The alighting of a returning spacecraft on the sea, with the assistance of parachutes.
+- splashdown [n]濺落(指太空船墜入海裡) 
 - [satellite](/ˈsatəlʌɪt/) [n]衛星
 - habitable zone [n]適居帶，是天文學上給一種空間的名稱，指的是行星系中適合生命存在的區域
 - [magnetosphere](/maɡˈniːtəsfɪə/) [n]磁氣圈/磁層，一個天體周圍、以該天體的磁場為主的地區
 
 - ecliptic [n]黃道 [adj]黃道的
-- axial tilt /ˈaksɪəl tɪlt/ [n]轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)
+- [axial tilt](/ˈaksɪəl'tɪlt/)  [n]轉軸傾角(行星的自轉軸相對於軌道平面的傾斜角度)
 - precession [n]進動/歲差(自轉物體之自轉軸又繞著另一軸旋轉的現象)
 - heliacal rising [n]偕日升(一顆恆星經過隱藏在地平線下一段時間或一定的週期之後，首度在拂曉時又出現在東方地平線上，或正好在地平線上但隱藏在太陽的光芒之中的現象)
 - [heliacal](/hɪˈlʌɪəkəl/) [adj]太陽的/接近太陽的

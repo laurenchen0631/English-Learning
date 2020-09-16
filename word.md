@@ -222,6 +222,7 @@
 - atrocity [n]殘暴/殘酷, [謔]使人極不愉快的事物 <-- atroci 兇殘 ＝ fierce + ty
 - atrium [n]中庭/天井, [醫]心房
 - attic [n]閣樓/頂樓 = *garret* = *loft*
+- attire [n]服裝/衣著 [v]使穿衣/打扮
 - attitudinal [adj]態度的
 - avail [mn]效用 = *benefit* [v]有助於 = *help* = *benefit* 
 - available [adj]可用的/可得到的 = *accessible*
@@ -1084,6 +1085,7 @@
 - chipmunk [n]花栗鼠
 - chop [v][up]切碎/剁碎
 - chopper [n]直升機, 切肉刀, 一副牙齒
+- chiffon [n]雪紡紗, 戚風(蛋糕)
 - chirpy [adj]啁啾叫的, 快活的
 - **_chiropractor_** [n]脊骨按摩治療師
 - chisel [n]鑿子 [v]鑿/雕 = *gouge*, **[非]欺騙/騙取** = *swindle*
@@ -1509,6 +1511,7 @@
 - drizzle [v]下毛毛雨 [n]毛毛雨
 - drizzley [adj]毛毛細雨的
 - drone [v]嗡嗡地響, 低沉單調地說, [on]喋喋不休 [n]嗡嗡聲, 持續音/低音部, 單調的演說, 風笛聲, 雄蜂, 靠別人養的人, 無人機
+- drool [n]口水, 廢話/胡說 = **tosh** = **twaddle** [v]流口水
 - drop-in [adj] (諮詢、服務中心等)不用預約的
 - dropout [n]輟學者/退學者
 - drought [n]乾旱 <-- dry
@@ -2379,6 +2382,7 @@
 - gut-wrenching [adj]摧心裂肝的 = *emotionally* painful
 - **gutter** [n]天溝/簷槽, 排水溝, 貧民窟 [v] (燭光或燈光)搖曳不定, [down]流/淌
 - **guzzle** [v]大吃大喝/暴飲暴食 = *gobble* = *swill* = *quaff* = **gulp**
+- gyp [n/v]詐欺 = **swindle**
 - gyrus [n]腦回(形成大腦半球的組織)
 
 ## H
@@ -2878,11 +2882,13 @@
 - kidney [n]腎 [mn]氣質/個性 = *nature* = *temperament*
 - killjoy [n]令人掃興的人
 - kiln [n]窯
+- **kike**, kyke [n][俗]猶太人
 - **[kinky](/ˈkɪŋki/)** [adj]性行為反常的/怪癖的, (衣服)撩人的, 纏結的
 - kingpin [n]主螺栓, 主要人物
 - **kipper** [v]燻製(鯡魚)
 - kitchenette [n]小廚房
 - **[kitsch](/kɪtʃ/)** [n]俗氣的裝飾品/庸俗的藝術品 [adj]俗氣的
+- knapsack [n]背包
 - **knave** [n] (紙牌中的)傑克
 - **knavery** [n]無賴作風/無賴行為 = *rascality*
 - knead [v]揉製/捏製, 推拿/按摩
@@ -3360,6 +3366,7 @@
 - maple [n]楓樹 <|> ample
 - maraca [n]響葫蘆(一種樂器)
 - marble [n]大理石, 大理石雕刻品, 彈珠, 彈珠遊戲, **[非]理智/明智** [v]使..具有大理石花紋
+- **macaroni** [n]通心粉
 - march [n/v]行軍, 遊行示威, 進行 = *proceed* [n]進行曲 [v]走過
 - mare [n]母馬/母騾 = *horse* = *mule* = *donkey*, [天]海(指月球或火星及其他行星等表面的陰暗區)
 - **[margarine](/ˌmɑːdʒəˈriːn/)** [mn]人造黃油
@@ -3464,6 +3471,7 @@
 - mistress [n]女主人, 女名家/女能手, 情婦
 - [mistletoe](/ˈmɪs(ə)ltəʊ/) [n]槲寄生
 - **_[mite](/mʌɪt/)_** [n]蟎, (令人憐愛的)小孩, 極小量 [adv]稍許/一點
+- mitt [n]棒球手套, 手
 - **[mitten](/ˈmɪt(ə)n/)** [n]連指手套, [非]拳擊手套
 - **mix-up** [n]搞混
 - moan [n]呻吟聲, [非]發牢騷 [v]呻吟, 嘆息 = *lament*, 抱怨 = *grumble* = *complain*
@@ -3487,6 +3495,7 @@
 - **moniker** (n)[非]名字
 - monsoon [n]雨季, 季風
 - montage [n]蒙太奇, 蒙太奇作品, 剪輯
+- moor [v]使停泊/繫泊, 高沼/酸沼
 - mop [n]拖把 [v]拖, **扮鬼臉**
 - moreish [adj]好吃的/吃了還想吃的
 - **moron** [n]低能兒
@@ -4248,6 +4257,7 @@
 - puddle [n]水坑/窪 [mn]膠土 [v]使泥濘, [about/around]忙亂, 做成膠土, 用膠土填塞, 攪煉
 - puddy [adj]矮胖的 = *fat*
 - puke [n/v]嘔吐
+- **pule** [v]低聲啜泣/嗚咽
 - pull [v]拉, 拖/牽, 傳遞能量, 划, 拉出, 拉傷, 拔出, [at/on]吸, 行駛, 拉開, 吸引/招徠, 做成/達成, 取消/撤銷, 取消..的資格, 逮補, 控(馬)慢跑, 印, **[for]鼓勵/支持**, [of]反悔, [of]靠邊停, [up]停 [off]成功, [off]在..旁邊停下, [off]發動(交通工具), [off]快速脫下, [down]破壞, [down]賺, [out]抽身, [out]開出/離去 [n]拉力/引力, **魅力**, 影響力/門路, 拉/拖, 把手, 拉傷, 一口, 吸一口
 - **pullet** [n]小母雞 <|> **pallet**
 - pulley [n]滑輪/滑車 = *tackle* [v]用滑輪升起
@@ -4881,7 +4891,7 @@
 * [sprout](/sprəʊt/) [v]發芽, (葉、毛髮等)生長, 湧現/很快地增加 [n]芽/嫩枝 = *bud* = *burgeon*
 * sprinkle [v]撒 = *scatter* = *distribute* = *disperse*, [it sprinkle]下小雨 [n]**少量/零星**, 小雨, 彩糖
 * **spurt** [v] (使)噴射/噴出 = *gush* out, 衝刺 [n]突然的噴射, 突然一陣/衝刺
-* squash [v]壓扁/擠壓, 擠進/塞進, 壓抑 = *subdue* = *suppress*, 粉碎/強行制止 = *discomfit*
+* squash [n]**南瓜** [v]壓扁/擠壓
 * stand -> stood -> stood [v]站, 立起, 坐落, 未變/依舊, 停滯, 處於(狀態), 標高, **抵抗** = *withstand*, **[非]忍受** = *tolerate*, 請(客) [n]立場/態度, 架子/座, 攤子, 看臺, 位子/座位, 停車處/候車站, 法院證人席, 停止, **一群(植物)**
 * stain [v]弄髒 = *smudge* = *blot*, 玷污 = *sully* = *besmirch* = *taint*, 染色 [n]污漬 = *smudge* = *blemish* = *blot* = *smirch* = *smear*, (名聲)汙點, 著色劑/染色劑
 * **[stale](/steɪl/)** [adj]不新鮮的, 過時的/陳腐的 = *trite* = *banal* = *hackneyed*, 厭倦的/膩煩的 [v]使不新鮮/使腐敗 [n]動物的尿
@@ -4930,6 +4940,7 @@
 * syrupy [adj]似蜜糖的/糖漿狀的 = *viscid*, 多愁善感的
 * systematize [v]使系統化/使條理化 = *codify*
 ***
+- **[sabbatical](/səˈbatɪkəl/)** [n]學術假(美國某些大學給大學教師每七年一次的休假) [adj]特休的, 安息日的
 - sabot [n]木鞋, 彈底板 <|> **sandal**
 - sabotage [n/v]蓄意破壞
 - saboteur [n]從事破壞活動者

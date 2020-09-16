@@ -59,6 +59,7 @@
 - knock-on effect [n]連鎖反應
 - icing on the cake [n]錦上添華
 - **laughing stock** [n]笑柄/笑料
+- last-ditch attempt/effort [n]最後一招/孤注一擲
 - life in the fast lane [n]充滿刺激的生活
 - lip service [n]口頭/說說
 - live wire [n]機靈鬼/精力充沛的人
@@ -69,6 +70,7 @@
 - moral compass [n]道德羅盤
 - morning sickness [n]害喜
 - **muffin top** [n]肚腩肉
+- **my two cents** [n]我個人的小意見
 - old hand [n]老手/專家
 - **old wives' tale** [n]無稽之談
 - one and the same [n]同一個事物/同一個人
@@ -91,6 +93,7 @@
 - state of the art [n]發展水平
 - tip of the iceberg [n]冰山一角
 - **tongue in cheek** [n]玩笑
+- the big cheese [n]重要或權威的人
 - the butt of a/the joke [n]嘲笑的對象
 - **the cream of the crop** [n]菁華/最好的部份
 - the cutting edge [n]發展前沿/領先位置/先鋒地位
@@ -327,7 +330,7 @@
 - **back to square one** [v]回到起點/重新開始
 - **be killing it** [v]做得好
 - **bite me** [phrase]少跟我來這一套
-- **high and dry** [v]給..帶來麻煩/使..陷入困境
+- **leave sb high and dry** [v]給..帶來麻煩/使..陷入困境
 - **spot on** [phrase]確切的/準確的
 - that/it figures [phrase]意料之中
 - **you bet** [phrase]當然 = certainly
@@ -346,12 +349,12 @@
 - be at odds (with sb) [v]與…意見不一致/與…相矛盾
 - be between jobs [v]待業
 - be (caught) between rock and a hard place [adj]進退兩難/左右為難
-- be dead meat [v] (某人)有大麻煩
+- **be dead meat** [v] (某人)有大麻煩
 - be dead set on doing sth [v]堅決要做…/一心要做…
 - be down in the mouth/dumps [v]神色沮喪/垂頭喪氣
 - be green with envy [v]十分妒忌/眼紅
 - **be in a (pretty/right) pickle** [v]處於困境
-- **be in business** [v]準備就緒
+- be in business [v]準備就緒
 - be in its infancy [v]在初期/在早期
 - be in the driving seat [v]處於控制或管理地位
 - be in the same boat [v]處境相同/面臨同樣的困境
@@ -373,7 +376,7 @@
 - be on the table [v]被提交討論中/正式提交考慮
 - be out of touch [adj]與..脫節
 - be pressed for time [v]時間緊迫
-- **be rolling in dough** [v]非常有錢
+- **_be rolling in dough_** [v]非常有錢
 - be skating on thin ice [v]如履薄冰
 - sb is sold [v]買帳/被說服
 - (be) behind the wheel [v]駕駛
@@ -400,7 +403,7 @@
 - **buy a vowel** [v]聽不懂
 - buy time [v]贏得時間/拖延時間
 - by all means [phrase]好的/當然可以
-- by the book [v]嚴格按照規矩辦事
+- do sth by the book [v]嚴格按照規矩辦事
 - call into question [v]引起對…的懷疑/使懷疑
 - **call it a day** [v]到此為止/收工
 - call sth to mind [v]使人想起..
@@ -422,7 +425,7 @@
 - come to light [v]爲人所知/被披露
 - come to terms with [v]逐漸接受(常指所愛之人的死)
 - could do worse than to do sth [v]...是正確的或可取的
-- cover (one's) bases [v]面面俱到 == cover all the bases
+- **cover (one's) bases** [v]面面俱到 == cover all the bases
 - **crack the whip** [v]威逼/施威
 - credit where credit's due [v]該讚揚的就讚揚
 - cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
@@ -438,25 +441,25 @@
 - don’t sweat it [v]不必擔心
 - double back [v]回頭/原路往回
 - **down the drain** [v]付諸東流/打水漂
-- **drive/hammer sth home** [v]把…講清楚/使人完全明白
+- **_drive/hammer sth home_** [v]把…講清楚/使人完全明白
 - err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
 - exert influence over/on sth [v]發揮影響力於
-- fall off the wagon [v]又重新喝起酒來
+- **fall off the wagon** [v]又重新喝起酒來
 - fall/run afoul of [v]犯/違
 - fall short (of sth) [v]未達到
 - feel left out [v]感到被排擠
-- **few and far between** [adj]不常發生/稀少
-- **fire back** [v]迅速應對
+- few and far between [adj]不常發生/稀少
+- fire back [v]迅速應對
 - **fit to be tied** [v]怒不可遏
-- foot the bill [v]付帳
-- for crying out loud [phrase]天哪/真是豈有此理
+- **foot the bill** [v]付帳
+- **for crying out loud** [phrase]天哪/真是豈有此理
 - front and center [adj]最重要的/最主要的
-- get (all) bent out of shape [v]非常生氣/非常沮喪/大發雷霆
+- **get (all) bent out of shape** [v]非常生氣/非常沮喪/大發雷霆
 - get (sth) off the ground [v] (使)開始/(使)成功進行
 - get a taste for sth [v]嘗試
 - get a word in edgeways [v]插嘴
 - get back at sb [v]報復
-- get caught up in [v]被捲入 = be involved in
+- get caught up in sth [v]被捲入 = be involved in
 - get down to brass tacks [v]回到正題
 - **get foot in the door** [v]初步進入/邁出成功的第一步
 - get in shape [v]保持身材
@@ -474,10 +477,10 @@
 - **go commando** [v]不穿內衣
 - **go nuts** [v]大發雷霆/暴跳如雷
 - go apeshit [v]發狂
-- go belly up [v]破產
+- **go belly up** [v]破產
 - **go down in history** [v]名留青史
 - go for broke [v]孤注一擲
-- go out (of) the window [v]完全消失/不再存在
+- **go out (of) the window** [v]完全消失/不再存在
 - go/fall to pieces [v]經神崩潰, 四分五裂/瓦解
 - go out of one's way to do sth [v]非常努力地做
 - go over one's head [v]對...太過難懂, 不經過(某人)直接越級上報
@@ -494,19 +497,19 @@
 - have half a mind to do sth [phrase]可能會做/有意
 - have nerves of steel [v]勇敢
 - have one's origin [v]出現/被發明
-- have one's (fair) share of sth [v]遭遇許多(壞事情)
-- have/get several irons in the fire [v]同時有幾件事要做/同時有數種可能
+- **have one's (fair) share of sth** [v]遭遇許多(壞事情)
+- **have/get several irons in the fire** [v]同時有幾件事要做/同時有數種可能
 - have sb in the palm of one's hand [v]完全控制(某人)
-- have someone cold [v]To have one utterly under control, to the extent that their actions can be dictated.
+- have someone cold [v]完全控制(某人)
 - have sth under one's belt [v]已經掌握…/已經獲得…
 - **hold sway (over sth)** [v]對..有權/有影響力
-- head over heels [adj]神魂顛倒
-- hedge [v] (爲避免損失)兩方下注/兩邊押寶
+- **head over heels** [adj]神魂顛倒
+- hedge one's bets [v] (爲避免損失)兩方下注/兩邊押寶
 - here to stay [adj]已被廣泛使用/已為大多數人所接受
 - hit a snag [v]遇上阻礙或困難
 - hit a wall [v]遭遇撞牆期/遭遇極點
 - **hit into one's stride** [v]逐漸進入狀態/開始上軌道
-- hit it off (with sb) [v]相處得好/合得來
+- **hit it off (with sb)** [v]相處得好/合得來
 - hit the ground running [v]雷厲風行/立刻展開行動
 - hit the nail on the head [v]一針見血/說中要害
 - hit the road [v]離開/出發
@@ -528,11 +531,10 @@
 - **jump the gun** [v]過早地行動
 - keep sb at arm's length [v]與(某人)保持距離
 - **keep sth straight (in one's mind)** [v]區別/辨別
-- kick sb when sb am down [v]落井下石
+- kick sb when sb be down [v]落井下石
 - larger than life [adj]不同凡響的
-- last-ditch [v]最後一招/孤注一擲
 - lay the foundation for/of [v]打下基礎
-- lay waste to sth [v]對..導致非常嚴重的損害
+- **lay waste to sth** [v]對..導致非常嚴重的損害
 - **learn the ropes** [v]知道訣竅/在行
 - let bygones be bygones [v]過去的就讓它過去吧
 - let one's hair down [v]放開/放輕鬆
@@ -547,7 +549,7 @@
 - make a beeline for sth [v]直奔
 - make a big thing/deal (out) of sth [v]把…看得過於重要/對…小題大做
 - make a day of it [v]開心
-- make a move/pass on someone [v]調戲某人
+- **make a move/pass on sb** [v]調戲某人
 - makes a splash [v]一炮而紅/一舉成名
 - **make ends meet** [v]收支平衡
 - **make one's toes curl** [v]讓人尷尬/使人為難, 使受驚嚇
@@ -555,11 +557,10 @@
 - make waves [v]興風作浪/挑起事端
 - miss one's calling [v]選錯職業
 - muddy the waters [v]把水攪渾/使變得更複雜
-- **my two cents** [n]我個人的小意見
 - nail it [v]搞定
 - nearly/almost fall off one's chair [v]極為驚訝
 - not know (one) from Adam [v]根本不知道(某人)/與(某人)素不相識
-- not mince (one's) words [v]直接地表達不滿
+- **not mince (one's) words** [v]直接地表達不滿
 - (be) off the hook [v]脫離困境/脫身
 - off you go [phrase]好了，你可以走(做)了
 - out of one's league [adj]配不上
@@ -568,17 +569,17 @@
 - pick a lane [v]做出選擇/堅持到底
 - pick one's nose [v]挖鼻孔
 - pick one’s brain [v]尋求..的建議
-- pick sb/sth out of a hat [v]隨機選出
+- **pick sb/sth out of a hat** [v]隨機選出
 - pick up the tab [v]付帳
 - place sth in on's hand [v]讓...負責..
-- play fast and loose with sth/sb [v]輕率地對待…
+- **play fast and loose with sth/sb** [v]輕率地對待…
 - play hardball (with sb) [v]採取強硬方式
 - play second fiddle [v]居於次要地位
 - poke fun at sb [v]取笑/奚落
 - pop someone's cherry [v]失去第一次/奪走人家第一次
 - pour scorn on sb/sth [v]鄙夷地談論/對…嗤之以鼻
 - **pull a fast one (on sb)** [v]成功地欺騙/耍弄
-- pull no punches [v]毫不留情
+- **pull no punches** [v]毫不留情
 - **pull one's leg** [v]開玩笑
 - pull/pick oneself up by one's bootstraps [v]自力更生
 - pull oneself together [v]振作起來
@@ -613,7 +614,7 @@
 - seal the deal [v]達成協議
 - search/hunt high and low [v]到處找
 - see for oneself [v]親身體驗/親眼見識
-- see/view sth in a different light [v] 以不同的觀點來看
+- see/view sth in a different light [v]以不同的觀點來看
 - shed light on sth [v]闡明
 - shift/swift gears [v]換件事做/換個話題
 - shut the stable door after the horse has bolted [v]亡羊補牢
@@ -622,7 +623,7 @@
 - **sleep on it** [v]好好考慮
 - snatch victory (from the jaws of defeat) [v]在最後時刻取得勝利
 - **spread oneself too thin** [v]同時做太多事情
-- stake one‘s claims on [v]宣佈..的所有權/提出擁有權
+- stake one‘s claims on sth [v]宣佈..的所有權/提出擁有權
 - stare down the barrel of a gun [v]there's a high risk of something very bad happening
 - stark raving mad [adj]完全瘋掉
 - start/set/get the ball rolling [v]著手做/開始做
@@ -634,7 +635,7 @@
 - strike a chord [v]引起共鳴/得到贊同, 撥動心弦/使觸景生情
 - strike a pose [v]擺姿勢
 - sweep sth under the rug [v]把(不好的事情或令人尷尬的事)隱藏起來
-- **swing for the fences** [v]奮力一擊/盡全力一搏
+- swing for the fences [v]奮力一擊/盡全力一搏
 - **suck it up** [v]自認倒楣 <|> suck up to
 - **_take a drag_** [v]吸一口煙
 - **take a rain check** [v]改天
@@ -656,7 +657,6 @@
 - take sth on trust [v]無條件相信
 - tear sth to pieces/shreds [v]嚴厲批評, 輕易摧毀
 - teeny weeny [adj]非常小的
-- the big cheese [n]重要或權威的人
 - the bottom fall out of sth [v]..的價值跌落谷底
 - there’s no love lost between them [phrase]憎恨/仇視彼此
 - throw caution to the wind [v]不顧一切
@@ -671,7 +671,7 @@
 - **turn the corner** [v]好轉/渡過難關
 - **turn the other cheek** [v]不予還擊/不還手
 - turn the tide [v]扭轉局勢
-- up in the air [adj]懸而未決
+- be up in the air [adj]懸而未決
 - well thought out [adj]精心計劃的/經縝密思考的
 - **well thought of** [adj]受好評的/受讚揚的
 - what/how/why/.. in the world [phrase]究竟/到底
@@ -1032,6 +1032,7 @@
 - wing it [v]即興發揮
 - wipe out [v]失控/出車禍
 - work out [v]鍛煉身體, 結果是/算下來, 發生/發展
+- **work up sth** [v]激發/激起
 - wrap it up [v]住口
 - wrap up [v]完成
 - write off [v]發信(詢問公司), 一筆勾銷(債務), 把...看作不存在, (交通工具)撞壞
