@@ -2,7 +2,7 @@
 - a big draw [n]吸引人的事物
 - a bite (to eat) [n]一些食物
 - **a case in point** [n]好例子
-- a cross section of sth [n]...的典型/樣品
+- **a cross section of sth** [n]...的典型/樣品
 - a drop in the bucket [n]微不足道/杯水車薪
 - **an end in itself** [n]本身即很重要的事物
 - a means to an end [n]達到目的的手段
@@ -86,7 +86,7 @@
 - **red herring** [n]轉移注意力的事情, 燻青魚
 - red tape [n]繁文縟節
 - Renaissance man [n]多才多藝的人
-- sea change [n]完全的改變
+- **sea change** [n]完全的改變
 - side of the fence [n]立場/邊
 - social butterfly [n]交際花
 - smoke and mirrors [n]謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
@@ -228,13 +228,14 @@
 - from scratch [adv]從頭開始/從零開始
 - from the ground up [adv]從頭開始, 完全地
 - for the most part [adv]一般/通常
+- **hands down** [adv]輕而易舉地/毫不費力地
 - **hand over fist** [adv]迅速大量地(賺錢)
 - in a hurry [adv]迅速/匆忙
 - in a nutshell [adv]概括地說
 - in a vacuum [adv]與世隔絕
 - in a word [adv]總之/一言以蔽之
 - in a/one sense [adv]從某種意義上講
-- **in and of itself** [adv]單獨來說 = per se
+- **in and of itself** [adv]單獨來說 = *per se*
 - in circulation [adv]流通/流傳
 - in favor of [adv]有利於
 - **in full gear** [adv]在最高峰
@@ -242,7 +243,7 @@
 - in kind [adv]以實物支付, 以同樣方法或手段
 - in part [adv]某種程度上 = to some degree = to an extent
 - in phase (with sth) [adv]與..同步
-- in record numbers [adv]多於以往
+- **in record numbers** [adv]多於以往
 - in step with [adv]與..一致
 - in tandem with sth [adv]與..一起
 - in the grip of sth [adv]處於(無法控制的不利局勢)中/受制於
@@ -252,7 +253,7 @@
 - in the region of sth [adv]大約(數目)
 - **in full swing** [adv]進行到最高點/如火如荼
 - **in the wake of sth** [adv]作為…的後果/隨…之後而來
-- **in the wind** [adv]在醞釀中, 在熱論中, 逃跑後失蹤/消失
+- in the wind [adv]在醞釀中, 在熱論中, 逃跑後失蹤/消失
 - kind of [adv]似乎/有點
 - **left and right** [adv]失控, 到處
 - like rats deserting/leaving/fleeing a sinking ship [adv]動如脫兔
@@ -321,6 +322,8 @@
 - **upwards of** [adv]至少
 - well over [adv]超過/多於 = *over* = *more than*
 - **with a fine-tooth comb** [adv]仔細地/徹底地
+- within an inch of one's life [adv]差點喪命
+- with abandon [adv]任意
 - **with all due respect** [adv]恕我直言
 
 ## Phrase
@@ -344,8 +347,8 @@
 - be all ears [v]全神貫注地聽/洗耳恭聽
 - **be an item** [v]有戀愛關係
 - **be angling for sth** [v]拐彎抹角地求取
-- be at fault [v]有責任/有錯
-- **be at large** [v]逍遙法外
+- be at fault [v]有責任/有錯 <|> *to a fault*
+- **be at large** [v]逍遙法外 <|> *at large*
 - be at odds (with sb) [v]與…意見不一致/與…相矛盾
 - be between jobs [v]待業
 - be (caught) between rock and a hard place [adj]進退兩難/左右為難
@@ -362,7 +365,7 @@
 - be like fish out of water [v]如魚離水
 - **be my guest** [phrase]請便
 - be no laughing matter [v]不是開玩笑/不是鬧著玩的
-- **be no skin off sb's nose** [v]與(某人)毫不相干/毫不在乎 <|> **by the skin of your teeth**
+- **_be no skin off sb's nose_** [v]與(某人)毫不相干/毫不在乎 <|> **by the skin of your teeth**
 - **be off the mark** [v]不正確/不準確
 - be nothing short of sth [v]正是/簡直就是/極其
 - be on par with sth [v]與..相同
@@ -370,9 +373,9 @@
 - be on the hook [v]入迷
 - be on the hook for [v]欠/對...有責任
 - be on the lam [v]逃亡中
-- **be on the outs (with sb)** [v]與..不合
+- **_be on the outs (with sb)_** [v]與..不合
 - be on the same page [v]達成共識
-- **be out of sorts** [adj]有些不舒服/有點不高興
+- **be out of sorts** [v]有些不舒服/有點不高興
 - be on the table [v]被提交討論中/正式提交考慮
 - be out of touch [adj]與..脫節
 - be pressed for time [v]時間緊迫
@@ -389,7 +392,7 @@
 - beddy-byes [v]上床睡覺
 - bide your time [v]靜候時機
 - bite (one's) lip [v]強忍
-- **blow/knock one's socks off** [v]發現非常有趣/發現非常傑出
+- **_blow/knock one's socks off_** [v]發現非常有趣/發現非常傑出
 - breathe (new) life into sth [v]帶來起色/注入活力
 - **breathe down someone's neck** [v]緊跟(某人)
 - breathe life into sth [v]帶來起色/注入活力
@@ -423,10 +426,11 @@
 - come into being [v]開始存在
 - come into use [v]開始被採用
 - come to light [v]爲人所知/被披露
-- come to terms with [v]逐漸接受(常指所愛之人的死)
+- **come to terms with** [v]逐漸接受(常指所愛之人的死)
 - could do worse than to do sth [v]...是正確的或可取的
 - **cover (one's) bases** [v]面面俱到 == cover all the bases
-- **crack the whip** [v]威逼/施威
+- crack the whip [v]威逼/施威
+- **crank it up a notch** [v]更進一步/更上一層樓
 - credit where credit's due [v]該讚揚的就讚揚
 - cut (sb) to the quick [v]嚴重傷害…的感情/一針見血
 - cut to the chase [v]切入正題
@@ -445,13 +449,13 @@
 - err on the side of caution [v]寧願過於謹慎也不要冒險犯錯
 - exert influence over/on sth [v]發揮影響力於
 - **fall off the wagon** [v]又重新喝起酒來
-- fall/run afoul of [v]犯/違
+- fall/run afoul of sth [v]犯/違
 - fall short (of sth) [v]未達到
 - feel left out [v]感到被排擠
 - few and far between [adj]不常發生/稀少
 - fire back [v]迅速應對
 - **fit to be tied** [v]怒不可遏
-- **foot the bill** [v]付帳
+- foot the bill [v]付帳
 - **for crying out loud** [phrase]天哪/真是豈有此理
 - front and center [adj]最重要的/最主要的
 - **get (all) bent out of shape** [v]非常生氣/非常沮喪/大發雷霆
@@ -475,12 +479,12 @@
 - **give sb the runaround** [v]搪塞/打發（某人）
 - give the green light to sth [v]准許/許可
 - **go commando** [v]不穿內衣
-- **go nuts** [v]大發雷霆/暴跳如雷
+- **go nuts** [v]大發雷霆/暴跳如雷 <|> **in a nutshell**
 - go apeshit [v]發狂
-- **go belly up** [v]破產
+- **_go belly up_** [v]破產
 - **go down in history** [v]名留青史
 - go for broke [v]孤注一擲
-- **go out (of) the window** [v]完全消失/不再存在
+- **_go out (of) the window_** [v]完全消失/不再存在
 - go/fall to pieces [v]經神崩潰, 四分五裂/瓦解
 - go out of one's way to do sth [v]非常努力地做
 - go over one's head [v]對...太過難懂, 不經過(某人)直接越級上報
@@ -503,12 +507,12 @@
 - have someone cold [v]完全控制(某人)
 - have sth under one's belt [v]已經掌握…/已經獲得…
 - **hold sway (over sth)** [v]對..有權/有影響力
-- **head over heels** [adj]神魂顛倒
+- **head over heels** [adj]神魂顛倒 <|> **hand over fist**
 - hedge one's bets [v] (爲避免損失)兩方下注/兩邊押寶
 - here to stay [adj]已被廣泛使用/已為大多數人所接受
 - hit a snag [v]遇上阻礙或困難
 - hit a wall [v]遭遇撞牆期/遭遇極點
-- **hit into one's stride** [v]逐漸進入狀態/開始上軌道
+- **_hit into one's stride_** [v]逐漸進入狀態/開始上軌道
 - **hit it off (with sb)** [v]相處得好/合得來
 - hit the ground running [v]雷厲風行/立刻展開行動
 - hit the nail on the head [v]一針見血/說中要害
@@ -570,7 +574,7 @@
 - pick one's nose [v]挖鼻孔
 - pick one’s brain [v]尋求..的建議
 - **pick sb/sth out of a hat** [v]隨機選出
-- pick up the tab [v]付帳
+- pick up the tab [v]付帳 = *foot the bill*
 - place sth in on's hand [v]讓...負責..
 - **play fast and loose with sth/sb** [v]輕率地對待…
 - play hardball (with sb) [v]採取強硬方式
@@ -585,12 +589,13 @@
 - pull oneself together [v]振作起來
 - **pull out all the stops** [v]全力以赴/竭盡所能
 - punch above one's weight [v]重拳出擊/超常發揮
-- **push the envelope** [v]挑戰極限
+- **_push the envelope_** [v]挑戰極限
 - put a sock in it [phrase]別出聲/住嘴
 - **put a spin on sth** [v]加油添醋
 - **put your finger on sth** [v]確切地指出(尤指不對勁的地方)
 - put one's best foot forward [v]全力以赴
 - put one's hands on sth [v]弄到手/得到, 抓住
+- **put sb out of their misery** [v]告知情況使(某人)不再感到不安/消除(某人)的顧慮
 - put sb at ease [v]使..冷靜
 - put (sth) in/into perspective [v]理解、讚揚或評估..真正的價值
 - put (sth) on hold [v]暫停/推遲
@@ -606,13 +611,13 @@
 - run amok/amuck [v]失控
 - run in the family [v]家族遺傳/世代相傳
 - **run on fumes** [v]疲憊不堪
-- **run the gauntlet** [v]受到夾道攻撃/受到眾人的批評
+- **_run the gauntlet_** [v]受到夾道攻撃/受到眾人的批評
 - run the risk of doing sth [v]冒…的危險/冒險做…
 - save face [v]保全顏面
 - sb's hands are tied [phrase]受到限制/無能為力
 - scare the (living) daylights out of sb [v]把..嚇壞
 - seal the deal [v]達成協議
-- search/hunt high and low [v]到處找
+- search/hunt high and low [v]到處找 <|> **leave sb high and dry**
 - see for oneself [v]親身體驗/親眼見識
 - see/view sth in a different light [v]以不同的觀點來看
 - shed light on sth [v]闡明
@@ -628,7 +633,7 @@
 - stark raving mad [adj]完全瘋掉
 - start/set/get the ball rolling [v]著手做/開始做
 - stay put [v]留在原地
-- **stick in the mud** [v]墨守成規
+- **_stick in the mud_** [v]墨守成規
 - **stop short of doing sth** [v]險些(做或說)
 - stop sth in its tracks [v]阻止..繼續下去
 - strike a blow for sth [v]支持/捍衛
@@ -636,7 +641,7 @@
 - strike a pose [v]擺姿勢
 - sweep sth under the rug [v]把(不好的事情或令人尷尬的事)隱藏起來
 - swing for the fences [v]奮力一擊/盡全力一搏
-- **suck it up** [v]自認倒楣 <|> suck up to
+- **suck it up** [v]自認倒楣 <|> **suck up to sb**
 - **_take a drag_** [v]吸一口煙
 - **take a rain check** [v]改天
 - **take a spin** [v]兜風
@@ -648,6 +653,7 @@
 - take one's place [v]準備好/就位
 - **take (great) pains to do sth** [v]奮力去做
 - take part in sth [v]參與
+- take place [v]發生
 - take sth into account [v]考慮到/顧及
 - **take sth with grain of salt** [v]對…半信半疑/對…有所懷疑
 - take the piss out of sb/sth [v]取笑
@@ -664,7 +670,7 @@
 - tit for tat [v]以牙還牙
 - to what end [adv]為什麼 = What is the purpose of
 - **toe the line** [v]聽從命令/服從紀律
-- **turn one's back on sth** [v]不再參與…/對…置之不理
+- **turn one's back on sth** [v]不再參與…/對…置之不理 <|> **behind one's back**
 - turn sth/sb down [v]拒絕
 - **turn sth on one's head** [v]顛覆/顛倒
 - turn (sth) over in one's mind [v]思考/認真考慮
@@ -677,8 +683,6 @@
 - what/how/why/.. in the world [phrase]究竟/到底
 - when all is said and done [adv]說到底/終究
 - **whip it out** [phrase]秀一下
-- with abandon [adv]任意
-- within an inch of one's life [adv]差點喪命
 - woe is me [excl]苦啊/慘哪
 - word gets around [v]迅速傳開
 - work one's ass off [v]拼命做
@@ -688,13 +692,12 @@
 - run aground/ashore [v]擱淺
 - **down and out** [adj]窮困潦倒的
 - soaking wet [adj]濕透
-- zero in on sth [v]把注意力全部集中於
 
 ## Demotic
 - (be) directed at [v]專注於
 - **(be) holed up** [v]躲起來
-- (be) lost on sb [v]未被...理解
-- **(be) nuts about sth/sb** [v]迷戀/癡迷於
+- **(be) lost on sb** [v]未被...理解
+- **(be) nuts about sth/sb** [v]迷戀/癡迷於 <|> **go nuts**
 - be off [v]離開 = *leave*
 - (be) on to [v]察覺/注意, 與..聯絡, 發現
 - (be) riddled with [v]充滿
@@ -708,40 +711,39 @@
 - amounts of [adj]大量
 - an amount of [adj]一些
 - the amount of sth [n]數量
-- **add up** [v]說得通/合情合理
 - **tick off sb** [v]使生氣
 - act out [v]實踐/實行, 發洩, 把...表演出來
+- **_add up_** [v]說得通/合情合理
 - add up to sth [v]總共是/合計為, **_結果是/表示/意味著_**
 - be around [v]存在, 活躍
-- be into sth [v]對...有興趣
+- **be into sth** [v]對...有興趣
 - **blow sth/sb off** [v]不認真對待…
 - bow out [v]辭職/退出
 - **boil down to sth** [v]主要原因在於/歸結為
 - border on [v]近乎於/近似
 - break into [v]突然開始做…
 - bulk up (v)增重/變壯實
-- bum sb out [v]
+- **bum sb out** [v]讓…感到悲傷或失望
 - butt in [v]打斷/插嘴/插手
-- **butter sb up [v]拍馬屁**
+- butter sb up [v]拍馬屁
 - call for sb [v] (去某地)接(某人)
 - call for sth [v]需要/值得, 號召/呼籲
 - **call off** [v]取消/停止進行
 - **cap off** [v]把...收尾
 - capitalize on [v]利用…獲益/從…中獲利
 - cash in on [v]用...賺錢
-- **cave in** [v]讓步/屈服/妥協
+- **_cave in_** [v]讓步/屈服/妥協
 - chat up sb [v]與…搭訕/與…調情
 - cheat on sb [v]對(丈夫或妻子)不忠
 - chicken out [v]因害怕而退縮/放棄
 - clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
-- clear up [v]清除/清理, 消失/治癒(疾病), 解決/搞清楚/弄明白
 - close down (sth) [v]倒閉/停業
-- close in on sth [v]靠近
+- **close in on sth** [v]靠近
 - comb through [v]徹底搜查
 - come down to [v]歸結為/簡而言之
 - **come down with sth** [v]患上/染上(尤指小病)
 - come into [v]繼承, 對…產生影響
-- come off [v]取得預期的效果/成功
+- **_come off_** [v]取得預期的效果/成功
 - come off sth [v]剛剛度過(非常成功或困難的時期), 停用(藥物)
 - come out of sth [v]從…中產生
 - **cop to** [v]承認(罪行)
@@ -753,10 +755,9 @@
 - cue up [v]準備好, 排隊
 - cut back (on sth) [v]減少/削減/縮減
 - cut into sth [v]減少, 干擾
-- cut it out [v]停止/停下來
 - cut out [v]突然熄火/停止運轉
 - cut through [v]克服
-- date back to (time) [v]追溯到
+- date back to [v]追溯到
 - die of sth [v]因..而死
 - **dig in** [v]開始吃
 - **dig it** [v]喜歡
@@ -764,26 +765,25 @@
 - draw sth up [v]起草/草擬
 - dress up [v]裝扮
 - drive off [v]開走
-- drive up [v]靠邊停, 上漲
+- **drive up** [v]靠邊停, 上漲
 - drop off [v]下車, 入睡, 減少/下降
 - drop out [v]退出, 退學
-- drown out [v]聲音壓過
-- drum up [v]召集
-- drum up something [v]招攬(生意)
+- **drown out** [v]聲音壓過
+- drum up [v]召集, 招攬(生意)
 - dry up [v]乾涸, 中斷
-- dumb sth down [v]使…簡化/將…通俗化
+- **dumb sth down** [v]使…簡化/將…通俗化
 - ease up [v]逐漸停止/減少/減輕, 放鬆/緩和/變得悠閒, 不再如此苛刻/不那麼嚴格管教
 - end up [v]最後成爲/以…告終
 - fall back on [v]借助於/依賴/依靠
 - fall through [v]失敗/落空
-- feed off/on sth [v]因..而增加/利用…取得成功
+- **feed off/on sth** [v]因..而增加/利用…取得成功
 - feel like sth [v]好像, 想要
 - **feel sb up** [v]猥褻
 - fight sth out [v]通過鬥爭使得到解決
 - fill in for someone [v]代替/臨時補缺
 - fill out [v]填寫, 發福
 - fill up [v]裝滿, 加滿油
-- fizzle out [v]逐漸終止/有始無終
+- **fizzle out** [v]逐漸終止/有始無終
 - flash back [v]突然記起
 - flip out [v]勃然大怒/失去自我控制
 - **fob sb off (on sth)** [v]搪塞/欺騙/騙..接受..
@@ -793,15 +793,14 @@
 - get along [v]和睦相處
 - get by [v]勉強過活/勉強應付過去
 - get into sb [v]支配/使..行為異常
-- get into sth [v]開始對…感興趣/參與/參加
-- get to sb [v]對(某人)產生影響/使難受, 使煩惱/使生氣
+- get into sth [v]開始對…感興趣/參與/參加 <|> **be into**
+- **get to sb** [v]對(某人)產生影響/使難受, 使煩惱/使生氣
 - give off [v]散發
 - go about [v]著手做/開始做
 - go off [v]熄滅/停止運行/停止運轉, 爆炸, 走火/開火, 突然發出巨響, 離開, 發生/進展
 - go out [v]外出, 談戀愛, 退潮/落潮, 熄滅
 - goof off [v]偷懶
-- hand down [v]將…傳給/將…留給, 宣佈(正式決定)
-- **hands down** [adv]輕而易舉地/毫不費力地
+- hand down [v]將…傳給/將…留給, 宣佈(正式決定) <|> **hand down**
 - hand off [v]交予
 - hand out [v]分發, 經常出入/廝混
 - hang on [v][非]稍等一會兒, 緊握/抓住
@@ -819,16 +818,16 @@
 - iron out [v]解決/消除
 - jazz up [v]使更有趣/使更吸引人
 - jet off [v]飛去
-- jump in [v]打斷/插嘴
-- jump out at sb [v]使(某人)一下子注意到
+- jump in [v]打斷/插嘴 = *butt in*
+- **jump out at sb** [v]使(某人)一下子注意到
 - kick around [v]隨意地討論, 不公平地對待, 在..閒晃, 在某處, 閒置/棄置, 踢球
 - kick in [v]開始生效
-- **kill off** [v]徹底破壞/徹底除去
+- kill off [v]徹底破壞/徹底除去
 - **knock back** [v]一下子喝下(尤指很多酒)
 - knuckle down [v]開始認真
 - land sb in sth [v]使陷於(困境)
 - land sb with sth [v]給予(困難)
-- lay into sb [v]痛打(某人)/斥責(某人)
+- **_lay into sb_** [v]痛打(某人)/斥責(某人)
 - lay off [v]解僱/解聘, 停下, 暫時停止
 - lay out [v]編排, 花(大錢), 解釋 = explain
 - lead sb on [v]誤導矇騙(某人)
@@ -842,14 +841,14 @@
 - live by [v]根據...行動
 - live off [v]倚靠..維生
 - live on [v]依靠..生活, 靠..生存/只吃
-- live up (to sth) [v]與…一樣好
+- **live up (to sth)** [v]與…一樣好
 - lock in sth [v]獲得優勢/保持優勢
 - lock up [v]鎖起全部的門窗
 - look after [v]照顧
-- look in on [v]拜訪 == to make a brief social visit to someone
-- look up to [v]仰視/尊敬
+- **look in on** [v]拜訪 == to make a brief social visit to someone
+- **look up to** [v]仰視/尊敬
 - lose out [v]處於劣勢
-- luck out [v]非常幸運
+- **_luck out_** [v]非常幸運
 - make out [v]理解, 填寫, 應付, 親熱, 暗示
 - make up [v]構想, 組成 = *compose*, 補償
 - mess sth up [v]把…弄亂/把…弄髒/搞砸/弄糟
@@ -859,20 +858,20 @@
 - net sth down/off/out [v]扣除
 - occupy sb with sth [v]使...忙於...
 - occur to sb [v]讓...想到..
-- **own up** [v]承認/坦白
-- **pass for sth** [v]被視為
+- **_own up_** [v]承認/坦白
+- **_pass for sth_** [v]被視為
 - pass on [v]傳達
 - pass over sth [v]忽視/置之不理, 對(某人)不加考慮
 - **pass sth off as sth** [v]拿…假冒/用…冒充
 - pay off [v]成功/得到好結果
 - perk (sth/sb) up [v]振作/振奮
-- phone (sb) up [v]給..打電話
+- **phone (sb) up** [v]給..打電話 <|> hang up
 - **phone it in** [v]敷衍
-- pick on [v]刁難
+- **pick on** [v]刁難
 - pick oneself up [v]再次站起, 恢復/再次站起
 - pick up [v]發現, 改良, 接電話
 - pig out [v]狼吞虎嚥
-- pitch in [v]盡一份力/做出貢獻
+- **_pitch in_** [v]盡一份力/做出貢獻
 - play out [v]發生/出現, 策劃/籌劃
 - polish off [v]輕鬆解決, 匆匆做完(工作), 迅速吃光(大批食物)
 - preface sth by/with sth [v]以..作為……的開端
@@ -881,11 +880,10 @@
 - pride oneself on/upon [v]以..為自豪
 - pull down [v]破壞, 賺
 - **pull for sb** [v]鼓勵/支持
-- **pull of** [v]反悔, 靠邊停
 - pull off [v]成功, 在..旁邊停下, 發動(交通工具), 快速脫下
 - pull out [v]抽身, 開出/離去
-- pull up [v]停
-- punch in [v]上班打卡
+- **pull up** [v]停
+- **punch in** [v]上班打卡 <|> **pitch in**
 - punch in sth [v]填入
 - put aside [v]撇開不理/擱置
 - put off [v]拖延
@@ -894,7 +892,7 @@
 - reach out [v]向某人伸出援手/給某人支持, 與(某人)打成一片
 - remove oneself [v]離去
 - **ride out** [v]從...中撐過/倖存
-- roll around [v] (時間或事件)開始
+- **roll around** [v] (時間或事件)開始
 - roll in [v]到來
 - roll out [v]推出
 - root for [v]為..助威/聲援/為...加油
@@ -917,7 +915,7 @@
 - separate out [v]捨棄/移除
 - set about [v]開始/處理
 - set down [v]寫下/記下
-- set forth [v]解釋/闡明
+- **set forth** [v]解釋/闡明
 - set off [v]啟程, 啟動, 使爆炸, 導致...發生, 使..看起來吸引人
 - set out [v]發出/啟程
 - set sb up [v]爲..安置職位/使就職, 資助, 使精力充沛/使健康, 陷害/栽贓
@@ -925,7 +923,7 @@
 - set sth/sb apart [v]使…與眾不同
 - **shell out** [v]不情願地支付
 - shoot for sth [v]試圖做/力爭得到
-- shore sth up [v]支撐住, 支持/幫助
+- **shore sth up** [v]支撐住, 支持/幫助
 - show off [v]炫耀/賣弄
 - show up [v]到達/露面
 - shower sb with sth [v]用大量的..丟.., 給..很多的..
@@ -938,14 +936,14 @@
 - sign off (on sth) [v]正式認可
 - **size up sth** [v]打量
 - slip away [v]秘密地離開, (時間)飛逝, (權力、能力或可能性)消失
-- slip on [v]迅速穿上
-- slip up [v]出錯/疏忽
+- **slip on** [v]迅速穿上
+- **slip up** [v]出錯/疏忽
 - smash up [v]搗毀
 - smooth sth over [v]緩和/調解
 - snap out of [v]擺脫(情緒)
 - soak sth up [v]吸收/吸掉, 盡情享受/充分體驗, 吸取/吸收(資訊), 用完/耗盡
 - sort sth out [v]成功解決
-- sound out [v]試探....的意向
+- **sound out** [v]試探....的意向
 - speak of sth [v]談到, 表示/顯示
 - speak out [v]公開發表意見/坦率說出
 - speak to sth [v]談論
@@ -961,50 +959,48 @@
 - stare down [v]以目光鎮懾某人
 - start over [v]重新開始
 - stay off [v]遠離/避免/避開
-- step up [v]在有需要或有機會時採取行動
+- **step up** [v]在有需要或有機會時採取行動
 - stick out [v]探出/露出/凸出, 顯眼/突出
 - stop off somewhere [v]中途拜訪/中途停留
-- straight out of [adj]跟..相似的
+- **straight out of** [adj]跟..相似的
 - straighten sth up [v]清乾淨
-- straight up [excl]真的/屬實
+- **straight up** [excl]真的/屬實
 - stress sb out [v]使非常焦慮/使壓力過大
-- strike down [v]裁定(某法律條文)非法
+- **strike down** [v]裁定(某法律條文)非法
 - string along [v]長期哄騙/敷衍
 - strip down [v]脫得只剩下…/把衣服脫到
-- suck up to sb [v]奉承/巴結
+- **suck up to sb** [v]奉承/巴結 <|> **suck it up**
 - swap out [v]交換
 - tag along [v]跟隨/尾隨
-- take aback [v]使吃驚
-- take after [v]與...相像
+- **take aback** [v]使吃驚
+- **_take after_** [v]與...相像
 - take off [v]起飛/飛起, 突然開始成功/開始走紅, 突然離開
-- take out [v]抽出/領出
 - take out [v]拿出, 帶...到, 申請
 - take over [v]掌握
-- take place [v]發生
 - take up [v]開始/從事, 佔據, 討論/處理
-- talk up [v]贊揚
-- **tank up** [v]灌滿一箱油, 喝很多酒
+- **talk up** [v]贊揚
+- **_tank up_** [v]灌滿一箱油, 喝很多酒
 - tap into [v]使用…以獲得好結果
 - tear up [v]撕毀/銷毀, 拒絕, 使不開心/使難過, 眼框泛淚
 - tease out [v]套取/套出, 梳理
 - tee up [v]放在球座, 放於發球處, 使準備就緒/使待命
-- tell someone off [v]訓斥某人
+- **tell someone off** [v]訓斥某人 <|> **lay into sb**
 - tell sth apart [v]分辨/區別
 - tend to/towards [v]傾向/易於
 - think up [v]想出
-- throw off (sb/sth) [v]使混亂
-- throw on [v]匆匆穿上
-- throw up [v]嘔吐
+- **throw off (sb/sth)** [v]使混亂
+- throw on [v]匆匆穿上 = **slip on**
+- **throw up** [v]嘔吐 <|> **slip up**
 - tick sb off [v]斥責, 煩擾
 - tip off [v]向...洩露消息
 - top out [v]達到最高點
-- toss up [v]擲硬幣決定
+- **toss up** [v]擲硬幣決定
 - touch down [v]著陸/降落
 - trail away/off [v]逐漸減弱到停止/逐漸消失
 - trip up [v]絆倒, 使犯錯
-- **trot sth out** [v]動不動就提出/重複說
+- **_trot sth out_** [v]動不動就提出/重複說
 - true of sb/sth [adj]基於..的事實
-- **try out for** [v]參加..的選拔
+- **_try out for_** [v]參加..的選拔
 - **tune out** [v]不理睬/對…置之不理
 - turn into [v]變成 == become
 - turn off [v]關掉, 離開一條路而走上另一條路, 使..覺得無趣, 停止關注
@@ -1018,23 +1014,23 @@
 - **walk off** [v]因憤怒或不滿而離開
 - ward off [v]擋開/避開
 - warn someone of sth [v]警告
-- wash over [v]徹底地影響, 突然表現在臉上
+- wash over [v]徹底地影響, **突然表現在臉上**
 - wash up [v]洗手, 清洗, 把..沖上岸, 終結
 - wear down [v]使精疲力盡
-- wear on [v] (時間)慢慢過去
+- **wear on** [v] (時間)慢慢過去
 - wear out [v]使疲憊, 用壞/耗盡, 磨破
 - weed sth out [v]剔除/淘汰
 - whip sth up [v]煽動/激起, 迅速做(飯)
-- whip up [v]煽動/激起, 趕出來/迅速做
-- wind down [v] (勞累或擔心之後)放鬆下來
-- wind sb up [v]使生氣
+- **wind down** [v] (勞累或擔心之後)放鬆下來
+- **wind sb up** [v]使生氣
 - wind up [v]陷入/捲入
-- wing it [v]即興發揮
-- wipe out [v]失控/出車禍
+- **wing it** [v]即興發揮
+- **_wipe out_** [v]失控/出車禍
 - work out [v]鍛煉身體, 結果是/算下來, 發生/發展
 - **work up sth** [v]激發/激起
-- wrap it up [v]住口
-- wrap up [v]完成
-- write off [v]發信(詢問公司), 一筆勾銷(債務), 把...看作不存在, (交通工具)撞壞
+- **wrap it up** [v]住口
+- **wrap up** [v]完成
+- write off [v]發信(詢問公司), 一筆勾銷(債務), 把...看作不存在, **(交通工具)撞壞**
 - write up [v]詳細寫
-- zoned in [adj]專注的 == focused
+- zero in on sth [v]把注意力全部集中於
+- zoned in [adj]專注的 = focused <|> **zero in on**
