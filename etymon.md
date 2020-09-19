@@ -45,6 +45,7 @@
 	+ **affectation**
 	- **affecting**
 	- **affection**
+	- affectionate
 	- afield [adv]遠離著, 去野外
 	+ **affiliate** --> affiliated 
 	+ affinity 
@@ -124,7 +125,7 @@
 	+ avert
 
 2. 不/無 = *without*
-	+ **abjure**
+	+ **_abjure_**
 	+ abstain
 	+ [abstemious](/əbˈstiːmɪəs/) [adj]節制的(吃喝), 節儉的 = *temperate* = *restrained* = *frugal* <-- abs + tem 酒
 	+ abstruse
@@ -414,7 +415,7 @@
 + [arbitrary](/ˈɑːbɪt(rə)ri/) [adj]**任意的**/隨心所欲的, **獨斷的**/專制的 = *dictatorial*, [數]不定的
 - arbitrate [v]仲裁/公斷 = *adjudicate* = *umpire* 
 - arbitration [mn]仲裁
-- **arbitrage** [n/v]套利
+- **_arbitrage_** [n/v]套利
 
 ## arbor 樹 = *tree*
 - [arboreal](/ɑːˈbɔːrɪəl/) [adj]樹木的
@@ -430,7 +431,7 @@
 
 ## arch, archi, archy
 1. 主要的 = *chief*, first, principal
-	+ [arch](/ɑːtʃ/) [adj]**調皮的/淘氣的** [n]拱/拱門/拱形物, 足背/足弓 [v]使成弧形, 呈拱形覆蓋 <|> ache
+	+ [arch](/ɑːtʃ/) [adj]**_調皮的/淘氣的_** [n]拱/拱門/拱形物, 足背/足弓 [v]使成弧形, 呈拱形覆蓋 <|> ache
 	- archway [n]拱門/拱道
 	- **[overarching](/ˌəʊvərˈɑːtʃɪŋ/)** [adj]包羅萬象的 = *comprehensive* = *all-embracing*
 	- archipelago [n]群島, 多島的海 <-- archi + pelago 海 = *sea*
@@ -560,7 +561,7 @@
 - actionable [adj]有足夠證據可控告的, 有行動價值的
 - activism [mn]激進主義
 - actuality [n]現實, 真實情況
-- **actuarial** [adj]保險精算師的/保險精算的
+- **_actuarial_** [adj]保險精算師的/保險精算的
 - counteract
 + enact [v]制定(法律), 扮演(角色)
 + exact [v]**強要/勒索** = *force* = *compel*, **施加(報復)** [adj]確切的 = *correct*, 精確無誤的 = *precise* = *rigorous*, 謹慎的
@@ -569,11 +570,11 @@
 - exactitude [n]精確性/正確性 = *fidelity*, 謹慎
 - interact [v]互相影響/互動 = *interply*
 - interaction [n]互相影響/互動
-- redact [v]編輯/編寫, 審查 = *censor*
+- **redact** [v]編輯/編寫, 審查 = *censor*
 - transact --> transaction
 
 ## angur 預示/開始
-* **inaugurate** [v]開始/開創 = *commence*, 就職 = *install* = *induct*, 為……舉行開幕式
+* inaugurate [v]開始/開創 = *commence*, 就職 = *install* = *induct*, 為……舉行開幕式
 * [inaugural](/ɪˈnɔːɡjʊr(ə)l/) [adj]就職的/開幕的 [n]總統就職演說
 + **augur** [n]古羅馬的占兆官 [v] [well/badly/ill]占卜/預言 = *divine*
 + **augury** [n]預言/徵兆 = *divination* = *omen*
@@ -811,7 +812,7 @@
 	+ constant
 	+ constitute --> constituent --> constitution --> constitutional
 	+ constrain --> constraint
-	+ construe [v]解釋/理解 = *explain* = *interpret*, 分析文法, 翻譯 = *translate* <-- con + strue 整理 = *arrange*
+	+ **construe** [v]解釋/理解 = *explain* = *interpret*, 分析文法, 翻譯 = *translate* <-- con + strue 整理 = *arrange*
 	* consult
 	+ contact
 	+ contagion --> contagious
@@ -984,7 +985,7 @@
 - watercourse [n]水道/運河, 河床
 
 ## cur 關心 = *care*, cure
-- curate [n]牧師助理 [v]**策劃**
+- curate [n]牧師助理 [v]**_策劃_**
 + [curator](/kjʊəˈreɪtə/) [n]館長
 - secure [adj]牢靠的/牢固的 = *steady*, 守衛森嚴的, 可靠的/牢靠的, 安全的, 安心的, [of]有把握的 [v]固定/拴牢/扣緊, 弄到/獲得 = *procure*, 為(借款)作保, 使安全
 - security [n]安全, 保護措施, 保證金/抵押品, [securities]證券/債券
@@ -1010,7 +1011,7 @@
 * conception [n]概念/見解 = *idea* = *perception*, 計畫/意圖 = *plan* = *intention*
 * **conceit** [n]自負/自大, **巧妙的比喻/別出心裁的比喻**, 藝術效果
 * conceited [adj]自大的/自負的 = *vain* = *arrogant* = *haughty* = *cavalier*
-- contraception [n]避孕
+- **contraception** [n]避孕
 * deceive [v]欺騙/矇騙
 * deceit [n]欺騙/欺詐 = *chicanery*
 - deception [n]欺騙/欺詐
@@ -1331,7 +1332,7 @@
 ## crimin, culp 罪行 = *guilty*, crime
 * criminal [adj]犯罪的/犯法的, 刑事上的 = *penal* <--> civil, 可恥的 [n]罪犯 = *villain* = *miscreant*
 + criminality [mn]犯罪
-+ **_culpable_** [adj]應受譴責的/該受處罰的 = **reprehensible** 
++ **_culpable_** [adj]應受譴責的/該受處罰的 = **reprehensible** <--> venial
 + culpability [n]罪過 = *blame*
 + **culprit** [n]罪犯/刑事被告, 罪魁禍首/問題的起因
 + exculpate [v]證明…無罪/開脫 = *exonerate* = *vindicate* <|> extenuate
@@ -1351,7 +1352,7 @@
 - mariculture
 
 ## carbo 碳
-- **carb** [n]化油器 = *carburetor*, 飲食中的碳水化合物
+- **_carb_** [n]化油器 = *carburetor*, 飲食中的碳水化合物
 - carbohydrate [n]碳水化合物
 - carbon [n]炭, 碳纖維, 碳化合物
 - carbonate [n]碳酸鹽 [v]使含二氧化碳, 使成碳酸鹽
@@ -1374,7 +1375,7 @@
 - carrion [n]腐肉
 
 ## carp, cerpt 挑選 = *pluck*
-+ **carp** [v]挑剔/吹毛求疵 = *quibble* = *cavil* [n]鯉魚
++ **carp** [v]挑剔/吹毛求疵 = *quibble* = *cavil* [n]鯉魚 <|> **carb**
 + carping [adj]吹毛求疵的/挑毛病的 = *censorious* = *faultfinding* = *persnickety*
 + carpet [n]地毯, 一層 [v]在…上鋪地毯
 - **excerpt** [n]摘錄/節錄/片斷

@@ -5656,7 +5656,7 @@
 * tremendous [adj]巨大的/極大的, [非]傑出的/一流的 = *excellent*<-- trem
 * trench [n]溝, 壕溝, 海溝, **風衣** = *trench coat* [v]挖溝 <|> trenchant <|> entrench <|> retrench
 * **trope** [n]轉義/比喻, 主題/中心思想 = *motif*
-* **_trounce_** [v]毒打, 徹底打敗, 責罵/痛斥 = *rebuke*
+* **_trounce_** [v]毒打, 徹底打敗, 責罵/痛斥 = *rebuke* <|> **truce** <|> **traduce**
 * tuber [n]塊莖, [解]結節
 * **tuck** [v]塞進/藏入, 舒服地裹好, 打褶 [n]褶, 減脂手術
 * turf [n]草皮, 泥炭/泥煤, 賽馬場, 地盤 [v]用草皮覆蓋 <|> sod
@@ -5814,7 +5814,7 @@
 - toast [n]吐司, 祝酒/敬酒 [v]烘烤, 烘/取暖, **祝酒/敬酒** <|> boast
 - toddler [n]學步的小孩
 - toenail [n]腳趾甲
-- **toil** [v]苦幹/努力工作, 艱難緩慢地行走 [n]苦工 = *labor* <|> toll <|> moil
+- **_toil_** [v]苦幹/努力工作, 艱難緩慢地行走 [n]苦工 = *labor* <|> toll <|> moil
 - tombstone [n]墓碑/墓石, **墓碑廣告(承銷團經常刊登的廣告)** <-- tomb + stone
 - **tongs** [n]夾子/鉗子
 - thong [n]丁字褲 = *g-string*, 皮帶/皮條, 人字涼鞋 <|> **throng** <|> **tongs**
@@ -5890,11 +5890,11 @@
 - **troubadour** [n]遊吟詩人
 - **_[trough](/trɒf/)_** [n]飼料槽/飲水槽, 槽 = *channel* = *hollow*, 低壓槽, 低谷/蕭條期 [v][非]狼吞虎嚥
 - **troupe** [n]歌唱團/劇團 <|> **toupee** <|> **trope**
-- **trot** [v] (四足動物)小跑/快跑, (人)快跑/急行, 走/漫步, **[out]動不動就提出/重複說** [n]小跑, 快跑, [the trots]腹瀉 = *diarrhoea*
+- **trot** [v] (四足動物)小跑/快跑, (人)快跑/急行, 走/漫步, **[out]動不動就提出/重複說** [n]小跑, 快跑, [the trots]腹瀉 = *diarrhoea* <|> **tot**
 - trout [n]鱒魚/鮭魚
 - **trowel** [n]泥刀/小鏟子 [v]用泥刀塗抹
 - **trove** [n]貴重的發現物 
-- **_truce_** [n]講和/和談, 休戰/停戰 = *armistice* <|> **traduce**
+- **_truce_** [n]講和/和談, 休戰/停戰 = *armistice* <|> **traduce** 
 - trudge [v]跋涉 <-- tread + drudge
 - **_truism_** [n]陳詞濫調/老生常談
 - **trump** [n]王牌 = *ace*, 大阿爾克那/大牌, 王牌/殺手鐧, 好人 [v]出王牌, 超越
@@ -5902,7 +5902,7 @@
 - **truncheon** [n]警棍 = *baton* = *nightstick*
 - **_trundle_** [n/v]艱難地移動
 - trunk [n]樹幹, 軀幹/身軀, 象鼻, 大皮箱
-- **truss** [n]支撐屋頂、橋樑的構架/桁架, [醫]疝帶/托帶, 花束 [v] (在烹調之前)將(雞、鴨等的)翅膀和腳紮攏, 綁起(雙臂), 用構架支撐
+- **_truss_** [n]支撐屋頂、橋樑的構架/桁架, [醫]疝帶/托帶, 花束 [v] (在烹調之前)將(雞、鴨等的)翅膀和腳紮攏, 綁起(雙臂), 用構架支撐
 - trustee [n]財產、業務等的受託管理人, 託管國
 - trustworthy [adj]值得信賴的/可靠的
 - tried-and-true [adj]經多次試驗而證明有用的 == used many times in the past and proven to work well
@@ -5918,7 +5918,7 @@
 - turret [n]塔樓/角塔, 砲塔, (車床)轉臺
 - tushie [n]屁股
 - tusk [n]長牙/獠牙
-- **_tussle_** [n/v]爭鬥/搏鬥
+- **_tussle_** [n/v]爭鬥/搏鬥 <|> **truss**
 - tutor [n]家庭教師/私人教師, 助教 [v]當家庭教師
 - **_tutti_** [n]全體的合奏/合唱
 - **tuxedo** [n]禮服/無尾禮服
@@ -6114,6 +6114,7 @@
 ## W
 + waffle **[n/v]猶豫不決** [n]鬆餅 [adj]蜂巢狀的
 - [wag](/waɡ/) [v]擺動, 搖動手指表示否定 [n]擺動, **愛說笑的人** = *joker*
+- waggle [n/v]搖動/搖擺 <|> **waggish**
 + **_waggish_** [adj]詼諧的/滑稽的 = *humorous* = *facetious*
 + waive [v]放棄/撤回(權利), 不遵守(規則)
 + waiver [n]放棄/不強求執行, 免支付協議/棄權聲明書
@@ -6167,7 +6168,7 @@
 * **wallow** [v]在泥水中打滾, (船)搖晃/顛簸, [in]放縱/縱樂 [n]打滾, 打滾的地方/泥坑 <|> willow
 * waste [v]浪費, 處置(多餘的貨物) = *dispose*, **消瘦/衰弱**, **破壞** = *devastate* = *ruin*, **[非]殺害/重傷**, (時間)逝去 [adj]廢棄的, 荒蕪的 [n]浪費, 廢棄物, 荒地 
 - **wastrel** [n]揮霍無度的人
-* **waver** [v]顫抖/閃爍 = *flicker* = *quiver* [v]猶豫 = *dither* = *falter* = *scruple* = *vacillate* <|> waiver
+* **_waver_** [v]顫抖/閃爍 = *flicker* = *quiver* [v]猶豫 = *dither* = *falter* = *scruple* = *vacillate* <|> waiver
 * welfare [n]幸福/健康安樂, 救濟, 社會救濟
 * wicked [adj]邪惡的/缺德的 = *sinister* = *evil*, 糟透的, 頑皮的/淘氣的 = *mischievous* <-- witch
 - **wick** [n]燭芯/燈芯, 鎮/區 [v]吸走(液體) [adj]活潑的
@@ -6202,7 +6203,6 @@
 - **waddle** [v]搖搖擺擺地走 [n]搖擺的步伐 <-- wade
 - wade [v]涉水而行/蹚, [through]費力地讀完, [into][非]猛烈攻擊, [in]插手/干預 [n]跋涉/蹚水
 - **waft** [v] (風、氣味、聲音等)(使)飄蕩, 飄然而行 [n]吹送/飄蕩, 一絲(氣味)
-- waggle [n/v]搖動/搖擺 <|> **waggish**
 - **_waif_** [n]流浪兒
 - waist [n]腰, 腰身, 中間的細窄部分, 襯衫 = *blouse*, **緊身胸衣** = *bodice*
 - waistband [n]腰帶/束腰帶
@@ -6247,7 +6247,7 @@
 - wellness [n]健康 = *well*-being = *health*
 - well-being [n]幸福/安康
 - well-groomed [adj]整潔的 = *tidy* = *smart*
-- **well-heeled** [adj][非]富有的 = *wealthy*
+- **_well-heeled_** [adj][非]富有的 = *wealthy*
 - **well-off** [adj]富裕的
 - well-rounded [adj]身材曼妙的 = *plump* = *curvaceous*, 面面俱到的/多才多藝的, 面面俱到的(句子)
 - well-to-do [adj]富有的
@@ -6269,7 +6269,7 @@
 - **whop** [n/v][非]痛擊 <|> **whoop** 
 - **whopping** [adj][非]巨大的 = *very large* [adv]極度
 - **whoop** [n]高叫/高呼, 哮喘聲/喘息 [v]高喊/吶喊
-- whimper [n/v]嗚咽
+- **whimper** [n/v]嗚咽
 - whip [n]鞭子, 投票書面通知, (用雞蛋、鮮奶油與水果混合製成的)甜品 [v]鞭打, 盜取, 迅速拿來/快速拿走, 攪拌(成糊狀) = *stir* = *agitate* = *beat*, [up]煽動/激起, [up]趕出來/迅速做
 - **whipsaw** [n]雙人橫切鋸 [v]鋸開, 欺騙/利用 = *cheat* = *exploit*
 - whippersnapper [n]狂妄小子/傲慢且不重要的人
@@ -6285,7 +6285,7 @@
 - **whither** [adv][古]去哪裡/去何處 = *to where*, 到何種程度 [conj][古]無論到哪裡, 無論到何種程度
 - [whittle](/ˈwɪt(ə)l/) [v]削(木頭), [down]削減 = *pare* = *reduce* <|> **wheedle**
 - **whiz**, whizz [n]颼颼聲, **能手/奇才** [v]颼颼作聲
-- **whup** [v]打/打敗 = *beat* = *aasult*
+- **_whup_** [v]打/打敗 = *beat* = *aasult*
 - [whodunit](/huˈdənət/) [n][非]偵探小說
 - wholesale [mn]批發 [adv]以批發方式, 大規模地/不加區別地 [adj]大批的/大規模的 = *extensive* [v]批發
 - whoosh [n]嗖的一聲, 一陣 [v]嗖嗖地飛快移動 [excl]嗖
@@ -6367,12 +6367,12 @@
 - **yak** [n]犛牛, 饒舌/廢話 [v]饒舌/流暢地說
 - yam [n]山芋類植物, 山藥
 - yarrow [n]蓍草
-- yaw [n]偏航 [v]偏航, 左右搖動地航行, 張開 = *gape*
+- **yaw** [n]偏航 [v]偏航, 左右搖動地航行, 張開 = *gape*
 - **_[yawn](/jɔːn/)_** [v]打呵欠 = *gape*, 大開 = *gape* [n]呵欠, 乏味之物
 - yearling [n]滿一歲的動物 [adj]滿一歲的, 一歲動物的
 - yeast [n]酵母 <|> feast
 - yearbook [n]年鑑/年報, 畢業紀念冊
-- ＊＊yellow-bellied** [adj]膽小的
+- **yellow-bellied** [adj]膽小的
 - **yelp** [n/v] (因疼痛)叫喊 <|> **yap**
 - **yeoman** [n]自耕農, 國王或貴族的侍從
 - yip [n/v]尖叫
@@ -6395,7 +6395,7 @@
 - zigzag [n]Ｚ字形, 突然變來變去 [adj]鋸齒形的 [adv]曲曲折折地 [v]呈Z字形移動
 - [zip](/zɪp/) [v]拉開或扣上拉鍊, (使)快速移動, 壓縮(檔案) [n]拉鍊, [非]精力/活力, [非]無/沒有 = *nothing*
 - zipper [n]拉鍊 [v]拉上拉鍊
-- zing [n]活力, 尖嘯聲
+- **zing** [n]活力, 尖嘯聲 <|> ring
 - zone [n]地帶/地區, 時區, 動植物分布帶 [v]分成區, 劃出……為區
 - [zucchini](/zʊˈkiːni/) [n]櫛瓜
 
@@ -6408,19 +6408,19 @@
 - bon voyage [excl]旅途愉快
 - bona fide [adj]真誠的
 - bona fides [n]真誠, 書面證據 = credentials
-- **circa** [adv] (年份)大約
+* **circa** [adv] (年份)大約
 - de facto [adj]事實上的/實際上的
 - du jour [adj]當天供應的
-- en masse [adv]一起/全體
-- en route [adv]在路上/在途中
+* en masse [adv]一起/全體
+* en route [adv]在路上/在途中
 - esprit de corps [n]團隊精神
 - in vitro [adj]在體外(常指試管內)進行的
 - joie de vivre [n]生活之樂/人生的極大樂趣
-- magna cum laude [adv]以優異成績地
+* magna cum laude [adv]以優異成績地
 - modus operandi [n]做法/工作方法/作案手法
-- **per capita** [adj/adv]人均/每人
+* **per capita** [adj/adv]人均/每人
 - quid pro quo [n]交換條件
-- the status quo [n]現狀
++ the status quo [n]現狀
 * pro bono [ADJ/ADV]公益
 + et cetera == [etc.](/ɛtˈsɛtərə/) [adv]等等
 - per annum [adv]每年 

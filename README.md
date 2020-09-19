@@ -1,7 +1,8 @@
 ## About word
-- Basically, words are section according to their first letter.
-- First section in any letter part means these words is indispensable for GRE test. 
-- Second section means these words is the words that you usually see at English tests, like TOEFL.
+- Basically, words are sectioned according to their first letter.
+- Basically, related or resembling words are listed together.
+- First section in any letter part means these words are indispensable for GRE test. 
+- Second section means these words are usually seen at English tests, like TOEFL.
 - Last section is not necessary for any tests, but you still can see them on some occasions, like articles or dramas.
 
 ## About etymon
@@ -16,7 +17,7 @@
 ## Symbol 
 - `+` means it is for GRE test.
 - `*` means it is important to most of tests.
-- Blue link means its pronunciation is difficult.
+- Blue link `[]()` means its pronunciation is difficult.
 - `<-->` means antonym.
 - `<|>` means a word's spelling or pronunciation resembles another word.
 - `<--` means the word's etymon.
