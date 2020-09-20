@@ -33,6 +33,7 @@
 - closed book [n]一無所知的學科/完全不懂的學科
 - **close call** [n]即將到來的災難
 - con artist [n]騙子/行騙者
+- Davy Jones' Locker [n]大海的海底，死亡水手沈睡的地方(水手使用的黑話)
 - diamond in the rough [n]一塊璞玉
 - **double whammy** [n]禍不單行
 - due diligence [n]盡職調查(在企業投資、併購案中是很常見的流程。主要目的是為了確認對方公司是否值得被投資、是否有潛藏的風險)
@@ -42,6 +43,7 @@
 - fast track [n]快速成功之路/迅速晉升之道
 - feeding frenzy [n]試圖獲取某事的資訊/借助某事謀取最大利益
 - fall guy [n]代罪羔羊 = *scapegoat*
+- foregone conclusion [n]不可避免的結局/已成定局
 - frat brother/boy [n]大學兄弟會成員
 - **free-for-all** [n]不受控制的局面
 - friend with benefits [n]可以上床的朋友
@@ -87,6 +89,7 @@
 - red tape [n]繁文縟節
 - Renaissance man [n]多才多藝的人
 - **sea change** [n]完全的改變
+- security blanket [n]安全毯/帶給人安全感的熟悉的物體
 - side of the fence [n]立場/邊
 - social butterfly [n]交際花
 - smoke and mirrors [n]謎霧幻鏡，是魔法幻像中的經典技術，它使實體看起來像是在空曠的空間中盤旋
@@ -212,6 +215,7 @@
 - behind one's back [adv]背著某人(說壞話)
 - behind the eight ball [adv]處於劣勢
 - by accident [adv]無意地
+- **by and by** [adv]過了一會兒/不久
 - **by and large** [adv]大體上/總體上
 - by design [adv]故意地/蓄意地
 - by the same token [adv]根據同樣的理由
@@ -327,6 +331,7 @@
 - **with all due respect** [adv]恕我直言
 
 ## Phrase
+- a whole nother [adj]截然不同的
 - **(as) fit as a fiddle** [adj]非常健康
 - (be stuck) in a rut [v]墨守成規/一成不變
 - (the) chances are [phrase]很有可能
@@ -491,6 +496,7 @@
 - **go to great lengths** [v]竭盡全力/全力以赴
 - grab a bite [v]隨便吃點東西
 - grasp/clutch at straws [v]抓救命稻草/不放過任何微小的機會
+- grin and bear it [v]逆來順受
 - Has the cat got your tongue? [v]為何不吭聲
 - **have a ball** [v]玩得開心
 - have a bearing on sth [v]與…有關係/對…有影響
@@ -595,7 +601,7 @@
 - **put your finger on sth** [v]確切地指出(尤指不對勁的地方)
 - put one's best foot forward [v]全力以赴
 - put one's hands on sth [v]弄到手/得到, 抓住
-- **put sb out of their misery** [v]告知情況使(某人)不再感到不安/消除(某人)的顧慮
+- **put sb out of one's misery** [v]告知情況使(某人)不再感到不安/消除(某人)的顧慮
 - put sb at ease [v]使..冷靜
 - put (sth) in/into perspective [v]理解、讚揚或評估..真正的價值
 - put (sth) on hold [v]暫停/推遲
@@ -815,6 +821,7 @@
 - hold out on sb [v]拒絕幫助(某人)/向..隱瞞情況, 拒絕給..錢
 - hold sth down [v]阻止/使..留在原地
 - hold up [v]持槍搶劫, 延誤, 支持
+- hook up [v]與...一起工作, 與..開始一段戀愛關係
 - iron out [v]解決/消除
 - jazz up [v]使更有趣/使更吸引人
 - jet off [v]飛去
@@ -888,6 +895,7 @@
 - put aside [v]撇開不理/擱置
 - put off [v]拖延
 - put sb off (sth/sb) [v]使反感/使洩氣
+- put sth out [v]關(燈), 撲滅/熄滅, 伸出, 使..脫臼, 大量生產, 發出(資訊), 使(計算)出錯
 - put up with sb [v]忍受/忍耐
 - reach out [v]向某人伸出援手/給某人支持, 與(某人)打成一片
 - remove oneself [v]離去
@@ -996,6 +1004,7 @@
 - top out [v]達到最高點
 - **toss up** [v]擲硬幣決定
 - touch down [v]著陸/降落
+- **_touch on/upon sth_** [v]簡略提到
 - trail away/off [v]逐漸減弱到停止/逐漸消失
 - trip up [v]絆倒, 使犯錯
 - **_trot sth out_** [v]動不動就提出/重複說

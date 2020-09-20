@@ -213,6 +213,7 @@
 - [asphalt](/ˈasfalt/) [n]瀝青/柏油 = *tarmac* = *pitch* [v]鋪瀝青於
 - asset [n]資產, 有價值的物品/寶貴的人材
 - astray [adv]方向錯誤地, 誤入歧途地
+- ashtray [n]菸灰缸
 - **atlas** [n]地圖集, 寰椎/第一頸椎 = *atlas vertebra*, 男像柱
 - [athlete](/ˈaθliːt/) [n]運動員/體育選手 <-- athle 競賽 = *contest* + te
 - athletic [adj]強壯的/擅長運動的 = *agile*, 運動的
@@ -3080,6 +3081,7 @@
 - lei [n]夏威夷人戴於頸上的花環
 - lengthy [adj]長的/冗長的
 - lens -> lenses [n]透鏡/鏡片, 鏡頭, 晶體, 隱形眼鏡
+- lentil [n]小扁豆
 - **[leopard](/ˈlɛpəd/)** [n]豹
 - **[lesion](/ˈliːʒ(ə)n/)** [n]傷害/損傷/病灶 <|> **liaison**
 - lesser [adj]較小的/次要的/次級的
@@ -3382,7 +3384,7 @@
 - **markup** [n][on]漲價/加價幅度, 影印校訂 <|> makeup
 - markhor [n]捻角山羊
 - marmalade [n]橘子果醬
-- maroon [n]栗子 [adj]栗子的/栗子色的 <|> moron
+- maroon [n]栗子, 被放逐到孤島的人 [adj]栗子的/栗子色的 [v]**把……放逐到無人島上** <|> **moron**
 - marrow [n]葫蘆 = *gourd*, 骨髓 = *bone* marrow, **精華/經髓**, **朋友/夥伴**, 成對的東西 = *counterpart* = *twin*
 - marry [v]娶/嫁, 成婚, [into]嫁入/入贅, 把..嫁出, **融合/結合** <|> merry
 - marsh [n]沼澤地/濕地 = *swamp* = *mire* <|> marshal
@@ -5275,6 +5277,7 @@
 - sniff [v]嗅/聞, [非][around/round]搜索, [非][out]調查後發現 [n]嗅聞聲, 吸入量, **[非]徵兆** = *sign*, [非]些微的機會
 - sniffle [v]抽鼻子/吸鼻子 [n]鼻塞聲/鼻子吸氣聲, 鼻塞/輕微感冒
 - **snitch** [v][非]偷, [非]告密 [n][非]告密者 <|> **stitch**
+- **_[snivel](/ˈsnɪv(ə)l/)_** [n/v]哭哭啼啼, 哭訴
 - **_snooty_** [adj]自大傲慢的 = *arrogant* = *conceited*
 - snooze [n/v]打盹
 - **snorkel** [n]潛艇換氣裝置/呼吸管 [v]帶呼吸管潛水
@@ -5967,6 +5970,7 @@
 ***
 
 - **urchin** [n]**頑童**, 小孩, 刺猥, 海膽
+- urinal [n]小便斗
 - urinate [v]撒尿/小便
 - ugly [adj]難看的, 邪惡的/醜陋的
 - **[ulcer](/ˈʌlsə/ )** [n]潰瘍, 道德敗壞/腐敗
@@ -6401,6 +6405,7 @@
 
 ## Latin
 + **[ad hoc](/adˈhɒk/)** [adv]特別地/專門地 [adj]特別的/專門的
+- ad nauseam [adv] (因重複而)令人作嘔地/令人厭煩地
 + **[per se](/pəːˈseɪ/)** [adv]本身地
 - [cri de coeur](/ˌkriːdəˈkəː/) [n]衷心的懇求/呼籲
 - [grande dame](/ɡrɒ̃dˈdam/) [n]德高望重的女性/受人敬仰的女性/女泰斗
@@ -6434,6 +6439,7 @@
 - hibachi [n]木炭火盆
 - shiatsu [n]指壓按摩
 - tortilla [n]墨西哥玉米粉薄烙餅
+- wonton [n]餛飩 
 - voila [excl]那就是/瞧/可不是
 
 ## Exclmation

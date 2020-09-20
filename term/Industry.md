@@ -606,6 +606,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - melba toast [n]梅爾巴吐司(烤脆的薄麵包片)
 - butternut squash [n]南瓜
 - macaroni and cheese [n]起司通心麵
+- lentil [n]小扁豆
+- wonton [n]餛飩
 
 ## Engineer
 - Applied Materials 應用材料，是全球最大的半導體設備和服務供應商。應用材料公司創建於1967年，公司總部位於美國加利福尼亞州聖克拉拉
@@ -1303,6 +1305,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - [tunic](/ˈtjuːnɪk/) [n]長達膝蓋的短袖束腰外衣, 束腰外衣, (警察士兵的)緊身短上衣, 膜皮/被膜
 - lapel pin [n]胸針/徽章 == a small pin worn on clothing, often on the lapel of a jacket, attached to a bag, which indicate wearer's affiliation with an organization or cause.
 - capri pants [n]卡普里褲/七分褲
+- polka dot [n]圓點花樣 
+- polka [n/v]波爾卡舞
 
 ## Fun/Entertainment
 - jackpot [n]累積獎金/頭獎
@@ -1408,6 +1412,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Toblerone [n]三角巧克力(一家瑞士巧克力棒品牌)
 - Zima [n]一種碳酸酒精飲料
 - Ritalin [n]立得寧(醫界廣泛使用的治療兒童過動病症藥物)
+- Nutter Butter [n]美國的餅乾品牌，據稱它是美國最暢銷的花生醬三明治餅乾
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel
