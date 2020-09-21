@@ -2497,7 +2497,7 @@
 ***
 - **_habilitate_** [v]給……衣服穿, 取得任職資格(歐洲大學)
 - hacktivist [n]信念駭客 <-- hack + activist
-- **[haggard](/ˈhaɡəd/)** [adj]憔悴的, (鷹)未馴服的/野性的 [n]野鷹
+- **[haggard](/ˈhaɡəd/)** [adj]憔悴的 = **emaciated**, (鷹)未馴服的/野性的 [n]野鷹
 - **haggle** [v]討價還價 = *bargain* = *dicker*
 - hairdo [n]髮型
 - **[hale](/heɪl/)** [adj] (尤指老人)健壯的 <|> [hell](/hɛl/)
@@ -4708,7 +4708,7 @@
 + speeding [n]超速行駛 [adj]高速行駛的
 + spendthrift [n]揮霍無度的人 <-- spend + thrift
 + spell [v]拼寫, 組成/拼成, 是..的特徵, **代表/造成** = *mean* = *caus*, 暫時替換, **[out]解釋清楚/詳細地說明** [n]咒語, 法術, 著魔/入迷, 短時間, 一段時間, 木頭碎片
-+ **[spleen](/spliːn/)** [n]脾臟 [mn]壞脾氣 = *spite*
++ **[spleen](/spliːn/)** [n]脾臟 [mn]**壞脾氣** = *spite*
 + **[splenetic](/splɪˈnɛtɪk/)** [adj]脾氣壞的
 + [spoil](/spɔɪl/) [v]破壞, (食物)變質/腐壞, **寵愛/溺愛** = *pamper*, [be spoiling for]極度渴望 [n]掠奪物, 廢品
 * spoilage [n]變質/腐壞, 弄壞或變成無用之物/印壞的廢紙
@@ -4725,7 +4725,7 @@
 * spur [n]馬刺, 刺激因素/誘因 = *incentive*, 山嘴/尖坡, 鐵路的支線, 骨刺 [v]策(馬)前行, 刺激/激勵 = *stimulate*
 + squabble [n/v]爭吵/口角 = *bicker* <|> quibble
 + [squander](/ˈskwɒndə/) [v]浪費/揮霍 = *splurge* = *dissipate* = *waste*
-+ **squeamish** [adj]易感到噁心的/神經質的
++ **_squeamish_** [adj]易感到噁心的/神經質的
 + **squelch** [v]發吧唧聲/發撲哧聲, [非]制止/遏制 = *suppress* [n]吧唧聲
 + [staccato](/stəˈkɑːtəʊ/) [adj]斷音的/斷奏的, 斷斷續續的/不連貫的 = *disjointed* = *disconnected* [adv]斷音地 [n]斷音/斷奏
 + stalwart [adj]忠實的/可靠的 = *loyal* = *reliable*, 健壯的 = *robust* = *sturdy* [n]忠實成員
@@ -4986,7 +4986,7 @@
 - sew -> sewed -> sewed/sewn [v]縫合/縫補, 縫上, 縫製
 - sawdust [mn]鋸屑
 - scabbard [n]劍鞘 = *sheath*
-- **scab** [n]痂, 破壞罷工者/在罷工時工作的人 [v]結痂, 破壞罷工
+- **_scab_** [n]痂, 破壞罷工者/在罷工時工作的人 [v]結痂, 破壞罷工
 - **scad** [n]竹筴魚 = *jack*
 - **scads** [n][非]大量
 - scrawny [adj]瘦的/骨瘦如柴的, 小型的
@@ -5057,12 +5057,12 @@
 - [seal](/siːl/) [n]封條, 浮水印, 封蠟/印章, 圖章, 誓約/象徵, **海豹** [v]封/密封, 護貝, **快速高溫油炸**, 確定/決定, 蓋章/蓋印於
 - sear [v]燒焦/燒灼 = *scorch*, 烙印(記憶), 高溫快煎, (痛苦)燒灼 [adj]乾枯的 = **sere**
 - second-string [adj]二線的, 替補的/候補的
-- **_sere_** [adj]乾枯的
+- **_sere_**, sear [adj]乾枯的
 - **seedy** [adj]骯髒的/下流的 = **seamy**, 破舊的/襤褸的
 - seedling [n]幼苗
 - **seep** [v]滲漏 [n]滲漏處 <|> peep <|> weep
 - **seethe** [v]沸騰 = *boil*, 激動, 喧嚷 = *buzz*, 快步忙亂地走
-- **seine** [n]捕魚用的圍網, 用圍網捕撈
+- **_[seine](/seɪn/)_** [n]捕魚用的圍網, 用圍網捕撈
 - seizure [n]抓住/佔領, 充公/扣押, 發作
 - self -> selves [n]自我, [one's self]本性, 自己的利益, 自己, 本人
 - selfsame [adj]完全相同的 = *identical*
@@ -5091,7 +5091,7 @@
 - **shabby** [adj]破爛的/破舊的, 可鄙的/菲薄的 = *mean* = *unfair*
 - shaft [n]手柄, 箭/矛, 升降機井, 軸, 一道(光或感覺), 諷刺話, 礦井 [v]射入光線
 - shaky [adj]顫抖的, 不牢固的, 不牢靠的/不安全的
-- shale [mn]頁岩
+- **shale** [mn]頁岩
 - shatter [v]打碎/粉碎, 粉碎(抽象), 使心煩意亂 = *upset*
 - shattered [adj]心煩意亂的 = *upset*
 - shaman [n]薩滿/巫師
@@ -5180,7 +5180,7 @@
 - simmer [v]煨/燉, 即將爆發, [down]冷靜 [n]即將沸騰狀態
 - single-handed [adj]獨自的/單獨的, 單手完成的
 - single-minded [adj]一心一意的/專心致志的
-- **_singe_** [v]把……微微燒焦 [n]表面灼傷
+- **_singe_** [v]把……微微燒焦 [n]表面灼傷 <|> sere <|> scorch
 - **sip** [v]小口喝/啜飲 [n]一小口 <|> **sop**
 - siphon, syphon [n]虹吸管, 虹管 [v]用虹吸管吸出, (非法)輸送
 - siren [n]汽笛/警報器, 塞壬, 妖婦, 鰻螈
@@ -5247,7 +5247,7 @@
 - **slump** [v]倒下/坐下, 下跌, 衰落 [n]暴跌/下降, 不景氣, 衰落 <|> **slumber**
 - **slurp** [v]大聲地吃喝
 - **slurry** [n]泥漿 <|> **flurry**
-- **slush** [n]融雪, **[slush piles]一疊手稿** [v]發出噴濺聲
+- **slush** [n]融雪, **[slush piles]一疊手稿** [v]發出噴濺聲 <|> sleet
 - slut [n]懶婦/蕩婦
 - **_smarmy_** [adj][非]討好的/拍馬屁的 = *ingratiating* = *wheedling*
 - smart [adj]時髦的 = *stylish*, [非]聰明的 = *intelligent*, **缺乏尊重的**, 智慧的/自動的(裝置), 輕快的/敏捷的 = *brisk* [v]感到刺痛, 感到不快/憤怒 [mn]刺痛, [非]聰明/精明 = *acumen* = *intelligence*
@@ -5263,7 +5263,7 @@
 - smoky [adj]煙霧彌漫的, 冒煙的, 菸灰色的, 煙燻味的
 - smolder [v]悶燒, 怒火中燒, 暗中持續存在 [n]悶燒
 - snag [n]**意料不到的障礙/潛在的缺點**, 尖銳的凸出物, 衣物的破洞 [v]鈎破/掛破, **[非]快速尋獲/抓住** = *obtain* = *catch*
-- **snazzy** [adj]時髦的 = *fashionable* = *stylish*
+- **_snazzy_** [adj]時髦的 = *fashionable* = *stylish*
 - snare [n]陷阱/羅網, 圈套/誘惑, (鼓的)響弦 [v]用陷阱捕捉, 抓到 = *catch* = *trap*
 - **_snarl_** [n/v] (動物或人)咆哮 [v][up]使…交纏 = *entangle*, [up]妨礙 = *hinder* = *impede* [n]結 = *knot* <|> gnarl
 - sneaker [n]運動鞋
@@ -5286,7 +5286,7 @@
 - snowdrift [n]雪堆
 - **sonorous** [adj]洪亮的, 能發出響亮聲音的, 鏗鏘有力的/語調誇張的
 - sonority [mn]響亮 
-- **_snuff_** [v]熄滅 = *extinguish*, 剪(燭芯), [非]殺掉/終結 [n]燭花, 鼻煙, 嗅/聞 = *sniff*
+- **_snuff_** [v]熄滅 = *extinguish*, 剪(燭芯), [非]殺掉/終結 [n]燭花, 鼻煙, 嗅/聞 = *sniff* <|> snuffle
 - **snug** [adj]溫暖的/舒適的 = *cozy*, 緊貼合身的, 安全的 [n]**小隔間** = **cubby** <|> **smug**
 - snuggle [v]舒服地蜷伏 = *snug*
 - so-called [adj]所謂的
@@ -5304,12 +5304,12 @@
 - somersault [n/v]翻筋斗
 - sop [n]**小賄賂/巴結用的物品**, 用來沾醬或湯的麵包 [v][up]吸(液體)
 - sopping [adj]吸飽水的
-- sophomoric [adj]二年級的, **不老練的**
+- sophomoric [adj]二年級的, **不老練的** <--> senior
 - sore [adj]痛的, [非]惹人生氣的 = *upset* = *angry*, 極度的/劇烈的 = *severe* = *urgent* [n]痛處, 痛處/傷心事 <|> sole
 - sorority [n]女生聯誼會/姐妹會
 - sought-after [adj]熱門的/廣受歡迎的
 - soupy [adj]湯似的, 潮濕多霧的, **[非]多愁善感的** = *sentimental*
-- **souse** [v]浸/醃, 喝醉/酗酒 = **swig** [n]浸濕, 酒鬼
+- **_souse_** [v]浸/醃, 喝醉/酗酒 = **swig** [n]浸濕, 酒鬼
 - spackle [n][商標]填泥料 [v]用填泥料修補
 - spade [n/v]鏟/鍬 [n]黑桃, [貶]黑人
 - span [n]長度/跨度, (橋的)跨度/墩距, 指距, 一段時間 [v]橫跨, (時間)持續/跨越 [adj][spick and span]整潔的/乾淨的
@@ -5356,8 +5356,8 @@
 - **splinter** [n]裂片/碎片 = *sliver* [v]裂成碎片 = *sliver*
 - **splotch** [n]污漬/斑點 [v]弄汙 = *blot* = *fleck*
 - split [v]劈開/切開, 分擔/分享, 使分裂/使不團結, 斷絕關係/離婚, [非]頭痛, **[非]離開/逃跑** [n]裂縫/裂痕, 分裂, (組織)分裂 = *division* = *schism*, 斷絕關係/離婚, 分成一半的東西
-- **splurge** [n/v]揮霍 = *dissipate* [n]大量
-- **_spoke_** [n]輪輻, 舵輪把柄
+- **_splurge_** [n/v]揮霍 = *dissipate* [n]大量
+- **spoke** [n]輪輻, 舵輪把柄
 - spokesman [n]發言人
 - sponsor [n]贊助者, 資助/贊助, 倡議者, 保證人/負責人, 教父 = *godfather* [v]資助/贊助, 倡議, 規劃(雙方會談)
 - **spoof** [n]滑稽模仿的作品 [v]欺騙/戲弄 = *hoax* = *trick*, **干擾(訊號)** = *tnterfere*
@@ -5436,10 +5436,10 @@
 - stoop [v]屈身/彎腰 = *bend*, 彎腰駝背, 屈尊/墮落, (鳥)俯衝下撲 = *swoop* down [n]彎腰/駝背, 俯衝下撲
 - **stopgap** [n]權宜之計 = *makeshift*
 - stopper [n]塞子, 停止者/制止者 [v]用塞子塞住
-- **stove** [n]爐灶, 火爐/暖爐 <|> **shove**
+- **stove** [n]爐灶, 火爐/暖爐 <|> **shove** <|> **stave**
 - **_stave_** [n]木柱, 桶的側板, 詩節/詩句 = *verse* [v][in]擊穿, **[off]避開/延緩(危險)** = *avert* = *delay*
 - **stowaway** [n]偷渡者
-- **strafe** [n/v]猛烈砲轟/低空掃射
+- **_strafe_** [n/v]猛烈砲轟/低空掃射
 - straggle [v]脫隊, 四散/散落 [n]散亂
 - straggler [n]走散的人/離群的動物
 - strait [n]海峽, **困境/危難** **[adj]嚴峻的**
@@ -5496,9 +5496,9 @@
 - **[suture](/ˈsuːtʃə/)** [n]傷口縫線 [n/v]縫合 <-- sew
 - **[sutra](/ˈsuːtrə/)** [n]佛經
 - **[svelte](/svɛlt/)** [adj]苗條的 = slender
-- **swaddle** [v]把(嬰兒)用布包住
+- **_swaddle_** [v]把(嬰兒)用布包住
 - swallow [v]吞下/嚥下, 忍受, 輕信, 抑制, 捲入/吞沒 = *engulf*, 耗盡/用盡 [n]吞/嚥, 一口, 燕子 <|> wallow
-- **swank** [adj]華麗的 [n]華麗/時髦 [v]炫耀/出風頭
+- **_swank_** [adj]華麗的 [n]華麗/時髦 [v]炫耀/出風頭
 - **swash** [v]潑/濺 [n]奔流
 - **swath**, **swathe** [n]狹長的事物/帶狀地, 收割的寬度/划幅
 - sway [v]搖擺/擺動, 說服/使動搖, 統治 [mn]搖動/搖擺, 控制/統治
@@ -5506,7 +5506,7 @@
 - sweater [n]毛線衣, 大量出汗的人 = *perspirer*
 - sweetener [n]增甜劑/糖精
 - sweetums [n]親愛的
-- **swerve** [v]突然改變方向/突然轉向 [n]轉向
+- **swerve** [v]突然改變方向/突然轉向 [n]轉向 <|> **slew**
 - **swig** [v]痛飲/牛飲, 重擊 = **slug** [n]一大口 <|> twig
 - **swill** [v]大口喝/牛飲 = *swig*, 餵豬 [n]給豬吃的剩飯菜
 - swindle [n/v]敲詐/騙取(錢財) = *gouge* = *extort* = *overcharge* = *pluck* = *rob*

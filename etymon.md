@@ -2264,7 +2264,7 @@
 	+ ebullience [n]精力充沛/熱情洋溢 = *exuberance*
 	- **edict**
 	- **_educe_**
-	- **ejaculate** [v]射精, 飛快地說 [n]射出的精液
+	- ejaculate [v]射精, 飛快地說 [n]射出的精液
 	+ elaborate --> elaboration
 	+ **elate**
 	+ elevate
@@ -2274,12 +2274,12 @@
 	+ eliminate --> elimination
 	- elite
 	- **elocution**
-	- **elope** [v]私奔
+	- **_elope_** [v]私奔
 	+ elucidate
 	+ elude --> elusion -> elusive
 	* emancipate
 	- **emend**
-	+ emerge --> emergence --> emerging = *emergent*
+	+ emerge --> emergence --> emerging --> emergent
 	- emigrate [v]移居外國 <--> immigrate
 	- emit --> emission
 	* **emote** --> emotion
@@ -2297,13 +2297,13 @@
 	- evaluation [mn]評價/鑑定
 	+ **evanesce** --> **evanescent**
 	- evaporate
-	+ eviscerate [v]除去……的內臟 = *disembowel*, 掏空
+	+ eviscerate [v]除去……的內臟 = *disembowel*, **掏空**
 	+ evoke --> evocative
 	+ evolve --> evolution
 
 2. 完全/加強 = *completely*
 	+ eloquent --> eloquence 
-	+ emaciated [adj]消瘦的/憔悴的 = *cadaverous* <|> emancipate <|> emanate <-- e + maci 瘦 = *leanness* + ate
+	+ emaciated [adj]消瘦的/憔悴的 = *cadaverous* = *haggard* <|> emancipate <|> emanate <-- e + maci 瘦 = *leanness* + ate
 	+ eminent
 	+ **emollient**
 	- emulsify
@@ -2339,7 +2339,7 @@
 - excite --> excitable --> excitability
 - exclaim --> exclamation
 + exclude --> exclusive
-+ **_[excoriate](/ɪkˈskɔːrɪeɪt/)_** [v]嚴厲批評/撻伐 = *censure* = *denounce* = *lambaste* = *savage*, 剝皮 <-- ex + cor 皮 = *skin*
++ **_[excoriate](/ɪkˈskɔːrɪeɪt/)_** [v]嚴厲批評/撻伐 = *censure* = *denounce* = *lambaste* = *savage*, 剝皮 <|> excruciate <-- ex + cor 皮 = *skin*
 * excrete
 + **exculpate** --> exculpatory
 - excursion --> excursive
@@ -2363,7 +2363,7 @@
 - exoteric [adj]開放的/公開的 <--> esoteric
 + exotic [adj]異國情調的/外來的, 奇特的
 + expand [v]展開/張開, 使膨脹/使擴張, 擴大, **詳述** = *expound* = *exhaust*
-+ expansive [adj]豪爽的/健談的 = *gregarious*, 遼闊的 = *extensive*, 擴張的
++ expansive [adj]**豪爽的/健談的** = *gregarious*, 遼闊的 = *extensive*, 擴張的
 * expanse [n]廣袤的地區, 展開的距離
 + [expatiate](/ɪkˈspeɪʃɪeɪt/) [v]**細說/詳述**, 漫遊 = *ramble* <|> expatriate <|> peripatetic <-- ex + spati 走 + ate
 + **expedite** --> expeditious
@@ -2407,14 +2407,14 @@
 - embank [v]築堤護住
 - embankment [n]堤岸/路堤 = *levee*
 - embark [v]上船, 裝載, [on/upon]開始 = *begin*
-* embarrass [v]使尷尬/使窘迫 = *discomfit* = *mortify*, 使拮据 <-- em + barrass 套索 = *cord*, strap, noose
+* embarrass [v]使尷尬/使窘迫 = **discomfit** = *mortify*, 使拮据 <-- em + barrass 套索 = *cord*, strap, noose
 + embargo
 - embattle [v]加強(防禦) = *fortify*
 - embattled [adj]布陣的/準備戰鬥的, **處境艱難的**
-- embed [v]牢牢嵌入, 深植 = *implant* [n]戰地記者 <-- em + bed 床 
+- embed [v]牢牢嵌入, 深植 = *implant* [n]**戰地記者** <-- em + bed 床 
 + embellish [v]裝飾 = *adorn* = *flourish*, 潤飾/美化 = *flourish* = *enhance* <-- em + bel 美 = *pretty* + lish
 + embellishment [n]裝飾, 潤色 
-- **embezzle** [v]盜用/貪污 = *misappropriate* = *defalcate* = *peculate*
+- **embezzle** [v]盜用/貪污 = *misappropriate* = **defalcate** = **peculate**
 - embezzlement [n]侵吞/盜用公款 <-- em + bezzle 破壞 = *destory*
 + emblem [n]徽章, 象徵/標誌 <-- em + blem 放 = *put*
 + emblematic [adj]作為象徵的 = *symbolic* 
@@ -2443,7 +2443,7 @@
 * enclose, inclose [v]圍住, 隱居 = *seclude*, (信)附入/封入 
 * enclosed [adj]被圍住的, 與世隔絕的/隱居的 = *reclusive* = *seclude*
 * enclosure [n]圈地/圍場, 圍欄/圍牆, 隔離/隱居, 附件
-+ **encomium** [n]讚頌/頌詞 = *eulogy* = *panegyric* 
++ **_encomium_** [n]讚頌/頌詞 = *eulogy* = *panegyric* 
 + **encomiast** [n]讚美者  <-- en + com 迷戀 = *revel* + ium
 + encomiastic [adj]讚美的
 - encompass [v]圍繞/包圍 = *enclose* = *envelop* = *circumvent*, 包含
@@ -2487,7 +2487,7 @@
 - enroll [v]入會/入學, 徵 = *recruit*
 - enshroud [v]遮蓋
 - ensnare [v]以陷阱捕
-- **[ensconce](/ɪnˈskɒns/)** [v]安置/安頓 <-- en + sconce 木堆 = *bundle* of wood
+- **_[ensconce](/ɪnˈskɒns/)_** [v]安置/安頓 <-- en + sconce 木堆 = *bundle* of wood
 - ensemble
 - ensign [n]旗/軍旗
 * ensue [v]接著發生/接踵而來, 產生  <-- en + sue 跟隨 = *follow*
@@ -2574,10 +2574,10 @@
 	- epidermis
 	- epidemic
 	+ **eponym** --> **eponymous**
-	- **epistle** [n]書信, (聖經‧新約中的)使徒書信
+	- **_epistle_** [n]書信, (聖經‧新約中的)使徒書信
 	- epistolary [adj]書信的/書信體的
 	- **epitaph** [n]墓誌銘 <-- epi + taph 墓 = *tomb*
-	+ **epithet** [n] (褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = *put*
+	+ **_epithet_** [n] (褒貶人時使用的)表述形容詞, 稱號/綽號 <-- epi + thet 放 = *put*
 	- **epithelium** [n]上皮
 	- epithelial [adj]上皮的
 	- epoch [n]時期/時代, 重要時期, 新紀元, 值得紀念的事件 <-- ep + och 擁有 = *have*
@@ -2623,7 +2623,7 @@
 + **equitable** [adj]公平的 = *fair* = *evenhanded*
 - equate [v]等同, 使相等
 - [equator](/ɪˈkweɪtə/) [n]赤道, 天體軌道
-- **_[equatorial](/ˌɛkwəˈtɔːrɪəl/)_** [adj]赤道的/赤道附近的
+- **[equatorial](/ˌɛkwəˈtɔːrɪəl/)** [adj]赤道的/赤道附近的
 - equivalent
 + equivocate --> equivocal
 
@@ -2677,7 +2677,7 @@
 * electric [adj]靠電力運作的/用電的, 令人震驚的 [n]靠電運作的交通工具/電車
 * electrical [adj]電的, 電器的 [n]電氣設備/電路
 - electrician [n]電工/電氣技師
-- electrode [n]電極
+- **electrode** [n]電極
 - electrocute [v]使觸電致死/用電刑處死
 - electron [n]電子
 - electrostatic [adj]靜電的
@@ -2732,7 +2732,7 @@
 * forewarning [v]預先警告/事先告知
 - forth [adv]向前/向外, 以後
 - **forthwith** [adv]立刻 = *immediately*
-+ forthcoming [adj]即將到來的, 現有的/隨時可得的, **願意透露的** <--> unforthcoming
++ **_forthcoming_** [adj]即將到來的, 現有的/隨時可得的, **願意透露的** <--> unforthcoming
 + **forthright** [adj]直率的/坦率的 = *outspoken* = *downright* [adv]立即 = *immediately*
 
 ## fora 孔 = *bore*
@@ -2779,7 +2779,7 @@
 - boldfaced [adj]公然的/厚顏無恥的 = *brazen* = *flagrant*, 粗體印刷的
 - **[facade](/fəˈsɑːd/)** [n]建築物的正面, **(虛假的)外表**
 + facet [n]琢面/小平面, 方面 = *aspect* = *feature*
-+ **[facetious](/fəˈsiːʃəs/)** [adj]好開玩笑的/滑稽的 = *flippant* = *humorous* <|> **factitious**
++ **[facetious](/fəˈsiːʃəs/)** [adj]好開玩笑的/滑稽的 = *humorous* <|> **factitious**
 + facetiousness [n]滑稽
 
 ## fab, fable 說 = *speak* == *dict* == *cent*
@@ -2802,9 +2802,10 @@
 + **beneficent**
 + **beneficial**
 - beneficiary
+- coefficient [n]係數
 - confect [v]調製 = *concoct* 
-- confection **[n]甜食/糖果** [mn]調製
-+ **counterfeit** [v]偽造/仿造 = *fabricate* = *forge* = *simulate*, 假裝, 像 = *resemble* [adj]僞造的/仿造的 = *forged* = *bogus* = *pretended* = *unreal* = *queer* <--> genuine, 虛假的 [n]仿製品
+- confection [n]**甜食/糖果** [mn]調製
++ **_counterfeit_** [v]偽造/仿造 = *fabricate* = *forge* = *simulate*, 假裝, 像 = *resemble* [adj]僞造的/仿造的 = *forged* = *bogus* = *pretended* = *unreal* = *queer* <--> genuine, 虛假的 [n]仿製品
 + defeat [v]擊敗/打敗, 使挫敗 = *frustrate* = *thwart* [n]失敗/落敗
 + defect [n]缺點/缺陷 = *shortcoming* = *fault* = *flaw* = *deficiency* = *failing* **[v]叛逃** = *desert*
 - **defection** [n]脫離/叛逃
@@ -5555,7 +5556,7 @@
 - **tautonym**
 
 ## oner 負擔 = *burden*
-+ **exonerate** [v]證明無罪 = *exculpate*, 免除…的責任 = *exempt* <|> exorable
++ **exonerate** [v]證明無罪 = **exculpate**, 免除…的責任 = *exempt* <|> exorable
 * onus [n]義務/責任 = *responsibility* = *duty*
 + [onerous](/ˈɒn(ə)rəs/) [adj]繁重的/麻煩的 = *burdensome* = *taxing* = *wearing* = *operose*, 負有義務的
 
@@ -8324,7 +8325,7 @@
 ## tail 切 = *cut*
 + curtail [v]減少/縮減 = *abridge* = *reduce* = *diminish*
 + detail [v]詳細說明, **分派(任務)** = *assign* [n]細節, 瑣事/枝節, 情報/消息, **分遣隊/小組**, **任務/差事**
-+ **entail** [v]必需/導致 = *involve* = *imply* = *implicate*, [法]限定繼承
++ **_entail_** [v]必需/導致 = *involve* = *imply* = *implicate*, [法]限定繼承
 - retail [n/v]零售 [v][at/for]零售價格為 [adv]以零售方式/以零售價格 <|> retell
 * [tailor](/ˈteɪləd/) [n]裁縫師 [v]裁製, 修改 = *adapt* = *moodify*
 
