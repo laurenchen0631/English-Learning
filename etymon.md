@@ -412,8 +412,8 @@
 
 ## arbit 判斷 = *judge*
 + arbiter [n]仲裁人 = *arbitrator* = *moderator*, 權威人士
-+ [arbitrary](/ˈɑːbɪt(rə)ri/) [adj]**任意的**/隨心所欲的, **獨斷的**/專制的 = *dictatorial*, [數]不定的
-- arbitrate [v]仲裁/公斷 = *adjudicate* = *umpire* 
++ [arbitrary](/ˈɑːbɪt(rə)ri/) [adj]**任意的/隨心所欲的**, **獨斷的/專制的** = *dictatorial*, [數]不定的
+- arbitrate [v]仲裁/公斷 = *adjudicate* = *umpire* <|> **arbitrage**
 - arbitration [mn]仲裁
 - **_arbitrage_** [n/v]套利
 
@@ -2469,7 +2469,7 @@
 + engender
 - engrave [v]雕刻, [on/in]銘記
 * **_engross_** [v]全神貫注 = *immerse* = *preoccupy* = *bemuse* <-- en + gross 厚 = *thick*
-- **engulf** [v]捲入/吞沒, 整個吞下, 壓倒 = *overwhelm*
+- **_engulf_** [v]捲入/吞沒, 整個吞下, 壓倒 = *overwhelm*
 - **_enjambed_** [adj]跨句連接的 
 - enjambment [mn]詩句之連續
 + enhance [v]提高/改善 = *increase* = *improve* <-- en + hance 高 = *high*
@@ -2885,7 +2885,7 @@
 + prefer [v]更喜歡/寧願, 提出(控告)
 + preference [n]偏愛/偏袒, 優先
 * refer [v][to]論及/暗示 = *mention* = *allude*, [to]將……提交/交付, [to]轉診, [to]查閱/參考, 不及格
-- **referee** [n]裁判/裁判員 [v]擔任裁判
+- **_referee_** [n]裁判/裁判員 [v]擔任裁判
 - referral [n]提及, 轉診, 轉診病人 
 - **referendum** -> referenda [n]全民公投
 - somniferous
@@ -2932,12 +2932,12 @@
 - refract [v]折射 
 - refraction [n]折射 <|> refection
 - refractor [n]折射物, 折射望遠鏡
-+ **refractory** [adj]執拗的/倔強的/難以控制的 = *disobedient*, 有抵抗力的/抗感染的/耐火的 [n]耐火材質
++ **_refractory_** [adj]執拗的/倔強的/難以控制的 = *disobedient*, 有抵抗力的/抗感染的/耐火的 [n]耐火材質 <|> **refectory**
 
 ## femin 女性 = *woman*
 - feminist [adj]主張男女平等的 [n]男女平等主義者 = *egalitarian*
 * [feminine](/ˈfɛmɪnɪn/) [adj]女性特有的/女性的/陰性的 [n]女性 = *female* <--> masculine
-- **[effeminate](/ɪˈfɛmɪnət/)** [adj][貶]女人氣的/柔弱的 = *unmanly* = *effete*
+- **[effeminate](/ɪˈfɛmɪnət/)** [adj][貶]女人氣的/柔弱的 = *unmanly* = **effete**
 
 ## fid, fide 相信 = *trust*, faith
 - **[affidavit](/ˌafɪˈdeɪvɪt/)** [n]宣誓書
@@ -3148,7 +3148,7 @@
 + function [n]功能/作用, 函數, **典禮/社交聚會** [v]運作 = *work* = *operate*, 起作用
 - functional [adj]功能性的, 爲實用而設計的/實用的, 正常工作的, 函數的
 - **_functionary_** [n]官員 = *official*
-+ **_perfunctory_** [adj]馬虎的/敷衍的 = *superficial*
++ **perfunctory** [adj]馬虎的/敷衍的 = *superficial*
 - malfunction
 
 ## foss 石頭/化石 = *fossil*
@@ -3173,6 +3173,7 @@
 
 ## grav, griev 重/沈重 = *heavy*
 * aggravate [v]加重/惡化 = *exacerbate*
+- **_aggrieve_** [v]使痛苦 = *afflict*
 + grave [adj]**嚴峻的/嚴重的** = *serious*, 嚴肅的 = *solemn* = *grim* [n]墓穴, 死亡
 - **gravitas** [n]莊嚴的舉止/莊重 = *dignity* = *seriousness* = *solemnity*
 - gravity [n]重力, 嚴重性/危險性, 嚴肅/莊嚴
@@ -3182,7 +3183,6 @@
 * grievance [n]不滿, 抱怨
 + grievous [adj]悲傷的, **_極嚴重的_** = **grave** = *flagrant* = *outrageous*
 - grief [n]憂傷/悲傷
-- **_aggrieve_** [v]使痛苦 = *afflict*
 
 ## greg 聚集 = *flock*
 + aggregate [n]聚集體, 集料/粒料(建築用的小石料) [adj]合計的/總的 = *gross*, 複合的 [v]使聚集 = *agglomerate* = *assemble* 
@@ -3267,7 +3267,7 @@
 * **_gratuity_** [n]打賞/小費 = *tip*
 * **_[gratuitous](/ɡrəˈtjuːɪtəs/)_** [adj]無理由的/無端的 = *unwarranted* = *unprovoked*, 免費的/無償的
 * ungrateful [adj]不感激的, 討厭的
-+ **ingrate** [n]忘恩負義的人 = *ungrateful* [adj] 
++ **_ingrate_** [n]忘恩負義的人 = *ungrateful* 
 + ingratitude [n]忘恩負義
 + **ingratiate** [v]逢迎/討好 = *flatter* 
 + ingratiating [adj]討好的/諂媚的 = *smarmy*
@@ -3372,7 +3372,7 @@
 ## geronto, geront 老人 = *old* man
 - gerontocracy [n]老人政府
 - gerontology [n]老人病學
-- **[gerontic](/dʒɛˈrɒntɪk/)** [adj]老年的
+- **_[gerontic](/dʒɛˈrɒntɪk/)_** [adj]老年的
 
 ## glaci 冰 = *ice*
 + glacial [adj]冰河的, 冰的 = *cold* = *icy*, 冷淡的 = *slow* = *unsympatheti* [n]冰河時期
@@ -3407,7 +3407,7 @@
 ## hyper 過 = *over*, above
 - hyperactive [adj]活動過度的
 - hyperactivity [n]活動過度, 極度活躍
-- **hyperbaric** [adj]高氣壓的
+- **_hyperbaric_** [adj]高氣壓的
 + [hyperbole](/hʌɪˈpəːbəli/) [n]誇飾法 <-- hyper + bole 扔 = *throw*
 - hypercritical
 - **hyperopia** [n]遠視 = *hypermetropia*
@@ -3465,7 +3465,7 @@
 + inherently [adv]天性地/固有地
 
 ## here, hetero 不同/異 = *different*, other
-* heresy [n]異端邪說
+* **heresy** [n]異端邪說
 + **[heretic](/ˈhɛrɪtɪk/)** [n/adj]異教徒 = *heathen* <|> **hermetic** 
 + heretical [adj]異端的 
 + [heterodox](/ˈhɛt(ə)rə(ʊ)dɒks/) [adj]非正統的/異端的 = *unorthodox* = *maverick* = *unconventional* <--> orthodox
@@ -3486,12 +3486,12 @@
 
 ## hum 地 = *earth*
 - exhume [v]掘出, 發掘 = *excavate*
-- humus [n]腐殖質/腐質土壤
+- **humus** [n]腐殖質/腐質土壤
 + humble [adj]卑微的/低下的, 謙遜的/謙恭的, 簡陋的 [v]使謙卑 = *grovel*, 使威信掃地
 - **humility** [n]謙卑/謙遜 <|> humiliation
-+ **humiliate** [v]使屈辱/羞辱 = *mortify* = *degrade* = *chagrin*
-+ humiliation [n]羞辱/恥辱 = *opprobrium*
-+ **humdrum** [adj]無聊的/乏味的/單調的 = *boring* = *dull* = *monotonous* [n]單調 = *monotony* <|> humbug
++ **humiliate** [v]使屈辱/羞辱 = **mortify** = *degrade* = **chagrin**
++ humiliation [n]羞辱/恥辱 = **opprobrium**
++ **humdrum** [adj]無聊的/乏味的/單調的 = *dull* = *monotonous* [n]單調 = *monotony* <|> humbug
 
 ## hydr, hydro 水 = *water* == *aqua*
 - anhydrous [adj]無水的
@@ -4384,6 +4384,7 @@
 
 ## lig 綁
 * **ligate** [v][手術]綁/捆/紮
+- **ligament** [n]韌帶
 + obligate [v]使負義務 [adj]**[生]專門的** 
 + obligatory [adj]有義務的/必須的/強制性的 = *mandatory* = *compulsory*
 * obligation [n]義務/責任, 恩惠/人情, 合約/契約
@@ -5145,7 +5146,7 @@
 
 ## non 不
 - **nonagenarian** [n]九十多歲的人
-+ **_[nonchalant](/ˈnɒnʃ(ə)lənt/)_** [adj]漠不關心的/冷靜的 
++ **_[nonchalant](/ˈnɒnʃ(ə)lənt/)_** [adj]漠不關心的/冷靜的 <|> **insouciant**
 + nonchalance [n]冷漠/缺少關懷 <-- non + chal 溫暖 = *warm* + ance
 - non-committal, **noncommittal** [adj]不作許諾的/不表態的 <|> committal <-- non + committal
 + nondescript [adj]缺乏特色的 [n]沒有特色的人或物 <|> ineffable
@@ -6334,9 +6335,9 @@
 - comprehensible [adj]能充分理解的 = *lucid* = *intelligible*
 + **comprehensive** [adj]包羅萬象的 = *exhaustive* = *fulsome*, 大範圍的 = *wide*-ranging, 壓倒性的(差距)
 + **[prehensile](/prɪˈhɛnsʌɪl/)** [adj][動物]適於抓握的
-- **pregnable** [adj]易受攻擊的/有弱點的
+- **_pregnable_** [adj]易受攻擊的/有弱點的
 + **_impregnable_** [adj]攻不破的, 無法擊敗的/克服不了的
-- **impregnate** [v]使懷孕, 浸漬/使(固體)吸收(液體), 使充滿 = *saturate* <|> impregnable
+- **_impregnate_** [v]使懷孕, 浸漬/使(固體)吸收(液體), 使充滿 = *saturate* <|> impregnable
 - **reprehend** [v]譴責/責難 = **reprimand** = **reproach**
 - **reprehensible** [adj]應受譴責的 = **culpable**
 
@@ -6384,7 +6385,7 @@
 + expeditious [adj]迅速的
 + **expedition** [n]遠征/探險, 探險隊員, **迅速/敏捷**
 + **_[expedient](/ɪkˈspiːdɪənt/)_** [adj]權宜的/出於便利的 = *improvised* = *makeshift*, 合適的/恰當的 = *suitable* = *appropriate* [n]緊急措施/權宜之計 
-+ **_[expediency](/ɪkˈspiːdɪənsi/)_** [mn]方便 = *convenience* <|> [expectancy](/ɪkˈspɛkt(ə)nsi/)
++ **[expediency](/ɪkˈspiːdɪənsi/)** [mn]方便 = *convenience* <|> [expectancy](/ɪkˈspɛkt(ə)nsi/)
 - hexapod [n]有六足的節肢動物
 + impede [v]妨礙/阻礙 = *hinder* = *block* = *encumber* = *hamper* = *obstruct* = *inhibit* = *deter*
 + impediment [n][to]妨礙/阻礙物, 語言障礙/說話障礙
@@ -6538,6 +6539,7 @@
 ## pict 畫 = *paint*
 * depict [v]描繪/描述 = *delineate* = *trace* = *picture* = *limn*
 - picture [n]畫/畫像, 照片, 肖像, 畫面, 影片, 劇院, 形象/想像 [v]畫/拍攝, 描繪/描述 = *describe*, 想像
+- picture-perfect [adj]外表完美的
 * pictorial [adj]用圖表示的 = *illustrated* [n]畫刊/畫報
 * [picturesque](/ˌpɪktʃəˈrɛsk/) [adj]如詩如畫的, 生動的(作品) = *vivid*
 - pictionary [n]猜猜畫畫(1985年由Rob Angel所設計的派對遊戲)

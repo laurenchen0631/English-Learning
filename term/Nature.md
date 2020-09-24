@@ -197,6 +197,7 @@
 - [roundworm](/ˈraʊn(d)wəːm/) [n]蛔蟲
 - boll weevil [n]棉子象鼻蟲，以棉花芽和花為食的甲蟲
 - mealworm [n]粉蝨, 生於穀類麵粉中的甲蟲之幼蟲
+- katydid [n]螽斯
 
 ## Bird
 - chick [n]小雞/小鳥

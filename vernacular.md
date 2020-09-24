@@ -30,8 +30,10 @@
 - cash cow [n]搖錢樹
 - **catch-22** [n]左右兩難/進退維谷
 - cha-ching [n]錢
+- **cheap shot** [n]奚落, 偷偷摸摸的犯規/暗算
 - closed book [n]一無所知的學科/完全不懂的學科
 - **close call** [n]即將到來的災難
+- compliments of the house [n]房子的附屬品(購買房屋時免費給予的東西)
 - con artist [n]騙子/行騙者
 - Davy Jones' Locker [n]大海的海底，死亡水手沈睡的地方(水手使用的黑話)
 - diamond in the rough [n]一塊璞玉
@@ -107,6 +109,7 @@
 - **the whole kit and kaboodle/caboodle** [n]全部/全體
 - walk of life [n]各行各業/各個社會階層
 - weak link [n]薄弱的環節
+- wear and tear [n]磨損/損耗
 - **wet blanket** [n]掃興的人 = *party pooper*
 - **whack job** [n]怪人/腦子有問題的人
 - white lie [n]善意的謊言
@@ -455,6 +458,7 @@
 - exert influence over/on sth [v]發揮影響力於
 - **fall off the wagon** [v]又重新喝起酒來
 - fall/run afoul of sth [v]犯/違
+- **fall from grace** [v]失寵/失去人心
 - fall short (of sth) [v]未達到
 - feel left out [v]感到被排擠
 - few and far between [adj]不常發生/稀少
@@ -615,6 +619,7 @@
 - roll one's eyes [v]翻白眼
 - rub it in one's face [v]在傷口上灑鹽 = to point out someone's mistake or failure quite crudely
 - run amok/amuck [v]失控
+- run counter to sth [v]與...相抵觸/與...背道而馳
 - run in the family [v]家族遺傳/世代相傳
 - **run on fumes** [v]疲憊不堪
 - **_run the gauntlet_** [v]受到夾道攻撃/受到眾人的批評
@@ -684,6 +689,7 @@
 - **turn the other cheek** [v]不予還擊/不還手
 - turn the tide [v]扭轉局勢
 - be up in the air [adj]懸而未決
+- wear different hats [v]身兼多職
 - well thought out [adj]精心計劃的/經縝密思考的
 - **well thought of** [adj]受好評的/受讚揚的
 - what/how/why/.. in the world [phrase]究竟/到底
@@ -730,7 +736,7 @@
 - break into [v]突然開始做…
 - bulk up (v)增重/變壯實
 - **bum sb out** [v]讓…感到悲傷或失望
-- butt in [v]打斷/插嘴/插手
+- butt in [v]打斷/插嘴/插手 = **chip in**
 - butter sb up [v]拍馬屁
 - call for sb [v] (去某地)接(某人)
 - call for sth [v]需要/值得, 號召/呼籲
@@ -742,6 +748,7 @@
 - chat up sb [v]與…搭訕/與…調情
 - cheat on sb [v]對(丈夫或妻子)不忠
 - chicken out [v]因害怕而退縮/放棄
+- **_chip in_** [v]插嘴/插話
 - clear (sth) up [v]搞清楚/解決, 清理/整理, 治癒
 - close down (sth) [v]倒閉/停業
 - **close in on sth** [v]靠近
