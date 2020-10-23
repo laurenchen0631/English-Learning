@@ -2219,6 +2219,7 @@
 - **indenture** [n]契約/合約 = *contract* = *agreement*, 正式憑單/清單, 師徒契約, 約束 [v]以契約約束
 
 ## dur, dure 堅硬 = *hard*
+- duralumin [n]硬鋁
 - duration [n]持續期間
 - durable [adj]持久的/耐用的 = *lasting*
 + endure [v]忍耐/忍受 = *suffer*, 持續 = *last*
@@ -3247,6 +3248,7 @@
 - mimeograph [n]油印機, 油印件 [v]油印
 - **monogram** [n]交織字母/花押字 = *cipher* [v]把花押字印於
 - oceanographer [n]海洋學家
+- pentagram [n]五角星形
 - **petroglyph**
 - program [n]節目, 計畫/方案, 大綱 [v]為……安排節目, 為……制訂計畫
 - photography
@@ -6095,6 +6097,7 @@
 + empathy [n]同理心/移情
 + empathetic [adj]移情作用的
 + empathize [v]移情/產生共鳴
+- encephalopathy [n]腦病
 + sympathy [n]同情/憐憫 = *pity* = *empathy* = *compassion*, 情感共鳴, 同感/贊同, 共鳴
 + sympathetic [adj]有同情心的, 能引起共鳴的, **支持的/贊同的** <--> unsympathetic
 

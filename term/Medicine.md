@@ -1,6 +1,7 @@
 
 ## Medicine
 - oncology [n]腫瘤學
+- maxillofacial surgery [n]口腔顎面外科學
 
 - medical
 	> 醫學的 |Relating to the science or practice of medicine.| a medical centre
@@ -32,6 +33,7 @@
 - IUD == Intrauterine Device [n]宮內節育器
 
 - Prozac [n]氟西汀，商品名為百憂解是一種選擇性5-羥色胺再攝取抑制劑類抗抑鬱藥
+- sildenafil [n]西地那非，是一種研發治療心血管疾病藥物時意外發明出的治療男性勃起功能障礙藥物
 
 
 - phlebotomy 放血法 --> phlebotomist 放血師
@@ -171,6 +173,7 @@
 - schizophrenia [n]精神分裂症
 - borderline personality disorder = BPD [n]邊緣性人格障礙
 - bipolar [adj]有兩極的/兩極的, 躁鬱的
+- encephalopathy [n]腦病
 
 - hepatitis [n]肝炎
 - thalassemia [n]海洋性貧血/地中海型貧血
@@ -318,6 +321,7 @@
 - wrist [n]腕/腕關節, 衣服的腕部, 遊樑鐵栓
 - blade bone [n]肩胛骨/髆
 - cartilaginous [adj]軟骨的
+- hyoid bone [n]舌骨
 
 - muscle group [n]肌肉群
 - muscle mass [n]肌肉量
@@ -359,6 +363,7 @@
 - lymphatic [adj]淋巴的 [n]淋巴腺/淋巴管
 - vitreous humor [n]眼睛的玻璃狀液
 - gonad [n]生殖腺
+- hepatobiliary [n]肝膽
 
 - esophagus [n]食管/食道
 - alimentary canal [n]消化道

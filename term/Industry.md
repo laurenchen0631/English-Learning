@@ -84,102 +84,70 @@
 - patent infringement [n]專利侵權
 
 ## Crime/Police
-- Central Park Jogger 紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
-- Roper v. Simmons 羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
-- the Roe vs. Wade case of 1973. 羅訴韋德案，是美國聯邦最高法院於1973年對於婦女墮胎權以及隱私權的重要案例，對於婦女墮胎的問題，美國聯邦最高法院承認婦女的墮胎權，受到憲法隱私權的保護。
-- Obergefell v. Hodges 奧貝格費爾訴霍奇斯案，是美國聯邦最高法院對於同性婚姻的重要判例。 最高法院在判決中稱同性婚姻的權利受到憲法保障，各州不得立法禁止
-- molestation 性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
-- sexual assault 性侵
-- unlawful assembly 非法集會
+- Central Park Jogger [n]紐約中央公園慢跑者案，一九八九年四月十九日晚上，一名廿八歲的白人婦女在紐約中央公園慢跑時遭到嚴重毆傷並強暴，四名黑人和一名拉丁裔青少年涉嫌犯案被判刑入獄。十多年後，一名暴力慣犯承認是作案者，五名青年獲判無罪，但分別坐了七至十三年冤獄。除警、檢失職外，媒體聳動的羶腥報道也是造成冤案的主因。
+- Roper v. Simmons [n]羅珀訴西蒙斯案，宣告對於犯罪時未滿18歲之罪犯科處死刑屬於「違憲」。
+- the Roe vs. Wade case of 1973. [n]羅訴韋德案，是美國聯邦最高法院於1973年對於婦女墮胎權以及隱私權的重要案例，對於婦女墮胎的問題，美國聯邦最高法院承認婦女的墮胎權，受到憲法隱私權的保護。
+- Obergefell v. Hodges [n]奧貝格費爾訴霍奇斯案，是美國聯邦最高法院對於同性婚姻的重要判例。 最高法院在判決中稱同性婚姻的權利受到憲法保障，各州不得立法禁止
+- molestation [n]性騷擾 == Sexual assault or abuse of a person, especially a woman or child.
+- sexual assault [n]性侵
+- unlawful assembly [n]非法集會
 - the Reid interrogation technique == the Reid technique == a method of questioning suspects that was developed in the 1950s in the United States by John E. Reid
-- hijack == highjack
-	> 劫持 |Unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.| a man armed with grenades hijacked the jet yesterday
-	> 劫持 |An incident or act of hijacking.|
-	> 運送中竊取 |Steal (goods) by seizing them in transit.| the UN convoys have been tamely allowing gunmen to hijack relief supplies
-	> |Take over (something) and use it for a different purpose.| he argues that pressure groups have hijacked the environmental debate
-- pedophile 戀童癖 == A person who is sexually attracted to children.	
-- gangster 犯罪集團成員 == A member of a gang of violent criminals.
-- gangsterism 集團犯罪
-- [heist](/hʌɪst/) 
-	> 搶劫 |A robbery.| a diamond heist
-	> 偷 |Steal.| he heisted a Pontiac
+- hijack == highjack [v]劫持, 運送中竊取 [n]劫持
+- pedophile [n]戀童癖 == A person who is sexually attracted to children.	
+- gangster [n]犯罪集團成員 == A member of a gang of violent criminals.
+- gangsterism [n]集團犯罪
+- [heist](/hʌɪst/) [n]搶劫 [v]偷
 - thug 暴徒 == A violent person, especially a criminal.
 - maim 使殘廢 == Wound or injure (a person or animal) so that part of the body is permanently damaged.
-- plunder
-	> 搶劫 |Steal goods from (a place or person), typically using force and in a time of war or civil disorder.| looters moved into the disaster area to plunder shops
-	> 掠奪 |Steal (goods), typically using force and in a time of disorder.| the contents of the abandoned houses were plundered by members of the new regime
-	> 侵吞 |Take material from (artistic or academic work) for one's own purposes.| we shall plunder related sciences to assist our research
-	> 劫掠/侵吞 |The violent and dishonest acquisition of property.| the commander refused to maintain his troops through pillage and plunder
-	> 非法取得的東西 |Property acquired illegally and violently.| the army sacked the city and carried off huge quantities of plunder
-- pilfer 偷
-- tax shelter 避稅
+- plunder [v]搶劫/掠奪 = *strip*, 侵吞/侵佔 [mn]搶劫/盜竊, 搶劫之物
+- pilfer [v]偷
+- tax shelter [n]避稅
 - plagiarism 抄襲/剽竊 == The practice of taking someone else's work or ideas and passing them off as one's own.
 - squat [v]蹲, 非法佔據 [n]蹲, 被非法佔據的建築, 非法佔據 [adj]矮胖的
-- scam
-	> 詐騙 |A dishonest scheme; a fraud.| an insurance scam
-	> 詐騙 |Swindle.| a guy that scams old pensioners out of their savings
-- fraudster 詐騙份子 == A person who commits fraud, especially in business dealings.
-- racketeering 勒索/詐騙/敲詐
-- vagrancy 流浪罪 == the state of being or living like a vagrant 
-- high treason 大逆罪/高度叛國罪
-- bootlegging 販賣私酒/非法釀酒
-- molest
-	> 調戲/猥褻 |Assault or abuse (a person, especially a woman or child) sexually.| he was charged with molesting and taking obscene photographs of a ten-year-old boy
-	> 騷擾 |Pester or harass (someone) in an aggressive or persistent manner.| the crowd were shouting abuse and molesting the two police officers
-+ poach
-	> 水煮 |Cook (an egg) without its shell in or over boiling water.| a breakfast of poached egg and grilled bacon
-	> 隔水煮 |Cook by simmering in a small amount of liquid.| poach the salmon in the white wine
-	> 盜獵 |Illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection.|
-	> 侵佔/竊取 |Take or acquire in an unfair or clandestine way.| employers risk having their newly trained workers poached by other firms
-	> |(of an animal) trample or cut up (turf) with its hoofs.| zero-grazing saves the fields from poaching
--[](/ˈfjuːdʒɪtɪv/) fugitive [n]逃犯 [adj]轉瞬即逝的
-+ inmate 囚犯/住院者 == A person living in an institution such as a prison or hospital.
-- felon 重罪犯 --> felony 重罪 == A crime regarded in the US and many other judicial systems as more serious than a misdemeanour.
-- [burglar](/ˈbəːɡlə/) 入室盜竊者/竊賊 == A person who commits burglary.
-- burglary 破門竊盜
-- auto theft 竊車 == The theft of a motor vehicle
-- money laundering 洗錢
-- obstruction of justice 妨礙司法公正
-- human trafficking 人口販賣
-- mugshot 員警為嫌疑犯拍的臉部照片 == a photograph taken by the police of a person who has been charged with a crime
-- cordon
-	> 封鎖線 |A line or circle of police, soldiers, or guards preventing access to or from an area or building.|
-	> |A fruit tree trained to grow as a single stem.|
-	> 飛簷層 |A projecting course of brick or stone on the face of a wall.|
-- cordon sth off 封鎖隔離 == Prevent access to or from an area or building by surrounding it with police or other guards.
-	> the city centre was cordoned off after fires were discovered in two stores
-- snoop
-	> 窺探 |Investigate or look around furtively in an attempt to find out something, especially information about someone's private affairs.| your sister might find the ring if she goes snooping about
-	> 窺探 |A furtive investigation.| I could go back to her cottage and have another snoop
-	> 私家偵探/狗仔 |A person who furtively tries to find out information about someone's private affairs.| I start talking without admitting that I'm a professional snoop
-- narc, nark 緝查毒品的刑警 == An official narcotics agent.
-- treason [n]叛國罪, 背叛/不忠 --> treasonable [adj]背叛的/叛國的
+- scam [n/v]詐騙
+- fraudster [n]詐騙份子 == A person who commits fraud, especially in business dealings.
+- racketeering [n]勒索/詐騙/敲詐
+- vagrancy [n]流浪罪 == the state of being or living like a vagrant 
+- high treason [n]大逆罪/高度叛國罪
+- bootlegging [n]販賣私酒/非法釀酒
+- molest [v]調戲/猥褻, 騷擾
++ poach [v]水煮, 隔水煮, 盜獵, 侵佔/竊取
+- [fugitive](/ˈfjuːdʒɪtɪv/)  [n]逃犯 [adj]轉瞬即逝的
++ inmate [n]囚犯/住院者 == A person living in an institution such as a prison or hospital.
+- felon [n]重罪犯
+- felony 重罪 
+- [burglar](/ˈbəːɡlə/) [n]入室盜竊者/竊賊 == A person who commits burglary.
+- burglary [n]破門竊盜
+- auto theft [n]竊車 == The theft of a motor vehicle
+- money laundering [n]洗錢
+- obstruction of justice [n]妨礙司法公正
+- human trafficking [n]人口販賣
+- mugshot [n]員警為嫌疑犯拍的臉部照片 == a photograph taken by the police of a person who has been charged with a crime
+- cordon [n]封鎖線, 飛簷層
+- cordon sth off [v]封鎖隔離 == Prevent access to or from an area or building by surrounding it with police or other guards.
+- snoop [n/v]窺探 [n]私家偵探/狗仔
+- narc, nark [n]緝查毒品的刑警 == An official narcotics agent.
+- treason [n]叛國罪, 背叛/不忠
+- treasonable [adj]背叛的/叛國的
 - mail and wire fraud [n]郵件欺詐和電匯欺詐
 
 ## Army/Military
-- captain
-- lieutenant 中尉/少尉, 海軍上尉 
-- outpost
-	> 前哨 |A small military camp or position at some distance from the main army, used especially as a guard against surprise attack.| troops in some outposts have surrendered
-	> |A remote part of a country or empire.| a few scattered outposts along the west coast
-- sergeant == A rank of non-commissioned officer in the army or air force, above corporal and below staff sergeant.
-- sergeant-at-arms 議會警衛官
-- tear gas 催淚彈
-- flak
-	> 防空炮 |Anti-aircraft fire.|
-	> 批評/抨擊 |Strong criticism.| you must be strong enough to take the flak if things go wrong
-* armed forces 軍隊
-- Silver Star 銀星勳章，美軍跨軍種通用勛獎，它是美國聯邦軍事勛獎中等級最高的軍事獎章
-- gendarme 法國憲兵 == A paramilitary police officer in France and other French-speaking countries.
-- [shrapnel](/ˈʃrapn(ə)l/) 
-	> 砲彈碎片 |Fragments of a bomb, shell, or other object thrown out by an explosion.| he was killed by flying shrapnel
-	> 榴散彈 |A shell containing bullets or pieces of metal timed to burst short of impact.|
-- paramilitary 非法軍事組織(的) == (of an unofficial force) organized similarly to a military force.
-- reservist 預備役軍人
-- naval 船的/海軍的 == Relating to a navy or navies.
-- active duty == a full-time occupation as part of a military force, as opposed to reserve duty.
-- West Point 西點軍校
-- general staff 全體參謀/參謀部 == the group of army officers who work for and give advice to a commanding officer
+- lieutenant [n]中尉/少尉, 海軍上尉 
+- outpost [n]前哨
+- sergeant [n]軍士, 巡佐/警佐
+- sergeant-at-arms [n]議會警衛官
+- tear gas [n]催淚彈
+- flak [mn]高射砲, 指責/抨擊
+* armed forces [n]軍隊
+- Silver Star [n]銀星勳章，美軍跨軍種通用勛獎，它是美國聯邦軍事勛獎中等級最高的軍事獎章
+- gendarme [n]法國憲兵 == A paramilitary police officer in France and other French-speaking countries.
+- [shrapnel](/ˈʃrapn(ə)l/) [n]砲彈碎片, 榴散彈
+- paramilitary [adj]非法軍事組織(的) == (of an unofficial force) organized similarly to a military force.
+- reservist [n]預備役軍人
+- naval [adj]船的/海軍的 == Relating to a navy or navies.
+- active duty [n]現役 == a full-time occupation as part of a military force, as opposed to reserve duty.
+- West Point [n]西點軍校
+- general staff [n]全體參謀/參謀部 == the group of army officers who work for and give advice to a commanding officer
 + [espionage](/ˈɛspɪənɑːʒ/) 諜報活動 == The practice of spying or of using spies, typically by governments to obtain political and military information.
 - warhead 彈頭 == The explosive head of a missile, torpedo, or similar weapon.
 + [sabotage](/ˈsabətɑːʒ/) 
@@ -422,8 +390,10 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - prosecco [n]普羅賽柯，一種義大利起泡葡萄酒
 - lemonade [n]檸檬水
 - ice block [n]冰棒
+- snow cone [n]剉冰/雪花冰沙
 - cider [n]發酵蘋果汁, 未發酵的水果汁
 - vinegar [n]醋, 尖酸刻薄
+- eggnog [n]蛋酒
 
 - gamey, gamy [n]野味
 - bratwurst [n]德國油煎香腸
@@ -1356,6 +1326,8 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - washi tape [n]和紙膠帶
 - chest of drawers [n]五斗櫃
 - **Tetra Brik** [n]瑞典包裝公司利樂包生產的紙箱包裝的名稱(是利樂包裝家族中最知名和最暢銷的包裝，以至於利樂布里克有時被誤認為商標名)
+- bathmat [n]浴室足墊
+- life jacket [n]救生衣
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 
@@ -1413,6 +1385,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - Zima [n]一種碳酸酒精飲料
 - Ritalin [n]立得寧(醫界廣泛使用的治療兒童過動病症藥物)
 - Nutter Butter [n]美國的餅乾品牌，據稱它是美國最暢銷的花生醬三明治餅乾
+- Gatorade [n]開特力，一種非碳酸性運動飲料
   
 ## Other
 - [whorehouse](/ˈhɔːhaʊs/) 妓院 == brothel

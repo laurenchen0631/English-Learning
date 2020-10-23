@@ -422,6 +422,7 @@
 - [dandelion](/ˈdandɪlʌɪən/) [n]蒲公英
 - [balsam](/ˈbɔːlsəm/) [n]香脂, 產香脂的樹, 鳳仙花
 - ravintsara [n]桉油樟羅文莎葉精油(主要萃取自馬達加斯加的樟樹葉子)
+- hyacinth [n]風信子, 紅鋯石
 
 - milkweed [n]乳草 
 - [mandrake](/ˈmandreɪk/) [n]曼陀羅草

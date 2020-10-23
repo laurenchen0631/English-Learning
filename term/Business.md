@@ -1,26 +1,30 @@
 
 ## Title/Job
-- chief executive [n]首席執行官
-- the general manager [n]總經理
-- chairman [n]議長/委員長/董事長
+- advisory board [n]顧問委員會
+- benefits manager [n]企業福利主管
+- blue-collar [adj]藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
 - board member [n]董事會成員
++ [bourgeoisie](/ˌbʊəʒwɑːˈziː/) [n]中產階級
+- brain trust [n]智囊團/顧問團/諮詢團 == a group of people who advise a leader
+- C-suite [n]the group of the most important managers in a company, for example, those whose titles begin with the letter C, for "chief"
+- CFO == Chief Financial Officer [n]財務長
+- chairman [n]議長/委員長/董事長
+- chief executive [n]首席執行官
+- COO == Chief Operating Officer [n]營運長
+- CPA == Certified Public Accountant [n]註冊會計師
+- deputy director [n]副主任
+- executive director [n]執行董事
+- General Secretary [n]總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
+- help desk [n]客戶服務部
+- higher-up [n]高層人物/要員 
+- personnel [n]人員, 人事部門
+- rank and file [n]普通職務
+- the general manager [n]總經理
 - undersecretary [n]次長
 - VP == Vice President [n]副總統/副總裁/副總經理
-- executive director [n]執行董事
-- C-suite == the group of the most important managers in a company, for example, those whose titles begin with the letter C, for "chief"
-- CFO == Chief Financial Officer [n]財務長
-- COO == Chief Operating Officer [n]營運長
-- benefits manager [n]企業福利主管
-- deputy director [n]副主任
-- General Secretary [n]總書記 == the person in charge of an organization, for example, a trade union (= an organization that represents workers) or political part
-- CPA == Certified Public Accountant [n]註冊會計師
 
-- advisory board [n]顧問委員會
-- brain trust [n]智囊團/顧問團/諮詢團 == a group of people who advise a leader
-- personnel [n]人員, 人事部門
-- help desk [n]客戶服務部 == a service that provides information and help to people, especially those using a computer network
-
-- aide-de-[camp](/ˌeɪddəˈkɒ̃/) [n]副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
+## Job
+- [aide-de-camp](/ˌeɪddəˈkɒ̃/) [n]副官/隨從武官 == A military officer acting as a confidential assistant to a senior officer.
 - attaché[s](/əˈtaʃeɪ/) [n]專員 == A person on the staff of an ambassador having a specialized area of responsibility.
 - bouncer [n]保鑣 == A person employed by a nightclub or similar establishment to prevent troublemakers and other unwanted people entering or to eject them from the premises.
 - chancellor [n]大臣/總理, 大法官, 大學校長
@@ -29,23 +33,18 @@
 - dean [n]司祭長/教長, 學院院長
 - fire marshal [n]消防員, 消防署署長/消防隊長
 - foreman [n]工頭/領班, 陪審團主席
+- funeral home == funeral parlor [n]殯儀館 = mortuary
 - homemaker [n]主婦
 - lumberjack [n]伐木工人
 - pencil pusher [n]機關辦事員/文書 == a person who has an office job that is not interesting
 - secretary [n]祕書 == A person employed by an individual or in an office to assist with correspondence
+- sidekick [n]助手 == A person's assistant or close associate, especially one who has less authority than that person.
 - spokesperson [n]發言人/代言人 == spokesman or spokeswoman
 - steward [n]服務員, 膳務員, 幹事/籌備員, 籌備, 工會代表, 管理, 財產管理人/管家 
-- sidekick [n]助手 == A person's assistant or close associate, especially one who has less authority than that person.
 - tour guide [n]導遊
 - undertaker [n]殯葬業者 == A person whose business is preparing dead bodies for burial or cremation and making 
-- funeral home == funeral parlor [n]殯儀館 = mortuary
 - welder [n]焊接工人
-
-- rank and file [n]普通職務 == the ordinary workers in a company or the ordinary members of an organization, and not the leaders
-- blue-collar [adj]藍領的(簡單來說就是從事勞動工作的雇員，藍領族的生活型態很明顯的不是在辦公桌前從事文書工作)
-+ [bourgeoisie](/ˌbʊəʒwɑːˈziː/) [n]中產階級
-- higher-up [n]高層人物/要員 == someone with a more important position than you in an organization
-
+  
 ## Company/Store
 - off-duty [adj]不當班的/下了班的 == not engaged in or occupied with regular work, not on duty 
 - overtime [mn]加班, 加班費, 加時賽 [adv]加班地
