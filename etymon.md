@@ -4977,6 +4977,7 @@
 + amortize [v]分期償還 = *acquit*
 - immortal [adj]不朽的
 - immortalize [v]使不滅/使不朽
+- morgue [n]停屍房/太平間
 - mortality [n]死亡 = *demise*, 大規模死亡, 死亡率
 - **_[mortgage](/ˈmɔːɡɪdʒ/)_** [n]抵押貸款/抵押證書/抵押契據 [v]用...做抵押
 + **mortify** [v]使感屈辱/使羞愧 = *humiliate* = *discomfit*, 禁慾/克制, 被壞疽感染/腐壞
@@ -5984,7 +5985,7 @@
 ## pur 附近 = *around*
 - purchase [n/v]購買 [n]所購之物, **支點/槓桿**, 緊抓/緊繫
 - **[purlieu](/ˈpəːljuː/)** [n]郊區, 常逗留之地/常去的地方 = *haunt* <|> milieu <-- pur + lieu 場所 = *place*
-- **[purloin](/pəːˈlɔɪn/)** [v]盜取/偷竊 <-- pur + loin 距離 = *distance*
+- **[purloin](/pəːˈlɔɪn/)** [v]盜取/偷竊 <--> loincloth <-- pur + loin 距離 = *distance*
 + **purport** [v]貌似 [n]要旨, 意圖
 + purported [adj]謠傳的/據稱的 = *reputed* = *alleged*
 + purportedly [adv]據稱 = *anecdotally*

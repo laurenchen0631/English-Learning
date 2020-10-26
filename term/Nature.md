@@ -37,6 +37,7 @@
 - cell wall [n]細胞壁
 - hybridization (mn)混種
 - conspecific [adj]同種的 [n]同種生物
+- allomone [n]異種激素/利己傳訊素
 
 - bird feeder [n]餵鳥器
 
@@ -52,6 +53,8 @@
 - [papilla](/pəˈpɪlə/) -> papillae [n]乳突 == A small rounded protuberance on a part or organ of the body.
 - saliva [n]涎/唾液
 - filament [n]細絲/長絲, 燈絲
+- cloaca [n]泄殖腔, 下水溝
+
 
 - [larva](/ˈlɑːvə/) -> larvae [n]幼蟲/幼體 <-->[](/ˈlʌvə/) lover
 - [nymph](/nɪmf/) [n]居於山林水澤的仙女, 美麗的少女, 蛹
@@ -60,7 +63,8 @@
 
 - cannibal [n]食人者, 同類相食的動物
 - [scavenger](/ˈskavɪn(d)ʒə/) [n]食腐動物, 拾荒者
-- [ectotherm](/ˈɛktəʊθəːm/) [n]外溫動物 --> ectothermic [adj]外溫動物的
+- [ectotherm](/ˈɛktəʊθəːm/) [n]外溫動物
+- ectothermic [adj]外溫動物的
 - endotherm [n]內溫動物
 - [mutualism](/ˈmjuːtʃʊəlɪz(ə)m/) [n]互利共生, 互助
 - [commensalism](/kəˈmɛns(ə)lɪz(ə)m/) [n]片利共生
@@ -74,7 +78,7 @@
 - diel vertical migration [n]晝夜垂直遷移(是一些生物使用的運動模式) 
 - [diel](/ˈdiːl/) [adj]一晝夜的
 
-[Cell/Bacteria]
+## Cell/Bacteria
 - eukaryote [n]真核生物
 - eukaryotic [adj]真核生物的
 - Ediacara [n]埃迪卡拉生物群，是一種神秘的管狀或葉狀生物，生活在前寒武紀時代。它們是目前所發現最早的多細胞生物
@@ -198,6 +202,7 @@
 - boll weevil [n]棉子象鼻蟲，以棉花芽和花為食的甲蟲
 - mealworm [n]粉蝨, 生於穀類麵粉中的甲蟲之幼蟲
 - katydid [n]螽斯
+- phasmid [n]竹節蟲
 
 ## Bird
 - chick [n]小雞/小鳥

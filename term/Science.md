@@ -168,6 +168,7 @@
 - serotonin [n]血清素/5-羥色胺
 - organochlorine [n]有機氯化合物
 - chitin [n]幾丁質
+- serotonin [n]血清素
 
 ## Physical
 - entropy [n]熵, 混亂/失序

@@ -1328,6 +1328,7 @@ t from one place to another on short or regular trips.| ambulances ferried the i
 - **Tetra Brik** [n]瑞典包裝公司利樂包生產的紙箱包裝的名稱(是利樂包裝家族中最知名和最暢銷的包裝，以至於利樂布里克有時被誤認為商標名)
 - bathmat [n]浴室足墊
 - life jacket [n]救生衣
+- Mazut [n]一種重質低質量燃油，用於發電廠和類似應用中
 
 ## Shorthand
 - NATO [n]北大西洋公約組織 =  North Atlantic Treaty Organization 

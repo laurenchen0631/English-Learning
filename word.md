@@ -1079,6 +1079,8 @@
 - cinematic [adj]電影的
 - **chafe** [v]擦傷, 磨損, 擦熱, 使焦躁 [mn]擦傷
 - chameleon [n]變色龍, 善變的人
+- chapel [n]小禮拜堂, 禮拜
+- chaperone [n] (陪伴未婚少女的)年長女伴, 年長者/行為監督人 [v]陪伴/陪同
 - [chariot](/ˈtʃarɪət/) [n]雙輪戰車, 十八世紀的四輪禮車 [v]駕馭戰車
 - **_[chartreuse](/ʃɑːˈtrəːz/)_** [n]淡黃綠色 [adj]淡黃綠色的
 - chickpea [n]雞豆/鷹嘴豆
@@ -1136,6 +1138,7 @@
 - clip [n]夾/鉗/迴紋針, 彈夾, 速度, 片段/短片 [v]夾住, 剪/修剪 = *cut* = *trim* = *crop*, 騙取/搶劫 = *swindle* = *rob*, 快速移動
 - **clipper** [n]大剪刀/剪具, 快速帆船 = *clipper ship*
 - **clobber** [v] **[非]痛打** = *batter*, 嚴格處理, **在(瓷器)上加上琺瑯**
+- cloaca [n]下水溝, 泄殖腔
 - close [v][down]倒閉 
 - close-up [n]特寫照片
 - closing [adj]最後的/結尾的 = *final*
@@ -1204,6 +1207,7 @@
 - **_corny_** [adj]陳腐的/老掉牙的
 - corona [n]日冕, (太陽或月球周圍的)暈, [解]冠狀部位, (教堂的)環形吊燭架, [建]挑簷滴水板, 長雪茄菸
 - coronation [n]加冕儀式
+- **coroner** [n]驗屍官
 - corps [n]部隊, 團/隊
 - corrigible [adj]可改正的/易矯正的
 - corrugated [adj]成波狀的
@@ -1880,7 +1884,7 @@
 * **fussy** [adj]挑剔的 = *fastidious* = *picky* = *choosy* = *finicky* = *thorough*, 大驚小怪的 = *overwrought*, 充滿細節的
 ***
 - fade [v]變微弱/逐漸消失, 凋謝/枯萎, 褪色, [away]凋零, (影像)淡出 [mn]褪色 [n]淡出
-- **fag** [n]受高年級男生使喚的低年級男生, [冒犯]男同性戀者, 香煙, 枯燥的工作/苦差事
+- **fag** [n]受高年級男生使喚的低年級男生, [冒犯]男同性戀者, 香煙, 枯燥的工作/苦差事 [v]苦幹
 - fair-minded [adj]公平對待每個人的 
 - falcon [n]獵鷹/隼
 - fall -> fell -> fallen [v]落下, [off]掉下, 垂下, 向下傾斜, [into] (河水)流入, 向下看, (臉)垮下, 跌倒, 使跌到地上, 倒塌, 減少/下降, **[away]比的比較差**, 陷落, 戰死, 被推翻, 陷入, 發生, **[to Ving]開始做**, 被分類於, [through]未發生/失敗/落空 [n]落下, 落下姿勢, 落差, 落下物, 突然的開始, 瀑布, 垂下方式, 花垂, 減少, 陷落, 墮落, 秋天
@@ -3147,6 +3151,8 @@
 - **locust** [n]蝗蟲, 蟬 = *cicada*, 刺槐豆 = *locust bean*, 刺槐 = *locust*
 - lode [n]礦脈, 泉源
 - lodestar [n]指示方向之星/北極星, 導師/引導物
+- **loin** [n]腰/腰部, 腰肉 <--> purloin
+- loincloth [n]腰布
 - loll [v]懶散地躺著或坐著 = *slouch*, (身體)下垂 = *droop*, 伸出(舌頭)
 - longtime [adj]做很久的(工作或事情)
 - **_longhand_** [adj]手寫的 [n]草書 = *cursive*
@@ -3647,6 +3653,7 @@
 - nativism [n]排外主義, 先天論
 - naturalization [n] (外國人的)歸化, (動植物的)移植, (外國的習慣、語言等)移入/同化, 自然化/天然化
 - naval [adj]船的/海軍的
+- nave [n]教堂中殿
 - navel [n]肚臍, 中央/中心
 - **navel-gazing** [n]紙上談兵/光說不練/過分自省
 - neat [adj]整潔的/整齊的, 愛乾淨的, 好看的, 熟練的, 輕率的 = *facile*, 純的, [非]好的/妙的 
@@ -4250,6 +4257,7 @@
 - **practically** [adv]幾乎 = **virtually** = *almost*, 特定地
 - practitioner [n]實踐者/開業者
 - **praline** [n]胡桃糖/杏仁糖, 杏仁巧克力
+- prance [v]雀躍, (馬)騰躍, 使(馬)騰躍 [n]昂首闊步
 - prayer [n]祈禱, 禱告式, 祈願
 - **prawn** [n]明蝦 <|> **shrimp**
 - preen [v]用喙整理羽毛, [oneself]打扮修飾, [oneself]洋洋自得
@@ -4260,6 +4268,7 @@
 - **prion** [n]傳染性蛋白質/病原性蛋白顆粒
 - prise, prize [v]撬開 = *pry*
 - **_prissy_** [adj]拘謹的/一絲不苟的
+- **_proletariat_** [n]無產階級/勞工階級
 - **_promiscuous_** [adj]濫交的/淫亂的, 不加區別的/隨意的 = *indiscriminate*, 各式各樣東西組成的
 - prone [adj][to]有...傾向的/易於遭受...的, 俯臥的
 - **prong** [n]叉子的分支, 分岔/分支, [俗]陰莖 = *penis*, 火力分散 <|> tine <|> tong
@@ -4292,6 +4301,7 @@
 - punk [n]龐客 = *punk rocker*, 龐克搖滾樂迷, [非]小流氓/無賴, 男同性戀者, 生手, 朽木 [adj]龐客的, **[非]糟糕的** [v][非]欺騙, 徹底擊敗
 - **_puny_** [adj]弱小的, 糟糕的/微不足道的
 - pure [adj]純粹的/純淨的, 純種的 = *pedigree*, 清亮的, 貞潔的, 純理論的, 完全的 = *sheer*
+- purebred [adj]純種的
 - purity [n]純淨, 貞潔
 - purify [v]使潔淨/淨化, [from]提純 = *extract*
 - **puritanism** [n]清教主義 <|> **protestant**
@@ -5214,6 +5224,7 @@
 - **_singe_** [v]把……微微燒焦 [n]表面灼傷 <|> sere <|> scorch
 - **sip** [v]小口喝/啜飲 [n]一小口 <|> **sop**
 - siphon, syphon [n]虹吸管, 虹管 [v]用虹吸管吸出, (非法)輸送
+- [sire](/sʌɪə/) [n]公畜, 男性祖先/父親, 陛下 [v]生殖
 - siren [n]汽笛/警報器, 塞壬, 妖婦, 鰻螈
 - **sissy** [n]膽小的男子 [adj]娘娘腔的/柔弱的 <|> **sassy**
 - **sizable** [adj]相當大的/相當的
@@ -5524,6 +5535,7 @@
 - [supper](/ˈsʌpə/) [n]晚餐/晚飯
 - surge [n/v]湧現/奔湧, 遽增, 增兵, (情感)湧起/翻湧
 - surgeon [n]外科醫師, 軍醫/船醫
+- sucrose [n]蔗糖
 - **suss** [v]**[out]意識到/明白/發現** <|> **sussy**
 - **[suture](/ˈsuːtʃə/)** [n]傷口縫線 [n/v]縫合 <-- sew
 - **[sutra](/ˈsuːtrə/)** [n]佛經
@@ -6486,7 +6498,7 @@
 - dear me [excl]天啊
 - gee [excl]天哪
 - golly [excl]天啊
-- heck [excl]見鬼
+- **heck** [excl]見鬼 <--> heckle
 - humph [excl]哼
 - tush [excl]呸(表示不贊成、輕蔑等所發的聲音) <|> tushie
 - yikes [excl]咦
